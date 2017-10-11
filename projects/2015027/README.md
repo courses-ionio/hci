@@ -1,9 +1,9 @@
 #Super Mario, Σεβαστιανός, Μέμος, Π2015027
 
-##Παραδοτέο 1
-https://github.com/sevosmem/hci
-https://github.com/sevosmem/Super-Mario
-https://sevosmem.github.io/Super-Mario/
+##Παραδοτέο 1<br>
+https://github.com/sevosmem/hci<br>
+https://github.com/sevosmem/Super-Mario<br>
+https://sevosmem.github.io/Super-Mario/<br>
 
 
 ##Παραδοτέο 2
