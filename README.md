@@ -24,3 +24,4 @@
 * [Ο Προγραμματισμός της Διάδρασης](http://www.pibook.gr)
 
 **Βαθμολογία:** 60% [project](https://courses-ionio.github.io/projects/), 40% Τελική εξέταση
+
