@@ -5,7 +5,7 @@ Forked hci repository: https://github.com/andreanastil/hci
 
 Forked DataVisualisation repository: https://github.com/andreanastil/D3js-uk-political-donations
 
-Personal Github Page url: https://andreanastil.github.io/D3js-uk-political-donations/full-viz.html
+Personal DataVisualisation Github Page: https://andreanastil.github.io/D3js-uk-political-donations/
 
 ##### Παραδοτέο 2
 ...
