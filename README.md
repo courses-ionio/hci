@@ -1,3 +1,8 @@
+P2016031
+ΔΗΜΗΤΡΙΟΣ ΧΛΩΡΟΣ
+SYPER MARIO
+https://github.com/JIMCHLOROS/Super-Mario
+
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
 Οι διαθέσιμες [εργασίες](https://courses-ionio.github.io/projects/) είναι αυτές που έχουν τον κωδικό HCI δίπλα στον τίτλο τους
