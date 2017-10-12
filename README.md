@@ -37,9 +37,7 @@ DATA VISUALIZATION
 ΠΑΡΑΔΟΤΕΟ 4ο:https://github.com/ioniodi/D3js-uk-political-donations/issues/1
 
 ΚΩΔΙΚΑΣ:https://github.com/chatzis4/D3js-uk-political-donations/blob/master/chart.js 
-
-        https://github.com/chatzis4/D3js-uk-political-donations/blob/master/full-viz.html 
-        
-        https://github.com/chatzis4/D3js-uk-political-donations/blob/master/style.css
+ https://github.com/chatzis4/D3js-uk-political-donations/blob/master/full-viz.html 
+ https://github.com/chatzis4/D3js-uk-political-donations/blob/master/style.css
 
 ΕΚΤΕΛΕΣΙΜΟ:http://neilhawkins.github.io/d3-uk-political-donations/full-viz.html
