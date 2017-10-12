@@ -24,3 +24,22 @@
 * [Ο Προγραμματισμός της Διάδρασης](http://www.pibook.gr)
 
 **Βαθμολογία:** 60% [project](https://courses-ionio.github.io/projects/), 40% Τελική εξέταση
+
+
+DATA VISUALIZATION
+
+ΠΑΡΑΔΟΤΕΟ 1ο:https://github.com/ioniodi/D3js-uk-political-donations/issues/4 
+
+ΠΑΡΑΔΟΤΕΟ 2ο:https://github.com/ioniodi/D3js-uk-political-donations/issues/3
+
+ΠΑΡΑΔΟΤΕΟ 3ο:https://github.com/ioniodi/D3js-uk-political-donations/issues/2 
+
+ΠΑΡΑΔΟΤΕΟ 4ο:https://github.com/ioniodi/D3js-uk-political-donations/issues/1
+
+ΚΩΔΙΚΑΣ:https://github.com/chatzis4/D3js-uk-political-donations/blob/master/chart.js 
+
+        https://github.com/chatzis4/D3js-uk-political-donations/blob/master/full-viz.html 
+        
+        https://github.com/chatzis4/D3js-uk-political-donations/blob/master/style.css
+
+ΕΚΤΕΛΕΣΙΜΟ:http://neilhawkins.github.io/d3-uk-political-donations/full-viz.html
