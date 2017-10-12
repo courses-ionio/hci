@@ -3,7 +3,7 @@
 
 ##Παραδοτέο 1
 
-Forked Repo: https://github.com/vaggos312/hci Repo(pacman):https://github.com/vaggos312/Pacman gh-pages:https://vaggos312.github.io/Pacman/
+Forked Repo: https://github.com/vaggos312/hci Repo(pacman):https://github.com/vaggos312/pacman gh-pages:https://vaggos312.github.io/pacman/
 
 ##Παραδοτέο 2
 
