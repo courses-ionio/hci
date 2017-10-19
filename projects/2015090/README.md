@@ -7,7 +7,8 @@ Data visualization
 
 Forked Repository https://p15gkou.github.io/D3js-uk-political-donations/
 
-https://github.com/p15gkou/D3js-uk-political-donations
+https://ioniodi.github.io/D3js-uk-political-donations/full-viz.html
+
 
 Παραδοτέο 2
 
