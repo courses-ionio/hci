@@ -3,7 +3,9 @@
 
 Παραδοτέο 1
 
-Forked Repository (Super-Mario): https://github.com/p15gkou/Super-Mario Forked Repository: https://github.com/p15gkou/hci GH-Pages (Super-Mario): https://p15gkou.github.io/Super-Mario/
+Forked Repository https://p15gkou.github.io/D3js-uk-political-donations/
+
+https://github.com/p15gkou/D3js-uk-political-donations
 
 Παραδοτέο 2
 
