@@ -11,7 +11,7 @@
 Για την απαλοιφή της κατάληξης ".html" στο url της εφαρμογής, αρκεί να μετανομάσουμε το αρχείο full-viz.html σε index.html.
 ##### Παραδοτέο 2
 
-* Για την αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα τροποποιήσα τον κώδικα στο chart.js
+* Για την αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα τροποποιούμε τον κώδικα στο chart.js
 
   ```
   var fill = d3.scale.ordinal().range(["#ABD91F", "#FF1FAB", "#991337"]);
@@ -50,7 +50,7 @@
   </li>
   <li><a href="#" onmousedown="button_sound.play()" role="button" class="pure-button switch" id="group-by-amount">Split by amount of  donation</a>
   ```    
-* Για να ανοίγει ένα νέο παράθυρο όταν κανουμε κλικ σε κάποια μπάλα με το αποτέλεσμα google search για τον δωρητή της μπάλας αυτής,
+* Για να ανοίγει ένα νέο παράθυρο όταν κανουμε κλικ σε κάποια μπάλα, με το αποτέλεσμα google search για τον δωρητή της μπάλας αυτής,
   τροποποιούμε το chart.js.
   
   Ορίζουμε μία νέα συνάρτηση click(d)
@@ -69,11 +69,11 @@
   
   ```
   .on("mouseover", mouseover)
-	.on("mouseout", mouseout)
-		// Alternative title based 'tooltips'
-		// node.append("title")
-		//	.text(function(d) { return d.donor; });
-	.on("click", click);
+  .on("mouseout", mouseout)
+  // Alternative title based 'tooltips'
+  // node.append("title")
+  //	.text(function(d) { return d.donor; });
+  .on("click", click);
   ```
    
   
