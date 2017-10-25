@@ -1,3 +1,8 @@
+Δημήτρης Χλωρός
+Π2016031
+super mario
+https://github.com/JIMCHLOROS/Super-Mario/tree/2016031
+
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
 Οι διαθέσιμες [εργασίες](https://courses-ionio.github.io/projects/) είναι αυτές που έχουν τον κωδικό HCI δίπλα στον τίτλο τους
