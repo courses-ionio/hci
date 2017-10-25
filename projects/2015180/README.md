@@ -3,7 +3,7 @@
 ##### Παραδοτέο 1 
 
 * Forked hci repository: https://github.com/andreanastil/hci
-
+ 
 * Forked DataVisualisation repository: https://github.com/andreanastil/D3js-uk-political-donations
 
 * Personal DataVisualisation Github Page: https://andreanastil.github.io/D3js-uk-political-donations/
@@ -16,7 +16,24 @@
   ```
   var fill = d3.scale.ordinal().range(["#ABD91F", "#FF1FAB", "#991337"]);
   ```
-
+  Για την αλλαγή των χρωμάτων στα τρία πεδία ομαδοποίησης *Split by party* τροποποιούμε τον κώδικα στο style.css
+  
+  ```
+  /*  Party view */
+  #conservative, #labour, #libdem { padding: 10px; }
+  #conservative {
+      background: rgba(255, 31, 171, 0.2);
+      top: 110px;
+  }
+  #labour {
+      background: rgba(171, 217, 31, 0.2);
+      top: 330px;
+  }
+  #libdem {
+      background: rgba(153,19,55, 0.2);
+      top: 550px;
+  }
+  ```
 * Για να ακούγεται ήχος κάθε φορά που πατάμε ένα κουμπί ομαδοποίησης, αρκεί να διαλέξουμε ένα ηχητικό κλιπ.
   Κατεβάζουμε ένα mp3 αρχείο απο το διαδίκτυο: 
 
