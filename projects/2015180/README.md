@@ -1,6 +1,6 @@
-#### Data visualization, Ανδρεάνα Στυλίδου, Π2015180
+### Data visualization, Ανδρεάνα Στυλίδου, Π2015180
 
-##### Παραδοτέο 1 
+#### Παραδοτέο 1 
 
 * Forked hci repository: https://github.com/andreanastil/hci
  
@@ -9,7 +9,7 @@
 * Personal DataVisualisation Github Page: https://andreanastil.github.io/D3js-uk-political-donations/
 
 Για την απαλοιφή της κατάληξης ".html" στο url της εφαρμογής, αρκεί να μετανομάσουμε το αρχείο full-viz.html σε index.html.
-##### Παραδοτέο 2
+#### Παραδοτέο 2
 
 * Για την αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα τροποποιούμε τον κώδικα στο chart.js
 
@@ -106,7 +106,7 @@
   που θα επαναφέρει στον κέρσορα την κανονική του εμφάνιση.
   
   
-##### Παραδοτέο 3
+#### Παραδοτέο 3
 ...
-##### Παραδοτέο 4 
+#### Παραδοτέο 4 
 ...
