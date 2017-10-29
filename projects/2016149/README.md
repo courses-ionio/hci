@@ -1,8 +1,8 @@
-Pacman, Γιώργος Μαντέλλος, Π2016149
-Link to the game: https://geocfu.github.io/pacman/
-Link to the repository(gh-pages): https://github.com/geocfu/pacman/tree/gh-pages
+# Pacman, Γιώργος Μαντέλλος, Π2016149
+## Link to the game: https://geocfu.github.io/pacman/
+## Link to the repository(gh-pages): https://github.com/geocfu/pacman/tree/gh-pages
 
-##Παραδοτέο 1
+### Παραδοτέο 1
 Έγινε δημιουργία χάρτη χρησιμοποιόντας την εφαρμογή Tilted.
 Άλλαξε o πρωταγωνιστής και την θέση του πήρε ο Γιάννης Ράμπο (John Rambo).
 Προστέθηκαν φρούτα (blackberry, cherry, kiwi).
@@ -19,14 +19,14 @@ Link to chopping sound: TO BE ADDED
 Link to background music: TO BE ADDED
 
 
-##Παραδοτέο 2
+### Παραδοτέο 2
 
 ...
 
-##Παραδοτέο 3
+### Παραδοτέο 3
 
 ...
 
-##Παραδοτέο 4 - Tελική Αναφορά
+### Παραδοτέο 4 - Tελική Αναφορά
 
 ...
