@@ -1,6 +1,7 @@
 # Pacman, Γιώργος Μαντέλλος, Π2016149
 ## Link to the game: https://geocfu.github.io/pacman/  
-Link to the repository(gh-pages): https://github.com/geocfu/pacman/tree/gh-pages  
+Link to the repository(gh-pages): https://github.com/geocfu/pacman/tree/gh-pages
+## 
 
 ### Παραδοτέο 1
 Έγινε δημιουργία χάρτη χρησιμοποιόντας την εφαρμογή Tilted.  
