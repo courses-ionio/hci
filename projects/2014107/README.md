@@ -39,7 +39,7 @@ gh-pages: https://aMimikyu.github.io/Super-Mario/
 Αλλαγή του hitbox του χαρακτήρα με **body.setSize()**: 
 
 Λόγω το οτι ο χαρακτήρας είναι μεγαλύτερος απο τον χαρακτήρα του mario, το hitbox είναι και αυτό μεγαλύτερο, κάτι που δημιουργεί διάφορα προβλήματα. π.χ περάσματα απο τα οποία θα έπρεπε να μπορεί να χωράει ο χαρακτήρας αλλά πλέον δεν μπορεί και buggy animations.
-screenshot(hitbox_bug.png) 
+[ScreenShot](hitbox_bug.png) 
 Μικραίνοντας το hitbox μπορούμε να το φέρουμε πιο κοντά σε αυτό του mario.
 
 
