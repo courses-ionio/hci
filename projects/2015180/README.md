@@ -1,15 +1,27 @@
-#### Data visualization, Ανδρεάνα Στυλίδου, Π2015180
+### Data visualization, Ανδρεάνα Στυλίδου, Π2015180
 
-##### Παραδοτέο 1 
-Forked hci repository: https://github.com/andreanastil/hci
+#### Παραδοτέο 1 
 
-Forked DataVisualisation repository: https://github.com/andreanastil/D3js-uk-political-donations
+* Forked hci repository: https://github.com/andreanastil/hci
+ 
+* Forked DataVisualisation repository: https://github.com/andreanastil/D3js-uk-political-donations
 
-Personal DataVisualisation Github Page: https://andreanastil.github.io/D3js-uk-political-donations/
+* Personal DataVisualisation Github Page: https://andreanastil.github.io/D3js-uk-political-donations/
 
-##### Παραδοτέο 2
+
+#### Παραδοτέο 2
+
+* Τροποποήσα τον κώδικα στα αρχεία για την αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα και στα τρία πεδία ομαδοποίησης *Split by party*.
+  
+
+* Για να ακούγεται ήχος κάθε φορά που πατάμε ένα κουμπί ομαδοποίησης βρήκα ένα ηχητικό κλιπ το οποίο ανέβασα και χρησιμοποιήσα στα κουμπιά.   
+    
+* Για να ανοίγει ένα νέο παράθυρο όταν κανουμε κλικ σε κάποια μπάλα, με το αποτέλεσμα google search για τον δωρητή της μπάλας αυτής,
+  τροποποίησα τον κώδικα με τέτοιον τρόπο ώστε να χρησιμοποιεί και τα ονόματα δωρητών. Επίσης για κάθε φορά που 
+  μετακινούμε τον κέρσορα πάνω από κάποια μπάλα τον μετέτρεψα σε χεράκι, ώστε να καταλαβαίνουμε οτι σε αυτό το σημείο υπάρχει κάποιος         υπερσύνδεσμος. 
+  
+  
+#### Παραδοτέο 3
 ...
-##### Παραδοτέο 3
-...
-##### Παραδοτέο 4 
+#### Παραδοτέο 4 
 ...
