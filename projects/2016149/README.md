@@ -11,7 +11,7 @@
 
 Η εικόνα του Γιάννη και των φρούτων μπορεί να βρεθεί μέσα στο αποθετήριο του κώδικα και για την αναζήτησή τους χρησιμοποιήθηκαν οι εικόνες της google.  
 Link to john rambo's image: https://tinyurl.com/giannisrambo  
-Link to blackberry's image: https://tinyurl.com/blackberrytile 
+Link to blackberry's image: https://tinyurl.com/blackberrytile   
 Link to cherry's image: https://tinyurl.com/cherrytile  
 Link to kiwi's image: https://tinyurl.com/kiwitile  
 Ο ήχος χρησιμοποιήθηκε απο το youtube.  
