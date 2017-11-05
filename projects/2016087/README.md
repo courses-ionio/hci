@@ -5,4 +5,4 @@
 
 #REPOSITORY: https://github.com/p16z/Super-Mario
 
-#GH: https://p16z.github.io/Super-Mario/
+#GH-PAGES: https://p16z.github.io/Super-Mario/
