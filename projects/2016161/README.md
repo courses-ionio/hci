@@ -9,7 +9,7 @@ gh-pages:https://vanesampal.github.io/Super-Mario/
 
 ##Παραδοτέο 2
 
-...
+..
 
 ##Παραδοτέο 3
 
