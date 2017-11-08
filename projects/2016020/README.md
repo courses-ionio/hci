@@ -6,7 +6,7 @@
 
 Ονοματεπώνυμο: Παπαναγιώτου Μαρία   ΑΜ: Π2016020  
 
-[Game Depository](https://scarlettmiss.github.io/Super-Mario/)
+[Game Depository](https://github.com/scarlettmiss/Super-Mario)
 
 ### 1o παραδοτέο :
 
@@ -17,6 +17,7 @@
   - και προστέθηκε το link του παιχνιδιού στην αναφορά. 
 
 ### 2o παραδοτέο 
+
 #### Έγιναν οι αρχικές αλλαγές στο παιχνίδι:
 
 - Έγινε αλλαγή της πίστας με την βοήθεια του εργαλείου tiled. 
@@ -43,3 +44,7 @@
   - [Background](http://www.powerpointhintergrund.com/uploads/2017/06/--beautiful-wallpaper-backgrounds-and-background-hd-wallpaper-31.jpeg)
   - [Luigi](https://www.spriters-resource.com/nes/supermariobros3/sheet/4230/)
   - [Coins](https://pbs.twimg.com/media/CzByiwsXgAAUUiX.jpg)
+  
+  **[Link Παιχνιδιού](https://scarlettmiss.github.io/Super-Mario/)**
+  
+  ![ScreenShot](1.png)
