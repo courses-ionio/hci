@@ -3,16 +3,16 @@
 ## Link to the repository(gh-pages): https://github.com/geocfu/pacman/tree/gh-pages
 
 ### Παραδοτέο 1
-Έγινε δήλωση θέματος.  
-Έγιναν τα initial settings (όπως περιγράφονται στο README.md του repository).  
-Προστέθηκε link του παιχνιδιού στην αναφορά.  
+- [x] Έγινε δήλωση θέματος.  
+- [x] Έγιναν τα initial settings (όπως περιγράφονται στο README.md του repository).  
+- [x] Προστέθηκε link του παιχνιδιού στην αναφορά.  
 
 ### Παραδοτέο 2
-Έγινε δημιουργία χάρτη χρησιμοποιόντας την εφαρμογή Tilted.  
-Άλλαξε o πρωταγωνιστής και την θέση του πήρε ο Γιάννης Ράμπο (John Rambo).  
-Προστέθηκαν φρούτα (blackberry, cherry, kiwi).  
-Προστέθηκε ήχος.  
-Προστέθηκαν score, χρόνος, ζωές και μπόνους.  
+- [x] Έγινε δημιουργία χάρτη χρησιμοποιόντας την εφαρμογή Tilted.  - [] 
+- [x] Άλλαξε o πρωταγωνιστής και την θέση του πήρε ο Γιάννης Ράμπο (John Rambo).  
+- [x] Προστέθηκαν φρούτα (blackberry, cherry, kiwi).  
+- [x] Προστέθηκε ήχος.  
+- [x] Προστέθηκαν score, χρόνος, ζωές και μπόνους.  
 
 Η εικόνα του Γιάννη και των φρούτων μπορεί να βρεθεί μέσα στο αποθετήριο του κώδικα και για την αναζήτησή τους χρησιμοποιήθηκαν οι εικόνες της google.  
 Link to john rambo's image: https://tinyurl.com/giannisrambo  
@@ -20,12 +20,3 @@ Link to blackberry's image: https://tinyurl.com/blackberrytile
 Link to cherry's image: https://tinyurl.com/cherrytile  
 Link to kiwi's image: https://tinyurl.com/kiwitile  
 Ο ήχος χρησιμοποιήθηκε απο το youtube.  
-Link to chopping sound: TO BE ADDED  
-
-### Παραδοτέο 3
-
-...
-
-### Παραδοτέο 4 - Tελική Αναφορά
-
-...
