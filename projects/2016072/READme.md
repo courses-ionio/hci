@@ -8,7 +8,9 @@ gh-pages:https://AlxiKan.github.io/Super-Mario/
 
 ##Παραδοτέο 2
 
-...
+https://AlxiKan.github.io/Super-Mario/ 
+Δημιουργία καινούργιας πίστας, αλλαγή χαρακτήρα και εχθρών, αλλαγή coins και animation,
+προσθήκη ήχων και μουσικής, προσθήκη score.
 
 ##Παραδοτέο 3
 
