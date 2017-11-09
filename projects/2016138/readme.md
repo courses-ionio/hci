@@ -2,7 +2,7 @@
 
 A.M : Π2016138
 
-Παραδοτέο 1ο:
+-----Παραδοτέο 1ο:
 
   Repository : https://github.com/XristosTafarlis/Super-Mario
 
@@ -11,7 +11,7 @@ A.M : Π2016138
   GH-Pages : https://xristostafarlis.github.io/Super-Mario/
 
   
-Παραδοτέο 2ο:
+-----Παραδοτέο 2ο:
 
   Έγιναν οι ακόλουθες αλλαγές : 
 
