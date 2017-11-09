@@ -17,9 +17,9 @@ gh-pages:https://NoviceDream.github.io/Super-Mario/
 6)Bonus :'Oταν σκωτώνει 10 goombas παίρνει Bonus 1000 πόντους. 
           Όταν τελείνουν οι ζωές το παιχνίδι ξαναρχίζει.
           
-forked repo :  https://github.com/NoviceDream/hci         
-repo(Super-Mario) : https://github.com/NoviceDream/Super-Mario         
-gh-pages: https://NoviceDream.github.io/Super-Mario/        
+forked repo :  https://github.com/NoviceDream/hci/         
+repo(Super-Mario) : https://github.com/NoviceDream/Super-Mario/tree/master/Παραδοτέο-2-Π2016152       
+gh-pages: https://NoviceDream.github.io/Super-Mario/tree/master/Παραδοτέο-2-Π2016152        
 
 
 ##Παραδοτέο 3
