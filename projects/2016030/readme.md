@@ -4,10 +4,11 @@ SUPER MARIO
 
  https://myrtop.github.io/Super-Mario/
  https://github.com/MyrtoP/Super-Mario
-                                             #ΠΑΡΑΔΟΤΕΟ 1 
-               Δήλωση του παιχνιδιού , super mario.
+ 
+                                             -ΠΑΡΑΔΟΤΕΟ 1 
+               Έγινε επιλογή του θέματος της εργασίες και επιλέχθηκε το παιχνίδι super mario.
 
-                                             #ΠΑΡΑΔΟΤΕΟ 2 
+                                             -ΠΑΡΑΔΟΤΕΟ 2 
     
     Forked repository : https://github.com/MyrtoP/hci
     
@@ -33,4 +34,5 @@ SUPER MARIO
   Πηγές :
   1.Google Images , για τα νομίσματα και το φόντο. 
   2.Phaser Examples, για την βοήθεια στον κώδικα.
-
+  3.Tiled για την δημιουργεια του χάρτη.
+  4.Photoshop για την επεξεργασία εικόνων.
