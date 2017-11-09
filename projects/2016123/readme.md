@@ -1,1 +1,15 @@
-Ονοματεπώνυμο: Γιάννης-Παναγιώτης Κερασιώτης ΑΜ:Π2016123 Repository: https://github.com/GiannhsKer/pacman gh-pages:https://giannhsker.github.io/pacman/
+Στοιχεία φοιτητή
+
+Ονοματεπώνυμο: Γιάννης-Παναγιώτης Κερασιώτης 
+ΑΜ:Π2016123 
+Repository: https://github.com/GiannhsKer/pacman 
+gh-pages:https://giannhsker.github.io/pacman/
+
+1ο Παραδοτέο
+
+Επέλεξα εργασία (pacman).
+
+2ο Παραδοτέο
+Άλλαξα την πίστα , το χρώμα του χαρακτήρα το έκανα μαύρο/κόκκινο ,ο παίχτης πλέον αντί για dots μαζεύει coins και για bonus διαμάντια.Τα  
+προγράμματα που χρησιμοποίησα είναι Tiled,Photoshop και οι φωτογραφίες πάρθηκαν απο το Google.Πρόσθεσα μουσική και ήχους όταν μαζεύει τα
+coins.
