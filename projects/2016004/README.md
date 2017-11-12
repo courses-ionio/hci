@@ -26,4 +26,4 @@ Development branch: https://github.com/ShtHappens796/pacman/tree/develop
  + Bonus: https://www.tynker.com/minecraft/api/item?id=59f3796676f293a9698b4571&cache=1w
  + Sound used: Don Diablo - Switch (Drop Vocal): https://www.youtube.com/watch?v=qq9ZO9VN1AI
 
-To Doge με κλειστό το μάτι δημιουργήθηκε στο GIMP.
+To Doge με κλειστό μάτι δημιουργήθηκε στο GIMP.
