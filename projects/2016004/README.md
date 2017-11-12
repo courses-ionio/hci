@@ -8,16 +8,22 @@ Development branch: https://github.com/ShtHappens796/pacman/tree/develop
 <h2>Παραδοτέο 1</h2>
 
  + Δήλωση θέματος
- + Initial settings (όπως περιγράφονται στο README.md του repository)
- + Link του παιχνιδιού στην αναφορά
+ + Initial settings
+ + Προσθήκη link του παιχνιδιού στην αναφορά
  
+<h2>Παραδοτέο 2</h2>
  
- <h2>Παραδοτέο 2</h2>
- 
- + Δημιούργησε μια νέα πίστα για το παιχνίδι χρησιμοποιώντας το Tiled.
- + Άλλαξε την εμφάνιση του Pacman ή χρησιμοποίησε έναν άλλο χαρακτήρα για πρωταγωνιστή του παιχνιδιού.
- + Αντί ο πρωταγωνιστής να μαζεύει μόνο dots θα μπορούσε να μαζεύει διάφορα αντικείμενα όπως κέρματα, λουλούδια, φρούτα κτλ.
- + Πρόσθεσε ήχους και μουσική.
- + Επέκτεινε το παιχνίδι ώστε να προσθέσεις score, χρόνο, bonus και ζωές. Το bonus θα δίνεται όταν ο πρωταγωνιστής τρώει κάποιο αντικείμενο που εμφανίζεται-εξαφανίζεται ξαφνικά στη πίστα.
- 
- 
+ + Δημιουργία νέας πίστας χρησιμοποιώντας το Tiled,
+ + Χρησιμοποίηση του Doge για χαρακτήρα του παιχνιδιού,
+ + Προσθήκη φρούτων (μπανάνες, φράουλες) στο παιχνίδι,
+ + Προσθήκη ήχου όταν ο πρωταγωνιστής τρώει φρούτα και όταν κερδίζει.
+ + Προσθήκη score, χρόνου και bonus, το οποίο εμφανίζεται ξαφνικά.
+
+Εικόνες:
+ + Doge: https://vignette.wikia.nocookie.net/camphalfbloodroleplay/images/0/05/Doge.png/revision/latest?cb=20140628024222
+ + Banana: https://www.minecraftworld.eu/styles/dark/ratings/banana.png
+ + Strawberry: http://www.durleighmarshfarmshop.co.uk/img/strawberry.ico
+ + Bonus: https://www.tynker.com/minecraft/api/item?id=59f3796676f293a9698b4571&cache=1w
+ + Sound used: Don Diablo - Switch (Drop Vocal): https://www.youtube.com/watch?v=qq9ZO9VN1AI
+
+To Doge με κλειστό το μάτι δημιουργήθηκε στο GIMP.
