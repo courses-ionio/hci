@@ -1,7 +1,7 @@
 <h1>Pacman Minigame</h1>
 <h1>Παπαλύρας - Τζάκρης Αναστάσιος, Π2016004</h1>
 
-Live version at: https://github.com/ShtHappens796/pacman
+Live version at: https://shthappens796.github.io/pacman/
 
 Development branch: https://github.com/ShtHappens796/pacman/tree/develop
 
