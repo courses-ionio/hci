@@ -5,11 +5,11 @@
 
 Α.Μ.: Π2016023
 
-Link παιχνιδιού :
+Link παιχνιδιού :https://georgekaramanidis.github.io/Super-Mario/
 
-Repository μαθήματος:
+Repository μαθήματος:https://github.com/GeorgeKaramanidis/hci
 
-Repository Super Mario: 
+Repository Super Mario:https://github.com/GeorgeKaramanidis/Super-Mario 
 
 Παραδοτέο 2ο:
 
