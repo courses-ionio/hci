@@ -2,6 +2,10 @@
 
 Α.Μ.: Π2016022
 
-Repository: https://github.com/DeadManLogan/Super-Mario
+Repository link: https://github.com/DeadManLogan/Super-Mario
 
-gh-pages: https://deadmanlogan.github.io/Super-Mario/
+Gh-pages link: https://deadmanlogan.github.io/Super-Mario/
+
+Σε αυτό το παραδοτέο με τη βοήθεια του tiled τροποποίησα την πίστα.Επίσης άλλαξα τον αρχικό χαρακτήρα
+καθώς και πρόσθεσα καινούργια νομίσματα.Επιπλέον έβαλα νέους ήχους για κάθε τι απαραίτητο.Τέλος πρόσθεσα
+πόντους,ζωές και ό,τι άλλο απαιτήθηκε.
