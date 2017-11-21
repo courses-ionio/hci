@@ -18,7 +18,7 @@
 Link to john rambo's image: https://goo.gl/NT1oby  
 Link to blackberry's image: https://goo.gl/zptTet   
 Link to cherry's image: https://goo.gl/NwdkNa  
-Link to kiwi's image: https://goo.gl/4Gj3Lw 
+Link to kiwi's image: https://goo.gl/4Gj3Lw  
 Ο ήχος χρησιμοποιήθηκε απο το youtube.  
 
 https://goo.gl/EXvAFu
