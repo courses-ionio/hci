@@ -21,4 +21,5 @@ Link to cherry's image: https://goo.gl/NwdkNa
 Link to kiwi's image: https://goo.gl/4Gj3Lw  
 Ο ήχος χρησιμοποιήθηκε απο το youtube.  
 
-https://goo.gl/EXvAFu
+https://goo.gl/EXvAFu  
+https://goo.gl/H5fscD
