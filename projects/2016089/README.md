@@ -25,5 +25,7 @@
     Προσθήκη bonus υπό την μορφή extra ζωών όταν ο παίχτης συγκεντρώσει 100 νομίσματα.
    https://github.com/p16sako/hci/blob/2016089/projects/2016089/Lives-bonus.gif
   
-  
+    Παρακάτω θα βρείτε σύνδεσμο στον αλλαγμένο κώδικα που χρησιμοποιείτε για να βρίσκεται
+    το παιχνίδι στην τωρινή του μορφή.
+   https://github.com/p16sako/Super-Mario/blob/gh-pages/index.html
   
