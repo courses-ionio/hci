@@ -16,8 +16,6 @@
     Αλλαγή του animation των νομισμάτων δημιουργώντας την ψευδαίσθηση της περιστροφής.
     Έγινε με τα εργαλεία του 3D Paint αλλά και Lunapic.
     
-    
-    ![Gif](Luigi,Coins.gif)
   
     Προσθήκη ήχων και μουσικής από το κλασικό "Super Mario Bros" όπου κατέβασα από την ιστοσελίδα:
     https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros
