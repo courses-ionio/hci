@@ -6,7 +6,7 @@
 
    Εκτελέσιμο: https://p16sako.github.io/Super-Mario/
 
- Παραδοτέο 2
+Παραδοτέο 2
 
     Δημιουργία μίας νέας πίστας χρησιμοποιωντας το Tiled.
   
@@ -15,7 +15,7 @@
   
     Αλλαγή του animation των νομισμάτων δημιουργώντας την ψευδαίσθηση της περιστροφής.
     Έγινε με τα εργαλεία του 3D Paint αλλά και Lunapic.
-   hci/projects/2016089/Lives-bonus.gif
+   https://github.com/p16sako/hci/blob/2016089/projects/2016089/Luigi%2CCoins.gif
   
     Προσθήκη ήχων και μουσικής από το κλασικό "Super Mario Bros" όπου κατέβασα από την ιστοσελίδα:
    https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros
@@ -23,6 +23,7 @@
     Προσθήκη score και ζωών με εικόνες επεξεργασμένες στο Lunapic.
   
     Προσθήκη bonus υπό την μορφή extra ζωών όταν ο παίχτης συγκεντρώσει 100 νομίσματα.
+   https://github.com/p16sako/hci/blob/2016089/projects/2016089/Lives-bonus.gif
   
   
   
