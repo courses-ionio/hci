@@ -82,8 +82,9 @@ Photoshop : http://www.adobe.com/products/photoshop.html
 
 Sai Paint Tool : https://painttool-sai.en.softonic.com/
 
-Ζωγραφική : Απλά κάντε αναζήτηση στον υπολογιστή σας. 
+Ζωγραφική : Απλά κάντε αναζήτηση στον υπολογιστή σας.
 
+Για την επεξεργασία του κώδικα χρησιμοποιήθηκε το Sublime Text 3: https://www.sublimetext.com/3
 
 Όλοι οι ήχοι πάρθηκαν από site το οποίο παρέχει ήχους γύρω από το Super Mario : http://themushroomkingdom.net/wav.shtml
 
