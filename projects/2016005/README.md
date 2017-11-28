@@ -55,15 +55,15 @@ Repository Super Mario: https://github.com/p16bouk/Super-Mario
 
 <b>Το μενού του παιχνιδιού</b>
 
-<img src="https://github.com/p16bouk/Super-Mario/blob/gh-pages/menu.png">
+<img src="https://github.com/p16bouk/Super-Mario/blob/master/menu.png">
 
 <b>Ένα μέρος της πρώτης πίστας του παιχνιδιού</b>
 
-<img src="https://github.com/p16bouk/Super-Mario/blob/gh-pages/s1.png">
+<img src="https://github.com/p16bouk/Super-Mario/blob/master/s1.png">
 
 <b>Ένα μέρος της δεύτερης πίστας του παιχνιδιού</b>
 
-<img src="https://github.com/p16bouk/Super-Mario/blob/gh-pages/s2.png">
+<img src="https://github.com/p16bouk/Super-Mario/blob/master/s2.png">
 
 <b>Σχόλια</b>
 
