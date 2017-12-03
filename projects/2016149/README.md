@@ -29,3 +29,8 @@ Link to kiwi's image: https://goo.gl/4Gj3Lw
 
 Link to soldier's image: https://goo.gl/EXvAFu    
 Link to knife's image: https://goo.gl/H5fscD  
+
+### Παραδοτέο 4  
+- [] Δημιουργία δυο συνεχόμενων levels.  
+ - [] Στείλε με pull request μια πίστα στο κεντρικό repository του παιχνιδιού στο branch: gh-pages και στο φάκελο: extensions. Το όνομα της πίστας θα πρέπει να είναι o ΑΜ σου με την επέκταση .json π.χ. 2012000.json.  
+ - [] Τελική αναφορά την εργασίας που θα πρέπει απαραίτητα να περιλαμβάνει link του παιχνιδιού.  
