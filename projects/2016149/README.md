@@ -24,13 +24,23 @@ Link to kiwi's image: https://goo.gl/4Gj3Lw
 ### Παραδοτέο 3  
 - [x] Προστέθηκε εχθρός (στρατιώτης).
 - [x] Προστέθηκε η δυνατότητα ο Γιαννης να κανει teleport.
-- [x] Προστέθηκε η δυνατότητα ο Γιάννης να "τρώει" για κάποιο χρονικό διάστημα των εχθρό εάν πάρει το μαχαίρι. 
+- [x] Προστέθηκε η δυνατότητα ο Γιάννης να "τρώει" για κάποιο χρονικό διάστημα τον εχθρό εάν πάρει το μαχαίρι. 
 - [x] Προστέθηκε Μenu στην αρχή για επιλογή πίστας και start of level.  
 
 Link to soldier's image: https://goo.gl/EXvAFu    
 Link to knife's image: https://goo.gl/H5fscD  
 
 ### Παραδοτέο 4  
-- [] Δημιουργία δυο συνεχόμενων levels.  
- - [] Στείλε με pull request μια πίστα στο κεντρικό repository του παιχνιδιού στο branch: gh-pages και στο φάκελο: extensions. Το όνομα της πίστας θα πρέπει να είναι o ΑΜ σου με την επέκταση .json π.χ. 2012000.json.  
- - [] Τελική αναφορά την εργασίας που θα πρέπει απαραίτητα να περιλαμβάνει link του παιχνιδιού.  
+- [x] Δημιουργία δυο συνεχόμενων levels.  
+- [] Στείλε με pull request μια πίστα στο κεντρικό repository του παιχνιδιού στο branch: gh-pages και στο φάκελο: extensions.  
+- [x] Τελική αναφορά την εργασίας που θα πρέπει απαραίτητα να περιλαμβάνει link του παιχνιδιού.  
+   
+Menu Loading bar  
+![screenshot](https://github.com/geocfu/pacman/blob/develop/assets/loading_bar.gif)  
+  
+Level 1 screenshot  
+![screenshot](https://github.com/geocfu/pacman/blob/develop/assets/Level%201.png)
+  
+Level 2 screenshot  
+![screenshot](https://github.com/geocfu/pacman/blob/develop/assets/Level%202.png)
+ 
