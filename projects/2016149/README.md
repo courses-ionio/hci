@@ -32,7 +32,7 @@ Link to knife's image: https://goo.gl/H5fscD
 
 ### Παραδοτέο 4  
 - [x] Δημιουργία δυο συνεχόμενων levels.  
-- [] Στείλε με pull request μια πίστα στο κεντρικό repository του παιχνιδιού στο branch: gh-pages και στο φάκελο: extensions.  
+- [ ] Στείλε με pull request μια πίστα στο κεντρικό repository του παιχνιδιού στο branch: gh-pages και στο φάκελο: extensions.  
 - [x] Τελική αναφορά την εργασίας που θα πρέπει απαραίτητα να περιλαμβάνει link του παιχνιδιού.  
    
 Loading bar - Menu  
