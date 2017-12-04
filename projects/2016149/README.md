@@ -35,7 +35,7 @@ Link to knife's image: https://goo.gl/H5fscD
 - [] Στείλε με pull request μια πίστα στο κεντρικό repository του παιχνιδιού στο branch: gh-pages και στο φάκελο: extensions.  
 - [x] Τελική αναφορά την εργασίας που θα πρέπει απαραίτητα να περιλαμβάνει link του παιχνιδιού.  
    
-Menu Loading bar  
+Loading bar - Menu  
 ![screenshot](https://github.com/geocfu/pacman/blob/develop/assets/loading_bar.gif)  
   
 Level 1 screenshot  
