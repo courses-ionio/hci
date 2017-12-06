@@ -26,12 +26,6 @@
 Κατόπιν έγινε προσθήκη του score του bonus και τις ζωές. Συγκεκριμένα για το bonus 
 όταν πεθάνουν 6 goombas προστίθεται μία ζωή.
 
-
-#### Πηγές :
-  - Google Images , για τα νομίσματα και το φόντο. 
-  - Phaser Examples, για την βοήθεια στον κώδικα.
-  - Tiled για την δημιουργεια του χάρτη.
-  - Photoshop για την επεξεργασία εικόνων.
   
  ### ΠΑΡΑΔΟΤΕΟ 3
  
@@ -53,15 +47,17 @@
  
 
  #### Πηγές :
-  #### Level 1.
-     - ![background] (https://tinyurl.com/y7zprdgt)  για το background της πίστας
-     - ![Google] (https://tinyurl.com/yafvrouu) , ο κύριος ήρωας
-     - ![Tinyurl] (https://tinyurl.com/ybndvq9m) , ο νέος εχθρός
-     
-  #### Menu.
-     - ![Google] (https://tinyurl.com/y8324aue), για το φόντο του μενού
+  #### Χάρτης
+    - [Tiled](http://www.mapeditor.org/) για την δημιουργεια του χάρτη
+  #### Level 1
+     - [background] (https://tinyurl.com/y7zprdgt)  για το background της πίστας
+     - [Google] (https://tinyurl.com/yafvrouu) , ο κύριος ήρωας
+     - [Tinyurl] (https://tinyurl.com/ybndvq9m) , ο νέος εχθρός
+     -  Google Images , για τα νομίσματα .
+  #### Menu
+     - [Google] (https://tinyurl.com/y8324aue), για το φόντο του μενού
     
  #### Εικόνες :
    - Η πρώτη πίστα ![ η πιστα ](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/level1.jpg) 
-   
+  
    - Το μενού ![Το μενού](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap.jpg)
