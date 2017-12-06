@@ -53,13 +53,13 @@
  
 
  #### Πηγές :
-    ##Level 1.
-     -(https://tinyurl.com/y7zprdgt), για το background της πίστας
-     -(https://tinyurl.com/yafvrouu), ο κύριος ήρωας
-     -(https://tinyurl.com/ybndvq9m), ο νέος εχθρός
-    ##Menu.
-     -(https://tinyurl.com/y8324aue), για το φόντο του μενού
+ ##Level 1.
+     -[GitHub Pages](https://tinyurl.com/y7zprdgt), για το background της πίστας
+     -[GitHub Pages](https://tinyurl.com/yafvrouu), ο κύριος ήρωας
+     -[GitHub Pages](https://tinyurl.com/ybndvq9m), ο νέος εχθρός
+ ##Menu.
+     -[GitHub Pages](https://tinyurl.com/y8324aue), για το φόντο του μενού
     
  #### Εικόνες :
-   -(Super-Mario/assets/level1.jpg), η πίστα
-   -(Super-Mario/assets/Νέα εικόνα bitmap.jpg) , το μενού
+   -[Super-Mario/assets/level1.jpg](docs/CONTRIBUTING.md), η πίστα
+   -[Super-Mario/assets/Νέα εικόνα bitmap.jpg](docs/CONTRIBUTING.md) , το μενού
