@@ -56,8 +56,7 @@
   #### Level 1.
      - [Google](https://tinyurl.com/y7zprdgt)  για το background της πίστας
      - [Google](https://tinyurl.com/yafvrouu) , ο κύριος ήρωας
-     - [Google](https://www.google.gr/searchbiw=1366&bih=588&tbm=isch&sa=1&ei=41IkWo7AKcbFgAbD_aTAAQ&q=boogie+sprite&oq=boogie+sprite&gs_l=psyab.3...23761.25669.0.25805.13.11.0.0.0.0.316.1763.0j3j4j1.8.0....0...1c.1.64.psyab..5.7.1557...0j0i67k1j0i30k1j0i19k1j0i30i19k1j0i5i30i19k1j0i8i30i19k1.0.gYjQQY2FFqo#imgrc=8jnS545u1R16rM:
-) , ο νέος εχθρός
+     - [Tinyurl](https://tinyurl.com/ybndvq9m) , ο νέος εχθρός
      
   #### Menu.
      - [Google](https://tinyurl.com/y8324aue), για το φόντο του μενού
