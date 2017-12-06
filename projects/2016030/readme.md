@@ -62,6 +62,6 @@
      - [GitHub Pages](https://tinyurl.com/y8324aue), για το φόντο του μενού
     
  #### Εικόνες :
-   - [https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/level1.jpg](docs/assets), η πίστα
+   - [level1.jpg](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/level1.jpg), η πίστα
    
-   - [https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap.jpg](docs/assets) , το μενού
+   - [%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap.jpg](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap.jpg) , το μενού
