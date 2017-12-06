@@ -48,13 +48,12 @@
 
  #### Πηγές :
   #### Χάρτης
-  για την δημιουργεια του χάρτη,
     - [Tiledmademap](http://www.mapeditor.org/) 
   #### Level 1
-     - [backgroundmadewiththis](https://tinyurl.com/y7zprdgt) για το background της πίστας
-     - [Googlehelped](https://tinyurl.com/yafvrouu) , ο κύριος ήρωας
-     - [Tinyurl](https://tinyurl.com/ybndvq9m) , ο νέος εχθρός
-     -  Google Images , για τα νομίσματα .
+   To φόντο της πίστας,ο ήρωας,o νέος εχθρός και τα νομίσματα προέρχονται απο την Google Images,
+     - [backgroundmadewiththis](https://tinyurl.com/y7zprdgt)
+     - [Googlehelped](https://tinyurl.com/yafvrouu)
+     - [Tinyurl](https://tinyurl.com/ybndvq9m)
   #### Menu
      - [Googlefont](https://tinyurl.com/y8324aue), για το φόντο του μενού
     
