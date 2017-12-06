@@ -54,9 +54,9 @@
 
  #### Πηγές :
   #### Level 1.
-     - https://tinyurl.com/y7zprdgt, για το background της πίστας
-     - https://tinyurl.com/yafvrouu, ο κύριος ήρωας
-     - https://tinyurl.com/ybndvq9m, ο νέος εχθρός
+     - Για το background της πίστας https://tinyurl.com/y7zprdgt
+     - https://tinyurl.com/yafvrouu , ο κύριος ήρωας
+     - https://tinyurl.com/ybndvq9m , ο νέος εχθρός
      
   #### Menu.
      - [/y8324aue](https://tinyurl.com/y8324aue), για το φόντο του μενού
