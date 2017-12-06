@@ -45,6 +45,8 @@
   ![Menu](https://github.com/p16sako/hci/blob/2016089/projects/2016089/Menu.gif)
 - [x] Σαν animation για το τέλος της πίστας σχεδίασα μία πόρτα όπου όταν ο παίχτης βάλει τον πρωταγωνιστή να αγγίξει, φαίνεται να ανοίγει και παίζει ο αντίστοιχος ήχος ολοκλήρωσης πίστας.
 
+  ![EndStage](https://github.com/p16sako/hci/blob/2016089/projects/2016089/EndStage.gif)
+
 * ### Σακουμπέντας Χρήστος
   - #### ΑΜ: 2016089
   - #### Αποθετήριο: https://github.com/p16sako/Super-Mario/tree/gh-pages
