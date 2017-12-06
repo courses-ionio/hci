@@ -48,7 +48,7 @@
 
  #### Πηγές :
   #### Χάρτης
-    - [Tiled](http://www.mapeditor.org/)για την δημιουργεια του χάρτη
+    - [Tiled](http://www.mapeditor.org/) για την δημιουργεια του χάρτη
   #### Level 1
      - [background] (https://tinyurl.com/y7zprdgt)  για το background της πίστας
      - [Google] (https://tinyurl.com/yafvrouu) , ο κύριος ήρωας
