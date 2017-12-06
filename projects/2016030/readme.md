@@ -54,7 +54,7 @@
 
  #### Πηγές :
   #### Level 1.
-     - [GitHub Pages](https://tinyurl.com/y7zprdgt), για το background της πίστας
+     - [1]: https://tinyurl.com/y7zprdgt, για το background της πίστας
      - [GitHub Pages](https://tinyurl.com/yafvrouu), ο κύριος ήρωας
      - [GitHub Pages](https://tinyurl.com/ybndvq9m), ο νέος εχθρός
      
@@ -62,6 +62,6 @@
      - [GitHub Pages](https://tinyurl.com/y8324aue), για το φόντο του μενού
     
  #### Εικόνες :
-   - [Super-Mario/assets/level1.jpg](docs/assets), η πίστα
+   - [https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/level1.jpg](docs/assets), η πίστα
    
-   - [Super-Mario/assets/Νέα εικόνα bitmap.jpg](docs/assets) , το μενού
+   - [https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap.jpg](docs/assets) , το μενού
