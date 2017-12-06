@@ -51,11 +51,12 @@
     - [Tiledmademap](http://www.mapeditor.org/) 
   #### Level 1
    To φόντο της πίστας,ο ήρωας,o νέος εχθρός και τα νομίσματα προέρχονται απο την Google Images,
-     - [backgroundmadewiththis](https://tinyurl.com/y7zprdgt)
-     - [Googlehelped](https://tinyurl.com/yafvrouu)
-     - [Tinyurl](https://tinyurl.com/ybndvq9m)
+     - [background](https://tinyurl.com/y7zprdgt)
+     - [rayman](https://tinyurl.com/yafvrouu)
+     - [boogie](https://tinyurl.com/ybndvq9m)
   #### Menu
-     - [Googlefont](https://tinyurl.com/y8324aue), για το φόντο του μενού
+   Για το φόντο του μενού
+     - [menu](https://tinyurl.com/y8324aue)
     
  #### Εικόνες :
    - Η πρώτη πίστα ![ η πιστα ](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/level1.jpg) 
