@@ -54,12 +54,12 @@
 
  #### Πηγές :
   #### Level 1.
-     - ![για το background της πίστας](https://tinyurl.com/y7zprdgt) ,  για το background της πίστας
-     - ![ο κύριος ήρωας](https://tinyurl.com/yafvrouu) , ο κύριος ήρωας
-     - ![ο νέος εχθρός](https://tinyurl.com/ybndvq9m) , ο νέος εχθρός
+     - [για το background της πίστας](https://tinyurl.com/y7zprdgt) ,  για το background της πίστας
+     - [ο κύριος ήρωας](https://tinyurl.com/yafvrouu) , ο κύριος ήρωας
+     - [ο νέος εχθρός](https://tinyurl.com/ybndvq9m) , ο νέος εχθρός
      
   #### Menu.
-     - ![για το φόντο του μενού](https://tinyurl.com/y8324aue), για το φόντο του μενού
+     - [για το φόντο του μενού](https://tinyurl.com/y8324aue), για το φόντο του μενού
     
  #### Εικόνες :
    - Η πρώτη πίστα ![ η πιστα ](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/level1.jpg) 
