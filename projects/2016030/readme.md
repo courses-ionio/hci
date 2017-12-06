@@ -28,14 +28,14 @@
 
 
 #### Πηγές :
-  1. Google Images , για τα νομίσματα και το φόντο. 
-  2.Phaser Examples, για την βοήθεια στον κώδικα.
-  3.Tiled για την δημιουργεια του χάρτη.
-  4.Photoshop για την επεξεργασία εικόνων.
+  - Google Images , για τα νομίσματα και το φόντο. 
+  - Phaser Examples, για την βοήθεια στον κώδικα.
+  - Tiled για την δημιουργεια του χάρτη.
+  - Photoshop για την επεξεργασία εικόνων.
   
  ### ΠΑΡΑΔΟΤΕΟ 3
  
- Έγινε αλλαγή για να ανοίγει το μενού ,[gh-pages](https://myrtop.github.io/Super-Mario/menu.html).
+> Έγινε αλλαγή για να ανοίγει το μενού ,[gh-pages](https://myrtop.github.io/Super-Mario/menu.html).
  
 Στο τρίτο παραδοτέο άλλαξα τον κύριο ήρωα από super mario σε rayman και για επιλέπον εχθρό 
 έβαλα τον boogie oogie από το nightmare before christmas.Έγινε αλλαγή και στο τραγούδι της
@@ -53,13 +53,13 @@
  
 
  #### Πηγές :
-   ##Level 1.
-    1.(https://tinyurl.com/y7zprdgt), για το background της πίστας
-    3.(https://tinyurl.com/yafvrouu), ο κύριος ήρωας
-    4.(https://tinyurl.com/ybndvq9m), ο νέος εχθρός
+    ##Level 1.
+     -(https://tinyurl.com/y7zprdgt), για το background της πίστας
+     -(https://tinyurl.com/yafvrouu), ο κύριος ήρωας
+     -(https://tinyurl.com/ybndvq9m), ο νέος εχθρός
     ##Menu.
-    1.(https://tinyurl.com/y8324aue), για το φόντο του μενού
+     -(https://tinyurl.com/y8324aue), για το φόντο του μενού
     
  #### Εικόνες :
-  1.(Super-Mario/level1.jpg), η πίστα
-  2.(Super-Mario/Νέα εικόνα bitmap.jpg) , το μενού
+   -(Super-Mario/assets/level1.jpg), η πίστα
+   -(Super-Mario/assets/Νέα εικόνα bitmap.jpg) , το μενού
