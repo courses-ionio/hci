@@ -13,3 +13,10 @@ Repository https://github.com/teochrysostomidis/pacman
 Το map έχει θεματολογία Dragonball.
 Ο χαρακτήρας είναι ο Goku και μαζεύει διαμάντια αλλά και Dragonballs.
 Το παιχνίδι βρίσκεται εδώ : https://teochrysostomidis.github.io/pacman/
+
+#3o Παραδοτέο
+
+Πρόσθεσα εχθρό ο οποίος κινείται τυχαία στην πίστα και μπορεί να "φάει" τον χαρακτήρα.
+Δημιούργησα αρχική σελίδα απ την οποία ο χρήστης μέσω του play button μπορεί να μπει στο παιχνίδι.
+Πρόσθεσα επίσης teleport όπου ο παίχτης μπορεί απο 2 συγκεκριμένα σημεία να τηλεμεταφερθεί σε ένα τρίτο.
+Το link του παιχνιδιού έχει αλλάξει και βρίσκεται πλέον εδώ : https://teochrysostomidis.github.io/pacman/assets/start.html
