@@ -115,7 +115,7 @@ Super-Mario
 
 
 
-![ScreenShot] (MainMenu.JPG)
+![ScreenShot] (MainMenu.jpg)
 
 
 ![ScreenShot] (Level_1.jpg)
