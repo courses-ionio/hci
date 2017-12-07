@@ -119,7 +119,7 @@ Super-Mario
 
 
 (Level_1.jpg)
-https://github.com/XristosTafarlis/hci/blob/%CE%A02016138/projects/2016138/Level_1.JPG
+https://raw.githubusercontent.com/XristosTafarlis/hci/%CE%A02016138/projects/2016138/Level_1.JPG
 
 
 (Level_2.jpg)
