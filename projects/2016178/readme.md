@@ -5,7 +5,7 @@ Forked Repository: https://github.com/dionisiskon/hci
 
 Repository(Super-Mario): https://github.com/dionisiskon/Super-Mario 
 
-gh-pages:https://dionisiskon.github.io/Super-Mario/
+master:https://dionisiskon.github.io/Super-Mario/
 
 ##Παραδοτέο 2
 
@@ -18,8 +18,7 @@ Links: www.lunapic.com
 
 
 ##Παραδοτέο 3
-
-...
+Για το τρίτο παραδοτέο χρησιμοποίησα το Adobe Photoshop για να δημιουργήσω κατάλληλα sprites(mario,pyroguys) και να επεκτείνω το tileset που μας παραχωρήθηκε και γενικότερα για ότι άλλες επεξεργασίες ήταν απαραίτητες.Επιπλέον, δημιούργησα εχθρούς(Pyroguys) και τους πρόσθεσα στο παιχνίδι με τις κατάλληλες αλλαγές στον κώδικα για τα collision με τα pipes για teleport και τα λοιπά.Στη συνέχεια, δημιούργησα tile layers στον χάρτη μου για τα pipes για teleport και έκανα αλλαγές στον κώδικα για να αλλάζουν οι συντεταγμένες με αυτά τα tile layers,να πραγματοποιούνται τα απαραίτητα animation και να παίζουν οι ήχοι για το teleport.Αφετέρου χώρισα το παιχνίδι σε states για την χρησιμοποίηση μενου σύμφωνα με τις οδηγίες της εργασίας και "διαμοίρασα" το παιχνίδι ώστε να τρέχει απο δύο scripts(state1,splash) και το κεντρικό αρχείο index.html.Τέλος,πρόσθεσα την σημαία στο tileset και έθεσα τα collisions ώστε να εμφανίζουν κατάλληλο μήνυμα όταν "ακουμπάει" ο παίκτης την σημαία.
 
 ##Παραδοτέο 4 - Tελική Αναφορά
 
