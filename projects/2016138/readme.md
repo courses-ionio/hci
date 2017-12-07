@@ -2,6 +2,47 @@
 
 A.M : Π2016138
 
-Repository : github.com/XristosTafarlis/Super-Mario
+-----Παραδοτέο 1ο:
 
-GH-Pages : xristostafarlis.github.io/Super-Mario/
+  Repository : https://github.com/XristosTafarlis/Super-Mario
+
+  Branch : https://github.com/XristosTafarlis/Super-Mario/tree/gh-pages
+
+  GH-Pages : https://xristostafarlis.github.io/Super-Mario/
+
+  
+-----Παραδοτέο 2ο:
+
+  Έγιναν οι ακόλουθες αλλαγές : 
+
+    Δημιουργία νέας πίστας με το Tiled.
+  
+    Αλλαγή του Super Mario και και των νομισμάτων.
+  
+    Προσθήκη ήχων και μουσικής.
+  
+    Επέκταση του παιχνιδιού με την προσθήκη σκόρ και ζωών.
+
+
+Αναλυτικά:
+
+Έκανα καινούριου map με το Tiled το οποίο είναι μία προσέγγιση της κλασικής πίστας 1-1 του Super Mario για το Nintendo.
+
+Άλλαξα την εμφάνιση του Super Mario και τροποποίησα ένα έτοιμο spritesheet για τα νομίσματα  με το Photoshop.
+
+Έβαλα ήχους για :BGMusic, Jump, Stomp, Coin, Death.
+
+Έβαλα κάποια καινούρια tiles στο tile set για τα καρφιά , τα Bonus boxes και τους αόρατους τοίχους όπου τα goombas κάνουν Collide.
+
+Επίσης έβαλα και 3 διαφορετικά animations για τα παραπάνω και πάλι φτιαγμένα στο photoshop.
+
+Δημιούργησα του αόρατους τοίχους όπου κρατάνε τα goombas μέσα στην πίστα, δημιούργησα τα καρφιά τα οποία σε σκοτώνουν εάν πέσεις πάνω τους και τέλος δημιούργησα τα Bonus Boxes που σου δίνουν έξτρα 50 πόντους.
+
+Τέλος έδωσα στο παιχνίδι την δυνατότητα να μετράει σκόρ και ζωές.
+
+Έξτρα τροποποιήσεις:
+
+	Έκανα τα goombas να παίρνουν όλα μια τυχαία τιμή ως ταχιτητα.
+
+	Έκανα τον παίχτη να πηδάει εάν την ώρα που σκοτώσει ένα goomba έχει πατημένο
+	το πάνω βελάκι.
