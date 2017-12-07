@@ -2,7 +2,7 @@
 
 A.M : Π2016138
 
-###-----Παραδοτέο 1ο:
+###Παραδοτέο 1ο:
 
   Repository : https://github.com/XristosTafarlis/Super-Mario
 
