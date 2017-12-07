@@ -115,21 +115,19 @@ Super-Mario
 
 
 
-(MainMenu.jpg)
+![Main Menu](MainMenu.JPG)
 
 
-(Level_1.jpg)
-https://raw.githubusercontent.com/XristosTafarlis/hci/%CE%A02016138/projects/2016138/Level_1.JPG
+![Level 1](Level_1.JPG)
 
 
-(Level_2.jpg)
+![Level 2](Level_2.JPG)
 
 
-(Level_3.jpg)
+![Level 3](Level_3.JPG)
 
 
-(TotalScore.jpg)
-
+![Tota Score](TotalScore.JPG)
 
 Συμπέρασμα : 
 
