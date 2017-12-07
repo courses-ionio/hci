@@ -1,0 +1,22 @@
+#1ο Παραδοτέο
+
+Θοδωρής Χρυσοστομίδης ΑΜ:Π2016134 
+Gh-Pages https://teochrysostomidis.github.io/pacman/
+Repository https://github.com/teochrysostomidis/pacman
+
+#2ο Παραδοτέο
+
+Άλλαξα το map με διαφορετικό tileset, τον χαρακτηρα καθώς και τα αντικείμενα με τα οποία αλληλεπιδρά ο παίκτης.
+Χρησιμοποίησα τα προγράμματα : Tiled , Photoshop.
+Οι φωτογραφίες πάρθηκαν από το google.
+Υπάρχει μουσική στο background : Dragon Ball 8-bit Theme Song.mp3 και ήχος όταν καταναλώνονται τα διαμάντια : counting coins.mp3.
+Το map έχει θεματολογία Dragonball.
+Ο χαρακτήρας είναι ο Goku και μαζεύει διαμάντια αλλά και Dragonballs.
+Το παιχνίδι βρίσκεται εδώ : https://teochrysostomidis.github.io/pacman/
+
+#3o Παραδοτέο
+
+Πρόσθεσα εχθρό ο οποίος κινείται τυχαία στην πίστα και μπορεί να "φάει" τον χαρακτήρα.
+Δημιούργησα αρχική σελίδα απ την οποία ο χρήστης μέσω του play button μπορεί να μπει στο παιχνίδι.
+Πρόσθεσα επίσης teleport όπου ο παίχτης μπορεί απο 2 συγκεκριμένα σημεία να τηλεμεταφερθεί σε ένα τρίτο.
+Το link του παιχνιδιού έχει αλλάξει και βρίσκεται πλέον εδώ : https://teochrysostomidis.github.io/pacman/assets/start.html
