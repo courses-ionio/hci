@@ -1,5 +1,3 @@
-https://github.com/JIMCHLOROS/hci/tree/2016031
-
 Στοιχεία φοιτητή
  
 Oνοματεπώνυμο: Δημήτρης Χλωρός 
