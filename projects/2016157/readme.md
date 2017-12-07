@@ -7,7 +7,7 @@ Forked repository:https://github.com/effraim/hci
 
 Repository:https://github.com/effraim/pacman
 
-Gh-pages: https://effraim.github.io/pacman/
+Gh-pages: https://effraim.github.io/pacman/intro.html
 
 --1o παραδοτέο--
 
@@ -24,6 +24,19 @@ O ήχος των νομισμάτων ονομάζεται "coin.mp3" και ε
 Τέλος, για το μπόνους ο "Cuphead" μαζεύει cups τα οποία ανεβάζουν το score 10 πόντους και βγαίνει ένα την φορά
 τυχαία στην θέση των dots όταν καταναλώνεται το προηγούμενο. 
 
+--3ο παραδοτέο--
+
+Σε αυτό το παραδοτέο προστέθηκε ένας εχθρός ο οποίος είναι ένα boss(cagney carnation) απο το cuphead ο οποίος κινείται 
+απλα και σχετικά τυχαία.
+Ο πρωταγωνιστής μπορεί να κάνει teleport μπαίνοντας στα ανοίγματα πάνω στο χάρτη και να βγεί απο την άλλη 
+πλευρά.(αν δώσεις εντολή ο 'pacman' να πάει προς τα πάνω η προς τα κάτω κατα την διάρκεια
+του teleport τότε ίσως crashάρει το παιχνίδι)
+Όσο αναφορά το menu έχει για backround την εικόνα απο την αρχή του παιχνιδιού καθώς και το opening theme του
+το οποίο ονομάζεται "dont deal with the devil",
+και υπάρχει και ένα button το οποίο το πατάς όποτε θέλεις για να ξεκινήσει το παιχνίδι.
+
+
+
 --Πηγές - Χρησιμοποιήθηκαν--
 
 Το Tiled για την δημιουργεια του χάρτη.
@@ -34,4 +47,4 @@ O ήχος των νομισμάτων ονομάζεται "coin.mp3" και ε
 
 Οι εικόνες προέρχονται απο τα Google images:
 
---Aναζητήσεις: Cuphead sprites, coin.png, cup.png--
+--Aναζητήσεις: Cuphead sprites, coin.png, cup.png,game start button png,cagney carnation sprites--
