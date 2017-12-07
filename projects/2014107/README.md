@@ -6,7 +6,7 @@
 
 **Repository(Super-Mario):** https://github.com/aMimikyu/Super-Mario
 
-**gh-pages:** https://aMimikyu.github.io/Super-Mario/
+**gh-pages:** https://amimikyu.github.io/Super-Mario/menu.html
 
 
 
