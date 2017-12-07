@@ -1,3 +1,4 @@
+
 -Δημήτρης Χλωρός 
  -Π2016031
  - Super Mario
@@ -12,9 +13,12 @@
  
  Στο πρώτο παραδοτέο έγινε η επιλογή της εργασίας: Παραλλαγή του παιχνιδιού super mario Ο χαρακτήρας είναι ένα ξωτικό(ζωγραφισμενο απο εμενα). Έγιναν αλλαγές στη πιστα, στο χαρακτήρα και στα αντικειμενα με τα οποια αλληλεπιδρα ο παικτης Τα προγράμματα που χρησιμοποιήθηκαν είναι το: Tiled με ζωγραφισμενα απο εμενα αντικεινα...
  
- λινκ στο αποθετηριο του κωδικα : https://github.com/JIMCHLOROS/Super-Mario/blob/gh-pages/index.html λινκ για το εκτελεσιμο : https://jimchloros.github.io/Super-Mario/ λινκ στο κλαδί του κώδικα που αντιστοιχεί στο παραδοτέο : https://github.com/JIMCHLOROS/hci/tree/2016031/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF1
+ λινκ στο αποθετηριο του κωδικα : https://github.com/JIMCHLOROS/Super-Mario/blob/gh-pages/index.html 
+ λινκ για το εκτελεσιμο : https://jimchloros.github.io/Super-Mario/ 
+ λινκ στο κλαδί του κώδικα που αντιστοιχεί στο παραδοτέο :  https://github.com/JIMCHLOROS/hci/tree/2016031/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF1
  
- 2ο Παραδοτέο
+ 
+2ο Παραδοτέο
  
  (απο το πρωτο παραδοτεο αναλυτικα προστεθηκαν δεντρακια και συννεφα στο background γλιτσα στα τουβλα στο solid αλλαγη εμφανισης πρωταγωνιστη και δημιουργια πιστας )
  
@@ -31,7 +35,9 @@
  (ολα τα αντικειμενα ειναι ζωγραφισμενα απο μενα)
  
  λινκ στο αποθετηριο του κωδικα : https://github.com/JIMCHLOROS/Super-Mario/blob/gh-pages/index.html 
+
  λινκ για το εκτελεσιμο : https://jimchloros.github.io/Super-Mario/ 
+
  λινκ στο κλαδί του κώδικα που αντιστοιχεί στο παραδοτέο : https://github.com/JIMCHLOROS/hci/tree/%CE%A02016031/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2
  
  3ο Παραδοτέο
