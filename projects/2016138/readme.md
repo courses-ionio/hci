@@ -115,19 +115,19 @@ Super-Mario
 
 
 
-![ScreenShot] (MainMenu.jpg)
+(MainMenu.jpg)
 
 
-![ScreenShot] (Level_1.jpg)
+(Level_1.jpg)
 
 
-![ScreenShot] (Level_2.jpg)
+(Level_2.jpg)
 
 
-![ScreenShot] (Level_3.jpg)
+(Level_3.jpg)
 
 
-![ScreenShot] (TotalScore.jpg)
+(TotalScore.jpg)
 
 
 Συμπέρασμα : 
