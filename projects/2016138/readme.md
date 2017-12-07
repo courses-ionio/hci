@@ -119,22 +119,22 @@ A.M : Π2016138
 
 
 
------Ενδεικτικές οθόνες παιχνιδιού.
+#### Ενδεικτικές οθόνες παιχνιδιού.
 
 
-
+Main Menu
 ![Main Menu](MainMenu.JPG)
 
-
+Level 1
 ![Level 1](Level_1.JPG)
 
-
+Level 2
 ![Level 2](Level_2.JPG)
 
-
+Level 3
 ![Level 3](Level_3.JPG)
 
-
+Total Score
 ![Tota Score](TotalScore.JPG)
 
 Συμπέρασμα : 
