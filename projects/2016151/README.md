@@ -12,4 +12,9 @@ link code -> https://johnn1ewalk3r.github.io/pacman/
       -εισαγωγη score
       -εισαγωγη χρονου
       -εισαγωγη ζωες (3)
+Παραδπτεο 3
+      -προσθεση εχθρου
+      -προσθεση teleport
+      -
+      
       
