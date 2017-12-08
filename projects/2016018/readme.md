@@ -1,7 +1,8 @@
-Όνομα : Κώστας Σάκκας
+# Super-Mario
+Δημιουργια νεας πιστας με tiled
+Αλλαγή των assets
+Προσθήκη μουσικής
+Προσθήκη score,ζωές
 
-ΑΜ : Π2016018
-
-Repository : github.com/kostassakkas/Super-Mario
-
-GH-Pages : kostassakkas.github.io/Super-Mario/
+repository:https://github.com/kostassakkas/Super-Mario
+εκτελέσιμο :https://kostassakkas.github.io/Super-Mario/

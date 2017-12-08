@@ -42,6 +42,8 @@ Super Mario - Μια παραλλαγή
 λινκ για το εκτελεσιμο : https://jimchloros.github.io/Super-Mario/
 λινκ στο κλαδί του κώδικα που αντιστοιχεί στο παραδοτέο : https://github.com/JIMCHLOROS/hci/tree/%CE%A02016031/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2
 
+
+
  3ο Παραδοτέο
  
  Αρχικά ως αναφορά τον κώδικα..χωρίστηκε σε 5 αρχεία για καλύτερη δομή + 4 αρχεία (js)-(index->boot->preloader->mainmenu->level1)
@@ -70,3 +72,4 @@ Super Mario - Μια παραλλαγή
  λινκ για το εκτελεσιμο : https://jimchloros.github.io/Super-Mario/
 
  λινκ στο κλαδί του κώδικα που αντιστοιχεί στο παραδοτέο : https://github.com/JIMCHLOROS/hci/tree/2016031/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF3
+
