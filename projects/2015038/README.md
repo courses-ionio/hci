@@ -50,3 +50,23 @@ https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo2/index.ht
 chart.js προσθήκη της function mouseClick στο node, (γραμμή #111), η function mouseClick (γραμμή #365)
 
 https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo2/chart.js
+
+## Παραδοτέο 3
+
+Σημείωση: Υπάρχει σχολιασμός κώδικα στα αρχεία που έγιναν οι αλλαγές.
+
+1) Tο ποντίκι λειτουργεί ως μεγεθυντικός φακός όταν μεταφέρεται επάνω από λέξεις του κειμένου.
+Αλλαγές έγιναν στο [style.css](https://github.com/sakis475/D3js-uk-political-donations/blob/paradoteo3/style.css) αρχείο όπου όταν γίνεται hover από κάποιο element(a,h1,p...) αυτό να κάνει zoom.
+![zoom](https://raw.githubusercontent.com/sakis475/hci/master/projects/2015038/zoomtext.png)
+2) Όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή, ακούγεται η ονομασία του δωρητή και το ποσό της δωρεάς.
+
+Για αυτή τη λειτουργικότητα χρησιμοποίησα μια δωρεάν βιβλιοθήκη:
+http://www.masswerk.at/mespeak/
+
+Αλλαγές έγιναν στο index.js αρχείο, στη mouseover και mouseout function
+βλέπε line 424, 243.
+Για να μην ακούγονται όλοι οι δωρητές μαζί κάθε φορά που το ποντίκι απλά τυχαίνει να σέρνετε από εκεί, έχω βάλει μια καθυστέρηση του μισού δευτερολέπτου. Πράγμα που σημαίνει ότι ο χρήστης πρέπει να έχει το ποντίκι πάνω από το κύκλο για μισό δευτερόλεπτο, για να ακουστεί ο δωρητής και το ποσό.
+
+
+3) Τέλος έχω προσθέσει ακόμα ένα Split view όπου φαίνονται οι δωρεές με βάση το ποσό τους (μεγαλύτερο σε μικρότερο), και επιπλέον χρησιμοποιόντας SQL έχω δημιουργήσει νέες πληροφορίες με βάση τα δεδομένα στο 7500up.csv . Έχω βρει το ποσοστό του κάθε κόμματος με μεγαλύτερες και μικρότερες δωρεές, για κάθε τάξη μεγέθους (Enormus, Huge, Large,Normal, Small). 
+![byamount](https://raw.githubusercontent.com/sakis475/hci/master/projects/2015038/splitbyamount.png)
