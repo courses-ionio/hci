@@ -6,7 +6,7 @@
 
 Repository: https://github.com/stilos25/Super-Mario
 
-gh-pages: https://stilos25.github.io/Super-Mario/
+gh-pages: https://stilos25.github.io/Super-Mario/menu.html
 
 
 
