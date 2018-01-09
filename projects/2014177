@@ -1,0 +1,19 @@
+ΔΙΟΝΥΣΙΟΣ ΤΕΤΡΑΔΗΣ
+ΑΜ:2014177
+
+# ΠΑΡΑΔΟΤΕΟ 1
+Super-Mario
+Repository(Super-Mario): https://github.com/DionyshsTetradhs/Super-Mario
+Game: https://dionyshstetradhs.github.io/Super-Mario/
+
+# ΠΑΡΑΔΟΤΕΟ 2 
+Έγιναν μικρές αλλαγές στην πίστα χρησιμοποιώντας το Tiled.
+Άλλαξα την εμφάνιση του Souper Mario έτσι ώστε να μιάζει με τον Luigi
+Άλλαξα το animation των coin για να φαίνονται σαν να περιστρέφονται
+Πρόσθεσα το theme song tou Mario και ήχο για όταν συλλέγεις ενα coin
+
+# ΠΑΡΑΔΟΤΕΟ 3
+
+# ΠΑΡΑΔΟΤΕΟ 4
+Προστέθηκαν πόντοι +5 για τα coint και +10 για τα goumbas
+Προστέθηκαν και ζωές
