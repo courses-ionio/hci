@@ -27,8 +27,8 @@
    **Παραδοτέο 4:**
     Πλέον ο χρήστης εφόσον τελειώσει το 1ο επίπεδο, εμφανίζεται ένα "κουμπί" που αν πατηθεί οδηγεί τον χρήστη στη δεύτερη πίστα.
     
-    Pacman:![ScreenShot](redpacman.png)
-    Coin:![ScreenShot](coin.png)
-    Bonus:![ScreenShot](bonus.png)
-    Teleport:![ScreenShot](teleport.png)
-    pill:![ScreenShot](pill.png)
+    Pacman: ![ScreenShot](redpacman.png)
+    Coin: ![ScreenShot](coin.png)
+    Bonus: ![ScreenShot](bonus.png)
+    Teleport: ![ScreenShot](teleport.png)
+    pill: ![ScreenShot](pill.png)
