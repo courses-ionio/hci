@@ -40,11 +40,21 @@ repository : https://github.com/cnobody/pacman
  - [x] Προσθήκη continue κουμπιού οπου εμφανίζεται οταν νικάς το level 1 και σε μεταφέρει στο level 2.
  - [x] Προσθήκη τρίτου εχθρού.
  - [x] Η ταχύτητα των εχθρών αυξάνεται ανα διαστήματα του παιχνιδιού.
+ 
+ Loading screen
+ ![selection_012](https://user-images.githubusercontent.com/24413081/34944673-30921de2-fa09-11e7-97be-8ab61dcf9d2d.png)
+ 
+ Level 1
+ ![selection_013](https://user-images.githubusercontent.com/24413081/34944898-025218b4-fa0a-11e7-8c9c-5218492b5d97.png)
+ 
+ Level 2
+ ![selection_014](https://user-images.githubusercontent.com/24413081/34944916-13583c88-fa0a-11e7-9cd7-b7c316fd03e2.png)
 
 ### Χρησιμοποιήθηκαν
   
 - To [Tiled](http://www.mapeditor.org) για την επεξεργασία του χάρτη 
 - Photoshop και GIMP για απαραίτητες αλλαγές σε εικόνες.
+- Sublime text για την επεξεργασία του κώδικα.
 - Οι ήχοι προέρχονται από το YouTube
 - Οι εικόνες προέρχονται από την αναζήτηση εικόνων της Google. 
   
