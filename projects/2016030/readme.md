@@ -72,12 +72,12 @@ background μουσική,"Rayman Legends Soundtrack - Mariachi Madness" και 
     
  #### Εικόνες :
 
-   - Ο ήρωας ![ηρωας]()
-   - Ο goomba ![εχθρος]()
-   - Το αστέρι ![αστερακι]()
+   - Ο ήρωας ![ηρωας](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/ray.jpg)
+   - Ο goomba ![εχθρος](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/goomb.jpg)
+   - Το αστέρι ![αστερακι](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/byul.jpg)
     
    - Το μενού ![Το μενού](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/%CE%9D%CE%AD%CE%B1%20%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1%20bitmap.jpg)
    
-   - Η πρώτη πίστα ![ η πιστα ](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/level1.jpg) 
+   - Η πρώτη πίστα ![ η πιστα ](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/lv1.jpg) 
  
-   - H δεύτερη πίστα ![ η δευτερη πιστα]()
+   - H δεύτερη πίστα ![ η δευτερη πιστα](https://github.com/MyrtoP/Super-Mario/blob/gh-pages/assets/lv2.jpg)
