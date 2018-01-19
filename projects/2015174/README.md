@@ -33,5 +33,4 @@ GH-Pages (Super-Mario): https://dimitris-stamatis.github.io/Super-Mario/<br>
 ...
 
 <strong>Παραδοτέο 4 - Tελική Αναφορά</strong>
-
-...
+<br>Η τελική αναφορά της εργασίας βρίσκεται εδώ: https://dimitris-stamatis.github.io/HCI-Final-Report/
