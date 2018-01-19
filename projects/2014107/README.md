@@ -6,7 +6,7 @@
 
 **Repository(Super-Mario):** https://github.com/aMimikyu/Super-Mario
 
-**gh-pages:** https://amimikyu.github.io/Super-Mario/menu.html
+**gh-pages:** https://amimikyu.github.io/Super-Mario/
 
 
 
@@ -98,6 +98,10 @@
 Οι χελώνες είναι λίγο πιο ανταποκρίσημες. 
 
 Προστέθηκε δεύτερη πίστα και ένας νέος εχθρός. Τα πανίσχυρα magikarp.
+
+Επίσης προστέθηκε text σε διάφορα σημεία του παιχνιδιού.
+
+Ενδεικτική οθόνη credits: [credits](credits.png)
 
 
 . . . . . . .
