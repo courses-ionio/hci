@@ -48,3 +48,24 @@
 Τέλος έγινε προσθήκη animation που σηματοδοτεί τη λήξη της πρώτης πίστας με τον Crash να χορεύει το γνωστό στους φανς, χορό-πανηγυρισμό του.
 
 Ως ένα επιπλέον στοιχείο προστέθηκε υποστήριξη για κινητά και tablets καθώς το παιχνίδι αναγνωρίζει πλέον αν τρέχει σε κάτι από τα δύο και εμφανίζει κουμπιά.
+
+## Screenshots
+Κάντε hover με το ποντίκι για να εμφανιστεί η περιγραφή των εικόνων
+
+![alt text](https://github.com/PsarrasK/Super-Mario/blob/master/screenshots/scr1.png "Αρχική οθόνη - Μενού")
+![alt text](https://github.com/PsarrasK/Super-Mario/blob/master/screenshots/scr2.png "Αρχή πίστας - Αρχική θέση")
+![alt text](https://github.com/PsarrasK/Super-Mario/blob/master/screenshots/scr2smart.png "Αρχή πίστας - Αρχική θέση - Υποστήριξη Smartphones και Tablets")
+![alt text](https://github.com/PsarrasK/Super-Mario/blob/master/screenshots/scr3.png "Έχοντας πάρει τη μάσκα - PowerUp")
+![alt text](https://github.com/PsarrasK/Super-Mario/blob/master/screenshots/scr4.png "Σημείο του Teleport")
+![alt text](https://github.com/PsarrasK/Super-Mario/blob/master/screenshots/scr5.png "Στιγμιότυπο Gameplay")
+![alt text](https://github.com/PsarrasK/Super-Mario/blob/master/screenshots/scr6.png "Στιγμιότυπο Gameplay PAUSED")
+![alt text](https://github.com/PsarrasK/Super-Mario/blob/master/screenshots/scr7.png "Στιγμιότυπο Gameplay YOU WIN!")
+![alt text](https://github.com/PsarrasK/Super-Mario/blob/master/screenshots/scr8.png "Στιγμιότυπο Gameplay GAME OVER")
+
+## Συμπεράσματα
+
+- Η Phaser είναι μια ενδιαφέρουσα βιβλιοθήκη με υλικό και αρκετές δυνατότητες για mini games.
+- Τα προγράμματα που χρησιμοποιήθηκαν είναι αρκετά εύχρηστα και δε χρειάζονται πολλές γνώσεις για να εγκλιματιστεί κανείς πολύ γρήγορα.
+- Δεν υπάρχουν αρκετά παραδείγματα χρήσης της Phaser για όλα όσα πραγματοποιήθηκαν στην παρούσα εργασία.
+- Η διασύνδεση και προσαρμογή των χαρακτηριστικών που έχουν προστεθεί στο παιχνίδι είναι αρκετά απαιτητική και οι αλλαγές που πρέπει να πραγματοποιηθούν κάθε φορά από τη σκοπιά του κώδικα, αυξάνονται σχεδόν εκθετικά.
+- Λόγω του μεγάλου όγκου γραφικών της τελικής εργασίας σε σχέση με την απλή έκδοση του Super-Mario που μας δώθηκε αλλά και το μεγαλύτερο μέγεθος του καμβά του παιχνιδιού, παρατηρήθηκαν αυξημένες απαιτήσεις από τη συσκευή στην οποία τρέχει το παιχνίδι. Σε συσκευές λοιπόν με μικρότερη επεξεργαστική ισχή ενδέχεται να υπάρχουν καθυστερήσεις όταν γίνεται ολίσθηση του φόντου της πίστας.
