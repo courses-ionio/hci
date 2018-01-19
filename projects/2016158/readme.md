@@ -20,6 +20,6 @@
 ### 4ο Παραδοτέο:
   Για το 4ο παραδοτέο πρόσθεσα μια δεύτερη πίστα καθώς και αρχικό menu για την πλοήγιση στις πίστες. Επιπλέον, οταν ο χρήστης κερδίζει το πρώτο παιχνίδι τότε εμφανίζεται ένα κουμπί που τον μεταφέρει στην επόμενη πίστα. Τέλος υπήρξαν βελτιώσεις στον κώδικα καθώς πραγματοποιήθηκε το απαραίτητο pull request [#62](https://github.com/ioniodi/pacman/pull/62).
   
-[!Menu](https://raw.githubusercontent.com/nickgarlis/pacman/master/assets/menu.png)
-[!Level1](https://raw.githubusercontent.com/nickgarlis/pacman/master/assets/level1.png)
-[!Level2](https://raw.githubusercontent.com/nickgarlis/pacman/master/assets/level2.png)
+![Menu](https://raw.githubusercontent.com/nickgarlis/pacman/master/assets/menu.png)
+![Level1](https://raw.githubusercontent.com/nickgarlis/pacman/master/assets/level1.png)
+![Level2](https://raw.githubusercontent.com/nickgarlis/pacman/master/assets/level2.png)
