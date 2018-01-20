@@ -37,19 +37,19 @@
 - 1.	MENU.                             
 ![ScreenShot1](https://github.com/Elent4/hci/blob/2016106/projects/2016106/menu.png)
 
-- 2.	LEVEL 1.
-[ScreenShot2](https://github.com/Elent4/hci/blob/2016106/projects/2016106/level1.png)
+- 2.	LEVEL 1.                                               
+![ScreenShot2](https://github.com/Elent4/hci/blob/2016106/projects/2016106/level1.png)
 
-- 3.	LEVEL 2.
-!(https://github.com/Elent4/hci/blob/2016106/projects/2016106/level2.png)
+- 3.	LEVEL 2.                                                            
+![ScreenShot3](https://github.com/Elent4/hci/blob/2016106/projects/2016106/level2.png)
 
-- 4.	GAME OVER.
+- 4.	GAME OVER.                                                                  
 ![ScreenShot4](https://github.com/Elent4/hci/blob/2016106/projects/2016106/gameover.png)
  	
-- 5.	YOU WIN ONE LIFE.
+- 5.	YOU WIN ONE LIFE.                                                    
 ![ScreenShot5](https://github.com/Elent4/hci/blob/2016106/projects/2016106/life.png) 
 
-- 6.	TELEPORT.
+- 6.	TELEPORT.                                                
 ![ScreenShot6](https://github.com/Elent4/hci/blob/2016106/projects/2016106/teleport.png) 
 
 ## ΣΥΜΠΕΡΑΣΜΑ:
