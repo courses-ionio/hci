@@ -27,14 +27,14 @@
 
 ## Χρησιμοποιήθηκαν οι εφαρμογές: 
 
-TILED: για την δημιουργία και επεξεργασία του χάρτη. 
-YouTube: πηγή του background κομματιού. 
-Paint.net: επεξεργασία εικόνων.
-Microsoft Expression Web 4: δημιουργία buttons του menu. 
-Google images: crash, apples, evil monkey, menu background.
+- TILED: για την δημιουργία και επεξεργασία του χάρτη. 
+- YouTube: πηγή του background κομματιού. 
+- Paint.net: επεξεργασία εικόνων.
+- Microsoft Expression Web 4: δημιουργία buttons του menu. 
+- Google images: crash, apples, evil monkey, menu background.
 
-- 1.	MENU.
-![ScreenShot1](https://github.com/Elent4/hci/blob/2016106/projects/2016106/menu.png)
+1.	MENU.
+[ScreenShot1](https://github.com/Elent4/hci/blob/2016106/projects/2016106/menu.png)
 
 - 2.	LEVEL 1.
 ![ScreenShot2](https://github.com/Elent4/hci/blob/2016106/projects/2016106/level1.png)
