@@ -1,11 +1,11 @@
-ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ ΚΑΙ ΕΡΓΟ: SUPER MARIO 
-Ονοματεπώνυμο: Ελένη Τράντη
-ΑΜ: 2016106
-Forked Repository: https://github.com/Elent4/hci
-Repository( Super - Mario ): https://github.com/Elent4/Super-Mario
-gh- pages: https://elent4.github.io/Super-Mario/
+# ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ ΚΑΙ ΕΡΓΟ: SUPER MARIO 
+- Ονοματεπώνυμο: Ελένη Τράντη
+- ΑΜ: 2016106
+- Forked Repository: https://github.com/Elent4/hci
+- Repository( Super - Mario ): https://github.com/Elent4/Super-Mario
+- gh- pages: https://elent4.github.io/Super-Mario/
 
-# Σύνοψη παιχνιδιού:
+## Σύνοψη παιχνιδιού:
 
 Σκοπός του παιχνιδιού είναι ο παίχτης να μαζέψει όσα περισσότερα νομίσματα μπορεί αποφεύγοντας ταυτόχρονος τους εχθρούς η και σκοτώνοντας τους έτσι ώστε να κερδίσει επιπλέον ζωή και να τερματίσει το παιχνίδι.
  
@@ -13,19 +13,19 @@ gh- pages: https://elent4.github.io/Super-Mario/
 
 Επιλογή παιχνιδιού από τα προτεινόμενα: Super Mario.
 
-### Παραδοτέο 2 : 
+## Παραδοτέο 2 : 
 
 Σε αυτό το παραδοτέο δημιουργήθηκε μια νέα πίστα με την εφαρμογή TILED. Έγινε αλλαγή στην εμφάνιση του χαρακτήρα του παιχνιδιού. Στο παρόν παιχνίδι κύριος ήρωας είναι ο βασικός χαρακτήρας από το παιχνίδι CRASH BANDICOOT. Επίσης έγινε αλλαγή και στα αρχικά coins του παιχνιδιού και αντικαταστάθηκαν με τα apples του παιχνιδιού CRASH. Προστέθηκε background ήχος το theme song από το παιχνίδι CRASH και τους ήχους από τον φάκελο audio για την κάθε κίνηση του όπως για την συλλογή των apples, το jump του ήρωα, τον θάνατο των goombas και του ήρωα. Στην συνέχεια, έγινε προσθήκη του score, των bonus, των lives και των goombas. Η προσθήκη της αρίθμησης των goombas έγινε για το bonus που ο crash αφού σκοτώσει 5 goombas παίρνει μια επιπλέον ζωή όπως γίνεται και στους 10 και 15 goombas. Κάθε φορά που γίνει η προσθήκη της ζωής βγαίνει μήνυμα "YOU WIN ONE LIFE" και τέλος, αφού χαθούν όλες οι ζωές βγαίνει μήνυμα "GAME OVER". 
 
-#### Παραδοτέο 3 :
+## Παραδοτέο 3 :
 
 Στο τρίτο παραδοτέο έγινε προσθήκη ενός επιπλέον εχθρού από το παιχνίδι CRASH BANDICOOT που όταν ο Crash χτυπήσει πάνω του χάνει ζωή και δεν μπορεί να τον σκοτώσει με κανέναν τρόπο. Επίσης, υπάρχει η δυνατότητα teleport για τον πρωταγωνιστή σε συγκεκριμένα σημεία της πίστας που είναι ο πρώτος σωλήνας που εμφανίζεται και τον μεταφέρει σε έναν άλλον σωλήνα μέσα στο παιχνίδι με το πάτημα του "κάτω" βέλους. Στην αρχή του παιχνιδιού έχει προστεθεί ένα menu που δημιουργήθηκε στην εφαρμογή Microsoft Expression Web 4 για την επιλογή της πίστα και για start of level. Η εικόνα είναι και αυτή από το παιχνίδι του Crash και υπάρχουν οι επιλογές για το LEVEL1 και LEVEL2 καθώς και μια επιπλέον επιλογή για credits που κατευθύνει τον παίκτη στη σελίδα μου στο GitHub. Τέλος, με το που τερματίζει ο παίχτης το παιχνίδι εμφανίζεται το μήνυμα "LEVEL 1 COMPLETE" όταν βρεθεί ο παίχτης πάνω στον σωλήνα και πατήσει το "κάτω" βέλος.
 
-##### Παραδοτέο 4 :
+## Παραδοτέο 4 :
 
 Στο τέταρτο παραδοτέο δημιουργήθηκε ένα επιπλέον level το οποίο ξεκινά αυτόματα μόλις τελειώσει το πρώτο. Ο παίκτης μπορεί ακόμα να επιλέξει το δεύτερο level από το menu. Επίσης, με τον θάνατο του παίχτη στο δεύτερο level, αυτό ξεκινάει απ’ την αρχή όπως γίνεται και στο πρώτο. Τέλος, έγινε η αποστολή της δεύτερης πίστας μέσω του gh- pages branch και η παρούσα τελική αναφορά. 
 
-###### Χρησιμοποιήθηκαν οι εφαρμογές: 
+## Χρησιμοποιήθηκαν οι εφαρμογές: 
 
 TILED: για την δημιουργία και επεξεργασία του χάρτη. 
 YouTube: πηγή του background κομματιού. 
@@ -33,22 +33,22 @@ Paint.net: επεξεργασία εικόνων.
 Microsoft Expression Web 4: δημιουργία buttons του menu. 
 Google images: crash, apples, evil monkey, menu background.
 
--1.	MENU.
+- 1.	MENU.
 ![ScreenShot1](https://github.com/Elent4/hci/blob/2016106/projects/2016106/menu.png)
 
--2.	LEVEL 1.
+- 2.	LEVEL 1.
 ![ScreenShot2](https://github.com/Elent4/hci/blob/2016106/projects/2016106/level1.png)
 
--3.	LEVEL 2.
+- 3.	LEVEL 2.
 -![ScreenShot3](https://github.com/Elent4/hci/blob/2016106/projects/2016106/level2.png)
 
--4.	GAME OVER.
+- 4.	GAME OVER.
 ![ScreenShot4](https://github.com/Elent4/hci/blob/2016106/projects/2016106/gameover.png)
  	
--5.	YOU WIN ONE LIFE.
+- 5.	YOU WIN ONE LIFE.
 ![ScreenShot5](https://github.com/Elent4/hci/blob/2016106/projects/2016106/life.png) 
 
--6.	TELEPORT.
+- 6.	TELEPORT.
 ![ScreenShot6](https://github.com/Elent4/hci/blob/2016106/projects/2016106/teleport.png) 
 
 -ΣΥΜΠΕΡΑΣΜΑ:
