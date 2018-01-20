@@ -6,7 +6,7 @@
 
 ### [Τελική Αναφορά Github Pages](https://eiriniklt.github.io/slate/)
 
-## Τίτλος: Super Mario
+#Super Mario
 
 ## ΕΙΣΑΓΩΓΗ
 
