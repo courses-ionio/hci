@@ -36,7 +36,7 @@ Google images: crash, apples, evil monkey, menu background.
 3.	LEVEL 2.
  
 4.	GAME OVER.
- 
+ 	https://github.com/Elent4/hci/blob/2016106/projects/2016106/gameover.png
 
 5.	YOU WIN ONE LIFE.
  
