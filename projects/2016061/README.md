@@ -37,10 +37,12 @@ gh-pages: https://pinelopiath.github.io/Super-Mario/
 
 <b> Εργαλεία που χρησιμοποιήθηκαν: </b>
 
-Ι   Tiled.
+Ι   Για την δημιουργία των πιστών: Tiled.
 
-II  Sublime Text.
+II  Για την συγγραφή του κώδικα: Sublime Text 3.
 
-III Xampp.
+III Για να τρέχει τοπικά ο κώδικας: Xampp.
 
-IV  Sai Paint Tool.
+IV Για τη ζωγραφική διαφόρων εικόνων που υπάρχουν μεσα στο παιχνίδι: Sai Paint Tool.
+
+V  Οι περισσότεροι ήχοι του παιχνιδιού πάρθηκαν από εδώ: http://themushroomkingdom.net/wav.shtml 
