@@ -38,6 +38,9 @@ gh-pages: https://pinelopiath.github.io/Super-Mario/
 <b> Εργαλεία που χρησιμοποιήθηκαν: </b>
 
 Ι   Tiled.
+
 II  Sublime Text.
-III Adobe Photoshop
+
+.  III Adobe Photoshop
+
 IV  Sai Paint Tool.
