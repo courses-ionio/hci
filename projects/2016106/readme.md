@@ -41,7 +41,7 @@
 [ScreenShot2](https://github.com/Elent4/hci/blob/2016106/projects/2016106/level1.png)
 
 - 3.	LEVEL 2.
-[ScreenShot3](https://github.com/Elent4/hci/blob/2016106/projects/2016106/level2.png)
+!(https://github.com/Elent4/hci/blob/2016106/projects/2016106/level2.png)
 
 - 4.	GAME OVER.
 [ScreenShot4](https://github.com/Elent4/hci/blob/2016106/projects/2016106/gameover.png)
