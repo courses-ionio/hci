@@ -28,22 +28,22 @@ Microsoft Expression Web 4: δημιουργία buttons του menu.
 Google images: crash, apples, evil monkey, menu background.
 
 -1.	MENU.
--![ScreenShot1](https://github.com/Elent4/hci/blob/2016106/projects/2016106/menu.png)
+![ScreenShot1](https://github.com/Elent4/hci/blob/2016106/projects/2016106/menu.png)
 
 -2.	LEVEL 1.
--![ScreenShot2](https://github.com/Elent4/hci/blob/2016106/projects/2016106/level1.png)
+![ScreenShot2](https://github.com/Elent4/hci/blob/2016106/projects/2016106/level1.png)
 
 -3.	LEVEL 2.
 -![ScreenShot3](https://github.com/Elent4/hci/blob/2016106/projects/2016106/level2.png)
 
 -4.	GAME OVER.
--![ScreenShot4](https://github.com/Elent4/hci/blob/2016106/projects/2016106/gameover.png)
+![ScreenShot4](https://github.com/Elent4/hci/blob/2016106/projects/2016106/gameover.png)
  	
 -5.	YOU WIN ONE LIFE.
--![ScreenShot5](https://github.com/Elent4/hci/blob/2016106/projects/2016106/life.png) 
+![ScreenShot5](https://github.com/Elent4/hci/blob/2016106/projects/2016106/life.png) 
 
 -6.	TELEPORT.
--![ScreenShot6](https://github.com/Elent4/hci/blob/2016106/projects/2016106/teleport.png) 
+![ScreenShot6](https://github.com/Elent4/hci/blob/2016106/projects/2016106/teleport.png) 
 
 -ΣΥΜΠΕΡΑΣΜΑ:
 	Η συγκεκριμένη εργασία ήταν ένας ωραίος τρόπος να διδαχθούν στην πράξη οι γλώσσες html και JavaScript μέσα από την φαντασία και την δημιουργικότητα ενός κλασικού παιχνιδιού όπως είναι το Super Mario. 
