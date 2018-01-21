@@ -9,6 +9,12 @@ Repository(Super-Mario): https://github.com/Kwnstant1na/Super-Mario
 
 gh-pages:https://Kwnstant1na.github.io/Super-Mario/
 
+Σκοπός του παιχνιδιού :
+- Ο Mario πρέπει να συλλέξει όσα περισσότερα νομίσματα μπορεί, ενώ
+  παράλληλα να σκοτώνει τους εχθρούς που περιφέρονται στην πίστα.
+  Μόλις χάσει μία ζωή, μειώνονται όλες πεθαίνει και ξανά ξεκινάει από
+  την αρχή.
+
 
 -Στο παραδοτέο 2 δημιούργησα μία νέα πίστα με την εφαρμογή TILED. Κράτησα τον βασικό ήρωα 
 του παιχνιδιού αλλά έκανα επεξεργασία στα χρώματα του.
@@ -45,10 +51,38 @@ audio για τις κινήσεις του ήρωα, δηλαδή το jump, τ
 - Στο 2ο level έγινε αλλαγή στα χρώματα του βασικού ήρωα, στο tileset και στον χάρτη.
 -Τέλος, έγινε αλλαγή των διαστάσεων και στις δύο πίστες.
 
+Συμπέρασμα:
+- Η συγκεκριμένη εργασία είναι αρκετά δημιουργική και διασκεδαστική και δίνει 
+παράλληλα τη δυνατότητα και το κίνητρο σε κάποιον να ασχοληθεί 
+πάνω σε αυτό που θέλει. Επίσης, κάποιος μπορεί να αποκτήσει αρκετές
+προγραμματιστικές γνώσεις. Τέλος, μαθαίνει να δημιουργεί χάρτες μέσω Tiled.
+
+* Όσον αφορά στη δική μου εργασία, δεν πραγματοποιήθηκαν όλα τα προαπαιτούμενα
+παρόλα αυτά επιτεύχθηκε ένα μεγάλο μέρος.
+
 Πηγές:
 - Οι χάρτες πραγματοποιήθηκαν μέσω της εφαρμογής Tiled.
 Link --> ( http://www.mapeditor.org/ )
 
 Εικόνες:
-- Level 1
+- Level 1 
+- Η πίστα [rep1.png](projects/2016156/rep1.png)
+- O ήρωας [rep5.png](projects/2016156/rep5.png)
+- Ο εχθρός 1 [rep4.png](projects/2016156/rep4.png)
+- Ο εχθρός 2 [rep3.png](projects/2016156/rep3.png)
+- Το coin [rep2.png](projects/2016156/rep2.png)
+- Link 1 --> (https://github.com/Kwnstant1na/Super-Mario/blob/gh-pages/index.html)
+- Link 2 --> (https://github.com/Kwnstant1na/Super-Mario/blob/gh-pages/level2.html)
+- Link 3 --> (https://github.com/Kwnstant1na/Super-Mario/blob/gh-pages/menu.html)
+
+-Level 2
+- Η πίστα
+- Ο ήρωας[rep8.png](projects/2016156/rep8.png)
+- Ο εχθρός 1[rep7.png](projects/2016156/rep7.png)
+- Ο εχθρός 2[rep3.png](projects/2016156/rep3.png)
+- Το coin[rep6.png](projects/2016156/rep6.png)
+
+- Menu
+- Το μενού[rep0.png](projects/2016156/rep0.png)
+- Το φόντο --> ( https://goo.gl/Qq3ySu )
 
