@@ -3,9 +3,11 @@
 
 ΑΜ : 2016137
 
-gh pages : https://cnobody.github.io/pacman/menu.html
+gh-pages : https://cnobody.github.io/pacman/menu.html
 
 repository : https://github.com/cnobody/pacman
+
+gh-pages αναφορά : https://cnobody.github.io/hci/projects/2016137/
 
 
 ### 1o παραδοτέο :
