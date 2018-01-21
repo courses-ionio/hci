@@ -20,10 +20,6 @@ Gh-pages: https://effraim.github.io/pacman/intro.html
 Όταν ανοίγεις το παιχνίδι μπαίνεις στο menu το οποίο παίζει το intro απο το cuphead και υπάρχει ένα κουμπί για να συνεχίσεις 
 στο παιχνίδι.
 Η μουσική κάθε πίστας σχετίζεται με τον εχθρό που έχει καθώς είναι τα soundtracks τους απο το cuphead.
-- 1 cagney carnation boss fight
-
-![cagney carnation](https://github.com/effraim/hci/blob/2016157/projects/2016157/Cuphead-ReviewSTL.png)
-
 
 **1o παραδοτέο
 
