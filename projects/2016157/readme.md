@@ -21,7 +21,7 @@ Gh-pages: https://effraim.github.io/pacman/intro.html
 στο παιχνίδι.
 Η μουσική κάθε πίστας σχετίζεται με τον εχθρό που έχει καθώς είναι τα soundtracks τους απο το cuphead.
 - 1 cagney carnation boss fight
-![cagney carnation](https://github.com/effraim/hci/2016157/projects/PICS/Cuphead-ReviewSTL.png)
+![cagney carnation](https://github.com/effraim/hci/blob3/2016157/projects/PICS/Cuphead-ReviewSTL.png)
 
 **1o παραδοτέο
 
