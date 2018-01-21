@@ -10,6 +10,8 @@ Repository:https://github.com/effraim/pacman
 
 Gh-pages: https://effraim.github.io/pacman/intro.html
 
+Αναφορά σε gh-pages: https://effraim.github.io/hci-report-/ 
+
   ## Σύνοψη:
 
 το παιχνίδι αυτό είναι μια παραλλαγή του pacman το οποίο στηρίζεται σε ένα πρόσφατο run and gun-boss driven indie game
