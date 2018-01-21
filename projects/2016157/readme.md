@@ -1,6 +1,6 @@
-     #PACMAN PROJECT(CUPHEAD VERSION)
+# PACMAN PROJECT(CUPHEAD VERSION)
 
-            ##Τελική Αναφορά:
+  ## Τελική Αναφορά:
 
 Όνομα: Ευφραίμ Αναστασιάδης AM: Π2016157
 
@@ -10,7 +10,7 @@ Repository:https://github.com/effraim/pacman
 
 Gh-pages: https://effraim.github.io/pacman/intro.html
 
-               ##Σύνοψη:
+  ## Σύνοψη:
 
 το παιχνίδι αυτό είναι μια παραλλαγή του pacman το οποίο στηρίζεται σε ένα πρόσφατο run and gun-boss driven indie game
 το οποίο ονομάζεται cuphead.
@@ -20,6 +20,8 @@ Gh-pages: https://effraim.github.io/pacman/intro.html
 Όταν ανοίγεις το παιχνίδι μπαίνεις στο menu το οποίο παίζει το intro απο το cuphead και υπάρχει ένα κουμπί για να συνεχίσεις 
 στο παιχνίδι.
 Η μουσική κάθε πίστας σχετίζεται με τον εχθρό που έχει καθώς είναι τα soundtracks τους απο το cuphead.
+- 1 cagney carnation boss fight
+![cagney carnation](https://github.com/effraim/hci/projects/2016157/PICS/Cuphead-ReviewSTL.png)
 
 **1o παραδοτέο
 
@@ -71,7 +73,7 @@ level.
 --Aναζητήσεις: Cuphead sprites, coin.png, cup.png,game start button png,next button png,kind dice sprites,
 cagney carnation sprites,flural fury soundtrack,king dice soundtrack,pink dice png--
 
-##Συμπεράσματα:
+## Συμπεράσματα:
 
 Σίγουρα θα έλεγα απο τις πιο ενδιαφέρουσες εργασίες καθώς σου ζητείται να φτιάξεις με ιδιέτερη ελευθερία
 ένα παιχνίδι χρησιμοποιόντας για βάση ή το pacman ή το super mario,δίνοντας σου ταυτόχρονα την δυνατότητα 
