@@ -14,3 +14,8 @@
 Στο παραδοτεο αυτο προστεθηκαν επιπλεον εχθροι,δυνατοτητα τηλεμεταφορας και μενου στην αρχη του παιχνιδιου.
 Link αρχειου:https://github.com/thanspan/Super-Mario
 Link παιχνιδιου:https://thanspan.github.io/Super-Mario/
+
+Παραδοτεο 4:
+Στο παραδοτεο αυτο εφτιαξα ακομα μια πιστα με επιπλεον εχθρους εκτος των goomba,δυνατοτητα τηλεμεταφορας και διαφορετικο map.Επισης εαν ολοκληρωθει το πρωτο level ο mario μεταφερεται αυτοματα στο level 2.  
+Link αρχειου: https://github.com/thanspan/Super-Mario/tree/gh-pages
+Link Παιχνιδιου:https://thanspan.github.io/Super-Mario/
