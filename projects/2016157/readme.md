@@ -71,6 +71,9 @@ level.
 
 ![](https://raw.githubusercontent.com/effraim/pacman/gh-pages/assets/s1.png)
 
+![](https://raw.githubusercontent.com/effraim/pacman/gh-pages/assets/s5.png)
+
+
 ## Πηγές - Χρησιμοποιήθηκαν
 
 Το TryIt για την δοκιμή του κώδικα καθλως το GitHub ανανεώνεται αργα.
