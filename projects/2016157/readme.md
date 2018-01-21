@@ -61,6 +61,8 @@ O ήχος των νομισμάτων ονομάζεται "coin.mp3" και ε
 tiles να δημιοργήσω μια κλασική εικόνα απο το cuphead που είναι απο το boss fight του εχθρού που βλεπουμε στο δεύτερο
 level.
 
+![](https://raw.githubusercontent.com/effraim/pacman/gh-pages/assets/s5.jpg)
+
 
 
 - 1rst Level
@@ -71,7 +73,6 @@ level.
 
 ![](https://raw.githubusercontent.com/effraim/pacman/gh-pages/assets/s1.png)
 
-![](https://raw.githubusercontent.com/effraim/pacman/gh-pages/assets/s5.png)
 
 
 ## Πηγές - Χρησιμοποιήθηκαν
