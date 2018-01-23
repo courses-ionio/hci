@@ -100,4 +100,4 @@ Super Mario - Μια παραλλαγή
 
 [κλαδί του κώδικα που αντιστοιχεί στο παραδοτέο](https://github.com/JIMCHLOROS/hci/tree/%CF%802016031/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF4)
 
- Η [Τελική Αναφορά](https://jimchloros.github.io/) είναι σε ξεχωριστό repozitory.
+ Η [Τελική Αναφορά](https://jimchloros.github.io/) είναι σε ξεχωριστό repository.
