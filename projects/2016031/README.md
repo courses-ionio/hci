@@ -94,8 +94,10 @@ Super Mario - Μια παραλλαγή
 (Για κανένα από τα γραφικά δεν χρησιμοποιήθικε κάποιο έτοιμο σχέδιο (π.χ. από το διαδύκτιο).
 
 
-λινκ στο αποθετηριο του κωδικα : https://github.com/JIMCHLOROS/Super-Mario/blob/gh-pages/index.html
+[λινκ στο αποθετηριο του κωδικα](https://github.com/JIMCHLOROS/Super-Mario/blob/gh-pages/index.html)
 
-λινκ για το εκτελεσιμο : https://jimchloros.github.io/Super-Mario/
+[λινκ για το εκτελεσιμο](https://jimchloros.github.io/Super-Mario/)
 
-λινκ στο κλαδί του κώδικα που αντιστοιχεί στο παραδοτέο :https://github.com/JIMCHLOROS/hci/tree/%CF%802016031/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF4
+[κλαδί του κώδικα που αντιστοιχεί στο παραδοτέο](https://github.com/JIMCHLOROS/hci/tree/%CF%802016031/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF4)
+
+ Η [Τελική Αναφορά](https://jimchloros.github.io/) είναι σε ξεχωριστό repository.
