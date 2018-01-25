@@ -93,7 +93,18 @@ function mouseclick( d, i ) {
 Για την διεκπαιρέωση της εργασίας τα εργαλεία που χρησιμοποιήθηκαν ήταν το Notepad++ και το Code Inspector του Browser Firefox για την διόρθωση στυλιστικών επιλογών όπως επίσης και την επιθεώρηση σφαλμάτων της javascript σε real-time running.
 
 <h3>Ενδεικτικές Εικόνες</h3>
-// todo todo
+<img src="https://harrygsn.github.io/D3js-uk-political-donations/images/1.jpg"/>
+_Εικόνα 1: Προεπισκόπηση Index σελίδας μετά την αλλαγή των χρωμάτων._
+<img src="https://harrygsn.github.io/D3js-uk-political-donations/images/2.jpg"/>
+_Εικόνα 2: Προεπισκόπηση του Zoom όταν καλείται το hover event στην CSS στο header (Public Money vs Private cash)._
+<img src="https://harrygsn.github.io/D3js-uk-political-donations/images/3.jpg"/>
+_Εικόνα 3: Προεπισκόπηση σελίδας μετά την αλλαγή των χρωμάτων επιλέγοντας την ομαδοποίηση "Split by Party"._
+<img src="https://harrygsn.github.io/D3js-uk-political-donations/images/4.jpg"/>
+_Εικόνα 4: Προεπισκόπηση του hover event της javascript στα nodes του γράφου._
+<img src="https://harrygsn.github.io/D3js-uk-political-donations/images/5.jpg"/>
+_Εικόνα 5: Προεπισκόπηση του Query που στέλνει στο Search Engine Google το on click event της javascript στα nodes του γράφου._
+<img src="https://harrygsn.github.io/D3js-uk-political-donations/images/6.jpg"/>
+_Εικόνα 6: Προεπισκόπηση της νέας επιλογής ομαδοποίησης "Split by Donation Amount"._
 
 <h3>Συμπεράσματα</h3>
 
