@@ -95,16 +95,27 @@ function mouseclick( d, i ) {
 <h3>Ενδεικτικές Εικόνες</h3>
 <img src="https://harrygsn.github.io/D3js-uk-political-donations/images/1.jpg"/>
 Εικόνα 1: <i>Προεπισκόπηση Index σελίδας μετά την αλλαγή των χρωμάτων.</i>
+<hr />
+
 <img src="https://harrygsn.github.io/D3js-uk-political-donations/images/2.jpg"/>
 Εικόνα 2: <i>Προεπισκόπηση του Zoom όταν καλείται το hover event στην CSS στο header (Public Money vs Private cash).</i>
+<hr />
+
 <img src="https://harrygsn.github.io/D3js-uk-political-donations/images/3.jpg"/>
 Εικόνα 3: <i>Προεπισκόπηση σελίδας μετά την αλλαγή των χρωμάτων επιλέγοντας την ομαδοποίηση "Split by Party".</i>
+<hr />
+
 <img src="https://harrygsn.github.io/D3js-uk-political-donations/images/4.jpg"/>
 Εικόνα 4: <i>Προεπισκόπηση του hover event της javascript στα nodes του γράφου.</i>
+<hr />
+
 <img src="https://harrygsn.github.io/D3js-uk-political-donations/images/5.jpg"/>
 Εικόνα 5: <i>Προεπισκόπηση του Query που στέλνει στο Search Engine Google το on click event της javascript στα nodes του γράφου.</i>
+<hr />
+
 <img src="https://harrygsn.github.io/D3js-uk-political-donations/images/6.jpg"/>
 Εικόνα 6: <i>Προεπισκόπηση της νέας επιλογής ομαδοποίησης "Split by Donation Amount".</i>
+<hr />
 
 <h3>Συμπεράσματα</h3>
 
