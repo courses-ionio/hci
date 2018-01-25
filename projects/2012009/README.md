@@ -94,17 +94,17 @@ function mouseclick( d, i ) {
 
 <h3>Ενδεικτικές Εικόνες</h3>
 <img src="https://harrygsn.github.io/D3js-uk-political-donations/images/1.jpg"/>
-_Εικόνα 1: Προεπισκόπηση Index σελίδας μετά την αλλαγή των χρωμάτων._
+Εικόνα 1: <i>Προεπισκόπηση Index σελίδας μετά την αλλαγή των χρωμάτων.</i>
 <img src="https://harrygsn.github.io/D3js-uk-political-donations/images/2.jpg"/>
-_Εικόνα 2: Προεπισκόπηση του Zoom όταν καλείται το hover event στην CSS στο header (Public Money vs Private cash)._
+Εικόνα 2: <i>Προεπισκόπηση του Zoom όταν καλείται το hover event στην CSS στο header (Public Money vs Private cash).</i>
 <img src="https://harrygsn.github.io/D3js-uk-political-donations/images/3.jpg"/>
-_Εικόνα 3: Προεπισκόπηση σελίδας μετά την αλλαγή των χρωμάτων επιλέγοντας την ομαδοποίηση "Split by Party"._
+Εικόνα 3: <i>Προεπισκόπηση σελίδας μετά την αλλαγή των χρωμάτων επιλέγοντας την ομαδοποίηση "Split by Party".</i>
 <img src="https://harrygsn.github.io/D3js-uk-political-donations/images/4.jpg"/>
-_Εικόνα 4: Προεπισκόπηση του hover event της javascript στα nodes του γράφου._
+Εικόνα 4: <i>Προεπισκόπηση του hover event της javascript στα nodes του γράφου.</i>
 <img src="https://harrygsn.github.io/D3js-uk-political-donations/images/5.jpg"/>
-_Εικόνα 5: Προεπισκόπηση του Query που στέλνει στο Search Engine Google το on click event της javascript στα nodes του γράφου._
+Εικόνα 5: <i>Προεπισκόπηση του Query που στέλνει στο Search Engine Google το on click event της javascript στα nodes του γράφου.</i>
 <img src="https://harrygsn.github.io/D3js-uk-political-donations/images/6.jpg"/>
-_Εικόνα 6: Προεπισκόπηση της νέας επιλογής ομαδοποίησης "Split by Donation Amount"._
+Εικόνα 6: <i>Προεπισκόπηση της νέας επιλογής ομαδοποίησης "Split by Donation Amount".</i>
 
 <h3>Συμπεράσματα</h3>
 
