@@ -1,0 +1,14 @@
+# Number of days of inactivity before an issue becomes stale
+daysUntilStale: 3
+# Number of days of inactivity before a stale issue is closed
+daysUntilClose: 4
+# Label to use when marking an issue as stale
+staleLabel: Overdue
+# Comment to post when marking an issue as stale. Set to `false` to disable
+markComment: >
+  Λυπάμαι, αλλά το αίτημα σας έχει καταχωρηθεί ως εκπρόθεσμο και ένα 
+  ρομπότ θα το κλείσει οριστικά σε μερικές μέρες.
+# Comment to post when closing a stale issue. Set to `false` to disable
+closeComment: >
+  Το ρομπότ έκλεισε το εκπρόθεσμο αίτημα σας, την επόμενη φορά προσπαθείστε
+  να είστε συνεπείς και να στείλετε έγκαιρα, σας ευχαριστούμε!
