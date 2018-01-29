@@ -1,0 +1,20 @@
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: 
+
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  Ευχαριστούμε για το αίτημα σας! Ισως χρειαστούν λίγες μέρες για την επεξεργασία του. Στο μεταξύ, σας παρακαλούμε να διαβάσετε με προσοχή τις [οδηγίες αιτημάτων](https://github.com/courses-ionio/cscw/blob/master/.github/CONTRIBUTING.md) και να κάνετε διορθώσεις αν χρειάζονται, ώστε να αποφύγουμε πιθανή ακύρωση.
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >
+  Συγχαρητήρια για την ενσωμάτωση του πρώτου αιτήματος σας, είμαστε περήφανοι για την επιτυχία σας! 
+
+# It is recommend to include as many gifs and emojis as possible
