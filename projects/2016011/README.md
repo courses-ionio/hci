@@ -1,5 +1,5 @@
-Παραδοτέο 2
-Π2016011 Μαυρόγιαννη Μαριαλένα
-https://github.com/Marialena98/Super-Mario/blob/master/index.html
-https://marialena98.github.io/Super-Mario/
-
+Παραδοτέο 1
+Ονοματεπώνυμο : Μαυρόγιαννη Μαριαλένα 
+Α.Μ Π2016011 
+Repository : https://github.com/Marialena98/Super-Mario 
+GH pages : https://marialena98.github.io/Super-Mario/
