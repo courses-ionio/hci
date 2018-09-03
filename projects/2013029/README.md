@@ -10,4 +10,7 @@
 https://p13dima.github.io/D3js-uk-political-donations/
 
 Παραδοτέο 1:
-https://p13dima.github.io/D3js-uk-political-donations/full-viz
+https://github.com/p13dima/D3js-uk-political-donations/tree/2013029-Paradoteo1
+
+Παραδοτέο 2:
+https://github.com/p13dima/D3js-uk-political-donations/tree/2013029-Paradoteo2
