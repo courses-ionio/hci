@@ -1,14 +1,14 @@
-### Super Mario, Δημητρίου Ευγενία, ΑΜ: Π2015058
+Δημητρίου Ευγενία
 
-#### Παραδοτέο 1
-Forked repository: https://github.com/DimitriouEugenia/hci
+ΑΜ Π2015058
 
-Forked Super Mario repository: https://github.com/DimitriouEugenia/Super-Mario
+Μάθημα : HCI 
 
-Link to my Super Mario game: https://dimitrioueugenia.github.io/Super-Mario/
+Εργασία : Corfu Map
 
-#### Παραδοτέο 2
+Master branch : https://github.com/DimitriouEugenia/corfu-map
 
-#### Παραδοτέο 3 
+Στο master branch φαίνεται και η αναλυτική αναφορά της εργασίας
 
-#### Παραδοτέο 4
+Gh-pages : https://github.com/DimitriouEugenia/corfu-map/tree/gh-pages
+
