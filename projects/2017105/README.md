@@ -7,7 +7,6 @@
 
 Αριθμός Μητρώου: Π2017105
 
-εκτελέσιμο link 
 
 link αποθετηρίου https://github.com/DionisisZervas/gr
 
