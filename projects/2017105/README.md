@@ -7,22 +7,23 @@
 
 Αριθμός Μητρώου: Π2017105
 
+Εκτελέσιμο link https://dionisiszervas.github.io/gr/
 
 link αποθετηρίου https://github.com/DionisisZervas/gr
 
-links εικόνων
+links εικόνων:
 
-Δυαδικό Σύστημα
-https://github.com/DionisisZervas/gr/blob/gh-pages/_gallery/image%2001100.md
+Δυαδικό Σύστημα:
+https://dionisiszervas.github.io/gr/gallery/image%2001100/
 
-Πληκτρολόγιο
-https://github.com/DionisisZervas/gr/blob/gh-pages/_gallery/image%20keyboard.md
+Πληκτρολόγιο:
+https://dionisiszervas.github.io/gr/gallery/image%20keyboard/
 
-Pc Build
-https://github.com/DionisisZervas/gr/blob/gh-pages/_gallery/image%20pc%20build.md
+Pc Build:
+https://dionisiszervas.github.io/gr/gallery/image%20pc%20build/
 
-Pc Setup
-https://github.com/DionisisZervas/gr/blob/gh-pages/_gallery/image%20pc%20setup.md
+Pc Setup:
+https://dionisiszervas.github.io/gr/gallery/image%20pc%20setup/
 
-Server
-https://github.com/DionisisZervas/gr/blob/gh-pages/_gallery/image%20server.md
+Server:
+https://dionisiszervas.github.io/gr/gallery/image%20server/
