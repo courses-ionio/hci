@@ -9,10 +9,12 @@
 
 
   #### [Εκτελέσιμο link](https://panagiotisth.github.io/gr/)
-  #### [link Αποθετηρίου](https://github.com/panagiotisth/gr)
+  #### [link αποθετηρίου](https://github.com/panagiotisth/gr)
   ## Αναφορές
   
   https://en.wikipedia.org/wiki/Cortana
   
   https://en.wikipedia.org/wiki/Magnavox_Odyssey
+  
+  
   
