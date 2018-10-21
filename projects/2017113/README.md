@@ -7,4 +7,4 @@ Link3(PlayStation): https://georgepitropakis.github.io/gr/gallery/PlayStation/<b
 Link4(Skroutz): https://georgepitropakis.github.io/gr/gallery/Skroutz/<br>
 Link5(Twitch): https://georgepitropakis.github.io/gr/gallery/Twitch/<br>
 Link6(Windows): https://georgepitropakis.github.io/gr/gallery/Windows7/<br>
-Link7(Youtube: https://georgepitropakis.github.io/gr/gallery/Youtube/<br>
+Link7(Youtube): https://georgepitropakis.github.io/gr/gallery/Youtube/<br>
