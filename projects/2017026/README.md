@@ -6,7 +6,7 @@
 
 Link σελίδας: https://giottachou.github.io/gr
 
-Link πρώτης φωτογραφίας: https://giottachou.github.io/gr/gallery/39-9-73 CDC 6600/
+Link πρώτης φωτογραφίας: https://giottachou.github.io/gr/gallery/39-9-73_CDC_6600/
 
 Link δεύτερης φωτογραφίας: https://giottachou.github.io/gr/gallery/edsac99.23/
 
