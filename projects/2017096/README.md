@@ -9,7 +9,6 @@
 
 
   #### [Εκτελέσιμο link](https://panagiotisth.github.io/gr/)
-  #### [link αποθετηρίου]
   ## Αναφορές
   
   https://en.wikipedia.org/wiki/Cortana
