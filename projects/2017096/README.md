@@ -14,4 +14,4 @@
   
  [φωτογραφία 1](https://github.com/panagiotisth/gr/pull/1/files)
  
- [φωτογραφία 2]((https://github.com/panagiotisth/gr/pull/2/files)
+ [φωτογραφία 2](https://github.com/panagiotisth/gr/pull/2/files)
