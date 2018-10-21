@@ -5,6 +5,7 @@
 ### Αριθμός Μητρώου: Π2017082
  ## Eκτελέσιμο link : https://p17griv.github.io/gr/
  ## link αποθετηρίου : https://github.com/p17griv/gr
+ ## Προφίλ στο Github : https://github.com/p17griv
  ## Τα links των εικόνων
  ## Cloud9_collab: https://p17griv.github.io/gr/gallery/cloud9-collab/
  ## Magnavox_odyssey: https://p17griv.github.io/gr/gallery/magnavox-odyssey/
