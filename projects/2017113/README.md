@@ -1,5 +1,5 @@
 Ονοματεπώνυμο: Γιώργος Πιτροπάκης
-Αριθμός Μητρώου: Π2017113
+Αριθμός Μητρώου: Π2017113<br>
 Link1: https://github.com/GeorgePitropakis/gr
 Link2: https://georgepitropakis.github.io/gr/
 Link3: https://georgepitropakis.github.io/gr/gallery/PlayStation/
