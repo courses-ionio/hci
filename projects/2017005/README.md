@@ -6,4 +6,4 @@
  ## Eκτελέσιμο link : https://p17gera.github.io/gr
  ## link αποθετηρίου : https://github.com/p17gera/gr
  ## Τα links των εικόνων
- 
+ ## Bixby: https://upload.wikimedia.org/wikipedia/commons/6/6d/Bixby_logo.jpg
