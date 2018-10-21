@@ -33,8 +33,9 @@
 
 ## Δραστηριότητα 1.Α
 
-### _Ζητούμενα links εικόνων_
+### _Ζητούμενα links εικόνων και αλλαγών στο αποθετήριο_
 
+* **Αλλαγές στο _config.yml αρχείο: [εδώ](https://github.com/mibook/gr/commit/7c42da5cf65a543e65f59c7c10243641ae08f8b3)**
 
 #### 1. Computer Terminal: [εδώ](https://ntouloumtzis.github.io/gr/gallery/computer-terminal/)
 
