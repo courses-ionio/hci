@@ -10,7 +10,6 @@
 
   #### [Εκτελέσιμο link](https://panagiotisth.github.io/gr/)
   #### [link αποθετηρίου](https://github.com/panagiotisth/gr)
-  ## Αναφορές
   
  [φωτογραφία 1](https://panagiotisth.github.io/gr/gallery/windows-cortana/)
  
