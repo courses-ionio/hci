@@ -12,6 +12,6 @@
   #### [link αποθετηρίου](https://github.com/panagiotisth/gr)
   ## Αναφορές
   
- [φωτογραφία 1](https://github.com/panagiotisth/gr/pull/3/files)
+ [φωτογραφία 1](https://github.com/panagiotisth/gr/pull/1/files)
  
- [φωτογραφία 2](https://github.com/panagiotisth/gr/pull/4/files)
+ [φωτογραφία 2](https://github.com/panagiotisth/gr/pull/2/files)
