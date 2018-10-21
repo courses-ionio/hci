@@ -1,4 +1,4 @@
-# Μάθημα: Επικοινωνία Ανθώπου-Υπολογιστή
+# Μάθημα: Επικοινωνία Ανθρώπου-Υπολογιστή
 
 ### Ονοματεπώνυμο: Τουλουμτζής Νικήτας
 ### Αριθμός Μητρώου: Π2015023
@@ -33,13 +33,18 @@
 
 ## Δραστηριότητα 1.Α
 
-### Ζητούμενα links προσθήκης εικόνων ή και αλλαγών 
+### _Ζητούμενα links εικόνων_
 
-  * [link αλλαγής αρχείου config.yml](https://github.com/mibook/gr/commit/7c42da5cf65a543e65f59c7c10243641ae08f8b3)
-  * [link πρώτης εικόνας](https://github.com/ntouloumtzis/gr/pull/1/files)
-  * [link δεύτερης εικόνας](https://github.com/ntouloumtzis/gr/pull/2/files)
-  * [link τρίτης εικόνας](https://github.com/ntouloumtzis/gr/pull/3/files)
-  * [link τέταρτης εικόνας](https://github.com/ntouloumtzis/gr/pull/4/files)
-  * [link πέμπτης εικόνας](https://github.com/ntouloumtzis/gr/pull/5/files)
+
+#### 1. Computer Terminal: [εδώ](https://ntouloumtzis.github.io/gr/gallery/computer-terminal/)
+
+#### 2. Eniac: [εδώ](https://ntouloumtzis.github.io/gr/gallery/eniac/)
+
+#### 3. First Modern Headphones: [εδώ](https://ntouloumtzis.github.io/gr/gallery/first-modern-headphones/)
+
+#### 4. Ibm PC: [εδώ](https://ntouloumtzis.github.io/gr/gallery/ibm-pc/)
+
+#### 5. Unix: [εδώ](https://ntouloumtzis.github.io/gr/gallery/unix/)
+
 
 
