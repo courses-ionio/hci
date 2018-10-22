@@ -13,7 +13,7 @@
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
-#### link  αρχείου config.yml https://github.com/p17kalo1/gr/_config.yml
+#### link  αρχείου config.yml https://github.com/p17kalo1/gr/blob/gh-pages/_config.yml
 
 #### link 1ης εικόνας https://p17kalo1.github.io/gr/gallery/apple-ii-computer/
 
