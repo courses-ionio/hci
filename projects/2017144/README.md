@@ -10,23 +10,23 @@
 
 ## Σύνδεσμοι εικόνων
 
-* TITLOS
+* Android
 
-  * syndesmos
+  * https://akontinis.github.io/gr/gallery/netbeans/
 
-* Titlos
+* Netbeans
 
-  * Syndesmos
+  * https://akontinis.github.io/gr/gallery/netbeans/
 
-* Titlos
+* Oculus
 
-  * Syndesmos
+  * https://akontinis.github.io/gr/gallery/oculus/
 
-* Titlos
+* Raspbian
 
-  * Syndesmos
+  * https://akontinis.github.io/gr/gallery/raspbian/
 
-* Titlos
+* Spotify
 
-  * Syndesmos
+  * https://akontinis.github.io/gr/gallery/spotify/
 
