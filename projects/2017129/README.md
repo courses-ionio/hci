@@ -1,29 +1,28 @@
-#Επικοινωνία Ανθρώπου-Υπολογιστή
+# Επικοινωνία Ανθρώπου-Υπολογιστή
 
-###Εργασία περιεχομένου Παραδοτέο Α (προσθήκη πέντε νέων εικόνων με λεζάντα)
+## Εργασία περιεχομένου  Παραδοτέο Α 
 
-Ονοματεπώνυμο: Χριστίνα Κρυελέση
+### Ονοματεπώνυμο: Χριστίνα Κρυελέση
 
-Αριθμός Μητρώου: Π2017129
+### Αριθμός Μητρώου: Π2017129
 
-Εκτελέσιμο link: https://chrikri.github.io/gr/
+[Εκτελέσιμο link] :(https://chrikri.github.io/gr/ 'Εκτελέσιμο link')
 
-link αποθετηρίου: https://github.com/chrikri/gr
+[link αποθετηρίου] : (https://github.com/chrikri/gr 'link αποθετηρίου')
 
-links εικόνων 
+## Εικόνες
 
--Eniac
-  -https://commons.wikimedia.org/wiki/File:Eniac.jpg
+### - Eniac
+  - https://chrikri.github.io/gr/gallery/eniac/
   
--GeoGebra
-  -https://en.wikipedia.org/wiki/File:Geogebra_software.png
+### - GeoGebra
+  - https://chrikri.github.io/gr/gallery/geogebra/
   
--3D Animation in education
-   -https://el.m.wikipedia.org/wiki/%CE%91%CF%81%CF%87%CE%B5%CE%AF%CE%BF:Carbamic-acid-3D-balls-C.png
+### - 3D Animation in education
+   - https://chrikri.github.io/gr/gallery/3D-animation-education/
    
--Sony Ericcson(T681-2002)
-    -https://commons.wikimedia.org/wiki/File:Ericsson_T68i_003.jpg
+### - Sony Ericcson(T681-2002)
+   - https://chrikri.github.io/gr/gallery/ericsson/
     
--Google
-
- -https://commons.wikimedia.org/wiki/File:G_logo_of_Google.jpg
+### - Google
+ - https://chrikri.github.io/gr/gallery/logogoogle/
