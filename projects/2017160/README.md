@@ -24,7 +24,7 @@ MP3: https://p17siol.github.io/gr/gallery/mp3/
 
 Wordpress: https://p17siol.github.io/gr/gallery/wordpress/
 
-Airbag: https://p17siol.github.io/gr/gallery/gpu/
+Airbag: https://p17siol.github.io/gr/gallery/airbag/
 
 Xbox-controller: https://p17siol.github.io/gr/gallery/xbox-controller/
 
