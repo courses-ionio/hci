@@ -23,3 +23,7 @@ links εικόνων
    
 -Sony Ericcson(T681-2002)
     -https://commons.wikimedia.org/wiki/File:Ericsson_T68i_003.jpg
+    
+-Google
+
+ -https://commons.wikimedia.org/wiki/File:G_logo_of_Google.jpg
