@@ -20,4 +20,4 @@ https://xaralambos12.github.io/gr/gallery/gaming/
 
 https://xaralambos12.github.io/gr/gallery/mechanical_keyboard/
 
-https://xaralambos12.github.io/gr/gallery/teamwork/
+https://xaralambos12.github.io/gr/gallery/teamwork/ 
