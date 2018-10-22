@@ -26,8 +26,8 @@
 ## Links προσθήκης εικόνων και αλλαγών 
 
   1. [link config.yml](https://github.com/p15avge/gr/pull/1/files)
-  2. [link πρώτης εικόνας](https://github.com/p15avge/gr/pull/2/files)
-  3. [link δεύτερης εικόνας](https://github.com/p15avge/gr/pull/3/files)
-  4. [link τρίτης εικόνας](https://github.com/p15avge/gr/pull/4/files)
-  5. [link τέταρτης εικόνας](https://github.com/p15avge/gr/pull/5/files)
-  6. [link πέμπτης εικόνας](https://github.com/p15avge/gr/pull/6/files)
+  2. [link πρώτης εικόνας](https://p15avge.github.io/gr/gallery/apple-iii/)
+  3. [link δεύτερης εικόνας](https://p15avge.github.io/gr/gallery/atari-520st/)
+  4. [link τρίτης εικόνας](https://p15avge.github.io/gr/gallery/macbook-pro/)
+  5. [link τέταρτης εικόνας](https://p15avge.github.io/gr/gallery/magnavox-odyssey/)
+  6. [link πέμπτης εικόνας](https://p15avge.github.io/gr/gallery/toshiba-t1100/)
