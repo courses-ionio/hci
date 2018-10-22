@@ -6,9 +6,9 @@
 
 ### Αριθμός Μητρώου: Π2017129
 
-[Εκτελέσιμο link] :(https://chrikri.github.io/gr/ 'Εκτελέσιμο link')
+Εκτελέσιμο link :https://chrikri.github.io/gr/ 
 
-[link αποθετηρίου] : (https://github.com/chrikri/gr 'link αποθετηρίου')
+link αποθετηρίου: https://github.com/chrikri/gr 
 
 ## Εικόνες
 
