@@ -1,5 +1,5 @@
 1)
-![ScreenShot](githubcontribusion.ipg)
+![ScreenShot]( githubcontribusion.jpg )
 
 author: p15gkar                                                                            
 
@@ -14,7 +14,7 @@ catecory: introduction
 
 2)
 
-![screenShot](mathblaster.ipg)
+![screenShot](mathblaster.jpg)
 
 
 author:p15gkar   
@@ -30,7 +30,7 @@ category:   definition
 
 3)
 
-![ScreenShoot](Aha mock-ups.ipg)
+![ScreenShoot](Aha mock-ups.jpg)
 
 
 
@@ -46,7 +46,7 @@ catecory:   models
 
 
 4)
-![ScreenShot](Hippung.ipg)
+![ScreenShot](Hippung.jpg)
 
 
 author:   p15gkar                                                                            
@@ -70,7 +70,7 @@ catecory:  models
   
 5)
 
-![ScrennShot](the memex.ipg)
+![ScrennShot](the memex.jpg)
 
 
 author:  p15gkar                                                                               
