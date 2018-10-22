@@ -9,7 +9,7 @@
 
 
   #### [Εκτελέσιμο link](https://panagiotisth.github.io/gr/)
-  #### [link αποθετηρίου](https://github.com/panagiotisth/gr)
+  #### [Link αποθετηρίου](https://github.com/panagiotisth/gr)
   
   # Φωτογραφίες
 
