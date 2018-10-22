@@ -1,26 +1,26 @@
 
-# Μάθημα: Επικοινωνία Ανθρώπου - Υπολογιστή
+# ΞΞ¬ΞΈΞ·ΞΌΞ±: Ξ•Ο€ΞΉΞΊΞΏΞΉΞ½Ο‰Ξ½Ξ―Ξ± Ξ‘Ξ½ΞΈΟΟΟ€ΞΏΟ… - Ξ¥Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΟ„Ξ®
 
-### Ονοματεπώνυμο: Γιώργος Χαράλαμπος Καλούδης
-### Αριθμός Μητρώου: Π2017115
+### ΞΞ½ΞΏΞΌΞ±Ο„ΞµΟ€ΟΞ½Ο…ΞΌΞΏ: Ξ“ΞΉΟΟΞ³ΞΏΟ‚ Ξ§Ξ±ΟΞ¬Ξ»Ξ±ΞΌΟ€ΞΏΟ‚ ΞΞ±Ξ»ΞΏΟΞ΄Ξ·Ο‚
+### Ξ‘ΟΞΉΞΈΞΌΟΟ‚ ΞΞ·Ο„ΟΟΞΏΟ…: Ξ 2017115
 
-## Εργασία Περιεχομένου: Συμμετοχική μελέτη και προσθήκη εκπαιδευτικού υλικού
+## Ξ•ΟΞ³Ξ±ΟƒΞ―Ξ± Ξ ΞµΟΞΉΞµΟ‡ΞΏΞΌΞ­Ξ½ΞΏΟ…: Ξ£Ο…ΞΌΞΌΞµΟ„ΞΏΟ‡ΞΉΞΊΞ® ΞΌΞµΞ»Ξ­Ο„Ξ· ΞΊΞ±ΞΉ Ο€ΟΞΏΟƒΞΈΞ®ΞΊΞ· ΞµΞΊΟ€Ξ±ΞΉΞ΄ΞµΟ…Ο„ΞΉΞΊΞΏΟ Ο…Ξ»ΞΉΞΊΞΏΟ
 
-## Παραδοτέο Α
+## Ξ Ξ±ΟΞ±Ξ΄ΞΏΟ„Ξ­ΞΏ Ξ‘
 
-#### link αποθετηρίου κώδικα: https://github.com/p17kalo1/gr
-#### link στο εκτελέσιμο: https://p17kalo1.github.io/gr
+#### link Ξ±Ο€ΞΏΞΈΞµΟ„Ξ·ΟΞ―ΞΏΟ… ΞΊΟΞ΄ΞΉΞΊΞ±: https://github.com/p17kalo1/gr
+#### link ΟƒΟ„ΞΏ ΞµΞΊΟ„ΞµΞ»Ξ­ΟƒΞΉΞΌΞΏ: https://p17kalo1.github.io/gr
 
-### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
+### Ξ•ΞΊΟ€Ξ»Ξ®ΟΟ‰ΟƒΞ· Ξ¶Ξ·Ο„ΞΏΟΞΌΞµΞ½Ο‰Ξ½ Ο€ΟΟΟ„ΞΏΟ… Ο€Ξ±ΟΞ±Ξ΄ΞΏΟ„Ξ­ΞΏΟ…
 
-#### link  αρχείου config.yml https://github.com/p17kalo1/gr/_config.yml
+#### link  Ξ±ΟΟ‡ΞµΞ―ΞΏΟ… config.yml https://github.com/p17kalo1/gr/_config.yml
 
-#### link 1ης εικόνας https://p17kalo1.github.io/gr/_gallery/apple-ii-computer.md
+#### link 1Ξ·Ο‚ ΞµΞΉΞΊΟΞ½Ξ±Ο‚ https://p17kalo1.github.io/gr/gallery/apple-ii-computer/
 
-#### link 2ης εικόνας https://p17kalo1.github.io/gr/_gallery/arpanet.md
+#### link 2Ξ·Ο‚ ΞµΞΉΞΊΟΞ½Ξ±Ο‚ https://p17kalo1.github.io/gr/gallery/arpanet/
 
-#### link 3ης εικόνας https://p17kalo1.github.io/gr/_gallery/eniac.md
+#### link 3Ξ·Ο‚ ΞµΞΉΞΊΟΞ½Ξ±Ο‚ https://p17kalo1.github.io/gr/gallery/eniac/
 
-#### link 4ης εικόνας https://p17kalo1.github.io/gr/_gallery/enigma-machine.md
+#### link 4Ξ·Ο‚ ΞµΞΉΞΊΟΞ½Ξ±Ο‚ https://p17kalo1.github.io/gr/gallery/enigma-machine/
 
-#### link 5ης εικόνας https://p17kalo1.github.io/gr/_gallery/simon.md
+#### link 5Ξ·Ο‚ ΞµΞΉΞΊΟΞ½Ξ±Ο‚ https://p17kalo1.github.io/gr/gallery/simon/
