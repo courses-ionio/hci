@@ -11,6 +11,10 @@
   #### [Εκτελέσιμο link](https://panagiotisth.github.io/gr/)
   #### [link αποθετηρίου](https://github.com/panagiotisth/gr)
   
- [φωτογραφία 1](https://panagiotisth.github.io/gr/gallery/windows-cortana/)
+ [windows-cortana](https://panagiotisth.github.io/gr/gallery/windows-cortana/)
  
- [φωτογραφία 2](https://panagiotisth.github.io/gr/gallery/magnavox-odyssey-console/)
+ [magnavox-odyssey](https://panagiotisth.github.io/gr/gallery/magnavox-odyssey-console/)
+ 
+ [sophia-robot](https://panagiotisth.github.io/gr/gallery/sophia-robot/)
+ 
+ [honda-asimo](https://panagiotisth.github.io/gr/gallery/honda-asimo/)
