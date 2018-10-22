@@ -11,6 +11,8 @@
   #### [Εκτελέσιμο link](https://panagiotisth.github.io/gr/)
   #### [link αποθετηρίου](https://github.com/panagiotisth/gr)
   
+  # Φωτογραφίες
+
  [windows-cortana](https://panagiotisth.github.io/gr/gallery/windows-cortana/)
  
  [magnavox-odyssey](https://panagiotisth.github.io/gr/gallery/magnavox-odyssey-console/)
