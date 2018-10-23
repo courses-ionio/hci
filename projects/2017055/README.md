@@ -1,14 +1,14 @@
 
 
-# Όνομα μαθήματος : Επικοινωνία Ανθρώπου-Υπολογιστή
-## Όνομα εργασίας : Εργασία Περιεχομένου (προσθήκη 5 εικόνων)
-### Όνομα : Αθανάσιος
-### Επίθετο : Κακαρδάκος
-### Αριθμός Μητρώου: Π2017055
- ## Eκτελέσιμο link : https://p17kaka.github.io/gr/
- ## link αποθετηρίου : https://github.com/p17kaka/gr
- ## Τα links των εικόνων
-  ### Instagram : https://p17kaka.github.io/gr/gallery/the-instagram-logo/
+# ΞΞ½ΞΏΞΌΞ± ΞΌΞ±ΞΈΞ®ΞΌΞ±Ο„ΞΏΟ‚ : Ξ•Ο€ΞΉΞΊΞΏΞΉΞ½Ο‰Ξ½Ξ―Ξ± Ξ‘Ξ½ΞΈΟΟΟ€ΞΏΟ…-Ξ¥Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΟ„Ξ®
+## ΞΞ½ΞΏΞΌΞ± ΞµΟΞ³Ξ±ΟƒΞ―Ξ±Ο‚ : Ξ•ΟΞ³Ξ±ΟƒΞ―Ξ± Ξ ΞµΟΞΉΞµΟ‡ΞΏΞΌΞ­Ξ½ΞΏΟ… (Ο€ΟΞΏΟƒΞΈΞ®ΞΊΞ· 5 ΞµΞΉΞΊΟΞ½Ο‰Ξ½)
+### ΞΞ½ΞΏΞΌΞ± : Ξ‘ΞΈΞ±Ξ½Ξ¬ΟƒΞΉΞΏΟ‚
+### Ξ•Ο€Ξ―ΞΈΞµΟ„ΞΏ : ΞΞ±ΞΊΞ±ΟΞ΄Ξ¬ΞΊΞΏΟ‚
+### Ξ‘ΟΞΉΞΈΞΌΟΟ‚ ΞΞ·Ο„ΟΟΞΏΟ…: Ξ 2017055
+ ## EΞΊΟ„ΞµΞ»Ξ­ΟƒΞΉΞΌΞΏ link : https://p17kaka.github.io/gr/
+ ## link Ξ±Ο€ΞΏΞΈΞµΟ„Ξ·ΟΞ―ΞΏΟ… : https://github.com/p17kaka/gr
+ ## Ξ¤Ξ± links Ο„Ο‰Ξ½ ΞµΞΉΞΊΟΞ½Ο‰Ξ½
+  ### Instagram : https://p17kaka.github.io/gr/gallery/instagram/
   ### Optical fiber : https://p17kaka.github.io/gr/gallery/optical-fiber/
   ### Monochrome monitor : https://p17kaka.github.io/gr/gallery/monochrome-monitor/
   ### Fingerprint scanner : https://p17kaka.github.io/gr/gallery/fingerprint-scanner/
