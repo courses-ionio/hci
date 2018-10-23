@@ -12,16 +12,16 @@ Link αποθετηρίου: https://github.com/p17laso/gr
 Link αλλαγής config: https://github.com/p17laso/gr/blob/gh-pages/_config.yml
 
 
-Link πρώτης εικόνας: https://github.com/p17laso/gr/blob/gh-pages/_gallery/human-computers.md
+Link πρώτης εικόνας: https://p17laso.github.io/gr/gallery/human-computers/
 
 
-Link δεύτερης εικόνας: https://github.com/p17laso/gr/blob/gh-pages/_gallery/doom-revolution.md
+Link δεύτερης εικόνας: https://p17laso.github.io/gr/gallery/doom-revolution/
 
 
-Link τρίτης εικόνας: https://github.com/p17laso/gr/blob/gh-pages/_gallery/copyright-trademark-patent.md
+Link τρίτης εικόνας: https://p17laso.github.io/gr/gallery/copyright-trademark-patent/
 
 
-Link τέταρτης εικόνας: https://github.com/p17laso/gr/blob/gh-pages/_gallery/social-collaboration.md
+Link τέταρτης εικόνας: https://p17laso.github.io/gr/gallery/social-collaboration/
 
 
-Link πέμπτης εικόνας: https://github.com/p17laso/gr/blob/gh-pages/_gallery/open-street-map.md
+Link πέμπτης εικόνας: https://p17laso.github.io/gr/gallery/open-source-license/
