@@ -14,4 +14,4 @@
 - Nintendo 64
   - https://nikosbout.github.io/gr/gallery/nintendo-64/
 - VrChat
-  - https://nikosbout.github.io/gr/gallery/vr-chat/
+  - https://nikosbout.github.io/gr/gallery/vr-chat
