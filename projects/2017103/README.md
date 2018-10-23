@@ -20,7 +20,7 @@
 
 * Intel
 
-  * https://DimitrisGiosis.github.io/gr/gallery/intel/
+  * https://DimitrisGiosis.github.io/gr/gallery/Intel/
 
 * Dell
 
