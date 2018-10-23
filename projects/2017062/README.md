@@ -21,7 +21,7 @@ Link δεύτερης εικόνας: https://github.com/p17laso/gr/blob/gh-page
 Link τρίτης εικόνας: https://github.com/p17laso/gr/blob/gh-pages/_gallery/copyright-trademark-patent.md
 
 
-Link τέταρτης εικόνας: https://github.com/p17laso/gr/blob/gh-pages/_gallery/MIS.md
+Link τέταρτης εικόνας: https://github.com/p17laso/gr/blob/gh-pages/_gallery/social-collaboration.md
 
 
 Link πέμπτης εικόνας: https://github.com/p17laso/gr/blob/gh-pages/_gallery/open-street-map.md
