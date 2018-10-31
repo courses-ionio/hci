@@ -136,15 +136,42 @@
      ```
 
 
-   - [x] **Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας, να ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-            speech).**
+   - [x] **Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας, να ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).**
 
 
+   - Για να ακούγεται η αφήγηση του κάθε κειμένου, όταν θα διέρχεται το ποντίκι πάνω, χρησιμοποιούμε τη βιβλιοθήκη ResponsiveVoice,
+     σε _script tag_ στο **index.html**:
+
+     ```
+     <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+     ```
+
+     και την παρακάτω συνάρτηση, μέσα σε _script tag_:
+
+     ```
+     <script>
+     $(document).ready(function(){
+     $("h1, h2, a").mouseenter(function(){
+		responsiveVoice.cancel(); 
+  		responsiveVoice.speak($(this).text());
+     });
+     $("h1, h2, a").mouseleave(function(){
+        responsiveVoice.cancel();
+    	});
+     });
+     </script>
+     ```
+
+
+   - [x] **Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών                      διαστάσεων (π.χ. Bootstrap).**
+
+   
    - 
 
 
 
 
-   - [x] **Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών                      διαστάσεων (π.χ. Bootstrap).**
+
 
 
 
