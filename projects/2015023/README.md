@@ -17,7 +17,9 @@
 
       - Για το πρώτο γράφημα ( στο αρχείο: assets/scripts/script_1.js )
 
-![](script1.png)(script1.png)
+`
+colour = d3.scaleOrdinal().range(["#90afc5", "#336b87", "#2a3132", "#763626", "#258039", "#f5be41", "#cf3721"])
+`
 
 
 
