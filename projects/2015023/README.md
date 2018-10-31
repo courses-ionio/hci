@@ -17,7 +17,7 @@
 
       - Για το πρώτο γράφημα ( στο αρχείο: assets/scripts/script_1.js )
 
-
+![](script1.png)(script1.png)
 
 
 
