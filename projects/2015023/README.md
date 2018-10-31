@@ -50,7 +50,50 @@
            .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]); // Picked colors
            ```
 
-- [ ] Αντικαταστήστε τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος με άλλες της επιλογής σας.
+
+   - [x] **Αντικαταστήστε τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος με άλλες της επιλογής σας.**
+
+
+   - Για την αλλαγή στις διεπαφές των buttons του 2ου και 3ου γραφήματος, τροποποίησα στο αρχείο **style.css** τους παρακάτω κώδικες.
+
+         ```
+         .radio-toolbar label {
+         background-color: white; 
+         color: black; 
+         border: 2px outset #304040;
+         padding: 5px 10px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 16px;
+         margin: 6px 8px;
+         -webkit-transition-duration: 0.2s;
+         transition-duration: 0.2s;
+         cursor: pointer;
+         box-shadow: 0 9px #999;
+         font-weight: bold;
+         }
+     
+         .radio-toolbar label:hover {
+         background-color: #304040;
+         color: white; 
+         }
+
+         .radio-toolbar label:active {
+         background-color: #304040;
+         box-shadow: 0 5px #666;
+         transform: translateY(4px);
+         }
+
+         .radio-toolbar input[type="radio"]:checked+label {
+         background-color: #304040;
+         color: white;
+         }
+         ```
+
+
+        
+
   - [ ] Όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, να ακούγεται κάποιος ήχος της επιλογής σας.
   - [ ] Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας, να ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).
   - [ ] Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων (π.χ. Bootstrap).
