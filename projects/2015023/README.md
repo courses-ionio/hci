@@ -7,7 +7,7 @@
 # Εργασία Ανάπτυξης
 
 * [εκτελέσιμο link](https://ntouloumtzis.github.io/D3js-US-educational-attainment/)
-* [link αποθετηρίου(master branch)](https://github.com/ntouloumtzis/D3js-US-educational-attainment)
+* [link αποθετηρίου(gh-pages branch)](https://github.com/ntouloumtzis/D3js-US-educational-attainment/tree/gh-pages)
 
 ## Παραδοτέο 1
 
