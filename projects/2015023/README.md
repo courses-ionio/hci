@@ -208,7 +208,29 @@
     </nav>
   ```
 
+   Τέλος, πρόσθεσα τις παρακάτω γραμμές κώδικα στο αρχείο **style.css**, δημιουργώντας μικρές αλλαγές, αλλά και για να δουλεύει σωστά 
+το **menu** σε μικρότες οθόνες.
 
+  ```
+  html, body{
+    height: 100%;
+    width: 100%;
+    color: #222;
+  }
+  
+  ...
+  
+  .navbar {
+   padding: .8rem;
+  }
+
+  .navbar-nav li {
+   padding-right: 20px;
+  }
+
+  .nav-link {
+   font-size: 1.1em !important;
+  }
 
 
 
