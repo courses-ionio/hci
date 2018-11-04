@@ -29,5 +29,5 @@
 ![Screenshot](chart.JPG)
 ![Screenshot](State.JPG)
 Β) Αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
-
+![Screenshot](Buttons.jpg)
 
