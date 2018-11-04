@@ -212,14 +212,6 @@
 το **menu** σε μικρότερες οθόνες.
 
   ```
-  html, body{
-    height: 100%;
-    width: 100%;
-    color: #222;
-  }
-  
-  ...
-  
   .navbar {
    padding: .8rem;
   }
