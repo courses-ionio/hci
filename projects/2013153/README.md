@@ -30,4 +30,6 @@
 ![Screenshot](State.JPG)
 Β) Αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
 ![Screenshot](Buttons.jpg)
+Γ) Δ) Ε) Δείτε το εκτελέσιμο στο https://p13gian1.github.io/D3js-US-educational-attainment/
 
+Για την μετατροπή text to speech χρησιμοποίησα το articulate.js από το αποθετήριο https://github.com/acoti/articulate.js (Copyright (c) 2016 Adam Coti). 
