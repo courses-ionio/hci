@@ -26,3 +26,6 @@
 
 Α) Άλλαξα τα χρώματα στα 3 γραφήματα
 ![Screenshot](PieChart.JPG)
+![Screenshot](chart.JPG)
+![Screenshot](State.JPG)
+
