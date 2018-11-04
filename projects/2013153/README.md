@@ -32,3 +32,5 @@
 ![Screenshot](Buttons.jpg)
 Γ) Δ) Ε) Δείτε το εκτελέσιμο στο https://p13gian1.github.io/D3js-US-educational-attainment/
 
+Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
+
