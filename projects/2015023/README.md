@@ -50,7 +50,7 @@
                var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5000000]).range(["#fb6542", "#ffbb00", "#375e97", "#3f681c"]);
 
 
-          if (treeSumSortType == "number") {
+               if (treeSumSortType == "number") {
                     color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5000000]).range(["#fb6542", "#ffbb00", "#375e97", "#3f681c"]);
                     return d["Total College"];
                 } else if (treeSumSortType == "percent") {
