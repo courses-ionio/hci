@@ -151,16 +151,33 @@
      ```
      <script>
      $(document).ready(function(){
-     $("h1, h2, label, svg").mouseenter(function(){
+     $("h1, h2, label").mouseenter(function(){
 		responsiveVoice.cancel(); 
-  		responsiveVoice.speak($(this).text());
+  		responsiveVoice.speak($(this).text(), 'UK English Male');
      });
-     $("h1, h2, label, svg").mouseleave(function(){
+     $("h1, h2, label").mouseleave(function(){
         responsiveVoice.cancel();
     	});
      });
      </script>
      ```
+
+   - Μια ακόμη προσθήκη, η οποία έγινε έτσι ώστε να διευκολυθούν οι χρήστες αυτοί, είναι πως κάθε φορά που ο χρήστης κάνει hover πάνω από ένα στοιχείο του chart, ακούγεται μέσω της javascript class SpeechSynthesisUtterance. Οι αλλαγές αυτές έγιναν στα αρχεία script_1.js και index.html.
+
+       - Στο αρχείο script_1.js:
+
+```
+        Mέσα στο mouseenter:
+    var message = new SpeechSynthesisUtterance(toolTipHTML(data));
+                     speechSynthesis.speak(message);
+        Mέσα στο mouseout:
+    speechSynthesis.cancel();
+```
+   και στο αρχείο index.html, προστέθηκε ένα _script tag_:
+
+    <script>
+     var message = new SpeechSynthesisUtterance();
+    </script>
 
 
    - [x] **Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών                      διαστάσεων (π.χ. Bootstrap).**
