@@ -49,13 +49,11 @@
 
 ### Τεκμηρίωση ζητουμένων πρώτου παραδοτέου
 
-Α) Άλλαξα τα χρώματα στα 3 γραφήματα
-![Screenshot](PieChart.JPG)
-![Screenshot](chart.JPG)
-![Screenshot](State.JPG)
-Β) Αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
-![Screenshot](Buttons.jpg)
-Γ) Δ) Ε) Δείτε το εκτελέσιμο στο https://p13gian1.github.io/D3js-US-educational-attainment/
+Α & B) Άλλαξα τα χρώματα στα 3 γραφήματα και αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
+![Screenshot](Scr1.JPG)
+![Screenshot](Scr2.JPG)
+![Screenshot](Scr3.JPG)
+Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://p13gian1.github.io/D3js-US-educational-attainment/
 
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
 
