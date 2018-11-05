@@ -151,11 +151,11 @@
      ```
      <script>
      $(document).ready(function(){
-     $("h1, h2, a").mouseenter(function(){
+     $("h1, h2, label, svg").mouseenter(function(){
 		responsiveVoice.cancel(); 
   		responsiveVoice.speak($(this).text());
      });
-     $("h1, h2, a").mouseleave(function(){
+     $("h1, h2, label, svg").mouseleave(function(){
         responsiveVoice.cancel();
     	});
      });
@@ -212,14 +212,6 @@
 το **menu** σε μικρότερες οθόνες.
 
   ```
-  html, body{
-    height: 100%;
-    width: 100%;
-    color: #222;
-  }
-  
-  ...
-  
   .navbar {
    padding: .8rem;
   }
@@ -233,6 +225,7 @@
   }
   ```
 
+  ![](responsive-menu.gif)
 
 ## Παραδοτέο 2 
 
