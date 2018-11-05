@@ -7,7 +7,7 @@
  ### Eκτελέσιμο link : https://p17griv.github.io/D3js-US-educational-attainment/
  ### link αποθετηρίου : https://github.com/p17griv/D3js-US-educational-attainment
  ## 1ο Παραδοτέο
- * 1ο Ζητούμενο - Αλλάξτε τα χρώματα στα 3 γραφήματα.
+ * 1ο Ζητούμενο - Αλλάξτε τα χρώματα στα 3 γραφήματα.  
  Για την αλλαγή των χρωμάτων του 1ου γραφήματος χρειάστηκε να τροποποιηθούν οι 7 δεκαεξαδικές τιμές της μεταβλητής colour της συνάρτησης donutChart στο αρχείο "script_1.js" το οποίο βρίσκεται στον φάκελο scripts του φακέλου assets του αποθετηρίου.
 ```
 function donutChart() {
