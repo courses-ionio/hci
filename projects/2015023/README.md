@@ -162,9 +162,9 @@
      </script>
      ```
 
-   - Μια ακόμη προσθήκη, η οποία έγινε έτσι ώστε να διευκολυθούν οι χρήστες αυτοί, είναι πως κάθε φορά που ο χρήστης κάνει hover πάνω από ένα στοιχείο του chart, ακούγεται μέσω της javascript class SpeechSynthesisUtterance. Οι αλλαγές αυτές έγιναν στα αρχεία script_1.js και index.html.
+   - Μια ακόμη προσθήκη, η οποία έγινε έτσι ώστε να διευκολυθούν οι χρήστες αυτοί, είναι πως κάθε φορά που ο χρήστης κάνει hover πάνω από ένα στοιχείο του chart, ακούγεται μέσω της **javascript class SpeechSynthesisUtterance**. Οι αλλαγές αυτές έγιναν στα αρχεία _script_1.js_ και **index.html**.
 
-       - Στο αρχείο script_1.js:
+       - Στο αρχείο _script_1.js_:
 
 ```
         Mέσα στο mouseenter:
@@ -173,7 +173,7 @@
         Mέσα στο mouseout:
     speechSynthesis.cancel();
 ```
-   και στο αρχείο index.html, προστέθηκε ένα _script tag_:
+   και στο αρχείο **index.html**, προστέθηκε ένα _script tag_:
 
     <script>
      var message = new SpeechSynthesisUtterance();
