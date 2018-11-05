@@ -87,7 +87,7 @@ var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5
 ```
 <audio id='mySound' src="assets/sounds/mouse hover sound.mp3"/>
 ```
-προστέθηκαν τα attributes "onmouseover" και "onmouseout" στις ετικέτες "<li>" των επιλογών του μενού τα οποία καλούν τις συναρτήσεις "PlaySound" και "StopSound" αντίστοιχα, με παράμετρο το κομμάτι ήχου (id αυτού):  
+προστέθηκαν τα attributes "onmouseover" και "onmouseout" στις ετικέτες "li" των επιλογών του μενού τα οποία καλούν τις συναρτήσεις "PlaySound" και "StopSound" αντίστοιχα, με παράμετρο το κομμάτι ήχου (id αυτού):  
  
      <li class="nav-item" onmouseover="PlaySound('mySound')"onmouseout="StopSound('mySound')">
 						<a class="nav-link" href="#top">Top</a>
