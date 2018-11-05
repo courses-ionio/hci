@@ -1,6 +1,7 @@
 # Μάθημα: Επικοινωνία Ανθρώπου-Υπολογιστή
 
 #### Ονοματεπώνυμο: Τιμόθεος Αυγερινός
+
 ### Αριθμός Μητρώου: Π2015009
 
 
@@ -9,8 +10,86 @@
 * [εκτελέσιμο link](https://p15avge.github.io/D3js-US-educational-attainment/)
 * [link αποθετηρίου](https://github.com/p15avge/D3js-US-educational-attainment)
 
-## Παραδοτέο 1
+## Παραδοτέο 1   
 
+1. **Αλλάξτε τα χρώματα στα 3 γραφήματα.**
+       
+     * Στο **πρώτο γράφημα** τροποποιούμε τον κώδικα που βρίσκετε στο αρχείο **assets/scripts/script_1.js** , συγκεκριμένα στην γραμμή **23**.
+          ```javascript
+             colour = d3.scaleOrdinal().range(["#ae0001", "#eeba30", "#adff00", "#74d600", "#00d27f", "#011f4b", "#005b96"])
+          ``` 
+     
+     
+     
+     * Στο **δεύτερο γράφημα** τροποποιούμε τον κώδικα που βρίσκετε στο αρχείο **assets/scripts/script_2.js** , στην γραμμή **14** και στις   γραμμές **178-190** .
+       ```javascript
+             var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5000000]).range(["#73c3bf", "#a1d8c8", "#cbe0a7", "#f2db84"])
+       ```
+       ```javascript
+        if (treeSumSortType == "number") {
+                    color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5000000]).range(["#73c3bf", "#a1d8c8", "#cbe0a7", "#f2db84"]);
+                    return d["Total College"];
+                } else if (treeSumSortType == "percent") {
+                    color = d3.scaleLinear().domain([0, 1/4*50, 2/4*50, 3/4*50, 50]).range(["#73c3bf", "#a1d8c8", "#cbe0a7", "#f2db84"]);
+                    return d["Percent College"];
+                } else if (treeSumSortType == "male") {
+                    color = d3.scaleLinear().domain([0, 1/4*50, 2/4*50, 3/4*50, 50]).range(["#73c3bf", "#a1d8c8", "#cbe0a7", "#f2db84"]);
+                    return d["Percent College - Male"];
+                } else {
+                    color = d3.scaleLinear().domain([0, 1/4*50, 2/4*50, 3/4*50, 50]).range(["#73c3bf", "#a1d8c8", "#cbe0a7", "#f2db84"]);
+                    return d["Percent College - Female"];
+                }
+       ```
+       
+       
+     * Στο **τρίτο γράφημα** τροποποιούμε τον κώδικα που βρίσκετε στο αρχείο **assets/scripts/script_3.js** , στην γραμμή **19**.
+         ```javascript 
+         .range(["#ae0001", "#eeba30", "#adff00", "#74d600", "#00d27f", "#011f4b", "#005b96"])
+         ```
+ 
+2. **Αντικαταστήστε τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος με άλλες της επιλογής σας.**
+     * Για την αλλαγη των buttons στα γραφήματα 2 και 3 , προσθεσα στο αρχείο style.css στις γραμμές 85-117 τις παρακάτω γραμμές κώδικα:
+     ```
+        .radio-toolbar label {
+        
+         background-color: white; 
+          color: black; 
+          border: 2px outset #f6c8b3;
+          padding: 5px 10px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 16px;
+          margin: 6px 8px;
+          -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
+          cursor: pointer;
+          box-shadow: 0 9px #666;
+          font-weight: bold;
+          }
+
+       .radio-toolbar label:hover {
+          background-color: #f6c8b3;
+           color: white; 
+         }
+
+      .radio-toolbar label:active {
+          background-color: #f6c8b3;
+          box-shadow: 0 5px #999;
+          transform: translateY(4px);
+      }
+
+      .radio-toolbar input[type="radio"]:checked+label {
+          background-color: #f6c8b3;
+          color: white;
+      }
+     ```
+     
+3.**Όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, να ακούγεται κάποιος ήχος της επιλογής σας.**
+ 
+
+ 
+ 
  
 ## Παραδοτέο 2 
 
