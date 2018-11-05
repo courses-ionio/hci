@@ -24,11 +24,33 @@
        
         - Για το δεύτερο γράφημα ( στο αρχείο: assets/scripts/script_2.js )
 
-          ```
-          var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5000000]).range(["#fb6542", "#ffbb00", "#375e97", "#3f681c"]);
-          ```
-          ```
-          if (treeSumSortType == "number") {
+        1. Στο **button** του γραφήματος (αλλαγές στα _script_2.js_ και _style.css_)  
+
+              1.a) _Το default χρώμα του_ (**script_2.js**)
+
+
+                   46   .attr("fill", '#009933');
+                        ...
+                   90   return '#009933'
+
+
+
+              1.b)  _Όταν περνάει το ποντίκι πάνω απ'το button του γραφήματος_ (**style.css**)
+
+
+    
+                   .grandparent:hover rect {
+	  	         fill: #006622;
+	           }
+
+
+        2. Στο ίδιο το **γράφημα** 
+
+
+               var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5000000]).range(["#fb6542", "#ffbb00", "#375e97", "#3f681c"]);
+
+
+               if (treeSumSortType == "number") {
                     color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5000000]).range(["#fb6542", "#ffbb00", "#375e97", "#3f681c"]);
                     return d["Total College"];
                 } else if (treeSumSortType == "percent") {
@@ -41,7 +63,7 @@
                     color = d3.scaleLinear().domain([0, 1/4*50, 2/4*50, 3/4*50, 50]).range(["#fb6542", "#ffbb00", "#375e97", "#3f681c"]);
                     return d["Percent College - Female"];
                 }
-           ```
+
         
         - Για το τρίτο γράφημα ( στο αρχείο: assets/scripts/script_3.js )
 
@@ -151,15 +173,26 @@
      ```
      <script>
      $(document).ready(function(){
-     $("h1, h2, label, svg").mouseenter(function(){
+     $("h1, h2, label").mouseenter(function(){
 		responsiveVoice.cancel(); 
-  		responsiveVoice.speak($(this).text());
+  		responsiveVoice.speak($(this).text(), 'UK English Male');
      });
-     $("h1, h2, label, svg").mouseleave(function(){
+     $("h1, h2, label").mouseleave(function(){
         responsiveVoice.cancel();
     	});
      });
      </script>
+     ```
+
+   - Μια ακόμη προσθήκη, η οποία έγινε έτσι ώστε να διευκολυθούν οι χρήστες αυτοί, είναι πως κάθε φορά που ο χρήστης κάνει hover πάνω από ένα στοιχείο του pie-chart, ακούγεται μέσω της **javascript class SpeechSynthesisUtterance**. Οι αλλαγές αυτές έγιναν στο αρχείο _script_1.js_.
+
+     ```
+         Mέσα στο mouseenter:
+     var message = new SpeechSynthesisUtterance(toolTipHTML(data));
+                     speechSynthesis.speak(message);
+
+         Mέσα στο mouseout:
+     speechSynthesis.cancel();
      ```
 
 
