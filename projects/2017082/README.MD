@@ -83,7 +83,7 @@ var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5
 ```
 Όλες αυτές οι αλλαγές έγιναν στο CSS αρχείο "style.css" (assets/stylesheets/style.css).  
 * 3ο Ζητούμενο - Όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, να ακούγεται κάποιος ήχος της επιλογής σας.  
-Αρχικά για την υλοποίηση αυτού του ζητούμενου χρειάστηκε να προστεθεί ένα αρχείο ήχου το οποίο βρίσκεται στον φάκελο sounds του φακέλου assets του αποθετηρίου. Στη συνέχεια έγινε εισαγωγή του αρχείου ήχου στο αρχείο httml "index.html":
+Αρχικά για την υλοποίηση αυτού του ζητούμενου χρειάστηκε να προστεθεί ένα αρχείο ήχου το οποίο βρίσκεται στον φάκελο sounds του φακέλου assets του αποθετηρίου. Στη συνέχεια έγινε εισαγωγή του αρχείου ήχου στο httml αρχείο "index.html":
 ```
 <audio id='mySound' src="assets/sounds/mouse hover sound.mp3"/>
 ```
@@ -115,8 +115,97 @@ var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5
 	}	
 	</script>
  ```
+ * 4ο Ζητούμενο - Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας ή περιοχή που περιλαμβάνει γραπτή πληροφορία (π.χ. κάποιο τμήμα γραφήματος), να ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).  
+ Για το τέταρτο ζητούμενο αρχικά προστέθηκε στο httml αρχείο "index.html" ο ακόλουθος κώδικας:
+ ```
+ <script>
+	function speak (message) {
+	  var msg = new SpeechSynthesisUtterance(message)
+	  var voices = window.speechSynthesis.getVoices()
+	  msg.voice = voices[0]
+	  window.speechSynthesis.speak(msg)
+	}
+</script>
+ ```
+ ο οποίος υλοποιεί μία συνάρτηση "speak", με παράμετρο κείμενο το οποίο εισάγεται σε συναρτήσεις της βιβλιοθήκης "speechSynthesis" της javascript.  
+Έπειτα, προστέθηκαν "id" σε κάθε τμήμα κειμένου του "index.html".  
+ ```
+ <h1 class="title" id="tts">Educational Attainment in the United States</h1>
+ ```
+ Στη συνέχεια, προστέθηκε η ακόλουθη υλοποίηση:  
+ ```
+ 	<script>
+		document.getElementById("tts").onmouseover = function() {mouseOver()};
+		document.getElementById("tts").onmouseout = function() {mouseOut()};
+		function mouseOver(){
+			speak('Educational Attainment in the United States');
+		}
+		function mouseOut(){
+			window.speechSynthesis.cancel();
+		}
+	</script>
+ ```
+ η οποία στα events "onmouseover" και "onmouseout" καλεί την συνάρτηση "mouseOver" και "mouseOut" αντίστοιχα. 
+ Η πρώτη καλεί την συνάρτηση "speak", με παράμετρο το αντίστοιχο κείμενο, ενώ η δεύτερη καλεί την συνάρτηση "cancel" της "speechSynthesis" προκειμένου να διακοπεί η αναπαραγωγή της αφήγησης.  
  
- 
+ * 5ο Ζητούμενο - Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων (π.χ. Bootstrap).  
+ Για το τελευταίο ζητούμενο χρειάστηκε η προσθήκη μιας <meta> ετικέτας στο <head> του "index.html":  
+
+```
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+η οποία προσαρμόζει την όψη της σελίδας στο μέγεθος της οθόνης της κάθε συσκευής.  
+Στην συνέχεια, για την εφαρμογή responsive συμπεριφοράς στο αρχικό menu έγινε εισαγωγή της Bootstrap στο <head> του "index.html":
+
+	<!--INCLUDE BOOTSTRAP 4-->
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+
+	<!-- Popper JS -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+Ενώ τέλος, χρησιμοποιήθηκε ένα "collapsable" navigation bar framework της Bootstrap στο αρχικό menu με την προσθήκη των κατάλληλων αναγνωριστικών (class="...")
+```
+		<nav class="navbar navbar-expand-md bg-dark navbar-dark sticky-top">
+			<!-- Toggler/collapsibe Button -->
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<!-- Navbar links -->
+			<div class="collapse navbar-collapse" id="collapsibleNavbar">
+				<ul class="navbar-nav">
+					<li class="nav-item" onmouseover="PlaySound('mySound')"onmouseout="StopSound('mySound')">
+						<a class="nav-link" href="#top">Top</a>
+					</li>
+					<li class="nav-item" onmouseover="PlaySound('mySound')"onmouseout="StopSound('mySound')">
+						<a class="nav-link" href="#national">National</a>
+					</li>
+					<li class="nav-item" onmouseover="PlaySound('mySound')"onmouseout="StopSound('mySound')">
+						<a class="nav-link" href="#regional">Regional</a>
+					</li>
+					<li class="nav-item" onmouseover="PlaySound('mySound')"onmouseout="StopSound('mySound')">
+						<a class="nav-link" href="#state">State-Level</a>
+					</li>
+				</ul>
+			</div> 
+		</nav>
+```
+ και του κώδικα για την λειτουργία του "expand button":
+```
+	<script>
+		$('.navbar-nav>li>a').on('click', function(){
+			$('.navbar-collapse').collapse('hide');
+		});
+		</script>
+		<audio id='mySound' src="assets/sounds/mouse hover sound.mp3"/>
+	<script>
+```
 ## Όνομα εργασίας : Εργασία Περιεχομένου 1ο Παραδοτέο
  ### Eκτελέσιμο link : https://p17griv.github.io/gr/
  ### link αποθετηρίου : https://github.com/p17griv/gr
