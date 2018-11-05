@@ -53,7 +53,7 @@
 ![Screenshot](Scr1.PNG)
 ![Screenshot](Scr2.PNG)
 ![Screenshot](Scr3.PNG)
-Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://p13gian1.github.io/D3js-US-educational-attainment/
+Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://helieus.github.io/D3js-US-educational-attainment/
 
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
 
