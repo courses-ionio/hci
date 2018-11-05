@@ -83,9 +83,40 @@ var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5
 ```
 Όλες αυτές οι αλλαγές έγιναν στο CSS αρχείο "style.css" (assets/stylesheets/style.css).  
 * 3ο Ζητούμενο - Όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, να ακούγεται κάποιος ήχος της επιλογής σας.  
-
-
-
+Αρχικά για την υλοποίηση αυτού του ζητούμενου χρειάστηκε να προστεθεί ένα αρχείο ήχου το οποίο βρίσκεται στον φάκελο sounds του φακέλου assets του αποθετηρίου. Στη συνέχεια έγινε εισαγωγή του αρχείου ήχου στο αρχείο httml "index.html":
+```
+<audio id='mySound' src="assets/sounds/mouse hover sound.mp3"/>
+```
+προστέθηκαν τα attributes "onmouseover" και "onmouseout" στις ετικέτες <li> των επιλογών του μενού τα οποία καλούν τις συναρτήσεις "PlaySound" και "StopSound" αντίστοιχα, με παράμετρο το κομμάτι ήχου (id αυτού):  
+ 
+     <li class="nav-item" onmouseover="PlaySound('mySound')"onmouseout="StopSound('mySound')">
+						<a class="nav-link" href="#top">Top</a>
+					</li>
+					<li class="nav-item" onmouseover="PlaySound('mySound')"onmouseout="StopSound('mySound')">
+						<a class="nav-link" href="#national">National</a>
+					</li>
+					<li class="nav-item" onmouseover="PlaySound('mySound')"onmouseout="StopSound('mySound')">
+						<a class="nav-link" href="#regional">Regional</a>
+					</li>
+					<li class="nav-item" onmouseover="PlaySound('mySound')"onmouseout="StopSound('mySound')">
+						<a class="nav-link" href="#state">State-Level</a>
+					</li>
+και τέλος έγινε προσθήκη του script με την υλοποίηση των συναρτήσεων:
+```
+	<script>
+	function PlaySound(soundobj) {
+			var thissound=document.getElementById(soundobj);
+			thissound.play();
+	}
+	function StopSound(soundobj) {
+			var thissound=document.getElementById(soundobj);
+			thissound.pause();
+			thissound.currentTime = 0;
+	}	
+	</script>
+ ```
+ 
+ 
 ## Όνομα εργασίας : Εργασία Περιεχομένου 1ο Παραδοτέο
  ### Eκτελέσιμο link : https://p17griv.github.io/gr/
  ### link αποθετηρίου : https://github.com/p17griv/gr
