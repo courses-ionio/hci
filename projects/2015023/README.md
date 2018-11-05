@@ -24,10 +24,32 @@
        
         - Για το δεύτερο γράφημα ( στο αρχείο: assets/scripts/script_2.js )
 
-          ```
-          var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5000000]).range(["#fb6542", "#ffbb00", "#375e97", "#3f681c"]);
-          ```
-          ```
+        1. Στο **button** του γραφήματος (αλλαγές στα _script_2.js_ και _style.css_)  
+
+              1.a) _Το default χρώμα του_ (**script_2.js**)
+
+
+                   46   .attr("fill", '#009933');
+                        ...
+                   90   return '#009933'
+
+
+
+              1.b)  _Όταν περνάει το ποντίκι πάνω απ'το button του γραφήματος_ (**style.css**)
+
+
+    
+                   .grandparent:hover rect {
+	  	         fill: #006622;
+	           }
+
+
+        2. Στο ίδιο το **γράφημα** 
+
+
+               var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5000000]).range(["#fb6542", "#ffbb00", "#375e97", "#3f681c"]);
+
+
           if (treeSumSortType == "number") {
                     color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5000000]).range(["#fb6542", "#ffbb00", "#375e97", "#3f681c"]);
                     return d["Total College"];
@@ -41,7 +63,7 @@
                     color = d3.scaleLinear().domain([0, 1/4*50, 2/4*50, 3/4*50, 50]).range(["#fb6542", "#ffbb00", "#375e97", "#3f681c"]);
                     return d["Percent College - Female"];
                 }
-           ```
+
         
         - Για το τρίτο γράφημα ( στο αρχείο: assets/scripts/script_3.js )
 
