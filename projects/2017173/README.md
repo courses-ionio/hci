@@ -37,5 +37,9 @@ https://xaralambos12.github.io/gr/gallery/teamwork/
 
 [x] Εφάρμοσα responsive design στη σελίδα (Bootstrap) και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων.
 
-Τεκμηρίωση ζητουμένων πρώτου παραδοτέου
+### Τεκμηρίωση ζητουμένων πρώτου παραδοτέου
 Α & B) Άλλαξα τα χρώματα στα 3 γραφήματα και αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος. 
+![Screenshot](Screenshot_1.JPG)
+![Screenshot](Screenshot_2.JPG)
+![Screenshot](Screenshot_3.JPG)
+![Screenshot](Screenshot_4.JPG)
