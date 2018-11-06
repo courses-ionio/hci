@@ -17,7 +17,7 @@ https://p17four.github.io/gr/gallery/intel_d4004/
 
 https://p17four.github.io/gr/gallery/smartphone/
 
-Link fork: https://github.com/p17four/gr
+**Link fork: https://github.com/p17four/gr
 
 
 ## Εργασία Ανάπτυξης: Οπτικοποίηση δεδομένων εκπαιδευτικού συστήματος (USA) (1o Παραδοτέο)
