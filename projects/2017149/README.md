@@ -35,4 +35,12 @@ link config.yml: https://github.com/p17papa5/gr/blob/gh-pages/_config.yml
 [x] Εφάρμοσα responsive design στη σελίδα (Bootstrap) και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων.
 Τεκμηρίωση ζητουμένων πρώτου παραδοτέου
 
+### Τεκμηρίωση ζητουμένων πρώτου παραδοτέου
 Α & B) Άλλαξα τα χρώματα στα 3 γραφήματα και αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος. 
+
+![Screenshot](grafima 1.png)
+![Screenshot](grafima 2.png)
+![Screenshot](grafima 3.png)
+
+Γ) Δ) Ε) Δείτε το εκτελέσιμο στο https://p17papa5.github.io/D3js-US-educational-attainment/
+Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
