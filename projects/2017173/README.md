@@ -28,7 +28,8 @@ https://xaralambos12.github.io/gr/gallery/teamwork/
 [Link αποθετηρίου κώδικα]: https://github.com/Xaralambos12/D3js-US-educational-attainment
 [Link στο εκτελέσιμο]: https://Xaralambos12.github.io/D3js-US-educational-attainment/
 
-Εκπλήρωση ζητούμενων πρώτου παραδοτέου
+### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
+
 [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
 
 [x] Αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
