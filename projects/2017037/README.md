@@ -2,7 +2,7 @@
 ## Ονοματεπώνυμο: Αντωνούλης Δημήτριος  
 ## ΑΜ:Π2017037
 ## Προφίλ στο GitHub:https://github.com/DimitrisAntonoulis
-##Εργασία ανάπτυξης:Παραδοτέο 1
+## Εργασία ανάπτυξης:Παραδοτέο 1
 # Άλλαξα τα χρώματα,αντικατέστησα τις διεπαφές των κουμπιών και τέλος όταν ο κέρσορας διέρχεται από το μενού το ρύθμισα ώστε να ακούγεται ήχος.
 # Link αποθετηρίου :https://github.com/DimitrisAntonoulis/D3js-US-educational-attainment/tree/gh-pages
 # Εκτελέσιμο link : https://dimitrisantonoulis.github.io/D3js-US-educational-attainment/#top
