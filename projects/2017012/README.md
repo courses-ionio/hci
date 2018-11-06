@@ -24,3 +24,16 @@
 ## Link αποθετηρίου:  https://github.com/Thodoros/D3js-US-educational-attainment
 
 ## Link εκτελέσιμου:  https://thodoros.github.io/D3js-US-educational-attainment/
+
+
+## Τεκμηρίωση ζητουμένων 
+
+### A) Άλλαξα τα χρώματα στα 3 γραφήματα
+
+### Β) Άλλαξα τις διεπαφές στα κουμπιά του 2ου και 3ου γραφήματος
+
+### Γ-Δ-Ε) Δείτε στο εκτελέσιμο https://thodoros.github.io/D3js-US-educational-attainment/
+
+### Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
+
+
