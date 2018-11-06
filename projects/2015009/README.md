@@ -117,8 +117,16 @@
         <li><a href="#regional" onmouseover="playclip();" >Regional</a></li>
         <li><a href="#state" onmouseover="playclip();" >State-Level</a></li>
         ```
-      
- 
+4.**Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας, να ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).**
+   
+   * Για να ακούγεται η αφήγηση του κάθε κειμένου, όταν θα διέρχεται το ποντίκι πάνω, χρησιμοποιούμε τη βιβλιοθήκη **ResponsiveVoice**, στην γραμμή **14**, σε script tag στο index.html:
+     ```
+        <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+     ```
+     
+     
+     
+     
  
 ## Παραδοτέο 2 
 
