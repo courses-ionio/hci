@@ -6,27 +6,27 @@
 
 ## Εργασία Περιεχομένου-Παραδοτέο Α
 
-**Link σελίδας: https://p17math.github.io/gr
+**Link σελίδας: https://p17math.github.io/gr**
 
-**Link πρώτης φωτογραφίας: https://p17math.github.io/gr/gallery/router/
+**Link πρώτης φωτογραφίας: https://p17math.github.io/gr/gallery/router/**
 
-**Link δεύτερης φωτογραφίας: https://p17math.github.io/gr/gallery/html/
+**Link δεύτερης φωτογραφίας: https://p17math.github.io/gr/gallery/html/**
 
-**Link τρίτης φωτογραφίας: https://p17math.github.io/gr/gallery/google-maps/
+**Link τρίτης φωτογραφίας: https://p17math.github.io/gr/gallery/google-maps/**
 
-**Link τέταρτης φωτογραφίας: https://p17math.github.io/gr/gallery/google-home-mini/
+**Link τέταρτης φωτογραφίας: https://p17math.github.io/gr/gallery/google-home-mini/**
 
-**Link πέμπτης φωτογραφίας: https://p17math.github.io/gr/gallery/cpp/
+**Link πέμπτης φωτογραφίας: https://p17math.github.io/gr/gallery/cpp/**
 
-**Link από το fork μου στο gr repository: https://github.com/p17math/gr
+**Link από το fork μου στο gr repository: https://github.com/p17math/gr**
 
 
 
 ## Εργασία Ανάπτυξης-Παραδοτέο Α
 
-**Link αποθετηρίου κώδικα: https://github.com/p17math/D3js-US-educational-attainment
+**Link αποθετηρίου κώδικα: https://github.com/p17math/D3js-US-educational-attainment**
 
-**Εκτελέσιμο Link: https://p17math.github.io/D3js-US-educational-attainment/
+**Εκτελέσιμο Link: https://p17math.github.io/D3js-US-educational-attainment/**
 
 ### Λίστα εκπλήρωσης ζητουμένων παραδοτέου:
 
@@ -42,7 +42,7 @@
 
 ### Τεκμηρίωση ζητουμένων:
 
-**Η τεκμηρίωση του πρώτου και δεύτερου ζητουμένου γίνεται με τα παρακάτω screenshots:
+**Η τεκμηρίωση του πρώτου και δεύτερου ζητουμένου γίνεται με τα παρακάτω screenshots:**
 
 ![](Screenshot_1.png)	
 
@@ -50,4 +50,4 @@
 
 ![](Screenshot_3.png)	
 
-**Η τεκμηρίωση των υπόλοιπων ζητουμένων γίνεται με την επίσκεψη στο εκτελέσιμο link (https://p17math.github.io/D3js-US-educational-attainment/)
+**Η τεκμηρίωση των υπόλοιπων ζητουμένων γίνεται με την επίσκεψη στο εκτελέσιμο link (https://p17math.github.io/D3js-US-educational-attainment/)**
