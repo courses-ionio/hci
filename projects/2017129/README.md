@@ -56,10 +56,102 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
    }
 ```
 * 3ο Ζητούμενο - Όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, να ακούγεται κάποιος ήχος της επιλογής σας.
+ Αρχικά, κατέβασα ένα mp3 αρχείο από το διαδίκτυο: Από την ιστοσελίδα :https://www.zapsplat.com/
+ και το ανέβασα όπως και το mousehover-sound.js αρχείο στο repository του κώδικά μου.  Στη συνέχεια, τροποποίησα το αρχείο index.html, εισάγοντας ενα script tag
+```
+     <script type="text/javascript" src="mousehover-sound.js"></script>
+     ```
+     
+     Ενα _audio tag_:
 
+     ```
+     <audio>
+     <source src="mousehover-sound.mp3"></source>
+     <source src="mousehover-sound.ogg"></source>
+     </audio>
+	  <div id="sounddiv"><bgsound id="sound"></div>
+     ```
+
+     καθώς και τον _κώδικα_ 
+ 
+     ```
+     onmouseover="playclip();"
+     ```
+     
+     σε κάθε ένα από τα tags των επιλογών του **menu** μας
+
+     ```
+     <li><a href="#top" onmouseover="playclip();" >Top</a></li>
+     <li><a href="#national" onmouseover="playclip();" >National</a></li>
+     <li><a href="#regional" onmouseover="playclip();" >Regional</a></li>
+     <li><a href="#state" onmouseover="playclip();" >State-Level</a></li>
+     ```
+     
  * 4ο Ζητούμενο - Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας ή περιοχή που περιλαμβάνει γραπτή πληροφορία (π.χ. κάποιο τμήμα γραφήματος), να ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).
+ Για να ακούγεται η αφήγηση του κάθε κειμένου, όταν θα διέρχεται το ποντίκι πάνω, χρησιμοποιούμε τη βιβλιοθήκη ResponsiveVoice,
+     σε _script tag_ στο index.html:
+
+     ```
+     <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+     ```
+
+     και την παρακάτω συνάρτηση, μέσα σε _script tag_:
+
+     ```
+     <script>
+     $(document).ready(function(){
+     $("h1, h2, label").mouseenter(function(){
+		responsiveVoice.cancel(); 
+  		responsiveVoice.speak($(this).text(), 'UK English Male');
+     });
+     $("h1, h2, label").mouseleave(function(){
+        responsiveVoice.cancel();
+    	});
+     });
+     </script>
+     `
  
 * 5ο Ζητούμενο - Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων (π.χ. Bootstrap).
+ Στη συνέχεια, πρόσθεσα τον παρακάτω κώδικα στο αρχείο **index.html**, ώστε το **menu** της ιστοσελίδας να προσαρμόζεται σωστά σε μικρότερες συσκευές:
+ 
+   ```
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+	<span class="navbar-toggler-icon"></span>
+	
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+    <ul class="navbar-nav ml-auto">
+    <li class="nav-item active"><a class="nav-link" href="#top" onmouseover="playclip();" >Top</a></li>
+    <li class="nav-item active"><a class="nav-link" href="#national" onmouseover="playclip();" >National</a></li>
+    <li class="nav-item active"><a class="nav-link" href="#regional" onmouseover="playclip();" >Regional</a></li>
+    <li class="nav-item active"><a class="nav-link" href="#state" onmouseover="playclip();" >State-Level</a></li>
+
+    </ul>
+    </div>
+    </div>
+    </nav>
+  ```
+
+   Τέλος, πρόσθεσα τις παρακάτω γραμμές κώδικα στο αρχείο style.css(αντικαθιστώντας τα με τα αντίστοιχα _nav tags_ που υπήρχαν πριν), δημιουργώντας μικρές αλλαγές, αλλά και για να δουλεύει σωστά 
+το **menu** σε μικρότερες οθόνες.
+
+  ```
+  .navbar {
+   padding: .8rem;
+  }
+
+  .navbar-nav li {
+   padding-right: 20px;
+  }
+
+  .nav-link {
+   font-size: 1.1em !important;
+  }
+  ```
+
 
 ## Εργασία περιεχομένου  Παραδοτέο Α
 
