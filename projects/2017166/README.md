@@ -35,3 +35,30 @@ https://eleftherioseleftheriadis.github.io/gr/
 LINK FORKED MIBOOK
 
 https://github.com/eleftherioseleftheriadis/gr
+
+
+ΕΡΓΑΣΙΑ ΑΝΑΠΤΥΞΗΣ
+
+ΠΑΡΑΔΟΤΕΟ Α
+
+LINK FORK
+https://github.com/eleftherioseleftheriadis/D3js-US-educational-attainment
+
+LINK ΙΣΤΟΣΕΛΙΔΑΣ
+https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
+ 
+[x] Άλλαξα τα χρώματα στα 3 γραφήματα.
+ 
+[x] Αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
+ 
+[x] Όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, ακούγεται κάποιος ήχος.
+ 
+[x] Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας ή περιοχή που περιλαμβάνει γραπτή πληροφορία (π.χ. κάποιο τμήμα γραφήματος), ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).
+ 
+[x] Εφάρμοσα responsive design στη σελίδα και στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων.
+
+Α & B) Άλλαξα τα χρώματα στα 3 γραφήματα και αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
+
+Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
+ 
+Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice .js
