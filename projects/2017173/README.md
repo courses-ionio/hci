@@ -25,7 +25,9 @@ https://xaralambos12.github.io/gr/gallery/teamwork/
 ## Εργασία Aνάπτυξης
 
 ### Παραδοτέο 1
+
 [Link αποθετηρίου κώδικα]: https://github.com/Xaralambos12/D3js-US-educational-attainment
+
 [Link στο εκτελέσιμο]: https://Xaralambos12.github.io/D3js-US-educational-attainment/
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
