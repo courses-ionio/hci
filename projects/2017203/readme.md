@@ -5,11 +5,11 @@
 #### Όνομα: Ανδρέας
 #### Επώνυμο: Καγκελάρης
 #
-#### 1) λινκ στο αποθετήριο του κώδικα 
+#### 1) link στο αποθετήριο του κώδικα 
 https://github.com/p17kagk/D3js-US-educational-attainment
-#### 2) λινκ στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο 
+#### 2) link στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο 
 https://github.com/p17kagk/D3js-US-educational-attainment/tree/P2017203
-#### 3) λινκ στο εκτελέσιμο
+#### 3) link στο εκτελέσιμο
 https://p17kagk.github.io/D3js-US-educational-attainment/
 #
 
