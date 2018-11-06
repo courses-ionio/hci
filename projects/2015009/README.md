@@ -86,9 +86,38 @@
      ```
      
 3.**Όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, να ακούγεται κάποιος ήχος της επιλογής σας.**
- 
 
- 
+   * Αρχικά ,για να ακούγεται ήχος κάθε φορά που διέρχεται το ποντίκι στο menu της σελίδας , κατέβασα ενα αρχείο **click.mp3** απο το διαδίκτυο.
+   
+   * Ανέβασα δύο αρχεία του ηχητικού αρχείου , ενα **mp3** και ενα **ogg** ,για να υποστηρίζεται απ'όλους τους φυλλομετρητές.
+   
+   * Έπειτα, ανέβασα το **click.js** αρχείο στο repository του κώδικά μου, για να υποστηρίζεται και απο τον IE φυλλομετρητή.
+   
+   * Μετά τροποποίησα το αρχείο index.html, εισάγοντας στην γραμμή **20** ενα **script tag**:
+     
+       ```javascript
+       <script type="text/javascript" src="click.js"></script>
+       ```
+   * Και ένα **audio tag** στις γραμμές **124-128**.
+       ```javascript
+       <audio>
+        <source src="click.mp3">
+        <source src="click.ogg">
+        </audio>
+        <div id="sounddiv"><bgsound id="sound"></div>
+       ```  
+   * Τέλος , στις γραμμές **37-40** προσθέτουμε τον κώδικα :
+       ```
+        onmouseover="playclip();"
+       ```
+        Οπότε τα tags των επιλογών του menu μας θα αλλάξουν ως :
+        ```javascript
+        <li><a href="#top" onmouseover="playclip();" >Top</a></li>
+        <li><a href="#national" onmouseover="playclip();" >National</a></li>
+        <li><a href="#regional" onmouseover="playclip();" >Regional</a></li>
+        <li><a href="#state" onmouseover="playclip();" >State-Level</a></li>
+        ```
+      
  
  
 ## Παραδοτέο 2 
