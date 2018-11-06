@@ -10,6 +10,7 @@
 
 link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-attainment
 
+
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
 [x]  Άλλαξα τα χρώματα στα 3 γραφήματα.
@@ -21,6 +22,8 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
 [x] Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας ή περιοχή που περιλαμβάνει γραπτή πληροφορία (π.χ. κάποιο τμήμα     γραφήματος), ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).
 
 [x] Εφάρμοσα responsive design στη σελίδα (Bootstrap) και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων.
+
+
  * 1ο Ζητούμενο - Αλλάξτε τα χρώματα στα 3 γραφήματα. 
  
  
@@ -28,6 +31,7 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
                                         
 
 * 2ο Ζητούμενο - Αντικαταστήστε τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος με άλλες της επιλογής σας. 
+
 Όλεςαυτές οι αλλαγές έγιναν στο CSS αρχείο "style.css" (assets/stylesheets/style.css).
 Για την αλλαγή της όψης των κουμπιών χρειάστηκε να τροποποιηθούν οι δύο τιμές των χρωμάτων (επιλεγμένο/μη επιλεγμένο κουμπί):
 ```
@@ -56,14 +60,13 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
    }
 ```
 * 3ο Ζητούμενο - Όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, να ακούγεται κάποιος ήχος της επιλογής σας.
+
  Αρχικά, κατέβασα ένα mp3 αρχείο από το διαδίκτυο: Από την ιστοσελίδα :https://www.zapsplat.com/
  και το ανέβασα όπως και το mousehover-sound.js αρχείο στο repository του κώδικά μου.  Στη συνέχεια, τροποποίησα το αρχείο index.html, εισάγοντας ενα script tag
-```
+     ```
      <script type="text/javascript" src="mousehover-sound.js"></script>
      ```
-     
-     Ενα _audio tag_:
-
+     ενα audio tag:
      ```
      <audio>
      <source src="mousehover-sound.mp3"></source>
@@ -71,15 +74,13 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
      </audio>
 	  <div id="sounddiv"><bgsound id="sound"></div>
      ```
-
-     καθώς και τον _κώδικα_ 
+ 	καθώς και τον κώδικα:
  
      ```
      onmouseover="playclip();"
      ```
-     
-     σε κάθε ένα από τα tags των επιλογών του **menu** μας
-
+   σε καθένα απο τα παρακάτω tags:
+    	   
      ```
      <li><a href="#top" onmouseover="playclip();" >Top</a></li>
      <li><a href="#national" onmouseover="playclip();" >National</a></li>
@@ -88,6 +89,7 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
      ```
      
  * 4ο Ζητούμενο - Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας ή περιοχή που περιλαμβάνει γραπτή πληροφορία (π.χ. κάποιο τμήμα γραφήματος), να ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).
+ 
  Για να ακούγεται η αφήγηση του κάθε κειμένου, όταν θα διέρχεται το ποντίκι πάνω, χρησιμοποιούμε τη βιβλιοθήκη ResponsiveVoice,
      σε _script tag_ στο index.html:
 
@@ -95,7 +97,7 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
      <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
      ```
 
-     και την παρακάτω συνάρτηση, μέσα σε _script tag_:
+   και την παρακάτω συνάρτηση, μέσα σε _script tag_:
 
      ```
      <script>
@@ -112,6 +114,7 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
      `
  
 * 5ο Ζητούμενο - Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων (π.χ. Bootstrap).
+
  Στη συνέχεια, πρόσθεσα τον παρακάτω κώδικα στο αρχείο **index.html**, ώστε το **menu** της ιστοσελίδας να προσαρμόζεται σωστά σε μικρότερες συσκευές:
  
    ```
@@ -151,6 +154,7 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
    font-size: 1.1em !important;
   }
   ```
+
 
 
 ## Εργασία περιεχομένου  Παραδοτέο Α
