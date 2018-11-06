@@ -21,6 +21,11 @@
 # Εργασία Ανάπτυξης
 # Παραδοτέο 1ο
 
+## Ονοματεπώνυμο: Πλιάφας Θεόδωρος
+## ΑΜ:Π2017012
+
+
+
 ## Link αποθετηρίου:  https://github.com/Thodoros/D3js-US-educational-attainment
 
 ## Link εκτελέσιμου:  https://thodoros.github.io/D3js-US-educational-attainment/
@@ -32,8 +37,11 @@
 
 ### Β) Άλλαξα τις διεπαφές στα κουμπιά του 2ου και 3ου γραφήματος
 
-### Γ-Δ-Ε) Δείτε στο εκτελέσιμο https://thodoros.github.io/D3js-US-educational-attainment/
+### Γ) Τοποθέτησα ήχο στο menu στην κορυφή της σελίδας
 
-### Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
+### Δ) Ακούγεται αυτόματα text to speech στους τίτλους και στα κουμπιά διεπαφών
+
+### Ε) Έκανα resposinve το menu
+
 
 
