@@ -39,7 +39,12 @@ https://xaralambos12.github.io/gr/gallery/teamwork/
 
 ### Τεκμηρίωση ζητουμένων πρώτου παραδοτέου
 Α & B) Άλλαξα τα χρώματα στα 3 γραφήματα και αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος. 
-![Screenshot](Screenshot_1.PNG)
-![Screenshot](Screenshot_2.PNG)
-![Screenshot](Screenshot_3.PNG)
-![Screenshot](Screenshot_4.PNG)
+![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshot_2.png)
+![Screenshot](Screenshot_3.png)
+![Screenshot](Screenshot_4.png)
+
+Γ) Δ) Ε) Δείτε το εκτελέσιμο στο https://Xaralambos12.github.io/D3js-US-educational-attainment/
+
+Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
+
