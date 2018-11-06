@@ -12,3 +12,15 @@
 ##  iOS: https://thodoros.github.io/gr/gallery/ios/
 ##  Keyboard: https://thodoros.github.io/gr/gallery/keyboard/
 
+
+
+
+
+
+
+# Εργασία Ανάπτυξης
+# Παραδοτέο 1ο
+
+## Link αποθετηρίου:  https://github.com/Thodoros/D3js-US-educational-attainment
+
+## Link εκτελέσιμου:  https://thodoros.github.io/D3js-US-educational-attainment/
