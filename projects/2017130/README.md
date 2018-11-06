@@ -40,7 +40,7 @@
 
 Γράφημα 3: ...var colors = d3.scaleOrdinal() .range...
 
-![ScreenShot](1.jpg)
+![ScreenShot](1.JPG)
 
 2. Η αλλαγή των ετικετών στα κουμπιά διεπαφής πραγματοποιήθηκε από το αρχείο style.css.
 
@@ -48,7 +48,7 @@
 
 ....radio-toolbar input[type="radio"]:checked+label { ...
 
-![ScreenShot](2.jpg)
+![ScreenShot](2.JPG)
 
 3. Για τον ήχο που κάνει το ποντίκι όταν διέρχεται πάνω από το μενού αρχικά κατέβασα ένα αρχείο .mp3 από το http://soundbible.com/tags-click.html κι έπειτα το έκανα online convert σε .ogg. Στη συνέχεια έκανα upload στο αποθετήριο της εργασίας όπως και το αρχείο sound-mouseover.js κι έκανα τις απαραίτητες αλλαγές στο αρχείο index.
 
@@ -60,7 +60,7 @@
 
 4. Το 4ο ζητούμενο πραγματοποιήθηκε με τη βοήθεια του onmouseover="responsiveVoice.speak και onmouseleave="responsiveVoice.cancel() σε κάθε σημείο του αρχείου που θέλαμε να ακολουθεί την οδηγία text-to-speech.
 
-![ScreenShot](3.jpg)
+![ScreenShot](3.JPG)
 
 5. Για το 5ο ζητούμενο έγιναν οι απαραίτητες αλλαγές στο index αρχείο ώστα να προσαρμόζεται το εκτελέσιμο αρχείο στα διάφορα μεγέθη οθονών.
 
