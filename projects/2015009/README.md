@@ -119,14 +119,80 @@
         ```
 4.**Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας, να ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).**
    
-   * Για να ακούγεται η αφήγηση του κάθε κειμένου, όταν θα διέρχεται το ποντίκι πάνω, χρησιμοποιούμε τη βιβλιοθήκη **ResponsiveVoice**, στην γραμμή **14**, σε script tag στο index.html:
+   * Για να ακούγεται η αφήγηση του κάθε κειμένου, όταν θα διέρχεται το ποντίκι πάνω, χρησιμοποιούμε τη βιβλιοθήκη **ResponsiveVoice**, στην     γραμμή **14**, σε **script tag** στο **index.html**:
+     
      ```
         <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
      ```
+   
+   * Καθώς και την παρακάτω συνάρτηση στις γραμμές **110-120** ,μέσα σε **script tag**:
      
+     ```javascript 
      
-     
-     
+       <script>
+        $(document).ready(function(){
+           $("h1, h2, label").mouseenter(function(){
+		  responsiveVoice.cancel(); 
+  		  responsiveVoice.speak($(this).text());
+          });
+         $("h1, h2, label").mouseleave(function(){
+             responsiveVoice.cancel();
+    	    });
+        });
+        </script>
+     ```
+   
+ 5.**Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων (π.χ. Bootstrap).**
+
+* Για να προσαρμόζετε η ιστοσελίδα μας σε διαφορετικά **μεγέθη οθονών**(π.χ.smartphones) αρκεί να χρησιμοποιήσουμε χρήσιμες βιβλιοθήκες της Bootstrap. Χρησιμοποιήθηκαν βιβλιοθήκες από τις νεότερες εκδόσεις της **css** και **js** της **bootstrap**, της **jquery** και **popper**. Οι αλλαγές που έγιναν στο αρχείο **index.html** βρίσκονται στις γραμμές **12** και **15-17** αντήστοιχα.
+   ```javascript
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"   integrity="sha384ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+   ```
+   
+ * Επίσεις πρόσθεσα και ένα **meta tag** για να έρχεται στις **διαστάσεις της κάθε συσκευής** στην γραμμή **6**.   
+   ```javascript
+      <meta name="viewport" content="width=device-width, initial-scale=1">   
+   ```
+ * Και μετά πρόσθεσα τον παρακάτω κώδικα, στις γραμμές **26-44** στο αρχείο **index.html**, ώστε το **menu** της ιστοσελίδας να προσαρμόζεται σωστά σε μικρότερες συσκευές.
+   ```javascript
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+       	
+      <div class="container-fluid">
+	      
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">    
+          <span class="navbar-toggler-icon"></span>
+	     </button> 
+	    
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+	    
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active"><a class="nav-link" href="#top" onmouseover="playclip();" >Top</a></li>
+        <li class="nav-item active"><a class="nav-link" href="#national" onmouseover="playclip();" >National</a></li>
+        <li class="nav-item active"><a class="nav-link" href="#regional" onmouseover="playclip();" >Regional</a></li>
+        <li class="nav-item active"><a class="nav-link" href="#state" onmouseover="playclip();" >State-Level</a></li>
+      </ul>
+          </div>
+          </div>
+      </nav>
+   ```
+   
+ * Τέλος αντικατέστισα τα **nav tags** που υπήρχαν στο αρχείο **style.css** με τις παρακάτω γραμμές κώδικα :
+   ```
+        .navbar {
+          padding: .8rem;
+          }
+
+       navbar-nav li { 
+        padding-right: 20px;
+       }
+
+       .nav-link { 
+         font-size: 1.1em !important;
+        }
+   ```
  
 ## Παραδοτέο 2 
 
