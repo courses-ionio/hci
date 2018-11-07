@@ -56,6 +56,9 @@ iii)Όταν το ποντίκι διέρχεται επάνω από κάθε �
 
 iv)Η αφήγηση πραγματοποιήθηκε με τη βοήθεια της συνάρτησης onmouseover="responsiveVoice.speak σε κάθε σημείο του αρχείου που θέλαμε να ακολουθεί την οδηγία text-to-speech.
 
-v)Η βιβλιοθήκη του Bootstrap με σκοπό η σελίδα να γίνει πιο "responive" και σε άλλες όθονες έγινε με την χρήση του script της Bootstrap
+v)Η βιβλιοθήκη του Bootstrap με σκοπό η σελίδα να γίνει πιο "responive" και σε άλλες όθονες έγινε με την χρήση του script :
+
+<scriρt src="https://stackpath.bootstrapcdn.com/.../bootstrap.min.js"...></script>
+
 
 
