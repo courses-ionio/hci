@@ -32,7 +32,9 @@ https://sourlasgiannhs.github.io/gr/gallery/flight-simulator/
 
 Παραδοτέο 
 [Link αποθετηρίου κώδικα]: https://github.com/sourlasgiannhs/D3js-US-educational-attainment
+
 [Link στο εκτελέσιμο]: https://sourlasgiannhs.github.io/D3js-US-educational-attainment/
+
 Zητούμενα πρώτου παραδοτέου
 [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
 
