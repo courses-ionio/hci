@@ -28,9 +28,9 @@ https://github.com/SourlasGiannhs/hci/new/master/projects
 flight simulator
 
 https://sourlasgiannhs.github.io/gr/gallery/flight-simulator/
+____________________________________________________________________________________________________________________
 
-
-Παραδοτέο 
+Παραδοτέο 1
 [Link αποθετηρίου κώδικα]: https://github.com/sourlasgiannhs/D3js-US-educational-attainment
 
 [Link στο εκτελέσιμο]: https://sourlasgiannhs.github.io/D3js-US-educational-attainment/
