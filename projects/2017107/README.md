@@ -19,3 +19,9 @@ Image No5: https://www.uschamberfoundation.org/file/code-coder-coding-coffee-com
 Επικοινωνία ανθρώπου υπολογιστή
 
 Εργασία περιεχομένου
+
+Εργασία ανάπτυξης
+
+Chart link : https://ionas-filippou.github.io/D3js-US-educational-attainment/
+
+Repositories link : https://github.com/ionas-filippou/D3js-US-educational-attainment
