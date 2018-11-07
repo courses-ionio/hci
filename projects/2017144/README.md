@@ -30,10 +30,13 @@
  
   * https://akontinis.github.io/gr/gallery/spotify/
 
-# Όνομα εργασίας : Εργασία Ανάπτυξης  
-### Eκτελέσιμο link : https://akontinis.github.io/D3js-US-educational-attainment/
-### link αποθετηρίου : https://github.com/akontinis/D3js-US-educational-attainment
+## Παραδοτέο 1
+
+#### [Link αποθετηρίου κώδικα]: https://https://github.com/akontinis/D3js-US-educational-attainment
+#### [Link στο εκτελέσιμο]: https://akontinis.github.io/D3js-US-educational-attainment/
+
 ### Ζητούμενα - Παραδοτέο 1
+
  - [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
  - [x] Αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
  - [x] Όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, ακούγεται κάποιος ήχος.
