@@ -62,3 +62,19 @@ https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
 Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
  
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice .js
+
+Bonus Εργασία
+
+ΠΑΡΑΔΟΤΕΟ Α
+
+LINK ΙΣΤΟΣΕΛΙΔΑΣ
+https://eleftherioseleftheriadis.github.io/CV-Eleftherios-Eleftheriadis/
+
+LINK PDF
+https://github.com/eleftherioseleftheriadis/CV-Eleftherios-Eleftheriadis/blob/master/output.pdf
+
+LATEX CODE
+https://github.com/eleftherioseleftheriadis/CV-Eleftherios-Eleftheriadis/blob/master/template.tex
+
+YAML CODE
+https://github.com/eleftherioseleftheriadis/CV-Eleftherios-Eleftheriadis/blob/master/details.yml
