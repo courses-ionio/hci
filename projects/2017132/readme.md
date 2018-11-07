@@ -21,9 +21,9 @@
 ### Τεκμηρίωση ζητουμένων πρώτου παραδοτέου
 
 Α & B) Άλλαξα τα χρώματα στα 3 γραφήματα και αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
-![Screenshot](Scr1.PNG)
-![Screenshot](Scr2.PNG)
-![Screenshot](Scr3.PNG)
+![Screenshot](image1.PNG)
+![Screenshot](image2.PNG)
+![Screenshot](image3.PNG)
 Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://Sotiris132.github.io/D3js-US-educational-attainment/
 
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
