@@ -32,8 +32,8 @@
 
 ## Παραδοτέο 1
 
-#### [Link αποθετηρίου κώδικα]: https://https://github.com/akontinis/D3js-US-educational-attainment
-#### [Link στο εκτελέσιμο]: https://akontinis.github.io/D3js-US-educational-attainment/
+### [Link αποθετηρίου κώδικα]: https://https://github.com/akontinis/D3js-US-educational-attainment
+### [Link στο εκτελέσιμο]: https://akontinis.github.io/D3js-US-educational-attainment/
 
 ### Ζητούμενα - Παραδοτέο 1
 
