@@ -55,9 +55,9 @@
 ### Τεκμηρίωση ζητουμένων πρώτου παραδοτέου
 
 Α & B) Άλλαξα τα χρώματα στα 3 γραφήματα και αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
-![Screenshot](first.png)
-![Screenshot](second.png)
-![Screenshot](third.png)
+![Screenshot](first.png.png)
+![Screenshot](second.png.png)
+![Screenshot](third.png.png)
 Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://p16sidi.github.io/D3js-US-educational-attainment/
 
 Για την μετατροπή text to speech χρησιμοποίησα το voiceover.js.
