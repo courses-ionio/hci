@@ -15,3 +15,13 @@
   - https://axilleasmandravelis.github.io/gr/gallery/Unreal-Engine/
 - Windows
   - https://axilleasmandravelis.github.io/gr/gallery/Windows/
+  
+  ##  Εργασία Ανάπτυξης : Οπτικοποίηση δεδομένων εκπαιδευτικού συστήματος(USA) (1o Παραδοτέο)
+### Ονοματεπώνυμο : Μανδραβέλης Αχιλλέας
+### Αριθμός Μητρώου : Π2017002
+#### Εκτελέσιμο link : https://axilleasmandravelis.github.io/D3js-US-educational-attainment/
+#### link Αποθετερίου : https://github.com/axilleasmandravelis/D3js-US-educational-attainment/tree/gh-pages
+# Ζητούμενα :
+- Άλλαξα τα χρωματα στα script_1.js, script_2.js,script_3.js
+- Άλλαξα τις διεπαφές στα κουμπία των γραφφημάτων
+-Πρόσθεσα ήχο στο μενου 
