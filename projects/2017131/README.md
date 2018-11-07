@@ -1,9 +1,9 @@
 ## ΜΕΛΙΔΟΝΙΩΤΗΣ ΓΕΩΡΓΙΟΣ <br>
 ## ΑΜ: Π2017131 <br>
  
-## ΠΑΡΑΔΟΤΕΟ 1 <br>
+## Παραδοτέο 1 <br>
 ## Εργασία ανάπτυξης: Οπτικοποίηση Δεδομένων<br>
-## εκτελέσιμο link:https://p17meli.github.io/D3js-US-educational-attainment/#regional <br>
+## Εκτελέσιμο link:https://p17meli.github.io/D3js-US-educational-attainment/#regional <br>
 ## Link αποθετηρίου:https://github.com/p17meli/D3js-US-educational-attainment
 ### Αλλαγές οι οποίες εγιναν: <br>
 -Άλλαξα τα χρώματα στα 3 γραφήματα <br>
@@ -13,7 +13,7 @@
 <br><br><br><br>
 <p>---------------------------------------------------------------------------------------------------------------------------------</p>
 <br><br><br>
-ΕΡΓΑΣΙΑ ΠΕΡΙΕΧΟΜΕΝΟΥ 1 <br>
+## ΕΡΓΑΣΙΑ ΠΕΡΙΕΧΟΜΕΝΟΥ 1 <br>
 <br>
 Link αποθετηρίου:https://github.com/p17meli/gr <br>
 Εκτελέσιμο αρχείο:https://p17meli.github.io/gr/ <br>
