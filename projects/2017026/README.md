@@ -7,7 +7,10 @@
 Εργασία Ανάπτυξης
 Παραδοτέο 1
 εκτελέσιμο link: https://giottachou.github.io/D3js-US-educational-attainment/
+
 link αποθετηρίου(master branch): https://github.com/giottachou/D3js-US-educational-attainment/tree/master
+
+----------------------------------------------------------------------------------------------------------------
 
 Link σελίδας: https://giottachou.github.io/gr
 
