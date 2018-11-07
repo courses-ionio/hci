@@ -1,16 +1,16 @@
-#### Όνομα μαθήματος : Επικοινωνία Ανθρώπου-Υπολογιστή
+# Όνομα μαθήματος : Επικοινωνία Ανθρώπου-Υπολογιστή
 
-### Όνομα: Παναγιώτης
+## Όνομα: Παναγιώτης
 
-### Επίθετο: Σιώλος
+## Επίθετο: Σιώλος
 
-## ΑΜ : Π2017160
+### ΑΜ : Π2017160
 
-## Εργασια : Εργασία Ανάπτυξης
+### Εργασια : Εργασία Ανάπτυξης
 
-# Εκτελέσιμο Link : https://p17siol.github.io/D3js-US-educational-attainment/
+### Εκτελέσιμο Link : https://p17siol.github.io/D3js-US-educational-attainment/
 
-# Link Αποθετηριου : https://github.com/p17siol/D3js-US-educational-attainment
+### Link Αποθετηριου : https://github.com/p17siol/D3js-US-educational-attainment
 
 Εγιναν Αλλαγές στα πρώτα 4 ερωτήματα 
 
@@ -29,9 +29,9 @@ _____________________________________________________
 
 ## Εργασία : Εργασία Περιοχομένου
 
-# Εκτελέσιμο Link : https://p17siol.github.io/gr
+### Εκτελέσιμο Link : https://p17siol.github.io/gr
 
-# Link Αποθετηρίου : https://github.com/p17siol/gr
+### Link Αποθετηρίου : https://github.com/p17siol/gr
 
 
 
