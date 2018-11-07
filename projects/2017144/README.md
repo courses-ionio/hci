@@ -30,7 +30,7 @@
  
   * https://akontinis.github.io/gr/gallery/spotify/
 
-## Παραδοτέο 1
+### Παραδοτέο 1
 
 ### [Link αποθετηρίου κώδικα]: https://https://github.com/akontinis/D3js-US-educational-attainment
 ### [Link στο εκτελέσιμο]: https://akontinis.github.io/D3js-US-educational-attainment/
@@ -56,5 +56,6 @@ iii)Όταν το ποντίκι διέρχεται επάνω από κάθε �
 
 iv)Η αφήγηση πραγματοποιήθηκε με τη βοήθεια της συνάρτησης onmouseover="responsiveVoice.speak σε κάθε σημείο του αρχείου που θέλαμε να ακολουθεί την οδηγία text-to-speech.
 
-v)Η βιβλιοθήκη του Bootstrap με σκοπό η σελίδα να γίνει πιο "responive" και σε άλλες όθονες έγινε με την χρήση του script:
+v)Η βιβλιοθήκη του Bootstrap με σκοπό η σελίδα να γίνει πιο "responive" και σε άλλες όθονες έγινε με την χρήση του script της Bootstrap
+
 
