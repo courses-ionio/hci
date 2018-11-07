@@ -4,6 +4,11 @@
 
 Όνομα μαθήματος: Επικοινωνία Ανθρώπου Υπολογιστή
 
+Εργασία Ανάπτυξης
+Παραδοτέο 1
+εκτελέσιμο link: https://giottachou.github.io/D3js-US-educational-attainment/
+link αποθετηρίου(master branch): https://github.com/giottachou/D3js-US-educational-attainment/tree/master
+
 Link σελίδας: https://giottachou.github.io/gr
 
 Link πρώτης φωτογραφίας: https://giottachou.github.io/gr/gallery/39-9-73_CDC_6600/
