@@ -60,4 +60,4 @@
 ![Screenshot](third.png.png)
 Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://p16sidi.github.io/D3js-US-educational-attainment/
 
-Για την μετατροπή text to speech χρησιμοποίησα το voiceover.js.
+Για την μετατροπή text to speech χρησιμοποίησα το mouseover.js.
