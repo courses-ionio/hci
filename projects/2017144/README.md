@@ -1,8 +1,7 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
+## Εργασία Περιεχομένου 1Α(Εύρεση Εικόνων)
 ### Ονοματεπώνυμο: Αριστείδης Κοντίνης
 ### Αριθμός Μητρώου: Π2017144
-
-# Εργασία Περιεχομένου 1Α(Εύρεση Εικόνων)
  
 **Σύνδεσμος ιστότοπου https://akontinis.github.io/gr/**
  
@@ -11,15 +10,25 @@
  
 ## Σύνδεσμοι εικόνων
  
-* Android: https://akontinis.github.io/gr/gallery/android/
+* Android
  
-* Netbeans: https://akontinis.github.io/gr/gallery/netbeans/
+  * https://akontinis.github.io/gr/gallery/android/
  
-* Oculus: https://akontinis.github.io/gr/gallery/oculus/
+* Netbeans
  
-* Raspbian: https://akontinis.github.io/gr/gallery/raspbian/
+  * https://akontinis.github.io/gr/gallery/netbeans/
  
-* Spotify: https://akontinis.github.io/gr/gallery/spotify/
+* Oculus
+ 
+  * https://akontinis.github.io/gr/gallery/oculus/
+ 
+* Raspbian
+ 
+  * https://akontinis.github.io/gr/gallery/raspbian/
+ 
+* Spotify
+ 
+  * https://akontinis.github.io/gr/gallery/spotify/
 
 # Όνομα εργασίας : Εργασία Ανάπτυξης  
  ### Eκτελέσιμο link : https://akontinis.github.io/D3js-US-educational-attainment/
