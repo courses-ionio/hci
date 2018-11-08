@@ -4,7 +4,7 @@
 Αριθμός Μητρώου: Π2017001
 
 Εργασία Ανάπτυξης
-link ιστοσελίδας : <a href="https://lextale.github.io/D3js-US-educational-attainment" target="_blank" >https://lextale.github.io/D3js-US-educational-attainment</a>
+link ιστοσελίδας : <span><a href="https://lextale.github.io/D3js-US-educational-attainment" target="_blank" >https://lextale.github.io/D3js-US-educational-attainment</a><s/span>
 link αποθετηρίου : <a href="https://github.com/lextale/D3js-US-educational-attainment" target="_blank" >https://github.com/lextale/D3js-US-educational-attainment </a>
 
 Παραδοτέο 1
