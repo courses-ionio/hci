@@ -5,7 +5,7 @@
 
 Εργασία Ανάπτυξης
 link ιστοσελίδας : <a href="https://lextale.github.io/D3js-US-educational-attainment">https://lextale.github.io/D3js-US-educational-attainment</a>
-link αποθετηρίου : <a href="https://github.com/lextale/D3js-US-educational-attainment"> https://github.com/lextale/D3js-US-educational-attainment </a>
+link αποθετηρίου : <a href="https://github.com/lextale/D3js-US-educational-attainment">https://github.com/lextale/D3js-US-educational-attainment </a>
 
 Παραδοτέο 1
 [x] Αλλάξτε τα χρώματα στα 3 γραφήματα.
