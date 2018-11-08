@@ -4,8 +4,8 @@
 Αριθμός Μητρώου: Π2017001
 
 Εργασία Ανάπτυξης
-link ιστοσελίδας : <a href="https://lextale.github.io/D3js-US-educational-attainment" target="_blank">https://lextale.github.io/D3js-US-educational-attainment</a>
-link αποθετηρίου : <a href="https://github.com/lextale/D3js-US-educational-attainment" target="_blank">https://github.com/lextale/D3js-US-educational-attainment </a>
+link ιστοσελίδας : <a href="https://lextale.github.io/D3js-US-educational-attainment" target="_blank" >https://lextale.github.io/D3js-US-educational-attainment</a>
+link αποθετηρίου : <a href="https://github.com/lextale/D3js-US-educational-attainment" target="_blank" >https://github.com/lextale/D3js-US-educational-attainment </a>
 
 Παραδοτέο 1
 [x] Αλλάξτε τα χρώματα στα 3 γραφήματα.
