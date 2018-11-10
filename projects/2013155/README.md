@@ -16,8 +16,9 @@
 
 ## Παραδοτέο 1
 
-#### [Link αποθετηρίου κώδικα]: https://github.com/p13gian1/D3js-US-educational-attainment/
-#### [Link στο εκτελέσιμο]: https://p13gian1.github.io/D3js-US-educational-attainment/
+#### [Link στο αποθετήριο του κώδικα]: https://github.com/p13xant/D3js-US-educational-attainment
+#### [Link στο κλαδί του κώδικα]: https://github.com/p13xant/D3js-US-educational-attainment/tree/2013155
+#### [Link στο εκτελέσιμο]: https://p13xant.github.io/D3js-US-educational-attainment/
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
@@ -31,10 +32,3 @@
 
 [x] Εφάρμοσα responsive design στη σελίδα (Bootstrap) και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων.
 
-### Τεκμηρίωση ζητουμένων πρώτου παραδοτέου
-
-Α) Άλλαξα τα χρώματα στα 3 γραφήματα
-Β) Αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
-Γ) Δ) Ε) Δείτε το εκτελέσιμο στο https://p13gian1.github.io/D3js-US-educational-attainment/
-
-Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
