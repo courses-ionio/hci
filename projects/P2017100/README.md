@@ -1,7 +1,11 @@
 Εργασία Ανάπτυξης
+
 Παραδοτέο 1
+
+
 [Link αποθετηρίου κώδικα]: https://github.com/GiannisStan/D3js-US-educational-attainment
 [Link στο εκτελέσιμο]: https://GiannisStan.github.io/D3js-US-educational-attainment/
+
 Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
 
