@@ -31,4 +31,4 @@
 Α)  Αλλαγή στα χρώματα των 3 γραφημάτων
 B) Αντικατάσταση των διεπαφών στα "κουμπιά" του 2ου και 3ου γραφήματος.
 
-Γ, Δ , Ε) Δείτε το παρακάτω link: https://p17kaka.github.io/D3js-US-educational-attainment/
+Γ, Δ , Ε) Δείτε το παρακάτω link: https://GiannisSTAN.github.io/D3js-US-educational-attainment/
