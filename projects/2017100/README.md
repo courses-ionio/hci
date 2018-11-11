@@ -2,8 +2,6 @@
 ### Όνομα : Ιωάννης-Δημήτριος
 ### Επίθετο : Στανίτσας
 ### Αριθμός Μητρώου: Π2017100
- ## Eκτελέσιμο link : https://GiannisStan.github.io/gr/
- ## link αποθετηρίου : https://github.com/GiannisStan/gr
   
   # Εργασία Ανάπτυξης 
 
