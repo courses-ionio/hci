@@ -25,6 +25,24 @@ DOOM II: https://spyrivasi.github.io/gr/gallery/doom_2/
 
 
 
+## Εργασία περιεχομένου παραδοτέο 2
+ 
+ 
+
+Εκτελέσιμο: https://spyrivasi.github.io/gr/
+ 
+Link αποθετηρίου: https://github.com/Spyrivasi/gr
+
+
+
+Links διαδραστικών παραδειγμάτων:
+
+
+Filter Hue Rotate :https://spyrivasi.github.io/gr/remix/filter-hue-rotate/
+
+Circle CANVAS : https://spyrivasi.github.io/gr/remix/circle-canvas/
+
+
 
 
 
