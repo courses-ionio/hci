@@ -20,13 +20,13 @@ asset/sound και χρήση κατάλληλων tag στο html αρχείο.
 
 
 
-## Εργασία Περιεχομένου 1Α(Εύρεση εικόνων)
+## Εργασία Περιεχομένου
 **εκτελέσιμο link https://dmisa.github.io/gr/**
 
 **link αποθετηρίου https://github.com/dmisa/gr**
 
 
-## links εικόνων
+## Παραδοτέο 1 links εικόνων
 
 * Android
 
@@ -47,3 +47,12 @@ asset/sound και χρήση κατάλληλων tag στο html αρχείο.
 * Μηχανή Turing (Turing Machine)
 
   * https://dmisa.github.io/gr/gallery/turingmachine/
+  
+ ## Παραδοτέο 2 links διαδραστικών παραδειγμάτων
+ * 3D Download button with progress bar
+
+  * https://dmisa.github.io/gr/remix/3D-Download-button/
+
+* Search Field Animation 
+
+  * https://dmisa.github.io/gr/remix/Search-Field-Animation/
