@@ -1,5 +1,6 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
-## Εργασία Περιεχομένου 1Α(Εύρεση Εικόνων)
+## Εργασίες Περιεχομένου 
+### Εργασία Περιεχομένου 1Α(Εύρεση Εικόνων)
 ### Ονοματεπώνυμο : Κοτρώτσιος Χρήστος 
 ### Αριθμός Μητρώου : Π2017109
 #### Εκτελέσιμο link https://chriskotrotsios.github.io/gr/
@@ -18,6 +19,14 @@
 - Photoshop
   - https://chriskotrotsios.github.io/gr/gallery/Photoshop/
   
+## Εργασία Περιεχομένου 2 (Διαδραστικά Παραδείγματα)
+## Links Εικόνων
+- Link Hover Effects
+  - https://chriskotrotsios.github.io/gr/remix/LinkHoverEffects/
+- Poll Concept
+  - https://chriskotrotsios.github.io/gr/remix/PollConcept/
+  
+  ## Εργασίες Ανάπτυξης
   ## Εργασία Ανάπτυξης: Οπτικοποίηση δεδομένων εκπαιδευτικού συστήματος (USA) (1o Παραδοτέο)
   ### Ονοματεπώνυμο : Κοτρώτσιος Χρήστος 
   ### Αριθμός Μητρώου : Π2017109
