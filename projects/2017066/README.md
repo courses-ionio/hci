@@ -49,8 +49,8 @@ asset/sound και χρήση κατάλληλων tag στο html αρχείο.
   * https://dmisa.github.io/gr/gallery/turingmachine/
   
  ## Παραδοτέο 2 links διαδραστικών παραδειγμάτων
- * 3D Download button with progress bar
-
+* 3D Download button with progress bar
+  
   * https://dmisa.github.io/gr/remix/3D-Download-button/
 
 * Search Field Animation 
