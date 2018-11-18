@@ -179,3 +179,20 @@ link αποθετηρίου: https://github.com/chrikri/gr
     
 ### - Google
  - https://chrikri.github.io/gr/gallery/logogoogle/
+
+
+
+## Εργασία περιεχομένου  Παραδοτέο Β
+
+
+Εκτελέσιμο link :https://chrikri.github.io/gr/ 
+
+link αποθετηρίου: https://github.com/chrikri/gr 
+
+
+### - Interactive image
+   - https://chrikri.github.io/gr/remix/interactive-image/
+    
+    
+### - Password input field
+   - https://chrikri.github.io/gr/remix/password-input/
