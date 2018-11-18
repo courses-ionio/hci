@@ -163,21 +163,21 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
 
 link αποθετηρίου: https://github.com/chrikri/gr 
 
-## Εικόνες
+### Εικόνες
 
-### - Eniac
+#### - Eniac
   - https://chrikri.github.io/gr/gallery/eniac/
   
-### - GeoGebra
+#### - GeoGebra
   - https://chrikri.github.io/gr/gallery/geogebra/
   
-### - 3D Animation in education
+#### - 3D Animation in education
    - https://chrikri.github.io/gr/gallery/3D-animation-education/
    
-### - Sony Ericcson(T681-2002)
+#### - Sony Ericcson(T681-2002)
    - https://chrikri.github.io/gr/gallery/ericsson/
     
-### - Google
+#### - Google
  - https://chrikri.github.io/gr/gallery/logogoogle/
 
 
@@ -189,10 +189,11 @@ link αποθετηρίου: https://github.com/chrikri/gr
 
 link αποθετηρίου: https://github.com/chrikri/gr 
 
+### Διαδραστικά παραδείγματα
 
-### - Interactive image
+#### - Interactive image
    - https://chrikri.github.io/gr/remix/interactive-image/
     
     
-### - Password input field
+#### - Password input field
    - https://chrikri.github.io/gr/remix/password-input/
