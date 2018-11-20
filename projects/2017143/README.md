@@ -36,3 +36,9 @@
 3. smartwatch (https://leuteris99.github.io/gr/gallery/smartwatch/)
 4. drone (https://leuteris99.github.io/gr/gallery/drone/)
 5. vr-headset(https://leuteris99.github.io/gr/gallery/vr-headset/)
+
+## Εργασία Περιεχομένου (Παραδοτέο2)
+
+ Παραδείγματα:
+1. Ripple-button ()
+2. Right-click-menu ()
