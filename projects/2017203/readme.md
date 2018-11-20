@@ -47,7 +47,7 @@ https://p17kagk.github.io/D3js-US-educational-attainment/
 #### Σύνδεσμος εκτελέσιμου: https://p17kagk.github.io/gr/
 ##
 ## Σύνδεσμοι εικόνων:
-##
+####
 ####  Ο επεξεργαστής 80386: https://p17kagk.github.io/gr/gallery/80386/
 ####  Ο επεξεργαστής 80486: https://p17kagk.github.io/gr/gallery/80486/
 ####  Ο επεξεργαστής Pentium: https://p17kagk.github.io/gr/gallery/Pentium/
@@ -60,7 +60,7 @@ https://p17kagk.github.io/D3js-US-educational-attainment/
 #### Σύνδεσμος εκτελέσιμου: https://p17kagk.github.io/gr/
 ##
 ## Σύνδεσμοι διαδραστικών παραδειγμάτων:
-##
+####
 #### Fullscreen HTML5 Page Background Video: https://p17kagk.github.io/gr/remix/Fullscreen-HTML5-Page-Background-Video/
 #### Sign Up/Login Form: https://p17kagk.github.io/gr/remix/Sign-Up-Login-Form/
 #
