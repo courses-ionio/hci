@@ -43,7 +43,6 @@ https://p17kagk.github.io/D3js-US-educational-attainment/
 ##
 ## Παραδοτέο 1 - Εργασία περιεχομένου 
 ##
-##
 ## Σύνδεσμος αποθετηρίου: https://github.com/p17kagk/gr
 ## Σύνδεσμος ιστοσελίδας: https://p17kagk.github.io/gr/
 
