@@ -6,11 +6,11 @@
 ## Αριθμός Μητρώου: Π2017130
 
 
- # Όνομα εργασίας : Εργασία Περιεχομένου  - Α
+ # Όνομα εργασίας : Εργασία Περιεχομένου
  ### Eκτελέσιμο link : https://p17smyr.github.io/gr/
- ### link αποθετηρίου : https://github.com/p17smyr/gr
+ ### Link αποθετηρίου : https://github.com/p17smyr/gr
  
- ### Τα links των εικόνων
+ ### A: Τα links των εικόνων
   atari : https://p17smyr.github.io/gr/gallery/atari/
   
   multi_tuch : https://p17smyr.github.io/gr/gallery/multi_touch/
@@ -21,10 +21,15 @@
   
   turing_test : https://p17smyr.github.io/gr/gallery/turing_test/
   
+  ### Β: Τα links των διαδραστικών παραδειγμάτων
+  Button Design: https://p17smyr.github.io/gr/remix/button-design-years/
+  
+  Timer: https://p17smyr.github.io/gr/remix/timer/
+  
 
 # Όνομα εργασίας : Εργασία Ανάπτυξης  
  ### Eκτελέσιμο link : https://p17smyr.github.io/D3js-US-educational-attainment/
- ### link αποθετηρίου : https://github.com/p17smyr/D3js-US-educational-attainment
+ ### Link αποθετηρίου : https://github.com/p17smyr/D3js-US-educational-attainment
  
  ### Ζητούμενα - Παραδοτέο 1
  - [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
