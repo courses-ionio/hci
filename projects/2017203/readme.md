@@ -1,10 +1,11 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
-## Παραδοτέο 1 - Εργασία Ανάπτυξης
 ##
 ## Στοιχεία:
 #### A.M.:Π2017203
 #### Όνομα: Ανδρέας
 #### Επώνυμο: Καγκελάρης
+##
+## Εργασία ανάπτυξης: Παραδοτέο 1 
 ##
 #### 1) link στο αποθετήριο του κώδικα:
 https://github.com/p17kagk/D3js-US-educational-attainment
@@ -35,15 +36,32 @@ https://p17kagk.github.io/D3js-US-educational-attainment/
 #
 ###### =====================================================================
 #
-## Εργασία περιεχομένου: Παραδοτέο 1
-## Ονοματεπώνυμο: Καγκελάρης Ανδρέας
-## Α.Μ.:Π2017203
-## Σύνδεσμος αποθετηρίου: https://github.com/p17kagk/gr
-## Σύνδεσμος ιστοσελίδας: https://p17kagk.github.io/gr/
+## Στοιχεία:
+#### A.M.:Π2017203
+#### Όνομα: Ανδρέας
+#### Επώνυμο: Καγκελάρης
+##
+## Εργασία περιεχομένου: Παραδοτέο 1 
+##
+#### Σύνδεσμος αποθετηρίου: https://github.com/p17kagk/gr
+#### Σύνδεσμος εκτελέσιμου: https://p17kagk.github.io/gr/
+##
+### Σύνδεσμοι εικόνων:
+####  Ο επεξεργαστής 80386: https://p17kagk.github.io/gr/gallery/80386/
+####  Ο επεξεργαστής 80486: https://p17kagk.github.io/gr/gallery/80486/
+####  Ο επεξεργαστής Pentium: https://p17kagk.github.io/gr/gallery/Pentium/
+####  Ο επεξεργαστής Pentium II: https://p17kagk.github.io/gr/gallery/Pentium%20II/
+####  Ο επεξεργαστής Pentium III: https://p17kagk.github.io/gr/gallery/Pentium%20III/
+#
+## Εργασία περιεχομένου: Παραδοτέο 2
+##
+#### Σύνδεσμος αποθετηρίου: https://github.com/p17kagk/gr
+#### Σύνδεσμος εκτελέσιμου: https://p17kagk.github.io/gr/
+##
+### Σύνδεσμοι διαδραστικών παραδειγμάτων:
+#### Fullscreen HTML5 Page Background Video: https://p17kagk.github.io/gr/remix/Fullscreen-HTML5-Page-Background-Video/
+#### Sign Up/Login Form: https://p17kagk.github.io/gr/remix/Sign-Up-Login-Form/
+#
 
-# Σύνδεσμοι εικόνων:
-##  Ο επεξεργαστής 80386: https://p17kagk.github.io/gr/gallery/80386/
-##  Ο επεξεργαστής 80486: https://p17kagk.github.io/gr/gallery/80486/
-##  Ο επεξεργαστής Pentium: https://p17kagk.github.io/gr/gallery/Pentium/
-##  Ο επεξεργαστής Pentium II: https://p17kagk.github.io/gr/gallery/Pentium%20II/
-##  Ο επεξεργαστής Pentium III: https://p17kagk.github.io/gr/gallery/Pentium%20III/
+
+
