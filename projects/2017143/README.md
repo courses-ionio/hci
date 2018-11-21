@@ -40,5 +40,5 @@
 ## Εργασία Περιεχομένου (Παραδοτέο2)
 
  Παραδείγματα:
-1. Ripple-button ()
-2. Right-click-menu ()
+1. Ripple-button (https://leuteris99.github.io/gr/remix/ripple-button/)
+2. Right-click-menu (https://leuteris99.github.io/gr/remix/right-click-menu/)
