@@ -65,4 +65,10 @@
 ## Mobile : https://andreaspappoutas.github.io/gr/gallery/mobile/
 ## Classroom : https://andreaspappoutas.github.io/gr/gallery/classroom/
 
+# Παραδοτέο Β
+#### Αποθετήριο κώδικα: https://github.com/andreaspappoutas/gr/
+#### Εκτελέσιμο Link: https://andreaspappoutas.github.io/gr/
+
+## Interactive-buttons: https://andreaspappoutas.github.io/gr/remix/interactive-buttons/
+## Tags-inputs: https://andreaspappoutas.github.io/gr/remix/tags-input/
 
