@@ -4,13 +4,25 @@
 ### Ονοματεπώνυμο: Χαράλαμπος Θεοδούλου
 ### Αριθμός Μητρώου: Π2017151
 
+## Εργασία Περιεχομένου Β (Διαδραστικά Παραδείγματα)
 
- 
-## ΕΡΓΑΣΙΑ ΑΝΑΠΤΥΞΗΣ
+#### Σύνδεσμος αποθετηρίου: https://github.com/p17theo3/gr
+#### Σύνδεσμος εκτελέσιμου: https://p17theo3.github.io/gr/
+
+## Links Εικόνων
+
+- Link buttonpress
+  - https://p17theo3.github.io/gr/remix/buttonpress/
+  
+  
+  
+- switchbutton
+  - https://p17theo3.github.io/gr/remix/switchbutton/
+
+
+
 
 ## ΠΑΡΑΔΟΤΕΟ 1
-
-
 
 ### [Εκτελέσιμο link](https://p17theo3.github.io/D3js-US-educational-attainment/ '[Εκτελέσιμο link')
 ### [Προφίλ στο github](https://github.com/p17theo3 'Προφίλ στο github')
@@ -59,24 +71,6 @@
 
 
 Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://p17theo3.github.io/D3js-US-educational-attainment/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
