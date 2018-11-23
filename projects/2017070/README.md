@@ -34,11 +34,11 @@
   
   * 3D keyboard and mouse
   
-   * https://eftichiafarmaki.github.io/gr/remix/3D_keyboard_mouse/
+    * https://eftichiafarmaki.github.io/gr/remix/3D_keyboard_mouse/
   
   * Super Mario
   
-   * https://eftichiafarmaki.github.io/gr/remix/SuperMario/
+    * https://eftichiafarmaki.github.io/gr/remix/SuperMario/
    
   
   
