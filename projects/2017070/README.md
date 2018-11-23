@@ -1,13 +1,13 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
-## A Εργασία Περιεχομένου 
+
 ### Ονοματεπώνυμο: Ευτυχία Δήμητρα Μαρία Φαρμάκη
 ### Αριθμός Μητρώου: Π2017070
-
+## Εργασία Περιεχομένου 
 **Σύνδεσμος ιστότοπου https://eftichiafarmaki.github.io/gr/**
 
 **Σύνδεσμος αποθετηρίου https://github.com/eftichiafarmaki/gr**
 
-
+## A ΠΑΡΑΔΟΤΕΟ
 ## Σύνδεσμοι εικόνων
 
 * Virtual Reality
@@ -29,6 +29,17 @@
 * Used Punchcard
 
   * https://eftichiafarmaki.github.io/gr/gallery/Used-Punchcard/
+  
+  ## Β ΠΑΡΑΔΟΤΕΟ
+  
+  * 3D keyboard and mouse
+  
+   * https://eftichiafarmaki.github.io/gr/remix/3D_keyboard_mouse/
+  
+  * Super Mario
+  
+   * https://eftichiafarmaki.github.io/gr/remix/SuperMario/
+   
   
   
 # Εργασία Ανάπτυξης 
