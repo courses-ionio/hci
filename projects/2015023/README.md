@@ -292,4 +292,13 @@
 #### 5. Unix: [εδώ](https://ntouloumtzis.github.io/gr/gallery/unix/)
 
 
+## Δραστηριότητα 1.Β
+
+### _Ζητούμενα links διαδραστικών παραδειγμάτων_
+
+#### 1. Task List: [εδώ](https://ntouloumtzis.github.io/gr/remix/task-list/)
+
+#### 2. Beautiful Navigation Hover Effects: [εδώ](https://ntouloumtzis.github.io/gr/remix/navigation-hover-effects/)
+
+
 
