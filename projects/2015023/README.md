@@ -298,7 +298,7 @@
 
 #### 1. Task List: [εδώ](https://ntouloumtzis.github.io/gr/remix/task-list/)
 
-#### 2. Beautiful Navigation Hover Effects: [εδώ](https://ntouloumtzis.github.io/gr/remix/navigation-hover-effects/)
+#### 2. Menu Hover Effects: [εδώ](https://ntouloumtzis.github.io/gr/remix/menu-hover-effects/)
 
 
 
