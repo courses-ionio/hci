@@ -22,3 +22,17 @@
 
 [x] Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech)
 
+
+# Εργασία περιεχομένου
+
+## Παραδοτέο 2: Εισαγωγή διαδραστικών παραδειγμάτων
+
+**Σύνδεσμος αποθετηρίου: https://github.com/p17kots/gr
+
+**Σύνδεσμος εκτελέσιμου: https://p17kots.github.io/gr/
+
+### ΔΙΑΔΡΑΣΤΙΚΑ ΠΑΡΑΔΕΙΓΜΑΤΑ:
+
+(1) Login Button: https://p17kots.github.io/gr/remix/Touch-ID/
+
+(2) Website-list: https://p17kots.github.io/gr/remix/website-list/
