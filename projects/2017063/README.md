@@ -1,14 +1,15 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
-### Εργασία Περιεχομένου 1
 ### Ονοματεπώνυμο: Φουτσιτζή Σοφρονία
 ### Αριθμός Μητρώου: Π2017063
+
+# Εργασία Περιεχομένου 
 
 **Σύνδεσμος ιστότοπου https://fsofronia.github.io/gr/**
 
 **Σύνδεσμος αποθετηρίου https://github.com/fsofronia/gr**
 
-
-## Σύνδεσμοι εικόνων
+## Παραδοτέο 1
+### Σύνδεσμοι εικόνων
 
 * Photoshop
 
@@ -29,9 +30,22 @@
 * Macintosh
 
   * https://fsofronia.github.io/gr/gallery/Macintosh/
+  
+  
+## Παραδοτέο 2
+### Σύνδεσμοι διαδραστικών παραδειγμάτων
+
+* Tic Tac Toe
+
+ * https://fsofronia.github.io/gr/remix/tic-tac-toe/
+ 
+* Purple Rain-ish (Mouse interactive)
+
+ * https://fsofronia.github.io/gr/remix/purple-rain/
+
 
 # Εργασία Ανάπτυξης 
-# Παραδοτέο 1 
+## Παραδοτέο 1 
 
 #### [Link αποθετηρίου κώδικα]: https://github.com/fsofronia/D3js-US-educational-attainment
 #### [Link στο εκτελέσιμο]: https://fsofronia.github.io/D3js-US-educational-attainment/
