@@ -44,4 +44,17 @@
 ### Ε) Έκανα responsive το menu χωρίς όμως να καταφέρω να κάνω και τα διαγράμματα.
 
 
+# Εργασία Περιεχομένου
+# Παραδοτέο Β
+
+## Ονοματεπώνυμο: Πλιάφας Θεόδωρος
+## ΑΜ:Π2017012
+
+## Link 1ο: Color blindness simulator https://thodoros.github.io/gr/remix/color-blindness-simulator/
+
+## Link 2ο: Svg Interactive Web https://thodoros.github.io/gr/remix/svg-interactive-web/
+
+
+
+
 
