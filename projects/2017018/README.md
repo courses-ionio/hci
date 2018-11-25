@@ -10,24 +10,19 @@
 ### Σύνδεσμοι εικόνων
 
 * Apple II
-
-  * https://mmits.github.io/gr/gallery/apple_ii/
+  * https://mmits.github.io/gr/gallery/apple-ii/
 
 * IBM Thinkpad
-
-  * https://mmits.github.io/gr/gallery/ibm_thinkpad/
+  * https://mmits.github.io/gr/gallery/ibm-thinkpad/
 
 * Interactive Whiteboard
-
-  * https://mmits.github.io/gr/gallery/interactive_whiteboard/
+  * https://mmits.github.io/gr/gallery/interactive-whiteboard/
 
 * Osborne 1
-
-  * https://mmits.github.io/gr/gallery/osborne_1/
+  * https://mmits.github.io/gr/gallery/osborne-1/
 
 * Windows 3.0
-
-  * https://mmits.github.io/gr/gallery/windows_3.0/
+  * https://mmits.github.io/gr/gallery/windows-3/
 
 
 ## Εργασία Ανάπτυξης (Οπτικοποίηση Δεδομένων): Παραδοτέο 1
@@ -50,4 +45,9 @@
 
 ## Εργασία Περιεχομένου 1Β (Διαδραστικά Παραδείγματα)
 
-* (Πρώτη έκδοση για το πρώτο pull request)
+### Σύνδεσμοι παραδειγμάτων
+* Counter
+  * https://mmits.github.io/gr/remix/counter/
+  
+* Responsive Menu
+  * https://mmits.github.io/gr/remix/menu-responsive/
