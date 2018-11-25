@@ -1,41 +1,45 @@
-# Επικοινωνία Ανθρώπου-Υπολογιστή
-## Εργασία Περιεχομένου 1Α(Εύρεση Εικόνων)
-### Ονοματεπώνυμο: Αριστείδης Κοντίνης
-### Αριθμός Μητρώου: Π2017144
+
+# Ονοματεπώνυμο: Αριστείδης Κοντίνης
+
+# ΑΜ: Π2017144
+
+# Όνομα μαθήματος: Επικοινωνία Ανθρώπου Υπολογιστή
+
+# Εργασία Περιεχομένου
+
+## Σύνδεσμος ιστότοπου https://akontinis.github.io/gr/
  
-**Σύνδεσμος ιστότοπου https://akontinis.github.io/gr/**
- 
-**Σύνδεσμος αποθετηρίου https://github.com/akontinis/gr**
- 
+## Σύνδεσμος αποθετηρίου https://github.com/akontinis/gr
+## Παραδοτέο 1
+
  
 ## Σύνδεσμοι εικόνων
  
-* Android
+### Android : https://akontinis.github.io/gr/gallery/android/
  
-  * https://akontinis.github.io/gr/gallery/android/
+### Netbeans : https://akontinis.github.io/gr/gallery/netbeans/
  
-* Netbeans
+### Oculus : https://akontinis.github.io/gr/gallery/oculus/
  
-  * https://akontinis.github.io/gr/gallery/netbeans/
+### Raspbian : https://akontinis.github.io/gr/gallery/raspbian/
  
-* Oculus
- 
-  * https://akontinis.github.io/gr/gallery/oculus/
- 
-* Raspbian
- 
-  * https://akontinis.github.io/gr/gallery/raspbian/
- 
-* Spotify
- 
-  * https://akontinis.github.io/gr/gallery/spotify/
+### Spotify : https://akontinis.github.io/gr/gallery/spotify/
 
-### Παραδοτέο 1
+## Παραδοτέο 2
 
-### [Link αποθετηρίου κώδικα]: https://https://github.com/akontinis/D3js-US-educational-attainment
-### [Link στο εκτελέσιμο]: https://akontinis.github.io/D3js-US-educational-attainment/
 
-### Ζητούμενα - Παραδοτέο 1
+### Πρώτο διαδραστικού παραδείγματος : https://akontinis.github.io/gr/remix/text-animation/
+
+### Δελυτερο διαδραστικού παραδείγματος : https://akontinis.github.io/gr/remix/mouse-orbit/
+
+
+
+# Εργασία Ανάπτυξης 
+
+### Σύνδεσμος ιστότοπου : https://https://github.com/akontinis/D3js-US-educational-attainment
+### Σύνδεσμος αποθετηρίου : https://akontinis.github.io/D3js-US-educational-attainment/
+
+## Παραδοτέο 1
 
  - [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
  - [x] Αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
