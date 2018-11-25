@@ -206,7 +206,7 @@ var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5
 		<audio id='mySound' src="assets/sounds/mouse hover sound.mp3"/>
 	<script>
 ```
-## Όνομα εργασίας : Εργασία Περιεχομένου 1ο Παραδοτέο
+## Όνομα εργασίας : Εργασία Περιεχομένου
  ### Eκτελέσιμο link : https://p17griv.github.io/gr/
  ### link αποθετηρίου : https://github.com/p17griv/gr
  ## 1ο Παραδοτέο
@@ -216,3 +216,9 @@ var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5
  * Ms_edge_web_notes: https://p17griv.github.io/gr/gallery/ms-edge-web-notes/
  * Unity_game_engine: https://p17griv.github.io/gr/gallery/unity-game-engine/
  * Microworlds_pro: https://p17griv.github.io/gr/gallery/microworlds-pro/
+ 
+ 
+ ## 2ο Παραδοτέο
+ ## Τα links των διαδραστικών παραδειγμάτων
+ * Local Weather App: https://p17griv.github.io/gr/remix/local-weather-app/
+ * Menu Circular: https://p17griv.github.io/gr/remix/menu-circular/
