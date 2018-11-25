@@ -22,6 +22,21 @@ https://xaralambos12.github.io/gr/gallery/mechanical_keyboard/
 
 https://xaralambos12.github.io/gr/gallery/teamwork/ 
 
+### Παραδοτέο 2
+
+## Διαδραστικά παραδείγματα 
+
+#### Tα links απο τα md files:
+
+1. https://github.com/Xaralambos12/gr/blob/gh-pages/_remix/webgl2-particles.md
+2. https://github.com/Xaralambos12/gr/blob/gh-pages/_remix/easysnakegame.md
+
+#### Τα links απο την ιστοσελίδα: 
+
+1. https://xaralambos12.github.io/gr/remix/webgl2-particles/
+2. https://xaralambos12.github.io/gr/remix/easysnakegame/
+
+
 ## Εργασία Aνάπτυξης
 
 ### Παραδοτέο 1
