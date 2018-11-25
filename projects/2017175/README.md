@@ -17,7 +17,7 @@
  2) link: https://christosdemosthenous.github.io/gr/remix/ranger-slider/
  
  Το link: απο το πρώτο md file https://github.com/christosdemosthenous/gr/blob/gh-pages/_remix/blob.md
- Το link: απο το δεύτερο md file https://christosdemosthenous.github.io/gr/remix/ranger-slider/
+ Το link: απο το δεύτερο md file https://github.com/christosdemosthenous/gr/blob/gh-pages/_remix/ranger-slider.md
 
 
 ## Εργασία Aνάπτυξης
