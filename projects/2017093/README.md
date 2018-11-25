@@ -42,3 +42,12 @@
 #### Ζητούμενο 5 : Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων (π.χ. Bootstrap).
 
 Εφαρμόστηκε το Bootstrap και λειτουργεί κανονικά,όμως σε πολύ μικρές οθόνες τα διαγράμματα,και κυρίως το pie chart ξεπερνά τα διαστηματα της οθόνης.
+
+
+## Εργασία Περιεχομένου
+
+#### Παραδοτέο Β
+1ο διαδραστικό παράδειγμα : https://athangriv.github.io/gr/remix/progress-bar/
+2ο διαδραστικό παράδειγμα : https://athangriv.github.io/gr/remix/flip-card/
+Σελίδα github pages : https://athangriv.github.io/gr/
+Αποθετήριο : https://github.com/AthanGriv/gr
