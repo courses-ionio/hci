@@ -11,7 +11,7 @@
   ## maps : https://christosdemosthenous.github.io/gr/gallery/maps/
   ## mouse : https://christosdemosthenous.github.io/gr/gallery/mouse/
   ## virtual : https://christosdemosthenous.github.io/gr/gallery/virtual/
-## Παραδοτέο Β:
+## Παραδοτέο Β :
  ## Δυο διαδραστικά παραδείγματα
  1) link: https://christosdemosthenous.github.io/gr/remix/blob/
  2) link: https://christosdemosthenous.github.io/gr/remix/ranger-slider/
