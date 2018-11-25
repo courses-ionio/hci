@@ -4,6 +4,10 @@
 
 # Όνομα μαθήματος: Επικοινωνία Ανθρώπου Υπολογιστή
 
+# Εργασία Περιεχομένου
+
+## Α παραδοτεο
+
 ### Link σελίδας: https://anthikape.github.io/gr
 
 ### Link πρώτης φωτογραφίας: https://anthikape.github.io/gr/gallery/USB-hub/
@@ -17,6 +21,12 @@
 ### Link πέμπτης φωτογραφίας: https://anthikape.github.io/gr/gallery/Mark-Zuckerberg/
 
 ### Link από το  αποθετηριο : https://github.com/anthikape/gr
+
+## Β παραδοτεο
+
+### Link 1ου διαδραστικού παραδείγματος: https://anthikape.github.io/gr/remix/Particles-Random-Animation-in-Canvas/
+
+### Link 2ου διαδραστικού παραδείγματος: https://anthikape.github.io/gr/remix/snake/
 
 
 # Εργασία Ανάπτυξης 
