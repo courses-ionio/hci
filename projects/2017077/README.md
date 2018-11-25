@@ -35,5 +35,17 @@
   - Έκανα responsive την σελίδα ώστε να φαίνεται σωστά σε οποιαδήποτε οθόνη το μενού τα κουμπιά των γραφημάτων και το text. Δεν κατάφερα να     κάνω responsive τα γραφήματα.
   Έκανα responsive το μενού τα κουμπιά και το text χρησιμοποιόντας την εντολή meta name="viewport" content="width=device-width, initial-scale=1.0" σκοπός της οποίας είναι ο browser να καταλαβαίνει με τι οθόνη κάνει την πλήγηση του ο χρήστης προσορμόζοντας κατάλληλα το περιεχόμενο της ιστοσελίδας
   
+  
+## Όνομα εργασίας : Εργασία Περιεχομένου (προσθήκη διαδραστικών παραδειγμάτων)
+### Όνομα : Χριστόδουλος
+### Επίθετο : Καλογιάννης
+### Αριθμός Μητρώου: Π2017077
+## Eκτελέσιμο link : https://chriskalo.github.io/gr/
+## link αποθετηρίου : https://github.com/chriskalo/gr
+## Τα links των διαδραστικών παραδειγμάτων 
+ ### programming languages : https://chriskalo.github.io/gr/remix/programming-languages/
+ ### programming simulator : https://chriskalo.github.io/gr/remix/programming-simulator/
+
+  
  
  
