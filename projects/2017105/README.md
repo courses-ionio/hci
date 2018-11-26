@@ -54,7 +54,7 @@ https://dionisiszervas.github.io/gr/gallery/image%20server/
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
 
 
-## Παραδοτέο 2
+## Παραδοτέο 2 εργασίας περιεχομένου
 
 - [X] Πριν στείλω αυτό το αίτημα έχω διαβάσει τις [οδηγίες συνεισφοράς](CONTRIBUTING.md) και έχω τσεκάρει-συμπληρώσει τα παρακάτω:
 - [X] Έχω δοκιμάσει τις αλλαγές-προσθήκες στο δικό μου αποθετήριο και σας στέλνω το λινκ: https://dionisiszervas.github.io/gr/
@@ -63,8 +63,16 @@ https://dionisiszervas.github.io/gr/gallery/image%20server/
 Αν δεν είναι τσεκαρισμένα και συμπληρωμένα σωστά τα παραπάνω σημεία σας παρακαλώ να ακυρώσετε το αίτημα μου, ώστε να το διορθώσω πριν προσπαθήσω πάλι.
 
 
+Εκτελέσιμο link https://dionisiszervas.github.io/gr/
+link αποθετηρίου https://github.com/DionisisZervas/gr
 
+##links
 
+Stan Lee - In Memoriam (CSS Grid)
+https://github.com/DionisisZervas/gr/blob/gh-pages/_remix/Stan%20Lee%20-%20In%20Memoriam%20(CSS%20Grid).md
+
+Tearable Cloth
+https://github.com/DionisisZervas/gr/blob/gh-pages/_remix/tearable%20Cloth.md
 
 
 
