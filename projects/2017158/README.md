@@ -19,6 +19,10 @@ https://p17four.github.io/gr/gallery/smartphone/
 
 **Link fork: https://github.com/p17four/gr**
 
+## Παραδοτέο 2
+**Link Παράδειρμα 1:https://p17four.github.io/gr/remix/sign-up/**
+**Link Παράδειγμα 2:https://p17four.github.io/gr/remix/sphere/**
+
 
 ## Εργασία Ανάπτυξης: Οπτικοποίηση δεδομένων εκπαιδευτικού συστήματος (USA) (1o Παραδοτέο)
 #### [Εκτελέσιμο link] (https://p17four.github.io/D3js-US-educational-attainment/)
