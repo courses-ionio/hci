@@ -1,5 +1,5 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
-## Εργασία Περιεχομένου 1η (Εύρεση εικόνωv)
+## Εργασία Περιεχομένου 1ο Παραδοτέο (Εύρεση εικόνωv)
 ### Ονοματεπώνυμο: Αθανάσιος Μπαμπάς
 ### Αριθμός Μητρώου: Π2017184
 
@@ -29,7 +29,7 @@ https://thanasis184.github.io/gr/gallery/minecraft5/
 ### Ονοματεπώνυμο: Αθανάσιος Μπαμπάς
 ### Αριθμός Μητρώου: Π2017184
 
- #### [Link αποθετηρίου κώδικα]: https://github.com/Thanasis184/D3js-US-educational-attainment
+#### [Link αποθετηρίου κώδικα]: https://github.com/Thanasis184/D3js-US-educational-attainment
 #### [Link στο εκτελέσιμο]: https://Thanasis184.github.io/D3js-US-educational-attainment/
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
@@ -53,3 +53,17 @@ https://thanasis184.github.io/gr/gallery/minecraft5/
 Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://thanasis184.github.io/D3js-US-educational-attainment/
 
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
+
+# Επικοινωνία Ανθρώπου-Υπολογιστή
+## Εργασία Περιεχομένου 2o Παραδοτέο (Διαδραστικά Παραδείγματα)
+### Ονοματεπώνυμο: Αθανάσιος Μπαμπάς
+### Αριθμός Μητρώου: Π2017184
+
+### [Εκτελέσιμο Link] https://thanasis184.github.io/gr/
+
+### [Link αποθετηρίου] https://github.com/Thanasis184/gr
+
+Links Διαδραστικών Παραδειγμάτων:
+
+### Daily Pen: https://thanasis184.github.io/gr/remix/daily-pen/
+### Desk Light: https://thanasis184.github.io/gr/remix/desk-light/
