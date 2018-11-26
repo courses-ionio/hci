@@ -20,6 +20,12 @@
 
 **Link από το fork μου στο gr repository: https://github.com/p17math/gr**
 
+## Παραδοτέο Β
+
+ **Link Α:https://p17math.github.io/gr/remix/interactive-pc/**
+ 
+ **Link B:https://p17math.github.io/gr/remix/dvd-animation/**
+
 
 
 ## Εργασία Ανάπτυξης-Παραδοτέο Α
