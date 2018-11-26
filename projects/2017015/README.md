@@ -69,7 +69,7 @@
 #### [Εκτελέσιμο link](https://vafakos.github.io/D3js-US-educational-attainment/ '[Εκτελέσιμο link')
 #### [Προφίλ στο github](https://github.com/Vafakos 'Προφίλ στο github')
 
-## Παραδοτέο 2
+## Παραδοτέο 1
 
 #### Αποθετήριο κώδικα παραδοτέου 1: https://github.com/Vafakos/D3js-US-educational-attainment
 
