@@ -24,6 +24,21 @@ Link τέταρτης εικόνας: https://github.com/p17koug/gr/blob/gh-page
 
 Link πέμπτης εικόνας: https://github.com/p17koug/gr/commit/0a050427999539d439b219af703f8e0b666ebd55
 
+
+## Εργασία περιεχομένου Παραδοτέο Β
+
+Link αποθετηρίου: https://github.com/p17koug/gr
+
+
+Εκτελέσιμο Link: https://p17koug.github.io/gr/
+
+### Ζητούμενα link 
+Link πρώτου διαδραστικού παραδείγματος: https://p17koug.github.io/gr/remix/thermostat/
+
+
+Link δεύτερου διαδραστικού παραδείγματος: https://p17koug.github.io/gr/remix/sing-up/
+
+
 ## Εργασία Ανάπτυξης  Παραδοτέο Α 
  Εκτελέσιμο link : https://p17koug.github.io/D3js-US-educational-attainment/
  link αποθετηρίου: https://github.com/p17koug/D3js-US-educational-attainment
