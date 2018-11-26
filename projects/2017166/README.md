@@ -28,6 +28,20 @@ https://github.com/eleftherioseleftheriadis/gr/blob/gh-pages/images/sm-thumb.jpg
 
 https://github.com/eleftherioseleftheriadis/gr/blob/gh-pages/images/sm.jpg
 
+ΠΑΡΑΔΟΤΕΟ 2
+
+LINK ΔΙΑΔΡΑΣΤΙΚΩΝ ΠΑΡΑΔΕΙΓΜΑΤΩΝ
+
+https://github.com/eleftherioseleftheriadis/gr/blob/gh-pages/_remix/mousecor.md
+
+https://github.com/eleftherioseleftheriadis/gr/blob/gh-pages/_remix/cpuusage.md
+
+LINK ΣΤΗΝ ΙΣΤΟΣΕΛΙΔΑ
+
+https://eleftherioseleftheriadis.github.io/gr/remix/mousecor/
+
+https://eleftherioseleftheriadis.github.io/gr/remix/cpuusage/
+
 LINK ΒΙΒΛΙΟΥ ΜΑΘΗΤΗ
 
 https://eleftherioseleftheriadis.github.io/gr/
