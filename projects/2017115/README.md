@@ -26,6 +26,21 @@
 #### link 5ης εικόνας https://p17kalo1.github.io/gr/gallery/simon/
 
 
+## Παραδοτέο Β
+
+### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
+
+#### MD Files:
+
+#### link 1ου παραδείγματος Sing-in: https://github.com/p17kalo1/gr/blob/gh-pages/_remix/sign-in.md 
+#### link 2ου παραδείγματος Snake: https://github.com/p17kalo1/gr/blob/gh-pages/_remix/snake.md
+
+#### Τα links απο την ιστοσελίδα: 
+
+#### link 1ου παραδείγματος Sign-in: https://p17kalo1.github.io/gr/remix/sign-in/
+#### link 2ου παραδείγματος Snake: https://p17kalo1.github.io/gr/remix/snake/
+
+
 
 # Εργασία Ανάπτυξης 
 # Παραδοτέο 1 
