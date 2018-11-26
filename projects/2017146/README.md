@@ -4,6 +4,19 @@
 
 ### Αριθμός Μητρώου: Π2017146
 
+
+## Εργασία Περιεχομένου
+
+### Παραδοτέο Β
+
+1ο Διαδραστικό παράδειγμα : https://p17papa4.github.io/gr/remix/stepper/
+
+2ο Διαδραστικό παράδειγμα : https://p17papa4.github.io/gr/remix/Book/
+
+Σελίδα github-pages : https://p17papa4.github.io/gr/
+
+Αποθετήριο : https://github.com/p17papa4/gr
+
 ## Εργασία: Οπτικοποίηση δεδομένων
 
 #### [Εκτελέσιμο link](https://p17papa4.github.io/D3js-US-educational-attainment/ '[Εκτελέσιμο link')
