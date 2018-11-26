@@ -16,6 +16,13 @@ link πέμπτης εικόνας: https://p17papa5.github.io/gr/gallery/vrplay
 
 link config.yml: https://github.com/p17papa5/gr/blob/gh-pages/_config.yml
 
+## Παρδοτέο Β:
+Interactive examples
+
+link: https://p17papa5.github.io/gr/remix/black-hole/
+
+link: https://p17papa5.github.io/gr/remix/tictactoe/
+
 ## Παραδοτέο 1
 
 [Link αποθετηρίου κώδικα]: https://github.com/p17papa5/D3js-US-educational-attainment
