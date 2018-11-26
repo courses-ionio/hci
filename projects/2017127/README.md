@@ -57,3 +57,10 @@
 Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://P17rant.github.io/D3js-US-educational-attainment/
 
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
+
+
+## Παραδοτέο 2 Εργασία Περιεχομένου 
+
+A) Διαδραστικό παράδειγμα Tic Tac Toe : https://p17rant.github.io/gr/remix/TicTacToe/
+
+Β) Διαδραστικό Παράδειγμα Tearable Cloth : https://p17rant.github.io/gr/remix/TearableCloth/
