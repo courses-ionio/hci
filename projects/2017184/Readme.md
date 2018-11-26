@@ -48,9 +48,9 @@ https://thanasis184.github.io/gr/gallery/minecraft5/
 ### Τεκμηρίωση ζητουμένων πρώτου παραδοτέου
 
 Α & B) Άλλαξα τα χρώματα στα 3 γραφήματα και αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
-![Screenshot](img1.PNG)
-![Screenshot](img2.PNG)
-![Screenshot](img3.PNG)
+![Screenshot](img1.png)
+![Screenshot](img2.png)
+![Screenshot](img3.png)
 Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://thanasis184.github.io/D3js-US-educational-attainment/
 
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
