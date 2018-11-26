@@ -29,6 +29,13 @@
 * teamviewer
 
   * https://DimitrisGiosis.github.io/gr/gallery/teamviewer/
+  
+## Εργασία Περιεχομένου Παραδοτέου 2
+
+Σύνδεσμος Πρώτος: https://dimitrisgiosis.github.io/gr/remix/ExplodingParticles/
+
+Σύνδεσμος Δεύτερος: https://dimitrisgiosis.github.io/gr/remix/SquaresandCircles/
+
 
 # Εργασία Ανάπτυξης 
 # Παραδοτέο 1 
