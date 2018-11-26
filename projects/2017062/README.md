@@ -3,8 +3,6 @@
 
 ### Ονοματεπώνυμο: Βαλέρια Λασοπούλου
 ### Αριθμός Μητρώου: Π2017062
-Link αποθετηρίου: https://github.com/p17laso/gr
-
 ## Εργασία Ανάπτυξης  Παραδοτέο Α 
 
  Εκτελέσιμο link https://p17laso.github.io/D3js-US-educational-attainment/
@@ -116,9 +114,12 @@ Link αποθετηρίου: https://github.com/p17laso/gr
 ```
  ## Εργασία περιεχομένου  Παραδοτέο Α
 
+Link αποθετηρίου: https://github.com/p17laso/gr
+
 
 Εκτελέσιμο Link: https://p17laso.github.io/gr/
-## Ζητούμενα Links: 
+
+### Ζητούμενα Links: 
 
 Link αλλαγής config: https://github.com/p17laso/gr/blob/gh-pages/_config.yml
 
@@ -136,3 +137,17 @@ Link τέταρτης εικόνας: https://p17laso.github.io/gr/gallery/socia
 
 
 Link πέμπτης εικόνας: https://p17laso.github.io/gr/gallery/open-source-license/
+
+
+## Εργασία περιεχομένου Παραδοτέο Β
+
+Link αποθετηρίου: https://github.com/p17laso/gr
+
+Εκτελέσιμο Link: https://p17laso.github.io/gr/
+
+### Διαδραστικά παραδείγματα
+
+Link πρώτου διαδραστικού παραδείγματος: https://p17laso.github.io/gr/remix/black-biometrics-login-button/
+
+
+Link δεύτερου διαδραστικού παραδείγματος: https://p17laso.github.io/gr/remix/interactive-game/
