@@ -68,6 +68,12 @@
 #### link αποθετηρίου κώδικα: https://github.com/p13gian1/gr
 #### link στο εκτελέσιμο: https://p13gian1.github.io/gr
 
+#### link στο αποθετήριο 1oυ παραδείγματος: https://github.com/p13gian1/gr/blob/gh-pages/_remix/image-snow-effect.md
+#### link στο εκτελέσιμο 1ου παραδείγματος: https://p13gian1.github.io/gr/remix/image-snow-effect/
+
+#### link στο αποθετήριο 2oυ παραδείγματος: https://github.com/p13gian1/gr/blob/gh-pages/_remix/digital-clock-processing.md
+#### link στο εκτελέσιμο 2ου παραδείγματος: https://p13gian1.github.io/gr/remix/digital-clock-processing/
+
 ### Εκπλήρωση ζητούμενων B παραδοτέου
 
 [x] Πρόσθεσα δύο νέα διαδραστικά παραδείγματα, τα οποία συνδέονται με βασικές έννοιες του βιβλίου και της διάδρασης ανθρώπου-υπολογιστή και επιτρέπουν σε κάποιον 2ο χρήστη να τα αλλάξει ή/και να τα προσθέσει σε διαφορετικές εφαρμογές ως αρχέτυπα.
