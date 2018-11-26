@@ -50,3 +50,17 @@ Link πέμπτης εικόνας: https://p17kara.github.io/gr/gallery/wikiped
 
 Γ, Δ & Ε) Δείτε το εκτελέσιμο στο https://p17kara.github.io/D3js-US-educational-attainment/
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
+
+#Εργασία Περιεχομένου
+
+#Παραδοτέο B
+
+Interactive examples
+
+Link διαδραστικού παραδείγματος 1: https://p17kara.github.io/gr/remix/tic-tac-toe/
+
+Link διαδραστικού παραδείγματος 2: https://p17kara.github.io/gr/remix/change-image/
+
+Link στο codepen 1: https://codepen.io/p17kara/pen/yQqezK
+
+Link στο codepen 2: https://codepen.io/p17kara/pen/VVBvNR
