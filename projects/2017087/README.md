@@ -1,4 +1,30 @@
- + ## Όνομα εργασίας : Εργασία ανάπτυξης 1
++ ## Όνομα εργασίας : Εργασία περιεχομενου 1
++ ## Ονοματεπώνυμο: ΣΩΤΗΡΗΣ ΜΗΤΣΟΣ
+ 	
++ ## Αριθμός Μητρώου: Π2017087
+ 	
+
++ ## Εκτελέσιμο link : https://p17mits1.github.io/gr
++ ## Link αποθετηρίου : https://github.com/P17mits1/gr 
+
+
++ ## INSTAGRAM 
+ link : https://p17mits1.github.io/gr/gallery/Instagram/
+
++ ## iCloud
+ link : https://p17mits1.github.io/gr/gallery/iCloud/
+ 
+ + ## iTunes
+  link : https://p17mits1.github.io/gr/gallery/iTunes/
+
++ ## iBooks
+ link : https://p17mits1.github.io/gr/gallery/ibooks/
+ 
++ ## tvOS
+ link : https://p17mits1.github.io/gr/gallery/tvOs/
+
+
++ ## Όνομα εργασίας : Εργασία ανάπτυξης 1
  
  	
  	
