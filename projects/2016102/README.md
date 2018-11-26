@@ -1,15 +1,18 @@
-Επικοινωνία Ανθρώπου-Υπολογιστή
-##£ Εργασία Περιεχομένου 1
+# Επικοινωνία Ανθρώπου-Υπολογιστή
+### Ονοματεπώνυμο: Σούρλας Γιάννης
+### Αριθμός Μητρώου: Π2016102
 
-Ονοματεπώνυμο: Σούρλας Γιάννης
-Αριθμός Μητρώου: Π2016102 
-Σύνδεσμος ιστότοπου https://sourlasgiannhs.github.io/gr/
 
-Σύνδεσμος αποθετηρίου https://github.com/SourlasGianhs/gr
+# Εργασία Περιεχομένου 1
 
-Σύνδεσμοι εικόνων
+**Σύνδεσμος ιστότοπου https://sourlasgiannhs.github.io/gr/**
 
-3D Printing
+**Σύνδεσμος αποθετηρίου https://github.com/SourlasGianhs/gr**
+
+## Παραδοτέο 1
+### Σύνδεσμοι εικόνων
+
+* 3D Printing
 
 https://sourlasgiannhs.github.io/gr/gallery/3D-printing/
 
@@ -17,20 +20,33 @@ Smart Home
 
 https://sourlasgiannhs.github.io/gr/gallery/smart-home/
 
-Digitizer 
+* Digitizer 
 
 https://sourlasgiannhs.github.io/gr/gallery/digitizer/
 
-Speech recognition
+* Speech recognition
 
 https://github.com/SourlasGiannhs/hci/new/master/projects
 
-flight simulator
+* flight simulator
 
 https://sourlasgiannhs.github.io/gr/gallery/flight-simulator/
+
+## Παραδοτέο 2
+### Σύνδεσμοι διαδραστικών παραδειγμάτων
+
+* Cloth simulation
+
+ * https://sourlasgiannhs.github.io/gr/remix/Cloth-simulation/
+ 
+* Drawing Illusion
+
+ * https://sourlasgiannhs.github.io/gr/remix/Drawing-Illustion/
+
+
 ____________________________________________________________________________________________________________________
 
-# Παραδοτέο 1
+# Εργασία Ανάπτυξης
 
 # Όνομα : Γιάννης
 
