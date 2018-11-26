@@ -4,7 +4,6 @@
 ### Αριθμός Μητρώου: Π2017132
 
 ### Εκτελέσιμο Link https://sotiris132.github.io/gr/
-
 ### Link αποθετηρίου https://github.com/Sotiris132/gr
 
 Links εικόνων Mobiles:
@@ -54,3 +53,16 @@ https://sotiris132.github.io/gr/gallery/hero-img-windows-devices/
 
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
 
+# Επικοινωνία Ανθρώπου-Υπολογιστή
+## Εργασία Περιεχομένου 2o Παραδοτέο (Διαδραστικά Παραδείγματα)
+### Ονοματεπώνυμο: Σωτήρης Παναγιωτόπουλος
+### Αριθμός Μητρώου: Π2017132
+
+### Εκτελέσιμο Link https://sotiris132.github.io/gr/
+
+### Link αποθετηρίου https://github.com/Sotiris132/gr
+
+Links Διαδραστικών Παραδειγμάτων:
+
+### Image Converter: https://sotiris132.github.io/gr/remix/image-converter/
+### Old Computer: https://sotiris132.github.io/gr/remix/old-computer/
