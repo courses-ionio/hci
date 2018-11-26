@@ -59,9 +59,9 @@ https://thanasis184.github.io/gr/gallery/minecraft5/
 ### Ονοματεπώνυμο: Αθανάσιος Μπαμπάς
 ### Αριθμός Μητρώου: Π2017184
 
-### [Εκτελέσιμο Link] https://thanasis184.github.io/gr/
+### Εκτελέσιμο Link https://thanasis184.github.io/gr/
 
-### [Link αποθετηρίου] https://github.com/Thanasis184/gr
+### Link αποθετηρίου https://github.com/Thanasis184/gr
 
 Links Διαδραστικών Παραδειγμάτων:
 
