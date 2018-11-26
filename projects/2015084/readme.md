@@ -52,4 +52,15 @@ Links για το πρώτο παραδοτέο:
 ### Παραδοτέο 2
 ...
 ## Εργασία Περιεχομένου:
+* [Αποθετήριο Εργασίας Περιεχομένου](https://github.com/p15poly/gr)
+### Παραδοτέο Β, "Δύο νέα διαδραστικά παραδείγματα":
+Night mode switch:
+* [Σελίδα στο fork του βιβλίου](https://p15poly.github.io/gr/remix/night-mode-switch/) (GitHub Pages)
+* [Κώδικας στο CodePen](https://codepen.io/vapoly/pen/EOLapj)
+
+Scroll animation:
+* [Σελίδα στο fork του βιβλίου](https://p15poly.github.io/gr/remix/scroll-animation/) (GitHub Pages)
+* [Κώδικας στο CodePen](https://codepen.io/vapoly/pen/rQKadb)
+
+### Παραδοτέο Γ:
 ...
