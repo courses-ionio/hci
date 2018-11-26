@@ -75,9 +75,13 @@
 ### Τεκμηρίωση ζητουμένων Β παραδοτέου
 
 1o παράδειγμα: Ιmage processing snow effect
+
 ![Screenshot](ex1.JPG)
+
 ![Screenshot](ex1a.JPG)
 
 2o παράδειγμα: Digital clock processing
+
 ![Screenshot](ex2.JPG)
+
 ![Screenshot](ex2a.JPG)
