@@ -31,11 +31,18 @@
   * https://p16sidi.github.io/gr/gallery/Steve_Jobs/
   
   
+  ## Εργασία Περιεχομένου 2
+  
+  Σύνδεσμος του πρώτου διαδραστικού παραδείγματος : https://p16sidi.github.io/gr/remix/dragonscaletrail/
   
   
-#Εργασία Ανάπτυξης
+  Σύνδεσμος του δέυτερου διαδραστικού παραδείγματος : https://p16sidi.github.io/gr/remix/border/
+  
+  
+  
+# Εργασία Ανάπτυξης
 
-#Παραδοτέο 1
+## Παραδοτέο 1
 
 [Link αποθετηρίου κώδικα]: https://github.com/p16sidi/D3js-US-educational-attainment
 [Link στο εκτελέσιμο]: https://p16sidi.github.io/D3js-US-educational-attainment/
