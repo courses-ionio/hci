@@ -12,22 +12,22 @@
  
  <h3>Εικόνες:<h3>
  
- 1). Gmail:
+ <h4>1). Gmail:<h4>
  
  https://p17gera1.github.io/gr/gallery/gmail-beta/
  
- 2). Linux:
+ <h4>2). Linux:<h4>
  
  https://p17gera1.github.io/gr/gallery/linux/
  
- 3). Skype:
+ <h4>3). Skype:<h4>
  
  https://p17gera1.github.io/gr/gallery/skype/
  
- 4). Messenger:
+ <h4>4). Messenger:<h4>
  
  https://p17gera1.github.io/gr/gallery/messenger/
  
- 5). Wikipedia:
+ <h4>5). Wikipedia:<h4>
  
  https://p17gera1.github.io/gr/gallery/wikipedia-edit/
