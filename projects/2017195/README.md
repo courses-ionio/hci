@@ -1,9 +1,18 @@
+
+<<<<<<< 2017195
 https://spyrivasi.github.io/hci/projects/2017195/README.md
 
 # Τελική αναφορά για την εργασία ανάπτυξης
 
 ## Σύνοψη
 Στην παρούσα αναφορά θα παρουσιάσω τις εργασίες που έκανα στο πλαίσιο της εργασίας ανάπτυξης σχετικά με την οπτικοποίηση δεδομένων
+=======
+## Επικοινωνία Ανθρώπου Υπολογιστή
+
+## Ονοματεπώνυμο: Σπυριδούλα-Παναγιώτα Βασιλείου
+
+## ΑΜ: Π2017195
+>>>>>>> master
 
 ## Σύντομη εισαγωγή
 Στο πλαίσιο της εργασίας ανάπτυξης σχετικά με την οπτικοποίηση των δεδομένων, ολοκλήρωσα το πρώτο παραδοτέο και προσπάθησα να ολοκληρώσω και το δεύτερο 
@@ -38,6 +47,9 @@ https://spyrivasi.github.io/hci/projects/2017195/README.md
 Το δεύτερο παραδοτέο χρειαζόταν πολλές προσπάθειες, και πολλές αλλαγές στον κώδικα της Javascript, οι οποίες δεν ήταν πάντα εύκολες. 
 Σε κάθε περίπτωση, μπόρεσα να κατανοήσω τον τρόπο με τον οποίο μπορούμε να παρουσιάζουμε στατιστικά δεδομένα μέσω ιστοσελίδων.
 
+
+  ## Εργασία περιεχομένου παραδοτέο 1
+  
 Εκτελέσιμο: https://spyrivasi.github.io/gr/
 
 Link αποθετηρίου: https://github.com/Spyrivasi/gr
@@ -53,3 +65,32 @@ Keyboard_de_kyr_R7309238_wp: https://spyrivasi.github.io/gr/gallery/Keyboard_de_
 Sun three button mouse: https://spyrivasi.github.io/gr/gallery/Sun_three_button_mouse/
 
 DOOM II: https://spyrivasi.github.io/gr/gallery/doom_2/
+
+
+
+## Εργασία περιεχομένου παραδοτέο 2
+ 
+ 
+
+Εκτελέσιμο: https://spyrivasi.github.io/gr/
+ 
+Link αποθετηρίου: https://github.com/Spyrivasi/gr
+
+
+
+Links διαδραστικών παραδειγμάτων:
+
+
+Filter Hue Rotate :https://spyrivasi.github.io/gr/remix/filter-hue-rotate/
+
+
+
+
+
+
+##  Εργασία ανάπτυξης παραδοτέο 1
+
+
+Εκτελέσιμο: https://spyrivasi.github.io/D3js-US-educational-attainment/
+
+Link αποθετηρίου: https://github.com/Spyrivasi/D3js-US-educational-attainment
