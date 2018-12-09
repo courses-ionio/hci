@@ -1,4 +1,4 @@
-https://spyrivasi.github.io/hci//2017195/projects/2017195/README.md
+https://spyrivasi.github.io/hci/2017195/projects/2017195/README.md
 
 Επικοινωνία Ανθρώπου Υπολογιστή
 
