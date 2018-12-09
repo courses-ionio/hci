@@ -47,3 +47,9 @@ Filter Hue Rotate :https://spyrivasi.github.io/gr/remix/filter-hue-rotate/
 Εκτελέσιμο: https://spyrivasi.github.io/D3js-US-educational-attainment/
 
 Link αποθετηρίου: https://github.com/Spyrivasi/D3js-US-educational-attainment
+
+
+## Τελική αναφορά
+
+
+link προς την τελική αναφορά :https://spyrivasi.github.io/P17vasihci/
