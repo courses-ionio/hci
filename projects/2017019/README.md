@@ -32,6 +32,18 @@
  
  https://p17kour.github.io/gr/gallery/social-media/
 
+**Eργασία Περιεχομένου 2**
+
+Εκτελέσιμο link https://p17kour.github.io/gr/
+
+Link αποθετηρίου https://github.com/p17kour/gr
+
+Τα links των διαδραστικών παραδειγμάτων:
+
+Login: https://p17kour.github.io/gr/remix/login/
+
+Loading: https://p17kour.github.io/gr/remix/loading/
+
 **Εργασία Ανάπτυξης 1** 
 
 Εκτελέσιμο link https://p17kour.github.io/D3js-US-educational-attainment/
