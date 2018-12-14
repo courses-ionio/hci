@@ -4,11 +4,11 @@
 ### Ονοματεπώνυμο: Κοτσαγιαννίδης Πέτρος
 ### Αριθμός Μητρώου: Π2017189
 
-**Σύνδεσμος ιστότοπου https://github.com/p17kots/D3js-US-educational-attainment
+**Σύνδεσμος αποθετηρίου https://github.com/p17kots/D3js-US-educational-attainment
 
-**Σύνδεσμος αποθετηρίου https://p17kots.github.io/D3js-US-educational-attainment/
+**Σύνδεσμος εκτελέσιμου https://p17kots.github.io/D3js-US-educational-attainment/
 
-**Σύνδεσμος στο κλαδί του παραδοτέου https://github.com/p17kots/D3js-US-educational-attainment/tree/%CE%A02017189
+**Σύνδεσμος στο κλαδί του παραδοτέου https://github.com/p17kots/D3js-US-educational-attainment/tree/gh-pages
 
 
 #### ΖΗΤΟΥΜΕΝΑ
@@ -33,6 +33,23 @@
 [x] Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech)
 
 
+
+## Εργασία Ανάπτυξης Παραδοτέο 2
+
+
+ 
+ 
+**Σύνδεσμος αποθετηρίου 1 https://github.com/p17kots/D3js-US-educational-attainment
+**Σύνδεσμος εκτελέσιμου 1 https://p17kots.github.io/D3js-US-educational-attainment/
+**Σύνδεσμος στο κλαδί του παραδοτέου 1 https://github.com/p17kots/D3js-US-educational-attainment/tree/gh-page
+**Σύνδεσμος αποθετηρίου 2 https://github.com/p17kots/d3js
+**Σύνδεσμος εκτελέσιμου 2 https://p17kots.github.io/d3js/
+
+Όπου (1) απευθύνεται στο αποθετήριο που έχει γίνει fork στο πρώτο παραδοτέο
+ Όπου (2) απευθύνεται σε νέο αποθετήριο που δημιούργησα για το δεύτερο παραδοτέο 
+ 
+ 
+ 
 # Εργασία περιεχομένου
 
 ## Παραδοτέο 2: Εισαγωγή διαδραστικών παραδειγμάτων
