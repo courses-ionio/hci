@@ -21,8 +21,20 @@
  [Messenger](https://p17gera1.github.io/gr/gallery/messenger/)
  
  [Skype](https://p17gera1.github.io/gr/gallery/skype/)
+ 
+ <h3>Εργασία Περιεχομένου 1 <h3>
 
-<h3>Εργασία Ανάπτυξης 1 <h3> 
+ <h4>Εκτελέσιμο link https://p17gera1.github.io/gr/<h4>
+ 
+ <h4>Link αποθετηρίου https://github.com/p17gera1/gr<h4>
+ 
+ <h4>Τα δύο διαδραστικά παραδείγματα που πρόσθεσα είναι:<h4>
+ 
+ [Patterned-morph](https://github.com/p17gera1/gr/blob/gh-pages/_remix/patterned-morph.md)
+ 
+ [Solar-system](https://github.com/p17gera1/gr/blob/gh-pages/_remix/solar-system.md)
+
+ <h3>Εργασία Ανάπτυξης 1 <h3> 
 
  <h4>Εκτελέσιμο link https://p17gera1.github.io/D3js-US-educational-attainment/<h4>
 
