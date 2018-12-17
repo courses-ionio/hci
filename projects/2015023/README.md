@@ -262,7 +262,75 @@
 
 ## Παραδοτέο 2 
 
-- [ ] Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.
+
+  - [x] **Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.**
+
+  - Για να είναι εμφανές μόνο το ένα γράφημα που επιθυμούμε να διαλέξουμε, πρόσθεσα στο index.html τις παρακάτω συναρτήσεις:
+
+    ```
+    <script>
+    function FunctionGraphOne() {
+    var x = document.getElementById("GraphOne");
+    var y = document.getElementById("GraphTwo");
+    var w = document.getElementById("GraphThree");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+	y.style.display = "none";
+	w.style.display = "none";
+    } else {
+	x.style.display = "none";
+    }
+    }
+
+    function FunctionGraphTwo() {
+    var x = document.getElementById("GraphOne");
+    var y = document.getElementById("GraphTwo");
+    var w = document.getElementById("GraphThree");
+    if (y.style.display === "none") {
+        x.style.display = "none";
+	y.style.display = "block";
+	w.style.display = "none";
+    } else {
+        y.style.display = "none";
+    }
+    }
+
+    function FunctionGraphThree() {
+    var x = document.getElementById("GraphOne");
+    var y = document.getElementById("GraphTwo");
+    var w = document.getElementById("GraphThree");
+    if (w.style.display === "none") {
+        x.style.display = "none";
+	y.style.display = "none";
+	w.style.display = "block";
+    } else {
+        w.style.display = "none";
+    }
+    }
+	
+    FunctionGraphTwo();
+    FunctionGraphThree();
+    </script>
+    ```
+    
+    Οι παραπάνω συναρτήσεις θα καλούνται κάθε φορά που ο χρήστης θα πατάει μία επιλογή στο menu, για το επιθυμητό γράφημα που θέλει να ελέγξει. Στην ουσία πρόσθεσα στο header tag του ίδιου αρχείου τις εντολές,
+    ```
+    onclick="FunctionGraphOne()"
+    onclick="FunctionGraphTwo()"
+    onclick="FunctionGraphThree()"
+    ```
+    αντίστοιχα για κάθε γράφημα. Έτσι τα συνδέω με div tags, επίσης για το κάθε γράφημα ξεχωριστά.
+    ```
+    <div id="GraphOne"> <!-- εντολές γραφήματος 1 --> </div>
+    <div id="GraphTwo"> <!-- εντολές γραφήματος 2 --> </div>
+    <div id="GraphThree"> <!-- εντολές γραφήματος 3 --> </div>
+    ```
+
+    Εδώ φαίνεται και το αποτέλεσμα του πρώτου ζητήματος:
+
+    ![](paradoteo2-zhtoumeno1.gif)
+
+
   - [ ] Αντικαταστήστε το κάθε ένα από τα 3 γραφήματα με κάποιο άλλο διαδραστικό γράφημα της D3js.
   - [ ] Σε μια καινούργια σελίδα, να τοποθετήστε αντίστοιχα 3 νέα διαδραστικά γραφήματα D3js της 
 επιλογής σας, τα οποία θα οπτικοποιούν καινούργια στατιστικά δεδομένα που θα βρείτε από κάποια επίσημη 
