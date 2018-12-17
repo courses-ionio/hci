@@ -355,6 +355,17 @@
 
      ![](paradoteo2-zhtoumeno3.gif)
 
+
+## Βιβλιογραφία 
+- https://www.w3schools.com/html/
+- https://www.w3schools.com/css/default.asp
+- https://responsivevoice.org/
+- https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
+- http://nvd3.org/examples/pie.html
+- https://c3js.org/gettingstarted.html
+- https://bl.ocks.org/mbostock/b5935342c6d21928111928401e2c8608
+- http://nvd3.org/examples/discreteBar.html
+
 # Εργασία Περιεχομένου
 
 * [**εκτελέσιμο link**](https://ntouloumtzis.github.io/gr/)
