@@ -52,4 +52,4 @@ Link αποθετηρίου: https://github.com/Spyrivasi/D3js-US-educational-at
 ## Τελική αναφορά
 
 
-link προς την τελική αναφορά :https://spyrivasi.github.io/P17vasihci/
+link προς την τελική αναφορά :https://github.com/Spyrivasi/P17vasihci
