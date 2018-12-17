@@ -354,7 +354,7 @@
 
      - Το αποτέλεσμα του **τρίτου** γραφήματος
 
-     ![](paradoteo2-zhtoumeno3.png)
+     ![](paradoteo2-zhtoumeno3.gif)
 
 # Εργασία Περιεχομένου
 
