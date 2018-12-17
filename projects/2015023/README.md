@@ -6,8 +6,8 @@
 
 # Εργασία Ανάπτυξης
 
-* [εκτελέσιμο link](https://ntouloumtzis.github.io/D3js-US-educational-attainment/)
-* [link αποθετηρίου(gh-pages branch)](https://github.com/ntouloumtzis/D3js-US-educational-attainment/tree/gh-pages)
+* [**εκτελέσιμο link**](https://ntouloumtzis.github.io/D3js-US-educational-attainment/)
+* [**link αποθετηρίου(gh-pages branch)**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/tree/gh-pages)
 
 ## Παραδοτέο 1
 
@@ -257,7 +257,7 @@
 
   - [x] **Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.**
 
-  - Για να είναι εμφανές μόνο το ένα γράφημα που επιθυμούμε να διαλέξουμε, πρόσθεσα στο index.html τις παρακάτω συναρτήσεις:
+  - Για να είναι εμφανές μόνο το ένα γράφημα που επιθυμούμε να διαλέξουμε, πρόσθεσα στο [**index.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index.html) τις παρακάτω συναρτήσεις:
 
     ```
     <script>
@@ -305,13 +305,13 @@
     </script>
     ```
     
-    Οι παραπάνω συναρτήσεις θα καλούνται κάθε φορά που ο χρήστης θα πατάει μία επιλογή στο menu, για το επιθυμητό γράφημα που θέλει να ελέγξει. Στην ουσία πρόσθεσα στο header tag του ίδιου αρχείου τις εντολές,
+    Οι παραπάνω συναρτήσεις θα καλούνται κάθε φορά που ο χρήστης θα πατάει μία επιλογή στο menu, για το επιθυμητό γράφημα που θέλει να ελέγξει. Στην ουσία πρόσθεσα στο _header tag_ του ίδιου αρχείου τις εντολές,
     ```
     onclick="FunctionGraphOne()"
     onclick="FunctionGraphTwo()"
     onclick="FunctionGraphThree()"
     ```
-    αντίστοιχα για κάθε γράφημα. Έτσι τα συνδέω με div tags, επίσης για το κάθε γράφημα ξεχωριστά.
+    αντίστοιχα για κάθε γράφημα. Τέλος, τα συνδέω με _div tags για το κάθε γράφημα ξεχωριστά.
     ```
     <div id="GraphOne"> <!-- εντολές γραφήματος 1 --> </div>
     <div id="GraphTwo"> <!-- εντολές γραφήματος 2 --> </div>
@@ -324,11 +324,35 @@
 
 
   - [ ] Αντικαταστήστε το κάθε ένα από τα 3 γραφήματα με κάποιο άλλο διαδραστικό γράφημα της D3js.
-  - [ ] Σε μια καινούργια σελίδα, να τοποθετήστε αντίστοιχα 3 νέα διαδραστικά γραφήματα D3js της 
+
+	_**Δεν υλοποιήθηκε**_
+
+
+   - [x] Σε μια καινούργια σελίδα, να τοποθετήστε αντίστοιχα 3 νέα διαδραστικά γραφήματα D3js της 
 επιλογής σας, τα οποία θα οπτικοποιούν καινούργια στατιστικά δεδομένα που θα βρείτε από κάποια επίσημη 
 στατιστική αρχή (π.χ. ΕΛΣΤΑΤ, Eurostat κ.λπ.)
 
+    
+   - **Πηγές Στατιστικών Δεδομένων:** ([ΕΛΣΤΑΤ](http://www.statistics.gr/))
+        - [_Εξέλιξη του ποσοστού ανεργίας κάθε μήνα Σεπτεμβρίου, 2004 – 2018_](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=345824&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el) **Γράφημα 1**
+        - [_Μόνιμος πληθυσμός των 10 μεγαλύτερων Δήμων της Φώρας κατά Σύνολο_](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=310596&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el) **Πίνακας 1**
+        -  [_Ετήσια μεταβολή (%) Δεικτών Όγκου στο Λιανικό Εμπόριο Σεπτεμβρίου 2018/2017_](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=344759&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el) **Γράφημα 4**
 
+     - Αρχικά, δημιουργήθηκαν 3 γραφήματα με τα αντίστοιχα στατιστικά δεδομένα τις ΕΛΣΤΑΤ, τα [**script_4.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_4.js), [**script_5.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_5.js) και [**script_6.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_6.js)
+
+       Τα δύο πρώτα τοποθετήθηκαν σε μια νέα σελίδα, την [**index2.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index2.html), ενώ το τελευταίο γράφημα τοποθετήθηκε σε άλλη σελίδα, την [**index3.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index3.html), γιατί δεν μου έβγαζε αλλιώς το αποτέλεσμα στην δεύτερη σελίδα.
+
+     - Το αποτέλεσμα του **πρώτου** γραφήματος
+
+     ![](Screenshot_2.png)
+
+     - Το αποτέλεσμα του **δεύτερου** γραφήματος
+
+     ![](Screenshot_2.png)
+
+     - Το αποτέλεσμα του **τρίτου** γραφήματος
+
+     ![](Screenshot_2.png)
 
 # Εργασία Περιεχομένου
 
