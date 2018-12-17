@@ -328,6 +328,8 @@
 	_**Δεν υλοποιήθηκε**_
 
 
+
+
    - [x] Σε μια καινούργια σελίδα, να τοποθετήστε αντίστοιχα 3 νέα διαδραστικά γραφήματα D3js της 
 επιλογής σας, τα οποία θα οπτικοποιούν καινούργια στατιστικά δεδομένα που θα βρείτε από κάποια επίσημη 
 στατιστική αρχή (π.χ. ΕΛΣΤΑΤ, Eurostat κ.λπ.)
@@ -344,20 +346,20 @@
 
      - Το αποτέλεσμα του **πρώτου** γραφήματος
 
-     ![](Screenshot_2.png)
+     ![](Screenshot_3.png)
 
      - Το αποτέλεσμα του **δεύτερου** γραφήματος
 
-     ![](Screenshot_2.png)
+     ![](Screenshot_4.png)
 
      - Το αποτέλεσμα του **τρίτου** γραφήματος
 
-     ![](Screenshot_2.png)
+     ![](paradoteo2-zhtoumeno3.png)
 
 # Εργασία Περιεχομένου
 
-* [εκτελέσιμο link](https://ntouloumtzis.github.io/gr/)
-* [link αποθετηρίου(gh-pages branch)](https://github.com/ntouloumtzis/gr)
+* [**εκτελέσιμο link**](https://ntouloumtzis.github.io/gr/)
+* [**link αποθετηρίου(gh-pages branch)**](https://github.com/ntouloumtzis/gr)
 
 ## Δραστηριότητα 1.Α
 
