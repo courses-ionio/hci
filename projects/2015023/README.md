@@ -340,19 +340,19 @@
         - [_Μόνιμος πληθυσμός των 10 μεγαλύτερων Δήμων της Φώρας κατά Σύνολο_](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=310596&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el) **Πίνακας 1**
         -  [_Ετήσια μεταβολή (%) Δεικτών Όγκου στο Λιανικό Εμπόριο Σεπτεμβρίου 2018/2017_](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=344759&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el) **Γράφημα 4**
 
-     - Αρχικά, δημιουργήθηκαν 3 γραφήματα με τα αντίστοιχα στατιστικά δεδομένα τις ΕΛΣΤΑΤ, τα [**script_4.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_4.js), [**script_5.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_5.js) και [**script_6.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_6.js)
+   - Αρχικά, δημιουργήθηκαν 3 γραφήματα με τα αντίστοιχα στατιστικά δεδομένα τις ΕΛΣΤΑΤ, τα [**script_4.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_4.js), [**script_5.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_5.js) και [**script_6.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_6.js)
 
-       Τα δύο πρώτα τοποθετήθηκαν σε μια νέα σελίδα, την [**index2.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index2.html), ενώ το τελευταίο γράφημα τοποθετήθηκε σε άλλη σελίδα, την [**index3.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index3.html), γιατί δεν μου έβγαζε αλλιώς το αποτέλεσμα στην δεύτερη σελίδα.
+       - Τα δύο πρώτα τοποθετήθηκαν σε μια νέα σελίδα, την [**index2.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index2.html), ενώ το τελευταίο γράφημα τοποθετήθηκε σε άλλη σελίδα, την [**index3.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index3.html), γιατί δεν μου έβγαζε αλλιώς το αποτέλεσμα στην δεύτερη σελίδα.
 
-     - Το αποτέλεσμα του **πρώτου** γραφήματος
+  1. Το αποτέλεσμα του **πρώτου** γραφήματος
 
      ![](Screenshot_3.png)
 
-     - Το αποτέλεσμα του **δεύτερου** γραφήματος
+  2. Το αποτέλεσμα του **δεύτερου** γραφήματος
 
      ![](Screenshot_4.png)
 
-     - Το αποτέλεσμα του **τρίτου** γραφήματος
+  3. Το αποτέλεσμα του **τρίτου** γραφήματος
 
      ![](paradoteo2-zhtoumeno3.gif)
 
