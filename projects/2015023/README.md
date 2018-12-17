@@ -15,18 +15,18 @@
 
    - Για την αλλαγή των χρωμάτων στα γραφήματα, τροποποιούμε τους κώδικες στα αντίστοιχα αρχεία των γραφημάτων.
 
-        - Για το πρώτο γράφημα ( στο αρχείο: assets/scripts/script_1.js )
+        - Για το πρώτο γράφημα ( στο αρχείο: [**script_1.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_1.js) )
 
           ```
           colour = d3.scaleOrdinal().range(["#90afc5", "#336b87", "#2a3132", "#763626", "#258039", "#f5be41", "#cf3721"])
           ```
         
        
-        - Για το δεύτερο γράφημα ( στο αρχείο: assets/scripts/script_2.js )
+        - Για το δεύτερο γράφημα ( στα αρχεία: [**script_2.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_2.js) και [**style.css**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/stylesheets/style.css) )
 
-        1. Στο **button** του γραφήματος (αλλαγές στα _script_2.js_ και _style.css_)  
+        1. Για το **button** του δεύτερου γραφήματος ( μικρές αλλαγές και στα δύο αρχεία ) 
 
-              1.a) _Το default χρώμα του_ (**script_2.js**)
+              1.a) _Το default χρώμα του κουμπιού_ (**script_2.js**)
 
 
                    46   .attr("fill", '#009933');
@@ -35,7 +35,7 @@
 
 
 
-              1.b)  _Όταν περνάει το ποντίκι πάνω απ'το button του γραφήματος_ (**style.css**)
+              1.b)  _Όταν περνάει το ποντίκι πάνω απ'το κουμπί του γραφήματος_ (**style.css**)
 
 
     
@@ -44,7 +44,7 @@
 	           }
 
 
-        2. Στο ίδιο το **γράφημα** 
+        2. Στο ίδιο το δεύτερο **γράφημα** (**script_2.js**)
 
 
                var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5000000]).range(["#fb6542", "#ffbb00", "#375e97", "#3f681c"]);
@@ -65,7 +65,7 @@
                 }
 
         
-        - Για το τρίτο γράφημα ( στο αρχείο: assets/scripts/script_3.js )
+        - Για το τρίτο γράφημα ( στο αρχείο: [**script_3.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_3.js) )
 
            ```
            var colors = d3.scaleOrdinal()
@@ -76,7 +76,7 @@
    - [x] **Αντικαταστήστε τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος με άλλες της επιλογής σας.**
 
 
-   - Για την αλλαγή στις διεπαφές των buttons του 2ου και 3ου γραφήματος, πρόσθεσα στο αρχείο **style.css** τις παρακάτω 
+   - Για την αλλαγή στις διεπαφές των buttons του 2ου και 3ου γραφήματος, πρόσθεσα στο αρχείο [**style.css**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/stylesheets/style.css) τις παρακάτω 
      γραμμές κώδικα.
          
          .radio-toolbar label {
@@ -124,9 +124,9 @@
 
      ![](Screenshot_2.png)
 
-     Στην ουσία, ανέβασα δύο αρχεία του κλιπ, ένα .mp3 και ενα .ogg, για να υποστηρίζεται απ'όλους τους φυλλομετρητές.     
-     Μετά, ανέβασα το **mousehover-sound.js** αρχείο στο repository του κώδικά μου, για να υποστηρίζεται και απο τον IE φυλλομετρητή.
-     Στη συνέχεια, τροποποίησα το αρχείο **index.html**, εισάγοντας ενα _script tag_: 
+     Στην ουσία, ανέβασα δύο αρχεία του κλιπ, ένα [**.mp3**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/mousehover-sound.mp3) και ενα [**.ogg**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/mousehover-sound.ogg), για να υποστηρίζεται απ'όλους τους φυλλομετρητές.     
+     Μετά, ανέβασα το [**mousehover-sound.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/mousehover-sound.js) αρχείο στο repository του κώδικά μου, για να υποστηρίζεται και απο τον IE φυλλομετρητή.
+     Στη συνέχεια, τροποποίησα το αρχείο [**index.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index.html), εισάγοντας ενα _script tag_: 
      
      ```
      <script type="text/javascript" src="mousehover-sound.js"></script>
@@ -162,7 +162,7 @@
 
 
    - Για να ακούγεται η αφήγηση του κάθε κειμένου, όταν θα διέρχεται το ποντίκι πάνω, χρησιμοποιούμε τη βιβλιοθήκη ResponsiveVoice,
-     σε _script tag_ στο **index.html**:
+     σε _script tag_ στο [**index.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index.html):
 
      ```
      <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
@@ -184,10 +184,10 @@
      </script>
      ```
 
-   - Μια ακόμη προσθήκη, η οποία έγινε έτσι ώστε να διευκολυθούν οι χρήστες αυτοί, είναι πως κάθε φορά που ο χρήστης κάνει hover πάνω από ένα στοιχείο του pie-chart, ακούγεται μέσω της **javascript class SpeechSynthesisUtterance**. Οι αλλαγές αυτές έγιναν στο αρχείο _script_1.js_.
+   - Μια ακόμη προσθήκη, η οποία έγινε έτσι ώστε να διευκολυθούν οι χρήστες αυτοί, είναι πως κάθε φορά που ο χρήστης κάνει hover πάνω από ένα στοιχείο του pie-chart, ακούγεται μέσω της **javascript class SpeechSynthesisUtterance**. Οι αλλαγές αυτές έγιναν στο αρχείο [**script_1.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_1.js).
 
      ```
-         Mέσα στο mouseenter:
+         Mέσα στο mouseenter: (Οι εντολές κώδικα που πρόσθεσα αρχίζουν απ'την γραμμή 155 και τελειώνουν στην 162.)
      var message = new SpeechSynthesisUtterance(toolTipHTML(data));
                      speechSynthesis.speak(message);
 
@@ -210,38 +210,30 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
       ```
 
-      Στη συνέχεια, πρόσθεσα τον παρακάτω κώδικα στο αρχείο **index.html**, ώστε το **menu** της ιστοσελίδας να προσαρμόζεται σωστά σε μικρότερες συσκευές:
+      Στη συνέχεια, πρόσθεσα τον παρακάτω κώδικα στο αρχείο [**index.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index.html), ώστε το **menu** της ιστοσελίδας να προσαρμόζεται σωστά σε μικρότερες συσκευές:
  
    ```
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-
-    <div class="container-fluid">
-
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
-
-	<span class="navbar-toggler-icon"></span>
-	
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-
-    <ul class="navbar-nav ml-auto">
-   
-    <li class="nav-item active"><a class="nav-link" href="#top" onmouseover="playclip();" >Top</a></li>
-
-    <li class="nav-item active"><a class="nav-link" href="#national" onmouseover="playclip();" >National</a></li>
-
-    <li class="nav-item active"><a class="nav-link" href="#regional" onmouseover="playclip();" >Regional</a></li>
-
-    <li class="nav-item active"><a class="nav-link" href="#state" onmouseover="playclip();" >State-Level</a></li>
-
-    </ul>
-    </div>
-    </div>
-    </nav>
+ <header>
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+		<div class="container-fluid">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav ml-auto">
+<li class="nav-item active"><a class="nav-link" href="#top" onmouseover="playclip();" >Top</a></li>
+<li class="nav-item active"><a class="nav-link" href="#national" onmouseover="playclip();" onclick="FunctionGraphOne()" >National</a></li>
+<li class="nav-item active"><a class="nav-link" href="#regional" onmouseover="playclip();" onclick="FunctionGraphTwo()" >Regional</a></li>
+<li class="nav-item active"><a class="nav-link" href="#state" onmouseover="playclip();" onclick="FunctionGraphThree()" >State-Level</a></li>
+<li class="nav-item active"><a class="nav-link" href="index2.html" onmouseover="playclip();" >Additional-Charts</a></li>                                                 
+				</ul>
+			</div>
+		</div>
+	</nav>
+</header>
   ```
 
-   Τέλος, πρόσθεσα τις παρακάτω γραμμές κώδικα στο αρχείο **style.css** (αντικαθιστώντας τα με τα αντίστοιχα _nav tags_ που υπήρχαν πριν), δημιουργώντας μικρές αλλαγές, αλλά και για να δουλεύει σωστά 
+   Τέλος, πρόσθεσα τις παρακάτω γραμμές κώδικα στο αρχείο [**style.css**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/stylesheets/style.css) (αντικαθιστώντας τα με τα αντίστοιχα _nav tags_ που υπήρχαν πριν), δημιουργώντας μικρές αλλαγές, αλλά και για να δουλεύει σωστά 
 το **menu** σε μικρότερες οθόνες.
 
   ```
