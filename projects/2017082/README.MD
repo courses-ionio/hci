@@ -206,6 +206,68 @@ var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5
 		<audio id='mySound' src="assets/sounds/mouse hover sound.mp3"/>
 	<script>
 ```
+ ## 2ο Παραδοτέο
+ * Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.
+ Για την υλοποίηση αυτού του ζητούμενου χρεάστηκε τα διαγράμματα και οι τίτλοι τους να μπούνε μέσα σε <div> tags με διαφορετικά αναγνωριστηκά ids.
+
+```
+<div id="chrt1" style="display:none;">
+    <h2 class="subtitle" id="tts1">Nation-Wide Education Level of Population in Schooling</h2>
+	<script>
+	...
+	</script>
+    	<svg id="pie-chart" width="960" height="450"></svg><a name="regional"></a>
+    <p><br><br><br></p>
+</div>
+``` 
+
+Στη συνέχεια, προστέθηκαν τρεις συναρτήσεις showFirstChart, showSecondChart() και showThirdChart() οι οποίες εμφανίζουν ένα διάγραμμα κάθε φορά και κρύβουν τα άλλα δύο.
+
+```
+<script>
+	function showFirstChart() {
+	  var x = document.getElementById("chrt1");
+	  var y = document.getElementById("chrt2");
+	  var z = document.getElementById("chrt3");
+	    x.style.display = "block";
+	    y.style.display = "none";
+	    z.style.display = "none";
+	}
+	
+	function showSecondChart() {
+	  var x = document.getElementById("chrt1");
+	  var y = document.getElementById("chrt2");
+	  var z = document.getElementById("chrt3");
+	    x.style.display = "none";
+	    y.style.display = "block";
+	    z.style.display = "none";
+	}
+	
+	function showThirdChart() {
+	  var x = document.getElementById("chrt1");
+	  var y = document.getElementById("chrt2");
+	  var z = document.getElementById("chrt3");
+	    x.style.display = "none";
+	    y.style.display = "none";
+	    z.style.display = "block";
+	}
+</script>
+```
+
+Τέλος, στις επιλογές του κεντρικού μενού της σελίδας προστέθηκε κώδικας ο οποίος καλεί κάθε φορά την αντίστοιχη συνάρτηση.
+
+```
+<li class="nav-item" onclick="showFirstChart()" onmouseover="PlaySound('mySound')"onmouseout="StopSound('mySound')">
+	<a class="nav-link" href="#national">National</a>
+</li>
+<li class="nav-item" onclick="showSecondChart()" onmouseover="PlaySound('mySound')"onmouseout="StopSound('mySound')">
+	<a class="nav-link" href="#regional">Regional</a>
+</li>
+<li class="nav-item" onclick="showThirdChart()" onmouseover="PlaySound('mySound')"onmouseout="StopSound('mySound')">
+	<a class="nav-link" href="#state">State-Level</a>
+</li>
+```
+
 ## Όνομα εργασίας : Εργασία Περιεχομένου
  ### Eκτελέσιμο link : https://p17griv.github.io/gr/
  ### link αποθετηρίου : https://github.com/p17griv/gr
