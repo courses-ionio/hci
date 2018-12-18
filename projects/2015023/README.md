@@ -8,7 +8,10 @@
 
 * [**εκτελέσιμο link**](https://ntouloumtzis.github.io/D3js-US-educational-attainment/)
 * [**link αποθετηρίου(gh-pages branch)**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/tree/gh-pages)
-* [**Τελική Αναφορά Εργασίας με Github Pages (Εκτελέσιμο)**](https://ntouloumtzis.github.io/HCI-Final-Report/#)
+
+### Σύνδεσμοι τελικής αναφοράς εργασίας με Github Pages
+
+* [**Τελική Αναφορά Εργασίας (Εκτελέσιμο)**](https://ntouloumtzis.github.io/HCI-Final-Report/#)
 * [**Τελική Αναφορά Εργασίας (Αποθετήριο)**](https://github.com/ntouloumtzis/HCI-Final-Report)
 
 
