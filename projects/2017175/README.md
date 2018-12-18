@@ -50,3 +50,7 @@
 Γ) Δ) Ε) Δείτε το εκτελέσιμο στο https://christosdemosthenous.github.io/D3js-US-educational-attainment/
 
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
+
+### Παραδοτέο 2 
+## Τεκμηρίωση πρώτου ζητούμενου https://github.com/christosdemosthenous/D3js-US-educational-attainment/blob/master/index.html?fbclid=IwAR3dEc9AOnw46xD1noMizQHmo3hWzuYdd_hNBnir1SI4IjMIxYewW2bOfS0
+## το εκτελέσιμο πρώτου ζητουμένου https://christosdemosthenous.github.io/D3js-US-educational-attainment/#state
