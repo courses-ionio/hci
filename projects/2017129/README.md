@@ -126,7 +126,7 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
     </button>
 
     <div class="collapse navbar-collapse" id="navbarResponsive">
-    <ul class="navbar-nav ml-auto">
+    <ul class="navbar-nav navbar-right">
     <li class="nav-item active"><a class="nav-link" href="#top" onmouseover="playclip();" >Top</a></li>
     <li class="nav-item active"><a class="nav-link" href="#national" onmouseover="playclip();" >National</a></li>
     <li class="nav-item active"><a class="nav-link" href="#regional" onmouseover="playclip();" >Regional</a></li>
@@ -147,7 +147,7 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
   }
 
   .navbar-nav li {
-   padding-right: 20px;
+   padding-left: 20px;
   }
 
   .nav-link {
@@ -156,6 +156,64 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
   ```
 
 
+## Παραδοτέο 2 
+
+
+  - [x] **Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.**
+  
+   Για να είναι εμφανές μόνο το ένα γράφημα που επιθυμούμε να διαλέξουμε, στο [**index.html**]  πρόσθεσα στο _header tag_  μέσα στα στοιχεία της λίστας τις εντολές για να καλέσουν τις αντίστοιχες συναρτήσεις:
+ ``` 
+	onclick="firstscript();"
+	onclick="secondscript();"
+	onclick="thirdscript();"
+ ```
+ και μέσα στα h2 που έχει τον κάθε τίτλο  πρόσθεσα id για το κάθε γράφημα:
+ ``` 
+	 id="tittlestate"
+	 id="tittleregion"
+ 	 id="tittlenation"
+ ``` 
+
+   και μετά τις συναρτήσεις μέσα σε _script tag_:
+   ```
+   <script>
+	function firstscript() {
+	document.getElementById("tittleregion").style.display = "none";
+	document.getElementById("tittlestate").style.display = "none";
+	document.getElementById("tittlenation").style.display = "block";
+	document.getElementById("pie-chart").style.display = "block";
+	document.getElementById("tree-form").style.display = "none";
+	document.getElementById("stack-form").style.display = "none";
+        document.getElementById("chart").style.display = "none";
+	document.getElementById("stacked-bar-chart").style.display = "none";
+	
+	
+}
+	function secondscript() {
+	document.getElementById("tittleregion").style.display = "block";
+	document.getElementById("tittlestate").style.display = "none";
+	document.getElementById("tittlenation").style.display = "none";
+	document.getElementById("pie-chart").style.display = "none";
+	document.getElementById("tree-form").style.display = "block";
+	document.getElementById("stack-form").style.display = "none";
+        document.getElementById("chart").style.display = "block";
+	document.getElementById("stacked-bar-chart").style.display = "none";
+	
+	
+}
+	function thirdscript() {
+	document.getElementById("tittleregion").style.display = "none";
+	document.getElementById("tittlestate").style.display = "block";
+	document.getElementById("tittlenation").style.display = "none";
+	document.getElementById("pie-chart").style.display = "none";
+	document.getElementById("tree-form").style.display = "none";
+	document.getElementById("stack-form").style.display = "block";
+        document.getElementById("chart").style.display = "none";
+	document.getElementById("stacked-bar-chart").style.display = "block";
+	
+}
+	</script>
+   ```
 
 ## Εργασία περιεχομένου  Παραδοτέο Α
 
