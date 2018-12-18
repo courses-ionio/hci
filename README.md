@@ -22,6 +22,7 @@
  var colors = d3.scaleOrdinal().range(["#262b0f", "#054214", "#99cc26", "#006361", "#573300", "#852933", "#ff0026"]); 
 
 ## Αντίστοιχα
+![chart_1](chart_1.jpg)
 
 ### <ul> Για την αντικατάσταση των διεπαφών στο 2ο και 3ο γράφημα με άλλες της επιλογής μου τροποποίησα τον κώδικα της CSS που βρίσκεται στο φάκελο assets/stylesheets/style.css :  
   .radio-toolbar label {  display: inline-block;  background-color: #fefbd8;  padding: 2px 14px;  font-family: cursive;  font-size: 25px;
