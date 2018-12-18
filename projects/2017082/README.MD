@@ -207,7 +207,7 @@ var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5
 	<script>
 ```
  ## 2ο Παραδοτέο
- * Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.
+ * 1ο Ζητούμενο - Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.
  
  Για την υλοποίηση αυτού του ζητούμενου χρεάστηκε τα διαγράμματα και οι τίτλοι τους να μπούνε μέσα σε <div> tags με διαφορετικά αναγνωριστηκά ids.
 
@@ -268,7 +268,135 @@ var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5
 	<a class="nav-link" href="#state">State-Level</a>
 </li>
 ```
+* 3ο Ζητούμενο - Σε μια καινούργια σελίδα, να τοποθετήσετε αντίστοιχα 3 νέα διαδραστικά γραφήματα D3js της επιλογής σας, τα οποία θα οπτικοποιούν καινούργια στατιστικά δεδομένα που θα βρείτε από κάποια επίσημη στατιστική αρχή (π.χ. ΕΛΣΤΑΤ, Eurostat κ.λπ.).
 
+Για το 3ο ζητούμενο αρχικά χρειάστηκε να δημιουργηθεί ένα νέο αρχείο html και μέσα σε αυτό να προστεθούν τα εξής διαγράμματα:
+```
+<div id="chrt1" style="display:block;">
+		<p><br></p>
+		    <h2 class="subtitle" id="tts1">Electric energy consumption by category of use in Corfu, 2012</h2>
+			<script>
+					...
+			</script>
+			<div class="container-fluid">
+			    <div class="row">
+			        <div class="col"></div>
+			        <div class="col">
+			            <div id="pieChart"></div>
+			        </div>
+			        <div class="col"></div>
+			    </div>
+			</div>
+    	
+            <script src="//cdnjs.cloudflare.com/ajax/libs/d3/4.7.2/d3.min.js"></script>
+            <script src="d3pie.min.js"></script>
+            <script>
+            var pie = new d3pie("pieChart", {"header":{"title":{"fontSize":24,"font":"open sans"},"subtitle":{"color":"#999999","fontSize":12,"font":"open sans"},"titleSubtitlePadding":9},"footer":{"color":"#999999","fontSize":10,"font":"open sans","location":"bottom-left"},"size":{"canvasWidth":590,"pieOuterRadius":"90%"},"data":{"sortOrder":"value-desc","content":[{"label":"Domestic","value":264131,"color":"#2383c1"},{"label":"Commercial","value":218812,"color":"#64a61f"},{"label":"Industrial","value":157618...
+            </script>
+</div>
+
+```
+Πηγή δεδομένων: http://www.statistics.gr/el/statistics/-/publication/SIN03/2012
+Πίνακας: 01. Κατανάλωση ηλεκτρικής ενέργειας, κατά μεγάλη γεωγραφική περιοχή, περιφέρεια, νομό και κατά κατηγορία χρήσης
+Απαραίτητη ήταν επίσης η προσθήκη ενός αρχείου: d3pie.min.js
+
+```
+<div id="chrt2" style="display:none;">
+		<h2 class="subtitle" id="tts2">Tree Crops in Corfu, 2016</h2>
+		<script>
+				...
+		</script>
+		<h6 class="subtitle" id="tts10">Corfu has 256,700 olive trees which is the 98% of all trees. The other 2% is:</h6>
+		<script>
+				...
+		</script>
+		<p></p>
+		<div class="container-fluid">
+		    <div class="row">
+		        <div class="col"></div>
+		        <div class="col">
+		            <div id="chart2"></div>
+		        </div>
+		        <div class="col"></div>
+		    </div>
+		</div>
+		    
+	    <script src="http://d3js.org/d3.v2.min.js"></script>
+	    <script>
+			function renderChart() {
+			
+			var data = d3.csv.parse(d3.select('#csv2').text());
+			var valueLabelWidth = 40; // space reserved for value labels (right)
+			var barHeight = 20; // height of one bar
+			var barLabelWidth = 100; // space reserved for bar labels
+			var barLabelPadding = 5; // padding between bar and bar labels (left)
+			var gridLabelHeight = 18; // space reserved for gridline labels
+			var gridChartOffset = 3; // space between start of grid and first bar
+			var maxBarWidth = 420; // width of the bar with the max value
+			 
+			// accessor functions 
+			var barLabel = function(d) { return d['Tree']; };
+			var barValue = function(d) { return parseFloat(d['Population']); };
+			 
+			// sorting
+			var sortedData = data.sort(function(a, b) {
+			 return d3.descending(barValue(a), barValue(b));
+			}); 
+			
+			// scales
+			var yScale = d3.scale.ordinal().domain(d3.range(0, sortedData.length)).rangeBands([0, sortedData.length * barHeight]);
+			var y = function(d, i) { return yScale(i); };
+			var yText = function(d, i) { return y(d, i) + yScale.rangeBand() / 2; };
+			var x = d3.scale.linear().domain([0, d3.max(sortedData, barValue)]).range([0, maxBarWidth]);
+			// svg container element
+			var chart = d3.select('#chart2').append("svg")
+			  .attr('width', maxBarWidth + barLabelWidth + valueLabelWidth)
+			  .attr('height', gridLabelHeight + gridChartOffset + sortedData.length * barHeight);
+			// grid line labels
+			...
+	    </script>
+	    <script id="csv2" type="text/csv">
+	    	Tree,Population
+			Lemon Tree,901
+			Orange Tree,1577
+			Mandarin Tree,333
+			Other Citrus Tree,77
+			Apple Tree,105
+			Pear Tree,90
+			Peach Tree,67
+			Apricot Tree,65
+			Cherry Tree,75
+			Other Fruit Tree,116
+			Almond Tree,331
+			Walnut Tree,139
+			Other Nut-bearing Tree,129
+			Other Trees,309
+		</script>
+	    <script>renderChart();</script>
+	    <p><br><br></p>
+	</div>
+```
+Πηγή δεδομένων: http://www.statistics.gr/el/statistics/-/publication/SPG06/-
+Πίνακας: 05α. Δενδρώδεις Καλλιέργειες. Εκτάσεις συνεχών (κανονικών) δενδρώνων, κατά Περιφέρεια και Περιφερειακή Ενότητα
+
+Τέλος, για την ευκολότερη μετάβαση μεταξύ των δύο σελίδων προστέθηκαν επιλογές κάτω από κάθε γράφημμα:
+
+Στην αρχική σελίδα:
+```
+	<div class="container">
+		<p style="text-align: center; font-weight: bold; fort-size: 80px;">
+			<a style="text-decoration: none; color: #1c1e21;" href="index2.html">Show more examples >></a>
+		</p>
+	</div>
+```
+Στην καινούρια σελίδα:
+```
+    <div class="container">
+    	<p style="text-align: center; font-weight: bold; fort-size: 80px;">
+    		<a style="text-decoration: none; color: #1c1e21;" href="index.html">Go Back >></a>
+    	</p>
+    </div>
+```
 ## Όνομα εργασίας : Εργασία Περιεχομένου
  ### Eκτελέσιμο link : https://p17griv.github.io/gr/
  ### link αποθετηρίου : https://github.com/p17griv/gr
