@@ -29,5 +29,5 @@
   .radio-toolbar label {  display: inline-block;  background-color: #fefbd8;  padding: 2px 14px;  font-family: cursive;  font-size: 25px;
   cursor: pointer;} .radio-toolbar input[type="radio"]:checked+label { background-color: #bbb; } 
 
-## Για την πρόσθεση ήχου όταν το ποντίκι διέρχεται πάνω απο menu αρχικά κατέβασα ένα .wav αρχείο με τον ήχο του κλείστρου μιας κάμερας και το σύνδεσα με την εντολή <audio id="sound"> και την εντολή <a onmouseover> στο αρχείο index.html :
+## Για την πρόσθεση ήχου όταν το ποντίκι διέρχεται πάνω απο menu αρχικά κατέβασα ένα .wav αρχείο με τον ήχο του κλείστρου μιας κάμερας και το σύνδεσα με την εντολή "<audio id="sound">" και την εντολή "<a onmouseover>" στο αρχείο index.html :
   <audio id="sound" src="music.wav"></audio> <a onmouseover = "playSound();"></a> <script>  function playSound() {var sound = ocument.getElementById("sound"); sound.play(); } </script>
