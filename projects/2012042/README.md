@@ -19,7 +19,6 @@
 ### Ονοματεπώνυμο: Φαρμάκης Νίκος
 ### Αριθμός Μητρώου: Π2012042
 ## Εργασία Ανάπτυξης: Οπτικοποίηση Δεδομένων
-## Παραδοτέο 1
 
 #### 1) link στο αποθετήριο του κώδικα:
 https://github.com/p12farm/D3js-US-educational-attainment
@@ -39,3 +38,19 @@ https://p12farm.github.io/D3js-US-educational-attainment/
 ######
 ###### [x] Εφάρμοσα responsive design στη σελίδα (Bootstrap) και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων.
 #
+
+## Εργασία περιεχομένου  Παραδοτέο Β
+
+
+Εκτελέσιμο link : https://p12farm.github.io/gr/ 
+
+link αποθετηρίου: https://github.com/p12farm/gr
+
+### Διαδραστικά παραδείγματα
+
+#### - Circuit Board Generator
+   - https://p12farm.github.io/gr/remix/Circuit%20Board%20Generator/
+    
+    
+#### - React Calculator
+   - https://p12farm.github.io/gr/remix/React%20Calculator/
