@@ -56,5 +56,19 @@
 
 
 
+# Εργασία Ανάπτυξης 
+# Παραδοτέο Β
+
+## Ονοματεπώνυμο: Πλιάφας Θεόδωρος 
+## ΑΜ:Π2017012
+
+## Link αποθετηρίου https://github.com/Thodoros/D3js-US-educational-attainment
+## Link εκτελέσιμου https://thodoros.github.io/D3js-US-educational-attainment/
+
+## Link αποθετηρίου τελικής αναφοράς https://github.com/Thodoros/HCI-Final-Report
+## Link εκτελέσιμου τελικής αναφοράς https://thodoros.github.io/HCI-Final-Report/
+
+
+
 
 
