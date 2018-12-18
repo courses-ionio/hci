@@ -6,8 +6,14 @@
 
 # Εργασία Ανάπτυξης
 
-* [εκτελέσιμο link](https://ntouloumtzis.github.io/D3js-US-educational-attainment/)
-* [link αποθετηρίου(gh-pages branch)](https://github.com/ntouloumtzis/D3js-US-educational-attainment/tree/gh-pages)
+* [**εκτελέσιμο link**](https://ntouloumtzis.github.io/D3js-US-educational-attainment/)
+* [**link αποθετηρίου(gh-pages branch)**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/tree/gh-pages)
+
+### Σύνδεσμοι τελικής αναφοράς εργασίας με Github Pages
+
+* [**Τελική Αναφορά Εργασίας (Εκτελέσιμο)**](https://ntouloumtzis.github.io/HCI-Final-Report/#)
+* [**Τελική Αναφορά Εργασίας (Αποθετήριο)**](https://github.com/ntouloumtzis/HCI-Final-Report)
+
 
 ## Παραδοτέο 1
 
@@ -15,18 +21,18 @@
 
    - Για την αλλαγή των χρωμάτων στα γραφήματα, τροποποιούμε τους κώδικες στα αντίστοιχα αρχεία των γραφημάτων.
 
-        - Για το πρώτο γράφημα ( στο αρχείο: assets/scripts/script_1.js )
+        - Για το πρώτο γράφημα ( στο αρχείο: [**script_1.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_1.js) )
 
           ```
           colour = d3.scaleOrdinal().range(["#90afc5", "#336b87", "#2a3132", "#763626", "#258039", "#f5be41", "#cf3721"])
           ```
         
        
-        - Για το δεύτερο γράφημα ( στο αρχείο: assets/scripts/script_2.js )
+        - Για το δεύτερο γράφημα ( στα αρχεία: [**script_2.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_2.js) και [**style.css**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/stylesheets/style.css) )
 
-        1. Στο **button** του γραφήματος (αλλαγές στα _script_2.js_ και _style.css_)  
+        1. Για το **button** του δεύτερου γραφήματος ( μικρές αλλαγές και στα δύο αρχεία ) 
 
-              1.a) _Το default χρώμα του_ (**script_2.js**)
+              1.a) _Το default χρώμα του κουμπιού_ (**script_2.js**)
 
 
                    46   .attr("fill", '#009933');
@@ -35,7 +41,7 @@
 
 
 
-              1.b)  _Όταν περνάει το ποντίκι πάνω απ'το button του γραφήματος_ (**style.css**)
+              1.b)  _Όταν περνάει το ποντίκι πάνω απ'το κουμπί του γραφήματος_ (**style.css**)
 
 
     
@@ -44,7 +50,7 @@
 	           }
 
 
-        2. Στο ίδιο το **γράφημα** 
+        2. Στο ίδιο το δεύτερο **γράφημα** (**script_2.js**)
 
 
                var color = d3.scaleLinear().domain([0, 1/4*5000000, 2/4*5000000, 3/4*5000000, 5000000]).range(["#fb6542", "#ffbb00", "#375e97", "#3f681c"]);
@@ -65,7 +71,7 @@
                 }
 
         
-        - Για το τρίτο γράφημα ( στο αρχείο: assets/scripts/script_3.js )
+        - Για το τρίτο γράφημα ( στο αρχείο: [**script_3.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_3.js) )
 
            ```
            var colors = d3.scaleOrdinal()
@@ -76,7 +82,7 @@
    - [x] **Αντικαταστήστε τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος με άλλες της επιλογής σας.**
 
 
-   - Για την αλλαγή στις διεπαφές των buttons του 2ου και 3ου γραφήματος, πρόσθεσα στο αρχείο **style.css** τις παρακάτω 
+   - Για την αλλαγή στις διεπαφές των buttons του 2ου και 3ου γραφήματος, πρόσθεσα στο αρχείο [**style.css**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/stylesheets/style.css) τις παρακάτω 
      γραμμές κώδικα.
          
          .radio-toolbar label {
@@ -124,9 +130,9 @@
 
      ![](Screenshot_2.png)
 
-     Στην ουσία, ανέβασα δύο αρχεία του κλιπ, ένα .mp3 και ενα .ogg, για να υποστηρίζεται απ'όλους τους φυλλομετρητές.     
-     Μετά, ανέβασα το **mousehover-sound.js** αρχείο στο repository του κώδικά μου, για να υποστηρίζεται και απο τον IE φυλλομετρητή.
-     Στη συνέχεια, τροποποίησα το αρχείο **index.html**, εισάγοντας ενα _script tag_: 
+     Στην ουσία, ανέβασα δύο αρχεία του κλιπ, ένα [**.mp3**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/mousehover-sound.mp3) και ενα [**.ogg**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/mousehover-sound.ogg), για να υποστηρίζεται απ'όλους τους φυλλομετρητές.     
+     Μετά, ανέβασα το [**mousehover-sound.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/mousehover-sound.js) αρχείο στο repository του κώδικά μου, για να υποστηρίζεται και απο τον IE φυλλομετρητή.
+     Στη συνέχεια, τροποποίησα το αρχείο [**index.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index.html), εισάγοντας ενα _script tag_: 
      
      ```
      <script type="text/javascript" src="mousehover-sound.js"></script>
@@ -162,7 +168,7 @@
 
 
    - Για να ακούγεται η αφήγηση του κάθε κειμένου, όταν θα διέρχεται το ποντίκι πάνω, χρησιμοποιούμε τη βιβλιοθήκη ResponsiveVoice,
-     σε _script tag_ στο **index.html**:
+     σε _script tag_ στο [**index.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index.html):
 
      ```
      <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
@@ -184,10 +190,10 @@
      </script>
      ```
 
-   - Μια ακόμη προσθήκη, η οποία έγινε έτσι ώστε να διευκολυθούν οι χρήστες αυτοί, είναι πως κάθε φορά που ο χρήστης κάνει hover πάνω από ένα στοιχείο του pie-chart, ακούγεται μέσω της **javascript class SpeechSynthesisUtterance**. Οι αλλαγές αυτές έγιναν στο αρχείο _script_1.js_.
+   - Μια ακόμη προσθήκη, η οποία έγινε έτσι ώστε να διευκολυθούν οι χρήστες αυτοί, είναι πως κάθε φορά που ο χρήστης κάνει hover πάνω από ένα στοιχείο του pie-chart, ακούγεται μέσω της **javascript class SpeechSynthesisUtterance**. Οι αλλαγές αυτές έγιναν στο αρχείο [**script_1.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_1.js).
 
      ```
-         Mέσα στο mouseenter:
+         Mέσα στο mouseenter: (Οι εντολές κώδικα που πρόσθεσα αρχίζουν απ'την γραμμή 155 και τελειώνουν στην 162.)
      var message = new SpeechSynthesisUtterance(toolTipHTML(data));
                      speechSynthesis.speak(message);
 
@@ -210,38 +216,30 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
       ```
 
-      Στη συνέχεια, πρόσθεσα τον παρακάτω κώδικα στο αρχείο **index.html**, ώστε το **menu** της ιστοσελίδας να προσαρμόζεται σωστά σε μικρότερες συσκευές:
+      Στη συνέχεια, πρόσθεσα τον παρακάτω κώδικα στο αρχείο [**index.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index.html), ώστε το **menu** της ιστοσελίδας να προσαρμόζεται σωστά σε μικρότερες συσκευές:
  
    ```
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-
-    <div class="container-fluid">
-
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
-
-	<span class="navbar-toggler-icon"></span>
-	
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-
-    <ul class="navbar-nav ml-auto">
-   
-    <li class="nav-item active"><a class="nav-link" href="#top" onmouseover="playclip();" >Top</a></li>
-
-    <li class="nav-item active"><a class="nav-link" href="#national" onmouseover="playclip();" >National</a></li>
-
-    <li class="nav-item active"><a class="nav-link" href="#regional" onmouseover="playclip();" >Regional</a></li>
-
-    <li class="nav-item active"><a class="nav-link" href="#state" onmouseover="playclip();" >State-Level</a></li>
-
-    </ul>
-    </div>
-    </div>
-    </nav>
+ <header>
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+		<div class="container-fluid">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav ml-auto">
+<li class="nav-item active"><a class="nav-link" href="#top" onmouseover="playclip();" >Top</a></li>
+<li class="nav-item active"><a class="nav-link" href="#national" onmouseover="playclip();" onclick="FunctionGraphOne()" >National</a></li>
+<li class="nav-item active"><a class="nav-link" href="#regional" onmouseover="playclip();" onclick="FunctionGraphTwo()" >Regional</a></li>
+<li class="nav-item active"><a class="nav-link" href="#state" onmouseover="playclip();" onclick="FunctionGraphThree()" >State-Level</a></li>
+<li class="nav-item active"><a class="nav-link" href="index2.html" onmouseover="playclip();" >Additional-Charts</a></li>                                                 
+				</ul>
+			</div>
+		</div>
+	</nav>
+</header>
   ```
 
-   Τέλος, πρόσθεσα τις παρακάτω γραμμές κώδικα στο αρχείο **style.css** (αντικαθιστώντας τα με τα αντίστοιχα _nav tags_ που υπήρχαν πριν), δημιουργώντας μικρές αλλαγές, αλλά και για να δουλεύει σωστά 
+   Τέλος, πρόσθεσα τις παρακάτω γραμμές κώδικα στο αρχείο [**style.css**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/stylesheets/style.css) (αντικαθιστώντας τα με τα αντίστοιχα _nav tags_ που υπήρχαν πριν), δημιουργώντας μικρές αλλαγές, αλλά και για να δουλεύει σωστά 
 το **menu** σε μικρότερες οθόνες.
 
   ```
@@ -262,18 +260,122 @@
 
 ## Παραδοτέο 2 
 
-- [ ] Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.
-  - [ ] Αντικαταστήστε το κάθε ένα από τα 3 γραφήματα με κάποιο άλλο διαδραστικό γράφημα της D3js.
-  - [ ] Σε μια καινούργια σελίδα, να τοποθετήστε αντίστοιχα 3 νέα διαδραστικά γραφήματα D3js της 
-επιλογής σας, τα οποία θα οπτικοποιούν καινούργια στατιστικά δεδομένα που θα βρείτε από κάποια επίσημη 
-στατιστική αρχή (π.χ. ΕΛΣΤΑΤ, Eurostat κ.λπ.)
+
+  - [x] **Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.**
+
+  - Για να είναι εμφανές μόνο το ένα γράφημα που επιθυμούμε να διαλέξουμε, πρόσθεσα στο [**index.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index.html) τις παρακάτω συναρτήσεις:
+
+    ```
+    <script>
+    function FunctionGraphOne() {
+    var x = document.getElementById("GraphOne");
+    var y = document.getElementById("GraphTwo");
+    var w = document.getElementById("GraphThree");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+	y.style.display = "none";
+	w.style.display = "none";
+    } else {
+	x.style.display = "none";
+    }
+    }
+
+    function FunctionGraphTwo() {
+    var x = document.getElementById("GraphOne");
+    var y = document.getElementById("GraphTwo");
+    var w = document.getElementById("GraphThree");
+    if (y.style.display === "none") {
+        x.style.display = "none";
+	y.style.display = "block";
+	w.style.display = "none";
+    } else {
+        y.style.display = "none";
+    }
+    }
+
+    function FunctionGraphThree() {
+    var x = document.getElementById("GraphOne");
+    var y = document.getElementById("GraphTwo");
+    var w = document.getElementById("GraphThree");
+    if (w.style.display === "none") {
+        x.style.display = "none";
+	y.style.display = "none";
+	w.style.display = "block";
+    } else {
+        w.style.display = "none";
+    }
+    }
+	
+    FunctionGraphTwo();
+    FunctionGraphThree();
+    </script>
+    ```
+    
+    Οι παραπάνω συναρτήσεις θα καλούνται κάθε φορά που ο χρήστης θα πατάει μία επιλογή στο menu, για το επιθυμητό γράφημα που θέλει να ελέγξει. Στην ουσία πρόσθεσα στο _header tag_ του ίδιου αρχείου τις εντολές,
+    ```
+    onclick="FunctionGraphOne()"
+    onclick="FunctionGraphTwo()"
+    onclick="FunctionGraphThree()"
+    ```
+    αντίστοιχα για κάθε γράφημα. Τέλος, τα συνδέω με _div tags για το κάθε γράφημα ξεχωριστά.
+    ```
+    <div id="GraphOne"> <!-- εντολές γραφήματος 1 --> </div>
+    <div id="GraphTwo"> <!-- εντολές γραφήματος 2 --> </div>
+    <div id="GraphThree"> <!-- εντολές γραφήματος 3 --> </div>
+    ```
+
+    Εδώ φαίνεται και το αποτέλεσμα του πρώτου ζητήματος:
+
+    ![](paradoteo2-zhtoumeno1.gif)
 
 
+  - [ ] **Αντικαταστήστε το κάθε ένα από τα 3 γραφήματα με κάποιο άλλο διαδραστικό γράφημα της D3js.**
+
+	-  _Δεν υλοποιήθηκε_
+
+
+
+
+   - [x] **Σε μια καινούργια σελίδα, να τοποθετήστε αντίστοιχα 3 νέα διαδραστικά γραφήματα D3js της επιλογής σας, τα οποία θα οπτικοποιούν καινούργια στατιστικά δεδομένα που θα βρείτε από κάποια επίσημη στατιστική αρχή (π.χ. ΕΛΣΤΑΤ, Eurostat κ.λπ.)**
+
+    
+   - **Πηγές Στατιστικών Δεδομένων:** ([ΕΛΣΤΑΤ](http://www.statistics.gr/))
+       
+        - [_Μόνιμος πληθυσμός των 10 μεγαλύτερων Δήμων της Χώρας κατά Σύνολο_](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=310596&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el) **Πίνακας 1**
+        - [_Εξέλιξη του ποσοστού ανεργίας κάθε μήνα Σεπτεμβρίου αντίστοιχα, 2004 – 2018_](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=345824&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el) **Γράφημα 1**
+        - [_Ετήσια μεταβολή (%) Δεικτών Όγκου στο Λιανικό Εμπόριο Σεπτεμβρίου 2018/2017_](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=344759&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el) **Γράφημα 4**
+
+   - Αρχικά, δημιουργήθηκαν 3 γραφήματα με τα αντίστοιχα στατιστικά δεδομένα τις ΕΛΣΤΑΤ, τα [**script_4.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_4.js), [**script_5.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_5.js) και [**script_6.js**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/assets/scripts/script_6.js)
+
+       - Τα δύο πρώτα τοποθετήθηκαν σε μια νέα σελίδα, την [**index2.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index2.html), ενώ το τελευταίο γράφημα τοποθετήθηκε σε άλλη σελίδα, την [**index3.html**](https://github.com/ntouloumtzis/D3js-US-educational-attainment/blob/gh-pages/index3.html), γιατί δεν μου έβγαζε αλλιώς το αποτέλεσμα στην δεύτερη σελίδα.
+
+  1. Το αποτέλεσμα του **πρώτου** γραφήματος
+
+     ![](Screenshot_3.png)
+
+  2. Το αποτέλεσμα του **δεύτερου** γραφήματος
+
+     ![](Screenshot_4.png)
+
+  3. Το αποτέλεσμα του **τρίτου** γραφήματος
+
+     ![](paradoteo2-zhtoumeno3.gif)
+
+
+## Δικτυογραφία
+- https://www.w3schools.com/html/
+- https://www.w3schools.com/css/default.asp
+- https://responsivevoice.org/
+- https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
+- http://nvd3.org/examples/pie.html
+- https://c3js.org/gettingstarted.html
+- https://bl.ocks.org/mbostock/b5935342c6d21928111928401e2c8608
+- http://nvd3.org/examples/discreteBar.html
 
 # Εργασία Περιεχομένου
 
-* [εκτελέσιμο link](https://ntouloumtzis.github.io/gr/)
-* [link αποθετηρίου(gh-pages branch)](https://github.com/ntouloumtzis/gr)
+* [**εκτελέσιμο link**](https://ntouloumtzis.github.io/gr/)
+* [**link αποθετηρίου(gh-pages branch)**](https://github.com/ntouloumtzis/gr)
 
 ## Δραστηριότητα 1.Α
 
