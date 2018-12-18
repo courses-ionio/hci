@@ -3,17 +3,13 @@
 #
 #
 ## Παραδοτέο 2
-## Εργασία ανάπτυξης: Οπτικοποίηση Δεδομένων<br>
-## Εκτελέσιμο link:https://p17meli.github.io/D3js-US-educational-attainment/#regional <br>
+## Εργασία ανάπτυξης: Οπτικοποίηση Δεδομένων
+## Εκτελέσιμο link:https://p17meli.github.io/D3js-US-educational-attainment/#regional 
 ## Link αποθετηρίου:https://github.com/p17meli/D3js-US-educational-attainment
-### Αλλαγές οι οποίες εγιναν: <br>
+### Αλλαγές οι οποίες εγιναν: 
 -Τροποποίησα τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα
 <p>---------------------------------------------------------------------------------------------------------------------------------</p>
-### ΕΡΓΑΣΙΑ ΠΕΡΙΕΧΟΜΕΝΟΥ 2
-#### Link παραδείγματος 1: https://p17meli.github.io/gr/remix/biometrics/
-#### Link παραδείγματος 2: https://p17meli.github.io/gr/remix/click/
-#### Link αποθετηρίου:https://github.com/p17meli/gr
-<p>---------------------------------------------------------------------------------------------------------------------------------</p>
+
  
 ## Παραδοτέο 1 <br>
 ## Εργασία ανάπτυξης: Οπτικοποίηση Δεδομένων<br>
@@ -37,3 +33,8 @@ Facebook:https://p17meli.github.io/gr/gallery/facebook/ <br>
 Webcam:https://p17meli.github.io/gr/gallery/webcam/ <br>
 Windows: https://p17meli.github.io/gr/gallery/windows/ <br>
 Keyboard: https://p17meli.github.io/gr/gallery/keyboard/
+<p>---------------------------------------------------------------------------------------------------------------------------------</p>
+ΕΡΓΑΣΙΑ ΠΕΡΙΕΧΟΜΕΝΟΥ 2 <br>
+Link παραδείγματος 1: https://p17meli.github.io/gr/remix/biometrics/ <br>
+Link παραδείγματος 2: https://p17meli.github.io/gr/remix/click/ <br>
+Link αποθετηρίου:https://github.com/p17meli/gr <br>
