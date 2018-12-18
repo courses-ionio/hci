@@ -21,3 +21,50 @@ https://xaralambos12.github.io/gr/gallery/gaming/
 https://xaralambos12.github.io/gr/gallery/mechanical_keyboard/
 
 https://xaralambos12.github.io/gr/gallery/teamwork/ 
+
+### Παραδοτέο 2
+
+## Διαδραστικά παραδείγματα 
+
+#### Tα links απο τα md files:
+
+1. https://github.com/Xaralambos12/gr/blob/gh-pages/_remix/webgl2-particles.md
+2. https://github.com/Xaralambos12/gr/blob/gh-pages/_remix/easysnakegame.md
+
+#### Τα links απο την ιστοσελίδα: 
+
+1. https://xaralambos12.github.io/gr/remix/webgl2-particles/
+2. https://xaralambos12.github.io/gr/remix/easysnakegame/
+
+
+## Εργασία Aνάπτυξης
+
+### Παραδοτέο 1
+
+#### [Link αποθετηρίου κώδικα]: https://github.com/Xaralambos12/D3js-US-educational-attainment/
+
+#### [Link στο εκτελέσιμο]: https://Xaralambos12.github.io/D3js-US-educational-attainment/
+
+### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
+
+[x] Άλλαξα τα χρώματα στα 3 γραφήματα.
+
+[x] Αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
+
+[x] Όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, ακούγεται κάποιος ήχος.
+
+[x] Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας ή περιοχή που περιλαμβάνει γραπτή πληροφορία (π.χ. κάποιο τμήμα γραφήματος), ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).
+
+[x] Εφάρμοσα responsive design στη σελίδα (Bootstrap) και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων.
+
+### Τεκμηρίωση ζητουμένων πρώτου παραδοτέου
+Α & B) Άλλαξα τα χρώματα στα 3 γραφήματα και αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος. 
+![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshot_2.png)
+![Screenshot](Screenshot_3.png)
+![Screenshot](Screenshot_4.png)
+
+Γ) Δ) Ε) Δείτε το εκτελέσιμο στο https://Xaralambos12.github.io/D3js-US-educational-attainment/
+
+Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
+
