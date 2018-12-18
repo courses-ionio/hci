@@ -356,7 +356,7 @@
      ![](paradoteo2-zhtoumeno3.gif)
 
 
-## Βιβλιογραφία 
+## Δικτυογραφία
 - https://www.w3schools.com/html/
 - https://www.w3schools.com/css/default.asp
 - https://responsivevoice.org/
