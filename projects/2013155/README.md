@@ -32,3 +32,12 @@
 
 [x] Εφάρμοσα responsive design στη σελίδα (Bootstrap) και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων.
 
+## Εργασία περιεχομένου: Παραδοτέο 2
+##
+#### Σύνδεσμος αποθετηρίου: https://github.com/p13xant/gr
+#### Σύνδεσμος εκτελέσιμου: https://p13xant.github.io/gr/
+##
+### Σύνδεσμοι διαδραστικών παραδειγμάτων:
+#### Apple Logo CSS: https://p13xant.github.io/gr/remix/Apple%20Logo%20CSS/
+#### Technologies: https://p13xant.github.io/gr/remix/Technologies/
+#
