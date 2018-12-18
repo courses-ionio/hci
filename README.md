@@ -27,14 +27,14 @@
   
 ## <ul>  .radio-toolbar label {
 
-  display: inline-block;
-  background-color: #fefbd8;
-  padding: 2px 14px;
-  font-family: cursive;
-  font-size: 25px;
-  cursor: pointer;
-}
+ ## display: inline-block;
+ ## background-color: #fefbd8;
+ ## padding: 2px 14px;
+ ## font-family: cursive;
+ ## font-size: 25px;
+ ## cursor: pointer;
+##}
 
-.radio-toolbar input[type="radio"]:checked+label {
-  background-color: #bbb;
-} ## 
+## .radio-toolbar input[type="radio"]:checked+label {
+  ## background-color: #bbb;
+## } 
