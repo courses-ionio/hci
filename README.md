@@ -25,7 +25,7 @@
 
 ## <ul> Για την αντικατάσταση των διεπαφών στο 2ο και 3ο γράφημα με άλλες της επιλογής μου τροποποίησα τον κώδικα της CSS που βρίσκεται στο φάκελο assets/stylesheets/style.css :
   
-  .radio-toolbar label {
+## <ul>  .radio-toolbar label {
 
   display: inline-block;
   background-color: #fefbd8;
@@ -37,4 +37,4 @@
 
 .radio-toolbar input[type="radio"]:checked+label {
   background-color: #bbb;
-}
+} </ul>
