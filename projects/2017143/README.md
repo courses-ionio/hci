@@ -4,10 +4,12 @@
  #### Αριθμός μητρώου: Π2017143
  #### Προφίλ στο Github: https://github.com/leuteris99
  
+ #### Link Προς Τελική Αναφορά: https://github.com/leuteris99/Final-Report
+ 
  ## Εργασία Ανάπτυξης (Παραδοτέο1)
  
  #### Εκτελέσιμο link: https://leuteris99.github.io/D3js-US-educational-attainment/
- #### link Προς κώδικα: https://github.com/leuteris99/D3js-US-educational-attainment
+ #### link Προς κώδικα: https://github.com/leuteris99/D3js-US-educational-attainment/tree/paradoteoA (Branch: paradoteoA)
  
  ### Ζητούμενα που ολοκληρώθηκαν:
  - [x] Αλλάξτε τα χρώματα στα 3 γραφήματα.
@@ -25,6 +27,26 @@
  ενημερόνεται με ενα alert.(στους υπολοιπους browser λειτουργεί κανονικά)
  2. Το text-to-speach στο διάγραμα 2 λειτουργεί μέχρι να πατήσεις πάνω σε μια περιοχή.(μετά ο κώδικας text-to-speach δεν εκτελείται)
  3. Το text-to-speach στο διάγραμα 3 λειτουργεί μόνο πάνω άπο τον πίνακα αντιστοίχισης χρώματος με κατηγορία.
+ 
+ ## Εργασία Ανάπτυξης (Παραδοτέο2)
+ 
+ #### Εκτελέσιμο link: https://leuteris99.github.io/D3js-US-educational-attainment/ (Ζητούμενα 1 και 2)
+ #### https://leuteris99.github.io/D3-Charts/ (Ζητούμενο 3)
+ 
+ #### link Προς κώδικα: https://github.com/leuteris99/D3js-US-educational-attainment/tree/paradoteoB (Ζητούμενα 1 και 2)(Branch: paradoteoB)
+ #### https://github.com/leuteris99/D3-Charts (Ζητούμενο 3)
+
+ 
+ ### Ζητούμενα που ολοκληρώθηκαν:
+ - [x]  **Τροποποιήστε** τον **κώδικα** και το **μενού** της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές **μόνο ένα** από τα 3       γραφήματα, **παραμένοντας** πάντα στη σελίδα **index.html**.
+ - [x]  **Αντικαταστήστε** το κάθε ένα από τα 3 γραφήματα με κάποιο άλλο διαδραστικό γράφημα της **D3js**.
+ ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/new_chart_1.png)
+ ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/new_chart_2.png)
+ ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/new_chart_3.png)
+ - [x]  Σε μια καινούργια σελίδα, να τοποθετήσετε αντίστοιχα 3 **νέα** διαδραστικά γραφήματα **D3js** της επιλογής σας, τα οποία θα       οπτικοποιούν **καινούργια** στατιστικά **δεδομένα** που θα βρείτε από κάποια επίσημη στατιστική αρχή.
+ ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/gdp-gr.png)
+ ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/unemployment-gr.png)
+ ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/gdp-eu.png)
  
  ## Εργασία Περιεχομένου (Παραδοτέο1)
  
