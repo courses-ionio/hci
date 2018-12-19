@@ -87,3 +87,8 @@
       
 - [x] Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι 
      ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων (π.χ. Bootstrap).
+
+## Παραδοτέο 2
+
+#### [Εκτελέσιμο link](https://vafakos.github.io/D3js-US-educational-attainment/ '[Εκτελέσιμο link')
+#### [Προφίλ στο github](https://github.com/Vafakos 'Προφίλ στο github')
