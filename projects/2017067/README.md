@@ -67,4 +67,10 @@
 
 Τροποποίησα τον κώδικα, έτσι ώστε κάθε στιγμή να είναι εμφανές στο χρήστη μόνο ένα απο τα τρία γραφήματα.
 
+## Final Report
+ 
+#### Link - repository Final Report: https://github.com/anthikape/FINAL-REPORT
+
+#### Link - Final Report: https://anthikape.github.io/FINAL-REPORT/
+
 
