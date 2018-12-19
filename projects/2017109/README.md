@@ -2,8 +2,11 @@
   ## Εργασία Ανάπτυξης: Οπτικοποίηση δεδομένων εκπαιδευτικού συστήματος (USA)
   ### Ονοματεπώνυμο : Κοτρώτσιος Χρήστος 
   ### Αριθμός Μητρώου : Π2017109
-  #### Εκτελέσιμο link https://chriskotrotsios.github.io/D3js-US-educational-attainment/
-  #### Link Αποθετηρίου https://github.com/chriskotrotsios/D3js-US-educational-attainment/tree/gh-pages
+  ## [Link Τελικής Αναφοράς](https://chriskotrotsios.github.io/HCI-Report/)
+  ### [Link Αποθετηρίου Τελικής Αναφοράς](https://github.com/chriskotrotsios/HCI-Report)
+  #### [Εκτελέσιμο link](https://chriskotrotsios.github.io/D3js-US-educational-attainment/)
+  #### [Link Αποθετηρίου](https://github.com/chriskotrotsios/D3js-US-educational-attainment/tree/gh-pages)
+  #### [Προφίλ στο GitHub](https://github.com/chriskotrotsios)
   ## 1ο Παραδοτέο
   ### Ζητούμενα :
 - Άλλαξα τα χρώματα στα 3 γραφήματα , εφαρμόζοντας αλλαγές στα 3 javascript αρχεία που υπήρχαν.
