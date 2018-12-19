@@ -64,3 +64,16 @@ Link διαδραστικού παραδείγματος 2: https://p17kara.gith
 Link στο codepen 1: https://codepen.io/p17kara/pen/yQqezK
 
 Link στο codepen 2: https://codepen.io/p17kara/pen/VVBvNR
+
+
+#Εργασία Ανάπτυξης
+
+#Παραδοτέο Β
+
+##Link αποθετηρίου: https://github.com/p17kara/D3js-US-educational-attainment
+
+##Link στο εκτελέσιμο: https://p17kara.github.io/D3js-US-educational-attainment/
+
+##Link αποθετηρίου αναφοράς: https://github.com/p17kara/HCI-Final-Report
+
+##Link στο εκτελέσιμο: https://p17kara.github.io/HCI-Final-Report/
