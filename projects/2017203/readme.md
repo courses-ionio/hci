@@ -5,7 +5,7 @@
 #### Όνομα: Ανδρέας
 #### Επώνυμο: Καγκελάρης
 ##
-## Εργασία ανάπτυξης: Παραδοτέο 1 
+## Εργασία ανάπτυξης 
 ##
 #### 1) link στο αποθετήριο του κώδικα:
 https://github.com/p17kagk/D3js-US-educational-attainment
@@ -13,6 +13,8 @@ https://github.com/p17kagk/D3js-US-educational-attainment
 https://github.com/p17kagk/D3js-US-educational-attainment/tree/P2017203
 #### 3) link στο εκτελέσιμο:
 https://p17kagk.github.io/D3js-US-educational-attainment/
+#
+## Παραδοτέο 1:
 #
 #### Εκπλήρωση ζητούμενων πρώτου παραδοτέου:
 ###### [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
@@ -36,6 +38,15 @@ https://p17kagk.github.io/D3js-US-educational-attainment/
 #
 ## Εργασία ανάπτυξης: Παραδοτέο 2
 #
+#### Εκπλήρωση ζητούμενων δεύτερου παραδοτέου:
+###### [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
+
+
+
+
+
+
+
 
 ###### =====================================================================
 #
