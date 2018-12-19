@@ -54,7 +54,7 @@ ____________________________________________________________________________
 # Επίθετο : Σούρλας
 # Αριθμός Μητρώου: Π2016102
 # Eκτελέσιμο link : https://sourlasgiannhs.github.io/D3js-US-educational-attainment/
-# link αποθετηρίου : https://github.com/sourlasgiannhs/D3js-US-educational-attainment
+ link αποθετηρίου : https://github.com/sourlasgiannhs/D3js-US-educational-attainment
 # Ζητούμενα :
 # [X]  Άλλαξα τα χρώματα στα τρία γραφήματα. Για την αλλαγή των χρωμάτων έκανα αλλαγές στα 3 javascript αρχεία που υπήρχαν.
 # [X] Άλλαξα τις διεπαφές στα κουμπιά των γραφημάτων. Για τις διεπαφές στα κουμπιά έκανα αλλαγές στο αρχείο style.css στα μέλη απο το .radio-toolbar label και radio-toolbar input
