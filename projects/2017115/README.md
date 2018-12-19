@@ -68,8 +68,8 @@
  
 # Παραδοτέο 2
 
-#### [Link αποθετηρίου κώδικα]: https://github.com/eftichiafarmaki/D3js-US-educational-attainment/tree/gh-pages
-#### [Link στο εκτελέσιμο]: https://eftichiafarmaki.github.io/D3js-US-educational-attainment/
+#### [Link αποθετηρίου κώδικα]: https://github.com/p17kalo1/D3js-US-educational-attainment/tree/gh-pages
+#### [Link στο εκτελέσιμο]: https://p17kalo1.github.io/D3js-US-educational-attainment/
 
 [x] Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html. (Για την εμφάνιση-απόκρυψη του κάθε γραφήματος έγινε χρήση μιας συνάρτησης javascript η οποία εντάχθηκε στο html αρχείο) 
 
@@ -86,4 +86,4 @@
 ![Screenshot](image8.png)
 ![Screenshot](image9.png)
 
-## ΛΙΝΚ ΑΠΟΘΕΤΗΡΙΟΥ ΤΕΛΙΚΗΣ ΑΝΑΦΟΡΑΣ : https://github.com/eftichiafarmaki/HCI-FinalReport
+## ΛΙΝΚ ΑΠΟΘΕΤΗΡΙΟΥ ΤΕΛΙΚΗΣ ΑΝΑΦΟΡΑΣ : https://github.com/p17kalo1/hcireport
