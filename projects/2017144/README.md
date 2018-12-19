@@ -64,5 +64,10 @@ v)Η βιβλιοθήκη του Bootstrap με σκοπό η σελίδα να 
 
 <scriρt src="https://stackpath.bootstrapcdn.com/.../bootstrap.min.js"...></script>
 
+## Παραδοτέο 2
 
+
+#### [Λινκ αποθετηρίου εργασίας](https://github.com/akontinis/D3js-US-educational-attainment 'Λινκ αποθετηρίου εργασίας')
+
+#### [Λινκ εκτελεσίμου τελικης αναφοράς](https://akontinis.github.io/hci-Final-Report/ 'Λινκ αποθετηριου τελικης αναφοράς')
 
