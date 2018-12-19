@@ -77,5 +77,6 @@ https://p17kagk.github.io/D3js-US-educational-attainment/
 #### Sign Up/Login Form: https://p17kagk.github.io/gr/remix/Sign-Up-Login-Form/
 #
 
-
+### Link repository - Final report: https://github.com/p17kagk/Final-Report
+### Link Final Report: https://p17kagk.github.io/Final-Report/
 
