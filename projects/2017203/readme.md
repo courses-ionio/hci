@@ -13,9 +13,9 @@ https://github.com/p17kagk/D3js-US-educational-attainment
 https://github.com/p17kagk/D3js-US-educational-attainment/tree/P2017203
 #### 3) link στο εκτελέσιμο:
 https://p17kagk.github.io/D3js-US-educational-attainment/
-#
+##
 ## Παραδοτέο 1:
-#
+##
 #### Εκπλήρωση ζητούμενων πρώτου παραδοτέου:
 ###### [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
 ######
@@ -39,7 +39,7 @@ https://p17kagk.github.io/D3js-US-educational-attainment/
 ## Εργασία ανάπτυξης: Παραδοτέο 2
 #
 #### Εκπλήρωση ζητούμενων δεύτερου παραδοτέου:
-###### [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
+###### [x] Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.
 
 
 
