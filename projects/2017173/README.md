@@ -68,3 +68,35 @@ https://xaralambos12.github.io/gr/gallery/teamwork/
 
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
 
+### Παραδοτέο 2
+
+#### [Link αποθετηρίου κώδικα]: https://github.com/Xaralambos12/D3js-US-educational-attainment/
+
+#### [Link στο εκτελέσιμο]: https://xaralambos12.github.io/D3js-US-educational-attainment/index2.html
+
+### Εκπλήρωση ζητούμενων 2ου παραδοτέου
+ 
+[x] Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.
+ 
+[] Αντικαταστήστε το κάθε ένα από τα 3 γραφήματα με κάποιο άλλο διαδραστικό γράφημα της D3js.
+  
+[x]  Σε μια καινούργια σελίδα, να τοποθετήσετε αντίστοιχα 3 νέα διαδραστικά γραφήματα D3js της επιλογής σας, τα οποία θα οπτικοποιούν καινούργια στατιστικά δεδομένα που θα βρείτε από κάποια επίσημη στατιστική αρχή (π.χ. ΕΛΣΤΑΤ, Eurostat κ.λπ.).
+
+### Τεκμηρίωση ζητουμένων πρώτου παραδοτέου
+Α) Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.
+![Screenshot](ss2.png)
+![Screenshot](ss4.png)
+
+Γ) Δείτε το εκτελέσιμο στο https://xaralambos12.github.io/D3js-US-educational-attainment/index2.html
+![Screenshot](ss5.png)
+![Screenshot](ss1.png)
+![Screenshot](ss3.png)
+## ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ
+
+Link : https://xaralambos12.github.io/SW_REPORT/
+
+Αποθετήριο : https://github.com/Xaralambos12/SW_REPORT
+
+
+
+
