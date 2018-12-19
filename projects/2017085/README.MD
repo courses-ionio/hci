@@ -9,6 +9,12 @@
 ##  Αριθμός Μητρώου: Π201785
 ## Eκτελέσιμο link : https://lazarospapanikolaou.github.io/D3js-US-educational-attainment/
 ## link αποθετηρίου : https://github.com/lazarospapanikolaou/D3js-US-educational-attainment
+## Παραδοτέο 2
+## Όνομα : Λάζαρος
+## Επίθετο : Παπανικολάου
+##  Αριθμός Μητρώου: Π201785
+## Eκτελέσιμο link : https://lazarospapanikolaou.github.io/D3js-US-educational-attainment/
+## link αποθετηρίου : https://github.com/lazarospapanikolaou/D3js-US-educational-attainment
 Ζητούμενα :
 ## [X] Άλλαξα τα χρώματα στα τρία γραφήματα. Για την αλλαγή των χρωμάτων έκανα αλλαγές στα 3 javascript αρχεία που υπήρχαν.
 ## [X] Άλλαξα τις διεπαφές στα κουμπιά των γραφημάτων. Για τις διεπαφές στα κουμπιά έκανα αλλαγές στο αρχείο style.css στα μέλη απο το .radio-toolbar label και radio-toolbar input
