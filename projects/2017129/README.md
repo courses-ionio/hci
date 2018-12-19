@@ -338,7 +338,4 @@ link αποθετηρίου: https://github.com/chrikri/gr
    - https://chrikri.github.io/gr/remix/password-input/
    
    
-   ## Τελική αναφορά
-Αποθετήριο τελικής αναφοράς :https://github.com/chrikri/FinalReportHCI
-
-link τελικής αναφοράς : https://chrikri.github.io/FinalReportHCI/
+   
