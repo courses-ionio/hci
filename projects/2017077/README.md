@@ -45,6 +45,19 @@
 ## Τα links των διαδραστικών παραδειγμάτων 
  ### programming languages : https://chriskalo.github.io/gr/remix/programming-languages/
  ### programming simulator : https://chriskalo.github.io/gr/remix/programming-simulator/
+ 
+## Όνομα εργασίας : Εργασία Ανάπτυξης Δεύτερο Παραδοτέο και Τελική Αναφορά
+### Όνομα : Χριστόδουλος
+### Επίθετο : Καλογιάννης
+### Αριθμός Μητρώου: Π2017077
+## Τα Link της εργασίας 
+## Eκτελέσιμο linκ εργασίας : https://chriskalo.github.io/D3js-US-educational-attainment/
+## link αποθετηρίου εργασίας : https://github.com/chriskalo/D3js-US-educational-attainment
+## Τα Link της τελικής αναφοράς 
+## Eκτελέσιμο linκ της αναφοράς : https://chriskalo.github.io/HCI-Final-Report/
+## link αποθετηρίου της αναφοράς : https://github.com/chriskalo/HCI-Final-Report
+
+
 
   
  
