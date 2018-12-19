@@ -57,3 +57,27 @@
 
 Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
 
+## Παραδοτέο 2
+
+#### [Αποθετήριο κώδικα 1ου μέρους]( https://github.com/p13gian1/D3js-US-educational-attainment)
+#### [Σύνδεσμος εκτελέσιμου  1ου μέρους ]( https://p13gian1.github.io/D3js-US-educational-attainment/)
+
+#### [Αποθετήριο κώδικα 2ου μέρους](https://github.com/p13gian1/D3js-US-educational-attainment-part2)
+#### [Σύνδεσμος εκτελέσιμου  2ου μέρους](https://p13gian1.github.io/D3js-US-educational-attainment-part2/)
+
+#### [Αποθετήριο κώδικα 3ου μέρους](https://github.com/p13gian1/D3js-US-educational-attainment-part3)
+#### [Σύνδεσμος εκτελέσιμου  3ου μέρους ]( https://p13gian1.github.io/D3js-US-educational-attainment-part3/)
+
+### Εκπλήρωση ζητούμενων δεύτερου παραδοτέου
+
+[x] Τροποποίησα τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html.
+
+[x] Αντικατέστησα το κάθε ένα από τα 3 γραφήματα με κάποιο άλλο διαδραστικό γράφημα της D3js.
+
+[x] Σε μια καινούργια σελίδα, τοποθέτησα αντίστοιχα 3 νέα διαδραστικά γραφήματα D3js της επιλογής μου, τα οποία οπτικοποιούν καινούργια στατιστικά δεδομένα από κάποια επίσημη στατιστική αρχή. (UNdata) 
+
+## Τελική Αναφορά
+
+#### [Αποθετήριο τελικής αναφοράς](https://github.com/p13gian1/Final-Report-HCI)
+#### [Σύνδεσμος τελικής αναφοράς README.md](https://github.com/p13gian1/Final-Report-HCI/blob/master/README.md)
+
