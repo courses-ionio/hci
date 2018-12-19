@@ -282,4 +282,5 @@ link αποθετηρίου: https://github.com/chrikri/gr
    
    
    ## Τελική αναφορά
-link προς την τελική αναφορά :https://github.com/chrikri/FinalReportHCI
+Αποθετήριο τελικής αναφοράς :https://github.com/chrikri/FinalReportHCI
+link τελικής αναφοράς : https://chrikri.github.io/FinalReportHCI/
