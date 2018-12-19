@@ -92,3 +92,19 @@ https://github.com/eleftherioseleftheriadis/CV-Eleftherios-Eleftheriadis/blob/ma
 
 YAML CODE
 https://github.com/eleftherioseleftheriadis/CV-Eleftherios-Eleftheriadis/blob/master/details.yml
+
+ΕΡΓΑΣΙΑ ΑΝΑΠΤΥΞΗΣ
+
+ΠΑΡΑΔΟΤΕΟ Β
+
+LINK ΑΠΟΘΕΤΗΡΙΟΥ ΕΡΓΑΣΙΑΣ
+https://github.com/eleftherioseleftheriadis/D3js-US-educational-attainment
+
+LINK ΕΚΤΕΛΕΣΙΜΟΥ
+https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
+
+LINK AΠΟΘΕΤΗΡΙΟΥ ΑΝΑΦΟΡΑΣ
+https://github.com/eleftherioseleftheriadis/hci-finalreport
+
+LINK ΕΚΤΕΛΕΣΙΜΟΥ
+https://eleftherioseleftheriadis.github.io/hci-finalreport/
