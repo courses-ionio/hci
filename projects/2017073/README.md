@@ -22,3 +22,4 @@ Link στο εκτελέσιμο: https://stasmlt.github.io/D3js-US-educational-
 
 Εφάρμοσα responsive design στη σελίδα (Bootstrap) και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων.
 
+Παραδοτέο 2 
