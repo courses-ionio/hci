@@ -45,3 +45,17 @@ https://p17four.github.io/gr/gallery/smartphone/
  [x] Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας ή περιοχή που περιλαμβάνει γραπτή πληροφορία, ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).
  
  [x] Εφάρμοσα responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων.
+ 
+ 
+## Όνομα εργασίας : Εργασία Ανάπτυξης Δεύτερο Παραδοτέο και Τελική Αναφορά
+Όνομα : Γεώργιος 
+Επίθετο : Φουρνάρης
+Αριθμός Μητρώου: Π2017158 
+ 
+##Τα Link της εργασίας
+Eκτελέσιμο linκ εργασίας : https://p17four.github.io/D3js-US-educational-attainment/
+link αποθετηρίου εργασίας : https://github.com/p17four/D3js-US-educational-attainment
+
+##Τα Link της τελικής αναφοράς
+Eκτελέσιμο linκ της αναφοράς : https://p17four.github.io/hci-final-report
+link αποθετηρίου της αναφοράς : https://github.com/p17four/hci-final-report
