@@ -64,3 +64,26 @@
 ![Screenshot](image3.png)
 Γ & Δ & Ε) Δείτε το εκτελέσιμο στο https://p17kalo1.github.io/D3js-US-educational-attainment/
  Για την μετατροπή text to speech χρησιμοποίησα το responsivevoice.js.
+ 
+ 
+# Παραδοτέο 2
+
+#### [Link αποθετηρίου κώδικα]: https://github.com/eftichiafarmaki/D3js-US-educational-attainment/tree/gh-pages
+#### [Link στο εκτελέσιμο]: https://eftichiafarmaki.github.io/D3js-US-educational-attainment/
+
+[x] Τροποποιήστε τον κώδικα και το μενού της εφαρμογής έτσι ώστε κάθε στιγμή να είναι εμφανές μόνο ένα από τα 3 γραφήματα, παραμένοντας πάντα στη σελίδα index.html. (Για την εμφάνιση-απόκρυψη του κάθε γραφήματος έγινε χρήση μιας συνάρτησης javascript η οποία εντάχθηκε στο html αρχείο) 
+
+![Screenshot](image4.png)
+![Screenshot](image5.png)
+![Screenshot](image6.png)
+
+
+[x] Αντικαταστήστε το κάθε ένα από τα 3 γραφήματα με κάποιο άλλο διαδραστικό γράφημα της D3js.
+
+[x] Σε μια καινούργια σελίδα, να τοποθετήσετε αντίστοιχα 3 νέα διαδραστικά γραφήματα D3js της επιλογής σας, τα οποία θα οπτικοποιούν καινούργια στατιστικά δεδομένα που θα βρείτε από κάποια επίσημη στατιστική αρχή (π.χ. ΕΛΣΤΑΤ, Eurostat κ.λπ.).
+(Δεν μπορεσα να το κανω με το d3. Απο το να μην το παραδοσω το εκανα χρησιμοποιωντας τα google charts.)
+![Screenshot](image7.png)
+![Screenshot](image8.png)
+![Screenshot](image9.png)
+
+## ΛΙΝΚ ΑΠΟΘΕΤΗΡΙΟΥ ΤΕΛΙΚΗΣ ΑΝΑΦΟΡΑΣ : https://github.com/eftichiafarmaki/HCI-FinalReport
