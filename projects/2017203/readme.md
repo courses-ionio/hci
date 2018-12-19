@@ -48,6 +48,9 @@ https://p17kagk.github.io/D3js-US-educational-attainment/
 ###### Σημ1: Το 2ο διάγραμμα χρησιμοποιεί script που ο Chromium αναγνωρίζει σαν "μη ασφαλες". Πρέπει να του επιτραπεί η λειτουργία για να εμφανιστεί. Στον Firefox παίζει κανονικά. 
 ###### Σημ2: Μετά την ολοκλήρωση του πρώτου βήματος, η εργασία υλοποιήθησε σε local server, ώστε να μπορώ να βλέπω τις αλλαγές που κάνω άμεσα. Στην συνέχεια το μετέφερα στο περιβάλλον του Github. Για τον λόγο αυτό όλο το 2 βήμα φάινεται να έχει υλοποιηθεί με ένα μόνο commit.
 #
+#### Link repository - Final report: https://github.com/p17kagk/Final-Report
+#### Link Final Report: https://p17kagk.github.io/Final-Report/
+
 ###### =====================================================================
 #
 ## Στοιχεία:
@@ -77,6 +80,4 @@ https://p17kagk.github.io/D3js-US-educational-attainment/
 #### Sign Up/Login Form: https://p17kagk.github.io/gr/remix/Sign-Up-Login-Form/
 #
 
-### Link repository - Final report: https://github.com/p17kagk/Final-Report
-### Link Final Report: https://p17kagk.github.io/Final-Report/
 
