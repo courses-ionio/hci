@@ -98,4 +98,10 @@
 
 ![Screenshot](newimage2.png)
 
+## Final Report
+ 
+#### Link - repository Final Report: https://github.com/fsofronia/Final-Report
+
+#### Link - Final Report: https://fsofronia.github.io/Final-Report/ 
+
 
