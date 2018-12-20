@@ -6,7 +6,7 @@
 ### [Εκτελέσιμο link](https://chris4dim.github.io/D3js-US-educational-attainment/ '[Εκτελέσιμο link')
 ### [Προφίλ στο github](https://github.com/chris4dim 'Προφίλ στο github')
 ### Αποθετήριο κώδικα παραδοτέου: https://github.com/chris4dim/D3js-US-educational-attainment
-### [FINAL REPORT](https://chris4dim.github.io/HCL-FINAL-REPORT/'FINAL REPORT')
+### [FINAL REPORT](https://chris4dim.github.io/HCL-FINAL-REPORT/ '[FINAL REPORT')
 ### Τρία νέα γραφήματα: [3newcharts](https://chris4dim.github.io/3newcharts/ '[3newcharts')
 
  
@@ -56,7 +56,7 @@
 ### [Εκτελέσιμο link](https://chris4dim.github.io/D3js-US-educational-attainment/ '[Εκτελέσιμο link')
 ### [Προφίλ στο github](https://github.com/chris4dim 'Προφίλ στο github')
 ### Αποθετήριο κώδικα παραδοτέου: https://github.com/chris4dim/D3js-US-educational-attainment
-### [FINAL REPORT](https://chris4dim.github.io/HCL-FINAL-REPORT/'FINAL REPORT')
+### [FINAL REPORT](https://chris4dim.github.io/HCL-FINAL-REPORT/ '[FINAL REPORT')
 ### Τρία νέα γραφήματα: [3newcharts](https://chris4dim.github.io/3newcharts/ '[3newcharts')
 
 
