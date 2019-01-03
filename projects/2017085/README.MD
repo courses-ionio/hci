@@ -29,9 +29,19 @@
 ## Παραδοτέο 2
 ## Όνομα : Λάζαρος
 ## Επίθετο : Παπανικολάου
-##  Αριθμός Μητρώου: Π201785
+## Αριθμός Μητρώου: Π201785
 ## Σύνδεσμοι διαδραστικών παραδειγμάτων
 ## old-dvd
 ## https://lazarospapanikolaou.github.io/gr/remix/old-dvd/
 ## sigh_up for free
 ## https://lazarospapanikolaou.github.io/gr/remix/sigh_up%20for%20free/
+## Παραδοτέο 3
+## Όνομα : Λάζαρος
+## Επίθετο : Παπανικολάου
+## Αριθμός Μητρώου: Π201785
+## Βιογραφία :  (1) https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_biography/bio-%20ElonMask.md 
+##              (2) https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_biography/elon-ElonMask.md
+## Μελέτη περίπτωσης : (1) https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_case-study/cs-youtube.md
+##                     (2) https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_case-study/youtube.md
+## https://lazarospapanikolaou.github.io/gr
+
