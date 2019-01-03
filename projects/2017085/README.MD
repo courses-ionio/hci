@@ -43,5 +43,5 @@
 ##              (2) https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_biography/elon-ElonMask.md
 ## Μελέτη περίπτωσης : (1) https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_case-study/cs-youtube.md
 ##                     (2) https://github.com/lazarospapanikolaou/gr/blob/gh-pages/_case-study/youtube.md
-## https://lazarospapanikolaou.github.io/gr
+##  link : https://lazarospapanikolaou.github.io/gr
 
