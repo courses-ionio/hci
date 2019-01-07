@@ -13,6 +13,10 @@
 
 2ο Διαδραστικό παράδειγμα : https://p17papa4.github.io/gr/remix/Book/
 
+### Παραδοτέο Γ
+
+Βιογραφία : https://p17papa4.github.io/gr/biography/bill-gates/
+
 Σελίδα github-pages : https://p17papa4.github.io/gr/
 
 Αποθετήριο : https://github.com/p17papa4/gr
