@@ -94,5 +94,6 @@ Scroll animation:
 * [Σελίδα στο fork του βιβλίου](https://p15poly.github.io/gr/remix/scroll-animation/) (GitHub Pages)
 * [Κώδικας στο CodePen](https://codepen.io/vapoly/pen/rQKadb)
 
-### Παραδοτέο Γ:
-...
+### Παραδοτέο Γ, "Μία νέα βιογραφία":
+Πρόσθεσα μια σύντομη βιογραφία του Myron Krueger.  
+* [Αλλαγές στο αποθετήριο](https://github.com/p15poly/gr/commits/gh-pages)
