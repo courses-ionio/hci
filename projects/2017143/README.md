@@ -64,3 +64,9 @@
  Παραδείγματα:
 1. Ripple-button (https://leuteris99.github.io/gr/remix/ripple-button/)
 2. Right-click-menu (https://leuteris99.github.io/gr/remix/right-click-menu/)
+
+## Εργασία Περιεχομένου (Παραδοτέο3)
+
+Μελέτη περίπτωσης:
+1. Touch Screen (https://github.com/leuteris99/gr/blob/gh-pages/_case-study/cs-touchscreen.md)
+    (https://github.com/leuteris99/gr/blob/gh-pages/_case-study/touchscreen.md)
