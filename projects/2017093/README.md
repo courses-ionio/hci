@@ -61,7 +61,7 @@
 
 #### Παραδοτέο Γ
 
-Βιογραφία : https://mibook.org/gr/biography/steve-jobs/
+Βιογραφία : https://athangriv.github.io/gr/biography/steve-jobs/
 
 
 Σελίδα github pages : https://athangriv.github.io/gr/
