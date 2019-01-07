@@ -59,6 +59,11 @@
 
 2ο διαδραστικό παράδειγμα : https://athangriv.github.io/gr/remix/flip-card/
 
+#### Παραδοτέο Γ
+
+Βιογραφία : https://mibook.org/gr/biography/steve-jobs/
+
+
 Σελίδα github pages : https://athangriv.github.io/gr/
 
 Αποθετήριο : https://github.com/AthanGriv/gr
