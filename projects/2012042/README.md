@@ -20,6 +20,7 @@
 ### Αριθμός Μητρώου: Π2012042
 ## Εργασία Ανάπτυξης: Οπτικοποίηση Δεδομένων
 
+
 #### 1) link στο αποθετήριο του κώδικα:
 https://github.com/p12farm/D3js-US-educational-attainment
 #### 2) link στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
@@ -54,3 +55,9 @@ link αποθετηρίου: https://github.com/p12farm/gr
     
 #### - React Calculator
    - https://p12farm.github.io/gr/remix/React%20Calculator/
+   
+  ## Τελική αναφορά
+  
+#### link τελικής αναφοράς: https://p12farm.github.io/Final-Report/
+
+#### Αποθετήριο τελικής αναφοράς: https://github.com/p12farm/Final-Report
