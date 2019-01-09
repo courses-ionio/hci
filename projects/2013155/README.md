@@ -41,3 +41,6 @@
 #### Apple Logo CSS: https://p13xant.github.io/gr/remix/Apple%20Logo%20CSS/
 #### Technologies: https://p13xant.github.io/gr/remix/Technologies/
 #
+## Τελική αναφορά οπτικοποίησης Δεδομένων
+### link τελικής αναφοράς : https://p13xant.github.io/final-report/
+### Αποθετήριο τελικής αναφοράς : https://github.com/p13xant/final-report
