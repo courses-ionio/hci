@@ -57,3 +57,5 @@ link αποθετηρίου: https://github.com/p12farm/gr
    - https://p12farm.github.io/gr/remix/React%20Calculator/
    
   ## Τελική αναφορά
+link τελικής αναφοράς: https://p12farm.github.io/Final-Report/
+Αποθετήριο τελικής αναφοράς: https://github.com/p12farm/Final-Report
