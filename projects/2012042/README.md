@@ -56,8 +56,16 @@ link αποθετηρίου: https://github.com/p12farm/gr
 #### - React Calculator
    - https://p12farm.github.io/gr/remix/React%20Calculator/
    
-  ## Τελική αναφορά
+  ## Οπτικοποίηση Δεδομένων
+  ## Τελικό έργο και τελική αναφορά
   
 #### link τελικής αναφοράς: https://p12farm.github.io/Final-Report/
 
 #### Αποθετήριο τελικής αναφοράς: https://github.com/p12farm/Final-Report
+
+## Εργασία Περιεχομένου: Βιογραφία
+### link αποθετηρίου κώδικα: https://github.com/p12farm/gr
+### link στο εκτελέσιμο: https://p12farm.github.io/gr/
+### Βιογραφία: https://p12farm.github.io/gr/biography/Jeff-Bezos/
+
+
