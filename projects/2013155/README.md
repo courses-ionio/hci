@@ -44,3 +44,10 @@
 ## Τελική αναφορά οπτικοποίησης Δεδομένων
 ### link τελικής αναφοράς : https://p13xant.github.io/final-report/
 ### Αποθετήριο τελικής αναφοράς : https://github.com/p13xant/final-report
+
+## Εργασία Περιεχομένου
+## Βιογραφία
+### link αποθετηρίου κώδικα: https://github.com/p13xant/gr
+### link στο εκτελέσιμο: https://p13xant.github.io/gr/
+### Βιογραφία: https://p13xant.github.io/gr/biography/Tim_Cook/
+
