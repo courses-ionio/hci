@@ -20,9 +20,19 @@
 
 #### Link with my Code : https://github.com/p17nouv/gr
 
+
 ## Εργασία Ανάπτυξης
   
   ## Παραδοτέο πρώτο
   
 #### Link with my Code : https://github.com/p17nouv/D3js-US-educational-attainment 
 #### My page Link : https://p17nouv.github.io/D3js-US-educational-attainment/
+
+
+#### *Εργασία Περιεχομένου*
+
+#### Η Βιογραφία μου :
+  Thomas Edison : https://p17nouv.github.io/gr/biography/tomas-edison/#
+#### My page link : 
+1. https://github.com/p17nouv/gr/blob/gh-pages/_biography/bio-edison.md
+2. https://github.com/p17nouv/gr/blob/gh-pages/_biography/tomas-edison.md
