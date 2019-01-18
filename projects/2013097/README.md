@@ -44,7 +44,7 @@ https://github.com/kikh/gr
 #### link 4ης εικόνας: https://kikh.github.io/gr/gallery/esp8266/
 #### link 5ης εικόνας: https://kikh.github.io/gr/gallery/pacman/
 
-## Παραδοτέο B
+## Παραδοτέο Γ2
 ## Βιογραφία
 https://kikh.github.io/gr/biography/elon-musk/
 
