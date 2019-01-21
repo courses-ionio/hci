@@ -32,7 +32,7 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
 
 * **2ο Ζητούμενο - Αντικαταστήστε τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος με άλλες της επιλογής σας.** 
 
-Όλεςαυτές οι αλλαγές έγιναν στο CSS αρχείο "style.css" (assets/stylesheets/style.css).
+Όλες οι αλλαγές έγιναν στο CSS αρχείο "style.css" (assets/stylesheets/style.css).
 Για την αλλαγή της όψης των κουμπιών χρειάστηκε να τροποποιηθούν οι δύο τιμές των χρωμάτων (επιλεγμένο/μη επιλεγμένο κουμπί):
 ```
      .radio-toolbar label {
@@ -104,7 +104,7 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
      $(document).ready(function(){
      $("h1, h2, label").mouseenter(function(){
 		responsiveVoice.cancel(); 
-  		responsiveVoice.speak($(this).text(), 'UK English Male');
+  		responsiveVoice.speak($(this).text(), 'UK English Female');
      });
      $("h1, h2, label").mouseleave(function(){
         responsiveVoice.cancel();
@@ -115,7 +115,14 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
  
 * **5ο Ζητούμενο - Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων (π.χ. Bootstrap).**
 
- Στη συνέχεια, πρόσθεσα τον παρακάτω κώδικα στο αρχείο **index.html**, ώστε το **menu** της ιστοσελίδας να προσαρμόζεται σωστά σε μικρότερες συσκευές:
+ Χρησιμοποίησα τη βιβλιοθήκη Bootstrap για να εφαρμόσω responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων. Αρχικά, πρόσθεσα αυτές τι γραμμές κώδικα στο πάνω μέρος του αρχείου **index.html** :
+ ```
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" 							integrity="sha384ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+ ```
+ 
+ Στη συνέχεια, πρόσθεσα τον παρακάτω κώδικα στο αρχείο **index.html**, ώστε το **menu** της ιστοσελίδας να προσαρμόζεται σωστά σε μικρότερες συσκευές ( με στυλ "sandwitch" (collapse plugin)):
  
    ```
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
@@ -138,8 +145,7 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
     </nav>
   ```
 
-   Τέλος, πρόσθεσα τις παρακάτω γραμμές κώδικα στο αρχείο style.css(αντικαθιστώντας τα με τα αντίστοιχα _nav tags_ που υπήρχαν πριν), δημιουργώντας μικρές αλλαγές, αλλά και για να δουλεύει σωστά 
-το **menu** σε μικρότερες οθόνες.
+   Τέλος, πρόσθεσα τις παρακάτω γραμμές κώδικα στο αρχείο style.css(αντικαθιστώντας τα με τα αντίστοιχα _nav tags_ που υπήρχαν πριν), δημιουργώντας μικρές αλλαγές, αλλά και για να δουλεύει σωστά το **menu** σε μικρότερες οθόνες.
 
   ```
   .navbar {
@@ -185,7 +191,8 @@ link αποθετηρίου: https://github.com/chrikri/D3js-US-educational-atta
  	 id="tittlenation"
  ``` 
 
-   και μετά τις συναρτήσεις μέσα σε _script tag_:
+   και μετά τις συναρτήσεις μέσα σε _script tag_ (όπου κάθε φορά ανάλογα με την συνάρτηση που θα καλείται θα εμφανίζονται τα γραφήματα με τον τίτλο τους που έχουν την 'τιμή' "block" ενώ αυτά που έχουν την τιμή "none" δεν θα εμφανίζονται.:
+   
    ```
    <script>
 	function firstscript() {
