@@ -63,4 +63,11 @@
 
 A) Διαδραστικό παράδειγμα Tic Tac Toe : https://p17rant.github.io/gr/remix/TicTacToe/
 
-Β) Διαδραστικό Παράδειγμα Tearable Cloth : https://p17rant.github.io/gr/remix/TearableCloth/
+Β) Διαδραστικό Παράδειγμα Tearable Cloth : https://p17rant.github.io/gr/remix/TearableCloth
+
+## Τελική Αναφορά
+
+*Σύνδεσμος  README
+    *https://github.com/P17rant/hci-Final-Report/blob/master/README.md
+*Συνδεσμός site 
+    *https://p13xant.github.io/final-report/
