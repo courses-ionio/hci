@@ -28,11 +28,11 @@ ___
  ##### Σύνδεσμος εκτελέσιμου αρχείου: [εκτέλεση](https://vasilischarisis.github.io/D3js-US-educational-attainment/)
  
  #### ΖΗΤΟΥΜΕΝΑ
- ![ScreenShot](second.png)
+ ![ScreenShot](mid.png)
  * [X] Τροποποίηση των 3 γραφημάτων και παραμονή στην ίδια την index.html
  * [X] Αντικατάσταση με D3js
  * [X] ADD 3 νέα γραφήματα
- ![ScreenShot](extra.png)
+ ![ScreenShot](last.png)
 
 ## ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ
 
