@@ -11,6 +11,8 @@ ___
 ##### Αποθετήριο κώδικα παραδοτέου: [αποθετήριο](https://github.com/VasilisCharisis/D3js-US-educational-attainment/tree/master)
 ##### Σύνδεσμος εκτελέσιμου αρχείου: [εκτέλεση](https://vasilischarisis.github.io/D3js-US-educational-attainment/)
 
+
+![ScreenShot](main.pnj)
 #### ΖΗΤΟΥΜΕΝΑ
 * [X] Αλλαγή στα χρώματα των 3 γραφηάτων
 * [X] Αντικατάσταση των κουμπιών στα γραφήματα
