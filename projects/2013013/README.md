@@ -12,7 +12,7 @@ ___
 ##### Σύνδεσμος εκτελέσιμου αρχείου: [εκτέλεση](https://vasilischarisis.github.io/D3js-US-educational-attainment/)
 
 
-![ScreenShot](main.pnj)
+![ScreenShot](main.png)
 #### ΖΗΤΟΥΜΕΝΑ
 * [X] Αλλαγή στα χρώματα των 3 γραφηάτων
 * [X] Αντικατάσταση των κουμπιών στα γραφήματα
