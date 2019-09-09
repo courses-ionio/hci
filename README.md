@@ -22,6 +22,7 @@
 
 * Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό, Κωνσταντίνος Χωριανόπουλος, ISBN: 9786188242357, ΕΥΔΟΞΟΣ: 68371436 κεφάλαια: 1, 2, 3.
 * [Ο Προγραμματισμός της Διάδρασης](http://mibook.org/gr)
+* [How to learn D3.js](https://wattenberger.com/blog/d3)
 * [User Interface Software Development](http://faculty.washington.edu/ajko/books/uist/)
 * [Software design](http://worrydream.com/MagicInk/)
 
