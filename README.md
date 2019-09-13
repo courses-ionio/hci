@@ -1,6 +1,6 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
-Οι διαθέσιμες [εργασίες](https://courses-ionio.github.io/projects/) είναι αυτές που έχουν τον κωδικό HCI δίπλα στον τίτλο τους
+Οι διαθέσιμες εργασίες είναι αυτές που έχουν τον κωδικό HCI δίπλα στον τίτλο τους.
 
 [Οδηγίες και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/) για την παράδοση της εργασίας.
 
@@ -14,7 +14,7 @@
 
 **Στόχος:** Ο σκοπός του μαθήματος είναι η μελέτη της θεωρίας και η πρακτική εξάσκηση στην σχεδίαση και ανάπτυξη της διάδρασης. Η θεωρία και το project καλύπτουν πολλές διαφορετικές περιοχές εφαρμογών με έμφαση σε επίκαιρες εφαρμογές όπως οι εκπαιδευτικές εφαρμογές, οι ψηφιακές συλλογές, και οι ψυχαγωγικές εφαρμογές.
 
-**Μέθοδος διδασκαλίας:** Διάλεξη, ντέμο, [εργασία](https://courses-ionio.github.io/projects/), [κοινωνικά μέσα](https://courses-ionio.github.io/projects/social/).
+**Μέθοδος διδασκαλίας:** Διάλεξη, ντέμο, [εργασία](https://www.github.com/courses-ionio/projects/), [κοινωνικά μέσα](https://courses-ionio.github.io/projects/social/).
 
 **Συντονιστής συστημάτων τηλε-εκπαίδευσης:** [Μανούσος Καμηλάκης](https://github.com/mkamgit/)
 
@@ -26,6 +26,6 @@
 * [User Interface Software Development](http://faculty.washington.edu/ajko/books/uist/)
 * [Software design](http://worrydream.com/MagicInk/)
 
-**Βαθμολογία:** 50% [project](https://courses-ionio.github.io/projects/), 30% Τελική εξέταση, 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/)
+**Βαθμολογία:** 50% project, 30% Τελική εξέταση, 20% Συμμετοχικό εκπαιδευτικό υλικό
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
