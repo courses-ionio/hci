@@ -1,6 +1,6 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
-Οι διαθέσιμες εργασίες είναι αυτές που έχουν τον κωδικό HCI δίπλα στον τίτλο τους.
+Οι ασκήσεις είναι αυτές που έχουν τον κωδικό HCI
 
 [Οδηγίες και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/) για την παράδοση της εργασίας.
 
@@ -26,6 +26,6 @@
 * [User Interface Software Development](http://faculty.washington.edu/ajko/books/uist/)
 * [Software design](http://worrydream.com/MagicInk/)
 
-**Βαθμολογία:** 60% Τελική εξέταση, 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://www.github.com/courses-ionio/projects/), 20% εργασία ανάπτυξης
+**Βαθμολογία:** 40% Τελική εξέταση, 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://www.github.com/courses-ionio/projects/), 40% [ασκήσεις](https://github.com/courses-ionio/dokey)
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
