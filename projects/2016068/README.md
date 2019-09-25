@@ -2,7 +2,6 @@
 ## Link: https://jlavdos.github.io/D3js-US-educational-attainment/
 ## Link to the repository(master): https://github.com/jlavdos/D3js-US-educational-attainment
   
-### Σύνοψη
 
 
  Αλλάξτε τα χρώματα στα 3 γραφήματα.
