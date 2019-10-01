@@ -4,7 +4,7 @@
 
 Οι ασκήσεις είναι αυτές που έχουν τον κωδικό HCI
 
-[Προθεσμίες και περιεχόμενο για την αναφορά της εργασίας](https://github.com/courses-ionio/help/blob/master/report/index.md)
+[Προθεσμίες και περιεχόμενο για την αναφορά της εργασίας](https://courses-ionio.github.io/help/report/)
 
 [Οδηγίες και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/) για την παράδοση της εργασίας.
 
