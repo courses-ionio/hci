@@ -30,6 +30,8 @@
 * [User Interface Software Development](http://faculty.washington.edu/ajko/books/uist/)
 * [Software design](http://worrydream.com/MagicInk/)
 
-**Βαθμολογία:** 40% Τελική εξέταση, 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://github.com/courses-ionio/projects/blob/master/social/index.md), 40% [4 ασκήσεις](https://github.com/courses-ionio/dokey)
+**Βαθμολογία:** 40% Τελική εξέταση* 20% [Συμμετοχικό εκπαιδευτικό υλικό*](https://github.com/courses-ionio/projects/blob/master/social/index.md), 40% [4 ασκήσεις](https://github.com/courses-ionio/dokey)
+
+*υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
