@@ -33,4 +33,4 @@
 
 ## Τελική Αναφορά
 
-<a href="https://csakou.github.io/HCI_REPORT/" target="_blank">Αναφορά</a>
+[Αναφορά](https://csakou.github.io/HCI_REPORT)
