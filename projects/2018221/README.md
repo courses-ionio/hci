@@ -12,7 +12,7 @@
   https://github.com/p18myro/hci/tree/2018221/projects/2018221
 
 ## link παραδοτέου 1:
- https://asciinema.org/a/tuxM1oGtViXg3deN5PYvjp2Q6
+ https://asciinema.org/a/UjpP36RBVjKO3Zv2qaM2PCodp
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
