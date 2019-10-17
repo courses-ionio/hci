@@ -6,12 +6,9 @@
 ## Εργασία 1
   Αρχικά έγινε εγκτάσταση των εφαρμογών neofetch και του asciinema με την βοήθεια του οποίου γίνεται η εγγραφή ενός αρχείου τύπου .cast και ακολούθος μέσω του ιστιότοπου sciinema.org μας δίνεται το ακόλουθο link.
   
-  ## link αποθετηρίου κώδικα:
-  https://github.com/p18myro/hci
-  
-  ## link σto κλαδί του κώδικα που αντιστοιχεί στο παραδοτέο:
-  https://github.com/p18myro/hci/tree/2018221/projects/2018221
-  ## [Link Παραδοτέου](https://asciinema.org/a/UjpP36RBVjKO3Zv2qaM2PCodp 'Link Παραδοτέου')
+  ### [link αποθετηρίου κώδικα](https://github.com/p18myro/hci'link αποθετηρίου κώδικα')  
+  ### [link σto κλαδί του κώδικα που αντιστοιχεί στο παραδοτέο](https://github.com/p18myro/hci/tree/2018221/projects/2018221'link σto κλαδί του κώδικα που αντιστοιχεί στο παραδοτέο')  
+  ### [Link Παραδοτέου](https://asciinema.org/a/h3G9LSJztWqfEEveGGi15DT8d 'Link Παραδοτέου')
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
