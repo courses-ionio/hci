@@ -62,7 +62,7 @@
   - [Εμφάνιση του shell configuration](https://asciinema.org/a/BDYsrFcinrAwYne5ierhaIFrN):
   Αποφάσισα να δείξω το shell configuration του υπολογιστή μου απλά ανοίγοντας τα αρχεία με τον κειμενογράφο  Vim και να παραθέσω το περιεχόμενο τους.
   
-  -[Εμφάνιση shell configuration με άλλον τρόπο](https://asciinema.org/a/KVCUWNnnfU0iMxumLr778EkFP):
+  - [Εμφάνιση shell configuration με άλλον τρόπο](https://asciinema.org/a/KVCUWNnnfU0iMxumLr778EkFP):
   Ένας δεύτερος τρόπος να δεις το περιεχόμενο ενός αρχείου κειμένου είναι η Unix εντολή "cat path/to/filename".
   
 ### Assignment 2
