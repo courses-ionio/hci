@@ -1,12 +1,12 @@
 # Μάθημα: Επικοινωνία Ανθρώπου Υπολογιστή
 
-### Ονοματεπώνυμο:Χρήστος Μήλιος
+### Ονοματεπώνυμο: Χρήστος Μήλιος
 ### Αριθμός Μητρώου: Π2018219
 
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
 #### [Εκτελέσιμο link](https://p15githubstudent.github.io/D3js-uk-political-donations/ '[Εκτελέσιμο link')
-#### [Προφίλ στο github](https://p15githubstudent.github.io/D3js-uk-political-donations/ 'Προφίλ στο github')
+#### [Προφίλ στο github](https://github.com/p18mili1 'Προφίλ στο github')
 
 ## Παραδοτέο 1
 
