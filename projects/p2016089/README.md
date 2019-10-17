@@ -27,14 +27,35 @@
 
 ## Εργαλεία που χρησιμοποιήθηκαν
 
-  * [Vim](https://vim.org)
-  * [Asciinema](https://asciinema.org): για την λήψη των 
-  *
+  * [Vim](https://vim.org): για την επεξεργασία αρχείων.
+  * [Asciinema](https://asciinema.org): για την λήψη των συνεδριών τερματικού.
+  * [Unix Commands](https://www.wikiwand.com/en/List_of_Unix_commands): για την εύρεση εντολών Unix που υλοποιούν ή βοηθούν στο ζητούενο.
 
 ## Παραδοτέο 1
 
-### Assignment 1
+Αρχικά έπρεπε να κάνουμε το περιβάλλον ανάπτυξης με όλα τα απαραίτητα πακέτα και εργαλεία που θα φανούν χρήσιμα.
+Έπειτα με την χρήση του Asciinema έγινε λήψη των παρακάτω ασκήσεων.
 
+### Assignment 1
+  - [Αλλαγή του ονόματος τερματικού](https://asciinema.org/a/IoIdqQ1eCcnbeEVEGh2Q5tojT)
+  
+  - [Χρήση εργαλείου Neofetch](https://asciinema.org/a/BQgxRBDqA6cyHLprG3hOYTzsp) χωρίς παραμέτρους:
+  Βλέπουμε πως στην απλή μορφή του παραθέτει ήδη αρκετή πληροφορία για το σύστημα που το χρησιμοποιεί.
+  
+  - [Χρήση Neofetch με παραμέτρους](https://asciinema.org/a/DC4mlnu31hAX5p9k4m9OgMXI7):
+  Με επιπλέον παραμέτρους μπορούμε να δούμε πως προσφέρει περισσότερη πληροφορία όπως:
+    * --memory_percent on: για το ποσοστό μνήμης που χρησιμοποιείται.
+    * --memory_display infobar: για μια μπάρα που δείχνει οπτικά την ποσότητα ram που χρησιμοποιείται.
+    * --refresh_rate on: για να δείχνει την συχνότητα ανανέωσης της οθόνης του συστήματος.
+    * --cpu_temp c: για εμφάνιση της θερμοκρασίας του επεξεργαστή σε βαθμούς κελσίου.
+    * --gpu_temp c: αντίστοιχα για την κάρτα γραφικών.
+
+  - [Χρήση εργαλείου Screenfetch](https://asciinema.org/a/eBbM5EY7AcKjHxTauVKwWM7XP):
+  Το εργαλείο Screenfetch δείχνει περίπου την ίδια πληροφορία με το Neofetch με μικρές διαφορές αλλά δεν δέχεται παραμέτρους ώστε να εμφανίσει περισσότερη πληροφορία σε αντίθεση με το Neofetch.
+  
+  - [Εμφάνιση όλων των αρχείων στο directory](https://asciinema.org/a/65RwKF0B5acbJ3HzZwHkOnBG4):
+  
+  
 ### Assignment 2
 
 ### Assignment 3
