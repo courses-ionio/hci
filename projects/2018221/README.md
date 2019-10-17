@@ -11,9 +11,7 @@
   
   ## link σto κλαδί του κώδικα που αντιστοιχεί στο παραδοτέο:
   https://github.com/p18myro/hci/tree/2018221/projects/2018221
-
-## link παραδοτέου 1:
- https://asciinema.org/a/UjpP36RBVjKO3Zv2qaM2PCodp
+  ## [Link Παραδοτέου](https://asciinema.org/a/UjpP36RBVjKO3Zv2qaM2PCodp 'Link Παραδοτέου')
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
