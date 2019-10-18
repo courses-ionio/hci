@@ -11,7 +11,7 @@
   
 ## Παραδοτέο 1
  
-#### Link Παραδοτέου: https://asciinema.org/a/MKtjRW1E2Fr6OBIvu7mYMSXp9
+#### Link Παραδοτέου: https://asciinema.org/a/275434
 
 ## Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
