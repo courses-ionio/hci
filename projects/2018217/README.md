@@ -3,9 +3,9 @@
 > ## **Αριθμός Μητρώου: Π2018217** 
 > ## **GitHub Profile: https://github.com/p18mant**
 
-
-### ***Assignments Εργασίας/Παραδοτέου 1:***
->> Set-up the main dependencies and demostrate your base system.
+### ***Παραδοτέο 1***
+#### **Assignments Εργασίας/Παραδοτέου 1:**
+> - Set-up the main dependencies and demostrate your base system.
 
 > #### **Ζητούμενα:**
 > - Change your command prompt with your student ID.
@@ -16,3 +16,6 @@
 > #### **Εκτελέσιμα links στο asciinema:**
 > - Visit 1: https://asciinema.org/a/275323
 > - Visit 2: https://asciinema.org/a/275329
+
+> #### **Αποθετήριο κώδικα παραδοτέου 1:**
+> - Visit:   https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md
