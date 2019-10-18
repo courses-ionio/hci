@@ -4,7 +4,7 @@
 > ## **GitHub Profile: https://github.com/p18mant**
 
 ### ***Παραδοτέο 1***
-#### **Assignments Εργασίας/Παραδοτέου 1:**
+> #### **Assignments Εργασίας/Παραδοτέου 1:**
 > - Set-up the main dependencies and demostrate your base system.
 
 > #### **Ζητούμενα:**
