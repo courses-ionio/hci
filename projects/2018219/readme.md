@@ -2,12 +2,19 @@
 
 ### Ονοματεπώνυμο: Χρήστος Μήλιος
 ### Αριθμός Μητρώου: Π2018219
-
-## Εργασία: Set-up the main dependencies and demonstrate your base system
-
 #### [Προφίλ στο github](https://github.com/p18mili1 'Προφίλ στο github')
+#### [Link αποθετηρίου χρήστη](https://github.com/p18mili1/hci)
+
+## Εργασία 1η
+
+
+
+### [Link που οδηγεί στην αναφορά του παραδοτέου](https://github.com/p18mili1/hci/tree/2018219/projects/2018219)
 
 ## Παραδοτέο 1
+
+### Link παραδοτέου αρχείου asciinema: https://asciinema.org/a/275433
+
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου στο προσωπικό αποθετήριο του κωδικά μας
 
