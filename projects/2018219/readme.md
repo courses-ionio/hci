@@ -6,7 +6,7 @@
 #### [Αποθετήριο χρήστη](https://github.com/p18mili1/hci)
 
 ## Εργασία 1η
-Το σύστημα "τρέχει" σε Ubuntu 18.04.3 LTS που είναι εγκατεστημένο σε VirtualBox σύστημα Windows 10. Αρχικά, έγινε η εγκατάσταση των απαιτούμενων πακέτων python και asciinema και στη συνέχεια η εγκατάσταση των πακέτων neofetch και mc (midnight commander).
+Το σύστημα "τρέχει" σε Ubuntu 18.04.3 LTS που είναι εγκατεστημένο σε VirtualBox σε σύστημα με Windows 10. Αρχικά, έγινε η εγκατάσταση των απαιτούμενων πακέτων python και asciinema και στη συνέχεια η εγκατάσταση των πακέτων neofetch και mc (midnight commander).
 
 ### [Κλαδί αναφοράς παραδοτέου](https://github.com/p18mili1/hci/tree/2018219/projects/2018219)
 
