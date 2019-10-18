@@ -6,7 +6,7 @@
 ## Εργασία: (1ο) Πρώτο Παραδοτέο
 
 #### [Asciinema link](https://asciinema.org/a/275357/ '[Asciinema link')
-#### [Προφίλ στο github](https://https://github.com/panagiotismouts/ 'Προφίλ στο github')
+#### [Προφίλ στο github](https://github.com/panagiotismouts/ 'Προφίλ στο github')
 
 ## Παραδοτέο 1
 
