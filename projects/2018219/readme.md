@@ -19,7 +19,7 @@
 
 * [x] Εμφάνιση των πληροφοριών του συστήματος.
 
-### Αποθετήριο κώδικα παραδοτέου 1:https://github.com/P15GitHubStudent/D3js-uk-political-donations/tree/Paradoteo1
+### Αποθετήριο κώδικα παραδοτέου 1: https://github.com/P15GitHubStudent/D3js-uk-political-donations/tree/Paradoteo1
 
 
 
