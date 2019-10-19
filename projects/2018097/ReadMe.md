@@ -13,3 +13,6 @@ AM: 2018097
 
 
 4)display system information (hardware+software)
+
+
+video link: https://asciinema.org/a/275723
