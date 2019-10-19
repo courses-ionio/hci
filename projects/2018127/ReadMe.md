@@ -1,5 +1,14 @@
-Παραδοτέο 1ο
+# Στοιχεία Φοιτητή
 
-Θεοχάρης Παναγιώτης Χαραλαμπίδης
+Όνομα: Θεοχάρης Παναγιώτης Χαραλαμπίδης
 
-Π2018127
+Μητρώο: Π2018127
+
+# Εργασίες
+
+
+## Πρώτη Εργασία
+Assignment: set-up the main dependencies and demonstrate your base system
+Deliverables:
+
+    -change your command prompt with your student ID
