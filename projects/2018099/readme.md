@@ -1,0 +1,1 @@
+Tσιρανίδης Αλέξιος ΑΜ: Π2018099 Ζητούμενα: 1)change your command prompt with your student ID 2)list your dot files 3)display your shell configuration file 4)display system information (hardware+software) VIDEO LINK: https://asciinema.org/a/275265
