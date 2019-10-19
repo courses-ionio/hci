@@ -5,7 +5,7 @@
 
 ## Παραδοτέο 1
 
-- [Αλλαγή του ονόματος τερματικού με τον αριθμό μητρώου.](https://asciinema.org/a/b7AuHrlTmRn9u6s077WRvf8IB)
+- [Αλλαγή του ονόματος τερματικού με τον αριθμό μητρώου](https://asciinema.org/a/b7AuHrlTmRn9u6s077WRvf8IB)
 
 - [Εμφάνιση όλων των αρχείων στο directory](https://asciinema.org/a/onTofs9mwIpb1RWHbi7VgSLqJ): Εμφάνιση των αρχείων που βρίσκονται στο Home μέσω της εντολής ls, προσθέτοντας μία παράμετρο εμφανίζονται και τα κρυμμένα αρχεία που βρίσκονται στο directory.
 
