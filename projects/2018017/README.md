@@ -5,7 +5,7 @@ Vasileios Provopoulos<br>
 ID/RN: P2018017<br>
 p18prov@ionio.gr<br>
 
-Deliverables:
+Deliverables:<br>
 -Change terminal hostname with student ID: https://asciinema.org/a/DmruKq0ic6Q4tNNRacDxHyjEd<br>
 -List hidden files: https://asciinema.org/a/uudjkuYdiY8K2rFFT9dMn038r<br>
 -Display shell configuration file: https://asciinema.org/a/okmiRJIl2hDFm3CZQgdLGSlP8<br>
