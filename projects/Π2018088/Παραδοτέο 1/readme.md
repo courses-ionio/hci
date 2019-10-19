@@ -12,7 +12,6 @@
 Να εμφανίσω το shell configuration file.
 Να εμφανίσω τις πληροφορίες του συστήματος μου όσον αφορά το software και το hardware.
 
-
 [Asciinema link](https://asciinema.org/a/275458 'Asciinema link')
 
 [Προφίλ στο github](https://github.com/AlexKontop 'Προφίλ στο github')
