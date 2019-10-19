@@ -6,6 +6,6 @@
 
 <h3>Εργασία: set-up the main dependencies and demonstrate your base system</h3>
 
-<a href="https://asciinema.org/a/275596">Asciinema link 
+<a href="https://asciinema.org/a/275596">Asciinema link for terminal video 
   
 <a href="https://github.com/elias2500">Προφίλ στο GitHub
