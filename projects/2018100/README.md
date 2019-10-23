@@ -21,3 +21,5 @@
   * resolution --refresh_rate on: δείχνει την συχνότητα ανανέωσης της οθόνης.
   * memory --memory_percent on: για το ποσοστό μνήμης που χρησιμοποιείται.
   * memory --memory_display infobar: για μια μπάρα που δείχνει την ram που χρησιμοποιείται.
+
+## Παραδοτέο 2
