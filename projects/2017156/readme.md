@@ -13,8 +13,12 @@ Used PS1,ls -a,nano,neofetch,inxi -F. <br/>
 
 
 2nd exercise (add, edit, search for an appointment)  <br/>
+
 https://asciinema.org/a/277116 <br/>
 Used Calcurse and grep. <br/>
+<br/>
+
+
 
  
 AGGELOS APOSTOLOU . <br/>
