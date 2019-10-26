@@ -19,7 +19,7 @@
 <p>-----> Added todos</p>
 <p>-----> Added all day events</p>
 <p>-----> Made events in .ical format, imported them to calcurse</p>
-<p>-----? Edited the time and the description of an event</p>
+<p>-----> Edited the time and the description of an event</p>
 <p>-----> Exported the calendar contents in .txt format</p>
 <p>-----> Searched for events in the .txt file</p>
 <p>
