@@ -20,9 +20,24 @@
 > #### **Αποθετήριο κώδικα παραδοτέου 1:**
 > - Visit:   https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md
 
+### ***Παραδοτέο 2***
+> #### **Assignments Εργασίας/Παραδοτέου 2:**
+> - Get familiar with basic commands, reading documentation and editing files.
+
+> #### **Ζητούμενο:**
+> - Browse and view files on your system.
+
+> #### **Εκτελέσιμα links στο asciinema:**
+> - Visit 1: https://asciinema.org/a/277765
+> - Visit 2: https://asciinema.org/a/277772
+
+> #### **Αποθετήριο κώδικα παραδοτέου 2:**
+> - Visit:   https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md
+
 > #### **Διεργασίες - Σχόλια - Πρόσθετη Εργασία:**
 > - Για την πραγματοποίηση της εργασίας εγκαταστάθηκε λογισμικό Linux Ubuntu 16.04.6 LTS σε υπολογιστή χωρίς λογισμικό.
 > - Εγκατάσταση asciinema και δημιουργία account.
 > - Εγκατάσταση brew για την χρήση εργαλείων λογισμικού.
 > - Εγκατάσταση neofetch.
-> - Εγκατάσταση inxi..
+> - Εγκατάσταση inxi.
+> - Εγκατάσταση mc.
