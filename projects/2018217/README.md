@@ -51,3 +51,5 @@
 
 
 ![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/atari-video-omputer-system-thumb.jpg)
+
+![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/atari-video-computer-system.jpg)
