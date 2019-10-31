@@ -42,29 +42,28 @@
 
 
 ### ***Α - Εργασία Ενδιάμεσης Αναφοράς Προόδου / Συμμετοχικό Υλικό***
-> #### **Assignments Εργασίας/Παραδοτέου 2:**
+> #### **πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση**
 
 ---
-author: p18mant
++author: p18mant
++title: Atari
 
-title: Atari
++image_url: https://pixabay.com/images/id-2202528/
 
-image_url: https://pixabay.com/images/id-2202528/
-
-caption: 'Το Atari Video Computer System ή αλλιώς 2600 διατέθηκε στην αγορά στην τιμή των 199$ ή οποία ισοδυναμεί 
++caption: 'Το Atari Video Computer System ή αλλιώς 2600 διατέθηκε στην αγορά στην τιμή των 199$ ή οποία ισοδυναμεί 
 σε 876$ το 2018. Το πακέτο των 199$ περιλάμβανε την κονσόλα, δύο joysticks, ένα ζευγάρι κουμπιών και την κασέτα παιχνιδιών Combat.
 O "δίαδοχος" του 2600 συνέπεσε με την επανάσταση του οικιακού υπολογιστή.'
 
-license_url: 'https://pixabay.com/el/service/license/'
++license_url: 'https://pixabay.com/el/service/license/'
 
-license_text: Simplified Pixabay License
++license_text: Simplified Pixabay License
 
-categories:
++categories:
   - Video Games
 
-tags:
++tags:
   - Atari Inc.
 
-Reference:
++Reference:
   - "Atari 2600 | Toys with a History | Toy Tales – Todd Coopee". December 28, 2015. 
    Archived from the original on June 19, 2017. Retrieved July 8, 2016.
