@@ -52,3 +52,7 @@
 <p align="center">
   <img width="160" height="93" src="projects/2018217/atari-video-omputer-system-thumb.jpg">
 </p>
+
+
+![GitHub Logo](projects/2018217/atari-video-omputer-system-thumb.jpg)
+Format: ![Alt Text](projects/2018217/atari-video-omputer-system-thumb.jpg))
