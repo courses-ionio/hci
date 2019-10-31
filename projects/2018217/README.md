@@ -50,3 +50,8 @@
 | p18mant|  Atari | [Link](https://pixabay.com/images/id-2202528/)|Το Atari Video Computer System ή αλλιώς 2600 διατέθηκε το 1976 στην αγορά, στην τιμή των 199$ ή οποία ισοδυναμεί σε 876$ το 2018. Το πακέτο των 199$ περιλάμβανε, την κονσόλα δύο joysticks, ένα ζευγάρι κουμπιών και την κασέτα παιχνιδιών Combat. O "δίαδοχος" του 2600 συνέπεσε με την επανάσταση του οικιακού υπολογιστή.|[Link](https://pixabay.com/el/service/license/)|Simplified Pixabay License|Video Games|Atari Inc.|
 
 ![Atari Image](https://pixabay.com/el/photos/%CE%BA%CE%BF%CE%BD%CF%83%CF%8C%CE%BB%CE%B1-%CF%80%CE%B1%CE%B9%CF%87%CE%BD%CE%B9%CE%B4%CE%B9%CF%8E%CE%BD-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-video-game-2202528/)
+
+
+<p align="center">
+  <img width="460" height="300" src="https://pixabay.com/images/id-2202528/">
+</p>
