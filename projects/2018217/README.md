@@ -45,6 +45,6 @@
 > #### **πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση**
 
 
-| Author |  Title | Image Url                             |Caption |Lisence Url|Lisence Text|Categories|Tags|Reference|
-| :---:  |  :---: | :---:                                 |:---:   |:---:      |:---:       |:---:|:---:|:---:|
-| p18mant|  Atari | https://pixabay.com/images/id-2202528/|Το Atari Video Computer System ή αλλιώς 2600 διατέθηκε στην αγορά στην τιμή των 199$ ή οποία ισοδυναμεί σε 876$ το 2018. Το πακέτο των 199$ περιλάμβανε την κονσόλα, δύο joysticks, ένα ζευγάρι κουμπιών και την κασέτα παιχνιδιών Combat.O "δίαδοχος" του 2600 συνέπεσε με την επανάσταση του οικιακού υπολογιστή.|https://pixabay.com/el/service/license/|Simplified Pixabay License|Video Games|Atari Inc.|"Atari 2600 | Toys with a History | Toy Tales – Todd Coopee". December 28, 2015. Archived from the original on June 19, 2017. Retrieved July 8, 2016.|
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:   |:---:      |:---:       |:---:     |:---:|
+| p18mant|  Atari | [Vist](https://pixabay.com/images/id-2202528/)|Το Atari Video Computer System ή αλλιώς 2600 διατέθηκε στην αγορά στην τιμή των 199$ ή οποία ισοδυναμεί σε 876$ το 2018. Το πακέτο των 199$ περιλάμβανε την κονσόλα, δύο joysticks, ένα ζευγάρι κουμπιών και την κασέτα παιχνιδιών Combat.O "δίαδοχος" του 2600 συνέπεσε με την επανάσταση του οικιακού υπολογιστή.|[Visit](https://pixabay.com/el/service/license/)|Simplified Pixabay License|Video Games|Atari Inc.|
