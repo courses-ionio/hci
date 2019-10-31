@@ -52,5 +52,11 @@
 |![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/atari-video-computer-system.jpg)|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/atari-video-omputer-system-thumb.jpg)|
 |:---:|:---:|
 
+|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64-thumb.png)|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64-thumb.png)|
+|:---:|:---:|
+
+
+
+
 #### *Παραπομπές*
 > [1] -> https://web.archive.org/web/20170619185554/https://toytales.ca/atari-2600/
