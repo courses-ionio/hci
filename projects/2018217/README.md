@@ -64,4 +64,4 @@
 
 #### *Παραπομπές*
 > [1] -> https://web.archive.org/web/20170619185554/https://toytales.ca/atari-2600/
-> [2] ->
+> [2] -> https://web.archive.org/web/20170619185554/https://toytales.ca/atari-2600/
