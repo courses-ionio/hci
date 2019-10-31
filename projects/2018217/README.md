@@ -42,7 +42,7 @@
 
 
 ### ***Α - Εργασία Ενδιάμεσης Αναφοράς Προόδου / Συμμετοχικό Υλικό***
-> #### **-Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.**
+> #### **Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.**
 
 
 | Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
@@ -52,5 +52,5 @@
 |![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/atari-video-computer-system.jpg)|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/atari-video-omputer-system-thumb.jpg)|
 |:---:|:---:|
 
-### *Παραπομπές*
-[1] -> https://web.archive.org/web/20170619185554/https://toytales.ca/atari-2600/
+#### *Παραπομπές*
+> [1] -> https://web.archive.org/web/20170619185554/https://toytales.ca/atari-2600/
