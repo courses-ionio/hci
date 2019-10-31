@@ -56,7 +56,7 @@
 | :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
 | p18mant|  Commodore64 | [Link](https://pixabay.com/images/id-2154499/)|Το xxxxxxxxxxxxxxxxxxxxxxxx.[2]|[Link](https://pixabay.com/el/service/license/)|Simplified Pixabay License|Video Games|Atari Inc.|
 
-|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64-thumb.png)|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64.png)|
+|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64.png)|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64-thumb.png)|
 |:---:|:---:|
 
 
@@ -64,3 +64,4 @@
 
 #### *Παραπομπές*
 > [1] -> https://web.archive.org/web/20170619185554/https://toytales.ca/atari-2600/
+> [2] ->
