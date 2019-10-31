@@ -52,7 +52,11 @@
 |![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/atari-video-computer-system.jpg)|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/atari-video-omputer-system-thumb.jpg)|
 |:---:|:---:|
 
-|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64-thumb.png)|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64-thumb.png)|
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| p18mant|  Commodore64 | [Link](https://pixabay.com/images/id-2154499/)|Το xxxxxxxxxxxxxxxxxxxxxxxx.[2]|[Link](https://pixabay.com/el/service/license/)|Simplified Pixabay License|Video Games|Atari Inc.|
+
+|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64-thumb.png)|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64.png)|
 |:---:|:---:|
 
 
