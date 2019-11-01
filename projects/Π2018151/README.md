@@ -12,3 +12,7 @@
 #### [Εκτελέσιμο link](https://asciinema.org/a/275798/ '[Εκτελέσιμο link')
 #### [Προφίλ στο github](https://github.com/bllyz/ 'Προφίλ στο github')
 
+
+## Εργασία: Άσκηση 2
+
+#### [Εκτελέσιμο link](https://asciinema.org/a/278181 '[Εκτελέσιμο link')
