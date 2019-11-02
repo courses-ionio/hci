@@ -49,8 +49,8 @@
 > - [Atari Video Computer System - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/atari-video-computer-system-thumb.jpg)
 
 > - [Commodore 64](https://github.com/p18mant/gr/blob/gh-pages/_gallery/commodore_64.md)
-> - [Commodore 64 - Normal Image]()
-> - [Commodore 64 - 160px Image]()
+> - [Commodore 64 - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/commodore64.png)
+> - [Commodore 64 - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/commodore64-thumb.png)
 
 | Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
 | :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
