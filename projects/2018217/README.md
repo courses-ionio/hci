@@ -60,7 +60,7 @@
 > - [Ubuntu - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/ubuntu.png)
 > - [Ubuntu - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/ubuntu-thumb.png)
 
-> - [Android - table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/android.md)
+> - [Android - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/android.md)
 > - [Android - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/android.jpg)
 > - [Android - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/android-thumb.jpg)
 
