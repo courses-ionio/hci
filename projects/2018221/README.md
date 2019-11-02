@@ -3,15 +3,14 @@
 ### Ονοματεπώνυμο: Μυρώνης Ιωάννης
 ### [Προφίλ στο github](https://github.com/p18myro 'Προφίλ στο github')
 ### [Link αποθετηρίου](https://github.com/p18myro/hci 'Link αποθετηρίου ')  
- 
-## Εργασία 1
+
+# Παραδοτέο 1
+
+## Εργασία 1: Set-up the main dependencies and demonstrate your base system 
+
   Αρχικά έγινε εγκτάσταση στο ubuntu των εφαρμογών neofetch, python 3 και του asciinema με την βοήθεια του οποίου γίνεται η εγγραφή ενός αρχείου τύπου (.cast). Ακολούθος μέσω του ιστιότοπου asciinema.org μας δίνεται το link του παραδοτέου.
   
 ### Link αναφοράς παραδοτέου: https://github.com/p18myro/hci/tree/2018221/projects/2018221 
-  
-## Παραδοτέο 1
- 
-### Link Παραδοτέου: https://asciinema.org/a/275434
 
 ## Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
@@ -23,4 +22,9 @@
 
 * [x] Εμφάνιση των πληροφοριών του συστήματος μεσώ της εφαρμογής neofetch 
 
- 
+### Link Παραδοτέου: https://asciinema.org/a/275434
+
+
+## Εργασία 2: Get familiar with basic commands, reading documentation and editing files
+
+
