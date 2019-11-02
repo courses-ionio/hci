@@ -13,3 +13,14 @@
 4)display system information (hardware+software) 
 
 VIDEO LINK: https://asciinema.org/a/275265
+
+
+
+
+ΠΑΡΑΔΟΤΕΟ 2
+
+Ζητούμενα:
+
+>browse and view files on your system
+
+VIDEO LINK: https://asciinema.org/a/278627
