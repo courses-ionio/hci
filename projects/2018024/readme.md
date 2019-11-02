@@ -1,4 +1,5 @@
 Π2018024  
 Ιωάννης Νικολούλης
 
-Παραδοτέο 1: https://asciinema.org/a/274951 
+Άσκηση 1: https://asciinema.org/a/274951 
+Άσκηση 2: https://asciinema.org/a/278672
