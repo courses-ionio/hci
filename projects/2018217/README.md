@@ -63,12 +63,18 @@
 | :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
 | p18mant|  Commodore 64 | [Link](https://pixabay.com/images/id-2154499/)|Ο Commodore 64, γνωστός και ως C64 (ή και CBM 64 ή VIC-64 στη Σουηδία), είναι προσωπικός υπολογιστής 8-bit που δημιουργήθηκε το 1982 από την Commodore International. Έχει συμπεριληφθεί στα Βραβεία Γκίνες ως ο υπολογιστής με τις μεγαλύτερες πωλήσεις όλων των εποχών, με ανεξάρτητες μετρήσεις να αναφέρουν ότι ο αριθμός των πωλήσεων κυμαίνεται μεταξύ 10 και 17 εκατομμυρίων κομματιών. Πήρε το όνομά του από τη μνήμη RAM 64 ΚΒ που διαθέτει. Είχε καλύτερο ήχο και προδιαγραφές γραφικής απεικόνισης σε σύγκριση με άλλα νεότερα συστήματα της εποχής του, όπως το Apple II και το Atari 800, καθώς μπορούσε να παρουσιάσει πολύχρωμα sprites και διέθετε πιο προηγμένο επεξεργαστή ήχου. [2]|[Link](https://pixabay.com/el/service/license/)|Simplified Pixabay License|P.C.|Commodore International|
 
-|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64.png)|![Atari Video Computer System](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64-thumb.png)|
+|![Commodore 64](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64.png)|![Commodore 64](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64-thumb.png)|
 |:---:|:---:|
 
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| p18mant|  Enigma | [Link](https://pixabay.com/images/id-883925/)|Οι μηχανές Enigma ήταν μια σειρά από ηλεκτρο-μηχανικές συσκευές κρυπτογράφησης ρότορα. Αναπτύχθηκαν και χρησιμοποιούνταν έως τα μέσα του εικοστού αιώνα για την προστασία της εμπορικής, διπλωματικής και στρατιωτικής επικοινωνίας. Η Enigma εφευρέθηκε από τον γερμανικό μηχανικό Arthur Scherbius στο τέλος του Πρώτου Παγκοσμίου Πολέμου. Τα πρώτα μοντέλα είχαν χρησιμοποιηθεί για εμπορικούς σκοπούς από τις αρχές της δεκαετίας του 1920 και εγκρίθηκαν από τις στρατιωτικές και κυβερνητικές υπηρεσίες πολλών χωρών, κυρίως της ναζιστικής Γερμανίας πριν και κατά τη διάρκεια του Β΄ Παγκοσμίου Πολέμου. Πολλά διαφορετικά μοντέλα του Enigma παράχθηκαν, αλλά τα γερμανικά στρατιωτικά μοντέλα, τα Wehrmacht Enigmas, ήταν τα πιο πολυσυζητημένα , γιατί είχαν plugboard, ήταν τα πιο πολύπλοκα.. [3] |[Link](https://pixabay.com/el/service/license/)|Simplified Pixabay License|Encryption|Werrmacht|
 
+|![Enigma](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64.png)|![Enigma](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64-thumb.png)|
+|:---:|:---:|
 
 
 #### *Παραπομπές*
 > - [1] https://web.archive.org/web/20170619185554/https://toytales.ca/atari-2600/
 > - [2] https://el.wikipedia.org/wiki/Commodore_64
+> - [3] https://el.wikipedia.org/wiki/Enigma_(συσκευή)
