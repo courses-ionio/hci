@@ -16,3 +16,14 @@ AM: 2018097
 
 
 video link: https://asciinema.org/a/275723
+
+
+
+
+
+Παραδοτέο 2
+
+Ζητούμενα : Browse and view files on your system. 
+
+
+video link: https://asciinema.org/a/278495
