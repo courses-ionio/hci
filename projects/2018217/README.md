@@ -56,9 +56,9 @@
 > - [Enigma - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/enigma.jpg)
 > - [Enigma - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/enigma-thumb.jpg)
 
-> - [Ubuntu - Table]()
-> - [Ubuntu - Normal Image]()
-> - [Ubuntu - 160px Image]()
+> - [Ubuntu - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/ubuntu.md)
+> - [Ubuntu - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/ubuntu.png)
+> - [Ubuntu - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/ubuntu-thumb.png)
 
 > - [Android - table]()
 > - [Android - Normal Image]()
