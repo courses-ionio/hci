@@ -52,9 +52,9 @@
 > - [Commodore 64 - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/commodore64.png)
 > - [Commodore 64 - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/commodore64-thumb.png)
 
-> - [Enigma - Table]()
-> - [Enigma - Normal Image]()
-> - [Enigma - 160px Image]()
+> - [Enigma - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/enigma.md)
+> - [Enigma - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/enigma.jpg)
+> - [Enigma - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/enigma-thumb.jpg)
 
 > - [Ubuntu - Table]()
 > - [Ubuntu - Normal Image]()
