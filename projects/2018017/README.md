@@ -11,7 +11,7 @@ Deliverables:<br>
 -Display shell configuration file: https://asciinema.org/a/okmiRJIl2hDFm3CZQgdLGSlP8<br>
 -Display system information: https://asciinema.org/a/4WFpLc8TErhLsBuGAu1l2K7n0<br>
 
-PARADOTEO 2<br>
+ASKHSH 2<br>
 2st assignment from: https://github.com/courses-ionio/dokey#hci<br>
 Deadline:03/11/2019<br>
 Vasileios Provopoulos<br>
