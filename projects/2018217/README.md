@@ -86,9 +86,17 @@
 |:---:|:---:|
 
 
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| p18mant|  Ubuntu | [Link](https://pixabay.com/images/id-582371/)|Το Ubuntu ξεκίνησε το 2004, βασισμένο στη διανομή Debian. Ο στόχος του Ubuntu είναι η παροχή ενός διαρκώς ενημερωμένου, σταθερού λειτουργικού συστήματος για τον μέσο χρήστη, με ενισχυμένη έμφαση στην ευκολία χρήσης και εγκατάστασης. Το Ubuntu έχει χαρακτηριστεί ως η πιο δημοφιλής διανομή Linux για επιτραπέζιους υπολογιστές, διεκδικώντας περίπου το 45% (21 Μαρ. 2015) επί του συνόλου των υπολογιστών με διανομές βασισμένες στον πυρήνα Linux. [4] |[Link](https://pixabay.com/el/service/license/)|Simplified Pixabay License|Operation Systems, GNOME, GNU Linux|Canonical Ltd|
+
+|![Ubuntu](https://github.com/p18mant/hci/blob/2018217/projects/2018217/ubuntu.png)|![Ubuntu](https://github.com/p18mant/hci/blob/2018217/projects/2018217/ubuntu-thumb.png)|
+|:---:|:---:|
+
+
 #### *Παραπομπές*
 > - [1] https://web.archive.org/web/20170619185554/https://toytales.ca/atari-2600/
 > - [2] https://el.wikipedia.org/wiki/Commodore_64
 > - [3] https://el.wikipedia.org/wiki/Enigma_(συσκευή)
-> - [4] 
+> - [4] https://el.wikipedia.org/wiki/Ubuntu
 > - [5] 
