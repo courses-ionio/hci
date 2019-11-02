@@ -52,6 +52,18 @@
 > - [Commodore 64 - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/commodore64.png)
 > - [Commodore 64 - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/commodore64-thumb.png)
 
+> - [Enigma]()
+> - [Enigma - Normal Image]()
+> - [Enigma - 160px Image]()
+
+> - [Ubuntu]()
+> - [Ubuntu - Normal Image]()
+> - [Ubuntu - 160px Image]()
+
+> - [Android]()
+> - [Android - Normal Image]()
+> - [Android - 160px Image]()
+
 | Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
 | :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
 | p18mant|  Atari | [Link](https://pixabay.com/images/id-2202528/)|Το Atari Video Computer System ή αλλιώς 2600 διατέθηκε το 1976 στην αγορά στην τιμή των 199$, η οποία ισοδυναμεί σε 876$ το έτος 2018. Το πακέτο των 199$ περιλάμβανε την κονσόλα, δύο joysticks, ένα ζευγάρι κουμπιών και την κασέτα παιχνιδιών Combat. O "δίαδοχος" του 2600 συνέπεσε με την επανάσταση του οικιακού υπολογιστή και δεν απέδωσε τα αναμενόμενα έσοδα. [1]|[Link](https://pixabay.com/el/service/license/)|Simplified Pixabay License|Video Games|Atari Inc.|
@@ -70,7 +82,7 @@
 | :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
 | p18mant|  Enigma | [Link](https://pixabay.com/images/id-883925/)|Οι μηχανές Enigma ήταν μια σειρά από ηλεκτρο-μηχανικές συσκευές κρυπτογράφησης ρότορα. Αναπτύχθηκαν και χρησιμοποιούνταν έως τα μέσα του εικοστού αιώνα για την προστασία της εμπορικής, διπλωματικής και στρατιωτικής επικοινωνίας. Η Enigma εφευρέθηκε από τον γερμανικό μηχανικό Arthur Scherbius στο τέλος του Πρώτου Παγκοσμίου Πολέμου. Τα πρώτα μοντέλα είχαν χρησιμοποιηθεί για εμπορικούς σκοπούς από τις αρχές της δεκαετίας του 1920 και εγκρίθηκαν από τις στρατιωτικές και κυβερνητικές υπηρεσίες πολλών χωρών, κυρίως της ναζιστικής Γερμανίας πριν και κατά τη διάρκεια του Β΄ Παγκοσμίου Πολέμου. Πολλά διαφορετικά μοντέλα του Enigma παράχθηκαν, αλλά τα γερμανικά στρατιωτικά μοντέλα, τα Wehrmacht Enigmas, ήταν τα πιο πολυσυζητημένα , γιατί είχαν plugboard, ήταν τα πιο πολύπλοκα.. [3] |[Link](https://pixabay.com/el/service/license/)|Simplified Pixabay License|Encryption|Werrmacht|
 
-|![Enigma](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64.png)|![Enigma](https://github.com/p18mant/hci/blob/2018217/projects/2018217/commodore64-thumb.png)|
+|![Enigma](https://github.com/p18mant/hci/blob/2018217/projects/2018217/enigma.jpg)|![Enigma](https://github.com/p18mant/hci/blob/2018217/projects/2018217/enigma-thumb.jpg)|
 |:---:|:---:|
 
 
@@ -78,3 +90,5 @@
 > - [1] https://web.archive.org/web/20170619185554/https://toytales.ca/atari-2600/
 > - [2] https://el.wikipedia.org/wiki/Commodore_64
 > - [3] https://el.wikipedia.org/wiki/Enigma_(συσκευή)
+> - [4] 
+> - [5] 
