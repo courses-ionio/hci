@@ -94,9 +94,16 @@
 |:---:|:---:|
 
 
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| p18mant|  Android | [Link](https://pixabay.com/images/id-1571963/)|Το Android είναι λειτουργικό σύστημα για συσκευές κινητής τηλεφωνίας το οποίο τρέχει τον πυρήνα του λειτουργικού Linux. Αρχικά αναπτύχθηκε από την Google και αργότερα από την Open Handset Alliance. Επιτρέπει στους κατασκευαστές λογισμικού να συνθέτουν κώδικα με την χρήση της γλώσσας προγραμματισμού Java, ελέγχοντας την συσκευή μέσω βιβλιοθηκών λογισμικού ανεπτυγμένων από την Google. Το Android είναι κατά κύριο λόγο σχεδιασμένο για συσκευές με οθόνη αφής, όπως τα έξυπνα τηλέφωνα και τα τάμπλετ, με διαφορετικό περιβάλλον χρήσης για τηλεοράσεις (Android TV), αυτοκίνητα (Android Auto) και ρολόγια χειρός (Android Wear). Παρόλο που έχει αναπτυχθεί για συσκευές με οθόνη αφής, έχει χρησιμοποιηθεί σε κονσόλες παιχνιδιών, ψηφιακές φωτογραφικές μηχανές, συνηθισμένους Η/Υ και σε άλλες ηλεκτρονικές συσκευές. Το Android είναι το πιο ευρέως διαδεδομένο λογισμικό στον κόσμο. Οι συσκευές με Android έχουν περισσότερες πωλήσεις από όλες τις συσκευές Windows, iOS και Mac OS X μαζί. [5] |[Link](https://pixabay.com/el/service/license/)|Simplified Pixabay License|Operation Systems, Linux|Google Open Handset Alliance|
+
+|![Android](https://github.com/p18mant/hci/blob/2018217/projects/2018217/android.jpg)|![Android](https://github.com/p18mant/hci/blob/2018217/projects/2018217/android-thumb.jpg)|
+|:---:|:---:|
+
 #### *Παραπομπές*
 > - [1] https://web.archive.org/web/20170619185554/https://toytales.ca/atari-2600/
 > - [2] https://el.wikipedia.org/wiki/Commodore_64
 > - [3] https://el.wikipedia.org/wiki/Enigma_(συσκευή)
 > - [4] https://el.wikipedia.org/wiki/Ubuntu
-> - [5] 
+> - [5] https://el.wikipedia.org/wiki/Android
