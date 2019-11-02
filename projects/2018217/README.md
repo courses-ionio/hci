@@ -48,19 +48,19 @@
 > - [Atari Video Computer System - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/atari-video-computer-system.jpg)
 > - [Atari Video Computer System - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/atari-video-computer-system-thumb.jpg)
 
-> - [Commodore 64](https://github.com/p18mant/gr/blob/gh-pages/_gallery/commodore_64.md)
+> - [Commodore 64 - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/commodore_64.md)
 > - [Commodore 64 - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/commodore64.png)
 > - [Commodore 64 - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/commodore64-thumb.png)
 
-> - [Enigma]()
+> - [Enigma - Table]()
 > - [Enigma - Normal Image]()
 > - [Enigma - 160px Image]()
 
-> - [Ubuntu]()
+> - [Ubuntu - Table]()
 > - [Ubuntu - Normal Image]()
 > - [Ubuntu - 160px Image]()
 
-> - [Android]()
+> - [Android - table]()
 > - [Android - Normal Image]()
 > - [Android - 160px Image]()
 
