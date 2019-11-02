@@ -6,11 +6,12 @@
 
 # Παραδοτέο 1
 
+### [Link αναφοράς παραδοτέου]( https://github.com/p18myro/hci/tree/2018221/projects/2018221 'Link αναφοράς παραδοτέου')
+
+
 ## Εργασία 1: Set-up the main dependencies and demonstrate your base system 
 
-  Αρχικά έγινε εγκτάσταση στο ubuntu των εφαρμογών neofetch, python 3 και του asciinema με την βοήθεια του οποίου γίνεται η εγγραφή ενός αρχείου τύπου (.cast). Ακολούθος μέσω του ιστιότοπου asciinema.org μας δίνεται το link του παραδοτέου.
-  
-### Link αναφοράς παραδοτέου: https://github.com/p18myro/hci/tree/2018221/projects/2018221 
+  Αρχικά έγινε εγκτάσταση στο ubuntu των εφαρμογών neofetch, python 3 και του asciinema με την βοήθεια του οποίου γίνεται η εγγραφή ενός αρχείου τύπου (.cast). Ακολούθος μέσω του ιστιότοπου asciinema.org μας δίνεται το link του παραδοτέου.  
 
 ## Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
@@ -22,7 +23,9 @@
 
 * [x] Εμφάνιση των πληροφοριών του συστήματος μεσώ της εφαρμογής neofetch 
 
-### Link Παραδοτέου: https://asciinema.org/a/275434
+## Τεκμηρίωση ξητουμένων
+
+### Link Παραδοτέου εργασία 1: https://asciinema.org/a/275434
 
 
 ## Εργασία 2: Get familiar with basic commands, reading documentation and editing files
