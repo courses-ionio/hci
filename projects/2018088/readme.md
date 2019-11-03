@@ -15,3 +15,8 @@
 [Asciinema link](https://asciinema.org/a/275458 'Asciinema link')
 
 [Προφίλ στο github](https://github.com/AlexKontop 'Προφίλ στο github')
+
+
+Άσκηση 2 / Παραδοτέο 2
+Ζητούμενο: Να ανοίξω φακέλους μέσα στο σύστημα μου
+[Asciinema link](https://asciinema.org/a/278916 'Asciinema link')
