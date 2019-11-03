@@ -37,6 +37,7 @@
 Έπειτα με την χρήση του Asciinema έγινε λήψη των παρακάτω ασκήσεων.
 
 ### Assignment 1
+
   - [Αλλαγή του ονόματος τερματικού](https://asciinema.org/a/IoIdqQ1eCcnbeEVEGh2Q5tojT)
   
   - [Χρήση εργαλείου Neofetch](https://asciinema.org/a/BQgxRBDqA6cyHLprG3hOYTzsp) χωρίς παραμέτρους:
@@ -67,8 +68,14 @@
   
 ### Assignment 2
 
+  - [Προσπέλαση και επεξεργασία αρχείων με το Ranger](https://asciinema.org/a/KiEAKOfqsMFPIL7Lnt1RicUiO):
+  Μία αρκετά βασική προσπέλαση των αρχείων του συστήματος με την χρήση του εργαλείου [Ranger](https://ranger.github.io/) και άνοιγμα ενός αρχείου προς επεξεργασία.
+  
+  - [Προσπέλαση και επεξεργασία αρχείων με το Midnight Commander](https://asciinema.org/a/lYuUaUj36DDCt8liGEE6R3sKY):
+  Όμοια με το Ranger το [Midnight Commander](https://midnight-commander.org/) είναι terminal file manager έχει όμως αρκετές επιπλέον δυνατότητες όπως την επιλογή του τύπου terminal emulator που θέλεις να χρησιμοποιήσεις (η παράμετρος -x επιλέγει τον τύπο xterm) αλλά και το πως εμφανίζονται χρωματικά τα αρχεία και άλλες πολλές ιδιότητες.
+  
 ### Assignment 3
-
+  
 ## Παραδοτέο 2
 
 ### Assignment 4
