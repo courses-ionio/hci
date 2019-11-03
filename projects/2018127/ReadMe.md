@@ -19,3 +19,10 @@ Deliverables:
 >   display your shell configuration file (Asciicast [here](https://asciinema.org/a/v3eh1esDP5EaFarZJxkw0XxFp))
 
 >   display system information (hardware+software) (Asciicast [here](https://asciinema.org/a/fqWZ8cFBRThT0zokmNnYRViq6))
+
+
+### Δεύτερη Εργασία
+Assigment: get familiar with basic commands, reading documentation and editing files
+Deliverables:
+
+> browse and view files on your system (Asciicast [here](https://asciinema.org/a/xm9Fp8cYMrG6IQlNdQkhgFJw7))
