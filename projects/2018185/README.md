@@ -7,3 +7,9 @@
 
 #### [Εκτελέσιμο link](https://asciinema.org/a/275361)
 #### [Προφίλ στο github](https://github.com/Gkilias90)
+
+
+
+## Εργασία: 2ο παραδοτεο
+
+#### [Εκτελέσιμο link](https://asciinema.org/a/278920)
