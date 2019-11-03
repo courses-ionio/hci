@@ -47,5 +47,5 @@
 
 ## Τεκμηρίωση ζητουμένων
 
-### Link Παραδοτέου εργασία 2: https://asciinema.org/a/G8SdMkLBy2iZw1P72ZH308w9U
+### Link Παραδοτέου εργασία 2: https://asciinema.org/a/278937
 
