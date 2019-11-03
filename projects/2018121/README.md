@@ -1,7 +1,6 @@
 Μάθημα: Επικοινωνία Ανθρώπου Υπολογιστή
 Ονοματεπώνυμο:Ρώσσης Γεώργιος-Σπυρίδων
 Αριθμός Μητρώου: Π2018121
-Εργασία: Set-up the main dependencies and demonstrate your base system
-
-Link εργασίας: https://asciinema.org/a/255bbpNC2EcIkz6t0gxsLmy0Q
+Εργασία: get familiar with basic commands, reading documentation and editing files
+Link εργασίας: https://asciinema.org/a/278800
 Link Git-Hub https://github.com/Geoross
