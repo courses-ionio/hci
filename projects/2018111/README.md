@@ -8,8 +8,8 @@
 -----
 ## 1ο Παραδοτέο
 
-#### Αssignment: set-up the main dependencies and demonstrate your base system
-Αυτό που κάνω παρακάτω είναι αρχικά να αλλάζω το όνομα της γραμμής εντελών με τον 
+#### 1.Αssignment: set-up the main dependencies and demonstrate your base system
+Αυτό που κάνω παρακάτω είναι αρχικά να αλλάξω το όνομα της γραμμής εντελών με τον 
 Αριθμό Μητρώου μου, στην συνέχεια εμφανίζω τα κρυφά αρχεία μου, το περιεχόμενο 
 από το “shell configuration” αρχείο, και τέλος πληροφορίες του συστήματος
 (υλισμικού και λογισμικού).
@@ -25,4 +25,21 @@ PS1, ls, egrep (grep -E), cat, lscpu, lshw, hwinfo, neofetch.
 Asciinema Video:
 [![asciicast](https://asciinema.org/a/3hV7USPYAhPyp2pBePMr9l2G5.png)](https://asciinema.org/a/3hV7USPYAhPyp2pBePMr9l2G5)
 
------
+#### 2.Assignment: text editor and plug-ins for code highlighting and autocompletion
+Αυτό που κάνω παρακάτω είναι αρχικά να αλλάξω το όνομα της γραμμής εντελών με τον 
+Αριθμό Μητρώου μου, στην συνέχεια εμφανίζω τα αρχεία που βρίσκονται στην τοποθεσία “.vim/bundle” τα οποία είναι όλα τα plug-ins  τα οποία πέρασα για το  vim.  Παρακάτω ανοίγω με το vim το αρχείο .vimrc όπου βρίσκονται όλες οι ρυθμίσεις για το vim καθώς και για τα plug-ins και παρουσιάζω λειτουργίες από ρυθμίσεις που προσέθεσα στο vim όπως και  τουλάχιστον από μια λειτουργία από κάθε plug-in.  Τέλος με το plug-in nerdTree ανοίγω μέσο του vim κάποια έξτρα αρχεία (όπως ένα αρχείο .c και ένα αρχείο .java(git) )  ώστε να παρουσιάσω με καλύτερο τρόπο κάποια από τα plug-ins.
+
+Για να επιτευχθούν τα παραπάνω χρησιμοποίησα τις εντολές: PS1, ls, vim.  Τα plug-ins που εγκατέστησα είναι τα παρακάτω με link στο github για το καθένα ξεχωριστά :
+[Ale](https://github.com/dense-analysis/ale),
+[Editorconfig](https://github.com/editorconfig/editorconfig-vim),
+[Emmet](https://github.com/mattn/emmet-vim),
+[Lightline](https://github.com/itchyny/lightline.vim),
+[NerdTree](https://github.com/scrooloose/nerdtree),
+[Gitgutter](https://github.com/airblade/vim-gitgutter),
+[Multiple Cursors](https://github.com/terryma/vim-multiple-cursors),
+[Surround](https://github.com/tpope/vim-surround),
+[You Complete Me](https://github.com/ycm-core/YouCompleteMe).
+
+Plugin Manager [Vundle](https://github.com/VundleVim/Vundle.vim)
+
+[![asciicast](https://asciinema.org/a/rK7pcY2aUEbvobJJlbctV67jY.png)](https://asciinema.org/a/rK7pcY2aUEbvobJJlbctV67jY)
