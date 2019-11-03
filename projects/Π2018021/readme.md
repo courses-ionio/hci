@@ -4,4 +4,6 @@
 
 Links:
 
-Παραδοτέο 1: https://asciinema.org/a/275934
+Άσκηση 1: https://asciinema.org/a/275934
+
+Άσκηση 2: https://asciinema.org/a/278840
