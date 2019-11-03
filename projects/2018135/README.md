@@ -6,7 +6,7 @@
 
 Εργασία: Παραδοτέο 1 
   
-  > Το link της εγγραφης στο [asciinema](https://asciinema.org/a/tdXRmZC6JnF4FKuPitFKeMxo2)
+  > Το link της εγγραφης στο [asciinema](https://asciinema.org/a/275671)
   
   > Ζητούμενα: set-up the main dependencies and demonstrate your base system
   
