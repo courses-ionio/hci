@@ -20,7 +20,7 @@
 
 ## Εργασία: (2ο)  Δεύτερο Παραδοτέο
 
-#### [Asciinema link](https://asciinema.org/a/278502/ '[Asciinema link')
+#### [Asciinema link](https://asciinema.org/a/278851/ '[Asciinema link')
 #### [Προφίλ στο github](https://github.com/panagiotismouts/ 'Προφίλ στο github')
 
 ## Παραδοτέο 2
