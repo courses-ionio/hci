@@ -10,6 +10,7 @@
 
 ### Πρώτη Εργασία
 Assignment: set-up the main dependencies and demonstrate your base system
+
 Deliverables: 
     
 >   change your command prompt with your student ID (Asciicast [here](https://asciinema.org/a/yp1DdpMS2piTvEpc39Vua4i7d))
@@ -23,6 +24,7 @@ Deliverables:
 
 ### Δεύτερη Εργασία
 Assigment: get familiar with basic commands, reading documentation and editing files
+
 Deliverables:
 
 > browse and view files on your system (Asciicast [here](https://asciinema.org/a/xm9Fp8cYMrG6IQlNdQkhgFJw7))
