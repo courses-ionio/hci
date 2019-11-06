@@ -3,7 +3,7 @@
 > ## **Αριθμός Μητρώου: Π2018217** 
 > ## **[GitHub Profile](https://github.com/p18mant)**
 
-### ***Παραδοτέο 1***
+### ***Άσκηση 1***
 > #### **Assignments Εργασίας/Παραδοτέου 1:**
 > - Set-up the main dependencies and demostrate your base system.
 
@@ -19,7 +19,7 @@
 
 > #### **[Αποθετήριο κώδικα παραδοτέου 1](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
-### ***Παραδοτέο 2***
+### ***Άσκηση 2***
 > #### **Assignments Εργασίας/Παραδοτέου 2:**
 > - Get familiar with basic commands, reading documentation and editing files.
 
@@ -80,8 +80,7 @@
 
 | Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
 | :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
-| p18mant|  Enigma |[Image](https://github.com/p18mant/gr/blob/gh-pages/images/enigma.jpg)
-> - [Image 160px](https://github.com/p18mant/gr/blob/gh-pages/images/enigma-thumb.jpg)|Οι μηχανές Enigma ήταν μια σειρά από ηλεκτρο-μηχανικές συσκευές κρυπτογράφησης ρότορα. Αναπτύχθηκαν και χρησιμοποιούνταν έως τα μέσα του εικοστού αιώνα για την προστασία της εμπορικής, διπλωματικής και στρατιωτικής επικοινωνίας. Η Enigma εφευρέθηκε από τον γερμανικό μηχανικό Arthur Scherbius στο τέλος του Πρώτου Παγκοσμίου Πολέμου. Τα πρώτα μοντέλα είχαν χρησιμοποιηθεί για εμπορικούς σκοπούς από τις αρχές της δεκαετίας του 1920 και εγκρίθηκαν από τις στρατιωτικές και κυβερνητικές υπηρεσίες πολλών χωρών, κυρίως της ναζιστικής Γερμανίας πριν και κατά τη διάρκεια του Β΄ Παγκοσμίου Πολέμου. Πολλά διαφορετικά μοντέλα του Enigma παράχθηκαν, αλλά τα γερμανικά στρατιωτικά μοντέλα, τα Wehrmacht Enigmas, ήταν τα πιο πολυσυζητημένα , γιατί είχαν plugboard, ήταν τα πιο πολύπλοκα.. [3] |[Link](https://pixabay.com/el/service/license/)|Simplified Pixabay License|Encryption|Werrmacht|
+| p18mant|  Enigma |[Image](https://github.com/p18mant/gr/blob/gh-pages/images/enigma.jpg) [Image 160px](https://github.com/p18mant/gr/blob/gh-pages/images/enigma-thumb.jpg)|Οι μηχανές Enigma ήταν μια σειρά από ηλεκτρο-μηχανικές συσκευές κρυπτογράφησης ρότορα. Αναπτύχθηκαν και χρησιμοποιούνταν έως τα μέσα του εικοστού αιώνα για την προστασία της εμπορικής, διπλωματικής και στρατιωτικής επικοινωνίας. Η Enigma εφευρέθηκε από τον γερμανικό μηχανικό Arthur Scherbius στο τέλος του Πρώτου Παγκοσμίου Πολέμου. Τα πρώτα μοντέλα είχαν χρησιμοποιηθεί για εμπορικούς σκοπούς από τις αρχές της δεκαετίας του 1920 και εγκρίθηκαν από τις στρατιωτικές και κυβερνητικές υπηρεσίες πολλών χωρών, κυρίως της ναζιστικής Γερμανίας πριν και κατά τη διάρκεια του Β΄ Παγκοσμίου Πολέμου. Πολλά διαφορετικά μοντέλα του Enigma παράχθηκαν, αλλά τα γερμανικά στρατιωτικά μοντέλα, τα Wehrmacht Enigmas, ήταν τα πιο πολυσυζητημένα , γιατί είχαν plugboard, ήταν τα πιο πολύπλοκα.. [3] |[Link](https://pixabay.com/el/service/license/)|Simplified Pixabay License|Encryption|Werrmacht|
 
 |![Enigma](https://github.com/p18mant/hci/blob/2018217/projects/2018217/enigma.jpg)|![Enigma](https://github.com/p18mant/hci/blob/2018217/projects/2018217/enigma-thumb.jpg)|
 |:---:|:---:|
