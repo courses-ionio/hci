@@ -67,7 +67,7 @@
 ## Σύνδεσμοι δεύτερης εικόνας:
 ### [Τransistorized computer 1401 IBM](https://github.com/p18myro/gr/blob/gh-pages/images/%CE%A4ransistorized%20computer%201401%20IBM.jpg)
 ### [Τransistorized computer 1401 IBM-thumb]( https://github.com/p18myro/gr/blob/gh-pages/images/%CE%A4ransistorized%20computer%201401%20IBM-thumb.jpg)
-### [Readme Τransistorized computer 1401 IBM-thumb ](https://github.com/p18myro/gr/blob/gh-pages/_gallery/%CE%A4ransistorized%20computer%201401%20IBM.md)
+### [Readme Τransistorized computer 1401 IBM](https://github.com/p18myro/gr/blob/gh-pages/_gallery/%CE%A4ransistorized%20computer%201401%20IBM.md)
 #
 ## Σύνδεσμοι τρίτης εικόνας:
 ### [IBM system360]( https://github.com/p18myro/gr/blob/gh-pages/images/IBM%20system360.jpg)
