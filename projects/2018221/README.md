@@ -27,7 +27,7 @@
 
 ### Link Παραδοτέου εργασία 1: https://asciinema.org/a/275434
 
-
+#
 
 ## Εργασία 2: Get familiar with basic commands, reading documentation and editing files
 
@@ -50,18 +50,36 @@
 ### Link Παραδοτέου εργασία 2: https://asciinema.org/a/278979
 #
 #
-## Εργασία Συμμετοχικού περιεχομένου
+# Εργασία Συμμετοχικού περιεχομένου
 ### Παραδοτέο Α
 
 ### [Σύνδεσμος αποθετηρίου](https://github.com/p18myro/gr 'Σύνδεσμος αποθετηρίου')
 
 ### [Σύνδεσμος εκτελέσιμου](https://p18myro.github.io/gr/ 'Σύνδεσμος εκτελέσιμου')
 
-## Σύνδεσμοι εικόνων:
+### [Σύνδεσμος config.yml](https://github.com/p18myro/gr/blob/gh-pages/_config.yml')
 
-### Eniac computer 1946:
-### Τransistorized computer 1401 IBM: 
-### IBM system360:  
-### Altair 8800 Computer: 
-### Apple II:
-
+## Σύνδεσμοι Πρώτης εικόνας:
+### [Eniac computer 1946](https://github.com/p18myro/gr/blob/gh-pages/images/Eniac%20computer%201946.jpg)
+### [Eniac computer 1946-thumb](https://github.com/p18myro/gr/blob/gh-pages/images/Eniac%20computer%201946-thumb.jpg)
+### [Readme Eniac computer 1946 ](https://github.com/p18myro/gr/blob/gh-pages/_gallery/Eniac%20computer%201946.md)
+#
+## Σύνδεσμοι δεύτερης εικόνας:
+### [Τransistorized computer 1401 IBM](https://github.com/p18myro/gr/blob/gh-pages/images/%CE%A4ransistorized%20computer%201401%20IBM.jpg)
+### [Τransistorized computer 1401 IBM-thumb]( https://github.com/p18myro/gr/blob/gh-pages/images/%CE%A4ransistorized%20computer%201401%20IBM-thumb.jpg)
+### [Readme Τransistorized computer 1401 IBM-thumb ](https://github.com/p18myro/gr/blob/gh-pages/_gallery/%CE%A4ransistorized%20computer%201401%20IBM.md)
+#
+## Σύνδεσμοι τρίτης εικόνας:
+### [IBM system360]( https://github.com/p18myro/gr/blob/gh-pages/images/IBM%20system360.jpg)
+### [IBM system360-thumb](https://github.com/p18myro/gr/blob/gh-pages/images/IBM%20system360-thumb.jpg)
+### [Readme IBM system360]( https://github.com/p18myro/gr/blob/gh-pages/_gallery/IBM%20system360.md)
+#
+## Σύνδεσμοι τέταρτης εικόνας:
+### [Altair 8800 Computer]( https://github.com/p18myro/gr/blob/gh-pages/images/Altair%208800%20Computer.jpg)
+### [Altair 8800 Computer-thumb]( https://github.com/p18myro/gr/blob/gh-pages/images/Altair%208800%20Computer-thumb.jpg)
+### [Readme Altair 8800 Computer](https://github.com/p18myro/gr/blob/gh-pages/_gallery/Altair%208800%20Computer.md)
+#
+## Σύνδεσμοι πέμπτης εικόνας:
+### [Apple II](https://github.com/p18myro/gr/blob/gh-pages/images/Apple%20II.jpg)
+### [Apple II-thumb]( https://github.com/p18myro/gr/blob/gh-pages/images/Apple%20II-thumb.jpg)
+### [Readme Apple II](https://github.com/p18myro/gr/blob/gh-pages/_gallery/Apple%20II.md)
