@@ -7,7 +7,7 @@
 (change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information hardware+software).  
 
 
-https://asciinema.org/a/275568.  
+- **https://asciinema.org/a/275568.**  
 Used PS1,ls -a,nano,neofetch,inxi -F.   
 
 
@@ -16,7 +16,7 @@ Used PS1,ls -a,nano,neofetch,inxi -F.
 (add, edit, search for an appointment) 
 
 
-https://asciinema.org/a/277116  
+- **https://asciinema.org/a/277116.**  
 Used Calcurse,ps1,cat and grep.     
 # ΣΥΜΜΕΤΟΧΙΚΟ ΕΚΠΑΙΔΕΥΤΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ  
 ## Α: ΕΝΔΙΑΜΕΣΗ ΑΝΑΦΟΡΑ
