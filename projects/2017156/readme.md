@@ -8,18 +8,18 @@
 
 
 - **https://asciinema.org/a/275568.**  
-Used PS1,ls -a,nano,neofetch,inxi -F.   
+ Used PS1,ls -a,nano,neofetch,inxi -F.   
 
 
 
 ### 2η ΑΣΚΗΣΗ  
-(add, edit, search for an appointment) 
+ (add, edit, search for an appointment) 
 
 
 - **https://asciinema.org/a/277116.**  
 Used Calcurse,ps1,cat and grep.     
 # ΣΥΜΜΕΤΟΧΙΚΟ ΕΚΠΑΙΔΕΥΤΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ  
-## Α: ΕΝΔΙΑΜΕΣΗ ΑΝΑΦΟΡΑ
+> ## Α: ΕΝΔΙΑΜΕΣΗ ΑΝΑΦΟΡΑ
   
     
       
