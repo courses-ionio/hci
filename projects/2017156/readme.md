@@ -33,43 +33,43 @@ Used Calcurse,ps1,cat and grep.
   ### 1η ΠΡΟΣΘΗΚΗ ΕΙΚΟΝΑΣ (Apple 1 Computer)
   
   
-  https://github.com/apost1/gr/blob/gh-pages/images/apple1computer.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer.jpg  
   
-  https://github.com/apost1/gr/blob/gh-pages/images/apple1computer2.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer2.jpg  
   
-  https://github.com/apost1/gr/blob/gh-pages/_gallery/apple1computer.md  
+ - https://github.com/apost1/gr/blob/gh-pages/_gallery/apple1computer.md  
    
   ### 2η ΠΡΟΣΘΗΚΗ ΕΙΚΟΝΑΣ (Spacewar)  
    
-  https://github.com/apost1/gr/blob/gh-pages/images/spacewar.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/spacewar.jpg  
   
-  https://github.com/apost1/gr/blob/gh-pages/images/spacewar-thumb.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/spacewar-thumb.jpg  
   
-  https://github.com/apost1/gr/blob/gh-pages/_gallery/spacewar.md  
+ - https://github.com/apost1/gr/blob/gh-pages/_gallery/spacewar.md  
   
   ### 3η ΠΡΟΣΘΗΚΗ ΕΙΚΟΝΑΣ (Xerox Alto)  
   
-  https://github.com/apost1/gr/blob/gh-pages/images/xerox%20alto.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/xerox%20alto.jpg  
   
-  https://github.com/apost1/gr/blob/gh-pages/images/xerox%20alto-thumb.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/xerox%20alto-thumb.jpg  
   
-  https://github.com/apost1/gr/blob/gh-pages/_gallery/xerox%20alto.md  
+ - https://github.com/apost1/gr/blob/gh-pages/_gallery/xerox%20alto.md  
   
   ### 4η ΠΡΟΣΘΗΚΗ ΕΙΚΟΝΑΣ (NLS)  
   
-  https://github.com/apost1/gr/blob/gh-pages/images/NLS.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/NLS.jpg  
   
-  https://github.com/apost1/gr/blob/gh-pages/images/NLS-thumb.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/NLS-thumb.jpg  
   
-  https://github.com/apost1/gr/blob/gh-pages/_gallery/NLS.md  
+ - https://github.com/apost1/gr/blob/gh-pages/_gallery/NLS.md  
   
   ### 5η ΠΡΟΣΘΗΚΗ ΕΙΚΟΝΑΣ (sketchpad)  
   
-  https://github.com/apost1/gr/blob/gh-pages/images/sketchpad.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/sketchpad.jpg  
   
-  https://github.com/apost1/gr/blob/gh-pages/images/sketchpad-thumb.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/sketchpad-thumb.jpg  
   
-  https://github.com/apost1/gr/blob/gh-pages/_gallery/sketchpad2.md
+ - https://github.com/apost1/gr/blob/gh-pages/_gallery/sketchpad2.md
   
   
   
