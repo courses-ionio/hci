@@ -8,13 +8,13 @@
 
 ## Ασκήσεις (Α) & Ενδιάμεση αναφορά (Β)
 
-### Ασκήσεις (Α)
+### A. Ασκήσεις
 | Άσκηση | Περιγραφή | Παραδοτέο |
 | ----- | ----- | ----- |
 | Άσκηση 1 | set-up the main dependencies and demonstrate your base system | https://asciinema.org/a/qldEWNkmkH3xlFZAM3hsFQX4a |
 | Άσκηση 2 | ... | ... |
 
 
-### Ενδιάμεση αναφορά (Β)
+### B. Ενδιάμεση αναφορά
 
 ... to be edited
