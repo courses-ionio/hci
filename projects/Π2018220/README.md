@@ -51,6 +51,8 @@
 ### ΠΑΡΑΔΟΤΕΟ Α:
 ### Εισαγωγή πέντε νέων εικόνων με ελεύθερα πνευματικά δικαιώματα, με λεζάντα.
 
+#### [Σύνδεσμος αποθετηρίου του μαθήματος gr](https://github.com/cyclenikolaos/gr)
+#### [Σύνδεσμος αποθετηρίου του αρχείου _config.yml](https://github.com/cyclenikolaos/gr/blob/gh-pages/_config.yml)
 #### Σύνδεσμοι 1ης φωτογραφίας:
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/A7100.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/A7100-thumb.jpg
