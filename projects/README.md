@@ -1,5 +1,5 @@
 Μαθημα: Επικοινωνία Ανθρώπου-Υπολογιστή
--
+=
 Ονοματεπώνυμο: Χατζηδάμος Ιωάννης
 -
 ΑΜ: Π2018079
@@ -7,19 +7,21 @@
 Παραδοτεο 2
 -
 link to original commit: https://github.com/fireleaf22/dokey/blob/2018079/paradoteo2_recording
+
 link to asciinema video: https://asciinema.org/a/280177
 
 Παραδοτεο 3
 -
 link to original commit: https://github.com/fireleaf22/dokey/blob/2018079/paradoteo3_recording
+
 link to asciinema video: https://asciinema.org/a/280180
 
 
 Ενδιαμεση αναφορα
--
+=
 
 Links
-=
+-
 
 First: https://github.com/fireleaf22/gr/blob/2018079/_gallery/Poke-Walker.md
 
