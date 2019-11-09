@@ -27,3 +27,8 @@
 
 **Σημείωση:** Για να φανούν οι αλλαγές που έγιναν για το shell από το .bashrc αρχείο έπρεπε να κάνω restart το terminal οπότε σε αυτό εδώ το [link](https://asciinema.org/a/278160) θα βρείτε την "συνέχεια" της άσκησης στο οποίο δεν φαίνεται τίποτα παραπάνω από μια σύντομη επίδειξη των 2 alias που δημιουργήθηκαν στο προηγούμενο terminal session.
 
+3. **Άσκηση 3** από το [dokey](https://github.com/courses-ionio/dokey) repository<br>
+Εκφώνηση: "plan your time with a calendar".<br>
+**Link στο asciinema:** [![asciicast](https://asciinema.org/a/280153.svg)](https://asciinema.org/a/280153)
+**Περιγραφή:**
+Για αυτήν την εργασία χρησιμοποιήθηκε το [Calendar.vim](https://github.com/itchyny/calendar.vim) plugin για το vim. Αυτό το plugin είναι ένα text based ημερολόγιο το οποίο έχει την δυνατότητα να κάνει add, edit και sync τα events με το google calendar, γεγονός το οποίο το καθιστά πρακτικό και μπορεί κάλλιστα να χρησιμοποιηθεί στην καθημερηνότητα για τον προγραμματισμό της εβδομάδας. Στο asciinema link παρουσιάζεται ο τρόπος με τον οποίο γίνεται η διαγραφή, η προσθήκη, η αναζήτηση αλλά και η τροποποίηση ενός event.
