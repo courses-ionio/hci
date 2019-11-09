@@ -7,7 +7,7 @@
 
 ## Εργασία: (1ο) Πρώτο Παραδοτέο
 
-#### [Asciinema link](https://asciinema.org/a/275357/ '[Asciinema link')
+#### [Asciinema link](https://asciinema.org/a/275357/ '[Asciinema link') 
 
 
 ## Παραδοτέο 1
