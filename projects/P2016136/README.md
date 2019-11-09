@@ -14,3 +14,6 @@ https://asciinema.org/a/lVPppiIdKRy6o0SlBAUah7Sht?fbclid=IwAR1tp9TBiLwk_IVym1FxR
 Ασκηση 3 
 get familiar with basic commands, reading documentation and editing files
 https://asciinema.org/a/4gVASFvQsb94CxwszzToGrnFK?fbclid=IwAR2MJrIisxpYZU3QwGx3nPEVTgSw6UMTEsSpdZUg_SscCo3TH9dBgGyhLaQ
+
+LINK ΑΠΟ ΚΛΕΙΣΤΟ PULL REQUEST ΜΕ ΤΗΣ ΗΜΕΡΟΜΗΝΙΕΣ ΤΩΝ COMMITS
+https://github.com/courses-ionio/hci/pull/1057
