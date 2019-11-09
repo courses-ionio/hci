@@ -74,4 +74,4 @@
 #### Σύνδεσμοι 5ης φωτογραφίας:
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car-thumb.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car.jpg
+#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car.md
