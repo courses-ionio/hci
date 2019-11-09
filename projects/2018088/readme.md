@@ -52,3 +52,58 @@
 > - [Sound editing programms - 160px](https://github.com/AlexKontop/gr/blob/gh-pages/images/sound_editing_programms-thumb.jpg)
 > - [Sound editing programms - Πληροφορίες](https://github.com/AlexKontop/gr/blob/gh-pages/_gallery/sound_editing_programms.md)
 
+
+
+
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| AlexKontop| Mechanical Keyboard |[Mechanical Keyboard - Κανονικό Μέγεθος](https://github.com/AlexKontop/gr/blob/gh-pages/images/mechanical_keyboard.jpg) [Mechanical Keyboard - 160px](https://github.com/AlexKontop/gr/blob/gh-pages/images/mechanical_keyboard-thumb.jpg)| Ένα μηχανικό πληκτρολόγιο έχει πραγματικούς, φυσικούς διακόπτες στην κάτω μεριά των κουμπιών που δημιουργούν την αίσθηση πληκτρολόγησης σε μια γραφομηχανή. Το πληκτρολόγιο είναι μια περιφερειακή συσκευή, απολύτως απαραίτητη για κάθε ηλεκτρονικό υπολογιστή. Ο κύριος στόχος του είναι η αλληλεπίδραση του χρήστη με τον υπολογιστή.|[License Link](https://pixabay.com/service/license/)|Pixabay License|Technology|Razer|
+
+|![Mechanical Keyboard](https://github.com/AlexKontop/gr/blob/gh-pages/images/mechanical_keyboard.jpg)|![Mechanical Keyboard](https://github.com/AlexKontop/gr/blob/gh-pages/images/mechanical_keyboard-thumb.jpg)|
+|:---:|:---:|
+
+
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| AlexKontop| Code scanner |[Code Scanner - Κανονικό Μέγεθος](https://github.com/AlexKontop/gr/blob/gh-pages/images/code_scanner.jpg) [Code Scanner - 160px](https://github.com/AlexKontop/gr/blob/gh-pages/images/code_scanner-thumb.jpg)|Ο σαρωτής (code scanner) είναι μια σύγχρονη ηλεκτρονική συσκευή ή εφαρμογή ηλεκτρονικής συσκευής η οποία επιτυγχάνει ψηφιοποίηση εικόνας (φωτογραφίας ή σχεδίου) καθώς και κάθε εγγράφου με σκοπό την αποθήκευση ή την επεξεργασία ή και την αποστολή αυτών.|[License Link](https://pixabay.com/service/license/)|Pixabay License|Technology|Xiaomi|
+
+|![Code Scanner](https://github.com/AlexKontop/gr/blob/gh-pages/images/code_scanner.jpg)|![Code scanner](https://github.com/AlexKontop/gr/blob/gh-pages/images/code_scanner-thumb.jpg)|
+|:---:|:---:|
+
+
+
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| AlexKontop| Headphones |[Headphones - Κανονικό Μέγεθος](https://github.com/AlexKontop/gr/blob/gh-pages/images/headphones.jpg) [Headphones - 160px](https://github.com/AlexKontop/gr/blob/gh-pages/images/headphones-thumb.jpg) | Τα ακουστικά (headphones) ειναι ένα ζευγάρι μικρών μεγαφώνων που φοριούνται πάνω από το κεφάλι του χρήστη. Πρόκειται για ηλεκτροακουστικούς μετατροπείς, οι οποίοι μετατρέπουν ένα ηλεκτρικό σήμα σε αντίστοιχο ήχο. Τα ακουστικά επιτρέπουν σε έναν μόνο χρήστη να ακούει μια πηγή ήχου ιδιωτικά, σε αντίθεση με ένα μεγάφωνο, το οποίο εκπέμπει ήχο στον χώρο.|[License Link](https://pixabay.com/service/license/)|Pixabay License|Technology|Razer|
+
+|![Headphones](https://github.com/AlexKontop/gr/blob/gh-pages/images/headphones.jpg)|![Headphones](https://github.com/AlexKontop/gr/blob/gh-pages/images/headphones-thumb.jpg)|
+|:---:|:---:|
+
+
+
+
+
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| AlexKontop| Smartwatch |[Κανονικό Μέγεθος](https://github.com/AlexKontop/gr/blob/gh-pages/images/smartwatch.jpg) [Smartwatch - 160px](https://github.com/AlexKontop/gr/blob/gh-pages/images/smartwatch-thumb.jpg)  | Ένα smartwatch είναι ένας φορητός υπολογιστής με οθόνη αφής και έχει την μορφή ρολογιού χειρός. Μπορούν να εκτελούν λειτουργίες οπως: υπολογισμούς, μεταφράσεις, αναπαραγωγή παιχνιδιών, αρχείων ήχου, βίντεο και επιτρέπουν την σύνδεση με WiFi / Bluetooth. Ορισμένα smartwatch μπορούν να πραγματοποιούν τηλεφωνικες κλησεις.|[License Link](https://pixabay.com/service/license/)|Pixabay License|Technology|Apple|
+
+|![Smartwatch](https://github.com/AlexKontop/gr/blob/gh-pages/images/smartwatch.jpg)|![Smartwatch](https://github.com/AlexKontop/gr/blob/gh-pages/images/smartwatch-thumb.jpg)|
+|:---:|:---:|
+
+
+
+
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| AlexKontop| Sound editing programms | [Sound editing programms - Κανονικό Μέγεθος](https://github.com/AlexKontop/gr/blob/gh-pages/images/sound_editing_programms.jpg) [Sound editing programms - 160px](https://github.com/AlexKontop/gr/blob/gh-pages/images/sound_editing_programms-thumb.jpg) | Το λογισμικό επεξεργασίας ήχου επιτρέπει την επεξεργασία και την παραγωγή ηχητικών δεδομένων. Υπάρχουν πολλά λογισμικά / προγράμματα.Τα περισσότερα μπορούν να επεξεργαστούν μουσική, να εφαρμόσουν εφέ και φίλτρα, να ρυθμίσουν στερεοφωνικά κανάλια κλπ |[License Link](https://pixabay.com/service/license/)|Pixabay License|Technology|Audacity|
+
+|![Sound editing programms](https://github.com/AlexKontop/gr/blob/gh-pages/images/sound_editing_programms.jpg)|![Sound editing programms](https://github.com/AlexKontop/gr/blob/gh-pages/images/sound_editing_programms-thumb.jpg)|
+|:---:|:---:|
+
+
+# ΠΗΓΕΣ ΠΛΗΡΟΦΟΡΙΩΝ
+> - [Mechanical Keyboard](https://el.wikipedia.org/wiki/Μηχανικό_πληκτρολόγιο)
+> - [Code Scanner](https://el.wikipedia.org/wiki/Σαρωτής)
+> - [Headphones](https://en.wikipedia.org/wiki/Headphones)
+> - [Smartwatch](https://en.wikipedia.org/wiki/Smartwatch)
+> - [Sound editing programms](https://en.wikipedia.org/wiki/Audio_editing_software)
