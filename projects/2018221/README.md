@@ -54,7 +54,7 @@
 
 ### [Σύνδεσμος αποθετηρίου](https://github.com/p18myro/gr 'Σύνδεσμος αποθετηρίου')
 
-### [Σύνδεσμος config.yml](https://github.com/p18myro/gr/blob/gh-pages/_config.yml')
+### [Σύνδεσμος config.yml](https://github.com/p18myro/gr/blob/gh-pages/_config.yml)
 
 ## Σύνδεσμοι Πρώτης εικόνας:
 ### [Eniac computer 1946](https://github.com/p18myro/gr/blob/gh-pages/images/Eniac%20computer%201946.jpg)
