@@ -46,6 +46,12 @@ Google Glass
   
   > 160px Image:https://github.com/initialelizah/gr/blob/gh-pages/images/Google_Glass_Main-thumb.jpg
   
+Oculus Rift
+  > https://github.com/initialelizah/gr/blob/gh-pages/_gallery/oculusrift.md
+  
+  > Image: https://github.com/initialelizah/gr/blob/gh-pages/images/Oculus-Rift-CV1-Headset-Front.png
+  
+  > 160px Image: https://github.com/initialelizah/gr/blob/gh-pages/images/Oculus-Rift-CV1-Headset-Front-thumb.png
   
 	
 
