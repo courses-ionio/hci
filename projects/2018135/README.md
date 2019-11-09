@@ -36,4 +36,6 @@ Power Glove
   > https://github.com/initialelizah/gr/blob/gh-pages/_gallery/power-glove.md
   
   > Image: https://github.com/initialelizah/gr/blob/gh-pages/images/NES-Power-Glove.jpg
+  
   > 160px Image:https://github.com/initialelizah/gr/blob/gh-pages/images/Nes-power-glove-160.png
+  
