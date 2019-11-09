@@ -23,3 +23,12 @@ https://asciinema.org/a/xjTeKbLQKW2NmeL1jqP62DJ7B
 
 
 https://asciinema.org/a/LBBHrPpQQWGBNm2LKhdvLk18S
+
+
+ΕΡΓΑΣΙΑ ΠΕΡΙΕΧΟΜΕΝΟΥ:
+1o ΠΑΡΑΔΟΤΕΟ
+
+1η εικονα:https://axel12321.github.io/gr/gallery/arduino-uno-board-tutorial-beginners2/
+2η εικόνα:https://axel12321.github.io/gr/gallery/minecrafter/
+3η εικόνα:https://axel12321.github.io/gr/gallery/programmer-coding/
+4η εικόνα:https://axel12321.github.io/gr/gallery/exam-studying/
