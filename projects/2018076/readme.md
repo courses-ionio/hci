@@ -24,23 +24,42 @@ Link :https://asciinema.org/a/278839
 Ακολουθούν οι σύνδεσμοι των εικονών και των πληροφοριών τους :
 
 [iPad - Info](https://github.com/aggelos2000430/gr/blob/gh-pages/_gallery/ipad.md)
+
 [iPad - Μεγάλη Εικόνα](https://github.com/aggelos2000430/gr/blob/gh-pages/images/ipad.jpg)
+
 [iPad - 160px](https://github.com/aggelos2000430/gr/blob/gh-pages/images/ipad-thumb.jpg)
 
+
+
 [AirPods - Info](https://github.com/aggelos2000430/gr/blob/gh-pages/_gallery/airpods.md)
+
 [AirPods - Μεγάλη Εικόνα](https://github.com/aggelos2000430/gr/blob/gh-pages/images/airpods.jpg)
+
 [AirPods - 160px](https://github.com/aggelos2000430/gr/blob/gh-pages/images/airpods-thumb.jpg)
 
+
+
 [Magic Mouse - Info](https://github.com/aggelos2000430/gr/blob/gh-pages/_gallery/magic-mouse.md)
+
 [Magic Mouse - Μεγάλη Εικόνα](https://github.com/aggelos2000430/gr/blob/gh-pages/images/magic-mouse.jpg)
+
 [Magic Mouse - 160px](https://github.com/aggelos2000430/gr/blob/gh-pages/images/magic-mouse-thumb.jpg)
 
+
+
 [iMac - Info](https://github.com/aggelos2000430/gr/blob/gh-pages/_gallery/Imac.md)
+
 [iMac - Μεγάλη Εικόνα](https://github.com/aggelos2000430/gr/blob/gh-pages/images/Imac.jpg)
+
 [iMac - 160px](https://github.com/aggelos2000430/gr/blob/gh-pages/images/Imac-thumb.jpg)
 
+
+
 [iPhone - Info](https://github.com/aggelos2000430/gr/blob/gh-pages/_gallery/iphone.md)
+
 [iPhone - Μεγάλη Εικόνα](https://github.com/aggelos2000430/gr/blob/gh-pages/images/iphone.jpg)
+
 [iPhone - 160px](https://github.com/aggelos2000430/gr/blob/gh-pages/images/iphone-thumb.jpg)
+
 
 #### Ευχαριστώ πολύ.
