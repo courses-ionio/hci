@@ -39,3 +39,13 @@ Power Glove
   
   > 160px Image:https://github.com/initialelizah/gr/blob/gh-pages/images/Nes-power-glove-160.png
   
+Google Glass
+  > https://github.com/initialelizah/gr/blob/gh-pages/_gallery/google-glass.md
+  
+  > Image: https://github.com/initialelizah/gr/blob/gh-pages/images/Google_Glass_Main.jpg
+  
+  > 160px Image:https://github.com/initialelizah/gr/blob/gh-pages/images/Google_Glass_Main-thumb.jpg
+  
+  
+	
+
