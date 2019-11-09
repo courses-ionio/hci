@@ -53,5 +53,26 @@ Oculus Rift
   
   > 160px Image: https://github.com/initialelizah/gr/blob/gh-pages/images/Oculus-Rift-CV1-Headset-Front-thumb.png
   
+Braille Terminal
+  > https://github.com/initialelizah/gr/blob/gh-pages/_gallery/braille-terminal.md
+  
+  > Image: https://github.com/initialelizah/gr/blob/gh-pages/images/Plage-braille.jpg
+  
+  > 160px Image: https://github.com/initialelizah/gr/blob/gh-pages/images/Plage-braille-thumb.jpg
+  
+Apple Watch
+  > https://github.com/initialelizah/gr/blob/gh-pages/_gallery/apple-watch
+  
+  > Image: https://github.com/initialelizah/gr/blob/gh-pages/images/Apple_Watch-.jpg
+  
+  > 160px Image: https://github.com/initialelizah/gr/blob/gh-pages/images/apple_watch-thumb.png
+  
+  
+  
 	
-
+Βιβλιογραφία
+  > https://en.wikipedia.org/wiki/Power_Glove
+  > https://en.wikipedia.org/wiki/Google_Glass
+  > https://en.wikipedia.org/wiki/Oculus_Rift_CV1
+  > https://en.wikipedia.org/wiki/Refreshable_braille_display
+  > https://en.wikipedia.org/wiki/Apple_Watch
