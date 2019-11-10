@@ -1,5 +1,22 @@
-# Δημήτρης Πραματευτάκης - ΑΜ: Π2018149
-## 1ο Παραδοτέο
+# Μάθημα: Επικοινωνία Ανθρώπου-Υπολογιστή
+**Ονοματεπώνυμο: Δημήτρης Πραματευτάκης**<br>
+**Αριθμός Μητρώου: Π2018149**<br>
+**Github λογαριασμός: https://github.com/jimDragon**
+# 1ο Παραδοτέο
+## Ενδιάμεση Αναφορά
+Προσθήκες που έγιναν στο βιβλίο [mibook](https://github.com/mibook/gr)<br>
+
+|  Θέμα    | Εικόνα κανονική                                                                                     | Εικόνα thumbnail                                                                                                | Markdown                                                                                         |
+| -------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| PSP      | [sony-psp.jpg](https://github.com/jimDragon/gr/blob/gh-pages/images/sony-psp.jpg)                   | [sony-psp-thumb](https://github.com/jimDragon/gr/blob/gh-pages/images/sony-psp-thumb.jpg)                       | [sony-psp.md](https://github.com/jimDragon/gr/blob/gh-pages/_gallery/sony-psp.md)                |
+| ISA      | [isa.jpg](https://github.com/jimDragon/gr/blob/gh-pages/images/isa.jpg)                             | [isa-thumb](https://github.com/jimDragon/gr/blob/gh-pages/images/isa-thumb.jpg)                                 | [isa.md](https://github.com/jimDragon/gr/blob/gh-pages/_gallery/isa.md)                          |
+| Librem 5 | [purism-librem-5.jpg](https://github.com/jimDragon/gr/blob/gh-pages/images/purism-librem-5.jpg)     | [purism-librem-5-thumb](https://github.com/jimDragon/gr/blob/gh-pages/images/purism-librem-5-thumb.jpg)         | [purism-librem-5](https://github.com/jimDragon/gr/blob/gh-pages/_gallery/purism-librem-5.md)     |
+| Cortana  | [cortana-assistant.jpg](https://github.com/jimDragon/gr/blob/gh-pages/images/cortana-assistant.jpg) | [cortana-assistant-thumb.jpg](https://github.com/jimDragon/gr/blob/gh-pages/images/cortana-assistant-thumb.jpg) | [cortana-assistant](https://github.com/jimDragon/gr/blob/gh-pages/_gallery/cortana-assistant.md) |
+| Kindle   | [amazon-kindle.jpg](https://github.com/jimDragon/gr/blob/gh-pages/images/amazon-kindle.jpg)         | [amazon-kindle-thumb](https://github.com/jimDragon/gr/blob/gh-pages/images/amazon-kindle-thumb.jpg)             | [amazon-kindle](https://github.com/jimDragon/gr/blob/gh-pages/_gallery/amazon-kindle.md)         |
+
+Link για το fork του βιβλίου: https://github.com/jimDragon/gr/
+
+## Ασκήσεις
 1. **Άσκηση 1** από το [dokey](https://github.com/courses-ionio/dokey) repository<br>
 Εκφώνηση: "Set-up the main dependencies and demonstrate your base system".<br>
 **Link στο asciinema:** [![asciicast](https://asciinema.org/a/275521.svg)](https://asciinema.org/a/275521)
@@ -7,7 +24,7 @@
 Σε αυτήν την εργάσια έγινε η παρουσίαση του συστήματος χρησιμοποιώντας διάφορα εργαλεία -προτεινόμενα και μη- όπως το [LSD](https://github.com/Peltoche/lsd), το [pfetch](https://github.com/dylanaraps/pfetch) και το nano. <br>
 Επιπλέον χρησιμοποιήθηκαν bash commands όπως *pwd*, *history*, *PS1* με colorcodes και το *man*.
 
-2. **Άσκηση 2** από το [dokey](https://github.com/courses-ionio/dokey) repository<br>
+2. **Άσκηση 5** από το [dokey](https://github.com/courses-ionio/dokey) repository<br>
 Εκφώνηση: "text editor and plug-ins for code highlighting and autocompletion".<br>
 **Link στο asciinema:** [![asciicast](https://asciinema.org/a/278159.svg)](https://asciinema.org/a/278159)
 **Περιγραφή:**
@@ -27,7 +44,7 @@
 
 **Σημείωση:** Για να φανούν οι αλλαγές που έγιναν για το shell από το .bashrc αρχείο έπρεπε να κάνω restart το terminal οπότε σε αυτό εδώ το [link](https://asciinema.org/a/278160) θα βρείτε την "συνέχεια" της άσκησης στο οποίο δεν φαίνεται τίποτα παραπάνω από μια σύντομη επίδειξη των 2 alias που δημιουργήθηκαν στο προηγούμενο terminal session.
 
-3. **Άσκηση 3** από το [dokey](https://github.com/courses-ionio/dokey) repository<br>
+3. **Άσκηση 4** από το [dokey](https://github.com/courses-ionio/dokey) repository<br>
 Εκφώνηση: "plan your time with a calendar".<br>
 **Link στο asciinema:** [![asciicast](https://asciinema.org/a/280153.svg)](https://asciinema.org/a/280153)
 **Περιγραφή:**
