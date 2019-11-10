@@ -46,3 +46,39 @@
 * [x] Επίδειξη λειτουργίας του πακέτου thefuck με την εντολή fuck.
 
 
+## Εργασία Συμμετοχικού περιεχομένου
+### Παραδοτέο Α
+
+#### [Link αποθετηρίου](https://github.com/p18mili1/gr 'Link αποθετηρίου')
+
+#### [Link αρχείου διαμόρφωσης](https://github.com/p18mili1/gr/blob/gh-pages/_config.yml)
+
+###  1η Εικόνα 
+#### Τίτλος: Ο μικροελεγκτής Atmega8 της Atmel
+#### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/Atmel_Atmega8.jpg)
+#### [Εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/Atmel_Atmega8-thumb.jpg)
+#### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Atmel_Atmega8.md)
+# 
+###  2η Εικόνα 
+#### Τίτλος: Ο μικροελεγκτής Intel-P8051:
+#### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/Intel_P8051.jpg)
+#### [Εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/Intel_P8051-thumb.jpg)
+#### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Intel_P8051.md)
+#
+###  3η Εικόνα
+#### Τίτλος: Ο μικροεπεξεργαστής MOS 6502
+#### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/MOS_6502.jpg)
+#### [Εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/MOS_6502-thumb.jpg)
+#### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/MOS_6502.md)
+#
+###  4η εικόνα
+#### Τίτλος: Ο μικροεπεξεργαστής Motorola MC6800
+#### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/Motorola_MC6800.jpg)
+#### [Εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/Motorola_MC6800-thumb.jpg)
+#### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Motorola_MC6800.md)
+#
+###  5η εικόνα
+#### Τίτλος: Ο μικροεπεξεργαστής Zilog_Z80
+#### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/Zilog_Z80.jpg)
+#### [Εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/Zilog_Z80-thumb.jpg)
+#### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Zilog_Z80.md)
