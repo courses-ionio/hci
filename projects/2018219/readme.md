@@ -60,7 +60,7 @@
 #### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Atmel_Atmega8.md)
 # 
 ###  2η Εικόνα 
-#### Τίτλος: Ο μικροελεγκτής Intel-P8051:
+#### Τίτλος: Ο μικροελεγκτής Intel-P8051
 #### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/Intel_P8051.jpg)
 #### [Εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/Intel_P8051-thumb.jpg)
 #### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Intel_P8051.md)
