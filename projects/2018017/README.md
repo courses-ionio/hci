@@ -3,7 +3,7 @@ ID/RN: P2018017<br>
 p18prov@ionio.gr<br>
 #### 1st Report:<br>
 
-**•Additions made to: https://github.com/provopoulos/gr repository.**<br>
+**•Additions made to: https://github.com/mibook/gr repository.**<br>
 
 |  Images 	|                                             Thumbnail                                            	|                                      Original                                      	|                                        (.md)                                       	|
 |:-------:	|:------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------:	|
