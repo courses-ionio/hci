@@ -7,6 +7,9 @@
 
 * [Ιστοσελίδα](https://csakou.github.io/gr/)
 * [Αποθετήριο Κώδικα](https://github.com/csakou/gr)
+
+### Παραδοτέο Α
+
 * Όλες οι προσθήκες αρχείων:
   * SuperPaint
     * https://github.com/csakou/gr/commit/18936d1906911320352516de4605dfd8c728ad21
