@@ -11,7 +11,7 @@
 ### A. Ασκήσεις
 | Άσκηση | Περιγραφή | Παραδοτέο |
 | ----- | ----- | ----- | 
-| Άσκηση 1 | set-up the main dependencies and demonstrate your base system | https://asciinema.org/a/qldEWNkmkH3xlFZAM3hsFQX4a |
+| Άσκηση 1 | set-up the main dependencies and demonstrate your base system | https://asciinema.org/a/280315 |
 | Άσκηση 2 | ... | ... |
 
 
