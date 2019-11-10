@@ -34,7 +34,7 @@ Keyboard-shortcuts:
 https://github.com/AggelosV/gr/blob/gh-pages/images/keyboard-shortcuts-thumb.jpg
 https://github.com/AggelosV/gr/blob/gh-pages/images/keyboard-shortcuts.jpg
 https://github.com/AggelosV/gr/blob/gh-pages/_gallery/keyboard-shortcuts.md
-
+ 
 Microsoft office: 
 https://github.com/AggelosV/gr/blob/gh-pages/images/microsoft-office-thumb.jpg
 https://github.com/AggelosV/gr/blob/gh-pages/images/microsoft-office.jpg
