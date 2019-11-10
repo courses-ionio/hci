@@ -1,10 +1,10 @@
 Ονοματεπωνυμο : Κωνσταντινος Θεοχαρακης
 Αριθμος Μητρωου : Π2018037
 
-- ΠΑΡΑΔΟΤΕΟ_1
+- ΑΣΚΗΣΗ_1
   Το link που ακολουθει αποτελει την υλοποιηση του πρωτου παραδοτεου και εχει υλοποιηθει με τη χρηση του προγραμματος asciinema
- https://asciinema.org/a/IUJCTUkExAfhnfDAdxlRebBBX
+  [Link_1](https://asciinema.org/a/IUJCTUkExAfhnfDAdxlRebBBX)
  
-- ΠΑΡΑΔΟΤΕΟ_2
+- ΑΣΚΗΣΗ_2
   Το link που ακολουθει αποτελει την υλοποιηση του δευτερου παραδοτεου
- https://asciinema.org/a/q3pQTFBZxIl3nTBFFkKUo3bDU
+  [Link_2](https://asciinema.org/a/q3pQTFBZxIl3nTBFFkKUo3bDU)
