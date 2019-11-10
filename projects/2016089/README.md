@@ -7,7 +7,22 @@
 
 * [Ιστοσελίδα](https://csakou.github.io/gr/)
 * [Αποθετήριο Κώδικα](https://github.com/csakou/gr)
-
+* Όλες οι προσθήκες αρχείων:
+  * SuperPaint
+    * https://github.com/csakou/gr/commit/18936d1906911320352516de4605dfd8c728ad21
+    * https://github.com/csakou/gr/commit/fb6121d4c262b8a3f292295bc4344d7a1dd59c39
+  * Maya
+    * https://github.com/csakou/gr/commit/c5c48f47b3ae9436222f49615eb63897c42f2279
+    * https://github.com/csakou/gr/commit/4a1e28826b7e90982abb2cb387c453ac6024c7a4
+  * IBM-5100 Portable Computer
+    * https://github.com/csakou/gr/commit/2acdc7547cee9097afe4047b232a4e31a9c51e40
+    * https://github.com/csakou/gr/commit/b61341cfee5ece66751f217dcf5c8ba80fbee6bc
+  * Spacewar!
+    * https://github.com/csakou/gr/commit/9efffcc9cb5d73949f7560ab1c4dfa47bd8cf6dd
+    * https://github.com/csakou/gr/commit/76985eebae019c20b9fed998742a1f1c712a4dcc
+  * ELIZA
+    * https://github.com/csakou/gr/commit/461d156f38cfb371817b79dfc8f6f3eb92a41c19
+    * https://github.com/csakou/gr/commit/d69cf9c333d0ee295074ebb21aefdac64aaf0b41
 
 ## Εισαγωγή
 
