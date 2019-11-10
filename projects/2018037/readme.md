@@ -4,9 +4,11 @@
 - ΑΣΚΗΣΗ_1
 
   Το link που ακολουθει αποτελει την υλοποιηση του πρωτου παραδοτεου και εχει υλοποιηθει με τη χρηση του προγραμματος asciinema
+  
   [Link_1](https://asciinema.org/a/IUJCTUkExAfhnfDAdxlRebBBX)
  
 - ΑΣΚΗΣΗ_2
 
   Το link που ακολουθει αποτελει την υλοποιηση του δευτερου παραδοτεου
+  
   [Link_2](https://asciinema.org/a/q3pQTFBZxIl3nTBFFkKUo3bDU)
