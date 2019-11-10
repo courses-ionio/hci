@@ -5,12 +5,12 @@
   
 - ΑΣΚΗΣΗ_1
 
-  Το link που ακολουθει αποτελει την υλοποιηση της πρωτης ασκησης.
+    Το link που ακολουθει αποτελει την υλοποιηση της πρωτης ασκησης.
   
-  [Link_1](https://asciinema.org/a/IUJCTUkExAfhnfDAdxlRebBBX)
+    [Link_1](https://asciinema.org/a/IUJCTUkExAfhnfDAdxlRebBBX)
  
 - ΑΣΚΗΣΗ_2
 
-  Το link που ακολουθει αποτελει την υλοποιηση της δευτερης ασκησης.
+    Το link που ακολουθει αποτελει την υλοποιηση της δευτερης ασκησης.
   
-  [Link_2](https://asciinema.org/a/q3pQTFBZxIl3nTBFFkKUo3bDU)
+    [Link_2](https://asciinema.org/a/q3pQTFBZxIl3nTBFFkKUo3bDU)
