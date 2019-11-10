@@ -30,7 +30,7 @@ LINK: https://asciinema.org/a/275555
 
 - [Praxinoscope - Πληροφορίες](https://github.com/TheodoreKont/gr/blob/gh-pages/_gallery/Praxinoscope.md)
 - [Praxinoscope - Κανονική Ανάλυση](https://github.com/TheodoreKont/gr/blob/gh-pages/images/Praxinoscope.jpg)
-- [Television - 160px](https://github.com/TheodoreKont/gr/blob/gh-pages/images/Praxinoscope-thumb.jpg)
+- [Praxinoscope - 160px](https://github.com/TheodoreKont/gr/blob/gh-pages/images/Praxinoscope-thumb.jpg)
 
 - [Smart TV - Πληροφορίες](https://github.com/TheodoreKont/gr/blob/gh-pages/_gallery/Smart%20TV.md)
 - [Smart TV - Κανονική Ανάλυση](https://github.com/TheodoreKont/gr/blob/gh-pages/images/Smart%20TV.jpg)
