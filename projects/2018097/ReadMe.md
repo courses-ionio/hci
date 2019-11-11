@@ -37,7 +37,7 @@ video link: https://asciinema.org/a/278495
 
 
 
-Ergonomin Mouse 
+Ergonomic Mouse 
 
 
 [Ergonomic mouse caption](https://github.com/rmfe/gr/blob/gh-pages/_gallery/ErgonomicMouse.md)
