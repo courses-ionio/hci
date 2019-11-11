@@ -59,8 +59,12 @@
 
 <h3>Πηγές</h3>
 
-<a href="https://en.wikipedia.org/wiki/LED_display">
-<a href="https://en.wikipedia.org/wiki/Gamepad">
-<a href="https://en.wikipedia.org/wiki/Google_Glass">
-<a href="https://en.wikipedia.org/wiki/Electronic_fingerprint_recognition">
-<a href="https://en.wikipedia.org/wiki/Zenith_Electronics"> 
+<a href="https://en.wikipedia.org/wiki/LED_display">LED Display   
+
+<a href="https://en.wikipedia.org/wiki/Gamepad">Gamepad
+
+<a href="https://en.wikipedia.org/wiki/Google_Glass">Google glass
+
+<a href="https://en.wikipedia.org/wiki/Electronic_fingerprint_recognition">Fingerprint
+
+<a href="https://en.wikipedia.org/wiki/Zenith_Electronics">Remote Control 
