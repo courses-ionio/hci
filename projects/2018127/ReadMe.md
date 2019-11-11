@@ -28,3 +28,54 @@ Assigment: get familiar with basic commands, reading documentation and editing f
 Deliverables:
 
 > browse and view files on your system (Asciicast [here](https://asciinema.org/a/xm9Fp8cYMrG6IQlNdQkhgFJw7))
+
+# Ενδιάμεση Αναφορά:Συμμετοχικό Υλικό
+
+## Παραδοτέο Α
+### Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση .
+> Κατηγορίες:
+- Chromecast:
+
+    [Large Image](https://github.com/runtheorun-exe/gr/blob/gh-pages/images/chromecast.jpg)
+    
+    [Thumbnail](https://github.com/runtheorun-exe/gr/blob/gh-pages/images/chromecast-thumb.jpg)
+    
+    [Caption](https://github.com/runtheorun-exe/gr/blob/gh-pages/_gallery/chromecast.md)
+    
+   
+ - Fairphone:
+ 
+    [Large Image](https://github.com/runtheorun-exe/gr/blob/gh-pages/images/fairphone.jpg)
+    
+    [Thumbnail](https://github.com/runtheorun-exe/gr/blob/gh-pages/images/fairphone-thumb.jpg)
+    
+    [Caption](https://github.com/runtheorun-exe/gr/blob/gh-pages/_gallery/fairphone.md)
+    
+    
+  - Kinect:
+  
+    [Large Image](https://github.com/runtheorun-exe/gr/blob/gh-pages/images/kinect.jpg)
+    
+    [Thumbnail](https://github.com/runtheorun-exe/gr/blob/gh-pages/images/kinect-thumb.jpg)
+    
+    [Caption](https://github.com/runtheorun-exe/gr/blob/gh-pages/_gallery/kinect.md)
+    
+    
+  - Tesla Autopilot:
+  
+     [Large Image](https://github.com/runtheorun-exe/gr/blob/gh-pages/images/tesla-autopilot.jpg)
+    
+     [Thumbnail](https://github.com/runtheorun-exe/gr/blob/gh-pages/images/tesla-autopilot-thumb.jpg)
+    
+     [Caption](https://github.com/runtheorun-exe/gr/blob/gh-pages/_gallery/tesla-autopilot.md)
+    
+  -  Windows 8:
+  
+     [Large Image](https://github.com/runtheorun-exe/gr/blob/gh-pages/images/windows8.jpg)
+    
+     [Thumbnail](https://github.com/runtheorun-exe/gr/blob/gh-pages/images/windows8-thumb.jpg)
+    
+     [Caption](https://github.com/runtheorun-exe/gr/blob/gh-pages/_gallery/windows8.md)
+   
+    
+    
