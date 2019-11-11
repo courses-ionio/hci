@@ -35,15 +35,12 @@
 - [git 160p] https://github.com/NestorasKosmidis/gr/blob/gh-pages/images/git-thumb.jpg
 
 ## Παραπομπές
-- (1)https://el.wikipedia.org/wiki/%CE%95%CE%B9%CE%BA%CE%BF%CE%BD%CE%B9%CE%BA%CE%AE_%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1
+https://el.wikipedia.org/wiki/%CE%95%CE%B9%CE%BA%CE%BF%CE%BD%CE%B9%CE%BA%CE%AE_%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1
 
--(2)https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%B1%CF%85%CE%BE%CE%B7%CE%BC%CE%AD%CE%BD%CE%B7_%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1
+https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%B1%CF%85%CE%BE%CE%B7%CE%BC%CE%AD%CE%BD%CE%B7_%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1
 
--
-(3)https://el.wikipedia.org/wiki/DuckDuckGo
+https://el.wikipedia.org/wiki/DuckDuckGo
 
--
-(4)https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B1%CE%B4%CE%AF%CE%BA%CF%84%CF%85%CE%BF_%CF%84%CF%89%CE%BD_%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%AC%CF%84%CF%89%CE%BD
+https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B1%CE%B4%CE%AF%CE%BA%CF%84%CF%85%CE%BF_%CF%84%CF%89%CE%BD_%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%AC%CF%84%CF%89%CE%BD
 
--
-(5)https://el.wikipedia.org/wiki/Git_(%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CF%8C)#%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C
+https://el.wikipedia.org/wiki/Git_(%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CF%8C)#%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C
