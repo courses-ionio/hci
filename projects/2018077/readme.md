@@ -2,8 +2,8 @@
 Α ενδιάμεση αναφορά συμμετοχικό υλικό.
 
 Στoιχeία :
-  Κατερίνα-Μαρία Λάζαρη
-  π2018077
+ όνομα: Κατερίνα-Μαρία Λάζαρη
+ ΑΜ: π2018077
 
 windows-menus :
 https://github.com/katerinalaza/gr/blob/gh-pages/_gallery/windows-menus.md
