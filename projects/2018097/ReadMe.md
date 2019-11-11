@@ -40,11 +40,11 @@ video link: https://asciinema.org/a/278495
 Ergonomin Mouse 
 
 
-[ergonomic mouse caption](https://github.com/rmfe/gr/blob/gh-pages/_gallery/ErgonomicMouse.md)
+[Ergonomic mouse caption](https://github.com/rmfe/gr/blob/gh-pages/_gallery/ErgonomicMouse.md)
 
-[ergonomic mouse image](https://github.com/rmfe/gr/blob/gh-pages/images/ergonomicmouse.jpg)
+[Ergonomic mouse image](https://github.com/rmfe/gr/blob/gh-pages/images/ergonomicmouse.jpg)
 
-[ergonomic mouse image thumb](https://github.com/rmfe/gr/blob/gh-pages/images/ergonomicmouse-thumb.jpg)
+[Ergonomic mouse image thumb](https://github.com/rmfe/gr/blob/gh-pages/images/ergonomicmouse-thumb.jpg)
 
 
 
