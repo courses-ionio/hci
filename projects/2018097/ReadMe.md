@@ -42,20 +42,20 @@ Ergonomin Mouse
 
 [ergonomic mouse caption](https://github.com/rmfe/gr/blob/gh-pages/_gallery/ErgonomicMouse.md)
 
-[ergonomic mouse image]()
+[ergonomic mouse image](https://github.com/rmfe/gr/blob/gh-pages/images/ergonomicmouse.jpg)
 
-[ergonomic mouse image thumb]()
+[ergonomic mouse image thumb](https://github.com/rmfe/gr/blob/gh-pages/images/ergonomicmouse-thumb.jpg)
 
 
 
 Classroom
 
 
-[Classroom caption](https://github.com/rmfe/gr/blob/gh-pages/_gallery/classroom.md)
+[Classroom caption](https://github.com/rmfe/gr/blob/gh-pages/_gallery/classrooms.md)
 
-[Classroom image]()
+[Classroom image](https://github.com/rmfe/gr/blob/gh-pages/images/classrooms.jpg)
 
-[Classroom image thumb]()
+[Classroom image thumb](https://github.com/rmfe/gr/blob/gh-pages/images/classrooms-thumb.jpg)
 
 
 
@@ -64,9 +64,9 @@ First Games For Pc
 
 [First games for pc caption](https://github.com/rmfe/gr/blob/gh-pages/_gallery/firstgamesforpc.md)
 
-[First games for pc image]()
+[First games for pc image](https://github.com/rmfe/gr/blob/gh-pages/images/firstgamesofpc.jpg)
 
-[First games for pc image thumb]()
+[First games for pc image thumb](https://github.com/rmfe/gr/blob/gh-pages/images/firstgamesofpc-thumb.jpg)
 
 
 
@@ -75,9 +75,9 @@ Cameras
 
 [Camera caption](https://github.com/rmfe/gr/blob/gh-pages/_gallery/camera.md)
 
-[Camera image]()
+[Camera image](https://github.com/rmfe/gr/blob/gh-pages/images/camera.jpg)
 
-[Camera image thumb]()
+[Camera image thumb](https://github.com/rmfe/gr/blob/gh-pages/images/camera-thumb.jpg)
 
 
 
@@ -85,8 +85,8 @@ Carpooling Apps
 
 [Carpooling app caption](https://github.com/rmfe/gr/blob/gh-pages/_gallery/carpoolingapps.md)
 
-[Carpooling app image]()
+[Carpooling app image](https://github.com/rmfe/gr/blob/gh-pages/images/carpooling.jpg)
 
-[Carpooling app image thumb]()
+[Carpooling app image thumb](https://github.com/rmfe/gr/blob/gh-pages/images/carpooling-thumb.jpg)
 
 
