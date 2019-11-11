@@ -1,6 +1,10 @@
 # Παραδοτέο 1
 Α ενδιάμεση αναφορά συμμετοχικό υλικό.
 
+Στoιχeία :
+  Κατερίνα-Μαρία Λάζαρη
+  π2018077
+
 windows-menus :
 https://github.com/katerinalaza/gr/blob/gh-pages/_gallery/windows-menus.md
 https://github.com/katerinalaza/gr/blob/gh-pages/images/Windows10.jpg
