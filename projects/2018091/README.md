@@ -57,3 +57,10 @@
 
 <a href="https://github.com/elias2500/gr/blob/gh-pages/_gallery/Zenith%20Space%20Command.md">Info table
 
+<h3>Πηγές</h3>
+
+<a href="https://en.wikipedia.org/wiki/LED_display">
+<a href="https://en.wikipedia.org/wiki/Gamepad">
+<a href="https://en.wikipedia.org/wiki/Google_Glass">
+<a href="https://en.wikipedia.org/wiki/Electronic_fingerprint_recognition">
+<a href="https://en.wikipedia.org/wiki/Zenith_Electronics"> 
