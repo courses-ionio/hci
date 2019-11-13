@@ -107,3 +107,15 @@
 > - [3] https://el.wikipedia.org/wiki/Enigma_(συσκευή)
 > - [4] https://el.wikipedia.org/wiki/Ubuntu
 > - [5] https://el.wikipedia.org/wiki/Android
+
+### ***Άσκηση 3***
+> #### **Assignments Εργασίας/Παραδοτέου 2:**
+> - Plan your time with a calendar.
+
+> #### **Ζητούμενα:**
+> - Add, edit, search for an appointmet.
+> - List of others......
+
+> #### **Εκτελέσιμα links στο asciinema:**
+> - [Visit 1](https://asciinema.org/........)
+> - [Visit 2](https://asciinema.org/........)
