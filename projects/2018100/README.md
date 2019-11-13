@@ -3,6 +3,28 @@
 #### Ονοματεπώνυμο: Δημόπουλος Ευάγγελος
 #### Αριθμός Μητρώου: Π2018100
 
+## Συμμετοχικό Περιεχόμενο
+
+* [Ιστοσελίδα](https://badwolfgr.github.io/gr/)
+* [Αποθετήριο Κώδικα](https://github.com/badwolfgr/gr)
+
+### Παραδοτέο Α
+
+Όλες οι προσθήκες αρχείων:
+
+ * George Hotz
+   * https://github.com/badwolfgr/gr/commit/6be7164e1b8e50169c57e4541d282967530cf55e
+ * Microsoft HoloLens
+   * https://github.com/badwolfgr/gr/commit/4c3578a456320c4f29481a1c498e49f5f779af08
+ * iOS jailbreaking
+   * https://github.com/badwolfgr/gr/commit/a9966183fc1cf8d41d35555f78a6fdd506a9bb18
+ * Microsoft Flight Simulator
+   * https://github.com/badwolfgr/gr/commit/ccb2888d5778f3bea9ffb6b36ed087f02f657308
+ * openpilot
+   * https://github.com/badwolfgr/gr/commit/1a230a8f4d37fe3691e0afaad65988ed254eff92
+
+## Ασκήσεις
+
 ## Άσκηση 1
 
 - [Αλλαγή του ονόματος τερματικού με τον αριθμό μητρώου](https://asciinema.org/a/b7AuHrlTmRn9u6s077WRvf8IB)
