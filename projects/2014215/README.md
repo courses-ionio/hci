@@ -34,3 +34,42 @@ sudo apt install neofetch
 ```
 neofetch
 ```
+
+### Eργασία 2. Βrowse and view files on your system.
+
+#### url asciinema: https://asciinema.org/a/h62DdOhYr0twEc1Tqhwj792pn
+
+Για την εργασία αυτή εγκατέστησα το ranger και το vim, με τις ενολές 
+```
+sudo apt-get install ranger
+```
+
+```
+sudo apt-get install vim
+```
+
+στη συνέχεια είδα τα manual και για τα δύο με τις εντολές
+
+```
+man ranger
+```
+
+```
+man vim
+```
+
+Δημιουργησα directory με ονομα askisi2 και μεσα σε αυτό με τον nano editor δημιουργησα δύο αρχεία .txt για τις ανάγκες της άσκησης. Στη συνέχεια έτρεξα το ranger με την εντολή
+
+```
+ranger
+```
+
+To ranger σου δείχνει όλα τα directory και τα αρχεία στο σύστημα με ευκολη πλοήγηση με τα βελάκια του πληκτρολογίου. Σου δείχνει επίσης και το περιεχόμενο των αρχείων.
+
+Στη συνέχεα χρησιμοποίησα το vim για να δω τα 2 αρχεία που δημιούργησα πριν.
+
+```
+vim /path/to/filename
+```
+
+
