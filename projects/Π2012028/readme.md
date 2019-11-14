@@ -47,7 +47,13 @@
  
  
  
+ ## Παραπομπές
  
+ > - ***Nintendo Switch -> [:books:](https://el.wikipedia.org/wiki/Nintendo_Switch)***
+ > - ***Sony PS One -> [:books:](https://en.wikipedia.org/wiki/PlayStation_(console)#PS_One)***
+ > - ***Kindle E-Reader -> [:books:](https://en.wikipedia.org/wiki/Amazon_Kindle)***
+ > - ***Amazon Echo Dot Speaker -> [:books:](https://en.wikipedia.org/wiki/Amazon_Kindle)***
+ > - ***Floppy Disk -> [:books:](https://el.wikipedia.org/wiki/%CE%94%CE%B9%CF%83%CE%BA%CE%AD%CF%84%CE%B1_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE)***
  
  
  
