@@ -14,6 +14,8 @@
 Εκτελέσιμο link: https://asciinema.org/a/aaTcEGI3nx8XJxZCvTNAbxDD6?fbclid=IwAR1Az5Dtp_jzthbqhEc-tBXOIZ6bvw-9WldFs9s66ZzJnfJWz9KMdLRCgB0
 
 *Συμμετοχικό περιεχόμενο* 
+
+
 1
  Apple_Newton_MessagePad
  https://github.com/perikrananou/gr/blob/gh-pages/_gallery/Apple_Newton_MessagePad_100_with_stylus.md
