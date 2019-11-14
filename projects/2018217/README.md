@@ -4,7 +4,7 @@
 > ## **[GitHub Profile](https://github.com/p18mant)**
 
 ### ***Άσκηση 1***
-> #### **Assignments Εργασίας/Παραδοτέου 1:**
+> #### **Assignments Άσκησης 1:**
 > - Set-up the main dependencies and demostrate your base system.
 
 > #### **Ζητούμενα:**
@@ -17,10 +17,10 @@
 > - [Visit 1](https://asciinema.org/a/275323)
 > - [Visit 2](https://asciinema.org/a/275329)
 
-> #### **[Αποθετήριο κώδικα παραδοτέου 1](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+> #### **[Αποθετήριο κώδικα άσκησης 1](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
 ### ***Άσκηση 2***
-> #### **Assignments Εργασίας/Παραδοτέου 2:**
+> #### **Assignments Άσκησης 2:**
 > - Get familiar with basic commands, reading documentation and editing files.
 
 > #### **Ζητούμενο:**
@@ -30,7 +30,22 @@
 > - [Visit 1](https://asciinema.org/a/277765)
 > - [Visit 2](https://asciinema.org/a/277772)
 
-> #### **[Αποθετήριο κώδικα παραδοτέου 2](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+> #### **[Αποθετήριο κώδικα άσκησης 2](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+
+### ***Άσκηση 3***
+> #### **Assignments Άσκησης 3:**
+> - Plan your time with a calendar.
+
+> #### **Ζητούμενα:**
+> - Add, edit, search for an appointmet.
+> - List of others......
+
+> #### **Εκτελέσιμα links στο asciinema:**
+> - [Visit 1](https://asciinema.org/........)
+> - [Visit 2](https://asciinema.org/........)
+
+> #### **[Αποθετήριο κώδικα άσκησης 3](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+
 
 > #### **Διεργασίες - Σχόλια - Πρόσθετη Εργασία:**
 > - Για την πραγματοποίηση της εργασίας εγκαταστάθηκε λογισμικό Linux Ubuntu 16.04.6 LTS σε υπολογιστή χωρίς λογισμικό.
@@ -39,7 +54,7 @@
 > - Εγκατάσταση neofetch.
 > - Εγκατάσταση inxi.
 > - Εγκατάσταση mc.
-
+> - Εγκατάσταση calcurse.
 
 ### ***Α - Εργασία Ενδιάμεσης Αναφοράς Προόδου / Συμμετοχικό Υλικό***
 > #### **Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.**
@@ -107,19 +122,3 @@
 > - [3] https://el.wikipedia.org/wiki/Enigma_(συσκευή)
 > - [4] https://el.wikipedia.org/wiki/Ubuntu
 > - [5] https://el.wikipedia.org/wiki/Android
-
-### ***Άσκηση 3***
-> #### **Assignments Εργασίας/Παραδοτέου 2:**
-> - Plan your time with a calendar.
-
-> #### **Ζητούμενα:**
-> - Add, edit, search for an appointmet.
-> - List of others......
-
-> #### **Εκτελέσιμα links στο asciinema:**
-> - [Visit 1](https://asciinema.org/........)
-> - [Visit 2](https://asciinema.org/........)
-
-> #### **Διεργασίες - Σχόλια - Πρόσθετη Εργασία:**
-> - Εγκατάσταση brew για την χρήση εργαλείων λογισμικού.
-> - .....................
