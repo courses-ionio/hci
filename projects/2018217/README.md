@@ -41,7 +41,7 @@
 > - List of others......
 
 > #### **Εκτελέσιμα links στο asciinema:**
-> - [Visit 1](https://asciinema.org/........)
+> - [Visit 1](https://asciinema.org/a/281392)
 > - [Visit 2](https://asciinema.org/........)
 
 > #### **[Αποθετήριο κώδικα άσκησης 3](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
