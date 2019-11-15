@@ -40,7 +40,6 @@
 - [x] Ανάγνωση και τροποποίηση εγγράφων
 
 
-
 ### Τεκμηρίωση ζητούμενων: 
 
 #### [Σύνδεσμος στο asciinema για την εκπλήρωση των ζητούμενων:](https://asciinema.org/a/278747)
@@ -78,8 +77,17 @@
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car-thumb.jpg
 #### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car.md
 
+
 ## ΕΡΓΑΣΙΑ 3
 ### become productive with a todo list.
+
+### Εκπλήρωση ζητουμένων:
+- [x] Εγκατάσταση του todo.sh
+
+- [x] Configuration του todo.cfg ώστε να γνωρίζει το path που βρίσκεται το todo
+
+- [x] Δημιουργία αρχείου cast και ανέβασμα στο asciinema
+
 
 ### Τεκμηρίωση ζητουμένων:
 
