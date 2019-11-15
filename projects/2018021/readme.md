@@ -10,6 +10,9 @@ https://asciinema.org/a/275934
 Άσκηση 2: get familiar with basic commands, reading documentation and editing files
 https://asciinema.org/a/278840
 
+Άσκηση 3: plan your time with a calendar
+https://asciinema.org/a/281580
+
 # Ενδιάμεση αναφορά: Προσθήκη 5 εικόνων
 
 ### Κανονικές
