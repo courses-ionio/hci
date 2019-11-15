@@ -9,4 +9,9 @@
 1ο Παραδοτέο : 
 Eργασία 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
-asciinema url : 
+asciinema url : https://asciinema.org/a/keBDHmRuUaU2zFpO9oMcoHDcC
+
+Χρησιμοποίησα τις παρακάτω εντολές :
+>αααα
+
+
