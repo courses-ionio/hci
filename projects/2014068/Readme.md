@@ -7,7 +7,7 @@
 ### Γιώτα Πετσάβα
 ### ΑΜ: Π2014068
 
-## Eργασία 1. Σet-up the main dependencies and demonstrate your base system. change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
+## Άσκηση 1. Σet-up the main dependencies and demonstrate your base system. change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
 #### url asciinema https://asciinema.org/a/yCnqSUKWRPNje3GVvlULUYAuc
 
@@ -34,3 +34,31 @@ sudo apt-get install neofetch
 ```
 neofetch
 ```
+
+## Άσκηση 2. Get familiar with basic commands, reading documentation and editing files. Browse and view files on your system
+
+#### url asciinema  https://asciinema.org/a/KZ22oOO0qMmsjZ34UFScnctN0
+
+Για αυτη την εργασία χρησιμοποίησα το ranger. Μπορείς να πλοηγηθείς στο filesystem και να δεις directory και αρχεία πολύ εύκολα. Μπορείς ακόμα και να τα επεξεργαστείς με όποιον editor θες. Για να εγκαταστήσω το ranger χρησιμοποίησα την εντολή
+
+
+```
+sudo apt install ranger
+```
+
+Αφού είδα το manual με την εντολή
+
+```
+man ranger
+```
+
+Έτρεξα το ranger με την εντολή
+
+```
+ranger
+```
+
+
+
+
+
