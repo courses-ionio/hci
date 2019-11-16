@@ -8,7 +8,7 @@
 -----
 ## 1ο Παραδοτέο
 
-#### 1.Αssignment: set-up the main dependencies and demonstrate your base system
+### 1.Αssignment: set-up the main dependencies and demonstrate your base system
 Αυτό που κάνω παρακάτω είναι αρχικά να αλλάξω το όνομα της γραμμής εντελών με τον 
 Αριθμό Μητρώου μου, στην συνέχεια εμφανίζω τα κρυφά αρχεία μου, το περιεχόμενο 
 από το “shell configuration” αρχείο, και τέλος πληροφορίες του συστήματος
@@ -25,7 +25,7 @@ PS1, ls, egrep (grep -E), cat, lscpu, lshw, hwinfo, neofetch.
 Asciinema Video:
 [![asciicast](https://asciinema.org/a/3hV7USPYAhPyp2pBePMr9l2G5.png)](https://asciinema.org/a/3hV7USPYAhPyp2pBePMr9l2G5)
 
-#### 2.Assignment: text editor and plug-ins for code highlighting and autocompletion
+### 2.Assignment: text editor and plug-ins for code highlighting and autocompletion
 Αυτό που κάνω παρακάτω είναι αρχικά να αλλάξω το όνομα της γραμμής εντελών με τον 
 Αριθμό Μητρώου μου, στην συνέχεια εμφανίζω τα αρχεία που βρίσκονται στην τοποθεσία “.vim/bundle” τα οποία είναι όλα τα plug-ins  τα οποία πέρασα για το  vim.  Παρακάτω ανοίγω με το vim το αρχείο .vimrc όπου βρίσκονται όλες οι ρυθμίσεις για το vim καθώς και για τα plug-ins και παρουσιάζω λειτουργίες από ρυθμίσεις που προσέθεσα στο vim όπως και  τουλάχιστον από μια λειτουργία από κάθε plug-in.  Τέλος με το plug-in nerdTree ανοίγω μέσο του vim κάποια έξτρα αρχεία (όπως ένα αρχείο .c και ένα αρχείο .java(git) )  ώστε να παρουσιάσω με καλύτερο τρόπο κάποια από τα plug-ins.
 
@@ -43,3 +43,17 @@ Asciinema Video:
 Plugin Manager [Vundle](https://github.com/VundleVim/Vundle.vim)
 
 [![asciicast](https://asciinema.org/a/rK7pcY2aUEbvobJJlbctV67jY.png)](https://asciinema.org/a/rK7pcY2aUEbvobJJlbctV67jY)
+
+### 3.Assigment: organise the terminal window into multiple areas
+
+
+---
+### Συμμετοχικό περιεχόμενο:
+#### [Το δικό μου αντίγραφο (fork) του αποθετηρίου της ιστοσελίδας του βιβλίου του μαθήματος](https://github.com/Rigas-A/gr)
+(όλες μου οι αλλαγές βρίσκονται στο branch "Add-Images")
+
+Title | Commodore 64 (1962) | Ultra-Mobile PC | Python | Microsoft Games | Unreal Engine 
+--- | --- | --- | --- | --- | --- 
+.md file | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/commodore-64.md | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/ultra-mobile-PC.md | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/python.md | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/microsoft-games.md | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/unreal-engine.md 
+image | https://github.com/Rigas-A/gr/blob/Add-Images/images/commodore-64.jpg | https://github.com/Rigas-A/gr/blob/Add-Images/images/ultra-mobile-PC.jpg | https://github.com/Rigas-A/gr/blob/Add-Images/images/python.png | https://github.com/Rigas-A/gr/blob/Add-Images/images/microsoft-games.png | https://github.com/Rigas-A/gr/blob/Add-Images/images/unreal-engine.jpg   
+thumbnail | https://github.com/Rigas-A/gr/blob/Add-Images/images/commodore-64-thumb.jpg | https://github.com/Rigas-A/gr/blob/Add-Images/images/ultra-mobile-PC-thumb.jpg | https://github.com/Rigas-A/gr/blob/Add-Images/images/python-thumb.png | https://github.com/Rigas-A/gr/blob/Add-Images/images/microsoft-games-thumb.png | https://github.com/Rigas-A/gr/blob/Add-Images/images/unreal-engine-thumb.jpg  
