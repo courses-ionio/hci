@@ -51,3 +51,11 @@ Asciinema link: https://asciinema.org/a/dTCNHcshqFdBB3ZhD02lrGv6Q
 > - [Doom video game table](https://github.com/sophia-ts/gr/blob/gh-pages/_gallery/doom.md)
 > - [Doom video game image](https://github.com/sophia-ts/gr/blob/gh-pages/images/doom.jpg)
 > - [Doom video game image 160px](https://github.com/sophia-ts/gr/blob/gh-pages/images/doom-thumb.jpg)
+
+## Τρίτη άσκηση
+
+Άσκηση: try a different shell
+
+Asciinema link (1ο μέρος): https://asciinema.org/a/281753
+
+Asciinema link (2ο μέρος): https://asciinema.org/a/281774
