@@ -37,7 +37,7 @@
 > - Plan your time with a calendar.
 
 > #### **Ζητούμενα:**
-> - Add, edit, search for an appointmet.
+> - Add, edit, search for an appointment.
 > - List of others......
 
 > #### **Εκτελέσιμα links στο asciinema:**
