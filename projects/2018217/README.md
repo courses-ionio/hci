@@ -38,16 +38,14 @@
 
 > #### **Ζητούμενα:**
 > - Add, edit, search for an appointment.
-> - List of others......
 
-> #### **Εκτελέσιμα links στο asciinema:**
-> - [Visit 1](https://asciinema.org/a/281392)
-> - [Visit 2](https://asciinema.org/........)
+> #### **Εκτελέσιμο link στο asciinema:**
+> - [Visit](https://asciinema.org/a/281392)
 
 > #### **[Αποθετήριο κώδικα άσκησης 3](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
 
-> #### **Διεργασίες - Σχόλια - Πρόσθετη Εργασία:**
+> #### **Διεργασίες - Σχόλια - Πρόσθετη Εργασία Ασκήσεων:**
 > - Για την πραγματοποίηση της εργασίας εγκαταστάθηκε λογισμικό Linux Ubuntu 16.04.6 LTS σε υπολογιστή χωρίς λογισμικό.
 > - Εγκατάσταση asciinema και δημιουργία account.
 > - Εγκατάσταση brew για την χρήση εργαλείων λογισμικού.
