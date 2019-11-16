@@ -42,10 +42,16 @@ Asciinema Video:
 
 Plugin Manager [Vundle](https://github.com/VundleVim/Vundle.vim)
 
+Asciinema Video:
 [![asciicast](https://asciinema.org/a/rK7pcY2aUEbvobJJlbctV67jY.png)](https://asciinema.org/a/rK7pcY2aUEbvobJJlbctV67jY)
 
 ### 3.Assigment: organise the terminal window into multiple areas
+Αυτό που κάνω παρακάτω είναι αρχικά να αλλάξω το όνομα της γραμμής εντελών με τον Αριθμό Μητρώου μου, στην συνέχεια τρέχω το tmux ονομάζοντας το session assigment, δημιουργώ ένα νέο παράθυρο στο οποίο τρέχω το glances.  Ύστερα επιστρέφω στο πρώτο παράθυρο και εκεί εμφανίζω κάποια από τα αρχεία μου, εμφανίζω με το vim το .tmux.conf,  στην συνέχεια κάνω μια βασική περιήγηση στο διαδίκτυο και μετά δημιούργησα ένα αρχείο .txt και το διέγραψα.
 
+Για να υλοποιηθούν τα παραπάνω χρησιμοποίησα  τις εντολές: PS1, ls, tmux, vim, glances, touch, rm
+
+Asciinema Video:
+[![asciicast](https://asciinema.org/a/dRWfzXoa3zktX6MDlcn0SJcOz.png)](https://asciinema.org/a/dRWfzXoa3zktX6MDlcn0SJcOz)
 
 ---
 ### Συμμετοχικό περιεχόμενο:
