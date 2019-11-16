@@ -38,8 +38,8 @@
   
  Create a list of todos:
  
- Link:https://asciinema.org/a/o5OiJzzBO37USmcYXwkXCySpa
+ Link: https://asciinema.org/a/o5OiJzzBO37USmcYXwkXCySpa
  
  Edit, delete, and check some of them:
  
- https://asciinema.org/a/oP8t7OcduSgjXfph4mpUvR07p
+ Link: https://asciinema.org/a/oP8t7OcduSgjXfph4mpUvR07p
