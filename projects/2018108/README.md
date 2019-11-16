@@ -8,7 +8,7 @@
 
 - [Github Profile](https://github.com/Stavrospanakakis)
 
-## Άσκηση 1
+## Άσκηση 3
 
 get familiar with basic commands, reading documentation and editing files
 
