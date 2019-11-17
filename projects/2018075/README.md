@@ -49,3 +49,11 @@ Browse and view files on your system
 [VR in medicine training.jpg](https://github.com/hlias31/gr/blob/gh-pages/images/VR%20in%20medicine%20training.jpg)
 
 [VR in medicine training report](https://github.com/hlias31/gr/blob/gh-pages/_gallery/VR-in-medicine-training.md)
+
+
+
+Παρακατω παραδιδω το Link που αντιστοιχει στο 3ο παραδοτεο (Προθεσμια 17 Νοεμβριου)
+
+To Do: plan your time with a calendar
+
+[Link 3](https://asciinema.org/a/3fy5MJiFt21EJg9ngJfUpiAZe)
