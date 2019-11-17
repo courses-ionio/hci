@@ -57,3 +57,6 @@
 #### [Ecosia ~ Thumb](https://github.com/bllyz/gr/blob/gh-pages/images/ecosia-thumb.jpg)
 
 
+## Εργασία: Άσκηση 3
+
+#### [Εκτελέσιμο link](https://asciinema.org/a/281896 '[Εκτελέσιμο link')
