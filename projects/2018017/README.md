@@ -15,18 +15,23 @@ p18prov@ionio.gr<br>
 
 My forked repository: https://github.com/provopoulos/gr<br>
 
-**•Assignments from: https://github.com/courses-ionio/dokey#hci**<br>
-1st assignment, deadline: 20/10/2019<br>
+#### **•Assignments from: https://github.com/courses-ionio/dokey#hci**<br>
+### 1st assignment, deadline: 20/10/2019<br>
 **Deliverables:**<br>
 -Change terminal hostname with student ID: https://asciinema.org/a/DmruKq0ic6Q4tNNRacDxHyjEd<br>
 -List hidden files: https://asciinema.org/a/uudjkuYdiY8K2rFFT9dMn038r<br>
 -Display shell configuration file: https://asciinema.org/a/okmiRJIl2hDFm3CZQgdLGSlP8<br>
 -Display system information: https://asciinema.org/a/4WFpLc8TErhLsBuGAu1l2K7n0<br>
 <br>
-2nd assignment, deadline: 03/11/2019<br>
+### 2nd assignment, deadline: 03/11/2019<br>
 **Deliverables:**<br>
 -Examine the documentation of a utility/command: https://asciinema.org/a/UF4zuBhFy5xTfnQ3ZQjzleQNH<br>
 -Display and concatenate files: https://asciinema.org/a/t0zRuNh0g2GJRzokwl8BjnY3t<br>
 -Search and match patterns in files: https://asciinema.org/a/8lGjjD066ntSOBptUmp33EwkU<br>
 -Manipulate files in a scriptable manner: https://asciinema.org/a/jDCbaDDpy6GeqNOaLd7e9n2wz<br>
 -Examine a dataset and generate report(s) with AWK PROGRAMMING LANGUAGE: https://asciinema.org/a/ZxxTb3fqY2HYlkstsqPQj805P<br>
+<br>
+### 3rd assignment, deadline 17/11/2019<br>
+**Deliverables:**<br>
+-Create a list of todo tasks, modify, start and check some of them: https://asciinema.org/a/281808
+<br>
