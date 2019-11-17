@@ -18,6 +18,11 @@ Browse and view files on your system
 
 - Link2: https://asciinema.org/a/278534
 
+## Άσκηση 3
+
+Become productive with a todo list
+
+- Link3: https://asciinema.org/a/281932
 
 ## **Συμμετοχικό περιεχόμενο**
 
