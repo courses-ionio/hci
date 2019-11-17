@@ -35,3 +35,4 @@ My forked repository: https://github.com/provopoulos/gr<br>
 **Deliverables:**<br>
 -Create a list of todo tasks, modify, start and check some of them: https://asciinema.org/a/281808
 <br>
+## NOTE: Assignments: 1-2 need to be reworked so as to shorten video duration and merge deliverables together (when/if possible).
