@@ -7,7 +7,8 @@
 Προφίλ στο github https://github.com/NestorasKosmidis
 
 ## Εργασία 1: "set-up the main dependencies and demonstrate your base system" 
-	Εκτελέσιμο link https://asciinema.org/a/FJpPswlDhjIj90SftYfgg92hV 
+	https://asciinema.org/a/xHV8x629l78lGxWpKyc2xsrir
+	https://asciinema.org/a/xHV8x629l78lGxWpKyc2xsrir
 
 ## **Συμμετοχικό περιεχόμενο**
 - [Virtual-Reality]	https://github.com/NestorasKosmidis/gr/blob/gh-pages/_gallery/Virtual-Reality.md 
