@@ -33,3 +33,16 @@
 > - [Wacom Pen Tablet - MD](https://github.com/sudowicked/gr/blob/gh-pages/_gallery/wacom_pen_tablet.md)
 > - [Wacom Pen Tablet - Normal](https://github.com/sudowicked/gr/blob/gh-pages/images/Wacom_Pen_Tablet.png)
 > - [Wacom Pen Tablet - 160px](https://github.com/sudowicked/gr/blob/gh-pages/images/Wacom_Pen_Tablet(160px).png)
+
+
+# **Παραδοτέο 2:**
+
+## Άσκηση 3: https://asciinema.org/a/282001
+
+### Πηγές: 
+> - https://en.wikipedia.org/wiki/Akai_MPC)
+> - https://en.wikipedia.org/wiki/Amazon_Kindle
+> - https://en.wikipedia.org/wiki/Xbox_(console)
+> - https://en.wikipedia.org/wiki/BlackBerry
+> - https://en.wikipedia.org/wiki/Graphics_tablet
+
