@@ -38,3 +38,8 @@
       -[VR-headset.md](https://github.com/Konstantinos276/gr/blob/gh-pages/_gallery/VR-headset.md)
       -[VR-headset.jpg](https://github.com/Konstantinos276/gr/blob/gh-pages/images/VR-headset.jpg)
       -[VR-headset-thumb.jpg](https://github.com/Konstantinos276/gr/blob/gh-pages/images/VR-headset-thumb.jpg)
+
+
+- ΑΣΚΗΣΗ_3
+  - Το link που ακολουθει αποτελει την υλοποιηση του τριτου παραδοτεου.
+  - [Link_3](https://asciinema.org/a/vzg5vyX0Edq95twjTFqChTeob)
