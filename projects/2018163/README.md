@@ -14,3 +14,13 @@ Link Git-Hub : https://github.com/SotirisVsds
 Εργασία: get familiar with basic commands, reading documentation and editing files
 Link εργασίας: https://asciinema.org/a/278794
 Link Git-Hub : https://github.com/SotirisVsds
+  
+  
+  
+  
+Μάθημα: Επικοινωνία Ανθρώπου Υπολογιστή
+Ονοματεπώνυμο:Βασδέκης Σωτήριος
+Αριθμός Μητρώου: Π2018163
+Εργασία: text editor and plug-ins for code highlighting and autocompletion
+Link εργασίας: https://asciinema.org/a/MLOIV1RpiyhfUFT1neux9JUtU
+Link Git-Hub : https://github.com/SotirisVsds
