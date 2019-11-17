@@ -39,3 +39,10 @@ LINK: https://asciinema.org/a/275555
 - [Sony playstation 3 eye - Πληροφορίες](https://github.com/TheodoreKont/gr/blob/gh-pages/_gallery/Sony%20playstation%203%20eye.md)
 - [Sony playstation 3 eye - Κανονική Ανάλυση](https://github.com/TheodoreKont/gr/blob/gh-pages/images/Sony%20playstation%203%20eye.jpg)
 - [Sony playstation 3 eye - 160px](https://github.com/TheodoreKont/gr/blob/gh-pages/images/Sony%20playstation%203%20eye-thumb.jpg) 
+--------------------------------------
+ΠΑΡΑΔΟΤΕΟ-2
+
+ΖΗΤΟΥΜΕΝΑ:"Get familiar with basic commands, reading documentation and editing files"
+
+ASCIINEMA LINK:https://asciinema.org/a/281993
+
