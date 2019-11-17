@@ -76,3 +76,12 @@ Apple Watch
   > https://en.wikipedia.org/wiki/Oculus_Rift_CV1
   > https://en.wikipedia.org/wiki/Refreshable_braille_display
   > https://en.wikipedia.org/wiki/Apple_Watch
+
+
+Εργασία: Παραδοτέο 3 
+  
+  > Το link της εγγραφης στο [asciinema](https://asciinema.org/a/281902)
+  
+  > Ζητούμενα: become productive with a todo list
+  
+  > Παραδοτέα: create a list of todos, edit, delete, and check some of them
