@@ -58,6 +58,61 @@ man ranger
 ranger
 ```
 
+## Άσκηση 3. Βecome productive with a todo list. Create a list of todos, edit, delete, and check some of them.
+
+#### url asciinema  ttps://asciinema.org/a/h0EwpoOX1KCMoPveWbzyA2QbH
+
+Για την άσκηση αυτή χρησιμοποίησα το taskwarrior https://taskwarrior.org/docs/start.html. Πληροφορίες σχετικά με την εγκατάσταση βρήκα στο https://www.linode.com/docs/applications/project-management/setting-up-taskwarrior-on-ubuntu-16-10/.
+
+Η εγκατάσταση έγινε με την εντολή
+
+```
+sudo apt-get install taskwarrior
+```
+
+προσθέτεις tasks και με προθεσμία με την εντολή 
+
+```
+task add <your task> due:tomorrow
+```
+
+σβήνεις tasks με την εντολή
+
+```
+task <index> delete
+```
+
+επεξεργάζεσαι task με τον editor με την εντολή
+
+```
+task <index> edit
+```
+
+και τελειώνεις τα task που εχουν γίνει με την εντολή
+
+```
+task <index> done
+```
+
+Επίσης το taskwarrior υποστηριζει visualizations με τις εντολές 
+
+```
+burndown
+```
+
+και
+
+```
+calendar
+```
+
+Για να δεις όλα τα tasks απλά πληκτρολογείς
+
+```
+task
+```
+
+
 
 
 
