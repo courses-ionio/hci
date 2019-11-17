@@ -54,6 +54,5 @@ Browse and view files on your system
 
 Παρακατω παραδιδω το Link που αντιστοιχει στο 3ο παραδοτεο (Προθεσμια 17 Νοεμβριου)
 
-To Do: plan your time with a calendar
-
+To Do: plan. your time with a calendar
 [Link 3](https://asciinema.org/a/3fy5MJiFt21EJg9ngJfUpiAZe)
