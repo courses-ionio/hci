@@ -58,7 +58,7 @@
 #### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/Atmel_Atmega8.jpg)
 #### [Εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/Atmel_Atmega8-thumb.jpg)
 #### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Atmel_Atmega8.md)
-# 
+#
 ###  2η Εικόνα 
 #### Τίτλος: Ο μικροελεγκτής Intel-P8051
 #### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/Intel_P8051.jpg)
@@ -82,6 +82,7 @@
 #### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/Zilog_Z80.jpg)
 #### [Εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/Zilog_Z80-thumb.jpg)
 #### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Zilog_Z80.md)
+
 
 
 ## Παραδοτέο 2
