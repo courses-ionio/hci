@@ -19,6 +19,6 @@
  -  ***[display your shell configuration file and display system information (hardware+software)](https://asciinema.org/a/WzjdmgrpMfXmPdvMTwm9DfuGX)***
 
 
- ## Δεύτερη εργασία
+ ## 2η εργασία
  
  -  ***[browse and view files on your system](https://asciinema.org/a/HoFyBqclUg1e9JHmKfgDS702n)***
