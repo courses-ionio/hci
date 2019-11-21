@@ -12,13 +12,13 @@
  
  ## 1η εργασία
  
- - [x] ***[change your command prompt with your student ID](https://asciinema.org/a/ab8B0twxDbsNMHXPbKGymC8Ts)***
+ -  ***[change your command prompt with your student ID](https://asciinema.org/a/ab8B0twxDbsNMHXPbKGymC8Ts)***
 
- - [x] ***[list your dot files](https://asciinema.org/a/EwUsAfJuqdCl7Y6VSv2FCsVbh)***
+ -  ***[list your dot files](https://asciinema.org/a/EwUsAfJuqdCl7Y6VSv2FCsVbh)***
 
- - [x] ***[display your shell configuration file and display system information (hardware+software)](https://asciinema.org/a/WzjdmgrpMfXmPdvMTwm9DfuGX)***
+ -  ***[display your shell configuration file and display system information (hardware+software)](https://asciinema.org/a/WzjdmgrpMfXmPdvMTwm9DfuGX)***
 
 
  ## Δεύτερη εργασία
  
- - [x] ***[browse and view files on your system](https://asciinema.org/a/HoFyBqclUg1e9JHmKfgDS702n)***
+ -  ***[browse and view files on your system](https://asciinema.org/a/HoFyBqclUg1e9JHmKfgDS702n)***
