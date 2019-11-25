@@ -44,6 +44,22 @@
 
 > #### **[Αποθετήριο κώδικα άσκησης 3](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
+### ***Άσκηση 4***
+> #### **Assignments Άσκησης 4:**
+> - Text editor and plug-ins for code highlighting and the autocompletion.
+
+> #### **Ζητούμενα:**
+> - Edit the vim or the shell configuration file.
+
+> #### **Εκτελέσιμο link στο asciinema:**
+> - [Visit 1](https://asciinema.org/a/283553)
+> - [Visit 2](https://asciinema.org/a/283554)
+> - [Visit 3](https://asciinema.org/a/283556)
+> - [Visit 4](https://asciinema.org/a/283559)
+> - [Visit 5](https://asciinema.org/a/283562)
+
+> #### **[Αποθετήριο κώδικα άσκησης 3](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+
 
 > #### **Διεργασίες - Σχόλια - Πρόσθετη Εργασία Ασκήσεων:**
 > - Για την πραγματοποίηση της εργασίας εγκαταστάθηκε λογισμικό Linux Ubuntu 16.04.6 LTS σε υπολογιστή χωρίς λογισμικό.
