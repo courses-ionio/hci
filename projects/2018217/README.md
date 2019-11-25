@@ -51,14 +51,14 @@
 > #### **Ζητούμενα:**
 > - Edit the vim or the shell configuration file.
 
-> #### **Εκτελέσιμο link στο asciinema:**
+> #### **Εκτελέσιμα link στο asciinema:**
 > - [Visit 1](https://asciinema.org/a/283553)
 > - [Visit 2](https://asciinema.org/a/283554)
 > - [Visit 3](https://asciinema.org/a/283556)
 > - [Visit 4](https://asciinema.org/a/283559)
 > - [Visit 5](https://asciinema.org/a/283562)
 
-> #### **[Αποθετήριο κώδικα άσκησης 3](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+> #### **[Αποθετήριο κώδικα άσκησης 4](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
 
 > #### **Διεργασίες - Σχόλια - Πρόσθετη Εργασία Ασκήσεων:**
@@ -69,6 +69,7 @@
 > - Εγκατάσταση inxi.
 > - Εγκατάσταση mc.
 > - Εγκατάσταση calcurse.
+> - Εγκατάσταση kite.
 
 ### ***Α - Εργασία Ενδιάμεσης Αναφοράς Προόδου / Συμμετοχικό Υλικό***
 > #### **Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.**
