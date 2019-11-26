@@ -7,7 +7,7 @@
 ## Ενδιάμεση αναφορά
 
 
-## Εργασία: Άσκηση 1
+## Εργασία: Άσκηση 1 (set-up the main dependencies and demonstrate your base system)
 
 [Την άσκηση την πραγματοποίησα μέσω ενός macOS terminal αλλά επειδή υπήρχαν διάφορα asciinema upload errors,
 το record μου τελίκα το ανεβασα μεσω ενός linux terminal. Για αυτό υπάρχει μια διαφορά στις πληροφορίες του βίντεο
@@ -16,7 +16,7 @@
 #### [Εκτελέσιμο link](https://asciinema.org/a/275798/ '[Εκτελέσιμο link')
 
 
-## Εργασία: Άσκηση 2
+## Εργασία: Άσκηση 2 (get familiar with basic commands, reading documentation and editing files)
 
 #### [Εκτελέσιμο link](https://asciinema.org/a/278181 '[Εκτελέσιμο link')
 
@@ -57,6 +57,6 @@
 #### [Ecosia ~ Thumb](https://github.com/bllyz/gr/blob/gh-pages/images/ecosia-thumb.jpg)
 
 
-## Εργασία: Άσκηση 3
+## Εργασία: Άσκηση 3 (become productive with a todo list)
 
 #### [Εκτελέσιμο link](https://asciinema.org/a/281896 '[Εκτελέσιμο link')
