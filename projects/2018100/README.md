@@ -37,8 +37,7 @@
 
 - [Χρήση εργαλείου Neofetch](https://asciinema.org/a/hI2b4NG5lOQivPMLdlIMgmnNC): Χωρίς παραμέτρους παρέχει αρκετές πληροφορίες για το σύστημα.
 
-- [Χρήση Neofetch με παραμέτρους](https://asciinema.org/a/NQF993W6z7fuWrfFqwkzpEInl):
-Με επιπλέον παραμέτρους μπορούμε να δούμε τα παρακάτω:
+- [Χρήση Neofetch με παραμέτρους](https://asciinema.org/a/NQF993W6z7fuWrfFqwkzpEInl): Με επιπλέον παραμέτρους μπορούμε να δούμε τα παρακάτω:
   * disk: για το ποσοστό του δίσκου που χρησιμοποιείται.
   * resolution --refresh_rate on: δείχνει την συχνότητα ανανέωσης της οθόνης.
   * memory --memory_percent on: για το ποσοστό μνήμης που χρησιμοποιείται.
