@@ -56,3 +56,9 @@ md: https://github.com/Icelandan/gr/blob/gh-pages/_gallery/oculusvr.md
 picture: https://github.com/Icelandan/gr/blob/gh-pages/images/oculusvr.jpg
 
 thumb: https://github.com/Icelandan/gr/blob/gh-pages/images/oculusvr-thumb.jpg
+
+### Εργασία 4
+
+Εργασία: create a list of todos, edit, delete, and check some of them
+
+Αποθετήριο κώδικα παραδοτέου 4: https://asciinema.org/a/shBvk7GOHz9tDCE7ixpFjfTFg
