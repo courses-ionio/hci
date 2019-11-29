@@ -33,4 +33,41 @@ asciinema url : https://asciinema.org/a/keBDHmRuUaU2zFpO9oMcoHDcC
 
 >neofetch
 
+Εργασία 2. Get familiar with basic commands, reading documentation and editing files.
+
+asciinema url : https://asciinema.org/a/fJYb4XS46vM3ZlWQrNn9wiPqj
+
+## Χρησιμοποίησα τις παρακάτω εντολές
+
+Εγκατάσταση ranger και vim :
+
+>sudo apt-get install ranger
+
+>sudo apt-get install vim
+
+Εμφάνιση των manual του ranger και του vim :
+
+>man ranger
+
+>man vim
+
+Δημιουργία φακέλου και προσθήκη 2 αρχείων .txt :
+
+>mkdir ask2
+
+>cd ask2
+
+>sudo nano text1.txt
+
+>sudo nano text2.txt
+
+Εκτέλεση του ranger : 
+
+>ranger
+
+Επεξεργασία ή προβολή των αρχείων .txt με το vim :
+
+>vim text1.txt
+
+>vim text2.txt
 
