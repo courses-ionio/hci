@@ -13,6 +13,9 @@ https://asciinema.org/a/278840
 Άσκηση 3: plan your time with a calendar
 https://asciinema.org/a/281580
 
+Άσκηση 4: track your time with a simple journal
+https://asciinema.org/a/284363
+
 # Ενδιάμεση αναφορά: Προσθήκη 5 εικόνων
 
 ### Κανονικές
