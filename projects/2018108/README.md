@@ -100,3 +100,51 @@ eval "$(thefuck --alias)"
 source ~/.bashrc
 ```
 - Έγραψα την εντολή "clear" λάθος και έγραψα "fuck" και η εντολή διορθώθηκε.
+
+## Άσκηση 4
+
+text editor and plug-ins for code highlighting and autocompletion
+
+**Asciinema link:**
+https://asciinema.org/a/284408
+
+- Έκανα εγκατάσταση το Pathogen(για να μπορώ να εγκαταστώ πιο εύκολα plugins)
+```
+mkdir -p ~/.vim/autoload ~/.vim/bundle && \
+curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+```
+- Για να δουλέψει πρόσθεσα αυτό στο .vimrc
+```
+execute pathogen#infect()
+```
+- Εγκατέστησα το NerdTree
+```
+git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
+```
+- Για να λειτουργεί όταν πατάω Ctrl - N πρόσθεσα αυτό στο .vimrc
+```
+map <C-n> :NERDTreeToggle<CR>
+```
+- Έκανα εγκατάσταση το lightline status bar
+```
+git clone https://github.com/itchyny/lightline.vim ~/.vim/bundle/lightline.vim
+```
+- Για να δουλέψει πρόσθεσα αυτό στο .vimrc
+```
+set laststatus=2
+```
+- Για να υπάρχει syntax hightlighting πρόσθεσα αυτό στο .vimrc
+```
+syntax on
+```
+- Έκανα εγκατάσταση ένα plugin για autocompletion
+```
+cd ~/.vim/bundle
+git clone https://github.com/rkulla/pydiction.git
+```
+- Για να δουλέψει πρόσθεσα αυτό στο .vimrc
+```
+filetype plugin on
+let g:pydiction_location = '/home/stave/.vim/bundle/pydiction/complete-dict'
+```
+- Τέλος δημιούργησα ένα αρχείο .py και σας έδειξα ότι όλα όσα εγκατέστησα λειτουργούν σωστά
