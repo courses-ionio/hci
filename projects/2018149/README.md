@@ -49,3 +49,11 @@ Link για το fork του βιβλίου: https://github.com/jimDragon/gr/
 **Link στο asciinema:** [![asciicast](https://asciinema.org/a/280153.svg)](https://asciinema.org/a/280153)
 **Περιγραφή:**
 Για αυτήν την εργασία χρησιμοποιήθηκε το [Calendar.vim](https://github.com/itchyny/calendar.vim) plugin για το vim. Αυτό το plugin είναι ένα text based ημερολόγιο το οποίο έχει την δυνατότητα να κάνει add, edit και sync τα events με το google calendar, γεγονός το οποίο το καθιστά πρακτικό και μπορεί κάλλιστα να χρησιμοποιηθεί στην καθημερινότητα για τον προγραμματισμό της εβδομάδας. Στο asciinema link παρουσιάζεται ο τρόπος με τον οποίο γίνεται η διαγραφή, η προσθήκη, η αναζήτηση αλλά και η τροποποίηση ενός event.
+
+# 2ο Παραδοτέο
+## Ασκήσεις
+4. **Άσκηση 13** από το [dokey](https://github.com/courses-ionio/dokey) repository<br>
+Εκφώνηση: "organise the terminal window into multiple areas".<br>
+**Link στο asciinema:** [![asciicast](https://asciinema.org/a/284511.svg)](https://asciinema.org/a/284511)
+**Περιγραφή:**
+Όπως αναφέρεται και στην περιγραφή της συγκεκριμένης άσκησης στο [dokey](https://github.com/courses-ionio/dokey) repository, στο παραπάνω asciinema γίνεται μια σύντομη επίδειξη στον τρόπο λειτουργίας του [tmux](https://github.com/tmux/tmux/blob/master/.github/README.md) χρησιμοποιώντας δύο παράθυρα. Στο πρώτο παράθυρο, το οποίο ονομάστηκε "Workspace", χωρίζεται σε 2 panels έχοντας στο δεξί το [htop](https://en.wikipedia.org/wiki/Htop) και στο αριστερό το vim το οποίο χρησιμοποιήθηκε για να γίνει μια διόρθωση στο αρχείο .bashrc. Έπειτα στο δεύτερο παράθυρο, το οποίο ονομάστηκε "Browser", έγινε χρήση ενός terminal based browser του [elinks](http://elinks.or.cz/) με το οποίο έγινε μια σύντομη περιήγηση στο [dokey](https://github.com/courses-ionio/dokey) repository και στο wikipedia page του tmux.
