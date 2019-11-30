@@ -56,3 +56,12 @@ Asciinema link: https://asciinema.org/a/dTCNHcshqFdBB3ZhD02lrGv6Q
 Asciinema link (1ο μέρος): https://asciinema.org/a/281753
 
 Asciinema link (2ο μέρος): https://asciinema.org/a/281774
+
+
+## Τέταρτη άσκηση
+
+Άσκηση: text editor and plug-ins for code highlighting and autocompletion
+
+Asciinema link: https://asciinema.org/a/284512
+
+
