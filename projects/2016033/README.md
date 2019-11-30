@@ -7,9 +7,18 @@
 Λινκ στο αποθετήριο : https://github.com/mariapsch/hci
 
 Άσκηση 1 : set-up the main dependencies and demonstrate your base system
+
+
     Το λινκ για το change your command prompt with your student ID : https://asciinema.org/a/qVbzAKALv9MyFjNDgk3SkpFUF
+    
+    
     Το λινκ για το list your dot files : https://asciinema.org/a/OtYc9Od2ALXktkCFWg7wObZyQ
+    
+    
     Το λινκ για το display your shell configuration file : https://asciinema.org/a/ub1xUPdWuwSEzjOqTn15tsAA1 
+    
+    
+    
     Το λινκ για το  display system information (hardware+software) :  https://asciinema.org/a/EIZdC0lK0ZiW39V5LEdjh65ns                                 
     
 Άσκηση 2 : get familiar with basic commands, reading documentation and editing files
