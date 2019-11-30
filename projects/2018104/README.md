@@ -50,3 +50,9 @@
   (https://girlswhocode.com/our-team/#our-founder)
   (https://girlswhocode.com/about-us/)
   
+  
+  
+  # **Παραδοτέο 2**
+  ### _Άσκηση 3η_ 
+  >#### Εdit the vim or the shell configuration file
+  [link3](https://asciinema.org/a/l3VzBWkwUT5fbihxrnUPUtZcz)
