@@ -48,4 +48,15 @@ Link: https://asciinema.org/a/WkNJgh5VWhvA3Qr5a6A3cBmXt
  [x] Βασικές εντολές mkdir,ranger,vim,touch κ.α
 
  [x] Δημιουργία και αντιγραφή αρχείου
+ 
+ ### Άσκηση 3: Plan your time with a calendar
+ 
+ Link: https://asciinema.org/a/37aC5O1C2MhdcHCDdGmRhLHEk
+ 
+ Εκπλήρωση ζητουμένων:
+ 
+ [x] Χρήση calcurse 
+ 
+ [x] add, edit, delete, search for an appointment
+ 
 
