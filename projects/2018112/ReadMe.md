@@ -24,6 +24,13 @@ Become productive with a todo list
 
 - Link3: https://asciinema.org/a/281932
 
+## Άσκηση 4
+
+Text editor and plug-ins for code highlighting and autocompletion (vim)
+
+- Link4: https://asciinema.org/a/284691
+
+
 ## **Συμμετοχικό περιεχόμενο**
 
 ### Α: Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.
