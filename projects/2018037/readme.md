@@ -50,6 +50,6 @@
   
 - ΑΣΚΗΣΗ_4
 
-  -Το link που ακολουθει αποτελει την υλοποιηση της τεταρτης ασκησης.
+  - Το link που ακολουθει αποτελει την υλοποιηση της τεταρτης ασκησης.
   
-  -[Link_4](https://asciinema.org/a/FTgSX6EviflhRs23Jkn49D5Ih)
+  - [Link_4](https://asciinema.org/a/FTgSX6EviflhRs23Jkn49D5Ih)
