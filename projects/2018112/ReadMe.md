@@ -26,7 +26,7 @@ Become productive with a todo list
 
 ## Άσκηση 4
 
-Text editor and plug-ins for code highlighting and autocompletion (vim)
+Text editor and plug-ins for code highlighting and autocompletion (vim) 
 
 - Link4: https://asciinema.org/a/284691
 
