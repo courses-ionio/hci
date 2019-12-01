@@ -1,14 +1,18 @@
 Μάθημα: Επικοινωνία Ανθρώπου Υπολογιστή
-
-ΘΟΔΩΡΗΣ ΚΟΝΤΟΣΤΑΝΟΣ
-
-Π2017072
-
-ΠΑΡΑΔΟΤΕΟ_1
-
-ΖΗΤΟΥΜΕΝΑ: "Set-up the main dependencies and demonstrate your base system"
-
+Ονοματεπώνυμο: Κοντοστάνος Θεόδωρος
+Αριθμός Μητρώου: Π2017072
+Εργασία: Set-up the main dependencies and demonstrate your base system
 LINK: https://asciinema.org/a/275555
+Προφίλ στο github:https://github.com/TheodoreKont
+
+
+
+
+
+
+
+
+
 
 ## Α. Ενδιάμεση Αναφορά - Συμμετοχικό Περιεχόμενο
 
@@ -40,9 +44,8 @@ LINK: https://asciinema.org/a/275555
 - [Sony playstation 3 eye - Κανονική Ανάλυση](https://github.com/TheodoreKont/gr/blob/gh-pages/images/Sony%20playstation%203%20eye.jpg)
 - [Sony playstation 3 eye - 160px](https://github.com/TheodoreKont/gr/blob/gh-pages/images/Sony%20playstation%203%20eye-thumb.jpg) 
 --------------------------------------
-ΠΑΡΑΔΟΤΕΟ-2
 
-ΖΗΤΟΥΜΕΝΑ:"Get familiar with basic commands, reading documentation and editing files"
 
+Εργασία:"Get familiar with basic commands, reading documentation and editing files"
 ASCIINEMA LINK:https://asciinema.org/a/281993
 
