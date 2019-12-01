@@ -1,17 +1,15 @@
 Μάθημα: Επικοινωνία Ανθρώπου Υπολογιστή
+
 Ονοματεπώνυμο: Κοντοστάνος Θεόδωρος
+
 Αριθμός Μητρώου: Π2017072
-Εργασία: Set-up the main dependencies and demonstrate your base system
+---------------------------------------
+
+Εργασία: Set-up the main dependencies and demonstrate your base system (1η Άσκηση)
+
 LINK: https://asciinema.org/a/275555
+
 Προφίλ στο github:https://github.com/TheodoreKont
-
-
-
-
-
-
-
-
 
 
 ## Α. Ενδιάμεση Αναφορά - Συμμετοχικό Περιεχόμενο
@@ -46,6 +44,13 @@ LINK: https://asciinema.org/a/275555
 --------------------------------------
 
 
-Εργασία:"Get familiar with basic commands, reading documentation and editing files"
+Εργασία:"Get familiar with basic commands, reading documentation and editing files" (2η Άσκηση)
+
 ASCIINEMA LINK:https://asciinema.org/a/281993
+
+-------------------------------------
+
+Εργασία:"Βecome productive with a todo list" (3η Άσκηση)
+
+ASCIINEMA LINK:https://asciinema.org/a/284634
 
