@@ -70,3 +70,11 @@ Video url: https://asciinema.org/a/278614
 [Tor-Image](https://github.com/mariachlkt/gr/blob/gh-pages/images/tor.png)
 
 [Tor-Thumb-Image](https://github.com/mariachlkt/gr/blob/gh-pages/images/tor-thumb.png)
+
+Άσκηση 3 
+
+Deliverables:
+
+Add a source of income and some expenses.
+
+Video URL:https://asciinema.org/a/284666
