@@ -8,7 +8,7 @@ Link Git-Hub https://github.com/Geoross
 Εργασία: get familiar with basic commands, reading documentation and editing files
 Link εργασίας: https://asciinema.org/a/278800
 
-Εργασία: Organise the terminal window into multiple areas 
+Εργασία: Organise the terminal window into multiple areas
 Link εργασίας: https://asciinema.org/a/284591
 
 Α - Εργασία Ενδιάμεσης Αναφοράς Προόδου / Συμμετοχικό Υλικό
