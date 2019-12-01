@@ -49,7 +49,7 @@ Link: https://asciinema.org/a/WkNJgh5VWhvA3Qr5a6A3cBmXt
 
  [x] Δημιουργία και αντιγραφή αρχείου
  
- ### Άσκηση 3: Plan your time with a calendar
+ ### Άσκηση 4: Plan your time with a calendar
  
  Link: https://asciinema.org/a/37aC5O1C2MhdcHCDdGmRhLHEk
  
