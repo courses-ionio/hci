@@ -60,7 +60,7 @@ ranger
 
 ## Άσκηση 3. Βecome productive with a todo list. Create a list of todos, edit, delete, and check some of them.
 
-#### url asciinema  ttps://asciinema.org/a/h0EwpoOX1KCMoPveWbzyA2QbH
+#### url asciinema  https://asciinema.org/a/h0EwpoOX1KCMoPveWbzyA2QbH
 
 Για την άσκηση αυτή χρησιμοποίησα το taskwarrior https://taskwarrior.org/docs/start.html. Πληροφορίες σχετικά με την εγκατάσταση βρήκα στο https://www.linode.com/docs/applications/project-management/setting-up-taskwarrior-on-ubuntu-16-10/.
 
@@ -112,8 +112,21 @@ calendar
 task
 ```
 
+## Άσκηση 4. Plan your time with a calendar. Add, edit, search for an appointment.
 
+#### url asciinema  https://asciinema.org/a/OO0DtR1dPoH0VGgJFonKYPXqE
 
+Για την άσκηση αυτή χρησιμοποίησα το calcurse https://calcurse.org/. Η εγκατάσταση γίνε πολύ εύκολα με
 
+```
+sudo apt-get install calcurse
+```
 
+τρέχει με την εντολή
+
+```
+calcurse
+```
+
+Είναι πάρα πολύ εύκολο στη χρήση. Έυκολη αναζήτηση appoinmets απο το calendar, επιλογή ωρας έναρξης και ώρας λήξης, ή ολοήμερο event. Μπορείς να προσθέσεις και tasks σε todo list
 
