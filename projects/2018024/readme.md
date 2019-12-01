@@ -38,6 +38,7 @@
 # **Παραδοτέο 2:**
 
 ## Άσκηση 3: https://asciinema.org/a/282001
+## Άσκηση 4: https://asciinema.org/a/284653
 
 ### Πηγές: 
 > - https://en.wikipedia.org/wiki/Akai_MPC)
