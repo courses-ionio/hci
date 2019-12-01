@@ -60,3 +60,6 @@
 ## Εργασία: Άσκηση 3 (become productive with a todo list)
 
 #### [Εκτελέσιμο link](https://asciinema.org/a/281896 '[Εκτελέσιμο link')
+
+## Εργασία: Άσκηση 4 (track your time with a simple journal)
+#### [Εκτελέσιμο link](https://asciinema.org/a/284656 '[Εκτελέσιμο link')
