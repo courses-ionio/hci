@@ -21,4 +21,13 @@ become productive with a todo list
 
 Το link της άσκησης είναι: https://asciinema.org/a/pldeViuRymBF3R2jPXy6phyQI
 
+Άσκηση 4:
+plan your time with a calendar
+
+Το link της άσκησης είναι: https://asciinema.org/a/t0Hr03TFbEjoJh339hqhPHKfF
+
+Άσκηση 5:
+text editor and plug-ins for code highlighting and autocompletion
+
+Το link της άσκησης είναι: https://asciinema.org/a/Mbg3XiDfrGuSeuvVxsPJulCQC
 
