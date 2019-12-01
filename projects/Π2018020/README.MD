@@ -45,3 +45,11 @@ https://el.wikipedia.org/wiki/DuckDuckGo
 https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B1%CE%B4%CE%AF%CE%BA%CF%84%CF%85%CE%BF_%CF%84%CF%89%CE%BD_%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%AC%CF%84%CF%89%CE%BD
 
 https://el.wikipedia.org/wiki/Git_(%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CF%8C)#%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C
+
+## *Παραδοτέο 2*
+
+
+## Εργασία 3: "create a list of todos, edit, delete, and check some of them" 
+	asciinema link: https://asciinema.org/a/284573
+
+
