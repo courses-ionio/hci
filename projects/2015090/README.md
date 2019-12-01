@@ -19,4 +19,8 @@ https://asciinema.org/a/NtZJCyVnwecJYL4ochxPUzidh
 
 ΑΣΚΗΣΗ 3
 https://asciinema.org/a/3JPigwQcXSHG0P9j2piXNLMuP
-χρησιμοποίησα το taskwarrior για να φτιάξω μια λίστα 
+χρησιμοποίησα το taskwarrior για να φτιάξω μια λίστα
+
+ΑΣΚΗΣΗ 4
+https://asciinema.org/a/yaYYcoP5UbFluPoS7dYWODLvK
+δημιουργία και επεξεργασία ραντεβού
