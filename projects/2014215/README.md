@@ -89,5 +89,27 @@ calcurse
 
 Επιλέγεις ημερομηνία και ορίζει event η ραντεβού με start και end time. Μπορείς να επεξεργαστείς το description του event ή ραντεβού καθώς και να το σβήσεις. Όλες οι καταχωρήσεις φαίνονται δεξια στο calendar απο όπου και κάνεις search. Παρέχεται και η δυνατότητα να κάνεις repeat ένα ραντεβου πχ καθε μέρα κάθε βδομάδα ή κάθε μήνα. Πολύ σημαντικό και εύκολο στη χρήση εργαλείο.
 
+### Eργασία 4. Βecome productive with a todo list. Create a list of todos, edit, delete, and check some of them.
+
+#### url asciinema: https://asciinema.org/a/UX2kxz8UoZw0DsYb27vePhbAC
+
+Xρησιμοποίησα το taskwarrior. Ήταν η καλύτερη επιλογή κατα τη γνώμη μου. Εύκολο στη χρήση με πάρα πολλές δυνατότητες.
+Η εγκατάσταση έγινε με
+
+```
+sudo apt-get install taskwarrior
+```
+
+Yποστηριζει task visualizations με τη μορφή callendar, και διαγράμματος με τα tasks.
+
+```
+task calendar
+```
+
+```
+task burndown
+```
+
+Τα πάντα περιγράφονται αναλυτικά στην επίσημη ιστοσελίδα https://taskwarrior.org/
 
 
