@@ -9,6 +9,10 @@
 Εργασία: 1η
 Εκτελέσιμο link: https://asciinema.org/a/13AiEkdFpf3Zdjuu9NadTUhDW
 
+Δεν είχα κάνει προφίλ στο asciinema (δεν έλεγε κάτι στις οδηγίες ) με αποτέλεσμα να διαγραφεί η εργασία μου μετά από μια εβδομάδα 
+
+Νέο εκτελέσιμο link: https://asciinema.org/a/280509
+
 
 Εργασία: 2η
 Εκτελέσιμο link: https://asciinema.org/a/aaTcEGI3nx8XJxZCvTNAbxDD6?fbclid=IwAR1Az5Dtp_jzthbqhEc-tBXOIZ6bvw-9WldFs9s66ZzJnfJWz9KMdLRCgB0
@@ -53,4 +57,8 @@
  
  Εργασία: 3η
  Εκτελέσιμο link: https://asciinema.org/a/281845
+ 
+ 
+ Εργασία: 4η
+Εκτελέσιμο link: https://asciinema.org/a/284655
  
