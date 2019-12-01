@@ -11,6 +11,9 @@ Link εργασίας: https://asciinema.org/a/278800
 Εργασία: Organise the terminal window into multiple areas
 Link εργασίας: https://asciinema.org/a/284591
 
+Εργασία: become productive with a todo list
+Link εργασίας: https://asciinema.org/a/284695
+
 Α - Εργασία Ενδιάμεσης Αναφοράς Προόδου / Συμμετοχικό Υλικό
 
  Game Boy Camera https://github.com/Geoross/gr/blob/gh-pages/_gallery/game-boy_camera.md
