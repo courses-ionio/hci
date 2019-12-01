@@ -68,3 +68,8 @@
 <a href="https://en.wikipedia.org/wiki/Electronic_fingerprint_recognition">Fingerprint
 
 <a href="https://en.wikipedia.org/wiki/Zenith_Electronics">Remote Control 
+
+
+<h3>Εργασία: Text editor and plug-ins for code highlighting and autocompletion</h3> 
+
+<a href="https://asciinema.org/a/284686">Asciinema link
