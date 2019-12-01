@@ -83,3 +83,11 @@ Apple Watch
   > Ζητούμενα: become productive with a todo list
   
   > Παραδοτέα: create a list of todos, edit, delete, and check some of them
+
+Εργασία: Παραδοτέο 4 
+  
+  > Το link της εγγραφης στο [asciinema](https://asciinema.org/a/284595)
+  
+  > Ζητούμενα: text editor and plug-ins for code highlighting and autocompletion
+  
+  > Παραδοτέα: edit the vim or the shell configuration file
