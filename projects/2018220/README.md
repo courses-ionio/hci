@@ -102,3 +102,7 @@
 - [x] Δημιουργία αρχείου cast με χρήση του calcurse και ανέβασμα στο asciinema
 
 
+### Τεκμηρίωση ζητουμένων:
+
+#### δίνεται το link στο site του asciinema: https://asciinema.org/a/285088
+
