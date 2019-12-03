@@ -93,4 +93,12 @@
 
 #### δίνεται το link στο site του asciinema: https://asciinema.org/a/281361
 
+## ΕΡΓΑΣΙΑ 4
+### plan your time with a calendar.
+
+### Εκπλήρωση δεδομένων:
+- [x] Εγκατάσταση του calcurse ημερολογίου
+
+- [x] Δημιουργία αρχείου cast με χρήση του calcurse και ανέβασμα στο asciinema
+
 
