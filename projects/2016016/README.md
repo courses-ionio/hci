@@ -22,3 +22,7 @@
  ## 2η εργασία
  
  -  ***[browse and view files on your system](https://asciinema.org/a/HoFyBqclUg1e9JHmKfgDS702n)***
+ 
+ ## 3η εργασία
+ 
+ -  ***[become productive with a todo list](https://asciinema.org/a/jDFwH35tKENI0hCQWrnrgTNQu)***
