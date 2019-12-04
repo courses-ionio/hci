@@ -62,4 +62,11 @@ Link :https://asciinema.org/a/278839
 [iPhone - 160px](https://github.com/aggelos2000430/gr/blob/gh-pages/images/iphone-thumb.jpg)
 
 
+#### Παραδοτέο 4
+Το παραδοτέο αυτό αποτελεί την άσκηση με τη χρήση του εργαλείου vim.
+
+Asciinema link : https://asciinema.org/a/285243
+
+
+
 #### Ευχαριστώ πολύ.
