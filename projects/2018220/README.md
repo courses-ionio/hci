@@ -48,7 +48,7 @@
 ## ΣΥΜΜΕΤΟΧΙΚΗ ΕΡΓΑΣΙΑ
 
 ### ΠΑΡΑΔΟΤΕΟ Α:
-### Εισαγωγή πέντε νέων εικόνων με ελεύθερα πνευματικά δικαιώματα, με λεζάντα.
+### Εισαγωγή πέντε νέων εικόνων με ελεύθερα πνευματικά δικαιώματα, με λεζάντα
 
 #### [Σύνδεσμος αποθετηρίου του μαθήματος gr](https://github.com/cyclenikolaos/gr)
 #### [Σύνδεσμος αποθετηρίου του αρχείου _config.yml](https://github.com/cyclenikolaos/gr/blob/gh-pages/_config.yml)
@@ -79,7 +79,7 @@
 
 
 ## ΕΡΓΑΣΙΑ 3
-### become productive with a todo list.
+### become productive with a todo list
 
 ### Εκπλήρωση ζητουμένων:
 - [x] Εγκατάσταση του todo.sh
@@ -94,7 +94,7 @@
 #### δίνεται το link στο site του asciinema: https://asciinema.org/a/281361
 
 ## ΕΡΓΑΣΙΑ 4
-### plan your time with a calendar.
+### plan your time with a calendar
 
 ### Εκπλήρωση δεδομένων:
 - [x] Εγκατάσταση του calcurse ημερολογίου
