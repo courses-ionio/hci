@@ -57,6 +57,6 @@ Link: https://asciinema.org/a/WkNJgh5VWhvA3Qr5a6A3cBmXt
  
  [x] Χρήση calcurse 
  
- [x] add, edit, delete, search for an appointment
+ [x] add, edit, delete, search for an appointment.
  
 
