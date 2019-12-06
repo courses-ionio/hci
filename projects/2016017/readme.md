@@ -19,6 +19,13 @@ Add, edit, search for an appointment
 https://asciinema.org/a/279882 (used calcurse, cat, grep)
 
 
+## ΑΣΚΗΣΗ 3:
+
+Track your time with a simple journal
+
+https://asciinema.org/a/285933 (used jrnl)
+
+
 ## ΕΝΔΙΑΜΕΣΗ ΑΝΑΦΟΡΑ (Α)
 
 Ζητουμενο: Προσθήκη 5 εικόνων με ελέυθερα πνευματικά δικαιώματα (μια κανονικού μεγεθους και μια μικρού πλάτους εως 160 πιξελ) καθως και μια λεζαντα για την καθε εικόνα.
