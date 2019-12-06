@@ -17,8 +17,21 @@
 
 
 - **https://asciinema.org/a/277116.**  
-Used Calcurse,ps1,cat and grep.     
-# ΣΥΜΜΕΤΟΧΙΚΟ ΕΚΠΑΙΔΕΥΤΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ  
+Used Calcurse,ps1,cat and grep. 
+
+
+ ### 3η ΑΣΚΗΣΗ 
+   (edit the shell configuration file) 
+   
+   
+   - **https://asciinema.org/a/285938** 
+   
+   format my aliases for showing most detailes the ls command. 
+   Used **nano** , **source** 
+   
+# ΣΥΜΜΕΤΟΧΙΚΟ ΕΚΠΑΙΔΕΥΤΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ 
+ 
+   
 > ## Α: ΕΝΔΙΑΜΕΣΗ ΑΝΑΦΟΡΑ
   
     
