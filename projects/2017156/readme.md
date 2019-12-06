@@ -33,7 +33,7 @@ Used Calcurse,ps1,cat and grep.
   ### 1η ΠΡΟΣΘΗΚΗ ΕΙΚΟΝΑΣ (Apple 1 Computer)
   
   
- - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer-thumb.jpeg 
   
  - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer2.jpg  
   
