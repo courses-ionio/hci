@@ -33,11 +33,11 @@ Used Calcurse,ps1,cat and grep.
   ### 1η ΠΡΟΣΘΗΚΗ ΕΙΚΟΝΑΣ (Apple 1 Computer)
   
   
- - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer-thumb.jpeg 
+ - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer2.jpg
   
- - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer2.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer-thumb.jpeg
   
- - https://github.com/apost1/gr/blob/gh-pages/_gallery/apple1computer.md  
+ - https://github.com/apost1/gr/blob/gh-pages/_gallery/apple1computer2.md  
    
   ### 2η ΠΡΟΣΘΗΚΗ ΕΙΚΟΝΑΣ (Spacewar)  
    
