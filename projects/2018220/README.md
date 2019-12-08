@@ -108,3 +108,17 @@
 
 #### δίνεται το link στο site του asciinema: https://asciinema.org/a/285468
 
+
+## ΣΥΜΜΕΤΟΧΙΚΗ ΕΡΓΑΣΙΑ
+
+### ΠΑΡΑΔΟΤΕΟ Β:
+### Δύο νέα διαδραστικά παραδείγματα τα οποία θα πρέπει να συνδέονται με βασικές έννοιες του βιβλίου και της διάδρασης ανθρώπου-υπολογιστή και να επιτρέπουν σε κάποιον 2ο χρήστη να τα αλλάξει ή/και να τα προσθέσει σε διαφορετικές εφαρμογές ως αρχέτυπα.
+
+#### [Σύνδεσμος αποθετηρίου του μαθήματος gr] (https://github.com/cyclenikolaos/gr)
+#### 
+#### Σύνδεσμοι πρώτου παραδείγματος (SoundCloud Mini player with css record animation):
+#### [Σύνδεσμος αποθετηρίου SoundCloud Mini player] (https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/audio-player.md)
+#### Link: https://codepen.io/p18lare/pen/vYENMxa
+#### Σύνδεσμοι δεύτερου παραδείγματος (Circular Navigation example):
+#### [Σύνδεσμος αποθετηρίου Circular Navigation example] (https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/menu-pie.md)
+#### Link: https://codepen.io/p18lare/pen/wvBKZzZ
