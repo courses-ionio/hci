@@ -93,7 +93,7 @@
 # 
 # Εργασία Συμμετοχικού περιεχομένου
 
-## Παραδοτέο Α
+### Παραδοτέο Α
 Προσθήκη πέντε φωτογραφιών στο αντίγραφο του βιβλίου του μαθήματος. Λόγω προβλήματος του jekyll δεν κατέστη δυνατό να δημιουργηθεί το εκτελέσιμο https://p18myro.github.io/gr/. 
 
 ### [Σύνδεσμος αποθετηρίου](https://github.com/p18myro/gr 'Σύνδεσμος αποθετηρίου')
@@ -130,17 +130,17 @@
  Λόγω προβλήματος του jekyll δεν κατέστη δυνατό να δημιουργηθεί το εκτελέσιμο https://p18myro.github.io/gr/ για αυτο και παρακάτω παρατίθενται οι σύνδεσμοι του codepen αντι των εκτελέσιμων.
 
 
-### [Σύνδεσμος αποθετηρίου κώδικα] (https://github.com/p18myro/gr)
+### [Σύνδεσμος αποθετηρίου κώδικα](https://github.com/p18myro/gr)
 
 ## Σύνδεσμοι διαδραστικών παραδειγμάτων:
 
-## Παράδειγμα 1
-### [Σύνδεσμος αποθετήριου audio-player] (https://github.com/p18myro/gr/blob/gh-pages/_remix/audio-player.md)
+### Παράδειγμα 1
+### [Σύνδεσμος αποθετήριου audio-player](https://github.com/p18myro/gr/blob/gh-pages/_remix/audio-player.md)
 
-### [Σύνδεσμος codepen audio-player] (https://codepen.io/p18myro/pen/eYmpKwx)
+### [Σύνδεσμος codepen audio-player](https://codepen.io/p18myro/pen/eYmpKwx)
 
 ## Παράδειγμα 2
-### [Σύνδεσμος αποθετήριου switch ] (https://github.com/p18myro/gr/blob/gh-pages/_remix/switch.md)
+### [Σύνδεσμος αποθετήριου switch ](https://github.com/p18myro/gr/blob/gh-pages/_remix/switch.md)
 
-### [Σύνδεσμος codepen switch] (https://codepen.io/p18myro/pen/ExaVRRr)
+### [Σύνδεσμος codepen switch](https://codepen.io/p18myro/pen/ExaVRRr)
 
