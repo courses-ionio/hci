@@ -92,7 +92,8 @@
 #
 # 
 # Εργασία Συμμετοχικού περιεχομένου
-### Παραδοτέο Α
+
+## Παραδοτέο Α
 Προσθήκη πέντε φωτογραφιών στο αντίγραφο του βιβλίου του μαθήματος. Λόγω προβλήματος του jekyll δεν κατέστη δυνατό να δημιουργηθεί το εκτελέσιμο https://p18myro.github.io/gr/. 
 
 ### [Σύνδεσμος αποθετηρίου](https://github.com/p18myro/gr 'Σύνδεσμος αποθετηρίου')
@@ -123,3 +124,23 @@
 ### [Apple II](https://github.com/p18myro/gr/blob/gh-pages/images/Apple%20II.jpg)
 ### [Apple II-thumb]( https://github.com/p18myro/gr/blob/gh-pages/images/Apple%20II-thumb.jpg)
 ### [Readme Apple II](https://github.com/p18myro/gr/blob/gh-pages/_gallery/Apple%20II.md)
+
+## Παραδοτέο Β
+ Δημιουργία δύο νέων διαδραστικών παραδειγμάτων, τα οποία θα πρέπει να συνδέονται με βασικές έννοιες του βιβλίου και της διάδρασης ανθρώπου-υπολογιστή και να επιτρέπουν σε κάποιον 2ο χρήστη να τα αλλάξει ή/και να τα προσθέσει σε διαφορετικές εφαρμογές ως αρχέτυπα.
+ Λόγω προβλήματος του jekyll δεν κατέστη δυνατό να δημιουργηθεί το εκτελέσιμο https://p18myro.github.io/gr/ για αυτο και παρακάτω παρατίθενται οι σύνδεσμοι του codepen αντι των εκτελέσιμων.
+
+
+### [Σύνδεσμος αποθετηρίου κώδικα] (https://github.com/p18myro/gr)
+
+## Σύνδεσμοι διαδραστικών παραδειγμάτων:
+
+## Παράδειγμα 1
+### [Σύνδεσμος αποθετήριου audio-player] (https://github.com/p18myro/gr/blob/gh-pages/_remix/audio-player.md)
+
+### [Σύνδεσμος codepen audio-player] (https://codepen.io/p18myro/pen/eYmpKwx)
+
+## Παράδειγμα 2
+### [Σύνδεσμος αποθετήριου switch ] (https://github.com/p18myro/gr/blob/gh-pages/_remix/switch.md)
+
+### [Σύνδεσμος codepen switch] (https://codepen.io/p18myro/pen/ExaVRRr)
+
