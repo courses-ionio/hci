@@ -6,6 +6,18 @@
 become productive with a todo list.Taskwarrior list
 - https://asciinema.org/a/CB27ecwVX65Jc1Bhn4NidwCwj?fbclid=IwAR1A0AGkgtVa-zZEwBNRks5mrY18-dV5frMk2uShEp9TYx4K90eZ8ei0pzc
 
+
+ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ (Β) 2 ΝΕΑ ΔΙΑΔΡΑΣΤΙΚΑ ΠΑΡΑΔΕΙΓΜΑΤΑ
+
+- https://codepen.io/adjsborg/pen/abzdaeE   mouse-option.md
+
+Άλλαξα τα περιεχόμενα και τα έκανα 4 με την ιδέα ότι πρόκειται για ένα σαιτ με ειδήσεις. Στα πρώτα 3 πρόσθεσα εικόνες με το ανάλογο κειμενάκι και στην 4η είδηση πρόσθεσα ένα βίντεο.Επισης έχω αλλάξει το χρωμα του backround σε γαλάζιο και το headline σε "Ειδήσεις".
+
+- https://codepen.io/adjsborg/pen/WNbrgJe  image.md 
+
+Πρόσθεσα αλλο ένα Iphone στον κώδικα της html αλλαζόταν τις διάσταση width="300px" σε width="150px" στο μισο δηλαδή.
+
+
 ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ (Γ) 
 ΝΕΑ ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ INSTAGRAM
 
