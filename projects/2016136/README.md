@@ -10,10 +10,12 @@ become productive with a todo list.Taskwarrior list
 ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ (Β) 2 ΝΕΑ ΔΙΑΔΡΑΣΤΙΚΑ ΠΑΡΑΔΕΙΓΜΑΤΑ
 
 - https://codepen.io/adjsborg/pen/abzdaeE   mouse-option.md
+- github link https://github.com/DarkSnakeII/gr/blob/instagram/_remix/askhsh/newmouse-option.md
 
 Άλλαξα τα περιεχόμενα και τα έκανα 4 με την ιδέα ότι πρόκειται για ένα σαιτ με ειδήσεις. Στα πρώτα 3 πρόσθεσα εικόνες με το ανάλογο κειμενάκι και στην 4η είδηση πρόσθεσα ένα βίντεο.Επισης έχω αλλάξει το χρωμα του backround σε γαλάζιο και το headline σε "Ειδήσεις".
 
 - https://codepen.io/adjsborg/pen/WNbrgJe  image.md 
+- github link https://github.com/DarkSnakeII/gr/blob/instagram/_remix/askhsh/newimage.md
 
 Πρόσθεσα αλλο ένα Iphone στον κώδικα της html αλλαζόταν τις διάσταση width="300px" σε width="150px" στο μισο δηλαδή.
 
