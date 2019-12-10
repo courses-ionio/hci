@@ -6,12 +6,12 @@
 
 ## **Α.Μ. : Π2016144**
 
-1ο Παραδοτέο : 
-Eργασία 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
+## 1ο Παραδοτέο : 
+## Eργασία 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
 asciinema url : https://asciinema.org/a/keBDHmRuUaU2zFpO9oMcoHDcC
 
-## Χρησιμοποίησα τις παρακάτω εντολές
+### Χρησιμοποίησα τις παρακάτω εντολές
 
 Αλλαγή command prompt με Α.Μ. από το αρχείο /.bashrc :
 
@@ -33,11 +33,11 @@ asciinema url : https://asciinema.org/a/keBDHmRuUaU2zFpO9oMcoHDcC
 
 >neofetch
 
-Εργασία 2. Get familiar with basic commands, reading documentation and editing files.
+## Εργασία 2. Get familiar with basic commands, reading documentation and editing files.
 
 asciinema url : https://asciinema.org/a/fJYb4XS46vM3ZlWQrNn9wiPqj
 
-## Χρησιμοποίησα τις παρακάτω εντολές
+### Χρησιμοποίησα τις παρακάτω εντολές
 
 Εγκατάσταση ranger και vim :
 
@@ -71,3 +71,18 @@ asciinema url : https://asciinema.org/a/fJYb4XS46vM3ZlWQrNn9wiPqj
 
 >vim text2.txt
 
+## Εργασία 3. Become productive with a todo list.
+
+asciinema url : https://asciinema.org/a/NkoHOlTEJZ7nl4HRQlnQIwoQE?fbclid=IwAR3i4UgjRDCySp0SF9I4AeBv6fr-RSdMIAjN1Kgrd9O5UMErQsGYtI3dHFw
+
+### Χρησιμοποίησα τις παρακάτω εντολές
+
+Εμφάνιση του manual του calcurse :
+
+>man calcurse
+
+Εκτέλεση του calcurse :
+
+>calcurse
+
+και στη συνέχεια έγινε εκπλήρωση των ζητούμενων.
