@@ -153,3 +153,14 @@
 > - [3] https://el.wikipedia.org/wiki/Enigma_(συσκευή)
 > - [4] https://el.wikipedia.org/wiki/Ubuntu
 > - [5] https://el.wikipedia.org/wiki/Android
+
+
+### ***Γ - Τελική Αναφορά / Συμμετοχικό Υλικό***
+> #### **Βιογραφία του Linus Benedict Torvalds.**
+
+> - [Αποθετήριο Κώδικα Σύντομης Βιογραφίας του Linus Benedict Torvalds](https://github.com/p18mant/gr/blob/gh-pages/_biography/bio-Linus.md)
+> - [Αποθετήριο Κωδικα Βιογραφίας - Table](https://github.com/p18mant/gr/blob/gh-pages/_biography/linus_torvalds.md)
+> - [Αποθετήριο Εικόνας 1](https://github.com/p18mant/gr/blob/gh-pages/images/Linus_Torvalds.jpg)
+> - [Αποθετήριο Εικόνας 2](https://github.com/p18mant/gr/blob/gh-pages/images/Minix3.1.8.png)
+> - [Αποθετήριο Εικόνας 3](https://github.com/p18mant/gr/blob/gh-pages/images/ubuntu.png)
+
