@@ -148,3 +148,33 @@ filetype plugin on
 let g:pydiction_location = '/home/stave/.vim/bundle/pydiction/complete-dict'
 ```
 - Τέλος δημιούργησα ένα αρχείο .py και σας έδειξα ότι όλα όσα εγκατέστησα λειτουργούν σωστά
+
+## Άσκηση 5
+
+organise the terminal window into multiple areas
+
+**Asciinema link:**
+https://asciinema.org/a/287273
+
+- Έκανα εγκατάσταση το tmux και το glances γι' αυτή την εργασία
+```
+pacman -S tmux
+pip install glances
+```
+- Ξεκίνησα ένα session στο tmux
+```
+tmux new -s test
+```
+- Πάτησα αυτά για να κάνω split τα παράθυρα
+```
+Ctrl + b' ' "
+```
+- Έτρεξα το glances για performance monitoring στο ένα παράθυρο γράφοντας
+```
+glances
+```
+- Άλλαξα τα παράθυρα πατώντας
+```
+Ctrl + b' 'ArrowKeys
+```
+- Και τέλος έκανα edit ένα local αρχείο χρησιμοποιώντας το vim 
