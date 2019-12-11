@@ -63,3 +63,12 @@ Title | Commodore 64 (1962) | Ultra-Mobile PC | Python | Microsoft Games | Unrea
 .md file | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/commodore-64.md | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/ultra-mobile-PC.md | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/python.md | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/microsoft-games.md | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/unreal-engine.md 
 image | https://github.com/Rigas-A/gr/blob/Add-Images/images/commodore-64.jpg | https://github.com/Rigas-A/gr/blob/Add-Images/images/ultra-mobile-PC.jpg | https://github.com/Rigas-A/gr/blob/Add-Images/images/python.png | https://github.com/Rigas-A/gr/blob/Add-Images/images/microsoft-games.png | https://github.com/Rigas-A/gr/blob/Add-Images/images/unreal-engine.jpg   
 thumbnail | https://github.com/Rigas-A/gr/blob/Add-Images/images/commodore-64-thumb.jpg | https://github.com/Rigas-A/gr/blob/Add-Images/images/ultra-mobile-PC-thumb.jpg | https://github.com/Rigas-A/gr/blob/Add-Images/images/python-thumb.png | https://github.com/Rigas-A/gr/blob/Add-Images/images/microsoft-games-thumb.png | https://github.com/Rigas-A/gr/blob/Add-Images/images/unreal-engine-thumb.jpg  
+
+-----
+## 2ο Παραδοτέο
+### 5.Assigment: try a different shell
+
+...
+
+Asciinema Video:
+[![asciicast](https://asciinema.org/a/qB9YhQko3BihsxAweqZe7rdde.png)](https://asciinema.org/a/qB9YhQko3BihsxAweqZe7rdde)
