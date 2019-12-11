@@ -65,3 +65,8 @@ Asciinema link (2ο μέρος): https://asciinema.org/a/281774
 Asciinema link: https://asciinema.org/a/284512
 
 
+## Πέμπτη άσκηση
+
+Άσκηση: get familiar with basic commands, reading documentation and editing files
+
+Asciinema link: https://asciinema.org/a/287306
