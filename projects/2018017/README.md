@@ -14,3 +14,9 @@
 |                   4th                  |                             Deliverables                            |                                 LINK(s)                                |  Deadline  |  Commit  |
 |:--------------------------------------:|:-------------------------------------------------------------------:|:----------------------------------------------------------------------:|:----------:|:--------:|
 | Track your time with a simple journal. | Compartmentalize your workflow, add, view and export your journals. | [[Jrnl]: Asciinema](https://asciinema.org/a/0F1uJyFoijPVgv1XaOS2Y5YWV) | 01/12/2019 | &#x2611; |
+
+<br>
+
+|          5th         |                Deliverables               |                                  LINK(s)                                 |                                                 Ledger                                                |                                                     Report                                                    |  Deadline  |  Commit  |
+|:--------------------:|:-----------------------------------------:|:------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:----------:|:--------:|
+| Track your expenses. | Add a source of income and some expenses. | [[Ledger]: Asciinema](https://asciinema.org/a/0H3p5CiOSRYcR8saRiPaJ0sMT) | [ledger.txt](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/ledger.txt) | [oct-report.txt](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/oct-report.txt) | 14/12/2019 | &#x2611; |
