@@ -57,3 +57,10 @@ Link για το fork του βιβλίου: https://github.com/jimDragon/gr/
 **Link στο asciinema:** [![asciicast](https://asciinema.org/a/284511.svg)](https://asciinema.org/a/284511)
 **Περιγραφή:**
 Όπως αναφέρεται και στην περιγραφή της συγκεκριμένης άσκησης στο [dokey](https://github.com/courses-ionio/dokey) repository, στο παραπάνω asciinema γίνεται μια σύντομη επίδειξη στον τρόπο λειτουργίας του [tmux](https://github.com/tmux/tmux/blob/master/.github/README.md) χρησιμοποιώντας δύο παράθυρα. Στο πρώτο παράθυρο, το οποίο ονομάστηκε "Workspace", χωρίζεται σε 2 panels έχοντας στο δεξί το [htop](https://en.wikipedia.org/wiki/Htop) και στο αριστερό το vim το οποίο χρησιμοποιήθηκε για να γίνει μια διόρθωση στο αρχείο .bashrc. Έπειτα στο δεύτερο παράθυρο, το οποίο ονομάστηκε "Browser", έγινε χρήση ενός terminal based browser του [elinks](http://elinks.or.cz/) με το οποίο έγινε μια σύντομη περιήγηση στο [dokey](https://github.com/courses-ionio/dokey) repository και στο wikipedia page του tmux.
+
+5. **Άσκηση 3** από το [dokey](https://github.com/courses-ionio/dokey) repository<br>
+Εκφώνηση: "create a list of todos, edit, delete, and check some of them".<br>
+**Link στο asciinema:** [![asciicast](https://asciinema.org/a/287182.svg)](https://asciinema.org/a/287182)
+**Περιγραφή:**
+Σε αυτήν την άσκηση χρησιμοποιήθηκε το [TODO.txt-cli](https://github.com/todotxt/todo.txt-cli) το οποίο αποτελεί την command line interface έκδοση του [TODO.txt](http://todotxt.org). Παρουσιάστηκαν commands όπως ./todo.sh add,addm,addto,append,prepend,rm,archive και άλλα.
+
