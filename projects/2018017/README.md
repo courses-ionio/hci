@@ -1,5 +1,6 @@
 <h2 align="center">Phase #2</h2>
 <h4 align="center">Vasileios Provopoulos | ID/RN: P2018017 | p18prov@ionio.gr</h4>
+<h6 align="center">Previous branch: https://github.com/provopoulos/hci/tree/2018017-PARADOTEO.1/projects/2018017</h6>
 
 ## DOKEY: [#HCI](https://github.com/courses-ionio/dokey#hci)
 |  3rd                                 | Deliverables                                                   |  LINK(s)                                             |  Deadline   |  Commit                                                                                                                             |
