@@ -1,0 +1,80 @@
+2019/09/01 * Opening Balance
+ Assets:Checking				€400.00
+ Assets:Savings					€1220.00
+ Liabilities:House Rent				€14400.00 ; 400€/M:FOR:3YRS
+ Equity:Opening Balance
+
+2019/10/02 * Monthly Budget
+ Assets:Cash					€250.00
+ Income:Budget					€-250.00
+
+2019/10/03 * NETFLIX.COM
+ Expenses:Subscriptions:Netflix			€13.99
+ Liabilities:AlphaBank:VisaCard
+
+2019/10/03 * CΟFFΕΕ ΙSLΑΝD				
+ Expenses:Drinks:Coffee				€2.20
+ Assets:Cash					€-2.20
+
+2019/10/12 * ΑΒ VΑSΙLΟΡΟULΟS SΑ
+ Expenses:Groceries				€35.78
+ Expenses:Electronics				€16.55
+ Expenses:Miscellaneous				€9.99
+ Liabilities:PiraeusBank:MasterCard
+
+2019/10/17 * SPOTIFY.COM
+ Expenses:Subscriptions:Spotify			€3.49
+ Liabilities:AlphaBank:VisaCard
+
+2019/10/22 * Metro Station
+ Expenses:Transport:Ticket			€1.40
+ Expenses:Transport:Ticket			€1.40
+ Assets:Cash					; Paid with cash.
+
+2019/10/27 * STARBUCKS				
+ Expenses:Drinks:Coffee				€3.95
+ Liabilities:AlphaBank:VisaCard			; Paid with debit card.
+
+2019/11/01 * Monthly Budget
+ Assets:Cash					€200.00
+ Income:Budget					€-200.00
+
+2019/11/03 * NETFLIX.COM
+ Expenses:Subscriptions:Netflix			€13.99
+ Liabilities:AlphaBank:VisaCard
+
+2019/11/10 * CFU-Bookstore
+ Expenses:Books:Java				€120.00
+ Liabilities:PiraeusBank:MasterCard
+
+2019/11/10 * Giftcard
+ Assets:Cash					€50
+ Income:Gift:Uncle				€-50
+
+2019/11/15 * ΑΒ VΑSΙLΟΡΟULΟS SΑ
+ Expenses:Groceries				€40.69
+ Liabilities:PiraeusBank:MasterCard
+
+2019/11/17 * SPOTIFY.COM
+ Expenses:Subscriptions:Spotify			€3.49
+ Liabilities:AlphaBank:VisaCard
+
+2019/11/20 * Taxi
+ Expenses:Transport:Τariff			€12.80
+ Assets:Cash
+
+2019/11/23 * CΟSΜΟΤΕ ΜΟΒΙLΕ ΑVΤ
+ Expenses:Mobile:Plan				€12
+ Liabilities:AlphaBank:VisaCard
+
+2019/11/25 * PPC S.A.
+ Expenses:Electricity				€90
+ Liabilities:AlphaBank:VisaCard
+
+2019/12/01 * Monthly Budget
+ Assets:Cash					€200.00
+ Income:Budget					€-200.00
+
+2019/12/03 * NETFLIX.COM
+ Expenses:Subscriptions:Netflix			€13.99
+ Liabilities:AlphaBank:VisaCard
