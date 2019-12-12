@@ -16,6 +16,9 @@ https://asciinema.org/a/281580
 Άσκηση 4: track your time with a simple journal
 https://asciinema.org/a/284363
 
+Άσκηση 5: organise the terminal window into multiple areas
+https://asciinema.org/a/287547
+
 # Ενδιάμεση αναφορά: Προσθήκη 5 εικόνων
 
 ### Κανονικές
