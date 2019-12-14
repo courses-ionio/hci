@@ -116,3 +116,7 @@ video link : https://asciinema.org/a/281994
 Video link : https://asciinema.org/a/288067
 
 
+Ζητούμενα : create a list of todos, edit, delete, and check some of them
+
+
+Video link : https://asciinema.org/a/288107
