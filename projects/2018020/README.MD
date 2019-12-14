@@ -52,3 +52,6 @@ https://el.wikipedia.org/wiki/Git_(%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE
 	asciinema link: https://asciinema.org/a/284573
 
 
+## Εργασία 2: "browse and view files on your system"
+	asciinema link: https://asciinema.org/a/288131
+	
