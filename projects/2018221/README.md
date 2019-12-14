@@ -33,6 +33,7 @@
 
 ## Εκπλήρωση ζητούμενων δεύτερης εργασίας
 
+
 * [x] Εξοικείωση με τις βασικές εντολές του linux όπως whoami,ls,less,cat,cp κ.α
 
 * [x] Χρήση της εντολής man για καλύτερη γνώση όλων των παραμέτρων της κάθε εντολής.
@@ -143,5 +144,9 @@
 ### [Σύνδεσμος αποθετήριου switch ](https://github.com/p18myro/gr/blob/gh-pages/_remix/switch.md)
 
 ### [Σύνδεσμος codepen switch](https://codepen.io/p18myro/pen/ExaVRRr)
+
+## Final Report
+### [Σύνδεσμος Final Report](https://github.com/p18myro/FINAL-REPORT)
+
 
 
