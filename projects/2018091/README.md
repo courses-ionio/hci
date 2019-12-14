@@ -73,3 +73,7 @@
 <h3>Εργασία: Text editor and plug-ins for code highlighting and autocompletion</h3> 
 
 <a href="https://asciinema.org/a/284686">Asciinema link
+
+<h3>Εργασία: Track your expenses</h3>
+
+<a href="https://asciinema.org/a/288105">Asciinema link
