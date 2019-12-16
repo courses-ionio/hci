@@ -18,7 +18,7 @@
 
 Εργασία: get familiar with basic commands, reading documentation and editing files
 
-Αποθετήριο κώδικα παραδοτέου 3: https://asciinema.org/a/6cUfILBxReiSyUfhVO5aW0ci6
+Αποθετήριο κώδικα παραδοτέου 3: https://asciinema.org/a/yW4UIrzJbD59Fg6k7nSKegmGA
 
 ### Ενδιάμεση Αναφορά
 
@@ -61,4 +61,4 @@ thumb: https://github.com/Icelandan/gr/blob/gh-pages/images/oculusvr-thumb.jpg
 
 Εργασία: create a list of todos, edit, delete, and check some of them
 
-Αποθετήριο κώδικα παραδοτέου 4: https://asciinema.org/a/shBvk7GOHz9tDCE7ixpFjfTFg
+Αποθετήριο κώδικα παραδοτέου 4: https://asciinema.org/a/RJOgGqxaCaBCTrZfZ7GZnsya8
