@@ -27,6 +27,7 @@ Used Calcurse,ps1,cat and grep.
    - **https://asciinema.org/a/285938** 
    
    format my aliases for showing most detailes the ls command. 
+   
    Used **nano** , **source**  
     
   ### 4η ΑΣΚΗΣΗ 
@@ -34,7 +35,8 @@ Used Calcurse,ps1,cat and grep.
    
    - **https://asciinema.org/a/288977** 
    
-   edit the ~/.zshrc with vim with auto-completions-suggestions.
+   edit the ~/.zshrc with vim with auto-completions-suggestions. 
+   
    Used **zsh** , **vim**
    
    
