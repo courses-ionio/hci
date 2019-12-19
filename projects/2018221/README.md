@@ -48,7 +48,32 @@
 
 ### Σύνδεσμος Παραδοτέου εργασία 2: https://asciinema.org/a/278979
 
+## Εργασία Συμμετοχικού περιεχομένου
+
+## Παραδοτέο Α
+Προσθήκη πέντε φωτογραφιών στο αντίγραφο του βιβλίου του μαθήματος. 
+
+### [Σύνδεσμος αποθετηρίου](https://github.com/p18myro/gr 'Σύνδεσμος αποθετηρίου')
+### [Σύνδεσμος εκτελέσιμου](https://p18myro.github.io/gr/)
+
+## Σύνδεσμος Πρώτης εικόνας:
+### [Eniac computer 1946](https://p18myro.github.io/gr/gallery/Eniac%20computer%201946/)
+
+## Σύνδεσμος δεύτερης εικόνας:
+### [Τransistorized computer 1401 IBM](https://p18myro.github.io/gr/gallery/%CE%A4ransistorized%20computer%201401%20IBM/)
+
+## Σύνδεσμος τρίτης εικόνας:
+### [IBM system360](https://p18myro.github.io/gr/gallery/IBM%20system360/)
+
+## Σύνδεσμος τέταρτης εικόνας:
+### [Altair 8800 Computer]( https://p18myro.github.io/gr/gallery/Altair%208800%20Computer/)
+
+## Σύνδεσμος πέμπτης εικόνας:
+### [Apple II](https://p18myro.github.io/gr/gallery/Apple%20II/)
+
+
 # Παραδοτέο 2
+
 ### [Σύνδεσμος αποθετηρίου hci](https://github.com/p18myro/hci 'Σύνδεσμος αποθετηρίου ') 
 
 ## Εργασία 3: Become productive with a todo list
@@ -90,30 +115,7 @@
 ## Τεκμηρίωση ζητουμένων
 
 ### Σύνδεσμος Παραδοτέου εργασία 4: https://asciinema.org/a/285892
-#
-# 
-# Εργασία Συμμετοχικού περιεχομένου
 
-### Παραδοτέο Α
-Προσθήκη πέντε φωτογραφιών στο αντίγραφο του βιβλίου του μαθήματος. 
-
-### [Σύνδεσμος αποθετηρίου](https://github.com/p18myro/gr 'Σύνδεσμος αποθετηρίου')
-### [Σύνδεσμος εκτελέσιμου](https://p18myro.github.io/gr/)
-
-## Σύνδεσμος Πρώτης εικόνας:
-### [Eniac computer 1946](https://p18myro.github.io/gr/gallery/Eniac%20computer%201946/)
-
-## Σύνδεσμος δεύτερης εικόνας:
-### [Τransistorized computer 1401 IBM](https://p18myro.github.io/gr/gallery/%CE%A4ransistorized%20computer%201401%20IBM/)
-
-## Σύνδεσμος τρίτης εικόνας:
-### [IBM system360](https://p18myro.github.io/gr/gallery/IBM%20system360/)
-
-## Σύνδεσμος τέταρτης εικόνας:
-### [Altair 8800 Computer]( https://p18myro.github.io/gr/gallery/Altair%208800%20Computer/)
-
-## Σύνδεσμος πέμπτης εικόνας:
-### [Apple II](https://p18myro.github.io/gr/gallery/Apple%20II/)
 
 ## Παραδοτέο Β
  Δημιουργία δύο νέων διαδραστικών παραδειγμάτων, τα οποία θα πρέπει να συνδέονται με βασικές έννοιες του βιβλίου και της διάδρασης ανθρώπου-υπολογιστή και να επιτρέπουν σε κάποιον 2ο χρήστη να τα αλλάξει ή/και να τα προσθέσει σε διαφορετικές εφαρμογές ως αρχέτυπα.
