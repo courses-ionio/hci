@@ -128,25 +128,27 @@
 
 ## Παραδοτέο Β
  Δημιουργία δύο νέων διαδραστικών παραδειγμάτων, τα οποία θα πρέπει να συνδέονται με βασικές έννοιες του βιβλίου και της διάδρασης ανθρώπου-υπολογιστή και να επιτρέπουν σε κάποιον 2ο χρήστη να τα αλλάξει ή/και να τα προσθέσει σε διαφορετικές εφαρμογές ως αρχέτυπα.
- Λόγω προβλήματος του jekyll δεν κατέστη δυνατό να δημιουργηθεί το εκτελέσιμο https://p18myro.github.io/gr/ για αυτο και παρακάτω παρατίθενται οι σύνδεσμοι του codepen αντι των εκτελέσιμων.
+ Η αποκατάσταση του Github pages για την δημιουργία του εκτελέσιμου, επετεύχθει αλλάζοντας το tag "include_relative" στα αρχεία που το περιείχαν,  με το tag "include". Εν συνεχεία μετέφερα τα αρχεία .md που περιείχαν αυτό το tag  στο directory _includes.
 
 
 ### [Σύνδεσμος αποθετηρίου κώδικα](https://github.com/p18myro/gr)
+### [Σύνδεσμος εκτελέσιμου](https://p18myro.github.io/gr/)
 
 ## Σύνδεσμοι διαδραστικών παραδειγμάτων:
 
 ### Παράδειγμα 1
 ### [Σύνδεσμος αποθετήριου audio-player](https://github.com/p18myro/gr/blob/gh-pages/_remix/audio-player.md)
 
-### [Σύνδεσμος codepen audio-player](https://codepen.io/p18myro/pen/eYmpKwx)
+### [Σύνδεσμος διαδραστικού παραδειγμάτος audio-player](https://p18myro.github.io/gr/remix/audio-player/)
 
 ### Παράδειγμα 2
 ### [Σύνδεσμος αποθετήριου switch ](https://github.com/p18myro/gr/blob/gh-pages/_remix/switch.md)
 
-### [Σύνδεσμος codepen switch](https://codepen.io/p18myro/pen/ExaVRRr)
+### [Σύνδεσμος διαδραστικού παραδειγμάτος switch](https://p18myro.github.io/gr/remix/switch/)
 
 
 ## Final Report
+
 ### [Σύνδεσμος Final Report](https://github.com/p18myro/FINAL-REPORT)
 
 
