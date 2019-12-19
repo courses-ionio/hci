@@ -4,8 +4,6 @@
 ### [Προφίλ στο github](https://github.com/p18myro 'Προφίλ στο github')
 
 # Παραδοτέο 1
-
-
 ### [Σύνδεσμος αποθετηρίου hci](https://github.com/p18myro/hci 'Σύνδεσμος αποθετηρίου ') 
 
 ## Εργασία 1: Set-up the main dependencies and demonstrate your base system 
@@ -39,7 +37,7 @@
 ## Παραδοτέο Α
 Προσθήκη πέντε φωτογραφιών στο αντίγραφο του βιβλίου του μαθήματος. 
 
-### [Σύνδεσμος αποθετηρίου](https://github.com/p18myro/gr 'Σύνδεσμος αποθετηρίου')
+### [Σύνδεσμος αποθετηρίου GR](https://github.com/p18myro/gr 'Σύνδεσμος αποθετηρίου')
 ### [Σύνδεσμος εκτελέσιμου](https://p18myro.github.io/gr/)
 
 ### Σύνδεσμος Πρώτης εικόνας:
@@ -59,7 +57,6 @@
 
 
 # Παραδοτέο 2
-
 ### [Σύνδεσμος αποθετηρίου hci](https://github.com/p18myro/hci 'Σύνδεσμος αποθετηρίου ') 
 
 ## Εργασία 3: Become productive with a todo list
@@ -95,7 +92,7 @@
  Η δημιουργία του εκτελέσιμου μέσω του Github pages, επετεύχθει αλλάζοντας το tag "include_relative" στα αρχεία που το περιείχαν,  με το tag "include". Εν συνεχεία μετέφερα τα αρχεία .md που περιέχουν αυτό το tag  στο directory _includes.
 
 
-### [Σύνδεσμος αποθετηρίου](https://github.com/p18myro/gr)
+### [Σύνδεσμος αποθετηρίου GR](https://github.com/p18myro/gr)
 ### [Σύνδεσμος εκτελέσιμου](https://p18myro.github.io/gr/)
 
 ### Σύνδεσμοι διαδραστικών παραδειγμάτων:
@@ -110,7 +107,6 @@
 
 
 ## Final Report
-
 Τέλος παραθέτω  το Link που περιέχει την τελική μου αναφορά.
 
 ### [Σύνδεσμος Final Report](https://github.com/p18myro/FINAL-REPORT)
