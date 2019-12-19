@@ -49,7 +49,7 @@
 ### Σύνδεσμος Παραδοτέου εργασία 2: https://asciinema.org/a/278979
 
 # Παραδοτέο 2
-
+### [Σύνδεσμος αποθετηρίου hci](https://github.com/p18myro/hci 'Σύνδεσμος αποθετηρίου ') 
 
 ## Εργασία 3: Become productive with a todo list
 
@@ -95,36 +95,25 @@
 # Εργασία Συμμετοχικού περιεχομένου
 
 ### Παραδοτέο Α
-Προσθήκη πέντε φωτογραφιών στο αντίγραφο του βιβλίου του μαθήματος. Λόγω προβλήματος του jekyll δεν κατέστη δυνατό να δημιουργηθεί το εκτελέσιμο https://p18myro.github.io/gr/. 
+Προσθήκη πέντε φωτογραφιών στο αντίγραφο του βιβλίου του μαθήματος. 
 
 ### [Σύνδεσμος αποθετηρίου](https://github.com/p18myro/gr 'Σύνδεσμος αποθετηρίου')
+### [Σύνδεσμος εκτελέσιμου](https://p18myro.github.io/gr/)
 
-### [Σύνδεσμος config.yml](https://github.com/p18myro/gr/blob/gh-pages/_config.yml)
+## Σύνδεσμος Πρώτης εικόνας:
+### [Eniac computer 1946](https://p18myro.github.io/gr/gallery/Eniac%20computer%201946/)
 
-## Σύνδεσμοι Πρώτης εικόνας:
-### [Eniac computer 1946](https://github.com/p18myro/gr/blob/gh-pages/images/Eniac%20computer%201946.jpg)
-### [Eniac computer 1946-thumb](https://github.com/p18myro/gr/blob/gh-pages/images/Eniac%20computer%201946-thumb.jpg)
-### [Readme Eniac computer 1946 ](https://github.com/p18myro/gr/blob/gh-pages/_gallery/Eniac%20computer%201946.md)
-#
-## Σύνδεσμοι δεύτερης εικόνας:
-### [Τransistorized computer 1401 IBM](https://github.com/p18myro/gr/blob/gh-pages/images/%CE%A4ransistorized%20computer%201401%20IBM.jpg)
-### [Τransistorized computer 1401 IBM-thumb]( https://github.com/p18myro/gr/blob/gh-pages/images/%CE%A4ransistorized%20computer%201401%20IBM-thumb.jpg)
-### [Readme Τransistorized computer 1401 IBM](https://github.com/p18myro/gr/blob/gh-pages/_gallery/%CE%A4ransistorized%20computer%201401%20IBM.md)
-#
-## Σύνδεσμοι τρίτης εικόνας:
-### [IBM system360]( https://github.com/p18myro/gr/blob/gh-pages/images/IBM%20system360.jpg)
-### [IBM system360-thumb](https://github.com/p18myro/gr/blob/gh-pages/images/IBM%20system360-thumb.jpg)
-### [Readme IBM system360]( https://github.com/p18myro/gr/blob/gh-pages/_gallery/IBM%20system360.md)
-#
-## Σύνδεσμοι τέταρτης εικόνας:
-### [Altair 8800 Computer]( https://github.com/p18myro/gr/blob/gh-pages/images/Altair%208800%20Computer.jpg)
-### [Altair 8800 Computer-thumb]( https://github.com/p18myro/gr/blob/gh-pages/images/Altair%208800%20Computer-thumb.jpg)
-### [Readme Altair 8800 Computer](https://github.com/p18myro/gr/blob/gh-pages/_gallery/Altair%208800%20Computer.md)
-#
-## Σύνδεσμοι πέμπτης εικόνας:
-### [Apple II](https://github.com/p18myro/gr/blob/gh-pages/images/Apple%20II.jpg)
-### [Apple II-thumb]( https://github.com/p18myro/gr/blob/gh-pages/images/Apple%20II-thumb.jpg)
-### [Readme Apple II](https://github.com/p18myro/gr/blob/gh-pages/_gallery/Apple%20II.md)
+## Σύνδεσμος δεύτερης εικόνας:
+### [Τransistorized computer 1401 IBM](https://p18myro.github.io/gr/gallery/%CE%A4ransistorized%20computer%201401%20IBM/)
+
+## Σύνδεσμος τρίτης εικόνας:
+### [IBM system360](https://p18myro.github.io/gr/gallery/IBM%20system360/)
+
+## Σύνδεσμος τέταρτης εικόνας:
+### [Altair 8800 Computer]( https://p18myro.github.io/gr/gallery/Altair%208800%20Computer/)
+
+## Σύνδεσμος πέμπτης εικόνας:
+### [Apple II](https://p18myro.github.io/gr/gallery/Apple%20II/)
 
 ## Παραδοτέο Β
  Δημιουργία δύο νέων διαδραστικών παραδειγμάτων, τα οποία θα πρέπει να συνδέονται με βασικές έννοιες του βιβλίου και της διάδρασης ανθρώπου-υπολογιστή και να επιτρέπουν σε κάποιον 2ο χρήστη να τα αλλάξει ή/και να τα προσθέσει σε διαφορετικές εφαρμογές ως αρχέτυπα.
