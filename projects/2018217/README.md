@@ -106,14 +106,17 @@
 > - [Enigma - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/enigma.md)
 > - [Enigma - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/enigma.jpg)
 > - [Enigma - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/enigma-thumb.jpg)
+> - [Σύνδεσμος Εικόνας Enigma](https://p18mant.github.io/gr/gallery/enigma/)
 
 > - [Ubuntu - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/ubuntu.md)
 > - [Ubuntu - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/ubuntu.png)
 > - [Ubuntu - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/ubuntu-thumb.png)
+> - [Σύνδεσμος Εικόνας Ubuntu](https://p18mant.github.io/gr/gallery/ubuntu/)
 
 > - [Android - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/android.md)
 > - [Android - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/android.jpg)
 > - [Android - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/android-thumb.jpg)
+> - [Σύνδεσμος Εικόνας Android](https://p18mant.github.io/gr/gallery/android/)
 
 | Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
 | :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
