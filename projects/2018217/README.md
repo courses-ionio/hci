@@ -166,9 +166,13 @@
 ### ***Γ - Τελική Αναφορά / Συμμετοχικό Υλικό***
 > #### **Βιογραφία του Linus Benedict Torvalds.**
 
-> - [Αποθετήριο Κώδικα Σύντομης Βιογραφίας του Linus Benedict Torvalds](https://github.com/p18mant/gr/blob/gh-pages/_biography/bio-Linus.md)
-> - [Αποθετήριο Κωδικα Βιογραφίας - Table](https://github.com/p18mant/gr/blob/gh-pages/_biography/linus_torvalds.md)
-> - [Αποθετήριο Εικόνας 1](https://github.com/p18mant/gr/blob/gh-pages/images/Linus_Torvalds.jpg)
-> - [Αποθετήριο Εικόνας 2](https://github.com/p18mant/gr/blob/gh-pages/images/Minix3.1.8.png)
+> ### [Σύνδεσμος Αποθετηρίου GR](https://github.com/p18mant/gr)
+> ### [Σύνδεσμος Εκτελέσιμου](https://p18mant.github.io/gr/biography/)
+
+> - [Αποθετήριο Κώδικα Σύντομης Βιογραφίας του Linus B. Torvalds](https://github.com/p18mant/gr/blob/gh-pages/_biography/bio-linus.md)
+> - [Αποθετήριο Κωδικα Βιογραφίας - Table](https://github.com/p18mant/gr/blob/gh-pages/_biography/linus-torvalds.md)
+> - [Σύνδεσμος Εκτελέσιμου του Linus B. Torvalds](https://p18mant.github.io/gr/biography/linus-torvalds/)
+> - [Αποθετήριο Εικόνας 1](https://github.com/p18mant/gr/blob/gh-pages/images/linus-torvalds.jpg)
+> - [Αποθετήριο Εικόνας 2](https://github.com/p18mant/gr/blob/gh-pages/images/minix.png)
 > - [Αποθετήριο Εικόνας 3](https://github.com/p18mant/gr/blob/gh-pages/images/ubuntu.png)
 
