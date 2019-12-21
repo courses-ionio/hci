@@ -90,6 +90,9 @@
 ### ***Α - Εργασία Ενδιάμεσης Αναφοράς Προόδου / Συμμετοχικό Υλικό***
 > #### **Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.**
 
+> ### [Σύνδεσμος Αποθετηρίου GR](https://github.com/p18mant/gr)
+> ### [Σύνδεσμος Εκτελέσιμου](https://p18mant.github.io/gr/)
+
 > - [Atari Video Computer System - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/atari_video_computer_system.md)
 > - [Atari Video Computer System - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/atari-video-computer-system.jpg)
 > - [Atari Video Computer System - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/atari-video-computer-system-thumb.jpg)
