@@ -101,6 +101,7 @@
 > - [Commodore 64 - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/commodore_64.md)
 > - [Commodore 64 - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/commodore64.png)
 > - [Commodore 64 - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/commodore64-thumb.png)
+> - [Σύνδεσμος Εικόνας Commodore 64](https://p18mant.github.io/gr/gallery/commodore_64/)
 
 > - [Enigma - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/enigma.md)
 > - [Enigma - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/enigma.jpg)
