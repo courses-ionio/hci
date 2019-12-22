@@ -16,9 +16,13 @@
 > #### **Εκτελέσιμα links στο asciinema:**
 > - [Visit 1](https://asciinema.org/a/275323)
 > - [Visit 2](https://asciinema.org/a/275329)
-> - ![Άσκηση 1](https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture1.jpg)
 
 > #### **[Αποθετήριο κώδικα άσκησης 1](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+
+> #### **Screenshot**
+!(https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture1.jpg)
+
+
 
 ### ***Άσκηση 2***
 > #### **Assignments Άσκησης 2:**
