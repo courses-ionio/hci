@@ -19,7 +19,7 @@
 
 > #### **[Αποθετήριο κώδικα άσκησης 1](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
-> #### **Screenshot**
+> #### **Screenshot Άσκησης 1**
 ![Άσκηση 1](https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture1.jpg)
 
 
@@ -37,6 +37,9 @@
 
 > #### **[Αποθετήριο κώδικα άσκησης 2](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
+> #### **Screenshot Άσκησης 2**
+![Άσκηση 2](https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture2.jpg)
+
 ### ***Άσκηση 3***
 > #### **Assignments Άσκησης 3:**
 > - Plan your time with a calendar.
@@ -48,6 +51,9 @@
 > - [Visit](https://asciinema.org/a/281392)
 
 > #### **[Αποθετήριο κώδικα άσκησης 3](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+
+> #### **Screenshot Άσκησης 3**
+![Άσκηση 3](https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture3.jpg)
 
 ### ***Άσκηση 4***
 > #### **Assignments Άσκησης 4:**
@@ -65,6 +71,9 @@
 
 > #### **[Αποθετήριο κώδικα άσκησης 4](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
+> #### **Screenshot Άσκησης 4**
+![Άσκηση 4](https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture4.jpg)
+
 ### ***Άσκηση 5***
 > #### **Assignments Άσκησης 5:**
 > - Search the local file system.
@@ -80,6 +89,9 @@
 > - [Visit 2](https://asciinema.org/a/286656)
 
 > #### **[Αποθετήριο κώδικα άσκησης 5](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+
+> #### **Screenshot Άσκησης 5**
+![Άσκηση 5](https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture5.jpg)
 
 > #### **Διεργασίες - Σχόλια - Πρόσθετη Εργασία Ασκήσεων:**
 > - Για την πραγματοποίηση της εργασίας εγκαταστάθηκε λογισμικό Linux Ubuntu 16.04.6 LTS σε υπολογιστή χωρίς λογισμικό.
