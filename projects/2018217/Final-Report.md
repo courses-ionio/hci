@@ -15,8 +15,7 @@
 
 #  Σύντομη ανάλυση σχετικών έργων και εργαλείων
 ******************************************************
-VM virtual box, linux ubuntu LTS 18.04, vim, prompt, neofetch, calcurse, asciinema
-5 νέες φωτογραφίες
+VM virtual box, linux ubuntu LTS 18.04, vim, prompt, neofetch, calcurse, asciinema, 5 νέες φωτογραφίες
 ******************************************************
 
 # Μέθοδος και τεχνικές ανάπτυξης
