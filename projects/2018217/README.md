@@ -4,7 +4,7 @@
 > ## **[GitHub Profile](https://github.com/p18mant)**
 
 ### ***Άσκηση 1***
-> #### **Assignments Εργασίας/Παραδοτέου 1:**
+> #### **Assignments Άσκησης 1:**
 > - Set-up the main dependencies and demostrate your base system.
 
 > #### **Ζητούμενα:**
@@ -17,10 +17,15 @@
 > - [Visit 1](https://asciinema.org/a/275323)
 > - [Visit 2](https://asciinema.org/a/275329)
 
-> #### **[Αποθετήριο κώδικα παραδοτέου 1](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+> #### **[Αποθετήριο κώδικα άσκησης 1](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+
+> #### **Screenshot Άσκησης 1**
+![Άσκηση 1](https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture1.jpg)
+
+
 
 ### ***Άσκηση 2***
-> #### **Assignments Εργασίας/Παραδοτέου 2:**
+> #### **Assignments Άσκησης 2:**
 > - Get familiar with basic commands, reading documentation and editing files.
 
 > #### **Ζητούμενο:**
@@ -30,39 +35,105 @@
 > - [Visit 1](https://asciinema.org/a/277765)
 > - [Visit 2](https://asciinema.org/a/277772)
 
-> #### **[Αποθετήριο κώδικα παραδοτέου 2](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+> #### **[Αποθετήριο κώδικα άσκησης 2](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
-> #### **Διεργασίες - Σχόλια - Πρόσθετη Εργασία:**
+> #### **Screenshot Άσκησης 2**
+![Άσκηση 2](https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture2.jpg)
+
+### ***Άσκηση 3***
+> #### **Assignments Άσκησης 3:**
+> - Plan your time with a calendar.
+
+> #### **Ζητούμενα:**
+> - Add, edit, search for an appointment.
+
+> #### **Εκτελέσιμο link στο asciinema:**
+> - [Visit](https://asciinema.org/a/281392)
+
+> #### **[Αποθετήριο κώδικα άσκησης 3](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+
+> #### **Screenshot Άσκησης 3**
+![Άσκηση 3](https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture3.jpg)
+
+### ***Άσκηση 4***
+> #### **Assignments Άσκησης 4:**
+> - Text editor and plug-ins for code highlighting and the autocompletion.
+
+> #### **Ζητούμενα:**
+> - Edit the vim or the shell configuration file.
+
+> #### **Εκτελέσιμα link στο asciinema:**
+> - [Visit 1](https://asciinema.org/a/283553)
+> - [Visit 2](https://asciinema.org/a/283554)
+> - [Visit 3](https://asciinema.org/a/283556)
+> - [Visit 4](https://asciinema.org/a/283559)
+> - [Visit 5](https://asciinema.org/a/283562)
+
+> #### **[Αποθετήριο κώδικα άσκησης 4](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+
+> #### **Screenshot Άσκησης 4**
+![Άσκηση 4](https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture4.jpg)
+
+### ***Άσκηση 5***
+> #### **Assignments Άσκησης 5:**
+> - Search the local file system.
+
+> #### **Ζητούμενα:**
+> - Search for the contents of a text file.
+
+> #### **Πρόσθετη Διαδικασία:**
+> - Προγραμματισμός Μεταβλητής Κέλυφους και Έλεγχος.
+
+> #### **Εκτελέσιμα link στο asciinema:**
+> - [Visit 1](https://asciinema.org/a/286650)
+> - [Visit 2](https://asciinema.org/a/286656)
+
+> #### **[Αποθετήριο κώδικα άσκησης 5](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
+
+> #### **Screenshot Άσκησης 5**
+![Άσκηση 5](https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture5.jpg)
+
+> #### **Διεργασίες - Σχόλια - Πρόσθετη Εργασία Ασκήσεων:**
 > - Για την πραγματοποίηση της εργασίας εγκαταστάθηκε λογισμικό Linux Ubuntu 16.04.6 LTS σε υπολογιστή χωρίς λογισμικό.
 > - Εγκατάσταση asciinema και δημιουργία account.
 > - Εγκατάσταση brew για την χρήση εργαλείων λογισμικού.
 > - Εγκατάσταση neofetch.
 > - Εγκατάσταση inxi.
 > - Εγκατάσταση mc.
-
+> - Εγκατάσταση calcurse.
+> - Εγκατάσταση kite.
+> - Εγκατάσταση percol.
 
 ### ***Α - Εργασία Ενδιάμεσης Αναφοράς Προόδου / Συμμετοχικό Υλικό***
 > #### **Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.**
 
+> ### [Σύνδεσμος Αποθετηρίου GR](https://github.com/p18mant/gr)
+> ### [Σύνδεσμος Εκτελέσιμου](https://p18mant.github.io/gr/)
+
 > - [Atari Video Computer System - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/atari_video_computer_system.md)
 > - [Atari Video Computer System - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/atari-video-computer-system.jpg)
 > - [Atari Video Computer System - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/atari-video-computer-system-thumb.jpg)
+> - [Σύνδεσμος Εικόνας Atari Video Computer System](https://p18mant.github.io/gr/gallery/atari_video_computer_system/)
 
 > - [Commodore 64 - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/commodore_64.md)
 > - [Commodore 64 - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/commodore64.png)
 > - [Commodore 64 - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/commodore64-thumb.png)
+> - [Σύνδεσμος Εικόνας Commodore 64](https://p18mant.github.io/gr/gallery/commodore_64/)
 
 > - [Enigma - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/enigma.md)
 > - [Enigma - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/enigma.jpg)
 > - [Enigma - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/enigma-thumb.jpg)
+> - [Σύνδεσμος Εικόνας Enigma](https://p18mant.github.io/gr/gallery/enigma/)
 
 > - [Ubuntu - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/ubuntu.md)
 > - [Ubuntu - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/ubuntu.png)
 > - [Ubuntu - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/ubuntu-thumb.png)
+> - [Σύνδεσμος Εικόνας Ubuntu](https://p18mant.github.io/gr/gallery/ubuntu/)
 
 > - [Android - Table](https://github.com/p18mant/gr/blob/gh-pages/_gallery/android.md)
 > - [Android - Normal Image](https://github.com/p18mant/gr/blob/gh-pages/images/android.jpg)
 > - [Android - 160px Image](https://github.com/p18mant/gr/blob/gh-pages/images/android-thumb.jpg)
+> - [Σύνδεσμος Εικόνας Android](https://p18mant.github.io/gr/gallery/android/)
 
 | Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
 | :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
@@ -107,3 +178,23 @@
 > - [3] https://el.wikipedia.org/wiki/Enigma_(συσκευή)
 > - [4] https://el.wikipedia.org/wiki/Ubuntu
 > - [5] https://el.wikipedia.org/wiki/Android
+
+
+### ***Γ - Τελική Αναφορά / Συμμετοχικό Υλικό***
+> #### **Βιογραφία του Linus Benedict Torvalds.**
+
+> ### [Σύνδεσμος Αποθετηρίου GR](https://github.com/p18mant/gr)
+> ### [Σύνδεσμος Εκτελέσιμου](https://p18mant.github.io/gr/biography/)
+
+> - [Αποθετήριο Κώδικα Σύντομης Βιογραφίας του Linus B. Torvalds](https://github.com/p18mant/gr/blob/gh-pages/_biography/bio-linus.md)
+> - [Αποθετήριο Κωδικα Βιογραφίας - Table](https://github.com/p18mant/gr/blob/gh-pages/_biography/linus-torvalds.md)
+> - [Σύνδεσμος Εκτελέσιμου του Linus B. Torvalds](https://p18mant.github.io/gr/biography/linus-torvalds/)
+> - [Αποθετήριο Εικόνας 1](https://github.com/p18mant/gr/blob/gh-pages/images/linus-torvalds.jpg)
+> - [Αποθετήριο Εικόνας 2](https://github.com/p18mant/gr/blob/gh-pages/images/minix.png)
+> - [Αποθετήριο Εικόνας 3](https://github.com/p18mant/gr/blob/gh-pages/images/ubuntu.png)
+
+## Final Report
+Τέλος παραθέτω  το Link που περιέχει την τελική μου αναφορά.
+
+### [Σύνδεσμος Final Report](https://github.com/p18mant/hci/blob/2018217-%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2/projects/2018217/Final-Report.md)
+
