@@ -10,7 +10,7 @@
 
 | Second | Deliverables | Link | Deadline | Commit |
 |--------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------|------------|------------------------------------------|
-| <br>get familiar with basic <br>commands,reading documentation <br>and editing files | <br>browse and view files <br>on your system | <br>(https://asciinema.org/a/278614)<br> https://asciinema.org/a/289663 | 03/11/2019 | 5d9789879c4f076b7e013b9221e98320e978fe32 |
+| <br>get familiar with basic <br>commands,reading documentation <br>and editing files | <br>browse and view files <br>on your system | <br>(https://asciinema.org/a/278614)<br> https://asciinema.org/a/289663 | 03/11/2019 | https://github.com/mariachlkt/hci/commit/5d9789879c4f076b7e013b9221e98320e978fe32#diff-2d05cf6366e12c150341c5de28eeee45 |
 
 Η δεύτερη άσκηση είχε παραδώθει εντός της προθεσμίας αλλα λόγω της απουσίας του ΑΜ την έκανα ξανά.Στον πίνακα υπάρχουν και τα δύο links,αυτό που βρίσκεται σε παρένθεση είναι το αρχικό και το άλλο περιλαμβάνει την διορθωμένη άσκηση.
 
