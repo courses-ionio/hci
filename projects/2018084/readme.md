@@ -62,3 +62,9 @@ thumb: https://github.com/Icelandan/gr/blob/gh-pages/images/oculusvr-thumb.jpg
 Εργασία: create a list of todos, edit, delete, and check some of them
 
 Αποθετήριο κώδικα παραδοτέου 4: https://asciinema.org/a/RJOgGqxaCaBCTrZfZ7GZnsya8
+
+### Εργασία 6
+
+Εργασία: add, edit, search for an appointment
+
+Αποθετήριο κώδικα παραδοτέου 6: https://asciinema.org/a/wTDx7GrbeSQZG6foepxoz1lMl
