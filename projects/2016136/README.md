@@ -11,7 +11,10 @@ become productive with a todo list.Taskwarrior list
 
 ##### calendar 1 
 
-https://asciinema.org/a/lVPppiIdKRy6o0SlBAUah7Sht?fbclid=IwAR1tp9TBiLwk_IVym1FxRmt0B3g-B3116eYa9A-4eU3pJH4TUiOhY7O-MNg
+https://asciinema.org/a/l1ZCemTbUTqYg6d7cKcJ4rdYc?fbclid=IwAR1r3dolcKCG8xWKdlkeHwWFVwIlEabIhFXQB-opImEVZdc9TX4i_A_x0Kw 
+
+link με το prompt τo ΑΜ μου https://asciinema.org/a/q3doEUBojku2md7S1DOP6WeTP?fbclid=IwAR3qzpjaHSl0_Pf_kMcRTUJEae5HrjOyLdEHf9igBWV0QxbAzOm9byu_M1k
+
 
 ##### set-up the main dependencies and demonstrate your base system 2
  
