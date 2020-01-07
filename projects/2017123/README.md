@@ -1,7 +1,8 @@
-Όνομα : Αλέξανδρος-Γεώργιος Λουκάς
-ΑΜ : Π2017123
-Μάθημα : Εποικοινωνία ανθρώπου και υπολογιστή
-1ο Παραδοτέο άσκηση : set-up the main dependencies and demonstrate your base system
+# Όνομα : Αλέξανδρος-Γεώργιος Λουκάς
+# ΑΜ : Π2017123
+## Μάθημα : Εποικοινωνία ανθρώπου και υπολογιστή
+
+## 1ο Παραδοτέο άσκηση : set-up the main dependencies and demonstrate your base system
 
 Με την εντολή nano ~/.bashrc αντικαθιστώ το command prompt(που το έχω ήδη αλλάξει) με το ΑΜ μου με αγγλικο χαρακτήρα.
 Θα αλλάξει αν κλείσω το terminal.
@@ -13,8 +14,7 @@ https://asciinema.org/a/xjTeKbLQKW2NmeL1jqP62DJ7B
 
 
 
-
-2o παραδοτέο άσκηση 2 : get familiar with basic commands, reading documentation and editing files
+## 2o παραδοτέο άσκηση 2 : get familiar with basic commands, reading documentation and editing files
 
 
 Χρησιμοποιώ βασικές εντολές ενός unix συστήματος πχ. touch, mkdir,cat,chmod για να δημιουργησω files και directories και να τους δωσω
@@ -25,8 +25,8 @@ https://asciinema.org/a/xjTeKbLQKW2NmeL1jqP62DJ7B
 https://asciinema.org/a/LBBHrPpQQWGBNm2LKhdvLk18S
 
 
-ΕΡΓΑΣΙΑ ΠΕΡΙΕΧΟΜΕΝΟΥ:
-1o ΠΑΡΑΔΟΤΕΟ
+# ΕΡΓΑΣΙΑ ΠΕΡΙΕΧΟΜΕΝΟΥ:
+# 1o ΠΑΡΑΔΟΤΕΟ
 
 1η εικονα:https://axel12321.github.io/gr/gallery/arduino-uno-board-tutorial-beginners2/
 2η εικόνα:https://axel12321.github.io/gr/gallery/minecrafter/
@@ -34,7 +34,7 @@ https://asciinema.org/a/LBBHrPpQQWGBNm2LKhdvLk18S
 4η εικόνα:https://axel12321.github.io/gr/gallery/exam-studying/
 
 
-3ο Παραδοτέο άσκηση 4 : plan your time with a calendar : add, edit, search for an appointment.
+## 3ο Παραδοτέο άσκηση 4 : plan your time with a calendar : add, edit, search for an appointment.
 
 Έχοντας κάνει install το calcurse εκτελώ την εντολή "calcurse" και ανοίγει το πρόγραμμα.
 Με το tab μετφέρομαι στο "todo" και με την εντολή "a" γράφω αυτά που θέλω να κάνω.Στη συνέχεια βάζω και ενα priority αριθμό 
@@ -47,3 +47,11 @@ https://asciinema.org/a/LBBHrPpQQWGBNm2LKhdvLk18S
 Τέλος στο todo με την εντολή "e" κάνω edit το "todo" που θέλω να αλλάξω.
 
 link : https://asciinema.org/a/lhsZv5qzRDSF6jhCDJxtVgHs7
+
+## 4o Παραδοτέο άσκηση 3 : create a list of todos, edit, delete, and check some of them
+
+Έχοντας κάνει install το taskWarrior χρησιμοποιώ αρχικά την εντολή "task add " 4 φορές για να 
+βάλω 4 tasks. Έπειτα με το "task delete"  διαγράφω ένα task. Με το "task edit"
+τροποποιώ ένα task και τέλος με το "task done" ολοκληρώνω ένα task.
+
+link : https://asciinema.org/a/jwZZyJEP4MESWfevEV6R09Xc5
