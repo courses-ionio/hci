@@ -3,7 +3,7 @@
 ### Ονοματεπώνυμο: Χρήστος Μήλιος
 ### Αριθμός Μητρώου: Π2018219
 #### [Προφίλ στο github](https://github.com/p18mili1)
-#### Link αποθετηρίου hci](https://github.com/p18mili1/hci)
+#### [Link αποθετηρίου hci](https://github.com/p18mili1/hci)
 
 ## Παραδοτέο 1
 Το σύστημα "τρέχει" σε Ubuntu 18.04.3 LTS που είναι εγκατεστημένο σε VirtualBox σε σύστημα με Windows 10.
