@@ -108,11 +108,11 @@
 #### [Σύνδεσμος εκτελέσιμου](https://cyclenikolaos.github.io/gr)
 
 ### Πρώτο παράδειγμα: SoundCloud Mini player with css record animation
-#### [Σύνδεσμος αποθετηρίου Audio Player](https://github.com/mibook/gr/blob/gh-pages/_remix/audio-player.md)
+#### [Σύνδεσμος αποθετηρίου Audio Player](https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/audio-player.md)
 #### [Link στο mibook του παραδείγματος Audio-player](https://cyclenikolaos.github.io/gr/remix/audio-player/)
 
 ### Δεύτερο παράδειγμα Menu-pie:
-#### [Σύνδεσμος αποθετηρίου Menu-pie](https://cyclenikolaos.github.io/gr/remix/menu-pie/)
+#### [Σύνδεσμος αποθετηρίου Menu-pie](https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/menu-pie.md)
 #### [Link στο mibook του παραδείγματος circular navigation example](https://cyclenikolaos.github.io/gr/remix/menu-pie/)
 
 
