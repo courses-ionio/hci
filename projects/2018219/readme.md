@@ -45,7 +45,7 @@
 * [x] Επίδειξη λειτουργίας του πακέτου thefuck με την εντολή fuck.
 #
 ## Εργασία Συμμετοχικού περιεχομένου
-### Παραδοτέο Α
+## Παραδοτέο Α
 Προσθήκη πέντε (5) νέων εικόνων με λεζάντα στο αντίγραφο του βιβλίου.
 
 #### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
@@ -116,15 +116,14 @@
 * [x] Διαγραφή διπλών εγγραφών.
 #
 ## Εργασία Συμμετοχικού περιεχομένου
-### Παραδοτέο B
+## Παραδοτέο B
 Προσθήκη της βιογραφίας του  **Ivan Sutherland**.
 
-#### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
+### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
 
-#### [Link εκτελέσιμου](https://p18mili1.github.io/gr)
+### [Link εκτελέσιμου](https://p18mili1.github.io/gr)
 
-###  Link αποθετηρίου νέας βιογραφίας:
-#### [Ivan Sutherland](https://github.com/p18mili1/gr/blob/gh-pages/_biography/ivan-sutherland.md)
+###  Βιογραφία του Ivan Sutherland:
+### [Link αποθετηρίου βιογραφίας](https://github.com/p18mili1/gr/blob/gh-pages/_biography/ivan-sutherland.md)
 
-###  Link νέας βιογραφίας:
-#### [Ivan Sutherland](https://p18mili1.github.io/gr/biography/ivan-sutherland/)
+### [Link εκτελέσιμου](https://p18mili1.github.io/gr/biography/ivan-sutherland/)
