@@ -63,3 +63,5 @@ Link για το fork του βιβλίου: https://github.com/jimDragon/gr/
 **Link στο asciinema:** [![asciicast](https://asciinema.org/a/287182.svg)](https://asciinema.org/a/287182)
 **Περιγραφή:**
 Σε αυτήν την άσκηση χρησιμοποιήθηκε το [TODO.txt-cli](https://github.com/todotxt/todo.txt-cli) το οποίο αποτελεί την command line interface έκδοση του [TODO.txt](http://todotxt.org). Παρουσιάστηκαν commands όπως ./todo.sh add, addm, addto, append, prepend, rm, archive και άλλα.
+
+![](output.gif)
