@@ -127,6 +127,6 @@
 
 ## Τελική Αναφορά
 ### [Link αποθετηρίου τελικής αναφοράς FinalReport](https://github.com/p18mili1/FinalReport)
-### [Link εκτελέσιμου](https://p18mili1.github.io/FinalReport)
+### [Link εκτελέσιμου τελικής αναφοράς](https://p18mili1.github.io/FinalReport)
 
 
