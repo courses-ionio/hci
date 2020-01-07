@@ -1,9 +1,9 @@
 # Μάθημα: Επικοινωνία Ανθρώπου-Υπολογιστή
 
-### Ονοματεπώνυμο: Χρήστος Μήλιος
-### Αριθμός Μητρώου: Π2018219
-#### [Προφίλ στο github](https://github.com/p18mili1)
-#### [Link αποθετηρίου hci](https://github.com/p18mili1/hci)
+## Ονοματεπώνυμο: Χρήστος Μήλιος
+## Αριθμός Μητρώου: Π2018219
+### [Προφίλ στο github](https://github.com/p18mili1)
+### [Link αποθετηρίου hci](https://github.com/p18mili1/hci)
 
 ## Παραδοτέο 1
 Το σύστημα "τρέχει" σε Ubuntu 18.04.3 LTS που είναι εγκατεστημένο σε VirtualBox σε σύστημα με Windows 10.
@@ -48,24 +48,24 @@
 ## Παραδοτέο Α
 Προσθήκη πέντε (5) νέων εικόνων με λεζάντα στο αντίγραφο του βιβλίου.
 
-#### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
+### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
 
-#### [Link εκτελέσιμου](https://p18mili1.github.io/gr)
+### [Link εκτελέσιμου](https://p18mili1.github.io/gr)
 
 ###  Link 1ης Εικόνας:
-#### [Ο μικροελεγκτής Atmega8 της Atmel](https://p18mili1.github.io/gr/gallery/Atmel_Atmega8/)
+### [Ο μικροελεγκτής Atmega8 της Atmel](https://p18mili1.github.io/gr/gallery/Atmel_Atmega8/)
 
 ###  Link 2ης Εικόνας: 
-#### [Ο μικροελεγκτής Intel-P8051](https://p18mili1.github.io/gr/gallery/Intel_P8051/)
+### [Ο μικροελεγκτής Intel-P8051](https://p18mili1.github.io/gr/gallery/Intel_P8051/)
 
 ###  Link 3ης Εικόνας:
-#### [Ο μικροεπεξεργαστής MOS 6502](https://p18mili1.github.io/gr/gallery/MOS_6502/)
+### [Ο μικροεπεξεργαστής MOS 6502](https://p18mili1.github.io/gr/gallery/MOS_6502/)
 
 ###  Link 4ης Εικόνας:
-#### [Ο μικροεπεξεργαστής Motorola MC6800](https://p18mili1.github.io/gr/gallery/Motorola_MC6800)
+### [Ο μικροεπεξεργαστής Motorola MC6800](https://p18mili1.github.io/gr/gallery/Motorola_MC6800)
 
 ###  Link 5ης Εικόνας:
-#### [Ο μικροεπεξεργαστής Zilog_Z80](https://p18mili1.github.io/gr/gallery/Zilog_Z80/)
+### [Ο μικροεπεξεργαστής Zilog_Z80](https://p18mili1.github.io/gr/gallery/Zilog_Z80/)
 #
 ## Παραδοτέο 2
 
@@ -117,7 +117,7 @@
 #
 ## Εργασία Συμμετοχικού περιεχομένου
 ## Παραδοτέο B
-Προσθήκη της βιογραφίας του  **Ivan Sutherland**.
+Προσθήκη της βιογραφίας του  **Ivan Sutherland**. Πρώτα έγινε η δημιουργία και η συγγραφή των αρχείων ivan-sutherland.md και bio-sutherland.md στους καταλόγους /\_biography και /\_includes, αντίστοιχα, και στη συνέχεια η προσθήκη των εικόνων και των εικονιδίων στον κατάλογο /images.
 
 ### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
 
