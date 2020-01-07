@@ -124,7 +124,7 @@
 
 ### [Link εκτελέσιμου](https://p18mili1.github.io/gr/biography/ivan-sutherland/)
 #
-#
+
 ## Τελική Αναφορά
 ### [Link αποθετηρίου τελικής αναφοράς FinalReport](https://github.com/p18mili1/FinalReport)
 ### [Link εκτελέσιμου](https://p18mili1.github.io/FinalReport)
