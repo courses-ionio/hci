@@ -64,4 +64,16 @@ Link για το fork του βιβλίου: https://github.com/jimDragon/gr/
 **Περιγραφή:**
 Σε αυτήν την άσκηση χρησιμοποιήθηκε το [TODO.txt-cli](https://github.com/todotxt/todo.txt-cli) το οποίο αποτελεί την command line interface έκδοση του [TODO.txt](http://todotxt.org). Παρουσιάστηκαν commands όπως ./todo.sh add, addm, addto, append, prepend, rm, archive και άλλα.
 
-![](output.gif)
+6. **Άσκηση 11** από το [dokey](https://github.com/courses-ionio/dokey) repository<br>
+Εκφώνηση: "build a custom desktop enviroment".<br>
+**Επίδειξη αποτελέσματος**
+![](output2.gif)
+**Περιγραφή:**
+Σε αυτήν την εργασία γίνεται η παρουσίαση του custom desktop enviroment το οποίο αποτελείται από τα εξής:
+- [Arch Linux](https://www.archlinux.org/)
+- [i3-gaps](https://www.archlinux.org/packages/community/x86_64/i3-gaps/)
+- dmenu
+- i3lock
+- [i3blocks](http://vivien.github.io/i3blocks/)
+- [Font Awesome](https://github.com/FortAwesome/Font-Awesome)<br>
+Τα **dotfiles + μερικά custom bash scripts** που χρησιμοποιούνται μπορούν να βρεθούν [εδώ](https://github.com/jimDragon/dotfiles)
