@@ -57,30 +57,17 @@
 ###  Link 1ης Εικόνας:
 #### [Ο μικροελεγκτής Atmega8 της Atmel](https://p18mili1.github.io/gr/gallery/Atmel_Atmega8/)
 
-###  2η Εικόνα 
-#### Τίτλος: Ο μικροελεγκτής Intel-P8051
-#### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/Intel_P8051.jpg)
-#### [Εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/Intel_P8051-thumb.jpg)
-#### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Intel_P8051.md)
-#
-###  3η Εικόνα
-#### Τίτλος: Ο μικροεπεξεργαστής MOS 6502
-#### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/MOS_6502.jpg)
-#### [Εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/MOS_6502-thumb.jpg)
-#### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/MOS_6502.md)
-#
-###  4η εικόνα
-#### Τίτλος: Ο μικροεπεξεργαστής Motorola MC6800
-#### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/Motorola_MC6800.jpg)
-#### [Εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/Motorola_MC6800-thumb.jpg)
-#### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Motorola_MC6800.md)
-#
-###  5η εικόνα
-#### Τίτλος: Ο μικροεπεξεργαστής Zilog_Z80
-#### [Εικόνα](https://github.com/p18mili1/gr/blob/gh-pages/images/Zilog_Z80.jpg)
-#### [Εικονίδιο](https://github.com/p18mili1/gr/blob/gh-pages/images/Zilog_Z80-thumb.jpg)
-#### [Αρχείο .md](https://github.com/p18mili1/gr/blob/gh-pages/_gallery/Zilog_Z80.md)
+###  Link 2ης Εικόνας: 
+#### [Ο μικροελεγκτής Intel-P8051](https://p18mili1.github.io/gr/gallery/Intel_P8051/)
 
+###  Link 3ης Εικόνας:
+#### [Ο μικροεπεξεργαστής MOS 6502](https://p18mili1.github.io/gr/gallery/MOS_6502/)
+
+###  Link 4ης Εικόνας:
+#### [Ο μικροεπεξεργαστής Motorola MC6800](https://p18mili1.github.io/gr/gallery/Motorola_MC6800)
+
+###  Link 5ης Εικόνας:
+#### [Ο μικροεπεξεργαστής Zilog_Z80](https://p18mili1.github.io/gr/gallery/Zilog_Z80/)
 
 
 ## Παραδοτέο 2
@@ -88,12 +75,12 @@
 ### [Κλαδί αναφοράς παραδοτέου](https://github.com/p18mili1/hci/tree/2018219/projects/2018219)
 
 ## Εργασία 3η
-Μετά την εγκατάσταση των απαιτούμενων αρχείων για την εκτέλεση τη εφαρμογής todo.sh δημιιουργήθηκε το παρακάτω αρχείο asciinema.
+### Παραγωγικότητα με μία λίστα todo
+Μετά την εγκατάσταση των απαιτούμενων αρχείων για την εκτέλεση τη εφαρμογής todo.sh δημιουργήθηκε στο αρχείο του κελύφους (.bashrc) η αντιστοίχιση t (alias) για την εντολή ~/todo.sh.
 
 ### Link παραδοτέου αρχείου asciinema: https://asciinema.org/a/281841
 
-
-### Εκπλήρωση ζητούμενων πρώτου παραδοτέου στο προσωπικό αποθετήριο του κωδικά μας
+### Εκπλήρωση ζητούμενων Εργασίας 3
 
 * [x] Δημιουργίας λίστας προγραμματισμένων εργασιών.
 
@@ -107,17 +94,17 @@
       εργασιών και των εργασιών που έχουν εκτελεστεί.
      
 ## Εργασία 4η
-Μετά την εγκατάσταση των απαιτούμενων αρχείων για την εκτέλεση τη εφαρμογής calcurse δημιιουργήθηκε το παρακάτω αρχείο asciinema.
+### Διαχείριση συναντήσεων και εργασιών με το ημερολόγιο
+Μετά την εγκατάσταση των απαιτούμενων αρχείων για την εκτέλεση τη εφαρμογής calcurse έγινε η διαμόρφωση των παραμέτρων της εφαρμογής για την προσαρμογή στις ανάγκες του χρήστη.
 
 ### Link παραδοτέου αρχείου asciinema: https://asciinema.org/a/286115
 
-
-### Εκπλήρωση ζητούμενων πρώτου παραδοτέου στο προσωπικό αποθετήριο του κωδικά μας
+### Εκπλήρωση ζητούμενων Εργασίας 4
 
 * [x] Δημιουργίας λίστας προγραμματισμένων συναντήσεων και εργασιών.
 
 * [x] Επεξεργασία συναντήσεων και εργασιών, δηλαδή αλλαγή ημερομηνίας και περιεχομένου συναντήσεων,
-      ορισμός προτεραιότητας προγραμματισμένων εργασιών, κτλ.
+     ορισμός προτεραιότητας προγραμματισμένων εργασιών, κτλ.
 
 * [x] Εξαγωγή δεδομένων σε αρχεία με μορφοποίηση ical και pcal. 
 
