@@ -94,7 +94,23 @@ Used Calcurse,ps1,cat and grep.
   
  - https://github.com/apost1/gr/blob/gh-pages/images/sketchpad-thumb.jpg  
   
- - https://github.com/apost1/gr/blob/gh-pages/_gallery/sketchpad2.md
+ - https://github.com/apost1/gr/blob/gh-pages/_gallery/sketchpad2.md  
+ 
+   
+ 
+ 
+> ## B: ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ  
+
+### ΒΙΟΓΡΑΦΙΑ TIM BERNERS-LEE   
+  
+  https://github.com/apost1/gr/blob/gh-pages/_biography/bio-Tim%20Berners-Lee.md   
+    
+      
+  https://github.com/apost1/gr/blob/gh-pages/_biography/Tim%20Berners-Lee.md
+ 
+ 
+
+
   
   
   
