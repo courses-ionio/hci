@@ -113,7 +113,7 @@
 #
 ## Εργασία Συμμετοχικού Περιεχομένου
 ## Παραδοτέο Γ
-Προσθήκη της βιογραφίας του  **_Ivan Sutherland_**. Πρώτα έγινε η δημιουργία και η συγγραφή των αρχείων **ivan-sutherland.md** και **bio-sutherland.md** στους καταλόγους **[/\_biography](https://github.com/p18mili1/gr/blob/gh-pages/_biography/)** και **![/\_includes](https://github.com/p18mili1/gr/blob/gh-pages/_includes/)**, αντίστοιχα, και στη συνέχεια η προσθήκη των εικόνων (και των αντίστοιχων εικονιδίων) **ivan-sutherland.jpg**, **lightpen.jpg** και **sketchpad1.jpg** στον κατάλογο **[/images](https://github.com/p18mili1/gr/blob/gh-pages/images/)**.
+Προσθήκη της βιογραφίας του  **_Ivan Sutherland_**.
 
 ### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
 
