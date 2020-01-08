@@ -121,6 +121,7 @@
 
 ###  Βιογραφία του Ivan Sutherland:
 ### [Link αποθετηρίου βιογραφίας](https://github.com/p18mili1/gr/blob/gh-pages/_biography/ivan-sutherland.md)
+(https://github.com/p18mili1/gr/blob/gh-pages/images/MOS_6502-thumb.jpg) (https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland.jpg)
 
 ### [Link εκτελέσιμου](https://p18mili1.github.io/gr/biography/ivan-sutherland/)
 #
