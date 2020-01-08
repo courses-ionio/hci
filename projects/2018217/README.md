@@ -200,5 +200,5 @@
 
 ### [Σύνδεσμος Final Report στο FinalReport Repository](https://github.com/p18mant/FinalReport)
 
-### [Σύνδεσμος Final Report Σύνδεσμος Εκτελέσιμου](https://p18mant.github.io/FinalReport/)
+### [Σύνδεσμος Εκτελέσιμου Final Report](https://p18mant.github.io/FinalReport/)
 
