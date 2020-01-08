@@ -113,16 +113,13 @@
 #
 ## Εργασία Συμμετοχικού Περιεχομένου
 ## Παραδοτέο Γ
-Προσθήκη της βιογραφίας του  **Ivan Sutherland**. Πρώτα έγινε η δημιουργία και η συγγραφή των αρχείων ivan-sutherland.md και bio-sutherland.md στους καταλόγους /\_biography και /\_includes, αντίστοιχα, και στη συνέχεια η προσθήκη των εικόνων και των εικονιδίων στον κατάλογο /images.
+Προσθήκη της βιογραφίας του  **Ivan Sutherland**. Πρώτα έγινε η δημιουργία και η συγγραφή των αρχείων *ivan-sutherland.md* και *bio-sutherland.md* στους καταλόγους [/\_biography](https://github.com/p18mili1/gr/blob/gh-pages/_biography/) και [/\_includes](https://github.com/p18mili1/gr/blob/gh-pages/_includes/), αντίστοιχα, και στη συνέχεια η προσθήκη των εικόνων (και των αντίστοιχων εικονιδίων) *ivan-sutherland.jpg*, *lightpen.jpg* και *sketchpad1.jpg* στον κατάλογο [/images](https://github.com/p18mili1/gr/blob/gh-pages/images/).
 
 ### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
 
 ### [Link εκτελέσιμου](https://p18mili1.github.io/gr)
 
 ###  Βιογραφία του Ivan Sutherland:
-### [Link αποθετηρίου βιογραφίας](https://github.com/p18mili1/gr/blob/gh-pages/_biography/ivan-sutherland.md)
-(https://github.com/p18mili1/gr/blob/gh-pages/images/MOS_6502-thumb.jpg) (https://github.com/p18mili1/gr/blob/gh-pages/images/ivan-sutherland.jpg)
-
 ### [Link εκτελέσιμου](https://p18mili1.github.io/gr/biography/ivan-sutherland/)
 #
 
