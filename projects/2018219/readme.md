@@ -113,7 +113,7 @@
 #
 ## Εργασία Συμμετοχικού Περιεχομένου
 ## Παραδοτέο Γ
-Προσθήκη της βιογραφίας του  **Ivan Sutherland**. Πρώτα έγινε η δημιουργία και η συγγραφή των αρχείων **_ivan-sutherland.md_** και **_bio-sutherland.md_** στους καταλόγους **[/\_biography](https://github.com/p18mili1/gr/blob/gh-pages/_biography/)** και **[/\_includes](https://github.com/p18mili1/gr/blob/gh-pages/_includes/)**, αντίστοιχα, και στη συνέχεια η προσθήκη των εικόνων (και των αντίστοιχων εικονιδίων) *ivan-sutherland.jpg*, *lightpen.jpg* και *sketchpad1.jpg* στον κατάλογο **[/images](https://github.com/p18mili1/gr/blob/gh-pages/images/)**.
+Προσθήκη της βιογραφίας του  **_Ivan Sutherland_**. Πρώτα έγινε η δημιουργία και η συγγραφή των αρχείων **ivan-sutherland.md** και **bio-sutherland.md** στους καταλόγους **[/\_biography](https://github.com/p18mili1/gr/blob/gh-pages/_biography/)** και **[/\_includes](https://github.com/p18mili1/gr/blob/gh-pages/_includes/)**, αντίστοιχα, και στη συνέχεια η προσθήκη των εικόνων (και των αντίστοιχων εικονιδίων) **ivan-sutherland.jpg**, **lightpen.jpg** και **sketchpad1.jpg** στον κατάλογο **[/images](https://github.com/p18mili1/gr/blob/gh-pages/images/)**.
 
 ### [Link αποθετηρίου gr](https://github.com/p18mili1/gr)
 
@@ -121,8 +121,7 @@
 
 ###  Βιογραφία του Ivan Sutherland:
 ### [Link εκτελέσιμου](https://p18mili1.github.io/gr/biography/ivan-sutherland/)
-#
-
+##
 ## Τελική Αναφορά
 ### [Link αποθετηρίου τελικής αναφοράς FinalReport](https://github.com/p18mili1/FinalReport)
 ### [Link εκτελέσιμου τελικής αναφοράς](https://p18mili1.github.io/FinalReport)
