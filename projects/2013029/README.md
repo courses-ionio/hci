@@ -5,13 +5,16 @@
 ### Μαρία Δήμα
 ### Α.Μ Π2013029
 
+### Εισαγωγή
+Οι ασκήσεις γίνανε σε λαπτοπ με windows 10 σε περιβάλλον wsl2 (Windows Subsystem for Linux). Το hardware του συστήματος μου είναι intel core duo 2.40 ghz και 4gb ddr2 ram. To λειτουργικό linux είναι ubuntu 18.04 LTS το οποίο κατεβάστηκε απο το windows store. Για να λειτουργήσει το wsl2 και να γίνει η εγκατάσταση του ubuntu πρεπει πρώτα να έχει ενεργοποιηθεί το windows Windows Subsystem for Linux απο τo control panel -> Programs and Features -> turn Windows features On or Off. Έγιναν και οι 4 ασκήσεις, και χρησιμοποιήθηκαν τα προτεινόμενα εργαλεία.
+
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 #### asciinema: https://asciinema.org/a/xdeBp0SW242760i84gmzhzZbg
 Άλλαξα το command promt με το Α.Μ μου. Για να αλλάξω το command prompt έκανα edit το αρχείο .bashrc με τον nano editor. To configuration του αρχείου φαίνεται στο session του asciinema.
 ```
 sudo nano .bashrc
 ```
-εμφάνισα τα dot files με την εντολή
+Eμφάνισα τα dot files με την εντολή
 
 ```
 ls -a
@@ -102,4 +105,7 @@ htop
 
 #### Βίντεο που πήρα πληροφορίες
 https://www.youtube.com/watch?v=5iXzqN8-34E
+
+### Συμπεράσματα
+Απο τις παραπάνω εργασίες έμαθα να χρησιμοποιώ το λειτουργικό συστημα linux. Εμαθα τη δομή των αρχείων και τις βασικές εντολες του terminal. Έμαθα να χρησιμοποιώ αρκετά και χρήσιμα εργαλεία και εξοικειώθηκα με τους διάφορους editors καθώς και να διαβάζω τα manuals των εργαλείων. Εξοικειώθηκα με τη χρήση του asciinema καθώς δημιούργησα λογαριασμό όπου έχω όλα τα recorded terminal sessions μου. Τέλος η χρήση terminal linux σε περιβάλλον windows είναι πολύ σημαντική για πολλούς χρήστες καθώς σε άλλη περίπτωση θα έπρεπε να χρησιμοποιούμε vitual machines ή ακόμα και να εγκαταστήσουμε κάποιο distribution σε dedicated σύστημα.
 
