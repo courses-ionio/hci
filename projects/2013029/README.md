@@ -24,6 +24,7 @@ neofetch
 ```
 
 ### Άσκηση 2. Get familiar with basic commands, reading documentation and editing files. Browse and view files on your system.
+#### asciinema: https://asciinema.org/a/RbtBN5UgEGdQQoNfIjXBRz8iE
 Εγκατέστησα το the fuck πως περιγράφεται στο https://github.com/nvbn/thefuck. Εγκατέστησα το ranger. To vim ήταν ήδη εγκατεστημένο σ
 το σύστημα μου.
 
@@ -47,4 +48,37 @@ man vim
 man ranger
 ```
 
+### Άσκηση 3. Βecome productive with a todo list. Create a list of todos, edit, delete, and check some of them.
+#### asciinema: https://asciinema.org/a/IErO3dxTpnMeovcC184ZF1TpC
+Εγκατέστησα το taskwarrior https://taskwarrior.org/docs/start.html.
 
+```
+sudo apt-get install taskwarrior
+```
+
+Δημιούργησα, επεξεργαστηκα, έσβησα και ολοκλήρωσα tasks.
+To edit ανοίγει τον default editor (για εμένα nano) και μπορείς να επεξεργαστείς όλες τις πληροφορίες του task και να προσθέσεις tags και άλλα.
+
+```
+task add <your task>
+task add <your task> due:<due date>
+task <index> edit
+task <index> delete
+task <index> done
+```
+Για να δώ τα ενεργα tasks
+
+```
+task
+task list
+```
+
+Δύο πολυ ωραίες λειτουργίες του taskwarrior είναι το calendar και το burndown https://taskwarrior.org/docs/commands/burndown.html.
+To calendar σου δείχνει όλα τα tasks με τη μορφή ημερολογίου, ενώ το burndown δειχνει σε διαγραμμα τα completed active και τα task με προθεσμία.
+
+```
+task calendar
+task burndown
+```
+#### Βίντεο
+https://www.youtube.com/watch?v=jutN_S7v13k
