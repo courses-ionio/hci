@@ -22,3 +22,29 @@ ls -a
 sudo apt-get instal neofetch
 neofetch
 ```
+
+### Άσκηση 2. Get familiar with basic commands, reading documentation and editing files. Browse and view files on your system.
+Εγκατέστησα το the fuck πως περιγράφεται στο https://github.com/nvbn/thefuck. Εγκατέστησα το ranger. To vim ήταν ήδη εγκατεστημένο σ
+το σύστημα μου.
+
+```
+sudo apt-get install ranger
+```
+Έκανα browse το file system μου με τη χρήση του ranger.
+
+```
+ranger
+```
+Δημιούργησα directory documents όπου δημιούργησα ενα αρχείο test με τον vim editor.
+
+```
+vim test
+```
+Στη συνέχεια είδα τα manuals του ranger και του vim.
+
+```
+man vim
+man ranger
+```
+
+
