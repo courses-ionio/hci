@@ -80,5 +80,26 @@ To calendar σου δείχνει όλα τα tasks με τη μορφή ημε�
 task calendar
 task burndown
 ```
-#### Βίντεο
+#### Βίντεο που πήρα πληροφορίες
 https://www.youtube.com/watch?v=jutN_S7v13k
+
+### Άσκηση 4. Organise the terminal window into multiple areas. Use one window to search-edit local files or browse the web and another window for performance monitoring.
+#### asciinema: https://asciinema.org/a/HypZOVhuLZv2GwQ33R0yQAxnm
+
+Εγκατέστησα το tmux καθώς μου φάνηκε το πιο απλό στη χρήση https://en.wikipedia.org/wiki/Tmux.
+
+```
+sudo apt-get install tmux
+```
+
+Δημιούργησα 2 παράθυρα. Στο ένα έκανα performance monitoring με την εντολή
+
+```
+htop
+```
+
+Και στο άλλο εκανα browse το file system μου με τη χρήση του ranger που έμαθα απο την άσκηση 2. δημιούργησα directory askisi4 και δημιούργησα νέο αρχείο με τον nano editor το οποίο ξαναεπεξεργαστηκα και με τον vim
+
+#### Βίντεο που πήρα πληροφορίες
+https://www.youtube.com/watch?v=5iXzqN8-34E
+
