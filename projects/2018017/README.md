@@ -20,3 +20,11 @@
 |          5th         |                Deliverables               |                                  LINK(s)                                 |                                                 Ledger                                                |                                                     Report                                                    |  Deadline  |  Commit  |
 |:--------------------:|:-----------------------------------------:|:------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:----------:|:--------:|
 | Track your expenses. | Add a source of income and some expenses. | [[Ledger]: Asciinema](https://asciinema.org/a/0H3p5CiOSRYcR8saRiPaJ0sMT) | [ledger.txt](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/ledger.txt) | [oct-report.txt](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/oct-report.txt) | 14/12/2019 | &#x2611; |
+
+<br>
+
+|                 6th                |                                               Deliverables                                               | LINK(s)/GIF |                                            Config                                           |  Deadline  |  Commit  |
+|:----------------------------------:|:--------------------------------------------------------------------------------------------------------:|:-----------:|:-------------------------------------------------------------------------------------------:|:----------:|:--------:|
+| Build a custom desktop environment | Customize the wallpaper, menu, bar, notifications, windows and screensaver. Demonstrate them with a GIF. |     TBA     | [i3WM](https://github.com/provopoulos/hci/tree/2018017-PARADOTEO.2/projects/2018017/config) | 12/01/2020 | &#x2611; |
+
+<h5 align="center">$: DUE TO the nature of 6th assignment and limitations of .GIF extension colour gamut, supplementary configuration files, scripts and screenshots of final desktop are provided. Please REVIEW 'Config' section of table above.</h5>
