@@ -5,7 +5,7 @@
 #     
 ## Εργασία: Στη χώρα του linux (user land)
 ### [Προφίλ στο github](https://github.com/p18mili1)
-### [Link αποθετηρίου hci για τα παραδοτέα](https://github.com/p18mili1/hci)
+### [Link αποθετηρίου hci](https://github.com/p18mili1/hci/tree/2018219/projects/2018219)
 
 ## Παραδοτέο 1
 Το σύστημα "τρέχει" σε Ubuntu 18.04.3 LTS που είναι εγκατεστημένο σε VirtualBox σε σύστημα με Windows 10.
