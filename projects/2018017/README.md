@@ -1,3 +1,6 @@
+<h2 align="center">Phase #1</h2>
+<h6 align="center">Following branch: https://github.com/provopoulos/hci/tree/2018017-PARADOTEO.2/projects/2018017</h6>
+
 Vasileios Provopoulos<br>
 ID/RN: P2018017<br>
 p18prov@ionio.gr<br>
@@ -35,3 +38,5 @@ My forked repository: https://github.com/provopoulos/gr<br>
 **Deliverables:**<br>
 -Create a list of todo tasks, modify, start and check some of them: https://asciinema.org/a/281808
 <br>
+<br>
+<h6 align="center">Following branch: https://github.com/provopoulos/hci/tree/2018017-PARADOTEO.2/projects/2018017</h6>
