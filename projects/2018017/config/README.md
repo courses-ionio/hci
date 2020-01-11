@@ -14,7 +14,7 @@
 * Statusbar: [i3blocks](https://github.com/vivien/i3blocks)
 * Transparency effects: [Compton](https://github.com/chjj/compton) 
 * Menu: [Rofi](https://github.com/davatorium/rofi) (drun mode)
-* Lock: i3lock with custom 'Gaussian Blur' made by me with Python.
+* Lock: i3lock with custom '[Gaussian Blur](https://en.wikipedia.org/wiki/Gaussian_blur)' made by me with Python.
 * Screensaver: [CMatrix](https://github.com/abishekvashok/cmatrix)
 * Terminal: Sakura
 * Fonts: [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro), [Fantasque Sans](https://github.com/belluzj/fantasque-sans), [Font Awesome](https://fontawesome.com/) (free)
@@ -45,3 +45,21 @@ Changes in Rofi's default configuration include a sightly modified '[OneDark](ht
   <img src="https://raw.githubusercontent.com/provopoulos/hci/2018017-PARADOTEO.2/projects/2018017/config/i3launcher.png" alt="Rofi"></img>
 
 Rofi configuration can be found [here]() and theme [here]().
+### i3lockbarebones.py:
+The idea was inspired by existing projects such as [i3lock-fancy](https://github.com/meskarune/i3lock-fancy) and [i3lock-blur](https://github.com/petvas/i3lock-blur).<br>My implementation takes a simplistic approach (excluding fancy stuff): **Capture > Manipulate > Set**.<br>
+`Scrot() utility captures 'active' desktop, Pillow() manipulates image to apply blur effect and i3lock() sets it as 'lock' background.`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/provopoulos/hci/2018017-PARADOTEO.2/projects/2018017/config/neosaver-lock.png" alt="Rofi"></img>
+
+[Scrot](https://en.wikipedia.org/wiki/Scrot) is a minimalist command line screen capturing utility.<br>
+[Pillow](https://en.wikipedia.org/wiki/Python_Imaging_Library) is a versatile utility that can be imported to Python and offers several standard procedures for image manipulation such as per-pixel modifications, masking, filtering, etc.
+#### MY_CODE:
+```python
+os.system('scrot "/home/p18prov/Documents/.tmp/lock.png"')
+im1 = Image.open(r"/home/p18prov/Documents/.tmp/lock.png")
+im2 = im1.filter(ImageFilter.GaussianBlur(radius = 5))
+im2 = im2.save(r"/home/p18prov/Documents/.tmp/lock-blurred.png")
+os.system('i3lock --image="/home/p18prov/Documents/.tmp/lock-blurred.png"')
+```
+**Script can be found [here]().**<br>
+The script can be amended with Pillow to include different blur effects or even text. See more about [ImageFilter()](https://pillow.readthedocs.io/en/stable/reference/ImageFilter.html) and [ImageDraw()](https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html) modules in the official documentation.<br>
