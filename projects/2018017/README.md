@@ -28,3 +28,8 @@
 | Build a custom desktop environment | Customize the wallpaper, menu, bar, notifications, windows and screensaver. Demonstrate them with a GIF. |     [Demonstration](https://raw.githubusercontent.com/provopoulos/hci/2018017-PARADOTEO.2/projects/2018017/config/i3wmconf.gif)     | [i3WM](https://github.com/provopoulos/hci/tree/2018017-PARADOTEO.2/projects/2018017/config) | 12/01/2020 | &#x2611; |
 
 <h5 align="center">NOTE: Please REVIEW 'Config' section of table above. It contains supplementary configuration files, scripts and screenshots of the final desktop.</h5>
+
+### Essentials:
+* [Overview](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/README.md)
+* [Screenshots](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/README.md#screenshots)
+* **[i3lockbarebones.py](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/README.md#i3lockbarebonespy) (_[Script](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/i3lockbarebones.py) is written by me._)**
