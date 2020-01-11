@@ -17,7 +17,7 @@
 
 
 - **https://asciinema.org/a/277116.**  
-Used Calcurse,ps1,cat and grep. 
+Used Calcurse,ps1,cat and grep (we use -i,so it doesn't bother us if Caps Lock is on.) 
 
 
  ### 3η ΑΣΚΗΣΗ 
