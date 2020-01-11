@@ -29,3 +29,8 @@
 | Fourth | Deliverables | Link  | Deadline |
 |---------------------|------------------------------------------|--------------------------------|----------|
 | track your expenses | add a source of income and some expenses | https://asciinema.org/a/284666 | 01/12/19 |
+
+
+| Fifth | Deliverables | Link  | Deadline |
+|------------------------------------|------------------------------------------------------------------|--------------------------------|-------------------|
+| become productive with a todo list | create a list of todos, edit, delete, and check <br>some of them | https://asciinema.org/a/293041 | Β. Τελική αναφορά |
