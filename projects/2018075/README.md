@@ -59,3 +59,6 @@ To Do: plan. your time with a calendar
 
 To Do:  Become productive with a todo list
 [Link 4](https://asciinema.org/a/KynLhjd91HglxWzINzjbMf0MU)
+
+To Do: Organize the terminal window into multiple areas
+[Link 5](https://asciinema.org/a/LgYjbX268zAJRt2zOWMSOpLFV)
