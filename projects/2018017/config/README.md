@@ -63,3 +63,19 @@ os.system('i3lock --image="/home/p18prov/Documents/.tmp/lock-blurred.png"')
 ```
 **Script can be found [here]().**<br>
 The script can be amended with Pillow to include different blur effects or even text. See more about [ImageFilter()](https://pillow.readthedocs.io/en/stable/reference/ImageFilter.html) and [ImageDraw()](https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html) modules in the official documentation.<br>
+### Screenshots:
+<img src="https://raw.githubusercontent.com/provopoulos/hci/2018017-PARADOTEO.2/projects/2018017/config/i3desktop.png" alt="Desktop"
+	title="Desktop" width="150" height="100" />
+<img src="https://raw.githubusercontent.com/provopoulos/hci/2018017-PARADOTEO.2/projects/2018017/config/i3launcher.png" alt="Launcher"
+	title="Launcher" width="150" height="100" />
+<img src="https://raw.githubusercontent.com/provopoulos/hci/2018017-PARADOTEO.2/projects/2018017/config/i3lock.png" alt="Lock"
+	title="Lock" width="150" height="100" />
+<img src="https://raw.githubusercontent.com/provopoulos/hci/2018017-PARADOTEO.2/projects/2018017/config/i3neosaver.png" alt="Neofetch"
+	title="Neofetch" width="150" height="100" />
+<img src="https://raw.githubusercontent.com/provopoulos/hci/2018017-PARADOTEO.2/projects/2018017/config/neosaver-lock.png" alt="Lock2"
+	title="Lock2" width="150" height="100" />
+
+*Click on pictures to show them in full size.*
+
+### Αcknowledgements
+This project is considered completed for the purposes of the final assignment. Credits go to respective maintainers of each utility used. Thank you for reading!
