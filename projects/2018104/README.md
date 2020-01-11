@@ -56,3 +56,8 @@
   ### _Άσκηση 3η_ 
   >#### Εdit the vim or the shell configuration file
   [link3](https://asciinema.org/a/l3VzBWkwUT5fbihxrnUPUtZcz)
+  
+   ### _Άσκηση 4η_ 
+   >#### track your expenses
+   [link4](https://asciinema.org/a/5gbBvdUltAy3XDD7rQuFfBh8L)
+  
