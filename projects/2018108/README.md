@@ -178,3 +178,10 @@ glances
 Ctrl + b' 'ArrowKeys
 ```
 - Και τέλος έκανα edit ένα local αρχείο χρησιμοποιώντας το vim 
+
+## Άσκηση 6
+
+convert between different text formats
+
+**Asciinema link:**
+https://asciinema.org/a/292977
