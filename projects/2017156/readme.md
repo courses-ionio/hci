@@ -17,8 +17,33 @@
 
 
 - **https://asciinema.org/a/277116.**  
-Used Calcurse,ps1,cat and grep.     
-# ΣΥΜΜΕΤΟΧΙΚΟ ΕΚΠΑΙΔΕΥΤΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ  
+Used Calcurse,ps1,cat and grep (we use -i,so it doesn't bother us if Caps Lock is on.) 
+
+
+ ### 3η ΑΣΚΗΣΗ 
+   (edit the shell configuration file) 
+   
+   
+   - **https://asciinema.org/a/285938** 
+   
+   format my aliases for showing most detailes the ls command. 
+   
+   Used **nano** , **source**  
+    
+  ### 4η ΑΣΚΗΣΗ 
+  (try a different shell) 
+   
+   - **https://asciinema.org/a/288977** 
+   
+   edit the ~/.zshrc with vim with auto-completions-suggestions. 
+   
+   Used **zsh** , **vim**
+   
+   
+   
+# ΣΥΜΜΕΤΟΧΙΚΟ ΕΚΠΑΙΔΕΥΤΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ 
+ 
+   
 > ## Α: ΕΝΔΙΑΜΕΣΗ ΑΝΑΦΟΡΑ
   
     
@@ -33,11 +58,11 @@ Used Calcurse,ps1,cat and grep.
   ### 1η ΠΡΟΣΘΗΚΗ ΕΙΚΟΝΑΣ (Apple 1 Computer)
   
   
- - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer2.jpg
   
- - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer2.jpg  
+ - https://github.com/apost1/gr/blob/gh-pages/images/apple1computer-thumb.jpeg
   
- - https://github.com/apost1/gr/blob/gh-pages/_gallery/apple1computer.md  
+ - https://github.com/apost1/gr/blob/gh-pages/_gallery/apple1computer2.md  
    
   ### 2η ΠΡΟΣΘΗΚΗ ΕΙΚΟΝΑΣ (Spacewar)  
    
@@ -69,7 +94,23 @@ Used Calcurse,ps1,cat and grep.
   
  - https://github.com/apost1/gr/blob/gh-pages/images/sketchpad-thumb.jpg  
   
- - https://github.com/apost1/gr/blob/gh-pages/_gallery/sketchpad2.md
+ - https://github.com/apost1/gr/blob/gh-pages/_gallery/sketchpad2.md  
+ 
+   
+ 
+ 
+> ## B: ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ  
+
+### ΒΙΟΓΡΑΦΙΑ TIM BERNERS-LEE   
+  
+  https://github.com/apost1/gr/blob/gh-pages/_biography/bio-Tim%20Berners-Lee.md   
+    
+      
+  https://github.com/apost1/gr/blob/gh-pages/_biography/Tim%20Berners-Lee.md
+ 
+ 
+
+
   
   
   
