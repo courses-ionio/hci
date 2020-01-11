@@ -57,6 +57,12 @@
   
 - ΑΣΚΗΣΗ_5
   
-  - Το link που ακολουθει αποτελει την υλοποιηση της 5ης ασκησης
+  - Το link που ακολουθει αποτελει την υλοποιηση της 5ης ασκησης.
   
   - [Link_5](https://asciinema.org/a/6Lsgb8dULMKJ2C089nOPg3Xmc)
+
+- ΑΣΚΗΣΗ_6
+  
+  -Το link που ακολουθει αποτελει την υλοποιηση της 6ης ασκησης.
+  
+  -[Link_6](https://asciinema.org/a/VigEleEe0V0ZgWBRWKKeydlhO)
