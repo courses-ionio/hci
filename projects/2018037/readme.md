@@ -63,6 +63,6 @@
 
 - ΑΣΚΗΣΗ_6
   
-  -Το link που ακολουθει αποτελει την υλοποιηση της 6ης ασκησης.
+  - Το link που ακολουθει αποτελει την υλοποιηση της 6ης ασκησης.
   
-  -[Link_6](https://asciinema.org/a/VigEleEe0V0ZgWBRWKKeydlhO)
+  - [Link_6](https://asciinema.org/a/VigEleEe0V0ZgWBRWKKeydlhO)
