@@ -25,6 +25,11 @@ Track your time with a simple journal
 
 https://asciinema.org/a/285933 (used jrnl)
 
+## ΑΣΚΗΣΗ 4:
+
+Search the local file system
+
+https://asciinema.org/a/293075 (used find, vim, cat)
 
 ## ΕΝΔΙΑΜΕΣΗ ΑΝΑΦΟΡΑ (Α)
 
@@ -81,3 +86,13 @@ Xerox Alto I
 [Small size](https://github.com/rawmann/gr/blob/gh-pages/images/xerox-alto-i-thumb.jpg)
 
 [Info](https://github.com/rawmann/gr/blob/gh-pages/_gallery/xerox-alto-i.md)
+
+## ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ (Γ)
+
+Ζητουμενο:Mια νέα βιογραφία.
+
+### ΒΙΟΓΡΑΦΙΑ LARRY TESLER
+
+[Σύντομη βιογραφία](https://github.com/rawmann/gr/blob/gh-pages/_biography/bio-tesler.md)
+
+[Gallery](https://github.com/rawmann/gr/blob/gh-pages/_biography/larry-tesler.md)
