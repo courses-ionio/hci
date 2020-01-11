@@ -70,3 +70,9 @@ Asciinema link: https://asciinema.org/a/284512
 Άσκηση: get familiar with basic commands, reading documentation and editing files
 
 Asciinema link: https://asciinema.org/a/287306
+
+## Έκτη άσκηση
+
+Άσκηση: Organise the terminal window into multiple areas
+
+Asciinema link: https://asciinema.org/a/292985
