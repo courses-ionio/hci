@@ -29,7 +29,7 @@ exec_always feh --bg-fill /home/p18prov/Pictures/retro.jpg
 # lock screen
 bindsym $mod+shift+x exec "python3 /home/p18prov/Desktop/i3WM/scripts/i3lockbarebones.py"
 ```
-Full configuration file can be found [here]().
+Full configuration file can be found [here](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/config).
 ### Statusbar:
 Changes in i3blocks' default configuration include linux commands to show kernel version and CPU/GPU current temperatures.
 ```
@@ -38,13 +38,13 @@ command=sensors | grep "Core x:" | awk '{print $3}'
 interval=1
 color=#0071c5
 ```
-Full configuration file can be found [here]().
+Full configuration file can be found [here](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/i3blocks.conf).
 ### Rofi(+Transparency/Fade effects):
 Changes in Rofi's default configuration include a sightly modified '[OneDark](https://github.com/davatorium/rofi-themes/blob/master/User%20Themes/onedark.rasi)' theme provided by [Benjamin Stauss](https://github.com/me-benni) to match Ubuntu's aubergine pattern. Transparency and fade effects are made possible by '[Compton](https://github.com/chjj/compton)' compositor.
 <p align="center">
   <img src="https://raw.githubusercontent.com/provopoulos/hci/2018017-PARADOTEO.2/projects/2018017/config/i3launcher.png" alt="Rofi"></img>
 
-Rofi configuration can be found [here]() and theme [here]().
+Rofi configuration can be found [here](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/config.rasi) and theme [here](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/onedark.rasi).
 ### i3lockbarebones.py:
 The idea was inspired by existing projects such as [i3lock-fancy](https://github.com/meskarune/i3lock-fancy) and [i3lock-blur](https://github.com/petvas/i3lock-blur).<br>My implementation takes a simplistic approach (excluding fancy stuff): **Capture > Manipulate > Set**.<br>
 `Scrot() utility captures 'active' desktop, Pillow() manipulates image to apply blur effect and i3lock() sets it as 'lock' background.`
@@ -61,7 +61,7 @@ im2 = im1.filter(ImageFilter.GaussianBlur(radius = 5))
 im2 = im2.save(r"/home/p18prov/Documents/.tmp/lock-blurred.png")
 os.system('i3lock --image="/home/p18prov/Documents/.tmp/lock-blurred.png"')
 ```
-**Script can be found [here]().**<br>
+**Script can be found [here](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/i3lockbarebones.py).**<br>
 The script can be amended with Pillow to include different blur effects or even text. See more about [ImageFilter()](https://pillow.readthedocs.io/en/stable/reference/ImageFilter.html) and [ImageDraw()](https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html) modules in the official documentation.<br>
 ### Screenshots:
 <img src="https://raw.githubusercontent.com/provopoulos/hci/2018017-PARADOTEO.2/projects/2018017/config/i3desktop.png" alt="Desktop"
