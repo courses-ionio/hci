@@ -54,3 +54,7 @@ ASCIINEMA LINK:https://asciinema.org/a/281993
 
 ASCIINEMA LINK:https://asciinema.org/a/284634
 
+--------------------------------------
+
+Εργασία:"Track your time with a simple journal" (4η Άσκηση)
+ASCIINEMA LINK: https://asciinema.org/a/293238
