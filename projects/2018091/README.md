@@ -77,3 +77,7 @@
 <h3>Εργασία: Track your expenses</h3>
 
 <a href="https://asciinema.org/a/288105">Asciinema link
+
+<h3>Εργασία: Organise the terminal window into multiple areas</h3>
+
+<a href="https://asciinema.org/a/293215">Asciinema link 
