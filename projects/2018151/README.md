@@ -64,3 +64,12 @@
 ## Εργασία: Άσκηση 4 (track your time with a simple journal)
 [Ωστόσο χρησιμοποίησα το journal πιο πολύ ως "ημερολόγιο" παρά ως time tracker]
 #### [Εκτελέσιμο link](https://asciinema.org/a/284656 '[Εκτελέσιμο link')
+
+## Τελική αναφορά
+
+| Links σε Εικόνες                                                | Links σε Captions                                                       |
+| --------------------------------------------------------------- | -------------------------------------------------------------------     |
+| https://github.com/bllyz/gr/blob/gh-pages/images/larrygypsy.jpg | https://github.com/bllyz/gr/blob/gh-pages/_biography/larry-tesler.md    |
+| https://github.com/bllyz/gr/blob/gh-pages/images/larrytes.jpg   | https://github.com/bllyz/gr/blob/gh-pages/_biography/bio-larrytesler.md |
+
+
