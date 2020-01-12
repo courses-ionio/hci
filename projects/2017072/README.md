@@ -5,7 +5,7 @@
 Αριθμός Μητρώου: Π2017072
 ---------------------------------------
 
-Εργασία: Set-up the main dependencies and demonstrate your base system (1η Άσκηση)
+/////Εργασία: Set-up the main dependencies and demonstrate your base system (1η Άσκηση)
 
 LINK: https://asciinema.org/a/275555
 
@@ -44,17 +44,17 @@ LINK: https://asciinema.org/a/275555
 --------------------------------------
 
 
-Εργασία:"Get familiar with basic commands, reading documentation and editing files" (2η Άσκηση)
+//////Εργασία:"Get familiar with basic commands, reading documentation and editing files" (2η Άσκηση)
 
 ASCIINEMA LINK:https://asciinema.org/a/281993
 
 -------------------------------------
 
-Εργασία:"Βecome productive with a todo list" (3η Άσκηση)
+//////Εργασία:"Βecome productive with a todo list" (3η Άσκηση)
 
 ASCIINEMA LINK:https://asciinema.org/a/284634
 
 --------------------------------------
 
-Εργασία:"Track your time with a simple journal" (4η Άσκηση)
+//////Eργασία:"Track your time with a simple journal" (4η Άσκηση)
 ASCIINEMA LINK: https://asciinema.org/a/293238
