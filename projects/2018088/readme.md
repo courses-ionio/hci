@@ -116,6 +116,9 @@
 
 [Asciinema link](https://asciinema.org/a/281898 'Asciinema link')
 
+#### Άσκηση 4 / Παραδοτέο 4
+[Asciinema link](https://asciinema.org/a/293278 'Asciinema link')
+
 # Γ. Τελική Αναφορά 
 
 Εκφώνηση εργασίας : Γ: 1) μια νέα μελέτη περίπτωσης ή 2) μια νέα βιογραφία, ή 3) ένα νέο διάγραμμα (π.χ., Gordon Bell Nomograph, Xerox Star genealogy, Beaudouin-Lafon Table).
