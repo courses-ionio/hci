@@ -56,7 +56,7 @@ Link για το fork του βιβλίου: https://github.com/jimDragon/gr/
 Εκφώνηση: "organise the terminal window into multiple areas".<br>
 **Link στο asciinema:** [![asciicast](https://asciinema.org/a/284511.svg)](https://asciinema.org/a/284511)
 **Περιγραφή:**
-Όπως αναφέρεται και στην περιγραφή της συγκεκριμένης άσκησης στο [dokey](https://github.com/courses-ionio/dokey) repository, στο παραπάνω asciinema γίνεται μια σύντομη επίδειξη στον τρόπο λειτουργίας του [tmux](https://github.com/tmux/tmux/blob/master/.github/README.md) χρησιμοποιώντας δύο παράθυρα. Στο πρώτο παράθυρο, το οποίο ονομάστηκε "Workspace", χωρίζεται σε 2 panels έχοντας στο δεξί το [htop](https://en.wikipedia.org/wiki/Htop) και στο αριστερό το vim το οποίο χρησιμοποιήθηκε για να γίνει μια διόρθωση στο αρχείο .bashrc. Έπειτα στο δεύτερο παράθυρο, το οποίο ονομάστηκε "Browser", έγινε χρήση ενός terminal based browser του [elinks](http://elinks.or.cz/) με το οποίο έγινε μια σύντομη περιήγηση στο [dokey](https://github.com/courses-ionio/dokey) repository και στο wikipedia page του tmux.
+Όπως αναφέρεται και στην περιγραφή της συγκεκριμένης άσκησης στο [dokey](https://github.com/courses-ionio/dokey) repository, στο παραπάνω asciinema γίνεται μια σύντομη επίδειξη στον τρόπο λειτουργίας του [tmux](https://github.com/tmux/tmux/blob/master/.github/README.md) χρησιμοποιώντας δύο παράθυρα. Στο πρώτο παράθυρο, το οποίο ονομάστηκε "Workspace", χωρίζεται σε 2 panels έχοντας στο δεξί το [htop](https://en.wikipedia.org/wiki/Htop) και στο αριστερό το [vim](https://www.vim.org/) το οποίο χρησιμοποιήθηκε για να γίνει μια διόρθωση στο αρχείο .bashrc. Έπειτα στο δεύτερο παράθυρο, το οποίο ονομάστηκε "Browser", έγινε χρήση ενός terminal based browser του [elinks](http://elinks.or.cz/) με το οποίο έγινε μια σύντομη περιήγηση στο [dokey](https://github.com/courses-ionio/dokey) repository και στο wikipedia page του tmux.
 
 5. **Άσκηση 3** από το [dokey](https://github.com/courses-ionio/dokey) repository<br>
 Εκφώνηση: "become productive with a todo list".<br>
@@ -76,4 +76,4 @@ Link για το fork του βιβλίου: https://github.com/jimDragon/gr/
 - i3lock
 - [i3blocks](http://vivien.github.io/i3blocks/)
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome)<br>
-Τα **dotfiles + μερικά custom bash scripts** που χρησιμοποιούνται μπορούν να βρεθούν [εδώ](https://github.com/jimDragon/dotfiles)
+Τα **dotfiles + μερικά custom bash scripts** που χρησιμοποιούνται για το lockscreen κτλ. μπορούν να βρεθούν [εδώ](https://github.com/jimDragon/dotfiles)
