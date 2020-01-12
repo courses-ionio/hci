@@ -115,3 +115,23 @@
 >add, edit, search for an appointment
 
 [Asciinema link](https://asciinema.org/a/281898 'Asciinema link')
+
+# Γ. Τελική Αναφορά 
+
+Εκφώνηση εργασίας : Γ: 1) μια νέα μελέτη περίπτωσης ή 2) μια νέα βιογραφία, ή 3) ένα νέο διάγραμμα (π.χ., Gordon Bell Nomograph, Xerox Star genealogy, Beaudouin-Lafon Table).
+
+Από τα προαναφερόμενα επλέχθηκε το 2), να προστεθεί στο βιβλίο του μαθήματος δηλαδή, η βιογραφία του Bill Gates.
+
+[Σχετικά με τον Bill Gates](https://github.com/AlexKontop/gr/blob/gh-pages/_biography/bill-gates.md '[Σχετικά με τον Bill Gates')
+
+[Σύντομη βιογραφία](https://github.com/AlexKontop/gr/blob/gh-pages/_biography/bio-bill-gates.md '[Σύντομη βιογραφία)
+
+[Bill Gates.jpg](https://github.com/AlexKontop/gr/blob/gh-pages/images/bill-gates.jpg '[Bill Gates.jpg)
+
+[Microsoft.jpg](https://github.com/AlexKontop/gr/blob/gh-pages/images/microsoft.jpg '[Microsoft.jpg')
+
+[Windows 1.0.jpg](https://github.com/AlexKontop/gr/blob/gh-pages/images/win1.jpg '[Windows 1.0.jpg)
+
+[Windows 10.jpg](https://github.com/AlexKontop/gr/blob/gh-pages/images/win10.jpg '[Windows 10.jpg')
+
+
