@@ -47,11 +47,13 @@ https://el.wikipedia.org/wiki/Git_(%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE
 
 ## *Παραδοτέο 2*
 
-
+## Εργασία 2: "browse and view files on your system"
+	asciinema link: https://asciinema.org/a/288131
+	
 ## Εργασία 3: "create a list of todos, edit, delete, and check some of them" 
 	asciinema link: https://asciinema.org/a/284573
 
+## Εργασία 13: "use one window to search-edit local files or browse the web and another window for performance monitoring" 
+	asciinema link: https://asciinema.org/a/293012
 
-## Εργασία 2: "browse and view files on your system"
-	asciinema link: https://asciinema.org/a/288131
 	
