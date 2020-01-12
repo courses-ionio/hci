@@ -48,7 +48,6 @@ LINK: https://asciinema.org/a/275555
 
 ASCIINEMA LINK:https://asciinema.org/a/281993
 
-Προφίλ στο github:https://github.com/TheodoreKont
 
 -------------------------------------
 
@@ -56,12 +55,10 @@ ASCIINEMA LINK:https://asciinema.org/a/281993
 
 ASCIINEMA LINK:https://asciinema.org/a/284634
 
-Προφίλ στο github:https://github.com/TheodoreKont
 --------------------------------------
 
 //////Eργασία:"Track your time with a simple journal" (4η Άσκηση)
 
 ASCIINEMA LINK: https://asciinema.org/a/293238
 
-Προφίλ στο github:https://github.com/TheodoreKont
 
