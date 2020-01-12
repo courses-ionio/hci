@@ -124,13 +124,13 @@
 
 [Σχετικά με τον Bill Gates](https://github.com/AlexKontop/gr/blob/gh-pages/_biography/bill-gates.md '[Σχετικά με τον Bill Gates')
 
-[Σύντομη βιογραφία](https://github.com/AlexKontop/gr/blob/gh-pages/_biography/bio-bill-gates.md '[Σύντομη βιογραφία)
+[Σύντομη βιογραφία](https://github.com/AlexKontop/gr/blob/gh-pages/_biography/bio-bill-gates.md '[Σύντομη βιογραφία')
 
-[Bill Gates.jpg](https://github.com/AlexKontop/gr/blob/gh-pages/images/bill-gates.jpg '[Bill Gates.jpg)
+[Bill Gates.jpg](https://github.com/AlexKontop/gr/blob/gh-pages/images/bill-gates.jpg '[Bill Gates.jpg')
 
 [Microsoft.jpg](https://github.com/AlexKontop/gr/blob/gh-pages/images/microsoft.jpg '[Microsoft.jpg')
 
-[Windows 1.0.jpg](https://github.com/AlexKontop/gr/blob/gh-pages/images/win1.jpg '[Windows 1.0.jpg)
+[Windows 1.0.jpg](https://github.com/AlexKontop/gr/blob/gh-pages/images/win1.jpg '[Windows 1.0.jpg')
 
 [Windows 10.jpg](https://github.com/AlexKontop/gr/blob/gh-pages/images/win10.jpg '[Windows 10.jpg')
 
