@@ -153,5 +153,27 @@ Homebrew. Το jrnl είναι ένα journal, ένα προσωπικό ημε�
 πράγματα που κάναμε σε διάφορες στιγμές της ζωής μας. Επίσης, μπορούμε να δημιουργήσουμε ένα αρχείο .txt και να περάσουμε
 τα δεδομένα αυτού στο journal μας με την χρήση της εντολής jrnl < text.txt.
 
+
+# Γ. Τελική Αναφορά
+
+Για την τελική αναφορά (Γ) κληθήκαμε να : προσθέσουμε μια νέα μελέτη περίπτωσης, ή ,μια νέα βιογραφία, ή ένα νέο διάγραμμα, 
+στο διαδικτυακό βιβλίο του μαθήματος. Από τις τρείς επιλογές που μας δώθηκαν, επέλεξα την δεύτερη, να προσθέσω δηλαδή την
+βιογραφία ενός σημαντικού κατά την ανάπτυξη των λειτουργικών συστημάτων προσώπου ,του Λίνους Τόρβαλντς. Στην βιογραφία του (https://github.com/panagiotismouts/gr/_biography/linus.md), εμπεριέχονται και τρία παραδείγματα της ενεργούς χρήσης των
+γνώσεων και των εργαλείων, που προσέφερε στον τομέα εκείνο ο Λίνους ( Πυρήνας των Linux, Arch Linux, Git). Ακολουθούν οι
+συνδέσμοι των προαναφερθόντων, καθώς και των εικόνων που χρησιμοποιούνται για την επεξήγηση τους.
+
+[Λίγα λόγια για τον Linus](https://github.com/panagiotismouts/gr/blob/gh-pages/_biography/linus.md '[Λίγα λόγια για τον Linus')
+
+[Σύντομη βιογραφία](https://github.com/panagiotismouts/gr/blob/gh-pages/_biography/bio-linus.md '[Σύντομη βιογραφία')
+
+[Linus.jpg](https://github.com/panagiotismouts/gr/blob/gh-pages/images/linus.jpg '[Linus.jpg')
+
+[Linux.jpg](https://github.com/panagiotismouts/gr/blob/gh-pages/images/linux.jpg '[Linux.jpg')
+
+[Arch.jpg](https://github.com/panagiotismouts/gr/blob/gh-pages/images/arch.jpg '[Arch.jpg')
+
+[Git.jpg](https://github.com/panagiotismouts/gr/blob/gh-pages/images/git.jpg '[Git.jpg')
+
+
 # Ευχαριστώ πολύ
  
