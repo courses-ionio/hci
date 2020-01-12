@@ -2,9 +2,9 @@
 Ονοματεπώνυμο: Βογδόπουλος Γεώργιος
 ΑΜ: Π2018170
 GitHub: p18vogd
-Link εργασίας: https://asciinema.org/a/275644
+Link άσκησης: https://asciinema.org/a/275644
 
-Link εργασίας 2 : https://asciinema.org/a/278770
+Link άσκησης 2 : https://asciinema.org/a/278770
 
 
 Ενδιάμεση Αναφορά(Α) : 
@@ -63,15 +63,18 @@ Link εργασίας 2 : https://asciinema.org/a/278770
    
    
    
-   Link εργασίας 3 : https://asciinema.org/a/281920
+   Link άσκησης 3 : https://asciinema.org/a/281920
    
    
    
-   Link εργασίας 4:  https://asciinema.org/a/284437
+   Link άσκησης 4:  https://asciinema.org/a/284437
    
    
    
    Link άσκησης 5 : https://asciinema.org/a/288052
+   
+   
+   Link άσκησης 6 : https://asciinema.org/a/293207
    
    
       
