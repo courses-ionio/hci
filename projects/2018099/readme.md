@@ -82,3 +82,12 @@ add, edit, search for an appointment
 Link 1:Add-edit :https://asciinema.org/a/281947 
 
 Link 2:Search :https://asciinema.org/a/281961
+
+
+Άσκηση 4 
+
+Ζητούμενα
+
+create a list of todos, edit, delete, and check some of them
+
+Link: https://asciinema.org/a/293249
