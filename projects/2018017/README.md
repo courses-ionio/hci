@@ -1,5 +1,5 @@
+<h1 align="center">Vasileios Provopoulos | ID/RN: P2018017 | p18prov@ionio.gr</h1>
 <h2 align="center">Copied from: Phase #1</h2>
-<h4 align="center">Vasileios Provopoulos | ID/RN: P2018017 | p18prov@ionio.gr</h4>
 
 ## 1st Report
 * Additions made to: https://github.com/mibook/gr repository.
