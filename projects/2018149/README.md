@@ -91,6 +91,7 @@ Link για το fork του βιβλίου: https://github.com/jimDragon/gr/
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome)<br>
 Τα **dotfiles + μερικά custom bash scripts** που χρησιμοποιούνται για το lockscreen κτλ. μπορούν να βρεθούν [εδώ](https://github.com/jimDragon/dotfiles)
 
+<hr>
 
 ### Σύνοψη
 Αυτή είναι η εργασία μου για το μάθημα “Επικοινωνία ανθρώπου υπολογιστή”. Αυτή η εργασία αποτελείται από δύο παραδοτέα τα οποία αντιπροσωπεύουν τα δύο pull request από το δικό μου fork στό upstream αποθετήριο του μαθήματος. Το πρώτο παραδοτέο περιέχει την ενδιάμεση αναφορά και 4 ασκήσεις από το αποθετήριο [dokey](https://github.com/courses-ionio/dokey) όπως αντίστοιχα και το δεύτερο παραδοτέο το οποίο περιέχει την τελική αναφορά και άλλες 2 ασκήσεις από το αποθετήριο [dokey](https://github.com/courses-ionio/dokey).
