@@ -22,7 +22,7 @@ H μέθοδος που χρησιμοποιήθηκε για την επίλυ�
 
 Μια νέα βιογραφία
 
-> - [Torvald's bio](https://https://github.com/sophia-ts/gr/blob/gh-pages/_biography/bio-torvalds.md)
+> - [Torvald's bio](https://github.com/sophia-ts/gr/blob/gh-pages/_biography/bio-torvalds.md)
 > - [Linus Torvald table](https://github.com/sophia-ts/gr/blob/gh-pages/_biography/linus-torvalds.md)
 
 ## Ασκήσεις
