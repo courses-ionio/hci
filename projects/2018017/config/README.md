@@ -8,6 +8,7 @@
 * Colours resemble Canonical's @Ubuntu [theme](https://design.ubuntu.com/brand/colour-palette/).
 * **i3lock-effect is custom work made by me with Python3.**
 ## In a nutshell:
+* Demonstration: [.GIF](https://raw.githubusercontent.com/provopoulos/hci/2018017-PARADOTEO.2/projects/2018017/config/i3wmconf.gif)
 * Distribution: [Peppermint 10](https://peppermintos.com/) x64 (18.04.3 base)
 * WM: [i3](https://i3wm.org/)
 * Shell: Bash
