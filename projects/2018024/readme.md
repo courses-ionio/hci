@@ -64,11 +64,3 @@
 ### Τελική αναφορά για όλη την εργασία, όπως ζητείται από την εκφώνηση.
 
 ### [Αποθετήριο Final Report](https://github.com/sudowicked/hci/blob/Final_Report/Final_Report/%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE_%CE%91%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC.md)
-
-### Πηγές: 
-> - https://en.wikipedia.org/wiki/Akai_MPC)
-> - https://en.wikipedia.org/wiki/Amazon_Kindle
-> - https://en.wikipedia.org/wiki/Xbox_(console)
-> - https://en.wikipedia.org/wiki/BlackBerry
-> - https://en.wikipedia.org/wiki/Graphics_tablet
-
