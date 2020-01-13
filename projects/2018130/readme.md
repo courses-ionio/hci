@@ -22,17 +22,6 @@ H μέθοδος που χρησιμοποιήθηκε για την επίλυ�
 Σε κάθε βίντεο στο asciinema υπάρχει επιτόπου περιγραφή των ενεργειών που κάνω στο βίντεο με σκοπό την διευκόλυνση της αξιολόγησης 
 
 
-
-### Τελική αναφορά
-
-
-**Συμμετοχικό περιεχόμενο: Γ**
-
-Μια νέα βιογραφία
-
-> - [Torvald's bio](https://github.com/sophia-ts/gr/blob/gh-pages/_biography/bio-torvalds.md)
-> - [Linus Torvald table](https://github.com/sophia-ts/gr/blob/gh-pages/_biography/linus-torvalds.md)
-
 ## Ασκήσεις
 
 **1η άσκηση**
@@ -106,6 +95,20 @@ Asciinema link: https://asciinema.org/a/287306
 Άσκηση: Organise the terminal window into multiple areas
 
 Asciinema link: https://asciinema.org/a/292985
+
+
+
+### Τελική αναφορά
+
+
+**Συμμετοχικό περιεχόμενο: Γ**
+
+Μια νέα βιογραφία
+
+> - [Torvald's bio](https://github.com/sophia-ts/gr/blob/gh-pages/_biography/bio-torvalds.md)
+> - [Linus Torvald table](https://github.com/sophia-ts/gr/blob/gh-pages/_biography/linus-torvalds.md)
+
+
 
 *Link για το forked repository στο βιβλίο του μαθήματος: [Mibook/gr](https://github.com/sophia-ts/gr)*
 
