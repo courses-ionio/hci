@@ -185,3 +185,25 @@ convert between different text formats
 
 **Asciinema link:**
 https://asciinema.org/a/292977
+
+- Έκανα initialize τον φάκελο μέσω git και έφτιαξα ένα αρχείο cv.txt όπου έγραψα ένα μέρος από το βιογραφικό μου
+```
+git init
+vim cv.txt
+```
+- Έκανα add και commit μέσω git γι' αυτό το αρχείο
+```
+git add .
+git commit -m "Initial Commit"
+```
+- Μετά, άλλαξα κάτι από το αρχείο και έκανα commit τις αλλαγές με αυτές τις εντολές
+```
+git add .
+git commit -m "Change Something"
+```
+- Τέλος, έκανα convert το txt σε docx και html
+```
+pandoc -s cv.txt -o cv.docx
+pandoc -s cv.txt -o cv.html
+```
+
