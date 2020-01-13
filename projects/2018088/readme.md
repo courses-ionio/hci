@@ -124,7 +124,7 @@ vim
 
 Εκφώνηση εργασίας : Γ: 1) μια νέα μελέτη περίπτωσης ή 2) μια νέα βιογραφία, ή 3) ένα νέο διάγραμμα (π.χ., Gordon Bell Nomograph, Xerox Star genealogy, Beaudouin-Lafon Table).
 
-Από τα προαναφερόμενα επλέχθηκε το 2), να προστεθεί στο βιβλίο του μαθήματος δηλαδή, η βιογραφία του Bill Gates.
+Από τα προαναφερόμενα επιλέγω το 2, προσθέτω στο βιβλίο του μαθήματος την βιογραφία του Bill Gates.
 
 [Σχετικά με τον Bill Gates](https://github.com/AlexKontop/gr/blob/gh-pages/_biography/bill-gates.md '[Σχετικά με τον Bill Gates')
 
