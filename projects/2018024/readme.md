@@ -14,6 +14,8 @@
 
 ## Συμμετοχικό υλικό: 
 
+### Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
+
 > - [Akai MPC - MD](https://github.com/sudowicked/gr/blob/gh-pages/_gallery/akai_mpc.md)
 > - [Akai MPC - Normal](https://github.com/sudowicked/gr/blob/gh-pages/images/Akai_MPC2000.jpg)
 > - [Akai MPC - 160px](https://github.com/sudowicked/gr/blob/gh-pages/images/Akai_MPC2000(160px).jpg)
