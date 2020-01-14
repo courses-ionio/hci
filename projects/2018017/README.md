@@ -7,11 +7,17 @@
 * **Commit: [f364876](https://github.com/provopoulos/hci/commit/f364876fc4f29090108ba9500b94ad6a524bea2f#diff-68064d9e0ee291ed30988c5e7cf8d60f)**
 
 |   Images   	|                                              Thumbnails                                            	|                                         Originals                                       	|                                          (.md)                                         	|
-|:----------:	|:--------------------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------:	|
-|   Clippit  	|    [/clippit-thumb.png](https://github.com/provopoulos/gr/blob/gh-pages/images/clippit-thumb.PNG)  	|    [/clippit.png](https://github.com/provopoulos/gr/blob/gh-pages/images/clippit.PNG)   	|   [/clippit.md](https://github.com/provopoulos/gr/blob/gh-pages/_gallery/clippit.md)   	|
-|   Kinect   	|    [/kinect-thumb.png](https://github.com/provopoulos/gr/blob/gh-pages/images/kinect-thumb.png)    	|     [/kinect.png](https://github.com/provopoulos/gr/blob/gh-pages/images/kinect.png)    	|    [/kinect.md](https://github.com/provopoulos/gr/blob/gh-pages/_gallery/kinect.md)    	|
-|   Bioauth  	|   [/bioauth-thumb.jpg](https://github.com/provopoulos/gr/blob/gh-pages/images/bioauth-thumb.jpg)   	|    [/bioauth.jpg](https://github.com/provopoulos/gr/blob/gh-pages/images/bioauth.jpg)   	|   [/bioauth.md](https://github.com/provopoulos/gr/blob/gh-pages/_gallery/bioauth.md)   	|
-|     NUC    	|       [/nuc-thumb.jpg](https://github.com/provopoulos/gr/blob/gh-pages/images/nuc-thumb.jpg)       	|        [/nuc.jpg](https://github.com/provopoulos/gr/blob/gh-pages/images/nuc.jpg)       	|        [/nuc.md](https://github.com/provopoulos/gr/blob/gh-pages/_gallery/nuc.md)      	|
+<h2 align="center">Phase #1</h2>
+<h6 align="center">Following branch: https://github.com/provopoulos/hci/tree/2018017-PARADOTEO.2/projects/2018017</h6>
+
+Vasileios Provopoulos<br>
+ID/RN: P2018017<br>
+p18prov@ionio.gr<br>
+#### 1st Report:<br>
+
+**•Additions made to: https://github.com/mibook/gr repository.**<br>
+
+|   Images   	|                                              Thumbnail                                             	|                                         Original                                        	|                                          (.md)                                         	|
 |  Dataglove 	| [/dataglove-thumb.jpg](https://github.com/provopoulos/gr/blob/gh-pages/images/dataglove-thumb.jpg) 	|  [/dataglove.jpg](https://github.com/provopoulos/gr/blob/gh-pages/images/dataglove.jpg) 	| [/dataglove.md](https://github.com/provopoulos/gr/blob/gh-pages/_gallery/dataglove.md) 	|
 ## DOKEY: [#HCI](https://github.com/courses-ionio/dokey#hci)
 | 1st                                                            | Deliverables                                                                                                                                            | LINK(s)                                                                                                                                                                                                                                                                                                                | Deadline   | Commit                                                                                                                              |
