@@ -14,8 +14,6 @@
 
 ## Συμμετοχικό υλικό: 
 
-### Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
-
 > - [Akai MPC - MD](https://github.com/sudowicked/gr/blob/gh-pages/_gallery/akai_mpc.md)
 > - [Akai MPC - Normal](https://github.com/sudowicked/gr/blob/gh-pages/images/Akai_MPC2000.jpg)
 > - [Akai MPC - 160px](https://github.com/sudowicked/gr/blob/gh-pages/images/Akai_MPC2000(160px).jpg)
@@ -36,6 +34,12 @@
 > - [Wacom Pen Tablet - Normal](https://github.com/sudowicked/gr/blob/gh-pages/images/Wacom_Pen_Tablet.png)
 > - [Wacom Pen Tablet - 160px](https://github.com/sudowicked/gr/blob/gh-pages/images/Wacom_Pen_Tablet(160px).png)
 
+### Πηγές: 
+> - https://en.wikipedia.org/wiki/Akai_MPC)
+> - https://en.wikipedia.org/wiki/Amazon_Kindle
+> - https://en.wikipedia.org/wiki/Xbox_(console)
+> - https://en.wikipedia.org/wiki/BlackBerry
+> - https://en.wikipedia.org/wiki/Graphics_tablet
 
 # **Παραδοτέο 2:**
 
