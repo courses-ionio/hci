@@ -2,7 +2,14 @@
 Ονοματεπώνυμο: Βογδόπουλος Γεώργιος
 ΑΜ: Π2018170
 GitHub: p18vogd
+
+Εισαγωγή :
+	Οι παρακάτω 6 ασκήσεις δημιουργήθηκαν σε terminal των Ubuntu με την χρήση Virtual Machine.Το Virtual Machine που χρησιμοποίησα είναι το VMware Workstation 15 Player,οπου εγκατέστησα τα Ubuntu 18.04 LTS.Η καταγραφή των ασκήσεων έγινε με την χρήση του Asciinema ,οπου τις έχω ανεβάσει στον λογαριασμό μου https://asciinema.org/~giorgosv
+
+
 Link άσκησης: https://asciinema.org/a/275644
+
+
 
 Link άσκησης 2 : https://asciinema.org/a/278770
 
@@ -75,6 +82,20 @@ Link άσκησης 2 : https://asciinema.org/a/278770
    
    
    Link άσκησης 6 : https://asciinema.org/a/293207
+   
+   
+   Τελική αναφορά : Βιογραφία του Ivan Sutherland
+   
+   Βιογραφία : https://github.com/p18vogd/gr/blob/gh-pages/_biography/bio-sutherland.md
+   
+   Gallery : https://github.com/p18vogd/gr/blob/gh-pages/_biography/ivan-sutherland.md
+   
+   
+   
+Συμπεράσματα 
+	Απο τις παραπάνω εργασίες έμαθα περισσότερα για το λειτουργικό συστημα των Linux και συγκεκριμένα των Ubuntu.Απο την διαδικασία αυτή έμαθα τις βασικές εντολές του terminal , έμαθα να πλοηγούμαι μέσα στο σύστημα του υπολογιστή μου με την βοήθεια του terminal , Εξοικειώθηκα με νέα text editors και έμαθα να αναζητώ χρήσιμες πληροφορίες απο manual των Linux .Γενικά θεωρώ οτι βασικές γνώσεις πάνω σε θέματα  terminal είναι ένα χρήσιμο εργαλείο για πολλους χρήστες .
+
+
    
    
       
