@@ -16,8 +16,7 @@ iv)Display system information (hardware+software)
 
 Video url:https://asciinema.org/a/275706
 
-
-
+333
 
 Άσκηση 2
 
