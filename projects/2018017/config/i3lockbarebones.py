@@ -2,7 +2,7 @@ import os
 from PIL import Image
 # from PIL import ImageGrab : OS X and Windows only.
 from PIL import ImageFilter
-os.system('scrot "/home/p18prov/Documents/.tmp/lock.png"')
+os.system('scrot "/home/p18prov/Documents/.tmp/lock.png"') # Path is entirely up to user's discretion.
 # img = ImageGrab.grab() : Does not work on Linux
 # img.save("/home/p18prov/Documents/.tmp/lock.png")
 im1 = Image.open(r"/home/p18prov/Documents/.tmp/lock.png")
