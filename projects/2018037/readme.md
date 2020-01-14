@@ -1,19 +1,25 @@
 - Ονοματεπωνυμο : Κωνσταντινος Θεοχαρακης
+
+
 - Αριθμος Μητρωου : Π2018037
+
 
 - Η καταγραφη των ασκησεων εχει πραγματοποιηθει με τη χρηση του ascinema.
   
+
 - ΑΣΚΗΣΗ_1
 
    - Set-up the main dependencies and demonstrate your base system.
    
    - [Link_1](https://asciinema.org/a/IUJCTUkExAfhnfDAdxlRebBBX)
  
+
 - ΑΣΚΗΣΗ_2
 
    - Get familiar with basic commands, reading documentation and editing files.
   
    - [Link_2](https://asciinema.org/a/q3pQTFBZxIl3nTBFFkKUo3bDU)
+
 
 - ΑΝΑΦΟΡΑ_1(Συμμετοχικο εκπαιδευτικο υλικο).
     
@@ -55,12 +61,15 @@
   
   - [Link_4](https://asciinema.org/a/FTgSX6EviflhRs23Jkn49D5Ih)
   
-  
+ 
+ 
 - ΑΣΚΗΣΗ_5
   
   - Organize your notes with emacs.
   
   - [Link_5](https://asciinema.org/a/6Lsgb8dULMKJ2C089nOPg3Xmc)
+
+
 
 - ΑΣΚΗΣΗ_6
   
