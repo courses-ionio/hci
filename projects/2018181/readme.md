@@ -69,4 +69,3 @@
 -https://taskwarrior.org/
 
 -https://www.ledger-cli.org/
-   
