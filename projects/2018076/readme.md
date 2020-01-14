@@ -96,7 +96,6 @@ Asciinema link : https://asciinema.org/a/285243
 
 ## Στο παρακατω λινκ ειναι απο το Γ. το 2) η βιογραφια. Η βιογραφία ειναι του Lee Byung-Chul ιδρυτή της Samsung
 
-https://github.com/aggelos2000430/gr/tree/gh-pages/_biography
 
 [Σχετικά με τον Lee byung-Chul] https://github.com/aggelos2000430/gr/blob/gh-pages/_biography/Lee-Byung-Chul.md
 
