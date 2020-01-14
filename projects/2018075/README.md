@@ -53,7 +53,6 @@ Browse and view files on your system
 ### Ασκησεις
 
 **παραδοτεο 3**
-
 To Do: plan. your time with a calendar
 [Link 3](https://asciinema.org/a/3fy5MJiFt21EJg9ngJfUpiAZe)
 
