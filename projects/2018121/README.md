@@ -45,3 +45,11 @@ Link εργασίας: https://asciinema.org/a/284695
  https://en.wikipedia.org/wiki/Motorola_DynaTAC
  https://en.wikipedia.org/wiki/Plankalk%C3%BCl
  https://en.wikipedia.org/wiki/Computer_keyboard
+ 
+ Τελική αναφορά
+Συμμετοχικό περιεχόμενο: Γ
+
+Μια νέα βιογραφία
+
+Jeff Bezos bio
+https://github.com/Geoross/gr/blob/gh-pages/_biography/bio-bezoz.md
