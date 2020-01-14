@@ -9,14 +9,15 @@
 
 - ΑΣΚΗΣΗ_1
 
-   - Set-up the main dependencies and demonstrate your base system.
+   - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display       
+     system information (hardware+software).
    
    - [Link_1](https://asciinema.org/a/IUJCTUkExAfhnfDAdxlRebBBX)
  
 
 - ΑΣΚΗΣΗ_2
 
-   - Get familiar with basic commands, reading documentation and editing files.
+   - Browse and view files on your system.
   
    - [Link_2](https://asciinema.org/a/q3pQTFBZxIl3nTBFFkKUo3bDU)
 
@@ -57,7 +58,7 @@
   
 - ΑΣΚΗΣΗ_4
 
-  - Text editor and plug-ins for code highlighting and autocompletion.
+  - Edit the vim or the shell configuration file.
   
   - [Link_4](https://asciinema.org/a/FTgSX6EviflhRs23Jkn49D5Ih)
   
@@ -65,7 +66,7 @@
  
 - ΑΣΚΗΣΗ_5
   
-  - Organize your notes with emacs.
+  - Organize your notes with emacs-use org mode.
   
   - [Link_5](https://asciinema.org/a/6Lsgb8dULMKJ2C089nOPg3Xmc)
 
@@ -73,6 +74,7 @@
 
 - ΑΣΚΗΣΗ_6
   
-  - Organise the terminal window into multiple areas.
+  - Organise the terminal window into multiple areas(use one window to search-edit local files or browse the web and another  
+    window for performance monitoring).
   
   - [Link_6](https://asciinema.org/a/VigEleEe0V0ZgWBRWKKeydlhO)
