@@ -70,8 +70,9 @@ Link για το flash-disk.md :https://github.com/DimitrisTzer/gr/blob/master/_
 
 1η  Εργασία: Set-up the main dependencies and demonstrate your base system.
 Για την αλλαγή του command prompt στον A.M μου χρησιμοποιήθηκε η εντολή PS1,η οποία χρησιμοποιήθηκε και στις επόμενες εργασίες που σχετίζονται με το terminal του Linux
+
 Για την εμφάνιση των dot files χρησιμοποίησα την εντολή 
-ls -a
+	ls -a
 Καθώς και μερικές παραμέτρους για επιπλέων πληροφορίες.
 
 Για την εγκατάσταση του neofetch χρησιμοποιήθηκε η εντολή
@@ -81,15 +82,18 @@ ls -a
 
 
 2η Εργασία:  Browse and view files on your.
+
 Για την εγκατάσταση του ranger χρησιμοποιήθηκε η εντολή
-sudo apt-get install ranger
+	sudo apt-get install ranger
 
 •	Asciinema Link: https://asciinema.org/a/281715
 
 
 3η  Εργασία: Edit the vim or the shell configuration file.
+
 Για την εγκατάσταση του vim χρησιμοποιήθηκε η εντολή
-sudo apt-get install vim
+	sudo apt-get install vim
+
 Για να ενώσω τα δυο αρχεία σε ένα χρησιμοποίησα την παράμετρο r στο command mode του vim και στην συνέχεια το όνομα του αρχείου που θα ήθελα να αντιγραφεί στο άλλο αρχείο.
 
 •	Asciinema Link: https://asciinema.org/a/287194
@@ -98,7 +102,7 @@ sudo apt-get install vim
 4η Εργασία: Become productive with a todo list
 
 Για την εγκατάσταση του task χρησιμοποιήθηκε η εντολή
-sudo snap install task
+	sudo snap install task
 
 
 Για να προσθέσω tasks στην λίστα χρησιμοποίησα την εντολή 
