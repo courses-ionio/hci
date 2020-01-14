@@ -9,7 +9,7 @@
 <h3>Εργασία: set-up the main dependencies and demonstrate your base system</h3>
 
 <a href="https://asciinema.org/a/275596">Asciinema link for terminal video 
-  
+
 
 
 <h3>Εργασία: Browse and view files on your system</h3>
