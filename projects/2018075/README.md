@@ -66,3 +66,5 @@ To Do: Organize the terminal window into multiple areas
 
 
 ### Συμμετοχικο υλικο Γ: Τελικη Αναφορα
+
+[Link to Richard Stallman short biography](https://github.com/hlias31/gr/tree/gh-pages/_biography)
