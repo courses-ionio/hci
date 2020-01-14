@@ -57,39 +57,38 @@ The design of the Mouse language makes it ideal for teaching the design of a sim
 
 
 Symbol	                 Action
-<space>	No action
-$	                End of program
-<number>           Push <number> onto stack
-+	                Add
--	   	Subtract
-*		Multiply
-/		Integer divide
-\		Remainder
-?		Input integer
-?'		Input character
-!		Print integer
-!'		Print character
-'		Push character onto stack
-"		Print string
-<letter>	Get variable address
-:		Store variable
-.		Recall variable
-<		Return 1 if Y < X; else return 0
-=		Return 1 if Y = X; else return 0
->		Return 1 if Y > X; else return 0
-[		Start of conditional statement
-]		End of conditional statement
-(		Start of loop
-)		End of loop
-^		Exit loop (if false)
-#		Macro call
-@		Exit from macro
-%		Macro parameter
-,		End of actual macro parameter
-;		End of list of macro parameters
-{		Start trace
-}		End trace
-~		Comment
+$	                    End of program
+<number>              Push <number> onto stack
++	                    Add
+-	                   	Subtract
+*		                  Multiply
+/		                  Integer divide
+\		                  Remainder
+?		                  Input integer
+?'		                Input character
+!		                  Print integer
+!'		                Print character
+'		                  Push character onto stack
+"		                  Print string
+<letter>	            Get variable address
+:	                    Store variable
+.		                  Recall variable
+<		                  Return 1 if Y < X; else return 0
+=		                  Return 1 if Y = X; else return 0
+>		                  Return 1 if Y > X; else return 0
+[		                  Start of conditional statement
+]		                  End of conditional statement
+(		                  Start of loop
+)		                  End of loop
+^		                  Exit loop (if false)
+#		                  Macro call
+@		                  Exit from macro
+%		                  Macro parameter
+,		                  End of actual macro parameter
+;		                  End of list of macro parameters
+{		                  Start trace
+}		                  End trace
+~		                  Comment
 
                                                     Virtual Reality 
 
