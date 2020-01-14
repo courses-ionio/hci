@@ -5,19 +5,19 @@
   
 - ΑΣΚΗΣΗ_1
 
-   - Το link που ακολουθει αποτελει την υλοποιηση της 1ης ασκησης.
-  
+   - Set-up the main dependencies and demonstrate your base system.
+   
    - [Link_1](https://asciinema.org/a/IUJCTUkExAfhnfDAdxlRebBBX)
  
 - ΑΣΚΗΣΗ_2
 
-   - Το link που ακολουθει αποτελει την υλοποιηση της 2ης ασκησης.
+   - Get familiar with basic commands, reading documentation and editing files.
   
    - [Link_2](https://asciinema.org/a/q3pQTFBZxIl3nTBFFkKUo3bDU)
 
-- ΑΝΑΦΟΡΑ_1
+- ΑΝΑΦΟΡΑ_1(Συμμετοχικο εκπαιδευτικο υλικο).
     
-    Περιεχομενα πρωτης αναφορας
+    Περιεχομενα πρωτης αναφορας.
       
       - [Commodore-64.md](https://github.com/Konstantinos276/gr/blob/gh-pages/_gallery/Commodore-64.md)
       - [Commodore-64.jpg](https://github.com/Konstantinos276/gr/blob/gh-pages/images/Commodore-64.jpg)
@@ -42,7 +42,8 @@
 
 - ΑΣΚΗΣΗ_3
 
-  - Το link που ακολουθει αποτελει την υλοποιηση της 3ης ασκησης.
+  - Calendar(Calcurse).
+  
   
   - [Link_3](https://asciinema.org/a/vzg5vyX0Edq95twjTFqChTeob)
   
@@ -50,19 +51,19 @@
   
 - ΑΣΚΗΣΗ_4
 
-  - Το link που ακολουθει αποτελει την υλοποιηση της 4ης ασκησης.
+  - Text editor and plug-ins for code highlighting and autocompletion.
   
   - [Link_4](https://asciinema.org/a/FTgSX6EviflhRs23Jkn49D5Ih)
   
   
 - ΑΣΚΗΣΗ_5
   
-  - Το link που ακολουθει αποτελει την υλοποιηση της 5ης ασκησης.
+  - Organize your notes with emacs.
   
   - [Link_5](https://asciinema.org/a/6Lsgb8dULMKJ2C089nOPg3Xmc)
 
 - ΑΣΚΗΣΗ_6
   
-  - Το link που ακολουθει αποτελει την υλοποιηση της 6ης ασκησης.
+  - Organise the terminal window into multiple areas.
   
   - [Link_6](https://asciinema.org/a/VigEleEe0V0ZgWBRWKKeydlhO)
