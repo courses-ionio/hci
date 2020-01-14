@@ -29,12 +29,20 @@ Deliverables:
 
 > [browse and view files on your system](https://asciinema.org/a/xm9Fp8cYMrG6IQlNdQkhgFJw7)
 
-### Τέταρτη Εργασία
+
+### Τρίτη Εργασία
 Assignment: become productive with a todo list
 
 Deliverables:
 
 > [create a list of todos, edit, delete, and check some of them](https://asciinema.org/a/TXMMME68JcXJUhmI07JpgPmht)
+
+
+### Τέταρτη Εργασία
+Assigment: organise the terminal window into multiple areas
+
+Deliverables: (σπασμένα σε 3 μέρη λόγω μεγέθους)
+> use one window to search-edit local files or browse the web and another window for performance monitoring (parts [1](https://asciinema.org/a/OsiKpKbpZk202WGwX6QNLIq7i) , [2](https://asciinema.org/a/sahBkB3Lw26tZyvtC0YD8GWDy) ,[3](https://asciinema.org/a/OsiKpKbpZk202WGwX6QNLIq7i]))
 
 # Ενδιάμεση Αναφορά:Συμμετοχικό Υλικό
 
