@@ -46,10 +46,16 @@ Link εργασίας: https://asciinema.org/a/284695
  https://en.wikipedia.org/wiki/Plankalk%C3%BCl
  https://en.wikipedia.org/wiki/Computer_keyboard
  
- Τελική αναφορά
-Συμμετοχικό περιεχόμενο: Γ
+ ### Τελική αναφορά
+
+
+**Συμμετοχικό περιεχόμενο: Γ**
 
 Μια νέα βιογραφία
 
-Jeff Bezos bio
-https://github.com/Geoross/gr/blob/gh-pages/_biography/bio-bezoz.md
+> - [Jeff's bio](https://github.com/Geoross/gr/blob/gh-pages/_biography/bio-bezoz.md)
+> - [Jeff Bezos table](https://github.com/Geoross/gr/blob/gh-pages/_biography/jeff-bezos.md)
+
+
+
+[Το αποθετήριο μου](https://github.com/Geoross/gr)
