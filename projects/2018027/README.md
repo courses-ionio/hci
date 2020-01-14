@@ -72,5 +72,14 @@ asciinema link: https://asciinema.org/a/291023
 
 Ακολουθεί το link από την βιογραφία του πατέρα του Ίντερνετ Τίμ Μπέρνερς-Λι που έφερε παγκόσμια επανάσταση στις ζωές των ανθρώπων.
 
--[ link:] ( https://github.com/MariaXristinaPapatheodwrou/gr/blob/gh-pages/_biography/2018027 ) 
+- [ link:] ( https://github.com/MariaXristinaPapatheodwrou/gr/blob/gh-pages/_biography/2018027 ) 
 
+- [βιογρφία-πληροφορίες] (https://github.com/MariaXristinaPapatheodwrou/gr/blob/gh-pages/_biography/tim_mperners_li.md )
+
+Ακολουθούν συνδεσμοι απο τις εικόνες 
+
+- [image_url:] https://github.com/MariaXristinaPapatheodwrou/gr/blob/gh-pages/_gallery/bern.md.jpg
+  
+- [image_url:] https://github.com/MariaXristinaPapatheodwrou/gr/blob/gh-pages/_gallery/tim.md.jpg
+  
+- [image_url:] https://github.com/MariaXristinaPapatheodwrou/gr/blob/gh-pages/images/www.md.jpg
