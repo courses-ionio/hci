@@ -32,3 +32,38 @@ Third Picture (Tranfer Pak): https://github.com/fireleaf22/gr/blob/2018079/_gall
 Forth Picture (Playstation VR): https://github.com/fireleaf22/gr/blob/2018079/_gallery/Sony-PlayStation-4-PSVR-Headset-Mk1-FL.md
 
 Fifth Picture (Xiaomi Power Bank): https://github.com/fireleaf22/gr/blob/2018079/_gallery/Xiaomi_10000_mAh_Power_Bank.md
+
+
+
+Παραδοτέο 5
+-
+Link to original commit: https://github.com/fireleaf22/dokey/blob/2018079/paradoteo5_recording
+
+Link to asciinema video: https://asciinema.org/a/293212
+
+Παραδοτέο 6
+-
+Link to original commit: https://github.com/fireleaf22/dokey/blob/2018079/paradoteo6_recording
+
+Link to asciinema video: https://asciinema.org/a/293228
+
+
+Τελική αναφορά
+=
+
+Links
+-
+
+Biography of Mark Zuckerberg : https://github.com/fireleaf22/gr/blob/gh-pages/_biography/bio-zuckerberg.md
+
+Table with pictures for the biography: https://github.com/fireleaf22/gr/blob/gh-pages/_biography/mark-zuckerberg.md
+
+
+
+
+
+
+
+
+
+
