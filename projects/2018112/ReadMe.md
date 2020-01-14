@@ -2,8 +2,11 @@
 ## Παραδοτέο 1 - Ενδιάμεση Aναφορά
 
 Ονοματεπώνυμο: Νικόλαος Παναγιώτης Καρατζάς
+
 Αριθμός Μητρώου: Π2018112
+
 E-mail: p18kara2@ionio.gr
+
 Διεύθυνση προφίλ Github: https://github.com/NikosKar23
 
 ## Άσκηση 1
@@ -68,5 +71,33 @@ Text editor and plug-ins for code highlighting and autocompletion (vim)
 - [4]  https://en.wikipedia.org/wiki/Apple_Pencil
 - [5]  https://en.wikipedia.org/wiki/Google_Home
 
+# Τελική Αναφορά
 
+### Προσωπικό αποθετήριο μαθήματος
+
+Ο σύνδεσμος για το προσωπικό μου αποθετηρίο του ηλεκτρονικού βιβλίου του μαθήματος:
+
+https://github.com/Nikoskar23/gr
+
+### Σύνδεσμοι σε εκτελέσιμα παραδείγματα:
+
+- Douglas Engelbart Table  
+
+  [douglas-engelbart.md](https://github.com/NikosKar23/gr/blob/gh-pages/_biography/douglas-engelbart.md)
+ 
+- Douglas Carl Engelbart Biography 
+
+  [bio-engelbart.md](https://github.com/NikosKar23/gr/blob/gh-pages/_biography/bio-engelbart.md#%CF%83%CF%8D%CE%BD%CF%84%CE%BF%CE%BC%CE%B7-%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CF%84%CE%BF%CF%85-douglas-carl-engelbart)
+
+- Douglas Engelbart Portrait 
+
+  [douglas-engelbart.jpg](https://github.com/NikosKar23/gr/blob/gh-pages/images/Douglas-Engelbart.jpg)
+
+- Douglas Engelbart Mouse
+
+  [mouse.jpg](https://github.com/NikosKar23/gr/blob/gh-pages/images/mouse.jpg)
+
+- Douglas Engelbart Mouse 2
+
+  [mouse2.jpg](https://github.com/NikosKar23/gr/blob/gh-pages/images/mouse2.jpg)
 
