@@ -21,9 +21,9 @@
    - [Link_2](https://asciinema.org/a/q3pQTFBZxIl3nTBFFkKUo3bDU)
 
 
-- ΑΝΑΦΟΡΑ_1(Συμμετοχικο εκπαιδευτικο υλικο).
+- Συμμετοχικο εκπαιδευτικο υλικο-Ενδιαμεση αναφορα.
     
-    Περιεχομενα πρωτης αναφορας.
+    - Περιεχομενα ενδιαμεσης αναφορας.
       
       - [Commodore-64.md](https://github.com/Konstantinos276/gr/blob/gh-pages/_gallery/Commodore-64.md)
       - [Commodore-64.jpg](https://github.com/Konstantinos276/gr/blob/gh-pages/images/Commodore-64.jpg)
@@ -76,3 +76,8 @@
   - Organise the terminal window into multiple areas(use one window to search-edit local files or browse the web and another  window for performance monitoring).
   
   - [Link_6](https://asciinema.org/a/VigEleEe0V0ZgWBRWKKeydlhO)
+  
+- Συμμετοχικο εκπαιδευτικο υλικο-Τελικη αναφορα.
+
+  - 
+
