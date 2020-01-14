@@ -56,7 +56,7 @@ The design of the Mouse language makes it ideal for teaching the design of a sim
 
 
 
-Symbol	                 Action
+ Symbol	                 Action
 $	                    End of program
 <number>              Push <number> onto stack
 +	                    Add
