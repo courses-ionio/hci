@@ -86,3 +86,30 @@ asciinema url : https://asciinema.org/a/NkoHOlTEJZ7nl4HRQlnQIwoQE?fbclid=IwAR3i4
 >calcurse
 
 και στη συνέχεια έγινε εκπλήρωση των ζητούμενων.
+
+## 2ο Παραδοτέο :
+
+## ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ (Γ) :
+
+Ζητούμενο : Μία νέα βιογραφία.
+
+## ΒΙΟΓΡΑΦΙΑ STEVE JOBS
+
+[Σύντομη βιογραφία] : https://github.com/p16chat1/gr/blob/gh-pages/_biography/bio-jobs.md
+
+[Gallery] : https://github.com/p16chat1/gr/blob/gh-pages/_biography/steve-jobs.md
+
+## Εργασία 4. Track your time with a simple journal.
+
+asciinema url : https://asciinema.org/a/293491
+
+## Εισαγωγή
+
+ Υλοποιήθηκαν 4 ασκήσεις σε Virtual Box με Ubuntu Linux 16.04 και το 2ο παραδοτέο του συμμετοχικού εκπαιδευτικού υλικού με τη δημιουργία ενός βιογραφικού. Σε όλες τις ασκήσεις που γίνανε υπάρχει link από το asciinema με το βίντεο κατά τη διάρκεια της κάθε άσκησης.
+ 
+## Συμπέρασμα
+
+Η υλοποίηση των παραπάνω ασκήσεων βοήθησε στην εξοικείωσή μου με το λειτουργικό σύστημα Ubuntu Linux και τη χρήση του terminal. Επιπλέον, βοήθησε στην εκμάθηση της λειτουργίας του GitHub και το πως αυτό μπορεί να φανεί χρήσιμο για το μέλλον.
+
+
+
