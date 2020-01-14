@@ -6,7 +6,7 @@
 * My forked repository: https://github.com/provopoulos/gr
 * **Commit: [f364876](https://github.com/provopoulos/hci/commit/f364876fc4f29090108ba9500b94ad6a524bea2f#diff-68064d9e0ee291ed30988c5e7cf8d60f)**
 
-|   Images   	|                                              Thumbnail                                             	|                                         Original                                        	|                                          (.md)                                         	|
+|   Images   	|                                              Thumbnails                                            	|                                         Originals                                       	|                                          (.md)                                         	|
 |:----------:	|:--------------------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------:	|
 |   Clippit  	|    [/clippit-thumb.png](https://github.com/provopoulos/gr/blob/gh-pages/images/clippit-thumb.PNG)  	|    [/clippit.png](https://github.com/provopoulos/gr/blob/gh-pages/images/clippit.PNG)   	|   [/clippit.md](https://github.com/provopoulos/gr/blob/gh-pages/_gallery/clippit.md)   	|
 |   Kinect   	|    [/kinect-thumb.png](https://github.com/provopoulos/gr/blob/gh-pages/images/kinect-thumb.png)    	|     [/kinect.png](https://github.com/provopoulos/gr/blob/gh-pages/images/kinect.png)    	|    [/kinect.md](https://github.com/provopoulos/gr/blob/gh-pages/_gallery/kinect.md)    	|
@@ -24,8 +24,24 @@
 
 #### NOTE: The above entries were copied from their original branch because there was an issue merging from upstream to base branch. The issue was discussed [here](https://github.com/courses-ionio/help/issues/47#issuecomment-573231636). The 'Commit' section refers to the initial publications, please consider these dates instead.
 * **2018017-PARADOTEO.1**: [History](https://github.com/provopoulos/hci/commits/2018017-PARADOTEO.1/projects/2018017)
-<h2 align="center">End of: Phase #1</h2>
+<h3 align="center">End of: Phase #1</h3>
 <h2 align="center">Phase #2</h2>
+
+## Final Report
+### Biography of Henry Dreyfuss
+<p align="center">
+  <img src="https://raw.githubusercontent.com/provopoulos/gr/gh-pages/images/henry-dreyfuss-thumb.jpg" alt="Dreyfuss"></img>
+</p>
+
+> *We bear in mind that the object being worked on is going to be ridden in, sat upon, looked at, talked into, activated, operated, or in some other way used by people individually or en masse.*
+> <br>*When the point of contact between the product and the people becomes a point of friction, then the industrial designer has failed.*
+> <br>*On the other hand if people are made safer, more comfortable, more eager to purchase, more efficient--or just plain happier--by contact with the product, then the designer has succeeded. ― Henry Dreyfuss, "Designing for People"*
+
+|                                           Biography (.md)                                          |                                                  Images                                                  |                                                      Thumbnails                                                      |
+|:--------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
+|   [/bio-dreyfuss.md](https://github.com/provopoulos/gr/blob/gh-pages/_biography/bio-dreyfuss.md)   |     [/henry-dreyfuss.jpg](https://github.com/provopoulos/gr/blob/gh-pages/images/henry-dreyfuss.jpg)     |     [/henry-dreyfuss-thumb.jpg](https://github.com/provopoulos/gr/blob/gh-pages/images/henry-dreyfuss-thumb.jpg)     |
+| [/henry-dreyfuss.md](https://github.com/provopoulos/gr/blob/gh-pages/_biography/henry-dreyfuss.md) | [/themeasureofhumans.jpg](https://github.com/provopoulos/gr/blob/gh-pages/images/themeasureofhumans.jpg) | [/themeasureofhumans-thumb.jpg](https://github.com/provopoulos/gr/blob/gh-pages/images/themeasureofhumans-thumb.jpg) |
+|                                                  -                                                 |           [/j3hudson.jpg](https://github.com/provopoulos/gr/blob/gh-pages/images/j3hudson.jpg)           |           [/j3hudson-thumb.jpg](https://github.com/provopoulos/gr/blob/gh-pages/images/j3hudson-thumb.jpg)           |
 
 ## DOKEY: [#HCI](https://github.com/courses-ionio/dokey#hci)
 |  3rd                                 | Deliverables                                                   |  LINK(s)                                             |  Deadline   |  Commit                                                                                                                             |
@@ -58,3 +74,4 @@
 * [Overview](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/README.md)
 * [Screenshots](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/README.md#screenshots)
 * **[i3lockbarebones.py](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/README.md#i3lockbarebonespy) (_[Script](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/i3lockbarebones.py) is written by me._)**
+<h3 align="center">End of: Phase #2</h3>
