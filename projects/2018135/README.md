@@ -4,9 +4,9 @@
   
   > Αριθμός Μητρώου: Π2018135
   
-  > Προφίλ Github: https://github.com/initialelizah
+  > [Προφίλ Github](https://github.com/initialelizah)
   
-  > Link αποφετηρίου hci: https://github.com/initialelizah/hci
+  > [Link αποφετηρίου hci](https://github.com/initialelizah/hci)
 
 Εργασία: Παραδοτέο 1 
   
