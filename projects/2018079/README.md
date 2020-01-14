@@ -4,13 +4,13 @@
 -
 ΑΜ: Π2018079
 -
-Παραδοτέο 2
+Παραδοτέο 2 (assignment 1)
 -
 Link to original commit: https://github.com/fireleaf22/dokey/blob/2018079/paradoteo2_recording
 
 Link to asciinema video: https://asciinema.org/a/280177
 
-Παραδοτέο 3
+Παραδοτέο 3 ( assignment 2)
 -
 Link to original commit: https://github.com/fireleaf22/dokey/blob/2018079/paradoteo3_recording
 
@@ -35,13 +35,13 @@ Fifth Picture (Xiaomi Power Bank): https://github.com/fireleaf22/gr/blob/2018079
 
 
 
-Παραδοτέο 5
+Παραδοτέο 5 ( assignment 3)
 -
 Link to original commit: https://github.com/fireleaf22/dokey/blob/2018079/paradoteo5_recording
 
 Link to asciinema video: https://asciinema.org/a/293212
 
-Παραδοτέο 6
+Παραδοτέο 6 ( assignment 9)
 -
 Link to original commit: https://github.com/fireleaf22/dokey/blob/2018079/paradoteo6_recording
 
