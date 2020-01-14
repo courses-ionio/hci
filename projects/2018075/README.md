@@ -1,6 +1,8 @@
 # Βαρελάς Ηλίας-Βασίλειος.
 ## Α.Μ. : Π2018075
 
+
+### Ασκησεις
 **παραδοτεο 1** 
 To Do:
 change your command prompt with your student ID list your dot files display your shell configuration file and display system information (hardware+software)
@@ -48,6 +50,7 @@ Browse and view files on your system
 [VR in medicine training report](https://github.com/hlias31/gr/blob/gh-pages/_gallery/VR-in-medicine-training.md)
 
 
+### Ασκησεις
 
 **παραδοτεο 3**
 
