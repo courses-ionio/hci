@@ -3,6 +3,10 @@
   > Ονοματεπώνυμο:Στραβού Ελισάβετ
   
   > Αριθμός Μητρώου: Π2018135
+  
+  > Προφίλ Github: https://github.com/initialelizah
+  
+  > Link αποφετηρίου hci: https://github.com/initialelizah/hci
 
 Εργασία: Παραδοτέο 1 
   
@@ -91,3 +95,10 @@ Apple Watch
   > Ζητούμενα: text editor and plug-ins for code highlighting and autocompletion
   
   > Παραδοτέα: edit the vim or the shell configuration file
+  
+Συμμετοχικό Περιεχόμενο
+
+Παραδοτέο Γ: Βιογραφία Douglas Engelbart 
+
+ > Το [link](https://github.com/initialelizah/gr/tree/gh-pages/_biography) της βιογραφίας.
+ 
