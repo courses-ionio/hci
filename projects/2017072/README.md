@@ -61,4 +61,17 @@ ASCIINEMA LINK:https://asciinema.org/a/284634
 
 ASCIINEMA LINK: https://asciinema.org/a/293238
 
+### Τελική αναφορά
+
+
+**Συμμετοχικό περιεχόμενο: Γ**
+
+Μια νέα βιογραφία
+
+> - [Elon's bio](https://github.com/TheodoreKont/gr/blob/gh-pages/_biography/bio-musk.md)
+> - [Elon Musk table](https://github.com/TheodoreKont/gr/blob/gh-pages/_biography/elon-musk.md)
+
+
+
+[Το αποθετήριο μου](https://github.com/TheodoreKont/gr)
 
