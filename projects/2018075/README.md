@@ -1,15 +1,12 @@
 # Βαρελάς Ηλίας-Βασίλειος.
 ## Α.Μ. : Π2018075
 
-Παρακατω παραδιδω το Link που παρουσιαζει το **1o παραδοτεο** της εργασιας εξαμηνου.
+**παραδοτεο 1** 
 To Do:
-change your command prompt with your student ID 
-list your dot files 
-display your shell configuration file 
-and display system information (hardware+software)
+change your command prompt with your student ID list your dot files display your shell configuration file and display system information (hardware+software)
 [Link 1](https://asciinema.org/a/Af10gEhnB6oI9NX52KuzKqMhC)
 
-Παρακατω ακολουθει το Link που αποτελει το **2o παραδοτεο** της εργασιας εξαμηνου.
+**2o παραδοτεο**
 To Do:
 Browse and view files on your system
 [Link 2](https://asciinema.org/a/qXtQX4fGxPOjpyrhExUBMOwLl)
@@ -52,7 +49,7 @@ Browse and view files on your system
 
 
 
-Παρακατω παραδιδω το Link που αντιστοιχει στο **3ο παραδοτεο**
+**παραδοτεο 3**
 
 To Do: plan. your time with a calendar
 [Link 3](https://asciinema.org/a/3fy5MJiFt21EJg9ngJfUpiAZe)
