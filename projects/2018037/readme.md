@@ -9,8 +9,7 @@
 
 - ΑΣΚΗΣΗ_1
 
-   - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display       
-     system information (hardware+software).
+   - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display       system information (hardware+software).
    
    - [Link_1](https://asciinema.org/a/IUJCTUkExAfhnfDAdxlRebBBX)
  
@@ -74,7 +73,6 @@
 
 - ΑΣΚΗΣΗ_6
   
-  - Organise the terminal window into multiple areas(use one window to search-edit local files or browse the web and another  
-    window for performance monitoring).
+  - Organise the terminal window into multiple areas(use one window to search-edit local files or browse the web and another  window for performance monitoring).
   
   - [Link_6](https://asciinema.org/a/VigEleEe0V0ZgWBRWKKeydlhO)
