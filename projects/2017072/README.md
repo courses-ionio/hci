@@ -1,14 +1,16 @@
 Μάθημα: Επικοινωνία Ανθρώπου Υπολογιστή
 
-ΘΟΔΩΡΗΣ ΚΟΝΤΟΣΤΑΝΟΣ
+Ονοματεπώνυμο: Κοντοστάνος Θεόδωρος
 
-Π2017072
+Αριθμός Μητρώου: Π2017072
+---------------------------------------
 
-ΠΑΡΑΔΟΤΕΟ_2
-
-ΖΗΤΟΥΜΕΝΑ: "Set-up the main dependencies and demonstrate your base system"
+/////Εργασία: Set-up the main dependencies and demonstrate your base system (1η Άσκηση)
 
 LINK: https://asciinema.org/a/275555
+
+Προφίλ στο github:https://github.com/TheodoreKont
+
 
 ## Α. Ενδιάμεση Αναφορά - Συμμετοχικό Περιεχόμενο
 
@@ -39,3 +41,37 @@ LINK: https://asciinema.org/a/275555
 - [Sony playstation 3 eye - Πληροφορίες](https://github.com/TheodoreKont/gr/blob/gh-pages/_gallery/Sony%20playstation%203%20eye.md)
 - [Sony playstation 3 eye - Κανονική Ανάλυση](https://github.com/TheodoreKont/gr/blob/gh-pages/images/Sony%20playstation%203%20eye.jpg)
 - [Sony playstation 3 eye - 160px](https://github.com/TheodoreKont/gr/blob/gh-pages/images/Sony%20playstation%203%20eye-thumb.jpg) 
+--------------------------------------
+
+
+//////Εργασία:"Get familiar with basic commands, reading documentation and editing files" (2η Άσκηση)
+
+ASCIINEMA LINK:https://asciinema.org/a/281993
+
+
+-------------------------------------
+
+//////Εργασία:"Βecome productive with a todo list" (3η Άσκηση)
+
+ASCIINEMA LINK:https://asciinema.org/a/284634
+
+--------------------------------------
+
+//////Eργασία:"Track your time with a simple journal" (4η Άσκηση)
+
+ASCIINEMA LINK: https://asciinema.org/a/293238
+
+### Τελική αναφορά
+
+
+**Συμμετοχικό περιεχόμενο: Γ**
+
+Μια νέα βιογραφία
+
+> - [Elon's bio](https://github.com/TheodoreKont/gr/blob/gh-pages/_biography/bio-musk.md)
+> - [Elon Musk table](https://github.com/TheodoreKont/gr/blob/gh-pages/_biography/elon-musk.md)
+
+
+
+[Το αποθετήριο μου](https://github.com/TheodoreKont/gr)
+
