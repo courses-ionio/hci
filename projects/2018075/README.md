@@ -6,7 +6,7 @@ To Do:
 change your command prompt with your student ID list your dot files display your shell configuration file and display system information (hardware+software)
 [Link 1](https://asciinema.org/a/Af10gEhnB6oI9NX52KuzKqMhC)
 
-**2o παραδοτεο**
+**παραδοτεο 2**
 To Do:
 Browse and view files on your system
 [Link 2](https://asciinema.org/a/qXtQX4fGxPOjpyrhExUBMOwLl)
