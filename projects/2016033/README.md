@@ -23,6 +23,15 @@
 Άσκηση 2 : get familiar with basic commands, reading documentation and editing files
     Το λινκ για το browse and view files on your system : https://asciinema.org/a/E6Kfqeu991TCCSxl0r2FiUqu5
     
+Άσκηση 3 : become productive with a todo list υλοποιήθηκε με το task
+    Το link της άσκησης : https://asciinema.org/a/3rT1XaBXzQtNVtgCgGUZTup2G
     
+Άσκηση 4 : plan your time with a calendar υλοποιήθηκε με το calcurse 
+    Το link της άσκησης :https://asciinema.org/a/uyL6sXDDdQ1NTYCloZI05inUA
+    
+    
+   
+    
+Αναλυτικές περιγραφές για τον τρόπο υλοποίσης των ασκήσεων υπάρχουν στα πλαίσια κάτω από τα video.   
 Οι ασκήσεις πραγματοποιήθηκαν σε Ubuntu 18.04 μέσα στο Virtual Box. Χρησιμοποιήθηκε το asciinema για την καταγραφή των ασκήσεων 
 στον τερματικό.Υπάρχει αναλυτικότερη περιγραφή στα λινκ με τις εντολές και την λογική που ακολουθήθηκε.
