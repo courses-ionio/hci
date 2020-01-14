@@ -1,7 +1,7 @@
 <h1 align="center">Vasileios Provopoulos | ID/RN: P2018017 | p18prov@ionio.gr</h1>
 <h2 align="center">Phase #1</h2>
 
-## 1st Report
+## Collaborative Material: #A
 * Additions made to: https://github.com/mibook/gr repository.
 * My forked repository: https://github.com/provopoulos/gr
 * **Commit: [f364876](https://github.com/provopoulos/hci/commit/f364876fc4f29090108ba9500b94ad6a524bea2f#diff-68064d9e0ee291ed30988c5e7cf8d60f)**
@@ -27,7 +27,7 @@
 <h3 align="center">End of: Phase #1</h3>
 <h2 align="center">Phase #2</h2>
 
-## Final Report
+## Collaborative Material: #C
 ### Biography of Henry Dreyfuss
 <p align="center">
   <img src="https://raw.githubusercontent.com/provopoulos/gr/gh-pages/images/henry-dreyfuss-thumb.jpg" alt="Dreyfuss"></img>
