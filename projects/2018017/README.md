@@ -94,3 +94,13 @@ I have split my work in two phases. The first one contains additions to Mibook's
 
 ### Acknowledgements:
 This project has indeed proven to be rather interesting. I was able to enrich my knowledge about the Linux ecosystem and its capabilities whereas Git and Github still bothers me up to this day. I have become confident in editing configuration files in such way to match my needs and patterns. I have also learned about many 'new' commands/utilities that make system maintenance chores a thing of the past. Last but not least, going back in history gave me clear picture of how things started, what they have become and a glimpse of where they are _possibly_ heading in the future.
+
+### Sources:
+* [What is Human-Computer Interaction (HCI)?](https://www.interaction-design.org/literature/topics/human-computer-interaction)
+* [Henry Dreyfuss](https://en.wikipedia.org/wiki/Henry_Dreyfuss), from Wikipedia–the free encyclopedia
+* [Henry Dreyfuss](https://www.britannica.com/biography/Henry-Dreyfuss), encyclopedia of Britannica
+* [Designing for People – Links, thoughts, and essays from Peter Merholz](https://www.peterme.com/archives/000261.html) (used for Dreyfuss' book cover page quote)
+* [Office Assistant](https://en.wikipedia.org/wiki/Office_Assistant), from Wikipedia–the free encyclopedia
+* [An introduction to Ledger](https://github.com/rolfschr/GSWL-book/blob/master/02-ledger-accounting/01-double-accounting.md)
+* Official documentation for each command-line tool used (i.e. https://i3wm.org/docs/ : i3-WM)
+* Numerous threads/posts on Reddit and Stackoverflow for issues occurred throughout the course of the project
