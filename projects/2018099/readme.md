@@ -1,7 +1,7 @@
 Ονοματεπώνημο: Tσιρανίδης Αλέξιος 
 
 ΑΜ: Π2018099 
-
+Άσκηση 1
 Ζητούμενα: 
 
 1)change your command prompt with your student ID 
@@ -17,11 +17,11 @@ VIDEO LINK: https://asciinema.org/a/275265
 
 
 
-ΠΑΡΑΔΟΤΕΟ 2
+Άσκηση 2
 
 Ζητούμενα:
 
->browse and view files on your system
+browse and view files on your system
 
 VIDEO LINK: https://asciinema.org/a/278627
 
