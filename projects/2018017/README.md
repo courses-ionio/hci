@@ -75,3 +75,22 @@
 * [Screenshots](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/README.md#screenshots)
 * **[i3lockbarebones.py](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/README.md#i3lockbarebonespy) (_[Script](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/i3lockbarebones.py) is written by me._)**
 <h3 align="center">End of: Phase #2</h3>
+
+<h2 align="center">Course: Human-Computer interaction</h2>
+
+## Final Report:
+**Name: Vasileios Provopoulos**
+<br>**ID/RN: P2018017**
+<br>**Inquiries: p18prov@ionio.gr**
+
+### Summary:
+Human-computer interaction (HCI) is a multidisciplinary field of study focusing on the design of computer technology and, in particular, the interaction between humans (the users) and computers. HCI surfaced in the 1980s with the advent of personal computing, just as machines such as the Apple Macintosh, IBM PC 5150 and Commodore 64 started turning up in homes and offices in society-changing numbers. It didn't take long to become the subject of intense academic investigation. People who studied and worked in HCI saw it as a crucial instrument to popularize the idea that the interaction between a computer and the user should resemble a human-to-human, open-ended dialogue.
+
+### Intro:
+The scope of this course is to gradually introduce us to the concepts HCI through various personas that revolutionized the field as well as from collaborative working which is an important aspect of today's era. Our project involves tackling with many complex tools such as Git, which is a distributed version-control system, the powerful command line of UNIX ecosystem and the Github interface. To achieve these goals, we were assigned exercises on the aforementioned utilities.<br>My personal work can be found [here](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/README.md).
+
+### Workflow:
+I have split my work in two phases. The first one contains additions to Mibook's gallery along with the initial wave of Dokey ("Do-it-with-keyboard") exercises. Following phase includes a new biography about Henry Dreyfuss and the final wave of Dokey exercises. I would like to stress that every Asciinema timestamp includes comments about each used command/utility. You may pause the timestamps at your discretion to follow along. I have also included [a configuration folder](https://github.com/provopoulos/hci/tree/2018017-PARADOTEO.2/projects/2018017/config) for my custom desktop environment that contains an overview, screenshots and [a script](https://github.com/provopoulos/hci/blob/2018017-PARADOTEO.2/projects/2018017/config/i3lockbarebones.py) written by me.
+
+### Acknowledgements:
+This project has indeed proven to be rather interesting. I was able to enrich my knowledge about the Linux ecosystem and its capabilities whereas Git and Github still bothers me up to this day. I have become confident in editing configuration files in such way to match my needs and patterns. I have also learned about many 'new' commands/utilities that make system maintenance chores a thing of the past. Last but not least, going back in history gave me clear picture of how things started, what they have become and a glimpse of where they are _possibly_ heading in the future.
