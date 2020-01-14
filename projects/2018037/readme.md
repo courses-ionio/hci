@@ -77,3 +77,9 @@
   
   - [Link_6](https://asciinema.org/a/VigEleEe0V0ZgWBRWKKeydlhO)
   
+- Συμμετοχικο εκπαιδευτικο υλικο/Τελικη αναφορα.
+  
+  - Περιεχομενα τελικης αναφορας.
+      - [bio-torvalds.md](https://github.com/Konstantinos276/gr/blob/gh-pages/_biography/bio-torvalds.md)
+      - [linus-torvalds.md](https://github.com/Konstantinos276/gr/blob/gh-pages/_biography/linus-torvalds.md)
+
