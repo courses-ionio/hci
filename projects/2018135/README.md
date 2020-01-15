@@ -76,3 +76,26 @@ Apple Watch
   > https://en.wikipedia.org/wiki/Oculus_Rift_CV1
   > https://en.wikipedia.org/wiki/Refreshable_braille_display
   > https://en.wikipedia.org/wiki/Apple_Watch
+
+
+Εργασία: Παραδοτέο 3 
+  
+  > Το link της εγγραφης στο [asciinema](https://asciinema.org/a/281902)
+  
+  > Ζητούμενα: become productive with a todo list
+  
+  > Παραδοτέα: create a list of todos, edit, delete, and check some of them
+  
+Εργασία: Παραδοτέο 4 
+  
+  > Το link της εγγραφης στο [asciinema](https://asciinema.org/a/284595)
+  
+  > Ζητούμενα: text editor and plug-ins for code highlighting and autocompletion
+  
+  > Παραδοτέα: edit the vim or the shell configuration file
+  
+Συμμετοχικό Περιεχόμενο
+
+Παραδοτέο Γ: Βιογραφία Douglas Engelbart 
+
+ > Το [link](https://github.com/initialelizah/gr/tree/gh-pages/_biography) της βιογραφίας.
