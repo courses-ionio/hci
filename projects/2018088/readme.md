@@ -106,7 +106,7 @@
 > - [Code Scanner](https://el.wikipedia.org/wiki/Σαρωτής)
 > - [Headphones](https://en.wikipedia.org/wiki/Headphones)
 > - [Smartwatch](https://en.wikipedia.org/wiki/Smartwatch)
-> - [Sound editing programms](https://en.wikipedia.org/wiki/Audio_editing_software)
+> - [Sound editing programms](https://en.wikipedia.org/wiki/Audio_editing_software)2018088-Τελικη-Αναφορα
 
 
 
