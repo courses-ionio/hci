@@ -62,3 +62,28 @@ thumb: https://github.com/Icelandan/gr/blob/gh-pages/images/oculusvr-thumb.jpg
 Εργασία: create a list of todos, edit, delete, and check some of them
 
 Αποθετήριο κώδικα παραδοτέου 4: https://asciinema.org/a/RJOgGqxaCaBCTrZfZ7GZnsya8
+
+### Εργασία 6
+
+Εργασία: add, edit, search for an appointment
+
+Αποθετήριο κώδικα παραδοτέου 6: https://asciinema.org/a/wTDx7GrbeSQZG6foepxoz1lMl
+
+### Τελική Αναφορά
+#### Εργασία: Γ) Μια νέα βιογραφία
+
+md1: https://github.com/Icelandan/gr/blob/gh-pages/_biography/bio-hamilton.md
+
+md2: https://github.com/Icelandan/gr/blob/gh-pages/_biography/margaret-hamilton.md
+
+picture1: https://github.com/Icelandan/gr/blob/gh-pages/images/apollo-11.jpg
+
+thumb1: https://github.com/Icelandan/gr/blob/gh-pages/images/apollo-11-thumb.jpg
+
+picture2: https://github.com/Icelandan/gr/blob/gh-pages/images/hamilton.jpg
+
+thumb2: https://github.com/Icelandan/gr/blob/gh-pages/images/hamilton-thumb.jpg
+
+picture3: https://github.com/Icelandan/gr/blob/gh-pages/images/SAGE.jpg
+
+thumb3: https://github.com/Icelandan/gr/blob/gh-pages/images/SAGE-thumb.jpg
