@@ -102,6 +102,50 @@ vim askisi3
 https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
 
 
+### Άσκηση 4. Become productive with a todo list.	Create a list of todos, edit, delete, and check some of them.
+#### asciinema:  https://asciinema.org/a/Zmbyjpj5dCtOpCuwBYOgS7a1F
+Eγκατέστησα το taskwarrior
+
+```
+sudo apt-get install taskwarrior
+```
+
+Πρόσθεσα επεξεργάστηκα, έσβησα και μάρκαρα ως done διάφορα tasks
+
+```
+task add <task name>
+task <number> edit
+task add <task name> due:<deadline>
+task <number> delete
+task <number> done
+```
+
+Το edit ανοίγει με τον default editor και μπορείς να επεξεργαστείς και να προσθέσεις επιπλέον πληροφορίες όπως tags, τα οποία χρησιμοποιείς αργότερα για να κάνεις αναζήτηση. Μπορείς να μετρήσεις όλα τα tasks με την εντολή
+
+```
+task count
+```
+
+Η να μετρήσεις όλα τα tasks που έχουν ή δεν έχουν κάποιο tag
+
+```
+task +<tag> count
+task -<tag> count
+```
+
+Τέλος το taskwarrior έχει ένα calendar mode όπου μπορείς να δείς όλα τα task σε μορφή ημερολογίου, και ένα graph mode όπου μπορείς να δέις διαγραμματικά τα task (pending, done, overdue etc).
+
+```
+task calendar
+task burndown
+```
+
+### πηγές
+https://taskwarrior.org/docs/start.html
+
+https://taskwarrior.org/docs/filter.html#filters
+
+
 
 
 
