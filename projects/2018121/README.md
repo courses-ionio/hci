@@ -8,6 +8,12 @@ Link Git-Hub https://github.com/Geoross
 Εργασία: get familiar with basic commands, reading documentation and editing files
 Link εργασίας: https://asciinema.org/a/278800
 
+Εργασία: Organise the terminal window into multiple areas
+Link εργασίας: https://asciinema.org/a/284591
+
+Εργασία: become productive with a todo list
+Link εργασίας: https://asciinema.org/a/284695
+
 Α - Εργασία Ενδιάμεσης Αναφοράς Προόδου / Συμμετοχικό Υλικό
 
  Game Boy Camera https://github.com/Geoross/gr/blob/gh-pages/_gallery/game-boy_camera.md
@@ -39,3 +45,17 @@ Link εργασίας: https://asciinema.org/a/278800
  https://en.wikipedia.org/wiki/Motorola_DynaTAC
  https://en.wikipedia.org/wiki/Plankalk%C3%BCl
  https://en.wikipedia.org/wiki/Computer_keyboard
+ 
+ ### Τελική αναφορά
+
+
+**Συμμετοχικό περιεχόμενο: Γ**
+
+Μια νέα βιογραφία
+
+> - [Jeff's bio](https://github.com/Geoross/gr/blob/gh-pages/_biography/bio-bezoz.md)
+> - [Jeff Bezos table](https://github.com/Geoross/gr/blob/gh-pages/_biography/jeff-bezos.md)
+
+
+
+[Το αποθετήριο μου](https://github.com/Geoross/gr)
