@@ -73,6 +73,37 @@ https://www.computerhope.com/unix/umkdir.htm
 
 https://www.linux.com/tutorials/vim-101-beginners-guide-vim/
 
+### Άσκηση 3. Organise the terminal window into multiple areas.	Use one window to search-edit local files or browse the web and another window for performance monitoring.
+#### asciinema: https://asciinema.org/a/VOzza59aAEOnBabXFgbUNzvUt
+Εγκατέστησα το tmux, και δημιουργησα νέο παράλληλο παράθυρο.
+
+```
+sudo apt-get install tmux
+tmux
+ctrl+b %
+```
+Για το performance monitoring χρησιμοποίησα το htop όπου επεξεργάστηκα το layout του.
+
+```
+htop
+```
+
+Στο πρώτο παράθυρο χρησιμοποίησα τον ranger για να περιηγηθώ στο file system και δημιούργησα directory και αρχεία με τον vim
+
+```
+ctrl+b w
+ranger
+mkdir askisi3
+cd askisi3 
+vim askisi3
+```
+
+### πηγές
+https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
+
+
+
+
 
 
 
