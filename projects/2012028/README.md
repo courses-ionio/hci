@@ -9,6 +9,13 @@
  **Προσωπικό αποθετήριο μαθήματος -> [:file_folder:](https://github.com/TheoMokos/hci)**
  
  
+ 
+ 
+ ## **ΠΑΡΑΔΟΤΕΟ 1**
+ 
+ 
+ 
+ 
  ## Πρώτη εργασία
  
  #### Ζητούμενα -> set-up the main dependencies and demonstrate your base system
@@ -47,6 +54,66 @@
  
  
  
+ ## **ΠΑΡΑΔΟΤΕΟ 2**
+ 
+ 
+ ## Τρίτη Εργασία
+ 
+ #### Ζητούμενα -> playing your time with calendar
+ 
+ - [x] ***[Playing your time with calendar](https://asciinema.org/a/gG02FQPSvYsU0g9A3jEVCTqPy)***
+ 
+ 
+ ## Τέταρτη Εργασία
+ 
+ #### Ζητούμενα -> Track your time with a journal
+ 
+ - [x] ***[Track your time with a journal](https://asciinema.org/a/zqDbgRO4S8p59zsO55kHvxagr)***
+ 
+ 
+ ## Πέμπτη Εργασία
+ 
+ #### Ζητούμενα -> organize terminal window into multiple areas
+ 
+ - [x] ***[Organize terminal window into multiple areas](https://asciinema.org/a/Qus1NRAWm9dmJXcQrp3e5yaQG)***
+ 
+ 
+ ## Έκτη Εργασία
+ 
+ #### Ζητούμενα -> try a different shell
+ 
+ - [x] ***[Try a different shell](https://asciinema.org/a/mM43mJ76eyqI4zvNTNf0bXW6O)***
+ 
+ 
+ 
+
+ 
+ 
+ # Τελική Αναφορά:Συμμετοχικό Υλικό
+
+ ## Παραδοτέο Γ
+ 
+ ### Ζητούμενο -> μια νέα βιογραφία .
+
+ | **Name** | **Repository** | **Runnable** |
+ | --- | --- | --- |
+ | Bill Buxton | [Buxton repository](https://github.com/TheoMokos/gr/tree/gh-pages/_biography) | [Buxton runnable](https://theomokos.github.io/gr/biography/bill-buxton/) |
+ 
+ 
+ 
+ 
+ # Τελική Αναφορά: Σύνδεσμοι
+ 
+ ### [Αποθετήριο τελικής αναφοράς Final Report](https://github.com/TheoMokos/FinalReport)
+ ### [Εκτελέσιμο τελικής αναφοράς](https://theomokos.github.io/FinalReport/)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  ## Παραπομπές
  
  > - ***Nintendo Switch -> [:books:](https://el.wikipedia.org/wiki/Nintendo_Switch)***
@@ -54,6 +121,11 @@
  > - ***Kindle E-Reader -> [:books:](https://en.wikipedia.org/wiki/Amazon_Kindle)***
  > - ***Amazon Echo Dot Speaker -> [:books:](https://en.wikipedia.org/wiki/Amazon_Kindle)***
  > - ***Floppy Disk -> [:books:](https://el.wikipedia.org/wiki/%CE%94%CE%B9%CF%83%CE%BA%CE%AD%CF%84%CE%B1_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE)***
+ 
+ 
+ 
+ 
+ 
  
  
  
