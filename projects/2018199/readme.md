@@ -69,3 +69,35 @@
 |![Audio Jack](https://github.com/polycarpos/gr/blob/gh-pages/images/audiojack.jpg)|![Audio Jack](https://github.com/polycarpos/gr/blob/gh-pages/images/audiojack-thumb.jpg)|
 |:---:|:---:|
 
+## Εργασία: 3ο Παραδοτέο
+
+#### [Link για το Asciinema](https://asciinema.org/a/283096 'Link για το Asciinema')
+ 
+## Εργασία: 4ο Παραδοτέο
+
+#### [Link για το Asciinema](https://asciinema.org/a/288258')
+
+# Γ. Τελική Αναφορά
+
+Η εκφώνηση της εργασίας : Γ: 1) μια νέα μελέτη περίπτωσης ή 2) μια νέα βιογραφία, ή 3) ένα νέο διάγραμμα (π.χ., Gordon Bell Nomograph, Xerox Star genealogy, Beaudouin-Lafon Table).
+
+Επιλέχθηκε να προστεθεθεί μια βιογραφία, συγκεκριμένα του Elon Musk.
+
+[Link Σύντομης Βιογραφίας](https://github.com/polycarpos/gr/blob/gh-pages/_biography/bio-elon-musk.md '[Link Σύντομης Βιογραφίας')
+
+[Λίγα λόγια για τον Elon Musk](https://github.com/polycarpos/gr/blob/gh-pages/_biography/elon-musk.md '[Λίγα λόγια για τον Elon Musk')
+
+[O Elon Musk](https://github.com/polycarpos/gr/blob/gh-pages/images/elon-musk.jpg '[Ο Elon Musk')
+
+[Solarcity](https://github.com/polycarpos/gr/blob/gh-pages/images/solarcity.jpg '[Solarcity')
+
+[Tesla](https://github.com/polycarpos/gr/blob/gh-pages/images/tesla.jpg '[Tesla')
+
+[Zip2](https://github.com/polycarpos/gr/blob/gh-pages/images/zip2.jpg '[Zip2')
+
+## Τελική αναφορά
+Τελική αναφορά
+
+Ή τελική αναφορά αποτελείται από την ενδιάμεση αναφορά  στην οποία δημιουργήσαμε ένα αντίγραφο της ιστοσελίδας του βιβλίου του μαθήματος και προσθέσαμε εικόνες και λεζάντες  στο δικό μας αντίγραφο της ιστοσελίδας .Επίσης  έπρεπε να διαλέξουμε από ένα σετ ασκήσεων που η κάθε άσκηση έχει διαφορετικές οδηγίες και ζητούμενα κάνοντας  μας να ψάξουμε για τρόπους λύσεις  μαθαίνοντας ταυτόχρονα έτσι κάποια βασικά πράγματα για το λογισμικό linux .Από αυτές  τις ασκήσεις έπρεπε να διαλέξουμε 4 και να κάνουμε ένα μικρό βίντεο δείχνοντας  τις εντολές που δώσαμε   για να πραγματοποιήσουμε τα ζητούμενα που ήθελε η κάθε άσκηση.
+Στην πρώτη εργασία χρησιμοποιήσαμε το PS1 για να δείξουμε στο βίντεο μας το αριθμό μητρώου μας,
+το nano είναι ένα text editor το οποίο το χρησιμοποιήσαμε για να κάνουμε edit  κάποια αρχεία . Στην συνέχεια κατεβάσαμε το neofetch και το τρέξαμε δείχνοντας μας τα χαρακτηριστικά τού υπολογιστή μας. Στην δεύτερη εργασία μάθαμε για την εντολή man που είναι το manual τού linux επίσης δημιουργήσαμε  αρχεία  με τις εντολές echo και τα touch επίσης χρησιμοποιήσαμε το vim που είναι ακόμη ένας  text editor και χρησιμοποιήσαμε το cat που διαβάζει τη γράφει το κάθε αρχείο και ανοίξαμε διάφορα αρχεία με την εντολή ranger.
