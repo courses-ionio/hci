@@ -14,7 +14,7 @@
 |change command prompt with student ID | [Asciicast](https://asciinema.org/a/yp1DdpMS2piTvEpc39Vua4i7d)	|  
 |list dot files| [Asciicast](https://asciinema.org/a/goP9wI5JZwy3HOfRB47a41SSj)  	| 
 |display shell configuration file |[Asciicast](https://asciinema.org/a/v3eh1esDP5EaFarZJxkw0XxFp)|  
-|display system information |[Asciicast](https://asciinema.org/a/fqWZ8cFBRThT0zokmNnYRViq6)|  
+|display system information* |[Asciicast](https://asciinema.org/a/fqWZ8cFBRThT0zokmNnYRViq6)|  
 
 > [Original Commit](https://github.com/runtheorun-exe/hci/commit/bf1740c7fcf610193e139728c80e24cb6f3e7c15#diff-b51ca1ac2a4fa85e37c8973eca3ebf88)
 
@@ -42,8 +42,9 @@
 
 > [Original Commit](https://github.com/runtheorun-exe/hci/commit/80a4a8db43d5ad9b5479f84f360f272e72d9d22d#diff-b51ca1ac2a4fa85e37c8973eca3ebf88)
 
-*Σημείωση: Οι εργασίες 1 εως 3 ανέβηκαν εμπρόθεσμα. Οι καινούργιες ημερομηνίες εμφανίζονται λόγω ανακατανομής σε καινούργιο branch. Στο Asciinema καθώς και στα link των αρχικών commit μπορεί να πιστοποιηθεί το εμπρόθεσμο upload των εργασιών. Η 4η εργασία ανέβηκε εκπρόθεσμα στις 14/11/2020
+**Σημείωση: Οι εργασίες 1 εως 3 ανέβηκαν εμπρόθεσμα. Οι καινούργιες ημερομηνίες εμφανίζονται λόγω ανακατανομής σε καινούργιο branch. Στο Asciinema καθώς και στα link των αρχικών commit μπορεί να πιστοποιηθεί το εμπρόθεσμο upload των εργασιών. Η 4η εργασία ανέβηκε εκπρόθεσμα στις 14/11/2020
 
+* *Στο 4ο asciicast κατα την κλήση του inxi αναφέρεται πως το inxi παρουσιαζει τα ίδια στοιχεία με το neofetch αλλα πιο συμμαζεμένα. Αυτό δεν ισχύει,αντιθέτως το inxi προσφέρει περισσότερες πληροφορίες συστήματος σε σχέση με το neofetch
 # Ενδιάμεση Αναφορά:Συμμετοχικό Υλικό
 
 ## Παραδοτέο Α
