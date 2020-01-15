@@ -45,3 +45,44 @@
  https://github.com/perikrananou/gr/blob/gh-pages/_gallery/XiaomiMiRobotVacuumCleanerRobot.md
  https://github.com/perikrananou/gr/blob/gh-pages/images/XiaomiMiRobotVacuumCleanerRobot.jpg
  https://github.com/perikrananou/gr/blob/gh-pages/images/XiaomiMiRobotVacuumCleanerRobot160.jpg
+
+Παραδοτέο 2
+ 
+ 
+Εργασία: 3η
+Εκτελέσιμο link: https://asciinema.org/a/281845
+ 
+ 
+Εργασία: 4η
+Εκτελέσιμο link: https://asciinema.org/a/284655
+
+
+Εργασία: 5η
+Εκτελέσιμο link: https://asciinema.org/a/288109
+ 
+
+
+Για την πρώτη εργασία
+Δεν είχα κάνει προφίλ στο asciinema (δεν έλεγε κάτι στις οδηγίες ) με αποτέλεσμα να διαγραφεί η εργασία μου μετά από μια εβδομάδα 
+
+Νέο εκτελέσιμο link: https://asciinema.org/a/280509
+
+
+ 
+*Συμμετοχικό περιεχόμενο* 
+
+ 
+ biography:
+ 
+ https://github.com/perikrananou/gr/new/gh-pages/_biography
+ 
+ https://github.com/perikrananou/gr/commit/9a65ca261a7f49b2bad39a763b2fd80849d7b019
+ 
+ 
+ *πηγές*
+ 
+https://scholars.direct/Articles/anthropology/iap-1-002.php?jid=anthropology
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2583369
+http://www.popflock.com/learn?s=Linus_Torvalds
+http://www.nonsolobiografie.it/biografia_linus_benedict_torvalds.html
+https://books.google.gr/books
