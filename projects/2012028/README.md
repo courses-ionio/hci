@@ -93,11 +93,11 @@
 
  ## Παραδοτέο Β
  
- ### Ζητούμενο -> ένα νέο διαδραστικό παράδειγμα .
+ ### Ζητούμενο -> μια νέα βιογραφία .
 
- | **Subject** | **Repository** | **Runnable** |
+ | **Name** | **Repository** | **Runnable** |
  | --- | --- | --- |
- | Fluid Simulation | [FS repository](https://github.com/TheoMokos/gr/blob/gh-pages/_remix/fluid-simulation.md) | [FS runnable](https://codepen.io/PavelDoGreat/pen/zdWzEL) |
+ | Bill Buxton | [Buxton repository](https://github.com/TheoMokos/gr/tree/gh-pages/_biography) | [Buxton runnable](https://theomokos.github.io/gr/biography/bill-buxton/) |
  
  
  
