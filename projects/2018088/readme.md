@@ -85,7 +85,7 @@
 
 | Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
 | :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
-| AlexKontop| Smartwatch |[Smartwatch - Κανονικό Μέγεθος](https://github.com/AlexKontop/gr/blob/gh-pages/images/smartwatch.jpg) [Smartwatch - 160px](https://github.com/AlexKontop/gr/blob/gh-pages/images/smartwatch-thumb.jpg)  | Ένα smartwatch είναι ένας φορητός υπολογιστής με οθόνη αφής και έχει την μορφή ρολογιού χειρός. Μπορούν να εκτελούν λειτουργίες οπως: υπολογισμούς, μεταφράσεις, αναπαραγωγή παιχνιδιών, αρχείων ήχου, βίντεο και επιτρέπουν την σύνδεση με WiFi / Bluetooth. Ορισμένα smartwatch μπορούν να πραγματοποιούν τηλεφωνικες κλησεις.|[License Link](https://pixabay.com/service/license/)|Pixabay License|Technology|Apple|
+| AlexKontop| Smartwatch |[Κανονικό Μέγεθος](https://github.com/AlexKontop/gr/blob/gh-pages/images/smartwatch.jpg) [Smartwatch - 160px](https://github.com/AlexKontop/gr/blob/gh-pages/images/smartwatch-thumb.jpg)  | Ένα smartwatch είναι ένας φορητός υπολογιστής με οθόνη αφής και έχει την μορφή ρολογιού χειρός. Μπορούν να εκτελούν λειτουργίες οπως: υπολογισμούς, μεταφράσεις, αναπαραγωγή παιχνιδιών, αρχείων ήχου, βίντεο και επιτρέπουν την σύνδεση με WiFi / Bluetooth. Ορισμένα smartwatch μπορούν να πραγματοποιούν τηλεφωνικες κλησεις.|[License Link](https://pixabay.com/service/license/)|Pixabay License|Technology|Apple|
 
 |![Smartwatch](https://github.com/AlexKontop/gr/blob/gh-pages/images/smartwatch.jpg)|![Smartwatch](https://github.com/AlexKontop/gr/blob/gh-pages/images/smartwatch-thumb.jpg)|
 |:---:|:---:|
