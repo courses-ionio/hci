@@ -7,6 +7,9 @@
 ### Φοίβος Αργυρίδης
 ### ΑΜ: Π2013041
 
+## Εισαγωγή
+Έγιναν 4 ασκήσεις σε περιβάλλον linux ubuntu WSL2 (Windows Subsystem for Linux). Σε κάθε εργασία υπάρχει το asciinema url και περιγραφονται αναλυτικά τα βήματα υλοποίησής της καθώς και πηγές άντλησης πληροφοριών απο το διαδύκτιο γαι τα tools που χρησιμοποιήθηκαν.
+
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system. Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).
 #### url asciinema: https://asciinema.org/a/qgSUwkBsC4WBCzimAIisNoNbo
 Χρησιμοποίησα το αρχείο .bashrc στο home directory μου, το οποίο επεξεργάστηκα με τον nano editor για να αλλάξω το command prompt με τον AM μου. Για να δω αμέσως μετά την αλλαγή χρησιμοποίησα το source.
@@ -146,6 +149,8 @@ https://taskwarrior.org/docs/start.html
 https://taskwarrior.org/docs/filter.html#filters
 
 
+## Συμπεράσματα
+Μέσω της διαδικασίας υλοποίησης των παραπάνω εργασιών έμαθα να χρησιμοποιώ τα linux μέσα απο τα windows (WSL). Έμαθα τις βασικές εντολές του terminal, καθώς και να εγκαθιστώ παραμετροποιώ τα διάφορα tools. Έμαθα να δημιουργώ φακέλους και αρχεία και να ενισχύω τη λειτουργεία του command line με νέες δυνατότητες.
 
 
 
