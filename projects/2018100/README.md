@@ -13,7 +13,7 @@
 Όλες οι προσθήκες αρχείων:
 
   | Θέμα  | Εικόνα κανονική | Εικόνα thumbnail | 	Markdown |
-  | :---: | :-------------: | :--------------: | :-------: |
+  | ---- | :-------------: | :--------------: | :-------: |
   | George Hotz | [george-hotz.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/george-hotz.jpg) | [george-hotz-thumb.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/george-hotz-thumb.jpg) | [george-hotz.md](https://github.com/badwolfgr/gr/blob/gh-pages/_gallery/george-hotz.md)
   | Microsoft Flight Simulator | [microsoft-flight-simulator.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/microsoft-flight-simulator.jpg) | [microsoft-flight-simulator-thumb.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/microsoft-flight-simulator-thumb.jpg) | [microsoft-flight-simulator.md](https://github.com/badwolfgr/gr/blob/gh-pages/_gallery/microsoft-flight-simulator.md)
   | Microsoft HoloLens | [hololens.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/hololens.jpg) | [hololens-thumb.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/hololens-thumb.jpg) | [hololens.md](https://github.com/badwolfgr/gr/blob/gh-pages/_gallery/hololens.md)
