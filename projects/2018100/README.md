@@ -22,7 +22,7 @@
 
 ### Παραδοτέο Γ
 
-...
+[Μια νέα βιογραφία](https://badwolfgr.github.io/gr/biography/steve-jobs/)
 
 ## Ασκήσεις
 
