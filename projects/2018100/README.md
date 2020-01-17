@@ -26,8 +26,8 @@
 ## Προσθήκες που έγιναν στο βιβλίο
 
   | Θέμα  | Εικόνα κανονική | Εικόνα thumbnail | 	Markdown |
-  | ----- | --------------- | ---------------- | --------- |
-  | George Hotz  |
+  | :---: | :-------------: | :--------------: | :-------: |
+  | George Hotz |
   | Microsoft HoloLens |
   | iOS jailbreaking |
   | Microsoft Flight Simulator |
