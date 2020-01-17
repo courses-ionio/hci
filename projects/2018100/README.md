@@ -28,10 +28,10 @@
   | Θέμα  | Εικόνα κανονική | Εικόνα thumbnail | 	Markdown |
   | ----- | :-------------: | :--------------: | :-------: |
   | George Hotz | [george-hotz.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/george-hotz.jpg) | [george-hotz-thumb.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/george-hotz-thumb.jpg) |
-  | Microsoft Flight Simulator |
-  | Microsoft HoloLens |
-  | iOS jailbreaking |
-  | openpilot |
+  | Microsoft Flight Simulator | [microsoft-flight-simulator.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/microsoft-flight-simulator.jpg) | [microsoft-flight-simulator-thumb.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/microsoft-flight-simulator-thumb.jpg) |
+  | Microsoft HoloLens | [hololensjpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/hololens.jpg) | [hololens-thumb.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/hololens-thumb.jpg) |
+  | iOS jailbreaking | [ios-jailbreaking.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/ios-jailbreaking.jpg) | [ios-jailbreaking-thumb.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/ios-jailbreaking-thumb.jpg) |
+  | openpilot | [openpilot.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/gopenpilot.jpg) | [openpilot-thumb.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/openpilot-thumb.jpg.jpg) |
 
 ## Ασκήσεις
 
