@@ -26,7 +26,7 @@
 ## Προσθήκες που έγιναν στο βιβλίο
 
   | First Header  | Second Header |
-  | ------------- | ------------- |
+  | --- | --- |
   | Content Cell  | Content Cell  |
   | Content Cell  | Content Cell  |
 
