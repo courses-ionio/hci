@@ -58,7 +58,7 @@
 
 ### Άσκηση 3
 
-- [Taskwarrior to-do list για το τερματικό](https://asciinema.org/a/uzCwgZncOCfUSA59VcSRrn3Nb): Δημιουργία τριών εργασιών, προβολή της λίστας με τις εργασίας, ολοκλήρωση των 2 και διαγραφή μίας.
+- [Taskwarrior to-do list για το τερματικό](https://asciinema.org/a/uzCwgZncOCfUSA59VcSRrn3Nb): Δημιουργία τριών εργασιών, προβολή της λίστας με τις εργασίας, ολοκλήρωση των δύο και διαγραφή της μίας.
 
 ### Άσκηση 4
 
