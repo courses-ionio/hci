@@ -25,10 +25,13 @@
 
 ## Προσθήκες που έγιναν στο βιβλίο
 
-  | First Header  | Second Header |
-  | --- | --- |
-  | Content Cell  | Content Cell  |
-  | Content Cell  | Content Cell  |
+  | Θέμα  | Εικόνα κανονική | Εικόνα thumbnail | 	Markdown |
+  | ----- | --------------- | ---------------- | --------- |
+  | George Hotz  |
+  | Microsoft HoloLens |
+  | iOS jailbreaking |
+  | Microsoft Flight Simulator |
+  | openpilot |
 
 ## Ασκήσεις
 
