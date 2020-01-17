@@ -20,6 +20,8 @@
   | iOS jailbreaking | [ios-jailbreaking.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/ios-jailbreaking.jpg) | [ios-jailbreaking-thumb.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/ios-jailbreaking-thumb.jpg) | [ios-jailbreaking.md](https://github.com/badwolfgr/gr/blob/gh-pages/_gallery/ios-jailbreaking.md)
   | openpilot | [openpilot.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/openpilot.jpg) | [openpilot-thumb.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/openpilot-thumb.jpg) | [openpilot.md](https://github.com/badwolfgr/gr/blob/gh-pages/_gallery/openpilot.md)
 
+### Παραδοτέο Γ
+
 ## Ασκήσεις
 
 ### Άσκηση 1
