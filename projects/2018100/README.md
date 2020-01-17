@@ -62,4 +62,4 @@
 
 ### Άσκηση 4
 
-- [Το jrnl είναι ένα ημερολόγιο για το terminal](https://asciinema.org/a/PXH2OsHvq5pN6hOSLgq2ge0Fr): Δημιουργία καινούργιας καταγραφής στο ημερολόγιο.
+- [Το jrnl είναι ένα ημερολόγιο για το terminal](https://asciinema.org/a/6tS7ryA9aDK4eWZLIaLt9SSrw): Δημιουργία καινούργιας καταγραφής στο ημερολόγιο.
