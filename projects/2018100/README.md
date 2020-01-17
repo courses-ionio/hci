@@ -23,6 +23,11 @@
 - openpilot
   * https://github.com/badwolfgr/gr/commit/1a230a8f4d37fe3691e0afaad65988ed254eff92
 
+  | First Header  | Second Header |
+  | ------------- | ------------- |
+  | Content Cell  | Content Cell  |
+  | Content Cell  | Content Cell  |
+
 ## Ασκήσεις
 
 ### Άσκηση 1
