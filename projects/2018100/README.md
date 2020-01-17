@@ -29,9 +29,9 @@
 
 | Θέμα | Εικόνες |
 | -----| :------:|
-| Steve Jobs | [steve-jobs-stage.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/steve-jobs-stage.jpg) |
-| [steve-jobs-macbook.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/steve-jobs-macbook.jpg) |
-| [imac.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/imac.jpg) |
+| | [steve-jobs-stage.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/steve-jobs-stage.jpg) |
+| Steve Jobs | [steve-jobs-macbook.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/steve-jobs-macbook.jpg) |
+| | [imac.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/imac.jpg) |
 
 ## Ασκήσεις
 
