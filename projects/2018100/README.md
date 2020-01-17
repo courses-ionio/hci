@@ -23,14 +23,14 @@
 - openpilot
   * https://github.com/badwolfgr/gr/commit/1a230a8f4d37fe3691e0afaad65988ed254eff92
 
-## Προσθήκες που έγιναν στο βιβλίο
+### Προσθήκες που έγιναν στο βιβλίο
 
   | Θέμα  | Εικόνα κανονική | Εικόνα thumbnail | 	Markdown |
   | ----- | :-------------: | :--------------: | :-------: |
-  | George Hotz |
+  | George Hotz | [george-hotz.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/george-hotz.jpg) | [george-hotz-thumb.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/george-hotz-thumb.jpg) |
+  | Microsoft Flight Simulator |
   | Microsoft HoloLens |
   | iOS jailbreaking |
-  | Microsoft Flight Simulator |
   | openpilot |
 
 ## Ασκήσεις
