@@ -25,9 +25,9 @@
 Μια νέα βιογραφία:
 
 | Θέμα | Εικόνες | Markdown |
-| -----| :------:|
+| ---- | :------:| :------: |
 | | [steve-jobs-stage.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/steve-jobs-stage.jpg) | |
-| Steve Jobs | [steve-jobs-macbook.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/steve-jobs-macbook.jpg) | [steve-jobs.md](https://github.com/badwolfgr/gr/blob/gh-pages/_biography/steve-jobs.md)
+| Steve Jobs | [steve-jobs-macbook.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/steve-jobs-macbook.jpg) | [steve-jobs.md](https://github.com/badwolfgr/gr/blob/gh-pages/_biography/steve-jobs.md) |
 | | [imac.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/imac.jpg) | |
 
 ## Ασκήσεις
