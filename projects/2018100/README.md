@@ -12,19 +12,6 @@
 
 Όλες οι προσθήκες αρχείων:
 
-- George Hotz
-  * https://github.com/badwolfgr/gr/commit/6be7164e1b8e50169c57e4541d282967530cf55e
-- Microsoft HoloLens
-  * https://github.com/badwolfgr/gr/commit/4c3578a456320c4f29481a1c498e49f5f779af08
-- iOS jailbreaking
-  * https://github.com/badwolfgr/gr/commit/a9966183fc1cf8d41d35555f78a6fdd506a9bb18
-- Microsoft Flight Simulator
-  * https://github.com/badwolfgr/gr/commit/ccb2888d5778f3bea9ffb6b36ed087f02f657308
-- openpilot
-  * https://github.com/badwolfgr/gr/commit/1a230a8f4d37fe3691e0afaad65988ed254eff92
-
-### Προσθήκες που έγιναν στο βιβλίο
-
   | Θέμα  | Εικόνα κανονική | Εικόνα thumbnail | 	Markdown |
   | ----- | :-------------: | :--------------: | :-------: |
   | George Hotz | [george-hotz.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/george-hotz.jpg) | [george-hotz-thumb.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/george-hotz-thumb.jpg) | [george-hotz.md](https://github.com/badwolfgr/gr/blob/gh-pages/_gallery/george-hotz.md)
