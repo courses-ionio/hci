@@ -27,9 +27,9 @@
 - [Steve Jobs](https://github.com/badwolfgr/gr/blob/gh-pages/_includes/bio-jobs.md)
 - [Markdown](https://github.com/badwolfgr/gr/blob/gh-pages/_biography/steve-jobs.md)
 
-| Εικόνες |
-| :------:|
-| [steve-jobs-stage.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/steve-jobs-stage.jpg) |
+| Θέμα | Εικόνες |
+| -----| :------:|
+| Steve Jobs | [steve-jobs-stage.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/steve-jobs-stage.jpg) |
 | [steve-jobs-macbook.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/steve-jobs-macbook.jpg) |
 | [imac.jpg](https://github.com/badwolfgr/gr/blob/gh-pages/images/imac.jpg) |
 
