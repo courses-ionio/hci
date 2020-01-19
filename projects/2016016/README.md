@@ -26,3 +26,20 @@
  ## 3η εργασία
  
  -  ***[become productive with a todo list](https://asciinema.org/a/jDFwH35tKENI0hCQWrnrgTNQu)***
+ 
+ # Τελική Αναφορά: 4η εργασία και συμμετοχικό Υλικό: Α Παραδοτέο
+ 
+ ## 4η ερηασία
+ 
+ - ***[text editor and plug-ins for code highlighting and autocompletion](https://asciinema.org/a/HVIDFSKbOWs1Xa7YwPzC2wLiO)***
+ 
+ 
+ # Σημμετοχικό Υλικό
+ 
+ ## Παραδοτέο Α, Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση:
+ 
+ | Nintendo Wii |    [Nitendo_Wii.jpg](https://github.com/LefterisIkaria/gr/blob/gh-pages/images/Nitendo_Wii.jpg)  	|    [Nintendo_Wii.md](https://github.com/LefterisIkaria/gr/blob/gh-pages/_gallery/Nintendo_Wii.md)
+ 
+ | Smart watch |    [smart-watch.jpg](https://github.com/LefterisIkaria/gr/blob/gh-pages/images/smart-watch.jpg)  	|    [smart-watch.md](https://github.com/LefterisIkaria/gr/blob/gh-pages/_gallery/smart-watch.md)
+ 
+ 
