@@ -50,6 +50,7 @@ ls -a | grep "."
  
  -  ***[become productive with a todo list](https://asciinema.org/a/jDFwH35tKENI0hCQWrnrgTNQu)***
  Κατέβασα το taskwarrior για την δημηουργία μιας λίστας διεργασιών.
+ 
  ![taskwarrior](https://github.com/LefterisIkaria/hci/blob/master/taskwarrior.PNG)
  
  
