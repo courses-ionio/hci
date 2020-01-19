@@ -42,4 +42,10 @@
  
  | Smart watch |    [smart-watch.jpg](https://github.com/LefterisIkaria/gr/blob/gh-pages/images/smart-watch.jpg)  	|    [smart-watch.md](https://github.com/LefterisIkaria/gr/blob/gh-pages/_gallery/smart-watch.md)
  
+ | Drone |    [drone.jpg](https://github.com/LefterisIkaria/gr/blob/gh-pages/images/drone.jpg)  	|    [drone.md](https://github.com/LefterisIkaria/gr/blob/gh-pages/images/drone.jpg)
+ 
+ | Olympys Camera |    [olympus-camera.jpg](https://github.com/LefterisIkaria/gr/blob/gh-pages/images/olympus-camera.jpg)  	|    [olympus-camera.md](https://github.com/LefterisIkaria/gr/blob/gh-pages/_gallery/olympus-camera.md)
+ 
+ | Tesla Cybertruck |    [tesla-cybertruck.jpg](https://github.com/LefterisIkaria/gr/blob/gh-pages/images/tesla-cybertruck.png)  	|    [tesla-cybertruck.md](https://github.com/LefterisIkaria/gr/blob/gh-pages/_gallery/tesla-cybertruck)
+ 
  
