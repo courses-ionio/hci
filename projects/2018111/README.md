@@ -46,7 +46,7 @@ Asciinema Video:
 [![asciicast](https://asciinema.org/a/rK7pcY2aUEbvobJJlbctV67jY.png)](https://asciinema.org/a/rK7pcY2aUEbvobJJlbctV67jY)
 
 ### 3.Assigment: organise the terminal window into multiple areas
-Αυτό που κάνω παρακάτω είναι αρχικά να αλλάξω το όνομα της γραμμής εντελών με τον Αριθμό Μητρώου μου, στην συνέχεια τρέχω το tmux ονομάζοντας το session assigment, δημιουργώ ένα νέο παράθυρο στο οποίο τρέχω το glances.  Ύστερα επιστρέφω στο πρώτο παράθυρο και εκεί εμφανίζω κάποια από τα αρχεία μου, εμφανίζω με το vim το .tmux.conf,  στην συνέχεια κάνω μια βασική περιήγηση στο διαδίκτυο και μετά δημιούργησα ένα αρχείο .txt και το διέγραψα.
+Αυτό που κάνω παρακάτω είναι αρχικά να αλλάξω το όνομα της γραμμής εντoλών με τον Αριθμό Μητρώου μου, στην συνέχεια τρέχω το tmux ονομάζοντας το session assigment, δημιουργώ ένα νέο παράθυρο στο οποίο τρέχω το glances.  Ύστερα επιστρέφω στο πρώτο παράθυρο και εκεί εμφανίζω κάποια από τα αρχεία μου, εμφανίζω με το vim το .tmux.conf,  στην συνέχεια κάνω μια βασική περιήγηση στο διαδίκτυο και μετά δημιούργησα ένα αρχείο .txt και το διέγραψα.
 
 Για να υλοποιηθούν τα παραπάνω χρησιμοποίησα  τις εντολές: PS1, ls, tmux, vim, glances, touch, rm
 
@@ -67,8 +67,10 @@ thumbnail | https://github.com/Rigas-A/gr/blob/Add-Images/images/commodore-64-th
 -----
 ## 2ο Παραδοτέο
 ### 5.Assigment: try a different shell
+Παρακάτω δοκιμάζω το shell fish αρχικά με μια deafult συνάρτηση του shell την fish_promt αλλάζω το όνομα της γραμμής εντολών μου με το ΑΜ μου (το PS1=”myID” δεν δουλεύει με το fish).  Στην συνέχεια με εμφανίζω τα shells μου που βρίσκονται στην τοποθεσία “/etc/shells” .  Τέλος δοκιμάζω την αυτόματη συμπλήρωση για εντολές του fish και κάνω μια απλή “περιήγηση”  στον υπολογιστή μου με την βοήθεια του fish και των εντολών cd και ls.
 
-...
+Για να υλοποιηθούν τα παραπάνω χρησιμοποίησα  τις εντολές:chsh, cd, ls. Το shell που χρησιμοποίησα είναι το [fish](https://fishshell.com/).
 
 Asciinema Video:
 [![asciicast](https://asciinema.org/a/qB9YhQko3BihsxAweqZe7rdde.png)](https://asciinema.org/a/qB9YhQko3BihsxAweqZe7rdde)
+
