@@ -23,17 +23,20 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
  ### 1η εργασία
  
  -  ***[change your command prompt with your student ID](https://asciinema.org/a/ab8B0twxDbsNMHXPbKGymC8Ts)***
+
 Για να αλλάξω το id χρησημοποίησα το nano text editor στο αρχείο ~/.bashrc και άλλαξα την μεταβλητή PS1.
 ```
 nano ~bashrc
 ```
  -  ***[list your dot files](https://asciinema.org/a/EwUsAfJuqdCl7Y6VSv2FCsVbh)***
+ 
  Για να κάνω display τα dot files χρησιμοποίησα την εντολή ls σε συνδιασμό με το grep για να εμφανίσω μόνο τα dot files.
 ```
 ls -a | grep "."
 ```
 
  -  ***[display your shell configuration file and display system information (hardware+software)](https://asciinema.org/a/WzjdmgrpMfXmPdvMTwm9DfuGX)***
+
 Εμφάνισα το Shell configuration file μέσο του nano text editor και κατέβασα το neofetch με το οποίο έδειξα τα χαρακτηρηστικά του συστήματος μου.
 
 ![specs](https://github.com/LefterisIkaria/hci/blob/master/Specs.PNG)
@@ -42,7 +45,8 @@ ls -a | grep "."
  ### 2η εργασία
  
  -  ***[browse and view files on your system](https://asciinema.org/a/HoFyBqclUg1e9JHmKfgDS702n)***
- Έγινε περιαγωγή κάποιων αρχείων στο σύστημα, καθώς και διαγραφή και δημιουργία νεών με την χρήση των παρακάτω εντολών:
+
+Έγινε περιαγωγή κάποιων αρχείων στο σύστημα, καθώς και διαγραφή και δημιουργία νεών με την χρήση των παρακάτω εντολών:
  ```
  ls, rmv, mkdir, cd, cat
  ```
@@ -50,6 +54,7 @@ ls -a | grep "."
  ### 3η εργασία
  
  -  ***[become productive with a todo list](https://asciinema.org/a/jDFwH35tKENI0hCQWrnrgTNQu)***
+ 
  Κατέβασα το taskwarrior για την δημηουργία μιας λίστας διεργασιών.
  
  ![taskwarrior](https://github.com/LefterisIkaria/hci/blob/master/taskwarrior.PNG)
@@ -58,7 +63,8 @@ ls -a | grep "."
  ### 4η ερηασία
  
  - ***[text editor and plug-ins for code highlighting and autocompletion](https://asciinema.org/a/HVIDFSKbOWs1Xa7YwPzC2wLiO)***
- Εγκατέστησα το vim για την ευκολότερη επεξεργασία κώδικα.
+
+Εγκατέστησα το vim για την ευκολότερη επεξεργασία κώδικα.
  
  ## Σημμετοχικό Υλικό
  
