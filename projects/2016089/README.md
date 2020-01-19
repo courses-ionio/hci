@@ -29,6 +29,12 @@
  * ELIZA
    * https://github.com/csakou/gr/commit/461d156f38cfb371817b79dfc8f6f3eb92a41c19
    * https://github.com/csakou/gr/commit/d69cf9c333d0ee295074ebb21aefdac64aaf0b41
+   
+### Παραδοτέο Γ (2)
+
+#### Προσθήκη νέας βιογραφίας του [Ivan Sutherland](https://www.wikiwand.com/en/Ivan_Sutherland)
+
+Όλες οι προσθήκες αρχείων:
 
 ## Εισαγωγή
 
