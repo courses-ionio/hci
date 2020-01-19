@@ -35,7 +35,7 @@ ls -a | grep "."
 
  -  ***[display your shell configuration file and display system information (hardware+software)](https://asciinema.org/a/WzjdmgrpMfXmPdvMTwm9DfuGX)***
 Εμφάνισα το Shell configuration file μέσο του nano text editor και κατέβασα το neofetch με το οποίο έδειξα τα χαρακτηρηστικά του συστήματος μου.
-!(https://github.com/LefterisIkaria/hci/blob/master/Specs.PNG)
+![specs](https://github.com/LefterisIkaria/hci/blob/master/Specs.PNG)
 
 
  ### 2η εργασία
@@ -50,8 +50,8 @@ ls -a | grep "."
  
  -  ***[become productive with a todo list](https://asciinema.org/a/jDFwH35tKENI0hCQWrnrgTNQu)***
  Κατέβασα το taskwarrior για την δημηουργία μιας λίστας διεργασιών.
+ ![taskwarrior](https://github.com/LefterisIkaria/hci/blob/master/taskwarrior.PNG)
  
- ![specs](https://github.com/LefterisIkaria/hci/blob/master/Specs.PNG)
  
  ### 4η ερηασία
  
