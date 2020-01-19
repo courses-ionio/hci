@@ -158,7 +158,7 @@
   - [Χρήση tmux με glances](https://asciinema.org/a/o7u8qNvSxjTdC7kwgPGHXZxRo):
   Με την χρήση του τερματικού πολυπλέκτη [tmux](https://github.com/tmux/tmux) δημιουργήσαμε ένα νέο session ονόματι "mySession" όπου μέσα ανοίξαμε δύο panes στο ίδιο τερματικό με την εντολή:
   
-    ctrl-b + % (horizontal split)
+    `ctrl-b + % (horizontal split)`
   
 όπου στο αριστερό ανοίξαμε ένα πρόγραμμα που είχαμε ξανά δει το ranger για την περιήγηση ή τροποποίηση αρχείων και στο δεξί ανοίξαμε το [glances](https://nicolargo.github.io/glances/) που μας δείχνει διάφορες πληροφορίες για το σύστημα μας όπως θερμοκρασίες, ανοικτές διεργασίες, ταχύτητες σε πυρήνες επεξεργαστή ή κάρτας γραφικών κλπ. Τέλος κάναμε detach από το session με την εντολή:
   
