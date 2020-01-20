@@ -77,7 +77,8 @@ Asciinema Video:
 ### 6.Assigment: build a custom desktop enviroment
 Παρακάτω αυτό που κάνω είναι να παρουσιάζω το περιβάλλον εργασίας που δημιούργησα.  Συγκεκριμένα δημιουργώ διάφορα workspaces, παρουσιάζω κάποια σημαντικά config files και παρουσιάζω κάποια από τα blocks που έχω βάλει στην μπάρα (i3bar).
 
-Για την υλοποιηθούν τα παραπάνω χρησιμοποίησα το i3wm, i3blocks, shell script, vim, neofetch.  Επίσης για την υλοποιήσει των διάφορων scipt χρησιμοποίησα ακόμη iwgetid, xkb-switch, pacman, wc, date, calcurse, awk, grep, amixer, wttr.in.
+Για την υλοποιηθούν τα παραπάνω χρησιμοποίησα το [i3wm](https://i3wm.org/),
+[i3blocks](https://github.com/vivien/i3blocks), shell script, vim, neofetch.  Επίσης για την υλοποιήσει των διάφορων scipt χρησιμοποίησα ακόμη iwgetid, xkb-switch, pacman, wc, date, calcurse, awk, grep, amixer, wttr.in.
 
 Σχετικά αρχεία τα οποία έχω επεξεργαστεί/δημιουργήσει 
 [i3 config file](https://github.com/Rigas-A/dotfiles/blob/master/config/i3),
@@ -96,3 +97,12 @@ Youtube Video:
 
 Το διαδραστηκό παράδειγμα το οποίο δημιούργησα είναι ένα [radial menu](https://github.com/Rigas-A/gr/blob/Add-redial-menu/_remix/redial_menu.md) το όποιο χρησιμοποιεί font awesome
  και scss.
+
+## Βιβλιογραφία:
+- https://el.wikipedia.org/wiki/Commodore_64
+- https://en.wikipedia.org/wiki/Ultra-mobile_PC
+- https://en.wikipedia.org/wiki/Samsung_Q1
+- https://en.wikipedia.org/wiki/Python_(programming_language)
+- https://en.wikipedia.org/wiki/Microsoft_Minesweeper
+- https://en.wikipedia.org/wiki/Microsoft_Solitaire
+- https://www.dailymail.co.uk/news/article-3207153/Solitaire-Minesweeper-created-trick-learning-things-computers.html
