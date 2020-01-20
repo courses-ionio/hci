@@ -54,7 +54,7 @@ Asciinema Video:
 [![asciicast](https://asciinema.org/a/dRWfzXoa3zktX6MDlcn0SJcOz.png)](https://asciinema.org/a/dRWfzXoa3zktX6MDlcn0SJcOz)
 
 ---
-### Συμμετοχικό περιεχόμενο:
+### Συμμετοχικό περιεχόμενο A:
 #### [Το δικό μου αντίγραφο (fork) του αποθετηρίου της ιστοσελίδας του βιβλίου του μαθήματος](https://github.com/Rigas-A/gr)
 (όλες μου οι αλλαγές βρίσκονται στο branch "Add-Images")
 
@@ -88,3 +88,11 @@ Asciinema Video:
 Youtube Video:
 
 [![youtube](https://img.youtube.com/vi/BKqhwDjjWE4/0.jpg)](https://youtu.be/BKqhwDjjWE4)
+
+---
+### Συμμετοχικό περιεχόμενο B:
+#### [Το δικό μου αντίγραφο (fork) του αποθετηρίου της ιστοσελίδας του βιβλίου του μαθήματος](https://github.com/Rigas-A/gr)
+(όλες μου οι αλλαγές βρίσκονται στο branch "Add-redial-menu")
+
+Το διαδραστηκό παράδειγμα το οποίο δημιούργησα είναι ένα [radial menu](https://github.com/Rigas-A/gr/blob/Add-redial-menu/_remix/redial_menu.md) το όποιο χρησιμοποιεί font awesome
+ και scss.
