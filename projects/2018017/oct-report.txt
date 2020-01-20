@@ -1,8 +1,0 @@
-Expenses:Drinks:Coffee|2019/10/01|€6.15
-Expenses:Electronics|2019/10/01|€16.55
-Expenses:Groceries|2019/10/01|€35.78
-Expenses:Miscellaneous|2019/10/01|€9.99
-Expenses:Subscriptions:Netflix|2019/10/01|€13.99
-Expenses:Subscriptions:Spotify|2019/10/01|€3.49
-Expenses:Transport:Ticket|2019/10/01|€2.80
-Income:Budget|2019/10/01|€-250.00
