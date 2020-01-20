@@ -74,3 +74,17 @@ thumbnail | https://github.com/Rigas-A/gr/blob/Add-Images/images/commodore-64-th
 Asciinema Video:
 [![asciicast](https://asciinema.org/a/qB9YhQko3BihsxAweqZe7rdde.png)](https://asciinema.org/a/qB9YhQko3BihsxAweqZe7rdde)
 
+### 6.Assigment: build a custom desktop enviroment
+Παρακάτω αυτό που κάνω είναι να παρουσιάζω το περιβάλλον εργασίας που δημιούργησα.  Συγκεκριμένα δημιουργώ διάφορα workspaces, παρουσιάζω κάποια σημαντικά config files και παρουσιάζω κάποια από τα blocks που έχω βάλει στην μπάρα (i3bar).
+
+Για την υλοποιηθούν τα παραπάνω χρησιμοποίησα το i3wm, i3blocks, shell script, vim, neofetch.  Επίσης για την υλοποιήσει των διάφορων scipt χρησιμοποίησα ακόμη iwgetid, xkb-switch, pacman, wc, date, calcurse, awk, grep, amixer, wttr.in.
+
+Σχετικά αρχεία τα οποία έχω επεξεργαστεί/δημιουργήσει 
+[i3 config file](https://github.com/Rigas-A/dotfiles/blob/master/config/i3),
+[i3block config file](https://github.com/Rigas-A/dotfiles/blob/master/config/i3blocks),
+[i3block scripts](https://github.com/Rigas-A/dotfiles/tree/master/i3block/scripts),
+[lock script](https://github.com/Rigas-A/dotfiles/blob/master/lock).
+
+Youtube Video:
+
+[![youtube](https://img.youtube.com/vi/BKqhwDjjWE4/0.jpg)](https://youtu.be/BKqhwDjjWE4)
