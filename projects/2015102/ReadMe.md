@@ -43,3 +43,13 @@
  Edit, delete, and check some of them:
  
  Link: https://asciinema.org/a/oP8t7OcduSgjXfph4mpUvR07p
+ 
+ ## Άσκηση 4:
+ 
+ ### Plan your time with a calendar.
+ 
+ Link: https://asciinema.org/a/NJLkCwTUlI0Lg0bSUSWvZ2IFW
+ 
+ ##Συμπεράσματα:
+ 
+ Με την υλοποίηση των παραπάνω ασκήσεων απέκτησα μια πρώτη επαφή με το λετουργικό σύστημα linux, και κυρίως με το terminal. Οι δυνατότητες είναι τεράστιες και μπορείς να κάνεις αρκετά πράγματα χωρίς γραφικό περιβάλλον, που σημαίνει πιο ελαφρυ σύστημα αφού δεν χρησιμοποιεί πόρους για εντυπωσιακά γραφικά. Εξοικειώθηκα με το file structure και τις βασικές εντολές του terminal.
