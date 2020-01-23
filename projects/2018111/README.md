@@ -46,7 +46,7 @@ Asciinema Video:
 [![asciicast](https://asciinema.org/a/rK7pcY2aUEbvobJJlbctV67jY.png)](https://asciinema.org/a/rK7pcY2aUEbvobJJlbctV67jY)
 
 ### 3.Assigment: organise the terminal window into multiple areas
-Αυτό που κάνω παρακάτω είναι αρχικά να αλλάξω το όνομα της γραμμής εντελών με τον Αριθμό Μητρώου μου, στην συνέχεια τρέχω το tmux ονομάζοντας το session assigment, δημιουργώ ένα νέο παράθυρο στο οποίο τρέχω το glances.  Ύστερα επιστρέφω στο πρώτο παράθυρο και εκεί εμφανίζω κάποια από τα αρχεία μου, εμφανίζω με το vim το .tmux.conf,  στην συνέχεια κάνω μια βασική περιήγηση στο διαδίκτυο και μετά δημιούργησα ένα αρχείο .txt και το διέγραψα.
+Αυτό που κάνω παρακάτω είναι αρχικά να αλλάξω το όνομα της γραμμής εντoλών με τον Αριθμό Μητρώου μου, στην συνέχεια τρέχω το tmux ονομάζοντας το session assigment, δημιουργώ ένα νέο παράθυρο στο οποίο τρέχω το glances.  Ύστερα επιστρέφω στο πρώτο παράθυρο και εκεί εμφανίζω κάποια από τα αρχεία μου, εμφανίζω με το vim το .tmux.conf,  στην συνέχεια κάνω μια βασική περιήγηση στο διαδίκτυο και μετά δημιούργησα ένα αρχείο .txt και το διέγραψα.
 
 Για να υλοποιηθούν τα παραπάνω χρησιμοποίησα  τις εντολές: PS1, ls, tmux, vim, glances, touch, rm
 
@@ -54,7 +54,7 @@ Asciinema Video:
 [![asciicast](https://asciinema.org/a/dRWfzXoa3zktX6MDlcn0SJcOz.png)](https://asciinema.org/a/dRWfzXoa3zktX6MDlcn0SJcOz)
 
 ---
-### Συμμετοχικό περιεχόμενο:
+### Συμμετοχικό περιεχόμενο A:
 #### [Το δικό μου αντίγραφο (fork) του αποθετηρίου της ιστοσελίδας του βιβλίου του μαθήματος](https://github.com/Rigas-A/gr)
 (όλες μου οι αλλαγές βρίσκονται στο branch "Add-Images")
 
@@ -63,3 +63,46 @@ Title | Commodore 64 (1962) | Ultra-Mobile PC | Python | Microsoft Games | Unrea
 .md file | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/commodore-64.md | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/ultra-mobile-PC.md | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/python.md | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/microsoft-games.md | https://github.com/Rigas-A/gr/blob/Add-Images/_gallery/unreal-engine.md 
 image | https://github.com/Rigas-A/gr/blob/Add-Images/images/commodore-64.jpg | https://github.com/Rigas-A/gr/blob/Add-Images/images/ultra-mobile-PC.jpg | https://github.com/Rigas-A/gr/blob/Add-Images/images/python.png | https://github.com/Rigas-A/gr/blob/Add-Images/images/microsoft-games.png | https://github.com/Rigas-A/gr/blob/Add-Images/images/unreal-engine.jpg   
 thumbnail | https://github.com/Rigas-A/gr/blob/Add-Images/images/commodore-64-thumb.jpg | https://github.com/Rigas-A/gr/blob/Add-Images/images/ultra-mobile-PC-thumb.jpg | https://github.com/Rigas-A/gr/blob/Add-Images/images/python-thumb.png | https://github.com/Rigas-A/gr/blob/Add-Images/images/microsoft-games-thumb.png | https://github.com/Rigas-A/gr/blob/Add-Images/images/unreal-engine-thumb.jpg  
+
+-----
+## 2ο Παραδοτέο
+### 5.Assigment: try a different shell
+Παρακάτω δοκιμάζω το shell fish αρχικά με μια deafult συνάρτηση του shell την fish_promt αλλάζω το όνομα της γραμμής εντολών μου με το ΑΜ μου (το PS1=”myID” δεν δουλεύει με το fish).  Στην συνέχεια με εμφανίζω τα shells μου που βρίσκονται στην τοποθεσία “/etc/shells” .  Τέλος δοκιμάζω την αυτόματη συμπλήρωση για εντολές του fish και κάνω μια απλή “περιήγηση”  στον υπολογιστή μου με την βοήθεια του fish και των εντολών cd και ls.
+
+Για να υλοποιηθούν τα παραπάνω χρησιμοποίησα  τις εντολές:chsh, cd, ls. Το shell που χρησιμοποίησα είναι το [fish](https://fishshell.com/).
+
+Asciinema Video:
+[![asciicast](https://asciinema.org/a/qB9YhQko3BihsxAweqZe7rdde.png)](https://asciinema.org/a/qB9YhQko3BihsxAweqZe7rdde)
+
+### 6.Assigment: build a custom desktop enviroment
+Παρακάτω αυτό που κάνω είναι να παρουσιάζω το περιβάλλον εργασίας που δημιούργησα.  Συγκεκριμένα δημιουργώ διάφορα workspaces, παρουσιάζω κάποια σημαντικά config files και παρουσιάζω κάποια από τα blocks που έχω βάλει στην μπάρα (i3bar).
+
+Για την υλοποιηθούν τα παραπάνω χρησιμοποίησα το [i3wm](https://i3wm.org/),
+[i3blocks](https://github.com/vivien/i3blocks), shell script, vim, neofetch.  Επίσης για την υλοποιήσει των διάφορων scipt χρησιμοποίησα ακόμη iwgetid, xkb-switch, pacman, wc, date, calcurse, awk, grep, amixer, wttr.in.
+
+Σχετικά αρχεία τα οποία έχω επεξεργαστεί/δημιουργήσει 
+[i3 config file](https://github.com/Rigas-A/dotfiles/blob/master/config/i3),
+[i3block config file](https://github.com/Rigas-A/dotfiles/blob/master/config/i3blocks),
+[i3block scripts](https://github.com/Rigas-A/dotfiles/tree/master/i3block/scripts),
+[lock script](https://github.com/Rigas-A/dotfiles/blob/master/lock).
+
+Youtube Video:
+
+[![youtube](https://img.youtube.com/vi/BKqhwDjjWE4/0.jpg)](https://youtu.be/BKqhwDjjWE4)
+
+---
+### Συμμετοχικό περιεχόμενο B:
+#### [Το δικό μου αντίγραφο (fork) του αποθετηρίου της ιστοσελίδας του βιβλίου του μαθήματος](https://github.com/Rigas-A/gr)
+(όλες μου οι αλλαγές βρίσκονται στο branch "Add-redial-menu")
+
+Το διαδραστηκό παράδειγμα το οποίο δημιούργησα είναι ένα [radial menu](https://github.com/Rigas-A/gr/blob/Add-redial-menu/_remix/redial_menu.md) το όποιο χρησιμοποιεί font awesome
+ και scss.
+
+## Βιβλιογραφία:
+- https://el.wikipedia.org/wiki/Commodore_64
+- https://en.wikipedia.org/wiki/Ultra-mobile_PC
+- https://en.wikipedia.org/wiki/Samsung_Q1
+- https://en.wikipedia.org/wiki/Python_(programming_language)
+- https://en.wikipedia.org/wiki/Microsoft_Minesweeper
+- https://en.wikipedia.org/wiki/Microsoft_Solitaire
+- https://www.dailymail.co.uk/news/article-3207153/Solitaire-Minesweeper-created-trick-learning-things-computers.html
