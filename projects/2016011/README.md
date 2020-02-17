@@ -2,7 +2,7 @@
 ## Ονοματεπώνυμο: Μαριαλένα Μαυρόγιαννη
 ## Αριθμός Μητρώου: Π2016011
 Προφίλ στο Github
-  https://github.com/Marialena98
+  [Εδώ](https://github.com/Marialena98)
   
   
  [x] Εγκατάσταση του Oracle VM Virtual Box στα Windows 10
@@ -81,7 +81,7 @@
  
  ### Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.
  
- Σύνδεσμος αποθετηρίου gr: https://github.com/Marialena98/gr
+ Σύνδεσμος αποθετηρίου gr: [Εδώ](https://github.com/Marialena98/gr)
 
 | Images | Thumbnail | Original | (.md) |
 | --- | --- | --- | --- |
@@ -90,6 +90,11 @@
 | Nitendo Wii Console | [Nitendo Wii_Thumb.jpg](https://github.com/Marialena98/gr/blob/master/images/Nitendo_Wii_Thumb.jpg) 	|  [Nitendo Wii.jpg](https://github.com/Marialena98/gr/blob/master/images/Nitendo_Wii%20.jpg) 	| [Nitendo Wii.md](https://github.com/Marialena98/gr/blob/master/_gallery/Nitendo_Wii.md) 	|<br>
 | VR Headset | [VR_headset_Thumb.jpg](https://github.com/Marialena98/gr/blob/master/images/VR_headset_Thumb.jpg) 	|  [VR_headset.jpg](https://github.com/Marialena98/gr/blob/master/images/VR_headset.jpg) 	| [VR_Headset.md](https://github.com/Marialena98/gr/blob/master/_gallery/VR_Headset.md) 	|<br>
 | Xbox | [Xbox_Thumb.jpg](https://github.com/Marialena98/gr/blob/master/images/Xbox-Thumb.jpg) 	|  [Xbox.jpg](https://github.com/Marialena98/gr/blob/master/images/Xbox.jpg) 	| [Xbox.md](https://github.com/Marialena98/gr/blob/master/_gallery/Xbox.md) 	|<br>
+
+## Σύντομη βιογραφία 
+
+- [Βιογραφία](https://github.com/Marialena98/gr/blob/master/_biography/Bio-Douglas_Engelbart.md)
+- [Douglas_Engelbart](https://github.com/Marialena98/gr/blob/master/_biography/Douglas%20Engelbart.md)
 
 
 ## Συμπέρασμα:
