@@ -46,7 +46,15 @@
  
  ## Άσκηση 4:
  
- ### Plan your time with a calendar.
+ ### Track your expenses.
+ 
+ Add a source of income and some expenses:
+ 
+ Link: https://asciinema.org/a/sl3wfp2rrzW6N700rdemIEYsQ
+ 
+ # Άσκηση 5: 
+ 
+ ### Become productive with a calendar.
  
  Link: https://asciinema.org/a/NJLkCwTUlI0Lg0bSUSWvZ2IFW
  
