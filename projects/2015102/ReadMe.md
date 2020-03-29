@@ -64,7 +64,7 @@
  
  Image: https://github.com/p15vlio/gr/blob/master/images/KB_United_States_Dvorak.svg.png
  
- Thumpnail: https://github.com/p15vlio/gr/blob/master/images/KB_United_States_Dvorak_tn(thumpnail).jpg
+ Thumbnail: https://github.com/p15vlio/gr/blob/master/images/KB_United_States_Dvorak_tn(thumpnail).jpg
  
  MD: https://github.com/p15vlio/gr/blob/master/_gallery/Dvorak_keyboard.md
  
@@ -72,7 +72,7 @@
  
  Image: https://github.com/p15vlio/gr/blob/master/images/MS-Arc-Mouse.jpg
  
- Thumpnail: https://github.com/p15vlio/gr/blob/master/images/MS-Arc-Mouse(thumpnail).jpg
+ Thumbnail: https://github.com/p15vlio/gr/blob/master/images/MS-Arc-Mouse(thumpnail).jpg
  
  MD: https://github.com/p15vlio/gr/blob/master/_gallery/Arc_mouse.md
  
