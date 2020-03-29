@@ -37,3 +37,11 @@ text editor and plug-ins for code highlighting and autocompletion
 track your expenses
 
 To link της άσκησης είναι: https://asciinema.org/a/u76nE8Shr79rm14pYSJK9U2es
+
+Συμμετοχικό  υλικό:
+Οι φωτογραφίες επεξεργάστηκαν με το πρόγραμμα: http://makethumbnails.com/#dropzone
+
+Επίσης οι φωτογραφίες με τις περιγραφές ανέβηκαν στο mibook/gr ως εξής: 
+
+multimedia-keyboard: https://github.com/dimitratompoulidou/gr/blob/2015044/_gallery/multimedia-keyboard.md
+pointing-stick: https://github.com/dimitratompoulidou/gr/blob/2015044/_gallery/pointing-stick.md
