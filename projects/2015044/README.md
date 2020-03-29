@@ -54,4 +54,5 @@ multimedia-keyboard: https://github.com/dimitratompoulidou/gr/blob/2015044/_gall
 pointing-stick: https://github.com/dimitratompoulidou/gr/blob/2015044/_gallery/pointing-stick.md
 
 Φωτογραφία κανονικού μεγέθους:https://github.com/dimitratompoulidou/gr/blob/2015044/images/483px-Pointing_stick_Toshiba.jpg
+
 Φωτογραφία 160px: https://github.com/dimitratompoulidou/gr/blob/2015044/images/pointingstick.jpg
