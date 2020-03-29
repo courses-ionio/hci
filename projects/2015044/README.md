@@ -38,10 +38,20 @@ track your expenses
 
 To link της άσκησης είναι: https://asciinema.org/a/u76nE8Shr79rm14pYSJK9U2es
 
+
 Συμμετοχικό  υλικό:
+
 Οι φωτογραφίες επεξεργάστηκαν με το πρόγραμμα: http://makethumbnails.com/#dropzone
 
 Επίσης οι φωτογραφίες με τις περιγραφές ανέβηκαν στο mibook/gr ως εξής: 
 
 multimedia-keyboard: https://github.com/dimitratompoulidou/gr/blob/2015044/_gallery/multimedia-keyboard.md
+
+Φωτογραφία κανονικού μεγέθους:https://github.com/dimitratompoulidou/gr/blob/2015044/images/800px-Multimediakb.jpg
+Φωτογραφία 160px: https://github.com/dimitratompoulidou/gr/blob/2015044/images/multimediakeybosrd%20(1).jpg
+
+
 pointing-stick: https://github.com/dimitratompoulidou/gr/blob/2015044/_gallery/pointing-stick.md
+
+Φωτογραφία κανονικού μεγέθους:https://github.com/dimitratompoulidou/gr/blob/2015044/images/483px-Pointing_stick_Toshiba.jpg
+Φωτογραφία 160px: https://github.com/dimitratompoulidou/gr/blob/2015044/images/pointingstick.jpg
