@@ -39,4 +39,4 @@
 
 ## Exercise 4:track your expenses,	add a source of income and some expenses.
 
-#### URL:<a href="https://asciinema.org/a/E0HvbnvKGly87wiNfe4NygXxS" target="_blank"><img src="https://asciinema.org/a/E0HvbnvKGly87wiNfe4NygXxS.svg" /></a>
+#### URL:https://asciinema.org/a/E0HvbnvKGly87wiNfe4NygXxS
