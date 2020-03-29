@@ -36,3 +36,7 @@
 Για αυτη την εργασία χρησιμοποίησα την εντολη **task**. Με αυτο το τροπο δημιουργησαμε μια λιστα **TODO**.
 
 #### URL:https://asciinema.org/a/sUxwPjUfiCaba83e3QW3UvYUy?fbclid=IwAR16rl5O7QG4qOIe8j3IGd7tTtbGNxFfq8Y_Xj4o2nLHsF8SpAOWlN7wHGY
+
+## Exercise 4:track your expenses,	add a source of income and some expenses.
+
+#### URL:<a href="https://asciinema.org/a/E0HvbnvKGly87wiNfe4NygXxS" target="_blank"><img src="https://asciinema.org/a/E0HvbnvKGly87wiNfe4NygXxS.svg" /></a>
