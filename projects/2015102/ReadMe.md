@@ -58,6 +58,23 @@
  
  Link: https://asciinema.org/a/NJLkCwTUlI0Lg0bSUSWvZ2IFW
  
- ## Συμπεράσματα:
+ ## Συμμετοχικό Υλίκο:
  
- Με την υλοποίηση των παραπάνω ασκήσεων απέκτησα μια πρώτη επαφή με το λετουργικό σύστημα linux, και κυρίως με το terminal. Οι δυνατότητες είναι τεράστιες και μπορείς να κάνεις αρκετά πράγματα χωρίς γραφικό περιβάλλον, που σημαίνει πιο ελαφρυ σύστημα αφού δεν χρησιμοποιεί πόρους για εντυπωσιακά γραφικά. Εξοικειώθηκα με το file structure και τις βασικές εντολές του terminal.
+ ### 1η Εικόνα:
+ 
+ Image: https://github.com/p15vlio/gr/blob/master/images/KB_United_States_Dvorak.svg.png
+ 
+ Thumpnail: https://github.com/p15vlio/gr/blob/master/images/KB_United_States_Dvorak_tn(thumpnail).jpg
+ 
+ MD: https://github.com/p15vlio/gr/blob/master/_gallery/Dvorak_keyboard.md
+ 
+ ### 2η Εικόνα:
+ 
+ Image: https://github.com/p15vlio/gr/blob/master/images/MS-Arc-Mouse.jpg
+ 
+ Thumpnail: https://github.com/p15vlio/gr/blob/master/images/MS-Arc-Mouse(thumpnail).jpg
+ 
+ MD: https://github.com/p15vlio/gr/blob/master/_gallery/Arc_mouse.md
+ 
+ 
+ 
