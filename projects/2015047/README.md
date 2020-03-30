@@ -28,8 +28,10 @@ Link: https://asciinema.org/a/K13U8bFB9okfA45EnOIxny7B8
 track your expenses,	add a source of income and some expenses
 Link: https://asciinema.org/a/fIht5nir1q1Y5Vvw2cS9y3WEn (στη συγκεκριμένη άσκηση δυσκολεύτηκα και δεν ξέρω άμα είναι σωστή)
 
+
 ## Συμπεράσματα
 Με το χρόνο που αφιέρωσα σε αυτές τις εργασίες έμαθα να χρησιμοποιώ τα linux. Επίσης εξοικειώθηκα με την χρήση του terminal και τις διάφορες εντολές του. Το μόνο πρόβλημα που αντιμετώπισα είναι ότι το VirtualBox ήταν λίγο αργό και μου επιβράδυνε την δουλειά μου.
+
 
 ## Συμμετοχικό Υλικό
 Image1: https://github.com/p15baka1/gr/blob/master/images/1keyboard.normal.jpg
