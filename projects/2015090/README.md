@@ -49,9 +49,10 @@ https://asciinema.org/a/3JPigwQcXSHG0P9j2piXNLMuP
 Χρησιμοποίησα το taskwarrior για να φτιάξω μια λίστα με 4 εργασίες και να τις επεξεργαστώ
 
 ΑΣΚΗΣΗ 4
-https://asciinema.org/a/ZEqdCtFflLIJoZRkmeqO0iUgG?fbclid=IwAR2yyh8S3Vl-OTuddGWWHX95tl2SnFSiIMG8ga81deNXQkyfMl6VTkXbwXs
+https://asciinema.org/a/5qaW3ruBV4DeK1wHWXlpygRNK
 
-Δημιουργία και επεξεργασία ραντεβού με την εντολή calcurse
+Εμφάνιση του manual με την εντολή man calcurse
+Δημιουργία και επεξεργασία των ραντεβού με την εντολή calcurse.
 
 Συμπεράσματα
 
