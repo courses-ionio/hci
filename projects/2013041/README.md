@@ -10,6 +10,11 @@
 ## Εισαγωγή
 Έγιναν 4 ασκήσεις σε περιβάλλον linux ubuntu WSL2 (Windows Subsystem for Linux). Σε κάθε εργασία υπάρχει το asciinema url και περιγραφονται αναλυτικά τα βήματα υλοποίησής της καθώς και πηγές άντλησης πληροφοριών απο το διαδύκτιο γαι τα tools που χρησιμοποιήθηκαν.
 
+### Συμμετοχικό περιεχόμενο
+#### Αποθετήριο https://github.com/fivosf/gr
+### 1.Β
+#### Νέο διαδραστικό παράδειγμα https://github.com/fivosf/gr/blob/master/_remix/animated-button-menu.md
+
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system. Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).
 #### url asciinema: https://asciinema.org/a/qgSUwkBsC4WBCzimAIisNoNbo
 Χρησιμοποίησα το αρχείο .bashrc στο home directory μου, το οποίο επεξεργάστηκα με τον nano editor για να αλλάξω το command prompt με τον AM μου. Για να δω αμέσως μετά την αλλαγή χρησιμοποίησα το source.
