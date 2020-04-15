@@ -14,6 +14,8 @@
 #### Αποθετήριο https://github.com/fivosf/gr
 ### 1.Β
 #### Νέο διαδραστικό παράδειγμα (animated button & menu) https://fivos-gr.netlify.app/remix/animated-button-menu/
+### 1.Γ
+#### Νέα μελέτη περίπτωσης (Android) https://fivos-gr.netlify.app//case-study/android/
 
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system. Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).
 #### url asciinema: https://asciinema.org/a/qgSUwkBsC4WBCzimAIisNoNbo
