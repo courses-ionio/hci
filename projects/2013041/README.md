@@ -13,7 +13,7 @@
 ### Συμμετοχικό περιεχόμενο
 #### Αποθετήριο https://github.com/fivosf/gr
 ### 1.Β
-#### Νέο διαδραστικό παράδειγμα https://github.com/fivosf/gr/blob/master/_remix/animated-button-menu.md
+#### Νέο διαδραστικό παράδειγμα (animated button & menu) https://fivos-gr.netlify.app/remix/animated-button-menu/
 
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system. Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).
 #### url asciinema: https://asciinema.org/a/qgSUwkBsC4WBCzimAIisNoNbo
