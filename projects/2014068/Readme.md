@@ -12,6 +12,16 @@
 ## Εισαγωγή
 Επέλεξα να κάνω τέσσερις εργασίες σε linux terminal όπως περιγράφοντε στο αποθετήριο του μαθήματος. Οι εργασίες έγιναν σε περιβάλλον linux Ubuntu 18.04 LTS, μέσω WSL 2 (Windows Subsystem for Linux) σε windows 10. Ολες οι εργασίες στην αναφορά περιέχουν link στο recorded session του asciinema, καθώς και link σε συνδεσμους των εργαλείων που χρησιμοποιήθηκαν, καθώς σε μερικές εργασίες χρειάστηκε να ψάξω στις επισημες σελίδες των εργαλέιων για να μπορέσω να τα λειτουργησω.
 
+## Συμμετοχικό εκπαιδευτικό υλικό
+#### Προσωπικό αποθετήριο https://github.com/p14pets/gr
+#### url σελίδας βιβλίου https://p14pets-gr.netlify.app/
+
+### Παραδοτέο 1.Α
+Προσθήκη 2 νέων εικόνων με λεζάντα.
+
+#### Atari https://p14pets-gr.netlify.app/gallery/atari/
+#### Ocullus rift https://p14pets-gr.netlify.app/gallery/ocullus-rift/
+
 ## Άσκηση 1. Σet-up the main dependencies and demonstrate your base system. change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
 #### url asciinema https://asciinema.org/a/yCnqSUKWRPNje3GVvlULUYAuc
