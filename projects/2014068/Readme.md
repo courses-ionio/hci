@@ -20,7 +20,7 @@
 Προσθήκη 2 νέων εικόνων με λεζάντα.
 
 #### Atari https://p14pets-gr.netlify.app/gallery/atari/
-#### Ocullus rift https://p14pets-gr.netlify.app/gallery/ocullus-rift/
+#### Oculus rift https://p14pets-gr.netlify.app/gallery/oculus-rift/
 
 ## Άσκηση 1. Σet-up the main dependencies and demonstrate your base system. change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
