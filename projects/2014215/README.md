@@ -10,7 +10,22 @@
 ### Προσωπικό αποθετήριο https://github.com/p2014xygk/hci 
 
 ## Εισαγωγή
-Υλοποιήθηκαν 4 συνολικά ασκήσεις σε linux terminal. Οι ασκήσεις γίνανε σε raspberry pi με λειτουργικό raspbian buster. Σε όλες τις ασκήσες υπάρχει συνδεσμος στο asciinema, όππου φαινεται αναλυτικά η διαδικασία υλοποίησης τους. Σε κάποιες ασκήσεις έγινε διαφορετική επιλογή εργαλέιων απο τα προτεινόμενα, ή γιατι ήταν πιο εύκολά στη χρήση ή πιο ενδιαφέροντα.
+Υλοποιήθηκαν 4 συνολικά ασκήσεις σε linux terminal, και δύο παραδοτέα συμμετοχικού εκπαιδευτικού υλικού.Στο συμμετοχικό εκπαιδευτικό υλικό προστέθηκαν 2 νέες εικόνες στη σελίδα του βιβλίου καθώς και μία νέα βιογραφία. Οι ασκήσεις γίνανε σε raspberry pi με λειτουργικό raspbian buster. Σε όλες τις ασκήσες υπάρχει συνδεσμος στο asciinema, όπου φαινεται αναλυτικά η διαδικασία υλοποίησης τους. Σε κάποιες ασκήσεις έγινε διαφορετική επιλογή εργαλέιων απο τα προτεινόμενα, ή γιατι ήταν πιο εύκολά στη χρήση ή πιο ενδιαφέροντα.
+
+##  Συμμετοχικό εκπαιδευτικό υλικό
+#### url αποθετηρίου https://github.com/p2014xygk/gr
+#### url σελιδας βιβλίου https://p2014xygk-gr.netlify.app/
+
+#### Παραδοτέο 1.Α
+Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.
+
+##### Android studio https://p2014xygk-gr.netlify.app/gallery/android-studio/
+##### GIS https://p2014xygk-gr.netlify.app/gallery/gis/
+
+#### Παραδοτέο 1.Γ.2
+μια νέα βιογραφία
+
+##### Larry Tesler https://p2014xygk-gr.netlify.app/biography/larry-tesler/
 
 ### Eργασία 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
