@@ -158,6 +158,22 @@ https://jrnl.readthedocs.io/en/latest/installation.html
 https://jrnl.sh/usage/
 
 
+### Επιπλέον εργασία 6. Οrganise the terminal window into multiple areas. Use one window to search-edit local files or browse the web and another window for performance monitoring.
+#### url asciinema: https://asciinema.org/a/fM59nOmQc5Xx27jmr6Sy7bTCC
+Χρησιμοποίησα το tmux και το εγκατέστησα με την εντολή
+
+```
+sudo apt-get tmux
+tmux
+```
+
+Στη συνέχεια δημιουργησα νέο παράθυρο στο terminal μέσω του tmux όπου χρησιμοποίησα το htop για performance monitoring. Πίσω στο αρχικό παράθυρο χρησιμοποίησα τον ranger για να περιηγηθώ στο file system και τον nano editor για να επεξεργαστώ ένα αρχείο που είχα δημιουργήσει νωρίτερα γι αυτό τον σκοπό.
+
+#### Πηγές
+https://tmuxcheatsheet.com/
+
+https://www.cyberciti.biz/faq/how-to-install-htop-on-ubuntu-linux-using-apt/
+
 
 
 ## Συμπεράσματα
