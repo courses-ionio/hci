@@ -132,6 +132,34 @@ task burndown
 
 Τα πάντα περιγράφονται αναλυτικά στην επίσημη ιστοσελίδα https://taskwarrior.org/
 
+### Επιπλέον εργασία 5. Track your time with a simple journal
+#### url asciinema: https://asciinema.org/a/IAAzTwrxRmYesRm9d89ooclne
+Εγκατέστησα το jrnl με την εντολή 
+
+```
+sudo pip install jrnl
+```
+
+Η χρήση του jrnl είναι πάρα πολύ εύκολη και το documentation πολύ αναλυτικό. Για να προσθέσεις ένα entry απλα χρησιμοποιείς την εντολή:
+
+```
+jrnl
+```
+
+Για να επεξεργαστείς ή να σβήσεις κάποιο entry αρχικά πρέπει να ορίσεις τον editor με τον οποίο θέλεις να ανοιγουν ta entries. Χρησιμοποίησα τον nano. Για να ορίσεις τον editor, καθώς και άλλες ρυθμίσεις επεξεργαζεσαι το jrnl.yaml.
+
+```
+sudo nano /home/osboxes/.config/jrnl/jrnl.yaml
+```
+
+#### Πηγές 
+https://jrnl.readthedocs.io/en/latest/installation.html
+
+https://jrnl.sh/usage/
+
+
+
+
 ## Συμπεράσματα
 Με την υλοποίηση των παραπάνω ασκήσεων απέκτησα μια πρώτη επαφή με το λετουργικό σύστημα linux, και κυρίως με το terminal. Οι δυνατότητες είναι τεράστιες και μπορείς να κάνεις αρκετά πράγματα χωρίς γραφικό περιβάλλον, που σημαίνει πιο ελαφρυ σύστημα αφού δεν χρησιμοποιεί πόρους για εντυπωσιακά γραφικά. Εξοικειώθηκα με το file structure και τις βασικές εντολές του terminal.
 
