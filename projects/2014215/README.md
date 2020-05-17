@@ -27,9 +27,17 @@
 μια νέα βιογραφία
 
 ##### Larry Tesler https://p2014xygk-gr.netlify.app/biography/larry-tesler/
+##### Πηγές
+https://en.wikipedia.org/wiki/Larry_Tesler
 
 #### Επιπλέον παραδοτέο 1.Β
 Νέο διαδραστικό παράδειγμα https://p2014xygk-gr.netlify.app/remix/parallax-curtain/
+
+#### Επιπλέον παραδοτέο 1.Γ.1
+Νέα μελέτη περίπτωσης Reddit https://p2014xygk-gr.netlify.app/case-study/reddit/
+#### Πηγές 
+https://en.wikipedia.org/wiki/Reddit
+
 
 ### Eργασία 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
