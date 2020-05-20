@@ -10,7 +10,34 @@
 ### Προσωπικό αποθετήριο https://github.com/p2014xygk/hci 
 
 ## Εισαγωγή
-Υλοποιήθηκαν 4 συνολικά ασκήσεις σε linux terminal. Οι ασκήσεις γίνανε σε raspberry pi με λειτουργικό raspbian buster. Σε όλες τις ασκήσες υπάρχει συνδεσμος στο asciinema, όππου φαινεται αναλυτικά η διαδικασία υλοποίησης τους. Σε κάποιες ασκήσεις έγινε διαφορετική επιλογή εργαλέιων απο τα προτεινόμενα, ή γιατι ήταν πιο εύκολά στη χρήση ή πιο ενδιαφέροντα.
+Υλοποιήθηκαν 4 + 2 συνολικά ασκήσεις σε linux terminal, και 2 + 2 παραδοτέα συμμετοχικού εκπαιδευτικού υλικού.Στο συμμετοχικό εκπαιδευτικό υλικό προστέθηκαν 2 νέες εικόνες στη σελίδα του βιβλίου, μία νέα βιογραφία, ένα νέο διαδραστικό παράδειγμα και μια νέα μελέτη περίπτωσης. Οι ασκήσεις γίνανε σε raspberry pi με λειτουργικό raspbian buster. Σε όλες τις ασκήσες υπάρχει συνδεσμος στο asciinema, όπου φαινεται αναλυτικά η διαδικασία υλοποίησης τους. Σε κάποιες ασκήσεις έγινε διαφορετική επιλογή εργαλέιων απο τα προτεινόμενα, ή γιατι ήταν πιο εύκολά στη χρήση ή πιο ενδιαφέροντα.
+
+##  Συμμετοχικό εκπαιδευτικό υλικό
+#### url αποθετηρίου https://github.com/p2014xygk/gr
+#### url σελιδας βιβλίου https://p2014xygk-gr.netlify.app/
+#### codepen profile https://codepen.io/p2014xygk
+
+#### Παραδοτέο 1.Α
+Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση.
+
+##### Android studio https://p2014xygk-gr.netlify.app/gallery/android-studio/
+##### GIS https://p2014xygk-gr.netlify.app/gallery/gis/
+
+#### Παραδοτέο 1.Γ.2
+μια νέα βιογραφία
+
+##### Larry Tesler https://p2014xygk-gr.netlify.app/biography/larry-tesler/
+##### Πηγές
+https://en.wikipedia.org/wiki/Larry_Tesler
+
+#### Επιπλέον παραδοτέο 1.Β
+Νέο διαδραστικό παράδειγμα https://p2014xygk-gr.netlify.app/remix/parallax-curtain/
+
+#### Επιπλέον παραδοτέο 1.Γ.1
+Νέα μελέτη περίπτωσης Reddit https://p2014xygk-gr.netlify.app/case-study/reddit/
+#### Πηγές 
+https://en.wikipedia.org/wiki/Reddit
+
 
 ### Eργασία 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
@@ -116,6 +143,50 @@ task burndown
 ```
 
 Τα πάντα περιγράφονται αναλυτικά στην επίσημη ιστοσελίδα https://taskwarrior.org/
+
+### Επιπλέον εργασία 5. Track your time with a simple journal
+#### url asciinema: https://asciinema.org/a/IAAzTwrxRmYesRm9d89ooclne
+Εγκατέστησα το jrnl με την εντολή 
+
+```
+sudo pip install jrnl
+```
+
+Η χρήση του jrnl είναι πάρα πολύ εύκολη και το documentation πολύ αναλυτικό. Για να προσθέσεις ένα entry απλα χρησιμοποιείς την εντολή:
+
+```
+jrnl
+```
+
+Για να επεξεργαστείς ή να σβήσεις κάποιο entry αρχικά πρέπει να ορίσεις τον editor με τον οποίο θέλεις να ανοιγουν ta entries. Χρησιμοποίησα τον nano. Για να ορίσεις τον editor, καθώς και άλλες ρυθμίσεις επεξεργαζεσαι το jrnl.yaml.
+
+```
+sudo nano /home/osboxes/.config/jrnl/jrnl.yaml
+```
+
+#### Πηγές 
+https://jrnl.readthedocs.io/en/latest/installation.html
+
+https://jrnl.sh/usage/
+
+
+### Επιπλέον εργασία 6. Οrganise the terminal window into multiple areas. Use one window to search-edit local files or browse the web and another window for performance monitoring.
+#### url asciinema: https://asciinema.org/a/fM59nOmQc5Xx27jmr6Sy7bTCC
+Χρησιμοποίησα το tmux και το εγκατέστησα με την εντολή
+
+```
+sudo apt-get tmux
+tmux
+```
+
+Στη συνέχεια δημιουργησα νέο παράθυρο στο terminal μέσω του tmux όπου χρησιμοποίησα το htop για performance monitoring. Πίσω στο αρχικό παράθυρο χρησιμοποίησα τον ranger για να περιηγηθώ στο file system και τον nano editor για να επεξεργαστώ ένα αρχείο που είχα δημιουργήσει νωρίτερα γι αυτό τον σκοπό.
+
+#### Πηγές
+https://tmuxcheatsheet.com/
+
+https://www.cyberciti.biz/faq/how-to-install-htop-on-ubuntu-linux-using-apt/
+
+
 
 ## Συμπεράσματα
 Με την υλοποίηση των παραπάνω ασκήσεων απέκτησα μια πρώτη επαφή με το λετουργικό σύστημα linux, και κυρίως με το terminal. Οι δυνατότητες είναι τεράστιες και μπορείς να κάνεις αρκετά πράγματα χωρίς γραφικό περιβάλλον, που σημαίνει πιο ελαφρυ σύστημα αφού δεν χρησιμοποιεί πόρους για εντυπωσιακά γραφικά. Εξοικειώθηκα με το file structure και τις βασικές εντολές του terminal.
