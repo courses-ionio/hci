@@ -133,7 +133,6 @@ task
 ```
 
 ## Άσκηση 4. Plan your time with a calendar. Add, edit, search for an appointment.
-
 #### url asciinema  https://asciinema.org/a/OO0DtR1dPoH0VGgJFonKYPXqE
 
 Για την άσκηση αυτή χρησιμοποίησα το calcurse https://calcurse.org/. Η εγκατάσταση γίνε πολύ εύκολα με
@@ -149,6 +148,32 @@ calcurse
 ```
 
 Είναι πάρα πολύ εύκολο στη χρήση. Έυκολη αναζήτηση appoinmets απο το calendar, επιλογή ωρας έναρξης και ώρας λήξης, ή ολοήμερο event. Μπορείς να προσθέσεις και tasks σε todo list
+
+## Επιπλέον άσκηση 5. Οrganise the terminal window into multiple areas. Use one window to search-edit local files or browse the web and another window for performance monitoring.
+#### url asciinema  https://asciinema.org/a/qNSB43kNQIMbDiFSBameTBAOB
+Εγκατέστησα το tmux και το htop για performance monitoring
+
+```
+sudo apt-get install tmux
+sudo apt-get install htop
+```
+
+έτρεξα το tmux και δημιουργησα νέο παράθυρο όπου ξεκίνησα το performance monitoring
+
+```
+tmux
+ctrl b % //ανοίγει το νέο παράθυρο
+htop 
+ctrl b ; //εναλλαγή active παραθύρου
+```
+
+Πίσω στο αρχικό παράθυρο έτρεξα το ranger γαι να περιηγηθώ στο file system.
+
+```
+ranger
+```
+
+Το tmux τερματίζει πατώντας ctrl b :, γράφωντας kill-session
 
 ## Συμπεράσματα
 Κάνοντας τις παραπάνω ασκήσεις έμαθα να χρησιμοποιώ το λειτουργικό linux και τις βασικές εντολές του linux terminal, όπως η εξερεύνηση των αρχείων, εγκατάσταση εργαλείων, διάβασμα των manuals και χρήση editors, κυρίως του nano. Είναι πολύ σημαντική η δυνατότητα χρήσης συστήματος linux σε περιβάλλον windows, καθώς δεν υπάρχει πια η ανάγκη εγκατάστασης virual box όπως το vmware και άλλα. Με το wsl2 είναι πιο εύκολο πλέον.
