@@ -175,6 +175,30 @@ ranger
 
 Το tmux τερματίζει πατώντας ctrl b :, γράφωντας kill-session
 
+## Επιπλέον άσκηση 6. Surf the web.  Create a new elvi
+#### url asciinema  https://asciinema.org/a/14D3J1XDWdr4rWBV5S5evuHhX
+
+Εγκατέστησα το surfraw
+
+```
+sudo apt-get install surfraw
+```
+εκανα copy το youtube elvi στον φάκελο .config/surfraw/elvi με ονομασία stackoverflow και επεξεργάστηκα το νέο αυτό αρχείο ώστε να μπορώ να κάνω πλέον search στο stackoverflow. To stackoverflow χρησιμοποιεί το εξίς query στο url: https://stackoverflow.com/search?q=
+
+```
+sr -elvi //δείχνει πλέον το νέο local elvi
+sr stackoverflow java //ανοίγει τον browser με το αποτέλεσμα
+```
+
+![surfraw result](result.jpg)
+
+### Πηγές
+https://www.youtube.com/watch?v=FvimaTL_kJU
+
+https://manpages.debian.org/testing/surfraw/surfraw.1.en.html
+
+
+
 ## Συμπεράσματα
 Κάνοντας τις παραπάνω ασκήσεις έμαθα να χρησιμοποιώ το λειτουργικό linux και τις βασικές εντολές του linux terminal, όπως η εξερεύνηση των αρχείων, εγκατάσταση εργαλείων, διάβασμα των manuals και χρήση editors, κυρίως του nano. Είναι πολύ σημαντική η δυνατότητα χρήσης συστήματος linux σε περιβάλλον windows, καθώς δεν υπάρχει πια η ανάγκη εγκατάστασης virual box όπως το vmware και άλλα. Με το wsl2 είναι πιο εύκολο πλέον.
 
