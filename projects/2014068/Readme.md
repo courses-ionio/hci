@@ -173,6 +173,12 @@ ctrl b ; //εναλλαγή active παραθύρου
 ranger
 ```
 
+### Πηγές
+
+https://www.youtube.com/watch?v=BHhA_ZKjyxo
+
+https://superuser.com/questions/777269/how-to-close-a-tmux-session
+
 Το tmux τερματίζει πατώντας ctrl b :, γράφωντας kill-session
 
 ## Επιπλέον άσκηση 6. Surf the web.  Create a new elvi
