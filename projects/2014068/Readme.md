@@ -23,9 +23,14 @@
 #### Oculus rift https://p14pets-gr.netlify.app/gallery/oculus-rift/
 
 ### Παραδοτέο 1.Γ.2
-Προαθήκη νέας βιογραφίας
+Προσθήκη νέας βιογραφίας
 
 #### Ivan Sutherland https://p14pets-gr.netlify.app/biography/sutherland/
+
+### Επιπλέον παραδοτέο 1.Γ.1
+Νέα μελέτη περίπτωσης
+
+#### Twitter https://p14pets-gr.netlify.app/case-study/twitter/
 
 ## Άσκηση 1. Σet-up the main dependencies and demonstrate your base system. change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
