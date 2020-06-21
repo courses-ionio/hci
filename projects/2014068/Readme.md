@@ -39,6 +39,15 @@ https://en.wikipedia.org/wiki/Ivan_Sutherland
 ##### Πηγές
 https://en.wikipedia.org/wiki/Twitter
 
+### Επιπλέον παραδοτέο 1.B
+Νέο διαδραστικό παράδειγμα
+
+#### Image map https://p14pets-gr.netlify.app/remix/imagemap/
+##### Αποθετήριο χάρτη https://github.com/p14pets/Image-map
+
+##### Πηγές
+###### shp περιφέρειες Ελλάδας https://geodata.gov.gr/en/dataset/periphereies-elladas/resource/7c80a2c1-93b7-4814-9fc4-245e775acaa6
+
 ## Άσκηση 1. Σet-up the main dependencies and demonstrate your base system. change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
 #### url asciinema https://asciinema.org/a/yCnqSUKWRPNje3GVvlULUYAuc
