@@ -27,10 +27,17 @@
 
 #### Ivan Sutherland https://p14pets-gr.netlify.app/biography/sutherland/
 
+##### Πηγές
+https://en.wikipedia.org/wiki/Ivan_Sutherland
+
+
 ### Επιπλέον παραδοτέο 1.Γ.1
 Νέα μελέτη περίπτωσης
 
 #### Twitter https://p14pets-gr.netlify.app/case-study/twitter/
+
+##### Πηγές
+https://en.wikipedia.org/wiki/Twitter
 
 ## Άσκηση 1. Σet-up the main dependencies and demonstrate your base system. change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
