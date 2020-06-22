@@ -59,6 +59,28 @@ ctrl b +%.To δεξί παράθυρο χρησμιμοποιήθηκε για p
 
 Για τη συγκεκριμένη εργασία πήρα πληροφορίες από το εξής βίντεο : https://www.youtube.com/watch?v=srakeCXCITw
 
+Άσκηση 6 : https://asciinema.org/a/IOMTkcq8Bn04ukjWKIGthJRyD
+
+Track your expenses
+
+Εμφάνιση των αρχείων,επιλογή του αρχείου ledger το οποίο δημιούργησα νωρίτερα και μέσα στo budget.txt πρόσθεσα τα έξοδα και τις συναλλαγές.Με την εντολή nano budget.txt μπορώ να εμφανίσω τις συναλλαγές και να προσθέσω καινούργιες.Με την εντολή ledger -f budget.txt bal εμφανίζω το σύνολο των εξόδων,το εισοδημα,το αρχικό κεφάλαιο και τα περιουσιακά στοιχεία.Με την εντολή ledger -f budget.txt bal expenses εμφανίζω τα νέα έξοδα μετά την προσθήκη νέου εξόδου.Με την εντολή ledger -f budget.txt -M reg εμφανίζω το μηνιαίο σύνολο ,στη συνέχεια το μηνιαίο εισόδημα  με ledger -f budget.txt -M reg income και τέλος τα μηνιαία έξοδα για λαχανικά από 3/6/2020 με την εντολή
+ledger -f budget.txt bal groceries --p "since 2020/06/03".
+
+Για τη συγκεκριμένη εργασία πήρα πληροφορίες από το εξής βίντεο: https://www.youtube.com/watch?v=cjoCNRpLanY&t=1007s
+
+Άσκηση 7 : https://asciinema.org/a/7owMR5W5xJjfOAmwKuP5PQ3gl change your default shell to zsh
+           https://asciinema.org/a/lvwQBeOjrw2kgXAdIU0ET5fzn configure zsh
+           
+Try a different shell
+
+Στο πρώτο βίντεο γίνεται εγκατάσταση του zsh με την εντολή sudo apt intall zsh και εμφανίζεται η έκδοση.Στη συνέχεια για την αλλαγή του shell από bash σε zsh εκτελείται η εντολή chsh -s $(which zsh).Έπειτα γίνεται restart ώστε να γίνει η αλλαγή γι΄αυτό και χώρισα την άσκηση σε δύο βίντεο.
+
+Στο δεύτερο βίντεο με την εντολή sudo nano /etc/passwd δείχνω την αλλαγή του shell σε zsh shell.Στη συνέχεια πραγματοποιώ αλλαγή του θέματος.Με την εντολη sudo nano .zshrc επεξεργάζομαι το .zshrc και αλλάζω το θέμα σε "agnoster".Με την εντολή source ~/.zshrc εμφανίζω την αλλαγή του θέματος.Έπειτα αφού έχω εγκαταστήσει το plugin autosuggestions κάνοντας επικόλληση το εξής: git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions,με την εντολή sudo nano .zshrc προσθέτω στα plugins zsh-autosuggestions.To ίδιο πραγματοποιώ και για το plugin syntax highlighting κάνοντας επικόλληση το εξής : git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting και με την εντολή sudo nano.zshrc προσθέτω στα plugins zsh-syntax-highlighting.Tέλος με την εντολή  source ~/.zshrc εμφανίζονται οι αλλαγές.
+
+Για τη συγκεκριμένη εργασία πήρα πληροφορίες από τα εξής βίντεο: https://www.youtube.com/watch?v=BwFlp2b9MPU&t=412s
+                                                                 https://www.youtube.com/watch?v=4KBuPCeF9Gc&t=512s 
+                                                                 https://www.youtube.com/watch?v=CPTWbWXcVp8&t=1s
+                                                                 
 ## ΣΥΜΠΕΡΑΣΜΑΤΑ
 
 Mε τις παραπάνω ασκήσεις χρησιμοποίησα το λειτουργικό linux και τις βασικές εντολές του linux terminal.Εξοικιώθηκα με την εγκατάσταση των Ubuntu μέσω virtualBox,το περιβάλλον του τερματικού και κάποιες από τις βασικές δυνατότητες που προσφέρει.
@@ -82,7 +104,12 @@ https://github.com/p15gkou/gr/blob/2015090/images/fingerprint_scanner.jpg
 https://github.com/p15gkou/gr/blob/2015090/images/Webex_Meeting.jpg
 https://github.com/p15gkou/gr/blob/2015090/images/Webex_Meeting-thumb.jpg
 
-Γ.Βιογραφία
+B. Διαδραστικά παραδείγματα 
+
+https://github.com/p15gkou/gr/blob/2015090/_remix/image%20SVG%20shape.md
+https://github.com/p15gkou/gr/blob/2015090/_remix/switch%20button.md
+
+Γ.Βιογραφίες
 
 https://github.com/p15gkou/gr/blob/2015090/_biography/bio-William%20English.md
 https://github.com/p15gkou/gr/blob/2015090/_biography/William%20English.md
