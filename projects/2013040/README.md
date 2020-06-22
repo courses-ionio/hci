@@ -11,6 +11,16 @@
 ## Εισαγωγή
 Έγιναν συνολικά 4 ασκήσεις σε περιβάλλον linux με τη χρήση του terminal οπως περιγραφεται στις οδηγίες. Για την υλοποίηση των ασκήσεων εγκατέστησα το Oracle vm virtual box https://www.virtualbox.org/, καθώς και ένα linux image Ubuntu 19.10 Eoan Ermine από https://www.osboxes.org/ubuntu/. Το εικονικό σύστημα έχει 2gb ram. Η υλοποίηση όλων των εργασιών έχει καταγραφεί σε asciinema sessions. Όπου έχει γίνει αναζήτηση στο διαδίκτυο για πληροφορίες παραθέτοντε τα σχετικά urls.
 
+## Συμμετοχικό περιεχόμενο
+### Url σελίδας βιβλίου https://p13sian-gr.netlify.app/
+### Αποθετήριο βιβλίου https://github.com/p13sian/gr
+
+#### Παραδοτέο 1.Α
+Προσθήκη δύο νέων εικόνων 
+
+##### Remarkable https://p13sian-gr.netlify.app/gallery/remarkable/
+##### Virtuix omni https://p13sian-gr.netlify.app/gallery/omni/
+
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 #### asciinema: https://asciinema.org/a/xcewjj3h9W8XBDfm8WNn93UtN
 Άλλαξα το command prompt απο το αρχείο .bashrc. Το configuration του αρχείου φαίνεται στο recorded session. Για να τροποποιήσω το αρχείο χρησιμοποίησα τον nano editor
