@@ -78,7 +78,9 @@ Try a different shell
 Στο δεύτερο βίντεο με την εντολή sudo nano /etc/passwd δείχνω την αλλαγή του shell σε zsh shell.Στη συνέχεια πραγματοποιώ αλλαγή του θέματος.Με την εντολη sudo nano .zshrc επεξεργάζομαι το .zshrc και αλλάζω το θέμα σε "agnoster".Με την εντολή source ~/.zshrc εμφανίζω την αλλαγή του θέματος.Έπειτα αφού έχω εγκαταστήσει το plugin autosuggestions κάνοντας επικόλληση το εξής: git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions,με την εντολή sudo nano .zshrc προσθέτω στα plugins zsh-autosuggestions.To ίδιο πραγματοποιώ και για το plugin syntax highlighting κάνοντας επικόλληση το εξής : git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting και με την εντολή sudo nano.zshrc προσθέτω στα plugins zsh-syntax-highlighting.Tέλος με την εντολή  source ~/.zshrc εμφανίζονται οι αλλαγές.
 
 Για τη συγκεκριμένη εργασία πήρα πληροφορίες από τα εξής βίντεο: https://www.youtube.com/watch?v=BwFlp2b9MPU&t=412s
+
                                                                  https://www.youtube.com/watch?v=4KBuPCeF9Gc&t=512s 
+                                                                 
                                                                  https://www.youtube.com/watch?v=CPTWbWXcVp8&t=1s
                                                                  
 ## ΣΥΜΠΕΡΑΣΜΑΤΑ
