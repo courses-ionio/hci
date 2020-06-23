@@ -21,6 +21,14 @@
 ##### Remarkable https://p13sian-gr.netlify.app/gallery/remarkable/
 ##### Virtuix omni https://p13sian-gr.netlify.app/gallery/omni/
 
+#### Παραδοτέο 1.Γ.2
+Νέα βιογραφία
+
+##### Jef Raskin https://p13sian-gr.netlify.app/biography/raskin/
+
+###### Πηγή 
+https://en.wikipedia.org/wiki/Jef_Raskin
+
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 #### asciinema: https://asciinema.org/a/xcewjj3h9W8XBDfm8WNn93UtN
 Άλλαξα το command prompt απο το αρχείο .bashrc. Το configuration του αρχείου φαίνεται στο recorded session. Για να τροποποιήσω το αρχείο χρησιμοποίησα τον nano editor
