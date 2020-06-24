@@ -169,6 +169,7 @@ https://www.youtube.com/watch?v=FvimaTL_kJ
 https://gitlab.com/surfraw/Surfraw
 
 ### Επιπλέον άσκηση 6. Become productive with a todo list. Create a list of todos, edit, delete, and check some of them.
+#### asciinema: https://asciinema.org/a/PyxHvHGKUM96E4LvL7gWw9WlF
 Εγκατέστησα το taskwarrior
 
 ```
