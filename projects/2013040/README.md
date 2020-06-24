@@ -37,6 +37,15 @@ https://en.wikipedia.org/wiki/Jef_Raskin
 ###### Πηγή 
 https://en.wikipedia.org/wiki/Raspberry_Pi
 
+#### Επιπλέον παραδοτέο 1.B
+Nέο διαδραστικό παράδειγμα
+
+##### Image hover effect https://p13sian-gr.netlify.app/remix/hover/
+
+###### Πηγές
+https://css-tricks.com/snippets/css/scale-on-hover-with-webkit-transition/
+
+
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 #### asciinema: https://asciinema.org/a/xcewjj3h9W8XBDfm8WNn93UtN
 Άλλαξα το command prompt απο το αρχείο .bashrc. Το configuration του αρχείου φαίνεται στο recorded session. Για να τροποποιήσω το αρχείο χρησιμοποίησα τον nano editor
