@@ -151,5 +151,25 @@ https://www.youtube.com/watch?v=FvimaTL_kJ
 
 https://gitlab.com/surfraw/Surfraw
 
+### Επιπλέον άσκηση 6. Become productive with a todo list. Create a list of todos, edit, delete, and check some of them.
+Εγκατέστησα το taskwarrior
+
+```
+sudo apt-get install taskwarrior
+```
+
+Πρόσθεσα tasks, τα επεξεργάστηκα, τσέκαρα κάποια απο αυτα και έσβησα μερικά.
+
+```
+task add <your task>
+task add <your task> due:<date>
+task <task number> edit
+task <task number> delete
+task <task number> done
+```
+
+#### Πληροφορίες σχετικά με την υλοποίηση της άσκησης βρήκα:
+https://taskwarrior.org/docs/start.html
+
 ## Συμπεράσματα
 Η χρήση του linux command line για την υλοποίηση καθημερινών tasks, μπορεί να φαντάζει δύσκολη αρχικά, όμως με την εξοικείωση του χρήστη δεν έχει τίποτα να ζηλέψει απο τα windows. Οι δυνατότητες του terminal είναι πολλές, και υπάρχουν πάρα πολλα εργαλεία με documentation που μπορύν να κάνουν τη ζωή (ειδικά ενός developer) πολύ πιο εύκολη. Με την υλοποίηση των παραπάνω ασκήσεων eξοικειώθηκα στις βασικές εντολές του linux terminal και του filesystem γενικότερα, ενώ έμαθα να χρησιμοποίώ τα παραπάνω εργαλεία.
