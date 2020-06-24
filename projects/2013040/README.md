@@ -144,7 +144,7 @@ Xρησιμοποίησα το surfraw για να κανω αναζητηση �
 sr wikileaks trump
 ```
 
-![Search result](search.jpg)
+![Search result](search.png)
 
 #### Πληροφορίες σχετικά με την υλοποίηση της άσκησης βρήκα:
 https://www.youtube.com/watch?v=FvimaTL_kJ
