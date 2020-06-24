@@ -138,6 +138,14 @@ cp /usr/lib/surfraw/youtube wikileaks
 
 Eπεξεργαστηκα το αρχείο ώστε να το κάνω να ψάχνει στο wikileaks αντι για το youtube.
 
+Xρησιμοποίησα το surfraw για να κανω αναζητηση στο wikileaks σχετικά με τον Trump
+
+```
+sr wikileaks trump
+```
+
+![Search result](search.jpg)
+
 #### Πληροφορίες σχετικά με την υλοποίηση της άσκησης βρήκα:
 https://www.youtube.com/watch?v=FvimaTL_kJ
 
