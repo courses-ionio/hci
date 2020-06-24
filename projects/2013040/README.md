@@ -121,5 +121,27 @@ https://www.youtube.com/watch?v=BHhA_ZKjyxo
 
 https://www.howtoforge.com/tutorial/ubuntu-performance-monitoring/
 
+### Επιπλέον άσκηση 5. Surf the web. Create a new elvi.
+#### asciinema: https://asciinema.org/a/CX1L2YlotFDCM7DdtVViIDSJl
+Χρησιμοποίησα το surfraw και το εγκατέστησα με την εντολή
+
+```
+sudo apt-get install surfraw
+```
+
+στη συνέχεια δημιούργησα τα απαραίτητα directory καθώς το surfraw διαβάζει local elvi apo /home/user/.config/surfraw/elvi
+αντέγραψα στο νέο directory ένα ήδη υπάρχον elvi και το μετονόμασα σε wikileaks
+
+```
+cp /usr/lib/surfraw/youtube wikileaks
+```
+
+Eπεξεργαστηκα το αρχείο ώστε να το κάνω να ψάχνει στο wikileaks αντι για το youtube.
+
+#### Πληροφορίες σχετικά με την υλοποίηση της άσκησης βρήκα:
+https://www.youtube.com/watch?v=FvimaTL_kJ
+
+https://gitlab.com/surfraw/Surfraw
+
 ## Συμπεράσματα
 Η χρήση του linux command line για την υλοποίηση καθημερινών tasks, μπορεί να φαντάζει δύσκολη αρχικά, όμως με την εξοικείωση του χρήστη δεν έχει τίποτα να ζηλέψει απο τα windows. Οι δυνατότητες του terminal είναι πολλές, και υπάρχουν πάρα πολλα εργαλεία με documentation που μπορύν να κάνουν τη ζωή (ειδικά ενός developer) πολύ πιο εύκολη. Με την υλοποίηση των παραπάνω ασκήσεων eξοικειώθηκα στις βασικές εντολές του linux terminal και του filesystem γενικότερα, ενώ έμαθα να χρησιμοποίώ τα παραπάνω εργαλεία.
