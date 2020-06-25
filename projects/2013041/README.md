@@ -22,8 +22,17 @@
 ### Παραδοτέο 1.Β
 #### Νέο διαδραστικό παράδειγμα (animated button & menu) https://fivos-gr.netlify.app/remix/animated-button-menu/
 
-### Επιπλέον παραδοτέο 1.Γ
+### Επιπλέον παραδοτέο 1.Γ.1
 #### Νέα μελέτη περίπτωσης (Android) https://fivos-gr.netlify.app//case-study/android/
+
+##### πηγή 
+https://en.wikipedia.org/wiki/Android_(operating_system)
+
+### Επιπλέον παραδοτέο 1.Γ.2
+#### Βιογραφία Douglas Carl Engelbart https://fivos-gr.netlify.app/biography/engelbart/
+
+##### πηγή 
+https://en.wikipedia.org/wiki/Douglas_Engelbart
 
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system. Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).
 #### url asciinema: https://asciinema.org/a/qgSUwkBsC4WBCzimAIisNoNbo
