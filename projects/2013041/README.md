@@ -13,9 +13,16 @@
 ### Συμμετοχικό περιεχόμενο
 #### Αποθετήριο https://github.com/fivosf/gr
 #### URL σελίδας βιβλίου https://fivos-gr.netlify.app/
-### 1.Β
+
+### Παραδοτέο 1Α
+
+#### Neurosky mindwave https://fivos-gr.netlify.app/gallery/neurosky/
+#### Android auto https://fivos-gr.netlify.app/gallery/android-auto/
+
+### Παραδοτέο 1.Β
 #### Νέο διαδραστικό παράδειγμα (animated button & menu) https://fivos-gr.netlify.app/remix/animated-button-menu/
-### 1.Γ
+
+### επιπλέον παραδοτέο 1.Γ
 #### Νέα μελέτη περίπτωσης (Android) https://fivos-gr.netlify.app//case-study/android/
 
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system. Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).
