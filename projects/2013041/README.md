@@ -172,6 +172,35 @@ https://taskwarrior.org/docs/start.html
 
 https://taskwarrior.org/docs/filter.html#filters
 
+### Επιπλέον άσκηση 5. Surf the web, create a new elvi.
+#### asciinema:  https://asciinema.org/a/Npw44l5yIH1g43wHmsQtcFHjl
+Χρησιμοποίσησα το surfraw και δημιούργησα νέο τοπικό elvi για να κάνω αναζήτηση τραγουδιών στο https://kithara.to/. To surfraw τρέχει τα local elvi στο /home/user/.config/surfraw/elvi. Δημιουργησα τα απαραιτητα directories και αντέγραψα το youtube elvi, ωστε να το επεξεργαστώ για να κάνει την αναζήτηση που θέλω.
+
+```
+sudo apt install surfraw
+cd .config/surfraw/elvi
+cp /usr/lib/surfraw/youtube kithara
+nano kithara
+```
+
+για να δω τα υπάρχοντα elvi
+
+```
+surfraw -elvi
+```
+
+και η αναζήτηση
+
+```
+surfraw kithara σπασμένο καράβι
+```
+
+το surfraw ανοίγει το mozzila με τα αποτελέσματα της αναζήτησης.
+
+![Αποτέλεσμα αναζήτησης](surfraw-result.jpg)
+
+### πηγές
+https://www.youtube.com/watch?v=FvimaTL_kJU
 
 ## Συμπεράσματα
 Μέσω της διαδικασίας υλοποίησης των παραπάνω εργασιών έμαθα να χρησιμοποιώ τα linux μέσα απο τα windows (WSL). Έμαθα τις βασικές εντολές του terminal, καθώς και να εγκαθιστώ παραμετροποιώ τα διάφορα tools. Έμαθα να δημιουργώ φακέλους και αρχεία και να ενισχύω τη λειτουργεία του command line με νέες δυνατότητες.
