@@ -202,6 +202,35 @@ surfraw kithara σπασμένο καράβι
 ### πηγές
 https://www.youtube.com/watch?v=FvimaTL_kJU
 
+### Επιπλέον άσκηση 6. Track your time with a simple journal.
+#### asciinema: https://asciinema.org/a/8n88A25tJqrYB73oUFhjDAng6
+Εγκατέστησα το jrnl
+
+```
+pip3 install jrnl
+```
+Την πρώτη φορά που τρέχει το jrnl ζητάει path για να αποθηκευει τα entries, μπορείς να αφήσεις το default η να ορίσεις όποιο θές. Για να τρέξεις το jrnl
+
+```
+jrnl
+jrnl date: your entry
+```
+Υποστιρίζει search και tags
+
+```
+jrnl -contains "search term" --edit
+jrnl @tag --edit
+```
+
+Για να μπορέσεις να κάνεις edit ένα entry πρέπει να έχεις ορίσει editor απο το configuration file. /home/user/.config/jrnl/jrnl.yaml. Για να σβήσεις ένα entry προσθέτεις --delete
+
+```
+jrnl @tag --delete
+```
+
+### πηγές
+https://jrnl.sh/overview/
+
 ## Συμπεράσματα
 Μέσω της διαδικασίας υλοποίησης των παραπάνω εργασιών έμαθα να χρησιμοποιώ τα linux μέσα απο τα windows (WSL). Έμαθα τις βασικές εντολές του terminal, καθώς και να εγκαθιστώ παραμετροποιώ τα διάφορα tools. Έμαθα να δημιουργώ φακέλους και αρχεία και να ενισχύω τη λειτουργεία του command line με νέες δυνατότητες.
 
