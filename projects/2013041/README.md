@@ -173,7 +173,7 @@ https://taskwarrior.org/docs/start.html
 https://taskwarrior.org/docs/filter.html#filters
 
 ### Επιπλέον άσκηση 5. Surf the web, create a new elvi.
-#### asciinema:  https://asciinema.org/a/Npw44l5yIH1g43wHmsQtcFHjl
+#### asciinema: https://asciinema.org/a/SSyzQEXwCeRjpspgRmeI5Bppg
 Χρησιμοποίσησα το surfraw και δημιούργησα νέο τοπικό elvi για να κάνω αναζήτηση τραγουδιών στο https://kithara.to/. To surfraw τρέχει τα local elvi στο /home/user/.config/surfraw/elvi. Δημιουργησα τα απαραιτητα directories και αντέγραψα το youtube elvi, ωστε να το επεξεργαστώ για να κάνει την αναζήτηση που θέλω.
 
 ```
