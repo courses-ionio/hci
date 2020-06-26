@@ -197,7 +197,7 @@ surfraw kithara σπασμένο καράβι
 
 το surfraw ανοίγει το mozzila με τα αποτελέσματα της αναζήτησης.
 
-![Αποτέλεσμα αναζήτησης](surfraw-result.jpg)
+![Αποτέλεσμα αναζήτησης](surfraw-result.png)
 
 ### πηγές
 https://www.youtube.com/watch?v=FvimaTL_kJU
