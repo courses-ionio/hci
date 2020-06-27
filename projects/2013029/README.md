@@ -130,9 +130,19 @@ https://github.com/jrnl-org/jrnl
 
 https://jrnl.sh/overview/
 
+### Επιπλέον άσκηση 6. Surf the web. Create a new elvi
+#### asciinema: https://asciinema.org/a/JSemEM6z9cQpvuZcmAuvWM2PS
+Εγκατέστησα το surfraw και δημιουργησα νέο local elvi για να κάνω αναζήτηση στο reddit. Tα local elvi αποθηκευονται στο /home/user/.config/surfraw/elvi
 
+για να δείς τα υπάρχοντα elvi
 
+```
+sr -elvi
+surfraw -elvi
+sr reddit covi19
+```
 
+![reddit result](reddit.jpg)
 
 ### Συμπεράσματα
 Απο τις παραπάνω εργασίες έμαθα να χρησιμοποιώ το λειτουργικό συστημα linux. Εμαθα τη δομή των αρχείων και τις βασικές εντολες του terminal. Έμαθα να χρησιμοποιώ αρκετά και χρήσιμα εργαλεία και εξοικειώθηκα με τους διάφορους editors καθώς και να διαβάζω τα manuals των εργαλείων. Εξοικειώθηκα με τη χρήση του asciinema καθώς δημιούργησα λογαριασμό όπου έχω όλα τα recorded terminal sessions μου. Τέλος η χρήση terminal linux σε περιβάλλον windows είναι πολύ σημαντική για πολλούς χρήστες καθώς σε άλλη περίπτωση θα έπρεπε να χρησιμοποιούμε vitual machines ή ακόμα και να εγκαταστήσουμε κάποιο distribution σε dedicated σύστημα.
