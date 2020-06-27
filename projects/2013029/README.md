@@ -106,6 +106,34 @@ htop
 #### Βίντεο που πήρα πληροφορίες
 https://www.youtube.com/watch?v=5iXzqN8-34E
 
+### Επιπλέον άσκηση 5. Track your time with a simple journal.
+#### asciinema: https://asciinema.org/a/vunq6FMee4H3QDvuN2mFMThHY
+Χρησιμοποίησα το jrnl για να το εγκαταστήσω χρειάστηκε να εγκαταστήσω το pipx και το python3-venv.
+
+```
+pipx install jrnl
+```
+
+Επεξεργαστηκα το αρχείο jrnl.yaml, ώστε να ορίσω default editor για να μπορώ να επεξεργάζομαι τα entries. 
+To jrnl υποστηρίζει add, delete, edit, search και tagging
+
+```
+jrnl // compose new entry
+jrnl date: entry // compose new entry
+jrnl @tag // tagging in the entry
+jrnl @tag --delete //deleting based on tag
+jrnl -n 10 // Listing last 10 entries
+```
+
+#### Πληροφορίες
+https://github.com/jrnl-org/jrnl
+
+https://jrnl.sh/overview/
+
+
+
+
+
 ### Συμπεράσματα
 Απο τις παραπάνω εργασίες έμαθα να χρησιμοποιώ το λειτουργικό συστημα linux. Εμαθα τη δομή των αρχείων και τις βασικές εντολες του terminal. Έμαθα να χρησιμοποιώ αρκετά και χρήσιμα εργαλεία και εξοικειώθηκα με τους διάφορους editors καθώς και να διαβάζω τα manuals των εργαλείων. Εξοικειώθηκα με τη χρήση του asciinema καθώς δημιούργησα λογαριασμό όπου έχω όλα τα recorded terminal sessions μου. Τέλος η χρήση terminal linux σε περιβάλλον windows είναι πολύ σημαντική για πολλούς χρήστες καθώς σε άλλη περίπτωση θα έπρεπε να χρησιμοποιούμε vitual machines ή ακόμα και να εγκαταστήσουμε κάποιο distribution σε dedicated σύστημα.
 
