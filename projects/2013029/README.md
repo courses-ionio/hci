@@ -22,6 +22,14 @@ https://el.wikipedia.org/wiki/Deep_Web
 
 https://en.wikipedia.org/wiki/Windows_7
 
+#### Παραδοτέο 1.Γ.1
+##### Μελέτη περίπτωσης: Playstation https://p13dima-gr.netlify.app/case-study/playstation/
+
+###### πηγές
+https://www.playstation.com/en-gb/explore/ps4/playstation-through-the-years/
+
+https://el.wikipedia.org/wiki/PlayStation
+
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 #### asciinema: https://asciinema.org/a/xdeBp0SW242760i84gmzhzZbg
 Άλλαξα το command promt με το Α.Μ μου. Για να αλλάξω το command prompt έκανα edit το αρχείο .bashrc με τον nano editor. To configuration του αρχείου φαίνεται στο session του asciinema.
