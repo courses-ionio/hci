@@ -10,7 +10,42 @@
 ### Προσωπικό αποθετήριο https://github.com/p14pets/hci 
 
 ## Εισαγωγή
-Επέλεξα να κάνω τέσσερις εργασίες σε linux terminal όπως περιγράφοντε στο αποθετήριο του μαθήματος. Οι εργασίες έγιναν σε περιβάλλον linux Ubuntu 18.04 LTS, μέσω WSL 2 (Windows Subsystem for Linux) σε windows 10. Ολες οι εργασίες στην αναφορά περιέχουν link στο recorded session του asciinema, καθώς και link σε συνδεσμους των εργαλείων που χρησιμοποιήθηκαν, καθώς σε μερικές εργασίες χρειάστηκε να ψάξω στις επισημες σελίδες των εργαλέιων για να μπορέσω να τα λειτουργησω.
+Έγιναν 6 ασκήσεις σε linux terminal και 4 παραδοτέα συμμετοχικού εκπαιδευτικού υλικού. Οι 4 ασκήσεις terminal έγιναν σε wsl2 (Ubuntu 18.04) στα windows 10, ενώ οι επιπλέον 2 ασκήσεις έγιναν στο virtual box με ubuntu 18.04(LTS). Περιγράφεται ο τρόπος εκπόνησης της κάθε άσκησης και παραθέτοντε τα urls με τα recorded sessions του asciinema, καθώς και πηγές αντλησης πληροφοριών για την εκπόνηση της κάθε άσκησης.
+## Συμμετοχικό εκπαιδευτικό υλικό
+#### Προσωπικό αποθετήριο https://github.com/p14pets/gr
+#### url σελίδας βιβλίου https://p14pets-gr.netlify.app/
+
+### Παραδοτέο 1.Α
+Προσθήκη 2 νέων εικόνων με λεζάντα.
+
+#### Atari https://p14pets-gr.netlify.app/gallery/atari/
+#### Oculus rift https://p14pets-gr.netlify.app/gallery/oculus-rift/
+
+### Παραδοτέο 1.Γ.2
+Προσθήκη νέας βιογραφίας
+
+#### Ivan Sutherland https://p14pets-gr.netlify.app/biography/sutherland/
+
+##### Πηγές
+https://en.wikipedia.org/wiki/Ivan_Sutherland
+
+
+### Επιπλέον παραδοτέο 1.Γ.1
+Νέα μελέτη περίπτωσης
+
+#### Twitter https://p14pets-gr.netlify.app/case-study/twitter/
+
+##### Πηγές
+https://en.wikipedia.org/wiki/Twitter
+
+### Επιπλέον παραδοτέο 1.B
+Νέο διαδραστικό παράδειγμα
+
+#### Image map https://p14pets-gr.netlify.app/remix/imagemap/
+##### Αποθετήριο χάρτη https://github.com/p14pets/Image-map
+
+##### Πηγές
+###### shp περιφέρειες Ελλάδας https://geodata.gov.gr/en/dataset/periphereies-elladas/resource/7c80a2c1-93b7-4814-9fc4-245e775acaa6
 
 ## Άσκηση 1. Σet-up the main dependencies and demonstrate your base system. change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
@@ -118,7 +153,6 @@ task
 ```
 
 ## Άσκηση 4. Plan your time with a calendar. Add, edit, search for an appointment.
-
 #### url asciinema  https://asciinema.org/a/OO0DtR1dPoH0VGgJFonKYPXqE
 
 Για την άσκηση αυτή χρησιμοποίησα το calcurse https://calcurse.org/. Η εγκατάσταση γίνε πολύ εύκολα με
@@ -135,6 +169,62 @@ calcurse
 
 Είναι πάρα πολύ εύκολο στη χρήση. Έυκολη αναζήτηση appoinmets απο το calendar, επιλογή ωρας έναρξης και ώρας λήξης, ή ολοήμερο event. Μπορείς να προσθέσεις και tasks σε todo list
 
+## Επιπλέον άσκηση 5. Οrganise the terminal window into multiple areas. Use one window to search-edit local files or browse the web and another window for performance monitoring.
+#### url asciinema  https://asciinema.org/a/qNSB43kNQIMbDiFSBameTBAOB
+Εγκατέστησα το tmux και το htop για performance monitoring
+
+```
+sudo apt-get install tmux
+sudo apt-get install htop
+```
+
+έτρεξα το tmux και δημιουργησα νέο παράθυρο όπου ξεκίνησα το performance monitoring
+
+```
+tmux
+ctrl b % //ανοίγει το νέο παράθυρο
+htop 
+ctrl b ; //εναλλαγή active παραθύρου
+```
+
+Πίσω στο αρχικό παράθυρο έτρεξα το ranger γαι να περιηγηθώ στο file system.
+
+```
+ranger
+```
+
+### Πηγές
+
+https://www.youtube.com/watch?v=BHhA_ZKjyxo
+
+https://superuser.com/questions/777269/how-to-close-a-tmux-session
+
+Το tmux τερματίζει πατώντας ctrl b :, γράφωντας kill-session
+
+## Επιπλέον άσκηση 6. Surf the web.  Create a new elvi
+#### url asciinema  https://asciinema.org/a/14D3J1XDWdr4rWBV5S5evuHhX
+
+Εγκατέστησα το surfraw
+
+```
+sudo apt-get install surfraw
+```
+εκανα copy το youtube elvi στον φάκελο .config/surfraw/elvi με ονομασία stackoverflow και επεξεργάστηκα το νέο αυτό αρχείο ώστε να μπορώ να κάνω πλέον search στο stackoverflow. To stackoverflow χρησιμοποιεί το εξίς query στο url: https://stackoverflow.com/search?q=
+
+```
+sr -elvi //δείχνει πλέον το νέο local elvi
+sr stackoverflow java //ανοίγει τον browser με το αποτέλεσμα
+```
+
+![surfraw result](result.jpg)
+
+### Πηγές
+https://www.youtube.com/watch?v=FvimaTL_kJU
+
+https://manpages.debian.org/testing/surfraw/surfraw.1.en.html
+
+
+
 ## Συμπεράσματα
-Κάνοντας τις παραπάνω ασκήσεις έμαθα να χρησιμοποιώ το λειτουργικό linux και τις βασικές εντολές του linux terminal, όπως η εξερεύνηση των αρχείων, εγκατάσταση εργαλείων, διάβασμα των manuals και χρήση editors, κυρίως του nano. Είναι πολύ σημαντική η δυνατότητα χρήσης συστήματος linux σε περιβάλλον windows, καθώς δεν υπάρχει πια η ανάγκη εγκατάστασης virual box όπως το vmware και άλλα. Με το wsl2 είναι πιο εύκολο πλέον.
+Κάνοντας τις παραπάνω ασκήσεις έμαθα να χρησιμοποιώ το λειτουργικό linux και τις βασικές εντολές του linux terminal, όπως η εξερεύνηση των αρχείων, εγκατάσταση εργαλείων, διάβασμα των manuals και χρήση editors, κυρίως του nano. Είναι πολύ σημαντική η δυνατότητα χρήσης συστήματος linux σε περιβάλλον windows, καθώς δεν υπάρχει πια η ανάγκη εγκατάστασης virtual box όπως το vmware και άλλα. Με το wsl2 είναι πιο εύκολο πλέον.
 
