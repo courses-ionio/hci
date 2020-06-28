@@ -30,6 +30,12 @@ https://www.playstation.com/en-gb/explore/ps4/playstation-through-the-years/
 
 https://el.wikipedia.org/wiki/PlayStation
 
+#### Παραδοτέο 1.Γ.2
+##### Βιογραφία: Joseph Carl Robnett Licklider https://p13dima-gr.netlify.app/biography/licklider/
+
+###### πηγές
+https://en.wikipedia.org/wiki/J._C._R._Licklider
+
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 #### asciinema: https://asciinema.org/a/xdeBp0SW242760i84gmzhzZbg
 Άλλαξα το command promt με το Α.Μ μου. Για να αλλάξω το command prompt έκανα edit το αρχείο .bashrc με τον nano editor. To configuration του αρχείου φαίνεται στο session του asciinema.
