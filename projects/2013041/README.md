@@ -8,7 +8,31 @@
 ### ΑΜ: Π2013041
 
 ## Εισαγωγή
-Έγιναν 4 ασκήσεις σε περιβάλλον linux ubuntu WSL2 (Windows Subsystem for Linux). Σε κάθε εργασία υπάρχει το asciinema url και περιγραφονται αναλυτικά τα βήματα υλοποίησής της καθώς και πηγές άντλησης πληροφοριών απο το διαδύκτιο γαι τα tools που χρησιμοποιήθηκαν.
+Έγιναν 6 ασκήσεις σε περιβάλλον linux ubuntu WSL2 (Windows Subsystem for Linux) και σε virtual με ubuntu 19.01 και 4 παραδοτέα απο το συμμετοχικό περιεχόμενο (προστέθηκαν 2 νέες εικόνες, 1 νέο διαδραστικό παράδειγμα, μία νέα μελέτη περίπτωσης, και μία νέα βιογραφία). Σε κάθε μία απο τις 6 ασκήσεις υπάρχει το asciinema url και φαίνονται αναλυτικά τα βήματα υλοποίησής της καθώς και πηγές άντλησης πληροφοριών απο το διαδύκτιο γαι τα tools που χρησιμοποιήθηκαν.
+
+### Συμμετοχικό περιεχόμενο
+#### Αποθετήριο https://github.com/fivosf/gr
+#### URL σελίδας βιβλίου https://fivos-gr.netlify.app/
+
+### Παραδοτέο 1Α
+
+#### Neurosky mindwave https://fivos-gr.netlify.app/gallery/neurosky/
+#### Android auto https://fivos-gr.netlify.app/gallery/android-auto/
+
+### Παραδοτέο 1.Β
+#### Νέο διαδραστικό παράδειγμα (animated button & menu) https://fivos-gr.netlify.app/remix/animated-button-menu/
+
+### Επιπλέον παραδοτέο 1.Γ.1
+#### Νέα μελέτη περίπτωσης (Android) https://fivos-gr.netlify.app//case-study/android/
+
+##### πηγή 
+https://en.wikipedia.org/wiki/Android_(operating_system)
+
+### Επιπλέον παραδοτέο 1.Γ.2
+#### Βιογραφία Douglas Carl Engelbart https://fivos-gr.netlify.app/biography/engelbart/
+
+##### πηγή 
+https://en.wikipedia.org/wiki/Douglas_Engelbart
 
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system. Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).
 #### url asciinema: https://asciinema.org/a/qgSUwkBsC4WBCzimAIisNoNbo
@@ -148,6 +172,64 @@ https://taskwarrior.org/docs/start.html
 
 https://taskwarrior.org/docs/filter.html#filters
 
+### Επιπλέον άσκηση 5. Surf the web, create a new elvi.
+#### asciinema: https://asciinema.org/a/SSyzQEXwCeRjpspgRmeI5Bppg
+Χρησιμοποίσησα το surfraw και δημιούργησα νέο τοπικό elvi για να κάνω αναζήτηση τραγουδιών στο https://kithara.to/. To surfraw τρέχει τα local elvi στο /home/user/.config/surfraw/elvi. Δημιουργησα τα απαραιτητα directories και αντέγραψα το youtube elvi, ωστε να το επεξεργαστώ για να κάνει την αναζήτηση που θέλω.
+
+```
+sudo apt install surfraw
+cd .config/surfraw/elvi
+cp /usr/lib/surfraw/youtube kithara
+nano kithara
+```
+
+για να δω τα υπάρχοντα elvi
+
+```
+surfraw -elvi
+```
+
+και η αναζήτηση
+
+```
+surfraw kithara σπασμένο καράβι
+```
+
+το surfraw ανοίγει το mozzila με τα αποτελέσματα της αναζήτησης.
+
+![Αποτέλεσμα αναζήτησης](surfraw-result.png)
+
+### πηγές
+https://www.youtube.com/watch?v=FvimaTL_kJU
+
+### Επιπλέον άσκηση 6. Track your time with a simple journal.
+#### asciinema: https://asciinema.org/a/8n88A25tJqrYB73oUFhjDAng6
+Εγκατέστησα το jrnl
+
+```
+pip3 install jrnl
+```
+Την πρώτη φορά που τρέχει το jrnl ζητάει path για να αποθηκευει τα entries, μπορείς να αφήσεις το default η να ορίσεις όποιο θές. Για να τρέξεις το jrnl
+
+```
+jrnl
+jrnl date: your entry
+```
+Υποστιρίζει search και tags
+
+```
+jrnl -contains "search term" --edit
+jrnl @tag --edit
+```
+
+Για να μπορέσεις να κάνεις edit ένα entry πρέπει να έχεις ορίσει editor απο το configuration file. /home/user/.config/jrnl/jrnl.yaml. Για να σβήσεις ένα entry προσθέτεις --delete
+
+```
+jrnl @tag --delete
+```
+
+### πηγές
+https://jrnl.sh/overview/
 
 ## Συμπεράσματα
 Μέσω της διαδικασίας υλοποίησης των παραπάνω εργασιών έμαθα να χρησιμοποιώ τα linux μέσα απο τα windows (WSL). Έμαθα τις βασικές εντολές του terminal, καθώς και να εγκαθιστώ παραμετροποιώ τα διάφορα tools. Έμαθα να δημιουργώ φακέλους και αρχεία και να ενισχύω τη λειτουργεία του command line με νέες δυνατότητες.
