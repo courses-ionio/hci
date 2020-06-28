@@ -8,6 +8,20 @@
 ### Εισαγωγή
 Οι ασκήσεις γίνανε σε λαπτοπ με windows 10 σε περιβάλλον wsl2 (Windows Subsystem for Linux). Το hardware του συστήματος μου είναι intel core duo 2.40 ghz και 4gb ddr2 ram. To λειτουργικό linux είναι ubuntu 18.04 LTS το οποίο κατεβάστηκε απο το windows store. Για να λειτουργήσει το wsl2 και να γίνει η εγκατάσταση του ubuntu πρεπει πρώτα να έχει ενεργοποιηθεί το windows Windows Subsystem for Linux απο τo control panel -> Programs and Features -> turn Windows features On or Off. Έγιναν και οι 4 ασκήσεις, και χρησιμοποιήθηκαν τα προτεινόμενα εργαλεία.
 
+### Συμμετοχικό εκπαιδευτικό υλικό
+##### repository σελίδας βιβλίου https://github.com/p13dima/gr
+##### url σελίδας βιβλίου https://p13dima-gr.netlify.app/
+
+#### Παραδοτέο 1.Α
+Δύο νέες εικόνες
+##### 1. Deep web https://p13dima-gr.netlify.app/gallery/deep-web/
+##### 2. Windows 7 https://p13dima-gr.netlify.app/gallery/windows7/
+
+###### πηγές
+https://el.wikipedia.org/wiki/Deep_Web
+
+https://en.wikipedia.org/wiki/Windows_7
+
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 #### asciinema: https://asciinema.org/a/xdeBp0SW242760i84gmzhzZbg
 Άλλαξα το command promt με το Α.Μ μου. Για να αλλάξω το command prompt έκανα edit το αρχείο .bashrc με τον nano editor. To configuration του αρχείου φαίνεται στο session του asciinema.
