@@ -6,7 +6,7 @@
 ### Α.Μ Π2013029
 
 ### Εισαγωγή
-Οι ασκήσεις γίνανε σε λαπτοπ με windows 10 σε περιβάλλον wsl2 (Windows Subsystem for Linux). Το hardware του συστήματος μου είναι intel core duo 2.40 ghz και 4gb ddr2 ram. To λειτουργικό linux είναι ubuntu 18.04 LTS το οποίο κατεβάστηκε απο το windows store. Για να λειτουργήσει το wsl2 και να γίνει η εγκατάσταση του ubuntu πρεπει πρώτα να έχει ενεργοποιηθεί το windows Windows Subsystem for Linux απο τo control panel -> Programs and Features -> turn Windows features On or Off. Έγιναν και οι 4 ασκήσεις, και χρησιμοποιήθηκαν τα προτεινόμενα εργαλεία.
+Οι 4 ασκήσεις γίνανε σε λαπτοπ με windows 10 σε περιβάλλον wsl2 (Windows Subsystem for Linux). Το hardware του συστήματος μου είναι intel core duo 2.40 ghz και 4gb ddr2 ram. To λειτουργικό linux είναι ubuntu 18.04 LTS το οποίο κατεβάστηκε απο το windows store. Για να λειτουργήσει το wsl2 και να γίνει η εγκατάσταση του ubuntu πρεπει πρώτα να έχει ενεργοποιηθεί το windows Windows Subsystem for Linux απο τo control panel -> Programs and Features -> turn Windows features On or Off. Οι 2 επιπλέον ασκήσεις έγιναν σε virtual box ubuntu 19.10. Εγινα 4 παραδοτέα συμμετοχικού εκπαιδευτικού υλικού και συγκεκριμένα προστέθηκαν δυο νέες εικόνες, μια νέα βιογραφία, μια νέα μελέτη περίπτωσης και ένα νέο διαδραστικό παράδειγμα. Σε όλες τις ασκήσεις υπάρχει το asciinema url που δειχνει την υλοποίηση της κάθε άσκησης και απ όπου πάρθηκαν σχετικές πληροφορίες υπάρχουν τα urls ως πηγές.
 
 ### Συμμετοχικό εκπαιδευτικό υλικό
 ##### repository σελίδας βιβλίου https://github.com/p13dima/gr
