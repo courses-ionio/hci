@@ -9,7 +9,42 @@
 ### ΑΜ: Π2013040
 
 ## Εισαγωγή
-Έγιναν συνολικά 4 ασκήσεις σε περιβάλλον linux με τη χρήση του terminal οπως περιγραφεται στις οδηγίες. Για την υλοποίηση των ασκήσεων εγκατέστησα το Oracle vm virtual box https://www.virtualbox.org/, καθώς και ένα linux image Ubuntu 19.10 Eoan Ermine από https://www.osboxes.org/ubuntu/. Το εικονικό σύστημα έχει 2gb ram. Η υλοποίηση όλων των εργασιών έχει καταγραφεί σε asciinema sessions. Όπου έχει γίνει αναζήτηση στο διαδίκτυο για πληροφορίες παραθέτοντε τα σχετικά urls.
+Έγιναν συνολικά 6 (2 επιπλέον αντι γραπτής εξέτασης) ασκήσεις σε περιβάλλον linux με τη χρήση του terminal οπως περιγραφεται στις οδηγίες. Για την υλοποίηση των ασκήσεων εγκατέστησα το Oracle vm virtual box https://www.virtualbox.org/, καθώς και ένα linux image Ubuntu 19.10 Eoan Ermine από https://www.osboxes.org/ubuntu/. Το εικονικό σύστημα έχει 2gb ram. Η υλοποίηση όλων των εργασιών έχει καταγραφεί σε asciinema sessions. Όπου έχει γίνει αναζήτηση στο διαδίκτυο για πληροφορίες παραθέτοντε τα σχετικά urls. Επιπλέον υλοποίησα 4 παραδοτέα συμμετοχικού εκπεδευτικού υλικού (2 επιπλέον αντι γραπτής εξέτασης όπως αναφαίρουν οι οδηγίες).
+
+## Συμμετοχικό περιεχόμενο
+### Url σελίδας βιβλίου https://p13sian-gr.netlify.app/
+### Αποθετήριο βιβλίου https://github.com/p13sian/gr
+
+#### Παραδοτέο 1.Α
+Προσθήκη δύο νέων εικόνων 
+
+##### Remarkable https://p13sian-gr.netlify.app/gallery/remarkable/
+##### Virtuix omni https://p13sian-gr.netlify.app/gallery/omni/
+
+#### Παραδοτέο 1.Γ.2
+Νέα βιογραφία
+
+##### Jef Raskin https://p13sian-gr.netlify.app/biography/raskin/
+
+###### Πηγή 
+https://en.wikipedia.org/wiki/Jef_Raskin
+
+#### Επιπλέον παραδοτέο 1.Γ.1
+Νέα μελέτη περίπτωσης
+
+##### Raspberry pi https://p13sian-gr.netlify.app/case-study/raspberry-pi/
+
+###### Πηγή 
+https://en.wikipedia.org/wiki/Raspberry_Pi
+
+#### Επιπλέον παραδοτέο 1.B
+Nέο διαδραστικό παράδειγμα
+
+##### Image hover effect https://p13sian-gr.netlify.app/remix/hover/
+
+###### Πηγές
+https://css-tricks.com/snippets/css/scale-on-hover-with-webkit-transition/
+
 
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 #### asciinema: https://asciinema.org/a/xcewjj3h9W8XBDfm8WNn93UtN
@@ -102,6 +137,57 @@ https://stackoverflow.com/questions/7771557/how-to-terminate-a-window-in-tmux
 https://www.youtube.com/watch?v=BHhA_ZKjyxo
 
 https://www.howtoforge.com/tutorial/ubuntu-performance-monitoring/
+
+### Επιπλέον άσκηση 5. Surf the web. Create a new elvi.
+#### asciinema: https://asciinema.org/a/CX1L2YlotFDCM7DdtVViIDSJl
+Χρησιμοποίησα το surfraw και το εγκατέστησα με την εντολή
+
+```
+sudo apt-get install surfraw
+```
+
+στη συνέχεια δημιούργησα τα απαραίτητα directory καθώς το surfraw διαβάζει local elvi apo /home/user/.config/surfraw/elvi
+αντέγραψα στο νέο directory ένα ήδη υπάρχον elvi και το μετονόμασα σε wikileaks
+
+```
+cp /usr/lib/surfraw/youtube wikileaks
+```
+
+Eπεξεργαστηκα το αρχείο ώστε να το κάνω να ψάχνει στο wikileaks αντι για το youtube.
+
+Xρησιμοποίησα το surfraw για να κανω αναζητηση στο wikileaks σχετικά με τον Trump
+
+```
+sr wikileaks trump
+```
+
+![Search result](search.png)
+
+#### Πληροφορίες σχετικά με την υλοποίηση της άσκησης βρήκα:
+https://www.youtube.com/watch?v=FvimaTL_kJ
+
+https://gitlab.com/surfraw/Surfraw
+
+### Επιπλέον άσκηση 6. Become productive with a todo list. Create a list of todos, edit, delete, and check some of them.
+#### asciinema: https://asciinema.org/a/PyxHvHGKUM96E4LvL7gWw9WlF
+Εγκατέστησα το taskwarrior
+
+```
+sudo apt-get install taskwarrior
+```
+
+Πρόσθεσα tasks, τα επεξεργάστηκα, τσέκαρα κάποια απο αυτα και έσβησα μερικά.
+
+```
+task add <your task>
+task add <your task> due:<date>
+task <task number> edit
+task <task number> delete
+task <task number> done
+```
+
+#### Πληροφορίες σχετικά με την υλοποίηση της άσκησης βρήκα:
+https://taskwarrior.org/docs/start.html
 
 ## Συμπεράσματα
 Η χρήση του linux command line για την υλοποίηση καθημερινών tasks, μπορεί να φαντάζει δύσκολη αρχικά, όμως με την εξοικείωση του χρήστη δεν έχει τίποτα να ζηλέψει απο τα windows. Οι δυνατότητες του terminal είναι πολλές, και υπάρχουν πάρα πολλα εργαλεία με documentation που μπορύν να κάνουν τη ζωή (ειδικά ενός developer) πολύ πιο εύκολη. Με την υλοποίηση των παραπάνω ασκήσεων eξοικειώθηκα στις βασικές εντολές του linux terminal και του filesystem γενικότερα, ενώ έμαθα να χρησιμοποίώ τα παραπάνω εργαλεία.
