@@ -30,11 +30,21 @@ https://www.playstation.com/en-gb/explore/ps4/playstation-through-the-years/
 
 https://el.wikipedia.org/wiki/PlayStation
 
-#### Παραδοτέο 1.Γ.2
+#### Επιπλέον παραδοτέο 1.Γ.2
 ##### Βιογραφία: Joseph Carl Robnett Licklider https://p13dima-gr.netlify.app/biography/licklider/
 
 ###### πηγές
 https://en.wikipedia.org/wiki/J._C._R._Licklider
+
+#### Επιπλέον αραδοτέο 1.B
+##### Διαδραστικό παραδειγμα Left right scroll https://codepen.io/p13dima/pen/eYJGmaE
+
+###### πηγές
+https://stackoverflow.com/questions/13193224/target-the-2nd-instance-of-a-css-class
+
+https://css-tricks.com/snippets/jquery/horz-scroll-with-mouse-wheel/
+
+https://stackoverflow.com/questions/31755803/how-to-change-the-direction-of-mousewheel-scrolling-on-an-html-page
 
 ### Άσκηση 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 #### asciinema: https://asciinema.org/a/xdeBp0SW242760i84gmzhzZbg
