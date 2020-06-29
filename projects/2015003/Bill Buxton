@@ -1,27 +1,13 @@
 ---
-author: epidrome
-title: "Alan Kay"
-image_url: /images/alan-kay.jpg
-caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
+author: evabat
+title: active-badge
+image_url: active-badge.jpg
+caption: 'Το Active Badge που υλοποιήθηκε από το ερευνητικό εργαστήριο Olivetti το 1990 είναι από τα 
+πρώτα συστήματα εντοπισμού θέσης σε εσωτερικό χώρο. Εκπέμπει υπέρυθρα σήματα τα οποία επιτρέπουν στους αποδέκτες των τοπικών υποδομών να εντοπίσουν το σημείο που βρίσκεται ο χρήστης εντός του κτιρίου. Αν και δε συνηθίζεται να θεωρείται "δίκτυο", το σύστημα αυτό αποτελεί πρόδρομο πολλών παρόμοιων μεταγενέστερων συστημάτων εντοπισμού θέσης.'
+license_url: 'https://www.google.com/culturalinstitute/beta/partner/deutsches-museum'
+license_text: Courtesy of Deutsches Museum
 categories:
-  - biography
-  - definition
+  - archetypes
 tags:
-  - Alan Kay
-  - Ivan Sutherland
-  - Bret Victor
-  - Dynabook
-  - Smalltalk
-  - Xerox Alto
-gallery:
-  - image_url: /images/dynabook.png
-    caption: "Το Dynabook είναι ένα σχεδιαστικό όραμα του 1968 για ένα φορητό υπολογιστή τύπου τάμπλετ από τον Alan Kay που απευθύνεται σε παιδιά και μπορεί να προγραμματιστεί με στόχο την προσωπική έκφραση και την επεξεργασία της πληροφορίας"
-  - image_url: /images/alan-kay.jpg
-    caption: "Ο Αλαν Κεη συνδύασε γνώσεις και δεξιότητες από διαφορετικές περιοχές όπως οι υπολογιστές και τα μουσικά όργανα και έτσι μπόρεσε να φανταστεί τον υπολογιστή περισσότερο ως ένα μέσο επικοινωνίας και έκφρασης παρά ως ένα απλό εργαλείο."
-  - image_url: /images/smalltalk.jpg
-    caption: "Η αντικειμενοστραφής γλώσσα προγραμματισμού Smalltalk είχε έμφαση σε οντότητες υψηλού επιπέδου και στην διάδραση με τον χρήστη και έτσι διευκόλυνε την κατασκευή και τις δοκιμές του λογισμικού που τελικά οδήγησε στους πρώτους επιτυχημένους εμπορικά επιτραπέζιους υπολογιστές"
+  - Xerox
 ---
-
-{% include_relative bio-kay.md %}
-
-{% include slides.html caption="Εικόνες για την βιογραφία του Αλαν Κεη" %}
