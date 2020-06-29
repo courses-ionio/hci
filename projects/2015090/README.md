@@ -116,11 +116,13 @@ https://p15gkou.github.io/gr/
 
 https://codepen.io/p15gkou/pen/zYrNJze
 
-https://github.com/p15gkou/gr/blob/2015090/_remix/image.md
+https://github.com/p15gkou/gr/blob/2015090/_remix/switch.md
 
 https://codepen.io/p15gkou/pen/gOPgBKd
 
-https://github.com/p15gkou/gr/blob/2015090/_remix/switch.md
+https://github.com/p15gkou/gr/blob/2015090/_remix/image.md
+
+
 
 Γ.Βιογραφίες
 
