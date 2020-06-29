@@ -13,16 +13,16 @@
  
  Change your command prompt with your student ID and display your shell configuration file:
  
- Link: https://asciinema.org/a/7jV90Q9nLBdGoJXH8RXZE3PRu 
+ Link: https://asciinema.org/a/281552
  
  Display the list of your dot files:
 
- Link: https://asciinema.org/a/Ukx50Tvd0TpMLQ8vbTWlBHrcm
+ Link: https://asciinema.org/a/281551
  
  
  Display system information (hardware+software):
  
- Link: https://asciinema.org/a/mPlpCceUGxZhf9YckndXhEBLG
+ Link: https://asciinema.org/a/281553
  
  ## Άσκηση 2:
  
@@ -30,7 +30,7 @@
  
  Browse and view files on your system:
  
- Link: https://asciinema.org/a/DXYnEQfC4sK8PjzFzK8GzHtft
+ Link: https://asciinema.org/a/281712
  
  ## Άσκηση 3:
  
@@ -38,11 +38,11 @@
   
  Create a list of todos:
  
- Link: https://asciinema.org/a/o5OiJzzBO37USmcYXwkXCySpa
+ Link: https://asciinema.org/a/281747
  
  Edit, delete, and check some of them:
  
- Link: https://asciinema.org/a/oP8t7OcduSgjXfph4mpUvR07p
+ Link: https://asciinema.org/a/281750
  
  ## Άσκηση 4:
  
@@ -50,13 +50,19 @@
  
  Add a source of income and some expenses:
  
- Link: https://asciinema.org/a/sl3wfp2rrzW6N700rdemIEYsQ
+ Link: https://asciinema.org/a/313957
  
  ## Άσκηση 5: 
  
  ### Become productive with a calendar.
  
  Link: https://asciinema.org/a/NJLkCwTUlI0Lg0bSUSWvZ2IFW
+ 
+ ## Άσκηση 6: 
+ 
+ ### Surf the web.
+ 
+ Link: https://asciinema.org/a/344078
  
  ## Συμμετοχικό Υλίκο:
  
@@ -75,6 +81,8 @@
  Thumbnail: https://github.com/p15vlio/gr/blob/master/images/MS-Arc-Mouse(thumpnail).jpg
  
  MD: https://github.com/p15vlio/gr/blob/master/_gallery/Arc_mouse.md
+ 
+ 
  
  
  
