@@ -38,6 +38,10 @@ track your expenses
 
 To link της άσκησης είναι: https://asciinema.org/a/u76nE8Shr79rm14pYSJK9U2es
 
+Άσκηση 7:
+surf the web
+
+Το link της άσκησης είναι: https://asciinema.org/a/3I14DDhZ74cdJ1Y4MGiF6gd4d
 
 Συμμετοχικό  υλικό:
 
