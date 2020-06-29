@@ -40,3 +40,11 @@
 ## Exercise 4:track your expenses,	add a source of income and some expenses.
 
 #### URL:https://asciinema.org/a/E0HvbnvKGly87wiNfe4NygXxS
+
+## Exercise 5:surf the web,	create a new elvi,command:surfraw(sr) help by https://www.youtube.com/watch?v=FvimaTL_kJU&t=277s
+
+#### URL:https://asciinema.org/a/k9fLNOaluDtHn0mpnWsxAIgNR
+
+## Exercise 6:track your time with a simple journal,command journalctl -b maybe wrong..
+
+#### URL:https://asciinema.org/a/pF8542OU9DOK2XqE3GeSMTQwT
