@@ -52,11 +52,11 @@
 ## Συμμετοχικό περιεχόμενο:
 
 ## Βιογραφίες:
-https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Bill%20Buxton.md
-https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Buxton..md
+https://github.com/p13mark1/gr/blob/master/_biography/Bill%20Buxton.md
+https://github.com/p13mark1/gr/blob/master/_biography/Buxton.md
 
-https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Bret%20Victor.md
-https://github.com/p13mark1/hci/blob/2015003/projects/2015003/victor.md
+https://github.com/p13mark1/gr/blob/master/_biography/Bret%20Victor.md
+https://github.com/p13mark1/gr/blob/master/_biography/victor.md
 
 ## Pictures:
 A)https://github.com/p13mark1/gr/blob/master/_gallery/chromecast.md
