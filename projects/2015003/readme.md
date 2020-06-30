@@ -48,3 +48,13 @@
 ## Exercise 6:track your time with a simple journal,command journalctl -b maybe wrong..
 
 #### URL:https://asciinema.org/a/pF8542OU9DOK2XqE3GeSMTQwT
+
+## Βιογραφίες:
+https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Bill%20Buxton.md
+https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Buxton..md
+
+https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Bret%20Victor.md
+https://github.com/p13mark1/hci/blob/2015003/projects/2015003/victor.md
+
+
+
