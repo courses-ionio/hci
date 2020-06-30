@@ -58,9 +58,11 @@ https://github.com/p13mark1/hci/blob/2015003/projects/2015003/victor.md
 
 ## Pictures:
 A)https://github.com/p13mark1/gr/blob/master/_gallery/chromecast.md
+
 https://github.com/p13mark1/gr/blob/master/images/Chromecast-2015.jpg
 
 B)https://github.com/p13mark1/gr/blob/master/_gallery/smartwartch.md
+
 https://github.com/p13mark1/gr/blob/master/images/Seiko_Data-2000%2C_The_First_Computer_Watch%2C_Circa_1983-1984%2C_LCD_Watch_with_Docking_Station.jpg
 
 
