@@ -1,4 +1,5 @@
 ---
+
 author: Bret Victor
 title: "Bret Victor"
 image_url: https://commons.wikimedia.org/wiki/File:Bret_Victor.png
@@ -21,7 +22,8 @@ gallery:
     caption: "iPad είναι μια σειρά από υπολογιστές tablet σχεδιαστεί, αναπτυχθεί και διατίθενται στο εμπόριο από την Apple Inc , η οποία τρέχουν τα iOS και iPadOS λειτουργικά συστήματα κινητών"
   -  image_url: https://en.m.wikipedia.org/wiki/Apple_Watch
      caption: "Το Apple Watch είναι μια σειρά έξυπνων ρολογιών που παράγονται από την Apple Inc. Ενσωματώνει δυνατότητες παρακολούθησης φυσικής κατάστασης και προσανατολισμένες στην υγεία δυνατότητες με ενσωμάτωση με iOS και άλλα προϊόντα και υπηρεσίες της Apple"
- ---  
+---
+
 {% include_relative bio-kay.md %}
 
 {% include slides.html caption="Εικόνες για την βιογραφία του Αλαν Κεη" %}
