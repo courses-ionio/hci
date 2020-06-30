@@ -56,5 +56,7 @@ https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Buxton..md
 https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Bret%20Victor.md
 https://github.com/p13mark1/hci/blob/2015003/projects/2015003/victor.md
 
-
+## Pictures:
+https://github.com/p13mark1/hci/blob/2015003/projects/2015003/airtype-main.jpg
+https://github.com/p13mark1/hci/blob/2015003/projects/2015003/future%20keyboard.jpg
 
