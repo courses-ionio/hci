@@ -2,7 +2,7 @@
 author: Dcoetzee
 title: "Bill Buxton"
 image_url: https://commons.wikimedia.org/wiki/File:Bill_Buxton.jpg
-caption: "Ο ερευνητής της επιστήμης των υπολογιστών Bill Buxton στο γραφείο του στο Microsoft Research Redmond το 2009, με το χέρι του σε μια συσκευή πληκτρολογίου χορδής Microwriter του 1978 από την ιδιωτική του συλλογή. Το κεντρικό γραφείο του είναι στο Τορόντο."
+caption: "Ο ερευνητής της επιστήμης των υπολογιστών Bill Buxton στο γραφείο του στο Microsoft Research Redmond το 2009, με το χέρι του σε μια συσκευή πληκτρολογίου χορδής   Microwriter του 1978 από την ιδιωτική του συλλογή. Το κεντρικό γραφείο του είναι στο Τορόντο."
 categories:
   - biography
   - definition
