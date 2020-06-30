@@ -6,7 +6,7 @@
 Προσωπικό Αποθετήριο: https://github.com/p15baka1/hci
 
 ## Εισαγωγή
-Για τις εργασίες του μαθήματος επέλεξα 5 που θεώρησα πιο ενδιαφέρον από τις 14 που μας δόθηκαν. Για να κάνω αυτές τις εργασίες στο λάπτοπ μου που έχει Windows 7 χρησιμοποίησα ubuntu-18.04.3-amd64 μέσω του VirtualBox την Oracle.
+Για τις εργασίες του μαθήματος μπόρεσα να κάνω μόνο 5 γιατί με τις υπόλοιπες δυσκολέυτηκα. Για να κάνω αυτές τις εργασίες στο λάπτοπ μου που έχει Windows 7 χρησιμοποίησα ubuntu-18.04.3-amd64 μέσω του VirtualBox την Oracle.
 
 ### 1Η ΑΣΚΗΣΗ
 change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).
@@ -45,3 +45,11 @@ Image2:https://github.com/p15baka1/gr/blob/master/images/2mouse.normal.jpg
 thumbnail https://github.com/p15baka1/gr/blob/master/images/2mouse.thumb.jpg
 
 md: https://github.com/p15baka1/gr/blob/master/_gallery/2mouse.md
+
+## Βιογραφίες:
+
+Πρώτη βιογραφία: https://github.com/p15baka1/gr/blob/master/_biography/August-Dvorak.md
+https://github.com/p15baka1/gr/blob/master/_biography/Bio-August-Dvorak.md
+
+Δεύτερη βιογραφία:https://github.com/p15baka1/gr/blob/master/_biography/Eric-Migicovsky.md
+https://github.com/p15baka1/gr/blob/master/_biography/bio-Eric-Migicovsky.md
