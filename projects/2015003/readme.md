@@ -53,11 +53,13 @@
 
 ## Βιογραφίες:
 https://github.com/p13mark1/gr/blob/master/_biography/Bill%20Buxton.md
-https://github.com/p13mark1/gr/blob/master/_biography/Buxton.md 
+https://github.com/p13mark1/gr/blob/master/_biography/Buxton.md
+
 https://github.com/p13mark1/gr/blob/master/images/800px-Bill_Buxton.jpg
  
 https://github.com/p13mark1/gr/blob/master/_biography/Bret%20Victor.md
 https://github.com/p13mark1/gr/blob/master/_biography/victor.md 
+
 https://github.com/p13mark1/gr/blob/master/images/Bret_Victor.png
 
 ## Pictures:
