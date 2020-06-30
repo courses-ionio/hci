@@ -10,7 +10,6 @@ tags:
   - Alesis Ion
   - Apple Inc
   - iPad
-  - Dynabook
   - Apple Watch
   - explorable explanation
 gallery:
@@ -18,10 +17,9 @@ gallery:
     caption: "Το Alesis Ion είναι ένας αναλογικός συνθέτης μοντελοποίησης . Παρουσιάστηκε στο κοινό το Summer NAMM του 2002. Σε αντίθεση με το Alesis Andromeda , τον αναλογικό συνθέτη της Alesis, οι ήχοι του συντίθενται χρησιμοποιώντας DSP chip για να μιμούνται τον ήχο των αναλογικών κυκλωμάτων ήχου και των εξαρτημάτω"
   - image_url: https://en.m.wikipedia.org/wiki/Apple_Inc.
     caption: "Η Apple Inc. είναι μια αμερικανική πολυεθνική εταιρεία τεχνολογίας με έδρα στο Cupertino της Καλιφόρνια , η οποία σχεδιάζει, αναπτύσσει και πωλεί καταναλωτικά ηλεκτρονικά είδη , λογισμικό υπολογιστών και διαδικτυακές υπηρεσίες . Θεωρείται μία από τις εταιρείες τεχνολογίας Big Tech , παράλληλα με το Amazon , το Google , τη Microsoft και το Facebook"
-    - image_url: https://en.m.wikipedia.org/wiki/Apple_Inc.
-    caption: "Η Apple Inc. είναι μια αμερικανική πολυεθνική εταιρεία τεχνολογίας με έδρα στο Cupertino της Καλιφόρνια , η οποία σχεδιάζει, αναπτύσσει και πωλεί καταναλωτικά ηλεκτρονικά είδη , λογισμικό υπολογιστών και διαδικτυακές υπηρεσίες . Θεωρείται μία από τις εταιρείες τεχνολογίας Big Tech , παράλληλα με το Amazon , το Google , τη Microsoft και το Facebook"
   - image_url: https://en.m.wikipedia.org/wiki/File:IPad_Air_2.png
     caption: "iPad είναι μια σειρά από υπολογιστές tablet σχεδιαστεί, αναπτυχθεί και διατίθενται στο εμπόριο από την Apple Inc , η οποία τρέχουν τα iOS και iPadOS λειτουργικά συστήματα κινητών"
+    - image_url:
 ---
 
 {% include_relative bio-kay.md %}
