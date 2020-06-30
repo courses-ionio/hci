@@ -1,4 +1,5 @@
 |---|
+
 author: Bret Victor
 title: "Bret Victor"
 image_url: https://commons.wikimedia.org/wiki/File:Bret_Victor.png
