@@ -54,6 +54,7 @@ surf the web
 multimedia-keyboard: https://github.com/dimitratompoulidou/gr/blob/2015044/_gallery/multimedia-keyboard.md
 
 Φωτογραφία κανονικού μεγέθους:https://github.com/dimitratompoulidou/gr/blob/2015044/images/800px-Multimediakb.jpg
+
 Φωτογραφία 160px: https://github.com/dimitratompoulidou/gr/blob/2015044/images/multimediakeybosrd%20(1).jpg
 
 
