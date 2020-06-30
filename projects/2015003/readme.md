@@ -49,6 +49,8 @@
 
 #### URL:https://asciinema.org/a/pF8542OU9DOK2XqE3GeSMTQwT
 
+## Συμμετοχικό περιεχόμενο:
+
 ## Βιογραφίες:
 https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Bill%20Buxton.md
 https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Buxton..md
@@ -56,7 +58,7 @@ https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Buxton..md
 https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Bret%20Victor.md
 https://github.com/p13mark1/hci/blob/2015003/projects/2015003/victor.md
 
-## Pictures:Συμμετοχικό περιεχόμενο
+## Pictures:
 A)https://github.com/p13mark1/gr/blob/master/_gallery/chromecast.md
 
 https://github.com/p13mark1/gr/blob/master/images/Chromecast-2015.jpg
