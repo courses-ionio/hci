@@ -56,7 +56,7 @@ https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Buxton..md
 https://github.com/p13mark1/hci/blob/2015003/projects/2015003/Bret%20Victor.md
 https://github.com/p13mark1/hci/blob/2015003/projects/2015003/victor.md
 
-## Pictures:
+## Pictures:Συμμετοχικό περιεχόμενο
 A)https://github.com/p13mark1/gr/blob/master/_gallery/chromecast.md
 
 https://github.com/p13mark1/gr/blob/master/images/Chromecast-2015.jpg
