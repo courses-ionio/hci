@@ -23,7 +23,5 @@ gallery:
   - image_url: https://en.m.wikipedia.org/wiki/Apple_Watch
     caption: "Το Apple Watch είναι μια σειρά έξυπνων ρολογιών που παράγονται από την Apple Inc. Ενσωματώνει δυνατότητες παρακολούθησης φυσικής κατάστασης και προσανατολισμένες στην υγεία δυνατότητες με ενσωμάτωση με iOS και άλλα προϊόντα και υπηρεσίες της Apple"
 ---
-
 {% include_relative Victor.md %}
-
 {% include slides.html caption="Εικόνες για την βιογραφία του Bret Victor" %}
