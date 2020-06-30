@@ -6,7 +6,7 @@
 Προσωπικό Αποθετήριο: https://github.com/p15baka1/hci
 
 ## Εισαγωγή
-Για τις εργασίες του μαθήματος επέλεξα 4 που θεώρησα πιο ενδιαφέρον από τις 14 που μας δόθηκαν. Για να κάνω αυτές τις εργασίες στο λάπτοπ μου που έχει Windows 7 χρησιμοποίησα ubuntu-18.04.3-amd64 μέσω του VirtualBox την Oracle.
+Για τις εργασίες του μαθήματος μπόρεσα να κάνω μόνο 5 γιατί με τις υπόλοιπες δυσκολέυτηκα. Για να κάνω αυτές τις εργασίες στο λάπτοπ μου που έχει Windows 7 χρησιμοποίησα ubuntu-18.04.3-amd64 μέσω του VirtualBox την Oracle.
 
 ### 1Η ΑΣΚΗΣΗ
 change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).
@@ -24,5 +24,32 @@ Link: https://asciinema.org/a/dasq4gskRJoICuZrDvMRVxM9p
 plan your time with a calendar.
 Link: https://asciinema.org/a/K13U8bFB9okfA45EnOIxny7B8
 
+### 5Η ΑΣΚΗΣΗ
+track your expenses,	add a source of income and some expenses
+Link: https://asciinema.org/a/fIht5nir1q1Y5Vvw2cS9y3WEn (στη συγκεκριμένη άσκηση δυσκολεύτηκα και δεν ξέρω άμα είναι σωστή)
+
+
 ## Συμπεράσματα
 Με το χρόνο που αφιέρωσα σε αυτές τις εργασίες έμαθα να χρησιμοποιώ τα linux. Επίσης εξοικειώθηκα με την χρήση του terminal και τις διάφορες εντολές του. Το μόνο πρόβλημα που αντιμετώπισα είναι ότι το VirtualBox ήταν λίγο αργό και μου επιβράδυνε την δουλειά μου.
+
+
+## Συμμετοχικό Υλικό
+Image1: https://github.com/p15baka1/gr/blob/master/images/1keyboard.normal.jpg
+
+thumbnail https://github.com/p15baka1/gr/blob/master/images/1keyboard.thumb.jpg
+
+md: https://github.com/p15baka1/gr/blob/master/_gallery/1keyboard.md
+
+Image2:https://github.com/p15baka1/gr/blob/master/images/2mouse.normal.jpg
+
+thumbnail https://github.com/p15baka1/gr/blob/master/images/2mouse.thumb.jpg
+
+md: https://github.com/p15baka1/gr/blob/master/_gallery/2mouse.md
+
+## Βιογραφίες:
+
+Πρώτη βιογραφία: https://github.com/p15baka1/gr/blob/master/_biography/August-Dvorak.md
+https://github.com/p15baka1/gr/blob/master/_biography/Bio-August-Dvorak.md
+
+Δεύτερη βιογραφία:https://github.com/p15baka1/gr/blob/master/_biography/Eric-Migicovsky.md
+https://github.com/p15baka1/gr/blob/master/_biography/bio-Eric-Migicovsky.md
