@@ -1,4 +1,4 @@
------
+---
 author: Dcoetzee
 title: "Bill Buxton"
 image_url: https://commons.wikimedia.org/wiki/File:Bill_Buxton.jpg
@@ -20,7 +20,7 @@ gallery:
     caption: "Το Bloomberg Businessweek , γνωστό προηγουμένως ως BusinessWeek , είναι ένα αμερικανικό εβδομαδιαίο επιχειρηματικό περιοδικό, που εκδίδεται 50 φορές το χρόνο. [2] Από το 2009, το περιοδικό ανήκει στο Bloomberg LP με βάση τη Νέα Υόρκη. Το περιοδικό έκανε το ντεμπούτο του στη Νέα Υόρκη τον Σεπτέμβριο του 1929. [3] Τα επιχειρηματικά περιοδικά Bloomberg Businessweek βρίσκονται στον Πύργο Bloomberg , Λεωφόρος 731 Lexington , East Side of Το Midtown Manhattan , η γειτονιά του Μανχάταν στη Νέα Υόρκη και τα περιοδικά της αγοράς βρίσκονται στοCitigroup Center , 153 East 53rd Street μεταξύ Lexington και Third Avenue , East Side of Midtown Manhattan , γειτονιά του Μανχάταν στη Νέα Υόρκη."
   - image_url: http://identitystandards.acm.org/sigs/SIGCHI_logo.jpg
     caption: "Η Ομάδα Ειδικού Ενδιαφέροντος για την Αλληλεπίδραση Υπολογιστών-Ανθρώπων ( SIGCHI ) είναι μία από τις ομάδες ειδικών ενδιαφερόντων του Συλλόγου Μηχανών Πληροφορικής που εστιάζεται στις αλληλεπιδράσεις ανθρώπου-υπολογιστή (HCI)"
------
+---
 
 {% include_relative Buxton.md %}
 
