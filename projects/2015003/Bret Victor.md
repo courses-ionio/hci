@@ -2,7 +2,7 @@
 author: Bret Victor
 title: "Bret Victor"
 image_url: https://commons.wikimedia.org/wiki/File:Bret_Victor.png
-caption: "Ο Bret Victor κάνει ομιλία Το μέλλον του προγραμματισμού στο συνέδριο του Dropbox DBX στις 9 Ιουλίου 2013"
+caption: "Ο Bret Victor κάνει ομιλία 'Το μέλλον του προγραμματισμού' στο συνέδριο του Dropbox DBX στις 9 Ιουλίου 2013"
 categories:
   - biography
   - definition
