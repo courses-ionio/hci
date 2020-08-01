@@ -37,4 +37,18 @@
   
   Επειτα χρησιμοποιησα καποιες βασικες εντολες οι οποιες θα ηταν χρησιμες για οποιονδηποτε χρηστη οπως ενδεικτικα μερικες για παραδειγμα, mkdir για να φτιαξεις καινουργιο directory, ls να εμφανισεις αρχεια, rmdir για να διαγραψεις καποιο directory, diff για να βρεις διαφορες μεταξυ αρχειων, nano test.txt ανοιγει καποιο αρχειο με ονομα test.txt για να το κανω edit το ιδιο και με vi απλως ο vi ειναι αλλος editor,cd για αν μετακινηθεις σε καποιο καταλογο π.χ. cd Downloads, cat test.txt εμφανιζει τα περιεχομενα του αρχειου στον terminal, rm διαγραφει καποιο αρχειο και πολλες αλλες βασικες εντολες οι οποιες ειναι πολυ απλες.
   
-  Τελος εφτιαξα ενα scriptaki ανοιγοντας ενα αρχειο με ονομα update.sh και γραφοντας τις εντολες sudo apt update && sudo apt upgrade && sudo apt dist-upgrade και καποια αλλα πραγματα.Εκανα εκτελεσιμο το scriptaki αφου το αποθηκευσα με την εντολη chmod +777 και το εκτελεσα με ./update.sh.Προφανως το scriptaki αυτο κανει update το συστημα.</p><hr/>
+  Τελος εφτιαξα ενα scriptaki ανοιγοντας ενα αρχειο με ονομα update.sh και γραφοντας τις εντολες sudo apt update && sudo apt upgrade && sudo apt dist-upgrade και καποια αλλα πραγματα.Εκανα εκτελεσιμο το scriptaki αφου το αποθηκευσα με την εντολη chmod +777 και το εκτελεσα με ./update.sh.Προφανως το scriptaki αυτο κανει update το συστημα.Γενικα τα λογισμικα ranger και thefuck και man ειναι πολυ χρησιμα για καποιον καινουργιο χρηστη καθως μπορει να διορθωνει ευκολα λαθη του να διαβαζει documentation να κανει browse αρχεια ευκολα κ.α.</p><hr/>
+
+<h5>ΑΣΚΗΣΗ 2</h5>
+  <ul>
+    <h5><li>title:convert between different text formats</li></h5>
+    <h5><li>deliverables:use vim (or emacs) to write your cv in markdown, track multiple formats with git and convert it to docx, html with pandoc</li></h5>
+    <h5><li>references used:<a href="https://pandoc.org/">pandoc_ref</a>,<a href="https://en.wikipedia.org/wiki/Git">git_ref</a></li></h5>
+    <h5><li>prerequisites:account in github</li></h5>
+    <h5><li>asciinema link:<a href="https://asciinema.org/a/qOa39dChv2Xu3hwHJFZxNF2K3">pandoc</a></li></h5>
+  </ul>  
+    <p>Σκοπος της ασκησης αυτης ειναι η μετατροπη αρχειων σε αλλα αρχεια.Αρχικα δοκιμασα απλως να εκτελεσω την εντολη pandoc και να τεσταρω το λογισμικο στο terminal.Εγραψα καποια πραγματα στο terminal προφανως σε markdown και τα μετετρεψε σε html αυτοματα πατοντας ctrl+d στο τελος αυτων καθως και εκτελεσα παρομοιες εντολες.Επειτα εφτιαξα ενα  αρχειο με ονομα test.md και εγραψα καποια πραγματα σε markdown μεσω του vi editor και επειτα χρησιμοποιησα την εντολη pandoc test.md -f markdown -t html -s -o test.html για να μετρατρεψω το αρχειο test.md σε test.html.
+  
+  Με τις παραμετρους -f κανεις specify τι τυπο εχει το αρχικο αρχειο δηλαδη markdown και με την -t τον τυπο που θα εχει μετα την μετατροπη το αρχειο δηλαδη html.Εκανα specify και το αρχικο και τελικο αρχειο δηλαδη απο test.md σε test.html.Κατι παρομοιο μπορεισ να κανεις για να μετατρεψεις ενα αρχειο απο markdown σε latex απλος αλλαζοντας την -t html σε -t latex και το τελικο αρχειο με test.latex.
+  
+  Μετα εκανα initialize ενα git repository και εφτιαξα ενα αρχειο σε markdown με ονομα link.md στο οποιο εβαλα ενα λινκ για το google.To εκανα add και commit στο repository και επειτα το μετετρεψα σε html μεσω της εντολης pandoc link.md -s -o link.html.Οπως βλεπετε οι παραμετροι -f και -t δεν ειανι υποχρεωτικοι.Εκανα το καινουργιο αρχειο add και commit και επειτα ανοιξα το αρχειο μεσω του lynx ο οποιος επειτα με συνεδεσε μεσω του αρχειου(γιατι ειχε το link σε html) στην σελιδα του google στην οποια αρχισα να ψαχνω πραγματα</p><hr/>
