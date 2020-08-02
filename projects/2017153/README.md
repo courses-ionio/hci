@@ -88,4 +88,12 @@ configuration αρχειο εξαρταται αναλογα με το shell π�
   
   Συμπερασματικα το zsh ειναι ενα αρκετα καλο shell γιατι αρχικα μπορει καποιος αρχαριος χρηστης να το κανει πολυ ευκολα config,εχει παρα πολλες επιλογες και επειτα εχει διαφορα προταιρηματα μερικα των οποιων ειναι 1.Αυτοματο cd: Απλως πληκτρολογεις το ονομα του καταλογου 2.Αναδρομικη επεκταση διαδρομης: Για παραδειγμα "/ u / lo / b" επεκτεινεται σε "/ usr / local / bin" 3.Διορθωση ορθογραφιας και κατα προσεγγιση ολοκληρωση: Εαν κανεις ανα μικρο λαθος πληκτρολογωντας ενα ονομα καταλογου, το zsh θα το διορθωσει 4.Υποστηριξη πολλων plugins και themes: Το zsh περιλαμβανει πολλα διαφορετικα plugins και themes</p><hr/>
 
-<a href="https://asciinema.org/a/rp5hqMxChupM64k0s2h6uLGSt">Test</a>
+<h5>ΑΣΚΗΣΗ 6</h5>
+  <ul>
+    <h5><li>title:organise the terminal window into multiple areas</li></h5>
+    <h5><li>deliverables:use one window to search-edit local files or browse the web and another window for performance monitoring</li></h5>
+    <h5><li>references used:<a href="https://en.wikipedia.org/wiki/Tmux">tmux_ref</a>,<a href="https://github.com/nicolargo/glances">glances_ref</a>,<a href="https://github.com/tmux/tmux/wiki">tmux2_ref</a>,htop</li></h5>
+    <h5><li>prerequisites:libevent and ncruses for tmux</li></h5>
+    <h5><li>asciinema link:<a href="https://asciinema.org/a/351219">organise terminal window into multiple areas</a></li></h5>
+  </ul> 
+    <p>Για αυτην την ασκηση αρχικα ξεκινησα ενα καινουργιο tmux session καλωντας τον tmux η tmux new και αλλαξα τα χρωματα παραμετροποιοντας το .tmux.conf αρχειο που εφτιαξα νωριτερα.Επειτα εκανα rename το session σε hci και εφτιαξα νεα windows στο session(προσοχη οχι panes windows).Αλλαξα τα ονοματα ολων των windows και χωρισα ενα window σε 3 panes.Στο ενα εκανα performance monitoring μεσω της htop εντολης στο αλλο εκανα browse το local file system μεσω της find | percol και στο τελευταιο εκανα browse το web μεσω του lynx που ειναι ενας text-based browser.Επειτα μετεβηκα στο window 2 και εκανα κατι παρομοιο αλλα αντι της htop χρησιμοποιησα τo glances λογισμικο αντι percol χρησιμοποιησα fzf και αντι lynx εφερα στο terminal ενα χαρτι ολου του κοσμου.Στο 3ο παραθυρο εφερα την ωρα σε ενα pane και καποιες ειδησεις σε αλλο ενω στο 4ο τον καιρο και εκανα edit το .bashrc αρχειο. Μετεβηκα απο το ενα window σε αλλο μεσω διαφορων shortcuts και διεγραψα windows panes παλι με shortcuts </p><hr/>
