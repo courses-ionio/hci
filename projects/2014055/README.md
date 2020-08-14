@@ -78,9 +78,33 @@ ranger
 ```
 
 
+## Άσκηση 3. Become productive with a todo list. Create a list of todos, edit, delete, and check some of them.
+
+[asciinema url](https://asciinema.org/a/GXWYZ4tDSb5DTUzWUQDEaSjjj)
+
+Αρχικά εγκατέστησα το taskwarrior
+
+```bash
+sudo apt-get install taskwarrior
+```
+
+Στην συνέχεια πρόσθεσα, επεξεργάστηκα, διέγραψα, ολοκλήρωσα διάφορα task με τις παρακάτω εντολές
 
 
+```bash
+task add <name>
+task add <name> due:<deadline>
+task <number> edit
+task <number> delete
+task <number> done
+```
 
+Στην συνέχεια κοίταξα το ημερολόγιο καθώς και ένα διάγραμμα με πληροφορίες για τα task μου. 
+
+```bash
+task calendar
+task burndown
+```
 
 
 
