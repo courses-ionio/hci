@@ -106,13 +106,36 @@ task calendar
 task burndown
 ```
 
+ΠΗΓΗ
+[taskwarrior.org](https://taskwarrior.org/docs/start.html)
 
 
 
+## Άσκηση 4. Τrack your time with a simple journal.
 
+[asciinema url](https://asciinema.org/a/hjJRxXKpR2hqal8y2rwdv171W)
 
+Αρχικά για να γίνει η εγκατάσταση του jrnl έπρεπε να εγκαταστήσω το python3-pip πρώτα και μετά το jrnl
 
+```bash
+sudo apt install python3-pip
+sudo pip3 install jrnl
+```
 
+Στην συνέχεια πρόσθεσα και επεξεργάστηκα κάποιες εισχωρήσεις του ημερολογίου μου.
 
+```bash
+jrnl <timeframe> *: <message>
+jrnl --edit
+```
+
+Σε περίπτωση που θες να αναζητήσεις μία συγκεκριμένη λέξη την αποθηκεύεις με @ και μετά η αναζήτηση γίνεται με την εντολή 
+
+```bash
+jrnl @<word>
+```
+
+ΠΗΓΗ
+[jrnl](https://jrnl.sh/)
 
 
