@@ -166,3 +166,31 @@ ranger
 
 
 
+## Άσκηση 6. Surf the web. Create a new elvi
+
+[asciinema url](https://asciinema.org/a/WZij9DlmKg6ZdhFHdbYEwWZHP)
+
+Αρχικά εγκατέστησα το surfraw
+
+```bash
+sudo apt-get install surfraw
+```
+
+Επεξεργάστηκα το αρχείο του elvi του surfraw ώστε να κάνει αναζήτηση στο wikipedia αντί για το youtube και στην συνέχεια εκτέλεσα την αναζήτηση με την εντολή 
+
+```bash
+sr wikipedia American football
+```
+
+To screenshot δεν έχει βγει καλά καθώς η άσκηση έγινε με virtual box. 
+
+
+![](Americanfootball.png)
+
+
+
+
+
+
+
+
