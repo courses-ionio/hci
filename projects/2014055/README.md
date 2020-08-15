@@ -139,3 +139,30 @@ jrnl @<word>
 [jrnl](https://jrnl.sh/)
 
 
+## Άσκηση 5. Organise the terminal window into multiple areas. Use one window to search-edit local files or browse the web and another window for performance monitoring	
+
+[asciinema url](https://asciinema.org/a/yCGKLmcIYrkhMQwCuAeGlZorJ)
+
+
+Για την άσκηση 5 έπρεπε αρχικά να εγκαταστήσω το tmux και το htop
+
+```bash
+sudo apt-get install tmux
+sudo apt-get install htop
+```
+
+Στην συνέχεια άνοιξα το tmux και χώρισα το terminal σε δύο παράθυρα και στο δεύτερο παράθυρο έτρεξα το htop ενώ στην συνέχεια έτρεξα το ranger (άσκηση 2) στο αρχικό παράθυρο και χρησιμοποίησα τις εντολές
+
+```bash
+ctrl b % (shift+5) //δημιουργία νέου παραθύρου
+htop
+ctrl b o // εναλλαγή παραθύρου
+ranger
+```
+
+Και στην συνέχεια μέσω του ranger επεξεργάστηκα και περιηγήθηκα το σύστημα όπως στην άσκηση 2. 
+
+Χρησιμοποίησα το  [superuser site](https://superuser.com/questions/266725/tmux-ctrlb-not-working/1171345) για να μάθω τον χειρισμό του tmux.
+
+
+
