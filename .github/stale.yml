@@ -1,9 +1,9 @@
 # Limit to only `issues` or `pulls`
 only: pulls
 # Number of days of inactivity before an issue becomes stale
-daysUntilStale: 7
+daysUntilStale: 365
 # Number of days of inactivity before a stale issue is closed
-daysUntilClose: 7
+daysUntilClose: 365
 # Label to use when marking an issue as stale
 staleLabel: Overdue
 # Comment to post when marking an issue as stale. Set to `false` to disable
