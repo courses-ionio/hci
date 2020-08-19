@@ -9,7 +9,8 @@
 
 ### [Προσωπικό αποθετήριο](https://github.com/p14papa1/hci)
 
-
+## Εισαγωγή
+Για τις 6 ασκήσεις που έγιναν χρησιμοποιήθηκε το Oracle VM virtual box και λειτουργικό σύστημα Ubuntu 20.04 . Επιπροσθέτως παραθέτονται όλα τα url για τις ασκήσεις που καταγράφτηκαν με το asciinema.
 
 
 
@@ -188,6 +189,50 @@ To screenshot δεν έχει βγει καλά καθώς η άσκηση έγ�
 ![](Americanfootball.png)
 
 
+# Συμμετοχικό Εκπαιδευτικό υλικό
+
+[Προσωπικό Αποθετήριο](https://github.com/p14papa1/pibook)
+
+[url Σελίδας Βιβλίου](https://p14papa1.netlify.app/)
+
+## Παραδοτέο 1.Β
+
+Νέο διαδραστικό παράδειγμα
+
+[Music Player](https://p14papa1.netlify.app/remix/music-player/)
+
+
+## Παραδοτέο 1.Β
+
+Νέο διαδραστικό παράδειγμα
+
+[Color Changing Scroll](https://p14papa1.netlify.app/remix/color-change/)
+
+
+## Παραδοτέο 1.Γ.1
+Νέα μελέτη περίπτωσης
+
+[Snapchat](https://p14papa1.netlify.app/case-study/snapchat/)
+
+Πηγή: [wikipedia](https://en.wikipedia.org/wiki/Snapchat)
+
+
+## Παραδοτέο 1.Γ.2
+Νέα Βιβλιογραφία
+
+[Stephen Gary Wozniak](https://p14papa1.netlify.app/biography/stephen-gary-wozniak/)
+
+Πηγή: [wikipedia](https://en.wikipedia.org/wiki/Steve_Wozniak)
+
+
+
+## Συμπεράσματα Ασκήσεων
+
+Με τις ασκήσεις έμαθα να χρησιμοποιώ το λογισμικό Ubuntu καθώς ήταν η πρώτη φορά που ασχολήθηκα με το terminal. Έμαθα αρκετές βασικές εντολές καθώς και αρκετά προγράμματα με τα οποία μπορούν να κάνουν την χρήση του terminal ακόμα πιο απλή ειδικά για ένα νέο χρήστη. 
+
+## Συμπεράσματα Συμμετοχικού Εκπαιδευτικού Υλικού
+
+Αρχικά έμαθα να χρησιμοποιώ καλύτερα το github καθώς και έμαθα να χρησιμοποιώ το codepen και netlify στο οποίο ανέβασα το αντίγραφο της ιστοσελίδας του βιβλίου. 
 
 
 
