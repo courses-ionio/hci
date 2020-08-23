@@ -51,7 +51,7 @@
 
 ## Συμμετοχικό περιεχόμενο:
 
-## Βιογραφίες:
+## Γ)Βιογραφίες:
 https://github.com/p13mark1/gr/blob/master/_biography/Bill%20Buxton.md
 https://github.com/p13mark1/gr/blob/master/_biography/Buxton.md
 
@@ -62,17 +62,26 @@ https://github.com/p13mark1/gr/blob/master/_biography/victor.md
 
 Picture:https://github.com/p13mark1/gr/blob/master/images/Bret_Victor.png
 
-## Pictures:
+Συμμετοχικό υλικό:
+
+## Α)Pictures:
 A)https://github.com/p13mark1/gr/blob/master/_gallery/chromecast.md
 
-https://github.com/p13mark1/gr/blob/master/images/Chromecast-2015.jpg
+Normal:https://github.com/p13mark1/gr/blob/master/images/Chromecast-2015.jpg
+
+160pixels:https://github.com/p13mark1/gr/blob/2015003/images/Chromecast-2015-160px.jpg
 
 B)https://github.com/p13mark1/gr/blob/master/_gallery/smartwartch.md
 
-https://github.com/p13mark1/gr/blob/master/images/Seiko_Data-2000%2C_The_First_Computer_Watch%2C_Circa_1983-1984%2C_LCD_Watch_with_Docking_Station.jpg
+Normal:https://github.com/p13mark1/gr/blob/master/images/Seiko_Data-2000%2C_The_First_Computer_Watch%2C_Circa_1983-1984%2C_LCD_Watch_with_Docking_Station.jpg
+
+160pixels:https://github.com/p13mark1/gr/blob/2015003/images/Seiko_Data-2000%20160px.jpg
 
 
-exrta:
-https://github.com/p13mark1/hci/blob/2015003/projects/2015003/airtype-main.jpg
-https://github.com/p13mark1/hci/blob/2015003/projects/2015003/future%20keyboard.jpg
+## Συμπερασα:
+Με την επίλυση των αυξήσεων 1-6 κατάφερα να εξοικειωθώ καλύτερα στο λογισμικό "Ubuntu"(linux),το οποίο δεν χρησιμοποιήσαμε πριν στην σχόλη η ακόμα και εγώ στο παρελθόν. Λύνοντας της ασκήσεις έμαθα μα χρησιμοποιώ εντολές όπως  neofetch,ranger ,task,surfraw κτλ. ωστόσο μου άνοιξε ένα νέο προορισμό για τη χρήση ενός διαφορετικού λογισμικού πέρα τον windows που στο μέλλον θα με βοηθήσει άμεσα εφόσον μου αυξάνει τις δυνατότητες μου.Ακομη για την καταγραφεί τον αποτελεσμάτων και την αποδείξει της επίλυσης χρησιμοποιήσαμε το πρόγραμμα  asciinema(ένα πρόγραμμα καταγραφής του screen μας με σκοπό να αποδείξουμε το αποτέλεσμα μας).
+
+Στην συνεχεία δοκιμάσαμε και δείξαμε μια νέα τεχνική ανάπτυξης μέσα στο github με σκοπό την έρευνα κάποιον σημαντικών ανθρώπων στον τομέα τις πληροφορικής με μεγάλα επιτεύγματα. Με αυτό το τρόπο έμαθα σημαντικές πληροφορίες από της βιογραφίες τους και τα κατορθώματα τους που θα εμπνεύσει το μέλλον μου ωστόσο με την ανάπτυξη κάποιον εικόνων εξοικειώθηκα στην χρήση των εικόνων στο διαδίκτυο χωρίς την καταπάτηση των δικαιωμάτων τους.
+
+Οι εργασίες αυτές με έφεραν ποιο κοντά στο github που στις μέρες μας φέρνει μια από της καλύτερες, δημοφιλέστερες και ενεργές ιστοσελίδες εφόσον μπορείς να μοιραστής των κωδικά σου και τα αποτελέσματα τους με άλλους χρήστες η και ακόμα την αλληλοβοήθεια μεταξύ των χρηστών για το τελειοποίηση και λειτουργιά του τερματικού.
 
