@@ -10,8 +10,12 @@
 ### [Προσωπικό αποθετήριο](https://github.com/VaggelisKa/hci)
 
 ## Εισαγωγή
-Για τις 6 ασκήσεις που έγιναν χρησιμοποιήθηκε το Oracle VM virtual box και λειτουργικό σύστημα Ubuntu 20.04 . Επιπροσθέτως παραθέτονται όλα τα url για τις ασκήσεις που καταγράφτηκαν με το asciinema.
+Για τις 6 ασκήσεις που έγιναν χρησιμοποιήθηκε Windows 10 μηχάνημα πάνω στο οποίο τρέχει το Oracle VM virtual box και λειτουργικό σύστημα Ubuntu 14.04 .Ακόμα έγινε χρήση του προγράμματος ascinemaa για την καταγραφή των demo videos.
 
 
 
-## Άσκηση 1. Set-up the main dependencies and demonstrate your base system. change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information
+
+## Συμμετοχικό περιεχόμενο
+
+### Url σελίδας βιβλίου
+### Αποθετήριο βιβλίου
