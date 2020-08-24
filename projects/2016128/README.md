@@ -19,3 +19,9 @@
 
 ### [Url σελίδας βιβλίου](https://vaggelis-kara.netlify.app)
 ### [Αποθετήριο βιβλίου](https://github.com/VaggelisKa/site)
+
+#### Παραδοτέο 1.Α
+Προσθήκη νέων εικόνων
+
+##### Remarkable 
+##### Virtuix omni 
