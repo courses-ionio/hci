@@ -17,5 +17,5 @@
 
 ## Συμμετοχικό περιεχόμενο
 
-### Url σελίδας βιβλίου
-### Αποθετήριο βιβλίου
+### [Url σελίδας βιβλίου](https://vaggelis-kara.netlify.app)
+### [Αποθετήριο βιβλίου](https://github.com/VaggelisKa/site)
