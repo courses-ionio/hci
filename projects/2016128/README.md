@@ -10,8 +10,37 @@
 ### [Προσωπικό αποθετήριο](https://github.com/VaggelisKa/hci)
 
 ## Εισαγωγή
-Για τις 6 ασκήσεις που έγιναν χρησιμοποιήθηκε Windows 10 μηχάνημα πάνω στο οποίο τρέχει το Oracle VM virtual box και λειτουργικό σύστημα Ubuntu 14.04 .Ακόμα έγινε χρήση του προγράμματος ascinemaa για την καταγραφή των demo videos.
+Για τις 6 ασκήσεις που έγιναν χρησιμοποιήθηκε μηχάνημα με λογισμικό MacOS Catalina 10.15.6, Iterm2 με shell: zsh 5.7.1
 
+
+### Άσκηση 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
+#### [Demo Video](https://asciinema.org/a/HD1fvA8Lzd3XRDHFpn1SLs5ex)
+Αρχικά εγκατέστησα το Homebrew ως packet manager
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+```
+
+Άλλαξα το command prompt απο το αρχείο .zshrc, ανοίγοντας το αρχείο για να αλλάξει το prompt πρόσθεσα 2 καινούργια lines
+
+```
+sudo nano ~/.zshrc
+setopt PROMPT_SUBST
+PROMPT='P2016128%  '
+```
+
+Εμφάνισα όλα τα dot files με την εντολή.
+
+```
+ls -a
+```
+
+Eγκατέστησα το neofech για να δείξω software & hardware
+```
+brew install neofetch
+neofech
+```
 
 
 
