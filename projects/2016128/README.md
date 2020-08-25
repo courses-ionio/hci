@@ -124,6 +124,41 @@ jrnl -n 10 (last 10 days)
 ### Πληροφορήθηκα για το συντακτικό απο εδώ https://jrnl.sh/usage/
 
 
+## Άσκηση 5. Organise the terminal window into multiple areas. Use one window to search-edit local files or browse the web and another window for performance monitoring	
+
+[Demo Video](https://asciinema.org/a/355503)
+
+
+Αρχικα εγκατέστησα το tmux
+
+```
+brew install tmux
+```
+για να γίνει το split
+
+```
+ctrl b %
+```
+
+για εναλλαγή παραθύρων
+```
+ctrl b o
+```
+
+Για να δω τις διεργασίες, να βρω και να επεξεργαστώ αρχείο
+```
+top
+cd <location>
+ls -a
+vim <filename>
+```
+
+Boήθεια απο: [Tmux tutorial Youtube](https://www.youtube.com/watch?v=BHhA_ZKjyxo)
+
+
+
+
+
 
 ## Συμμετοχικό περιεχόμενο
 
