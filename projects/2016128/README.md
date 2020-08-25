@@ -103,6 +103,26 @@ task <number> done
 task calendar
 ```
 
+## Άσκηση 4. Τrack your time with a simple journal.
+
+### [Demo Video](https://asciinema.org/a/355483)
+
+Αρχικά εγκατέστησα το jrnl
+
+```
+brew install jrnl
+```
+
+Συνεχίζοντας πρόσθεσα συμβάντα στο journal μου
+
+```
+jrnl <timeframe>: <message>
+jrnl --edit
+jrnl -n 10 (last 10 days)
+```
+
+### Πληροφορήθηκα για το συντακτικό απο εδώ https://jrnl.sh/usage/
+
 
 
 ## Συμμετοχικό περιεχόμενο
