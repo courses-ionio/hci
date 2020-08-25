@@ -78,14 +78,14 @@ vim Exercise2
 
 ## Άσκηση 3. Become productive with a todo list. Create a list of todos, edit, delete, and check some of them.
 
-[Demo Video Part I](https://asciinema.org/a/355470)
+### [Demo Video Part I](https://asciinema.org/a/355470)
 Ξεκινάω με την εγκατάσταση του task warrior
 
 ```
 brew install taskwarrior
 ```
 
-[Demo Video Part II](https://asciinema.org/a/355474)
+### [Demo Video Part II](https://asciinema.org/a/355474)
 Συνεχίζοντας, δημιούργησα και επεξεργάστηκα λίστα με τα tasks
 
 ```
