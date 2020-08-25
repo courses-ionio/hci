@@ -13,7 +13,7 @@
 Για τις 6 ασκήσεις που έγιναν χρησιμοποιήθηκε μηχάνημα με λογισμικό MacOS Catalina 10.15.6, Iterm2 με shell: zsh 5.7.1
 
 
-### Άσκηση 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
+## Άσκηση 1. Set-up the main dependencies and demonstrate your base system - Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 #### [Demo Video](https://asciinema.org/a/HD1fvA8Lzd3XRDHFpn1SLs5ex)
 Αρχικά εγκατέστησα το Homebrew ως packet manager
 
@@ -43,7 +43,7 @@ neofech
 ```
 
 
-### Άσκηση 2. Βrowse and view files on your system.
+## Άσκηση 2. Βrowse and view files on your system.
 #### [Demo Video Part I](https://asciinema.org/a/lLfTkvaQoxLCeroToKOhXh6sd)
 Εγκατέστησα το ranger και το vim.
 
@@ -72,6 +72,35 @@ ranger
 ```
 vim Exercise2
 :wq (save & quit)
+```
+
+
+
+## Άσκηση 3. Become productive with a todo list. Create a list of todos, edit, delete, and check some of them.
+
+[Demo Video Part I](https://asciinema.org/a/355470)
+Ξεκινάω με την εγκατάσταση του task warrior
+
+```
+brew install taskwarrior
+```
+
+[Demo Video Part II](https://asciinema.org/a/355474)
+Συνεχίζοντας, δημιούργησα και επεξεργάστηκα λίστα με τα tasks
+
+```
+task add <name>
+task add <name> due:<deadline>
+task <number> edit
+task <number> delete
+task <number> done
+```
+### Πληροφορήθηκα για το συντακτικό απο εδώ https://taskwarrior.org/docs/syntax.html
+
+Στην συνέχεια κοίταξα το ημερολόγιο που συμπεριλαμβάνει όλα τα tasks που πρόστεθηκαν
+
+```
+task calendar
 ```
 
 
