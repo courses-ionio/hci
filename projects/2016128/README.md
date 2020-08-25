@@ -43,6 +43,38 @@ neofech
 ```
 
 
+### Άσκηση 2. Βrowse and view files on your system.
+#### [Demo Video Part I](https://asciinema.org/a/lLfTkvaQoxLCeroToKOhXh6sd)
+Εγκατέστησα το ranger και το vim.
+
+```
+brew install vim
+brew install vim
+```
+
+#### [Demo Video Part II](https://asciinema.org/a/HfJP0UF38SR8Ph8dV2rHvVdUO)
+
+Χρησιμοποίησα τις παρακάτω εντολές για να δω το documentation του vim & ranger αντίστοιχα
+
+```
+man vim
+man ranger
+```
+
+Χρησιμοποίησα το ranger για να δω τους φακέλους και directories μου.
+
+```
+ranger
+```
+
+Χρησιμοποίησα τον vim editor για να δημιουργήσω ένα νέο αρχείο στο οποίο έγραψα και στη συνέχεια αποθήκευσα
+
+```
+vim Exercise2
+:wq (save & quit)
+```
+
+
 
 ## Συμμετοχικό περιεχόμενο
 
