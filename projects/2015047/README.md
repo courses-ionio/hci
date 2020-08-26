@@ -7,26 +7,32 @@
 
 ### 1Η ΑΣΚΗΣΗ
 change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).
+
 Link: https://asciinema.org/a/50UfMMuaAPhI8AaxGBpIivtkl
 
 ### 2Η ΑΣΚΗΣΗ
 browse and view files on your system.
+
 Link: https://asciinema.org/a/mmLsnT5pd76Brp2L6cOlsAYWT
 
 ### 3Η ΑΣΚΗΣΗ
 create a list of todos, edit, delete, and check some of them.
+
 Link: https://asciinema.org/a/dasq4gskRJoICuZrDvMRVxM9p
 
 ### 4Η ΑΣΚΗΣΗ
 plan your time with a calendar.
+
 Link: https://asciinema.org/a/K13U8bFB9okfA45EnOIxny7B8
 
 ### 5Η ΑΣΚΗΣΗ
 track your expenses,	add a source of income and some expenses
+
 Link: https://asciinema.org/a/fIht5nir1q1Y5Vvw2cS9y3WEn
 
 ### 6Η ΑΣΚΗΣΗ
 surf the web
+
 Link: https://asciinema.org/a/12eJNYd4j7tiqfX7qDFu7AyTY
 
 
@@ -48,12 +54,16 @@ thumbnail: https://github.com/p15baka1/gr/blob/master/images/2mouse.thumb.jpg
 
 ## Βιογραφίες:
 1)Πρώτη βιογραφία:
+
 Σύντομη βιογραφία August Dvorak: https://github.com/p15baka1/gr/blob/master/_biography/Bio-August-Dvorak.md
+
 August Dvorak: https://github.com/p15baka1/gr/blob/master/_biography/August-Dvorak.md
 
 
 2)Δεύτερη βιογραφία:
+
 Σύντομη βιογραφία Eric Migicovsky: https://github.com/p15baka1/gr/blob/master/_biography/bio-Eric-Migicovsky.md
+
 Eric Migicovsky: https://github.com/p15baka1/gr/blob/master/_biography/Eric-Migicovsky.md
 
 ## Τελική αναφορά
