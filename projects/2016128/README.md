@@ -200,7 +200,7 @@ sudo nano angular // για να μπω στο file και να τον αλλά�
 ### [Αποθετήριο βιβλίου](https://github.com/VaggelisKa/site)
 
 
-#### Παραδοτέο 1.Β1
+### Παραδοτέο 1.Β1
 Προσθήκη διαδραστικού παραδείγματος
 
 [Tic-Tac-Toe](https://vaggelis-kara.netlify.app/remix/tic-tac-toe/)
@@ -210,7 +210,7 @@ sudo nano angular // για να μπω στο file και να τον αλλά�
 [Pug Docs](https://pugjs.org/api/getting-started.html),
 [SCSS Docs](https://sass-lang.com/documentation),
 
-#### Παραδοτέο 1.Β2
+### Παραδοτέο 1.Β2
 Προσθήκη διαδραστικού παραδείγματος
 
 [Hover-Effects](https://vaggelis-kara.netlify.app/remix/hover-effects/)
@@ -219,14 +219,14 @@ sudo nano angular // για να μπω στο file και να τον αλλά�
 [Similar Project](https://codepen.io/davidicus/pen/emgQKJ),
 [SCSS Docs](https://sass-lang.com/documentation)
 
-#### Παραδοτέο 1.Γ1
+### Παραδοτέο 1.Γ1
 Προσθήκη βιογραφίας
 
 [Σύντομη βιογραφία του Jack Dorsey](https://vaggelis-kara.netlify.app/biography/jack-dorsey/)
 
 Πηγή: [Wikipedia](https://en.wikipedia.org/wiki/Jack_Dorsey)
 
-#### Παραδοτέο 2.Γ1
+### Παραδοτέο 2.Γ1
 Προσθήκη βιογραφίας
 
 [Σύντομη βιογραφία του Bill Gates](https://vaggelis-kara.netlify.app/biography/bill-gates/)
