@@ -78,14 +78,14 @@ vim Exercise2
 
 ## Άσκηση 3. Become productive with a todo list. Create a list of todos, edit, delete, and check some of them.
 
-### [Demo Video Part I](https://asciinema.org/a/355470)
+#### [Demo Video Part I](https://asciinema.org/a/355470)
 Ξεκινάω με την εγκατάσταση του task warrior
 
 ```
 brew install taskwarrior
 ```
 
-### [Demo Video Part II](https://asciinema.org/a/355474)
+#### [Demo Video Part II](https://asciinema.org/a/355474)
 Συνεχίζοντας, δημιούργησα και επεξεργάστηκα λίστα με τα tasks
 
 ```
@@ -105,7 +105,7 @@ task calendar
 
 ## Άσκηση 4. Τrack your time with a simple journal.
 
-### [Demo Video](https://asciinema.org/a/355483)
+#### [Demo Video](https://asciinema.org/a/355483)
 
 Αρχικά εγκατέστησα το jrnl
 
@@ -126,7 +126,7 @@ jrnl -n 10 (last 10 days)
 
 ## Άσκηση 5. Organise the terminal window into multiple areas. Use one window to search-edit local files or browse the web and another window for performance monitoring	
 
-[Demo Video](https://asciinema.org/a/355503)
+#### [Demo Video](https://asciinema.org/a/355503)
 
 
 Αρχικα εγκατέστησα το tmux
@@ -159,7 +159,7 @@ Boήθεια απο: [Tmux tutorial Youtube](https://www.youtube.com/watch?v=BHh
 
 ## Άσκηση 6. Surf the web. Create a new elvi
 
-[Demo Video](https://asciinema.org/a/355696)
+#### [Demo Video](https://asciinema.org/a/355696)
 
 Αρχικά εγκατέστησα το surfraw
 
@@ -199,8 +199,9 @@ sudo nano angular // για να μπω στο file και να τον αλλά�
 ### [Url σελίδας βιβλίου](https://vaggelis-kara.netlify.app)
 ### [Αποθετήριο βιβλίου](https://github.com/VaggelisKa/site)
 
-#### Παραδοτέο 1.Α
-Προσθήκη νέων εικόνων
+#### Παραδοτέο 1.Γ1
+Προσθήκη βιογραφίας
 
-##### Remarkable 
-##### Virtuix omni 
+[Σύντομη βιογραφία του Jack Dorsey](https://vaggelis-kara.netlify.app/biography/jack-dorsey/)
+
+
