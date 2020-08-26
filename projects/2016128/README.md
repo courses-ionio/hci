@@ -49,7 +49,7 @@ neofech
 
 ```
 brew install vim
-brew install vim
+brew install ranger
 ```
 
 #### [Demo Video Part II](https://asciinema.org/a/HfJP0UF38SR8Ph8dV2rHvVdUO)
