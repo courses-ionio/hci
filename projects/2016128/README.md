@@ -95,7 +95,7 @@ task <number> edit
 task <number> delete
 task <number> done
 ```
-### Πληροφορήθηκα για το συντακτικό απο εδώ https://taskwarrior.org/docs/syntax.html
+Πληροφορήθηκα για το συντακτικό απο εδώ https://taskwarrior.org/docs/syntax.html
 
 Στην συνέχεια κοίταξα το ημερολόγιο που συμπεριλαμβάνει όλα τα tasks που πρόστεθηκαν
 
@@ -121,7 +121,7 @@ jrnl --edit
 jrnl -n 10 (last 10 days)
 ```
 
-### Πληροφορήθηκα για το συντακτικό απο εδώ https://jrnl.sh/usage/
+Πληροφορήθηκα για το συντακτικό απο εδώ https://jrnl.sh/usage/
 
 
 ## Άσκηση 5. Organise the terminal window into multiple areas. Use one window to search-edit local files or browse the web and another window for performance monitoring	
@@ -157,6 +157,40 @@ Boήθεια απο: [Tmux tutorial Youtube](https://www.youtube.com/watch?v=BHh
 
 
 
+## Άσκηση 6. Surf the web. Create a new elvi
+
+[Demo Video](https://asciinema.org/a/355696)
+
+Αρχικά εγκατέστησα το surfraw
+
+```
+brew install surfraw
+```
+
+Στη συνέχεια χρειάστηκε να αλλάξω το surfraw configuration file διότι δεν άνοιγε ο browser, πρόσθεσα τα παρακάτω lines
+
+```
+SURFRAW_graphical=yes
+SURFRAW_graphical_browser=open
+SURFRAW_text_browser=open
+```
+[Πηγή](https://apple.stackexchange.com/questions/121755/how-to-configure-surfraw-on-osx)
+
+Mετά επρέπε να δημιουργήσω ένα local elvis folder και να αντιγράψω την τοποθεσία του κώδικα που ανοίγει το youtube και να κάνω κάποια modifications έτσι ώστε να ανοίξει τη σείδα που θέλω (Angular Docs)
+
+```
+cd .config
+mkdir surfraw
+cd surfraw
+mkdir elvi
+cd elvi
+cp /usr/local/crate/2.3.0/surfraw/youtube angular // aντιγραφή και μετονομασία ως angular
+sudo nano angular // για να μπω στο file και να τον αλλάξω
+```
+
+Για τα Modifications απλά αντικατέστησα το link του  youtube με αυτό της σελίδας που θέλω
+
+[Βοήθεια απο tutorial](https://www.youtube.com/watch?v=FvimaTL_kJU)
 
 
 
