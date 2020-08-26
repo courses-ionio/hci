@@ -206,9 +206,9 @@ sudo nano angular // για να μπω στο file και να τον αλλά�
 [Tic-Tac-Toe](https://vaggelis-kara.netlify.app/remix/tic-tac-toe/)
 
 Πηγές-Βοήθειες: 
-[Similar Project](https://codepen.io/tyl-er/pen/QpBErL)
-[Pug Docs](https://pugjs.org/api/getting-started.html)
-[SCSS Docs](https://sass-lang.com/documentation)
+[Similar Project](https://codepen.io/tyl-er/pen/QpBErL),
+[Pug Docs](https://pugjs.org/api/getting-started.html),
+[SCSS Docs](https://sass-lang.com/documentation),
 
 #### Παραδοτέο 1.Β2
 Προσθήκη διαδραστικού παραδείγματος
@@ -216,7 +216,7 @@ sudo nano angular // για να μπω στο file και να τον αλλά�
 [Hover-Effects](https://vaggelis-kara.netlify.app/remix/hover-effects/)
 
 Πηγές-Βοήθειες:
-[Similar Project](https://codepen.io/davidicus/pen/emgQKJ)
+[Similar Project](https://codepen.io/davidicus/pen/emgQKJ),
 [SCSS Docs](https://sass-lang.com/documentation)
 
 #### Παραδοτέο 1.Γ1
