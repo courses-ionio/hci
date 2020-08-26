@@ -37,7 +37,7 @@ Link: https://asciinema.org/a/12eJNYd4j7tiqfX7qDFu7AyTY
 
 
 ## Συμμετοχικό Υλικό
-Δύο εικόνες με ελεύθερα πνευματικά δικαιώματα
+# Δύο εικόνες με ελεύθερα πνευματικά δικαιώματα
 Image1 An alphanumeric computer keyboard.
 
 κανονικό μέγεθος: https://github.com/p15baka1/gr/blob/master/images/1keyboard.normal.jpg
@@ -54,7 +54,7 @@ thumbnail: https://github.com/p15baka1/gr/blob/master/images/2mouse.thumb.jpg
 
 Περιγραφή: https://github.com/p15baka1/gr/blob/master/_gallery/2mouse.md
 
-Βιογραφίες:
+# Βιογραφίες:
 1)Πρώτη βιογραφία:
 
 Σύντομη βιογραφία August Dvorak: https://github.com/p15baka1/gr/blob/master/_biography/Bio-August-Dvorak.md
@@ -67,6 +67,9 @@ August Dvorak: https://github.com/p15baka1/gr/blob/master/_biography/August-Dvor
 Σύντομη βιογραφία Eric Migicovsky: https://github.com/p15baka1/gr/blob/master/_biography/bio-Eric-Migicovsky.md
 
 Eric Migicovsky: https://github.com/p15baka1/gr/blob/master/_biography/Eric-Migicovsky.md
+
+# Μια νέα μελέτη περίπτωσης:
+Steam https://github.com/p15baka1/gr/blob/master/_case-study/steam.md
 
 ## Τελική αναφορά
 Οι ασκήσεις αυτές αφορούν το τερματικό στο λογισμικό "Ubuntu", με το οποίο δεν είχε τύχει να ασχοληθώ κάποια στιγμή στο παρελθόν και αυτό είχε ως συνέπεια να έχω μεγαλύτερο ενδιαφέρον και περισσότερη αναζήτηση για την πραγματοποίηση των ζητούμενων εργασιών. Σε καθεμία από τις ασκήσεις υπάρχει το αντίστοιχο link όπου μπορεί να φανεί η υλοποίηση τους στο asciinema. Κατάφερα να πραγματοποιήσω 6 από τα ζητούμενα. Εξοικιώθηκα με την εγκατάσταση των Ubuntu μέσω virtualBox,το περιβάλλον του τερματικού και κάποιες από τις βασικές δυνατότητες που προσφέρει.
