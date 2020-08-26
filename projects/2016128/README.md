@@ -199,6 +199,26 @@ sudo nano angular // για να μπω στο file και να τον αλλά�
 ### [Url σελίδας βιβλίου](https://vaggelis-kara.netlify.app)
 ### [Αποθετήριο βιβλίου](https://github.com/VaggelisKa/site)
 
+
+#### Παραδοτέο 1.Β1
+Προσθήκη διαδραστικού παραδείγματος
+
+[Tic-Tac-Toe](https://vaggelis-kara.netlify.app/remix/tic-tac-toe/)
+
+Πηγές-Βοήθειες: 
+[Similar Project](https://codepen.io/tyl-er/pen/QpBErL)
+[Pug Docs](https://pugjs.org/api/getting-started.html)
+[SCSS Docs](https://sass-lang.com/documentation)
+
+#### Παραδοτέο 1.Β2
+Προσθήκη διαδραστικού παραδείγματος
+
+[Hover-Effects](https://vaggelis-kara.netlify.app/remix/hover-effects/)
+
+Πηγές-Βοήθειες:
+[Similar Project](https://codepen.io/davidicus/pen/emgQKJ)
+[SCSS Docs](https://sass-lang.com/documentation)
+
 #### Παραδοτέο 1.Γ1
 Προσθήκη βιογραφίας
 
