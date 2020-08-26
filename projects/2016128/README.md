@@ -204,4 +204,9 @@ sudo nano angular // για να μπω στο file και να τον αλλά�
 
 [Σύντομη βιογραφία του Jack Dorsey](https://vaggelis-kara.netlify.app/biography/jack-dorsey/)
 
+#### Παραδοτέο 2.Γ1
+Προσθήκη βιογραφίας
+
+[Σύντομη βιογραφία του Bill Gates](https://vaggelis-kara.netlify.app/biography/bill-gates/)
+
 
