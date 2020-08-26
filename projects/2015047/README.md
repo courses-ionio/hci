@@ -39,6 +39,7 @@ Link: https://asciinema.org/a/12eJNYd4j7tiqfX7qDFu7AyTY
 ## Συμμετοχικό Υλικό
 Δύο εικόνες με ελεύθερα πνευματικά δικαιώματα
 Image1 An alphanumeric computer keyboard.
+
 κανονικό μέγεθος: https://github.com/p15baka1/gr/blob/master/images/1keyboard.normal.jpg
 
 thumbnail: https://github.com/p15baka1/gr/blob/master/images/1keyboard.thumb.jpg
@@ -46,13 +47,14 @@ thumbnail: https://github.com/p15baka1/gr/blob/master/images/1keyboard.thumb.jpg
 Περιγραφή: https://github.com/p15baka1/gr/blob/master/_gallery/1keyboard.md
 
 Image2 A red computer mouse.
+
 κανονικό μέγεθος:https://github.com/p15baka1/gr/blob/master/images/2mouse.normal.jpg
 
 thumbnail: https://github.com/p15baka1/gr/blob/master/images/2mouse.thumb.jpg
 
 Περιγραφή: https://github.com/p15baka1/gr/blob/master/_gallery/2mouse.md
 
-## Βιογραφίες:
+Βιογραφίες:
 1)Πρώτη βιογραφία:
 
 Σύντομη βιογραφία August Dvorak: https://github.com/p15baka1/gr/blob/master/_biography/Bio-August-Dvorak.md
