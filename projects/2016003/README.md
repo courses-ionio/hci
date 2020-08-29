@@ -17,5 +17,16 @@
 ***[Github Profile](https://github.com/GiotaAthanasaki)***
 
 
-**Μέρος 1ο: HCI-Terminal Assignments- ΑΣΚΗΣΕΙΣ:**
-____________________________________________________________________
+## Μέρος 1ο: ***HCI - Terminal Assignments - Ασκήσεις:***
+
+**Άσκηση 1 :**
+
+---------------------------------------------------------
+***Αλλαγή ονόματος command prompt με το studentID, εμφάνιση πληροφοριών λογισμικού και υλικού (sw & hw),επεξεργασία ρυθμίσεων τερματικού (bash shell).***
+
+-  Ουσιαστικά επεξεργαστήκαμε κατάλληλα το αρχείο `~/.bashrc` ώστε να αντικαταστήσουμε την μεταβλητή `PS1` με τον αριθμό μητρώου χρησιμοποιώντας την εντολή
+`nano ~/.bashrc` ή `vi ~/.bashrc` .
+- Εμφανίσαμε τις πληροφορίες του software του συστήματος μας με την εντολή `uname -a` η οποία δείχνει πληροφορίες για την έκδοση kernel, τύπος λειτουργικού κλπ και τα συγκρίναμε με αυτά που εμφανίζει το πακέτο-εντολή `neofetch` (σημείωση έπρεπε να γίνει install με `sudo apt install neofetch`) επείτα εμφανίσαμε της πληροφορίες του hardaware με την εντολή `lshw | less` με χρήση της `less` για να φορτώνουμε το περιεχόμενο λίγο λίγο πατώντας `enter`.
+
+  Captures : [Asciinema link full steps](https://asciinema.org/a/356328), 
+           [Asciinema without showing the first step of changing name](https://asciinema.org/a/356329)
