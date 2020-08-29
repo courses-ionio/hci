@@ -17,3 +17,8 @@ Asciinema Link: https://asciinema.org/a/SAomgE03j3SfrDPJwqp75QLJE
 Become productive with a todo list(create a list of todos, edit, delete, and check some of them).
 
 Asciinema Link: https://asciinema.org/a/PNiVxs9Ua8mmixCmvyPZ9HayT
+
+### 4Η ΑΣΚΗΣΗ
+Track your expenses(add a source of income and some expenses).
+
+Asciinema Link: https://asciinema.org/a/zv2qDBFCj1oFVj55kL0mk1r6Q
