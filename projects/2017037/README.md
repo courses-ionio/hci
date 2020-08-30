@@ -27,3 +27,8 @@ Asciinema Link: https://asciinema.org/a/zv2qDBFCj1oFVj55kL0mk1r6Q
 Search the local file system(search for your shell configuration file and open it for editing and search for the contents of a text file).
 
 Asciinema Link: https://asciinema.org/a/FwotT6YEmBv1HWiFTqBRagDMH
+
+### 6Η ΑΣΚΗΣΗ
+Track your time with a simple journal(tracking my everyday activities).
+
+Asciinema Link: https://asciinema.org/a/VET2UzSuu7evhH36NgjqcPkMQ
