@@ -22,3 +22,8 @@ Asciinema Link: https://asciinema.org/a/PNiVxs9Ua8mmixCmvyPZ9HayT
 Track your expenses(add a source of income and some expenses).
 
 Asciinema Link: https://asciinema.org/a/zv2qDBFCj1oFVj55kL0mk1r6Q
+
+### 5Η ΑΣΚΗΣΗ
+Search the local file system(search for your shell configuration file and open it for editing and search for the contents of a text file).
+
+Asciinema Link: https://asciinema.org/a/FwotT6YEmBv1HWiFTqBRagDMH
