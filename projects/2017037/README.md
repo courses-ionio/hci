@@ -32,3 +32,20 @@ Asciinema Link: https://asciinema.org/a/FwotT6YEmBv1HWiFTqBRagDMH
 Track your time with a simple journal(tracking my everyday activities).
 
 Asciinema Link: https://asciinema.org/a/VET2UzSuu7evhH36NgjqcPkMQ
+
+## Συμμετοχικό Εκπαιδευτικό Υλικό
+
+[Link της σελίδας του βιβλίου](https://dimitrisantonoulis.netlify.com/)</br>
+[Link προσωπικού αποθετηρίου του βιβλίου](https://github.com/DimitrisAntonoulis/gr)
+
+### A: Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
+
+Στο παραδοτέο αυτό πρόσθεσα 2 εικόνες, τις τοποθέτησα σε ανάλογα categories συμπλήρωσα μια λεζάντα και πρόσθεσα σχετικά tags. Οι φωτογραφίες αφορούν το e-book καθώς και το smartwatch.
+
+
+### Β: Βιογραφία
+
+Στο παραδοτέο αυτό πρόσθεσα μια σύντομη βιογραφία για τον William Robert Sutherland.
+
+[Bιβλίο](https://dimitrisantonoulis.netlify.com/)</br>
+[Αποθετήριο](https://github.com/DimitrisAntonoulis/gr)
