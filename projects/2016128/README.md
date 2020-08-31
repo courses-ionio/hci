@@ -176,7 +176,7 @@ SURFRAW_text_browser=open
 ```
 [Πηγή](https://apple.stackexchange.com/questions/121755/how-to-configure-surfraw-on-osx)
 
-Mετά επρέπε να δημιουργήσω ένα local elvis folder και να αντιγράψω την τοποθεσία του κώδικα που ανοίγει το youtube και να κάνω κάποια modifications έτσι ώστε να ανοίξει τη σείδα που θέλω (Angular Docs)
+Mετά επρέπε να δημιουργήσω ένα local elvis folder, να αντιγράψω την τοποθεσία του κώδικα που ανοίγει το youtube και να κάνω κάποια modifications έτσι ώστε να ανοίξει τη σείδα που θέλω (Angular Docs)
 
 ```
 cd .config
