@@ -105,12 +105,91 @@
 ### [Σύνδεσμος αποθετήριου switch ](https://github.com/p18myro/gr/blob/gh-pages/_remix/switch.md)
 ### [Σύνδεσμος διαδραστικού παραδειγμάτος switch](https://p18myro.github.io/gr/remix/switch/)
 
+## Επιπλέον δύο εργασίες συμμετοχικού περιεχομένου αντι εξεταστικής Σεπτεμβρίου
+
+## Παραδοτέο Γ
+
+Δημιουργία βιογραφικού
+
+Για την διεκπεραίωση του παραδοτέου Γ έφτιαξα το βιογραφικό του Douglas Engelbart. Κάνοντας έρευνα στο διαδίκτυο συνέθεσα το βιογραφικό και ακολούθως δημιούργησα το αρχείο bio-Engelbart.md το οποίο και πρόσθεσα  στον κατάλογο /_biography, του αποθετηρίου και το Douglas-Engelbart.md το οποίο πρόσθεσα  στον κατάλογο /_biography και /_Includes του αποθετηρίου. Τέλος πρόσθεσα στον κατάλογο /images τρεις εικόνες και τα αντίστοιχα εικονίδια τους (thumb).
+
+### [Σύνδεσμος αποθετηρίου GR](https://github.com/p18myro/gr 'Σύνδεσμος αποθετηρίου')
+### [Σύνδεσμος εκτελέσιμου](https://p18myro.github.io/gr/)
+
+### Σύνδεσμος Βιογραφικού:
+### [Douglas Engelabart](https://p18myro.github.io/gr/biography/Douglas-Engelbart/)
+
+## Παραδοτέο Β
+Δημιουργία ενός νέου διαδραστικου παραδείγματος, το οποίο θα πρέπει να συνδέεται με βασικές έννοιες του βιβλίου και της διάδρασης ανθρώπου-υπολογιστή και να επιτρέπει σε κάποιον 2ο χρήστη να το αλλάξει ή/και να το προσθέσει σε διαφορετικές εφαρμογές ως αρχέτυπο.
+ 
+ ### Εκπλήρωση ζητούμενων
+Δημιουργία τριών Scroll bars για τα φίλτρα Brightness, Constrast και Saturation. Επιλέγω μέσω των Scroll bars σε τι βαθμό θέλω να εφαρμόσω το κάθε φίλτρο και στην συνέχεια  ενεργοποιώ την λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα)  και εφαρμόζονται τα τρία φίλτρα στην εικόνα. 
+ 
+### Σύνδεσμοι διαδραστικού παραδείγματος:
+
+### [Σύνδεσμος αποθετήριου Image filter](https://github.com/p18myro/gr/blob/gh-pages/_remix/image-filter.md)
+### [Σύνδεσμος διαδραστικού παραδειγμάτος Image filter](https://p18myro.github.io/gr/remix/image-filter/)
+
+
+
+
+## Επιπλέον τρείς εργασίες γραμμής εντολών αντι εξεταστικής Σεπτεμβρίου
+
+## Εργασία 5: search the local file system
+  Αρχικά έγινε download και εγκατάσταση το Fzf (git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf ~/.fzf/install). 
+  
+### Εκπλήρωση ζητούμενων πέμπτης εργασίας
+* [x] Αρχικά τρέχω την εντολη find, την κανω pipe απο το fzf και αποθηκευω τα αποτελεσματα σε αρχειο
+  (find * -type f | fzf > selected)
+* [x] Περιήγηση με (CTRL-J / CTRL-K ή CTRL-N / CTRL-P)
+* [x] Στο multi select mode (-m) με χρήση του TAB και Shift-TAB επιλογή πολλαπλών αντικειμένων.
+* [x] Κάνω search
+* [x] Άνοιξα το Fzf χωρίς να είναι full screen με χρήση την εντολής (fzf --height 40%)
+* [x] Χρήση της εντολής για να κάνω kill command (kill -9 <TAB>)
+* [x] Χρήση του fuzzy completion (ssh **<TAB>)
+* [x] Άνοιξα του shell configuration file  και έκανα τροποποίηση και search του περιεχομένου ενός αρχείου  text
+  (vim /home/lubuntu/.bashrc **<TAB>)
+ 
+
+### Τεκμηρίωση ζητουμένων
+#### Σύνδεσμος Παραδοτέου εργασία 5: https://asciinema.org/a/356700
+
+
+## Εργασία 6: Try a different shell
+  Αρχικά έγινε download και εγκατάσταση το Z shell. 
+  
+### Εκπλήρωση ζητούμενων έκτης εργασίας
+* [x] Εμφάνιση της έκδοσης του Ζ shell
+* [x] Enter dir χωρίς "cd" και εμφάνιση κάποιων βασικών πληροφοριών
+* [x] Χρήση του  auto completion 
+* [x] Άνοίγω το Zsh conf file και πραγματοποιώ αλλαγές
+
+### Τεκμηρίωση ζητουμένων
+#### Σύνδεσμος Παραδοτέου εργασία 6: https://asciinema.org/a/356703
+
+## Εργασία 7: Text editor and plug-ins for code highlighting and autocompletion
+
+### Εκπλήρωση ζητούμενων έβδομης εργασίας
+* [x] Εγκατάσταση το synaptic
+* [x] Εγκατάσταση scripting για autocompletion και highlighting
+* [x] Επίδειξη του Vim editor(search, εισαγωγή κειμένου, Autocompetion) 
+
+
+### Τεκμηρίωση ζητουμένων
+#### Σύνδεσμος Παραδοτέου εργασία 6: https://asciinema.org/a/356985
+
+
 
 ## Final Report
 Τέλος παραθέτω  το Link που περιέχει την τελική μου αναφορά.
 
 ### [Σύνδεσμος  αποθετηρίου Final Report](https://github.com/p18myro/FINAL-REPORT)
 ### [Εκτελέσιμο Final report](https://p18myro.github.io/FINAL-REPORT/)
+
+
+
+
+
 
 
 
