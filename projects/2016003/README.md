@@ -127,24 +127,34 @@ ________________________________________________________________________________
 
 **Ζητούμενο Α**
 
-Σε αύτο το ζητούμενο αφού κάναμε fork το αρχικό αποθετήριο στο λογαριασμό μας πήγαμε στο δημιουργήσαμε νέο branch ***[p2016003](https://github.com/GiotaAthanasaki/site/tree/p2016003)*** στην συνέχεια κάναμε fork και τα sumodule repos ***[\_gallery](https://github.com/GiotaAthanasaki/_gallery/tree/p2016003-gallery)*** και ***[images](https://github.com/GiotaAthanasaki/images/tree/p2016003-imgs)*** στα οποία δημιουργήσαμε νέα branches (p2016003-imgs και p2016003-gallery αντίστοιχα) στα οποία μετά προσθέσαμε τις εικόνες στο φάκελο ***images*** με την μέθοδο upload (drag n'drop)  και στην συνέχεια δημιουργήσαμε ένα νέα αρχείο **Miband5.md** , φάκελος ***\_gallery/*** στο οποίο προσθέσαμε τις πληροφορίες της εικόνας χρησιμοποιώντας table-markdown-syntax. Να σημειωθεί ότι έγινε επεξεργασία και στο αρχείο ***[.gitmodules](https://github.com/GiotaAthanasaki/site/blob/p2016003/.gitmodules)**** ώστε να δείχνει στα forked repositories στο προφιλ μου. Τα links για τα παραπάνω αρχεία φαίνονται στον πίνακα που ακολουθεί:
+Σε αύτο το ζητούμενο αφού έκανα fork το αρχικό αποθετήριο στο λογαριασμό μας έφτιαξα νέο branch ***[p2016003](https://github.com/GiotaAthanasaki/site/tree/p2016003)*** στην συνέχεια έγινε fork και στα sumodule repos ***[\_gallery](https://github.com/GiotaAthanasaki/_gallery/tree/p2016003-gallery)*** και ***[images](https://github.com/GiotaAthanasaki/images/tree/p2016003-imgs)*** στα οποία δημιούργησα νέα branches (p2016003-imgs και p2016003-gallery αντίστοιχα) στα οποία μετά πρόσθεσα τις εικόνες στο φάκελο ***images*** με την μέθοδο upload (drag n'drop)  και στην συνέχεια δημιούργησα ένα νέα αρχείο **Miband5.md** , φάκελος ***\_gallery/*** στο οποίο επεξεργάστικα τις πληροφορίες της εικόνας χρησιμοποιώντας table-markdown-syntax. Να σημειωθεί ότι έγινε επεξεργασία και στο αρχείο ***[.gitmodules](https://github.com/GiotaAthanasaki/site/blob/p2016003/.gitmodules)**** ώστε να δείχνει στα forked repositories στο προφιλ μου. Τα links για τα παραπάνω αρχεία φαίνονται στον πίνακα που ακολουθεί:
 
 |Name | Img_file_url | Img_Finfo|
 |:-:|:--:|:--:|
 |Miband5large| [Miband5-large.jpeg](https://github.com/GiotaAthanasaki/images/blob/p2016003-imgs/Miband5-large.jpeg) | [Miband5.md](https://github.com/GiotaAthanasaki/_gallery/blob/p2016003-gallery/Miband5.md) |
 |Miband5small| [Miband5.jpg](https://github.com/GiotaAthanasaki/images/blob/p2016003-imgs/Miband5.jpg) | [Miband5.md](https://github.com/GiotaAthanasaki/_gallery/blob/p2016003-gallery/Miband5.md) #same_as_above |
 
-Έπειτα επεξεργαστήκαμε το φάκελο slide/ στο master branch όπου δημιουργήσαμε το αρχείο p2016-slide.md στο οποίο προσθέσαμε το info για την συσχέτιση των εικονών που ανεβάσαμε με άλλες προυπαρχοντες στο site:
+Έπειτα επεξεργάστηκα το φάκελο slide/ στο master branch όπου δημιούργησα το αρχείο p2016-slide.md στο οποίο πρόσθεσα το info για την συσχέτιση των εικονών που ανεβάσαμε με άλλες προυπαρχοντες στο site:
 
 [Image slide](https://github.com/GiotaAthanasaki/site/blob/p2016003/_slides/p2016003-slide.md)
 __________________________________________________________________________________________________________________________________________________________________
 
 **Ζητούμενο Β**
+Επεξεργασία διαδραστικού παραδείγματος μεταξύ χρήστη και υπολογιστή, και συγκεκριμένα αφού κατανόησα πως λειτουργεί μία εικόνα τύπου SVG (Scalable Vector Graph) για τη δημιουργία σχημάτων με τη χρήση του tag <path> όπου με συγκεκριμένες εντολές ενώνει σημεία εντός του πίνακα/περιοχής (SVG). Και τέλος διαμόρφωσα κατάλληλα το αρχείο [image.md](https://github.com/GiotaAthanasaki/site/blob/p2016003/_remix/image.md) συμπεριλαμβάνοντας τον κώδικα από CodePen.
+ 
+ **Πριν την επεξεργασία**
+ 
+ ![Hover Before Add scaled SVG](zitoumeno1B-prin.gif)
+ 
+ **Μετά την εφαρμογή scale στη δευτερη SVG εικόνα**
+ 
+ ![Hover After adding second Scaled SVG](zitoumeno1B-meta.gif)
+
 
 __________________________________________________________________________________________________________________________________________________________________
 **Ζητούμενο Γ**
 
-Επιλέξαμε να προσθέσουμε μία νέα βιβλιογραφία στο site και αυτή είναι του Richard Stallman η οποία βρίσκεται στο φάκελο biography/ [Richard Stallman bio](https://github.com/GiotaAthanasaki/site/blob/p2016003/_biography/richard-stallman.md)
+Επέλεξα να προσθέσω μία νέα βιβλιογραφία στο site και αυτή είναι του Richard Stallman η οποία βρίσκεται στο φάκελο biography/ [Richard Stallman bio](https://github.com/GiotaAthanasaki/site/blob/p2016003/_biography/richard-stallman.md)
 __________________________________________________________________________________________________________________________________________________________________
 
 ## Συμπεράσματα 
