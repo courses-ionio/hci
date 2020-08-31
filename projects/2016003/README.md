@@ -127,16 +127,16 @@ ________________________________________________________________________________
 
 **Ζητούμενο Α**
 
-Σε αύτο το ζητούμενο αφού κάναμε fork το αρχικό αποθετήριο στο λογαριασμό μας πήγαμε στο branch gh-pages και προσθέσαμε τα αρχεία των δύο εικονών στο φάκελο images με την μέθοδο του upload (drag n' drop) και στην συνέχεια δημιουργήσαμε ένα νέα αρχείο **Miband5.md** , φάκελος gallery/ στο οποίο προσθέσαμε τις πληροφορίες της εικόνας χρησιμοποιώντας table-markdown-syntax. Τα links για τα παραπάνω αρχεία φαίνονται στον πίνακα που ακολουθεί:
+Σε αύτο το ζητούμενο αφού κάναμε fork το αρχικό αποθετήριο στο λογαριασμό μας πήγαμε στο δημιουργήσαμε νέο branch ***[p2016003](https://github.com/GiotaAthanasaki/site/tree/p2016003)*** στην συνέχεια κάναμε fork και τα sumodule repos ***[\_gallery](https://github.com/GiotaAthanasaki/_gallery/tree/p2016003-gallery)*** και ***[images](https://github.com/GiotaAthanasaki/images/tree/p2016003-imgs)*** στα οποία δημιουργήσαμε νέα branches (p2016003-imgs και p2016003-gallery αντίστοιχα) στα οποία μετά προσθέσαμε τις εικόνες στο φάκελο ***images*** με την μέθοδο upload (drag n'drop)  και στην συνέχεια δημιουργήσαμε ένα νέα αρχείο **Miband5.md** , φάκελος ***\_gallery/*** στο οποίο προσθέσαμε τις πληροφορίες της εικόνας χρησιμοποιώντας table-markdown-syntax. Να σημειωθεί ότι έγινε επεξεργασία και στο αρχείο ***[.gitmodules](https://github.com/GiotaAthanasaki/site/blob/p2016003/.gitmodules)**** ώστε να δείχνει στα forked repositories στο προφιλ μου. Τα links για τα παραπάνω αρχεία φαίνονται στον πίνακα που ακολουθεί:
 
 |Name | Img_file_url | Img_Finfo|
 |:-:|:--:|:--:|
-|Miband5large| [Miband5-large.jpeg](htps://github.com/GiotaAthanasaki/site/blob/gh-pages/images/Miband5-large.jpeg) | [Miband5.md](https://github.com/GiotaAthanasaki/site/blob/gh-pages/_gallery/Mi_band5.md) |
-|Miband5small| [Miband5.jpg](https://github.com/GiotaAthanasaki/site/blob/gh-pages/images/Miband5.jpg) | [Miband5.md](https://github.com/GiotaAthanasaki/site/blob/gh-pages/_gallery/Mi_band5.md) #sameas_above |
+|Miband5large| [Miband5-large.jpeg](https://github.com/GiotaAthanasaki/images/blob/p2016003-imgs/Miband5-large.jpeg) | [Miband5.md](https://github.com/GiotaAthanasaki/_gallery/blob/p2016003-gallery/Miband5.md) |
+|Miband5small| [Miband5.jpg](https://github.com/GiotaAthanasaki/images/blob/p2016003-imgs/Miband5.jpg) | [Miband5.md](https://github.com/GiotaAthanasaki/_gallery/blob/p2016003-gallery/Miband5.md) #same_as_above |
 
 Έπειτα επεξεργαστήκαμε το φάκελο slide/ στο master branch όπου δημιουργήσαμε το αρχείο p2016-slide.md στο οποίο προσθέσαμε το info για την συσχέτιση των εικονών που ανεβάσαμε με άλλες προυπαρχοντες στο site:
 
-[Image slide](https://github.com/GiotaAthanasaki/site/blob/master/_slides/p2016003-slide.md)
+[Image slide](https://github.com/GiotaAthanasaki/site/blob/p2016003/_slides/p2016003-slide.md)
 
 **Ζητούμενο Γ**
-Επιλέξαμε να προσθέσουμε μία νέα βιβλιογραφία στο site και αυτή είναι του Richard Stallman η οποία βρίσκεται στο φάκελο biography/ [Richard Stallman bio](https://github.com/GiotaAthanasaki/site/blob/gh-pages/_biography/richard-stallman.md)
+Επιλέξαμε να προσθέσουμε μία νέα βιβλιογραφία στο site και αυτή είναι του Richard Stallman η οποία βρίσκεται στο φάκελο biography/ [Richard Stallman bio](https://github.com/GiotaAthanasaki/site/blob/p2016003/_biography/richard-stallman.md)
