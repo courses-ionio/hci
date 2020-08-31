@@ -131,9 +131,12 @@ ________________________________________________________________________________
 
 |Name | Img_file_url | Img_Finfo|
 |:-:|:--:|:--:|
-|Miband5large| [Miband5-large.jpeg] (htps://github.com/GiotaAthanasaki/site/blob/gh-pages/images/Miband5-large.jpeg) | [Miband5.md](https://github.com/GiotaAthanasaki/site/blob/gh-pages/_gallery/Mi_band5.md) |
+|Miband5large| [Miband5-large.jpeg](htps://github.com/GiotaAthanasaki/site/blob/gh-pages/images/Miband5-large.jpeg) | [Miband5.md](https://github.com/GiotaAthanasaki/site/blob/gh-pages/_gallery/Mi_band5.md) |
 |Miband5small| [Miband5.jpg](https://github.com/GiotaAthanasaki/site/blob/gh-pages/images/Miband5.jpg) | [Miband5.md](https://github.com/GiotaAthanasaki/site/blob/gh-pages/_gallery/Mi_band5.md) #sameas_above |
 
 Έπειτα επεξεργαστήκαμε το φάκελο slide/ στο master branch όπου δημιουργήσαμε το αρχείο p2016-slide.md στο οποίο προσθέσαμε το info για την συσχέτιση των εικονών που ανεβάσαμε με άλλες προυπαρχοντες στο site:
 
-[Image slide]()
+[Image slide](https://github.com/GiotaAthanasaki/site/blob/master/_slides/p2016003-slide.md)
+
+**Ζητούμενο Γ**
+Επιλέξαμε να προσθέσουμε μία νέα βιβλιογραφία στο site και αυτή είναι του Richard Stallman η οποία βρίσκεται στο φάκελο biography/ [Richard Stallman bio](https://github.com/GiotaAthanasaki/site/blob/gh-pages/_biography/richard-stallman.md)
