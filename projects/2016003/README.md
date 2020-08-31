@@ -124,3 +124,16 @@ ________________________________________________________________________________
    
 ## Μέρος 2ο - Συμμετοχικό Υλικό: 
 ### HCI Contribution:
+
+**Ζητούμενο Α**
+
+Σε αύτο το ζητούμενο αφού κάναμε fork το αρχικό αποθετήριο στο λογαριασμό μας πήγαμε στο branch gh-pages και προσθέσαμε τα αρχεία των δύο εικονών στο φάκελο images με την μέθοδο του upload (drag n' drop) και στην συνέχεια δημιουργήσαμε ένα νέα αρχείο **Miband5.md** , φάκελος gallery/ στο οποίο προσθέσαμε τις πληροφορίες της εικόνας χρησιμοποιώντας table-markdown-syntax. Τα links για τα παραπάνω αρχεία φαίνονται στον πίνακα που ακολουθεί:
+
+|Name | Img_file_url | Img_Finfo|
+|:-:|:--:|:--:|
+|Miband5large| [Miband5-large.jpeg] (htps://github.com/GiotaAthanasaki/site/blob/gh-pages/images/Miband5-large.jpeg) | [Miband5.md](https://github.com/GiotaAthanasaki/site/blob/gh-pages/_gallery/Mi_band5.md) |
+|Miband5small| [Miband5.jpg](https://github.com/GiotaAthanasaki/site/blob/gh-pages/images/Miband5.jpg) | [Miband5.md](https://github.com/GiotaAthanasaki/site/blob/gh-pages/_gallery/Mi_band5.md) #sameas_above |
+
+Έπειτα επεξεργαστήκαμε το φάκελο slide/ στο master branch όπου δημιουργήσαμε το αρχείο p2016-slide.md στο οποίο προσθέσαμε το info για την συσχέτιση των εικονών που ανεβάσαμε με άλλες προυπαρχοντες στο site:
+
+[Image slide]()
