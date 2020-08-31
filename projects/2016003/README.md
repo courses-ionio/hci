@@ -151,7 +151,7 @@ ________________________________________________________________________________
  
  ![Hover After adding second Scaled SVG](zitoumeno1B-meta.gif)
 
-[B2] Χρησιμοποίησα ένα συγκεκριμένο text effect τροποποιώντας κατάλληλα το CSS αρχείο με επιλεγμένο τον preprocessor σε SCSS, για την εφαρμογή του εφε σε ένα νέο δικό μου κείμενο [κώδικας σε CodePen](https://codepen.io/giotaathanasaki/pen/KKzvvXQ). Τέλος έγιναν οι τελικές αλλαγές στο αρχείο [interactive-text.md](https://github.com/GiotaAthanasaki/site/edit/p2016003/_remix/interactive-text.md)
+[B2] Χρησιμοποίησα ένα συγκεκριμένο text effect τροποποιώντας κατάλληλα το CSS αρχείο με επιλεγμένο τον preprocessor σε SCSS, για την εφαρμογή του εφε σε ένα νέο δικό μου κείμενο [κώδικας σε CodePen](https://codepen.io/giotaathanasaki/pen/KKzvvXQ). Τέλος έγιναν οι τελικές αλλαγές στο αρχείο [interactive-text.md](https://github.com/GiotaAthanasaki/site/blob/p2016003/_remix/interactive-text.md)
 
 ![EFFECT_css](zitoumeno-1B-2.gif)
 
