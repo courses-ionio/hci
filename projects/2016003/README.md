@@ -134,12 +134,13 @@ ________________________________________________________________________________
 |Miband5large| [Miband5-large.jpeg](https://github.com/GiotaAthanasaki/images/blob/p2016003-imgs/Miband5-large.jpeg) | [Miband5.md](https://github.com/GiotaAthanasaki/_gallery/blob/p2016003-gallery/Miband5.md) |
 |Miband5small| [Miband5.jpg](https://github.com/GiotaAthanasaki/images/blob/p2016003-imgs/Miband5.jpg) | [Miband5.md](https://github.com/GiotaAthanasaki/_gallery/blob/p2016003-gallery/Miband5.md) #same_as_above |
 
-Έπειτα επεξεργάστηκα το φάκελο slide/ στο master branch όπου δημιούργησα το αρχείο p2016-slide.md στο οποίο πρόσθεσα το info για την συσχέτιση των εικονών που ανεβάσαμε με άλλες προυπαρχοντες στο site:
+Έπειτα επεξεργάστηκα το φάκελο slide/ στο branch ***p2016003*** όπου δημιούργησα το αρχείο [p2016-slide.md](https://github.com/GiotaAthanasaki/site/blob/p2016003/_slides/p2016003-slide.md) στο οποίο πρόσθεσα το info για την συσχέτιση των εικονών που ανεβάσαμε με άλλες προυπαρχοντες στο site:
 
-[Image slide](https://github.com/GiotaAthanasaki/site/blob/p2016003/_slides/p2016003-slide.md)
+
 __________________________________________________________________________________________________________________________________________________________________
 
 **Ζητούμενο Β**
+
 Επεξεργασία διαδραστικού παραδείγματος μεταξύ χρήστη και υπολογιστή, και συγκεκριμένα αφού κατανόησα πως λειτουργεί μία εικόνα τύπου SVG (Scalable Vector Graph) για τη δημιουργία σχημάτων με τη χρήση του tag <path> όπου με συγκεκριμένες εντολές ενώνει σημεία εντός του πίνακα/περιοχής (SVG). Και τέλος διαμόρφωσα κατάλληλα το αρχείο [image.md](https://github.com/GiotaAthanasaki/site/blob/p2016003/_remix/image.md) συμπεριλαμβάνοντας τον κώδικα από CodePen.
  
  **Πριν την επεξεργασία**
