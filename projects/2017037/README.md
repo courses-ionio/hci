@@ -47,16 +47,9 @@ Asciinema Link: https://asciinema.org/a/VET2UzSuu7evhH36NgjqcPkMQ
 
 Στο παραδοτέο αυτό πρόσθεσα μια σύντομη βιογραφία για τον William Robert Sutherland.
 
-[Bιβλίο](https://dimitrisantonoulis.netlify.com/)</br>
-[Αποθετήριο](https://github.com/DimitrisAntonoulis/gr)
-
 ### (extra 1) Γ: Βιογραφία
 
 Στο παραδοτέο αυτό πρόσθεσα μια σύντομη βιογραφία για τον William Henry III (Bill) Gates.
-
-[Bιβλίο](https://dimitrisantonoulis.netlify.com/)</br>
-[Αποθετήριο](https://github.com/DimitrisAntonoulis/gr)
-
 
 ### (extra 2) Δ: Βιογραφία
 
