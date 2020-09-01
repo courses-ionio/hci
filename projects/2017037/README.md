@@ -38,14 +38,30 @@ Asciinema Link: https://asciinema.org/a/VET2UzSuu7evhH36NgjqcPkMQ
 [Link της σελίδας του βιβλίου](https://dimitrisantonoulis.netlify.com/)</br>
 [Link προσωπικού αποθετηρίου του βιβλίου](https://github.com/DimitrisAntonoulis/gr)
 
-### A: Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
+### (1) A: Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
 
 Στο παραδοτέο αυτό πρόσθεσα 2 εικόνες, τις τοποθέτησα σε ανάλογα categories συμπλήρωσα μια λεζάντα και πρόσθεσα σχετικά tags. Οι φωτογραφίες αφορούν το e-book καθώς και το smartwatch.
 
 
-### Β: Βιογραφία
+### (2) Β: Βιογραφία
 
 Στο παραδοτέο αυτό πρόσθεσα μια σύντομη βιογραφία για τον William Robert Sutherland.
 
 [Bιβλίο](https://dimitrisantonoulis.netlify.com/)</br>
 [Αποθετήριο](https://github.com/DimitrisAntonoulis/gr)
+
+### (extra 1) Γ: Βιογραφία
+
+Στο παραδοτέο αυτό πρόσθεσα μια σύντομη βιογραφία για τον William Henry III (Bill) Gates.
+
+[Bιβλίο](https://dimitrisantonoulis.netlify.com/)</br>
+[Αποθετήριο](https://github.com/DimitrisAntonoulis/gr)
+
+
+### (extra 2) Δ: Βιογραφία
+
+Στο παραδοτέο αυτό πρόσθεσα μια σύντομη βιογραφία για τον Jeffrey Preston Bezos.
+
+[Bιβλίο](https://dimitrisantonoulis.netlify.com/)</br>
+[Αποθετήριο](https://github.com/DimitrisAntonoulis/gr)
+
