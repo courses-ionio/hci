@@ -3,7 +3,8 @@
 ## ΑΜ:Π2017037
 ## Προφίλ στο GitHub:https://github.com/DimitrisAntonoulis
 
-## Τελική αναφορά για την εξεταστική σεπτεμβρίου 2020 (4+2 ασκήσεις καθώς και συμμετοχικό εκπαιδευτικό υλικό 2+2 ).
+## Εισαγωγή 
+Τελική αναφορά για την εξεταστική σεπτεμβρίου 2020 (4+2 ασκήσεις καθώς και συμμετοχικό εκπαιδευτικό υλικό 2+2 ).
 
 ### 1Η ΑΣΚΗΣΗ
 Set-up the main dependencies and demonstrate your base system(change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)).
