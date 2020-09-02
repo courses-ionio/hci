@@ -5,51 +5,71 @@
 ### Π2015047
 Προσωπικό Αποθετήριο: https://github.com/p15baka1/hci
 
-## Εισαγωγή
-Για τις εργασίες του μαθήματος μπόρεσα να κάνω μόνο 5 γιατί με τις υπόλοιπες δυσκολέυτηκα. Για να κάνω αυτές τις εργασίες στο λάπτοπ μου που έχει Windows 7 χρησιμοποίησα ubuntu-18.04.3-amd64 μέσω του VirtualBox την Oracle.
-
 ### 1Η ΑΣΚΗΣΗ
 change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).
+
 Link: https://asciinema.org/a/50UfMMuaAPhI8AaxGBpIivtkl
 
 ### 2Η ΑΣΚΗΣΗ
 browse and view files on your system.
+
 Link: https://asciinema.org/a/mmLsnT5pd76Brp2L6cOlsAYWT
 
 ### 3Η ΑΣΚΗΣΗ
 create a list of todos, edit, delete, and check some of them.
+
 Link: https://asciinema.org/a/dasq4gskRJoICuZrDvMRVxM9p
 
 ### 4Η ΑΣΚΗΣΗ
 plan your time with a calendar.
+
 Link: https://asciinema.org/a/K13U8bFB9okfA45EnOIxny7B8
 
 ### 5Η ΑΣΚΗΣΗ
 track your expenses,	add a source of income and some expenses
-Link: https://asciinema.org/a/fIht5nir1q1Y5Vvw2cS9y3WEn (στη συγκεκριμένη άσκηση δυσκολεύτηκα και δεν ξέρω άμα είναι σωστή)
 
+Link: https://asciinema.org/a/fIht5nir1q1Y5Vvw2cS9y3WEn
 
-## Συμπεράσματα
-Με το χρόνο που αφιέρωσα σε αυτές τις εργασίες έμαθα να χρησιμοποιώ τα linux. Επίσης εξοικειώθηκα με την χρήση του terminal και τις διάφορες εντολές του. Το μόνο πρόβλημα που αντιμετώπισα είναι ότι το VirtualBox ήταν λίγο αργό και μου επιβράδυνε την δουλειά μου.
+### 6Η ΑΣΚΗΣΗ
+surf the web
+
+Link: https://asciinema.org/a/12eJNYd4j7tiqfX7qDFu7AyTY
 
 
 ## Συμμετοχικό Υλικό
-Image1: https://github.com/p15baka1/gr/blob/master/images/1keyboard.normal.jpg
+# Δύο εικόνες με ελεύθερα πνευματικά δικαιώματα
+Image1 An alphanumeric computer keyboard.
 
-thumbnail https://github.com/p15baka1/gr/blob/master/images/1keyboard.thumb.jpg
+κανονικό μέγεθος: https://github.com/p15baka1/gr/blob/master/images/1keyboard.normal.jpg
 
-md: https://github.com/p15baka1/gr/blob/master/_gallery/1keyboard.md
+thumbnail: https://github.com/p15baka1/gr/blob/master/images/1keyboard.thumb.jpg
 
-Image2:https://github.com/p15baka1/gr/blob/master/images/2mouse.normal.jpg
+Περιγραφή: https://github.com/p15baka1/gr/blob/master/_gallery/1keyboard.md
 
-thumbnail https://github.com/p15baka1/gr/blob/master/images/2mouse.thumb.jpg
+Image2 A red computer mouse.
 
-md: https://github.com/p15baka1/gr/blob/master/_gallery/2mouse.md
+κανονικό μέγεθος:https://github.com/p15baka1/gr/blob/master/images/2mouse.normal.jpg
 
-## Βιογραφίες:
+thumbnail: https://github.com/p15baka1/gr/blob/master/images/2mouse.thumb.jpg
 
-Πρώτη βιογραφία: https://github.com/p15baka1/gr/blob/master/_biography/August-Dvorak.md
-https://github.com/p15baka1/gr/blob/master/_biography/Bio-August-Dvorak.md
+Περιγραφή: https://github.com/p15baka1/gr/blob/master/_gallery/2mouse.md
 
-Δεύτερη βιογραφία:https://github.com/p15baka1/gr/blob/master/_biography/Eric-Migicovsky.md
-https://github.com/p15baka1/gr/blob/master/_biography/bio-Eric-Migicovsky.md
+# Βιογραφίες:
+1)Πρώτη βιογραφία:
+
+Σύντομη βιογραφία August Dvorak: https://github.com/p15baka1/gr/blob/master/_biography/Bio-August-Dvorak.md
+
+August Dvorak: https://github.com/p15baka1/gr/blob/master/_biography/August-Dvorak.md
+
+
+2)Δεύτερη βιογραφία:
+
+Σύντομη βιογραφία Eric Migicovsky: https://github.com/p15baka1/gr/blob/master/_biography/bio-Eric-Migicovsky.md
+
+Eric Migicovsky: https://github.com/p15baka1/gr/blob/master/_biography/Eric-Migicovsky.md
+
+# Μια νέα μελέτη περίπτωσης:
+Steam https://github.com/p15baka1/gr/blob/master/_case-study/steam.md
+
+## Τελική αναφορά
+Οι ασκήσεις αυτές αφορούν το τερματικό στο λογισμικό "Ubuntu", με το οποίο δεν είχε τύχει να ασχοληθώ κάποια στιγμή στο παρελθόν και αυτό είχε ως συνέπεια να έχω μεγαλύτερο ενδιαφέρον και περισσότερη αναζήτηση για την πραγματοποίηση των ζητούμενων εργασιών. Σε καθεμία από τις ασκήσεις υπάρχει το αντίστοιχο link όπου μπορεί να φανεί η υλοποίηση τους στο asciinema. Κατάφερα να πραγματοποιήσω 6 από τα ζητούμενα. Εξοικιώθηκα με την εγκατάσταση των Ubuntu μέσω virtualBox,το περιβάλλον του τερματικού και κάποιες από τις βασικές δυνατότητες που προσφέρει.
