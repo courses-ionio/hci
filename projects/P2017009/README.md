@@ -17,7 +17,7 @@
 
 **Set-up the main dependencies and demonstrate your base system. change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information**
 
-[asciinema url]()
+[asciinema url](https://asciinema.org/a/9FnrjqdgZihXrWOzIZV6dXAkw)
 
 
 
@@ -25,21 +25,21 @@
 
 **Get familiar with basic commands, reading documentation and editing files. Browse and view files on your system.**
 
-[asciinema url]()
+[asciinema url](https://asciinema.org/a/YUNTfbVnMg1JZfBS7ylX1J0Wl)
 
 
 ## Άσκηση 3:
 
 **Become productive with a todo list. Create a list of todos, edit, delete, and check some of them.**
 
-[asciinema url]()
+[asciinema url](https://asciinema.org/a/enfPhwpwvWEFfXDWZFy6jwyoI)
 
 
 ## Άσκηση 4:
 
 **try a different shell**
 
-[asciinema url]()
+[asciinema url](https://asciinema.org/a/2f6yY3c54w9n4O095WKASgZq6)
 
 
 
@@ -56,9 +56,11 @@
 
 ## Παραδοτεο Α
 
+https://takarogod.github.io/gr/biography/jimmy-wales/
+
 ## Παραδοτεο Β
 
-
+https://takarogod.github.io/gr/biography/johnson-jeff/
 
 ## Συμπεράσματα 
 
