@@ -54,8 +54,15 @@
 
 [url Σελίδας Βιβλίου](https://github.com/ChrisKyratzis/gr)
 
-## Παραδοτέο 1
+## Παραδοτέο Α
 
+https://chriskyratzis.github.io/gr/biography/jaron-lanier/
+
+## ΠΑΡΑΔΟΤΕΟ Β
+
+https://chriskyratzis.github.io/gr/gallery/videoplace/
+
+https://chriskyratzis.github.io/gr/gallery/virtual-reality/
 
 ## Συμπεράσματα 
 
