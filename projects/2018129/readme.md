@@ -30,10 +30,8 @@ browse and view files on your system
 ## header: no
 ## categories:
   - tools
-tags:
+## tags:
   - menu
----
-
 ## Παράδειγμα  μενού χωρίς ενσωματωμένες λειτουργίες.
 #### [Εκτελέσιμο link](https://codepen.io/comanter/pen/vYGpNjd)
 Άσκηση:Αλάξτε τα χρώματα και την γραμματοσειρά του μενού καθώς και να προσθέσετε συνδέσμους 
