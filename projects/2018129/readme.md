@@ -23,16 +23,15 @@ browse and view files on your system
 ## Παραδοτέο 2
 -------------------------------------------------------
 ## Δύο νέα διαδραστικά παραδείγματα
-##Πρώτο 
+## Πρώτο 
 ---
 layout: single
-title: Menu empty
+title: Menu
 header: no
 categories:
   - tools
 tags:
   - menu
-  - empty
 ---
 
 ## Παράδειγμα  μενού χωρίς ενσωματωμένες λειτουργίες.
