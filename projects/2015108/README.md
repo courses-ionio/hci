@@ -1,9 +1,6 @@
-Δημιουργία pacman
-
-ΓΕΩΡΓΙΟΣ ΓΕΩΡΓΙΟΥ
-
-Π2015108
-
-https://github.com/p15geor3/pacman/tree/master
-
-https://p15geor3.github.io/pacman/
+1. https://asciinema.org/a/E7iQZvgdmtPCV0blPgpMaSvOf
+2. https://asciinema.org/a/PWPkjSortKiKmFCToiWAWruQZ
+3. https://asciinema.org/a/1HogwJZcNFnqnOkFmCnH0aZ29
+4. https://asciinema.org/a/adan6UsVSTApzR3CB8bdx5Qri
+5. https://asciinema.org/a/R39QhBxMeUhHBVdOYXCtQLsk6
+6. https://asciinema.org/a/FAI7MGEIK2XdXrnjOdMqt2nic
