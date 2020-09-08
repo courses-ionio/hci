@@ -1,13 +1,17 @@
 # Μάθημα: Επικοινωνία Ανθρώπου Υπολογιστή
 ### Ονοματεπώνυμο:Ελευθέριος Πιπιλακίδης
 ### Αριθμός Μητρώου: Π2018129
+
+## Παραδοτέα για την εξεταστική του Σεπτεμβρίου
+-------------------------------------------------------
 ## Εργασία: 1 άσκηση hci
 
 #### [Εκτελέσιμο link](https://asciinema.org/a/275356)
 #### [Προφίλ στο github](https://github.com/comanter)
 
 Περηγραφί:Απλά εγκατάσταση neofetch lscpu και έδειξα το συστημα μου.
-change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
+change your command prompt with your student ID, list your dot files,
+display your shell configuration file and display system information(hardware+software)
 ## Παραδοτέο 1
 -------------------------------------------------------
 ## Εργασία: 2 άσκηση hci
@@ -18,33 +22,22 @@ change your command prompt with your student ID, list your dot files, display yo
 browse and view files on your system
 ## Παραδοτέο 2
 -------------------------------------------------------
-## Εργασία: 3 άσκηση hci
+## Δύο νέα διαδραστικά παραδείγματα
+##Πρώτο 
 
-#### [Εκτελέσιμο link](https://asciinema.org/a/281954)
-#### [Προφίλ στο github](https://github.com/comanter)
-Περηγραφί:calcurse
-## Παραδοτέο 3
--------------------------------------------------------
-## Εργασία: 4 άσκηση hci
+layout: single
+title: Menu 
+header: no
+categories:
+  - tools
+tags:
+  - menu
+---
 
-#### [Εκτελέσιμο link](https://asciinema.org/a/284617)
-#### [Προφίλ στο github](https://github.com/comanter)
-Περηγραφί:edit the vim or the shell configuration file
-## Παραδοτέο 4
--------------------------------------------------------
-## Εργασία: 5 άσκηση hci
+## Παράδειγμα  μενού χωρίς ενσωματωμένες λειτουργίες.
+#### [Εκτελέσιμο link](https://codepen.io/comanter/pen/vYGpNjd)
 
-#### [Εκτελέσιμο link](https://asciinema.org/a/288086)
-#### [Προφίλ στο github](https://github.com/comanter)
-Περηγραφί:use org mode
-## Παραδοτέο 5
--------------------------------------------------------
-## Εργασία: 6 άσκηση hci
-
-#### [Εκτελέσιμο link](https://asciinema.org/a/292998)
-#### [Προφίλ στο github](https://github.com/comanter)
-Περηγραφί:use one window to search-edit local files or browse the web and another window for performance monitoring
-## Παραδοτέο 6
+Άσκηση:Αλάξτε τα χρώματα και την γραμματοσειρά του μενού καθώς και να προσθέσετε συνδέσμους 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Βιογραφια: 
 Ο Ίλον Μασκ (πλήρες όνομα Ίλον Ριβ Μασκ Elon Reeve Musk, Πρετόρια, 28 Ιουνίου 1971) είναι επιχειρηματίας με καταγωγή από τη Νότια Αφρική  και με νοτιοαφρικανική, καναδική και αμερικανική υπηκοότητα, καθώς μηχανικός και εφευρέτης. Είναι ο γενικός διευθυντής και επικεφαλής τεχνολογίας για τη διαστημική εταιρεία SpaceX, της οποίας είναι επίσης ο ιδρυτής, καθώς και ο γενικός διευθυντής και επικεφαλής τεχνολογικού σχεδιασμού της εταιρείας Tesla, Inc. (πρώην Tesla Motors), και ο πρόεδρος της SolarCity. Είναι επίσης συνιδρυτής των Tesla, Inc. και Zip2 και PayPal. Ανάμεσα στις διάφορες δραστηριότητες του, έχει επίσης οραματιστεί ένα σύστημα μεταφοράς υψηλής ταχύτητας με την ονομασία Hyperloop, έχει προτείνει ένα υπερηχητικό αεροσκάφος με ηλεκτρική προώθηση, καθώς επίσης είναι και ένας από τους πιο θερμούς υποστηρικτές της ανθρώπινης εξερεύνησης του πλανήτη Άρη.
