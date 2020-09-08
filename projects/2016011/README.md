@@ -26,7 +26,7 @@
  
  Προσθήκη νέας βιογραφίας.
  
- ### Martin Cooper : [Βιογραφία](https://github.com/Marialena98/site/blob/master/_biography/Bio-Martin_Cooper.md)
+ ### Martin Cooper : https://marialena98p2016011.netlify.app/biography/martin-cooper/
   
 # Παραδοτέο 1
   
