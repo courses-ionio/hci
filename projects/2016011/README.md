@@ -4,6 +4,9 @@
 ## Αριθμός Μητρώου: Π2016011
 Προφίλ στο Github
   [Εδώ](https://github.com/Marialena98)
+  Προσωπικό Αποθετήριο hci: https://github.com/Marialena98/hci
+  Προσωπικό Αποθετήριο site: https://github.com/Marialena98/site
+  Προσωπικό Url βιβλίου: https://marialena98p2016011.netlify.app/
   
   
  [x] Εγκατάσταση του Oracle VM Virtual Box στα Windows 10
