@@ -26,13 +26,15 @@ browse and view files on your system
 ##Πρώτο 
 ---
 layout: single
-title: Menu 
+title: Menu empty
 header: no
 categories:
   - tools
 tags:
   - menu
+  - empty
 ---
+
 ## Παράδειγμα  μενού χωρίς ενσωματωμένες λειτουργίες.
 #### [Εκτελέσιμο link](https://codepen.io/comanter/pen/vYGpNjd)
 Άσκηση:Αλάξτε τα χρώματα και την γραμματοσειρά του μενού καθώς και να προσθέσετε συνδέσμους 
