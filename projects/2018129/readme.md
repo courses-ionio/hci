@@ -24,11 +24,11 @@ browse and view files on your system
 -------------------------------------------------------
 ## Δύο νέα διαδραστικά παραδείγματα
 ## Πρώτο 
----
-layout: single
-title: Menu
-header: no
-categories:
+
+## layout: single
+## title: Menu
+## header: no
+## categories:
   - tools
 tags:
   - menu
