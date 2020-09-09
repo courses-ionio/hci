@@ -43,7 +43,7 @@
 
 ## Άσκηση 5:
 
-**track your time with a simple journal **
+**track your time with a simple journal**
 
 [asciinema url](https://asciinema.org/a/BCsRpCbc1JXSrcZLom0SVVcGS?fbclid=IwAR2xavrSdjrwbArFSLqenm-u8UhdjmWR9Al9rnk2j0ZlKzkhu8-RbhEjVmQ)
 
