@@ -30,7 +30,15 @@
  
  Πηγές : [Εδώ](https://en.wikipedia.org/wiki/Martin_Cooper_(inventor))
  
- Εφεύρεση του Martin Cooper: https://marialena98p2016011.netlify.app/gallery/dynatac%208000x/
+ Εφεύρεση του Martin Cooper: https://marialena98p2016011.netlify.app/gallery/dynatac/
+ 
+ ## Παραδοτέο Α.1
+ 
+ Προσθήκη 2 νέων εικόνων.
+ 
+ Taxibeat: https://marialena98p2016011.netlify.app/gallery/taxibeat/
+ 
+ Εφεύρεση του Martin Cooper: https://marialena98p2016011.netlify.app/gallery/dynatac/
   
 # Παραδοτέο 1
   
