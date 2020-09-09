@@ -51,3 +51,24 @@
 
 <a href="https://github.com/IonianIronist/anxietyBills">Αποθετήριο κώδικα που χρησιμοποιήθηκε στην άσκηση</a>
 
+
+### 9/9/2020
+
+
+### Άσκηση : set-up the main dependencies and demonstrate your base system
+
+
+link 
+
+
+<p>Έχω δείξει κάποιες από τις λειτουργίες των εξής εντολών :
+-----> ls
+-----> man
+-----> less
+-----> grep
+-----> source
+-----> date
+-----> echo
+-----> ">>" & "|" operators 
+-----> Επίσης έχω δείξει τις πληροφορίες συστήματος με την εντολη neofetch</p>
+
