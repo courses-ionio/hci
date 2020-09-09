@@ -61,14 +61,21 @@
 link 
 
 
-<p>Έχω δείξει κάποιες από τις λειτουργίες των εξής εντολών :
------> ls
------> man
------> less
------> grep
------> source
------> date
------> echo
------> ">>" & "|" operators 
------> Επίσης έχω δείξει τις πληροφορίες συστήματος με την εντολη neofetch</p>
+<p>Έχω δείξει κάποιες από τις λειτουργίες των εξής εντολών : <br>
+-----> ls<br>
+-----> man<br>
+-----> less<br>
+-----> grep<br>
+-----> source<br>
+-----> date<br>
+-----> echo<br>
+-----> ">>" & "|" operators<br> 
+-----> Επίσης έχω δείξει τις πληροφορίες συστήματος με την εντολη neofetch<br></p>
+
+
+
+### Άσκηση : text editor and plug-ins for code highlighting and autocompletion
+
+link 
+
 
