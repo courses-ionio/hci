@@ -54,3 +54,34 @@
  
  Link:  https://asciinema.org/a/R39QhBxMeUhHBVdOYXCtQLsk6
  
+ 
+ 
+# Συμμετοχικό υλικό:
+ 
+## 1η Εικόνα
+ 
+ Thumbnail: https://github.com/p15geor3/images/blob/2015108/cathode-ray%20tube%20160.jpg
+ cathode-ray tube Image: https://github.com/p15geor3/images/blob/2015108/800px-20020811203148_-_NOI_2002.jpg
+ MD: https://github.com/p15geor3/_gallery/blob/2015108/cathode-ray%20tube.md
+ 
+ ## 2η Εικόνα
+ 
+ Thumbnail: https://github.com/p15geor3/images/blob/2015108/vertical%20mouse.jpg
+ Verical Mouse Image: https://github.com/p15geor3/images/blob/2015108/800px-Delux_M618_vertical_mouse.jpg
+ MD: https://github.com/p15geor3/_gallery/blob/2015108/vertical_mouse.md
+Δημιουργία δύο νέων βιβλιογραφιών
+
+## Βιογραφία Bill Buxton:
+
+Link1: https://github.com/p15geor3/site/blob/2015108/_biography/bio-Bill-Buxton.md
+Link2: https://github.com/p15geor3/site/blob/2015108/_biography/Bill-Buxton.md
+
+## Βιογραφία Joseph Carl Robnett Licklide:
+
+Link1: https://github.com/p15geor3/site/blob/2015108/_biography/bio-Joseph-Carl-Robnett-Licklider.md
+Link2: https://github.com/p15geor3/site/blob/2015108/_biography/Joseph-Carl-Robnett-Licklider.md
+
+
+### Συμπεράσματα
+
+Οι ασκήσεις τις οποίες κληθήκαμε να λύσουμε στο λογισμικό "Ubundu" απαιτούσαν την κατανόηση και την τριβή του χρήστη με το terminal emulator. Το λογισμικό αυτό έτρεξε στον υπολογιστή μέσω ενός virtual machine δημιουργώντας ουσιαστικά ένα νέο desktop με διαφορετικό λογισμικό μέσα στον υοπολογιστή. Οι ασκήσεις για την υλοποίηση τους απαιτούσαν από τον χρήστη να κατεβάσει εργαλεία όπως το ranger, το neofeltch, το surfraw, το taskwarrior, το vim κ.λ.π. Με την καταγραφή των ασκήσεων με το asciinema, φαίνονται όλες οι εντολές και τα εργαλεία που χρησιμοποιήθηκαν. Όσο πιο πολύ εντριφείς στο λογισμικό, τόσο περισσότερο μπορείς να το εμπλουτίσεις με λειτουργίες και εντολές και με τον καιρό μαθαίνοντας καλύτερα το περιβάλλον αξιοποιούνται καλύτερα και οι δυνατότητες του.
