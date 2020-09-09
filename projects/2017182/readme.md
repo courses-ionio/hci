@@ -9,19 +9,19 @@
 
 ### 19/10/2019
 
-### Άσκηση : plan your time with a calendar	add, edit, search for an appointment
+### Άσκηση : become productive with a todo list
 
 <a href= "https://asciinema.org/a/275677">Λίνκ προς το ασκίνεμα ρικόρντινγκ</a>
 
 Τι εχω κάνει : 
 
-<p>-----> Added & repeated weakly events</p>
-<p>-----> Added todos</p>
-<p>-----> Added all day events</p>
-<p>-----> Made events in .ical format, imported them to calcurse</p>
-<p>-----> Edited the time and the description of an event</p>
-<p>-----> Exported the calendar contents in .txt format</p>
-<p>-----> Searched for events in the .txt file</p>
+<p>-----> Πρόσθεσα εβδομαδιαία events</p>
+<p>-----> Πρόσθεσα todos</p>
+<p>-----> Πρόσθεσα ολοήμερα events</p>
+<p>-----> Έφταξα event σε .ical format, στην συνέχεια τα εισήγαγα στο calcurse</p>
+<p>-----> Έκανα επεξεργασία της ώρας και της περιγραφής event</p>
+<p>-----> Εξήγαγα τα περιεχόμενα του ημερολογίου σε .txt</p>
+<p>-----> Έψαξα για events στο .txt αρχέιο</p>
 <p>
 Το τελικό αρχείο ασκίνεμα έχει καταλήξει να είναι πάνω από 7 λεπτά.
 Έκανα δεύτερο record με την -i 0.5 παράμετρο, παρ όλα αυτά δέν μειώθηκε σημαντικά ο χρόνος,
@@ -50,3 +50,4 @@
 <p>-----> Όλα τα παραπάνω παρουσιάζονται στο ασκίνεμα ρικόρντινγκ</p>
 
 <a href="https://github.com/IonianIronist/anxietyBills">Αποθετήριο κώδικα που χρησιμοποιήθηκε στην άσκηση</a>
+
