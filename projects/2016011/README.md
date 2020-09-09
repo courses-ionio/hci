@@ -39,6 +39,8 @@
  Taxibeat: https://marialena98p2016011.netlify.app/gallery/taxibeat/
  
  Εφεύρεση του Martin Cooper: https://marialena98p2016011.netlify.app/gallery/dynatac/
+ 
+ Spotify: https://marialena98p2016011.netlify.app/gallery/spotify/
   
 # Παραδοτέο 1
   
