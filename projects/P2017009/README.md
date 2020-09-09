@@ -41,6 +41,12 @@
 
 [asciinema url](https://asciinema.org/a/2f6yY3c54w9n4O095WKASgZq6)
 
+## Άσκηση 5:
+
+**track your time with a simple journal**
+
+[asciinema url](https://asciinema.org/a/gwQWn1Ut25KwHQNE30INM4H3k)
+
 
 
 
@@ -61,6 +67,21 @@ https://takarogod.github.io/gr/biography/jimmy-wales/
 ## Παραδοτεο Β
 
 https://takarogod.github.io/gr/biography/johnson-jeff/
+
+## Παραδοτεο Γ
+
+https://takarogod.github.io/gr/gallery/text-to-speech/
+
+https://takarogod.github.io/gr/gallery/3dprinter/
+
+## Παραδοτεο Δ
+
+https://takarogod.github.io/gr/gallery/exoskeleton/
+
+https://takarogod.github.io/gr/gallery/graphic-user/
+
+
+
 
 ## Συμπεράσματα 
 
