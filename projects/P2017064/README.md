@@ -41,7 +41,18 @@
 
 [asciinema url](https://asciinema.org/a/mbxKA9PHOvnSOoiXD5hKUwywo)
 
+## Άσκηση 5:
 
+**track your time with a simple journal**
+
+[asciinema url](https://asciinema.org/a/gwQWn1Ut25KwHQNE30INM4H3k)
+
+
+### Εργαλεία
+
+- asciinema
+
+- kali linux terminal
 
 
 
@@ -61,6 +72,19 @@ https://margout.github.io/gr/biography/james-foley/
 ## Παραδοτεο Β
 
 https://margout.github.io/gr/biography/brenda-laurel/
+
+## Παραδοτέο Γ
+
+https://margout.github.io/gr/gallery/internet-chat-relay/
+
+https://margout.github.io/gr/gallery/e-reader/
+
+## Παραδοτέο Δ
+
+https://margout.github.io/gr/gallery/roll-slitting/
+
+https://margout.github.io/gr/gallery/Siri/
+
 
 ## Συμπεράσματα 
 
