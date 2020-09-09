@@ -12,7 +12,11 @@
 ## Εισαγωγή
 
 
-
+### Tools:
+    - asciinema
+    - kali linux
+    - virtual box
+    
 ## Άσκηση 1:
 
 **Set-up the main dependencies and demonstrate your base system. change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information**
