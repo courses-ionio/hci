@@ -29,6 +29,8 @@
  ### Martin Cooper : https://marialena98p2016011.netlify.app/biography/martin-cooper/
  
  Πηγές : [Εδώ](https://en.wikipedia.org/wiki/Martin_Cooper_(inventor))
+ 
+ Εφεύρεση του Martin Cooper: https://marialena98p2016011.netlify.app/gallery/dynatac%208000x/
   
 # Παραδοτέο 1
   
