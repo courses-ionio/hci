@@ -10,7 +10,7 @@
 ### [Προσωπικό αποθετήριο](https://github.com/takaroGOD/hci)
 
 ## Εισαγωγή
-
+Πραγματοποιήθηκαν 5 ασκήσεις σε linux terminal και 4 συμμετοχικά.Οι εργασίες έγιναν σε περιβάλλον linux Ubuntu 18.04.3 LTS x86_64, μέσω Oracle VM Virtualbox.Για όλες τις εργασίες στην αναφορά υπάρχουν τα αντίστοιχα link στο asciinema. Για την δημιουργία των εργασιών παρακολούθησα ορισμένα βίντεο στο youtube, τα οποία αναφέρονται σε βασικές ασκήσεις με linux τερματικό.
 
 
 ### Tools:
@@ -51,12 +51,6 @@
 **track your time with a simple journal**
 
 [asciinema url](https://asciinema.org/a/gwQWn1Ut25KwHQNE30INM4H3k)
-
-
-
-
-
-
 
 
 # Συμμετοχικό Εκπαιδευτικό υλικό
