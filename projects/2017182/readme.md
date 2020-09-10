@@ -93,6 +93,9 @@ link
 
 ### Άσκηση : organize your notes with emacs
 
+
+<a href="https://asciinema.org/a/358765"> Σύνδεσμος asciinema </a>
+
 <p>
 Τι εχω κανει :<br>
 
