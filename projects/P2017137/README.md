@@ -7,7 +7,7 @@
 ### Ονοματεπώνυμο: Χρήστος Κυρατζής 
 ### ΑΜ: Π2017137
 
-### [Προσωπικό αποθετήριο](https://github.com/ChisKyratzis/hci)
+### [Προσωπικό αποθετήριο](https://github.com/chiskyratzis/hci)
 
 ## Εισαγωγή
 
