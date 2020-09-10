@@ -7,7 +7,10 @@
 ### Ονοματεπώνυμο: Χρήστος Κυρατζής 
 ### ΑΜ: Π2017137
 
-### [Προσωπικό αποθετήριο](https://github.com/chiskyratzis/hci)
+### [Προσωπικό αποθετήριο hci](https://github.com/ChrisKyratzis/hci)
+
+### [Προσωπικό αποθετήριο gr](https://github.com/ChrisKyratzis/gr)
+
 
 ## Εισαγωγή
 
@@ -113,9 +116,9 @@ https://taskwarrior.org/docs/30second.html
 
 # Συμμετοχικό Εκπαιδευτικό υλικό
 
-[Προσωπικό Αποθετήριο](https://github.com/chriskyratzis)
+[Προσωπικό Αποθετήριο](https://github.com/ChrisKyratzis/hci)
 
-[url Σελίδας Βιβλίου](https://github.com/chriskyratzis/gr)
+[url Σελίδας Βιβλίου](https://chriskyratzis.github.io/gr/)
 
 
 ## Παραδοτέο Α (ΒΙΟΓΡΑΦΙΑ)
