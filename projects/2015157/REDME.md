@@ -34,20 +34,20 @@ Set-up the main dependencies and demonstrate your base system
 
 Get familiar with basic commands, reading documentation and editing files
 
-Επεξεργάστηκα ενα αρχείο κειμένου με το nano και το vim και το ανοιξα με το ranger.Πιο συγκεκριμένα έδειξα το manual του ranger με την εντολή man ranger και το manual του vim με την εντολή man vim.Δημιούργησα κατάλογο με ονομα valia με την εντολή mkdir valia και για να πάω σε συγκεκριμένο φάκελο πληκτρολόγησα cd foldervalia.Μέσα σε αυτόν με τον nano editor δημιουργησα το αρχείο exercise2.txt με την εντολή nano exercise2.txt.Επεξεργάστηκα το αρχείο με το vim με την εντολή vim exercise2.txt γράφοντας το όνομα μου.Τέλος αναζήτησα το αρχείο με την εντολή ranger.
+Επεξεργάστηκα ενα αρχείο κειμένου με το nano και το vim και το ανοιξα με το ranger.Πιο συγκεκριμένα έδειξα το manual του ranger με την εντολή man ranger και το manual του vim με την εντολή man vim.Δημιούργησα κατάλογo και για να πάω σε συγκεκριμένο φάκελο πληκτρολόγησα cd folder.Μέσα σε αυτόν με τον nano editor δημιουργησα νεο αρχείο. Επεξεργάστηκα το αρχείο με το vim. Τέλος αναζήτησα το αρχείο με την εντολή ranger.
 
 Άσκηση 3 : https://asciinema.org/a/1QziaLtWkDZDZr1mSsENiy8kt
 
 Become productive with a todo list
 
-Χρησιμοποίησα το taskwarrior για να φτιάξω μια λίστα με 4 εργασίες και να τις επεξεργαστώ.Πρόσθεσα τις εργασίες Ι have to go to work,gym,homework,clean.Eπεξεργάστηκα την 1η εργασία σε διάρκεια,προτεραιότητα high και περιγραφή office με την εντολή task 1 modify +work due:P1D priority:H office.To ίδιο έκανα και με τις υπόλοιπες διαγράφοντας στο τέλος την 1 και 3.
+Χρησιμοποίησα το taskwarrior για να φτιάξω μια λίστα με εργασίες και να τις επεξεργαστώ.Πρόσθεσα εργασίες.Eπεξεργάστηκα την 1η εργασία σε διάρκεια,προτεραιότητα και περιγραφή.To ίδιο έκανα και με τις υπόλοιπες διαγράφοντας στο τέλος την 1 και 3.
 
 Άσκηση 5 : https://asciinema.org/a/a1dtQt0GkHxW8LMaX04CovfpS
 
 Organise the terminal window into multiple areas
 
 Εγκατάσταση του tmux με την εντολή sudo apt install tmux.Για τη διαίρεση του τερματικού σε δύο παράθυρα χρησιμοποιήθηκε η εντολή
-ctrl b +%.To δεξί παράθυρο χρησμιμοποιήθηκε για performance monitoring με την εντολή htop και το αριστερό για επεξεργασία αρχείου με τις εντολές που χρησιμοποίησα στην άσκηση 2.Δημιουργία φακέλου foldervalia2,επεξεργασία με την εντολή nano,αναζήτηση με την εντολή ranger,διαγραφή του περιχομένου.Tέλος για την έξοδο χρησιμοποιήθηκε η εντολη ctrl b +d.
+ctrl b +%.To δεξί παράθυρο χρησμιμοποιήθηκε για performance monitoring με την εντολή htop και το αριστερό για επεξεργασία αρχείου με τις εντολές που χρησιμοποίησα στην άσκηση 2.Δημιουργία φακέλου,επεξεργασία με την εντολή nano,αναζήτηση με την εντολή ranger,διαγραφή του περιχομένου.Tέλος για την έξοδο χρησιμοποιήθηκε η εντολη ctrl b +d.
 
 
 Για τη συγκεκριμένη εργασία πήρα πληροφορίες από το εξής βίντεο : https://www.youtube.com/watch?v=srakeCXCITw
@@ -56,8 +56,7 @@ ctrl b +%.To δεξί παράθυρο χρησμιμοποιήθηκε για p
 
 Track your expenses
 
-Εμφάνιση των αρχείων,επιλογή του αρχείου ledger το οποίο δημιούργησα νωρίτερα και μέσα στo budget.txt πρόσθεσα τα έξοδα και τις συναλλαγές.Με την εντολή nano budget.txt μπορώ να εμφανίσω τις συναλλαγές και να προσθέσω καινούργιες.Με την εντολή ledger -f budget.txt bal εμφανίζω το σύνολο των εξόδων,το εισοδημα,το αρχικό κεφάλαιο και τα περιουσιακά στοιχεία.Με την εντολή ledger -f budget.txt bal expenses εμφανίζω τα νέα έξοδα μετά την προσθήκη νέου εξόδου.Με την εντολή ledger -f budget.txt -M reg εμφανίζω το μηνιαίο σύνολο ,στη συνέχεια το μηνιαίο εισόδημα  με ledger -f budget.txt -M reg income και τέλος τα μηνιαία έξοδα για λαχανικά από 3/6/2020 με την εντολή
-ledger -f budget.txt bal groceries --p "since 2020/06/03".
+Εμφάνιση των αρχείων,επιλογή του αρχείου ledger το οποίο δημιούργησα νωρίτερα και μέσα στo budget.txt πρόσθεσα τα έξοδα και τις συναλλαγές.Με την εντολή nano budget.txt μπορώ να εμφανίσω τις συναλλαγές και να προσθέσω καινούργιες.Με την εντολή ledger -f budget.txt bal εμφανίζω το σύνολο των εξόδων,το εισοδημα,το αρχικό κεφάλαιο και τα περιουσιακά στοιχεία.Με την εντολή ledger -f budget.txt bal expenses εμφανίζω τα νέα έξοδα μετά την προσθήκη νέου εξόδου.Με την εντολή ledger -f budget.txt -M reg εμφανίζω το μηνιαίο σύνολο ,στη συνέχεια το μηνιαίο εισόδημα  με ledger -f budget.txt -M reg income.
 
 Για τη συγκεκριμένη εργασία πήρα πληροφορίες από το εξής βίντεο: https://www.youtube.com/watch?v=cjoCNRpLanY&t=1007s
 
@@ -68,7 +67,7 @@ Try a different shell
 
 Στο πρώτο βίντεο γίνεται εγκατάσταση του zsh με την εντολή sudo apt intall zsh και εμφανίζεται η έκδοση.Στη συνέχεια για την αλλαγή του shell από bash σε zsh εκτελείται η εντολή chsh -s $(which zsh).Έπειτα γίνεται restart ώστε να γίνει η αλλαγή γι΄αυτό και χώρισα την άσκηση σε δύο βίντεο.
 
-Στο δεύτερο βίντεο με την εντολή sudo nano /etc/passwd δείχνω την αλλαγή του shell σε zsh shell.Στη συνέχεια πραγματοποιώ αλλαγή του θέματος.Με την εντολη sudo nano .zshrc επεξεργάζομαι το .zshrc και αλλάζω το θέμα σε "agnoster".Με την εντολή source ~/.zshrc εμφανίζω την αλλαγή του θέματος.Έπειτα αφού έχω εγκαταστήσει το plugin autosuggestions κάνοντας επικόλληση το εξής: git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions,με την εντολή sudo nano .zshrc προσθέτω στα plugins zsh-autosuggestions.To ίδιο πραγματοποιώ και για το plugin syntax highlighting κάνοντας επικόλληση το εξής : git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting και με την εντολή sudo nano.zshrc προσθέτω στα plugins zsh-syntax-highlighting.Tέλος με την εντολή  source ~/.zshrc εμφανίζονται οι αλλαγές.
+Στο δεύτερο βίντεο με την εντολή sudo nano /etc/passwd δείχνω την αλλαγή του shell σε zsh shell.Στη συνέχεια πραγματοποιώ αλλαγή του θέματος.Με την εντολη sudo nano .zshrc επεξεργάζομαι το .zshrc και αλλάζω το θέμα σε "agnoster".Με την εντολή source ~/.zshrc εμφανίζω την αλλαγή του θέματος.Έπειτα αφού έχω εγκαταστήσει το plugin copletions με την εντολή sudo nano.zshrc προσθέτω στα plugins zsh-completions.Tέλος με την εντολή  source ~/.zshrc εμφανίζονται οι αλλαγές.
 
 Για τη συγκεκριμένη εργασία πήρα πληροφορίες από τα εξής βίντεο:
 
