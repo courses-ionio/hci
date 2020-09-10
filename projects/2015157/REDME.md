@@ -42,7 +42,7 @@ Become productive with a todo list
 
 Χρησιμοποίησα το taskwarrior για να φτιάξω μια λίστα με εργασίες και να τις επεξεργαστώ.Πρόσθεσα εργασίες.Eπεξεργάστηκα την 1η εργασία σε διάρκεια,προτεραιότητα και περιγραφή.To ίδιο έκανα και με τις υπόλοιπες διαγράφοντας στο τέλος την 1 και 3.
 
-Άσκηση 5 : https://asciinema.org/a/a1dtQt0GkHxW8LMaX04CovfpS
+Άσκηση 4 : https://asciinema.org/a/a1dtQt0GkHxW8LMaX04CovfpS
 
 Organise the terminal window into multiple areas
 
@@ -52,7 +52,7 @@ ctrl b +%.To δεξί παράθυρο χρησμιμοποιήθηκε για p
 
 Για τη συγκεκριμένη εργασία πήρα πληροφορίες από το εξής βίντεο : https://www.youtube.com/watch?v=srakeCXCITw
 
-Άσκηση 6 : https://asciinema.org/a/buIaxbglxN13ZqQ28ydKQ3pxG
+Άσκηση 5 : https://asciinema.org/a/buIaxbglxN13ZqQ28ydKQ3pxG
 
 Track your expenses
 
@@ -60,7 +60,7 @@ Track your expenses
 
 Για τη συγκεκριμένη εργασία πήρα πληροφορίες από το εξής βίντεο: https://www.youtube.com/watch?v=cjoCNRpLanY&t=1007s
 
-Άσκηση 7 :  https://asciinema.org/a/PPi21ptUaDKmLkaXqeBhRinyh  change your default shell to zsh
+Άσκηση 6 :  https://asciinema.org/a/PPi21ptUaDKmLkaXqeBhRinyh  change your default shell to zsh
            https://asciinema.org/a/PPi21ptUaDKmLkaXqeBhRinyh   configure zsh
            
 Try a different shell
