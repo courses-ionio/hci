@@ -43,9 +43,9 @@
  Spotify.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_gallery/Spotify.md)
  
  Εικόνα Spotify 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Spotify-Thumb.jpg)
- Εικόνα Taxibeat160px: [Εδώ](
- Εικόνα Spotify Κανονική: [Εδώ](
- Εικόνα Taxibeat Κανονική: [Εδώ]( 
+ Εικόνα Taxibeat160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Taxibeat-thumb.png)
+ Εικόνα Spotify Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Spotify.jpg)
+ Εικόνα Taxibeat Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Taxibeat.png)
  
  ## Παραδοτέο 2.Γ
  
