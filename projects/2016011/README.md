@@ -10,15 +10,6 @@
   Προσωπικό Αποθετήριο site: https://github.com/Marialena98/site
   
   Προσωπικό Url βιβλίου: https://marialena98p2016011.netlify.app/
-  
-  
- [x] Εγκατάσταση του Oracle VM Virtual Box στα Windows 10
-
- [x] Εγκατάσταση του λειτουργικού Ubuntu version 18.04.3
-
- [x] Εγκατάσταση Brew
-
- [x] Asciinema λογαριασμό.
  
  # Εργασίες Σεπτεμβρίου
  
@@ -29,6 +20,11 @@
  ### Martin Cooper : https://marialena98p2016011.netlify.app/biography/martin-cooper/
  
  Πηγές : [Εδώ](https://en.wikipedia.org/wiki/Martin_Cooper_(inventor))
+ 
+ Εικόνα του Martin Cooper 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Martin%20Cooper-Thumb.jpg)
+ Εικόνα του Martin Cooper Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Martin%20Cooper.jpg) 
+ Εικόνα Πρώτου κινητού τηλεφώνου 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/DynaTAC-Thumb.jpg)
+ Εικόνα Πρώτου κινητόυ τηλεφώνου Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/DynaTAC.jpg)
  
  Εφεύρεση του Martin Cooper: https://marialena98p2016011.netlify.app/gallery/dynatac/
  
@@ -41,6 +37,16 @@
  Εφεύρεση του Martin Cooper: https://marialena98p2016011.netlify.app/gallery/dynatac/
  
  Spotify: https://marialena98p2016011.netlify.app/gallery/spotify/
+ 
+ ## Προηγούμενες εργασίες
+ 
+ [x] Εγκατάσταση του Oracle VM Virtual Box στα Windows 10
+
+ [x] Εγκατάσταση του λειτουργικού Ubuntu version 18.04.3
+
+ [x] Εγκατάσταση Brew
+
+ [x] Asciinema λογαριασμό.
   
 # Παραδοτέο 1
   
