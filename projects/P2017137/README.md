@@ -11,6 +11,8 @@
 
 ### [Προσωπικό αποθετήριο gr](https://github.com/ChrisKyratzis/gr)
 
+### [url Σελίδας Βιβλίου](https://chriskyratzis.github.io/gr/)
+
 
 ## Εισαγωγή
 
