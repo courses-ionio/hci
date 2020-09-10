@@ -97,10 +97,12 @@ Aποτελούν μια προσπάθεια ανθρώπινης συνεργ�
 Γ.Βιογραφίες
 
 https://github.com/p15pavl/site/blob/2015157/_biography/bio-Hinton.md
+
 https://github.com/p15pavl/site/blob/2015157/_biography/bio-William%20English.md
 
 
 https://github.com/p15pavl/site/blob/2015157/_biography/Everest%20Hinton.md
+
 https://github.com/p15pavl/site/blob/2015157/_biography/William%20English.md
 
 
