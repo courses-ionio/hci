@@ -109,6 +109,8 @@ link
 ### Άσκηση : track your time with a simple journal
 
 
+<a href ="https://asciinema.org/a/358766"></a>
+
 <p>
   
 Με την χρήση της εφαρμογής jrnl έχω κάνει τα εξής :
