@@ -20,13 +20,17 @@
  ### Martin Cooper : https://marialena98p2016011.netlify.app/biography/martin-cooper/
  
  Martin-Cooper.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_biography/Martin-Cooper.md)
+ 
  Bio-Martin_Cooper.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_biography/Bio-Martin_Cooper.md)
  
  Πηγές : [Εδώ](https://en.wikipedia.org/wiki/Martin_Cooper_(inventor))
  
  Εικόνα του Martin Cooper 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Martin%20Cooper-Thumb.jpg)
+ 
  Εικόνα του Martin Cooper Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Martin%20Cooper.jpg) 
+ 
  Εικόνα Πρώτου κινητού τηλεφώνου 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/DynaTAC-Thumb.jpg)
+ 
  Εικόνα Πρώτου κινητόυ τηλεφώνου Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/DynaTAC.jpg)
  
  ## Παραδοτέο Α.1
@@ -40,11 +44,15 @@
  Spotify: https://marialena98p2016011.netlify.app/gallery/spotify/
  
  Taxibeat.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_gallery/Taxibeat.md)
+ 
  Spotify.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_gallery/Spotify.md)
  
  Εικόνα Spotify 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Spotify-Thumb.jpg)
+ 
  Εικόνα Taxibeat160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Taxibeat-thumb.png)
+ 
  Εικόνα Spotify Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Spotify.jpg)
+ 
  Εικόνα Taxibeat Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Taxibeat.png)
  
  ## Παραδοτέο 2.Γ
@@ -58,6 +66,7 @@
  Link: https://pixabay.com/el/
  
  Zoom.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_case-study/Zoom.md)
+ 
  cs-Zoom.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_case-study/cs-Zoom.md)
  
  Η παραπάνω μελέτη περίπτωσης θεωρώ πως είναι άξιο να γραφτεί γιατί αντιπροσωπεύει κατάλληλα τα σημερινά δεδομένα και σχετίζεται με ένα θέμα που αφορά την επικαιρότητα.
