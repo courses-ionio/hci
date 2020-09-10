@@ -16,7 +16,7 @@ link: https://asciinema.org/a/IVtvRvyuUwDC3GZeMswi0q09k
 
 display your shell configuration file
 
-link:
+link:https://asciinema.org/a/gCdWahKMBdtnztz7bPpv3jsBs
 
 display system information (hardware+software)
 
@@ -76,10 +76,9 @@ https://github.com/P15KOUR/site/blob/master/_biography/bio-buxton.md
 
 πηγή 2)https://peoplepill.com/people/bill-buxton/
 
+Συμπεράσματα 
 
-
-
-
+Αρχικά θα ήθελα να αναφέρω οτι ήταν η πρώτη φορά που ασχολήθηκα με το τερματικό.Εμάθα τις βασικές λειτουργίες του τερματικού και πως να εγκαθιστώ επιλέον εφαρμογές οταν αυτές χρειάζονται αλλά και που μπόρω να τις βρώ.Τέλος συνειδητοποίησα οτι πολλές απο τις ασκήσεις που έκανα είναι πιο γρήγορες οταν γίνονταί στο τερματικό.
 
 
 
