@@ -17,3 +17,7 @@ https://asciinema.org/a/PPi21ptUaDKmLkaXqeBhRinyh
 https://asciinema.org/a/PPi21ptUaDKmLkaXqeBhRinyh
 
 https://asciinema.org/a/1QziaLtWkDZDZr1mSsENiy8kt
+
+
+ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ
+A.https://github.com/p15pavl/_gallery/blob/2015157/fingerprint-scan.md
