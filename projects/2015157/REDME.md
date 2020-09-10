@@ -85,9 +85,13 @@ Mε τις παραπάνω ασκήσεις χρησιμοποίησα το λ�
 
 Α. Δυο εικόνες με λεζάντα
 
+https://github.com/p15pavl/images/blob/2015157/Webex_Meeting-thumb.jpg
+
 https://github.com/p15pavl/_gallery/blob/2015157/fingerprint-scan.md
 
 Σαρωτής δακτυλικών αποτυπωμάτων στο πίσω μέρος ενός smartphone.Mε αυτόν τον τρόπο επιτρέπεται το γρήγορο ξεκλείδωμα της συσκευής και μηδενίζει την πιθανότητα να πατήσει λάθος κωδικό ο χρήστης ή να επιτραπεί η είσοδος σε μη εξουσιοδοτημένους χρήστες .
+
+https://github.com/p15pavl/images/blob/2015157/fingerprint_scanner-thumb.jpg
 
 https://github.com/p15pavl/_gallery/blob/2015157/webex%20meetings.md
 
