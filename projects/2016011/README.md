@@ -26,8 +26,6 @@
  Εικόνα Πρώτου κινητού τηλεφώνου 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/DynaTAC-Thumb.jpg)
  Εικόνα Πρώτου κινητόυ τηλεφώνου Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/DynaTAC.jpg)
  
- Εφεύρεση του Martin Cooper: https://marialena98p2016011.netlify.app/gallery/dynatac/
- 
  ## Παραδοτέο Α.1
  
  Προσθήκη 2 νέων εικόνων.
@@ -37,6 +35,21 @@
  Εφεύρεση του Martin Cooper: https://marialena98p2016011.netlify.app/gallery/dynatac/
  
  Spotify: https://marialena98p2016011.netlify.app/gallery/spotify/
+ 
+ ## Παραδοτέο 2.Γ
+ 
+ Προσθήκη μιας νέας μελέτης περίπτωσης.
+ 
+ ### Zoom: https://marialena98p2016011.netlify.app/case-study/zoom/
+ 
+ Κάποιες από τις εικόνες που χρησιμοποιήθηκαν ήταν από site χωρίς copyrights.
+ 
+ Link: https://pixabay.com/el/
+ 
+ Η παραπάνω μελέτη περίπτωσης θεωρώ πως είναι άξιο να γραφτεί γιατί αντιπροσωπεύει κατάλληλα τα σημερινά δεδομένα και σχετίζεται με ένα θέμα που αφορά την επικαιρότητα.
+ 
+## Συμπέρασμα: 
+Για την υλοποίηση των παραπάνω εργασιων. Δεν κατάφερα να υλοποιήσω το ερώτημα Α.2 καθώς το αποθετήριο που έκανα Fork δεν περιείχε μέσα τους φακέλους slides, timeline παρά το γεγονός ότι το έσβησα και το έκανα ξανά fork από το pibook. 
  
  ## Προηγούμενες εργασίες
  
