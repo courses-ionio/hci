@@ -19,6 +19,9 @@
  
  ### Martin Cooper : https://marialena98p2016011.netlify.app/biography/martin-cooper/
  
+ Martin-Cooper.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_biography/Martin-Cooper.md)
+ Bio-Martin_Cooper.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_biography/Bio-Martin_Cooper.md)
+ 
  Πηγές : [Εδώ](https://en.wikipedia.org/wiki/Martin_Cooper_(inventor))
  
  Εικόνα του Martin Cooper 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Martin%20Cooper-Thumb.jpg)
@@ -36,6 +39,14 @@
  
  Spotify: https://marialena98p2016011.netlify.app/gallery/spotify/
  
+ Taxibeat.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_gallery/Taxibeat.md)
+ Spotify.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_gallery/Spotify.md)
+ 
+ Εικόνα Spotify 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Spotify-Thumb.jpg)
+ Εικόνα Taxibeat160px: [Εδώ](
+ Εικόνα Spotify Κανονική: [Εδώ](
+ Εικόνα Taxibeat Κανονική: [Εδώ]( 
+ 
  ## Παραδοτέο 2.Γ
  
  Προσθήκη μιας νέας μελέτης περίπτωσης.
@@ -45,6 +56,9 @@
  Κάποιες από τις εικόνες που χρησιμοποιήθηκαν ήταν από site χωρίς copyrights.
  
  Link: https://pixabay.com/el/
+ 
+ Zoom.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_case-study/Zoom.md)
+ cs-Zoom.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_case-study/cs-Zoom.md)
  
  Η παραπάνω μελέτη περίπτωσης θεωρώ πως είναι άξιο να γραφτεί γιατί αντιπροσωπεύει κατάλληλα τα σημερινά δεδομένα και σχετίζεται με ένα θέμα που αφορά την επικαιρότητα.
  
