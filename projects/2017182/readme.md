@@ -217,3 +217,10 @@
 
 ### Επιπρόσθετοι σύνδεσμοι:
 
+<a href="https://github.com/IonianIronist/site">Site Repository IonianIronist</a>
+
+<a href="https://ionianironist.netlify.app">Deployed Site Ionian Ironist</a>
+
+<a href="https://github.com/pibook/site">Starting Site Repository Pibook</a>
+
+<a href="https://pibook.epidro.me">Deployed Site epidrome</a>
