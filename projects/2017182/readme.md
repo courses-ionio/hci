@@ -142,6 +142,11 @@
 
 <a href="https://ionianironist.netlify.app//gallery/microsoft-natural-keyboard/">Microsoft Natural site</a>
 
+<a href="https://github.com/IonianIronist/images/blob/master/screen.jpg">Alienware</a>
+
+<a href="https://github.com/IonianIronist/images/blob/master/screen-thumb.jpg">Alienware-thumb</a>
+
+<a href="https://ionianironist.netlify.app//gallery/screen/">Alienware site</a>
 
 
 ### Β) Δυο νέα διαδραστικά παραδείγματα
