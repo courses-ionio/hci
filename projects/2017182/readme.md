@@ -180,8 +180,13 @@
 Έγραψα μία σύντομη βιογραφία για σχετικά με το έργο του Briam Kernighan, επί 30 χρόνια μέλος των bell labs και μεταξύ άλλων συγγραφέα του πρώτου βιβλίου για την C, δημιουργού της γλώσσας AWK και πλέον καθηγητή πανεπιστημίου Πρίνστον.
 </p>
 
+<a href="https://github.com/IonianIronist/site/blob/master/_biography/bio-brian.md">Brian Repository</a>
 
-## Αναφορές:
+<a href="https://github.com/IonianIronist/site/blob/master/_biography/brian-kernighan.md">Brian repo 2</a>
+
+<a href="https://ionianironist.netlify.app//biography/brian-kernighan/">Brian Site</a>
+
+Αναφορές:
 
 <a href="https://www.cs.princeton.edu/people/profile/bwk">Σελίδα πανεπιστημίου Πρίνστον</a>
 
