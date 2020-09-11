@@ -75,7 +75,7 @@
 
 ### Άσκηση : text editor and plug-ins for code highlighting and autocompletion
 
-<a href=" https://asciinema.org/a/358763">Σύνδεσμος asciinema</a>
+<a href="https://asciinema.org/a/358763">Σύνδεσμος asciinema</a>
 
 
 <p>
