@@ -162,6 +162,10 @@
 
 <a href="https://codepen.io/ionianironist/pen/YzqevLz">Todo List Codepen</a>
 
+<a href="https://ionianironist.netlify.app//remix/todo/">Todo Site</a>
+
+<a href="https://github.com/IonianIronist/site/blob/master/_remix/todo.md">Todo Repo</a>
+
 <a href="https://codepen.io/ionianironist/pen/WNwzPJG">Quiz Codepen</a>
 
 ### Γ1) Μελέτη περίπτωσης
