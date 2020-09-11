@@ -172,6 +172,8 @@
 
 <a href="https://ionianironist.netlify.app//case-study/github/">Github Site</a>
 
+<a href="https://github.com/IonianIronist/site/blob/master/_case-study/github.md">Case Study github repository</a>
+
 ### Γ2) Καινούρια Βιογραφία
 
 <p>
