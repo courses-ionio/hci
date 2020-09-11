@@ -180,3 +180,13 @@
 Έγραψα μία σύντομη βιογραφία για σχετικά με το έργο του Briam Kernighan, επί 30 χρόνια μέλος των bell labs και μεταξύ άλλων συγγραφέα του πρώτου βιβλίου για την C, δημιουργού της γλώσσας AWK και πλέον καθηγητή πανεπιστημίου Πρίνστον.
 </p>
 
+
+## Αναφορές:
+
+<a href="https://www.cs.princeton.edu/people/profile/bwk">Σελίδα πανεπιστημίου Πρίνστον</a>
+
+<a href="https://www.cs.cmu.edu/~mihaib/kernighan-interview/">Συνέντευξη με τον B. Kernighan</a>
+
+<a href="https://m.youtube.com/watch?v=QFK6RG47bww">Βίντεο συνέντευξη</a>
+
+<a href="https://en.m.wikipedia.org/wiki/Brian_Kernighan">Σελίδα Wiki</a>
