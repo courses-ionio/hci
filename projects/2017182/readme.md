@@ -136,6 +136,13 @@
 Με τις εικόνες που ανέβασα ήθελα να τονίσω τις αλλαγές που υλοποιούνται στο συνηθισμένο υλικό αλληλεπίδρασης ανθρώπου-υπολογιστή, οι οποίες όμως έχουν ως αποτέλεσμα - μετα από μια σειρά τέτοιων αλλαγών - ο χρήστης να αλληλεπιδρά με υπολογιστή με ένα προϊόν τελείως διαφορετικό από αυτό που ξεκίνησε ιστορικά.  
 </p>
 
+<a href="https://github.com/IonianIronist/images/blob/master/microsoft-natural-keyboard.jpg">Microsoft Natural</a>
+
+<a href="https://github.com/IonianIronist/images/blob/master/microsoft-natural-keyboard-thumb.jpg">Microsoft Natural-thumb</a>
+
+<a href="https://ionianironist.netlify.app//gallery/microsoft-natural-keyboard/">Microsoft Natural site</a>
+
+
 
 ### Β) Δυο νέα διαδραστικά παραδείγματα
 
