@@ -1,10 +1,83 @@
 # Μάθημα: Επικοινωνία ανθρώπου υπολογιστή
+## Επιβλέπων Καθηγητής: Κωνσταντίνος Χωριανόπουλος
 ## Ονοματεπώνυμο: Μαριαλένα Μαυρόγιαννη
 ## Αριθμός Μητρώου: Π2016011
 Προφίλ στο Github
   [Εδώ](https://github.com/Marialena98)
   
+  Προσωπικό Αποθετήριο hci: https://github.com/Marialena98/hci
   
+  Προσωπικό Αποθετήριο site: https://github.com/Marialena98/site
+  
+  Προσωπικό Url βιβλίου: https://marialena98p2016011.netlify.app/
+ 
+ # Εργασίες Σεπτεμβρίου
+ 
+ ## Παραδοτέο Γ.1
+ 
+ Προσθήκη νέας βιογραφίας.
+ 
+ ### Martin Cooper : https://marialena98p2016011.netlify.app/biography/martin-cooper/
+ 
+ Martin-Cooper.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_biography/Martin-Cooper.md)
+ 
+ Bio-Martin_Cooper.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_biography/Bio-Martin_Cooper.md)
+ 
+ Πηγές : [Εδώ](https://en.wikipedia.org/wiki/Martin_Cooper_(inventor))
+ 
+ Εικόνα του Martin Cooper 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Martin%20Cooper-Thumb.jpg)
+ 
+ Εικόνα του Martin Cooper Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Martin%20Cooper.jpg) 
+ 
+ Εικόνα Πρώτου κινητού τηλεφώνου 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/DynaTAC-Thumb.jpg)
+ 
+ Εικόνα Πρώτου κινητόυ τηλεφώνου Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/DynaTAC.jpg)
+ 
+ ## Παραδοτέο Α.1
+ 
+ Προσθήκη 2 νέων εικόνων.
+ 
+ Taxibeat: https://marialena98p2016011.netlify.app/gallery/taxibeat/
+ 
+ Εφεύρεση του Martin Cooper: https://marialena98p2016011.netlify.app/gallery/dynatac/
+ 
+ Spotify: https://marialena98p2016011.netlify.app/gallery/spotify/
+ 
+ Taxibeat.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_gallery/Taxibeat.md)
+ 
+ Spotify.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_gallery/Spotify.md)
+ 
+ Εικόνα Spotify 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Spotify-Thumb.jpg)
+ 
+ Εικόνα Taxibeat160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Taxibeat-thumb.png)
+ 
+ Εικόνα Spotify Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Spotify.jpg)
+ 
+ Εικόνα Taxibeat Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/Taxibeat.png)
+ 
+ ## Παραδοτέο Γ.2
+ 
+ Προσθήκη μιας νέας μελέτης περίπτωσης.
+ 
+ ### Zoom: https://marialena98p2016011.netlify.app/case-study/zoom/
+ 
+ Κάποιες από τις εικόνες που χρησιμοποιήθηκαν ήταν από site χωρίς copyrights.
+ 
+ Link: https://pixabay.com/el/
+ 
+ Zoom.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_case-study/Zoom.md)
+ 
+ cs-Zoom.md: [Εδώ](https://github.com/Marialena98/site/blob/master/_case-study/cs-Zoom.md)
+ 
+ Η παραπάνω μελέτη περίπτωσης θεωρώ πως είναι άξιο να γραφτεί γιατί αντιπροσωπεύει κατάλληλα τα σημερινά δεδομένα και σχετίζεται με ένα θέμα που αφορά την επικαιρότητα.
+ 
+ ### Πηγές: https://en.wikipedia.org/wiki/Zoom_Video_Communications
+ 
+## Συμπέρασμα: 
+Για την υλοποίηση των παραπάνω εργασιών ακολούθησα σύμφωνα με τις οδηγίες τα βήματα για την προσθήκη της βιογραφίας, των εικόνων και της μελέτης περίπτωσης στο προσωπικό μου βιβλίο. Δεν κατάφερα να υλοποιήσω το ερώτημα Α.2 καθώς το αποθετήριο που έκανα Fork ενώ περιελάμβανε κανονικά τους φακέλους, στο δικό μου αποθετήριο δεν περιείχε μέσα τους φακέλους slides, timeline παρά το γεγονός ότι το έσβησα και το έκανα ξανά fork από το pibook. 
+ 
+ ## Προηγούμενες εργασίες
+ 
  [x] Εγκατάσταση του Oracle VM Virtual Box στα Windows 10
 
  [x] Εγκατάσταση του λειτουργικού Ubuntu version 18.04.3
