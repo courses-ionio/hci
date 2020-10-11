@@ -18,4 +18,5 @@
 + | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 + | 12 | Τελική αναφορά |
 <br/>
+    ![Tux, the Linux mascot](/assets/images/tux.png)
 <p>φγσγσδγδγσδ</p>
