@@ -10,10 +10,10 @@
 :email:: [Student Mail](mailto:p19tzam)<br>
 <hr>
 <br>
-### :file_folder:: Παραδοτέα και Τελική αναφορά
+<h1>:file_folder:: Παραδοτέα και Τελική αναφορά</h1>
 <br><br><br>
 
-<h1>   :book:: Παραδοτέο 1</h1>
+<h2>   :book:: Παραδοτέο 1</h2>
 
 
 
