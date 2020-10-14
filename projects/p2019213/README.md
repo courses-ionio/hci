@@ -6,7 +6,6 @@
 
 :newspaper:: [GitHub Profile](https://github.com/p19tzam/)<br>
 :email:: [Student Mail](mailto:p19tzam)<br>
-:email:: [Normal Mail](mailto:dhmosfnk@protonmail.com)
 <hr>
 <br>
 <h1>:file_folder:: Παραδοτέα και Τελική αναφορά</h1>
