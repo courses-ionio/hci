@@ -8,6 +8,7 @@
 
 :newspaper:: [GitHub Profile](https://github.com/p19tzam/)<br>
 :email:: [Student Mail](mailto:p19tzam)<br>
+:link:: [codepen.io Profile](https://codepen.io/dhmosfunk)<br>
 <hr>
 <br>
 <h1>:file_folder:: Παραδοτέα και Τελική αναφορά</h1>
