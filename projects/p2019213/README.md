@@ -41,3 +41,31 @@
     Επιπλέον  θέλω να διευρύνω τις γνώσεις μου στο τερματικό(γραμμή εντολών) και γενικότερα θέλω να μάθω όσο μπορώ περισσότερα πράγματα μέσα από αυτό το μάθημα που να έχουν σχέση με την πληροφορική.
 </p> 
 
+<br>
+<br>
+<br>
+<h2>   :book:: Παραδοτέο 2</h2>
+
+### :pushpin:: [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 1 (Button)](https://github.com/p19tzam/site/edit/p2019213/_remix/button.md)
+#### [Άσκηση προγραμματισμού 1 (Button) codepen.io](https://codepen.io/dhmosfunk/pen/OJXMZyQ)
+<p> Η τροποποίηση που πραγματοποίησα σε αυτή την άσκηση προγραμματισμού(BUTTON) έχει την εξής λειτουργία: είναι ένα κουμπί(BUTTON) που ονομάζεται MY GITHUB όταν κάνουμε click στο button λοιπόν ανοίγει ένα NEW TAB και μας μεταφέρει στο GITHUB προφίλ μου.</p>
+<p> Οι τροποποιήσεις που έκανα είναι η εξής: αφαίρεσα το text που προυπήρχε(REMOVE) και πρόσθεσα την λέξη MY GITHUB επίσης εκεί που υπήρχε το (X) πρόσθεσα μια εικόνα(Icon) του GitHub και άλλαξα τα χρώματα. Για να κάνω αυτές τις τροποποιήσεις έπαιξα λίγο με τον κώδικα από το αρχείο HTML και απο το αρχείο CSS. Επίσης για να κανω λειτουργικο το BUTTON έπρεπε να επεξεργαστω το αρχείο javascript(jQuery).</p>
+<br>
+
+### :heavy_plus_sign: Πρόσθετος κώδικας στην javascript(jQuery)
+
+```javascript
+$(document).ready(function () {
+	return $('.button').click(function () {
+		var win = window.open('https://github.com/p19tzam', '_blank');
+		if (win) {
+			win.focus();
+		} else {
+			alert('Please allow popups for this website');
+		}
+		return setTimeout(removeSuccess, 3000);
+    });
+}); 
+```
+Στο μπλόκ αυτής της γραμμής `return $('.button').click(function ()` σημαίνει ότι όταν το BUTTON γίνει CLICK να εκτελέσει τις λειτουργίες `var win = window.open('https://github.com/p19tzam', '_blank');`
+Επίσης αν έχετε τα popups disallow μας εμφανίζει ενα Alert με ενα message για να κάνουμε allow τα popups.
