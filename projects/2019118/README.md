@@ -45,4 +45,4 @@
 
 <img src="https://i.imgur.com/B0rZp34.gif" width="500" height="200"> <img src= "https://i.imgur.com/y04AEFf.gif" width="500" height="200">
 
-Η διαφορά του αποτελέσματος είναι, όπως δείχνει και το όνομα, να οδηγήστε στα projects μου aka στο GitHub Profile μου
+Η διαφορά του αποτελέσματος είναι, όπως δείχνει και η ταμπέλα του κουμπιού, να οδηγήστε στα projects μου aka στο GitHub Profile μου σε αντίθεση με πριν που δεν γινόταν κάτι διαφορετικό.
