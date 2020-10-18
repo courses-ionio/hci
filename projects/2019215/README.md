@@ -29,10 +29,10 @@
 # ΠΑΡΑΔΟΤΕΟ 2 
  
 ## Youtube video player
-Στο δεύτερο παραδοτέο διάλεξα να κάνω την άσκηση youtube video player. Στην άσκηση αυτή χρησιμοποιώντας κατάλληλο κώδικα σε HTML, CSS και JS δημιούργησα δύο κουμπιά play και pause τα οποία, κλικάροντας τα, λειτουργούν ανάλογα σε ένα βίντεο του youtube.
+Στο δεύτερο παραδοτέο διάλεξα να κάνω την άσκηση youtube video player. Για την άσκηση αυτή, χρησιμοποιήσα κατάλληλο κώδικα σε HTML, CSS και JS μεσω του codepen δημιούργησα δύο κουμπιά play και pause τα οποία, κλικάροντας τα, λειτουργούν ανάλογα σε ένα βίντεο του youtube.
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="2019215" data-slug-hash="WNxxxrw" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="YouTube video player">
-  <span>Η άσκηση <a href="https://codepen.io/2019215/pen/WNxxxrw">
+  <span>Η άσκηση <a href="https://codepen.io/2019215/full/WNxxxrw">
   YouTube video player</a> και το προφίλ μου (<a href="https://codepen.io/2019215">@2019215</a>)
   στο <a href="https://codepen.io">CodePen</a>.</span>
 </p>
