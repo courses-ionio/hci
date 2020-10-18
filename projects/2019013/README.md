@@ -12,9 +12,9 @@
 
 Βιβλιογραφία 
 
-   <a href="https://https://pibook.epidro.me/remix/">Λίστα Ασκήσεων Προγραμματισμού</a>
+   <a href="https://pibook.epidro.me/remix/">Λίστα Ασκήσεων Προγραμματισμού</a>
 
-   <a href="https://https://codepen.io/p19stef/pen/VwjjeYv">Codepen</a> |  
+   <a href="https://codepen.io/p19stef/pen/VwjjeYv">Codepen</a> |  
 
 | 3 | Άσκηση γραμμής εντολών |
 
