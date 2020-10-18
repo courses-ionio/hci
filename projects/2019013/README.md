@@ -14,7 +14,7 @@
 
    <a href="https://pibook.epidro.me/remix/">Λίστα Ασκήσεων Προγραμματισμού</a>
 
-   <a href="https://codepen.io/p19stef/pen/VwjjeYv">Codepen</a> |  
+   <a href="https://https://codepen.io/your-work">Codepen</a> |  
 
 | 3 | Άσκηση γραμμής εντολών |
 
