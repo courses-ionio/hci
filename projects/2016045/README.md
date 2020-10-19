@@ -29,3 +29,4 @@
 Σκοπός του δεύτερου παραδοτέου ήταν η επιλογή μιας άσκησης απο την ιστοσέλιδα του βιβλίου και η ενσωμάτωσης της στο αντίστοιχο βιβλίο που κάναμε φορκ.
 
 #### [Link Άσκησης](https://stavros16.netlify.app/remix/image-filter/)
+#### [Αποθετήριο 2 Παραδοτέου](https://github.com/Stavros16/site/blob/master/_remix/image-filter.md)
