@@ -28,9 +28,7 @@
 
 
 # 2ο παραδοτέο 
-<p class="codepen" data-height="196" data-theme-id="light" data-default-tab="html,result" data-user="2019193" data-slug-hash="jOrrMKQ" data-preview="true" style="height: 196px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Form validation ">
-  <span>See the Pen <a href="https://codepen.io/2019193/pen/jOrrMKQ">
-  Form validation </a> by p19kont1 (<a href="https://codepen.io/2019193">@2019193</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<iframe height="196" style="width: 100%;" scrolling="no" title="Form validation " src="https://codepen.io/2019193/embed/jOrrMKQ?height=196&theme-id=light&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/2019193/pen/jOrrMKQ'>Form validation </a> by p19kont1
+  (<a href='https://codepen.io/2019193'>@2019193</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
