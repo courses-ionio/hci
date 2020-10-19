@@ -27,6 +27,7 @@
 # 2 Παραδοτέο
 
 Σκοπός του δεύτερου παραδοτέου ήταν η επιλογή μιας άσκησης απο την ιστοσέλιδα του βιβλίου και η ενσωμάτωσης της στο αντίστοιχο βιβλίο που κάναμε φορκ.
+ Η άσκηση που επέλεξα ήταν το Image Processing.
 
 #### [Link Άσκησης](https://stavros16.netlify.app/remix/image-filter/)
 #### [Αποθετήριο 2 Παραδοτέου](https://github.com/Stavros16/site/blob/master/_remix/image-filter.md)
