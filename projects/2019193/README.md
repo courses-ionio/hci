@@ -17,7 +17,7 @@
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) | 
 | 12 | Τελική αναφορά* | 
 
-1ο παραδοτέο
+# 1ο παραδοτέο
 
 Περιγραφή των αναγκών και των στόχων μας για το μάθημα "Επικοινωνία Ανθρώπου-Υπολογιστή"
 
@@ -27,9 +27,10 @@
 Φυσικά, είναι αναγκαίο το θεωρητικό κομμάτι του μαθήματος να κατανοηθεί πλήρως, όχι όμως στείρα, δηλαδή θα πρέπει να υπάρχει μία ενεργή συμμετοχή. 
 
 
-# Din Panel [<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="2019193" data-slug-hash="jOrrMKQ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Form validation ">
+# 2ο παραδοτέο 
+[<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="2019193" data-slug-hash="jOrrMKQ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Form validation ">
   <span>See the Pen <a href="https://codepen.io/2019193/pen/jOrrMKQ">
   Form validation </a> by p19kont1 (<a href="https://codepen.io/2019193">@2019193</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>] (#din-panel)
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>] 
