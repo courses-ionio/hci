@@ -28,7 +28,11 @@
 
 ## Παραδοτέο 2
 
-[Δείτε το εδώ.](https://codepen.io/vuxxs/pen/wvWMzMx)
+[Αποθετήριο κώδικα παραδοτέου 1](https://github.com/Vuxxs/site/blob/master/_remix/button.md)
+
+Ή
+
+[Δείτε το στο Codepen.](https://codepen.io/vuxxs/pen/wvWMzMx)
 
 ### Εκπλήρωση ζητούμενων δεύτερου παραδοτέου 
 
