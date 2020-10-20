@@ -70,3 +70,9 @@ $(document).ready(function () {
 ```
 Στο μπλόκ αυτής της γραμμής `return $('.button').click(function ()` σημαίνει ότι όταν το BUTTON γίνει CLICK να εκτελέσει τις λειτουργίες `var win = window.open('https://github.com/p19tzam', '_blank');`
 Επίσης αν έχετε τα popups disallow μας εμφανίζει ενα Alert με ενα message για να κάνουμε allow τα popups.
+
+<br>
+<br>
+<br>
+
+<h2>   :book:: Παραδοτέο 3</a></h2>
