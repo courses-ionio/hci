@@ -28,7 +28,7 @@
 
 ## Παραδοτέο 2
 
-[Αποθετήριο κώδικα παραδοτέου 1](https://github.com/Vuxxs/site/blob/master/_remix/button.md)
+[Αποθετήριο κώδικα παραδοτέου 2](https://github.com/Vuxxs/site/blob/master/_remix/button.md)
 
 Ή
 
