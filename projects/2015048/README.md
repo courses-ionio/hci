@@ -4,7 +4,7 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Εισαγωγή](#Εισαγωγή) |
-| 2 | [Άσκηση προγραμματισμού](https://codepen.io/p15xiar/full/XWKdQav) |
+| 2 | [Άσκηση προγραμματισμού](https://github.com/p15xiar/site/blob/2015048/_remix/form-validation.md) |
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 5 | Άσκηση γραμμής εντολών |
@@ -22,4 +22,5 @@
 Στους στόχους συμπεριλαμβανονται η πληρης εξοικείωση με την πλατφόρμα, η κατανόηση των μεθόδων που κανουν πιο ευκολη την επικοινωνία Ανθρώπου-Υπολογιστή, καθώς και τα εργαλεία πλατφόρμες που χρησιμοποιούνται.
 Οσο αναφορά τις ανάγκες-απαιτήσεις απο το μαθημα, κυριως οι επιπροσθετες γνωσεις πανω στον προγραμματισμο αλλα και στις γραμμες εντολών ειναι αυτο που με ενδιαφερει.
 
-https://codepen.io/pen/?template=XWKdQav
+Ασκηση 1
+<iframe height="265" style="width: 100%;" scrolling="no" title="Form Validation" src="https://codepen.io/p15xiar/pen/XWKdQav?editors=1100" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"> See the Pen Form Validation by mibook (@mibook) on CodePen. </iframe>
