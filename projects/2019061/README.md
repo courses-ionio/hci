@@ -16,3 +16,9 @@
 | 12 | Τελική αναφορά* |
 Εισαγωγή:
 Στο μάθημα ¨Επικοινωνία Ανθρώπου Υπολογιστή¨ κύριος στόχος, κατά τη γνώμη μου, είναι η εξοικείωση με τον προγραμματισμό, αλλά και με την πλατφόρμα του git hub. 
+
+
+Παραδοτέο 2
+https://github.com/elenitilav/site/blob/master/_remix/button.md
+
+https://codepen.io/elenitilav/pen/JjKRGxd 
