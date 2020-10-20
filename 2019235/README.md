@@ -12,7 +12,7 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
-| 2 | Άσκηση προγραμματισμού |
+| 2 | Άσκηση προγραμματισμού | [Interactive text](##Παραδοτέο 2)
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 5 | Άσκηση γραμμής εντολών |
@@ -25,8 +25,5 @@
 | 12 | Τελική αναφορά* |
 
 ## Παραδοτέο 2
-**link** : embedded from codepen
-<iframe height="341" style="width: 100%;" scrolling="no" title="gOMwxXg" src="https://codepen.io/isabellapap/embed/preview/gOMwxXg?height=341&theme-id=light&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/isabellapap/pen/gOMwxXg'>gOMwxXg</a> by 2019235
-  (<a href='https://codepen.io/isabellapap'>@isabellapap</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+[**link** : embedded from codepen](https://codepen.io/isabellapap/embed/preview/abZmLap?height=265&theme-id=light&default-tab=css,result)
+
