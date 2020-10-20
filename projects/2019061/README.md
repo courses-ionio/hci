@@ -22,3 +22,11 @@
 https://github.com/elenitilav/site/blob/master/_remix/button.md
 
 https://codepen.io/elenitilav/pen/JjKRGxd 
+
+Στον κώδικα περιέχονται σχόλια που εξηγούν τις αλλαγές:
+1)στα χρώματα
+2)στην ταχύτητα του hover 
+3)στο σύμβολο "remove"
+
+Βοήθεια: https://www.w3schools.com/cssref/css_colors.asp και https://fontawesome.com/icons/heart
+
