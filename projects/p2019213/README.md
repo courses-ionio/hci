@@ -76,5 +76,4 @@ $(document).ready(function () {
 <br>
 
 <h2>   :book:: Παραδοτέο 3</a></h2>
-
-<script id="asciicast-366600" src="https://asciinema.org/a/366600.js" async></script>
+<a href="https://asciinema.org/a/366600" target="_blank"><img src="https://asciinema.org/a/366600.svg" /></a>
