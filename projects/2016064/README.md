@@ -24,5 +24,5 @@
 
 ## 1η Άσκηση προγραμματισμού
 ### Button
-#### Αποθετήριο κώδικα 1ης Άσκησης προγραμματισμού:(https://github.com/Kavvadias/site/blob/P2016KAVV/_remix/button.md)
+#### Αποθετήριο κώδικα 1ης Άσκησης προγραμματισμού: https://github.com/Kavvadias/site/blob/P2016KAVV/_remix/button.md 
 	
