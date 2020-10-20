@@ -32,7 +32,7 @@
 
 Ή
 
-[Δείτε το στο Codepen.](https://codepen.io/vuxxs/pen/wvWMzMx)
+[Δείτε το στο Codepen αμέσως](https://codepen.io/vuxxs/pen/wvWMzMx)
 
 ### Εκπλήρωση ζητούμενων δεύτερου παραδοτέου 
 
