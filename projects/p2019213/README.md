@@ -45,7 +45,7 @@
 <br>
 <br>
 <br>
-<h2>   :book:: <a name="#paradoteo2">Παραδοτέο 2</a></h2>
+<h2>   :book:: Παραδοτέο 2</a></h2>
 
 ### :pushpin:: [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 1 (Button)](https://github.com/p19tzam/site/edit/p2019213/_remix/button.md)
 #### [Άσκηση προγραμματισμού 1 (Button) codepen.io](https://codepen.io/dhmosfunk/pen/OJXMZyQ)
