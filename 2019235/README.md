@@ -26,9 +26,9 @@
 
 ## Παραδοτέο 2
 **link** : embedded from codepen
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="sckarolos" data-slug-hash="vOoyJG" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="media queries example">
-  <span>See the Pen <a href="https://codepen.io/sckarolos/pen/vOoyJG">
-  media queries example</a> by sckarolos (<a href="https://codepen.io/sckarolos">@sckarolos</a>)
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="isabellapap" data-slug-hash="gOMwxXg" data-preview="true" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="gOMwxXg">
+  <span>See the Pen <a href="https://codepen.io/isabellapap/pen/gOMwxXg">
+  gOMwxXg</a> by 2019235 (<a href="https://codepen.io/isabellapap">@isabellapap</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
