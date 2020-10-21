@@ -84,11 +84,7 @@ $(document).ready(function () {
 <br><br>
 Για να κάνω record χρησιμοποίησα το asciinema που το κάνεις Install στα linux και είναι εύκολο στην χρήση του `για install - sudo apt-get install asciinema`
 
-<br>
-<br>
-
 `Επίσης εξηγώ μέσα στο asciinema στο τερματικό με σχόλια το τι κάνω`
-
 <br>
 
 #### 1.0 change your command prompt with your student ID
