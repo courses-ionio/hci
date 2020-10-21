@@ -80,7 +80,7 @@ $(document).ready(function () {
 ### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 1 (hci πρώτη εργασία της επιλογής).
 <br>
 
-Η πρώτη εργασία γραμμής εντολών που επέλεξα είναι αυτή στο πρώτο box απο το [hci tags](https://github.com/epidrome/dokey) που έχει τα εξής deliverables [(1.0 change your command prompt with your student ID)[https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#10-change-your-command-prompt-with-your-student-id], (list your dot files), (display your shell configuration file and display system information (hardware+software))].
+Η πρώτη εργασία γραμμής εντολών που επέλεξα είναι αυτή στο πρώτο box απο το [hci tags](https://github.com/epidrome/dokey) που έχει τα εξής deliverables [(1.0 change your command prompt with your student ID), (list your dot files), (display your shell configuration file and display system information (hardware+software))].
 <br><br>
 Για να κάνω record χρησιμοποίησα το asciinema που το κάνεις Install στα linux και είναι εύκολο στην χρήση του `για install - sudo apt-get install asciinema`
 
