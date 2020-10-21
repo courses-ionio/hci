@@ -78,4 +78,15 @@ $(document).ready(function () {
 <h2>   :book:: Παραδοτέο 3</a></h2>
 
 ### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 1 (hci πρώτη εργασία της επιλογής).
+<br>
+
+Η πρώτη εργασία γραμμής εντολών που επέλεξα είναι αυτή στο πρώτο box απο το [hci tags](https://github.com/epidrome/dokey) που έχει τα εξής deliverables [(1.0 change your command prompt with your student ID), (list your dot files), (display your shell configuration file and display system information (hardware+software))].
+<br><br>
+Για να κάνω record χρησιμοποίησα το asciinema που το κάνεις Install στα linux και είναι εύκολο στην χρήση του `για install - sudo apt-get install asciinema`
+
+<br>
+<br>
+`Επίσης εξηγώ μέσα στο asciinema στο τερματικό με σχόλια το τι κάνω`
+#### 1.0 change your command prompt with your student ID
+
 <a href="https://asciinema.org/a/366600" target="_blank"><img src="https://asciinema.org/a/366600.svg" /></a>
