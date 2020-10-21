@@ -80,11 +80,11 @@ $(document).ready(function () {
 ### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 1 (hci πρώτη εργασία της επιλογής).
 <br>
 
-Η πρώτη εργασία γραμμής εντολών που επέλεξα είναι αυτή στο πρώτο box απο το [hci tags](https://github.com/epidrome/dokey) που έχει τα εξής deliverables `[(1.0 change your command prompt with your student ID), (2.0 list your dot files), (display your shell configuration file and display system information (hardware+software))]`.
+Η πρώτη εργασία γραμμής εντολών που επέλεξα είναι αυτή στο πρώτο box απο το [hci tags](https://github.com/epidrome/dokey) που έχει τα εξής <b>deliverables</b> `[(1.0 change your command prompt with your student ID), (2.0 list your dot files), (display your shell configuration file and display system information (hardware+software))]`.
 <br><br>
 Για να κάνω record χρησιμοποίησα το asciinema που το κάνεις Install στα linux και είναι εύκολο στην χρήση του `για install - sudo apt-get install asciinema`
 
-`Επίσης εξηγώ μέσα στο asciinema στο τερματικό με σχόλια το τι κάνω`
+`Επίσης εξηγώ μέσα στο asciinema μέσο απο το τερματικό με σχόλια το τι κάνω.`
 <br>
 
 #### 1.0 change your command prompt with your student ID
@@ -94,3 +94,11 @@ $(document).ready(function () {
 
 #### 2.0 list your dot files
 <a href="https://asciinema.org/a/366686" target="_blank"><img src="https://asciinema.org/a/366686.svg" /></a>
+
+
+
+
+
+
+
+#### :arrow_double_up:: [Επιστροφή στην αρχή.](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#paperclip-%CE%BC%CE%AC%CE%B8%CE%B7%CE%BC%CE%B1-%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1-%CE%B1%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%BF%CF%85-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AEhci)
