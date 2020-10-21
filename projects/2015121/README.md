@@ -35,7 +35,7 @@
 ## Άσκηση προγραμματισμού : button
 Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/master/_remix/button.md
 
-## Αλλαγές:
+## Τροποποιήσεις:
 Τοποθέτησα ως link στο href το di.ionio.gr/ και άλλαξα το κείμενο του button σε Learn More.
 Άλλαξα το χρώμα του box στην καρτέλα CSS και το font family σε 'Lucida Console', monospace;
 Με το πάτημα, το button αλλάζει χρώμα σε πράσινο ticked και μας ανακατευθύνει στη σελίδα της σχολής.
