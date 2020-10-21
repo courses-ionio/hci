@@ -6,7 +6,7 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | First package  |
-| 2 | [Άσκηση προγραμματισμού](https://github.com/p19verg/site/blob/master/remix)
+| 2 | [Άσκηση προγραμματισμού](https://github.com/p19verg/site/blob/master/_remix/mouse-form.md)
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 5 | Άσκηση γραμμής εντολών |
@@ -35,26 +35,3 @@
 ---
 |Ενέργειες επίτευξης στόχων|
 Θα επιθυμούσα στο μέλλον να δουλέψω σε ένα χώρο που να σχετίζεται με το πεδίο της βιοπληροφορικής όπως προγραμματισμός ιατρικών συσκευών ώστε να μπορώ να εφαρμόσω τις γνώσεις μου για την ευκολότερη επικοινωνία ανθρώπου-υπολογιστή
----
-layout: single
-title: Mouse Form
-header: no
-categories:
-  - archetypes
-tags:
-  - form
-  - HCI
-  - mouse
----
-Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου για τη συμπλήρωση της φόρμας και δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη.
-
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p19verg" data-slug-hash="dyXGOvg" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="dyXGOvg">
-  <span>See the Pen <a href="https://codepen.io/p19verg/pen/dyXGOvg">
-  dyXGOvg</a> by Π2019127 (<a href="https://codepen.io/p19verg">@p19verg</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-
-
-Άσκηση: Τροποποιήστε το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί πρέπει να έχει προεπιλεγμένη τιμή “Gender” και οι διαθέσιμες επιλογές να είναι “Male”,”Female”. Τοποθετείστε το κελί όπου εσείς θέλετε μέσα στο υπάρχον box.
