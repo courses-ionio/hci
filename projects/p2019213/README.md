@@ -86,7 +86,11 @@ $(document).ready(function () {
 
 <br>
 <br>
+
 `Επίσης εξηγώ μέσα στο asciinema στο τερματικό με σχόλια το τι κάνω`
+
+<br>
+
 #### 1.0 change your command prompt with your student ID
 
 <a href="https://asciinema.org/a/366600" target="_blank"><img src="https://asciinema.org/a/366600.svg" /></a>
