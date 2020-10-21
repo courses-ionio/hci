@@ -24,6 +24,8 @@
    
   <h2><span id="Άσκηση Προγραμματισμού">Άσκηση Προγραμματισμού</span></h2>
   
-      <a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/image-filter.md" title="Image Filter">Image Filter</a>
+  <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/image-filter.md" title="Image Processing">Image Processing</a></i>
+  
+  Σκοπός της άσκησης ήταν η τροποποίηση του πραδείγματος που υπήρχε με κατάλληλο συνδυασμό φίλτρων ,αλλάζοντας τον CSS κώδικα, ώστε να εμφανίζεται η εικόνα με διαφορετικά χρωματικά εφέ. Η τροποποίση που έκανα, βρισκόταν στο μπλοκ κώδικα του hover, εφαρμόζοντας τα φίλτρα contrast(Θόλωμα),sepia(Σέπια) και blur(Αντίθεση).  
   
   
