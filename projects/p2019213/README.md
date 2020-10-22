@@ -94,7 +94,9 @@ $(document).ready(function () {
 
 #### 2.0 list your dot files
 <a href="https://asciinema.org/a/366686" target="_blank"><img src="https://asciinema.org/a/366686.svg" /></a>
+<br>
 
+#### 3.0 display your shell configuration file
 
 
 
