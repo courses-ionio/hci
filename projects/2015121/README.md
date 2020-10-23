@@ -41,3 +41,8 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 Με το πάτημα, το button αλλάζει χρώμα σε πράσινο ticked και μας ανακατευθύνει στη σελίδα της σχολής.
 
 Πηγές: https://www.udemy.com/course/the-web-developer-bootcamp/ https://www.w3schools.com/cssref/css_colors.asp
+
+###### [3]
+
+## Άσκηση γραμμής εντολών: get familiar with basic commands, reading documentation and editing files
+Link για το asciinema: https://asciinema.org/a/367360 
