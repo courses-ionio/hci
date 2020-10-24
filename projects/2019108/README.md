@@ -11,7 +11,7 @@
 | --- | --- |
 | 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα](#εισαγωγη) |
 | 2 | [Άσκηση προγραμματισμού: Mouse Eraser](#2ο-παραδοτέο---mouse-eraser) |
-| 3 | [Άσκηση γραμμής εντολών: Set-up the main dependencies and demonstrate your base system](#3o-παραδοτέο---set-up-the-main-dependencies-and-demonstrate-your-base-system) |
+| 3 | [Άσκηση γραμμής εντολών: Set-up the main dependencies and demonstrate your base system](#3ο-Παραδοτέο---Set-up-the-main-dependencies-and-demonstrate-your-base-system) |
 | 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
