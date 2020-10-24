@@ -49,9 +49,7 @@ Link για το asciinema: https://asciinema.org/a/367360
 
 ## Βήματα:
 Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή
-**sudo apt update / sudo apt install / sudo pip3 install thefuck**
-**sudo git clone https://github.com/vim/vim.git**
-**git clone https://github.com/ranger/ranger.git / cd ranger / docker build -t ranger/ranger:latest ranger / docker run -it ranger/ranger ranger**
+**sudo apt update / sudo apt install / sudo pip3 install thefuck**, **sudo git clone https://github.com/vim/vim.git**, **git clone https://github.com/ranger/ranger.git / cd ranger / docker build -t ranger/ranger:latest ranger / docker run -it ranger/ranger ranger**.
 Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal.
 Στη συνέχεια, με την εντολή **man man** διάβασα το manual αυτής και έπειτα το manual της εντολής **vim (man vim)**. Συνέχισα με την εντολή **apt-get
 install vim** επίτηδες γιατί πληκτρολογώντας **fuck** αμέσως μετά μου εμφάνισε τη σωστή σύνταξη της εντολής εγκατάστασης **vim**, δηλαδή **sudo apt-get
