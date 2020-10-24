@@ -84,7 +84,7 @@ _Αυτό που πρόσθεσα για να βελτιώσω το αποτέλ
 
 Στην version 2 χρησιμοποίησα την εντολή “sudo gedit /etc/hostname” το gedit είναι ένας editor του λειτουργικού linux οπού με αυτήν την εντολή ανοίγει το αρχείο που υπάρχει στο αντίστοιχο path με δικαιώματα διαχειριστή. Το αρχείο σε αυτό το path περιέχει το όνομα του host οπότε κάνοντας edit στο αρχείο με τον editor αλλάζουμε το όνομα του host. Για να λειτουργήσει όμως η αλλαγή απαιτείται restart του terminal.
 
-Αυτό φαίνεται και στο παρακάτω gif:
+#### Αυτό φαίνεται και στο παρακάτω gif:
 <p align="center">
 <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%203o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/hostnameChangeLinux.gif" width="480px">
 </p>
