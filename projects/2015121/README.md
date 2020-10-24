@@ -48,3 +48,14 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 Link για το asciinema: https://asciinema.org/a/367360 
 
 ## Βήματα:
+Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή
+**sudo apt update / sudo apt install / sudo pip3 install thefuck**
+**sudo git clone https://github.com/vim/vim.git**
+**git clone https://github.com/ranger/ranger.git / cd ranger / docker build -t ranger/ranger:latest ranger / docker run -it ranger/ranger ranger**
+Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal.
+Στη συνέχεια, με την εντολή **man man** διάβασα το manual αυτής και έπειτα το manual της εντολής **vim (man vim)**. Συνέχισα με την εντολή **apt-get
+install vim** επίτηδες γιατί πληκτρολογώντας **fuck** αμέσως μετά μου εμφάνισε τη σωστή σύνταξη της εντολής εγκατάστασης **vim**, δηλαδή **sudo apt-get
+install vim**(επέλεξα abort της εγκατάστασης μιας και είχε προηγηθεί πριν το recording). Πληκτρολογώντας **vim**, με κατεύθυνε σε ένα νέο menu και με
+εισαγωγή **help iccf** μου εμφάνισε σχετικές πληροφορίες. Με την εντολή **man neofetch** διάβασα το manual λειτουργίας αυτής, ενεργοποιήσα τον file manager
+με **cd ranger** και ,τέλος, εκτέλεσα την εντολή **neofetch** όπου μου έδωσε ως έξοδο τα στοιχεία/στατιστικά του συστήματός μου.
+Ολοκλήρωσα το asciicast με την εντολή **exit**.
