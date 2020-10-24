@@ -63,14 +63,45 @@ _Αυτό που πρόσθεσα για να βελτιώσω το αποτέλ
 <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%202o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/MouseEraserFinal.gif" width="720px">
 </p>
 
-Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [_remix/mouse-eraser](https://github.com/KuhakuNeko/site/blob/master/_remix/mouse-eraser.md)
+#### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [_remix/mouse-eraser](https://github.com/KuhakuNeko/site/blob/master/_remix/mouse-eraser.md)
 
-Link στο pen της άσκησης στο codepen.io: [MouseEraser P2019108](https://codepen.io/P2019108/pen/XWKdXLK)
+#### Link στο pen της άσκησης στο codepen.io: [MouseEraser P2019108](https://codepen.io/P2019108/pen/XWKdXLK)
 
 Το αποτέλεσμα της άσκησης είναι ωραίο, διαδραστικό και χρήσιμο, θα μπορούσε να χρησιμοποιηθεί σε μια διαδικτυακή σελίδα ή ακόμα με πολύ βελτίωση και τροποποίηση θα μπορούσε να γίνει ένα μικρό παιχνίδι. 
 Σε κάθε περίπτωση αυτή την στιγμή η άσκηση πείρε τη μορφή ενός διαδραστικού animation χάρις την επιλογή των εικόνων μου και με βελτίωση μπορεί να γίνει κάτι ακόμη καλύτερο.
 
 # 3ο Παραδοτέο - Set-up the main dependencies and demonstrate your base system
 
+Ως πρώτη εργασία γραμμής εντολών επέλεξα να πραγματοποιήσω την εργασία που ζητούσε να εγκαταστήσω τα βασικά απαιτούμενα και να δείξω τα χαρακτηριστικά του συστήματος μου.
+
 #### Asciinema link Ver.1:  [Παραδοτέο 3 Ver.1](https://asciinema.org/a/zNdDL7xrskKMXEJIoz42IThnM)<br />
 #### Asciinema link Ver.2: [Παραδοτέο 3 Ver.2](https://asciinema.org/a/HJf1empbiPVpVruLfIGvrU3vp)
+
+#### Η εργασία ζητούσε τα εξής πράγματα:
+
+### 1. Αλλαγή  του ονόματος του command prompt στον αριθμό μητρώου μας
+Στην version 1 της εργασίας χρησιμοποίησα την εντολή “Sudo hostname p2019108”.  Το sudo παρέχει τα κατάλληλα δικαιώματα διαχειριστή για την αλλαγή του hostname και η εντολή hostname ακολουθουμένη από το επιθυμητό όνομα επιτρέπει την αλλαγή του. Για να μην χρειαστεί επανεκκίνηση του terminal εισήγαγα και την εντολή “bash --login” όπου κάνει login τον αντίστοιχο host. <br />
+
+Στην version 2 χρησιμοποίησα την εντολή “sudo gedit /etc/hostname” το gedit είναι ένας editor του λειτουργικού linux οπού με αυτήν την εντολή ανοίγει το αρχείο που υπάρχει στο αντίστοιχο path με δικαιώματα διαχειριστή. Το αρχείο σε αυτό το path περιέχει το όνομα του host οπότε κάνοντας edit στο αρχείο με τον editor αλλάζουμε το όνομα του host. Για να λειτουργήσει όμως η αλλαγή απαιτείται restart του terminal.
+
+Αυτό φαίνεται και στο παρακάτω gif:
+<p align="center">
+<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%203o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/hostnameChangeLinux.gif" width="480px">
+</p>
+
+### 2. να προβάλουμε την λίστα τα dot files μας
+Για να προβάλω τα dot files χρησιμοποίησα τις εντολές “ls –ld  .?*” και “ls -a” η διαφορά μεταξύ τους είναι ότι η πρώτη εμφανίζει συγκεκριμένα μόνο τα hidden dot files ενώ η δεύτερη εμφανίζει όλα τα υπάρχοντα dot files. Στην version 2 χρησιμοποίησα μόνο την εντολή “ls -a”.
+
+### 3. να προβάλουμε το shell configuration file
+Για την προβολή συγκεκριμένων shell configuration files η εντολές που χρησιμοποίησα ήταν “nano ~/.bashrc” για την προβολή του bashrc και “ nano /etc/profile” για την προβολή του αρχείου profile μου. Η εντολή nano καλεί έναν text editor του linux ο οποιος είναι φτιαγμένος να λειτουργεί εντός του command line. Το nano ~/.bashrc είναι γραμμένο με αυτό το τρόπο ώστε να παρέχονται τα κατάλληλα δικαιώματα για το άνοιγμα του αρχείου.
+
+### 4. να προβάλουμε πληροφορίες για το σύστημα μας (hardware και software)
+Στην version 1 της άσκησης για την προβολή αυτών τον πληροφοριών χρησιμοποίησα την εντολή “neofetch” η οποία παρέχετε μετά την εγκατάσταση του πακέτου του neofetch. Το neofetch με αυτήν την εντολή σου επιτρέπει να δεις πληροφορίες σχετικά με το σύστημα σου που αφορούν hardware και software. <br />
+
+Στην version 2 έκανα χρήση μιας built-in εντολής του Linux, αυτή είναι η “sudo lshw -short”. Αυτή η εντολή σου παρέχει αρκετές πληροφορίες σχετικά με το σύστημα συνοπτικά. Αφαιρώντας το keyword “-short” από την εντολή μπορούμε να πάρουμε μια εκτεταμένη αναφορά με πληροφορίες για το σύστημα μας.
+
+#### Προβλήματα που χρειάστηκε να επιλυθούν μέχρι την εκτέλεση:
+
+Το πρώτο πρόβλημα που αντιμετώπισα είναι αυτό των δικαιοτάτων διαχείριση. Ωστόσο αυτό λύθηκε μαθαίνοντας για την εντολή sudo και αντί για /bashrc την χρήση του ~/.bashrc.
+Επίσης είχα πρόβλημα με το ότι για να λειτουργήσει η αλλαγή του hostname το terminal απαιτούσε restart όμως με την εντολή “bash –login” αυτό το πρόβλημα λύθηκε όσον αφορά την version 1 της άσκησης.
+
