@@ -33,3 +33,4 @@
 
 ### Παραδοτέο 3
 > ## [topic-hci](https://asciinema.org/a/ccRF2NdmRr6kJB1WSOu34CMcX)
+> [![asciicast](https://asciinema.org/a/14.png)](https://asciinema.org/a/14)
