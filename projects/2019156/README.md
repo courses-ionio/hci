@@ -33,4 +33,5 @@
 
 ### Παραδοτέο 3
 > ## [topic-hci](https://asciinema.org/a/ccRF2NdmRr6kJB1WSOu34CMcX)
-> ![Asciinema](https://pbs.twimg.com/media/DDRbV-MVYAAWf8K.jpg)
+> <img src="https://pbs.twimg.com/media/DDRbV-MVYAAWf8K.jpg " 
+	title="Ascinema.Read aboyt how it works" width="150" height="100" />
