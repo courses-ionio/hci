@@ -12,8 +12,8 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
-| 2 | Άσκηση προγραμματισμού [Interactive text](##Παραδοτέο-2) | 
-| 3 | Άσκηση γραμμής εντολών [Getting familiar with bash](##Παραδοτέο-3)|
+| 2 | Άσκηση προγραμματισμού [Interactive text](Παραδοτέο-2) | 
+| 3 | Άσκηση γραμμής εντολών [Getting familiar with bash](Παραδοτέο-3)|
 | 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
@@ -24,18 +24,18 @@
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
-## Παραδοτέο 2
+# Παραδοτέο 2
 [**link** : embedded from codepen](https://codepen.io/isabellapap/embed/preview/abZmLap?height=265&theme-id=light&default-tab=css,result)
 
  
-## Παραδοτέο 3
+# Παραδοτέο 3
 
-# Βήμα 1ο: Αλλαγή ονόματος σε Student ID στο bash
+### Βήμα 1ο: Αλλαγή ονόματος σε Student ID στο bash
 Με τη βοήθεια αυτού του πολύ κατατοπιστικού [οδηγού](https://phoenixnap.com/kb/change-bash-prompt-linux)
 
 Asciinema link: [![asciicast](https://asciinema.org/a/Ta70L3oqMnG3h1dC22qb92CPX.svg)](https://asciinema.org/a/Ta70L3oqMnG3h1dC22qb92CPX)
 
-# Βήμα 2ο: Εμφάνιση dot files, shell configuration file και System information (hardware + software)
+### Βήμα 2ο: Εμφάνιση dot files, shell configuration file και System information (hardware + software)
 Για το System Information συμβουλεύτηκα [αυτό το άρθρο](https://vitux.com/get-linux-system-and-hardware-details-on-the-command-line/)
 
 Asciinema link: [![asciicast](https://asciinema.org/a/mpUVCTOO176TLj2dd1MR8gU0s.svg)](https://asciinema.org/a/mpUVCTOO176TLj2dd1MR8gU0s)
