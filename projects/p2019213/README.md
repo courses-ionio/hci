@@ -97,8 +97,11 @@ $(document).ready(function () {
 <br>
 
 #### 3.0 display your shell configuration file
+<a href="https://asciinema.org/a/367674" target="_blank"><img src="https://asciinema.org/a/367674.svg" /></a>
+<br>
 
-
+#### 4.0 and display system information (hardware+software)
+<a href="https://asciinema.org/a/367678" target="_blank"><img src="https://asciinema.org/a/367678.svg" /></a>
 
  
 
