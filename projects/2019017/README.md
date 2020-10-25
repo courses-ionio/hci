@@ -33,11 +33,6 @@
 
 [Button](https://github.com/p19kala/site/blob/master/_remix/button.md)
 
-## Πηγές:
-[How to put link in HTML for a button](https://stackoverflow.com/a/20343328)
-
-[Colours' hex values in CSS](https://www.w3schools.com/cssref/css_colors.asp)
-
 ## Παραδοτέο 3
 
 Διάλεξα την άσκηση "download mp3" από το σετ ασκήσεων hci [εδώ](https://github.com/epidrome/dokey#hci). Εγκατέστησα το youtube-dl και το mpv στο Linux σύστημά μου και μετά από πολλές ώρες κατάφερα να κατεβάσω ένα αρχείο σε μορφή mp3 και να το ακούσω. Εγκατέστησα και το asciinema για το recording. Έθεσα και το idle_time σε 0.2 δευτερόλεπτα για να μην καθυστερεί, όπως έλεγε στις οδηγίες και ξεκίνησα εγγραφή. 
@@ -45,3 +40,8 @@
 Στο κλιπ, όπως θα δείτε, δεν έκανα search το βίντεο αλλά έγραψα το λινκ του και αυτό γιατί το ytsearch που χρησιμοποιεί το youtube-dl δεν δούλευε σωστά και δεν βρήκα πουθενά κάποια εναλλακτική. Όλες οι απαντήσεις που έβρισκα σε παρόμοιες ερωτήσεις άλλων έγραφαν να "βάλω το λινκ απευθείας". 
 
 Το [asciinema link](https://asciinema.org/a/TEsmrYzTvlVbPTyf0FkNORm08).
+
+## Πηγές:
+[How to put link in HTML for a button](https://stackoverflow.com/a/20343328)
+
+[Colours' hex values in CSS](https://www.w3schools.com/cssref/css_colors.asp)
