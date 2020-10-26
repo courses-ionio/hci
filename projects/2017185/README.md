@@ -32,9 +32,10 @@
 https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
 
 
-## [1η Άσκηση γραμμής εντολών](https://asciinema.org/a/bP9k8u6TNcRAe9Xob6y4PAdEu)
+## 1η Άσκηση γραμμής εντολών
   # assignments
       set-up the main dependencies and demonstrate your base system
   # deliverables
       change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
+    [Λινκ](https://asciinema.org/a/bP9k8u6TNcRAe9Xob6y4PAdEu)
   
