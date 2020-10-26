@@ -34,3 +34,10 @@ Link στο github (remix): https://github.com/Tsimpliarakis/site/blob/master/_r
 ![](https://github.com/Tsimpliarakis/hci/blob/2019033/projects/2019033/Validation_Form.PNG)
 
 Για την συγκεκριμένη εργασία έλαβα βοήθεια απο [w3schools](w3schools.com) καθώς και το [geeksforgeeks](geeksforgeeks.org), πέρα απο τις προϋπάρχουσες γνώσεις που είχα.
+
+## Άσκηση γραμμής εντολών 
+
+Περιγραφή άσκησης
+(change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software))
+
+Asciinema link: https://asciinema.org/a/368123
