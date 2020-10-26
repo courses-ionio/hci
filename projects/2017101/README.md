@@ -32,3 +32,6 @@
 
 https://github.com/koutsokostas/site/blob/master/_remix/button.md
 
+Άσκηση γραμμής εντολών 1
+
+https://asciinema.org/a/oRI0a8Q0wrwZk9YYTgoLAYJzy
