@@ -13,5 +13,5 @@
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
-#[Mouse Eraser](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)
-#[Comand line](https://asciinema.org/a/nNQ6TMd30KSZCVhlzi6agb2Qi) 
+# [Mouse Eraser](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)
+# [Comand line](https://asciinema.org/a/nNQ6TMd30KSZCVhlzi6agb2Qi) 
