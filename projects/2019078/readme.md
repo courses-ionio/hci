@@ -2,7 +2,7 @@
 
 ΑΜ:2019078
 
-(https://raw.githubusercontent.com/courses-ionio/help/master/deliverables/index.md)
+[Markdown](https://raw.githubusercontent.com/courses-ionio/help/master/deliverables/index.md)
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
