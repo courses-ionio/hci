@@ -22,6 +22,8 @@
 <h2><span id="Ασκηση Προγραμματισμού.">Ασκηση Προγραμματισμού.</span></h2>
 <p>Η άσκηση που επέλεξα είχε να κάνει με την επεξεργασία του φίλτρου μίας εικόνας, συνδυασμό αυτών και ρύθμιση φωτεινότητας, αντίθεσης κλπ. Υλοποιήθηκε σε HTML και CSS και χρησιμοποίησα τα σχόλια που υπήρχαν στο τμήμα της CSS για την προσθήκη νέων φίλτρων στην εικόνα.
 
-<a href="https://github.com/u2nmd/site/blob/master/_remix/image-filter.md">
-  
-<h6>Βιβλιογραφία που χρησιμοποιήθηκε:</h6> <ul> <a href="https://codepen.io">Codepen.</a> <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> </ul>
+<a href="https://github.com/u2nmd/site/blob/master/_remix/image-filter.md">Image Filter</a>
+<h6>Βιβλιογραφία που χρησιμοποιήθηκε:</h6>
+<ul> <a href="https://codepen.io">Codepen.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> </ul>
