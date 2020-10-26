@@ -42,4 +42,4 @@ Link στο github (remix): https://github.com/Tsimpliarakis/site/blob/master/_r
 Περιγραφή άσκησης
 (change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software))
 
-Asciinema link: https://asciinema.org/a/368123
+Asciinema link: https://asciinema.org/a/368186
