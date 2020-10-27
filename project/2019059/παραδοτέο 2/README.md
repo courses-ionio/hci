@@ -29,4 +29,4 @@ https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE
  <span>H ασκηση ειναι <a href="https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE"> εδω </a>  by π2019059 (<a href="https://codepen.io/xar1sgeovlacp2019059">@xar1sgeovlacp2019059</a>)</span>
 
 
-<span>See the Pen <a href="https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE"> gOMrqeE</a></span>
+<span>See the Pen <a href="https://asciinema.org/a/4m0nEnT3tnZlIhkwP1yHMpHVf"> gOMrqeE</a></span>
