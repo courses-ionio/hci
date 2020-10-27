@@ -26,3 +26,6 @@
 # ΑΣΚΗΣΕΙΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ
 [Form validation](https://codepen.io/orfeaslambrou/pen/JjKKbNJ) 
 
+# ΑΣΚΗΣΕΙΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
+[emacs](https://asciinema.org/a/2e0gMoZx2b1mYfKxIViGPsQuo)
+
