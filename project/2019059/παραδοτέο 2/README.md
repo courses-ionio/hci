@@ -21,7 +21,7 @@ https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-<a href="https://codepen.io">CodePen</a>
+<span><a href="https://codepen.io">CodePen</a>.</span>
 
 .
 
