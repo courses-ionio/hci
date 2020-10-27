@@ -16,13 +16,14 @@ https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE
  
  
  
- <span>See the Pen <a href="https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE">
-  gOMrqeE</a> by π2019059 (<a href="https://codepen.io/xar1sgeovlacp2019059">@xar1sgeovlacp2019059</a>)
+ <span>See the Pen <a href="https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE"> gOMrqeE</a></span>
+ 
+ by π2019059 (<a href="https://codepen.io/xar1sgeovlacp2019059">@xar1sgeovlacp2019059</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
 <span>on<a href="https://codepen.io">CodePen</a>.</span>
-<span>Η ασκηση ειναι <a herf="https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE">εδω</a>.</span>
 
+<span>on<a href="https://codepen.io">CodePen</a>.</span>
 .
 
