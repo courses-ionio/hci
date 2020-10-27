@@ -47,3 +47,6 @@
 
 #### ΤΡΟΠΟΣ ΕΠΙΛΥΣΗΣ ΤΗΣ ΑΣΚΗΣΗ:
 Για να καταφέρω να καταλάβω πως δουλεύει το τερματικό σε συνδιασμό με τραγούδια του youtube και του mp3, χρησιμοποίησα πληροφορίες που βρήκα στις ιστοσελίδες [How to search for YouTube videos on Ubuntu Desktop](https://vitux.com/how-to-search-for-youtube-videos-on-ubuntu-desktop/), [How do I play music from the terminal?](https://askubuntu.com/questions/82605/how-do-i-play-music-from-the-terminal) και [Listen to Music through the Ubuntu Terminal](https://vitux.com/listen-to-music-through-the-ubuntu-terminal/). Με το πρώτο link μπήκα στο software του Ubuntu και κατάφερα να κατεβάσω το search application του youtube, ώστε να μποορεί το τερματικό να αναγνωρίσει τα link των τραγουδιών που του δίνω. Με το δεύτερο link πήρα μία γενική άποψη στη διαδικασία αναπαραγωγής τραγουδιών. Τέλος, από το τρίτο έμαθα διάφορους τρόπους αναπαραγωγής τραγουδιών και εφάρμοσα αυτόν που ταίριαζε στην περίπτωση μου. Επομένως, έχοντας επιπλέον γνώσεις ετοίμασα την άσκηση.
+
+
+# 4ο Παραδοτέου οποίου είχα μάθει 
