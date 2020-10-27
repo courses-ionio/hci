@@ -37,4 +37,23 @@ https://www.w3schools.com/css/css_icons.asp
 https://fontawesome.com/kits/7496a014f8/use?welcome=yes
 https://fontawesome.com/icons/bell-slash?style=regular
 
+## 1η Άσκηση γραμμής εντολών
+### Become productive with a todo list(create a list of todos, edit, delete, and check some of them)
+#### Asciinema link 1ης Άσκηση γραμμής εντολών: https://asciinema.org/a/jQv28tu338kAJVK3SgSEhVGi9
+
+Το λογισμικό που χρησιμοποίησα είναι το Taskwarrior, ώστε να διαχειριστώ την λίστα μου απο την γραμμή εντολών. Αρχικά έκανα εγκατάσταση το Taskwarrior μέσω της εντολής sudo apt-get install taskwarrior. Από εκεί και πέρα είχα την δυνατότητα να δημιουργήσω και να διαχειριστώ την λίστα μου. Οι εντολές που χρησιμοποίησα για την διαχείριση της λίστας είναι οι εξής:
+1. task add , με την εντολή αυτή δημιουργούμε ένα έργο για την λίστα μας. Συνεχίζοντας με την ίδια εντολή αν έχουμε ήδη ένα έργο προσθέτουμε στην λίστα ένα δεύτερο έργο.
+2. task x modify , με την εντολή αυτή έχουμε την δυνατότητα να επεξεργαστούμε το κείμενο του αναφερόμενου έργου x. 
+3. task x delete , με την εντολή αυτή μπορούμε να διαγράψουμε ένα αναφερόμενο έργο x.
+4. task x done , με την εντολή αυτή θεωρούμε το αναφερόμενο έργο x ως πραγματοποιημένο(completed) έτσι και βγαίνει αμέσως από την λίστα μας.
+5. task list , με την εντολή αυτή απεικονίζεται όλη η λίστα και οι λεπτομέρειες της οποιαδήποτε στιγμή.
+
+Έτσι μέσω των παραπάνω εντολών πραγματοποίησα όλους τους στόχους της πρώτης άσκησης γραμμής εντολών.
+Οδηγίες για την πραγματοποίηση της άσκησης έλαβα από τους παρακάτω συνδέσμους.
+https://taskwarrior.org/docs/examples.html
+https://taskwarrior.org/docs/commands/modify.html
+https://taskwarrior.org/docs/30second.html
+
+
+
 	
