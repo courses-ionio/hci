@@ -31,7 +31,10 @@
 
 Διάλεξα την άσκηση με το κουμπί. Όταν ο χρήστης κάνει κλικ στο κουμπί, τον κατευθύνει πίσω σε αυτή τη σελίδα. Αρχικά είχα πρόβλημα με το που να βρω τα hex values των χρωμάτων ώστε να αλλάξω το background και το κουτί του κουμπιού, οπότε έψαξα στο google και βρήκα την ιστοσελίδα w3schools. Εκεί είχε και πως αντιδρούσαν όλα τα χρώματα μεταξύ τους. Στη συνέχεια έκανα trial and error με τις τιμές του έτοιμου κώδικα για να δω τι κάνει η καθεμία και έτσι κατάφερα να αλλάξω την εμφάνιση από το αρχικό κουμπί σε μία της επιλογής μου.
 
-[Button](https://github.com/p19kala/site/blob/master/_remix/button.md)
+Σύνδεσμος στην άσκηση και το Codepen: [Button](https://github.com/p19kala/site/blob/master/_remix/button.md)
+
+Preview:
+![default](https://i.imgur.com/QN7VmZB.png)
 
 ## Παραδοτέο 3
 
@@ -42,6 +45,9 @@
 Στο κλιπ, όπως θα δείτε, δεν έκανα search το βίντεο αλλά έγραψα το λινκ του και αυτό γιατί το ytsearch που χρησιμοποιεί το youtube-dl δεν δουλεύει σωστά (και το youtube-dl έχει κάποια νομικά θέματα αυτή τη στιγμή οπότε δεν υπάρχουν updates προς το παρόν). 
 
 Το [asciinema link](https://asciinema.org/a/TEsmrYzTvlVbPTyf0FkNORm08).
+
+Preview:
+![default](https://i.imgur.com/RXsMjoY.png)
 
 ## Πηγές:
 [How to put link in HTML for a button](https://stackoverflow.com/a/20343328)
