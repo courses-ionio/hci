@@ -50,9 +50,9 @@ https://fontawesome.com/icons/bell-slash?style=regular
 
 Έτσι μέσω των παραπάνω εντολών πραγματοποίησα όλους τους στόχους της πρώτης άσκησης γραμμής εντολών.
 Οδηγίες για την πραγματοποίηση της άσκησης έλαβα από τους παρακάτω συνδέσμους.
-https://taskwarrior.org/docs/examples.html
-https://taskwarrior.org/docs/commands/modify.html
-https://taskwarrior.org/docs/30second.html
+- https://taskwarrior.org/docs/examples.html
+- https://taskwarrior.org/docs/commands/modify.html
+- https://taskwarrior.org/docs/30second.html
 
 
 
