@@ -22,6 +22,7 @@ https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE
 </p>
 
 <span><a href="https://codepen.io">CodePen</a>.</span>
+<span>Η ασκηση ειναι <a herf="https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE">εδω</a>.</span>
 
 .
 
