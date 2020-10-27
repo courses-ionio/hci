@@ -51,6 +51,19 @@ Preview:
 ![default](https://i.imgur.com/RXsMjoY.png)
 
 ## Πηγές:
-[How to put link in HTML for a button](https://stackoverflow.com/a/20343328)
 
-[Colours' hex values in CSS](https://www.w3schools.com/cssref/css_colors.asp)
+Παραδοτέο 2:
+
+- [How to put link in HTML for a button](https://stackoverflow.com/a/20343328)
+
+- [Colours' hex values in CSS](https://www.w3schools.com/cssref/css_colors.asp)
+
+Παραδοτέο 3:
+
+- [Installing and configuring youtube-dl](https://github.com/scastillo/not-youtube-dl/blob/master/README.md)
+
+- [MPV manual to control the player](https://mpv.io/manual/master/)
+
+- [MPV installation](https://mpv.io/installation/)
+
+- [Commands for Asciinema](https://asciinema.org/docs/usage)
