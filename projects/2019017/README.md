@@ -44,11 +44,11 @@ Preview:
 
 Στο κλιπ, όπως θα δείτε, δεν έκανα search το βίντεο αλλά έγραψα το λινκ του και αυτό γιατί το ytsearch που χρησιμοποιεί το youtube-dl δεν δουλεύει σωστά (και το youtube-dl έχει κάποια νομικά θέματα αυτή τη στιγμή οπότε δεν υπάρχουν updates προς το παρόν). 
 
-Το [asciinema link](https://asciinema.org/a/TEsmrYzTvlVbPTyf0FkNORm08).
+Το [asciinema link](https://asciinema.org/a/eA3ydCOwAVi0EIFp8e7CvkawT).
 
 Preview:
 
-![default](https://i.imgur.com/RXsMjoY.png)
+![default](https://i.imgur.com/8bSWzo7.png)
 
 ## Πηγές:
 
@@ -65,5 +65,7 @@ Preview:
 - [MPV manual to control the player](https://mpv.io/manual/master/)
 
 - [MPV installation](https://mpv.io/installation/)
+
+- [Googler installation and usage](https://github.com/jarun/googler#installation)
 
 - [Commands for Asciinema](https://asciinema.org/docs/usage)
