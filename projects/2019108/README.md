@@ -112,7 +112,7 @@ _Αυτό που πρόσθεσα για να βελτιώσω το αποτέλ
 Για να το πετύχω αυτό κοίταξα στον κώδικα JS που έμαθα από την προηγούμενη μου άσκηση ότι ευθύνεται για τα event που συμβαίνουν σε ένα πρόγραμμα/σελίδα. Παρατήρησα το κομμάτι του κώδικα όπου υπάρχουν κάποια if statements με το keyword "key" μόλις είδα ότι μέσα στο if υπήρχε η λογική πράξη key == 40 κατάλαβα ότι αυτό σημαίνει πως όταν κάποιο κουμπί (στην περίπτωση αυτή με κωδικό 40) πατηθεί, τότε εκτελείτε ο κώδικας του if statement.
 
 <p align="center">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%204o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/1.1.png" width="460px">
+<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%204o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/1.2.png" width="460px">
 </p>
 
 Δεν γνώριζα τα key code από τα πλήκτρα οπότε έψαξα στο Internet και βρήκα μια ιστοσελίδα η οποία πατώντας το αντίστοιχο πλήκτρο σου δείχνει το key code του. Το link προς αυτό το site βρίσκετε στην υπο-ενότητα "χρήσιμες πηγές".
@@ -132,7 +132,7 @@ _Αυτό που πρόσθεσα για να βελτιώσω το αποτέλ
 Μαθαίνοντας λοιπόν ότι το key code 40 αντιστοιχεί στο κάτω βελάκι του πληκτρολογίου το οποίο γνωρίζω ότι κινεί το αμάξι προς τα πίσω απλός πήγα στο if statement με το "if (key == 40)" και απλά άλλαξα την μεταβλητή "dy" από 4 σε 2 ώστε να μειώσω την ταχύτητα της όπισθεν ακριβός στο μισό από όταν το αμάξι πηγαίνει εμπρός.
 
 <p align="center">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%204o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/1.2.png" width="460px">
+<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%204o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/1.1.png" width="460px">
 </p>
 
 #### Το τελικό αποτέλεσμα φαίνεται στο παρακάτω gif:
