@@ -46,7 +46,13 @@
 Το τρίτο παραδοτέο ζητούσε να λύσουμε μία άσκηση γραμμών εντολής. Για να γίνει αυτό χρειάστηκε να χρησιμοποιήσω το τερματικό του Ubuntu. Επέλεξα την άσκηση [get familiar with basic commands, reading documentation and editing files](https://github.com/p19pasa/dokey/blob/master/README.md) που όπως μπορείτε να καταλάβετε από την ονομασία του, ζητούσε να ψάξουμε τους φακέλους που έχουμε στο Ubuntu και να δούμε τι υπάρχει σε αυτούς. 
 
 #### ΤΡΟΠΟΣ ΕΠΙΛΥΣΗΣ ΤΗΣ ΑΣΚΗΣΗΣ:
-Για να καταφέρω να καταλάβω πως δουλεύει το τερματικό σε συνδιασμό με τα αρχεία μας, χρησιμοποίησα τις ιστοσελίδες . Επίσης, για να καταφέρα να αλλάξω το όνομα χρήστη στο τερματικό πήρα πληροφορίες από τις ιστοσελίδες [How to change the prompt in Linux?](https://unix.stackexchange.com/questions/35777/how-to-change-the-prompt-in-linux) και [How to change the display name on the Terminal?](https://askubuntu.com/questions/817452/how-to-change-the-display-name-on-the-terminal). Στο τέλος, για να καταφέρω να περάσω το link που οδηγεί στη λύση της άσκηση μέσω του asciinema μελέτησα τις οδηγίες: [Record and share your terminal sessions, the right way.](https://asciinema.org/).
+Για να καταφέρω να καταλάβω πως δουλεύει το τερματικό σε συνδιασμό με τα αρχεία μας, χρησιμοποίησα τις ιστοσελίδες .Έμαθα ότι με την εντολή:
+i)   sudo su γίνεσαι superuser, όπου έχω και τον αριθμό μητρώου μου ως όνομα χρήστη,
+ii)  ls βλέπεις ποια αρχεία έχεις, 
+iii) cd και το όνομα κάποιου από τους φακέλους μπορείς να επεξεργαστείς τον συγκεκριμένο φάκελο,
+v)   mkdir και ένα όνομα για έναν καινούριο φάκελο, δημιουργείται φάκελο, είτε στο αρχείο μας, είτε μέσα σε έναν από τους φακέλους που υπάρχουν ήδη και
+vi)  cd - επιστρέφουμε για παράδειγμα στο αρχείο μας, αν επεξεργαζόμαστε έναν συγκεκριμένο φάκελο. 
+Επίσης, για να καταφέρα να αλλάξω το όνομα χρήστη στο τερματικό πήρα πληροφορίες από τις ιστοσελίδες [How to change the prompt in Linux?](https://unix.stackexchange.com/questions/35777/how-to-change-the-prompt-in-linux) και [How to change the display name on the Terminal?](https://askubuntu.com/questions/817452/how-to-change-the-display-name-on-the-terminal). Στο τέλος, για να καταφέρω να περάσω το link που οδηγεί στη λύση της άσκηση μέσω του asciinema μελέτησα τις οδηγίες: [Record and share your terminal sessions, the right way.](https://asciinema.org/). Η λύση βρίσκεται: 
 
 
 # 4ο Παραδοτέο
