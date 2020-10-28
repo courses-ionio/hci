@@ -6,9 +6,9 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 |[1ο Παραδοτέο](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#1%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
-| 2 | [2ο Παραδοτέο:Άσκηση προγραμματισμού](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#2%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
-| 3 | [3ο Παραδοτέο:Άσκηση γραμμής εντολών](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#3%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) 
-| 4 | [4ο Παραδοτέο:Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) ](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#4%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
+| 2 | [2ο Παραδοτέο: Άσκηση προγραμματισμού](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#2%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
+| 3 | [3ο Παραδοτέο: Άσκηση γραμμής εντολών](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#3%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) 
+| 4 | [4ο Παραδοτέο: Άσκηση προγραμματισμού](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#4%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
