@@ -43,10 +43,10 @@
 
 
 # 3ο Παραδοτέο
-Το τρίτο παραδοτέο ζητούσε να λύσουμε μία άσκηση γραμμών εντολής. Για να γίνει αυτό χρειάστηκε να χρησιμοποιήσω το τερματικό του Ubuntu. Επέλεξα την άσκηση [download mp3](https://github.com/p19pasa/dokey/blob/master/README.md) που όπως μπορείτε να καταλάβετε από την ονομασία του, ζητούσε να ψάξουμε, να κατεβάσουμε και να παίξουμε το αγαπημένο μας τραγούδι μέσω του τερματικού. 
+Το τρίτο παραδοτέο ζητούσε να λύσουμε μία άσκηση γραμμών εντολής. Για να γίνει αυτό χρειάστηκε να χρησιμοποιήσω το τερματικό του Ubuntu. Επέλεξα την άσκηση [get familiar with basic commands, reading documentation and editing files](https://github.com/p19pasa/dokey/blob/master/README.md) που όπως μπορείτε να καταλάβετε από την ονομασία του, ζητούσε να ψάξουμε τους φακέλους που έχουμε στο Ubuntu και να δούμε τι υπάρχει σε αυτούς. 
 
 #### ΤΡΟΠΟΣ ΕΠΙΛΥΣΗΣ ΤΗΣ ΑΣΚΗΣΗΣ:
-Για να καταφέρω να καταλάβω πως δουλεύει το τερματικό σε συνδιασμό με τραγούδια του youtube και του mp3, χρησιμοποίησα πληροφορίες που βρήκα στις ιστοσελίδες [How to search for YouTube videos on Ubuntu Desktop](https://vitux.com/how-to-search-for-youtube-videos-on-ubuntu-desktop/), [How do I play music from the terminal?](https://askubuntu.com/questions/82605/how-do-i-play-music-from-the-terminal) και [Listen to Music through the Ubuntu Terminal](https://vitux.com/listen-to-music-through-the-ubuntu-terminal/). Με το πρώτο link μπήκα στο software του Ubuntu και κατάφερα να κατεβάσω το search application του youtube, ώστε να μποορεί το τερματικό να αναγνωρίσει τα link των τραγουδιών που του δίνω. Με το δεύτερο link πήρα μία γενική άποψη στη διαδικασία αναπαραγωγής τραγουδιών. Τέλος, από το τρίτο έμαθα διάφορους τρόπους αναπαραγωγής τραγουδιών και εφάρμοσα αυτόν που ταίριαζε στην περίπτωση μου. Επομένως, έχοντας επιπλέον γνώσεις ετοίμασα την άσκηση.
+Για να καταφέρω να καταλάβω πως δουλεύει το τερματικό σε συνδιασμό με τα αρχεία μας, χρησιμοποίησα τις ιστοσελίδες . Επίσης, για να καταφέρα να αλλάξω το όνομα χρήστη στο τερματικό πήρα πληροφορίες από την ιστοσελίδα [How to change the prompt in Linux?](https://unix.stackexchange.com/questions/35777/how-to-change-the-prompt-in-linux). 
 
 
 # 4ο Παραδοτέο
