@@ -47,7 +47,7 @@
 
 #### ΤΡΟΠΟΣ ΕΠΙΛΥΣΗΣ ΤΗΣ ΑΣΚΗΣΗΣ:
 Για να καταφέρω να καταλάβω πως δουλεύει το τερματικό σε συνδιασμό με τα αρχεία μας, χρησιμοποίησα τις ιστοσελίδες [How to Edit Config Files in Ubuntu](https://vitux.com/how-to-edit-config-files-in-ubuntu/), [Using The Terminal](https://help.ubuntu.com/community/UsingTheTerminal) και [Basic Linux Navigation and File Management](https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management). Έμαθα ότι με την εντολή:
-i)   sudo su γίνεσαι superuser, όπου έχω και τον αριθμό μητρώου μου ως όνομα χρήστη,
+i)   sudo su γίνεσαι superuser, 
 ii)  ls βλέπεις ποια αρχεία έχεις, 
 iii) cd και το όνομα κάποιου από τους φακέλους μπορείς να επεξεργαστείς τον συγκεκριμένο φάκελο,
 v)   mkdir και ένα όνομα για έναν καινούριο φάκελο, δημιουργείται φάκελο, είτε στο αρχείο μας, είτε μέσα σε έναν από τους φακέλους που υπάρχουν ήδη και
