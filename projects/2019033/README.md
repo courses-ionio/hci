@@ -46,5 +46,5 @@ Asciinema link: https://asciinema.org/a/368186
 
 ## Άσκηση προγραμματισμού (Menu Scroll)
 
-Link άσκησης στο codepen: https://codepen.io/p2019033/pen/MWeQMZJ
+Link άσκησης στο codepen: https://codepen.io/p2019033/pen/MWeQMZJ <br>
 Link στο github (remix): https://github.com/Tsimpliarakis/site/blob/master/_remix/menu-scroll.md
