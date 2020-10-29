@@ -33,7 +33,7 @@ Link στο github (remix): https://github.com/Tsimpliarakis/site/blob/master/_r
 
 Στην συγκεκριμένη άσκηση κλήθηκα να προσθέσω παραπάνω validation forms για πιστωτική κάρτα, ελληνικό αριθμό τηλεφώνου και email. Στο κομμάτι της HTML προστέθηκαν περισσότερα inputs όπως ήταν και στον αρχικό κώδικα, με διαφοροποιημένα ονόματα και παραμέτρους. Στο κομμάτι της CSS άλλαξα την εμφάνιση των input και του κουμπιού submit. 
 
-![](https://imgur.com/jCKuajl)
+![ ](https://imgur.com/jCKuajl)
 
 Για την συγκεκριμένη εργασία έλαβα βοήθεια απο [w3schools](w3schools.com) καθώς και το [geeksforgeeks](geeksforgeeks.org), πέρα απο τις προϋπάρχουσες γνώσεις που είχα.
 
