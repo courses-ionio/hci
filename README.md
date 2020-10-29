@@ -37,7 +37,7 @@
 
 Το ΑΜ μου φαίνεται στο command prompt. Εμφάνιση λίστας αρχείων. Εμφάνιση πληροφοριών συστήματος (hardware+software). Εμφανίζω configuration files, δεν είμαι σίγουρος αν είναι τα ζητούμενα.
 
-* 2η άσκηση:https://asciinema.org/a/n7G3Y8EBFVGwaae4rOF7w8BWV
+* 2η άσκηση:https://asciinema.org/a/FG5uDdvhravDTWD9wi1sPgXpO
 
 Με βοήθησε πολύ το https://github.com/Idnan/bash-guide και κατάφερα κάποιες βασικές λειτουργίες, όπως να δημιουργήσω κάποια αρχεία, να τα ανοίξω και να τα επεξεργαστώ.
 
