@@ -52,7 +52,7 @@ ii)  ls βλέπεις ποια αρχεία έχεις,
 iii) cd, το όνομα κάποιου από τους φακέλους και / μπορείς να επεξεργαστείς τον συγκεκριμένο φάκελο,
 v)   mkdir και ένα όνομα για έναν καινούριο φάκελο, δημιουργείται φάκελο, είτε στο αρχείο μας, είτε μέσα σε έναν από τους φακέλους που υπάρχουν ήδη και
 vi)  cd - επιστρέφουμε για παράδειγμα στο αρχείο μας, αν επεξεργαζόμαστε έναν συγκεκριμένο φάκελο. 
-Επίσης, για να καταφέρα να αλλάξω το όνομα χρήστη στο τερματικό πήρα πληροφορίες από τις ιστοσελίδες [How to change the prompt in Linux?](https://unix.stackexchange.com/questions/35777/how-to-change-the-prompt-in-linux) και [How to change the display name on the Terminal?](https://askubuntu.com/questions/817452/how-to-change-the-display-name-on-the-terminal). Στο τέλος, για να καταφέρω να περάσω το link που οδηγεί στη λύση της άσκηση μέσω του asciinema μελέτησα τις οδηγίες: [Record and share your terminal sessions, the right way.](https://asciinema.org/). Η λύση βρίσκεται: 
+Επίσης, για να καταφέρα να αλλάξω το όνομα χρήστη στο τερματικό πήρα πληροφορίες από τις ιστοσελίδες [How to change the prompt in Linux?](https://unix.stackexchange.com/questions/35777/how-to-change-the-prompt-in-linux) και [How to change the display name on the Terminal?](https://askubuntu.com/questions/817452/how-to-change-the-display-name-on-the-terminal). Στο τέλος, για να καταφέρω να περάσω το link που οδηγεί στη λύση της άσκηση μέσω του asciinema μελέτησα τις οδηγίες: [Record and share your terminal sessions, the right way.](https://asciinema.org/). Η λύση βρίσκεται: https://asciinema.org/a/YyGDY0VokaYLxo370D9Rq0kSf.
 
 
 # 4ο Παραδοτέο
