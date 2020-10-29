@@ -42,6 +42,8 @@ Link στο github (remix): https://github.com/Tsimpliarakis/site/blob/master/_r
 Περιγραφή άσκησης
 (change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software))
 
+[![asciicast](https://asciinema.org/a/368186.svg)](https://asciinema.org/a/368186)
+
 Asciinema link: https://asciinema.org/a/368186
 
 ## Άσκηση προγραμματισμού (Menu Scroll)
