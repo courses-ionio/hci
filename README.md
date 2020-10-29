@@ -35,7 +35,7 @@
 
 * 1η άσκηση:https://asciinema.org/a/AJEWxOiDefBoG95G61JMN4nVv
 
-Το ΑΜ μου φαίνεται στο command prompt, όχι και στο τερματικό (δεν ξέρω αν χρειάζεται). Εμφάνιση λίστας αρχείων. Εμφάνιση πληροφοριών συστήματος (hardware+software). Εμφανίζω configuration files, δεν είμαι σίγουρος αν είναι τα ζητούμενα.
+Το ΑΜ μου φαίνεται στο command prompt. Εμφάνιση λίστας αρχείων. Εμφάνιση πληροφοριών συστήματος (hardware+software). Εμφανίζω configuration files, δεν είμαι σίγουρος αν είναι τα ζητούμενα.
 
 * 2η άσκηση:https://asciinema.org/a/n7G3Y8EBFVGwaae4rOF7w8BWV
 
