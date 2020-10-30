@@ -9,7 +9,7 @@
   <a href="https://pibook.epidro.me/remix/">Λίστα Ασκήσεων Προγραμματισμού</a>
   <a href="https://copeden.io/your-work">Codepen</a> |
 | 3 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών </span></a>|
-| 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
+| 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) <li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span><a>|
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -32,3 +32,9 @@
 <i><a href="https://asciinema.org/a/369113" tittle="Browse and view files on your system.">Browse and view files on your system.</a></i>
 
 Σκοπός της άσκησης ήταν η πρόσβαση στα αρχεία του υπολογιστή μέσω τερματικού Ubuntu, με την χρήση του Windows Subsystem for Linux. Επίσης, με την βοήθεια του asciinema κατάφερα να καταγράψω την διαδικασία πρόσβασης στα αρχεία του συστήματος.
+
+<h2><span id="Άσκηση Προγραμματισμού">Άσκηση Προγραμματισμού</span><h2>
+
+<i><a href="https://github.com/PetroulaStylianou/site/blob/master/_remix/image-filter.md" tiitle="Image Procressing">Image Procressing</a></i>
+
+Σκοπός της άσκησης ήταν η τροποποίηση του παραδείγματος χρησιμοποιώντας φίλτρα εικόνας και συνδιασμούς, η εικόνα άλλαζε χρωματικά εφέ, αλλάζοντας τον CSS κώδικα. Συγκεκριμένα τα φίλτρα που χρησιμοποίησα για την τροποποίηση ηταν το grayscale, sepia, hue-rotate και contrast μέσα στο hover.    
