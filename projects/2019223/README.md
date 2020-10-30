@@ -35,6 +35,6 @@
 
 <h2><span id="Άσκηση Προγραμματισμού">Άσκηση Προγραμματισμού</span><h2>
 
-<i><a href="https://github.com/PetroulaStylianou/site/blob/master/_remix/image-filter.md" tiitle="Image Procressing">Image Procressing</a></i>
+<i><a href="https://github.com/PetroulaStylianou/site/blob/master/_remix/image-filter.md" tiitle="Image Processing">Image Processing</a></i>
 
 Σκοπός της άσκησης ήταν η τροποποίηση του παραδείγματος χρησιμοποιώντας φίλτρα εικόνας και συνδιασμούς, η εικόνα άλλαζε χρωματικά εφέ, αλλάζοντας τον CSS κώδικα. Συγκεκριμένα τα φίλτρα που χρησιμοποίησα για την τροποποίηση ηταν το grayscale, sepia, hue-rotate και contrast μέσα στο hover.    
