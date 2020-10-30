@@ -8,7 +8,7 @@
 Βιβλιογραφία
   <a href="https://pibook.epidro.me/remix/">Λίστα Ασκήσεων Προγραμματισμού</a>
   <a href="https://copeden.io/your-work">Codepen</a> |
-| 3 | Άσκηση γραμμής εντολών |
+| 3 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών </span></a>|
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
@@ -26,3 +26,9 @@
 <i><a href="https://github.com/PetroulaStylianou/site/blob/master/_remix/mouse-form.md" tittle="Mouse form">Mouse form</a></i>
 
 Σκοπός της άσκησης ήταν η τροποποίηση του παραδείγραμος προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί πρέπει να έχει προεπιλεγμένη τιμή "Gender" και οι διαθέσιμες επιλογές να είναι "Male", "Female". 
+
+<h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
+
+<i><a href="https://asciinema.org/a/369113" tittle="Browse and view files on your system.">Browse and view files on your system.</a></i>
+
+Σκοπός της άσκησης ήταν η πρόσβαση στα αρχεία του υπολογιστή μέσω τερματικού Ubuntu, με την χρήση του Windows Subsystem for Linux. Επίσης, με την βοήθεια του asciinema κατάφερα να καταγράψω την διαδικασία πρόσβασης στα αρχεία του συστήματος.
