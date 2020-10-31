@@ -140,8 +140,8 @@ $(document).ready(function () {
 Άλλαξα το `width` και το `height` σε auto;
 Μετα το `margin-left:-205px;` για να πάει το text στην μέση της οθόνης
 
-`Ο αλλαγμένος κώδικας :`
 
+####Ο αλλαγμένος css κώδικας:
 ```css
 section.p15 a {
 	width: auto;
@@ -150,7 +150,7 @@ section.p15 a {
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	margin-left: -190px;
+	margin-left: -205px;
 	margin-top: -29px;
 	line-height: 1;
 }
