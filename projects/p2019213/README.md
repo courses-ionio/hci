@@ -110,7 +110,7 @@ $(document).ready(function () {
 
 <h2>   :book:: Παραδοτέο 4</a></h2>
 
-### :pushpin:: [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 2 (Interactive Text)](https://youthful-shannon-5ffcc9.netlify.app/remix/button/)
+### :pushpin:: [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 2 (Interactive Text)](https://youthful-shannon-5ffcc9.netlify.app/remix/interactive-text/)
 #### [Άσκηση προγραμματισμού 2 (Interactive Text) codepen.io](https://codepen.io/dhmosfunk/pen/bGeMGQP)
 
 
