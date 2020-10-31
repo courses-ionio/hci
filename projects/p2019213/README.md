@@ -119,7 +119,7 @@ $(document).ready(function () {
 Κάθε hover effect έχει ένα section class name πχ `<section class=”15”>`<br>
 Έτσι εγώ έκανα delete όλα τα υπόλοιπα sections και άφησα μονο το `section  class p15` που έχω επιλέξει μετά έβαλα το δικό μου text εκεί  που υπήρχε το προηγούμενο και είναι έτοιμο.
 <br><br>
-Και φαίνεται κάπως έτσι:
+#### Και φαίνεται κάπως έτσι:
 
 ```html
 <section class="p15">
