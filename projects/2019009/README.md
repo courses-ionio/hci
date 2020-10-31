@@ -37,7 +37,7 @@ https://codepen.io/p19barl/pen/BazzKXB
 
 
 
-# παραδοτεο 3 (Ασκηση γραμμης εντολων)
+# Παραδοτεο 3 (Ασκηση γραμμης εντολων)
 Η ασκηση γραμμης εντολων ειναι η πρωτη απο τις διαθεσιμες στην λιστα hci στο https://github.com/epidrome/dokey και σαν ζητουμενα ειχε: change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).Για την καταγραφη του terminal εκανα install το asciinema με την εντολη sudo apt-get install asciinema.Τα ζητουμενα της ασκησης φαινονται στο παρακατω βιντεο (εκτος απο το σκελος 2 List your dot file το οποιο δεν μπορεσα εκτελεσω)
 
 <a href="https://asciinema.org/a/367959" target="_blank"><img src="https://asciinema.org/a/367959.svg" /></a>
