@@ -13,7 +13,7 @@
 | 2 | [Άσκηση προγραμματισμού: Mouse Eraser](#2ο-παραδοτέο---mouse-eraser) |
 | 3 | [Άσκηση γραμμής εντολών: Set-up the main dependencies and demonstrate your base system](#3ο-παραδοτέο---set-up-the-main-dependencies-and-demonstrate-your-base-system) |
 | 4 | [Άσκηση προγραμματισμού: Keyboard Input](#4ο-παραδοτέο---keyboard-input) |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 |[Άσκηση γραμμής εντολών: Download mp3](#5ο-παραδοτέο---download-mp3) |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
@@ -105,6 +105,20 @@ _Αυτό που πρόσθεσα για να βελτιώσω το αποτέλ
 Το πρώτο πρόβλημα που αντιμετώπισα είναι αυτό των δικαιοτάτων διαχείριση. Ωστόσο αυτό λύθηκε μαθαίνοντας για την εντολή sudo και αντί για /bashrc την χρήση του ~/.bashrc.
 Επίσης είχα πρόβλημα με το ότι για να λειτουργήσει η αλλαγή του hostname το terminal απαιτούσε restart όμως με την εντολή “bash –login” αυτό το πρόβλημα λύθηκε όσον αφορά την version 1 της άσκησης.
 
+### Εργαλεία που χρησιμοποίησα:
+sudo, ls, nano, gedit, neofetch, lshw
+
+### Συνδέσμοι πηγών:
+[How do I change the hostname without a restart?](https://askubuntu.com/questions/87665/how-do-i-change-the-hostname-without-a-restart) |
+[How to show only hidden files in Terminal?](https://askubuntu.com/questions/468901/how-to-show-only-hidden-files-in-terminal) |
+[Bash Shell: Display All Hidden Dot Files In a Directory](https://www.cyberciti.biz/faq/bash-shell-display-only-hidden-dot-files/) |
+[Shell initialization files - Bash Guide for Beginners](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html) |
+[.bashrc: Permission denied](https://stackoverflow.com/questions/19742005/bashrc-permission-denied) |
+[NeoFetch: See System Information from the Command Line on Linux](https://www.omgubuntu.co.uk/2016/11/neofetch-terminal-system-info-app) |
+[10 Useful Commands to Collect System and Hardware Information in Linux](https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/) |
+[Linux Command To Find the System Configuration And Hardware Information](https://www.cyberciti.biz/faq/linux-command-to-find-the-system-configuration-and-hardware-information/) |
+[How to edit read-only file in /etc?](https://askubuntu.com/questions/562310/how-to-edit-read-only-file-in-etc)
+
 # 4ο Παραδοτέο - Keyboard Input
 
 Για το 4ο παραδοτέο επέλεξα την άσκηση "Keyboard Input". Σε αυτή την άσκηση ασχολήθηκα με την κίνηση ενός αντικείμενου με την χρήση του πληκτρολογίου. Η άσκηση αυτή ζητούσε να αλλάξω την ταχύτητα του αυτοκινήτου που ο χρήστης κινεί. Συγκεκριμένα ζητείται η ταχύτητα που το αμάξι έχει όταν πάει όπισθεν να είναι η μισή από αυτή που έχει το αμάξι όταν κινείτε εμπρός. <br />
@@ -149,3 +163,63 @@ _Αυτό που πρόσθεσα για να βελτιώσω το αποτέλ
 ## Xρήσιμες πηγές σχετικές με το παραδοτέο
 [Keycode.info - get JavaScript event keycodes](https://keycode.info/)<br />
 
+# 5ο Παραδοτέο - Download mp3
+
+Η δεύτερη εργασία γραμμής εντολών που επέλεξα ζητούσε να αναζητήσουμε, να κατεβάσουμε και να ακούσουμε το αγαπημένο μας τραγούδι αυτού του μήνα. Όλα αυτά μέσα από το terminal του linux. Παρακάτω έχουμε τα links για της δυο διαφορετικές εκτελέσεις της εργασίας μου. <br>
+
+#### Asciinema link Ver.1:  [Παραδοτέο 5 Ver.1](https://asciinema.org/a/cRdd29OBv2PV9RE6IhsHoC8tc)<br />
+#### Asciinema link Ver.1:  [Παραδοτέο 5 Ver.2](https://asciinema.org/a/miOkejPaVBDcSwBUzFVEYaf11)
+
+#### Η εργασία ουσιαστικά χωρίζετε στα εξής βήματα:
+
+### 1. Αναζήτηση του τραγουδιού στο YouTube
+Στην version 1 έκανα αναζήτηση στο YouTube μέσω του εργαλείου ytp, το εργαλείο (όπως και αρκετά άλλα) είχε κάποια προβλήματα που αναλύονται στην παράγραφο με τα προβλήματα που χρειάστηκε να επιλυθούν για την σωστή εκτέλεση. Το εργαλείο ytp σου προφέρει πολλές λειτουργείες όμως εγώ το χρησιμοποίησα ώστε να μπορέσω να κάνω αναζήτηση στην πλατφόρμα του youtube και να αντιγράψω το url του αντίστοιχου video για να μπορέσω να το κατεβάσω.
+
+Γρανίτας λοιπόν ytp στο terminal ανοίγει το interface του και εμφανίζετε μια default αναζήτηση που κάνει το ytp με το keyword “Friday”. Εισάγοντας την εντολή “x” κάνουμε νέα αναζήτηση και μετά γράφουμε το όνομα του τραγουδιού που ψάχνουμε. Ο ytp θα εμφανίσει τα αποτελέσματα αριθμημένα και επιλέγοντας τον αντίστοιχο αριθμό διαλέγουμε το τραγούδι. Αμέσως μετά πατάω “Y” για την αντιγραφή του url του επιλεγμένου video.
+Για να γίνει έξοδος από το interface του ytp πατάω Ctrl+C. Το url έχει αντιγραφεί επιτυχώς.
+
+Στην version 2 η αναζήτηση γίνετε μέσω του mps-youtube. Το mps-youtube έχει αντίστοιχες λειτουργείες με το ytp όμως το interface του είναι πολύ πιο γραφικό. Η εντολή “sudo mpsyt” ανοίγει το interface και το sudo απαιτείται λόγο δικαιωμάτων. Η αναζήτηση γίνετε με την εντολή “/ VideoName” όπου VideoName το video που αναζητούμε. Αναζητώντας το mps-youtube εμφανίζει τα αποτελέσματα αριθμημένα και εισάγοντας την εντολή “x 1” αντιγράφετε το url του video που βρίσκετε στην θέση 1.
+
+### 2. Κατέβασμα του τραγουδιού από το YouTube σε μορφή mp3
+Για το κατέβασμα του video και την εξαγωγή του κομματιού ήχου σε μορφή mp3 από αυτό χρησιμοποίησα το εργαλείο youtube-dl.
+Για να κατεβάσω το τραγούδι στον υπολογιστή μου χρησιμοποίησα την εντολή « youtube-dl –x –audio-format mp3 –o “GRIMOIRE.%(ext)s” https://www.youtube.com/watch?v=9a5Luy0h1Mg »
+
+Η παράμετρος “–x” είναι ώστε ο youtube-dl να μην κατεβάσει απλά το video αλλά να κάνει extract μόνο τον ήχο. Μετά το “-audio-format mp3” χρησιμοποιείται για να δηλώσουμε τον τύπο του αρχείου. Τ “-o “GRIMOIRE.%(ext)s” είναι μια παράμετρος που σου επιτρέπει να ονομάσεις το αρχείο που κατεβάζεις, σε περίπτωση που δεν θέλουμε να του δωθεί ως όνομα ο τίτλος του video by default. (Ο τίτλος του τραγουδιού που κατεβάζω σε αυτό το παράδειγμα είναι GRIMOIRE)
+
+Επειδή ήδη είχα εκτελέσει την εντολή “cd /home/kuhakuneko/Music” βρισκόμουν ήδη στο directory όπου κατεβάζω την μουσική μου και το youtube-dl κατεβάζει και τοποθετεί τα αρχεία στο directory που βρίσκεστε εκείνη την στιγμή by default.
+
+Το mps-youtube σου δίνει την δυνατότητα να κατεβάσεις video με τον ίδιο τρόπο που έκανα αντιγραφή το url, όμως λόγο σφάλματος κάποιου server το video δεν μπόρεσε να κατέβει.
+
+
+### 3. Αναπαραγωγή του τραγουδιού από το terminal
+Για την αναπαραγωγή τραγουδιών μέσω terminal υπάρχουν πολλές επιλογές. Στις εκτελέσεις μου χρησιμοποίησα 3 διαφορετικά εργαλεία.
+Στην version 1 έγινε χρήση του mpv. Με την εντολή “mpv” και ακριβώς από δίπλα την διαδρομή στο αρχείο ο mpv μπορεί να παίξει το αντίστοιχο αρχείο mp3 δείχνοντας στο terminal τα δευτερόλεπτα και την ποιότητα του Mp3.
+
+Στην version 2 τα εργαλεία που χρησιμοποίησα έχουν πολύ καλύτερο γραφικό περιβάλλον και σου δίνουν περισσότερες πληροφορίες. Τα 2 αυτά εργαλεία είναι το sox και ο VLC.
+
+Η εντολή για την αναπαραγωγή mp3 με τον sox είναι “play” και ακολουθείτε από το directory του mp3 αρχείου. Ο sox σου προφέρει ένα μικρό visualizer ήχου και εκτός από τις πληροφορίες που προσφέρει και το mpv έχει ακόμα File Size, Bit Rate, Encoding και σε ενημερώνει αν το Replay είναι on ή off.
+
+Μετά ο VLC το γνωστό πολυμεσικό πρόγραμμα γίνετε να λειτουργήσει εντός του terminal με την εντολή “nvlc”. Το n μπροστά από το vlc ενεργοποιεί την terminal μορφή του. Ο VLC έχει ένα ωραίο γραφικό περιβάλλον εντός terminal με μεγάλη μπάρα χρόνου ενώ ακριβώς από κάτω δείχνει το playlist σου.
+
+### Προβλήματα που χρειάστηκε να επιλυθούν μέχρι την εκτέλεση:
+Ένα από τα προβλήματα που αντιμετώπισα είναι ότι τα εργαλεία mps-youtube και ytp χρησιμοποιούν την Data API του YouTube για να λειτουργήσουν, επομένως απαιτούν κάποια credentials και ένα συγκεκριμένο κλειδί για την χρήση του API. Τα default κλειδιά δεν λειτουργούσαν πλέων γι’ αυτό έπρεπε χρησιμοποιώντας το google account μου να μπω και να φτιάξω ένα project που να περιέχει το YouTube DATA API στην σελίδα https://console.developers.google.com. Παίρνοντας το κλειδί έπρεπε να το κάνω set στα αντίστοιχα αρχεία config για τον ytp, και για το mps-youtube μέσω της εντολής “set api_key”.
+
+<p align="left">
+<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%205o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/YTPSetApiKey.gif" width="450px">
+</p>
+
+<p align="right">
+<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%205o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/MPSSetApiKey.gif" width="450px">
+</p>
+
+### Εργαλεία που χρησιμοποίησα:
+ytp, youtube-dl, mpv, mps-youtube, sox, vlc
+
+### Συνδέσμοι πηγών:
+[How to download an MP3 track from a YouTube video](https://askubuntu.com/questions/178481/how-to-download-an-mp3-track-from-a-youtube-video) |
+[Where does youtube-dl download the videos to?](https://askubuntu.com/questions/373336/where-does-youtube-dl-download-the-videos-to) |
+[How to specify a filename while extracting audio using youtube-dl?](https://askubuntu.com/questions/630134/how-to-specify-a-filename-while-extracting-audio-using-youtube-dl) |
+[How to play mp3 files from the command line?](https://askubuntu.com/questions/115369/how-to-play-mp3-files-from-the-command-line) |
+[How to Play MP3 Files from Command Line](https://linuxhint.com/play_mp3_files_commandline/) |
+[mps-youtube](https://github.com/mps-youtube/mps-youtube) |
+[ytp](https://gitlab.com/uoou/ytp)
