@@ -115,10 +115,9 @@ $(document).ready(function () {
 
 
 Στο 4ο παραδοτεο επέλεξα την άσκηση προγραμματισμού `Interactive Text`.<br>
-Σε αυτή την άσκηση χρειαζόταν να αλλάξω κώδικα μεσα στην html και στην css. <br><br>
-
+Σε αυτή την άσκηση χρειαζόταν να αλλάξω κώδικα μεσα στην html και στην css. <br>
 Κάθε hover effect έχει ένα section class name πχ `<section class=”15”>`<br>
-Έτσι εγώ έκανα delete όλα τα υπόλοιπα sections και άφησα μονο το section  class p15 που έχω επιλέξει μετά έβαλα το δικό μου text εκεί  που υπήρχε το προηγούμενο και είναι έτοιμο.
+Έτσι εγώ έκανα delete όλα τα υπόλοιπα sections και άφησα μονο το `section  class p15` που έχω επιλέξει μετά έβαλα το δικό μου text εκεί  που υπήρχε το προηγούμενο και είναι έτοιμο.
 <br><br>
 Και φαίνεται κάπως έτσι:
 
@@ -138,6 +137,23 @@ $(document).ready(function () {
 
 Αμέσως μετά έπρεπε να κάνω μερικές αλλαγές στο css αρχείο για να βάλω το δικό μου text και να πάει στο center.
 
+Άλλαξα το `width` και το `height` σε auto;
+Μετα το `margin-left:-205px;` για να πάει το text στην μέση της οθόνης
+
+`Ο αλλαγμένος κώδικας :`
+
+```css
+section.p15 a {
+width: auto;
+height: auto;
+line-height: 58px;
+position: absolute;
+top: 50%;
+left: 50%;
+margin-left: -190px;
+margin-top: -29px;
+line-height: 1;
+}
 
 
 #### :arrow_double_up:: [Επιστροφή στην αρχή.](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#paperclip-%CE%BC%CE%AC%CE%B8%CE%B7%CE%BC%CE%B1-%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1-%CE%B1%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%BF%CF%85-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AEhci)
