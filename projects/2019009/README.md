@@ -41,3 +41,17 @@ https://codepen.io/p19barl/pen/BazzKXB
 Η ασκηση γραμμης εντολων ειναι η πρωτη απο τις διαθεσιμες στην λιστα hci στο https://github.com/epidrome/dokey και σαν ζητουμενα ειχε: change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).Για την καταγραφη του terminal εκανα install το asciinema με την εντολη sudo apt-get install asciinema.Τα ζητουμενα της ασκησης φαινονται στο παρακατω βιντεο (εκτος απο το σκελος 2 List your dot file το οποιο δεν μπορεσα εκτελεσω)
 
 <a href="https://asciinema.org/a/367959" target="_blank"><img src="https://asciinema.org/a/367959.svg" /></a>
+
+
+
+
+# Παραδοτεο 4 (Ασκηση προγραμματισμου)
+Η ασκηση προγραμματισμου που επελεξα ως παραδοτεο 4 ειναι η ασκηση image processing η οποια ειχε ως ζητουμενο (Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών)Στην επιλυση της ασκησης χρησιμοποιησα τα φιλτρα εικονας που ειχε ως σχολια στο css κομματι της ασκησης.
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p19barl" data-slug-hash="MWeVRzr" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="image filter 1">
+  <span>See the Pen <a href="https://codepen.io/p19barl/pen/MWeVRzr">
+  image filter 1</a> by p2019009 (<a href="https://codepen.io/p19barl">@p19barl</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
