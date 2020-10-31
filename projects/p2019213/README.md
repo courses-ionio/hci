@@ -141,7 +141,7 @@ $(document).ready(function () {
 Μετα το `margin-left:-205px;` για να πάει το text στην μέση της οθόνης
 
 
-####Ο αλλαγμένος css κώδικας:
+#### Ο αλλαγμένος css κώδικας:
 ```css
 section.p15 a {
 	width: auto;
