@@ -144,16 +144,16 @@ $(document).ready(function () {
 
 ```css
 section.p15 a {
-width: auto;
-height: auto;
-line-height: 58px;
-position: absolute;
-top: 50%;
-left: 50%;
-margin-left: -190px;
-margin-top: -29px;
-line-height: 1;
+	width: auto;
+	height: auto;
+	line-height: 58px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -190px;
+	margin-top: -29px;
+	line-height: 1;
 }
-
+```
 
 #### :arrow_double_up:: [Επιστροφή στην αρχή.](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#paperclip-%CE%BC%CE%AC%CE%B8%CE%B7%CE%BC%CE%B1-%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1-%CE%B1%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%BF%CF%85-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AEhci)
