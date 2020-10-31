@@ -113,4 +113,31 @@ $(document).ready(function () {
 ### :pushpin:: [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 2 (Interactive Text)](https://youthful-shannon-5ffcc9.netlify.app/remix/button/)
 #### [Άσκηση προγραμματισμού 2 (Interactive Text) codepen.io](https://codepen.io/dhmosfunk/pen/bGeMGQP)
 
+
+Στο 4ο παραδοτεο επέλεξα την άσκηση προγραμματισμού `Interactive Text`.<br>
+Σε αυτή την άσκηση χρειαζόταν να αλλάξω κώδικα μεσα στην html και στην css. <br><br>
+
+Κάθε hover effect έχει ένα section class name πχ `<section class=”15”>`<br>
+Έτσι εγώ έκανα delete όλα τα υπόλοιπα sections και άφησα μονο το section  class p15 που έχω επιλέξει μετά έβαλα το δικό μου text εκεί  που υπήρχε το προηγούμενο και είναι έτοιμο.
+<br><br>
+Και φαίνεται κάπως έτσι:
+
+```html
+<section class="p15">
+  <a href="https://github.com/p19tzam">Π2019213
+    <div class="t1">
+      <div class="in"></div>
+        
+      </div>
+    <div class="t2">
+      <div class="in">tzama</div>        
+      </div>       
+  </a>
+</section>
+```
+
+Αμέσως μετά έπρεπε να κάνω μερικές αλλαγές στο css αρχείο για να βάλω το δικό μου text και να πάει στο center.
+
+
+
 #### :arrow_double_up:: [Επιστροφή στην αρχή.](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#paperclip-%CE%BC%CE%AC%CE%B8%CE%B7%CE%BC%CE%B1-%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1-%CE%B1%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%BF%CF%85-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AEhci)
