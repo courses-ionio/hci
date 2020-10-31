@@ -62,8 +62,7 @@ install vim**(επέλεξα abort της εγκατάστασης μιας κα
 Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/master/_remix/mouse-form.md
 
 ## Τροποποιήσεις:
-Αφού μελέτησα τον κώδικα στο πεδίο HTML, συμπέρανα πως έπρεπε να δημιουργήσω ένα νέο πεδίο, έστω **Please confirm your 
-gender**, το οποίο υλοποίησα με τις εξής εντολές: <fieldset>, <legend>, <p>Please confirm your gender.</p>, </legend>.
+Αφού μελέτησα τον κώδικα στο πεδίο HTML, συμπέρανα πως έπρεπε να δημιουργήσω ένα νέο πεδίο, έστω το οποίο υλοποίησα με τις εξής εντολές: <fieldset>, <legend>, <p>Please confirm your gender.</p>, </legend>.
 Εφόσον εμφανίστηκε το νέο πεδίο, πρέπει να ορίσω τις τιμές που θα δέχεται, δηλαδή "Male" ή "Female".Ορίζω νέο label ως
 **gender** και στη συνέχεια με την εντολή **option** θέτω τις επιλογές που ζητούνται από την άσκηση.
   
