@@ -64,7 +64,7 @@ Link για asciinema: https://asciinema.org/a/Dr8VZMqm2izeeRxr6GqUYarEh
 
 ## Άσκηση προγραμματισμού: Sortable list
 
-Link για αποθετήριο: https://github.com/DIATSIGK/site/edit/master/_remix/sortable-list.md
+Link για αποθετήριο: https://github.com/DIATSIGK/site/blob/master/_remix/sortable-list.md
 
 #### Διαδικασία:
 Επεξεργάστηκα τον κώδικα του παραδείγματος και κατάλαβα πως αποικονίζει η CSS τα στοιχεία του παραδείγματος.
