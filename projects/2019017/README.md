@@ -54,6 +54,9 @@ Preview:
 
 Σύνδεσμος στην άσκηση: [Image Filter](https://github.com/p19kala/site/blob/master/_remix/image-filter.md)
 
+Preview:
+![default](https://i.imgur.com/8ljyDkQ.png)
+
 ## Πηγές:
 
 Παραδοτέο 2:
