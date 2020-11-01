@@ -14,7 +14,8 @@
 |   |  Για την αλλαγή του command prompt να περιέχει τον ΑΜ, άλλαξα την μεταβλητή PS1 του .bashrc: https://github.com/p19zing/hci/blob/2019027/projects/2019027/paradoteo3/bashrc|
 |   | Ta αποτελέσματα του neofetch φαίνονται στο αρχείο https://github.com/p19zing/hci/blob/2019027/projects/2019027/paradoteo3/neofetch-ubuntu.PNG|
 |   | Το αρχείο καταγραφής του asciinema είναι το https://github.com/p19zing/hci/blob/2019027/projects/2019027/paradoteo3/paradoteo3.rec |
-| 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) |
+| 4 | Παραδοτέο 4 - (Άσκηση προγραμματισμού) https://codepen.io/p19zing/pen/ZEOoeGB |
+|   | Υλοποιήθηκε η άσκηση css-queries. Προστέθηκε media query για μέγεθος 1200px και αλλάζουν τα χρώματα του κειμένου και του background ανάλογα με το μέγεθος. link στο fork του pibook: https://github.com/p19zing/site/blob/2019027/_remix/css-queries.md |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
