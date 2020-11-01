@@ -8,7 +8,7 @@
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα ([link](#goal)) |
 | 2 | Άσκηση προγραμματισμού ή βιογραφικό  (SW) ([link](#button))|
 | 3 | Άσκηση γραμμής εντολών ([link](#CommandLineExercise))|
-| 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
+| 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) ([link](#css))|
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -36,4 +36,9 @@ For this command line exercise, I completed the *"set-up the main dependencies a
 The link to the asciicast on asciinema can be found through this [link](https://asciinema.org/a/367994) and can also be seen embedded below:
 
 [![asciicast](https://asciinema.org/a/367994.svg)](https://asciinema.org/a/367994)
+
+### <a name="css"></a> CSS Media Queries Programming Exercise
+For this programming exercise, I implemented changes changes to the CSS Media Queries exercise, by introducing more @media queries dependent on screen width and adapting the colors from green to red as the screen is squeezed. The font side is also adapted for the changing screen size.
+
+My commit to the forked repo can be found by following this [link](https://github.com/elenberg-io/site/commit/3166974ad1a2e258a1aba45a12e1ffe0a770a1c1#diff-f4ae7ac56b1b79abd24151c1b033aa250f7e0771751aeeb8e9f90e8e4875af30), the css-queries.md page on github can be accessed through this [link](https://github.com/elenberg-io/site/blob/button%E2%80%93exercise/_remix/css-queries.md) and my source code in CodePen can be accessed through this [link](https://codepen.io/p2006041/pen/oNLdwQo).
 
