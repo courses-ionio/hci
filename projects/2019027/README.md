@@ -10,7 +10,7 @@
 | 2 | Άσκηση προγραμματισμού 
 |   | Παραδοτέο 2 |
 |   | Αλλαγή λειτουργίας στο click ενός κουμπιού στο CodePen |
-|   | Λεπτομέρειες θα βρείτε στο αρχείο _remix\button.md και το [CodePen link](https://codepen.io/p19zing/pen/bGeeevB '[CodePen link')  |
+|   | Λεπτομέρειες θα βρείτε στο αρχείο https://github.com/p19zing/site/blob/master/_remix/button.md και το [CodePen link](https://codepen.io/p19zing/pen/bGeeevB '[CodePen link')  |
 | 3 | Άσκηση γραμμής εντολών |
 |   |  Παραδοτέο 3 https://asciinema.org/a/kebJ8RAbp55mXGHVmF8udYZ7Y|
 |   |  Για την αλλαγή του command prompt να περιέχει τον ΑΜ, άλλαξα την μεταβλητή PS1 του .bashrc: https://github.com/p19zing/hci/blob/2019027/projects/2019027/paradoteo3/bashrc|
