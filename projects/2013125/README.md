@@ -53,4 +53,9 @@
 ## Παραδοτέο 4
 ## Άσκηση Προγραμματισμού
 ## Image
-[Σύνδεσμος Άσκησης]()
+[Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/master/_remix/image.md)
+
+[Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+[Σύνδεσμος Βιβλιογραφίας 2](https://www.w3schools.com/csS/css3_flexbox.asp)
+
+## Αλλαγές στην Άσκηση του προγραμματισμού.
