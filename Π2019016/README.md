@@ -18,3 +18,4 @@ https://codepen.io/thomasth01/pen/ZEOOmra
 # System info excercize 
 https://asciinema.org/a/biu9GVYNN8d3Y3EfunpgBxnGL
 # Css Circle Menu Excercise
+https://codepen.io/thomasth01/pen/pobVmVK
