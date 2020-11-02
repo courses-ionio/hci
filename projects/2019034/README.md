@@ -6,8 +6,8 @@
 | --- | --- |
 | 1 |<li><a href="#Προσδοκίες από το μάθημα."><span class="toctext">Προσδοκίες από το μάθημα.</span></a>|
 | 2 |<li><a href="#Ασκηση Προγραμματισμού."><span class="toctext">Ασκηση Προγραμματισμού.</span></a>| 
-| 3 | Άσκηση γραμμής εντολών |
-| 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
+| 3 |<li><a href="Άσκηση γραμμής εντολών."><span class="toctext">Άσκηση γραμμής εντολών.</span></a>|
+| 4 |<li><a href="#Ασκηση Προγραμματισμού."><span class="toctext">Ασκηση Προγραμματισμού.</span></a>|
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -28,3 +28,15 @@
 <ul> <a href="https://codepen.io">Codepen.</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> </ul>
+<br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της άσκησης.</a>
+
+<h2><span id="Ασκηση Προγραμματισμού.">Ασκηση Προγραμματισμού.</span></h2>
+<p>Η άσκηση που επέλεξα είχε να κάνει με την προσθήκη φίλτρων σε μια εικόνα, από την οποία όταν περνούσε από πάνω το ποντίκι, γινόταν μεγένθυση αυτής. Υλοποιήθηκε σε HTML και CSS και αξιοποίησα τα φίλτρα που δίνονταν στην άσκηση Image Processing.
+  
+<a href="https://github.com/u2nmd/site/blob/master/_remix/image-zoom.md">Image Filter</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://codepen.io">Codepen.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
+<br> <a href="https://pibook.epidro.me/remix/image-zoom/">Η εκφώνηση της άσκησης που έκανα.</a>
+<br> <a href="https://pibook.epidro.me/remix/image-zoom/">Η εκφώνηση της προηγούμενης άσκησης που χρησιμοποίησα.</a></ul>
