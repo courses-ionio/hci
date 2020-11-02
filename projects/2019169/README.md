@@ -53,6 +53,7 @@ document.onkeydown = function(e) {<br>
   if (key == 37) dx=-4; else if (key == 38) dy=-4; else if (key == 39) dx=4; else if (key == 40) dy=4; else return true; <br>
     return false;
   };
+  
  <br>Μετά την τροποποίηση:<br>
 document.onkeydown = function(e) {<br>
   var key = e.keyCode;<br>
