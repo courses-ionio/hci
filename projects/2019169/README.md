@@ -60,10 +60,10 @@ document.onkeydown = function(e) {<br>
   if (key == 37) dx=-4; else if (key == 38) dy=-4; else if (key == 39) dx=4; else if (key == 40) dy=2; else return true; <br>
     return false;
   };<br>
+  
  Έτσι, λοιπόν για να μπορέσει το αυτοκίνητο να έχει την μισή ταχύτητα όταν κάνει όπισθεν έπρεπε να θέσω το dy=2 όταν η είσοδος που δέχεται από το πληκτρολόγιο είναι το πλήκτρο 40, δηλαδή το κάτω βελάκι. Με αυτή την αλλαγή, πλέον το αυτοκίνητο έχει ταχύτητα ίση με 4 m/s όταν κινείται μπροστά και 2 m/s όταν κινείται προς τα πίσω.</p>
  
  <a href="https://github.com/TaniaStoupi/site/blob/master/_remix/keyboard-input.md">Keyboard Input Exercise 1</a>
- 
- <h6>Βιβλιογραφία</h6> 
+  <h6>Βιβλιογραφία</h6> 
  <ul>  <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
   <br> <a href="https://codepen.io">Codepen.</a> </ul>
