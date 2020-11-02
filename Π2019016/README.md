@@ -18,6 +18,3 @@ https://codepen.io/thomasth01/pen/ZEOOmra
 # System info excercize 
 https://asciinema.org/a/biu9GVYNN8d3Y3EfunpgBxnGL
 # Css Circle Menu Excercise
-[codepen_embed height="265" theme_id="light" slug_hash="vOommL" default_tab="css,result" user="sckarolos"]See the Pen <a href='https://codepen.io/sckarolos/pen/vOommL'
->Pure CSS Circle Menu</a> by sckarolos (<a href='https://codepen.io/sckarolos'>@sckarolos</a>) on <a href='https://codepen.io'
->CodePen</a>.[/codepen_embed]
