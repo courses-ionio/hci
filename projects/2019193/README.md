@@ -32,13 +32,13 @@
 
 Link άσκησης Form Validation στο _remix: [https://github.com/TheodorosKontos/site/blob/master/_remix/form-validation.md] 
 
-Link στο codepen: [https://codepen.io/2019193/pen/QWEEoxd]
+Link άσκησης στο codepen: [https://codepen.io/2019193/pen/QWEEoxd]
 
 # Άσκηση Προγραμματισμού Sortable List
 Ολοκλήρωση της άσκησης Sortable List, όπου ζητείται να αλλάξουν το χρώμα, το ύψος και οι αποστάσεις μεταξύ των στοιχείων της λίστας που δίνεται. 
 Οι μόνες αλλαγές που χρειαζόνταν ήταν στην γλώσσα CSS. Αλλάξαμε τόσο το μήκος και το πλάτος των αντικειμένων, όσο και το χρώμα τους, αλλά και το χρώμα της γραμματοσειράς. Επίσης, μεγαλώσαμε την απόσταση των αντικειμένων. 
 
-Link άσκησης στο _remix: [https://github.com/TheodorosKontos/site/blob/master/_remix/sortable-list.md]
+Link άσκησης Sortable List στο _remix: [https://github.com/TheodorosKontos/site/blob/master/_remix/sortable-list.md]
 
 Link άσκησης στο Codepen: [https://codepen.io/2019193/pen/mdELzYm]
 
