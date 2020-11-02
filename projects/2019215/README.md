@@ -52,7 +52,7 @@ Link αποθετηρίου άσκησης: (https://github.com/p19ntar/site/blo
 
 <br/>
 
-## Άσληση γραμμής κώδικα
+## Άσκηση γραμμής κώδικα
 
 Link για το asciinema: https://asciinema.org/a/369713
 
