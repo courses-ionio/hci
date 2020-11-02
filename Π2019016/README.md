@@ -3,8 +3,8 @@
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
 | 2 |[Mouse eraser excersize](#Mouse-eraser-excercise)|
-| 3 |[System info excersize](#System-info-excersize)|
-| 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) |
+| 3 |[System info excersize](#System-info-excercize)|
+| 4 |[Css circle menu](#Css-Circle-Menu-Excercise) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -15,5 +15,7 @@
 | 12 | Τελική αναφορά* |
 # Mouse eraser excercise
 https://codepen.io/thomasth01/pen/ZEOOmra
-# System info excersize 
+# System info excercize 
 https://asciinema.org/a/biu9GVYNN8d3Y3EfunpgBxnGL
+# Css Circle Menu Excercise
+https://codepen.io/sckarolos/pen/vOommL
