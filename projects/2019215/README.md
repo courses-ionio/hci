@@ -48,6 +48,11 @@ Link αποθετηρίου άσκησης: (https://github.com/p19ntar/site/blo
 
 <br/>
 
+# ΠΑΡΑΔΟΤΕΟ 3 Άσληση γραμμής κώδικα
+Link για το asciinema: https://asciinema.org/a/369713
+
+<br/>
+
 # ΠΑΡΑΔΟΤΕΟ 4
 
 <br/>
