@@ -53,3 +53,16 @@
 
 # Παραδοτέο 3
 [Άσκηση Γραμμής Εντολών "set-up the main dependencies and demonstrate your base system"](https://asciinema.org/a/pGRw6ac3RANBLGaaYZnhpah3C)
+
+# Παραδοτέο 4
+
+[Αποθετήριο κώδικα παραδοτέου 2](https://github.com/Vuxxs/site/blob/master/_remix/image.md)
+
+Ή
+
+[Δείτε το στο Codepen αμέσως](https://codepen.io/vuxxs/pen/NWrMzyw)
+
+Η άσκηση είναι ολοκληρωμένη και η εικόνα κάνει την ίδια λειτουργία στο μισό μέγεθος. Γνωρίζουμε ότι είναι σίγουρα ακριβώς μισό μέγεθος γιατί το viewBox έχει καθωριστεί και στα δύο SVG με ανάλογες τιμές.
+
+
+<img src= "https://i.imgur.com/9v4GW93.gif" width="500" height="200">
