@@ -26,7 +26,7 @@
 
 ## 1η Άσκηση προγραμματισμού
 ### Button
-#### Αποθετήριο κώδικα 1ης Άσκησης προγραμματισμού: https://github.com/Kavvadias/site/blob/P2016KAVV/_remix/button.md 
+#### Αποθετήριο κώδικα 1ης Άσκησης προγραμματισμού: https://github.com/Kavvadias/site/blob/master/_remix/button.md
 
 *Αλλαγές:*
 
@@ -54,6 +54,16 @@
 - https://taskwarrior.org/docs/examples.html
 - https://taskwarrior.org/docs/commands/modify.html
 - https://taskwarrior.org/docs/30second.html
+
+## 2η Άσκηση προγραμματισμού
+### CSS Queries
+#### Αποθετήριο κώδικα 2ης Άσκησης προγραμματισμού: https://github.com/Kavvadias/site/blob/master/_remix/css-queries.md
+
+
+- https://www.w3schools.com/css/css3_mediaqueries_ex.asp
+- https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+- https://www.w3schools.com/colors/colors_picker.asp?colorhex=FFFFFF
+- https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries
 
 
 
