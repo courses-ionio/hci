@@ -39,3 +39,20 @@
 Για το System Information συμβουλεύτηκα [αυτό το άρθρο](https://vitux.com/get-linux-system-and-hardware-details-on-the-command-line/)
 
 [![asciicast](https://asciinema.org/a/mpUVCTOO176TLj2dd1MR8gU0s.svg)](https://asciinema.org/a/mpUVCTOO176TLj2dd1MR8gU0s)
+
+## Δεύτερο παραδοτέο, συμπληρωματικό, λόγω μειωμένης δυσκολίας του προηγούμενου.
+### Search/Download torrent μέσω τερματικού.
+Για την εργασία αυτή, χρειάστηκε να εγκαταστήσω openvpn σε Arch Linux Σύστημα. Με τη βοήθεια που έλαβα από ένα [**issue**](https://github.com/epidrome/dokey/issues/1#issue-732227411) που άνοιξα στο αντίστοιχο [**αποθετήριο**](https://github.com/epidrome/dokey.git), κατάφερα να εγκαταστήσω το openvpm μέσω ενός GUI για systemd based συστήματα ([qopenvpn](https://github.com/xmikos/qopenvpn)).
+Το torque δυστυχώς έκανε fail-to-build στο σύστημα μου, τόσο από το AUR, όσο και από terminal ([yay](https://github.com/Jguer/yay)). Χρησιμοποίησα το [**we-get**](https://ostechnix.com/search-torrents-command-line-linux/) αρχικά για να δω αν μπορώ να κάνω bypass την απογόρευση της [ΕΔΠΠΙ](https://opi.gr/edppi_block/edppi_block.html) πράγμα που δε δούλεψε, και αφού έβαλα VPN, το χρησιμοποιήσα για να αποφύγω τα adware/malware των browser αλλά και από περιέργεια για αυτή τη νέα δυνατότητα. Για το download χρησιμοποίησα το transmission-daemon, για το οποίο το torque είναι ένα TUI.
+
+[![asciicast](https://asciinema.org/a/25xfOzXjVqURCtDU9EpV6ThoH.svg)](https://asciinema.org/a/25xfOzXjVqURCtDU9EpV6ThoH)
+
+# Παραδοτέο 4
+
+### Ολοκληρώθηκε το πρώτο ζητούμενο αλλάζοντας την τιμή του dy στο πλήκτρο με κωδικό 40, στο μισό.
+## Το δεύτερο ζητούμενο δεν έχει ολοκληρωθεί, χρειάζομαι λίγο χρόνο για να το μελετήσω περισσότερο.
+
+<iframe height="265" style="width: 100%;" scrolling="no" title="html canvas game" src="https://codepen.io/isabellapap/embed/OJXZexE?height=265&theme-id=light&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/isabellapap/pen/OJXZexE'>html canvas game</a> by 2019235
+  (<a href='https://codepen.io/isabellapap'>@isabellapap</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
