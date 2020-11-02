@@ -52,4 +52,4 @@
 ### Ολοκληρώθηκε το πρώτο ζητούμενο αλλάζοντας την τιμή του dy στο πλήκτρο με κωδικό 40, στο μισό.
 ## Το δεύτερο ζητούμενο δεν έχει ολοκληρωθεί, χρειάζομαι λίγο χρόνο για να το μελετήσω περισσότερο.
 
-[**link**: embedded from codepen](https://codepen.io/isabellapap/embed/OJXZexE?height=265&theme-id=light&default-tab=js,result)
+[/home/bella/Pictures/hci4.png](https://codepen.io/isabellapap/embed/OJXZexE?height=265&theme-id=light&default-tab=js,result)
