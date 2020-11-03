@@ -36,7 +36,7 @@
 Σύνδεσμος στην ιστοσελίδα netlify μου με το embed: [Netlify link](https://p19kala.netlify.app/remix/button/)
 
 Preview:
-![default](https://i.imgur.com/QN7VmZB.png)
+![default](https://i.imgur.com/LZWpiai.png)
 
 ## Παραδοτέο 3
 
@@ -59,7 +59,7 @@ Preview:
 Σύνδεσμος στην ιστοσελίδα netlify μου με το embed: [Netlify link](https://p19kala.netlify.app/remix/image-filter/)
 
 Preview:
-![default](https://i.imgur.com/8ljyDkQ.png)
+![default](https://i.imgur.com/hRVEach.png)
 
 ## Πηγές:
 
