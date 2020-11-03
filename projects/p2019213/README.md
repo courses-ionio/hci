@@ -24,7 +24,7 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | [Εισαγωγή](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1) |
+| 1 | [Εισαγωγή](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#pushpin-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
 | 2 | [Άσκηση προγραμματισμού (BUTTON)](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2) |
 | 3 | [Άσκηση γραμμής εντολών](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3) |
 | 4 | [Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW)](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4) |
