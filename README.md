@@ -62,6 +62,12 @@ https://github.com/Thanozz/site/blob/master/_remix/button.md
 
 ## Παραδοτέο 4
 
+Ασχολήθηκα με την άσκηση Image Processing. Πραγματοποίησα 2 πολλαπλά φίλτρα τα οποία παρουσιάζονται στο παρακάτω link:
+
+https://github.com/Thanozz/site/edit/master/_remix/image-filter.md
+
+Κατέληξα στα παραπάνω φίλτρα μελετώντας τα προτινόμενα φίλτρα που βρίσκονταν σε σχόλια στο κώδικα και μετά από δοκιμές.
+
 ## Παραδοτέο 5
 
 ## Παραδοτέο 6
