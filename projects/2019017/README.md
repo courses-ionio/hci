@@ -54,7 +54,9 @@ Preview:
 
 Για την επόμενη άσκηση προγραμματισμού διάλεξα το Image processing. Έπρεπε να χρησιμοποιήσω ένα συνδυασμό filters στην προεπιλεγμένη εικόνα που θα εμφανίζονται όταν ο δείκτης του ποντικιού πήγαινε πάνω σε αυτή. Εκτός από αυτό που ζητούσε η άσκηση, άλλαξα το χρώμα του background από άσπρο για να είναι πιο εύκολο στα μάτια, μεγένθυνα την εικόνα και τη διευθέτησα στο κέντρο. Από φίλτρα έβαλα το sepia ώστε όλη η φωτογραφία να έχει το ίδιο χρώμα και μετά το hue-rotate() στις 250 μοίρες για να αλλάξει. Έπειτα πρόσθεσα το invert για να αντιστραφεί και στο τέλος το contrast για να κάνω το τοπίο πίσω από τον ανανά λίγο πιο σκούρο.
 
-Σύνδεσμος στην άσκηση: [Image Filter](https://github.com/p19kala/site/blob/master/_remix/image-filter.md)
+Σύνδεσμος στην άσκηση του \_remix: [Image Filter](https://github.com/p19kala/site/blob/master/_remix/image-filter.md)
+<br/>
+Σύνδεσμος στην ιστοσελίδα netlify μου με το embed: [Netlify link](https://5fa1a6aff1781f00073b96dc--zen-banach-f5e355.netlify.app/remix/image-filter/)
 
 Preview:
 ![default](https://i.imgur.com/8ljyDkQ.png)
