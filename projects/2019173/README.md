@@ -66,4 +66,4 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 Για το παραδοτέο αυτό διάλεξα την άσκηση γραμμών εντολής [become productive with a todo list](https://github.com/epidrome/dokey). Ζητούμενα της άσκησης ήταν να δημιουργήσουμε μέσω του τερματικού μία λίστα todo.txt και να την επεξεργαστούμε, προστέθοντας και αφαιρώντας εργασίες που πρέπει να πραγματοποιηθούν. Επίσης, έπρεπε να δειχτεί ότι κάποιες από αυτές έγιναν. 
 
 #### ΤΡΟΠΟΣ ΕΠΙΛΥΣΗΣ ΤΗΣ ΑΣΚΗΣΗΣ:
-Για να υλοποιηθεί η άσκηση μελέτησα τις αστοσελίδες 
+Για να υλοποιηθεί η άσκηση μελέτησα τις αστοσελίδες [If you want to get it done, first write it down.](http://todotxt.org/), [Todo.txt – Manages Your Todo Tasks from Linux Terminal](https://www.tecmint.com/manage-todo-tasks-from-linux-terminal/), ['Getting to Done' on the Linux command line](https://opensource.com/article/18/2/getting-to-done-agile-linux-command-line), [Where is todotxt-cli installed?](https://askubuntu.com/questions/793746/where-is-todotxt-cli-installed) και [Ubuntu manual](http://manpages.ubuntu.com/manpages/xenial/man1/task.1.html). 
