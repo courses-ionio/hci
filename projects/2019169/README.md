@@ -24,7 +24,7 @@
 <h2><span id="Image_Processing.">Image_Processing.</span></h2>
 <p> Η άσκηση προγραμματισμού η οποία διάλεξα ήταν υλοποιημένη σε κώδικα HTML και CSS. Το ζητούμενο της άσκησης ήταν με την κίνηση του ποντικιού hover πάνω από την εικόνα να αλλάζει το φίλτρο της, δηλαδή το πως φαίνεται. Με την βοήθεια κάποιον σχολίων που υπήρχαν ως βοηθητικά στον κώδικα της CSS που μου ζητούταν να τροποιήσω μπόρεσα να δημιουργήσω ένα συνδυασμό από διάφορα φίλτρα για το πως φαίνεται η εικόνα παιρνόντας απλά το ποντίκι από πάνω της. Ο συνδυασμός των φίλτρων που χρησιμοποίησα αποτελούταν από διάφορα φίλτρα που βελτιώνουν μια εικόνα όπως σέπια, κορεσμό, φωτεινότητα, θάμπωμα, αντίθεση κ.α.
  
-Άσκηση: <a href="https://github.com/TaniaStoupi/site/blob/master/_remix/image-filter.md">Image Filter</a>
+Άσκηση: <a href="https://github.com/TaniaStoupi/site/blob/master/_remix/image-filter.md">Image Filter</a><br>
 Λινκ για την άσκηση στο δικό μου αποθετήριο του βιβλίου: https://dreamy-hypatia-ab78eb.netlify.app/remix/image-filter/
 <h6>Βιβλιογραφία</h6> 
 <ul> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
@@ -64,7 +64,7 @@ document.onkeydown = function(e) {<br>
   
  Έτσι, λοιπόν για να μπορέσει το αυτοκίνητο να έχει την μισή ταχύτητα όταν κάνει όπισθεν έπρεπε να θέσω το dy=2 όταν η είσοδος που δέχεται από το πληκτρολόγιο είναι το πλήκτρο 40, δηλαδή το κάτω βελάκι. Με αυτή την αλλαγή, πλέον το αυτοκίνητο έχει ταχύτητα ίση με 4 m/s όταν κινείται μπροστά και 2 m/s όταν κινείται προς τα πίσω.</p>
  
-Άσκηση: <a href="https://github.com/TaniaStoupi/site/blob/master/_remix/keyboard-input.md">Keyboard Input Exercise 1</a>
+Άσκηση: <a href="https://github.com/TaniaStoupi/site/blob/master/_remix/keyboard-input.md">Keyboard Input Exercise 1</a><br>
 Λινκ για την άσκηση στο δικό μου αποθετήριο του βιβλίου: https://dreamy-hypatia-ab78eb.netlify.app/remix/keyboard-input/
   <h6>Βιβλιογραφία</h6> 
  <ul>  <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
