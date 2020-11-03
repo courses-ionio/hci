@@ -35,7 +35,7 @@
 <br/>
 Σύνδεσμος στην ιστοσελίδα netlify μου με το embed: [Netlify link](https://p19kala.netlify.app/remix/button/)
 
-Preview:
+Preview:<br/>
 ![default](https://i.imgur.com/LZWpiai.png)
 
 ## Παραδοτέο 3
@@ -46,8 +46,7 @@ Preview:
 
 Το [asciinema link](https://asciinema.org/a/eA3ydCOwAVi0EIFp8e7CvkawT).
 
-Preview:
-
+Preview:<br/>
 ![default](https://i.imgur.com/8bSWzo7.png)
 
 ## Παραδοτέο 4
@@ -58,7 +57,7 @@ Preview:
 <br/>
 Σύνδεσμος στην ιστοσελίδα netlify μου με το embed: [Netlify link](https://p19kala.netlify.app/remix/image-filter/)
 
-Preview:
+Preview:<br/>
 ![default](https://i.imgur.com/hRVEach.png)
 
 ## Πηγές:
