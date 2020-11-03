@@ -67,6 +67,6 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 
 #### ΤΡΟΠΟΣ ΕΠΙΛΥΣΗΣ ΤΗΣ ΑΣΚΗΣΗΣ:
 Για να υλοποιηθεί η άσκηση μελέτησα τις ακόλουθες ιστοσελίδες, τις οποίες τις χώρησα σε δύο κατηγορίες.
-- Ιστοσελίδες που χρησιμοποίησα για να κατεβάσω εργαλεία από το τερματικό, που χρειαζόντουσαν: [Where is todotxt-cli installed?](https://askubuntu.com/questions/793746/where-is-todotxt-cli-installed) και [Todo.txt – Manages Your Todo Tasks from Linux Terminal](https://www.tecmint.com/manage-todo-tasks-from-linux-terminal/), ώστε τα εργαλεία αυτά να μου δώσουν την δυνατότητα να δημιουργώσω αρχικά το todo.txt.
+- Ιστοσελίδες που χρησιμοποίησα για να κατεβάσω εργαλεία από το τερματικό ήταν:    [Where is todotxt-cli installed?](https://askubuntu.com/questions/793746/where-is-todotxt-cli-installed) και [Todo.txt – Manages Your Todo Tasks from Linux Terminal](https://www.tecmint.com/manage-todo-tasks-from-linux-terminal/), ώστε με τα εργαλεία αυτά να έχω την δυνατότητα να δημιουργήσω αρχικά το todo.txt.
 
 - Ιστοσελίδες από τις οποίες έμαθα να χρησιμοποιώ το τερματικό για τις διάφορες δραστηριότητες στο todo.txt: [If you want to get it done, first write it down.](http://todotxt.org/), ['Getting to Done' on the Linux command line](https://opensource.com/article/18/2/getting-to-done-agile-linux-command-line) και [Ubuntu manual](http://manpages.ubuntu.com/manpages/xenial/man1/task.1.html). 
