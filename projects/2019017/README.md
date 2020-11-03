@@ -33,7 +33,7 @@
 
 Σύνδεσμος στην άσκηση του \_remix: [Button](https://github.com/p19kala/site/blob/master/_remix/button.md)
 <br/>
-Σύνδεσμος στην ιστοσελίδα netlify μου με το embed: [Netlify link](https://5fa1a6aff1781f00073b96dc--zen-banach-f5e355.netlify.app/remix/button/)
+Σύνδεσμος στην ιστοσελίδα netlify μου με το embed: [Netlify link](https://zen-banach-f5e355.netlify.app/remix/button/)
 
 Preview:
 ![default](https://i.imgur.com/QN7VmZB.png)
@@ -56,7 +56,7 @@ Preview:
 
 Σύνδεσμος στην άσκηση του \_remix: [Image Filter](https://github.com/p19kala/site/blob/master/_remix/image-filter.md)
 <br/>
-Σύνδεσμος στην ιστοσελίδα netlify μου με το embed: [Netlify link](https://5fa1a6aff1781f00073b96dc--zen-banach-f5e355.netlify.app/remix/image-filter/)
+Σύνδεσμος στην ιστοσελίδα netlify μου με το embed: [Netlify link](https://zen-banach-f5e355.netlify.app/remix/image-filter/)
 
 Preview:
 ![default](https://i.imgur.com/8ljyDkQ.png)
