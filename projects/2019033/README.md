@@ -29,7 +29,7 @@
 ## Άσκηση προγραμματισμού (Validation Form)
 
 Link άσκησης στο codepen: https://codepen.io/p2019033/pen/MWeeroz <br>
-Link στο github (remix): https://github.com/Tsimpliarakis/site/blob/master/_remix/form-validation.md
+Link στο github (remix): https://github.com/Tsimpliarakis/site/blob/master/_remix/form-validation.md<br>
 Netlify Link: https://5fa1c27c8c0e1122d836bf16--cranky-noyce-69c03d.netlify.app/remix/form-validation/
 
 Στην συγκεκριμένη άσκηση κλήθηκα να προσθέσω παραπάνω validation forms για πιστωτική κάρτα, ελληνικό αριθμό τηλεφώνου και email. Στο κομμάτι της HTML προστέθηκαν περισσότερα inputs όπως ήταν και στον αρχικό κώδικα, με διαφοροποιημένα ονόματα και παραμέτρους. Στο κομμάτι της CSS άλλαξα την εμφάνιση των input και του κουμπιού submit. 
