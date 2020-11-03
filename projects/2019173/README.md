@@ -71,4 +71,4 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 
 - Ιστοσελίδες από τις οποίες έμαθα να χρησιμοποιώ το τερματικό για τις διάφορες δραστηριότητες στο todo.txt: [If you want to get it done, first write it down.](http://todotxt.org/) και ['Getting to Done' on the Linux command line](https://opensource.com/article/18/2/getting-to-done-agile-linux-command-line).
 
-Η λύση της άσκησης βρίσκεται στο ακόλουθο link: https://asciinema.org/a/yO1o9smd3GVqaywspZqgpiWJY
+Η λύση της άσκησης βρίσκεται στο ακόλουθο link: https://asciinema.org/a/TBptUrASfcqWBulyAZR3CaEqU
