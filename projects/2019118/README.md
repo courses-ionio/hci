@@ -32,7 +32,7 @@
 
 [Website link](https://elastic-northcutt-449d27.netlify.app/remix/button/)
 
-[Δείτε το στο Codepen αμέσως](https://codepen.io/vuxxs/pen/wvWMzMx)
+[Δείτε το στο Codepen](https://codepen.io/vuxxs/pen/wvWMzMx)
 
 ### Εκπλήρωση ζητούμενων παραδοτέου 
 
@@ -61,7 +61,7 @@
 
 [Website link](https://elastic-northcutt-449d27.netlify.app/remix/image/)
 
-[Δείτε το στο Codepen αμέσως](https://codepen.io/vuxxs/pen/NWrMzyw)
+[Δείτε το στο Codepen](https://codepen.io/vuxxs/pen/NWrMzyw)
 
 
 ### Εκπλήρωση ζητούμενων παραδοτέου 
