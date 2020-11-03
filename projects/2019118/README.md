@@ -28,7 +28,7 @@
 
 ## Παραδοτέο 2
 
-[Αποθετήριο κώδικα παραδοτέου 2](https://github.com/Vuxxs/site/blob/master/_remix/button.md)
+[Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/button.md)
 
 [Website link](https://elastic-northcutt-449d27.netlify.app/remix/button/)
 
@@ -57,7 +57,7 @@
 
 # Παραδοτέο 4
 
-[Αποθετήριο κώδικα παραδοτέου 2](https://github.com/Vuxxs/site/blob/master/_remix/image.md)
+[Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/image.md)
 
 [Website link](https://elastic-northcutt-449d27.netlify.app/remix/image/)
 
