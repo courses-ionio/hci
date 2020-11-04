@@ -12,7 +12,7 @@
 | 2 | [Άσκηση προγραμματισμού Button](https://github.com/Vuxxs/hci/tree/2019118/projects/2019118#user-content-παραδοτέο-1:~:text=%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%202) |
 | 3 | [Άσκηση γραμμής εντολών "set-up the main dependencies and demonstrate your base system"](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου:~:text=%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%203) |
 | 4 | [Άσκηση προγραμματισμού Image](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-3:~:text=%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%204) |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | [Άσκηση γραμμής εντολών](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου-1:~:text=gif!-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%205) |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
