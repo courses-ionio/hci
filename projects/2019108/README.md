@@ -69,6 +69,8 @@ _Αυτό που πρόσθεσα για να βελτιώσω το αποτέλ
 
 #### Link στο pen της άσκησης στο codepen.io: [MouseEraser P2019108](https://codepen.io/P2019108/pen/XWKdXLK)
 
+#### Link στο netlify site μου του pibook: [MouseEraser Answer](https://p2019108-ionio-pibook.netlify.app/remix/mouse-eraser/)
+
 Το αποτέλεσμα της άσκησης είναι ωραίο, διαδραστικό και χρήσιμο, θα μπορούσε να χρησιμοποιηθεί σε μια διαδικτυακή σελίδα ή ακόμα με πολύ βελτίωση και τροποποίηση θα μπορούσε να γίνει ένα μικρό παιχνίδι. 
 Σε κάθε περίπτωση αυτή την στιγμή η άσκηση πείρε τη μορφή ενός διαδραστικού animation χάρις την επιλογή των εικόνων μου και με βελτίωση μπορεί να γίνει κάτι ακόμη καλύτερο.
 
@@ -161,6 +163,8 @@ sudo, ls, nano, gedit, neofetch, lshw
 #### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [_remix/keyboard-input](https://github.com/KuhakuNeko/site/blob/master/_remix/keyboard-input.md)
 
 #### Link στο pen της άσκησης στο codepen.io: [Html Canvas Game P2019108](https://codepen.io/P2019108/pen/gOMRJZa)
+
+#### Link στο netlify site μου του pibook: [KeyboardInput Answer](https://p2019108-ionio-pibook.netlify.app/remix/keyboard-input/)
 
 ## Xρήσιμες πηγές σχετικές με το παραδοτέο
 [Keycode.info - get JavaScript event keycodes](https://keycode.info/)<br />
@@ -271,6 +275,8 @@ ytp, youtube-dl, mpv, mps-youtube, sox, vlc
 #### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [_remix/mouse-option](https://github.com/KuhakuNeko/site/blob/master/_remix/mouse-option.md)
 
 #### Link στο pen της άσκησης στο codepen.io: [Simple content toggle with AngularJS P2019108](https://codepen.io/P2019108/pen/jOrzwgq)
+
+#### Link στο netlify site μου του pibook: [MouseOption Answer](https://p2019108-ionio-pibook.netlify.app/remix/mouse-option/)
 
 ### Συνδέσμοι πηγών:
 [HTML Links](https://www.w3schools.com/html/html_links.asp) |
