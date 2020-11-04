@@ -73,3 +73,7 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 Σε αυτή την άσκηση μπορούμε να δούμε το πριν και το μετά σε ένα μόνο gif!
 
 <img src= "https://i.imgur.com/erCdQWV.gif">
+
+# Παραδοτέο 5
+
+[Άσκηση Γραμμής Εντολών "check the weather"](https://asciinema.org/a/sXUennhrjSEeavNPyFNLqJ7mk)
