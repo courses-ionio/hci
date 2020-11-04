@@ -90,20 +90,18 @@ $(document).ready(function () {
 
 #### 1.0 change your command prompt with your student ID
 
-<script id="asciicast-366600" src="https://asciinema.org/a/366600.js" async></script>
+[![asciicast](https://asciinema.org/a/366600.svg)](https://asciinema.org/a/366600)
 <br>
 
 #### 2.0 list your dot files
-<script id="asciicast-366686" src="https://asciinema.org/a/366686.js" async></script>
+[![asciicast](https://asciinema.org/a/366686.svg)](https://asciinema.org/a/366686)
 <br>
 
 #### 3.0 display your shell configuration file
-<script id="asciicast-367674" src="https://asciinema.org/a/367674.js" async></script>
-<br>
+[![asciicast](https://asciinema.org/a/367674.svg)](https://asciinema.org/a/367674)<br>
 
 #### 4.0 and display system information (hardware+software)
-<script id="asciicast-367678" src="https://asciinema.org/a/367678.js" async></script>
-
+[![asciicast](https://asciinema.org/a/367678.svg)](https://asciinema.org/a/367678)
  
 <br>
 <br>
