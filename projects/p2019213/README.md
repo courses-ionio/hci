@@ -149,9 +149,9 @@ Is the information correct? [Y/n] y
 for i in {0..10}; do echo Some hidden files. > ".File$(printf "%03d" "$i").txt"; done
 ```
 
-Εμφανιση των hidden files που δημιουργίσαμε με την εντολή παραπάνω.
+Εμφανιση των hidden files που δημιουργίσαμε με την εντολή παραπάνω mesw pipelining.
 ```bash
-ls -l ~/.[^.]*  
+ls -l ~/.[^.]* | grep "File.*"
 ```
 [![asciicast](https://asciinema.org/a/366686.svg)](https://asciinema.org/a/366686)
 <br>
