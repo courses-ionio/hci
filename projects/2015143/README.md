@@ -9,7 +9,7 @@
 | 2 | Άσκηση προγραμματισμού : <sup><a href="#2">Παραδοτέο 2 </a></sup> |
 | 3 | Άσκηση γραμμής εντολών: <sup><a href="#3">Παραδοτέο 3 </a></sup> |
 | 4 | Άσκηση προγραμματισμού : <sup><a href="#4">Παραδοτέο 4 </a></sup> |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | Άσκηση γραμμής εντολών : <sup><a href="#5">Παραδοτέο 5 </a></sup> |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
@@ -42,4 +42,18 @@ Link για το asciinema : https://asciinema.org/a/367276
 Link για το αποθετήριο: https://github.com/Miltos9/site/blob/master/_remix/form-validation.md
 ## Πως έγινε :
 Αρχικά με βάση το Demo της εργασίας ( https://www.sitepoint.com/client-side-form-validation-html5/ ) που προϋπήρχε,έκανα τροποποίηση το τηλέφωνο απο Νιγηριανού τ΄ύπου(xxxx-xxx-xxxx) σε ελληνικό(69-xxxxxxxx) και έφτιαξα το email σύμφωνα με τις οδηγίες του άρθρου.Έπειτα,έψαξα στο internet για tutorial code πάνω στα credit cards και με βάση το κείμενο( https://tutorialzine.com/2016/11/simple-credit-card-validation-form ) έφτιαξα το validation για credit cards αλλάζοντας κάποια πράγματα όπως το submit και το .css για την ενφάνιση,έτσι ώστε να μοιάζει με το phone-email που ειχα ήδη υλοποιήσει.Τέλος,έβαλα φώτογραφίες απο visa,american express,mastercard με την χρήση του https://postimages.org/ .
+
+###### [5]
+## Άσκηση γραμμής εντολών : organize your notes with emacs.
+
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
+</head>
+<body>
+  <asciinema-player src="/370556.cast" cols="120" rows="30"></asciinema-player>
+  ...
+  <script src="/asciinema-player.js"></script>
+</body>
+</html>
 
