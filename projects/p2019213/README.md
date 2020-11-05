@@ -173,7 +173,7 @@ vi .bash_profile
 #### 4.0 and display system information (hardware+software)
 Εμφάνιση μνήμης υπολογιστή με pipelining που κάνει grep αυτο που μας ενδιαφέρει δηλαδή το size
 ```bash
-sudo dmidecode -t memory | grep -i size
+sudo dmidecode -t memory | grep "MB"
 ```
 
 Εμφάνιση ιδιοτήτων του επεξεργαστη
