@@ -87,6 +87,14 @@ $(document).ready(function () {
 
 Επίσης εξηγώ κομμάτι κομμάτι τον κώδικα
 
+
+<br>
+
+#### 1.0 change your command prompt with your student ID
+
+[![asciicast](https://asciinema.org/a/366600.svg)](https://asciinema.org/a/366600)
+<br>
+
 Δημιουργούμε 10 hidden files με bash scripting
 ```bash
 for i in {0..10}; do echo Some hidden files. > ".File$(printf "%03d" "$i").txt"; done
@@ -96,12 +104,6 @@ for i in {0..10}; do echo Some hidden files. > ".File$(printf "%03d" "$i").txt";
 ```bash
 ls -l ~/.[^.]*  
 ```
-<br>
-
-#### 1.0 change your command prompt with your student ID
-
-[![asciicast](https://asciinema.org/a/366600.svg)](https://asciinema.org/a/366600)
-<br>
 
 #### 2.0 list your dot files
 [![asciicast](https://asciinema.org/a/366686.svg)](https://asciinema.org/a/366686)
