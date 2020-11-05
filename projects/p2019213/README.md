@@ -250,7 +250,7 @@ section.p15 a {
 
 #### :arrow_double_up:: [Επιστροφή στον πίνακα.](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#-%CF%80%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82-%CE%BC%CE%B5-%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7-%CF%84%CF%89%CE%BD-%CF%80%CF%81%CE%BF%CE%B8%CE%B5%CF%83%CE%BC%CE%B9%CF%8E%CE%BD-%CE%BA%CE%B1%CE%B9-%CF%84%CF%89%CE%BD-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CF%89%CE%BD)
 <br>
-<h2>   :book:: Παραδοτέο 5</h2>
+<<h2>   :book:: Παραδοτέο 5</h2>
 
 Σε αυτή την άσκηση εντολής επέλεξα αυτή που λέει `add a status bar to your shell/editor and configure a color-theme`
 
@@ -269,7 +269,9 @@ sudo add-apt-repository universe
 ```bash
 sudo apt install --yes powerline
 ``` 
-#### 3.Βάζουμε τον κώδικα για κάνουμε configure το powerline στο `$HOME/.bashrc` αρχείο
+[![asciicast](https://asciinema.org/a/370569.svg)](https://asciinema.org/a/370569)
+
+#### 3.Βάζουμε τον κώδικα για κάνουμε configure το powerline στο `$HOME/.bashrc` αρχείο και τέλος κάνουμε apply τις αλλαγές του τερματικού
 ```bash
 # Powerline configuration
 if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
@@ -279,9 +281,7 @@ if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
   source /usr/share/powerline/bindings/bash/powerline.sh
 fi
 ```
-[![asciicast](https://asciinema.org/a/370569.svg)](https://asciinema.org/a/370569)
 
-#### 4.Και τέλος κάνουμε apply τις αλλαγές του τερματικού
 ```bash
 source ~/.bashrc
 ```
@@ -298,4 +298,3 @@ source ~/.bashrc
 
 
 #### :arrow_double_up:: [Επιστροφή στον πίνακα.](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#-%CF%80%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82-%CE%BC%CE%B5-%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7-%CF%84%CF%89%CE%BD-%CF%80%CF%81%CE%BF%CE%B8%CE%B5%CF%83%CE%BC%CE%B9%CF%8E%CE%BD-%CE%BA%CE%B1%CE%B9-%CF%84%CF%89%CE%BD-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CF%89%CE%BD)
-
