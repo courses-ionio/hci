@@ -254,9 +254,9 @@ section.p15 a {
 
 ### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 2 (hci)(Powerline).
 <br>
-Το ΟS που χρησιμοποιησα ειναι τα ubuntu 19.10
+Το ΟS που χρησιμοποιησα ειναι τα `Ubuntu 19.10`
 
-Σε αυτή την άσκηση εντολής επέλεξα αυτή που λέει `add a status bar to your shell/editor and configure a color-theme`
+άσκηση γραμμής εντολών [`add a status bar to your shell/editor and configure a color-theme`]
 
 
 Πρώτο βήμα είναι η εγκατάσταση του powerline
