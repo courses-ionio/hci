@@ -123,7 +123,7 @@ Is the information correct? [Y/n] y
 ```
 Μετα την δημιουργια του user πρεπει να δωσουμε root permissions με την εντολή
 <br>
-```sudo usermod -aG sudo p2019213```
+```sudo usermod -aG sudo username```
 
 Και τώρα πρεπει να κανουμε switch(login) στον user που δημιουργισαμε με τον κωδικο που βαλαμε.
 <br>
