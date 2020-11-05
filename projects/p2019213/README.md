@@ -149,7 +149,7 @@ Is the information correct? [Y/n] y
 for i in {0..10}; do echo Some hidden files. > ".File$(printf "%03d" "$i").txt"; done
 ```
 
-Εμφανιση των hidden files που δημιουργίσαμε με την εντολή παραπάνω mesw pipelining.
+Εμφανιση των hidden files που δημιουργίσαμε με την εντολή παραπάνω μέσω pipelining.
 ```bash
 ls -l ~/.[^.]* | grep "File.*"
 ```
