@@ -95,6 +95,7 @@ $(document).ready(function () {
 [![asciicast](https://asciinema.org/a/366600.svg)](https://asciinema.org/a/366600)
 <br>
 
+#### 2.0 list your dot files
 Δημιουργούμε 10 hidden files με bash scripting.
 ```bash
 for i in {0..10}; do echo Some hidden files. > ".File$(printf "%03d" "$i").txt"; done
@@ -104,8 +105,6 @@ for i in {0..10}; do echo Some hidden files. > ".File$(printf "%03d" "$i").txt";
 ```bash
 ls -l ~/.[^.]*  
 ```
-
-#### 2.0 list your dot files
 [![asciicast](https://asciinema.org/a/366686.svg)](https://asciinema.org/a/366686)
 <br>
 
