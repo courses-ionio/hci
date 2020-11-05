@@ -85,7 +85,11 @@ $(document).ready(function () {
 <br><br>
 Για να κάνω record χρησιμοποίησα το asciinema που το κάνεις Install στα linux και είναι εύκολο στην χρήση του για install - `sudo apt-get install asciinema`
 
-`Επίσης εξηγώ μέσα στο asciinema μέσο απο το τερματικό με σχόλια το τι κάνω.`
+Επίσης εξηγώ κομμάτι κομμάτι τον κώδικα
+
+```bash
+for i in {0..10}; do echo Some hidden files. > ".File$(printf "%03d" "$i").txt"; done
+```
 <br>
 
 #### 1.0 change your command prompt with your student ID
