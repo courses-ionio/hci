@@ -95,12 +95,12 @@ $(document).ready(function () {
 [![asciicast](https://asciinema.org/a/366600.svg)](https://asciinema.org/a/366600)
 <br>
 
-Δημιουργούμε 10 hidden files με bash scripting
+Δημιουργούμε 10 hidden files με bash scripting.
 ```bash
 for i in {0..10}; do echo Some hidden files. > ".File$(printf "%03d" "$i").txt"; done
 ```
 
-Εμφανιση των hidden files που δημιουργίσαμε με την εντολή 
+Εμφανιση των hidden files που δημιουργίσαμε με την εντολή παραπάνω.
 ```bash
 ls -l ~/.[^.]*  
 ```
