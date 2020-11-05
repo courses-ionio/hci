@@ -147,32 +147,38 @@ ls -l ~/.[^.]*
 
 #### 3.0 display your shell configuration file
 Εμφάνιση όλων των κρυφών αρχείων που είναι στο φάκελο
-<br>
-```ls -a```
+```bash
+ls -a
+```
 
 για να δούμε τι έχει μεσα στο configuration file 
-<br>
-```vi .bash_profile```
+```bash
+vi .bash_profile
+```
 
 
 [![asciicast](https://asciinema.org/a/367674.svg)](https://asciinema.org/a/367674)<br>
 
 #### 4.0 and display system information (hardware+software)
 Εμφάνιση μνήμης υπολογιστή με pipelining που κάνει grep αυτο που μας ενδιαφέρει δηλαδή το size
-<br>
-```sudo dmidecode -t memory | grep -i size```
+```bash
+sudo dmidecode -t memory | grep -i size
+```
 
 Εμφάνιση ιδιοτήτων του επεξεργαστη
-<br>
-```sudo lscpu```
+```bash
+sudo lscpu
+```
 
 Εμφάνιση δεδομένων σκληρού δίσκου
-<br>
-```sudo hdparm -i /dev/sda```
+```bash
+sudo hdparm -i /dev/sda
+```
 
 Εμφάνιση ιδιοτήτων της σύνδεσης internet π.χ το iPv4(inet),iPv6,MAC Address,Netmask,Broadcast,Localhost etc.
-<br>
-```sudo ifconfig -a```
+```bash
+sudo ifconfig -a
+```
 
 
 [![asciicast](https://asciinema.org/a/367678.svg)](https://asciinema.org/a/367678)
