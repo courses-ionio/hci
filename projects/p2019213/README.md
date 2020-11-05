@@ -87,8 +87,14 @@ $(document).ready(function () {
 
 Επίσης εξηγώ κομμάτι κομμάτι τον κώδικα
 
+Δημιουργούμε 10 hidden files με bash scripting
 ```bash
 for i in {0..10}; do echo Some hidden files. > ".File$(printf "%03d" "$i").txt"; done
+```
+
+Εμφανιση των hidden files που δημιουργίσαμε με την εντολή 
+```linux
+ls -l ~/.[^.]*  
 ```
 <br>
 
