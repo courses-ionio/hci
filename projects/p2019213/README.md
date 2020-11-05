@@ -85,12 +85,34 @@ $(document).ready(function () {
 <br><br>
 Για να κάνω record χρησιμοποίησα το asciinema που το κάνεις Install στα linux και είναι εύκολο στην χρήση του για install - `sudo apt-get install asciinema`
 
-Επίσης εξηγώ κομμάτι κομμάτι τον κώδικα
+Επίσης εξηγώ κομμάτι κομμάτι τον κώδικα.
 
 
 <br>
-
 #### 1.0 change your command prompt with your student ID
+Δημιουργουμε ενα νεο user με το αμ μας για id. Και βαζουμε τα στοιχεια που μας ζηταει.
+```bash
+sudo adduser p2019213
+```
+και τα στοιχεια που ζητάει ειναι καπως ετσι
+```bash
+Adding user `p2019213' ...                                                                                                                                                       
+Adding new group `p2019213' (1001) ...                                                                                                                                           
+Adding new user `p2019213' (1001) with group `p2019213' ...                                                                                                                      
+Creating home directory `/home/p2019213' ...                                                                                                                                     
+Copying files from `/etc/skel' ...                                                                                                                                               
+New password:                                                                                                                                                                    
+Retype new password:                                                                                                                                                             
+passwd: password updated successfully                                                                                                                                            
+Changing the user information for p2019213                                                                                                                                       
+Enter the new value, or press ENTER for the default                                                                                                                              
+        Full Name []: Dimosten Tzama                                                                                                                                             
+        Room Number []: 2019213                                                                                                                                                  
+        Work Phone []: 2019213                                                                                                                                                   
+        Home Phone []: 2019213                                                                                                                                                   
+        Other []: 2019213                                                                                                                                                        
+Is the information correct? [Y/n] y  
+```
 
 [![asciicast](https://asciinema.org/a/366600.svg)](https://asciinema.org/a/366600)
 <br>
