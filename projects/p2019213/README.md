@@ -90,11 +90,14 @@ $(document).ready(function () {
 
 <br>
 #### 1.0 change your command prompt with your student ID
+
 Δημιουργουμε ενα νεο user με το αμ μας για id. Και βαζουμε τα στοιχεια που μας ζηταει.
+
 ```bash
 sudo adduser p2019213
 ```
 και τα στοιχεια που ζητάει ειναι καπως ετσι
+
 ```bash
 Adding user `p2019213' ...                                                                                                                                                       
 Adding new group `p2019213' (1001) ...                                                                                                                                           
