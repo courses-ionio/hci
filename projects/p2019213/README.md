@@ -99,7 +99,7 @@ sudo adduser p2019213
 ```
 και τα στοιχεια που ζητάει ειναι καπως ετσι
 
-```bash
+```
 Adding user `p2019213' ...                                                                                                                                                       
 Adding new group `p2019213' (1001) ...                                                                                                                                           
 Adding new user `p2019213' (1001) with group `p2019213' ...                                                                                                                      
@@ -117,6 +117,11 @@ Enter the new value, or press ENTER for the default
         Other []: 2019213                                                                                                                                                        
 Is the information correct? [Y/n] y  
 ```
+Μετα την δημιουργια του user πρεπει να δωσουμε root permissions με την εντολή
+```sudo usermod -aG sudo p2019213```
+
+Και τώρα πρεπει να κανουμε switch(login) στον user που δημιουργισαμε με τον κωδικο που βαλαμε.
+```su username```
 
 [![asciicast](https://asciinema.org/a/366600.svg)](https://asciinema.org/a/366600)
 <br>
