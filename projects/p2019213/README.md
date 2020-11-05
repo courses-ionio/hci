@@ -259,7 +259,7 @@ section.p15 a {
 άσκηση γραμμής εντολών [`add a status bar to your shell/editor and configure a color-theme`]
 
 
-Πρώτο βήμα είναι η εγκατάσταση του powerline
+### Setup powerline
 
 
 #### 1.Κάνουμε προσθήκη το repository
