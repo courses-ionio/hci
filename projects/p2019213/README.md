@@ -153,7 +153,7 @@ for i in {0..10}; do echo Some hidden files. > ".File$(printf "%03d" "$i").txt";
 ```bash
 ls -l ~/.[^.]* | grep "File.*"
 ```
-[![asciicast](https://asciinema.org/a/366686.svg)](https://asciinema.org/a/366686)
+[![asciicast](https://asciinema.org/a/370561.svg)](https://asciinema.org/a/370561)
 <br>
 
 #### 3.0 display your shell configuration file
