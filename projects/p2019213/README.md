@@ -118,9 +118,11 @@ Enter the new value, or press ENTER for the default
 Is the information correct? [Y/n] y  
 ```
 Μετα την δημιουργια του user πρεπει να δωσουμε root permissions με την εντολή
+<br>
 ```sudo usermod -aG sudo p2019213```
 
 Και τώρα πρεπει να κανουμε switch(login) στον user που δημιουργισαμε με τον κωδικο που βαλαμε.
+<br>
 ```su username```
 
 [![asciicast](https://asciinema.org/a/366600.svg)](https://asciinema.org/a/366600)
