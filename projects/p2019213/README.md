@@ -100,7 +100,7 @@ $(document).ready(function () {
 <br><br>
 Για να κάνω record χρησιμοποίησα το asciinema που το κάνεις Install στα linux και είναι εύκολο στην χρήση του για install - `sudo apt-get install asciinema`
 
-Επίσης εξηγώ κομμάτι κομμάτι τον κώδικα.
+Επίσης εξηγώ κομμάτι κομμάτι τις εντολές.
 
 
 <br>
