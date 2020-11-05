@@ -188,11 +188,10 @@ lsblk
 
 Εμφάνιση ιδιοτήτων της σύνδεσης internet π.χ το iPv4(inet),iPv6,MAC Address,Netmask,Broadcast,Localhost etc.
 ```bash
-sudo ifconfig -a
+ifconfig -a
 ```
 
-
-[![asciicast](https://asciinema.org/a/367678.svg)](https://asciinema.org/a/367678)
+[![asciicast](https://asciinema.org/a/370562.svg)](https://asciinema.org/a/370562)
  
 <br>
 <br>
