@@ -46,14 +46,9 @@ Link για το αποθετήριο: https://github.com/Miltos9/site/blob/mast
 ###### [5]
 ## Άσκηση γραμμής εντολών : organize your notes with emacs.
 
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
-</head>
-<body>
-  <asciinema-player src="/370556.cast" cols="120" rows="30"></asciinema-player>
-  ...
-  <script src="/asciinema-player.js"></script>
-</body>
-</html>
+[![asciicast](https://asciinema.org/a/370556.svg)](https://asciinema.org/a/370556)
+
+## Περιεχόμενα του video :
+Ο τρόπος που επέλεξα να επιλύσω την 2η εργασία πάνω στις γραμμές εντολών,ήταν να φτιάξω το προσωπικό μου πρόγραμμα που ακολούθησα την ημέρα που έκανα την εργασία πάνω στο emacs.Έτσι έβαλα ολες τις δραστηριότητες που ήθελα να κάνω την συγκεκριμένη μέρα ώστε να οργανώσω τον χρόνο μου,χρησιμοποίησα διάφορα τεχνάσματα(λ.χ. Deadline,TODO,% bar) ώστε να μπορώ να ξέρω στο τέλος αν οι δραστηριότητές μου έχουν γίνει όπως τις ήθελα.Τέλος,άνοιξα το agenda και πατώντας το Ν ώστε να δω ενα timeline πάνω στο ημερολόγιο με βάση το πρόγραμμα που έφτιαξα.
+
 
