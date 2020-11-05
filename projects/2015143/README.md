@@ -46,6 +46,7 @@ Link για το αποθετήριο: https://github.com/Miltos9/site/blob/mast
 ###### [5]
 ## Άσκηση γραμμής εντολών : organize your notes with emacs.
 
+<a href="https://asciinema.org/a/370556" target="_blank"><img src="https://asciinema.org/a/370556.svg" /></a>
 [![asciicast](https://asciinema.org/a/370556.svg)](https://asciinema.org/a/370556)
 
 ## Περιεχόμενα του video :
