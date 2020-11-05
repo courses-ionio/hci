@@ -146,6 +146,15 @@ ls -l ~/.[^.]*
 <br>
 
 #### 3.0 display your shell configuration file
+Εμφάνιση όλων των κρυφών αρχείων που είναι στο φάκελο
+<br>
+```ls -a```
+
+για να δούμε τι έχει μεσα στο configuration file 
+<br>
+```vi .bash_profile```
+
+
 [![asciicast](https://asciinema.org/a/367674.svg)](https://asciinema.org/a/367674)<br>
 
 #### 4.0 and display system information (hardware+software)
