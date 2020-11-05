@@ -158,6 +158,23 @@ ls -l ~/.[^.]*
 [![asciicast](https://asciinema.org/a/367674.svg)](https://asciinema.org/a/367674)<br>
 
 #### 4.0 and display system information (hardware+software)
+Εμφάνιση μνήμης υπολογιστή με pipelining που κάνει grep αυτο που μας ενδιαφέρει δηλαδή το size
+<br>
+```sudo dmidecode -t memory | grep -i size```
+
+Εμφάνιση ιδιοτήτων του επεξεργαστη
+<br>
+```sudo lscpu```
+
+Εμφάνιση δεδομένων σκληρού δίσκου
+<br>
+```sudo hdparm -i /dev/sda```
+
+Εμφάνιση ιδιοτήτων της σύνδεσης internet π.χ το iPv4(inet),iPv6,MAC Address,Netmask,Broadcast,Localhost etc.
+<br>
+```sudo ifconfig -a```
+
+
 [![asciicast](https://asciinema.org/a/367678.svg)](https://asciinema.org/a/367678)
  
 <br>
