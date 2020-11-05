@@ -140,7 +140,7 @@ Is the information correct? [Y/n] y
 <br>
 ```su username```
 
-[![asciicast](https://asciinema.org/a/366600.svg)](https://asciinema.org/a/366600)
+[![asciicast](https://asciinema.org/a/370560.svg)](https://asciinema.org/a/370560)
 <br>
 
 #### 2.0 list your dot files
