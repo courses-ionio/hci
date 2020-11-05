@@ -178,12 +178,12 @@ sudo dmidecode -t memory | grep "MB"
 
 Εμφάνιση ιδιοτήτων του επεξεργαστη
 ```bash
-sudo lscpu
+cat /proc/cpuinfo
 ```
 
 Εμφάνιση δεδομένων σκληρού δίσκου
 ```bash
-sudo hdparm -i /dev/sda
+lsblk
 ```
 
 Εμφάνιση ιδιοτήτων της σύνδεσης internet π.χ το iPv4(inet),iPv6,MAC Address,Netmask,Broadcast,Localhost etc.
