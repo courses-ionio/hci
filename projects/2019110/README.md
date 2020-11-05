@@ -37,6 +37,7 @@
 # Πηγές πληροφοριών
 [homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
 [asciinema](https://asciinema.org/docs/installation)
+mouse option: https://postimages.org/
 
 
 
