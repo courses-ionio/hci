@@ -4,11 +4,11 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 |<li><a href="#Introduction."><span class="toctext">Introduction.</span></a>|
-| 2 |<li><a href="#Image_Processing."><span class="toctext">Image_Processing.</span></a>|
- | 3 |<li><a href="#Browse_and_view_your_files."><span class="toctext">Browse_and_view_your_files.</span></a>|
-| 4 | <li><a href="#Keyboard_Input."><span class="toctext">Keyboard_Input.</span></a> |
-| 5 | Άσκηση γραμμής εντολών |
+| 1 |<li><a href="#Introduction."><span class="toctext">Introduction.</span></a> Commit:12/10/2020|
+| 2 |<li><a href="#Image_Processing."><span class="toctext">Image_Processing.</span></a> Commit:18/10/2020|
+ | 3 |<li><a href="#Browse_and_view_your_files."><span class="toctext">Browse_and_view_your_files.</span></a> Commit:26/10/2020|
+| 4 | <li><a href="#Keyboard_Input."><span class="toctext">Keyboard_Input.</span></a> Commit:2/11/2020|
+| 5 | <li><a href="#Vim_editor."><span class="toctext">Vim_editor.</span></a> Commit:6/11/2020|
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
@@ -69,3 +69,13 @@ document.onkeydown = function(e) {<br>
   <h6>Βιβλιογραφία</h6> 
  <ul>  <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
   <br> <a href="https://codepen.io">Codepen.</a> </ul>
+  
+  <hr></hr>
+  
+  <h2><span id="Vim_editor.">Vim_editor.</span></h2>
+  <p>Η άσκηση γραμμής εντολών που επέλεξα να υλοποιήσω ζητούσε να επεξεργαστώ αρχεία με το vim editor. Η αλήθεια είναι πως δεν γνώριζα πως μπορεί να γίνει μια επεξεργασία αρχείου με το vim, αλλά μας έδειξαν στο εργαστήριο του μαθήματος τις βασικές εντολές επεξεργασίας αρχείων και κατάλαβα πως είναι παρόμοιο με το nano editor το οποίο έχω χρησιμοποίησει στην προηγούμενη άσκηση γραμμής εντολών.</p><br>
+  Άσκηση: <a href="https://asciinema.org/a/370968">Deliverable4: Vim editor</a>
+  <br> <h6>Βιβλιογραφία</h6>
+  <ul><br> <a href="https://github.com/epidrome/dokey#hci">Λίστα με τις ασκήσεις γραμμής εντολών.</a>
+ <br> <a href="https://asciinema.org">Asciinema</a> </ul>
+  
