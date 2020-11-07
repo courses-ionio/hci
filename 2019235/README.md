@@ -67,4 +67,7 @@
 ## 
 
 ### Βήμα 1ο: Getting a text editor, Vim or Emacs?
-Όπως καταλαβαίνουμε από αυτά τα ![γραφήματα](https://www.dropbox.com/s/4fkjf5pm85kkyy4/1-1.jpg?raw=1)
+![γραφήματα](https://www.dropbox.com/s/4fkjf5pm85kkyy4/1-1.jpg?raw=1)
+
+Με βάση αυτό το γράφημα επέλεξα το Vim ως text editor, αν και το Emacs φαίνεται σαν ένα ωραίο challenge, για μια άλλη φορά ίσως. Το Linux community το περιγράφει ως ένα "sandbox χωρίς διακριτό σημείο έναρξης".
+
