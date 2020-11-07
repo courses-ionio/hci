@@ -92,6 +92,6 @@ Preview:<br/>
 
 - [Clickable links with Groff](https://www.reddit.com/r/groff/comments/ac7tkb/clickable_web_links_in_your_final_pdf/)
 
-- [Make Groff Recognize Special Unicode Characters (Greek, German etc.](https://stackoverflow.com/a/53626338)
+- [Make Groff Recognize Special Unicode Characters (Greek, German umlauts etc.)](https://stackoverflow.com/a/53626338)
 
 - [Heading anchors with Groff](https://linux.die.net/man/1/grohtml)
