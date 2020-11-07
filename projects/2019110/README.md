@@ -43,7 +43,7 @@
 mouse option: https://postimages.org/
 ### Ασκήσεις γραμμής εντολών
 [homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
-[asciinema](https://asciinema.org/docs/installation)
+[asciinema](https://asciinema.org/docs/installation)  
 text editor and plug-ins for code highlighting and autocompletion : https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint , https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint , 
 
 
