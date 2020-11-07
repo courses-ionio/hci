@@ -91,3 +91,5 @@ Preview:<br/>
 - [Add images with Groff](https://www.youtube.com/watch?v=TEsMqoYKw38)
 
 - [Clickable links with Groff](https://www.reddit.com/r/groff/comments/ac7tkb/clickable_web_links_in_your_final_pdf/)
+
+- [Heading anchors with Groff](https://linux.die.net/man/1/grohtml)
