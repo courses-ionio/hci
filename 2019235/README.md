@@ -11,9 +11,10 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
-| 2 | Άσκηση προγραμματισμού [Interactive text](#Παραδοτέο-2) | 
-| 3 | Άσκηση γραμμής εντολών [Getting familiar with bash](#Παραδοτέο-3)|
+| 1 |Intro to HCI and basic github |
+| 2 | [Interactive text](#Παραδοτέο-2) | 
+| 3 | [Getting familiar with bash](#Παραδοτέο-3)|
+|   | [ Search/Download Torrents through bash](#Bonus)|
 | 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
@@ -40,7 +41,7 @@
 
 [![asciicast](https://asciinema.org/a/mpUVCTOO176TLj2dd1MR8gU0s.svg)](https://asciinema.org/a/mpUVCTOO176TLj2dd1MR8gU0s)
 
-## Δεύτερο παραδοτέο, συμπληρωματικό, λόγω μειωμένης δυσκολίας του προηγούμενου.
+# Bonus, λόγω μειωμένης δυσκολίας του προηγούμενου.
 ### Search/Download torrent μέσω τερματικού.
 Για την εργασία αυτή, χρειάστηκε να εγκαταστήσω openvpn σε Arch Linux Σύστημα. Με τη βοήθεια που έλαβα από ένα [**issue**](https://github.com/epidrome/dokey/issues/1#issue-732227411) που άνοιξα στο αντίστοιχο [**αποθετήριο**](https://github.com/epidrome/dokey.git), κατάφερα να εγκαταστήσω το openvpm μέσω ενός GUI για systemd based συστήματα ([qopenvpn](https://github.com/xmikos/qopenvpn)).
 Το torque δυστυχώς έκανε fail-to-build στο σύστημα μου, τόσο από το AUR, όσο και από terminal ([yay](https://github.com/Jguer/yay)). Χρησιμοποίησα το [**we-get**](https://ostechnix.com/search-torrents-command-line-linux/) αρχικά για να δω αν μπορώ να κάνω bypass την απογόρευση της [ΕΔΠΠΙ](https://opi.gr/edppi_block/edppi_block.html) πράγμα που δε δούλεψε, και αφού έβαλα VPN, το χρησιμοποιήσα για να αποφύγω τα adware/malware των browser αλλά και από περιέργεια για αυτή τη νέα δυνατότητα. Για το download χρησιμοποίησα το transmission-daemon, για το οποίο το torque είναι ένα TUI.
