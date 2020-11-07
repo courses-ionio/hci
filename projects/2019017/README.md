@@ -7,11 +7,11 @@
 ## Πίνακας Περιεχομένων:
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
-| 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα. [First deliverable](#Παραδοτέο-1) |
-| 2 | Άσκηση προγραμματιμού: [Second deliverable](#Παραδοτέο-2) |
+| 1 | Εισαγωγή: [First deliverable](#Παραδοτέο-1) |
+| 2 | Άσκηση προγραμματιμού (warmup): [Second deliverable](#Παραδοτέο-2) |
 | 3 | Άσκηση γραμμής εντολών: [Third deliverable](#Παραδοτέο-3) |
-| 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV): [Fourth deliverable](#Παραδοτέο-4) |
-| 5 | Άσκηση γραμμής εντολών |
+| 4 | Άσκηση προγραμματισμού (hci): [Fourth deliverable](#Παραδοτέο-4) |
+| 5 | Άσκηση γραμμής εντολών: [Fifth deliverable](#Παραδοτέο-5)|
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
@@ -60,6 +60,10 @@ Preview:<br/>
 Preview:<br/>
 ![default](https://i.imgur.com/hRVEach.png)
 
+## Παραδοτέο 5
+
+Για τη δεύτερη άσκηση γραμμής εντολών επέλεξα από το σετ HCI να κάνω format τη τελική αναφορά μου χρησιμοποιώντας το groff (GNU troff).
+
 ## Πηγές:
 
 Παραδοτέο 2:
@@ -79,3 +83,11 @@ Preview:<br/>
 - [Googler installation and usage](https://github.com/jarun/googler#installation)
 
 - [Commands for Asciinema](https://asciinema.org/docs/usage)
+
+Παραδοτέο 5:
+
+- [Groff Basics Tutorial](https://www.youtube.com/watch?v=bvkmnK6-qao)
+
+- [Add images with Groff](https://www.youtube.com/watch?v=TEsMqoYKw38)
+
+- [Clickable links with Groff](https://www.reddit.com/r/groff/comments/ac7tkb/clickable_web_links_in_your_final_pdf/)
