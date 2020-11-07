@@ -7,7 +7,7 @@
 | 2 | Άσκηση προγραμματισμού **[Mouse form](#Mouse-Form)**| 
 | 3 | Άσκηση γραμμής εντολών **[set-up the main dependencies and demonstrate your base system](#set-up-the-main-dependencies-and-demonstrate-your-base-system)**|
 | 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV) **[Mouse option](#Mouse-option)**|
-| 5 | Άσκηση γραμμής εντολών **[text editor and plug-ins for code highlighting and autocompletion](#text-editor-and-plug-ins-for-code-higlighting-and-autocompletion)**| 
+| 5 | Άσκηση γραμμής εντολών **[text editor and plug-ins for code highlighting and autocompletion](#text-editor-and-plug-ins-for-code-highlighting-and-autocompletion)**| 
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
