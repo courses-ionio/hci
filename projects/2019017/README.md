@@ -68,7 +68,7 @@ Preview:<br/>
 
 Έκανα install το εργαλείο Kazam για να δείξω τη δουλειά μου:
 
-
+![AltText](https://i.imgur.com/aE7C8la.gif)
 
 ## Πηγές:
 
