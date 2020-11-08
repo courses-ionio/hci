@@ -14,9 +14,16 @@
 | 1 |Intro to HCI and basic github |
 | 2 | [Interactive text](#Παραδοτέο-2) | 
 | 3 | [Getting familiar with bash](#Παραδοτέο-3)|
-|   |   [ Search/Download Torrents through bash](#Bonus)|
+|   | [    Student ID on bash](###Βήμα-1ο:-Αλλαγή-ονόματος-σε-Student-ID-στο-bash)|
+|   | [    Show dot files, shell configuration and system info](###Βήμα-2ο:-Εμφάνιση-dot-files,-shell-configuration-file-και-System-information -(hardware-+-software))|
+|   | [    Search/Download Torrents through bash](#Bonus)|
 | 4 | [Keyboard input](#Παραδοτέο-4) |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | [Convert between different text formats](#Παραδοτέο-5) |
+|   | [    Getting a text editor, Vim or Emacs?](###Βήμα-1ο:-Getting-a-text-editor,-Vim-or-Emacs?)|
+|   | [    Figuring out Vim](###Βήμα-2ο:-Figuring-out-Vim)|
+|   | [    Installing Pandoc](###Βήμα-3ο:-Installing-pandoc)|
+|   | [    Using pandoc to change format](###Βήμα-5ο:-Using-pandoc-to-change-format)|
+|   | [    Track formatting with git](###Βήμα-6ο:-Track-formatting-with-git)|
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
