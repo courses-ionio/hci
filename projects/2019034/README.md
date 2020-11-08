@@ -6,7 +6,7 @@
 | --- | --- |
 | 1 |<li><a href="#Προσδοκίες από το μάθημα."><span class="toctext">Προσδοκίες από το μάθημα.</span></a>|
 | 2 |<li><a href="#Image Processing."><span class="toctext">Image Processing.</span></a>| 
-| 3 |<li><a href="#."><span class="toctext">.</span></a>|
+| 3 |<li><a href="#Browse & View Files."><span class="toctext">Browse & View Files.</span></a>|
 | 4 |<li><a href="#Image Zoom."><span class="toctext">Image Zoom.</span></a>|
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
@@ -30,6 +30,15 @@
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
+
+<h2><span id="Browse & View Files.">Browse & View Files (Ασκηση Γραμμής Εντολών).</span></h2>
+<p>Η άσκηση που επέλεξα είχε να κάνει με την αναζήτηση και εμφάνιση αρχείων του υπολογιστή μου, μέσω του terminal.
+
+<a href="https://asciinema.org/a/371434">Browse & View Files</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://asciinema.org/">Asciinema.</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://github.com/epidrome/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a></ul>
 
 <h2><span id="Image Zoom.">Image Zoom (Ασκηση Προγραμματισμού).</span></h2>
 <p>Η άσκηση που επέλεξα είχε να κάνει με την προσθήκη φίλτρων σε μια εικόνα, από την οποία όταν περνούσε από πάνω το ποντίκι, γινόταν μεγένθυση αυτής. Υλοποιήθηκε σε HTML και CSS και αξιοποίησα τα φίλτρα που δίνονταν στην άσκηση Image Processing.
