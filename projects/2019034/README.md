@@ -4,10 +4,10 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 |<li><a href="#Προσδοκίες από το μάθημα"><span class="toctext">Προσδοκίες από το μάθημα.</span></a>|
-| 2 |<li><a href="#Image Processing"><span class="toctext">Image Processing.</span></a>| 
-| 3 |<li><a href="#Browse & View Files"><span class="toctext">Browse & View Files.</span></a>|
-| 4 |<li><a href="#Image Zoom"><span class="toctext">Image Zoom.</span></a>|
+| 1 |<li><a href="#Προσδοκίες από το μάθημα"><span class="toctext">Προσδοκίες από το μάθημα</span></a>|
+| 2 |<li><a href="#Image Processing"><span class="toctext">Image Processing</span></a>| 
+| 3 |<li><a href="#Browse & View Files"><span class="toctext">Browse & View Files</span></a>|
+| 4 |<li><a href="#Image Zoom"><span class="toctext">Image Zoom</span></a>|
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
