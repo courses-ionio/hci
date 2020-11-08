@@ -10,7 +10,7 @@
 Βιβλιογραφία
  <a href="https://pibook.epidro.me/remix/"> Λίστα ασκήσεων Προγραμματισμού</a>
  <a herf="https://codepen.io/your-work"> Codepen</a> 
-| 3 | Άσκηση γραμμής εντολών |
+| 3 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a> |
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
@@ -25,6 +25,10 @@
 <i><a href="https://github.com/p18anas/site/blob/master/_remix/keyboard-input.md" tittle="keyboard-input">Keyboard-input</a></i>
 
 Σκοπός της άσκησης ήταν το αυτοκινητάκι να κινείται με μικρότερη ταχύτητα στην όπισθεν σε σχέση με την έμπροσθεν, όπως επίσης να μπορεί το αυτοκίνητο να κινείται μόνο στα περιμετικά όρια της πίστας. 
+
+<h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
+<i><a href="https://asciinema.org/a/371364"tittle="fetch the weather forecast for your home city and one more city that you want to travel to">fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
+
  
  
 
