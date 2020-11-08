@@ -26,7 +26,7 @@
                               β) Η σχεδίαση και η κατασκευή της διάδρασης του χρήστη με ΤΠΕ.
 
 
-## ΠΑΡΑΔΟΤΕΟ 2: https://github.com/alkinoospitsinis/site/blob/2019234/_remix/mouse-form.md
+ ## ΠΑΡΑΔΟΤΕΟ 2: https://github.com/alkinoospitsinis/site/blob/2019234/_remix/mouse-form.md
 
 ΠΑΡΑΔΟΤΕΟ 3:  https://asciinema.org/a/sEriV3X7h3ZWwDMtW6blxJajQ
 
