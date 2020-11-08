@@ -4,10 +4,10 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 |<li><a href="#Προσδοκίες από το μάθημα."><span class="toctext">Προσδοκίες από το μάθημα.</span></a>|
-| 2 |<li><a href="#Image Processing."><span class="toctext">Image Processing.</span></a>| 
-| 3 |<li><a href="#Browse & View Files."><span class="toctext">Browse & View Files.</span></a>|
-| 4 |<li><a href="#Image Zoom."><span class="toctext">Image Zoom.</span></a>|
+| 1 |<li><a href="#Προσδοκίες από το μάθημα"><span class="toctext">Προσδοκίες από το μάθημα.</span></a>|
+| 2 |<li><a href="#Image Processing"><span class="toctext">Image Processing.</span></a>| 
+| 3 |<li><a href="#Browse & View Files"><span class="toctext">Browse & View Files.</span></a>|
+| 4 |<li><a href="#Image Zoom"><span class="toctext">Image Zoom.</span></a>|
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -17,10 +17,10 @@
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
-<h2><span id="Προσδοκίες από το μάθημα.">Προσδοκίες από το μάθημα.</span></h2>
+<h2><span id="Προσδοκίες από το μάθημα">Προσδοκίες από το μάθημα</span></h2>
 Σαν κύριες προσδοκίες από αυτό το μάθημα έχω, να λάβω όλες τις πληροφορίες και γνώσεις που θα μου παρέχουν καθ'όλη την διάρκεια του μαθήματος οι καθηγητές, να μπορώ στην συνέχεια να τις χρησιμοποιήσω στις εβδομαδιαίες εργασίες του μαθήματος αλλά και γενικά στο όποιο μελλοντικό μου επάγγελμα. Επιπλέον, επιθυμώ να εξοικιωθώ με την πλατφόρμα του GitHub όπως και άλλων που θα χρησιμοποιηθούν, που στο παρελθόν δεν είχα ξαναχρησιμοποιήσει. Σαν στόχους όσο αφορά τις εργασίες που θα καλούμαστε να εκτελέσουμε, έχω την έγκερη παράδοσή τους πριν την λήξη της προθεσμίας αλλά και την σωστή επίλυσή τους. Ωστόσο, αν τυχόν κάνω λάθος σε όποια από τις εργασίες, θα επιθυμούσα να μάθω την σωστή μορφή της, όπως φαντάζομαι και ότι θα γίνει.
 
-<h2><span id="Image Processing.">Image Processing (Ασκηση Προγραμματισμού).</span></h2>
+<h2><span id="Image Processing">Image Processing (Ασκηση Προγραμματισμού)</span></h2>
 <p>Η άσκηση που επέλεξα είχε να κάνει με την επεξεργασία του φίλτρου μίας εικόνας, συνδυασμό αυτών και ρύθμιση φωτεινότητας, αντίθεσης κλπ. Υλοποιήθηκε σε HTML και CSS και χρησιμοποίησα τα σχόλια που υπήρχαν στο τμήμα της CSS για την προσθήκη νέων φίλτρων στην εικόνα.
 
 <a href="https://github.com/u2nmd/site/blob/master/_remix/image-filter.md">Image Filter</a>
@@ -31,7 +31,7 @@
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
 
-<h2><span id="Browse & View Files.">Browse & View Files (Ασκηση Γραμμής Εντολών).</span></h2>
+<h2><span id="Browse & View Files">Browse & View Files (Ασκηση Γραμμής Εντολών)</span></h2>
 <p>Η άσκηση που επέλεξα είχε να κάνει με την αναζήτηση και το άνοιγμα αρχείων του υπολογιστή μου, μέσω του terminal. Εγώ επέλεξα να ανοίξει και να εμφανίσει το περιεχόμενο δύο αρχείων .txt.
 
 <a href="https://asciinema.org/a/371434">Browse & View Files</a>
@@ -40,7 +40,7 @@
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/epidrome/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a></ul>
 
-<h2><span id="Image Zoom.">Image Zoom (Ασκηση Προγραμματισμού).</span></h2>
+<h2><span id="Image Zoom">Image Zoom (Ασκηση Προγραμματισμού)</span></h2>
 <p>Η άσκηση που επέλεξα είχε να κάνει με την προσθήκη φίλτρων σε μια εικόνα, από την οποία όταν περνούσε από πάνω το ποντίκι, γινόταν μεγένθυση αυτής. Υλοποιήθηκε σε HTML και CSS και αξιοποίησα τα φίλτρα που δίνονταν στην άσκηση Image Processing ώστε να πετύχω τον σκοπό της άσκησης.
   
 <a href="https://github.com/u2nmd/site/blob/master/_remix/image-zoom.md">Image Zoom</a>
