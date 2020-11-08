@@ -13,17 +13,10 @@
 | --- | --- |
 | 1 |Intro to HCI and basic github |
 | 2 | [Interactive text](#Παραδοτέο-2) | 
-| 3 | [Getting familiar with bash](#Παραδοτέο-3)|
-|   |     [Student ID on bash](###Αλλαγή-ονόματος-σε-Student-ID-στο-bash)|
-|   | [Show dot files, shell configuration and system info](###Εμφάνιση-dot-files,-shell-configuration-file-και-System-information)|
+| 3 | [**Getting familiar with bash**](#Παραδοτέο-3) <br/> [Student ID on bash](###Αλλαγή-ονόματος-σε-Student-ID-στο-bash)<br/> [Show dot files, shell configuration and system info](###Εμφάνιση-dot-files,-shell-configuration-file-και-System-information)|
 |   | [Search/Download Torrents through bash](#Bonus)|
 | 4 | [Keyboard input](#Παραδοτέο-4) |
-| 5 | [Convert between different text formats](#Παραδοτέο-5) |
-|   | [Getting a text editor, Vim or Emacs?](###Getting-a-text-editor,-Vim-or-Emacs?)|
-|   | [Figuring out Vim](###Figuring-out-Vim)|
-|   | [Installing Pandoc](###Installing-pandoc)|
-|   | [Using pandoc to change format](###Using-pandoc-to-change-format)|
-|   | [Track formatting with git](###Track-formatting-with-git)|
+| 5 | [Convert between different text formats](#Παραδοτέο-5) <br/>[Getting a text editor, Vim or Emacs?](###Getting-a-text-editor,-Vim-or-Emacs?)<br/>[Figuring out Vim](###Figuring-out-Vim)<br/>[Installing Pandoc](###Installing-pandoc)<br/>[Using pandoc to change format](###Using-pandoc-to-change-format)<br/>[Track formatting with git](###Track-formatting-with-git)|
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
