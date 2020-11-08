@@ -18,4 +18,5 @@ https://codepen.io/thomasth01/pen/ZEOOmra
 # System info excercize 
 https://asciinema.org/a/biu9GVYNN8d3Y3EfunpgBxnGL
 # Css Circle Menu Excercise
-https://codepen.io/thomasth01/pen/pobVmVK
+Ο Κωδικας βρισκεται εδω: https://codepen.io/thomasth01/pen/pobVmVK 
+Το αποτελεσμα φαινεται εδω:https://5fa81c9f5f714100082fe3c8--vibrant-varahamihira-deff26.netlify.app/remix/menu-css/
