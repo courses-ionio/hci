@@ -3,7 +3,7 @@
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
 | 2 |[Mouse eraser excersize](#Mouse-eraser-excercise)|
-| 3 |[System info excersize](#System-info-excercize)|
+| 3 |[Command line](#Command-line)|
 | 4 |[Css circle menu](#Css-Circle-Menu-Excercise) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
@@ -13,12 +13,14 @@
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
-# Mouse eraser excercise
-
+# Mouse eraser excersize
+Η συγκεκριμένη άσκηση ενδείκνυται για εξοικείωση στο codepen και επιλέχθηκε μετά από μερική ανάλυση όλων των ασκήσεων. Το μοναδικό στοιχέιο που έπρεπε να επιτευχθεί ήταν ο εντοπισμός των λινκ των προϋπάρχοντων εικόνων και να αντικατασταθούν απο αυτές της προτίμισης μου
 Ο κωδικας βρισκεται εδω: https://codepen.io/thomasth01/pen/ZEOOmra \
 Το αποτελεσμα βρισκεται εδω: https://5fa81c9f5f714100082fe3c8--vibrant-varahamihira-deff26.netlify.app/remix/mouse-eraser/
-# System info excercize 
+# Command line
+Η άσκηση στόχευε στην εξοικιωση με το τερματικο του λειτουργικου συστηματος linux και ολο το λειτουργικο κατ επεκταση  
 https://asciinema.org/a/biu9GVYNN8d3Y3EfunpgBxnGL
 # Css Circle Menu Excercise
+Μια ασκηση που βοηθησε στην εξοικειωση με την γλωσσα CSS χωρις ομως να πορουσιαζει καποια ιδιαιτερη δυσκολια
 Ο Κωδικας βρισκεται εδω: https://codepen.io/thomasth01/pen/pobVmVK \
 Το αποτελεσμα φαινεται εδω:https://5fa81c9f5f714100082fe3c8--vibrant-varahamihira-deff26.netlify.app/remix/menu-css/
