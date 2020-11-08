@@ -35,7 +35,7 @@ Codepen:[Form validation](https://codepen.io/orfeaslambrou/pen/JjKKbNJ)
 
 
 <a name="d"></a>
-[css querries](https://codepen.io/orfeaslambrou/pen/OJXBPEo)
+codepen:[css querries](https://codepen.io/orfeaslambrou/pen/OJXBPEo)
 # ΑΣΚΗΣΕΙΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
 <a name="c"></a>
 Asccinema:[emacs](https://asciinema.org/a/2e0gMoZx2b1mYfKxIViGPsQuo)
