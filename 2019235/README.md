@@ -5,7 +5,7 @@
 
 
 # **Εισαγωγή**
-### Μετά το τέλος αυτού του εξαμήνου, θα ήθελα να έχω εξοικειωθεί με την χρήση του terminal, αν και ήδη υπάρχει μια σχετική εξοικείωση, λόγω της ασχολίας μου με προγραμματισμό σε linux συστήματα χωρίς την χρήση IDE. Για εμένα το πιο σημαντικό που θα μπορούσα να μάθω πως να κάνω, από αυτό το μάθημα, θα ήταν η δημιουργία δικών μου interfaces, σε απλές εφαρμγές που μπορώ να υλοποιήσω, με τις υπάρχουσες γνώσεις προγραμματισμού. 
+### Μετά το τέλος αυτού του εξαμήνου, θα ήθελα να έχω εξοικειωθεί με την χρήση του terminal, αν και ήδη υπάρχει μια σχετική εξοικείωση, λόγω της ασχολίας μου με προγραμματισμό σε linux συστήματα χωρίς την χρήση IDE. Για εμένα το πιο σημαντικό που θα μπορούσα να μάθω πως να κάνω, από αυτό το μάθημα, θα ήταν η δημιουργία δικών μου interfaces, σε απλές εφαρμογές που μπορώ να υλοποιήσω, με τις υπάρχουσες γνώσεις προγραμματισμού. 
 
 # Πίνακας Παραδοτέων
 
@@ -14,8 +14,8 @@
 | 1 |Intro to HCI and basic github |
 | 2 | [Interactive text](#Παραδοτέο-2) | 
 | 3 | [Getting familiar with bash](#Παραδοτέο-3)|
-|   | [&nbsp;Student ID on bash](###Αλλαγή-ονόματος-σε-Student-ID-στο-bash)|
-|   | [&nbsp;Show dot files, shell configuration and system info](###Εμφάνιση-dot-files,-shell-configuration-file-και-System-information|
+|   |     [Student ID on bash](###Αλλαγή-ονόματος-σε-Student-ID-στο-bash)|
+|   | [Show dot files, shell configuration and system info](###Εμφάνιση-dot-files,-shell-configuration-file-και-System-information)|
 |   | [Search/Download Torrents through bash](#Bonus)|
 | 4 | [Keyboard input](#Παραδοτέο-4) |
 | 5 | [Convert between different text formats](#Παραδοτέο-5) |
