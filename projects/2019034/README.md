@@ -6,7 +6,7 @@
 | --- | --- |
 | 1 |<li><a href="#Προσδοκίες από το μάθημα."><span class="toctext">Προσδοκίες από το μάθημα.</span></a>|
 | 2 |<li><a href="#Image Processing."><span class="toctext">Image Processing.</span></a>| 
-| 3 |<li><a href="Άσκηση γραμμής εντολών."><span class="toctext">Άσκηση γραμμής εντολών.</span></a>|
+| 3 |<li><a href="#."><span class="toctext">.</span></a>|
 | 4 |<li><a href="#Image Zoom."><span class="toctext">Image Zoom.</span></a>|
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
@@ -24,6 +24,7 @@
 <p>Η άσκηση που επέλεξα είχε να κάνει με την επεξεργασία του φίλτρου μίας εικόνας, συνδυασμό αυτών και ρύθμιση φωτεινότητας, αντίθεσης κλπ. Υλοποιήθηκε σε HTML και CSS και χρησιμοποίησα τα σχόλια που υπήρχαν στο τμήμα της CSS για την προσθήκη νέων φίλτρων στην εικόνα.
 
 <a href="https://github.com/u2nmd/site/blob/master/_remix/image-filter.md">Image Filter</a>
+<a href="https://vibrant-villani-781057.netlify.app/remix/image-filter/">Image Filter</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
@@ -34,6 +35,7 @@
 <p>Η άσκηση που επέλεξα είχε να κάνει με την προσθήκη φίλτρων σε μια εικόνα, από την οποία όταν περνούσε από πάνω το ποντίκι, γινόταν μεγένθυση αυτής. Υλοποιήθηκε σε HTML και CSS και αξιοποίησα τα φίλτρα που δίνονταν στην άσκηση Image Processing.
   
 <a href="https://github.com/u2nmd/site/blob/master/_remix/image-zoom.md">Image Zoom</a>
+<a href="https://vibrant-villani-781057.netlify.app/remix/image-zoom/">Image Zoom</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
