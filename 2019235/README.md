@@ -14,16 +14,16 @@
 | 1 |Intro to HCI and basic github |
 | 2 | [Interactive text](#Παραδοτέο-2) | 
 | 3 | [Getting familiar with bash](#Παραδοτέο-3)|
-|   | [    Student ID on bash](###Βήμα-1ο:-Αλλαγή-ονόματος-σε-Student-ID-στο-bash)|
-|   | [    Show dot files, shell configuration and system info](###Βήμα-2ο:-Εμφάνιση-dot-files,-shell-configuration-file-και-System-information -(hardware-+-software))|
-|   | [    Search/Download Torrents through bash](#Bonus)|
+|   | [&nbsp;Student ID on bash](###Αλλαγή-ονόματος-σε-Student-ID-στο-bash)|
+|   | [&nbsp;Show dot files, shell configuration and system info](###Εμφάνιση-dot-files,-shell-configuration-file-και-System-information|
+|   | [Search/Download Torrents through bash](#Bonus)|
 | 4 | [Keyboard input](#Παραδοτέο-4) |
 | 5 | [Convert between different text formats](#Παραδοτέο-5) |
-|   | [    Getting a text editor, Vim or Emacs?](###Βήμα-1ο:-Getting-a-text-editor,-Vim-or-Emacs?)|
-|   | [    Figuring out Vim](###Βήμα-2ο:-Figuring-out-Vim)|
-|   | [    Installing Pandoc](###Βήμα-3ο:-Installing-pandoc)|
-|   | [    Using pandoc to change format](###Βήμα-5ο:-Using-pandoc-to-change-format)|
-|   | [    Track formatting with git](###Βήμα-6ο:-Track-formatting-with-git)|
+|   | [Getting a text editor, Vim or Emacs?](###Getting-a-text-editor,-Vim-or-Emacs?)|
+|   | [Figuring out Vim](###Figuring-out-Vim)|
+|   | [Installing Pandoc](###Installing-pandoc)|
+|   | [Using pandoc to change format](###Using-pandoc-to-change-format)|
+|   | [Track formatting with git](###Track-formatting-with-git)|
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
@@ -41,12 +41,13 @@
  
 # Παραδοτέο 3
 ## Getting familiar with bash
-### Βήμα 1ο: Αλλαγή ονόματος σε Student ID στο bash
+### Αλλαγή ονόματος σε Student ID στο bash
 Με τη βοήθεια αυτού του πολύ κατατοπιστικού [οδηγού](https://phoenixnap.com/kb/change-bash-prompt-linux)
 
 [![asciicast](https://asciinema.org/a/Ta70L3oqMnG3h1dC22qb92CPX.svg)](https://asciinema.org/a/Ta70L3oqMnG3h1dC22qb92CPX)
 
-### Βήμα 2ο: Εμφάνιση dot files, shell configuration file και System information (hardware + software)
+### Εμφάνιση dot files, shell configuration file και System information 
+(hardware + software)
 Για το System Information συμβουλεύτηκα [αυτό το άρθρο](https://vitux.com/get-linux-system-and-hardware-details-on-the-command-line/)
 
 [![asciicast](https://asciinema.org/a/mpUVCTOO176TLj2dd1MR8gU0s.svg)](https://asciinema.org/a/mpUVCTOO176TLj2dd1MR8gU0s)
