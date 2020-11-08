@@ -29,6 +29,8 @@
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
 <i><a href="https://asciinema.org/a/371364"tittle="fetch the weather forecast for your home city and one more city that you want to travel to">fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
 
+Σκοπός της άσκησης ήταν η εμφάνιση του καίρου στην πόλη μου και στην πόλη που θέλω να ταξιδέψω.
+
  
  
 
