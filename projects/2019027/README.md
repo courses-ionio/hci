@@ -10,7 +10,7 @@
 | 2 | Παραδοτέο 2  - Άσκηση προγραμματισμού 
 |   | Αλλαγή λειτουργίας στο click ενός κουμπιού στο CodePen |
 |   | Λεπτομέρειες θα βρείτε στο αρχείο https://github.com/p19zing/site/blob/master/_remix/button.md και το [CodePen link](https://codepen.io/p19zing/pen/bGeeevB '[CodePen link')  |
-| 3 | Παραδοτέο 3 (Άσκηση γραμμής εντολών) https://asciinema.org/a/kebJ8RAbp55mXGHVmF8udYZ7Y|
+| 3 | Παραδοτέο 3 (Άσκηση γραμμής εντολών) https://asciinema.org/a/PWwMVkEnoYS6a1FgbBqzuoXSO|
 |   |  Για την αλλαγή του command prompt να περιέχει τον ΑΜ, άλλαξα την μεταβλητή PS1 του .bashrc: https://github.com/p19zing/hci/blob/2019027/projects/2019027/paradoteo3/bashrc|
 |   | Ta αποτελέσματα του neofetch φαίνονται στο αρχείο https://github.com/p19zing/hci/blob/2019027/projects/2019027/paradoteo3/neofetch-ubuntu.PNG|
 |   | Το αρχείο καταγραφής του asciinema είναι το https://github.com/p19zing/hci/blob/2019027/projects/2019027/paradoteo3/paradoteo3.rec |
