@@ -62,7 +62,7 @@ Preview:<br/>
 
 ## Παραδοτέο 5
 
-Για τη δεύτερη άσκηση γραμμής εντολών επέλεξα από το σετ HCI να κάνω format τη τελική αναφορά μου χρησιμοποιώντας το groff (GNU troff). Χρησιμοποιησα το vim για να επεξεργαστω το αρχειο. Εβαλα ενα πινακα περιεχομενων με εντολες του preprocessor tbl. Ο λογος που μου βγαζει "table wider than line width" error ειναι επειδη μετατρεπει καθε ελληνικο γραμμα σε unicode character με την εντολη ```-k``` ωστε το pdf να εμφανιζει σωστα το κειμενο και να μην ειναι σπασμενο. Μαζευονται τοσα πολλα συμβολα σε μια γραμμη (στην εβδομαδα 6), που πεταει ερρορ οτι δεν εχει αρκετο χωρο στο table. Παρολα αυτα στο output βλεπουμε οτι δεν παρουσιαζει προβλημα οποτε το αγνοουμε. Επισης, υπαρχει το προβλημα οτι ειναι σε μορφη italics και δεν βρηκα λυση για αυτο το προβλημα. Δεν θυμαμαι αν φταιει αυτο ή το οτι τα μετατρεπει σε unicode χαρακτηρες αλλα τα ελληνικα δεν παιρνουν καμια μορφη font (π.χ. bold, διαφορετικη γραμματοσειρα οπως Arial, Open Sans και αλλες). Αν η τελικη μου αναφορα ηταν σε Αγγλικα θα εσωζα 6 ωρες ψαξιμο για να κανω τα ελληνικα να εμφανιστουν και θα ηταν πιο καλα δομημενο το pdf.
+Για τη δεύτερη άσκηση γραμμής εντολών επέλεξα από το σετ HCI [εδώ](https: //github. com/epidrome/dokey# hci) να κάνω format τη τελική αναφορά μου χρησιμοποιώντας το groff (GNU troff). Χρησιμοποίησα το vim για να επεξεργαστώ το αρχείο. Έβαλα ένα πίνακα περιεχομένων με εντολές του preprocessor tbl. Ο λόγος που μου βγάζει "table wider than line width" error είναι επειδή μετατρέπει κάθε ελληνικό γραμμα σε unicode character με την εντολή ```-k``` ώστε το pdf να εμφανίζει σωστά το κείμενο και να μην είναι σπασμένο. Μαζεύονται τόσα πολλά σύμβολα σε μια γραμμή (στην εβδομάδα 6), που πετάει ερρορ ότι δεν έχει αρκετό χώρο στο table. Παρόλα αυτά στο output βλέπουμε ότι δεν παρουσιάζει πρόβλημα οπότε το αγνοούμε. Επίσης, υπάρχει το πρόβλημα ότι είναι σε μορφή italics και δεν βρήκα λύση για αυτό το πρόβλημα. Δεν θυμάμαι αν φταίει αυτό ή το ότι τα μετατρέπει σε unicode χαρακτήρες αλλά τα ελληνικά δεν παίρνουν καμία μορφή font (π. χ. bold, διαφορετική γραμματοσειρά όπως Arial, Open Sans και άλλες). Αν η τελική μου αναφορά ήταν σε Αγγλικά θα έσωζα 6 ώρες ψάξιμο για να κάνω τα ελληνικά να εμφανιστούν και θα ήταν πιο καλά δομημένο το pdf. 
 Σημείωση: Το πολυτονικό σύστημα δεν δουλεύει στο pdf και μετά από πολύ ψάξιμο έμαθα ότι φταίει το font του pdf και δεν μπορώ να το αλλάξω, οπότε έβγαλα όλους τους τόνους χρησιμοποιώντας το vim και την εντολή ```:%s```
 
 ## Πηγές:
@@ -87,10 +87,14 @@ Preview:<br/>
 
 Παραδοτέο 5:
 
-- [Groff Basics Tutorial](https://www.youtube.com/watch?v=bvkmnK6-qao)
+- [Groff basics tutorial](https://www.youtube.com/watch?v=bvkmnK6-qao)
 
 - [Add images with Groff](https://lists.gnu.org/archive/html/groff/2010-04/msg00042.html)
 
 - [Clickable links with Groff](https://www.reddit.com/r/groff/comments/ac7tkb/clickable_web_links_in_your_final_pdf/)
 
-- [Make Groff Recognize Special Unicode Characters (Greek, German umlauts etc.)](https://stackoverflow.com/a/53626338)
+- [Make Groff recognize special unicode characters (Greek, German umlauts etc.)](https://stackoverflow.com/a/53626338)
+
+- [Changing font size](https://www.gnu.org/software/groff/manual/html_node/Changing-Type-Sizes.html)
+
+- [Page control](https://www.gnu.org/software/groff/manual/html_node/Page-Control.html)
