@@ -36,6 +36,7 @@ https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
 ## Παραδοτέο 3ο, 1η Άσκηση γραμμής εντολών
   **assignments**
    set-up the main dependencies and demonstrate your base system
+   
   **deliverables**
    change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
       
@@ -49,6 +50,7 @@ https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
 ## Παραδοτέο 5ο, 2η Άσκηση γραμμής εντολών
   **assignments**
    text editor and plug-ins for code highlighting and autocompletion
+   
   **deliverables**
    edit the vim or the shell configuration file
       
