@@ -69,7 +69,7 @@
 ##
 ##
 ## Άσκηση γραμμής εντολών 2
-|https://asciinema.org/a/371618|
+|https://asciinema.org/a/371629|
 | --- |
 
 
