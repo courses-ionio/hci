@@ -22,18 +22,18 @@
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
-# Στόχοι.
+## Στόχοι.
 
 Στόχος μου είναι να μάθω να χρησιμοποιώ το github και η απόκτηση νέων γνώσεων.
 
-## Παραδοτέο 2ο, 1η Άσκηση προγραμματισμού
+### Παραδοτέο 2ο, 1η Άσκηση προγραμματισμού
    
    See the Pen [Calculator-Παραδοτέο 2ο(2017185)](https://codepen.io/haki-malai/pen/abZZGJg) by Χακί Μάλαϊ ([@haki-malai](https://codepen.io/haki-malai)) on [CodePen](https://codepen.io/).
    
 https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
 
 
-## Παραδοτέο 3ο, 1η Άσκηση γραμμής εντολών
+### Παραδοτέο 3ο, 1η Άσκηση γραμμής εντολών
   # assignments
    set-up the main dependencies and demonstrate your base system
   # deliverables
@@ -41,12 +41,12 @@ https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
       
    [Λινκ](https://asciinema.org/a/bP9k8u6TNcRAe9Xob6y4PAdEu)
    
-## Παραδοτέο 4ο, 2η Άσκηση προγραμματισμού
+### Παραδοτέο 4ο, 2η Άσκηση προγραμματισμού
    See the Pen [Image processing-Παραδοτέο 4ο(2017185)](https://codepen.io/haki-malai/pen/yLJjmba) by Χακί Μάλαϊ ([@haki-malai](https://codepen.io/haki-malai)) on [CodePen](https://codepen.io/).
    
    https://github.com/Haki-Malai/site/edit/master/_remix/image-filter.md
    
-## Παραδοτέο 5ο, 2η Άσκηση γραμμής εντολών
+### Παραδοτέο 5ο, 2η Άσκηση γραμμής εντολών
   # assignments
    text editor and plug-ins for code highlighting and autocompletion
   # deliverables
