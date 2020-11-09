@@ -68,6 +68,7 @@
 ## The weather forecast for your home city and one more city that you want to travel to
 
 [Σύνδεσμος asciinema ](https://asciinema.org/a/QZmPztfYWq8gXteJeYC8ofJa8)
+
 [Σύνεδσμος βιβλιογραφίας](https://github.com/chubin/wttr.in)
 
 ## Τι έκανα: 
