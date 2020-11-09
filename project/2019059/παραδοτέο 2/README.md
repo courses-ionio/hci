@@ -9,6 +9,9 @@ link για την άσκηση προγραμματισμού
 
 https://codepen.io/xar1sgeovlacp2019059/pen/gOMrqeE
 
+grammh entolvn
+https://asciinema.org/connect/3c605f0e-bb09-49a8-9b83-aa5c5ebb0a5b
+
 
 
  
