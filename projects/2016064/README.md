@@ -26,7 +26,7 @@
 
 ## 1η Άσκηση προγραμματισμού
 ### Button
-#### [Αποθετήριο κώδικα 1ης Άσκησης προγραμματισμού]: (https://github.com/Kavvadias/site/blob/master/_remix/button.md)
+#### [Αποθετήριο κώδικα 1ης Άσκησης προγραμματισμού](https://github.com/Kavvadias/site/blob/master/_remix/button.md): 
 
 *Αλλαγές:*
 
@@ -40,7 +40,7 @@
 
 ## 1η Άσκηση γραμμής εντολών
 ### Become productive with a todo list(create a list of todos, edit, delete, and check some of them)
-#### [Asciinema link 1ης Άσκηση γραμμής εντολών]: (https://asciinema.org/a/jQv28tu338kAJVK3SgSEhVGi9)
+#### [Asciinema link 1ης Άσκηση γραμμής εντολών](https://asciinema.org/a/jQv28tu338kAJVK3SgSEhVGi9): 
 
 Το λογισμικό που χρησιμοποίησα είναι το Taskwarrior, ώστε να διαχειριστώ την λίστα μου απο την γραμμή εντολών. Αρχικά έκανα εγκατάσταση το Taskwarrior μέσω της εντολής ***sudo apt-get install taskwarrior*** . Από εκεί και πέρα είχα την δυνατότητα να δημιουργήσω και να διαχειριστώ την λίστα μου. Οι εντολές που χρησιμοποίησα για την διαχείριση της λίστας είναι οι εξής:
 1. ***task add*** , με την εντολή αυτή δημιουργούμε ένα έργο για την λίστα μας. Συνεχίζοντας με την ίδια εντολή αν έχουμε ήδη ένα έργο προσθέτουμε στην λίστα ένα δεύτερο έργο.
@@ -57,7 +57,7 @@
 
 ## 2η Άσκηση προγραμματισμού
 ### CSS Queries
-#### [Αποθετήριο κώδικα 2ης Άσκησης προγραμματισμού]: (https://github.com/Kavvadias/site/blob/master/_remix/css-queries.md)
+#### [Αποθετήριο κώδικα 2ης Άσκησης προγραμματισμού](https://github.com/Kavvadias/site/blob/master/_remix/css-queries.md): 
 
 *Αλλαγές:*
 
@@ -95,7 +95,7 @@
 
 ## 2η Άσκηση γραμμής εντολών
 ### Fetch the weather forecast for your home city and one more city that you want to travel to.
-#### [Asciinema link 2ης Άσκηση γραμμής εντολών]: (https://asciinema.org/a/EcYJU4GpdfkdIhWSzRTpPGNA5)
+#### [Asciinema link 2ης Άσκηση γραμμής εντολών](https://asciinema.org/a/EcYJU4GpdfkdIhWSzRTpPGNA5): 
 
 Η άσκηση είναι να πάρουμε την πρόγνωση καιρού για την πόλη καταγωγής μας και μια ακόμη πόλη στην οποία θέλουμε να ταξιδέψουμε. Έτσι μέσω του wttr.in πραγματοποίησα τα ζητούμενα. 
 Το wttr.in είναι μια υπηρεσία πρόβλεψης καιρού που υποστηρίζει μεθόδους αναπαραγωγής όπως σε τερματικό. Το wttr.in χρησιμοποιεί wego για διάφορες πηγές δεδομένων και πληροφορίες πρόγνωσης καιρού. Μπορούμε να έχουμε πρόσβαση στην υπηρεσία από το τερματικό με την εντολή ***curl wttr.in*** για την τοποθεσία μας.
