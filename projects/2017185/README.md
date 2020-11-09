@@ -45,4 +45,12 @@ https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
    
    https://github.com/Haki-Malai/site/edit/master/_remix/image-filter.md
    
+## Παραδοτέο 5ο, 2η Άσκηση γραμμής εντολών
+   # assignments
+      text editor and plug-ins for code highlighting and autocompletion
+   # deliverables
+      edit the vim or the shell configuration file
+      
+      [Λινκ](https://asciinema.org/a/p1T5s1421s4xoCHzlfkH093X7)
+   
   
