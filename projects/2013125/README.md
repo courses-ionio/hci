@@ -64,3 +64,11 @@
 
 ## Παραδοτέο 5
 ## Άσκηση γραμμής εντολών
+## Check the weather	fetch
+## The weather forecast for your home city and one more city that you want to travel to
+
+[Σύνδεσμος asciinema ](https://asciinema.org/a/QZmPztfYWq8gXteJeYC8ofJa8)
+[Σύνεδσμος βιβλιογραφίας](https://github.com/chubin/wttr.in)
+
+## Τι έκανα: 
+Σύμφωνα με την βιβλιογραφία στο παραπάνω σύνδεσμο αρχικά υλοποίησα την εντολή "$ curl wttr.in" για να μου δώσει τα καιρικά φαινόμενα για την τοποθεσία μου, μετά υλοποίησα την εντολή "$ curl wttr.in/Berlin" για να μου δώσει τα καιρικά φαινόμενα για ένα μέρος που θέλω να επισκεφθώ και στο τέλος υλοποίησα την εντολή "$ curl wttr.in/ath " για να μου δώσει τα καιρικά φαινόμενα του αεροδρομίου της Αττικής.
