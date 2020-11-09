@@ -26,7 +26,7 @@
 
 ## 1η Άσκηση προγραμματισμού
 ### Button
-#### Αποθετήριο κώδικα 1ης Άσκησης προγραμματισμού: https://github.com/Kavvadias/site/blob/master/_remix/button.md
+#### [Αποθετήριο κώδικα 1ης Άσκησης προγραμματισμού]: (https://github.com/Kavvadias/site/blob/master/_remix/button.md)
 
 *Αλλαγές:*
 
@@ -40,7 +40,7 @@
 
 ## 1η Άσκηση γραμμής εντολών
 ### Become productive with a todo list(create a list of todos, edit, delete, and check some of them)
-#### Asciinema link 1ης Άσκηση γραμμής εντολών: https://asciinema.org/a/jQv28tu338kAJVK3SgSEhVGi9
+#### [Asciinema link 1ης Άσκηση γραμμής εντολών]: (https://asciinema.org/a/jQv28tu338kAJVK3SgSEhVGi9)
 
 Το λογισμικό που χρησιμοποίησα είναι το Taskwarrior, ώστε να διαχειριστώ την λίστα μου απο την γραμμή εντολών. Αρχικά έκανα εγκατάσταση το Taskwarrior μέσω της εντολής ***sudo apt-get install taskwarrior*** . Από εκεί και πέρα είχα την δυνατότητα να δημιουργήσω και να διαχειριστώ την λίστα μου. Οι εντολές που χρησιμοποίησα για την διαχείριση της λίστας είναι οι εξής:
 1. ***task add*** , με την εντολή αυτή δημιουργούμε ένα έργο για την λίστα μας. Συνεχίζοντας με την ίδια εντολή αν έχουμε ήδη ένα έργο προσθέτουμε στην λίστα ένα δεύτερο έργο.
@@ -57,7 +57,7 @@
 
 ## 2η Άσκηση προγραμματισμού
 ### CSS Queries
-#### Αποθετήριο κώδικα 2ης Άσκησης προγραμματισμού: https://github.com/Kavvadias/site/blob/master/_remix/css-queries.md
+#### [Αποθετήριο κώδικα 2ης Άσκησης προγραμματισμού]: (https://github.com/Kavvadias/site/blob/master/_remix/css-queries.md)
 
 *Αλλαγές:*
 
@@ -92,6 +92,18 @@
 - https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 - https://www.w3schools.com/colors/colors_picker.asp?colorhex=FFFFFF
 - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries
+
+## 2η Άσκηση γραμμής εντολών
+### Fetch the weather forecast for your home city and one more city that you want to travel to.
+#### [Asciinema link 2ης Άσκηση γραμμής εντολών]: (https://asciinema.org/a/EcYJU4GpdfkdIhWSzRTpPGNA5)
+
+Η άσκηση είναι να πάρουμε την πρόγνωση καιρού για την πόλη καταγωγής μας και μια ακόμη πόλη στην οποία θέλουμε να ταξιδέψουμε. Έτσι μέσω του wttr.in πραγματοποίησα τα ζητούμενα. 
+Το wttr.in είναι μια υπηρεσία πρόβλεψης καιρού που υποστηρίζει μεθόδους αναπαραγωγής όπως σε τερματικό. Το wttr.in χρησιμοποιεί wego για διάφορες πηγές δεδομένων και πληροφορίες πρόγνωσης καιρού. Μπορούμε να έχουμε πρόσβαση στην υπηρεσία από το τερματικό με την εντολή ***curl wttr.in*** για την τοποθεσία μας.
+Αν θέλουμε διαφοροποιώντας την εντολή σε ***curl wttr.in/London*** απεικονίζεται πρόγνωση του καιρού στο Λονδίνο. Αντίστοιχα σε όποια τοποθεσία θέλουμε. Τα αποτελέσματα την πρόγνωσης που εμφανίζονται για 7 μέρες και υποκατηγοροποιούνται σε πρωί,μεσημέρι,απόγευμα και βράδυ.
+Το βίντεο που κατέγραψα στο Asciinema δεν απεικονίζει όσο καλά θα ήθελα την άσκηση λόγο ότι το Asciinema δεν παρέχει την δυνατότητα να προβάλεις το τερματικό σου μέσω της γραμμής κύλισης. Έτσι λόγο το ότι το wttr προβάλει την τοποθεσία που κάνεις πρόγνωση στην αρχή της απεικόνισης στο τερματικό το Asciinema αδυνατεί να προβάλλει την τοποθεσία. [Έδω](https://github.com/asciinema/asciinema-player/issues/25) το αντίστοιχο θέμα για το παραπάνω ζήτημα.
+Οδηγίες για την χρήση του εργαλείου έλαβα από τον ακόλουθο σύνδεσμο:
+-https://github.com/chubin/wttr.in
+
 
 
 
