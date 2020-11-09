@@ -84,7 +84,7 @@ https://asciinema.org/a/eFpcKa73cHuQskG4NLZsE9qX6
 
 Ένα 2ο, πιο αναλυτικό video παρουσιάζεται στη συνέχεια. Σε αυτό βλέπουμε και τη χρήση του vim text editor.
 
-https://asciinema.org/a/ZmzA6PF1c2FcObwLetdECFarx
+https://asciinema.org/a/NbpaCXvpGZOO5giUYYIlZmKaa
 
 ## Παραδοτέο 6
 
