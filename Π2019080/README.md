@@ -5,7 +5,7 @@
 | 2 | [Άσκηση προγραμματισμού Mouse Eraser](#Mouse-Eraser)|
 | 3 | [Άσκηση γραμμής εντολών](#Command-line) |
 | 4 | [Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV)](#Menu-Pie) |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | [Άσκηση γραμμής εντολών](#Command-line2) |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
@@ -16,3 +16,4 @@
 # [Mouse Eraser](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)
 # [Command line](https://asciinema.org/a/nNQ6TMd30KSZCVhlzi6agb2Qi) 
 # [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
+# [Command line2](https://asciinema.org/a/QrBPNjDfZPIzam9veDe81S9iJ)
