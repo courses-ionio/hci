@@ -80,7 +80,7 @@ https://2019239.netlify.app
 
 Ασχολήθηκα με τη δημιουργία παρουσίασης με το εργαλείο mdp. Η παρουσίαση παρουσιάζεται στο παρακάτω link.
 
-https://asciinema.org/a/abVDNgvs1YY509C0gxP80TVC0
+https://asciinema.org/a/eFpcKa73cHuQskG4NLZsE9qX6
 
 Ένα 2ο, πιο αναλυτικό video παρουσιάζεται στη συνέχεια. Σε αυτό βλέπουμε και τη χρήση του vim text editor.
 
