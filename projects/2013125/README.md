@@ -43,11 +43,11 @@
 ## Άσκηση γραμμής εντολών
 ## become productive with a todo/task list
 
-[Σύνδεσμος asciinema ] (https://asciinema.org/a/hLDShqnr6ZNgDOd8i5YEEfCrG)
+[Σύνδεσμος asciinema ](https://asciinema.org/a/hLDShqnr6ZNgDOd8i5YEEfCrG)
 
-[Σύνεδσμος βιβλιογραφίας] (https://taskwarrior.org/docs/start.html)
+[Σύνεδσμος βιβλιογραφίας](https://taskwarrior.org/docs/start.html)
 
-[Σύνεδσμος βιβλιογραφίας] (https://github.com/todotxt/todo.txt-cli/blob/master/README.md)
+[Σύνεδσμος βιβλιογραφίας 2](https://github.com/todotxt/todo.txt-cli/blob/master/README.md)
 
 ## Τι έκανα : 
 Ειχα δημιουργήσει μέσω της βιβλιογραφίας και ένα task list. Στο σύνδεσμο φαίνεται το task list με τις σημειώσεις που έχω προσθέσει, μετά επεξεργάστηκα (modify) το όνομα μίας σημείωσης μετά την σημείωσα ότι υλοποιήθθηκε(done),πρόσθεσα στην συνέχεια νέα σημείωση ,έλεγξα την λίστα μου μετά σημείωσα ότι υλοποιήθηκε η 4 σημείωση μετά πρόσθεσα και άλλη σημείωση μετά έλεγξα την λίστα μου μετά πρόσθεσα και άλλη μία σημείωση στην λίστα μου μετά έλεγξα την λίστα μου και διέγραψα την 7 σημείωση.
