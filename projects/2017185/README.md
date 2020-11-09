@@ -34,11 +34,11 @@ https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
 
 ## Παραδοτέο 3ο, 1η Άσκηση γραμμής εντολών
   # assignments
-      set-up the main dependencies and demonstrate your base system
+   set-up the main dependencies and demonstrate your base system
   # deliverables
-      change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
+   change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
       
-    [Λινκ](https://asciinema.org/a/bP9k8u6TNcRAe9Xob6y4PAdEu)
+   [Λινκ](https://asciinema.org/a/bP9k8u6TNcRAe9Xob6y4PAdEu)
    
 ## Παραδοτέο 4ο, 2η Άσκηση προγραμματισμού
    See the Pen [Image processing-Παραδοτέο 4ο(2017185)](https://codepen.io/haki-malai/pen/yLJjmba) by Χακί Μάλαϊ ([@haki-malai](https://codepen.io/haki-malai)) on [CodePen](https://codepen.io/).
@@ -46,11 +46,11 @@ https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
    https://github.com/Haki-Malai/site/edit/master/_remix/image-filter.md
    
 ## Παραδοτέο 5ο, 2η Άσκηση γραμμής εντολών
-   # assignments
-      text editor and plug-ins for code highlighting and autocompletion
-   # deliverables
-      edit the vim or the shell configuration file
+  # assignments
+   text editor and plug-ins for code highlighting and autocompletion
+  # deliverables
+   edit the vim or the shell configuration file
       
-      [Λινκ](https://asciinema.org/a/p1T5s1421s4xoCHzlfkH093X7)
+   [Λινκ](https://asciinema.org/a/p1T5s1421s4xoCHzlfkH093X7)
    
   
