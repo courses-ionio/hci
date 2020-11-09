@@ -42,9 +42,11 @@
 ## Παραδοτέο 3
 ## Άσκηση γραμμής εντολών
 ## become productive with a todo/task list
+
 [Σύνδεσμος asciinema ] (https://asciinema.org/a/hLDShqnr6ZNgDOd8i5YEEfCrG)
 
 [Σύνεδσμος βιβλιογραφίας] (https://taskwarrior.org/docs/start.html)
+
 [Σύνεδσμος βιβλιογραφίας] (https://github.com/todotxt/todo.txt-cli/blob/master/README.md)
 
 ## Τι έκανα : 
