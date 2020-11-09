@@ -59,3 +59,14 @@
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
 <br> <a href="https://pibook.epidro.me/remix/image-zoom/">Η εκφώνηση της άσκησης που έκανα.</a>
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της προηγούμενης άσκησης που χρησιμοποίησα.</a></ul>
+
+
+<br><br>
+<h2><span id="Browse & View Files">(3) Browse & View Files (Άσκηση Γραμμής Εντολών)</span></h2>
+<p>Η άσκηση που επέλεξα είχε να κάνει με την αναζήτηση και το άνοιγμα αρχείων του υπολογιστή μου, μέσω του terminal. Εγώ επέλεξα να ανοίξει και να εμφανίσει το περιεχόμενο δύο αρχείων .txt.
+
+<a href="https://asciinema.org/a/371434">Browse & View Files</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://asciinema.org/">Asciinema.</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://github.com/epidrome/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a></ul>
