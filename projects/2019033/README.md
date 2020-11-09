@@ -8,10 +8,10 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της [εισαγωγής](#εισαγωγή) με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
-| 2 | [Validation-form](#άσκηση-προγραμματισμού-validation-form) |
+| 2 | [Validation-form](#validation-form) |
 | 3 | [Setup the main dependencies and demonstrate base system](#άσκηση-γραμμής-εντολών)  |
-| 4 | [Menu Scroll](#άσκηση-προγραμματισμού-menu-scroll) |
-| 5 | Άσκηση γραμμής εντολών |
+| 4 | [Menu Scroll](#menu-scroll) |
+| 5 | [Organise the terminal window into multiple areas](#organise-the-terminal-window-into-multiple-areas) |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
@@ -26,7 +26,7 @@
 
  Μέσα απο το μάθημα της επικοινωνίας ανθρώπου-υπολογιστή, έχω στόχο να μάθω για την αλληλεπίδραση του ανθρώπου με την μηχανή, τόσο σε θεωρητικό όσο και σε πρακτικό επίπεδο. Θα ήθελα να καταφέρω να σχεδιάζω διαπαφές χρηστών (User Interfaces) με τον καλύτερο δυνατό τρόπο, κάνοντας την χρήση του υπολογιστή μία πιο ευχάριστη εμπειρία. Ακόμα, χάρη στον τρόπο διεξαγωγής του μαθήματος θα έχω τη δυνατότητα να εξοικειωθώ με το GitHub, ένα πολύ χρήσιμο εργαλείο για όλους το προγραμματιστές που δεν είχα χρησιμοποιήσει μέχρι τώρα.
  
-## Άσκηση προγραμματισμού (Validation Form)
+## Validation Form
 
 Link άσκησης στο codepen: https://codepen.io/p2019033/pen/MWeeroz <br>
 Link στο github (remix): https://github.com/Tsimpliarakis/site/blob/master/_remix/form-validation.md<br>
@@ -47,9 +47,13 @@ Netlify Link: https://5fa1c27c8c0e1122d836bf16--cranky-noyce-69c03d.netlify.app/
 
 Asciinema link: https://asciinema.org/a/368186
 
-## Άσκηση προγραμματισμού (Menu Scroll)
+## Menu Scroll
 
 ![Imgur](https://imgur.com/YsVktD4.gif)
 
 Link άσκησης στο codepen: https://codepen.io/p2019033/pen/MWeQMZJ <br>
 Link στο github (remix): https://github.com/Tsimpliarakis/site/blob/master/_remix/menu-scroll.md
+
+## Organise the terminal window into multiple areas
+
+Asciinema link: https://asciinema.org/a/371655
