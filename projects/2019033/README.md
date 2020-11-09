@@ -7,11 +7,11 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της [εισαγωγής](#εισαγωγή) με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
-| 2 | [Validation-form](#validation-form) GUI |
-| 3 | [Setup the main dependencies and demonstrate base system](#άσκηση-γραμμής-εντολών) CLI |
-| 4 | [Menu Scroll](#menu-scroll) GUI |
-| 5 | [Organise the terminal window into multiple areas](#organise-the-terminal-window-into-multiple-areas) CLI |
+| 1 | Eισαγωγή [εισαγωγής](#εισαγωγή) |
+| 2 | [Validation-form](#validation-form) ~GUI~ |
+| 3 | [Setup the main dependencies and demonstrate base system](#άσκηση-γραμμής-εντολών) ~CLI~ |
+| 4 | [Menu Scroll](#menu-scroll) ~GUI~ |
+| 5 | [Organise the terminal window into multiple areas](#organise-the-terminal-window-into-multiple-areas) ~CLI~ |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
