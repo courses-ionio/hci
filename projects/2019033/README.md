@@ -7,11 +7,11 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | Eισαγωγή [εισαγωγής](#εισαγωγή) |
-| 2 | [Validation-form](#validation-form) ~GUI~ |
-| 3 | [Setup the main dependencies and demonstrate base system](#άσκηση-γραμμής-εντολών) ~CLI~ |
-| 4 | [Menu Scroll](#menu-scroll) ~GUI~ |
-| 5 | [Organise the terminal window into multiple areas](#organise-the-terminal-window-into-multiple-areas) ~CLI~ |
+| 1 | [Εισαγωγής](#εισαγωγή) |
+| 2 | [Validation-form](#validation-form) *GUI* |
+| 3 | [Setup the main dependencies and demonstrate base system](#άσκηση-γραμμής-εντολών) *CLI* |
+| 4 | [Menu Scroll](#menu-scroll) *GUI* |
+| 5 | [Organise the terminal window into multiple areas](#organise-the-terminal-window-into-multiple-areas) *CLI* |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
