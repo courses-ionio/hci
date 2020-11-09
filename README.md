@@ -34,6 +34,10 @@ https://www.codesprogram.com/icons/Font-awesome-hands-icons
 
 https://github.com/Thanozz/site/blob/master/_remix/button.md
 
+Και στο fork του αποθετηρίου του βιβλίου "Ο προγραμματισμός της διάδρασης" στις ασκήσεις του drop down menu.
+
+https://2019239.netlify.app
+
 ## Άσκηση γραμμής εντολών
 
 Άσκηση γραμμής εντολών. 
@@ -67,6 +71,10 @@ https://github.com/Thanozz/site/blob/master/_remix/button.md
 https://github.com/Thanozz/site/blob/master/_remix/image-filter.md
 
 Κατέληξα στα παραπάνω φίλτρα μελετώντας τα προτεινόμενα φίλτρα που βρίσκονταν σε σχόλια στο κώδικα και μετά από δοκιμές.
+
+Και στο fork του αποθετηρίου του βιβλίου "Ο προγραμματισμός της διάδρασης" στις ασκήσεις του drop down menu.
+
+https://2019239.netlify.app
 
 ## Άσκηση γραμμής εντολών
 
