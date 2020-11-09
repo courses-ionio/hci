@@ -28,7 +28,7 @@
 
 Στο δεύτερο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/button/) ζητούσε να προσθέσουμε μία λειτουργία της επιλογής μας όταν πατηθεί ένα κουμπί. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνει στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού. Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.
 
-https://github.com/rafael5gr2/site/blob/master/_remix/button.md
+https://github.com/rafael5gr2/site/blob/master/_remix/button.md  
 https://rafael5gr2.netlify.app/remix/button/
 
 # Παραδοτέο 3
@@ -41,7 +41,7 @@ https://rafael5gr2.netlify.app/remix/button/
 
 Στο τέταρτο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/image/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/button/) ζητούσε να δημιουργήσουμε δίπλα στην υπάρχουσα εικόνα, μια ίδια του μισού μεγέθους που να εκτελεί την ίδια λειτουργία με αυτην. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνει στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού. Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.
 
-https://github.com/rafael5gr2/site/blob/master/_remix/image.md
+https://github.com/rafael5gr2/site/blob/master/_remix/image.md  
 https://rafael5gr2.netlify.app/remix/image/
 
 # Παραδοτέο 5
