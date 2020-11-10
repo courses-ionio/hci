@@ -267,8 +267,6 @@ section.p15 a {
 
 [1.Setup powerline](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#setup-powerline)
 
-<br>
-
 [2.Configure a color-theme](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#2configure-a-color-theme)
 
 
