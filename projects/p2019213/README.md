@@ -93,7 +93,7 @@ she		} else {
 
 <h2>   :book:: Παραδοτέο 3</a></h2>
 
-### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 1 (hci πρώτη εργασία της επιλογής).
+### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 1 (warmup)(cid,dotfiles,shell conf,syshwd).
 <br>
 
 Η πρώτη εργασία γραμμής εντολών που επέλεξα είναι αυτή στο πρώτο box απο το [hci tags](https://github.com/epidrome/dokey) που έχει τα εξής <b>deliverables</b> `[(1.0 change your command prompt with your student ID), (2.0 list your dot files), (3.0 display your shell configuration file) (4.0 and display system information (hardware+software))]`.
@@ -255,7 +255,7 @@ section.p15 a {
 <br>
 <h2>   :book:: Παραδοτέο 5</h2>
 
-### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 2 (hci)(Powerline).
+### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 2 (hci)(Powerline statusbar&color scheme/theme).
 <br>
 
 Το ΟS που χρησιμοποιησα ειναι τα `Ubuntu 19.10`
