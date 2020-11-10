@@ -143,9 +143,9 @@ echo "The new hostname is $NEW_HOSTNAME"
 ```
 Εξήγηση κώδικα 
 
-Ένα if statement που ελέγχει το αν ο χρήστης έχει βάλει input η οχι δηλαδή:
-`./changehostname.sh input` -> Σώστο
-`./changehostname.sh` -> Λάθος
+Ένα if statement που ελέγχει το αν ο χρήστης έχει βάλει input η οχι δηλαδή: <br>
+`./changehostname.sh input` -> Σώστο <br>
+`./changehostname.sh` -> Λάθος <br>
 
 ```bash
 if [ ! -n "$1" ] ; then
