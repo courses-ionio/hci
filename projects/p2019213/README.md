@@ -127,14 +127,11 @@ fi
 CUR_HOSTNAME=$(cat /etc/hostname)
 NEW_HOSTNAME=$1
 
-# Display the current hostname
 echo "The current hostname is $CUR_HOSTNAME"
 
-# Change the hostname
 hostnamectl set-hostname $NEW_HOSTNAME
 hostname $NEW_HOSTNAME
 
-# Change hostname in /etc/hosts & /etc/hostname
 sudo sed -i "s/$CUR_HOSTNAME/$NEW_HOSTNAME/g" /etc/hosts
 sudo sed -i "s/$CUR_HOSTNAME/$NEW_HOSTNAME/g" /etc/hostname
 
@@ -155,7 +152,7 @@ fi
 ```
 <br>
 
-If statement που ελέγχει αν ο χρήστης που το "τρέχει" είναι root με την εντολή `id -u`. Ένα παράδειγμα επιστρόφης εντολής: <br>
+If statement που ελέγχει αν ο χρήστης που το "τρέχει" είναι root με την εντολή `id -u`. Ένα παράδειγμα επιστροφής εντολής: <br>
 `id -u result=> 1001` -> non root <br>
 `id -u result=> 0` -> root <br>
 
@@ -164,6 +161,14 @@ if [ "$(id -u)" != "0" ] ; then
 	echo "Sorry, you are not root."
 	exit 2
 fi
+```
+
+Αποθηκεύει σε δύο μεταβλητές το προηγούμενο hostname και το hostname που δέχτηκε σαν arg και εμφανίζει στην οθόνη το παλιό hostname. <br>
+```bash
+CUR_HOSTNAME=$(cat /etc/hostname)
+NEW_HOSTNAME=$1
+
+echo "The current hostname is $CUR_HOSTNAME"
 ```
 
 
