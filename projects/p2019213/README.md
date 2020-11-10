@@ -306,15 +306,5 @@ source ~/.bashrc
 
 #### 2.Configure a color-theme
 
-![preferences](https://github.com/p19tzam/photos/blob/main/preferences.PNG?raw=true)<br>
-Για να πάμε στις ρυθμίσεις κάνουμε right click πάνω στο τερματικό και επιλέγουμε `preferences`.
-
-![theme-colors](https://github.com/p19tzam/photos/blob/main/theme-colors.PNG?raw=true)<br>
-Solarized dark -> Εδώ είναι τα theme και τα χρώματα που μπορούμε να επιλέξουμε. 
-Επίσης μπορούμε στο palette να επεξεργαστούμε τα χρώματα απο το theme που επιλέξαμε.
-
-![new_theme](https://github.com/p19tzam/photos/blob/main/new_theme.PNG?raw=true)<br>
-Αλλαγή theme.
-
 ![new_color](https://github.com/p19tzam/photos/blob/main/new_color.PNG?raw=true)<br><br>
 #### :arrow_double_up:: [Επιστροφή στον πίνακα.](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#-%CF%80%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82-%CE%BC%CE%B5-%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7-%CF%84%CF%89%CE%BD-%CF%80%CF%81%CE%BF%CE%B8%CE%B5%CF%83%CE%BC%CE%B9%CF%8E%CE%BD-%CE%BA%CE%B1%CE%B9-%CF%84%CF%89%CE%BD-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CF%89%CE%BD)
