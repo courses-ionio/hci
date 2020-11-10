@@ -107,7 +107,7 @@ she		} else {
 
 #### 1.0 change your command prompt with your student ID
 
-Απλός τρέχω το bash script και βάζω γράφω δίπλα το νέο hostname που θέλω να βάλω(προσοχή!Θέλει δικαιώματα root!).
+Απλός τρέχω το bash script και γράφω δίπλα το νέο hostname που θέλω να βάλω(προσοχή!Θέλει δικαιώματα root!).
 [![asciicast](https://asciinema.org/a/371945.svg)](https://asciinema.org/a/371945)<br>
 *Μόλις γίνει restart το τερματικό το νέο hostname θα εμφανιστεί.
 <br>
