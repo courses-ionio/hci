@@ -11,9 +11,9 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
-| 2 | [Mouse Form](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#2%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
+| 2 | [Άσκηση προγρμματισμού: Mouse Form](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#2%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 3 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#3%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
-| 4 | [Menu pie](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#4%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
+| 4 | [Άσκηση προγραμματισμού: Menu pie](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#4%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 5 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#5%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 6 | συμμετοχικό περιεχόμενο |
 | 7 |  Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)|
@@ -71,4 +71,4 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 
 - Ιστοσελίδες από τις οποίες έμαθα να χρησιμοποιώ το τερματικό για τις διάφορες δραστηριότητες στο todo.txt: [If you want to get it done, first write it down.](http://todotxt.org/) και ['Getting to Done' on the Linux command line](https://opensource.com/article/18/2/getting-to-done-agile-linux-command-line).
 
-Η λύση της άσκησης βρίσκεται στο ακόλουθο link: https://asciinema.org/a/TBptUrASfcqWBulyAZR3CaEqU
+Η λύση της άσκησης βρίσκεται στο ακόλουθο link: https://asciinema.org/a/TBptUrASfcqWBulyAZR3CaEqU.
