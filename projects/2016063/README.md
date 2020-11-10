@@ -18,10 +18,34 @@
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
-          
-                                               Παραδοτεο 2  Ασκηση Προγραμματισμου
+                                                        Παραδοτεο 2  Ασκηση Προγραμματισμου
                                                
-        Παράδειγμα διαδραστικού κώδικα που ταξινομεί μια λίστα με τη χρήση του ποντικιού. Χρησιμοποιείται το στοιχείο sortable της JavaScript βιβλιοθήκης JQueryUI (https://jqueryui.com/sortable).                       
+   Παράδειγμα διαδραστικού κώδικα που ταξινομεί μια λίστα με τη χρήση του ποντικιού. Χρησιμοποιείται το στοιχείο sortable της JavaScript βιβλιοθήκης JQueryUI (https://jqueryui.com/sortable).                       
       
-      <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p16andr" data-slug-hash="KKMGyXy" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Pibook Sortable"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/KKMGyXy"> Pibook Sortable</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p>
- <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+   <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p16andr" data-slug-hash="KKMGyXy" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Pibook Sortable"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/KKMGyXy"> Pibook Sortable</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p> <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+                                                       Παραδοτεο 4 Ασκηση Προγραμματισμου
+                                             
+   Παράδειγμα διαδραστικού κώδικα στον οποίο όταν εκτελείται από το χρήστη η λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα στο συγκεκριμένο παράδειγμα) μεγενθύνεται η εικόνα (zoom) χωρίς να αλλάζουν οι διαστάσεις του πλαισίου . 
+       
+   <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p16andr" data-slug-hash="JjKeKEm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Background Image zoom"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/JjKeKEm"> Background Image zoom</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span></p> <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+                    
+                    
+                    
+                    
+                    
+                    
+
