@@ -140,12 +140,18 @@ sudo sed -i "s/$CUR_HOSTNAME/$NEW_HOSTNAME/g" /etc/hostname
 
 # Display new hostname
 echo "The new hostname is $NEW_HOSTNAME"
-
-
-
 ```
+Εξήγηση κώδικα 
 
+Ένα if statement που ελέγχει το αν ο χρήστης έχει βάλει input η οχι δηλαδή:
+`./changehostname.sh input` -> Σώστο
+`./changehostname.sh` -> Λάθος
 
+```bash
+if [ ! -n "$1" ] ; then
+	echo 'Missing argument: new_hostname'
+	exit 1
+```
 #### 2.0 list your dot files
 Δημιουργούμε 10 hidden files με bash scripting.
 ```bash
