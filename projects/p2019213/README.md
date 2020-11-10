@@ -265,6 +265,9 @@ section.p15 a {
 Εγώ για να προσθέσω status bar επέλεξα το [powerline](https://github.com/powerline/powerline) που επίσης το προτείνει η εκφώνηση στα references. 
 Και αλλάζω color theme όπως δείχνω στις εικόνες.
 
+[1.Setup powerline](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#setup-powerline)
+[2.Configure a color-theme](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#setup-powerline)
+
 ![preferences](https://github.com/p19tzam/photos/blob/main/preferences.PNG?raw=true)
 Για να πάμε στις ρυθμίσεις κάνουμε right click πάνω στο τερματικό και επιλέγουμε `preferences`.
 
