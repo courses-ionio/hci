@@ -67,7 +67,7 @@
 # Παραδοτέο 5
 ## 
 
-### Βήμα 1ο: Getting a text editor, Vim or Emacs?
+### Getting a text editor, Vim or Emacs?
 ![γραφήματα](https://www.dropbox.com/s/4fkjf5pm85kkyy4/1-1.jpg?raw=1)
 
 Με βάση αυτό το γράφημα επέλεξα το Vim ως text editor, αν και το Emacs φαίνεται σαν ένα ωραίο challenge, για μια άλλη φορά ίσως. Το Linux community το περιγράφει ως ένα "sandbox χωρίς διακριτό σημείο έναρξης".
@@ -75,29 +75,29 @@
 Σημείωση: Προς έκπληξή μου ήταν ήδη εγκατεστημένο στο σύστημά μου.
 [![asciicast](https://asciinema.org/a/9ieOlRRPqB06Y0NhVLU4IjG2U.svg)](https://asciinema.org/a/9ieOlRRPqB06Y0NhVLU4IjG2U)
 
-### Βήμα 2ο: Figuring out Vim
+### Figuring out Vim
 Παρά τους οδηγούς που βρήκα online, δυσκολεύτηκα να συνηθήσω τον χειρισμό του Vim. Το πιο δύσκολο να ανακαλύψω ήταν πως να σβήνω μόνο ένα γράμμα σε περίπτωση typo. Τα shortcuts για αυτό τα βρήκα σχεδόν κατά τύχη, οπότε υποψιάζομαι πως υπάρχει βέλτιστος τρόπος και δεν ήταν αυτός που χρησιμοποιούσα (αργότερα ανακάλυψα πως με το Backspace μπορώ να αντικαταστήσω έναν από τους προηγούμενους χαρακτήρες ενώ εγώ πατούσα Esc -> x -> a)
 
 [![asciicast](https://asciinema.org/a/qAygov6XVFRVWq9a22Hk6pydR.svg)](https://asciinema.org/a/qAygov6XVFRVWq9a22Hk6pydR)
 
-### Βήμα 3ο: Installing Pandoc
+### Installing Pandoc
 Δεν βρήκα το Pandoc στο AUR οπότε πήγα back to basics και το εγκατέστησα ως tarball.
 
 [![asciicast](https://asciinema.org/a/0k4y6AVTUqmLp0hRjF6u8Yk1Z.svg)](https://asciinema.org/a/0k4y6AVTUqmLp0hRjF6u8Yk1Z)
 
-### Βήμα 4ο: Configuring git and and commiting changes
+### Configuring git and and commiting changes
 Θα δείτε πολλά λάθη κατά τη διάρκεια του configuration. (this serves as a good guide: What not to do while setting up Git)
 
 [![asciicast](https://asciinema.org/a/jQbShyhuiYlMqABO03ClAnHrc.svg)](https://asciinema.org/a/jQbShyhuiYlMqABO03ClAnHrc)
 
 [![asciicast](https://asciinema.org/a/cM3nldhKOYHSmduHzXeSpyaLU.svg)](https://asciinema.org/a/cM3nldhKOYHSmduHzXeSpyaLU)
 
-### Βήμα 5ο: Using pandoc to change format
+### Using pandoc to change format
 Το pandoc αποδείχτηκε μια πολύ χρήσιμη εφαρμογή, καθώς μπορεί πολύ εύκολα να μετατρέψει, ακόμα και plaintext σε html, ή άλλο format. Αυτό γίνεται σε ελάχιστο χρόνο μέσα από απλές εντολές στο terminal.
  
  [![asciicast](https://asciinema.org/a/aEfZbDI3b4jo2N8GoT1NwHZeB.svg)](https://asciinema.org/a/aEfZbDI3b4jo2N8GoT1NwHZeB)
  
- ### Βήμα 6ο: Track formatting with git
+ ### Track formatting with git
  
  [![asciicast](https://asciinema.org/a/4y8uLlwlUDMtbqSqjGgwjytaY.svg)](https://asciinema.org/a/4y8uLlwlUDMtbqSqjGgwjytaY)
  
