@@ -259,6 +259,23 @@ section.p15 a {
 
 άσκηση γραμμής εντολών [`add a status bar to your shell/editor and configure a color-theme`]
 
+#### Εισαγωγή για παραδοτέο 5
+Στο παραδοτέο 5 έχουμε να παραδόσουμε την 2η άσκηση γραμμής εντολών.
+Εγώ επέλεξα μια απο τις πολλές που εχει στο hci tag που έπρεπε να προσθέσω ενα status bar στο τερματικό μου με οποιον τροπο θέλουμε(νομίζω) και να αλλάξουμε color και theme απο το τερματικό.
+Εγώ για να προσθέσω status bar επέλεξα το [powerline](https://github.com/powerline/powerline) που επίσης το προτείνει η εκφώνηση στα references. 
+Και αλλάζω color theme όπως δείχνω στις εικόνες.
+
+![preferences](https://github.com/p19tzam/photos/blob/main/preferences.PNG?raw=true)
+Για να πάμε στις ρυθμίσεις κάνουμε right click πάνω στο τερματικό και επιλέγουμε `preferences`.
+
+![theme-colors](https://github.com/p19tzam/photos/blob/main/theme-colors.PNG?raw=true)
+Solarized dark -> Εδώ είναι τα theme και τα χρώματα που μπορούμε να επιλέξουμε. 
+Επίσης μπορούμε στο palette να επεξεργαστούμε τα χρώματα απο το theme που επιλέξαμε.
+
+![new_theme](https://github.com/p19tzam/photos/blob/main/new_theme.PNG?raw=true)
+Αλλαγή theme.
+
+![new_color](https://github.com/p19tzam/photos/blob/main/new_color.PNG?raw=true)
 
 ### Setup powerline
 
