@@ -107,41 +107,44 @@ $(document).ready(function () {
 
 #### 1.0 change your command prompt with your student ID
 
-Δημιουργουμε ενα νεο user με το αμ μας για id. Και βαζουμε τα στοιχεια που μας ζηταει.
-
+Απλός τρέχω το bash script και βάζω γράφω δίπλα το νέο hostname που θέλω να βάλω(προσοχή!Θέλει δικαιώματα root!).
+[![asciicast](https://asciinema.org/a/371945.svg)](https://asciinema.org/a/371945)
+<br>
+Ο κώδικας για του bash script μου που αλλάζει το hostname (root!)
 ```bash
-sudo adduser p2019213
-```
-και τα στοιχεια που ζητάει ειναι καπως ετσι
+#!/bin/bash
+
+if [ ! -n "$1" ] ; then
+	echo 'Missing argument: new_hostname'
+	exit 1
+fi
+
+if [ "$(id -u)" != "0" ] ; then
+	echo "Sorry, you are not root."
+	exit 2
+fi
+
+CUR_HOSTNAME=$(cat /etc/hostname)
+NEW_HOSTNAME=$1
+
+# Display the current hostname
+echo "The current hostname is $CUR_HOSTNAME"
+
+# Change the hostname
+hostnamectl set-hostname $NEW_HOSTNAME
+hostname $NEW_HOSTNAME
+
+# Change hostname in /etc/hosts & /etc/hostname
+sudo sed -i "s/$CUR_HOSTNAME/$NEW_HOSTNAME/g" /etc/hosts
+sudo sed -i "s/$CUR_HOSTNAME/$NEW_HOSTNAME/g" /etc/hostname
+
+# Display new hostname
+echo "The new hostname is $NEW_HOSTNAME"
+
+
 
 ```
-Adding user `p2019213' ...                                                                                                                                                       
-Adding new group `p2019213' (1001) ...                                                                                                                                           
-Adding new user `p2019213' (1001) with group `p2019213' ...                                                                                                                      
-Creating home directory `/home/p2019213' ...                                                                                                                                     
-Copying files from `/etc/skel' ...                                                                                                                                               
-New password:                                                                                                                                                                    
-Retype new password:                                                                                                                                                             
-passwd: password updated successfully                                                                                                                                            
-Changing the user information for p2019213                                                                                                                                       
-Enter the new value, or press ENTER for the default                                                                                                                              
-        Full Name []: Dimosten Tzama                                                                                                                                             
-        Room Number []: 2019213                                                                                                                                                  
-        Work Phone []: 2019213                                                                                                                                                   
-        Home Phone []: 2019213                                                                                                                                                   
-        Other []: 2019213                                                                                                                                                        
-Is the information correct? [Y/n] y  
-```
-Μετα την δημιουργια του user πρεπει να δωσουμε root permissions με την εντολή
-<br>
-```sudo usermod -aG sudo username```
 
-Και τώρα πρεπει να κανουμε switch(login) στον user που δημιουργισαμε με τον κωδικο που βαλαμε.
-<br>
-```su username```
-
-[![asciicast](https://asciinema.org/a/370560.svg)](https://asciinema.org/a/370560)
-<br>
 
 #### 2.0 list your dot files
 Δημιουργούμε 10 hidden files με bash scripting.
