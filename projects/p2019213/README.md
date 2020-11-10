@@ -141,9 +141,9 @@ sudo sed -i "s/$CUR_HOSTNAME/$NEW_HOSTNAME/g" /etc/hostname
 # Display new hostname
 echo "The new hostname is $NEW_HOSTNAME"
 ```
-Εξήγηση κώδικα 
+#### Εξήγηση κώδικα bash script
 
-Ένα if statement που ελέγχει το αν ο χρήστης έχει βάλει input η οχι δηλαδή: <br>
+If statement που ελέγχει το αν ο χρήστης έχει βάλει input η οχι δηλαδή: <br>
 `./changehostname.sh input` -> Σώστο <br>
 `./changehostname.sh` -> Λάθος <br>
 
@@ -151,7 +151,22 @@ echo "The new hostname is $NEW_HOSTNAME"
 if [ ! -n "$1" ] ; then
 	echo 'Missing argument: new_hostname'
 	exit 1
+fi
 ```
+<br>
+
+If statement που ελέγχει αν ο χρήστης που το "τρέχει" είναι root με την εντολή `id -u`. Ένα παράδειγμα επιστρόφης εντολής: <br>
+`id -u result=> 1001` -> non root <br>
+`id -u result=> 0` -> root <br>
+
+```bash
+if [ "$(id -u)" != "0" ] ; then
+	echo "Sorry, you are not root."
+	exit 2
+fi
+```
+
+
 #### 2.0 list your dot files
 Δημιουργούμε 10 hidden files με bash scripting.
 ```bash
