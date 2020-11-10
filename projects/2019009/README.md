@@ -59,5 +59,6 @@ https://codepen.io/p19barl/pen/MWeVRzr
 
 
 # Παραδοτεο 5 (Ασκηση γραμμης εντολων)
+Σαν ασκηση προγραμματισμου (παραδοτεο 5 ) επελεξα την τελευταια ασκηση απο τον πινακα hci η οποια ειχε ως ζητουμενο (use one window to search-edit local files or browse the web and another window for performance monitoring) χρησιμοποιοντας για performance monitoring το εργαλειο tmux.Στο βιντεο αφου κανω install το tmux με την εντολη ## htop ανοιγω τον πινακα με τις επιδοσεις του μηχανιματος και αφου κανω ενα τυπικο search στον firefox με το f9 κανω kill το tmux.
 
 <a href="https://asciinema.org/a/371806" target="_blank"><img src="https://asciinema.org/a/371806.svg" /></a>
