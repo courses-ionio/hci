@@ -52,7 +52,7 @@ https://rafael5gr2.netlify.app/remix/image/
 
 # Παραδοτέο 5
 
-Στο πέμπτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (add a status bar to your shell/editor and configure a color-theme) !!!TODO!!! !!!TODO!!! !!!TODO!!! !!!TODO!!! !!!TODO!!! !!!TODO!!! !!!TODO!!! !!!TODO!!!. Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema, με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.  
+Στο πέμπτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (add a status bar to your shell/editor and configure a color-theme) ζητούσε να βάλουμε ένα status bar στο shell μας και στο editor μας και μετά να βάλουμε ένα color-theme της επιλογής μας. Ως shell χρησιμοποιώ το bash και ως editor το vim. Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema, με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.  
   
 Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών.
   
