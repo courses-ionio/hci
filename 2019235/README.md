@@ -14,7 +14,7 @@
 | 1 |Intro to HCI and basic github |
 | 2 | [Interactive text](#Παραδοτέο-2) | 
 | 3 | **Getting familiar with bash** <br/> [Student ID on bash](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#getting-familiar-with-bash)<br/> [Show dot files, shell configuration and system info](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CE%B5%CE%BC%CF%86%CE%AC%CE%BD%CE%B9%CF%83%CE%B7-dot-files-shell-configuration-file-%CE%BA%CE%B1%CE%B9-system-information)|
-|   | [Search/Download Torrents through bash](search download https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#searchdownload-torrents-through-bash)|
+|   | [Search/Download Torrents through bash](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#searchdownload-torrents-through-bash)|
 | 4 | [Keyboard input](#Παραδοτέο-4) |
 | 5 | **Convert between different text formats** <br/>[Getting a text editor, Vim or Emacs?](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#getting-a-text-editor-vim-or-emacs)<br/>[Figuring out Vim](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#figuring-out-vim)<br/>[Installing Pandoc](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#installing-pandoc)<br/>[Using pandoc to change format](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#using-pandoc-to-change-format)<br/>[Track formatting with git](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#track-formatting-with-git)|
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
