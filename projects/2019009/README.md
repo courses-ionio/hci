@@ -55,3 +55,9 @@ https://codepen.io/p19barl/pen/BazzKXB
 </p>
 https://codepen.io/p19barl/pen/MWeVRzr
 
+
+
+
+# Παραδοτεο 5 (Ασκηση γραμμης εντολων)
+
+<a href="https://asciinema.org/a/371806" target="_blank"><img src="https://asciinema.org/a/371806.svg" /></a>
