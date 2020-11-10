@@ -181,7 +181,7 @@ hostname $NEW_HOSTNAME
 Εδώ όπως βλέπουμε χρησιμοποιώ το sed.<br>
 Το sed είναι επεξεργαστής ροής(stream editor). Ένας επεξεργαστής ροής χρησιμοποιείται για την εκτέλεση βασικών μετασχηματισμών κειμένου σε μια ροή εισόδου(input stream) (ένα αρχείο ή εισαγωγή από ένα αγωγό(pipeline)).
 <br>
-Εδώ κάνει αντικατάσταση τα παλιά hosts και hostname αρχεία με τα καινούργια που είναι το νέο hostname και στο τέλος εμφανίζει στην οθόνη το νέο hostname.<br>
+Αντικατάσταση τα παλιά hosts και hostname αρχεία με τα καινούργια που είναι το νέο hostname και στο τέλος εμφανίζει στην οθόνη το νέο hostname.<br>
 ```bash
 sudo sed -i "s/$CUR_HOSTNAME/$NEW_HOSTNAME/g" /etc/hosts
 sudo sed -i "s/$CUR_HOSTNAME/$NEW_HOSTNAME/g" /etc/hostname
