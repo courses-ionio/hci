@@ -13,10 +13,10 @@
 | --- | --- |
 | 1 |Intro to HCI and basic github |
 | 2 | [Interactive text](#Παραδοτέο-2) | 
-| 3 | **Getting familiar with bash** <br/> [Student ID on bash](###Αλλαγή-ονόματος-σε-Student-ID-στο-bash)<br/> [Show dot files, shell configuration and system info](###Εμφάνιση-dot-files,-shell-configuration-file-και-System-information)|
-|   | [Search/Download Torrents through bash](#Bonus)|
+| 3 | **Getting familiar with bash** <br/> [Student ID on bash](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#getting-familiar-with-bash)<br/> [Show dot files, shell configuration and system info](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CE%B5%CE%BC%CF%86%CE%AC%CE%BD%CE%B9%CF%83%CE%B7-dot-files-shell-configuration-file-%CE%BA%CE%B1%CE%B9-system-information)|
+|   | [Search/Download Torrents through bash](search download https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#searchdownload-torrents-through-bash)|
 | 4 | [Keyboard input](#Παραδοτέο-4) |
-| 5 | **Convert between different text formats** <br/>[Getting a text editor, Vim or Emacs?](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#getting-a-text-editor-vim-or-emacs)<br/>[Figuring out Vim](##Figuring-out-Vim)<br/>[Installing Pandoc](##Installing-pandoc)<br/>[Using pandoc to change format](##Using-pandoc-to-change-format)<br/>[Track formatting with git](##Track-formatting-with-git)|
+| 5 | **Convert between different text formats** <br/>[Getting a text editor, Vim or Emacs?](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#getting-a-text-editor-vim-or-emacs)<br/>[Figuring out Vim](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#figuring-out-vim)<br/>[Installing Pandoc](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#installing-pandoc)<br/>[Using pandoc to change format](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#using-pandoc-to-change-format)<br/>[Track formatting with git](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#track-formatting-with-git)|
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
