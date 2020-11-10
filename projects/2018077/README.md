@@ -75,25 +75,25 @@
   Η αρχική μορφή του vim ήταν πολύ απλή, έτσι λοιπόν εγκατέστησα τα plugins `vundle` κ’ `plug-in`.
   * Vundle : 
       Xρησιμοποιήθηκε κυρίως για το οπτικό αποτέλεσμα. 
-      Παρόλο που κατέβασα αρκετά πακέτα κατέληξα να χρησιμοποιήσω το `guvboxr` το οποίο χρησιμοποιεί έχει ένα ποίο αρκετά retro μορφή.
-  *Plug-in :
+      Παρόλο που κατέβασα αρκετά πακέτα κατέληξα να χρησιμοποιήσω το `guvboxr` το οποίο χρησιμοποιεί έχει ένα ποίο αρκετά retro μορφή με την βοήθεια του `.vimrc` και εντολών *set*.
+  * Plug-in :
       Χρησιμοποίησα τα πακέτα `python-mode` , `jedi-vim` και `NERDTree`. 
       Τα  `python-mode` κ `jedi-vim`  μετατρέπουν το vim σε python editor όπου με τα πλήκτρα <Ctl+Space> εμφανίζετε η συντακτική συμπλήρωση που ενδέχεται να τερερίζει σύμφωνα με την Python3.  
       Το `NERDTree` ουσιαστικά βοηθάει στην πλοήγηση στα αρχεία μέσο του vim.
- Εκτός από τα plugins χρησιμοποίηση την εντολή set για να προσθέσω αριθμούς στα αριστερά, όταν πατείτε το Tab Key μετακινείτε ο κέρσορας 4 θέσει και τέλος η γραμμή που τροποποιήθηκε τελευταία αποκτά μια σκίαση και το νούμερο της φωτίζει ενώ τα νούμερα των υπόλοιπων γραμμών γίνονται γκρι. 
+ Εκτός από τα plugins χρησιμοποίηση την εντολή *set* για να προσθέσω αριθμούς στα αριστερά, όταν πατείτε το <Tab> μετακινείτε ο κέρσορας 4 θέσει και τέλος η γραμμή που τροποποιήθηκε τελευταία αποκτά μια σκίαση και το νούμερο της φωτίζει ενώ τα νούμερα των υπόλοιπων γραμμών γίνονται γκρι. 
       
    * Πηγές : 
-      -[7](https://staff.washington.edu/rells/R110/) , [8](https://linuxhint.com/vimrc_tutorial/) : Vim Editor tutorial
-      -[9](https://linuxhint.com/vim-vundle-tutorial/) : Vundle tutorial
-      -[10](https://github.com/VundleVim/Vundle.vim) : Vundle
-      -[11](https://vimawesome.com/plugin/vim-colors-solarized-ours) , [12](https://github.com/altercation/vim-colors-solarized) : `colors-solarized`  
-      -[13](https://vimawesome.com/plugin/guvboxr) : `guvboxr`
-      -[14](http://i05nagai.github.io/memorandum/vim/jedi_vim.html) , [15](https://github.com/davidhalter/jedi-vim) : `jedi-vim` 
-      -[16](https://github.com/python-mode/python-mode) , [17](https://realpython.com/vim-and-python-a-match-made-in-heaven/) : `python-mode` 
-      -[18](https://github.com/junegunn/vim-plug) : `vim-plug` 
-      -[19](https://github.com/Vimjas/vim-python-pep8-indent) : `vim-python` 
-      -[20](https://vimawesome.com/plugin/nerdtree-red) : `NERDTree`
-      -[21](https://linuxhint.com/configure_vim_vimrc/) : set
+      - [7](https://staff.washington.edu/rells/R110/) , [8](https://linuxhint.com/vimrc_tutorial/) : Vim Editor tutorial
+      - [9](https://linuxhint.com/vim-vundle-tutorial/) : Vundle tutorial
+      - [10](https://github.com/VundleVim/Vundle.vim) : Vundle
+      - [11](https://vimawesome.com/plugin/vim-colors-solarized-ours) , [12](https://github.com/altercation/vim-colors-solarized) : `colors-solarized`  
+      - [13](https://vimawesome.com/plugin/guvboxr) : `guvboxr`
+      - [14](http://i05nagai.github.io/memorandum/vim/jedi_vim.html) , [15](https://github.com/davidhalter/jedi-vim) : `jedi-vim` 
+      - [16](https://github.com/python-mode/python-mode) , [17](https://realpython.com/vim-and-python-a-match-made-in-heaven/) : `python-mode` 
+      - [18](https://github.com/junegunn/vim-plug) : `vim-plug` 
+      - [19](https://github.com/Vimjas/vim-python-pep8-indent) : `vim-python` 
+      - [20](https://vimawesome.com/plugin/nerdtree-red) : `NERDTree`
+      - [21](https://linuxhint.com/configure_vim_vimrc/) : *set*
 
   
 
