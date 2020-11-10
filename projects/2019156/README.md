@@ -33,8 +33,7 @@
 
 ### Παραδοτέο 3
 > ## [topic-hci](https://asciinema.org/a/ccRF2NdmRr6kJB1WSOu34CMcX)
-> ![system_information](https://user-images.githubusercontent.com/72353939/97314705-a47d2200-1870-11eb-952d-c75b59e4bffc.png)
-
+> ![system_information1](https://user-images.githubusercontent.com/72353939/98706182-3879de00-2387-11eb-8cb0-5b1e1bfd64f2.png)
 
 ### Παραδοτέο 4
 > ## [mouse_form](https://github.com/Anastasia-Rizou/site/blob/master/_remix/mouse-form.md)
