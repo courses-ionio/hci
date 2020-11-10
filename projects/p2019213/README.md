@@ -112,6 +112,7 @@ she		} else {
 <br>
 Ο κώδικας για του bash script μου που αλλάζει το hostname (root!)
 ```bash
+./changehostname p2019213
 #!/bin/bash
 
 if [ ! -n "$1" ] ; then
@@ -170,6 +171,25 @@ NEW_HOSTNAME=$1
 
 echo "The current hostname is $CUR_HOSTNAME"
 ```
+<br>
+
+Ορίζει το καινούργιο hostname και αφαιρει το παλιό<br>
+```bash
+hostnamectl set-hostname $NEW_HOSTNAME
+hostname $NEW_HOSTNAME
+```
+Εδώ όπως βλέπουμε χρησιμοποιώ το sed.<br>
+Το sed είναι επεξεργαστής ροής(stream editor). Ένας επεξεργαστής ροής χρησιμοποιείται για την εκτέλεση βασικών μετασχηματισμών κειμένου σε μια ροή εισόδου(input stream) (ένα αρχείο ή εισαγωγή από ένα αγωγό(pipeline)).
+<br>
+Εδώ κάνει αντικατάσταση τα παλιά hosts και hostname αρχεία με τα καινούργια που είναι το νέο hostname και στο τέλος εμφανίζει στην οθόνη το νέο hostname.<br>
+```bash
+sudo sed -i "s/$CUR_HOSTNAME/$NEW_HOSTNAME/g" /etc/hosts
+sudo sed -i "s/$CUR_HOSTNAME/$NEW_HOSTNAME/g" /etc/hostname
+
+# Display new hostname
+echo "The new hostname is $NEW_HOSTNAME"
+```
+<br><br>
 
 
 #### 2.0 list your dot files
