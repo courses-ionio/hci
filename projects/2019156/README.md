@@ -1,8 +1,10 @@
 > Ρίζου Αναστασία
 > Π2019156
-> [https://github.com/Anastasia-Rizou/site]
+> 
+>[https://github.com/Anastasia-Rizou/site]
 
-
+| Εβδομάδα* | Παραδοτέο |
+| --- | --- |
 | 1 | [Εισαγωγή ](#Syllabus) |
 | 2 |[ Άσκηση προγραμματισμού ](#mouse_option) |
 | 3 | [ Άσκηση γραμμής εντολών ](#topic-hci) |
