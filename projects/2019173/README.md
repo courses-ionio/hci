@@ -15,7 +15,7 @@
 | 3 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#3%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 4 | [Άσκηση προγραμματισμού: Menu pie](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#4%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 5 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#5%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
-| 6 | [Συμμετοχικό περιεχόμενο: Α1) δύο εικόνες και Α2) σετ διαφανειών και χρονολόγιο που σχετίζεται με τις εικόνες](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#6%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
+| 6 | [Συμμετοχικό περιεχόμενο: Α1) δύο εικόνες με λεζάντες και Α2) σετ διαφανειών και χρονολόγιο που σχετίζονται με τις εικόνες](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#6%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 7 |  Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)|
 | 8 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 9 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
