@@ -78,6 +78,6 @@ document.onkeydown = function(e) {<br>
   <br> <h6>Βιβλιογραφία</h6>
   <ul><br> <a href="https://github.com/epidrome/dokey#hci">Λίστα με τις ασκήσεις γραμμής εντολών.</a>
  <br> <a href="https://asciinema.org">Asciinema</a><br>
- <a href="https://www.youtube.com/watch?v=NiO_QyF7CVo">Vimrc configuration(Youtube video)</a>
+ <a href="https://www.youtube.com/watch?v=NiO_QyF7CVo">Vimrc configuration(Youtube video)</a><br>
  <a href="https://linuxhint.com/configure_vim_vimrc">Commands about vimrc</a></ul>
   
