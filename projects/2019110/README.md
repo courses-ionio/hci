@@ -24,16 +24,16 @@
 ### Mouse Form
 
 &nbsp; Όπως αναφέρεται και στον πίνακα περιεχομένων την συκγεκριμένη εβδομάδα πραγματοποίησα μια από τις εργασίες προγραμματισμού (Παραδοτέο 2). Ώς πρώτη εντύπωση οι κώδικες από τις εργασίες που μας δόθηκαν φαίνοταν απαιτητικοί και δημιούργησαν μεγάλη σύχγχυση. Ανάμεσα στην μεγάλη λίστα των ασκήσεων προγραμματισμού έχοντας εξερευνίσει τις απαιτήσεις από κάποιες από αυτές κατέληξα να πραγματοποίησω την **"Mouse Form"**. Πρόκειται για ένα παράθυρο που εφμανίζεται στο χρήστη τον οποίο υποχρεώνει να συμπληρώσει αναλυτικά την ημερομηνία γέννησης του κάτι το οποίο είναι πολύ συνηθισμένο στον χώρο του διαδικτύου. Ο κώδικας βασιζόταν στην HTML και CSS αποκλειστικά γεγονός το οποίο με οδήγησε στο να εστιάσω απλός στις δύο αυτές γλώσσες προγραμματισμού και ειδικότερα στην HTML. Η μόνη απαίτηση λοιπόν ήταν να προσαρμόσω κάποιες ήδη υπάρχουσες εντολές που επαναλαμβάνοταν διαρκώς ώστε να δημιουργήσω ένα επιπλέον κουτάκι που παίρνει ως δεδομένα τα φύλα (άνδρας,γυναίκα).  
-Σύνδεσμος για: [pibook](https://github.com/p19pasc/site/blob/master/_remix/mouse-form.md)    
-Σύνδεσμος για: [pibook(Netlify)](https://codingexercisesp2019110.netlify.app/remix/mouse-form/) 
+* Σύνδεσμος για: [pibook](https://github.com/p19pasc/site/blob/master/_remix/mouse-form.md)    
+* Σύνδεσμος για: [pibook(Netlify)](https://codingexercisesp2019110.netlify.app/remix/mouse-form/) 
 
 ### Mouse option
  
 <img align="right" width="500" height="410" src="https://i.postimg.cc/rFnGKQHh/Screenshot-248.png"> 
 &nbsp; Ύστερα από αρκετή ώρα αναζήτησης στις διαθέσιμες ασκήσεις προγραμματισμού κατέληξα να επιλέξω την **Μouse option** (Παραδοτέο 4). Πρόκειται για ένα πλαίσιο το οποίο δίνει τη δυνατότητα στον χρήστη να κάνει κλικ στις επιλογές που του εμφανίζει. Συγκεκριμένα οι επιλογές ήταν δύο στην αρχή και επεκτίνοντας τον κώδικα πρόσθεσα άλλες δύο. Το περιεχόμενο τους αποτελείται από πολύ μικρά κειμενάκια και εικόνες τα οποία αναφέρονται στις πρώτες διαφάνειες που έχουμε αναλύσει στο μάθημα **Εκικοινωνία ανθρώπου-υπολογιστή**. Συγκεκριμένα αναφέρθηκα στο γεγονός ότι η τεχνολογία εξελίσσεται αλλά ο άνθρωπος δεν μπορεί να αλλάξει εύκολα συνήθεια γιαυτό ο τρόπος με τον οποίο αλληλεπιδρά με τον υπολογιστή παραμένει ο ίδιος. Επίσης σύγκρινα τις ικανότητες που κατείχαν οι χρήστες των πρώτων σταθερών υπολογιστών σε σχέση με τους χρήστες της σύγχρονης εποχής αφού οποιαδήποτε ενέργεια πραγματοποιούταν από εντολές που πληκτρολογούταν στην γραμμή εντολών.         
 
-Σύνδεσμος για: [pibook](https://github.com/p19pasc/site/blob/master/_remix/mouse-option.md)  
-Σύνδεσμος για: [pibook(Netlify)](https://codingexercisesp2019110.netlify.app/remix/mouse-option/)
+* Σύνδεσμος για: [pibook](https://github.com/p19pasc/site/blob/master/_remix/mouse-option.md)  
+* Σύνδεσμος για: [pibook(Netlify)](https://codingexercisesp2019110.netlify.app/remix/mouse-option/)
 
 
 # Ασκήσεις γραμμής εντολών
@@ -52,6 +52,9 @@ mouse option: https://postimages.org/
 [homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
 [asciinema](https://asciinema.org/docs/installation)  
 text editor and plug-ins for code highlighting and autocompletion : https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint , https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint , 
+### Εμφανησιακή επεξεργασία 
+[Ανέβασμα εικόνων](https://postimages.org/)   
+[Καλιμπράρισμα εικόνων](https://www.youtube.com/watch?v=f4ifdKCH7VI&ab_channel=PeterC)
 
 
 
