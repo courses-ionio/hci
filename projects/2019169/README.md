@@ -73,13 +73,11 @@ document.onkeydown = function(e) {<br>
   <hr></hr>
   
   <h2><span id="Vim_editor.">Vim_editor.</span></h2>
-  <p>Η άσκηση γραμμής εντολών που επέλεξα να υλοποιήσω ζητούσε να επεξεργαστώ το vim configuration file. Η αλήθεια είναι πως δεν γνώριζα πως μπορεί να γίνει η επεξεργασία του, διότι δεν έχω ξανασχοληθεί με αυτό. Ήταν αρκετά δύσκολο να το υλοποιήσω θα μπορούσα να πω. Μετά από μια έρευνα που έκανα στο google βρήκα πληροφορίες. Επίσης χρησιμοποίησα αυτή την φορά μια το ubuntu μέσω του VMware, διότι το Windows Sub System for Linux με έβγαζε αρκετά προβλήματα και πράγματα τα οποία μπορούσα να κάνω στο ubuntu μέσω VMware δεν μου δινόταν η δυνατότητα να τα υλοποιήσω στο Windows Sub System for Linux.</p><br>
-  Άσκηση: <a href="https://asciinema.org/a/371989">Deliverable4: Vim editor</a>
+  <p>Η άσκηση γραμμής εντολών που επέλεξα να υλοποιήσω ζητούσε να επεξεργαστώ το vim configuration file. Η αλήθεια είναι πως δεν γνώριζα πως μπορεί να γίνει η επεξεργασία του, διότι δεν έχω ξανασχοληθεί με αυτό. Ήταν αρκετά δύσκολο να το υλοποιήσω θα μπορούσα να πω. Μετά από μια έρευνα που έκανα στο google βρήκα πληροφορίες. </p><br>
+  Άσκηση: <a href="https://asciinema.org/a/372072">Deliverable5: Vim editor</a>
   <br> <h6>Βιβλιογραφία</h6>
   <ul><br> <a href="https://github.com/epidrome/dokey#hci">Λίστα με τις ασκήσεις γραμμής εντολών.</a>
  <br> <a href="https://asciinema.org">Asciinema</a><br>
-<a href="https://my.vmware.com/web/vmware/downloads/details?downloadGroup=PLAYER-1600&productId=1039&rPId=51984">VMware</a><br>
- <a href="https://ubuntu.com/download/desktop">Ubuntu dowloand (Iso)</a><br>
  <a href="https://www.youtube.com/watch?v=NiO_QyF7CVo">Vimrc configuration(Youtube video)</a>
  <a href="https://linuxhint.com/configure_vim_vimrc">Commands about vimrc</a></ul>
   
