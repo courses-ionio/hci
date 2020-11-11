@@ -1,7 +1,7 @@
 # ΠΡΟΚΟΠΙΟΣ ΒΕΡΓΗΣ Π2019127
 
 
-| Εβδομάδα* | Παραδοτέο |
+| Εβδομάδα | Παραδοτέο |
 | --- | --- |
 | 1 |[1ο Παραδοτέο](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#1%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 2 | [2ο Παραδοτέο: Άσκηση προγραμματισμού](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#2%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
