@@ -17,5 +17,5 @@
 | 12 | Τελική αναφορά* |
 
 <h2><span id="Άσκηση προγραμματισμού">Άσκηση προγραμματισμού</span></h2>
-<i><a href= tittle=“Mouse form”>Mouse form</a></i> <https://github.com/eliastk09/gr/blob/gh-pages/_remix/mouse-form.md>
+<i><a href= tittle=“Mouse form”>Mouse form</a></i> < https://github.com/eliastk09/gr/blob/gh-pages/_remix/mouse-form.md >
 Τροποποιούμε το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί πρέπει να έχει προεπιλεγμένη τιμή “Gender” και οι διαθέσιμες επιλογές να είναι “Male”,”Female”. 
