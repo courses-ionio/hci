@@ -27,10 +27,7 @@
 
 # Παραδοτέο 2
 ## Interactive text
-<iframe height="265" style="width: 100%;" scrolling="no" title="10 stunning hover effects with scss" src="https://codepen.io/isabellapap/embed/preview/abZmLap?height=265&theme-id=dark&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/isabellapap/pen/abZmLap'>10 stunning hover effects with scss</a> by 2019235
-  (<a href='https://codepen.io/isabellapap'>@isabellapap</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+![default](https://codepen.io/isabellapap/embed/oNLQKaL?height=265&theme-id=light&default-tab=js,result)
  
 # Παραδοτέο 3
 ## Getting familiar with bash
