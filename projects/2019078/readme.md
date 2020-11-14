@@ -55,15 +55,23 @@ Emacs είναι μια οικογένεια επεξεργαστών κειμέ
 Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
 
   Το wttr είναι ένα εγαλείο με το οποίο μπορείς να κοιτάξεις τον καιρό για οτιδήποτε χρειαστείς αλλά και να στο κάνει με πολλές λεπτομέρειες τις οποίες εσύ καθορίζεις.Οι εντολές που χρησιμοποιήθηκαν στο βίντεο είναι οι εξής:
- | --- |
- | curl wttr.in | 
- | curl wttr.in/<city's name> | 
- | curl wttr.in/<airport's name> | 
- | curl wttr.in/<city's name>?u | 
- | curl wttr.in/<city's name>/format=3 | 
- | curl wttr.in/{city's name 1,city's name 2,city;s name 3}?format 3 | 
- | curl wttr.in/moon | 
- | curl <country's ISO 3166 code>wttr.in/<city's name> | 
+
+ - curl wttr.in  
+   -  
+ - curl wttr.in/<city's name> 
+    - 
+ - curl wttr.in/<airport's name>  
+    - 
+ - curl wttr.in/<city's name>?u
+    - 
+ - wttr.in/<city's name>/format=3
+    - 
+ - curl wttr.in/{city's name 1,city's name 2,city;s name 3}?format 3
+    - 
+ - curl wttr.in/moon
+    - 
+ - curl <country's ISO 3166 code>wttr.in/<city's name> 
+    - 
 
 
 
