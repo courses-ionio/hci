@@ -42,19 +42,28 @@ codepen:[css querries](https://github.com/Orfeaslambrou/site/blob/2019078/_remix
 <a name="c"></a>
 Asccinema:[emacs](https://asciinema.org/a/2e0gMoZx2b1mYfKxIViGPsQuo)
 
-<p>Emacs είναι μια οικογένεια επεξεργαστών κειμένου.Στο unix θεωρείται ο παλαιότερος και πιο διαδεδομένος επεξεργαστής.  
+Emacs είναι μια οικογένεια επεξεργαστών κειμένου.Στο unix θεωρείται ο παλαιότερος και πιο διαδεδομένος επεξεργαστής. 
+
 Όπως βλέπουμε και στο βίντεο οι βασικές δυνατότητες είναι:
-- emacs για την έναρξη του emacs και δημιουργία καινούργιου κειμένου
-- Ctrl+x Ctrl+s για αποθήκευση κειμένου
-- Ctrl+x Ctrl+c για έξοδος χωρίς αποθήκευση
-- Crtl+X s Crtl+X Crtl+C για έξοδος και αποθήκευση
- - emacs <όνομα κειμένου> για να ανοίξουμε ένα υπάρχον κέιμενο</p>
- 
- 
+
++ emacs για την έναρξη του emacs και δημιουργία καινούργιου κειμένου 
++ Crtl+x Ctrl+s για αποθήκευση κειμένου 
++ Ctrl+x Ctrl+c για έξοδος χωρίς αποθήκευση 
++ Crtl+X s Crtl+X Crtl+C για έξοδος και αποθήκευση -  emacs <όνομα κειμένου> για να ανοίξουμε ένα υπάρχον κέιμενο
+
  <a name="e"></a>
 Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
-  ![ Alt text](https://imgflip.com/gif/4md1cj) 
 
+  Το wttr είναι ένα εγαλείο με το οποίο μπορείς να κοιτάξεις τον καιρό για οτιδήποτε χρειαστείς αλλά και να στο κάνει με πολλές λεπτομέρειες τις οποίες εσύ καθορίζεις.Οι εντολές που χρησιμοποιήθηκαν στο βίντεο είναι οι εξής:
+ | --- |
+ | curl wttr.in | 
+ | curl wttr.in/<city's name> | 
+ | curl wttr.in/<airport's name> | 
+ | curl wttr.in/<city's name>?u | 
+ | curl wttr.in/<city's name>/format=3 | 
+ | curl wttr.in/{city's name 1,city's name 2,city;s name 3}?format 3 | 
+ | curl wttr.in/moon | 
+ | curl <country's ISO 3166 code>wttr.in/<city's name> | 
 
 
 
