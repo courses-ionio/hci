@@ -77,3 +77,20 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 # Παραδοτέο 5
 
 [Άσκηση Γραμμής Εντολών "check the weather"](https://asciinema.org/a/sXUennhrjSEeavNPyFNLqJ7mk)
+
+# Παραδοτέο 6
+
+
+[Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/mouse-scroll.md)
+
+[Website link](https://elastic-northcutt-449d27.netlify.app/remix/mouse-scroll/)
+
+[Δείτε το στο Codepen](https://codepen.io/vuxxs/pen/JjKxBMM)
+
+### Εκπλήρωση ζητούμενων παραδοτέου 
+
+Το scroll bar που ξεκινάει με χρώμα μαύρο αλλάζει χρώμα με κάθε αλλαγή όπως θα έπρεπε. 
+
+Υπάρχει η επιπλέον λειτουργία του που δίνει χρώματα που δεν είναι προ-καθορισμένα αλλά τυχαία φτιαγμένα με κάθε εκτέλεση. Αυτό είναι ένα καλύτερο αποτέλεσμα από τα προκαθορισμένα χρώματα γιατί δίνει μία διαφορετική εμπειρία με κάθε εκτέλεση.
+
+<img src="https://i.imgur.com/nb0iLFq.gif">
