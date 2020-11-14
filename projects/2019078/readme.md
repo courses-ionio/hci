@@ -83,7 +83,7 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
     
     
     
-    ![wttr.png](<a href="https://ibb.co/K7wQbDb"><img src="https://i.ibb.co/2PNLWSW/wttr.png" alt="wttr" border="0"></a>)
+    <a href="https://ibb.co/K7wQbDb"><img src="https://i.ibb.co/2PNLWSW/wttr.png" alt="wttr" border="0"></a>
    
 
 
