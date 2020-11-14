@@ -28,7 +28,7 @@
 
 ## FORM VALIDATION
  <a name="b"></a>
-Codepen:[Form validation](https://github.com/Orfeaslambrou/site/blob/2019078/_remix/form-validation.md) 
+[Form validation](https://github.com/Orfeaslambrou/site/blob/2019078/_remix/form-validation.md) 
 
 Για την άσκηση form validation χρησιμοποίησα την html οπού έπρεπε να κάνω ένα πρόγραμμα που θα επικύρωνε τα στοιχεία που θα έβαζε ο χρήστης .Για να επιτευχθεί αυτό χρησιμοποίησα pattern έτσι ώστε σε  περίπτωση εισαγωγής αληθών στοιχείων από τον χρήστη να του γίνεται επικύρωση,ενώ σε αντίθετη να του βγάζει μήνυμα να εισάγει σωστά τα δεδομένα.Οι σωστοί τύποι για κάθε ζητούμενο είναι:  
 **α)** 10 αριθμητικοί χαρακτήρες για το σταθερό νούμερο Ελλάδας  
@@ -39,10 +39,15 @@ Codepen:[Form validation](https://github.com/Orfeaslambrou/site/blob/2019078/_re
 
 ## CSS QUARRIES
 <a name="d"></a>
-codepen:[css querries](https://github.com/Orfeaslambrou/site/blob/2019078/_remix/css-queries.md)
+
+[css querries](https://github.com/Orfeaslambrou/site/blob/2019078/_remix/css-queries.md)
+
+Στην άσκηση css quarries άλλαξα το font size από έναν σταθερό αριθμό σε πίξελ σε ποσοστό έτσι ώστε να προσαρμόζεται το μέγεθος της γραμματοσειράς αναλόγως με το παράθυρο. Επίσης έκανα αλλαγές στα χρώματα του backround και της γραμματοσειράς αλλάζοντας τους κωδικούς των χρωμάτων. Το χρώμα προσαρμόζεται με το μέγεθος του παραθύρου γράφοντας μέσα στο body του screen and (max width=...) τον κωδικό του χρώματος.Κάποιες άλλες αλλαγές που έκανα στο κύριο σώμα είναι να υπογραμμίσω το κείμενο με text-decoration:underline και text-allign:center για να εμφανίζεται το κείμενο στο κέντρο ώστε να είναι ευανάγνωστο.Επίσης για αισθητικούς κυρίως λόγους προστέθηκε το text-shadow με 1.3px ώστε να μην είναι τόσο έντονη η σκιά και δυσκολέψει τον χρήστη και η προσθήκη κύκλου στην οποία είναι δυνατή η επιλογή του χρώματος αλλά και του μεγέθους.Το μέγεθος και εδώ επίσης είναι σε ποσοστό ώστε να προσαρμόζεται με εκείνο του παραθύρου.
 
 <a href="https://ibb.co/N7TbJy1"><img src="https://i.ibb.co/25ZHCk8/hello-world.png" alt="hello-world" border="0"></a>
 
+
+Απο τα αριστερά προς τα δεξιά τα παραθυρα με μέγεθος 1542,760,400 αντίστοιχα οπού το κείμενο και τα χρώματα προσαρμόζονται
 # ΑΣΚΗΣΕΙΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
 
 ## EMACS
@@ -86,7 +91,7 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
     
     <a href="https://ibb.co/K7wQbDb"><img src="https://i.ibb.co/2PNLWSW/wttr.png" alt="wttr" border="0"></a>
     
-    Παράδειγμα στο οποίο η πρόγνωση για μια ισπανική πόλη εμφανίζεται στη γαλλική γλάσσα 
+    Παράδειγμα στο οποίο η πρόγνωση για μια ισπανική πόλη εμφανίζεται στη γαλλική γλώσσα 
     
 
 
