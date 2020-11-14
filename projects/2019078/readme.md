@@ -1,6 +1,7 @@
 **Oνoματεπώνυμο:Ορφέας Λάμπρου**
 
 **ΑΜ:2019078**
+
 [Αποθετήριο κώδικα](https://github.com/Orfeaslambrou/site)
 
 | Εβδομάδα* | Παραδοτέο |
@@ -36,7 +37,7 @@ Codepen:[Form validation](https://github.com/Orfeaslambrou/site/blob/2019078/_re
 
 <a name="d"></a>
 codepen:[css querries](https://github.com/Orfeaslambrou/site/blob/2019078/_remix/css-queries.md)
-![](https://imgur.com/a/H7eoPyC)
+
 # ΑΣΚΗΣΕΙΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
 <a name="c"></a>
 Asccinema:[emacs](https://asciinema.org/a/2e0gMoZx2b1mYfKxIViGPsQuo)
@@ -52,8 +53,7 @@ Asccinema:[emacs](https://asciinema.org/a/2e0gMoZx2b1mYfKxIViGPsQuo)
  
  <a name="e"></a>
 Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
-
-
+ ![ Alt text](<div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:52.8%;position:relative;"><iframe width="500" height="264" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4md13w"></iframe></div><p><a href="https://imgflip.com/gif/4md13w">via Imgflip</a></p></div>)
 
 
 
