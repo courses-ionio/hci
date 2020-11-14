@@ -83,7 +83,7 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
     
     
     
-    ![wttr.png](C:\Users\xaris\Documents\ΠΑΝΕΠΙΣΤΗΜΙΟ\επικοινωνια)
+    ![wttr.png](\Users\xaris\Documents\ΠΑΝΕΠΙΣΤΗΜΙΟ\επικοινωνια)
    
 
 
