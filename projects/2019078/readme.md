@@ -53,8 +53,7 @@ Asccinema:[emacs](https://asciinema.org/a/2e0gMoZx2b1mYfKxIViGPsQuo)
  
  <a name="e"></a>
 Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
- ![ Alt text](<div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:52.8%;position:relative;"><iframe width="500" height="264" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4md13w"></iframe></div><p><a href="https://imgflip.com/gif/4md13w">via Imgflip</a></p></div>)
-
+  ![ Alt text](https://imgflip.com/gif/4md1cj) 
 
 
 
