@@ -27,7 +27,7 @@
 
 ###### [2] 
 ## Άσκηση προγραμματισμού : mouse-form
-Link για το αποθετήριο: https://github.com/Miltos9/site/blob/master/_remix/mouse-form.md
+Link για το αποθετήριο: https://miltos9.netlify.app/remix/mouse-form/
 ## Πως έγινε :
 Διάβασα και επεξεργάστηκα τον κώδικα του παραδείγματος μέρχρι να καταλάβω πως λειτουργεί κάθε κελί απο τα 3 που προϋπήρχαν.Ετσι με τον ίδιο τρόπο δημιούργησα και ενα τέταρτο κελί με ονομασία Gender και μονο 2 τιμές τa Male,Female.Το τοποθέτησα αμέσως μετα την κατάταξη HH/MM/XXXX και άλλαξα την ερώτηση ώστε ο χρήστης να ξερει οτι πρεπει να δηλώσει και GENDER.Τέλος "πήραξα" τα χρώματα αλλάζοντας τους κωδίκους για ενα καλύτερο αποτέλεσμα. 
 
@@ -39,7 +39,7 @@ Link για το asciinema : https://asciinema.org/a/367276
 
 ###### [4]
 ## Άσκηση προγραμματισμού : form-validation
-Link για το αποθετήριο: https://github.com/Miltos9/site/blob/master/_remix/form-validation.md
+Link για το αποθετήριο: https://miltos9.netlify.app/remix/form-validation/
 ## Πως έγινε :
 Αρχικά με βάση το Demo της εργασίας ( https://www.sitepoint.com/client-side-form-validation-html5/ ) που προϋπήρχε,έκανα τροποποίηση το τηλέφωνο απο Νιγηριανού τ΄ύπου(xxxx-xxx-xxxx) σε ελληνικό(69-xxxxxxxx) και έφτιαξα το email σύμφωνα με τις οδηγίες του άρθρου.Έπειτα,έψαξα στο internet για tutorial code πάνω στα credit cards και με βάση το κείμενο( https://tutorialzine.com/2016/11/simple-credit-card-validation-form ) έφτιαξα το validation για credit cards αλλάζοντας κάποια πράγματα όπως το submit και το .css για την ενφάνιση,έτσι ώστε να μοιάζει με το phone-email που ειχα ήδη υλοποιήσει.Τέλος,έβαλα φώτογραφίες απο visa,american express,mastercard με την χρήση του https://postimages.org/ .
 
