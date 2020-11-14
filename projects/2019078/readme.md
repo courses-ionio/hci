@@ -1,7 +1,7 @@
 **Oνoματεπώνυμο:Ορφέας Λάμπρου**
 
 **ΑΜ:2019078**
-
+[Αποθετήριο κώδικα](https://github.com/Orfeaslambrou/site)
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
@@ -25,7 +25,7 @@
 
 # ΑΣΚΗΣΕΙΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ
  <a name="b"></a>
-Codepen:[Form validation](https://codepen.io/orfeaslambrou/pen/JjKKbNJ) 
+Codepen:[Form validation](https://github.com/Orfeaslambrou/site/blob/2019078/_remix/form-validation.md) 
 
 Για την άσκηση form validation χρησιμοποίησα την html οπού έπρεπε να κάνω ένα πρόγραμμα που θα επικύρωνε τα στοιχεία που θα έβαζε ο χρήστης .Για να επιτευχθεί αυτό χρησιμοποίησα pattern έτσι ώστε σε  περίπτωση εισαγωγής αληθών στοιχείων από τον χρήστη να του γίνεται επικύρωση,ενώ σε αντίθετη να του βγάζει μήνυμα να εισάγει σωστά τα δεδομένα.Οι σωστοί τύποι για κάθε ζητούμενο είναι:  
 **α)** 10 αριθμητικοί χαρακτήρες για το σταθερό νούμερο Ελλάδας  
@@ -35,7 +35,8 @@ Codepen:[Form validation](https://codepen.io/orfeaslambrou/pen/JjKKbNJ)
 
 
 <a name="d"></a>
-codepen:[css querries](https://codepen.io/orfeaslambrou/pen/OJXBPEo)
+codepen:[css querries](https://github.com/Orfeaslambrou/site/blob/2019078/_remix/css-queries.md)
+![](https://imgur.com/a/H7eoPyC)
 # ΑΣΚΗΣΕΙΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
 <a name="c"></a>
 Asccinema:[emacs](https://asciinema.org/a/2e0gMoZx2b1mYfKxIViGPsQuo)
