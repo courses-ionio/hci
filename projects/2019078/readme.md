@@ -84,7 +84,9 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
     
     
     <a href="https://ibb.co/K7wQbDb"><img src="https://i.ibb.co/2PNLWSW/wttr.png" alt="wttr" border="0"></a>
-   
+    
+    Παράδειγμα στο οποίο η πρόγνωση για μια ισπανική πόλη εμφανίζεται στη γαλλική γλάσσα 
+    
 
 
 
