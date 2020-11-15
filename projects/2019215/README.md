@@ -12,7 +12,7 @@
 | 3 | [Άσκηση γραμμής εντολών](#παραδοτεο-3) | 
 | 4 | [Άσκηση προγραμματισμού Image Processing](#παραδοτεο-4) |
 | 5 | [Άσκηση γραμμής εντολών](#παραδοτεο-5) |
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
+| 6 | [Άσκηση προγραμματισμού Form validation](#παραδοτεο-6) |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -76,8 +76,8 @@ Link για το asciinema: (https://asciinema.org/a/369713)
 
 Link αποθετηρίου άσκησης: (https://github.com/p19ntar/site/blob/master/_remix/image-filter.md)
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="2019215" data-slug-hash="GRqdvwR" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Image processing">
-  <span>/Η άσκηση <a href="https://codepen.io/2019215/pen/GRqdvwR">
-  Image processing</a> by p19ntar (<a href="https://codepen.io/2019215">@2019215</a>)
+  <span>Η άσκηση <a href="https://codepen.io/2019215/pen/GRqdvwR">
+  Image processing</a> (<a href="https://codepen.io/2019215">@2019215</a>)
   στο <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
@@ -114,7 +114,7 @@ Link αποθετηρίου άσκησης: (https://github.com/p19ntar/site/blo
   στο <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-
+ Στο παραδοτέο 6 δόθηκε ένα κομμάτι κώδικα το οποίο ζητάει από το χρήστη να εισάγει τον αριθμό τηλεφώνου του κάνοντας παράλληλα και έλεγχο εγκυρότητας. Η άσκηση απαιτεί να ζητηθεί από το χρήστη email, πιστωτική κάρτα και ελληνικό αριθμό τηλεφώνου, όπου για την πιστωτική κάρτα και το τηλέφωνο δέχεται συγκεκριμένη μορφή, δηλαδή, για την κάρτα τη μορφή xxxx-xxxx-xxxx-xxxx και για το τηλέφωνο +30 xxx xxx xxxx
  
  
  
