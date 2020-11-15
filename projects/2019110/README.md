@@ -60,21 +60,26 @@
 <br>
 
 ### check the weather	
+<img align="left" width="400" height="250" src="https://i.postimg.cc/SsWS6PYM/croped.png"> 
 Μία ακόμη καταπληκτική δυνατότητα που μας παρέχεται αποτελεί η ενημέρωση του καιρού. Αυτό είναι εφικτό να επιτευτχθεί με την χρήση της υπηρεσίας παροχής πληροφοριών καιρικών συνθηκών **``wttr.in``**. Εντυπωσιασμένος λοιπόν αποφάσισα να παρουσιάσω τις καιρικές συνθήκες που επικρατούν στην Κέρκυρα,στην Νέα Υόρκη και στο Λονδίνο. Εμβαθύθοντας στις ικανότητες της **``wttr.in``**, ανακλύπτουμε πως παρέχει πληροφορίες τόσο για τα αεροδρόμια όσο και για αξιοθέατα ολόκληρου του κόσμου. Έτσι δεν μας φαίνεται περίεργο πως οι ικανότητες της καλύπτουν και πληροφορίες για την πανσέληνο του φεγγαριού.   
-* Παρουσίαση με: [asciinema](https://asciinema.org/a/372775)
+ 
+  * Παρουσίαση με: [asciinema](https://asciinema.org/a/372775)
 <br>
 
 # Πηγές πληροφοριών
 ### Ασκήσεις προγραμματισμού
+
 mouse option: https://postimages.org/
+ 
 ### Ασκήσεις γραμμής εντολών
-[homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
-[asciinema](https://asciinema.org/docs/installation)  
-text editor and plug-ins for code highlighting and autocompletion : https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint , https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint , 
+
+- [homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
+  - [asciinema](https://asciinema.org/docs/installation)  
+* text editor and plug-ins for code highlighting and autocompletion : https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint , https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint , 
 ### Εμφανησιακή επεξεργασία 
-[Ανέβασμα εικόνων](https://postimages.org/)   
-[Καλιμπράρισμα εικόνων](https://www.youtube.com/watch?v=f4ifdKCH7VI&ab_channel=PeterC)  
-[Markdown](https://www.markdownguide.org/basic-syntax/#images-1)
+- [Ανέβασμα εικόνων](https://postimages.org/)   
+  - [Καλιμπράρισμα εικόνων](https://www.youtube.com/watch?v=f4ifdKCH7VI&ab_channel=PeterC)  
+* [Markdown](https://www.markdownguide.org/basic-syntax/#images-1)
 
 
 
