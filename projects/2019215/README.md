@@ -43,6 +43,12 @@
 ## Άσκηση Προγραμμάτισμου Youtube video player
 
 Link αποθετηρίου άσκησης: (https://github.com/p19ntar/site/blob/master/_remix/youtube-video-player.md)
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="2019215" data-slug-hash="ExyrOmm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="YouTube video player">
+  <span>Η άσκηση <a href="https://codepen.io/2019215/pen/ExyrOmm">
+  YouTube video player</a> (<a href="https://codepen.io/2019215">@2019215</a>)
+  στο <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
 
  Στο δεύτερο παραδοτέο μας ζητήθηκε να κάνουμε μία άσκηση προγραμματισμού και έτσι διάλεξα να κάνω την youtube video player. Στην άσκηση αυτή μας δώθηκε ένας κώδικας, ο οποίος μας εμφανίζει ένα βίντεο από το youtube, έπειτα, μας ζητήθηκε από την άσκηση να επεξεργαστούμε τον κώδικα ώστε να δημιουργήσουμε ένα κουμπί, το οποίο, όταν το πατάει ο χρήστης θα ξεκινάει ή θα σταματάει το βίντεο, ανάλογα. Στην άσκηση αυτή έγραψα τον κώδικα σε HTML, CSS και JS στο περιβάλλον του codepen.
 
@@ -69,6 +75,12 @@ Link για το asciinema: (https://asciinema.org/a/369713)
 ## Άσκηση Προγραμματισμού Image Processing
 
 Link αποθετηρίου άσκησης: (https://github.com/p19ntar/site/blob/master/_remix/image-filter.md)
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="2019215" data-slug-hash="GRqdvwR" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Image processing">
+  <span>/Η άσκηση <a href="https://codepen.io/2019215/pen/GRqdvwR">
+  Image processing</a> by p19ntar (<a href="https://codepen.io/2019215">@2019215</a>)
+  στο <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
 
  Στο τέταρτο παραδοτέο μας ζητήθηκε μία ακόμα άσκηση προγραμματισμού, από τις και οποίες επέλεξα την άσκηση image processing. Σε αυτή την άσκηση, αρχικά μας δώθηκε κώδικας ο οποίος έδειχνε μία εικόνα και όσο το ποντίκι ήταν πάνω της, η εικόνα γινόταν ασπρόμαυρη. Ο σκοπός της άσκησης ήταν να επεξεργάστουμε τον κώδικα που μας δώθηκε έτσι ώστε να εφαρμόζονται διάφορα φίλτρα στην εικόνα. Ο κώδικας λοιπόν που έγραψα, εμφανίζει την ίδια εικόνα 3 φόρες ταυτόχρονα, τη μία δίπλα από την άλλη και κάθε φορά που το ποντίκι είναι πάνω σε μία, εφαρμόζεται και ένα φίλτρο σε αυτήν και επίσης κάθε φωτογραφία έχει διαφορετικό φίλτρο από τις άλλες. 
 
