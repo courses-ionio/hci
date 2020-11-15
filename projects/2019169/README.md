@@ -60,6 +60,9 @@ document.onkeydown = function(e) {<br>
   };
   
  <br>Μετά την τροποποίηση:<br>
+ 
+ ![Webp net-gifmaker(1)](https://user-images.githubusercontent.com/72350589/99187053-10aac180-275d-11eb-87a0-2fda0089337a.gif)
+ 
 document.onkeydown = function(e) {<br>
   var key = e.keyCode;<br>
   if (key == 37) dx=-4; else if (key == 38) dy=-4; else if (key == 39) dx=4; else if (key == 40) dy=2; else return true; <br>
