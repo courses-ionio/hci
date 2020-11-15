@@ -27,7 +27,7 @@
 
 # Παραδοτέο 2
 ## Interactive text
-![default](<blockquote class="imgur-embed-pub" lang="en" data-id="a/CIh3eCM"  ><a href="//imgur.com/a/CIh3eCM">car screenshot</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/CIh3eCM"  ><a href="//imgur.com/a/CIh3eCM">car screenshot</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
  
 # Παραδοτέο 3
 ## Getting familiar with bash
