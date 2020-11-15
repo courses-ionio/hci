@@ -6,7 +6,7 @@
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
 | 2 | Άσκηση προγραμματισμού ή βιογραφικό  (SW) <li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
 | 3 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a> |
-| 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
+| 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW)<li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -26,3 +26,8 @@
 tittle=" change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).">change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).</a></i>
 
 Σκοπός της άσκησης ήταν να αλλάξουμε την γραμμή εντολών. Επίσης, έπρεπε να καταχωρίσουμε το neofetch  ετσι ώστε να εμφανίζεται το αρχειό shell configuration και ακόμη να εμφανίζονται πληροφορίες συστήματος. 
+
+<h2><span id="Άσκηση προγραμματισμού">Άσκηση προγραμματισμού</span></h2>
+<i><a href= "https://github.com/eliastk09/gr/blob/gh-pages/_remix/clock-processing.md" tittle=“ Image processing”>Image processing</a></i>
+
+Τροποποιούμε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών 
