@@ -96,6 +96,12 @@ Link αποθετηρίου άσκησης: (https://asciinema.org/a/371363)
 
 Link αποθετηρίου άσκησης: (https://github.com/p19ntar/site/blob/master/_remix/form-validation.md)
 
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="2019215" data-slug-hash="zYBeMBN" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Form validation">
+  <span>Η άσκηση <a href="https://codepen.io/2019215/pen/zYBeMBN">
+  Form validation</a> (<a href="https://codepen.io/2019215">@2019215</a>)
+  στο <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
 
  
  
