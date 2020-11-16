@@ -181,8 +181,8 @@ Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
   - >[Atari Video Computer System - 160px Image](https://github.com/DIATSIGK/site)
 
 -[Apollo_Guidance_Computer](https://github.com/DIATSIGK/_gallery/blob/master/Apollo_Guidance_Computer.md)
-  ->[Apollo_Guidance_Computer](<image src = "Apollo_Guidance_Computer.jpg" width="160px" height="160px"></image>)
-  ->[Apollo_Guidance_Computer](<image src = "Apollo_Guidance_Computer.jpg" width="160px" height="160px"></image>)
+  -[Apollo_Guidance_Computer](<image src = "Apollo_Guidance_Computer.jpg" width="160px" height="160px"></image>)
+  -[Apollo_Guidance_Computer](<image src = "Apollo_Guidance_Computer.jpg" width="160px" height="160px"></image>)
 
 
  
