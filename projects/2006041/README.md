@@ -10,7 +10,7 @@
 | 3 | Άσκηση γραμμής εντολών ([link](#CommandLineExercise))|
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) ([link](#css))|
 | 5 | Άσκηση γραμμής εντολών ([link](#vim))|
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
+| 6 | Συμμετοχικό περιεχόμενο ([link](#collab))|
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -42,10 +42,5 @@ For this programming exercise, I implemented changes changes to the CSS Media Qu
 
 My commit to the forked repo can be found by following this [link](https://github.com/elenberg-io/site/commit/3166974ad1a2e258a1aba45a12e1ffe0a770a1c1#diff-f4ae7ac56b1b79abd24151c1b033aa250f7e0771751aeeb8e9f90e8e4875af30), the css-queries.md page on github can be accessed through this [link](https://github.com/elenberg-io/site/blob/button%E2%80%93exercise/_remix/css-queries.md) and my source code in CodePen can be accessed through this [link](https://codepen.io/p2006041/pen/oNLdwQo).
 
-### <a name="vim"></a> Command Line Exercise: vim text editor and plug-ins
-For this command line exercise, I completed the *"text editor and plug-ins for code highlighting and autocompletion"* assignment.
-I used the vim text editor and `vi` to to edit the .vimrc config file for the vim editor. I downloaded `Vundle`, a vim plugin manager that allows users to keep track of and configure the vim plugins right in the `.vimrc` file. I then included in the `.vimrc` file and installed the `youcompleteme` plugin for test autocompletition. I also included in the `.vimrc` file configuration for syntax highlighting.
-
-The link to the asciicast on asciinema can be found through this [link](https://asciinema.org/a/371700) and can also be seen embedded below:
-
-[![asciicast](https://asciinema.org/a/371700.svg)](https://asciinema.org/a/371700)
+### <a name="collab"></a> Collaborative Exercise
+For this collaborative exercise I forked the 2 submodules, `_gallery` and `images`, changed the references of the submodules in my forked repo of `site` to point to these forked submodule repos, added 2 new entries in `_gallery` and `images` and added the references to the appropriate slides and chronology. Link to the `_gallery` forked repo can be found through this [link](https://github.com/elenberg-io/_gallery), link to the `images` forked repo can be found through this [link](https://github.com/elenberg-io/images) and link to the forked `site` repo can be found through this [link](https://github.com/elenberg-io/site).
