@@ -7,7 +7,7 @@
 | 3 | Άσκηση γραμμής εντολών: <sup><a href="#3">[ΠΑΡΑΔΟΤΕΟ 3]</a></sup> |
 | 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV): <sup><a href="#4">[ΠΑΡΑΔΟΤΕΟ 4]</a></sup> |
 | 5 | Άσκηση γραμμής εντολών <sup><a href="#5">[ΠΑΡΑΔΟΤΕΟ 5]</a></sup> |
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
+| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο: <sup><a href="#6">[ΠΑΡΑΔΟΤΕΟ 6]</a></sup> |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -140,5 +140,44 @@ Link για asciinema: https://asciinema.org/a/zrY0aFKtNYKa3Q3wgaui9YRgM
 
 Δημιουργία αρχείου και discard.
 Link για asciinema: https://asciinema.org/a/T1TRrCaCnA8KFjEM0UJS36ajI
+
+###### [6]
+## Άσκηση Συμμετοχικό περιεχόμενο
+1. Αρχικά ανοιγω το terminal και κάνω clone το repository hci και παίρνω πισω το branch μου 2018218
+
+2. Στην συνέχεια κάνω fork  το αποθετήριο _gallery 
+
+3. Προσθέτω ως submodel το αποθετηριο _gallery στον λογαριασμό μου (git submodule add ....) αντιγράφοντας το αντίστοιχο link
+Link για asciinema: https://asciinema.org/a/84WtWoFhE674ZdTaduejMUsPs
+4. Εισέρχομαι μέσα στο αρχικο φακελο hci και τρέχουμε την εντολή git status 
+               new file:   .gitmodules
+	       new file:   _gallery
+Link για asciinema:https://asciinema.org/a/pDDJNvqIogBdXUBV2Jd1DVf9m
+
+5. Στο φακελο _gallery του υπολογιστή μου τροποποιώ τα περιέχομενα των αρχείων mobile.md και atari-adventure.md του _gallery
+Link για asciinema:https://asciinema.org/a/hwOexle79chivdf937rr8mJS6
+6. Εκτέλω την εντολή (git add -u) και ενημερώνω .Κανω commit στο αποθετήριο του υπολογιστή για το αρχείο _gallery
+Link για asciinema:https://asciinema.org/a/SeCn7lspH2pbGXtqMdLpo1rrJ
+
+7. Υστερα πηγαίνω στο repo αρχείο του υπολογιστή μου. Κάνω add _gallery και στην συνέχεια commit μαζι με git submodule ενημέρωση,
+με χρήση εντολών git add gallery,git commit και git submodule update 
+Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
+
+8. Τέλος το push στο αποθετήριο μου στο github γίνεται από το αρχείο _gallery του υπολογιστή με την εντολή git push.
+Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
+
+Παρατηρήσεις:
+ 
+ Παρατηρώ ότι το αποθετήριο _gallery στο github ενημερώνεται ενώ στο branch μου όχι.
+ - Ετσι πηγαίνω στο arxeio  hci στον υπολογιστή μου και κανω 
+   - git submodule update --init 
+   - git push origin 2018218:master
+   αφου πρωτα κανω git pull kai git push από το _gallery του υπολογιστή μου
+ 
+
+
+ 
+
+
 
 
