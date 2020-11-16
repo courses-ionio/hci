@@ -185,8 +185,13 @@ Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
 - [Apollo_Guidance_Computer - Table](https://github.com/DIATSIGK/_gallery/blob/master/Apollo_Guidance_Computer.md)
   - >[Apollo_Guidance_Computer - Normal Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg)
   - >[Apollo_Guidance_Computer - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
+  
+  
+| Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
+| :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
+| diatsigk      |Apollo Guidance Computer (AGC) | [Link image 160 pixel](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)| Σχεδιασμένο από επιστήμονες και μηχανικούς στο εργαστήριο οργάνων του MIT, ο Apollo Guidance Computer (AGC) είναι το αποκορύφωμα χρόνων εργασίας για τη μείωση του μεγέθους του διαστημικού σκάφους Apollo από το μέγεθος επτά ψυγείων δίπλα-δίπλα σε μια συμπαγή μονάδα που ζυγίζει μόνο 70 λίβρες.Οι αστροναύτες επικοινωνούν με τον υπολογιστή με τη διάτρηση διψήφιου κωδικού στη μονάδα οθόνης και πληκτρολογίου (DSKY). Το AGC ήταν μια από τις πρώτες χρήσεις ολοκληρωμένων κυκλωμάτων      | [Lisence Url](https://en.wikipedia.org/wiki/NASA) |archetypes| wiki   | computer | NASA |
 
 
-
- 
-
+Normal Image | 160px Image
+--- | ---
+![](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg) | ![](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
