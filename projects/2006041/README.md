@@ -44,3 +44,8 @@ My commit to the forked repo can be found by following this [link](https://githu
 
 ### <a name="collab"></a> Collaborative Exercise
 For this collaborative exercise I forked the 2 submodules, `_gallery` and `images`, changed the references of the submodules in my forked repo of `site` to point to these forked submodule repos, added 2 new entries in `_gallery` and `images` and added the references to the appropriate slides and chronology. Link to the `_gallery` forked repo can be found through this [link](https://github.com/elenberg-io/_gallery), link to the `images` forked repo can be found through this [link](https://github.com/elenberg-io/images) and link to the forked `site` repo can be found through this [link](https://github.com/elenberg-io/site).
+
+Links to Netlify live version of the book with my additions:
+* Archetypes with my 2 additions [link][https://master--gracious-yalow-e2bb28.netlify.app/slides/archetypes/]
+* Timeline of PC's with my addition [link][https://master--gracious-yalow-e2bb28.netlify.app/timeline/personal/]
+* Timeline of Microcomputers with my addition [link][https://master--gracious-yalow-e2bb28.netlify.app/timeline/micros/]
