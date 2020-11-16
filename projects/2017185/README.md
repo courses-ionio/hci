@@ -56,4 +56,7 @@ https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
       
    [Λινκ](https://asciinema.org/a/p1T5s1421s4xoCHzlfkH093X7)
    
+## Παραδοτέο 6ο, συμμετοχικό περιεχόμενο
+     Έκανα φορκ το pibook/images και πρόσθεσα 2 εικόνες σύμφωνα με τις οδηγίες.
+   
   
