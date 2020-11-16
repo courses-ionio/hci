@@ -173,11 +173,17 @@ Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
    - git submodule update --init 
    - git push origin 2018218:master
    αφου πρωτα κανω git pull kai git push από το _gallery του υπολογιστή μου
- 
+   
+   [Σύνδεσμος Αποθετηρίου](https://github.com/DIATSIGK/site)
+
+- [Atari-Aventure - Table](https://github.com/DIATSIGK/_gallery/blob/master/atari-adventure.md)
+  - >[Atari Video Computer System - Normal Image](https://github.com/DIATSIGK/site)
+  - >[Atari Video Computer System - 160px Image](https://github.com/DIATSIGK/site)
+
+-[Apollo_Guidance_Computer](https://github.com/DIATSIGK/_gallery/blob/master/Apollo_Guidance_Computer.md)
+  ->[Apollo_Guidance_Computer](https://github.com/DIATSIGK/site)
+  ->[Apollo_Guidance_Computer](https://github.com/DIATSIGK/site)
 
 
  
-
-
-
 
