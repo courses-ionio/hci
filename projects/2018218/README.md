@@ -175,14 +175,16 @@ Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
    αφου πρωτα κανω git pull kai git push από το _gallery του υπολογιστή μου
    
    [Σύνδεσμος Αποθετηρίου](https://github.com/DIATSIGK/site)
+   
+   Επαναλαμβάνω την ιδια διαδικασία και για ενα και καινουργιο αρχείο Apollo_Guidance_Computer καθώς προσθετονται και οι φωτογραφίες για το συγκεκριμένο.
 
 - [Atari-Aventure - Table](https://github.com/DIATSIGK/_gallery/blob/master/atari-adventure.md)
   - >[Atari Video Computer System - Normal Image](https://github.com/DIATSIGK/site)
   - >[Atari Video Computer System - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/atari-video-computer-system-thumb.jpg)
 
 - [Apollo_Guidance_Computer](https://github.com/DIATSIGK/_gallery/blob/master/Apollo_Guidance_Computer.md)
-  - >[Apollo_Guidance_Computer](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg)
-  - >[Apollo_Guidance_Computer](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
+  - >[Apollo_Guidance_Computer - Normal Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg)
+  - >[Apollo_Guidance_Computer - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
 
 
 
