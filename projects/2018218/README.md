@@ -181,12 +181,9 @@ Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
   - >[Atari Video Computer System - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/atari-video-computer-system-thumb.jpg)
 
 - [Apollo_Guidance_Computer](https://github.com/DIATSIGK/_gallery/blob/master/Apollo_Guidance_Computer.md)
-  - >[Apollo_Guidance_Computer](https://github.com/DIATSIGK/site)
-  - >[Apollo_Guidance_Computer](https://raw.githubusercontent.com/DIATSIGK/hci/2018218/projects/2018218/atari-video-computer-system-thumb.jpg)
+  - >[Apollo_Guidance_Computer](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg)
+  - >[Apollo_Guidance_Computer](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
 
--[Apollo_Guidance_Computer](https://github.com/DIATSIGK/_gallery/blob/master/Apollo_Guidance_Computer.md)
-  -[Apollo_Guidance_Computer - Normal Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg)
-  -[Apollo_Guidance_Computer- 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
 
 
  
