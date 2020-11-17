@@ -13,7 +13,7 @@
 | 3 | Άσκηση γραμμής εντολών [click here](#παραδοτέο-3)|
 | 4 | Άσκηση προγραμματισμού [click here](#παραδοτέο-4)|
 | 5 | Άσκηση γραμμής εντολών [click here](#παραδοτέο-5)|
-| 6 | Συμμετοχικό περιεχόμενο |
+| 6 | Συμμετοχικό περιεχόμενο [click here](#παραδοτέο-6)|
 | 7 | Άσκηση προγραμματισμού |
 | 8 | Άσκηση γραμμής εντολών |
 | 9 | Άσκηση προγραμματισμού |
@@ -33,6 +33,8 @@
 https://github.com/rafael5gr2/site/blob/master/_remix/button.md  
 https://rafael5gr2.netlify.app/remix/button/
 
+![Button](https://image.prntscr.com/image/nwX6lLUrTqWTS_2tu_SBRA.png)
+
 # Παραδοτέο 3
 
 Στο τρίτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (set-up the main dependencies and demonstrate your base system) ζητούσε να αλλάξουμε το όνομα από το command prompt μας στον αριθμό μητρώου που έχουμε, έπειτα να δείξουμε τα dot files μας, το shell configuration file και τέλος με την χρήση του neofetch (https://github.com/dylanaraps/neofetch) να δείξουμε τα System information (hardware+software). Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema, με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.  
@@ -49,6 +51,8 @@ https://rafael5gr2.netlify.app/remix/button/
   
 https://github.com/rafael5gr2/site/blob/master/_remix/image.md  
 https://rafael5gr2.netlify.app/remix/image/
+
+![Image](https://image.prntscr.com/image/DNsuc1J8Q5i8WItP05xciw.png)
 
 # Παραδοτέο 5
 
