@@ -51,3 +51,7 @@ Link για το αποθετήριο της ασκήσης: https://codepen.io/
 ## Εβδομαδα 5η
 
 https://asciinema.org/a/Lj6yjS3zcgLrx3lNMFa54gOn4
+
+## Εβδομαδα 6η
+
+Α: https://github.com/makisgrammenos/_gallery
