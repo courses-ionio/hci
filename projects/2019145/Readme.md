@@ -13,7 +13,7 @@
 | 3 | [Άσκηση γραμμής εντολών](#παραδοτέο-3) | 
 | 4 | [Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW)](#παραδοτέο-4) |
 | 5 | [Άσκηση γραμμής εντολών](#παραδοτέο-5) |
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
+| 6 | [Συμμετοχικό περιεχόμενο](#παραδοτέο-6) |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -50,3 +50,31 @@ https://github.com/Geoter711/site/blob/master/_remix/button.md
 
 Για το παραδοτέο 5, επέλεξα την άσκηση γραμμής εντολών "organise the terminal window into multiple areas". Το link είναι:
 https://asciinema.org/a/371889
+
+## Παραδοτέο 6
+
+Για το παραδοτέο 6, έπρεπε να πραγματοποιήσουμε το Α1 και Α2 κομμάτι του συμμετοχικού περιεχομένου. Αποφάσισα να πρόσθεσω περισσότερο περιεχόμενο στην ενότητα "Βιντεοπαιχνίδια.
+
+### Οι προσθήκες είναι οι εξής:
+
+
+Φωτογράφιες σχετικά με το τηλεχειριστήριο του NES:
+https://github.com/Geoter711/images/blob/master/nes-controller.png
+https://github.com/Geoter711/images/blob/master/nes-controller-thumb.png
+
+Φωτογράφιες σχετικά με το τηλεχειριστήριο του Wii:
+https://github.com/Geoter711/images/blob/master/wii-remote.png
+https://github.com/Geoter711/images/blob/master/wii-remote-thumb.png
+
+Προσθήκη του τηλεχειριστηρίου του NES στο gallery:
+https://github.com/Geoter711/_gallery/blob/203956df4cf3a02361db643c9808e287f0ec6ec9/nes-controller.md
+
+
+Προσθήκη του τηλεχειριστηρίου του Wii στο gallery:
+https://github.com/Geoter711/_gallery/blob/master/wii-remote.md
+
+Προσθήκη του τηλεχειριστηρίου των NES και Wii στα slides και timeline αντίστοιχα:
+https://github.com/Geoter711/site/blob/master/_slides/videogames.md
+https://github.com/Geoter711/site/blob/master/_timeline/videogames.md
+
+
