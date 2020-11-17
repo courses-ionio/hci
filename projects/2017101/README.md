@@ -41,4 +41,11 @@ https://asciinema.org/a/oRI0a8Q0wrwZk9YYTgoLAYJzy
 https://github.com/koutsokostas/site/blob/master/_remix/form-validation.md
 
 Άσκηση γραμμής εντολών 2
+
 https://asciinema.org/a/356621
+
+Άσκηση προγραμματισμου 3
+
+https://github.com/koutsokostas/site/blob/master/_remix/image-filter.md
+
+
