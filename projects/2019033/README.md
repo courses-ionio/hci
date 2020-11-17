@@ -12,7 +12,7 @@
 | 3 | [Setup the main dependencies and demonstrate base system](#άσκηση-γραμμής-εντολών) *CLI* |
 | 4 | [Menu Scroll](#menu-scroll) *GUI* |
 | 5 | [Organise the terminal window into multiple areas](#organise-the-terminal-window-into-multiple-areas) *CLI* |
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
+| 6 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο)  |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -57,3 +57,25 @@ Link στο github (remix): https://github.com/Tsimpliarakis/site/blob/master/_r
 ## Organise the terminal window into multiple areas
 
 Asciinema link: https://asciinema.org/a/371655
+
+## Συμμετοχικό Περιεχόμενο 
+
+Links από το αποθετήριο μου από τους φάκελος/αρχεία που άλλαξα η δημιούργησα:
+
+Amazon Alexa - Image - Slides - Timeline 
+
+https://www.github.com/Tsimpliarakis/_gallery/tree/master/amazon-alexa.md
+
+https://www.github.com/Tsimpliarakis/site/tree/master/_timeline%2Fartificial-intelligence.md
+
+https://www.github.com/Tsimpliarakis/site/tree/master/_slides%2Fdefinition.md
+
+
+Joystick - Image - Slides - Timeline 
+
+
+https://www.github.com/Tsimpliarakis/_gallery/tree/master/joystick.md
+
+https://www.github.com/Tsimpliarakis/site/tree/master/_timeline%2Fvideogames.md
+
+https://www.github.com/Tsimpliarakis/site/tree/master/_slides%2Fvideogames.md
