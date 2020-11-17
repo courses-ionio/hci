@@ -13,7 +13,7 @@
 | 3 | [Άσκηση γραμμής εντολών](https://asciinema.org/a/900SRRvitcUfu8Pjw2ZKSgaul) |
 | 4 | [Άσκηση προγραμματισμού](https://github.com/KonstantinosTourtsakis/site/blob/2019140/_remix/css-queries.md) |
 | 5 | [Άσκηση γραμμής εντολών](https://asciinema.org/a/rQ1N38qo7EY0UcRnZYDxmGEJ9) |
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
+| 6 | [Άσκηση προγραμματισμού](https://github.com/KonstantinosTourtsakis/site/blob/2019140/_remix/image-filter.md) |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -50,3 +50,7 @@ https://www.2daygeek.com/linux-lf-terminal-file-manager/
 
 Για την εγκατάσταση του taskwarrior χρησημοποίησα αυτόν τον οδηγό: https://zoomadmin.com/HowToInstall/UbuntuPackage/taskwarrior
 και για τη χρήση των εντολών του taskwarrior χρησημοποίησα το tutorial που παρέχεται στην επίσημη ιστοσελίδα της εφαρμογής: https://taskwarrior.org/docs/examples.html
+
+## Παραδοτέο 6: Άσκηση προγραμματισμού - Image Filter
+
+Σε αυτή την άσκηση τροποποιώ τον κώδικα CSS με τέτοιο τρόπο ώστε να αλλάζει το φίλτρο κατά την λειτουργία <hover> από το χρήστη. Όταν λοιπόν ο χρήστης πραγματοποιήσει αυτή τη λειτουργία θα εφαρμοστούν κάποια φίλτρα στην εικόνα που εμφανίζεται. 
