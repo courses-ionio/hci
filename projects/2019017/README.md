@@ -72,7 +72,7 @@ Preview:<br/>
 
 ## Παραδοτέο 6
 
-Πρόσθεσα entry για το unreal engine [εδώ](https://github.com/p19kala/_gallery/commit/1b3d04c163663d4d140739a816010613d764eb5f) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/commit/37fe62e23574ba1648b8b1f049833bbf47378199) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/commit/03c691b5a501f7acdcb789900160c3ac55570835)
+Πρόσθεσα entry για το **Unreal Engine** [εδώ](https://github.com/p19kala/_gallery/commit/1b3d04c163663d4d140739a816010613d764eb5f) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/commit/37fe62e23574ba1648b8b1f049833bbf47378199) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/commit/03c691b5a501f7acdcb789900160c3ac55570835).
 
 Αρχεία που άλλαξα: 
 - [programming.md](https://github.com/p19kala/site/commit/e2e20206c3bd5f0d7dd51f4faa21cc19ce23bca2) από το \_timeline. Πρόσθεσα το "unreal-engine".
@@ -119,6 +119,6 @@ Preview:<br/>
 
 Παραδοτέο 6:
 
-- [Unreal Engine wikipedia](https://en.wikipedia.org/wiki/Unreal_Engine#Unreal_Engine_4)
+- [Unreal Engine wikipedia](https://en.wikipedia.org/wiki/Unreal_Engine)
 
 - [Photorealistic forests using UE4](https://www.youtube.com/watch?v=TtIN4_RZwZE)
