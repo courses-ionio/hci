@@ -9,7 +9,7 @@
 | 4 |**[Mouse option](#Mouse-option)**|
 | 5 |**[text editor and plug-ins for code highlighting and autocompletion](#text-editor-and-plug-ins-for-code-highlighting-and-autocompletion)**| 
 |   |**[check the weather](#check-the-weather)**|
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
+| 6 |**[Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο) |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -66,6 +66,13 @@
   * Παρουσίαση με: [asciinema](https://asciinema.org/a/372775)
 <br>
 
+# Συμμετοχικό περιεχόμενο
+
+Ώς πρώτη επαφή με το συμμετοχικό περιεχόμενο αποφάσισα να κάνω αναφορά σε δύο εντυπωσιακές καινοτομίες της Siri και του projection keyboard. Που είναι σχετικά σύγχρονες ιδέες και σχετίζονται με την διάδραση και αλληλεπίδραση του ανθρώπου με τους υπολογιστές.
+* Σύνδεσμος για τα **images**: [apple-siri](https://github.com/p19pasc/images/blob/master/apple-siri.jpg), [apple-siri-thumb](https://github.com/p19pasc/images/blob/master/apple-siri-thumb.png), [projection-yboard](https://github.com/p19pasc/images/blob/master/projection-keyboard.jpg), [rojection-keyboard-thumb](https://github.com/p19pasc/images/blob/master/projection-keyboard-thumb.jpg)
+* Σύνδεσμος για την **gallery**: [projection-keyboard.md](https://github.com/p19pasc/_gallery/blob/master/projection-keyboard.md), [apple-siri.md](https://github.com/p19pasc/_gallery/blob/master/apple-siri.md)
+* Σύνδεσμοι για **slides**: [styles.md](https://github.com/p19pasc/site/blob/master/_slides/styles.md), [netlify](https://codingexercisesp2019110.netlify.app/slides/styles/)
+ 
 # Πηγές πληροφοριών
 ### Ασκήσεις προγραμματισμού
 
