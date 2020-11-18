@@ -173,11 +173,25 @@ Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
    - git submodule update --init 
    - git push origin 2018218:master
    αφου πρωτα κανω git pull kai git push από το _gallery του υπολογιστή μου
- 
+   
+   [Σύνδεσμος Αποθετηρίου](https://github.com/DIATSIGK/site)
+   
+   Επαναλαμβάνω την ιδια διαδικασία και για ενα και καινουργιο αρχείο Apollo_Guidance_Computer καθώς προσθετονται και οι φωτογραφίες για το συγκεκριμένο.
+
+- [Atari-Aventure - Table](https://github.com/DIATSIGK/_gallery/blob/master/atari-adventure.md)
+  - >[Atari Video Computer System - Normal Image](https://github.com/DIATSIGK/site)
+  - >[Atari Video Computer System - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/atari-video-computer-system-thumb.jpg)
+
+- [Apollo_Guidance_Computer - Table](https://github.com/DIATSIGK/_gallery/blob/master/Apollo_Guidance_Computer.md)
+  - >[Apollo_Guidance_Computer - Normal Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg)
+  - >[Apollo_Guidance_Computer - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
+  
+  
+| Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
+| :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
+| diatsigk      |Apollo Guidance Computer (AGC) | [Link image 160 pixel](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)| Σχεδιασμένο από επιστήμονες και μηχανικούς στο εργαστήριο οργάνων του MIT, ο Apollo Guidance Computer (AGC) είναι το αποκορύφωμα χρόνων εργασίας για τη μείωση του μεγέθους του διαστημικού σκάφους Apollo.Το αρχικό είχε μέγεθος 7 ψηγείων και το τελικό έφτανε το 0.5 κυβικό μέτροΟι αστροναύτες επικοινωνούσαν με τον υπολογιστή με τη αφή διψήφιου κωδικού στη μονάδα οθόνης και πληκτρολογίου (DSKY). Το AGC ήταν μια από τις πρώτες χρήσεις ολοκληρωμένων κυκλωμάτων      | [Lisence Url](https://en.wikipedia.org/wiki/NASA) |archetypes| wiki   | computer | NASA |
 
 
- 
-
-
-
-
+Normal Image | 160px Image
+--- | ---
+![](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg) | ![](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
