@@ -39,16 +39,7 @@ Link για το codepen : https://codepen.io/2015143/pen/eYzJVBv
 ###### [3]
 ## Άσκηση γραμμής εντολών : get familiar with basic commands, reading documentation and editing files.
 
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
-</head>
-<body>
-  <asciinema-player src="/367276.cast" cols="120" rows="30"></asciinema-player>
-  ...
-  <script src="/asciinema-player.js"></script>
-</body>
-</html>
+[![asciicast](https://asciinema.org/a/367276.svg)](https://asciinema.org/a/367276)
 
 ## Περιεχόμενα του video :
 Αρχικά όπως λεει ο τίτλος,για να εξοικειωθώ με τα βασικά commands,έτρεξα και διάβασα ενα manual με πολλές πληροφορίες και χρήσιμα(οπου για συντομία προσπερνώ γρήγορα στο video) έπιτα ανοίγω τον κειμενογράφο VIM εφόσον πρώτα τρέξω ενα manual και για τον ίδιο τον κειμενογράφο για να καταλάβω πως λειτούργει.Εκεί δημιουργώ ενα έγγραφο txt με εσωτερικό κείμενο "ΚΑΛΗΜΕΡΑ!!!".Αφού τρέξω και κάποια αλλα βασικά commands του VIM,στη συνέχεια ανοίγω το manual του neofetch για να καταλάβω την χρήση του.Τέλος, το τρέχω με επιτυχία καθώς επεξεργάζεται τα δεδομένα του υπολογιστή μου και μας δίνει τα ανάλογα στατιστικά.
