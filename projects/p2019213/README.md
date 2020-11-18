@@ -48,7 +48,7 @@
 <br>
 <h2>   :book:: Παραδοτέο 2</a></h2>
 
-### :pushpin:: [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 1 (Button)](https://youthful-shannon-5ffcc9.netlify.app/remix/button/)
+### :pushpin:: [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 1 (Button)](https://p19tzam.netlify.app//remix/button/)
 #### [Άσκηση προγραμματισμού 1 (Button) codepen.io](https://codepen.io/dhmosfunk/pen/OJXMZyQ)
 <p> Η τροποποίηση που πραγματοποίησα σε αυτή την άσκηση προγραμματισμού(BUTTON) έχει την εξής λειτουργία: είναι ένα κουμπί(BUTTON) που ονομάζεται MY GITHUB όταν κάνουμε click στο button λοιπόν ανοίγει ένα NEW TAB και μας μεταφέρει στο GITHUB προφίλ μου.</p>
 <p> Οι τροποποιήσεις που έκανα είναι η εξής: αφαίρεσα το text που προυπήρχε(REMOVE) και πρόσθεσα την λέξη MY GITHUB επίσης εκεί που υπήρχε το (X) πρόσθεσα μια εικόνα(Icon) του GitHub και άλλαξα τα χρώματα. Για να κάνω αυτές τις τροποποιήσεις έπαιξα λίγο με τον κώδικα από το αρχείο HTML και απο το αρχείο CSS. Επίσης για να κανω λειτουργικο το BUTTON έπρεπε να επεξεργαστω το αρχείο javascript(jQuery).</p>
@@ -252,7 +252,7 @@ ifconfig -a
 <br>
 <h2>   :book:: Παραδοτέο 4</a></h2>
 
-### :pushpin:: [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 2 (Interactive Text)](https://youthful-shannon-5ffcc9.netlify.app/remix/interactive-text/)
+### :pushpin:: [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 2 (Interactive Text)](https://p19tzam.netlify.app//remix/interactive-text/)
 #### [Άσκηση προγραμματισμού 2 (Interactive Text) codepen.io](https://codepen.io/dhmosfunk/pen/bGeMGQP)
 
 
