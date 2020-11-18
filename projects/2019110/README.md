@@ -9,7 +9,7 @@
 | 4 |**[Mouse option](#Mouse-option)**|
 | 5 |**[text editor and plug-ins for code highlighting and autocompletion](#text-editor-and-plug-ins-for-code-highlighting-and-autocompletion)**| 
 |   |**[check the weather](#check-the-weather)**|
-| 6 |**[Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο) |
+| 6 |**[Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο)** |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
