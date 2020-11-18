@@ -10,7 +10,7 @@
 | 3 | [Άσκηση γραμμής εντολών ](#ΠΑΡΑΔΟΤΕΟ-3) | 
 | 4 |[Άσκηση προγραμματισμού ](#ΠΑΡΑΔΟΤΕΟ-4) | 
 | 5 | [Άσκηση γραμμής εντολών ](#ΠΑΡΑΔΟΤΕΟ-5)| 
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
+| 6 | [Συμμετοχικό περιεχόμενο ] (#ΠΑΡΑΔΟΤΕΟ-6)|
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -43,3 +43,15 @@ https://github.com/alkinoospitsinis/site/blob/2019234/_remix/form-validation.md
 ## ΠΑΡΑΔΟΤΕΟ 5:
 
 https://asciinema.org/a/eTLepdVvpFNUiRahcsIoJomx2
+
+## ΠΑΡΑΔΟΤΕΟ 6:
+
+Φωτογράφιες σχετικά με την γλώσσα προγραμματισμού APL: https://github.com/alkinoospitsinis/images/blob/master/apl.png
+
+https://github.com/alkinoospitsinis/images/blob/master/apl-thumb.png
+
+Προσθήκη της γλώσσας προγραμματισμού APL: https://github.com/alkinoospitsinis/_gallery/blob/master/apl.md
+
+Προσθήκη της γλώσσας προγραμματισμού στα slides και timeline: https://github.com/alkinoospitsinis/site/blob/master/_slides/programming.md
+
+https://github.com/alkinoospitsinis/site/blob/master/_timeline/programming.md
