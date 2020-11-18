@@ -28,7 +28,7 @@
 
 ###### [2] 
 ## Άσκηση προγραμματισμού : mouse-form
-Link για το netflify : https://miltos9.netlify.app/remix/mouse-form/
+Link για το site : https://miltos9.netlify.app/remix/mouse-form/
 
 Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_remix/mouse-form.md
 
@@ -44,7 +44,7 @@ Link για το asciinema : https://asciinema.org/a/367276
 
 ###### [4]
 ## Άσκηση προγραμματισμού : form-validation
-Link για το netflify : https://miltos9.netlify.app/remix/form-validation/
+Link για το site : https://miltos9.netlify.app/remix/form-validation/
 
 Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_remix/form-validation.md
 
@@ -63,13 +63,19 @@ Link για το codepen : https://codepen.io/2015143/pen/JjKLyXB
 ###### [6]
 ## Συμμετοχικό περιεχόμενο
 # A1 :
-Link για την εικόνα στο site: https://miltos9.netlify.app/gallery/iphone-12-pro-max/
+Link για την εικόνα στο site : https://miltos9.netlify.app/gallery/iphone-12-pro-max/
+
+Link για το αποθετήριο : https://github.com/Miltos9/_gallery/blob/fc18f3b1700928aa64cc8d4143ff323f77245936/iphone-12-pro-max.md
 ## Λίγα λόγια: 
 Διάλεξα να ανεβάσω το iphone 12 pro max γιατι είναι κατα σειρά η 10η ναυαρχίδα που δημιουργεί η εταιρεία και ειναι σημείο αναφόρας στην εξέληξη απο το πρώτο Iphone που κυκλοφόρησε και έφερε ριζική αλλαγή στην αγορά,κατ' επέκταση και στην καθημερινότητα των ανθρώπων.
 # A2 :
-Link για τις διαφάνιες στο site: https://miltos9.netlify.app/slides/aple-evolution/
+Link για τις διαφάνιες στο site : https://miltos9.netlify.app/slides/aple-evolution/
 
-Link για τo χρονολόγιο στο site: https://miltos9.netlify.app/timeline/mobile/
+Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_slides/aple-evolution.md
+
+Link για τo χρονολόγιο στο site : https://miltos9.netlify.app/timeline/mobile/
+
+Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_timeline/mobile.md
 ## Λίγα λόγια: 
 Διάλεξα να δημιουργήσω slide με την ιστορική εξέλιξη των τέχνολογικών προϊόντων μιάς και στο Α1 είχα ανεβάσει φωτογραφία απο το τελευταίο μοντέλο smartphone της apple και στις εικόνες του site υπάρχουν πολλά προηγούμενα αλλά και διάφορες διαχρονικές τεχνολογικές συσκευές.
 Οσο αναφορά τα timelines επεξεργάστηκα ενα ήδη υπάρχον(εφόσον το επέτρεπαν οι οδηγείες) και πρόσθεσα στο mobile timeline την φωτογραφία μου ως την τελευταία χρονικά κινητή υπολογιστική συσκευη.
