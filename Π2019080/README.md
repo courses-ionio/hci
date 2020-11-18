@@ -6,7 +6,7 @@
 | 3 | [Άσκηση γραμμής εντολών](#Command-line) |
 | 4 | [Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV)](#Menu-Pie) |
 | 5 | [Άσκηση γραμμής εντολών](#Command-line) |
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
+| 6 | [Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο](#Mouse-Form) |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -17,3 +17,4 @@
 # [Command line](https://asciinema.org/a/nNQ6TMd30KSZCVhlzi6agb2Qi) 
 # [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
 # [Command line](https://asciinema.org/a/QrBPNjDfZPIzam9veDe81S9iJ)
+# [Mouse Form](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)
