@@ -1,6 +1,6 @@
 #### ΟΝΟΜΑΤΕΠΏΝΥΜΟ:ΓΕΏΡΓΙΟΣ ΜΊΛΤΟΣ
 #### ΑΡΙΘΜΌΣ ΜΗΤΡΏΟΥ: Π2015143
-##### Netflify : https://miltos9.netlify.app/
+##### Netlify : https://miltos9.netlify.app/
 ##### Aποθετήριο του site : https://github.com/Miltos9/site
 # Παραδοτέα και Τελική αναφορά
  
@@ -12,7 +12,7 @@
 | 4 | Άσκηση προγραμματισμού : <sup><a href="#4">Παραδοτέο 4 </a></sup> |
 | 5 | Άσκηση γραμμής εντολών : <sup><a href="#5">Παραδοτέο 5 </a></sup> |
 | 6 | συμμετοχικό περιεχόμενο : <sup><a href="#6">Παραδοτέο 6 </a></sup>|
-| 7 | Άσκηση προγραμματισμού |
+| 7 | Άσκηση προγραμματισμού : <sup><a href="#7">Παραδοτέο 7 </a></sup> |
 | 8 | Άσκηση γραμμής εντολών |
 | 9 | Άσκηση προγραμματισμού |
 | 10 | Άσκηση γραμμής εντολών |
@@ -52,7 +52,10 @@ Link για το αποθετήριο : https://github.com/Miltos9/site/blob/mas
 
 Link για το codepen : https://codepen.io/2015143/pen/JjKLyXB
 ## Πως έγινε :
-Αρχικά με βάση το Demo της εργασίας ( https://www.sitepoint.com/client-side-form-validation-html5/ ) που προϋπήρχε,έκανα τροποποίηση το τηλέφωνο απο Νιγηριανού τ΄ύπου(xxxx-xxx-xxxx) σε ελληνικό(69-xxxxxxxx) και έφτιαξα το email σύμφωνα με τις οδηγίες του άρθρου.Έπειτα,έψαξα στο internet για tutorial code πάνω στα credit cards και με βάση το κείμενο( https://tutorialzine.com/2016/11/simple-credit-card-validation-form ) έφτιαξα το validation για credit cards αλλάζοντας κάποια πράγματα όπως το submit και το .css για την ενφάνιση,έτσι ώστε να μοιάζει με το phone-email που ειχα ήδη υλοποιήσει.Τέλος,έβαλα φώτογραφίες απο visa,american express,mastercard με την χρήση του https://postimages.org/ .
+Αρχικά με βάση το Demo της εργασίας ( https://www.sitepoint.com/client-side-form-validation-html5/ ) που προϋπήρχε,έκανα τροποποίηση το τηλέφωνο απο Νιγηριανού τ΄ύπου(xxxx-xxx-xxxx) σε ελληνικό(69-xxxxxxxx) και έφτιαξα το email σύμφωνα με τις οδηγίες του άρθρου.Έπειτα,έψαξα στο internet για tutorial code πάνω στα credit cards και με βάση την πηγή( 1 ) έφτιαξα το validation για credit cards αλλάζοντας κάποια πράγματα όπως το submit και το .css για την ενφάνιση,έτσι ώστε να μοιάζει με το phone-email που ειχα ήδη υλοποιήσει.Τέλος,έβαλα φώτογραφίες απο visa,american express,mastercard με την χρήση του https://postimages.org/ .
+
+### Πηγές :
+1 : https://tutorialzine.com/2016/11/simple-credit-card-validation-form
 
 ###### [5]
 ## Άσκηση γραμμής εντολών : organize your notes with emacs.
@@ -82,4 +85,15 @@ Link για το αποθετήριο : https://github.com/Miltos9/site/blob/mas
 Διάλεξα να δημιουργήσω slide με την ιστορική εξέλιξη των τέχνολογικών προϊόντων μιάς και στο Α1 είχα ανεβάσει φωτογραφία απο το τελευταίο μοντέλο smartphone της apple και στις εικόνες του site υπάρχουν πολλά προηγούμενα αλλά και διάφορες διαχρονικές τεχνολογικές συσκευές.
 Οσο αναφορά τα timelines επεξεργάστηκα ενα ήδη υπάρχον(εφόσον το επέτρεπαν οι οδηγείες) και πρόσθεσα στο mobile timeline την φωτογραφία μου ως την τελευταία χρονικά κινητή υπολογιστική συσκευη.
 
+###### [7]
+## Άσκηση προγραμματισμού : youtube-video-player
+Link για το site : https://miltos9.netlify.app/remix/youtube-video-player/
 
+Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_remix/youtube-video-player.md
+
+Link για το codepen : https://codepen.io/2015143/pen/eYzazXJ
+## Πως έγινε :
+Άρχικα άλλαξα το βίντεο με το δικό μου αγαπημένο τραγούδι (πηγή 1), το ενσωμάτωσα στο πλαίσιο του κώδικα που προϋπήρχε και το μετακίνησα στα αριστερά της οθόνης για να βρίσκετε ομοιόμορφα πάνω απο τα κουμπιά (play & pause).Όσο αναφορά τα κουμπιά με την βοήθεια κάποιων youtube tutorials για την απεικόνισή τους αλλά και του stackoverflow (πηγή 2) για την πλήρη λειτουργία τους,κατάφερα να τα συγχρονίσω με το video και να επιτύχω ακριβώς το ζητούμενο της άσκησης.
+ ### Πηγές : 
+1 : https://youtu.be/s9NIBZfVBW4
+2 : https://stackoverflow.com/questions/42703733/make-same-button-play-pause-html5-video
