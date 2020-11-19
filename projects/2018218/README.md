@@ -186,6 +186,11 @@ Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
   - >[Apollo_Guidance_Computer - Normal Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg)
   - >[Apollo_Guidance_Computer - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
   
+- [Compaq Portable](https://github.com/DIATSIGK/_gallery/edit/master/compaq_portable.md)
+  - >[Compaq Portable - Normal Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Compaq_portable.jpg)
+  - >[Compaq Portable - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Compaq_portable_160x120.jpg)
+  
+  
   
 | Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
 | :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
@@ -195,3 +200,14 @@ Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
 Normal Image | 160px Image
 --- | ---
 ![](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg) | ![](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
+
+
+| Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
+| :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
+| diatsigk      |Compaq Portable | [Link image 160 pixel](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Compaq_portable_160x120.jpg)| Το Compaq Portable ήταν ο πρώτος 100% συμβατός υπολογιστής κλώνος IBM. Για αυτόν ακριβώς τον λόγο η Compaq δεν μπορούσε απλώς να αντιγράψει το BIOS της IBM για να κάνει το νέο μηχάνημα, αυτό θα ήταν παράνομο και εύκολα αποδεδειγμένο από την IBM. Η λυση βρέθηκε όταν η Compaq χρησιμοποίησε δύο σύνολα προγραμματιστών .Η πρώτη ομάδα ανέλυσε τον αρχικό κώδικα και σημείωσε ακριβώς πώς ανταποκρινόταν και η δεύτερη ομάδα πήρε αυτές τις σημειώσεις και έγραψε το δικό του BIOS που είχε την ίδια απόδοση. Μετά από ένα χρόνο η επιτυχία ήρθε με ενα εκατομμύριο δολάρια από τις πωλήσεις. Είχαν ένα νόμιμο BIOS πανομοιότυπο με αυτό του υπολογιστή IBM. | [Lisence Url](https://en.wikipedia.org/wiki/Compaq_Portable) |Κινητός υπολογισμός| wiki   | computer | Portable|
+
+
+Normal Image | 160px Image
+--- | ---
+![](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Compaq_portable.jpg) | ![](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Compaq_portable_160x120.jpg)
+
