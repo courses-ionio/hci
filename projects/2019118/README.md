@@ -14,7 +14,7 @@
 | 4 | [Άσκηση προγραμματισμού Image](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-3:~:text=%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%204) |
 | 5 | [Άσκηση γραμμής εντολών](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου-1:~:text=gif!-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%205) |
 | 6 | [Άσκηση προγραμματισμού + συμμετοχικό περιεχόμενο](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-5:~:text=weather%22-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%206) |
-| 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
+| 7 | [Άσκηση γραμμής εντολών](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου-2:~:text=%CE%B1%CF%85%CF%84%CF%8C.-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%207) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
