@@ -14,7 +14,7 @@
 | 5 | Άσκηση γραμμής εντολών : <sup><a href="#5">Παραδοτέο 5 </a></sup> |
 | 6 | συμμετοχικό περιεχόμενο : <sup><a href="#6">Παραδοτέο 6 </a></sup>|
 | 7 | Άσκηση προγραμματισμού : <sup><a href="#7">Παραδοτέο 7 </a></sup> |
-| 8 | Άσκηση γραμμής εντολών |
+| 8 | Άσκηση γραμμής εντολών : <sup><a href="#8">Παραδοτέο 8 </a></sup>|
 | 9 | Άσκηση προγραμματισμού |
 | 10 | Άσκηση γραμμής εντολών |
 | 11 |συμμετοχικό περιεχόμενο |
@@ -99,3 +99,13 @@ Link για το codepen : https://codepen.io/2015143/pen/eYzazXJ
 1 : https://youtu.be/s9NIBZfVBW4
 
 2 : https://stackoverflow.com/questions/42703733/make-same-button-play-pause-html5-video
+
+###### [8]
+## Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion.
+
+[![asciicast](https://asciinema.org/a/374032.svg)](https://asciinema.org/a/374032)
+
+## Περιεχόμενα του video :
+Σε αυτό το video αναπαριστάται η διαδικασία δημιουργίας ενός νέου powerline στο vim editor(καθώς είχα ήδη εγκαταστήσει Plug-in για code highlighting και autocompletion).
+Αρχικά ανοίγω με τον nvim editor το αρχείο που εχω τα plug-ins μου και προσθέτω το plug-in του powerline(Plug 'itchyny/lightline.vim').Επείτα,ανοίγω ένα .vim αρχείο και εφόσον βλέπω το PlugStatus των Plug-ins μου Κάνω PlugInstall το νέο powerline.Στη λίστα με τα Plug-ins φαίνεται αναλυτικά τι έχω ήδη εγκατεστημένο.Τέλος,παρατηρώ οτι εγκαταστάθηκε σωστά διότι ενφανίζεται στο κάτω μέρος του Terminal.
+
