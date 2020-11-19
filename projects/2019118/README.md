@@ -13,7 +13,7 @@
 | 3 | [Άσκηση γραμμής εντολών "set-up the main dependencies and demonstrate your base system"](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου:~:text=%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%203) |
 | 4 | [Άσκηση προγραμματισμού Image](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-3:~:text=%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%204) |
 | 5 | [Άσκηση γραμμής εντολών](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου-1:~:text=gif!-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%205) |
-| 6 | [Άσκηση προγραμματισμού](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-5:~:text=weather%22-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%206) + συμμετοχικό περιεχόμενο |
+| 6 | [Άσκηση προγραμματισμού + συμμετοχικό περιεχόμενο](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-5:~:text=weather%22-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%206) |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -87,6 +87,10 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 
 [Δείτε το στο Codepen](https://codepen.io/vuxxs/pen/JjKxBMM)
 
+[Διαφάνεια Skyrim](https://github.com/Vuxxs/site/blob/master/_case-study/skyrim.md)
+
+[Διαφάνεια Borderlands](https://github.com/Vuxxs/site/blob/master/_case-study/borderlands.md)
+
 ### Εκπλήρωση ζητούμενων παραδοτέου 
 
 Το scroll bar που ξεκινάει με χρώμα μαύρο αλλάζει χρώμα με κάθε αλλαγή όπως θα έπρεπε. 
@@ -94,3 +98,5 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 Υπάρχει η επιπλέον λειτουργία του που δίνει χρώματα που δεν είναι προ-καθορισμένα αλλά τυχαία φτιαγμένα με κάθε εκτέλεση. Αυτό είναι ένα καλύτερο αποτέλεσμα από τα προκαθορισμένα χρώματα γιατί δίνει μία διαφορετική εμπειρία με κάθε εκτέλεση.
 
 <img src="https://i.imgur.com/nb0iLFq.gif">
+
+ακόμα έκανα το συμμετοχικό περιεχόμενο, όσο καλά μπορούσα, και έτσι πρόσθεσα links για αυτό.
