@@ -89,3 +89,9 @@ Cloning του git βιβλίου: https://asciinema.org/a/373311
 ###### [7]
 
 ## Άσκηση προγραμματισμού: Form Validation
+Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/master/_remix/form-validation.md
+
+## Τροποποιήσεις:
+Προσέθεσα τα παρακάτω lines: x Validation< x (format: xxx-xxx):, <input id="x" type="x" pattern="x$" required, ανάλογα με τα ζητούμενα της άσκησης, άλλαξα παράγραφο στο button Submit και τέλος οργάνωσα σε διάταξη τα ζητούμενα όπως αναφέρονται στην εκφώνηση.
+
+Πηγές: https://www.w3schools.com/tags/att_input_pattern.asp
