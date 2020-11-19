@@ -107,5 +107,5 @@ Link για το codepen : https://codepen.io/2015143/pen/eYzazXJ
 
 ## Περιεχόμενα του video :
 Σε αυτό το video αναπαριστάται η διαδικασία δημιουργίας ενός νέου powerline στο vim editor(καθώς είχα ήδη εγκαταστήσει Plug-in για code highlighting και autocompletion).
-Αρχικά ανοίγω με τον nvim editor το αρχείο που εχω τα plug-ins μου και προσθέτω το plug-in του powerline(Plug 'itchyny/lightline.vim').Επείτα,ανοίγω ένα .vim αρχείο και εφόσον βλέπω το PlugStatus των Plug-ins μου Κάνω PlugInstall το νέο powerline.Στη λίστα με τα Plug-ins φαίνεται αναλυτικά τι έχω ήδη εγκατεστημένο.Τέλος,παρατηρώ οτι εγκαταστάθηκε σωστά διότι ενφανίζεται στο κάτω μέρος του Terminal.
+Αρχικά ανοίγω με τον nvim editor το αρχείο που έχω τα plug-in's μου και προσθέτω το plug-in του powerline(Plug 'itchyny/lightline.vim'). Έπειτα ,ανοίγω ένα .vim αρχείο και εφόσον βλέπω το PlugStatus των Plug-in's μου Κάνω PlugInstall το νέο powerline.Στη λίστα με τα Plug-in΄s φαίνεται αναλυτικά τι έχω ήδη εγκατεστημένο.Τέλος,παρατηρώ οτι εγκαταστάθηκε σωστά διότι εμφανίζεται στο κάτω μέρος του Terminal.
 
