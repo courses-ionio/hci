@@ -100,3 +100,7 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 <img src="https://i.imgur.com/nb0iLFq.gif">
 
 ακόμα έκανα το συμμετοχικό περιεχόμενο, όσο καλά μπορούσα, και έτσι πρόσθεσα links για αυτό.
+
+# Παραδοτέο 7
+
+[Άσκηση Γραμμής Εντολών "create your own static site and blog generator with pandoc"](https://asciinema.org/a/iX2LiRTtb6yFbNXjiqjKBsG2M)
