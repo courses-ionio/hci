@@ -107,10 +107,12 @@ Link για το codepen : https://codepen.io/2015143/pen/eYzazXJ
 
 ## Περιεχόμενα του video : 
 Αρχικά,έφτιαξα ένα περιβάλλον με αρχεία τα οποία είχαν εύστοχα ονόματα κ ώστε να μπορώ να βρώ αυτό που θέλω ανα πάσα στιγμή .Έπειτα, εγκατέστησα τα κάποια βασικά plugins για να με βοηθήσουν στη λειτουργία το nvim και στη συνέχεια πρόσθεσα settings για highlight,autocorrection και πολλές άλλες λειτουργίες που φαίνονται αναλυτικά στο βίντεο.
-Τέλος,στις παρακάτω εικόνες αναπαρίσταται ενα τυχαίο αρχειο του κώδικα πριν και μετά τις αλλαγές.
+Τέλος,αναπαρίσταται ενα τυχαίο αρχειο του κώδικα [Πρίν](https://imgur.com/R4ok7x6) και [Μετά](https://imgur.com/IxAa47v) τις αλλαγές του.
 
-![Πρίν](https://imgur.com/myAXQVE)                                 ![Μετά](https://imgur.com/omNpQnP)
+ ### Πηγές : 
+1 : https://www.chrisatmachine.com/Neovim/01-vim-plug/
 
+2 : https://www.chrisatmachine.com/Neovim/02-vim-general-settings/
 
 ###### [9]
 ## Άσκηση προγραμματισμού : Interactive Text
