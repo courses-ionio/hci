@@ -10,7 +10,7 @@
 | 4 | <li><a href="#Keyboard_Input."><span class="toctext">Keyboard_Input.</span></a> Commit:2/11/2020|
 | 5 | <li><a href="#Vim_editor."><span class="toctext">Vim_editor.</span></a> Commit:6/11/2020|
 | 6 | <li><a href="#Συμμετοχικό_Περιεχόμενο(Α1,Α2)."><span class="toctext">Συμμετοχικό_Περιεχόμενο(Α1,Α2).</span></a> Commit:20/11/2020|
-| 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+ | 7 | <li><a href="#Image_Zoom."><span class="toctext">Image_Zoom.</span></a> Commit: 20/11/2020|
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -27,7 +27,7 @@
  ![Webp net-gifmaker](https://user-images.githubusercontent.com/72350589/99186326-32557a00-2758-11eb-8ecb-3b5bee0cbbe0.gif)
  
 Άσκηση: <a href="https://github.com/TaniaStoupi/site/blob/master/_remix/image-filter.md">Image Filter</a><br>
-Λινκ για την άσκηση στο δικό μου αποθετήριο του βιβλίου: https://dreamy-hypatia-ab78eb.netlify.app/remix/image-filter/
+Λινκ για την άσκηση στο δικό μου αποθετήριο του βιβλίου: https://taniastoupi.netlify.app/remix/image-filter/
 <h6>Βιβλιογραφία</h6> 
 <ul> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
   <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
@@ -72,7 +72,7 @@ document.onkeydown = function(e) {<br>
  Έτσι, λοιπόν για να μπορέσει το αυτοκίνητο να έχει την μισή ταχύτητα όταν κάνει όπισθεν έπρεπε να θέσω το dy=2 όταν η είσοδος που δέχεται από το πληκτρολόγιο είναι το πλήκτρο 40, δηλαδή το κάτω βελάκι. Με αυτή την αλλαγή, πλέον το αυτοκίνητο έχει ταχύτητα ίση με 4 m/s όταν κινείται μπροστά και 2 m/s όταν κινείται προς τα πίσω.</p>
  
 Άσκηση: <a href="https://github.com/TaniaStoupi/site/blob/master/_remix/keyboard-input.md">Keyboard Input Exercise 1</a><br>
-Λινκ για την άσκηση στο δικό μου αποθετήριο του βιβλίου: https://dreamy-hypatia-ab78eb.netlify.app/remix/keyboard-input/
+Λινκ για την άσκηση στο δικό μου αποθετήριο του βιβλίου: https://taniastoupi.netlify.app/remix/keyboard-input/
   <h6>Βιβλιογραφία</h6> 
  <ul>  <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
   <br> <a href="https://codepen.io">Codepen.</a> </ul>
@@ -91,7 +91,7 @@ document.onkeydown = function(e) {<br>
  <hr></hr>
  
  <h2><span id="Συμμετοχικό_Περιεχόμενο(Α1,Α2).">Συμμετοχικό_Περιεχόμενο(Α1,Α2).</span></h2>
- <p>Για το συμμετοχικό περιεχόμενο έπρεπε να χρησιμοποιήσουμε την τεχνολογία submodules. Δεν ήταν εύκολο να το καταφέρω, διότι δεν είχα ξαναχρησιμοποιήσει κάτι τέτοιο στο παρελθόν. Προσπαθώντας να το υλοποιήσω αντιμετώπισα αρκετά προβλήματα, καθώς δεν με άφηνε να προσθέσω ως submodule στο δικό μου αποθετήριο τα fork που είχα κάνει από το _gallery και το images αντίστοιχα. Έτσι έκανα rename το δικό μου αποθετήριο, δηλαδή το _gallery σε gallery και το images σε _images και κατάφερα να κάνω τα submodules.<p>
+ <p>Για το συμμετοχικό περιεχόμενο έπρεπε να χρησιμοποιήσουμε την τεχνολογία submodules. Δεν ήταν εύκολο να το καταφέρω, διότι δεν είχα ξαναχρησιμοποιήσει κάτι τέτοιο στο παρελθόν. Προσπαθώντας να το υλοποιήσω αντιμετώπισα αρκετά προβλήματα, καθώς δεν με άφηνε να προσθέσω ως submodule στο δικό μου αποθετήριο τα fork που είχα κάνει από το _gallery και το images αντίστοιχα. Έτσι έκανα rename το δικό μου αποθετήριο, δηλαδή το _gallery σε gallery και το images σε _images και κατάφερα να κάνω τα submodules.</p>
  A1 <a href="https://github.com/TaniaStoupi/_images/blob/master/the-first-touch-screen.jpg">The first touch screen(image)</a><br>
     <a href="https://github.com/TaniaStoupi/gallery/blob/master/the-first-touch-screen.md">The first touch screen(gallery)</a><br>
     <a href="https://github.com/TaniaStoupi/_images/blob/master/Carlson.jpg">The first laser printer(image)</a><br>
@@ -103,4 +103,20 @@ document.onkeydown = function(e) {<br>
  <h6>Βιβλιογραφία</h6>
  <ul><br><a href="https://courses-ionio.github.io/projects/social/">Οδηγίες Μαθήματος</a><br>
  <a href="https://www.youtube.com/watch?v=P6hZlDGvD2U">Tutorial for git submodules</a></ul>
+ 
+ <hr></hr>
+ 
+ <h2><span id="Image_Zoom.">Image_Zoom.</span></h2>
+ <p>Για την άσκηση προγραμματισμού έκανα χρήση της προηγούμενης άσκησης που είχα υλοποιήσει (Image Filter). Έκανα copy-paste τα φίλτρα που είχα μέσα στην λειτουργία hover της άσκησης Image zoom και τώρα όταν γίνεται η λειτουργία hover η εικόνα κάνει zoom-in και αλλάζει φίλτρα.</p>
+ 
+ 
+![Webp net-gifmaker(2)](https://user-images.githubusercontent.com/72350589/99805860-c7d07f80-2b45-11eb-8517-7d4dfd8d9448.gif)
+
+ 
+ Άσκηση: <a href="https://github.com/TaniaStoupi/site/blob/master/_remix/image-zoom.md">Image Zoom</a><br>
+ Λινκ για την άσκηση στο δικό μου αποθετήριο του βιβλίου:https://taniastoupi.netlify.app/remix/image-zoom/
+ 
+ <h6>Βιβλιογραφία</h6> 
+ <ul>  <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
+  <br> <a href="https://codepen.io">Codepen.</a> </ul>
   
