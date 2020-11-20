@@ -51,11 +51,11 @@
 
 Η διαφορά του αποτελέσματος είναι, όπως δείχνει και η ταμπέλα του κουμπιού, να οδηγήστε στα projects μου aka στο GitHub Profile μου σε αντίθεση με πριν που δεν γινόταν κάτι διαφορετικό.
 
-# Παραδοτέο 3
+## Παραδοτέο 3
 
 [Άσκηση Γραμμής Εντολών "set-up the main dependencies and demonstrate your base system"](https://asciinema.org/a/pGRw6ac3RANBLGaaYZnhpah3C)
 
-# Παραδοτέο 4
+## Παραδοτέο 4
 
 [Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/image.md)
 
@@ -74,11 +74,11 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 
 <img src= "https://i.imgur.com/erCdQWV.gif">
 
-# Παραδοτέο 5
+## Παραδοτέο 5
 
 [Άσκηση Γραμμής Εντολών "check the weather"](https://asciinema.org/a/sXUennhrjSEeavNPyFNLqJ7mk)
 
-# Παραδοτέο 6
+## Παραδοτέο 6
 
 
 [Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/mouse-scroll.md)
@@ -101,6 +101,6 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 
 ακόμα έκανα το συμμετοχικό περιεχόμενο, όσο καλά μπορούσα, και έτσι πρόσθεσα links για αυτό.
 
-# Παραδοτέο 7
+## Παραδοτέο 7
 
 [Άσκηση Γραμμής Εντολών "create your own static site and blog generator with pandoc"](https://asciinema.org/a/iX2LiRTtb6yFbNXjiqjKBsG2M)
