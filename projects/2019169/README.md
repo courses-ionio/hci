@@ -94,8 +94,10 @@ document.onkeydown = function(e) {<br>
  <p>Για το συμμετοχικό περιεχόμενο έπρεπε να χρησιμοποιήσουμε την τεχνολογία submodules. Δεν ήταν εύκολο να το καταφέρω, διότι δεν είχα ξαναχρησιμοποιήσει κάτι τέτοιο στο παρελθόν. Προσπαθώντας να το υλοποιήσω αντιμετώπισα αρκετά προβλήματα, καθώς δεν με άφηνε να προσθέσω ως submodule στο δικό μου αποθετήριο τα fork που είχα κάνει από το _gallery και το images αντίστοιχα. Έτσι έκανα rename το δικό μου αποθετήριο, δηλαδή το _gallery σε gallery και το images σε _images και κατάφερα να κάνω τα submodules.</p>
  A1 <a href="https://github.com/TaniaStoupi/_images/blob/master/the-first-touch-screen.jpg">The first touch screen(image)</a><br>
     <a href="https://github.com/TaniaStoupi/gallery/blob/master/the-first-touch-screen.md">The first touch screen(gallery)</a><br>
+  Πηγή: https://arstechnica.com/gadgets/2013/04/from-touch-displays-to-the-surface-a-brief-history-of-touchscreen-technology/
     <a href="https://github.com/TaniaStoupi/_images/blob/master/Carlson.jpg">The first laser printer(image)</a><br>
     <a href="https://github.com/TaniaStoupi/gallery/blob/master/laser-printer.md">The first laser printer(gallery)</a><br>
+  Πηγή: https://history-computer.com/ModernComputer/Basis/laser_printer.html
  A2 <a href="https://github.com/TaniaStoupi/site/blob/master/_slides/systems.md">Διαφάνειες(systems)</a><br>
     <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/computer.md">Χρονολόγιο(the-first-touch-screen)</a><br>
     <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/collaboration.md">Χρονολόγιο(laser-printer)</a><br>
