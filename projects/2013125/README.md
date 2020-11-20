@@ -79,7 +79,7 @@
 
 ## Παραδοτέο 6
 ## Συμμετοχικό Περιερχόμενο
-## [Site](https://p2013125p13giag.netlify.app/)
+## [Site](https://p13giag.netlify.app/)
 ## Παραδοτέο 1 Α1 : Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση π.χ., apple mouse
  [Εικόνα 1 :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_2g.png)
  [Εικόνα 1 160px :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_2g-thumb.png)
