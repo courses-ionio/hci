@@ -9,7 +9,7 @@
  | 3 |<li><a href="#Browse_and_view_your_files."><span class="toctext">Browse_and_view_your_files.</span></a> Commit:26/10/2020|
 | 4 | <li><a href="#Keyboard_Input."><span class="toctext">Keyboard_Input.</span></a> Commit:2/11/2020|
 | 5 | <li><a href="#Vim_editor."><span class="toctext">Vim_editor.</span></a> Commit:6/11/2020|
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
+| 6 | <li><a href="#Συμμετοχικό_Περιεχόμενο(Α1,Α2)."><span class="toctext">Συμμετοχικό_Περιεχόμενο(Α1,Α2).</span></a> Commit:20/11/2020|
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -87,4 +87,20 @@ document.onkeydown = function(e) {<br>
  <br> <a href="https://asciinema.org">Asciinema</a><br>
  <a href="https://www.youtube.com/watch?v=NiO_QyF7CVo">Vimrc configuration(Youtube video)</a><br>
  <a href="https://linuxhint.com/configure_vim_vimrc">Commands about vimrc</a></ul>
+ 
+ <hr></hr>
+ 
+ <h2><span id="Συμμετοχικό_Περιεχόμενο(Α1,Α2).">Συμμετοχικό_Περιεχόμενο(Α1,Α2).</span></h2>
+ <p>Για το συμμετοχικό περιεχόμενο έπρεπε να χρησιμοποιήσουμε την τεχνολογία submodules. Δεν ήταν εύκολο να το καταφέρω, διότι δεν είχα ξαναχρησιμοποιήσει κάτι τέτοιο στο παρελθόν. Προσπαθώντας να το υλοποιήσω αντιμετώπισα αρκετά προβλήματα, καθώς δεν με άφηνε να προσθέσω ως submodule στο δικό μου αποθετήριο τα fork που είχα κάνει από το _gallery και το images αντίστοιχα. Έτσι έκανα rename το δικό μου αποθετήριο, δηλαδή το _gallery σε gallery και το images σε _images και κατάφερα να κάνω τα submodules.<p>
+ A1 <a href="https://github.com/TaniaStoupi/_images/blob/master/the-first-touch-screen.jpg">The first touch screen(image)</a><br>
+    <a href="https://github.com/TaniaStoupi/gallery/blob/master/the-first-touch-screen.md">The first touch screen(gallery)</a><br>
+    <a href="https://github.com/TaniaStoupi/_images/blob/master/Carlson.jpg">The first laser printer(image)</a><br>
+    <a href="https://github.com/TaniaStoupi/gallery/blob/master/laser-printer.md">The first laser printer(gallery)</a><br>
+ A2 <a href="https://github.com/TaniaStoupi/site/blob/master/_slides/systems.md">Διαφάνειες(systems)</a><br>
+    <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/computer.md">Χρονολόγιο(the-first-touch-screen)</a><br>
+    <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/collaboration.md">Χρονολόγιο(laser-printer)</a><br>
+ 
+ <h6>Βιβλιογραφία</h6>
+ <ul><br><a href="https://courses-ionio.github.io/projects/social/">Οδηγίες Μαθήματος</a><br>
+ <a href="https://www.youtube.com/watch?v=P6hZlDGvD2U">Tutorial for git submodules</a></ul>
   
