@@ -98,7 +98,7 @@ document.onkeydown = function(e) {<br>
     <a href="https://github.com/TaniaStoupi/_images/blob/master/Carlson.jpg">The first laser printer(image)</a><br>
     <a href="https://github.com/TaniaStoupi/gallery/blob/master/laser-printer.md">The first laser printer(gallery)</a><br>
   Πηγή: https://history-computer.com/ModernComputer/Basis/laser_printer.html
- A2 <a href="https://github.com/TaniaStoupi/site/blob/master/_slides/systems.md">Διαφάνειες(systems)</a><br>
+ <br>A2 <a href="https://github.com/TaniaStoupi/site/blob/master/_slides/systems.md">Διαφάνειες(systems)</a><br>
     <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/computer.md">Χρονολόγιο(the-first-touch-screen)</a><br>
     <a href="https://github.com/TaniaStoupi/site/blob/master/_timeline/collaboration.md">Χρονολόγιο(laser-printer)</a><br>
  
