@@ -21,7 +21,7 @@ Forked pibook site repository: https://github.com/panosath/site
 Έγινε fork του <a href="https://github.com/panosath/site" title="link to my fork of the site repo">αποθετηρίου του βιβλίου</a> και του <a href="https://github.com/panosath/hci/tree/2015167/projects/2015167" title="link to my fork of the /hci repo">αποθετηρίου του μαθήματος</a> σε προσωπικό αποθετήριο καθώς δημιουργήθηκε branch με όνομα τον αριθμό μητρώου μου, στο οποίο θα αναρτώνται οι εργασίες. Οι προσδοκίες μου από αυτό το μάθημα είναι η εξοικείωση με το περιβάλλον του github, καθώς και με το περιβάλλον UNIX και η καλύτερη επαφή με κάποιες τεχνικές προγραμματισμού μέσω ασκήσεων του μαθήματος.
 
 <h2>Άσκηση προγραμματισμού: Zoom Hover Effect</h2>
-<a href="https://panosath-pibook.netlify.app/remix/image-zoom/" title="link to netlify pibook page">Η άσκηση στο βιβλίο του μαθήματος</a>
+<a href="https://panosath-pibook.netlify.app/remix/image-zoom/" title="link to netlify pibook page">Η άσκηση στο βιβλίο του μαθήματος</a><br>
 Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/WNxoJoR" title="link to codepen">link στο codepen</a> της πρώτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/image-zoom.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Τροποποίησα το Zoom Hover Effect ώστε αρχικά η εικόνα να έχει ενα ελαφρύ grayscale effect, το οποίο εξαφανίζεται κάνοντας mouseover. Κατα το mouseover εκτελλούνται πολλαπλά effect όπως αλλαγή στο contrast και το saturation της εικόνας, όπως επίσης γίνεται ζουμ προς το έπανω μέρος της εικόνας.
 
 <h2>Άσκηση γραμμής εντολών: Taskwarrior</h2>
