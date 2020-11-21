@@ -115,16 +115,15 @@
       ## Συμμετοχικό περιεχόμενο
       
       Λόγο δικής μου παράληψης την 6η Εβδομάδα θα έπρεπε να είχα καταθέσει το συμμετοχικό υλικό και να μην είχα κάνει την Άσκηση Γραμμής Εντολών 3 καθώς προοριζόταν για την 7η Εβδομάδα σύμφωνα με της οδηγίες του μαθήματος (https://github.com/courses-ionio/hci).
-      | link | Τίτλος  |
-      |---|---|
-      |https://github.com/KaterinaLaz/site/blob/master/iphone.md | iphone |
-      |https://github.com/KaterinaLaz/site/blob/master/makey-makey.md| Makey Makey |
-      |https://github.com/KaterinaLaz/images/blob/e160742e4abc437f612fa11698a6f0fc174eab90/arduino.jpg | Makey Makey Pic |
-      |https://github.com/KaterinaLaz/images/blob/2f47e8ee4b381c65740d3a8a8cd873a1561db4e5/arduino_mikri.png | Makey Makey Thumb Pic |
-      |https://github.com/KaterinaLaz/images/blob/90e7609c12dd454303ec1f9274b957c409e327cd/iphone.png | iphone Pic |
-      |https://github.com/KaterinaLaz/images/blob/15cb9911d5e9463b068609c07fdb23a382d10d1b/iphonw_mikro.png | iphone Thumb Pic |
-      
-      
+      | A1 | A2 |
+      |---| --- |
+      | [Iphone](https://github.com/KaterinaLaz/site/blob/master/iphone.md) | [Iphone Slides](https://github.com/KaterinaLaz/site/blob/master/_slides/method.md)| 
+      | [Makey Makey](https://github.com/KaterinaLaz/site/blob/master/makey-makey.md) |[Iphone Timeline](https://github.com/KaterinaLaz/site/blob/master/_timeline/personal.md) |  
+      | [Makey Makey Pic](https://github.com/KaterinaLaz/images/blob/e160742e4abc437f612fa11698a6f0fc174eab90/arduino.jpg) |[Makey Makey Slide](https://github.com/KaterinaLaz/site/blob/master/_slides/archetypes.md)|  
+      | [Makey Makey Thumb Pic](https://github.com/KaterinaLaz/images/blob/2f47e8ee4b381c65740d3a8a8cd873a1561db4e5/arduino_mikri.png) |[Makey Makey Timeline](https://github.com/KaterinaLaz/site/blob/master/_timeline/learning.md)| 
+      | [Iphone Pic](https://github.com/KaterinaLaz/images/blob/90e7609c12dd454303ec1f9274b957c409e327cd/iphone.png) | |
+      | [Iphone Thumb Pich](https://github.com/KaterinaLaz/images/blob/15cb9911d5e9463b068609c07fdb23a382d10d1b/iphonw_mikro.png) | |
+   
       * Πηγές:
         - [23](https://ehn.wikipedia.org/wiki/IPhone_) : Iphone 1st Generetion
         - [24](https://makeymakey.com/pages/mission) : Makey Makey
