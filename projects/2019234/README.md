@@ -11,7 +11,7 @@
 | 4 |[Άσκηση προγραμματισμού ](#ΠΑΡΑΔΟΤΕΟ-4) | 
 | 5 | [Άσκηση γραμμής εντολών ](#ΠΑΡΑΔΟΤΕΟ-5)| 
 | 6 | [Συμμετοχικό περιεχόμενο ](#ΠΑΡΑΔΟΤΕΟ-6)|
-| 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 7 |[Άσκηση προγραμματισμού ](#ΠΑΡΑΔΟΤΕΟ-7)| 
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -55,3 +55,9 @@ https://github.com/alkinoospitsinis/images/blob/master/apl-thumb.png
 Προσθήκη της γλώσσας προγραμματισμού στα slides και timeline: https://github.com/alkinoospitsinis/site/blob/master/_slides/programming.md
 
 https://github.com/alkinoospitsinis/site/blob/master/_timeline/programming.md
+
+
+## ΠΑΡΑΔΟΤΕΟ 7:
+
+https://github.com/alkinoospitsinis/site/blob/2019234/_remix/image-filter.md
+
