@@ -10,7 +10,7 @@
 | 5 |**[text editor and plug-ins for code highlighting and autocompletion](#text-editor-and-plug-ins-for-code-highlighting-and-autocompletion)**| 
 |   |**[check the weather](#check-the-weather)**|
 | 6 |**[Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο)** |
-| 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
+| 7 |**[Image processing](#image-processing)** |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -29,6 +29,7 @@
 Όπως αναφέρεται και στον πίνακα περιεχομένων την συκγεκριμένη εβδομάδα πραγματοποίησα μια από τις εργασίες προγραμματισμού. Ώς πρώτη εντύπωση οι κώδικες από τις εργασίες που μας δόθηκαν φαίνοταν απαιτητικοί και δημιούργησαν μεγάλη σύχγχυση. Ανάμεσα στην μεγάλη λίστα  των ασκήσεων προγραμματισμού έχοντας εξερευνίσει τις απαιτήσεις από  κάποιες από αυτές κατέληξα να πραγματοποίησω την **"Mouse Form"**. Πρόκειται για ένα παράθυρο που εφμανίζεται στο χρήστη τον οποίο υποχρεώνει να συμπληρώσει αναλυτικά την ημερομηνία γέννησης του κάτι το οποίο είναι πολύ συνηθισμένο στον χώρο του διαδικτύου. Ο κώδικας βασιζόταν στην HTML και CSS αποκλειστικά γεγονός το οποίο με οδήγησε στο να εστιάσω απλός στις δύο αυτές γλώσσες προγραμματισμού και ειδικότερα στην HTML. Η μόνη απαίτηση λοιπόν ήταν να προσαρμόσω κάποιες ήδη υπάρχουσες εντολές που επαναλαμβάνοταν διαρκώς ώστε να δημιουργήσω ένα επιπλέον κουτάκι που παίρνει ως δεδομένα τα φύλα (άνδρας,γυναίκα).
 * Σύνδεσμος για: [pibook](https://github.com/p19pasc/site/blob/master/_remix/mouse-form.md)    
 * Σύνδεσμος για: [pibook(Netlify)](https://codingexercisesp2019110.netlify.app/remix/mouse-form/) 
+* Σύνδεσμος για: [codepen](https://codepen.io/p19pasc/pen/rNLLOwd)
 <br>
 
 ### Mouse option
@@ -39,6 +40,21 @@
 
 * Σύνδεσμος για: [pibook](https://github.com/p19pasc/site/blob/master/_remix/mouse-option.md)  
 * Σύνδεσμος για: [pibook(Netlify)](https://codingexercisesp2019110.netlify.app/remix/mouse-option/)
+* Σύνδεσμος για: [codepen](https://codepen.io/p19pasc/pen/BazrXVj)
+<br>
+
+### Image processing
+
+Έχοντας αποκτήσει μερική εμπειρία σχετικά με το μάθημα, η προσθήκη φίλτρων στην εργασία **Image processing** έγινε με περισσότερη άνεση. Καλούμαστε να πειραματιστούμε και να προσθέσουμε και συνδυάσουμε φίλτρα ώστε να αλλάζει η εμφάνιση και τα χρώματα της εικόνας που μας δίνεται. Οι τροποποιήσεις είναι απλές και αφορούν αποκλειστικά την **CSS** σβίνοντας, προσθέτοντας και αλλάζοντας εντολές στα "block" του αρχικού κώδικα, συγκεκριμένα στις γραμμές 9-16 και 82-85. Για <br>
+παράδειγμα `brightness(%)` για την φωτεινότητα της εικόνας, `blur(πχ)` για το θόλωμα της εικόνας, `shadow(px px 0px`    <br>
+`colour)` για την προσθήκη σκιών.  
+* Σύνδεσμος για: [pibook](https://github.com/p19pasc/site/blob/master/_remix/image-filter.md)
+* Σύνδεσμος για: [pibook(Netlify)](https://codingexercisesp2019110.netlify.app/remix/image-filter/)
+* Σύνδεσμος για: [codepen](https://codepen.io/p19pasc/pen/ExyBoRX) 
+
+<p align="center">
+<img src="https://i.postimg.cc/nhCgjsdr/ezgif-com-gif-maker.gif" width=250>
+ <p/>
 <br>
 
 # Ασκήσεις γραμμής εντολών
@@ -77,8 +93,8 @@
 # Πηγές πληροφοριών
 ### Ασκήσεις προγραμματισμού
 
-mouse option: https://postimages.org/
- 
+mouse option: https://postimages.org/  
+image processing: https://www.w3schools.com/cssref/css3_pr_filter.asp
 ### Ασκήσεις γραμμής εντολών
 
 - [homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
@@ -87,6 +103,7 @@ mouse option: https://postimages.org/
 ### Εμφανησιακή επεξεργασία 
 - [Ανέβασμα εικόνων](https://postimages.org/)   
   - [Καλιμπράρισμα εικόνων](https://www.youtube.com/watch?v=f4ifdKCH7VI&ab_channel=PeterC)  
+  - [Gif Maker](https://ezgif.com/)
 * [Markdown](https://www.markdownguide.org/basic-syntax/#images-1)
 
 
