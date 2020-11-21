@@ -59,5 +59,6 @@ https://github.com/alkinoospitsinis/site/blob/master/_timeline/programming.md
 
 ## ΠΑΡΑΔΟΤΕΟ 7:
 
+
 https://github.com/alkinoospitsinis/site/blob/master/_remix/image-filter.md
 
