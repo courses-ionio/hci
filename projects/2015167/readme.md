@@ -23,6 +23,10 @@ Forked pibook site repository: https://github.com/panosath/site
 <h2>Άσκηση προγραμματισμού: Zoom Hover Effect</h2>
 <a href="https://panosath-pibook.netlify.app/remix/image-zoom/" title="link to netlify pibook page">Η άσκηση στο βιβλίο του μαθήματος</a><br>
 Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/WNxoJoR" title="link to codepen">link στο codepen</a> της πρώτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/image-zoom.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Τροποποίησα το Zoom Hover Effect ώστε αρχικά η εικόνα να έχει ενα ελαφρύ grayscale effect, το οποίο εξαφανίζεται κάνοντας mouseover. Κατα το mouseover εκτελλούνται πολλαπλά effect όπως αλλαγή στο contrast και το saturation της εικόνας, όπως επίσης γίνεται ζουμ προς το έπανω μέρος της εικόνας.
+<iframe
+  src="https://codepen.io/panosath/pen/WNxoJoR"
+  style="width:100%; height:300px;"
+></iframe>
 
 <h2>Άσκηση γραμμής εντολών: Taskwarrior</h2>
 Παρατίθεται εδώ το <a href="https://asciinema.org/a/368122" title="link to asciinema">link</a> της πρώτης άσκησης γραμμής εντολών. Γίνεται παρουσίαση ορισμένων βασικών λειτουργιών του εργαλείου Taskwarrior στο Terminal των Ubuntu 20.04LTS. Χρησιμοποιήθηκε το VM VirtualBox σε Windows για προσομοίωση ενός υπολογιστή με λειτουργικό Linux. Υπήρξαν ορισμένες δυσκολίες με τα file/folder permissions στο Ubuntu οι οποίες επιλύθηκαν και στη συνέχεια έγινε λήψη του Taskwarrior μέσω του Terminal με την εντολή sudo apt-get install taskwarrior. Η συνέχεια φαίνεται στο βίντεο στο asciinema.
