@@ -9,7 +9,7 @@ Forked pibook site repository: https://github.com/panosath/site
 | 3 | [Άσκηση γραμμής εντολών: Taskwarrior](#άσκηση-γραμμής-εντολών-taskwarrior) |
 | 4 | [Άσκηση προγραμματισμού: Form Validation](#άσκηση-προγραμματισμού-form-validation) |
 | 5 | [Άσκηση γραμμής εντολών: .vimrc Configuration](#άσκηση-γραμμής-εντολών-vimrc-configuration) |
-| 6 | Συμμετοχικό περιεχόμενο |
+| 6 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο) |
 | 7 | Άσκηση προγραμματισμού |
 | 8 | Άσκηση γραμμής εντολών |
 | 9 | Άσκηση προγραμματισμού |
@@ -23,10 +23,6 @@ Forked pibook site repository: https://github.com/panosath/site
 <h2>Άσκηση προγραμματισμού: Zoom Hover Effect</h2>
 <a href="https://panosath-pibook.netlify.app/remix/image-zoom/" title="link to netlify pibook page">Η άσκηση στο βιβλίο του μαθήματος</a><br>
 Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/WNxoJoR" title="link to codepen">link στο codepen</a> της πρώτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/image-zoom.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Τροποποίησα το Zoom Hover Effect ώστε αρχικά η εικόνα να έχει ενα ελαφρύ grayscale effect, το οποίο εξαφανίζεται κάνοντας mouseover. Κατα το mouseover εκτελλούνται πολλαπλά effect όπως αλλαγή στο contrast και το saturation της εικόνας, όπως επίσης γίνεται ζουμ προς το έπανω μέρος της εικόνας.
-<iframe
-  src="https://codepen.io/panosath/pen/WNxoJoR"
-  style="width:100%; height:300px;"
-></iframe>
 
 <h2>Άσκηση γραμμής εντολών: Taskwarrior</h2>
 Παρατίθεται εδώ το <a href="https://asciinema.org/a/368122" title="link to asciinema">link</a> της πρώτης άσκησης γραμμής εντολών. Γίνεται παρουσίαση ορισμένων βασικών λειτουργιών του εργαλείου Taskwarrior στο Terminal των Ubuntu 20.04LTS. Χρησιμοποιήθηκε το VM VirtualBox σε Windows για προσομοίωση ενός υπολογιστή με λειτουργικό Linux. Υπήρξαν ορισμένες δυσκολίες με τα file/folder permissions στο Ubuntu οι οποίες επιλύθηκαν και στη συνέχεια έγινε λήψη του Taskwarrior μέσω του Terminal με την εντολή sudo apt-get install taskwarrior. Η συνέχεια φαίνεται στο βίντεο στο asciinema.
@@ -37,3 +33,6 @@ Forked pibook site repository: https://github.com/panosath/site
 
 <h2>Άσκηση γραμμής εντολών: .vimrc Configuration</h2>
 Παρατίθεται εδώ το <a href="https://asciinema.org/a/372449" title="link to asciinema">link</a> της δεύτερης άσκησης γραμμής εντολών. Γίνεται άνοιγμα και απλή επεξεργασία του αρχείου .vimrc του vim editor που βρίσκεται στο home directory. Προστέθηκαν επιλογές της αρεσκέιας μου όπως οι syntax on, set number, set ttyfast καθώς και οι set nocompatible και filetype plugin ident on.
+
+<h2>Συμμετοχικό περιεχόμενο</h2>
+Για το συμμετοχικό υλικό προστέθηκαν δυο entries και οι αντίστοιχες εικόνες τους: <a href="https://panosath-pibook.netlify.app//gallery/limewire/" title="link to book entry">LimeWire</a> και <a href="https://panosath-pibook.netlify.app//gallery/utorrent/" title="link to book entry">uTorrent</a>. Κάνοντας κλικ επάνω στα ονόματά τους, ανοίγει η αντίστοιχη σελίδα στο site του βιβλίου. Εδώ βρίσκονται τα link στο αποθετήριο του βιβλίου: του LimeWire: https://github.com/panosath/_gallery/blob/720a86192c41575a3e2e771d8c9bd4b1833f1cfc/limewire.md και του uTorrent: https://github.com/panosath/_gallery/blob/720a86192c41575a3e2e771d8c9bd4b1833f1cfc/utorrent.md. Πρόσθεσα επίσης και στην ήδη υπάρχουσα διαφάνεια <a href="https://panosath-pibook.netlify.app//slides/definition/" title="link to the slide">"Ορισμός"</a> τα δυο αυτά entries. Αρχικά κατα την δημιουργία συνάντησα προβλήματα με το git και τα submodules καθώς δεν μπορούσα να καταφέρω συγχρονισμό των submodules αλλά έπειτα απο πειραματισμό στο git και αναζήτηση στο διαδίκτυο και κυρίως στο stackoverflow.com κατάφερα το επιθυμιτό αποτέλεσμα.
