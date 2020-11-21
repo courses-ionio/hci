@@ -94,12 +94,17 @@
 [Σύνδεσμος Άσκησης](https://codepen.io/p13giag/pen/mdELmBr)
 
 ## Αλλαγές στην Άσκηση του προγραμματισμού
-
 ## SubmitHandler για τον έλεγχο του Ελληνικού τηλεφωνικό νούμερο
 [Σύνεδσμος βιβλιογραφίας](https://www.w3schools.com/jsref/event_onsubmit.asp),(https://www.w3schools.com/jsref/met_form_submit.asp)
 
 Άλλαξα το pattern για να έχω ελληνικό τηλεφωνικό νούμερο και δημιούργησα ένα κώδικα javascript για να ελέγχο αν ο αριθμός είναι ελληνικό νούμερο και αν είναι σωστή η φόρμα θα μου επιβεβαιώνει την ολοκλήρωση της φόρμας και μου εμφανίζει τον ελληνικό τηλεφωνικό νούμερο.
+
 ## Πρόσθεσα Έλεγχο για email και credit card 
 [Σύνδεσμος βιβλιογραφίας](https://www.w3schools.com/html/html_forms.asp)
 
 Αρχικά πρόσθεσα το div για email μέσω html κώδικα με το περιορισμό "required".Μετά πρόσθεσα τα div για την credit card με τα απαραίτητα στοιχεία ώστε να επιβεβαιώνεται και η κάρτα για τα απαραίτητα("required") στοιχεία όπως : "Cardholder, Cardnumber, Exp.Motnh, Exp.Year, CVV" .Το cardholder πρέπει να είναι το ονοματεπώνυμο του κάτοχου της κάρτας, το cardnumber πρέπει να έχει 16 ψηφία τον αριθμό του κάτοχου της κάρτας ,το exp.motnh πρέπει να έχει επιλογή από 1 εώς 12 μήνες για να επιλέξει ο κάτοχος, Το exp.year πρέπει η κάρτα να λήγει μετά το 2021 και για αυτό χρειάζεται να γράψουν τα δύο τα τελευταία ψηφία του έτους οιυ λήγει η credit card και τέλος το CVV τα τρία ψηφία της credit card στο πίσω μέρος.
+## Προσθήκες στο κώδικα της CSS 
+## προσθήκη για την θέση του button submit-container, της φόρμας form και των inputs της φόρμας
+[Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/csS/css3_flexbox_container.asp),
+[Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/csS/css_dimension.asp),
+[Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/csS/css_padding.asp)
