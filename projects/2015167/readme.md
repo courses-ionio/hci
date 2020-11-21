@@ -27,7 +27,7 @@ Forked pibook site repository: https://github.com/panosath/site
 <hr>
 
 <h2>Άσκηση γραμμής εντολών: Taskwarrior</h2>
-Παρατίθεται εδώ το <a href="https://asciinema.org/a/368122" title="link to asciinema">link</a> της πρώτης άσκησης γραμμής εντολών. Γίνεται παρουσίαση ορισμένων βασικών λειτουργιών του εργαλείου Taskwarrior στο Terminal των Ubuntu 20.04LTS. Χρησιμοποιήθηκε το VM VirtualBox σε Windows για προσομοίωση ενός υπολογιστή με λειτουργικό Linux. Υπήρξαν ορισμένες δυσκολίες με τα file/folder permissions στο Ubuntu οι οποίες επιλύθηκαν και στη συνέχεια έγινε λήψη του Taskwarrior μέσω του Terminal με την εντολή sudo apt-get install taskwarrior. Η συνέχεια φαίνεται στο βίντεο στο asciinema.
+Παρατίθεται εδώ το <a href="https://asciinema.org/a/368122" title="link to asciinema">link</a> της πρώτης άσκησης γραμμής εντολών. Γίνεται παρουσίαση ορισμένων βασικών λειτουργιών του εργαλείου Taskwarrior στο Terminal των Ubuntu 20.04LTS. Χρησιμοποιήθηκε το VM VirtualBox σε Windows για προσομοίωση ενός υπολογιστή με λειτουργικό Linux. Υπήρξαν ορισμένες δυσκολίες με τα file/folder permissions στο Ubuntu οι οποίες επιλύθηκαν και στη συνέχεια έγινε λήψη του Taskwarrior μέσω του Terminal με την εντολή sudo apt-get install taskwarrior. Η συνέχεια φαίνεται στο βίντεο στο asciinema.<br>
 <a href="https://asciinema.org/a/368122" target="_blank"><img src="https://asciinema.org/a/368122.svg"  width="400" height="300" /></a>
 <hr>
 
@@ -37,7 +37,7 @@ Forked pibook site repository: https://github.com/panosath/site
 <hr>
 
 <h2>Άσκηση γραμμής εντολών: .vimrc Configuration</h2>
-Παρατίθεται εδώ το <a href="https://asciinema.org/a/372449" title="link to asciinema">link</a> της δεύτερης άσκησης γραμμής εντολών. Γίνεται άνοιγμα και απλή επεξεργασία του αρχείου .vimrc του vim editor που βρίσκεται στο home directory. Προστέθηκαν επιλογές της αρεσκέιας μου όπως οι syntax on, set number, set ttyfast καθώς και οι set nocompatible και filetype plugin ident on.
+Παρατίθεται εδώ το <a href="https://asciinema.org/a/372449" title="link to asciinema">link</a> της δεύτερης άσκησης γραμμής εντολών. Γίνεται άνοιγμα και απλή επεξεργασία του αρχείου .vimrc του vim editor που βρίσκεται στο home directory. Προστέθηκαν επιλογές της αρεσκέιας μου όπως οι syntax on, set number, set ttyfast καθώς και οι set nocompatible και filetype plugin ident on.<br>
 <a href="https://asciinema.org/a/372449" target="_blank"><img src="https://asciinema.org/a/372449.svg"  width="400" height="300" /></a>
 <hr>
 
