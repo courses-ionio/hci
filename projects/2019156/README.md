@@ -12,7 +12,7 @@
 | 4 | [Mouse form ](#Mouse_form) |
 | 5 |[hci](#hci-vim)   |
 | 6 |[Archetypes](#Archetypes)|
-| 7 |[Menu scroll[(#menu-scroll)|
+| 7 |[Menu scroll](#menu-scroll)|
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
