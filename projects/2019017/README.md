@@ -21,7 +21,7 @@
 | 12 | Τελική αναφορά |
 
 ## Παραδοτέο 1
-#### [My repository](https://github.com/p19kala/hci-lab/tree/%CE%A02019017)
+#### [My repository](https://github.com/p19kala/hci/tree/2019017)
 #### [My profile](https://github.com/p19kala)
 ### Εισαγωγή:
 
