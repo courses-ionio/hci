@@ -29,7 +29,7 @@
 
  ## ΠΑΡΑΔΟΤΕΟ 2:
  
- https://github.com/alkinoospitsinis/site/blob/2019234/_remix/mouse-form.md
+ https://github.com/alkinoospitsinis/site/blob/master/_remix/mouse-form.md
 
 ## ΠΑΡΑΔΟΤΕΟ 3:
 
@@ -37,7 +37,7 @@ https://asciinema.org/a/sEriV3X7h3ZWwDMtW6blxJajQ
 
 ## ΠΑΡΑΔΟΤΕΟ 4:
 
-https://github.com/alkinoospitsinis/site/blob/2019234/_remix/form-validation.md
+https://github.com/alkinoospitsinis/site/blob/master/_remix/form-validation.md
 
 
 ## ΠΑΡΑΔΟΤΕΟ 5:
@@ -59,5 +59,5 @@ https://github.com/alkinoospitsinis/site/blob/master/_timeline/programming.md
 
 ## ΠΑΡΑΔΟΤΕΟ 7:
 
-https://github.com/alkinoospitsinis/site/blob/2019234/_remix/image-filter.md
+https://github.com/alkinoospitsinis/site/blob/master/_remix/image-filter.md
 
