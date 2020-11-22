@@ -54,7 +54,7 @@
   Σκοπός της άσκησης ήταν η τροποποίηση της υπάρχουσας εικόνας, ώστε μαζί με την χρήση φίλτρων απο προηγούμενο παράδειγμα(Image Processing), μετακινώντας το ποντίκι προς την εικόνα να γίνεται ταυτόχρονα και μεγένθυση της, αλλα και προβολή της με τα φίλτρα που χρησιμοποιήθηκαν.
   
   <h2><span id="Συμμετοχικό περιεχόμενο">Συμμετοχικό περιεχόμενο</span></h2>
-    1η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/web%20camera.jpg
+    <li>1η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/web%20camera.jpg
     <li>2η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/keyboard.jpg
     <li>Πληροφορίες για την 1η εικόνα : https://github.com/AnastasiaMariaStefani/gallery/blob/master/web%20camera.md
     <li>Πληροφορίες για την 2η εικόνα : https://github.com/AnastasiaMariaStefani/gallery/blob/master/keyboard.md
