@@ -36,9 +36,9 @@
   
 Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.
   
-https://github.com/rafael5gr2/site/blob/master/_remix/button.md
-https://codepen.io/sckarolos/pen/VvYoLm/
-https://codepen.io/p19fota/pen/ZEOOROY
+https://github.com/rafael5gr2/site/blob/master/_remix/button.md  
+https://codepen.io/sckarolos/pen/VvYoLm/  
+https://codepen.io/p19fota/pen/ZEOOROY  
 https://rafael5gr2.netlify.app/remix/button/
   
 ![Button](https://image.prntscr.com/image/nwX6lLUrTqWTS_2tu_SBRA.png)
@@ -57,9 +57,9 @@ https://rafael5gr2.netlify.app/remix/button/
   
 Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.
   
-https://github.com/rafael5gr2/site/blob/master/_remix/image.md
-https://codepen.io/sckarolos/pen/dYPxYp/
-https://codepen.io/p19fota/pen/ZEOyZyG
+https://github.com/rafael5gr2/site/blob/master/_remix/image.md  
+https://codepen.io/sckarolos/pen/dYPxYp/  
+https://codepen.io/p19fota/pen/ZEOyZyG  
 https://rafael5gr2.netlify.app/remix/image/
   
 ![Image](https://image.prntscr.com/image/DNsuc1J8Q5i8WItP05xciw.png)
@@ -82,9 +82,9 @@ https://rafael5gr2.netlify.app/remix/image/
   
 Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.
   
-https://github.com/rafael5gr2/site/blob/master/_remix/image-filter.md
-https://codepen.io/sckarolos/pen/VLJWMQ/
-https://codepen.io/sckarolos/pen/VLJWMQ/
+https://github.com/rafael5gr2/site/blob/master/_remix/image-filter.md  
+https://codepen.io/sckarolos/pen/VLJWMQ/  
+https://codepen.io/sckarolos/pen/VLJWMQ/  
 https://rafael5gr2.netlify.app/remix/image-filter/
   
 ![Image](https://image.prntscr.com/image/1Ld4SvVCRbeNiXP1Ra9Cmg.png)
