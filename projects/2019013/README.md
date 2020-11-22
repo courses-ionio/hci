@@ -9,7 +9,7 @@
 | 3 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών 1η"></span> <span class="toctext">Άσκηση γραμμής εντολών 1η</span></a>|
 | 4 | Άσκηση προγραμματισμού <li><a href="#Άσκηση προγραμματισμού 2η 2η"></span> <span class="toctext">Άσκηση προγραμματισμού 2η</span></a> |
 | 5 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών 2η"></span> <span class="toctext">Άσκηση γραμμής εντολών 2η</span></a>|
-| 6 | Συμμετοχικό περιεχόμενο |
+| 6 | Συμμετοχικό περιεχόμενο <li><a href="#Συμμετοχικό περιεχόμενο"></span> <span class="toctext">Συμμετοχικό περιεχόμενο</span></a> |
 | 7 | Άσκηση Προγραμματισμού <li><a href="#Άσκηση προγραμματισμού 3η"></span> <span class="toctext">Άσκηση προγραμματισμού 3η</span></a> |
 | 8 | Άσκηση γραμμής εντολών |
 | 9 | Άσκηση Προγραμματισμού|
@@ -47,8 +47,16 @@
   
    Σκοπός της άσκησης ήταν η εμφάνιση του καιρού στην πόλη μας, καθώς και μιας ακόμα πόλης που θέλουμε να ταξιδέψουμε μέσω του τερματικού των Ubuntu, με την χρήση του Windows Subsystem for Linux. Ειδικότερα, με την βοήθεια του asciinema κατάφερα να καταγράψω την διαδικασία αυτή.
    
-   <h2><span id="Άσκηση Προγραμματισμού 3η">Άσκηση Προγραμματισμού 2η</span></h2>
+   <h2><span id="Άσκηση Προγραμματισμού 3η">Άσκηση Προγραμματισμού 3η</span></h2>
   
   <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/image-zoom.md" title="Image Zoom">Image Zoom</a></i>
   
   Σκοπός της άσκησης ήταν η τροποποίηση της υπάρχουσας εικόνας, ώστε μαζί με την χρήση φίλτρων απο προηγούμενο παράδειγμα(Image Processing), μετακινώντας το ποντίκι προς την εικόνα να γίνεται ταυτόχρονα και μεγένθυση της, αλλα και προβολή της με τα φίλτρα που χρησιμοποιήθηκαν.
+  
+  <h2><span id="Συμμετοχικό περιεχόμενο">Συμμετοχικό περιεχόμενο</span></h2>
+    1η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/web%20camera.jpg
+    2η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/keyboard.jpg
+    Πληροφορίες για την 1η εικόνα : https://github.com/AnastasiaMariaStefani/gallery/blob/master/web%20camera.md
+    Πληροφορίες για την 2η εικόνα : https://github.com/AnastasiaMariaStefani/gallery/blob/master/keyboard.md
+    Σετ διαφανειών : https://github.com/AnastasiaMariaStefani/site/blob/master/_slides/archetypes.md
+    Χρονολόγιο : https://github.com/AnastasiaMariaStefani/site/blob/master/_timeline/videogames.md
