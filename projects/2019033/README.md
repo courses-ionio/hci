@@ -80,6 +80,14 @@ https://www.github.com/Tsimpliarakis/site/tree/master/_timeline%2Fvideogames.md
 https://www.github.com/Tsimpliarakis/site/tree/master/_slides%2Fvideogames.md
 
 
+Microvision<br/>
+Η πρώτη φορητή κονσόλα.<br/>
+
+Osborne1<br/>
+
+Ο πρώτος 'φορητός' μικρουπολογιστής.<br/>
+
+
 ## Mouse Form
 
 ![Mouse Form](https://imgur.com/6n78p87.png)
