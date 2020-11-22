@@ -3,6 +3,7 @@
 ### Ονοματεπώνυμο: ΔΗΜΗΤΡΗΣ ΚΩΣΤΑΔΗΜΑΣ
 ### Αριθμός Μητρώου: Π2019108
 ### GitHub Profile: [KuhakuNeko](https://github.com/KuhakuNeko)
+### Site Repository: [KuhakuNeko/Site](https://github.com/KuhakuNeko/site)
 <br />
 
 ## Πίνακας με σύνοψη των παραδοτέων
@@ -16,7 +17,7 @@
 | 5 |[Άσκηση γραμμής εντολών: Download mp3](#5ο-παραδοτέο---download-mp3) |
 | 6 | [Συμμετοχικό περιεχόμενο: Α1 και Α2](#6ο-παραδοτέο---συμετοχικό-περιεχόμενο-α1-και-α2) |
 | 7 | [Άσκηση προγραμματισμού: Mouse Option](#7ο-παραδοτέο---mouse-option) |
-| 8 | Άσκηση γραμμής εντολών |
+| 8 | [Άσκηση γραμμής εντολών: Create Your Final Presentation](#8ο-παραδοτέο---create-your-final-presentation) |
 | 9 | Άσκηση προγραμματισμού |
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | συμμετοχικό περιεχόμενο |
@@ -174,7 +175,7 @@ sudo, ls, nano, gedit, neofetch, lshw
 Η δεύτερη εργασία γραμμής εντολών που επέλεξα ζητούσε να αναζητήσουμε, να κατεβάσουμε και να ακούσουμε το αγαπημένο μας τραγούδι αυτού του μήνα. Όλα αυτά μέσα από το terminal του linux. Παρακάτω έχουμε τα links για της δυο διαφορετικές εκτελέσεις της εργασίας μου. <br>
 
 #### Asciinema link Ver.1:  [Παραδοτέο 5 Ver.1](https://asciinema.org/a/cRdd29OBv2PV9RE6IhsHoC8tc)<br />
-#### Asciinema link Ver.1:  [Παραδοτέο 5 Ver.2](https://asciinema.org/a/miOkejPaVBDcSwBUzFVEYaf11)
+#### Asciinema link Ver.2:  [Παραδοτέο 5 Ver.2](https://asciinema.org/a/miOkejPaVBDcSwBUzFVEYaf11)
 
 #### Η εργασία ουσιαστικά χωρίζετε στα εξής βήματα:
 
@@ -304,3 +305,29 @@ Nintendo Wii: Το Nintendo Wii είναι η πρώτη κονσόλα που �
 [HTML YouTube Videos](https://www.w3schools.com/html/html_youtube.asp) |
 [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) |
 [YouTube Refused to Connect [Solved]](https://forum.freecodecamp.org/t/youtube-refused-to-connect/245262)
+
+# 8ο Παραδοτέο - Create Your Final Presentation
+
+#### Asciinema link Ver.1: [Παραδοτέο 8 Ver.1](https://asciinema.org/a/sBTu1JJYaL8f0MxAlSH659TVE)<br />
+#### Asciinema link Ver.2: [Παραδοτέο 8 Ver.2](https://asciinema.org/a/SHULbr7gsGChiAxQxEo6Q3N93)
+
+Για την 3η άσκηση γραμμής εντολών επέλεξα την εργασία που ζητούσε να δημιουργήσουμε μια παρουσίαση που να ανοίγει εντός του terminal και να έχει 3 διαφάνειες, μια με το ΑΜ μας, μια λίστα με checkboxes από τα παραδοτέα που έχουμε κάνει, και μια ακόμη που αναφέρει κάποια πράγματα που δημιούργησα.
+
+Στην version 1 χρησιμοποίησα το εργαλείο mdp το οποίο σου επιτρέπει να δημιουργήσεις μια παρουσίαση μέσω ενός αρχείου γραμμένο σε markdown. Γράφοντας mdp και το δίνοντας το path προς το text αρχείο το mdp αρχίζει την παρουσίαση. Το συγκεκριμένο εργαλείο χρησιμοποιεί  τον ίδιο τύπο markdown με το github επομένως η συγγραφή διαφανειών είναι πολύ εύκολη. Έχω προσθέσει link, checkboxes, και έχω κάνει highlight στην τελική διαφάνεια. (Δείχνω το αρχείο μέσο του nano editor)
+
+Στην 2η version χρησιμοποιώ άλλα 2 εργαλεία για την δημιουργία της ίδιας διαφάνειας. Το πρώτο εργαλείο είναι το patat. Το patat όπως και το mdp αρχίζει την παρουσίαση με παρόμοια εντολή. Η διαφορά τους είναι ότι το patat επιτρέπει και την εισαγωγή εικονων και σου δίνει περισσότερες επιλογές όσον αφορά τα χρώματα και το layout. Χρησιμοποιεί και αυτό markdown όμως έχει και κάποιες προθήκες. Το τρίτο tool που χρησιμοποιώ είναι το present το οποίο κατά την γνώμη μου είναι το καλύτερο από τα προαναφερόμενα. Το present χρησιμοποιώντας markdown μπορεί και δημιουργεί επικεφαλίδες τύπου ascii art, σου επιτρέπει να αλλάξεις τα χρώματα των γραμμάτων και του background color, και πάνω από όλα σε αφήνει να βάλεις εφέ και custom transitions. Αυτά επιτυγχάνονται με εντολές markdown όπως τις “<!--fg=cyan bg=black -->” και “<!—effect=stars -->” οι οποίες φαίνονται πως γίνετε η σωστή χρήση τους και στο asciinema.
+
+<p align="center">
+<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%208o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/FinalPresentPresent.gif" width="480px">
+</p>
+
+### Εργαλεία που χρησιμοποίησα:
+Mdp, Patat, Present, Nano
+
+### Συνδέσμοι πηγών:
+[Ubuntu Manpage: mdp - A command line based presentation tool](http://manpages.ubuntu.com/manpages/focal/man1/mdp.1.html) |
+[John Kennedy - mdp presentation - gitlab](https://gitlab.com/skebi69/mdp-presentation/-/blob/master/README.md) |
+[mdp - Markdown Presentation tool video](https://www.youtube.com/watch?v=P7cjH-6nS_o) |
+[About task lists - GitHub Docs](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-task-lists) |
+[Patat Readme.md developer page](https://github.com/jaspervdj/patat) |
+[Present Readme.md developer page](https://github.com/vinayak-mehta/present)
