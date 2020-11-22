@@ -19,7 +19,7 @@
 | 4 | Άσκηση προγραμματισμού [click here](#παραδοτέο-4)|
 | 5 | Άσκηση γραμμής εντολών [click here](#παραδοτέο-5)|
 | 6 | Συμμετοχικό περιεχόμενο [click here](#παραδοτέο-6)|
-| 7 | Άσκηση προγραμματισμού |
+| 7 | Άσκηση προγραμματισμού [click here](#παραδοτέο-7)|
 | 8 | Άσκηση γραμμής εντολών |
 | 9 | Άσκηση προγραμματισμού |
 | 10 | Άσκηση γραμμής εντολών |
@@ -32,13 +32,15 @@
 
 ## Παραδοτέο 2
 
-Στο δεύτερο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/button/) ζητούσε να προσθέσουμε μία λειτουργία της επιλογής μας όταν πατηθεί ένα κουμπί. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνει στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού.  
+Στο δεύτερο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/button/) ζητούσε να προσθέσουμε μία λειτουργία της επιλογής μας όταν πατηθεί ένα κουμπί. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνεις στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού.  
   
 Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.
   
-https://github.com/rafael5gr2/site/blob/master/_remix/button.md  
+https://github.com/rafael5gr2/site/blob/master/_remix/button.md
+https://codepen.io/sckarolos/pen/VvYoLm/
+https://codepen.io/p19fota/pen/ZEOOROY
 https://rafael5gr2.netlify.app/remix/button/
-
+  
 ![Button](https://image.prntscr.com/image/nwX6lLUrTqWTS_2tu_SBRA.png)
 
 ## Παραδοτέο 3
@@ -51,13 +53,15 @@ https://rafael5gr2.netlify.app/remix/button/
 
 ## Παραδοτέο 4
 
-Στο τέταρτο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/image/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/button/) ζητούσε να δημιουργήσουμε δίπλα στην υπάρχουσα εικόνα, μια ίδια του μισού μεγέθους που να εκτελεί την ίδια λειτουργία με αυτην. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνει στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού.  
+Στο τέταρτο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/image/) ζητούσε να δημιουργήσουμε δίπλα στην υπάρχουσα εικόνα, μια ίδια του μισού μεγέθους που να εκτελεί την ίδια λειτουργία με αυτην. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνεις στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού.  
   
 Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.
   
-https://github.com/rafael5gr2/site/blob/master/_remix/image.md  
+https://github.com/rafael5gr2/site/blob/master/_remix/image.md
+https://codepen.io/sckarolos/pen/dYPxYp/
+https://codepen.io/p19fota/pen/ZEOyZyG
 https://rafael5gr2.netlify.app/remix/image/
-
+  
 ![Image](https://image.prntscr.com/image/DNsuc1J8Q5i8WItP05xciw.png)
 
 ## Παραδοτέο 5
@@ -71,3 +75,16 @@ https://rafael5gr2.netlify.app/remix/image/
 ## Παραδοτέο 6
 
 Στο έκτο παραδοτέο μας ζητήθηκε... TODO
+
+## Παραδοτέο 7
+
+Στο έβδομο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/image-filter/) ζητούσε να χρησιμοποιήσουμε CSS filters έτσι ώστε όταν κάνουμε hover την εικόνα να αλλάζει. Τα filters τα οποία χρησιμοποίησα είναι το drop-shadow, το brightness και το blur. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνεις στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού και την ιστοσελίδα MDN Web Docs (https://developer.mozilla.org/en-US/) από την οποία βρήκα τα διάφορα filters της CSS.  
+  
+Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.
+  
+https://github.com/rafael5gr2/site/blob/master/_remix/image-filter.md
+https://codepen.io/sckarolos/pen/VLJWMQ/
+https://codepen.io/sckarolos/pen/VLJWMQ/
+https://rafael5gr2.netlify.app/remix/image-filter/
+  
+![Image](https://image.prntscr.com/image/1Ld4SvVCRbeNiXP1Ra9Cmg.png)
