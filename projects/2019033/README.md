@@ -13,7 +13,7 @@
 | 4 | [Menu Scroll](#menu-scroll) *GUI* |
 | 5 | [Organise the terminal window into multiple areas](#organise-the-terminal-window-into-multiple-areas) *CLI* |
 | 6 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο)  |
-| 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
+| 7 | [Mouse Form](#mouse-form) *GUI* |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -79,3 +79,8 @@ https://www.github.com/Tsimpliarakis/_gallery/tree/master/joystick.md
 https://www.github.com/Tsimpliarakis/site/tree/master/_timeline%2Fvideogames.md
 
 https://www.github.com/Tsimpliarakis/site/tree/master/_slides%2Fvideogames.md
+
+
+## Mouse Form
+
+Codepen: https://codepen.io/p2019033/pen/WNxqgye
