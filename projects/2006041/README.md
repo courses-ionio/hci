@@ -11,7 +11,7 @@
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) ([link](#css))|
 | 5 | Άσκηση γραμμής εντολών ([link](#vim))|
 | 6 | Συμμετοχικό περιεχόμενο ([link](#collab))|
-| 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 7 | Άσκηση προγραμματισμού ([link](#mouseeraser))|
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -49,3 +49,9 @@ Links to Netlify live version of the book with my additions:
 * Archetypes with my 2 additions [link][https://master--gracious-yalow-e2bb28.netlify.app/slides/archetypes/]
 * Timeline of PC's with my addition [link][https://master--gracious-yalow-e2bb28.netlify.app/timeline/personal/]
 * Timeline of Microcomputers with my addition [link][https://master--gracious-yalow-e2bb28.netlify.app/timeline/micros/]
+
+### <a name="mouseeraser"></a> CSS Mouse Eraser Programming Exercise
+For this programming exercise, I implemented changes changes to the Mouse Eraser exercise, by changing one of the pictures shown and also changing the size of the erase, by manipulating the canvas arc() method's radius argument that controls the radius of the circle of the eraser. 
+
+My commit to the forked repo can be found by following this [link](https://github.com/elenberg-io/site/commit/adcf74f6ffe442a7c958dc7c2b88740e49cb41c9#diff-e8d1cd09284607023431678e80044d4802124ae6be7edaceec659e58726c7c80), the mouse-eraser.md page on github can be accessed through this [link](https://github.com/elenberg-io/site/blob/master/_remix/mouse-eraser.md) and my source code in CodePen can be accessed through this [link](https://codepen.io/p2006041/pen/qBNeWzw).
+
