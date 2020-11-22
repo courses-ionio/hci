@@ -83,4 +83,5 @@ https://www.github.com/Tsimpliarakis/site/tree/master/_slides%2Fvideogames.md
 
 ## Mouse Form
 
-Codepen: https://codepen.io/p2019033/pen/WNxqgye
+Codepen: https://codepen.io/p2019033/pen/WNxqgye <br/>
+Remix: https://github.com/Tsimpliarakis/site/blob/master/_remix/mouse-form.md
