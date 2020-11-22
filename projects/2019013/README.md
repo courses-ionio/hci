@@ -55,8 +55,8 @@
   
   <h2><span id="Συμμετοχικό περιεχόμενο">Συμμετοχικό περιεχόμενο</span></h2>
     1η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/web%20camera.jpg
-    2η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/keyboard.jpg
-    Πληροφορίες για την 1η εικόνα : https://github.com/AnastasiaMariaStefani/gallery/blob/master/web%20camera.md
-    Πληροφορίες για την 2η εικόνα : https://github.com/AnastasiaMariaStefani/gallery/blob/master/keyboard.md
-    Σετ διαφανειών : https://github.com/AnastasiaMariaStefani/site/blob/master/_slides/archetypes.md
-    Χρονολόγιο : https://github.com/AnastasiaMariaStefani/site/blob/master/_timeline/videogames.md
+    <li>2η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/keyboard.jpg
+    <li>Πληροφορίες για την 1η εικόνα : https://github.com/AnastasiaMariaStefani/gallery/blob/master/web%20camera.md
+    <li>Πληροφορίες για την 2η εικόνα : https://github.com/AnastasiaMariaStefani/gallery/blob/master/keyboard.md
+    <li>Σετ διαφανειών : https://github.com/AnastasiaMariaStefani/site/blob/master/_slides/archetypes.md
+    <li>Χρονολόγιο : https://github.com/AnastasiaMariaStefani/site/blob/master/_timeline/videogames.md
