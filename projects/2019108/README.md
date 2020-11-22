@@ -18,7 +18,7 @@
 | 6 | [Συμμετοχικό περιεχόμενο: Α1 και Α2](#6ο-παραδοτέο---συμετοχικό-περιεχόμενο-α1-και-α2) |
 | 7 | [Άσκηση προγραμματισμού: Mouse Option](#7ο-παραδοτέο---mouse-option) |
 | 8 | [Άσκηση γραμμής εντολών: Create Your Final Presentation](#8ο-παραδοτέο---create-your-final-presentation) |
-| 9 | Άσκηση προγραμματισμού |
+| 9 | [Άσκηση προγραμματισμού: Menu CSS](#9ο-παραδοτέο---menu-css) |
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -167,7 +167,7 @@ sudo, ls, nano, gedit, neofetch, lshw
 
 #### Link στο netlify site μου του pibook: [KeyboardInput Answer](https://p2019108-ionio-pibook.netlify.app/remix/keyboard-input/)
 
-## Xρήσιμες πηγές σχετικές με το παραδοτέο
+## Xρήσιμοι συνδέσμοι σχετικά με το παραδοτέο:
 [Keycode.info - get JavaScript event keycodes](https://keycode.info/)<br />
 
 # 5ο Παραδοτέο - Download mp3
@@ -299,7 +299,7 @@ Nintendo Wii: Το Nintendo Wii είναι η πρώτη κονσόλα που �
 
 #### Link στο netlify site μου του pibook: [MouseOption Answer](https://p2019108-ionio-pibook.netlify.app/remix/mouse-option/)
 
-### Συνδέσμοι πηγών:
+## Xρήσιμοι συνδέσμοι σχετικά με το παραδοτέο:
 [HTML Links](https://www.w3schools.com/html/html_links.asp) |
 [HTML Images](https://www.w3schools.com/html/html_images.asp) |
 [HTML YouTube Videos](https://www.w3schools.com/html/html_youtube.asp) |
@@ -331,3 +331,45 @@ Mdp, Patat, Present, Nano
 [About task lists - GitHub Docs](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-task-lists) |
 [Patat Readme.md developer page](https://github.com/jaspervdj/patat) |
 [Present Readme.md developer page](https://github.com/vinayak-mehta/present)
+
+# 9ο Παραδοτέο - Menu CSS
+
+Για το 9ο παραδοτέο επέλεξα την άσκηση με όνομα Menu CSS. Σε αυτήν την άσκηση προϋπάρχει ένα κουπί που όταν πατηθεί μας εμφανίζει με ένα animation ένα μενού το οποίο αποτελείτε από διάφορα εικονίδια που μας ανακατευθύνουν στις αντίστοιχες ιστοσελίδες.
+
+Σκοπός της εργασίας είναι να προσθέσουμε το δικό μας περιεχόμενο στο μενου. Όμως φυσικά άλλαξα και άλλα πράγματα στο πρόγραμμα.
+Αρχικά παρατηρώντας τον κώδικα CSS βλέπω κάποιους παραμέτρους που αφορούν πράγματα όπως το χρώμα, την διάρκεια του animation, τον αριθμό των αντικειμένων που εμφανίζονται με το πάτημα του κουμπιού και άλλα. Μετέτρεψα το χρώμα του κουμπιού από λευκό σε μαύρο, αύξησα τον αριθμό των αντικειμένων από 6 σε 8 και έκανα το animation του ανοίγματος να διαρκεί λίγο περισσότερο.
+
+<p align="center">
+<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%209o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/1.gif" width="420px">
+</p>
+
+Μετά για να κάνω τα καινούρια αντικείμενα του μενού να δουλέψουν έπρεπε να ασχοληθώ με τον κώδικα HTML. Έμαθα ότι τα εικονίδια αυτά μπορούν και δουλεύουν στο menu χάρις το toolkit του font awesome. Όπως βλέπουμε και στον κώδικα παρακάτω χρησιμοποιώντας ένα link και τον αντίστοιχο markdown κώδικα για την χρήση του toolkit μπορούμε να προβάλουμε τα εικονίδια και να τα κάνουμε να σε ανακατευθύνουν. Εγώ άλλαξα τα link και φυσικά πρόσθεσα και παραπάνω για κάθε νέο αντικείμενο που δημιούργησα.
+Τα εικονίδια που χρησιμοποίησα τα βρήκα στην επίσημη σελίδα του font awesome, το μόνο κακό είναι ότι παρατήρησα πως μερικά εικονίδια λειτουργούν μόνο με την pro έκδοση του font awesome, τα link υπάρχουν παρακάτω.
+
+<p align="center">
+<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%209o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/2.gif" width="480px">
+</p>
+
+Επιπλέων για να ταιριάζει στο color scheme που χρησιμοποιώ συνήθως στις εργασίες μου άλλαξα το background gradient σε μπλέ-γαλάζιο επιλέγοντας χρώματα από το adobe color wheel.
+
+<p align="center">
+<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%209o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/ExtraColors.gif" width="420px">
+</p>
+
+#### Το τελικό αποτέλεσμα φαίνετε στο παρακάτω gif:
+
+<p align="center">
+<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%209o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/Final.gif" width="500px">
+</p>
+
+#### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [_remix/menu-css](https://github.com/KuhakuNeko/site/blob/master/_remix/menu-css.md)
+
+#### Link στο pen της άσκησης στο codepen.io: [Pure CSS Circle Menu P2019108](https://codepen.io/P2019108/pen/NWrBbrN)
+
+#### Link στο netlify site μου του pibook: [MenuCSS Answer](https://p2019108-ionio-pibook.netlify.app/remix/menu-css/)
+
+## Xρήσιμοι συνδέσμοι σχετικά με το παραδοτέο:
+[Font Awesome Introduction - w3Schools](https://www.w3schools.com/icons/fontawesome_icons_intro.asp) <br />
+[How TO - Menu Icon - w3Schools](https://www.w3schools.com/howto/howto_css_menu_icon.asp) <br />
+[Adobe Color Wheel](https://color.adobe.com/create/color-wheel) <br />
+[Font Awesome Icons](https://fontawesome.com/icons?d=gallery) <br />
