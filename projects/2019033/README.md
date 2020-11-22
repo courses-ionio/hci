@@ -82,6 +82,6 @@ https://www.github.com/Tsimpliarakis/site/tree/master/_slides%2Fvideogames.md
 
 ## Mouse Form
 
-![Mouse Form](https://imgur.com/6n78p87.png)
+<center>![Mouse Form](https://imgur.com/6n78p87.png)</center>
 
 Link Netlify: https://hci-p2019033.netlify.app/remix/mouse-form/
