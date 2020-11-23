@@ -62,7 +62,7 @@
 
 
 <br><br>
-<h2><span id="Browse & View Files">(3) Browse & View Files (Άσκηση Γραμμής Εντολών)</span></h2>
+<h2><span id="Browse & View Files">(5) Browse & View Files (Άσκηση Γραμμής Εντολών)</span></h2>
 <p>Η άσκηση που επέλεξα είχε να κάνει με την αναζήτηση και το άνοιγμα αρχείων του υπολογιστή μου, μέσω του terminal. Εγώ επέλεξα να ανοίξει και να εμφανίσει το περιεχόμενο δύο αρχείων .txt.
 
 <a href="https://asciinema.org/a/371434">Browse & View Files</a>
