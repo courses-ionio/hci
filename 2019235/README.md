@@ -17,8 +17,8 @@
 |   | [Search/Download Torrents through bash](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#searchdownload-torrents-through-bash)|
 | 4 | [Keyboard input](#Παραδοτέο-4) |
 | 5 | **Convert between different text formats** <br/>[Getting a text editor, Vim or Emacs?](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#getting-a-text-editor-vim-or-emacs)<br/>[Figuring out Vim](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#figuring-out-vim)<br/>[Installing Pandoc](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#installing-pandoc)<br/>[Using pandoc to change format](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#using-pandoc-to-change-format)<br/>[Track formatting with git](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#track-formatting-with-git)|
-| 6 | **Συμμετοχικό Περιεχόμενο**<br/>[Matlab]()<br/>[Unity]() |
-| 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
+| 6 | **Συμμετοχικό Περιεχόμενο**<br/>[Matlab](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1-1%CE%B7)<br/>[Unity](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1-2%CE%B7) |
+| 7 | [Image Processing](#Παραδοτέο-6) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -108,3 +108,10 @@ To MatLab(1981) ήταν, σύμφωνα με τον Cleve Moler, ένα χόμ�
 ### Εικόνα 2η
 ![unity](https://www.dropbox.com/s/juahxeqf2s6dvb2/unity.png?raw=1)
 Το Unity(2005), δημιουργήθηκε με σκοπό να δώσει ένα τέλος στο μονοπώλιο των εταιριών στο game development. Παρόλα αυτά, αναγνωρίστηκε ως το πρόγραμμα που αξιοποιεί τα γραφικά του Mac OS X καλύτερα από οποιοδήποτε άλλο λογισμικό. Το Unity μέσα σε 2 χρόνια επεκτάθηκε σε άλλα λειτουργικά και εξελίχθηκε ραγδαία. Σήμερα η γραφική διεπαφή του δεν χρησιμοποιείται μόνο για game development αλλά για ένα εύρος λειτουργιών (Σχεδίαση αυτοκινήτων, δημιουργία εικονικής πραγματικότητας, Animation).
+
+# Παραδοτεο 7
+Preview:
+
+[Netlify Link](https://p19papa11.netlify.app/remix/image-filter/)
+
+Επιλέχθηκε μια από τις εύκολες ασκήσεις λόγω έλλειψης χρόνου. Αναμένεται μία συμπληρωματική.
