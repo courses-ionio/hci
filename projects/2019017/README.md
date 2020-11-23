@@ -13,7 +13,7 @@
 | 4 | Άσκηση προγραμματισμού: [Fourth deliverable](#Παραδοτέο-4) |
 | 5 | Άσκηση γραμμής εντολών (hci): [Fifth deliverable](#Παραδοτέο-5)|
 | 6 | Συμμετοχικό περιεχόμενο: [Sixth deliverable](#Παραδοτέο-6) |
-| 7 | Άσκηση προγραμματισμού |
+| 7 | Άσκηση προγραμματισμού: [Seventh deliverable](#Παραδοτέο-7)|
 | 8 | Άσκηση γραμμής εντολών |
 | 9 | Άσκηση προγραμματισμού |
 | 10 | Άσκηση γραμμής εντολών |
@@ -87,6 +87,12 @@ Preview:<br/>
 - [.gitmodules](https://github.com/p19kala/site/blob/master/.gitmodules) για το συντονισμό των submodules \_gallery και images στα αντίστοιχα fork μου.
 
 ## Πηγές:
+
+## Παραδοτέο 7
+Διάλεξα την άσκηση Menu Pie για την οποία έπρεπε να μειώσω τις επιλογές του μενού από 12 σε 4.
+Σύνδεσμος στο \_remix: [Menu-Pie](https://github.com/p19kala/site/blob/master/_remix/menu-pie.md)
+Σύνδεσμος στο embed: [Netlify](https://p19kala.netlify.app/remix/menu-pie/)
+Σύνδεσμος στο εκτελέσιμο: [Codepen](https://codepen.io/p19kala/pen/GRqVNeJ)
 
 Παραδοτέο 2:
 
