@@ -62,3 +62,17 @@ https://codepen.io/p19barl/pen/MWeVRzr
 Σαν ασκηση προγραμματισμου (παραδοτεο 5 ) επελεξα την τελευταια ασκηση απο τον πινακα hci η οποια ειχε ως ζητουμενο (use one window to search-edit local files or browse the web and another window for performance monitoring) χρησιμοποιοντας για performance monitoring το εργαλειο tmux.Στο βιντεο αφου κανω install το tmux με την εντολη ## htop ανοιγω τον πινακα με τις επιδοσεις του μηχανιματος και αφου κανω ενα τυπικο search στον firefox με το f9 κανω kill το tmux.
 
 <a href="https://asciinema.org/a/371806" target="_blank"><img src="https://asciinema.org/a/371806.svg" /></a>
+
+
+# Παραδοτεο 7 (Ασκηση προγραμματισμου)
+Ως παραδοτεο 7 απο τις ασκησεις προγραμματισμου επελιξα την BUTTON CONCEPT οπου σαν ζητουμενο η ασκηση ειχε: (Eπεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.)Ως επιπλεον ενεργεια κατα την επιλογη (κλικ) του Button εκακνα στον html κωδικα href στην αρχικη σελιδα του google συγκεκριμενα εκανα την επιπλεον αυτη ενεργεια με την εεντολη ( href="https://google.com" ) στην πρωτη γραμμη του Html Κωδικα.
+
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p19barl" data-slug-hash="PozRgpY" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button Concept">
+  <span>See the Pen <a href="https://codepen.io/p19barl/pen/PozRgpY">
+  Button Concept</a> by p2019009 (<a href="https://codepen.io/p19barl">@p19barl</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+https://codepen.io/p19barl/pen/PozRgpY
+
