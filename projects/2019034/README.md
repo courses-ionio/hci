@@ -81,7 +81,9 @@
 <br><a href="https://github.com/u2nmd/_images/blob/master/printer2020.jpg">Printer 2020 (Image)</a>
 <br><a href="https://github.com/u2nmd/gallery_/blob/master/printer2020.md">Printer 2020 (Gallery)</a><br>
 <br><a href="https://github.com/u2nmd/site/blob/master/_slides/computer-peripherals.md">Computer Peripherals (Slides)</a>
-<br><a href="https://github.com/u2nmd/site/blob/master/_timeline/computer.md">Computer (Timeline)</a>
+<br><a href="https://github.com/u2nmd/site/blob/master/_timeline/computer.md">Computer (Timeline)</a><br>
+<br> <a href="https://github.com/u2nmd/_images">Images submodule.</a>  
+<br> <a href="https://github.com/u2nmd/gallery_">Gallery submodule.</a>
 
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις συμμετοχικού περιεχομένου.</a>
