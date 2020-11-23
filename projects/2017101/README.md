@@ -48,4 +48,8 @@ https://asciinema.org/a/356621
 
 https://github.com/koutsokostas/site/blob/master/_remix/image-filter.md
 
+Άσκηση γραμμής εντολών 3
+
+https://asciinema.org/a/356628
+
 
