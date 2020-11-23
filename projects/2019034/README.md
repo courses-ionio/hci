@@ -9,12 +9,12 @@
 | 3 |<li><a href="#Browse & View Files"><span class="toctext">Browse & View Files</span></a>|
 | 4 |<li><a href="#Image Zoom"><span class="toctext">Image Zoom</span></a>|
 | 5 |<li><a href="#grammi entolwn"><span class="toctext">grammi entolwn</span></a>|
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
+| 6 | Συμμετοχικό περιεχόμενο |
 | 7 |<li><a href="#Mouse Form"><span class="toctext">Mouse Form</span></a>|
-| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
-| 10 | συμμετοχικό περιεχόμενο |
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
+| 8 | Άσκηση γραμμής εντολών (SW) |
+| 9 | Άσκηση προγραμματισμού (HCI) |
+| 10 | Άσκηση γραμμής εντολών (SW) |
+| 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά* |
 
 
