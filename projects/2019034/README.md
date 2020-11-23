@@ -9,7 +9,7 @@
 | 3 |<li><a href="#Browse & View Files"><span class="toctext">Browse & View Files</span></a>|
 | 4 |<li><a href="#Image Zoom"><span class="toctext">Image Zoom</span></a>|
 | 5 |<li><a href="#grammi entolwn"><span class="toctext">grammi entolwn</span></a>|
-| 6 |<li><a href="#Συμμετοχικό περιεχόμενο"><span class="toctext">Συμμετοχικό περιεχόμενο</span></a>|
+| 6 |<li><a href="#Συμμετοχικό περιεχόμενο"><span class="toctext">Συμμετοχικό περιεχόμενο Α1 και Α2</span></a>|
 | 7 |<li><a href="#Mouse Form"><span class="toctext">Mouse Form</span></a>|
 | 8 | Άσκηση γραμμής εντολών (SW) |
 | 9 | Άσκηση προγραμματισμού (HCI) |
@@ -82,8 +82,8 @@
 <br><a href="https://github.com/u2nmd/gallery_/blob/master/printer2020.md">Printer 2020 (Gallery)</a><br>
 <br><a href="https://github.com/u2nmd/site/blob/master/_slides/computer-peripherals.md">Computer Peripherals (Slides)</a>
 <br><a href="https://github.com/u2nmd/site/blob/master/_timeline/computer.md">Computer (Timeline)</a><br>
-<br> <a href="https://github.com/u2nmd/_images">Images submodule.</a>  
-<br> <a href="https://github.com/u2nmd/gallery_">Gallery submodule.</a>
+<br><a href="https://github.com/u2nmd/_images">Images submodule.</a>
+<br><a href="https://github.com/u2nmd/gallery_">Gallery submodule.</a>
 
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις συμμετοχικού περιεχομένου.</a>
