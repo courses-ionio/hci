@@ -10,7 +10,7 @@
 | 4 |<li><a href="#Image Zoom"><span class="toctext">Image Zoom</span></a>|
 | 5 |<li><a href="#grammi entolwn"><span class="toctext">grammi entolwn</span></a>|
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
-| 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 7 |<li><a href="#Mouse Form"><span class="toctext">Mouse Form</span></a>|
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -70,3 +70,16 @@
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/epidrome/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a></ul>
+
+
+<br><br>
+<h2><span id="Mouse Form">(7) Mouse Form (Άσκηση Προγραμματισμού)</span></h2>
+<p>Η άσκηση που επέλεξα να κάνω, περιλάμβανε έναν διαδραστικό κώδικα που χρησιμοποιούσε το ποντίκι ως συσκευή εισόδου για τη συμπλήρωση μίας φόρμας και έδινε ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη. Συγκεκριμένα, η φόρμα ζητούσε από τον χρήστη να συμπληρώσει την ημερομηνία γέννησής του και εγώ έπρεπε να προσθέσω στην φόρμα την δυνατότητα συμπλήρωσης και του φύλου του χρήστη (Male ή Female). Για να το πετύχω αυτό, αντέγραψα το κομμάτι του κώδικα στην HTML που αφορούσε την συμπλήρωση ημερομηνίας γέννησης, και το έκανα επικόλληση ακριβώς από κάτω του ώστε να το επεξεργαστώ ανάλογα ύστερα.
+
+<a href="https://github.com/u2nmd/site/blob/master/_remix/mouse-form.md">Mouse Form</a>
+<br><a href="https://vibrant-villani-781057.netlify.app/remix/mouse-form/">Mouse Form (Embed)</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://codepen.io">Codepen.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/mouse-form/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
