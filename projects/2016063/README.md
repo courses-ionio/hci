@@ -11,28 +11,38 @@
 | 4 | Άσκηση προγραμματισμού Image Zoom |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Συμμετοχικό περιεχόμενο |
-| 7 | Άσκηση προγραμματισμού |
+| 7 | Άσκηση προγραμματισμού Mouse Button |
 | 8 | Άσκηση γραμμής εντολών |
 | 9 | Άσκηση προγραμματισμού |
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
-                                                        Παραδοτεο 2  Ασκηση Προγραμματισμου
-                                               
+                                                        Παραδοτεο 2  Ασκηση Προγραμματισμο Sortable List
+                                                        
    Παράδειγμα διαδραστικού κώδικα που ταξινομεί μια λίστα με τη χρήση του ποντικιού. Χρησιμοποιείται το στοιχείο sortable της JavaScript βιβλιοθήκης JQueryUI (https://jqueryui.com/sortable).                       
       
-   <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p16andr" data-slug-hash="KKMGyXy" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Pibook Sortable"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/KKMGyXy"> Pibook Sortable</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p> <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+   <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p16andr" data-slug-hash="KKMGyXy" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Pibook Sortable"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/KKMGyXy"> Pibook Sortable</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
    
-                                                       Παραδοτεο 4 Ασκηση Προγραμματισμου
+  Αλλάξτε το χρώμα ή/και το ύψος των στοιχείων της λίστας καθώς και την απόσταση μεταξύ τους
+   
+                                                       Παραδοτεο 4 Ασκηση Προγραμματισμου Image Zoom
                                              
    Παράδειγμα διαδραστικού κώδικα στον οποίο όταν εκτελείται από το χρήστη η λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα στο συγκεκριμένο παράδειγμα) μεγενθύνεται η εικόνα (zoom) χωρίς να αλλάζουν οι διαστάσεις του πλαισίου . 
        
-   <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p16andr" data-slug-hash="JjKeKEm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Background Image zoom"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/JjKeKEm"> Background Image zoom</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span></p> <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+   <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p16andr" data-slug-hash="JjKeKEm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Background Image zoom"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/JjKeKEm"> Background Image zoom</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span></p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
                     
-                    
-                    
-                    
-                    
+   Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας από το προηγούμενο παράδειγμα. Συνδυάστε τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα)
+   
+                                                    Παραδοτεο 7 Ασκηση Προγραμματισμου Mouse Button
+                                                    
+ Παράδειγμα διαδραστικού κώδικα όπου ο χρήστης χρησιμοποιώντας το ποντίκι, πατώντας το κουμπί “ANOTHER” μπορεί να αλλάξει τα εκτυπωμένα μηνύματα.
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="p16andr" data-slug-hash="BazXWRq" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JS fitness 3: Dev compliment generator <span>See the Pen <a href="https://codepen.io/p16andr/pen/BazXWRq"> JS fitness 3: Dev compliment generator</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+                                                                
+  Τροποποιήστε το παράδειγμα δημιουργώντας ένα 2ο κουμπί που θα εκτελεί τη την ανάποδη λειτουργία από αυτή του κουμπιού “ANOTHER”. Το νέο κουμπί πρέπει να εμφανίζει το μήνυμα που είχε εμφανιστεί προηγουμένως.                 
                     
 
