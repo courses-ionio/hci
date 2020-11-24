@@ -19,7 +19,7 @@
 ##Change your command prompt with your student ID:
 [![asciicast](https://asciinema.org/a/SAokTwuUyI6o3i4c0QMCpK7Y7.svg)](https://asciinema.org/a/SAokTwuUyI6o3i4c0QMCpK7Y7)
 ##List your dot files:
-[![asciicast](https://asciinema.org/a/A85HRLY8t2KTFUJC5cZNldOv1.svg)](https://asciinema.org/a/A85HRLY8t2KTFUJC5cZNldOv1)
+[![asciicast](https://asciinema.org/a/e8CiCukyGfkLjGlWDEV8lLfIf.svg)](https://asciinema.org/a/e8CiCukyGfkLjGlWDEV8lLfIf)
 ##Display your shell configuration file:
 [![asciicast](https://asciinema.org/a/Z3IpcKsH6IGef1j8h1QCPLXrz.svg)](https://asciinema.org/a/Z3IpcKsH6IGef1j8h1QCPLXrz)
 ##Display system information (hardware+software):
