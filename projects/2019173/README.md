@@ -19,7 +19,7 @@
 | 5 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#5%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 6 | [Συμμετοχικό περιεχόμενο: Α1) δύο εικόνες με λεζάντες, που συνδέονται με το μάθημα και Α2) σετ διαφανειών και χρονολόγιο που σχετίζονται με τις εικόνες](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#6%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 7 |  [Άσκηση προγραμματισμού: Image zoom](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#7-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
-| 8 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 8 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#8%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 9 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 10 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 11 | συμμετοχικό περιεχόμενο |
