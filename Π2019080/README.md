@@ -21,7 +21,7 @@
 ##List your dot files:
 [![asciicast](https://asciinema.org/a/e8CiCukyGfkLjGlWDEV8lLfIf.svg)](https://asciinema.org/a/e8CiCukyGfkLjGlWDEV8lLfIf)
 ##Display your shell configuration file:
-[![asciicast](https://asciinema.org/a/Z3IpcKsH6IGef1j8h1QCPLXrz.svg)](https://asciinema.org/a/Z3IpcKsH6IGef1j8h1QCPLXrz)
+[![asciicast](https://asciinema.org/a/XPgEtdQ4hig6NNrph4TxkIYap.svg)](https://asciinema.org/a/XPgEtdQ4hig6NNrph4TxkIYap)
 ##Display system information (hardware+software):
 [![asciicast](https://asciinema.org/a/8RGoxTVMpAK66qpB0uygWLZwN.svg)](https://asciinema.org/a/8RGoxTVMpAK66qpB0uygWLZwN)
 # [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
