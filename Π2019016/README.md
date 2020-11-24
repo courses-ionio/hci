@@ -6,7 +6,7 @@
 | 3 |[Command line](#Command-line)|
 | 4 |[Css circle menu](#Css-Circle-Menu-Excercise) |
 | 5 | Άσκηση γραμμής εντολών |
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
+| 6 |[Form example]|(#Form-Example)
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -24,3 +24,7 @@ https://asciinema.org/a/biu9GVYNN8d3Y3EfunpgBxnGL
 Μια ασκηση που βοηθησε στην εξοικειωση με την γλωσσα CSS χωρις ομως να πορουσιαζει καποια ιδιαιτερη δυσκολια
 Ο Κωδικας βρισκεται εδω: https://codepen.io/thomasth01/pen/pobVmVK \
 Το αποτελεσμα φαινεται εδω:https://5fa81c9f5f714100082fe3c8--vibrant-varahamihira-deff26.netlify.app/remix/menu-css/
+# Form Example
+Ο κώδικας βρίσκεται εδώ: https://github.com/Thomasth01/site/blob/master/_remix/mouse-form.md \
+Το αποτελεσμα φαινεται εδω: https://vibrant-varahamihira-deff26.netlify.app/remix/mouse-form/
+
