@@ -34,3 +34,5 @@
 <h2><span id="Συμμετοχικό περιεχόμενο">Συμμετοχικό περιεχόμενο</span></h2>
     <li>1η εικόνα : https://github.com/p19zing/images/blob/master/PS1.jpg
     <li>Πληροφορίες για την 1η εικόνα : https://github.com/p19zing/_gallery/blob/master/PS1.md
+    <li>2η εικόνα : https://github.com/p19zing/images/blob/master/PS5.jpg
+    <li>Πληροφορίες για την 2η εικόνα : https://github.com/p19zing/_gallery/blob/master/PS5.md
