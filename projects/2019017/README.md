@@ -77,7 +77,7 @@ Preview:<br/>
 ## Παραδοτέο 6
 ### A1)
 
-Πρόσθεσα entry για το **Unreal Engine** [εδώ](https://github.com/p19kala/_gallery/commit/1b3d04c163663d4d140739a816010613d764eb5f) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/commit/37fe62e23574ba1648b8b1f049833bbf47378199) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/commit/03c691b5a501f7acdcb789900160c3ac55570835).
+Πρόσθεσα entry για το **Unreal Engine** [εδώ](https://github.com/p19kala/_gallery/blob/master/unreal-engine.md) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/commit/37fe62e23574ba1648b8b1f049833bbf47378199) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/commit/03c691b5a501f7acdcb789900160c3ac55570835).
 
 ### A2)
 
