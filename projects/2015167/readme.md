@@ -1,6 +1,8 @@
 <h1>Ονοματεπώνυμο: Αθανασιάδης Παναγιώτης<br>
 ΑΜ: Π2015167</h1><br>
-Forked pibook site repository: https://github.com/panosath/site
+Forked pibook site repository: https://github.com/panosath/site<br>
+Ο παρακάτω πίνακας περιεχομένων περιλαμβάνει εσωτερικά link στα παραδοτέα που αναγράφονται.<br>
+
 
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
