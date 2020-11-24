@@ -22,7 +22,7 @@
 [![asciicast](https://asciinema.org/a/A85HRLY8t2KTFUJC5cZNldOv1.svg)](https://asciinema.org/a/A85HRLY8t2KTFUJC5cZNldOv1)
 ##Display your shell configuration file:
 [![asciicast](https://asciinema.org/a/Z3IpcKsH6IGef1j8h1QCPLXrz.svg)](https://asciinema.org/a/Z3IpcKsH6IGef1j8h1QCPLXrz)
-##Display system hardware and software information:
+##Display system information (hardware+software):
 [![asciicast](https://asciinema.org/a/8RGoxTVMpAK66qpB0uygWLZwN.svg)](https://asciinema.org/a/8RGoxTVMpAK66qpB0uygWLZwN)
 # [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
 # [Command line](https://asciinema.org/a/QrBPNjDfZPIzam9veDe81S9iJ)
