@@ -23,7 +23,7 @@
 ##Display your shell configuration file:
 [![asciicast](https://asciinema.org/a/XPgEtdQ4hig6NNrph4TxkIYap.svg)](https://asciinema.org/a/XPgEtdQ4hig6NNrph4TxkIYap)
 ##Display system information (hardware+software):
-[![asciicast](https://asciinema.org/a/8RGoxTVMpAK66qpB0uygWLZwN.svg)](https://asciinema.org/a/8RGoxTVMpAK66qpB0uygWLZwN)
+[![asciicast](https://asciinema.org/a/FPKZk7AmtkWAdxM2XfSMYejvr.svg)](https://asciinema.org/a/FPKZk7AmtkWAdxM2XfSMYejvr)
 # [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
 # [Command line](https://asciinema.org/a/QrBPNjDfZPIzam9veDe81S9iJ)
 # [Mouse Form](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)
