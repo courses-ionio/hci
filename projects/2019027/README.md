@@ -18,9 +18,9 @@
 |   | Υλοποιήθηκε η άσκηση css-queries. Προστέθηκε media query για μέγεθος 1200px και αλλάζουν τα χρώματα του κειμένου και του background ανάλογα με το μέγεθος. link στο fork του pibook: https://github.com/p19zing/site/blob/2019027/_remix/css-queries.md |
 | 5 | Παραδοτέο 5 - (Άσκηση γραμμής εντολών) https://asciinema.org/a/x084pXuj8tVk8Ec0gYsEstkei |
 |   | Σε αυτή την εργασία χρησιμοποίησα τον επεξεργαστή κειμένου vim για να δημιουργήσω ένα αρχείο με τα στοιχεία μου. Επίσης εγκατέστησα τον file manager 'ranger' που τρεχει σε περιβαλλον γραμμής εντολων και πλοηγήθηκα στο συστημα αρχειων |
-| 6 | Παραδοτέο 6 - (Άσκηση προγραμματισμού) https://codepen.io/p19zing/pen/KKMEexb |
+| 6 | Παραδοτέο 6 - (Συμμετοχικό περιεχόμενο) <li><a href="#Συμμετοχικό περιεχόμενο"></span> <span class="toctext">Συμμετοχικό περιεχόμενο</span></a> |
+| 7 | Παραδοτέο 7 - (Άσκηση προγραμματισμού) https://codepen.io/p19zing/pen/KKMEexb |
 |   | Υλοποιήθηκε η άσκηση sortable-list. Προστέθηκε κώδικας jQuery ο οποίος αν δεν σύρεις ένα στοιχείο της λίστας αλλά απλώς το κλικάρεις, το εξαφανίζει. link στο fork του pibook: https://github.com/p19zing/site/blob/2019027/_remix/sortable-list.md |
-| 6 | Συμμετοχικό περιεχόμενο <li><a href="#Συμμετοχικό περιεχόμενο"></span> <span class="toctext">Συμμετοχικό περιεχόμενο</span></a> |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -36,3 +36,6 @@
     <li>Πληροφορίες για την 1η εικόνα : https://github.com/p19zing/_gallery/blob/master/PS1.md
     <li>2η εικόνα : https://github.com/p19zing/images/blob/master/PS5.jpg
     <li>Πληροφορίες για την 2η εικόνα : https://github.com/p19zing/_gallery/blob/master/PS5.md
+ 
+<h2><span id="Παραδοτέο 7">Παραδοτέο 7 - Εξαφάνιση στοιχείου λίστας με το κλικ</span></h2>
+    <li>Υλοποιήθηκε η άσκηση sortable-list. Προστέθηκε κώδικας jQuery ο οποίος αν δεν σύρεις ένα στοιχείο της λίστας αλλά απλώς το κλικάρεις, το εξαφανίζει. link στο fork του pibook: https://github.com/p19zing/site/blob/2019027/_remix/sortable-list.md
