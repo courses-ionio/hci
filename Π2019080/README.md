@@ -14,7 +14,16 @@
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 # [Mouse Eraser](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)
-# [Command line](https://asciinema.org/a/nNQ6TMd30KSZCVhlzi6agb2Qi) 
+# [Command line]
+  Το συγκεκριμένο παραδοτέο αποτελεί την πρώτη άσκηση γραμμής εντολών καθώς και την εισαγωγή στο περιβάλλον του LINUX και του Linux terminal και στην εφαρμογή asciinema     η οποία χρησιμοποιείται για την καταγραφή των εντολών μέσα στον τερματικό. Τα βήματα που ζητά η άσκηση για την ολοκλήρωσή της είναι:
+**Change your command prompt with your student ID: ** 
+[![asciicast](https://asciinema.org/a/SAokTwuUyI6o3i4c0QMCpK7Y7.svg)](https://asciinema.org/a/SAokTwuUyI6o3i4c0QMCpK7Y7)
+**List your dot files: **
+[![asciicast](https://asciinema.org/a/A85HRLY8t2KTFUJC5cZNldOv1.svg)](https://asciinema.org/a/A85HRLY8t2KTFUJC5cZNldOv1)
+**Display your shell configuration file: **
+[![asciicast](https://asciinema.org/a/Z3IpcKsH6IGef1j8h1QCPLXrz.svg)](https://asciinema.org/a/Z3IpcKsH6IGef1j8h1QCPLXrz)
+**Display system hardware and software information: **
+[![asciicast](https://asciinema.org/a/8RGoxTVMpAK66qpB0uygWLZwN.svg)](https://asciinema.org/a/8RGoxTVMpAK66qpB0uygWLZwN)
 # [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
 # [Command line](https://asciinema.org/a/QrBPNjDfZPIzam9veDe81S9iJ)
 # [Mouse Form](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)
