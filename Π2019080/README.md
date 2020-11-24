@@ -15,7 +15,7 @@
 | 12 | Τελική αναφορά* |
 # [Mouse Eraser](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)
 # Άσκηση γραμμής εντολών Warm up
-  Το συγκεκριμένο παραδοτέο αποτελεί την πρώτη άσκηση γραμμής εντολών καθώς και την εισαγωγή στο περιβάλλον του LINUX και του Linux terminal και στην εφαρμογή asciinema     η οποία χρησιμοποιείται για την καταγραφή των εντολών μέσα στον τερματικό. Τα βήματα που ζητά η άσκηση για την ολοκλήρωσή της είναι:
+  Το συγκεκριμένο παραδοτέο αποτελεί την πρώτη άσκηση γραμμής εντολών καθώς και την εισαγωγή στο περιβάλλον του LINUX και του Linux terminal και στην εφαρμογή asciinema     η οποία χρησιμοποιείται για την καταγραφή των εντολών μέσα στον τερματικό. Τα βήματα που ζητά η άσκηση για την ολοκλήρωσή της είναι: \m
 ##Change your command prompt with your student ID:
 [![asciicast](https://asciinema.org/a/SAokTwuUyI6o3i4c0QMCpK7Y7.svg)](https://asciinema.org/a/SAokTwuUyI6o3i4c0QMCpK7Y7)
 ##List your dot files:
