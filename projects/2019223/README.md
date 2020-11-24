@@ -5,13 +5,10 @@
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
 | 2 | Άσκηση προγραμματισμού ή βιογραφικό  (SW) <li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
-Βιβλιογραφία
-  <a href="https://pibook.epidro.me/remix/">Λίστα Ασκήσεων Προγραμματισμού</a>
-  <a href="https://copeden.io/your-work">Codepen</a> |
 | 3 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών </span></a>|
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) <li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span><a>|
 | 5 | Άσκηση γραμμής εντολών  <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών </span></a>|
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
+| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο <li><a href="#Συμμετοχικό Περιεχόμενο"></span> <span class="toctext">Συμμετοχικό Περιεχόμενο</span></a> |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) <li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -48,4 +45,14 @@
 <i><a href="https://github.com/PetroulaStylianou/site/blob/master/_remix/image-zoom.md" tittle="Image zoom">Image zoom</a></i>
 
 Σκοπός της άσκησης ήταν να τροποποιήσουμε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας, η εικόνα άλλαζε χρωματικά εφέ, αλλάζοντας τον CSS κώδικα. Συγκεκριμένα τα φίλτρα που χρησιμοποίησα για την τροποποίηση ηταν το hue-rotate και sepia μέσα στο hover.
+
+<h2><span id="Συμμετοχικό Περιεχόμενο">Συμμετοχικό Περιεχόμενο</span></h2>
+
+- 1η εικόνα: https://github.com/PetroulaStylianou/images_/blob/master/Mouse.jpg
+- 2η εικόνα: https://github.com/PetroulaStylianou/images_/blob/master/Keyboard.jpeg
+- Πληροφορίες για την 1η εικόνα: https://github.com/PetroulaStylianou/_gallery_/blob/master/Mouse.md
+- Πληροφορίες για την 2η εικόνα: https://github.com/PetroulaStylianou/_gallery_/blob/master/Keyboard.md
+- Σετ διαφανειών: https://github.com/PetroulaStylianou/site/blob/master/_slides/archetypes.md
+- Χρονολόγιο: https://github.com/PetroulaStylianou/site/blob/master/_timeline/videogames.md
+
 
