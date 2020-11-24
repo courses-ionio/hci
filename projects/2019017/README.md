@@ -95,6 +95,9 @@ Preview:<br/>
 <br/>
 Σύνδεσμος στο εκτελέσιμο: [Codepen](https://codepen.io/p19kala/pen/GRqVNeJ)
 
+Preview:<br/>
+![default](https://i.imgur.com/9f2Umuw.png)
+
 ## Πηγές:
 
 Παραδοτέο 2:
