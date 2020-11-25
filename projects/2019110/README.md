@@ -83,7 +83,7 @@
 
 # Συμμετοχικό περιεχόμενο
 
-Ώς πρώτη επαφή με το συμμετοχικό περιεχόμενο αποφάσισα να κάνω αναφορά σε δύο εντυπωσιακές καινοτομίες της Siri και του projection keyboard. Που είναι σχετικά σύγχρονες ιδέες και σχετίζονται με την διάδραση και αλληλεπίδραση του ανθρώπου με τους υπολογιστές.
+Ώς πρώτη επαφή με το συμμετοχικό περιεχόμενο αποφάσισα να κάνω αναφορά σε δύο εντυπωσιακές καινοτομίες το Siri και το projection keyboard. Που είναι σχετικά σύγχρονες ιδέες και σχετίζονται με την διάδραση και αλληλεπίδραση του ανθρώπου με τους υπολογιστές.
 * Σύνδεσμος για τα **images**: [apple-siri](https://github.com/p19pasc/images/blob/master/apple-siri.jpg), [apple-siri-thumb](https://github.com/p19pasc/images/blob/master/apple-siri-thumb.png), [projection-yboard](https://github.com/p19pasc/images/blob/master/projection-keyboard.jpg), [rojection-keyboard-thumb](https://github.com/p19pasc/images/blob/master/projection-keyboard-thumb.jpg)
 * Σύνδεσμος για την **gallery**: [projection-keyboard.md](https://github.com/p19pasc/_gallery/blob/master/projection-keyboard.md), [apple-siri.md](https://github.com/p19pasc/_gallery/blob/master/apple-siri.md)
 * Σύνδεσμος για **slides**: [archetypes.md](https://codingexercisesp2019110.netlify.app//slides/archetypes/), [netlify](https://codingexercisesp2019110.netlify.app//slides/archetypes/)
