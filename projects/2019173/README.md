@@ -96,6 +96,6 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 
 #### Τρόπος επίλυσης της άσκησης:
 Μέσα από την παρακολούθηση των μαθημάτων και την εμβάθυνση στη χρήση του τερματικού, τα βήματα λύσης της άσκησης δεν ήταν ιδιαίτερα δύσκολα. Μάζεψα πληροφορίες από τις ιστοσελίδες: 1)[Status bar and styling {#status-bar}](https://tao-of-tmux.readthedocs.io/en/latest/manuscript/09-status-bar.html#status-bar-and-styling-status-bar) και 
-             2)[Από αυτήν](https://github.com/altercation/solarized): - [Features](https://github.com/altercation/solarized#features) - [Font Samples](https://github.com/altercation/solarized#font-samples) - [Screenshots](https://github.com/altercation/solarized#screenshots)
+             2)[Από αυτήν](https://github.com/altercation/solarized): [Features](https://github.com/altercation/solarized#features), [Font Samples](https://github.com/altercation/solarized#font-samples) και [Screenshots](https://github.com/altercation/solarized#screenshots).
                                                                       
                                                                       
