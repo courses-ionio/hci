@@ -104,3 +104,20 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 ## Παραδοτέο 7
 
 [Άσκηση Γραμμής Εντολών "create your own static site and blog generator with pandoc"](https://asciinema.org/a/iX2LiRTtb6yFbNXjiqjKBsG2M)
+
+## Παραδοτέο 8
+
+[Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/image.md)
+
+[Website link](https://elastic-northcutt-449d27.netlify.app/remix/menu-pie/)
+
+[Δείτε το στο Codepen](https://codepen.io/vuxxs/pen/poEzrPY)
+
+
+### Εκπλήρωση ζητούμενων παραδοτέου 
+
+Επέλεξα την άσκηση προγραμματισμού [Menu pie](https://pibook.epidro.me/remix/menu-pie/) και ολοκλήρωσα τα ζητούμενα της άσκηση.
+
+Το μενού εμφανίζει μόνο 4 λειτουργίες με μία μικρή αλλαγή στον κώδικα. Παρόλο που δεν αφαίρεσα το κομμάτι των λειτουργιών στη JavaScript & CSS μπορούμε να καταλάβουμε ότι δε χρειάζεται σε τόσο μικρές λειτουργίες γιατί το performance δεν παίζει σημαντικό ρόλο.
+
+<img src= "https://i.imgur.com/ZNIaPXe.gif">
