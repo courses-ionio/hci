@@ -85,7 +85,7 @@
 # Συμμετοχικό περιεχόμενο
 
 Ώς πρώτη επαφή με το συμμετοχικό περιεχόμενο αποφάσισα να κάνω αναφορά σε δύο εντυπωσιακές καινοτομίες το Siri και το projection keyboard. Που είναι σχετικά σύγχρονες ιδέες και σχετίζονται με την διάδραση και αλληλεπίδραση του ανθρώπου με τους υπολογιστές.
-* Σύνδεσμος για τα **images**: [apple-siri](https://github.com/p19pasc/images/blob/master/apple-siri.jpg), [apple-siri-thumb](https://github.com/p19pasc/images/blob/master/apple-siri-thumb.png), [projection-yboard](https://github.com/p19pasc/images/blob/master/projection-keyboard.jpg), [rojection-keyboard-thumb](https://github.com/p19pasc/images/blob/master/projection-keyboard-thumb.jpg)
+* Σύνδεσμος για τα **images**: [apple-siri](https://github.com/p19pasc/images/blob/master/apple-siri.jpg), [apple-siri-thumb](https://github.com/p19pasc/images/blob/master/apple-siri-thumb.jpg), [projection-yboard](https://github.com/p19pasc/images/blob/master/projection-keyboard.jpg), [projection-keyboard-thumb](https://github.com/p19pasc/images/blob/master/projection-keyboard-thumb.jpg)
 * Σύνδεσμος για την **gallery**: [projection-keyboard.md](https://github.com/p19pasc/_gallery/blob/master/projection-keyboard.md), [apple-siri.md](https://github.com/p19pasc/_gallery/blob/master/apple-siri.md)
 * Σύνδεσμος για **slides**: [archetypes.md](https://codingexercisesp2019110.netlify.app//slides/archetypes/), [netlify](https://codingexercisesp2019110.netlify.app//slides/archetypes/)
 * Σύνδεσμος για **timeline**: [multimedia.md](https://github.com/p19pasc/site/blob/master/_timeline/multimedia.md),[netlify](https://codingexercisesp2019110.netlify.app//timeline/multimedia/)  
@@ -99,10 +99,15 @@ image processing: https://www.w3schools.com/cssref/css3_pr_filter.asp
 
 - [homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
   - [asciinema](https://asciinema.org/docs/installation)  
-* text editor and plug-ins for code highlighting and autocompletion : https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint , https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint , 
+* text editor and plug-ins for code highlighting and autocompletion : https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint , https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint
+### Συμμεχοτικό περιεχόμενο
+- [Crop thumb images](https://www.img2go.com/)
+- [gitsubmodules](https://github.blog/2016-02-01-working-with-submodules/)
+- [Clone repository](https://www.youtube.com/watch?v=i7lRIICGPts)
 ### Εμφανησιακή επεξεργασία 
 - [Ανέβασμα εικόνων](https://postimages.org/)   
   - [Καλιμπράρισμα εικόνων](https://www.youtube.com/watch?v=f4ifdKCH7VI&ab_channel=PeterC)  
+  - [Crop  thumb images](https://www.img2go.com/)
   - [Gif Maker](https://ezgif.com/)
 * [Markdown](https://www.markdownguide.org/basic-syntax/#images-1)
 
