@@ -90,7 +90,6 @@ https://asciinema.org/a/NbpaCXvpGZOO5giUYYIlZmKaa
 
 Με απασχόλησαν εμπορικά επιτυχημένες συσκευές προηγούμενων δεκαετιών. 
 Έτσι ασχολήθηκα με τον μικροϋπολογιστή Amstrad CPC 464 που πρωτοπαρουσιάστηκε τη δεκαετία του ΄80.
-
 https://github.com/Thanozz/_gallery/blob/master/amstrad-cpc-464.md
 
 Αλλά και με τη κονσόλα βιντεοπαιχνιδιών Sony Playstation 1 που πρωτοκυκλοφόρησε τη δεκατία του ΄90.
