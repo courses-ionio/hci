@@ -14,6 +14,7 @@
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 # [Mouse Eraser](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)
+![MouseEraser](https://user-images.githubusercontent.com/72515787/100358989-9b15df80-2fff-11eb-88be-03eccd8cf246.gif)
 # Άσκηση γραμμής εντολών Warm up
   Το συγκεκριμένο παραδοτέο αποτελεί την πρώτη άσκηση γραμμής εντολών καθώς και την εισαγωγή στο περιβάλλον του LINUX και του Linux terminal και στην εφαρμογή asciinema     η οποία χρησιμοποιείται για την καταγραφή των εντολών μέσα στον τερματικό. Τα βήματα που ζητά η άσκηση για την ολοκλήρωσή της είναι:
 ##Change your command prompt with your student ID:
