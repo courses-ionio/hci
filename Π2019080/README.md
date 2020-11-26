@@ -14,7 +14,7 @@
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
-#Παραδοτέο 2ο
+# Παραδοτέο 2ο
 ### [Mouse Eraser](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)
 ![MouseEraser](https://user-images.githubusercontent.com/72515787/100358989-9b15df80-2fff-11eb-88be-03eccd8cf246.gif)
 
