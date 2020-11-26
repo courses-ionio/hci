@@ -13,9 +13,13 @@
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
-# [Mouse Eraser](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)
+
+#Παραδοτέο 2ο
+### [Mouse Eraser](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)
 ![MouseEraser](https://user-images.githubusercontent.com/72515787/100358989-9b15df80-2fff-11eb-88be-03eccd8cf246.gif)
-# Άσκηση γραμμής εντολών Warm up
+
+# Παραδοτέο 3ο
+### Άσκηση γραμμής εντολών 
   Το συγκεκριμένο παραδοτέο αποτελεί την πρώτη άσκηση γραμμής εντολών καθώς και την εισαγωγή στο περιβάλλον του LINUX και του Linux terminal και στην εφαρμογή asciinema     η οποία χρησιμοποιείται για την καταγραφή των εντολών μέσα στον τερματικό. Τα βήματα που ζητά η άσκηση για την ολοκλήρωσή της είναι:
   
 **Change your command prompt with your student ID:**
@@ -32,8 +36,13 @@
 **Display system information (hardware+software):**
 ![display system sw and hw](https://user-images.githubusercontent.com/72515787/100363826-f2b74980-3005-11eb-98f1-fc638b128915.gif)
 
-# [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
+# Παραδοτέο 4ο
+### [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
 ![MenuPie](https://user-images.githubusercontent.com/72515787/100359178-e03a1180-2fff-11eb-87c3-38b0723a1064.gif)
-# [Command line](https://asciinema.org/a/QrBPNjDfZPIzam9veDe81S9iJ)
+
+# Παραδοτέο 5ο
+### [Command line](https://asciinema.org/a/QrBPNjDfZPIzam9veDe81S9iJ)
+
+# Παραδοτέο 6ο
 # [Mouse Form](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)
 ![MouseForm](https://user-images.githubusercontent.com/72515787/100359304-06f84800-3000-11eb-86be-484b20bf01aa.gif)
