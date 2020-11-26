@@ -44,5 +44,5 @@
 ### [Command line](https://asciinema.org/a/QrBPNjDfZPIzam9veDe81S9iJ)
 
 # Παραδοτέο 6ο
-# [Mouse Form](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)
+### [Mouse Form](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)
 ![MouseForm](https://user-images.githubusercontent.com/72515787/100359304-06f84800-3000-11eb-86be-484b20bf01aa.gif)
