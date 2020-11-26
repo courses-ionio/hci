@@ -22,9 +22,11 @@
 ![student id](https://user-images.githubusercontent.com/72515787/100363701-cb607c80-3005-11eb-8b99-3cd0c05986a4.gif)
 
 **List your dot files:**
+
 ![list dot files](https://user-images.githubusercontent.com/72515787/100363780-e206d380-3005-11eb-91e8-f3cad8779b9c.gif)
 
 **Display your shell configuration file:**
+
 ![display shell configuration](https://user-images.githubusercontent.com/72515787/100363809-eb903b80-3005-11eb-85fa-2491c5ccca78.gif)
 
 **Display system information (hardware+software):**
