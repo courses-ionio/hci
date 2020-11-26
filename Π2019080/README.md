@@ -19,12 +19,16 @@
   Το συγκεκριμένο παραδοτέο αποτελεί την πρώτη άσκηση γραμμής εντολών καθώς και την εισαγωγή στο περιβάλλον του LINUX και του Linux terminal και στην εφαρμογή asciinema     η οποία χρησιμοποιείται για την καταγραφή των εντολών μέσα στον τερματικό. Τα βήματα που ζητά η άσκηση για την ολοκλήρωσή της είναι:
   
 **Change your command prompt with your student ID:**
+![student id](https://user-images.githubusercontent.com/72515787/100363701-cb607c80-3005-11eb-8b99-3cd0c05986a4.gif)
 
-### List your dot files:
+**List your dot files:**
+![list dot files](https://user-images.githubusercontent.com/72515787/100363780-e206d380-3005-11eb-91e8-f3cad8779b9c.gif)
 
-### Display your shell configuration file:
+**Display your shell configuration file:**
+![display shell configuration](https://user-images.githubusercontent.com/72515787/100363809-eb903b80-3005-11eb-85fa-2491c5ccca78.gif)
 
-### Display system information (hardware+software):
+**Display system information (hardware+software):**
+![display system sw and hw](https://user-images.githubusercontent.com/72515787/100363826-f2b74980-3005-11eb-98f1-fc638b128915.gif)
 
 # [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
 ![MenuPie](https://user-images.githubusercontent.com/72515787/100359178-e03a1180-2fff-11eb-87c3-38b0723a1064.gif)
