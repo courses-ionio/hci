@@ -18,13 +18,13 @@
 # Άσκηση γραμμής εντολών Warm up
   Το συγκεκριμένο παραδοτέο αποτελεί την πρώτη άσκηση γραμμής εντολών καθώς και την εισαγωγή στο περιβάλλον του LINUX και του Linux terminal και στην εφαρμογή asciinema     η οποία χρησιμοποιείται για την καταγραφή των εντολών μέσα στον τερματικό. Τα βήματα που ζητά η άσκηση για την ολοκλήρωσή της είναι:
   
-## Change your command prompt with your student ID:
+### Change your command prompt with your student ID:
 
-## List your dot files:
+### List your dot files:
 
-## Display your shell configuration file:
+### Display your shell configuration file:
 
-## Display system information (hardware+software):
+### Display system information (hardware+software):
 
 # [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
 ![MenuPie](https://user-images.githubusercontent.com/72515787/100359178-e03a1180-2fff-11eb-87c3-38b0723a1064.gif)
