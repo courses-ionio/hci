@@ -15,15 +15,11 @@
 | 12 | Τελική αναφορά* |
 # [Mouse Eraser](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)
 # Άσκηση γραμμής εντολών Warm up
-  Το συγκεκριμένο παραδοτέο αποτελεί την πρώτη άσκηση γραμμής εντολών καθώς και την εισαγωγή στο περιβάλλον του LINUX και του Linux terminal και στην εφαρμογή asciinema     η οποία χρησιμοποιείται για την καταγραφή των εντολών μέσα στον τερματικό. Τα βήματα που ζητά η άσκηση για την ολοκλήρωσή της είναι: \n
+  Το συγκεκριμένο παραδοτέο αποτελεί την πρώτη άσκηση γραμμής εντολών καθώς και την εισαγωγή στο περιβάλλον του LINUX και του Linux terminal και στην εφαρμογή asciinema     η οποία χρησιμοποιείται για την καταγραφή των εντολών μέσα στον τερματικό. Τα βήματα που ζητά η άσκηση για την ολοκλήρωσή της είναι:
 ##Change your command prompt with your student ID:
-[![asciicast](https://asciinema.org/a/SAokTwuUyI6o3i4c0QMCpK7Y7.svg)](https://asciinema.org/a/SAokTwuUyI6o3i4c0QMCpK7Y7)
 ##List your dot files:
-[![asciicast](https://asciinema.org/a/e8CiCukyGfkLjGlWDEV8lLfIf.svg)](https://asciinema.org/a/e8CiCukyGfkLjGlWDEV8lLfIf)
 ##Display your shell configuration file:
-[![asciicast](https://asciinema.org/a/XPgEtdQ4hig6NNrph4TxkIYap.svg)](https://asciinema.org/a/XPgEtdQ4hig6NNrph4TxkIYap)
 ##Display system information (hardware+software):
-[![asciicast](https://asciinema.org/a/FPKZk7AmtkWAdxM2XfSMYejvr.svg)](https://asciinema.org/a/FPKZk7AmtkWAdxM2XfSMYejvr)
 # [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
 # [Command line](https://asciinema.org/a/QrBPNjDfZPIzam9veDe81S9iJ)
 # [Mouse Form](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)
