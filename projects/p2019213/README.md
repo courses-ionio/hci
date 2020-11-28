@@ -30,7 +30,7 @@
 | 4 | [Άσκηση προγραμματισμού(Interactive Text)](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4) |
 | 5 | [Άσκηση γραμμής εντολών(Powerline statusbar&color scheme/theme)](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5) |
 | 6 | συμμετοχικό περιεχόμενο |
-| 7 | [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 3 (Switch)](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7)) |
+| 7 | [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 3 (Switch)](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7) |
 | 8 | Άσκηση γραμμής εντολών |
 | 9 | Άσκηση προγραμματισμού |
 | 10 | Άσκηση γραμμής εντολών |
