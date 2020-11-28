@@ -206,5 +206,5 @@ Normal Image | 160px Image
 
 Normal Image | 160px Image
 --- | ---
-![]() | ![]()
+![](https://raw.githubusercontent.com/DIATSIGK/hci/2018218/projects/2018218/warcraft.png) | ![](https://raw.githubusercontent.com/DIATSIGK/hci/2018218/projects/2018218/warcraft-thumb.png)
 
