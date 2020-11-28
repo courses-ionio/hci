@@ -24,6 +24,7 @@
 | 2 | Εμβάθυνση στις εκφάνσεις της επικοινωνίας του ανθρώπου με τον υπολογιστή |
 
 <h2 id="Παραδοτέο 2">Παραδοτέο 2 - Άσκηση προγραμματισμού</h2>
+    <p><a href="https://p19zing-hci.netlify.app/remix/button/">link στο site</a> 
     <p>link στο Codepen https://codepen.io/p19zing/pen/bGeeevB
     <p>Αλλαγή λειτουργίας στο click ενός κουμπιού στο CodePen. Λεπτομέρειες θα βρείτε στο αρχείο https://github.com/p19zing/site/blob/master/_remix/button.md
         
@@ -33,6 +34,7 @@
     <p>Ta αποτελέσματα του neofetch φαίνονται στο αρχείο https://github.com/p19zing/hci/blob/2019027/projects/2019027/paradoteo3/neofetch-ubuntu.PNG
         
 <h2 id="Παραδοτέο 4">Παραδοτέο 4 - Άσκηση προγραμματισμού</h2>
+    <p><a href="https://p19zing-hci.netlify.app/remix/css-queries/">link στο site</a> 
     <p>link στο Codepen https://codepen.io/p19zing/pen/ZEOoeGB
     <p>Υλοποιήθηκε η άσκηση css-queries. Προστέθηκε media query για μέγεθος 1200px και αλλάζουν τα χρώματα του κειμένου και του background ανάλογα με το μέγεθος. link στο fork του pibook: https://github.com/p19zing/site/blob/2019027/_remix/css-queries.md
         
@@ -47,5 +49,6 @@
     <p>Πληροφορίες για την 2η εικόνα : https://github.com/p19zing/_gallery/blob/master/PS5.md
  
 <h2 id="Παραδοτέο 7">Παραδοτέο 7 - Εξαφάνιση στοιχείου λίστας με το κλικ</h2>
+     <p><a href="https://p19zing-hci.netlify.app/remix/sortable-list/">link στο site</a> 
     <p> link στο Codepen https://codepen.io/p19zing/pen/KKMEexb
     <p>Υλοποιήθηκε η άσκηση sortable-list. Προστέθηκε κώδικας jQuery ο οποίος αν δεν σύρεις ένα στοιχείο της λίστας αλλά απλώς το κλικάρεις, το εξαφανίζει. link στο fork του pibook: https://github.com/p19zing/site/blob/2019027/_remix/sortable-list.md
