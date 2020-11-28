@@ -24,19 +24,21 @@
 | 2 | Εμβάθυνση στις εκφάνσεις της επικοινωνίας του ανθρώπου με τον υπολογιστή |
 
 <h2 id="Παραδοτέο 2">Παραδοτέο 2 - Άσκηση προγραμματισμού</h2>
+    <p>Αλλαγή λειτουργίας στο click ενός κουμπιού στο CodePen. Λεπτομέρειες θα βρείτε στο αρχείο https://github.com/p19zing/site/blob/master/_remix/button.md
     <p>link στο netlify site  <a href="https://p19zing-hci.netlify.app/remix/button/">https://p19zing-hci.netlify.app/remix/button/</a> 
     <p>link στο Codepen https://codepen.io/p19zing/pen/bGeeevB
-    <p>Αλλαγή λειτουργίας στο click ενός κουμπιού στο CodePen. Λεπτομέρειες θα βρείτε στο αρχείο https://github.com/p19zing/site/blob/master/_remix/button.md
+    
         
 <h2 id="Παραδοτέο 3">Παραδοτέο 3 - Άσκηση γραμμής εντολών</h2>
     <p>link στο Asciinema https://asciinema.org/a/PWwMVkEnoYS6a1FgbBqzuoXSO
     <p>Για την αλλαγή του command prompt να περιέχει τον ΑΜ, άλλαξα την μεταβλητή PS1 του .bashrc: https://github.com/p19zing/hci/blob/2019027/projects/2019027/paradoteo3/bashrc
     <p>Ta αποτελέσματα του neofetch φαίνονται στο αρχείο https://github.com/p19zing/hci/blob/2019027/projects/2019027/paradoteo3/neofetch-ubuntu.PNG
         
-<h2 id="Παραδοτέο 4">Παραδοτέο 4 - Άσκηση προγραμματισμού</h2>
+<h2 id="Παραδοτέο 4">Παραδοτέο 4 - Άσκηση προγραμματισμού</h2>  
+    <p>Υλοποιήθηκε η άσκηση css-queries. Προστέθηκε media query για μέγεθος 1200px και αλλάζουν τα χρώματα του κειμένου και του background ανάλογα με το μέγεθος. link στο fork του pibook: https://github.com/p19zing/site/blob/2019027/_remix/css-queries.md
     <p>link στο netlify site  <a href="https://p19zing-hci.netlify.app/remix/css-queries/">https://p19zing-hci.netlify.app/remix/css-queries/</a> 
     <p>link στο Codepen https://codepen.io/p19zing/pen/ZEOoeGB
-    <p>Υλοποιήθηκε η άσκηση css-queries. Προστέθηκε media query για μέγεθος 1200px και αλλάζουν τα χρώματα του κειμένου και του background ανάλογα με το μέγεθος. link στο fork του pibook: https://github.com/p19zing/site/blob/2019027/_remix/css-queries.md
+    
         
 <h2 id="Παραδοτέο 5">Παραδοτέο 5 - Άσκηση γραμμής εντολών</h2>
     <p>link στο Asciinema https://asciinema.org/a/x084pXuj8tVk8Ec0gYsEstkei
@@ -48,8 +50,9 @@
     <p>2η εικόνα : https://github.com/p19zing/images/blob/master/PS5.jpg
     <p>Πληροφορίες για την 2η εικόνα : https://github.com/p19zing/_gallery/blob/master/PS5.md
  
-<h2 id="Παραδοτέο 7">Παραδοτέο 7 - Εξαφάνιση στοιχείου λίστας με το κλικ</h2>
+<h2 id="Παραδοτέο 7">Παραδοτέο 7 -  Άσκηση προγραμματισμού</h2>
+        <p>Εξαφάνιση στοιχείου λίστας με το κλικ. Υλοποιήθηκε η άσκηση sortable-list. Προστέθηκε κώδικας jQuery ο οποίος αν δεν σύρεις ένα στοιχείο της λίστας αλλά απλώς το κλικάρεις, το εξαφανίζει. link στο fork του pibook: https://github.com/p19zing/site/blob/2019027/_remix/sortable-list.md
         <p>link στο netlify site  <a href="https://p19zing-hci.netlify.app/remix/css-queries/">https://p19zing-hci.netlify.app/remix/sortable-list/</a> 
      <p><a href="https://p19zing-hci.netlify.app/remix/sortable-list/">link στο site</a> 
     <p> link στο Codepen https://codepen.io/p19zing/pen/KKMEexb
-    <p>Υλοποιήθηκε η άσκηση sortable-list. Προστέθηκε κώδικας jQuery ο οποίος αν δεν σύρεις ένα στοιχείο της λίστας αλλά απλώς το κλικάρεις, το εξαφανίζει. link στο fork του pibook: https://github.com/p19zing/site/blob/2019027/_remix/sortable-list.md
+    
