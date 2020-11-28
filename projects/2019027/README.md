@@ -52,7 +52,6 @@
  
 <h2 id="Παραδοτέο 7">Παραδοτέο 7 -  Άσκηση προγραμματισμού</h2>
         <p>Εξαφάνιση στοιχείου λίστας με το κλικ. Υλοποιήθηκε η άσκηση sortable-list. Προστέθηκε κώδικας jQuery ο οποίος αν δεν σύρεις ένα στοιχείο της λίστας αλλά απλώς το κλικάρεις, το εξαφανίζει. link στο fork του pibook: https://github.com/p19zing/site/blob/2019027/_remix/sortable-list.md
-        <p>link στο netlify site  <a href="https://p19zing-hci.netlify.app/remix/css-queries/">https://p19zing-hci.netlify.app/remix/sortable-list/</a> 
-     <p><a href="https://p19zing-hci.netlify.app/remix/sortable-list/">link στο site</a> 
+        <p>link στο netlify site  <a href="https://p19zing-hci.netlify.app/remix/css-queries/">https://p19zing-hci.netlify.app/remix/sortable-list/</a>
     <p> link στο Codepen https://codepen.io/p19zing/pen/KKMEexb
     
