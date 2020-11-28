@@ -78,9 +78,9 @@ https://rafael5gr2.netlify.app/remix/image/
   
 Στα παρακάτω link μπορείτε να δείτε τις αλλαγές που έκανα στα αποθετήρια του βιβλίου.  
   
-https://github.com/rafael5gr2/images
-https://github.com/rafael5gr2/_gallery
-https://github.com/rafael5gr2/site/tree/master/_slides
+https://github.com/rafael5gr2/images  
+https://github.com/rafael5gr2/_gallery  
+https://github.com/rafael5gr2/site/tree/master/_slides  
 https://github.com/rafael5gr2/site/tree/master/_timeline
   
 ![Image](https://image.prntscr.com/image/tk8iQB3DRjKosD2RiQGcvQ.png)  
