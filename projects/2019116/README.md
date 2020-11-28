@@ -20,7 +20,7 @@
 | 5 | Άσκηση γραμμής εντολών [click here](#παραδοτέο-5)|
 | 6 | Συμμετοχικό περιεχόμενο [click here](#παραδοτέο-6)|
 | 7 | Άσκηση προγραμματισμού [click here](#παραδοτέο-7)|
-| 8 | Άσκηση γραμμής εντολών |
+| 8 | Άσκηση γραμμής εντολών [click here](#παραδοτέο-8)|
 | 9 | Άσκηση προγραμματισμού |
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | Συμμετοχικό περιεχόμενο |
@@ -88,3 +88,70 @@ https://codepen.io/sckarolos/pen/VLJWMQ/
 https://rafael5gr2.netlify.app/remix/image-filter/
   
 ![Image](https://image.prntscr.com/image/1Ld4SvVCRbeNiXP1Ra9Cmg.png)
+
+## Παραδοτέο 8
+
+Στο πέμπτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (download mp3) ζητούσε να κατεβάσουμε ένα τραγούδι και να το αναπαράγουμε μέσο terminal. Τα εργαλεία που χρησιμοποίησα είναι το youtube-dl (https://github.com/ytdl-org/youtube-dl) και το mpv (https://github.com/mpv-player/mpv) τα οποία και έτρεξα μέσο ενός bash script το οποίο αρχικά ζητάει ένα YouTube URL και ένα όνομα για το αρχείο, έπειτα κατεβάζει και αναπαράγει και το διαγραφεί αν το επιθυμεί ο χρήστης και τέλος τον ρωτάει αν θέλει να ξανά κάνει την διαδικασία από την αρχή για κάποιο άλλο τραγούδι. Ως shell χρησιμοποιώ το bash και ως editor το vim. Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema, με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.  
+  
+Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών και το bash script.
+
+[![asciicast](https://asciinema.org/a/375912.svg)](https://asciinema.org/a/375912)
+
+```
+while :
+do
+	#User input
+	echo -n "Please enter a youtube URL: "
+	read URL
+	echo -n "Please enter a name for your mp3 file: "
+	read NAME
+	
+	#Download and play a song
+
+	youtube-dl -x --audio-format mp3 -o "$NAME.%(ext)s" "$URL"
+	mpv "$NAME.mp3"
+	
+	#Ask the users if they want to delete the mp3 file
+
+	while :
+        do
+                echo -n "Do you want to delete the mp3 file? [Y/n]: "
+        	read DELETE
+                
+                if [ "$DELETE" != "Y" ] && [ "$DELETE" != "n" ];
+                then
+                        echo "Wrong input! Try again..."
+                else
+                        break
+                fi
+        done
+
+	if [ "$DELETE" == "Y" ];
+	then
+		rm "$NAME.mp3"
+		echo "The mp3 file has been deleted successfully!"
+	fi
+
+	#Ask the users if they want to download and play another song
+	
+	while :
+	do
+		echo -n "Do you want to download and play another song? [Y/n]: "
+		read END
+		
+		if [ "$END" != "Y" ] && [ "$END" != "n" ];
+		then
+			echo "Wrong input! Try again..."
+		else
+			break
+		fi
+	done
+	
+	if [ "$END" == "n" ];
+	then
+		break
+	fi
+done
+
+echo "Thank you for using my bash script!"
+```
