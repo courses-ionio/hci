@@ -74,7 +74,14 @@ https://rafael5gr2.netlify.app/remix/image/
   
 ## Παραδοτέο 6
   
-Στο έκτο παραδοτέο μας ζητήθηκε να
+Στο έκτο παραδοτέο μας ζητήθηκε να βρούμε δύο νέες εικόνες και να τις προσαρμόσουμε στις διαφάνειες και στα χρονολογία του βιβλίου. Το θέμα που επέλεξα είναι τα βίντεοπαιχνίδια, όπου και αποφάσισα να δείξω την εξέλιξή τους.  
+  
+Στα παρακάτω link μπορείτε να δείτε τις αλλαγές που έκανα στα αποθετήρια του βιβλίου.  
+  
+https://github.com/rafael5gr2/images
+https://github.com/rafael5gr2/_gallery
+https://github.com/rafael5gr2/site/tree/master/_slides
+https://github.com/rafael5gr2/site/tree/master/_timeline
   
 ![Image](https://image.prntscr.com/image/tk8iQB3DRjKosD2RiQGcvQ.png)  
 Στην φωτογραφία αύτη μπορούμε να δούμε την εξέλιξη του παιχνιδιού minecraft μετά από μία δεκαετία από την κυκλοφορία του. Για την συγκεκριμένη φωτογραφία χρησιμοποιήθηκε ένα map το οποίο φτιάχτηκε από εμένα το 2020.  
