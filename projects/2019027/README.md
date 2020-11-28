@@ -24,7 +24,7 @@
 | 2 | Εμβάθυνση στις εκφάνσεις της επικοινωνίας του ανθρώπου με τον υπολογιστή |
 
 <h2 id="Παραδοτέο 2">Παραδοτέο 2 - Άσκηση προγραμματισμού</h2>
-    <p><a href="https://p19zing-hci.netlify.app/remix/button/">link στο site</a> 
+    <p>link στο netlify site<a href="https://p19zing-hci.netlify.app/remix/button/">https://p19zing-hci.netlify.app/remix/button/</a> 
     <p>link στο Codepen https://codepen.io/p19zing/pen/bGeeevB
     <p>Αλλαγή λειτουργίας στο click ενός κουμπιού στο CodePen. Λεπτομέρειες θα βρείτε στο αρχείο https://github.com/p19zing/site/blob/master/_remix/button.md
         
