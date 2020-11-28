@@ -2,15 +2,15 @@
 ## *ΑΜ: Π2018218*
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα.](#εισαγωγή)<sup><a href="#1">[ΠΑΡΑΔΟΤΕΟ 1]</a></sup> |
+| 1 | [Εισαγωγή](#εισαγωγή)<sup><a href="#1">[ΠΑΡΑΔΟΤΕΟ 1]</a></sup> |
 | 2 | Άσκηση προγραμματισμού: <sup><a href="#2">[ΠΑΡΑΔΟΤΕΟ 2]</a></sup> |
 | 3 | Άσκηση γραμμής εντολών: <sup><a href="#3">[ΠΑΡΑΔΟΤΕΟ 3]</a></sup> |
-| 4 | Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης (CSCW, IV): <sup><a href="#4">[ΠΑΡΑΔΟΤΕΟ 4]</a></sup> |
+| 4 | Άσκηση προγραμματισμού: <sup><a href="#4">[ΠΑΡΑΔΟΤΕΟ 4]</a></sup> |
 | 5 | Άσκηση γραμμής εντολών <sup><a href="#5">[ΠΑΡΑΔΟΤΕΟ 5]</a></sup> |
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο: <sup><a href="#6">[ΠΑΡΑΔΟΤΕΟ 6]</a></sup> |
-| 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
-| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 6 | Συμμετοχικό περιεχόμενο: <sup><a href="#6">[ΠΑΡΑΔΟΤΕΟ 6]</a></sup> |
+| 7 | Άσκηση γραμμής εντολών (SW)|
+| 8 | Άσκηση προγραμματισμού (HCI)|
+| 9 | Άσκηση γραμμής εντολών (SW) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
@@ -143,49 +143,21 @@ Link για asciinema: https://asciinema.org/a/T1TRrCaCnA8KFjEM0UJS36ajI
 
 ###### [6]
 ## Άσκηση Συμμετοχικό περιεχόμενο
-1. Αρχικά ανοιγω το terminal και κάνω clone το repository hci και παίρνω πισω το branch μου 2018218
+Ολη η διαδικασία επεξεργασίας των submodules έγιναν με εντολές git από to terminal σε λειτουργικό ubuntu.
+Οι εντολές που χρησιμοποιήθηκαν ήταν αρχικά η
+git clone < repository > για να κατεβάσω το αρχείο στον φάκελο μου
 
-2. Στην συνέχεια κάνω fork  το αποθετήριο _gallery 
-
-3. Προσθέτω ως submodel το αποθετηριο _gallery στον λογαριασμό μου (git submodule add ....) αντιγράφοντας το αντίστοιχο link
-Link για asciinema: https://asciinema.org/a/84WtWoFhE674ZdTaduejMUsPs
-4. Εισέρχομαι μέσα στο αρχικο φακελο hci και τρέχουμε την εντολή git status 
-               new file:   .gitmodules
-	       new file:   _gallery
-Link για asciinema:https://asciinema.org/a/pDDJNvqIogBdXUBV2Jd1DVf9m
-
-5. Στο φακελο _gallery του υπολογιστή μου τροποποιώ τα περιέχομενα των αρχείων mobile.md και atari-adventure.md του _gallery
-Link για asciinema:https://asciinema.org/a/hwOexle79chivdf937rr8mJS6
-6. Εκτέλω την εντολή (git add -u) και ενημερώνω .Κανω commit στο αποθετήριο του υπολογιστή για το αρχείο _gallery
-Link για asciinema:https://asciinema.org/a/SeCn7lspH2pbGXtqMdLpo1rrJ
-
-7. Υστερα πηγαίνω στο repo αρχείο του υπολογιστή μου. Κάνω add _gallery και στην συνέχεια commit μαζι με git submodule ενημέρωση,
-με χρήση εντολών git add gallery,git commit και git submodule update 
-Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
-
-8. Τέλος το push στο αποθετήριο μου στο github γίνεται από το αρχείο _gallery του υπολογιστή με την εντολή git push.
-Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
-
-Παρατηρήσεις:
- 
- Παρατηρώ ότι το αποθετήριο _gallery στο github ενημερώνεται ενώ στο branch μου όχι.
- - Ετσι πηγαίνω στο arxeio  hci στον υπολογιστή μου και κανω 
-   - git submodule update --init 
-   - git push origin 2018218:master
-   αφου πρωτα κανω git pull kai git push από το _gallery του υπολογιστή μου
-   
    [Σύνδεσμος Αποθετηρίου](https://github.com/DIATSIGK/site)
    
-   Επαναλαμβάνω την ιδια διαδικασία και για ενα και καινουργιο αρχείο Apollo_Guidance_Computer καθώς προσθετονται και οι φωτογραφίες για το συγκεκριμένο.
-
-
 - [Apollo_Guidance_Computer - Table](https://github.com/DIATSIGK/_gallery/blob/master/apollo.md)
   - >[Apollo_Guidance_Computer - Normal Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg)
   - >[Apollo_Guidance_Computer - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
+  - >[Σύνδεσμος σελιδας βιβλιου](https://tender-boyd-c194fb.netlify.app/gallery/apollo_guidance_computer/?fbclid=IwAR1fs4RF9-HAh0JKdiX5AkPAJWNROIuk5pG20URG_MowZTqj_PdGf_Sb8aw)
   
 - [Warcraft](https://github.com/DIATSIGK/_gallery/blob/bae11db2e8df8034ab3b2c28f34476f498937354/warcraft.md)
   - >[Warcraft - Normal Image](https://github.com/DIATSIGK/images/blob/267ce2c141dd899669430b3d3fe56a40e914877a/warcraft.png)
   - >[Warcraft - 160px Image](https://github.com/DIATSIGK/images/blob/267ce2c141dd899669430b3d3fe56a40e914877a/warcraft-thumb.png)
+  - >[Συνδεσμος σελίδας βιβλίου](https://tender-boyd-c194fb.netlify.app/gallery/warcraft/?fbclid=IwAR0oZhTgGXuVeSgaR0keVPacZFgGB2y-8wienmkkG4CqBX2Eo0ZNRt_cvUA)
   
   
   
