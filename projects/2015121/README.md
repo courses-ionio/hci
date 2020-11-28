@@ -99,4 +99,8 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 ###### [8]
 
 ## Άσκηση γραμμής εντολών: download mp3
-Link για το asciinema:
+Link για το asciinema: https://asciinema.org/a/375772
+
+## Βήματα:
+Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal.
+Αρχικά, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo apt install youtube-dl** και **sudo apt-get install -y mpg123**. Εκτέλεσα την εντολή **youtube-dl -x --audio-format mp3 "ytsearch1: 'song title'"** για να αναζητήσω και να κατεβάσω το βίντεο απευθείας σε μορφή mp3. Τέλος, προχώρησα **mpg123 song title**, ώστε να γίνει αναπαραγωγή του κομματιού της επιλογής μου. Ολοκλήρωσα το asciicast με την εντολή **exit**.
