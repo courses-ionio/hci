@@ -178,17 +178,14 @@ Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
    
    Επαναλαμβάνω την ιδια διαδικασία και για ενα και καινουργιο αρχείο Apollo_Guidance_Computer καθώς προσθετονται και οι φωτογραφίες για το συγκεκριμένο.
 
-- [Atari-Aventure - Table](https://github.com/DIATSIGK/_gallery/blob/master/atari-adventure.md)
-  - >[Atari Video Computer System - Normal Image](https://github.com/DIATSIGK/site)
-  - >[Atari Video Computer System - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/atari-video-computer-system-thumb.jpg)
 
 - [Apollo_Guidance_Computer - Table](https://github.com/DIATSIGK/_gallery/blob/master/apollo.md)
   - >[Apollo_Guidance_Computer - Normal Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg)
   - >[Apollo_Guidance_Computer - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
   
-- [Compaq Portable](https://github.com/DIATSIGK/_gallery/edit/master/compaq_portable.md)
-  - >[Compaq Portable - Normal Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Compaq_portable.jpg)
-  - >[Compaq Portable - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Compaq_portable_160x120.jpg)
+- [Warcraft](https://github.com/DIATSIGK/_gallery/blob/bae11db2e8df8034ab3b2c28f34476f498937354/warcraft.md)
+  - >[Warcraft - Normal Image](https://github.com/DIATSIGK/images/blob/267ce2c141dd899669430b3d3fe56a40e914877a/warcraft.png)
+  - >[Warcraft - 160px Image](https://github.com/DIATSIGK/images/blob/267ce2c141dd899669430b3d3fe56a40e914877a/warcraft-thumb.png)
   
   
   
@@ -204,7 +201,7 @@ Normal Image | 160px Image
 
 | Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
 | :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
-| diatsigk      |Compaq Portable | [Link image 160 pixel](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Compaq_portable_160x120.jpg)| Το Compaq Portable ήταν ο πρώτος 100% συμβατός υπολογιστής κλώνος IBM. Για αυτόν ακριβώς τον λόγο η Compaq δεν μπορούσε απλώς να αντιγράψει το BIOS της IBM για να κάνει το νέο μηχάνημα, αυτό θα ήταν παράνομο και εύκολα αποδεδειγμένο από την IBM. Η λυση βρέθηκε όταν η Compaq χρησιμοποίησε δύο σύνολα προγραμματιστών .Η πρώτη ομάδα ανέλυσε τον αρχικό κώδικα και σημείωσε ακριβώς πώς ανταποκρινόταν και η δεύτερη ομάδα πήρε αυτές τις σημειώσεις και έγραψε το δικό του BIOS που είχε την ίδια απόδοση. Μετά από ένα χρόνο η επιτυχία ήρθε με ενα εκατομμύριο δολάρια από τις πωλήσεις. Είχαν ένα νόμιμο BIOS πανομοιότυπο με αυτό του υπολογιστή IBM. | [Lisence Url](https://en.wikipedia.org/wiki/Compaq_Portable) |Κινητός υπολογισμός| wiki   | computer | Portable|
+| diatsigk      |Warcraft | [Link image 160 pixel](https://github.com/DIATSIGK/images/blob/267ce2c141dd899669430b3d3fe56a40e914877a/warcraft-thumb.png)| Ta στοιχεία διεπαφής του παιχνιδιού με το χειριστή, μπορούν να αφαιρεθούν από την λειτουργία του παιχνιδιού και να έχουν την δική τους γραφική μεταχείριση πχ μπάρες που δείχνουν την υγεία του παίχτη . Τα παιχνίδια αυτά εντάσσονται στην κατηγορία non diegetic. | [Lisence Url](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans#/media/File:Warcraft_Orcs_v_Humans_01.png) |wiki| Αρχέτυπα   | Videogames| |
 
 
 Normal Image | 160px Image
