@@ -191,7 +191,7 @@ Link για asciinema:https://asciinema.org/a/zHWIirxv0ns1IFgZaDeQDH3HH
   
 | Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
 | :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
-| diatsigk      |Apollo Guidance Computer (AGC) | [Link image 160 pixel](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)| Σχεδιασμένο από επιστήμονες και μηχανικούς στο εργαστήριο οργάνων του MIT, ο Apollo Guidance Computer (AGC) είναι το αποκορύφωμα χρόνων εργασίας για τη μείωση του μεγέθους του διαστημικού σκάφους Apollo.Το αρχικό είχε μέγεθος 7 ψηγείων και το τελικό έφτανε το 0.5 κυβικό μέτροΟι αστροναύτες επικοινωνούσαν με τον υπολογιστή με τη αφή διψήφιου κωδικού στη μονάδα οθόνης και πληκτρολογίου (DSKY). Το AGC ήταν μια από τις πρώτες χρήσεις ολοκληρωμένων κυκλωμάτων      | [Lisence Url](https://en.wikipedia.org/wiki/NASA) |archetypes| wiki   | computer | NASA |
+| diatsigk      |Apollo Guidance Computer (AGC) | [Link image 160 pixel](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)| Σχεδιασμένο από επιστήμονες και μηχανικούς στο εργαστήριο οργάνων του MIT, ο Apollo Guidance Computer (AGC) είναι το αποκορύφωμα χρόνων εργασίας για τη μείωση του μεγέθους του διαστημικού σκάφους Apollo.Το αρχικό είχε μέγεθος 7 ψηγείων και το τελικό έφτανε το 0.5 κυβικό μέτροΟι αστροναύτες επικοινωνούσαν με τον υπολογιστή με τη αφή διψήφιου κωδικού στη μονάδα οθόνης και πληκτρολογίου (DSKY). Το AGC ήταν μια από τις πρώτες χρήσεις ολοκληρωμένων κυκλωμάτων      | [Lisence Url](https://en.wikipedia.org/wiki/NASA) |Wiki| archetypes   | computer | NASA |
 
 
 Normal Image | 160px Image
@@ -201,10 +201,10 @@ Normal Image | 160px Image
 
 | Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
 | :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
-| diatsigk      |Warcraft | [Link image 160 pixel](https://github.com/DIATSIGK/images/blob/267ce2c141dd899669430b3d3fe56a40e914877a/warcraft-thumb.png)| Ta στοιχεία διεπαφής του παιχνιδιού με το χειριστή, μπορούν να αφαιρεθούν από την λειτουργία του παιχνιδιού και να έχουν την δική τους γραφική μεταχείριση πχ μπάρες που δείχνουν την υγεία του παίχτη . Τα παιχνίδια αυτά εντάσσονται στην κατηγορία non diegetic. | [Lisence Url](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans#/media/File:Warcraft_Orcs_v_Humans_01.png) |wiki| Αρχέτυπα   | Videogames| |
+| diatsigk      |Warcraft | [Link image 160 pixel](https://github.com/DIATSIGK/images/blob/267ce2c141dd899669430b3d3fe56a40e914877a/warcraft-thumb.png)| Ta στοιχεία διεπαφής του παιχνιδιού με το χειριστή, μπορούν να αφαιρεθούν από την λειτουργία του παιχνιδιού και να έχουν την δική τους γραφική μεταχείριση πχ μπάρες που δείχνουν την υγεία του παίχτη . Τα παιχνίδια αυτά εντάσσονται στην κατηγορία non diegetic. | [Lisence Url](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans#/media/File:Warcraft_Orcs_v_Humans_01.png) |wiki| archetypes  | Videogames| |
 
 
 Normal Image | 160px Image
 --- | ---
-![](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Compaq_portable.jpg) | ![](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Compaq_portable_160x120.jpg)
+![]() | ![]()
 
