@@ -7,7 +7,7 @@
 | 2 | Άσκηση προγραμματισμού ή βιογραφικό  (SW) <li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
 | 3 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a> |
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW)<li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | Άσκηση γραμμής εντολών  <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a> |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
@@ -31,3 +31,10 @@ tittle=" change your command prompt with your student ID, list your dot files, d
 <i><a href= "https://github.com/eliastk09/gr/blob/gh-pages/_remix/clock-processing.md" tittle=“ Image processing”>Image processing</a></i>
 
 Τροποποιούμε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών 
+
+<h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
+<i><a href= "https://asciinema.org/a/376094"
+ tittle="fetch the weather forecast for your home city and one more city that you want to travel to">fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
+ 
+ Σκοπός της άσκησης ήταν να πάρουμε την πρόγνωση καιρού για την πόλη μας και για μία ακόμη πόλη στην οποία θέλουμε να ταξιδέψουμε
+      
