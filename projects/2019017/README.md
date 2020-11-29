@@ -77,13 +77,13 @@ Preview:<br/>
 ## Παραδοτέο 6
 ### A1)
 
-Πρόσθεσα entry για το **Unreal Engine** [εδώ](https://github.com/p19kala/_gallery/blob/master/unreal-engine.md) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/commit/37fe62e23574ba1648b8b1f049833bbf47378199) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/commit/03c691b5a501f7acdcb789900160c3ac55570835).
+Πρόσθεσα entry για το **Unreal Engine** [εδώ](https://github.com/p19kala/_gallery/blob/master/unreal-engine.md) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/commit/37fe62e23574ba1648b8b1f049833bbf47378199) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/commit/03c691b5a501f7acdcb789900160c3ac55570835). Tags στο Netlify εμφανίζονται [εδώ](https://p19kala.netlify.app/tags/#epic-games-inc) και [εδώ](https://p19kala.netlify.app/tags/#blueprint)
 
 ### A2)
 
 Αρχεία που άλλαξα: 
-- [programming.md](https://github.com/p19kala/site/commit/e2e20206c3bd5f0d7dd51f4faa21cc19ce23bca2) από το \_timeline. Πρόσθεσα το "unreal-engine".
-- [tools.md](https://github.com/p19kala/site/commit/b7933af52f1a99df07e79c864b646490ba6cab83) από το \_slides. Πρόσθεσα το "unreal-engine".
+- [programming.md](https://github.com/p19kala/site/commit/e2e20206c3bd5f0d7dd51f4faa21cc19ce23bca2) από το \_timeline. Πρόσθεσα το "unreal-engine". Netlify [link](https://p19kala.netlify.app//timeline/programming/)
+- [tools.md](https://github.com/p19kala/site/commit/b7933af52f1a99df07e79c864b646490ba6cab83) από το \_slides. Πρόσθεσα το "unreal-engine". Netlify [link](https://p19kala.netlify.app//slides/tools/)
 - [.gitmodules](https://github.com/p19kala/site/blob/master/.gitmodules) για το συντονισμό των submodules \_gallery και images στα αντίστοιχα fork μου.
 
 ## Παραδοτέο 7
