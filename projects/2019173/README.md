@@ -96,5 +96,9 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 
 #### Τρόπος επίλυσης της άσκησης:
 Μέσα από την παρακολούθηση των μαθημάτων και την εμβάθυνση στη χρήση του τερματικού, τα βήματα λύσης της άσκησης δεν ήταν ιδιαίτερα δύσκολα. Μάζεψα πληροφορίες από: 1)[Status bar and styling {#status-bar}](https://tao-of-tmux.readthedocs.io/en/latest/manuscript/09-status-bar.html#status-bar-and-styling-status-bar), 2)[Features](https://github.com/altercation/solarized#features), 3)[Font Samples](https://github.com/altercation/solarized#font-samples) και 4)[Screenshots](https://github.com/altercation/solarized#screenshots).
+
+- Για να δημιουργήσουμε τ status bar έπρεπε: 
+
+- Για να προσθέσουμε χρώματα στο τερματικό έπρεπε: 
                                                                       
                                                                       
