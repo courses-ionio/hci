@@ -12,7 +12,7 @@
 | 5 | [Άσκηση γραμμής εντολών ](#ΠΑΡΑΔΟΤΕΟ-5)| 
 | 6 | [Συμμετοχικό περιεχόμενο ](#ΠΑΡΑΔΟΤΕΟ-6)|
 | 7 |[Άσκηση προγραμματισμού ](#ΠΑΡΑΔΟΤΕΟ-7)| 
-| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
+| 8 | [Άσκηση γραμμής εντολών ](#ΠΑΡΑΔΟΤΕΟ-8)|
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -61,4 +61,10 @@ https://github.com/alkinoospitsinis/site/blob/master/_timeline/programming.md
 
 
 https://github.com/alkinoospitsinis/site/blob/master/_remix/image-filter.md
+
+
+
+## ΠΑΡΑΔΟΤΕΟ 8:
+
+https://asciinema.org/a/ZBhiVHUOFkmBI7Oilpflb2Yll
 
