@@ -111,7 +111,13 @@
 1. Προσθήκη δύο νέων εικόνως: Εικόνα [1η](https://github.com/Kavvadias/images/blob/master/microsoft-mouse.jpg) , [2η](https://github.com/Kavvadias/images/blob/master/trackball-mouse.jpg). Αντίστοιχα οι εικόνες μήκους 160pixel [1η](https://github.com/Kavvadias/images/blob/master/microsoft-mouse-thumb.jpg)
 και [2η](https://github.com/Kavvadias/images/blob/master/trackball-mouse-thumb.jpg)
 
-2. Προσθήκη στην συλλογή(_gallery): [Microsoft Mouse](https://github.com/Kavvadias/_gallery/blob/master/microsoft-mouse.md) 
+2. Προσθήκη στην συλλογή(_gallery): [Microsoft Mouse](https://github.com/Kavvadias/_gallery/blob/master/microsoft-mouse.md) και [Trackball](https://github.com/Kavvadias/_gallery/blob/master/trackball-mouse.md).
+
+#### A2
+
+1. Προσθήκη σε σετ απο θεματικές διαφάνειες: Πρόσθεσα το Microsoft Mouse και το Trackball στις διαφάνεις με θέμα [Αρχέτυπα](https://github.com/Kavvadias/site/blob/master/_slides/archetypes.md). 
+
+2. Δημιουργία χρονολογίου: Δημιούργησα νέο χρονολόγιο ονόματι [Συσκευές Εισόδου-Ποντίκια](https://github.com/Kavvadias/site/blob/master/_timeline/mouses.md) με τις δύο φωτογραφίες που πρόσθεσα και φωτογραφίες που ήδη υπάρχουν.
 
 
 
