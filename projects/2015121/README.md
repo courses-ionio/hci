@@ -82,7 +82,7 @@ Link για το asciinema: https://asciinema.org/a/371320
 ## Συμμετοχικό περιεχόμενο: A1 και A2
 
 ## Βήματα:
-Cloning του **/gallery** βιβλίου: https://asciinema.org/a/373311
+Cloning του **/_gallery** βιβλίου: https://asciinema.org/a/373311
 
 **Link για το αποθετήριο εικόνας:** https://github.com/apostoloskp/_gallery/blob/master/apple-smartwatchs6.md
 
