@@ -104,6 +104,8 @@
 Οδηγίες για την χρήση του εργαλείου έλαβα από τον ακόλουθο σύνδεσμο:
 -https://github.com/chubin/wttr.in
 
+## Συμμετοχικό περιεχόμενο
+
 ## 3η Άσκηση προγραμματισμού
 ### Menu slide
 #### [Αποθετήριο κώδικα 3ης Άσκησης προγραμματισμού](https://github.com/Kavvadias/site/blob/master/_remix/menu-slide.md)
