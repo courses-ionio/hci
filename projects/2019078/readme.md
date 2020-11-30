@@ -46,13 +46,16 @@
 
 <a href="https://ibb.co/N7TbJy1"><img src="https://i.ibb.co/25ZHCk8/hello-world.png" alt="hello-world" border="0"></a>
 
+*1.2.Απο τα αριστερά προς τα δεξιά τα παραθυρα με μέγεθος 1542,760,400 αντίστοιχα οπού το κείμενο και τα χρώματα προσαρμόζονται*
+
+# ΑΣΚΗΣΕΙΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
+
 
 ## IMAGE FILTER <a name="f"></a>
 
 [image filter](https://github.com/Orfeaslambrou/site/blob/2019078/_remix/image-filter.md)
 
 
-*1.2.Απο τα αριστερά προς τα δεξιά τα παραθυρα με μέγεθος 1542,760,400 αντίστοιχα οπού το κείμενο και τα χρώματα προσαρμόζονται*
 # ΑΣΚΗΣΕΙΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
 
 ## EMACS <a name="c"></a>
