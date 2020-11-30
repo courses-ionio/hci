@@ -8,14 +8,14 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | [Εισαγωγή](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)* |
+| 1 | [Εισαγωγή](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
 | 2 | [1η Άσκηση προγραμματισμού Button](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#1%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D) |
 | 3 | [1η Άσκηση γραμμής εντολών become productive with a todo list](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#1%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
 | 4 | [2η Άσκηση προγραμματισμού CSS Queries](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#2%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D)  |
 | 5 | [2η Άσκηση γραμμής εντολών check the weather](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#2%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
+| 6 | [Συμμετοχικό περιεχόμενο](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF) |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
-| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
+| 8 | [3η Άσκηση προγραμματισμού Menu slide](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#3%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
