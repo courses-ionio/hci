@@ -168,3 +168,5 @@ Preview:<br/>
 - [Org mode quickstart](https://orgmode.org/quickstart.html#fn.1)
 
 - [Save and Quit Emacs](https://linuxhint.com/emacs_save_quit/)
+
+- [Detailed Emacs guide](https://www.digitalocean.com/community/tutorials/how-to-use-the-emacs-editor-in-linux)
