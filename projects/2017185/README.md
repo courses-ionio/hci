@@ -57,12 +57,12 @@ https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
    [Λινκ](https://asciinema.org/a/p1T5s1421s4xoCHzlfkH093X7)
    
 ## Παραδοτέο 6ο, συμμετοχικό περιεχόμενο
-     Έκανα φορκ το pibook/images και πρόσθεσα 2 εικόνες σύμφωνα με τις οδηγίες.
+   Έκανα φορκ το pibook/images και πρόσθεσα 2 εικόνες σύμφωνα με τις οδηγίες.
 ## Παραδοτέο 7ο
-     Απουσιάζει...
+   Απουσιάζει...
      
 ## Παραδοτέο 8ο
-     See the Pen [Html Canvas Draw](https://codepen.io/haki-malai/pen/wvzagrw) by Χακί Μάλαϊ ([@haki-malai](https://codepen.io/haki-malai)) on [CodePen](https://codepen.io/).
+   See the Pen [Html Canvas Draw](https://codepen.io/haki-malai/pen/wvzagrw) by Χακί Μάλαϊ ([@haki-malai](https://codepen.io/haki-malai)) on [CodePen](https://codepen.io/).
       
    
   
