@@ -99,7 +99,7 @@ Preview:<br/>
 ![default](https://i.imgur.com/9f2Umuw.png)
 
 ## Παραδοτέο 8
-Διάλεξα την ασκήση "visualize git commits" από το σετ [visualization](https://github.com/p19kala/dokey#visualization). Σκοπός ήταν να δείξω τα git commits μου ενός αποθετηρίου. Διάλεξα τα αποθετήρια hci και site. Έκανα install το git-bars και έδειξα κάποιες εντολές του εργαλείου. Χρησιμοποίησα την εντολή `-u p19kala`, η οποία παίρνει ένα username ως arguement, για να δείξει μόνο commits που έχω κάνει εγώ, καθώς υπάρχουν πάνω απο 4000 commits σε 4 χρόνια στο hci από διάφορους authors.
+Διάλεξα την ασκήση "visualize git commits" από το σετ [visualization](https://github.com/p19kala/dokey#visualization). Σκοπός ήταν να δείξω τα git commits μου ενός αποθετηρίου. Διάλεξα τα αποθετήρια hci και site. Έκανα install το git-bars και έδειξα κάποιες εντολές του εργαλείου. Χρησιμοποίησα την εντολή `-u p19kala`, η οποία παίρνει ένα username ως arguement, για να δείξει μόνο commits που έχω κάνει εγώ, καθώς υπάρχουν πάνω απο 4000 commits σε 4 χρόνια στο hci από διάφορους authors. Οι εντολές `-a {date}` και `-b {date}` εμφανίζουν commits μετά και πριν μια ημερομηνία αντίστοιχα. Η `-r {date}` εμφανίζει τα commits σε ανεστραμμένη σειρά (αύξουσα). Η εντολή `-p {day/week/month/year hh:mm}` εμφανίζει όλα τα commits που έγιναν από το πρώτο commit σε μέρες, εβδομάδες, μήνες ή χρόνια.
 [Asciinema link](https://asciinema.org/a/FVejVRWL3nvJAqnDxebgfK7BB)
 
 Preview: <br/>
