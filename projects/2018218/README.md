@@ -9,7 +9,7 @@
 | 5 | Άσκηση γραμμής εντολών <sup><a href="#5">[ΠΑΡΑΔΟΤΕΟ 5]</a></sup> |
 | 6 | Συμμετοχικό περιεχόμενο: <sup><a href="#6">[ΠΑΡΑΔΟΤΕΟ 6]</a></sup> |
 | 7 | Άσκηση γραμμής εντολών (SW)|
-| 8 | Άσκηση προγραμματισμού (HCI)|
+| 8 | Άσκηση προγραμματισμού (HCI): <sup><a href="#8">[ΠΑΡΑΔΟΤΕΟ 8]</a></sup>|
 | 9 | Άσκηση γραμμής εντολών (SW) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -179,4 +179,11 @@ Normal Image | 160px Image
 Normal Image | 160px Image
 --- | ---
 ![](https://raw.githubusercontent.com/DIATSIGK/hci/2018218/projects/2018218/warcraft.png) | ![](https://raw.githubusercontent.com/DIATSIGK/hci/2018218/projects/2018218/warcraft-thumb.png)
+
+###### [8]
+## Άσκηση YouTube video player
+
+[Link βιβλιου](https://inspiring-ride-de6440.netlify.app/remix/youtube-video-player/)
+[Link CODEPEN](https://codepen.io/2018218/pen/OJRPvJG)
+Αρχικα επεξεργάστηκα τον κώδικα του παραδείγματος και κατάλαβα πως για να υπάρξει αλληλεπίδραση μεταξύ λειτουργιών χρήστη και video χρειάζεται η κατάλληλη βιβλιοθήκη την οποία και πρόσθεσα. 'Υστερα μέσω κλάσεων play-video κα pause-video τις o χρήστης μπορεί να παίξει το βιντεο αλλά και να το σταματήσει.
 
