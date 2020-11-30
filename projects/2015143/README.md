@@ -17,7 +17,7 @@
 | 8 | Άσκηση γραμμής εντολών : <sup><a href="#8">Παραδοτέο 8 </a></sup>|
 | 9 | Άσκηση προγραμματισμού : <sup><a href="#9">Παραδοτέο 9 </a></sup> |
 | 10 | Άσκηση γραμμής εντολών : <sup><a href="#10">Παραδοτέο 10 </a></sup>|
-| 11 |συμμετοχικό περιεχόμενο |
+| 11 |συμμετοχικό περιεχόμενο : <sup><a href="#10">Παραδοτέο 10 </a></sup>|
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
 
@@ -152,3 +152,18 @@ Link για το codepen : https://codepen.io/2015143/pen/WNxBqeM
 ## Περιεχόμενα του video :
 Σε αυτο το βίντεο αναπαρίσταται αναλυτικά όλη η διαδικασία ενσωμάτωσης του color-theme(onedark).Θα μπορούσε να θεωρηθεί η συνέχεια του παραδοτέου 8 καθώς εκει χτίστηκε η βάση των αρχείων μέσα στο (~/.config/nvim).Ένα ενδεικτικο παραδειγμα .vim αρχείου ενώ το θέμα είναι εγκατεστημένο ειναι το [εξής](https://imgur.com/iDvwp9P) .
 
+###### [11]
+## Συμμετοχικό περιεχόμενο
+# B2 : 
+
+Link για τη Βιογραφία στο site : https://miltos9.netlify.app/biography/steve-jobs/
+
+Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_biography/Steve-Jobs.md
+### Πηγές : 
+1 : https://www.protothema.gr/technology/article/150554/h-istoria-ths-zohs-toy-steve-jobs-o-anthropos-kai-o-mythos/
+
+2 : https://www.semifind.gr/news/view/Nea/1702/Steve-Jobs---egkateleipse-to-panepistimio-gia-na-htisei-mia-aytokratoria
+
+3 : https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B7%CE%B2_%CE%A4%CE%B6%CE%BF%CE%BC%CF%80%CF%82
+
+4 : https://www.youtube.com/watch?v=s1dR0ooLyDo&ab_channel=TheEntrepreneur
