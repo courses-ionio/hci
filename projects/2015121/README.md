@@ -84,7 +84,7 @@ Link για το asciinema: https://asciinema.org/a/371320
 ## Βήματα:
 Cloning του git βιβλίου: https://asciinema.org/a/373311
 
-**Εικόνες που χρησιμοποιήθηκαν:**
+**Link για το αποθετήριο εικόνας:** https://github.com/apostoloskp/_gallery/blob/master/apple-smartwatchs6.md
 
 ###### [7]
 
