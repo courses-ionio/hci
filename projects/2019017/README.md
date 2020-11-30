@@ -49,7 +49,7 @@ Preview:<br/>
 Το [asciinema link](https://asciinema.org/a/eA3ydCOwAVi0EIFp8e7CvkawT).
 
 Preview:<br/>
-![default](https://i.imgur.com/8bSWzo7.png)
+![default](https://i.imgur.com/1RnWv5m.png)
 
 ## Παραδοτέο 4
 
@@ -99,11 +99,17 @@ Preview:<br/>
 ![default](https://i.imgur.com/9f2Umuw.png)
 
 ## Παραδοτέο 8
-Διάλεξα την ασκήση "visualize git commits" από το σετ [visualization](https://github.com/p19kala/dokey#visualization). Σκοπός ήταν να δείξω τα git commits μου ενός αποθετηρίου. Διάλεξα τα αποθετήρια hci και site. Έκανα install το git-bars και έδειξα κάποιες εντολές του εργαλείου. Χρησιμοποίησα την εντολή `-u p19kala`, η οποία παίρνει ένα username ως arguement, για να δείξει μόνο commits που έχω κάνει εγώ, καθώς υπάρχουν πάνω απο 4000 commits σε 4 χρόνια στο hci από διάφορους authors. Οι εντολές `-a {date}` και `-b {date}` εμφανίζουν commits μετά και πριν μια ημερομηνία αντίστοιχα. Η `-r {date}` εμφανίζει τα commits σε ανεστραμμένη σειρά (αύξουσα). Η εντολή `-p {day/week/month/year hh:mm}` εμφανίζει όλα τα commits που έγιναν από το πρώτο commit σε μέρες, εβδομάδες, μήνες ή χρόνια.
-[Asciinema link](https://asciinema.org/a/FVejVRWL3nvJAqnDxebgfK7BB)
+Διάλεξα την ασκήση "organize your notes with emacs" από το σετ [HCI](https://github.com/p19kala/dokey#hci). Σκοπός ήταν να χρησιμοποιήσω το org mode του Emacs για να οργανώσω κάποιες πληροφορίες, οπότε δημιούργησα ένα TODO list. Με `#+TITLE` προσδιορίζω των τίτλο του αρχείου και με `#+AUTHOR` τον συγγραφέα. Η προεπιλεγμένη out-of-the-box μορφή του org mode ήταν πολύ απλή, οπότε για να ειναι πιο ευανάγνωστο βρήκα ένα macro στο ιντερνετ και το έβαλα στο .emacs config file μου. Αυτό χρησιμοποιεί το prettify-symbol-mode του emacs για να μετατρέψει 3 χαρακτήρες σε unicode σύμβολα. Πρόσθεσα επιπλέον σύμβολα και για χαρακτήρες της επιλογή μου. Επιπλέον άλλαξα το χρώμα των γραμματοσειρών του τίτλου, του συγγραφέα και του τίτλου επιπέδου 1 γιατί ήταν πολύ σκούρο και δεν φαινόταν. Στο τέλος πρόσθεσα ένα λινκ για το αποθετήριο μου hci.
 
-Preview: <br/>
-![default](https://i.imgur.com/wjQkMcA.png)
+### Επεξήγηση macro και εντολών που δεν φαίνονται στο terminal:
+Με το `tab` επεκτείνω γρήγορα ένα TODO list. Πρώτα τα "παιδιά" της επιλεγμένης λίστας και έπειτα τα υποδέντρα τους. Με `[]` έχω ένα κενό checkbox, με `[-]` έχω ένα κύκλο που δείχνει μια εργασία σε εξέλιξη και με `[Χ]` έχω ένα συμπληρωμένο checkbox. Αν βάλω `-` χωρίς αγκύλες, το macro το μετατρέπει σε μια σφαίρα. Ο ένας αστερίσκος `*` (τίτλος επιπέδου 1) γίνεται μια πλήρη σφαίρα μέσα σε ένα κύκλο και οι δύο αστερίσκοι (τίτλος επιπέδου 2 ή υπότιτλος) `**` ένας κύκλος.
+
+Για να ξεκινήσω το emacs σε terminal χρησιμοποίησα την εντολή `-nw`, διαφορετικά άνοιγε το emacs σε νέο παράθυρο εκτός του τερματικού. Για να σώσω μια αλλαγή στο αρχείο μου έχω την εντολή `C-x C-s` (Ctrl+x και έπειτα Ctrl+s) και για να βγω από το συγκεκριμένο buffer `C-x k enter` (Ctrl+x, έπειτα k και μετά enter). Αν θέλω να τερματίσω (kill) το emacs κάνω `C-x C-c` (Ctrl+x και έπειτα Ctrl+c). 
+
+[Asciinema link](https://asciinema.org/a/F2Jas1b3XAtZ3EOoGA51t1ro5)
+
+Preview:<br/>
+![default](https://i.imgur.com/OZIo2nb.png)
 
 ## Πηγές:
 
@@ -155,4 +161,10 @@ Preview: <br/>
 
 Παραδοτέο 8:
 
-- [Git-bars](https://github.com/knadh/git-bars)
+- [Symbols Macro](https://www.reddit.com/r/emacs/comments/brt0sk/prettifysymbolsmode_is_so_cool/)
+
+- [Circle icons](https://www.symbolsofit.com/en/circle/)
+
+- [Org mode quickstart](https://orgmode.org/quickstart.html#fn.1)
+
+- [Save and Quit Emacs](https://linuxhint.com/emacs_save_quit/)
