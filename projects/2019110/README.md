@@ -6,13 +6,13 @@
 | --- | --- |
 | 1 |**[Εισαγωγή](#Στόχοι-και-ανάγκες-του-μαθήματος)**|      
 | 2 |**[Mouse form](#Mouse-Form)**| 
-| 3 |**[set-up the main dependencies and demonstrate your base system](#set-up-the-main-dependencies-and-demonstrate-your-base-system)**|
+| 3 |**[Set-up the main dependencies and demonstrate your base system](#set-up-the-main-dependencies-and-demonstrate-your-base-system)**|
 | 4 |**[Mouse option](#Mouse-option)**|
-| 5 |**[text editor and plug-ins for code highlighting and autocompletion](#text-editor-and-plug-ins-for-code-highlighting-and-autocompletion)**| 
-|   |**[check the weather](#check-the-weather)**|
+| 5 |**[Text editor and plug-ins for code highlighting and autocompletion](#text-editor-and-plug-ins-for-code-highlighting-and-autocompletion)**| 
+|   |**[Check the weather](#check-the-weather)**|
 | 6 |**[Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο)** |
 | 7 |**[Image processing](#image-processing)** |
-| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
+| 8 |**[Download mp3](#Download-mp3)**|
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -59,7 +59,7 @@
 
 # Ασκήσεις γραμμής εντολών
 
-### set-up the main dependencies and demonstrate your base system
+### Set-up the main dependencies and demonstrate your base system
 Έχοντας εμβαθύνει στο μάθημα ήρθαμε αντιμέτωποι με την πρώτη άσκηση γραμμής εντολώn. Για τον λόγο αυτό υποχρεωθήκαμε να εγκαταστήσουμε στον υπολογιστή μας ένα virtual machine και να εργαστούμε σε περιβάλλον linux και συγκεκριμένα στο terminal ακολουθόντας και εκτελόντας αρχικά μια σειρά εντολών (homebrew,asciinema) ώστε να μπορούμε να καταγράψουμε 
 τις γραμμές κώδικα των εργασιών. Αφορμή της επιλογής της συγκεκριμένης άσκησης ήταν το γεγονός ότι απαιτούσε την απόκτηση βασικών γνώσεων που χρειαζόμαστε ώστε να τροποποιούμε τα εμφανησιακά στοιχεία του terminal και να αποκτούμε πρόσβαση στα αρχεία του υπολογιστή μέσω αυτού. Παρά την ύπαρξη των εύκολων ζητουμένων, ως πρώτη επαφή με τη γραμμή εντολών πραγματοποιήθηκε πολύ κόπος και αρκετές αναζητήσεις στο διαδίκτυο ώστε να ολοκληρωθεί η εργασία κατανοώντας την ευκολία που μας προσφέρει η σύγχρονη τεχνολογία σε σχέση με την τεχνολογία των σταθερών υπολογιστών εκείνης της εποχής.    
 * Παρουσίαση με: [asciinema](https://asciinema.org/a/368008)
@@ -69,18 +69,26 @@
  <p/>
 <br>
   
-### text editor and plug-ins for code highlighting and autocompletion 
+### Text editor and plug-ins for code highlighting and autocompletion 
 Ως δεύτερη άσκηση γραμμής εντολών επέλεξα να είναι απλή και να παρέχει γνώσεις για την επεξεργασία κειμένων. Βασισμένος στο εργαλείο vim που στην πραγματικότητα είναι σαν κειμενογράφος δημιούργησα το asciinema που θα αναφέρω παρακάτω. Πρώτα από όλα θα ήθελα να αναφέρω πως για την παρουσίαση της χρήσης του vim χρησημοποίησα έναν δοσμένο κώδικα 
 σε **Python** από το μάθημα Κρυπτογραφίας (caesar algorithm). Έχοντας εξοικειωθεί με το εργαλείο αυτό έκανα χρήση  κάποιων βασικών εντολών του. Όπως γίνεται αντιλυπτό σε έναν κειμενογράφο βασικές εντολές θεωρούνται η διαγραφή μιας λέξης ή γράμματος είτε πολλών γραμμών(πχ. 7), η αντιγραφή-επικόλληση και η υπογράμμηση λέξεων. Την πραγματοποίηση των εντολών αυτών αντιπροσοπεύουν οι συνδυασμοί πλήκρων: ``dw, x, 7dd, yy, p``  και η εντολή ``syntax off-on`` αντίστοιχα. Παρ' όλα αυτά σημαντικά είναι το "i" που επιτρέπει την επεξεργασία κειμένου, ``esc`` για την έδοδο από την διαδικασία επεξεργασίας καθώς και το ``:q`` ή ``:q!`` για την πλήρη έξοδο από το vim.      
 * Παρουσίαση με: [asciinema](https://asciinema.org/a/371205).  
 <br>
 
-### check the weather	
+### Check the weather	
 <img align="left" width="350" height="250" src="https://i.postimg.cc/SsWS6PYM/croped.png"> 
 Μία ακόμη καταπληκτική δυνατότητα που μας παρέχεται αποτελεί η ενημέρωση του καιρού. Αυτό είναι εφικτό να επιτευτχθεί με την χρήση της υπηρεσίας παροχής πληροφοριών καιρικών συνθηκών "wttr.in". Εντυπωσιασμένος λοιπόν αποφάσισα να παρουσιάσω τις καιρικές συνθήκες που επικρατούν στην Κέρκυρα,στην Νέα Υόρκη και στο Λονδίνο. Εμβαθύθοντας στις ικανότητες της "wttr.in", ανακλύπτουμε πως παρέχει πληροφορίες τόσο για τα αεροδρόμια όσο και για αξιοθέατα ολόκληρου του κόσμου. Έτσι δεν μας φαίνεται περίεργο πως οι ικανότητες της καλύπτουν και πληροφορίες για την πανσέληνο του φεγγαριού.   
  
   * Παρουσίαση με: [asciinema](https://asciinema.org/a/372775)
 <br>
+
+### Download mp3
+Η απεριόριστες δυνατότητες που παρέχει η γραμμή εντολών για άλλη μια φορά επιβαιβεώνεται με την παροχή αναζήτησης στο διαδίκτυο. Με δύο απλά εργαλεία το **Googler** και **Youtube-dl** καταφέρνουμε να αναζητήσουμε το αγαπημένο μας τραγούδι(mp3),βίντεο(mp4) και να το εγκαταστήσυομε στον υπολογστιή μας. Ύστερα με την βοήθεια του **Mpv** μπορούμε να το ακούσουμε μέσο της γραμμής εντολών ή να το αναπαραστήσουμε σε ένα ξεχωριστό παράθυρο, όπως απεικονίζεται στην **παρακάτω φωτογραφία**. Βέβαια τα εργαλεία αυτά περιλαμβάνουν πάρα πολλές εντολές-συντομεύσεις κουμπιών και είναι ανάγκη να τις αποσαφηνίσουμε ώστε να χρησημοποιήσουμε τις κατάλληλες. Στην περίπτωση μου έκανα χρήση των: `googler -w youtube.com (songname)` για την αναζήτηση μέσα στο **Youtube** το τραγούδι που επιθυμώ, `youtube-dl --extract-audio --audio-format mp3 url` για το κατέβασμα αποκλειστικά του ήχου από τον σύνδεσμο που δώσαμε και `mpv (songname).mp3` ώστε να ακούσουμε το τραγούδι. Για την σωστή τοποθέτηση και σύνταξη των εντολών απαιτείται αρκετός κόπος, δηλαδή αρκετές ώρες δοκιμάζοντας εντολές ώστε να πετύχουμαι το αποτέλεσμα που επιθυμούμε. Συγκεκριμένη δυσκολία δεν υπάρχει, απλά χρειάζεται η αφιέρωση χρόνου όπως ανέφερα και αρκετές αναζητήσεις στο διαδίκτυο. Ακόμη ένα παράδειγμα **Pipelining** που μπορούμε να πραγματοποιήσουμε είναι η αναπαράσταση ενός βίντεο ή τραγουδιού κατευθείαν μέσω του mpv όπως φαίνεται στο τέλος του asciinema και στην **φωτογραφία**.
+
+* Παρουσίαση με: [asciinema](https://asciinema.org/a/376134)<br>
+<p align="center">
+<img height=400 width=600 src="https://i.postimg.cc/6qcVBMSD/Screenshot-from-2020-11-29-23-20-15.png" >
+<p/>
 
 # Συμμετοχικό περιεχόμενο
 
@@ -99,7 +107,16 @@ image processing: https://www.w3schools.com/cssref/css3_pr_filter.asp
 
 - [homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
   - [asciinema](https://asciinema.org/docs/installation)  
-* text editor and plug-ins for code highlighting and autocompletion : https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint , https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint
+* Text editor and plug-ins for code highlighting and autocompletion : https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint , https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint
+* Download mp3: <Br>
+     - [Googler](https://github.com/jarun/googler) <br>
+     - [Pipelining](https://unix.stackexchange.com/questions/594777/watch-and-download-video-from-youtube-with-mpv-only)<br>
+       Youtube-dl:<br>
+     - [Github](https://github.com/ytdl-org/youtube-dl)<br>
+     - [Youtube](https://www.youtube.com/watch?v=9A-HLSvtBWc) <br>
+       Mpv:<br>
+     - [Github](https://github.com/mpv-player/mpv)<br>
+     - [Youtube](https://www.youtube.com/watch?v=BbP0VRISSk0)<br>
 ### Συμμεχοτικό περιεχόμενο
 - [Crop thumb images](https://www.img2go.com/)
 - [gitsubmodules](https://github.blog/2016-02-01-working-with-submodules/)
