@@ -69,15 +69,27 @@ Link για το codepen : https://codepen.io/2015143/pen/JjKLyXB
 ###### [6]
 ## Συμμετοχικό περιεχόμενο
 # A1 :
+## Εικόνα 1)
+
 Link για την εικόνα στο site : https://miltos9.netlify.app/gallery/iphone-12-pro-max/
 
 Link για το αποθετήριο : https://github.com/Miltos9/_gallery/blob/fc18f3b1700928aa64cc8d4143ff323f77245936/iphone-12-pro-max.md
 ## Λίγα λόγια: 
 Διάλεξα να ανεβάσω το iphone 12 pro max γιατι είναι κατα σειρά η 10η ναυαρχίδα που δημιουργεί η εταιρεία και ειναι σημείο αναφόρας στην εξέληξη απο το πρώτο Iphone που κυκλοφόρησε και έφερε ριζική αλλαγή στην αγορά,κατ' επέκταση και στην καθημερινότητα των ανθρώπων.
-# A2 :
-Link για τις διαφάνιες στο site : https://miltos9.netlify.app/slides/aple-evolution/
 
-Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_slides/aple-evolution.md
+## Εικόνα 2)
+
+Link για την εικόνα στο site : https://miltos9.netlify.app/gallery/apple-airpods/
+
+Link για το αποθετήριο : https://github.com/Miltos9/_gallery/blob/2921b4112f1db698be5c90e375c107ff745b0352/apple-airpods.md
+## Λίγα λόγια:
+Με την ίδια λογική του πρώτου i-phone,Η Apple κυκλοφόρησε τα Airpods και κατάφερε να κάνει τεράστια αλλαγή στη βιομηχανία και πλέον ολα τα ακουστήκα τείνουν να γίνουν ασύρματα 
+ακολουθώντας το πρότυπο της Apple. 
+
+# A2 :
+Link για τις διαφάνιες στο site : https://miltos9.netlify.app/slides/apple-evolution/
+
+Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_slides/apple-evolution.md
 
 Link για τo χρονολόγιο στο site : https://miltos9.netlify.app/timeline/mobile/
 
