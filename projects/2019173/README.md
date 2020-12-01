@@ -100,5 +100,5 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 - Για να δημιουργήσουμε το status bar έπρεπε: αρχικά να κατεβάσω το tmux, χρησιμοποιώντας το sudo apt-get install tmux. Έπειτα, στο τερματικό πάτησα: tmux new, για να μπορώ εκ νέου να επεξεργαστώ το status bar. Έτσι, μπήκα στο tmux και ξεκίνησα να πληκτρολογώ το: tmux set-option -g status-position bottom, για να είναι το status bar στο κάτω μέρος, tmux set-option -g status-style bg=black,fg=white, για να γίνει το "φόντο" μαύρο και να έχει άσπρα γράμματα, tmux set-option -g status-justify centre, για να μπορώ να γράψω δεξιά και αριστερά και αναμεσά τους να υπάρχει κενό,tmux set-option -g status-left '#(echo Hello!)', για να γράφει στα αριστερά <<Hello!>>, tmux set-option -g status-rigth  '#(date)', για να δείχνει στα δεξιά την ημερομηνία, tmux set-option -g status interval 1, για να τρέχει ο χρόνος στα δεξιά ανά ένα δευτερόλεπτο και τέλος, exit για να βγω από το tmux.  
 
 - Για να προσθέσουμε χρώματα στο τερματικό έπρεπε: 
-                                                                      
-                                                                      
+
+Η υλοποίηση της άσκησης είναι:  
