@@ -144,12 +144,15 @@ Link για asciinema: https://asciinema.org/a/T1TRrCaCnA8KFjEM0UJS36ajI
 ###### [6]
 ## Άσκηση Συμμετοχικό περιεχόμενο
 Ολη η διαδικασία επεξεργασίας των submodules έγιναν με εντολές git από to terminal σε λειτουργικό ubuntu.
-Οι εντολές που χρησιμοποιήθηκαν ήταν αρχικά η
-git clone < repository > για να κατεβάσω το αρχείο στον φάκελο μου
-
+Οι εντολές που χρησιμοποιήθηκαν ήταν:
+ 1) git clone < repository > --recursive  για να κατεβάσω το αρχείο στον φάκελο μου μαζί με submodules
+ 2) git submodule sync --recursive
+ 3) git submodule update --remote --merge
+ 4) git push
     
-   [Σύνδεσμος Εκτελέσιμου](https://inspiring-ride-de6440.netlify.app/)
-   [Σύνδεσμος Αποθετηρίου](https://github.com/DIATSIGK/site)
+  - [Σύνδεσμος Εκτελέσιμου](https://inspiring-ride-de6440.netlify.app/)
+  
+  - [Σύνδεσμος Αποθετηρίου](https://github.com/DIATSIGK/site)
    
 - [Apollo_Guidance_Computer - Table](https://github.com/DIATSIGK/_gallery/blob/master/apollo-guidance-computer.md)
   - >[Apollo_Guidance_Computer - Normal Image](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/apollo-guidance-computer.jpg)
@@ -200,7 +203,7 @@ Normal Image | 160px Image
 
 Normal Image | 160px Image
 --- | ---
-![](https://raw.githubusercontent.com/DIATSIGK/hci/2018218/projects/2018218/warcraft.png) | ![](https://raw.githubusercontent.com/DIATSIGK/hci/2018218/projects/2018218/warcraft-thumb.png)
+![](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/the-sims.jpg) | ![](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
 
 
 ###### [8]
