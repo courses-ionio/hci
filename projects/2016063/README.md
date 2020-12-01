@@ -45,4 +45,10 @@
                                                                 
   Τροποποιήστε το παράδειγμα δημιουργώντας ένα 2ο κουμπί που θα εκτελεί τη την ανάποδη λειτουργία από αυτή του κουμπιού “ANOTHER”. Το νέο κουμπί πρέπει να εμφανίζει το μήνυμα που είχε εμφανιστεί προηγουμένως.                 
                     
+                                         Παραδοτέο 8 Ασκηση Γραμμης Εντολων Emacs-Org Mode
+                                         
+https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH
 
+<a href="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH" target="_blank"><img src="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH.svg" /></a>
+
+<script id="asciicast-WkznqSRJTXMsAhIMwGT4AGsjH" src="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH.js" async></script>
