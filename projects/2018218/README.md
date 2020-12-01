@@ -3,13 +3,13 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | Εισαγωγή <sup><a href="#1">[ΠΑΡΑΔΟΤΕΟ 1]</a></sup> |
-| 2 | Λίστα με τα dot αρχεία,  list your dot files: <sup><a href="#2">[ΠΑΡΑΔΟΤΕΟ 2]</a></sup> |
-| 3 | Aλλαγή command prompt με το ΑΜ 2018218: <sup><a href="#3">[ΠΑΡΑΔΟΤΕΟ 3]</a></sup> |
-| 4 | Άσκηση προγραμματισμού Sortable list: <sup><a href="#4">[ΠΑΡΑΔΟΤΕΟ 4]</a></sup> |
-| 5 | Eξοικείωση με τις βασικές εντολές, την ανάγνωση τεκμηρίωσης και την επεξεργασία αρχείων <sup><a href="#5">[ΠΑΡΑΔΟΤΕΟ 5]</a></sup> |
-| 6 | Συμμετοχικό περιεχόμενο: <sup><a href="#6">[ΠΑΡΑΔΟΤΕΟ 6]</a></sup> |
-| 7 | Search, download and play (with the terminal) your favorite song of the month from youtube(SW)<sup><a href="#7">[ΠΑΡΑΔΟΤΕΟ 7]</a></sup>|
-| 8 | Άσκηση YouTube video player(HCI): <sup><a href="#8">[ΠΑΡΑΔΟΤΕΟ 8]</a></sup>|
+| 2 | Άσκηση προγραμματισμού: Button: <sup><a href="#2">[ΠΑΡΑΔΟΤΕΟ 2]</a></sup> |
+| 3 | Άσκηση γραμμής εντολών: Aλλαγή command prompt με το ΑΜ 2018218: <sup><a href="#3">[ΠΑΡΑΔΟΤΕΟ 3]</a></sup> |
+| 4 | Άσκηση προγραμματισμού: Sortable list: <sup><a href="#4">[ΠΑΡΑΔΟΤΕΟ 4]</a></sup> |
+| 5 | Άσκηση γραμμής εντολών: man,vim:<sup><a href="#5">[ΠΑΡΑΔΟΤΕΟ 5]</a></sup> |
+| 6 | Συμμετοχικό περιεχόμενο:A1 & A2 <sup><a href="#6">[ΠΑΡΑΔΟΤΕΟ 6]</a></sup> |
+| 7 | Άσκηση γραμμής εντολών: YouTube video player(HCI):<sup><a href="#7">[ΠΑΡΑΔΟΤΕΟ 7]</a></sup>|
+| 8 | Άσκηση προγραμματισμού: Search, download and play MP3: <sup><a href="#8">[ΠΑΡΑΔΟΤΕΟ 8]</a></sup>|
 | 9 | Άσκηση γραμμής εντολών (SW) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -216,6 +216,17 @@ Normal Image | 160px Image
 
 
 ###### [7]
+## Άσκηση YouTube video player
+
+* [Link βιβλιου](https://inspiring-ride-de6440.netlify.app/remix/youtube-video-player/) 
+* [Link CODEPEN](https://codepen.io/2018218/pen/OJRPvJG) - awesome web-based text editor
+Αρχικα επεξεργάστηκα τον κώδικα του παραδείγματος και κατάλαβα πως για να υπάρξει αλληλεπίδραση μεταξύ λειτουργιών χρήστη 
+και video χρειάζεται η κατάλληλη βιβλιοθήκη την οποία και πρόσθεσα. 'Υστερα μέσω κλάσεων play-video κα pause-video o χρήστης
+μπορεί να παίξει το βιντεο αλλά και να το σταματήσει.
+
+
+
+###### [8]
 ## Άσκηση search, download and play (with the terminal) your favorite song of the month from youtube\
 ```sh
 sudo apt-get install python3-pip
@@ -227,13 +238,6 @@ set player mplayer
 d ITEM-NUMBER
 ```
 
-
-###### [8]
-## Άσκηση YouTube video player
-
-* [Link βιβλιου](https://inspiring-ride-de6440.netlify.app/remix/youtube-video-player/) 
-* [Link CODEPEN](https://codepen.io/2018218/pen/OJRPvJG) - awesome web-based text editor
-Αρχικα επεξεργάστηκα τον κώδικα του παραδείγματος και κατάλαβα πως για να υπάρξει αλληλεπίδραση μεταξύ λειτουργιών χρήστη και video χρειάζεται η κατάλληλη βιβλιοθήκη την οποία και πρόσθεσα. 'Υστερα μέσω κλάσεων play-video κα pause-video τις o χρήστης μπορεί να παίξει το βιντεο αλλά και να το σταματήσει.
 
 [1]: <http://oro.open.ac.uk/46759/>
 
