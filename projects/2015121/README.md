@@ -38,7 +38,7 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 Άλλαξα το χρώμα του box στην καρτέλα CSS και το font family σε 'Lucida Console', monospace;
 Με το πάτημα, το button αλλάζει χρώμα σε πράσινο ticked και μας ανακατευθύνει στη σελίδα της σχολής.
 
-Πηγές: https://www.udemy.com/course/the-web-developer-bootcamp/ https://www.w3schools.com/cssref/css_colors.asp
+**Πηγές:** https://www.udemy.com/course/the-web-developer-bootcamp/ https://www.w3schools.com/cssref/css_colors.asp
 
 ###### [3]
 
@@ -66,7 +66,7 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 Εφόσον εμφανίστηκε το νέο πεδίο, πρέπει να ορίσω τις τιμές που θα δέχεται, δηλαδή "Male" ή "Female".Ορίζω νέο label ως
 **gender** και στη συνέχεια με την εντολή **option** θέτω τις επιλογές που ζητούνται από την άσκηση.
   
-Πηγές: https://www.udemy.com/course/the-web-developer-bootcamp/
+**Πηγές:** https://www.udemy.com/course/the-web-developer-bootcamp/
 
 ###### [5]
 
@@ -94,7 +94,7 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 ## Τροποποιήσεις:
 Προσέθεσα τα παρακάτω lines: x Validation< x (format: xxx-xxx):, <input id="x" type="x" pattern="x$" required, ανάλογα με τα ζητούμενα της άσκησης, άλλαξα παράγραφο στο button Submit και τέλος οργάνωσα σε διάταξη τα ζητούμενα όπως αναφέρονται στην εκφώνηση.
 
-Πηγές: https://www.w3schools.com/tags/att_input_pattern.asp
+**Πηγές:** https://www.w3schools.com/tags/att_input_pattern.asp
 
 ###### [8]
 
@@ -117,4 +117,4 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 
 ![Αποτέλεσμα](https://media.giphy.com/media/2bzxis20I6LdSC6shW/giphy.gif)
 
-Πηγές: Σχόλια κώδικα CSS αρχικού παραδείγματος
+**Πηγές:** Σχόλια κώδικα CSS αρχικού παραδείγματος
