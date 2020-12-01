@@ -107,4 +107,10 @@ Link για το asciinema: https://asciinema.org/a/375772
 
 ###### [9]
 
-## Άσκηση προγραμματισμού:
+## Άσκηση προγραμματισμού: image-filter
+Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/master/_remix/image-filter.md
+
+## Τροποποιήσεις:
+Με βάση τα παραδείγματα που δίνονται, προσέθεσα τα παρακάτω lines **-webkit-filter: contrast(1.5) hue-rotate(90deg) saturate(1.5) invert(.8) brightness(1.5); filter: contrast(1.5) hue-rotate(90deg) saturate(1.5) invert(.8) brightness(1.5);** στην εντολή **img:hover**, ανάλογα με την εικόνα που δίνεται και τις προτιμήσεις μου. Συνεπώς, όταν ο χρήστης κάνει hover με το mouse pointer επάνω στην εικόνα, θα εφαρμόζονται τα αντίστοιχα οπτικά εφέ.
+
+Πηγές: Σχόλια κώδικα CSS αρχικού παραδείγματος
