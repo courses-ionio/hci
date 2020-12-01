@@ -76,18 +76,15 @@ https://rafael5gr2.netlify.app/remix/image/
   
 Στο έκτο παραδοτέο μας ζητήθηκε να βρούμε δύο νέες εικόνες και να τις προσαρμόσουμε στις διαφάνειες και στα χρονολογία του βιβλίου. Το θέμα που επέλεξα είναι τα βίντεοπαιχνίδια, όπου και αποφάσισα να δείξω την εξέλιξή τους.  
   
-Στα παρακάτω link μπορείτε να δείτε τις αλλαγές που έκανα στα αποθετήρια του βιβλίου.  
+Στα παρακάτω link μπορείτε να δείτε τις αλλαγές που έκανα στα αποθετήρια του βιβλίου και τις αλλαγές που έγιναν στο Netlify.
   
 https://github.com/rafael5gr2/images  
 https://github.com/rafael5gr2/_gallery  
 https://github.com/rafael5gr2/site/tree/master/_slides  
 https://github.com/rafael5gr2/site/tree/master/_timeline
   
-![Image](https://image.prntscr.com/image/tk8iQB3DRjKosD2RiQGcvQ.png)  
-Στην φωτογραφία αύτη μπορούμε να δούμε την εξέλιξη του παιχνιδιού minecraft μετά από μία δεκαετία από την κυκλοφορία του. Για την συγκεκριμένη φωτογραφία χρησιμοποιήθηκε ένα map το οποίο φτιάχτηκε από εμένα το 2020.  
-  
-![Image](https://image.prntscr.com/image/R8V5C8PVSBKshEz-J0iaYA.png)  
-Το hytale είναι ένα παιχνίδι το οποίο αναμένεται να βγει το 2021 και το οποίο μοιάζει πολύ με το γνωστό παιχνίδι minecraft, αλλά θα έχει μία mediaeval θεματολογία και επίσης θα παρέχει την δική του scripting language έτσι ώστε κάποιος να εμπλουτίσει το περιεχόμενο του παιχνιδιού κυρίως στο multi-player κομμάτι του.  
+https://rafael5gr2.netlify.app//slides/videogames/  
+https://rafael5gr2.netlify.app//timeline/videogames/
   
 ## Παραδοτέο 7
   
@@ -119,12 +116,12 @@ do
 	echo -n "Please enter a name for your mp3 file: "
 	read NAME
 	
-	#Download and play a song
+	#Downloads and plays a song
 
 	youtube-dl -x --audio-format mp3 -o "$NAME.%(ext)s" "$URL"
 	mpv "$NAME.mp3"
 	
-	#Ask the users if they want to delete the mp3 file
+	#Asks the user if they want to delete the mp3 file
 
 	while :
         do
@@ -145,7 +142,7 @@ do
 		echo "The mp3 file has been deleted successfully!"
 	fi
 
-	#Ask the users if they want to download and play another song
+	#Asks the user if they want to download and play another song
 	
 	while :
 	do
