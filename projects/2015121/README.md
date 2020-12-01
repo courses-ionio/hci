@@ -92,7 +92,7 @@ Cloning του **/_gallery** βιβλίου: https://asciinema.org/a/373311
 
 ###### [7]
 
-## Άσκηση προγραμματισμού: Form Validation
+## Άσκηση προγραμματισμού: form-validation
 Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/master/_remix/form-validation.md
 
 ## Τροποποιήσεις:
