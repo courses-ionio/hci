@@ -38,6 +38,10 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 Άλλαξα το χρώμα του box στην καρτέλα CSS και το font family σε 'Lucida Console', monospace;
 Με το πάτημα, το button αλλάζει χρώμα σε πράσινο ticked και μας ανακατευθύνει στη σελίδα της σχολής.
 
+**Αποτέλεσμα:**
+
+![button](https://media.giphy.com/media/tB9RGoIdZEYA95Lb9I/giphy.gif)
+
 **Πηγές:** https://www.udemy.com/course/the-web-developer-bootcamp/ https://www.w3schools.com/cssref/css_colors.asp
 
 ###### [3]
@@ -115,6 +119,6 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 
 **Αποτέλεσμα:**
 
-![Αποτέλεσμα](https://media.giphy.com/media/2bzxis20I6LdSC6shW/giphy.gif)
+![image-filter](https://media.giphy.com/media/2bzxis20I6LdSC6shW/giphy.gif)
 
 **Πηγές:** Σχόλια κώδικα CSS αρχικού παραδείγματος
