@@ -53,13 +53,15 @@
 
 # Παραδοτέο 4
 ## Keyboard input
-### Ολοκληρώθηκε το πρώτο ζητούμενο αλλάζοντας την τιμή του dy στο πλήκτρο με κωδικό 40, στο μισό.
-## Το δεύτερο ζητούμενο δεν έχει ολοκληρωθεί, χρειάζομαι λίγο χρόνο για να το μελετήσω περισσότερο.
+### Άσκηση 1: Τροποποιήστε το παράδειγμα έτσι ώστε όταν το αυτοκίνητο κινείται όπισθεν να έχει μικρότερη (τη μισή) ταχύτητα από το όταν κινείται έμπροσθεν.
+Ολοκληρώθηκε το πρώτο ζητούμενο αλλάζοντας την τιμή του dy στο πλήκτρο με κωδικό 40, στο μισό.
+
 
 <iframe height="265" style="width: 100%;" scrolling="no" title="html canvas game" src="https://codepen.io/isabellapap/embed/OJXZexE?height=265&theme-id=dark&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/isabellapap/pen/OJXZexE'>html canvas game</a> by 2019235
   (<a href='https://codepen.io/isabellapap'>@isabellapap</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
+
 
 # Παραδοτέο 5
 
@@ -115,3 +117,8 @@ Preview:
 [Netlify Link](https://p19papa11.netlify.app/remix/image-filter/)
 
 Επιλέχθηκε μια από τις εύκολες ασκήσεις λόγω έλλειψης χρόνου. Αναμένεται μία συμπληρωματική.
+
+# Παραδοτέο 8
+Λόγω ενός τεχνικού προβλήματος που δεν έχω βρει χρόνο να μελετήσω την λύση του (pacman database corruption) δεν μπορώ να συναντήσω αυτή την προθεσμία. Παραθέτω asciinema με τις προσπάθειες μου για την λύση αυτού του προβλήματος.
+
+[![asciicast](https://asciinema.org/a/9yEjtcyboLTOyEO6Ieuja6rpz.svg)](https://asciinema.org/a/9yEjtcyboLTOyEO6Ieuja6rpz)
