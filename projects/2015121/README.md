@@ -8,7 +8,7 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | <sup><a href="#1">Προσωπικοί μου στόχοι για το μάθημα</a></sup> |
+| 1 | <sup><a href="#1"> Προσωπικοί μου στόχοι για το μάθημα </a></sup> |
 | 2 | <sup><a href="#2"> Άσκηση προγραμματισμού: button </a></sup> | 
 | 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών: get familiar with basic commands, reading documentation and editing files </a></sup> |
 | 4 | <sup><a href="#4"> Άσκηση προγραμματισμού: mouse-form </a></sup> |
