@@ -115,7 +115,6 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 
 **Αποτέλεσμα:**
 
-
 ![Αποτέλεσμα](https://media.giphy.com/media/2bzxis20I6LdSC6shW/giphy.gif)
 
 Πηγές: Σχόλια κώδικα CSS αρχικού παραδείγματος
