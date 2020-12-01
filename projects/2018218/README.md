@@ -203,7 +203,7 @@ Normal Image | 160px Image
 
 Normal Image | 160px Image
 --- | ---
-![](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/the-sims.jpg) | ![](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
+![](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/the-sims.jpg) | ![](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/the-sims-thumb.jpg)
 
 
 ###### [8]
