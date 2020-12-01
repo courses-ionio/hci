@@ -216,11 +216,16 @@ Normal Image | 160px Image
 
 
 ###### [7]
-## Άσκηση YouTube video player
-
-
-
-
+## Άσκηση search, download and play (with the terminal) your favorite song of the month from youtube\
+```sh
+sudo apt-get install python3-pip
+sudo pip3 install mps-youtube
+sudo apt-get install mpv
+mpsyt
+set player mplayer
+.volbeat
+d ITEM-NUMBER
+```
 
 
 ###### [8]
