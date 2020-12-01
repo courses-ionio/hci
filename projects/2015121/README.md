@@ -113,6 +113,6 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 ## Τροποποιήσεις:
 Με βάση τα παραδείγματα που δίνονται, προσέθεσα τα παρακάτω lines **-webkit-filter: contrast(1.5) hue-rotate(90deg) saturate(1.5) invert(.8) brightness(1.5); filter: contrast(1.5) hue-rotate(90deg) saturate(1.5) invert(.8) brightness(1.5);** στην εντολή **img:hover**, ανάλογα με την εικόνα που δίνεται και τις προτιμήσεις μου. Συνεπώς, όταν ο χρήστης κάνει hover με το mouse pointer επάνω στην εικόνα, θα εφαρμόζονται τα αντίστοιχα οπτικά εφέ.
 
-![λεζάντα](https://www.imgur.com/a/dFdOWU4)
+![Alt Text](https://media.giphy.com/media/2bzxis20I6LdSC6shW/giphy.gif)
 
 Πηγές: Σχόλια κώδικα CSS αρχικού παραδείγματος
