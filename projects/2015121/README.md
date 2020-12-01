@@ -14,7 +14,7 @@
 | 4 | <sup><a href="#4"> Άσκηση προγραμματισμού: mouse-form </a></sup> |
 | 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών: check the weather </a></sup> |
 | 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο </a></sup> |
-| 7 | <sup><a href="#7"> Άσκηση προγραμματισμού: Form Validation </a></sup> |
+| 7 | <sup><a href="#7"> Άσκηση προγραμματισμού: form-validation </a></sup> |
 | 8 | <sup><a href="#8"> Άσκηση γραμμής εντολών: download mp3 </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση προγραμματισμού: image-filter </a></sup> |
 | 10 | Άσκηση γραμμής εντολών |
