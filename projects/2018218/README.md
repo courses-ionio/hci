@@ -147,23 +147,35 @@ Link για asciinema: https://asciinema.org/a/T1TRrCaCnA8KFjEM0UJS36ajI
 Οι εντολές που χρησιμοποιήθηκαν ήταν αρχικά η
 git clone < repository > για να κατεβάσω το αρχείο στον φάκελο μου
 
+    
+   [Σύνδεσμος Εκτελέσιμου](https://inspiring-ride-de6440.netlify.app/)
    [Σύνδεσμος Αποθετηρίου](https://github.com/DIATSIGK/site)
    
-- [Apollo_Guidance_Computer - Table](https://github.com/DIATSIGK/_gallery/blob/master/apollo.md)
-  - >[Apollo_Guidance_Computer - Normal Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Apollo_Guidance_Computer.jpg)
-  - >[Apollo_Guidance_Computer - 160px Image](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)
-  - >[Σύνδεσμος σελιδας βιβλιου](https://tender-boyd-c194fb.netlify.app/gallery/apollo_guidance_computer/?fbclid=IwAR1fs4RF9-HAh0JKdiX5AkPAJWNROIuk5pG20URG_MowZTqj_PdGf_Sb8aw)
+- [Apollo_Guidance_Computer - Table](https://github.com/DIATSIGK/_gallery/blob/master/apollo-guidance-computer.md)
+  - >[Apollo_Guidance_Computer - Normal Image](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/apollo-guidance-computer.jpg)
+  - >[Apollo_Guidance_Computer - 160px Image](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/apollo-guidance-computer-thumb.jpg)
+  - >[Σύνδεσμος σελιδας βιβλιου](https://inspiring-ride-de6440.netlify.app/gallery/apollo-guidance-computer/)
   
-- [Warcraft](https://github.com/DIATSIGK/_gallery/blob/bae11db2e8df8034ab3b2c28f34476f498937354/warcraft.md)
-  - >[Warcraft - Normal Image](https://github.com/DIATSIGK/images/blob/267ce2c141dd899669430b3d3fe56a40e914877a/warcraft.png)
-  - >[Warcraft - 160px Image](https://github.com/DIATSIGK/images/blob/267ce2c141dd899669430b3d3fe56a40e914877a/warcraft-thumb.png)
-  - >[Συνδεσμος σελίδας βιβλίου](https://tender-boyd-c194fb.netlify.app/gallery/warcraft/?fbclid=IwAR0oZhTgGXuVeSgaR0keVPacZFgGB2y-8wienmkkG4CqBX2Eo0ZNRt_cvUA)
+  
+  
+  
+- [Warcraft](https://github.com/pibook/_gallery/blob/7eb69b9c8c96dd765cc80cc8956a082dc6c645d5/warcraft.md)
+  - >[Warcraft - Normal Image](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/warcraft.png)
+  - >[Warcraft - 160px Image](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/warcraft-thumb.png)
+  - >[Συνδεσμος σελίδας βιβλίου](https://inspiring-ride-de6440.netlify.app/gallery/warcraft/)
+  
+- [The sims - Table](https://github.com/pibook/_gallery/blob/7eb69b9c8c96dd765cc80cc8956a082dc6c645d5/the-sims.md)
+  - >[The sims - Normal Image](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/the-sims.jpg)
+  - >[The sims - 160px Image](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/the-sims-thumb.jpg)
+  - >[Σύνδεσμος σελιδας βιβλιου](https://inspiring-ride-de6440.netlify.app/gallery/the-sims/)
+ 
+  
   
   
   
 | Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
 | :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
-| diatsigk      |Apollo Guidance Computer (AGC) | [Link image 160 pixel](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Agc_view_160x120.jpg)| Σχεδιασμένο από επιστήμονες και μηχανικούς στο εργαστήριο οργάνων του MIT, ο Apollo Guidance Computer (AGC) είναι το αποκορύφωμα χρόνων εργασίας για τη μείωση του μεγέθους του διαστημικού σκάφους Apollo.Το αρχικό είχε μέγεθος 7 ψηγείων και το τελικό έφτανε το 0.5 κυβικό μέτροΟι αστροναύτες επικοινωνούσαν με τον υπολογιστή με τη αφή διψήφιου κωδικού στη μονάδα οθόνης και πληκτρολογίου (DSKY). Το AGC ήταν μια από τις πρώτες χρήσεις ολοκληρωμένων κυκλωμάτων      | [Lisence Url](https://en.wikipedia.org/wiki/NASA) |Wiki| archetypes   | computer | NASA |
+| diatsigk      |Apollo Guidance Computer (AGC) | [Link image 160 pixel](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/the-sims-thumb.jpg)| Σχεδιασμένο από επιστήμονες και μηχανικούς στο εργαστήριο οργάνων του MIT, ο Apollo Guidance Computer (AGC) είναι το αποκορύφωμα χρόνων εργασίας για τη μείωση του μεγέθους του διαστημικού σκάφους Apollo.Το αρχικό είχε μέγεθος 7 ψηγείων και το τελικό έφτανε το 0.5 κυβικό μέτροΟι αστροναύτες επικοινωνούσαν με τον υπολογιστή με τη αφή διψήφιου κωδικού στη μονάδα οθόνης και πληκτρολογίου (DSKY). Το AGC ήταν μια από τις πρώτες χρήσεις ολοκληρωμένων κυκλωμάτων      | [Lisence Url](https://en.wikipedia.org/wiki/NASA) |Wiki| archetypes   | computer | NASA |
 
 
 Normal Image | 160px Image
@@ -173,12 +185,23 @@ Normal Image | 160px Image
 
 | Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
 | :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
-| diatsigk      |Warcraft | [Link image 160 pixel](https://github.com/DIATSIGK/images/blob/267ce2c141dd899669430b3d3fe56a40e914877a/warcraft-thumb.png)| Ta στοιχεία διεπαφής του παιχνιδιού με το χειριστή, μπορούν να αφαιρεθούν από την λειτουργία του παιχνιδιού και να έχουν την δική τους γραφική μεταχείριση πχ μπάρες που δείχνουν την υγεία του παίχτη . Τα παιχνίδια αυτά εντάσσονται στην κατηγορία non diegetic. | [Lisence Url](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans#/media/File:Warcraft_Orcs_v_Humans_01.png) |wiki| archetypes  | Videogames| |
+| diatsigk      |Warcraft | [Link image 160 pixel](https://github.com/DIATSIGK/images/blob/267ce2c141dd899669430b3d3fe56a40e914877a/warcraft-thumb.png)| Ta στοιχεία διεπαφής του παιχνιδιού με το χειριστή, μπορούν να αφαιρεθούν από την λειτουργία του παιχνιδιού και να έχουν την δική τους γραφική μεταχείριση πχ μπάρες που δείχνουν την υγεία του παίχτη . Τα παιχνίδια αυτά εντάσσονται στην κατηγορία non diegetic. | [Lisence Url](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans#/media/File:Warcraft_Orcs_v_Humans_01.png) |wiki| Mορφές  | Adventure| |
 
 
 Normal Image | 160px Image
 --- | ---
 ![](https://raw.githubusercontent.com/DIATSIGK/hci/2018218/projects/2018218/warcraft.png) | ![](https://raw.githubusercontent.com/DIATSIGK/hci/2018218/projects/2018218/warcraft-thumb.png)
+
+
+| Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
+| :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
+| DIATSIGK      |The sims | [Link image 160 pixel](https://github.com/DIATSIGK/images/blob/267ce2c141dd899669430b3d3fe56a40e914877a/warcraft-thumb.png)| Παράδειγμα The sims,3D γραφικά που διακόπτουν την ροή της πληροφορίας και δίνουν πληροφορίες και χαρακτηριστικά μέσα στο περιβάλλον του παιχνιδιού. Παράδειγμα The sims. H κατάσταση που βρίσκεται ο παίκτης όταν χορεύει τότε έχει το αντίστοιχο εικονίδιο με την φιγούρα. Ta παιχνίδια αυτά εντάσσονται στην κατηγορία non spatial. | [Lisence Url](https://www.thesimswiki.com/wiki/The_Sims_4:_Get_Together) |wiki| Mορφές  | Adventure| |
+
+
+Normal Image | 160px Image
+--- | ---
+![](https://raw.githubusercontent.com/DIATSIGK/hci/2018218/projects/2018218/warcraft.png) | ![](https://raw.githubusercontent.com/DIATSIGK/hci/2018218/projects/2018218/warcraft-thumb.png)
+
 
 ###### [8]
 ## Άσκηση YouTube video player
