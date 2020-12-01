@@ -70,6 +70,10 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 Εφόσον εμφανίστηκε το νέο πεδίο, πρέπει να ορίσω τις τιμές που θα δέχεται, δηλαδή "Male" ή "Female".Ορίζω νέο label ως
 **gender** και στη συνέχεια με την εντολή **option** θέτω τις επιλογές που ζητούνται από την άσκηση.
   
+**Αποτέλεσμα:**
+
+![mouse-form](https://media.giphy.com/media/2SMAEgf2RAmnSK1siC/giphy.gif)
+  
 **Πηγές:** https://www.udemy.com/course/the-web-developer-bootcamp/
 
 ###### [5]
