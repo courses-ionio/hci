@@ -102,6 +102,10 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 ## Τροποποιήσεις:
 Προσέθεσα τα παρακάτω lines: x Validation< x (format: xxx-xxx):, <input id="x" type="x" pattern="x$" required, ανάλογα με τα ζητούμενα της άσκησης, άλλαξα παράγραφο στο button Submit και τέλος οργάνωσα σε διάταξη τα ζητούμενα όπως αναφέρονται στην εκφώνηση.
 
+**Αποτελέσματα:**
+
+![form-validation](https://media.giphy.com/media/WLrpMn87N6YlJQVsf1/giphy.gif)
+
 **Πηγές:** https://www.w3schools.com/tags/att_input_pattern.asp
 
 ###### [8]
