@@ -11,7 +11,7 @@
 | 5 | <li><a href="#Vim_editor."><span class="toctext">Vim_editor.</span></a> Commit:6/11/2020|
 | 6 | <li><a href="#Συμμετοχικό_Περιεχόμενο(Α1,Α2)."><span class="toctext">Συμμετοχικό_Περιεχόμενο(Α1,Α2).</span></a> Commit:20/11/2020|
  | 7 | <li><a href="#Image_Zoom."><span class="toctext">Image_Zoom.</span></a> Commit: 20/11/2020|
-| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
+  | 8 | <li><a href="#Solarized."><span class="toctext">Solarized.</span></a> Commit: 1/12/2020|
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -117,4 +117,17 @@ document.onkeydown = function(e) {<br>
  <h6>Βιβλιογραφία</h6> 
  <ul>  <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
   <br> <a href="https://codepen.io">Codepen.</a> </ul>
+  
+  <hr></hr>
+  
+  <h2><span id="Solarized.">Solarized.</span></h2>
+  <p> Για την υλοποίηση της συγκεκριμένης άσκησης γραμμής εντολών χρησιμοποίησα το text editor vim το οποίο είχα χρησιμοποιήσει και σε προηγούμενες ασκήσεις. Άλλαξα το configuration file του vim έτσι ώστε κάθε φορά που ανοίγω ένα αρχείο με το vim το background να είναι σκουρόχρωμο, όπως και τα χρώματα να είναι διαφορετικά, διότι το κάνει πιο ευανάγνωστο πόσο μάλλον όταν είναι ένα αρχείο με κώδικα.</p>
+  Άσκηση: <a href="https://asciinema.org/a/376522">Deliverable8:Solarized</a><br>
+  
+  <h6>Βιβλιογραφία</h6>
+  <ul><br><a href="https://github.com/altercation/solarized">Solarized repository</a><br>
+<a href="https://github.com/altercation/vim-colors-solarized">Vim colors solarized(altercation repository)</a><br>
+<a href="https://github.com/tpope/vim-pathogen">Vim pathogen(tpope repository)<br>
+ <a href="https://github.com/epidrome/dokey#hci">Λίστα με τις ασκήσεις γραμμής εντολών.</a><br>
+ <a href="https://asciinema.org">Asciinema</a></ul>
   
