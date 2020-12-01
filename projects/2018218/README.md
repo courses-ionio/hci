@@ -142,7 +142,7 @@ Link για asciinema: https://asciinema.org/a/zrY0aFKtNYKa3Q3wgaui9YRgM
 Link για asciinema: https://asciinema.org/a/T1TRrCaCnA8KFjEM0UJS36ajI
 
 ###### [6]
-## Άσκηση Συμμετοχικό περιεχόμενο
+## A1 Άσκηση Συμμετοχικό περιεχόμενο
 Ολη η διαδικασία επεξεργασίας των submodules έγιναν με εντολές git από to terminal σε λειτουργικό ubuntu.
 Οι εντολές που χρησιμοποιήθηκαν ήταν:
 
@@ -208,15 +208,16 @@ Normal Image | 160px Image
 --- | ---
 ![](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/the-sims.jpg) | ![](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/the-sims-thumb.jpg)
 
-## Άσκηση Timeline
+## A2 Άσκηση Timeline
 
 * [Link Timeline](https://inspiring-ride-de6440.netlify.app/timeline/videogames/) 
 
 Με την εξέταση του ρόλου των non-diegetic διεπαφών, η βιβλιογραφία [[1]] δείχνει ότι το παιχνίδι θα μπορούσε πραγματικά να βελτιωθεί με την αφαίρεση μερικών στοιχείων που παρουσιάζονται στην οθόνη. Αυτές τις πληροφορίες μπορούν αρχικά οι παίκτες να επεξεργάζονται σταδιακά μαθαίνοντας την μηχανική του παιχνιδιού και του ευρύτερου περιβάλλοντος. Για πιο έμπειρους παίκτες όμως η απόσπαση από το ρόλο τους είναι συχνή. Ο ρόλος  non-diegetic είναι ένας πολλά υποσχόμενος τομέας έρευνας παροχής πληροφοριών σε παίκτες με ένα τρόπο που αυξάνει τη συμμετοχή των παικτών σε όλη τη διάρκεια του παιχνιδιού.
-http://oro.open.ac.uk/46759/
+
 
 ###### [7]
 ## Άσκηση YouTube video player
+
 
 
 
