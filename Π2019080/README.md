@@ -10,7 +10,7 @@
 | 5 | [Άσκηση γραμμής εντολών](#Command-line) |
 | 6 | [Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο](#Mouse-Form) |
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
-| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
+| 8 | [Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)](#Mouse-Option) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -50,3 +50,6 @@
 # Παραδοτέο 6ο
 ### [Mouse Form](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)
 ![MouseForm](https://user-images.githubusercontent.com/72515787/100359304-06f84800-3000-11eb-86be-484b20bf01aa.gif)
+
+# Παραδοτέο 8ο
+### [Mouse Option](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-option.md)
