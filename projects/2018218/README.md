@@ -145,10 +145,13 @@ Link για asciinema: https://asciinema.org/a/T1TRrCaCnA8KFjEM0UJS36ajI
 ## Άσκηση Συμμετοχικό περιεχόμενο
 Ολη η διαδικασία επεξεργασίας των submodules έγιναν με εντολές git από to terminal σε λειτουργικό ubuntu.
 Οι εντολές που χρησιμοποιήθηκαν ήταν:
- 1) git clone < repository > --recursive  για να κατεβάσω το αρχείο στον φάκελο μου μαζί με submodules
+
+```sh
+ 1) git clone < repository > --recursive  
  2) git submodule sync --recursive
  3) git submodule update --remote --merge
  4) git push
+```
     
   - [Σύνδεσμος Εκτελέσιμου](https://inspiring-ride-de6440.netlify.app/)
   
@@ -209,7 +212,7 @@ Normal Image | 160px Image
 ###### [8]
 ## Άσκηση YouTube video player
 
-[Link βιβλιου](https://inspiring-ride-de6440.netlify.app/remix/youtube-video-player/)
-[Link CODEPEN](https://codepen.io/2018218/pen/OJRPvJG)
+* [Link βιβλιου](https://inspiring-ride-de6440.netlify.app/remix/youtube-video-player/) 
+* [Link CODEPEN](https://codepen.io/2018218/pen/OJRPvJG) - awesome web-based text editor
 Αρχικα επεξεργάστηκα τον κώδικα του παραδείγματος και κατάλαβα πως για να υπάρξει αλληλεπίδραση μεταξύ λειτουργιών χρήστη και video χρειάζεται η κατάλληλη βιβλιοθήκη την οποία και πρόσθεσα. 'Υστερα μέσω κλάσεων play-video κα pause-video τις o χρήστης μπορεί να παίξει το βιντεο αλλά και να το σταματήσει.
 
