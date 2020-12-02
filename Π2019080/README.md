@@ -60,7 +60,8 @@
 ![MenuPie](https://user-images.githubusercontent.com/72515787/100359178-e03a1180-2fff-11eb-87c3-38b0723a1064.gif)
 
 # Παραδοτέο 5ο
-### [Command line](https://asciinema.org/a/QrBPNjDfZPIzam9veDe81S9iJ)
+### [Command line]
+[![asciicast](https://asciinema.org/a/tA1Ap924v3d2w119ZgNQfHbQL.svg)](https://asciinema.org/a/tA1Ap924v3d2w119ZgNQfHbQL)
 
 # Παραδοτέο 6ο
 ### [Mouse Form](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)
