@@ -13,7 +13,7 @@ Forked pibook site repository: https://github.com/panosath/site<br>
 | 5 | [Άσκηση γραμμής εντολών: .vimrc Configuration](#άσκηση-γραμμής-εντολών-vimrc-configuration) |
 | 6 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο) |
 | 7 | [Άσκηση προγραμματισμού: Menu Scroll](#άσκηση-προγραμματισμού-menu-scroll) |
-| 8 | Άσκηση γραμμής εντολών |
+| 8 | [Άσκηση γραμμής εντολών: youtube-dl και mpv](#άσκηση-γραμμής-εντολών-youtube-dl-και-mpv) |
 | 9 | Άσκηση προγραμματισμού |
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | Συμμετοχικό περιεχόμενο |
@@ -53,3 +53,9 @@ Forked pibook site repository: https://github.com/panosath/site<br>
 <a href="https://panosath-pibook.netlify.app/remix/menu-scroll/" title="link to netlify pibook page">Η άσκηση στο βιβλίο του μαθήματος</a><br>
 Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/mdEZjPr" title="link to codepen">link στο codepen</a> της τρίτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/menu-scroll.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Εισήγαγα ένα ακόμη section και δημιούργησα καινούργιο entry στο menu στο επάνω μέρος της οθόνης, οπου ο χρήστης μπορεί να κλικάρει για να μεταφερθεί σε οποιοδήποτε section, οποιαδήποτε στιγμή. Τοποθέτησα επίσης και ενα μικρό κουμπί, του οποίου η λειτουργία είναι να μεταφέρει τον χρήστη με ενα κλικ στην αρχή της σελίδας. Παραμένει κρυφό και εμφανίζεται προς το τέλος της σελίδας. Για τον κώδικα του κουμπιού συμβουλεύτηκα την σελίδα w3schools.com.<br>
 <img src="https://raw.githubusercontent.com/panosath/hci-pic-repo/main/menuscroll.gif" width="500" height="300" />
+<hr>
+
+<h2>Άσκηση γραμμής εντολών: youtube-dl και mpv</h2>
+Παρατίθεται εδώ το <a href="https://asciinema.org/a/376774" title="link to asciinema">link</a> της τρίτης άσκησης γραμμής εντολών. Συνοπτικά παρουσιάζεται η λειτουργία λήψης βίντεο απο το youtube.com με τη χρήση του youtube-dl καθώς και παρουσιάζεται μια από τις εντολές ρύθμισης του ληφθέντος αρχείου. Πιο συγκεκριμένα, με την εντολη "youtube-dl (link)" γίνεται λήψη του βίντεο από το δοθέν link ενώ με την εντολή "youtube-dl -o 'desired-name' (link)" γίνεται λήψη αλλά και μετονομασία του ληφθέντος βίντεο σε ένα όνομα της προτίμησης του χρήστη. Στη συνέχεια γίνεται αναπαραγωγή των βίντεο που έχω κατεβάσει, αλλά το βίντεο αυτό καθ'αυτό δεν εμφανίζεται στο terminal οπότε δεν καταγράφεται από το asciinema. Παρόλα αυτά, είναι εμφανής η αναπαραγωγή των αρχείων στο terminal.
+<a href="https://asciinema.org/a/376774" target="_blank"><img src="https://asciinema.org/a/376774.svg"  width="400" height="300" /></a>
+<hr>
