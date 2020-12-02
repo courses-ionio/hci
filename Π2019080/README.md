@@ -39,11 +39,17 @@
 ![display system sw and hw](https://user-images.githubusercontent.com/72515787/100363826-f2b74980-3005-11eb-98f1-fc638b128915.gif)
 
 ### Εντολές που χρησιμοποιήθηκαν:
-**ls
-nano
-source
-PS1
-neofetch**
+
+**ls**
+
+**nano**
+
+**source**
+
+**PS1**
+
+**neofetch**
+
 
 ## Link στο asciinema με όλα τα παραπάνω βήματα μαζί: https://asciinema.org/a/snBdYsk3P6rDzphl5PNaUUkid
 
