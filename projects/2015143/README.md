@@ -154,16 +154,28 @@ Link για το codepen : https://codepen.io/2015143/pen/WNxBqeM
 
 ###### [11]
 ## Συμμετοχικό περιεχόμενο
+# B1 :
+
+Link για τη μελέτη περίπτωσης στο site : https://miltos9.netlify.app/case-study/apple-tv/
+
+Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_case-study/Apple-Tv.md
+### Πηγές :
+1: https://www.imore.com/1993s-macintosh-tv-worst-both-worlds
+
+2: http://wwwmnmteam.informatik.uni-muenchen.de/common/projects/ATV2CLUSTER/atvcluster.pdf
+
+3: https://en.wikipedia.org/wiki/Apple_TV
+
 # B2 : 
 
 Link για τη Βιογραφία στο site : https://miltos9.netlify.app/biography/steve-jobs/
 
 Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_biography/Steve-Jobs.md
 ### Πηγές : 
-1 : https://www.protothema.gr/technology/article/150554/h-istoria-ths-zohs-toy-steve-jobs-o-anthropos-kai-o-mythos/
+1 : https://www.youtube.com/watch?v=s1dR0ooLyDo&ab_channel=TheEntrepreneur
 
 2 : https://www.semifind.gr/news/view/Nea/1702/Steve-Jobs---egkateleipse-to-panepistimio-gia-na-htisei-mia-aytokratoria
 
 3 : https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B7%CE%B2_%CE%A4%CE%B6%CE%BF%CE%BC%CF%80%CF%82
 
-4 : https://www.youtube.com/watch?v=s1dR0ooLyDo&ab_channel=TheEntrepreneur
+4 : https://www.protothema.gr/technology/article/150554/h-istoria-ths-zohs-toy-steve-jobs-o-anthropos-kai-o-mythos/
