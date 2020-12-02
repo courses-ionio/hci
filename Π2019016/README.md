@@ -19,7 +19,7 @@
 Το αποτελεσμα βρισκεται εδω: https://5fa81c9f5f714100082fe3c8--vibrant-varahamihira-deff26.netlify.app/remix/mouse-eraser/
 # Command line
 Η άσκηση στόχευε στην εξοικιωση με το τερματικο του λειτουργικου συστηματος linux και ολο το λειτουργικο κατ επεκταση  
-https://asciinema.org/a/biu9GVYNN8d3Y3EfunpgBxnGL
+[![asciicast](https://asciinema.org/a/3VJWjeQCzKqiDe0BKxgmBypLf.svg)](https://asciinema.org/a/3VJWjeQCzKqiDe0BKxgmBypLf)
 # Css Circle Menu Excercise
 Μια ασκηση που βοηθησε στην εξοικειωση με την γλωσσα CSS χωρις ομως να πορουσιαζει καποια ιδιαιτερη δυσκολια
 Ο Κωδικας βρισκεται εδω: https://codepen.io/thomasth01/pen/pobVmVK \
