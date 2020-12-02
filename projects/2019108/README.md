@@ -20,7 +20,7 @@
 | 7 | [Άσκηση προγραμματισμού: Mouse Option](#7ο-παραδοτέο---mouse-option) |
 | 8 | [Άσκηση γραμμής εντολών: Check the Weather](#8ο-παραδοτέο---check-the-weather) |
 | 9 | [Άσκηση προγραμματισμού: Menu CSS](#9ο-παραδοτέο---menu-css) |
-| 10 | Άσκηση γραμμής εντολών |
+| 10 | [Άσκηση γραμμής εντολών: Organise the Terminal Window into Multiple Areas](#10o-παραδοτέο---organise-the-terminal-window-into-multiple-areas) |
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 | ー | [Έξτρα Ασκήσεις Terminal](#έξτρα-ασκήσεις-terminal) |
@@ -232,7 +232,6 @@ sudo, ls, nano, gedit, neofetch, lshw
 #### YoutubeDLSS.sh shell script: [YoutubeDLSS.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/YoutubeDLSS.sh)
 #### Μπορείτε επίσης να επισκεφτείτε την σελίδα με όλα τα shell scripts μου για περισσότερα: [KuhakuNekoLinuxShellScripts](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts)
 
-
 ### Εργαλεία που χρησιμοποίησα:
 ytp, youtube-dl, mpv, mps-youtube, sox, vlc
 
@@ -359,6 +358,8 @@ Nintendo Wii: Το Nintendo Wii είναι η πρώτη κονσόλα που �
 #### TermWeather.sh shell script: [TermWeather.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/TermWeather.sh)
 #### Μπορείτε επίσης να επισκεφτείτε την σελίδα με όλα τα shell scripts μου για περισσότερα: [KuhakuNekoLinuxShellScripts](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts)
 
+### Εργαλεία που χρησιμοποίησα:
+curl, wttr.in, inxi, finger
 
 ### Συνδέσμοι πηγών:
 [Weather from terminal - Ask Ubuntu](https://askubuntu.com/questions/390329/weather-from-terminal) |
@@ -412,6 +413,77 @@ Nintendo Wii: Το Nintendo Wii είναι η πρώτη κονσόλα που �
 [How TO - Menu Icon - w3Schools](https://www.w3schools.com/howto/howto_css_menu_icon.asp) |
 [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) |
 [Font Awesome Icons](https://fontawesome.com/icons?d=gallery)
+
+# 10o παραδοτέο - Organise the Terminal Window into Multiple Areas
+
+Η 4η εργασία γραμμής εντολών αφορά το multitasking και το monitoring του υπολογιστή. Συγκεκριμένα ζητάει μέσω terminal να έχουμε 2 παράθυρα ανοικτά σε ένα session και στο ένα να αναζητάμε στο web η να ψάξουμε και να ανοίξουμε δικά μας αρχεία, και στο άλλο να έχουμε ανοιχτό ένα monitoring software.
+
+#### Asciinema link Ver.1: [Παραδοτέο 10 Ver.1](https://asciinema.org/a/z9FSgxX2zqlcziNY2JT2NHtay)<br />
+#### Asciinema link Ver.2: [Παραδοτέο 10 Ver.2](https://asciinema.org/a/Ima2PzhgZvWp8AYVqwj2fao6s)
+
+Στην version 1 χρησιμοποίησα το εργαλείο tmux, ένα εργαλείο multitasking που σου επιτρέπει να έχεις πολλά παράθυρα εντός ενός terminal session. Για το άνοιγμα τον παραθύρων χρησιμοποιώ Shortcuts, τα οποία μετά από αρκετό ψάξιμο και λίγο editing κατάφερα να τα κάνω setup (περισσότερα σε παρακάτω παράγραφο). Φυσικά όλα μπορούνε να γίνουνε και με εντολές και μερικές φορές προτιμώ τις εντολές από τα shortcuts. Εδώ είναι τα βασικά Shortcut που χρησιμοποίησα: <br/>
+CTRL+A+C = new window <br/>
+CTRL+A+| = pane left <br/>
+CTRL+A+” = pane bottom <br/>
+CTRL+A+ARROW_KEY = move to another window with the arrow keys <br/>
+Επομένως άνοιξα 2 αντί για 3 παράθυρα γιατί χρησιμοποίησα και μια έξτρα εντολή η οποία είναι το “tmux clock” γενιά μου φαίνεται ωραίο και αισθητικά και για να μην ξεχνιέσαι πόση ώρα περάνει σερφάροντας και κάνοντας monitor τον υπολογιστή σου. <br/>
+
+Στο άλλο παράθυρο για monitoring χρησιμοποίησα το glances ένα απλό αλλά τίμιο software που σου προφέρει βασικές πληροφορίες για τον υπολογιστή. Βάζοντας αυτά στην άκρη στο βασικό παράθυρο ψάχνω αρχεία μου και ανοίγω σελίδες στο διαδίκτυο. Αυτό το κάνω με την χρήση του tool w3m το οποίο είναι ένας text-based web browser. Γράφοντας w3m και το link της σελίδας που θες να ανακατευθύνθεις το w3m σου προβάλει στο terminal μια text based version αυτής της σελίδας. Εγώ αποφάσισα να ψάξω κάποια άτομα στην Wikipedia. Και για ακόμα κάτι έξτρα έψαξα και τον καιρό με τα tools άλλης εργασίας. <br/>
+<br/>
+
+Στην 2η version χρησιμοποιώ το πρόγραμμα byobu αντί του tmux. Το byobu είναι σχεδόν το ίδιο με το tmux ωστόσο έχει κάποιες διαφορετικές δυνατότητες. Το γραφικό περιβάλλον γίνετε αρκετά καλύτερο, και η μπάρα στοιχείων κάνει πιο γρήγορα update και έχει περισσότερα στοιχεία, τα shortcuts είναι σχεδόν τα ίδια και δούλεψαν αμέσως χωρίς πρόβλημα. Άνοιξα τρία παράθυρα και ξαναχρησιμοποίησα το tmux clock. <br/>
+<br/>
+Για το monitoring χρησιμοποίησα πολλά διαφορετικά software. Πρώτα το top και το Htop. Το top είναι απλά μια πρωταρχική έκδοση του Htop κατά την άποψή μου το Htop προσφέρει ένα γραφικό περιβάλλον πιο κοντά σε αυτό του glances και σου δείχνει και την κατανάλωση ανά πυρήνα, αλλά και το uptime και το σύνολο των tasks. Όμως το tool που πιστεύω ξεχώρισε είναι το nmon το nmon σε αφήνει να επιλέξεις εσύ τι θέλεις να προβάλει, οπότε γράφοντας την εντολή “nmon” εγώ πάτησα C, M, D, N και – το τι κάνουν αυτά τα shortcut φαίνεται παρακάτω. <br/>
+
+<p align="center">
+<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%2010o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/NmonShortcuts.png" width="420px">
+</p>
+<br/>
+Τέλος για την αναζήτηση στο internet χρησιμοποίησα πάλι τον w3m.
+
+### Προβλήματα που χρειάστηκε να επιλυθούν μέχρι την εκτέλεση:
+Εγκαθιστώντας το tmux και κοιτώντας τις οδηγίες για την χρήση του από την σελίδα του developer παρατήρησα ότι τα Shortcut σε εμένα δεν λειτουργούσαν. Δοκίμασα να κάνω τα πάντα με εντολές αλλά αυτό ήταν κάπως δύσχρηστο και χρονοβόρο. Οποτε ψάχνοντας στο internet είδα ότι για κάποιο λόγο το config file του tmux δεν δημιουργήθηκε αυτόματα. <br/>
+<br/>
+Έτσι με εντολές όπως το mkdir έφτιαξα ένα νέο Config file στο σωστό path και βρήκα ένα Config παρόμοιο με αυτό που θα ήθελα να γράψω και πρόσθεσα και τροποποίησα κάποια values για να το φέρω στα μέτρα μου. <br/>
+<br/>
+Εκτός από τα shortcuts, τροποποίησα τα χρώματα, ενεργοποίησα την αλλαγή παραθύρων και άλλων ενεργειών με το ποντίκι αντί με το πληκτρολόγιο, και πρόσθεσα την δυνατότητα να κάνω resize τα παράθυρα. Σιγά σιγά έκανα και άλλα μικρά tweaks, το config file μου στο tmux είναι διαθέσιμο στο παρακάτω link. <br/>
+
+#### My Tmux config file: [MyTmux.conf](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/MyTmux.conf)
+#### My Tmux config file (Windows 95 Bios ver.): [MyTmuxWindows95BIOSColorTheme.conf](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/MyTmuxWindows95BIOSColorTheme.conf)
+#### Demo για τα config file μου: [Demo for My Tmux config files by KuhakuNeko](https://asciinema.org/a/ial2U20oFMhc2i3IFFupJ2Ipn)
+
+## Shell Scripting – FasterTMUX.sh & TKill.sh
+
+Σε αυτήν την εργασία δημιούργησα δυο shell script. <br/>
+<br/>
+Το πρώτο είναι το FasterTMUX το οποίο σου επιτρέπει το άνοιγμα έτοιμων session του tmux που κατασκευάζει το πρόγραμμα μου. Στην ουσία ο χρήστης επιλέγει ένα mode από αυτά που του προσφέρει το script και κατευθείαν το πρόγραμμα σου ανοίγει τα αντίστοιχα panes άλλη φορά 2, 4 ή και περισσότερα και άλλες φορές του ανοίγει και κάποιες έτοιμες διεργασίες σε κάποια παράθυρα για να μην χάνει χρόνο, όπως το tmux clock. <br/>
+<br/>
+Το δεύτερο είναι το Tkill το οποίο αποφάσισα να φτιάξω γιατί το tmux αρκετές φορές μου έκανε crashes ή freezes και ήθελα ένα απλό και γρήγορο τρόπο για να το σταματήσω. Ακόμη δεν υπάρχει λόγος να χάνω χρόνο σε shortcuts και να γράφω “exit” σε κάθε pane για να κλίσω τον tmux. Το TKill σου κλίνει όλα τα sessions και όλα τα panes 100%, και σου αναγράφει και πια processes πρόκειται να “σκοτώσει”.
+Ακόμη έχω ανεβάσει και το δικό μου config του tmux. <br/>
+
+#### FasterTMUX.sh & TKill.sh Demo: [Demo for FasterTMUX.sh & TKill.sh by KuhakuNeko](https://asciinema.org/a/tAmwKLyq0Lkvgs4qp2gYGU68o)
+#### FasterTMUX.sh shell script: [FasterTMUX.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/FasterTMUX.sh)
+#### TKill.sh shell script: [TKill.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/TKill.sh)
+#### Μπορείτε επίσης να επισκεφτείτε την σελίδα με όλα τα shell scripts μου για περισσότερα: [KuhakuNekoLinuxShellScripts](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts)
+
+### Εργαλεία που χρησιμοποίησα:
+Tmux, Byobu, glances, Nmon, Htop, Top, Tmux clock, Ls, Curl, Wttr.in, W3m
+
+### Συνδέσμοι πηγών:
+[Ctrl-b + c, %, n, w, etc not working in tmux console](https://askubuntu.com/questions/850055/ctrl-b-c-n-w-etc-not-working-in-tmux-console) |
+[tmux Ctrl+B not working](https://superuser.com/questions/266725/tmux-ctrlb-not-working/1171345) |
+[[SOLVED]tmux create new window don't work](https://bbs.archlinux.org/viewtopic.php?id=84863) |
+[tmux: making a conf file](http://www.deanbodenham.com/learn/tmux-conf-file.html) |
+[tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058) |
+[Τmuxcheatsheet.com](https://tmuxcheatsheet.com/) |
+[Βyobu.org](https://www.byobu.org/) |
+[w3m Terminal web browser - Linux (Tutorial)](https://www.youtube.com/watch?v=FSs1_WEjFmg) |
+[How to kill all tmux sessions (or at least multiple sessions) from the CLI?](https://askubuntu.com/questions/868186/how-to-kill-all-tmux-sessions-or-at-least-multiple-sessions-from-the-cli) |
+[Making tmux Pretty and Usable - A Guide to Customizing your tmux.conf](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/) |
+[top command in Linux with Examples - GeeksForGeeks](https://www.geeksforgeeks.org/top-command-in-linux-with-examples/) |
+[htop command in Linux with examples - GeeksForGeeks](https://www.geeksforgeeks.org/htop-command-in-linux-with-examples/) |
+[Nmon for Linux Homepage](http://nmon.sourceforge.net/pmwiki.php) |
+[256 COLORS - CHEAT SHEET](https://jonasjacek.github.io/colors/)
 
 # Έξτρα Ασκήσεις Terminal
 
