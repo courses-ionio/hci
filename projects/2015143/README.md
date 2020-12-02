@@ -68,7 +68,7 @@ Link για το codepen : https://codepen.io/2015143/pen/JjKLyXB
 
 ###### [6]
 ## Συμμετοχικό περιεχόμενο
-# A1 :
+# A1 : Δύο Εικόνες
 ## Εικόνα 1)
 
 Link για την εικόνα στο site : https://miltos9.netlify.app/gallery/iphone-12-pro-max/
@@ -86,7 +86,7 @@ Link για το αποθετήριο : https://github.com/Miltos9/_gallery/blob
 Με την ίδια λογική του πρώτου i-phone,Η Apple κυκλοφόρησε τα Airpods και κατάφερε να κάνει τεράστια αλλαγή στη βιομηχανία και πλέον ολα τα ακουστήκα τείνουν να γίνουν ασύρματα 
 ακολουθώντας το πρότυπο της Apple. 
 
-# A2 :
+# A2 : Διαφάνιες και Χρονολόγιο
 Link για τις διαφάνιες στο site : https://miltos9.netlify.app/slides/apple-evolution/
 
 Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_slides/apple-evolution.md
@@ -154,7 +154,7 @@ Link για το codepen : https://codepen.io/2015143/pen/WNxBqeM
 
 ###### [11]
 ## Συμμετοχικό περιεχόμενο
-# B1 :
+# B1 : Μελέτη Περίπτωσης
 
 Link για τη μελέτη περίπτωσης στο site : https://miltos9.netlify.app/case-study/apple-tv/
 
@@ -166,7 +166,7 @@ Link για το αποθετήριο : https://github.com/Miltos9/site/blob/mas
 
 3: https://en.wikipedia.org/wiki/Apple_TV
 
-# B2 : 
+# B2 : Βιογραφία
 
 Link για τη Βιογραφία στο site : https://miltos9.netlify.app/biography/steve-jobs/
 
