@@ -139,14 +139,14 @@ Link για το codepen : https://codepen.io/2015143/pen/WNxBqeM
 ###### [10]
 ## Άσκηση γραμμής εντολών : Add a status bar to your shell/editor and configure a color-theme.
 
-# 1)
+# 1) Status Bar
 [![asciicast](https://asciinema.org/a/374354.svg)](https://asciinema.org/a/374354)
 
 ## Περιεχόμενα του video :
 Σε αυτό το video αναπαριστάται η διαδικασία δημιουργίας ενός νέου status line στο vim editor.
 Αρχικά ανοίγω με τον nvim editor το αρχείο που έχω τα plug-in's μου και προσθέτω το plug-in (Plug 'itchyny/lightline.vim'). Έπειτα ,ανοίγω ένα .vim αρχείο και εφόσον βλέπω το PlugStatus των Plug-in's μου Κάνω PlugInstall το νέο powerline.Στη λίστα με τα Plug-in΄s φαίνεται αναλυτικά τι έχω ήδη εγκατεστημένο.Τέλος,παρατηρώ οτι εγκαταστάθηκε σωστά διότι εμφανίζεται στο κάτω μέρος του Terminal.
 
-# 2)
+# 2) Color-Theme
 [![asciicast](https://asciinema.org/a/374303.svg)](https://asciinema.org/a/374303)
 
 ## Περιεχόμενα του video :
