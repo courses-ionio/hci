@@ -18,7 +18,7 @@
 | 8 | <sup><a href="#8"> Άσκηση γραμμής εντολών: download mp3 </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση προγραμματισμού: image-filter </a></sup> |
 | 10 | <sup><a href="#10"> Άσκηση γραμμής εντολών: text editor and plug-ins for code highlighting and autocompletion </a></sup>|
-| 11 | Συμμετοχικό περιεχόμενο |
+| 11 | <sup><a href="#11"> Συμμετοχικό περιεχόμενο </a></sup> |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 <br/>
 
