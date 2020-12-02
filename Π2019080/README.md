@@ -52,7 +52,8 @@
 **Display system information (hardware+software):**
 ![display system sw and hw](https://user-images.githubusercontent.com/72515787/100363826-f2b74980-3005-11eb-98f1-fc638b128915.gif)
 
-## Link στο asciinema με όλα τα παραπάνω βήματα μαζί: https://asciinema.org/a/snBdYsk3P6rDzphl5PNaUUkid
+## Link στο asciinema με όλα τα παραπάνω βήματα μαζί:
+https://asciinema.org/a/snBdYsk3P6rDzphl5PNaUUkid
 
 # Παραδοτέο 4ο
 ### [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
