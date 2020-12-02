@@ -5,7 +5,7 @@
 | 2 |[Mouse eraser excersize](#Mouse-eraser-excercise)|
 | 3 |[Command line](#Command-line)|
 | 4 |[Css circle menu](#Css-Circle-Menu-Excercise) |
-| 5 |[Weather forecast](#Weather-forecast |
+| 5 |[Weather forecast](#Weather-forecast)|
 | 6 |[Form example](#Form-Example)|
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
