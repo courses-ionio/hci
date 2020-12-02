@@ -17,7 +17,7 @@
 | 7 | <sup><a href="#7"> Άσκηση προγραμματισμού: form-validation </a></sup> |
 | 8 | <sup><a href="#8"> Άσκηση γραμμής εντολών: download mp3 </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση προγραμματισμού: image-filter </a></sup> |
-| 10 | Άσκηση γραμμής εντολών |
+| 10 | <sup><a href="#10"> Άσκηση γραμμής εντολών: text editor and plug-ins for code highlighting and autocompletion </a></sup>|
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 <br/>
@@ -130,3 +130,13 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 ![image-filter](https://media.giphy.com/media/2bzxis20I6LdSC6shW/giphy.gif)
 
 **Πηγές:** Σχόλια κώδικα CSS αρχικού παραδείγματος
+
+###### [10]
+
+## Άσκηση γραμμής εντολών: text editor and plug-ins for code highlighting and autocompletion
+Link για το Asciinema: https://asciinema.org/a/376842
+
+## Βήματα:
+Εγκατέστησα το απαραίτητο πακέτο **vim** μέσω της εντολής **sudo apt install vim**. Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal. Αρχικά, προχώρησα στην εντολή **sudo vi /home/p2015121/config** για fetch του **config** αρχείου μου. Στην συνέχεια, πατώντας **Ι** μπήκα σε **editor mode** και δοκίμασα να προσθέσω κείμενο όπως φαίνεται και στο βίντεο. Πατώντας **Esc** μπήκα σε **normal mode**, όπου πληκτρολογώντας **:q!** εξήλθα από τον editor. Ολοκλήρωσα το asciicast με την εντολή **exit**.
+
+###### [11]
