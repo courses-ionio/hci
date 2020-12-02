@@ -40,15 +40,15 @@
 
 ### Εντολές που χρησιμοποιήθηκαν:
 
-**ls**
+* **ls**
 
 * **nano**
 
-1.**source**
+* **source**
 
-1**PS1**
+* *PS1**
 
-1.**neofetch**
+* **neofetch**
 
 
 ## Link στο asciinema με όλα τα παραπάνω βήματα μαζί: https://asciinema.org/a/snBdYsk3P6rDzphl5PNaUUkid
