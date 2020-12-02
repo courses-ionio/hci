@@ -221,6 +221,18 @@ sudo, ls, nano, gedit, neofetch, lshw
 <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%205o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/MPSSetApiKey.gif" width="450px">
 </p>
 
+## Shell Scripting – YoutubeDLSS.sh
+
+Ώσον αφορά το shell scripting για την συγκεκριμένη εργασία ασχολήθηκα αρκετά και έφτιαξα ένα πρόγραμμα το οποίο δημιουργεί κάποιο interface και επιτρέπει στον χρήστη να κατεβάσει, να ψάξει και να αναπαράγει μουσική και βίντεο χωρίς να χρειαστεί να γράψει καμία εντολή. <br/>
+Το πρόγραμμα σε αφήνει να κάνεις search μέσω του ytp ή να του δόσεις κατευθείαν link για download και σε ρωτάει αν θέλεις να κάνεις extract τον ήχο ή όχι.
+Ακόμη το script σου δίνει τη δυνατότητα να δεις τα αρχεία μουσικής και βίντεο του συγκεκριμένου directory. <br/>
+Επιπλέων το YoutubeDLSS script αξιοποιεί αρκετούς video και music players και σου δίνει την επιλογή να διαλέξεις με ποιων από αυτούς θες να κάνεις αναπαραγωγή ενός ή ακόμη και όλων των αρχείων δημιουργώντας έμμεσα μια δική σου playlist! <br/>
+
+#### YoutubeDLSS Demo: [Demo for YoutubeDLSS.sh by KuhakuNeko](https://asciinema.org/a/VlPMJ7XiUjUfVelGFS0s9JN3J)
+#### YoutubeDLSS.sh shell script: [YoutubeDLSS.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/YoutubeDLSS.sh)
+#### Μπορείτε επίσης να επισκεφτείτε την σελίδα με όλα τα shell scripts μου για περισσότερα: [KuhakuNekoLinuxShellScripts](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts)
+
+
 ### Εργαλεία που χρησιμοποίησα:
 ytp, youtube-dl, mpv, mps-youtube, sox, vlc
 
@@ -338,6 +350,15 @@ Nintendo Wii: Το Nintendo Wii είναι η πρώτη κονσόλα που �
 Μια παρατήρηση που είχα να κάνω με το inxi είναι ότι επειδή πριν κάνω το asciinema είχα χρησιμοποιήσει πάλι τις παραπάνω εντολές, όταν πήγα να κάνω καταγραφή το inxi αποφάσισε το εξής, και πέταγε το σφάλμα: <br/>
 "you have exceeded maximum limit for this source" <br/>
 όπου στην ουσία επειδή είχα χρησιμοποίηση αρκετές φορές το source του καιρού το inxi μου απαγόρευσε για περίπου 2 μέρες την χρήση του. Δυστυχώς ακόμη και μετά από πολύ ψάξιμο δεν βρέθηκε άμεση λύση στο πρόβλημα, οπότε το μόνο που μπορούσα να κάνω είναι να περιμένω. Αργότερα κατάφερα να το επαναφέρω και να κάνω χρήση του source ώστε να το καταγράψω.
+
+## Shell Scripting – TermWeather.sh
+Αυτήν την φορά έφτιαξα ένα shell script με το οποίο μπορείς να πάρεις εκτεταμένες μετεωρολογικές πληροφορίες από τις αγαπημένες σου περιοχές. <br/>
+Το shell script αυτό αξιοποιεί τα προγράμματα wttr.in, inxi και finger και έτσι μπορεί να δώσει πάρα πολλές πληροφορίες για τον καιρό σε πολύ λίγο χρόνο. Στο shell script έχω κατασκευάσει 2 πίνακες οι οποίοι περιέχουν τις τοποθεσίες από τις αγαπημένες περιοχές του χρήστη. Ο καθένας “πειράζοντας” λίγο τον πίνακα (μπορεί άνετα να βάλει και άλλες θέσεις χωρίς να χαλάσει το πρόγραμμα) μπορεί να δει μετεωρολογικά δεδομένα για μια από αυτές τις περιοχές, οι ακόμα και για όλες με την μια! <br/>
+
+#### TermWeather.sh Demo: [Demo for TermWeather.sh by KuhakuNeko](https://asciinema.org/a/2LLhbLynRi6GJV2aMkwHjtQ4P)
+#### TermWeather.sh shell script: [TermWeather.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/TermWeather.sh)
+#### Μπορείτε επίσης να επισκεφτείτε την σελίδα με όλα τα shell scripts μου για περισσότερα: [KuhakuNekoLinuxShellScripts](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts)
+
 
 ### Συνδέσμοι πηγών:
 [Weather from terminal - Ask Ubuntu](https://askubuntu.com/questions/390329/weather-from-terminal) |
