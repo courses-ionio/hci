@@ -5,7 +5,7 @@
 | 2 |[Mouse eraser excersize](#Mouse-eraser-excercise)|
 | 3 |[Command line](#Command-line)|
 | 4 |[Css circle menu](#Css-Circle-Menu-Excercise) |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 |[Weather forecast](#Weather-forecast |
 | 6 |[Form example](#Form-Example)|
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
@@ -24,6 +24,9 @@
 Μια ασκηση που βοηθησε στην εξοικειωση με την γλωσσα CSS χωρις ομως να πορουσιαζει καποια ιδιαιτερη δυσκολια
 Ο Κωδικας βρισκεται εδω: https://codepen.io/thomasth01/pen/pobVmVK \
 Το αποτελεσμα φαινεται εδω:https://5fa81c9f5f714100082fe3c8--vibrant-varahamihira-deff26.netlify.app/remix/menu-css/
+# Weather forecast
+Προγνωση καιρου:
+[![asciicast](https://asciinema.org/a/zdC1j1JZPFoMrF3zlJ1pkaVxh.svg)](https://asciinema.org/a/zdC1j1JZPFoMrF3zlJ1pkaVxh)
 # Form Example
 Ο κώδικας βρίσκεται εδώ: https://github.com/Thomasth01/site/blob/master/_remix/mouse-form.md \
 Το αποτελεσμα φαινεται εδω: https://vibrant-varahamihira-deff26.netlify.app/remix/mouse-form/
