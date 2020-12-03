@@ -40,7 +40,7 @@
 > Οι δυσκολίες που αντιμετώπισα ήταν κατα κύριο λόγο στην αλλαγή του command prompt.Παρόλο που άλλαζα το όνομα μέσα απο το bashrc και όχι με τον προσωρινό τρόπο, για κάποιο λόγο που εξακολουθώ να μήν γνωρίζω,στο τερματικό η αλλαγή δεν εμφανιζόταν.Όταν τελικά εμφανίστηκε και σιγουρεύτικα για την ορθότητα άρχισα και την καταγραφή της εργασίας μου στο asciinema.Αυτό όμως μου κόστισε σε χρόνο και παρόλο που έψαξα αρκετά πώς λειτουργεί η παράμετρος idle-time δεν κατάφερα να την συμπεριλάβω στο παραδοτέο μου.Επίσης χρησιμοποίησα το neofetch,για την προβολή των πληροφοριών του συστήματός μου.
 >
 > ![system_information1](https://user-images.githubusercontent.com/72353939/98706182-3879de00-2387-11eb-8cb0-5b1e1bfd64f2.png)
-> ### Πηγές:[[asciinema]((https://asciinema.org)]] [[idle-time](https://asciinema.org/docs/usage)] [nano text editor](https://www.nano-editor.org/)].
+> ### Πηγές:[[asciinema](https://asciinema.org)] [[idle-time](https://asciinema.org/docs/usage)] [[nano text editor](https://www.nano-editor.org/)].
 
 > ## [Mouse_form](https://github.com/Anastasia-Rizou/site/blob/master/_remix/mouse-form.md)
 
