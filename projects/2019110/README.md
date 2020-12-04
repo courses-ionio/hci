@@ -10,10 +10,10 @@
 | 4 |**[Mouse option](#Mouse-option)**|
 | 5 |**[Text editor and plug-ins for code highlighting and autocompletion](#text-editor-and-plug-ins-for-code-highlighting-and-autocompletion)**| 
 |   |**[Check the weather](#check-the-weather)**|
-| 6 |**[Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο)** |
-| 7 |**[Image processing](#image-processing)** |
+| 6 |**[Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο)**|
+| 7 |**[Image processing](#image-processing)**|
 | 8 |**[Download mp3](#Download-mp3)**|
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 9 |**[Image zoom](#Image-zoom)**|
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
@@ -56,6 +56,18 @@
 <img src="https://i.postimg.cc/nhCgjsdr/ezgif-com-gif-maker.gif" width=250>
  <p/>
 <br>
+
+### Image zoom
+
+Καταπληκτικός συνδυασμό της **Image processing** αποτελεί η **Image zoom**. Από την ονομασία της καταλαβαίνουμε ότι πρόκειται για έναν συνδυασμό της **HTML** και **CSS** που πραγματοποιεί μεγιστοποίηση(zoom in) στο κέντρο μιας εικόνας. Κληθήκαμε να προσθέσουμε την εικόνα και τα φίλτρα της **Image processing** στην συγκεκριμένη άσκσηση ώστε να προκύψει ένας συνδυασμός. Προσωπικά δεν κράτησα τελείως ατόφια τα φίλτρα κυρίως αύξησα την φωτεινότητα πριν το hover και την μείωσα κατά την διάρκεια του προσθέτοντας την εντολή `filter: brightness(%)` στο `body` και στο `.wrap`. Πρόσθεσα στο block κώδικα `html` εντολή για διαμόρφωση χρωμάτων ` background-image: repeating-radial-gradient(colour1, colour2 %,....,clour x %)` , αλλάζοντας και το μήκος-πλάτος της εικόνας ενώ η προσθήκη των φίλτρων που είχα στην προηγούμενη άσκηση τοποθετήθηκε στο ίδιο σημείο με το δεύτερο `brightness`. Ακόμη μια αλλαγή έγινε στο χρώμα του τίτλου πάνω από την εικόνα μέσω της `hmtl{color:}`. Προφανώς η επεξεργασία αυτή ήταν απλή χωρίς την απαίτηση εξειδικευμένων γνώσεων αλλά ταυτόχρονα ήταν πολύ ενδιαφέρον και προσφέρει ωραίο αποτέλεσμα ύστερα από έναν συνδυασμό εντολών. 
+* Σύνδεσμος για: [pibook](https://github.com/p19pasc/site/blob/master/_remix/image-zoom.md)
+* Σύνδεσμος για: [pibook(Netlify)](https://codingexercisesp2019110.netlify.app/remix/image-zoom/)
+* Σύνδεσμος για: [codepen](https://codepen.io/p19pasc/pen/JjRGxWq)<br>
+<p align="center">
+<img src="https://i.postimg.cc/6pnJN1Ys/imagezoom.gif">
+ <p/>
+<br>
+
 
 # Ασκήσεις γραμμής εντολών
 
