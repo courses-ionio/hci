@@ -34,6 +34,9 @@ Link για το site : https://miltos9.netlify.app/remix/mouse-form/
 Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_remix/mouse-form.md
 
 Link για το codepen : https://codepen.io/2015143/pen/eYzJVBv
+
+![Αποτέλεσμα](https://github.com/Miltos9/images/blob/master/1.png)
+
 ## Πως έγινε :
 Διάβασα και επεξεργάστηκα τον κώδικα του παραδείγματος μέρχρι να καταλάβω πως λειτουργεί κάθε κελί απο τα 3 που προϋπήρχαν.Ετσι με τον ίδιο τρόπο δημιούργησα και ενα τέταρτο κελί με ονομασία Gender και μονο 2 τιμές τa Male,Female.Το τοποθέτησα αμέσως μετα την κατάταξη HH/MM/XXXX και άλλαξα την ερώτηση ώστε ο χρήστης να ξερει οτι πρεπει να δηλώσει και GENDER.Τέλος "πήραξα" τα χρώματα αλλάζοντας τους κωδίκους για ενα καλύτερο αποτέλεσμα. 
 
@@ -52,6 +55,9 @@ Link για το site : https://miltos9.netlify.app/remix/form-validation/
 Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_remix/form-validation.md
 
 Link για το codepen : https://codepen.io/2015143/pen/JjKLyXB
+
+![Αποτέλεσμα](https://github.com/Miltos9/images/blob/master/2.png)
+
 ## Πως έγινε :
 Αρχικά με βάση το Demo της εργασίας ( https://www.sitepoint.com/client-side-form-validation-html5/ ) που προϋπήρχε,έκανα τροποποίηση το τηλέφωνο απο Νιγηριανού τ΄ύπου(xxxx-xxx-xxxx) σε ελληνικό(69-xxxxxxxx) και έφτιαξα το email σύμφωνα με τις οδηγίες του άρθρου.Έπειτα,έψαξα στο internet για tutorial code πάνω στα credit cards και με βάση την πηγή( 1 ) έφτιαξα το validation για credit cards αλλάζοντας κάποια πράγματα όπως το submit και το .css για την ενφάνιση,έτσι ώστε να μοιάζει με το phone-email που ειχα ήδη υλοποιήσει.Τέλος,έβαλα φώτογραφίες απο visa,american express,mastercard με την χρήση του https://postimages.org/ .
 
@@ -105,6 +111,9 @@ Link για το site : https://miltos9.netlify.app/remix/youtube-video-player/
 Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_remix/youtube-video-player.md
 
 Link για το codepen : https://codepen.io/2015143/pen/eYzazXJ
+
+![Αποτέλεσμα](https://github.com/Miltos9/images/blob/master/3.png)
+
 ## Πως έγινε :
 Άρχικα άλλαξα το βίντεο με το δικό μου αγαπημένο τραγούδι (πηγή 1), το ενσωμάτωσα στο πλαίσιο του κώδικα που προϋπήρχε και το μετακίνησα στα αριστερά της οθόνης για να βρίσκετε ομοιόμορφα πάνω απο τα κουμπιά (play & pause).Όσο αναφορά τα κουμπιά με την βοήθεια κάποιων youtube tutorials για την απεικόνισή τους αλλά και του stackoverflow (πηγή 2) για την πλήρη λειτουργία τους,κατάφερα να τα συγχρονίσω με το video και να επιτύχω ακριβώς το ζητούμενο της άσκησης.
  ### Πηγές : 
@@ -133,6 +142,9 @@ Link για το site : https://miltos9.netlify.app/remix/interactive-text/
 Link για το αποθετήριο : https://github.com/Miltos9/site/blob/master/_remix/interactive-text.md
 
 Link για το codepen : https://codepen.io/2015143/pen/WNxBqeM
+
+![Αποτέλεσμα](https://github.com/Miltos9/images/blob/master/4.png)
+
 ## Πως έγινε :
 Σε αυτή την άσκηση προγραμματισμού δεν χρησιμοποίησα κάποια εξωτερική πηγή,αντίθετα διάβασα προσεχτικά τον κώδικα και αρχικά έσβησα ολα τα επιπλέον Texts εκτός απο αυτό που ήθελα να χρησιμοποίησω.Στη συνέχεια,άλλαξα το κείμενο σε "Ο ΗΛΙΟΣ ΕΙΝΑΙ ΑΣΤΕΡΑΣ" για να κολλάει με το interactive του text που είναι περιστρεφόμενες ακτίνες ηλίου.Προσάρμοσα τη θέση του κείμενου ώστε οι ακτίνες που ενφανίζονται όταν ο χρήστης πάει τον κέρσορα πάνω στο κείμενο να είναι ακριβώς πίσω απο το κείμενο.Τέλος,άλλαξα το χρώμα πίσω απο το background σε μαύρο απο άσπρο για να μην κάνει αντίθεση με το background που έχει σκουρόχρωμους τόνους.
 
