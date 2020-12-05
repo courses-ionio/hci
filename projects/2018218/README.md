@@ -219,7 +219,7 @@ Normal Image | 160px Image
 ## Άσκηση YouTube video player
 
 * [Link βιβλιου](https://inspiring-ride-de6440.netlify.app/remix/youtube-video-player/) 
-* [Link CODEPEN](https://codepen.io/2018218/pen/OJRPvJG) - awesome web-based text editor
+* [Link CODEPEN](https://codepen.io/2018218/pen/OJRPvJG) 
 Αρχικα επεξεργάστηκα τον κώδικα του παραδείγματος και κατάλαβα πως για να υπάρξει αλληλεπίδραση μεταξύ λειτουργιών χρήστη 
 και video χρειάζεται η κατάλληλη βιβλιοθήκη την οποία και πρόσθεσα. 'Υστερα μέσω κλάσεων play-video κα pause-video o χρήστης
 μπορεί να παίξει το βιντεο αλλά και να το σταματήσει.
@@ -227,7 +227,18 @@ Normal Image | 160px Image
 
 
 ###### [8]
-## Άσκηση search, download and play (with the terminal) your favorite song of the month from youtube\
+## Άσκηση search, download and play (with the terminal) your favorite song of the month from youtube.
+
+* Search & download
+H αναζήτηση τραγουδιού στο YouTube έγινε μέσω του εργαλείου ytp. Δημιούργησa ένα bush αρχείο το οποίο και εκτελώ. Mε την εντολή x γίνεται η αναζήτηση του τραγουδιού. 
+Το εργαλείο ytp επίσης προφέρει την λειτουργία αντιγραφής του url του αντίστοιχου τραγουδιού από το youtube με το γράμμα "y". 
+Στην συνέχεια με την εντολή youtube-dl --extract-audio --audio-format mp3 <link> έγινε η αποθήκευση του αρχείου σε mp3 μορφή.
+* [Link ΑSCIINEMA](https://asciinema.org/a/DNUSQFk3HIzh2h4mrIH54plqE)
+
+* Play
+ Με την εντολή “mpv” και ακριβώς από δίπλα το όνομα του τραγουδιού έγινε η αναπαραγωγή του τραγουδιού.
+* [Link ΑSCIINEMA](https://asciinema.org/a/Mz6wg0eljhTlymiGxtaQYkcWI)
+
 ```sh
 sudo apt-get install python3-pip
 sudo pip3 install mps-youtube
