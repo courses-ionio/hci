@@ -2,7 +2,7 @@
 >
 >### **Π2019156**
 > 
->[[https://github.com/Anastasia-Rizou/site]]
+> [Anastasia-Rizou](https://github.com/Anastasia-Rizou/site)
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
