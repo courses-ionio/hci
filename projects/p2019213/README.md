@@ -421,5 +421,190 @@ function OFF() {
 
 #### [Άσκηση προγραμματισμού 4 (Youtube Video Player) codepen.io](https://codepen.io/dhmosfunk/pen/QWKNpqj)
 
+<br>
+
+Σε αυτό το παραδοτέο επέλεξα την άσκηση προγραμματισμού (Youtube Video Player) που θα πρέπει να δημιουργήσουμε δικό μας σύστημα αναπαραγωγής με κουμπιά Start(Εκκίνηση) και pause(Διακοπη) τα οποία να εκτελούν τις αντίστοιχες λειτουργίες στο υπάρχον βίντεο
+
+Επίσης εγώ πρόσθεσα άλλο ένα κουμπί το Reset(Επαναφορά).
+
+Λοιπόν πηγαίνοντας στο link της άσκησης θα δούμε τα 3 κουμπιά που είναι οι επιλογές μας.
+Υπάρχει στο codepen ένα bug που στο πρώτο click στο Play δεν θα ξεκινάει αλλα αν πατήσουμε play απο το youtube play button και μετά χρησιμοποιήσουμε τα 3 κουμπιά μας θα δουλέψουν άψογα..
+
+
+Για να βάλω αυτά τα κουμπιά να δουλέψουν πρώτα  έπρεπε να βάλω αυτό το  κομμάτι κώδικα σε HTML  
+
+```html
+<center><div class="buttons">
+		<button class="button" id="play-button">PLAY(Εκκίνηση)</button>
+		<button class="button" id="pause-button">PAUSE(Διακοπή)</button>
+		<button class="button" id="stop-button">RESET(Επαναφορά)</button>
+  </div></center>
+```
+
+Και επίσης το κομμάτι του iframe που εκεί μπαίνει το URL του video
+
+```html
+<iframe id="video" src="https://www.youtube.com/embed/yQkXSa61YAA?enablejsapi=1&html5=1" frameborder="0" allowfullscreen></iframe>
+```
+
+Που μετά απο το URL του video πρέπει να προσθέσουμε και το `?enablejsapi=1` για να κάνουμε enable το API για την λειτουργία των κουμπιών.
+
+Μετά έχουμε τον CSS κώδικα
+```css
+.buttons{
+  margin:15px;
+}
+
+.buttons:after {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(238, 238, 238, 0);
+	border-top-color: #eee;
+	border-width: 10px;
+	margin-left: -10px;
+}
+.button {
+	padding: 10px 20px;
+	font-weight: bold;
+	letter-spacing: 5px;
+	outline: none;
+	cursor: pointer;
+	color: white;
+	background-color: #7F8C8D;
+	border: none;
+	border-radius: 4px;
+}
+#play-button {
+	background-color: GREEN;
+}
+#play-button:hover {
+	background-color: #27AE60;
+}
+#pause-button {
+	background-color: #E67E22;
+}
+#pause-button:hover {
+	background-color: #D35400;
+}
+#stop-button {
+	background-color: RED;
+}
+#stop-button:hover {
+	background-color: #C0392B;
+}
+#pause-button,
+#stop-button {
+	margin-left: 15px;
+}
+iframe {
+	margin: 0 auto;
+	width: 560px;
+	height: 315px;
+	float: center;
+	clear: both;
+	display: block;
+	background-color: #eee;
+}
+```
+
+Και τέλος έχουμε τον κώδικα javascript που είναι όλη η λειτουργία των buttons.
+
+```javascript
+var player;
+
+function onYouTubePlayerAPIReady() {
+    // create the global player from the specific iframe (#video)
+    player = new YT.Player('video', {
+        events: {
+            
+            'onReady': onPlayerReady
+        }
+    });
+}
+
+function onPlayerReady(event) {
+
+    var playButton = document.getElementById("play-button");
+    playButton.addEventListener("click", function() {
+        player.playVideo();
+    });
+
+    var pauseButton = document.getElementById("pause-button");
+    pauseButton.addEventListener("click", function() {
+        player.pauseVideo();
+    });
+
+    var stopButton = document.getElementById("stop-button");
+    stopButton.addEventListener("click", function() {
+        player.stopVideo();
+    });
+
+}
+
+var tag = document.createElement('script');
+tag.src ="https://www.youtube.com/player_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+```
+
+### Επεξήγηση κώδικα 
+
+```javascript
+var player;
+```
+Ορίζουμε μια καθολική μεταβλητή για τον player μας, δηλαδή για όλες τις λειτουργίες.
+
+```javascript
+function onYouTubePlayerAPIReady() {
+  
+    player = new YT.Player('video', {
+        events: {
+            'onReady': onPlayerReady
+        }
+    });
+}
+```
+
+Αυτή η συνάρτηση ετοιμάζει το API για χρήση. Επίσης φτιάχνει ένα καθολικό player για συγκεκριμένο iframe(#video).
+
+```javascript
+function onPlayerReady(event) {
+
+    var playButton = document.getElementById("play-button");
+    playButton.addEventListener("click", function() {
+        player.playVideo();
+    });
+
+    var pauseButton = document.getElementById("pause-button");
+    pauseButton.addEventListener("click", function() {
+        player.pauseVideo();
+    });
+
+    var stopButton = document.getElementById("stop-button");
+    stopButton.addEventListener("click", function() {
+        player.stopVideo();
+    });
+}
+```
+
+Μετά έχουμε την λειτουργία όλων των  buttons δηλαδή το START,PAUSE,RESET.
+
+```javascript
+var tag = document.createElement('script');
+tag.src ="https://www.youtube.com/player_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+```
+
+Και τέλος κάνουμε inject το youtube API script.
+
+
+
 #### :arrow_double_up:: [Επιστροφή στον πίνακα.](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#-%CF%80%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82-%CE%BC%CE%B5-%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7-%CF%84%CF%89%CE%BD-%CF%80%CF%81%CE%BF%CE%B8%CE%B5%CF%83%CE%BC%CE%B9%CF%8E%CE%BD-%CE%BA%CE%B1%CE%B9-%CF%84%CF%89%CE%BD-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CF%89%CE%BD)
 <br>
