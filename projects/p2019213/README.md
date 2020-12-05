@@ -360,7 +360,7 @@ source ~/.bashrc
 
 <h2>   :book:: Παραδοτέο 7</a></h2>
 
-### [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 3 (Switch)](https://p19tzam.netlify.app/remix/switch/)
+### :pushpin:: [ΆΣΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΎ 3 (Switch)](https://p19tzam.netlify.app/remix/switch/)
 
 #### [Άσκηση προγραμματισμού 3 (Switch) codepen.io](https://codepen.io/dhmosfunk/pen/ZEpzGpB)
 
