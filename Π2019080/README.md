@@ -73,4 +73,5 @@
 ![MouseForm](https://user-images.githubusercontent.com/72515787/100359304-06f84800-3000-11eb-86be-484b20bf01aa.gif)
 
 # Παραδοτέο 8ο
+Σε αυτο το σημειο η χρήση της html γίνεται πιο εκτενής και για να επιλυθεί η άσκηση πρέπει να γινεί εισαγωγή δεδομένων απο διαφορετικά μέσα
 ### [Mouse Option](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-option.md)
