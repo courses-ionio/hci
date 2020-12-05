@@ -42,6 +42,8 @@
 
 ## Άσκηση Προγραμμάτισμου Youtube video player
 
+Link για το netlify: (https://p19ntar.netlify.app/remix/youtube-video-player/)
+
 Link αποθετηρίου άσκησης: (https://github.com/p19ntar/site/blob/master/_remix/youtube-video-player.md)
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="2019215" data-slug-hash="ExyrOmm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="YouTube video player">
   <span>Η άσκηση <a href="https://codepen.io/2019215/pen/ExyrOmm">
@@ -73,6 +75,8 @@ Link για το asciinema: (https://asciinema.org/a/369713)
 <br/>
 
 ## Άσκηση Προγραμματισμού Image Processing
+
+Link για το netlify: (https://p19ntar.netlify.app/remix/image-filter/)
 
 Link αποθετηρίου άσκησης: (https://github.com/p19ntar/site/blob/master/_remix/image-filter.md)
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="2019215" data-slug-hash="GRqdvwR" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Image processing">
@@ -127,6 +131,8 @@ Link αποθετηρίου άσκησης: (https://asciinema.org/a/371363)
 <br/>
 
 ## Άσκηση Προγραμματισμού Form Validation
+
+Link για το netlify: (https://p19ntar.netlify.app/remix/form-validation/)
 
 Link αποθετηρίου άσκησης: (https://github.com/p19ntar/site/blob/master/_remix/form-validation.md)
 
