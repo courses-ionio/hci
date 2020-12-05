@@ -31,7 +31,7 @@
 | 5 | [Άσκηση γραμμής εντολών(Powerline statusbar&color scheme/theme)](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5) |
 | 6 | συμμετοχικό περιεχόμενο |
 | 7 | [Άσκηση προγραμματισμού(Switch)](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7) |
-| 8 | Άσκηση γραμμής εντολών |
+| 8 | [Άσκηση γραμμής εντολών(search, download and play (with the terminal) your favorite song of the month from youtube)](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-8) |
 | 9 | Άσκηση προγραμματισμού |
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | συμμετοχικό περιεχόμενο |
@@ -396,4 +396,18 @@ function OFF() {
 <br>
 
 Εδώ αυτός ο html κώδικας λέει ότι αν πατηθεί το button που λέει ON τότε να καλέσει την συνάρτηση ΟΝ και το ίδιο για το OFF.
+#### :arrow_double_up:: [Επιστροφή στον πίνακα.](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#-%CF%80%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82-%CE%BC%CE%B5-%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7-%CF%84%CF%89%CE%BD-%CF%80%CF%81%CE%BF%CE%B8%CE%B5%CF%83%CE%BC%CE%B9%CF%8E%CE%BD-%CE%BA%CE%B1%CE%B9-%CF%84%CF%89%CE%BD-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CF%89%CE%BD)
+
+
+<h2>   :book:: Παραδοτέο 8</a></h2>
+
+### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 3 (search, download and play (with the terminal) your favorite song of the month from youtube).
+
+
+
+
+
+
+
+
 #### :arrow_double_up:: [Επιστροφή στον πίνακα.](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#-%CF%80%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82-%CE%BC%CE%B5-%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7-%CF%84%CF%89%CE%BD-%CF%80%CF%81%CE%BF%CE%B8%CE%B5%CF%83%CE%BC%CE%B9%CF%8E%CE%BD-%CE%BA%CE%B1%CE%B9-%CF%84%CF%89%CE%BD-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CF%89%CE%BD)
