@@ -7,13 +7,13 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Syllabus](#Syllabus) |
-| 2 |[Mouse option ](#Mouse_option) |
-| 3 | [warmup](#topic-warmup) |
-| 4 | [Mouse form ](#Mouse_form) |
-| 5 |[hci](#hci-vim)   |
+| 2 |[Mouse option ](#Mouse option) |
+| 3 | [warmup](#topic warmup) |
+| 4 | [Mouse form ](#Mouse form) |
+| 5 |[hci](#hci vim)   |
 | 6 |[Archetypes](#Archetypes)|
-| 7 |[Menu scroll](#menu-scroll)|
-| 8 |[YouTube video player(#YouTube_video_player) |
+| 7 |[Menu scroll](#menu scroll)|
+| 8 |[YouTube video player](#YouTube video player) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -25,14 +25,14 @@
 > Σκοπός του μαθήματος είναι η σχεδίαση και η ανάπτυξη της διάδρασης.Απαραίτητο,αφού με τη ραγδαία και συνεχής ανάπτυξη της τεχνολογίας,οδηγούμαστε στην ανάγκη να υπάρχουν,σχεδιάζονται εύχρηστες εφαρμογές που θα εξυπηρετούν τις εκάστοτε ανάγκες κάθε χρήστη.Ο δικός μου στόχος(σκοπός)είναι να μπορέσω να ανταποκριθώ στις απαιτήσεις του μαθήματος αλλά και στο τέλος του εξαμήνου να είμαι σε θέση να κατανοώ και να αναγνωρίζω τεχνικές και μεθόδους για την καλύτερη αλληλεπίδραση μεταξύ του ανθρώπου και του υπολογιστή.Μέσα από μελέτη,συστηματική παρακολούθηση τόσο των θεωρητικών διαλέξεων όσο και τών εργαστηριακών,καθώς και την αποστολή αλλά και με βελτιώσεις των εβδομαδιαίων παραδοτέων μου,πιστεύω ότι τελικά θα καταφέρω να φτάσω στο στόχο μου.Πολλές έννοιες,απο την πρώτη κι'όλας διάλεξη,μου ήταν άγνωστες(π.χ markdown κώδικα)αλλά και μέσα από τη βιβλιογραφία που παρέχει το μάθημα,με τις οδηγίες του διδάσκοντα και με την βιβλιογραφία που υπάχει στο διαδίκτυο,θα προσπαθήσω να καλύψω κενά που ενδεχομένως θα παρουσιαστούν κατα τη διάρκεια του εξαμήνου.Το μάθημα είναι ιδιαίτερα σημαντικό για μένα και πολύ ενδιαφέρων για το λόγο ότι η επιλογή κατεύθυνσής μου θα είναι Ανθρωπιστικές και Κοινωνικές Επιστήμες,επομένως ενδιαφέρομαι να μάθω,να κατανοήσω και να αφομοιώσω όσων των δυνατών περισσότερα απο το μάθημα.'Αλλο ένα πλεονέκτημα του μαθήματος είναι ότι στο τέλος θα έχω διαμορφώσει το περιβάλλον εργασίας μου έτσι όπως ταιριάζει καλύτερα σε μένα.Νομίζω άλλωστε,αυτό είναι και το νόημα της διάδρασης. 
 > ### Πηγές:[[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)] [[github](https://github.com/)]
 
-> ## [Mouse_option](https://github.com/Anastasia-Rizou/site/blob/master/_remix/mouse-option.md)
+> ## [Mouse option](https://github.com/Anastasia-Rizou/site/blob/master/_remix/mouse-option.md)
 > ![Στιγμιότυπο από 2020-11-11 21-49-58](https://user-images.githubusercontent.com/72353939/98857747-2885fb00-2468-11eb-9ed6-6e679be5dfa4.png)
 >
 > Η [άσκηση προγραμματισμού](https://pibook.epidro.me/remix/) έχει ώς θέμα έναν διαδραστικό κώδικα,όπου ο χρήστης χρησιμοποιώντας το ποντίκι αλλάζει δυναμικά το περιεχόμενο που εμφανίζεται στη σελίδα,με χρήση της Javascript βιβλιοθήκης AngularJS.Το ζητούμενο ήταν να τροποποιήσουμε το παράδειγμα δημιουργώντας περισσότερες επιλογές στη φόρμα περιεχομένων,για παράδειγμα να δοκιμάσουμε να φέρουμε δυναμικά στη σελίδα διαφορετικό περιεχόμενο απο το ήδη υπάρχον,όπως π.χ. εικόνες.Το πρώτο που προσπάθησα να κάνω,ήταν να διαβάσω και να καταλάβω πώς δουλεύει ο κώδικας html κάνοντας χρήση της AngularJS.Για το λόγω αυτό διάβασα ορισμένα tutorials. Ομολογώ πως η AngularJS μου ήταν τελείως άγνωστη,όμως γνωρίζοντάς την πιστεύω ότι είναι σχετικά μια εύκολη βιβλιοθήκη,αλλά και πολύ χρήσιμη,για την σχεδίαση μιάς σελίδας.Αυτό το οποίο πραγματικά με δυσκόλεψε στην 1η άσκηση προγραμματισμού ήταν ότι έπρεπε να γράψω κώδικα σε μιά γλώσσα με την οποία δεν είχα καμία εμπειρία και να χρησιμοποιήσω το [codepen.io](https://codepen.io) το οποίο μου ήταν άγνωστο.Επίσης προβληματίστικα λίγο με τα υπάρχοντα περιεχόμενα που ήταν κείμενα,η γλώσσα των οποίων ήταν λατινικά.Ήταν μια πρόκληση.Στο παραδοτέο μου έχω προσθέσει ακόμα 3 επιλογές για το χρήστη,την επιλογή να εμφανίζεται δυναμικά στη σελίδα μία εικόνα (logo) της AngularJS,ένα σύνδεσμο (link) σε ένα tutorial της AngulaJS και ένα σύνδεσμο (link) για κατέβασμα της βιβλιοθήκης.Το γεγονός ότι δεν ήξερα σε τί αναφέρονταν τα πρόηγούμενα κείμενα (επιλογές) δυσκόλεψε πάρα πολύ την επιλογή μου.Επίσης για καλύτερο οπτικό αποτέλεσμα,κατά την σχεδίαση και τροποποίηση του κώδικα πρόσθεσα και την AngularJS.  
 > Το url για την άσκσηση στο CodePen :[Mouse option](https://codepen.io/p2019156/pen/pobyWKb)
 > ### Πηγές:[[w3schools.com](https://www.w3schools.com/)] [[HTML](https://www.w3schools.com/html/)][[AngularJS](https://www.w3schools.com/angular/)]
 
-> ## [topic-warmup](https://asciinema.org/a/ccRF2NdmRr6kJB1WSOu34CMcX)
+> ## [topic warmup](https://asciinema.org/a/ccRF2NdmRr6kJB1WSOu34CMcX)
 > Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) που επέλεξα είναι απο το σέτ ασκήσεων warmup,η οποία ζητάει να αλλάξουμε το όνομα στο command prompt με τον Αριθμό Μητρώου μας.Στη συνέχεια να φτιάξουμε μια λίστα με τα dot αρχεία μας και να επεξεργαστούμε το shell configuration και να προβάλουμε τις πληροφορίες του συστήματος μας.Για την καταγραφή τών παραπάνω χρησιμοποίησα το asciinema και για τν επεξεργασία του shell configuration χρησιμοποίησα το nano text editor.
 >
 > ![Στιγμιότυπο από 2020-11-11 21-59-55](https://user-images.githubusercontent.com/72353939/98862295-53c01880-246f-11eb-93af-dd70007d0d9d.png)
@@ -50,14 +50,14 @@
 > Το url για την άσκσηση στο CodePen :[Mouse form](https://codepen.io/p2019156/pen/XWKZNYm)
 > ### Πηγές:[ [HTML](https://www.w3schools.com/html/)].
 
-> ## [hci-vim](https://asciinema.org/a/xqek3iWrWjr8nXDr9CmLl1bAf)
+> ## [hci vim](https://asciinema.org/a/xqek3iWrWjr8nXDr9CmLl1bAf)
 
 > ## [Archetypes](https://pibook.epidro.me/chapter/archetypes/)
 > [archetypes.md](https://github.com/Anastasia-Rizou/site/blob/master/_slides/archetypes.md)
 >
 > [timeline](https://github.com/Anastasia-Rizou/site/blob/master/_timeline/collaboration.md)
 
-> ## [menu-scroll](https://github.com/Anastasia-Rizou/site/blob/master/_remix/menu-scroll.md)
+> ## [menu scroll](https://github.com/Anastasia-Rizou/site/blob/master/_remix/menu-scroll.md)
 >
 > ![Στιγμιότυπο από 2020-11-21 17-26-58](https://user-images.githubusercontent.com/72353939/99881019-cd01fd00-2c1f-11eb-999a-b7ed1a9ad315.png)
 >
@@ -65,7 +65,7 @@
 > Το url για την άσκσηση στο CodePen : [Menu scroll](https://codepen.io/p2019156/pen/eYzVdax)
 > ### Πηγές:[[Βootstrap](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)]
 
-> ## [You_Tube_video_player](https://github.com/Anastasia-Rizou/site/blob/master/_remix/youtube-video-player.md)
+> ## [You Tube video player](https://github.com/Anastasia-Rizou/site/blob/master/_remix/youtube-video-player.md)
 >
 > ![Στιγμιότυπο από 2020-12-05 20-26-25](https://user-images.githubusercontent.com/72353939/101260408-56ddba00-3738-11eb-9040-eeb672755fb6.png)
 >
