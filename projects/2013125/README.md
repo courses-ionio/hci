@@ -120,5 +120,7 @@
 
 ## Παραδοτέο 9
 ## Άσκηση Προγραμματισμού
-##
+## Media queries example
+[Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/master/_remix/css-queries.md)
 
+## Αλλαγές στην άσκηση προγραμματισμού
