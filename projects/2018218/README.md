@@ -221,36 +221,35 @@ Normal Image | 160px Image
 * [Link βιβλιου](https://inspiring-ride-de6440.netlify.app/remix/youtube-video-player/) 
 * [Link CODEPEN](https://codepen.io/2018218/pen/OJRPvJG) 
 Αρχικα επεξεργάστηκα τον κώδικα του παραδείγματος και κατάλαβα πως για να υπάρξει αλληλεπίδραση μεταξύ λειτουργιών χρήστη 
-και video χρειάζεται η κατάλληλη βιβλιοθήκη την οποία και πρόσθεσα. 'Υστερα μέσω κλάσεων play-video κα pause-video o χρήστης
+και video χρειάζεται η κατάλληλη βιβλιοθήκη την οποία και πρόσθεσα. 
+'Υστερα μέσω κλάσεων play-video κα pause-video o χρήστης
 μπορεί να παίξει το βιντεο αλλά και να το σταματήσει.
 
 
 
 ###### [8]
-## Άσκηση search, download and play (with the terminal) your favorite song of the month from youtube.
+### Άσκηση: search, download and play (with the terminal) your favorite song of the month from youtube.
 
-* Search & download
+## Search & download <br>
 H αναζήτηση τραγουδιού στο YouTube έγινε μέσω του εργαλείου ytp. Δημιούργησa ένα bush αρχείο το οποίο και εκτελώ. Mε την εντολή x γίνεται η αναζήτηση του τραγουδιού. 
 Το εργαλείο ytp επίσης προφέρει την λειτουργία αντιγραφής του url του αντίστοιχου τραγουδιού από το youtube με το γράμμα "y". 
 Στην συνέχεια με την εντολή youtube-dl --extract-audio --audio-format mp3 <link> έγινε η αποθήκευση του αρχείου σε mp3 μορφή.
 * [Link ΑSCIINEMA](https://asciinema.org/a/DNUSQFk3HIzh2h4mrIH54plqE)
 
-* Play
- Με την εντολή “mpv” και ακριβώς από δίπλα το όνομα του τραγουδιού έγινε η αναπαραγωγή του τραγουδιού.
+## Play <br>
+Με την εντολή “mpv” και ακριβώς από δίπλα το όνομα του τραγουδιού έγινε η αναπαραγωγή του τραγουδιού.
 * [Link ΑSCIINEMA](https://asciinema.org/a/Mz6wg0eljhTlymiGxtaQYkcWI)
 
+## Προβλήματα
+Kατα την εντολή αποθήκευσης του τραγουδιού το youtube δεν με άφηνε να προχωρήσω την διαδικασία βγαζοντας μου το παρακάτω σφάλμα. 
 ```sh
-sudo apt-get install python3-pip
-sudo pip3 install mps-youtube
-sudo apt-get install mpv
-mpsyt
-set player mplayer
-.volbeat
-d ITEM-NUMBER
+[stderr] ERROR: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: 'Too Many Requests'>); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
 ```
-
+Yστερα από σχετική αναζήτηση στο διαδύκτιο κατάλαβα ότι το VPN δεν άφηνε την ip μου να κατεβάσει επιπλέον κομμάτια εφόσον είχα υπερβεί κάποιο όριο.
+Αλλάζοντας την ip μου με την διαδικασία που βρήκα στο youtube το πρόβλημα λύθηκε[[2]].
 
 [1]: <http://oro.open.ac.uk/46759/>
+[2]: <https://www.youtube.com/watch?v=eTqtl169oSY>
 
 
 
