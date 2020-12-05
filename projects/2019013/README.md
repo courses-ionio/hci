@@ -39,7 +39,7 @@
   <h2><span id="Άσκηση Προγραμματισμού 2η">Άσκηση Προγραμματισμού 2η</span></h2>
   
   <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/mouse-form.md" title="Mouse Form">Mouse Form</a></i>
-  <li>Codepen:https://codepen.io/p19stef/pen/GRqxEvX
+  <li>Codepen: https://codepen.io/p19stef/pen/GRqxEvX
   
   Σκοπός της άσκησης ήταν η τροποποίηση του υπάρχοντος παραδείγματος με την προσθήκη ενός ακόμα κελιού.Το νέο αυτό κελί θα περιείχε την προεπιλεγμένη τιμή "gender", ενώ θα είχε σαν επιλογές το "male" και "female".Η αλλαγή αυτή έγινε στο HTML κομμάτι του κώδικα.
   
@@ -67,6 +67,6 @@
   <h2><span id="Άσκηση Προγραμματισμού 4η">Άσκηση Προγραμματισμού 4η</span></h2>
   
   <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/mouse-scroll.md" title="Mouse scroll">Mouse scroll</a></i>
-  <li>Codepen: "https://codepen.io/p19stef/pen/dypMXON"
+  <li>Codepen: https://codepen.io/p19stef/pen/dypMXON
    
    Σκοπός της άσκησης ήταν η αλλαγή του χρώματος του αριθμού εξόδου, κάθε φορά που θα γινόταν μετακίνηση του ποντικιού.Αυτό επιτεύχθηκε με αλλαγή του CSS κομματιού, στο μπλοκ κώδικα του body.
