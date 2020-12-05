@@ -30,4 +30,11 @@
 # Form Example
 Ο κώδικας βρίσκεται εδώ: https://github.com/Thomasth01/site/blob/master/_remix/mouse-form.md \
 Το αποτελεσμα φαινεται εδω: https://vibrant-varahamihira-deff26.netlify.app/remix/mouse-form/
+# askhsh 8
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="sckarolos" data-slug-hash="vOoeGE" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="D3 chart 2">
+  <span>See the Pen <a href="https://codepen.io/sckarolos/pen/vOoeGE">
+  D3 chart 2</a> by sckarolos (<a href="https://codepen.io/sckarolos">@sckarolos</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
