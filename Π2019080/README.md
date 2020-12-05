@@ -58,8 +58,8 @@
 **Display system information (hardware+software):**
 ![display system sw and hw](https://user-images.githubusercontent.com/72515787/100363826-f2b74980-3005-11eb-98f1-fc638b128915.gif)
 
-## Link στο asciinema με όλα τα παραπάνω βήματα μαζί:
-## https://asciinema.org/a/snBdYsk3P6rDzphl5PNaUUkid
+# _Link στο asciinema με όλα τα παραπάνω βήματα μαζί:_
+# https://asciinema.org/a/snBdYsk3P6rDzphl5PNaUUkid
 
 
 
@@ -73,7 +73,7 @@
 
 # Παραδοτέο 5ο
 ## Άσκηση προγραμματισμού Weather fetch
-**_Η παρακατω ασκηση με την χρήσση της εντολής curl αποτελεί ένα εναλλακτικό και πιο εύχρηστο τρόπο για να δει κανείς τη πρόγνωση του καιρου αντι να την αναζητησει στο διαδίκτυο με browsing._**
+**_Η παρακατω ασκηση με την χρήση της εντολής curl αποτελεί ένα εναλλακτικό και πιο εύχρηστο τρόπο για να δει κανείς τη πρόγνωση του καιρο΄ύ άμεσα στον τερματικό του, αντί να την αναζητήσει στο διαδίκτυο με browsing._**
 [![asciicast](https://asciinema.org/a/tA1Ap924v3d2w119ZgNQfHbQL.svg)](https://asciinema.org/a/tA1Ap924v3d2w119ZgNQfHbQL)
 
 
