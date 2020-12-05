@@ -89,5 +89,6 @@
 # Παραδοτέο 8ο
 ## Άσκηση προγραμματισμού Mouse Option
 **_Σε αυτο το σημειο η χρήση της html γίνεται πιο εκτενής και για να επιλυθεί η άσκηση πρέπει να γινεί εισαγωγή δεδομένων απο διαφορετικά μέσα_**
+![Mouse option](https://user-images.githubusercontent.com/72515787/101266711-4c341c80-375a-11eb-8fba-91112976e057.gif)
 
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-option.md)_**
