@@ -12,7 +12,7 @@
 | 6 | Συμμετοχικό περιεχόμενο <li><a href="#Συμμετοχικό περιεχόμενο"></span> <span class="toctext">Συμμετοχικό περιεχόμενο</span></a> |
 | 7 | Άσκηση Προγραμματισμού <li><a href="#Άσκηση προγραμματισμού 3η"></span> <span class="toctext">Άσκηση προγραμματισμού 3η</span></a> |
 | 8 | Άσκηση γραμμής εντολών |
-| 9 | Άσκηση Προγραμματισμού|
+| 9 | Άσκηση Προγραμματισμού <li><a href="#Άσκηση προγραμματισμού 4η"></span> <span class="toctext">Άσκηση προγραμματισμού 4η</span></a>|
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -25,6 +25,7 @@
   <h2><span id="Άσκηση Προγραμματισμού 1η">Άσκηση Προγραμματισμού 1η</span></h2>
   
   <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/image-filter.md" title="Image Processing">Image Processing</a></i>
+  <li>Codepen: https://codepen.io/p19stef/details/VwjjeYv
   
   Σκοπός της άσκησης ήταν η τροποποίηση του πραδείγματος που υπήρχε με κατάλληλο συνδυασμό φίλτρων ,αλλάζοντας τον CSS κώδικα, ώστε να εμφανίζεται η εικόνα με διαφορετικά χρωματικά εφέ. Η τροποποίση που έκανα, βρισκόταν στο μπλοκ κώδικα του hover, εφαρμόζοντας τα φίλτρα contrast(Θόλωμα),sepia(Σέπια) και blur(Αντίθεση).  
   
@@ -38,6 +39,7 @@
   <h2><span id="Άσκηση Προγραμματισμού 2η">Άσκηση Προγραμματισμού 2η</span></h2>
   
   <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/mouse-form.md" title="Mouse Form">Mouse Form</a></i>
+  <li>Codepen:https://codepen.io/p19stef/pen/GRqxEvX
   
   Σκοπός της άσκησης ήταν η τροποποίηση του υπάρχοντος παραδείγματος με την προσθήκη ενός ακόμα κελιού.Το νέο αυτό κελί θα περιείχε την προεπιλεγμένη τιμή "gender", ενώ θα είχε σαν επιλογές το "male" και "female".Η αλλαγή αυτή έγινε στο HTML κομμάτι του κώδικα.
   
@@ -58,5 +60,13 @@
  <h2><span id="Άσκηση Προγραμματισμού 3η">Άσκηση Προγραμματισμού 3η</span></h2>
   
   <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/image-zoom.md" title="Image Zoom">Image Zoom</a></i>
+  <li>Codepen: https://codepen.io/p19stef/pen/wvWLqyb
   
   Σκοπός της άσκησης ήταν η τροποποίηση της υπάρχουσας εικόνας, ώστε μαζί με την χρήση φίλτρων απο προηγούμενο παράδειγμα(Image Processing), μετακινώντας το ποντίκι προς την εικόνα να γίνεται ταυτόχρονα και μεγένθυση της, αλλα και προβολή της με τα φίλτρα που χρησιμοποιήθηκαν.
+  
+  <h2><span id="Άσκηση Προγραμματισμού 4η">Άσκηση Προγραμματισμού 4η</span></h2>
+  
+  <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/mouse-scroll.md" title="Mouse scroll">Mouse scroll</a></i>
+  <li>Codepen: "https://codepen.io/p19stef/pen/dypMXON"
+   
+   Σκοπός της άσκησης ήταν η αλλαγή του χρώματος του αριθμού εξόδου, κάθε φορά που θα γινόταν μετακίνηση του ποντικιού.Αυτό επιτεύχθηκε με αλλαγή του CSS κομματιού, στο μπλοκ κώδικα του body.
