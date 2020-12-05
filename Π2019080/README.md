@@ -17,12 +17,14 @@
 | 12 | Τελική αναφορά* |
 
 # Παραδοτέο 2ο
-### [Mouse Eraser](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)
+#Άσκηση προγραμματισμού διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως σβηστήρι (Mouse Eraser)
+Η παρακάτω άσκηση ειναι μια απλη εισαγωγη στο χωρο του codepen η οποια χωρις ιδιαιτερη δυσκολια καθιστά τον χρήστη ικανό να μπορεί να υλοποιήσει τις επερχόμενες ιδέες του με μεγαλύτερη αποτελεσματικότητα χρησιμοποιώντας τιε γλώσσες html και java.
 ![MouseEraser](https://user-images.githubusercontent.com/72515787/100358989-9b15df80-2fff-11eb-88be-03eccd8cf246.gif)
+(https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)
 
 # Παραδοτέο 3ο
 ## [Άσκηση γραμμής εντολών]
-  Το συγκεκριμένο παραδοτέο αποτελεί την πρώτη άσκηση γραμμής εντολών καθώς και την εισαγωγή στο περιβάλλον του LINUX και του Linux terminal και στην εφαρμογή asciinema η οποία χρησιμοποιείται για την καταγραφή των εντολών μέσα στον τερματικό.
+  Το συγκεκριμένο παραδοτέο αποτελεί την πρώτη άσκηση γραμμής εντολών καθώς και την εισαγωγή στα περιβάλλοντα του LINUX, του Linux terminal και στην εφαρμογή asciinema η οποία χρησιμοποιείται για την καταγραφή των εντολών μέσα στον τερματικό.
   
 ### Εντολές που χρησιμοποιήθηκαν:
 
@@ -56,14 +58,17 @@
 ## https://asciinema.org/a/snBdYsk3P6rDzphl5PNaUUkid
 
 # Παραδοτέο 4ο
+Η ακόλουθη ασκηση βοηθά στην ανάλυση της html με μεγαλύτερη έμφαση και αποδοτικότητα προκείμενου να επιτευχθεί ο ζητούμενος περιορισμός του υπάρχοντος μενού.
 ### [Menu Pie](https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)
 ![MenuPie](https://user-images.githubusercontent.com/72515787/100359178-e03a1180-2fff-11eb-87c3-38b0723a1064.gif)
 
 # Παραδοτέο 5ο
+Η παρακατω ασκηση με την χρήσση της εντολής curl αποτελεί ένα εναλλακτικό και πιο εύχρηστο τρόπο για να δει κανείς τη πρόγνωση του καιρου αντι να την αναζητησει στο διαδίκτυο με browsing.
 ### [Command line]
 [![asciicast](https://asciinema.org/a/tA1Ap924v3d2w119ZgNQfHbQL.svg)](https://asciinema.org/a/tA1Ap924v3d2w119ZgNQfHbQL)
 
 # Παραδοτέο 6ο
+Σε αυτο το σημειο η χρήση της html γίνεται πιο εκτενής και για να επιλυθεί η άσκηση πρέπει να γινεί εισαγωγή δεδομένων απο διαφορετικά μέσα
 ### [Mouse Form](https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)
 ![MouseForm](https://user-images.githubusercontent.com/72515787/100359304-06f84800-3000-11eb-86be-484b20bf01aa.gif)
 
