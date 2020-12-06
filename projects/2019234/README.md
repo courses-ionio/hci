@@ -30,7 +30,12 @@
  ## ΠΑΡΑΔΟΤΕΟ 2:
  
  https://github.com/alkinoospitsinis/site/blob/master/_remix/mouse-form.md
+ 
+ https://alkinoospitsinis-p2019234.netlify.app/remix/mouse-form/
+ 
+ https://codepen.io/alkinoospitsinis/pen/pobbpyK
 
+ 
 ## ΠΑΡΑΔΟΤΕΟ 3:
 
 https://asciinema.org/a/sEriV3X7h3ZWwDMtW6blxJajQ
@@ -38,6 +43,10 @@ https://asciinema.org/a/sEriV3X7h3ZWwDMtW6blxJajQ
 ## ΠΑΡΑΔΟΤΕΟ 4:
 
 https://github.com/alkinoospitsinis/site/blob/master/_remix/form-validation.md
+
+https://alkinoospitsinis-p2019234.netlify.app/remix/form-validation/
+
+https://codepen.io/alkinoospitsinis/pen/zYBjobO
 
 
 ## ΠΑΡΑΔΟΤΕΟ 5:
@@ -62,6 +71,9 @@ https://github.com/alkinoospitsinis/site/blob/master/_timeline/programming.md
 
 https://github.com/alkinoospitsinis/site/blob/master/_remix/image-filter.md
 
+https://alkinoospitsinis-p2019234.netlify.app/remix/image-filter/
+
+https://codepen.io/alkinoospitsinis/pen/WNxqdGW
 
 
 ## ΠΑΡΑΔΟΤΕΟ 8:
@@ -72,5 +84,9 @@ https://asciinema.org/a/ZBhiVHUOFkmBI7Oilpflb2Yll
 ## ΠΑΡΑΔΟΤΕΟ 9: 
 
 https://github.com/alkinoospitsinis/site/blob/master/_remix/image-zoom.md
+
+https://alkinoospitsinis-p2019234.netlify.app/remix/image-zoom/
+
+https://codepen.io/alkinoospitsinis/pen/OJRNEQb
 
 
