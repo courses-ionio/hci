@@ -92,7 +92,7 @@ Osborne1<br/>
 
 ![Mouse Form](https://imgur.com/6n78p87.png)
 
-Link Netlify: https://hci-p2019033.netlify.app/remix/mouse-form/
+Netlify Link: https://hci-p2019033.netlify.app/remix/mouse-form/
 
 ## MP3 Download
 
@@ -102,4 +102,4 @@ Asciinema Link: https://asciinema.org/a/375956
 
 ![Plyr video player](https://imgur.com/hQFpsvA.png)
 
-https://hci-p2019033.netlify.app/remix/plyr-video-player/
+Netlify Link: https://hci-p2019033.netlify.app/remix/plyr-video-player/
