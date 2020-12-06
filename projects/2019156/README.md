@@ -53,7 +53,7 @@
 > ## [Vim](https://asciinema.org/a/xqek3iWrWjr8nXDr9CmLl1bAf)
 > Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) έχει ως ζητούμενο την διαμόρφωση του vim editor ή του shell για την αυτόματη συμπλήρωση λέξεων,κώδικα αλλα και το highlighting των δεσμευμένων λέξεων κώδικα.
 > ![Στιγμιότυπο από 2020-12-06 19-18-53](https://user-images.githubusercontent.com/72353939/101287281-fe6df180-37f7-11eb-91c2-4b5c32e4ac56.png)
-> 
+> ### Πηγές[[Vim](https://www.vim.org/)] [[linuxhint](https://linuxhint.com/vim_auto_complete/)]
 > 
 > ## [Archetypes](https://pibook.epidro.me/chapter/archetypes/)
 > [archetypes.md](https://github.com/Anastasia-Rizou/site/blob/master/_slides/archetypes.md)
@@ -72,7 +72,8 @@
 > Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) ζητάει να επεξεργαστούμε και να διαμορφώσουμε το shell ή τον editor προσθέτοντας ένα status bar και να αλλάξουμε το color theme.Επειδή έχω ήδη τροποποιήσει το bash,επέλεξα να τροποποιήσω τον vim editor,προσθέτοντας το powerline το οποίο είναι ένα status bar και για τον vim editor αλλά και το bash.
 >
 > ![Στιγμιότυπο από 2020-12-06 18-49-44](https://user-images.githubusercontent.com/72353939/101286601-0f1c6880-37f4-11eb-890b-4c010b5d43f7.png)
-> ### Πηγές[[powerline](https://github.com/powerline/powerline)] [Opensource](https://opensource.com/article/19/12/colors-themes-vim)
+> ### Πηγές[[powerline](https://github.com/powerline/powerline)] [[Opensource](https://opensource.com/article/19/12/colors-themes-vim)]
+
 
 
 > ## [You_Tube_video_player](https://github.com/Anastasia-Rizou/site/blob/master/_remix/youtube-video-player.md)
