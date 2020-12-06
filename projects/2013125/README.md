@@ -124,3 +124,11 @@
 [Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/master/_remix/css-queries.md)
 
 ## Αλλαγές στην άσκηση προγραμματισμού
+Αρχικά έβαλα μόνο ένα είδος γραμματοσειράς για το μήνυμα "RESIZE BROWSER'S WINDOW",μετά άλλαξα όλα τα χρώμματα των γραμμάτων και των background-colors σε κάθε media query (max-width) που υπήρχε και πρόσθεσα ένα media query min-width:420px με νέα χρώμματα στα γραμματα και στο background-color.
+
+[Σύνδεσμος Βιβλιογραφίας 1](https://www.w3schools.com/colors/colors_names.asp)
+[Σύνδεσμος Βιβλιογραφίας 2](https://www.w3schools.com/css/css3_mediaqueries.asp)
+
+## Παραδοτέο 10
+## Άσκηση γραμμής εντολών
+##
