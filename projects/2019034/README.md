@@ -12,7 +12,7 @@
 | 6 |<li><a href="#Συμμετοχικό περιεχόμενο"><span class="toctext">Συμμετοχικό περιεχόμενο Α1 και Α2</span></a>|
 | 7 |<li><a href="#Mouse Form"><span class="toctext">Mouse Form</span></a>|
 | 8 | Άσκηση γραμμής εντολών (SW) |
-| 9 | Άσκηση προγραμματισμού (HCI) |
+| 9 |<li><a href="#Sortable List"><span class="toctext">Sortable List</span></a>|
 | 10 | Άσκηση γραμμής εντολών (SW) |
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά* |
@@ -101,3 +101,16 @@
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/mouse-form/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
+
+
+<br><br>
+<h2><span id="Sortable List">(9) Sortable List (Άσκηση Προγραμματισμού)</span></h2>
+<p>Η άσκηση που επέλεξα είχε να κάνει με την επεξεργασία του φίλτρου μίας εικόνας, συνδυασμό αυτών και ρύθμιση φωτεινότητας, αντίθεσης κλπ. Υλοποιήθηκε σε HTML και CSS και χρησιμοποίησα τα σχόλια που υπήρχαν στο τμήμα της CSS για την προσθήκη νέων φίλτρων στην εικόνα.
+
+<a href="https://github.com/u2nmd/site/blob/master/_remix/sortable-list.md">Image Filter</a>
+<br><a href="https://vibrant-villani-781057.netlify.app/remix/sortable-list/">Image Filter (Embed)</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://codepen.io">Codepen.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/sortable-list/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
