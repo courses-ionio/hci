@@ -403,9 +403,64 @@ function OFF() {
 <h2>   :book:: Παραδοτέο 8</a></h2>
 
 ### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 3 (search, download and play (with the terminal) your favorite song of the month from youtube).
+Σε αυτό το παραδοτέο επέλεξα την συγκεκριμένη άσκηση γιατί μπορώ να χρησιμοποιήσω bash scripting για επιπλέων βαθμό.
+
+Λοιπόν σε αυτή άσκηση έχω να κάνω: Αναζήτηση, εγκατάσταση και αναπαραγωγή ενός τραγουδιού μέσα από το τερματικό.
+
+Για να το κάνω αυτό χρειάστηκαν δύο linux terminal softwares το youtube-dl και το mpv.
+Youtube-dl -> Για αναζήτηση και εγκατάσταση.
+Mpv -> για την αναπαραγωγή τραγουδιού.
+
+Όλα αυτά τα έκανα αυτοματοποιημένα με bash scripting. Που παίρνει ένα argument ως όνομα για αναζήτηση και το κάνει εγκατάσταση ως mp3.
+
+Η χρήση του bash script προγράμματος μου είναι αυτή που δείχνω στο asciinema
+
+[![asciicast](https://asciinema.org/a/377507.svg)](https://asciinema.org/a/377507)
+
+Ο κώδικας του bash script είναι ο εξής
+ 
+```bash
+#!/bin/bash
+
+if  [[ $# -eq 0 ]] ; then
+    echo 'Missing argument: bash downloadyt-video.sh [song name]'
+    exit 1
+fi
+
+echo 'Search && Download from youtube mp3 songs\n'
+
+youtube-dl -x --audio-format mp3 ytsearch:$1
+
+echo 'Playing audio....
+mpv *.mp3
+```
+
+## Επεξήγηση κώδικα
+```bash
+if  [[ $# -eq 0 ]] ; then
+    echo 'Missing argument: bash downloadyt-video.sh [song name]'
+    exit 1
+fi
+```
+Ελέγχει το αν δεν δωσουμε ενα όρισμα. Π.χ αν δεν δωσουμε θα μας βγάλει το error message και θα κάνει exit το πρόγραμμα.
+
+```bash
+echo 'Search && Download from youtube mp3 songs\n'
+
+youtube-dl -x --audio-format mp3 ytsearch:$1
+```
+
+Εμφανίζει ένα μήνυμα και αμέσως μετά τρέχει την εντολή που κάνει search και download ως mp3 το τραγούδι. 
+
+```bash 
+echo 'Playing audio....
+mpv *.mp3
+```
+Εμφανίζει ένα μήνυμα οτι το τραγούδι ξεκινάει και κάνει αναπαραγωγή ολα τα αρχεία σε .mp3 για αυτό η καλύτερη λειτουργία είναι το πρόγραμμα να βρίσκεται σε έναν κενό φάκελο χωρίς αλλα .mp3 αρχεία εκτός απο αυτό που θα κάνει download το πρόγραμμα.
 
 
-
+      
+     
 
 
 
