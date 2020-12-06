@@ -19,10 +19,10 @@
 | 5 | **Convert between different text formats** <br/>[Getting a text editor, Vim or Emacs?](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#getting-a-text-editor-vim-or-emacs)<br/>[Figuring out Vim](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#figuring-out-vim)<br/>[Installing Pandoc](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#installing-pandoc)<br/>[Using pandoc to change format](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#using-pandoc-to-change-format)<br/>[Track formatting with git](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#track-formatting-with-git)|
 | 6 | **Συμμετοχικό Περιεχόμενο**<br/>[Matlab](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1-1%CE%B7)<br/>[Unity](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1-2%CE%B7) |
 | 7 | [Image Processing](#Παραδοτέο-6) |
-| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
-| 10 | συμμετοχικό περιεχόμενο |
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
+| 8 | **Download mp3**<br/>[Creating a config file]()<br/>[Downloading and Playing the song]() |
+| 9 | |
+| 10 | ασκηση γραμμής εντολών |
+| 11 |συμμετοχικο |
 | 12 | Τελική αναφορά* |
 
 # Παραδοτέο 2
@@ -119,6 +119,23 @@ Preview:
 Επιλέχθηκε μια από τις εύκολες ασκήσεις λόγω έλλειψης χρόνου. Αναμένεται μία συμπληρωματική.
 
 # Παραδοτέο 8
-Λόγω ενός τεχνικού προβλήματος που δεν έχω βρει χρόνο να μελετήσω την λύση του (pacman database corruption) δεν μπορώ να συναντήσω αυτή την προθεσμία. Παραθέτω asciinema με τις προσπάθειες μου για την λύση αυτού του προβλήματος.
 
-[![asciicast](https://asciinema.org/a/9yEjtcyboLTOyEO6Ieuja6rpz.svg)](https://asciinema.org/a/9yEjtcyboLTOyEO6Ieuja6rpz)
+Για την αναζήτηση και λήψη βίντεο χρησιμοποίησα το [youtube-dl](https://github.com/ytdl-org/youtube-dl). Για την αναπαραγωγή των τραγουδιών χρησιμοποίησα το [CMus](https://cmus.github.io/), ένα console music player γραμμένο σε C(lightweight).
+
+### Creating a config file
+Για την διευκόλυνσή μου, δημιούργησα, με βάση τις οδηγίες του README στο αποθετήριο του youtube-dl, ένα configuration file, με εντολές που θα ήθελα να εκτελούνται κάθε φορά που τρέχω το youtube-dl. Συγκεκριμένα το έβαλα να κάνει πάντα extract τον ήχο, να μην αντιγράφει το mtime και να αποθηκεύει τα αρχεία στον φάκελο "music" με ένα δεδομένο format. Τέλος, δημιούργησα ένα .netrc αρχείο που πέρασα ως argument στο configuration αρχείο μου για να κάνει αυτόματα login όποτε χρειάζεται. Λόγω αδυναμίας απόκρυψης των κωδικών μου στο αρχείο .netrc έχω χρησιμοποιήσει ψεύτικο κωδικό.
+
+[![asciicast](https://asciinema.org/a/26aPiStOLOfSfTVI9CC9DDyz9.svg)](https://asciinema.org/a/26aPiStOLOfSfTVI9CC9DDyz9)
+
+### Downloading and Playing the song
+Δεν υπάρχει ήχος για το asciicast αυτό, όμως το τραγούδι έπαιξε κανονικά, χωρίς πρόβλημα.
+
+[![asciicast](https://asciinema.org/a/47RzGxjMY8fNrIZzKsXZsdP7X.svg)](https://asciinema.org/a/47RzGxjMY8fNrIZzKsXZsdP7X)
+
+# Παραδοτέο 9
+Preview:
+
+[Netlify link](https://p19papa11.netlify.app/remix/image/)
+
+Σημείωση: Λόγω του μεγέθος του embed, δεν τα εμφανίζει δίπλα δίπλα, ενώ είναι.
+
