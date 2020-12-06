@@ -408,11 +408,11 @@ function OFF() {
 Λοιπόν σε αυτή άσκηση έχω να κάνω: Αναζήτηση, εγκατάσταση και αναπαραγωγή ενός τραγουδιού μέσα από το τερματικό.
 <br>
 Για να το κάνω αυτό χρειάστηκαν δύο linux terminal softwares το youtube-dl και το mpv.
-<br>
+<br><br>
 `Youtube-dl -> Για αναζήτηση και εγκατάσταση.`
 <br>
 `Mpv -> για την αναπαραγωγή τραγουδιού.`
-<br>
+<br><br>
 Όλα αυτά τα έκανα αυτοματοποιημένα με bash scripting. Που παίρνει ένα argument ως όνομα για αναζήτηση και το κάνει εγκατάσταση ως mp3.
 <br>
 Η χρήση του bash script προγράμματος μου είναι αυτή που δείχνω στο asciinema
@@ -433,7 +433,7 @@ echo 'Search && Download from youtube mp3 songs\n'
 
 youtube-dl -x --audio-format mp3 ytsearch:$1
 
-echo 'Playing audio....
+echo 'Playing audio....'
 mpv *.mp3
 ```
 
@@ -455,7 +455,7 @@ youtube-dl -x --audio-format mp3 ytsearch:$1
 Εμφανίζει ένα μήνυμα και αμέσως μετά τρέχει την εντολή που κάνει search και download ως mp3 το τραγούδι. 
 
 ```bash 
-echo 'Playing audio....
+echo 'Playing audio....'
 mpv *.mp3
 ```
 Εμφανίζει ένα μήνυμα οτι το τραγούδι ξεκινάει και κάνει αναπαραγωγή ολα τα αρχεία σε .mp3 για αυτό η καλύτερη λειτουργία είναι το πρόγραμμα να βρίσκεται σε έναν κενό φάκελο χωρίς αλλα .mp3 αρχεία εκτός απο αυτό που θα κάνει download το πρόγραμμα.
