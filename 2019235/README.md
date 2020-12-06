@@ -19,8 +19,8 @@
 | 5 | **Convert between different text formats** <br/>[Getting a text editor, Vim or Emacs?](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#getting-a-text-editor-vim-or-emacs)<br/>[Figuring out Vim](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#figuring-out-vim)<br/>[Installing Pandoc](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#installing-pandoc)<br/>[Using pandoc to change format](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#using-pandoc-to-change-format)<br/>[Track formatting with git](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#track-formatting-with-git)|
 | 6 | **Συμμετοχικό Περιεχόμενο**<br/>[Matlab](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1-1%CE%B7)<br/>[Unity](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1-2%CE%B7) |
 | 7 | [Image Processing](#Παραδοτέο-6) |
-| 8 | **Download mp3**<br/>[Creating a config file]()<br/>[Downloading and Playing the song]() |
-| 9 | |
+| 8 | **Download mp3**<br/>[Creating a config file](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#creating-a-config-file)<br/>[Downloading and Playing the song](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#downloading-and-playing-the-song) |
+| 9 |[SVG Image](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-9) |
 | 10 | ασκηση γραμμής εντολών |
 | 11 |συμμετοχικο |
 | 12 | Τελική αναφορά* |
