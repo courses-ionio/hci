@@ -15,7 +15,7 @@
 | 6 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο)  |
 | 7 | [Mouse Form](#mouse-form) *GUI* |
 | 8 | [MP3 Download](#mp3-download) *CLI* |
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 9 | [Plyr video player](#plyr-video-player) *GUI* |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
@@ -97,3 +97,7 @@ Link Netlify: https://hci-p2019033.netlify.app/remix/mouse-form/
 ## MP3 Download
 
 Asciinema Link: https://asciinema.org/a/375956
+
+## Plyr video player
+
+https://hci-p2019033.netlify.app/remix/plyr-video-player/
