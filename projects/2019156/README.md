@@ -13,8 +13,8 @@
 | 5 |[hci](#hci_vim)   |
 | 6 |[Archetypes](#Archetypes)|
 | 7 |[Menu scroll](#menu_scroll)|
-| 8 |[YouTube video player](#YouTube_video_player) |
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 8 |[Hci-Status bar](#Status_bar)|
+| 9 |[YouTube video player](#YouTube_video_player)|
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
@@ -51,7 +51,7 @@
 > ### Πηγές:[ [HTML](https://www.w3schools.com/html/)].
 
 > ## [hci_vim](https://asciinema.org/a/xqek3iWrWjr8nXDr9CmLl1bAf)
-
+> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) έχει ως ζητούμενο την διαμόρφωση του vim editor ή του shell.
 > ## [Archetypes](https://pibook.epidro.me/chapter/archetypes/)
 > [archetypes.md](https://github.com/Anastasia-Rizou/site/blob/master/_slides/archetypes.md)
 >
@@ -64,6 +64,13 @@
 > Η [άσκηση προγραμματισμού](https://pibook.epidro.me/remix/) χρησιμοποιεί την βιβλιοθήκη Τwitter Βootstrap 3.0.Πρόκειται για ένα διαδραστικό μενού όπου εμφανίζεται το έπειτα απο κύλιση του ποντικιού.Επίσης υποστηρίζεται η λειτουργία αυτόματης μεταφοράς στην ενότητα που έχει επιλέξει ο χρήστης.Το πρώτο ζητούμενο ήταν να προσθέσουμε ακόμα μία ενότητα και να την συνδέσουμε με την λειτουργία scroll-to του μενού.Αρχικά φάνηκε να έχει μια μικρή δύσκολία,αφού περιέχει κώδικα javascript,όπου δεν γνωρίζω σχεδόν καθόλου.Διαβάζοντας όμως τα στοιχειώδη για τη βιβλιοθήκη Βootstrap κατάλαβα πώς λειτουργεί και όλα πήγαν καλά.Γι'αυτό και έκανα και το δεύτερο ζητούμενο που ήταν να προσθέσουμε ένα κουμπί όπου επιλέγοντάς το ο χρήστης,κάθε φορά θα τον επαναφέρει στην αρχική σελίδα.Αυτό ήταν δύσκολο.Έψαξα αρκετά,κυριώς μέσα απο ήδη φτιαγμένους κώδικες για να μπορέσω να το κάνω χωρίς να αλλοιωθεί ο υπάρχον κώδικας.
 > Το url για την άσκσηση στο CodePen : [Menu scroll](https://codepen.io/p2019156/pen/eYzVdax)
 > ### Πηγές:[[Βootstrap](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)]
+
+> ## [Status_bar](https://asciinema.org/a/AYyArRL95oGX5A4FvMFAe62bp)
+> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) ζητάει να επεξεργαστούμε και να διαμορφώσουμε το shell ή τον editor προσθέτοντας ένα status bar και να αλλάξουμε το color theme.Επειδή έχω ήδη τροποποιήσει το bash,επέλεξα να τροποποιήσω τον vim editor,προσθέτοντας το powerline το οποίο είναι ένα status bar και για τον vim editor αλλά και το bash.
+>
+> ![Στιγμιότυπο από 2020-12-06 18-49-44](https://user-images.githubusercontent.com/72353939/101286601-0f1c6880-37f4-11eb-890b-4c010b5d43f7.png)
+> ### Πηγές[[powerline](https://github.com/powerline/powerline)] [Opensource](https://opensource.com/article/19/12/colors-themes-vim)
+
 
 > ## [You_Tube_video_player](https://github.com/Anastasia-Rizou/site/blob/master/_remix/youtube-video-player.md)
 >
