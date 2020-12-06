@@ -404,15 +404,17 @@ function OFF() {
 
 ### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 3 (search, download and play (with the terminal) your favorite song of the month from youtube).
 Σε αυτό το παραδοτέο επέλεξα την συγκεκριμένη άσκηση γιατί μπορώ να χρησιμοποιήσω bash scripting για επιπλέων βαθμό.
-
+<br>
 Λοιπόν σε αυτή άσκηση έχω να κάνω: Αναζήτηση, εγκατάσταση και αναπαραγωγή ενός τραγουδιού μέσα από το τερματικό.
-
+<br>
 Για να το κάνω αυτό χρειάστηκαν δύο linux terminal softwares το youtube-dl και το mpv.
-Youtube-dl -> Για αναζήτηση και εγκατάσταση.
-Mpv -> για την αναπαραγωγή τραγουδιού.
-
+<br>
+`Youtube-dl -> Για αναζήτηση και εγκατάσταση.`
+<br>
+`Mpv -> για την αναπαραγωγή τραγουδιού.`
+<br>
 Όλα αυτά τα έκανα αυτοματοποιημένα με bash scripting. Που παίρνει ένα argument ως όνομα για αναζήτηση και το κάνει εγκατάσταση ως mp3.
-
+<br>
 Η χρήση του bash script προγράμματος μου είναι αυτή που δείχνω στο asciinema
 
 [![asciicast](https://asciinema.org/a/377507.svg)](https://asciinema.org/a/377507)
@@ -435,7 +437,7 @@ echo 'Playing audio....
 mpv *.mp3
 ```
 
-## Επεξήγηση κώδικα
+### Επεξήγηση κώδικα
 ```bash
 if  [[ $# -eq 0 ]] ; then
     echo 'Missing argument: bash downloadyt-video.sh [song name]'
