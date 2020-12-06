@@ -112,7 +112,8 @@
  
 # Πηγές πληροφοριών
 ### Ασκήσεις προγραμματισμού
-image processing: https://www.w3schools.com/cssref/css3_pr_filter.asp
+image processing: https://www.w3schools.com/cssref/css3_pr_filter.asp  <br>
+image zoom: [backround colour](https://www.w3schools.com/cssref/pr_background-image.asp)
 ### Ασκήσεις γραμμής εντολών
 
 - [homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
