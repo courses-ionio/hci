@@ -14,7 +14,7 @@ Forked pibook site repository: https://github.com/panosath/site<br>
 | 6 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο) |
 | 7 | [Άσκηση προγραμματισμού: Menu Scroll](#άσκηση-προγραμματισμού-menu-scroll) |
 | 8 | [Άσκηση γραμμής εντολών: youtube-dl και mpv](#άσκηση-γραμμής-εντολών-youtube-dl-και-mpv) |
-| 9 | Άσκηση προγραμματισμού |
+| 9 | [Άσκηση προγραμματισμού: Mouse Eraser](#άσκηση-προγραμματισμού-mouse-eraser) |
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης|
@@ -58,4 +58,10 @@ Forked pibook site repository: https://github.com/panosath/site<br>
 <h2>Άσκηση γραμμής εντολών: youtube-dl και mpv</h2>
 Παρατίθεται εδώ το <a href="https://asciinema.org/a/376774" title="link to asciinema">link</a> της τρίτης άσκησης γραμμής εντολών. Συνοπτικά παρουσιάζεται η λειτουργία λήψης βίντεο απο το youtube.com με τη χρήση του youtube-dl καθώς και παρουσιάζεται μια από τις εντολές ρύθμισης του ληφθέντος αρχείου. Πιο συγκεκριμένα, με την εντολη "youtube-dl (link)" γίνεται λήψη του βίντεο από το δοθέν link ενώ με την εντολή "youtube-dl -o 'desired-name' (link)" γίνεται λήψη αλλά και μετονομασία του ληφθέντος βίντεο σε ένα όνομα της προτίμησης του χρήστη. Στη συνέχεια γίνεται αναπαραγωγή των βίντεο που έχω κατεβάσει, αλλά το βίντεο αυτό καθ'αυτό δεν εμφανίζεται στο terminal οπότε δεν καταγράφεται από το asciinema. Παρόλα αυτά, είναι εμφανής η αναπαραγωγή των αρχείων στο terminal.<br>
 <a href="https://asciinema.org/a/376774" target="_blank"><img src="https://asciinema.org/a/376774.svg"  width="400" height="300" /></a>
+<hr>
+
+<h2>Άσκηση προγραμματισμού: Mouse Eraser</h2>
+<a href="https://panosath-pibook.netlify.app/remix/mouse-eraser/" title="link to netlify pibook page">Η άσκηση στο βιβλίο του μαθήματος</a><br>
+Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/eYdZxjL" title="link to codepen">link στο codepen</a> της τέταρτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/mouse-eraser.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Αντικατέστησα και τις δυο εικόνες με δικές μου ανεβάζοντας αυτές σε δικό μου αποθετήριο στο github και εισάγωντας το link τηε κάθε μιας στον κώδικα της άσκησης. Οι διαστάσεις των εικόνων τροποποιήθηκαν ελάχιστα από αυτές που προϋπήρχαν για πιο ομοιόμορφη παρουσίαση. Τροποποίησα επίσης και το μέγεθος του eraser ωστε να διαγράφεται μεγαλύτερο κομμάτι με το mouse over.<br>
+<img src="https://raw.githubusercontent.com/panosath/hci-pic-repo/main/mouse%20eraser.gif" width="450" height="300" />
 <hr>
