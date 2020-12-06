@@ -13,7 +13,7 @@
 | 6 | [Συμμετοχικό περιεχόμενο ](#ΠΑΡΑΔΟΤΕΟ-6)|
 | 7 |[Άσκηση προγραμματισμού ](#ΠΑΡΑΔΟΤΕΟ-7)| 
 | 8 | [Άσκηση γραμμής εντολών ](#ΠΑΡΑΔΟΤΕΟ-8)|
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 9 |[Άσκηση προγραμματισμού ](#ΠΑΡΑΔΟΤΕΟ-9)|
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
@@ -67,4 +67,10 @@ https://github.com/alkinoospitsinis/site/blob/master/_remix/image-filter.md
 ## ΠΑΡΑΔΟΤΕΟ 8:
 
 https://asciinema.org/a/ZBhiVHUOFkmBI7Oilpflb2Yll
+
+
+## ΠΑΡΑΔΟΤΕΟ 9: 
+
+https://github.com/alkinoospitsinis/site/blob/master/_remix/image-zoom.md
+
 
