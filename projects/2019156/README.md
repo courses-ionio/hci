@@ -10,7 +10,7 @@
 | 2 |[Mouse option ](#Mouse_option) |
 | 3 | [warmup](#topic_warmup) |
 | 4 | [Mouse form ](#Mouse_form) |
-| 5 |[hci](#hci_vim)   |
+| 5 |[Vim](#Vim)   |
 | 6 |[Archetypes](#Archetypes)|
 | 7 |[Menu scroll](#menu_scroll)|
 | 8 |[Hci-Status bar](#Status_bar)|
@@ -50,8 +50,11 @@
 > Το url για την άσκσηση στο CodePen :[Mouse form](https://codepen.io/p2019156/pen/XWKZNYm)
 > ### Πηγές:[ [HTML](https://www.w3schools.com/html/)].
 
-> ## [hci_vim](https://asciinema.org/a/xqek3iWrWjr8nXDr9CmLl1bAf)
-> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) έχει ως ζητούμενο την διαμόρφωση του vim editor ή του shell.
+> ## [Vim](https://asciinema.org/a/xqek3iWrWjr8nXDr9CmLl1bAf)
+> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) έχει ως ζητούμενο την διαμόρφωση του vim editor ή του shell για την αυτόματη συμπλήρωση λέξεων,κώδικα αλλα και το highlighting των δεσμευμένων λέξεων κώδικα.
+> ![Στιγμιότυπο από 2020-12-06 19-18-53](https://user-images.githubusercontent.com/72353939/101287281-fe6df180-37f7-11eb-91c2-4b5c32e4ac56.png)
+> 
+> 
 > ## [Archetypes](https://pibook.epidro.me/chapter/archetypes/)
 > [archetypes.md](https://github.com/Anastasia-Rizou/site/blob/master/_slides/archetypes.md)
 >
