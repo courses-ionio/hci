@@ -22,7 +22,7 @@
 [![asciicast](https://asciinema.org/a/3VJWjeQCzKqiDe0BKxgmBypLf.svg)](https://asciinema.org/a/3VJWjeQCzKqiDe0BKxgmBypLf)
 # Css Circle Menu Excercise
 Μια ασκηση που βοηθησε στην εξοικειωση με την γλωσσα CSS χωρις ομως να πορουσιαζει καποια ιδιαιτερη δυσκολια
-Ο Κωδικας βρισκεται εδω: https://codepen.io/thomasth01/pen/pobVmVK \
+Ο Κωδικας βρισκεται εδω: https://github.com/Thomasth01/site/blob/master/_remix/menu-css.md \
 Το αποτελεσμα φαινεται εδω:https://5fa81c9f5f714100082fe3c8--vibrant-varahamihira-deff26.netlify.app/remix/menu-css/
 # Weather forecast
 Προγνωση καιρου:
