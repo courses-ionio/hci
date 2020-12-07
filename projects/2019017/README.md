@@ -15,7 +15,7 @@
 | 6 | Συμμετοχικό περιεχόμενο: [Sixth deliverable](#Παραδοτέο-6) |
 | 7 | Άσκηση προγραμματισμού: [Seventh deliverable](#Παραδοτέο-7)|
 | 8 | Άσκηση γραμμής εντολών (hci): [Eighth deliverable](#Παραδοτέο-8) |
-| 9 | Άσκηση προγραμματισμού |
+| 9 | Άσκηση προγραμματισμού: [Ninth deliverable](#Παραδοτέο-9) |
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -111,6 +111,13 @@ Preview:<br/>
 Preview:<br/>
 ![default](https://i.imgur.com/OZIo2nb.png)
 
+## Παραδοτέο 9
+Πήρα την άσκηση Mouse Eraser. Σκοπός ήταν να αλλάξω τις εικόνες και να μεγενθύνω τη σβήστρα. Όμως το μέγεθος r (radius) της σβήστρας είχε ήδη την μέγιστη τιμή (50) οπότε το μίκρυνα. Έκανα πιο έντονη τη διαγραφή από το addColorStop() για να χρειάζεται να περνάει η σβήστρα μόνο μία φορά από κάθε σημείο και άλλαξα τις διαστάσεις των δυό νέων εικονών και του canvas.
+
+[Codepen link:](https://codepen.io/p19kala/pen/vYXKmOM)
+[\_remix link:](https://github.com/p19kala/site/blob/master/_remix/mouse-eraser.md)
+[Netlify link:](https://p19kala.netlify.app/remix/mouse-eraser/)
+
 ## Πηγές:
 
 Παραδοτέο 2:
@@ -170,3 +177,7 @@ Preview:<br/>
 - [Save and Quit Emacs](https://linuxhint.com/emacs_save_quit/)
 
 - [Detailed Emacs guide](https://www.digitalocean.com/community/tutorials/how-to-use-the-emacs-editor-in-linux)
+
+Παραδοτέο 9:
+
+- [Drawing Arcs in Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes#Arcs)
