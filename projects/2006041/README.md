@@ -13,7 +13,7 @@
 | 6 | Συμμετοχικό περιεχόμενο ([link](#collab))|
 | 7 | Άσκηση προγραμματισμού ([link](#mouseeraser))|
 | 8 | Άσκηση γραμμής εντολών ([link](#youtubedl))|
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 9 | Άσκηση προγραμματισμού ([link](#d3js))|
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά |
@@ -61,4 +61,9 @@ For this command line exercise, I completed the *"download mp3"* assignment whic
 The link to the asciicast on asciinema can be found through this [link](https://asciinema.org/a/376115) and can also be seen embedded below:
 
 [![asciicast](https://asciinema.org/a/376115.svg)](https://asciinema.org/a/376115)
+
+### <a name="d3js"></a> d3.js visualization
+For this programming exercise, I created a world choropleth charts based on the d3.js library, visualizing COVID-19 incidence rates by country.
+
+My commit to the forked repo can be found by following this [link](https://github.com/elenberg-io/site/commit/4c43b16d06ad0c63d872956be4e043471b604a9a#diff-7b222a67dcbaf16068515e6b1b9add2d77fdbc195841e95bd5ff01dfa82b5b6d), the visualization.md page on github can be accessed through this [link](https://github.com/elenberg-io/site/blob/master/_remix/visualization.md) and my source code in CodePen can be accessed through this [link](https://codepen.io/p2006041/pen/abmbeoX).
 
