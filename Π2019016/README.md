@@ -8,7 +8,7 @@
 | 5 |[Weather forecast](#Weather-forecast)|
 | 6 |[Form example](#Form-Example)|
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
-| 8 | [Visualization database excercise](#Visualization-database-excercise)|
+| 8 | [Visualization dataset excercise](#Visualization-database-excercise)|
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -31,4 +31,5 @@
 Ο κώδικας βρίσκεται εδώ: https://github.com/Thomasth01/site/blob/master/_remix/mouse-form.md \
 Το αποτελεσμα φαινεται εδω: https://vibrant-varahamihira-deff26.netlify.app/remix/mouse-form \
 # Visualization database excercise
-https://github.com/Thomasth01/site/blob/master/_remix/visualization-dataset.md
+Ο Κωδικας βρισκεται εδω:https://github.com/Thomasth01/site/blob/master/_remix/visualization-dataset.md \
+Το αποτελεσμα φαινεται εδω: https://vibrant-varahamihira-deff26.netlify.app/remix/visualization-dataset/
