@@ -112,13 +112,13 @@ Preview:<br/>
 ![default](https://i.imgur.com/OZIo2nb.png)
 
 ## Παραδοτέο 9
-Πήρα την άσκηση Mouse Eraser. Σκοπός ήταν να αλλάξω τις εικόνες και να μεγενθύνω τη σβήστρα. Όμως το μέγεθος r (radius) της σβήστρας είχε ήδη την μέγιστη τιμή (50) οπότε το μίκρυνα. Έκανα πιο έντονη τη διαγραφή από το addColorStop() για να παίρνει λιγότερο χρόνο η διαγραφή και άλλαξα τις διαστάσεις των δυό νέων εικονών και του canvas.
+Πήρα την άσκηση Mouse Eraser. Σκοπός ήταν να αλλάξω τις εικόνες και να μεγενθύνω τη σβήστρα. Όμως το μέγεθος r (radius) της σβήστρας είχε ήδη την μέγιστη τιμή (50) οπότε το μίκρυνα. Έκανα πιο έντονη τη διαγραφή από το addColorStop() για να παίρνει λιγότερο χρόνο η διαγραφή και άλλαξα τις διαστάσεις των δυό νέων εικονών και του canvas
 
-Codepen link: [Code](https://codepen.io/p19kala/pen/vYXKmOM)
+Σύνδεσμος στο \_remix: [Mouse Eraser](https://github.com/p19kala/site/blob/master/_remix/mouse-eraser.md)
 <br/>
-\_remix link: [embed](https://github.com/p19kala/site/blob/master/_remix/mouse-eraser.md)
+Σύνδεσμος στο embed: [Netlify](https://p19kala.netlify.app/remix/mouse-eraser/)
 <br/>
-Netlify link: [Site](https://p19kala.netlify.app/remix/mouse-eraser/)
+Σύνδεσμος στο εκτελέσιμο: [Netlify](https://codepen.io/p19kala/pen/GRqVNeJ)
 
 Preview:<br/>
 ![default](https://i.imgur.com/5FJS44n.png)
