@@ -13,7 +13,7 @@
 | 6 | Συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση προγραμματισμού Mouse Button |
 | 8 | Άσκηση γραμμής εντολών Emacs-Org Mode |
-| 9 | Άσκηση προγραμματισμού |
+| 9 | Άσκηση προγραμματισμού CSS queries |
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -50,10 +50,24 @@ Link Netlify: https://naughty-mcnulty-ae5c1a.netlify.app/remix/mouse-button/
                                                                 
   Τροποποιήστε το παράδειγμα δημιουργώντας ένα 2ο κουμπί που θα εκτελεί τη την ανάποδη λειτουργία από αυτή του κουμπιού “ANOTHER”. Το νέο κουμπί πρέπει να εμφανίζει το μήνυμα που είχε εμφανιστεί προηγουμένως.                 
                     
-                                         Παραδοτέο 8 Ασκηση Γραμμης Εντολων Emacs-Org Mode
+                                                  Παραδοτέο 8 Ασκηση Γραμμης Εντολων Emacs-Org Mode
                                          
 https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH
 
 <a href="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH" target="_blank"><img src="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH.svg" /></a>
 
 <script id="asciicast-WkznqSRJTXMsAhIMwGT4AGsjH" src="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH.js" async></script>
+
+                                                  Παραδοτέο 9 Ασκηση Προγραμματισμου CSS Queries
+                                   
+  Παράδειγμα κώδικα με σκοπό να γίνει κατανοητή η χρήση των CSS media queries. Αλλάζοντας το μέγεθος του παραθύρου του περιηγητή (browser) σας αλλάζει το χρώμα της επιφάνειας του παραδείγματος.
+  
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p16andr" data-slug-hash="rNMLOMb" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="media queries example"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/rNMLOMb"> media queries example</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  
+Link Netlify: https://naughty-mcnulty-ae5c1a.netlify.app/remix/css-queries/
+
+Πειραματιστείτε με το παράδειγμα προσθέτοντας περισσότερα CSS media queries και αλλάζοντας το χρώμα του παραθούρου. Στη συνέχεια δοκιμάστε να εφαρμόσετε CSS media queries στο μέγεθος της γραμματοσειράς ώστε να απεικονίζεται σωστά σε όλα τα μεγέθη παραθύρων.
+
+
+
