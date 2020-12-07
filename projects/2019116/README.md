@@ -3,9 +3,9 @@
 ### Ονοματεπώνυμο: Ραφαήλ Φωτακίδης | ΑΜ: Π2019116
 ### Αποθετήριο του μαθήματος: https://github.com/rafael5gr2/hci
 ### Αποθετήρια του βιβλίου:  
-https://github.com/rafael5gr2/site  
-https://github.com/rafael5gr2/_gallery  
-https://github.com/rafael5gr2/images
+### https://github.com/rafael5gr2/site  
+### https://github.com/rafael5gr2/_gallery  
+### https://github.com/rafael5gr2/images
 ### Προφίλ στο Codepen: https://codepen.io/p19fota
   
 # Παραδοτέα και Τελική αναφορά
