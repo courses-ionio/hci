@@ -21,7 +21,7 @@
 | 7 |  [Άσκηση προγραμματισμού: Image zoom](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#7%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 8 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/hci/blob/%CE%A02019173/projects/2019173/README.md#8%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 9 | [Άσκηση προγραμματισμού: Sortable list](https://github.com/p19pasa/hci/tree/%CE%A02019173/projects/2019173#9%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
-| 10 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 10 | [Άσκηση γραμμής εντολών](https://github.com/p19pasa/hci/tree/%CE%A02019173/projects/2019173#10%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά* και αίτημα ενσωμάτωσης |
 
