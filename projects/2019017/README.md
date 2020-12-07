@@ -118,7 +118,7 @@ Preview:<br/>
 <br/>
 Σύνδεσμος στο embed: [Netlify](https://p19kala.netlify.app/remix/mouse-eraser/)
 <br/>
-Σύνδεσμος στο εκτελέσιμο: [Netlify](https://codepen.io/p19kala/pen/GRqVNeJ)
+Σύνδεσμος στο εκτελέσιμο: [Codepen](https://codepen.io/p19kala/pen/vYXKmOM)
 
 Preview:<br/>
 ![default](https://i.imgur.com/5FJS44n.png)
