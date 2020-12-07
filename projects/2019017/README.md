@@ -114,7 +114,7 @@ Preview:<br/>
 ## Παραδοτέο 9
 Πήρα την άσκηση Mouse Eraser. Σκοπός ήταν να αλλάξω τις εικόνες και να μεγενθύνω τη σβήστρα. Όμως το μέγεθος r (radius) της σβήστρας είχε ήδη την μέγιστη τιμή (50) οπότε το μίκρυνα. Έκανα πιο έντονη τη διαγραφή από το addColorStop() για να παίρνει λιγότερο χρόνο η διαγραφή και άλλαξα τις διαστάσεις των δυό νέων εικονών και του canvas.
 
-Codepen link: [Code]https://codepen.io/p19kala/pen/vYXKmOM)
+Codepen link: [Code](https://codepen.io/p19kala/pen/vYXKmOM)
 <br/>
 \_remix link: [embed](https://github.com/p19kala/site/blob/master/_remix/mouse-eraser.md)
 <br/>
