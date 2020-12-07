@@ -105,12 +105,13 @@
 
 <br><br>
 <h2><span id="Sortable List">(9) Sortable List (Άσκηση Προγραμματισμού)</span></h2>
-<p>Η άσκηση που επέλεξα είχε να κάνει με την επεξεργασία του φίλτρου μίας εικόνας, συνδυασμό αυτών και ρύθμιση φωτεινότητας, αντίθεσης κλπ. Υλοποιήθηκε σε HTML και CSS και χρησιμοποίησα τα σχόλια που υπήρχαν στο τμήμα της CSS για την προσθήκη νέων φίλτρων στην εικόνα.
+<p>Η άσκηση που επέλεξα περιείχε μία αταξινόμητη λίστα 7 στοιχείων, την οποία ο χρήστης ταξινομεί με την επιλογή ενός στοιχείου την φορά και τη μετακίνησή του στην κατάλληλη θέση (αν θέλει να είναι αύξουσα ή φθίνουσα η σειρά). Σκοπός της άσκησης ήταν να αλλάξω χρώμα τα στοιχεία (τα οποία έκανα πράσινα με μαύρο φόντο), το ύψος τους και την απόσταση μεταξύ τους. Για να ολοκληρώσω τα ζητούμενα, επεξεργάστηκα το "margin" (άλλαξα το μεσαίο από 3 σε 30 και έκανε τα κενά μεγαλύτερα) και τα "background-color", "border-color" και "color" στο CSS κομμάτι κώδικα (αναζήτησα στο ίντερνετ για "κωδικούς" άλλων χρωμάτων και διάλεξα ποιά ήθελα).
 
-<a href="https://github.com/u2nmd/site/blob/master/_remix/sortable-list.md">Image Filter</a>
-<br><a href="https://vibrant-villani-781057.netlify.app/remix/sortable-list/">Image Filter (Embed)</a>
+<a href="https://github.com/u2nmd/site/blob/master/_remix/sortable-list.md">Sortable List</a>
+<br><a href="https://vibrant-villani-781057.netlify.app/remix/sortable-list/">Sortable List (Embed)</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
-<br> <a href="https://pibook.epidro.me/remix/sortable-list/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
+<br> <a href="https://pibook.epidro.me/remix/sortable-list/">Η εκφώνηση της άσκησης που έκανα.</a>
+<br> <a href="https://www.w3schools.com/cssref/css_colors.asp">Λίστα με τα διαθέσιμα χρώματα που χρησιμοποίησα για βοήθεια.</a></ul>
