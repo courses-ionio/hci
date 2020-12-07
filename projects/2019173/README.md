@@ -102,7 +102,7 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 
 
 # 8ο Παραδοτέο
-Επέλεξα την άσκηση γραμμής εντολών [add a status bar to your shell/editor and configure a color-theme](https://github.com/epidrome/dokey). Ζητούμενο της άσκησης αυτής είναι: η επεξεργασία αρχείων διαμόρφωσης για τη γραμμή κατάστασης και για το θέμα χρώματος. 
+Επέλεξα την άσκηση γραμμής εντολών [add a status bar to your shell/editor and configure a color-theme](https://github.com/epidrome/dokey#hci). Ζητούμενο της άσκησης αυτής είναι: η επεξεργασία αρχείων διαμόρφωσης για τη γραμμή κατάστασης και για το θέμα χρώματος. 
 
 #### Τρόπος επίλυσης της άσκησης:
 Μέσα από την παρακολούθηση των μαθημάτων και την εμβάθυνση στη χρήση του τερματικού, τα βήματα λύσης της άσκησης δεν ήταν ιδιαίτερα δύσκολα. Μάζεψα πληροφορίες για 1) την επεξεργασία του status bar από: [Status bar and styling {#status-bar}](https://tao-of-tmux.readthedocs.io/en/latest/manuscript/09-status-bar.html#status-bar-and-styling-status-bar), [Features](https://github.com/altercation/solarized#features), [Font Samples](https://github.com/altercation/solarized#font-samples) και [Screenshots](https://github.com/altercation/solarized#screenshots) και 2) να αλλάξω το χρώμα του terminal window από: [How To Change And Use Vim Color Schemes](https://phoenixnap.com/kb/vim-color-schemes), [How to change colors and themes in Vim](https://opensource.com/article/19/12/colors-themes-vim) και [Solarized](https://github.com/altercation/solarized#solarized).
