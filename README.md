@@ -100,7 +100,17 @@ https://github.com/Thanozz/_gallery/blob/master/sony-playstation.md
 
 ## Άσκηση προγραμματισμού 3
 
+Ασχολήθηκα με την άσκηση Form Validation. Ζητάμε το χρήστη να δώσει email, στοιχεία πιστωτικής κάρτας και τηλέφωνο. Όλα αυτά παρουσιάζονται στο παρακάτω link:
 
+https://github.com/Thanozz/site/blob/master/_remix/form-validation.md
+
+Χρειάστηκα βοήθεια, κυρίως για το e-mail. Tο παρακάτω link φάνηκε πολύ χρήσιμο:
+
+https://www.sitepoint.com/client-side-form-validation-html5/
+
+Η παραπάνω φόρμα βρίσκεται και στο fork του αποθετηρίου του βιβλίου "Ο προγραμματισμός της διάδρασης" στις ασκήσεις του drop down menu.
+
+https://2019239.netlify.app/remix/form-validation/
 
 ## Άσκηση γραμμής εντολών 3
 
