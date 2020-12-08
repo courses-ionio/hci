@@ -80,7 +80,7 @@ Preview:<br/>
 
 Πρόσθεσα entry για το **Unreal Engine** [εδώ](https://github.com/p19kala/_gallery/blob/master/unreal-engine.md) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/commit/37fe62e23574ba1648b8b1f049833bbf47378199) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/commit/03c691b5a501f7acdcb789900160c3ac55570835). Tags στο Netlify εμφανίζονται [εδώ](https://p19kala.netlify.app/tags/#epic-games-inc) και [εδώ](https://p19kala.netlify.app/tags/#blueprint)
 
-Πρόσθεσα entry για το **Microsoft Natural Keyboard** [εδώ](https://github.com/p19kala/_gallery/blob/master/microsoft-natural-keyboard.md) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/blob/master/microsoft-natural-keyboard-thumb.jpg) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/blob/master/microsoft-natural-keyboard.jpg). Tags στο Netlify εμφανίζονται [εδώ](https://p19kala.netlify.app/tags/#microsoft και [εδώ](https://p19kala.netlify.app/tags/#keyboard).
+Πρόσθεσα entry για το **Microsoft Natural Keyboard** [εδώ](https://github.com/p19kala/_gallery/blob/master/microsoft-natural-keyboard.md) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/blob/master/microsoft-natural-keyboard-thumb.jpg) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/blob/master/microsoft-natural-keyboard.jpg). Tags στο Netlify εμφανίζονται [εδώ](https://p19kala.netlify.app/tags/#microsoft) και [εδώ](https://p19kala.netlify.app/tags/#keyboard).
 
 ### A2)
 
