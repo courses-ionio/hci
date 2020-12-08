@@ -102,14 +102,12 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 
 
 # 8ο Παραδοτέο
-Επέλεξα την άσκηση γραμμής εντολών [add a status bar to your shell/editor and configure a color-theme](https://github.com/epidrome/dokey#hci). Ζητούμενο της άσκησης αυτής είναι: η επεξεργασία αρχείων διαμόρφωσης για τη γραμμή κατάστασης και για το θέμα χρώματος. 
+Επέλεξα την άσκηση γραμμής εντολών [organize your notes with emacs](https://github.com/epidrome/dokey#hci). Ζητούμενο της άσκησης αυτής είναι: η οργάνωση και επεξεργασία λίστας με τη χρήση ενός συγκεκριμένου εργαλείου, του emacs.
 
 #### Τρόπος επίλυσης της άσκησης:
-Μέσα από την παρακολούθηση των μαθημάτων και την εμβάθυνση στη χρήση του τερματικού, τα βήματα λύσης της άσκησης δεν ήταν ιδιαίτερα δύσκολα. Μάζεψα πληροφορίες για 1) την επεξεργασία του status bar από: [Status bar and styling {#status-bar}](https://tao-of-tmux.readthedocs.io/en/latest/manuscript/09-status-bar.html#status-bar-and-styling-status-bar), [Features](https://github.com/altercation/solarized#features), [Font Samples](https://github.com/altercation/solarized#font-samples) και [Screenshots](https://github.com/altercation/solarized#screenshots) και 2) να αλλάξω το χρώμα του terminal window από: [How To Change And Use Vim Color Schemes](https://phoenixnap.com/kb/vim-color-schemes), [How to change colors and themes in Vim](https://opensource.com/article/19/12/colors-themes-vim) και [Solarized](https://github.com/altercation/solarized#solarized).
+Μέσα από την παρακολούθηση των μαθημάτων και την εμβάθυνση στη χρήση του τερματικού, τα βήματα λύσης της άσκησης δεν ήταν ιδιαίτερα δύσκολα. Μάζεψα πληροφορίες από: 1) [How to maintain notes organized with org-mode?](https://stackoverflow.com/questions/23506372/how-to-maintain-notes-organized-with-org-mode), 2) [Get Organized with Emacs Org-mode](https://www.linuxjournal.com/article/9116) και 3) [Org mode beginning at the basics](https://orgmode.org/worg/org-tutorials/org4beginners.html).
 
-- Για να δημιουργήσουμε το status bar έπρεπε: αρχικά να κατεβάσω το tmux, χρησιμοποιώντας το sudo apt-get install tmux. Έπειτα, στο τερματικό πάτησα: tmux new, για να μπορώ εκ νέου να επεξεργαστώ το status bar. Έτσι, μπήκα στο tmux και ξεκίνησα να πληκτρολογώ το: tmux set-option -g status-position bottom, για να είναι το status bar στο κάτω μέρος, tmux set-option -g status-style bg=black,fg=white, για να γίνει το "φόντο" μαύρο και να έχει άσπρα γράμματα, tmux set-option -g status-justify centre, για να μπορώ να γράψω δεξιά και αριστερά και αναμεσά τους να υπάρχει κενό,tmux set-option -g status-left '#(echo Hello!)', για να γράφει στα αριστερά <<Hello!>>, tmux set-option -g status-rigth  '#(date)', για να δείχνει στα δεξιά την ημερομηνία, tmux set-option -g status interval 1, για να τρέχει ο χρόνος στα δεξιά ανά ένα δευτερόλεπτο και τέλος, exit για να βγω από το tmux.  
-
-- Για να προσθέσουμε χρώματα στο τερματικό έπρεπε: 
+- Τα βήματα που έπρεπε να ακολουθήσω ήταν τα εξής:
 
 Η υλοποίηση της άσκησης είναι:  
 
