@@ -16,7 +16,7 @@
 | 6 | [Συμμετοχικό περιεχόμενο](#παραδοτέο-6) |
 | 7 | [Άσκηση προγραμματισμού](#παραδοτέο-7) |
 | 8 | [Άσκηση γραμμής εντολών](#παραδοτέο-8) |
-| 9 | Άσκηση προγραμματισμού |
+| 9 | [Άσκηση προγραμματισμού](#παραδοτέο-9) |
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -32,9 +32,9 @@
 ## Παραδοτέο 2
 
 Για το παραδοτέο 2, επέλεξα την άσκηση προγραμματισμού "mouse-scroll". Μέσω ενός random color generator, κάθε φορά που αλλάζει η τιμή εισόδου, το χρώμα της τιμής εξόδου αλλάζει σε ένα τυχαίο χρώμα. 
-Οι διάφορες αλλαγές είναι καταγεγραμμένες με την χρήση σχολίων στον κώδικα.
-
-https://github.com/Geoter711/site/blob/master/_remix/mouse-scroll.md
+Οι διάφορες αλλαγές είναι καταγεγραμμένες με την χρήση σχολίων στον κώδικα.  
+Το link για το repository είναι: https://github.com/Geoter711/site/blob/master/_remix/mouse-scroll.md  
+Για το netlify: https://flamboyant-bartik-3ede5a.netlify.app/remix/mouse-scroll/
 
 ## Παραδοτέο 3 
 
@@ -43,8 +43,10 @@ https://asciinema.org/a/368158
 
 ## Παραδοτέο 4
 
-Για το παραδοτέο 4, επέλεξα την άσκηση προγραμματισμού "button". Κάνοντας κλίκ, ανοίγει μια νέα καρτέλα (tab) στο youtube.
-https://github.com/Geoter711/site/blob/master/_remix/button.md
+Για το παραδοτέο 4, επέλεξα την άσκηση προγραμματισμού "button". Κάνοντας κλίκ, ανοίγει μια νέα καρτέλα (tab) στο youtube.  
+Το link για το repository είναι: https://github.com/Geoter711/site/blob/master/_remix/button.md  
+Για το netlify: https://flamboyant-bartik-3ede5a.netlify.app/remix/button/
+
 
 ## Παραδοτέο 5
 
@@ -79,9 +81,15 @@ https://github.com/Geoter711/site/blob/master/_timeline/videogames.md
 
 
 ## Παραδοτέο 7
-Για το παραδοτέο 7, επέλεξα την άσκηση προγραμματισμού "mouse option". Πρόσθεσα άλλες 2 επιλογές, με την μία να εμφανίζει μια φωτογραφία και την δευτέρη να εμφανίζει ένα embed ενός προηγούμενου παραδοτέου. Το link είναι: https://github.com/Geoter711/site/blob/master/_remix/mouse-option.md 
+Για το παραδοτέο 7, επέλεξα την άσκηση προγραμματισμού "mouse option". Πρόσθεσα άλλες 2 επιλογές, με την μία να εμφανίζει μια φωτογραφία και την δευτέρη να εμφανίζει ένα embed ενός προηγούμενου παραδοτέου.  
+Το link για το repository είναι: https://github.com/Geoter711/site/blob/master/_remix/mouse-option.md  
+Για το netlify: https://flamboyant-bartik-3ede5a.netlify.app/remix/mouse-option/
 
 ## Παραδοτέο 8
 Για το παραδοτέο 8, επέλεξα την άσκηση γραμμής εντολών "organize your notes with emacs". Το link είναι: 
 https://asciinema.org/a/376513
 
+## Παραδοτέο 9 
+Για το παραδοτέο 9, επέλεξα την άσκηση προγραμματισμού "mouse eraser". Άλλαξα τις δύο εικόνες, και έκανα το eraser ποιο μεγάλο.  
+Το link για το repository είναι: https://github.com/Geoter711/site/blob/master/_remix/mouse-eraser.md  
+Για το netlify: https://flamboyant-bartik-3ede5a.netlify.app/remix/mouse-eraser/
