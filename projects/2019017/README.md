@@ -75,15 +75,28 @@ Preview:<br/>
 ![AltText](https://i.imgur.com/aE7C8la.gif)
 
 ## Παραδοτέο 6
+ 
 ### A1)
 
 Πρόσθεσα entry για το **Unreal Engine** [εδώ](https://github.com/p19kala/_gallery/blob/master/unreal-engine.md) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/commit/37fe62e23574ba1648b8b1f049833bbf47378199) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/commit/03c691b5a501f7acdcb789900160c3ac55570835). Tags στο Netlify εμφανίζονται [εδώ](https://p19kala.netlify.app/tags/#epic-games-inc) και [εδώ](https://p19kala.netlify.app/tags/#blueprint)
 
+Πρόσθεσα entry για το **Microsoft Natural Keyboard** [εδώ](https://github.com/p19kala/_gallery/blob/master/microsoft-natural-keyboard.md) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/blob/master/microsoft-natural-keyboard-thumb.jpg) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/blob/master/microsoft-natural-keyboard.jpg). Tags στο Netlify εμφανίζονται [εδώ](https://p19kala.netlify.app/tags/#microsoft και [εδώ](https://p19kala.netlify.app/tags/#keyboard).
+
 ### A2)
 
-Αρχεία που άλλαξα: 
+Αλλαγές: 
+Δημιούργησα ένα καινούργιο χρονολόγιο για συσκευές εισόδου και πρόσθεσα το δικό μου entry και τα προυπάρχοντα Apple Mouse και Engelbart Mouse. Πήρα ως εικόνα για το χρονολόγιο το ποντίκι Engelbart και στο \_gallery έβαλα μια παύλα στο τίτλο των δύο ποντικιών ώστε να το αναγνωρίζει το Netlify.
+
+#### Πρώτη εγγραφή:
 - [programming.md](https://github.com/p19kala/site/commit/e2e20206c3bd5f0d7dd51f4faa21cc19ce23bca2) από το \_timeline. Πρόσθεσα το "unreal-engine". Netlify [link](https://p19kala.netlify.app//timeline/programming/)
 - [tools.md](https://github.com/p19kala/site/commit/b7933af52f1a99df07e79c864b646490ba6cab83) από το \_slides. Πρόσθεσα το "unreal-engine". Netlify [link](https://p19kala.netlify.app//slides/tools/)
+
+#### Δεύτερη εγγραφή:
+- [input-devices.md](https://github.com/p19kala/site/blob/master/_timeline/input-devices.md) από το \_timeline. Netlify [link](https://p19kala.netlify.app//timeline/input-devices/)
+- [archetypes.md](https://github.com/p19kala/site/blob/master/_slides/archetypes.md) από το \_slides. Πρόσθεσα το "microsoft-natural-keyboard". Netlify [link](https://p19kala.netlify.app//slides/archetypes/)
+
+#### Έξτρα:
+- [\_config.yml](https://github.com/p19kala/site/blob/master/_config.yml) για την ενημέρωση όλων των συνδέσμων με το δικό μου url.
 - [.gitmodules](https://github.com/p19kala/site/blob/master/.gitmodules) για το συντονισμό των submodules \_gallery και images στα αντίστοιχα fork μου.
 
 ## Παραδοτέο 7
@@ -163,9 +176,11 @@ Preview:<br/>
 
 Παραδοτέο 6:
 
-- [Unreal Engine wikipedia](https://en.wikipedia.org/wiki/Unreal_Engine)
+- [Unreal Engine info](https://en.wikipedia.org/wiki/Unreal_Engine)
 
 - [Photorealistic forests using UE4](https://www.youtube.com/watch?v=TtIN4_RZwZE)
+
+- [Microsoft Natural Keyboard info](https://en.wikipedia.org/wiki/Microsoft_ergonomic_keyboards)
 
 Παραδοτέο 7:
 
