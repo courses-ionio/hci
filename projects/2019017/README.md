@@ -86,7 +86,7 @@ Preview:<br/>
 
 **Αλλαγές:** 
 
-Δημιούργησα ένα καινούργιο χρονολόγιο για συσκευές εισόδου και πρόσθεσα το δικό μου entry και τα προυπάρχοντα Apple Mouse και Engelbart Mouse. Πήρα ως εικόνα για το χρονολόγιο το ποντίκι Engelbart και στο \_gallery έβαλα μια παύλα στο τίτλο των δύο ποντικιών ώστε να το αναγνωρίζει το Netlify.
+Δημιούργησα ένα καινούργιο χρονολόγιο για συσκευές εισόδου και πρόσθεσα το δικό μου entry και τα προυπάρχοντα Apple Mouse και Engelbart Mouse. Πήρα ως εικόνα για το χρονολόγιο το ποντίκι Engelbart.
 
 #### Πρώτη εγγραφή:
 - [programming.md](https://github.com/p19kala/site/commit/e2e20206c3bd5f0d7dd51f4faa21cc19ce23bca2) από το \_timeline. Πρόσθεσα το "unreal-engine". Netlify [link](https://p19kala.netlify.app//timeline/programming/)
