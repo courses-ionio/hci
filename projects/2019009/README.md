@@ -88,8 +88,13 @@ https://codepen.io/p19barl/pen/PozRgpY
 <a href="https://asciinema.org/a/377990" target="_blank"><img src="https://asciinema.org/a/377990.svg" /></a>
 
 
+#ΠΑΡΑΔΟΤΕΟ 9 (Ασκηση προγραμματισμου)
+Ως παραδοτεο 9 εκανα την ασκηση προγραμματισμου Sortable List οπου δινοταν μια λιστα και ειχα σαν ζητουμενο (Αλλάξτε το χρώμα ή/και το ύψος των στοιχείων της λίστας καθώς και την απόσταση μεταξύ τους).Ετσι για να αλλαξω το χρωμα τον κουτιων της λιστας πηγα στην γραμμη 14 στον ccs κωδικα και στην background-color αλλαξα το χρωμα σε #379,μετα για να αλλαξω το υψος πηγα στην γραμμη 12 και στην height και αλλαξα την τιμη σε 28px και τελος για να αλλαξω την αποσταση μεταξυ των στοιχειων πηγα στην γραμμη 8 αλλαξα την τιμη margin σε 0 3px (25px) 3px 
 
 
 
 
 
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+https://codepen.io/p19barl/pen/JjRKzGg
