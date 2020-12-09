@@ -44,14 +44,16 @@ https://2019239.netlify.app
 Γενικές παρατηρήσεις: Χρονοβόρα (μετρημένη σε ώρες...) η εγκατάσταση των διαφόρων εργαλείων για την εκτέλεση διαφόρων ασκήσεων. Αντιμετώπισα προβλήματα με ένα σύστημα Windows με WSL και τώρα συνεχίζω με σύστημα MacOS. Μιας και η προηγούμενη γνώση από χρήση γραμμής εντολών είναι μηδενική, ξεκινάω κυριολεκτικά από το 0 με μεγάλες δυσκολίες.
 Οι ασκήσεις που έκανα είναι οι παρακάτω:
 
-* 1η άσκηση:https://asciinema.org/a/AJEWxOiDefBoG95G61JMN4nVv
+* 1η άσκηση
 
 [![asciicast](https://asciinema.org/a/AJEWxOiDefBoG95G61JMN4nVv.svg)](https://asciinema.org/a/AJEWxOiDefBoG95G61JMN4nVv)
 
 
 Το ΑΜ μου φαίνεται στο command prompt. Εμφάνιση λίστας αρχείων. Εμφάνιση πληροφοριών συστήματος (hardware+software). Εμφανίζω configuration files, δεν είμαι σίγουρος αν είναι τα ζητούμενα.
 
-* 2η άσκηση:https://asciinema.org/a/FG5uDdvhravDTWD9wi1sPgXpO
+* 2η άσκηση
+
+[![asciicast](https://asciinema.org/a/FG5uDdvhravDTWD9wi1sPgXpO.svg)](https://asciinema.org/a/FG5uDdvhravDTWD9wi1sPgXpO)
 
 Με βοήθησε πολύ το https://github.com/Idnan/bash-guide και κατάφερα κάποιες βασικές λειτουργίες, όπως να δημιουργήσω κάποια αρχεία, να τα ανοίξω και να τα επεξεργαστώ.
 
