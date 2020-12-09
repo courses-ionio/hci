@@ -131,6 +131,8 @@ https://2019239.netlify.app/remix/form-validation/
 
 ## Άσκηση προγραμματισμού 4
 
+* Άσκηση 1
+
 Ασχολήθηκα με την άσκηση Menu Scroll. Δημιουργήσαμε ένα επιπλέον στοιχείο στο μενού (Section 05) και μια αντίστοιχη ενότητα/κεφάλαιο στο τέλος της σελίδας. Ακόμα εφαρμόσαμε την λειτουργία scroll-to συνδέοντας το μενού με την καινούρια ενότητα/κεφάλαιο. Όλα αυτά παρουσιάζονται στο παρακάτω link:
 
 https://github.com/Thanozz/site/blob/master/_remix/menu-scroll.md
@@ -138,6 +140,17 @@ https://github.com/Thanozz/site/blob/master/_remix/menu-scroll.md
 Η παραπάνω φόρμα βρίσκεται και στο fork του αποθετηρίου του βιβλίου "Ο προγραμματισμός της διάδρασης" στις ασκήσεις του drop down menu.
 
 https://2019239.netlify.app/remix/menu-scroll/
+
+* Άσκηση 2
+
+Δούλεψα πάνω στο YouTube Video Player. Η άσκηση ζητάει να δημιουργηθούν δύο κουμπιά ένα για αναπαραγωγή () και ένα για παύση () του μουσικού βίντεο. Το αποτέλεσμα παρουσιάζεται στο παρακάτω link:
+
+https://github.com/Thanozz/site/blob/master/_remix/youtube-video-player.md
+
+Ακόμα η παραπάνω άσκηση υπάρχει και στο fork του αποθετηρίου του βιβλίου "Ο προγραμματισμός της διάδρασης" στις ασκήσεις του drop down menu.
+
+https://2019239.netlify.app/remix/youtube-video-player/
+
 
 ## Άσκηση γραμμής εντολών 4
 
