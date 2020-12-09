@@ -147,6 +147,10 @@ https://2019239.netlify.app/remix/menu-scroll/
 
 https://github.com/Thanozz/site/blob/master/_remix/youtube-video-player.md
 
+Μεγάλη βοήθεια για την πραγματοποίηση της άσκησης μου προσέφερε το παρακάτω link:
+
+https://codepen.io/AmrSubZero/pen/oLOYrA
+
 Ακόμα η παραπάνω άσκηση υπάρχει και στο fork του αποθετηρίου του βιβλίου "Ο προγραμματισμός της διάδρασης" στις ασκήσεις του drop down menu.
 
 https://2019239.netlify.app/remix/youtube-video-player/
