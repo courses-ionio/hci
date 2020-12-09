@@ -140,7 +140,7 @@ document.onkeydown = function(e) {<br>
  
  
  
- Άσκηση: <a href="https://github.com/TaniaStoupi/site/blob/master/_remix/image.md"></a><br>
+ Άσκηση: <a href="https://github.com/TaniaStoupi/site/blob/master/_remix/image.md">ImageSVG</a><br>
  Λινκ για την άσκηση στο δικό μου αποθετήριο του βιβλίου: https://taniastoupi.netlify.app/remix/image/
  
  <h6>Βιβλιογραφία</h6> 
