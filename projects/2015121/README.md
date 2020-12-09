@@ -92,7 +92,13 @@ Link για το asciinema: https://asciinema.org/a/371320
 ## Βήματα:
 Cloning του **/_gallery** βιβλίου: https://asciinema.org/a/373311
 
+Δημιουργία submodule **/_gallery**: https://asciinema.org/a/378246
+
 **Link για το αποθετήριο εικόνας:** https://github.com/apostoloskp/_gallery/blob/master/apple-smartwatchs6.md
+
+**Link για το site μου μέσω netlify:** https://p15kabl.netlify.app/
+
+*Δεν μου εμφανίζει την εικόνα στο site και δεν ολοκληρώνεται η δημιουργία submodule για το _gallery όπως φαίνεται παραπάνω*
 
 ###### [7]
 
