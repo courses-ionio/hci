@@ -57,7 +57,9 @@ https://2019239.netlify.app
 
 Με βοήθησε πολύ το https://github.com/Idnan/bash-guide και κατάφερα κάποιες βασικές λειτουργίες, όπως να δημιουργήσω κάποια αρχεία, να τα ανοίξω και να τα επεξεργαστώ.
 
-* 3η άσκηση:https://asciinema.org/a/TiQFb9PNyNOfs3UMwzEEGdiWR
+* 3η άσκηση
+
+[![asciicast](https://asciinema.org/a/TiQFb9PNyNOfs3UMwzEEGdiWR.svg)](https://asciinema.org/a/TiQFb9PNyNOfs3UMwzEEGdiWR)
 
 Πραγματοποίησα την άσκηση όπου κατεβάζεις και αναπαράγεις τραγούδι από το youtube μέσω terminal με τη χρήση εργαλείων όπως το youtube-dl και το mpv. Σχετικά με την καταγραφή της οθόνης χρησιμοποίησα εφαρμογή του υπολογιστή.
 
