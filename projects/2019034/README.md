@@ -8,7 +8,7 @@
 | 2 |<li><a href="#Image Processing"><span class="toctext">Image Processing</span></a>| 
 | 3 |<li><a href="#Browse & View Files"><span class="toctext">Browse & View Files</span></a>|
 | 4 |<li><a href="#Image Zoom"><span class="toctext">Image Zoom</span></a>|
-| 5 |<li><a href="#grammi entolwn"><span class="toctext">grammi entolwn</span></a>|
+| 5 |Άσκηση γραμμής εντολών (SW)|
 | 6 |<li><a href="#Συμμετοχικό περιεχόμενο"><span class="toctext">Συμμετοχικό περιεχόμενο Α1 και Α2</span></a>|
 | 7 |<li><a href="#Mouse Form"><span class="toctext">Mouse Form</span></a>|
 | 8 | Άσκηση γραμμής εντολών (SW) |
