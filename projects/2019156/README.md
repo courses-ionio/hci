@@ -69,10 +69,12 @@
 > Το url για την άσκσηση στο CodePen : [Menu scroll](https://codepen.io/p2019156/pen/eYzVdax)
 > #### Πηγές:[[Βootstrap](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)]
 
-> ## [Status_bar](https://asciinema.org/a/AYyArRL95oGX5A4FvMFAe62bp)
-> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) ζητάει να επεξεργαστούμε και να διαμορφώσουμε το shell ή τον editor προσθέτοντας ένα status bar και να αλλάξουμε το color theme.Επειδή έχω ήδη τροποποιήσει το bash,επέλεξα να τροποποιήσω τον vim editor,προσθέτοντας το powerline το οποίο είναι ένα status bar και για τον vim editor αλλά και το bash.
+> ## [Status_bar](https://asciinema.org/a/KGxfOHVLzU7XjOqPebGBU83eW)
+> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) ζητάει να επεξεργαστούμε και να διαμορφώσουμε το shell ή τον editor προσθέτοντας ένα status bar και να αλλάξουμε το color theme.Επειδή έχω ήδη τροποποιήσει το vim editor,επέλεξα να τροποποιήσω το shell,προσθέτοντας το powerline το οποίο είναι ένα status bar και για τον vim editor αλλά και το bash.Επειδή όμως για να εμφανιστούν οι αλλάγες στο bash πρέπει να το κλείσω και να το ξαναανοίξω παρουσιάζω και ένα ακόμα screenshot με την αλλαγή.
 >
-> ![Στιγμιότυπο από 2020-12-06 18-49-44](https://user-images.githubusercontent.com/72353939/101286601-0f1c6880-37f4-11eb-890b-4c010b5d43f7.png)
+> ![Στιγμιότυπο από 2020-12-09 14-20-17](https://user-images.githubusercontent.com/72353939/101629574-3e1c1f80-3a2a-11eb-9dcf-871207055144.png)
+>
+> ![Στιγμιότυπο από 2020-12-09 14-07-33](https://user-images.githubusercontent.com/72353939/101628245-322f5e00-3a28-11eb-895b-f497c26949e8.png)
 > #### Πηγές[[powerline](https://github.com/powerline/powerline)] [[Opensource](https://opensource.com/article/19/12/colors-themes-vim)]
 
 > ## [You_Tube_video_player](https://github.com/Anastasia-Rizou/site/blob/master/_remix/youtube-video-player.md)
