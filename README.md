@@ -46,7 +46,7 @@ https://2019239.netlify.app
 
 * 1η άσκηση:https://asciinema.org/a/AJEWxOiDefBoG95G61JMN4nVv
 
-<script src="https://asciinema.org/a/AJEWxOiDefBoG95G61JMN4nVv.js"></script>
+[![asciicast](https://asciinema.org/a/AJEWxOiDefBoG95G61JMN4nVv.svg)](https://asciinema.org/a/AJEWxOiDefBoG95G61JMN4nVv)
 
 
 Το ΑΜ μου φαίνεται στο command prompt. Εμφάνιση λίστας αρχείων. Εμφάνιση πληροφοριών συστήματος (hardware+software). Εμφανίζω configuration files, δεν είμαι σίγουρος αν είναι τα ζητούμενα.
