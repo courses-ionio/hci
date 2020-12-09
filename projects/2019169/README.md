@@ -138,6 +138,8 @@ document.onkeydown = function(e) {<br>
  
  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72350589/101651909-43876300-3a46-11eb-8787-f9ab30ee0a5f.gif)
  
+ 
+ 
  Άσκηση: <a href="https://github.com/TaniaStoupi/site/blob/master/_remix/image.md"></a><br>
  Λινκ για την άσκηση στο δικό μου αποθετήριο του βιβλίου: https://taniastoupi.netlify.app/remix/image/
  
