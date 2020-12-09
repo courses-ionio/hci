@@ -9,8 +9,8 @@
 | 4 | Άσκηση προγραμματισμού <li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span><a>|
 | 5 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών </span></a>|
 | 6 | Συμμετοχικό περιεχόμενο <li><a href="#Συμμετοχικό Περιεχόμενο"></span> <span class="toctext">Συμμετοχικό Περιεχόμενο</span></a> |
-| 7 | Άσκηση προγραμματισμού<li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
-| 8 | Άσκηση γραμμής εντολών (SW) |
+| 7 | Άσκηση προγραμματισμού <li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
+| 8 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών </span></a> |
 | 9 | Άσκηση προγραμματισμού <li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -56,11 +56,21 @@
 - Χρονολόγιο: https://github.com/PetroulaStylianou/site/blob/master/_timeline/videogames.md
 
 
+<h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
+
+<i><a href="https://asciinema.org/a/378276" tittle="Edit the vim or the shell configuration file.">Edit the vim or the shell configuration file.</a></i>
+
+Σκοπός της άσκησης ήταν η επεξεργασία του vim. Δημιούργησα ένα αρχείο με τα στοιχεία μου ονομάζοντας το Test1. Επιπλέον, μέσω του virtual mode έκανα αντιγραφή και επικόλληση των στοιχείων μου.
+
+
 <h2><span id="Άσκηση Προγραμματισμού">Άσκηση Προγραμματισμού</span></h2>
 
 <i><a href="https://github.com/PetroulaStylianou/site/blob/master/_remix/mouse-button.md" tittle="Mouse button">Mouse button</a></i>
 
 Σκοπός της άσκησης ήταν να τροποποιήσουμε το παράδειγμα δημιουργώντας ένα 2ο κουμπί που θα εκτελεί την ανάποδη λειτουργία απο αυτή του κουμπιοού 'another'. Το νεό κουμπί πρέπει να εμφανίζει το μήνυμα που είχε εμφανιστεί προηγουμένως.
+
+
+
 
 
 
