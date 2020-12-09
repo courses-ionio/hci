@@ -75,7 +75,7 @@
 > ![Στιγμιότυπο από 2020-12-09 14-20-17](https://user-images.githubusercontent.com/72353939/101629574-3e1c1f80-3a2a-11eb-9dcf-871207055144.png)
 >
 > ![Στιγμιότυπο από 2020-12-09 14-07-33](https://user-images.githubusercontent.com/72353939/101628245-322f5e00-3a28-11eb-895b-f497c26949e8.png)
-> #### Πηγές[[powerline](https://github.com/powerline/powerline)] [[Opensource](https://opensource.com/article/19/12/colors-themes-vim)]
+> #### Πηγές[[powerline](https://powerline.readthedocs.io/en/latest/installation/linux.html)] [[Opensource](https://opensource.com/article/19/12/colors-themes-vim)]
 
 > ## [You_Tube_video_player](https://github.com/Anastasia-Rizou/site/blob/master/_remix/youtube-video-player.md)
 >
