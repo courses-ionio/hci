@@ -10,7 +10,7 @@
 | 2 |[Mouse option ](#Mouse_option) |
 | 3 | [warmup](#topic_warmup) |
 | 4 | [Mouse form ](#Mouse_form) |
-| 5 |[Vim](#Vim)   |
+| 5 |[Hci](#download-mp3)   |
 | 6 |[Archetypes](#Archetypes)|
 | 7 |[Menu scroll](#menu_scroll)|
 | 8 |[Hci-Status bar](#Status_bar)|
@@ -50,10 +50,10 @@
 > Το url για την άσκσηση στο CodePen :[Mouse form](https://codepen.io/p2019156/pen/XWKZNYm)
 > #### Πηγές:[ [HTML](https://www.w3schools.com/html/)].
 
-> ## [Vim](https://asciinema.org/a/xqek3iWrWjr8nXDr9CmLl1bAf)
-> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) έχει ως ζητούμενο την διαμόρφωση του vim editor ή του shell για την αυτόματη συμπλήρωση λέξεων,κώδικα αλλα και το highlighting των δεσμευμένων λέξεων κώδικα.
-> ![Στιγμιότυπο από 2020-12-06 19-18-53](https://user-images.githubusercontent.com/72353939/101287281-fe6df180-37f7-11eb-91c2-4b5c32e4ac56.png)
-> #### Πηγές[[Vim](https://www.vim.org/)] [[linuxhint](https://linuxhint.com/vim_auto_complete/)]
+> ## [download-mp3](https://asciinema.org/a/fNqQxrhKkFkM2D8yb665NU06E)
+> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) μας ζητάει να κατεβάσουμε στο τερματικό μας,με τη βοήθεια του youtube-ld ένα τραγούδι και να το αναπαραγάγουμε επίσης μέσα από το τερματικό.Η δυσκολία που αντιμετώπισα ήταν με τη ytsearch εντολή,η οποία είναι για την αναζήτηση στο youtube ενός συγκεκριμένου τραγουδιού ή βίντεο.Επίσης δεν είμαι ευχαριστημένη από την αναπαραγωγή μέσα απο το vlc.
+> ![Στιγμιότυπο από 2020-12-09 13-03-02](https://user-images.githubusercontent.com/72353939/101621914-0a87c800-3a1f-11eb-923f-bd28f513bb05.png)
+> #### Πηγές[[youtube-dl](https://github.com/ytdl-org/youtube-dl)] [[VLC](https://www.videolan.org/)] [[Tecmint](https://www.tecmint.com/download-mp3-song-from-youtube-videos/)]
 > 
 > ## [Archetypes](https://pibook.epidro.me/chapter/archetypes/)
 > [archetypes.md](https://github.com/Anastasia-Rizou/site/blob/master/_slides/archetypes.md)
