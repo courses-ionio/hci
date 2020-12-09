@@ -12,7 +12,7 @@
 | 6 | <li><a href="#Συμμετοχικό_Περιεχόμενο(Α1,Α2)."><span class="toctext">Συμμετοχικό_Περιεχόμενο(Α1,Α2).</span></a> Commit:20/11/2020|
  | 7 | <li><a href="#Image_Zoom."><span class="toctext">Image_Zoom.</span></a> Commit: 20/11/2020|
   | 8 | <li><a href="#Solarized."><span class="toctext">Solarized.</span></a> Commit: 1/12/2020|
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+   | 9 | <li><a href="#ImageSVG."><span class="toctext">ImageSVG.</span></a> Commit: 9/12/2020|
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
@@ -130,4 +130,18 @@ document.onkeydown = function(e) {<br>
 <a href="https://github.com/tpope/vim-pathogen">Vim pathogen(tpope repository)<br>
  <a href="https://github.com/epidrome/dokey#hci">Λίστα με τις ασκήσεις γραμμής εντολών.</a><br>
  <a href="https://asciinema.org">Asciinema</a></ul>
+ 
+ <hr></hr>
+ 
+ <h2><span id="ImageSVG.">ImageSVG.</span></h2>
+ <p> Για την υλοποίηση της άσκησης προγραμματισμού έπρεπε να φτιάξουμε μια εικόνα ίδια με την υπάρχουσα που να εκτελεί τις ίδιες λειτουργίες άλλα να έχει το μισό μέγεθος από την ήδη υπάρχουσα εικόνα. Η άσκηση χρησιμοποιούσε τις εικόνες SVG που υλοποιούνται σε html και με την λειτουργία hover του ποντικιού η εικόνα από πράσινη άλλαζε σε μαύρη. Για να δημιουργήσω μια ίδια εικόνα του μισού μεγέθους από αυτήν χρησιμοποιήσα ακριβώς τον ίδιο κώδικα ώστε να δημιουργηθούν 2 εικόνες και μείωσα το ύψος της δεύτερης εικόνας στο μισό ώστε να έχει ακριβώς το μισό μέγεθος από την ήδη υπάρχουσα εικόνα. </p>
+ 
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72350589/101651909-43876300-3a46-11eb-8787-f9ab30ee0a5f.gif)
+ 
+ Άσκηση: <a href="https://github.com/TaniaStoupi/site/blob/master/_remix/image.md"></a><br>
+ Λινκ για την άσκηση στο δικό μου αποθετήριο του βιβλίου: https://taniastoupi.netlify.app/remix/image/
+ 
+ <h6>Βιβλιογραφία</h6> 
+ <ul>  <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
+  <br> <a href="https://codepen.io">Codepen.</a> </ul>
   
