@@ -14,15 +14,16 @@
 | 4 | [2η Άσκηση προγραμματισμού CSS Queries](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#2%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D)  |
 | 5 | [2η Άσκηση γραμμής εντολών check the weather](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#2%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
 | 6 | [Συμμετοχικό περιεχόμενο](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF) |
-| 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
-| 8 | [3η Άσκηση προγραμματισμού Menu slide](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#3%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D) |
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
-| 10 | συμμετοχικό περιεχόμενο |
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
+| 7 | [3η Άσκηση προγραμματισμού Menu slide](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#3%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D) |
+| 8 | Άσκηση γραμμής εντολών  |
+| 9 | [4η Άσκηση προγραμματισμού Menu slide] |
+| 10 | Άσκηση γραμμής εντολών |
+| 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά* |
 
 ## Εισαγωγή
 Οι προσδοκίες μου είναι μέσα από το μάθημα να διδαχθώ την αλληλεπίδραση των ανθρώπων με σύγχρονες τεχνολογίες, αλλά και εργαλεία για τον σχεδιασμό και την ανάπτυξη διαδραστικών συστημάτων. Οι ανάγκες μου αναφορικά με το πρόγραμμα του μαθήματος, είναι κατα κύριο λόγο η εκμάθηση χρήσης του εργαλείου github μέσω της συνεχής ανάγνωσης των οδηγιών του μαθήματος αλλα και την παρακολούθηση και συμμετοχή στα διαδικτυακά μαθήματα. Ακόμα η εκμάθηση εντολών στην γραμμή εντολών, αλλα και η εξοικείωση μου με την χρήση της. Όλα αυτα θα επιτευχθούν κάνοντας πρακτική των εργαλείων αυτών για την δημιουργία των παραδοτέων, αλλα και με την βοήθεια των μαθημάτων και την συμμετοχη των μαθητών με ερωτήσεις αλλα και προβληματισμούς ώστε να μην υπάρχουν κενά κατά την εκμάθηση τους.
+
 
 ## 1η Άσκηση προγραμματισμού
 ### Button
@@ -37,6 +38,7 @@
 - https://www.w3schools.com/css/css_icons.asp
 - https://fontawesome.com/kits/7496a014f8/use?welcome=yes
 - https://fontawesome.com/icons/bell-slash?style=regular
+
 
 ## 1η Άσκηση γραμμής εντολών
 ### Become productive with a todo list(create a list of todos, edit, delete, and check some of them)
@@ -54,6 +56,7 @@
 - https://taskwarrior.org/docs/examples.html
 - https://taskwarrior.org/docs/commands/modify.html
 - https://taskwarrior.org/docs/30second.html
+
 
 ## 2η Άσκηση προγραμματισμού
 ### CSS Queries
@@ -93,6 +96,7 @@
 - https://www.w3schools.com/colors/colors_picker.asp?colorhex=FFFFFF
 - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries
 
+
 ## 2η Άσκηση γραμμής εντολών
 ### Fetch the weather forecast for your home city and one more city that you want to travel to.
 #### [Asciinema link 2ης Άσκηση γραμμής εντολών](https://asciinema.org/a/EcYJU4GpdfkdIhWSzRTpPGNA5) 
@@ -103,6 +107,7 @@
 Το βίντεο που κατέγραψα στο Asciinema δεν απεικονίζει όσο καλά θα ήθελα την άσκηση λόγο ότι το Asciinema δεν παρέχει την δυνατότητα να προβάλεις το τερματικό σου μέσω της γραμμής κύλισης. Έτσι λόγο το ότι το wttr προβάλει την τοποθεσία που κάνεις πρόγνωση στην αρχή της απεικόνισης στο τερματικό το Asciinema αδυνατεί να προβάλλει την τοποθεσία. [Έδω](https://github.com/asciinema/asciinema-player/issues/25) το αντίστοιχο θέμα για το παραπάνω ζήτημα.
 Οδηγίες για την χρήση του εργαλείου έλαβα από τον ακόλουθο σύνδεσμο:
 -https://github.com/chubin/wttr.in
+
 
 ## Συμμετοχικό περιεχόμενο
 ### Παραδοτέο 1
@@ -120,8 +125,6 @@
 2. Δημιουργία χρονολογίου: Δημιούργησα νέο χρονολόγιο ονόματι [Συσκευές Εισόδου-Ποντίκια](https://github.com/Kavvadias/site/blob/master/_timeline/mouses.md) με τις δύο φωτογραφίες που πρόσθεσα και φωτογραφίες που ήδη υπάρχουν.
 
 
-
-
 ## 3η Άσκηση προγραμματισμού
 ### Menu slide
 #### [Αποθετήριο κώδικα 3ης Άσκησης προγραμματισμού](https://github.com/Kavvadias/site/blob/master/_remix/menu-slide.md)
@@ -136,6 +139,47 @@
 - Μείωσα το μέγεθος του κουμπιού αφού από "LEFT ή RIGHT MENU" έγινε σκέτο "MENU", στο κομμάτι κώδικα ***cont-btn {max-width: 200px;}***
 - Άλλαξα το χρώμα του κουμπιού και του μενού όταν το ποντίκι ακουμπάει πάνω, στα κομμάτια κώδικα ***.btn:hover {background: #999966;}*** και ***a:hover{background-color:#999966;}***
 - Τέλος άλλαξα το μέγεθος πλάτους του μενού ***.cont-nav {width: 180px;}***, οπότε αναγκάστηκα να αλλάξω και το μέγεθος πλάτους και στην αλλαγή του χρώματος όταν το ποντίκι βρίσκεται στο μενού ***a {width: 165px;}***.
+
+
+## 3η Άσκηση γραμμής εντολών
+### 
+#### [Asciinema link 3ης Άσκηση γραμμής εντολών]
+
+
+## 4η Άσκηση προγραμματισμού
+### Menu pie
+#### [Αποθετήριο κώδικα 4ης Άσκησης προγραμματισμού](https://github.com/Kavvadias/site/blob/master/_remix/menu-pie.md)
+
+*Αλλαγές*
+1. Διέγραψα τα περιττά στοιχεία απο τις επιλογές του μενού μενού. Αφαιρόντας το παρακάτω κομμάτι κώδικα.
+***<li><a href="#"><span>Clothes</span></a></li>
+      <li><a href="#"><span>Games</span></a></li>
+      <li><a href="#"><span>Stationary</span></a></li>
+      <li><a href="#"><span>Toys</span></a></li>
+      <li><a href="#"><span>Books</span></a></li> 
+      <li><a href="#"><span>Login</span></a></li>
+      <li><a href="#"><span>Register</span></a></li>
+      <li><a href="#"><span>Sell</span></a></li>***
+
+2. Στην συνέχεια αφαίρεσα κουμπιά του μενού και κράτησα τέσσερα απο αυτά. Αφαιρόντας οκτώ απο τα "παιδιά" του μενού.
+***.csstransforms .opened-nav li:nth-child(5-12)***
+
+3. Τέλος διαμόρφωσα τις επιλογές του μενού ώστε να εμφανίζονται κατάλληλα καθόλη την περιοχή του πάνω ημισφαιρίου του κουμπιού. Αυτό το επίτευξα αλλάζοντας τις μοίρες τών transform για κάθε παιδί. Συγκεκριμένα απο 30, 60 και 90 μοίρες έγιναν 50, 100, 150 μοίρες. 
+Παράδειγμα 4ου παιδιού : 
+.csstransforms .opened-nav li:nth-child(4) {
+ -webkit-transform: rotate(150deg) skew(62deg);
+ -moz-transform: rotate(150deg) skew(62deg);
+ -ms-transform: rotate(150deg) skew(62deg);
+ transform: rotate(150deg) skew(62deg);
+}
+
+
+## 4η Άσκηση γραμμής εντολών
+### 
+#### [Asciinema link 4ης Άσκηση γραμμής εντολών]
+
+
+
 
 
 	
