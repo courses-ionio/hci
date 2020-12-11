@@ -152,15 +152,8 @@
 
 *Αλλαγές*
 1. Διέγραψα τα περιττά στοιχεία απο τις επιλογές του μενού μενού. Αφαιρόντας το παρακάτω κομμάτι κώδικα.
-***<li><a href="#"><span>Clothes</span></a></li>
-      <li><a href="#"><span>Games</span></a></li>
-      <li><a href="#"><span>Stationary</span></a></li>
-      <li><a href="#"><span>Toys</span></a></li>
-      <li><a href="#"><span>Books</span></a></li> 
-      <li><a href="#"><span>Login</span></a></li>
-      <li><a href="#"><span>Register</span></a></li>
-      <li><a href="#"><span>Sell</span></a></li>***
-
+<li><a href="#"><span>Clothes</span></a></li>"
+      
 2. Στην συνέχεια αφαίρεσα κουμπιά του μενού και κράτησα τέσσερα απο αυτά. Αφαιρόντας οκτώ απο τα "παιδιά" του μενού.
 ***.csstransforms .opened-nav li:nth-child(5-12)***
 
