@@ -158,12 +158,12 @@
 
 3. Τέλος διαμόρφωσα τις επιλογές του μενού ώστε να εμφανίζονται κατάλληλα καθόλη την περιοχή του πάνω ημισφαιρίου του κουμπιού. Αυτό το επέτυχα αλλάζοντας τις μοίρες τών transform για κάθε παιδί. Συγκεκριμένα απο 30, 60 και 90 μοίρες έγιναν 50, 100, 150 μοίρες. 
 Παράδειγμα 4ου παιδιού : 
-.csstransforms .opened-nav li:nth-child(4) {
+***.csstransforms .opened-nav li:nth-child(4) {
  -webkit-transform: rotate(150deg) skew(62deg);
  -moz-transform: rotate(150deg) skew(62deg);
  -ms-transform: rotate(150deg) skew(62deg);
  transform: rotate(150deg) skew(62deg);
-}
+}***
 
 
 ## 4η Άσκηση γραμμής εντολών
