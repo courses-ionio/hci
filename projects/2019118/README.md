@@ -16,7 +16,7 @@
 | 6 | [Άσκηση προγραμματισμού + συμμετοχικό περιεχόμενο](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-5:~:text=weather%22-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%206) |
 | 7 | [Άσκηση γραμμής εντολών](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου-2:~:text=%CE%B1%CF%85%CF%84%CF%8C.-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%207) |
 | 8 | [Άσκηση προγραμματισμού](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-7:~:text=pandoc%22-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%208) |
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά |
@@ -123,3 +123,7 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 Το μενού εμφανίζει μόνο 4 λειτουργίες με μία μικρή αλλαγή στον κώδικα. Παρόλο που δεν αφαίρεσα το κομμάτι των λειτουργιών στη JavaScript & CSS μπορούμε να καταλάβουμε ότι δε χρειάζεται σε τόσο μικρές λειτουργίες γιατί το performance δεν παίζει σημαντικό ρόλο.
 
 <img src= "https://i.imgur.com/ZNIaPXe.gif">
+
+## Παραδοτέο 9
+
+[Άσκηση Γραμμής Εντολών "	search, download and play (with the terminal) your favorite song of the month from youtube"](https://asciinema.org/a/BKkNm6eH9OsmhuJWdZ4KXG9UB)
