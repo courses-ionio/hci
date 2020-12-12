@@ -12,14 +12,14 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα |
-| 2 | Άσκηση προγραμματισμού |
-| 3 | Άσκηση γραμμής εντολών |
-| 4 | Άσκηση προγραμματισμού |
-| 5 | Άσκηση γραμμής εντολών |
-| 6 | συμμετοχικό περιεχόμενο |
-| 7 | Άσκηση προγραμματισμού |
-| 8 | Άσκηση γραμμής εντολών |
-| 9 | Άσκηση προγραμματισμού |
+| 2 | Άσκηση προγραμματισμού |[2](https://github.com/p13giag/site/blob/master/_remix/button.md)
+| 3 | Άσκηση γραμμής εντολών |[3](https://asciinema.org/a/hLDShqnr6ZNgDOd8i5YEEfCrG)
+| 4 | Άσκηση προγραμματισμού |[4](https://github.com/p13giag/site/blob/2013125/_remix/image.md)
+| 5 | Άσκηση γραμμής εντολών |[5](https://asciinema.org/a/QZmPztfYWq8gXteJeYC8ofJa8)
+| 6 | συμμετοχικό περιεχόμενο |[6]
+| 7 | Άσκηση προγραμματισμού |[7](https://github.com/p13giag/site/blob/2013125/_remix/form-validation.md)
+| 8 | Άσκηση γραμμής εντολών |[8](https://asciinema.org/a/fennDBfGDVfst08jiunqhVMGJ)
+| 9 | Άσκηση προγραμματισμού |[9](https://github.com/p13giag/site/blob/master/_remix/css-queries.md)
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -56,7 +56,7 @@
 ## Παραδοτέο 4
 ## Άσκηση Προγραμματισμού
 ## Image
-[Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/master/_remix/image.md)
+[Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/2013125/_remix/image.md)
 
 [Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 [Σύνδεσμος Βιβλιογραφίας 2](https://www.w3schools.com/csS/css3_flexbox.asp)
@@ -86,13 +86,15 @@
  [Εικόνα 2 :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_3g.png)
  [Εικόνα 2 160px :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_3g-thumb.png)
 ## Παραδοτέο 2 Α2 : Ένα σετ από Θεματικές Διαφάνειες και ένα Χρονολόγιο
+
 [Θεματικές Διαφάνειες](https://github.com/p13giag/site/blob/2013125/_timeline/mobile.md)
+
 [Χρονολόγιο] (https://github.com/p13giag/site/blob/2013125/_timeline/mobile.md)
 
 ## Παραδοτέο 7
 ## Άσκηση Προγραμματισμού
 ## Form Validation
-[Σύνδεσμος Άσκησης](https://codepen.io/p13giag/pen/mdELmBr)
+[Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/2013125/_remix/form-validation.md)
 
 ## Αλλαγές στην Άσκηση του προγραμματισμού
 ## SubmitHandler για τον έλεγχο του Ελληνικού τηλεφωνικό νούμερο
