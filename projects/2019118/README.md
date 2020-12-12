@@ -89,7 +89,7 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 
 [Διαφάνεια Skyrim](https://github.com/Vuxxs/site/blob/master/_case-study/skyrim.md)
 
-[Διαφάνεια Borderlands](https://github.com/Vuxxs/site/blob/master/_case-study/borderlands.md) // Προσωρινή αφαίρεση επειδή προκαλούσε προβλήματα.
+[Διαφάνεια Borderlands](https://github.com/Vuxxs/site/blob/master/_case-study/borderlands.md)
 
 ### Εκπλήρωση ζητούμενων παραδοτέου 
 
