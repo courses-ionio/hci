@@ -14,7 +14,7 @@
 | 7 |**[Image processing](#image-processing)**|
 | 8 |**[Download mp3](#Download-mp3)**|
 | 9 |**[Image zoom](#Image-zoom)**|
-| 10 | συμμετοχικό περιεχόμενο |
+| 10 |**[manage your bookmarks](#Manage-your-bookmarks)**|
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
@@ -102,6 +102,11 @@
 <img height=400 width=600 src="https://i.postimg.cc/6qcVBMSD/Screenshot-from-2020-11-29-23-20-15.png" >
 <p/>
 
+### Manage your bookmarks
+Η αναζήτηση στο διαδίκτυο είναι κάτι πολύτιμο, αφού αποκτάμε πληροφορίες και ψυχαγωγία. Αυτό μπορεί να γίνει με το εργαλείο **Buku**. Ουσιαστικά προσομοιάζεται σαν ένας browser στα πλαίσια της γραμμής εντολών και η βαρύτητα δίνεται στην αποθήκευση των συνδέσμων(url) που επιθυμούμε να τους ξαναχρησημοποιύμε. Στο παρακάτω **asciinema** πραγματοποίησα έναν συνδυασμό του **Googler** με το οποίο αναζητώ συνδέσμους όπως και στην προηγούμενη άσκηση και στην συνέχεια τους επεξεργάζομαι με το **Buku**. Αναλυτικότερα έκανα χρήση πολύ βασικών εντολών καθώς υπάρχουν πάρα πολλές που εξυπηρετούν τις ανάγκες του κάθε χρήστη. Έχοντας τα url με σκοπό να τα αποθηκεύσουμε γράφουμε `buku -w nano(ή οποιοδήποτε text editor)` , ύστερα για να δούμε την λίστα μας με τα bookmarks `buku -u (εμφανίζει όλη τη λίστα) ή buku -p number(1,2,3..) (εμφανίζει το συγκεκριμένο bookmark)` ,καθώς για να κάνουμε διαγραφή `buku -d (διαγραφή όλων των bookmarks) ή buku -d number(1,2,3...) (διαγραφή όλων των bookmarks)`.
+
+  * Παρουσίαση με: [asciinema](https://asciinema.org/a/378864)
+<br>
 # Συμμετοχικό περιεχόμενο
 
 Ώς πρώτη επαφή με το συμμετοχικό περιεχόμενο αποφάσισα να κάνω αναφορά σε δύο εντυπωσιακές καινοτομίες το Siri και το projection keyboard. Που είναι σχετικά σύγχρονες ιδέες και σχετίζονται με την διάδραση και αλληλεπίδραση του ανθρώπου με τους υπολογιστές.
@@ -132,6 +137,7 @@ image zoom: [backround colour](https://www.w3schools.com/cssref/pr_background-im
        Mpv:<br>
      - [Github](https://github.com/mpv-player/mpv)<br>
      - [Youtube](https://www.youtube.com/watch?v=BbP0VRISSk0)<br>
+ *  Manage your bookmarks: [github](https://github.com/jarun/Buku) <br>
 ### Συμμεχοτικό περιεχόμενο
 - [Crop thumb images](https://www.img2go.com/)
 - [gitsubmodules](https://github.blog/2016-02-01-working-with-submodules/)
