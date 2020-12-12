@@ -109,7 +109,7 @@
 <br>
 <p align="center">
 <img height=400 width=800 src="https://i.postimg.cc/sgXj1P08/ezgif-com-resize.gif" >
-<p/><br><br>
+<p/><br>
 
 # Συμμετοχικό περιεχόμενο
 
