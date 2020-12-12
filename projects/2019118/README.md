@@ -16,7 +16,7 @@
 | 6 | [Άσκηση προγραμματισμού + συμμετοχικό περιεχόμενο](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-5:~:text=weather%22-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%206) |
 | 7 | [Άσκηση γραμμής εντολών](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου-2:~:text=%CE%B1%CF%85%CF%84%CF%8C.-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%207) |
 | 8 | [Άσκηση προγραμματισμού](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-7:~:text=pandoc%22-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%208) |
-| 9 | Άσκηση γραμμής εντολών |
+| 9 | [Άσκηση γραμμής εντολών](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου-3:~:text=%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%209,-%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά |
