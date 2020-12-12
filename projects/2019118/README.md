@@ -30,7 +30,7 @@
 
 [Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/button.md)
 
-[Website link](https://elastic-northcutt-449d27.netlify.app/remix/button/)
+[Website link](https://suspicious-shockley-dd6d9b.netlify.app/remix/button/)
 
 [Δείτε το στο Codepen](https://codepen.io/vuxxs/pen/wvWMzMx)
 
@@ -59,7 +59,7 @@
 
 [Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/image.md)
 
-[Website link](https://elastic-northcutt-449d27.netlify.app/remix/image/)
+[Website link](https://suspicious-shockley-dd6d9b.netlify.app/remix/image/)
 
 [Δείτε το στο Codepen](https://codepen.io/vuxxs/pen/NWrMzyw)
 
@@ -83,13 +83,13 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 
 [Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/mouse-scroll.md)
 
-[Website link](https://elastic-northcutt-449d27.netlify.app/remix/mouse-scroll/)
+[Website link](https://suspicious-shockley-dd6d9b.netlify.app/remix/mouse-scroll/)
 
 [Δείτε το στο Codepen](https://codepen.io/vuxxs/pen/JjKxBMM)
 
 [Διαφάνεια Skyrim](https://github.com/Vuxxs/site/blob/master/_case-study/skyrim.md)
 
-[Διαφάνεια Borderlands](https://github.com/Vuxxs/site/blob/master/_case-study/borderlands.md)
+[Διαφάνεια Borderlands](https://github.com/Vuxxs/site/blob/master/_case-study/borderlands.md) // Προσωρινή αφαίρεση επειδή προκαλούσε προβλήματα.
 
 ### Εκπλήρωση ζητούμενων παραδοτέου 
 
@@ -111,7 +111,7 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 
 [Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/image.md)
 
-[Website link](https://elastic-northcutt-449d27.netlify.app/remix/menu-pie/)
+[Website link](https://suspicious-shockley-dd6d9b.netlify.app/remix/menu-pie/)
 
 [Δείτε το στο Codepen](https://codepen.io/vuxxs/pen/poEzrPY)
 
