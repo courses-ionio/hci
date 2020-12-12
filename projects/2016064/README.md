@@ -15,9 +15,9 @@
 | 5 | [2η Άσκηση γραμμής εντολών check the weather](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#2%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
 | 6 | [Συμμετοχικό περιεχόμενο](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF) |
 | 7 | [3η Άσκηση προγραμματισμού Menu slide](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#3%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D) |
-| 8 | Άσκηση γραμμής εντολών  |
-| 9 | [4η Άσκηση προγραμματισμού Menu slide] |
-| 10 | Άσκηση γραμμής εντολών |
+| 8 | [3η Άσκηση γραμμής εντολών]()  |
+| 9 | [4η Άσκηση προγραμματισμού Menu slide]() |
+| 10 | [4η Άσκηση γραμμής εντολών]() |
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά* |
 
