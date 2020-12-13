@@ -28,8 +28,12 @@
 
 
 ## Παραδοτέο 2ο, 1η Άσκηση προγραμματισμού
-   
-   See the Pen [Calculator-Παραδοτέο 2ο(2017185)](https://codepen.io/haki-malai/pen/abZZGJg) by Χακί Μάλαϊ ([@haki-malai](https://codepen.io/haki-malai)) on [CodePen](https://codepen.io/).
+   Έχοντας μηδενικές γνώσεις στην γλώσσα προγραμματισμού javascript και στην γλώσσα html το παραδοτέο αυτό ήταν μια καλή δοκιμή. Με την εκμάθηση των βασικών λειτουργιών του κώδικα, λοιπόν, συνειδητοποίησα ότι πρέπει να προσθέσω ένα html element και το έκανα γράφοντας αυτό στο html5 κώδικα:
+   <p align="center">
+<img src="https://i.postimg.cc/Z5ZzRrb4/Id-Apotelesmata.png" width=500>
+ <p/>
+      
+   [Calculator-Παραδοτέο 2ο(2017185)](https://codepen.io/haki-malai/pen/abZZGJg)
    
 https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
 
