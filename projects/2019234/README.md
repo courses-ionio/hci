@@ -14,7 +14,7 @@
 | 7 |[Άσκηση προγραμματισμού ](#ΠΑΡΑΔΟΤΕΟ-7)| 
 | 8 | [Άσκηση γραμμής εντολών ](#ΠΑΡΑΔΟΤΕΟ-8)|
 | 9 |[Άσκηση προγραμματισμού ](#ΠΑΡΑΔΟΤΕΟ-9)|
-| 10 | συμμετοχικό περιεχόμενο |
+| 10 |  [Άσκηση γραμμής εντολών ](#ΠΑΡΑΔΟΤΕΟ-10)|
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
@@ -88,5 +88,10 @@ https://github.com/alkinoospitsinis/site/blob/master/_remix/image-zoom.md
 https://alkinoospitsinis-p2019234.netlify.app/remix/image-zoom/
 
 https://codepen.io/alkinoospitsinis/pen/OJRNEQb
+
+
+## ΠΑΡΑΔΟΤΕΟ 10:
+
+https://asciinema.org/a/tjcMYRpO4O7wfhArv884G48Sb
 
 
