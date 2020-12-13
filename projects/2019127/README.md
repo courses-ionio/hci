@@ -48,8 +48,8 @@
 Αυτή που διάλεξα ήταν να [αναζητήσω και να ανοίξω φακέλους 📁 που υπήρχαν στο σύστημα του ubuntu μέσω του τερματικού](https://github.com/epidrome/dokey#hci) με τις κατάλληλες εντολές κώδικα και να τις καταγράψω με το πρόγρμμα [asciinema](https://asciinema.org/).Κάτι έξτρα που φαίνεται στο ακόλουθο βίντεο είναι και η δημιουργία ενός directory και μέσα σε αυτό η δημιουργία ενός .txt αρχείου μέσω του τερματικού.([Πατήστε για το βίντεο🎥.](https://asciinema.org/a/368904))
 
 #### Σελίδες που βοήθησαν
-
-
+Δημιουργία directory:https://linuxize.com/post/how-to-create-directories-in-linux-with-the-mkdir-command/
+Βασικές εντολές:http://www.pas.rochester.edu/~pavone/particle-www/telescopes/ComputerCommands.htm
 
 ## 4ο Παραδοτέο
 Στο 4ο παραδοτέο καλούμαστε να λύσουμε μία [άσκηση προγραμματισμού](https://pibook.epidro.me/remix/) από το βιβλίο του καθηγητή.
@@ -62,6 +62,8 @@
 
 #### Επιλογή και Επίλυση άσκησης
 Η επιλεγμένη άσκηση αυτή την φορά ήταν [να δημιουργήσουμε μία λίστα todo📝 στο terminal του ubuntu,να την επεξεργαστούμε και να κάνουμε check(✔️) διάφορα tasks της λίστας μας](https://github.com/epidrome/dokey#hci).Κατά την διάρκεια όλων αυτών το terminal καταγραφόταν απο το πρόγραμμα [asciinema](https://asciinema.org/).Κάτι έξτρα που φαίνεται στο βίντεο είναι η μετονομασία της λίστας μας.([Πατήστε για το βίντεο🎥.](https://asciinema.org/a/370245))
+#### Σελίδες που βοήθησαν
+Οργάνωση λίστας:https://lifehacker.com/todo-txt-cli-manages-your-tasks-from-the-command-line-5155450
 
 ## 6ο Παραδοτέο
 Στο 6ο παραδοτέο ερχόμαστε αντιμέτωποι με ένα νέο ζήτημα,το συμμετοχικό περιεχόμενο.Εδώ,το παραδοτέο σπάει σε 2 μέρη,στο πρώτο μέρος μας ζητείτε να προσθέσουμε δύο νέες εικόνες με λεζάντα οι οποίες να σχετίζονται με την επικοινωνία ανθρώπου-υπολογιστή.Στο δεύτερο μέρος μας ζητήθηκε να προσθέσουμε ένα σετ από δαφάνειες και ένα χρονολόγιο τα οποία θα σχετίζονται με τις δύο προηγούμενες φωτογραφίες.
@@ -79,11 +81,14 @@
 Αυτή που επέλεξα είναι η [mouse form](https://github.com/p19verg/site/blob/master/_remix/mouse-form.md).Για να καταφέρω να επιλύσω την άσκηση με το να προσθέσω ένα ακόμα κελί για το φύλο (άνδρας/γυναίκα) χρησιμοποίησα τις ιστοσελίδες [w3schools-HTML](https://www.w3schools.com/html/default.asp) και [w3schools-CSS](https://www.w3schools.com/css/) για να βοηθηθώ σχετικά με τις γλώσσες HTML και CSS.Γνωρίζοντας σχετικά λίγα για την γλώσσα HTML εφόσον είχα έρθει σε επαφή μαζί της στο 1ο εξάμηνο για 2 μαθήματα μπόρεσα σε γενικές γραμμές εύκολα να προσανατολιστώ,ωστόσο με την γλώσσα CSS με την οποία δεν είχα καθόλου εμπειρία έπρεπε να αφιερώσω αρκετό χρόνο για να κατορθώσω να την κατανοήσω μέχρι ένα βαθμό.Χάρης όμως του w3school κατάφερα να την επιλύσω και να λύσω ένα μεγάλο ποσοστό αποριών.
 
 ## 10ο Παραδοτέο
-Στο 10ο παραδοτέο  έπρεπε να λύσουμε μια [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey).
+Στο 10ο παραδοτέο  έπρεπε να λύσουμε μια [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) από το βιβλίο του καθηγητή.
 
 #### Επιλογή και Επίλυση άσκησης
-Η άσκησης της επιλογής μου ήταν η [επεξεργασία status bar και του color theme](https://github.com/epidrome/dokey#hci)
-///////////
-pywal:https://github.com/dylanaraps/pywal
-how to dl pywal:https://itsfoss.com/pywal/
-how to dl imagemagick:https://www.tecmint.com/install-imagemagick-on-debian-ubuntu/
+Η άσκησης της επιλογής μου ήταν η [επεξεργασία ενός status bar και του color theme](https://github.com/epidrome/dokey#hci).Αρχικά μας ζητείται να επεξεργαστούμε το status bar
+
+#### Σελίδες που βοήθησαν
+pywal:(https://github.com/dylanaraps/pywal)\
+how to download pywal:(https://itsfoss.com/pywal/)\
+how to download imagemagick:(https://www.tecmint.com/install-imagemagick-on-debian-ubuntu/)
+Tmux:(https://github.com/tmux/tmux/wiki)\
+Customizing tmux status line (styles, formats, and more):(https://www.youtube.com/watch?v=9e8850-1pg8&t=686s&fbclid=IwAR2ibdSqUbwqCv38mfo0EQzx7xiwOYly6QGEPoEK8EibZ4PGFcN4gCa-Hb4)\
