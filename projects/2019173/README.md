@@ -105,7 +105,7 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 Επέλεξα την άσκηση γραμμής εντολών [add a status bar to your shell/editor and configure a color-theme](https://github.com/epidrome/dokey#hci). Ζητούμενο της άσκησης αυτής είναι: 1) η δημιουργία ενός status bar, η διαμόρφωσή του και 2) η αλλαγή φόντου που έχει το παράθυρο του τερματικού.
 
 #### Τρόπος επίλυσης της άσκησης:
-Μέσα από την παρακολούθηση των μαθημάτων και την εμβάθυνση στη χρήση του τερματικού, τα βήματα λύσης της άσκησης δεν ήταν ιδιαίτερα δύσκολα. Μάζεψα πληροφορίες για: 1) το status bar από: 
+Μέσα από την παρακολούθηση των μαθημάτων και την εμβάθυνση στη χρήση του τερματικού, τα βήματα λύσης της άσκησης δεν ήταν ιδιαίτερα δύσκολα. Μάζεψα πληροφορίες για: 1) το status bar από:  και 2) την επεξεργασία του παραθύρου από: [How do you change the color scheme in bash on Ubuntu for Windows?](https://superuser.com/questions/1114549/how-do-you-change-the-color-scheme-in-bash-on-ubuntu-for-windows), [3 Ways to Customize Your Windows Terminal](https://blogs.windows.com/windowsdeveloper/2020/06/30/3-ways-to-customize-your-windows-terminal/), [MY WINDOWS TERMINAL COLOR SCHEMES](https://www.thomasmaurer.ch/2020/06/my-windows-terminal-color-schemes/) και [ImageMagick Compilation and Installation](https://www.tecmint.com/install-imagemagick-on-debian-ubuntu/?fbclid=IwAR2dbv7LT5isuxSVpnYAlpI-x9DeRcqwLa4l-TtiP6BGNvxVfPFKgGXxK_k).
 
 - Τα βήματα που έπρεπε να ακολουθήσω ήταν τα εξής:
 
