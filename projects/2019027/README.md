@@ -66,3 +66,11 @@
         <p>Υλοποιήθηκε η άσκηση mouse button. Προστέθηκε το κουμπί "προηγούμενο" το οποίο εμφανίζει το μήνυμα που είχε εμφανιστεί προηγουμένως. link στο fork του pibook: https://github.com/p19zing/site/blob/master/_remix/mouse-button.md
         <p>link στο netlify site  <a href="https://p19zing-hci.netlify.app/remix/mouse-button/">https://p19zing-hci.netlify.app/remix/mouse-button/</a>
     <p> link στο Codepen https://codepen.io/p19zing/pen/RwGaeQW
+        
+<h2 id="Παραδοτέο 10">Παραδοτέο 10 - Άσκηση γραμμής εντολών</h2>
+    <p>link στο Asciinema https://asciinema.org/a/Yqn88AmeeT3cV04YZKafFdeZk
+    <p>Σε αυτή την εργασία χρησιμοποίησα τον επεξεργαστή κειμένου vim για να δημιουργήσω ένα βιογραφικό. 
+        Στη συνέχεια εγκατέστησα το pandoc για μετατροπή μορφής αρχείων
+        Στον κατάλογο με το βιογραφικό δημιούργησα git repository όπου πρόσθεσα το βιογραφικό (cv).
+        Με τη βοήθεια του pandoc από markdown το μετέτρεψα σε html (cv.html) και το πρόσθεσα στο git repository.
+        
