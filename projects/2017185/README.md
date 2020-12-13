@@ -32,7 +32,10 @@
    <p align="center">
 <img src="https://i.postimg.cc/Z5ZzRrb4/Id-Apotelesmata.png" width=500>
  <p/>
-      
+ 'Υστερα, για την προσθήκη του καινούριων αποτελεσμάτων πρόσθεσα στο κώδικα του javascript, και πιο συγκεκριμένα στο function του κουμπιού equal:
+      <p align="center">
+<img src="https://i.postimg.cc/pTKBpnXM/Apotesmata-Inner-Html.png" width=500>
+ <p/>
    [Calculator-Παραδοτέο 2ο(2017185)](https://codepen.io/haki-malai/pen/abZZGJg)
    
 https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
