@@ -31,8 +31,8 @@
         
 <h2 id="Παραδοτέο 3">Παραδοτέο 3 - Άσκηση γραμμής εντολών</h2>
     <p>link στο Asciinema https://asciinema.org/a/PWwMVkEnoYS6a1FgbBqzuoXSO
-    <p>Για την αλλαγή του command prompt να περιέχει τον ΑΜ, άλλαξα την μεταβλητή PS1 του .bashrc: https://github.com/p19zing/hci/blob/2019027/projects/2019027/paradoteo3/bashrc
-    <p>Ta αποτελέσματα του neofetch φαίνονται στο αρχείο https://github.com/p19zing/hci/blob/2019027/projects/2019027/paradoteo3/neofetch-ubuntu.PNG
+    <p>Για την αλλαγή του command prompt να περιέχει τον ΑΜ, άλλαξα την μεταβλητή PS1 του .bashrc.
+    Μετά εγκατέστησα το neofetch που δίνει περιγραφή του συστήματος.
         
 <h2 id="Παραδοτέο 4">Παραδοτέο 4 - Άσκηση προγραμματισμού</h2>  
     <p>Υλοποιήθηκε η άσκηση css-queries. Προστέθηκε media query για μέγεθος 1200px και αλλάζουν τα χρώματα του κειμένου και του background ανάλογα με το μέγεθος. link στο fork του pibook: https://github.com/p19zing/site/blob/2019027/_remix/css-queries.md
