@@ -41,10 +41,10 @@
   <p align="center">
 <img src="https://i.postimg.cc/Kjwcw4B4/Apot.png" width=250>
  <p/>
- Τα λινκ:
-   [Calculator-Παραδοτέο 2ο(2017185)](https://codepen.io/haki-malai/pen/abZZGJg)
+ ### Τα λινκ:
+   [Calculator](https://codepen.io/haki-malai/pen/abZZGJg)
    
-   https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
+   [git](https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md)
 
 
 ## Παραδοτέο 3ο, 1η Άσκηση γραμμής εντολών
