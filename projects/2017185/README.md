@@ -129,5 +129,5 @@
 <img src="https://i.postimg.cc/JnczfmBk/ezgif-com-gif-maker-5.gif" width=400>
  <p/>
  
-## To [λινκ](https://codepen.io/sckarolos/pen/GpgVJv)
+## To [λινκ](https://codepen.io/haki-malai/pen/MWjJBWp)
 
