@@ -16,7 +16,7 @@
 | 3 | [Άσκηση γραμμής εντολών](https://asciinema.org/a/hLDShqnr6ZNgDOd8i5YEEfCrG)
 | 4 | [Άσκηση προγραμματισμού](https://github.com/p13giag/site/blob/2013125/_remix/image.md)
 | 5 | [Άσκηση γραμμής εντολών](https://asciinema.org/a/QZmPztfYWq8gXteJeYC8ofJa8)
-| 6 | [συμμετοχικό περιεχόμενο]
+| 6 | [συμμετοχικό περιεχόμενο]()
 | 7 |[ Άσκηση προγραμματισμο](https://github.com/p13giag/site/blob/2013125/_remix/form-validation.md)
 | 8 | [Άσκηση γραμμής εντολών](https://asciinema.org/a/fennDBfGDVfst08jiunqhVMGJ)
 | 9 | [Άσκηση προγραμματισμού](https://github.com/p13giag/site/blob/master/_remix/css-queries.md)
