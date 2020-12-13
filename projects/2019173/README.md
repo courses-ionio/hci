@@ -106,7 +106,7 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 
 #### Τρόπος επίλυσης της άσκησης:
 Μέσα από την παρακολούθηση των μαθημάτων και την εμβάθυνση στη χρήση του τερματικού, τα βήματα λύσης της άσκησης δεν ήταν ιδιαίτερα δύσκολα. Μάζεψα πληροφορίες για: 
-1) το status bar από:
+1) το status bar από: [A Quick and Easy Guide to tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/), [Starting Your First Tmux Session](https://linuxize.com/post/getting-started-with-tmux/) και [How to Use tmux on Linux (and Why It’s Better Than Screen)](https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/).
 
 - Τα βήματα που έπρεπε να ακολουθήσω ήταν τα εξής:
 
