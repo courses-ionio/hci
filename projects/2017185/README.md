@@ -28,17 +28,23 @@
 
 
 ## Παραδοτέο 2ο, 1η Άσκηση προγραμματισμού
+ Ως δεύτερο παραδοτέο επέλεξα το Calculator.
    Έχοντας μηδενικές γνώσεις στην γλώσσα προγραμματισμού javascript και στην γλώσσα html το παραδοτέο αυτό ήταν μια καλή δοκιμή. Με την εκμάθηση των βασικών λειτουργιών του κώδικα, λοιπόν, συνειδητοποίησα ότι πρέπει να προσθέσω ένα html element και το έκανα γράφοντας αυτό στο html5 κώδικα:
    <p align="center">
 <img src="https://i.postimg.cc/Z5ZzRrb4/Id-Apotelesmata.png" width=500>
  <p/>
- 'Υστερα, για την προσθήκη του καινούριων αποτελεσμάτων πρόσθεσα στο κώδικα του javascript, και πιο συγκεκριμένα στο function του κουμπιού equal:
+ 'Υστερα με την βοήθεια του [Stackoverflow](https://stackoverflow.com/questions/2554149/html-javascript-change-div-content), για την προσθήκη του καινούριων αποτελεσμάτων πρόσθεσα στο κώδικα του javascript, και πιο συγκεκριμένα στο function του κουμπιού equal το παρακάτω:
       <p align="center">
 <img src="https://i.postimg.cc/pTKBpnXM/Apotesmata-Inner-Html.png" width=500>
  <p/>
+  Πλέον τα αποτελέσματα εμφανίζονται στην γωνία της οθόνης. Θα μπορούσα και καλύτερα αλλά με σύγκριση τις γνώσεις που έχω τώρα είμαι ευχαριστημένος με το αποτέλεσμα.
+  <p align="center">
+<img src="https://i.postimg.cc/Kjwcw4B4/Apot.png" width=500>
+ <p/>
+ Τα λινκ:
    [Calculator-Παραδοτέο 2ο(2017185)](https://codepen.io/haki-malai/pen/abZZGJg)
    
-https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
+   https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
 
 
 ## Παραδοτέο 3ο, 1η Άσκηση γραμμής εντολών
@@ -47,7 +53,8 @@ https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
    
   **deliverables**
    change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
-      
+   
+   
    [Λινκ](https://asciinema.org/a/bP9k8u6TNcRAe9Xob6y4PAdEu)
    
 ## Παραδοτέο 4ο, 2η Άσκηση προγραμματισμού
