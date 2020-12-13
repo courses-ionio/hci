@@ -81,9 +81,9 @@
 ## Παραδοτέο 8ο, 3η Άσκηση προγραμματισμού
    See the Pen [Html Canvas Draw](https://codepen.io/haki-malai/pen/wvzagrw) by Χακί Μάλαϊ ([@haki-malai](https://codepen.io/haki-malai)) on [CodePen](https://codepen.io/).
       
-## Επιπλέον ασκήσεις προγραμμαστισμού.
+# Επιπλέον ασκήσεις προγραμμαστισμού.
 
-# Button
+## Button
  Πρόσθεσα πράσσινο φωτισμό και γράμματα που σε επιβραδεύουν όταν πατάς το κουμπί.
  Στο HTML πρόσθεσα:
  <p align="center">
@@ -105,5 +105,5 @@
 <img src="https://i.postimg.cc/JnYQc3Yt/ezgif-com-gif-maker-4.gif" width=300>
  <p/>
  
-# To [λινκ](https://codepen.io/haki-malai/pen/LYRxrde)
+## To [λινκ](https://codepen.io/haki-malai/pen/LYRxrde)
 
