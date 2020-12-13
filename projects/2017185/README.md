@@ -62,7 +62,7 @@ https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md
 ## Παραδοτέο 7ο
    Απουσιάζει...
      
-## Παραδοτέο 8ο
+## Παραδοτέο 8ο, 3η Άσκηση προγραμματισμού
    See the Pen [Html Canvas Draw](https://codepen.io/haki-malai/pen/wvzagrw) by Χακί Μάλαϊ ([@haki-malai](https://codepen.io/haki-malai)) on [CodePen](https://codepen.io/).
       
    
