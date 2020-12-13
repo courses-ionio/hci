@@ -107,3 +107,27 @@
  
 ## To [λινκ](https://codepen.io/haki-malai/pen/LYRxrde)
 
+## Switch
+
+Στο HTML πρόσθεσα:
+ <p align="center">
+<img src="https://i.postimg.cc/Bb01FM2x/lighton.png" width=500>
+ <p/>
+Στο SCSS:
+ <p align="center">
+<img src="https://i.postimg.cc/Y26F7Bw8/css.png" width=300>
+ <p/>
+<p align="center">
+<img src="https://i.postimg.cc/rwqQTp4V/Screenshot-2.png" width=300>
+ <p/>
+ Και πρόσθεσα java-script:
+<p align="center">
+<img src="https://i.postimg.cc/Gm58Kck3/js.png" width=350>
+ <p/>
+ To τελικό αποτέλεσμα:
+<p align="center">
+<img src="https://i.postimg.cc/JnczfmBk/ezgif-com-gif-maker-5.gif" width=400>
+ <p/>
+ 
+## To [λινκ](https://codepen.io/sckarolos/pen/GpgVJv)
+
