@@ -39,7 +39,7 @@
  <p/>
   Πλέον τα αποτελέσματα εμφανίζονται στην γωνία της οθόνης. Θα μπορούσα και καλύτερα αλλά με σύγκριση τις γνώσεις που έχω τώρα είμαι ευχαριστημένος με το αποτέλεσμα.
   <p align="center">
-<img src="https://i.postimg.cc/Kjwcw4B4/Apot.png" width=500>
+<img src="https://i.postimg.cc/Kjwcw4B4/Apot.png" width=250>
  <p/>
  Τα λινκ:
    [Calculator-Παραδοτέο 2ο(2017185)](https://codepen.io/haki-malai/pen/abZZGJg)
