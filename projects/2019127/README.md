@@ -48,7 +48,7 @@
 Αυτή που διάλεξα ήταν να [αναζητήσω και να ανοίξω φακέλους 📁 που υπήρχαν στο σύστημα του ubuntu μέσω του τερματικού](https://github.com/epidrome/dokey#hci) με τις κατάλληλες εντολές κώδικα και να τις καταγράψω με το πρόγρμμα [asciinema](https://asciinema.org/).Κάτι έξτρα που φαίνεται στο ακόλουθο βίντεο είναι και η δημιουργία ενός directory και μέσα σε αυτό η δημιουργία ενός .txt αρχείου μέσω του τερματικού.([Πατήστε για το βίντεο🎥.](https://asciinema.org/a/368904))
 
 #### Σελίδες που βοήθησαν
-Δημιουργία directory:https://linuxize.com/post/how-to-create-directories-in-linux-with-the-mkdir-command/
+Δημιουργία directory:https://linuxize.com/post/how-to-create-directories-in-linux-with-the-mkdir-command/ <br/>
 Βασικές εντολές:http://www.pas.rochester.edu/~pavone/particle-www/telescopes/ComputerCommands.htm
 
 ## 4ο Παραδοτέο
@@ -61,10 +61,10 @@
 Στο 5ο παραδοτέο επιλέγουμε να λύσουμε μία [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey).
 
 #### Επιλογή και Επίλυση άσκησης
-Η επιλεγμένη άσκηση αυτή την φορά ήταν [να δημιουργήσουμε μία λίστα todo📝 στο terminal του ubuntu,να την επεξεργαστούμε και να κάνουμε check(✔️) διάφορα tasks της λίστας μας](https://github.com/epidrome/dokey#hci).Κατά την διάρκεια όλων αυτών το terminal καταγραφόταν απο το πρόγραμμα [asciinema](https://asciinema.org/).Κάτι έξτρα που φαίνεται στο βίντεο είναι η μετονομασία της λίστας μας.([Πατήστε για το βίντεο🎥.](https://asciinema.org/a/370245))
+Η επιλεγμένη άσκηση αυτή την φορά ήταν [να δημιουργήσουμε μία λίστα todo📝 στο terminal του ubuntu,να την επεξεργαστούμε και να κάνουμε check(✔️) διάφορα tasks της λίστας μας](https://github.com/epidrome/dokey#hci).Αυτό γίνεται με απλές εντολές όπως "t add" και "t ls" για να προσθεθούν tasks και να εμφανιστούν.Κατά την διάρκεια όλων αυτών το terminal καταγραφόταν απο το πρόγραμμα [asciinema](https://asciinema.org/).Κάτι έξτρα που φαίνεται στο βίντεο είναι η μετονομασία της λίστας μας.([Πατήστε για το βίντεο🎥.](https://asciinema.org/a/370245))
 #### Σελίδες που βοήθησαν
 Οργάνωση λίστας:https://lifehacker.com/todo-txt-cli-manages-your-tasks-from-the-command-line-5155450
-
+Βασικές εντολές:https://github.com/todotxt/todo.txt-cli/blob/master/USAGE.md
 ## 6ο Παραδοτέο
 Στο 6ο παραδοτέο ερχόμαστε αντιμέτωποι με ένα νέο ζήτημα,το συμμετοχικό περιεχόμενο.Εδώ,το παραδοτέο σπάει σε 2 μέρη,στο πρώτο μέρος μας ζητείτε να προσθέσουμε δύο νέες εικόνες με λεζάντα οι οποίες να σχετίζονται με την επικοινωνία ανθρώπου-υπολογιστή.Στο δεύτερο μέρος μας ζητήθηκε να προσθέσουμε ένα σετ από δαφάνειες και ένα χρονολόγιο τα οποία θα σχετίζονται με τις δύο προηγούμενες φωτογραφίες.
 
@@ -84,7 +84,7 @@
 Στο 10ο παραδοτέο  έπρεπε να λύσουμε μια [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) από το βιβλίο του καθηγητή.
 
 #### Επιλογή και Επίλυση άσκησης
-Η άσκησης της επιλογής μου ήταν η [επεξεργασία ενός status bar και του color theme](https://github.com/epidrome/dokey#hci).Αρχικά μας ζητείται να επεξεργαστούμε το status bar
+Η άσκησης της επιλογής μου ήταν η [επεξεργασία ενός status bar και του color theme](https://github.com/epidrome/dokey#hci).Αρχικά μας ζητείται να επεξεργαστούμε το status bar και στην συνέχεια να επεξεργαστούμε το color theme.Για status bar χρησιμοποιηώ το tmux διότι εύκολο διαχειρισμό.Για το color theme χρησιμοποιώ το pywal με συνδυασμό του imagemagick έτσι ώστε μέσω του terminal να μπορώ να αλλάζω το color theme με το να αλλάξω το wallpaper.([Πατήστε για το βίντεο🎥.]
 
 #### Σελίδες που βοήθησαν
 pywal:https://github.com/dylanaraps/pywal <br/>
