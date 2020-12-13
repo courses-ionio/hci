@@ -87,8 +87,8 @@
 Η άσκησης της επιλογής μου ήταν η [επεξεργασία ενός status bar και του color theme](https://github.com/epidrome/dokey#hci).Αρχικά μας ζητείται να επεξεργαστούμε το status bar
 
 #### Σελίδες που βοήθησαν
-pywal:(https://github.com/dylanaraps/pywal)\
-how to download pywal:(https://itsfoss.com/pywal/)\
-how to download imagemagick:(https://www.tecmint.com/install-imagemagick-on-debian-ubuntu/)
-Tmux:(https://github.com/tmux/tmux/wiki)\
-Customizing tmux status line (styles, formats, and more):(https://www.youtube.com/watch?v=9e8850-1pg8&t=686s&fbclid=IwAR2ibdSqUbwqCv38mfo0EQzx7xiwOYly6QGEPoEK8EibZ4PGFcN4gCa-Hb4)\
+pywal:https://github.com/dylanaraps/pywal <br/>
+how to download pywal:https://itsfoss.com/pywal/ <br/>
+how to download imagemagick:https://www.tecmint.com/install-imagemagick-on-debian-ubuntu/ <br/>
+Tmux:https://github.com/tmux/tmux/wiki <br/>
+Customizing tmux status line (styles, formats, and more):https://www.youtube.com/watch?v=9e8850-1pg8&t=686s&fbclid=IwAR2ibdSqUbwqCv38mfo0EQzx7xiwOYly6QGEPoEK8EibZ4PGFcN4gCa-Hb4 <br/>
