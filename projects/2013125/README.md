@@ -134,8 +134,9 @@
 
 ## Παραδοτέο 10
 ## Άσκηση γραμμής εντολών
-##
+## Add a status bar to your shell/editor and configure a color-theme
 
+[Σύνδεσμος Βιβλιογραφίας](https://www.tecmint.com/powerline-adds-powerful-statuslines-and-prompts-to-vim-and-bash/)
 
 ## Παραδοτέο 11
 ## Συμμετοχικό Περιερχόμενο Β1,Β2
