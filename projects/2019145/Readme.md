@@ -93,3 +93,6 @@ https://asciinema.org/a/376513
 Για το παραδοτέο 9, επέλεξα την άσκηση προγραμματισμού "mouse eraser". Άλλαξα τις δύο εικόνες, και έκανα το eraser ποιο μεγάλο.  
 Το link για το repository είναι: https://github.com/Geoter711/site/blob/master/_remix/mouse-eraser.md  
 Για το netlify: https://flamboyant-bartik-3ede5a.netlify.app/remix/mouse-eraser/
+
+## Παραδοτέο 10
+Για το παραδοτέο 8, επέλεξα την ασκήση γραμμής εντολών "track your time with a simple journal". Εφόσον γενικά μου αρέσει να βλέπω τι έχω κάνει κάθε μέρα, θεώρησα ότι θα ήταν καλή ευκαρία να χρησιμοποίσω ένα εργαλείο που να προσφέρει αυτή την ικανότητα. Το link είναι: https://asciinema.org/a/379168
