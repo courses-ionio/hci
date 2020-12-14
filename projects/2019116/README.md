@@ -48,7 +48,7 @@ https://rafael5gr2.netlify.app/remix/button/
   
 ## Παραδοτέο 3
   
-Στο τρίτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (set-up the main dependencies and demonstrate your base system) ζητούσε να αλλάξουμε το όνομα από το command prompt μας στον αριθμό μητρώου που έχουμε, έπειτα να δείξουμε τα dot files μας, το shell configuration file και τέλος με την χρήση του neofetch (https://github.com/dylanaraps/neofetch) να δείξουμε τα System information (hardware+software). Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema, με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.
+Στο τρίτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (set-up the main dependencies and demonstrate your base system) ζητούσε να αλλάξουμε το όνομα από το command prompt μας στον αριθμό μητρώου που έχουμε, έπειτα να δείξουμε τα dot files μας, το shell configuration file και τέλος με την χρήση του neofetch (https://github.com/dylanaraps/neofetch) να δείξουμε τα System information (hardware+software). Ως shell χρησιμοποιώ το bash και ως editor το vim (https://www.vim.org/).a Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema (https://asciinema.org/), με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.
   
 Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών.
   
@@ -69,7 +69,7 @@ https://rafael5gr2.netlify.app/remix/image/
   
 ## Παραδοτέο 5
   
-Στο πέμπτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (add a status bar to your shell/editor and configure a color-theme) ζητούσε να βάλουμε ένα status bar στο shell μας και στο editor μας και μετά να βάλουμε ένα color-theme της επιλογής μας. Ως shell χρησιμοποιώ το bash και ως editor το vim. Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema, με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.
+Στο πέμπτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (add a status bar to your shell/editor and configure a color-theme) ζητούσε να βάλουμε ένα status bar στο shell μας και στο editor μας και μετά να βάλουμε ένα color-theme της επιλογής μας. Ως shell χρησιμοποιώ το bash και ως editor το vim (https://www.vim.org/). Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema (https://asciinema.org/), με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.
   
 Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών.
   
@@ -104,7 +104,7 @@ https://rafael5gr2.netlify.app/remix/image-filter/
   
 ## Παραδοτέο 8
   
-Στο όγδοο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (download mp3) ζητούσε να κατεβάσουμε ένα τραγούδι και να το αναπαράγουμε μέσο terminal. Τα εργαλεία που χρησιμοποίησα είναι το youtube-dl (https://github.com/ytdl-org/youtube-dl) και το mpv (https://github.com/mpv-player/mpv) τα οποία και έτρεξα μέσο ενός bash script το οποίο αρχικά ζητάει ένα YouTube URL και ένα όνομα για το αρχείο, έπειτα κατεβάζει και αναπαράγει και το διαγραφεί αν το επιθυμεί ο χρήστης και τέλος τον ρωτάει αν θέλει να ξανά κάνει την διαδικασία από την αρχή για κάποιο άλλο τραγούδι. Ως shell χρησιμοποιώ το bash και ως editor το vim. Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema, με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.
+Στο όγδοο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (download mp3) ζητούσε να κατεβάσουμε ένα τραγούδι και να το αναπαράγουμε μέσο terminal. Τα εργαλεία που χρησιμοποίησα είναι το youtube-dl (https://github.com/ytdl-org/youtube-dl) και το mpv (https://github.com/mpv-player/mpv) τα οποία και έτρεξα μέσο ενός bash script το οποίο αρχικά ζητάει ένα YouTube URL και ένα όνομα για το αρχείο, έπειτα κατεβάζει και αναπαράγει και το διαγραφεί αν το επιθυμεί ο χρήστης και τέλος τον ρωτάει αν θέλει να ξανά κάνει την διαδικασία από την αρχή για κάποιο άλλο τραγούδι. Ως shell χρησιμοποιώ το bash και ως editor το vim (https://www.vim.org/). Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema (https://asciinema.org/), με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.
   
 Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών και το bash script.
   
@@ -184,8 +184,8 @@ https://rafael5gr2.netlify.app/remix/image-zoom/
   
 ## Παραδοτέο 10
   
-Στο όγδοο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (text editor and plug-ins for code highlighting and autocompletion) ζητούσε να TODO. Ως shell χρησιμοποιώ το bash και ως editor το vim. Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema, με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.
+Στο δέκατο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (text editor and plug-ins for code highlighting and autocompletion) ζητούσε να προσθέσουμε στον vim editor μας code highlighting και autocompletion. Για να επιτευχθεί αυτό έπρεπε να κάνουμε edit το .vimrc αρχείο μας. Για το code highlighting πρόσθεσα την εντολή (syntax on) και για το autocompletion χρησιμοποίησα το plugin YouCompleteMe  (https://github.com/ycm-core/YouCompleteMe). Ως shell χρησιμοποιώ το bash και ως editor το vim (https://www.vim.org/). Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema (https://asciinema.org/), με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.
   
 Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών.
   
-TODO
+[![asciicast](https://asciinema.org/a/379158.svg)](https://asciinema.org/a/379158)
