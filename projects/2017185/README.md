@@ -76,11 +76,28 @@
 ## Παραδοτέο 6ο, συμμετοχικό περιεχόμενο
    Έκανα φορκ το pibook/images και πρόσθεσα 2 εικόνες σύμφωνα με τις οδηγίες.
 ## Παραδοτέο 7ο
-   Απουσιάζει...
-     
+   
+   **assignment**
+   organize your notes with emacs
+   **deliverables**
+   use org mode
+   
+ [λινκ](https://asciinema.org/a/379194)
 ## Παραδοτέο 8ο, 3η Άσκηση προγραμματισμού
    See the Pen [Html Canvas Draw](https://codepen.io/haki-malai/pen/wvzagrw) by Χακί Μάλαϊ ([@haki-malai](https://codepen.io/haki-malai)) on [CodePen](https://codepen.io/).
-      
+
+## Παραδοτέο 9ο, 4η 'Ασκηση γραμμής εντολών
+
+  **assingment**
+    download mp3
+    
+ **deliverables**
+   search, downloard and play (with the terminal) your favorite song of the month from youtube.
+   
+ Μετά την δοκιμαστική εγκατάσταση του youtube-viewer μπόρεσα και εκπλήρωσα το ζητούμενο της άσκησης κανονικά.
+   
+[λινκ](https://asciinema.org/a/TO2iLocHqXqEGyu1KocPNOyLk)
+
 # Επιπλέον ασκήσεις προγραμμαστισμού.
 
 ## Button
