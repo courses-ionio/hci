@@ -138,7 +138,7 @@ Preview:<br/>
 ![default](https://i.imgur.com/5FJS44n.png)
 
 ## Παραδοτέο 10
-Άσκηση `edit the vim or shell editor configuration file` από το σετ ασκήσεων hci. Χρησιμοποίησα το vim για να βάλω plug-ins στο .vimrc αρχείο. Ο κώδικας για το syntax highlighting ήταν ήδη στο αρχείο, οπότε έδειξα στο asciinema πώς φαίνεται χωρίς το syntax. Διάλεξα το Syntastic plug-in από το Vim Awesome το οποίο δίνει στο vim μια δυνατότητα να εντοπίζει συντακτικά λάθη και να με ενημερώνει σε ποιά θέση βρίσκονται με highlight. Για να ενεργοποιηθεί βγαίνω από το edit mode του vim με `ESC` και αποθηκεύω τις αλλαγές στο αρχείο με `:w`. Αν υπάρχει λάθος, το Syntastic θα μου δειξει τη θέση του.
+Άσκηση `edit the vim or shell editor configuration file` από το σετ ασκήσεων hci. Χρησιμοποίησα το vim για να βάλω plug-ins στο .vimrc αρχείο. Ο κώδικας για το syntax highlighting ήταν ήδη στο αρχείο, οπότε έδειξα στο asciinema πώς φαίνεται χωρίς το syntax. Διάλεξα το Syntastic plug-in από το Vim Awesome το οποίο δίνει στο vim μια δυνατότητα να εντοπίζει συντακτικά λάθη και να με ενημερώνει σε ποιά θέση βρίσκονται με highlight. Για να ενεργοποιηθεί βγαίνω από το edit mode του vim με `ESC` και αποθηκεύω τις αλλαγές στο αρχείο με `:w`. Αν υπάρχει λάθος, το Syntastic θα μου δειξει τη θέση του. Εκτός απο αυτό πρόσθεσα και το `set number` για να αριθμεί *πάντα* τις γραμμές, το οποίο βοηθάει στο debugging μεγάλων αρχείων (όπως στο [Παραδοτέο 5](#Παραδοτέο-5) με το groff).
 
 [Asciinema link](https://asciinema.org/a/emsP2cCFN7grDcYdv7J3i1LYD).
 
