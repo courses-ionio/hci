@@ -116,8 +116,13 @@
 ## Άσκηση γραμμής εντολών
 ## Emacs
 ## Organize your notes with emacs
-[Σύνδεσμος Asciinema](https://asciinema.org/a/fennDBfGDVfst08jiunqhVMGJ)
+## Emacs.org
+
+![](emacs.png)
 [Συνδεσμος Βιβλιογραφίας](https://www.gnu.org/software/emacs/)
+
+![](emacsorg.png)
+
 ## Τι έκανα: 
 Αρχικά εγκατέστησα τον emacs στο τερματικό του ubuntu για να έχω όλα τα απαραίτητα αρχεία του emacs και να μπορεί να τρέξει,έφτιαξα μια λίστα με τις σημειώσεις(notes.org) μου, στο τέλος αποθήκευσα το αρχείο με την εντολή (Ctrl+x  + Ctrl+s ) και βγαίνω από το emacs αρχείο με την εντολή (Ctrl+x + Ctrl+c).Μετά τις αλλαγές που έγιναν στο αρχείο notes.org ξαναμπαίνω για να επιβεβαιώσω ότι οι αλλαγές που έκανα ολοκληρώθηκαν.
 
@@ -135,6 +140,8 @@
 ## Παραδοτέο 10
 ## Άσκηση γραμμής εντολών
 ## Add a status bar to your shell/editor and configure a color-theme
+
+[Σύνδεσμος Άσκησης](https://asciinema.org/a/4McFVl6cSvPEnV6su2Y41V4HT)
 
 [Σύνδεσμος Βιβλιογραφίας](https://www.tecmint.com/powerline-adds-powerful-statuslines-and-prompts-to-vim-and-bash/)
 
