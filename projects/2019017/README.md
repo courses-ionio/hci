@@ -205,3 +205,7 @@ Preview:<br/>
 Παραδοτέο 9:
 
 - [Drawing Arcs in Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes#Arcs)
+
+Παραδοτέο 10:
+
+- [Save and exit an edited file in Vim](https://stackoverflow.com/questions/56265246/vim-no-write-since-last-change-even-though-i-changed-the-file)
