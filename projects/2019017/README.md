@@ -8,15 +8,15 @@
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
 | 1 | Εισαγωγή: [First deliverable](#Παραδοτέο-1) |
-| 2 | Άσκηση προγραμματισμού: [Second deliverable](#Παραδοτέο-2) |
-| 3 | Άσκηση γραμμής εντολών (hci): [Third deliverable](#Παραδοτέο-3) |
-| 4 | Άσκηση προγραμματισμού: [Fourth deliverable](#Παραδοτέο-4) |
-| 5 | Άσκηση γραμμής εντολών (hci): [Fifth deliverable](#Παραδοτέο-5)|
+| 2 | Άσκηση προγραμματισμού (Button): [Second deliverable](#Παραδοτέο-2) |
+| 3 | Άσκηση γραμμής εντολών (hci - mp3): [Third deliverable](#Παραδοτέο-3) |
+| 4 | Άσκηση προγραμματισμού (Image processing): [Fourth deliverable](#Παραδοτέο-4) |
+| 5 | Άσκηση γραμμής εντολών (hci - groff): [Fifth deliverable](#Παραδοτέο-5)|
 | 6 | Συμμετοχικό περιεχόμενο: [Sixth deliverable](#Παραδοτέο-6) |
-| 7 | Άσκηση προγραμματισμού: [Seventh deliverable](#Παραδοτέο-7)|
-| 8 | Άσκηση γραμμής εντολών (hci): [Eighth deliverable](#Παραδοτέο-8) |
-| 9 | Άσκηση προγραμματισμού: [Ninth deliverable](#Παραδοτέο-9) |
-| 10 | Άσκηση γραμμής εντολών |
+| 7 | Άσκηση προγραμματισμού (Menu Pie): [Seventh deliverable](#Παραδοτέο-7)|
+| 8 | Άσκηση γραμμής εντολών (hci - emacs org mode): [Eighth deliverable](#Παραδοτέο-8) |
+| 9 | Άσκηση προγραμματισμού (Mouse Eraser): [Ninth deliverable](#Παραδοτέο-9) |
+| 10 | Άσκηση γραμμής εντολών (hci - vim configuration file): [Tenth deliverable](#Παραδοτέο-10) |
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
@@ -136,6 +136,9 @@ Preview:<br/>
 
 Preview:<br/>
 ![default](https://i.imgur.com/5FJS44n.png)
+
+## Παραδοτέο 10
+Άσκηση `edit the vim or shell editor configuration file` από το σετ ασκήσεων hci. Χρησιμοποίησα το vim για να βάλω plug-ins στο .vimrc αρχείο. Ο κώδικας για το syntax highlighting υπήρχε ήδη οπότε απλά έβγαλα τα εισαγωγικά (τρόπος σχολίων στο vim).
 
 ## Πηγές:
 
