@@ -120,7 +120,7 @@ Preview:<br/>
 
 Για να ξεκινήσω το emacs σε terminal χρησιμοποίησα την εντολή `-nw`, διαφορετικά άνοιγε το emacs σε νέο παράθυρο εκτός του τερματικού. Για να σώσω μια αλλαγή στο αρχείο μου έχω την εντολή `C-x C-s` (Ctrl+x και έπειτα Ctrl+s) και για να βγω από το συγκεκριμένο buffer `C-x k enter` (Ctrl+x, έπειτα k και μετά enter). Αν θέλω να τερματίσω (kill) το emacs κάνω `C-x C-c` (Ctrl+x και έπειτα Ctrl+c). 
 
-[Asciinema link](https://asciinema.org/a/F2Jas1b3XAtZ3EOoGA51t1ro5)
+[Asciinema link](https://asciinema.org/a/F2Jas1b3XAtZ3EOoGA51t1ro5).
 
 Preview:<br/>
 ![default](https://i.imgur.com/OZIo2nb.png)
@@ -138,7 +138,12 @@ Preview:<br/>
 ![default](https://i.imgur.com/5FJS44n.png)
 
 ## Παραδοτέο 10
-Άσκηση `edit the vim or shell editor configuration file` από το σετ ασκήσεων hci. Χρησιμοποίησα το vim για να βάλω plug-ins στο .vimrc αρχείο. Ο κώδικας για το syntax highlighting υπήρχε ήδη οπότε απλά έβγαλα τα εισαγωγικά (τρόπος σχολίων στο vim).
+Άσκηση `edit the vim or shell editor configuration file` από το σετ ασκήσεων hci. Χρησιμοποίησα το vim για να βάλω plug-ins στο .vimrc αρχείο. Ο κώδικας για το syntax highlighting ήταν ήδη στο αρχείο, οπότε έδειξα στο asciinema πώς φαίνεται χωρίς το syntax. Διάλεξα το Syntastic plug-in από το Vim Awesome το οποίο δίνει στο vim μια δυνατότητα να εντοπίζει συντακτικά λάθη και να με ενημερώνει σε ποιά θέση βρίσκονται με highlight. Για να ενεργοποιηθεί βγαίνω από το edit mode του vim με `ESC` και αποθηκεύω τις αλλαγές στο αρχείο με `:w`. Αν υπάρχει λάθος, το Syntastic θα μου δειξει τη θέση του.
+
+[Asciinema link](https://asciinema.org/a/emsP2cCFN7grDcYdv7J3i1LYD).
+
+Preview:<br/>
+![default](https://i.imgur.com/Ub8X4aD.png)
 
 ## Πηγές:
 
@@ -209,3 +214,5 @@ Preview:<br/>
 Παραδοτέο 10:
 
 - [Save and exit an edited file in Vim](https://stackoverflow.com/questions/56265246/vim-no-write-since-last-change-even-though-i-changed-the-file)
+
+- [Syntastic](https://vimawesome.com/plugin/syntastic)
