@@ -200,3 +200,19 @@
  <p/>
  
 Το [λινκ](https://codepen.io/haki-malai/pen/bGwqxBR?editors=1111)
+
+## Camera motion
+
+Αναγκάστηκα πάλι να ξανααλλάξω τον κώδικα όπως παραπάνω. Για την επίλυση του προβλήματος έφτιαξα την παρακάτω συνάρτηση:
+<p align="center">
+<img src="https://i.postimg.cc/zDsxY53K/change-Message-Def.png" width=500>
+ <p/>
+Την οποία την κάνω call εδώ:
+<p align="center">
+<img src="https://i.postimg.cc/0NXCW1L6/change-Message.png" width=500>
+ <p/>
+
+Με αποτέλεσμα:
+<p align="center">
+<img src="https://i.postimg.cc/pXBzctj2/ezgif-com-gif-maker-10.gif" width=500>
+ <p/>
