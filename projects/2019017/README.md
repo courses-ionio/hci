@@ -100,6 +100,10 @@ Preview:<br/>
 - [\_config.yml](https://github.com/p19kala/site/blob/master/_config.yml) για την ενημέρωση όλων των συνδέσμων με το δικό μου url.
 - [.gitmodules](https://github.com/p19kala/site/blob/master/.gitmodules) για το συντονισμό των submodules \_gallery και images στα αντίστοιχα fork μου.
 
+Επισκόπηση μερικών αλλαγών:</br>
+![default](https://i.imgur.com/2Ah075d.png)
+![default](https://i.imgur.com/rawUvBD.png)
+
 ## Παραδοτέο 7
 Διάλεξα την άσκηση Menu Pie για την οποία έπρεπε να μειώσω τις επιλογές του μενού από 12 σε 4. Έκανα comment out 8 επιλογές από το CSS και από την HTML. Επέλεξα να έχω τις επιλογές Login, Games, Register και Home. Επειδή ήταν πολύ εύκολη, έκανα και κάτι παραπάνω. Πήγα στο μπλοκ `.csstransforms .cn-wrapper li` και αύξησα κάθε transform: rotate() σε 165 μοίρες ώστε να εμφανίζεται το μενού από τα δεξιά. Στο μπλοκ `.csstransforms .opened-nav li` αύξησα το χρόνο που κάνουν οι επιλογές να εμφανιστούν απο 0.3 σε 0.4 δευτερόλεπτα και τη διάρκεια να φτάσουν στη τελική τους θέση σε 0.5. Επιπλέον άλλαξα το χρώμα του OPEN, του button, της γραμματοσειράς των επιλογών, του shop-icon στην HTML (`<path fill="red"`) και του background.
 
