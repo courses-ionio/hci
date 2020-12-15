@@ -155,3 +155,25 @@
  <p/>
  
 Το [λινκ](https://codepen.io/haki-malai/pen/yLagqgX)
+
+## Keyboard input
+Καταρχάς θα ήθελα να κάνω την παρατήρηση ότι για κάποιο λόγο δεν μου εμφανίζεται το αμαξάκι σε browser chrome. 'Ομως το άνοιξα και σε firefox στο οποίο δούλεψε κανονικά!
+
+Άσκηση 1: Απλό ζητούμενο, με μία ματιά στον κώδικα βρίκα την γραμμή στην οποία πέρνουμε το input του χρήστη και απλά άλλαξα κατα μισό την τιμή του dy εκεί που πρόκειτε για το keyCode = 40 που είναι το κάτω βελάκι. Επίσης πρόσθεσα τα κουμπιά awsd και τα αντίστοιχα σε κεφαλαία και ελληνικά ως input.
+<p align="center">
+<img src="https://i.postimg.cc/XNpR1Qmh/jscar.png" width=400>
+ <p/>
+Το αποτέλεσμα:
+<p align="center">
+<img src="https://i.postimg.cc/bwHWSMSG/ezgif-com-gif-maker-7.gif" width=400>
+ <p/>
+ 
+ Άσκηση 2: Δυσκολούτσικο, και μη έχοντας εμπειρία από καμβάδες δυσκολεύτικα στην κατανόηση του προγράμματος...Με λίγη μελέτη όμως έκανα την εξής αλλαγή:
+ <p align="center">
+<img src="https://postimg.cc/64Bhzc3k/390f3dd6" width=400>
+ <p/>
+ Με αποτέλεσμα:
+  <p align="center">
+<img src="https://i.postimg.cc/ncK03mFg/ezgif-com-gif-maker-8.gif" width=600>
+ <p/>
+
