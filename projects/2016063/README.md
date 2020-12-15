@@ -69,5 +69,11 @@ Link Netlify: https://naughty-mcnulty-ae5c1a.netlify.app/remix/css-queries/
 
 Πειραματιστείτε με το παράδειγμα προσθέτοντας περισσότερα CSS media queries και αλλάζοντας το χρώμα του παραθούρου. Στη συνέχεια δοκιμάστε να εφαρμόσετε CSS media queries στο μέγεθος της γραμματοσειράς ώστε να απεικονίζεται σωστά σε όλα τα μεγέθη παραθύρων.
 
-
+                                 Παραδοτεο 10 Ασκηση Γραμμης Εντολων Vim Editor
+                    
+  https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit
+  
+  <a href="https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit" target="_blank"><img src="https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit.svg" /></a>
+  
+  <script id="asciicast-j30pryHgffpSCKCbcmI1RMYit" src="https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit.js" async></script>
 
