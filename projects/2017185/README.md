@@ -170,7 +170,7 @@
  
  Άσκηση 2: Δυσκολούτσικο, και μη έχοντας εμπειρία από καμβάδες δυσκολεύτικα στην κατανόηση του προγράμματος...Με λίγη μελέτη όμως έκανα την εξής αλλαγή:
  <p align="center">
-<img src="https://postimg.cc/64Bhzc3k/390f3dd6" width=400>
+<img src="https://i.postimg.cc/PJwFXFk5/jscar2.png" width=400>
  <p/>
  Με αποτέλεσμα:
   <p align="center">
