@@ -186,7 +186,7 @@
 <img src="https://i.postimg.cc/WbxDdkNd/Error.png" width=600>
  <p/>
 
-Με λίγη μελέτη όμως, έμαθα ότι το "createObjectURL" έχει καταργηθεί για τους browser Google Chrome και Firefox (https://stackoverflow.com/questions/27120757/failed-to-execute-createobjecturl-on-url). Και για να δουλέωει πρόσθεσα την μεταβλητή var = stream και άλλαξα το εξής:
+Με λίγη μελέτη όμως, έμαθα ότι το "createObjectURL" έχει καταργηθεί για τους browser Google Chrome και Firefox (https://stackoverflow.com/questions/27120757/failed-to-execute-createobjecturl-on-url). Και για να δουλέψει πρόσθεσα την μεταβλητή var = stream και άλλαξα το εξής:
 <p align="center">
 <img src="https://i.postimg.cc/sDzjq4g9/Stream.png" width=500>
  <p/>
