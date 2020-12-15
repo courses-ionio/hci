@@ -260,7 +260,7 @@ Yστερα από σχετική αναζήτηση στο διαδύκτιο �
 - [killzone2 - Table](https://github.com/pibook/_gallery/blob/f42dab2b2a96561e31ec35b4a93c5e31e112e138/killzone2.md)
   - >[killzone2 - Normal Image](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/killzone2.png)
   - >[killzone2 - 160px Image](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/killzone2-thumb.png)
-  - >[killzone2 σελιδας βιβλιου](https://inspiring-ride-de6440.netlify.app/gallery/killzone2/)
+  - >[Συνδεσμος σελιδας βιβλιου](https://inspiring-ride-de6440.netlify.app/gallery/killzone2/)
  
 
 
@@ -268,10 +268,19 @@ Yστερα από σχετική αναζήτηση στο διαδύκτιο �
 | :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
 | DIATSIGK      |Metroid Prime | [Link image 160 pixel](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/metroidprime-thumb.png)| Υπάρχουν στοιχεία μέσα στο 3D παιχνίδι τόσο στο γραφικό περιβάλλον όσο και στην περιγραφή. Ο ίδιος ο χρήστης όσο και η προσωποποίηση του μέσα στο παιχνίδι μπορούν να αλληλεπιδράσουν με αυτά με οπτική επαφή και με κινήσεις αντίστοιχα. Πχ Metroid prime Οι διεπαφές του κράνους της προσοποποήσης του παίκτη πληροφορούν ανα πάσα στιγμή ποιοι είναι οι στόχοι και ποιοι είναι οι αντίπαλοι του Diegetic. | [Lisence Url](https://en.wikipedia.org/wiki/Metroid_Prime) |wiki| Mορφές  | Diegetic| |
 
+Normal Image | 160px Image
+--- | ---
+![](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/metroidprime.png) | ![](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/metroidprime-thumb.png)
+
+
 | Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
 | :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
 | DIATSIGK      |Killzone2 | [Link image 160 pixel](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/killzone2-thumb.png)| Στοιχεία που έχουν 2D διαστάσεις και παραμένουν στο περιβάλλον του παιχνιδιού με σκοπό επιπλέον πληροφοριών .Παραδειγμα Killzone2, H σκόνη που σηκώνεται όταν ο παίκτης πυροβολεί εμποδίζει την ορατότητα. Τα παιχνίδια αυτά εντάσσονται στην κατηγορία meta element. | [Lisence Url](https://en.wikipedia.org/wiki/Killzone_2) |wiki| Mορφές  | Meta Element| |
 
-Mε την εξέταση των συμπερασμάτων και του ρόλου των diegetic και meta-element η χρήση περισσότερων από ενός τύπων διασύνδεσης γίνεται για να διασφαλίσει ότι οι παίκτες θα μπορούν να αλληλεπιδρούν αποτελεσματικά με αυτό. Τα αποτελέσματα που παρουσιάζονται στην βιβλιογραφία δείχνουν μια γενική προτίμηση των χρηστών για πλήρως diegetic διεπαφές στα παιχνίδια (σε αντίθεση με τις non diegetic), ενώ επιβεβαιώνουν την σημασία του ρόλου των άμμεσων ελέγχων των συμβάντων που γίνονται κάθε στιγμή στο παιχνίδι. Ακόμη επειδή η πολυπλοκότητα που εμφανίζουν μερικές διεπαφές σε αυτά τα παιχνίδια υποδεικνύει πάντα την ανάγκη για περεταίρω αξιολόγηση αυτών των διεπαφών [[3]].
+Normal Image | 160px Image
+--- | ---
+![](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/killzone2.png) | ![](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/killzone2-thumb.png)
+
+Mε την εξέταση των συμπερασμάτων και του ρόλου των diegetic και meta-element η χρήση περισσότερων από ενός τύπων διασύνδεσης γίνεται για να διασφαλίσει ότι οι παίκτες θα μπορούν να αλληλεπιδρούν αποτελεσματικά με αυτό. Τα αποτελέσματα που παρουσιάζονται στην βιβλιογραφία δείχνουν μια γενική προτίμηση των χρηστών για πλήρως diegetic και meta elements διεπαφές στα παιχνίδια (σε αντίθεση με τις non diegetic), ενώ επιβεβαιώνουν την σημασία του ρόλου των άμμεσων ελέγχων των συμβάντων που γίνονται κάθε στιγμή στο παιχνίδι. Ακόμη επειδή η πολυπλοκότητα που εμφανίζουν μερικές διεπαφές σε αυτά τα παιχνίδια υποδεικνύει πάντα την ανάγκη για περεταίρω αξιολόγηση αυτών των διεπαφών [[3]].
 
 [3]: <https://link.springer.com/article/10.1007/s12193-016-0236-5>
