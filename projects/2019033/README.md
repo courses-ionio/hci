@@ -106,6 +106,6 @@ Netlify Link: https://hci-p2019033.netlify.app/remix/plyr-video-player/
 
 ## Todo List (emacs)
 
-![TodoListEmacs](http://i.imgur.com/4K7ABR8.gif))
+![TodoListEmacs](http://i.imgur.com/a/3X2Qnlg.gif))
 
 Asciinema Link: https://asciinema.org/a/379223
