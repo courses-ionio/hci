@@ -42,13 +42,13 @@ Netlify Link: https://hci-p2019033.netlify.app/remix/form-validation/
 Περιγραφή άσκησης
 (change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software))
 
-![Imgur](https://imgur.com/4K7ABR8.gif)
+![bash](https://i.imgur.com/4K7ABR8.gif)
 
 Asciinema link: https://asciinema.org/a/368186
 
 ## Menu Scroll
 
-![Imgur](https://imgur.com/YsVktD4.gif)
+![menuscroll](https://i.imgur.com/YsVktD4.gif)
 
 Link άσκησης στο codepen: https://codepen.io/p2019033/pen/MWeQMZJ <br>
 Link στο github (remix): https://github.com/Tsimpliarakis/site/blob/master/_remix/menu-scroll.md
