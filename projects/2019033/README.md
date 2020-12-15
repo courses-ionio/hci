@@ -16,7 +16,7 @@
 | 7 | [Mouse Form](#mouse-form) *GUI* |
 | 8 | [MP3 Download](#mp3-download) *CLI* |
 | 9 | [Plyr video player](#plyr-video-player) *GUI* |
-| 10 | συμμετοχικό περιεχόμενο |
+| 10 | [Todo list (emacs)](#todo-list-(emacs)) *CLI* |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
@@ -103,3 +103,7 @@ Asciinema Link: https://asciinema.org/a/375956
 ![Plyr video player](https://imgur.com/hQFpsvA.png)
 
 Netlify Link: https://hci-p2019033.netlify.app/remix/plyr-video-player/
+
+## Todo List (emacs)
+
+Asciinema Link: https://asciinema.org/a/3759223
