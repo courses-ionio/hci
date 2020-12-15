@@ -686,7 +686,10 @@ To IP του server που θέλει να συνδεθεί μέσω ssh
 
 Μετα απο όλα αυτά βάζουμε το password που μας ζητάει και κάνει login
 
+### Asciinema video
+[![asciicast](https://asciinema.org/a/379289.svg)](https://asciinema.org/a/379289)
 
+<br>
 
 ### O κώδικας
 
