@@ -143,6 +143,9 @@
 
 [Σύνδεσμος Άσκησης](https://asciinema.org/a/4McFVl6cSvPEnV6su2Y41V4HT)
 
+## Τι έκανα :
+Αρχικά έκανα install κάποια απαραίτητες εντολές για το powerline όπως : install python3-pip και install pip3  και εγκατέστησα και το git εργαλέιο  του powerline για linux ,αφού το εγκατάστήσω εκτελώ την εντολή "pip3 install git+git://github.com/Lokaltog/powerline"  του παραδείγματος της tecmint για την εγκατάσταση του powerline.Η εντολή pip3 shpw powerline-status μας δείχνει την τωρινή κατάσταση και την τοποθεσία του αρχείου μας.Μετά εγκαθιστώ νέες γραμματοσειρές του powerline και οι νέες γραμματοσειρές πρέπει να μπούν στο σωστό φάκελο δηλαδή το font directory έτσι εκτελούμε της εντολές :" sudo mv PowerlineSymbols.otf /usr/share/fonts/" και "sudo mv 10-powerline-symbols.conf /etc/fonts/conf.d/" αφού έχει εγκατασταθεί το fontconfig file.Επίσης εγκαθιστώ και το tmux και έπειτα μπορώ μέσω του vim να κάνω edit το αρχείο " .basrc" και το  " .vim/vimrc" και να προσθέσω τον κώδικα για να αλλάξει το status line.
+
 [Σύνδεσμος Βιβλιογραφίας](https://www.tecmint.com/powerline-adds-powerful-statuslines-and-prompts-to-vim-and-bash/)
 
 ## Παραδοτέο 11
