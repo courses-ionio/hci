@@ -16,7 +16,7 @@
 | 7 | [Mouse Form](#mouse-form) *GUI* |
 | 8 | [MP3 Download](#mp3-download) *CLI* |
 | 9 | [Plyr video player](#plyr-video-player) *GUI* |
-| 10 | [Todo list (emacs)](#todo-list-(emacs)) *CLI* |
+| 10 | [Todo list (emacs)](#todo-list-emacs) *CLI* |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
