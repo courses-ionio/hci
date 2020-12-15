@@ -218,3 +218,10 @@
  <p/>
  
 To [λινκ](https://codepen.io/haki-malai/pen/BaLWqMb)
+
+## CSS Queries
+
+Πρόσθεσα queries και έκανα το fond-size να μικραίνει.
+Δεν πρόσθεσα gif γιατί το λογισμικό είχε θέμα στο resize και το έκοβε.
+
+Το [λινκ](https://codepen.io/haki-malai/pen/bGwqQod)
