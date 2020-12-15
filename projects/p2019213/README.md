@@ -695,37 +695,37 @@ To IP του server που θέλει να συνδεθεί μέσω ssh
 
 ```bash
 #!/bin/bash
-echo -n “~[SSH Connector]~\n”
+echo -n "~[SSH Connector]~\n"
 
-echo -n “Please enter a USERNAME for login: ”
+echo -n "Please enter a USERNAME for login: "
 read username
 
-echo -n “Please enter a IP: ”
+echo -n "Please enter a IP: "
 read ip
 
-echo -n “Please enter a PORT:  ”
+echo -n "Please enter a PORT:  "
 read port
 
-ssh “$username@$ip” “-p $port”
+ssh "$username@$ip" "-p $port"
 ```
 
 Επεξήγηση κώδικα
 
 ```bash
-echo -n “Please enter a USERNAME for login: ”
+echo -n "Please enter a USERNAME for login: "
 read username
 
-echo -n “Please enter a IP: ”
+echo -n "Please enter a IP: "
 read ip
 
-echo -n “Please enter a PORT:  ”
+echo -n "Please enter a PORT:  "
 read port
 ```
 Εδώ έχουμε το Input του χρήστη δηλαδή ζητάει το username,ip,port
 
 
 ```bash
-ssh “$username@$ip” “-p $port”
+ssh "$username@$ip" "-p $port"
 ```
 Εδώ κάνουμε Login με τα input που έδωσε ο χρήστης.
 
