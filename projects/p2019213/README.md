@@ -319,7 +319,7 @@ section.p15 a {
 
 [2.Configure a color-theme](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#2configure-a-color-theme)
 
-
+ 
 ### 1.Setup powerline
 
 
