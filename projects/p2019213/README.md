@@ -33,7 +33,7 @@
 | 7 | [Άσκηση προγραμματισμού(Switch)](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7) |
 | 8 | [Άσκηση γραμμής εντολών(search, download and play (with the terminal) your favorite song of the month from youtube)](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-8) |
 | 9 | [Άσκηση προγραμματισμού(YouTube video player)](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-9) |
-| 10 | Άσκηση γραμμής εντολών |
+| 10 | [Άσκηση γραμμής εντολών(SSH Connector)]((https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-10)) |
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση* |
 <br/>
@@ -665,3 +665,63 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
 #### :arrow_double_up:: [Επιστροφή στον πίνακα.](https://github.com/p19tzam/hci/blob/p2019213/projects/p2019213/README.md#-%CF%80%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82-%CE%BC%CE%B5-%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7-%CF%84%CF%89%CE%BD-%CF%80%CF%81%CE%BF%CE%B8%CE%B5%CF%83%CE%BC%CE%B9%CF%8E%CE%BD-%CE%BA%CE%B1%CE%B9-%CF%84%CF%89%CE%BD-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CF%89%CE%BD)
 <br>
+
+
+<h2>   :book:: Παραδοτέο 10</a></h2>
+
+### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 4 (SSH Connector).
+
+<br>
+
+
+Σε αυτό το παραδοτέο επέλεξα να κάνω την άσκηση γραμμής εντολών που πρέπει να κάνουμε connect σε ενα ssh server μέσω τερματικού.
+Εγώ επέλεξα όπως όλες τις προηγούμενες ασκήσης γραμμής εντολών να την κάνω με bash scripting..
+
+
+Σε αυτό το bash script:
+	Ζητάω απο τον χρήστη input:
+Το username που θέλει να κάνει login δηλαδή connect
+To IP του server που θέλει να συνδεθεί μέσω ssh
+Και το PORT του SSH(Μπορεί ο server να έχει στο configuration του διαφορετικο PORT).
+
+Μετα απο όλα αυτά βάζουμε το password που μας ζητάει και κάνει login
+
+
+
+### O κώδικας
+
+```bash
+#!/bin/bash
+echo -n “~[SSH Connector]~\n”
+
+echo -n “Please enter a USERNAME for login: ”
+read username
+
+echo -n “Please enter a IP: ”
+read ip
+
+echo -n “Please enter a PORT:  ”
+read port
+
+ssh “$username@$ip” “-p $port”
+```
+
+Επεξήγηση κώδικα
+
+```bash
+echo -n “Please enter a USERNAME for login: ”
+read username
+
+echo -n “Please enter a IP: ”
+read ip
+
+echo -n “Please enter a PORT:  ”
+read port
+```
+Εδώ έχουμε το Input του χρήστη δηλαδή ζητάει το username,ip,port
+
+
+```bash
+ssh “$username@$ip” “-p $port”
+```
+Εδώ κάνουμε Login με τα input που έδωσε ο χρήστης.
