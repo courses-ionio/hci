@@ -55,3 +55,16 @@ https://asciinema.org/a/356628
 Άσκηση προγραμματισμου 4
 
 https://github.com/koutsokostas/site/blob/master/_remix/menu-scroll.md
+
+
+Συμμετοχικό Περιεχόμενο
+
+Βιογραφία
+https://github.com/koutsokostas/site/blob/master/_biography/Linus%20Benedict%20Torvalds%20.md
+
+Μελέτη Περίπτωσης
+
+https://github.com/koutsokostas/site/blob/master/_case-study/youtube.md
+
+
+
