@@ -74,7 +74,7 @@
 ## Άσκηση προγραμματισμού Weather fetch
 **_Η παρακατω ασκηση με την χρήση της εντολής curl αποτελεί ένα εναλλακτικό και πιο εύχρηστο τρόπο για να δει κανείς τη πρόγνωση του καιρο΄ύ άμεσα στον τερματικό του, αντί να την αναζητήσει στο διαδίκτυο με browsing._**
 ![Weather fetch command line](https://user-images.githubusercontent.com/72515787/101266647-89e47580-3759-11eb-894b-e683bba55ae3.gif)
-### _Link της άσκησης στο asciinema :_(https://asciinema.org/a/tA1Ap924v3d2w119ZgNQfHbQL)_
+### _Link της άσκησης στο asciinema:_(https://asciinema.org/a/tA1Ap924v3d2w119ZgNQfHbQL)_
 
 
 
@@ -93,4 +93,7 @@
 
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-option.md)_**
 
-https://asciinema.org/a/nhgNrJZWMRWDxR0iT6rXwk8Rl
+# Παραδοτέο 7ο 
+## Άσκηση γραμμής εντολών Software(SW)
+**_Link της άσκησης στο asciinema: https://asciinema.org/a/nhgNrJZWMRWDxR0iT6rXwk8Rl_**
+![Ntfy gif](https://user-images.githubusercontent.com/72515787/102396438-207c2680-3fe5-11eb-8a6d-7ca369e45dcf.gif)
