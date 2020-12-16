@@ -85,6 +85,14 @@
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)**
 
 
+# Παραδοτέο 7ο 
+## Άσκηση γραμμής εντολών Software(SW)
+**_Link της άσκησης στο asciinema:_**
+[![asciicast](https://asciinema.org/a/nhgNrJZWMRWDxR0iT6rXwk8Rl.svg)](https://asciinema.org/a/nhgNrJZWMRWDxR0iT6rXwk8Rl)
+
+![Ntfy gif](https://user-images.githubusercontent.com/72515787/102396438-207c2680-3fe5-11eb-8a6d-7ca369e45dcf.gif)
+
+
 
 # Παραδοτέο 8ο
 ## Άσκηση προγραμματισμού Mouse Option
@@ -93,7 +101,3 @@
 
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-option.md)_**
 
-# Παραδοτέο 7ο 
-## Άσκηση γραμμής εντολών Software(SW)
-**_Link της άσκησης στο asciinema: https://asciinema.org/a/nhgNrJZWMRWDxR0iT6rXwk8Rl_**
-![Ntfy gif](https://user-images.githubusercontent.com/72515787/102396438-207c2680-3fe5-11eb-8a6d-7ca369e45dcf.gif)
