@@ -6,20 +6,20 @@
 
 ## Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων
 
-| Εβδομάδα | Παραδοτέο |
+| Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | [Εισαγωγή](https://github.com/Vuxxs/hci/tree/2019118/projects/2019118#user-content-πίνακας-με-σύνοψη-των-προθεσμιών-και-των-παραδοτέων:~:text=%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%201) |
-| 2 | [Άσκηση προγραμματισμού Button](https://github.com/Vuxxs/hci/tree/2019118/projects/2019118#user-content-παραδοτέο-1:~:text=%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%202) |
-| 3 | [Άσκηση γραμμής εντολών](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου:~:text=%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%203) |
-| 4 | [Άσκηση προγραμματισμού Image](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-3:~:text=%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%204) |
-| 5 | [Άσκηση γραμμής εντολών](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου-1:~:text=gif!-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%205) |
-| 6 | [Άσκηση προγραμματισμού + συμμετοχικό περιεχόμενο](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-5:~:text=weather%22-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%206) |
-| 7 | [Άσκηση γραμμής εντολών](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου-2:~:text=%CE%B1%CF%85%CF%84%CF%8C.-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%207) |
-| 8 | [Άσκηση προγραμματισμού](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-παραδοτέο-7:~:text=pandoc%22-,%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%208) |
-| 9 | [Άσκηση γραμμής εντολών](https://github.com/Vuxxs/hci/blob/2019118/projects/2019118/README.md#user-content-εκπλήρωση-ζητούμενων-παραδοτέου-3:~:text=%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%209,-%CE%86%CF%83%CE%BA%CE%B7%CF%83%CE%B7) |
-| 10 | συμμετοχικό περιεχόμενο |
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
-| 12 | Τελική αναφορά |
+| 1 | Εισαγωγή |
+| 2 | Άσκηση προγραμματισμού "button" |
+| 3 | Άσκηση γραμμής εντολών "set-up the main dependencies and demonstrate your base system" |
+| 4 | Άσκηση προγραμματισμού "image" |
+| 5 | Άσκηση γραμμής εντολών "check the weather" |
+| 6 | Συμμετοχικό περιεχόμενο |
+| 7 | Άσκηση προγραμματισμού "mouse-scroll" |
+| 8 | Άσκηση γραμμής εντολών "create your own static site and blog generator with pandoc" |
+| 9 | Άσκηση προγραμματισμού "menu-pie" |
+| 10 | Άσκηση γραμμής εντολών "search, download and play (with the terminal) your favorite song of the month from youtube" |
+| 11 | Συμμετοχικό περιεχόμενο |
+| 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
 
 ## Παραδοτέο 1
@@ -51,9 +51,17 @@
 
 Η διαφορά του αποτελέσματος είναι, όπως δείχνει και η ταμπέλα του κουμπιού, να οδηγήστε στα projects μου aka στο GitHub Profile μου σε αντίθεση με πριν που δεν γινόταν κάτι διαφορετικό.
 
+### Πηγές
+
+Ο τρόπος που κατάφερα να κάνω αυτή την άσκηση ήταν με το να αναφερθώ στις γνώσεις μου και να κοιτάξω το documentation του font-awesome για να αλλάξω τα εικονίδια του κουμπιού.
+
 ## Παραδοτέο 3
 
 [Άσκηση Γραμμής Εντολών "set-up the main dependencies and demonstrate your base system"](https://asciinema.org/a/pGRw6ac3RANBLGaaYZnhpah3C)
+
+### Πηγές
+
+Ο τρόπος που κατάφερα να κάνω αυτή την άσκηση ήταν με το να αναφερθώ σε διάφορα άρθρα περί του θέματος, πολλά που εξηγούσαν διάφορετικούς τρόπους και κατάφερα να επιλέξω τον τρόπο που μου φαίνεται πιο ορθός.
 
 ## Παραδοτέο 4
 
@@ -74,22 +82,39 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 
 <img src= "https://i.imgur.com/erCdQWV.gif">
 
+### Πηγές
+
+Ο τρόπος που κατάφερα να κάνω αυτή την άσκηση ήταν με το να χρησιμοποιήσω τις υπάρχουσες γνώσεις μου που ανέπτυξα με tutorials από w3s & CodeCademy και κυρίως με δική μου εξάσκηση.
+
 ## Παραδοτέο 5
 
 [Άσκηση Γραμμής Εντολών "check the weather"](https://asciinema.org/a/sXUennhrjSEeavNPyFNLqJ7mk)
 
+### Πηγές
+
+Ο τρόπος που κατάφερα να κάνω αυτή την άσκηση ήταν με το να αναφερθώ στην ιστοσελίδα [wttr.in](https://wttr.in/:help)
+
 ## Παραδοτέο 6
 
+[Διαφάνεια Skyrim](https://github.com/Vuxxs/site/blob/master/_case-study/skyrim.md)
+
+[Διαφάνεια Borderlands](https://github.com/Vuxxs/site/blob/master/_case-study/borderlands.md)
+
+### Συμμετοχικό περιεχόμενο
+
+Ολοκλήρωσα όλα τα ζητούμενα φτιάχνοντας σωστά τα submodules και προσθέτοντας εικόνες, licenses κλπ. Πρόσθεσα δύο διαφάνειες που ονομάζονται Skyrim + Borderlands και κατανόησα τα submodules όσο στη λειτουργία τους τόσο και στη χρήσιμότητά τους που είναι το να μπορεί να μένει μία συγκεκριμένη έκδοση από ένα απομακρισμένο repo χωρίς να επιρρεάζεται από τα updates σε οποιοδήποτε branch βρίσκεται.
+
+### Πηγές
+
+Ο τρόπος που κατάφερα να κάνω αυτή την άσκηση ήταν με το να αναφερθώ σε τρίτες πηγές και YouTube tutorials που εξηγούν πως να αφαιρέσουμε τα submodules. Τα υπόλοιπα ήταν εύκολα και χρειάστικαν μόνο την εξάσκιση που έχω στο GitHub.
+
+## Παραδοτέο 7
 
 [Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/mouse-scroll.md)
 
 [Website link](https://suspicious-shockley-dd6d9b.netlify.app/remix/mouse-scroll/)
 
 [Δείτε το στο Codepen](https://codepen.io/vuxxs/pen/JjKxBMM)
-
-[Διαφάνεια Skyrim](https://github.com/Vuxxs/site/blob/master/_case-study/skyrim.md)
-
-[Διαφάνεια Borderlands](https://github.com/Vuxxs/site/blob/master/_case-study/borderlands.md)
 
 ### Εκπλήρωση ζητούμενων παραδοτέου 
 
@@ -99,17 +124,21 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 
 <img src="https://i.imgur.com/nb0iLFq.gif">
 
-### Συμμετοχικό περιεχόμενο
+### Πηγές
 
-Ολοκλήρωσα όλα τα ζητούμενα φτιάχνοντας σωστά τα submodules και προσθέτοντας εικόνες, licenses κλπ. Πρόσθεσα δύο διαφάνειες που ονομάζονται Skyrim + Borderlands και κατανόησα τα submodules όσο στη λειτουργία τους τόσο και στη χρήσιμότητά τους που είναι το να μπορεί να μένει μία συγκεκριμένη έκδοση από ένα απομακρισμένο repo χωρίς να επιρρεάζεται από τα updates σε οποιοδήποτε branch βρίσκεται.
-
-## Παραδοτέο 7
-
-[Άσκηση Γραμμής Εντολών "create your own static site and blog generator with pandoc"](https://asciinema.org/a/iX2LiRTtb6yFbNXjiqjKBsG2M)
+Ο τρόπος που κατάφερα να κάνω αυτή την άσκηση ήταν με το να χρησιμοποιήσω τις υπάρχουσες γνώσεις μου που ανέπτυξα με tutorials από w3s & CodeCademy και κυρίως με δική μου εξάσκηση και πιο συγκεκριμένα να ψάξω έναν ήδη υπάρχων κώδικα που είχα γράψει για το Ionian Discord Bot (με βοήθεια από το StackOverflow community) και να τον εφαρμόσω κατάλληλα στην άσκηση. Ο κώδικας χρησιμοποιείται στο να δείνει τυχαία χρώματα στη [μπάρα των embed του Discord](https://i.imgur.com/bLfmfGi.png).
 
 ## Παραδοτέο 8
 
-[Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/image.md)
+[Άσκηση Γραμμής Εντολών "create your own static site and blog generator with pandoc"](https://asciinema.org/a/iX2LiRTtb6yFbNXjiqjKBsG2M)
+
+### Πηγές
+
+Ο τρόπος που κατάφερα να κάνω αυτή την άσκηση ήταν με το να αναφερθώ στο [Pandoc documentation](https://pandoc.org/).
+
+## Παραδοτέο 9
+
+[Αποθετήριο κώδικα παραδοτέου](https://github.com/Vuxxs/site/blob/master/_remix/menu-pie.md)
 
 [Website link](https://suspicious-shockley-dd6d9b.netlify.app/remix/menu-pie/)
 
@@ -124,6 +153,14 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 
 <img src= "https://i.imgur.com/ZNIaPXe.gif">
 
-## Παραδοτέο 9
+### Πηγές
 
-[Άσκηση Γραμμής Εντολών "	search, download and play (with the terminal) your favorite song of the month from youtube"](https://asciinema.org/a/BKkNm6eH9OsmhuJWdZ4KXG9UB)
+Ο τρόπος που κατάφερα να κάνω αυτή την άσκηση ήταν με το να χρησιμοποιήσω τις υπάρχουσες γνώσεις μου που ανέπτυξα με tutorials από w3s & CodeCademy και κυρίως με δική μου εξάσκηση.
+
+## Παραδοτέο 10
+
+[Άσκηση Γραμμής Εντολών "search, download and play (with the terminal) your favorite song of the month from youtube"](https://asciinema.org/a/BKkNm6eH9OsmhuJWdZ4KXG9UB)
+
+### Πηγές
+
+Ο τρόπος που κατάφερα να κάνω αυτή την άσκηση ήταν με το να αναφερθώ στο [youtube-dl repository](https://github.com/ytdl-org/youtube-dl/blob/master/README.md)
