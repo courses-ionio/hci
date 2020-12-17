@@ -86,6 +86,8 @@
 #### Επιλογή και Επίλυση άσκησης
 Η άσκησης της επιλογής μου ήταν η [επεξεργασία ενός status bar και του color theme](https://github.com/epidrome/dokey#hci).Αρχικά μας ζητείται να επεξεργαστούμε το status bar και στην συνέχεια να επεξεργαστούμε το color theme.Για status bar χρησιμοποιηώ το tmux διότι εύκολο διαχειρισμό.Για το color theme χρησιμοποιώ το pywal με συνδυασμό του imagemagick έτσι ώστε μέσω του terminal να μπορώ να αλλάζω το color theme με το να αλλάξω το wallpaper.([Πατήστε για το βίντεο🎥.]
 
+![Screenshot from 2020-12-17 19-40-47](https://user-images.githubusercontent.com/72465438/102524394-9cd43f80-40a1-11eb-9978-6552399f2e20.png)
+
 #### Σελίδες που βοήθησαν
 pywal:https://github.com/dylanaraps/pywal <br/>
 how to download pywal:https://itsfoss.com/pywal/ <br/>
