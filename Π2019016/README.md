@@ -7,7 +7,7 @@
 | 4 |[Css circle menu](#Css-Circle-Menu-Excercise) |
 | 5 |[Weather forecast](#Weather-forecast)|
 | 6 |[Form example](#Form-Example)|
-| 7 |[Ntfy excersize] (#Ntfy-exercize)|
+| 7 |[Ntfy excersize](#Ntfy-excersize)|
 | 8 | [Visualization dataset excercise](#Visualization-database-excercise)|
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
