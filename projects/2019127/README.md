@@ -83,7 +83,7 @@
 #### Σελίδες που βοήθησαν
 Vim:https:https://www.vim.org/  <br/>
 Vim Editor Commands:https://www.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm
-
+Basic Commands for Vim:https://www.youtube.com/watch?v=ggSyF1SVFr4
 ## 9ο Παραδοτέο
 Στο 9ο παραδοτέο χρειάστηκε να επιλύσουμε μια [άσκηση προγραμματισμού](https://pibook.epidro.me/remix/) της επιλογής μας,ανάμεσα από τις ασκήσεις που έχει το βιβλίο του καθηγητή.
 
