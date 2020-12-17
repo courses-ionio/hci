@@ -11,7 +11,7 @@
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο   |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) <li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV)<li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
@@ -42,3 +42,8 @@ tittle=" change your command prompt with your student ID, list your dot files, d
 <i><a href= "https://github.com/eliastk09/gr/blob/gh-pages/_remix/image-zoom.md" tittle=“ Image zoom”>Image zoom</a></i>
 
 Τροποποιούμε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας από το προηγούμενο παράδειγμα(Image processing). Συνδυάζουμε τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover
+
+<h2><span id="Άσκηση προγραμματισμού">Άσκηση προγραμματισμού</span></h2>
+<i><a href= "https://github.com/eliastk09/gr/blob/gh-pages/_remix/mouse-eraser.md" tittle=“Mouse eraser”>Mouse eraser</a></i>
+
+Αλλάζουμε οποιαδήποτε από τις δύο εικόνες καθώς και το μέγεθος του eraser
