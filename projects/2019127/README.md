@@ -84,7 +84,7 @@
 Στο 10ο παραδοτέο  έπρεπε να λύσουμε μια [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) από το βιβλίο του καθηγητή.
 
 #### Επιλογή και Επίλυση άσκησης
-Η άσκησης της επιλογής μου ήταν η [επεξεργασία ενός status bar και του color theme](https://github.com/epidrome/dokey#hci).Αρχικά μας ζητείται να επεξεργαστούμε το status bar και στην συνέχεια να επεξεργαστούμε το color theme.Για status bar χρησιμοποιηώ το tmux διότι εύκολο διαχειρισμό.Για το color theme χρησιμοποιώ το pywal με συνδυασμό του imagemagick έτσι ώστε μέσω του terminal να μπορώ να αλλάζω το color theme με το να αλλάξω το wallpaper.([Πατήστε για το βίντεο🎥.]
+Η άσκησης της επιλογής μου ήταν η [επεξεργασία ενός status bar και του color theme](https://github.com/epidrome/dokey#hci).Αρχικά μας ζητείται να επεξεργαστούμε το status bar και στην συνέχεια να επεξεργαστούμε το color theme.Για status bar χρησιμοποιηώ το tmux διότι εύκολο διαχειρισμό.Για το color theme χρησιμοποιώ το pywal με συνδυασμό του imagemagick έτσι ώστε μέσω του terminal να μπορώ να αλλάζω το color theme με το να αλλάξω το wallpaper.Δυστυχώς στο βίντεο δεν φαίνεται η αλλαγή του color theme,αλλά μπορείτε να το δείτε στην παρακάτω φωτογραφία καθώς τραβήχτηκε αμέσως μετά το τέλος του βίντεο.([Πατήστε για το βίντεο🎥.](https://asciinema.org/a/379831)
 
 ![Screenshot from 2020-12-17 19-40-47](https://user-images.githubusercontent.com/72465438/102524394-9cd43f80-40a1-11eb-9978-6552399f2e20.png)
 
