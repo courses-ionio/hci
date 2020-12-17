@@ -10,7 +10,7 @@
 | 5 | Άσκηση γραμμής εντολών  <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a> |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο   |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) <li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
-| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
+| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a> |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV)<li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -42,6 +42,12 @@ tittle=" change your command prompt with your student ID, list your dot files, d
 <i><a href= "https://github.com/eliastk09/gr/blob/gh-pages/_remix/image-zoom.md" tittle=“ Image zoom”>Image zoom</a></i>
 
 Τροποποιούμε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας από το προηγούμενο παράδειγμα(Image processing). Συνδυάζουμε τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover
+
+<h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
+<i><a href= "https://asciinema.org/a/379868"
+      tittle="edit the vim or the shell configuration file">edit the vim or the shell configuration file</a></i>
+      
+Δημιουργούμε ενα αρχείο με τη χρήση του vim και μετά δείχνουμε την χρηση του coppy-paste 
 
 <h2><span id="Άσκηση προγραμματισμού">Άσκηση προγραμματισμού</span></h2>
 <i><a href= "https://github.com/eliastk09/gr/blob/gh-pages/_remix/mouse-eraser.md" tittle=“Mouse eraser”>Mouse eraser</a></i>
