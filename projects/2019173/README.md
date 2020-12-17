@@ -116,8 +116,7 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 
 2) την επεξεργασία του παραθύρου από: [How do you change the color scheme in bash on Ubuntu for Windows?](https://superuser.com/questions/1114549/how-do-you-change-the-color-scheme-in-bash-on-ubuntu-for-windows), [3 Ways to Customize Your Windows Terminal](https://blogs.windows.com/windowsdeveloper/2020/06/30/3-ways-to-customize-your-windows-terminal/), [MY WINDOWS TERMINAL COLOR SCHEMES](https://www.thomasmaurer.ch/2020/06/my-windows-terminal-color-schemes/) και [ImageMagick Compilation and Installation](https://www.tecmint.com/install-imagemagick-on-debian-ubuntu/?fbclid=IwAR2dbv7LT5isuxSVpnYAlpI-x9DeRcqwLa4l-TtiP6BGNvxVfPFKgGXxK_k).
 
-- Τα βήματα που έπρεπε να ακολουθήσω ήταν τα εξής: πρώτη ενέργεια ήταν η εγκατάσταση των απαραίτητων <<πακέτων>> και προγραμμάτων στο terminal. Στη συνέχεια, έπρεπε να δημιουργήσω έναν φάκελο με την εικόνα που είχα επιλέξει. Να μπω στα αρχεία μου και συγκεκριμένα στο Pictures, μέσω του τερματικού, και με την εντολή wal -i 1.jpeg  να αλλάξω τη φωτογραφία. Όπως φαίνεται και στην παρακάτω εικόνα, το φόντο που υπήρχε, που ήταν το απλό του Ubuntu με ένα άγριο ζώο, αντικαταστάθηκε με την εικόνα της επιλογής μου μετά την εκτέλεση των παραπάνω εντολών στο τερματικό.
-![Image of Ubuntu](file:///C:/Users/andri/Pictures/IMG_20201213_234000.jpg)
+- Τα βήματα που έπρεπε να ακολουθήσω ήταν τα εξής: πρώτη ενέργεια ήταν η εγκατάσταση των απαραίτητων <<πακέτων>> και προγραμμάτων στο terminal. Στη συνέχεια, έπρεπε να δημιουργήσω έναν φάκελο με την εικόνα που είχα επιλέξει. Να μπω στα αρχεία μου και συγκεκριμένα στο Pictures, μέσω του τερματικού, και με την εντολή wal -i 1.jpeg  να αλλάξω τη φωτογραφία.
 
 Η υλοποίηση της άσκησης είναι: https://asciinema.org/a/AT2hlYQmU7Z3RDJKqWfD6uQP6
 
