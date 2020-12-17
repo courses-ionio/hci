@@ -145,7 +145,27 @@
 ### Organize your notes with emacs (use org mode)
 #### [Asciinema link 3ης Άσκηση γραμμής εντολών]
 
-Για να χρησιμοποιήσω το org mode δημιούργησα ένα αρχείο με την εντολή ***emacs mynotes.org*** , όπου αυτό το αρχείο θα περιέχει τις σημειώσεις μου.
+Αφού εγκατέστησα το emacs, για να χρησιμοποιήσω το org mode δημιούργησα ένα αρχείο με την εντολή ***emacs mynotes.org*** ![alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_2.png)
+, όπου αυτό το αρχείο θα περιέχει τις σημειώσεις μου. Έπειτα άρχισα να δημιουργώ τις σημειώσεις μου. Η τελική τους μορφή είναι η εξής. ![alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1.png)
+Για να φθάσω στην τελική μορφή χρσιμοποίησα τις εξής εντολές στην εφαρμογή emacs κατα το org mode:
+
+| Κουμπιά | Αποτέλεσμα |
+| --- | --- |
+| 1.ctrl+enter  | * |
+| 2.(ctrl + enter) + (alt + right-arrow)  | ** |
+| 3.shift + right-arrow | TODO or DONE |
+| 4. - [  ] | Checkbox |
+| 5.ctrl + c | Check the Checkbox |
+| 6. [ % ] | Ποσοστό ολοκληρομένων σημειώσεων (τοις εκατό) |
+| 7. [ / ] | Ποσοστό ολοκληρομένων σημειώσεων (κλάσμα) |
+| 8.ctrl + c + d | Δημιουργία προθεσμίας σημείωσης |
+
+Για την ολοκλήρωση της άσκησης με βοήθησαν οι εξής πηγές:
+https://orgmode.org/orgcard.txt
+https://www.youtube.com/watch?v=bzZ09dAbLEE&t=584s
+
+
+
 
 
 ## 4η Άσκηση προγραμματισμού
