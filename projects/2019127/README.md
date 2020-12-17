@@ -12,7 +12,7 @@
 | 7 | [7ο Παραδοτέο: Άσκηση προγραμματισμού](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#7%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 8 | 8ο Παραδοτέο: Άσκηση γραμμής εντολών  |
 | 9 | [9ο Παραδοτέο: Άσκηση προγραμματισμού](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#9%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
-| 10 | [10ο Παραδοτέο: Άσκηση γραμμής εντολών]()
+| 10 | [10ο Παραδοτέο: Άσκηση γραμμής εντολών](https://github.com/p19verg/hci/tree/%CE%A02019127/projects/2019127#10%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
