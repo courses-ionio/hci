@@ -65,13 +65,11 @@ Link για το asciinema: https://asciinema.org/a/379851
 
 ## Βήματα:
 Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo apt install --yes powerline**. Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal. Έπειτα μέσω της εντολής **vi ~/.bashrc** προσέθεσα στο bash file το απαραίτητο configuration του **powerline** για τη δημιουργία status bar, δηλαδή:
-**# Powerline configuration
-if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
-  powerline-daemon -q
-  POWERLINE_BASH_CONTINUATION=1
-  POWERLINE_BASH_SELECT=1
-  source /usr/share/powerline/bindings/bash/powerline.sh
-fi**, όπως φαίνεται στο βίντεο. Στη συνέχεια, με την εντολή **:colorscheme [colorway id]**, επιχείρησα να αλλάξω επιτόπου το color theme σε **blue**, **peachpuff**, **delek**, **morning**, **evening**. Ολοκλήρωσα το asciicast με την εντολή **exit**.
+**if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
+powerline-daemon -q
+POWERLINE_BASH_CONTINUATION=1
+POWERLINE_BASH_SELECT=1
+source /usr/share/powerline/bindings/bash/powerline.sh fi**, όπως φαίνεται στο βίντεο. Στη συνέχεια, με την εντολή **:colorscheme [colorway id]**, επιχείρησα να αλλάξω επιτόπου το color theme σε **blue**, **peachpuff**, **delek**, **morning**, **evening**. Ολοκλήρωσα το asciicast με την εντολή **exit**.
 
 ###### [4]
 
