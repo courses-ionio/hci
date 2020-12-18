@@ -46,7 +46,7 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 
 ###### [3]
 
-## Άσκηση γραμμής εντολών: get familiar with basic commands, reading documentation and editing files
+## Άσκηση γραμμής εντολών(warmup): get familiar with basic commands, reading documentation and editing files
 Link για το asciinema: https://asciinema.org/a/367360 
 
 ## Βήματα:
@@ -59,6 +59,12 @@ install vim**(επέλεξα abort της εγκατάστασης μιας κα
 εισαγωγή **help iccf** μου εμφάνισε σχετικές πληροφορίες. Με την εντολή **man neofetch** διάβασα το manual λειτουργίας αυτής, ενεργοποιήσα τον file manager
 με **cd ranger** και ,τέλος, εκτέλεσα την εντολή **neofetch** όπου μου έδωσε ως έξοδο τα στοιχεία/στατιστικά του συστήματός μου.
 Ολοκλήρωσα το asciicast με την εντολή **exit**.
+
+## Άσκηση γραμμής εντολών(hci): add a status bar to your shell/editor and configure a color-theme
+Link για το asciinema: https://asciinema.org/a/379851
+
+## Βήματα:
+Αρχικά, αφού έτρεξα το Terminal, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **x** .Εκτέλεσα την εντολή **asciinema rec -i 0.2** για την έναρξη της εγγραφής terminal. Έπειτα μέσω της εντολής **vi ~/.bashrc** προσέθεσα στο bash file το απαραίτητο configuration του **powerline** για τη δημιουργία status bar, όπως φαίνεται στο βίντεο. Στη συνέχεια, επιχείρησα να αλλάξω επιτόπου το color theme σε blue, peachpuff, delek, morning, evening. Ολοκλήρωσα το asciicast με την εντολή **exit**.
 
 ###### [4]
 
