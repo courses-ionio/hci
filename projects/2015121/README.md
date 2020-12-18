@@ -10,7 +10,7 @@
 | --- | --- |
 | 1 | <sup><a href="#1"> Προσωπικοί μου στόχοι για το μάθημα </a></sup> |
 | 2 | <sup><a href="#2"> Άσκηση προγραμματισμού: button </a></sup> | 
-| 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών: (1)warmup: get familiar with basic commands, reading documentation and editing files, (2) hci: add a status bar to your shell/editor and configure a color-theme </a></sup> |
+| 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών: (1) warmup: get familiar with basic commands, reading documentation and editing files, (2) hci: add a status bar to your shell/editor and configure a color-theme </a></sup> |
 | 4 | <sup><a href="#4"> Άσκηση προγραμματισμού: mouse-form </a></sup> |
 | 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών: organize your notes with emacs </a></sup> |
 | 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο </a></sup> |
