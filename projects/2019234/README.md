@@ -38,7 +38,7 @@
  
 ## ΠΑΡΑΔΟΤΕΟ 3:
 
-https://asciinema.org/a/sEriV3X7h3ZWwDMtW6blxJajQ
+https://asciinema.org/a/NoPXIYBWELR0q8Acikt0YJJvu
 
 ## ΠΑΡΑΔΟΤΕΟ 4:
 
