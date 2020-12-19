@@ -101,7 +101,7 @@ https://codepen.io/p19barl/pen/MWeVRzr
 
 # Παραδοτεο:six:(Ασκηση γραμμης εντολλων)
 
-Ως παραδοτεο 8 εκανα την  ασκηση γραμμης εντολων download mp3 απο τον πινακα hci με ζητουμενο search, download and play (with the terminal) your favorite song of the month from youtube.με την εντολη sudo apt-get install εκανα εγκατασταση το download-dl,υστερα με την εντολη download-dl -F https://..... κανω αναζητηση το αρχειο και ολα τα δυνατα φορματ της διευθυνσης .μετα με την εντολη download-dl -x κανω καταβασμα μονο το audio αρχειο και αφου εχω κανει install τον mplayer ανοιγω το αρχειο mp3 
+Ως παραδοτεο 6 εκανα την  ασκηση γραμμης εντολων download mp3 απο τον πινακα hci με ζητουμενο search, download and play (with the terminal) your favorite song of the month from youtube.με την εντολη sudo apt-get install εκανα εγκατασταση το download-dl,υστερα με την εντολη download-dl -F https://..... κανω αναζητηση το αρχειο και ολα τα δυνατα φορματ της διευθυνσης .μετα με την εντολη download-dl -x κανω καταβασμα μονο το audio αρχειο και αφου εχω κανει install τον mplayer ανοιγω το αρχειο mp3 
 
 
 <a href="https://asciinema.org/a/377990" target="_blank"><img src="https://asciinema.org/a/377990.svg" /></a>
@@ -113,8 +113,22 @@ https://codepen.io/p19barl/pen/MWeVRzr
 
 ##### link ακσησης : https://codepen.io/p19barl/pen/PozRgpY
 
-Ως παραδοτεο 7 απο τις ασκησεις προγραμματισμου επελιξα την BUTTON CONCEPT οπου σαν ζητουμενο η ασκηση ειχε: (Eπεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.)Ως επιπλεον ενεργεια κατα την επιλογη (κλικ) του Button εκακνα στον html κωδικα href στην αρχικη σελιδα του google συγκεκριμενα εκανα την επιπλεον αυτη ενεργεια με την εεντολη ( href="https://google.com" ) στην πρωτη γραμμη του Html Κωδικα.
+Ως παραδοτεο 7 απο τις ασκησεις προγραμματισμου επελιξα την BUTTON CONCEPT οπου σαν ζητουμενο η ασκηση ειχε: (Eπεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.)Ως επιπλεον ενεργεια κατα την επιλογη (κλικ) του Button θα ανοίγει ένα νεο παραθυρο και μας μεταφέρει στο youtube,τροποποιησα τον κώδικα από το αρχείο HTML και απο το αρχείο CSS προσθετοντας μια εικονα στην θεση του Χ και αλλαζοντας χρωματα στο κουμπι ακομα για να δουλευει το BUTTON έπρεπε να προσαρμωσω επιπλεον το αρχείο javascript(jQuery) προσθετοντας τον ακολουθο κωδικα
+```
 
+
+$(document).ready(function () {
+	return $('.button').click(function () {
+		var win = window.open('https://youtube.com', '_blank');
+		if (win) {
+			win.focus();
+		} else {
+			alert('Please allow popups for this website');
+		}
+		return setTimeout(removeSuccess, 3000);
+    });
+}); 
+```
 
 
 https://codepen.io/p19barl/pen/PozRgpY
