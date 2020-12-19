@@ -88,4 +88,6 @@
 > Το url για την άσκηση στο CodePen : [YouTube video player](https://codepen.io/p2019156/pen/ExgPmYO)
 > #### Πηγές:[[YouTube Player API Reference for iframe Embeds](https://developers.google.com/youtube/player_parameters)] [[Javascript](https://www.w3schools.com/js/js_events.asp)] [[css](https://www.w3schools.com/css/css3_buttons.asp)]
 
+
+## Static_Website
 > Η [άσκηση γραμμής εντολών]((https://github.com/epidrome/dokey)που επέλεξα για να ολοκληρώσω την ενότητα αυτή είναι η δημιουργία μιας στατικής ιστοσελίδας με τα asciinema links των παραδοτέων.Ήταν μια δύσκολη άσκηση γιατί συνδυάζει το git με github.Χρησιμοποίησα την στατική γεννήτρια jekyll με την οποία έφταξα μια στατική ιστοσελίδα,τοπικά,και στην συνέχεια με το git ανέβασα την ιστοσελίδα ώς host page στο github.Η σελίδα έχει το ονοματεπώνυμο μου,τον ΑΜ μου και τον λογαριασμό μου στο github.   
