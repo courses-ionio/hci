@@ -14,7 +14,7 @@
 | --- | --- |
 | 1 | [Syllabus](https://github.com/giannisbarlas1/hci/blob/drafts/projects/2019009/README.md#syllabus)|
 | 2 | [Form Validation](https://pibook.epidro.me/remix/form-validation/)
-| 3 | Change your command prompt |
+| 3 | [Change your command prompt] (https://github.com/epidrome/dokey#warmup)
 | 4 | Image processing|
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
