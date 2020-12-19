@@ -15,7 +15,7 @@
 | 7 |[Menu scroll](#menu_scroll)|
 | 8 |[Hci-Status bar](#Status_bar)|
 | 9 |[YouTube video player](#YouTube_video_player)|
-| 10 | συμμετοχικό περιεχόμενο |
+| 10 |Static Website](#Static_Website)|
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
@@ -71,7 +71,7 @@
 > #### Πηγές:[[Βootstrap](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)]
 
 > ## [Status_bar](https://asciinema.org/a/KGxfOHVLzU7XjOqPebGBU83eW)
-> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) ζητάει να επεξεργαστούμε και να διαμορφώσουμε το shell ή τον editor προσθέτοντας ένα status bar και να αλλάξουμε το color theme.Επειδή έχω ήδη τροποποιήσει το vim editor,επέλεξα να τροποποιήσω το shell,προσθέτοντας το powerline το οποίο είναι ένα status bar και για τον vim editor αλλά και το bash.Επειδή όμως για να εμφανιστούν οι αλλάγες στο bash πρέπει να το κλείσω και να το ξαναανοίξω παρουσιάζω και ένα ακόμα screenshot με την αλλαγή.
+> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey)ζητάει να επεξεργαστούμε και να διαμορφώσουμε το shell ή τον editor προσθέτοντας ένα status bar και να αλλάξουμε το color theme.Επειδή έχω ήδη τροποποιήσει το vim editor,επέλεξα να τροποποιήσω το shell,προσθέτοντας το powerline το οποίο είναι ένα status bar και για τον vim editor αλλά και το bash.Επειδή όμως για να εμφανιστούν οι αλλάγες στο bash πρέπει να το κλείσω και να το ξαναανοίξω παρουσιάζω και ένα ακόμα screenshot με την αλλαγή.
 >
 > ![Στιγμιότυπο από 2020-12-09 14-20-17](https://user-images.githubusercontent.com/72353939/101629574-3e1c1f80-3a2a-11eb-9dcf-871207055144.png)
 >
@@ -87,3 +87,5 @@
 > Η [άσκηση προγραμματισμού](https://pibook.epidro.me/remix/) χρησιμοποιεί το ποντίκι ως συσκευή εισόδου και ως σύστημα αναπαραγωγής έναρξης και παύσης χρησιμοποιεί το σύστημα της υπηρεσίας Youtube.Το ζητούμενο ήταν να δημιουργήσουμε ένα δικό μας σύστημα αναπαρααγωγής. Η άσκηση αυτή κατά τη γνώμη μου είναι άν όχι η πιο δύσκολη,από τις πιο δύσκολες ασκήσεις που περιέχει η ενότητα αυτή.Αρχικά η μεγαλύτερη δυσκολία ήταν πώς να συνδέσω τα buttons των λειτουργιών με το video ώστε να εκτελούνται σωστά οι λειτουργίες.Η λέξη κλειδί τελικά ήταν το embed.Μετά απο μία αρκετά μεγάλη αναζήτηση για τη σημασία που έχουν τα embed videos,κατάφερα να συνδέσω το δικό μου σύστημα αναπαραγωγής στο video της υπηρεσίας YouTube.
 > Το url για την άσκηση στο CodePen : [YouTube video player](https://codepen.io/p2019156/pen/ExgPmYO)
 > #### Πηγές:[[YouTube Player API Reference for iframe Embeds](https://developers.google.com/youtube/player_parameters)] [[Javascript](https://www.w3schools.com/js/js_events.asp)] [[css](https://www.w3schools.com/css/css3_buttons.asp)]
+
+> Η [άσκηση γραμμής εντολών]((https://github.com/epidrome/dokey)που επέλεξα για να ολοκληρώσω την ενότητα αυτή είναι η δημιουργία μιας στατικής ιστοσελίδας με τα asciinema links των παραδοτέων.Ήταν μια δύσκολη άσκηση γιατί συνδυάζει το git με github.Χρησιμοποίησα την στατική γεννήτρια jekyll με την οποία έφταξα μια στατική ιστοσελίδα,τοπικά,και στην συνέχεια με το git ανέβασα την ιστοσελίδα ώς host page στο github.Η σελίδα έχει το ονοματεπώνυμο μου,τον ΑΜ μου και τον λογαριασμό μου στο github.   
