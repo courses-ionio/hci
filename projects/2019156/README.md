@@ -38,6 +38,7 @@
 > ![Στιγμιότυπο από 2020-12-09 10-07-57](https://user-images.githubusercontent.com/72353939/101602326-98a38480-3a06-11eb-8aa1-3b7da4b50eb2.png)
 >
 > Οι δυσκολίες που αντιμετώπισα ήταν κατα κύριο λόγο στην αλλαγή του command prompt.Παρόλο που άλλαζα το όνομα μέσα απο το bashrc, η αλλαγή δεν εμφανιζόταν γιατί έπρεπε να κλείσω το τερματικό και να το ξανανοίξω για να πάρει την αλλαγή.Για τις ανάγκες της άσκησης και για την ολοκλήρωσή της δείχνω πώς μπορούμε να αλλάξουμε το command prompt με προσωρινό τρόπο αλλά και με διαμόρφωση του bashrc ώστε οι αλλαγές να είναι μόνιμες.Για την προβολή των πληροφοριών του συστήματός μου χρησιμοποίησα το neofetch.
+> [Asciinema link]:(https://asciinema.org/a/Bjjsr3YKclblyswyBj1ioyfPs)
 >
 > 
 > #### Πηγές:[[asciinema](https://asciinema.org)] [[idle-time](https://asciinema.org/docs/usage)] [[nano text editor](https://www.nano-editor.org/)].
