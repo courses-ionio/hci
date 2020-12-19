@@ -12,7 +12,7 @@
 ## Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | [Syllabus](https://github.com/giannisbarlas1/hci/edit/drafts/projects/2019009/README.md)|
+| 1 | [Syllabus](https://github.com/giannisbarlas1/hci/blob/drafts/projects/2019009/README.md#syllabus)|
 | 2 | Form Validation |
 | 3 | Change your command prompt |
 | 4 | Image processing|
