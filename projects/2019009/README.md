@@ -36,11 +36,10 @@
 ###### έλεγχος για email, credit card και ελληνικό τηλεφωνικό νούμερο.
 Πιο συγκεκριμενα για την προσθηκη email,credit card και ελληνικο τηλεφωνικο νουμερο προσθεσα στον *html* κωδικα 3 headers τον h1 για το ελλινικο τηλεφωνο,τον h2  για το email και τον  h3 για την credit card
 ```
-
-  <form>
-  <h2>Phone Number Validation</h2>
+<form>
+  <h1>Greek Phone Number Validation</h1>
   <label for="phonenum">Phone Number (format: xxxx-xx-xxxx):</label><br/>
-  <input id="phonenum" type="tel" pattern="^\d{4}-\d{2}-\d{4}$" required >
+  <input id="phonenum" type="tel" value="+30" pattern="+30\d{4}-\d{2}-\d{4}$" required >
     <input type="submit" value="Submit">
 <br>
  <h2>Email Validation</h2>
@@ -59,8 +58,6 @@
  
  
   <form>
-
-
 
 
 ```
