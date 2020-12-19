@@ -15,7 +15,7 @@
 | 1 | [Syllabus](https://github.com/giannisbarlas1/hci/blob/drafts/projects/2019009/README.md#syllabus)|
 | 2 | [Form Validation](https://pibook.epidro.me/remix/form-validation/)
 | 3 | [Change your command prompt](https://github.com/epidrome/dokey#warmup)
-| 4 | Image processing|
+| 4 | [Image processing](https://pibook.epidro.me/remix/image-filter/)
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -81,7 +81,9 @@ and display system information (hardware+software).Για την καταγρα�
 
 
 # Παραδοτεο:four:Image processing
-Η ασκηση προγραματισμου που επελεξα ως παραδοτεο 4 ειναι η ασκηση image processing η οποια ειχε ως ζητουμενο (Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών)Στην επιλυση της ασκησης χρησιμοποιησα τα φιλτρα εικονας που ειχε ως σχολια στο css κομματι της ασκησης.
+##### link ακσησης : https://codepen.io/sckarolos/pen/VLJWMQ
+Η ασκηση προγραματισμου που επελεξα ως παραδοτεο 4 ειναι η ασκηση image processing η οποια ειχε ως ζητουμενο 
+##### τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών)Στην επιλυση της ασκησης χρησιμοποιησα τα φιλτρα εικονας που ειχε ως σχολια στο css κομματι της ασκησης.
 
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p19barl" data-slug-hash="MWeVRzr" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="image filter 1">
   <span>See the Pen <a href="https://codepen.io/p19barl/pen/MWeVRzr">
