@@ -89,5 +89,9 @@
 > #### Πηγές:[[YouTube Player API Reference for iframe Embeds](https://developers.google.com/youtube/player_parameters)] [[Javascript](https://www.w3schools.com/js/js_events.asp)] [[css](https://www.w3schools.com/css/css3_buttons.asp)]
 
 
-## Static_Website
-> Η [άσκηση γραμμής εντολών]((https://github.com/epidrome/dokey)που επέλεξα για να ολοκληρώσω την ενότητα αυτή είναι η δημιουργία μιας στατικής ιστοσελίδας με τα asciinema links των παραδοτέων.Ήταν μια δύσκολη άσκηση γιατί συνδυάζει το git με github.Χρησιμοποίησα την στατική γεννήτρια jekyll με την οποία έφταξα μια στατική ιστοσελίδα,τοπικά,και στην συνέχεια με το git ανέβασα την ιστοσελίδα ώς host page στο github.Η σελίδα έχει το ονοματεπώνυμο μου,τον ΑΜ μου και τον λογαριασμό μου στο github.   
+## [Static_Website](https://asciinema.org/a/S4J85iWDszHgQXfQlcM6dy9YB)
+> Η [άσκηση γραμμής εντολών]((https://github.com/epidrome/dokey)που επέλεξα για να ολοκληρώσω την ενότητα αυτή είναι η δημιουργία μιας στατικής ιστοσελίδας με τα asciinema links των παραδοτέων.Ήταν μια δύσκολη άσκηση γιατί συνδυάζει το git με github.Χρησιμοποίησα την στατική γεννήτρια jekyll με την οποία έφταξα μια στατική ιστοσελίδα,τοπικά,και στην συνέχεια με το git ανέβασα την ιστοσελίδα ώς host page στο github.Η σελίδα έχει το ονοματεπώνυμο μου,τον ΑΜ μου και τον λογαριασμό μου στο github.  
+>
+> ![Στιγμιότυπο από 2020-12-19 17-13-10](https://user-images.githubusercontent.com/72353939/102692691-abdffc80-421d-11eb-9eea-798a63b5d3a9.png)
+>
+> [Asciinema Link](https://asciinema.org/a/S4J85iWDszHgQXfQlcM6dy9YB)
