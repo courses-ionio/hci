@@ -13,7 +13,7 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Syllabus](https://github.com/giannisbarlas1/hci/blob/drafts/projects/2019009/README.md#syllabus)|
-| 2 | Form Validation |
+| 2 | [Form Validation](https://github.com/giannisbarlas1/hci/blob/drafts/projects/2019009/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BFtwo-form-validation)|
 | 3 | Change your command prompt |
 | 4 | Image processing|
 | 5 | Άσκηση γραμμής εντολών |
