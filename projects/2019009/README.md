@@ -73,9 +73,10 @@
 command prompt with your student ID), (list your dot files), (display your shell configuration file
 and display system information (hardware+software).Για την καταγραφη του terminal εκανα install το asciinema με την εντολη
 ### sudo apt-get install asciinema.
+Ακομα χρειαστηκα τον nano editor για να κανω την αλλαγη του command prompt και εκανα εγκατασταση το neofetch για να εμφανισω τα system information (hardware+software).
 
 
-
+<a href="https://asciinema.org/a/380119" target="_blank"><img src="https://asciinema.org/a/380119.svg" /></a>
 
 
 
