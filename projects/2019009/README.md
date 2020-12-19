@@ -95,6 +95,9 @@ https://codepen.io/p19barl/pen/MWeVRzr
 Στην παρακατω εικονα υλοποιω ενα φιλτρο εικονας αφου πρωτα το απενεργοποιω απο σχολιο του κωδικα και βαζοντας πριν απο τα brackets το tag image:hoover ετσι ωστε οταν περασω το ποντικι πανω απο την εικονα να ενεργοποιηθει το επιλεγμενο φιλτρο το ιδο κανω και στις επομενες φωτογραφιες
 ![imag1](https://user-images.githubusercontent.com/72620235/102694512-2e6eb900-422a-11eb-8886-f1fcfa006903.png)
 ![img](https://user-images.githubusercontent.com/72620235/102699365-cd0c1180-424c-11eb-8fca-c0b465d39640.png)
+Ακομα σε αυτην την φωτογραφια κανω συνδιασμο 2 φιλτρων εικονας την sepia και grayscale
+
+![imag](https://user-images.githubusercontent.com/72620235/102699446-6e936300-424d-11eb-9ed3-45cff1aa52ba.png)
 
 
 
