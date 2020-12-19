@@ -13,7 +13,7 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Syllabus](https://github.com/giannisbarlas1/hci/blob/drafts/projects/2019009/README.md#syllabus)|
-| 2 | [Form Validation](https://github.com/giannisbarlas1/hci/blob/drafts/projects/2019009/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BFtwo-form-validation)|
+| 2 | [Form Validation](https://pibook.epidro.me/remix/form-validation/)
 | 3 | Change your command prompt |
 | 4 | Image processing|
 | 5 | Άσκηση γραμμής εντολών |
@@ -31,7 +31,7 @@
 Η άνθηση της τεχνολογίας τα τελευταία χρόνια έχει εδραιώσει τον υπολογιστή στην καθημερινότητα των ανθρώπων  για αυτό και η αλληλεπίδραση αυτών των δύο είναι πολύ σημαντική αφού σήμερα ένας υπολογιστής μπορεί να εκτελέσει τεράστιας σημασίας  έργα .Μέσα από το μάθημα επικοινωνία ανθρώπου υπολογιστή κύριοι σκοποί θα ήταν η κατανόηση και σχεδίαση εύχρηστων διαδραστικών συστημάτων, η εξοικείωση σε νεες τεχνολογίες προγραμματισμού της διάδρασης αφού πλέον η τεχνολογία εξελίσσεται με ταχύτατο ρυθμό,η κατανόηση λειτουργιάς των συσκευών εισόδου εξόδου και πως αυτές μπορούν να φανούν χρήσιμες στην επικοινωνία ανθρώπου-υπολογιστή επαφη με μεθοδολογιες σχεδιασης διαδραστικων συστημάτων καθως και οι μέθοδοι αξιολόγησης διαδραστικών συστημάτων(κατά πόσο μια σχεδίαση είναι εύχρηστη η όχι).τέλος ένας ακόμα προσωπικός στόχος είναι  η επιτυχής  εκπληρωση των υποχρεωσεων του μαθήματος η κατανόηση όσων περισσότερων γνώσεων γίνεται και η μελοντικη αξιοποιηση των γνωσεων αυτων αφου η εποικοινωνια ανθρωπου-υπολογιστη είναι ενας προσωπικα ενδραφερων τομεας.
 
 # Παραδοτεο:two: Form validation
-##### link ασκησης : https://pibook.epidro.me/remix/form-validation/ 
+##### link επιλυσης της ασκησης : https://codepen.io/p19barl/pen/BazzKXB
 ##### link πηγης   : [code grepper](https://www.codegrepper.com/code-examples/html/html+input+phone+number+unicode+)
 Η ασκηση ειναι βασισμενη σε regular expression για να εντοπίσει σφάλματα στην είσοδο του χρήστη και σαν επεκταση του παραδειγματος προσθεσα τα ζητουμενα οπου ηταν 
 ###### έλεγχος για email, credit card και ελληνικό τηλεφωνικό νούμερο.
@@ -63,18 +63,6 @@
 
 ```
 
-
-
-
-
-
-
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p19barl" data-slug-hash="BazzKXB" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="BazzKXB">
-  <span>See the Pen <a href="https://codepen.io/p19barl/pen/BazzKXB">
-  BazzKXB</a> by p2019009 (<a href="https://codepen.io/p19barl">@p19barl</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-https://codepen.io/p19barl/pen/BazzKXB
 
 
 
