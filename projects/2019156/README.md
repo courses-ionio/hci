@@ -15,8 +15,8 @@
 | 7 |[Menu scroll](#menu_scroll)|
 | 8 |[Hci-Status bar](#Status_bar)|
 | 9 |[YouTube video player](#YouTube_video_player)|
-| 10 |Static Website](#Static_Website)|
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
+| 10 |[Static Website](#Static_Website)|
+| 11 | συμμετοχικό |
 | 12 | Τελική αναφορά* |
 
 
