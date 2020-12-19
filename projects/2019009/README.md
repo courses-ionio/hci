@@ -69,9 +69,10 @@
 
 
 # Παραδοτεο:three:Change your command prompt
-Η ασκηση γραμμης εντολων ειναι η πρωτη απο τις διαθεσιμες στον πινακα [warm up]στο https://github.com/epidrome/dokey#warmup και σαν ζητουμενα ειχε: [(1.0 change your
+Η ασκηση γραμμης εντολων ειναι η πρωτη απο τις διαθεσιμες στον πινακα warm up στο https://github.com/epidrome/dokey#warmup και σαν ζητουμενα ειχε: (1.0 change your
 command prompt with your student ID), (list your dot files), (display your shell configuration file
-and display system information (hardware+software))].Για την καταγραφη του terminal εκανα install το asciinema με την εντολη [sudo apt-get install asciinema].
+and display system information (hardware+software).Για την καταγραφη του terminal εκανα install το asciinema με την εντολη
+### sudo apt-get install asciinema.
 
 
 
