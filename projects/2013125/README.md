@@ -155,3 +155,6 @@
 
 ## Παραδοτέο Β2 Μια νέα βιογραφία
 [Νέα Βιογραφία](https://github.com/p13giag/site/blob/2013125/_biography/apple-ipod.md)
+
+## Πηγές Βιογραφίας
+[Πηγές](https://support.apple.com/en-us/HT204217#ipod)
