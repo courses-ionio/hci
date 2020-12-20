@@ -10,12 +10,12 @@
 | 4 |**[Mouse option](#Mouse-option)**|
 | 5 |**[Text editor and plug-ins for code highlighting and autocompletion](#text-editor-and-plug-ins-for-code-highlighting-and-autocompletion)**| 
 |   |**[Check the weather](#check-the-weather)**|
-| 6 |**[Συμμετοχικό περιεχόμενο Α' μέρος](#Συμμετοχικό-περιεχόμενο-Α'-μέρος)**|
+| 6 |**[Συμμετοχικό περιεχόμενο Α μέρος](#Συμμετοχικό-περιεχόμενο-Α-μέρος)**|
 | 7 |**[Image processing](#image-processing)**|
 | 8 |**[Download mp3](#Download-mp3)**|
 | 9 |**[Image zoom](#Image-zoom)**|
 | 10 |**[Μanage your bookmarks](#Manage-your-bookmarks)**|
-| 11 |**[Συμμετοχικό περιεχόμενο Β' μέρος](#Συμμετοχικό-περιεχόμενο-Β'-μέρος)**|
+| 11 |**[Συμμετοχικό περιεχόμενο Β μέρος](#Συμμετοχικό-περιεχόμενο-Β'-μέρος)**|
 | 12 | Τελική αναφορά* |
 
 # Στόχοι και ανάγκες του μαθήματος
@@ -111,7 +111,7 @@
 <img height=400 width=800 src="https://i.postimg.cc/sgXj1P08/ezgif-com-resize.gif" >
 <p/><br>
 
-# Συμμετοχικό περιεχόμενο Α' μέρος
+# Συμμετοχικό περιεχόμενο Α μέρος
 
 Ώς πρώτη επαφή με το συμμετοχικό περιεχόμενο αποφάσισα να κάνω αναφορά σε δύο εντυπωσιακές καινοτομίες το Siri και το projection keyboard. Που είναι σχετικά σύγχρονες ιδέες και σχετίζονται με την διάδραση και αλληλεπίδραση του ανθρώπου με τους υπολογιστές.
 * Σύνδεσμος για τα **images**: [apple-siri](https://github.com/p19pasc/images/blob/master/apple-siri.jpg), [apple-siri-thumb](https://github.com/p19pasc/images/blob/master/apple-siri-thumb.jpg), [projection-yboard](https://github.com/p19pasc/images/blob/master/projection-keyboard.jpg), [projection-keyboard-thumb](https://github.com/p19pasc/images/blob/master/projection-keyboard-thumb.jpg)
@@ -119,11 +119,12 @@
 * Σύνδεσμος για **slides**: [archetypes.md](https://codingexercisesp2019110.netlify.app//slides/archetypes/), [netlify](https://codingexercisesp2019110.netlify.app//slides/archetypes/)
 * Σύνδεσμος για **timeline**: [multimedia.md](https://github.com/p19pasc/site/blob/master/_timeline/multimedia.md),[netlify](https://codingexercisesp2019110.netlify.app//timeline/multimedia/)  
 
-# Συμμετοχικό περιεχόμενο Β' μέρος
+# Συμμετοχικό περιεχόμενο Β μέρος
 
 Το Β' μέρος του συμμετοχικού περιεχομένου αποτελούσε υπερβολικά χρονοβόρο και επεκτήνει τις πληροφορίες που πραγματοποιήσαμε στο Α΄μέρρος. Συγκεκριμένα αναφέρθηκα στην χρήση των
 καινοτομιών στην καθημερινότητα, τον τρόπο κατασκευής του Projection keyboard, τα πλεονεκτήματα-μειονεκτήματα και τα Ιστορικά γεγονότα ενός σημαντικού προσώπου που συνέβαλε στην 
 δημιουργία του Siri και άλλων τεχνολογιών.
+* Γενικός σύνδεσμος **case study**:[netlify](https://codingexercisesp2019110.netlify.app/case-study/)
 * Συνδεσμος για **case study**(Apple-Siri):[cs-apple_siri](https://github.com/p19pasc/site/blob/master/_case-study/cs-apple_siri.md), [apple-siri.md](https://github.com/p19pasc/site/blob/master/_case-study/apple-siri.md),[netlify](https://codingexercisesp2019110.netlify.app//case-study/apple-siri/)
 * Σύνδεσμος για **case study**(Projection-Keyboard):[cs-projection_keyboard](https://github.com/p19pasc/site/blob/master/_case-study/cs-projection_keyboard.md), [projection-keyboard.md](https://github.com/p19pasc/site/blob/master/_case-study/projection-keyboard.md),[netlify](https://codingexercisesp2019110.netlify.app//case-study/projection-keyboard/)
 * Σύνδεσμος για **images**(συγκεκριμένα για πρόσωπο της βιογραφίας): [adam-cheyer](https://github.com/p19pasc/images/blob/master/adam-cheyer.jpg)
