@@ -106,14 +106,17 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 Επέλεξα την άσκηση γραμμής εντολών [add a status bar to your shell/editor and configure a color-theme](https://github.com/epidrome/dokey#hci). Ζητούμενο της άσκησης αυτής είναι: 1) η δημιουργία ενός status bar, η διαμόρφωσή του και 2) η αλλαγή φόντου που έχει το παράθυρο του τερματικού.
 
 #### Τρόπος επίλυσης της άσκησης:
-Μέσα από την παρακολούθηση των μαθημάτων και την εμβάθυνση στη χρήση του τερματικού, τα βήματα λύσης της άσκησης δεν ήταν ιδιαίτερα δύσκολα. Μάζεψα πληροφορίες για: 
+Μέσα από την παρακολούθηση των μαθημάτων και την εμβάθυνση στη χρήση του τερματικού, τα βήματα λύσης της άσκησης δεν ήταν ιδιαίτερα δύσκολα. Ωστόσο χρειάστηκε προσοχή, χρόνος και μελέτη. Μάζεψα πληροφορίες για: 
 1) το status bar από: [A Quick and Easy Guide to tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/), [Starting Your First Tmux Session](https://linuxize.com/post/getting-started-with-tmux/) και [How to Use tmux on Linux (and Why It’s Better Than Screen)](https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/).
 
 - Τα βήματα που έπρεπε να ακολουθήσω ήταν τα εξής: αρχικά, έπρεπε να κατεβάσω το tmux στο terminal, χρησιμοποιώντας την εντολή sudo apt-get install tmux και να γράψω tmux για να ξεκινήσω την επεξεργασία. Έπειτα, με την εντολή set-option -g status-position bottom: τοποθετείται το status bar στο κάτω μέρος του παραθύρου, set-option -g status-style bg=black,fg=white: η γραμμή του status bar θα είναι με μαύρο φόντο και άσπρα γράμματα, set -option -g status-left '#(echo ...)': στα αριστερά θα φαίνεται η λέξη που θα γραφτεί αντί για τις <<...>>, set -option -g status-right '#(date)': θα υπάρχει στα δεξιά η ημερομηνία και η ώρα, set -option -g status-justify centre: θα δημιουργήσει κενό ανάμεσα στα αναγραφόμενα που υπάρχουν δεξιά και αριστερά, set -option -g status interval 1: έτσι, θα κυλάει ο χρόνος ανά ένα δευτερόλεπτο και θα φαίνεται. Τέλος, έγραψα στη γραμμή εντολών exit για να βγω από το tmux και να σταματήσει η επεξεργασία του status bar.
 
 2) την επεξεργασία του παραθύρου από: [How do you change the color scheme in bash on Ubuntu for Windows?](https://superuser.com/questions/1114549/how-do-you-change-the-color-scheme-in-bash-on-ubuntu-for-windows), [3 Ways to Customize Your Windows Terminal](https://blogs.windows.com/windowsdeveloper/2020/06/30/3-ways-to-customize-your-windows-terminal/), [MY WINDOWS TERMINAL COLOR SCHEMES](https://www.thomasmaurer.ch/2020/06/my-windows-terminal-color-schemes/) και [ImageMagick Compilation and Installation](https://www.tecmint.com/install-imagemagick-on-debian-ubuntu/?fbclid=IwAR2dbv7LT5isuxSVpnYAlpI-x9DeRcqwLa4l-TtiP6BGNvxVfPFKgGXxK_k).
 
-- Τα βήματα που έπρεπε να ακολουθήσω ήταν τα εξής: πρώτη ενέργεια ήταν η εγκατάσταση των απαραίτητων <<πακέτων>> και προγραμμάτων στο terminal. Στη συνέχεια, έπρεπε να δημιουργήσω έναν φάκελο με την εικόνα που είχα επιλέξει. Να μπω στα αρχεία μου και συγκεκριμένα στο Pictures, μέσω του τερματικού, και με την εντολή wal -i 1.jpeg  να αλλάξω τη φωτογραφία.
+- Τα βήματα που έπρεπε να ακολουθήσω ήταν τα εξής: πρώτη ενέργεια ήταν η εγκατάσταση των απαραίτητων <<πακέτων>> και προγραμμάτων στο terminal. Στη συνέχεια, έπρεπε να δημιουργήσω έναν φάκελο με την εικόνα που είχα επιλέξει. Να μπω στα αρχεία μου και συγκεκριμένα στο Pictures, μέσω του τερματικού, και με την εντολή wal -i 1.jpeg να αλλάξω τη φωτογραφία. Στην εικόνα που ακολουθεί φαίνεται η παραπάνω διεργασία στο τερματικό και πίσω από αυτό είναι η εικόνα που διάλεξα να μπει σαν backround.
+
+![IMG_20201213_234000](https://user-images.githubusercontent.com/72452200/102712048-d1751080-42c6-11eb-8122-330bc63bf32f.jpg)
+
 
 Η υλοποίηση της άσκησης είναι: https://asciinema.org/a/AT2hlYQmU7Z3RDJKqWfD6uQP6
 
