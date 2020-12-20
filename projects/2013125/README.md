@@ -87,9 +87,9 @@
  [Εικόνα 2 160px :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_3g-thumb.png)
 ## Παραδοτέο 2 Α2 : Ένα σετ από Θεματικές Διαφάνειες και ένα Χρονολόγιο
 
-[Θεματικές Διαφάνειες](https://github.com/p13giag/site/blob/2013125/_timeline/mobile.md)
+[Θεματικές Διαφάνειες](https://github.com/p13giag/site/blob/2013125/_slides/ipod.md)
 
-[Χρονολόγιο] (https://github.com/p13giag/site/blob/2013125/_timeline/mobile.md)
+[Χρονολόγιο] (https://github.com/p13giag/site/edit/2013125/_timeline/mobile.md)
 
 ## Παραδοτέο 7
 ## Άσκηση Προγραμματισμού
@@ -151,6 +151,7 @@
 ## Παραδοτέο 11
 ## Συμμετοχικό Περιερχόμενο Β1,Β2
 ## Παραδοτέο Β1 Μια νέα μελέτη περίπτωσης
+[Νέα Μελέτη Περίπτωσης](https://github.com/p13giag/site/blob/2013125/_case-study/ipod.md)
 
 ## Παραδοτέο Β2 Μια νέα βιογραφία
-
+[Νέα Βιογραφία](https://github.com/p13giag/site/blob/2013125/_biography/apple-ipod.md)
