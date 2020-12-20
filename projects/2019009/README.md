@@ -111,20 +111,28 @@ https://codepen.io/p19barl/pen/MWeVRzr
 
 
 
-# Παραδοτεο:six:BUTTON CONCEPT
-Ως παραδοτεο 6 απο τις ασκησεις προγραμματισμου επελιξα την BUTTON CONCEPT οπου σαν ζητουμενο η ασκηση ειχε: (Eπεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.)Ως επιπλεον ενεργεια κατα την επιλογη (κλικ) του Button εκακνα στον html κωδικα href στην αρχικη σελιδα του google συγκεκριμενα εκανα την επιπλεον αυτη ενεργεια με την εεντολη ( href="https://google.com" ) στην πρωτη γραμμη του Html Κωδικα.
+# Παραδοτεο:six:BUTTON CONCEPT 
+#### link ασκησης : https://codepen.io/p19barl/pen/PozRgpY
 
+Ως παραδοτεο 6 απο τις ασκησεις προγραμματισμου επελιξα την BUTTON CONCEPT οπου σαν ζητουμενο η ασκηση ειχε: (Eπεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.)Ως επιπλεον ενεργεια κατα την επιλογη (κλικ) του Button εκανα το ανοιγμα μιας νεας καρτελας οπου μας οδηγει στην κεντρικη σελιδα του youtube.για να το πετυχω αυτο αλλαξα λιγο τον κωδικα Html και css για να σχεδιασω το button και στην συνεχεια προσθεσα τον παρακατω js κωδικα για να πετυχω το ανοιγμα της νεας καρτελας
+```
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p19barl" data-slug-hash="PozRgpY" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button Concept">
-  <span>See the Pen <a href="https://codepen.io/p19barl/pen/PozRgpY">
-  Button Concept</a> by p2019009 (<a href="https://codepen.io/p19barl">@p19barl</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+$(document).ready(function () {
+	return $('.button').click(function () {
+		var win = window.open('https://github.com/p19tzam', '_blank');
+		if (win) {
+			win.focus();
+		} else {
+			alert('Please allow popups for this website');
+		}
+		return setTimeout(removeSuccess, 3000);
+    });
+}); 
+
 https://codepen.io/p19barl/pen/PozRgpY
 
 
-
+```
 
 
 # Παραδοτεο:eight:(Ασκηση γραμμης εντολλων)
