@@ -16,7 +16,7 @@
 | 2 | [Form Validation](https://pibook.epidro.me/remix/form-validation/)
 | 3 | [Change your command prompt](https://github.com/epidrome/dokey#warmup)
 | 4 | [Image processing](https://pibook.epidro.me/remix/image-filter/)
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | [download mp3](https://github.com/epidrome/dokey#hci)
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
@@ -99,38 +99,28 @@ https://codepen.io/p19barl/pen/MWeVRzr
 
 ![imag](https://user-images.githubusercontent.com/72620235/102699446-6e936300-424d-11eb-9ed3-45cff1aa52ba.png)
 
-# Παραδοτεο:six:(Ασκηση γραμμης εντολλων)
 
-Ως παραδοτεο 6 εκανα την  ασκηση γραμμης εντολων download mp3 απο τον πινακα hci με ζητουμενο search, download and play (with the terminal) your favorite song of the month from youtube.με την εντολη sudo apt-get install εκανα εγκατασταση το download-dl,υστερα με την εντολη download-dl -F https://..... κανω αναζητηση το αρχειο και ολα τα δυνατα φορματ της διευθυνσης .μετα με την εντολη download-dl -x κανω καταβασμα μονο το audio αρχειο και αφου εχω κανει install τον mplayer ανοιγω το αρχειο mp3 
+
+# Παραδοτεο:five: download mp3
+#####  link ασκησης: https://github.com/epidrome/dokey#hci
+#####  link πηγης:https://github.com/mpv-player/mpv
+Ως παραδοτεο 5 εκανα την  ασκηση γραμμης εντολων download mp3 απο τον πινακα hci με ζητουμενο search, download and play (with the terminal) your favorite song of the month from youtube.με την εντολη ```sudo apt-get install``` εκανα εγκατασταση το download-dl,υστερα με την εντολη  ```download-dl -F https://..... ```κανω αναζητηση το αρχειο και ολα τα δυνατα φορματ της διευθυνσης μετα με την εντολη ```download-dl -x ```κανω καταβασμα μονο το audio αρχειο και αφου εχω κανει install τον mplayer ανοιγω το αρχειο mp3 
 
 
 <a href="https://asciinema.org/a/377990" target="_blank"><img src="https://asciinema.org/a/377990.svg" /></a>
 
 
 
-
-# Παραδοτεο:seven:(Ασκηση προγραμματισμου)
-
-##### link ακσησης : https://codepen.io/p19barl/pen/PozRgpY
-
-Ως παραδοτεο 7 απο τις ασκησεις προγραμματισμου επελιξα την BUTTON CONCEPT οπου σαν ζητουμενο η ασκηση ειχε: (Eπεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.)Ως επιπλεον ενεργεια κατα την επιλογη (κλικ) του Button θα ανοίγει ένα νεο παραθυρο και μας μεταφέρει στο youtube,τροποποιησα τον κώδικα από το αρχείο HTML και απο το αρχείο CSS προσθετοντας μια εικονα στην θεση του Χ και αλλαζοντας χρωματα στο κουμπι ακομα για να δουλευει το BUTTON έπρεπε να προσαρμωσω επιπλεον το αρχείο javascript(jQuery) προσθετοντας τον ακολουθο κωδικα
-```
+# Παραδοτεο:six:BUTTON CONCEPT
+Ως παραδοτεο 6 απο τις ασκησεις προγραμματισμου επελιξα την BUTTON CONCEPT οπου σαν ζητουμενο η ασκηση ειχε: (Eπεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.)Ως επιπλεον ενεργεια κατα την επιλογη (κλικ) του Button εκακνα στον html κωδικα href στην αρχικη σελιδα του google συγκεκριμενα εκανα την επιπλεον αυτη ενεργεια με την εεντολη ( href="https://google.com" ) στην πρωτη γραμμη του Html Κωδικα.
 
 
-$(document).ready(function () {
-	return $('.button').click(function () {
-		var win = window.open('https://youtube.com', '_blank');
-		if (win) {
-			win.focus();
-		} else {
-			alert('Please allow popups for this website');
-		}
-		return setTimeout(removeSuccess, 3000);
-    });
-}); 
-```
-
-
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p19barl" data-slug-hash="PozRgpY" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button Concept">
+  <span>See the Pen <a href="https://codepen.io/p19barl/pen/PozRgpY">
+  Button Concept</a> by p2019009 (<a href="https://codepen.io/p19barl">@p19barl</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 https://codepen.io/p19barl/pen/PozRgpY
 
 
