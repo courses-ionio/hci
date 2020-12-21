@@ -164,3 +164,17 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 #### Πηγές
 
 Ο τρόπος που κατάφερα να κάνω αυτή την άσκηση ήταν με το να αναφερθώ στο [youtube-dl repository](https://github.com/ytdl-org/youtube-dl/blob/master/README.md)
+
+## Παραδοτέο 11
+
+[Διαφάνεια Borderlands 3](https://github.com/Vuxxs/site/blob/master/_case-study/borderlands3.md)
+
+[Βιογραφεία του Todd Howard](https://github.com/Vuxxs/site/blob/master/_biography/todd-howard.md)
+
+### Συμμετοχικό περιεχόμενο
+
+Ολοκλήρωσα όλα τα ζητούμενα φτιάχνοντας σωστά τα submodules και προσθέτοντας εικόνες, licenses κλπ. Πρόσθεσα μία διαφάνεια που ονομάζεται Borderlands 3 και μία βιογραφεία για τον Todd Howard.
+
+### Πηγές
+
+Ο τρόπος που κατάφερα να κάνω αυτή την άσκηση ήταν με το να αναφερθώ σε τρίτες πηγές και YouTube που περιέχουν συνεντέυξεις με τον Todd Howard και reviews για το Borderlands 3.
