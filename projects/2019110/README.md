@@ -144,7 +144,7 @@ image zoom: [backround colour](https://www.w3schools.com/cssref/pr_background-im
         Χαρακτηρηστικά του υπολογιστή:<br>
      - [Neofetch](https://github.com/dylanaraps/neofetch)<br>
      - [Hardinfo](https://www.youtube.com/watch?v=iKJ-9yEanns)<br>   
-* Text editor and plug-ins for code highlighting and autocompletion : https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint , https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint
+* Text editor and plug-ins for code highlighting and autocompletion :[Useful Vim Commands](https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint), [VIM Syntax Highlighting](https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint)
 * Download mp3: <Br>
      - [Googler](https://github.com/jarun/googler) <br>
      - [Pipelining](https://unix.stackexchange.com/questions/594777/watch-and-download-video-from-youtube-with-mpv-only)<br>
