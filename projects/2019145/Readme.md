@@ -135,6 +135,7 @@ https://en.wikipedia.org/wiki/Joy-Con
 https://en.wikipedia.org/wiki/Nintendo_Labo  
 https://en.wikipedia.org/wiki/Nintendo  
 https://en.wikipedia.org/wiki/Shigeru_Miyamoto  
+https://mklive.nintendo.com/how-to-play/
 https://web.archive.org/web/20110619091345/http://e3.gamespot.com/story/6320234/e3-2011-miyamoto-speaks-his-mind  
 https://www.ign.com/articles/shigeru-miyamoto-talks-his-career-at-nintendo-and-how-he-wants-to-create-a-kinder-world  
 https://www.youtube.com/watch?v=Fueos7OJeuo&ab_channel=Nintendo  
