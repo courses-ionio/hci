@@ -134,8 +134,8 @@
  
 # Πηγές πληροφοριών
 ### Ασκήσεις προγραμματισμού
-image processing: https://www.w3schools.com/cssref/css3_pr_filter.asp  <br>
-image zoom: [backround colour](https://www.w3schools.com/cssref/pr_background-image.asp)
+**Image processing:** https://www.w3schools.com/cssref/css3_pr_filter.asp  <br>
+**Image zoom:** [backround colour](https://www.w3schools.com/cssref/pr_background-image.asp)
 ### Ασκήσεις γραμμής εντολών
 
 - [homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
@@ -144,8 +144,8 @@ image zoom: [backround colour](https://www.w3schools.com/cssref/pr_background-im
         Χαρακτηρηστικά του υπολογιστή:<br>
      - [Neofetch](https://github.com/dylanaraps/neofetch)<br>
      - [Hardinfo](https://www.youtube.com/watch?v=iKJ-9yEanns)<br>   
-* Text editor and plug-ins for code highlighting and autocompletion :[Useful Vim Commands](https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint), [VIM Syntax Highlighting](https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint)
-* Download mp3: <Br>
+* **Text editor and plug-ins for code highlighting and autocompletion :**[Useful Vim Commands](https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint), [VIM Syntax Highlighting](https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint)
+* **Download mp3:** <Br>
      - [Googler](https://github.com/jarun/googler) <br>
      - [Pipelining](https://unix.stackexchange.com/questions/594777/watch-and-download-video-from-youtube-with-mpv-only)<br>
        Youtube-dl:<br>
@@ -154,7 +154,7 @@ image zoom: [backround colour](https://www.w3schools.com/cssref/pr_background-im
        Mpv:<br>
      - [Github](https://github.com/mpv-player/mpv)<br>
      - [Youtube](https://www.youtube.com/watch?v=BbP0VRISSk0)<br>
- *  Manage your bookmarks: [github](https://github.com/jarun/Buku) <br>
+ *  **Manage your bookmarks:** [github](https://github.com/jarun/Buku) <br>
 ### Συμμεχοτικό περιεχόμενο
 - [Crop thumb images](https://www.img2go.com/)
 - [gitsubmodules](https://github.blog/2016-02-01-working-with-submodules/)
