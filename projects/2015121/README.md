@@ -169,10 +169,13 @@ Link για το Asciinema: https://asciinema.org/a/376842
 
 ## Συμμετοχικό περιεχόμενο: Β1 και Β2
 
-## Μελέτη περίπτωσης:
+## Μελέτη περίπτωσης: Apple Arcade
+Link για το αποθετήριο: https://github.com/apostoloskp/extras/blob/master/cs-apple-arcade.md
 
+Πηγές: https://www.macrumors.com/2019/12/16/apple-arcade-annual-subscription/?utm_source=feedly&utm_medium=webfeedshttps://www.macrumors.com/2019/12/16/apple-arcade-annual-subscription/
 
 ## Βιογραφία:
+Link για το αποθετήριο: 
 
 
 
