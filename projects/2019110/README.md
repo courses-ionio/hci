@@ -130,7 +130,7 @@
 * Σύνδεσμος για **images**(συγκεκριμένα για πρόσωπο της βιογραφίας): [adam-cheyer](https://github.com/p19pasc/images/blob/master/adam-cheyer.jpg)
 * Σύνδεσμος για **biography**(Apple-Siri):[bio-Adam-Cheyer](https://github.com/p19pasc/site/blob/master/_biography/bio-adam_cheyer.md),[Adam-Cheyer](https://github.com/p19pasc/site/blob/master/_biography/bio-adam_cheyer.md),[netlify](https://codingexercisesp2019110.netlify.app//biography/adam-cheyer/)
  
- **_Οι πηγές για το υλικό που αντλήθηκε αναφέρονται στην βιβλιογραφία_**
+ **_Οι πηγές για το υλικό που αντλήθηκε για το συμμετοχικό περιεχόμενο αναφέρονται στην βιβλιογραφία_**
  
 # Πηγές πληροφοριών
 ### Ασκήσεις προγραμματισμού
