@@ -13,12 +13,12 @@
 | 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών: (1) warmup: get familiar with basic commands, reading documentation and editing files, (2) hci: add a status bar to your shell/editor and configure a color-theme </a></sup> |
 | 4 | <sup><a href="#4"> Άσκηση προγραμματισμού: mouse-form </a></sup> |
 | 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών: organize your notes with emacs </a></sup> |
-| 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο </a></sup> |
+| 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο: A1 και Α2 </a></sup> |
 | 7 | <sup><a href="#7"> Άσκηση προγραμματισμού: form-validation </a></sup> |
 | 8 | <sup><a href="#8"> Άσκηση γραμμής εντολών: download mp3 </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση προγραμματισμού: image-filter </a></sup> |
 | 10 | <sup><a href="#10"> Άσκηση γραμμής εντολών: text editor and plug-ins for code highlighting and autocompletion </a></sup>|
-| 11 | <sup><a href="#11"> Συμμετοχικό περιεχόμενο </a></sup> |
+| 11 | <sup><a href="#11"> Συμμετοχικό περιεχόμενο: Β1 και Β2 </a></sup> |
 | 12 | <sup><a href="#12"> Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση </a></sup> |
 <br/>
 
