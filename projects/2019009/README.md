@@ -136,7 +136,17 @@ https://codepen.io/p19barl/pen/PozRgpY
 
 
 # Παραδοτεο:seven:(Ασκηση γραμμης εντολλων)
-Ως παραδοτεο 7 εκανα την ασκηση [status bar](https://github.com/epidrome/dokey#hci)
+Ως παραδοτεο 7 εκανα την ασκηση [status bar](https://github.com/epidrome/dokey#hci) οπου σαν ζητουμενο ειχε να επεξαργαστω και να διαμορφωσω τον shell
+βαζοντας ενα status bar.για να το πετυχω εκαν εγκατασταση powerline status bar
+απο το παρακατω repository https://github.com/powerline/powerline και εκανα configure το powrline για το bash με τον παρακατω κωδικα που εριξα μεσα στο /.bashrc ``` 
+# Powerline configuration
+if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
+  powerline-daemon -q
+  POWERLINE_BASH_CONTINUATION=1
+  POWERLINE_BASH_SELECT=1
+  source /usr/share/powerline/bindings/bash/powerline.sh
+fi
+            ```και εκανα  apply changes με την εντολη  source ~/.bashrc
 
 
 
