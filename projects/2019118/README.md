@@ -19,7 +19,7 @@
 | 9 | Άσκηση προγραμματισμού "menu-pie" |
 | 10 | Άσκηση γραμμής εντολών "search, download and play (with the terminal) your favorite song of the month from youtube" |
 | 11 | Συμμετοχικό περιεχόμενο |
-| 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
+| 12 | Τελική αναφορά |
 
 
 ## Παραδοτέο 1
