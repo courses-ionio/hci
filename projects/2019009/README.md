@@ -18,7 +18,7 @@
 | 4 | [Image processing](https://pibook.epidro.me/remix/image-filter/)
 | 5 | [download mp3](https://github.com/epidrome/dokey#hci)
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
-| 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 7 |[status bar to your shell/editor](https://github.com/epidrome/dokey#hci)|
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -135,12 +135,10 @@ https://codepen.io/p19barl/pen/PozRgpY
 ```
 
 
-# Παραδοτεο:eight:(Ασκηση γραμμης εντολλων)
+# Παραδοτεο:seven:(Ασκηση γραμμης εντολλων)
+Ως παραδοτεο 7 εκανα την ασκηση [status bar](https://github.com/epidrome/dokey#hci)
 
-Ως παραδοτεο 8 εκανα την  ασκηση γραμμης εντολων download mp3 απο τον πινακα hci με ζητουμενο search, download and play (with the terminal) your favorite song of the month from youtube.με την εντολη sudo apt-get install εκανα εγκατασταση το download-dl,υστερα με την εντολη download-dl -F https://..... κανω αναζητηση το αρχειο και ολα τα δυνατα φορματ της διευθυνσης .μετα με την εντολη download-dl -x κανω καταβασμα μονο το audio αρχειο και αφου εχω κανει install τον mplayer ανοιγω το αρχειο mp3 
 
-
-<a href="https://asciinema.org/a/377990" target="_blank"><img src="https://asciinema.org/a/377990.svg" /></a>
 
 
 # ΠΑΡΑΔΟΤΕΟ:nine:(Ασκηση προγραμματισμου)
