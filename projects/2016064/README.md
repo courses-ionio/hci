@@ -190,7 +190,7 @@ https://www.youtube.com/watch?v=bzZ09dAbLEE&t=584s
 
 ## 4η Άσκηση γραμμής εντολών
 ### Add a status bar to your shell/editor and configure a color-theme
-#### [Asciinema link 4ης Άσκηση γραμμής εντολών]
+#### [Asciinema link 4ης Άσκηση γραμμής εντολών](https://asciinema.org/a/gnltMLcaCWWMiOGd3sbGaRar5)
 
 Για την ενσωμάτωση του status bar στο τερματικό και το vim χρησιμοποίησα το Powerline. Για την εγκατάσταση του Powerline χρησιμοποίησα το pip και συγκεκριμένα το pip3 λόγο ότι χρησιμοποιώ έκδοση python3, όπου το εγκατέστησα με τον παρακάτω τρόπο. 
 	
