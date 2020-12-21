@@ -10,9 +10,9 @@
 | 6 | Συμμετοχικό περιεχόμενο:A1 & A2 <sup><a href="#6">[ΠΑΡΑΔΟΤΕΟ 6]</a></sup> |
 | 7 | Άσκηση γραμμής εντολών: Search, download and play MP3:<sup><a href="#7">[ΠΑΡΑΔΟΤΕΟ 7]</a></sup>|
 | 8 | Άσκηση προγραμματισμού: YouTube video player: <sup><a href="#8">[ΠΑΡΑΔΟΤΕΟ 8]</a></sup>|
-| 9 | Άσκηση γραμμής εντολών (SW) |
+| 9 | Άσκηση γραμμής εντολών: <sup><a href="#9">[ΠΑΡΑΔΟΤΕΟ 9]</a></sup>|
 | 10 | συμμετοχικό περιεχόμενο <sup><a href="#10">[ΠΑΡΑΔΟΤΕΟ 10]</a></sup> |
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
+| 11 | αίτημα ενσωμάτωσης  |
 | 12 | Τελική αναφορά* |
 
 ###### [1]
@@ -181,7 +181,7 @@ Link για asciinema: https://asciinema.org/a/T1TRrCaCnA8KFjEM0UJS36ajI
   
 | Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
 | :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
-| diatsigk      |Apollo Guidance Computer (AGC) | [Link image 160 pixel](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/the-sims-thumb.jpg)| Σχεδιασμένο από επιστήμονες και μηχανικούς στο εργαστήριο οργάνων του MIT, ο Apollo Guidance Computer (AGC) είναι το αποκορύφωμα χρόνων εργασίας για τη μείωση του μεγέθους του διαστημικού σκάφους Apollo.Το αρχικό είχε μέγεθος 7 ψηγείων και το τελικό έφτανε το 0.5 κυβικό μέτροΟι αστροναύτες επικοινωνούσαν με τον υπολογιστή με τη αφή διψήφιου κωδικού στη μονάδα οθόνης και πληκτρολογίου (DSKY). Το AGC ήταν μια από τις πρώτες χρήσεις ολοκληρωμένων κυκλωμάτων      | [Lisence Url](https://en.wikipedia.org/wiki/NASA) |Wiki| archetypes   | computer | NASA |
+| diatsigk      |Apollo Guidance Computer (AGC) | [Link image 160 pixel](https://github.com/pibook/images/blob/8197cc0d2786a60df981181e2b87417445ec6419/the-sims-thumb.jpg)| Σχεδιασμένο από επιστήμονες και μηχανικούς στο εργαστήριο οργάνων του MIT, ο Apollo Guidance Computer (AGC) είναι το αποκορύφωμα χρόνων εργασίας για τη μείωση του μεγέθους του διαστημικού σκάφους Apollo.Το αρχικό είχε μέγεθος 7 ψηγείων και το τελικό έφτανε το 0.5 κυβικό μέτρο.Οι αστροναύτες επικοινωνούσαν με τον υπολογιστή με τη αφή διψήφιου κωδικού στη μονάδα οθόνης και πληκτρολογίου (DSKY). Το AGC ήταν μια από τις πρώτες χρήσεις ολοκληρωμένων κυκλωμάτων      | [Lisence Url](https://en.wikipedia.org/wiki/NASA) |Wiki| archetypes   | computer | NASA |
 
 
 Normal Image | 160px Image
@@ -240,7 +240,7 @@ H αναζήτηση τραγουδιού στο YouTube έγινε μέσω τ�
 Με την εντολή “mpv” και ακριβώς από δίπλα το όνομα του τραγουδιού έγινε η αναπαραγωγή του τραγουδιού.
 * [Link ΑSCIINEMA](https://asciinema.org/a/Mz6wg0eljhTlymiGxtaQYkcWI)
 
-## Προβλήματα
+## Προβλήματα <br>
 Kατα την εντολή αποθήκευσης του τραγουδιού το youtube δεν με άφηνε να προχωρήσω την διαδικασία βγαζοντας μου το παρακάτω σφάλμα. 
 ```sh
 [stderr] ERROR: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: 'Too Many Requests'>); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
@@ -248,20 +248,39 @@ Kατα την εντολή αποθήκευσης του τραγουδιού �
 Yστερα από σχετική αναζήτηση στο διαδύκτιο κατάλαβα ότι το VPN δεν άφηνε την ip μου να κατεβάσει επιπλέον κομμάτια εφόσον είχα υπερβεί κάποιο όριο.
 Αλλάζοντας την ip μου με την διαδικασία που βρήκα στο youtube το πρόβλημα λύθηκε[[2]].
 
-[1]: <http://oro.open.ac.uk/46759/>
-[2]: <https://www.youtube.com/watch?v=eTqtl169oSY>
+
+
+
+
+###### [9]
+### Άσκηση γραμμής εντολών: use vim to write your cv.
+
+#### Στην αρχή έγινε η εγκατάσταση του pandoc και δημιούργησα ενα αρχείο vim με ένα σύντομο βιογραφικό μου mycv.md με markdown.</br>
+asciinema link : https://asciinema.org/a/E9thzi5mcBxuXM8l6b0x503nK
+ 
+#### Στην συνέχεια έγινε μετατροπή του .md σε docx και html.</br> 
+asciinema link : https://asciinema.org/a/ajnbCWKrzzZzw5Mc05c6RucaK
+
+#### Tέλος για να διορθώσω ένα λάθος που έκανα όταν έγραφα το mail μου χρησιμοποίησα την εντολή sed με την μέθοδο pipeline μέσω προγράμματος sed.c
+* [link mycv.md](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/mycv.md)
+* [link για πρόγραμμα sed.c](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/sed.c)
+* [link Makefile](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Makefile)
+
+- >Aρχικά γίνεται η εισαγωγή στο προγραμμα του αρχείου myfile.md
+  - >Μέσω pipe καλείτε η sed -i η οποία αντικαθιστά την παλιά με την καινούργια συμβολοσειρά( ddiatsigk --> ddiatsig )
+  - >τέλος μέσω πάλι pipe η sed -e τυπώνει στην οθόνη την αλλαγή.
+  
+* [Link ΑSCIINEMA](https://asciinema.org/a/HDL9YXE0Uj3N8diyBuq17TR6G)  
+
 
 ###### [10]
+### Mελέτη περίπτωσης (non Diegetic & Diegetic Games) 
+
+#### Παράδειγμα diegetic game
 - [Metroid Prime](https://github.com/pibook/_gallery/blob/f42dab2b2a96561e31ec35b4a93c5e31e112e138/metroidprime.md)
   - >[Metroid Prime - Normal Image](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/metroidprime.png)
   - >[Metroid Prime - 160px Image](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/metroidprime-thumb.png)
   - >[Συνδεσμος σελίδας βιβλίου](https://inspiring-ride-de6440.netlify.app/gallery/metroidprime/)
-  
-- [killzone2 - Table](https://github.com/pibook/_gallery/blob/f42dab2b2a96561e31ec35b4a93c5e31e112e138/killzone2.md)
-  - >[killzone2 - Normal Image](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/killzone2.png)
-  - >[killzone2 - 160px Image](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/killzone2-thumb.png)
-  - >[Συνδεσμος σελιδας βιβλιου](https://inspiring-ride-de6440.netlify.app/gallery/killzone2/)
- 
 
 
 | Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
@@ -273,14 +292,21 @@ Normal Image | 160px Image
 ![](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/metroidprime.png) | ![](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/metroidprime-thumb.png)
 
 
-| Author | Title |    Image Url    | Caption | Lisence Url |Lisence Text |    Categories    |   Tags    |
-| :--------------:  | :--------------: | :--------------:|:--------------| :--------------: | :--------------: | :--------------: | :--------------: | 
-| DIATSIGK      |Killzone2 | [Link image 160 pixel](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/killzone2-thumb.png)| Στοιχεία που έχουν 2D διαστάσεις και παραμένουν στο περιβάλλον του παιχνιδιού με σκοπό επιπλέον πληροφοριών .Παραδειγμα Killzone2, H σκόνη που σηκώνεται όταν ο παίκτης πυροβολεί εμποδίζει την ορατότητα. Τα παιχνίδια αυτά εντάσσονται στην κατηγορία meta element. | [Lisence Url](https://en.wikipedia.org/wiki/Killzone_2) |wiki| Mορφές  | Meta Element| |
+### Aποτελέσματα από την έρευνα σύμφωνα με την αναζήτηση της βιβλιογραφίας
+ 
+Με την εξέταση του ρόλου των non-diegetic διεπαφών, η βιβλιογραφία [[1]] δείχνει ότι το παιχνίδι θα μπορούσε πραγματικά να βελτιωθεί με την αφαίρεση μερικών στοιχείων που παρουσιάζονται στην οθόνη. Αυτές τις πληροφορίες μπορούν αρχικά οι παίκτες να επεξεργάζονται σταδιακά μαθαίνοντας την μηχανική του παιχνιδιού και του ευρύτερου περιβάλλοντος. Για πιο έμπειρους παίκτες όμως η απόσπαση από το ρόλο τους είναι συχνή. Ο ρόλος  non-diegetic είναι ένας πολλά υποσχόμενος τομέας έρευνας παροχής πληροφοριών σε παίκτες με ένα τρόπο που αυξάνει τη συμμετοχή των παικτών σε όλη τη διάρκεια του παιχνιδιού.</br>
+Mε την εξέταση των συμπερασμάτων και του ρόλου των diegetic games η χρήση περισσότερων από ενός τύπων διασύνδεσης γίνεται για να διασφαλίσει ότι οι παίκτες θα μπορούν να αλληλεπιδρούν αποτελεσματικά με αυτό. Τα αποτελέσματα που παρουσιάζονται στην βιβλιογραφία δείχνουν μια γενική προτίμηση των χρηστών για πλήρως "diegetic" διεπαφές στα παιχνίδια (σε αντίθεση με τις non diegetic), ενώ επιβεβαιώνουν την σημασία του ρόλου των άμμεσων ελέγχων των συμβάντων που γίνονται κάθε στιγμή στο παιχνίδι. Ακόμη λόγω της  πολυπλοκότητας που εμφανίζουν μερικές διεπαφές σε αυτά τα παιχνίδια υποδεικνύει πάντα την ανάγκη για περεταίρω επεξεργασία και αξιολόγηση τους [[3]].</br>
 
-Normal Image | 160px Image
---- | ---
-![](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/killzone2.png) | ![](https://github.com/pibook/images/blob/d4312dffa2288edaa9b07fabe152b95bb7393f6d/killzone2-thumb.png)
+* [Link βιβλιογραφίας](https://github.com/pibook/extras/blob/b6ff5e69d6f99905a634ad11109b50ce6b4d0eae/cs-diegetic-nondiegetic.md)
 
-Mε την εξέταση των συμπερασμάτων και του ρόλου των diegetic και meta-element η χρήση περισσότερων από ενός τύπων διασύνδεσης γίνεται για να διασφαλίσει ότι οι παίκτες θα μπορούν να αλληλεπιδρούν αποτελεσματικά με αυτό. Τα αποτελέσματα που παρουσιάζονται στην βιβλιογραφία δείχνουν μια γενική προτίμηση των χρηστών για πλήρως diegetic και meta elements διεπαφές στα παιχνίδια (σε αντίθεση με τις non diegetic), ενώ επιβεβαιώνουν την σημασία του ρόλου των άμμεσων ελέγχων των συμβάντων που γίνονται κάθε στιγμή στο παιχνίδι. Ακόμη επειδή η πολυπλοκότητα που εμφανίζουν μερικές διεπαφές σε αυτά τα παιχνίδια υποδεικνύει πάντα την ανάγκη για περεταίρω αξιολόγηση αυτών των διεπαφών [[3]].
 
+## Bιογραφία Bill Budge
+
+Είναι προγραμματιστής πολλών παιχνιδιών (όπως του metroidPrime) αλλά και δύο πολύ δημοφιλών παιχνιδιών για το Apple II , του Raster Blaster και του Pinball Construction Set.
+Ειδικά το Pinball Construction Set ήταν η πρώτη εφαρμογή που είδαν ποτέ οι περισσότεροι που χρησιμοποίησαν το πλέον τυπικό μοντέλο οπτικού αντικειμένου στο οποίο ο χρήστης αλληλεπιδρά με μια τρέχουσα εφαρμογή για να δημιουργήσει και να τροποποιήσει περιεχόμενο σύροντας εικονίδια στην οθόνη. Το Pinball Construction Set κυκλοφόρησε το 1983 ενώ ο πρώτος Macintosh κυκλοφόρησε το 1984. Αυτό σημαίνει ότι το Pinball Construction Set ήταν το πρώτο κομμάτι λογισμικού που πουλήθηκε ποτέ και είχε κάτι σαν ένα σύγχρονο γραφικό περιβάλλον εργασίας χρήστη. Τουλάχιστον, ήταν από τις πρώτες δημοφιλείς εφαρμογές GUI (graphical user interface).
+Ακόμη Ο Budge έγραψε το MousePaint που ήταν ένα πρόγραμμα για το Apple II παρόμοιο με το πρόγραμμα MacPaint.Το Mousepaint συνδυάστηκε με ένα Apple Mouse II και με μια intarface card και με αυτόν τον τρόπο έγινε πιο εύχρηστο από τα touchpand της εποχής "koalapad". Ή επαγγελματική του πορεία συνδιάζεται με συνεργασίες από όλες τις γνωστές εταιρίες όπως
+EA Sports, Sony Computer Entertainment και Google. 
+
+[1]: <http://oro.open.ac.uk/46759/>
+[2]: <https://www.youtube.com/watch?v=eTqtl169oSY>
 [3]: <https://link.springer.com/article/10.1007/s12193-016-0236-5>
