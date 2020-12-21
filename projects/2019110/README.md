@@ -4,7 +4,8 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 |**[Εισαγωγή](#Στόχοι-και-ανάγκες-του-μαθήματος)**|      
+| 1 |**[Εισαγωγή](#Στόχοι-και-ανάγκες-του-μαθήματος)**| 
+|   |**[Περιγραφή εργαλείων](#Περιγραφή-εργαλείων)**|
 | 2 |**[Mouse form](#Mouse-Form)**| 
 | 3 |**[Set-up the main dependencies and demonstrate your base system](#set-up-the-main-dependencies-and-demonstrate-your-base-system)**|
 | 4 |**[Mouse option](#Mouse-option)**|
@@ -16,6 +17,7 @@
 | 9 |**[Image zoom](#Image-zoom)**|
 | 10 |**[Μanage your bookmarks](#Manage-your-bookmarks)**|
 | 11 |**[Συμμετοχικό περιεχόμενο Β μέρος](#Συμμετοχικό-περιεχόμενο-Β-μέρος)**|
+|    |**[Συμπέρασματα](#Συμπέρασμα)**|
 | 12 | Τελική αναφορά* |     
 <br>
 
