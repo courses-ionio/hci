@@ -58,7 +58,7 @@ AM:Π2018028
 <br>Λινκ για την [εργασία](https://asciinema.org/a/MIRDxcZzn0ZPtbupra2FQ1yH7)
 
 ## 9ο Παραδοτέο 
-[CSS Menu](https://codepen.io/p2018028/pen/wvzWzWN)<br>
+[CSS Menu](https://github.com/Alkissourvinos/site/blob/master/_remix/menu-css.md)<br>
 αυτή την εβδομάδα έγινε μία ακόμη άσκηση προγραμματισμού. Μέχρι στιγμής έχω ξεκινήσει να καταλαβαίνω σε βάθος πόσο συνδιάζονται οι γλώσσες web dev HTML και CSS και πόσο χρήσιμες είναι και οι δύο για την δημιουργία διαδραστικών σελίδων στο διαδίκτυο 
  
 ## 10ο Παραδοτέο
