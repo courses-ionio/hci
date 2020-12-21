@@ -47,7 +47,7 @@
 
 Με τις παρακάτω απεικονίσεις βλέπουμε το πριν και το μετά.
 
-src="https://i.imgur.com/B0rZp34.gif" width="500" height="200">  src= "https://i.imgur.com/y04AEFf.gif" width="500" height="200">
+<img src="https://i.imgur.com/B0rZp34.gif" width="500" height="200"> <img src= "https://i.imgur.com/y04AEFf.gif" width="500" height="200">
 
 Η διαφορά του αποτελέσματος είναι, όπως δείχνει και η ταμπέλα του κουμπιού, να οδηγήστε στα projects μου aka στο GitHub Profile μου σε αντίθεση με πριν που δεν γινόταν κάτι διαφορετικό.
 
@@ -80,7 +80,7 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 
 Σε αυτή την άσκηση μπορούμε να δούμε το πριν και το μετά σε ένα μόνο gif!
 
-src= "https://i.imgur.com/erCdQWV.gif">
+<img src= "https://i.imgur.com/erCdQWV.gif">
 
 #### Πηγές
 
@@ -122,7 +122,7 @@ src= "https://i.imgur.com/erCdQWV.gif">
 
 Υπάρχει η επιπλέον λειτουργία του που δίνει χρώματα που δεν είναι προ-καθορισμένα αλλά τυχαία φτιαγμένα με κάθε εκτέλεση. Αυτό είναι ένα καλύτερο αποτέλεσμα από τα προκαθορισμένα χρώματα γιατί δίνει μία διαφορετική εμπειρία με κάθε εκτέλεση.
 
-src="https://i.imgur.com/nb0iLFq.gif">
+<img src="https://i.imgur.com/nb0iLFq.gif">
 
 #### Πηγές
 
@@ -151,7 +151,7 @@ src="https://i.imgur.com/nb0iLFq.gif">
 
 Το μενού εμφανίζει μόνο 4 λειτουργίες με μία μικρή αλλαγή στον κώδικα. Παρόλο που δεν αφαίρεσα το κομμάτι των λειτουργιών στη JavaScript & CSS μπορούμε να καταλάβουμε ότι δε χρειάζεται σε τόσο μικρές λειτουργίες γιατί το performance δεν παίζει σημαντικό ρόλο.
 
-src= "https://i.imgur.com/ZNIaPXe.gif">
+<img src= "https://i.imgur.com/ZNIaPXe.gif">
 
 #### Πηγές
 
@@ -234,21 +234,13 @@ src= "https://i.imgur.com/ZNIaPXe.gif">
 
 Αντίστοιχα δεν υπάρχουν εικόνες για το συμμετοχικό περιεχόμενο επειδή δε φαίνεται να παρουσιάζονται στο site επειδή η δυνατότητα αναζήτησης οδηγεί στο πραγματικό pibook.
 
-2 -  
+2 - <img src="https://i.imgur.com/B0rZp34.gif" width="500" height="200"> <img src= "https://i.imgur.com/y04AEFf.gif" width="500" height="200">
 
-src="https://i.imgur.com/B0rZp34.gif" width="500" height="200">  src= "https://i.imgur.com/y04AEFf.gif" width="500" height="200">
+4 - <img src= "https://i.imgur.com/erCdQWV.gif">
 
-4 -  
+7 - <img src="https://i.imgur.com/nb0iLFq.gif">
 
-src= "https://i.imgur.com/erCdQWV.gif">
-
-7 -  
-
-src="https://i.imgur.com/nb0iLFq.gif">
-
-9 -  
-
-src= "https://i.imgur.com/ZNIaPXe.gif">
+9 - <img src= "https://i.imgur.com/ZNIaPXe.gif">
 
 ## Συμπεράσματα
 
