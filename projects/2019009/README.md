@@ -149,6 +149,7 @@ fi
 
  ```
  και εκανα  apply changes με την εντολη  source ~/.bashrc ΣΗΜΕΙΩΣΗ. ΤΟ ΟΝΟΜΑ ROOT ΔΕΝ ΚΑΤΑΦΕΡΑ ΝΑ ΤΟ ΑΛΛΑΞΩ ΚΑΙ ΕΙΝΑΙ ΤΟ root1212 ομως διχνω στο asciinema video το hostname δηλαδη το αμ μου
+ <a href="https://asciinema.org/a/380331" target="_blank"><img src="https://asciinema.org/a/380331.svg" /></a>
 
 
 
