@@ -16,12 +16,12 @@
 | 3 | [Άσκηση γραμμής εντολών: Set-up the main dependencies and demonstrate your base system](#3ο-παραδοτέο---set-up-the-main-dependencies-and-demonstrate-your-base-system) |
 | 4 | [Άσκηση προγραμματισμού: Keyboard Input](#4ο-παραδοτέο---keyboard-input) |
 | 5 |[Άσκηση γραμμής εντολών: Download mp3](#5ο-παραδοτέο---download-mp3) |
-| 6 | [Συμμετοχικό περιεχόμενο: Α1 και Α2](#6ο-παραδοτέο---συμετοχικό-περιεχόμενο-α1-και-α2) |
+| 6 | [Συμμετοχικό περιεχόμενο: Α1 και Α2](#6ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-και-α2) |
 | 7 | [Άσκηση προγραμματισμού: Mouse Option](#7ο-παραδοτέο---mouse-option) |
 | 8 | [Άσκηση γραμμής εντολών: Check the Weather](#8ο-παραδοτέο---check-the-weather) |
 | 9 | [Άσκηση προγραμματισμού: Menu CSS](#9ο-παραδοτέο---menu-css) |
 | 10 | [Άσκηση γραμμής εντολών: Organise the Terminal Window into Multiple Areas](#10o-παραδοτέο---organise-the-terminal-window-into-multiple-areas) |
-| 11 | συμμετοχικό περιεχόμενο |
+| 11 | [Συμμετοχικό περιεχόμενο: Β1 και Β2](#11ο-παραδοτέο---συμμετοχικό-περιεχόμενο-β1-και-β2) |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 | ー | [Έξτρα Ασκήσεις Terminal](#έξτρα-ασκήσεις-terminal) |
 
@@ -244,40 +244,22 @@ ytp, youtube-dl, mpv, mps-youtube, sox, vlc
 [mps-youtube](https://github.com/mps-youtube/mps-youtube) |
 [ytp](https://gitlab.com/uoou/ytp)
 
-# 6ο Παραδοτέο - Συμετοχικό περιεχόμενο Α1 και Α2
+# 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο Α1 και Α2
 
-Τα αρχεία του συμμετοχικού περιεχομένου θα έπρεπε να βρίσκονται στο αποθετήριο του site. Όμως λόγο προβλήματος στο update των submodule τα ανεβάζω προσωρινά εδώ μόνο και μόνο για να μην χαθεί η προθεσμία του παραδοτέου. Θα μεταφέρω όλα τα αρχεία στο repository του site άμεσα, μόλις καταφέρω να λύσω το πρόβλημα με το update των submodules.
+Για το Α μέρος του συμμετοχικού περιεχομένου αποφάσισα να βρω φωτογραφίες και να κάνω διαφάνειες για 2 συσκευές που έφεραν αλλαγές στον κλασικό τρόπο διάδρασης του ανθρώπου με τις αντίστοιχες συσκευές. Αυτές οι συσκευές είναι το Eye Toy του Play Station 2 και το Nintendo Wii με τα Wii Remotes.
+Το σετ διαφανειών που δημιούργησα ονομάζετε "Συσκευές Διάδρασης στα Βιντεοπαιχνίδια" ωστόσο πιστεύω ότι οι διαφάνειες μου θα μπορούσαν να προστεθούν και στο ήδη υπάρχον σετ διαφανειών που αφορά τα βιντεοπαιχνίδια.
+Επίσης δημιούργησα ένα χρονολόγιο με το ίδιο όνομα που δείχνει την διαδρομή αυτών των συσκευών μέσα στο χρόνο προσθέτοντας εκτός από το Wii και το Eye Toy και αρκετές συσκευές που ήδη υπήρχαν στο gallery.
 
-Το νεο θεμα διαφανειων και χρονολογιο που θα δημιουργουσα θα ονομαζονταν:
-#### Συσκευες Διαδρασης στα Βιντεοπαιχνιδια
-Παρόλο που η εξέλιξη των συσκευών διάδρασης των υπολογιστών έχει μείνει σχετικά στάσιμη, μέσα στο χρόνο οι συσκευές που χρησιμοποιούνται για την διάδραση του παίκτη με τον κόσμο του παιχνιδιού αλλάζουν δραματικά και φέρνουν επαναστατικούς και καινοτόμους τρόπους διάδρασης στον τομέα της ψυχαγωγίας και όχι μόνο. <br/>
-slides:
-  - wii-console
-  - spacewar-players.jpg
-  - makey_makey_front
-  - arduino-shield
-  - spacewar-gamepad
-  - minecraft-pi
-  - modern-pc-mouse
-  - c64-demoscene
-  - videoplace
-  - eye-toy
-  
-Θα μπορούσα να τα προσθέσω και στο ήδη υπάρχοντα χρονολόγιο και θέμα διαφανειών που αφορά τα βιντεοπαιχνίδια.
+ΣΥΜΑΝΤΙΚΟ: Παρόλο που έκανα update ήδη υπάρχοντα αντικείμενα στο gallery και πρόσθεσα την ημερομηνία που δημιουργήθηκαν συνεχίζουν μερικά από τα αντικείμενα που έχω προσθέσει στο timeline μου να μην εμφανίζονται οπότε προτρέπω να δείτε το original md αρχείο στο repository μου διότι στο timeline του netlify δεν εμφανίζονται όλα τα entry μου, για άγνωστο προς το παρόν λόγο.
 
-EyeToy: Το EyeToy είναι ένα βιντεοπαιχνίδι που θεωρείτε πρώτο του είδους του. Όλα ξεκίνησαν το 1999 όταν ο Richard Marks οραματίστηκε ότι με την χρήση μιας φθηνής κάμερας web και την υπολογιστική δύναμη του PlayStation2 θα μπορούσε να αλλάξει τον τρόπο διάδρασης των παικτών με την κονσόλα, εισάγοντας τους στην μικτή πραγματικότητα. Χάρις την κάμερα που λειτουργεί ως ανιχνευτής κινήσεων, οι χρήστες αλληλοεπιδρούσαν με την κονσόλα αποκλειστικά με τις κινήσεις του σώματός τους.
-
-<p align="center">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%20%CE%A3%CF%85%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF%20%CE%911%20%CE%BA%CE%B1%CE%B9%20%CE%912/eye-toy-thumb.jpg" width="240px">
-</p>
-
-Nintendo Wii: Το Nintendo Wii είναι η πρώτη κονσόλα που ελέγχονταν με τις κινήσεις του χρήστη. Τα επαναστατικά Wii Remote, επικοινωνώντας μέσω υπέρυθρων με ένα αισθητήρα κίνησης αποσκοπούσαν στο να κάνουν την διάδραση του παίκτη με την κονσόλα πιο δραστήρια. Το Wii ενθάρρυνε τους παίκτες να κινηθούν και να αθληθούν μέσω των παιχνιδιών, καθώς η διάδραση βασίζονταν σχεδόν πλήρως στην κίνηση.
-
-<p align="center">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%20%CE%A3%CF%85%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF%20%CE%911%20%CE%BA%CE%B1%CE%B9%20%CE%912/wii-console-thumb.jpg" width="240px">
-</p>
-
-[Link για το αποθετήριο μου που κρατάω προσωρινά τα αρχεία για το συμμετοχικό περιεχόμενο](https://github.com/KuhakuNeko/PicturesForLessons/tree/main/HCI%20%CE%A3%CF%85%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C%20%CE%A0%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF%20%CE%911%20%CE%BA%CE%B1%CE%B9%20%CE%912)
+| Περιγραφή | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Gallery Eye Toy | [eye-toy.md](https://github.com/KuhakuNeko/_gallery/blob/4b245cfde572ebc742904904383084f997542465/eye-toy.md) | [Eye Toy Summary](https://p2019108-ionio-pibook.netlify.app//gallery/eye-toy/) |
+| Images Eye Toy | [Full Quality](https://github.com/KuhakuNeko/images/blob/a2bff13d94e83d1f308f75b4b67e595cc1e62338/eye-toy.jpg) + [Thumbnail](https://github.com/KuhakuNeko/images/blob/a2bff13d94e83d1f308f75b4b67e595cc1e62338/eye-toy-thumb.jpg) |  |
+| Gallery Wii | [wii-console.md](https://github.com/KuhakuNeko/_gallery/blob/4b245cfde572ebc742904904383084f997542465/wii-console.md) | [Wii Summary](https://p2019108-ionio-pibook.netlify.app//gallery/wii-console/) |
+| Images Wii | [Full Quality](https://github.com/KuhakuNeko/images/blob/a2bff13d94e83d1f308f75b4b67e595cc1e62338/wii-console.jpg) + [Thumbnail](https://github.com/KuhakuNeko/images/blob/a2bff13d94e83d1f308f75b4b67e595cc1e62338/wii-console-thumb.jpg) |  |
+| Slides | [Συσκευες Διαδρασης στα Βιντεοπαιχνιδια (Slides)](https://github.com/KuhakuNeko/site/blob/master/_slides/videogamesinteractiondevices.md) | [Διαφάνειες Συσκευών Διάδρασης στα Βιντεοπαιχνιδια](https://p2019108-ionio-pibook.netlify.app//slides/videogamesinteractiondevices/) |
+| Timeline | [Συσκευες Διαδρασης στα Βιντεοπαιχνιδια (Timeline)](https://github.com/KuhakuNeko/site/blob/master/_timeline/videogamesinteractiondevices.md) | [Χρονολόγιο Συσκευών Διάδρασης στα Βιντεοπαιχνιδια](https://p2019108-ionio-pibook.netlify.app//timeline/videogamesinteractiondevices/) |
 
 # 7ο Παραδοτέο - Mouse Option
 
@@ -484,6 +466,15 @@ Tmux, Byobu, glances, Nmon, Htop, Top, Tmux clock, Ls, Curl, Wttr.in, W3m
 [htop command in Linux with examples - GeeksForGeeks](https://www.geeksforgeeks.org/htop-command-in-linux-with-examples/) |
 [Nmon for Linux Homepage](http://nmon.sourceforge.net/pmwiki.php) |
 [256 COLORS - CHEAT SHEET](https://jonasjacek.github.io/colors/)
+
+# 11ο Παραδοτέο - Συμμετοχικό περιεχόμενο Β1 και Β2
+
+Για το δεύτερο μέρος του συμμετοχικού περιεχομένου επέλεξα να κάνω ένα σύντομο βιογραφικό του πατέρα της εικονικής πραγματικότητας Jaron Lanier και μια μελέτη περίπτωσης πάνω στο embodiment interaction στα βιντεοπαιχνίδια όπου αναλύω συσκευές διάδρασης που κατασκευάστηκαν μέσα στο χρόνο με αυτόν τον σκοπό και τον τρόπο που επιτυγχάνουν αυτόν τον διαφορετικό τρόπο διάδρασης, ενώ συγκρίνω επίσης μερικές από αυτές μεταξύ τους.
+
+| Περιγραφή | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Σύντομη βιογραφία του Jaron Lanier | [jaron-lanier.md](https://github.com/KuhakuNeko/site/blob/master/_biography/jaron-lanier.md) + [bio-lanier.md](https://github.com/KuhakuNeko/site/blob/master/_biography/bio-lanier.md) | [Η Περίπτωση του Embodiment Interaction και των Συσκευών του στα Βιντεοπαιχνίδια](https://p2019108-ionio-pibook.netlify.app//case-study/videogames_embodiment_interaction/) |
+| Η Περίπτωση του Embodiment Interaction και των συσκευών του στα Βιντεοπαιχνίδια | [videogames_embodiment_interaction.md](https://github.com/KuhakuNeko/site/blob/master/_case-study/videogames_embodiment_interaction.md) + [cs-videogames_embodiment_interaction.md](https://github.com/KuhakuNeko/site/blob/master/_case-study/cs-videogames_embodiment_interaction.md) | [Σύντομη βιογραφία του Jaron Lanier](https://p2019108-ionio-pibook.netlify.app//biography/jaron-lanier/) |
 
 # Έξτρα Ασκήσεις Terminal
 
