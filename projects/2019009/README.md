@@ -137,8 +137,8 @@ https://codepen.io/p19barl/pen/PozRgpY
 
 # Παραδοτεο:seven:(Ασκηση γραμμης εντολλων)
 Ως παραδοτεο 7 εκανα την ασκηση [status bar](https://github.com/epidrome/dokey#hci) οπου σαν ζητουμενο ειχε να επεξαργαστω και να διαμορφωσω τον shell
-βαζοντας ενα status bar.για να το πετυχω εκαν εγκατασταση powerline status bar
-απο το παρακατω repository https://github.com/powerline/powerline και εκανα configure το powrline για το bash με τον παρακατω κωδικα που εριξα μεσα στο /.bashrc ``` 
+βαζοντας ενα status bar.για να το πετυχω εκανα εγκατασταση powerline status bar με την παρκατω εντολη sudo add-apt-repository universe και μετα  sudo apt install --yes powerline και εκανα configure το powrline για το bash με τον παρακατω κωδικα που εριξα μεσα στο /.bashrc
+``` 
 # Powerline configuration
 if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
   powerline-daemon -q
@@ -146,7 +146,9 @@ if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
   POWERLINE_BASH_SELECT=1
   source /usr/share/powerline/bindings/bash/powerline.sh
 fi
-            ```και εκανα  apply changes με την εντολη  source ~/.bashrc
+
+ ```
+ και εκανα  apply changes με την εντολη  source ~/.bashrc ΣΗΜΕΙΩΣΗ. ΤΟ ΟΝΟΜΑ ROOT ΔΕΝ ΚΑΤΑΦΕΡΑ ΝΑ ΤΟ ΑΛΛΑΞΩ ΚΑΙ ΕΙΝΑΙ ΤΟ root1212 ομως διχνω στο asciinema video το hostname δηλαδη το αμ μου
 
 
 
