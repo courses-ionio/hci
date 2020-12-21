@@ -192,8 +192,37 @@ https://www.youtube.com/watch?v=bzZ09dAbLEE&t=584s
 ### Add a status bar to your shell/editor and configure a color-theme
 #### [Asciinema link 4ης Άσκηση γραμμής εντολών]
 
-
-
-
-
+Για την ενσωμάτωση του status bar στο τερματικό και το vim χρησιμοποίησα το Powerline. Για την εγκατάσταση του Powerline χρησιμοποίησα το pip και συγκεκριμένα το pip3 λόγο ότι χρησιμοποιώ έκδοση python3, όπου το εγκατέστησα με τον παρακάτω τρόπο. 
 	
+![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1%20(1).png)
+
+Στη συνέχεια εγκατέστησα το Powerline από το αποθετήριο στο Git με την βοήθεια του pip.
+
+![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1%20(2).png)
+
+Έπειτα εγκατέστησα τις γραμματοσειρές που χρησιμοποιεί το Powerline και κατέβασα την τελευταία έκδοση τών συμβόλων γραμματοσειράς χρησιμοποιώντας τις ακόλουθες εντολές wget.
+
+![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1%20(4).png)
+
+![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1%20(5).png)
+
+Όπου και τις ενσωμάτωσα  στο Directory γραμματοσειρών μου.
+
+![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1%20(6).png)
+
+Ακόμη κατέβασα και το αρχείο config.
+
+![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1%20(7).png)
+
+Εν τέλη για να ενεργοποιήσω το Powerline για το τερματικό πρόσθεσα το παρακάτω κομμάτι κώδικα στο .basharc αρχείο μέσω του vim.
+
+![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_46.png)
+	
+![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_45.png)
+
+Για την ενεργοποίηση του Powerline για το vim πρόσθεσα το παρακάτω κομμάτι κώδικα με τον ίδιο τρόπο στο vimrc αρχείο.
+
+![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_92.png)
+
+![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_95.png)
+
