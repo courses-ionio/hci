@@ -234,13 +234,21 @@ src= "https://i.imgur.com/ZNIaPXe.gif">
 
 Αντίστοιχα δεν υπάρχουν εικόνες για το συμμετοχικό περιεχόμενο επειδή δε φαίνεται να παρουσιάζονται στο site επειδή η δυνατότητα αναζήτησης οδηγεί στο πραγματικό pibook.
 
-2 -  <src="https://i.imgur.com/B0rZp34.gif" width="500" height="200">  src= "https://i.imgur.com/y04AEFf.gif" width="500" height="200">
+2 -  
 
-4 -  <src= "https://i.imgur.com/erCdQWV.gif">
+src="https://i.imgur.com/B0rZp34.gif" width="500" height="200">  src= "https://i.imgur.com/y04AEFf.gif" width="500" height="200">
 
-7 -  <src="https://i.imgur.com/nb0iLFq.gif">
+4 -  
 
-9 -  <src= "https://i.imgur.com/ZNIaPXe.gif">
+src= "https://i.imgur.com/erCdQWV.gif">
+
+7 -  
+
+src="https://i.imgur.com/nb0iLFq.gif">
+
+9 -  
+
+src= "https://i.imgur.com/ZNIaPXe.gif">
 
 ## Συμπεράσματα
 
