@@ -1,12 +1,12 @@
-<h6>ΕΠΙΚΟΙΝΩΝΙΑ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ</h6>
+<h1>ΕΠΙΚΟΙΝΩΝΙΑ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ</h1>
 
 <h4>ΟΝΟΜΑΤΕΠΩΝΥΜΟ: ΑΠΟΣΤΟΛΟΣ ΚΑΜΠΛΙΩΝΗΣ</h4>
 
 <h4>ΑΜ: 2015121</h4>
 
-<h2>**Netlify:** https://p15kabl.netlify.app/
+<h4>**Netlify:** https://p15kabl.netlify.app/</h4>
 
-<h2>**Αποθετήριο site:** https://github.com/apostoloskp/site
+<h4>**Αποθετήριο site:** https://github.com/apostoloskp/site</h4>
 
 # Παραδοτέα και Τελική αναφορά
 
