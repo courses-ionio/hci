@@ -14,7 +14,7 @@ AM:Π2018028
 | 8 | [Ασκηση γραμμής εντολών](#8ο-παραδοτέο) |
 | 9 | [CSS Menu](#9ο-παραδοτέο) |
 | 10 | [Emacs org mode](#10ο-παραδοτέο)|
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
+| 11 | [Συμμετοχικό περιεχόμενο](#11ο-παραδοτέο)
 | 12 | Τελική αναφορά* |
 
 ## 1ο Παραδοτέο
@@ -64,3 +64,18 @@ AM:Π2018028
 ## 10ο Παραδοτέο
 [Emacs org mode](https://asciinema.org/a/2nkUI9k0kxjVwKtM28HuEdjRR)<br>
 Για την τελευταία άσκηση γραμμής εντολών επέλεξα το emacs org mode. Οχι κάτι το ιδιαίτερο αλλά ο παππούς πολλών προγραμμάτων. Η ηλικία του ποργράμματος φαίνεται αρκετά στον χειρισμό του αλλα παρόλα αυτα ειναι ένα πολύ σημαντικό και ενδιαφέρον πρόγραμμα
+
+
+## 11ο Παραδοτέο
+Για την τελευταία εργασία του εξαμήνου έγινε μια βιογραφία για τον Alan Bushnell ιδρυτή της Atari και προτεργάτη στην βιομηχανία βιντεοπαιχνιδιών και μία μελέτη περίπτωσης για την γλώσσα προγραμματισμού scratch, την πιο φιλικη προς τον χρήστη γλώσσα προγραμματισμού, με μοναδικό σκοπό την εκπαίδευση νέων μαθητών στον προγραμματισμο
+<br>
+[Μελέτη περίπτωσης](https://github.com/Alkissourvinos/site/blob/master/_case-study/cs-Scratch.md) και [.md αρχείο](https://github.com/Alkissourvinos/site/blob/master/_case-study/Scratch.md)<br><br>
+Πηγες: https://el.wikipedia.org/wiki/Γλώσσα_προγραμματισμού_Scratch<br>
+https://www.scienceworld.ca/resource/scratch-programming-series/<br>
+https://scratch.mit.edu/about<br>
+https://en.scratch-wiki.info/wiki/Scratch<br><br>
+[Βιογραφία](https://github.com/Alkissourvinos/site/blob/master/_biography/bio-Bushnell.md) και [.md αρχείο](https://github.com/Alkissourvinos/site/blob/master/_biography/Nolan-Bushnell.md)<br><br>
+Πηγες:https://en.wikipedia.org/wiki/Nolan_Bushnell<br>
+      https://www.thefamouspeople.com/profiles/nolan-bushnell-6310.php<br>
+      https://www.famous-entrepreneurs.com/nolan-bushnell<br>
+      http://www.biographybase.com/biography/Bushnell_Nolan.html<br>
