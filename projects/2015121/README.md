@@ -174,11 +174,10 @@ Link για το αποθετήριο: https://github.com/apostoloskp/extras/blo
 
 Πηγές: https://www.macrumors.com/2019/12/16/apple-arcade-annual-subscription/?utm_source=feedly&utm_medium=webfeedshttps://www.macrumors.com/2019/12/16/apple-arcade-annual-subscription/
 
-## Βιογραφία:
-Link για το αποθετήριο: 
+## Βιογραφία: Steve Wozniak
+Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/master/_biography/steve-wozniak.md
 
-
-
+Πηγές: https://www.greelane.com/el/%CE%BA%CE%BB%CE%B1%CF%83%CF%83%CE%B9%CE%BA%CE%AD%CF%82-%CE%BC%CE%B5%CE%BB%CE%AD%CF%84%CE%B5%CF%82/%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1--%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/steve-wozniak-biography-1991136/
 
 ###### [12]
 
