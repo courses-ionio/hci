@@ -4,8 +4,7 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 |**[Εισαγωγή](#Στόχοι-και-ανάγκες-του-μαθήματος)**| 
-|   |**[Περιγραφή εργαλείων](#Περιγραφή-εργαλείων)**|
+| 1 |**[Εισαγωγή](#Στόχοι-και-ανάγκες-του-μαθήματος)** - **[Περιγραφή εργαλείων](#Περιγραφή-εργαλείων)**| 
 | 2 |**[Mouse form](#Mouse-Form)**| 
 | 3 |**[Set-up the main dependencies and demonstrate your base system](#set-up-the-main-dependencies-and-demonstrate-your-base-system)**|
 | 4 |**[Mouse option](#Mouse-option)**|
