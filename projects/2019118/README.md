@@ -234,13 +234,21 @@ H εικόνα κάνει την ίδια λειτουργία στο μισό �
 
 Αντίστοιχα δεν υπάρχουν εικόνες για το συμμετοχικό περιεχόμενο επειδή δε φαίνεται να παρουσιάζονται στο site επειδή η δυνατότητα αναζήτησης οδηγεί στο πραγματικό pibook.
 
-2 - <img src="https://i.imgur.com/B0rZp34.gif" width="500" height="200"> <img src= "https://i.imgur.com/y04AEFf.gif" width="500" height="200">
+### 2 
 
-4 - <img src= "https://i.imgur.com/erCdQWV.gif">
+<img src="https://i.imgur.com/B0rZp34.gif" width="500" height="200"> <img src= "https://i.imgur.com/y04AEFf.gif" width="500" height="200">
 
-7 - <img src="https://i.imgur.com/nb0iLFq.gif">
+### 4 
 
-9 - <img src= "https://i.imgur.com/ZNIaPXe.gif">
+<img src= "https://i.imgur.com/erCdQWV.gif">
+
+### 7 
+
+<img src="https://i.imgur.com/nb0iLFq.gif">
+
+### 9
+
+<img src= "https://i.imgur.com/ZNIaPXe.gif">
 
 ## Συμπεράσματα
 
