@@ -275,7 +275,7 @@ asciinema link : https://asciinema.org/a/ajnbCWKrzzZzw5Mc05c6RucaK
 
 ###### [10]
 ### Mελέτη περίπτωσης (non Diegetic & Diegetic Games) 
-[Συνδεσμος σελίδας Μελέτης Περίπτωσης](https://inspiring-ride-de6440.netlify.app/gallery/metroidprime/)
+[Συνδεσμος σελίδας Μελέτης Περίπτωσης](https://inspiring-ride-de6440.netlify.app/case-study/diegetic-nondiegetic-games/)
 
 #### Παράδειγμα diegetic game
 - [Metroid Prime](https://github.com/pibook/_gallery/blob/f42dab2b2a96561e31ec35b4a93c5e31e112e138/metroidprime.md)
