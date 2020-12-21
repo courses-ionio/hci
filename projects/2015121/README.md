@@ -140,6 +140,7 @@ Link για το asciinema: https://asciinema.org/a/375772
 Αρχικά, προχώρησα στην εγκατάσταση των απαραίτητων-με βάση τα ερωτήματα της άσκησης-πακέτων, δηλαδή **sudo apt install youtube-dl** και **sudo apt-get install -y mpg123**. Εκτέλεσα την εντολή **youtube-dl -x --audio-format mp3 "ytsearch1: 'song title'"** για να αναζητήσω και να κατεβάσω το βίντεο απευθείας σε μορφή mp3. Τέλος, προχώρησα **mpg123 song title**, ώστε να γίνει αναπαραγωγή του κομματιού της επιλογής μου. Ολοκλήρωσα το asciicast με την εντολή **exit**.
 
 **Αποτέλεσμα:**
+![download mp3](https://imgur.com/a/nkFY3se)
 
 ###### [9]
 
