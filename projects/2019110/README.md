@@ -149,7 +149,7 @@
  
 # Πηγές πληροφοριών
 ### Ασκήσεις προγραμματισμού
-**Image processing:** https://www.w3schools.com/cssref/css3_pr_filter.asp  <br>
+**Image processing:**[CSS filter](https://www.w3schools.com/cssref/css3_pr_filter.asp)  <br>
 **Image zoom:** [backround colour](https://www.w3schools.com/cssref/pr_background-image.asp)
 ### Ασκήσεις γραμμής εντολών
 
