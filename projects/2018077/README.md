@@ -12,7 +12,7 @@
 | 6 | [Άσκηση προγραμματισμού 3](#άσκηση-προγραμματισμού-3 )| 
 | 7 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο)| 
 | 8 | [Άσκηση γραμμής εντολών 3](#Άσκηση-γραμμής-εντολών-3) | 
-| 9 | [Άσκηση προγραμματισμού 3](#Άσκηση-προγραμματισμού-3) | 
+| 9 | [Άσκηση προγραμματισμού 4](#Άσκηση-προγραμματισμού-4) | 
 | 10 | Άσκηση γραμμής εντολών | 
 | 11 | [Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο) | 
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση | 
@@ -147,7 +147,7 @@
 
       ##
       ##
-      ## Άσκηση προγραμματισμού 3
+      ## Άσκηση προγραμματισμού 4
       
       | https://github.com/KaterinaLaz/site/blob/master/_remix/form-validation.md |
       | --- |
@@ -159,7 +159,7 @@
       
       | Β1 | Β2 |   
       | --- | --- |
-      | https://github.com/KaterinaLaz/site/blob/master/_case-study/scratch-and-education.md |  |
+      | [Η Scratch ως εκπαιδευτικό εργαλείο](https://github.com/KaterinaLaz/site/blob/master/_case-study/scratch-and-education.md) | [Steve Jobs](https://github.com/KaterinaLaz/site/blob/master/_biography/steve-jobs.md) |
       
       
       
