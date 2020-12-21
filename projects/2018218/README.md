@@ -304,7 +304,8 @@ Mε την εξέταση των συμπερασμάτων και του ρόλ
 
 ## Bιογραφία Bill Budge
 
-* [Link Βιογραφίας Βιβλιου](https://inspiring-ride-de6440.netlify.app/biography/bill-budge/)
+* [Link Βιογραφιών](https://inspiring-ride-de6440.netlify.app/biography/)
+* [Link Βιογραφίας Bill Budge](https://inspiring-ride-de6440.netlify.app/biography/bill-budge/)
 
 Ο Βill Budge είναι προγραμματιστής πολλών παιχνιδιών (όπως του metroidPrime) αλλά και δύο πολύ δημοφιλών παιχνιδιών για το Apple II , του Raster Blaster και του Pinball Construction Set. Ειδικά το Pinball Construction Set ήταν η πρώτη εφαρμογή που είδαν ποτέ οι περισσότεροι που χρησιμοποίησαν το πλέον τυπικό μοντέλο οπτικού αντικειμένου στο οποίο ο χρήστης αλληλεπιδρά με μια τρέχουσα εφαρμογή για να δημιουργήσει και να τροποποιήσει περιεχόμενο σύροντας εικονίδια στην οθόνη. Το Pinball Construction Set κυκλοφόρησε το 1983 ενώ ο πρώτος Macintosh κυκλοφόρησε το 1984. Αυτό σημαίνει ότι το Pinball Construction Set ήταν το πρώτο κομμάτι λογισμικού που πουλήθηκε ποτέ και είχε κάτι σαν ένα σύγχρονο γραφικό περιβάλλον εργασίας χρήστη. Τουλάχιστον, ήταν από τις πρώτες δημοφιλείς εφαρμογές GUI (graphical user interface).
 Ακόμη Ο Budge έγραψε το MousePaint που ήταν ένα πρόγραμμα για το Apple II παρόμοιο με το πρόγραμμα MacPaint.Το Mousepaint συνδυάστηκε με ένα Apple Mouse II και με μια intarface card και με αυτόν τον τρόπο έγινε πιο εύχρηστο από τα touchpand της εποχής "koalapad". Ή επαγγελματική του πορεία συνδιάζεται με συνεργασίες από όλες τις γνωστές εταιρίες όπως Apple, EA Sports, Sony Computer Entertainment και Google. 
