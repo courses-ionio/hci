@@ -183,4 +183,18 @@ Link για το αποθετήριο: https://github.com/apostoloskp/site/blob/
 
 ## Τελική αναφορά:
 
+## Σύνοψη:
+
+Προσωπικοί μου στόχοι για το μάθημα ---> **ΕΓΚΥΡΟ COMMIT**
+Άσκηση προγραμματισμού: button ---> **ΕΓΚΥΡΟ COMMIT**
+Άσκηση γραμμής εντολών: (1) warmup: get familiar with basic commands, reading documentation and editing files, (2) hci: add a status bar to your shell/editor and configure a color-theme ---> **ΕΓΚΥΡΟ COMMIT**
+Άσκηση προγραμματισμού: mouse-form ---> **ΕΓΚΥΡΟ COMMIT**
+Άσκηση γραμμής εντολών: organize your notes with emacs ---> **ΕΓΚΥΡΟ COMMIT**
+Συμμετοχικό περιεχόμενο: A1 και A2 ---> **ΕΓΚΥΡΟ COMMIT** 
+Άσκηση προγραμματισμού: form-validation ---> **ΕΓΚΥΡΟ COMMIT**
+Άσκηση γραμμής εντολών: download mp3 ---> **ΕΓΚΥΡΟ COMMIT**
+Άσκηση προγραμματισμού: image-filter ---> **ΕΓΚΥΡΟ COMMIT**
+Άσκηση γραμμής εντολών: text editor and plug-ins for code highlighting and autocompletion ---> **ΕΓΚΥΡΟ COMMIT**
+Συμμετοχικό περιεχόμενο: Β1 και Β2 ---> **ΜΗ ΕΓΚΥΡΟ COMMIT**
+
 **Συμπεράσματα:**
