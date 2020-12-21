@@ -140,7 +140,7 @@ image zoom: [backround colour](https://www.w3schools.com/cssref/pr_background-im
 
 - [homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
   - [asciinema](https://asciinema.org/docs/installation)  
-* Set-up the main dependencies and demonstrate your base system : <br>
+* **Set-up the main dependencies and demonstrate your base system :** <br>
         Χαρακτηρηστικά του υπολογιστή:<br>
      - [Neofetch](https://github.com/dylanaraps/neofetch)<br>
      - [Hardinfo](https://www.youtube.com/watch?v=iKJ-9yEanns)<br>   
