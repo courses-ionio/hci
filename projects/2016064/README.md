@@ -145,8 +145,14 @@
 ### Organize your notes with emacs (use org mode)
 #### [Asciinema link 3ης Άσκηση γραμμής εντολών]
 
-Αφού εγκατέστησα το emacs, για να χρησιμοποιήσω το org mode δημιούργησα ένα αρχείο με την εντολή ***emacs mynotes.org*** ![alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_2.png)
-, όπου αυτό το αρχείο θα περιέχει τις σημειώσεις μου. Έπειτα άρχισα να δημιουργώ τις σημειώσεις μου. Η τελική τους μορφή είναι η εξής. ![alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1.png)
+Αφού εγκατέστησα το emacs, για να χρησιμοποιήσω το org mode δημιούργησα ένα αρχείο με την εντολή ***emacs mynotes.org*** 
+
+![alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_2.png)
+
+, όπου αυτό το αρχείο θα περιέχει τις σημειώσεις μου. Έπειτα άρχισα να δημιουργώ τις σημειώσεις μου. Η τελική τους μορφή είναι η εξής. 
+
+![alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1.png)
+
 Για να φθάσω στην τελική μορφή χρσιμοποίησα τις εξής εντολές στην εφαρμογή emacs κατα το org mode:
 
 | Κουμπιά | Αποτέλεσμα |
