@@ -72,3 +72,8 @@ https://asciinema.org/a/Lj6yjS3zcgLrx3lNMFa54gOn4
 ## Εβδομαδα 10η
 
 Λυση : https://asciinema.org/a/drx9OS6pzgRYn8iddeHpbTLqP
+
+
+## Εβδομαδα 11η
+
+Συμμετοχικο περιεχόμενο : https://hci.ggrammenos.com//case-study/tensorflow/
