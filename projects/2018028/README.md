@@ -50,7 +50,7 @@ AM:Π2018028
 [Timeline](https://github.com/Alkissourvinos/site/blob/master/_timeline/NolanBushnell.md)
 
 ## 7ο Παραδοτέο
-[Form Example](https://github.com/Alkissourvinos/site/blob/master/_remix/mouse-form.md)<br>
+[Mouse Form](https://github.com/Alkissourvinos/site/blob/master/_remix/mouse-form.md)<br>
 Αυτήν την εβδομάδα έγινε άλλη μια άσκηση προγραμματισμού. Κάθε φορά που κάνω μια τέτοια άσκηση είναι όλο και πιο εύκολη επειδή σιγά σιγά μαθαίνω html και css, δυο βασικές γλώσσες για web development. Αν και απλά πράγματα, για έναν αρχάριο σε αυτές τις γλώσσες όπως εγώ βοηθάνε πολύ.
 
 ## 8ο Παραδοτέο 
