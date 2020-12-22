@@ -139,7 +139,7 @@
 * Συνδεσμος για **case study**(Apple-Siri):[cs-apple_siri](https://github.com/p19pasc/site/blob/master/_case-study/cs-apple_siri.md), [apple-siri.md](https://github.com/p19pasc/site/blob/master/_case-study/apple-siri.md),[netlify](https://codingexercisesp2019110.netlify.app//case-study/apple-siri/)
 * Σύνδεσμος για **case study**(Projection-Keyboard):[cs-projection_keyboard](https://github.com/p19pasc/site/blob/master/_case-study/cs-projection_keyboard.md), [projection-keyboard.md](https://github.com/p19pasc/site/blob/master/_case-study/projection-keyboard.md),[netlify](https://codingexercisesp2019110.netlify.app//case-study/projection-keyboard/)
 * Σύνδεσμος για **images**(συγκεκριμένα για πρόσωπο της βιογραφίας): [adam-cheyer](https://github.com/p19pasc/images/blob/master/adam-cheyer.jpg)
-* Σύνδεσμος για **biography**(Apple-Siri):[bio-Adam-Cheyer](https://github.com/p19pasc/site/blob/master/_biography/bio-adam_cheyer.md),[Adam-Cheyer](https://github.com/p19pasc/site/blob/master/_biography/bio-adam_cheyer.md),[netlify](https://codingexercisesp2019110.netlify.app//biography/adam-cheyer/)
+* Σύνδεσμος για **biography**(Apple-Siri):[bio-Adam-Cheyer](https://github.com/p19pasc/site/blob/master/_biography/bio-adam_cheyer.md),[Adam-Cheyer](https://github.com/p19pasc/site/blob/master/_biography/adam-cheyer.md),[netlify](https://codingexercisesp2019110.netlify.app//biography/adam-cheyer/)
  
  **_Οι πηγές για το υλικό που αντλήθηκε για το συμμετοχικό περιεχόμενο αναφέρονται στην βιβλιογραφία_**
  
