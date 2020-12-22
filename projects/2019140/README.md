@@ -77,9 +77,9 @@ https://www.2daygeek.com/linux-lf-terminal-file-manager/
 
 ## Πηγές που χρησημοποίησα
 
-https://www.w3schools.com/
-https://github.com/gokcehan/lf
-https://www.2daygeek.com/linux-lf-terminal-file-manager/
-https://zoomadmin.com/HowToInstall/UbuntuPackage/taskwarrior
-https://taskwarrior.org/docs/examples.html
-https://github.com/jarun/Buku
+https://www.w3schools.com/ ---
+https://github.com/gokcehan/lf ---
+https://www.2daygeek.com/linux-lf-terminal-file-manager/ ---
+https://zoomadmin.com/HowToInstall/UbuntuPackage/taskwarrior ---
+https://taskwarrior.org/docs/examples.html ---
+https://github.com/jarun/Buku ---
