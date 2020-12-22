@@ -17,7 +17,7 @@
 | 3 | [Change your command prompt](https://github.com/epidrome/dokey#warmup)
 | 4 | [Image processing](https://pibook.epidro.me/remix/image-filter/)
 | 5 | [download mp3](https://github.com/epidrome/dokey#hci)
-| 6 | [BUTTON CONCEPT|(https://codepen.io/p19barl/pen/PozRgpY)
+| 6 | [BUTTON CONCEPT](https://codepen.io/p19barl/pen/PozRgpY)
 | 7 |[status bar to your shell/editor](https://github.com/epidrome/dokey#hci)|
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
