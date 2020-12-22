@@ -13,7 +13,7 @@
 | 8 | [8ο Παραδοτέο: Άσκηση γραμμής εντολών]()
 | 9 | [9ο Παραδοτέο: Άσκηση προγραμματισμού](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#9%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 10 | [10ο Παραδοτέο: Άσκηση γραμμής εντολών](https://github.com/p19verg/hci/tree/%CE%A02019127/projects/2019127#10%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
+| 11 | [11ο Παραδοτέο: Συμμετοχικό περιεχόμενο]
 | 12 | Τελική αναφορά* |
 
 
@@ -112,3 +112,5 @@ how to download pywal:https://itsfoss.com/pywal/ <br/>
 how to download imagemagick:https://www.tecmint.com/install-imagemagick-on-debian-ubuntu/ <br/>
 Tmux:https://github.com/tmux/tmux/wiki <br/>
 Customizing tmux status line (styles, formats, and more):https://www.youtube.com/watch?v=9e8850-1pg8&t=686s&fbclid=IwAR2ibdSqUbwqCv38mfo0EQzx7xiwOYly6QGEPoEK8EibZ4PGFcN4gCa-Hb4 <br/>
+## 11ο Παραδοτέο
+Στο 11ο παραδοτέο ερχόμαστε αντιμέτωποι με το ζήτημα του συμμετοχικού περιεχομένου.Αυτή την φορά μας ζητείται μια νέα μελέτη περίπτωσης και μία βιογραφία τα οποία σχετίζονται με τις 2 φωτογραφίες του 6ου παραδοτέου
