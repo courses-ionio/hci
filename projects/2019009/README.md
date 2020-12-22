@@ -21,7 +21,7 @@
 | 7 | [BUTTON CONCEPT](https://codepen.io/p19barl/pen/PozRgpY)
 | 8 |[status bar to your shell/editor](https://github.com/epidrome/dokey#hci)|
 | 9 | [Sortable List](https://pibook.epidro.me/remix/sortable-list/) |
-| 10 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 10 | [ create a simple website with a static generator](https://github.com/epidrome/dokey#cscw) |
 | 11| συμμετοχικό περιεχόμενο |
 | 12 | αίτημα ενσωμάτωσης (CSCW, IV) ,Τελική αναφορά*|
 
