@@ -74,3 +74,12 @@ https://www.2daygeek.com/linux-lf-terminal-file-manager/
 Σε αυτή την άσκηση γραμμής εντολών προσθέτω και αφαιρώ bookmarks ιστοσελίδων και στη συνέχεια τα εκτυπώνω στην οθόνη. Είναι ένα πολύ χρήσιμο εργαλείο το οποίο μπορεί να σου δείξει τα URLs χρήσιμων ιστοσελίδων που έχει αποθηκεύσει ο χρήστης. Πιστεύω ότι μπορεί να χρησημοποιηθεί και ανάλογα με τον αριθμό θέσης του URL στη λίστα. Δηλαδή ο χρήστης να θυμάται διάφορες ιστοσελίδες συνδέοντας τες με κάποιο αριθμό ώστε να τις αναζητά πιο γρήγορα και εύκολα.
 
 Τις εντολές για τη χρήση αυτού του προγράμματος τις βρήκα στο [GitHub repository](https://github.com/jarun/Buku).
+
+## Πηγές που χρησημοποίησα
+
+https://www.w3schools.com/
+https://github.com/gokcehan/lf
+https://www.2daygeek.com/linux-lf-terminal-file-manager/
+https://zoomadmin.com/HowToInstall/UbuntuPackage/taskwarrior
+https://taskwarrior.org/docs/examples.html
+https://github.com/jarun/Buku
