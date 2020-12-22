@@ -22,7 +22,7 @@
 | 8 | **Download mp3**<br/>[Creating a config file](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#creating-a-config-file)<br/>[Downloading and Playing the song](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#downloading-and-playing-the-song) |
 | 9 |[SVG Image](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-9) |
 | 10 |[pending](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-10) |
-| 11 |**Συμμετοχικό Περιεχόμενο** |
+| 11 |**Συμμετοχικό Περιεχόμενο**<br/>[Timelines/Slides](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-11) |
 | 12 | Τελική αναφορά* |
 
 # Παραδοτέο 2
