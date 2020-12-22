@@ -17,6 +17,7 @@
 | 3 | [Change your command prompt](https://github.com/epidrome/dokey#warmup)
 | 4 | [Image processing](https://pibook.epidro.me/remix/image-filter/)
 | 5 | [download mp3](https://github.com/epidrome/dokey#hci)
+|6  | συμμετοχικο περιεχομενο|
 | 7 | [BUTTON CONCEPT](https://codepen.io/p19barl/pen/PozRgpY)
 | 8 |[status bar to your shell/editor](https://github.com/epidrome/dokey#hci)|
 | 9 | [Sortable List](https://pibook.epidro.me/remix/sortable-list/) |
