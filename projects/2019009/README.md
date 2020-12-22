@@ -19,7 +19,7 @@
 | 5 | [download mp3](https://github.com/epidrome/dokey#hci)
 | 6 | [BUTTON CONCEPT](https://codepen.io/p19barl/pen/PozRgpY)
 | 7 |[status bar to your shell/editor](https://github.com/epidrome/dokey#hci)|
-| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
+| 8 | [Sortable List](https://pibook.epidro.me/remix/sortable-list/) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
