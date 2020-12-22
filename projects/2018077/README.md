@@ -147,7 +147,7 @@
 
       ##
       ##
-      ## Άσκηση προγραμματισμού : Form Validation
+      ## Άσκηση προγραμματισμού Form Validation
    
       | https://github.com/KaterinaLaz/site/blob/master/_remix/form-validation.md |
       | --- |
