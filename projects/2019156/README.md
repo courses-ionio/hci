@@ -99,3 +99,5 @@
 > Το url για την ιστοσελίδα είναι: [Static WebSite]( https://anastasia-rizou.github.io/p2019156/)
 >
 > Το repository που φιλοξενεί την ιστοσελίδα είναι: [p2019156](https://github.com/Anastasia-Rizou/p2019156)
+>
+> #### Πηγές[[Jekyll](https://jekyllrb.com/docs/step-by-step/01-setup/)] [[Github Docs](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)] [[Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)]
