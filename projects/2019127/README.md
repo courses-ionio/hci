@@ -15,7 +15,7 @@
 | 10 | [10ο Παραδοτέο: Άσκηση γραμμής εντολών](https://github.com/p19verg/hci/tree/%CE%A02019127/projects/2019127#10%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 11 | [11ο Παραδοτέο: Συμμετοχικό περιεχόμενο](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#11%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 12 | Τελική αναφορά* |
-
+| Link | [Link προς την σελιδα μου]() 
 
 ## Πρώτη επαφή
 Αρχικά,φάνηκε αρκετά περίπλοκο εφόσον δεν είχαμε εξοικειωθεί στο περιβάλλον του [github](https://github.com/),ωστόσο με την βοήθεια των καθηγητών επιλύθηκαν οι σχετικές απορίες όπως τι είναι το fork ,τα repositories και το markdown.
@@ -70,12 +70,6 @@
 ![bim](https://user-images.githubusercontent.com/72465438/102910990-1f834300-4484-11eb-9f2b-4d829c3d722d.jpg) <br/>
 ![octanerender](https://user-images.githubusercontent.com/72465438/102911502-ce278380-4484-11eb-874d-c5ffe6a90893.png) <br/>
 
-
-#### Λίνκ προς την σελίδα μου:
-Λινκ προς την περιγραφή της 1ης φωτογραφίας:https://pibooksite.netlify.app//gallery/bim/ <br/>
-Λινκ προς την περιγραφή της 2ης φωτογραφίας:https://pibooksite.netlify.app//gallery/octanerender/ <br/>
-Λινκ προς τις θεματικές διαφάνειες:https://pibooksite.netlify.app//slides/metaphors/ <br/>
-Λινκ προς το χρονολόγιο:https://pibooksite.netlify.app//timeline/multimedia/ <br/>
 ## 7ο Παραδοτέο
 Στο 7ο παραδοτέο είχαμε να επιλέξουμε από το βιβλίο του καθηγητή μία [άσκηση προγραμματισμού](https://pibook.epidro.me/remix/) και να την επιλύσουμε.
 
@@ -114,3 +108,9 @@ Tmux:https://github.com/tmux/tmux/wiki <br/>
 Customizing tmux status line (styles, formats, and more):https://www.youtube.com/watch?v=9e8850-1pg8&t=686s&fbclid=IwAR2ibdSqUbwqCv38mfo0EQzx7xiwOYly6QGEPoEK8EibZ4PGFcN4gCa-Hb4 <br/>
 ## 11ο Παραδοτέο
 Στο 11ο παραδοτέο ερχόμαστε αντιμέτωποι με το ζήτημα του συμμετοχικού περιεχομένου.Αυτή την φορά μας ζητείται μια νέα μελέτη περίπτωσης και μία βιογραφία τα οποία σχετίζονται με τις 2 φωτογραφίες του 6ου παραδοτέου.
+
+## Λίνκ προς την σελίδα μου:
+Λινκ προς την περιγραφή της 1ης φωτογραφίας:https://pibooksite.netlify.app//gallery/bim/ <br/>
+Λινκ προς την περιγραφή της 2ης φωτογραφίας:https://pibooksite.netlify.app//gallery/octanerender/ <br/>
+Λινκ προς τις θεματικές διαφάνειες:https://pibooksite.netlify.app//slides/metaphors/ <br/>
+Λινκ προς το χρονολόγιο:https://pibooksite.netlify.app//timeline/multimedia/ <br/>
