@@ -113,4 +113,4 @@ how to download imagemagick:https://www.tecmint.com/install-imagemagick-on-debia
 Tmux:https://github.com/tmux/tmux/wiki <br/>
 Customizing tmux status line (styles, formats, and more):https://www.youtube.com/watch?v=9e8850-1pg8&t=686s&fbclid=IwAR2ibdSqUbwqCv38mfo0EQzx7xiwOYly6QGEPoEK8EibZ4PGFcN4gCa-Hb4 <br/>
 ## 11ο Παραδοτέο
-Στο 11ο παραδοτέο ερχόμαστε αντιμέτωποι με το ζήτημα του συμμετοχικού περιεχομένου.Αυτή την φορά μας ζητείται μια νέα μελέτη περίπτωσης και μία βιογραφία τα οποία σχετίζονται με τις 2 φωτογραφίες του 6ου παραδοτέου
+Στο 11ο παραδοτέο ερχόμαστε αντιμέτωποι με το ζήτημα του συμμετοχικού περιεχομένου.Αυτή την φορά μας ζητείται μια νέα μελέτη περίπτωσης και μία βιογραφία τα οποία σχετίζονται με τις 2 φωτογραφίες του 6ου παραδοτέου.
