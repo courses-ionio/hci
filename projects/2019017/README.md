@@ -17,7 +17,7 @@
 | 8 | Άσκηση γραμμής εντολών (hci - emacs org mode): [Eighth deliverable](#Παραδοτέο-8) |
 | 9 | Άσκηση προγραμματισμού (Mouse Eraser): [Ninth deliverable](#Παραδοτέο-9) |
 | 10 | Άσκηση γραμμής εντολών (hci - vim configuration file): [Tenth deliverable](#Παραδοτέο-10) |
-| 11 | συμμετοχικό περιεχόμενο |
+| 11 | Συμμετοχικό περιεχόμενο: [Eleventh deliverable](#Παραδοτέο-11) |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
 Αρχικά είχα ξεκινήσει να κάνω την αναφορά μου στο hci-lab fork μου και μετά από δύο εβδομάδες έφτιαξα την σωστή αναφορά στο hci. Εδώ είναι το [ιστορικό](https://github.com/p19kala/hci-lab/commits/%CE%A02019017?after=9473a2524c479c9c475b31f929ac00e9db6c2dfe+34&branch=%CE%A02019017&path%5B%5D=projects&path%5B%5D=2019017) της αναφοράς στο hci-lab. Όλα τα commits έγιναν μέσα στη διορία για κάθε παραδοτέο.
@@ -80,7 +80,7 @@ Preview:<br/>
  
 ### A1)
 
-Πρόσθεσα entry για το **Unreal Engine** [εδώ](https://github.com/p19kala/_gallery/blob/master/unreal-engine.md) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/commit/37fe62e23574ba1648b8b1f049833bbf47378199) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/commit/03c691b5a501f7acdcb789900160c3ac55570835). Tags στο Netlify εμφανίζονται [εδώ](https://p19kala.netlify.app/tags/#epic-games-inc) και [εδώ](https://p19kala.netlify.app/tags/#blueprint)
+Πρόσθεσα entry για το **Unreal Engine** [εδώ](https://github.com/p19kala/_gallery/blob/master/unreal-engine.md) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/commit/37fe62e23574ba1648b8b1f049833bbf47378199) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/commit/03c691b5a501f7acdcb789900160c3ac55570835). Tags στο Netlify εμφανίζονται [εδώ](https://p19kala.netlify.app/tags/#epic-games-inc) και [εδώ](https://p19kala.netlify.app/tags/#blueprint).
 
 Πρόσθεσα entry για το **Microsoft Natural Keyboard** [εδώ](https://github.com/p19kala/_gallery/blob/master/microsoft-natural-keyboard.md) και δύο φωτογραφίες. Thumbnail [εδώ](https://github.com/p19kala/images/blob/master/microsoft-natural-keyboard-thumb.jpg) και κανονικό μέγεθος [εδώ](https://github.com/p19kala/images/blob/master/microsoft-natural-keyboard.jpg). Tags στο Netlify εμφανίζονται [εδώ](https://p19kala.netlify.app/tags/#microsoft) και [εδώ](https://p19kala.netlify.app/tags/#keyboard).
 
@@ -150,6 +150,9 @@ Preview:<br/>
 
 Preview:<br/>
 ![default](https://i.imgur.com/Ub8X4aD.png)
+
+## Παραδοτέο 11
+Μελέτη περίπτωσης για την καταχώρησή μου Unreal Engine: [cs κείμενο](https://github.com/p19kala/site/blob/master/_case-study/cs-unreal-engine.md) και [κώδικας](https://github.com/p19kala/site/blob/master/_case-study/unreal-engine.md) για το Netlify. Το αποτέλεσμα εμφανίζεται [εδώ](https://p19kala.netlify.app//case-study/unreal-engine/).
 
 ## Πηγές:
 
@@ -222,3 +225,5 @@ Preview:<br/>
 - [Save and exit an edited file in Vim](https://stackoverflow.com/questions/56265246/vim-no-write-since-last-change-even-though-i-changed-the-file)
 
 - [Syntastic](https://vimawesome.com/plugin/syntastic)
+
+Παραδοτέο 11: Ίδιες πηγές με παραδοτέο 6.
