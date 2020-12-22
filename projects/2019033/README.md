@@ -109,3 +109,7 @@ Netlify Link: https://hci-p2019033.netlify.app/remix/plyr-video-player/
 ![Imgur](https://imgur.com/PUTqEjV.gif)
 
 Asciinema Link: https://asciinema.org/a/379309
+
+## Συμμετοχικό περιεχόμενο
+
+Case Study: https://hci-p2019033.netlify.app//case-study/osborne1/
