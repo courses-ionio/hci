@@ -17,13 +17,12 @@
 | 3 | [Change your command prompt](https://github.com/epidrome/dokey#warmup)
 | 4 | [Image processing](https://pibook.epidro.me/remix/image-filter/)
 | 5 | [download mp3](https://github.com/epidrome/dokey#hci)
-| 6 | [BUTTON CONCEPT](https://codepen.io/p19barl/pen/PozRgpY)
-| 7 |[status bar to your shell/editor](https://github.com/epidrome/dokey#hci)|
-| 8 | [Sortable List](https://pibook.epidro.me/remix/sortable-list/) |
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
-| 10 | συμμετοχικό περιεχόμενο |
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
-| 12 | Τελική αναφορά* |
+| 7 | [BUTTON CONCEPT](https://codepen.io/p19barl/pen/PozRgpY)
+| 8 |[status bar to your shell/editor](https://github.com/epidrome/dokey#hci)|
+| 9 | [Sortable List](https://pibook.epidro.me/remix/sortable-list/) |
+| 10 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 11| συμμετοχικό περιεχόμενο |
+| 12 | αίτημα ενσωμάτωσης (CSCW, IV) ,Τελική αναφορά*|
 
 
 ## Syllabus
