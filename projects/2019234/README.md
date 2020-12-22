@@ -15,7 +15,7 @@
 | 8 | [Άσκηση γραμμής εντολών ](#ΠΑΡΑΔΟΤΕΟ-8)|
 | 9 |[Άσκηση προγραμματισμού ](#ΠΑΡΑΔΟΤΕΟ-9)|
 | 10 |  [Άσκηση γραμμής εντολών ](#ΠΑΡΑΔΟΤΕΟ-10)|
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
+| 11 |[Συμμετοχικό περιεχόμενο ](#ΠΑΡΑΔΟΤΕΟ-11)|
 | 12 | Τελική αναφορά* |
 
 
@@ -93,5 +93,12 @@ https://codepen.io/alkinoospitsinis/pen/OJRNEQb
 ## ΠΑΡΑΔΟΤΕΟ 10:
 
 https://asciinema.org/a/tjcMYRpO4O7wfhArv884G48Sb
+
+
+## ΠΑΡΑΔΟΤΕΟ 11:
+
+Προσθήκη στο biography: https://github.com/alkinoospitsinis/site/blob/master/_biography/bio-kenneth-iverson.md , https://github.com/alkinoospitsinis/site/blob/master/_biography/kenneth-iverson.md
+
+Προσθήκη στο case-study: https://github.com/alkinoospitsinis/site/blob/master/_case-study/apl.md , https://github.com/alkinoospitsinis/site/blob/master/_case-study/cs-apl.md
 
 
