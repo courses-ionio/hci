@@ -95,5 +95,7 @@
 > ![Στιγμιότυπο από 2020-12-19 17-13-10](https://user-images.githubusercontent.com/72353939/102692691-abdffc80-421d-11eb-9eea-798a63b5d3a9.png)
 >
 > [Asciinema Link](https://asciinema.org/a/S4J85iWDszHgQXfQlcM6dy9YB)
+>
 > Το url για την ιστοσελίδα είναι: [Static WebSite]( https://anastasia-rizou.github.io/p2019156/)
+>
 > Το repository που φιλοξενεί την ιστοσελίδα είναι: [p2019156](https://github.com/Anastasia-Rizou/p2019156)
