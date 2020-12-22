@@ -166,3 +166,6 @@ link επιλυσης : https://codepen.io/p19barl/pen/JjRKzGg
 ## site link : http://127.0.0.1:4000/
 Ως παραδοτεο 9 διαλεξa την static webpage και για να την δημιουργησω εκανα εγκατασταση τον jekyll και και αφου μπηκα στο directory του site που δημιουργησα με την εντολη ```bundle exec jekyll serve``` ετρεξα τον server  του site.τα αρχεια του site βρισκονται στο  https://github.com/giannisbarlas1/giannisbarlas1 repository  και για να βαλω τα λινκ απο το asciinema πηγα στον φακελο [_posts](https://github.com/giannisbarlas1/static_site-p2019009/blob/main/Giannisbarlas__p2019009/_posts/2020-12-22-asciinema-links.md) και προσθεσα αυτο το md αρχειο. 
 ![Screenshot from 2020-12-22 23-52-09](https://user-images.githubusercontent.com/72620235/102938952-f9769680-44b5-11eb-8d15-d622c1b54e25.png)
+
+
+[hostname-check id](![Screenshot from 2020-12-23 00-34-45](https://user-images.githubusercontent.com/72620235/102939331-c4b70f00-44b6-11eb-96c4-979d99498b1e.png)
