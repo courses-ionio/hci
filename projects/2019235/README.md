@@ -21,13 +21,14 @@
 | 7 | [Image Processing](#Παραδοτέο-6) |
 | 8 | **Download mp3**<br/>[Creating a config file](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#creating-a-config-file)<br/>[Downloading and Playing the song](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#downloading-and-playing-the-song) |
 | 9 |[SVG Image](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-9) |
-| 10 | ασκηση γραμμής εντολών |
-| 11 |συμμετοχικο |
+| 10 |[pending](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-10) |
+| 11 |**Συμμετοχικό Περιεχόμενο** |
 | 12 | Τελική αναφορά* |
 
 # Παραδοτέο 2
 ## Interactive text
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/CIh3eCM"  ><a href="//imgur.com/a/CIh3eCM">car screenshot</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+Η πρώτη μου απόπειρα σε άσκηση προγραμματισμού δεν ήταν ιδιαίτερα επιτυχημένη.
+[![preview](https://www.dropbox.com/s/zldbjb2herot7zr/Screenshot_20201222_180851.png?raw=1)](https://p19papa11.netlify.app/remix/interactive-text/)
  
 # Παραδοτέο 3
 ## Getting familiar with bash
@@ -55,12 +56,9 @@
 ## Keyboard input
 ### Άσκηση 1: Τροποποιήστε το παράδειγμα έτσι ώστε όταν το αυτοκίνητο κινείται όπισθεν να έχει μικρότερη (τη μισή) ταχύτητα από το όταν κινείται έμπροσθεν.
 Ολοκληρώθηκε το πρώτο ζητούμενο αλλάζοντας την τιμή του dy στο πλήκτρο με κωδικό 40, στο μισό.
+Το δεύτερο ζητούμενο πραγματοποιήθηκε με την εισαγωγή ενός codeblock που εμπόδιζε την αλλαγή του x αν το αυτοκίνητο βρισκόταν σε μία συγκεκριμένη θέση. έτσι το αυτοκίνητο φαίνεται να σταματάει επί τόπου.
 
-
-<iframe height="265" style="width: 100%;" scrolling="no" title="html canvas game" src="https://codepen.io/isabellapap/embed/OJXZexE?height=265&theme-id=dark&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/isabellapap/pen/OJXZexE'>html canvas game</a> by 2019235
-  (<a href='https://codepen.io/isabellapap'>@isabellapap</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+[![preview](https://www.dropbox.com/s/g9bebujm0yerf72/thumbnailCAR.png?raw=1)](https://p19papa11.netlify.app/remix/keyboard-input/)
 
 
 # Παραδοτέο 5
@@ -112,11 +110,7 @@ To MatLab(1981) ήταν, σύμφωνα με τον Cleve Moler, ένα χόμ�
 Το Unity(2005), δημιουργήθηκε με σκοπό να δώσει ένα τέλος στο μονοπώλιο των εταιριών στο game development. Παρόλα αυτά, αναγνωρίστηκε ως το πρόγραμμα που αξιοποιεί τα γραφικά του Mac OS X καλύτερα από οποιοδήποτε άλλο λογισμικό. Το Unity μέσα σε 2 χρόνια επεκτάθηκε σε άλλα λειτουργικά και εξελίχθηκε ραγδαία. Σήμερα η γραφική διεπαφή του δεν χρησιμοποιείται μόνο για game development αλλά για ένα εύρος λειτουργιών (Σχεδίαση αυτοκινήτων, δημιουργία εικονικής πραγματικότητας, Animation).
 
 # Παραδοτεο 7
-Preview:
-
-[Netlify Link](https://p19papa11.netlify.app/remix/image-filter/)
-
-Επιλέχθηκε μια από τις εύκολες ασκήσεις λόγω έλλειψης χρόνου. Αναμένεται μία συμπληρωματική.
+[![preview](https://www.dropbox.com/s/nz1j1p2pojnnsp3/Screenshot_20201222_180642.png?raw=1)](https://p19papa11.netlify.app/remix/image-filter/)
 
 # Παραδοτέο 8
 
@@ -133,9 +127,7 @@ Preview:
 [![asciicast](https://asciinema.org/a/47RzGxjMY8fNrIZzKsXZsdP7X.svg)](https://asciinema.org/a/47RzGxjMY8fNrIZzKsXZsdP7X)
 
 # Παραδοτέο 9
-Preview:
-
-[Netlify link](https://p19papa11.netlify.app/remix/image/)
+[![Netlify link](https://www.dropbox.com/s/olxiwrwubhd8etd/Screenshot_20201222_181522.png?raw=1)](https://p19papa11.netlify.app/remix/image/)
 
 Σημείωση: Λόγω του μεγέθος του embed, δεν τα εμφανίζει δίπλα δίπλα, ενώ είναι.
 
@@ -145,3 +137,6 @@ Preview:
 
 Προσωρινό Asciinema: [![asciicast](https://asciinema.org/a/dQtpmitKTQ9Ld8hwVC0DxCsH6.svg)](https://asciinema.org/a/dQtpmitKTQ9Ld8hwVC0DxCsH6)
 
+# Παραδοτέο 11
+### Συμμετοχικό Περιεχόμενο
+Προστέθηκαν 2 καινούρια χρονολόγια στον φάκελο [_timelines](https://github.com/IsabellaPap/site/tree/master/_timeline) και 2 καινούργια σετ διαφανειών στον φάκελο [slides](https://github.com/IsabellaPap/site/tree/master/_slides)
