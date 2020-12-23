@@ -15,8 +15,8 @@
 | 7 |[Menu scroll](#menu_scroll)|
 | 8 |[Hci-Status bar](#Status_bar)|
 | 9 |[YouTube video player](#You_Tube_video_player)|
-| 10 |[Static Website](#Static_Website)|
-| 11 | συμμετοχικό |
+| 10 |Convert into different text formats(#pandoc)|
+| 11 | [Static Website](#Static_Website) |
 | 12 | Τελική αναφορά* |
 
 
@@ -72,9 +72,10 @@
 > #### Πηγές[[youtube-dl](https://github.com/ytdl-org/youtube-dl)] [[VLC](https://www.videolan.org/)] [[Tecmint](https://www.tecmint.com/download-mp3-song-from-youtube-videos/)]
 > 
 > ## [Archetypes](https://pibook.epidro.me/chapter/archetypes/)
-> [archetypes.md](https://github.com/Anastasia-Rizou/site/blob/master/_slides/archetypes.md)
->
-> [timeline](https://github.com/Anastasia-Rizou/site/blob/master/_timeline/collaboration.md)
+> Παρά τις προσπάθειες να υλοποιήσω το ζητούμενο αύτης της ενότητας δεν κατάφερα παρά να ανεβάσω δύο εικόνες που έχουν σχέση με τα συστήματα διάτρησης κάρτας.Το μόνο που έχω να δείξω είναι οι δύο εικόνες αφού η άσκηση δεν υλοποιήθηκε.
+> ![1940_Census_worker_using_card_punch](https://user-images.githubusercontent.com/72353939/103026756-3e093d00-455d-11eb-8bff-bdc232840974.jpg)
+> 
+>![OSU_Archives2_OM](https://user-images.githubusercontent.com/72353939/103027615-df44c300-455e-11eb-931b-c7fc6204442e.jpeg)
 
 > ## [menu_scroll](https://github.com/Anastasia-Rizou/site/blob/master/_remix/menu-scroll.md)
 >
@@ -106,7 +107,16 @@
 >
 > #### Πηγές:[[YouTube Player API Reference for iframe Embeds](https://developers.google.com/youtube/player_parameters)] [[Javascript](https://www.w3schools.com/js/js_events.asp)] [[css](https://www.w3schools.com/css/css3_buttons.asp)]
 
+## pandoc(https://asciinema.org/a/8ViCdDL5M7YZ8WZhPlVYGNrcQ)
+> Η [άσκηση γραμμής εντολών]((https://github.com/epidrome/dokey) που υλοποιώ είναι η τελευταία άσκηση της ενότητας hci.Το ζητούμενο είναι να μετατρέψουμε ένα markdown αρχείο σε αρχείο htm και αρχείο docx,χρησιμοποιώντας το pandoc και ελέγχοντάς τα με το git.Αυτό που με δυσκόλεψε ήταν οτι ενώ εμφανίζοταν το αρχείο σε html μορφή(σύνταξη) στο τερματικό,δεν δημιουργούνταν το αρχείο.
+>
+> ![Στιγμιότυπο από 2020-12-23 23-49-43](https://user-images.githubusercontent.com/72353939/103039472-a8c87180-4579-11eb-9c3e-190c1120c94e.png)
+> [Asciinema link](https://asciinema.org/a/8ViCdDL5M7YZ8WZhPlVYGNrcQ)
+> 
+> ### Πηγές:[[Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)] [[Pandoc](https://pandoc.org/MANUAL.html)] [[Vim](https://www.tutorialspoint.com/vim/index.htm)]
 
+#### Υποσημείωση
+>> Απο παρερμήνευση των οδηγιών το παραδοτέο 10 που είχα ετοιμάσει είναι το παρακάτω.Μετά από την ορθή υπόδειξη του κ.Πατηνιώτη κατα την παρουσίση της προόδου της εργασίας μου το παραδοτέο 10 αντικαταστάθηκε απο θέμα της ενότητας hci.Το παρουσιάζω γιατί θα ήθελα να δείτε και αυτήν την εργασία μου. 
 ## [Static_Website](https://asciinema.org/a/S4J85iWDszHgQXfQlcM6dy9YB)
 > Η [άσκηση γραμμής εντολών]((https://github.com/epidrome/dokey)που επέλεξα για να ολοκληρώσω την ενότητα αυτή είναι η δημιουργία μιας στατικής ιστοσελίδας με τα asciinema links των παραδοτέων.Ήταν μια δύσκολη άσκηση γιατί συνδυάζει το git με github.Χρησιμοποίησα την στατική γεννήτρια jekyll με την οποία έφταξα μια στατική ιστοσελίδα,τοπικά,και στην συνέχεια με το git ανέβασα την ιστοσελίδα ώς host page στο github.Η σελίδα έχει το ονοματεπώνυμο μου,τον ΑΜ μου και τον λογαριασμό μου στο github.Όλες οι εντολές και η διαμόρφωση του site έγινε από το τερματικό χρησιμοποιώντας το git. 
 >
