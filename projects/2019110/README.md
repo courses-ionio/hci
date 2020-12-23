@@ -127,8 +127,8 @@
 Ώς πρώτη επαφή με το συμμετοχικό περιεχόμενο αποφάσισα να κάνω αναφορά σε δύο εντυπωσιακές καινοτομίες το Siri και το projection keyboard. Που είναι σχετικά σύγχρονες ιδέες και σχετίζονται με την διάδραση και αλληλεπίδραση του ανθρώπου με τους υπολογιστές.
 * Σύνδεσμος για τα **images**: [apple-siri](https://github.com/p19pasc/images/blob/master/apple-siri.jpg), [apple-siri-thumb](https://github.com/p19pasc/images/blob/master/apple-siri-thumb.jpg), [projection-yboard](https://github.com/p19pasc/images/blob/master/projection-keyboard.jpg), [projection-keyboard-thumb](https://github.com/p19pasc/images/blob/master/projection-keyboard-thumb.jpg)
 * Σύνδεσμος για την **gallery**: [projection-keyboard.md](https://github.com/p19pasc/_gallery/blob/master/projection-keyboard.md), [apple-siri.md](https://github.com/p19pasc/_gallery/blob/master/apple-siri.md)
-* Σύνδεσμος για **slides**: [archetypes.md](https://github.com/p19pasc/site/blob/master/_slides/archetypes.md), [netlify](https://codingexercisesp2019110.netlify.app//slides/archetypes/)
-* Σύνδεσμος για **timeline**: [multimedia.md](https://github.com/p19pasc/site/blob/master/_timeline/multimedia.md),[netlify](https://codingexercisesp2019110.netlify.app//timeline/multimedia/)  
+* Σύνδεσμος για **slides**(Projection-keyboard): [archetypes.md](https://github.com/p19pasc/site/blob/master/_slides/archetypes.md), [netlify](https://codingexercisesp2019110.netlify.app//slides/archetypes/)
+* Σύνδεσμος για **timeline**(Apple-siri): [multimedia.md](https://github.com/p19pasc/site/blob/master/_timeline/multimedia.md),[netlify](https://codingexercisesp2019110.netlify.app//timeline/multimedia/)  
 
 # Συμμετοχικό περιεχόμενο Β μέρος
 
