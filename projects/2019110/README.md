@@ -1,7 +1,8 @@
+# Επικοινωνία ανθρώπου υπολογιστή
 **Ονοματεπώνυμο: Θωμάς-Σπυρίδων Πασχάλης   
 ΑΜ: Π2019110**      
 **profile:** https://github.com/p19pasc   
-
+**netlify:** https://codingexercisesp2019110.netlify.app/
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 |**[Εισαγωγή](#Στόχοι-και-ανάγκες-του-μαθήματος)** - **[Περιγραφή εργαλείων](#Περιγραφή-εργαλείων)**| 
@@ -157,7 +158,7 @@
 - [homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
   - [asciinema](https://asciinema.org/docs/installation)  
 * **Set-up the main dependencies and demonstrate your base system :** <br> 
-     &nbsp;&nbsp;Αλλαγή ονόματος στην γραμμή εντολών:<br> 
+       Αλλαγή ονόματος στην γραμμή εντολών:<br> 
      - [Vitux](https://vitux.com/how-to-customize-ubuntu-bash-prompt/)<br> 
        Χαρακτηρηστικά του υπολογιστή:<br> 
      - [Neofetch](https://github.com/dylanaraps/neofetch)<br>
