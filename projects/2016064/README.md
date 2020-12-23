@@ -148,7 +148,7 @@
 ### Organize your notes with emacs (use org mode)
 #### [Asciinema link 3ης Άσκηση γραμμής εντολών]
 
-Αφού εγκατέστησα το emacs, για να χρησιμοποιήσω το org mode δημιούργησα ένα αρχείο με την εντολή ***emacs mynotes.org*** 
+Αφού εγκατέστησα το emacs, για να χρησιμοποιήσω το org mode δημιούργησα ένα αρχείο με την εντολή ***emacs 2016064notes.org*** 
 
 ![alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_2.png)
 
