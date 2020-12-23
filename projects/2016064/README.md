@@ -126,6 +126,8 @@
 
 Για την προβολή της ιστοσελίδας μου μέσω Netlify πατήστε [εδώ](https://kavvadias.netlify.app/)
 
+Βιβλιογραφία σχετικά με το [Microsoft mouse](https://en.wikipedia.org/wiki/Microsoft_Mouse) και το [Trackball](https://shortformernie.medium.com/computer-trackball-canadian-history-685b41d4e8a8)
+
 ## 3η Άσκηση προγραμματισμού
 ### Menu slide
 #### [Αποθετήριο κώδικα 3ης Άσκησης προγραμματισμού](https://github.com/Kavvadias/site/blob/master/_remix/menu-slide.md)
