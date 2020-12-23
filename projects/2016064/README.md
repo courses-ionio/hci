@@ -18,7 +18,7 @@
 | 8 | [3η Άσκηση γραμμής εντολών](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#3%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD)  |
 | 9 | [4η Άσκηση προγραμματισμού Menu pie](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#4%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D) |
 | 10 | [4η Άσκηση γραμμής εντολών](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#4%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
-| 11 | συμμετοχικό περιεχόμενο |
+| 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά* |
 
 ## Εισαγωγή
@@ -237,4 +237,11 @@ https://www.youtube.com/watch?v=bzZ09dAbLEE&t=584s
 1. https://github.com/powerline/powerline
 2. https://medium.com/@earlybyte/powerline-for-bash-6d3dd004f6fc
 3. https://www.youtube.com/watch?v=_D6RkmgShvU
+
+
+## Συμμετοχικό περιεχόμενο
+### Παραδοτέο 2
+#### Β1
+
+#### Β2
 
