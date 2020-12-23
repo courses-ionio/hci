@@ -107,7 +107,7 @@ https://codepen.io/p19barl/pen/MWeVRzr
 Ως παραδοτεο 5 εκανα την  ασκηση γραμμης εντολων download mp3 απο τον πινακα hci με ζητουμενο search, download and play (with the terminal) your favorite song of the month from youtube.με την εντολη ```sudo apt-get install``` εκανα εγκατασταση το download-dl,υστερα με την εντολη  ```download-dl -F https://..... ```κανω αναζητηση το αρχειο και ολα τα δυνατα φορματ της διευθυνσης μετα με την εντολη ```download-dl -x ```κανω καταβασμα μονο το audio αρχειο και αφου εχω κανει install τον mplayer ανοιγω το αρχειο mp3 
 
 
-<a href="https://asciinema.org/a/377990" target="_blank"><img src="https://asciinema.org/a/377990.svg" /></a>
+<a href="https://asciinema.org/a/377990" target="_blank"><img src="https://asciinema.org/a/380822" /></a>
 
 
 
