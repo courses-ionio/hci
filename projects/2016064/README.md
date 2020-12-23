@@ -18,7 +18,7 @@
 | 8 | [3η Άσκηση γραμμής εντολών](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#3%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD)  |
 | 9 | [4η Άσκηση προγραμματισμού Menu pie](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#4%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D) |
 | 10 | [4η Άσκηση γραμμής εντολών](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#4%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
-| 11 | Συμμετοχικό περιεχόμενο |
+| 11 | [Συμμετοχικό περιεχόμενο](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2) |
 | 12 | Τελική αναφορά* |
 
 ## Εισαγωγή
