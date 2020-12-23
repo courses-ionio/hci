@@ -61,3 +61,9 @@
 #### [9](#9)
 
 Για την ένατη εβδομάδα η άσκηση που διάλεξα λεγόταν mouse option και ήταν αρκετά απλή. Διάλεξα να συμπεριλάβω πράγματα για ένα φανταστικό χαρακτήρα και κάθε επιλογή του χρήστη να βγάζει αλλες πληροφορίες. [Εδώ](https://github.com/gordthrow/site/blob/master/_remix/mouse-option.md) μπορείτε να δείτε την εργασία μου. Επίσης [εδώ](https://codepen.io/p2019136/pen/yLaoqOW) είναι ο κωδικάς μου στο codepen.
+
+
+
+
+
+https://asciinema.org/a/9Di4ztNg75gJ4okFuyk8002Ky
