@@ -60,12 +60,13 @@
 >
 > #### Πηγές:[ [HTML](https://www.w3schools.com/html/)].
 
-> ## [download-mp3](https://asciinema.org/a/fNqQxrhKkFkM2D8yb665NU06E)
-> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) μας ζητάει να κατεβάσουμε στο τερματικό μας,με τη βοήθεια του youtube-ld ένα τραγούδι και να το αναπαραγάγουμε επίσης μέσα από το τερματικό.Η δυσκολία που αντιμετώπισα ήταν με τη ytsearch εντολή,η οποία είναι για την αναζήτηση στο youtube ενός συγκεκριμένου τραγουδιού ή βίντεο.Επίσης δεν είμαι ευχαριστημένη από την αναπαραγωγή μέσα απο το vlc.
+> ## [download-mp3](https://asciinema.org/a/ycf8XT527dMuWbD16DYitlEIQ)
+> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) μας ζητάει να κατεβάσουμε στο τερματικό μας,με τη βοήθεια του youtube-ld ένα τραγούδι και να το αναπαραγάγουμε επίσης μέσα από το τερματικό.Η δυσκολία που αντιμετώπισα ήταν με τη ytsearch εντολή,η οποία είναι για την αναζήτηση στο youtube ενός συγκεκριμένου τραγουδιού ή βίντεο.Επειδή η αναπαραγωγή μέσα απο το vlc αφού δεν καταγράφηκε,προσθέτω και μια δεύτερη καταγραφή στην οποία η αναπαραγωγή γίνεται με χρήση του εργαλείου sox.
 >
 > ![Στιγμιότυπο από 2020-12-09 13-03-02](https://user-images.githubusercontent.com/72353939/101621914-0a87c800-3a1f-11eb-923f-bd28f513bb05.png)
 >
 > [Asciinema link](https://asciinema.org/a/fNqQxrhKkFkM2D8yb665NU06E)
+> [Asciinema link2](https://asciinema.org/a/ycf8XT527dMuWbD16DYitlEIQ)
 >
 > #### Πηγές[[youtube-dl](https://github.com/ytdl-org/youtube-dl)] [[VLC](https://www.videolan.org/)] [[Tecmint](https://www.tecmint.com/download-mp3-song-from-youtube-videos/)]
 > 
