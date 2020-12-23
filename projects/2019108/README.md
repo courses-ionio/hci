@@ -473,8 +473,8 @@ Tmux, Byobu, glances, Nmon, Htop, Top, Tmux clock, Ls, Curl, Wttr.in, W3m
 
 | Περιγραφή | Repository Link | Netlify Link |
 | --- | --- | --- |
-| Σύντομη βιογραφία του Jaron Lanier | [jaron-lanier.md](https://github.com/KuhakuNeko/site/blob/master/_biography/jaron-lanier.md) + [bio-lanier.md](https://github.com/KuhakuNeko/site/blob/master/_biography/bio-lanier.md) | [Η Περίπτωση του Embodiment Interaction και των Συσκευών του στα Βιντεοπαιχνίδια](https://p2019108-ionio-pibook.netlify.app//case-study/videogames_embodiment_interaction/) |
-| Η Περίπτωση του Embodiment Interaction και των συσκευών του στα Βιντεοπαιχνίδια | [videogames_embodiment_interaction.md](https://github.com/KuhakuNeko/site/blob/master/_case-study/videogames_embodiment_interaction.md) + [cs-videogames_embodiment_interaction.md](https://github.com/KuhakuNeko/site/blob/master/_case-study/cs-videogames_embodiment_interaction.md) | [Σύντομη βιογραφία του Jaron Lanier](https://p2019108-ionio-pibook.netlify.app//biography/jaron-lanier/) |
+| Σύντομη βιογραφία του Jaron Lanier | [jaron-lanier.md](https://github.com/KuhakuNeko/site/blob/master/_biography/jaron-lanier.md) + [bio-lanier.md](https://github.com/KuhakuNeko/site/blob/master/_biography/bio-lanier.md) | [Σύντομη βιογραφία του Jaron Lanier](https://p2019108-ionio-pibook.netlify.app//biography/jaron-lanier/) |
+| Η Περίπτωση του Embodiment Interaction και των συσκευών του στα Βιντεοπαιχνίδια | [videogames_embodiment_interaction.md](https://github.com/KuhakuNeko/site/blob/master/_case-study/videogames_embodiment_interaction.md) + [cs-videogames_embodiment_interaction.md](https://github.com/KuhakuNeko/site/blob/master/_case-study/cs-videogames_embodiment_interaction.md) | [Η Περίπτωση του Embodiment Interaction και των Συσκευών του στα Βιντεοπαιχνίδια](https://p2019108-ionio-pibook.netlify.app//case-study/videogames_embodiment_interaction/) |
 
 # Έξτρα Ασκήσεις Terminal
 
