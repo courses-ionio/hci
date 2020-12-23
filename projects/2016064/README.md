@@ -124,6 +124,7 @@
 
 2. Δημιουργία χρονολογίου: Δημιούργησα νέο χρονολόγιο ονόματι [Συσκευές Εισόδου-Ποντίκια](https://github.com/Kavvadias/site/blob/master/_timeline/mouses.md) με τις δύο φωτογραφίες που πρόσθεσα και φωτογραφίες που ήδη υπάρχουν.
 
+Για την προβολή της ιστοσελίδας μου μέσω Netlify πατήστε [εδώ](https://kavvadias.netlify.app/)
 
 ## 3η Άσκηση προγραμματισμού
 ### Menu slide
@@ -231,4 +232,9 @@ https://www.youtube.com/watch?v=bzZ09dAbLEE&t=584s
 ![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_92.png)
 
 ![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_95.png)
+
+Οδηγίες για την πραγματοποίηση του παραδοτέου έλαβα από τις εξής πηγές
+1. https://github.com/powerline/powerline
+2. https://medium.com/@earlybyte/powerline-for-bash-6d3dd004f6fc
+3. https://www.youtube.com/watch?v=_D6RkmgShvU
 
