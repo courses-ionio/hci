@@ -156,12 +156,14 @@
 
 - [homebrew](https://docs.brew.sh/Homebrew-on-Linux)  
   - [asciinema](https://asciinema.org/docs/installation)  
-* **Set-up the main dependencies and demonstrate your base system :** <br>
-        Χαρακτηρηστικά του υπολογιστή:<br>
+* **Set-up the main dependencies and demonstrate your base system :** <br> 
+     &nbsp;&nbsp;Αλλαγή ονόματος στην γραμμή εντολών:<br> 
+     - [Vitux](https://vitux.com/how-to-customize-ubuntu-bash-prompt/)<br> 
+       Χαρακτηρηστικά του υπολογιστή:<br> 
      - [Neofetch](https://github.com/dylanaraps/neofetch)<br>
      - [Hardinfo](https://www.youtube.com/watch?v=iKJ-9yEanns)<br>   
 * **Text editor and plug-ins for code highlighting and autocompletion :** [Useful Vim Commands](https://www.youtube.com/watch?v=yfxRHSSGgSg&ab_channel=linuxhint), [VIM Syntax Highlighting](https://www.youtube.com/watch?v=P5US8U8-KmA&ab_channel=linuxhint)
-* **Check the weather:** [wttr.in](https://github.com/chubin/wttr.in)<br>
+* **Check the weather:** [wttr.in](https://github.com/chubin/wttr.in),[ansiweather](https://github.com/fcambus/ansiweather)<br>
 * **Download mp3:** <Br>
      - [Googler](https://github.com/jarun/googler) <br>
      - [Pipelining](https://unix.stackexchange.com/questions/594777/watch-and-download-video-from-youtube-with-mpv-only)<br>
