@@ -113,13 +113,13 @@
 > ![Στιγμιότυπο από 2020-12-23 23-49-43](https://user-images.githubusercontent.com/72353939/103039472-a8c87180-4579-11eb-9c3e-190c1120c94e.png)
 > [Asciinema link](https://asciinema.org/a/8ViCdDL5M7YZ8WZhPlVYGNrcQ)
 > 
-> ### Πηγές:[[Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)] [[Pandoc](https://pandoc.org/MANUAL.html)] [[Vim](https://www.tutorialspoint.com/vim/index.htm)]
+> #### Πηγές:[[Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)] [[Pandoc](https://pandoc.org/MANUAL.html)] [[Vim](https://www.tutorialspoint.com/vim/index.htm)]
 
 #### Υποσημείωση
 ## note
 >> Απο παρερμήνευση των οδηγιών το παραδοτέο 10 που είχα ετοιμάσει είναι το παρακάτω.Μετά από την ορθή υπόδειξη του κ.Πατηνιώτη κατα την παρουσίση της προόδου των εργασιών μου το παραδοτέο 10 αντικαταστάθηκε απο θέμα της ενότητας hci.Το παρουσιάζω γιατί θα ήθελα να δείτε και αυτήν την εργασία μου. 
 ## [Static_Website](https://asciinema.org/a/S4J85iWDszHgQXfQlcM6dy9YB)
-> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey)που επέλεξα για να ολοκληρώσω την ενότητα αυτή είναι η δημιουργία μιας στατικής ιστοσελίδας με τα asciinema links των παραδοτέων.Ήταν μια δύσκολη άσκηση γιατί συνδυάζει το git με github.Χρησιμοποίησα την στατική γεννήτρια jekyll με την οποία έφταξα μια στατική ιστοσελίδα,τοπικά,και στην συνέχεια με το git ανέβασα την ιστοσελίδα ώς host page στο github.Η σελίδα έχει το ονοματεπώνυμο μου,τον ΑΜ μου και τον λογαριασμό μου στο github.Όλες οι εντολές και η διαμόρφωση του site έγινε από το τερματικό χρησιμοποιώντας το git. 
+> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) που επέλεξα για να ολοκληρώσω την ενότητα αυτή είναι η δημιουργία μιας στατικής ιστοσελίδας με τα asciinema links των παραδοτέων.Ήταν μια δύσκολη άσκηση γιατί συνδυάζει το git με github.Χρησιμοποίησα την στατική γεννήτρια jekyll με την οποία έφταξα μια στατική ιστοσελίδα,τοπικά,και στην συνέχεια με το git ανέβασα την ιστοσελίδα ώς host page στο github.Η σελίδα έχει το ονοματεπώνυμο μου,τον ΑΜ μου και τον λογαριασμό μου στο github.Όλες οι εντολές και η διαμόρφωση του site έγινε από το τερματικό χρησιμοποιώντας το git. 
 >
 > ![Στιγμιότυπο από 2020-12-19 17-13-10](https://user-images.githubusercontent.com/72353939/102692691-abdffc80-421d-11eb-9eea-798a63b5d3a9.png)
 >
