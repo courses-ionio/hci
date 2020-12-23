@@ -160,7 +160,7 @@ link επιλυσης : https://codepen.io/p19barl/pen/JjRKzGg
 ![images](https://user-images.githubusercontent.com/72620235/102885660-68270600-445c-11eb-86ad-73edf37fdd1e.png)
 
 
-# ΠΑΡΑΔΟΤΕΟ:ten:
+# ΠΑΡΑΔΟΤΕΟ 10
 ###### asciinema link: https://asciinema.org/a/380694
 #### repository link : https://github.com/giannisbarlas1/static_site-p2019009/blob/main/Giannisbarlas__p2019009/_posts/2020-12-22-asciinema-links.md
 ## site link : http://127.0.0.1:4000/
