@@ -152,10 +152,10 @@ document.onkeydown = function(e) {<br>
   
   <h2><span id="Συμμετοχικό περιεχόμενο(Β1,Β2).">Συμμετοχικό περιεχόμενο(Β1,Β2).</span></h2>
   <p>Για το δεύτερο κομμάτι του συμμετοχικού περιεχομένου έπρεπε να προσθέσουμε μια νέα μελέτη περίπτωσης και μια βιογραφία στηριζόμενοι στο πρώτο κομμάτι του συμμετοχικού περιεχομένου. Διάλεξα να ασχοληθώ με την περίπτωση του laser printer. </p>
-  B1 <a href="https://github.com/TaniaStoupi/site/blob/master/_case-study/laser-printer.md">Case study for laser printer</a><br>
+ B1 <a href="https://github.com/TaniaStoupi/site/blob/master/_case-study/laser-printer.md">Case study for laser printer</a><br>
      <a href="https://github.com/TaniaStoupi/images/blob/master/xerography%20.png">An extra photo for the case study</a><br>
    Πηγή:https://www.xerox.com/downloads/usa/en/s/Storyofxerography.pdf <br>
-  B2 <a href="https://github.com/TaniaStoupi/site/blob/master/_biography/Gary%20Keith%20Starkweather.md">Biography of Gary Keith Starkweather</a><br>
+ B2 <a href="https://github.com/TaniaStoupi/site/blob/master/_biography/Gary%20Keith%20Starkweather.md">Biography of Gary Keith Starkweather</a><br>
   Πηγή:https://peoplepill.com/people/gary-starkweather/
 
 
