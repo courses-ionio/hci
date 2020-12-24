@@ -9,7 +9,7 @@
 | 2 | Button Programming Exercise ([link](#button))|
 | 3 | Command Line Exercise: Dependencies & Base System ([link](#CommandLineExercise))|
 | 4 | CSS Media Queries Programming Exercise ([link](#css))|
-| 5 | Άσκηση γραμμής εντολών ([link](#vim))|
+| 5 | vim text editor and plug-ins ([link](#vim))|
 | 6 | Collaborative Exercise ([link](#collab))|
 | 7 | CSS Mouse Eraser Programming Exercise ([link](#mouseeraser))|
 | 8 | Command Line Exercise: Youtube video ([link](#youtubedl))|
