@@ -92,7 +92,7 @@ document.onkeydown = function(e) {<br>
  A1 <a href="https://github.com/TaniaStoupi/_images/blob/master/the-first-touch-screen.jpg">The first touch screen(image)</a><br>
     <a href="https://github.com/TaniaStoupi/gallery/blob/master/the-first-touch-screen.md">The first touch screen(gallery)</a><br>
   Πηγή: https://arstechnica.com/gadgets/2013/04/from-touch-displays-to-the-surface-a-brief-history-of-touchscreen-technology/
-    <a href="https://github.com/TaniaStoupi/_images/blob/master/Carlson.jpg">The first laser printer(image)</a><br>
+    <a href="https://github.com/TaniaStoupi/images/blob/master/Gary%20Keith%20Starkweather.jpg">The first laser printer(image)</a><br>
     <a href="https://github.com/TaniaStoupi/gallery/blob/master/laser-printer.md">The first laser printer(gallery)</a><br>
   Πηγή: https://history-computer.com/ModernComputer/Basis/laser_printer.html
  <br>A2 <a href="https://github.com/TaniaStoupi/site/blob/master/_slides/systems.md">Διαφάνειες(systems)</a><br>
