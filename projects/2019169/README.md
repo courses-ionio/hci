@@ -15,7 +15,7 @@
   | 8 | <li><a href="#Solarized."><span class="toctext">Solarized.</span></a> Commit: 1/12/2020|
    | 9 | <li><a href="#ImageSVG."><span class="toctext">ImageSVG.</span></a> Commit: 9/12/2020|
 | 10 | συμμετοχικό περιεχόμενο |
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
+| 11 | <li><a href="#Συμμετοχικό περιεχόμενο(Β1,Β2)."><span class="toctext">Συμμετοχικό περιεχόμενο(Β1,Β2).</span></a> Commit:24/12/2020|
 | 12 | Τελική αναφορά* |
 <h2><span id="Introduction.">Introduction.</span></h2>
 Παρακολουθώντας το μάθημα Επικοινωνίας ανθρώπου - υπολογιστή προσδοκώ να γνωρίσω το περιεχόμενο του μαθήματος, δηλαδή το τι κρύβεται πίσω από τον τίτλο που έχει δοθεί σε αυτό το μάθημα. Επίσης θέλω να μάθω να χρησιμοποιώ την ηλεκτρονική πλατφόρμα github όσο καλύτερα μπορώ με κίνητρο το μάθημα, διότι είναι κάτι καινούργιο για εμένα. Παρόλα αυτά, το πιο σημαντικό που προσδοκώ να μάθω από αυτό το μάθημα είναι το πως επικοινωνούσε ο άνθρωπος με τον υπολογιστή στο πέρασμα των χρόνων, καθώς επίσης και τον τρόπο διάδρασης που είχαν μεταξύ τους, εφόσον προφανώς και δεν υπήρχαν τα τεχνολογικά μέσα που υπάρχουν στις μέρες μας. Τελειώνοντας, με την παρακολούθηση του μαθήματος θα ήθελα να είμαι σε θέση να γνωρίζω τα ιστορικά στοιχεία που έχουν σχέση με την επικοινωνία ενός ανθρώπου με έναν υπολογιστή, καθώς επίσης και να γνωρίζω τις ενότητες του μαθήματος και να τις ξεχωρίζω και τέλος θα ήθελα να είμαι σε θέση να μπορώ να εξηγήσω σε ανθρώπους που δεν έχουν σχέση με τον τομέα της πληροφορικής τι σημαίνει η πρόταση ‘Επικοινωνία ανθρώπου – υπολογιστή’ και τι κρύβεται πίσω από αυτήν.
@@ -148,3 +148,16 @@ document.onkeydown = function(e) {<br>
  <ul>  <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
   <br> <a href="https://codepen.io">Codepen.</a> </ul>
   
+  <hr></hr>
+  
+  <h2><span id="Συμμετοχικό περιεχόμενο(Β1,Β2).">Συμμετοχικό περιεχόμενο(Β1,Β2).</span></h2>
+  <p>Για το δεύτερο κομμάτι του συμμετοχικού περιεχομένου έπρεπε να προσθέσουμε μια νέα μελέτη περίπτωσης και μια βιογραφία στηριζόμενοι στο πρώτο κομμάτι του συμμετοχικού περιεχομένου. Διάλεξα να ασχοληθώ με την περίπτωση του laser printer. </p>
+  B1 <a href="https://github.com/TaniaStoupi/site/blob/master/_case-study/laser-printer.md">Case study for laser printer</a><br>
+     <a href="https://github.com/TaniaStoupi/images/blob/master/xerography%20.png">An extra photo for the case study</a><br>
+   Πηγή:https://www.xerox.com/downloads/usa/en/s/Storyofxerography.pdf
+  B2 <a href="https://github.com/TaniaStoupi/site/blob/master/_biography/Gary%20Keith%20Starkweather.md">Biography of Gary Keith Starkweather</a><br>
+  Πηγή:https://peoplepill.com/people/gary-starkweather/
+
+
+<h6>Βιβλιογραφία</h6>
+ <ul><br><a href="https://courses-ionio.github.io/projects/social/">Οδηγίες Μαθήματος</a><br>
