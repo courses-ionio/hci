@@ -60,16 +60,16 @@
 >
 > #### Πηγές:[ [HTML](https://www.w3schools.com/html/)].
 
-> ## [download-mp3](https://asciinema.org/a/ycf8XT527dMuWbD16DYitlEIQ)
-> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) μας ζητάει να κατεβάσουμε στο τερματικό μας,με τη βοήθεια του youtube-ld ένα τραγούδι και να το αναπαραγάγουμε επίσης μέσα από το τερματικό.Η δυσκολία που αντιμετώπισα ήταν με τη ytsearch εντολή,η οποία είναι για την αναζήτηση στο youtube ενός συγκεκριμένου τραγουδιού ή βίντεο.Επειδή η αναπαραγωγή μέσα απο το vlc αφού δεν καταγράφηκε,προσθέτω και μια δεύτερη καταγραφή στην οποία η αναπαραγωγή γίνεται με χρήση του εργαλείου sox.
+> ## [download-mp3](https://asciinema.org/a/fNqQxrhKkFkM2D8yb665NU06E)
+> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) μας ζητάει να κατεβάσουμε στο τερματικό μας,με τη βοήθεια του youtube-ld ένα τραγούδι και να το αναπαραγάγουμε επίσης μέσα από το τερματικό.Η δυσκολία που αντιμετώπισα ήταν με τη ytsearch εντολή,η οποία είναι για την αναζήτηση στο youtube ενός συγκεκριμένου τραγουδιού ή βίντεο.Επειδή η αναπαραγωγή μέσα απο το vlc δεν καταγράφηκε γιατί άνοιγε την εφαρμογή vcl,προσθέτω και μια δεύτερη καταγραφή στην οποία η αναπαραγωγή γίνεται με χρήση του εργαλείου sox.
 >
 > ![Στιγμιότυπο από 2020-12-09 13-03-02](https://user-images.githubusercontent.com/72353939/101621914-0a87c800-3a1f-11eb-923f-bd28f513bb05.png)
 >
 > [Asciinema link](https://asciinema.org/a/fNqQxrhKkFkM2D8yb665NU06E)
 >
-> [Asciinema link2](https://asciinema.org/a/ycf8XT527dMuWbD16DYitlEIQ)
+> [Asciinema link2](https://asciinema.org/a/DFAg4AtuVTNZvKj221vNoALMt)
 >
-> #### Πηγές[[youtube-dl](https://github.com/ytdl-org/youtube-dl)] [[VLC](https://www.videolan.org/)] [[Tecmint](https://www.tecmint.com/download-mp3-song-from-youtube-videos/)]
+> #### Πηγές[[youtube-dl](https://github.com/ytdl-org/youtube-dl)] [[VLC](https://www.videolan.org/)] [[Tecmint](https://www.tecmint.com/download-mp3-song-from-youtube-videos/)][[Sox](https://madskjeldgaard.dk/posts/sox-tutorial-cli-tape-music/)]
 > 
 > ## [Archetypes](https://pibook.epidro.me/chapter/archetypes/)
 > Παρά τις προσπάθειες να υλοποιήσω το ζητούμενο αύτης της ενότητας δεν κατάφερα παρά να ανεβάσω δύο εικόνες που έχουν σχέση με τα συστήματα διάτρησης κάρτας.Το μόνο που έχω να δείξω είναι οι δύο εικόνες αφού η άσκηση δεν υλοποιήθηκε.
@@ -87,7 +87,7 @@
 > #### Πηγές:[[Βootstrap](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)]
 
 > ## [Status_bar](https://asciinema.org/a/KGxfOHVLzU7XjOqPebGBU83eW)
-> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey)ζητάει να επεξεργαστούμε και να διαμορφώσουμε το shell ή τον editor προσθέτοντας ένα status bar και να αλλάξουμε το color theme.Επειδή έχω ήδη τροποποιήσει το vim editor,επέλεξα να τροποποιήσω το shell,προσθέτοντας το powerline το οποίο είναι ένα status bar και για τον vim editor αλλά και το bash.Επειδή όμως για να εμφανιστούν οι αλλάγες στο bash πρέπει να το κλείσω και να το ξαναανοίξω παρουσιάζω και ένα ακόμα screenshot με την αλλαγή.
+> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey)ζητάει να επεξεργαστούμε και να διαμορφώσουμε το shell ή τον editor προσθέτοντας ένα status bar και να αλλάξουμε το color theme.Επειδή έχω ήδη τροποποιήσει το vim editor,όπως θα δείτε και στην καταγραφή,επέλεξα να τροποποιήσω το shell,προσθέτοντας το powerline το οποίο είναι ένα status bar και για τον vim editor αλλά και το bash.Επειδή όμως για να εμφανιστούν οι αλλάγες στο bash πρέπει να το κλείσω και να το ξανανοίξω προσθέτω ένα ακόμα screenshot με την αλλαγή.Επίσης πρέπει να αναφέρω ότι μετά την προσθήκη του powerline το command prompt άλλαξε,όπως φαίνεται στο screenshot,με το αρχικό όνομα που είχα στο command prompt.
 >
 > ![Στιγμιότυπο από 2020-12-09 14-20-17](https://user-images.githubusercontent.com/72353939/101629574-3e1c1f80-3a2a-11eb-9dcf-871207055144.png)
 >
@@ -119,14 +119,14 @@
 ## note
 >> Απο παρερμήνευση των οδηγιών το παραδοτέο 10 που είχα ετοιμάσει είναι το παρακάτω.Μετά από την ορθή υπόδειξη του κ.Πατηνιώτη κατα την παρουσίση της προόδου των εργασιών μου το παραδοτέο 10 αντικαταστάθηκε απο θέμα της ενότητας hci.Το παρουσιάζω γιατί θα ήθελα να δείτε και αυτήν την εργασία μου. 
 ## [Static_Website](https://asciinema.org/a/S4J85iWDszHgQXfQlcM6dy9YB)
-> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) που επέλεξα για να ολοκληρώσω την ενότητα αυτή είναι η δημιουργία μιας στατικής ιστοσελίδας με τα asciinema links των παραδοτέων.Ήταν μια δύσκολη άσκηση γιατί συνδυάζει το git με github.Χρησιμοποίησα την στατική γεννήτρια jekyll με την οποία έφταξα μια στατική ιστοσελίδα,τοπικά,και στην συνέχεια με το git ανέβασα την ιστοσελίδα ώς host page στο github.Η σελίδα έχει το ονοματεπώνυμο μου,τον ΑΜ μου και τον λογαριασμό μου στο github.Όλες οι εντολές και η διαμόρφωση του site έγινε από το τερματικό χρησιμοποιώντας το git. 
->
-> ![Στιγμιότυπο από 2020-12-19 17-13-10](https://user-images.githubusercontent.com/72353939/102692691-abdffc80-421d-11eb-9eea-798a63b5d3a9.png)
->
-> [Asciinema Link](https://asciinema.org/a/S4J85iWDszHgQXfQlcM6dy9YB)
->
-> Το url για την ιστοσελίδα είναι: [Static WebSite]( https://anastasia-rizou.github.io/p2019156/)
->
-> Το repository που φιλοξενεί την ιστοσελίδα είναι: [p2019156](https://github.com/Anastasia-Rizou/p2019156)
->
-> #### Πηγές[[Jekyll](https://jekyllrb.com/docs/step-by-step/01-setup/)] [[Github Docs](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)] [[Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)]
+>> Η [άσκηση γραμμής εντολών](https://github.com/epidrome/dokey) που επέλεξα για να ολοκληρώσω την ενότητα αυτή είναι η δημιουργία μιας στατικής ιστοσελίδας με τα asciinema links των παραδοτέων.Ήταν μια δύσκολη άσκηση γιατί συνδυάζει το git με github.Χρησιμοποίησα την στατική γεννήτρια jekyll με την οποία έφταξα μια στατική ιστοσελίδα,τοπικά,και στην συνέχεια με το git ανέβασα την ιστοσελίδα ώς host page στο github.Η σελίδα έχει το ονοματεπώνυμο μου,τον ΑΜ μου και τον λογαριασμό μου στο github.Όλες οι εντολές και η διαμόρφωση του site έγινε από το τερματικό χρησιμοποιώντας το git. 
+>>
+>> ![Στιγμιότυπο από 2020-12-19 17-13-10](https://user-images.githubusercontent.com/72353939/102692691-abdffc80-421d-11eb-9eea-798a63b5d3a9.png)
+>>
+>> [Asciinema Link](https://asciinema.org/a/S4J85iWDszHgQXfQlcM6dy9YB)
+>>
+>> Το url για την ιστοσελίδα είναι: [Static WebSite]( https://anastasia-rizou.github.io/p2019156/)
+>>
+>> Το repository που φιλοξενεί την ιστοσελίδα είναι: [p2019156](https://github.com/Anastasia-Rizou/p2019156)
+>>
+>> #### Πηγές[[Jekyll](https://jekyllrb.com/docs/step-by-step/01-setup/)] [[Github Docs](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)] [[Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)]
