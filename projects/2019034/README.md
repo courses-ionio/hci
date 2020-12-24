@@ -14,7 +14,7 @@
 | 8 | Άσκηση γραμμής εντολών (SW) |
 | 9 |<li><a href="#Sortable List"><span class="toctext">Sortable List</span></a>|
 | 10 | Άσκηση γραμμής εντολών (SW) |
-| 11 | Συμμετοχικό περιεχόμενο |
+| 11 |<li><a href="#Συμμετοχικό περιεχόμενο"><span class="toctext">Συμμετοχικό περιεχόμενο B1 και B2</span></a>|
 | 12 | Τελική αναφορά* |
 
 
@@ -115,3 +115,21 @@
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/sortable-list/">Η εκφώνηση της άσκησης που έκανα.</a>
 <br> <a href="https://www.w3schools.com/cssref/css_colors.asp">Λίστα με τα διαθέσιμα χρώματα που χρησιμοποίησα για βοήθεια.</a></ul>
+
+
+<br><br>
+<h2><span id="Συμμετοχικό περιεχόμενο">(11) Συμμετοχικό περιεχόμενο B1 και B2</span></h2>
+<p>*προς συμπλήρωση*
+
+<a href="https://github.com/u2nmd/_images/blob/master/firstprinter_paper.jpeg">First Printer Paper (Image)</a>
+<br><a href="https://github.com/u2nmd/site/blob/master/_case-study/firstprinter.md">First Printer (Case Study)</a>
+<br><a href="https://github.com/u2nmd/site/blob/master/_biography/johannes_gutenberg.md">Johannes Gutenberg (Biography)</a>
+<br><a href="https://github.com/u2nmd/_images/blob/master/johannes_gutenberg.jpg">Johannes Gutenberg (Image)</a>
+
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις συμμετοχικού περιεχομένου.</a>
+<br> <a href="https://github.com/pibook/site">Το βιβλίο που έκανα fork για την άσκηση.</a>
+<br> <a href="https://medium.com/german-city-profiles/mainz-germanys-wine-capital-and-home-of-the-printing-press-f803465a0fe2">Φωτογραφία εκτυπωμένου χαρτιού (Παράρτημα <<Johannisnight and Gutenberg>>.</a>
+<br> <a href="https://www.livescience.com/43639-who-invented-the-printing-press.html">Η συνεισφορά της εφεύρεσης του εκτυπωτικού πιεστιρίου στον κόσμο τον 15ο αιώνα.</a>
+<br> <a href="https://el.wikipedia.org/wiki/%CE%93%CE%BF%CF%85%CF%84%CE%B5%CE%BC%CE%B2%CE%AD%CF%81%CE%B3%CE%B9%CE%BF%CF%82">Βιογραφία Γουτεμβέργιου.</a>
+<br> <a href="https://commons.wikimedia.org/wiki/File:Gutenberg.jpg">Η εικόνα που χρησιμοποίησα για τον Γουτεμβέργιο (σαν πρόσωπο).</a></ul>
