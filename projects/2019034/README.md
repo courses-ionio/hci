@@ -9,12 +9,12 @@
 | 3 |<li><a href="#Browse & View Files"><span class="toctext">Browse & View Files</span></a>|
 | 4 |<li><a href="#Image Zoom"><span class="toctext">Image Zoom</span></a>|
 | 5 |Άσκηση γραμμής εντολών (SW)|
-| 6 |<li><a href="#Συμμετοχικό περιεχόμενο"><span class="toctext">Συμμετοχικό περιεχόμενο Α1 και Α2</span></a>|
+| 6 |<li><a href="#Συμμετοχικό περιεχόμενο 1"><span class="toctext">Συμμετοχικό περιεχόμενο Α1 και Α2</span></a>|
 | 7 |<li><a href="#Mouse Form"><span class="toctext">Mouse Form</span></a>|
 | 8 | Άσκηση γραμμής εντολών (SW) |
 | 9 |<li><a href="#Sortable List"><span class="toctext">Sortable List</span></a>|
 | 10 | Άσκηση γραμμής εντολών (SW) |
-| 11 |<li><a href="#Συμμετοχικό περιεχόμενο"><span class="toctext">Συμμετοχικό περιεχόμενο B1 και B2</span></a>|
+| 11 |<li><a href="#Συμμετοχικό περιεχόμενο 2"><span class="toctext">Συμμετοχικό περιεχόμενο B1 και B2</span></a>|
 | 12 | Τελική αναφορά* |
 
 
@@ -73,7 +73,7 @@
 
 
 <br><br>
-<h2><span id="Συμμετοχικό περιεχόμενο">(6) Συμμετοχικό περιεχόμενο Α1 και Α2</span></h2>
+<h2><span id="Συμμετοχικό περιεχόμενο 1">(6) Συμμετοχικό περιεχόμενο Α1 και Α2</span></h2>
 <p>*προς συμπλήρωση*
 
 <a href="https://github.com/u2nmd/_images/blob/master/firstprinter.jpg">First Printer (Image)</a>
@@ -118,7 +118,7 @@
 
 
 <br><br>
-<h2><span id="Συμμετοχικό περιεχόμενο">(11) Συμμετοχικό περιεχόμενο B1 και B2</span></h2>
+<h2><span id="Συμμετοχικό περιεχόμενο 2">(11) Συμμετοχικό περιεχόμενο B1 και B2</span></h2>
 <p>*προς συμπλήρωση*
 
 <a href="https://github.com/u2nmd/_images/blob/master/firstprinter_paper.jpeg">First Printer Paper (Image)</a>
