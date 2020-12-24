@@ -129,7 +129,7 @@
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις συμμετοχικού περιεχομένου.</a>
 <br> <a href="https://github.com/pibook/site">Το βιβλίο που έκανα fork για την άσκηση.</a>
-<br> <a href="https://medium.com/german-city-profiles/mainz-germanys-wine-capital-and-home-of-the-printing-press-f803465a0fe2">Φωτογραφία εκτυπωμένου χαρτιού (Παράρτημα <<Johannisnight and Gutenberg>>.</a>
+<br> <a href="https://medium.com/german-city-profiles/mainz-germanys-wine-capital-and-home-of-the-printing-press-f803465a0fe2">Φωτογραφία εκτυπωμένου χαρτιού (Παράρτημα 'Johannisnight and Gutenberg').</a>
 <br> <a href="https://www.livescience.com/43639-who-invented-the-printing-press.html">Η συνεισφορά της εφεύρεσης του εκτυπωτικού πιεστιρίου στον κόσμο τον 15ο αιώνα.</a>
 <br> <a href="https://el.wikipedia.org/wiki/%CE%93%CE%BF%CF%85%CF%84%CE%B5%CE%BC%CE%B2%CE%AD%CF%81%CE%B3%CE%B9%CE%BF%CF%82">Βιογραφία Γουτεμβέργιου.</a>
 <br> <a href="https://commons.wikimedia.org/wiki/File:Gutenberg.jpg">Η εικόνα που χρησιμοποίησα για τον Γουτεμβέργιο (σαν πρόσωπο).</a></ul>
