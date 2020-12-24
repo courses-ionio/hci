@@ -93,6 +93,7 @@
 >
 > ![Στιγμιότυπο από 2020-12-09 14-07-33](https://user-images.githubusercontent.com/72353939/101628245-322f5e00-3a28-11eb-895b-f497c26949e8.png)
 >
+>
 > [Asciinema link](https://asciinema.org/a/KGxfOHVLzU7XjOqPebGBU83eW)
 >
 > #### Πηγές[[powerline](https://powerline.readthedocs.io/en/latest/installation/linux.html)] [[Opensource](https://opensource.com/article/19/12/colors-themes-vim)]
