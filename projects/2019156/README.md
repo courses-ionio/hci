@@ -112,6 +112,7 @@
 > Η [άσκηση γραμμής εντολών]((https://github.com/epidrome/dokey) που υλοποιώ είναι η τελευταία άσκηση της ενότητας hci.Το ζητούμενο είναι να μετατρέψουμε ένα markdown αρχείο σε αρχείο htm και αρχείο docx,χρησιμοποιώντας το pandoc και ελέγχοντάς τα με το git.Αυτό που με δυσκόλεψε ήταν οτι ενώ εμφανίζοταν το αρχείο σε html μορφή(σύνταξη) στο τερματικό,δεν δημιουργούνταν το αρχείο.
 >
 > ![Στιγμιότυπο από 2020-12-23 23-49-43](https://user-images.githubusercontent.com/72353939/103039472-a8c87180-4579-11eb-9c3e-190c1120c94e.png)
+>
 > [Asciinema link](https://asciinema.org/a/8ViCdDL5M7YZ8WZhPlVYGNrcQ)
 > 
 > #### Πηγές:[[Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)] [[Pandoc](https://pandoc.org/MANUAL.html)] [[Vim](https://www.tutorialspoint.com/vim/index.htm)]
