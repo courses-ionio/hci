@@ -9,10 +9,10 @@
 | 2 | Button Programming Exercise ([link](#button))|
 | 3 | Dependencies & Base System ([link](#Dependencies))|
 | 4 | CSS Media Queries Programming Exercise ([link](#css))|
-| 5 | text editor and plug-ins for code highlighting and autocompletion ([link](#vim))|
+| 5 | Text Editor and Plug-ins for Code Highlighting and Autocompletion ([link](#vim))|
 | 6 | Collaborative Exercise ([link](#collab))|
 | 7 | CSS Mouse Eraser Programming Exercise ([link](#mouseeraser))|
-| 8 | download mp3 ([link](#youtubedl))|
+| 8 | Download mp3 ([link](#youtubedl))|
 | 9 | d3.js visualization ([link](#d3js))|
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | συμμετοχικό περιεχόμενο |
@@ -46,7 +46,7 @@ For this programming exercise, I implemented changes changes to the CSS Media Qu
 
 My commit to the forked repo can be found by following this [link](https://github.com/elenberg-io/site/commit/3166974ad1a2e258a1aba45a12e1ffe0a770a1c1#diff-f4ae7ac56b1b79abd24151c1b033aa250f7e0771751aeeb8e9f90e8e4875af30), the css-queries.md page on github can be accessed through this [link](https://github.com/elenberg-io/site/blob/button%E2%80%93exercise/_remix/css-queries.md) and my source code in CodePen can be accessed through this [link](https://codepen.io/p2006041/pen/oNLdwQo).
 
-### <a name="vim"></a> Week 5: text editor and plug-ins for code highlighting and autocompletion
+### <a name="vim"></a> Week 5: Text Editor and Plug-ins for Code Highlighting and Autocompletion
 For this command line exercise, I completed the *"text editor and plug-ins for code highlighting and autocompletion"* assignment.
 I used the vim text editor and `vi` to to edit the .vimrc config file for the vim editor. I downloaded `Vundle`, a vim plugin manager that allows users to keep track of and configure the vim plugins right in the `.vimrc` file. I then included in the `.vimrc` file and installed the `youcompleteme` plugin for test autocompletition. I also included in the `.vimrc` file configuration for syntax highlighting.
 
@@ -67,7 +67,7 @@ For this programming exercise, I implemented changes changes to the Mouse Eraser
 
 My commit to the forked repo can be found by following this [link](https://github.com/elenberg-io/site/commit/adcf74f6ffe442a7c958dc7c2b88740e49cb41c9#diff-e8d1cd09284607023431678e80044d4802124ae6be7edaceec659e58726c7c80), the mouse-eraser.md page on github can be accessed through this [link](https://github.com/elenberg-io/site/blob/master/_remix/mouse-eraser.md) and my source code in CodePen can be accessed through this [link](https://codepen.io/p2006041/pen/qBNeWzw).
 
-### <a name="youtubedl"></a> Week 8: Command Line Exercise: download mp3
+### <a name="youtubedl"></a> Week 8: Download mp3
 For this command line exercise, I completed the *"download mp3"* assignment which had the following tasks to complete: I downloaded a video from youtube from my command line using youtube-dl and then played it using mpv.
 
 The link to the asciicast on asciinema can be found through this [link](https://asciinema.org/a/376115) and can also be seen embedded below:
