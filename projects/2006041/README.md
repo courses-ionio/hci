@@ -143,3 +143,4 @@ For this programming exercise, I created a world choropleth charts based on the 
 2. Link to the `visualization.md` page in the forked [repo](https://github.com/elenberg-io/site/blob/master/_remix/visualization.md) 
 3. Link to my source code in [codepen](https://codepen.io/p2006041/pen/abmbeoX).
 
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
