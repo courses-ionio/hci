@@ -63,7 +63,7 @@ For this command line exercise, I completed the *"set-up the main dependencies a
 <br/>
 
 ## <a name="css"></a> Week 4: CSS Queries
-For this programming exercise, I implemented changes changes to the CSS Media Queries exercise, by introducing more @media queries dependent on screen width adapting the background colors and the font colors as the screen is squeezed according to 2 different color palettes. The font size is also adapted for the changing screen size. I've used global CSS variables to hold the color HEX codes which are declared in the `:root` pseudo-class and I'm calling them accordingly from each `@media` rule.
+For this programming exercise, I implemented changes changes to the CSS Media Queries exercise, by introducing more `@media` queries dependent on screen width adapting the background colors and the font colors as the screen is squeezed according to 2 different color palettes. The font size and the actual text displayed on the screen is also adapted for the changing screen size, by controlling which html div elements are displayed using their id from the `@media` queries. I've used global CSS variables to hold the color HEX codes which are declared in the `:root` selector and then I'm calling them accordingly from each `@media` rule.
 
 ### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
 1. Link to my [commit](https://github.com/elenberg-io/site/commit/3166974ad1a2e258a1aba45a12e1ffe0a770a1c1#diff-f4ae7ac56b1b79abd24151c1b033aa250f7e0771751aeeb8e9f90e8e4875af30)
