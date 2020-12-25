@@ -73,14 +73,17 @@ For this programming exercise, I implemented changes changes to the CSS Media Qu
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
 ![link](https://github.com/elenberg-io/assets/blob/main/ResizingScreen.gif)
+
 <br/>
 
 ## <a name="vim"></a> Week 5: Text Editor and Plug-ins for Code Highlighting and Autocompletion
 For this command line exercise, I completed the *"text editor and plug-ins for code highlighting and autocompletion"* assignment.
 I used the vim text editor and `vi` to to edit the .vimrc config file for the vim editor. I downloaded `Vundle`, a vim plugin manager that allows users to keep track of and configure the vim plugins right in the `.vimrc` file. I then included in the `.vimrc` file and installed the `youcompleteme` plugin for test autocompletition. I also included in the `.vimrc` file configuration for syntax highlighting.
 
-The link to the asciicast on asciinema can be found through this [link](https://asciinema.org/a/371700) and can also be seen embedded below:
+### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
+1. The link to the asciicast in [asciinema](https://asciinema.org/a/371700)
 
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
 [![asciicast](https://asciinema.org/a/371700.svg)](https://asciinema.org/a/371700)
 
 <br/>
