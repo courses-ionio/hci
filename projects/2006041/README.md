@@ -22,20 +22,20 @@
 
 ***
 
-<br/>
-
 ### <a name="goal"></a> Week 1: Goals
 I would like to work on front-end technologies, like HTML, JS and CSS, so that I can enhance my coding skills and my ability to create and enhance web content.
 Also,  I would to take the opportunity to get more familiar with the Linux command line and various command line utilities that can enhance my experience as a developer and make
 the experience of interacting with resources both locally and those hosted online a lot more seamless and effortless. 
 On top of that, exploring git functionalities and workflows is a much needed skill in any developer's toolkit, as it's an intergral part of collaborating on coding projects and writing production code.
 
+<br/>
 
 ### <a name="button"></a> Week 2: Button
 For this programming exercise, I changed the implementation of the button by linking the click user action to opening a new tab that serves a webpage hosting weather forecasts for Corfu. The button look - SCSS properties for color, background color, border, border shadow, etc. and symbols from the Font Awesome CSS library, etc. - and text have been appropriately modified to convay to the user information about the functionality of the button and type of action they can perform by cliking it. My commit to the forked repo can be found by following this [link](https://github.com/elenberg-io/site/commit/c4d10f7e134d3bd01f39122dde5b148b73520014#diff-9a05d7548950d29ede008a8c948797a40ec046fb480e65e4267e6fa6a5fe222e), the button.md page on github can be accessed through this [link](https://github.com/elenberg-io/site/blob/button%E2%80%93exercise/_remix/button.md) and my source code in HTML, SCSS and CoffeeScript JS can be accessed through this [link](https://codepen.io/p2006041/pen/qBNNNNM?editors=1111).
 
 ![link](https://github.com/elenberg-io/assets/blob/main/ButtonExercise.gif)
 
+<br/>
 
 ### <a name="Dependencies"></a> Week 3: Dependencies & Base System
 For this command line exercise, I completed the *"set-up the main dependencies and demonstrate your base system"* assignment which had the following tasks to complete:
@@ -48,10 +48,14 @@ The link to the asciicast on asciinema can be found through this [link](https://
 
 [![asciicast](https://asciinema.org/a/367994.svg)](https://asciinema.org/a/367994)
 
+<br/>
+
 ### <a name="css"></a> Week 4: CSS Queries
 For this programming exercise, I implemented changes changes to the CSS Media Queries exercise, by introducing more @media queries dependent on screen width and adapting the colors from green to red as the screen is squeezed. The font side is also adapted for the changing screen size.
 
 My commit to the forked repo can be found by following this [link](https://github.com/elenberg-io/site/commit/3166974ad1a2e258a1aba45a12e1ffe0a770a1c1#diff-f4ae7ac56b1b79abd24151c1b033aa250f7e0771751aeeb8e9f90e8e4875af30), the css-queries.md page on github can be accessed through this [link](https://github.com/elenberg-io/site/blob/button%E2%80%93exercise/_remix/css-queries.md) and my source code in CodePen can be accessed through this [link](https://codepen.io/p2006041/pen/oNLdwQo).
+
+<br/>
 
 ### <a name="vim"></a> Week 5: Text Editor and Plug-ins for Code Highlighting and Autocompletion
 For this command line exercise, I completed the *"text editor and plug-ins for code highlighting and autocompletion"* assignment.
@@ -61,6 +65,8 @@ The link to the asciicast on asciinema can be found through this [link](https://
 
 [![asciicast](https://asciinema.org/a/371700.svg)](https://asciinema.org/a/371700)
 
+<br/>
+
 ### <a name="collab"></a> Week 6: Collaborative Exercise
 For this collaborative exercise I forked the 2 submodules, `_gallery` and `images`, changed the references of the submodules in my forked repo of `site` to point to these forked submodule repos, added 2 new entries in `_gallery` and `images` and added the references to the appropriate slides and chronology. Link to the `_gallery` forked repo can be found through this [link](https://github.com/elenberg-io/_gallery), link to the `images` forked repo can be found through this [link](https://github.com/elenberg-io/images) and link to the forked `site` repo can be found through this [link](https://github.com/elenberg-io/site).
 
@@ -69,10 +75,14 @@ Links to Netlify live version of the book with my additions:
 * Timeline of PC's with my addition [link][https://master--gracious-yalow-e2bb28.netlify.app/timeline/personal/]
 * Timeline of Microcomputers with my addition [link][https://master--gracious-yalow-e2bb28.netlify.app/timeline/micros/]
 
+<br/>
+
 ### <a name="mouseeraser"></a> Week 7: CSS Mouse Eraser Programming Exercise
 For this programming exercise, I implemented changes changes to the Mouse Eraser exercise, by changing one of the pictures shown and also changing the size of the erase, by manipulating the canvas arc() method's radius argument that controls the radius of the circle of the eraser. 
 
 My commit to the forked repo can be found by following this [link](https://github.com/elenberg-io/site/commit/adcf74f6ffe442a7c958dc7c2b88740e49cb41c9#diff-e8d1cd09284607023431678e80044d4802124ae6be7edaceec659e58726c7c80), the mouse-eraser.md page on github can be accessed through this [link](https://github.com/elenberg-io/site/blob/master/_remix/mouse-eraser.md) and my source code in CodePen can be accessed through this [link](https://codepen.io/p2006041/pen/qBNeWzw).
+
+<br/>
 
 ### <a name="youtubedl"></a> Week 8: Download mp3
 For this command line exercise, I completed the *"download mp3"* assignment which had the following tasks to complete: I downloaded a video from youtube from my command line using youtube-dl and then played it using mpv.
@@ -80,6 +90,8 @@ For this command line exercise, I completed the *"download mp3"* assignment whic
 The link to the asciicast on asciinema can be found through this [link](https://asciinema.org/a/376115) and can also be seen embedded below:
 
 [![asciicast](https://asciinema.org/a/376115.svg)](https://asciinema.org/a/376115)
+
+<br/>
 
 ### <a name="d3js"></a> Week 9: d3.js visualization
 For this programming exercise, I created a world choropleth charts based on the d3.js library, visualizing COVID-19 incidence rates by country.
