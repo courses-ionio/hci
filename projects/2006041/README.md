@@ -127,8 +127,10 @@ For this programming exercise, I implemented changes changes to the Mouse Eraser
 ## <a name="youtubedl"></a> Week 8: Download mp3
 For this command line exercise, I completed the *"download mp3"* assignment which had the following tasks to complete: I downloaded a video from youtube from my command line using youtube-dl and then played it using mpv.
 
-The link to the asciicast on asciinema can be found through this [link](https://asciinema.org/a/376115) and can also be seen embedded below:
+### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
+1. Link to the asciicast in [asciinema](https://asciinema.org/a/376115)
 
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
 [![asciicast](https://asciinema.org/a/376115.svg)](https://asciinema.org/a/376115)
 
 <br/>
