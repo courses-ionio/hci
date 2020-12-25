@@ -14,7 +14,7 @@
 | 7 | CSS Mouse Eraser Programming Exercise ([link](#mouseeraser))|
 | 8 | Download mp3 ([link](#youtubedl))|
 | 9 | Visualization - using d3.js([link](#d3js))|
-| 10 | Άσκηση γραμμής εντολών |
+| 10 | Add a Status Bar to your editor (vim) and Configure a Color-Theme ([link](#vim-bar-colors))|
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
@@ -139,9 +139,22 @@ For this command line exercise, I completed the *"download mp3"* assignment whic
 For this programming exercise, I created a `d3.js` world choropleth chart depicting cumulative COVID-19 total cases as of 2020-11-27 based on WHO data I downloaded and saved in my personal `data` git repo as a [`.csv`](https://github.com/elenberg-io/data/blob/main/WHO_COVID19_20201127.csv). I followed tutorials and links on the [d3.js](https://www.d3-graph-gallery.com/graph/choropleth_basic.html) site on how to create choropleths using the library. The chart allows the users to hover over a country and view via the tooltip that appears the cases. Moreover, it also allows a user to click on a country which then leads to a zoom in the country in the map. The color scale has been selected to move gradually from yellow to red, with deaper red corresponding to higher COVID-19 incidence rates. The chart also has a legend that explains the mapping between the colors and the incidence rate levels.
 
 ### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
-1.  Link to my commit in the forked [repo](https://github.com/elenberg-io/site/commit/4c43b16d06ad0c63d872956be4e043471b604a9a#diff-7b222a67dcbaf16068515e6b1b9add2d77fdbc195841e95bd5ff01dfa82b5b6d)
+1. Link to my commit in the forked [repo](https://github.com/elenberg-io/site/commit/4c43b16d06ad0c63d872956be4e043471b604a9a#diff-7b222a67dcbaf16068515e6b1b9add2d77fdbc195841e95bd5ff01dfa82b5b6d)
 2. Link to the `visualization.md` page in the forked [repo](https://github.com/elenberg-io/site/blob/master/_remix/visualization.md) 
 3. Link to my source code in [codepen](https://codepen.io/p2006041/pen/abmbeoX).
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
 ![link](https://github.com/elenberg-io/assets/blob/main/COVID19.gif)
+
+<br/>
+
+## <a name="vim-bar-colors"></a> Week 10: Add a Status Bar to your editor (vim) and Configure a Color-Theme 
+For this command line exercise, I completed the *"Add a Status Bar to your editor and Configure a Color-Theme"* assignment, where I configured my vim editor through the .vimrc config file to introduce the color theme dracula and to display the powerline status bar in vim. I used the `powerline` package and `dracula` theme which I cloned from git. I used Kazam to record my terminal session as asciinema was not properly recording colors so I couldn't demonstrate the effects of my changes on vim.
+
+### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
+1. Link to the dracula theme on [git](https://github.com/dracula/vim)
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
+![link](https://github.com/elenberg-io/assets/blob/main/vim-colors-bar.gif)
+
+<br/>
