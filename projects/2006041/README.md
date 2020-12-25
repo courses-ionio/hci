@@ -13,7 +13,7 @@
 | 6 | Collaborative Exercise ([link](#collab))|
 | 7 | CSS Mouse Eraser Programming Exercise ([link](#mouseeraser))|
 | 8 | Download mp3 ([link](#youtubedl))|
-| 9 | d3.js visualization ([link](#d3js))|
+| 9 | Visualization - using d3.js([link](#d3js))|
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -135,8 +135,8 @@ For this command line exercise, I completed the *"download mp3"* assignment whic
 
 <br/>
 
-## <a name="d3js"></a> Week 9: d3.js visualization
-For this programming exercise, I created a `d3.js` world choropleth chart depicting cumulative COVID-19 total cases as of 2020-11-27 based on WHO data I downloaded and saved in my personal `data` git repo as a [`.csv`](https://github.com/elenberg-io/data/blob/main/WHO_COVID19_20201127.csv). I followed tutorials and links on the [d3.js](https://www.d3-graph-gallery.com/graph/choropleth_basic.html) site on how to create choropleths using the library.
+## <a name="d3js"></a> Week 9: Visualization - using d3.js
+For this programming exercise, I created a `d3.js` world choropleth chart depicting cumulative COVID-19 total cases as of 2020-11-27 based on WHO data I downloaded and saved in my personal `data` git repo as a [`.csv`](https://github.com/elenberg-io/data/blob/main/WHO_COVID19_20201127.csv). I followed tutorials and links on the [d3.js](https://www.d3-graph-gallery.com/graph/choropleth_basic.html) site on how to create choropleths using the library. The chart allows the users to hover over a country and view via the tooltip that appears the cases. Moreover, it also allows a user to click on a country which then leads to a zoom in the country in the map. The color scale has been selected to move gradually from yellow to red, with deaper red corresponding to higher COVID-19 incidence rates. The chart also has a legend that explains the mapping between the colors and the incidence rate levels.
 
 ### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
 1.  Link to my commit in the forked [repo](https://github.com/elenberg-io/site/commit/4c43b16d06ad0c63d872956be4e043471b604a9a#diff-7b222a67dcbaf16068515e6b1b9add2d77fdbc195841e95bd5ff01dfa82b5b6d)
