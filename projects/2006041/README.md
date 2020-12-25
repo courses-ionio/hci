@@ -22,6 +22,8 @@
 
 ***
 
+<br/>
+
 ## <a name="goal"></a> Week 1: Goals
 I would like to work on front-end technologies, like HTML, JS and CSS, so that I can enhance my coding skills and my ability to create and enhance web content.
 Also,  I would to take the opportunity to get more familiar with the Linux command line and various command line utilities that can enhance my experience as a developer and make
