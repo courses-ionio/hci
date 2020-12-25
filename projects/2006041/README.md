@@ -81,7 +81,7 @@ For this command line exercise, I completed the *"text editor and plug-ins for c
 I used the vim text editor and `vi` to to edit the .vimrc config file for the vim editor. I downloaded `Vundle`, a vim plugin manager that allows users to keep track of and configure the vim plugins right in the `.vimrc` file. I then included in the `.vimrc` file and installed the `youcompleteme` plugin for test autocompletition. I also included in the `.vimrc` file configuration for syntax highlighting.
 
 ### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
-1. The link to the asciicast in [asciinema](https://asciinema.org/a/371700)
+1. Link to the asciicast in [asciinema](https://asciinema.org/a/371700)
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
 [![asciicast](https://asciinema.org/a/371700.svg)](https://asciinema.org/a/371700)
@@ -89,7 +89,13 @@ I used the vim text editor and `vi` to to edit the .vimrc config file for the vi
 <br/>
 
 ## <a name="collab"></a> Week 6: Collaborative Exercise
-For this collaborative exercise I forked the 2 submodules, `_gallery` and `images`, changed the references of the submodules in my forked repo of `site` to point to these forked submodule repos, added 2 new entries in `_gallery` and `images` and added the references to the appropriate slides and chronology. Link to the `_gallery` forked repo can be found through this [link](https://github.com/elenberg-io/_gallery), link to the `images` forked repo can be found through this [link](https://github.com/elenberg-io/images) and link to the forked `site` repo can be found through this [link](https://github.com/elenberg-io/site).
+For this collaborative exercise I forked the 2 submodules, `_gallery` and `images`, changed the references of the submodules in my forked repo of `site` to point
+to these forked submodule repos, added 2 new entries in `_gallery` and `images` and added the references to the appropriate slides and chronology. 
+
+### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
+1. Link to the `_gallery` forked [repo](https://github.com/elenberg-io/_gallery)
+2. Link to the `images` forked [repo](https://github.com/elenberg-io/images) 
+3. Link to the `site` forked [repo](https://github.com/elenberg-io/site).
 
 Links to Netlify live version of the book with my additions:
 * Archetypes with my 2 additions [link][https://master--gracious-yalow-e2bb28.netlify.app/slides/archetypes/]
