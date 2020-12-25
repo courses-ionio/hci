@@ -53,8 +53,11 @@ For this command line exercise, I completed the *"set-up the main dependencies a
 - **display your shell configuration file:** we use `less` with the `.bashrc` shell script to show our shell configurations since we are only interested in displaying them and not editing them.
 - **display system information (hardware+software):** we use the `neofetch` command line utility that we have installed and in order to display more info regarding the state of our software and hardware we edit the `config.conf` configuration file of `neofetch` that controls what information is displayed when the `neofetch` utility is invoked from the command line. We enable then some extra display options by editing this file with the nano text editor, uncommenting the lines that display this extra information and then after saving we run `neofetch` and have the default plus the extra information displayed.
 
-The link to the asciicast on asciinema can be found through this [link](https://asciinema.org/a/367994) and can also be seen embedded below:
+### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
+1. Link to the asciicast in [asciinema](https://asciinema.org/a/367994)
 
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
 [![asciicast](https://asciinema.org/a/367994.svg)](https://asciinema.org/a/367994)
 
 <br/>
