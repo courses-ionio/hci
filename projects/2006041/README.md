@@ -6,7 +6,7 @@
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
 | 1 | Goals - Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα ([link](#goal)) |
-| 2 | Button Programming Exercise ([link](#button))|
+| 2 | Button ([link](#button))|
 | 3 | Dependencies & Base System ([link](#Dependencies))|
 | 4 | CSS Media Queries Programming Exercise ([link](#css))|
 | 5 | Text Editor and Plug-ins for Code Highlighting and Autocompletion ([link](#vim))|
@@ -19,6 +19,9 @@
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
 
+***
+
+
 ### <a name="goal"></a> Week 1: Goals
 I would like to work on front-end technologies, like HTML, JS and CSS, so that I can enhance my coding skills and my ability to create and enhance web content.
 Also,  I would to take the opportunity to get more familiar with the Linux command line and various command line utilities that can enhance my experience as a developer and make
@@ -26,7 +29,7 @@ the experience of interacting with resources both locally and those hosted onlin
 On top of that, exploring git functionalities and workflows is a much needed skill in any developer's toolkit, as it's an intergral part of collaborating on coding projects and writing production code.
 
 
-### <a name="button"></a> Week 2: Button Programming Exercise
+### <a name="button"></a> Week 2: Button
 For this programming exercise, I changed the implementation of the button by linking the click user action to opening a new tab that serves a webpage hosting weather forecasts for Corfu. The button look - SCSS properties for color, background color, border, border shadow, etc. and symbols from the Font Awesome CSS library, etc. - and text have been appropriately modified to convay to the user information about the functionality of the button and type of action they can perform by cliking it. My commit to the forked repo can be found by following this [link](https://github.com/elenberg-io/site/commit/c4d10f7e134d3bd01f39122dde5b148b73520014#diff-9a05d7548950d29ede008a8c948797a40ec046fb480e65e4267e6fa6a5fe222e), the button.md page on github can be accessed through this [link](https://github.com/elenberg-io/site/blob/button%E2%80%93exercise/_remix/button.md) and my source code in HTML, SCSS and CoffeeScript JS can be accessed through this [link](https://codepen.io/p2006041/pen/qBNNNNM?editors=1111).
 
 ![link](https://github.com/elenberg-io/assets/blob/main/ButtonExercise.gif)
