@@ -90,17 +90,19 @@ I used the vim text editor and `vi` to to edit the .vimrc config file for the vi
 
 ## <a name="collab"></a> Week 6: Collaborative Exercise
 For this collaborative exercise I forked the 2 submodules, `_gallery` and `images`, changed the references of the submodules in my forked repo of `site` to point
-to these forked submodule repos, added 2 new entries in `_gallery` and `images` and added the references to the appropriate slides and chronology. 
+to these forked submodule repos, added 2 new entries in `_gallery` and `images`, added the references to the appropriate slides and chronology and updated the `_config.yml` 
+file in the forked `site` repo with the url of my *netlify* live site. I added 2 Archetypes, the Datapoint 2200 and the TRS-80, under personal computers and microcomputers respectively.
 
 ### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
 1. Link to the `_gallery` forked [repo](https://github.com/elenberg-io/_gallery)
-2. Link to the `images` forked [repo](https://github.com/elenberg-io/images) 
-3. Link to the `site` forked [repo](https://github.com/elenberg-io/site).
-
-Links to Netlify live version of the book with my additions:
-* Archetypes with my 2 additions [link][https://master--gracious-yalow-e2bb28.netlify.app/slides/archetypes/]
-* Timeline of PC's with my addition [link][https://master--gracious-yalow-e2bb28.netlify.app/timeline/personal/]
-* Timeline of Microcomputers with my addition [link][https://master--gracious-yalow-e2bb28.netlify.app/timeline/micros/]
+2. Link to the `_gallery` forked repo [commits](https://github.com/elenberg-io/_gallery/commits/master)
+3. Link to the `images` forked [repo](https://github.com/elenberg-io/images) 
+4. Link to the `images` forked repo [commits](https://github.com/elenberg-io/images/commits/master) 
+5. Link to the `site` forked [repo](https://github.com/elenberg-io/site)
+6. Link to the `site` forked repo [commits](https://github.com/elenberg-io/site/commits/master)
+7. Netlify Link with my 2 additions in [Archetypes][https://master--gracious-yalow-e2bb28.netlify.app/slides/archetypes/]
+8. Netlify Link to Timeline of [Personal Computers][https://master--gracious-yalow-e2bb28.netlify.app/timeline/personal/]
+9. Netlify Link to Timeline of [Microcomputers][https://master--gracious-yalow-e2bb28.netlify.app/timeline/micros/]
 
 <br/>
 
