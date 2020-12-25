@@ -39,7 +39,7 @@ For this programming exercise, I changed the implementation of the button by lin
 ### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
 1. Link to my [commit](https://github.com/elenberg-io/site/commit/c4d10f7e134d3bd01f39122dde5b148b73520014#diff-9a05d7548950d29ede008a8c948797a40ec046fb480e65e4267e6fa6a5fe222e)
 2. Link to `button.md` in the forked [repo](https://github.com/elenberg-io/site/blob/button%E2%80%93exercise/_remix/button.md) 
-3. Link to my source code in `HTML`, `SCSS` and `CoffeeScript` on [codepen](https://codepen.io/p2006041/pen/qBNNNNM?editors=1111)
+3. Link to my source code in [codepen](https://codepen.io/p2006041/pen/qBNNNNM?editors=1111)
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
 ![link](https://github.com/elenberg-io/assets/blob/main/ButtonExercise.gif)
@@ -63,10 +63,16 @@ For this command line exercise, I completed the *"set-up the main dependencies a
 <br/>
 
 ## <a name="css"></a> Week 4: CSS Queries
-For this programming exercise, I implemented changes changes to the CSS Media Queries exercise, by introducing more @media queries dependent on screen width and adapting the colors from green to red as the screen is squeezed. The font side is also adapted for the changing screen size.
+For this programming exercise, I implemented changes changes to the CSS Media Queries exercise, by introducing more @media queries dependent on screen width adapting the background colors and the font colors as the screen is squeezed according to 2 different color palettes. The font size is also adapted for the changing screen size. I've used global CSS variables to hold the color HEX codes which are declared in the `:root` pseudo-class and I'm calling them accordingly from each `@media` rule.
 
-My commit to the forked repo can be found by following this [link](https://github.com/elenberg-io/site/commit/3166974ad1a2e258a1aba45a12e1ffe0a770a1c1#diff-f4ae7ac56b1b79abd24151c1b033aa250f7e0771751aeeb8e9f90e8e4875af30), the css-queries.md page on github can be accessed through this [link](https://github.com/elenberg-io/site/blob/button%E2%80%93exercise/_remix/css-queries.md) and my source code in CodePen can be accessed through this [link](https://codepen.io/p2006041/pen/oNLdwQo).
+### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
+1. Link to my [commit](https://github.com/elenberg-io/site/commit/3166974ad1a2e258a1aba45a12e1ffe0a770a1c1#diff-f4ae7ac56b1b79abd24151c1b033aa250f7e0771751aeeb8e9f90e8e4875af30)
+2. Link to the `css-queries.md` in the forked [repo](https://github.com/elenberg-io/site/blob/button%E2%80%93exercise/_remix/css-queries.md)
+3. Link to my source code in [codecen](https://codepen.io/p2006041/pen/oNLdwQo).
 
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
+![link](https://github.com/elenberg-io/assets/blob/main/ResizingScreen.gif)
 <br/>
 
 ## <a name="vim"></a> Week 5: Text Editor and Plug-ins for Code Highlighting and Autocompletion
