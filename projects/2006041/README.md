@@ -8,7 +8,7 @@
 | 1 | Goals - Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα ([link](#goal)) |
 | 2 | Button ([link](#button))|
 | 3 | Dependencies & Base System ([link](#Dependencies))|
-| 4 | CSS Media Queries Programming Exercise ([link](#css))|
+| 4 | CSS Queries ([link](#css))|
 | 5 | Text Editor and Plug-ins for Code Highlighting and Autocompletion ([link](#vim))|
 | 6 | Collaborative Exercise ([link](#collab))|
 | 7 | CSS Mouse Eraser Programming Exercise ([link](#mouseeraser))|
@@ -18,9 +18,11 @@
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
+<br/>
 
 ***
 
+<br/>
 
 ### <a name="goal"></a> Week 1: Goals
 I would like to work on front-end technologies, like HTML, JS and CSS, so that I can enhance my coding skills and my ability to create and enhance web content.
@@ -46,7 +48,7 @@ The link to the asciicast on asciinema can be found through this [link](https://
 
 [![asciicast](https://asciinema.org/a/367994.svg)](https://asciinema.org/a/367994)
 
-### <a name="css"></a> Week 4: CSS Media Queries Programming Exercise
+### <a name="css"></a> Week 4: CSS Queries
 For this programming exercise, I implemented changes changes to the CSS Media Queries exercise, by introducing more @media queries dependent on screen width and adapting the colors from green to red as the screen is squeezed. The font side is also adapted for the changing screen size.
 
 My commit to the forked repo can be found by following this [link](https://github.com/elenberg-io/site/commit/3166974ad1a2e258a1aba45a12e1ffe0a770a1c1#diff-f4ae7ac56b1b79abd24151c1b033aa250f7e0771751aeeb8e9f90e8e4875af30), the css-queries.md page on github can be accessed through this [link](https://github.com/elenberg-io/site/blob/button%E2%80%93exercise/_remix/css-queries.md) and my source code in CodePen can be accessed through this [link](https://codepen.io/p2006041/pen/oNLdwQo).
