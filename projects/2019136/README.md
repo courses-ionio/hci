@@ -73,4 +73,5 @@
 Για την τελευταία άσκηση γραμμης εντολών διάλεξα μια εύκολη άσκηση στην οποία απλός έπρεπε να δείξω κάποιες βασικές πληροφορίες για τον καιρό σε κάποιες πόλης. [Εδώ](https://asciinema.org/a/lMvw4sBFS2MxlONpKhQVhNWxn) μπορείτε να βρείτε το αποτέλεσμα που έβγαλα.
 
 
-
+https://github.com/gordthrow/images/blob/master/unreal-engine.png
+https://github.com/gordthrow/images/blob/master/unreal-engine-thumb.png
