@@ -50,7 +50,25 @@
 ## Παραδοτέο 6:
 #### [6](#6)
 
+Για το παραδοτέο 6, έπρεπε να πραγματοποιήσουμε το Α1 και Α2 κομμάτι του συμμετοχικού περιεχομένου. 
 
+Φωτογράφιες σχετικά με την μηχανή παιχνιδιών Unity :https://github.com/gordthrow/images/blob/master/unity.jpg 
+https://github.com/gordthrow/images/blob/master/unity-thumb.jpg
+
+Φωτογράφιες σχετικά με την μηχανή παιχνιδιών Unreal Engine :https://github.com/gordthrow/images/blob/master/unreal-engine.png
+https://github.com/gordthrow/images/blob/master/unreal-engine-thumb.png
+
+Προσθήκη της μηχανή παιχνιδιών Unity :https://github.com/gordthrow/_gallery/blob/master/unity.md
+
+Προσθήκη της μηχανή παιχνιδιών Unreal Engine :https://github.com/gordthrow/_gallery/blob/master/unreal_engine.md
+
+Προσθήκη της μηχανή παιχνιδιών Unreal Engine Unity στα slides και timeline αντίστοιχα:
+
+https://github.com/gordthrow/site/blob/master/_slides/videogames.md
+
+https://github.com/gordthrow/site/blob/master/_slides/tools.md
+
+https://github.com/gordthrow/site/blob/master/_timeline/videogames.md
 
 ## Παραδοτέο 7:
 #### [7](#7)
@@ -72,24 +90,28 @@
 
 Για την τελευταία άσκηση γραμμης εντολών διάλεξα μια εύκολη άσκηση στην οποία απλός έπρεπε να δείξω κάποιες βασικές πληροφορίες για τον καιρό σε κάποιες πόλης. [Εδώ](https://asciinema.org/a/lMvw4sBFS2MxlONpKhQVhNWxn) μπορείτε να βρείτε το αποτέλεσμα που έβγαλα.
 
-images:
-https://github.com/gordthrow/images/blob/master/unreal-engine.png
+## Παραδοτέο 11:
+#### [11](#11)
 
+Για το Β κομμάτι του συμμετοχικού περιεχόμενου, αποφάσισα να μελετήσω την περίπτωση της μηχανής παιχνιδιών unreal engine σε βάθος λόγο της πρωτοπορίας του στον κόσμο των βιντεοπαιχνιδιών αλλά και σε άλλους τομείς. Για βιογραφία, αναφέρθηκα στον Tim Sweeney, δημιουργό της εταιρίας Epic Games και κύριο προγραμματιστή της unreal engine.
+
+Case Study:
+https://github.com/gordthrow/site/blob/master/_case-study/unreal-engine.md
+https://github.com/gordthrow/extras/blob/master/cs-unreal-engine
+
+Βιογραφία Tim Sweeney: 
+https://github.com/gordthrow/site/blob/master/_biography/tim-sweeney.md
+https://github.com/gordthrow/site/blob/master/_biography/bio-tim-sweeney.md
+
+Φωτογραφίες σχετικα με Tim Sweeney:
+https://github.com/gordthrow/images/blob/master/tim-sweeney.jpg
+https://github.com/gordthrow/images/blob/master/tim-sweeney-thumb.jpg
+
+Φωτογράφιες σχετικά με την μηχανή παιχνιδιών Unreal Engine :
+https://github.com/gordthrow/images/blob/master/unreal-engine.png
 https://github.com/gordthrow/images/blob/master/unreal-engine-thumb.png
 
-https://github.com/gordthrow/images/blob/master/unity.jpg
-
-https://github.com/gordthrow/images/blob/master/unity-thumb.jpg
+### Πηγές
 
 
-gallery:
-https://github.com/gordthrow/_gallery/blob/master/unity.md
 
-https://github.com/gordthrow/_gallery/blob/master/unreal_engine.md
-
-slides:
-https://github.com/gordthrow/site/blob/master/_slides/tools.md
-https://github.com/gordthrow/site/blob/master/_slides/videogames.md
-
-timeline:
-https://github.com/gordthrow/site/blob/master/_timeline/videogames.md
