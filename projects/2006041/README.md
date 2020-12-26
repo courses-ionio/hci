@@ -15,7 +15,7 @@
 | 8 | Download mp3 ([link](#youtubedl))|
 | 9 | Visualization - using d3.js([link](#d3js))|
 | 10 | Add a Status Bar to your editor (vim) and Configure a Color-Theme ([link](#vim-bar-colors))|
-| 11 | συμμετοχικό περιεχόμενο |
+| 11 | Collaborative Exercise ([link](#collab2))|
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
 <br/>
@@ -158,3 +158,21 @@ For this command line exercise, I completed the *"Add a Status Bar to your edito
 ![link](https://github.com/elenberg-io/assets/blob/main/vim-colors-bar.gif)
 
 <br/>
+
+## <a name="collab2"></a> Week 11: Collaborative Exercise
+For this collaborative exercise I forked the 1 submodule, `extras`, changed the references of the submodules in my forked repo of `site` to point
+to this forked submodule repo, added 1 new entry in in `_case_study` and `biography`, and added the appropriate images and thumbnails for the new entries. 
+The new entries are related to the previous collaborative deliverable, where I wrote about Datapoint 2200 and the TRS-80. In this deliverable, I decided to focus on the biography of Jack Frassanito, who was integral in the development of Datapoint 2200, and then did a case study on CTC (Computer Terminal Corporation), the company behind
+the creation of Datapoint 2200.
+
+### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) References
+1. Link to the `_biography` forked [repo](https://github.com/elenberg-io/site/tree/master/_biography)
+2. Link to the `_case_study` forked [repo](https://github.com/elenberg-io/site/tree/master/_case-study) 
+5. Link to the `images` forked [submodule](https://github.com/elenberg-io/images/tree/master)
+6. Link to the `extras` forked [submodule](https://github.com/elenberg-io/extras)
+7. Netlify Link with my addition in [biography](https://gracious-yalow-e2bb28.netlify.app/biography/jack-frassanito/)
+8. Netlify Link with my addition in [Case Studies](https://gracious-yalow-e2bb28.netlify.app/case-study/ctc/)
+
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
+![link](https://github.com/elenberg-io/assets/blob/main/collab2.gif)
