@@ -175,9 +175,9 @@
     * 12 : [colors-solarized github](https://github.com/altercation/vim-colors-solarized)  
     * 13 : [guvboxr](https://vimawesome.com/plugin/guvboxr) 
     * 14 : [jedi-vim](http://i05nagai.github.io/memorandum/vim/jedi_vim.html) 
-    * 15 : [jedi-vim github] (https://github.com/davidhalter/jedi-vim) 
+    * 15 : [jedi-vim github](https://github.com/davidhalter/jedi-vim) 
     * 16 : [python-mode github](https://github.com/python-mode/python-mode)  
-    * 17 : [python-mode](https://realpython.com/vim-and-python-a-match-made-in-heaven/
+    * 17 : [python-mode](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
     * 18 : [vim-plug github](https://github.com/junegunn/vim-plug) 
     * 19 : [vim-python github](https://github.com/Vimjas/vim-python-pep8-indent) 
     * 20 : [NERDTree](https://vimawesome.com/plugin/nerdtree-red)
