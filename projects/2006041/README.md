@@ -100,9 +100,9 @@ file in the forked `site` repo with the url of my *netlify* live site. I added 2
 4. Link to the `images` forked repo [commits](https://github.com/elenberg-io/images/commits/master) 
 5. Link to the `site` forked [repo](https://github.com/elenberg-io/site)
 6. Link to the `site` forked repo [commits](https://github.com/elenberg-io/site/commits/master)
-7. Netlify Link with my 2 additions in [Archetypes](https://master--gracious-yalow-e2bb28.netlify.app/slides/archetypes/)
-8. Netlify Link to Timeline of [Personal Computers](https://master--gracious-yalow-e2bb28.netlify.app/timeline/personal/)
-9. Netlify Link to Timeline of [Microcomputers](https://master--gracious-yalow-e2bb28.netlify.app/timeline/micros/)
+7. Netlify Link with my 2 additions in [Archetypes](https://gracious-yalow-e2bb28.netlify.app/slides/archetypes/)
+8. Netlify Link to Timeline of [Personal Computers](https://gracious-yalow-e2bb28.netlify.app/timeline/personal/)
+9. Netlify Link to Timeline of [Microcomputers](https://gracious-yalow-e2bb28.netlify.app/timeline/micros/)
 
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
