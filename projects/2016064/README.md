@@ -236,9 +236,9 @@ https://www.youtube.com/watch?v=bzZ09dAbLEE&t=584s
 ![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_95.png)
 
 Οδηγίες για την πραγματοποίηση του παραδοτέου έλαβα από τις εξής πηγές
-1. https://github.com/powerline/powerline
-2. https://medium.com/@earlybyte/powerline-for-bash-6d3dd004f6fc
-3. https://www.youtube.com/watch?v=_D6RkmgShvU
+-https://github.com/powerline/powerline
+-https://medium.com/@earlybyte/powerline-for-bash-6d3dd004f6fc
+-https://www.youtube.com/watch?v=_D6RkmgShvU
 
 
 ## Συμμετοχικό περιεχόμενο
