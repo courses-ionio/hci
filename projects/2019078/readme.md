@@ -13,7 +13,7 @@
 | 5 | [wttr](#e) |
 | 6 | [Image Filter](#f) |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
-| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
+| 8 | [image zoom](#h) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -64,6 +64,11 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/TMvw48F/image.png" alt="image" border="0"></a>
 
 *1.3 Η εικόνα χωρίς και με τα φίλτρα*
+
+<a name="h"></a>
+## IMAGE ZOOM
+
+[image zoom](https://github.com/Orfeaslambrou/site/blob/2019078/_remix/image-zoom.md)
 
 
 # ΑΣΚΗΣΕΙΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
