@@ -25,27 +25,29 @@ Forked pibook site repository: https://github.com/panosath/site<br>
 
 <h2>Άσκηση προγραμματισμού: Zoom Hover Effect</h2>
 <a href="https://panosath-pibook.netlify.app/remix/image-zoom/" title="link to netlify pibook page">Η άσκηση στο βιβλίο του μαθήματος</a><br>
-Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/WNxoJoR" title="link to codepen">link στο codepen</a> της πρώτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/image-zoom.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Τροποποίησα το Zoom Hover Effect ώστε αρχικά η εικόνα να έχει ενα ελαφρύ grayscale effect, το οποίο εξαφανίζεται κάνοντας mouseover. Κατα το mouseover εκτελλούνται πολλαπλά effect όπως αλλαγή στο contrast και το saturation της εικόνας, όπως επίσης γίνεται ζουμ προς το έπανω μέρος της εικόνας.<br>
+Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/WNxoJoR" title="link to codepen">link στο codepen</a> της πρώτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/image-zoom.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Τροποποίησα το Zoom Hover Effect ώστε αρχικά η εικόνα να έχει ενα ελαφρύ grayscale effect, το οποίο εξαφανίζεται κάνοντας mouseover. Κατα το mouseover εκτελλούνται πολλαπλά effect όπως αλλαγή στο contrast και το saturation της εικόνας, όπως επίσης γίνεται ζουμ προς το έπανω μέρος της εικόνας.<br><br>
 <img src="https://raw.githubusercontent.com/panosath/hci-pic-repo/main/zoomhover.gif"  width="400" height="300" />
 <hr>
 
 <h2>Άσκηση γραμμής εντολών: Taskwarrior</h2>
-Παρατίθεται εδώ το <a href="https://asciinema.org/a/368122" title="link to asciinema">link</a> της πρώτης άσκησης γραμμής εντολών. Γίνεται παρουσίαση ορισμένων βασικών λειτουργιών του εργαλείου Taskwarrior στο Terminal των Ubuntu 20.04LTS. Χρησιμοποιήθηκε το VM VirtualBox σε Windows για προσομοίωση ενός υπολογιστή με λειτουργικό Linux. Υπήρξαν ορισμένες δυσκολίες με τα file/folder permissions στο Ubuntu οι οποίες επιλύθηκαν και στη συνέχεια έγινε λήψη του Taskwarrior μέσω του Terminal με την εντολή sudo apt-get install taskwarrior. Η συνέχεια φαίνεται στο βίντεο στο asciinema.<br>
+Παρατίθεται εδώ το <a href="https://asciinema.org/a/368122" title="link to asciinema">link</a> της πρώτης άσκησης γραμμής εντολών. Γίνεται παρουσίαση ορισμένων βασικών λειτουργιών του εργαλείου Taskwarrior στο Terminal των Ubuntu 20.04LTS. Χρησιμοποιήθηκε το VM VirtualBox σε Windows για προσομοίωση ενός υπολογιστή με λειτουργικό Linux. Υπήρξαν ορισμένες δυσκολίες με τα file/folder permissions στο Ubuntu οι οποίες επιλύθηκαν και στη συνέχεια έγινε λήψη του Taskwarrior μέσω του Terminal με την εντολή sudo apt-get install taskwarrior. Η συνέχεια φαίνεται στο βίντεο στο asciinema.<br><br>
 <a href="https://asciinema.org/a/368122" target="_blank"><img src="https://asciinema.org/a/368122.svg"  width="400" height="300" /></a><br>
-<br>Πηγές: <a href="https://taskwarrior.org/docs/commands/" title="link to source page">Taskwarrior commands</a><br>
+<br>Πηγές: <br>
+<a href="https://taskwarrior.org/docs/commands/" title="link to source page">Taskwarrior commands</a><br>
 <a href="https://taskwarrior.org/docs/examples.html" title="link to source page">Taskwarrior usage examples</a><br>
 <hr>
 
 <h2>Άσκηση προγραμματισμού: Form Validation</h2>
 <a href="https://panosath-pibook.netlify.app/remix/form-validation/" title="link to netlify pibook page">Η άσκηση στο βιβλίο του μαθήματος</a><br>
-Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/Pozembb" title="link to codepen">link στο codepen</a> της δεύτερης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/form-validation.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Τροποποίησα τον κώδικα ώστε να είναι δυνατή η εισαγωγή ελληνικού τηλεφωνικού αριθμού (10 νούμερα), email και αριθμού πιστωτικής κάρτας (16 νούμερα στο μπροστά και 3 νούμερα στο πίσω μέρος της κάρτας) και να γίνονται οι κατάλληλοι έλεγχοι εισαγωγής σύμφωνα με το παράδειγμα που δίνεται για την κάθε φόρμα.<br>
+Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/Pozembb" title="link to codepen">link στο codepen</a> της δεύτερης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/form-validation.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Τροποποίησα τον κώδικα ώστε να είναι δυνατή η εισαγωγή ελληνικού τηλεφωνικού αριθμού (10 νούμερα), email και αριθμού πιστωτικής κάρτας (16 νούμερα στο μπροστά και 3 νούμερα στο πίσω μέρος της κάρτας) και να γίνονται οι κατάλληλοι έλεγχοι εισαγωγής σύμφωνα με το παράδειγμα που δίνεται για την κάθε φόρμα.<br><br>
 <img src="https://raw.githubusercontent.com/panosath/hci-pic-repo/main/form%20validator.jpg"  width="300" height="350" />
 <hr>
 
 <h2>Άσκηση γραμμής εντολών: .vimrc Configuration</h2>
-Παρατίθεται εδώ το <a href="https://asciinema.org/a/372449" title="link to asciinema">link</a> της δεύτερης άσκησης γραμμής εντολών. Γίνεται άνοιγμα και απλή επεξεργασία του αρχείου .vimrc του vim editor που βρίσκεται στο home directory. Προστέθηκαν επιλογές της αρεσκέιας μου όπως οι syntax on, set number, set ttyfast καθώς και οι set nocompatible και filetype plugin ident on.<br>
+Παρατίθεται εδώ το <a href="https://asciinema.org/a/372449" title="link to asciinema">link</a> της δεύτερης άσκησης γραμμής εντολών. Γίνεται άνοιγμα και απλή επεξεργασία του αρχείου .vimrc του vim editor που βρίσκεται στο home directory. Προστέθηκαν επιλογές της αρεσκέιας μου όπως οι syntax on, set number, set ttyfast καθώς και οι set nocompatible και filetype plugin ident on.<br><br>
 <a href="https://asciinema.org/a/372449" target="_blank"><img src="https://asciinema.org/a/372449.svg"  width="400" height="300" /></a><br>
-<br>Πηγές: <a href="https://vimhelp.org/" title="link to source page">Vim help files</a><br>
+<br>Πηγές: <br>
+<a href="https://vimhelp.org/" title="link to source page">Vim help files</a><br>
 <hr>
 
 <h2>Συμμετοχικό περιεχόμενο Α</h2>
@@ -54,31 +56,34 @@ Forked pibook site repository: https://github.com/panosath/site<br>
 
 <h2>Άσκηση προγραμματισμού: Menu Scroll</h2>
 <a href="https://panosath-pibook.netlify.app/remix/menu-scroll/" title="link to netlify pibook page">Η άσκηση στο βιβλίο του μαθήματος</a><br>
-Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/mdEZjPr" title="link to codepen">link στο codepen</a> της τρίτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/menu-scroll.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Εισήγαγα ένα ακόμη section και δημιούργησα καινούργιο entry στο menu στο επάνω μέρος της οθόνης, οπου ο χρήστης μπορεί να κλικάρει για να μεταφερθεί σε οποιοδήποτε section, οποιαδήποτε στιγμή. Τοποθέτησα επίσης και ενα μικρό κουμπί, του οποίου η λειτουργία είναι να μεταφέρει τον χρήστη με ενα κλικ στην αρχή της σελίδας. Παραμένει κρυφό και εμφανίζεται προς το τέλος της σελίδας. Για τον κώδικα του κουμπιού συμβουλεύτηκα την σελίδα w3schools.com.<br>
+Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/mdEZjPr" title="link to codepen">link στο codepen</a> της τρίτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/menu-scroll.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Εισήγαγα ένα ακόμη section και δημιούργησα καινούργιο entry στο menu στο επάνω μέρος της οθόνης, οπου ο χρήστης μπορεί να κλικάρει για να μεταφερθεί σε οποιοδήποτε section, οποιαδήποτε στιγμή. Τοποθέτησα επίσης και ενα μικρό κουμπί, του οποίου η λειτουργία είναι να μεταφέρει τον χρήστη με ενα κλικ στην αρχή της σελίδας. Παραμένει κρυφό και εμφανίζεται προς το τέλος της σελίδας. Για τον κώδικα του κουμπιού συμβουλεύτηκα την σελίδα w3schools.com.<br><br>
 <img src="https://raw.githubusercontent.com/panosath/hci-pic-repo/main/menuscroll.gif" width="500" height="300" /><br>
-<br>Πηγές: <a href="https://www.w3schools.com/howto/howto_js_scroll_to_top.asp" title="link to source page">How TO - Scroll Back To Top Button</a>
+<br>Πηγές: <br>
+<a href="https://www.w3schools.com/howto/howto_js_scroll_to_top.asp" title="link to source page">How TO - Scroll Back To Top Button</a>
 <hr>
 
 <h2>Άσκηση γραμμής εντολών: youtube-dl και mpv</h2>
-Παρατίθεται εδώ το <a href="https://asciinema.org/a/376774" title="link to asciinema">link</a> της τρίτης άσκησης γραμμής εντολών. Συνοπτικά παρουσιάζεται η λειτουργία λήψης βίντεο απο το youtube.com με τη χρήση του youtube-dl καθώς και παρουσιάζεται μια από τις εντολές ρύθμισης του ληφθέντος αρχείου. Πιο συγκεκριμένα, με την εντολη "youtube-dl (link)" γίνεται λήψη του βίντεο από το δοθέν link ενώ με την εντολή "youtube-dl -o 'desired-name' (link)" γίνεται λήψη αλλά και μετονομασία του ληφθέντος βίντεο σε ένα όνομα της προτίμησης του χρήστη. Στη συνέχεια γίνεται αναπαραγωγή των βίντεο που έχω κατεβάσει, αλλά το βίντεο αυτό καθ'αυτό δεν εμφανίζεται στο terminal οπότε δεν καταγράφεται από το asciinema. Παρόλα αυτά, είναι εμφανής η αναπαραγωγή των αρχείων στο terminal.<br>
+Παρατίθεται εδώ το <a href="https://asciinema.org/a/376774" title="link to asciinema">link</a> της τρίτης άσκησης γραμμής εντολών. Συνοπτικά παρουσιάζεται η λειτουργία λήψης βίντεο απο το youtube.com με τη χρήση του youtube-dl καθώς και παρουσιάζεται μια από τις εντολές ρύθμισης του ληφθέντος αρχείου. Πιο συγκεκριμένα, με την εντολη "youtube-dl (link)" γίνεται λήψη του βίντεο από το δοθέν link ενώ με την εντολή "youtube-dl -o 'desired-name' (link)" γίνεται λήψη αλλά και μετονομασία του ληφθέντος βίντεο σε ένα όνομα της προτίμησης του χρήστη. Στη συνέχεια γίνεται αναπαραγωγή των βίντεο που έχω κατεβάσει, αλλά το βίντεο αυτό καθ'αυτό δεν εμφανίζεται στο terminal οπότε δεν καταγράφεται από το asciinema. Παρόλα αυτά, είναι εμφανής η αναπαραγωγή των αρχείων στο terminal.<br><br>
 <a href="https://asciinema.org/a/376774" target="_blank"><img src="https://asciinema.org/a/376774.svg"  width="400" height="300" /></a><br>
-<br>Πηγές: <a href="https://ostechnix.com/youtube-dl-tutorial-with-examples-for-beginners/" title="link to source page">Youtube-dl Tutorial With Examples For Beginners</a><br>
+<br>Πηγές: <br>
+<a href="https://ostechnix.com/youtube-dl-tutorial-with-examples-for-beginners/" title="link to source page">Youtube-dl Tutorial With Examples For Beginners</a><br>
 <a href="https://techpiezo.com/linux/install-mpv-media-player-in-ubuntu/" title="link to source page">Install mpv media player in Ubuntu 20.04 LTS</a>
 <hr>
 
 <h2>Άσκηση προγραμματισμού: Mouse Eraser</h2>
 <a href="https://panosath-pibook.netlify.app/remix/mouse-eraser/" title="link to netlify pibook page">Η άσκηση στο βιβλίο του μαθήματος</a><br>
-Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/eYdZxjL" title="link to codepen">link στο codepen</a> της τέταρτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/mouse-eraser.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Αντικατέστησα και τις δυο εικόνες με δικές μου ανεβάζοντας αυτές σε δικό μου αποθετήριο στο github και εισάγωντας το link τηε κάθε μιας στον κώδικα της άσκησης. Οι διαστάσεις των εικόνων τροποποιήθηκαν ελάχιστα από αυτές που προϋπήρχαν για πιο ομοιόμορφη παρουσίαση. Τροποποίησα επίσης και το μέγεθος του eraser ωστε να διαγράφεται μεγαλύτερο κομμάτι με το mouse over.<br>
+Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/eYdZxjL" title="link to codepen">link στο codepen</a> της τέταρτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/mouse-eraser.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Αντικατέστησα και τις δυο εικόνες με δικές μου ανεβάζοντας αυτές σε δικό μου αποθετήριο στο github και εισάγωντας το link τηε κάθε μιας στον κώδικα της άσκησης. Οι διαστάσεις των εικόνων τροποποιήθηκαν ελάχιστα από αυτές που προϋπήρχαν για πιο ομοιόμορφη παρουσίαση. Τροποποίησα επίσης και το μέγεθος του eraser ωστε να διαγράφεται μεγαλύτερο κομμάτι με το mouse over.<br><br>
 <img src="https://raw.githubusercontent.com/panosath/hci-pic-repo/main/mouse%20eraser.gif" width="450" height="300" />
 <hr>
 
 <h2>Άσκηση γραμμής εντολών: emacs</h2>
-Παρατίθονται εδώ τα <a href="https://asciinema.org/a/381304" title="link to asciinema">link του βίντεο της εγκατάστασης</a> και <a href="https://asciinema.org/a/381307" title="link to asciinema">link του βίντεο της χρήσης του emacs</a> της τέταρτης άσκησης γραμμής εντολών. Γίνεται εγκατάσταση του προγράμματος επεξεργασίας κειμένου emacs μέσω του terminal καθώς δίνεται σαν ένα πολύ απλό παράδειγμα χρήσης του η δημιουργία και αποθήκευση ενός text αρχείου. Στο βίντεο εγκατάστασης, γίνεται λήψη του προγράμματος emacs με gui. Η λήψη και εγκατάσταση του terminal-only emacs εγινε με τη χρήση της εντολής "apt-get install emacs-snapshot-nox".<br>
-<a href="https://asciinema.org/a/381304" target="_blank"><img src="https://asciinema.org/a/381304.svg"  width="400" height="300" /></a><br>
+Παρατίθονται εδώ τα <a href="https://asciinema.org/a/381304" title="link to asciinema">link του βίντεο της εγκατάστασης</a> και <a href="https://asciinema.org/a/381307" title="link to asciinema">link του βίντεο της χρήσης του emacs</a> της τέταρτης άσκησης γραμμής εντολών. Γίνεται εγκατάσταση του προγράμματος επεξεργασίας κειμένου emacs μέσω του terminal καθώς δίνεται σαν ένα πολύ απλό παράδειγμα χρήσης του η δημιουργία και αποθήκευση ενός text αρχείου. Στο βίντεο εγκατάστασης, γίνεται λήψη του προγράμματος emacs με gui. Η λήψη και εγκατάσταση του terminal-only emacs εγινε με τη χρήση της εντολής "apt-get install emacs-snapshot-nox".<br><br>
 Βίντεο εγκατάστασης του emacs<br>
-<a href="https://asciinema.org/a/381307" target="_blank"><img src="https://asciinema.org/a/381307.svg"  width="400" height="300" /></a><br>
+<a href="https://asciinema.org/a/381304" target="_blank"><img src="https://asciinema.org/a/381304.svg"  width="400" height="300" /></a><br>
 Βίντεο χρήσης του emacs<br>
-<br>Πηγές: <a href="https://www.digitalocean.com/community/tutorials/how-to-use-the-emacs-editor-in-linux" title="link to source page">How To Use the Emacs Editor in Linux</a><br>
+<a href="https://asciinema.org/a/381307" target="_blank"><img src="https://asciinema.org/a/381307.svg"  width="400" height="300" /></a><br>
+<br>Πηγές: <br>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-use-the-emacs-editor-in-linux" title="link to source page">How To Use the Emacs Editor in Linux</a><br>
 <a href="https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal" title="link to source page">Ubuntu: Keep emacs in the terminal</a><br>
 <hr>
 
