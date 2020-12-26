@@ -11,12 +11,12 @@ Forked pibook site repository: https://github.com/panosath/site<br>
 | 3 | [Άσκηση γραμμής εντολών: Taskwarrior](#άσκηση-γραμμής-εντολών-taskwarrior) |
 | 4 | [Άσκηση προγραμματισμού: Form Validation](#άσκηση-προγραμματισμού-form-validation) |
 | 5 | [Άσκηση γραμμής εντολών: .vimrc Configuration](#άσκηση-γραμμής-εντολών-vimrc-configuration) |
-| 6 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο) |
+| 6 | [Συμμετοχικό περιεχόμενο Α](#συμμετοχικό-περιεχόμενο-α) |
 | 7 | [Άσκηση προγραμματισμού: Menu Scroll](#άσκηση-προγραμματισμού-menu-scroll) |
 | 8 | [Άσκηση γραμμής εντολών: youtube-dl και mpv](#άσκηση-γραμμής-εντολών-youtube-dl-και-mpv) |
 | 9 | [Άσκηση προγραμματισμού: Mouse Eraser](#άσκηση-προγραμματισμού-mouse-eraser) |
-| 10 | Άσκηση γραμμής εντολών |
-| 11 | Συμμετοχικό περιεχόμενο |
+| 10 | [Άσκηση γραμμής εντολών: emacs](#άσκηση-γραμμής-εντολών-emacs) |
+| 11 | [Συμμετοχικό περιεχόμενο Β](#συμμετοχικό-περιεχόμενο-β) |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης|
 
 <h2>Εισαγωγή</h2>
@@ -31,7 +31,9 @@ Forked pibook site repository: https://github.com/panosath/site<br>
 
 <h2>Άσκηση γραμμής εντολών: Taskwarrior</h2>
 Παρατίθεται εδώ το <a href="https://asciinema.org/a/368122" title="link to asciinema">link</a> της πρώτης άσκησης γραμμής εντολών. Γίνεται παρουσίαση ορισμένων βασικών λειτουργιών του εργαλείου Taskwarrior στο Terminal των Ubuntu 20.04LTS. Χρησιμοποιήθηκε το VM VirtualBox σε Windows για προσομοίωση ενός υπολογιστή με λειτουργικό Linux. Υπήρξαν ορισμένες δυσκολίες με τα file/folder permissions στο Ubuntu οι οποίες επιλύθηκαν και στη συνέχεια έγινε λήψη του Taskwarrior μέσω του Terminal με την εντολή sudo apt-get install taskwarrior. Η συνέχεια φαίνεται στο βίντεο στο asciinema.<br>
-<a href="https://asciinema.org/a/368122" target="_blank"><img src="https://asciinema.org/a/368122.svg"  width="400" height="300" /></a>
+<a href="https://asciinema.org/a/368122" target="_blank"><img src="https://asciinema.org/a/368122.svg"  width="400" height="300" /></a><br>
+<br>Πηγές: <a href="https://taskwarrior.org/docs/commands/" title="link to source page">Taskwarrior commands</a><br>
+<a href="https://taskwarrior.org/docs/examples.html" title="link to source page">Taskwarrior usage examples</a><br>
 <hr>
 
 <h2>Άσκηση προγραμματισμού: Form Validation</h2>
@@ -42,22 +44,26 @@ Forked pibook site repository: https://github.com/panosath/site<br>
 
 <h2>Άσκηση γραμμής εντολών: .vimrc Configuration</h2>
 Παρατίθεται εδώ το <a href="https://asciinema.org/a/372449" title="link to asciinema">link</a> της δεύτερης άσκησης γραμμής εντολών. Γίνεται άνοιγμα και απλή επεξεργασία του αρχείου .vimrc του vim editor που βρίσκεται στο home directory. Προστέθηκαν επιλογές της αρεσκέιας μου όπως οι syntax on, set number, set ttyfast καθώς και οι set nocompatible και filetype plugin ident on.<br>
-<a href="https://asciinema.org/a/372449" target="_blank"><img src="https://asciinema.org/a/372449.svg"  width="400" height="300" /></a>
+<a href="https://asciinema.org/a/372449" target="_blank"><img src="https://asciinema.org/a/372449.svg"  width="400" height="300" /></a><br>
+<br>Πηγές: <a href="https://vimhelp.org/" title="link to source page">Vim help files</a><br>
 <hr>
 
-<h2>Συμμετοχικό περιεχόμενο</h2>
-Για το συμμετοχικό υλικό προστέθηκαν δυο entries και οι αντίστοιχες εικόνες τους: <a href="https://panosath-pibook.netlify.app//gallery/limewire/" title="link to book entry">LimeWire</a> και <a href="https://panosath-pibook.netlify.app//gallery/utorrent/" title="link to book entry">uTorrent</a>. Κάνοντας κλικ επάνω στα ονόματά τους, ανοίγει η αντίστοιχη σελίδα στο site του βιβλίου. Εδώ βρίσκονται τα link στο αποθετήριο του βιβλίου: του LimeWire: https://github.com/panosath/_gallery/blob/master/limewire.md και του uTorrent: https://github.com/panosath/_gallery/blob/master/utorrent.md. Πρόσθεσα επίσης και στην ήδη υπάρχουσα διαφάνεια <a href="https://panosath-pibook.netlify.app//slides/definition/" title="link to the slide">"Ορισμός"</a> τα δυο αυτά entries. Αρχικά κατα την δημιουργία συνάντησα προβλήματα με το git και τα submodules καθώς δεν μπορούσα να καταφέρω συγχρονισμό των submodules αλλά έπειτα απο πειραματισμό στο git και αναζήτηση στο διαδίκτυο και κυρίως στο stackoverflow.com κατάφερα το επιθυμιτό αποτέλεσμα.
+<h2>Συμμετοχικό περιεχόμενο Α</h2>
+Για το πρώτο μέρος του συμμετοχικού περιεχομένου προστέθηκαν δυο entries και οι αντίστοιχες εικόνες τους: <a href="https://panosath-pibook.netlify.app//gallery/limewire/" title="link to book entry">LimeWire</a> και <a href="https://panosath-pibook.netlify.app//gallery/utorrent/" title="link to book entry">uTorrent</a>. Κάνοντας κλικ επάνω στα ονόματά τους, ανοίγει η αντίστοιχη σελίδα στο site του βιβλίου. Εδώ βρίσκονται τα link στο αποθετήριο του βιβλίου: του LimeWire: https://github.com/panosath/_gallery/blob/master/limewire.md και του uTorrent: https://github.com/panosath/_gallery/blob/master/utorrent.md. Πρόσθεσα επίσης και στην ήδη υπάρχουσα διαφάνεια <a href="https://panosath-pibook.netlify.app//slides/definition/" title="link to the slide">"Ορισμός"</a> τα δυο αυτά entries. Αρχικά κατα την δημιουργία συνάντησα προβλήματα με το git και τα submodules καθώς δεν μπορούσα να καταφέρω συγχρονισμό των submodules αλλά έπειτα απο πειραματισμό στο git και αναζήτηση στο διαδίκτυο και κυρίως στο stackoverflow.com κατάφερα το επιθυμιτό αποτέλεσμα.
 <hr>
 
 <h2>Άσκηση προγραμματισμού: Menu Scroll</h2>
 <a href="https://panosath-pibook.netlify.app/remix/menu-scroll/" title="link to netlify pibook page">Η άσκηση στο βιβλίο του μαθήματος</a><br>
 Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/mdEZjPr" title="link to codepen">link στο codepen</a> της τρίτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/menu-scroll.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Εισήγαγα ένα ακόμη section και δημιούργησα καινούργιο entry στο menu στο επάνω μέρος της οθόνης, οπου ο χρήστης μπορεί να κλικάρει για να μεταφερθεί σε οποιοδήποτε section, οποιαδήποτε στιγμή. Τοποθέτησα επίσης και ενα μικρό κουμπί, του οποίου η λειτουργία είναι να μεταφέρει τον χρήστη με ενα κλικ στην αρχή της σελίδας. Παραμένει κρυφό και εμφανίζεται προς το τέλος της σελίδας. Για τον κώδικα του κουμπιού συμβουλεύτηκα την σελίδα w3schools.com.<br>
-<img src="https://raw.githubusercontent.com/panosath/hci-pic-repo/main/menuscroll.gif" width="500" height="300" />
+<img src="https://raw.githubusercontent.com/panosath/hci-pic-repo/main/menuscroll.gif" width="500" height="300" /><br>
+<br>Πηγές: <a href="https://www.w3schools.com/howto/howto_js_scroll_to_top.asp" title="link to source page">How TO - Scroll Back To Top Button</a>
 <hr>
 
 <h2>Άσκηση γραμμής εντολών: youtube-dl και mpv</h2>
 Παρατίθεται εδώ το <a href="https://asciinema.org/a/376774" title="link to asciinema">link</a> της τρίτης άσκησης γραμμής εντολών. Συνοπτικά παρουσιάζεται η λειτουργία λήψης βίντεο απο το youtube.com με τη χρήση του youtube-dl καθώς και παρουσιάζεται μια από τις εντολές ρύθμισης του ληφθέντος αρχείου. Πιο συγκεκριμένα, με την εντολη "youtube-dl (link)" γίνεται λήψη του βίντεο από το δοθέν link ενώ με την εντολή "youtube-dl -o 'desired-name' (link)" γίνεται λήψη αλλά και μετονομασία του ληφθέντος βίντεο σε ένα όνομα της προτίμησης του χρήστη. Στη συνέχεια γίνεται αναπαραγωγή των βίντεο που έχω κατεβάσει, αλλά το βίντεο αυτό καθ'αυτό δεν εμφανίζεται στο terminal οπότε δεν καταγράφεται από το asciinema. Παρόλα αυτά, είναι εμφανής η αναπαραγωγή των αρχείων στο terminal.<br>
-<a href="https://asciinema.org/a/376774" target="_blank"><img src="https://asciinema.org/a/376774.svg"  width="400" height="300" /></a>
+<a href="https://asciinema.org/a/376774" target="_blank"><img src="https://asciinema.org/a/376774.svg"  width="400" height="300" /></a><br>
+<br>Πηγές: <a href="https://ostechnix.com/youtube-dl-tutorial-with-examples-for-beginners/" title="link to source page">Youtube-dl Tutorial With Examples For Beginners</a><br>
+<a href="https://techpiezo.com/linux/install-mpv-media-player-in-ubuntu/" title="link to source page">Install mpv media player in Ubuntu 20.04 LTS</a>
 <hr>
 
 <h2>Άσκηση προγραμματισμού: Mouse Eraser</h2>
@@ -65,3 +71,16 @@ Forked pibook site repository: https://github.com/panosath/site<br>
 Παρατίθεται εδώ το <a href="https://codepen.io/panosath/pen/eYdZxjL" title="link to codepen">link στο codepen</a> της τέταρτης άσκησης προγραμματισμού. Εδώ βρίσκεται και το <a href="https://github.com/panosath/site/blob/master/_remix/mouse-eraser.md" title="link to repo">αποθετήριο</a> στο οποίο βρίσκεται η άσκηση. Αντικατέστησα και τις δυο εικόνες με δικές μου ανεβάζοντας αυτές σε δικό μου αποθετήριο στο github και εισάγωντας το link τηε κάθε μιας στον κώδικα της άσκησης. Οι διαστάσεις των εικόνων τροποποιήθηκαν ελάχιστα από αυτές που προϋπήρχαν για πιο ομοιόμορφη παρουσίαση. Τροποποίησα επίσης και το μέγεθος του eraser ωστε να διαγράφεται μεγαλύτερο κομμάτι με το mouse over.<br>
 <img src="https://raw.githubusercontent.com/panosath/hci-pic-repo/main/mouse%20eraser.gif" width="450" height="300" />
 <hr>
+
+<h2>Άσκηση γραμμής εντολών: emacs</h2>
+Παρατίθονται εδώ τα <a href="https://asciinema.org/a/381304" title="link to asciinema">link του βίντεο της εγκατάστασης</a> και <a href="https://asciinema.org/a/381307" title="link to asciinema">link του βίντεο της χρήσης του emacs</a> της τέταρτης άσκησης γραμμής εντολών. Γίνεται εγκατάσταση του προγράμματος επεξεργασίας κειμένου emacs μέσω του terminal καθώς δίνεται σαν ένα πολύ απλό παράδειγμα χρήσης του η δημιουργία και αποθήκευση ενός text αρχείου. Στο βίντεο εγκατάστασης, γίνεται λήψη του προγράμματος emacs με gui. Η λήψη και εγκατάσταση του terminal-only emacs εγινε με τη χρήση της εντολής "apt-get install emacs-snapshot-nox".<br>
+<a href="https://asciinema.org/a/381304" target="_blank"><img src="https://asciinema.org/a/381304.svg"  width="400" height="300" /></a><br>
+Βίντεο εγκατάστασης του emacs<br>
+<a href="https://asciinema.org/a/381307" target="_blank"><img src="https://asciinema.org/a/381307.svg"  width="400" height="300" /></a><br>
+Βίντεο χρήσης του emacs<br>
+<br>Πηγές: <a href="https://www.digitalocean.com/community/tutorials/how-to-use-the-emacs-editor-in-linux" title="link to source page">How To Use the Emacs Editor in Linux</a><br>
+<a href="https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal" title="link to source page">Ubuntu: Keep emacs in the terminal</a><br>
+<hr>
+
+<h2>Συμμετοχικό περιεχόμενο Β</h2>
+Για το δεύτερο μέρος του συμμετοχικού περιεχομένου προστέθηκε η <a href="https://panosath-pibook.netlify.app//case-study/peer-to-peer/" title="link to netlify pibook page">μελέτη περίπτωσης των peer-to-peer file sharing υπηρεσιών</a> και η <a href="https://panosath-pibook.netlify.app//biography/jeff-bezos/" title="link to netlify pibook page">βιογραφία του Jeff Bezos</a>. Κάνοντας κλικ επάνω στα ονόματά τους, ανοίγει η αντίστοιχη σελίδα στο site του βιβλίου. Εδώ βρίσκονται τα link στο αποθετήριο του βιβλίου: της μελέτης περίπτωσης: https://github.com/panosath/site/blob/master/_case-study/peer-to-peer.md και της βιογραφίας: https://github.com/panosath/site/blob/master/_biography/jeff-bezos.md, https://github.com/panosath/site/blob/master/_biography/bio-bezos.md. Πρόσθεσα επίσης και δυο εικόνες για χρήση στην βιογραφία του Jeff Bezos, ενώ χρησιμοποίησα εικόνες που είχα προσθέσει στο Α μέρος του συμμετοχικού περιεχομένου αλλά και ήδη υπάρχουσες για την μελέτη περίπτωσης.
