@@ -16,7 +16,7 @@
 | 9 | Visualization - using d3.js([link](#d3js))|
 | 10 | Add a Status Bar to your editor (vim) and Configure a Color-Theme ([link](#vim-bar-colors))|
 | 11 | Collaborative Exercise 2 ([link](#collab2))|
-| 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
+| 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση ([link](#final))|
 
 <br/>
 
@@ -173,6 +173,11 @@ the creation of Datapoint 2200.
 7. Netlify Link with my addition in [biography](https://gracious-yalow-e2bb28.netlify.app/biography/jack-frassanito/)
 8. Netlify Link with my addition in [case studies](https://gracious-yalow-e2bb28.netlify.app/case-study/ctc/)
 
-
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
 ![link](https://github.com/elenberg-io/assets/blob/main/collab2.gif)
+
+<br/>
+
+## <a name="final"></a> Week 12: Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση
+Making an evaluation of my progress and what I've learnt during this course, I believe that my skills and level of comfort with web technologies like html, css/scss, js and js libraries have increased and I've become a much more proficient user of git and understood some of the nuances in its use in for individual projects as well as collaborative ones. Moreover, getting to use several new Linux command line utilities has opened up several different ways to make my workflow faster and more efficient and my interaction
+with web and local content becoming more streamlined.
