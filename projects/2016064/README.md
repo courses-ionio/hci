@@ -106,7 +106,7 @@
 Αν θέλουμε διαφοροποιώντας την εντολή σε ***curl wttr.in/London*** απεικονίζεται πρόγνωση του καιρού στο Λονδίνο. Αντίστοιχα σε όποια τοποθεσία θέλουμε. Τα αποτελέσματα την πρόγνωσης που εμφανίζονται για 7 μέρες και υποκατηγοροποιούνται σε πρωί,μεσημέρι,απόγευμα και βράδυ.
 Το βίντεο που κατέγραψα στο Asciinema δεν απεικονίζει όσο καλά θα ήθελα την άσκηση λόγο ότι το Asciinema δεν παρέχει την δυνατότητα να προβάλεις το τερματικό σου μέσω της γραμμής κύλισης. Έτσι λόγο το ότι το wttr προβάλει την τοποθεσία που κάνεις πρόγνωση στην αρχή της απεικόνισης στο τερματικό το Asciinema αδυνατεί να προβάλλει την τοποθεσία. [Έδω](https://github.com/asciinema/asciinema-player/issues/25) το αντίστοιχο θέμα για το παραπάνω ζήτημα.
 Οδηγίες για την χρήση του εργαλείου έλαβα από τον ακόλουθο σύνδεσμο:
--https://github.com/chubin/wttr.in
+- https://github.com/chubin/wttr.in
 
 
 ## Συμμετοχικό περιεχόμενο
@@ -170,8 +170,8 @@
 | 8.ctrl + c + d | Δημιουργία προθεσμίας σημείωσης |
 
 Για την ολοκλήρωση της άσκησης με βοήθησαν οι εξής πηγές:
-https://orgmode.org/orgcard.txt
-https://www.youtube.com/watch?v=bzZ09dAbLEE&t=584s
+- https://orgmode.org/orgcard.txt
+- https://www.youtube.com/watch?v=bzZ09dAbLEE&t=584s
 
 
 
@@ -236,9 +236,9 @@ https://www.youtube.com/watch?v=bzZ09dAbLEE&t=584s
 ![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_95.png)
 
 Οδηγίες για την πραγματοποίηση του παραδοτέου έλαβα από τις εξής πηγές
--https://github.com/powerline/powerline
--https://medium.com/@earlybyte/powerline-for-bash-6d3dd004f6fc
--https://www.youtube.com/watch?v=_D6RkmgShvU
+- https://github.com/powerline/powerline
+- https://medium.com/@earlybyte/powerline-for-bash-6d3dd004f6fc
+- https://www.youtube.com/watch?v=_D6RkmgShvU
 
 
 ## Συμμετοχικό περιεχόμενο
