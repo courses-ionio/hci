@@ -179,5 +179,5 @@ the creation of Datapoint 2200.
 <br/>
 
 ## <a name="final"></a> Week 12: Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση
-Making an evaluation of my progress and what I've learnt during this course, I believe that my skills and level of comfort with web technologies like html, css/scss, js and js libraries have increased and I've become a much more proficient user of git and understood some of the nuances in its use in for individual projects as well as collaborative ones. Moreover, getting to use several new Linux command line utilities has opened up several different ways to make my workflow faster and more efficient and my interaction
+Making an evaluation of my progress and what I've learnt during this course, I believe that my skills and level of comfort with web technologies like html, css/scss, js and js libraries have increased and I've become a much more proficient user of git and understood some of the nuances in its use for individual projects as well as collaborative ones. Moreover, getting to use several new Linux command line utilities has opened up several new ways to make my workflow faster and more efficient and my interaction
 with web and local content becoming more streamlined.
