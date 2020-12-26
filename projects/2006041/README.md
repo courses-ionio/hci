@@ -10,12 +10,12 @@
 | 3 | Dependencies & Base System ([link](#Dependencies))|
 | 4 | CSS Queries ([link](#css))|
 | 5 | Text Editor and Plug-ins for Code Highlighting and Autocompletion ([link](#vim))|
-| 6 | Collaborative Exercise ([link](#collab))|
+| 6 | Collaborative Exercise 1 ([link](#collab))|
 | 7 | CSS Mouse Eraser Programming Exercise ([link](#mouseeraser))|
 | 8 | Download mp3 ([link](#youtubedl))|
 | 9 | Visualization - using d3.js([link](#d3js))|
 | 10 | Add a Status Bar to your editor (vim) and Configure a Color-Theme ([link](#vim-bar-colors))|
-| 11 | Collaborative Exercise ([link](#collab2))|
+| 11 | Collaborative Exercise 2 ([link](#collab2))|
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
 <br/>
@@ -88,7 +88,7 @@ I used the vim text editor and `vi` to to edit the .vimrc config file for the vi
 
 <br/>
 
-## <a name="collab"></a> Week 6: Collaborative Exercise
+## <a name="collab"></a> Week 6: Collaborative Exercise 1
 For this collaborative exercise I forked the 2 submodules, `_gallery` and `images`, changed the references of the submodules in my forked repo of `site` to point
 to these forked submodule repos, added 2 new entries in `_gallery` and `images`, added the references to the appropriate slides and chronology and updated the `_config.yml` 
 file in the forked `site` repo with the url of my *netlify* live site. I added 2 Archetypes, the Datapoint 2200 and the TRS-80, under personal computers and microcomputers respectively.
@@ -159,7 +159,7 @@ For this command line exercise, I completed the *"Add a Status Bar to your edito
 
 <br/>
 
-## <a name="collab2"></a> Week 11: Collaborative Exercise
+## <a name="collab2"></a> Week 11: Collaborative Exercise 2
 For this collaborative exercise I forked the 1 submodule, `extras`, changed the references of the submodules in my forked repo of `site` to point
 to this forked submodule repo, added 1 new entry in in `_case_study` and `biography`, and added the appropriate images and thumbnails for the new entries. 
 The new entries are related to the previous collaborative deliverable, where I wrote about Datapoint 2200 and the TRS-80. In this deliverable, I decided to focus on the biography of Jack Frassanito, who was integral in the development of Datapoint 2200, and then did a case study on CTC (Computer Terminal Corporation), the company behind
@@ -171,7 +171,7 @@ the creation of Datapoint 2200.
 5. Link to the `images` forked [submodule](https://github.com/elenberg-io/images/tree/master)
 6. Link to the `extras` forked [submodule](https://github.com/elenberg-io/extras)
 7. Netlify Link with my addition in [biography](https://gracious-yalow-e2bb28.netlify.app/biography/jack-frassanito/)
-8. Netlify Link with my addition in [Case Studies](https://gracious-yalow-e2bb28.netlify.app/case-study/ctc/)
+8. Netlify Link with my addition in [case studies](https://gracious-yalow-e2bb28.netlify.app/case-study/ctc/)
 
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Live Demo
