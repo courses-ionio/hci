@@ -70,6 +70,11 @@
 
 [image zoom](https://github.com/Orfeaslambrou/site/blob/2019078/_remix/image-zoom.md)
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/G2RmvB2/GATS.png" alt="GATS" border="0"></a>
+
+*1.4 H γάτα μας στην κανονική μορφή της στα αριστερά και με τα φίλτρα ζουμαρισμένη στα δεξιά*
+
+
 
 # ΑΣΚΗΣΕΙΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
 
