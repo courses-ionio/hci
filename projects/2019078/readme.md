@@ -121,7 +121,7 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
     
    ## awesome-console-service <a name="g"></a>
    
-   Asciinema:[awesome-console-service](https://asciinema.org/a/381384)
+   Asciinema:[awesome-console-service](https://asciinema.org/a/381387)
    
     
 
