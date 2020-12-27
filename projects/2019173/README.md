@@ -140,7 +140,7 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 Η Μελέτη Περίπτωσης του Assassin's Creed είναι: [εδώ](https://p19pasa.netlify.app/case-study/).
 
 Πηγές ήταν: [Assassin's Creed Odyssey](https://www.ubisoft.com/en-us/game/assassins-creed/odyssey), [BUILD YOUR OWN
-VIKING LEGEND](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla), [Assassin's Creed® Odyssey](https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/) και [Assassin's Creed® Odyssey](https://www.playstation.com/el-gr/games/assassins-creed-odyssey/).
+VIKING LEGEND](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla) και [Assassin's Creed® Odyssey](https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/).
 
 # Τελική Αναφορά
 
