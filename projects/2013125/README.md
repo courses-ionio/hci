@@ -33,9 +33,13 @@
 ## Άσκηση Προγραμματισμού 
 ## Button
 [Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/master/_remix/button.md)
+
 [Σύνδεσμος Άσκησης στο site του Βιβλίου](https://p13giag.netlify.app/remix/button/)
+
 [Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/colors/colors_names.asp) , 
+
 [Σύνδεσμος Βιβλιογραφίας 2](https://fontawesome.com/icons/edit?style=solid&fbclid=IwAR0P3SxOWQL7_snxwp5T7ZJycGrzidZUCGffMSxrwSbnRY72z_GmYkasxyU)
+
 ## Αλλαγές στην Άσκηση του προγραμματισμού.
 
 Οι αλλαγές που έκανα στον κώδικα της άσκησης ήταν η αλλαγή του συμβόλου x στο σύμβολο της επεξεργασίας(edit), η αλλαγή της λέξης στο κουμπί από remove σε edit.Επίσης πρόσθεσα ένα κείμενο πρίν το κουμπί το οποίο λέει στο χρήστη αν θέλει να επεξεργαστεί κάτι να πατήσει το κουμπί επεξεργασίας(edit), άλλαξα το χρώμα της οθόνης (background-color) στo css κώδικα αλλά και το αποτέλεσμα του πατήματος του κουμπιού που εμφανίζεται σε πιο σκούριο χρώμα.
@@ -61,6 +65,7 @@
 [Σύνδεσμος Άσκησης στο site του Βιβλίου](https://p13giag.netlify.app/remix/image/)
 
 [Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+
 [Σύνδεσμος Βιβλιογραφίας 2](https://www.w3schools.com/csS/css3_flexbox.asp)
 
 ## Αλλαγές στην Άσκηση του προγραμματισμού.
@@ -114,7 +119,9 @@
 ## Προσθήκες στο κώδικα της CSS 
 ## Προσθήκη για την θέση του button submit-container, της φόρμας form και των inputs της φόρμας
 [Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/csS/css3_flexbox_container.asp),
+
 [Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/csS/css_dimension.asp),
+
 [Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/csS/css_padding.asp)
 
 ## Παραδοτέο 8
@@ -139,12 +146,14 @@
 ## Media queries example
 
 [Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/master/_remix/css-queries.md)
+
 [Σύνδεσμος Άσκησης στο site του Βιβλίου](https://p13giag.netlify.app/remix/css-queries/)
 
 ## Αλλαγές στην άσκηση προγραμματισμού
 Αρχικά έβαλα μόνο ένα είδος γραμματοσειράς για το μήνυμα "RESIZE BROWSER'S WINDOW",μετά άλλαξα όλα τα χρώμματα των γραμμάτων και των background-colors σε κάθε media query (max-width) που υπήρχε και πρόσθεσα ένα media query min-width:420px με νέα χρώμματα στα γραμματα και στο background-color.
 
 [Σύνδεσμος Βιβλιογραφίας 1](https://www.w3schools.com/colors/colors_names.asp)
+
 [Σύνδεσμος Βιβλιογραφίας 2](https://www.w3schools.com/css/css3_mediaqueries.asp)
 
 ## Παραδοτέο 10
@@ -161,6 +170,7 @@
 ## Παραδοτέο 11
 ## Συμμετοχικό Περιερχόμενο Β1,Β2
 ## Παραδοτέο Β1 Μια νέα μελέτη περίπτωσης
+
 [Νέα Μελέτη Περίπτωσης](https://github.com/p13giag/site/blob/2013125/_case-study/ipod.md)
 
 ## Παραδοτέο Β2 Μια νέα βιογραφία
