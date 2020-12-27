@@ -16,12 +16,12 @@
 | 3 | [Άσκηση γραμμής εντολών](https://asciinema.org/a/hLDShqnr6ZNgDOd8i5YEEfCrG)
 | 4 | [Άσκηση προγραμματισμού](https://github.com/p13giag/site/blob/2013125/_remix/image.md)
 | 5 | [Άσκηση γραμμής εντολών](https://asciinema.org/a/QZmPztfYWq8gXteJeYC8ofJa8)
-| 6 | [συμμετοχικό περιεχόμενο]()
-| 7 |[ Άσκηση προγραμματισμο](https://github.com/p13giag/site/blob/2013125/_remix/form-validation.md)
+| 6 | [Συμμετοχικό περιεχόμενο]
+| 7 | [Άσκηση προγραμματισμο](https://github.com/p13giag/site/blob/2013125/_remix/form-validation.md)
 | 8 | [Άσκηση γραμμής εντολών](https://asciinema.org/a/fennDBfGDVfst08jiunqhVMGJ)
 | 9 | [Άσκηση προγραμματισμού](https://github.com/p13giag/site/blob/master/_remix/css-queries.md)
-| 10 | [Άσκηση γραμμής εντολών]()
-| 11 | [Συμμετοχικό περιεχόμενο]()
+| 10 | [Άσκηση γραμμής εντολών](https://asciinema.org/a/4McFVl6cSvPEnV6su2Y41V4HT)
+| 11 | [Συμμετοχικό περιεχόμενο]
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
 # Εισαγωγή 
