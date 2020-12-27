@@ -12,7 +12,7 @@
 | 4 | [css quaries](#d) |
 | 5 | [wttr](#e) |
 | 6 | [Image Filter](#f) |
-| 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 7 | [awesome-console-service](#g) |
 | 8 | [Ιmage Ζoom](#h) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -118,6 +118,11 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
     <a href="https://ibb.co/K7wQbDb"><img src="https://i.ibb.co/2PNLWSW/wttr.png" alt="wttr" border="0"></a>
     
     *2.2.Παράδειγμα στο οποίο η πρόγνωση για μια ισπανική πόλη εμφανίζεται στη γαλλική γλώσσα*
+    
+   ## awesome-console-service <a name="g"></a>
+   
+   Asciinema:[awesome-console-service](https://asciinema.org/a/381384)
+   
     
 
 
