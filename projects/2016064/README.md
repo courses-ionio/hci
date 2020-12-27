@@ -256,4 +256,4 @@
 
 
 #### Β2 Βιβλιογραφία
-Η βιβλιογραφία έχει ως θέμα τον εφευρέτη του Trackball Ralph Benjamin.
+Η [βιβλιογραφία](https://github.com/Kavvadias/site/blob/master/_biography/ralph-benjamin.md) έχει ως θέμα τον εφευρέτη του Trackball Ralph Benjamin.
