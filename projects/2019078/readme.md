@@ -14,7 +14,7 @@
 | 6 | [Image Filter](#f) |
 | 7 | [awesome-console-service](#g) |
 | 8 | [Ιmage Ζoom](#h) |
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 9 | [w3m](#i)|
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
@@ -122,6 +122,10 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
    ## awesome-console-service <a name="g"></a>
    
    Asciinema:[awesome-console-service](https://asciinema.org/a/381387)
+   
+   ## w3m <a name="i"></a>
+   
+   Asciinema:[w3m](https://asciinema.org/a/381390)
    
     
 
