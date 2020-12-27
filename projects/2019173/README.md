@@ -139,8 +139,7 @@ vi)  cd - επιστρέφουμε για παράδειγμα στο αρχεί
 Η Βιογραφία της Ubisoft Quebec είναι: [εδώ](https://p19pasa.netlify.app/biography/).
 Η Μελέτη Περίπτωσης του Assassin's Creed είναι: [εδώ](https://p19pasa.netlify.app/case-study/).
 
-Πηγές ήταν: [Assassin's Creed Odyssey](https://www.ubisoft.com/en-us/game/assassins-creed/odyssey), [BUILD YOUR OWN
-VIKING LEGEND](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla) και [Assassin's Creed® Odyssey](https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/).
+Πηγές ήταν: [Assassin's Creed Odyssey](https://www.ubisoft.com/en-us/game/assassins-creed/odyssey) και [Assassin's Creed® Odyssey](https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/).
 
 # Τελική Αναφορά
 
