@@ -12,12 +12,12 @@
 | 3 | [Setup the main dependencies and demonstrate base system](#άσκηση-γραμμής-εντολών) *CLI* |
 | 4 | [Menu Scroll](#menu-scroll) *GUI* |
 | 5 | [Organise the terminal window into multiple areas](#organise-the-terminal-window-into-multiple-areas) *CLI* |
-| 6 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο) *SITE* |
+| 6 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο) *Site* |
 | 7 | [Mouse Form](#mouse-form) *GUI* |
 | 8 | [MP3 Download](#mp3-download) *CLI* |
 | 9 | [Plyr video player](#plyr-video-player) *GUI* |
 | 10 | [Todo list (emacs)](#todo-list-emacs) *CLI* |
-| 11 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο-1) *SITE* |
+| 11 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο-1) *Site* |
 | 12 | Τελική αναφορά* |
 
 -------------------------------------------------------------------------------------------------------------------------------------
