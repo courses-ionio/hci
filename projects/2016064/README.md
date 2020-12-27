@@ -286,7 +286,7 @@ https://kavvadias.netlify.app/case-study/
 https://kavvadias.netlify.app/biography/
 
 Πληροφορίες για την πραγματοποίηση του παραδοτέου δεχτηκα απο τις εξής πηγές:
--https://shortformernie.medium.com/computer-trackball-canadian-history-685b41d4e8a8
--https://www.historyofinformation.com/detail.php?entryid=2086
--https://en.wikipedia.org/wiki/Ralph_Benjamin
--https://www.telegraph.co.uk/obituaries/2019/06/10/professor-ralph-benjamin-eminent-electronic-engineer-advised/
+- https://shortformernie.medium.com/computer-trackball-canadian-history-685b41d4e8a8
+- https://www.historyofinformation.com/detail.php?entryid=2086
+- https://en.wikipedia.org/wiki/Ralph_Benjamin
+- https://www.telegraph.co.uk/obituaries/2019/06/10/professor-ralph-benjamin-eminent-electronic-engineer-advised/
