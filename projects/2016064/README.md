@@ -276,6 +276,17 @@
 #### Β1 Μελέτη περίπτωσης
 Η [μελέτη περίπτωσης](https://github.com/Kavvadias/site/blob/master/_case-study/trackball.md) βασίζεται στην συσκευή εισόδου Trackball, μια προϋπάρχον συσκευή εισόδου απο το ποντίκι. 
 
+https://kavvadias.netlify.app/case-study/
+
+
 
 #### Β2 Βιβλιογραφία
 Η [βιβλιογραφία](https://github.com/Kavvadias/site/blob/master/_biography/ralph-benjamin.md) έχει ως θέμα τον εφευρέτη του Trackball Ralph Benjamin.
+
+https://kavvadias.netlify.app/biography/
+
+Πληροφορίες για την πραγματοποίηση του παραδοτέου δεχτηκα απο τις εξής πηγές:
+-https://shortformernie.medium.com/computer-trackball-canadian-history-685b41d4e8a8
+-https://www.historyofinformation.com/detail.php?entryid=2086
+-https://en.wikipedia.org/wiki/Ralph_Benjamin
+-https://www.telegraph.co.uk/obituaries/2019/06/10/professor-ralph-benjamin-eminent-electronic-engineer-advised/
