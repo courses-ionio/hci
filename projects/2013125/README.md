@@ -33,7 +33,7 @@
 ## Άσκηση Προγραμματισμού 
 ## Button
 [Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/master/_remix/button.md)
-
+[Σύνδεσμος Άσκησης στο site του Βιβλίου](https://p13giag.netlify.app/remix/button/)
 [Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/colors/colors_names.asp) , 
 [Σύνδεσμος Βιβλιογραφίας 2](https://fontawesome.com/icons/edit?style=solid&fbclid=IwAR0P3SxOWQL7_snxwp5T7ZJycGrzidZUCGffMSxrwSbnRY72z_GmYkasxyU)
 ## Αλλαγές στην Άσκηση του προγραμματισμού.
@@ -58,6 +58,8 @@
 ## Image
 [Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/2013125/_remix/image.md)
 
+[Σύνδεσμος Άσκησης στο site του Βιβλίου](https://p13giag.netlify.app/remix/image/)
+
 [Σύνδεσμος Βιβλιογραφίας](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 [Σύνδεσμος Βιβλιογραφίας 2](https://www.w3schools.com/csS/css3_flexbox.asp)
 
@@ -81,8 +83,10 @@
 ## Συμμετοχικό Περιερχόμενο Α1,Α2
 ## [Site](https://p13giag.netlify.app/)
 ## Παραδοτέο 1 Α1 : Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση π.χ., apple mouse
+
  [Εικόνα 1 :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_2g.png)
  [Εικόνα 1 160px :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_2g-thumb.png)
+ 
  [Εικόνα 2 :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_3g.png)
  [Εικόνα 2 160px :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_3g-thumb.png)
 ## Παραδοτέο 2 Α2 : Ένα σετ από Θεματικές Διαφάνειες και ένα Χρονολόγιο
@@ -95,6 +99,7 @@
 ## Άσκηση Προγραμματισμού
 ## Form Validation
 [Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/2013125/_remix/form-validation.md)
+[Σύνδεσμος Άσκησης στο site του Βιβλίου](https://p13giag.netlify.app/remix/form-validation/)
 
 ## Αλλαγές στην Άσκηση του προγραμματισμού
 ## SubmitHandler για τον έλεγχο του Ελληνικού τηλεφωνικό νούμερο
@@ -132,7 +137,9 @@
 ## Παραδοτέο 9
 ## Άσκηση Προγραμματισμού
 ## Media queries example
+
 [Σύνδεσμος Άσκησης](https://github.com/p13giag/site/blob/master/_remix/css-queries.md)
+[Σύνδεσμος Άσκησης στο site του Βιβλίου](https://p13giag.netlify.app/remix/css-queries/)
 
 ## Αλλαγές στην άσκηση προγραμματισμού
 Αρχικά έβαλα μόνο ένα είδος γραμματοσειράς για το μήνυμα "RESIZE BROWSER'S WINDOW",μετά άλλαξα όλα τα χρώμματα των γραμμάτων και των background-colors σε κάθε media query (max-width) που υπήρχε και πρόσθεσα ένα media query min-width:420px με νέα χρώμματα στα γραμματα και στο background-color.
