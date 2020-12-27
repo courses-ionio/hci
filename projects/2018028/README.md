@@ -45,7 +45,7 @@ AM:Π2018028
 
 ## 6ο Παραδοτέο
 Αυτή η εβδομάδα ήταν αρκετά διαφορετική απο τις προηγούμενες. Αυτήν την φορά έπρεπε να κάνουμε κάτι δικό μας ουσιαστικά, το layout μόνο έμεινε το ίδιο. Το θέμα που επέλεξα για την εργασία του συμμετοχικού περιεχομένου ήταν τα βιντεοπαιχνίδια και ειδικότερα τα κλασσικά βιντεοπαιχνίδια. Έτσι επέλεξα τον πατέρα των βιντεοπαιχνιδιών και προσωπικό μου είδωλλο [Nolan Bushnell](https://github.com/Alkissourvinos/images/blob/8c9b5cd0945cff74ea5e4956a468ec5cd24e51b3/NolanBushnell.jpg), δημιουργό του ComputerSpace και συνιδριτη της εταιρία ανάπτυξης παιχνιδιών Attari. Με προτεργάτη τον Bushnell η βιομηχανία παιχνιδιών ξεκίνησε να κάνει σιγά σιγά τα πρώτα τις βήματα και με τον καιρό να παρατάει τα μηχανήματα Arcade και να φέρνει τα παιχνίδια στα σπίτια των ανθρώπων.<br>
-Η [εικόνα](https://github.com/Alkissourvinos/images/blob/8c9b5cd0945cff74ea5e4956a468ec5cd24e51b3/NolanBushnell.jpg) μαζί με την [λεζάντα](https://github.com/Alkissourvinos/_gallery/blob/99655043904b1ac416dcfcfa7a8b33cf768741f8/The_father_of_videogames) της<br>
+Η [εικόνα](https://github.com/Alkissourvinos/images/blob/8c9b5cd0945cff74ea5e4956a468ec5cd24e51b3/NolanBushnell.jpg) μαζί με την [λεζάντα](https://github.com/Alkissourvinos/_gallery/blob/master/NolanBushnell.md) της<br>
 [Slides](https://github.com/Alkissourvinos/site/blob/master/_slides/NolanBushnell.md)<br>
 [Timeline](https://github.com/Alkissourvinos/site/blob/master/_timeline/NolanBushnell.md)
 
