@@ -9,6 +9,8 @@
 ### Προφίλ στο Codepen: https://codepen.io/p19fota
 ### Προφίλ στο asciinema: https://asciinema.org/~P2019116
 ### Netlify: https://rafael5gr2.netlify.app/
+
+# Το ιστορικό των πρώτων εβδομάδων μπορεί να βρεθεί στο branch drafts (https://github.com/rafael5gr2/hci/tree/drafts/projects/2019116)
   
 # Παραδοτέα και Τελική αναφορά
   
