@@ -21,8 +21,13 @@
 | 11 | [Συμμετοχικό περιεχόμενο](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2) |
 | 12 | Τελική αναφορά* |
 
+
+
+
 ## Εισαγωγή
 Οι προσδοκίες μου είναι μέσα από το μάθημα να διδαχθώ την αλληλεπίδραση των ανθρώπων με σύγχρονες τεχνολογίες, αλλά και εργαλεία για τον σχεδιασμό και την ανάπτυξη διαδραστικών συστημάτων. Οι ανάγκες μου αναφορικά με το πρόγραμμα του μαθήματος, είναι κατα κύριο λόγο η εκμάθηση χρήσης του εργαλείου github μέσω της συνεχής ανάγνωσης των οδηγιών του μαθήματος αλλα και την παρακολούθηση και συμμετοχή στα διαδικτυακά μαθήματα. Ακόμα η εκμάθηση εντολών στην γραμμή εντολών, αλλα και η εξοικείωση μου με την χρήση της. Όλα αυτα θα επιτευχθούν κάνοντας πρακτική των εργαλείων αυτών για την δημιουργία των παραδοτέων, αλλα και με την βοήθεια των μαθημάτων και την συμμετοχη των μαθητών με ερωτήσεις αλλα και προβληματισμούς ώστε να μην υπάρχουν κενά κατά την εκμάθηση τους.
+
+
 
 
 ## 1η Άσκηση προγραμματισμού
@@ -41,6 +46,8 @@
 - https://fontawesome.com/icons/bell-slash?style=regular
 
 
+
+
 ## 1η Άσκηση γραμμής εντολών
 ### Become productive with a todo list(create a list of todos, edit, delete, and check some of them)
 #### [Asciinema link 1ης Άσκηση γραμμής εντολών](https://asciinema.org/a/jQv28tu338kAJVK3SgSEhVGi9)
@@ -57,6 +64,8 @@
 - https://taskwarrior.org/docs/examples.html
 - https://taskwarrior.org/docs/commands/modify.html
 - https://taskwarrior.org/docs/30second.html
+
+
 
 
 ## 2η Άσκηση προγραμματισμού
@@ -99,6 +108,8 @@
 - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries
 
 
+
+
 ## 2η Άσκηση γραμμής εντολών
 ### Fetch the weather forecast for your home city and one more city that you want to travel to
 #### [Asciinema link 2ης Άσκηση γραμμής εντολών](https://asciinema.org/a/EcYJU4GpdfkdIhWSzRTpPGNA5) 
@@ -111,6 +122,8 @@
 - https://github.com/chubin/wttr.in
 
 
+
+
 ## Συμμετοχικό περιεχόμενο
 ### Παραδοτέο 1
 #### Α1 
@@ -119,6 +132,7 @@
 και [2η](https://github.com/Kavvadias/images/blob/master/trackball-mouse-thumb.jpg)
 
 2. Προσθήκη στην συλλογή(_gallery): [Microsoft Mouse](https://github.com/Kavvadias/_gallery/blob/master/microsoft-mouse.md) και [Trackball](https://github.com/Kavvadias/_gallery/blob/master/trackball-mouse.md).
+
 
 #### A2
 
@@ -129,6 +143,9 @@
 Για την προβολή της ιστοσελίδας μου μέσω Netlify πατήστε [εδώ](https://kavvadias.netlify.app/)
 
 Βιβλιογραφία σχετικά με το [Microsoft mouse](https://en.wikipedia.org/wiki/Microsoft_Mouse) και το [Trackball](https://shortformernie.medium.com/computer-trackball-canadian-history-685b41d4e8a8)
+
+
+
 
 ## 3η Άσκηση προγραμματισμού
 ### Menu slide
@@ -145,6 +162,8 @@
 - Μείωσα το μέγεθος του κουμπιού αφού από "LEFT ή RIGHT MENU" έγινε σκέτο "MENU", στο κομμάτι κώδικα ***cont-btn {max-width: 200px;}***
 - Άλλαξα το χρώμα του κουμπιού και του μενού όταν το ποντίκι ακουμπάει πάνω, στα κομμάτια κώδικα ***.btn:hover {background: #999966;}*** και ***a:hover{background-color:#999966;}***
 - Τέλος άλλαξα το μέγεθος πλάτους του μενού ***.cont-nav {width: 180px;}***, οπότε αναγκάστηκα να αλλάξω και το μέγεθος πλάτους και στην αλλαγή του χρώματος όταν το ποντίκι βρίσκεται στο μενού ***a {width: 165px;}***.
+
+
 
 
 ## 3η Άσκηση γραμμής εντολών
@@ -179,7 +198,6 @@
 
 
 
-
 ## 4η Άσκηση προγραμματισμού
 ### Menu pie
 #### [Αποθετήριο κώδικα 4ης Άσκησης προγραμματισμού](https://github.com/Kavvadias/site/blob/master/_remix/menu-pie.md)
@@ -203,6 +221,8 @@
  -ms-transform: rotate(150deg) skew(62deg);
  transform: rotate(150deg) skew(62deg);
 }***
+
+
 
 
 ## 4η Άσκηση γραμμής εντολών
@@ -247,6 +267,8 @@
 - https://github.com/powerline/powerline
 - https://medium.com/@earlybyte/powerline-for-bash-6d3dd004f6fc
 - https://www.youtube.com/watch?v=_D6RkmgShvU
+
+
 
 
 ## Συμμετοχικό περιεχόμενο
