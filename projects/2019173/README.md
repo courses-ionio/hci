@@ -44,7 +44,7 @@
 
 
 # 3ο Παραδοτέο
-Το τρίτο παραδοτέο ζητούσε να λύσουμε μία άσκηση γραμμών εντολής. Για να γίνει αυτό χρειάστηκε να χρησιμοποιήσω το τερματικό του Ubuntu. Επέλεξα την άσκηση [get familiar with basic commands, reading documentation and editing files](https://github.com/p19pasa/dokey/blob/master/README.md) που όπως μπορείτε να καταλάβετε από την ονομασία του, ζητούσε να ψάξουμε τους φακέλους που έχουμε στο Ubuntu και να δούμε τι υπάρχει σε αυτούς. 
+Το τρίτο παραδοτέο ζητούσε να λύσουμε μία άσκηση γραμμών εντολής. Για να γίνει αυτό χρειάστηκε να χρησιμοποιήσω το τερματικό του Ubuntu. Επέλεξα την άσκηση [get familiar with basic commands, reading documentation and editing files](https://github.com/p19pasa/dokey/blob/master/README.md) που όπως μπορείτε να καταλάβετε από την ονομασία της, ζητούσε να ψάξουμε τους φακέλους που έχουμε στο Ubuntu και να δούμε τι υπάρχει σε αυτούς. 
 
 #### ΤΡΟΠΟΣ ΕΠΙΛΥΣΗΣ ΤΗΣ ΑΣΚΗΣΗΣ:
 Για να καταφέρω να καταλάβω πως δουλεύει το τερματικό σε συνδιασμό με τα αρχεία μας, χρησιμοποίησα τις ιστοσελίδες [How to Edit Config Files in Ubuntu](https://vitux.com/how-to-edit-config-files-in-ubuntu/), [Using The Terminal](https://help.ubuntu.com/community/UsingTheTerminal) και [Basic Linux Navigation and File Management](https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management). Έμαθα ότι με την εντολή:
