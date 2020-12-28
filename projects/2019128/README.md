@@ -56,11 +56,12 @@ __Κώδικας για το mouse form__<br/>
 ## ΠΑΡΑΔΟΤΕΟ 5ο
 __download mp3 using youtube-dl__</br>
 [youtube-dl](https://asciinema.org/a/d32tjGtGzWHCzuwjgGEKzveBF)</br>
-Το μόνο πρόβλημα που συνάντησα ήταν ότι δεν βρήκα κάποιο command που να παίζει το mp3 αρχείο που κατέβασα, αλλά βρήκα command που να το παίζει με το link του βίντεο.</br>
+Για να [κατεβάσω](https://github.com/ytdl-org/youtube-dl) το youtube-dl χρησιμοποίησα τα commands _sudo wget http://yt-dl.org/downloads/lates/youtube-dl -O /usr/local/bin/youtube-dl και _sudo chmod a+rx /urs/local/bin/youtube-dl_. Το μόνο πρόβλημα που αντιμετώπισα είναι το να μην μπορώ να βρω κάποιο command από το youtube-dl που να παίζει το τραγούδι από τον υπολογιστή αλλά βρήκα command που να το παίζει από το youtube με το link του.
 ## ΠΑΡΑΔΟΤΕΟ 6ο
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ A1__</br>
+Όσο αναφορά συμμετοχικό περιεχόμενο το μόνο που έχω να σημειώσω είναι ότι καθώς δεν είχα την παραμικρή ιδέα του πως δουλεύουνε τα submodules ξόδεψα ατέλειωτες ώρες προσπαθώντας να βρω το πώς να τα κάνω update, αλλά κυριότερα το πώς να αλλάξω το repository από το οποίο θα τα κάνω και update. Και το δεύτερο πρόβλημα που συνάντησα ήταν το ότι καθώς δεν έχω ασχοληθεί στο παρελθόν με ότι αφορά το licensing δεν ήμουνα σίγουρος το πώς θα πρέπει να κάνω credit τους creators. </br>
 - images: [digitizer](https://github.com/alexpoulis/images/blob/5b6129514388e7366506bf1696d59f4d2921e0b4/wacom-tablet.png), [touch screen](https://github.com/alexpoulis/images/blob/5b6129514388e7366506bf1696d59f4d2921e0b4/touch-screen.jpg).
-- gallery: [digitizer](https://github.com/alexpoulis/_gallery/blob/23fe3e086b632f5b0ca1ba12b7d7bba8cced770b/drawing-tablet.md), [touch screen](https://github.com/alexpoulis/_gallery/blob/23fe3e086b632f5b0ca1ba12b7d7bba8cced770b/touch-screen.md), [digitizer netlify](https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/gallery/drawing-tablet/), [touch screen netlify](https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/gallery/touch-screen/).
+- gallery: [digitizer](https://github.com/alexpoulis/_gallery/blob/23fe3e086b632f5b0ca1ba12b7d7bba8cced770b/drawing-tablet.md), [touch screen](https://github.com/alexpoulis/_gallery/blob/23fe3e086b632f5b0ca1ba12b7d7bba8cced770b/touch-screen.md), [digitizer netlify](https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/gallery/drawing-tablet/), [touch screen netlify](https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/gallery/touch-screen/).</br>
 
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ A2__</br>
 - [timeline](https://github.com/alexpoulis/site/blob/master/_timeline/personal.md), [timeline netlify](https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/timeline/personal/)</br>
