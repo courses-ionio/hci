@@ -1,5 +1,5 @@
 # Επικοινωνία ανθρώπου υπολογιστή
-
+ 
 ## Ονοματεπώνυμο: ΑΛΕΞΑΝΔΡΟΣ ΠΟΥΛΗΣ
 
 ## ΑΜ: Π2019128
@@ -21,7 +21,7 @@
 | 9 | [Άσκηση προγραμματισμού</br>(image)](#παραδοτεο-9ο) |
 | 10 | [Άσκηση γραμμής εντολών</br>(emacs)](#παραδοτεο-10ο) |
 | 11 | [συμμετοχικό περιεχόμενο](#παραδοτεο-11ο) |
-| 12 | [Σύνοψη(Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση)](#-συνοψη) |
+| 12 | [Σύνοψη(Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση)](#συνοψη) |
 
 ## ΣΥΝΟΨΗ
 Τα παραδοτέα που αποφάσισα να πραγματοποιήσω αναγράφονται στον παραπάνω πίνακα όπου οδηγούνε σε κάθε ένα από τα παραδοτέα ξεχωριστά, από τα οποία δεν παράδωσα εμπρόθεσμα τα μισά και συγκεκριμένα το 5ο, 6ο ,7ο, 8ο, 9ο, και 11ο(επίσης επειδή έβαλα λάθος το branch name, έφτιαξα ένα με το σωστό όνομα και θα κάνω link τα [commit]( https://github.com/alexpoulis/hci/commits/%CE%A02019128?before=f9a111631b28a767b83cc39aa39a1e0ed7f070b4+35&branch=%CE%A02019128) του προηγούμενου). Από τους στόχους που έθεσα στην αρχή του εξαμήνου πιστεύω ότι έμαθα να χρησιμοποιώ το terminal των Linux(και των Windows για τα submodules) σε ικανοποιητικό επίπεδο κάτι το οποίο δεν είχα την παραμικρή ιδέα το πώς να το κάνω στην αρχή του εξαμήνου. Ακόμα έμαθα να χρησιμοποιώ Markdown σε ένα βασικό επίπεδο αλλά και το πώς να χρησιμοποιώ τα διάφορα εργαλεία που χρειαστήκαμε για τα παραδοτέα κάτι που προσωπικά θεωρώ bonus καθώς δεν ήταν αρχικά στους στόχους μου. Φυσικά όπως φαίνεται και παραπάνω όμως δεν πέτυχα έναν βασικό στόχο, το παραδώσω νωρίς τα παραδοτέα, κάτι το οποίο πιστεύω ήταν μεγάλη αποτυχία, αλλά προσωπικά νομίζω ότι εκτός από αυτό πέτυχα τους υπόλοιπους στόχους μου.  
@@ -32,8 +32,9 @@ __ΕΙΣΑΓΩΓΗ__</br>
 ## ΠΑΡΑΔΟΤΕΟ 2ο
 
 __Κώδικας για το button__<br/>
-[button](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/button/)<br/>
-Το μόνο πρόβλημα που αντιμετώπισα ήταν ότι δεν πάτησα να μου το εμφάνιση στο codepen και το έκανα copy paste και δεν μου δούλεψε και ξόδεψα πολύ ώρα και στο τέλος που βρήκα το κουμπί το άνοιξα από εκεί και μου δούλεψε αμέσως.</br>
+[button](https://github.com/alexpoulis/site/blob/master/_remix/button.md)</br>
+[button netlify](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/button/)<br/>
+Το μόνο πρόβλημα που αντιμετώπισα ήταν ότι δεν πάτησα «edit on codepen» και έκανα copy paste τον κώδικα, κάτι που φαίνεται σε συνδυασμό με κάποιο bug υποθέτω, μου έκανε το οτιδήποτε έγραφα να μην δουλεύει . Για να σιγουρευτώ ότι δεν έκανα κάποιο λάθος εγώ, αντέγραψα έναν κώδικα από μία ιστοσελίδα( ο κώδικας δεν είχε σχέση με τον κώδικα button) και δεν δούλεψε πάλι κάτι που με έκανε να το ψάξω λίγο ακόμα και να βρω το κουμπί «edit on  codepen» που έκανε τον κώδικα να δουλεύει και αντικαθιστώντας το # με το link( στην συγκεκριμένη περίπτωση ενός βίντεο) στην δέυτερη γραμμή του HTML κώδικα τελείωσα την άσκηση. .</br>
 [Το βίντεο που συμβουλευτικά για τον 2ο παραδοτέο](https://www.youtube.com/watch?v=UB1O30fR-EE&t=1516s)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για τον 2ο παραδοτέο](https://www.w3schools.com/html/html_colors.asp)<br/>
 <br/>
@@ -41,16 +42,16 @@ __Κώδικας για το button__<br/>
 
 __main dependencies and demonstration of my base system__<br/>
 [main dependencies and demonstration of my base system](https://asciinema.org/a/8gGDFMoy9Vd76iNbq4jaRluD9)</br>
-
+Καθώς ήταν η πρώτη φορά που χρησιμοποιούσα Linux λογισμικό υπήρξε μεγάλη δυσκολία για τα πάντα, επειδή υπάρχει τεράστια διαφορά από τα Windows( τα οποία χρησιμοποιώ πάνω από δεκαετία) και επίσης ήταν η πρώτη φορά που χρησιμοποιούσα terminal σε οποιοδήποτε λογισμικό. Όμως αντιθέτως με τις υπόλοιπες ασκήσεις γραμμής εντολών το να βρω τα commands δεν ήταν κάτι που δεν με δυσκόλεψε πολύ. Αρχικά άλλαξα το όνομα που εμφανίζεται στο terminal στο student ID γράφοντας _~/,bashrc_ και αλλάζοντας στην τελευταία γραμμή το PS1. Στην συνέχεια με το command _ls –all_  εμφάνισα τα .files και τέλος με το command _uname -a_ έδειξα  το system information. Την άσκηση αυτή την παράδωσα πριν την βγάλετε από την κατηγορία hci.</br>  
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω το command prompt](https://phoenixnap.com/kb/change-bash-prompt-linux)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για τα .files](http://manpages.ubuntu.com/manpages/bionic/man1/ls.1.html)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για το software και το hardware](https://vitux.com/get-linux-system-and-hardware-details-on-the-command-line/)<br/>
 <br/>
 ## ΠΑΡΑΔΟΤΕΟ 4ο
 __Κώδικας για το mouse form__<br/>
-[mouse form](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-form/)</br>
-Δεν συμβουλεύτηκα καμία ιστοσελίδα καθώς κοιτάζοντας τον ήδη υπάρχοντα κώδικα html κατάφερα να βρω την λύση<br/>
-Οι αλλαγές που έκανα είναι να κάνω label για το gender και μετά να διαλέξω τις 2 επιλογές.
+[mouse form]()</br>
+[mouse form netlify](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-form/)</br>
+Στην άσκηση αυτή δεν χρειάστηκα να συμβουλευτώ κάποια ιστοσελίδα καθώς κοιτάζοντας τον κώδικα HTML κατάλαβα τον πως θα την κάνω( παρόλο ότι δεν έχω ασχοληθεί πολύ με HTML). Αυτό που έκανα είναι να φτιάξω ένα καινούργιο label ονομαζόμενο GENDER και κάνοντας την πρώτη επιλογή να γίνεται disabled αφού αρχίσω να διαλέγω από τις επιλογές και προσθέτοντας 2 ακόμα επιλογές(MALE and FEMALE) τελείωσα την άσκηση
  (Male\Female)<br/>
 ## ΠΑΡΑΔΟΤΕΟ 5ο
 __download mp3 using youtube-dl__</br>
@@ -85,29 +86,31 @@ __Notes using emacs__<br/>
 
 ## ΠΑΡΑΔΟΤΕΟ 11ο
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β1__</br>
-- [biography(Elisha Gray)](https://github.com/alexpoulis/site/blob/master/_biography/elisha-gray.md)</br>
-- [biography(Elisha Gray) netlify](https://5fe3519606732e000834e460--fervent-mccarthy-86201a.netlify.app/biography/elisha-gray/)</br>
+[biography(Elisha Gray)](https://github.com/alexpoulis/site/blob/master/_biography/elisha-gray.md)</br>
+[biography(Elisha Gray) netlify](https://5fe3519606732e000834e460--fervent-mccarthy-86201a.netlify.app/biography/elisha-gray/)</br>
+[netlify](https://5fe3519606732e000834e460--fervent-mccarthy-86201a.netlify.app/biography/)</br>
 
 __ΠΗΓΕΣ__</br>
-https://en.wikipedia.org/wiki/Graphics_tablet#History</br>
-https://en.wikipedia.org/wiki/Elisha_Gray</br>
-http://wiki.gis.com/wiki/index.php/Graphics_tablet</br>
-https://sites.google.com/site/tablets1991/home/a-brief-history-of-tablets</br>
+- https://en.wikipedia.org/wiki/Graphics_tablet#History</br>
+- https://en.wikipedia.org/wiki/Elisha_Gray</br>
+- http://wiki.gis.com/wiki/index.php/Graphics_tablet</br>
+- https://sites.google.com/site/tablets1991/home/a-brief-history-of-tablets</br>
 
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2__</br>
-- [case study(touch screen)](https://github.com/alexpoulis/site/blob/master/_case-study/touch-screen.md)</br>
-- [case study(touch screen) netlify](https://5fe38afe1875450007ee376a--fervent-mccarthy-86201a.netlify.app/case-study/)</br>  
+[case study(touch screen)](https://github.com/alexpoulis/site/blob/master/_case-study/touch-screen.md)</br>
+[case study(touch screen) netify](https://5fe38afe1875450007ee376a--fervent-mccarthy-86201a.netlify.app/case-study/touch-screen/)</br>
+[netlify cases study](https://5fe38afe1875450007ee376a--fervent-mccarthy-86201a.netlify.app/case-study/)</br>  
 
 __ΠΗΓΕΣ__</br>
-https://en.wikipedia.org/wiki/Touchscreen</br>
-https://en.wikipedia.org/wiki/E._A._Johnson</br>
-https://www.displays2go.com/Article/Touchscreens-Past-Present-Future-87</br>
-https://en.wikipedia.org/wiki/Resistive_touchscreen</br>
-https://el.wikipedia.org/wiki/Hewlett-Packard</br>
-https://en.wikipedia.org/wiki/Multi-touch</br>
-https://el.wikipedia.org/wiki/IBM</br>
-https://en.wikipedia.org/wiki/FingerWorks</br>
-https://www.google.com/search?sxsrf=ALeKk017i-Srqzk3XYhNadLOYd5lW0ga1w%3A1608745682984&ei=0oLjX_SuO4ORlwS514_ACg&q=multytou%CF%88h+gesture-based&oq=multytou%CF%88h+gesture-based&gs_lcp=CgZwc3ktYWIQAzoICAAQBxAeEBM6CggAEAcQChAeEBM6BAgAEBM6BggAEAcQHjoKCAAQCBAHEAoQHjoICAAQCBAHEB5QgilYg6gBYKWrAWgDcAB4AIABpgGIAc4SkgEEMC4xN5gBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwj0397X1OTtAhWDyIUKHbnrA6gQ4dUDCA0&uact=5</br>
+- https://en.wikipedia.org/wiki/Touchscreen</br>
+- https://en.wikipedia.org/wiki/E._A._Johnson</br>
+- https://www.displays2go.com/Article/Touchscreens-Past-Present-Future-87</br>
+- https://en.wikipedia.org/wiki/Resistive_touchscreen</br>
+- https://el.wikipedia.org/wiki/Hewlett-Packard</br>
+- https://en.wikipedia.org/wiki/Multi-touch</br>
+- https://el.wikipedia.org/wiki/IBM</br>
+- https://en.wikipedia.org/wiki/FingerWorks</br>
+- https://www.google.com/search?sxsrf=ALeKk017i-Srqzk3XYhNadLOYd5lW0ga1w%3A1608745682984&ei=0oLjX_SuO4ORlwS514_ACg&q=multytou%CF%88h+gesture-based&oq=multytou%CF%88h+gesture-based&gs_lcp=CgZwc3ktYWIQAzoICAAQBxAeEBM6CggAEAcQChAeEBM6BAgAEBM6BggAEAcQHjoKCAAQCBAHEAoQHjoICAAQCBAHEB5QgilYg6gBYKWrAWgDcAB4AIABpgGIAc4SkgEEMC4xN5gBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwj0397X1OTtAhWDyIUKHbnrA6gQ4dUDCA0&uact=5</br>
 
 
 
