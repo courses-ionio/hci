@@ -176,11 +176,11 @@
 
 Αφού εγκατέστησα το emacs, για να χρησιμοποιήσω το org mode δημιούργησα ένα αρχείο με την εντολή ***emacs 2016064notes.org*** 
 
-![alt text](https://drive.google.com/drive/u/2/folders/1u1eGbLqGFnzW2OWRBfVgN7J04bwE_MuB)
+https://drive.google.com/file/d/1KGwOnlsfXYp_u1-7KjKrzTGzMTNbgsj3/view?usp=sharing
 
 , όπου αυτό το αρχείο θα περιέχει τις σημειώσεις μου. Έπειτα άρχισα να δημιουργώ τις σημειώσεις μου. Η τελική τους μορφή είναι η εξής. 
 
-![alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1.png)
+https://drive.google.com/file/d/14UqK4fBS_fz3uC0Z0tQkvrEU8fgasQ6M/view?usp=sharing
 
 Για να φθάσω στην τελική μορφή χρσιμοποίησα τις εξής εντολές στην εφαρμογή emacs κατα το org mode:
 
@@ -235,37 +235,37 @@
 
 Για την ενσωμάτωση του status bar στο τερματικό και το vim χρησιμοποίησα το Powerline. Για την εγκατάσταση του Powerline χρησιμοποίησα το pip και συγκεκριμένα το pip3 λόγο ότι χρησιμοποιώ έκδοση python3, όπου το εγκατέστησα με τον παρακάτω τρόπο. 
 	
-![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1%20(1).png)
+https://drive.google.com/file/d/1e13VjcSImDaZLKAhcM005dz7kyvmHE7s/view?usp=sharing
 
 Στη συνέχεια εγκατέστησα το Powerline από το αποθετήριο στο Git με την βοήθεια του pip.
 
-![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1%20(2).png)
+https://drive.google.com/file/d/1KsDpfE_7oeo39W4INnQlVLlL4QtjVb4-/view?usp=sharing
 
 Έπειτα εγκατέστησα τις γραμματοσειρές που χρησιμοποιεί το Powerline και κατέβασα την τελευταία έκδοση τών συμβόλων γραμματοσειράς χρησιμοποιώντας τις ακόλουθες εντολές wget.
 
-![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1%20(4).png)
+https://drive.google.com/file/d/1LtUAnNwN3vkGUFF2QcgkzipyGbxr0oWm/view?usp=sharing
 
-![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1%20(5).png)
+https://drive.google.com/file/d/1oQmFunJ9Fcu4HWyexyV_0jwRxJH_y-5R/view?usp=sharing
 
 Όπου και τις ενσωμάτωσα  στο Directory γραμματοσειρών μου.
 
-![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1%20(6).png)
+https://drive.google.com/file/d/1p22O4vfNfNT68xpwWu5-PvvkwWC9UwUb/view?usp=sharing
 
 Ακόμη κατέβασα και το αρχείο config.
 
-![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_1%20(7).png)
+https://drive.google.com/file/d/1LaywqYVH28HGSiDylJ5oVob5zHc3gCry/view?usp=sharing
 
 Εν τέλη για να ενεργοποιήσω το Powerline για το τερματικό πρόσθεσα το παρακάτω κομμάτι κώδικα στο .basharc αρχείο μέσω του vim.
 
-![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_46.png)
+https://drive.google.com/file/d/1RyjC_jj6Esgh2_uRvYNsLYMYzI4TDYXv/view?usp=sharing
 	
-![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_45.png)
+https://drive.google.com/file/d/1NpAely66r1x3O-XzNbfJev2CDinU7NFy/view?usp=sharing
 
 Για την ενεργοποίηση του Powerline για το vim πρόσθεσα το παρακάτω κομμάτι κώδικα με τον ίδιο τρόπο στο vimrc αρχείο.
 
-![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_92.png)
+https://drive.google.com/file/d/13TtTA7la4RqSIVuXNg7s1PrP6dWapAV0/view?usp=sharing
 
-![Alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_95.png)
+https://drive.google.com/file/d/1AJvoD0-svkfP0aO8WTiXWnT9ge11h3iI/view?usp=sharing
 
 Οδηγίες για την πραγματοποίηση του παραδοτέου έλαβα από τις εξής πηγές
 - https://github.com/powerline/powerline
