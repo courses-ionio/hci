@@ -92,21 +92,21 @@
 
  [Εικόνα 1 :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_2g.png)
  
-[ipod_2g](https://drive.google.com/drive/folders/1SPzzSdVY5sLSuzmWqX25sG3wY4FXH2ac) 
+[ipod_2g](https://drive.google.com/file/d/1XuNICCb_7nM4R_wFDsfLvyEWejywo2_i/view?usp=sharing) 
 
  [Εικόνα 1 160px :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_2g-thumb.png)
  
- [ipod_2g-thumb](https://drive.google.com/drive/folders/1SPzzSdVY5sLSuzmWqX25sG3wY4FXH2ac)
+ [ipod_2g-thumb](https://drive.google.com/file/d/1F9qBwZUY27fWJ4usX2VJamnWeKEWAuqo/view?usp=sharing)
  
  
  [Εικόνα 2 :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_3g.png)
  
- [ipod_3g.png](https://drive.google.com/drive/folders/1SPzzSdVY5sLSuzmWqX25sG3wY4FXH2ac)
+ [ipod_3g.png](https://drive.google.com/file/d/1a5qIyw7RW65L5mOLHBLIFw1crCN0McSM/view?usp=sharing)
 
  
  [Εικόνα 2 160px :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_3g-thumb.png)
  
- [ipod_3g-thumb.png](https://drive.google.com/drive/folders/1SPzzSdVY5sLSuzmWqX25sG3wY4FXH2ac)
+ [ipod_3g-thumb.png](https://drive.google.com/file/d/1_U7z-HBP0y1JyCIkkBEbLDZG-w17tpD6/view?usp=sharing)
  
 ## Παραδοτέο 2 Α2 : Ένα σετ από Θεματικές Διαφάνειες και ένα Χρονολόγιο
 
@@ -144,10 +144,10 @@
 ## Organize your notes with emacs
 ## Emacs.org
 
-[emacs](https://drive.google.com/drive/folders/1SPzzSdVY5sLSuzmWqX25sG3wY4FXH2ac)
+[emacs](https://drive.google.com/file/d/1-3pj9WabSydHBBljj3GeBR-ZKVMVfjrN/view?usp=sharing)
 
 
-[emacs.org](https://drive.google.com/drive/folders/1SPzzSdVY5sLSuzmWqX25sG3wY4FXH2ac)
+[emacs.org](https://drive.google.com/file/d/1iF9VApF4ahJ8YWuVvYWTwB2o9mEMVmoG/view?usp=sharing)
 
 
 [Συνδεσμος Βιβλιογραφίας](https://www.gnu.org/software/emacs/)
