@@ -96,6 +96,7 @@
 ### Html Canvas Draw
 
   Πρόσθεσα ένα eventListen στο body και ένα κουμπί στην οθόνη τα οποία διαγράφουνε ότι ζωγραφίσαμε στον καμβά μας.
+  
 <img src="https://postimg.cc/Fd3nptqm/350549ff" width=200>
 
   Το αποτέλεσμα:
