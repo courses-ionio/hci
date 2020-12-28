@@ -82,7 +82,7 @@
    [Λινκ](https://asciinema.org/a/cvhxSgtnqsk1pi4BQ4QRNSRkB)
    
 ## Παραδοτέο 6ο, συμμετοχικό περιεχόμενο
-   Έκανα φορκ το pibook/images και πρόσθεσα 2 εικόνες σύμφωνα με τις οδηγίες.
+   Έκανα φορκ το pibook/images και πρόσθεσα 2 [εικόνες](https://github.com/Haki-Malai/images/commit/cc67740e3ff5d99beca0df1442fb921e29cb83c9) σύμφωνα με τις οδηγίες.
 ## Παραδοτέο 7ο
    
    **assignment**
