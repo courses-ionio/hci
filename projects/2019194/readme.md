@@ -65,8 +65,16 @@ Link για το αποθετήριο της ασκήσης: https://hci.ggramme
 Α1: [Tensorflow](https://hci.ggrammenos.com//gallery/tensorflow/) , [Pycharm]( https://hci.ggrammenos.com//gallery/pycharm-ide/)<br/>
 A2: [programming](https://hci.ggrammenos.com//slides/programming/) ,[Timeline](https://hci.ggrammenos.com//timeline/programming/)
 
+Στο συμμετοχικό περιεχόμενο επέλεγα 2 παρομοιότυπα θέματα σχετικά με τον διάδραση στον τομέα του προγραμματισμού.Συγεκριμένα  πιστεύω πως αξίζει να δοθεί έμφαση στο τρόπο που προγραμματίζουμε και κατασκευάζουμε λογισμικό , καθώς με τα τωρινά δεδομένα, ο τρόπος με τον οποίο θα υλοποιούμε αλγόριθμους και θα αλληλεπιδρούμε με τους υπολογιστές σαν προγραμματιστές θα αλλάξει ριζικά στο μέλλον.Για αυτον τον λόγο επέλεξα να μελετήσω την βιβλιοθήκη Tensorflow και το IDE Pycharm.
 
+### Λιγα λόγια για το Tensorflow
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/IB6D7jN" data-context="false" ><a href="//imgur.com/a/IB6D7jN">Tensorflow Logo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<br/>
 
+To tensorflow είναι μια βιβλιοθήκη στην γλώσσα python που επιτρέπει την αλληλεπίδραση  με άλγοριθμους τεχνητής νοημοσύνης.Σημερα χρησιμοποιήται τοσο σε ερευνιτικό επίπεδο όσο και σε επίπεδο παραγωγής.
+
+### Το Pycharm
+To pyhcarm είναι ενα IDE (intergrated development environment) εργαλείο για προγραμματισμό στην γλώσσα Python.Σχεδιαστικε απο την JetBrains και εχει γνωρίσει τέραστια επιτυχία τοσο η εμπορική του έκδοση όσο και η δωρεάν (Community Edition). Ο λόγος που γνώρισε τοσο μεγάλη επιτυχία είναι η ενσωματωση αλγορίθμων μηχανικής μάθησης στο autocomplete συστημα του IDE με αποτελεσμα την γρηγορη και ακριβης προβλεψη των εντολωνν που πληκτρολογεί ο προγραμματιστής.
 ## Eβδομαδα 7η
 
 Λυση: https://hci.ggrammenos.com/remix/form-validation/
