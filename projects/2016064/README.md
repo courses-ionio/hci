@@ -4,6 +4,10 @@
 
 # ΟΝΟΜ/ΜΟ: ΚΑΒΒΑΔΙΑΣ ΧΡΗΣΤΟΣ
 
+## [Αποθετήριο site](https://github.com/Kavvadias/site)
+
+## [Netlify site](https://kavvadias.netlify.app)
+
 ## Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων
 
 | Εβδομάδα | Παραδοτέο |
