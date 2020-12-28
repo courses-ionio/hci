@@ -19,7 +19,7 @@
 | 9 | [4η Άσκηση προγραμματισμού Menu pie](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#4%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D) |
 | 10 | [4η Άσκηση γραμμής εντολών](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#4%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
 | 11 | [Συμμετοχικό περιεχόμενο](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2) |
-| 12 | Τελική αναφορά* |
+| 12 | [Συμπεράσματα]() |
 
 
 
@@ -290,3 +290,11 @@ https://kavvadias.netlify.app/biography/
 - https://www.historyofinformation.com/detail.php?entryid=2086
 - https://en.wikipedia.org/wiki/Ralph_Benjamin
 - https://www.telegraph.co.uk/obituaries/2019/06/10/professor-ralph-benjamin-eminent-electronic-engineer-advised/
+
+
+## Συμπεράσματα
+
+Φθάνοντας στην τελευταία εβδομάδα του μαθήματος μπορώ να πω ότι οι προσδοκίες μου για το μάθημα εκπληρώθηκαν σε μεγάλο βαθμό. Αφου κατανόησα την χρήση του εργαλείου Github μέσω των οδηγιών της χρήσης του, της συμμετοχής μου σε απορίες στην ώρα του μαθήματος αλλά και της προσπάθειας μου να εκπληρώσω τα ζητούμενα των παραδοτέων. Απο την υλοποίηση των ζητουμένων των παραδοτέων διδάχτικα αρκετές λειτουργίες στο τερματικό που ήταν άγνωστες για μένα. Επίσης γνώρισα αρκετά πράγματα και λειτουργίες  για τις γλώσσες προγραμματισμού CSS, JavaScript και HTML όπου βοηθούν στην σχεδίαση της διάδρασης, αλλά και μέσω της δημιουργίας της αναφοράς γνώρισα την γλώσσα Markdown και τα εργαλεία Netlify, CodePen και Asciinema. Τέλος μέσω της θεωρίας, των ζωντανών ερωτήσεων  αλλά και των βίντεο Quiz, διδάχτηκα την ιστορία των μέσων αλληλεπίδρασης των ανθρώπων με τους υπολογιστές και δέχτηκα αρκετές γνώσεις στον τομέα αυτό. 
+
+Συμπληρώνοντας η μόνη διαδικασία που δεν κατάφερα να υλοποιήσω απόλυτα είναι η χρήση των submodules. 
+
