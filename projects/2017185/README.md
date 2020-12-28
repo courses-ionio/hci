@@ -60,9 +60,18 @@
    [Λινκ](https://asciinema.org/a/379107)
    
 ## Παραδοτέο 4ο, 2η Άσκηση προγραμματισμού
-   See the Pen [Image processing-Παραδοτέο 4ο(2017185)](https://codepen.io/haki-malai/pen/yLJjmba) by Χακί Μάλαϊ ([@haki-malai](https://codepen.io/haki-malai)) on [CodePen](https://codepen.io/).
    
-   https://github.com/Haki-Malai/site/edit/master/_remix/image-filter.md
+   Για το παραδοτέο αυτό επέλεξα μία σχετικά εύκολη άσκηση.
+   Το αποτέλεσμα είναι το εξής:
+   <p align="center">
+<img src="https://i.postimg.cc/0QpDvysn/ezgif-com-gif-maker-11.gif" width=500>
+ <p/>
+ 
+   ### Τα λινκ:
+ 
+   [Image-Processing](https://codepen.io/haki-malai/pen/yLJjmba)
+   
+   [git](https://github.com/Haki-Malai/site/edit/master/_remix/image-filter.md)
    
 ## Παραδοτέο 5ο, 2η Άσκηση γραμμής εντολών
   **assignments**
@@ -84,8 +93,21 @@
    
  [λινκ](https://asciinema.org/a/379194)
 ## Παραδοτέο 8ο, 3η Άσκηση προγραμματισμού
-   See the Pen [Html Canvas Draw](https://codepen.io/haki-malai/pen/wvzagrw) by Χακί Μάλαϊ ([@haki-malai](https://codepen.io/haki-malai)) on [CodePen](https://codepen.io/).
 
+### Html Canvas Draw
+
+  Πρόσθεσα ένα κουμπί στην οθόνη το οποίο διαγράφει ότι ζωγραφίσαμε στον καμβά μας.
+<img src="https://postimg.cc/Fd3nptqm/350549ff" width=200>
+
+  Το αποτέλεσμα:
+  
+<img src="https://i.postimg.cc/0QpDvysn/ezgif-com-gif-maker-11.gif" width=500>
+
+   ### Τα λινκ:
+ 
+   [Html Canvas Draw](https://codepen.io/haki-malai/pen/wvzagrw)
+   
+   [git]()
 ## Παραδοτέο 9ο, 4η 'Ασκηση γραμμής εντολών
 
   **assingment**
@@ -225,3 +247,8 @@ To [λινκ](https://codepen.io/haki-malai/pen/BaLWqMb)
 Δεν πρόσθεσα gif γιατί το λογισμικό είχε θέμα στο resize και το έκοβε.
 
 Το [λινκ](https://codepen.io/haki-malai/pen/bGwqQod)
+
+## Τελική αναφορά
+
+Επιτέλους τελείωσε και αυτή η εργασία, είμαι πολύ ευχαριστημένος με τις γνώσεις που απέκτησα. Πλέον μπορώ να αξιοποιώ σε ικανοποιητικό βαθμό την πλατφόρμα του github, τον terminal του λογισμμικού linux, την γλώσσα ππρογραμματισμού java-script, την γλώσσα σήμανσης ιστοσελιδών html και την γλώσσα μορφοποίησης css. Δοκιμάστηκαν οι ικανότητες μου επίλυσης και αναγνώρησης προβλημάτων σε μεγάλο βαθμό. Ελπίζω να πετύχω στην βαθμολογία του μαθήματος.
+
