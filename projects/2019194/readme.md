@@ -21,6 +21,10 @@
 | 12 | Τελική αναφορά* |
 
 
+## Ολες οι ασκήσεις βρίσκονται στο https://hci.ggrammenos.com
+
+
+<br/>
 
 ## Εδβομάδα 1η
 
@@ -34,7 +38,7 @@ Link για το αποθετήριο της άσκησης : https://codepen.io
 
 Για την υλοποιήση της άσκησης συντάγθηκε μια συνάρτηση σε Javascript οπου δέχεται ως παράμετρο την κατάσταση του input box απο το html αρχειο.Η συναρτηση καλείται μέσα στο input tag με την "onchange" επιλογη.Στην συνέχεια η συνάρτηση  ελέγχει την κατάσταση του input πεδίου.Αν η κατάσταση  checked είναι true τότε ο διακόπτης ειναι στην κατάσταση 'ΟΝ' , άρα παράγεται το μήνυμα 'Lights ON'.Αν η κατάσταση checked ειναι false τότε ο διακόπτης είναι στην κατάσταση 'OFF', άρα παράγεται το μήνυμα 'Lights OFF'.
 
-Είχα ήδη εμπειρία με το με το web development συνεπώς δεν χρείαστηκε να χρησιμοποιήσω κάποια εξωτερική πηγή 
+Είχα ήδη εμπειρία με το με το web development(ReactJS) συνεπώς δεν χρείαστηκε να χρησιμοποιήσω κάποια εξωτερική πηγή 
 
 
 ## Εβδομαδα 3η
@@ -46,15 +50,21 @@ Link asciinema : https://asciinema.org/a/368120
 
 Link για το αποθετήριο της ασκήσης: https://hci.ggrammenos.com/remix/sortable-list/
 
-
+Για την υλοποιήση αυτης της άσκησης χρειάστηκε η επεξεργασία του αρχείου CSS τoυ web interface χωρις να χρείαστει αλλαγές το HTML και JS κομμάτι.Για την ολοκλήρωση της άσκησης χρειάστηκες να αλλάξω τις τιμές του padding και background-color καθώς και να προσθέσω την τιμή margin-bottom ώστε να αλλάξει η απόσταση μεταξύ των αντικειμένων
 
 ## Εβδομαδα 5η
 
-https://asciinema.org/a/Lj6yjS3zcgLrx3lNMFa54gOn4
+[Link για την ασκηση ](https://asciinema.org/a/Lj6yjS3zcgLrx3lNMFa54gOn4)
+[![asciicast](https://asciinema.org/a/371715.svg)](https://asciinema.org/a/371715)
+
+Για την υλοποιήση της άσκησης χρησιμοιηθηκε το TMUX Terminal Multiplexer που επιτρέπει πολλαπλές διεπαφές με το τερματικο των Linux/UNIX στο ιδιο παράθυρο.Για την χρήση του TMUX ανέτρεξα στο Documentation του εργαλείου οπου και αναφέρονται λεπτομερώς ολά τα απαραίτητα shortcuts για το ανοιγμα,κλεισιμο και την ενναλαγη απο session σε session του Τερματικου.Στο αριστερο session επεξεργάστηκα με τον nano editor ενα αρχείο που περιεχεί την δομή ενως deep learning μοντέλου(προσωπικό project).Στο δεξί session έτρεξα το glances οπως αναφέρει η εκφώνηση της άσκησης.
+
 
 ## Εβδομαδα 6η
 
-Α: https://github.com/makisgrammenos/_gallery
+Α1: [Tensorflow](https://hci.ggrammenos.com//gallery/tensorflow/) , [Pycharm]( https://hci.ggrammenos.com//gallery/pycharm-ide/)<br/>
+A2: [programming](https://hci.ggrammenos.com//slides/programming/) ,[Timeline](https://hci.ggrammenos.com//timeline/programming/)
+
 
 
 ## Eβδομαδα 7η
