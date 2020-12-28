@@ -136,10 +136,10 @@ Asciinema Link: https://asciinema.org/a/379309
 
 Για την υλοποίηση της αναφοράς και την επίληση όλων των ασκήσεων προγραμματισμού αλλά και γραμμής εντολών, έλαβα βοήθεια απο τα παρακάτω site:
 
-Udemy \n
-GeeksForGeeks \n
-Stackoverflow \n
-W3Schools \n
-Reddit (σε ανάλογα subreddits) \n
-Github (μέσω ερωτήσεων των χρηστών) \n
+Udemy <br/>
+GeeksForGeeks <br/>
+Stackoverflow <br/><br/>
+W3Schools <br/>
+Reddit (σε ανάλογα subreddits) <br/>
+Github (μέσω ερωτήσεων των χρηστών) <br/>
 καθώς και βίντεο tutorial στο youtube
