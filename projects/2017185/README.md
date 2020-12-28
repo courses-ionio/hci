@@ -95,18 +95,18 @@
 
 ### Html Canvas Draw
 
-  Πρόσθεσα ένα κουμπί στην οθόνη το οποίο διαγράφει ότι ζωγραφίσαμε στον καμβά μας.
+  Πρόσθεσα ένα eventListen στο body και ένα κουμπί στην οθόνη τα οποία διαγράφουνε ότι ζωγραφίσαμε στον καμβά μας.
 <img src="https://postimg.cc/Fd3nptqm/350549ff" width=200>
 
   Το αποτέλεσμα:
   
-<img src="https://i.postimg.cc/0QpDvysn/ezgif-com-gif-maker-11.gif" width=500>
+<img src="https://i.postimg.cc/9fvXpdsg/ezgif-com-gif-maker-12.gif" width=500>
 
    ### Τα λινκ:
  
    [Html Canvas Draw](https://codepen.io/haki-malai/pen/wvzagrw)
    
-   [git]()
+   [git](https://github.com/Haki-Malai/site/blob/master/_remix/mouse-draw.md)
 ## Παραδοτέο 9ο, 4η 'Ασκηση γραμμής εντολών
 
   **assingment**
