@@ -30,13 +30,13 @@
 ## Παραδοτέο 2ο, 1η Άσκηση προγραμματισμού
  Ως δεύτερο παραδοτέο επέλεξα το Calculator.
    Έχοντας μηδενικές γνώσεις στην γλώσσα προγραμματισμού javascript και στην γλώσσα html το παραδοτέο αυτό ήταν μια καλή δοκιμή. Με την εκμάθηση των βασικών λειτουργιών του κώδικα, λοιπόν, συνειδητοποίησα ότι πρέπει να προσθέσω ένα html element και το έκανα γράφοντας αυτό στο html5 κώδικα:
-   <p align="center">
+
 <img src="https://i.postimg.cc/Z5ZzRrb4/Id-Apotelesmata.png" width=500>
- <p/>
+ 
  'Υστερα με την βοήθεια του [Stackoverflow](https://stackoverflow.com/questions/2554149/html-javascript-change-div-content), για την προσθήκη του καινούριων αποτελεσμάτων πρόσθεσα στο κώδικα του javascript, και πιο συγκεκριμένα στο function του κουμπιού equal το παρακάτω:
-      <p align="center">
+
 <img src="https://i.postimg.cc/pTKBpnXM/Apotesmata-Inner-Html.png" width=500>
- <p/>
+
   Πλέον τα αποτελέσματα εμφανίζονται στην γωνία της οθόνης. Θα μπορούσα και καλύτερα αλλά με σύγκριση τις γνώσεις που έχω τώρα είμαι ευχαριστημένος με το αποτέλεσμα.
   <p align="center">
 <img src="https://i.postimg.cc/Kjwcw4B4/Apot.png" width=250>
@@ -63,9 +63,9 @@
    
    Για το παραδοτέο αυτό επέλεξα μία σχετικά εύκολη άσκηση.
    Το αποτέλεσμα είναι το εξής:
-   <p align="center">
+
 <img src="https://i.postimg.cc/0QpDvysn/ezgif-com-gif-maker-11.gif" width=500>
- <p/>
+
  
    ### Τα λινκ:
  
@@ -125,56 +125,53 @@
 ## Button
  Πρόσθεσα πράσσινο φωτισμό και γράμματα που σε επιβραδεύουν όταν πατάς το κουμπί.
  Στο HTML πρόσθεσα:
- <p align="center">
+
 <img src="https://i.postimg.cc/W3yMJNtk/divs.png" width=500>
- <p/>
+
 Στο SCSS:
- <p align="center">
+
 <img src="https://i.postimg.cc/bJSRgD7T/css.png" width=500>
- <p/>
-<p align="center">
+
 <img src="https://i.postimg.cc/rwqQTp4V/Screenshot-2.png" width=300>
- <p/>
+
  Και το java-script το μετέτρεψα σε:
-<p align="center">
+ 
 <img src="https://i.postimg.cc/Kv257YJP/Screenshot-3.png" width=300>
- <p/>
+
  To τελικό αποτέλεσμα:
-<p align="center">
+ 
 <img src="https://i.postimg.cc/JnYQc3Yt/ezgif-com-gif-maker-4.gif" width=300>
- <p/>
  
 ## To [λινκ](https://codepen.io/haki-malai/pen/LYRxrde)
 
 ## Switch
 
 Στο HTML πρόσθεσα:
- <p align="center">
+
 <img src="https://i.postimg.cc/Bb01FM2x/lighton.png" width=500>
- <p/>
+
 Στο SCSS:
- <p align="center">
+
 <img src="https://i.postimg.cc/Y26F7Bw8/css.png" width=300>
- <p/>
-<p align="center">
+
 <img src="https://i.postimg.cc/rwqQTp4V/Screenshot-2.png" width=300>
- <p/>
+
  Και πρόσθεσα java-script:
-<p align="center">
+
 <img src="https://i.postimg.cc/Gm58Kck3/js.png" width=350>
- <p/>
+
  To τελικό αποτέλεσμα:
-<p align="center">
+
 <img src="https://i.postimg.cc/JnczfmBk/ezgif-com-gif-maker-5.gif" width=400>
- <p/>
+
  
 ## To [λινκ](https://codepen.io/haki-malai/pen/MWjJBWp)
 
 ## Mouse Eraser
 Το αποτέλεσμα:
-<p align="center">
+
 <img src="https://i.postimg.cc/RFVwpPW4/ezgif-com-gif-maker-6.gif" width=400>
- <p/>
+
  
 Το [λινκ](https://codepen.io/haki-malai/pen/yLagqgX)
 
@@ -182,62 +179,61 @@
 Καταρχάς θα ήθελα να κάνω την παρατήρηση ότι για κάποιο λόγο δεν μου εμφανίζεται το αμαξάκι σε browser chrome. 'Ομως το άνοιξα και σε firefox στο οποίο δούλεψε κανονικά!
 
 Άσκηση 1: Απλό ζητούμενο, με μία ματιά στον κώδικα βρίκα την γραμμή στην οποία πέρνουμε το input του χρήστη και απλά άλλαξα κατα μισό την τιμή του dy εκεί που πρόκειτε για το keyCode = 40 που είναι το κάτω βελάκι. Επίσης πρόσθεσα τα κουμπιά awsd και τα αντίστοιχα σε κεφαλαία και ελληνικά ως input.
-<p align="center">
+
 <img src="https://i.postimg.cc/XNpR1Qmh/jscar.png" width=400>
- <p/>
+
 Το αποτέλεσμα:
-<p align="center">
+
 <img src="https://i.postimg.cc/bwHWSMSG/ezgif-com-gif-maker-7.gif" width=400>
- <p/>
+
  
  Άσκηση 2: Δυσκολούτσικο, και μη έχοντας εμπειρία από καμβάδες δυσκολεύτικα στην κατανόηση του προγράμματος...Με λίγη μελέτη όμως έκανα την εξής αλλαγή:
- <p align="center">
+
 <img src="https://i.postimg.cc/PJwFXFk5/jscar2.png" width=400>
- <p/>
+
  Με αποτέλεσμα:
-  <p align="center">
+
 <img src="https://i.postimg.cc/ncK03mFg/ezgif-com-gif-maker-8.gif" width=600>
- <p/>
+
  
 [Το λινκ](https://codepen.io/haki-malai/pen/OJRpROj)
 
 ## Camera motion color
 
 Καταρχάς ο κώδικας είχε ένα θεματάκι και εμφάνιζε το παρακάτω error:
-<p align="center">
+
 <img src="https://i.postimg.cc/WbxDdkNd/Error.png" width=600>
- <p/>
+
 
 Με λίγη μελέτη όμως, έμαθα ότι το "createObjectURL" έχει καταργηθεί για τους browser Google Chrome και Firefox (https://stackoverflow.com/questions/27120757/failed-to-execute-createobjecturl-on-url). Και για να δουλέψει πρόσθεσα την μεταβλητή var = stream και άλλαξα το εξής:
-<p align="center">
+
 <img src="https://i.postimg.cc/sDzjq4g9/Stream.png" width=500>
- <p/>
+
 Υστερα, για να εκλπληρώσω το ζητούμενο της άσκησης μετέτρεψα τον κώδικα στο να αλλάζει χρώμα σε κόκκινο (rgb 240,0,0) αντί σε τυχαίο.
-<p align="center">
+
 <img src="https://i.postimg.cc/sDx6VtxV/red.png" width=500>
- <p/>
+
 Και το τελικό αποτέλεσμα είναι το εξής:
-<p align="center">
+
 <img src="https://i.postimg.cc/y8BPbd5r/ezgif-com-gif-maker-9.gif" width=500>
- <p/>
  
 Το [λινκ](https://codepen.io/haki-malai/pen/bGwqxBR?editors=1111)
 
 ## Camera motion
 
 Αναγκάστηκα πάλι να ξανααλλάξω τον κώδικα όπως παραπάνω. Για την επίλυση του προβλήματος έφτιαξα την παρακάτω συνάρτηση:
-<p align="center">
+
 <img src="https://i.postimg.cc/zDsxY53K/change-Message-Def.png" width=500>
- <p/>
+
 Την οποία την κάνω call εδώ:
-<p align="center">
+
 <img src="https://i.postimg.cc/0NXCW1L6/change-Message.png" width=500>
- <p/>
+
 
 Με αποτέλεσμα:
-<p align="center">
+
 <img src="https://i.postimg.cc/pXBzctj2/ezgif-com-gif-maker-10.gif" width=500>
- <p/>
+
  
 To [λινκ](https://codepen.io/haki-malai/pen/BaLWqMb)
 
