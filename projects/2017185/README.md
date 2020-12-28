@@ -83,7 +83,8 @@
    
 ## Παραδοτέο 6ο, συμμετοχικό περιεχόμενο
    Έκανα φορκ το pibook/images και πρόσθεσα 2 [εικόνες](https://github.com/Haki-Malai/images/commit/cc67740e3ff5d99beca0df1442fb921e29cb83c9) σύμφωνα με τις οδηγίες.
-## Παραδοτέο 7ο
+   
+## Παραδοτέο 7ο, 3η 'Ασκηση γραμμής εντολών
    
    **assignment**
    organize your notes with emacs
