@@ -48,16 +48,16 @@ Asciinema link: https://asciinema.org/a/368186
 
 ## Menu Scroll
 
-![menuscroll](https://i.imgur.com/YsVktD4.gif)
-
 Στην άσκηση αυτή προστέθηκε ένα ακόμα section με δικό της κείμενο, καθώς και η αντίστοιχη επιλογή στην μπάρα περιήγισης που κάνει scroll στο εκάτσοτε section. Ακόμη, στο τέλος της σελίδας τοποθετίθηκε ένα κουμπί back to top το οποίο επιστρέφει τον χρήστη στην κορυφή της σελίδας. Όλα αυτά δημιουργήθηκαν στην HTML, τροποποιήθηκε η εμφάνισή τους με CSS και πραγματοποιούντε οι λειτουργίες τους με την βοήθεια της javascript.
 
-Link άσκησης στο codepen: https://codepen.io/p2019033/pen/MWeQMZJ <br>
-Link στο github (remix): https://github.com/Tsimpliarakis/site/blob/master/_remix/menu-scroll.md
+![menuscroll](https://i.imgur.com/YsVktD4.gif)
+
+Link άσκησης στο Netlify: https://hci-p2019033.netlify.app/remix/menu-scroll/
 
 ## Organise the terminal window into multiple areas
 
-Στην συγκεκριμένη άσκηση έπρεπε να οργανωθεί το τέρμιναλ σε 2 (ή και περισσότερα) παράθυρα. Στο 1ο θα εμφανίζεται με το εργαλείο glances τα resources που χρησιμοποιεί ο υπολογιστής εκείνη την στιγμή, ενώ στο άλλο παράθυρο 
+Στην συγκεκριμένη άσκηση έπρεπε να οργανωθεί το τέρμιναλ σε 2 (ή και περισσότερα) παράθυρα. Στο 1ο θα εμφανίζεται με το εργαλείο glances τα resources που χρησιμοποιεί ο υπολογιστής εκείνη την στιγμή, ενώ στο άλλο παράθυρο γίνεται περιήγηση στο διαδίκτυο μέσω του w3m.
+
 Asciinema link: https://asciinema.org/a/371655
 
 ## Συμμετοχικό Περιεχόμενο 
