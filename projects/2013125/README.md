@@ -87,13 +87,27 @@
 ## Παραδοτέο 6
 ## Συμμετοχικό Περιερχόμενο Α1,Α2
 ## [Site](https://p13giag.netlify.app/)
-## Παραδοτέο 1 Α1 : Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση π.χ., apple mouse
+## Παραδοτέο 1 Α1 : Δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση π.χ., apipod_2gouse
+
 
  [Εικόνα 1 :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_2g.png)
+ 
+![](ipod_2g.png) 
+
  [Εικόνα 1 160px :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_2g-thumb.png)
  
+ ![](ipod_2g-thumb.png)
+ 
+ 
  [Εικόνα 2 :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_3g.png)
+ 
+ ![](ipod_3g.png)
+
+ 
  [Εικόνα 2 160px :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_3g-thumb.png)
+ 
+ ![](ipod_3g-thumb.png)
+ 
 ## Παραδοτέο 2 Α2 : Ένα σετ από Θεματικές Διαφάνειες και ένα Χρονολόγιο
 
 [Θεματικές Διαφάνειες](https://github.com/p13giag/site/blob/2013125/_slides/ipod.md)
