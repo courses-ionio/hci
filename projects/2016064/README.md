@@ -176,7 +176,7 @@
 
 Αφού εγκατέστησα το emacs, για να χρησιμοποιήσω το org mode δημιούργησα ένα αρχείο με την εντολή ***emacs 2016064notes.org*** 
 
-![alt text](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/Screenshot_2.png)
+![alt text](https://drive.google.com/drive/u/2/folders/1u1eGbLqGFnzW2OWRBfVgN7J04bwE_MuB)
 
 , όπου αυτό το αρχείο θα περιέχει τις σημειώσεις μου. Έπειτα άρχισα να δημιουργώ τις σημειώσεις μου. Η τελική τους μορφή είναι η εξής. 
 
