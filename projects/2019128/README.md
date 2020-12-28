@@ -34,6 +34,7 @@ __ΕΙΣΑΓΩΓΗ__</br>
 __Κώδικας για το button__<br/>
 [button](https://github.com/alexpoulis/site/blob/master/_remix/button.md)</br>
 [button netlify](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/button/)<br/>
+[button codepen](https://codepen.io/AlexPoulis/pen/WNxxPKV)</br>
 Το μόνο πρόβλημα που αντιμετώπισα ήταν ότι δεν πάτησα «edit on codepen» και έκανα copy paste τον κώδικα, κάτι που φαίνεται σε συνδυασμό με κάποιο bug υποθέτω, μου έκανε το οτιδήποτε έγραφα να μην δουλεύει . Για να σιγουρευτώ ότι δεν έκανα κάποιο λάθος εγώ, αντέγραψα έναν κώδικα από μία ιστοσελίδα( ο κώδικας δεν είχε σχέση με τον κώδικα button) και δεν δούλεψε πάλι κάτι που με έκανε να το ψάξω λίγο ακόμα και να βρω το κουμπί «edit on  codepen» που έκανε τον κώδικα να δουλεύει και αντικαθιστώντας το # με το link( στην συγκεκριμένη περίπτωση ενός βίντεο) στην δέυτερη γραμμή του HTML κώδικα τελείωσα την άσκηση. .</br>
 [Το βίντεο που συμβουλευτικά για τον 2ο παραδοτέο](https://www.youtube.com/watch?v=UB1O30fR-EE&t=1516s)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για τον 2ο παραδοτέο](https://www.w3schools.com/html/html_colors.asp)<br/>
@@ -51,15 +52,16 @@ __main dependencies and demonstration of my base system__<br/>
 __Κώδικας για το mouse form__<br/>
 [mouse form]()</br>
 [mouse form netlify](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-form/)</br>
+[mouse form codepen](https://codepen.io/AlexPoulis/pen/ZEOodVb)</br>
 Στην άσκηση αυτή δεν χρειάστηκα να συμβουλευτώ κάποια ιστοσελίδα καθώς κοιτάζοντας τον κώδικα HTML κατάλαβα τον πως θα την κάνω( παρόλο ότι δεν έχω ασχοληθεί πολύ με HTML). Αυτό που έκανα είναι να φτιάξω ένα καινούργιο label ονομαζόμενο GENDER και κάνοντας την πρώτη επιλογή να γίνεται disabled αφού αρχίσω να διαλέγω από τις επιλογές και προσθέτοντας 2 ακόμα επιλογές(MALE and FEMALE) τελείωσα την άσκηση
  (Male\Female)<br/>
 ## ΠΑΡΑΔΟΤΕΟ 5ο
 __download mp3 using youtube-dl__</br>
 [youtube-dl](https://asciinema.org/a/d32tjGtGzWHCzuwjgGEKzveBF)</br>
-Για να [κατεβάσω](https://github.com/ytdl-org/youtube-dl) το youtube-dl χρησιμοποίησα τα commands _sudo wget http://yt-dl.org/downloads/lates/youtube-dl -O /usr/local/bin/youtube-dl και _sudo chmod a+rx /urs/local/bin/youtube-dl_. Το μόνο πρόβλημα που αντιμετώπισα είναι το να μην μπορώ να βρω κάποιο command από το youtube-dl που να παίζει το τραγούδι από τον υπολογιστή αλλά βρήκα command που να το παίζει από το youtube με το link του.
+Για να [κατεβάσω](https://github.com/ytdl-org/youtube-dl) το youtube-dl χρησιμοποίησα τα commands _sudo wget http://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl και _sudo chmod a+rx /urs/local/bin/youtube-dl_. Το μόνο πρόβλημα που αντιμετώπισα είναι το να μην μπορώ να βρω κάποιο command από το youtube-dl που να παίζει το τραγούδι από τον υπολογιστή αλλά βρήκα command που να το παίζει από το youtube με το link του.
 ## ΠΑΡΑΔΟΤΕΟ 6ο
-__ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ A1__</br>
 Όσο αναφορά συμμετοχικό περιεχόμενο το μόνο που έχω να σημειώσω είναι ότι καθώς δεν είχα την παραμικρή ιδέα του πως δουλεύουνε τα submodules ξόδεψα ατέλειωτες ώρες προσπαθώντας να βρω το πώς να τα κάνω update, αλλά κυριότερα το πώς να αλλάξω το repository από το οποίο θα τα κάνω και update. Και το δεύτερο πρόβλημα που συνάντησα ήταν το ότι καθώς δεν έχω ασχοληθεί στο παρελθόν με ότι αφορά το licensing δεν ήμουνα σίγουρος το πώς θα πρέπει να κάνω credit τους creators. </br>
+__ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ A1__</br>
 - images: [digitizer](https://github.com/alexpoulis/images/blob/5b6129514388e7366506bf1696d59f4d2921e0b4/wacom-tablet.png), [touch screen](https://github.com/alexpoulis/images/blob/5b6129514388e7366506bf1696d59f4d2921e0b4/touch-screen.jpg).
 - gallery: [digitizer](https://github.com/alexpoulis/_gallery/blob/23fe3e086b632f5b0ca1ba12b7d7bba8cced770b/drawing-tablet.md), [touch screen](https://github.com/alexpoulis/_gallery/blob/23fe3e086b632f5b0ca1ba12b7d7bba8cced770b/touch-screen.md), [digitizer netlify](https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/gallery/drawing-tablet/), [touch screen netlify](https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/gallery/touch-screen/).</br>
 
@@ -69,7 +71,10 @@ __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ A2__</br>
 
 ## ΠΑΡΑΔΟΤΕΟ 7ο
 __Κώδικας για το mouse option__<br/>
-[mouse option](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-option/)<br/>
+[mouse option](https://github.com/alexpoulis/site/blob/master/_remix/mouse-option.md)</br>
+[mouse option netlify](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-option/)<br/>
+[mouse option codepen](https://codepen.io/AlexPoulis/pen/eYzqVZv)</br>
+ Αφού συμβουλεύτηκα την παρακάτω ιστοσελίδα και μελετώντας τον κώδικα που μας δόθηκε δημιούργησα μία 3η επιλογή με τον ίδιο τρόπο που έγινε και παραπάνω αντικαθιστώντας το κείμενο που εμφανιζόταν στις επιλογές 1 και 2 με μία εικόνα.
 <br/>
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω βάλω την εικόνα](https://www.w3schools.com/html/html_images.asp)<br/>
  
@@ -80,7 +85,7 @@ __Κώδικας για το image__</br>
 ## ΠΑΡΑΔΟΤΕΟ 10ο
 __Notes using emacs__<br/>
 [emacs](https://asciinema.org/a/4p4TDVjLERh3HJ3nRlICVYHnk)<br/>
-Η μόνη δυσκολία που συνάντησα στο παραδοτέο ήταν το να βρω πώς να ανοίξω το emacs μέσο του terminal καθώς με την εντολή emacs ανοίγει καινούργιο παράθυρο το οποίο δεν εμφανίζεται στο βίντεο του asciinema.<br/>
+Την άσκηση αυτή την βρήκα πολύ εύκολη και η μόνη δυσκολία που συνάντησα στο παραδοτέο ήταν το να βρω πώς να ανοίξω το emacs μέσο του terminal( το command είναι _emacs -nw_), καθώς με την εντολή emacs ανοίγει καινούργιο παράθυρο το οποίο δεν εμφανιζόταν στο βίντεο του asciinema. Στην άσκηση νόμιζα ότι απλά ήθελε να ανοίξουμε το emacs κάτι που μου φάνηκε περίεργο αλλά επειδή μου πίρε πολλές ώρες να βρω το command _emacs –nw_  δεν το πολυσκέφτηκα, μετά από μία συζήτηση με έναν συμφοιτητή μου συνειδητοποίησα ότι θέλατε να δείξουμε και το ότι μπορούμε να κάνουμε και σημειώσεις κάτι που συνειδητοποίησα πολύ αργά για να μπορώ να το διορθώσω.<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως κλείσω το emacs file](https://stackoverflow.com/questions/55485863/how-to-exit-emacs-text-editor-in-ubuntu-terminal/55488766)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως ανοίξω το emacs file](https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως να κάνω install το emacs](https://linuxhint.com/ubuntu_emacs_installation/)<br/>
