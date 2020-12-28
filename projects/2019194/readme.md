@@ -68,20 +68,26 @@ A2: [programming](https://hci.ggrammenos.com//slides/programming/) ,[Timeline](h
 Στο συμμετοχικό περιεχόμενο επέλεγα 2 παρομοιότυπα θέματα σχετικά με τον διάδραση στον τομέα του προγραμματισμού.Συγεκριμένα  πιστεύω πως αξίζει να δοθεί έμφαση στο τρόπο που προγραμματίζουμε και κατασκευάζουμε λογισμικό , καθώς με τα τωρινά δεδομένα, ο τρόπος με τον οποίο θα υλοποιούμε αλγόριθμους και θα αλληλεπιδρούμε με τους υπολογιστές σαν προγραμματιστές θα αλλάξει ριζικά στο μέλλον.Για αυτον τον λόγο επέλεξα να μελετήσω την βιβλιοθήκη Tensorflow και το IDE Pycharm.
 
 ### Λιγα λόγια για το Tensorflow
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/IB6D7jN" data-context="false" ><a href="//imgur.com/a/IB6D7jN">Tensorflow Logo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<br/>
+![tensorflow_logo](https://i.imgur.com/f9UpIjG.png)
 
 To tensorflow είναι μια βιβλιοθήκη στην γλώσσα python που επιτρέπει την αλληλεπίδραση  με άλγοριθμους τεχνητής νοημοσύνης.Σημερα χρησιμοποιήται τοσο σε ερευνιτικό επίπεδο όσο και σε επίπεδο παραγωγής.
 
 ### Το Pycharm
 To pyhcarm είναι ενα IDE (intergrated development environment) εργαλείο για προγραμματισμό στην γλώσσα Python.Σχεδιαστικε απο την JetBrains και εχει γνωρίσει τέραστια επιτυχία τοσο η εμπορική του έκδοση όσο και η δωρεάν (Community Edition). Ο λόγος που γνώρισε τοσο μεγάλη επιτυχία είναι η ενσωματωση αλγορίθμων μηχανικής μάθησης στο autocomplete συστημα του IDE με αποτελεσμα την γρηγορη και ακριβης προβλεψη των εντολωνν που πληκτρολογεί ο προγραμματιστής.
+
 ## Eβδομαδα 7η
 
-Λυση: https://hci.ggrammenos.com/remix/form-validation/
+Λυση: https://hci.ggrammenos.com/remix/form-validation/ <br/>
+Την εδβομάδα αυτη κλήθηκα να παραμετροποιήσω την φορμα που παραθέτει η παραπάνω άσκηση.Συγκεκρίμενα χρείαστικε να προσθέσω  πεδία (input) για email, αριθμό πιστωτικής κάρτας,και αριθμό τηλεφώνου.
+Για την προσθήκη των πεδίων χρείαστηκε η χρήση απλής HTML με παραμετρο των tags το pattern που καθορίζει το αποδεκτό μοτιβό του στοιχείου που εισάγει ο χρήστης 
+
+Για τον τρόπο λειτουργίας του pattern συμβουλεύτικα [αυτην](https://www.w3schools.com/TAGS/att_input_pattern.asp) την πηγή.
+
 
 ## Εβδομαδα 8η
 
 Λυση: https://asciinema.org/a/ja7jeKwIPdWdcSci8UmZyN3l1
+[![asciicast](https://asciinema.org/a/ja7jeKwIPdWdcSci8UmZyN3l1.svg)](https://asciinema.org/a/ja7jeKwIPdWdcSci8UmZyN3l1)
 
 ## Εβδομαδα 9η
 
