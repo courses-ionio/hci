@@ -21,7 +21,7 @@
 | 12 | Τελική αναφορά* |
 
 
-## Ολες οι ασκήσεις βρίσκονται στο https://hci.ggrammenos.com
+## Ολες οι ασκήσεις προγραμματισμου βρίσκονται στο https://hci.ggrammenos.com
 
 
 <br/>
@@ -88,6 +88,16 @@ To pyhcarm είναι ενα IDE (intergrated development environment) εργα�
 
 Λυση: https://asciinema.org/a/ja7jeKwIPdWdcSci8UmZyN3l1
 [![asciicast](https://asciinema.org/a/ja7jeKwIPdWdcSci8UmZyN3l1.svg)](https://asciinema.org/a/ja7jeKwIPdWdcSci8UmZyN3l1)
+
+Σε αυτην την ασκηση γραμμης εντολων κληθηκα να κατεβασω ενα  αρχείο mp3 με την χρήση του youtube-dl εργαλείου.Υλοποίησα το ζητούμενο με την χρήση ενώς bash sh  script. ο κώδικας τους script είναι ο εξης:
+``` 
+#!/bin/sh
+read -p 'Enter song name: ' songname
+
+echo searching $songname
+youtube-dl "ytsearch:$songname"
+```
+Συγκεριμένα ζητάω απο τον χρήστη να εισαγάγει το όνομα του τραγουδιού προς αναζήτηση.Το περιεχόμενο του χρήστη καταχωρείται στην μεταβλητή songname.Στην συνέχεια εκτελώ την εντολή ```ytseearch:[search term]``` οπου στην θέση του search term χρησιμοποίω την μεταβλήτη ```songname```.Την συνέχεια της εκτέλεσης την αναλαμβάνει το youtube-dl
 
 ## Εβδομαδα 9η
 
