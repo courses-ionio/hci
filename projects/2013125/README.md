@@ -112,7 +112,7 @@
 
 [Θεματικές Διαφάνειες](https://github.com/p13giag/site/blob/2013125/_slides/ipod.md)
 
-[Χρονολόγιο] (https://github.com/p13giag/site/edit/2013125/_timeline/mobile.md)
+[Χρονολόγιο](https://github.com/p13giag/site/edit/2013125/_timeline/mobile.md)
 
 ## Παραδοτέο 7
 ## Άσκηση Προγραμματισμού
@@ -122,7 +122,7 @@
 
 ## Αλλαγές στην Άσκηση του προγραμματισμού
 ## SubmitHandler για τον έλεγχο του Ελληνικού τηλεφωνικό νούμερο
-[Σύνεδσμος βιβλιογραφίας](https://www.w3schools.com/jsref/event_onsubmit.asp), [Σύνεδσμος βιβλιογραφίας 2] (https://www.w3schools.com/jsref/met_form_submit.asp)
+[Σύνεδσμος βιβλιογραφίας](https://www.w3schools.com/jsref/event_onsubmit.asp), [Σύνεδσμος βιβλιογραφίας 2](https://www.w3schools.com/jsref/met_form_submit.asp)
 
 Άλλαξα το pattern για να έχω ελληνικό τηλεφωνικό νούμερο και δημιούργησα ένα κώδικα javascript για να ελέγχο αν ο αριθμός είναι ελληνικό νούμερο και αν είναι σωστή η φόρμα θα μου επιβεβαιώνει την ολοκλήρωση της φόρμας και μου εμφανίζει τον ελληνικό τηλεφωνικό νούμερο.
 
