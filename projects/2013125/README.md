@@ -92,21 +92,21 @@
 
  [Εικόνα 1 :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_2g.png)
  
-![](ipod_2g.png) 
+[ipod_2g](https://drive.google.com/drive/folders/1SPzzSdVY5sLSuzmWqX25sG3wY4FXH2ac) 
 
  [Εικόνα 1 160px :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_2g-thumb.png)
  
- ![](ipod_2g-thumb.png)
+ [ipod_2g-thumb](https://drive.google.com/drive/folders/1SPzzSdVY5sLSuzmWqX25sG3wY4FXH2ac)
  
  
  [Εικόνα 2 :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_3g.png)
  
- ![](ipod_3g.png)
+ [ipod_3g.png](https://drive.google.com/drive/folders/1SPzzSdVY5sLSuzmWqX25sG3wY4FXH2ac)
 
  
  [Εικόνα 2 160px :](https://github.com/p13giag/images/blob/a98cecadbcbb28da32f56e8a9c523c716f263561/ipod_3g-thumb.png)
  
- ![](ipod_3g-thumb.png)
+ [ipod_3g-thumb.png](https://drive.google.com/drive/folders/1SPzzSdVY5sLSuzmWqX25sG3wY4FXH2ac)
  
 ## Παραδοτέο 2 Α2 : Ένα σετ από Θεματικές Διαφάνειες και ένα Χρονολόγιο
 
@@ -144,10 +144,10 @@
 ## Organize your notes with emacs
 ## Emacs.org
 
-![](emacs.png)
+[emacs](https://drive.google.com/drive/folders/1SPzzSdVY5sLSuzmWqX25sG3wY4FXH2ac)
 
 
-![](emacsorg.png)
+[emacs.org](https://drive.google.com/drive/folders/1SPzzSdVY5sLSuzmWqX25sG3wY4FXH2ac)
 
 
 [Συνδεσμος Βιβλιογραφίας](https://www.gnu.org/software/emacs/)
