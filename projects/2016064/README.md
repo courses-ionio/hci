@@ -172,15 +172,15 @@
 
 ## 3η Άσκηση γραμμής εντολών
 ### Organize your notes with emacs (use org mode)
-#### [Asciinema link 3ης Άσκηση γραμμής εντολών]
+#### Το Asciinema δεν υποστηρίζεται μέσω emacs, τα παρακάτω link εικόνως(Εικόνα1, Εικόνα2, .. ) αντικαθιστούν τις φωτογραφίες που είχα στον φάκελο 2016064 μαζί με το αρχείο README.md
 
 Αφού εγκατέστησα το emacs, για να χρησιμοποιήσω το org mode δημιούργησα ένα αρχείο με την εντολή ***emacs 2016064notes.org*** 
 
-https://drive.google.com/file/d/1KGwOnlsfXYp_u1-7KjKrzTGzMTNbgsj3/view?usp=sharing
+[Εικόνα1](https://drive.google.com/file/d/1KGwOnlsfXYp_u1-7KjKrzTGzMTNbgsj3/view?usp=sharing)
 
 , όπου αυτό το αρχείο θα περιέχει τις σημειώσεις μου. Έπειτα άρχισα να δημιουργώ τις σημειώσεις μου. Η τελική τους μορφή είναι η εξής. 
 
-https://drive.google.com/file/d/14UqK4fBS_fz3uC0Z0tQkvrEU8fgasQ6M/view?usp=sharing
+[Εικόνα1](https://drive.google.com/file/d/14UqK4fBS_fz3uC0Z0tQkvrEU8fgasQ6M/view?usp=sharing)
 
 Για να φθάσω στην τελική μορφή χρσιμοποίησα τις εξής εντολές στην εφαρμογή emacs κατα το org mode:
 
@@ -231,41 +231,42 @@ https://drive.google.com/file/d/14UqK4fBS_fz3uC0Z0tQkvrEU8fgasQ6M/view?usp=shari
 
 ## 4η Άσκηση γραμμής εντολών
 ### Add a status bar to your shell/editor and configure a color-theme
-#### [Asciinema link 4ης Άσκηση γραμμής εντολών](https://asciinema.org/a/gnltMLcaCWWMiOGd3sbGaRar5)
+#### [Asciinema link 4ης Άσκηση γραμμής εντολών.](https://asciinema.org/a/gnltMLcaCWWMiOGd3sbGaRar5) Τα παρακάτω link εικόνως(Εικόνα1, Εικόνα2, .. ) αντικαθιστούν τις φωτογραφίες που είχα στον φάκελο 2016064 μαζί με το αρχείο README.md
 
 Για την ενσωμάτωση του status bar στο τερματικό και το vim χρησιμοποίησα το Powerline. Για την εγκατάσταση του Powerline χρησιμοποίησα το pip και συγκεκριμένα το pip3 λόγο ότι χρησιμοποιώ έκδοση python3, όπου το εγκατέστησα με τον παρακάτω τρόπο. 
 	
-https://drive.google.com/file/d/1e13VjcSImDaZLKAhcM005dz7kyvmHE7s/view?usp=sharing
+[Εικόνα1](https://drive.google.com/file/d/1e13VjcSImDaZLKAhcM005dz7kyvmHE7s/view?usp=sharing)
 
 Στη συνέχεια εγκατέστησα το Powerline από το αποθετήριο στο Git με την βοήθεια του pip.
 
-https://drive.google.com/file/d/1KsDpfE_7oeo39W4INnQlVLlL4QtjVb4-/view?usp=sharing
+[Εικόνα2](https://drive.google.com/file/d/1KsDpfE_7oeo39W4INnQlVLlL4QtjVb4-/view?usp=sharing)
 
 Έπειτα εγκατέστησα τις γραμματοσειρές που χρησιμοποιεί το Powerline και κατέβασα την τελευταία έκδοση τών συμβόλων γραμματοσειράς χρησιμοποιώντας τις ακόλουθες εντολές wget.
 
-https://drive.google.com/file/d/1LtUAnNwN3vkGUFF2QcgkzipyGbxr0oWm/view?usp=sharing
+[Εικόνα3](https://drive.google.com/file/d/1LtUAnNwN3vkGUFF2QcgkzipyGbxr0oWm/view?usp=sharing)
 
-https://drive.google.com/file/d/1oQmFunJ9Fcu4HWyexyV_0jwRxJH_y-5R/view?usp=sharing
+[Εικόνα4](https://drive.google.com/file/d/1oQmFunJ9Fcu4HWyexyV_0jwRxJH_y-5R/view?usp=sharing)
 
 Όπου και τις ενσωμάτωσα  στο Directory γραμματοσειρών μου.
 
-https://drive.google.com/file/d/1p22O4vfNfNT68xpwWu5-PvvkwWC9UwUb/view?usp=sharing
+[Εικόνα5](https://drive.google.com/file/d/1p22O4vfNfNT68xpwWu5-PvvkwWC9UwUb/view?usp=sharing)
 
 Ακόμη κατέβασα και το αρχείο config.
 
-https://drive.google.com/file/d/1LaywqYVH28HGSiDylJ5oVob5zHc3gCry/view?usp=sharing
+[Εικόνα6](https://drive.google.com/file/d/1LaywqYVH28HGSiDylJ5oVob5zHc3gCry/view?usp=sharing)
 
 Εν τέλη για να ενεργοποιήσω το Powerline για το τερματικό πρόσθεσα το παρακάτω κομμάτι κώδικα στο .basharc αρχείο μέσω του vim.
 
-https://drive.google.com/file/d/1RyjC_jj6Esgh2_uRvYNsLYMYzI4TDYXv/view?usp=sharing
+[Εικόνα7](https://drive.google.com/file/d/1RyjC_jj6Esgh2_uRvYNsLYMYzI4TDYXv/view?usp=sharing)
 	
-https://drive.google.com/file/d/1NpAely66r1x3O-XzNbfJev2CDinU7NFy/view?usp=sharing
+[Εικόνα8](https://drive.google.com/file/d/1NpAely66r1x3O-XzNbfJev2CDinU7NFy/view?usp=sharing)
 
 Για την ενεργοποίηση του Powerline για το vim πρόσθεσα το παρακάτω κομμάτι κώδικα με τον ίδιο τρόπο στο vimrc αρχείο.
 
-https://drive.google.com/file/d/13TtTA7la4RqSIVuXNg7s1PrP6dWapAV0/view?usp=sharing
+[Εικόνα9](https://drive.google.com/file/d/13TtTA7la4RqSIVuXNg7s1PrP6dWapAV0/view?usp=sharing)
 
-https://drive.google.com/file/d/1AJvoD0-svkfP0aO8WTiXWnT9ge11h3iI/view?usp=sharing
+[Εικόνα10](https://drive.google.com/file/d/1AJvoD0-svkfP0aO8WTiXWnT9ge11h3iI/view?usp=sharing)
+
 
 Οδηγίες για την πραγματοποίηση του παραδοτέου έλαβα από τις εξής πηγές
 - https://github.com/powerline/powerline
