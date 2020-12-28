@@ -96,7 +96,7 @@ https://sites.google.com/site/tablets1991/home/a-brief-history-of-tablets</br>
 
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2__</br>
 - [case study(touch screen)](https://github.com/alexpoulis/site/blob/master/_case-study/touch-screen.md)</br>
-- [case study(touch screen) netlify](https://github.com/alexpoulis/site/blob/master/_case-study/touch-screen.md)</br>  
+- [case study(touch screen) netlify](https://5fe38afe1875450007ee376a--fervent-mccarthy-86201a.netlify.app/case-study/)</br>  
 
 __ΠΗΓΕΣ__</br>
 https://en.wikipedia.org/wiki/Touchscreen</br>
