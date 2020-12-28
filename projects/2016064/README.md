@@ -10,16 +10,16 @@
 | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
 | 2 | [1η Άσκηση προγραμματισμού Button](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#1%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D) |
-| 3 | [1η Άσκηση γραμμής εντολών become productive with a todo list](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#1%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
+| 3 | [1η Άσκηση γραμμής εντολών Become productive with a todo list](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#1%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
 | 4 | [2η Άσκηση προγραμματισμού CSS Queries](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#2%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D)  |
-| 5 | [2η Άσκηση γραμμής εντολών check the weather](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#2%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
+| 5 | [2η Άσκηση γραμμής εντολών Check the weather](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#2%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
 | 6 | [Συμμετοχικό περιεχόμενο](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF) |
 | 7 | [3η Άσκηση προγραμματισμού Menu slide](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#3%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D) |
-| 8 | [3η Άσκηση γραμμής εντολών](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#3%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD)  |
+| 8 | [3η Άσκηση γραμμής εντολών Organize your notes with emacs](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#3%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD)  |
 | 9 | [4η Άσκηση προγραμματισμού Menu pie](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#4%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D) |
-| 10 | [4η Άσκηση γραμμής εντολών](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#4%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
+| 10 | [4η Άσκηση γραμμής εντολών Add a status bar to your shell/editor and configure a color-theme](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#4%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) |
 | 11 | [Συμμετοχικό περιεχόμενο](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2) |
-| 12 | [Συμπεράσματα](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/README.md#%CF%83%CF%85%CE%BC%CF%80%CE%B5%CF%81%CE%AC%CF%83%CE%BC%CE%B1%CF%84%CE%B1) |
+| 12 | [Σύνοψη]() και [Συμπεράσματα](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/README.md#%CF%83%CF%85%CE%BC%CF%80%CE%B5%CF%81%CE%AC%CF%83%CE%BC%CE%B1%CF%84%CE%B1) |
 
 
 
@@ -290,6 +290,27 @@ https://kavvadias.netlify.app/biography/
 - https://www.historyofinformation.com/detail.php?entryid=2086
 - https://en.wikipedia.org/wiki/Ralph_Benjamin
 - https://www.telegraph.co.uk/obituaries/2019/06/10/professor-ralph-benjamin-eminent-electronic-engineer-advised/
+
+
+## Σύνοψη
+Σε αυτή την ενότητα αναγράφονται τα συγκεκριμένα παραδοτέα που επέλεξα και υλοποίησα. Οι περισσότερες ασκήσεις έγιναν εντός των χρονικών ορίων των προθεσμιών.
+
+### 4 Ασκήσεις προγραμματισμού
+- [Button](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#1%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D)
+- [CSS queries](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#2%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D)
+- [Menu slide](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#3%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D)
+- [Menu pie](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#4%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D)
+
+### 4 Ασκήσεις γραμμής εντολών
+- [become productive with a todo list](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#1%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD)
+- [check the weather](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#2%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD)
+- [organize your notes with emacs](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#3%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD)
+- [add a status bar to your shell/editor and configure a color-theme](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#4%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD)
+
+### Συμμετοχικό περιεχόμενο
+- [Α1, Α2](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF)
+
+- [Β1, Β2](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-1)
 
 
 ## Συμπεράσματα
