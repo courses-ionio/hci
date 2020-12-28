@@ -101,12 +101,18 @@ youtube-dl "ytsearch:$songname"
 
 ## Εβδομαδα 9η
 
-Λύση : https://hci.ggrammenos.com/remix/mouse-form/
+Λύση : https://hci.ggrammenos.com/remix/mouse-form/ <br/>
+![form](https://i.imgur.com/p5MrAeC.png)
+
+Στην παρουσα ασκηση κλήθηκα να προσθέσω το πεδίο "gender" κατω απο τα τρία υπάρχων πεδία.
+Επιπλέον άλλαξα και το background color καθως και το border radius ωστε να είναι πιο φιλικο προς τον χρήστη το περιβάλλον.
 
 ## Εβδομαδα 10η
 
 Λυση : https://asciinema.org/a/drx9OS6pzgRYn8iddeHpbTLqP
+[![asciicast](https://asciinema.org/a/drx9OS6pzgRYn8iddeHpbTLqP.svg)](https://asciinema.org/a/drx9OS6pzgRYn8iddeHpbTLqP)
 
+Στην παρούσα άσκηση χρησιμοποιώ το emacs.To emacs είναι ενας απο τους πιο γνωστούς text editors σε περιβάλλον τερματικού.Διαθέτει το org mode οπου μπόρει ο χρήστης να υλοποιήσει ενα ```TODO``` list.Επιπλέον ο χρήστης μπορεί να προσθέσει deadlines και σημειώσεις σε καθε καταχώρηση στην λίστα του.
 
 ## Εβδομαδα 11η
 
