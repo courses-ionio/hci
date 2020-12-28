@@ -28,12 +28,13 @@ Github profile: [Geoter711](https://github.com/Geoter711)
 
 # **Σύνοψη**
 
-Όλα τα παραδοτέα που επέλεξα έχουν υλοποιηθεί πλήρως. Σχετικά με τις ασκήσεις γραμμής εντολών, αρκέστηκα στα κάθε ζητούμενα της άσκησης και δεν επεκτάθηκα παραπάνω. Με τις ασκήσεις προγραμματισμού δεν υπήρξε ιδιαίτερη δυσκολία καθώς γνώριζα ήδη τα βασικά της HTML και της CSS. Για τις ασκήσεις γραμμής εντολών, δυσκολεύτηκα αρκετά σε μερικά σημεία καθώς δεν είχα χρησιμοποιήσει shell σε τέτοια κλίμακα. Ωστόσο, τώρα είμαι πιο οικείος με την χρήση του. Σε κάθε asciinema link, εξηγώ και τι κάνω στο terminal. Στο συμμετοχικό περιεχόμενο, αναφέρθηκα στο τηλεχειριστήριο του NES και στο Wii remote καθώς και το πως αυτά τα δύο άλλαξαν την διάδραση χρήστη-βιντεοπαιχνιδιών. Επιπλέον, εξέτασα την περίπτωση του Nintendo Switch και το πως έφερε έναν τελείως καινούριο και μοναδικό τρόπο για έναν χρήστη να χρησιμοποιήσει μια κονσόλα. Τέλος, αναφέρθηκα στο Shigeru Miyamoto λόγω της τεράστιας συνεισφορά του στον χώρο των βιντεοπαιχνιδιών.
+Όλα τα παραδοτέα που επέλεξα έχουν υλοποιηθεί πλήρως. Σχετικά με τις ασκήσεις γραμμής εντολών, αρκέστηκα στα κάθε ζητούμενα της άσκησης και δεν επεκτάθηκα παραπάνω. Με τις ασκήσεις προγραμματισμού δεν υπήρξε ιδιαίτερη δυσκολία καθώς γνώριζα ήδη τα βασικά της HTML και της CSS. Για τις ασκήσεις γραμμής εντολών, δυσκολεύτηκα αρκετά σε μερικά σημεία καθώς δεν είχα χρησιμοποιήσει shell σε τέτοια κλίμακα. Ωστόσο, τώρα είμαι πιο οικείος με την χρήση του. Σε κάθε asciinema link, εξηγώ και τι κάνω στο terminal. Στο συμμετοχικό περιεχόμενο, αναφέρθηκα στο τηλεχειριστήριο του NES και στο Wii remote καθώς και το πως αυτά τα δύο άλλαξαν την διάδραση χρήστη-βιντεοπαιχνιδιών. Επιπλέον, εξέτασα την περίπτωση του Nintendo Switch και το πως έφερε έναν τελείως καινούριο και μοναδικό τρόπο για έναν χρήστη να χρησιμοποιήσει μια κονσόλα. Τέλος, αναφέρθηκα στο Shigeru Miyamoto λόγω της τεράστιας συνεισφοράς του στον χώρο των βιντεοπαιχνιδιών.
 
 ## Παραδοτέο 2
 
 Για το παραδοτέο 2, επέλεξα την άσκηση προγραμματισμού "mouse-scroll". Μέσω ενός random color generator, κάθε φορά που αλλάζει η τιμή εισόδου, το χρώμα της τιμής εξόδου αλλάζει σε ένα τυχαίο χρώμα. 
 Οι διάφορες αλλαγές είναι καταγεγραμμένες με την χρήση σχολίων στον κώδικα.  
+
 Το link για το repository είναι: https://github.com/Geoter711/site/blob/master/_remix/mouse-scroll.md  
 Για το netlify: https://flamboyant-bartik-3ede5a.netlify.app/remix/mouse-scroll/  
 Για το codepen: https://codepen.io/2019145/pen/abZZdzr  
@@ -55,8 +56,9 @@ https://landoflinux.com/linux_bash_configuration_files.html
 
 ## Παραδοτέο 4
 
-Για το παραδοτέο 4, επέλεξα την άσκηση προγραμματισμού "button". Κάνοντας κλίκ, ανοίγει μια νέα καρτέλα (tab) στο youtube.  
-Το link για το repository είναι: https://github.com/Geoter711/site/blob/master/_remix/button.md 
+Για το παραδοτέο 4, επέλεξα την άσκηση προγραμματισμού "button". Κάνοντας κλίκ, ανοίγει μια νέα καρτέλα (tab) στο youtube. 
+
+Το link για το repository είναι: https://github.com/Geoter711/site/blob/master/_remix/button.md  
 Για το netlify: https://flamboyant-bartik-3ede5a.netlify.app/remix/button/  
 Για το codepen: https://codepen.io/2019145/pen/abZYajR  
 
@@ -64,9 +66,9 @@ https://landoflinux.com/linux_bash_configuration_files.html
 ## Παραδοτέο 5
 
 Για το παραδοτέο 5, επέλεξα την άσκηση γραμμής εντολών "organise the terminal window into multiple areas". Το link είναι:  
-https://asciinema.org/a/371889  
-Υλικό που με βοήθησε για την εκπλήρωση της άσκησης:  
+https://asciinema.org/a/371889 
 
+Υλικό που με βοήθησε για την εκπλήρωση της άσκησης:  
 https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/  
 https://en.wikipedia.org/wiki/Tmux  
 https://nicolargo.github.io/glances/
@@ -99,6 +101,7 @@ https://github.com/Geoter711/site/blob/master/_timeline/videogames.md
 
 ## Παραδοτέο 7
 Για το παραδοτέο 7, επέλεξα την άσκηση προγραμματισμού "mouse option". Πρόσθεσα άλλες 2 επιλογές, με την μία να εμφανίζει μια φωτογραφία και την δευτέρη να εμφανίζει ένα embed ενός προηγούμενου παραδοτέου.  
+
 Το link για το repository είναι: https://github.com/Geoter711/site/blob/master/_remix/mouse-option.md  
 Για το netlify: https://flamboyant-bartik-3ede5a.netlify.app/remix/mouse-option/  
 Για το codepen: https://codepen.io/2019145/pen/vYKqobz  
@@ -115,6 +118,7 @@ https://www.youtube.com/watch?v=7ybg3vjLQJM&ab_channel=GDQuest
 
 ## Παραδοτέο 9 
 Για το παραδοτέο 9, επέλεξα την άσκηση προγραμματισμού "mouse eraser". Άλλαξα τις δύο εικόνες, και έκανα το eraser ποιο μεγάλο.  
+
 Το link για το repository είναι: https://github.com/Geoter711/site/blob/master/_remix/mouse-eraser.md  
 Για το netlify: https://flamboyant-bartik-3ede5a.netlify.app/remix/mouse-eraser/  
 Για το codepen: https://codepen.io/2019145/pen/gOwMBYJ
