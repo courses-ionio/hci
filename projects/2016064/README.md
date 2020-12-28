@@ -6,7 +6,7 @@
 
 ## Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων
 
-| Εβδομάδα* | Παραδοτέο |
+| Εβδομάδα | Παραδοτέο |
 | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/Kavvadias/hci/blob/2016064/projects/2016064/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
 | 2 | [1η Άσκηση προγραμματισμού Button](https://github.com/Kavvadias/hci/tree/2016064/projects/2016064#1%CE%B7-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D) |
