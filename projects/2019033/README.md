@@ -65,27 +65,25 @@ Asciinema link: https://asciinema.org/a/371655
 Στα παρακάτω Link βρίσκονται οι εικόνες με την λεζάντα τους για τα εξής θέματα:
 
 Amazon Alexa:
-
 Η Alexa είναι η ψηφιακή βοηθός της Amazon που ενσωματώνεται στις συσκευές Echo αλλά και όχι μόνο. Έχει πολλές δυνατότητες όπως πραγματοποίηση κλήσεων, ανάγνωση μηνυμάτων, ενημέρωση για τον καιρό καθώς και χιλιάδες άλλες λειτουργείες.
 
  - Εικόνα: https://hci-p2019033.netlify.app//gallery/amazon-alexa/
  - Χρονολόγιο: https://hci-p2019033.netlify.app//timeline/artificial-intelligence/
 
 Joystick:
-
 Το joystick είναι μία νέα μορφή χειρισμού βιντεοπαιχνιδιών, που ξεφεύγει απο τα όρια του πληκτρολογίου και του ποντικιου και προσφέρει αναλογικό χειρισμό στα παιχνίδια.
 
  - Εικόνα: https://hci-p2019033.netlify.app//gallery/joystick/
  - Χρονολόγιο: https://hci-p2019033.netlify.app//timeline/videogames/
 
-Microvision<br/>
-Η πρώτη φορητή κονσόλα.<br/>
+Microvision:
+Η πρώτη φορητή κονσόλα.
 
  - Εικόνα: https://hci-p2019033.netlify.app//gallery/microvision/
  - Χρονολόγιο: https://hci-p2019033.netlify.app//timeline/videogames/
 
-Osborne1<br/>
-Ο πρώτος 'φορητός' υπολογιστής.<br/>
+Osborne1:
+Ο πρώτος 'φορητός' υπολογιστής.
 
  - Εικόνα: https://hci-p2019033.netlify.app//gallery/osborne1/
  - Χρονολόγιο: https://hci-p2019033.netlify.app//timeline/personal/
