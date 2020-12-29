@@ -2,7 +2,8 @@
 
 <h3 align=center> ΣΟΥΡΒΙΝΟΣ ΑΛΚΙΒΙΑΔΗΣ | ΑΜ:Π2018028 </h3>
 
-[Netlify app](https://hci-p2018028.netlify.app/)
+[Netlify app](https://hci-p2018028.netlify.app/)<br>
+[Video Quiz](https://pibook-video-quiz.epidro.me/questions/alto-gypsy/)<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
