@@ -28,13 +28,11 @@
  
 ## Validation Form
 
-Netlify Link: https://hci-p2019033.netlify.app/remix/form-validation/
-
 Στην συγκεκριμένη άσκηση κλήθηκα να προσθέσω παραπάνω validation forms για πιστωτική κάρτα, ελληνικό αριθμό τηλεφώνου και email. Στο κομμάτι της HTML προστέθηκαν περισσότερα inputs όπως ήταν και στον αρχικό κώδικα, με διαφοροποιημένα ονόματα και παραμέτρους. Στο κομμάτι της CSS άλλαξα την εμφάνιση των input και του κουμπιού submit. 
 
 ![Validation Form](https://imgur.com/jCKuajl.png)
 
-Για την συγκεκριμένη εργασία έλαβα βοήθεια απο [w3schools](w3schools.com) καθώς και το [geeksforgeeks](geeksforgeeks.org), πέρα απο τις προϋπάρχουσες γνώσεις που είχα.
+Netlify Link: https://hci-p2019033.netlify.app/remix/form-validation/
 
 ## Setup the main dependencies and demonstrate base system 
 
@@ -50,7 +48,7 @@ Asciinema link: https://asciinema.org/a/368186
 
 ![menuscroll](https://i.imgur.com/YsVktD4.gif)
 
-Link άσκησης στο Netlify: https://hci-p2019033.netlify.app/remix/menu-scroll/
+Netlify Link: https://hci-p2019033.netlify.app/remix/menu-scroll/
 
 ## Organise the terminal window into multiple areas
 
@@ -131,7 +129,7 @@ Asciinema Link: https://asciinema.org/a/379309
   - https://history-computer.com/ModernComputer/Personal/Osborne.html
   - https://www.inexhibit.com/case-studies/osborne-1-1981-when-the-personal-computer-became-portable/
 
-- Βιογραφία του Lee Felsenstein: https://hci-p2019033.netlify.app//biography/lee-felsenstein/
+Βιογραφία του Lee Felsenstein: https://hci-p2019033.netlify.app//biography/lee-felsenstein/
  
 Πηγές: 
  - https://computerhistory.org/profile/lee-felsenstein/
