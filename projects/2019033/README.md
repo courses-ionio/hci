@@ -128,8 +128,9 @@ Asciinema Link: https://asciinema.org/a/379309
   - https://www.zdnet.com/article/the-osborne-1-a-pioneer-in-more-ways-than-one/
   - https://history-computer.com/ModernComputer/Personal/Osborne.html
   - https://www.inexhibit.com/case-studies/osborne-1-1981-when-the-personal-computer-became-portable/
+<br/>
 
-Βιογραφία του Lee Felsenstein: https://hci-p2019033.netlify.app//biography/lee-felsenstein/
+ - Βιογραφία του Lee Felsenstein: https://hci-p2019033.netlify.app//biography/lee-felsenstein/
  
 Πηγές: 
  - https://computerhistory.org/profile/lee-felsenstein/
