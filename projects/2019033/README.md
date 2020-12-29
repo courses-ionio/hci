@@ -122,13 +122,22 @@ Asciinema Link: https://asciinema.org/a/379309
 
 ## Συμμετοχικό περιεχόμενο
 
-Στο 2ο συμμετοχικό περιεχόμενο αναπτύχθηκε μία μελέτη περίπτωσης πάνω στον Osborne 1 που είναι για πολλούς ο πρώτος φορητός υπολογιστής καθώς και μία βιογραφία για τον . Στα παρακάτω link βρίσκονται οι έρευνες στο site.
+Στο 2ο συμμετοχικό περιεχόμενο αναπτύχθηκε μία μελέτη περίπτωσης πάνω στον Osborne 1 που είναι για πολλούς ο πρώτος φορητός υπολογιστής καθώς και μία βιογραφία για τον σχεδιαστή του, τον Lee Felsenstein.
 
-Μελέτη περίπτωσης Osborne 1: https://hci-p2019033.netlify.app//case-study/osborne1/
+ - Μελέτη περίπτωσης Osborne 1: https://hci-p2019033.netlify.app//case-study/osborne1/
+ 
  Πηγές:
-Βιογραφία:
- Πηγές:
+  - https://www.zdnet.com/article/the-osborne-1-a-pioneer-in-more-ways-than-one/
+  - https://history-computer.com/ModernComputer/Personal/Osborne.html
+  - https://www.inexhibit.com/case-studies/osborne-1-1981-when-the-personal-computer-became-portable/
 
+- Βιογραφία του Lee Felsenstein: https://hci-p2019033.netlify.app//biography/lee-felsenstein/
+ 
+Πηγές: 
+ - https://computerhistory.org/profile/lee-felsenstein/
+ - https://www.mercurynews.com/2007/06/30/lee-felsenstein-bio/
+ - https://en.wikipedia.org/wiki/Lee_Felsenstein
+  
 ## Τελική αναφορά
 
 Τελειώνοντας το εξάμηνο και την αναφορά μου, έχω αποκτήσει αρκετές γνώσεις τόσο σε θεωρητικό όσο και σε πρακτικό επίπεδο. <br/>
@@ -140,10 +149,10 @@ Asciinema Link: https://asciinema.org/a/379309
 
 Για την υλοποίηση της αναφοράς και την επίληση όλων των ασκήσεων προγραμματισμού αλλά και γραμμής εντολών, έλαβα βοήθεια απο τα παρακάτω site (Πηγές):
 
-Udemy <br/>
-GeeksForGeeks <br/>
-Stackoverflow <br/>
-W3Schools <br/>
-Reddit (σε ανάλογα subreddits) <br/>
-Github (μέσω ερωτήσεων των χρηστών) <br/>
-καθώς και βίντεο tutorial στο youtube
+[Udemy](https://www.udemy.com/) <br/>
+[GeeksForGeeks](https://www.geeksforgeeks.org/) <br/>
+[Stackoverflow](https://stackoverflow.com/) <br/>
+[W3Schools](https://www.w3schools.com/) <br/>
+[Reddit](https://www.reddit.com/) (σε ανάλογα subreddits) <br/>
+[Github](https://github.com/) (μέσω ερωτήσεων των χρηστών) <br/>
+καθώς και βίντεο tutorial στο [Youtube](https://www.youtube.com/)
