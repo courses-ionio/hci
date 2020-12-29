@@ -117,5 +117,5 @@ Building Information Modeling(ΒΙΜ):https://www.teetkm.gr/bim-kataskevh-ergwn/
 Λινκ προς την περιγραφή της 2ης φωτογραφίας:https://pibooksite.netlify.app//gallery/octanerender/ <br/>
 Λινκ προς τις θεματικές διαφάνειες:https://pibooksite.netlify.app//slides/metaphors/ <br/>
 Λινκ προς το χρονολόγιο:https://pibooksite.netlify.app//timeline/multimedia/ <br/>
-Λινκ προς τη μελέτη περίπτωσης:
+Λινκ προς τη μελέτη περίπτωσης:https://pibooksite.netlify.app//case-study/bim/
 Λινκ προς τη βιογραφία:
