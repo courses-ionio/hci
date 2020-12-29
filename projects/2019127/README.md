@@ -107,7 +107,7 @@ how to download imagemagick:https://www.tecmint.com/install-imagemagick-on-debia
 Tmux:https://github.com/tmux/tmux/wiki <br/>
 Customizing tmux status line (styles, formats, and more):https://www.youtube.com/watch?v=9e8850-1pg8&t=686s&fbclid=IwAR2ibdSqUbwqCv38mfo0EQzx7xiwOYly6QGEPoEK8EibZ4PGFcN4gCa-Hb4 <br/>
 ## 11ο Παραδοτέο
-Στο 11ο παραδοτέο ερχόμαστε αντιμέτωποι με το ζήτημα του συμμετοχικού περιεχομένου.Αυτή την φορά μας ζητείται μια νέα μελέτη περίπτωσης και μία βιογραφία τα οποία σχετίζονται με τις 2 φωτογραφίες του 6ου παραδοτέου.Ουσιαστικά το πρώτο ζητούμενο είναι η έρευνα σε βάθος από ένα από τα θέματα που διαλέξαμε στο προηγούμενο συμμετοχικό περιχόμενο και το δεύτερο η βιογραφία ενός ατόμου σημαντικού για το συγκεκριμένο θέμα..Σε αυτό που επέλεξα εμβαθύνω ήταν το Building Information Modeling
+Στο 11ο παραδοτέο ερχόμαστε αντιμέτωποι με το ζήτημα του συμμετοχικού περιεχομένου.Αυτή την φορά μας ζητείται μια νέα μελέτη περίπτωσης και μία βιογραφία τα οποία σχετίζονται με τις 2 φωτογραφίες του 6ου παραδοτέου.Ουσιαστικά το πρώτο ζητούμενο είναι η έρευνα σε βάθος από ένα από τα θέματα που διαλέξαμε στο προηγούμενο συμμετοχικό περιχόμενο και το δεύτερο η βιογραφία ενός ατόμου σημαντικού για το συγκεκριμένο θέμα..Σε αυτό που επέλεξα εμβαθύνω ήταν το Building Information Modeling.
 
 ## Σελίδες που βοήθησαν
 Building Information Modeling(ΒΙΜ):https://www.teetkm.gr/bim-kataskevh-ergwn/  <br/>
@@ -117,3 +117,5 @@ Building Information Modeling(ΒΙΜ):https://www.teetkm.gr/bim-kataskevh-ergwn/
 Λινκ προς την περιγραφή της 2ης φωτογραφίας:https://pibooksite.netlify.app//gallery/octanerender/ <br/>
 Λινκ προς τις θεματικές διαφάνειες:https://pibooksite.netlify.app//slides/metaphors/ <br/>
 Λινκ προς το χρονολόγιο:https://pibooksite.netlify.app//timeline/multimedia/ <br/>
+Λινκ προς τη μελέτη περίπτωσης:
+Λινκ προς τη βιογραφία:
