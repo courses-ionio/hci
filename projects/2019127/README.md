@@ -14,7 +14,7 @@
 | 9 | [9ο Παραδοτέο: Άσκηση προγραμματισμού](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#9%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 10 | [10ο Παραδοτέο: Άσκηση γραμμής εντολών](https://github.com/p19verg/hci/tree/%CE%A02019127/projects/2019127#10%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | 11 | [11ο Παραδοτέο: Συμμετοχικό περιεχόμενο](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#11%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
-| 12 | Τελική αναφορά* |
+| 12 | [Τελική αναφορά](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#12%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF)
 | Link | [Link προς την σελιδα μου](https://github.com/p19verg/hci/blob/%CE%A02019127/projects/2019127/README.md#%CE%BB%CE%AF%CE%BD%CE%BA-%CF%80%CF%81%CE%BF%CF%82-%CF%84%CE%B7%CE%BD-%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-%CE%BC%CE%BF%CF%85) 
 
 ## Πρώτη επαφή
