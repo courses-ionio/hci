@@ -112,6 +112,9 @@ Customizing tmux status line (styles, formats, and more):https://www.youtube.com
 ## Σελίδες που βοήθησαν
 Building Information Modeling(ΒΙΜ):https://www.teetkm.gr/bim-kataskevh-ergwn/  <br/>
 Οφέλη της χρήσης του ΒΙΜ:http://buildinggreen.gr/ta-pleonektimata-tou-building-information-modeling-gia-tous-arxitektones/ <br/>
+
+## 12ο Παραδοτέο
+
 ## Λίνκ προς την σελίδα μου:
 Λινκ προς την περιγραφή της 1ης φωτογραφίας:https://pibooksite.netlify.app//gallery/bim/ <br/>
 Λινκ προς την περιγραφή της 2ης φωτογραφίας:https://pibooksite.netlify.app//gallery/octanerender/ <br/>
