@@ -58,7 +58,7 @@
 **Display system information (hardware+software):**
 ![display system sw and hw](https://user-images.githubusercontent.com/72515787/100363826-f2b74980-3005-11eb-98f1-fc638b128915.gif)
 
-### _Link στο asciinema με όλα τα παραπάνω βήματα μαζί:_  https://asciinema.org/a/snBdYsk3P6rDzphl5PNaUUkid
+### _Link στο asciinema με όλα τα παραπάνω βήματα μαζί:_  https://asciinema.org/a/67tYoTNR8Vksbnhos8U7YALhu
 
 
 
@@ -74,7 +74,7 @@
 ## Άσκηση γραμμής εντολών Weather fetch
 **_Η παρακατω ασκηση με την χρήση της εντολής curl αποτελεί ένα εναλλακτικό και πιο εύχρηστο τρόπο για να δει κανείς τη πρόγνωση του καιρο΄ύ άμεσα στον τερματικό του, αντί να την αναζητήσει στο διαδίκτυο με browsing._**
 ![Weather fetch command line](https://user-images.githubusercontent.com/72515787/101266647-89e47580-3759-11eb-894b-e683bba55ae3.gif)
-### _Link της άσκησης στο asciinema:_(https://asciinema.org/a/tA1Ap924v3d2w119ZgNQfHbQL)_
+### _Link της άσκησης στο asciinema:_(https://asciinema.org/a/9uBvaDvNf6RttOI5UQyZZyimF)_
 
 
 
@@ -88,8 +88,9 @@
 # Παραδοτέο 7ο 
 ## Άσκηση γραμμής εντολών Ntfy (SW)
 **_Link της άσκησης στο asciinema:_**
-[![asciicast](https://asciinema.org/a/nhgNrJZWMRWDxR0iT6rXwk8Rl.svg)](https://asciinema.org/a/nhgNrJZWMRWDxR0iT6rXwk8Rl)
+[![asciicast](https://asciinema.org/a/VCYZ9sE0T2vOjma3oPDF6FBcY.svg)](https://asciinema.org/a/VCYZ9sE0T2vOjma3oPDF6FBcY)
 
+**Αποτέλεσμα:**
 ![Ntfy gif](https://user-images.githubusercontent.com/72515787/102396438-207c2680-3fe5-11eb-8a6d-7ca369e45dcf.gif)
 
 
