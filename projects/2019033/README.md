@@ -9,7 +9,7 @@
 | --- | --- |
 | 1 | [Εισαγωγή](#εισαγωγή) |
 | 2 | [Validation-form](#validation-form) *GUI* |
-| 3 | [Setup the main dependencies and demonstrate base system](#άσκηση-γραμμής-εντολών) *CLI* |
+| 3 | [Setup the main dependencies and demonstrate base system](#setup-the-emain-dependencies-and-demonstrate-base-syste) *CLI* |
 | 4 | [Menu Scroll](#menu-scroll) *GUI* |
 | 5 | [Organise the terminal window into multiple areas](#organise-the-terminal-window-into-multiple-areas) *CLI* |
 | 6 | [Συμμετοχικό περιεχόμενο](#συμμετοχικό-περιεχόμενο) *Site* |
@@ -37,7 +37,7 @@ Netlify Link: https://hci-p2019033.netlify.app/remix/form-validation/
 
 Για την συγκεκριμένη εργασία έλαβα βοήθεια απο [w3schools](w3schools.com) καθώς και το [geeksforgeeks](geeksforgeeks.org), πέρα απο τις προϋπάρχουσες γνώσεις που είχα.
 
-## Άσκηση γραμμής εντολών 
+## Setup the main dependencies and demonstrate base system 
 
 Περιγραφή άσκησης
 (change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software))
