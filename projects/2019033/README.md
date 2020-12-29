@@ -42,7 +42,7 @@ Netlify Link: https://hci-p2019033.netlify.app/remix/form-validation/
 Περιγραφή άσκησης
 (change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software))
 
-![bash](https://i.imgur.com/4K7ABR8.gif)
+[![asciicast](https://asciinema.org/a/368186.svg)](https://asciinema.org/a/368186)
 
 Asciinema link: https://asciinema.org/a/368186
 
