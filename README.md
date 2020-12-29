@@ -66,9 +66,13 @@ https://2019239.netlify.app
 
 * 3η άσκηση
 
-[![asciicast](https://asciinema.org/a/TiQFb9PNyNOfs3UMwzEEGdiWR.svg)](https://asciinema.org/a/TiQFb9PNyNOfs3UMwzEEGdiWR)
+Ασχολήθηκα με τη δημιουργία παρουσίασης με το εργαλείο mdp. Η παρουσίαση παρουσιάζεται στο παρακάτω link.
 
-Πραγματοποίησα την άσκηση όπου κατεβάζεις και αναπαράγεις τραγούδι από το youtube μέσω terminal με τη χρήση εργαλείων όπως το youtube-dl και το mpv. Σχετικά με την καταγραφή της οθόνης χρησιμοποίησα εφαρμογή του υπολογιστή.
+[![asciicast](https://asciinema.org/a/eFpcKa73cHuQskG4NLZsE9qX6.svg)](https://asciinema.org/a/eFpcKa73cHuQskG4NLZsE9qX6)
+
+Ένα 2ο, πιο αναλυτικό video παρουσιάζεται στη συνέχεια. Σε αυτό βλέπουμε και τη χρήση του vim text editor.
+
+[![asciicast](https://asciinema.org/a/NbpaCXvpGZOO5giUYYIlZmKaa.svg)](https://asciinema.org/a/NbpaCXvpGZOO5giUYYIlZmKaa)
 
 * 4η άσκηση
 
@@ -96,13 +100,10 @@ https://2019239.netlify.app
 
 ## Άσκηση γραμμής εντολών 2
 
-Ασχολήθηκα με τη δημιουργία παρουσίασης με το εργαλείο mdp. Η παρουσίαση παρουσιάζεται στο παρακάτω link.
 
-[![asciicast](https://asciinema.org/a/eFpcKa73cHuQskG4NLZsE9qX6.svg)](https://asciinema.org/a/eFpcKa73cHuQskG4NLZsE9qX6)
+[![asciicast](https://asciinema.org/a/TiQFb9PNyNOfs3UMwzEEGdiWR.svg)](https://asciinema.org/a/TiQFb9PNyNOfs3UMwzEEGdiWR)
 
-Ένα 2ο, πιο αναλυτικό video παρουσιάζεται στη συνέχεια. Σε αυτό βλέπουμε και τη χρήση του vim text editor.
-
-[![asciicast](https://asciinema.org/a/NbpaCXvpGZOO5giUYYIlZmKaa.svg)](https://asciinema.org/a/NbpaCXvpGZOO5giUYYIlZmKaa)
+Πραγματοποίησα την άσκηση όπου κατεβάζεις και αναπαράγεις τραγούδι από το youtube μέσω terminal με τη χρήση εργαλείων όπως το youtube-dl και το mpv. Σχετικά με την καταγραφή της οθόνης χρησιμοποίησα εφαρμογή του υπολογιστή.
 
 
 ## Συμμετοχικό περιεχόμενο 1
