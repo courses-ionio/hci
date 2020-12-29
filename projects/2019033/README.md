@@ -39,8 +39,7 @@ Netlify Link: https://hci-p2019033.netlify.app/remix/form-validation/
 
 ## Setup the main dependencies and demonstrate base system 
 
-Περιγραφή άσκησης
-(change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software))
+Περιήγηση αρχείων εντός του τερματικού και εμφάνιση πληροφοριών του συστήματος.
 
 [![asciicast](https://asciinema.org/a/368186.svg)](https://asciinema.org/a/368186)
 
@@ -64,34 +63,33 @@ Asciinema link: https://asciinema.org/a/371655
 
 ## Συμμετοχικό Περιεχόμενο 
 
-Links από το αποθετήριο μου από τους φάκελος/αρχεία που άλλαξα η δημιούργησα:
+Στα παρακάτω Link βρίσκονται οι εικόνες με την λεζάντα τους για τα εξής θέματα:
 
-Amazon Alexa - Image - Slides - Timeline 
+Amazon Alexa:
 
-https://www.github.com/Tsimpliarakis/_gallery/tree/master/amazon-alexa.md
+Η Alexa είναι η ψηφιακή βοηθός της Amazon που ενσωματώνεται στις συσκευές Echo αλλά και όχι μόνο. Έχει πολλές δυνατότητες όπως πραγματοποίηση κλήσεων, ανάγνωση μηνυμάτων, ενημέρωση για τον καιρό καθώς και χιλιάδες άλλες λειτουργείες.
 
-https://www.github.com/Tsimpliarakis/site/tree/master/_timeline%2Fartificial-intelligence.md
+Εικόνα: https://hci-p2019033.netlify.app//gallery/amazon-alexa/
+Χρονολόγιο: https://hci-p2019033.netlify.app//timeline/artificial-intelligence/
 
-https://www.github.com/Tsimpliarakis/site/tree/master/_slides%2Fdefinition.md
+Joystick:
 
+Το joystick είναι μία νέα μορφή χειρισμού βιντεοπαιχνιδιών, που ξεφεύγει απο τα όρια του πληκτρολογίου και του ποντικιου και προσφέρει αναλογικό χειρισμό στα παιχνίδια.
 
-Joystick - Image - Slides - Timeline 
-
-
-https://www.github.com/Tsimpliarakis/_gallery/tree/master/joystick.md
-
-https://www.github.com/Tsimpliarakis/site/tree/master/_timeline%2Fvideogames.md
-
-https://www.github.com/Tsimpliarakis/site/tree/master/_slides%2Fvideogames.md
-
+Εικόνα: https://hci-p2019033.netlify.app//gallery/joystick/
+Χρονολόγιο: https://hci-p2019033.netlify.app//timeline/videogames/
 
 Microvision<br/>
 Η πρώτη φορητή κονσόλα.<br/>
 
+Εικόνα: https://hci-p2019033.netlify.app//gallery/microvision/
+Χρονολόγιο: https://hci-p2019033.netlify.app//timeline/videogames/
+
 Osborne1<br/>
+Ο πρώτος 'φορητός' υπολογιστής.<br/>
 
-Ο πρώτος 'φορητός' μικρουπολογιστής.<br/>
-
+Εικόνα: https://hci-p2019033.netlify.app//gallery/osborne1/
+Χρονολόγιο: https://hci-p2019033.netlify.app//timeline/personal/
 
 ## Mouse Form
 
