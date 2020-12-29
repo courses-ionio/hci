@@ -9,12 +9,12 @@
 | 3 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών 1η"></span> <span class="toctext">Άσκηση γραμμής εντολών 1η</span></a>|
 | 4 | Άσκηση προγραμματισμού <li><a href="#Άσκηση προγραμματισμού 2η"></span> <span class="toctext">Άσκηση προγραμματισμού 2η</span></a> |
 | 5 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών 2η"></span> <span class="toctext">Άσκηση γραμμής εντολών 2η</span></a>|
-| 6 | Συμμετοχικό περιεχόμενο <li><a href="#Συμμετοχικό περιεχόμενο"></span> <span class="toctext">Συμμετοχικό περιεχόμενο</span></a> |
+| 6 | Συμμετοχικό περιεχόμενο <li><a href="#Συμμετοχικό περιεχόμενο 1o"></span> <span class="toctext">Συμμετοχικό περιεχόμενο 1o</span></a> |
 | 7 | Άσκηση Προγραμματισμού <li><a href="#Άσκηση προγραμματισμού 3η"></span> <span class="toctext">Άσκηση προγραμματισμού 3η</span></a> |
 | 8 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών 3η"></span> <span class="toctext">Άσκηση γραμμής εντολών 3η</span></a>|
 | 9 | Άσκηση Προγραμματισμού <li><a href="#Άσκηση προγραμματισμού 4η"></span> <span class="toctext">Άσκηση προγραμματισμού 4η</span></a>|
 | 10 | Άσκηση γραμμής εντολών |
-| 11 | Συμμετοχικό περιεχόμενο |
+| 11 | Συμμετοχικό περιεχόμενο <li><a href="#Συμμετοχικό περιεχόμενο 2o"></span> <span class="toctext">Συμμετοχικό περιεχόμενο 2o</span></a>|
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
 <h2><span id="Εισαγωγή">Εισαγωγή</span></h2>
@@ -49,7 +49,7 @@
   
    Σκοπός της άσκησης ήταν η εμφάνιση του καιρού στην πόλη μας, καθώς και μιας ακόμα πόλης που θέλουμε να ταξιδέψουμε μέσω του τερματικού των Ubuntu, με την χρήση του Windows Subsystem for Linux. Ειδικότερα, με την βοήθεια του asciinema κατάφερα να καταγράψω την διαδικασία αυτή.
   
-  <h2><span id="Συμμετοχικό περιεχόμενο">Συμμετοχικό περιεχόμενο</span></h2>
+  <h2><span id="Συμμετοχικό περιεχόμενο 1o">Συμμετοχικό περιεχόμενο 1o</span></h2>
     <li>1η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/web%20camera.jpg
     <li>2η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/keyboard.jpg
     <li>Πληροφορίες για την 1η εικόνα : https://github.com/AnastasiaMariaStefani/gallery/blob/master/web%20camera.md
@@ -76,3 +76,11 @@
   <li>Codepen: https://codepen.io/p19stef/pen/dypMXON
    
    Σκοπός της άσκησης ήταν η αλλαγή του χρώματος του αριθμού εξόδου, κάθε φορά που θα γινόταν μετακίνηση του ποντικιού.Αυτό επιτεύχθηκε με αλλαγή του CSS κομματιού, στο μπλοκ κώδικα του body.
+   
+   <h2><span id="Συμμετοχικό περιεχόμενο 2o">Συμμετοχικό περιεχόμενο 2o</span></h2>
+    <li>1η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/twitter.png
+    <li>2η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/graphical%20user%20interface.jpg
+    <li>Πληροφορίες για την 1η εικόνα : https://github.com/AnastasiaMariaStefani/gallery/blob/master/twitter.md
+    <li>Πληροφορίες για την 2η εικόνα :https://github.com/AnastasiaMariaStefani/gallery/blob/master/graphical%20user%20interface.md
+    <li>Σετ διαφανειών : https://github.com/AnastasiaMariaStefani/site/blob/master/_slides/preface.md
+    <li>Χρονολόγιο : https://github.com/AnastasiaMariaStefani/site/blob/master/_timeline/multimedia.md
