@@ -88,9 +88,12 @@
 # Παραδοτέο 7ο 
 ## Άσκηση γραμμής εντολών Ntfy (SW)
 **_Link της άσκησης στο asciinema:_**
+
 [![asciicast](https://asciinema.org/a/VCYZ9sE0T2vOjma3oPDF6FBcY.svg)](https://asciinema.org/a/VCYZ9sE0T2vOjma3oPDF6FBcY)
 
+
 **Αποτέλεσμα:**
+
 ![Ntfy gif](https://user-images.githubusercontent.com/72515787/102396438-207c2680-3fe5-11eb-8a6d-7ca369e45dcf.gif)
 
 
