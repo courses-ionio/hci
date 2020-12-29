@@ -58,6 +58,8 @@ Link άσκησης στο Netlify: https://hci-p2019033.netlify.app/remix/menu-
 
 Στην συγκεκριμένη άσκηση έπρεπε να οργανωθεί το τέρμιναλ σε 2 (ή και περισσότερα) παράθυρα. Στο 1ο θα εμφανίζεται με το εργαλείο glances τα resources που χρησιμοποιεί ο υπολογιστής εκείνη την στιγμή, ενώ στο άλλο παράθυρο γίνεται περιήγηση στο διαδίκτυο μέσω του w3m.
 
+[![asciicast](https://asciinema.org/a/371655.svg)](https://asciinema.org/a/371655)
+
 Asciinema link: https://asciinema.org/a/371655
 
 ## Συμμετοχικό Περιεχόμενο 
@@ -103,6 +105,8 @@ Netlify Link: https://hci-p2019033.netlify.app/remix/mouse-form/
 
 Η άσκηση mp3 download μέσω γραμμής εντολών, πραγματοποιήθηκε με την βοήθεια ενός σύντομου shell script στο οποίο ο χρήστης όταν το τρέξει, του ζητείται να δώσει τον τίτλο του τραγουδιού που θέλει να κατεβάσει και στην συνέχεια γίνεται κατέβασμα σε μορφή mp3 και στο τέλος γίνεται αναπαραγωγή του τραγουδιού εντός του τερματικού. Το script μπορεί να βρεθεί στο τέλος του asciinema.
 
+[![asciicast](https://asciinema.org/a/375956.svg)](https://asciinema.org/a/375956)
+
 Asciinema Link: https://asciinema.org/a/375956
 
 ## Plyr video player
@@ -117,7 +121,7 @@ Netlify Link: https://hci-p2019033.netlify.app/remix/plyr-video-player/
 
 Το emacs είναι ένας πολύ γνωστός text editor, ο οποίος ανάμεσα στις πολλές λειτουργείες του, προσφέρει και ένα mode που ονομάζεται Org-mode. Εντός του org-mode ο χρήστης μπορεί να δημιουργήσει πολύ εύκολα μία todo list. Αυτό λοιπόν πραγματοποιείται και στην άσκηση αυτή. 
 
-![Imgur](https://imgur.com/PUTqEjV.gif)
+[![asciicast](https://asciinema.org/a/379309.svg)](https://asciinema.org/a/379309)
 
 Asciinema Link: https://asciinema.org/a/379309
 
