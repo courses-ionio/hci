@@ -90,7 +90,11 @@ __Κώδικας για το mouse option__<br/>
 
 ## ΠΑΡΑΔΟΤΕΟ 9ο 
 __Κώδικας για το image__</br>
-[image](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/image/)<br/>
+[image](https://github.com/alexpoulis/site/blob/master/_remix/image.md)</br>
+[image netlify](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/image/)<br/>
+[image codepen](https://codepen.io/AlexPoulis/pen/poEeyYg)</br>
+Η μόνη αλλαγή που έκανα είναι να αντιγράψω τον παραπάνω κώδικα που ήδη υπήρχε και να προσθέσω _viewBox="0 0 300 300"_  στο τέλος καθώς χωρίς αυτό γινόταν η μικρή εικόνα η μία γωνία της και δεν εμφανιζόταν σωστά.
+[Η ιστοσελίδα που συμβουλευτικά για να βρω το viewbox command](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/viewBox)
  
 ## ΠΑΡΑΔΟΤΕΟ 10ο
 __Notes using emacs__<br/>
