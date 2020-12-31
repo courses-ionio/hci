@@ -83,7 +83,7 @@ __Κώδικας για το mouse option__<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω το status bar](https://askubuntu.com/questions/283908/how-can-i-install-and-use-powerline-plugin) 
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω το colore theme](https://github.com/altercation/vim-colors-solarized)</br>
 [Η ιστοσελίδα που συμβουλευτικά για να](http://lostleaf.github.io/2016/06/27/ubuntu-solarized/)</br>
-[[https://github.com/alexpoulis/images/blob/master/vimrc%20file.png|alt=vimrc%20file]]
+[.vimrc](https://github.com/alexpoulis/images/blob/master/vimrc%20file.png?raw=true)
 
 
 ## ΠΑΡΑΔΟΤΕΟ 9ο 
