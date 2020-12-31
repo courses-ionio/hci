@@ -17,7 +17,7 @@
 | 5 | [Άσκηση γραμμής εντολών</br>(youtube-dl)](#παραδοτεο-5ο) |
 | 6 | [συμμετοχικό περιεχόμενο](#παραδοτεο-6ο) |
 | 7 | [Άσκηση προγραμματισμού</br>(mouse option)](#παραδοτεο-7ο) |
-| 8 | Άσκηση γραμμής εντολών |
+| 8 | [Άσκηση γραμμής εντολών</br>add a status bar to your shell/editor and configure a color-theme](#παραδοτεο-8ο) |
 | 9 | [Άσκηση προγραμματισμού</br>(image)](#παραδοτεο-9ο) |
 | 10 | [Άσκηση γραμμής εντολών</br>(emacs)](#παραδοτεο-10ο) |
 | 11 | [συμμετοχικό περιεχόμενο](#παραδοτεο-11ο) |
@@ -50,7 +50,7 @@ __main dependencies and demonstration of my base system__<br/>
 <br/>
 ## ΠΑΡΑΔΟΤΕΟ 4ο
 __Κώδικας για το mouse form__<br/>
-[mouse form]()</br>
+[mouse form](https://github.com/alexpoulis/site/blob/master/_remix/mouse-form.md)</br>
 [mouse form netlify](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-form/)</br>
 [mouse form codepen](https://codepen.io/AlexPoulis/pen/ZEOodVb)</br>
 Στην άσκηση αυτή δεν χρειάστηκα να συμβουλευτώ κάποια ιστοσελίδα καθώς κοιτάζοντας τον κώδικα HTML κατάλαβα τον πως θα την κάνω( παρόλο ότι δεν έχω ασχοληθεί πολύ με HTML). Αυτό που έκανα είναι να φτιάξω ένα καινούργιο label ονομαζόμενο GENDER και κάνοντας την πρώτη επιλογή να γίνεται disabled αφού αρχίσω να διαλέγω από τις επιλογές και προσθέτοντας 2 ακόμα επιλογές(MALE and FEMALE) τελείωσα την άσκηση
@@ -77,7 +77,15 @@ __Κώδικας για το mouse option__<br/>
  Αφού συμβουλεύτηκα την παρακάτω ιστοσελίδα και μελετώντας τον κώδικα που μας δόθηκε δημιούργησα μία 3η επιλογή με τον ίδιο τρόπο που έγινε και παραπάνω αντικαθιστώντας το κείμενο που εμφανιζόταν στις επιλογές 1 και 2 με μία εικόνα.
 <br/>
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω βάλω την εικόνα](https://www.w3schools.com/html/html_images.asp)<br/>
- 
+
+## ΠΑΡΑΔΟΤΕΟ 8ο
+[add a status bar to your shell/editor and configure a color-theme](https://asciinema.org/a/SsuJXCWtXAfIW9Jp068qpNwtV)</br>
+[Η ιστοσελίδα που συμβουλευτικά για να αλλάξω το status bar](https://askubuntu.com/questions/283908/how-can-i-install-and-use-powerline-plugin) 
+[Η ιστοσελίδα που συμβουλευτικά για να αλλάξω το colore theme](https://github.com/altercation/vim-colors-solarized)</br>
+[Η ιστοσελίδα που συμβουλευτικά για να](http://lostleaf.github.io/2016/06/27/ubuntu-solarized/)</br>
+[[https://github.com/alexpoulis/images/blob/master/vimrc%20file.png|alt=vimrc%20file]]
+
+
 ## ΠΑΡΑΔΟΤΕΟ 9ο 
 __Κώδικας για το image__</br>
 [image](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/image/)<br/>
