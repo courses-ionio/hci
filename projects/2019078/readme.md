@@ -131,7 +131,7 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
   
  <a href="https://ibb.co/LtTCndc"><img src="https://i.ibb.co/2tzjg3C/w3m.png" alt="w3m" border="0"></a>
  
-  *2.3 Τα νέα των επιχειρήσεων*
+  *2.3 Τα νέα για τον covid-19*
    
   ## w3m <a name="i"></a>
    
@@ -141,7 +141,7 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
  
  <a href="https://ibb.co/FxMHksK"><img src="https://i.ibb.co/mDwNrvG/aws.png" alt="aws" border="0"></a>
    
-   *2.4 Η wikipedia με την χρήση w3m*
+   *2.4 Η ιστοσελίδα του cnn με την χρήση w3m*
    
    
    # Συμμετοχικό υλικό <a name="k"></a>
