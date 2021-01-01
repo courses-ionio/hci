@@ -15,7 +15,7 @@
 | 7 | [awesome-console-service](#g) |
 | 8 | [Ιmage Ζoom](#h) |
 | 9 | [w3m](#i)|
-| 10 | συμμετοχικό περιεχόμενο |
+| 10 | [συμμετοχικό υλικό](#l) |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
@@ -130,6 +130,12 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
    Asciinema:[w3m](https://asciinema.org/a/381390)
    
    Το w3m είναι ένας ανοικτού κώδικα περιηγητής ο οποίος υποστηρίζει πολλές λειτουργίες.Το μόνο που έχουμε να κάνουμε είναι να πληκτρολογήσεις w3m κενό και το λινκ της ιστοσελίδας που θέλεις να επισκεφτείς.Σε αυτήν μπορείς να περιηγηθείς με τα βελάκια και να ανοίξεις ακόμα και νέα λινκς πατώντας έντερ πάνω τους.
+   
+   # Συμμετοχικό υλικό <a name="k"></a>
+   
+   [images](https://github.com/Orfeaslambrou/images-1)
+   [colosuus](https://github.com/Orfeaslambrou/images-1/blob/master/colossus.md)
+   
 
 
 
