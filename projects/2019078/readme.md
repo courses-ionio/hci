@@ -153,7 +153,7 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
    
    # Άρθρα και σελίδες
    
-  Άρθρα και σελιδες που με βοήθησαν γιατην εκπόνηση της εργασίας
+  Άρθρα και σελιδες που με βοήθησαν για την εκπόνηση της εργασίας
   
   https://www.sitepoint.com/client-side-form-validation-html5/
   
