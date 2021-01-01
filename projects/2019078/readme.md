@@ -91,6 +91,10 @@ Emacs είναι μια οικογένεια επεξεργαστών κειμέ
 + Ctrl+x Ctrl+c για έξοδος χωρίς αποθήκευση 
 + Crtl+X s Crtl+X Crtl+C για έξοδος και αποθήκευση -  emacs <όνομα κειμένου> για να ανοίξουμε ένα υπάρχον κέιμενο
 
+<a href="https://ibb.co/SKrRKQm"><img src="https://i.ibb.co/9qtsqw4/emacs.png" alt="emacs" border="0"></a>
+
+*2.1 Το περιβάλλον του emacs*
+
 ## WTTR  <a name="e"></a>
 
 Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
