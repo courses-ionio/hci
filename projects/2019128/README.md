@@ -38,6 +38,7 @@ __Κώδικας για το button__<br/>
 [button netlify](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/button/)<br/>
 [button codepen](https://codepen.io/AlexPoulis/pen/WNxxPKV)</br>
 Το μόνο πρόβλημα που αντιμετώπισα ήταν ότι δεν πάτησα «edit on codepen» και έκανα copy paste τον κώδικα, κάτι που φαίνεται σε συνδυασμό με κάποιο bug υποθέτω, μου έκανε το οτιδήποτε έγραφα να μην δουλεύει . Για να σιγουρευτώ ότι δεν έκανα κάποιο λάθος εγώ, αντέγραψα έναν κώδικα από μία ιστοσελίδα( ο κώδικας δεν είχε σχέση με τον κώδικα button) και δεν δούλεψε πάλι κάτι που με έκανε να το ψάξω λίγο ακόμα και να βρω το κουμπί «edit on  codepen» που έκανε τον κώδικα να δουλεύει και αντικαθιστώντας το # με το link( στην συγκεκριμένη περίπτωση ενός βίντεο) στην δέυτερη γραμμή του HTML κώδικα τελείωσα την άσκηση. .</br>
+![Button](https://github.com/alexpoulis/images/blob/master/button.png)</br>
 [Το βίντεο που συμβουλευτικά για τον 2ο παραδοτέο](https://www.youtube.com/watch?v=UB1O30fR-EE&t=1516s)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για τον 2ο παραδοτέο](https://www.w3schools.com/html/html_colors.asp)<br/>
 <br/>
@@ -99,6 +100,7 @@ __Κώδικας για το image__</br>
 [image netlify](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/image/)<br/>
 [image codepen](https://codepen.io/AlexPoulis/pen/poEeyYg)</br>
 Η μόνη αλλαγή που έκανα είναι να αντιγράψω τον παραπάνω κώδικα που ήδη υπήρχε και να προσθέσω _viewBox="0 0 300 300"_  στο τέλος καθώς χωρίς αυτό γινόταν η μικρή εικόνα η μία γωνία της και δεν εμφανιζόταν σωστά.</br>
+![Image](https://github.com/alexpoulis/images/blob/master/Image.png)</br>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το viewbox command](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/viewBox)
  
 ## ΠΑΡΑΔΟΤΕΟ 10ο
