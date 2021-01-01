@@ -84,8 +84,10 @@ __Κώδικας για το mouse option__<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω το colore theme](https://github.com/altercation/vim-colors-solarized)</br>
 [Η ιστοσελίδα που συμβουλευτικά για να](http://lostleaf.github.io/2016/06/27/ubuntu-solarized/)</br>
 Με αυτό το παραδοτέο είχα αρκετά προβλήματα τα οποία με έκαναν να μην το τελειώσω. Έκανα το command  _vim ~/.bashrc_ για να βάλω τα commands για να αλλάξω το status line του terminal και μετά έκανα _vim ~/.vimrc_ για να αλλάξω το χρώμα κάτι που δεν κατάφερα να το κάνω καθώς μου έβγαζε errors που μετά από πολύ προσπάθεια δεν κατάφερα να τα λύσω τα οποία μαζί με το .vimrc file τα έχω κάνει link από κάτω.</br>  
-[.vimrc file](https://github.com/alexpoulis/images/blob/master/vimrc%20file.png?raw=true)
-[terminal output](https://github.com/alexpoulis/images/blob/master/problem%20with%20changing%20colors.png)
+vimrc file:<br/>
+![.vimrc file](https://github.com/alexpoulis/images/blob/master/vimrc%20file.png?raw=true)</br>
+terminal output that shows i have downloaded it and it still says that it can't find it:<br/>
+![terminal output](https://github.com/alexpoulis/images/blob/master/problem%20with%20changing%20colors.png)</br>
 
 
 ## ΠΑΡΑΔΟΤΕΟ 9ο 
