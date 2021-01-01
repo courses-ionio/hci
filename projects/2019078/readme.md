@@ -136,8 +136,25 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
    [images](https://github.com/Orfeaslambrou/images-1)
    [colosuus](https://github.com/Orfeaslambrou/images-1/blob/master/colossus.md)
    
-
-
+   # Άρθρα και σελίδες
+   
+  Άρθρα και σελιδες που με βοήθησαν γιατην εκπόνηση της εργασίας
+  
+  https://www.sitepoint.com/client-side-form-validation-html5/
+  
+  https://code.tutsplus.com/tutorials/editing-images-in-css-filters--cms-25948
+  
+  http://ergoemacs.org/emacs/emacs_basics.html
+  
+  https://orgmode.org/
+  
+  https://github.com/chubin/wttr.in
+  
+  https://github.com/chubin/awesome-console-services
+  
+  http://w3m.sourceforge.net/
+  
+  https://www.w3schools.com/Css/
 
 
 
