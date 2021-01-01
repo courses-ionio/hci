@@ -149,7 +149,7 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
    
    [images](https://github.com/Orfeaslambrou/images-1)
    
-   [colosuus](https://github.com/Orfeaslambrou/images-1/blob/master/colossus.md)
+   [colossus](https://github.com/Orfeaslambrou/images-1/blob/master/colossus.md)
    
    # Άρθρα και σελίδες
    
