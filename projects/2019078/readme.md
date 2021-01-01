@@ -124,16 +124,26 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
    Asciinema:[awesome-console-service](https://asciinema.org/a/381387)
    
   Για να διαβάσω τα νέα των επιχειρήσεων εκμεταλλεύτηκα την εντολή curl getnews.tech/world+cup που μου δινόταν.Επειδή όμως δεν ήθελα τα νέα για το παγκόσμιο κύπελο σκέφτηκα να αντικαταστήσω τους χαρακτήρες world+cup με το business.Έτσι ανακάλυψα πως έτσι μπορείς να μεταβείς στην οποιαδήποτε κατηγορία ειδήσεων ενδιαφέρεσαι  όπως sports,covid,economy και πολλά άλλα.
+  
+ <a href="https://ibb.co/LtTCndc"><img src="https://i.ibb.co/2tzjg3C/w3m.png" alt="w3m" border="0"></a>
+ 
+  *2.3 Τα νέα των επιχειρήσεων*
    
   ## w3m <a name="i"></a>
    
   Asciinema:[w3m](https://asciinema.org/a/381390)
    
  Το w3m είναι ένας ανοικτού κώδικα περιηγητής ο οποίος υποστηρίζει πολλές λειτουργίες.Το μόνο που έχουμε να κάνουμε είναι να πληκτρολογήσεις w3m κενό και το λινκ της ιστοσελίδας που θέλεις να επισκεφτείς.Σε αυτήν μπορείς να περιηγηθείς με τα βελάκια και να ανοίξεις ακόμα και νέα λινκς πατώντας έντερ πάνω τους.
+ 
+ <a href="https://ibb.co/FxMHksK"><img src="https://i.ibb.co/mDwNrvG/aws.png" alt="aws" border="0"></a>
+   
+   *2.4 Η wikipedia με την χρήση w3m*
+   
    
    # Συμμετοχικό υλικό <a name="k"></a>
    
    [images](https://github.com/Orfeaslambrou/images-1)
+   
    [colosuus](https://github.com/Orfeaslambrou/images-1/blob/master/colossus.md)
    
    # Άρθρα και σελίδες
@@ -155,6 +165,8 @@ Asccinema:[wttr](https://asciinema.org/a/dfC3adSCQXWUbVDn2gDRg8bEC)
   http://w3m.sourceforge.net/
   
   https://www.w3schools.com/Css/
+  
+  https://el.imgbb.com/
 
 
 
