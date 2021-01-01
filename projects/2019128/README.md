@@ -4,9 +4,11 @@
 
 ## ΑΜ: Π2019128
 
-[my profile](https://github.com/alexpoulis)
+[my GitHub profile](https://github.com/alexpoulis)
 
-[my repository](https://github.com/alexpoulis/hci/tree/2019128)
+[my GitHub repository](https://github.com/alexpoulis/hci/tree/2019128)
+
+[my codepen profile](https://codepen.io/AlexPoulis)
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
@@ -53,8 +55,8 @@ __Κώδικας για το mouse form__<br/>
 [mouse form](https://github.com/alexpoulis/site/blob/master/_remix/mouse-form.md)</br>
 [mouse form netlify](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-form/)</br>
 [mouse form codepen](https://codepen.io/AlexPoulis/pen/ZEOodVb)</br>
-Στην άσκηση αυτή δεν χρειάστηκα να συμβουλευτώ κάποια ιστοσελίδα καθώς κοιτάζοντας τον κώδικα HTML κατάλαβα τον πως θα την κάνω( παρόλο ότι δεν έχω ασχοληθεί πολύ με HTML). Αυτό που έκανα είναι να φτιάξω ένα καινούργιο label ονομαζόμενο GENDER και κάνοντας την πρώτη επιλογή να γίνεται disabled αφού αρχίσω να διαλέγω από τις επιλογές και προσθέτοντας 2 ακόμα επιλογές(MALE and FEMALE) τελείωσα την άσκηση
- (Male\Female)<br/>
+Στην άσκηση αυτή δεν χρειάστηκα να συμβουλευτώ κάποια ιστοσελίδα καθώς κοιτάζοντας τον κώδικα HTML κατάλαβα τον πως θα την κάνω( παρόλο ότι δεν έχω ασχοληθεί πολύ με HTML). Αυτό που έκανα είναι να φτιάξω ένα καινούργιο label ονομαζόμενο GENDER και κάνοντας την πρώτη επιλογή να γίνεται disabled αφού αρχίσω να διαλέγω από τις επιλογές και προσθέτοντας 2 ακόμα επιλογές(MALE and FEMALE) τελείωσα την άσκηση.<br/>
+![label](https://github.com/alexpoulis/images/blob/master/label.png)
 ## ΠΑΡΑΔΟΤΕΟ 5ο
 __download mp3 using youtube-dl__</br>
 [youtube-dl](https://asciinema.org/a/d32tjGtGzWHCzuwjgGEKzveBF)</br>
@@ -76,11 +78,12 @@ __Κώδικας για το mouse option__<br/>
 [mouse option codepen](https://codepen.io/AlexPoulis/pen/eYzqVZv)</br>
  Αφού συμβουλεύτηκα την παρακάτω ιστοσελίδα και μελετώντας τον κώδικα που μας δόθηκε δημιούργησα μία 3η επιλογή με τον ίδιο τρόπο που έγινε και παραπάνω αντικαθιστώντας το κείμενο που εμφανιζόταν στις επιλογές 1 και 2 με μία εικόνα.
 <br/>
+![mouse option](https://github.com/alexpoulis/images/blob/master/mouse%20option.png)</br>
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω βάλω την εικόνα](https://www.w3schools.com/html/html_images.asp)<br/>
 
 ## ΠΑΡΑΔΟΤΕΟ 8ο
 [add a status bar to your shell/editor and configure a color-theme](https://asciinema.org/a/SsuJXCWtXAfIW9Jp068qpNwtV)</br>
-[Η ιστοσελίδα που συμβουλευτικά για να αλλάξω το status bar](https://askubuntu.com/questions/283908/how-can-i-install-and-use-powerline-plugin) 
+[Η ιστοσελίδα που συμβουλευτικά για να αλλάξω το status bar](https://askubuntu.com/questions/283908/how-can-i-install-and-use-powerline-plugin)</br>
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω το colore theme](https://github.com/altercation/vim-colors-solarized)</br>
 [Η ιστοσελίδα που συμβουλευτικά για να](http://lostleaf.github.io/2016/06/27/ubuntu-solarized/)</br>
 Με αυτό το παραδοτέο είχα αρκετά προβλήματα τα οποία με έκαναν να μην το τελειώσω. Έκανα το command  _vim ~/.bashrc_ για να βάλω τα commands για να αλλάξω το status line του terminal και μετά έκανα _vim ~/.vimrc_ για να αλλάξω το χρώμα κάτι που δεν κατάφερα να το κάνω καθώς μου έβγαζε errors που μετά από πολύ προσπάθεια δεν κατάφερα να τα λύσω τα οποία μαζί με το .vimrc file τα έχω κάνει link από κάτω.</br>  
