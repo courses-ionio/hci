@@ -53,12 +53,21 @@
   ![FloppyDiskComparetoFlashDisk](https://github.com/xar1sgeovlacp2019059/images/blob/master/FloppyDiskComparetoFlashDisk.jpg)
   
   ![FloppyDiskFrontSide](https://github.com/xar1sgeovlacp2019059/images/blob/master/FloppyDiskFrontSide.jpg)
-  
   links στο site/images:<a href="https://github.com/xar1sgeovlacp2019059/images/blob/c842d8f98f0557dcc71c02173620c1d222831704/FloppyDiskComparetoFlashDisk.jpg">FloppyDiskComparetoFlashDisk</a></span>, <a href="https://github.com/xar1sgeovlacp2019059/images/blob/c842d8f98f0557dcc71c02173620c1d222831704/FloppyDiskFrontSide.jpg">FloppyDiskFrontSide</a></span>
   
   links στο site/gallery:<a href="https://github.com/xar1sgeovlacp2019059/_gallery/blob/e40a34f72f35cd282132f9665cbaf346e1c6bc29/FloppyDiskComparetoFlashDisk.md">FloppyDiskComparetoFlashDisk</a></span>,<a href="https://github.com/xar1sgeovlacp2019059/_gallery/blob/e40a34f72f35cd282132f9665cbaf346e1c6bc29/FloppyDiskFrontSide.md">FloppyDiskFrontSide</a></span>
   
   netlify links:<a href="https://youthful-ardinghelli-4374b1.netlify.app/gallery/floppydiskcomparetoflashdisk/">FloppyDiskComparetoFlashDisk</a></span>,<a href="https://youthful-ardinghelli-4374b1.netlify.app/gallery/floppydiskfrontside/">FloppyDiskFrontSide</a></span>
+ ## A2
+  Επειδή οι συγκεκριμένες εικόνες δεν ταίριαζαν με κάποιο υπάρχον σετ από διαφάνιες, και χρονολόγιο αποφάσισα να φτοιάξω ένα νέο σετ διαφανιών και χρονολόγιο με το όνομα Αποθήκες δεδομένων. Σε αυτό θα περιέχονται όλα τα μέσα αποθήκευσης δεδομένων ψηφιακά και υλικά.
+  <a href="https://github.com/xar1sgeovlacp2019059/site/blob/master/_slides/Data%20storage.md">slides/Data Storage</a></span>
+  
+  <a href="https://github.com/xar1sgeovlacp2019059/site/blob/master/_slides/Data%20storage.md">slides/netlify link</a></span>
+  
+  <a href="https://github.com/xar1sgeovlacp2019059/site/blob/master/_slides/Data%20storage.md">timelne/Data Storage</a></span>
+  
+  <a href="https://github.com/xar1sgeovlacp2019059/site/blob/master/_slides/Data%20storage.md">timelne/Data Storage</a></span>
+  
 # Παραδοτέο 7 
 ## Άσκηση προγραμματισμου 3:
  Διαλεξα την συγγκεκριμένη άσκηση λόγο έλειψης χρόνου καθώς και δυσκολίας κατανόησης της css σε συνδιασμο με την html. Επιπλέον,σε πολλες απο τις ασκήσεις παρουσιάζονταν errors στην js, και ηταν διαφορετικές στο codepen παρ'οτι ήταν αντιγραφή επικόληση με το έτοιμο παράδειγμα στις ασκήσεις. Στην συγκεκριμένη άσκηση παρ'οτι υπήρχε το ίδιο πρόβλημα με την js  . Δείτε την άσκηση <a href="https://determined-meitner-e02add.netlify.app/remix/button/"> εδω</a></span> 
