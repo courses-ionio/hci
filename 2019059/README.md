@@ -11,12 +11,12 @@
 | 2 | [Mouse form](#Παραδοτέο-2) |
 | 3 | [set-up the main dependencies and demonstrate your base system(warm up)](#Παραδοτέο-3) | 
 | 4 | [Menu empty](#Παραδοτέο-4) |
-| 5 | [Άσκηση γραμμής εντολών 2](#Παραδοτέο-5) |
+| 5 | [download mp3(hci)](#Παραδοτέο-5) |
 | 6 | [Συμμετοχικό περιεχόμενο](#Παραδοτέο-6) |
 | 7 | [Button](#Παραδοτέο-7)|
-| 8 | [format your report](#Παραδοτέο-8) |
+| 8 | [format your report(hci)](#Παραδοτέο-8) |
 | 9 | [Form validation](#Παραδοτέο-9) |
-| 10 | [organize your notes with emacs](#Παραδοτέο-10) |
+| 10 | [organize your notes with emacs(hci)](#Παραδοτέο-10) |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
