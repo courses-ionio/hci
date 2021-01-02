@@ -48,7 +48,7 @@
 
 # Παραδοτέο 6
  <br/>
-![label](https://github.com/alexpoulis/images/blob/master/label.png)
+![label](https://github.com/alexpoulis/images/blob/master/label.png) </br>
 
 # Παραδοτέο 7 
 ## Άσκηση προγραμματισμου 3:
