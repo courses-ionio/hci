@@ -54,7 +54,8 @@
   
   ![FloppyDiskFrontSide](https://github.com/xar1sgeovlacp2019059/images/blob/master/FloppyDiskFrontSide.jpg)
   
-  links στο site/images:<a href="https://github.com/xar1sgeovlacp2019059/images/blob/master/FloppyDiskComparetoFlashDisk.jpg">FloppyDiskComparetoFlashDisk</a></span>, <a href="https://github.com/xar1sgeovlacp2019059/images/blob/master/FloppyDiskFrontSide.jpg">FloppyDiskFrontSide.jpg</a></span>
+  links στο site/images:<a href="https://github.com/xar1sgeovlacp2019059/images/blob/c842d8f98f0557dcc71c02173620c1d222831704/FloppyDiskComparetoFlashDisk.jpg">FloppyDiskComparetoFlashDisk</a></span>, <a href="https://github.com/xar1sgeovlacp2019059/images/blob/c842d8f98f0557dcc71c02173620c1d222831704/FloppyDiskFrontSide.jpg">FloppyDiskFrontSide.jpg</a></span>
+  links στο site/gallery:
 # Παραδοτέο 7 
 ## Άσκηση προγραμματισμου 3:
  Διαλεξα την συγγκεκριμένη άσκηση λόγο έλειψης χρόνου καθώς και δυσκολίας κατανόησης της css σε συνδιασμο με την html. Επιπλέον,σε πολλες απο τις ασκήσεις παρουσιάζονταν errors στην js, και ηταν διαφορετικές στο codepen παρ'οτι ήταν αντιγραφή επικόληση με το έτοιμο παράδειγμα στις ασκήσεις. Στην συγκεκριμένη άσκηση παρ'οτι υπήρχε το ίδιο πρόβλημα με την js  . Δείτε την άσκηση <a href="https://determined-meitner-e02add.netlify.app/remix/button/"> εδω</a></span> 
