@@ -48,7 +48,8 @@
 
 # Παραδοτέο 6
  <br/>
-![default](https://youthful-ardinghelli-4374b1.netlify.app/gallery/floppydiskfrontside/) <br>
+![label](https://github.com/xar1sgeovlacp2019059/images/blob/c842d8f98f0557dcc71c02173620c1d222831704/FloppyDiskComparetoFlashDisk.jpg)
+https://youthful-ardinghelli-4374b1.netlify.app/gallery/floppydiskfrontside/
 
 # Παραδοτέο 7 
 ## Άσκηση προγραμματισμου 3:
