@@ -47,8 +47,7 @@
   Η άσκηση γραμμής εντολών βρίσκεται <a href="https://asciinema.org/a/cJBOyNhVPfR0z13XMykgw7BCE">εδω</a></span>. 
 
 # Παραδοτέο 6
- </br>
-![label](https://github.com/alexpoulis/images/blob/master/label.png) </br>
+ ![label](https://github.com/alexpoulis/images/blob/master/label.png)
 
 # Παραδοτέο 7 
 ## Άσκηση προγραμματισμου 3:
