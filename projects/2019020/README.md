@@ -30,5 +30,6 @@
 
 <h6>Βιβλιογραφία:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
 <br> <a href="https://pibook.epidro.me/remix/">Ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της άσκησης.</a></ul>
