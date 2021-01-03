@@ -4,7 +4,7 @@ A.M.: Π2019150
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a> |
-| 2 | Άσκηση προγραμματισμού ή βιογραφικό  (SW) |
+| 2 | <li><a href="#Image Processing"><span class="toctext">Image Processing</span></a> |
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
 | 5 | Άσκηση γραμμής εντολών |
@@ -15,3 +15,21 @@ A.M.: Π2019150
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
+
+
+<br><br>
+<h2><span id="Προσδοκίες από το μάθημα">(1) Προσδοκίες από το μάθημα</span></h2>
+Στόχος μου για αυτό το μάθημα είναι να αποκομήσω όσα περισσότερες πληροφορίες μπορώ
+
+
+<br><br>
+<h2><span id="Image Processing">(2) Image Processing (Άσκηση Προγραμματισμού)</span></h2>
+<p>
+  (περιγραφή άσκησης)
+<a href="https://github.com/u2nmd/site/blob/master/_remix/image-filter.md">Image Processing</a> ///////βαζω το δικο μου λινκ
+         
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://codepen.io">Codepen.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/image-filter/">Eκφώνηση .</a></ul>
