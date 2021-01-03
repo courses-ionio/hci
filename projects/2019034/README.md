@@ -1,7 +1,7 @@
 <h4>ΑΜ: Π2019034
 <h4>Ονοματεπώνυμο: Ιάκωβος-Ιάσων Τούντας
 
-<br>| Εβδομάδα* | Παραδοτέο |
+| Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 |<li><a href="#Προσδοκίες από το μάθημα"><span class="toctext">Προσδοκίες από το μάθημα</span></a>|
 | 2 |<li><a href="#Image Processing"><span class="toctext">Image Processing</span></a>| 
