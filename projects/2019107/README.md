@@ -5,7 +5,7 @@ AM:Π2019107
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | <li><a href="#Προσδοκίες από το μάθημα"><span class="toctext">Προσδοκίες από το μάθημα</span></a> |
+| 1 | <li><a href="#Εισαγωγή στο μάθημα"><span class="toctext">Εισαγωγή στο μάθημα</span></a> |
 | 2 | Άσκηση προγραμματισμού ή βιογραφικό  (SW) <a href="https://github.com/TheodoreZ-107/site/blob/master/_remix/image-filter.md">Παραδοτέο 2</a> <br> <h6>Βιβλιογραφία</h6> <ul> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> <br> <a href="https://codepen.io">Codepen.</a> </ul>|
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
