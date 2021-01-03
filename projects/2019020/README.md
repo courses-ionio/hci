@@ -27,6 +27,7 @@
 <p>Η άσκηση αυτή είχε να κάνει με την επεξεργασία των φίλτρων μιας εικόνας ή και συνδυασμό αυτών. Ταυτόχρονα, έγινε επεξεργασία ευκρίνειας, ρύθμιση αντίθεσης κλπ. Επεξεργάστηκα το τμήματα του CSS κώδικα, αξιοποιώντας τα ήδη υπάρχοντα σχόλια.
 
 <a href="https://github.com/alkarvounis/site/blob/master/_remix/image-filter.md">Image Filter</a>
+<br><a href="https://youthful-mestorf-2441d4.netlify.app/">Image Filter (Embed)</a>
 
 <h6>Βιβλιογραφία:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
