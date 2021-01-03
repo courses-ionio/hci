@@ -20,15 +20,11 @@ AM:Π2019107
 
 
 <br><br>
-<h2><span id="Προσδοκίες από το μάθημα">(1) Προσδοκίες από το μάθημα</span></h2>
-
+<h2><span id="Προσδοκίες μου από το μάθημα">(1) Προσδοκίες μου από το μάθημα</span></h2>
+Οι προσδοκιες μου απο το μαθημα ηταν να μαθω να χρησιμοποιω
 
 <br><br>
 <h2><span id="Image Processing">(2)  (Άσκηση Προγραμματισμού)</span></h2>
 <p>
   
-  <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
-<ul> <a href="https://codepen.io/%22%3ECodepen.</a>
-<br> <a href="https://courses-ionio.github.io/projects/remix/%22%3EΟδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
-<br> <a href="https://pibook.epidro.me/remix/%22%3EΛίστα με τις ασκήσεις προγραμματισμού.</a>
-<br> <a href="https://pibook.epidro.me/remix/image-filter/%22%3EΗ εκφώνηση της άσκησης που έκανα.</a></ul>
+  <a href="</a>
