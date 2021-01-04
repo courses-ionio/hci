@@ -37,7 +37,10 @@
  
 [mouse form codepen](https://codepen.io/alkinoospitsinis/pen/pobbpyK)</br>
 
-![mouse form](https://imgur.com/a/exZPcN8.png)
+
+
+![default](https://imgur.com/gFfMvXA.png)
+
 
  
 ## ΠΑΡΑΔΟΤΕΟ 3:
@@ -54,6 +57,8 @@
 
 [form validation codepen](https://codepen.io/alkinoospitsinis/pen/zYBjobO)</br>
 
+![default](https://imgur.com/VQyzijx.png)
+
 
 ## ΠΑΡΑΔΟΤΕΟ 5:
 Για το πέμτο παραδοτέο  διάλεξα την άσκηση Edit the vim or the shell configuration file.Επεξργάστηκα τις εντολές κώδικα που υπήρχαν στο αρχείο vim
@@ -64,10 +69,12 @@
 Για το συμμετοχικό περιεχόμενο πρόσθεσα δύο φωτογραφίες στο φάκελο image του δικού μου αποθετηρίου του βιβλίου και τα αντίστοιχα αρχεία στους φακέλους _gallery,slides και timeline.Στο συμμετοχικό περιεχόμενο αντιμετώπησα αρκετά προβλήματα καθώς μετά από αρκετές ώρες προσπάθειας δεν κατάφερα να εμφανιστούν όλα αυτά που πρόσθεσα στους φακέλους του αποθετηρίου στο δικό μου site του βιβλίου. 
 
 Φωτογράφιες σχετικά με την γλώσσα προγραμματισμού APL: https://github.com/alkinoospitsinis/images/blob/master/apl.png
+![default](https://imgur.com/yTEhypI.png)
 
 https://github.com/alkinoospitsinis/images/blob/master/apl-thumb.png
 
 https://github.com/alkinoospitsinis/images/blob/master/apl-graphical-Symbols.jpg
+![default](https://imgur.com/yDo3wPn.png)
 
 https://github.com/alkinoospitsinis/images/blob/master/apl-graphical-Symbols-thumb.jpg
 
