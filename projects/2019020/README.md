@@ -40,7 +40,7 @@
 <p>Στην άσκηση αυτή ζητήθηκε η ανάθεση μιας λειτουργίας της επιλογής μου σε ένα κουμπί. Έτσι, μετά από επεξεργασία του JavaScript κώδικα, έφτασα στο επιθυμητό αποτέλεσμα. Το κουμπί που δημιουργήθηκε, οδηγεί σε ένα τραγούδι της αρεσκείας μου.
 
 <a href="https://github.com/alkarvounis/site/blob/master/_remix/button.md">Button</a>
-<br><a href="https://youthful-mestorf-2441d4.netlify.app/remix/image-filter/">Button (Embed)</a>
+<br><a href="https://youthful-mestorf-2441d4.netlify.app/remix/button/">Button (Embed)</a>
 
 <h6>Βιβλιογραφία:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
