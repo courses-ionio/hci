@@ -10,7 +10,7 @@ AM:Π2019107
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | <li><a href="#Button"><span class="toctext">Button</span></a> |
 | 5 | Άσκηση γραμμής εντολών |
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
+| 6 | <li><a href="#Cat image zoom"><span class="toctext">Button</span></a> | |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -51,3 +51,16 @@ AM:Π2019107
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
+
+<br><br>
+<h2><span id="Cat image zoom">(6)  (Άσκηση Προγραμματισμού-Cat image zoom)</span></h2>
+<p>Στην άσκηση αυτή μας δώθηκε μια εικόνα μιας γάτας στην οποία γινόταν μεγένθυση όταν ο κέρσορας πέρναγε πάνω της και μας δώθηκε η επιλογή να 
+  την επεξεργαστούμε ετσι ώστε να έχει παράλληλα και κάποιο φίλτρο της επιλογής μας.
+  
+<a href="https://github.com/TheodoreZ-107/site/blob/master/_remix/image-zoom.md">Image zoom</a>
+<br><a href="https://optimistic-haibt-3ceed7.netlify.app/remix/image-zoom/">Image zoom (Embed)</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://codepen.io">Codepen.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/image zoom/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
