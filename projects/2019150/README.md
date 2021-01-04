@@ -29,10 +29,10 @@ A.M.: Π2019150
 <br><a href="https://github.com/bananabankai/site/blob/master/_remix/image-zoom.md">Image zoom</a> 
 <br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image-zoom/">Image zoom</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
-<ul> <a href="https://codepen.io">Codepen.</a>
-<br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού.</a>
-<br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού.</a>
-<br> <a href="https://pibook.epidro.me/remix/image-zoom/">Eκφώνηση .</a></ul>
+<ul> <a href="https://codepen.io">Codepen</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού</a>
+<br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού</a>
+<br> <a href="https://pibook.epidro.me/remix/image-zoom/">Eκφώνηση</a></ul>
 
 <br><br>
 <h2><span id="Image filter">(4) Image filter(Άσκηση Προγραμματισμού)</span></h2>
@@ -41,7 +41,7 @@ A.M.: Π2019150
 <br><a href="https://github.com/bananabankai/site/edit/master/_remix/image-filter.md">Image filter</a>
 <br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image-filter/">Image filter</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
-<ul> <a href="https://codepen.io">Codepen.</a>
-<br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού.</a>
-<br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού.</a>
-<br> <a href="https://pibook.epidro.me/remix/image-filter/">Eκφώνηση .</a></ul>
+<ul> <a href="https://codepen.io">Codepen</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού</a>
+<br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού</a>
+<br> <a href="https://pibook.epidro.me/remix/image-filter/">Eκφώνηση</a></ul>
