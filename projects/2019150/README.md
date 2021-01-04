@@ -4,7 +4,7 @@ A.M.: Π2019150
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a> |
-| 2 | <li><a href="#Image Processing"><span class="toctext">Image Processing</span></a> |
+| 2 | <li><a href="#Image zoom"><span class="toctext">Image zoom</span></a> |
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
 | 5 | Άσκηση γραμμής εντολών |
