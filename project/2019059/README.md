@@ -53,6 +53,7 @@
   ![FloppyDiskComparetoFlashDisk](https://github.com/xar1sgeovlacp2019059/images/blob/master/FloppyDiskComparetoFlashDisk.jpg)
   
   ![FloppyDiskFrontSide](https://github.com/xar1sgeovlacp2019059/images/blob/master/FloppyDiskFrontSide.jpg)
+  
   links στο site/images:<a href="https://github.com/xar1sgeovlacp2019059/images/blob/c842d8f98f0557dcc71c02173620c1d222831704/FloppyDiskComparetoFlashDisk.jpg">FloppyDiskComparetoFlashDisk</a></span>, <a href="https://github.com/xar1sgeovlacp2019059/images/blob/c842d8f98f0557dcc71c02173620c1d222831704/FloppyDiskFrontSide.jpg">FloppyDiskFrontSide</a></span>
   
   links στο site/gallery:<a href="https://github.com/xar1sgeovlacp2019059/_gallery/blob/e40a34f72f35cd282132f9665cbaf346e1c6bc29/FloppyDiskComparetoFlashDisk.md">FloppyDiskComparetoFlashDisk</a></span>,<a href="https://github.com/xar1sgeovlacp2019059/_gallery/blob/e40a34f72f35cd282132f9665cbaf346e1c6bc29/FloppyDiskFrontSide.md">FloppyDiskFrontSide</a></span>
@@ -70,12 +71,12 @@
   
 # Παραδοτέο 7 
 ## Άσκηση προγραμματισμου 3:
- Διαλεξα την συγγκεκριμένη άσκηση λόγο έλειψης χρόνου καθώς και δυσκολίας κατανόησης της css σε συνδιασμο με την html. Επιπλέον,σε πολλες απο τις ασκήσεις παρουσιάζονταν errors στην js, και ηταν διαφορετικές στο codepen παρ'οτι ήταν αντιγραφή επικόληση με το έτοιμο παράδειγμα στις ασκήσεις. Στην συγκεκριμένη άσκηση παρ'οτι υπήρχε το ίδιο πρόβλημα με την js  . Δείτε την άσκηση <a href="https://determined-meitner-e02add.netlify.app/remix/button/"> εδω</a></span> 
+ Διαλεξα την συγγκεκριμένη άσκηση λόγο έλειψης χρόνου καθώς και δυσκολίας κατανόησης της css σε συνδιασμο με την html. Επιπλέον,σε πολλες απο τις ασκήσεις παρουσιάζονταν errors στην js, και ηταν διαφορετικές στο codepen παρ'οτι ήταν αντιγραφή επικόληση με το έτοιμο παράδειγμα στις ασκήσεις. Στην συγκεκριμένη άσκηση παρ'οτι υπήρχε το ίδιο πρόβλημα με την js  . Δείτε την άσκηση <a href="https://determined-meitner-e02add.netlify.app/remix/button/"> εδω</a></span>
 # Παραδοτέο 8
 ## Άσκηση γραμμής εντολών 3:
  Για αυτή την άσκηση πείρα αναφωρές απο τα παρακάτω sites: <a href="https://www.youtube.com/watch?v=w8EKH_fjmXA"> site1</a></span>,<a href="https://www.youtube.com/watch?v=bvkmnK6-qao"> site2</a></span>,<a href="https://www.youtube.com/watch?v=bTE-l4NhW1I&t=322s"> site3</a></span>. Δυστυχώς, συνάντησα πολλά προβλήματα, αρχικά το ubuntu δεν αναγνώριζε τα ελληνικά με αποτέλεσμα το pdf να είναι γραμμένο με περίεργους χαρακτήρες, επιπλέον προσπάθησα να φτοιάξω τον πίνακα περιεχομένων όμως δεν βγήκε όπως περίμενα.
 <a href="https://asciinema.org/a/faImYMMFtlsDzzNKAkdvErIjb"> το αρχείο ms με τη αναφωρά</a></span> , <a href="https://asciinema.org/a/9i8X0eQ87HX51qzvgCGvXj6sC"> μετατροπή του αρχείου ms σε pdf</a></span>
-
+  ![Παραδοτέο 8](https://github.com/xar1sgeovlacp2019059/images/blob/master/IMG_20210104_171940.jpg)
 # Παραδοτέο 9
 ## Άσκηση προγραμματισμου 4:
  Σε αυτή την άσκηση όπως και στις προϊγούμενες ασκήσεις προγραμματισμού πειραματιστικα με τον κώδικα html και κατάφερα να φτοιάξω δυο επιπλέον επιλογές μια για το email και μια για τον αριθμό πιστοτικής κάρτας, καθώς επίσης και να αλλάξω τον ελεγχο τηλεφώνου των 11 χαρακτήρων στους 10 χαρακτήρες. Δείτε την άσκηση <a href="https://xar1sgeovlacp2019059.netlify.app/remix/form-validation/"> εδω</a></span> 
