@@ -298,7 +298,7 @@ ytp, youtube-dl, mpv, mps-youtube, sox, vlc
 [EyeToy: Play - Wikipedia](https://en.wikipedia.org/wiki/EyeToy:_Play) |
 [Video Game History Timeline - The Strong National Museum of Play](https://www.museumofplay.org/about/icheg/video-game-history/timeline) |
 [Wii - Wikipedia](https://en.wikipedia.org/wiki/Wii) |
-[Wii - Remote](https://en.wikipedia.org/wiki/Wii_Remote)
+[Wii Remote - Wikipedia](https://en.wikipedia.org/wiki/Wii_Remote)
 
 # 7ο Παραδοτέο - Mouse Option
 
