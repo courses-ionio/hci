@@ -85,9 +85,9 @@
 # Παραδοτέο 11
 ## Β1
  Σαν μελέτη περίπτωσης διάλεξα το github διότι με αυτό το εργαλείο μάθαμε και ασχολούμαστε αυτο το εξάμηνο
- link για μελέτη περίπτωσης:<a href="https://github.com/xar1sgeovlacp2019059/site/blob/master/_case-study/github.md"> github</a></span>
- link για τις εικόνες: <a href="https://github.com/xar1sgeovlacp2019059/images/blob/0652d7e27533fb1cb6ab9c7356399080e0d87989/github.jpg"> εδω</a></span>,<a href="https://github.com/xar1sgeovlacp2019059/images/blob/0652d7e27533fb1cb6ab9c7356399080e0d87989/github2.jpg"> εδω</a></span>, <a href="https://github.com/xar1sgeovlacp2019059/images/blob/0652d7e27533fb1cb6ab9c7356399080e0d87989/github%20fork.jpg"> εδω</a></span>
- αναφωρές πήρα απο <a href="https://github.com/xar1sgeovlacp2019059/images/blob/0652d7e27533fb1cb6ab9c7356399080e0d87989/github%20fork.jpg"> εδω</a></span>
+ link για μελέτη περίπτωσης:<a href="https://github.com/xar1sgeovlacp2019059/site/blob/master/_case-study/floppy%20disk.md"> floppy disk</a></span>
+ link για τις εικόνες: <a href="https://github.com/xar1sgeovlacp2019059/images/blob/master/Floppy_disk_(back).png"> εδω</a></span>,<a href="https://github.com/xar1sgeovlacp2019059/images/blob/0652d7e27533fb1cb6ab9c7356399080e0d87989/FloppyDiskComparetoFlashDisk.jpg"> εδω</a></span>, <a href="https://github.com/xar1sgeovlacp2019059/images/blob/0652d7e27533fb1cb6ab9c7356399080e0d87989/FloppyDiskFrontSide.jpg"> εδω</a></span>
+ αναφωρές πήρα απο <a href="https://el.wikipedia.org/wiki/%CE%94%CE%B9%CF%83%CE%BA%CE%AD%CF%84%CE%B1_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE"> εδω</a></span>
 ## Β2
  Σαν βιογραφια διάλεξα την βιογραφια του Yoshino Nakamatsu εφευρέτη του floppy Disk και πολλών άλλων εφευρέσεων.
   <a href="https://github.com/xar1sgeovlacp2019059/site/blob/master/_biography/Yoshiro%20Nakamatsu.md"> βιογραφία στο github</a></span>
