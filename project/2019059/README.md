@@ -3,6 +3,7 @@
 
 # Α.Μ. : π2019059
 <a href="https://asciinema.org/~p2019059"> ο λογαριασμός μου στο asciinema </a>
+
 <a href="https://codepen.io/xar1sgeovlacp2019059"> ο λογαριασμός μου στο codepen</a>
 
 | Εβδομάδα* | Παραδοτέο |
