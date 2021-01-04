@@ -10,7 +10,7 @@ AM:Π2019107
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | <li><a href="#Button"><span class="toctext">Button</span></a> |
 | 5 | Άσκηση γραμμής εντολών |
-| 6 | <li><a href="#Cat image zoom"><span class="toctext">Button</span></a> | |
+| 6 | <li><a href="#Cat image zoom"><span class="toctext">Cat image zoom</span></a> | |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
