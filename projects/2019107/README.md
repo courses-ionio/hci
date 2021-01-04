@@ -6,7 +6,7 @@ AM:Π2019107
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | <li><a href="#Εισαγωγή στο μάθημα"><span class="toctext">Εισαγωγή στο μάθημα</span></a> |
-| 2 | Άσκηση προγραμματισμού ή βιογραφικό  (SW) <a href="https://github.com/TheodoreZ-107/site/blob/master/_remix/image-filter.md">Παραδοτέο 2</a> <br> <h6>Βιβλιογραφία</h6> <ul> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> <br> <a href="https://codepen.io">Codepen.</a> </ul>|
+| 2 | <li><a href="#Image Processing"><span class="toctext">Image Processing</span></a>|
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
 | 5 | Άσκηση γραμμής εντολών |
@@ -21,10 +21,21 @@ AM:Π2019107
 
 <br><br>
 <h2><span id="Προσδοκίες μου από το μάθημα">(1) Προσδοκίες μου από το μάθημα</span></h2>
-Οι προσδοκιες μου απο το μαθημα ηταν να μαθω να χρησιμοποιω
+Οι προσδοκιες μου απο το μαθημα είναι να μάθω να χρησιμοποιώ το Github καθώς και πως να κωδικοποιώ διάφορες λειτουργίες στο διαδύκτιο,
+όπως η επεξεργασία εικόνων, κάτι το οποίο θα μου χρησιμέυσειαρκετά στην μελλοντικη μου δουλειά.
 
 <br><br>
 <h2><span id="Image Processing">(2)  (Άσκηση Προγραμματισμού)</span></h2>
-<p>
+<p>Στην άσκηση προγραμματισμου μας δώθηκε μια εικόνα την οποια έπρεπε να επεξεργαστούμε ετσι ώστε όταν ο κέρσορας
+  περνάει πάνω απο την εικόνα αυτή να γίνεται ασπρομαυρη.
+ 
+<a href="https://github.com/TheodoreZ-107/site/blob/master/_remix/image-filter.md">Image Filter</a>
+<br><a href="https://optimistic-haibt-3ceed7.netlify.app/remix/image-filter/">Image Filter (Embed)</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://codepen.io">Codepen.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
+
   
   <a href="</a>
