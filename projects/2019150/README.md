@@ -57,8 +57,4 @@ A.M.: Π2019150
 <ul> <a href="https://codepen.io">Codepen</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού</a>
-<br> <a href="<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
-<ul> <a href="https://codepen.io">Codepen</a>
-<br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού</a>
-<br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού</a>
 <br> <a href="https://pibook.epidro.me/remix/image/">Eκφώνηση</a></ul>
