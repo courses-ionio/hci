@@ -10,7 +10,7 @@
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | <li><a href="#Image Zoom"><span class="toctext">Image Zoom</span></a>|
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
-| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
+| 8 | <li><a href="#Sort List"><span class="toctext">Sort List</span></a>|
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | Συμμετοχικό περιεχόμενο |
 | 11 | Αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -60,4 +60,18 @@
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
 <br> <a href="https://pibook.epidro.me/remix/">Ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/image-zoom/">Η εκφώνηση της άσκησης.</a></ul>
+
+<br><br>
+<h2><span id="Sort List">(8) Άσκηση Προγραμματισμού - Sort List</span></h2>
+<p>Η συγκεκριμένη άσκηση αφορά την επεξεργασία μιας εικόνας όσον αφορά στη μεγέθυνση της, αλλά και στην εφαρμογή φίλτρων με το πέρασμα του ποντικιού από πάνω της. Συνεπώς, δεν αλλάχτηκε ο ήδη υπάρχων κώδικας, προστέθηκε όμως κομμάτι CSS κώδικα από προηγούμενη άσκηση επεξεργασίας φίλτρων εικόνας.
+
+<a href="https://github.com/alkarvounis/site/blob/master/_remix/sortable-list.md">Sort List</a>
+<br><a href="https://youthful-mestorf-2441d4.netlify.app/remix/sortable-list/">Sort List (Embed)</a>
+
+<h6>Βιβλιογραφία:</h6>
+<ul> <a href="https://codepen.io">Codepen.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
+<br> <a href="https://pibook.epidro.me/remix/">Ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/sortable-list/">Η εκφώνηση της άσκησης.</a></ul>
+
 
