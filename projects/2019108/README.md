@@ -38,9 +38,9 @@
 
 # ΣΥΝΟΨΗ
 
-Οι τίτλοι των παραδοτέων που υλοποιήθηκαν βρίσκονται στα περιεχόμενα. Όλα τα παραδοτέα υλοποιήθηκαν πλήρως ή και με το παραπάνω και έγιναν commit έγκυρα συνήθως πολύ νωρίτερα από την ημερομηνία τους. Για αναλυτική σύνοψη του τι έγινε και την ακριβής ημερομηνία που έγιναν αλλαγές επισκεφθείτε το commit history του github όπου όλα τα commit έχουν κατάλληλο όνομα. Το μόνο παραδοτέο που υπήρξε ένα μικρό πρόβλημα είναι το παραδοτέο 6 (Συμμετοχικό Α1 και Α2) όπου λόγο προβλήματος με το update των submodule τα αρχεία τα ανέβασα σε ένα custom repository και πρόσθεσα τα link προς αυτό για κατοχύρωση της προθεσμίας, όμως πλέον έλυσα το πρόβλημα και έχω αλλάξει τα links προς τα updated submodule. <br />
+Οι τίτλοι των παραδοτέων που υλοποιήθηκαν βρίσκονται στα περιεχόμενα. Όλα τα παραδοτέα υλοποιήθηκαν πλήρως ή και με το παραπάνω (Exta προσθήκες στις ασκήσεις προγραμματισμού, 2 asciinema links με διαφορετικές εκτελέσεις και Shell Scripts στις ασκήσεις γραμμής εντολών) και έγιναν commit έγκυρα συνήθως πολύ νωρίτερα από την ημερομηνία τους. Για αναλυτική σύνοψη του τι έγινε και την ακριβής ημερομηνία που έγιναν αλλαγές επισκεφθείτε το commit history του github όπου όλα τα commit έχουν κατάλληλο όνομα. Το μόνο παραδοτέο που υπήρξε ένα μικρό πρόβλημα είναι το παραδοτέο 6 (Συμμετοχικό Α1 και Α2) όπου λόγο προβλήματος με το update των submodule τα αρχεία τα ανέβασα σε ένα custom repository και πρόσθεσα τα link προς αυτό για κατοχύρωση της προθεσμίας, όμως πλέον έλυσα το πρόβλημα και έχω αλλάξει τα links προς τα updated submodule. <br />
 <br />
-Σε περίπτωση που έχουν πραγματοποιηθεί περεταίρω ενέργειες από αυτά που ζητάει η εκφώνηση της εργασίας αυτές περιγράφονται αναλυτικά  στην υποενότητα του αντίστοιχου παραδοτέου. Όσον αφορά τις δυσκολίες, πάντα υπήρχαν πολλές και έπαιρναν πολύ χρόνο για να λυθούν. Οι δυσκολίες των παραδοτέων δεν αναφέροντα σχολαστικά καθώς είναι πάρα πολλές και μακροσκελείς. Όμως τα link των πηγών και η έρευνα που έχω κάνει πάνω σε κάθε παραδοτέο προδίδουν τυχόν παραπάνω προβλήματα από όσα αναφέρονται. <br />
+Σε περίπτωση που έχουν πραγματοποιηθεί περεταίρω ενέργειες από αυτά που ζητάει η εκφώνηση της εργασίας αυτές περιγράφονται αναλυτικά  στην υποενότητα του αντίστοιχου παραδοτέου. Όσον αφορά τις δυσκολίες, πάντα υπήρχαν πολλές και έπαιρναν πολύ χρόνο για να λυθούν. Οι δυσκολίες των παραδοτέων δεν αναφέροντα σχολαστικά καθώς είναι πάρα πολλές και μακροσκελείς, όμως τα links των πηγών και η έρευνα που έχω κάνει πάνω σε κάθε παραδοτέο προδίδουν τυχόν παραπάνω προβλήματα από όσα αναφέρονται. <br />
 <br />
 
 # 2ο Παραδοτέο - Mouse Eraser
@@ -259,7 +259,7 @@ ytp, youtube-dl, mpv, mps-youtube, sox, vlc
 Το σετ διαφανειών που δημιούργησα ονομάζετε "Συσκευές Διάδρασης στα Βιντεοπαιχνίδια" ωστόσο πιστεύω ότι οι διαφάνειες μου θα μπορούσαν να προστεθούν και στο ήδη υπάρχον σετ διαφανειών που αφορά τα βιντεοπαιχνίδια.
 Επίσης δημιούργησα ένα χρονολόγιο με το ίδιο όνομα που δείχνει την διαδρομή αυτών των συσκευών μέσα στο χρόνο προσθέτοντας εκτός από το Wii και το Eye Toy και αρκετές συσκευές που ήδη υπήρχαν στο gallery.
 
-ΣΥΜΑΝΤΙΚΟ: Παρόλο που έκανα update ήδη υπάρχοντα αντικείμενα στο gallery και πρόσθεσα την ημερομηνία που δημιουργήθηκαν συνεχίζουν μερικά από τα αντικείμενα που έχω προσθέσει στο timeline μου να μην εμφανίζονται οπότε προτρέπω να δείτε το original md αρχείο στο repository μου διότι στο timeline του netlify δεν εμφανίζονται όλα τα entry μου, για άγνωστο προς το παρόν λόγο.
+ΣΥΜΑΝΤΙΚΟ: Παρόλο που έκανα update ήδη υπάρχοντα αντικείμενα στο gallery και πρόσθεσα την ημερομηνία που δημιουργήθηκαν συνεχίζουν μερικά από τα αντικείμενα που έχω προσθέσει στο timeline μου να μην εμφανίζονται στο netlify οπότε προτρέπω να δείτε το original .md αρχείο στο repository μου διότι στο timeline του netlify δεν εμφανίζονται όλα τα entry μου, για άγνωστο προς το παρόν λόγο. Υπάρχει ωστόσο περίπτωση το πρόβλημα να έχει διορθωθεί μέχρι την ημέρα της βαθμολόγησης.
 
 | Περιγραφή | Repository Link | Netlify Link |
 | --- | --- | --- |
@@ -269,6 +269,15 @@ ytp, youtube-dl, mpv, mps-youtube, sox, vlc
 | Images Wii | [Full Quality](https://github.com/KuhakuNeko/images/blob/a2bff13d94e83d1f308f75b4b67e595cc1e62338/wii-console.jpg) + [Thumbnail](https://github.com/KuhakuNeko/images/blob/a2bff13d94e83d1f308f75b4b67e595cc1e62338/wii-console-thumb.jpg) |  |
 | Slides | [Συσκευες Διαδρασης στα Βιντεοπαιχνιδια (Slides)](https://github.com/KuhakuNeko/site/blob/master/_slides/videogamesinteractiondevices.md) | [Διαφάνειες Συσκευών Διάδρασης στα Βιντεοπαιχνιδια](https://p2019108-ionio-pibook.netlify.app//slides/videogamesinteractiondevices/) |
 | Timeline | [Συσκευες Διαδρασης στα Βιντεοπαιχνιδια (Timeline)](https://github.com/KuhakuNeko/site/blob/master/_timeline/videogamesinteractiondevices.md) | [Χρονολόγιο Συσκευών Διάδρασης στα Βιντεοπαιχνιδια](https://p2019108-ionio-pibook.netlify.app//timeline/videogamesinteractiondevices/) |
+
+Οι σύνδεσμοι είναι λίγοι (και δεν χρησιμοποιήθηκαν ιδιαιτέρως σε αυτό το κομμάτι) διότι εγώ ο ίδιος κατέχω τις παραπάνω συσκευές και έχω ασχοληθεί αρκετά μαζί τους, οπότε γνώριζα πολλά πράγματα και από μόνος μου πάνω στο αντικείμενο.
+
+### Συνδέσμοι πηγών:
+[EyeToy - Wikipedia](https://en.wikipedia.org/wiki/EyeToy) |
+[EyeToy: Play - Wikipedia](https://en.wikipedia.org/wiki/EyeToy:_Play) |
+[Video Game History Timeline - The Strong National Museum of Play](https://www.museumofplay.org/about/icheg/video-game-history/timeline) |
+[Wii - Wikipedia](https://en.wikipedia.org/wiki/Wii) |
+[Wii - Remote](https://en.wikipedia.org/wiki/Wii_Remote)
 
 # 7ο Παραδοτέο - Mouse Option
 
@@ -485,8 +494,63 @@ Tmux, Byobu, glances, Nmon, Htop, Top, Tmux clock, Ls, Curl, Wttr.in, W3m
 | Σύντομη βιογραφία του Jaron Lanier | [jaron-lanier.md](https://github.com/KuhakuNeko/site/blob/master/_biography/jaron-lanier.md) + [bio-lanier.md](https://github.com/KuhakuNeko/site/blob/master/_biography/bio-lanier.md) | [Σύντομη βιογραφία του Jaron Lanier](https://p2019108-ionio-pibook.netlify.app//biography/jaron-lanier/) |
 | Η Περίπτωση του Embodiment Interaction και των συσκευών του στα Βιντεοπαιχνίδια | [videogames_embodiment_interaction.md](https://github.com/KuhakuNeko/site/blob/master/_case-study/videogames_embodiment_interaction.md) + [cs-videogames_embodiment_interaction.md](https://github.com/KuhakuNeko/site/blob/master/_case-study/cs-videogames_embodiment_interaction.md) | [Η Περίπτωση του Embodiment Interaction και των Συσκευών του στα Βιντεοπαιχνίδια](https://p2019108-ionio-pibook.netlify.app//case-study/videogames_embodiment_interaction/) |
 
+Για να δημιουργηθούν τα παραπάνω χρειάστηκαν πολλές ώρες με προσεκτικό διάβασμα όλων των πηγών που αναφέρω, όλων των ενοτήτων στο site του μαθήματος, άλλων γνώσεων που προέκυψαν μετά από ψάξιμο (που δεν σχετίζονται άμεσα), αλλά και μετά από πολύ έρευνα. Παρόλο που μπορεί το τελικό αποτέλεσμα να φαίνετε μακροσκελή είναι μια συμπύκνωση των γνώσεών μου μέσα από πολύωρη έρευνα και καλή κατανόηση των γνώσεων που απέκτησα πάνω στο θέμα το οποίο μου κίνησε το ενδιαφέρον μου ιδιαίτερα και με έκανε να το ερευνήσω σε βάθος.
+
+### Συνδέσμοι πηγών για Β1:
+[NamTai EyeToy for Sony PS2: Gaming grows eyes](https://www.edn.com/namtai-eyetoy-for-sony-ps2-gaming-grows-eyes/) |
+[EyeToy - Mixed Reality Wiki](https://mixedreality.fandom.com/wiki/EyeToy) |
+[ The Success of Sony EyeToy - StudyModeResearch](https://www.studymode.com/essays/The-Success-Of-Sony-Eyetoy-200056.html) |
+[Sony EyeToy Report](https://www.slideshare.net/frankliu0617/sony-eyetoy-finalreport) |
+[EyeToy - Wikipedia](https://en.wikipedia.org/wiki/EyeToy) |
+[Was the EyeToy a success? - GameSpot](https://www.gamespot.com/forums/system-wars-314159282/was-the-eyetoy-a-success-27223362/) |
+[Project Milo - Wikipedia](https://en.wikipedia.org/wiki/Project_Milo) |
+[Kinect - Wikipedia](https://en.wikipedia.org/wiki/Kinect) |
+[Video Game History Timeline - The Strong National Museum of Play](https://www.museumofplay.org/about/icheg/video-game-history/timeline) |
+[EyeToy: Play - Wikepedia](https://en.wikipedia.org/wiki/EyeToy:_Play) |
+[EyeToy: Play 3 - Wikepedia](https://en.wikipedia.org/wiki/EyeToy:_Play_3) |
+[EyeToy: Play - Metacritic](https://www.metacritic.com/game/playstation-2/eyetoy-play) |
+[EyeToy: Play 3 - Metacritic](https://www.metacritic.com/game/playstation-2/eyetoy-play-3) |
+[EyeToy: Play - Gamespot](https://www.gamespot.com/reviews/eyetoy-play-review/1900-6078136/) |
+[PlayStation Move - Wikepedia](https://en.wikipedia.org/wiki/PlayStation_Move) |
+[6 Pieces of Failed PlayStation Hardware](https://www.cheatsheet.com/entertainment/6-pieces-of-failed-playstation-hardware.html/) |
+[Why Did The PlayStation Move Fail? - Retro Only](https://retroonly.com/why-did-the-playstation-move-fail/) |
+[Videoplace - Wikipedia](https://en.wikipedia.org/wiki/Videoplace) |
+[VIDEOPLACE - Myron Krueger](https://aboutmyronkrueger.weebly.com/videoplace.html) |
+[Wii - Wikipedia](https://en.wikipedia.org/wiki/Wii) |
+[Wii Remote - Wikipedia](https://en.wikipedia.org/wiki/Wii_Remote) |
+[Why was the Nintendo wii so successful? - Quora](https://www.quora.com/Why-was-the-Nintendo-wii-so-successful) |
+[The Reason the Wii was Successful - Not Entirely Useless](https://notentirelyuseless.com/the-reason-the-wii-was-successful/) |
+[Nintendo Wii Remote Plus Review - Cnet](https://www.cnet.com/reviews/nintendo-wii-remote-plus-review/) |
+[The False Success of the Nintendo Wii - Nintendo Enthusiast](https://www.nintendoenthusiast.com/the-false-success-of-the-nintendo-wii/) |
+[History of VR - Timeline of Events and Tech Development - VirtualSpeech](https://virtualspeech.com/blog/history-of-vr) |
+[How Does The Xbox Kinect Work - Jameco Electronics](https://www.jameco.com/Jameco/workshop/Howitworks/xboxkinect.html) |
+[How the PlayStation Camera Works - HowStuffWorks](https://electronics.howstuffworks.com/playstation-camera.htm) |
+[How Microsoft Kinect Works - HowStuffWorks](https://electronics.howstuffworks.com/microsoft-kinect2.htm) |
+[How PlayStation Move Works - HowStuffWorks](https://electronics.howstuffworks.com/playstation-move.htm) |
+[Is there a microphone in the eyetoy? - Eurogamer](https://community.eurogamer.net/thread/36244) |
+[Using a Kinect as an Infrared Camera - Makezine](https://makezine.com/projects/using-a-kinect-as-an-infrared-camera/) |
+[How the Kinect Depth Sensor Works in 2 Minutes - CuriousInventor](https://www.youtube.com/watch?v=uq9SEJxZiUg) |
+[EyeToy Product Intro PS2](https://www.youtube.com/watch?v=A1A-k21SP-s) |
+[Virtual reality visionary Jaron Lanier on his Microsoft gig: Kinect is "beautiful, exciting" - GeekWire](https://www.geekwire.com/2011/virtual-reality-visionary-jaron-lanier-microsoft-gig-kinect-beautiful-exciting/)
+
+### Συνδέσμοι πηγών για Β2:
+[Author: Jaron Lanier - Audible](https://www.audible.com/author/Jaron-Lanier/B001JRXQEU) |
+[High-tech visionary comes home for NMSU's University Speakers Series / Jaron Lanier - New Mexico State University](https://newscenter.nmsu.edu/articles/view/8405) |
+[Jaron Lanier - Peace Prize of the German Book Trade](https://www.friedenspreis-des-deutschen-buchhandels.de/en/the-prizewinners/2010-2019/jaron-lanier) |
+[Jaron Lanier - Wikipedia](https://en.wikipedia.org/wiki/Jaron_Lanier) |
+[Brief Biography of Jaron Lanier - JaronLanier.com](http://www.jaronlanier.com/general.html) |
+[Jaron Lanier Computer Scientist; Musician; Author, Who Owns The Future? - Edge](https://www.edge.org/memberbio/jaron_lanier) |
+[The Visionary: A digital pioneer questions what technology has wrought. - The New Yorker](https://www.newyorker.com/magazine/2011/07/11/the-visionary) |
+[Jaron Lanier - Scientist, Musician, Artist & Author - Steven Barclay Agency](https://barclayagency.com/speakers/jaron-lanier/) |
+[Jaron Lanier - Your Dictionary](https://biography.yourdictionary.com/jaron-lanier) |
+[Want a lightning summary of Jaron Lanier's epic biography of Virtual Reality? Of course you do... - Phill Rowley](https://www.linkedin.com/pulse/want-lightning-summary-jaron-laniers-epic-biography-virtual-rowley) |
+[Jaron Lanier: American computer scientist, musician, and author - People Pill](https://peoplepill.com/people/jaron-lanier/) |
+[One Has This Feeling of Having Contributed to Something That’s Gone Very Wrong - Intelligencer](https://nymag.com/intelligencer/2018/04/jaron-lanier-interview-on-what-went-wrong-with-the-internet.html) |
+[TEDxSF - Jaron Lanier - You Are Not a Gadget](https://www.youtube.com/watch?v=IwbGumZ-FYg) |
+[Jaron Lanier - Learning by Experience & Play](https://www.youtube.com/watch?v=F9eFZpdSeRU) 
+
 # Bonus
-Συμμετείχα σε όλες τις διαλέξεις και όλα τα live quiz στο classtime, επίσης πείρα μέρος σε όλα τα εβδομαδιαία video quiz του μαθήματος.
+Συμμετείχα σε όλες τις διαλέξεις και όλα τα live quiz στο classtime με όνομα "Dimitris Kostadimas P2019108", επίσης πείρα μέρος σε όλα τα εβδομαδιαία video quiz του μαθήματος συνδεδεμένος με το github account μου "KuhakuNeko" και email "p19kost2@ionio.gr".
 
 # Έξτρα Ασκήσεις Terminal
 
