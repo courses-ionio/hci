@@ -49,15 +49,15 @@
 <br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης.</a></ul>
 
 <br><br>
-<h2><span id="Button">(4) Άσκηση Προγραμματισμού - Let's Party Button</span></h2>
+<h2><span id="Image Zoom">(6) Άσκηση Προγραμματισμού - Image Zoom&Filter</span></h2>
 <p>Στην άσκηση αυτή ζητήθηκε η ανάθεση μιας λειτουργίας της επιλογής μου σε ένα κουμπί. Έτσι, μετά από επεξεργασία του JavaScript κώδικα, έφτασα στο επιθυμητό αποτέλεσμα. Το κουμπί που δημιουργήθηκε, οδηγεί σε ένα τραγούδι της αρεσκείας μου.
 
-<a href="https://github.com/alkarvounis/site/blob/master/_remix/image-zoom.md">Button</a>
-<br><a href="https://youthful-mestorf-2441d4.netlify.app/remix/button/">Button (Embed)</a>
+<a href="https://github.com/alkarvounis/site/blob/master/_remix/image-zoom.md">Image Zoom</a>
+<br><a href="https://youthful-mestorf-2441d4.netlify.app/remix/image-zoom/">Image Zoom (Embed)</a>
 
 <h6>Βιβλιογραφία:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
 <br> <a href="https://pibook.epidro.me/remix/">Ασκήσεις προγραμματισμού.</a>
-<br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης.</a></ul>
+<br> <a href="https://pibook.epidro.me/remix/image-zoom/">Η εκφώνηση της άσκησης.</a></ul>
 
