@@ -25,8 +25,8 @@ A.M.: Π2019150
 <br><br>
 <h2><span id="Image Processing">(2) Image Processing (Άσκηση Προγραμματισμού)</span></h2>
 <p>
-  (περιγραφή άσκησης)
-<a href="https://github.com/u2nmd/site/blob/master/_remix/image-filter.md">Image Processing</a> ///////βαζω το δικο μου λινκ
+  Σε αυτή την άσκηση καλούμαστε να επεξεργαστούμε το πώς θα δείχει μία εικόνα όταν βάζουμε το ποντίκι πάνω της. Αυτό έγινε χρησιμοποιόντασ filter commands μέσα στην εντολή .wrap:hover και έτσι μαθαίνουμε αυτή την εντολή καθώς και filter commands.
+<a href="https://github.com/bananabankai/site/blob/master/_remix/image-zoom.md">Image Processing</a> ///////βαζω το δικο μου λινκ
          
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
