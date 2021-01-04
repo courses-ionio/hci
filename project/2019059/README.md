@@ -82,3 +82,14 @@
 # Παραδοτέο 10
 ## Άσκηση γραμμής εντολών 4:
  Δοκιμάζοντας όλες τις ασκήσεις,ψάχνοντας πληροφορίες και εκτελώντας κάποιες απο αυτές. Κατάφερα ακόμα και εκτώς προθεσμίας, να κάνω την τρίτη άσκηση απο τις hci. Αναφορές χρησιμοποίησα απο το <a href="https://www.youtube.com/watch?v=bzZ09dAbLEE"> site</a></span> για έναρξη του emacs  και δημιουργεία του προγράμματός μου αυτού του εξαμήνου. Στο πρόγραμμα μου περιέχονται οι ώρες για κάθε μάθημα ,για όλες τις ημέρες, σαν tags, δημιούργησα checkboxes για τις εργασίες που πρέπει να κάνω για κάθε μάθημα  καθώς και δημιουργεία  deadline για κάποια μαθήματα. Η άσκηση βρίσκεται <a href="https://asciinema.org/a/x8EEqefxBDJKJIyGnEphzy8LE"> εδω</a></span>
+# Παραδοτέο 11
+## Β1
+ Σαν μελέτη περίπτωσης διάλεξα το github διότι με αυτό το εργαλείο μάθαμε και ασχολούμαστε αυτο το εξάμηνο
+ link για μελέτη περίπτωσης:<a href="https://github.com/xar1sgeovlacp2019059/site/blob/master/_case-study/github.md"> github</a></span>
+ link για τις εικόνες: <a href="https://github.com/xar1sgeovlacp2019059/images/blob/0652d7e27533fb1cb6ab9c7356399080e0d87989/github.jpg"> εδω</a></span>,<a href="https://github.com/xar1sgeovlacp2019059/images/blob/0652d7e27533fb1cb6ab9c7356399080e0d87989/github2.jpg"> εδω</a></span>, <a href="https://github.com/xar1sgeovlacp2019059/images/blob/0652d7e27533fb1cb6ab9c7356399080e0d87989/github%20fork.jpg"> εδω</a></span>
+ αναφωρές πήρα απο <a href="https://github.com/xar1sgeovlacp2019059/images/blob/0652d7e27533fb1cb6ab9c7356399080e0d87989/github%20fork.jpg"> εδω</a></span>
+## Β2
+ Σαν βιογραφια διάλεξα την βιογραφια του Yoshino Nakamatsu εφευρέτη του floppy Disk και πολλών άλλων εφευρέσεων.
+  <a href="https://github.com/xar1sgeovlacp2019059/site/blob/master/_biography/Yoshiro%20Nakamatsu.md"> βιογραφία στο github</a></span>
+  αναφωρές πειρα από:<a href="https://peoplepill.com/people/yoshiro-nakamatsu/"> εδω</a></span>, <a href="https://evolution.skf.com/yoshiro-nakamatsu-2/"> εδω</a></span>
+  <a href="https://www.smithsonianmag.com/science-nature/dr-nakamats-the-man-with-3300-patents-to-his-name-134571403/"> εδω</a></span>, <a href="https://en.wikipedia.org/wiki/Yoshiro_Nakamatsu"> εδω</a></span>
