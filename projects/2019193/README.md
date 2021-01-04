@@ -5,7 +5,7 @@
 | --- | --- | 
 | 1 | [Εισαγωγή](#Εισαγωγή) | 
 | 2 | [Άσκηση Προγραμματισμού Form Validation](#Άσκηση-Προγραμματισμού-Form-Validation) |  
-| 3 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών-Download-mp3) | 
+| 3 | [Άσκηση γραμμής εντολών Download mp3](#Άσκηση-γραμμής-εντολών-Download-mp3) | 
 | 4 | [Άσκηση προγραμματισμού Sortable List](#Άσκηση-Προγραμματισμού-Sortable-List) | 
 | 5 | Άσκηση γραμμής εντολών | 
 | 6 | συμμετοχικό περιεχόμενο | 
@@ -33,7 +33,7 @@
 
 # Άσκηση γραμμής εντολών Download mp3
 
-<script id="asciicast-382617" src="https://asciinema.org/a/382617.js" async></script>
+[![asciicast](https://asciinema.org/a/382617.svg)](https://asciinema.org/a/382617)
 
 # Άσκηση Προγραμματισμού Sortable List
 [Netlify Sortable List](https://hci-p2019193.netlify.app/remix/sortable-list/)
