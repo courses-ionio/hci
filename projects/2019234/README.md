@@ -37,7 +37,7 @@
  
 [mouse form codepen](https://codepen.io/alkinoospitsinis/pen/pobbpyK)</br>
 
-![mouse form](https://imgur.com/a/exZPcN8)
+![mouse form](https://imgur.com/a/exZPcN8.png)
 
  
 ## ΠΑΡΑΔΟΤΕΟ 3:
