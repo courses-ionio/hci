@@ -8,7 +8,7 @@ AM:Π2019107
 | 1 | <li><a href="#Εισαγωγή στο μάθημα"><span class="toctext">Εισαγωγή στο μάθημα</span></a> |
 | 2 | <li><a href="#Image Processing"><span class="toctext">Image Processing</span></a>|
 | 3 | Άσκηση γραμμής εντολών |
-| 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
+| 4 | <li><a href="#Button"><span class="toctext">Button</span></a> |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -38,4 +38,16 @@ AM:Π2019107
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
 
   
-  <a href="</a>
+<br><br>
+<h2><span id="Button">(4)  (Άσκηση Προγραμματισμού)</span></h2>
+<p>Στην άσκηση προγραμματισμου μας δώθηκε ένα κουμπι το οποιο επρεπε εμεις να δώσουμε μια λειτουργεία.Για την εκτέλεση της εργασίας 
+  εδωσα στο κουμπί την λειτουργεία οταν καποιος το παταει να ανοιγε την ιστοσελίδα του youtube και να τον κατευθύνει σε ενα συγκεκριμένο
+  τραγούδι.
+ 
+<a href="https://github.com/TheodoreZ-107/site/blob/master/_remix/button.md">Button</a>
+<br><a href="https://optimistic-haibt-3ceed7.netlify.app/remix/button/">Button (Embed)</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://codepen.io">Codepen.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
