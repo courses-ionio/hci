@@ -23,9 +23,9 @@ A.M.: Π2019150
 
 
 <br><br>
-<h2><span id="Image Processing">(2) Image Processing (Άσκηση Προγραμματισμού)</span></h2>
+<h2><span id="Image zoom">(2) Image zoom (Άσκηση Προγραμματισμού)</span></h2>
 <p>
-  Σε αυτή την άσκηση καλούμαστε να επεξεργαστούμε το πώς θα δείχει μία εικόνα όταν βάζουμε το ποντίκι πάνω της. Αυτό έγινε χρησιμοποιόντας filter commands μέσα στην εντολή .wrap:hover και έτσι μαθαίνουμε αυτή την εντολή καθώς και filter commands. Ήταν μια καλή πρώτη άσκηση με πολύ ποσιτό περιεχόμενο και 
+  Σε αυτή την άσκηση καλούμαστε να επεξεργαστούμε το πώς θα δείχει μία εικόνα όταν βάζουμε το ποντίκι πάνω της και κάνει zoom. Αυτό έγινε χρησιμοποιόντας filter commands μέσα στην εντολή .wrap:hover και έτσι μαθαίνουμε αυτή την εντολή καθώς και filter commands. Ήταν μια καλή πρώτη άσκηση με πολύ ποσιτό περιεχόμενο και 
 <a href="https://github.com/bananabankai/site/blob/master/_remix/image-zoom.md">Image Processing</a> 
 <br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image-filter/">Image Filter</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
