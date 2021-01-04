@@ -6,7 +6,7 @@ A.M.: Π2019150
 | 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a> |
 | 2 | <li><a href="#Image zoom"><span class="toctext">Image zoom</span></a> |
 | 3 | Άσκηση γραμμής εντολών |
-| 4 | li><a href="#Image filter"><span class="toctext">Image filter</span></a> |
+| 4 | <li><a href="#Image filter"><span class="toctext">Image filter</span></a> |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
