@@ -40,3 +40,8 @@ A.M.: Π2019150
  Σε αυτή την άσκηση πρέπει να αλλάξουμε το filter μίας εικόνας όταν τοποθετούμε το ποντίκη σε αυτή. Αυτό έγινε με την βοήθεια των εντολών που υπήρχαν στα σχόλεια του css και αξιοποιήθηκαν μέσα στην εντολή img:hover. Για την υλποίηση χρησιμοποιήθηκαν css και html και Θα μπορούσα να πω πως η άσκηση ήταν αρκετά εύκολη αφού όλα όσα χρειαζόμασταν υπήρχαν στα σχόλια.
 <br><a href="https://github.com/bananabankai/site/edit/master/_remix/image-filter.md">Image filter</a>
 <br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image-filter/">Image filter</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://codepen.io">Codepen.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/image-filter/">Eκφώνηση .</a></ul>
