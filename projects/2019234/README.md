@@ -37,11 +37,13 @@
  
 [mouse form codepen](https://codepen.io/alkinoospitsinis/pen/pobbpyK)</br>
 
+![mouse form](https://imgur.com/a/exZPcN8)
+
  
 ## ΠΑΡΑΔΟΤΕΟ 3:
 Για το τρίτο παραδοτέο διάλεγα την άσκηση download mp3.Αρχικά την προσπάθησα στο Windows Linux Subsystem των windows 10 όπου και μου έβγαζε error οταν προσπαθούσα να παίξω το τραγούδι με το mpv μετά απο αρκετές ώρες προσπάθειας δεν κατάφερα να παίξει το mpv.Τελικά την έκανα σε virtual box  όπου όλα λητουργησαν κανονικά.Αρχικά εγκατέστησα το youtube-dl, το googler και το mpv,καλεσα το googler για να βρω το βιντεο που ήθελα ,μετα χρησιμοποίησα το youtube-dl με τις εντολές --extract-audio και --audio-format mp3 για να κατεβάσω το βίντεο σε μορφή mp3.Τέλος κάλεσα το mpv  για να παίξει το τραγούδι όπου και το άφησα για τέσσερα δευτερόλεπτα.
 
-[download mp3](https://asciinema.org/a/NoPXIYBWELR0q8Acikt0YJJvu)
+[download mp3](https://asciinema.org/a/NoPXIYBWELR0q8Acikt0YJJvu)</br>
 
 ## ΠΑΡΑΔΟΤΕΟ 4:
 Για το παραδοτέο τέσσερα διάλεξα την άσκηση form validation όπου ζητούσε την προσθήκη ελέγχου για email,credit card και ελληνικό τηλεφωνικό νούμερο.Αρχικά επεξεργάστηκα τον κώδικα HTML για το τηλέφωνο έτσι ώστε να δέχεται ελληνικούς αριθμούς ,μετά πρόσθεσα την επιλογή για την εισαγωγή του email και credit card.Τέλος για την credit card έβαλα την επιλογή να μπορείς να εισάγεις το pin και για το email  την διεύθηνση email σου. 
@@ -54,14 +56,20 @@
 
 
 ## ΠΑΡΑΔΟΤΕΟ 5:
+Για το πέμτο παραδοτέο  διάλεξα την άσκηση Edit the vim or the shell configuration file.Επεξργάστηκα τις εντολές κώδικα που υπήρχαν στο αρχείο vim
 
-https://asciinema.org/a/eTLepdVvpFNUiRahcsIoJomx2
+[ Edit the vim or the shell configuration file](https://asciinema.org/a/eTLepdVvpFNUiRahcsIoJomx2)</br>
 
 ## ΠΑΡΑΔΟΤΕΟ 6:
+Για το συμμετοχικό περιεχόμενο πρόσθεσα δύο φωτογραφίες στο φάκελο image του δικού μου αποθετηρίου του βιβλίου και τα αντίστοιχα αρχεία στους φακέλους _gallery,slides και timeline.Στο συμμετοχικό περιεχόμενο αντιμετώπησα αρκετά προβλήματα καθώς μετά από αρκετές ώρες προσπάθειας δεν κατάφερα να εμφανιστούν όλα αυτά που πρόσθεσα στους φακέλους του αποθετηρίου στο δικό μου site του βιβλίου. 
 
 Φωτογράφιες σχετικά με την γλώσσα προγραμματισμού APL: https://github.com/alkinoospitsinis/images/blob/master/apl.png
 
 https://github.com/alkinoospitsinis/images/blob/master/apl-thumb.png
+
+https://github.com/alkinoospitsinis/images/blob/master/apl-graphical-Symbols.jpg
+
+https://github.com/alkinoospitsinis/images/blob/master/apl-graphical-Symbols-thumb.jpg
 
 Προσθήκη της γλώσσας προγραμματισμού APL: https://github.com/alkinoospitsinis/_gallery/blob/master/apl.md
 
@@ -97,11 +105,14 @@ https://github.com/alkinoospitsinis/site/blob/master/_timeline/programming.md
 
 
 ## ΠΑΡΑΔΟΤΕΟ 10:
+Για το δέκατο παραδοτέο διάλεξα την άσκηση Manage your bookmarks.Αρχικά χρησιμοποίησα το googler για να αναζητήσω τα site που ήθελα και μετά το Buku.
+Στο Buku χρησιμοποίησα τις εξής εντολές: buku -w nano και buku -p
 
-https://asciinema.org/a/tjcMYRpO4O7wfhArv884G48Sb
+[Manage your bookmarks](https://asciinema.org/a/tjcMYRpO4O7wfhArv884G48Sb)</br>
 
 
 ## ΠΑΡΑΔΟΤΕΟ 11:
+Για το συμμετοχικό περιεχόμενο πρόσθεσα κάποια αρχεία στους φακέλους _biography και _case-study.Όπως προανέφερα ότι εχω προσθέση στο αποθετήριο δεν κατάφερα να το εμφανίσω και στο site μου .
 
 Προσθήκη στο biography: https://github.com/alkinoospitsinis/site/blob/master/_biography/bio-kenneth-iverson.md , https://github.com/alkinoospitsinis/site/blob/master/_biography/kenneth-iverson.md
 
