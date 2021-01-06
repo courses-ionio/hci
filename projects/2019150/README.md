@@ -67,3 +67,9 @@ A.M.: Π2019150
 Ως τέταρτη και τελευταία άσκηση προγραμματισμού επέλεξα την Mouse form. Σε σχέση με την τρίτη (image) μπορώ να πω πως ήταν πάρα πολύ πιο εύκωλη και κατανοητή, καθώς οι βασικές εντολές που έπρεπε να χρησιμοποιήσω υπήρχαν από πριν και εγώ έπρεπε να τις βρω και αξιοποιήσω. Σε αυτή την άσκηση δήνεται μία φόρμα με τρία κελιά (χρονιά - μήνας - μέρα) και εγώ πρέπει να δημιουργήσω ένα τέταρτο κελί που θα έχει ως επιλογές τα δύο φυλα. Φυσικά για την πραγματοποίηση επιλογής σε κάθε κελί ως συσκευή εισώδου θα χρησιμοποιήτε το ποντίκι.
 <br><a href="https://github.com/bananabankai/site/blob/master/_remix/mouse-form.md">Mouse form </a>
 <br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image/">Image filter</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://codepen.io">Codepen</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού</a>
+<br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού</a>
+<br> <a href="https://pibook.epidro.me/remix/mouse-form/">Eκφώνηση</a></ul>
+
