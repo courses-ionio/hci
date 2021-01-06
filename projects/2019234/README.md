@@ -138,3 +138,29 @@ https://github.com/alkinoospitsinis/site/blob/master/_timeline/programming.md
 * Προσθήκη στο case-study: https://github.com/alkinoospitsinis/site/blob/master/_case-study/apl.md , https://github.com/alkinoospitsinis/site/blob/master/_case-study/cs-apl.md
 
 
+
+* # Περιγραφή εργαλείων
+Αρχικά για τiς ασκήσεις προγραμματισμού χρησιμοποίησα την πλατφόρμα <ins> Codepen </ins> .Σε αυτή την πλατφόρμα χειάστηκε να εργαστώ στις γλώσσες <ins> HTML, CSS, JS </ins>.Για τις ασκήσεις γραμμών εντολών χρησιμποίησα  <ins> <Windows Linux Subsystem των windows 10 </ins> αλλά και <ins> Virtual Box </ins> .Στο terminal εγκατέστησα και χρησιμοποίησα το  <ins> Homebrew </ins>  όπου βοηθάει στη εγκατάσταη άλλων εργαλείων, το  <ins> Asciinema </ins>  για την καταγραφή τως ασκήσεων ,το  <ins> Googler </ins>  για την αναζήτηση ιστοσελίδων,το  <ins> Youtube-dl </ins>  για το κατέβασμα αρχείων σε μορφή mp3 και mp4, το  <ins> Mpv </ins>  άκουσμα των τραγουδιών και προβολή βίντεο, το  <ins> Buku </ins>  για τη δημιουργεία bookmarks, το  <ins> Vim </ins>  και <ins> Emacs </ins> για την δημιουργία και επεξεργασία κειμένων. Τέλος για το συμμετοχικό περιεχόμενο προσπάθησα να εργαστώ με <ins> git submodules </ins>.
+  
+   * # Πηγές
+     ### Για ασκήσεις προγραμματισμού
+      - [HTML](https://www.w3schools.com/html/)
+      - [CSS](https://www.w3schools.com/css/)
+     ### Για ασκήσεις γραμμής εντολων 
+       - [Homebrew](https://docs.brew.sh/Homebrew-on-Linux)
+       - [Asciinema](https://asciinema.org/docs/installation)
+     * **Download mp3:** <Br>
+       - [Googler](https://github.com/jarun/googler)
+       - [Youtube-dl](https://github.com/ytdl-org/youtube-dl)
+       - [Mpv](https://mpv.io/)
+     * **Manage your bookmarks:** <Br>
+        - [Buku](https://github.com/jarun/Buku)
+     * **Edit the vim or the shell configuration file:** <Br>
+        - [Vim](https://opensource.com/article/19/3/getting-started-vim)
+     * **Organize your notes with emacs:** <Br>
+        - [Emacs](https://orgmode.org/worg/org-tutorials/org4beginners.html)
+     ### Για συμμετοχικό περιεχόμενο
+      - [APL](https://www.whoishostingthis.com/resources/apl/)
+      - [More for APL](https://en.wikipedia.org/wiki/APL_(programming_language))
+      - [Kenneth Iverson](https://amturing.acm.org/award_winners/iverson_9147499.cfm)
+      - [More for Kenneth Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
