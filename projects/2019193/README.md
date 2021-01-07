@@ -8,7 +8,7 @@
 | 3 | [Άσκηση γραμμής εντολών Set-up the main dependencies and demonstrate your base system](#Άσκηση-γραμμής-εντολών-εισαγωγή-στο-bash)| 
 | 4 | [Άσκηση προγραμματισμού Sortable List](#Άσκηση-Προγραμματισμού-Sortable-List) | 
 | 5 | [Άσκηση γραμμής εντολών Download mp3](#Άσκηση-γραμμής-εντολών-Download-mp3) | 
-| 6 | Συμμετοχικό περιεχόμενο | 
+| 6 | [Συμμετοχικό περιεχόμενο](#Συμμετοχικό-περιεχόμενο-Α1-Α2) | 
 | 7 | [Άσκηση προγραμματισμού Mouse Form](#Άσκηση-Προγραμματισμού-Mouse-form) | 
 | 8 | [Άσκηση γραμμής εντολών Organize notes with emacs](#Άσκηση-γραμμής-εντολών-Οrganize-Εmacs) | 
 | 9 | [Άσκηση προγραμματισμού Button](#Άσκηση-Προγραμματισμού-Button) | 
@@ -52,6 +52,9 @@
 [Link του asciicast](https://asciinema.org/a/382768)
 
 [![asciicast](https://asciinema.org/a/382617.svg)](https://asciinema.org/a/382617)
+
+# Συμμετοχικό περιεχόμενο Α1 Α2
+
 
 # Άσκηση Προγραμματισμού Mouse form
 [Netlify Mouse form](https://hci-p2019193.netlify.app/remix/mouse-form/)
