@@ -6,7 +6,7 @@
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
 | 2 | Άσκηση προγραμματισμού <li><a href="#Mouse form"></span> <span class="toctext">Mouse form</span></a> |
 | 3 | Άσκηση γραμμής εντολών <li><a href="#Browse and view files on your system."></span> <span class="toctext">Browse and view files on your system.</span></a>|
-| 4 | Άσκηση προγραμματισμού <li><a href="#Image Processing"></span> <span class="toctext">Image Processing</span><a>|
+| 4 | Άσκηση προγραμματισμού <li><a href="#Image Processing"></span> <span class="toctext">Image Processing</span><a> |
 | 5 | Άσκηση γραμμής εντολών <li><a href="#fetch the weather forecast for your home city and one more city that you want to travel to."></span> <span class="toctext">fetch the weather forecast for your home city and one more city that you want to travel to.</span></a>|
 | 6 | Συμμετοχικό περιεχόμενο <li><a href="#1o Συμμετοχικό Περιεχόμενο"></span> <span class="toctext">1o Συμμετοχικό Περιεχόμενο</span></a> |
 | 7 | Άσκηση προγραμματισμού <li><a href="#Image zoom"></span> <span class="toctext">Image zoom</span></a> |
@@ -33,7 +33,7 @@
 
 <h2><span id="Image Processing">Image Processing</span><h2>
 
-Για δεύτερη άσκηση προγραμματισμού επέλεξα να κάνω την άσκηση **Image Processing**στην οποία έπρεπε ο χρήστης να προσθεσεί φίλτρα έτσι ώστε να αλλάζει η απόχρωση της εικόνας. Οι τροποποιήσεις έπρεπε να γίνουν στην γλώσσα CSS προσθέτοντας εντολές μέσα στη λειτουργία “hover”. Για την εφαρμογή του φίλτρου ήταν αναγκαία η κίνηση του ποντικιού πάνω από την εικόνα που δώθηκε. Τα φίλτρα που χρησιμοποίησα για την τροποποίηση της εικόνας ήταν “grayscale”, “sepia”, “hue-rotate” και  “contrast”.
+Για δεύτερη άσκηση προγραμματισμού επέλεξα να κάνω την άσκηση **Image Processing** στην οποία έπρεπε ο χρήστης να προσθεσεί φίλτρα έτσι ώστε να αλλάζει η απόχρωση της εικόνας. Οι τροποποιήσεις έπρεπε να γίνουν στην γλώσσα CSS προσθέτοντας εντολές μέσα στη λειτουργία “hover”. Για την εφαρμογή του φίλτρου ήταν αναγκαία η κίνηση του ποντικιού πάνω από την εικόνα που δώθηκε. Τα φίλτρα που χρησιμοποίησα για την τροποποίηση της εικόνας ήταν “grayscale”, “sepia”, “hue-rotate” και  “contrast”.
 
 * Σύνδεσμος για: [pibook](https://github.com/PetroulaStylianou/site/blob/master/_remix/image-filter.md)
 * Σύνδεσμος για: [codepen](https://codepen.io/petroulastylianou/pen/pobLaeO)
