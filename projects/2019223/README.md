@@ -26,7 +26,7 @@
 
 Αυτή την εβδομάδα ήρθα αντιμέτωπη με μια μεγάλη λίστα από ασκήσεις προγραμματισμού, αλλά μετά από αρκετό ψάξιμο κατέληξα για πρώτη άσκηση προγραμματισμού να πραγματοποιήσω την άσκηση **Mouse Form** στην οποία έπρεπε ο χρήστης να συμπληρώσει την ημερομηνία γέννησης του. Στο κώδικα χρειάστηκαν δυο γλώσσες, η HTML και CSS αλλά περισσότερη σημασία δώσαμε στην HTML. Το ζητούμενο της άσκησης ήταν η δημιουργία ενός επιπλέον κελιού με την βοήθεια κάποιον εντολών που υπήρχαν ήδη στον κώδικα με προεπιλεγμένη τιμή τα φύλα ( Male, Female).
 
-* Σύνδεσμος για: [pibook](https://github.com/PetroulaStylianou/site/blob/master/_remix/mouse-button.md)
+* Σύνδεσμος για: [pibook](https://github.com/PetroulaStylianou/site/blob/master/_remix/mouse-form.md)
 * Σύνδεσμος για: [codepen](https://codepen.io/petroulastylianou/pen/dyXXMxg)
 * Σύνδεσμος για: [Netlify](https://reverent-wilson-fb9523.netlify.app/remix/mouse-form/)
 
