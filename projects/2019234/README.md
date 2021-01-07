@@ -50,7 +50,7 @@
 
  
 ## ΠΑΡΑΔΟΤΕΟ 3:
-Για το τρίτο παραδοτέο διάλεγα την άσκηση download mp3.Αρχικά την προσπάθησα στο Windows Linux Subsystem των windows 10 όπου και μου έβγαζε error οταν προσπαθούσα να παίξω το τραγούδι με το mpv μετά απο αρκετές ώρες προσπάθειας δεν κατάφερα να παίξει το mpv.Τελικά την έκανα σε virtual box  όπου όλα λητουργησαν κανονικά.Αρχικά εγκατέστησα το youtube-dl, το googler και το mpv,καλεσα το googler για να βρω το βιντεο που ήθελα ,μετα χρησιμοποίησα το youtube-dl με τις εντολές --extract-audio και --audio-format mp3 για να κατεβάσω το βίντεο σε μορφή mp3.Τέλος κάλεσα το mpv  για να παίξει το τραγούδι όπου και το άφησα για τέσσερα δευτερόλεπτα.
+Για το τρίτο παραδοτέο διάλεξα την άσκηση download mp3.Αρχικά την προσπάθησα στο Windows Linux Subsystem των windows 10 όπου και μου έβγαζε error οταν προσπαθούσα να παίξω το τραγούδι με το mpv μετά απο αρκετές ώρες προσπάθειας δεν κατάφερα να παίξει το mpv.Τελικά την έκανα σε virtual box  όπου όλα λητουργησαν κανονικά.Αρχικά εγκατέστησα το youtube-dl, το googler και το mpv,καλεσα το googler για να βρω το βιντεο που ήθελα ,μετα χρησιμοποίησα το youtube-dl με τις εντολές --extract-audio και --audio-format mp3 για να κατεβάσω το βίντεο σε μορφή mp3.Τέλος κάλεσα το mpv  για να παίξει το τραγούδι όπου και το άφησα για τέσσερα δευτερόλεπτα.
 
 * [download mp3](https://asciinema.org/a/NoPXIYBWELR0q8Acikt0YJJvu)</br>
 
@@ -137,7 +137,7 @@ https://github.com/alkinoospitsinis/site/blob/master/_timeline/programming.md
 
 
 ## ΠΑΡΑΔΟΤΕΟ 11:
-Για το συμμετοχικό περιεχόμενο πρόσθεσα κάποια αρχεία στους φακέλους _biography και _case-study.Όπως προανέφερα ότι εχω προσθέση στο αποθετήριο δεν κατάφερα να το εμφανίσω και στο site μου .
+Για το συμμετοχικό περιεχόμενο πρόσθεσα κάποια αρχεία στους φακέλους _biography και _case-study.Όπως προανέφερα, ότι έχω προσθέση στο αποθετήριο δεν κατάφερα να το εμφανίσω και στο site μου .
 
 * Προσθήκη στο biography: https://github.com/alkinoospitsinis/site/blob/master/_biography/bio-kenneth-iverson.md , https://github.com/alkinoospitsinis/site/blob/master/_biography/kenneth-iverson.md
 
