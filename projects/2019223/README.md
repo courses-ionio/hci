@@ -36,7 +36,7 @@
 
 Σκοπός της άσκησης ήταν η τροποποίηση του παραδείγματος χρησιμοποιώντας φίλτρα εικόνας και συνδιασμούς, η εικόνα άλλαζε χρωματικά εφέ, αλλάζοντας τον CSS κώδικα. Συγκεκριμένα τα φίλτρα που χρησιμοποίησα για την τροποποίηση ηταν το grayscale, sepia, hue-rotate και contrast μέσα στο hover.
 
-  <h2><span id="fetch the weather forecast for your home city and one more city that you want to travel to.">Άfetch the weather forecast for your home city and one more city that you want to travel to.</span></h2>
+  <h2><span id="fetch the weather forecast for your home city and one more city that you want to travel to.">Fetch the weather forecast for your home city and one more city that you want to travel to.</span></h2>
 <i><a href="https://asciinema.org/a/383072" tittle="fetch the weather forecast for your home city and one more city that you want to travel to.">fetch the weather forecast for your home city and one more city that you want to travel to.</a></i>
 
 Σκοπός της άσκησης ήταν να χρησιμοποιήσουμε την εντολή curl wttr.in/, με την οποία θέλουμε να εμφανίσουμε τον καιρό της πόλης μας και της πόλης που θέλουμε να ταξιδέψουμε.
