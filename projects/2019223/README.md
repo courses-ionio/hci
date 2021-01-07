@@ -58,7 +58,7 @@
 * Σύνδεσμος για: [codepen](https://codepen.io/petroulastylianou/pen/ExgyNJM)
 * Σύνδεσμος για: [Netlify](https://reverent-wilson-fb9523.netlify.app/remix/mouse-button/)
 
-<img scr="https://github.com/PetroulaStylianou/hci/tree/2019223" width="350">
+<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Mouse%20button.png" width="350">
 
 
 # Ασκήσεις γραμμής εντολών.
