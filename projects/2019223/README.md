@@ -26,7 +26,7 @@
 
   <h2><span id="Browse and view files on your system.">Browse and view files on your system.</span></h2>
 
-<i><a href="https://asciinema.org/a/369113" tittle="Browse and view files on your system.">Browse and view files on your system.</a></i>
+<i><a href="https://asciinema.org/a/383067" tittle="Browse and view files on your system.">Browse and view files on your system.</a></i>
 
 Σκοπός της άσκησης ήταν η πρόσβαση στα αρχεία του υπολογιστή μέσω τερματικού Ubuntu, με την χρήση του Windows Subsystem for Linux. Επίσης, με την βοήθεια του asciinema κατάφερα να καταγράψω την διαδικασία πρόσβασης στα αρχεία του συστήματος.
 
@@ -37,7 +37,7 @@
 Σκοπός της άσκησης ήταν η τροποποίηση του παραδείγματος χρησιμοποιώντας φίλτρα εικόνας και συνδιασμούς, η εικόνα άλλαζε χρωματικά εφέ, αλλάζοντας τον CSS κώδικα. Συγκεκριμένα τα φίλτρα που χρησιμοποίησα για την τροποποίηση ηταν το grayscale, sepia, hue-rotate και contrast μέσα στο hover.
 
   <h2><span id="fetch the weather forecast for your home city and one more city that you want to travel to.">Άfetch the weather forecast for your home city and one more city that you want to travel to.</span></h2>
-<i><a href="https://asciinema.org/a/371324" tittle="fetch the weather forecast for your home city and one more city that you want to travel to.">fetch the weather forecast for your home city and one more city that you want to travel to.</a></i>
+<i><a href="https://asciinema.org/a/383072" tittle="fetch the weather forecast for your home city and one more city that you want to travel to.">fetch the weather forecast for your home city and one more city that you want to travel to.</a></i>
 
 Σκοπός της άσκησης ήταν να χρησιμοποιήσουμε την εντολή curl wttr.in/, με την οποία θέλουμε να εμφανίσουμε τον καιρό της πόλης μας και της πόλης που θέλουμε να ταξιδέψουμε.
 
@@ -58,7 +58,7 @@
 
 <h2><span id="Edit the vim or the shell configuration file">Edit the vim or the shell configuration file</span></h2>
 
-<i><a href="https://asciinema.org/a/378276" tittle="Edit the vim or the shell configuration file.">Edit the vim or the shell configuration file.</a></i>
+<i><a href="https://asciinema.org/a/383073" tittle="Edit the vim or the shell configuration file.">Edit the vim or the shell configuration file.</a></i>
 
 Σκοπός της άσκησης ήταν η επεξεργασία του vim. Δημιούργησα ένα αρχείο με τα στοιχεία μου ονομάζοντας το Test1. Επιπλέον, μέσω του virtual mode έκανα αντιγραφή και επικόλληση των στοιχείων μου.
 
