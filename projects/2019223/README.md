@@ -49,13 +49,16 @@
 * Σύνδεσμος για: [Netlify](https://reverent-wilson-fb9523.netlify.app/remix/image-zoom/)
 
 
+
 <h2><span id="Mouse button">Mouse button</span></h2>
 
-Για τέταρτη άσκηση μετά από πολύ ψάξιμο αυτή την φορά κατέληξα να επιλέξω την άσκηση **Mouse button**. Οι τροποποιήσεις αφορούν τις γλώσσες HTML και JS.  Η άσκηση ζητούσε την δημιουργία ενός δεύτερου κουμπιού “previous” όπου έπρεπε να γίνει μέσα στην HTML που θα εκτελούσε την ανάποδη λειτουργία από το ήδη υπάρχον κοuμπιού “another”.  Επίσης, το νέο κουμπί “previous” έπρεπε να εμφανίζει το μήνυμα που είχε εμφανιστεί ποιό πρίν. 
+Για τέταρτη άσκηση μετά από πολύ ψάξιμο αυτή την φορά κατέληξα να επιλέξω την άσκηση **Mouse button**. Οι τροποποιήσεις αφορούν τις γλώσσες HTML και JS.  Η άσκηση ζητούσε την δημιουργία ενός δεύτερου κουμπιού “previous” όπου έπρεπε να γίνει μέσα στην HTML που θα εκτελούσε την ανάποδη λειτουργία από το ήδη υπάρχον κοuμπί “another”.  Επίσης, το νέο κουμπί “previous” έπρεπε να εμφανίζει το μήνυμα που είχε εμφανιστεί ποιό πρίν. 
 
 * Σύνδεσμος για: [pibook](https://github.com/PetroulaStylianou/site/blob/master/_remix/mouse-button.md)
 * Σύνδεσμος για: [codepen](https://codepen.io/petroulastylianou/pen/ExgyNJM)
 * Σύνδεσμος για: [Netlify](https://reverent-wilson-fb9523.netlify.app/remix/mouse-button/)
+
+<img scr="https://github.com/PetroulaStylianou/hci/tree/2019223" width="350">
 
 
 # Ασκήσεις γραμμής εντολών.
