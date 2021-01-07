@@ -1,5 +1,5 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
-# Θεόδωρος Κοντός             Α.Μ.: Π2019193
+** Θεόδωρος Κοντός             Α.Μ.: Π2019193**
 [Netlify](https://hci-p2019193.netlify.app/)
 | Εβδομάδα* | Παραδοτέο | 
 | --- | --- | 
@@ -54,8 +54,7 @@
 [![asciicast](https://asciinema.org/a/382617.svg)](https://asciinema.org/a/382617)
 
 # Συμμετοχικό περιεχόμενο Α1 Α2
-
-**Α1
+**Α1**
 
 Έγινε προσθήκη για τον πρωτοπώρο σχεδιαστή της Nintendo [Shigeru Miyamoto](https://github.com/TheodorosKontos/_gallery/blob/master/shigeru-miyamoto.md). Thumbnail [εδώ](https://github.com/TheodorosKontos/images/blob/master/shigeru-miyamoto-thumb.jpg) και κανονική εικόνα [εδώ](https://github.com/TheodorosKontos/images/blob/master/shigeru-miyamoto.jpg).
 
