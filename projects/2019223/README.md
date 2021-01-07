@@ -20,6 +20,10 @@
 
 Ως πρώτη επαφή με το μάθημα Επικοινωνία Ανθρώπου Υπολογιστή θα ήθελα να κατανοήσω το αντικείμενο της μελέτης, το σχεδιασμό, την ανάπτυξη και την αξιολόγηση των συστημάτων που αλληλεπιδρούν με τους χρήστες. Μέσα από το μάθημα Επικοινωνία Ανθρώπου Υπολογιστή θα ήθελα να αποκτήσω τις κατάλληλες γνώσεις που μας προσφέρει.
 
+# Περιγραφή εργαλείων.
+
+Για τις ασκήσεις προγραμματισμού εργαστήκαμε στην πλατφόρμα **Codepen** όπου είναι μια διαδικτυακή κοινότητα για την χρήση αποσπασμάτων κώδικα σε **HTML**, **CSS** και **JavaScript**. Για τις ασκήσεις γραμμής εντολών εργάστηκα στο περιβάλλον του **Ubuntu** με βασικό εργαλείο να είναι το **Asciinema** που επιτρέπει την καταγραφή του terminal. 
+
 # Ασκήσεις Προγραμματισμού.
 
 <h2><span id="Mouse form">Mouse form</span></h2>
@@ -31,6 +35,12 @@
 * Σύνδεσμος για: [Netlify](https://reverent-wilson-fb9523.netlify.app/remix/mouse-form/)
 
 
+<br>
+<p align="center">
+<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Mouse%20form.png" height=400 width=500>
+<p/><br> 
+
+
 <h2><span id="Image Processing">Image Processing</span><h2>
 
 Για δεύτερη άσκηση προγραμματισμού επέλεξα να κάνω την άσκηση **Image Processing** στην οποία έπρεπε ο χρήστης να προσθεσεί φίλτρα έτσι ώστε να αλλάζει η απόχρωση της εικόνας. Οι τροποποιήσεις έπρεπε να γίνουν στην γλώσσα CSS προσθέτοντας εντολές μέσα στη λειτουργία “hover”. Για την εφαρμογή του φίλτρου ήταν αναγκαία η κίνηση του ποντικιού πάνω από την εικόνα που δώθηκε. Τα φίλτρα που χρησιμοποίησα για την τροποποίηση της εικόνας ήταν “grayscale”, “sepia”, “hue-rotate” και  “contrast”.
@@ -38,6 +48,12 @@
 * Σύνδεσμος για: [pibook](https://github.com/PetroulaStylianou/site/blob/master/_remix/image-filter.md)
 * Σύνδεσμος για: [codepen](https://codepen.io/petroulastylianou/pen/pobLaeO)
 * Σύνδεσμος για: [Netlify](https://reverent-wilson-fb9523.netlify.app/remix/image-filter/)
+
+
+<br>
+<p align="center">
+<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Image%20processing.gif" height=300 width=500>
+<p/><br>  
 
 
 <h2><span id="Image zoom">Image zoom</span></h2>
@@ -48,8 +64,12 @@
 * Σύνδεσμος για: [codepen](https://codepen.io/petroulastylianou/pen/oNLrdLe)
 * Σύνδεσμος για: [Netlify](https://reverent-wilson-fb9523.netlify.app/remix/image-zoom/)
 
-
-
+<br>
+<p align="center">
+<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Image%20zoom.gif" height=300 width=600>
+<p/><br>                                                                                            
+                                                                                             
+                                                                                         
 <h2><span id="Mouse button">Mouse button</span></h2>
 
 Για τέταρτη άσκηση μετά από πολύ ψάξιμο αυτή την φορά κατέληξα να επιλέξω την άσκηση **Mouse button**. Οι τροποποιήσεις αφορούν τις γλώσσες HTML και JS.  Η άσκηση ζητούσε την δημιουργία ενός δεύτερου κουμπιού “previous” όπου έπρεπε να γίνει μέσα στην HTML που θα εκτελούσε την ανάποδη λειτουργία από το ήδη υπάρχον κοuμπί “another”.  Επίσης, το νέο κουμπί “previous” έπρεπε να εμφανίζει το μήνυμα που είχε εμφανιστεί ποιό πρίν. 
@@ -58,8 +78,10 @@
 * Σύνδεσμος για: [codepen](https://codepen.io/petroulastylianou/pen/ExgyNJM)
 * Σύνδεσμος για: [Netlify](https://reverent-wilson-fb9523.netlify.app/remix/mouse-button/)
 
-<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Mouse%20button.png" width="350">
-
+<br>
+<p align="center">
+<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Mouse%20button.png" height=300 width="500">
+<p/><br> 
 
 # Ασκήσεις γραμμής εντολών.
 
@@ -75,6 +97,11 @@
 Για δεύτερη άσκηση γραμμής εντολών επέλεξα να κάνω την ενημέρωση του καιρού. Επέλεξα να παρουσιάσω τις καιρικές συνθήκες στην Κύπρο και στην Ρώμη. Αυτό έπρεπε να γίνει με την χρήση της υπηρεσίας παροχής πληροφοριών καιρικών συνθηκών “wttr.in”.
 
 * Σύνδεσμος για: [asciinema](https://asciinema.org/a/383072)
+
+<br>
+<p align="center">
+<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Check%20the%20weather.png" width="500">
+<p/><br> 
 
 
 <h2><span id="Edit the vim or the shell configuration file">Edit the vim or the shell configuration file</span></h2>
@@ -106,6 +133,9 @@
 - Πληροφορίες για την 2η εικόνα: https://github.com/PetroulaStylianou/_gallery_/blob/master/iPhone.md
 - Σετ διαφανειών: https://github.com/PetroulaStylianou/site/blob/master/_slides/prototyping.md
 - Χρονολόγιο: https://github.com/PetroulaStylianou/site/blob/master/_timeline/computer.md
+
+
+
 
 
 
