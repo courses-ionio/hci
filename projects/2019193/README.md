@@ -54,9 +54,11 @@
 [![asciicast](https://asciinema.org/a/382617.svg)](https://asciinema.org/a/382617)
 
 # Συμμετοχικό περιεχόμενο Α1 Α2
+
 **Α1
 
 Έγινε προσθήκη για τον πρωτοπώρο σχεδιαστή της Nintendo [Shigeru Miyamoto](https://github.com/TheodorosKontos/_gallery/blob/master/shigeru-miyamoto.md). Thumbnail [εδώ](https://github.com/TheodorosKontos/images/blob/master/shigeru-miyamoto-thumb.jpg) και κανονική εικόνα [εδώ](https://github.com/TheodorosKontos/images/blob/master/shigeru-miyamoto.jpg).
+
 Έγινε προσθήκη για το παιχνίδι [Super Mario](https://github.com/TheodorosKontos/_gallery/blob/master/super-mario.md) δημιουργός του οποίου είναι ο Miyamoto. Thumbnail [εδώ](https://github.com/TheodorosKontos/images/blob/master/super-mario-thumb.png) και κανονική εικόνα [εδώ](https://github.com/TheodorosKontos/images/blob/master/super-mario.png).
 
 
