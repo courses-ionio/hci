@@ -17,7 +17,7 @@
 | 8 | [Άσκηση γραμμής εντολών Organize notes with emacs](#Άσκηση-γραμμής-εντολών-Οrganize-Εmacs) | 
 | 9 | [Άσκηση προγραμματισμού Button](#Άσκηση-Προγραμματισμού-Button) | 
 | 10 | [Άσκηση γραμμής εντολών text-editor-and plug-ins for code highlighting and autocompletion](#Άσκηση-γραμμής-εντολών-Text-Editor-Vim) | 
-| 11 | Συμμετοχικό περιεχόμενο | 
+| 11 | [Συμμετοχικό περιεχόμενο Β1 Β2](#Συμμετοχικό-περιεχόμενο-Β1-Β2) | 
 | 12 | Τελική αναφορά* | 
 
 # Εισαγωγή
@@ -60,10 +60,16 @@
 # Συμμετοχικό περιεχόμενο Α1 Α2
 **Α1**
 
-Έγινε προσθήκη για τον πρωτοπώρο σχεδιαστή της Nintendo [Shigeru Miyamoto](https://github.com/TheodorosKontos/_gallery/blob/master/shigeru-miyamoto.md). Thumbnail [εδώ](https://github.com/TheodorosKontos/images/blob/master/shigeru-miyamoto-thumb.jpg) και κανονική εικόνα [εδώ](https://github.com/TheodorosKontos/images/blob/master/shigeru-miyamoto.jpg).
+Έγινε προσθήκη για τον πρωτοπώρο σχεδιαστή της Nintendo [Shigeru Miyamoto](https://github.com/TheodorosKontos/_gallery/blob/master/shigeru-miyamoto.md). Thumbnail [εδώ](https://github.com/TheodorosKontos/images/blob/master/shigeru-miyamoto-thumb.jpg) και κανονική εικόνα [εδώ](https://github.com/TheodorosKontos/images/blob/master/shigeru-miyamoto.jpg). Μία σύντομη βιογραφία του με πηγή από [εδώ](https://www.thefamouspeople.com/profiles/shigeru-miyamoto-8697.php).
 
 Έγινε προσθήκη για το παιχνίδι [Super Mario](https://github.com/TheodorosKontos/_gallery/blob/master/super-mario.md) δημιουργός του οποίου είναι ο Miyamoto. Thumbnail [εδώ](https://github.com/TheodorosKontos/images/blob/master/super-mario-thumb.png) και κανονική εικόνα [εδώ](https://github.com/TheodorosKontos/images/blob/master/super-mario.png).
 
+**A2**
+Από τον φάκελο _slides πρόσθεσα τα entry μου στο [videogames.md](https://github.com/TheodorosKontos/site/blob/master/_slides/videogames.md)
+
+Από τον φάκελο _timeline πρόσθεσα επίσης τα entry μου στο [videogames.md](https://github.com/TheodorosKontos/site/blob/master/_timeline/videogames.md)
+
+Δυστυχώς παρά το γεγονός ότι έκανα όλες τις απαραίτητες αλλαγές που είχαν ζητηθεί τόσο στο [_config.yml](https://github.com/TheodorosKontos/site/blob/master/_config.yml) όσο και στο [.gitmodules](https://github.com/TheodorosKontos/site/blob/master/.gitmodules) οι αλλαγές δεν έγιναν σωστά ορατές στο [Netlify](https://hci-p2019193.netlify.app/). 
 
 # Άσκηση Προγραμματισμού Mouse form
 [Netlify Mouse form](https://hci-p2019193.netlify.app/remix/mouse-form/)
@@ -85,3 +91,6 @@
 [Link του asciicast](https://asciinema.org/a/382954)
 
 [![asciicast](https://asciinema.org/a/382954.svg)](https://asciinema.org/a/382954)
+
+# Συμμετοχικό περιεχόμενο Β1 Β2
+
