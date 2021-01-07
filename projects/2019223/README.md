@@ -31,7 +31,6 @@
 * Σύνδεσμος για: [Netlify](https://reverent-wilson-fb9523.netlify.app/remix/mouse-form/)
 
 
-
 <h2><span id="Image Processing">Image Processing</span><h2>
 
 Για δεύτερη άσκηση προγραμματισμού επέλεξα να κάνω την άσκηση **Image Processing**στην οποία έπρεπε ο χρήστης να προσθεσεί φίλτρα έτσι ώστε να αλλάζει η απόχρωση της εικόνας. Οι τροποποιήσεις έπρεπε να γίνουν στην γλώσσα CSS προσθέτοντας εντολές μέσα στη λειτουργία “hover”. Για την εφαρμογή του φίλτρου ήταν αναγκαία η κίνηση του ποντικιού πάνω από την εικόνα που δώθηκε. Τα φίλτρα που χρησιμοποίησα για την τροποποίηση της εικόνας ήταν “grayscale”, “sepia”, “hue-rotate” και  “contrast”.
@@ -50,7 +49,6 @@
 * Σύνδεσμος για: [Netlify](https://reverent-wilson-fb9523.netlify.app/remix/image-zoom/)
 
 
-
 <h2><span id="Mouse button">Mouse button</span></h2>
 
 Για τέταρτη άσκηση μετά από πολύ ψάξιμο αυτή την φορά κατέληξα να επιλέξω την άσκηση **Mouse button**. Οι τροποποιήσεις αφορούν τις γλώσσες HTML και JS.  Η άσκηση ζητούσε την δημιουργία ενός δεύτερου κουμπιού “previous” όπου έπρεπε να γίνει μέσα στην HTML που θα εκτελούσε την ανάποδη λειτουργία από το ήδη υπάρχον κοuμπιού “another”.  Επίσης, το νέο κουμπί “previous” έπρεπε να εμφανίζει το μήνυμα που είχε εμφανιστεί ποιό πρίν. 
@@ -62,18 +60,19 @@
 
 # Ασκήσεις γραμμής εντολών.
 
- <h2><span id="Browse and view files on your system.">Browse and view files on your system.</span></h2>
+<h2><span id="Browse and view files on your system.">Browse and view files on your system.</span></h2>
 
 Σιγά σιγά στο μάθημα αρχίσαμε να μπαίνουμε στα βαθιά με την πρώτη άσκηση γραμμής εντολών, όπου έπρεπε να εγκαταστήσουμε στον υπολογιστή μας το Ubuntu και στην συνέχεια στο terminal για την καταγραφή του κώδικα μας ακολουθήσαμε μια σειρά από εντολές για την εγκατάσταση του “Asciinema”. Ο σκοπός της άσκησης που επέλεξα ήταν η πρόσβαση στα αρχεία του υπολογιστή. Με την βοήθεια του Asciinema κατάφερα να καταγράψω την διαδικασία πρόσβασης στα αρχεία του συστήματος.
 
 * Σύνδεσμος για: [asciinema](https://asciinema.org/a/383067)
 
 
-  <h2><span id="fetch the weather forecast for your home city and one more city that you want to travel to.">Fetch the weather forecast for your home city and one more city that you want to travel to.</span></h2>
+<h2><span id="fetch the weather forecast for your home city and one more city that you want to travel to.">Fetch the weather forecast for your home city and one more city that you want to travel to.</span></h2>
 
 Για δεύτερη άσκηση γραμμής εντολών επέλεξα να κάνω την ενημέρωση του καιρού. Επέλεξα να παρουσιάσω τις καιρικές συνθήκες στην Κύπρο και στην Ρώμη. Αυτό έπρεπε να γίνει με την χρήση της υπηρεσίας παροχής πληροφοριών καιρικών συνθηκών “wttr.in”.
 
 * Σύνδεσμος για: [asciinema](https://asciinema.org/a/383072)
+
 
 <h2><span id="Edit the vim or the shell configuration file">Edit the vim or the shell configuration file</span></h2>
 
