@@ -14,7 +14,7 @@
  | 7 | <li><a href="#Image_Zoom."><span class="toctext">Image_Zoom.</span></a> Commit: 20/11/2020|
   | 8 | <li><a href="#Solarized."><span class="toctext">Solarized.</span></a> Commit: 1/12/2020|
    | 9 | <li><a href="#ImageSVG."><span class="toctext">ImageSVG.</span></a> Commit: 9/12/2020|
-| 10 | συμμετοχικό περιεχόμενο |
+    | 10 | <li><a href="#Youtube-dl."><span class="toctext">Youtube-dl.</span></a> Commit: 8/1/2021 |
 | 11 | <li><a href="#Συμμετοχικό περιεχόμενο(Β1,Β2)."><span class="toctext">Συμμετοχικό περιεχόμενο(Β1,Β2).</span></a> Commit:24/12/2020|
 | 12 | Τελική αναφορά* |
 <h2><span id="Introduction.">Introduction.</span></h2>
@@ -147,6 +147,19 @@ document.onkeydown = function(e) {<br>
  <h6>Βιβλιογραφία</h6> 
  <ul>  <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
   <br> <a href="https://codepen.io">Codepen.</a> </ul>
+  
+  <hr></hr>
+  
+  <h2><span id="Youtube-dl.">Youtube-dl.</span></h2>
+  <p>Για την υλοποίηση της συγκεκριμένης άσκησης γραμμής εντολών, έκανα χρήση του youtube-dl, έτσι ώστε να κατεβάσω ένα τραγούδι από το youtube. Επίσης έκανα χρήση του εργαλείου SoX(Sound eXchange, the Swiss Army knife of audio manipulation), δυστυχώς όμως το τραγούδι δεν μπορούσε να παίξει στο terminal, υποθέτω μάλλον γιατί δεν πληρεί τα απαραίτητα χαρακτηριστικά ο υπολογιστής μου ή επειδή χρησιμοποιώ το Windows Subsytem for Linux για την υλοποίηση των ασκήσεων γραμμής εντολών.</p>
+  Άσκηση: <a href="https://asciinema.org/a/383314">Youtube-dl</a><br>
+  
+   <h6>Βιβλιογραφία</h6>
+  <ul> <a href="https://github.com/epidrome/dokey#hci">Λίστα με τις ασκήσεις γραμμής εντολών.</a><br>
+ <a href="https://asciinema.org">Asciinema</a><br>
+ <a href="https://ostechnix.com/youtube-dl-tutorial-with-examples-for-beginners/">Youtube-dl Tutorial</a><br>
+ <a href="https://www.binarytides.com/play-music-console-ubuntu/">SoX tutorial</a><br>
+ <a href="https://github.com/ytdl-org/youtube-dl/#installation">Youtube-dl Installation</a></ul>
   
   <hr></hr>
   
