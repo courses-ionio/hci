@@ -2,22 +2,20 @@
 <h4>Επίθετο:</h4>Στούπη
 <h4>ΑΜ:</h4> 2019169
 <h4>Netlify link:</h4> https://taniastoupi.netlify.app/
-
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 |<li><a href="#Introduction."><span class="toctext">Introduction.</span></a> Commit:12/10/2020|
-| 2 |<li><a href="#Image_Processing."><span class="toctext">Image_Processing.</span></a> Commit:18/10/2020|
- | 3 |<li><a href="#Browse_and_view_your_files."><span class="toctext">Browse_and_view_your_files.</span></a> Commit:26/10/2020|
-| 4 | <li><a href="#Keyboard_Input."><span class="toctext">Keyboard_Input.</span></a> Commit:2/11/2020|
+| 1 | <li><a href="#Introduction."><span class="toctext">Introduction.</span></a> Commit:12/10/2020 |
+| 2 | <li><a href="#Image_Processing."><span class="toctext">Image_Processing.</span></a> Commit:18/10/2020 |
+| 3 | <li><a href="#Browse_and_view_your_files."><span class="toctext">Browse_and_view_your_files.</span></a> Commit:26/10/2020|
+| 4 | <li><a href="#Keyboard_Input."><span class="toctext">Keyboard_Input.</span></a> Commit:2/11/2020 |
 | 5 | <li><a href="#Vim_editor."><span class="toctext">Vim_editor.</span></a> Commit:6/11/2020|
 | 6 | <li><a href="#Συμμετοχικό_Περιεχόμενο(Α1,Α2)."><span class="toctext">Συμμετοχικό_Περιεχόμενο(Α1,Α2).</span></a> Commit:20/11/2020|
- | 7 | <li><a href="#Image_Zoom."><span class="toctext">Image_Zoom.</span></a> Commit: 20/11/2020|
-  | 8 | <li><a href="#Solarized."><span class="toctext">Solarized.</span></a> Commit: 1/12/2020|
-   | 9 | <li><a href="#ImageSVG."><span class="toctext">ImageSVG.</span></a> Commit: 9/12/2020|
-    | 10 | <li><a href="#Youtube-dl."><span class="toctext">Youtube-dl.</span></a> Commit: 8/1/2021|
-     | 11 | <li><a href="#Συμμετοχικό περιεχόμενο(Β1,Β2)."><span class="toctext">Συμμετοχικό περιεχόμενο(Β1,Β2).</span></a> Commit:24/12/2020|
-      | 12 | <li><a href="#Final Report."><span class="toctext">Final Report.</span></a> Commit:|
-        
+| 7 | <li><a href="#Image_Zoom."><span class="toctext">Image_Zoom.</span></a> Commit: 20/11/2020|
+| 8 | <li><a href="#Solarized."><span class="toctext">Solarized.</span></a> Commit: 1/12/2020|
+| 9 | <li><a href="#ImageSVG."><span class="toctext">ImageSVG.</span></a> Commit: 9/12/2020|
+| 10 | <li><a href="#Youtube-dl."><span class="toctext">Youtube-dl.</span></a> Commit: 8/1/2021|
+| 11 |  <li><a href="#Συμμετοχικό περιεχόμενο(Β1,Β2)."><span class="toctext">Συμμετοχικό περιεχόμενο(Β1,Β2).</span></a> Commit:24/12/2020|
+| 12 |  <li><a href="#Final Report."><span class="toctext">Final Report.</span></a> Commit:|
 <h2><span id="Introduction.">Introduction.</span></h2>
 Παρακολουθώντας το μάθημα Επικοινωνίας ανθρώπου - υπολογιστή προσδοκώ να γνωρίσω το περιεχόμενο του μαθήματος, δηλαδή το τι κρύβεται πίσω από τον τίτλο που έχει δοθεί σε αυτό το μάθημα. Επίσης θέλω να μάθω να χρησιμοποιώ την ηλεκτρονική πλατφόρμα github όσο καλύτερα μπορώ με κίνητρο το μάθημα, διότι είναι κάτι καινούργιο για εμένα. Παρόλα αυτά, το πιο σημαντικό που προσδοκώ να μάθω από αυτό το μάθημα είναι το πως επικοινωνούσε ο άνθρωπος με τον υπολογιστή στο πέρασμα των χρόνων, καθώς επίσης και τον τρόπο διάδρασης που είχαν μεταξύ τους, εφόσον προφανώς και δεν υπήρχαν τα τεχνολογικά μέσα που υπάρχουν στις μέρες μας. Τελειώνοντας, με την παρακολούθηση του μαθήματος θα ήθελα να είμαι σε θέση να γνωρίζω τα ιστορικά στοιχεία που έχουν σχέση με την επικοινωνία ενός ανθρώπου με έναν υπολογιστή, καθώς επίσης και να γνωρίζω τις ενότητες του μαθήματος και να τις ξεχωρίζω και τέλος θα ήθελα να είμαι σε θέση να μπορώ να εξηγήσω σε ανθρώπους που δεν έχουν σχέση με τον τομέα της πληροφορικής τι σημαίνει η πρόταση ‘Επικοινωνία ανθρώπου – υπολογιστή’ και τι κρύβεται πίσω από αυτήν.
   
