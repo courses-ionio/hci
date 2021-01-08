@@ -1,7 +1,5 @@
-Ραφαέλλα Αναστασίου
-Π2018203
-Στόχος μου είναι να αποκτήσω περισσότερες γνώσεις για το μάθημα Επικοινωνία Ανθρώπου Υπολογιστή όπως επίσης και να κατανοήσω την ιστοσελίδα του GitHub.
-
+Ονοματεπώνυμο: Ραφαέλλα Αναστασίου
+ΑΜ: Π2018203
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
@@ -10,7 +8,7 @@
 | 3 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a> |
 | 4 | Άσκηση προγραμματισμού <li><a href="#Άσκηση Προγραμματισμού"></span> <span class="toctext">Άσκηση Προγραμματισμού</span></a> |
 | 5 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a>|
-| 6 | Συμμετοχικό περιεχόμενο |
+| 6 | Συμμετοχικό περιεχόμενο <li><a href="#Συμμετοχικό περιεχόμενο"></span> <span class="toctext">Συμμετοχικό περιεχόμενο</span></a>|
 | 7 | Άσκηση προγραμματισμού |
 | 8 | Άσκηση γραμμής εντολών (SW) |
 | 9 | Άσκηση προγραμματισμού |
@@ -18,6 +16,14 @@
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
+<h2><span id="Στόχοι και ανάγκες του μαθήματος:">Στόχοι και ανάγκες του μαθήματος:
+</span></h2>
+Στόχος μου είναι να αποκτήσω περισσότερες γνώσεις για το μάθημα Επικοινωνία Ανθρώπου Υπολογιστή όπως επίσης και να κατανοήσω την ιστοσελίδα του GitHub.
+
+<h2><span id="Εργαλεία:">Εργαλεία:</span></h2>
+ -Ασκήσεις προγραμματισμού: Codepen 
+ -Ασκήσεις γραμμής εντολών: Ubuntu , Asciinema
+ 
 <h2><span id="Άσκηση Προγραμματισμού">Άσκηση Προγραμματισμού</span></h2>
 <i><a href="https://github.com/p18anas/site/blob/master/_remix/keyboard-input.md" tittle="keyboard-input">Keyboard-input</a></i>
 
@@ -37,6 +43,19 @@
 <i><a href="https://asciinema.org/a/377498"tittle="Τhe application should be similar to rtv, haxor from hci.">Τhe application should be similar to rtv, haxor from hci.</a></i>
 
 Σκοπός της άσκησης ήταν να υλοποιήσουμε ένα πρόγραμμα με όνομα "Hello" το οποίο να ζητλαει το όνομα μας και επομένως να το τρέξουμε στο Terminal.
+
+<h2><span id="1ο Συμμετοχικό περιεχόμενο">1o Συμμετοχικό περιεχόμενο</span></h2>
+
+Στην πρώτη εργασία για συμμετοχικό περιεχόμενο ασχολήθηκα με το μηχάνιμα atm και την εφαρμογή instagram.
+- 1η εικόνα: https://github.com/p18anas/images/blob/master/Mobile-banking-features-you-didnt-know-existed.jpeg
+- 2η εικόνα: https://github.com/p18anas/images/blob/master/instagram.png
+- Πληροφορίες για την 1η εικόνα: https://github.com/p18anas/_gallery/blob/master/mobile-application.md
+- Πληροφορίες για την 2η εικόνα:https://github.com/p18anas/_gallery/blob/master/instagram.md
+- Σετ διαφανειών: https://github.com/p18anas/site/blob/master/_making/mobile-application.md
+- Χρονολόγιο: https://github.com/p18anas/site/blob/master/_timeline/mobile.md
+
+
+<i><a href="https://asciinema.org/a/377498"tittle="Τhe application should be similar to rtv, haxor from hci.">Τhe application should be similar to rtv, haxor from hci.</a></i>
 
 | Βιβλιογραφία |
  <a href="https://pibook.epidro.me/remix/"> Λίστα ασκήσεων Προγραμματισμού</a> |
