@@ -35,6 +35,20 @@
 <br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης.</a></ul>
 
 <br><br>
+<h2><span id="Button">(3) Άσκηση Γραμμής εντολών - Weather Checker</span></h2>
+<p>Στην άσκηση αυτή ζητήθηκε η ανάθεση μιας λειτουργίας της επιλογής μου σε ένα κουμπί. Έτσι, μετά από επεξεργασία του JavaScript κώδικα, έφτασα στο επιθυμητό αποτέλεσμα. Το κουμπί που δημιουργήθηκε, οδηγεί σε ένα τραγούδι της αρεσκείας μου.
+
+<a href="https://asciinema.org/a/383336">Weather Checker</a>
+
+<h6>Βιβλιογραφία:</h6>
+<ul> <a href="https://asciinema.org/">asciinema.</a>
+<br> <a href="https://brew.sh/index_el">Homebrew.</a>
+<br> <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
+<br> <a href="https://pibook.epidro.me/remix/">Ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης.</a></ul>
+
+<br><br>
 <h2><span id="Image Filter">(4) Άσκηση Προγραμματισμού - Image Filter</span></h2>
 <p>Η άσκηση αυτή είχε να κάνει με την επεξεργασία των φίλτρων μιας εικόνας ή και συνδυασμό αυτών. Ταυτόχρονα, έγινε επεξεργασία ευκρίνειας, ρύθμιση αντίθεσης κλπ. Επεξεργάστηκα το τμήματα του CSS κώδικα, αξιοποιώντας τα ήδη υπάρχοντα σχόλια.
 
