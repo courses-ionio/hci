@@ -75,6 +75,7 @@
 
 Αν και αρχικά με δυσκόλεψε η άσκηση, κατάλαβα πως χρειάζεται να δημιουργήσω ένα δικό μου bash sh script (φαίνεται στο asciicast μετά την εντολή vi youtube.sh).
 Με την βοήθεια του bash script λοιπόν, ζητείται από τον χρήστη να πληκτρολογήσει τον τίτλο του τραγουδιού, ο οποιός αποθηκεύεται και το youtube-dl εκτελεί αναζήτηση και download. 
+
 Βιβλιογραφία για την δημιουργία και τη χρήση του bash sh script [εδώ](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
 
 [![asciicast](https://asciinema.org/a/382617.svg)](https://asciinema.org/a/382617)
