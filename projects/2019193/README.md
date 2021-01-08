@@ -129,8 +129,10 @@
 
 Στην τελευταία άσκηση γραμμής εντολών γίνεται μία επιφανειακή χρήση του Vim text editor. Με την εντολή sudo vi και την θέση του αρχείου config, εισέρχομαι σε αυτό όπου του κάνω μία μικρή επεξεργασία. 
 
-[![asciicast](https://asciinema.org/a/382954.svg)](https://asciinema.org/a/382954)
 Βιβλιογραφία [εδώ](https://opensource.com/article/19/3/getting-started-vim)
+
+[![asciicast](https://asciinema.org/a/382954.svg)](https://asciinema.org/a/382954)
+
 # Συμμετοχικό περιεχόμενο Β1 Β2
 **Β1**
 
