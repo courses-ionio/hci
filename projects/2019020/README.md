@@ -38,7 +38,7 @@
 <h2><span id="Button">(3) Άσκηση Γραμμής εντολών - Weather Checker</span></h2>
 <p>Στην άσκηση αυτή ζητήθηκε η ανάθεση μιας λειτουργίας της επιλογής μου σε ένα κουμπί. Έτσι, μετά από επεξεργασία του JavaScript κώδικα, έφτασα στο επιθυμητό αποτέλεσμα. Το κουμπί που δημιουργήθηκε, οδηγεί σε ένα τραγούδι της αρεσκείας μου.
 
-<a href="https://asciinema.org/a/383336">Weather Checker</a>
+<a href="https://asciinema.org/a/383339">Weather Checker</a>
 
 <h6>Βιβλιογραφία:</h6>
 <ul> <a href="https://asciinema.org/">asciinema.</a>
