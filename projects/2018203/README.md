@@ -28,9 +28,7 @@
 # Άσκηση Προγραμματισμού 
 
 <h2>Keyboard-input<span id="Keyboard-input"></span></h2>
-
-[pibook]("https://github.com/p18anas/site/blob/master/_remix/keyboard-input.md")
-[codepen]("https://static.codepen.io/assets/embed/ei.js%22%3E%3C/script%3E")
+<i><a href="https://github.com/p18anas/site/blob/master/_remix/keyboard-input.md"tittle="Keyboard-input">Keyboard-input</a></i> 
 
 Σκοπός της άσκησης ήταν το αυτοκινητάκι να κινείται με μικρότερη ταχύτητα στην όπισθεν σε σχέση με την έμπροσθεν, όπως επίσης να μπορεί το αυτοκίνητο να κινείται μόνο στα περιμετικά όρια της πίστας. 
 
