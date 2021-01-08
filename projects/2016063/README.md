@@ -31,7 +31,7 @@ Link Netlify: https://p16andr.netlify.app/
 
 ### Άσκηση προγραμματισμού Sortable list
 
-Link site: https://github.com/p16andr/site/blob/2016063/_remix/sortable-list.md
+Link site: https://github.com/p16andr/site/blob/master/_remix/sortable-list.md
 
 Link Netlify: https://p16andr.netlify.app/remix/sortable-list/
 
@@ -51,7 +51,7 @@ Link codepen: https://codepen.io/p16andr/pen/KKMGyXy
 
 ### Άσκηση προγραμματισμού Image Zoom
   
-Link site: https://github.com/p16andr/site/blob/2016063/_remix/image-zoom.md
+Link site: https://github.com/p16andr/site/blob/master/_remix/image-zoom.md
 
 Link netlify: https://p16andr.netlify.app/remix/image-zoom/
 
@@ -71,7 +71,7 @@ Link codepen: https://codepen.io/p16andr/pen/JjKeKEm
 
 ### Άσκηση προγραμματισμού Mouse Button
 
-Link site: https://github.com/p16andr/site/blob/2016063/_remix/mouse-button.md
+Link site: https://github.com/p16andr/site/blob/master/_remix/mouse-button.md
 
 Link netlify: https://p16andr.netlify.app/remix/mouse-button/
 
@@ -101,7 +101,7 @@ Link asciinema: https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH
 
 ### Άσκηση προγραμματισμού Css Queries
 
-Link site: https://github.com/p16andr/site/blob/2016063/_remix/css-queries.md
+Link site: https://github.com/p16andr/site/blob/master/_remix/css-queries.md
 
 Link netlify: https://p16andr.netlify.app/remix/css-queries/
 
