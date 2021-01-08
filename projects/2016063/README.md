@@ -25,8 +25,10 @@
 
                                                         
    Παράδειγμα διαδραστικού κώδικα που ταξινομεί μια λίστα με τη χρήση του ποντικιού. Χρησιμοποιείται το στοιχείο sortable της JavaScript βιβλιοθήκης JQueryUI (https://jqueryui.com/sortable).                       
-      
- <a href="https://imgur.com/vTfrIkt"><img src="https://i.imgur.com/vTfrIkt.png" title="source: imgur.com" /></a>
+   
+  
+<a href="https://imgur.com/ascpL6o"><img src="https://i.imgur.com/ascpL6o.png" title="source: imgur.com" /></a>
+
       
   <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p16andr" data-slug-hash="KKMGyXy" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Pibook Sortable"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/KKMGyXy"> Pibook Sortable</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -41,6 +43,10 @@ Link Netlify: https://naughty-mcnulty-ae5c1a.netlify.app/remix/sortable-list/
   
    Παράδειγμα διαδραστικού κώδικα στον οποίο όταν εκτελείται από το χρήστη η λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα στο συγκεκριμένο παράδειγμα) μεγενθύνεται η εικόνα (zoom) χωρίς να αλλάζουν οι διαστάσεις του πλαισίου . 
        
+       
+<a href="https://imgur.com/k10tXDM"><img src="https://i.imgur.com/k10tXDM.png" title="source: imgur.com" /></a>
+       
+      
    <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p16andr" data-slug-hash="JjKeKEm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Background Image zoom"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/JjKeKEm"> Background Image zoom</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
@@ -53,6 +59,10 @@ Link Netlify: https://naughty-mcnulty-ae5c1a.netlify.app/remix/image-zoom/
                                                     
                                                     
  Παράδειγμα διαδραστικού κώδικα όπου ο χρήστης χρησιμοποιώντας το ποντίκι, πατώντας το κουμπί “ANOTHER” μπορεί να αλλάξει τα εκτυπωμένα μηνύματα.
+ 
+ 
+ <a href="https://imgur.com/GL9bdS8"><img src="https://i.imgur.com/GL9bdS8.png" title="source: imgur.com" /></a>
+
 
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="p16andr" data-slug-hash="BazXWRq" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JS fitness 3: Dev compliment generator"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/BazXWRq"> JS fitness 3: Dev compliment generator</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p> <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
@@ -75,6 +85,10 @@ https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH
                                    
                                    
   Παράδειγμα κώδικα με σκοπό να γίνει κατανοητή η χρήση των CSS media queries. Αλλάζοντας το μέγεθος του παραθύρου του περιηγητή (browser) σας αλλάζει το χρώμα της επιφάνειας του παραδείγματος.
+  
+  
+<a href="https://imgur.com/vTfrIkt"><img src="https://i.imgur.com/vTfrIkt.png" title="source: imgur.com" /></a>
+  
   
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p16andr" data-slug-hash="rNMLOMb" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="media queries example"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/rNMLOMb"> media queries example</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
