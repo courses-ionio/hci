@@ -41,11 +41,6 @@
 
 ![form_validation](https://i.imgur.com/BK2Djj4.jpg)
 
-![form_validation1](https://i.imgur.com/CIHf4hT.jpg)
-
-![form_validation2](https://i.imgur.com/BVDH86B.jpg)
-
-
 # Άσκηση γραμμής εντολών εισαγωγή στο bash
 Χωρισμένη σε 2 μέρη.
 
