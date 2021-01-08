@@ -25,8 +25,9 @@
 
 Αρχικά, κρίνεται επιτακτική ανάγκη να κατανοηθεί η λειτουργία του Github κάτι που είναι αρκετά χρήσιμο τόσο για το μέλλον, όσο και για την επιτυχή εξέταση του μαθήματος.
 Είναι σημαντικό να μάθουμε την λειτουργία του Github από το Γ' εξάμηνο.
-Ένας ακόμη στόχος είναι να εξοικιωθούμε με command prompt και να κατανοήσουμε τις εργασίες γραμμής εντολών. Ως μελλοντικοί προγραμματιστές, αυτό το κομμάτι θα είναι αρκετά χρήσιμο, αφού όπως αναφέρεται και στις σημειώσεις του μαθήματος είναι ο πλέον αποδοτικός τρόπος διάδρασης. Η εξοικείωση με λειτουργικά linux είναι ένα αρκετά ενδιαφέρον κομμάτι, τόσο σε αυτό το διάστημα της φοιτησής μας όσο και γενικότερα στο μέλλον. 
-Φυσικά, είναι αναγκαίο το θεωρητικό κομμάτι του μαθήματος να κατανοηθεί πλήρως, όχι όμως στείρα, δηλαδή θα πρέπει να υπάρχει μία ενεργή συμμετοχή. 
+Ένας ακόμη στόχος είναι να εξοικιωθούμε με command prompt και να κατανοήσουμε τις ασκήσεις γραμμής εντολών. Ως μελλοντικοί προγραμματιστές, αυτό το κομμάτι θα είναι αρκετά χρήσιμο, αφού όπως αναφέρεται και στις σημειώσεις του μαθήματος είναι ο πλέον αποδοτικός τρόπος διάδρασης. Η εξοικείωση με λειτουργικά linux είναι ένα αρκετά ενδιαφέρον κομμάτι, τόσο σε αυτό το διάστημα της φοιτησής μας όσο και γενικότερα στο μέλλον. 
+Φυσικά, είναι αναγκαίο το θεωρητικό κομμάτι του μαθήματος να κατανοηθεί πλήρως, όχι όμως στείρα, δηλαδή θα πρέπει να υπάρχει μία ενεργή συμμετοχή, τόσο στα μαθήματα όσο και μέσω του βιβλίου που θα μας δωθεί. Μάλιστα, αποκτά ενδιαφέρον ότι μας δίνεται η ευκαιρία να συμμετέχουμε στην παραγωγή επιπλέον υλικού για το βιβλίο και την επέκτασή του.
+Τέλος, σημαντική είναι η ολοκήρωση ασκήσεων προγραμματισμού, αφού θα χρειαστεί να κατανοήσουμε και κάποιες γλώσσες που δεν έχουμε χρησιμοποιήσει μέχρι στιγμής. 
 
 # Άσκηση Προγραμματισμού Form Validation
 [Netlify Form Validation](https://hci-p2019193.netlify.app/remix/form-validation/)
@@ -62,7 +63,7 @@
 
 Έγινε προσθήκη για τον πρωτοπώρο σχεδιαστή της Nintendo [Shigeru Miyamoto](https://github.com/TheodorosKontos/_gallery/blob/master/shigeru-miyamoto.md). Thumbnail [εδώ](https://github.com/TheodorosKontos/images/blob/master/shigeru-miyamoto-thumb.jpg) και κανονική εικόνα [εδώ](https://github.com/TheodorosKontos/images/blob/master/shigeru-miyamoto.jpg). Μία σύντομη βιογραφία του με πηγή από [εδώ](https://www.thefamouspeople.com/profiles/shigeru-miyamoto-8697.php).
 
-Έγινε προσθήκη για το παιχνίδι [Super Mario](https://github.com/TheodorosKontos/_gallery/blob/master/super-mario.md) δημιουργός του οποίου είναι ο Miyamoto. Thumbnail [εδώ](https://github.com/TheodorosKontos/images/blob/master/super-mario-thumb.png) και κανονική εικόνα [εδώ](https://github.com/TheodorosKontos/images/blob/master/super-mario.png).
+Έγινε προσθήκη για το παιχνίδι [Super Mario](https://github.com/TheodorosKontos/_gallery/blob/master/super-mario.md) δημιουργός του οποίου είναι ο Miyamoto. Thumbnail [εδώ](https://github.com/TheodorosKontos/images/blob/master/super-mario-thumb.png) και κανονική εικόνα [εδώ](https://github.com/TheodorosKontos/images/blob/master/super-mario.png). Η βιβλιογραφία της σύντομης αναφοράς στο παιχνίδι [εδώ](https://en.wikipedia.org/wiki/Super_Mario)
 
 **A2**
 Από τον φάκελο _slides πρόσθεσα τα entry μου στο [videogames.md](https://github.com/TheodorosKontos/site/blob/master/_slides/videogames.md)
@@ -101,3 +102,5 @@
 [Videogamecritic](https://videogamecritic.com/nesinfo.htm)
 
 **B2**
+
+Βιογραφία του Takashi Tezuka, σχεδιαστή του παιχνιδιού Super Mario, μαζί με τον Shigeru Miyamoto. 
