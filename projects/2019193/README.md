@@ -69,7 +69,7 @@
 
 Από τον φάκελο _timeline πρόσθεσα επίσης τα entry μου στο [videogames.md](https://github.com/TheodorosKontos/site/blob/master/_timeline/videogames.md)
 
-Δυστυχώς παρά το γεγονός ότι έκανα όλες τις απαραίτητες αλλαγές που είχαν ζητηθεί τόσο στο [_config.yml](https://github.com/TheodorosKontos/site/blob/master/_config.yml) όσο και στο [.gitmodules](https://github.com/TheodorosKontos/site/blob/master/.gitmodules) οι αλλαγές δεν έγιναν σωστά ορατές στο [Netlify](https://hci-p2019193.netlify.app/). 
+Δυστυχώς παρά το γεγονός ότι έκανα όλες τις απαραίτητες αλλαγές που είχαν ζητηθεί τόσο στο [_config.yml](https://github.com/TheodorosKontos/site/blob/master/_config.yml) όσο και στο [.gitmodules](https://github.com/TheodorosKontos/site/blob/master/.gitmodules) οι αλλαγές δεν έγιναν σωστά ορατές στο [Netlify](https://hci-p2019193.netlify.app/). Λογικά κάτι δεν έχει γίνει σωστά με τα git submodules. 
 
 # Άσκηση Προγραμματισμού Mouse form
 [Netlify Mouse form](https://hci-p2019193.netlify.app/remix/mouse-form/)
@@ -93,4 +93,9 @@
 [![asciicast](https://asciinema.org/a/382954.svg)](https://asciinema.org/a/382954)
 
 # Συμμετοχικό περιεχόμενο Β1 Β2
+**Β1**
+[Μελέτη περίπτωσης](https://github.com/TheodorosKontos/site/blob/master/_case-study/nintendo-entertainment-system) το Nintendo Entertainment system, της κονσόλας των πρωτοπόρων παιχνιδιών στα μέσα της δεκαετίας του 1980.
+Βιβλιογραφία: [Wikipedia](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
+[Videogamecritic](https://videogamecritic.com/nesinfo.htm)
 
+**B2**
