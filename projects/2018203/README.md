@@ -40,7 +40,7 @@
 Σκοπός της άσκησης ήταν να χρησιμοποιήσουμε την τεχνική parallax για να δημηουργηθεί η αίσθηση του 3D περιβάλλοντος.Επίσης μπορούμε να περιηγηθούμε στη σύνθεση χρησιμοποιώντας το ποντίκι.
  
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
-<i><a href="https://asciinema.org/a/377498"tittle="Τhe application should be similar to rtv, haxor from hci.">Τhe application should be similar to rtv, haxor from hci.</a></i>
+<i><a href="https://asciinema.org/a/377498"tittle"=Τhe application should be similar to rtv, haxor from hci.">Τhe application should be similar to rtv, haxor from hci.</a></i>
 
 Σκοπός της άσκησης ήταν να υλοποιήσουμε ένα πρόγραμμα με όνομα "Hello" το οποίο να ζητλαει το όνομα μας και επομένως να το τρέξουμε στο Terminal.
 
@@ -55,7 +55,7 @@
 - Χρονολόγιο: https://github.com/p18anas/site/blob/master/_timeline/mobile.md
 
 
-<i><a href="https://asciinema.org/a/377498"tittle="Τhe application should be similar to rtv, haxor from hci.">Τhe application should be similar to rtv, haxor from hci.</a></i>
+
 
 | Βιβλιογραφία |
  <a href="https://pibook.epidro.me/remix/"> Λίστα ασκήσεων Προγραμματισμού</a> |
