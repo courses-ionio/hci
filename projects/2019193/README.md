@@ -46,13 +46,17 @@
 Βιβλιογραφία: [HTML](https://www.w3schools.com/html/html_intro.asp) [CSS](https://www.w3schools.com/css/css_intro.asp)
 
 # Άσκηση γραμμής εντολών εισαγωγή στο bash
-Χωρισμένη σε 2 μέρη.
+Η πρώτη άσκσηση γραμμής εντολών είναι χωρισμένη σε 2 μέρη.
 
 [1ο μέρος](https://asciinema.org/a/382940)
+
+Έκανα μία μικρή αλλαγή στο command prompt μέσω του bash mode. Χρειάστηκε να γίνει μία μελέτη στο διαδίκτυο ([εδώ](https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html))
 
 [![asciicast](https://asciinema.org/a/382940.svg)](https://asciinema.org/a/382940)
 
 [2ο μέρος](https://asciinema.org/a/382948)
+
+Κατά σειρά κάνω list τα dot files, εμφανίζω το αρχείο config, ενώ για να εμφανιστούν οι πληροφορίες του συστήματός μου χρειάστηκε πάλι μελέτη ([εδώ](https://flaviocopes.com/linux-command-uname/))
 
 [![asciicast](https://asciinema.org/a/382948.svg)](https://asciinema.org/a/382948)
 
@@ -67,7 +71,11 @@
 ![sortable_list](https://i.imgur.com/rv5zZIV.jpg)
 
 # Άσκηση γραμμής εντολών Download mp3
-[Link του asciicast](https://asciinema.org/a/382768)
+[Link του asciicast](https://asciinema.org/a/382617)
+
+Αν και αρχικά με δυσκόλεψε η άσκηση, κατάλαβα πως χρειάζεται να δημιουργήσω ένα δικό μου bash sh script (φαίνεται στο asciicast μετά την εντολή vi youtube.sh).
+Με την βοήθεια του bash script λοιπόν, ζητείται από τον χρήστη να πληκτρολογήσει τον τίτλο του τραγουδιού, ο οποιός αποθηκεύεται και το youtube-dl εκτελεί αναζήτηση και download. 
+Βιβλιογραφία για την δημιουργία και τη χρήση του bash sh script [εδώ](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
 
 [![asciicast](https://asciinema.org/a/382617.svg)](https://asciinema.org/a/382617)
 
@@ -97,7 +105,10 @@
 Βιβλιογραφία: [HTML](https://www.w3schools.com/html/html_forms.asp)
 
 # Άσκηση γραμμής εντολών Οrganize Εmacs
-[Link του asciicast](https://asciinema.org/a/382617)
+[Link του asciicast](https://asciinema.org/a/382768)
+
+Στην επόμενη άσκηση γραμμής εντολών ασχολούμαστε με την οργάνωση των σημειώσεων μας μέσω του emacs. Αρχικά έγινε εγκατάσταση του emacs στο σύστημά μου. Στην συνέχεια δημιούργησα το αρχείο todolist.org. Το επεξαργάστηκα και το έτρεξα στο τερματικό με την εντολή emacs todolist.org -nw. Στην αρχή το πρόγραμμα με δυσκόλεψε καθώς δεν μπορούσα να το επεξεργαστώ, αλλά το διαδίκτυο μου έδωσε τις απαντήσεις που έψαχνα. Στο asciicast λοιπόν βλέπουμε την "σημερινή" λίστα προϊόντων, την οποία επεξεργάζομαι και αποθηκεύω για να χρησιμοποιήσω την τροποποιημένη λίστα την επόμενη ημέρα. Το πρόγραμμα αποθηκεύεται και γίνεται έξοδος από αυτό.
+Βιβλιογραφία [εδώ](https://www.digitalocean.com/community/tutorials/how-to-use-the-emacs-editor-in-linux).
 
 [![asciicast](https://asciinema.org/a/382768.svg)](https://asciinema.org/a/382768)
 
@@ -114,6 +125,8 @@
 
 # Άσκηση γραμμής εντολών Text Editor Vim
 [Link του asciicast](https://asciinema.org/a/382954)
+
+Στην τελευταία άσκηση γραμμής εντολών γίνεται μία επιφανειακή χρήση του Vim text editor. Με την εντολή sudo vi και την θέση του αρχείου config, εισέρχομαι σε αυτό όπου του κάνω μία μικρή επεξεργασία. 
 
 [![asciicast](https://asciinema.org/a/382954.svg)](https://asciinema.org/a/382954)
 
