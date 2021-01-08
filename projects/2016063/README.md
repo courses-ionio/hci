@@ -35,7 +35,7 @@ Link site: https://github.com/p16andr/site/blob/2016063/_remix/sortable-list.md
 
 Link Netlify: https://p16andr.netlify.app/remix/sortable-list/
 
-Link asciinema: https://codepen.io/p16andr/pen/KKMGyXy
+Link codepen: https://codepen.io/p16andr/pen/KKMGyXy
 
 Σε αυτό το παραδοτέο στον CSS κώδικα μου ευθυγράμισα ακριβώς στο κέντρο το περιεχόμενο (Αντικείμενο 4, Αντικείμενο 7 κτλπ) των πλαισίων με την εντολές 1)display: flex; και 2)align-items:center; , άλλαξα το κενό ανάμεσα στα πλαίσια και το μεγάλωσα μέσα απο την εντολή margin: 0 3px 13px 3px; , μεγάλωσα λίγο παραπάνω το ύψος των πλαισίων με την εντολή height: 20px; και άλλαξα το χρώμα των πλαισίων απο το γαλάζιο που ήταν αρχικά σε πράσινο. Τέλος, από τον κώδικα της Html έβγαλα τα άνω-κάτω βελάκια που υπήρχαν δίπλα από κάθε αντικείμενο.
  
@@ -55,7 +55,7 @@ Link site: https://github.com/p16andr/site/blob/2016063/_remix/image-zoom.md
 
 Link netlify: https://p16andr.netlify.app/remix/image-zoom/
 
-Link asciinema: https://codepen.io/p16andr/pen/JjKeKEm
+Link codepen: https://codepen.io/p16andr/pen/JjKeKEm
 
 Σε αυτήν την άσκηση στον Css κώδικα έχω σε σχόλια τον αρχικό κώδικα που έχει η άσκηση /*html{ font-family:sans-serif; background:#97e466; color:#fff; }*/ γιατί δεν μου έκανε όλη την οθόνη πράσινη όπως ήταν στο παράδειγμα. Η εντολή background:#97e466; μέσα στο body δείχνει το πράσινο χρώμα όλου του πλαισίου και έχω προσθέσει την εντολή color:#fff; μέσα στο body για να κάνει τα γράμματα λευκά όπως ήταν αρχικά. Τέλος πρόσθεσα μέσα στην .wrap{ το φίλτρο εικόνας από το προηγούμενο παράδειγμα και συνδύασα τα φίλτρο και τη χρήση zoom κατά τη λειτουργία hover μέσα στην .wrap:hover{.
        
@@ -75,7 +75,7 @@ Link site: https://github.com/p16andr/site/blob/2016063/_remix/mouse-button.md
 
 Link netlify: https://p16andr.netlify.app/remix/mouse-button/
 
-Link asciinema: https://codepen.io/p16andr/pen/BazXWRq
+Link codepen: https://codepen.io/p16andr/pen/BazXWRq
 
  Στην συγκεκριμένη άσκηση στον κώδικα της Html άπλα προσθέτω το κουμπι Previous. Στον Css κώδικα η μόνη λειτουργία που κάνω είναι να κεντράρω όλο το περιεχόμενο του μαύρου πλαισίου μεσα απο την εντολή .container . Τέλος στον κώδικα της Javascript καλύπτω όλη την λειτουργία του κουμπιού Previous προσθέτοντας τις 2 νέες μεταβλητές 1)var one_id = 0; και 2)var two_id = 0; και βαζονταστες σε κάθε cases τις κάθε κατηγορίας και υποκατηγορίας.
  
