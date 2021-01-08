@@ -103,4 +103,8 @@
 
 **B2**
 
-Βιογραφία του Takashi Tezuka, σχεδιαστή του παιχνιδιού Super Mario, μαζί με τον Shigeru Miyamoto. 
+[Βιογραφία](https://github.com/TheodorosKontos/site/blob/master/_biography/Takashi-Tezuka.md) του Takashi Tezuka, σχεδιαστή των θρυλικών παιχνιδιών Super Mario και The Legend of Zelda, μαζί με τον Shigeru Miyamoto. 
+
+Βιβλιογραφία: [Wikipedia](https://en.wikipedia.org/wiki/Takashi_Tezuka)
+[Nintendo.fandom](https://nintendo.fandom.com/wiki/Takashi_Tezuka)
+[Mariowiki](https://www.mariowiki.com/Takashi_Tezuka)
