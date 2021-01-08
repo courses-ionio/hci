@@ -12,7 +12,7 @@
 | 7 | Άσκηση προγραμματισμού <li><a href="#Image zoom"></span> <span class="toctext">Image zoom</span></a> |
 | 8 | Άσκηση γραμμής εντολών <li><a href="#Edit the vim or the shell configuration file"></span> <span class="toctext">Edit the vim or the shell configuration file</span></a> |
 | 9 | Άσκηση προγραμματισμού <li><a href="#Mouse button"></span> <span class="toctext">Mouse button</span></a> |
-| 10 |  Άσκηση γραμμής εντολών |
+| 10 |  Άσκηση γραμμής εντολών <li><a href="#Set-up the main dependencies and demonstrate your base system"></span> <span class="toctext">Set-up the main dependencies and demonstrate your base system</span></a> | |
 | 11 | Συμμετοχικό περιεχόμενο <li><a href="#2o Συμμετοχικό Περιεχόμενο"></span> <span class="toctext">2o Συμμετοχικό Περιεχόμενο</span></a>|
 | 12 | Τελική αναφορά* |
 
@@ -109,6 +109,20 @@
 Η τρίτη  άσκηση που επέλεξα ήταν η επεξεργασία των κειμένων με την χρήση του εργαλείου vim. Το vim  έχει σχεδιαστεί για τη χρήση διεπαφής γραμμής εντολών όσο και ως αυτόνομη εφαρμογή σε γραφικό περιβάλλον χρήστη. Δημιούργησα ένα αρχείο με όνομα PETROULA ενώ το περιεχόμενο του αρχείου ήταν τα προσωπικά μου στοιχεία (ονοματεπώνυμο, ΑΜ). Στην συνέχεια, έκανα αντιγραφή “y” και επικόλληση “p” μέσω του virtual mode. 
 
 * Σύνδεσμος για: [asciinema](https://asciinema.org/a/383073)
+
+
+<h2><span id="Set-up the main dependencies and demonstrate your base system">Set-up the main dependencies and demonstrate your base system</span></h2>
+
+Η τέταρτη εργασία που αποφάσισα να ασχοληθώ ζητούσε πρόσβαση στα αρχεία του υπολογιστή. Για αρχή έπρεπε να αλλαξουμε τη γραμμή εντολών με το μαθητικό μας αναγνωριστικό. Στην συνέχεια έπρεπε να αμφανίσουμε το αρχείο διαμόρφωσης κελύφους και τις πληροφορίες του συστήματος.
+
+* Σύνδεσμος για: [asciinema](https://asciinema.org/a/383404)
+
+<br>
+<p align="center">
+<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Set-up%20the%20main%20dependencies%20and%20demonstrate%20your%20base%20system.png" height=300 width="500">
+<p/><br> 
+
+
 
 
 <h2><span id="1o Συμμετοχικό Περιεχόμενο">1o Συμμετοχικό Περιεχόμενο </span></h2>
