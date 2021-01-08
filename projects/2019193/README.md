@@ -94,7 +94,9 @@
 
 # Συμμετοχικό περιεχόμενο Β1 Β2
 **Β1**
-[Μελέτη περίπτωσης](https://github.com/TheodorosKontos/site/blob/master/_case-study/nintendo-entertainment-system) το Nintendo Entertainment system, της κονσόλας των πρωτοπόρων παιχνιδιών στα μέσα της δεκαετίας του 1980.
+
+[Μελέτη περίπτωσης](https://github.com/TheodorosKontos/site/blob/master/_case-study/nintendo-entertainment-system) του Nintendo Entertainment system, της κονσόλας των πρωτοπόρων παιχνιδιών στα μέσα της δεκαετίας του 1980.
+
 Βιβλιογραφία: [Wikipedia](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
 [Videogamecritic](https://videogamecritic.com/nesinfo.htm)
 
