@@ -120,6 +120,8 @@ Link asciinema: https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit
 Έχω προσθέσει τις δύο εικόνες
 
 Link 1ης εικόνας: https://github.com/p16andr/images/blob/master/English%20Electric%20KDF9.jpg
+
+
 Link 2ης εικόνας: https://github.com/p16andr/images/blob/master/English%20Electric%20KDF9-thumb.jpg
 
 Και επίσης έχω κάνει προσθήκη το αρχείο md στην συλλογή (_gallery)
