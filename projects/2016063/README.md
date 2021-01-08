@@ -20,7 +20,7 @@ Link Netlify: https://p16andr.netlify.app/
 | 9 | [Άσκηση προγραμματισμού Css Queries](#Παραδοτέο-9) |
 | 10 | [Άσκηση γραμμής εντολών Vim Editor](#Παραδοτέο-10) |
 | 11 | [Συμμετοχικό περιεχόμενο](#Παραδοτέο-11) |
-| 12 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση] |
+| 12 | [Συμπεράσματα](#Παραδοτέο-12) |
 
 
 ## Παραδοτέο 1
@@ -41,10 +41,6 @@ Link codepen: https://codepen.io/p16andr/pen/KKMGyXy
  
   
 <a href="https://imgur.com/ascpL6o"><img src="https://i.imgur.com/ascpL6o.png" title="source: imgur.com" /></a>
-
-      
-  <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p16andr" data-slug-hash="KKMGyXy" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Pibook Sortable"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/KKMGyXy"> Pibook Sortable</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
   
    
 ## Παραδοτέο 4 
@@ -61,10 +57,6 @@ Link codepen: https://codepen.io/p16andr/pen/JjKeKEm
        
        
 <a href="https://imgur.com/k10tXDM"><img src="https://i.imgur.com/k10tXDM.png" title="source: imgur.com" /></a>
-       
-      
-   <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p16andr" data-slug-hash="JjKeKEm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Background Image zoom"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/JjKeKEm"> Background Image zoom</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
    
    
 ## Παραδοτέο 7 
@@ -82,9 +74,6 @@ Link codepen: https://codepen.io/p16andr/pen/BazXWRq
  
  <a href="https://imgur.com/GL9bdS8"><img src="https://i.imgur.com/GL9bdS8.png" title="source: imgur.com" /></a>
 
-
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="p16andr" data-slug-hash="BazXWRq" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JS fitness 3: Dev compliment generator"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/BazXWRq"> JS fitness 3: Dev compliment generator</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p> <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
                     
 ## Παραδοτέο 8 
 
@@ -92,9 +81,8 @@ Link codepen: https://codepen.io/p16andr/pen/BazXWRq
 
 Link asciinema: https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH
 
-<a href="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH" target="_blank"><img src="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH.svg" /></a>
 
-<script id="asciicast-WkznqSRJTXMsAhIMwGT4AGsjH" src="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH.js" async></script>
+<a href="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH" target="_blank"><img src="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH.svg" /></a>
 
 
 ## Παραδοτέο 9 
@@ -111,10 +99,6 @@ Link codepen: https://codepen.io/p16andr/pen/rNMLOMb
   
   
 <a href="https://imgur.com/vTfrIkt"><img src="https://i.imgur.com/vTfrIkt.png" title="source: imgur.com" /></a>
-  
-  
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p16andr" data-slug-hash="rNMLOMb" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="media queries example"> <span>See the Pen <a href="https://codepen.io/p16andr/pen/rNMLOMb"> media queries example</a> by p16andr (<a href="https://codepen.io/p16andr">@p16andr</a>) on <a href="https://codepen.io">CodePen</a>.</span> </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 
 ## Παραδοτέο 10 
@@ -122,8 +106,29 @@ Link codepen: https://codepen.io/p16andr/pen/rNMLOMb
 ### Άσκηση γραμμής εντολών Vim Editor    
 
 Link asciinema: https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit
+
   
   <a href="https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit" target="_blank"><img src="https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit.svg" /></a>
-  
-  <script id="asciicast-j30pryHgffpSCKCbcmI1RMYit" src="https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit.js" async></script>
 
+
+## Παραδοτέο 11
+
+### Συμμετοχικό Περιεχόμενο 
+
+#### Α1
+
+Έχω προσθέσει τις δύο εικόνες
+
+Link 1ης εικόνας: https://github.com/p16andr/images/blob/master/English%20Electric%20KDF9.jpg
+Link 2ης εικόνας: https://github.com/p16andr/images/blob/master/English%20Electric%20KDF9-thumb.jpg
+
+Και επίσης έχω κάνει προσθήκη το αρχείο md στην συλλογή (_gallery)
+
+Link αρχείου md: https://github.com/p16andr/_gallery/blob/master/English%20Electric%20KDF9.md
+
+
+## Παραδοτέο 12
+
+### Συμπεράσματα
+
+Μέσα από το μάθημα εκπλήρωσα κάποιους προσωπικούς στόχους που είχα θέσει απο την αρχή.Αρχικά,άρχισα να καταλαιβαίνω και να αποκτώ μία μεγαλύτερη άνεση και κίνηση όσον αφορά την χρήση του GitHub.Επίσης το σημαντικότερο και είμαι ευγνώμων για αυτό είναι πως πλέον έχω αποκτήσει μία παραπάνω γνώση πάνω σε Html κώδικα, Css κώδικα, Javascript και Coffescript.Επιπλέον έμαθα το τι είναι αλλά και την λειτουργία προγραμμάτων όπως το Netlify και το asciinema και έμαθα να δουλεύω πάνω σε κάποιες βασικές εντόλες στον τερματικό αλλά και σε Emacs και Vim editor και με εξάσκηση εν τέλη να της χρησιμοποιώ σωστά.Τέλος όσον αφορά καθαρά το μάθημα στην αρχή δεν μπορούσα να καταλάβω τίποτα γιατί δεν είχα χρησιμοποιήσει ποτέ πιο πριν το GitHub και δεν ήξερα πως λειτουργεί αλλά όσο πέρναγε ο καιρός άρχιζα να καταλαβαινω και μετά δεν αντιμετώπισα κανένα πρόβλημα.
