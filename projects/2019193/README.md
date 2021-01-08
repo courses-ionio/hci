@@ -119,6 +119,8 @@
 [Nintendo.fandom](https://nintendo.fandom.com/wiki/Takashi_Tezuka)
 [Mariowiki](https://www.mariowiki.com/Takashi_Tezuka)
 
+Δυστυχώς πάλι δεν έχει γίνει σωστά η απεικόνιση των προσθήκων στο [Netlify](https://hci-p2019193.netlify.app/). Όπως τόνισα και στο α' μέρος του συμμετοχικού περιεχομένου, είχα κάνει όλες τις απαραίτητες αλλαγές στο [_config.yml](https://github.com/TheodorosKontos/site/blob/master/_config.yml) όσο και στο [.gitmodules](https://github.com/TheodorosKontos/site/blob/master/.gitmodules) αλλά απ'ότι φαίνεται δεν αρκεί μόνο αυτό. 
+
 # Τελική Αναφορά
 Δεν μπορούμε να αμφισβητήσουμε ότι μάθαμε πάρα πολλά από αυτό το μάθημα. Αρχικά, εξοικειωθήκαμε σε σημαντικό βαθμό με το Github, ένα εργαλείο που θα μας χρειαστεί οπωσδήποτε στο μέλλον, οπότε ήταν ευχάριστο και κρίσιμο που ασχοληθήκαμε ήδη από το 2ο έτος με αυτό. 
 
