@@ -7,7 +7,7 @@
 | 2 |<li><a href="#Image Processing"><span class="toctext">Image Processing</span></a>| 
 | 3 |<li><a href="#Browse & View Files"><span class="toctext">Browse & View Files</span></a>|
 | 4 |<li><a href="#Image Zoom"><span class="toctext">Image Zoom</span></a>|
-| 5 |Άσκηση γραμμής εντολών (SW)|
+| 5 |<li><a href="#Check the Weather"><span class="toctext">Check the Weather</span></a>|
 | 6 |<li><a href="#Συμμετοχικό περιεχόμενο 1"><span class="toctext">Συμμετοχικό περιεχόμενο Α1 και Α2</span></a>|
 | 7 |<li><a href="#Mouse Form"><span class="toctext">Mouse Form</span></a>|
 | 8 | Άσκηση γραμμής εντολών (SW) |
@@ -62,6 +62,18 @@
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a> 
 <br> <a href="https://pibook.epidro.me/remix/image-zoom/">Η εκφώνηση της άσκησης που έκανα.</a>
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της προηγούμενης άσκησης που χρησιμοποίησα.</a></ul>
+
+
+
+<br><br>
+<h2><span id="Check the Weather">(5) Check the Weather (Άσκηση Γραμμής Εντολών)</span></h2>
+<p>*pros sumplirosi*
+  
+<a href="https://asciinema.org/a/383579">Check the Weather</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://asciinema.org/">Asciinema.</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://github.com/epidrome/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a></ul>
 
 
 
