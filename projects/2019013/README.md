@@ -13,7 +13,7 @@
 | 7 | Άσκηση Προγραμματισμού <li><a href="#Άσκηση προγραμματισμού 3η"></span> <span class="toctext">Άσκηση προγραμματισμού 3η</span></a> |
 | 8 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών 3η"></span> <span class="toctext">Άσκηση γραμμής εντολών 3η</span></a>|
 | 9 | Άσκηση Προγραμματισμού <li><a href="#Άσκηση προγραμματισμού 4η"></span> <span class="toctext">Άσκηση προγραμματισμού 4η</span></a>|
-| 10 | Άσκηση γραμμής εντολών |
+| 10 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών 4η"></span> <span class="toctext">Άσκηση γραμμής εντολών 4η</span></a>|
 | 11 | Συμμετοχικό περιεχόμενο <li><a href="#Συμμετοχικό περιεχόμενο 2o"></span> <span class="toctext">Συμμετοχικό περιεχόμενο 2o</span></a>|
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
@@ -76,6 +76,15 @@
   <li>Codepen: https://codepen.io/p19stef/pen/dypMXON
    
    Σκοπός της άσκησης ήταν η αλλαγή του χρώματος του αριθμού εξόδου, κάθε φορά που θα γινόταν μετακίνηση του ποντικιού.Αυτό επιτεύχθηκε με αλλαγή του CSS κομματιού, στο μπλοκ κώδικα του body.
+   
+   <h2><span id="Άσκηση γραμμής εντολών 4η">Άσκηση γραμμής εντολών 4η</span></h2>
+   
+   <i><a href="https://asciinema.org/a/383563" title="Search, download and play (with the terminal) your favorite song of the month from youtube">Search, download and play (with the terminal) your favorite song of the month from youtube</a></i>
+  
+  Σκοπός της άσκησης ήταν η αναζήτηση, το "κατέβασμα" και η αναπαραγώγη ενός mp3 κομματιού της επιλογής μας, μέσω του terminal.Η διαδικασία αυτή , όπως φαίνεται και μέσα απο το asciinema, δεν ήταν επιτυχής, καθώς κατάφερα μόνο να κατεβάσω το κομμάτι και δυστηχώς όχι να το αναπαράγω.Ωστόσο κατάφερα να ολοκληρώσω επιτυχώς την συγκεκριμένη διαδικασία (βέβαια το κομμάτι "κατέβηκε" σε μορφη mp4) μέσω της γραμμής εντολών του υπολογιστή μου,για το οποίο υπάρχει screen shot.
+  
+  Το screen shot της γραμμής εντολών: https://github.com/AnastasiaMariaStefani/_images/blob/master/download%20mp4.png
+  
    
    <h2><span id="Συμμετοχικό περιεχόμενο 2o">Συμμετοχικό περιεχόμενο 2o</span></h2>
     <li>1η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/twitter.png
