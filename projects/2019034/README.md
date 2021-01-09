@@ -10,7 +10,7 @@
 | 5 |<li><a href="#Check the Weather"><span class="toctext">Check the Weather</span></a>|
 | 6 |<li><a href="#Συμμετοχικό περιεχόμενο 1"><span class="toctext">Συμμετοχικό περιεχόμενο Α1 και Α2</span></a>|
 | 7 |<li><a href="#Mouse Form"><span class="toctext">Mouse Form</span></a>|
-| 8 |<li><a href="#Set-up the main dependencies and demonstrate your base system"><span class="toctext">Set-up the main dependencies and demonstrate your base system</span></a>|
+| 8 |<li><a href="#Set-up the main dependencies and demonstrate your base system"><span class="toctext">Set-up dependencies and demonstrate system</span></a>|
 | 9 |<li><a href="#Sortable List"><span class="toctext">Sortable List</span></a>|
 | 10 |<li><a href="#Check the Weather"><span class="toctext">Check the Weather</span></a>|
 | 11 |<li><a href="#Συμμετοχικό περιεχόμενο 2"><span class="toctext">Συμμετοχικό περιεχόμενο B1 και B2</span></a>|
@@ -112,7 +112,7 @@
 
 <br><br>
 <h2><span id="Set-up the main dependencies and demonstrate your base system">(8) Set-up the main dependencies and demonstrate your base system (Άσκηση Γραμμής Εντολών)</span></h2>
-<p>*pros sumplirosi*
+<p>*pros  sumplirosi*
   
 <a href="https://asciinema.org/a/383596">Check the Weather</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
