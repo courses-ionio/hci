@@ -44,6 +44,6 @@
 <h2><span id="Άσκηση γραμμής εντολών 1η">Άσκηση γραμμής εντολών 1η</span></h2> 
 
 <h2><span id="fetch the weather forecast for your home city and one more city that you want to travel to.">Fetch the weather forecast for your home city and one more city that you want to travel to.</span></h2>
-[asciinema]Σύνδεσμος:(https://asciinema.org/a/383220)
+Σύνδεσμος:[asciinema](https://asciinema.org/a/383220)
 
 Ο στόχος της εργασίας είναι να ενημερωθούμε για την πρόγνωση του καιρού για την πόλη καταγωγής μας και μιας ακόμη πόλης στην οποία θα θέλαμε να ταξιδέψουμε.
