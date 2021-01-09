@@ -114,7 +114,7 @@
 <h2><span id="Set-up the main dependencies and demonstrate your base system">(8) Set-up the main dependencies and demonstrate your base system (Άσκηση Γραμμής Εντολών)</span></h2>
 <p>*pros  sumplirosi*
   
-<a href="https://asciinema.org/a/383596">Check the Weather</a>
+<a href="https://asciinema.org/a/383596">Set-up the main dependencies and demonstrate your base system</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a>
