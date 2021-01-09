@@ -12,7 +12,7 @@
 | 7 |<li><a href="#Mouse Form"><span class="toctext">Mouse Form</span></a>|
 | 8 |<li><a href="#Set-up the main dependencies and demonstrate your base system"><span class="toctext">Set-up dependencies and demonstrate system</span></a>|
 | 9 |<li><a href="#Sortable List"><span class="toctext">Sortable List</span></a>|
-| 10 |<li><a href="#Check the Weather"><span class="toctext">Check the Weather</span></a>|
+| 10 |<li><a href="#Download MP3"><span class="toctext">Download MP3</span></a>|
 | 11 |<li><a href="#Συμμετοχικό περιεχόμενο 2"><span class="toctext">Συμμετοχικό περιεχόμενο B1 και B2</span></a>|
 | 12 | Τελική αναφορά* |
 
@@ -134,6 +134,18 @@
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/sortable-list/">Η εκφώνηση της άσκησης που έκανα.</a>
 <br> <a href="https://www.w3schools.com/cssref/css_colors.asp">Λίστα με τα διαθέσιμα χρώματα που χρησιμοποίησα για βοήθεια.</a></ul>
+
+
+
+<br><br>
+<h2><span id="Download MP3">(10) Download MP3 (Άσκηση Γραμμής Εντολών)</span></h2>
+<p>*pros  sumplirosi*
+  
+<a href="https://asciinema.org/a/383611">Download MP3</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://asciinema.org/">Asciinema.</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://github.com/epidrome/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a></ul>
 
 
 
