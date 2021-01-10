@@ -44,7 +44,7 @@ tittle=" change your command prompt with your student ID, list your dot files, d
 Τροποποιούμε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας από το προηγούμενο παράδειγμα(Image processing). Συνδυάζουμε τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover
 
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
-<i><a href= "https://asciinema.org/a/379868"
+<i><a href= "https://asciinema.org/a/383712"
       tittle="edit the vim or the shell configuration file">edit the vim or the shell configuration file</a></i>
       
 Δημιουργούμε ενα αρχείο με τη χρήση του vim και μετά δείχνουμε την χρηση του coppy-paste 
