@@ -26,6 +26,7 @@
   
   <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/image-filter.md" title="Image Processing">Image Processing</a></i>
   <li>Codepen: https://codepen.io/p19stef/details/VwjjeYv
+  <li>Netlify: https://eloquent-swartz-92347d.netlify.app/remix/image-filter/
   
   Σκοπός της άσκησης ήταν η τροποποίηση του πραδείγματος που υπήρχε με κατάλληλο συνδυασμό φίλτρων ,αλλάζοντας τον CSS κώδικα, ώστε να εμφανίζεται η εικόνα με διαφορετικά χρωματικά εφέ. Η τροποποίση που έκανα, βρισκόταν στο μπλοκ κώδικα του hover, εφαρμόζοντας τα φίλτρα contrast(Θόλωμα),sepia(Σέπια) και blur(Αντίθεση).  
   
@@ -40,6 +41,7 @@
   
   <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/mouse-form.md" title="Mouse Form">Mouse Form</a></i>
   <li>Codepen: https://codepen.io/p19stef/pen/GRqxEvX
+  <li>Netlify: https://eloquent-swartz-92347d.netlify.app/remix/mouse-form/
   
   Σκοπός της άσκησης ήταν η τροποποίηση του υπάρχοντος παραδείγματος με την προσθήκη ενός ακόμα κελιού.Το νέο αυτό κελί θα περιείχε την προεπιλεγμένη τιμή "gender", ενώ θα είχε σαν επιλογές το "male" και "female".Η αλλαγή αυτή έγινε στο HTML κομμάτι του κώδικα.
   
@@ -61,6 +63,7 @@
   
   <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/image-zoom.md" title="Image Zoom">Image Zoom</a></i>
   <li>Codepen: https://codepen.io/p19stef/pen/wvWLqyb
+  <li>Netlify: https://eloquent-swartz-92347d.netlify.app/remix/image-zoom/
   
   Σκοπός της άσκησης ήταν η τροποποίηση της υπάρχουσας εικόνας, ώστε μαζί με την χρήση φίλτρων απο προηγούμενο παράδειγμα(Image Processing), μετακινώντας το ποντίκι προς την εικόνα να γίνεται ταυτόχρονα και μεγένθυση της, αλλα και προβολή της με τα φίλτρα που χρησιμοποιήθηκαν.
   
@@ -74,6 +77,7 @@
   
   <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/mouse-scroll.md" title="Mouse scroll">Mouse scroll</a></i>
   <li>Codepen: https://codepen.io/p19stef/pen/dypMXON
+  <li>Netlify: https://eloquent-swartz-92347d.netlify.app/remix/mouse-scroll/
    
    Σκοπός της άσκησης ήταν η αλλαγή του χρώματος του αριθμού εξόδου, κάθε φορά που θα γινόταν μετακίνηση του ποντικιού.Αυτό επιτεύχθηκε με αλλαγή του CSS κομματιού, στο μπλοκ κώδικα του body.
    
