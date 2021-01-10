@@ -67,6 +67,13 @@
 
 Παράδειγμα διαδραστικού κώδικα όπου ο χρήστης χρησιμοποιώντας το ποντίκι, πατώντας το κουμπί "ANOTHER" μπορεί να αλλάξει τα εκτυπωμένα μηνύματα ενώ πατώντας το κουμπί "PREVIOUS" μπορεί να επιστρέψει στο προηγούμενο μήνυμα.
 
+<h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
+
+<i><a href="https://github.com/p18anas/site/blob/master/_remix/mouse-form.md" tittle="mouse-form">mouse-form</a></i>
+
+*CodePen: https://codepen.io/p18anas/pen/qBaMqWG
+*Pibook: https://github.com/p18anas/site/blob/master/_remix/mouse-form.md
+
 
 | Βιβλιογραφία |
  <a href="https://pibook.epidro.me/remix/"> Λίστα ασκήσεων Προγραμματισμού</a> |
