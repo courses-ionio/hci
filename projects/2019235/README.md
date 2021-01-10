@@ -3,6 +3,8 @@
 ## **Ονοματεπώνυμο: Παπαγεωργίου Ισαβέλλα**
 ## **ΑΜ: 2019235**
 
+# **Σύνοψη**
+### Τα παραδοτέα που επιλέχθηκαν βρίσκονται αναλυτικά στον [πίνακα περιεχομένων](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#%CF%80%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CF%89%CE%BD). Οι πρώτες ασκήσεις προγραμματισμού, δεν υλοποιήθηκαν πλήρως λόγω έλλειψης των απαραίτητων γνώσεων. Μόλις εξοικειώθηκα με τις προγραμματιστικές γλώσσες αυτές, η διαδικασία έγινε πολύ πιο ευχάριστη. Σε έναν μικρό ίσως βαθμό, χρησιμοπιοήθηκαν εναλλακτικά εργαλεία λόγω του συστήματος που χρησιμοποιώ (ArchLinux). Τα προτεινόμενα εργαλεία δεν ήταν πάντα συμβατά με το λειτουργικό μου. Η διαδικασία αυτή, των ασκήσεων γραμμής εντολών, με βοήθησε να ανακαλύψω περισσότερα πράγματα για το λειτουργικό μου, πως λειτουργεί, που υστερεί σε σχέση με άλλα λειτουργικά αλλά και σε πόσο μεγάλο βαθμό μου προσφέρει την ελευθερία του customization.
 
 # **Εισαγωγή**
 ### Μετά το τέλος αυτού του εξαμήνου, θα ήθελα να έχω εξοικειωθεί με την χρήση του terminal, αν και ήδη υπάρχει μια σχετική εξοικείωση, λόγω της ασχολίας μου με προγραμματισμό σε linux συστήματα χωρίς την χρήση IDE. Για εμένα το πιο σημαντικό που θα μπορούσα να μάθω πως να κάνω, από αυτό το μάθημα, θα ήταν η δημιουργία δικών μου interfaces, σε απλές εφαρμογές που μπορώ να υλοποιήσω, με τις υπάρχουσες γνώσεις προγραμματισμού. 
@@ -16,12 +18,12 @@
 | 3 | **Getting familiar with bash** <br/> [Student ID on bash](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#getting-familiar-with-bash)<br/> [Show dot files, shell configuration and system info](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CE%B5%CE%BC%CF%86%CE%AC%CE%BD%CE%B9%CF%83%CE%B7-dot-files-shell-configuration-file-%CE%BA%CE%B1%CE%B9-system-information)|
 |   | [Search/Download Torrents through bash](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#searchdownload-torrents-through-bash)|
 | 4 | [Keyboard input](#Παραδοτέο-4) |
-| 5 | **Convert between different text formats** <br/>[Getting a text editor, Vim or Emacs?](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#getting-a-text-editor-vim-or-emacs)<br/>[Figuring out Vim](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#figuring-out-vim)<br/>[Installing Pandoc](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#installing-pandoc)<br/>[Using pandoc to change format](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#using-pandoc-to-change-format)<br/>[Track formatting with git](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#track-formatting-with-git)|
-| 6 | **Συμμετοχικό Περιεχόμενο**<br/>[Matlab](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1-1%CE%B7)<br/>[Unity](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1-2%CE%B7) |
+| 5 | **Convert between different text formats** <br/>[Getting a text editor, Vim or Emacs?](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#getting-a-text-editor-vim-or-emacs)<br/>[Figuring out Vim](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#figuring-out-vim)<br/>[Installing Pandoc](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#installing-pandoc)<br/>[Using pandoc to change format](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#using-pandoc-to-change-format)<br/>[Track formatting with git](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#track-formatting-with-git)|
+| 6 | **Συμμετοχικό Περιεχόμενο**<br/>[Matlab](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1-1%CE%B7)<br/>[Unity](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B1-2%CE%B7) |
 | 7 | [Image Processing](#Παραδοτέο-6) |
-| 8 | **Download mp3**<br/>[Creating a config file](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#creating-a-config-file)<br/>[Downloading and Playing the song](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#downloading-and-playing-the-song) |
-| 9 |[SVG Image](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-9) |
-| 10 |[pending](https://github.com/IsabellaPap/hci/blob/2019235/2019235/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-10) |
+| 8 | **Download mp3**<br/>[Creating a config file](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#creating-a-config-file)<br/>[Downloading and Playing the song](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#downloading-and-playing-the-song) |
+| 9 |[SVG Image](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-9) |
+| 10 |[pending](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-10) |
 | 11 |**Συμμετοχικό Περιεχόμενο**<br/>[Timelines/Slides](https://github.com/IsabellaPap/hci/blob/2019235/projects/2019235/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-11) |
 | 12 | Τελική αναφορά* |
 
@@ -57,6 +59,7 @@
 ### Άσκηση 1: Τροποποιήστε το παράδειγμα έτσι ώστε όταν το αυτοκίνητο κινείται όπισθεν να έχει μικρότερη (τη μισή) ταχύτητα από το όταν κινείται έμπροσθεν.
 Ολοκληρώθηκε το πρώτο ζητούμενο αλλάζοντας την τιμή του dy στο πλήκτρο με κωδικό 40, στο μισό.
 Το δεύτερο ζητούμενο πραγματοποιήθηκε με την εισαγωγή ενός codeblock που εμπόδιζε την αλλαγή του x αν το αυτοκίνητο βρισκόταν σε μία συγκεκριμένη θέση. έτσι το αυτοκίνητο φαίνεται να σταματάει επί τόπου.
+Στην αρχή, για την υλοποίηση αυτής της άσκησης, είχα ανακαλύψει την [p5js](https://p5js.org/), μια βιβλιοθήκη που κάνει την δημιουργία μικρών προγραμμάτων πολύ πιο εύκολη και διασκεδαστική. Επιδή όμως μας ζητήθηκε να τροποποιήσουμε τομ κώδικα και όχι να τον δημιουργήσουμε εκ νέου, δεν μπόρεσα να την εφαρμόσω στον ήδη υπάρχοντα κώδικα.
 
 [![preview](https://www.dropbox.com/s/g9bebujm0yerf72/thumbnailCAR.png?raw=1)](https://p19papa11.netlify.app/remix/keyboard-input/)
 
@@ -135,8 +138,11 @@ To MatLab(1981) ήταν, σύμφωνα με τον Cleve Moler, ένα χόμ�
 Συναντώ δυσκολίες όταν πρέπει να επεξεργαστώ config files, επειδή οι περισσότερες οδηγίες αναφέρουν τα paths για debian λειτουργικά, και το δικό μου είναι arch.
 Έτσι πολλές φορές δεν μπορω να βρω το config file που ψάχνω. Σε αυτή τη περίπτωση νομίζω επηρρέασε την εργασία μου επειδή δημιούργησε καινούριο αρχείο σε άσχετο directory.
 
-Προσωρινό Asciinema: [![asciicast](https://asciinema.org/a/dQtpmitKTQ9Ld8hwVC0DxCsH6.svg)](https://asciinema.org/a/dQtpmitKTQ9Ld8hwVC0DxCsH6)
+Asciinema: [![asciicast](https://asciinema.org/a/dQtpmitKTQ9Ld8hwVC0DxCsH6.svg)](https://asciinema.org/a/dQtpmitKTQ9Ld8hwVC0DxCsH6)
 
 # Παραδοτέο 11
 ### Συμμετοχικό Περιεχόμενο
 Προστέθηκαν 2 καινούρια χρονολόγια στον φάκελο [_timelines](https://github.com/IsabellaPap/site/tree/master/_timeline) και 2 καινούργια σετ διαφανειών στον φάκελο [slides](https://github.com/IsabellaPap/site/tree/master/_slides)
+
+# Συμπεράσματα
+### Ξεκινώντας αυτό το μάθημα, είχα την εντύπωση ότι θα είναι τεχνικής φύσης, και πως θα μάθαινα πως να δημιουργώ τις δικές μου διεπαφές ώστε να πάω τις δυνατότητες μου ως προγραμματιστής στο επόμενο βήμα. Το μάθημα τελικά ήταν πολύ πιο θεωρητικό, μελετήθηκε η ιστορία των διεπαφών και λειτουργικών, τα λάθη και οι καλές ιδέες που δεν υλοποιήθηκαν. Πέρα από το θεωρητικό κομμάτι, υπήρχε το κομμάτι των ασκήσεων οι οποίες έδιναν ένα κίνητρο να ασχοληθεί κάποιος με την δημιουργία δικού του interface, μέσω των προγραμματιστικών ασκήσεων. Προσωπικά, βρέθηκα να ασχολούμαι πιο πολύ με το κομμάτι του terminal, καθώς με βοήθησε να βελτιώσω τον τρόπο με τον οποίο χρησιμοποιούσα τον υπολογιστή μου και μου δημιούργησε κάποιες καινούριες συνήθειες, στην καθημερινότητα μου ως φοιτήτρια (πχ. χρήση vim). Έτσι, παρόλο που έκανα εγγραφή σε μερικά courses online για web development, αρχικά για να ανταπεξέλθω στις ασκήσεις προγραμματισμού του μαθήματος αυτού, κατέληξα στην συνειδητοποίηση ότι δεν με ενδιαφέρει το web development και θα ήθελα να ασχοληθώ στο μέλλον όσο περισσότερο γίνεται με το software engineering. Αυτό το μάθημα με βοήθησε να καταλάβω πολλά πράγματα για τον ευρύτερο "κόσμο" της πληροφορικής. Η μόνη δυσαρέσκειά μου είναι προς το γεγονός ότι υπήρχε λίγος χρόνος μέσα σε ένα εξάμηνο επιβαρυμένο και από άλλα μαθήματα, αλλά και τις συνθήκες της καραντίνας που είναι για κάποιους επιβαρυντικές προς την ψυχολογία τους. Θεωρώ πως θα μπορόυσα να είχα αφιερώσει λίγο περισσότερο χρόνο στην αναφορά μου, αλλά ταυτόχρονα ξέρω ότι έχω αφιερώσει πολύ περισσότερο από ότι σε οποιοδήποτε άλλο μάθημα.
