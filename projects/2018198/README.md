@@ -22,7 +22,7 @@
 
 
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
-<i><a href= "https://asciinema.org/a/372253" 
+<i><a href= "https://asciinema.org/a/383705" 
 tittle=" change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).">change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).</a></i>
 
 Σκοπός της άσκησης ήταν να αλλάξουμε την γραμμή εντολών. Επίσης, έπρεπε να καταχωρίσουμε το neofetch  ετσι ώστε να εμφανίζεται το αρχειό shell configuration και ακόμη να εμφανίζονται πληροφορίες συστήματος. 
