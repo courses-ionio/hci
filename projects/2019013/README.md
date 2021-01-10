@@ -101,7 +101,7 @@
    
   <br>
   <p align="center"
-  <img scr="https://github.com/AnastasiaMariaStefani/hci/blob/2019013/136508439_1919777698160626_144247460316167488_n.png" height=300 width=600>
+  <img scr="https://raw.githubusercontent.com/AnastasiaMariaStefani/hci/2019013/136508439_1919777698160626_144247460316167488_n.png" height=300 width=600>
   <p/><br>
    
    
