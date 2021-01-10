@@ -27,8 +27,10 @@
 
 <h2><span id="Άσκηση Προγραμματισμού">Άσκηση Προγραμματισμού</span></h2>
 
-<h2>Keyboard-input<span id="Keyboard-input"></span></h2>
 <i><a href="https://github.com/p18anas/site/blob/master/_remix/keyboard-input.md"tittle="Keyboard-input">Keyboard-input</a></i> 
+
+* [CodePen] (https://codepen.io/p18anas/pen/GRqqjGM)
+* [Pibook] (https://github.com/p18anas/site/blob/master/_remix/keyboard-input.md)
 
 Σκοπός της άσκησης ήταν το αυτοκινητάκι να κινείται με μικρότερη ταχύτητα στην όπισθεν σε σχέση με την έμπροσθεν, όπως επίσης να μπορεί το αυτοκίνητο να κινείται μόνο στα περιμετικά όρια της πίστας. 
 
@@ -43,6 +45,7 @@
 Σκοπός της άσκησης ήταν να χρησιμοποιήσουμε την τεχνική parallax για να δημηουργηθεί η αίσθηση του 3D περιβάλλοντος.Επίσης μπορούμε να περιηγηθούμε στη σύνθεση χρησιμοποιώντας το ποντίκι.
  
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
+
 <i><a href="https://asciinema.org/a/377498"tittle"=Τhe application should be similar to rtv, haxor from hci.">Τhe application should be similar to rtv, haxor from hci.</a></i>
 
 Σκοπός της άσκησης ήταν να υλοποιήσουμε ένα πρόγραμμα με όνομα "Hello" το οποίο να ζητλαει το όνομα μας και επομένως να το τρέξουμε στο Terminal.
@@ -85,5 +88,6 @@
 
 
 | Βιβλιογραφία |
- <a href="https://pibook.epidro.me/remix/"> Λίστα ασκήσεων Προγραμματισμού</a> |
- <a herf="https://codepen.io/your-work/"> Codepen</a> |
+* [Λίστα ασκήσεων Προγραμματισμού] (https://pibook.epidro.me/remix/) |
+* [CodePen] (https://codepen.io/your-work/) |
+* [asciinema] (https://asciinema.org/ |
