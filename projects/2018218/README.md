@@ -262,9 +262,9 @@ asciinema link : https://asciinema.org/a/E9thzi5mcBxuXM8l6b0x503nK
 asciinema link : https://asciinema.org/a/ajnbCWKrzzZzw5Mc05c6RucaK
 
 #### Tέλος για να διορθώσω ένα λάθος που έκανα όταν έγραφα το mail μου χρησιμοποίησα την εντολή sed με την μέθοδο pipeline μέσω προγράμματος sed.c
-* [link mycv.md](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/mycv.md)
+* [link mycv.md](https://github.com/DIATSIGK/mycv.md/blob/main/mycv.md)
 * [link για πρόγραμμα sed.c](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/sed.c)
-* [link Makefile](https://github.com/DIATSIGK/hci/blob/2018218/projects/2018218/Makefile)
+* [link Makefile](https://github.com/DIATSIGK/Makefile/blob/main/Makefile)
 
 - >Aρχικά γίνεται η εισαγωγή στο προγραμμα του αρχείου myfile.md
   - >Μέσω pipe καλείτε η sed -i η οποία αντικαθιστά την παλιά με την καινούργια συμβολοσειρά( ddiatsigk --> ddiatsig )
