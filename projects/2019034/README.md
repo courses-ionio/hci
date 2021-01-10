@@ -45,7 +45,7 @@
 <a href="https://asciinema.org/a/371434">Browse & View Files</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
-<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος για τις ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/epidrome/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a></ul>
 
 
@@ -72,7 +72,7 @@
 <a href="https://asciinema.org/a/383579">Check the Weather</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
-<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος για τις ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://wttr.in/:help">Εντολές που βρήκα ύστερα από αναζήτηση στο διαδίκτυο.</a>
 <br> <a href="https://github.com/chubin/wttr.in">Βοήθεια καθηγητή σχετικά με την άσκηση.</a>
 <br> <a href="https://github.com/epidrome/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a></ul>
@@ -108,7 +108,7 @@
 <br><a href="https://vibrant-villani-781057.netlify.app/remix/mouse-form/">Mouse Form (Embed)</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
-<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος για τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/mouse-form/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
 
@@ -116,12 +116,14 @@
 
 <br><br>
 <h2><span id="Set-up the main dependencies and demonstrate your base system">(8) Set-up the main dependencies and demonstrate your base system (Άσκηση Γραμμής Εντολών)</span></h2>
-<p>*pros  sumplirosi*Χρησιμοποίησα το Asciinema για να κάνω εγγραφή την κάθε κίνησή μου στο terminal και βασίστηκα στις οδηγίες του καθηγητή για τις ασκήσεις γραμμής εντολών.
+<p>Η τρίτη άσκηση γραμμής εντολών που επέλεξα ζητούσε την επεξεργασία της εμφάνισης της γραμμής εντολών μου στο terminal. Συγκεκριμένα, ήθελε να εμφανίζεται με τον αριθμό μητρώου μου πάντα μπροστά (Π2019034) μέσω της "PS1 = P2019034". Στην συνέχεια, έπρεπε να εμφανίσω μία λίστα των εφαρμογών/αρχείων μου, μέσω της ls -a. Τέλος, έπρεπε να ελέγξω τις πληροφορίες συστήματος μου, του λειτουργικού συστήματος, του λογισμικού και του υλισμικού του. Για την εύρεση αυτού, χρειάστηκα την εντολή neofetch. Χρησιμοποίησα το Asciinema για να κάνω εγγραφή την κάθε κίνησή μου στο terminal και βασίστηκα στις οδηγίες του καθηγητή για τις ασκήσεις γραμμής εντολών.
   
 <a href="https://asciinema.org/a/383596">Set-up the main dependencies and demonstrate your base system</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
-<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://github.com/dylanaraps/neofetch">Οδηγίες καθηγητή σχετικά με την εντολή neofetch.</a>
+<br> <a href="https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html">Η σελίδα που αξιοποίησα για την εντολή PS1 (change cmd).</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος για τις ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/epidrome/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a></ul>
 
 
