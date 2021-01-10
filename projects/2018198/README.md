@@ -33,7 +33,7 @@ tittle=" change your command prompt with your student ID, list your dot files, d
 Τροποποιούμε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών 
 
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
-<i><a href= "https://asciinema.org/a/376094"
+<i><a href= "https://asciinema.org/a/383709"
  tittle="fetch the weather forecast for your home city and one more city that you want to travel to">fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
  
  Σκοπός της άσκησης ήταν να πάρουμε την πρόγνωση καιρού για την πόλη μας και για μία ακόμη πόλη στην οποία θέλουμε να ταξιδέψουμε
