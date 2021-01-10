@@ -59,7 +59,7 @@
 
 <h2><span id="Άσκηση Προγραμματισμού">Άσκηση Προγραμματισμού</span></h2>
 
-<i><a href= "<i><a href="https://github.com/p18anas/site/blob/master/_remix/mouse-button.md" tittle="mouse-button">mouse-button</a></i>
+<i><a href="https://github.com/p18anas/site/blob/master/_remix/mouse-button.md" tittle="mouse-button">mouse-button</a></i>
 
 * CodePen: https://codepen.io/p18anas/pen/MWjqyLR
 * Pibook: https://github.com/p18anas/site/blob/master/_remix/mouse-button.md
