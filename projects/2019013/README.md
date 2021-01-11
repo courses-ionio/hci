@@ -30,6 +30,10 @@
   
   Σκοπός της άσκησης ήταν η τροποποίηση του πραδείγματος που υπήρχε με κατάλληλο συνδυασμό φίλτρων ,αλλάζοντας τον CSS κώδικα, ώστε να εμφανίζεται η εικόνα με διαφορετικά χρωματικά εφέ. Η τροποποίση που έκανα, βρισκόταν στο μπλοκ κώδικα του hover, εφαρμόζοντας τα φίλτρα contrast(Θόλωμα),sepia(Σέπια) και blur(Αντίθεση).  
   
+  Βιβλιογραφία:
+     <li>Codepen: https://codepen.io/trending
+     <li>Ασκήσεις Προγραμματισμού: https://pibook.epidro.me/remix/
+  
   <br>
   <p align="center">
   <img src="https://github.com/AnastasiaMariaStefani/hci/blob/2019013/134445087_1168659193537502_7696653287786108737_n.gif" height=300 width=600>
@@ -41,6 +45,10 @@
   
   Σκοπός της άσκησης ήταν η πρόσβαση και η εμφάνιση των αρχείων του υπολογιστή μας μέσω του τερματικού των Ubuntu, με την χρήση του Windows Subsystem for Linux. Ειδικότερα, με την βοήθεια του asciinema κατάφερα να καταγράψω την διαδικασία πρόσβασης στα αρχεία του υπολογιστικού μου συστήματος.
   
+  Βιβλιογραφία:
+     <li>Asciinema: https://asciinema.org/
+     <li>Ασκήσεις Γραμμής Εντολών: https://github.com/epidrome/dokey
+  
   <h2><span id="Άσκηση Προγραμματισμού 2η">Άσκηση Προγραμματισμού 2η</span></h2>
   
   <i><a href="https://github.com/AnastasiaMariaStefani/site/blob/master/_remix/mouse-form.md" title="Mouse Form">Mouse Form</a></i>
@@ -48,6 +56,10 @@
   <li>Netlify: https://eloquent-swartz-92347d.netlify.app/remix/mouse-form/
   
   Σκοπός της άσκησης ήταν η τροποποίηση του υπάρχοντος παραδείγματος με την προσθήκη ενός ακόμα κελιού.Το νέο αυτό κελί θα περιείχε την προεπιλεγμένη τιμή "gender", ενώ θα είχε σαν επιλογές το "male" και "female".Η αλλαγή αυτή έγινε στο HTML κομμάτι του κώδικα.
+  
+  Βιβλιογραφία:
+     <li>Codepen: https://codepen.io/trending
+     <li>Ασκήσεις Προγραμματισμού: https://pibook.epidro.me/remix/
   
   <br>
   <p align="center">
@@ -60,6 +72,11 @@
   <i><a href="https://asciinema.org/a/371311" title="Fetch the weather forecast for your home city and one more city that you want to travel to">Fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
   
    Σκοπός της άσκησης ήταν η εμφάνιση του καιρού στην πόλη μας, καθώς και μιας ακόμα πόλης που θέλουμε να ταξιδέψουμε μέσω του τερματικού των Ubuntu, με την χρήση του Windows Subsystem for Linux. Ειδικότερα, με την βοήθεια του asciinema κατάφερα να καταγράψω την διαδικασία αυτή.
+   
+   Βιβλιογραφία:
+     <li>Asciinema: https://asciinema.org/
+     <li>Ασκήσεις Γραμμής Εντολών: https://github.com/epidrome/dokey
+     <li>README.md της άσκησης: https://github.com/chubin/wttr.in
   
   <h2><span id="Συμμετοχικό περιεχόμενο 1o">Συμμετοχικό περιεχόμενο 1o</span></h2>
     <li>1η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/web%20camera.jpg
@@ -77,18 +94,25 @@
   
   Σκοπός της άσκησης ήταν η τροποποίηση της υπάρχουσας εικόνας, ώστε μαζί με την χρήση φίλτρων απο προηγούμενο παράδειγμα(Image Processing), μετακινώντας το ποντίκι προς την εικόνα να γίνεται ταυτόχρονα και μεγένθυση της, αλλα και προβολή της με τα φίλτρα που χρησιμοποιήθηκαν.
   
+  Βιβλιογραφία:
+     <li>Codepen: https://codepen.io/trending
+     <li>Ασκήσεις Προγραμματισμού: https://pibook.epidro.me/remix/
+  
   <br>
   <p align="center">
   <img src="https://github.com/AnastasiaMariaStefani/hci/blob/2019013/136965173_124691466142695_3633832682540685499_n.gif" height=300 width=600>
   <p/><br>
-  
-  
   
   <h2><span id="Άσκηση γραμμής εντολών 3η">Άσκηση γραμμής εντολών 3η</span></h2>
   
   <i><a href="https://asciinema.org/a/378018" title="Edit the vim or the shell configuration file">Edit the vim or the shell configuration file</a></i>
   
   Σκοπός της άσκησης ήταν η επεξεργασία του VIM. Η διαδικασία που ακολούθησα ηταν η δημιουργία και αποθήκευση(:w) ενός νέου αρχείο με το όνομα vim.txt.Μέσα στο αρχείο έγραψα τα στοιχεία μου, όπου τα επεξεργάστηκα κάνοντας αντιγραφή-επικόλληση(virtual mode-p), διαγραφή μιας γραμμής(dd) καθως και ολόκληρου κομματιού(2dd). 
+  
+  Βιβλιογραφία:
+     <li>Asciinema: https://asciinema.org/
+     <li>Ασκήσεις Γραμμής Εντολών: https://github.com/epidrome/dokey
+     <li>Βοήθεια για την κατανόηση της λειτουργίας του εργαλείου μέσω youtube: https://www.youtube.com/watch?v=ohk3cpBqY60&t=536s
   
   <h2><span id="Άσκηση Προγραμματισμού 4η">Άσκηση Προγραμματισμού 4η</span></h2>
   
@@ -97,6 +121,10 @@
   <li>Netlify: https://eloquent-swartz-92347d.netlify.app/remix/mouse-scroll/
    
    Σκοπός της άσκησης ήταν η αλλαγή του χρώματος του αριθμού εξόδου, κάθε φορά που θα γινόταν μετακίνηση του ποντικιού.Αυτό επιτεύχθηκε με αλλαγή του CSS κομματιού, στο μπλοκ κώδικα του body.
+   
+   Βιβλιογραφία:
+     <li>Codepen: https://codepen.io/trending
+     <li>Ασκήσεις Προγραμματισμού: https://pibook.epidro.me/remix/
    
   <br>
   <p align="center">
@@ -112,7 +140,13 @@
   
   Το screen shot της γραμμής εντολών: https://github.com/AnastasiaMariaStefani/_images/blob/master/download%20mp4.png
   
-   
+  Βιβλιογραφία:
+     <li>Asciinema: https://asciinema.org/
+     <li>Ασκήσεις Γραμμής Εντολών: https://github.com/epidrome/dokey
+     <li>README.md της άσκησης (youtube-dl installation): https://github.com/ytdl-org/youtube-dl
+     <li>Βοήθεια για το installation του εργαλείου μέσω youtube: https://www.youtube.com/watch?v=DG54nXamn5M&t=96s
+     <li>Βοήθεια για την χρήση του εργαλείου (mpv): https://stackoverflow.com/questions/29054681/how-do-you-open-an-audio-file-in-mpv-using-the-terminal-without-the-album-art-op
+  
    <h2><span id="Συμμετοχικό περιεχόμενο 2o">Συμμετοχικό περιεχόμενο 2o</span></h2>
     <li>1η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/twitter.png
     <li>2η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/graphical%20user%20interface.jpg
