@@ -12,7 +12,7 @@
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) <li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a> |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV)<li><a href="#Άσκηση προγραμματισμού"></span> <span class="toctext">Άσκηση προγραμματισμού</span></a> |
-| 10 | συμμετοχικό περιεχόμενο |
+| 10 |Άσκηση γραμμής εντολών (SW) <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a> |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
 
@@ -53,3 +53,9 @@ tittle=" change your command prompt with your student ID, list your dot files, d
 <i><a href= "https://github.com/eliastk09/gr/blob/gh-pages/_remix/mouse-eraser.md" tittle=“Mouse eraser”>Mouse eraser</a></i>
 
 Αλλάζουμε οποιαδήποτε από τις δύο εικόνες καθώς και το μέγεθος του eraser
+
+h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
+<i><a href= "https://asciinema.org/a/383931"
+      tittle="organize your notes with emacs">organize your notes with emacs</a></i>
+      
+Οργανώσαμε τις σημειώσεις μας με emacs
