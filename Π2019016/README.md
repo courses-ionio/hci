@@ -9,7 +9,7 @@
 | 6 |[Form example](#Form-Example)|
 | 7 |[Ntfy excersize](#Ntfy-excersize)|
 | 8 | [Visualization dataset excercise](#Visualization-database-excercise)|
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
