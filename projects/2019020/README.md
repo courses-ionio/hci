@@ -8,11 +8,11 @@
 | 3 | <li><a href="#Weather Checker"><span class="toctext">Weather Checker</span></a>|
 | 4 | <li><a href="#Image Filter"><span class="toctext">Image Filter</span></a>|
 | 5 | Άσκηση γραμμής εντολών |
-| 6 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 6 | Συμμετοχικό περιεχόμενο |
 | 7 | <li><a href="#Sort List"><span class="toctext">Sort List</span></a>|
 | 8 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 9 | <li><a href="#Image Zoom"><span class="toctext">Image Zoom</span></a>|
-| 10 | Αίτημα ενσωμάτωσης (CSCW, IV) |
+| 10 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | <li><a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a>|
 
