@@ -75,7 +75,7 @@
 <br> <a href="https://pibook.epidro.me/remix/sortable-list/">Η εκφώνηση της άσκησης.</a></ul>
 
 <br><br>
-<h2><span id="Image Zoom">(9) Άσκηση Προγραμματισμού - Image Zoom&Filter</span></h2>
+<h2><span id="Image Zoom">(9) Άσκηση Προγραμματισμού - Image Zoom</span></h2>
 <p>Η συγκεκριμένη άσκηση αφορά την επεξεργασία μιας εικόνας όσον αφορά στη μεγέθυνση της, αλλά και στην εφαρμογή φίλτρων με το πέρασμα του ποντικιού από πάνω της. Συνεπώς, δεν αλλάχτηκε ο ήδη υπάρχων κώδικας, προστέθηκε όμως κομμάτι CSS κώδικα από προηγούμενη άσκηση επεξεργασίας φίλτρων εικόνας.
 
 <a href="https://github.com/alkarvounis/site/blob/master/_remix/image-zoom.md">Image Zoom</a>
