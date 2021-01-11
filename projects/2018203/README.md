@@ -27,28 +27,37 @@
 
 <h2><span id="Άσκηση Προγραμματισμού">Άσκηση Προγραμματισμού</span></h2>
 
-<i><a href="https://github.com/p18anas/site/blob/master/_remix/keyboard-input.md"tittle="Keyboard-input">Keyboard-input</a></i> 
+<i><a href="https://github.com/p18anas/site/blob/master/_remix/keyboard-input.md" tittle="Keyboard-input">Keyboard-input</a></i> 
 
 * [CodePen] (https://codepen.io/p18anas/pen/GRqqjGM)
 * [Pibook] (https://github.com/p18anas/site/blob/master/_remix/keyboard-input.md)
 
-Σκοπός της άσκησης ήταν το αυτοκινητάκι να κινείται με μικρότερη ταχύτητα στην όπισθεν σε σχέση με την έμπροσθεν, όπως επίσης να μπορεί το αυτοκίνητο να κινείται μόνο στα περιμετικά όρια της πίστας. 
+Σαν πρώτη άσκηση Προγραμματισμού έπρεπε το αυτοκινητάκι να κινείται με μικρότερη ταχύτητα στην όπισθεν σε σχέση με την έμπροσθεν, όπως επίσης να μπορεί το αυτοκίνητο να κινείται μόνο στα περιμετικά όρια της πίστας. 
 
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
+
 <i><a href="https://asciinema.org/a/371364"tittle="fetch the weather forecast for your home city and one more city that you want to travel to">fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
 
-Σκοπός της άσκησης ήταν η εμφάνιση του καίρου στην πόλη μου και στην πόλη που θέλω να ταξιδέψω.
+* [asciinema] (https://asciinema.org/a/371364)
+
+Σκοπός της  πρώτης άσκησης γραμμής εντολών ήταν η εμφάνιση του καιρού στην πόλη μου και στην πόλη που θα ήθελα να ταξιδέψω.
 
 <h2><span id="Άσκηση Προγραμματισμού">Άσκηση Προγραμματισμού</span></h2>
+
 <i><a href="https://github.com/p18anas/site/blob/master/_remix/image-3d.md" tittle="image-3d">image-3d</a></i> 
 
-Σκοπός της άσκησης ήταν να χρησιμοποιήσουμε την τεχνική parallax για να δημηουργηθεί η αίσθηση του 3D περιβάλλοντος.Επίσης μπορούμε να περιηγηθούμε στη σύνθεση χρησιμοποιώντας το ποντίκι.
+* [CodePen] (https://codepen.io/p18anas/pen/VwjqLxQ
+* [Pibook] (https://github.com/p18anas/site/blob/master/_remix/image-3d.md)
+
+Η δεύτερη άσκηση προγραμματισμού, είχαμε την ευκαιρία να χρησιμοποιήσουμε την τεχνική parallax για να δημηουργηθεί η αίσθηση του 3D περιβάλλοντος όπως επίσης να περιηγηθούμε στη σύνθεση χρησιμοποιώντας το ποντίκι.
  
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
 
 <i><a href="https://asciinema.org/a/377498"tittle"=Τhe application should be similar to rtv, haxor from hci.">Τhe application should be similar to rtv, haxor from hci.</a></i>
 
-Σκοπός της άσκησης ήταν να υλοποιήσουμε ένα πρόγραμμα με όνομα "Hello" το οποίο να ζητλαει το όνομα μας και επομένως να το τρέξουμε στο Terminal.
+* [asciinema] (https://asciinema.org/a/377498)
+
+Σε ακόμα μια άσκηση γραμμής εντολών καταφέραμε να υλοποιήσουμε ένα πρόγραμμα με όνομα "Hello" το οποίο να ζητάει το όνομα μας και επομένως να το τρέξουμε στο Terminal.
 
 # 1ο Συμμετοχικό περιεχόμενο
 
@@ -73,8 +82,11 @@
 
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
 
+<i><a href="https://asciinema.org/a/JmUaWFsrosxU2IuFzKPK60BJ5"tittle"=Set-up the main dependencies and demonstrate your base system.">Set-up the main dependencies and demonstrate your base system.</a></i>
 
+* [asciinema] (https://asciinema.org/a/JmUaWFsrosxU2IuFzKPK60BJ5)
 
+Αρχικά, αυτή η άσκηση ζητούσε πρόσβαση στα αρχεία του υπολογιστή μας. Για αυτό το λόγο αλλάξαμε την γραμμή εντολών στο  terminal με το μαθητικό μας αναγνωριστικό και στη συνέχεια εμφανίσαμε τις πληροφορίες του συστήματος και το αρχείο διαμόρφωσης κέλυφους.  
 
 <h2><span id="Άσκηση Προγραμματισμού">Άσκηση Προγραμματισμού</span></h2>
 
@@ -83,7 +95,7 @@
 * CodePen: https://codepen.io/p18anas/pen/qBaMqWG
 * Pibook: https://github.com/p18anas/site/blob/master/_remix/mouse-form.md
 
-Σε αυτόν τον διαδραστικό κώδικα χρησιμοποιώντας το ποντίκι ως συσκευή εισόδου για τη συμπλήρωση της φόρμας μας δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη.
+Σε αυτόν τον διαδραστικό κώδικα, χρησιμοποιώντας το ποντίκι ως συσκευή εισόδου για τη συμπλήρωση της φόρμας, μας δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη.
 
 
 
