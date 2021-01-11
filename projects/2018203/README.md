@@ -36,7 +36,7 @@
 
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
 
-<i><a href="https://asciinema.org/a/371364"tittle="fetch the weather forecast for your home city and one more city that you want to travel to">fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
+<i><a href="https://asciinema.org/a/371364" tittle="fetch the weather forecast for your home city and one more city that you want to travel to">fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
 
 * [asciinema] (https://asciinema.org/a/371364)
 
@@ -53,7 +53,7 @@
  
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
 
-<i><a href="https://asciinema.org/a/377498"tittle"=Τhe application should be similar to rtv, haxor from hci.">Τhe application should be similar to rtv, haxor from hci.</a></i>
+<i><a href="https://asciinema.org/a/377498" tittle"=Τhe application should be similar to rtv, haxor from hci.">Τhe application should be similar to rtv, haxor from hci.</a></i>
 
 * [asciinema] (https://asciinema.org/a/377498)
 
@@ -82,7 +82,7 @@
 
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
 
-<i><a href="https://asciinema.org/a/JmUaWFsrosxU2IuFzKPK60BJ5"tittle"=Set-up the main dependencies and demonstrate your base system.">Set-up the main dependencies and demonstrate your base system.</a></i>
+<i><a href="https://asciinema.org/a/JmUaWFsrosxU2IuFzKPK60BJ5" tittle"=Set-up the main dependencies and demonstrate your base system.">Set-up the main dependencies and demonstrate your base system.</a></i>
 
 * [asciinema] (https://asciinema.org/a/JmUaWFsrosxU2IuFzKPK60BJ5)
 
