@@ -100,6 +100,7 @@ Link asciinema: https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH
  #### Πηγές που με βοήθησαν
  
  https://orgmode.org/worg/org-tutorials/org4beginners.html
+ 
  https://orgmode.org/worg/org-tutorials/orgtutorial_dto.html
  
 
@@ -134,6 +135,7 @@ Link asciinema: https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit
 #### Πηγές που με βοήθησαν
 
 https://devhints.io/vim
+
 https://opensource.com/article/19/3/getting-started-vim
 
 ## Παραδοτέο 11
