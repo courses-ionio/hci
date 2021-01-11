@@ -6,7 +6,7 @@
 | 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a>|
 | 2 | <li><a href="#Button"><span class="toctext">Button</span></a>|
 | 3 | <li><a href="#Weather Checker"><span class="toctext">Weather Checker</span></a>|
-| 4 | <li><a href="#Image Filter"><span class="toctext">Image Filter</span></a>|
+| 4 | <li><a href="#Image Processing"><span class="toctext">Image Processing</span></a>|
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Συμμετοχικό περιεχόμενο |
 | 7 | <li><a href="#Sort List"><span class="toctext">Sort List</span></a>|
@@ -49,11 +49,11 @@
 <br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης.</a></ul>
 
 <br><br>
-<h2><span id="Image Filter">(4) Άσκηση Προγραμματισμού - Image Filter</span></h2>
+<h2><span id="Image Processing">(4) Άσκηση Προγραμματισμού - Image Processing</span></h2>
 <p>Η άσκηση αυτή είχε να κάνει με την επεξεργασία των φίλτρων μιας εικόνας ή και συνδυασμό αυτών. Ταυτόχρονα, έγινε επεξεργασία ευκρίνειας, ρύθμιση αντίθεσης κλπ. Επεξεργάστηκα το τμήματα του CSS κώδικα, αξιοποιώντας τα ήδη υπάρχοντα σχόλια.
 
-<a href="https://github.com/alkarvounis/site/blob/master/_remix/image-filter.md">Image Filter</a>
-<br><a href="https://youthful-mestorf-2441d4.netlify.app/remix/image-filter/">Image Filter (Embed)</a>
+<a href="https://github.com/alkarvounis/site/blob/master/_remix/image-filter.md">Image Processing</a>
+<br><a href="https://youthful-mestorf-2441d4.netlify.app/remix/image-filter/">Image Processing (Embed)</a>
 
 <h6>Βιβλιογραφία:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
