@@ -147,12 +147,12 @@
      <li>Βοήθεια για την χρήση του εργαλείου (mpv): https://stackoverflow.com/questions/29054681/how-do-you-open-an-audio-file-in-mpv-using-the-terminal-without-the-album-art-op
   
    <h2><span id="Συμμετοχικό περιεχόμενο 2o">Συμμετοχικό περιεχόμενο 2o</span></h2>
-    <li>1η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/twitter.png
-    <li>2η εικόνα : https://github.com/AnastasiaMariaStefani/_images/blob/master/graphical%20user%20interface.jpg
-    <li>Πληροφορίες για την 1η εικόνα : https://github.com/AnastasiaMariaStefani/gallery/blob/master/twitter.md
-    <li>Πληροφορίες για την 2η εικόνα :https://github.com/AnastasiaMariaStefani/gallery/blob/master/graphical%20user%20interface.md
-    <li>Σετ διαφανειών : https://github.com/AnastasiaMariaStefani/site/blob/master/_slides/preface.md
-    <li>Χρονολόγιο : https://github.com/AnastasiaMariaStefani/site/blob/master/_timeline/multimedia.md
+   Για το 2ο συμμετοχικό περιεχόμενο επέλεξα να δημιουργήσω μια μελέτη περίπτωσης και μια βιβλιογραφία για το "πληκτρολόγιο" που είχα σχεδιάσει στο προηγούμενο συμμετοχικό.
+    
+   <li>Μελέτη Περίπτωσης: https://github.com/AnastasiaMariaStefani/site/blob/master/_biography/Christopher%20Latham%20Sholes.md
+       <li>Πηγή: https://en.wikipedia.org/wiki/Christopher_Latham_Sholes
+   <li>Βιβλιογραφία: https://github.com/AnastasiaMariaStefani/site/blob/master/_case-study/keyboard.md
+       <li>Πηγή: https://en.wikipedia.org/wiki/Computer_keyboard
        
        
    <h2><span id="Συμπεράσματα">Συμπεράσματα</span></h2>
