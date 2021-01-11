@@ -3,10 +3,10 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 |<li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a>|
+| 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a>|
 | 2 | <li><a href="#Button"><span class="toctext">Button</span></a>|
 | 3 | Άσκηση γραμμής εντολών |
-| 4 |<li><a href="#Image Filter"><span class="toctext">Image Filter</span></a>|
+| 4 | <li><a href="#Image Filter"><span class="toctext">Image Filter</span></a>|
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | <li><a href="#Sort List"><span class="toctext">Sort List</span></a>|
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -14,7 +14,7 @@
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | Συμμετοχικό περιεχόμενο |
 | 11 | Αίτημα ενσωμάτωσης (CSCW, IV) |
-| 12 | Τελική αναφορά* |
+| 12 | <li><a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a>|
 
 
 <br><br>
@@ -86,3 +86,7 @@
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
 <br> <a href="https://pibook.epidro.me/remix/">Ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/image-zoom/">Η εκφώνηση της άσκησης.</a></ul>
+
+<br><br>
+<h2><span id="Τελική αναφορά">(12) Τελική αναφορά</span></h2>
+φγηξκξηγφγη
