@@ -41,7 +41,7 @@
 <a href="https://asciinema.org/a/383339">Weather Checker</a>
 
 <h6>Βιβλιογραφία:</h6>
-<ul> <a href="https://asciinema.org/">asciinema.</a>
+<ul> <a href="https://asciinema.org/">Asciinema.</a>
 <br> <a href="https://brew.sh/index_el">Homebrew.</a>
 <br> <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux.</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
