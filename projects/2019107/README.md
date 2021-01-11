@@ -12,11 +12,11 @@ AM:Π2019107
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | <li><a href="#Sortable list"><span class="toctext">Sortable list</span></a> |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
-| 8 |  <li><a href="#Button"><span class="toctext">Button</span></a> | |
+| 8 |  <li><a href="#Button"><span class="toctext">Button</span></a> |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
-| 12 | Τελική αναφορά* |
+| 12 | <li><a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a>|
 
 
 <br><br>
@@ -78,6 +78,9 @@ AM:Π2019107
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
+
+<br><br>
+<h2><span id="Τελική αναφορά">(12) Τελική αναφορά</span></h2>
 
 
 
