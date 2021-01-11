@@ -11,8 +11,7 @@
 | 8 | [Visualization dataset excercise](#Visualization-database-excercise)|
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο |
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
-| 12 | Τελική αναφορά* |
+| 11| Τελική αναφορά* |
 # Mouse eraser excersize
 Η συγκεκριμένη άσκηση ενδείκνυται για εξοικείωση στο codepen και επιλέχθηκε μετά από μερική ανάλυση όλων των ασκήσεων. Το μοναδικό στοιχέιο που έπρεπε να επιτευχθεί ήταν ο εντοπισμός των λινκ των προϋπάρχοντων εικόνων και να αντικατασταθούν απο αυτές της προτίμισης μου
 Ο κωδικας βρισκεται εδω: https://github.com/Thomasth01/site/blob/master/_remix/mouse-eraser.md/
@@ -25,7 +24,7 @@
 Ο Κωδικας βρισκεται εδω: https://github.com/Thomasth01/site/blob/master/_remix/menu-css.md \
 Το αποτελεσμα φαινεται εδω:https://5fa81c9f5f714100082fe3c8--vibrant-varahamihira-deff26.netlify.app/remix/menu-css/
 # Weather forecast
-Προγνωση καιρου:
+Προγνωση καιρου: Μια ασκηση η οποια δειχνει πως παρα το γεγονος οτι θεωρειται παρωχημενη, η αποκλειστικη χρηση τερματικου στον υπολογιστη εχει πολλες συγχρονες λειτουργιες οι οποιες καθιστουν αυτη την αποκλειστκη χρηση πληρως εφικτη.
 [![asciicast](https://asciinema.org/a/zdC1j1JZPFoMrF3zlJ1pkaVxh.svg)](https://asciinema.org/a/zdC1j1JZPFoMrF3zlJ1pkaVxh)
 # Form Example
 Ο κώδικας βρίσκεται εδώ: https://github.com/Thomasth01/site/blob/master/_remix/mouse-form.md \
