@@ -9,7 +9,7 @@
 | 5 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών 2η"></span> <span class="toctext">Άσκηση γραμμής εντολών 2η</span></a> |
 | 6 | Συμμετοχικό περιεχόμενο|
 | 7 | Άσκηση προγραμματισμού  <li><a href="#Άσκηση προγραμματισμού 3η"></span> <span class="toctext">Άσκηση προγραμματισμού 3η</span></a> |
-| 8 |Άσκηση γραμμής εντολών |
+| 8 |Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών 3η"></span> <span class="toctext">Άσκηση γραμμής εντολών 3η</span></a> |
 | 9 | Άσκηση προγραμματισμού <li><a href="#Άσκηση προγραμματισμού 4η"></span> <span class="toctext">Άσκηση προγραμματισμού 4η</span></a> |
 | 10 | 	Άσκηση γραμμής εντολών |
 | 11 | Συμμετοχικό περιεχόμενο |
@@ -49,8 +49,18 @@
 Ο στόχος της εργασίας είναι να ενημερωθούμε για την πρόγνωση του καιρού για την πόλη καταγωγής μας και μιας ακόμη πόλης στην οποία θα θέλαμε να ταξιδέψουμε.
 
 <h2><span id="Άσκηση γραμμής εντολών 2η">Άσκηση γραμμής εντολών 2η</span></h2>
+
 <h2><span id="change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).">Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).</span></h2>
 
 Σύνδεσμος: [asciinema](https://asciinema.org/a/383618)
 
 Ο στόχος της εργασίας είναι να αλλάξουμε τη γραμμή εντολών με τον αριθμό μητρώου μας, να καταχωρίσουμε τα αρχεία μας, να εμφανίσουμε το αρχείο shell configuration  και να εμφανίσουμε πληροφορίες συστήματος (υλικό + λογισμικό).
+
+
+<h2><span id="Άσκηση γραμμής εντολών 3η">Άσκηση γραμμής εντολών 3η</span></h2>
+
+<h2><span id="text editor and plug-ins for code highlighting and autocompletion.">Τext editor and plug-ins for code highlighting and autocompletion.</span></h2>
+
+Σύνδεσμος: [asciinema](https://asciinema.org/a/383736)
+
+Ο στόχος της εργασίας είναι να εξοικειωθούμε με το πρόγραμμα επεξεργασίας κειμένου και με τις προσθήκες για επισήμανση του κώδικα και αυτόματη συμπλήρωση.
