@@ -149,10 +149,10 @@
    <h2><span id="Συμμετοχικό περιεχόμενο 2o">Συμμετοχικό περιεχόμενο 2o</span></h2>
    Για το 2ο συμμετοχικό περιεχόμενο επέλεξα να δημιουργήσω μια μελέτη περίπτωσης και μια βιβλιογραφία για το "πληκτρολόγιο" που είχα σχεδιάσει στο προηγούμενο συμμετοχικό.
     
-   <li>Μελέτη Περίπτωσης: https://github.com/AnastasiaMariaStefani/site/blob/master/_biography/Christopher%20Latham%20Sholes.md
-       <li>Πηγή: https://en.wikipedia.org/wiki/Christopher_Latham_Sholes
-   <li>Βιβλιογραφία: https://github.com/AnastasiaMariaStefani/site/blob/master/_case-study/keyboard.md
-       <li>Πηγή: https://en.wikipedia.org/wiki/Computer_keyboard
+   <li>Μελέτη Περίπτωσης: https://github.com/AnastasiaMariaStefani/site/blob/master/_case-study/keyboard.md
+   <li>Πηγή:  https://en.wikipedia.org/wiki/Computer_keyboard
+   <li>Βιβλιογραφία: https://github.com/AnastasiaMariaStefani/site/blob/master/_biography/Christopher%20Latham%20Sholes.md
+   <li>Πηγή: https://en.wikipedia.org/wiki/Christopher_Latham_Sholes
        
        
    <h2><span id="Συμπεράσματα">Συμπεράσματα</span></h2>
