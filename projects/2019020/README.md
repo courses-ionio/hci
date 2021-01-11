@@ -5,7 +5,7 @@
 | --- | --- |
 | 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a>|
 | 2 | <li><a href="#Button"><span class="toctext">Button</span></a>|
-| 3 | Άσκηση γραμμής εντολών |
+| 3 | <li><a href="#Weather Checker"><span class="toctext">Weather Checker</span></a>|
 | 4 | <li><a href="#Image Filter"><span class="toctext">Image Filter</span></a>|
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | <li><a href="#Sort List"><span class="toctext">Sort List</span></a>|
@@ -35,7 +35,7 @@
 <br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης.</a></ul>
 
 <br><br>
-<h2><span id="Button">(3) Άσκηση Γραμμής εντολών - Weather Checker</span></h2>
+<h2><span id="Weather Checker">(3) Άσκηση Γραμμής Εντολών - Weather Checker</span></h2>
 <p>Στην άσκηση αυτή ζητήθηκε η ανάθεση μιας λειτουργίας της επιλογής μου σε ένα κουμπί. Έτσι, μετά από επεξεργασία του JavaScript κώδικα, έφτασα στο επιθυμητό αποτέλεσμα. Το κουμπί που δημιουργήθηκε, οδηγεί σε ένα τραγούδι της αρεσκείας μου.
 
 <a href="https://asciinema.org/a/383339">Weather Checker</a>
@@ -89,4 +89,4 @@
 
 <br><br>
 <h2><span id="Τελική αναφορά">(12) Τελική αναφορά</span></h2>
-φγηξκξηγφγη
+
