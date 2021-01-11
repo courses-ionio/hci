@@ -62,7 +62,7 @@
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της άσκησης.</a></ul>
 
 <br><br>
-<h2><span id="Sort List">(6) Άσκηση Προγραμματισμού - Sort List</span></h2>
+<h2><span id="Sort List">(7) Άσκηση Προγραμματισμού - Sort List</span></h2>
 <p>Για αυτή την άσκηση, χρειάστηκε η επεξεργασία του δωσμένου CSS κώδικα, ώστε να αλλάξει η απόσταση των στοιχείων της λίστας, το μέγεθος των γραμμάτων τους και το χρώμα τους.
 
 <a href="https://github.com/alkarvounis/site/blob/master/_remix/sortable-list.md">Sort List</a>
@@ -75,7 +75,7 @@
 <br> <a href="https://pibook.epidro.me/remix/sortable-list/">Η εκφώνηση της άσκησης.</a></ul>
 
 <br><br>
-<h2><span id="Image Zoom">(8) Άσκηση Προγραμματισμού - Image Zoom&Filter</span></h2>
+<h2><span id="Image Zoom">(9) Άσκηση Προγραμματισμού - Image Zoom&Filter</span></h2>
 <p>Η συγκεκριμένη άσκηση αφορά την επεξεργασία μιας εικόνας όσον αφορά στη μεγέθυνση της, αλλά και στην εφαρμογή φίλτρων με το πέρασμα του ποντικιού από πάνω της. Συνεπώς, δεν αλλάχτηκε ο ήδη υπάρχων κώδικας, προστέθηκε όμως κομμάτι CSS κώδικα από προηγούμενη άσκηση επεξεργασίας φίλτρων εικόνας.
 
 <a href="https://github.com/alkarvounis/site/blob/master/_remix/image-zoom.md">Image Zoom</a>
