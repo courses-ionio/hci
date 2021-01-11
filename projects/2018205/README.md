@@ -6,7 +6,7 @@
 | 2 | Άσκηση προγραμματισμού <li><a href="#Άσκηση προγραμματισμού 1η"></span> <span class="toctext">Άσκηση προγραμματισμού 1η</span></a> |
 | 3 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών 1η"></span> <span class="toctext">Άσκηση γραμμής εντολών 1η</span></a>|
 | 4 | Άσκηση προγραμματισμού <li><a href="#Άσκηση προγραμματισμού 2η"></span> <span class="toctext">Άσκηση προγραμματισμού 2η</span></a> |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών 2η"></span> <span class="toctext">Άσκηση γραμμής εντολών 2η</span></a> |
 | 6 | Συμμετοχικό περιεχόμενο|
 | 7 | Άσκηση προγραμματισμού  <li><a href="#Άσκηση προγραμματισμού 3η"></span> <span class="toctext">Άσκηση προγραμματισμού 3η</span></a> |
 | 8 |Άσκηση γραμμής εντολών |
@@ -34,7 +34,6 @@
 
 Ο σκοπός της άσκησης είναι να  τροποποιήσουμε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας από το προηγούμενο παράδειγμα. Συνδυάζουμε τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα).
 
-
 <h2><span id="Άσκηση Προγραμματισμού 4η">Άσκηση Προγραμματισμού 4η</span></h2> 
 
 <i><a href="https://github.com/despina-komo/site/blob/master/_remix/image-filter.md" tittle="Image processing">Image processing</a></i>
@@ -48,3 +47,10 @@
 Σύνδεσμος: [asciinema](https://asciinema.org/a/383220)
 
 Ο στόχος της εργασίας είναι να ενημερωθούμε για την πρόγνωση του καιρού για την πόλη καταγωγής μας και μιας ακόμη πόλης στην οποία θα θέλαμε να ταξιδέψουμε.
+
+<h2><span id="Άσκηση γραμμής εντολών 2η">Άσκηση γραμμής εντολών 2η</span></h2>
+<h2><span id="change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).">Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).</span></h2>
+
+Σύνδεσμος: [asciinema](https://asciinema.org/a/383618)
+
+Ο στόχος της εργασίας είναι να αλλάξουμε τη γραμμή εντολών με τον αριθμό μητρώου, να καταχωρίσουμε τα αρχεία μας, να εμφανίσουμε το αρχείο διαμόρφωσης κελύφους και να εμφανίσουμε πληροφορίες συστήματος (υλικό + λογισμικό).
