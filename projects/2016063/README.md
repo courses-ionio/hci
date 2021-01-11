@@ -16,7 +16,7 @@ Link Netlify: https://p16andr.netlify.app/
 | 5 | [Άσκηση γραμμής εντολών](#Παραδοτέο-5) |
 | 6 | [Συμμετοχικό περιεχόμενο](#Παραδοτέο-6) |
 | 7 | [Άσκηση προγραμματισμού Mouse Button](#Παραδοτέο-7) |
-| 8 | [Άσκηση γραμμής εντολών Emacs Editor](#Παραδοτέο-8) |
+| 8 | [Άσκηση γραμμής εντολών Organize your notes with emacs editor](#Παραδοτέο-8) |
 | 9 | [Άσκηση προγραμματισμού Css Queries](#Παραδοτέο-9) |
 | 10 | [Άσκηση γραμμής εντολών Vim Editor](#Παραδοτέο-10) |
 | 11 | [Συμμετοχικό περιεχόμενο](#Παραδοτέο-11) |
@@ -77,13 +77,31 @@ Link codepen: https://codepen.io/p16andr/pen/BazXWRq
                     
 ## Παραδοτέο 8 
 
-### Άσκηση γραμμής εντολών Emacs Editor
+### Άσκηση γραμμής εντολών Organize your notes with emacs editor (use org mode)
 
 Link asciinema: https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH
 
 
 <a href="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH" target="_blank"><img src="https://asciinema.org/a/WkznqSRJTXMsAhIMwGT4AGsjH.svg" /></a>
 
+
+Για να ξεκινίσω αυτήν την άσκηση γραμμής εντολών αρχικά εγκατέστησα από τον τερματικό μου τον emacs editor από αυτήν την πηγή https://www.thegeekstuff.com/2010/07/install-emacs-editor-on-linux/ και στην συνέχεια δημιούργησα το emacs notes1.org αρχείο μου χρησιμοποιόντας έτσι και το org mode. Στην συνέχεια εκτέλεσα κάποιες βασικές εντολές πάνω στον emacs και έτσι άρχισα να δημιουργώ τις σημειώσεις μου. Οι εντολές που χρησιμοποίησα είναι οι εξής:
+
+ 1) Έφτιαξα λέξεις με *bold*,  /italic/,  _underlined_,  =code= and ~verbatim~
+ 2) Στην συνεχειά δημιούργησα TODO item με τα βασικό του Ηeading και μέσα στo βασικό Ηeading έβαλα και άλλα υπό Ηeadings με την λειτουργία των αστερίσκων * (**) (***).
+ 3) Με το Ctrl-c Ctrl-t κανω το TODO item DONE ή το βγάζω εντελώς και το αφήνω σαν απλό Heading και με το TAB ανοίγω και κλείνω όποιο Heading θέλω.
+ 4) Έφτιαξα μία λίστα και με το ctrl - μπορείς να αλλάξεις το είδος της αρίθμησης
+ 5) Έβαλα λινκ με [[link][description]]
+ 6) Άνοιξα την agenda με το Ctrl-c a στο Heading 1.1 και επέλεξα το emacs notes1.org αρχείο για να το κάνω attach to the task χρησιμοποιόντας 'org-attach-method'
+ 7) Πρόσθεσα tags με το Ctrl-c Ctrl-c, εικόνα ως λινκ και το I-search με Ctrl-s
+ 8) Πρόσθεσα ημέρα με το Ctrl-c . , ημέρα και ώρα με Ctrl-u Ctrl-c , με Ctrl-c [  ] έκανα add και remove document to the list of agenda files.
+ 9) Με Ctrl-x Ctrl-f άνοιξα καινούργιο φάκελο και Ctrl-x Ctrl-s το αποθήκευσα και βγήκα.
+ 
+ #### Πηγές που με βοήθησαν
+ 
+ https://orgmode.org/worg/org-tutorials/org4beginners.html
+ https://orgmode.org/worg/org-tutorials/orgtutorial_dto.html
+ 
 
 ## Παραδοτέο 9 
 
@@ -109,7 +127,14 @@ Link asciinema: https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit
 
   
   <a href="https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit" target="_blank"><img src="https://asciinema.org/a/j30pryHgffpSCKCbcmI1RMYit.svg" /></a>
+  
+  
+Αρχικά εγκατέστησα τον vim editor από την συγκεκριμένη πηγή https://www.vim.org/download.php και δημιούργησα το αρχείο vim a.txt.Έκει εκτέλεσα κάποιες βασικές εντολες η οποίες είναι: 1):q! close file without saving 2):w save 3)r	replace one character 4)u	undo changes 5):wq/:x	save and close file 6):q!	close file abandon changes 7):n	go to line n 8)v	enter visual mode 9):$ go to the last line 10)dd	delete current line 11)y	yank selection (Copy) 12)yy	yank line (Copy) 13)o	next line 14)p	paste 15)O	previous line 16):set number  add line numbers on the left side of each line 17)2dd	Delete 2 lines 18)/word  search word 19):split split mode
+  
+#### Πηγές που με βοήθησαν
 
+https://devhints.io/vim
+https://opensource.com/article/19/3/getting-started-vim
 
 ## Παραδοτέο 11
 
