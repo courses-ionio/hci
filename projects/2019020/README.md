@@ -62,11 +62,11 @@
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της άσκησης.</a></ul>
 
 <br><br>
-<h2><span id="Sort List">(7) Άσκηση Προγραμματισμού - Sort List</span></h2>
+<h2><span id="Sortable List">(7) Άσκηση Προγραμματισμού - Sortable List</span></h2>
 <p>Για αυτή την άσκηση, χρειάστηκε η επεξεργασία του δωσμένου CSS κώδικα, ώστε να αλλάξει η απόσταση των στοιχείων της λίστας, το μέγεθος των γραμμάτων τους και το χρώμα τους.
 
-<a href="https://github.com/alkarvounis/site/blob/master/_remix/sortable-list.md">Sort List</a>
-<br><a href="https://youthful-mestorf-2441d4.netlify.app/remix/sortable-list/">Sort List (Embed)</a>
+<a href="https://github.com/alkarvounis/site/blob/master/_remix/sortable-list.md">Sortable List</a>
+<br><a href="https://youthful-mestorf-2441d4.netlify.app/remix/sortable-list/">Sortable List (Embed)</a>
 
 <h6>Βιβλιογραφία:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
