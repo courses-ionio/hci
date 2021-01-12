@@ -41,7 +41,7 @@
 <p/><br> 
 
 
-<h2><span id="Image Processing">Image Processing</span><h2>
+<h2><span id="Image Processing">Image Processing</span></h2>
 
 Για δεύτερη άσκηση προγραμματισμού επέλεξα να κάνω την άσκηση **Image Processing** στην οποία έπρεπε ο χρήστης να προσθεσεί φίλτρα έτσι ώστε να αλλάζει η απόχρωση της εικόνας. Οι τροποποιήσεις έπρεπε να γίνουν στην γλώσσα CSS προσθέτοντας εντολές μέσα στη λειτουργία “hover”. Για την εφαρμογή του φίλτρου ήταν αναγκαία η κίνηση του ποντικιού πάνω από την εικόνα που δώθηκε. Τα φίλτρα που χρησιμοποίησα για την τροποποίηση της εικόνας ήταν “grayscale”, “sepia”, “hue-rotate” και  “contrast”.
 
@@ -51,6 +51,7 @@
  
 
 
+
 <h2><span id="Image zoom">Image zoom</span></h2>
 
 Για τρίτη εργασία προγραμματισμού επέλεξα την εργασία **Image zoom** την οποία πραγματοποίησα με περισσότερη άνεση αφού ήταν σε συνδυασμό με την εργασία **Image processing**. Σε αυτή την εργασία έπρεπε να προσθέσουμε στην εικόνα που μας δώθηκε τα φίλτρα της άσκησης**Image processing**. Ακόμη, οι τροποποιήσεις όπως και στη άσκηση **Image processing** έπρεπε να γίνουν στη CSS βάζοντας εντολές μέσα στη λειτουργία “hover”. Τα φίλτρα που χρησιμοποίησα για την τροποποίηση της εικόνας ήταν το “hue-rotate” και “sepia”.
@@ -58,11 +59,7 @@
 * Σύνδεσμος για: [pibook](https://github.com/PetroulaStylianou/site/blob/master/_remix/image-zoom.md)
 * Σύνδεσμος για: [codepen](https://codepen.io/petroulastylianou/pen/oNLrdLe)
 * Σύνδεσμος για: [Netlify](https://reverent-wilson-fb9523.netlify.app/remix/image-zoom/)
-
-<br>
-<p align="center">
-<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Image%20zoom.gif" height=300 width=600>
-<p/><br>                                                                                            
+                                                                                           
                                                                                              
                                                                                          
 <h2><span id="Mouse button">Mouse button</span></h2>
@@ -114,7 +111,7 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Set-up%20the%20main%20dependencies%20and%20demonstrate%20your%20base%20system.png" height=300 width="500">
+<img src="https://user-images.githubusercontent.com/72458734/104346382-052f0900-5508-11eb-8aa3-67dc065e963e.png" height=300 width="500">
 <p/><br> 
 
 
