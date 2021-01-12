@@ -16,7 +16,6 @@
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | <li><a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a>|
 
-
 <br><br>
 <h2><span id="Εισαγωγή">(1) Εισαγωγή</span></h2>
 Βασικές προσδοκίες μου από το μάθημα είναι η εξοικείωση με ορισμένα βασικά εργαλεία προγραμματισμού, η αξιοποίηση των οποίων θα μου φανεί χρήσιμη τόσο στις εβδομαδιαίες εργασίες, όσο και στο επαγγελματικό μου μέλλον. Εξίσου σημαντική θεωρώ πως είναι η εξοικείωση και με την πλατφόρμα του GitHub, καθώς αποτελεί βασικό προγραμματιστικό μέσο. Όσον αφορά την παράδοση των εργασιών, θα προσπαθήσω να γίνονται σε εύλογο χρονικό διάστημα, λόγω του φόρτου εργασίας και σε άλλα μαθήματα, αλλά και τη δυσκολία χρήσης των νέων αυτών προγραμμάτων για εμένα, όντας αρχάριος ακόμα στον τομέα του προγραμματισμού.
@@ -87,6 +86,20 @@
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
 <br> <a href="https://pibook.epidro.me/remix/">Ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/sortable-list/">Η εκφώνηση της άσκησης.</a></ul>
+
+<br><br>
+<h2><span id="Download mp3">(8) Άσκηση Γραμμής Εντολών - Download mp3</span></h2>
+<p>Μέσω αυτής της άσκησης, πρέπει να κατεβάσω τοπικά στον υπολογιστή μου ένα τραγούδι της επιλογής μου από το YouTube και να το ακούσω τοπικά.
+
+<a href="https://asciinema.org/a/383351">Download mp3</a>
+
+<h6>Βιβλιογραφία:</h6>
+<ul> <a href="https://asciinema.org/">Asciinema.</a>
+<br> <a href="https://brew.sh/index_el">Homebrew.</a>
+<br> <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux.</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a> 
+<br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://github.com/chubin/wttr.in">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
 <br><br>
 <h2><span id="Image Zoom">(9) Άσκηση Προγραμματισμού - Image Zoom</span></h2>
