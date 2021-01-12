@@ -40,6 +40,7 @@
 
 ![paradeigma3_ask1](https://user-images.githubusercontent.com/72448116/104343409-93a18b80-5504-11eb-967d-86fefa7ae7e8.png)
 
+<br>
 <a href="https://github.com/u2nmd/site/blob/master/_remix/image-filter.md">Image Filter</a>
 <br><a href="https://vibrant-villani-781057.netlify.app/remix/image-filter/">Image Filter (Embed)</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
@@ -53,6 +54,7 @@
 <br><br>
 <h2><span id="Browse & View Files">(3) Browse & View Files (Άσκηση Γραμμής Εντολών)</span></h2>
 <p>Η άσκηση που επέλεξα είχε να κάνει με την αναζήτηση και το άνοιγμα αρχείων του υπολογιστή μου. Εγώ επέλεξα να ανοίξει και να εμφανίσει το περιεχόμενο δύο αρχείων .txt που είχα αποθηκευμένα σε έναν φάκελο. Για να ολοκληρώσω την άσκηση, αναζήτησα στο διαδίκτυο για βοήθεια με τις εντολές που χρειαζόντουσαν για την υλοποίηση των ζητουμένων. Χρησιμοποίησα το Asciinema για να κάνω καταγραφή την κάθε κίνησή μου στο terminal, αφού πρώτα όμως το εγκατέστησα.
+<p>Τελική εικόνα άσκησης<p>
 
 ![browseviewfiles](https://user-images.githubusercontent.com/72448116/104343500-ad42d300-5504-11eb-9649-9a81cadf5248.png)
 <a href="https://asciinema.org/a/371434">Browse & View Files</a>
