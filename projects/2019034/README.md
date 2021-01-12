@@ -71,10 +71,19 @@
 <h2><span id="Image Zoom">(4) Image Zoom (Άσκηση Προγραμματισμού)</span></h2>
 <p>Η άσκηση που επέλεξα είχε να κάνει με την προσθήκη φίλτρων σε μια εικόνα, από την οποία όταν περνούσε από πάνω το ποντίκι, γινόταν μεγένθυση αυτής. Δημιούργησα τρία παραδείγματα φίλτρων πάνω στην εικόνα όπου τα δύο είναι σε σχόλια ώστε κάθε φορά να σβήνονται από το ένα και να προστίθενται στο άλλο. Υλοποιήθηκε σε HTML και CSS και αξιοποίησα τα φίλτρα που δίνονταν στην άσκηση Image Processing.
 
+<p>Παράδειγμα 1ο<p>
+
 ![paradeigma1_ask2](https://user-images.githubusercontent.com/72448116/104343701-ef6c1480-5504-11eb-9063-bcb9bb5a36b9.png)
+<br><br><br>
+<p>Παράδειγμα 2ο<p>
+
 ![paradeigma2_ask2](https://user-images.githubusercontent.com/72448116/104343756-014db780-5505-11eb-8bfd-407c15f1fa8e.png)
+<br><br><br>
+<p>Παράδειγμα 3ο<p>
+
 ![paradeigma3_ask2](https://user-images.githubusercontent.com/72448116/104343843-1b879580-5505-11eb-9085-303fdd50e978.png)
 
+<br>
 <a href="https://github.com/u2nmd/site/blob/master/_remix/image-zoom.md">Image Zoom</a>
 <br><a href="https://vibrant-villani-781057.netlify.app/remix/image-zoom/">Image Zoom (Embed)</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
