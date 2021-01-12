@@ -28,6 +28,10 @@
 <h2><span id="Image Processing">(2) Image Processing (Άσκηση Προγραμματισμού)</span></h2>
 <p>Η άσκηση που επέλεξα είχε να κάνει με την επεξεργασία των φίλτρων μίας εικόνας, συνδυασμό αυτών και ρύθμιση φωτεινότητας, αντίθεσης κλπ. Δημιούργησα τρία παραδείγματα της εικόνας με φίλτρα, το καθένα με διαφορετικά χαρακτηριστικά για να παρατηρήσει κανείς πόσο μπορεί να αλλάξει η μορφή μιας εικόνας με λίγες γραμμές εντολών. Υλοποιήθηκε σε HTML και CSS και χρησιμοποίησα τα σχόλια που υπήρχαν στο τμήμα της CSS για την προσθήκη νέων φίλτρων στην εικόνα. Για πρώτη άσκηση με δυσκόλεψε λίγο, αλλά τελικά κατάφερα να την εκτελέσω και να ολοκληρώσω το ζητούμενο.
 
+![paradeigma1__ask1](https://user-images.githubusercontent.com/72448116/104342274-52f54280-5503-11eb-839f-ba742a168120.png)
+![paradeigma2_ask1](https://user-images.githubusercontent.com/72448116/104343348-808ebb80-5504-11eb-852d-f1637bbe9b02.png)
+![paradeigma3_ask1](https://user-images.githubusercontent.com/72448116/104343409-93a18b80-5504-11eb-967d-86fefa7ae7e8.png)
+
 <a href="https://github.com/u2nmd/site/blob/master/_remix/image-filter.md">Image Filter</a>
 <br><a href="https://vibrant-villani-781057.netlify.app/remix/image-filter/">Image Filter (Embed)</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
@@ -42,6 +46,7 @@
 <h2><span id="Browse & View Files">(3) Browse & View Files (Άσκηση Γραμμής Εντολών)</span></h2>
 <p>Η άσκηση που επέλεξα είχε να κάνει με την αναζήτηση και το άνοιγμα αρχείων του υπολογιστή μου. Εγώ επέλεξα να ανοίξει και να εμφανίσει το περιεχόμενο δύο αρχείων .txt που είχα αποθηκευμένα σε έναν φάκελο. Για να ολοκληρώσω την άσκηση, αναζήτησα στο διαδίκτυο για βοήθεια με τις εντολές που χρειαζόντουσαν για την υλοποίηση των ζητουμένων. Χρησιμοποίησα το Asciinema για να κάνω καταγραφή την κάθε κίνησή μου στο terminal, αφού πρώτα όμως το εγκατέστησα.
 
+![browseviewfiles](https://user-images.githubusercontent.com/72448116/104343500-ad42d300-5504-11eb-9649-9a81cadf5248.png)
 <a href="https://asciinema.org/a/371434">Browse & View Files</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
@@ -53,7 +58,11 @@
 <br><br>
 <h2><span id="Image Zoom">(4) Image Zoom (Άσκηση Προγραμματισμού)</span></h2>
 <p>Η άσκηση που επέλεξα είχε να κάνει με την προσθήκη φίλτρων σε μια εικόνα, από την οποία όταν περνούσε από πάνω το ποντίκι, γινόταν μεγένθυση αυτής. Δημιούργησα τρία παραδείγματα φίλτρων πάνω στην εικόνα όπου τα δύο είναι σε σχόλια ώστε κάθε φορά να σβήνονται από το ένα και να προστίθενται στο άλλο. Υλοποιήθηκε σε HTML και CSS και αξιοποίησα τα φίλτρα που δίνονταν στην άσκηση Image Processing.
-  
+
+![paradeigma1_ask2](https://user-images.githubusercontent.com/72448116/104343701-ef6c1480-5504-11eb-9063-bcb9bb5a36b9.png)
+![paradeigma2_ask2](https://user-images.githubusercontent.com/72448116/104343756-014db780-5505-11eb-8bfd-407c15f1fa8e.png)
+![paradeigma3_ask2](https://user-images.githubusercontent.com/72448116/104343843-1b879580-5505-11eb-9085-303fdd50e978.png)
+
 <a href="https://github.com/u2nmd/site/blob/master/_remix/image-zoom.md">Image Zoom</a>
 <br><a href="https://vibrant-villani-781057.netlify.app/remix/image-zoom/">Image Zoom (Embed)</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
@@ -69,6 +78,7 @@
 <h2><span id="Check the Weather">(5) Check the Weather (Άσκηση Γραμμής Εντολών)</span></h2>
 <p>Η δεύτερη άσκηση γραμμής εντολών που υλοποίησα είχε να κάνει με τον έλεγχο του καιρού σε όποια περιοχή επιθυμούσα. Συγκεκριμένα, μονάχα με την εντολή "curl wttr.in/τοποθεσία" (χωρίς τα εισαγωγικά) μπόρεσα και κατάφερα να δω τον καιρό για την Κέρκυρα. Βέβαια όχι την δική μας, καθώς μου έδινε τον καιρό του χωριού με όνομα Corfu στην Αμερική. Ωστόσο, έπιασα το νόημα της άσκησης και μπόρεσα να κατανοήσω τον τρόπο λειτουργίας της εντολής αυτής. Για την εύρεση των εντολών αξιοποίησα το λίνκ που έδωσε ο καθηγητής αλλά επίσης έκανα αναζήτηση στο διαδίκτυο για την εύρεση αυτών.
   
+![checkweather](https://user-images.githubusercontent.com/72448116/104343919-31955600-5505-11eb-99d6-e5f42ecc05de.png)  
 <a href="https://asciinema.org/a/383579">Check the Weather</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
@@ -104,6 +114,8 @@
 <h2><span id="Mouse Form">(7) Mouse Form (Άσκηση Προγραμματισμού)</span></h2>
 <p>Η άσκηση περιλάμβανε έναν διαδραστικό κώδικα που χρησιμοποιούσε το ποντίκι ως συσκευή εισόδου για τη συμπλήρωση μίας φόρμας και έδινε ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη. Συγκεκριμένα, η φόρμα ζητούσε από τον χρήστη να συμπληρώσει την ημερομηνία γέννησής του και εγώ έπρεπε να προσθέσω την δυνατότητα συμπλήρωσης του φύλου του χρήστη. Για να το πετύχω αυτό, αντέγραψα το κομμάτι του κώδικα στην HTML που αφορούσε την συμπλήρωση ημερομηνίας γέννησης, και το έκανα επικόλληση ακριβώς από κάτω του ώστε να το επεξεργαστώ ανάλογα.
 
+![paradeigma1_ask3](https://user-images.githubusercontent.com/72448116/104344038-51c51500-5505-11eb-819d-c7008fc96959.png)
+
 <a href="https://github.com/u2nmd/site/blob/master/_remix/mouse-form.md">Mouse Form</a>
 <br><a href="https://vibrant-villani-781057.netlify.app/remix/mouse-form/">Mouse Form (Embed)</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
@@ -117,7 +129,10 @@
 <br><br>
 <h2><span id="Set-up the main dependencies and demonstrate your base system">(8) Set-up the main dependencies and demonstrate your base system (Άσκηση Γραμμής Εντολών)</span></h2>
 <p>Η τρίτη άσκηση γραμμής εντολών που επέλεξα ζητούσε την επεξεργασία της εμφάνισης της γραμμής εντολών μου. Συγκεκριμένα, ήθελε να εμφανίζεται με τον αριθμό μητρώου μου πάντα μπροστά (Π2019034) μέσω της "PS1 = P2019034". Στην συνέχεια, έπρεπε να εμφανίσω μία λίστα των εφαρμογών/αρχείων μου, μέσω της ls -a. Τέλος, έπρεπε να ελέγξω τις πληροφορίες συστήματος μου, του λειτουργικού συστήματος, του λογισμικού και του υλισμικού του, γι’ αυτό και χρειάστηκα την εντολή neofetch.
-  
+
+![softwarehardware](https://user-images.githubusercontent.com/72448116/104344087-60abc780-5505-11eb-9fd2-7b596ca8f48c.png)
+![softwarehardware2](https://user-images.githubusercontent.com/72448116/104344138-75885b00-5505-11eb-9e4b-c363e608d23e.png)
+
 <a href="https://asciinema.org/a/383596">Set-up the main dependencies and demonstrate your base system</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
@@ -131,6 +146,8 @@
 <br><br>
 <h2><span id="Sortable List">(9) Sortable List (Άσκηση Προγραμματισμού)</span></h2>
 <p>Η άσκηση προγραμματισμού που επέλεξα περιείχε μία αταξινόμητη λίστα 7 αντικειμένων, την οποία ο χρήστης ταξινομεί με την επιλογή ενός στοιχείου την φορά και τη μετακίνησή του στην κατάλληλη θέση (αν θέλει να είναι αύξουσα ή φθίνουσα η σειρά). Σκοπός της άσκησης ήταν να αλλάξω χρώμα τα αντικείμενα (το οποίο άλλαξα και τα έκανα πράσινα με μαύρο φόντο), το ύψος τους και την απόσταση μεταξύ τους. Για να ολοκληρώσω τα ζητούμενα, επεξεργάστηκα το "margin" (άλλαξα το μεσαίο από 3 σε 30 και έκανε τα κενά μεγαλύτερα) και τα "background-color", "border-color" και "color" στο CSS κομμάτι κώδικα (αναζήτησα στο ίντερνετ για "κωδικούς" άλλων χρωμάτων και διάλεξα ποιά ήθελα).
+
+![paradeigma1_ask4](https://user-images.githubusercontent.com/72448116/104344209-889b2b00-5505-11eb-96ba-91a69b37f946.png)
 
 <a href="https://github.com/u2nmd/site/blob/master/_remix/sortable-list.md">Sortable List</a>
 <br><a href="https://vibrant-villani-781057.netlify.app/remix/sortable-list/">Sortable List (Embed)</a>
@@ -146,7 +163,8 @@
 <br><br>
 <h2><span id="Download MP3">(10) Download MP3 (Άσκηση Γραμμής Εντολών)</span></h2>
 <p>Η τελευταία άσκηση γραμμής εντολών, είχε να κάνει με την εγκατάσταση αρχείου .mp3 από το youtube downloader. Αρχικά, έπρεπε να κατεβάσω το ίδιο το Youtube Downloader με την χρήση της εντολής "sudo wget *link YD* -O /usr/local/bin/youtube-dl" και "sudo chmod a+rx /usr/local/bin/youtube-dl" (χωρις τα εισαγωγικά βέβαια). Μετά την ολοκλήρωση αυτής της διαδικασίας, με την εντολή "youtube-dl -x--audio-format mp3 *link of the song*" κατέβασα το τραγούδι που ήθελα. Επιπλέον, ωστέ να παίξει το κομμάτι, κατέβασα ένα audio player με την εντολή "sudo apt-get install sox libsox-fmt-all" και χρησιμοποίησα την εντολή "play 'name of the song' ". Ωστόσο, για κάποιο λόγο που δεν κατάλαβα, το τραγούδι δεν έπαιζε (σε όσα και να το δοκίμασα).
-  
+
+![youtubedl](https://user-images.githubusercontent.com/72448116/104344279-a23c7280-5505-11eb-9be1-05507afa9ead.png)
 <a href="https://asciinema.org/a/383611">Download MP3</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
