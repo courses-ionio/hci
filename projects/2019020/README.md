@@ -44,8 +44,8 @@
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
 <br> <a href="https://brew.sh/index_el">Homebrew.</a>
 <br> <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux.</a>
-<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
-<br> <a href="https://pibook.epidro.me/remix/">Ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a> 
+<br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης.</a></ul>
 
 <br><br>
