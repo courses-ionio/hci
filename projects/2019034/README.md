@@ -31,11 +31,11 @@
 <p>Παράδειγμα 1ο<p>
 
 ![paradeigma1__ask1](https://user-images.githubusercontent.com/72448116/104342274-52f54280-5503-11eb-839f-ba742a168120.png)
-<br>
+<br><br>
 <p>Παράδειγμα 2ο<p>
 
 ![paradeigma2_ask1](https://user-images.githubusercontent.com/72448116/104343348-808ebb80-5504-11eb-852d-f1637bbe9b02.png)
-<br>
+<br><br>
 <p>Παράδειγμα 3ο<p>
 
 ![paradeigma3_ask1](https://user-images.githubusercontent.com/72448116/104343409-93a18b80-5504-11eb-967d-86fefa7ae7e8.png)
