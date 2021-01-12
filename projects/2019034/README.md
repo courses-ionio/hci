@@ -179,8 +179,11 @@
 <h2><span id="Sortable List">(9) Sortable List (Άσκηση Προγραμματισμού)</span></h2>
 <p>Η άσκηση προγραμματισμού που επέλεξα περιείχε μία αταξινόμητη λίστα 7 αντικειμένων, την οποία ο χρήστης ταξινομεί με την επιλογή ενός στοιχείου την φορά και τη μετακίνησή του στην κατάλληλη θέση (αν θέλει να είναι αύξουσα ή φθίνουσα η σειρά). Σκοπός της άσκησης ήταν να αλλάξω χρώμα τα αντικείμενα (το οποίο άλλαξα και τα έκανα πράσινα με μαύρο φόντο), το ύψος τους και την απόσταση μεταξύ τους. Για να ολοκληρώσω τα ζητούμενα, επεξεργάστηκα το "margin" (άλλαξα το μεσαίο από 3 σε 30 και έκανε τα κενά μεγαλύτερα) και τα "background-color", "border-color" και "color" στο CSS κομμάτι κώδικα (αναζήτησα στο ίντερνετ για "κωδικούς" άλλων χρωμάτων και διάλεξα ποιά ήθελα).
 
+<p>Η επεξεργασμένη λίστα<p>
+
 ![paradeigma1_ask4](https://user-images.githubusercontent.com/72448116/104344209-889b2b00-5505-11eb-96ba-91a69b37f946.png)
 
+<br>
 <a href="https://github.com/u2nmd/site/blob/master/_remix/sortable-list.md">Sortable List</a>
 <br><a href="https://vibrant-villani-781057.netlify.app/remix/sortable-list/">Sortable List (Embed)</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
@@ -196,7 +199,11 @@
 <h2><span id="Download MP3">(10) Download MP3 (Άσκηση Γραμμής Εντολών)</span></h2>
 <p>Η τελευταία άσκηση γραμμής εντολών, είχε να κάνει με την εγκατάσταση αρχείου .mp3 από το youtube downloader. Αρχικά, έπρεπε να κατεβάσω το ίδιο το Youtube Downloader με την χρήση της εντολής "sudo wget *link YD* -O /usr/local/bin/youtube-dl" και "sudo chmod a+rx /usr/local/bin/youtube-dl" (χωρις τα εισαγωγικά βέβαια). Μετά την ολοκλήρωση αυτής της διαδικασίας, με την εντολή "youtube-dl -x--audio-format mp3 *link of the song*" κατέβασα το τραγούδι που ήθελα. Επιπλέον, ωστέ να παίξει το κομμάτι, κατέβασα ένα audio player με την εντολή "sudo apt-get install sox libsox-fmt-all" και χρησιμοποίησα την εντολή "play 'name of the song' ". Ωστόσο, για κάποιο λόγο που δεν κατάλαβα, το τραγούδι δεν έπαιζε (σε όσα και να το δοκίμασα).
 
+<p>Τελική εικόνα άσκησης από το τερματικό<p>
+
 ![youtubedl](https://user-images.githubusercontent.com/72448116/104344279-a23c7280-5505-11eb-9be1-05507afa9ead.png)
+
+<br>
 <a href="https://asciinema.org/a/383611">Download MP3</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
