@@ -99,7 +99,7 @@
 <br> <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux.</a>
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a> 
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
-<br> <a href="https://github.com/chubin/wttr.in">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
+<br> <a href="https://askubuntu.com/questions/178481/how-to-download-an-mp3-track-from-a-youtube-video">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
 <br><br>
 <h2><span id="Image Zoom">(9) Άσκηση Προγραμματισμού - Image Zoom</span></h2>
