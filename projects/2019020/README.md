@@ -12,7 +12,7 @@
 | 7 | <li><a href="#Sortable List"><span class="toctext">Sortable List</span></a>|
 | 8 | <li><a href="#Download mp3"><span class="toctext">Download mp3</span></a>|
 | 9 | <li><a href="#Image Zoom"><span class="toctext">Image Zoom</span></a>|
-| 10 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 10 | <li><a href="#Text Editor"><span class="toctext">Text Editor</span></a>|
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | <li><a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a>|
 
@@ -113,6 +113,20 @@
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
 <br> <a href="https://pibook.epidro.me/remix/">Ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/image-zoom/">Η εκφώνηση της άσκησης.</a></ul>
+
+<br><br>
+<h2><span id="Text Editor">(8) Άσκηση Γραμμής Εντολών - Text Editor</span></h2>
+<p>Αλλαγή ρυθμίσεων του vim, με σκοπό να γίνει εξατομίκευση του βάσει προσωπικών ζητούμενων και βάσει των ζητούμενων του κάθε προγράμματος.
+
+<a href="https://asciinema.org/a/383409">Text Editor</a>
+
+<h6>Βιβλιογραφία:</h6>
+<ul> <a href="https://asciinema.org/">Asciinema.</a>
+<br> <a href="https://brew.sh/index_el">Homebrew.</a>
+<br> <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux.</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a> 
+<br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://www.vim.org/">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
 <br><br>
 <h2><span id="Τελική αναφορά">(12) Τελική αναφορά</span></h2>
