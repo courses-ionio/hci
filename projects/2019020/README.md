@@ -73,7 +73,7 @@
 <br> <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux.</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
 <br> <a href="https://pibook.epidro.me/remix/">Ασκήσεις προγραμματισμού.</a>
-<br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης.</a></ul>
+<br> <a href="https://github.com/chubin/wttr.in">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
 <br><br>
 <h2><span id="Sortable List">(7) Άσκηση Προγραμματισμού - Sortable List</span></h2>
