@@ -57,6 +57,8 @@
 <p>Τελική εικόνα άσκησης<p>
 
 ![browseviewfiles](https://user-images.githubusercontent.com/72448116/104343500-ad42d300-5504-11eb-9649-9a81cadf5248.png)
+
+<br>
 <a href="https://asciinema.org/a/371434">Browse & View Files</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
