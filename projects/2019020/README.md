@@ -62,6 +62,20 @@
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της άσκησης.</a></ul>
 
 <br><br>
+<h2><span id="Weather Checker">(5) Άσκηση Γραμμής Εντολών - Weather Checker</span></h2>
+<p>Σε αυτή την την άσκηση, γίνεται αναζήτηση των μετεωρολογικών προγνωστικών για την τοποθεσία μου και μιας ακόμα χώρας ή περιοχής της επιλογής μου.
+
+<a href="https://asciinema.org/a/383339">Weather Checker</a>
+
+<h6>Βιβλιογραφία:</h6>
+<ul> <a href="https://asciinema.org/">Asciinema.</a>
+<br> <a href="https://brew.sh/index_el">Homebrew.</a>
+<br> <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
+<br> <a href="https://pibook.epidro.me/remix/">Ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης.</a></ul>
+
+<br><br>
 <h2><span id="Sortable List">(7) Άσκηση Προγραμματισμού - Sortable List</span></h2>
 <p>Για αυτή την άσκηση, χρειάστηκε η επεξεργασία του δοσμένου CSS κώδικα, ώστε να αλλάξει η απόσταση των στοιχείων της λίστας, το μέγεθος των γραμμάτων τους και το χρώμα τους.
 
