@@ -44,7 +44,7 @@
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
 <br> <a href="https://brew.sh/index_el">Homebrew.</a>
 <br> <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux.</a>
-<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a> 
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a> 
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/chubin/wttr.in">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
@@ -71,7 +71,7 @@
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
 <br> <a href="https://brew.sh/index_el">Homebrew.</a>
 <br> <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux.</a>
-<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a> 
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a> 
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://superuser.com/questions/477819/how-to-open-a-particular-file-from-a-terminal">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
