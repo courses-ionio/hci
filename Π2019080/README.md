@@ -108,6 +108,10 @@
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-option.md)_**
 
 
-
+# Παραδοτέο 9ο
+## Άσκηση γραμμής εντολών youtube-dl
 [![asciicast](https://asciinema.org/a/yf1oART7YpzlQYpzqVGO56xQU.svg)](https://asciinema.org/a/yf1oART7YpzlQYpzqVGO56xQU)
+
+![youtube-dl gif](https://user-images.githubusercontent.com/72515787/104264248-f3138300-5493-11eb-9c01-38d21ade555b.gif)
+
 
