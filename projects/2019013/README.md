@@ -55,7 +55,6 @@
      <li>Codepen: https://codepen.io/trending
      <li>Ασκήσεις Προγραμματισμού: https://pibook.epidro.me/remix/
   
-  
   <h2><span id="Άσκηση γραμμής εντολών 2η">Άσκηση γραμμής εντολών 2η</span></h2>
   
   <i><a href="https://asciinema.org/a/371311" title="Fetch the weather forecast for your home city and one more city that you want to travel to">Fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
