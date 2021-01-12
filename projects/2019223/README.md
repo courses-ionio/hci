@@ -37,7 +37,7 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Mouse%20form.png" height=400 width=500>
+<img src="https://user-images.githubusercontent.com/72458734/104344199-83d67700-5505-11eb-99fc-5ae334b2a9bc.png" height=400 width=500>
 <p/><br> 
 
 
@@ -48,12 +48,7 @@
 * Σύνδεσμος για: [pibook](https://github.com/PetroulaStylianou/site/blob/master/_remix/image-filter.md)
 * Σύνδεσμος για: [codepen](https://codepen.io/petroulastylianou/pen/pobLaeO)
 * Σύνδεσμος για: [Netlify](https://reverent-wilson-fb9523.netlify.app/remix/image-filter/)
-
-
-<br>
-<p align="center">
-<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Image%20processing.gif" height=300 width=500>
-<p/><br>  
+ 
 
 
 <h2><span id="Image zoom">Image zoom</span></h2>
@@ -80,7 +75,7 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Mouse%20button.png" height=300 width="500">
+<img src="https://user-images.githubusercontent.com/72458734/104343985-42de6280-5505-11eb-8cf0-044e608f947d.png" height=300 width="500">
 <p/><br> 
 
 # Ασκήσεις γραμμής εντολών.
@@ -100,7 +95,7 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/PetroulaStylianou/hci/blob/2019223/Check%20the%20weather.png" width="500">
+<img src="https://user-images.githubusercontent.com/72458734/104339315-212eac80-5500-11eb-8c5a-1dd20a24ed53.png" width="500">
 <p/><br> 
 
 
@@ -139,14 +134,13 @@
 
 <h2><span id="2o Συμμετοχικό Περιεχόμενο">2o Συμμετοχικό Περιεχόμενο </span></h2>
 
-Στην δεύτερη εργασία για το συμμετοχικό περιεχόμενο επέλεξα να κάνω για το MacBook και το iPhone.
+Η δεύτερη εργασία για το συμμετοχικό περιεχόμενο είχε να κάνει με την μελέτη περίπτωσης αναφέροντας τις εικόνες που είχα ανεβάσει στο 1ο συμμετοχικό περιεχόμενο. Επέλεξα το "Keyboard" αναφέροντας τον εφευρέτη και την εξέλιξη της συσκευής. 
 
-- 1η εικόνα: https://github.com/PetroulaStylianou/images_/blob/master/MacBook.jpeg
-- 2η εικόνα: https://github.com/PetroulaStylianou/images_/blob/master/iphone.jpeg
-- Πληροφορίες για την 1η εικόνα: https://github.com/PetroulaStylianou/_gallery_/blob/master/MacBook.md
-- Πληροφορίες για την 2η εικόνα: https://github.com/PetroulaStylianou/_gallery_/blob/master/iPhone.md
-- Σετ διαφανειών: https://github.com/PetroulaStylianou/site/blob/master/_slides/prototyping.md
-- Χρονολόγιο: https://github.com/PetroulaStylianou/site/blob/master/_timeline/computer.md
+- Μελέτη περίπτωσης: https://github.com/PetroulaStylianou/site/blob/master/_case-study/Apple-%20Keyboard.md
+- Βιβλιογραφία: https://github.com/PetroulaStylianou/site/tree/master/_biography
+- Πηγή: https://en.wikipedia.org/wiki/Apple_Keyboard
+
+
 
 # Συμπεράσματα
 
