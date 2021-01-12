@@ -45,7 +45,7 @@
 <br> <a href="https://brew.sh/index_el">Homebrew.</a>
 <br> <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux.</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a> 
-<br> <a href="https://pibook.epidro.me/remix/">Ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://github.com/epidrome/dokey">Ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://github.com/chubin/wttr.in">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
 <br><br>
