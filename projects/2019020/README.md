@@ -7,7 +7,7 @@
 | 2 | <li><a href="#Button"><span class="toctext">Button</span></a>|
 | 3 | <li><a href="#Weather Checker"><span class="toctext">Weather Checker</span></a>|
 | 4 | <li><a href="#Image Processing"><span class="toctext">Image Processing</span></a>|
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | <li><a href="#File Opener"><span class="toctext">File Opener</span></a>|
 | 6 | Συμμετοχικό περιεχόμενο |
 | 7 | <li><a href="#Sortable List"><span class="toctext">Sortable List</span></a>|
 | 8 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -62,10 +62,10 @@
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της άσκησης.</a></ul>
 
 <br><br>
-<h2><span id="Weather Checker">(3) Άσκηση Γραμμής Εντολών - Weather Checker</span></h2>
-<p>Σε αυτή την την άσκηση, γίνεται αναζήτηση των μετεωρολογικών προγνωστικών για την τοποθεσία μου και μιας ακόμα χώρας ή περιοχής της επιλογής μου.
+<h2><span id="File Opener">(5) Άσκηση Γραμμής Εντολών - File Opener</span></h2>
+<p>Για αυτή την άσκηση πρέπει να περιηγηθώ στα αρχεία του υπολογιστή μου και να ανοίξω έναν φάκελο της επιλογής μου, με σκοπό να δω ένα αρχείο του.
 
-<a href="https://asciinema.org/a/383339">Weather Checker</a>
+<a href="https://asciinema.org/a/383346">File Opener</a>
 
 <h6>Βιβλιογραφία:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
@@ -73,7 +73,7 @@
 <br> <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux.</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a> 
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
-<br> <a href="https://github.com/chubin/wttr.in">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
+<br> <a href="https://superuser.com/questions/477819/how-to-open-a-particular-file-from-a-terminal">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
 <br><br>
 <h2><span id="Sortable List">(7) Άσκηση Προγραμματισμού - Sortable List</span></h2>
