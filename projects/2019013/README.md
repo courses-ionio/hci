@@ -33,11 +33,6 @@
      <li>Codepen: https://codepen.io/trending
      <li>Ασκήσεις Προγραμματισμού: https://pibook.epidro.me/remix/
   
-  <br>
-  <p align="center">
-  <img src="https://github.com/AnastasiaMariaStefani/hci/blob/2019013/134445087_1168659193537502_7696653287786108737_n.gif" height=300 width=600>
-  <p/><br>
-  
   <h2><span id="Άσκηση γραμμής εντολών 1η">Άσκηση γραμμής εντολών 1η</span></h2>
   
   <i><a href="https://asciinema.org/a/368359" title="Browse and view files on your system">Browse and view files on your system</a></i>
@@ -59,11 +54,6 @@
   Βιβλιογραφία:
      <li>Codepen: https://codepen.io/trending
      <li>Ασκήσεις Προγραμματισμού: https://pibook.epidro.me/remix/
-  
-  <br>
-  <p align="center">
-  <img src="https://github.com/AnastasiaMariaStefani/hci/blob/2019013/138045814_964938930704987_3956027523723912732_n.png" height=300 width=600>
-  <p/><br>
   
   
   <h2><span id="Άσκηση γραμμής εντολών 2η">Άσκηση γραμμής εντολών 2η</span></h2>
@@ -97,11 +87,6 @@
      <li>Codepen: https://codepen.io/trending
      <li>Ασκήσεις Προγραμματισμού: https://pibook.epidro.me/remix/
   
-  <br>
-  <p align="center">
-  <img src="https://github.com/AnastasiaMariaStefani/hci/blob/2019013/136965173_124691466142695_3633832682540685499_n.gif" height=300 width=600>
-  <p/><br>
-  
   <h2><span id="Άσκηση γραμμής εντολών 3η">Άσκηση γραμμής εντολών 3η</span></h2>
   
   <i><a href="https://asciinema.org/a/378018" title="Edit the vim or the shell configuration file">Edit the vim or the shell configuration file</a></i>
@@ -124,11 +109,6 @@
    Βιβλιογραφία:
      <li>Codepen: https://codepen.io/trending
      <li>Ασκήσεις Προγραμματισμού: https://pibook.epidro.me/remix/
-   
-  <br>
-  <p align="center">
-  <img src="https://github.com/AnastasiaMariaStefani/hci/blob/2019013/136508439_1919777698160626_144247460316167488_n.png" height=300 width=600>
-  <p/><br>
    
    
    <h2><span id="Άσκηση γραμμής εντολών 4η">Άσκηση γραμμής εντολών 4η</span></h2>
