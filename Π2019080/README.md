@@ -107,3 +107,7 @@
 
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-option.md)_**
 
+
+
+[![asciicast](https://asciinema.org/a/yf1oART7YpzlQYpzqVGO56xQU.svg)](https://asciinema.org/a/yf1oART7YpzlQYpzqVGO56xQU)
+
