@@ -57,7 +57,8 @@
   
 <p>Τελική εικόνα άσκησης από το τερματικό<p>
 
-
+![browseviewfiles](https://user-images.githubusercontent.com/72448116/104460127-5ac1ef00-55b6-11eb-9f07-905d8ac5f4e9.png)
+![browseviewfiles2](https://user-images.githubusercontent.com/72448116/104460919-4f22f800-55b7-11eb-9c93-23c48091e519.png)
 
 <br>
 <a href="https://asciinema.org/a/384273">Browse & View Files</a>
@@ -102,7 +103,7 @@
   
 <p>Τελική εικόνα άσκησης από το τερματικό<p>
 
-
+![checkweather](https://user-images.githubusercontent.com/72448116/104459962-28b08d00-55b6-11eb-8ae4-ff4a5992f110.png)
 
 <br>
 <a href="https://asciinema.org/a/384275">Check the Weather</a>
@@ -157,11 +158,12 @@
 
 <br><br>
 <h2><span id="Set-up the main dependencies and demonstrate your base system">(8) Set-up the main dependencies and demonstrate your base system (Άσκηση Γραμμής Εντολών)</span></h2>
-<p>Η τρίτη άσκηση γραμμής εντολών που επέλεξα ζητούσε την επεξεργασία της εμφάνισης της γραμμής εντολών μου. Συγκεκριμένα, ήθελε να εμφανίζεται με τον αριθμό μητρώου μου πάντα μπροστά (Π2019034) μέσω της "PS1 = P2019034". Στην συνέχεια, έπρεπε να εμφανίσω μία λίστα των εφαρμογών/αρχείων μου, μέσω της ls -a. Τέλος, έπρεπε να ελέγξω τις πληροφορίες συστήματος μου, του λειτουργικού συστήματος, του λογισμικού και του υλισμικού του, γι’ αυτό και χρειάστηκα την εντολή neofetch.
+<p>Η τρίτη άσκηση γραμμής εντολών που επέλεξα ζητούσε την επεξεργασία της εμφάνισης της γραμμής εντολών μου. Συγκεκριμένα, ήθελε να εμφανίζεται με τον αριθμό μητρώου μου πάντα μπροστά (Π2019034) μέσω της "PS1 = P2019034". Στην συνέχεια, έπρεπε να εμφανίσω μία λίστα των εφαρμογών/αρχείων μου, μέσω της ls -a. Επιπλέον, έπρεπε να ελέγξω τις πληροφορίες συστήματος μου, του λειτουργικού συστήματος, του λογισμικού και του υλισμικού του, γι’ αυτό και χρειάστηκα την εντολή neofetch. Τέλος, εμφάνισα το πρόσφατο ιστορικό εντολών στο τερματικό με την εντολή history.
 
 <p>Τελική εικόνα άσκησης από το τερματικό<p>
 
-
+![softwarehardware](https://user-images.githubusercontent.com/72448116/104460687-14b95b00-55b7-11eb-9e0b-e5290e33087e.png)
+![softwarehardware2](https://user-images.githubusercontent.com/72448116/104460700-17b44b80-55b7-11eb-8780-7c53b5430727.png)
 
 <br>
 <a href="https://asciinema.org/a/384281">Set-up the main dependencies and demonstrate your base system</a>
@@ -169,6 +171,7 @@
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
 <br> <a href="https://github.com/dylanaraps/neofetch">Βοήθεια καθηγητή για την εντολή neofetch.</a>
 <br> <a href="https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html">Η σελίδα που αξιοποίησα για την εντολή PS1 (change cmd).</a>
+<br> <a href=https://askubuntu.com/questions/624848/view-history-of-commands-run-in-terminal"">Η σελίδα που αξιοποίησα για την εντολή history.</a>
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος για τις ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/epidrome/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a></ul>
 
@@ -200,7 +203,7 @@
 
 <p>Τελική εικόνα άσκησης από το τερματικό<p>
 
-
+![youtubedl](https://user-images.githubusercontent.com/72448116/104461016-6c57c680-55b7-11eb-9855-e48b87a17fba.png)
 
 <br>
 <a href="https://asciinema.org/a/384291">Download MP3</a>
