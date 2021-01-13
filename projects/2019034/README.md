@@ -57,10 +57,10 @@
   
 <p>Τελική εικόνα άσκησης από το τερματικό<p>
 
-![browseviewfiles](https://user-images.githubusercontent.com/72448116/104343500-ad42d300-5504-11eb-9649-9a81cadf5248.png)
+
 
 <br>
-<a href="https://asciinema.org/a/371434">Browse & View Files</a>
+<a href="https://asciinema.org/a/384273">Browse & View Files</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος για τις ασκήσεις γραμμής εντολών.</a>
@@ -98,14 +98,14 @@
 
 <br><br>
 <h2><span id="Check the Weather">(5) Check the Weather (Άσκηση Γραμμής Εντολών)</span></h2>
-<p>Η δεύτερη άσκηση γραμμής εντολών που υλοποίησα είχε να κάνει με τον έλεγχο του καιρού σε όποια περιοχή επιθυμούσα. Συγκεκριμένα, μονάχα με την εντολή "curl wttr.in/τοποθεσία" (χωρίς τα εισαγωγικά) μπόρεσα και κατάφερα να δω τον καιρό για την Κέρκυρα. Βέβαια όχι την δική μας, καθώς μου έδινε τον καιρό του χωριού με όνομα Corfu στην Αμερική. Ωστόσο, έπιασα το νόημα της άσκησης και μπόρεσα να κατανοήσω τον τρόπο λειτουργίας της εντολής αυτής. Για την εύρεση των εντολών αξιοποίησα το λίνκ που έδωσε ο καθηγητής αλλά επίσης έκανα αναζήτηση στο διαδίκτυο για την εύρεση αυτών.
+<p>Η δεύτερη άσκηση γραμμής εντολών που υλοποίησα είχε να κάνει με τον έλεγχο του καιρού σε όποια περιοχή επιθυμούσα. Συγκεκριμένα, μονάχα με την εντολή "curl wttr.in/τοποθεσία" (χωρίς τα εισαγωγικά) μπόρεσα και κατάφερα να δω τον καιρό για την Κέρκυρα. Για την εύρεση των εντολών αξιοποίησα το λίνκ που έδωσε ο καθηγητής αλλά επίσης έκανα αναζήτηση στο διαδίκτυο για την εύρεση αυτών.
   
 <p>Τελική εικόνα άσκησης από το τερματικό<p>
 
-![checkweather](https://user-images.githubusercontent.com/72448116/104343919-31955600-5505-11eb-99d6-e5f42ecc05de.png)
+
 
 <br>
-<a href="https://asciinema.org/a/383579">Check the Weather</a>
+<a href="https://asciinema.org/a/384275">Check the Weather</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος για τις ασκήσεις γραμμής εντολών.</a>
@@ -161,11 +161,10 @@
 
 <p>Τελική εικόνα άσκησης από το τερματικό<p>
 
-![softwarehardware](https://user-images.githubusercontent.com/72448116/104344087-60abc780-5505-11eb-9fd2-7b596ca8f48c.png)
-![softwarehardware2](https://user-images.githubusercontent.com/72448116/104344138-75885b00-5505-11eb-9e4b-c363e608d23e.png)
+
 
 <br>
-<a href="https://asciinema.org/a/383596">Set-up the main dependencies and demonstrate your base system</a>
+<a href="https://asciinema.org/a/384281">Set-up the main dependencies and demonstrate your base system</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
 <br> <a href="https://github.com/dylanaraps/neofetch">Βοήθεια καθηγητή για την εντολή neofetch.</a>
@@ -201,10 +200,10 @@
 
 <p>Τελική εικόνα άσκησης από το τερματικό<p>
 
-![youtubedl](https://user-images.githubusercontent.com/72448116/104344279-a23c7280-5505-11eb-9be1-05507afa9ead.png)
+
 
 <br>
-<a href="https://asciinema.org/a/383611">Download MP3</a>
+<a href="https://asciinema.org/a/384291">Download MP3</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://asciinema.org/">Asciinema.</a>
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος για τις ασκήσεις γραμμής εντολών.</a>
