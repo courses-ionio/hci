@@ -11,7 +11,7 @@ Link Netlify: https://p16andr.netlify.app/
 | --- | --- |
 | 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα](#Παραδοτέο-1) |
 | 2 | [Άσκηση προγραμματισμού Sortable list](#Παραδοτέο-2) |
-| 3 | [Άσκηση γραμμής εντολών](#Παραδοτέο-3) |
+| 3 | [Άσκηση γραμμής εντολών Search,download and play mp3](#Παραδοτέο-3) |
 | 4 | [Άσκηση προγραμματισμού Image Zoom](#Παραδοτέο-4) |
 | 5 | [Άσκηση γραμμής εντολών](#Παραδοτέο-5) |
 | 6 | [Συμμετοχικό περιεχόμενο](#Παραδοτέο-6) |
@@ -42,7 +42,25 @@ Link codepen: https://codepen.io/p16andr/pen/KKMGyXy
   
 <a href="https://imgur.com/ascpL6o"><img src="https://i.imgur.com/ascpL6o.png" title="source: imgur.com" /></a>
   
-   
+## Παραδοτέο 3
+
+### Άσκηση γραμμής εντολών Search,download and play mp3
+
+Link asciinema: https://asciinema.org/a/Os55EhEBKR8o9qZBqFSiwcuVk
+
+
+<a href="https://asciinema.org/a/Os55EhEBKR8o9qZBqFSiwcuVk" target="_blank"><img src="https://asciinema.org/a/Os55EhEBKR8o9qZBqFSiwcuVk.svg" /></a>
+
+
+Αρχικά εγκατέστησα το youtube-dl με τις εντολές "sudo wget https://yt-dl.org/donwloads/latest/youtube-dl -O /usr/local/bin/youtube-dl" και "sudo chmod a+rx /usr/local/bin/youtube-dl".Στην συνέχεια εκτέλεσα την συγκεκριμένη εντολή youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=u9Dg-g7t2l4 με αποτέλεσμα να το αναζητήσω και να το εγκαστατήσω το συγκεκριμενο τραγουδι σε μορφή mp3. Παρόλα αυτά αντιμετώπισα ένα πρόβλημα από την αρχή διότι ήθελα να εγκαταστήσω και το mpg123 ώστε μετά να το παίξει όμως αφού το εγκαταστούσα κανονικά με την εντολή sudo apt-get install mpg123 μετά μόλις πήγαινα να το παίξω με την εντολή mpg123 Disturbed  - The Sound Of Silence [Official Music Video]-u9Dg-g7t2l4.mp3 μου έβγαζε αυτά τα μηνύματα Cannot open file Disturbed: No such file or directory και Cannot open Disturbed: File access error. (code 22). Δυστυχώς δεν μπόρεσα να βρω κάποια λύση.
+
+#### Πηγές που με βοήθησαν
+
+https://www.tecmint.com/install-youtube-dl-command-line-video-download-tool/
+
+https://www.tecmint.com/download-mp3-song-from-youtube-videos/
+
+
 ## Παραδοτέο 4 
 
 ### Άσκηση προγραμματισμού Image Zoom
