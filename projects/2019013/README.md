@@ -35,7 +35,7 @@
   
   <h2><span id="Άσκηση γραμμής εντολών 1η">Άσκηση γραμμής εντολών 1η</span></h2>
   
-  <i><a href="https://asciinema.org/a/368359" title="Browse and view files on your system">Browse and view files on your system</a></i>
+  <i><a href="https://asciinema.org/a/384263" title="Browse and view files on your system">Browse and view files on your system</a></i>
   
   Σκοπός της άσκησης ήταν η πρόσβαση και η εμφάνιση των αρχείων του υπολογιστή μας μέσω του τερματικού των Ubuntu, με την χρήση του Windows Subsystem for Linux. Ειδικότερα, με την βοήθεια του asciinema κατάφερα να καταγράψω την διαδικασία πρόσβασης στα αρχεία του υπολογιστικού μου συστήματος.
   
@@ -57,7 +57,7 @@
   
   <h2><span id="Άσκηση γραμμής εντολών 2η">Άσκηση γραμμής εντολών 2η</span></h2>
   
-  <i><a href="https://asciinema.org/a/371311" title="Fetch the weather forecast for your home city and one more city that you want to travel to">Fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
+  <i><a href="https://asciinema.org/a/384265" title="Fetch the weather forecast for your home city and one more city that you want to travel to">Fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
   
    Σκοπός της άσκησης ήταν η εμφάνιση του καιρού στην πόλη μας, καθώς και μιας ακόμα πόλης που θέλουμε να ταξιδέψουμε μέσω του τερματικού των Ubuntu, με την χρήση του Windows Subsystem for Linux. Ειδικότερα, με την βοήθεια του asciinema κατάφερα να καταγράψω την διαδικασία αυτή.
    
@@ -88,9 +88,9 @@
   
   <h2><span id="Άσκηση γραμμής εντολών 3η">Άσκηση γραμμής εντολών 3η</span></h2>
   
-  <i><a href="https://asciinema.org/a/378018" title="Edit the vim or the shell configuration file">Edit the vim or the shell configuration file</a></i>
+  <i><a href="https://asciinema.org/a/384276" title="Edit the vim or the shell configuration file">Edit the vim or the shell configuration file</a></i>
   
-  Σκοπός της άσκησης ήταν η επεξεργασία του VIM. Η διαδικασία που ακολούθησα ηταν η δημιουργία και αποθήκευση(:w) ενός νέου αρχείο με το όνομα vim.txt.Μέσα στο αρχείο έγραψα τα στοιχεία μου, όπου τα επεξεργάστηκα κάνοντας αντιγραφή-επικόλληση(virtual mode-p), διαγραφή μιας γραμμής(dd) καθως και ολόκληρου κομματιού(2dd). 
+  Σκοπός της άσκησης ήταν η επεξεργασία του VIM. Η διαδικασία που ακολούθησα ηταν η δημιουργία και αποθήκευση(:w) ενός νέου αρχείο με το όνομα VIM2.txt.Μέσα στο αρχείο έγραψα τα στοιχεία μου, όπου τα επεξεργάστηκα κάνοντας αντιγραφή-επικόλληση(virtual mode-p), διαγραφή μιας γραμμής(dd) καθως και ολόκληρου κομματιού(2dd). 
   
   Βιβλιογραφία:
      <li>Asciinema: https://asciinema.org/
@@ -111,7 +111,7 @@
    
    <h2><span id="Άσκηση γραμμής εντολών 4η">Άσκηση γραμμής εντολών 4η</span></h2>
    
-   <i><a href="https://asciinema.org/a/383563" title="Search, download and play (with the terminal) your favorite song of the month from youtube">Search, download and play (with the terminal) your favorite song of the month from youtube</a></i>
+   <i><a href="https://asciinema.org/a/384272" title="Search, download and play (with the terminal) your favorite song of the month from youtube">Search, download and play (with the terminal) your favorite song of the month from youtube</a></i>
   
   Σκοπός της άσκησης ήταν η αναζήτηση, το "κατέβασμα" και η αναπαραγωγή ενός mp3 κομματιού της επιλογής μας, μέσω του terminal.Η διαδικασία αυτή , όπως φαίνεται και μέσα απο το asciinema, δεν ήταν επιτυχής, καθώς κατάφερα μόνο να κατεβάσω το κομμάτι και δυστηχώς όχι να το αναπαράγω.Ωστόσο κατάφερα να ολοκληρώσω επιτυχώς την συγκεκριμένη διαδικασία (βέβαια το κομμάτι "κατέβηκε" σε μορφη mp4 και για να μπορέσει να γίνει η αναπαραγωγή του έπρεπε να αλλάξω τον τίτλο του) μέσω της γραμμής εντολών του υπολογιστή μου, για το οποίο υπάρχει screen shot.
   
