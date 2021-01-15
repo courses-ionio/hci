@@ -44,16 +44,22 @@
 # 2 Παραδοτέο
 
 Σκοπός του δεύτερου παραδοτέου ήταν η επιλογή μιας άσκησης απο την ιστοσέλιδα του βιβλίου και η ενσωμάτωσης της στο αντίστοιχο βιβλίο που κάναμε φορκ.
- Η άσκηση που επέλεξα ήταν το **Image Processing**.
+ Η άσκηση που επέλεξα ήταν το **Image Processing**.Ο κώδικας ήταν κατανοήτος και απλά αντικαταστάτησα το φίλτρο grayscale με ένα φίλτρο που αντιστρέφει τα χρώματα σε αρνητικά.
+ 
+![Gif](https://media2.giphy.com/media/fYz09UbuniXzaf5dPN/giphy.gif )
+ 
 
 #### [Link Άσκησης](https://stavros16.netlify.app/remix/image-filter/)
 #### [Αποθετήριο 2 Παραδοτέου](https://github.com/Stavros16/site/blob/master/_remix/image-filter.md)
+#### [Link Codepen](https://codepen.io/2016045/pen/pobgERm)
 
 # 3 Παραδοτέο
 
-Σκοπός του τρίτου παραδοτέου ήταν να ρυθμίσουμε τις κύριες ρυθμίσεις και να αναδείξουμε το βασικό μας σύστημα Linux.
+Σκοπός του τρίτου παραδοτέου ήταν να ρυθμίσουμε τις κύριες ρυθμίσεις και να αναδείξουμε το βασικό μας σύστημα Linux.Εγκατάστησα το linux για τα Windows 10 με της οδηγίες απο το hci-lab και αφού εγκατέστησα το homebrew,το neofetch και το asciinema πραγματοποίησα το ζητούμενο.
 
-#### [Link Άσκησης](https://asciinema.org/a/368026)
+![Gif2](https://media2.giphy.com/media/jBR1Ts3ytUnCJi0PG9/giphy.gif)
+
+#### [Link asciinema](https://asciinema.org/a/368026)
 
 ## Δυσκολίες και τρόπος αντιμετώπισης
 
@@ -61,16 +67,22 @@
 
 # 4 Παραδοτέο
 
-Γι αυτη την άσκηση προγραμματισμού επέλεξα το **Background Image zoom** το οποίο συνδιαζόταν με το προηγούμενο παραδοτέο που έκανα οπότε δεν μου ήταν ιδιαίτερα δύσκολο.
+Γι αυτη την άσκηση προγραμματισμού επέλεξα το **Background Image zoom** το οποίο συνδιαζόταν με το προηγούμενο παραδοτέο που έκανα οπότε δεν μου ήταν ιδιαίτερα δύσκολο.Τροποποίησα την λειτουργία hover έτσι ώστε να αλλάζει το χρώμα της εικόνας όταν πας το ποντίκι πάνω της.
+
+![Gif3](https://media2.giphy.com/media/j6PajOMSTB8sxZ3vXk/giphy.gif)
+
 
 #### [Link Άσκησης](https://stavros16.netlify.app/remix/image-zoom/)
 #### [Αποθετήριο 4 Παραδοτέου](https://github.com/Stavros16/site/blob/master/_remix/image-zoom.md)
+#### [Link Codepen](https://codepen.io/2016045/pen/xxOZJzv)
 
 # 5 Παραδοτέο
 
-Σκοπός αυτού του παραδοτέου ήταν η επεξεργασία του shell configuration file με τη χρήση του vim text editor.
+Σκοπός αυτού του παραδοτέου ήταν η επεξεργασία του shell configuration file με τη χρήση του vim text editor.Σε αυτή την άσκηση με τη χρήση του vim άλλαξα το colorscheme του αρχείου.
 
-#### [Link Άσκησης](https://asciinema.org/a/371673)
+![gif4](https://media2.giphy.com/media/RogqXEn1cqntsKkw6j/giphy.gif)
+
+#### [Link asciinema](https://asciinema.org/a/371673)
 
 # 6 Παραδοτέο
 
@@ -84,4 +96,14 @@
  
  # 8 Παραδοτέο
  
+ Σκοπός της άσκησης Image ήταν η κατανόηση του SVG και η δημιουργία μιας ίδιας εικόνας μισού μεγεθούς που να εκτελεί τις ίδιες λειτουργίες με την αρχική.
+ 
+ ![gif8](https://media3.giphy.com/media/Zci4HXHU9qZ83lmkrm/giphy.gif)
+ 
+ #### [Link Ασκησης](https://stavros16.netlify.app/remix/image/)
  #### [Αποθετήριο 8 Παραδοτέου](https://github.com/Stavros16/site/blob/master/_remix/image.md)
+ #### [Link Codepen](https://codepen.io/2016045/pen/eYzJLem)
+
+# Συμπεράσματα
+
+Ολοκληρώνοντας το εξάμηνο και το μάθημα Επικοινωνία Ανθρώπου Υπολογιστή πολλοί απο τους αρχικούς στόχους που έθεσα δεν εκπληρώθηκαν πλήρως.Απέκτησα αρκετές γνώσεις πάνω στα πρώτα λειτουργικά συστήματα 
