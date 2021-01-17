@@ -9,7 +9,7 @@
 | 6 |[Form example](#Form-Example)|
 | 7 |[Ntfy excersize](#Ntfy-excersize)|
 | 8 | [Visualization dataset excercise](#Visualization-database-excercise)|
-| 9 | Άσκηση γραμμής εντολών |
+| 9 | [Video download](#Video-Download)|
 | 10 | συμμετοχικό περιεχόμενο |
 | 11| Τελική αναφορά* |
 # Περιγραφή στοχων 
@@ -36,4 +36,6 @@
 # Visualization database excercise
 Ο Κωδικας βρισκεται εδω:https://github.com/Thomasth01/site/blob/master/_remix/visualization-dataset.md \
 Το αποτελεσμα φαινεται εδω: https://vibrant-varahamihira-deff26.netlify.app/remix/visualization-dataset/
+# Video Download
+[![asciicast](https://asciinema.org/a/hMSDCtMfjh0UazqFODWJqyq1Q.svg)](https://asciinema.org/a/hMSDCtMfjh0UazqFODWJqyq1Q)
 
