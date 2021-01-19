@@ -133,5 +133,5 @@ https://www.w3schools.com/html/html_forms.asp
 https://asciinema.org/docs/usage
 https://hackernoon.com/how-to-use-codepen-code-inside-your-webpage-eu413wao
 
-Σημείωση:Ολα τα παραδοτέα έχουν γινει commit στην ώρα τους απλά ηταν στο branch master και οχι στο 2016049 .
+Σημείωση:Ολα τα παραδοτέα έχουν γινει commit στην ώρα τους απλά ηταν στο branch master και οχι στο 2016049 . Ενα ακόμα λάθος ήταν η ονομασία του φακέλου,οταν έγινε rename χάθηκε το history του αρχείου,οπότε οι αλλαγές που είχα κανει στο branch 2016049 δεν φαίνονται,παρόλα αυτά φαίνονται όσα είχα κανει στο branch master όπου είναι αρκετά.
 
