@@ -44,7 +44,7 @@
 
 <h2><span id="fetch the weather forecast for your home city and one more city that you want to travel to.">Fetch the weather forecast for your home city and one more city that you want to travel to.</span></h2>
 
-Σύνδεσμος: [asciinema](https://asciinema.org/a/383220)
+Σύνδεσμος: [asciinema](https://asciinema.org/a/385449)
 
 Ο στόχος της εργασίας είναι να ενημερωθούμε για την πρόγνωση του καιρού για την πόλη καταγωγής μας και μιας ακόμη πόλης στην οποία θα θέλαμε να ταξιδέψουμε.
 
@@ -52,7 +52,7 @@
 
 <h2><span id="change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).">Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).</span></h2>
 
-Σύνδεσμος: [asciinema](https://asciinema.org/a/383618)
+Σύνδεσμος: [asciinema](https://asciinema.org/a/385447)
 
 Ο στόχος της εργασίας είναι να αλλάξουμε τη γραμμή εντολών με τον αριθμό μητρώου μας, να καταχωρίσουμε τα αρχεία μας, να εμφανίσουμε το αρχείο shell configuration  και να εμφανίσουμε πληροφορίες συστήματος (υλικό + λογισμικό).
 
@@ -60,7 +60,7 @@
 
 <h2><span id="text editor and plug-ins for code highlighting and autocompletion.">Τext editor and plug-ins for code highlighting and autocompletion.</span></h2>
 
-Σύνδεσμος: [asciinema](https://asciinema.org/a/383736)
+Σύνδεσμος: [asciinema](https://asciinema.org/a/385452)
 
 Ο στόχος της εργασίας είναι να εξοικειωθούμε με το πρόγραμμα επεξεργασίας κειμένου και με τις προσθήκες για επισήμανση του κώδικα και αυτόματη συμπλήρωση.
 
@@ -88,17 +88,23 @@
 
 ###Παραδοτέο 2
 
-Στο δεύτερο παραδοτέοα τροποποιήσαμε το παράδειγμα δημιουργώντας ένα 2ο κουμπί που θα εκτελούσε την ανάποδη λειτουργία από αυτή του κουμπιού 'another'. Το νεό κουμπί έπρεπε να εμφανίζει το μήνυμα που είχε εμφανιστεί προηγουμένως.
+#Άσκηση Προγραμματισμού 1η
+
+Στο δεύτερο παραδοτέο τροποποιήσαμε το παράδειγμα δημιουργώντας ένα 2ο κουμπί που θα εκτελούσε την ανάποδη λειτουργία από αυτή του κουμπιού 'another'. Το νεό κουμπί έπρεπε να εμφανίζει το μήνυμα που είχε εμφανιστεί προηγουμένως.
 
 Link:https://github.com/despina-komo/site/blob/master/_remix/mouse-button.md" 
 
 ###Παραδοτέο 3
 
+#Άσκηση γραμμής εντολών 1η
+
 Στο τρίτο παραδοτέο ενημερωθήκαμε για την πρόγνωση του καιρού για την πόλη καταγωγής μας και μιας ακόμη πόλης στην οποία θα θέλαμε να ταξιδέψουμε.
 
-Link:https://asciinema.org/a/383220
+Link:https://asciinema.org/a/385449
 
 ###Παραδοτέο 4
+
+#Άσκηση Προγραμματισμού 2η
 
 Στο τέταρτο παραδοτέο τροποποιήσαμε το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί έπρεπε να είχε προεπιλεγμένη τιμή “Gender” και οι διαθέσιμες επιλογές να είναι “Male”,”Female”.
 
@@ -106,11 +112,15 @@ Link:https://github.com/despina-komo/site/blob/master/_remix/mouse-form.md"
 
 ###Παραδοτέο 5
 
+#Άσκηση γραμμής εντολών 2η
+
 Στο πέμπτο παραδοτέο αλλάξαμε τη γραμμή εντολών με τον αριθμό μητρώου μας, καταχωρίσαμε τα αρχεία μας, εμφανίσαμε το αρχείο shell configuration  και επίσης εμφανίσαμε πληροφορίες συστήματος (υλικό + λογισμικό).
 
-Link:https://asciinema.org/a/383618
+Link:https://asciinema.org/a/385447
 
 ###Παραδοτέο 7
+
+#Άσκηση Προγραμματισμού 3η
 
 Στο έβδομο παραδοτέο τροποποιήσαμε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας από το προηγούμενο παράδειγμα. Συνδυάσαμε τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα).
 
@@ -118,11 +128,15 @@ Link:https://github.com/despina-komo/site/blob/master/_remix/image-zoom.md
 
 ###Παραδοτέο 8
 
+#Άσκηση γραμμής εντολών 3η
+
 Στο όγδοο παραδοτέο εξοικειωθήκαμε με το πρόγραμμα επεξεργασίας κειμένου και με τις προσθήκες για επισήμανση του κώδικα και αυτόματη συμπλήρωση.
 
-Link:https://asciinema.org/a/383736
+Link:https://asciinema.org/a/385452
 
 ###Παραδοτέο 9
+
+#Άσκηση Προγραμματισμού 4η
 
 Στο έννατο παραδοτέο τροποποιήσαμε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας από το προηγούμενο παράδειγμα. Συνδυάσαμε τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα).
 
@@ -130,11 +144,15 @@ Link:https://github.com/despina-komo/site/blob/master/_remix/image-filter.md
 
 ###Παραδοτέο 10
 
+#Άσκηση γραμμής εντολών 4η
+
 Στο δέκατο παραδοτέο διαμορφώσαμε το περιβάλλον του προγράμματος περιήγησης στο τερματικό πρόγραμμα περιήγησης.
 
 Link:https://asciinema.org/a/383771
 
 ###Παραδοτέο 6 και 11
+
+#Συμμετοχικό περιεχόμενο 
 
 Στα έκτο και εντέκατο παραδοτέα δισκολεύτικα αρκετά και δυστυχώς δεν κατάφερα να τα υλοποιήσω.
 
