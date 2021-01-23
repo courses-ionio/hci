@@ -54,8 +54,8 @@ tittle=" change your command prompt with your student ID, list your dot files, d
 
 Αλλάζουμε οποιαδήποτε από τις δύο εικόνες καθώς και το μέγεθος του eraser
 
-h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
+<h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
 <i><a href= "https://asciinema.org/a/386525"
       tittle="organize your notes with emacs">organize your notes with emacs</a></i>
       
-Οργανώσαμε τις σημειώσεις μας με emacs
+Οργανώσαμε τη λίστα μας με emacs
