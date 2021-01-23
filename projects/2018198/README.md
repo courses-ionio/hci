@@ -22,7 +22,7 @@
 
 
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
-<i><a href= "https://asciinema.org/a/383705" 
+<i><a href= "https://asciinema.org/a/386477" 
 tittle=" change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).">change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).</a></i>
 
 Σκοπός της άσκησης ήταν να αλλάξουμε την γραμμή εντολών. Επίσης, έπρεπε να καταχωρίσουμε το neofetch  ετσι ώστε να εμφανίζεται το αρχειό shell configuration και ακόμη να εμφανίζονται πληροφορίες συστήματος. 
@@ -33,7 +33,7 @@ tittle=" change your command prompt with your student ID, list your dot files, d
 Τροποποιούμε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών 
 
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
-<i><a href= "https://asciinema.org/a/383709"
+<i><a href= "https://asciinema.org/a/386481"
  tittle="fetch the weather forecast for your home city and one more city that you want to travel to">fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
  
  Σκοπός της άσκησης ήταν να πάρουμε την πρόγνωση καιρού για την πόλη μας και για μία ακόμη πόλη στην οποία θέλουμε να ταξιδέψουμε
@@ -44,7 +44,7 @@ tittle=" change your command prompt with your student ID, list your dot files, d
 Τροποποιούμε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας από το προηγούμενο παράδειγμα(Image processing). Συνδυάζουμε τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover
 
 <h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
-<i><a href= "https://asciinema.org/a/383712"
+<i><a href= "https://asciinema.org/a/386527"
       tittle="edit the vim or the shell configuration file">edit the vim or the shell configuration file</a></i>
       
 Δημιουργούμε ενα αρχείο με τη χρήση του vim και μετά δείχνουμε την χρηση του coppy-paste 
@@ -55,7 +55,7 @@ tittle=" change your command prompt with your student ID, list your dot files, d
 Αλλάζουμε οποιαδήποτε από τις δύο εικόνες καθώς και το μέγεθος του eraser
 
 h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
-<i><a href= "https://asciinema.org/a/383931"
+<i><a href= "https://asciinema.org/a/386525"
       tittle="organize your notes with emacs">organize your notes with emacs</a></i>
       
 Οργανώσαμε τις σημειώσεις μας με emacs
