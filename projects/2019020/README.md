@@ -115,7 +115,7 @@
 <br> <a href="https://pibook.epidro.me/remix/image-zoom/">Η εκφώνηση της άσκησης.</a></ul>
 
 <br><br>
-<h2><span id="Text Editor">(8) Άσκηση Γραμμής Εντολών - Text Editor</span></h2>
+<h2><span id="Text Editor">(10) Άσκηση Γραμμής Εντολών - Text Editor</span></h2>
 <p>Αλλαγή ρυθμίσεων του vim, με σκοπό να γίνει εξατομίκευση του βάσει προσωπικών ζητούμενων και βάσει των ζητούμενων του κάθε προγράμματος μέσω του λειτουργικού συστήματος UBUNTU.
 
 <a href="https://asciinema.org/a/383409">Text Editor</a>
