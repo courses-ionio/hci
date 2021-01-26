@@ -67,6 +67,7 @@
 **_Η ακόλουθη άσκηση βοηθά στην ανάλυση της html με μεγαλύτερη έμφαση και αποδοτικότητα προκείμενου να επιτευχθεί ο ζητούμενος περιορισμός του υπάρχοντος μενού._**
 ![MenuPie](https://user-images.githubusercontent.com/72515787/100359178-e03a1180-2fff-11eb-87c3-38b0723a1064.gif)
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)_**
+**_Netlify link: https://60108374e29b630008f5ede5--adoring-poincare-2efdc8.netlify.app/remix/menu-pie/
 
 
 
