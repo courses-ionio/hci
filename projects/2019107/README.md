@@ -7,14 +7,14 @@ AM:Π2019107
 | --- | --- |
 | 1 | <li><a href="#Εισαγωγή στο μάθημα"><span class="toctext">Εισαγωγή στο μάθημα</span></a> |
 | 2 | <li><a href="#Image Processing"><span class="toctext">Image filter</span></a>|
-| 3 | Άσκηση γραμμής εντολών |
+| 3 | <li><a href="#Weather"><span class="toctext">Weather</span></a> |
 | 4 | <li><a href="#Ιmage zoom"><span class="toctext">Ιmage zoom</span></a>
-| 5 | Άσκηση γραμμής εντολών |
+| 5 |<li><a href="#File opener"><span class="toctext">File opener</span></a> |
 | 6 | συμμετοχικό περιεχόμενο |
 | 7 | <li><a href="#Sortable list"><span class="toctext">Sortable list</span></a> |
-| 8 |  Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 8 | <li><a href="#Text editor"><span class="toctext">Text editor</span></a> |
 | 9 | <li><a href="#Button"><span class="toctext">Button</span></a> |
-| 10 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) | 
+| 10 |<li><a href="#Notes"><span class="toctext">Notes</span></a> | 
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | <li><a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a>|
 
@@ -38,6 +38,17 @@ AM:Π2019107
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
 
 <br><br>
+<h2><span id="Άσκηση Γραμμής εντολών">(3)  (Άσκηση Γραμμής εντολών)</span></h2>
+<p>Στην συγκεκριμένη άσκηση δώσαμε εντολή στις γραμμες εντολών και μας εμφάνησαν τον καιρό στην περιοχή μου.Έπειτα έδωσα το όνομα μιας πόλης και μου εμφάνισαν τον καιρό στην συγκεκριμένη πόλη. 
+  
+<a href="https://asciinema.org/a/384299">Weather</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://brew.sh/index_el">Homebrew</a>
+<br> <a href="https://asciinema.org/">Asciinema</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://github.com/epidrome/dokey">Η λίστα διαθέσιμων ασκήσεων.</a></ul>
+
+<br><br>
 <h2><span id="Ιmage zoom">(4)  (Άσκηση Προγραμματισμού-Ιmage zoom)</span></h2>
 <p>Η συγκεκριμένη άσκηση περιλαμβάνει μια εικόνα μιας γάτας στην οποία γινόταν μεγένθυση όταν ο κέρσορας πέρναγε πάνω της και μας δώθηκε η επιλογή να 
   την επεξεργαστούμε ετσι ώστε να έχει παράλληλα και κάποιο φίλτρο της επιλογής μας.Κατα συνέπεια ο ήδη υπάρχοντας κώδικας δεν άλλαξε αλλά προσθέθηκε
@@ -50,6 +61,17 @@ AM:Π2019107
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/image zoom/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
+
+<br><br>
+<h2><span id="Άσκηση Γραμμής εντολών">(5)  (Άσκηση Γραμμής εντολών)</span></h2>
+<p>Στην ακόλουθη άσκηση χρησιμοποιόντας εντολές ανοίξαμε ένα έγγραφο το οποίο βρισκόταν μέσα σε έναν φάκελο στην επιφάνεια εργασίας. 
+  
+<a href="https://asciinema.org/a/384485">File opener</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://brew.sh/index_el">Homebrew</a>
+<br> <a href="https://asciinema.org/">Asciinema</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://github.com/epidrome/dokey">Η λίστα διαθέσιμων ασκήσεων.</a></ul>
 
 <br><br>
 <h2><span id="Sortable list">(7)  (Άσκηση Προγραμματισμού-Sortable list)</span></h2>
@@ -66,6 +88,17 @@ AM:Π2019107
 <br> <a href="https://pibook.epidro.me/remix/sortable list/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
 
 <br><br>
+<h2><span id="Άσκηση Γραμμής εντολών">(8)  (Άσκηση Γραμμής εντολών)</span></h2>
+<p>Στην ακόλουθη άσκηση ορίσαμε απο πρίν κάποιες εντολές επεξεργασίας κειμένου όπως αλλαγής χρώματος των γραμμάτων. Έπειτα της εφαρμόσαμε σε επιλεγμένο κείμενο.
+  
+<a href="https://asciinema.org/a/384508">Text editor</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://brew.sh/index_el">Homebrew</a>
+<br> <a href="https://asciinema.org/">Asciinema</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://github.com/epidrome/dokey">Η λίστα διαθέσιμων ασκήσεων.</a></ul>
+
+<br><br>
 <h2><span id="Button">(9)  (Άσκηση Προγραμματισμού-Button)</span></h2>
 <p>Στην άσκηση προγραμματισμου μας δώθηκε ένα κουμπι το οποιο επρεπε εμεις να δώσουμε μια λειτουργεία.Για την εκτέλεση της εργασίας 
   εδωσα στο κουμπί την λειτουργεία οταν καποιος το παταει να ανοιγε την ιστοσελίδα του youtube και να τον κατευθύνει σε ενα συγκεκριμένο
@@ -78,6 +111,17 @@ AM:Π2019107
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
+
+<br><br>
+<h2><span id="Άσκηση Γραμμής εντολών">(10)  (Άσκηση Γραμμής εντολών)</span></h2>
+<p>Στην συγκεκριμένη άσκηση ανοίξαμε μια κενή σημείωση μεσα στις γραμμές εντολών.ΠΛηκτρολογίσαμε μέσα σε αυτές κάποιες λέξεις και έπειτα ζητήσαμε απο τις εντολές να κάνουν αναζήτηση μίας συγκεκριμένης λέξης μέσα σε αυτές που εμείς εισάγαμε.
+  
+<a href="https://asciinema.org/a/384533">Notes</a>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://brew.sh/index_el">Homebrew</a>
+<br> <a href="https://asciinema.org/">Asciinema</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a>
+<br> <a href="https://github.com/epidrome/dokey">Η λίστα διαθέσιμων ασκήσεων.</a></ul>
 
 <br><br>
 <h2><span id="Τελική αναφορά">(12) Τελική αναφορά</span></h2>
