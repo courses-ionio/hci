@@ -141,6 +141,23 @@ AM:Π2019107
 <br> <a href="https://github.com/epidrome/dokey">Η λίστα διαθέσιμων ασκήσεων.</a></ul>
 
 <br><br>
+<h2><span id="Συμμετοχικό Περιεχόμενο Β1-Β2">(11)  (Συμμετοχικό Περιεχόμενο Β1-Β2)</span></h2>
+<p>
+  
+<br> <a href="https://github.com/TheodoreZ-107/gallery/blob/master/first_Microsoft_mouse.md">First Microsoft Mouse </a>
+<br> <a href="https://github.com/TheodoreZ-107/gallery/blob/master/zenbook.md">Asus Zenbook </a>
+<br> <a href="https://github.com/TheodoreZ-107/images_/blob/master/first%20mouse.jpg">First Microsoft Mouse image </a>
+<br> <a href="https://github.com/TheodoreZ-107/images_/blob/master/asus%20laptop.jpg">Asus Zenbook image </a>
+<br> <a href="https://github.com/TheodoreZ-107/site/blob/master/_timeline/systems.md">Timeline </a>
+<br> <a href="https://github.com/TheodoreZ-107/site/blob/master/_slides/parts.md">Slides </a>
+
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://en.wikipedia.org/wiki/Microsoft_Mouse">Wikipedia First Microsoft Mouse</a>
+<br> <a href="https://en.wikipedia.org/wiki/ZenBook">Wikipedia Asus Zenbook</a>
+<br> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Asciinema</a>
+<br> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες για το συμμετοχικό περιεχόμενο</a>
+
+<br><br>
 <h2><span id="Τελική αναφορά">(12) Τελική αναφορά</span></h2>
  Στην αρχή του τρίτου εξαμήνου μας δώθηκε η ευκαιρία να παρακολουθήσουμε το μάθημα "Επικοινωνία Ανθρώπου-Υπολογιστή".Ένα μάθημα που μόνο απο τον τίτλο σου δημιουργεί περιέργεια 
 και σου ελκύει το ενδιαφέρον.Οι προσδοκίες μου απο το συγκεκριμένο μάθημα ήταν αρκετά υψηλές ,με κύρια να μάθω να χρησιμοποιώ μια απο ισως τις πιο χρήσιμες ιστοσελίδες για τους
