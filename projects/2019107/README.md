@@ -77,19 +77,18 @@ AM:Π2019107
 <h2><span id="Συμμετοχικό Περιεχόμενο Α1-Α2">(6)  (Συμμετοχικό Περιεχόμενο Α1-Α2)</span></h2>
 <p>Χρησιμοποιόντας το Ubundu και το Github βρήκα δυο ηλεκτρονικές συσκευές που με ενδιέφεραν, το πρώτο ηλεκτρονικό ποντίκι της Microsoft και ο φορητός υπολογιστής της εταιρίας Asus με όνομα Zenbook.Βρήκα μια εικόνα για την καθε μία συσκευή καθώς και ενα κομμάτι το οποίο τις περιέγραφε και τα πρόσθεσα σε έναν φάκελο στο Github.
   
-<a href="https://github.com/TheodoreZ-107/gallery/blob/master/first_Microsoft_mouse.md">First Microsoft Mouse </a>
-<a href="https://github.com/TheodoreZ-107/gallery/blob/master/zenbook.md">Asus Zenbook </a>
-<a href="https://github.com/TheodoreZ-107/images_/blob/master/first%20mouse.jpg">First Microsoft Mouse image </a>
-<a href="https://github.com/TheodoreZ-107/images_/blob/master/asus%20laptop.jpg">Asus Zenbook image </a>
-<a href="https://github.com/TheodoreZ-107/site/blob/master/_timeline/systems.md">Timeline </a>
-<a href="https://github.com/TheodoreZ-107/site/blob/master/_slides/parts.md">Slides </a>
+<br> <a href="https://github.com/TheodoreZ-107/gallery/blob/master/first_Microsoft_mouse.md">First Microsoft Mouse </a>
+<br> <a href="https://github.com/TheodoreZ-107/gallery/blob/master/zenbook.md">Asus Zenbook </a>
+<br> <a href="https://github.com/TheodoreZ-107/images_/blob/master/first%20mouse.jpg">First Microsoft Mouse image </a>
+<br> <a href="https://github.com/TheodoreZ-107/images_/blob/master/asus%20laptop.jpg">Asus Zenbook image </a>
+<br> <a href="https://github.com/TheodoreZ-107/site/blob/master/_timeline/systems.md">Timeline </a>
+<br> <a href="https://github.com/TheodoreZ-107/site/blob/master/_slides/parts.md">Slides </a>
 
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://en.wikipedia.org/wiki/Microsoft_Mouse">Wikipedia First Microsoft Mouse</a>
 <ul> <a href="https://en.wikipedia.org/wiki/ZenBook">Wikipedia Asus Zenbook</a>
 <br> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Asciinema</a>
-  <br> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες για το συμμετοχικό περιεχόμενο</a>
-
+<br> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες για το συμμετοχικό περιεχόμενο</a>
 
 <br><br>
 <h2><span id="Sortable list">(7)  (Άσκηση Προγραμματισμού-Sortable list)</span></h2>
