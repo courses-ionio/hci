@@ -85,8 +85,8 @@ AM:Π2019107
 <br> <a href="https://github.com/TheodoreZ-107/site/blob/master/_slides/parts.md">Slides </a>
 
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
-<ul> <a href="https://en.wikipedia.org/wiki/Microsoft_Mouse">Wikipedia First Microsoft Mouse</a>
-<br> <a href="https://en.wikipedia.org/wiki/ZenBook">Wikipedia Asus Zenbook</a>
+<ul> <a href="https://en.wikipedia.org/wiki/Microsoft_Mouse">First Microsoft Mouse</a>
+<br> <a href="https://en.wikipedia.org/wiki/ZenBook">Asus Zenbook</a>
 <br> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Asciinema</a>
 <br> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες για το συμμετοχικό περιεχόμενο</a>
 
@@ -142,20 +142,15 @@ AM:Π2019107
 
 <br><br>
 <h2><span id="Συμμετοχικό Περιεχόμενο Β1-Β2">(11)  (Συμμετοχικό Περιεχόμενο Β1-Β2)</span></h2>
-<p>
+<p>Μου ζητήθηκε να φτιάξω μια μελέτη η οποία θα περιέγραφε την εταιρία που κατασκεύασε τον φορητό υπολογιστή που διάλεξα,καθως και μια ακόμα μελέτη η οποία περιείχε το βιοβραφικό του δημιουργού της εταιρίας.
   
-<br> <a href="https://github.com/TheodoreZ-107/gallery/blob/master/first_Microsoft_mouse.md">First Microsoft Mouse </a>
-<br> <a href="https://github.com/TheodoreZ-107/gallery/blob/master/zenbook.md">Asus Zenbook </a>
-<br> <a href="https://github.com/TheodoreZ-107/images_/blob/master/first%20mouse.jpg">First Microsoft Mouse image </a>
-<br> <a href="https://github.com/TheodoreZ-107/images_/blob/master/asus%20laptop.jpg">Asus Zenbook image </a>
-<br> <a href="https://github.com/TheodoreZ-107/site/blob/master/_timeline/systems.md">Timeline </a>
-<br> <a href="https://github.com/TheodoreZ-107/site/blob/master/_slides/parts.md">Slides </a>
+<br> <a href="https://github.com/TheodoreZ-107/site/blob/master/_case-study/zenbook.md">Zenbook </a>
+<br> <a href="https://github.com/TheodoreZ-107/site/blob/master/_biography/Tzu-Hsien_Tung.md">Tzu-Hsien Tung Βιογραφία </a>
 
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
-<ul> <a href="https://en.wikipedia.org/wiki/Microsoft_Mouse">Wikipedia First Microsoft Mouse</a>
-<br> <a href="https://en.wikipedia.org/wiki/ZenBook">Wikipedia Asus Zenbook</a>
-<br> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Asciinema</a>
-<br> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες για το συμμετοχικό περιεχόμενο</a>
+<ul> <a href="https://en.wikipedia.org/wiki/ZenBook">Zenbook Asus</a>
+<br> <a href="https://en.wikipedia.org/wiki/T.H._Tung">Tzu-Hsien Tung</a>
+<br> <a href="https://courses-ionio.github.io/projects/social/">Συμμετοχικό περιεχόμενο</a>
 
 <br><br>
 <h2><span id="Τελική αναφορά">(12) Τελική αναφορά</span></h2>
