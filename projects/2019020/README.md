@@ -79,12 +79,12 @@
 <p>Χρησιμοποιήθηκε το τερματικο του λειτουργικου συστηματοσ θβθντθ για τη δημιουργια των σθβμοδθλες. Λογω δυσκολιας που αντιμετωπισα στη διμιουργια τους μετονομασα το _gallery
 σε gallery και αντιστοιχα το images σε _images.
   
-<a href="https://github.com/alkarvounis/gallery/blob/master/photocopier.md">Photocopier (Gallery File)</a>
-<a href="https://github.com/alkarvounis/gallery/blob/master/magickeyboard.md">Magic Keyboard (Gallery File)</a>
-<a href="https://github.com/alkarvounis/_images/blob/master/Xerox%20Printer.jpeg">Photocopier (Image File)</a>
-<a href="https://github.com/alkarvounis/_images/blob/master/Apple%20Magic%20Keyboard.jpg">Magic Keyboard (Image File)</a>
-<a href="https://github.com/alkarvounis/site/blob/master/_timeline/systems.md">Timeline</a>
-<a href="https://github.com/alkarvounis/site/blob/master/_slides/devices.md">Slides</a>
+<a href="https://github.com/alkarvounis/gallery/blob/master/photocopier.md">Photocopier (Gallery File)</a><br>
+<a href="https://github.com/alkarvounis/gallery/blob/master/magickeyboard.md">Magic Keyboard (Gallery File)</a><br>
+<a href="https://github.com/alkarvounis/_images/blob/master/Xerox%20Printer.jpeg">Photocopier (Image File)</a><br>
+<a href="https://github.com/alkarvounis/_images/blob/master/Apple%20Magic%20Keyboard.jpg">Magic Keyboard (Image File)</a><br>
+<a href="https://github.com/alkarvounis/site/blob/master/_timeline/systems.md">Timeline</a><br>
+<a href="https://github.com/alkarvounis/site/blob/master/_slides/devices.md">Slides</a><br>
 
 <h6>Βιβλιογραφία:</h6>
 <ul> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Asciinema (Adding a submodule).</a>
