@@ -9,13 +9,13 @@ AM:Π2019107
 | 2 | <li><a href="#Image Processing"><span class="toctext">Image filter</span></a>|
 | 3 | <li><a href="#Weather"><span class="toctext">Weather</span></a> |
 | 4 | <li><a href="#Ιmage zoom"><span class="toctext">Ιmage zoom</span></a>
-| 5 |<li><a href="#File opener"><span class="toctext">File opener</span></a> |
-| 6 | συμμετοχικό περιεχόμενο |
+| 5 | <li><a href="#File opener"><span class="toctext">File opener</span></a> |
+| 6 | <li><a href="#Συμμετοχικό Περιεχόμενο Α1-Α2"><span class="toctext">Συμμετοχικό Περιεχόμενο Α1-Α2</span></a> |
 | 7 | <li><a href="#Sortable list"><span class="toctext">Sortable list</span></a> |
 | 8 | <li><a href="#Text editor"><span class="toctext">Text editor</span></a> |
 | 9 | <li><a href="#Button"><span class="toctext">Button</span></a> |
-| 10 |<li><a href="#Notes"><span class="toctext">Notes</span></a> | 
-| 11 | συμμετοχικό περιεχόμενο |
+| 10 | <li><a href="#Notes"><span class="toctext">Notes</span></a> | 
+| 11 | <li><a href="#Συμμετοχικό Περιεχόμενο Β1-Β2"><span class="toctext">Συμμετοχικό Περιεχόμενο Β1=Β2</span></a> |
 | 12 | <li><a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a>|
 
 
@@ -33,7 +33,7 @@ AM:Π2019107
 <br><a href="https://optimistic-haibt-3ceed7.netlify.app/remix/image-filter/">Image Filter (Embed)</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
-<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες για τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
 
@@ -58,7 +58,7 @@ AM:Π2019107
 <br><a href="https://optimistic-haibt-3ceed7.netlify.app/remix/image-zoom/">Image zoom (Embed)</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
-<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες για τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/image zoom/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
 
@@ -74,6 +74,24 @@ AM:Π2019107
 <br> <a href="https://github.com/epidrome/dokey">Η λίστα διαθέσιμων ασκήσεων.</a></ul>
 
 <br><br>
+<h2><span id="Συμμετοχικό Περιεχόμενο Α1-Α2">(6)  (Συμμετοχικό Περιεχόμενο Α1-Α2)</span></h2>
+<p>Χρησιμοποιόντας το Ubundu και το Github βρήκα δυο ηλεκτρονικές συσκευές που με ενδιέφεραν, το πρώτο ηλεκτρονικό ποντίκι της Microsoft και ο φορητός υπολογιστής της εταιρίας Asus με όνομα Zenbook.Βρήκα μια εικόνα για την καθε μία συσκευή καθώς και ενα κομμάτι το οποίο τις περιέγραφε και τα πρόσθεσα σε έναν φάκελο στο Github.
+  
+<a href="https://github.com/TheodoreZ-107/gallery/blob/master/first_Microsoft_mouse.md">First Microsoft Mouse </a>
+<a href="https://github.com/TheodoreZ-107/gallery/blob/master/zenbook.md">Asus Zenbook </a>
+<a href="https://github.com/TheodoreZ-107/images_/blob/master/first%20mouse.jpg">First Microsoft Mouse image </a>
+<a href="https://github.com/TheodoreZ-107/images_/blob/master/asus%20laptop.jpg">Asus Zenbook image </a>
+<a href="https://github.com/TheodoreZ-107/site/blob/master/_timeline/systems.md">Timeline </a>
+<a href="https://github.com/TheodoreZ-107/site/blob/master/_slides/parts.md">Slides </a>
+
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<ul> <a href="https://en.wikipedia.org/wiki/Microsoft_Mouse">Wikipedia First Microsoft Mouse</a>
+<ul> <a href="https://en.wikipedia.org/wiki/ZenBook">Wikipedia Asus Zenbook</a>
+<br> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Asciinema</a>
+  <br> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες για το συμμετοχικό περιεχόμενο</a>
+
+
+<br><br>
 <h2><span id="Sortable list">(7)  (Άσκηση Προγραμματισμού-Sortable list)</span></h2>
 <p>Η άσκηση η οποία μας δώθηκε περιείχε μια λίστα με ονόματα τα οποία μπορούσαμε να μετακινήμουμε και να τοποθετήσουμε με όποια σειρά θέλαμε.
   Εμείς έπρεπε να αλλάξουμε το χρώμα τών στοιχείων καθώς και την απόσταση μεταξύ τους.Κατα την διαδικασία αυτή πείρα την πρωτοβουλία να αλλάξω τα χρώματα
@@ -83,7 +101,7 @@ AM:Π2019107
 <br><a href="https://optimistic-haibt-3ceed7.netlify.app/remix/sortable-list/">Sortable list(Embed)</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
-<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες για τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/sortable list/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
 
@@ -108,7 +126,7 @@ AM:Π2019107
 <br><a href="https://optimistic-haibt-3ceed7.netlify.app/remix/button/">Button (Embed)</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen.</a>
-<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις προγραμματισμού.</a>
+<br> <a href="https://courses-ionio.github.io/projects/remix/">Οδηγίες για τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα με τις ασκήσεις προγραμματισμού.</a>
 <br> <a href="https://pibook.epidro.me/remix/button/">Η εκφώνηση της άσκησης που έκανα.</a></ul>
 
