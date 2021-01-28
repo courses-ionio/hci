@@ -86,7 +86,7 @@ AM:Π2019107
 
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://en.wikipedia.org/wiki/Microsoft_Mouse">Wikipedia First Microsoft Mouse</a>
-<ul> <a href="https://en.wikipedia.org/wiki/ZenBook">Wikipedia Asus Zenbook</a>
+<br> <a href="https://en.wikipedia.org/wiki/ZenBook">Wikipedia Asus Zenbook</a>
 <br> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Asciinema</a>
 <br> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες για το συμμετοχικό περιεχόμενο</a>
 
