@@ -8,12 +8,12 @@
 | 3 | <li><a href="#Weather Checker"><span class="toctext">Weather Checker</span></a>|
 | 4 | <li><a href="#Image Processing"><span class="toctext">Image Processing</span></a>|
 | 5 | <li><a href="#File Opener"><span class="toctext">File Opener</span></a>|
-| 6 | Συμμετοχικό περιεχόμενο |
+| 6 | <li><a href="#Συμμετοχικό Περιεχόμενο Α1, Α2"><span class="toctext">Συμμετοχικό Περιεχόμενο Α1, Α2</span></a>| 
 | 7 | <li><a href="#Sortable List"><span class="toctext">Sortable List</span></a>|
 | 8 | <li><a href="#Download mp3"><span class="toctext">Download mp3</span></a>|
 | 9 | <li><a href="#Image Zoom"><span class="toctext">Image Zoom</span></a>|
 | 10 | <li><a href="#Text Editor"><span class="toctext">Text Editor</span></a>|
-| 11 | Συμμετοχικό περιεχόμενο |
+| 11 | <li><a href="#Συμμετοχικό Περιεχόμενο Β1, Β2"><span class="toctext">Συμμετοχικό Περιεχόμενο Β1, Β2</span></a>|
 | 12 | <li><a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a>|
 
 <br><br>
@@ -73,6 +73,24 @@
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a> 
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://superuser.com/questions/477819/how-to-open-a-particular-file-from-a-terminal">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
+
+<br><br>
+<h2><span id="Συμμετοχικό Περιεχόμενο Α1, Α2">(6) Συμμετοχικό Περιεχόμενο Α1, Α2</span></h2>
+<p>Χρησιμοποιήθηκε το τερματικο του λειτουργικου συστηματοσ θβθντθ για τη δημιουργια των σθβμοδθλες. Λογω δυσκολιας που αντιμετωπισα στη διμιουργια τους μετονομασα το _gallery
+σε gallery και αντιστοιχα το images σε _images.
+  
+<a href="https://github.com/alkarvounis/gallery/blob/master/photocopier.md">Photocopier (Gallery File)</a>
+<a href="https://github.com/alkarvounis/gallery/blob/master/magickeyboard.md">Magic Keyboard (Gallery File)</a>
+<a href="https://github.com/alkarvounis/_images/blob/master/Xerox%20Printer.jpeg">Photocopier (Image File)</a>
+<a href="https://github.com/alkarvounis/_images/blob/master/Apple%20Magic%20Keyboard.jpg">Magic Keyboard (Image File)</a>
+<a href="https://github.com/alkarvounis/site/blob/master/_timeline/systems.md">Timeline</a>
+<a href="https://github.com/alkarvounis/site/blob/master/_slides/devices.md">Slides</a>
+
+<h6>Βιβλιογραφία:</h6>
+<ul> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Asciinema (Adding a submodule).</a>
+<br> <a href="https://en.wikipedia.org/wiki/Photocopier"> Wikipedia - Photocopier.</a>
+<br> <a href="https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)"> Wikipedia - Magic Keyboard.</a> 
+<br> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες μαθήματος σχετικά με το συμμετοχικό περιεχόμενο.</a> 
 
 <br><br>
 <h2><span id="Sortable List">(7) Άσκηση Προγραμματισμού - Sortable List</span></h2>
