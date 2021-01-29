@@ -85,12 +85,12 @@
 <h2><span id="Συμμετοχικό Περιεχόμενο Α1, Α2">(6) Συμμετοχικό Περιεχόμενο Α1, Α2</span></h2>
 <p> Για αυτό το πρώτο συμμετοχικό περιεχόμενο χρησιμοποιήθηκε το τερματικό του λειτουργικού συστήματος UBUNTU για τη δημιουργία των submodules. Λόγω δυσκολίας που αντιμετώπισα στη διμιουργία τους μετονόμασα το _gallery σε gallery και αντίστοιχα το images σε _images.
   
-<a href="https://github.com/alkarvounis/gallery/blob/master/photocopier.md">Photocopier (Gallery File)</a><br>
-<a href="https://github.com/alkarvounis/gallery/blob/master/magickeyboard.md">Magic Keyboard (Gallery File)</a><br>
-<a href="https://github.com/alkarvounis/_images/blob/master/Xerox%20Printer.jpeg">Photocopier (Image File)</a><br>
-<a href="https://github.com/alkarvounis/_images/blob/master/Apple%20Magic%20Keyboard.jpg">Magic Keyboard (Image File)</a><br>
-<a href="https://github.com/alkarvounis/site/blob/master/_timeline/systems.md">Timeline</a><br>
-<a href="https://github.com/alkarvounis/site/blob/master/_slides/devices.md">Slides</a><br>
+<a href="https://github.com/alkarvounis/gallery/blob/master/photocopier.md">Photocopier (Gallery File)</a>
+<a href="https://github.com/alkarvounis/gallery/blob/master/magickeyboard.md">Magic Keyboard (Gallery File)</a>
+<a href="https://github.com/alkarvounis/_images/blob/master/Xerox%20Printer.jpeg">Photocopier (Image File)</a>
+<a href="https://github.com/alkarvounis/_images/blob/master/Apple%20Magic%20Keyboard.jpg">Magic Keyboard (Image File)</a>
+<a href="https://github.com/alkarvounis/site/blob/master/_timeline/systems.md">Timeline</a>
+<a href="https://github.com/alkarvounis/site/blob/master/_slides/devices.md">Slides</a>
 
 <h6>Βιβλιογραφία:</h6>
 <ul> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Asciinema (Adding a submodule).</a>
@@ -162,13 +162,13 @@
 <h2><span id="Συμμετοχικό Περιεχόμενο Β1, Β2">(11) Συμμετοχικό Περιεχόμενο Β1, Β2</span></h2>
 <p>Σε αυτό το κομμάτι της εργασίας, μου ζητήθηκε να γράψω μια μελέτη περίπτωσης και μια βιογραφία για ένα από τα θέματα που ανέπτυξα στο προηγούμενο συμμετοχικό περιεχόμενο. Επέλεξα αυτό της Xerox και κατ' επέκταση, τη βιογραφία του ιδρυτή της.
   
-<a href="https://github.com/alkarvounis/site/blob/master/_case-study/photocopier.md">Photocopier (Case Study)</a><br>
-<a href="https://github.com/alkarvounis/site/blob/master/_biography/chester-carlson.md">Chester Carlson Biography</a><br>
+<a href="https://github.com/alkarvounis/site/blob/master/_case-study/photocopier.md">Photocopier (Case Study)</a>
+<a href="https://github.com/alkarvounis/site/blob/master/_biography/chester-carlson.md">Chester Carlson Biography</a>
 
 <h6>Βιβλιογραφία:</h6>
-<br> <a href="https://en.wikipedia.org/wiki/Photocopier"> Wikipedia - Photocopier.</a>
+<ul> <a href="https://en.wikipedia.org/wiki/Photocopier"> Wikipedia - Photocopier.</a>
 <br> <a href="https://en.wikipedia.org/wiki/Chester_Carlson"> Wikipedia - Chester Carlson Biography.</a> 
-<br> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες μαθήματος σχετικά με το συμμετοχικό περιεχόμενο.</a> 
+<br> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες μαθήματος σχετικά με το συμμετοχικό περιεχόμενο.</a></ul> 
 
 <br><br>
 <h2><span id="Τελική αναφορά">(12) Τελική αναφορά</span></h2>
