@@ -97,7 +97,7 @@
 <ul> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Asciinema (Adding a submodule).</a>
 <br> <a href="https://en.wikipedia.org/wiki/Photocopier"> Wikipedia - Photocopier.</a>
 <br> <a href="https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)"> Wikipedia - Magic Keyboard.</a> 
-<br> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες μαθήματος σχετικά με το συμμετοχικό περιεχόμενο.</a> 
+<br> <a href="https://courses-ionio.github.io/projects/social/">Οδηγίες μαθήματος σχετικά με το συμμετοχικό περιεχόμενο.</a></ul>
 
 <br><br>
 <h2><span id="Sortable List">(7) Άσκηση Προγραμματισμού - Sortable List</span></h2>
