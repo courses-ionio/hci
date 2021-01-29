@@ -9,7 +9,7 @@ A.M.: Π2019150
 | 4 | <li><a href="#Image filter"><span class="toctext">Image filter</span></a> |
 | 5 | <li><a href="#download mp3"><span class="toctext">download mp3</span></a> |
 | 6 | <li><a href="#Image"><span class="toctext">Image</span></a> |
-| 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 7 | <li><a href="#check the weather"><span class="toctext">check the weather</span></a> |
 | 8 | <li><a href="#Mouse form"><span class="toctext">Mouse form</span></a> |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
