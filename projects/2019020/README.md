@@ -47,10 +47,9 @@
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/chubin/wttr.in">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
-![Στιγμιότυπο οθόνης (15)](https://user-images.githubusercontent.com/74872978/106220518-56b3e500-61e4-11eb-836e-d1fa089603f7.png)
-![Στιγμιότυπο οθόνης (16)](https://user-images.githubusercontent.com/74872978/106220554-70edc300-61e4-11eb-8471-513f3c00fa6b.png)
-![Στιγμιότυπο οθόνης (17)](https://user-images.githubusercontent.com/74872978/106220569-7a772b00-61e4-11eb-8f78-77922abfa5d0.png)
-![Στιγμιότυπο οθόνης (18)](https://user-images.githubusercontent.com/74872978/106220584-82cf6600-61e4-11eb-8d39-a80b20be896a.png)
+![Στιγμιότυπο οθόνης 2021-01-29 175813](https://user-images.githubusercontent.com/74872978/106301221-20b44680-6260-11eb-8667-9c2231c266a0.png)
+![Στιγμιότυπο οθόνης 2021-01-29 180018](https://user-images.githubusercontent.com/74872978/106301294-36297080-6260-11eb-880a-fd2a5bba7013.png)
+![Στιγμιότυπο οθόνης 2021-01-29 180156](https://user-images.githubusercontent.com/74872978/106301329-42153280-6260-11eb-8ada-c6d21187ac48.png)
 
 <br><br>
 <h2><span id="Image Processing">(4) Άσκηση Προγραμματισμού - Image Processing</span></h2>
@@ -79,8 +78,8 @@
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://superuser.com/questions/477819/how-to-open-a-particular-file-from-a-terminal">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
-![Στιγμιότυπο οθόνης (19)](https://user-images.githubusercontent.com/74872978/106220630-98dd2680-61e4-11eb-802f-f16c61aaa448.png)
-![Στιγμιότυπο οθόνης (20)](https://user-images.githubusercontent.com/74872978/106220648-9f6b9e00-61e4-11eb-826b-5a0580cf1192.png)
+![Στιγμιότυπο οθόνης 2021-01-29 180454](https://user-images.githubusercontent.com/74872978/106301396-578a5c80-6260-11eb-8ebb-f2d035f049e1.png)
+![Στιγμιότυπο οθόνης 2021-01-29 180527](https://user-images.githubusercontent.com/74872978/106301440-64a74b80-6260-11eb-8f0c-2429b4c58ae1.png)
 
 <br><br>
 <h2><span id="Συμμετοχικό Περιεχόμενο Α1, Α2">(6) Συμμετοχικό Περιεχόμενο Α1, Α2</span></h2>
@@ -126,8 +125,8 @@
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://askubuntu.com/questions/178481/how-to-download-an-mp3-track-from-a-youtube-video">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
-![Στιγμιότυπο οθόνης (22)](https://user-images.githubusercontent.com/74872978/106220713-c2964d80-61e4-11eb-83b0-f5b71d264b41.png)
-![Στιγμιότυπο οθόνης (21)](https://user-images.githubusercontent.com/74872978/106220730-ccb84c00-61e4-11eb-8cce-2023ac80cfb1.png)
+![Στιγμιότυπο οθόνης 2021-01-29 180618](https://user-images.githubusercontent.com/74872978/106301532-7be63900-6260-11eb-9e17-2967738b5b34.png)
+![Στιγμιότυπο οθόνης 2021-01-29 180729](https://user-images.githubusercontent.com/74872978/106301613-915b6300-6260-11eb-9d00-387f4a782d3f.png)
 
 <br><br>
 <h2><span id="Image Zoom">(9) Άσκηση Προγραμματισμού - Image Zoom</span></h2>
@@ -156,8 +155,8 @@
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://www.vim.org/">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
-![Στιγμιότυπο οθόνης (24)](https://user-images.githubusercontent.com/74872978/106220770-e194df80-61e4-11eb-87b3-0acd8cbbd567.png)
-![Στιγμιότυπο οθόνης (23)](https://user-images.githubusercontent.com/74872978/106220782-eb1e4780-61e4-11eb-881f-99a4781f9b25.png)
+![Στιγμιότυπο οθόνης 2021-01-29 180909](https://user-images.githubusercontent.com/74872978/106301663-a59f6000-6260-11eb-818e-1feebd7c7ae9.png)
+![Στιγμιότυπο οθόνης 2021-01-29 180937](https://user-images.githubusercontent.com/74872978/106301699-afc15e80-6260-11eb-9210-cc78a50469c9.png)
 
 <br><br>
 <h2><span id="Συμμετοχικό Περιεχόμενο Β1, Β2">(11) Συμμετοχικό Περιεχόμενο Β1, Β2</span></h2>
