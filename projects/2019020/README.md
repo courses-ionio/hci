@@ -84,8 +84,7 @@
 
 <br><br>
 <h2><span id="Συμμετοχικό Περιεχόμενο Α1, Α2">(6) Συμμετοχικό Περιεχόμενο Α1, Α2</span></h2>
-<p>Χρησιμοποιήθηκε το τερματικο του λειτουργικου συστηματοσ θβθντθ για τη δημιουργια των σθβμοδθλες. Λογω δυσκολιας που αντιμετωπισα στη διμιουργια τους μετονομασα το _gallery
-σε gallery και αντιστοιχα το images σε _images.
+<p> Για αυτό το πρώτο συμμετοχικό περιεχόμενο χρησιμοποιήθηκε το τερματικό του λειτουργικού συστήματος UBUNTU για τη δημιουργία των submodules. Λόγω δυσκολίας που αντιμετώπισα στη διμιουργία τους μετονόμασα το _gallery σε gallery και αντίστοιχα το images σε _images.
   
 <a href="https://github.com/alkarvounis/gallery/blob/master/photocopier.md">Photocopier (Gallery File)</a><br>
 <a href="https://github.com/alkarvounis/gallery/blob/master/magickeyboard.md">Magic Keyboard (Gallery File)</a><br>
@@ -162,7 +161,7 @@
 
 <br><br>
 <h2><span id="Συμμετοχικό Περιεχόμενο Β1, Β2">(11) Συμμετοχικό Περιεχόμενο Β1, Β2</span></h2>
-<p>Ζητηθηκε να γραψω μια μελετη περιπτωσης και μια βιογραφια για ενα απο τα θεματα που ανεπτυξα στο προηγουμενο συμμετοχικο περιεχομενο και επελεξα αυτο της xerox.
+<p>Σε αυτό το κομμάτι της εργασίας, μου ζητήθηκε να γράψω μια μελέτη περίπτωσης και μια βιογραφία για ένα από τα θέματα που ανέπτυξα στο προηγούμενο συμμετοχικό περιεχόμενο. Επέλεξα αυτό της Xerox και κατ' επέκταση, τη βιογραφία του ιδρυτή της.
   
 <a href="https://github.com/alkarvounis/site/blob/master/_case-study/photocopier.md">Photocopier (Case Study)</a><br>
 <a href="https://github.com/alkarvounis/site/blob/master/_biography/chester-carlson.md">Chester Carlson Biography</a><br>
