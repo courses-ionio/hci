@@ -4,14 +4,14 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
-| 2 | Άσκηση προγραμματισμού <li><a href="#Άσκηση Προγραμματισμού"></span> <span class="toctext">Άσκηση Προγραμματισμού</span></a> |
-| 3 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a> |
-| 4 | Άσκηση προγραμματισμού <li><a href="#Άσκηση Προγραμματισμού"></span> <span class="toctext">Άσκηση Προγραμματισμού</span></a> |
-| 5 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a>|
+| 2 | Άσκηση προγραμματισμού <li><a href="#Keyboard-input"></span> <span class="toctext">Keyboard-input</span></a> |
+| 3 | Άσκηση γραμμής εντολών <li><a href="#fetch the weather forecast for your home city and one more city that you want to travel to"></span> <span class="toctext">fetch the weather forecast for your home city and one more city that you want to travel to</span></a> |
+| 4 | Άσκηση προγραμματισμού <li><a href="#image-3d"></span> <span class="toctext">image-3d</span></a> |
+| 5 | Άσκηση γραμμής εντολών <li><a href="#Τhe application should be similar to rtv, haxor from hci."></span> <span class="toctext">Τhe application should be similar to rtv, haxor from hci.ν</span></a>|
 | 6 | Συμμετοχικό περιεχόμενο <li><a href="#Συμμετοχικό περιεχόμενο"></span> <span class="toctext">Συμμετοχικό περιεχόμενο</span></a>|
-| 7 | Άσκηση προγραμματισμού <li><a href="#Άσκηση Προγραμματισμού"></span> <span class="toctext">Άσκηση Προγραμματισμού</span></a> |
-| 8 | Άσκηση γραμμής εντολών <li><a href="#Άσκηση γραμμής εντολών"></span> <span class="toctext">Άσκηση γραμμής εντολών</span></a>|
-| 9 | Άσκηση προγραμματισμού <li><a href="#Άσκηση Προγραμματισμού"></span> <span class="toctext">Άσκηση Προγραμματισμού</span></a>|
+| 7 | Άσκηση προγραμματισμού <li><a href="#mouse-button"></span> <span class="toctext">mouse-button</span></a> |
+| 8 | Άσκηση γραμμής εντολών <li><a href="#Set-up the main dependencies and demonstrate your base system."></span> <span class="toctext">Set-up the main dependencies and demonstrate your base system.</span></a>|
+| 9 | Άσκηση προγραμματισμού <li><a href="#mouse-form"></span> <span class="toctext">mouse-form</span></a>|
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
