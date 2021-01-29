@@ -38,7 +38,7 @@ A.M.: Π2019150
 <br><br>
 <h2><span id="search the web from the terminal">(3)search the web from the terminal (Άσκηση γραμμής εντολών)</span></h2>
 Η search the web from the terminal μία καλή πρώτη άσκηση, εξαιτίας της ευκολίας και απλότητας της. Ως εργαλείο για την υλοποίησή της χρησιμοποίησα το googler  και γράφοντας την εντολή googler και από κάτω αυτό που θέλεις να ψάξεις σου εμφανίζει τα αποτελέσματα άμεσα.
-<br><a href="https://asciinema.org/a/387889">search the web from the termina</a>
+<br><a href="https://asciinema.org/a/387889">search the web from the terminal</a>
 
 
 <br><br>
