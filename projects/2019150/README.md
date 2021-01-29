@@ -37,7 +37,7 @@ A.M.: Π2019150
 <br><br>
 <h2><span id="search the web from the terminal">(3) search the web from the terminal (Άσκηση γραμμής εντολών)</span></h2>
  Σε αυτή την Άσκηση έχω να κάνω μία αναζήτηση στο διαδύκτιο μέσω του terminal. Το εργαλείο που χησιμοποιήησα για την επίτευξη αυτού του σκοπού είναι το αρκετά εύχριστο googler. Η εγκαταστασή του ήταν εύκωλη και ομαλή καθώς και η χρήση του αφού, με την εντολή googler γίνεται η ενεργοποιησή του και στην συνέχεια το command googler -w (τι θέλω να αναζητήσω).
-<br><a href="https://asciinema.org/a/ZieIuhoEWeZw0fsb8yHJGAqE3">search the web from the terminal</a> 
+<br><a href="https://asciinema.org/a/c4Xquvi88X58pr5qr1qy9IlMA">search the web from the terminal</a> 
 
 <br><br>
 <h2><span id="Image filter">(4) Image filter(Άσκηση Προγραμματισμού)</span></h2>
