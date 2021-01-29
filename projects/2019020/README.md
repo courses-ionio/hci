@@ -47,6 +47,11 @@
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/chubin/wttr.in">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
+![Στιγμιότυπο οθόνης (15)](https://user-images.githubusercontent.com/74872978/106220518-56b3e500-61e4-11eb-836e-d1fa089603f7.png)
+![Στιγμιότυπο οθόνης (16)](https://user-images.githubusercontent.com/74872978/106220554-70edc300-61e4-11eb-8471-513f3c00fa6b.png)
+![Στιγμιότυπο οθόνης (17)](https://user-images.githubusercontent.com/74872978/106220569-7a772b00-61e4-11eb-8f78-77922abfa5d0.png)
+![Στιγμιότυπο οθόνης (18)](https://user-images.githubusercontent.com/74872978/106220584-82cf6600-61e4-11eb-8d39-a80b20be896a.png)
+
 <br><br>
 <h2><span id="Image Processing">(4) Άσκηση Προγραμματισμού - Image Processing</span></h2>
 <p>Η άσκηση αυτή είχε να κάνει με την επεξεργασία των φίλτρων μιας εικόνας ή και συνδυασμό αυτών. Ταυτόχρονα, έγινε επεξεργασία ευκρίνειας, ρύθμιση αντίθεσης κλπ. Επεξεργάστηκα το τμήματα του CSS κώδικα, αξιοποιώντας τα ήδη υπάρχοντα σχόλια.
@@ -73,6 +78,9 @@
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Οδηγίες μαθήματος σχετικά με τις ασκήσεις γραμμής εντολών.</a> 
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://superuser.com/questions/477819/how-to-open-a-particular-file-from-a-terminal">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
+
+![Στιγμιότυπο οθόνης (19)](https://user-images.githubusercontent.com/74872978/106220630-98dd2680-61e4-11eb-802f-f16c61aaa448.png)
+![Στιγμιότυπο οθόνης (20)](https://user-images.githubusercontent.com/74872978/106220648-9f6b9e00-61e4-11eb-826b-5a0580cf1192.png)
 
 <br><br>
 <h2><span id="Συμμετοχικό Περιεχόμενο Α1, Α2">(6) Συμμετοχικό Περιεχόμενο Α1, Α2</span></h2>
@@ -119,6 +127,9 @@
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://askubuntu.com/questions/178481/how-to-download-an-mp3-track-from-a-youtube-video">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
+![Στιγμιότυπο οθόνης (22)](https://user-images.githubusercontent.com/74872978/106220713-c2964d80-61e4-11eb-83b0-f5b71d264b41.png)
+![Στιγμιότυπο οθόνης (21)](https://user-images.githubusercontent.com/74872978/106220730-ccb84c00-61e4-11eb-8cce-2023ac80cfb1.png)
+
 <br><br>
 <h2><span id="Image Zoom">(9) Άσκηση Προγραμματισμού - Image Zoom</span></h2>
 <p>Η συγκεκριμένη άσκηση αφορά την επεξεργασία μιας εικόνας όσον αφορά στη μεγέθυνση της, αλλά και στην εφαρμογή φίλτρων με το πέρασμα του κέρσορα από πάνω της. Συνεπώς, δεν αλλάχτηκε ο ήδη υπάρχων κώδικας, προστέθηκε όμως κομμάτι CSS κώδικα από προηγούμενη άσκηση επεξεργασίας φίλτρων εικόνας.
@@ -146,8 +157,11 @@
 <br> <a href="https://github.com/epidrome/dokey">Ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://www.vim.org/">Βοήθεια για τη διεκπεραίωση της άσκησης.</a></ul>
 
+![Στιγμιότυπο οθόνης (24)](https://user-images.githubusercontent.com/74872978/106220770-e194df80-61e4-11eb-87b3-0acd8cbbd567.png)
+![Στιγμιότυπο οθόνης (23)](https://user-images.githubusercontent.com/74872978/106220782-eb1e4780-61e4-11eb-881f-99a4781f9b25.png)
+
 <br><br>
-<h2><span id="Συμμετοχικό Περιεχόμενο Β1, Β2">(6) Συμμετοχικό Περιεχόμενο Β1, Β2</span></h2>
+<h2><span id="Συμμετοχικό Περιεχόμενο Β1, Β2">(11) Συμμετοχικό Περιεχόμενο Β1, Β2</span></h2>
 <p>Ζητηθηκε να γραψω μια μελετη περιπτωσης και μια βιογραφια για ενα απο τα θεματα που ανεπτυξα στο προηγουμενο συμμετοχικο περιεχομενο και επελεξα αυτο της xerox.
   
 <a href="https://github.com/alkarvounis/site/blob/master/_case-study/photocopier.md">Photocopier (Case Study)</a><br>
