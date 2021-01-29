@@ -95,7 +95,7 @@ A.M.: Π2019150
 <br><br>
 <h2><span id="text editor and plug-ins for code highlighting and autocompletion">(9) text editor and plug-ins for code highlighting and autocompletion (Άσκηση γραμμής εντολών)</span></h2>
  Για τελευταία άσκηση γραμμής εντολών επέλεξα την text editor and plug-ins for code highlighting and autocompletion η οποία ήταν λίγο πιο πολύπλοκη από τις υπόλοιπες ασκήσεις. Σε αυτή την άσκηση γίνεται εκμάθηση της εγκατάστασης και χρήσης της εντολής vim που χρησιμοποιείται για το άνοιγμα και επεξεργασία αρχείων κειμένου όπως π.χ. .txt όπως στο sciinema. Αρχικά γίνεται πρόσβαση στον φάκελο του αρχείου στο terminal  με την εντολή cd. Τέλος αφού φτάσουμε στο χώρο που βρίσκεται το επιθυμητό αρχείο χρησιμοποιούμε την εντολή vim "όνομα αρχείου" και το αρχείο ανοίγει για ανάγνωση και επεξεργασία.
-
+<br><a href="https://asciinema.org/a/387927">text editor and plug-ins for code highlighting and autocompletion</a>
 
 <br><br>
 <h2><span id="Τελική αναφορά">(12) Τελική αναφορά*</span></h2>
