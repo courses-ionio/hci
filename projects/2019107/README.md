@@ -48,6 +48,8 @@ AM:Π2019107
 <br> <a href="https://courses-ionio.github.io/projects/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/epidrome/dokey">Η λίστα διαθέσιμων ασκήσεων.</a></ul>
 
+![Weather - asciinema - Google Chrome 29_1_2021 5_56_22 μμ](https://user-images.githubusercontent.com/72518532/106298163-3de71600-625c-11eb-822c-4d3081cc6996.png)
+
 <br><br>
 <h2><span id="Ιmage zoom">(4)  (Άσκηση Προγραμματισμού-Ιmage zoom)</span></h2>
 <p>Η συγκεκριμένη άσκηση περιλαμβάνει μια εικόνα μιας γάτας στην οποία γινόταν μεγένθυση όταν ο κέρσορας πέρναγε πάνω της και μας δώθηκε η επιλογή να 
