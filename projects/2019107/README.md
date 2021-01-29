@@ -48,7 +48,7 @@ AM:Π2019107
 <br> <a href="https://courses-ionio.github.io/projects/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/epidrome/dokey">Η λίστα διαθέσιμων ασκήσεων.</a></ul>
 
-![Weather - asciinema - Google Chrome 29_1_2021 5_56_22 μμ](https://user-images.githubusercontent.com/72518532/106298163-3de71600-625c-11eb-822c-4d3081cc6996.png)
+![Weather - asciinema - Google Chrome 29_1_2021 5_56_22 μμ](https://user-images.githubusercontent.com/72518532/106298763-fa40dc00-625c-11eb-8fbd-42725b1a4590.png)
 
 <br><br>
 <h2><span id="Ιmage zoom">(4)  (Άσκηση Προγραμματισμού-Ιmage zoom)</span></h2>
@@ -74,6 +74,8 @@ AM:Π2019107
 <br> <a href="https://asciinema.org/">Asciinema</a>
 <br> <a href="https://courses-ionio.github.io/projects/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/epidrome/dokey">Η λίστα διαθέσιμων ασκήσεων.</a></ul>
+
+![file opener](https://user-images.githubusercontent.com/72518532/106298776-ff9e2680-625c-11eb-8e99-94ce93d64ecb.png)
 
 <br><br>
 <h2><span id="Συμμετοχικό Περιεχόμενο Α1-Α2">(6)  (Συμμετοχικό Περιεχόμενο Α1-Α2)</span></h2>
@@ -117,6 +119,8 @@ AM:Π2019107
 <br> <a href="https://courses-ionio.github.io/projects/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/epidrome/dokey">Η λίστα διαθέσιμων ασκήσεων.</a></ul>
 
+![text editor](https://user-images.githubusercontent.com/72518532/106298769-fb720900-625c-11eb-9293-6d4a48b6c0d9.png)
+
 <br><br>
 <h2><span id="Button">(9)  (Άσκηση Προγραμματισμού-Button)</span></h2>
 <p>Στην άσκηση προγραμματισμου μας δώθηκε ένα κουμπι το οποιο επρεπε εμεις να δώσουμε μια λειτουργεία.Για την εκτέλεση της εργασίας 
@@ -141,6 +145,8 @@ AM:Π2019107
 <br> <a href="https://asciinema.org/">Asciinema</a>
 <br> <a href="https://courses-ionio.github.io/projects/dokey">Λίστα με τις ασκήσεις γραμμής εντολών.</a>
 <br> <a href="https://github.com/epidrome/dokey">Η λίστα διαθέσιμων ασκήσεων.</a></ul>
+
+![notes](https://user-images.githubusercontent.com/72518532/106298771-fca33600-625c-11eb-8193-a6c0a8b0bf8b.png)
 
 <br><br>
 <h2><span id="Συμμετοχικό Περιεχόμενο Β1-Β2">(11)  (Συμμετοχικό Περιεχόμενο Β1-Β2)</span></h2>
