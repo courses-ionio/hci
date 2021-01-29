@@ -11,7 +11,7 @@ A.M.: Π2019150
 | 6 | <li><a href="#Image"><span class="toctext">Image</span></a> |
 | 7 | <li><a href="#check the weather"><span class="toctext">check the weather</span></a> |
 | 8 | <li><a href="#Mouse form"><span class="toctext">Mouse form</span></a> |
-| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 9 | <li><a href="#text editor and plug-ins for code highlighting and autocompletion"><span class="toctext">text editor and plug-ins for code highlighting and autocompletion</span></a> |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | <li><a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a> |
@@ -90,6 +90,12 @@ A.M.: Π2019150
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού</a>
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού</a>
 <br> <a href="https://pibook.epidro.me/remix/mouse-form/">Eκφώνηση</a></ul>
+
+
+<br><br>
+<h2><span id="text editor and plug-ins for code highlighting and autocompletion">(9) text editor and plug-ins for code highlighting and autocompletion (Άσκηση γραμμής εντολών)</span></h2>
+ Για τελευταία άσκηση γραμμής εντολών επέλεξα την text editor and plug-ins for code highlighting and autocompletion η οποία ήταν λίγο πιο πολύπλοκη από τις υπόλοιπες ασκήσεις. Σε αυτή την άσκηση γίνεται εκμάθηση της εγκατάστασης και χρήσης της εντολής vim που χρησιμοποιείται για το άνοιγμα και επεξεργασία αρχείων κειμένου όπως π.χ. .txt όπως στο sciinema. Αρχικά γίνεται πρόσβαση στον φάκελο του αρχείου στο terminal  με την εντολή cd. Τέλος αφού φτάσουμε στο χώρο που βρίσκεται το επιθυμητό αρχείο χρησιμοποιούμε την εντολή vim "όνομα αρχείου" και το αρχείο ανοίγει για ανάγνωση και επεξεργασία.
+
 
 <br><br>
 <h2><span id="Τελική αναφορά">(12) Τελική αναφορά*</span></h2>
