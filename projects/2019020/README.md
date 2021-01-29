@@ -83,7 +83,7 @@
 
 <br><br>
 <h2><span id="Συμμετοχικό Περιεχόμενο Α1, Α2">(6) Συμμετοχικό Περιεχόμενο Α1, Α2</span></h2>
-<p> Για αυτό το πρώτο συμμετοχικό περιεχόμενο χρησιμοποιήθηκε το τερματικό του λειτουργικού συστήματος UBUNTU για τη δημιουργία των submodules. Λόγω δυσκολίας που αντιμετώπισα στη διμιουργία τους μετονόμασα το _gallery σε gallery και αντίστοιχα το images σε _images.
+<p> Για αυτό το πρώτο συμμετοχικό περιεχόμενο χρησιμοποιήθηκε το τερματικό του λειτουργικού συστήματος UBUNTU για τη δημιουργία των submodules. Λόγω δυσκολίας που αντιμετώπισα στη δημιουργία τους μετονόμασα το _gallery σε gallery και αντίστοιχα το images σε _images.
   
 <a href="https://github.com/alkarvounis/gallery/blob/master/photocopier.md">Photocopier (Gallery File)</a><br>
 <a href="https://github.com/alkarvounis/gallery/blob/master/magickeyboard.md">Magic Keyboard (Gallery File)</a><br>
