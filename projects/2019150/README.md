@@ -34,10 +34,18 @@ A.M.: Π2019150
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού</a>
 <br> <a href="https://pibook.epidro.me/remix/image-zoom/">Eκφώνηση</a></ul>
 
+
 <br><br>
 <h2><span id="search the web from the terminal">(3) search the web from the terminal (Άσκηση γραμμής εντολών)</span></h2>
  Σε αυτή την Άσκηση έχω να κάνω μία αναζήτηση στο διαδύκτιο μέσω του terminal. Το εργαλείο που χησιμοποιήησα για την επίτευξη αυτού του σκοπού είναι το αρκετά εύχριστο googler. Η εγκαταστασή του ήταν εύκωλη και ομαλή καθώς και η χρήση του αφού, με την εντολή googler γίνεται η ενεργοποιησή του και στην συνέχεια το command googler -w (τι θέλω να αναζητήσω).
 <br><a href="https://asciinema.org/a/c4Xquvi88X58pr5qr1qy9IlMA">search the web from the terminal</a> 
+
+
+<br><br>
+<h2><span id="download mp3">(3) search the web from the terminal (Άσκηση γραμμής εντολών)</span></h2>
+ Ως δεύτερη άσκηση διάλεξα κάτι πιο δύσκολο την άσκηση την download mp3 που για την υλοποιησή της χρησιμοποίησα το εργαλείο yt-dl. Αρχικά αντιμετόπισα κάποια προβλήματα εξαιτίας του ότι χρειαζόταν να έχω μία συγκεκριμένη έκδοση της python στο terminal και εγώ κατέβασα άλλη, παρ'όλα αυτά μετά από ωάξιμο σε διάφορα forum  βρήκα ότι η απάντηση ήταν η εγκατάσταση της python 2.7 και μετά από αυτό η εγκατάσταση έγινε και τα βίντεο όλα λειτουργούν.
+<br><a href="https://asciinema.org/a/387892">download mp3</a>
+
 
 <br><br>
 <h2><span id="Image filter">(4) Image filter(Άσκηση Προγραμματισμού)</span></h2>
