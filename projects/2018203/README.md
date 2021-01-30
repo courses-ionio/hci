@@ -12,7 +12,7 @@
 | 7 | Άσκηση προγραμματισμού <li><a href="#mouse-button"></span> <span class="toctext">mouse-button</span></a> |
 | 8 | Άσκηση γραμμής εντολών <li><a href="#Set-up the main dependencies and demonstrate your base system."></span> <span class="toctext">Set-up the main dependencies and demonstrate your base system.</span></a>|
 | 9 | Άσκηση προγραμματισμού <li><a href="#mouse-form"></span> <span class="toctext">mouse-form</span></a>|
-| 10 | Άσκηση γραμμής εντολών |
+| 10 | Άσκηση γραμμής εντολών <li><a href="#browse and view files on your system"></span> <span class="toctext">Browse and view files on your system</span></a>|
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
@@ -38,7 +38,7 @@
 
 <i><a href="https://asciinema.org/a/387806" tittle="fetch the weather forecast for your home city and one more city that you want to travel to">fetch the weather forecast for your home city and one more city that you want to travel to</a></i>
 
-* [asciinema] (https://asciinema.org/a/371364)
+* [asciinema] (https://asciinema.org/~ranastasiou)
 
 Σκοπός της  πρώτης άσκησης γραμμής εντολών ήταν η εμφάνιση του καιρού στην πόλη μου και στην πόλη που θα ήθελα να ταξιδέψω.
 
@@ -55,7 +55,7 @@
 
 <i><a href="https://asciinema.org/a/387810" tittle="Τhe application should be similar to rtv, haxor from hci.">Τhe application should be similar to rtv, haxor from hci.</a></i>
 
-* [asciinema] (https://asciinema.org/a/377498)
+* [asciinema] (https://asciinema.org/~ranastasiou)
 
 Σε ακόμα μια άσκηση γραμμής εντολών καταφέραμε να υλοποιήσουμε ένα πρόγραμμα με όνομα "Hello" το οποίο να ζητάει το όνομα μας και επομένως να το τρέξουμε στο Terminal.
 
@@ -97,7 +97,11 @@
 
 Σε αυτόν τον διαδραστικό κώδικα, χρησιμοποιώντας το ποντίκι ως συσκευή εισόδου για τη συμπλήρωση της φόρμας, μας δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη.
 
+<h2><span id="Άσκηση γραμμής εντολών">Άσκηση γραμμής εντολών</span></h2>
 
+<i><a href="https://asciinema.org/a/388089" tittle="browse and view files on your system.">browse and view files on your system.</a></i>
+
+* [asciinema] (https://asciinema.org/~ranastasiou)
 
 | Βιβλιογραφία |
 * [Λίστα ασκήσεων Προγραμματισμού] (https://pibook.epidro.me/remix/) |
