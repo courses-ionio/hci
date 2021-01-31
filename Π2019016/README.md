@@ -1,7 +1,7 @@
 ΘΩΜΑΣ ΘΕΟΔΟΣΙΟΥ Π2019016
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | Περιγραφη στόχων|
+| 1 | [Περιγραφη στόχων](Περιγραφή-στόχων)|
 | 2 |[Mouse eraser excersize](#Mouse-eraser-excercise)|
 | 3 |[Command line](#Command-line)|
 | 4 |[Css circle menu](#Css-Circle-Menu-Excercise) |
