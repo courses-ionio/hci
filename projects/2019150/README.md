@@ -40,6 +40,13 @@ A.M.: Π2019150
  Η search the web from the terminal μία καλή πρώτη άσκηση, εξαιτίας της ευκολίας και απλότητας της. Ως εργαλείο για την υλοποίησή της χρησιμοποίησα το googler  και γράφοντας την εντολή googler και από κάτω αυτό που θέλεις να ψάξεις σου εμφανίζει τα αποτελέσματα άμεσα.
 <br><a href="https://asciinema.org/a/387889">search the web from the terminal</a>
 
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<br> <a href="https://asciinema.org">asciinema</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Πως να κάνω τις ασκήσεις γραμμής εντολών</a>
+<br> <a href="https://github.com/epidrome/dokey">Λίστα ασκήσεων ασκήσεις γραμμής εντολών</a>
+<br> <a href="https://itsfoss.com/review-googler-linux/">Πηγή πληροφοριών</a></ul>
+
+
 
 <br><br>
 <h2><span id="Image filter">(4) Image filter(Άσκηση Προγραμματισμού)</span></h2>
