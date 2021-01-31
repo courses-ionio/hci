@@ -45,6 +45,7 @@ A.M.: Π2019150
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Πως να κάνω τις ασκήσεις γραμμής εντολών</a>
 <br> <a href="https://github.com/epidrome/dokey">Λίστα ασκήσεων ασκήσεις γραμμής εντολών</a>
 <br> <a href="https://itsfoss.com/review-googler-linux/">Πηγή πληροφοριών</a></ul>
+
 ![googler](https://user-images.githubusercontent.com/72516045/106394277-7295d180-6404-11eb-85d0-b87f2f7f12e2.png)
 
 
@@ -71,6 +72,7 @@ A.M.: Π2019150
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Πως να κάνω τις ασκήσεις γραμμής εντολών</a>
 <br> <a href="https://github.com/epidrome/dokey">Λίστα ασκήσεων ασκήσεις γραμμής εντολών</a>
 <br> <a href="https://linuxconcept.com/how-to-install-youtube-dl-on-ubuntu-20-04-linux-operating-system/">Πηγή πληροφοριών</a></ul>
+
 ![ytmp3](https://user-images.githubusercontent.com/72516045/106394261-58f48a00-6404-11eb-9ee4-da4c390dc535.png)
 
 
@@ -113,6 +115,7 @@ A.M.: Π2019150
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Πως να κάνω τις ασκήσεις γραμμής εντολών</a>
 <br> <a href="https://github.com/epidrome/dokey">Λίστα ασκήσεων ασκήσεις γραμμής εντολών</a>
 <br> <a href="https://sourcedigit.com/19452-wttr-in-weather-app-for-ubuntu-linux/">Πηγή πληροφοριών</a></ul>
+
 ![kairossss](https://user-images.githubusercontent.com/72516045/106394220-29de1880-6404-11eb-9f4c-f6b5c6c0fd6b.png)
 
 
@@ -139,6 +142,7 @@ A.M.: Π2019150
 <br> <a href="https://courses-ionio.github.io/projects/dokey/">Πως να κάνω τις ασκήσεις γραμμής εντολών</a>
 <br> <a href="https://github.com/epidrome/dokey">Λίστα ασκήσεων ασκήσεις γραμμής εντολών</a>
 <br> <a href="https://phoenixnap.com/kb/how-to-install-vim-ubuntu">Πηγή πληροφοριών</a></ul>
+
 ![vim](https://user-images.githubusercontent.com/72516045/106394289-89d4bf00-6404-11eb-9dd1-191ea866dd38.png)
 
 
