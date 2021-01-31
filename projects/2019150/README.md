@@ -3,7 +3,7 @@ A.M.: Π2019150
 <br>Ονοματεπώνυμο: Χαράλαμπος Σαρακατσάνης
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a> |
+| 1 | <li><a href="#Εισαγωγή μαθήματος"><span class="toctext">Εισαγωγή μαθήματος</span></a> |
 | 2 | <li><a href="#Image zoom"><span class="toctext">Image zoom</span></a> |
 | 3 | <li><a href="#search the web from the terminal"><span class="toctext">search the web from the terminal</span></a>  |
 | 4 | <li><a href="#Image filter"><span class="toctext">Image filter</span></a> |
