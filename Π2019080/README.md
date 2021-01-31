@@ -116,7 +116,7 @@
 
 [![asciicast](https://asciinema.org/a/yf1oART7YpzlQYpzqVGO56xQU.svg)](https://asciinema.org/a/yf1oART7YpzlQYpzqVGO56xQU)
 
-**_Και με την χρήση του MPV και του τερματικού, μπορώ να παίξω το τραγούδι: _**
+**_Και με την χρήση του MPV και του τερματικού, μπορώ να παίξω το τραγούδι:_**
 ![youtube-dl gif](https://user-images.githubusercontent.com/72515787/104264248-f3138300-5493-11eb-9c01-38d21ade555b.gif)
 
 
