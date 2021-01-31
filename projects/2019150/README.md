@@ -100,7 +100,7 @@ A.M.: Π2019150
 <p>
  Ως τελευταία άσκηση προγραμματισμού επέλεξα την Mouse form. Σε σχέση με την τρίτη (image) μπορώ να πω πως ήταν πάρα πολύ πιο εύκολη, καθώς οι βασικές εντολές που έπρεπε να χρησιμοποιήσω υπήρχαν από πριν και έπρεπε να τις βρω και αξιοποιήσω. Σε αυτή την άσκηση δίνεται μία φόρμα με τρία κελιά (χρονιά - μήνας - μέρα) και πρέπει να δημιουργήσω ένα τέταρτο κελί που θα έχει για επιλογές τα δύο φύλα. Για πραγματοποίηση επιλογής σε κάθε κελί ως συσκευή εισόδου θα χρησιμοποιείτε το ποντίκι.
 <br><a href="https://github.com/bananabankai/site/blob/master/_remix/mouse-form.md">Mouse form </a>
-<br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image/">Image filter</a>
+<br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/mouse-form/">Mouse form λύση</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού</a>
