@@ -258,6 +258,58 @@ https://github.com/Thanozz/site/blob/master/_remix/image-filter.md
 
 https://2019239.netlify.app
 
+Στην Άσκηση γραμμής εντολών 2 που φαίνεται παρακάτω πραγματοποίησα την άσκηση όπου κατεβάζεις και αναπαράγεις τραγούδι από το youtube μέσω terminal με τη χρήση εργαλείων όπως το youtube-dl και το mpv. Σχετικά με την καταγραφή της οθόνης χρησιμοποίησα εφαρμογή του υπολογιστή.
+
+[![asciicast](https://asciinema.org/a/TiQFb9PNyNOfs3UMwzEEGdiWR.svg)](https://asciinema.org/a/TiQFb9PNyNOfs3UMwzEEGdiWR)
+
+Στο Συμμετοχικό περιεχόμενο 1 με απασχόλησαν εμπορικά επιτυχημένες συσκευές προηγούμενων δεκαετιών. 
+Έτσι ασχολήθηκα με τον μικροϋπολογιστή Amstrad CPC 464 που πρωτοπαρουσιάστηκε τη δεκαετία του ΄80.
+
+https://github.com/Thanozz/_gallery/blob/master/amstrad-cpc-464.md
+
+Αλλά και με τη κονσόλα βιντεοπαιχνιδιών Sony Playstation 1 που πρωτοκυκλοφόρησε τη δεκατία του ΄90.
+https://github.com/Thanozz/_gallery/blob/master/sony-playstation.md
+
+Και οι δύο είχαν σημαντική επιρροή και αποδοχή στο χώρο των βιντεοπαιχνιδιών της εποχής τους.
+
+Στην Άσκηση προγραμματισμού 3 ασχολήθηκα με την άσκηση Form Validation. Ζητάμε το χρήστη να δώσει email, στοιχεία πιστωτικής κάρτας και τηλέφωνο. Όλα αυτά παρουσιάζονται στο παρακάτω link:
+
+https://github.com/Thanozz/site/blob/master/_remix/form-validation.md
+
+Χρειάστηκα βοήθεια, κυρίως για το e-mail. Tο παρακάτω link φάνηκε πολύ χρήσιμο:
+
+https://www.sitepoint.com/client-side-form-validation-html5/
+
+Η παραπάνω φόρμα βρίσκεται και στο fork του αποθετηρίου του βιβλίου "Ο προγραμματισμός της διάδρασης" στις ασκήσεις του drop down menu.
+
+https://2019239.netlify.app/remix/form-validation/
+
+Στην Άσκηση προγραμματισμού 4 πραγματοποίησα τις παρακάτω δύο ασκήσεις
+
+* Άσκηση 1
+
+Ασχολήθηκα με την άσκηση Menu Scroll. Πραγματοποιήθηκε δημιουργία ενός επιπλέον στοιχείου στο μενού (Section 05) και μια αντίστοιχη ενότητα/κεφάλαιο στο τέλος της σελίδας. Ακόμα εφαρμόστηκε η λειτουργία scroll-to συνδέοντας το μενού με την καινούρια ενότητα/κεφάλαιο. Όλα αυτά παρουσιάζονται στο παρακάτω link:
+
+https://github.com/Thanozz/site/blob/master/_remix/menu-scroll.md
+
+Η παραπάνω φόρμα βρίσκεται και στο fork του αποθετηρίου του βιβλίου "Ο προγραμματισμός της διάδρασης" στις ασκήσεις του drop down menu.
+
+https://2019239.netlify.app/remix/menu-scroll/
+
+* Άσκηση 2
+
+Υλοποιήθηκε η άσκηση YouTube Video Player. Αυτή η άσκηση ζητάει να δημιουργηθούν δύο κουμπιά, ένα για αναπαραγωγή (Play) και ένα για παύση (Pause) του μουσικού βίντεο. Το αποτέλεσμα παρουσιάζεται στο παρακάτω link:
+
+https://github.com/Thanozz/site/blob/master/_remix/youtube-video-player.md
+
+Για την πραγματοποίηση της άσκησης χρησιμοποίησα συμβουλευτικά το παρακάτω link:
+
+https://codepen.io/AmrSubZero/pen/oLOYrA
+
+Ακόμα η παραπάνω άσκηση υπάρχει και στο fork του αποθετηρίου του βιβλίου "Ο προγραμματισμός της διάδρασης" στις ασκήσεις του drop down menu.
+
+https://2019239.netlify.app/remix/youtube-video-player/
+
 
 
 Αποτελέσματα με λεζάντες σε ενδεικτικές οθόνες, asciinema, και animated gif
