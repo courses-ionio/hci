@@ -83,7 +83,9 @@
 ## Άσκηση προγραμματισμου Mouse Form
 **_Με την χρήση της HTML δημιουργο΄ύμε μια απλή φόρμα που ο χρήστης μπορεί να συμπληρώσει την ημερομηνία γέννησής του καθώς και το φύλλο._**
 ![MouseForm](https://user-images.githubusercontent.com/72515787/100359304-06f84800-3000-11eb-86be-484b20bf01aa.gif)
+
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)_**
+**_Link Netlify: https://60108374e29b630008f5ede5--adoring-poincare-2efdc8.netlify.app/remix/mouse-form/_**
 
 
 # Παραδοτέο 7ο 
