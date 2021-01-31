@@ -45,7 +45,7 @@ A.M.: Π2019150
 <h2><span id="Image filter">(4) Image filter(Άσκηση Προγραμματισμού)</span></h2>
 <p>
  Σε αυτή την άσκηση πρέπει να αλλάξουμε το filter μίας εικόνας όταν τοποθετούμε το ποντίκι σε αυτή. Αυτό έγινε με την βοήθεια των εντολών που υπήρχαν στα σχόλια του css και αξιοποιήθηκαν μέσα στην εντολή img:hover. Για την υλοποίηση χρησιμοποιήθηκαν css και html και Θα μπορούσα να πω πως η άσκηση ήταν αρκετά εύκολη αφού όλα όσα χρειαζόμασταν υπήρχαν στα σχόλια.
-<br><a href="https://github.com/bananabankai/site/edit/master/_remix/image-filter.md">Image filter</a>
+<br><a href="https://github.com/bananabankai/site/blob/master/_remix/image-filter.md">Image filter</a>
 <br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image-filter/">Image filter</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen</a>
