@@ -13,7 +13,7 @@ A.M.: Π2019150
 | 8 | <li><a href="#Mouse form"><span class="toctext">Mouse form</span></a> |
 | 9 | <li><a href="#text editor and plug-ins for code highlighting and autocompletion"><span class="toctext">text editor and plug-ins for code highlighting and autocompletion</span></a> |
 | 10 | <li><a href="#Συμμετοχικό Περιεχόμενο (Α1-Α2)"><span class="toctext">Συμμετοχικό Περιεχόμενο (Α1-Α2)</span></a> |
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
+| 11 | <li><a href="#Συμμετοχικό Περιεχόμενο (Β1-Β2)"><span class="toctext">Συμμετοχικό Περιεχόμενο (Β1-Β2)</span></a> |
 | 12 | <li><a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a> |
 
 
