@@ -22,7 +22,9 @@
 ## Άσκηση προγραμματισμού διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως σβηστήρι (Mouse Eraser)
 **_Η παρακάτω άσκηση ειναι μία απλή εισαγωγή στο χώρο του codepen η οποία χωρίς ιδιαίτερη δυσκολία καθιστά τον χρήστη ικανό να μπορεί να υλοποιήσει τις επερχόμενες ιδέες του με μεγαλύτερη αποτελεσματικότητα χρησιμοποιώντας τις γλώσσες html και java._**
 ![MouseEraser](https://user-images.githubusercontent.com/72515787/100358989-9b15df80-2fff-11eb-88be-03eccd8cf246.gif)
+
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)_**
+
 
 
 
@@ -63,11 +65,12 @@
 
 
 # Παραδοτέο 4ο
-## Άσκηση προγραμματισμού Menu Pie 
+## Άσκηση προγραμματισμού Διαδραστικού παραδείγματπς πολύπλοκου κυκλικού μενού (Menu Pie) 
 **_Η ακόλουθη άσκηση βοηθά στην ανάλυση της html με μεγαλύτερη έμφαση και αποδοτικότητα προκείμενου να επιτευχθεί ο ζητούμενος περιορισμός του υπάρχοντος μενού._**
 ![MenuPie](https://user-images.githubusercontent.com/72515787/100359178-e03a1180-2fff-11eb-87c3-38b0723a1064.gif)
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/menu-pie.md)_**
-**_Netlify link: https://60108374e29b630008f5ede5--adoring-poincare-2efdc8.netlify.app/remix/menu-pie/
+
+**_Netlify link: https://60108374e29b630008f5ede5--adoring-poincare-2efdc8.netlify.app/remix/menu-pie/_**
 
 
 
@@ -80,12 +83,13 @@
 
 
 # Παραδοτέο 6ο
-## Άσκηση προγραμματισμου Mouse Form
+## Άσκηση προγραμματισμου Παράδειγμα εισόδου μέσω της συσκευής Ποντίκι (Mouse Form)
 **_Με την χρήση της HTML δημιουργο΄ύμε μια απλή φόρμα που ο χρήστης μπορεί να συμπληρώσει την ημερομηνία γέννησής του καθώς και το φύλλο._**
 ![MouseForm](https://user-images.githubusercontent.com/72515787/100359304-06f84800-3000-11eb-86be-484b20bf01aa.gif)
 
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)_**
-**_Link Netlify: https://60108374e29b630008f5ede5--adoring-poincare-2efdc8.netlify.app/remix/mouse-form/_**
+
+**_Netlify link: https://60108374e29b630008f5ede5--adoring-poincare-2efdc8.netlify.app/remix/mouse-form/_**
 
 
 # Παραδοτέο 7ο 
@@ -104,11 +108,13 @@
 
 
 # Παραδοτέο 8ο
-## Άσκηση προγραμματισμού Mouse Option
+## Άσκηση προγραμματισμού Αλλαγής δυναμικού περιεχομένου (Mouse Option)
 **_Σε αυτο το σημείο η χρήση της html γίνεται πιο εκτενής και για να επιλυθεί η άσκηση πρέπει να γινεί εισαγωγή δεδομένων απο διαφορετικά μέσα_**
 ![Mouse option](https://user-images.githubusercontent.com/72515787/101266711-4c341c80-375a-11eb-8fba-91112976e057.gif)
 
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-option.md)_**
+
+**_Netlify link: https://60108374e29b630008f5ede5--adoring-poincare-2efdc8.netlify.app/remix/mouse-option/_**
 
 
 # Παραδοτέο 9ο
