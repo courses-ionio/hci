@@ -8,11 +8,11 @@ A.M.: Π2019150
 | 3 | <li><a href="#search the web from the terminal"><span class="toctext">search the web from the terminal</span></a>  |
 | 4 | <li><a href="#Image filter"><span class="toctext">Image filter</span></a> |
 | 5 | <li><a href="#download mp3"><span class="toctext">download mp3</span></a> |
-| 6 | <li><a href="#Image"><span class="toctext">Image</span></a> |
-| 7 | <li><a href="#check the weather"><span class="toctext">check the weather</span></a> |
-| 8 | <li><a href="#Mouse form"><span class="toctext">Mouse form</span></a> |
-| 9 | <li><a href="#text editor and plug-ins for code highlighting and autocompletion"><span class="toctext">text editor and plug-ins for code highlighting and autocompletion</span></a> |
-| 10 | <li><a href="#Συμμετοχικό Περιεχόμενο (Α1-Α2)"><span class="toctext">Συμμετοχικό Περιεχόμενο (Α1-Α2)</span></a> |
+| 6 | <li><a href="#Συμμετοχικό Περιεχόμενο (Α1-Α2)"><span class="toctext">Συμμετοχικό Περιεχόμενο (Α1-Α2)</span></a> |
+| 7 | <li><a href="#Image"><span class="toctext">Image</span></a> |
+| 8 | <li><a href="#check the weather"><span class="toctext">check the weather</span></a> |
+| 9 | <li><a href="#Mouse form"><span class="toctext">Mouse form</span></a> |
+| 10 | <li><a href="#text editor and plug-ins for code highlighting and autocompletion"><span class="toctext">text editor and plug-ins for code highlighting and autocompletion</span></a> |
 | 11 | <li><a href="#Συμμετοχικό Περιεχόμενο (Β1-Β2)"><span class="toctext">Συμμετοχικό Περιεχόμενο (Β1-Β2)</span></a> |
 | 12 | <li><a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a> |
 
@@ -61,7 +61,23 @@ A.M.: Π2019150
 
 
 <br><br>
-<h2><span id="Image">(6) Image (Άσκηση Προγραμματισμού)</span></h2>
+<h2><span id="Συμμετοχικό Περιεχόμενο (Α1-Α2)">(6) Συμμετοχικό Περιεχόμενο (Α1-Α2)</span></h2>
+ Από το πρώτο συμμετοχικό υλικό έμαθα πώς να χρησιμοποιώ το terminal για να φτιάξω τα submodules που χρειάζονται για το gallery και το images. Επειδή υπήρχαν προβλήματα άλλαξα το όνομα του gallery_ σε gallery και του images σε images_ . Τέλος από την έρευνα για τα i9Processor.md και graphics-card.md έμαθα κάτι παραπάνω για την αξιολόγηση του harware.
+<br><a href="https://github.com/bananabankai/gallery/blob/master/intel-i9Processor.md">Το κείμενο i9-10900k  </a>
+<br><a href="https://github.com/bananabankai/gallery/blob/master/graphics-card.md">Το κείμενο Graphics card rtx 3090</a>
+<br><a href="https://github.com/bananabankai/images_/blob/master/10TH%20GEN%20CORE%20i9%20UNLOCKED.jpg">Εικόνα από το κείμενο i9-10900k </a>
+<br><a href="https://github.com/bananabankai/images_/blob/master/nvidia%20geforce%20RTX%203090.jpg">Εικόνα από το κείμενο Graphics card rtx 3090</a>
+<br><a href="https://github.com/bananabankai/site/blob/master/_slides/PC-parts.md">Τα slides </a>
+
+
+<h6>Βιβλιογραφία </h6>
+<br> <a href="https://courses-ionio.github.io/projects/social/">Πως να κάνω τo συμμετοχικό περιεχόμενο</a>
+<br> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Πως να βάλω submodules(asciinema)</a>
+<br> <a href="https://ark.intel.com/content/www/us/en/ark/products/199332/intel-core-i9-10900k-processor-20m-cache-up-to-5-30-ghz.html">Πηγή για το κείμενο i9-10900k</a>
+<br> <a href="https://www.techspot.com/review/2105-geforce-rtx-3090/">Πηγή για το κείμενο Graphics card rtx 3090</a>
+
+<br><br>
+<h2><span id="Image">(7) Image (Άσκηση Προγραμματισμού)</span></h2>
 <p>
   Στην συγκεκριμένη άσκηση μας δίνετε μία εικόνα svg και πρέπει να δημιουργήσουμε έναν "κλώνο" της μισού μεγέθους δίπλα. Αυτό επιτεύχθηκε  με την εντολή viewbox. Ενώ αρχικά οι αλλαγές των height και width δεν δούλευαν όπως θα ήθελα, μετά από αρκετή έρευνα βρέθηκε η εντολή viewbox. Μέσω αυτής τα height και width έγιναν αυτό που θέλουμε με κάποιες ακόμα δυνατότητες του υπάρχουν στο εσωτερικό της εντολής (μετακίνηση). 
 <br><a href="https://github.com/bananabankai/site/blob/master/_remix/image.md">Image </a>
@@ -74,13 +90,13 @@ A.M.: Π2019150
 
 
 <br><br>
-<h2><span id="check the weather">(7) check the weather (Άσκηση γραμμής εντολών)</span></h2>
+<h2><span id="check the weather">(8) check the weather (Άσκηση γραμμής εντολών)</span></h2>
  Η τρίτη άσκηση επέλεξα έκανα είναι η check the weather. Σε αυτή την Άσκηση έπρεπε να εμφανίσω τον καιρό στο terminal. Έτσι χρησιμοποίησα το εργαλείο wttr.in και πληκτρολογώντας την εντολή curl wttr.in έχουμε τα αποτελέσματα που ζητάμε.
 <br><a href="https://asciinema.org/a/UzjVbTDqDOYwo8MIYsnCTxpPN">check the weather</a>
 
 
 <br><br>
-<h2><span id="Mouse form">(8) Mouse form (Άσκηση Προγραμματισμού)</span></h2>
+<h2><span id="Mouse form">(9) Mouse form (Άσκηση Προγραμματισμού)</span></h2>
 <p>
  Ως τελευταία άσκηση προγραμματισμού επέλεξα την Mouse form. Σε σχέση με την τρίτη (image) μπορώ να πω πως ήταν πάρα πολύ πιο εύκολη, καθώς οι βασικές εντολές που έπρεπε να χρησιμοποιήσω υπήρχαν από πριν και έπρεπε να τις βρω και αξιοποιήσω. Σε αυτή την άσκηση δίνεται μία φόρμα με τρία κελιά (χρονιά - μήνας - μέρα) και πρέπει να δημιουργήσω ένα τέταρτο κελί που θα έχει για επιλογές τα δύο φύλα. Για πραγματοποίηση επιλογής σε κάθε κελί ως συσκευή εισόδου θα χρησιμοποιείτε το ποντίκι.
 <br><a href="https://github.com/bananabankai/site/blob/master/_remix/mouse-form.md">Mouse form </a>
@@ -93,25 +109,9 @@ A.M.: Π2019150
 
 
 <br><br>
-<h2><span id="text editor and plug-ins for code highlighting and autocompletion">(9) text editor and plug-ins for code highlighting and autocompletion (Άσκηση γραμμής εντολών)</span></h2>
+<h2><span id="text editor and plug-ins for code highlighting and autocompletion">(10) text editor and plug-ins for code highlighting and autocompletion (Άσκηση γραμμής εντολών)</span></h2>
  Η τελευταία άσκηση γραμμής εντολών ήταν λίγο πιο πολύπλοκη από τις υπόλοιπες ασκήσεις. Σε αυτή την άσκηση γίνεται εκμάθηση της εγκατάστασης και χρήσης της εντολής vim που χρησιμοποιείται για το άνοιγμα και επεξεργασία αρχείων κειμένου (.txt) όπως στο sciinema. Αρχικά γίνεται πρόσβαση στον φάκελο του αρχείου στο terminal  με την εντολή cd. Τέλος αφού φτάσουμε στο χώρο που βρίσκεται το επιθυμητό αρχείο χρησιμοποιούμε την εντολή vim "όνομα αρχείου" και το αρχείο ανοίγει για ανάγνωση και επεξεργασία.
 <br><a href="https://asciinema.org/a/387927">text editor and plug-ins for code highlighting and autocompletion</a>
-
-
-<br><br>
-<h2><span id="Συμμετοχικό Περιεχόμενο (Α1-Α2)">(10) Συμμετοχικό Περιεχόμενο (Α1-Α2)</span></h2>
- Από το πρώτο συμμετοχικό υλικό έμαθα πώς να χρησιμοποιώ το terminal για να φτιάξω τα submodules που χρειάζονται για το gallery και το images. Επειδή υπήρχαν προβλήματα άλλαξα το όνομα του gallery_ σε gallery και του images σε images_ . Τέλος από την έρευνα για τα i9Processor.md και graphics-card.md έμαθα κάτι παραπάνω για την αξιολόγηση του harware.
-<br><a href="https://github.com/bananabankai/gallery/blob/master/intel-i9Processor.md">Το κείμενο i9-10900k  </a>
-<br><a href="https://github.com/bananabankai/gallery/blob/master/graphics-card.md">Το κείμενο Graphics card rtx 3090</a>
-<br><a href="https://github.com/bananabankai/images_/blob/master/10TH%20GEN%20CORE%20i9%20UNLOCKED.jpg">Εικόνα από το κείμενο i9-10900k </a>
-<br><a href="https://github.com/bananabankai/images_/blob/master/nvidia%20geforce%20RTX%203090.jpg">Εικόνα από το κείμενο Graphics card rtx 3090</a>
-<br><a href="https://github.com/bananabankai/site/blob/master/_slides/PC-parts.md">Τα slides </a>
-
-<h6>Βιβλιογραφία </h6>
-<br> <a href="https://courses-ionio.github.io/projects/social/">Πως να κάνω τo συμμετοχικό περιεχόμενο</a>
-<br> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Πως να βάλω submodules(asciinema)</a>
-<br> <a href="https://ark.intel.com/content/www/us/en/ark/products/199332/intel-core-i9-10900k-processor-20m-cache-up-to-5-30-ghz.html">Πηγή για το κείμενο i9-10900k</a>
-<br> <a href="https://www.techspot.com/review/2105-geforce-rtx-3090/">Πηγή για το κείμενο Graphics card rtx 3090</a>
 
 
 <br><br>
