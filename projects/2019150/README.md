@@ -103,8 +103,8 @@ A.M.: Π2019150
  Από το πρώτο συμετοχικό υλικό έμαθα πώς να χρησιμοποιώ το terminal για να φτίαξω τα submodules που χρειάζονται για το gallery και το images. Επειδή υπήρχαν προβλήματα άλλαξα το όνομα του gallery_ σε gallery και του images σε images_ . Τέλος από την έρευνα για τα i9Processor.md και graphics-card.md έμαθα κάτι παραπάνω για την αξιολόγηση του harware.
 <br><a href="https://github.com/bananabankai/gallery/blob/master/intel-i9Processor.md">Το κείμενο i9-10900k  </a>
 <br><a href="https://github.com/bananabankai/gallery/blob/master/graphics-card.md">Το κείμενο Graphics card rtx 3090</a>
-<br><a href="https://github.com/bananabankai/images_/blob/master/10TH%20GEN%20CORE%20i9%20UNLOCKED.jpg">εικόνα από το κείμενο i9-10900k </a>
-<br><a href="https://github.com/bananabankai/images_/blob/master/nvidia%20geforce%20RTX%203090.jpg">εικόνα από το κείμενο Graphics card rtx 3090</a>
+<br><a href="https://github.com/bananabankai/images_/blob/master/10TH%20GEN%20CORE%20i9%20UNLOCKED.jpg">Εικόνα από το κείμενο i9-10900k </a>
+<br><a href="https://github.com/bananabankai/images_/blob/master/nvidia%20geforce%20RTX%203090.jpg">Εικόνα από το κείμενο Graphics card rtx 3090</a>
 <br><a href="https://github.com/bananabankai/site/blob/master/_slides/PC-parts.md">Τα slides </a>
 
 <h6>Βιβλιογραφία </h6>
