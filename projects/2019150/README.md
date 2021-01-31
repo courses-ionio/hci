@@ -27,7 +27,7 @@ A.M.: Π2019150
 <p>
   Σε αυτή την άσκηση καλούμαστε να επεξεργαστούμε το πώς θα δείχνει μία εικόνα όταν βάζουμε το ποντίκι πάνω της και κάνει zoom. Αυτό έγινε χρησιμοποιώντας filter commands μέσα στην εντολή .wrap:hover και έτσι μαθαίνουμε αυτή την εντολή καθώς και filter commands. Ήταν μια καλή πρώτη άσκηση με πολύ προσιτό και ενδιαφέρον περιεχόμενο. 
 <br><a href="https://github.com/bananabankai/site/blob/master/_remix/image-zoom.md">Image zoom</a> 
-<br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image-zoom/">Image zoom</a>
+<br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image-zoom/">Image zoom pibook</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού</a>
@@ -46,7 +46,7 @@ A.M.: Π2019150
 <p>
  Σε αυτή την άσκηση πρέπει να αλλάξουμε το filter μίας εικόνας όταν τοποθετούμε το ποντίκι σε αυτή. Αυτό έγινε με την βοήθεια των εντολών που υπήρχαν στα σχόλια του css και αξιοποιήθηκαν μέσα στην εντολή img:hover. Για την υλοποίηση χρησιμοποιήθηκαν css και html και Θα μπορούσα να πω πως η άσκηση ήταν αρκετά εύκολη αφού όλα όσα χρειαζόμασταν υπήρχαν στα σχόλια.
 <br><a href="https://github.com/bananabankai/site/blob/master/_remix/image-filter.md">Image filter</a>
-<br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image-filter/">Image filter</a>
+<br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image-filter/">Image filter pibook</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού</a>
@@ -81,7 +81,7 @@ A.M.: Π2019150
 <p>
   Στην συγκεκριμένη άσκηση μας δίνετε μία εικόνα svg και πρέπει να δημιουργήσουμε έναν "κλώνο" της μισού μεγέθους δίπλα. Αυτό επιτεύχθηκε  με την εντολή viewbox. Ενώ αρχικά οι αλλαγές των height και width δεν δούλευαν όπως θα ήθελα, μετά από αρκετή έρευνα βρέθηκε η εντολή viewbox. Μέσω αυτής τα height και width έγιναν αυτό που θέλουμε με κάποιες ακόμα δυνατότητες του υπάρχουν στο εσωτερικό της εντολής (μετακίνηση). 
 <br><a href="https://github.com/bananabankai/site/blob/master/_remix/image.md">Image </a>
-<br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image/">Image filter</a>
+<br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/image/">Image pibook</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού</a>
@@ -100,7 +100,7 @@ A.M.: Π2019150
 <p>
  Ως τελευταία άσκηση προγραμματισμού επέλεξα την Mouse form. Σε σχέση με την τρίτη (image) μπορώ να πω πως ήταν πάρα πολύ πιο εύκολη, καθώς οι βασικές εντολές που έπρεπε να χρησιμοποιήσω υπήρχαν από πριν και έπρεπε να τις βρω και αξιοποιήσω. Σε αυτή την άσκηση δίνεται μία φόρμα με τρία κελιά (χρονιά - μήνας - μέρα) και πρέπει να δημιουργήσω ένα τέταρτο κελί που θα έχει για επιλογές τα δύο φύλα. Για πραγματοποίηση επιλογής σε κάθε κελί ως συσκευή εισόδου θα χρησιμοποιείτε το ποντίκι.
 <br><a href="https://github.com/bananabankai/site/blob/master/_remix/mouse-form.md">Mouse form </a>
-<br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/mouse-form/">Mouse form λύση</a>
+<br><a href="https://jovial-aryabhata-73ceb4.netlify.app/remix/mouse-form/">Mouse form pibook</a>
 <h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <ul> <a href="https://codepen.io">Codepen</a>
 <br> <a href="https://courses-ionio.github.io/projects/remix/">Πως να κάνω τις ασκήσεις προγραμματισμού</a>
