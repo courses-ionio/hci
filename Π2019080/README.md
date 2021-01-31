@@ -25,6 +25,8 @@
 
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-eraser.md)_**
 
+**_Netlify link: https://6016fda9b7896b00080f9bf3--adoring-poincare-2efdc8.netlify.app/remix/mouse-eraser/_**
+
 
 
 
