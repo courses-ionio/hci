@@ -66,6 +66,13 @@ A.M.: Π2019150
  Ως δεύτερη άσκηση διάλεξα κάτι πιο δύσκολο την άσκηση την download mp3 που για την υλοποίησή της χρησιμοποίησα το εργαλείο yt-dl. Αρχικά αντιμετώπισα κάποια προβλήματα εξαιτίας του ότι χρειαζόταν να έχω μία συγκεκριμένη έκδοση της python στο terminal και εγώ κατέβασα άλλη, παρόλα αυτά μετά από ψάξιμο σε διάφορα forum  βρήκα ότι η απάντηση ήταν η εγκατάσταση της python 2.7 και μετά από αυτό η εγκατάσταση έγινε και τα βίντεο όλα λειτουργούν.
 <br><a href="https://asciinema.org/a/387892">download mp3</a>
 
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<br> <a href="https://asciinema.org">asciinema</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Πως να κάνω τις ασκήσεις γραμμής εντολών</a>
+<br> <a href="https://github.com/epidrome/dokey">Λίστα ασκήσεων ασκήσεις γραμμής εντολών</a>
+<br> <a href="https://linuxconcept.com/how-to-install-youtube-dl-on-ubuntu-20-04-linux-operating-system/">Πηγή πληροφοριών</a></ul>
+
+
 
 <br><br>
 <h2><span id="Συμμετοχικό Περιεχόμενο (Α1-Α2)">(6) Συμμετοχικό Περιεχόμενο (Α1-Α2)</span></h2>
