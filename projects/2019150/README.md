@@ -34,6 +34,8 @@ A.M.: Π2019150
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού</a>
 <br> <a href="https://pibook.epidro.me/remix/image-zoom/">Eκφώνηση</a></ul>
 
+![zoom](https://user-images.githubusercontent.com/72516045/106394689-7fb3c000-6406-11eb-87e4-c0a32103de12.png)
+
 
 <br><br>
 <h2><span id="search the web from the terminal">(3)search the web from the terminal (Άσκηση γραμμής εντολών)</span></h2>
@@ -61,6 +63,7 @@ A.M.: Π2019150
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού</a>
 <br> <a href="https://pibook.epidro.me/remix/image-filter/">Eκφώνηση</a></ul>
 
+![fi](https://user-images.githubusercontent.com/72516045/106394719-a83bba00-6406-11eb-803a-051691377bd8.png)
 
 <br><br>
 <h2><span id="download mp3">(5) download mp3 (Άσκηση γραμμής εντολών)</span></h2>
@@ -104,6 +107,8 @@ A.M.: Π2019150
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού</a>
 <br> <a href="https://pibook.epidro.me/remix/image/">Eκφώνηση</a></ul>
 
+![dysk](https://user-images.githubusercontent.com/72516045/106394707-9528ea00-6406-11eb-909a-1ce15fe2fd4f.png)
+
 
 <br><br>
 <h2><span id="check the weather">(8) check the weather (Άσκηση γραμμής εντολών)</span></h2>
@@ -131,6 +136,7 @@ A.M.: Π2019150
 <br> <a href="https://pibook.epidro.me/remix/">Λίστα ασκήσεων προγραμματισμού</a>
 <br> <a href="https://pibook.epidro.me/remix/mouse-form/">Eκφώνηση</a></ul>
 
+![po](https://user-images.githubusercontent.com/72516045/106394727-b7226c80-6406-11eb-882c-dd5e67ab9dd9.png)
 
 <br><br>
 <h2><span id="text editor and plug-ins for code highlighting and autocompletion">(10) text editor and plug-ins for code highlighting and autocompletion (Άσκηση γραμμής εντολών)</span></h2>
