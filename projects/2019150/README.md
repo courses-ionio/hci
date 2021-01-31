@@ -108,6 +108,12 @@ A.M.: Π2019150
  Η τρίτη άσκηση επέλεξα έκανα είναι η check the weather. Σε αυτή την Άσκηση έπρεπε να εμφανίσω τον καιρό στο terminal. Έτσι χρησιμοποίησα το εργαλείο wttr.in και πληκτρολογώντας την εντολή curl wttr.in έχουμε τα αποτελέσματα που ζητάμε.
 <br><a href="https://asciinema.org/a/UzjVbTDqDOYwo8MIYsnCTxpPN">check the weather</a>
 
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
+<br> <a href="https://asciinema.org">asciinema</a>
+<br> <a href="https://courses-ionio.github.io/projects/dokey/">Πως να κάνω τις ασκήσεις γραμμής εντολών</a>
+<br> <a href="https://github.com/epidrome/dokey">Λίστα ασκήσεων ασκήσεις γραμμής εντολών</a>
+<br> <a href="https://sourcedigit.com/19452-wttr-in-weather-app-for-ubuntu-linux/">Πηγή πληροφοριών</a></ul>
+
 
 <br><br>
 <h2><span id="Mouse form">(9) Mouse form (Άσκηση Προγραμματισμού)</span></h2>
