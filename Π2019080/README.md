@@ -110,7 +110,7 @@
 **Send a notifcation when a big task completes, eg download, compiling, etc**
 
 ### Χρησιμοποιήθηκαν οι εντολές:
-* **Ntfy -t
+* **Ntfy -t**
 * **Ntfy send**
 
 **_Link της άσκησης στο asciinema:_**
