@@ -86,7 +86,7 @@ A.M.: Π2019150
 <br><a href="https://github.com/bananabankai/site/blob/master/_slides/PC-parts.md">Τα slides </a>
 
 
-<h6>Βιβλιογραφία </h6>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <br> <a href="https://courses-ionio.github.io/projects/social/">Πως να κάνω τo συμμετοχικό περιεχόμενο</a>
 <br> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Πως να βάλω submodules(asciinema)</a>
 <br> <a href="https://ark.intel.com/content/www/us/en/ark/products/199332/intel-core-i9-10900k-processor-20m-cache-up-to-5-30-ghz.html">Πηγή για το κείμενο i9-10900k</a>
@@ -152,7 +152,7 @@ A.M.: Π2019150
 <br><a href="https://github.com/bananabankai/site/blob/master/_case-study/Intel.md">Μελλέτη περίπτωσης (Πώς φτάσαμε στον επεξεργαστή i9-10900k)</a>
 <br><a href="https://github.com/bananabankai/site/blob/master/_biography/Gordon%20Moore.md">Βιογραφία (Η ιστορία του Gordon E. Moore)</a>
 
-<h6>Βιβλιογραφία </h6>
+<h6>Βιβλιογραφία που χρησιμοποίησα:</h6>
 <br> <a href="https://courses-ionio.github.io/projects/social/">Πως να κάνω τo συμμετοχικό περιεχόμενο</a>
 <br> <a href="https://en.wikipedia.org/wiki/Intel">Πηγή για την μελλέτη περίπτωσης  κείμενο i9-10900k</a>
 <br> <a href="https://www.britannica.com/biography/Gordon-Moore">Πηγή για το βιογραφικό</a>
