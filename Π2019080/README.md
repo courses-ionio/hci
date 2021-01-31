@@ -99,7 +99,7 @@
 
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-form.md)_**
 
-**_Netlify link: https://60108374e29b630008f5ede5--adoring-poincare-2efdc8.netlify.app/remix/mouse-form/_**
+**_Netlify link: https://601706c00f0d0b000808e605--adoring-poincare-2efdc8.netlify.app/remix/mouse-form/_**
 
 
 # Παραδοτέο 7ο 
@@ -131,7 +131,7 @@
 
 **_Κώδικας αποθητηρίου: (https://github.com/GiorgosChiras/site/blob/master/_remix/mouse-option.md)_**
 
-**_Netlify link: https://60170562a07ede000879bc9d--adoring-poincare-2efdc8.netlify.app/remix/mouse-option/_**
+**_Netlify link: https://601706c00f0d0b000808e605--adoring-poincare-2efdc8.netlify.app/remix/mouse-option/_**
 
 
 # Παραδοτέο 9ο
