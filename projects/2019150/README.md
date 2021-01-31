@@ -12,7 +12,7 @@ A.M.: Π2019150
 | 7 | <li><a href="#check the weather"><span class="toctext">check the weather</span></a> |
 | 8 | <li><a href="#Mouse form"><span class="toctext">Mouse form</span></a> |
 | 9 | <li><a href="#text editor and plug-ins for code highlighting and autocompletion"><span class="toctext">text editor and plug-ins for code highlighting and autocompletion</span></a> |
-| 10 | συμμετοχικό περιεχόμενο |
+| 10 | <li><a href="#Συμμετοχικό Περιεχόμενο (Α1-Α2)"><span class="toctext">Συμμετοχικό Περιεχόμενο (Α1-Α2)</span></a> |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | <li><a href="#Τελική αναφορά"><span class="toctext">Τελική αναφορά</span></a> |
 
@@ -61,6 +61,12 @@ A.M.: Π2019150
 
 
 <br><br>
+<h2><span id="Συμμετοχικό Περιεχόμενο (Α1-Α2)">(10) download mp3 (Συμμετοχικό Περιεχόμενο (Α1-Α2))</span></h2>
+ Από το πρώτο συμετοχικό υλικό έμαθα πώς να χρησιμοποιώ το terminal για να φτίαξω τα submodules που χρειάζονται για το gallery και το images. Επειδή υπήρχαν προβλήματα άλλαξα το όνομα του gallery_ σε gallery και του images σε images_
+<br><a href="https://asciinema.org/a/387892">download mp3</a>
+
+
+<br><br>
 <h2><span id="Image">(6) Image (Άσκηση Προγραμματισμού)</span></h2>
 <p>
   Στην συγκεκριμένη άσκηση μας δείνετε μία εικόνα svg και πρέπει να δημιουρήσουμε μία δεύτερη ίδια μισού μεγέθους δίπλα της. Αυτό επιτεύχθηκε  με την εντολή viewbox. Ένώ αρχικά οι αλλαγές των height και width είχαν ως αποτέλεσμα το ποιά κομιάτια της εικόνας θα εμφανιστούν και μάλιστα σε ίδιο μέγεθος, μετά από αρκετή έρευνα βρέθηκε η εντολή viewbox. Μέσω αυτής της εντολής τα height και width έγιναν το πόσο μεγάλη θα είναι η εικόνα και στο εσωτερικό της εντολής viewbox από αριστερά είναι το πόσο θέλουμε να μετακινήσουμε την εικόνα και στα δεξιά τα "παλιά" height και width. Τέλος θα ήθελα να πω πως αφιέρωσα αρκετές ώρες έρευνας και προσπάθειας για την ολοκλήρωση αυτής της άσκησης γιατί με δυσκόλεωε αρκετά. 
@@ -96,6 +102,23 @@ A.M.: Π2019150
 <h2><span id="text editor and plug-ins for code highlighting and autocompletion">(9) text editor and plug-ins for code highlighting and autocompletion (Άσκηση γραμμής εντολών)</span></h2>
  Για τελευταία άσκηση γραμμής εντολών επέλεξα την text editor and plug-ins for code highlighting and autocompletion η οποία ήταν λίγο πιο πολύπλοκη από τις υπόλοιπες ασκήσεις. Σε αυτή την άσκηση γίνεται εκμάθηση της εγκατάστασης και χρήσης της εντολής vim που χρησιμοποιείται για το άνοιγμα και επεξεργασία αρχείων κειμένου όπως π.χ. .txt όπως στο sciinema. Αρχικά γίνεται πρόσβαση στον φάκελο του αρχείου στο terminal  με την εντολή cd. Τέλος αφού φτάσουμε στο χώρο που βρίσκεται το επιθυμητό αρχείο χρησιμοποιούμε την εντολή vim "όνομα αρχείου" και το αρχείο ανοίγει για ανάγνωση και επεξεργασία.
 <br><a href="https://asciinema.org/a/387927">text editor and plug-ins for code highlighting and autocompletion</a>
+
+
+<br><br>
+<h2><span id="Συμμετοχικό Περιεχόμενο (Α1-Α2)">(10) download mp3 (Συμμετοχικό Περιεχόμενο (Α1-Α2))</span></h2>
+ Από το πρώτο συμετοχικό υλικό έμαθα πώς να χρησιμοποιώ το terminal για να φτίαξω τα submodules που χρειάζονται για το gallery και το images. Επειδή υπήρχαν προβλήματα άλλαξα το όνομα του gallery_ σε gallery και του images σε images_ . Τέλος από την έρευνα για τα i9Processor.md και graphics-card.md έμαθα κάτι παραπάνω για την αξιολόγηση του harware.
+<br><a href="https://github.com/bananabankai/gallery/blob/master/intel-i9Processor.md">gallery/intel-i9Processor.md </a>
+<br><a href="https://github.com/bananabankai/gallery/blob/master/graphics-card.md">gallery/graphics-card.md </a>
+<br><a href="https://github.com/bananabankai/images_/blob/master/10TH%20GEN%20CORE%20i9%20UNLOCKED.jpg">images_/10TH GEN CORE i9 UNLOCKED.jpg </a>
+<br><a href="https://github.com/bananabankai/images_/blob/master/nvidia%20geforce%20RTX%203090.jpg">nvidia geforce RTX 3090.jpg </a>
+<br><a href="https://github.com/bananabankai/site/blob/master/_slides/PC-parts.md">_slides/PC-parts.md </a>
+
+<h6>Βιβλιογραφία </h6>
+<br> <a href="https://courses-ionio.github.io/projects/social/">Πως να κάνω τo συμμετοχικό περιεχόμενο</a>
+<br> <a href="https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8">Πως να βάλω submodules(asciinema)</a>
+<br> <a href="https://ark.intel.com/content/www/us/en/ark/products/199332/intel-core-i9-10900k-processor-20m-cache-up-to-5-30-ghz.html">Πηγή για το κείμενο i9-10900k</a>
+<br> <a href="https://www.techspot.com/review/2105-geforce-rtx-3090/">Πηγή για το κείμενο Graphics card rtx 3090</a>
+
 
 <br><br>
 <h2><span id="Τελική αναφορά">(12) Τελική αναφορά*</span></h2>
