@@ -25,12 +25,12 @@
 
 - Email: Τα email ακολουθούν τη μορφή: Αλφαριθμητικοί χαρακτήρες και τα σύμβολα !#$%^&\_, ο χαρακτήρας @, πεζά γράμματα, τελεία (.) και τέλος δύο ή τρία πεζά γράμματα. Υπάρχουν εξαιρέσεις σε αυτή τη μορφή, όπως για παράδειγμα η έλλειψη Top-Level Domain (admin@mailserver1) ή η χρήση τελειών στο πρώτο κομμάτι, αλλά τις παρέλειψα λόγω της σπανιότητάς και της πολυπλοκότητας τους.
 
-![Email Code](https://github.com/p17anto2/LessonImages/blob/main/HCI/2_email.png)
+<img align="center" src=https://github.com/p17anto2/LessonImages/blob/main/HCI/2_email.png>
 
 - Πιστωτικές Κάρτες: Για απλότητα στις κανονικές εκφράσεις, ο κώδικας δέχεται μόνο κάρτες τύπου Mastercard, καθώς υπάρχουν και άλλες με λιγότερα ψηφία ή διαφορετική μορφή. Η μορφή είναι τέσσερις τετράδες ψηφία χωρισμένα με κενό. Για το CVV η μορφή είναι 3 ψηφία.
 
-![Credit Card Code](https://github.com/p17anto2/LessonImages/blob/main/HCI/2_credit.png)
+<img align="center" src=https://github.com/p17anto2/LessonImages/blob/main/HCI/2_credit.png>
 
 - Ελληνικά Τηλέφωνα: Τα ελληνικά σταθερά τηλέφωνα ξεκινούν όλα με το ψηφίο 2 και είναι της μορφής 2xx-xxx-xxxx.
 
-![Greek Number Code](https://github.com/p17anto2/LessonImages/blob/main/HCI/2_greek_num.png)
+<img align="center" src=https://github.com/p17anto2/LessonImages/blob/main/HCI/2_greek_num.png>
