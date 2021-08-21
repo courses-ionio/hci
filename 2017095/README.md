@@ -5,6 +5,9 @@
 ### Ονοματεπώνυμο: Αντωνακάκης Απόστολος
 ### Αριθμός Μητρώου: 2017095
 
+### Github: [p17anto2](https://github.com/p17anto2)
+### Netlify: [p2017095-ionio](p2017095-ionio.netlify.app)
+
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
 | 1 | Εισαγωγή |
@@ -21,16 +24,32 @@
 
 ## Παραδοτέο 2: Form Validation
 
-Για το δεύτερο παραδοτέο επέλεξα την προγραμματιστική άσκηση Form Validation, στην οποία χρησιμοποιούνται Regular Expressions για τον έλεγχο σφαλμάτων εισόδου του χρήστη. Προσάρμοσα τον ήδη υπάρχων κώδικα για τις ανάγκες κάθε κομματιού της άσκησης. Πιο συγκεκριμένα:
+Για το δεύτερο παραδοτέο επέλεξα την προγραμματιστική άσκηση Form Validation, στην οποία χρησιμοποιούνται Regular Expressions για τον έλεγχο σφαλμάτων εισόδου του χρήστη. Προσάρμοσα τον ήδη υπάρχων HTML κώδικα για τις ανάγκες κάθε κομματιού της άσκησης. Πιο συγκεκριμένα:
 
-- Email: Τα email ακολουθούν τη μορφή: Αλφαριθμητικοί χαρακτήρες και τα σύμβολα !#$%^&\_, ο χαρακτήρας @, πεζά γράμματα, τελεία (.) και τέλος δύο ή τρία πεζά γράμματα. Υπάρχουν εξαιρέσεις σε αυτή τη μορφή, όπως για παράδειγμα η έλλειψη Top-Level Domain (admin@mailserver1) ή η χρήση τελειών στο πρώτο κομμάτι, αλλά τις παρέλειψα λόγω της σπανιότητάς και της πολυπλοκότητας τους.
+- Email: Τα email ακολουθούν τη μορφή: Αλφαριθμητικοί χαρακτήρες και τα σύμβολα !#$%^&\_, ο χαρακτήρας @, πεζά γράμματα, τελεία (.) και τέλος δύο ή τρία πεζά γράμματα. Υπάρχουν εξαιρέσεις σε αυτή τη μορφή, όπως για παράδειγμα η έλλειψη Top-Level Domain (admin@mailserver1) ή η χρήση τελειών στο πρώτο κομμάτι, αλλά τις παρέλειψα λόγω της σπανιότητάς και της πολυπλοκότητας τους (όσον αφορά τις κανονικές εκφράσεις).
 
-<img align="center" src=https://github.com/p17anto2/LessonImages/blob/main/HCI/2_email.png>
+<p align="center">
+<img src=https://github.com/p17anto2/LessonImages/blob/main/HCI/2_email.png>
+</p>
 
 - Πιστωτικές Κάρτες: Για απλότητα στις κανονικές εκφράσεις, ο κώδικας δέχεται μόνο κάρτες τύπου Mastercard, καθώς υπάρχουν και άλλες με λιγότερα ψηφία ή διαφορετική μορφή. Η μορφή είναι τέσσερις τετράδες ψηφία χωρισμένα με κενό. Για το CVV η μορφή είναι 3 ψηφία.
 
-<img align="center" src=https://github.com/p17anto2/LessonImages/blob/main/HCI/2_credit.png>
+<p align="center">
+<img src=https://github.com/p17anto2/LessonImages/blob/main/HCI/2_credit.png>
+</p>
 
 - Ελληνικά Τηλέφωνα: Τα ελληνικά σταθερά τηλέφωνα ξεκινούν όλα με το ψηφίο 2 και είναι της μορφής 2xx-xxx-xxxx.
 
-<img align="center" src=https://github.com/p17anto2/LessonImages/blob/main/HCI/2_greek_num.png>
+<p align="center">
+<img src=https://github.com/p17anto2/LessonImages/blob/main/HCI/2_greek_num.png>
+</p>
+
+Στον CSS κώδικα, το μόνο που άλλαξα είναι το type του input σε form, και χρησιμοποίησα αυτόν τύπο σε κάθε κομμάτι, καθώς οπτικά, κάθε έλεγχος είναι ίδιος.
+
+<p align="center">
+<img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/2_css.png">
+</p>
+
+#### Pibook: [\_remix/form-validation](https://github.com/p17anto2/site/blob/master/_remix/form-validation.md)
+#### Codepen: [Form Validation](https://codepen.io/P2017095/pen/ExmqjJE)
+#### Netlify: [Form Validation Answer](https://p2017095-ionio.netlify.app/remix/form-validation/)
