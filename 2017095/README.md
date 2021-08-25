@@ -60,13 +60,22 @@
 
 Οι εντολές Vim Script που χρησιμοποίησα είναι οι εξής:
 
-*set nu* : Εμφανίζει τον αριθμό γραμμής σε κάθε γραμμή.
+**set nu** : Εμφανίζει τον αριθμό γραμμής σε κάθε γραμμή.
 
 <p align="center">
-<table><tr>
-<td> <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_bare.png"> </td>
-<td> <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_num.png"> </td>
-</tr></table>
+<img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_bare.png"> 
+<img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_num.png"> 
 </p>
 
-#### Asciinema [Vim Configuration](https://asciinema.org/a/o4V0nxuU4B1nyNb9JInSNc7KF)
+**set smartindent** : Προσπαθεί να καταλάβει βάσει λέξεων-κλειδιών πού να τοποθετήσει τον κέρσορα. Για παράδειγμα, στη γλώσσα C, αν ο χρήστης πατήσει Enter σε insert mode ενώ η γραμμή που βρίσκεται ο κέρσορας τελειώνει σε ερωτηματικό, στην επόμενη γραμμή ο κέρσορας θα τοποθετηθεί εκεί που ξεκίνησε η στην οποία βρισκόταν. Αν τελειώνει σε {, θα ξεκινήσει ένα tab πιο μετά.
+
+**filetype plugin indent on** : Αναγνωρίζει τον τύπο αρχείου του buffer από το extension του αρχείου, και φορτώνει συγκεκριμένες ρυθμίσεις για αυτόν τον τύπο αρχείου (το χρειάζεται η επόμενη εντολή).
+
+**syntax on** : Δίνει έμφαση σε λέξεις κλειδιά ή κανονικές εκφράσεις, σύμφωνα με τον τύπο του αρχείου. Για παράδειγμα, στη C, το *#include* είναι λέξη κλειδί, και ό,τι ακολουθεί μετά ανάμεσα στις αγκύλες αναγνωρίζεται από κανονική έκφραση.
+
+<p align="center">
+<img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_bare.png"> 
+<img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_syntax.png">
+</p>
+
+#### Asciinema: [Vim Configuration](https://asciinema.org/a/o4V0nxuU4B1nyNb9JInSNc7KF)
