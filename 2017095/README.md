@@ -54,6 +54,8 @@
 #### Codepen: [Form Validation](https://codepen.io/P2017095/pen/ExmqjJE)
 #### Netlify: [Form Validation Answer](https://p2017095-ionio.netlify.app/remix/form-validation/)
 
+#### Πηγές: [Email Adresses (Wikipedia)](https://en.wikipedia.org/wiki/Email_address), [Credit Cards (Medium)](https://medium.com/hootsuite-engineering/a-comprehensive-guide-to-validating-and-formatting-credit-cards-b9fa63ec7863), [Ελληνικά Τηλεφωνικά Νούμερα (Βικιπαίδεια)](https://el.wikipedia.org/wiki/%CE%A4%CE%B7%CE%BB%CE%B5%CF%86%CF%89%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CE%BA%CF%89%CE%B4%CE%B9%CE%BA%CE%BF%CE%AF_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82)
+
 ## Παραδοτέο 3: Vim Configuration
 
 Για το τρίτο παραδοτέο επέλεξα την άσκηση γραμμής εντολών Vim Configuration, όπου κάνω κάποιες βασικές ρυθμίσεις στη λειτουργικότητα του Vim. Χρησιμοποίησα το [QEMU](https://www.qemu.org/) για να τρέξω το [Void Linux Distribution](https://voidlinux.org/) στην βασική του (non-GUI) έκδοσή του.
@@ -79,3 +81,5 @@
 </p>
 
 #### Asciinema: [Vim Configuration](https://asciinema.org/a/o4V0nxuU4B1nyNb9JInSNc7KF)
+
+#### Πηγές: Το δικό μου vimrc.
