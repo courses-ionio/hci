@@ -60,11 +60,13 @@
 
 Οι εντολές Vim Script που χρησιμοποίησα είναι οι εξής:
 
-**set nu** : Εμφανίζει τον αριθμό γραμμής σε κάθε γραμμή.
+*set nu* : Εμφανίζει τον αριθμό γραμμής σε κάθε γραμμή.
 
-<p float="left">
-<img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_bare.png">
-<img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_num.png">
+<p align="center">
+<table><tr>
+<td> <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_bare.png"> </td>
+<td> <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_num.png"> </td>
+</tr></table>
 </p>
 
 #### Asciinema [Vim Configuration](https://asciinema.org/a/o4V0nxuU4B1nyNb9JInSNc7KF)
