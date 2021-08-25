@@ -62,9 +62,8 @@
 
 **set nu** : Εμφανίζει τον αριθμό γραμμής σε κάθε γραμμή.
 
-<p float="center">
+<p float="left">
 <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_bare.png">
-  ->->->->->->->->
 <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_num.png">
 </p>
 
