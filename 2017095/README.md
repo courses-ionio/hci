@@ -64,7 +64,7 @@
 
 <p float="center">
 <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_bare.png">
-  ->
+  ->->->->->->->->
 <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_num.png">
 </p>
 
