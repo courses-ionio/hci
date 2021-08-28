@@ -42,7 +42,7 @@
 * [User Interface Software Development](http://faculty.washington.edu/ajko/books/uist/)
 * [Software design](http://worrydream.com/MagicInk/)
 
-**Βαθμολογία:** 10% [βίντεο κουίζ](https://courses-ionio.github.io/projects/video-quiz/) + 30% [α-σύγχρονη συμμετοχή στην τάξη](https://courses-ionio.github.io/projects/classroom/) + 10% [2 ασκήσεις προγραμματισμού*](https://courses-ionio.github.io/projects/remix), 40% [Συμμετοχικό εκπαιδευτικό υλικό*](https://courses-ionio.github.io/projects/social/), 20% [4 ασκήσεις γραμμής εντολών*](https://courses-ionio.github.io/projects/dokey/)
+**Βαθμολογία:** 10% [βίντεο κουίζ](https://courses-ionio.github.io/projects/video-quiz/) + 30% [σύγχρονη συμμετοχή στην τάξη](https://courses-ionio.github.io/projects/classroom/) + 10% [2 ασκήσεις προγραμματισμού*](https://courses-ionio.github.io/projects/remix), 40% [Συμμετοχικό εκπαιδευτικό υλικό*](https://courses-ionio.github.io/projects/social/), 20% [4 ασκήσεις γραμμής εντολών*](https://courses-ionio.github.io/projects/dokey/)
 
 *υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
 
