@@ -35,7 +35,7 @@
 
 **Συντονιστής συστημάτων τηλεεκπαίδευσης:** [Κωνσταντίνος Πατηνιώτης](https://github.com/c15pati)
 
-**Βαθμολογία:** 10% [βίντεο κουίζ](https://courses-ionio.github.io/projects/video-quiz/) + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork/) 30% [σύγχρονη συμμετοχή στην τάξη](https://courses-ionio.github.io/projects/classroom/)* + 10% [2 ασκήσεις προγραμματισμού](https://courses-ionio.github.io/projects/remix), 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/)*, 20% [4 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/)*
+**Βαθμολογία:** 10% [βίντεο κουίζ](https://courses-ionio.github.io/projects/video-quiz/) + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork/) 30% [σύγχρονη συμμετοχή στην τάξη*](https://courses-ionio.github.io/projects/classroom/) + 10% [2 ασκήσεις προγραμματισμού](https://courses-ionio.github.io/projects/remix), 20% [Συμμετοχικό εκπαιδευτικό υλικό*](https://courses-ionio.github.io/projects/social/), 20% [4 ασκήσεις γραμμής εντολών*](https://courses-ionio.github.io/projects/dokey/)
 
 *υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
 
