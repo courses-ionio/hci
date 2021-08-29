@@ -11,12 +11,12 @@
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
 | 1 | Εισαγωγή |
-| 2 | [Άσκηση προγραμματισμού: Form Validation](#παραδοτέο-2---form-validation) |
-| 3 | [Άσκηση γραμμής εντολών: Edit The Vim Configuration File](#παραδοτέο-3---Vim-Configuration) |
+| 2 | [Άσκηση προγραμματισμού: Form Validation](#παραδοτέο-2-:-form-validation) |
+| 3 | [Άσκηση γραμμής εντολών: Edit The Vim Configuration File](#παραδοτέο-3-:-Vim-Configuration) |
 | 4 | συμμετοχικό περιεχόμενο 1A |
-| 5 | [Άσκηση προγραμματισμού: Image](#παραδοτέο-5---Image) |
+| 5 | [Άσκηση προγραμματισμού: Image](#παραδοτέο-5-:-Image) |
 | 6 | συμμετοχικό περιεχόμενο 2A |
-| 7 | Άσκηση γραμμής εντολών |
+| 7 | [Άσκηση γραμμής εντολών: Terminal Windows](#παραδοτέο-7-:-Terminal-Windows) |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο 2B |
@@ -99,9 +99,20 @@
 <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/5_result.png">
 </p>
 
-<!--TODO-->
-
 #### Pibook: [\_remix/image](https://github.com/p17anto2/site/blob/master/_remix/image.md)
 #### Codepen: [Form Validation](https://codepen.io/P2017095/pen/ExXVmmM)
 #### Netlify: [Form Validation Answer](https://p2017095-ionio.netlify.app/remix/image/)
 #### Πηγές: [Scalable Vector Graphics (Wikipedia)](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Functionality), [viewBox (Mozilla Docs)](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/viewBox)
+
+## Παραδοτέο 7: Terminal Windows
+
+Καθώς για τις ασκήσεις γραμμής εντολών χρησιμοποιώ ένα Virtual Machine χωρίς GUI, η υλοποίηση αυτής της άσκησης έγινε με λίγο ανορθόδοξο τρόπο.
+
+Το vim περιλαμβάνει Terminal Emulation. Αυτό σημαίνει ότι υπάρχει η δυνατότητα, μέσα από το vim, να χρησιμοποιήσεις terminal. Αυτό γίνεται με την εντολή **:term**, η οποία δημιουργεί ένα καινούριο παράθυρο που τρέχει το bash shell (ή **:vert terminal**, που κάνει το διαχωρισμό παραθύρων κάθετο). Σε αυτό το εικονικό terminal, μπορείς να τρέξεις οποιοδήποτε πρόγραμμα, όπως το glances, καθώς και το ίδιο το vim για να δεις και να επεξεργαστείς αρχεία. Με τη συντόμευση CTRL-W CTRL-W εστιάζεται το επόμενο παράθυρο. 
+
+<p align="center">
+<img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/7_terminal.png">
+</p>
+
+#### Asciinema: [Terminal Windows](https://asciinema.org/a/L04h5VgRDbJhGa851mFtouZS9)
+#### Πηγές: [Terminal.txt (VimHelp)](https://vimhelp.org/terminal.txt.html)
