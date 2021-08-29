@@ -35,15 +35,15 @@
 
 **Συντονιστής συστημάτων τηλεεκπαίδευσης:** [Κωνσταντίνος Πατηνιώτης](https://github.com/c15pati)
 
+**Βαθμολογία:** 10% [βίντεο κουίζ](https://courses-ionio.github.io/projects/video-quiz/) + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork/) 30% [σύγχρονη συμμετοχή στην τάξη*](https://courses-ionio.github.io/projects/classroom/) + 10% [2 ασκήσεις προγραμματισμού*](https://courses-ionio.github.io/projects/remix), 20% [Συμμετοχικό εκπαιδευτικό υλικό*](https://courses-ionio.github.io/projects/social/), 20% [4 ασκήσεις γραμμής εντολών*](https://courses-ionio.github.io/projects/dokey/)
+
+*υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
+
 **Βιβλιογραφία:** 
 
 * Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό, Κωνσταντίνος Χωριανόπουλος, ISBN: 9786188242357, ΕΥΔΟΞΟΣ: 68371436 κεφάλαια: 1, 2, 3.
 * [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me)
 * [User Interface Software Development](http://faculty.washington.edu/ajko/books/uist/)
 * [Software design](http://worrydream.com/MagicInk/)
-
-**Βαθμολογία:** 10% [βίντεο κουίζ](https://courses-ionio.github.io/projects/video-quiz/) + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork/) 30% [σύγχρονη συμμετοχή στην τάξη*](https://courses-ionio.github.io/projects/classroom/) + 10% [2 ασκήσεις προγραμματισμού*](https://courses-ionio.github.io/projects/remix), 20% [Συμμετοχικό εκπαιδευτικό υλικό*](https://courses-ionio.github.io/projects/social/), 20% [4 ασκήσεις γραμμής εντολών*](https://courses-ionio.github.io/projects/dokey/)
-
-*υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
