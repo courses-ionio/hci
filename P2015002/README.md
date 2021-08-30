@@ -72,52 +72,37 @@
 
 Ως πρώτη εργασία γραμμής εντολών επέλεξα να πραγματοποιήσω την εργασία που ζητούσε να εγκαταστήσω τα βασικά απαιτούμενα και να δείξω τα χαρακτηριστικά του συστήματος μου.
 
-#### Asciinema link Ver.1:  [Παραδοτέο 3 Ver.1](https://asciinema.org/a/zNdDL7xrskKMXEJIoz42IThnM)<br />
-#### Asciinema link Ver.2: [Παραδοτέο 3 Ver.2](https://asciinema.org/a/HJf1empbiPVpVruLfIGvrU3vp)
+#### Chaning my hostname to my AM: https://asciinema.org/a/433020 <br />
+#### List of my Dot Files:  https://asciinema.org/a/433025 <br />
+#### Showing Shell Config Files:  https://asciinema.org/a/433026 <br />
+#### Showing System Config:  https://asciinema.org/a/433027 <br />
 
-#### Η εργασία ζητούσε τα εξής πράγματα:
+#### Η εργασία ουσιαστικά ζητούσε τα παρακάτω πράγματα:
 
-### 1. Αλλαγή  του ονόματος του command prompt στον αριθμό μητρώου μας
-Στην version 1 της εργασίας χρησιμοποίησα την εντολή “Sudo hostname p2019108”.  Το sudo παρέχει τα κατάλληλα δικαιώματα διαχειριστή για την αλλαγή του hostname και η εντολή hostname ακολουθουμένη από το επιθυμητό όνομα επιτρέπει την αλλαγή του. Για να μην χρειαστεί επανεκκίνηση του terminal εισήγαγα και την εντολή “bash --login” όπου κάνει login τον αντίστοιχο host. <br />
-
-Στην version 2 χρησιμοποίησα την εντολή “sudo gedit /etc/hostname” το gedit είναι ένας editor του λειτουργικού linux οπού με αυτήν την εντολή ανοίγει το αρχείο που υπάρχει στο αντίστοιχο path με δικαιώματα διαχειριστή. Το αρχείο σε αυτό το path περιέχει το όνομα του host οπότε κάνοντας edit στο αρχείο με τον editor αλλάζουμε το όνομα του host. Για να λειτουργήσει όμως η αλλαγή απαιτείται restart του terminal.
-
-Σημαντικό είναι να αναφέρω οτι θα μπορούσα να χρησιμοποιήσω και τον nano editor που ανοίγει εντός του terminal, όμως για μεγαλύτερη ποικιλία προγραμμάτων και για εξοικείωση χρησιμοποίησα και τον gedit editor
-
-#### Αυτό φαίνεται και στο παρακάτω gif:
-<p align="center">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%203o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/hostnameChangeLinux.gif" width="480px">
-</p>
+### 1. Αλλαγή  του ονόματος μας με τον αριθμό μητρώου μας
+Να αλλάξουμε το username μας με τον ΑΜ μας. Αυτό ήταν σχετικά εύκολο. Κόλλησα στο σημείο που έπρεπε να βάλουμε sudo μπροστά  από την εντολή. Κατάλαβα ότι το sudo παρέχει στον χρήστη Admin Permissions και για αυτό τον λόγο μου ζητήθηκε Password. Βέβαια αφού χρησιμοποίησα την εντολή το hostname δεν άλλαξε. Με λίγη αναζήτηση online έμαθα πως έπρεπε να κάνω restart το terminal. Τέλος θα ήθελα να αναφέρω πως υπήρχε τρόπος να γίνει η αλλαγή του ονόματος χωρίς να χρειαστεί restart το terminal. <br />
 
 ### 2. να προβάλουμε την λίστα τα dot files μας
-Για να προβάλω τα dot files χρησιμοποίησα τις εντολές “ls –ld  .?*” και “ls -a” η διαφορά μεταξύ τους είναι ότι η πρώτη εμφανίζει συγκεκριμένα μόνο τα hidden dot files ενώ η δεύτερη εμφανίζει όλα τα υπάρχοντα dot files. Στην version 2 χρησιμοποίησα μόνο την εντολή “ls -a”.
+Για να βρω τα .dot files χρησιμοποίησα 2 εντολές. Η πρώτη ήταν «ls –ld  .?*» η οποία εμφάνιζε μόνο τα κρυμμένα αρχεία και η δεύτερη ήταν «ls -a» η οποία εμφάνιζε όλα τα αρχεία.  
 
 ### 3. να προβάλουμε το shell configuration file
-Για την προβολή συγκεκριμένων shell configuration files η εντολές που χρησιμοποίησα ήταν “nano ~/.bashrc” για την προβολή του bashrc και “ nano /etc/profile” για την προβολή του αρχείου profile μου. Η εντολή nano καλεί έναν text editor του linux ο οποιος είναι φτιαγμένος να λειτουργεί εντός του command line. Το nano ~/.bashrc είναι γραμμένο με αυτό το τρόπο ώστε να παρέχονται τα κατάλληλα δικαιώματα για το άνοιγμα του αρχείου.
+Σε αυτό το ζητούμενο χρησιμοποίησα δύο εντολές. Την «nano ~/.bashrc» και την «nano /etc/profile».
 
 ### 4. να προβάλουμε πληροφορίες για το σύστημα μας (hardware και software)
-Στην version 1 της άσκησης για την προβολή αυτών τον πληροφοριών χρησιμοποίησα την εντολή “neofetch” η οποία παρέχετε μετά την εγκατάσταση του πακέτου του neofetch. Το neofetch με αυτήν την εντολή σου επιτρέπει να δεις πληροφορίες σχετικά με το σύστημα σου που αφορούν hardware και software. <br />
-
-Στην version 2 έκανα χρήση μιας built-in εντολής του Linux, αυτή είναι η “sudo lshw -short”. Αυτή η εντολή σου παρέχει αρκετές πληροφορίες σχετικά με το σύστημα συνοπτικά. Αφαιρώντας το keyword “-short” από την εντολή μπορούμε να πάρουμε μια εκτεταμένη αναφορά με πληροφορίες για το σύστημα μας.
+Σε αυτό το ζητούμενο χρησιμοποίησα δύο εντολές. Την « sudo lshw -short» και την «sudo lshw». 
 
 #### Προβλήματα που χρειάστηκε να επιλυθούν μέχρι την εκτέλεση:
 
-Το πρώτο πρόβλημα που αντιμετώπισα είναι αυτό των δικαιοτάτων διαχείριση. Ωστόσο αυτό λύθηκε μαθαίνοντας για την εντολή sudo και αντί για /bashrc την χρήση του ~/.bashrc.
-Επίσης είχα πρόβλημα με το ότι για να λειτουργήσει η αλλαγή του hostname το terminal απαιτούσε restart όμως με την εντολή “bash –login” αυτό το πρόβλημα λύθηκε όσον αφορά την version 1 της άσκησης.
-
-### Εργαλεία που χρησιμοποίησα:
-sudo, ls, nano, gedit, neofetch, lshw
+Τα προβλήματα που αντιμετώπισα ήταν το ότι έπρεπε να χρησιμοποιήσω την sudo εντολή μαζί με το hostname. Αυτό λύθηκε μετά από λίγο ψάξιμο στο διαδίκτυο. Στην συνέχεια μπερδεύτηκα αρκετά με τα .dot files. Online μου έβγαζε αρκετές εντολές που έδειχναν άλλα αρχεία αντί τα .dot files. Η εντολή lshw με δυσκόλεψε λίγο διότι έχει αρκετές παραμέτρους που έκαναν όλες κάτι διαφορετικό.
+Τέλος μια γενική δυσκολία που είχα ήταν να κάνω το Virtual Box να δουλέψει. Έπρεπε να αλλάξω πράγματα στα BIOS του υπολογιστή μου, να αλλάξω τον αριθμό των διαθέσιμων processors και τον αριθμό της διαθέσιμης γραφικής μνήμης. Χωρίς αυτές τις αλλαγές δεν έκαναν boot τα ubuntu. Παράλληλα ήθελα κάποιο χρόνο να εξοικειωθώ με το καινούριο λογισμικό και το terminal.
 
 ### Συνδέσμοι πηγών:
-[How do I change the hostname without a restart?](https://askubuntu.com/questions/87665/how-do-i-change-the-hostname-without-a-restart) |
+[How do I change the hostname?](https://phoenixnap.com/kb/ubuntu-20-04-change-hostname) |
 [How to show only hidden files in Terminal?](https://askubuntu.com/questions/468901/how-to-show-only-hidden-files-in-terminal) |
 [Bash Shell: Display All Hidden Dot Files In a Directory](https://www.cyberciti.biz/faq/bash-shell-display-only-hidden-dot-files/) |
-[Shell initialization files - Bash Guide for Beginners](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html) |
-[.bashrc: Permission denied](https://stackoverflow.com/questions/19742005/bashrc-permission-denied) |
-[NeoFetch: See System Information from the Command Line on Linux](https://www.omgubuntu.co.uk/2016/11/neofetch-terminal-system-info-app) |
-[10 Useful Commands to Collect System and Hardware Information in Linux](https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/) |
-[Linux Command To Find the System Configuration And Hardware Information](https://www.cyberciti.biz/faq/linux-command-to-find-the-system-configuration-and-hardware-information/) |
-[How to edit read-only file in /etc?](https://askubuntu.com/questions/562310/how-to-edit-read-only-file-in-etc)
+[Linux Commands for Beginners 07 - The Bash Configuration File](https://www.youtube.com/watch?v=esNITi0RkPE) |
+[How do I check system specifications?](https://askubuntu.com/questions/55609/how-do-i-check-system-specifications) |
+[Linux lshw Command](https://linuxhint.com/use-linux-lshw-command) |
 
 # 4ο Παραδοτέο - Keyboard Input
 
