@@ -12,7 +12,7 @@
 | 1 | [Εισαγωγή + Σύνοψη](#εισαγωγη) |
 | 2 | [Άσκηση προγραμματισμού: Mouse Eraser](#2ο-παραδοτέο---mouse-eraser) |
 | 3 | [Άσκηση γραμμής εντολών: Set-up the main dependencies and demonstrate your base system](#3ο-παραδοτέο---set-up-the-main-dependencies-and-demonstrate-your-base-system) |
-| 4 | [Συμμετοχικό περιεχόμενο: Α1](#4o+6ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-και-α2) |
+| 4 | [Συμμετοχικό περιεχόμενο: Α1](#4o-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-και-α2) |
 | 5 | [Άσκηση προγραμματισμού: Mouse Option](#5ο-παραδοτέο---mouse-option) |
 | 6 | [Συμμετοχικό περιεχόμενο: Α2](#4o+6ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-και-α2) |
 | 7 | [Άσκηση γραμμής εντολών: Check the Weather](#8ο-παραδοτέο---check-the-weather) |
@@ -103,6 +103,28 @@
 [Linux Commands for Beginners 07 - The Bash Configuration File](https://www.youtube.com/watch?v=esNITi0RkPE) |
 [How do I check system specifications?](https://askubuntu.com/questions/55609/how-do-i-check-system-specifications) |
 [Linux lshw Command](https://linuxhint.com/use-linux-lshw-command) |
+
+# 4ο Παραδοτέο - συμμετοχικό περιεχόμενο 1A
+
+Για το επόμενο παραδοτέο επέλεξα την Mouse Option άσκηση. Η άσκηση περιέχει ένα παράδειγμα κώδικα ο οποίος επιτρέπει στον χρήστη να αλλάξει το περιεχόμενο της σελίδας. Το ζητούμενο είναι να αλλάξουμε τον κώδικα του παραδείγματος με αποτέλεσμα να υπάρχουν περισσότερες επιλογές στην φόρμα. <br />
+
+Αρχικά παρατήρησα στον κώδικα πως υπάρχει η γραμμή «<option value="content2">Περιεχόμενο 2</option>». Εκεί κατάλαβα αμέσως πως η γραμμές αυτές καθορίζουν τις επιλογές του drop down menu. Πρόσθεσα μία ακόμη επιλογή και άλλαξα τα ονόματα όλων των επιλογών. Με την υφιστάμενη γνώση που έχω στον προγραμματισμό κατάλαβα πως ποιο κάτω έχουμε την κλάση που έχει το περιεχόμενο για κάθε επιλογή.
+
+<p align="center">
+<img src="https://i.imgur.com/Cym6IGO.png" width="460px">
+</p>
+
+Στην συνέχεια άλλαξα το κείμενο της πρώτης επιλογής και πρόσθεσα ένα λίνκ. Έπειτα με λίγο ψάξιμο βρήκα πως βάζεις εικόνες σε html και πρόσθεσα δύο εικόνες στην δεύτερη επιλογή του μενού. Τέλος προσπάθησα να βάλω βίντεο και εκεί αντιμετώπισα ένα πρόβλημα. Ο player του Youtube μου έβγαζε ένα error. «www.youtube.com refused to connect». Μετά από λίγο ψάξιμο έμαθα πως πρέπει να κάνω embed το video με διαφορετικό URL.
+
+<p align="center">
+<img src="https://i.imgur.com/Uc8RXQW.png" width="460px">
+</p>
+
+#### Link στο pen της άσκησης στο codepen.io: [Mouse Option](https://codepen.io/P2015002/pen/eYRJwvo)
+
+## Xρήσιμοι συνδέσμοι σχετικά με το παραδοτέο:
+[w3 schools](https://www.w3schools.com/html/)
+[YouTube Refused to Connect](https://forum.freecodecamp.org/t/youtube-refused-to-connect/245262)<br />
 
 # 5ο Παραδοτέο - Mouse option
 
