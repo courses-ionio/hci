@@ -114,12 +114,6 @@
 <img src="https://i.imgur.com/Cym6IGO.png" width="460px">
 </p>
 
-Δεν γνώριζα τα key code από τα πλήκτρα οπότε έψαξα στο Internet και βρήκα μια ιστοσελίδα η οποία πατώντας το αντίστοιχο πλήκτρο σου δείχνει το key code του. Το link προς αυτό το site βρίσκετε στην υπο-ενότητα "χρήσιμες πηγές".
-
-<p align="center">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%204o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/3.png" width="480px">
-</p>
-
 Στην συνέχεια άλλαξα το κείμενο της πρώτης επιλογής και πρόσθεσα ένα λίνκ. Έπειτα με λίγο ψάξιμο βρήκα πως βάζεις εικόνες σε html και πρόσθεσα δύο εικόνες στην δεύτερη επιλογή του μενού. Τέλος προσπάθησα να βάλω βίντεο και εκεί αντιμετώπισα ένα πρόβλημα. Ο player του Youtube μου έβγαζε ένα error. «www.youtube.com refused to connect». Μετά από λίγο ψάξιμο έμαθα πως πρέπει να κάνω embed το video με διαφορετικό URL.
 
 <p align="center">
@@ -224,7 +218,7 @@ ytp, youtube-dl, mpv, mps-youtube, sox, vlc
 [Using for loops to traverse through an array in shell script [duplicate] - StackOverflow](https://stackoverflow.com/questions/33475592/using-for-loops-to-traverse-through-an-array-in-shell-script) |
 [List files with certain extensions with ls and grep - StackOverflow](https://stackoverflow.com/questions/1447625/list-files-with-certain-extensions-with-ls-and-grep) 
 
-# 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο Α1 και Α2
+# 4o + 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο Α1 και Α2
 
 Για το Α μέρος του συμμετοχικού περιεχομένου αποφάσισα να βρω φωτογραφίες και να κάνω διαφάνειες για 2 συσκευές που έφεραν αλλαγές στον κλασικό τρόπο διάδρασης του ανθρώπου με τις αντίστοιχες συσκευές. Αυτές οι συσκευές είναι το Eye Toy του Play Station 2 και το Nintendo Wii με τα Wii Remotes.
 Το σετ διαφανειών που δημιούργησα ονομάζετε "Συσκευές Διάδρασης στα Βιντεοπαιχνίδια" ωστόσο πιστεύω ότι οι διαφάνειες μου θα μπορούσαν να προστεθούν και στο ήδη υπάρχον σετ διαφανειών που αφορά τα βιντεοπαιχνίδια.
