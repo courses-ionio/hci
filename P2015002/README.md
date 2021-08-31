@@ -12,7 +12,7 @@
 | 1 | [Εισαγωγή + Σύνοψη](#εισαγωγη) |
 | 2 | [Άσκηση προγραμματισμού: Mouse Eraser](#2ο-παραδοτέο---mouse-eraser) |
 | 3 | [Άσκηση γραμμής εντολών: Set-up the main dependencies and demonstrate your base system](#3ο-παραδοτέο---set-up-the-main-dependencies-and-demonstrate-your-base-system) |
-| 4 | [Άσκηση προγραμματισμού: Keyboard Input](#4ο-παραδοτέο---keyboard-input) |
+| 4 | [Άσκηση προγραμματισμού: Mouse Option](#4ο-παραδοτέο---mouse-option) |
 | 5 |[Άσκηση γραμμής εντολών: Download mp3](#5ο-παραδοτέο---download-mp3) |
 | 6 | [Συμμετοχικό περιεχόμενο: Α1 και Α2](#6ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-και-α2) |
 | 7 | [Άσκηση προγραμματισμού: Mouse Option](#7ο-παραδοτέο---mouse-option) |
@@ -104,14 +104,14 @@
 [How do I check system specifications?](https://askubuntu.com/questions/55609/how-do-i-check-system-specifications) |
 [Linux lshw Command](https://linuxhint.com/use-linux-lshw-command) |
 
-# 4ο Παραδοτέο - Keyboard Input
+# 4ο Παραδοτέο - Mouse option
 
-Για το 4ο παραδοτέο επέλεξα την άσκηση "Keyboard Input". Σε αυτή την άσκηση ασχολήθηκα με την κίνηση ενός αντικείμενου με την χρήση του πληκτρολογίου. Η άσκηση αυτή ζητούσε να αλλάξω την ταχύτητα του αυτοκινήτου που ο χρήστης κινεί. Συγκεκριμένα ζητείται η ταχύτητα που το αμάξι έχει όταν πάει όπισθεν να είναι η μισή από αυτή που έχει το αμάξι όταν κινείτε εμπρός. <br />
+Για το επόμενο παραδοτέο επέλεξα την Mouse Option άσκηση. Η άσκηση περιέχει ένα παράδειγμα κώδικα ο οποίος επιτρέπει στον χρήστη να αλλάξει το περιεχόμενο της σελίδας. Το ζητούμενο είναι να αλλάξουμε τον κώδικα του παραδείγματος με αποτέλεσμα να υπάρχουν περισσότερες επιλογές στην φόρμα. <br />
 
-Για να το πετύχω αυτό κοίταξα στον κώδικα JS που έμαθα από την προηγούμενη μου άσκηση ότι ευθύνεται για τα event που συμβαίνουν σε ένα πρόγραμμα/σελίδα. Παρατήρησα το κομμάτι του κώδικα όπου υπάρχουν κάποια if statements με το keyword "key" μόλις είδα ότι μέσα στο if υπήρχε η λογική πράξη key == 40 κατάλαβα ότι αυτό σημαίνει πως όταν κάποιο κουμπί (στην περίπτωση αυτή με κωδικό 40) πατηθεί, τότε εκτελείτε ο κώδικας του if statement.
+Αρχικά παρατήρησα στον κώδικα πως υπάρχει η γραμμή «<option value="content2">Περιεχόμενο 2</option>». Εκεί κατάλαβα αμέσως πως η γραμμές αυτές καθορίζουν τις επιλογές του drop down menu. Πρόσθεσα μία ακόμη επιλογή και άλλαξα τα ονόματα όλων των επιλογών. Με την υφιστάμενη γνώση που έχω στον προγραμματισμό κατάλαβα πως ποιο κάτω έχουμε την κλάση που έχει το περιεχόμενο για κάθε επιλογή.
 
 <p align="center">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%204o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/1.2.png" width="460px">
+<img src="https://i.imgur.com/Cym6IGO.png" width="460px">
 </p>
 
 Δεν γνώριζα τα key code από τα πλήκτρα οπότε έψαξα στο Internet και βρήκα μια ιστοσελίδα η οποία πατώντας το αντίστοιχο πλήκτρο σου δείχνει το key code του. Το link προς αυτό το site βρίσκετε στην υπο-ενότητα "χρήσιμες πηγές".
@@ -120,35 +120,17 @@
 <img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%204o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/3.png" width="480px">
 </p>
 
-Μετά στον κώδικα JS παρατήρησα το παρακάτω κομμάτι:
+Στην συνέχεια άλλαξα το κείμενο της πρώτης επιλογής και πρόσθεσα ένα λίνκ. Έπειτα με λίγο ψάξιμο βρήκα πως βάζεις εικόνες σε html και πρόσθεσα δύο εικόνες στην δεύτερη επιλογή του μενού. Τέλος προσπάθησα να βάλω βίντεο και εκεί αντιμετώπισα ένα πρόβλημα. Ο player του Youtube μου έβγαζε ένα error. «www.youtube.com refused to connect». Μετά από λίγο ψάξιμο έμαθα πως πρέπει να κάνω embed το video με διαφορετικό URL.
 
 <p align="center">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%204o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/2.png" width="460px">
+<img src="https://i.imgur.com/Uc8RXQW.png" width="460px">
 </p>
 
-Μέσα στα if statement η μεταβλητή "dy" άλλαζε οπότε κατάλαβα ότι αυτή η μεταβλητή είχε να κάνει με την ταχύτατα και μόλις είδα το παραπάνω κομμάτι επιβεβαιώθηκα. Στην ουσία το παραπάνω κομμάτι κώδικα κατευθύνει το αμάξι και ευθύνεται για το ότι το αμάξι μπορεί να στρίψει και κατά πόσο. Εκτός από την ταχύτητα παρατήρησα ότι αλλάζοντας τον αριθμό τις παραπάνω διαίρεσης το αμάξι μπορεί να κάνει "drift", όμως αυτό είναι μόνο κάτι έξτρα που παρατήρησα. <br />
-
-Μαθαίνοντας λοιπόν ότι το key code 40 αντιστοιχεί στο κάτω βελάκι του πληκτρολογίου το οποίο γνωρίζω ότι κινεί το αμάξι προς τα πίσω απλός πήγα στο if statement με το "if (key == 40)" και απλά άλλαξα την μεταβλητή "dy" από 4 σε 2 ώστε να μειώσω την ταχύτητα της όπισθεν ακριβός στο μισό από όταν το αμάξι πηγαίνει εμπρός.
-
-<p align="center">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%204o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/1.1.png" width="460px">
-</p>
-
-#### Το τελικό αποτέλεσμα φαίνεται στο παρακάτω gif:
-
-<p align="center">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%204o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/CarSpeed.gif" width="580px">
-</p>
-
-
-#### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [_remix/keyboard-input](https://github.com/KuhakuNeko/site/blob/master/_remix/keyboard-input.md)
-
-#### Link στο pen της άσκησης στο codepen.io: [Html Canvas Game P2019108](https://codepen.io/P2019108/pen/gOMRJZa)
-
-#### Link στο netlify site μου του pibook: [KeyboardInput Answer](https://p2019108-ionio-pibook.netlify.app/remix/keyboard-input/)
+#### Link στο pen της άσκησης στο codepen.io: [Mouse Option](https://codepen.io/P2015002/pen/eYRJwvo)
 
 ## Xρήσιμοι συνδέσμοι σχετικά με το παραδοτέο:
-[Keycode.info - get JavaScript event keycodes](https://keycode.info/)<br />
+[w3 schools](https://www.w3schools.com/html/)
+[YouTube Refused to Connect](https://forum.freecodecamp.org/t/youtube-refused-to-connect/245262)<br />
 
 # 5ο Παραδοτέο - Download mp3
 
