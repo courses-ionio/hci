@@ -248,14 +248,6 @@ curl, wttr.in, inxi, finger
 
 # 11ο Παραδοτέο - Άσκηση γραμμής εντολών
 
-Για το δεύτερο μέρος του συμμετοχικού περιεχομένου επέλεξα να κάνω ένα σύντομο βιογραφικό του πατέρα της εικονικής πραγματικότητας Jaron Lanier και μια μελέτη περίπτωσης πάνω στο embodiment interaction στα βιντεοπαιχνίδια όπου αναλύω συσκευές διάδρασης που κατασκευάστηκαν μέσα στο χρόνο με αυτόν τον σκοπό και τον τρόπο που επιτυγχάνουν αυτόν τον διαφορετικό τρόπο διάδρασης, ενώ συγκρίνω επίσης μερικές από αυτές μεταξύ τους.
-
-| Περιγραφή | Repository Link | Netlify Link |
-| --- | --- | --- |
-| Σύντομη βιογραφία του Jaron Lanier | [jaron-lanier.md](https://github.com/KuhakuNeko/site/blob/master/_biography/jaron-lanier.md) + [bio-lanier.md](https://github.com/KuhakuNeko/site/blob/master/_biography/bio-lanier.md) | [Σύντομη βιογραφία του Jaron Lanier](https://p2019108-ionio-pibook.netlify.app//biography/jaron-lanier/) |
-| Η Περίπτωση του Embodiment Interaction και των συσκευών του στα Βιντεοπαιχνίδια | [videogames_embodiment_interaction.md](https://github.com/KuhakuNeko/site/blob/master/_case-study/videogames_embodiment_interaction.md) + [cs-videogames_embodiment_interaction.md](https://github.com/KuhakuNeko/site/blob/master/_case-study/cs-videogames_embodiment_interaction.md) | [Η Περίπτωση του Embodiment Interaction και των Συσκευών του στα Βιντεοπαιχνίδια](https://p2019108-ionio-pibook.netlify.app//case-study/videogames_embodiment_interaction/) |
-
-Για να δημιουργηθούν τα παραπάνω χρειάστηκαν πολλές ώρες με προσεκτικό διάβασμα όλων των πηγών που αναφέρω, όλων των ενοτήτων στο site του μαθήματος, άλλων γνώσεων που προέκυψαν μετά από ψάξιμο (που δεν σχετίζονται άμεσα), αλλά και μετά από πολύ έρευνα. Παρόλο που μπορεί το τελικό αποτέλεσμα να φαίνετε μακροσκελή είναι μια συμπύκνωση των γνώσεών μου μέσα από πολύωρη έρευνα και καλή κατανόηση των γνώσεων που απέκτησα πάνω στο θέμα το οποίο μου κίνησε το ενδιαφέρον μου ιδιαίτερα και με έκανε να το ερευνήσω σε βάθος.
 
 
 # Έξτρα Ασκήσεις Terminal
