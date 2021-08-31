@@ -94,28 +94,6 @@
 [How do I check system specifications?](https://askubuntu.com/questions/55609/how-do-i-check-system-specifications) |
 [Linux lshw Command](https://linuxhint.com/use-linux-lshw-command) |
 
-# 4ο Παραδοτέο - Συμμετοχικό περιεχόμενο 1A
-
-Για το επόμενο παραδοτέο επέλεξα την Mouse Option άσκηση. Η άσκηση περιέχει ένα παράδειγμα κώδικα ο οποίος επιτρέπει στον χρήστη να αλλάξει το περιεχόμενο της σελίδας. Το ζητούμενο είναι να αλλάξουμε τον κώδικα του παραδείγματος με αποτέλεσμα να υπάρχουν περισσότερες επιλογές στην φόρμα. <br />
-
-Αρχικά παρατήρησα στον κώδικα πως υπάρχει η γραμμή «<option value="content2">Περιεχόμενο 2</option>». Εκεί κατάλαβα αμέσως πως η γραμμές αυτές καθορίζουν τις επιλογές του drop down menu. Πρόσθεσα μία ακόμη επιλογή και άλλαξα τα ονόματα όλων των επιλογών. Με την υφιστάμενη γνώση που έχω στον προγραμματισμό κατάλαβα πως ποιο κάτω έχουμε την κλάση που έχει το περιεχόμενο για κάθε επιλογή.
-
-<p align="center">
-<img src="https://i.imgur.com/Cym6IGO.png" width="460px">
-</p>
-
-Στην συνέχεια άλλαξα το κείμενο της πρώτης επιλογής και πρόσθεσα ένα λίνκ. Έπειτα με λίγο ψάξιμο βρήκα πως βάζεις εικόνες σε html και πρόσθεσα δύο εικόνες στην δεύτερη επιλογή του μενού. Τέλος προσπάθησα να βάλω βίντεο και εκεί αντιμετώπισα ένα πρόβλημα. Ο player του Youtube μου έβγαζε ένα error. «www.youtube.com refused to connect». Μετά από λίγο ψάξιμο έμαθα πως πρέπει να κάνω embed το video με διαφορετικό URL.
-
-<p align="center">
-<img src="https://i.imgur.com/Uc8RXQW.png" width="460px">
-</p>
-
-#### Link στο pen της άσκησης στο codepen.io: [Mouse Option](https://codepen.io/P2015002/pen/eYRJwvo)
-
-## Xρήσιμοι συνδέσμοι σχετικά με το παραδοτέο:
-[w3 schools](https://www.w3schools.com/html/)
-[YouTube Refused to Connect](https://forum.freecodecamp.org/t/youtube-refused-to-connect/245262)<br />
-
 # 5ο Παραδοτέο - Mouse option
 
 Για το επόμενο παραδοτέο επέλεξα την Mouse Option άσκηση. Η άσκηση περιέχει ένα παράδειγμα κώδικα ο οποίος επιτρέπει στον χρήστη να αλλάξει το περιεχόμενο της σελίδας. Το ζητούμενο είναι να αλλάξουμε τον κώδικα του παραδείγματος με αποτέλεσμα να υπάρχουν περισσότερες επιλογές στην φόρμα. <br />
@@ -138,7 +116,7 @@
 [w3 schools](https://www.w3schools.com/html/)
 [YouTube Refused to Connect](https://forum.freecodecamp.org/t/youtube-refused-to-connect/245262)<br />
 
-# 5ο Παραδοτέο - Download mp3
+# 7ο Παραδοτέο - Download mp3
 
 Η δεύτερη εργασία γραμμής εντολών που επέλεξα ζητούσε να αναζητήσουμε, να κατεβάσουμε και να ακούσουμε το αγαπημένο μας τραγούδι αυτού του μήνα. Όλα αυτά μέσα από το terminal του linux. Παρακάτω έχουμε τα links για της δυο διαφορετικές εκτελέσεις της εργασίας μου. <br>
 
@@ -229,30 +207,6 @@ ytp, youtube-dl, mpv, mps-youtube, sox, vlc
 [Using Shell Arrays - TutorialsPoint](https://www.tutorialspoint.com/unix/unix-using-arrays.htm) |
 [Using for loops to traverse through an array in shell script [duplicate] - StackOverflow](https://stackoverflow.com/questions/33475592/using-for-loops-to-traverse-through-an-array-in-shell-script) |
 [List files with certain extensions with ls and grep - StackOverflow](https://stackoverflow.com/questions/1447625/list-files-with-certain-extensions-with-ls-and-grep) 
-
-# 4o + 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο Α1 και Α2
-
-Για το Α μέρος του συμμετοχικού περιεχομένου αποφάσισα να βρω φωτογραφίες και να κάνω διαφάνειες για 2 συσκευές που έφεραν αλλαγές στον κλασικό τρόπο διάδρασης του ανθρώπου με τις αντίστοιχες συσκευές. Αυτές οι συσκευές είναι το Eye Toy του Play Station 2 και το Nintendo Wii με τα Wii Remotes.
-Το σετ διαφανειών που δημιούργησα ονομάζετε "Συσκευές Διάδρασης στα Βιντεοπαιχνίδια" ωστόσο πιστεύω ότι οι διαφάνειες μου θα μπορούσαν να προστεθούν και στο ήδη υπάρχον σετ διαφανειών που αφορά τα βιντεοπαιχνίδια.
-Επίσης δημιούργησα ένα χρονολόγιο με το ίδιο όνομα που δείχνει την διαδρομή αυτών των συσκευών μέσα στο χρόνο προσθέτοντας εκτός από το Wii και το Eye Toy και αρκετές συσκευές που ήδη υπήρχαν στο gallery.
-
-| Περιγραφή | Repository Link | Netlify Link |
-| --- | --- | --- |
-| Gallery Eye Toy | [eye-toy.md](https://github.com/KuhakuNeko/_gallery/blob/4b245cfde572ebc742904904383084f997542465/eye-toy.md) | [Eye Toy Summary](https://p2019108-ionio-pibook.netlify.app//gallery/eye-toy/) |
-| Images Eye Toy | [Full Quality](https://github.com/KuhakuNeko/images/blob/a2bff13d94e83d1f308f75b4b67e595cc1e62338/eye-toy.jpg) + [Thumbnail](https://github.com/KuhakuNeko/images/blob/a2bff13d94e83d1f308f75b4b67e595cc1e62338/eye-toy-thumb.jpg) |  |
-| Gallery Wii | [wii-console.md](https://github.com/KuhakuNeko/_gallery/blob/4b245cfde572ebc742904904383084f997542465/wii-console.md) | [Wii Summary](https://p2019108-ionio-pibook.netlify.app//gallery/wii-console/) |
-| Images Wii | [Full Quality](https://github.com/KuhakuNeko/images/blob/a2bff13d94e83d1f308f75b4b67e595cc1e62338/wii-console.jpg) + [Thumbnail](https://github.com/KuhakuNeko/images/blob/a2bff13d94e83d1f308f75b4b67e595cc1e62338/wii-console-thumb.jpg) |  |
-| Slides | [Συσκευες Διαδρασης στα Βιντεοπαιχνιδια (Slides)](https://github.com/KuhakuNeko/site/blob/master/_slides/videogamesinteractiondevices.md) | [Διαφάνειες Συσκευών Διάδρασης στα Βιντεοπαιχνιδια](https://p2019108-ionio-pibook.netlify.app//slides/videogamesinteractiondevices/) |
-| Timeline | [Συσκευες Διαδρασης στα Βιντεοπαιχνιδια (Timeline)](https://github.com/KuhakuNeko/site/blob/master/_timeline/videogamesinteractiondevices.md) | [Χρονολόγιο Συσκευών Διάδρασης στα Βιντεοπαιχνιδια](https://p2019108-ionio-pibook.netlify.app//timeline/videogamesinteractiondevices/) |
-
-Οι σύνδεσμοι είναι λίγοι (και δεν χρησιμοποιήθηκαν ιδιαιτέρως σε αυτό το κομμάτι) διότι εγώ ο ίδιος κατέχω τις παραπάνω συσκευές και έχω ασχοληθεί αρκετά μαζί τους, οπότε γνώριζα πολλά πράγματα και από μόνος μου πάνω στο αντικείμενο.
-
-### Συνδέσμοι πηγών:
-[EyeToy - Wikipedia](https://en.wikipedia.org/wiki/EyeToy) |
-[EyeToy: Play - Wikipedia](https://en.wikipedia.org/wiki/EyeToy:_Play) |
-[Video Game History Timeline - The Strong National Museum of Play](https://www.museumofplay.org/about/icheg/video-game-history/timeline) |
-[Wii - Wikipedia](https://en.wikipedia.org/wiki/Wii) |
-[Wii Remote - Wikipedia](https://en.wikipedia.org/wiki/Wii_Remote)
 
 # 7ο Παραδοτέο - Mouse Option
 
