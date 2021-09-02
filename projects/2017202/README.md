@@ -46,6 +46,10 @@
  
 ![image](https://user-images.githubusercontent.com/56488103/131909858-845ef595-8c5e-45c9-8f73-a21fa26012ee.png)
 
+#### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [_Menu CSS](https://pibook.epidro.me/remix/menu-css/)
+
+#### Link στο pen της άσκησης στο codepen.io: [Menu CSS P2017202](https://codepen.io/alexandrosp38/pen/bGRerVj)
+
 
 # 3ο Άσκηση Γραμμής Εντολών -
 
