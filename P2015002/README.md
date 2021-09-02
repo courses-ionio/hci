@@ -141,7 +141,7 @@
 Η αναπαραγωγή του τραγουδιού ήταν σχετικά εύκολη. Χρειάστηκα δύο πράγματα. MPV και Mplayer. Αφού τα κατέβασα, έπρεπε να αλλάξω το working directory του terminal με την εντολή cd /path/path . Για να βεβαιωθώ ότι είμαι στο σωστό directory έγραψα την εντολή pwd η οποία μου κάνει print το working directory του terminal. Στην συνέχεια έγραψα την εντολή ls η οποία που κάνει print τα contents του directory. Στον φάκελο είχα μόνο το τραγούδι που κατέβασα και έτσι για αναπαραγωγή έγραψα mplayer <όνομα αρχείου>. Πάτησα enter και ξεκίνησε το τραγούδι να παίζει. Στο asciinema δεν φαίνεται το βίντεο αλλά φαίνεται η αναπαραγωγή από το terminal.
 
 ### Προβλήματα που χρειάστηκε να επιλυθούν μέχρι την εκτέλεση:
-Προβλήματα είχα πολλά. Αρχικά προσπάθησα να αναζητήσω τραγούδι με το εργαλείο ytp. Το API δεν ήθελε να συνεργαστεί και διάβασα πως πρέπει να κάνω δικό μου API μέσο Google Console. Το έκανα αλλά και πάλι, μου έβγαζε άλλα errors. Στην συνέχεια δοκίμασα το εργαλείο youtube-viewer αλλά και πάλι τίποτα. Τέλος βρήκα το ytfzf και κατάφερα να κάνω την αναζήτηση μου. Το άλλο πρόβλημα που είχα ήταν πως δεν ήξερα ότι έπρεπε να αλλάξω το directory του terminal για να κατέβει το τραγούδι εκεί που ήθελα. Έψαξα λίγο και έμαθα για τις εντολές cd, pwd και ls.
+Προβλήματα είχα πολλά. Αρχικά προσπάθησα να αναζητήσω τραγούδι με το εργαλείο ytp. Το API δεν ήθελε να συνεργαστεί και διάβασα πως πρέπει να κάνω δικό μου API μέσο Google Console. Το έκανα αλλά και πάλι, μου έβγαζε άλλα errors. Στην συνέχεια δοκίμασα το εργαλείο youtube-viewer αλλά και πάλι τίποτα. Τέλος βρήκα το ytfzf και κατάφερα να κάνω την αναζήτηση μου. Το άλλο πρόβλημα που είχα ήταν πως δεν ήξερα ότι έπρεπε να αλλάξω το directory του terminal για να κατέβει το τραγούδι εκεί που ήθελα. Έψαξα λίγο και έμαθα για τις εντολές cd, pwd και ls. Τέλος, το τελευταίο πρόβλημα που είχα ήταν τα errors που έβγαζε το ytfzf. Η λύση ήταν να δω αν είναι εγκατεστημένο το python3 με την εντολή whereis python3. Ήταν εγκατεστημένο, στην συνέχεια έπρεπε να δημιουργήσω ένα symlink με την εντολή sudo ln -s /usr/bin/python3 /usr/bin/python.
 
 ### Εργαλεία που χρησιμοποίησα:
 ytfzf, youtube-dl, mpv, mplayer
@@ -154,6 +154,7 @@ ytfzf, youtube-dl, mpv, mplayer
 [How to change directory in Linux terminal](https://www.cyberciti.biz/faq/how-to-change-directory-in-linux-terminal/) |
 [mplayer](https://github.com/philipl/mplayer) |
 [mpv](https://github.com/mpv-player/mpv) |
+[ubuntu /usr/bin/env: python: No such file or directory](https://stackoverflow.com/questions/3655306/ubuntu-usr-bin-env-python-no-such-file-or-directory/61608129?fbclid=IwAR2Jah5CiPubxsJW2HsH3Td1LvLRTtSLNPZ9-Wv3QpzCbSUKBhrrjcbQ4T0) |
 
 # 9ο Παραδοτέο - Check the Weather
 
