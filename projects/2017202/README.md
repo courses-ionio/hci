@@ -51,5 +51,31 @@
 #### Link στο pen της άσκησης στο codepen.io: [Menu CSS P2017202](https://codepen.io/alexandrosp38/pen/bGRerVj)
 
 
-# 3ο Άσκηση Γραμμής Εντολών -
+# 3ο Άσκηση Γραμμής Εντολών - Search, Download and Play mp3
+
+   
+   Στην συγκεκριμένη εργασία γραμμής εντολών σκοπός είναι η εύρεση, αποθήκευση και αναπαραγωγή ενός τραγουδιού.
+   
+   
+   Για τον σκοπό αυτό εγκαταστάθηκε το [youtube-dl](https://github.com/ytdl-org/youtube-dl) για την εύρεση και την αποθήκευση του τραγουδιού.
+   
+   
+   Επίσης έγινε εγκατάσταση και του [ffmpeg](https://www.ffmpeg.org/) ώστε να γίνει εξαγωγή ο ήχος απο το αρχείο " .mkv" σε αρχείο " .mp3"
+   Tέλος με το [mkv player](https://github.com/mpv-player/mpv) έγινε η αναπαραγωγή του αρχείου του τραγουδιού " .mp3".
+   
+   Me το asciinema καταγράφηκε μια επιτυχημένη
+   * Aναζήτηση
+   * Aποθήκευση
+   * Εξαγωγή ήχου
+   * Αναπαραγωγή
+  
+   
+   [Link asciinema](https://asciinema.org/a/8haJ9uf622aphIyZLqHqeCIMF)
+   
+   ### MPS-youtube
+  Ένα ακόμα εργαλείο που μπορεί να χρησιμοποιηθεί αντί του youtube-dl είναι το [mps-youtube](https://github.com/mps-youtube/mps-youtube).
+  Με το εργαλείο αυτό γίνεται αναζήτηση και εμφανίζει λίστα με τα διαθέσιμα προς αναπαραγωγή ή αποθήκευση τραγούδια.
+  
+  
+  [Link asciinema](https://asciinema.org/a/zo5gxZeH9cT3VkpLMAaQhCbuo) 
 
