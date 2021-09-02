@@ -32,10 +32,15 @@
   
   Πρώτη αλλαγή που έγινε ήταν η προσθήκη ενός ακόμα αντικειμένου στον κώδικα CSS. Έτσι αντί για **item-count: 6** το αλλάζομε σε **item-count: 7**
   
-      $item-count: **7**;
+      $item-count: 7;
       $item-size: $toggler-size * 2;
       $item-color: white;
       $item-transition: .5s;
+  
+  Στην συνέχεια τροποποιήθηκε το αρχείο HTML. Προστέθηκε η γραμμή που καλεί απο το font-awsome το εικονιδιο του μενού με το check mark που θελήσαμε να εισάγουμε στο μενου. Το εικονίδιο αυτό μας οδηγεί στην σελίδα του βιβλίου https://pibook.epidro.me/
+  
+    %li.menu-item
+          %a.fa.fa-check-circle{:href => "https://pibook.epidro.me/", :target => "_blank"}
 
 # 3ο Άσκηση Γραμμής Εντολών -
 
