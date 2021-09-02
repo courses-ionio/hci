@@ -41,7 +41,9 @@
   
     %li.menu-item
           %a.fa.fa-check-circle{:href => "https://pibook.epidro.me/", :target => "_blank"}
-          
+ 
+ Το αποτέλεσμα του μενού φαίνεται στην εικόνα:
+ 
 ![image](https://user-images.githubusercontent.com/56488103/131909858-845ef595-8c5e-45c9-8f73-a21fa26012ee.png)
 
 
