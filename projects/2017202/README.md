@@ -94,6 +94,7 @@
    Στη συνέχεια βρήκα φωτογραφίες ελεύθερων πνευματικών δικαιωμάτων τις οποίες και ανέβασα στον φάκελο images.
    Οι εικόνες είναι στο κανονικό μέγεθος αλλά και στο thumbnail που εμφανίζεται στην κεντρική σελίδα του βιβλίου.
    [Εικόνα MAC](https://github.com/AlexandrosP38/gr/blob/gh-pages/images/macpc.jpg)
+   
    [Εικόνα-thumbnail MAC](https://github.com/AlexandrosP38/gr/blob/gh-pages/images/macpc-thumb.jpg)
    
    [Link 1ης εικόνας](https://alexandrosp38.github.io/gr/gallery/mac-pc/)
