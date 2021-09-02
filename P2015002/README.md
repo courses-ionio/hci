@@ -15,7 +15,7 @@
 | 4 | [~~Συμμετοχικό περιεχόμενο: Α1~~] |
 | 5 | [Άσκηση προγραμματισμού: Mouse Option] |
 | 6 | [~~Συμμετοχικό περιεχόμενο: Α2~~] |
-| 7 | [Άσκηση γραμμής εντολών: Check the Weather] |
+| 7 | [Άσκηση γραμμής εντολών: Download MP3] |
 | 8 | [~~Συμμετοχικό περιεχόμενο: Β1~~] |
 | 9 | [Άσκηση γραμμής εντολών: Organise the Terminal Window into Multiple Areas] |
 | 10 | [~~Συμμετοχικό περιεχόμενο: Β2~~] |
@@ -118,95 +118,42 @@
 
 # 7ο Παραδοτέο - Download mp3
 
-Η δεύτερη εργασία γραμμής εντολών που επέλεξα ζητούσε να αναζητήσουμε, να κατεβάσουμε και να ακούσουμε το αγαπημένο μας τραγούδι αυτού του μήνα. Όλα αυτά μέσα από το terminal του linux. Παρακάτω έχουμε τα links για της δυο διαφορετικές εκτελέσεις της εργασίας μου. <br>
+Για την επόμενη εργασία γραμμής εντολών επέλεξα αυτήν που ήθελε να κάνουμε search στο YouTube, να κατεβάσουμε το τραγούδι και στην συνέχεια να το παίξουμε. Μετά από πάρα πολύ ώρα βρήκα το εργαλείο ytfzf.<br/>
 
-#### Asciinema link Ver.1:  [Παραδοτέο 5 Ver.1](https://asciinema.org/a/cRdd29OBv2PV9RE6IhsHoC8tc)<br />
-#### Asciinema link Ver.2:  [Παραδοτέο 5 Ver.2](https://asciinema.org/a/miOkejPaVBDcSwBUzFVEYaf11)
+Έκανα install όλα τα dependencies με την εντολή sudo apt install <dependence name>, άλλαξα το working directory για το κατέβασμα των τραγουδιών, χρησιμοποίησα την εντολή ytfzf -d μετά έγραψα Tash για να βρω το αγαπημένο μου τραγούδι και να το κατεβάσω στο working directory που έβαλα (/home/Marios/deskstop/music).<br/>
+
+#### Asciinema link:  [Παραδοτέο 7](https://asciinema.org/a/433601)<br />
 
 #### Η εργασία ουσιαστικά χωρίζετε στα εξής βήματα:
 
 ### 1. Αναζήτηση του τραγουδιού στο YouTube
-Στην version 1 έκανα αναζήτηση στο YouTube μέσω του εργαλείου ytp, το εργαλείο (όπως και αρκετά άλλα) είχε κάποια προβλήματα που αναλύονται στην παράγραφο με τα προβλήματα που χρειάστηκε να επιλυθούν για την σωστή εκτέλεση. Το εργαλείο ytp σου προφέρει πολλές λειτουργείες όμως εγώ το χρησιμοποίησα ώστε να μπορέσω να κάνω αναζήτηση στην πλατφόρμα του youtube και να αντιγράψω το url του αντίστοιχου video για να μπορέσω να το κατεβάσω.
+Η αναζήτηση ήταν σχετικά εύκολη δεδομένου ότι το ytfzf εγκαταστάθηκε σωστά. Απλά γράφουμε ytfzf και μετά σε κάνει promt να γράψεις τι θα ήθελες να κάνει search. Στην συνέχεια αφού κάνεις την αναζήτηση σου βγάζει διάφορες επιλογές, διαλέγεις το κομμάτι σου και πατάς enter για αναπαραγωγή.<br/>
 
-Γρανίτας λοιπόν ytp στο terminal ανοίγει το interface του και εμφανίζετε μια default αναζήτηση που κάνει το ytp με το keyword “Friday”. Εισάγοντας την εντολή “x” κάνουμε νέα αναζήτηση και μετά γράφουμε το όνομα του τραγουδιού που ψάχνουμε. Ο ytp θα εμφανίσει τα αποτελέσματα αριθμημένα και επιλέγοντας τον αντίστοιχο αριθμό διαλέγουμε το τραγούδι. Αμέσως μετά πατάω “Y” για την αντιγραφή του url του επιλεγμένου video.
-Για να γίνει έξοδος από το interface του ytp πατάω Ctrl+C. Το url έχει αντιγραφεί επιτυχώς.
-
-Στην version 2 η αναζήτηση γίνετε μέσω του mps-youtube. Το mps-youtube έχει αντίστοιχες λειτουργείες με το ytp όμως το interface του είναι πολύ πιο γραφικό. Η εντολή “sudo mpsyt” ανοίγει το interface και το sudo απαιτείται λόγο δικαιωμάτων. Η αναζήτηση γίνετε με την εντολή “/ VideoName” όπου VideoName το video που αναζητούμε. Αναζητώντας το mps-youtube εμφανίζει τα αποτελέσματα αριθμημένα και εισάγοντας την εντολή “x 1” αντιγράφετε το url του video που βρίσκετε στην θέση 1.
+Θα αναφέρω πολλά προβλήματα που είχα με την αναζήτηση στο τέλος.
 
 ### 2. Κατέβασμα του τραγουδιού από το YouTube σε μορφή mp3
-Για το κατέβασμα του video και την εξαγωγή του κομματιού ήχου σε μορφή mp3 από αυτό χρησιμοποίησα το εργαλείο youtube-dl.
-Για να κατεβάσω το τραγούδι στον υπολογιστή μου χρησιμοποίησα την εντολή « youtube-dl –x –audio-format mp3 –o “GRIMOIRE.%(ext)s” https://www.youtube.com/watch?v=9a5Luy0h1Mg »
+Το κατέβασμα είναι σχεδόν το ίδιο με την αναζήτηση. Στην αρχή για αναζήτηση γράψαμε ytfzf, τώρα για το κατέβασμα πρέπει να προσθέσουμε -d στο τέλος. Δηλαδή ytfzf -d.
+Στην συνέχεια όπως και πριν, γράφουμε αυτό που θέλουμε να κατεβάσουμε και μας βγάζει μία λίστα από επιλογές. Διαλέγουμε το τραγούδι και ξεκινάει το κατέβασμα.<br/>
 
-Η παράμετρος “–x” είναι ώστε ο youtube-dl να μην κατεβάσει απλά το video αλλά να κάνει extract μόνο τον ήχο. Μετά το “-audio-format mp3” χρησιμοποιείται για να δηλώσουμε τον τύπο του αρχείου. Τ “-o “GRIMOIRE.%(ext)s” είναι μια παράμετρος που σου επιτρέπει να ονομάσεις το αρχείο που κατεβάζεις, σε περίπτωση που δεν θέλουμε να του δωθεί ως όνομα ο τίτλος του video by default. (Ο τίτλος του τραγουδιού που κατεβάζω σε αυτό το παράδειγμα είναι GRIMOIRE)
-
-Επειδή ήδη είχα εκτελέσει την εντολή “cd /home/kuhakuneko/Music” βρισκόμουν ήδη στο directory όπου κατεβάζω την μουσική μου και το youtube-dl κατεβάζει και τοποθετεί τα αρχεία στο directory που βρίσκεστε εκείνη την στιγμή by default.
-
-Το mps-youtube σου δίνει την δυνατότητα να κατεβάσεις video με τον ίδιο τρόπο που έκανα αντιγραφή το url, όμως λόγο σφάλματος κάποιου server το video δεν μπόρεσε να κατέβει.
-
+Θα ήθελα να σημειώσω δύο πράγματα. Το ytfzf χρησιμοποιεί το youtube-dl για το κατέβασμα. Για να μπορέσω να κατεβάσω ένα βίντεο έπρεπε πρώτα να γράψω sudo apt install youtube-dl. Έπειτα έπρεπε να αλλάξω το working directory του terminal έτσι ώστε το τραγούδι να κατέβει στο φάκελο που ήθελα και όχι στο default.
 
 ### 3. Αναπαραγωγή του τραγουδιού από το terminal
-Για την αναπαραγωγή τραγουδιών μέσω terminal υπάρχουν πολλές επιλογές. Στις εκτελέσεις μου χρησιμοποίησα 3 διαφορετικά εργαλεία.
-Στην version 1 έγινε χρήση του mpv. Με την εντολή “mpv” και ακριβώς από δίπλα την διαδρομή στο αρχείο ο mpv μπορεί να παίξει το αντίστοιχο αρχείο mp3 δείχνοντας στο terminal τα δευτερόλεπτα και την ποιότητα του Mp3.
-
-Στην version 2 τα εργαλεία που χρησιμοποίησα έχουν πολύ καλύτερο γραφικό περιβάλλον και σου δίνουν περισσότερες πληροφορίες. Τα 2 αυτά εργαλεία είναι το sox και ο VLC.
-
-Η εντολή για την αναπαραγωγή mp3 με τον sox είναι “play” και ακολουθείτε από το directory του mp3 αρχείου. Ο sox σου προφέρει ένα μικρό visualizer ήχου και εκτός από τις πληροφορίες που προσφέρει και το mpv έχει ακόμα File Size, Bit Rate, Encoding και σε ενημερώνει αν το Replay είναι on ή off.
-
-Μετά ο VLC το γνωστό πολυμεσικό πρόγραμμα γίνετε να λειτουργήσει εντός του terminal με την εντολή “nvlc”. Το n μπροστά από το vlc ενεργοποιεί την terminal μορφή του. Ο VLC έχει ένα ωραίο γραφικό περιβάλλον εντός terminal με μεγάλη μπάρα χρόνου ενώ ακριβώς από κάτω δείχνει το playlist σου.
+Η αναπαραγωγή του τραγουδιού ήταν σχετικά εύκολη. Χρειάστηκα δύο πράγματα. MPV και Mplayer. Αφού τα κατέβασα, έπρεπε να αλλάξω το working directory του terminal με την εντολή cd /path/path . Για να βεβαιωθώ ότι είμαι στο σωστό directory έγραψα την εντολή pwd η οποία μου κάνει print το working directory του terminal. Στην συνέχεια έγραψα την εντολή ls η οποία που κάνει print τα contents του directory. Στον φάκελο είχα μόνο το τραγούδι που κατέβασα και έτσι για αναπαραγωγή έγραψα mplayer <όνομα αρχείου>. Πάτησα enter και ξεκίνησε το τραγούδι να παίζει. Στο asciinema δεν φαίνεται το βίντεο αλλά φαίνεται η αναπαραγωγή από το terminal.
 
 ### Προβλήματα που χρειάστηκε να επιλυθούν μέχρι την εκτέλεση:
-Ένα από τα προβλήματα που αντιμετώπισα είναι ότι τα εργαλεία mps-youtube και ytp χρησιμοποιούν την Data API του YouTube για να λειτουργήσουν, επομένως απαιτούν κάποια credentials και ένα συγκεκριμένο κλειδί για την χρήση του API. Τα default κλειδιά δεν λειτουργούσαν πλέων γι’ αυτό έπρεπε χρησιμοποιώντας το google account μου να μπω και να φτιάξω ένα project που να περιέχει το YouTube DATA API στην σελίδα https://console.developers.google.com. Παίρνοντας το κλειδί έπρεπε να το κάνω set στα αντίστοιχα αρχεία config για τον ytp, και για το mps-youtube μέσω της εντολής “set api_key”.
-
-<p align="left">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%205o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/YTPSetApiKey.gif" width="450px">
-</p>
-
-<p align="right">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%205o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/MPSSetApiKey.gif" width="450px">
-</p>
-
-## Shell Scripting – YoutubeDLSS.sh
-
-Ώσον αφορά το shell scripting για την συγκεκριμένη εργασία ασχολήθηκα αρκετά και έφτιαξα ένα πρόγραμμα το οποίο δημιουργεί κάποιο interface και επιτρέπει στον χρήστη να κατεβάσει, να ψάξει και να αναπαράγει μουσική και βίντεο χωρίς να χρειαστεί να γράψει καμία εντολή. <br/>
-Το πρόγραμμα σε αφήνει να κάνεις search μέσω του ytp ή να του δόσεις κατευθείαν link για download και σε ρωτάει αν θέλεις να κάνεις extract τον ήχο ή όχι.
-Ακόμη το script σου δίνει τη δυνατότητα να δεις τα αρχεία μουσικής και βίντεο του συγκεκριμένου directory. <br/>
-Επιπλέων το YoutubeDLSS script αξιοποιεί αρκετούς video και music players και σου δίνει την επιλογή να διαλέξεις με ποιων από αυτούς θες να κάνεις αναπαραγωγή ενός ή ακόμη και όλων των αρχείων δημιουργώντας έμμεσα μια δική σου playlist! <br/>
-
-#### YoutubeDLSS Demo: [Demo for YoutubeDLSS.sh by KuhakuNeko](https://asciinema.org/a/VlPMJ7XiUjUfVelGFS0s9JN3J)
-#### YoutubeDLSS.sh shell script: [YoutubeDLSS.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/YoutubeDLSS.sh)
-#### Μπορείτε επίσης να επισκεφτείτε την σελίδα με όλα τα shell scripts μου για περισσότερα: [KuhakuNekoLinuxShellScripts](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts)
+Console. Το έκανα αλλά και πάλι, μου έβγαζε άλλα errors. Στην συνέχεια δοκίμασα το εργαλείο youtube-viewer αλλά και πάλι τίποτα. Τέλος βρήκα το ytfzf και κατάφερα να κάνω την αναζήτηση μου. Το άλλο πρόβλημα που είχα ήταν πως δεν ήξερα ότι έπρεπε να αλλάξω το directory του terminal για να κατέβει το τραγούδι εκεί που ήθελα. Έψαξα λίγο και έμαθα για τις εντολές cd, pwd και ls.
 
 ### Εργαλεία που χρησιμοποίησα:
-ytp, youtube-dl, mpv, mps-youtube, sox, vlc
+ytfzf, youtube-dl, mpv, mplayer
 
 ### Συνδέσμοι πηγών:
-[How to download an MP3 track from a YouTube video](https://askubuntu.com/questions/178481/how-to-download-an-mp3-track-from-a-youtube-video) |
-[Where does youtube-dl download the videos to?](https://askubuntu.com/questions/373336/where-does-youtube-dl-download-the-videos-to) |
-[How to specify a filename while extracting audio using youtube-dl?](https://askubuntu.com/questions/630134/how-to-specify-a-filename-while-extracting-audio-using-youtube-dl) |
-[How to play mp3 files from the command line?](https://askubuntu.com/questions/115369/how-to-play-mp3-files-from-the-command-line) |
-[How to Play MP3 Files from Command Line](https://linuxhint.com/play_mp3_files_commandline/) |
-[mps-youtube](https://github.com/mps-youtube/mps-youtube) |
-[ytp](https://gitlab.com/uoou/ytp)
-
-Μιας και είναι η πρώτη φορά που ασχολούμε με το shell scripting και pipelining αυτές είναι μερικές από τις πήγες που με βοήθησαν: <br/>
-[How to write a bash script - OMGenomics](https://www.youtube.com/watch?v=F-gskSl4pwQ) |
-[Writing your First Shell Script for Linux Tutorial - Kris Occhipinti](https://www.youtube.com/watch?v=eiBVlxxu3so) |
-[Shell Scripting Tutorial: How to Create Shell Script in Linux/Unix - Guru99](https://www.guru99.com/introduction-to-shell-scripting.html) |
-[When someone says “in your path,” what does this mean exactly? - SuperUser](https://superuser.com/questions/221926/when-someone-says-in-your-path-what-does-this-mean-exactly) |
-[12. Pipeline commands in Linux. - Average Linux User](https://www.youtube.com/watch?v=5-wnAO5G7n0) |
-[Linux pipe Command - LinuxHint](https://linuxhint.com/linux_pipe_command/) |
-[Pipe, Grep and Sort Command in Linux/Unix with Examples - Guru99](https://www.guru99.com/linux-pipe-grep.html) |
-[Piping in Unix or Linux - GeeksForGeeks](https://www.geeksforgeeks.org/piping-in-unix-or-linux/) |
-[If Statements! - Ryans Tutorials](https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php) |
-[While Loop - Linux Shell Scripting Tutorial Handbook](https://bash.cyberciti.biz/guide/While_loop) |
-[Shell Scripting Tutorial (Variables) - Steve Parker](https://www.shellscript.sh/variables1.html) |
-[Writting Shell Scripts - linuxcommand](https://linuxcommand.org/lc3_writing_shell_scripts.php) |
-[Unix Shell Scripting - TutorialsPoint](https://www.tutorialspoint.com/unix/shell_scripting.htm) |
-[What is the preferred method to echo a blank line in a shell script? - StackOverflow](https://stackoverflow.com/questions/37052899/what-is-the-preferred-method-to-echo-a-blank-line-in-a-shell-script) |
-[Sleep Command in Linux - LinuxHint](https://linuxhint.com/sleep_command_linux/) |
-[Using Shell Arrays - TutorialsPoint](https://www.tutorialspoint.com/unix/unix-using-arrays.htm) |
-[Using for loops to traverse through an array in shell script [duplicate] - StackOverflow](https://stackoverflow.com/questions/33475592/using-for-loops-to-traverse-through-an-array-in-shell-script) |
-[List files with certain extensions with ls and grep - StackOverflow](https://stackoverflow.com/questions/1447625/list-files-with-certain-extensions-with-ls-and-grep) 
+[ytfzf - Search (With Thumbnails) And Play YouTube Videos From A Terminal](https://www.linuxuprising.com/2021/03/ytfzf-search-with-thumbnails-and-play.html) |
+[youtube-dl](https://github.com/ytdl-org/youtube-dl) |
+[ytfzf](https://github.com/pystardust/ytfzf) |
+[How To Play Video From The Terminal In Linux With Mplayer](https://www.youtube.com/watch?v=D1lGmif0w94) |
+[How to change directory in Linux terminal](https://www.cyberciti.biz/faq/how-to-change-directory-in-linux-terminal/) |
+[mplayer](https://github.com/philipl/mplayer) |
+[mpv](https://github.com/mpv-player/mpv) |
 
 # 9ο Παραδοτέο - Check the Weather
 
