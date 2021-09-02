@@ -21,7 +21,7 @@
 
 [Οδηγίες για την διαδικασία αποστολής της εργασίας και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/)
 
-[Ανακοινώσεις, απορίες, και πρόγραμμα συναντήσεων](https://github.com/courses-ionio/hci/issues)
+[Ανακοινώσεις](https://github.com/courses-ionio/hci/issues) και [απορίες](https://github.com/courses-ionio/hci/discussions)
 
 ## Syllabus
 
