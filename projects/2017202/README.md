@@ -100,6 +100,5 @@
    [Link 1ης εικόνας](https://alexandrosp38.github.io/gr/gallery/mac-pc/)
    
    
-   
-   [Link 2ης εικόνας](https://alexandrosp38.github.io/gr/gallery/Latex/)
+  
 
