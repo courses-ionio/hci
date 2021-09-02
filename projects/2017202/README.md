@@ -83,4 +83,14 @@
   
 # 4ο Συμμετοχικό περιεχόμενο 1A
 
+  [Link σελιδας συμμετοχικου](https://alexandrosp38.github.io/gr/)
+
+  [Link αντιγράφου αποθετηρίου](https://github.com/AlexandrosP38/gr)
+
+   Έχοντας δημιουργήσει αντίγραφο του αποθετηρίου στόχος μου ήταν η προσθήκη 2 εικόνων με έλευθερα πνευματικά δικαιώματα στο ["O Προγραμματισμός της Διάδρασης"](https://www.mibook.org/)
+   
+  
+   [Link 1ης εικόνας](https://alexandrosp38.github.io/gr/gallery/mac-pc/)
+   
+   [Link 2ης εικόνας](https://alexandrosp38.github.io/gr/gallery/Latex/)
 
