@@ -179,6 +179,16 @@ emacs
 
 # 11ο Παραδοτέο - Άσκηση γραμμής εντολών
 
+Για την τελευταία άσκηση γραμμής εντολών επέλεξα να κάνω αυτήν που ζητούσε να χωρίσουμε το terminal σε πολλαπλά παράθυρα. Για την εργασία θα χρησιμοποιήσω το tmux το οποίο εγκατέστησα με την εντολή sudo apt-get install tmux. Παράλληλα κατέβασα το glances για να κάνω monitor τον υπολογιστή μου. 
+Αφού εγκατέστησα όλα τα εργαλεία ξεκίνησα με το tmux γράφοντας tmux στο terminal. Έπειτα χρησιμοποίησα τα hotkeys CTRL + b και μετά “ ή % για να διαχωρίσω τα παράθυρα. Επέλεξα το τέρμα δεξία παράθυρο με το hotkey CTRL + b και μετά το δεξιά βελάκι. Έγραψα glances για να ξεκινήσει το monitoring program και έπειτα με τον ίδιο τρόπο πήγα στο αριστερά παράθυρο και να παίξω ένα βίντεο στο YouTube. Βέβαια το asciinema κάνει record μόνο το terminal αλλά φαίνεται από το buffering πως γίνετε αναπαραγωγή. Τέλος ήθελα να παίξω και ένα τραγούδι που είχα κατεβασμένο από μια άλλη εργασία και δημιούργησα ακόμη ένα παράθυρο στο terminal με τα ίδια hotkeys. Όπως είπα πριν, το βίντεο δεν φαίνεται αλλά φαίνεται το buffering. <br />
+
+#### Asciinema link: [Παραδοτέο 11](https://asciinema.org/a/433960)<br />
+  
+### Συνδέσμοι πηγών:
+[Tmux Command Examples To Manage Multiple Terminal Sessions](https://ostechnix.com/tmux-command-examples-to-manage-multiple-terminal-sessions/) |
+[Glances - An eye on your system](https://github.com/nicolargo/glances) |
+[Glances - Quickstart](https://glances.readthedocs.io/en/latest/quickstart.html) |
+
 
 # ΕΠΙΛΟΓΟΣ
 
