@@ -156,76 +156,29 @@ ytfzf, youtube-dl, mpv, mplayer
 [mpv](https://github.com/mpv-player/mpv) |
 [ubuntu /usr/bin/env: python: No such file or directory](https://stackoverflow.com/questions/3655306/ubuntu-usr-bin-env-python-no-such-file-or-directory/61608129?fbclid=IwAR2Jah5CiPubxsJW2HsH3Td1LvLRTtSLNPZ9-Wv3QpzCbSUKBhrrjcbQ4T0) |
 
-# 9ο Παραδοτέο - Check the Weather
+# 9ο Παραδοτέο - Organise todo list
+Για την επόμενη άσκηση προγραμματισμού αποφάσισα να οργανώσω τις σημειώσεις μου με το emacs. <br/>
+  
+Αρχικά εγκατέστησα το emacs γράφοντας sudo apt-get install emacs, άφησα το terminal να κάνει τα δικά του και σε μερικά δευτερόλεπτα ήταν έτυμο.
+Στην συνέχεια, άνοιξα το emacs και δημιούργησα ένα αρχείο todo.org . Επειδή έβαλα .org στο τέλος, αυτόματα το αρχείο θα είναι σε org mode.
+Έπειτα άρχισα το γράψιμο της λίστας μου. Γενικά δεν ήμουν/είμαι καθόλου εξοικειωμένος με το emacs. Χρειάστηκα αρκετή εξάσκηση για να μάθω τα hot keys και πολύ διάβασμα του manual/documentation. <br/>
+  
+Προβλήματα δεν αντιμετώπισα. Η εγκατάσταση πήγε ομαλά και η λίστα δημιουργήθηκε χωρίς κανένα θέμα. Στο μόνο σημείο που κόλλησα ήταν στο ότι αν έγραφα emacs άνοιγε GUI αντί στο terminal με αποτέλεσμα το asciinema να μην μπορεί να το κάνει record. Αυτό το έλυσα με την προσθήκη του -nw (emacs -nw) που ουσιαστικά λέει στο emacs να ανοίξει χωρίς παράθυρο. Παράλληλα έπρεπε να γράψω κάπου τα hotkeys διότι ήταν αρκετά και δεν μπορούσα να τα αποστηθίσω.
 
-Για την 3η άσκηση γραμμής εντολών επέλεξα την εργασία που ζητούσε να δούμε το δελτίο καιρού της πόλης που γεννηθήκαμε και μιας πόλης που θέλουμε να ταξιδέψουμε μέσα από το terminal.
 
-#### Asciinema link Ver.1: [Παραδοτέο 8 Ver.1](https://asciinema.org/a/mbzOxJBKhEHKyYoZQX0caNvBa)<br />
-#### Asciinema link Ver.2: [Παραδοτέο 8 Ver.2](https://asciinema.org/a/BzJxzElE6z5HOyVfwY4jKKAAJ)
-
-Στην version 1 χρησιμοποίησα το εργαλείο wttr.in που σου εμφανίζει το δελτίο καιρού εμφανίζοντας ένα ωραίο ascii art με το δελτίο, στο asciinema μου δείχνω το δελτίο της Άρτας και του Τόκιο. Ωστόσο εκτός από την εντολή “curl wttr.in/Tokyo” που σου δείχνει απλά το δελτίο προσθέτοντας μπροστά v2 δηλαδή “curl v2.wttr.in/Tokyo” το wttr σου εμφανίζει περισσότερες πληροφορίες και ένα meteogram του καιρού. Μετά προσθέτοντας el. μπροστά από το wttr μπορούμε να έχουμε το δελτίο στα ελληνικά. Επιπλέων με την εντολή “diff -Naur <(curl -s http://wttr.in/Αρτα ) <(curl -s http://wttr.in/Tokyo )” που εκτελώ είναι δυνατή η σύγκριση του καιρού δυο πόλεων. <br/>
-<br/>
-Στην version 2 έκανα χρήση του εργαλείου finger και inxi. Το finger γράφοντας την εντολή “finger City@graph.no” όπου city το όνομα της πόλης που αναζητάμε, μας εμφανίζει ένα ένα meteogram όπου κάθε σύμβολο αντιστοιχεί σε κάποιο καιρικό φαινόμενο. Τώρα το inxi είναι ένα tool που δεν είναι φτιαγμένο μόνο για τον καιρό όμως σου δίνει και αυτήν την δυνατότητα δίνοντας τη εντολή -W, οπότε γράφοντας “inxi –xxxW Tokyo,Japan”, το inxi σου εμφανίζει κάποια εκτεταμένα καιρικά δεδομένα για την περιοχή που του έδωσες. Το xxx μπροστά από το W είναι για να σου εμφάνιση ακόμα περισσότερες πληροφορίες (τυπος δελτιου). Το ξεχωριστό που έχει το inxi σε αυτό τον τομέα είναι ότι σε αφήνει να αναζητήσεις τον καρό σε μια περιοχή μέσω τον γεωγραφικών συντεταμένων τις οπότε στο asciinema μου έδωσα της γεωγραφικές συντεταμένες της Κέρκυρας “inxi -xxxW 39.6243,19.9217” και το inxi μου επέστρεψε τις αντίστοιχες πληροφορίες για τον καιρό σε αυτήν την περιοχή.<br/>
-<br/>
-### Προβλήματα που χρειάστηκε να επιλυθούν μέχρι την εκτέλεση:
-Μια παρατήρηση που είχα να κάνω με το inxi είναι ότι επειδή πριν κάνω το asciinema είχα χρησιμοποιήσει πάλι τις παραπάνω εντολές, όταν πήγα να κάνω καταγραφή το inxi αποφάσισε το εξής, και πέταγε το σφάλμα: <br/>
-"you have exceeded maximum limit for this source" <br/>
-όπου στην ουσία επειδή είχα χρησιμοποίηση αρκετές φορές το source του καιρού το inxi μου απαγόρευσε για περίπου 2 μέρες την χρήση του. Δυστυχώς ακόμη και μετά από πολύ ψάξιμο δεν βρέθηκε άμεση λύση στο πρόβλημα, οπότε το μόνο που μπορούσα να κάνω είναι να περιμένω. Αργότερα κατάφερα να το επαναφέρω και να κάνω χρήση του source ώστε να το καταγράψω.
-
-## Shell Scripting – TermWeather.sh
-Αυτήν την φορά έφτιαξα ένα shell script με το οποίο μπορείς να πάρεις εκτεταμένες μετεωρολογικές πληροφορίες από τις αγαπημένες σου περιοχές. <br/>
-Το shell script αυτό αξιοποιεί τα προγράμματα wttr.in, inxi και finger και έτσι μπορεί να δώσει πάρα πολλές πληροφορίες για τον καιρό σε πολύ λίγο χρόνο. Στο shell script έχω κατασκευάσει 2 πίνακες οι οποίοι περιέχουν τις τοποθεσίες από τις αγαπημένες περιοχές του χρήστη. Ο καθένας “πειράζοντας” λίγο τον πίνακα (μπορεί άνετα να βάλει και άλλες θέσεις χωρίς να χαλάσει το πρόγραμμα) μπορεί να δει μετεωρολογικά δεδομένα για μια από αυτές τις περιοχές, οι ακόμα και για όλες με την μια! <br/>
-
-#### TermWeather.sh Demo: [Demo for TermWeather.sh by KuhakuNeko](https://asciinema.org/a/2LLhbLynRi6GJV2aMkwHjtQ4P)
-#### TermWeather.sh shell script: [TermWeather.sh](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts/blob/main/TermWeather.sh)
-#### Μπορείτε επίσης να επισκεφτείτε την σελίδα με όλα τα shell scripts μου για περισσότερα: [KuhakuNekoLinuxShellScripts](https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts)
+#### Asciinema link: [Παραδοτέο 9](https://asciinema.org/a/433950)<br />
 
 ### Εργαλεία που χρησιμοποίησα:
-curl, wttr.in, inxi, finger
+emacs
 
 ### Συνδέσμοι πηγών:
-[Weather from terminal - Ask Ubuntu](https://askubuntu.com/questions/390329/weather-from-terminal) |
-[Wttr.in - Help Page](https://wttr.in/:help) |
-[How To Check Weather Details From Command Line In Linux - OsTechnix](https://ostechnix.com/check-weather-details-command-line-linux/) |
-[Get Your Weather Forecast From the Linux CLI - linuxconfig.org](https://linuxconfig.org/get-your-weather-forecast-from-the-linux-cli) |
-[Retrieve Weather information using Linux command line - linuxconfig.org](https://linuxconfig.org/retrieve-weather-information-using-linux-command-line) |
-[inxi -w fails to report weather conditions. [Solved]](https://forums.linuxmint.com/viewtopic.php?t=289751) |
-[Finger command in Linux with Examples - GeeksForGeeks](https://www.geeksforgeeks.org/finger-command-in-linux-with-examples/) |
-[Retro weather forecast (finger)](https://www.reddit.com/r/linux/comments/ouday/retro_weather_forecast_finger/) |
-[graph.no - Weather forecast via finger](https://0p.no/2014/12/13/graph_no___weather_forecast_via_finger.html)
+[Emcas Documentation](https://www.gnu.org/software/emacs/documentation.html) |
+[The Emacs Editor](https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html) |
+[Running Shell Commands from Emacs](https://www.gnu.org/software/emacs/manual/html_node/emacs/Shell.html) |
+[How to open Emacs inside Bash](https://stackoverflow.com/questions/8746227/how-to-open-emacs-inside-bash) |
 
 # 11ο Παραδοτέο - Άσκηση γραμμής εντολών
 
-
-
-# Έξτρα Ασκήσεις Terminal
-
-## Έξτρα Άσκηση Terminal 1 - Create Your Final Presentation
-#### Asciinema link Ver.1: [Έξτρα Άσκηση Terminal 1 Ver.1](https://asciinema.org/a/sBTu1JJYaL8f0MxAlSH659TVE)<br />
-#### Asciinema link Ver.2: [Έξτρα Άσκηση Terminal 1 Ver.2](https://asciinema.org/a/SHULbr7gsGChiAxQxEo6Q3N93)
-
-Είχα κάνει και αυτή την επιπλέον άσκηση γραμμής εντολών όμως αποφασισα να την τοποθετίσω στις έξτρα ασκήσεις διότι δεν υπήρχε κατι ιδιαίτερο κάνω shell script. <br/>
-
-Αυτή η εργασία ζητούσε να δημιουργήσουμε μια παρουσίαση που να ανοίγει εντός του terminal και να έχει 3 διαφάνειες, μια με το ΑΜ μας, μια λίστα με checkboxes από τα παραδοτέα που έχουμε κάνει, και μια ακόμη που αναφέρει κάποια πράγματα που δημιούργησα.
-
-Στην version 1 χρησιμοποίησα το εργαλείο mdp το οποίο σου επιτρέπει να δημιουργήσεις μια παρουσίαση μέσω ενός αρχείου γραμμένο σε markdown. Γράφοντας mdp και το δίνοντας το path προς το text αρχείο το mdp αρχίζει την παρουσίαση. Το συγκεκριμένο εργαλείο χρησιμοποιεί  τον ίδιο τύπο markdown με το github επομένως η συγγραφή διαφανειών είναι πολύ εύκολη. Έχω προσθέσει link, checkboxes, και έχω κάνει highlight στην τελική διαφάνεια. (Δείχνω το αρχείο μέσο του nano editor)
-
-Στην 2η version χρησιμοποιώ άλλα 2 εργαλεία για την δημιουργία της ίδιας διαφάνειας. Το πρώτο εργαλείο είναι το patat. Το patat όπως και το mdp αρχίζει την παρουσίαση με παρόμοια εντολή. Η διαφορά τους είναι ότι το patat επιτρέπει και την εισαγωγή εικονων και σου δίνει περισσότερες επιλογές όσον αφορά τα χρώματα και το layout. Χρησιμοποιεί και αυτό markdown όμως έχει και κάποιες προθήκες. Το τρίτο tool που χρησιμοποιώ είναι το present το οποίο κατά την γνώμη μου είναι το καλύτερο από τα προαναφερόμενα. Το present χρησιμοποιώντας markdown μπορεί και δημιουργεί επικεφαλίδες τύπου ascii art, σου επιτρέπει να αλλάξεις τα χρώματα των γραμμάτων και του background color, και πάνω από όλα σε αφήνει να βάλεις εφέ και custom transitions. Αυτά επιτυγχάνονται με εντολές markdown όπως τις “<!--fg=cyan bg=black -->” και “<!—effect=stars -->” οι οποίες φαίνονται πως γίνετε η σωστή χρήση τους και στο asciinema.
-
-<p align="center">
-<img src="https://github.com/KuhakuNeko/PicturesForLessons/blob/main/HCI%208o%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/FinalPresentPresent.gif" width="480px">
-</p>
-
-### Εργαλεία που χρησιμοποίησα:
-Mdp, Patat, Present, Nano
-
-### Συνδέσμοι πηγών:
-[Ubuntu Manpage: mdp - A command line based presentation tool](http://manpages.ubuntu.com/manpages/focal/man1/mdp.1.html) |
-[John Kennedy - mdp presentation - gitlab](https://gitlab.com/skebi69/mdp-presentation/-/blob/master/README.md) |
-[mdp - Markdown Presentation tool video](https://www.youtube.com/watch?v=P7cjH-6nS_o) |
-[About task lists - GitHub Docs](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-task-lists) |
-[Patat Readme.md developer page](https://github.com/jaspervdj/patat) |
-[Present Readme.md developer page](https://github.com/vinayak-mehta/present)
 
 # ΕΠΙΛΟΓΟΣ
 
