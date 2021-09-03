@@ -80,8 +80,13 @@
 
 ### Προβλήματα:
 
-Αρχικά, προσπάθησα να εγκαταστήσω την εφαρμογή μέσω του xbps-install, το package manager του Void Linux. Μετά την εγκατάσταση, όταν πήγαινα να το τρέξω, μου εμφάνιζε ότι δεν βρέθηκε η βιβλιοθήκη libgnutls, η οποία χρησιμοποιείται για τον συγχρονισμό του Taskwarrior με server. Διασυνδέεται δυναμικά στο Taskwarrior, και, ενώ βεβαιώθηκα ότι είναι εγκατεστημένη στη σύστημα μου, αποφάσισα να συντάξω την εφαρμογή από τον πηγαίο κώδικα.
-Εγκατέστησα τα απαραίτητα dependencies (git, cmake, make, python, bash, libuuid-devel), κατέβασα τον πηγαίο κώδικα από το github, ακολούθησα τις οδηγίες που προσφέρονται στο site της εφαρμογής και βρήκα την επιλογή στο CMakeLists.txt, το αρχείο που δημιουργεί τα Makefiles, ENABLE\_SYNC, η οποία χρείαζεται το libgnutils που δε δούλευε στο σύστημα, και την απενεργοποίησα (cmake -DENABLE\_SYNC=OFF). Τέλος έτρεξα το make, έτρεξα τα test, και αφού βεβαιώθηκα ότι όλα είναι καλά, το εγκατέστησα και δούλεψε κανονικά (χωρίς συγχρονισμό προφανώς).
+Αρχικά, προσπάθησα να εγκαταστήσω την εφαρμογή μέσω του xbps-install, το package manager του Void Linux. Μετά την εγκατάσταση, όταν πήγαινα να το τρέξω, μου εμφάνιζε ότι δεν βρέθηκε η βιβλιοθήκη libgnutls,
+η οποία χρησιμοποιείται για τον συγχρονισμό του Taskwarrior με server. Διασυνδέεται δυναμικά στο Taskwarrior, και, ενώ βεβαιώθηκα ότι είναι εγκατεστημένη στη σύστημα μου, αποφάσισα να συντάξω την εφαρμογή από τον πηγαίο κώδικα.
+
+Εγκατέστησα τα απαραίτητα dependencies (git, cmake, make, python, bash, libuuid-devel), κατέβασα τον πηγαίο κώδικα από το github, ακολούθησα τις οδηγίες που προσφέρονται στο site της εφαρμογής και βρήκα την επιλογή στο CMakeLists.txt,
+το αρχείο που δημιουργεί τα Makefiles, ENABLE\_SYNC, η οποία χρείαζεται το libgnutils που δε δούλευε στο σύστημα, και την απενεργοποίησα (cmake -DENABLE\_SYNC=OFF). Τέλος έτρεξα το make, έτρεξα τα test,
+και αφού βεβαιώθηκα ότι όλα είναι καλά, το εγκατέστησα και δούλεψε κανονικά (χωρίς συγχρονισμό προφανώς).
+
 
 #### Asciinema: [Taskwarrior](https://asciinema.org/a/433915)
 #### Πηγές: [Quick Demo (Taskwarrior)](https://taskwarrior.org/docs/start.html), [Best Practices (Taskwarrior)](https://taskwarrior.org/docs/best-practices.html), [GnuTLS](https://www.gnutls.org/), [Build (Taskwarrior)](https://taskwarrior.org/docs/build.html)
@@ -127,7 +132,7 @@
 <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/7_syntax.png">
 </p>
 
-#### Asciinema: [Vim Configuration](https://asciinema.org/a/o4V0nxuU4B1nyNb9JInSNc7KF)
+#### Asciinema: [Vim Configuration](https://asciinema.org/a/432265)
 
 #### Πηγές: [Το δικό μου vimrc](https://github.com/p17anto2/LessonImages/blob/main/HCI/3_vimrc.vim).
 
@@ -139,5 +144,5 @@
 
 <p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/9_terminal.png"> </p>
 
-#### Asciinema: [Terminal Windows](https://asciinema.org/a/L04h5VgRDbJhGa851mFtouZS9)
+#### Asciinema: [Terminal Windows](https://asciinema.org/a/432922)
 #### Πηγές: [Terminal.txt (VimHelp)](https://vimhelp.org/terminal.txt.html)
