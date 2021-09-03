@@ -59,12 +59,19 @@
 Η απλή επίδειξη στην ιστοσελίδα της εφαρμογής αναφέρει τρεις βασικές εντολές - **add**, **list** και **done**. Με αυτές τις εντολές μπορείς να προσθέσεις ένα task, να εμφανίσεις τα μη ολοκληρωμένα task και να δηλώσεις το πέρας ενός task αντίστοιχα. Έπειτα, διαβάζοντας το Documentation της εφαρμογής και τη σελίδα Best Practices, βρήκα τα εξής: 
 - Την εντολή **modify**, οπού μπορείς να επεξεργαστείς ένα υπάρχον task, 
 - Την εντολή **start**, οπού δηλώνεις ότι εκτελείς ένα task αυτή τη χρονική περίοδο,
+
 <p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_start.png"> </p>
+
 - Την κατηγορία **project**, όπου μπορείς να ομαδοποιήσεις πολλά task σε μία κατηγορία,
+
 <p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_project.png"> </p>
+
 - Την κατηγορία **tags**, όπου μπορείς να προσθέσεις ετικέτες σε task και,
+
 <p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_tags.png"> </p>
+
 - Την ειδική ετικέτα **next**, όπου δηλώνεις ότι ένα task είναι το επόμενο με το οποίο θα ασχοληθείς, δηλαδή είναι το πιο σημαντικό.
+
 <p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/3_next.png"> </p>
 
 Το αποτέλεσμα:
