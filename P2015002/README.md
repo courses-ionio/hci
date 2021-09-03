@@ -17,7 +17,7 @@
 | 6 | [~~Συμμετοχικό περιεχόμενο: Α2~~] |
 | 7 | [Άσκηση γραμμής εντολών: Download MP3] |
 | 8 | [~~Συμμετοχικό περιεχόμενο: Β1~~] |
-| 9 | [Άσκηση γραμμής εντολών: Organise the Terminal Window into Multiple Areas] |
+| 9 | [Άσκηση γραμμής εντολών: Organise todo list] |
 | 10 | [~~Συμμετοχικό περιεχόμενο: Β2~~] |
 | 11 | [Άσκηση γραμμής εντολών: Organise the Terminal Window into Multiple Areas] |
 | 12 | [Επίλογος] |
