@@ -109,6 +109,24 @@
    
    [Link 2ης εικόνας](https://alexandrosp38.github.io/gr/gallery/graphics-tablet/)
    
+  # 5ο Άσκηση Προγραμματισμού - Image processing
+  
+  Στόχος της άσκησης αυτής είναι η προσθήκη φίλτρων σε εικόνα με την χρήση CSS. Οι αλλαγές αυτές μπορούν να γίνουν με το webkit-filter.
+  
+  Τροποποίησα την εικόνα με δύο φίλτρα:
+      hue-rotate(80deg)
+      opacity(.5);
+  
+  Τα φίλτρα ενεργοποιούνται στην εικόνα όταν ο χρήστης περάσει το pointer του mouse απο πανω της.
+ 
+ Το αποτέλεσμα του μενού φαίνεται στην εικόνα:
+ 
+ ![image](https://user-images.githubusercontent.com/56488103/132094609-dcb3eb1e-0bc7-4d64-bf0e-62d9e9627a73.png)
+
+
+#### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [_Image processing](https://pibook.epidro.me/remix/image-filter/)
+
+#### Link στο pen της άσκησης στο codepen.io: [Image processing P2017202](https://codepen.io/alexandrosp38/pen/ExXgZKp)
    
   
 
