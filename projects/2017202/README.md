@@ -124,7 +124,7 @@
  ![image](https://user-images.githubusercontent.com/56488103/132094609-dcb3eb1e-0bc7-4d64-bf0e-62d9e9627a73.png)
 
 
-#### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [_Image processing](https://pibook.epidro.me/remix/image-filter/)
+#### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [Image processing](https://pibook.epidro.me/remix/image-filter/)
 
 #### Link στο pen της άσκησης στο codepen.io: [Image processing P2017202](https://codepen.io/alexandrosp38/pen/ExXgZKp)
    
