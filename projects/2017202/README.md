@@ -107,20 +107,20 @@
    Στη συνέχεια βρήκα φωτογραφίες ελεύθερων πνευματικών δικαιωμάτων τις οποίες και ανέβασα στον φάκελο images.
    Οι εικόνες είναι στο κανονικό μέγεθος αλλά και στο thumbnail που εμφανίζεται στην κεντρική σελίδα του βιβλίου.
    
-   * [Εικόνα MAC](https://github.com/AlexandrosP38/gr/blob/gh-pages/images/macpc.jpg)
-   * [Εικόνα-thumbnail MAC](https://github.com/AlexandrosP38/gr/blob/gh-pages/images/macpc-thumb.jpg)
+   * [Εικόνα MAC](https://github.com/AlexandrosP38/images/blob/e8b9196e91655fb6b6d2978e51b004a1781246a8/macpc.jpg)
+   * [Εικόνα-thumbnail MAC](https://github.com/AlexandrosP38/images/blob/e8b9196e91655fb6b6d2978e51b004a1781246a8/macpc-thumb.jpg)
    
-   [Link 1ης εικόνας](https://alexandrosp38.github.io/gr/gallery/mac-pc/)
+   [Link 1ης εικόνας](https://p2017202-pibook.netlify.app//gallery/mac-pc/)
    
    Δεύτερη αλλαγή εικόνας αποτέλεσε μια τεχνολογία που στην covid εποχή άκμασε και οι πωλήσεις της εκτοξεύθηκαν. Οι γραφίδες στυλό χρησιμοποιήθηκαν απο τους εκπαιδευτικούς ανα τον κόσμο ώστε να μπορέσει να επιτελεστεί το έργο της εκπαίδευσεις σε όλες τις βαθμίδες. Με την τεχνολογία αυτή έγινε πιο εύκολη η παράδοση του μαθήματος προς τους μαθητές που απο το σπίτι τους μέσω των υπολογιστών μπόρεσαν και παρακολούθησαν τα μαθηματά τους.
    Προστέθηκε το αρχείο [graphics-tablet.md]( https://github.com/AlexandrosP38/gr/blob/gh-pages/_gallery/graphics-tablet.md).
    Oι φωτογραφίες ελεύθερων πνευματικών δικαιωμάτων ανέβηκαν στον φάκελο images.
    Οι εικόνες είναι στο κανονικό μέγεθος και στο thumbnail που εμφανίζεται στην κεντρική σελίδα του βιβλίου.
    
-   * [Εικόνα Grapics Tablet](https://github.com/AlexandrosP38/gr/blob/gh-pages/images/graphic-tablet.jpg)
-   * [Εικόνα-thumbnail Grapics Tablet](https://github.com/AlexandrosP38/gr/blob/gh-pages/images/graphic-tablet-thumb.jpg)
+   * [Εικόνα Grapics Tablet](https://github.com/AlexandrosP38/images/blob/e8b9196e91655fb6b6d2978e51b004a1781246a8/graphic-tablet.jpg)
+   * [Εικόνα-thumbnail Grapics Tablet](https://github.com/AlexandrosP38/images/blob/e8b9196e91655fb6b6d2978e51b004a1781246a8/graphic-tablet-thumb.jpg)
    
-   [Link 2ης εικόνας](https://alexandrosp38.github.io/gr/gallery/graphics-tablet/)
+   [Link 2ης εικόνας](https://p2017202-pibook.netlify.app//gallery/graphics-tablet/)
    
   # 5ο Άσκηση Προγραμματισμού - Image processing
   
