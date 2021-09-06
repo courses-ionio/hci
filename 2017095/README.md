@@ -140,9 +140,71 @@
 
 Καθώς για τις ασκήσεις γραμμής εντολών χρησιμοποιώ ένα Virtual Machine χωρίς GUI, η υλοποίηση αυτής της άσκησης έγινε με λίγο ανορθόδοξο τρόπο.
 
-Το vim περιλαμβάνει Terminal Emulation. Αυτό σημαίνει ότι υπάρχει η δυνατότητα, μέσα από το vim, να χρησιμοποιήσεις terminal. Αυτό γίνεται με την εντολή **:term**, η οποία δημιουργεί ένα καινούριο παράθυρο που τρέχει το bash shell (ή **:vert terminal**, που κάνει το διαχωρισμό παραθύρων κάθετο). Σε αυτό το εικονικό terminal, μπορείς να τρέξεις οποιοδήποτε πρόγραμμα, όπως το glances, καθώς και το ίδιο το vim για να δεις και να επεξεργαστείς αρχεία. Με τη συντόμευση CTRL-W CTRL-W εστιάζεται το επόμενο παράθυρο. 
+Το Vim περιλαμβάνει Terminal Emulation. Αυτό σημαίνει ότι υπάρχει η δυνατότητα, μέσα από το vim, να χρησιμοποιήσεις terminal. Αυτό γίνεται με την εντολή **:term**, η οποία δημιουργεί ένα καινούριο παράθυρο που τρέχει το bash shell (ή **:vert terminal**, που κάνει το διαχωρισμό παραθύρων κάθετο). Σε αυτό το εικονικό terminal, μπορείς να τρέξεις οποιοδήποτε πρόγραμμα, όπως το glances, καθώς και το ίδιο το Vim για να δεις και να επεξεργαστείς αρχεία. Με τη συντόμευση CTRL-W CTRL-W εστιάζεται το επόμενο παράθυρο. 
 
 <p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/9_terminal.png"> </p>
 
 #### Asciinema: [Terminal Windows](https://asciinema.org/a/432922)
 #### Πηγές: [Terminal.txt (VimHelp)](https://vimhelp.org/terminal.txt.html)
+
+## Παραδοτέο 11: Terminal as an IDE
+
+Για το τελευταίο παραδοτέο διαμορφώνω το Vim σε IDE. Στόχος είναι να μπορώ να γράφω άνετα Python και Latex αρχεία μέσα από το terminal. Για αυτό το σκοπό θα χρησιμοποιήσω μερικά plug-in για το Vim.
+
+<!-- TODO: Add images-->
+### Airline
+
+Το Vim-Airline είναι ένα plugin του Vim που προσφέρει κυρίως αισθητικές αλλαγές, όχι τόσο χρηστικές. Προσθέτει μία μπάρα στο κάτω μέρος, όπου εμφανίζει σε ποιο mode του Vim βρίσκεσαι, σε ποια γραμμή βρίσκεσαι, ποσοστιαία και πραγματικά, καθώς και σε ποιον χαρακτήρα είσαι (οριζόντια).
+
+<p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/11_airline.png"> </p>
+
+### ALE (Asynchronous Linting Engine)
+
+Το ALE είναι μία μηχανή Linting, δηλαδή αναγνώρισης λαθών στον κώδικα. Ουσιαστικά δεν κάνει αυτό κάποιο έλεγχο, αλλά υποστηρίζει διάφορους linters (εγώ χρησιμοποώ το flake8 που υποστηρίζει το PEP8 στην Python), τους οποίους τους καλεί ασύγχρονα για να ελέγξουν τον κώδικα. Υποστηρίζει επίσης διάφορους Fixers, που διορθώνουν όσα λάθη μπορούν (κυρίως λάθη μορφοποίησης).
+
+<p align="center"> <img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/11_ale.png"> </p>
+
+### TagHighlight
+
+Το TagHighlight είναι ένα plugin του Vim το οποίο λειτουργεί ως διεπαφή του Vim με την εφαρμογή ctags, η οποία δημιουργεί ετικέτες για σημαντικά κομμάτια του κώδικα (ονόματα συναρτήσεων, ονόματα κλάσεων κ.α.). Ουσιαστικά καλεί το ctags στο σώμα του κώδικα και το διαβάζει για να εμφανίζει έντονα τα σημαντικά σημεία, καθώς και να ανατρέχει στα αρχεία τα οποία περιγράφεται η λειτουργία του συγκεκριμένου κομματιού του κώδικα.
+
+Με τη συντόμευση CTRL-] το vim ανατρέχει την ετικέτα και φορτώνει τον κώδικα στον οποίο έχει γίνει ο ορισμός της συνάρτησης/κλάσης. Η ετικέτα μπαίνει σε μία δομή stack, ώστε να μπορείς να επιστρέψεις στην αρχική ετικέτα με τη συντόμευση CTRL-t.
+
+<p align="center">
+<img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/11_bare.png">
+<img src="https://github.com/p17anto2/LessonImages/blob/main/HCI/11_tags.png">
+</p>
+
+### Latex
+
+Για το Latex, χρησιμοποίησα τη σουίτα Texlive που περιέχει τα απαραίτητα για τη συγγραφή και σύνταξη κώδικα latex, τη βιβλιοθήκη Poppler για τη μετατροπή pdf σε text, την εφαρμογή less για την εμφάνιση αρχείων text στο terminal, καθώς και την εφαρμογή make για την εύκολη χρήση όλων μαζί.
+
+### Vimrc
+
+Στο vimrc πρόσθεσα μερικά πράγματα:
+
+```vimrc
+
+" ALE Configuration
+" Καλεί τους linters όταν ανοίγει το αρχείο
+let g:ale_lint_on_enter = 1
+" Καλεί τους linters όταν αποθηκεύεται το αρχείο
+" Το προκαθορισμένο είναι 1 (On) και το βγάζω
+let g:ale_lint_on_save = 0
+
+" TagHighlight Configuration
+" Κάνω map στο Normal Mode (nmap) τη συνάρτηση
+" UpdateTypesFile στη συντόμευση st. Η συνάρτηση
+" UpdateTypesFile καλεί την εφαρμογή ctags που δημιουργεί
+" τις ετικέτες του κώδικα και τις διαβάζει.
+nmap st :UpdateTypesFile<CR>
+
+```
+
+#### Asciinema: [IDE](https://asciinema.org/a/434276)
+
+#### Εργαλεία: [Vim](https://www.vim.org/), [Vim-Airline](https://github.com/vim-airline/vim-airline), [ALE](https://github.com/dense-analysis/ale), [Flake8](https://flake8.pycqa.org/en/latest/),
+[TagHighlight](https://www.vim.org/scripts/script.php?script_id=2646), [ctags](https://github.com/universal-ctags/ctags),  [TexLive](https://tug.org/texlive/), [Poppler](https://poppler.freedesktop.org/),
+[Less](http://www.greenwoodsoftware.com/less/), [GNU Make](https://www.gnu.org/software/make/)
+
+#### Πηγές: [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
