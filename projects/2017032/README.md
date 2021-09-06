@@ -34,7 +34,8 @@ Link [https://codepen.io/p17balo/pen/XWgNXXG]
 
 
 
-### Παραδοτέο 5
+### Παραδοτέο 5 (check the weather)
+Link [https://asciinema.org/a/E8ejJBO8hVLAyeTaK5W6vK0bd]
 
 
 ### Παραδοτέο 6
