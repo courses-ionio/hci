@@ -45,7 +45,8 @@ Link [https://codepen.io/p17balo/pen/xxrRZVv]
 
 
 
-### Παραδοτέο 8
+### Παραδοτέο 8 (fetch information)
+Link [https://asciinema.org/a/5CO1YzNhyskBytPF9xeMvhzsO]
 
 
 
