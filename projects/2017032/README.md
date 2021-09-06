@@ -38,7 +38,8 @@ Link [https://codepen.io/p17balo/pen/XWgNXXG]
 
 ### Παραδοτέο 6
 
-### Παραδοτέο 7
+### Παραδοτέο 7 (Mouse Button)
+Link [https://codepen.io/p17balo/pen/xxrRZVv]
 
 
 
@@ -46,7 +47,8 @@ Link [https://codepen.io/p17balo/pen/XWgNXXG]
 
 
 
-### Παραδοτέο 9
+### Παραδοτέο 9 (Image Zoom)
+Link[https://codepen.io/p17balo/pen/WNOorGz]
 
 
 ### Παραδοτέο 10
