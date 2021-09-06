@@ -20,7 +20,7 @@
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | [Άσκηση γραμμής εντολών: Terminal Windows](#παραδοτέο-9-Terminal-Windows) |
 | 10 | συμμετοχικό περιεχόμενο 2B |
-| 11 | Άσκηση γραμμής εντολών |
+| 11 | [Άσκηση γραμμής εντολών: Terminal as an IDE](#παραδοτέο-11-Terminal-as-an-IDE) |
 
 ## Εισαγωγή
 
@@ -179,6 +179,26 @@
 
 Για το Latex, χρησιμοποίησα τη σουίτα Texlive που περιέχει τα απαραίτητα για τη συγγραφή και σύνταξη κώδικα latex, τη βιβλιοθήκη Poppler για τη μετατροπή pdf σε text, την εφαρμογή less για την εμφάνιση αρχείων text στο terminal, καθώς και την εφαρμογή make για την εύκολη χρήση όλων μαζί.
 
+```Makefile
+NAME=test
+
+all: test
+
+test:
+	# Σύνταξη του tex αρχείου σε pdf
+	pdflatex $(NAME).tex $(NAME).pdf
+	# Μετατροπή pdf αρχείου σε txt
+	pdftotext $(NAME).pdf $(NAME).txt
+
+view: test
+	# Εμφάνιση txt αρχείου
+	less $(NAME).txt
+	rm *.log *.aux
+
+clean:
+	rm *.log *.aux
+```
+
 ### Vimrc
 
 Στο vimrc πρόσθεσα μερικά πράγματα:
@@ -203,8 +223,6 @@ nmap st :UpdateTypesFile<CR>
 
 #### Asciinema: [IDE](https://asciinema.org/a/434276)
 
-#### Εργαλεία: [Vim](https://www.vim.org/), [Vim-Airline](https://github.com/vim-airline/vim-airline), [ALE](https://github.com/dense-analysis/ale), [Flake8](https://flake8.pycqa.org/en/latest/),
-[TagHighlight](https://www.vim.org/scripts/script.php?script_id=2646), [ctags](https://github.com/universal-ctags/ctags),  [TexLive](https://tug.org/texlive/), [Poppler](https://poppler.freedesktop.org/),
-[Less](http://www.greenwoodsoftware.com/less/), [GNU Make](https://www.gnu.org/software/make/)
+#### Εργαλεία: [Vim](https://www.vim.org/), [Vim-Airline](https://github.com/vim-airline/vim-airline), [ALE](https://github.com/dense-analysis/ale), [Flake8](https://flake8.pycqa.org/en/latest/), [TagHighlight](https://www.vim.org/scripts/script.php?script_id=2646), [ctags](https://github.com/universal-ctags/ctags),  [TexLive](https://tug.org/texlive/), [Poppler](https://poppler.freedesktop.org/), [Less](http://www.greenwoodsoftware.com/less/), [GNU Make](https://www.gnu.org/software/make/)
 
 #### Πηγές: [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
