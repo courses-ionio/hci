@@ -54,7 +54,8 @@ Link [https://asciinema.org/a/5CO1YzNhyskBytPF9xeMvhzsO]
 Link[https://codepen.io/p17balo/pen/WNOorGz]
 
 
-### Παραδοτέο 10
+### Παραδοτέο 10 (get familiar with basic commands, reading documentation and editing files)
+[https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q]
 
 
 
