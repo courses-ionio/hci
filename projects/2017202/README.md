@@ -160,5 +160,26 @@
    
    [Asciinema Link Using terminals](https://asciinema.org/a/2591J10vY1jiMJaAd4Ij05lFW)
    
+  # 8ο Άσκηση Γραμμής Εντολών - Create your own static site and blog generator with pandoc
+   
+   Θελήσαμε να δημιουργήσουμε ένα site. Έτσι χρησιμοποιήθηκε το Bashyll το οποίο είναι ενα Blog generator το οποίο λειτουργεί με bash commands και το pandoc για την μετατροπή ενός markup format σε άλλο. Έτσι εμεις φτιάχνουμε .md αρχεία στο path που είναι το site και τα μετατρέπει σε .html και τα δημοσιεύει.
+   
+   Η εγκατάσταση έγινε με την εντολή:
+   >sudo apt-get install pandoc
+   
+   Έδω υπήρξε μια δυσκολία λόγω παλιάς έκδοσης του Kali linux που χρησιμοποίησα. Έπρεπε να κάνω update το αρχείο που χρησιμοποιούν τα συγκεκριμένα distro και λέγεται sources.list. (διαδρομή /etc/apt/sources.list ) με την νέα διεύθηνση που χρησιμοποιούν για τα updates τα Kali Linux. Έτσι η εντολή για update λειτούργησε κανονικά.
+   
+   >apt-get update
+ 
+ Μετά την εγκατάσταση του pandoc δημιούργησα ένα repository στον φακελο BlogBashyll 
+   >git init
+  
+  Τροποποίησα το αρχείο source/header.html και το source/footer.html όπως φαίνεται και στην εικόνα:
+  
+ ![Index.html](https://user-images.githubusercontent.com/56488103/132708610-d4cdcd0b-24c5-4827-8990-47fa3c46c2e9.png)
+
+   
+   [Asciinema Link](https://asciinema.org/a/gY0ILTwjMDLtKSdzQf7uGpHEo)
+   
   
 
