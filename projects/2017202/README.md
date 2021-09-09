@@ -178,8 +178,18 @@
   
  ![Index.html](https://user-images.githubusercontent.com/56488103/132708610-d4cdcd0b-24c5-4827-8990-47fa3c46c2e9.png)
 
+ Για να δημιουργήσουμε τα post στην σελιδα και να γινουν publish:
+ >./publish /root/BlogBashyll/bashyll/posts/helloWorld.md 
+ >./publish /root/BlogBashyll/bashyll/posts/anotherPost.md      
+
+ και ανανεώνουμε την σελιδα με 
+ >./regenPosts    
+
+![image](https://user-images.githubusercontent.com/56488103/132711645-afdd932e-25a1-420e-bcda-094ca59f4bb4.png)
+
    
-   [Asciinema Link](https://asciinema.org/a/gY0ILTwjMDLtKSdzQf7uGpHEo)
+  [Asciinema Link1](https://asciinema.org/a/gY0ILTwjMDLtKSdzQf7uGpHEo)
+  [Asciinema Link2](https://asciinema.org/a/xO6ocaxYo3hBl38vceK3FXocK)
    
   
 
