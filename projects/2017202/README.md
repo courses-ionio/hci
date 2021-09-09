@@ -140,6 +140,25 @@
 #### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [Image processing](https://pibook.epidro.me/remix/image-filter/)
 
 #### Link στο pen της άσκησης στο codepen.io: [Image processing P2017202](https://codepen.io/alexandrosp38/pen/ExXgZKp)
+
+ # 7ο Άσκηση Γραμμής Εντολών - Installing & Using different terminals
+   
+   Για την εργασία αυτή χρησιμοποιήθηκαν τα terminals [b]st[/b] και [b]zsh[/b] . Η εγκατάση έγινε με τις εντολές:
+   
+   Zsh:
+   >apt install zsh
+   
+   St:
+   >git clone https://github.com/LukeSmithxyz/st
+   
+   >cd st
+   
+   >sudo make install
+   
+  
+   ![St terminal](https://imgur.com/RinEULZ.png)
+   
+   [Asciinema Link Using terminals](https://asciinema.org/a/2591J10vY1jiMJaAd4Ij05lFW)
    
   
 
