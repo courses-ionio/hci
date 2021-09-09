@@ -180,6 +180,7 @@
 
  Για να δημιουργήσουμε τα post στην σελιδα και να γινουν publish:
  >./publish /root/BlogBashyll/bashyll/posts/helloWorld.md 
+ >
  >./publish /root/BlogBashyll/bashyll/posts/anotherPost.md      
 
  και ανανεώνουμε την σελιδα με 
