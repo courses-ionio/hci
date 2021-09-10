@@ -22,7 +22,11 @@
 
 ### Παραδοτέο 2 (Image Processing)
 [Codepen Link](https://codepen.io/p17balo/pen/KKqNdOo)
-
+<br>
+<p align="center">
+<img src="https://i.postimg.cc/Qd7trCqD/Screenshot-1.jpg" >
+ <p/>
+<br>
 
 
 
