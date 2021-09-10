@@ -24,13 +24,18 @@
 [Codepen Link](https://codepen.io/p17balo/pen/KKqNdOo)
 <br>
 <p align="center">
-<img src="https://i.postimg.cc/Qd7trCqD/Screenshot-1.jpg" >
+<img src="https://i.postimg.cc/8C5TzCRs/Screenshot-2.jpg" >
  <p/>
 <br>
 
 
 
 ### Παραδοτέο 3 (browse and view files on your system)
+<br>
+<p align="center">
+<img src="https://i.postimg.cc/Qd7trCqD/Screenshot-1.jpg" >
+ <p/>
+<br>
 
 Κατά την διάρκεια του μαθήματος ήρθαμε σε επαφή με την πρώτη άσκηση γραμμής εντυολών. Εκεί έπρεπε να καταγράψουμε με το εργαλείο Asciinema ότι πληκτολογούσαμε. Ο σκοπός της άσκησης που επέλεξα ήταν η πρόσβαση στα αρχεία του υπολογιστή. Με την βοήθεια του Asciinema κατάφερα να καταγράψω την διαδικασία πρόσβασης στα αρχεία του συστήματος.
 [Asciinema Link](https://asciinema.org/a/dbS495hK8a3W5WaRbBnWssFol)
