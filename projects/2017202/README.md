@@ -192,6 +192,45 @@
   [Asciinema Link1](https://asciinema.org/a/gY0ILTwjMDLtKSdzQf7uGpHEo)
   
   [Asciinema Link2](https://asciinema.org/a/xO6ocaxYo3hBl38vceK3FXocK)
+  
+  # 9ο Άσκηση Γραμμής Εντολών - Οrganise the terminal window into multiple areas
+
+   
+   Στόχος της εργασίας αυτής είναι να δημιουργήσουμε διάφορα windows sessions των terminals και στην συνέχεια να τα διαχειριστούμε αναλόγως. Έτσι εγκαταστάθηκε το **tmux**
+   το οποιο επιτρέπει την ταυτόχρονη διαχείριση παραθύρων terminal
+   >sudo apt-get install tmux
+
+   Για την επίβλεψη του performance των τερματικών παραθύρων εγκαταστήσαμε το **glances**
+   >pip install --user glances
+       
+   Έδω υπήρξε ενα πρόβλημα με το PATH του glances και έτσι για να μπορέσει να τρέξει σωστά προσθέσαμε το PATH
+   >export PATH=$PATH:~/mylocalpath/bin
+
+   Για να τρέξει το tmux χρησιμοποιούμε την εντολή στο terminal και θα παρατηρήσουμε οτι κατω δεξιά εμφανίζεται ο user και κάτω αριστερά ο αριθμός παραθύρου
+   >tmux
+   
+   Για να ανοίξουμε ένα νεο session πληκτρολογούμε στο τερματικο
+   >tmux new -s <session-name>
+   
+   Μπορούμε να δούμε πόσα ενεργά παράθυρα υπάρχουν με την εντολή
+   >tmux ls
+   
+   Κάνουμε split το terminal κρατώντας στο πληκτρολόγιο πατημένο τα **Ctrl** και **b** , τα αφήνουμε και στην συνέχεια πατάμε το **%**
+    
+   Για να μετακινηθούμε μεταξύ των terminal πατάμε τον ίδιο συνδυασμό **Ctrl** και **b** , τα αφήνουμε και στην συνέχεια πατάμε το **->**
+        
+   Τώρα θα ανοίξουμε το glances στο δεύτερο τερματικό ώστε να δούμε το performance
+        ![Tmux-Glances](https://user-images.githubusercontent.com/56488103/132894201-a8642c12-4581-4424-8052-ba19c27343b5.png)
+        
+   Στο πρώτο τερματικό χρησιμοποιήσαμε το Lynx για να κάνουμε αναζήτηση στο web
+    ![Lynx search](https://user-images.githubusercontent.com/56488103/132895337-ca28836b-d222-4bbd-a6d6-876b8bd945b0.png)
+        
+     
+
+        
+        
+   
+   [Link asciinema](https://asciinema.org/a/8haJ9uf622aphIyZLqHqeCIMF)
    
   
 
