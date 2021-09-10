@@ -232,7 +232,9 @@
         
         
    
-   [Link asciinema](https://asciinema.org/a/8haJ9uf622aphIyZLqHqeCIMF)
+   [Link asciinema Glances](https://asciinema.org/a/YfYYlAIjdkf2CXFZYXDthibCN)
+   [Link asciinema tmux + lynx search](https://asciinema.org/a/maHO3BmArX2bcUemgBSnK2NDD)
+
    
   
 
