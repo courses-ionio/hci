@@ -68,6 +68,11 @@
 
 ### Παραδοτέο 9 (Image Zoom)
 [Codepen Link](https://codepen.io/p17balo/pen/WNOorGz)
+<br>
+<p align="center">
+<img src="https://i.postimg.cc/4xy0KH0C/Screenshot-3.jpg" >
+ <p/>
+<br>
 
 
 ### Παραδοτέο 10 (get familiar with basic commands, reading documentation and editing files)
