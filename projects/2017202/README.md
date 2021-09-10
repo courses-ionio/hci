@@ -225,7 +225,7 @@
    Στο πρώτο τερματικό χρησιμοποιήσαμε το Lynx για να κάνουμε αναζήτηση στο web
      ![Lynx search](https://user-images.githubusercontent.com/56488103/132896008-b339cb37-b814-4018-a0f0-fbb37eb40543.png)
 
-    ![Ionio Panepistimio](https://user-images.githubusercontent.com/56488103/132895337-ca28836b-d222-4bbd-a6d6-876b8bd945b0.png)
+     ![Ionio Panepistimio](https://user-images.githubusercontent.com/56488103/132895337-ca28836b-d222-4bbd-a6d6-876b8bd945b0.png)
         
      
 
