@@ -21,41 +21,41 @@
 Στόχος μου μέσα από την ανασχόληση με το μαθήματο αυτό είναι να εξοικειωθώ με την πλατφόρμα Github, η οποία επειδή χρησιμοποείται σε πολλά Project θα με βοηθήσει να εξελιχθώ επαγγελματικά σαν προγραμματιστής. Μέσω των υπόλοιπων ζητούμενων του μαθήματος (Ασκήσεις Προγραμματισμού, Ασκήσεις Γραμμής Εντολών και Συμμετοχικό Περιεχόμενο) θα αναπτύξω γνώσεις προγραμματισμού πάνω σε περιζήτητες γλώσσες προγραμματισμού καθώς και θα έρθω σε επαφή με το περιβάλλον των Linux. Παράλληλα, θα μπορέσω να έρθω επαφή και να προσπαθήσω να μιμηθώ τις τεχνικές που γράφουν οι επαγγελματίες προγραμματιστές κώδικα.
 
 ### Παραδοτέο 2 (Image Processing)
-Link[https://codepen.io/p17balo/pen/KKqNdOo]
+[Codepen Link](https://codepen.io/p17balo/pen/KKqNdOo)
 
 
 
 
 ### Παραδοτέο 3 (browse and view files on your system)
-Link [https://asciinema.org/a/dbS495hK8a3W5WaRbBnWssFol]
+[Asciinema Link](https://asciinema.org/a/dbS495hK8a3W5WaRbBnWssFol)
 
 ### Παραδοτέο 4 (Mouse Form)
-Link [https://codepen.io/p17balo/pen/XWgNXXG]
+[Codepen Link](https://codepen.io/p17balo/pen/XWgNXXG)
 
 
 
 ### Παραδοτέο 5 (check the weather)
-Link [https://asciinema.org/a/E8ejJBO8hVLAyeTaK5W6vK0bd]
+[Asciinema Link](https://asciinema.org/a/E8ejJBO8hVLAyeTaK5W6vK0bd)
 
 
 ### Παραδοτέο 6
 
 ### Παραδοτέο 7 (Mouse Button)
-Link [https://codepen.io/p17balo/pen/xxrRZVv]
+[Codepen Link](https://codepen.io/p17balo/pen/xxrRZVv)
 
 
 
 ### Παραδοτέο 8 (fetch information)
-Link [https://asciinema.org/a/5CO1YzNhyskBytPF9xeMvhzsO]
+[Asciinema Link](https://asciinema.org/a/5CO1YzNhyskBytPF9xeMvhzsO)
 
 
 
 ### Παραδοτέο 9 (Image Zoom)
-Link[https://codepen.io/p17balo/pen/WNOorGz]
+[Codepen Link](https://codepen.io/p17balo/pen/WNOorGz)
 
 
 ### Παραδοτέο 10 (get familiar with basic commands, reading documentation and editing files)
-[https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q]
+[Asciinema Link](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q)
 
 
 
