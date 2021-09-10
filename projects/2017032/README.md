@@ -63,7 +63,11 @@
 
 ### Παραδοτέο 7 (Mouse Button)
 [Codepen Link](https://codepen.io/p17balo/pen/xxrRZVv)
-
+<br>
+<p align="center">
+<img src="https://i.postimg.cc/256BNr37/Screenshot-5.jpg" >
+ <p/>
+<br>
 
 
 ### Παραδοτέο 8 (fetch information)
