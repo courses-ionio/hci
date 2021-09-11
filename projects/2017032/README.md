@@ -61,7 +61,7 @@
 ### Παραδοτέο 6  (1Β Μελέτη Περίπτωσης)
 [Link Μελέτης Περίπτωσης](https://github.com/p17balo/site/blob/master/_case-study/stackoverflow.md)
 
-### Παραδοτέο 4 (Mouse Button)
+### Παραδοτέο 7 (Mouse Button)
 [Codepen Link](https://codepen.io/p17balo/pen/xxrRZVv)
 <br>
 <p align="center">
@@ -69,14 +69,6 @@
  <p/>
 <br>
 
-
-### Παραδοτέο 7 (Image Zoom)
-[Codepen Link](https://codepen.io/p17balo/pen/WNOorGz)
-Για αυτή την  εργασία προγραμματισμού επιλέχθηκε γ εργασία Image zoom η οποία ήταν σε συνδυασμό με την εργασία Image processing. Σε αυτή την εργασία έπρεπε να προσθέσουμε στην εικόνα που μας δώθηκε τα φίλτρα της άσκησης Image processing. 
-<p align="center">
-<img src="https://i.postimg.cc/4xy0KH0C/Screenshot-3.jpg" >
- <p/>
-<br>
 ### Παραδοτέο 8 (fetch information)
 [Asciinema Link](https://asciinema.org/a/5CO1YzNhyskBytPF9xeMvhzsO)
 <br>
@@ -86,14 +78,23 @@
 <br>
 
 
+### Παραδοτέο 9 (Image Zoom)
+[Codepen Link](https://codepen.io/p17balo/pen/WNOorGz)
+Για αυτή την  εργασία προγραμματισμού επιλέχθηκε γ εργασία Image zoom η οποία ήταν σε συνδυασμό με την εργασία Image processing. Σε αυτή την εργασία έπρεπε να προσθέσουμε στην εικόνα που μας δώθηκε τα φίλτρα της άσκησης Image processing. 
+<p align="center">
+<img src="https://i.postimg.cc/4xy0KH0C/Screenshot-3.jpg" >
+ <p/>
+<br>
+
+### Παραδοτέο 10 (get familiar with basic commands, reading documentation and editing files)
+[Asciinema Link](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q)
 
 
 
-### Παραδοτέο 10 (2Β Βιογραφία)
+
+### Παραδοτέο 11 (2Β Βιογραφία)
 [Link βιβλιογραφίας](https://github.com/p17balo/site/blob/master/_biography/dennis-ritchie.md)
 
-### Παραδοτέο 11 (get familiar with basic commands, reading documentation and editing files)
-[Asciinema Link](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q)
 
 
 ### Συμπέρασμα
