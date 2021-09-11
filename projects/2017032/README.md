@@ -39,7 +39,7 @@
  <p/>
 <br>
 
-### Παραδοτέο 2 (Mouse Form)
+### Παραδοτέο 4 (Mouse Form)
 [Codepen Link](https://codepen.io/p17balo/pen/XWgNXXG)
 <br>
 <p align="center">
@@ -49,7 +49,7 @@
 
 
 
-### Παραδοτέο 3 (check the weather)
+### Παραδοτέο 5 (check the weather)
 [Asciinema Link](https://asciinema.org/a/E8ejJBO8hVLAyeTaK5W6vK0bd)
 Στο παραδοτέο 5 επιλέχθηκε η άσκηση Check The weather. Κατά την άσκηση παρουσιάστηκε ο καιρός που έχει γίνει πρόβλεψη για κάποιες συγκεκριμένες πόλεις της Ελλάδας και του εξωτερικού.
 <br>
@@ -58,10 +58,9 @@
  <p/>
 <br>
 
-### Παραδοτέο 4 (1A Συμμετοχικό περιεχόμενο)
-[Link]()
 
-### Παραδοτέο 5 (Mouse Button)
+
+### Παραδοτέο 4 (Mouse Button)
 [Codepen Link](https://codepen.io/p17balo/pen/xxrRZVv)
 <br>
 <p align="center">
