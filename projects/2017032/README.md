@@ -29,7 +29,6 @@
 <br>
 
 
-
 ### Παραδοτέο 3 (browse and view files on your system)
 [Asciinema Link](https://asciinema.org/a/dbS495hK8a3W5WaRbBnWssFol)
 Κατά την διάρκεια του μαθήματος ήρθαμε σε επαφή με την πρώτη άσκηση γραμμής εντυολών. Εκεί έπρεπε να καταγράψουμε με το εργαλείο Asciinema ότι πληκτολογούσαμε. Ο σκοπός της άσκησης που επέλεξα ήταν η πρόσβαση στα αρχεία του υπολογιστή. Με την βοήθεια του Asciinema κατάφερα να καταγράψω την διαδικασία πρόσβασης στα αρχεία του συστήματος.
@@ -41,7 +40,7 @@
  <p/>
 <br>
 
-### Παραδοτέο 4 (Mouse Form)
+### Παραδοτέο 2 (Mouse Form)
 [Codepen Link](https://codepen.io/p17balo/pen/XWgNXXG)
 <br>
 <p align="center">
@@ -51,7 +50,7 @@
 
 
 
-### Παραδοτέο 5 (check the weather)
+### Παραδοτέο 3 (check the weather)
 [Asciinema Link](https://asciinema.org/a/E8ejJBO8hVLAyeTaK5W6vK0bd)
 Στο παραδοτέο 5 επιλέχθηκε η άσκηση Check The weather. Κατά την άσκηση παρουσιάστηκε ο καιρός που έχει γίνει πρόβλεψη για κάποιες συγκεκριμένες πόλεις της Ελλάδας και του εξωτερικού.
 <br>
@@ -60,27 +59,20 @@
  <p/>
 <br>
 
-### Παραδοτέο 6
+### Παραδοτέο 4 (1A Συμμετοχικό περιεχόμενο)
+[Link]()
 
-### Παραδοτέο 7 (Mouse Button)
+### Παραδοτέο 5 (Mouse Button)
 [Codepen Link](https://codepen.io/p17balo/pen/xxrRZVv)
 <br>
 <p align="center">
 <img src="https://i.postimg.cc/256BNr37/Screenshot-5.jpg" >
  <p/>
 <br>
+### Παραδοτέο 6 (2Α Συμμετοχικό περιεχόμενο)
+[Link]()
 
-
-### Παραδοτέο 8 (fetch information)
-[Asciinema Link](https://asciinema.org/a/5CO1YzNhyskBytPF9xeMvhzsO)
-<br>
-<p align="center">
-<img src="https://i.postimg.cc/Bntqq6cb/Screenshot-7.jpg" >
- <p/>
-<br>
-
-
-### Παραδοτέο 9 (Image Zoom)
+### Παραδοτέο 7 (Image Zoom)
 [Codepen Link](https://codepen.io/p17balo/pen/WNOorGz)
 Για αυτή την  εργασία προγραμματισμού επιλέχθηκε γ εργασία Image zoom η οποία ήταν σε συνδυασμό με την εργασία Image processing. Σε αυτή την εργασία έπρεπε να προσθέσουμε στην εικόνα που μας δώθηκε τα φίλτρα της άσκησης Image processing. 
 <p align="center">
@@ -88,13 +80,23 @@
  <p/>
 <br>
 
+### Παραδοτέο 8 (1Β Μελέτη Περίπτωσης)
+[Link Μελέτης Περίπτωσης](https://github.com/p17balo/site/blob/master/_case-study/stackoverflow.md)
 
-### Παραδοτέο 10 (get familiar with basic commands, reading documentation and editing files)
+### Παραδοτέο 9 (fetch information)
+[Asciinema Link](https://asciinema.org/a/5CO1YzNhyskBytPF9xeMvhzsO)
+<br>
+<p align="center">
+<img src="https://i.postimg.cc/Bntqq6cb/Screenshot-7.jpg" >
+ <p/>
+<br>
+
+### Παραδοτέο 10 (2Β Βιογραφία)
+[Link βιβλιογραφίας](https://github.com/p17balo/site/blob/master/_biography/dennis-ritchie.md)
+
+### Παραδοτέο 11 (get familiar with basic commands, reading documentation and editing files)
 [Asciinema Link](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q)
 
-
-
-### Παραδοτέο 11
 
 ### Συμπέρασμα
 Όντας φοιτητής μεγαλύτερου εξαμήνου κατάφερα να κατανοήσω την φιλοσοφία του μαθήματος. Όπου οι φοιτητές πρέπει να ερευνήσουν πολλά μονοπάτια μόνοι τους και τελικά να πετύχουν το αποτέλεσμα, όπως σε αληθινές συνθήκες. Το μάθημα πρόσφερε εξοικείωση με το περιβάλλον Linux καθώς και με την πλατφόρμα της Netlify όπου εκτιμήθηκε ο τρόπος που δουλεύει η εντολή git. 
