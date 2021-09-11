@@ -58,7 +58,8 @@
  <p/>
 <br>
 
-
+### Παραδοτέο 6  (1Β Μελέτη Περίπτωσης)
+[Link Μελέτης Περίπτωσης](https://github.com/p17balo/site/blob/master/_case-study/stackoverflow.md)
 
 ### Παραδοτέο 4 (Mouse Button)
 [Codepen Link](https://codepen.io/p17balo/pen/xxrRZVv)
@@ -67,8 +68,7 @@
 <img src="https://i.postimg.cc/256BNr37/Screenshot-5.jpg" >
  <p/>
 <br>
-### Παραδοτέο 6 (2Α Συμμετοχικό περιεχόμενο)
-[Link]()
+
 
 ### Παραδοτέο 7 (Image Zoom)
 [Codepen Link](https://codepen.io/p17balo/pen/WNOorGz)
@@ -77,17 +77,17 @@
 <img src="https://i.postimg.cc/4xy0KH0C/Screenshot-3.jpg" >
  <p/>
 <br>
-
-### Παραδοτέο 8 (1Β Μελέτη Περίπτωσης)
-[Link Μελέτης Περίπτωσης](https://github.com/p17balo/site/blob/master/_case-study/stackoverflow.md)
-
-### Παραδοτέο 9 (fetch information)
+### Παραδοτέο 8 (fetch information)
 [Asciinema Link](https://asciinema.org/a/5CO1YzNhyskBytPF9xeMvhzsO)
 <br>
 <p align="center">
 <img src="https://i.postimg.cc/Bntqq6cb/Screenshot-7.jpg" >
  <p/>
 <br>
+
+
+
+
 
 ### Παραδοτέο 10 (2Β Βιογραφία)
 [Link βιβλιογραφίας](https://github.com/p17balo/site/blob/master/_biography/dennis-ritchie.md)
