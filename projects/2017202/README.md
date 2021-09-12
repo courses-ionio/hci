@@ -246,11 +246,10 @@
     >vim
         
 
-Τροποιήσαμε το αρχείο html, που είχε δημιουργηθεί για τους σκοπούς προηγούμενης εργασίας γραμμής εντολών, χρησιμοποίοντας το νέο UI του spacevim
-        
-    ![Spacevim](https://user-images.githubusercontent.com/56488103/133002530-773ef2da-cc4e-4beb-8a57-5782a45774d2.png)
+Τροποιήσαμε το αρχείο html, που είχε δημιουργηθεί για τους σκοπούς προηγούμενης εργασίας γραμμής εντολών, χρησιμοποίοντας το νέο UI του spacevim   
+        ![Spacevim](https://user-images.githubusercontent.com/56488103/133002530-773ef2da-cc4e-4beb-8a57-5782a45774d2.png)
   
-   [Link asciinema Vim + spacevim](https://asciinema.org/a/IwWiI7nMVx0l871WOoLLS26Hp)
+[Link asciinema Vim + spacevim](https://asciinema.org/a/IwWiI7nMVx0l871WOoLLS26Hp)
         
  
    
