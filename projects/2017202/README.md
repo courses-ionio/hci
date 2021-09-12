@@ -226,15 +226,27 @@
      ![Lynx search](https://user-images.githubusercontent.com/56488103/132896008-b339cb37-b814-4018-a0f0-fbb37eb40543.png)
      ![Ionio Panepistimio](https://user-images.githubusercontent.com/56488103/132895337-ca28836b-d222-4bbd-a6d6-876b8bd945b0.png)
         
+        
+
+  # 10ο Άσκηση Γραμμής Εντολών - Text editor and plug-ins for code highlighting and autocompletions
+
+   
+  Στη συγκεκριμενη άσκηση έγινε εγκατάσταση του **vim**
+   >sudo apt-get install tmux
+
+   Για την επίβλεψη του performance των τερματικών παραθύρων εγκαταστήσαμε το **glances**
+   >pip install --user glances
+       
+   
+        
      
 
         
         
    
-   [Link asciinema Glances](https://asciinema.org/a/YfYYlAIjdkf2CXFZYXDthibCN)
+   [Link asciinema Vim + spacevim](https://asciinema.org/a/IwWiI7nMVx0l871WOoLLS26Hp)
         
-   [Link asciinema tmux + lynx search](https://asciinema.org/a/maHO3BmArX2bcUemgBSnK2NDD)
-
+ 
    
   
 
