@@ -230,20 +230,21 @@
 
   # 10ο Άσκηση Γραμμής Εντολών - Text editor and plug-ins for code highlighting and autocompletions
 
-   
-  Στη συγκεκριμενη άσκηση έγινε εγκατάσταση του **vim**
-   >sudo apt-get install tmux
+  Για την τελευταία άσκηση γραμμής εντολών επιλέχθηκε η τροποποίηση του terminal με χρήση του Vim και διαφόρων Plugin. 
+  Στη συγκεκριμενη άσκηση έγινε εγκατάσταση του **vim** μέσω του git.
+   >git clone https://github.com/vim/vim.git
+   >cd vim/src
+   >make
 
-   Για την επίβλεψη του performance των τερματικών παραθύρων εγκαταστήσαμε το **glances**
-   >pip install --user glances
-       
-   
+   Στη συνέχεια προστέθηκε το **Spacevim** το οποίο τοποθετείτε πάνω στο Vim και δίνει την δυνατότητα μέσω μιας πληθώρας plugin να αλλάξει το UI του Vim.
+    > curl -sLf https://spacevim.org/install.sh | bash 
+    
+   Ανοίγουμε το Vim ώστε να γίνει εγκατάσει των πακέτων που προσφέρει το Spacevim. Αυτό γίνεται αυτόματα μόλις ανοίξει για πρώτη φορα το vim με την εντολή
+    > vim
         
-     
-
-        
-        
-   
+    Τροποιήσαμε το αρχείο html, που είχε δημιουργηθεί για τους σκοπούς προηγούμενης εργασίας γραμμής εντολών, χρησιμοποίοντας το νέο UI του spacevim
+    ![Spacevim](https://user-images.githubusercontent.com/56488103/133002530-773ef2da-cc4e-4beb-8a57-5782a45774d2.png)
+  
    [Link asciinema Vim + spacevim](https://asciinema.org/a/IwWiI7nMVx0l871WOoLLS26Hp)
         
  
