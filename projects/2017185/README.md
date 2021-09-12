@@ -27,7 +27,7 @@
 Βασικός μου στόχος είναι, φυσικά, η βαθμολόγιση στο μάθημα αυτό με βαθμό πάνω από την βάση μιας και η "Επικοινωνία Ανθρώπου Υπολογιστή" είναι μάθημα κορμού. Για να γίνει αυτό θα εξοικειωθώ με την πλατφόρμα του github πράγμα που θα μπορούσε να χαρακτηρισθεί αναπόφευκτο για κάθε προγραμματιστή και να παραδόσω κάθε παραδοτέο. Τα παραδοτέα αυτά θα δοκιμάσουνε τις δυνατότητες μας στην λύση προβλημάτων και γνώσεις τεχνολογιών και έτσι θα καταφέρουμε να αποκτήσουμε καινούριες γνώσεις πληροφορικής.
 
 
-## Παραδοτέο 2ο, 1η Άσκηση προγραμματισμού
+## Παραδοτέο 2ο - 1η Άσκηση προγραμματισμού
  Ως δεύτερο παραδοτέο επέλεξα το Calculator.
    Έχοντας μηδενικές γνώσεις στην γλώσσα προγραμματισμού javascript και στην γλώσσα html το παραδοτέο αυτό ήταν μια καλή δοκιμή. Με την εκμάθηση των βασικών λειτουργιών του κώδικα, λοιπόν, συνειδητοποίησα ότι πρέπει να προσθέσω ένα html element και το έκανα γράφοντας αυτό στο html5 κώδικα:
 
@@ -48,7 +48,7 @@
    [git](https://github.com/Haki-Malai/site/blob/master/_remix/calculator.md)
 
 
-## Παραδοτέο 3ο, 1η Άσκηση γραμμής εντολών
+## Παραδοτέο 3ο - 1η Άσκηση γραμμής εντολών
   **assignments**
    set-up the main dependencies and demonstrate your base system
    
@@ -58,7 +58,7 @@
    
    [Λινκ](https://asciinema.org/a/379107)
    
-## Παραδοτέο 4ο, 2η Άσκηση προγραμματισμού
+## Παραδοτέο 4ο - 2η Άσκηση προγραμματισμού
    
    Για το παραδοτέο αυτό επέλεξα μία σχετικά εύκολη άσκηση.
    Το αποτέλεσμα είναι το εξής:
@@ -72,7 +72,7 @@
    
    [git](https://github.com/Haki-Malai/site/edit/master/_remix/image-filter.md)
    
-## Παραδοτέο 5ο, 2η Άσκηση γραμμής εντολών
+## Παραδοτέο 5ο - 2η Άσκηση γραμμής εντολών
   **assignments**
    text editor and plug-ins for code highlighting and autocompletion
    
@@ -81,10 +81,17 @@
       
    [Λινκ](https://asciinema.org/a/cvhxSgtnqsk1pi4BQ4QRNSRkB)
    
-## Παραδοτέο 6ο, συμμετοχικό περιεχόμενο
-   Έκανα φορκ το pibook/images και πρόσθεσα 2 [εικόνες](https://github.com/Haki-Malai/images/commit/cc67740e3ff5d99beca0df1442fb921e29cb83c9) σύμφωνα με τις οδηγίες.
+## Παραδοτέο 6ο - Συμμετοχικό Περιεχόμενο
+   - Έκανα φορκ το [pibook/site](https://github.com/Haki-Malai/site), το [pibook/_gallery](https://github.com/Haki-Malai/_gallery) και το [pibook/images](https://github.com/Haki-Malai/images)
+   - Πρόσθεσα δυο εικόνες, μια για το [Sega dreamcast arcade stick](https://github.com/Haki-Malai/images/blob/master/sega-dreamcast-arcade-stick.jpg) και άλλη μια για το [Sega dreamcast lightgun](https://github.com/Haki-Malai/images/blob/master/sega-dreamcast-lightgun-fl.jpg)
+   - Επίσης, τα thumbnails για αυτά, [1ο](https://github.com/Haki-Malai/images/blob/master/sega-dreamcast-arcade-stick-thumb.jpg) και [2ο](https://github.com/Haki-Malai/images/blob/master/sega-dreamcast-lightgun-fl-thumb.jpg)
+   - Πρόσθεσα δυο .md αρχεία για τις προσθήκες μου, το [sega-dreamcast-arcade-stick.md](https://github.com/Haki-Malai/_gallery/blob/master/sega-dreamcast-arcade-stick.md) και το [sega-dreamcast-lightgun-fl.md](https://github.com/Haki-Malai/_gallery/blob/master/sega-dreamcast-lightgun-fl.md)
+   - Τροποποίησα το [_slides/programming.md](https://githu)
+   - Έκανα deploy την [σελίδα]()
+   - Κατέγραψα την [διαδικασία](https://asciinema.) μέσω asciinema
+  
    
-## Παραδοτέο 7ο, 3η 'Ασκηση γραμμής εντολών
+## Παραδοτέο 7ο - 3η 'Ασκηση γραμμής εντολών
    
    **assignment**
    organize your notes with emacs
@@ -92,7 +99,7 @@
    use org mode
    
  [λινκ](https://asciinema.org/a/379194)
-## Παραδοτέο 8ο, 3η Άσκηση προγραμματισμού
+## Παραδοτέο 8ο - 3η Άσκηση προγραμματισμού
 
 ### Html Canvas Draw
 
@@ -109,7 +116,7 @@
    [Html Canvas Draw](https://codepen.io/haki-malai/pen/wvzagrw)
    
    [git](https://github.com/Haki-Malai/site/blob/master/_remix/mouse-draw.md)
-## Παραδοτέο 9ο, 4η 'Ασκηση γραμμής εντολών
+## Παραδοτέο 9ο - 4η 'Ασκηση γραμμής εντολών
 
   **assingment**
     download mp3
