@@ -35,7 +35,7 @@
 
 **Συντονιστής συστημάτων τηλεεκπαίδευσης:** [Κωνσταντίνος Πατηνιώτης](https://github.com/c15pati)
 
-**Κριτήρια βαθμολογίας:** 10% [εβδομαδιαίο κουίζ](https://courses-ionio.github.io/projects/quiz/) + 30% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/projects/teamwork/) 20% [παρουσία στην τάξη και στις ατομικές παρουσιάσεις προόδου](https://courses-ionio.github.io/projects/classroom/), 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/), 20% [4 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/)
+**Κριτήρια βαθμολογίας:** 10% [εβδομαδιαίο κουίζ](https://courses-ionio.github.io/projects/quiz/) + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/projects/teamwork/) 30% [παρουσία στην τάξη και στις ατομικές παρουσιάσεις προόδου](https://courses-ionio.github.io/projects/classroom/), 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/), 20% [4 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/)
 
 **Τελική βαθμολόγηση:** Θα πρέπει να έχετε συμπληρώσει την βάση σε κάθε ένα από τα παραπάνω κριτήρια. Ορισμένα από τα κριτήρια (π.χ., εβδομαδιαίο κουϊζ, συνεργασία, παρουσιάσεις προόδου) είναι διαθέσιμα μόνο κατά την περίοδο του μαθήματος, οπότε θα πρέπει να τα έχετε ήδη ολοκληρώσει κατά την τρέχουσα χρονιά, ώστε να υπάρχει δικαίωμα συμμετοχής στην επαναληπτική ή στην επί πτυχίω εξέταση.
 
