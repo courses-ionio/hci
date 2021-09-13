@@ -13,7 +13,7 @@
 | 1 | [Εισαγωγή](#εισαγωγή) |
 | 2 | [Άσκηση προγραμματισμού: Form Validation](#παραδοτέο-2-form-validation) |
 | 3 | [Άσκηση γραμμής εντολών: Todo Lists](#παραδοτέο-3-taskwarrior) |
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | [Συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4-συμμετοχικό-περιεχόμενο-Α1) |
 | 5 | [Άσκηση προγραμματισμού: Image](#παραδοτέο-5-Image) |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | [Άσκηση γραμμής εντολών: Edit The Vim Configuration File](#παραδοτέο-7-Vim-Configuration) |
@@ -92,6 +92,18 @@
 
 #### Asciinema: [Taskwarrior](https://asciinema.org/a/433915)
 #### Πηγές: [Quick Demo (Taskwarrior)](https://taskwarrior.org/docs/start.html), [Best Practices (Taskwarrior)](https://taskwarrior.org/docs/best-practices.html), [GnuTLS](https://www.gnutls.org/), [Build (Taskwarrior)](https://taskwarrior.org/docs/build.html)
+
+## Παραδοτέο 4: Συμμετοχικό Περιεχόμενο Α1
+
+Για το συμμετοχικό περιέχομενο αποφάσισα να ασχοληθώ με λειτουργικά συστήματα και κομμάτια τους που έχουν καινοτομήσει στη χρήση και τον τρόπο διάδρασης με το σύστημα.
+
+<!-- TODO -->
+| | Pibook | Netlify |
+| --- | --- | --- |
+| NeXTSTEP | [nextstep.md](https://github.com/p17anto2/_gallery/blob/afa0841147dd0f14a8b0fc400c52e22bab61aca6/nextstep.md) \| [Image](https://github.com/p17anto2/images/blob/e7f065b431e4e08acee8dcb52f88f15528a9539e/nextstep.png) \| [Thumbnail](https://github.com/p17anto2/images/blob/e7f065b431e4e08acee8dcb52f88f15528a9539e/nextstep-thumb.png) | [NeXTSTEP](https://p2017095-ionio.netlify.app/gallery/nextstep/) |
+| GNOME 3 | [gnome3.md](https://github.com/p17anto2/_gallery/blob/afa0841147dd0f14a8b0fc400c52e22bab61aca6/gnome3.md) \| [Image](https://github.com/p17anto2/images/blob/e7f065b431e4e08acee8dcb52f88f15528a9539e/gnome3.png) \| [Thumbnail](https://github.com/p17anto2/images/blob/e7f065b431e4e08acee8dcb52f88f15528a9539e/gnome3-thumb.png) | [GNOME 3](https://p2017095-ionio.netlify.app/gallery/gnome3/)
+
+#### Πηγές: [NeXTSTEP (Wikipedia)](https://en.wikipedia.org/wiki/NeXTSTEP), [NeXT (Wikipedia)](https://en.wikipedia.org/wiki/NeXT), [NeXTSTEP (ArchiveOS)](https://archiveos.org/tag/nextstep/), [GNOME (Wikipedia)](https://en.wikipedia.org/wiki/GNOME), [GNOME Shell (Wikipedia)](https://en.wikipedia.org/wiki/GNOME_Shell), [Desktop Metaphor (Wikipedia)](https://en.wikipedia.org/wiki/Desktop_metaphor)
 
 ## Παραδοτέο 5: Image
 
