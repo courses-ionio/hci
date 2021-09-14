@@ -12,7 +12,7 @@
 | 1 | [Εισαγωγή + Σύνοψη] |
 | 2 | [Άσκηση προγραμματισμού: Mouse Eraser] |
 | 3 | [Άσκηση γραμμής εντολών: Set-up the main dependencies and demonstrate your base system] |
-| 4 | [~~Συμμετοχικό περιεχόμενο: Α1~~] |
+| 4 | [Συμμετοχικό περιεχόμενο: Α1] |
 | 5 | [Άσκηση προγραμματισμού: Mouse Option] |
 | 6 | [~~Συμμετοχικό περιεχόμενο: Α2~~] |
 | 7 | [Άσκηση γραμμής εντολών: Download MP3] |
@@ -92,6 +92,15 @@
 [Linux Commands for Beginners 07 - The Bash Configuration File](https://www.youtube.com/watch?v=esNITi0RkPE) |
 [How do I check system specifications?](https://askubuntu.com/questions/55609/how-do-i-check-system-specifications) |
 [Linux lshw Command](https://linuxhint.com/use-linux-lshw-command) |
+
+# 4ο Παραδοτέο - Συμμετοχικό περιεχόμενο: Α1
+Σαν χόμπι έχω τα video games και για αυτό ήθελα να βρω κάτι σε αυτή την ενότητα. Η πρώτη εικόνα που βρήκα είναι η πρώτη κονσόλα για video games που δημιουργήθηκε το 1972 με όνομα Magnavox Odyssey!<br />
+
+https://github.com/mariosconsta/_gallery/blob/master/First-generation-of-video-game-consoles.md<br />
+
+Η δεύτερη εικόνα είναι το Xbox adaptive controller της Microsoft το οποίο είναι ένα εξαιρετικό εργαλείο για άτομα με ειδικές ανάγκες που θέλουν να παίξουν παιχνίδια.<br />
+
+https://github.com/mariosconsta/_gallery/blob/master/Xbox-Adaptive-Controller.md
 
 # 5ο Παραδοτέο - Mouse option
 
