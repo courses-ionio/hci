@@ -160,7 +160,21 @@
    
    [Asciinema Link Using terminals](https://asciinema.org/a/2591J10vY1jiMJaAd4Ij05lFW)
    
-  # 8ο Άσκηση Γραμμής Εντολών - Create your own static site and blog generator with pandoc
+  # 8ο Συμμετοχικό περιεχόμενο 2Α
+
+  [Link σελιδας συμμετοχικου](https://p2017202-pibook.netlify.app/)
+
+  [Link αντιγράφου αποθετηρίου](https://github.com/AlexandrosP38/site)
+
+  Για το συμμετοχικό παραδοτέο 2Α επελέγει η παρουσίαση της γραφικής ταμπλέτας (graphics tablet). Μια συσκευή εισόδου που αναπτύχθηκε την δεκαετία του 80 αλλά στην εποχή covid είχε τρομερή ζήτηση καθώς χρησιμοποιήθηκε για εκπαιδευτικούς σκοπούς.
+   
+   
+   * [Repository Link:](https://github.com/AlexandrosP38/site/blob/master/_case-study/graphics-tablet.md)
+   * [CS - Repository Link:](https://github.com/AlexandrosP38/site/blob/master/_case-study/cs-graphics-tablet.md)
+   * [Netlify Link:]https://p2017202-pibook.netlify.app//case-study/graphics-tablet/
+   
+   
+  # 9ο Άσκηση Γραμμής Εντολών - Create your own static site and blog generator with pandoc
    
    Θελήσαμε να δημιουργήσουμε ένα site. Έτσι χρησιμοποιήθηκε το Bashyll το οποίο είναι ενα Blog generator το οποίο λειτουργεί με bash commands και το pandoc για την μετατροπή ενός markup format σε άλλο. Έτσι εμεις φτιάχνουμε .md αρχεία στο path που είναι το site και τα μετατρέπει σε .html και τα δημοσιεύει.
    
@@ -193,7 +207,7 @@
   
   [Asciinema Link2](https://asciinema.org/a/xO6ocaxYo3hBl38vceK3FXocK)
   
-  # 9ο Άσκηση Γραμμής Εντολών - Οrganise the terminal window into multiple areas
+  # 11ο Άσκηση Γραμμής Εντολών - Οrganise the terminal window into multiple areas
 
    
    Στόχος της εργασίας αυτής είναι να δημιουργήσουμε διάφορα windows sessions των terminals και στην συνέχεια να τα διαχειριστούμε αναλόγως. Έτσι εγκαταστάθηκε το **tmux**
@@ -226,9 +240,11 @@
      ![Lynx search](https://user-images.githubusercontent.com/56488103/132896008-b339cb37-b814-4018-a0f0-fbb37eb40543.png)
      ![Ionio Panepistimio](https://user-images.githubusercontent.com/56488103/132895337-ca28836b-d222-4bbd-a6d6-876b8bd945b0.png)
         
+  
+        
         
 
-  # 10ο Άσκηση Γραμμής Εντολών - Text editor and plug-ins for code highlighting and autocompletions
+  # Extra Άσκηση Γραμμής Εντολών - Text editor and plug-ins for code highlighting and autocompletions
 
   Για την τελευταία άσκηση γραμμής εντολών επιλέχθηκε η τροποποίηση του terminal με χρήση του Vim και διαφόρων Plugin. 
   Στη συγκεκριμενη άσκηση έγινε εγκατάσταση του **vim** μέσω του git.
