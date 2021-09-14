@@ -172,6 +172,10 @@
 | --- | --- | --- |
 | Μελέτη Περίπτωσης | [post-wimp-interfaces.md](https://github.com/p17anto2/site/blob/master/_case-study/post-wimp-interfaces.md) \| [cs-post-wimp-interfaces.md](https://github.com/p17anto2/extras/blob/master/cs-post-wimp-interfaces.md) | [Γραφικές Διεπαφές Post-Wimp](https://p2017095-ionio.netlify.app/case-study/post-wimp-interfaces/) |
 
+#### Προβλήματα:
+
+Στη σελίδα Μελέτες Περίπτωσης δεν εμφανιζόντουσαν οι εικόνες σε καμμία εγγραφή, οπότε, όπως είναι λογικό, δεν εμφανιζόντουσαν και στη δική μου που χρησιμοποιούσε ως παράδειγμα τις υπόλοιπες. Για να ξεπεράσω αυτό το πρόβλημα, έβαλα σχετικό link για τις εικόνες από το site/\_includes/extras/cs-post-wimp-interfaces.md και λύθηκε, αλλά δεν εμφανίζεται το Caption.
+
 #### Πηγές: [Graphical User Interface (Wikipedia)](https://en.wikipedia.org/wiki/Graphical_user_interface), [Xerox Alto (Wikipedia)](https://en.wikipedia.org/wiki/Xerox_Alto), [Desktop Metaphor (Wikipedia)](https://en.wikipedia.org/wiki/Desktop_metaphor), [Xerox Star (Wikipedia)](https://en.wikipedia.org/wiki/Xerox_Star), [WIMP (Wikipedia)](https://en.wikipedia.org/wiki/WIMP_(computing)), [Apple (Wikipedia)](https://en.wikipedia.org/wiki/Apple_Inc.), [Apple Lisa (Wikipedia)](https://en.wikipedia.org/wiki/Apple_Lisa), [Macintosh (Wikipedia)](https://en.wikipedia.org/wiki/Macintosh), [NeXT (Wikipedia)](https://en.wikipedia.org/wiki/NeXT), [NeXT Computer (Wikipedia)](https://en.wikipedia.org/wiki/NeXT_Computer), [Windows 95 (Wikipedia)](https://en.wikipedia.org/wiki/Windows_95), [Post-Wimp (Wikipedia)](https://en.wikipedia.org/wiki/Post-WIMP), [Noncommand User Interfaces (Jakob Nielsen)](https://www.nngroup.com/articles/noncommand/), [Anti-Mac Interface (Jakob Nielsen)](https://www.nngroup.com/articles/anti-mac-interface/), [Macintosh Human Interface Guidelines (Apple)](https://www.vintageapple.org/macprogramming/pdf/Macintosh_Human_Interface_Guidelines_1992.pdf), [Natural User Interface (Wikipedia)](https://en.wikipedia.org/wiki/Natural_user_interface), [Plan 9 Quote (Eric S. Raymond)](http://catb.org/~esr/writings/taoup/html/plan9.html)
 
 ## Παραδοτέο 9: Terminal Windows
