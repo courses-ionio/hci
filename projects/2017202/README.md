@@ -169,9 +169,9 @@
   Για το συμμετοχικό παραδοτέο 2Α επελέγει η παρουσίαση της γραφικής ταμπλέτας (graphics tablet). Μια συσκευή εισόδου που αναπτύχθηκε την δεκαετία του 80 αλλά στην εποχή covid είχε τρομερή ζήτηση καθώς χρησιμοποιήθηκε για εκπαιδευτικούς σκοπούς.
    
    
-   * [Repository Link:](https://github.com/AlexandrosP38/site/blob/master/_case-study/graphics-tablet.md)
-   * [CS - Repository Link:](https://github.com/AlexandrosP38/site/blob/master/_case-study/cs-graphics-tablet.md)
-   * [Netlify Link:](https://p2017202-pibook.netlify.app//case-study/graphics-tablet/)
+   * [Repository Link](https://github.com/AlexandrosP38/site/blob/master/_case-study/graphics-tablet.md)
+   * [CS - Repository Link](https://github.com/AlexandrosP38/site/blob/master/_case-study/cs-graphics-tablet.md)
+   * [Netlify Link](https://p2017202-pibook.netlify.app//case-study/graphics-tablet/)
 
 Πηγές:
 https://en.wikipedia.org/wiki/Graphics_tablet
