@@ -13,11 +13,11 @@
 | 1 | [Εισαγωγή](#εισαγωγή) |
 | 2 | [Άσκηση προγραμματισμού: Form Validation](#παραδοτέο-2-form-validation) |
 | 3 | [Άσκηση γραμμής εντολών: Todo Lists](#παραδοτέο-3-taskwarrior) |
-| 4 | [Συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4-συμμετοχικό-περιεχόμενο-Α1) |
+| 4 | [Συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4-συμμετοχικό-περιεχόμενο-α1) |
 | 5 | [Άσκηση προγραμματισμού: Image](#παραδοτέο-5-Image) |
-| 6 | συμμετοχικό περιεχόμενο 2A |
+| 6 | [Συμμετοχικό περιεχόμενο 2A](#παραδοτέο-6-συμμετοχικό-περιεχόμενο-α2) |
 | 7 | [Άσκηση γραμμής εντολών: Edit The Vim Configuration File](#παραδοτέο-7-Vim-Configuration) |
-| 8 | συμμετοχικό περιεχόμενο 1B |
+| 8 | [Συμμετοχικό περιεχόμενο 1B](#παραδοτέο-8-συμμετοχικό-περιεχόμενο-β1) |
 | 9 | [Άσκηση γραμμής εντολών: Terminal Windows](#παραδοτέο-9-Terminal-Windows) |
 | 10 | συμμετοχικό περιεχόμενο 2B |
 | 11 | [Άσκηση γραμμής εντολών: Terminal as an IDE](#παραδοτέο-11-Terminal-as-an-IDE) |
@@ -97,8 +97,7 @@
 
 Για το συμμετοχικό περιέχομενο αποφάσισα να ασχοληθώ με λειτουργικά συστήματα και κομμάτια τους που έχουν καινοτομήσει στη χρήση και τον τρόπο διάδρασης με το σύστημα.
 
-<!-- TODO -->
-| | Pibook | Netlify |
+| | Repository | Netlify |
 | --- | --- | --- |
 | NeXTSTEP | [nextstep.md](https://github.com/p17anto2/_gallery/blob/afa0841147dd0f14a8b0fc400c52e22bab61aca6/nextstep.md) \| [Image](https://github.com/p17anto2/images/blob/e7f065b431e4e08acee8dcb52f88f15528a9539e/nextstep.png) \| [Thumbnail](https://github.com/p17anto2/images/blob/e7f065b431e4e08acee8dcb52f88f15528a9539e/nextstep-thumb.png) | [NeXTSTEP](https://p2017095-ionio.netlify.app/gallery/nextstep/) |
 | GNOME 3 | [gnome3.md](https://github.com/p17anto2/_gallery/blob/afa0841147dd0f14a8b0fc400c52e22bab61aca6/gnome3.md) \| [Image](https://github.com/p17anto2/images/blob/e7f065b431e4e08acee8dcb52f88f15528a9539e/gnome3.png) \| [Thumbnail](https://github.com/p17anto2/images/blob/e7f065b431e4e08acee8dcb52f88f15528a9539e/gnome3-thumb.png) | [GNOME 3](https://p2017095-ionio.netlify.app/gallery/gnome3/)
@@ -123,6 +122,20 @@
 #### Codepen: [Form Validation](https://codepen.io/P2017095/pen/ExXVmmM)
 #### Netlify: [Form Validation Answer](https://p2017095-ionio.netlify.app/remix/image/)
 #### Πηγές: [Scalable Vector Graphics (Wikipedia)](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Functionality), [viewBox (Mozilla Docs)](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/viewBox)
+
+## Παραδοτέο 6: Συμμετοχικό Περιεχόμενο Α2
+
+Για το σετ διαφανειών, οι φωτογραφίες που επέλεξα ταιριάζουν με το ήδη υπάρχων Γραφική Διεπαφή Χρήστη, οπότε τις πρόσθεσα εκεί.
+
+Για το χρονολόγιο, δημιούργησα ένα μία νέα σελίδα με όνομα Γραφική Διεπαφή Χρήστη και έβαλα και περιεχόμενο που ήδη υπάρχει στο σετ διαφανειών με αυτό το θέμα.
+
+<!-- Το Gnome 3 δεν εμφανίζεται στο χρονολόγιο
+     TODO: Scale Down την εικόνα -->
+| | Repository | Netlify |
+| --- | --- | --- |
+| Διαφάνειες | [gui.md (Slides)](https://github.com/p17anto2/site/blob/master/_slides/gui.md) | [Γραφική Διεπαφή Χρήστη (Slides)](https://p2017095-ionio.netlify.app/slides/gui/) |
+| Χρονολόγιο | [gui.md (Timeline)](https://github.com/p17anto2/site/blob/master/_timeline/gui.md) | [Γραφική Διεπαφή Χρήστη (Timeline)](https://p2017095-ionio.netlify.app/timeline/gui/) |
+
 
 ## Παραδοτέο 7: Vim Configuration
 
@@ -149,6 +162,17 @@
 #### Asciinema: [Vim Configuration](https://asciinema.org/a/432265)
 
 #### Πηγές: [Το δικό μου vimrc](https://github.com/p17anto2/LessonImages/blob/main/HCI/3_vimrc.vim).
+
+## Παραδοτέο 8: Συμμετοχικό Περιεχόμενο Β1
+
+Για Μελέτη Περίπτωσης ασχολήθηκα γενικά με την εξέλιξη της γραφικής διεπαφής χρήστη, την ιστορία της και προς τα πού κατευθύνεται.
+
+<!-- Να φτιάξω τις εικόνες -->
+| | Repository | Netlify |
+| --- | --- | --- |
+| Μελέτη Περίπτωσης | [post-wimp-interfaces.md](https://github.com/p17anto2/extras/blob/master/cs-post-wimp-interfaces.md) | [Γραφικές Διεπαφές Post-Wimp](https://p2017095-ionio.netlify.app/case-study/post-wimp-interfaces/) |
+
+#### Πηγές: [Graphical User Interface (Wikipedia)](https://en.wikipedia.org/wiki/Graphical_user_interface), [Xerox Alto (Wikipedia)](https://en.wikipedia.org/wiki/Xerox_Alto), [Desktop Metaphor (Wikipedia)](https://en.wikipedia.org/wiki/Desktop_metaphor), [Xerox Star (Wikipedia)](https://en.wikipedia.org/wiki/Xerox_Star), [WIMP (Wikipedia)](https://en.wikipedia.org/wiki/WIMP_(computing)), [Apple (Wikipedia)](https://en.wikipedia.org/wiki/Apple_Inc.), [Apple Lisa (Wikipedia)](https://en.wikipedia.org/wiki/Apple_Lisa), [Macintosh (Wikipedia)](https://en.wikipedia.org/wiki/Macintosh), [NeXT (Wikipedia)](https://en.wikipedia.org/wiki/NeXT), [NeXT Computer (Wikipedia)](https://en.wikipedia.org/wiki/NeXT_Computer), [Windows 95 (Wikipedia)](https://en.wikipedia.org/wiki/Windows_95), [Post-Wimp (Wikipedia)](https://en.wikipedia.org/wiki/Post-WIMP), [Noncommand User Interfaces (Jakob Nielsen)](https://www.nngroup.com/articles/noncommand/), [Anti-Mac Interface (Jakob Nielsen)](https://www.nngroup.com/articles/anti-mac-interface/), [Macintosh Human Interface Guidelines (Apple)](https://www.vintageapple.org/macprogramming/pdf/Macintosh_Human_Interface_Guidelines_1992.pdf), [Natural User Interface (Wikipedia)](https://en.wikipedia.org/wiki/Natural_user_interface), [Plan 9 Quote (Eric S. Raymond)](http://catb.org/~esr/writings/taoup/html/plan9.html)
 
 ## Παραδοτέο 9: Terminal Windows
 
