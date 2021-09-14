@@ -7,6 +7,7 @@
 
 ### Github: [p17anto2](https://github.com/p17anto2)
 ### Netlify: [p2017095-ionio](p2017095-ionio.netlify.app)
+### Site: [p17anto2/site](https://github.com/p17anto2/site)
 
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
@@ -130,12 +131,15 @@
 
 Για το χρονολόγιο, δημιούργησα ένα μία νέα σελίδα με όνομα Γραφική Διεπαφή Χρήστη και έβαλα και περιεχόμενο που ήδη υπάρχει στο σετ διαφανειών με αυτό το θέμα.
 
-<!-- Το Gnome 3 δεν εμφανίζεται στο χρονολόγιο
-     TODO: Scale Down την εικόνα -->
 | | Repository | Netlify |
 | --- | --- | --- |
 | Διαφάνειες | [gui.md (Slides)](https://github.com/p17anto2/site/blob/master/_slides/gui.md) | [Γραφική Διεπαφή Χρήστη (Slides)](https://p2017095-ionio.netlify.app/slides/gui/) |
 | Χρονολόγιο | [gui.md (Timeline)](https://github.com/p17anto2/site/blob/master/_timeline/gui.md) | [Γραφική Διεπαφή Χρήστη (Timeline)](https://p2017095-ionio.netlify.app/timeline/gui/) |
+
+
+#### Προβλήματα:
+
+Στο χρονολόγιο Γραφική Διεπαφή Χρήστη, ενώ εμφανίζεται η δική μου εγγραφή NeXTSTEP, και όλες οι υπόλοιπες, δεν εμφανίζεται η εγγραφή για το Gnome 3. Δεν έχω βρει τι φταίει. 
 
 
 ## Παραδοτέο 7: Vim Configuration
