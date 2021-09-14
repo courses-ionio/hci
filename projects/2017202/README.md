@@ -171,7 +171,13 @@
    
    * [Repository Link:](https://github.com/AlexandrosP38/site/blob/master/_case-study/graphics-tablet.md)
    * [CS - Repository Link:](https://github.com/AlexandrosP38/site/blob/master/_case-study/cs-graphics-tablet.md)
-   * [Netlify Link:]https://p2017202-pibook.netlify.app//case-study/graphics-tablet/
+   * [Netlify Link:](https://p2017202-pibook.netlify.app//case-study/graphics-tablet/)
+
+Πηγές:
+https://en.wikipedia.org/wiki/Graphics_tablet
+https://www.scirp.org/journal/paperinformation.aspx?paperid=106488
+https://www.prnewswire.com/news-releases/learning-teaching-and-creating-digitally-made-easy-with-wacom-and-chromebook-301214927.html
+
    
    
   # 9ο Άσκηση Γραμμής Εντολών - Create your own static site and blog generator with pandoc
