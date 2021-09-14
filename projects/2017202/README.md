@@ -240,6 +240,23 @@ https://www.prnewswire.com/news-releases/learning-teaching-and-creating-digitall
   
   [Asciinema Link2](https://asciinema.org/a/xO6ocaxYo3hBl38vceK3FXocK)
   
+  
+  # 10ο Συμμετοχικό περιεχόμενο 2Β
+
+  [Link σελιδας συμμετοχικου](https://p2017202-pibook.netlify.app/)
+
+  [Link αντιγράφου αποθετηρίου](https://github.com/AlexandrosP38/site)
+
+  Για το συμμετοχικό παραδοτέο 2Β έγινε συγγραφή ενός σύντομου μέν αλλά περιεκτικού δε βιογραφικού του Alan Turing. Ο Alan Turing θεωρείται ο πατέρας των υπολογιστών καθώς με την συμβολή του και το έργο του δεν θα είχαμε τους σύγρχονους υπολογιστές. Η δημιουργία της μηχανής Τuring αποτέλεσε το προοίμιο των υπολογιστών. Σημαντική ήταν η συμβολή του και στην κρυπτογραφία καθώς κατόρθωσε να σπάσει τον κώδικα Enigma.
+
+ Link βιογραφίας/ Alan Turing
+   
+   * [Repository Link](https://github.com/AlexandrosP38/site/blob/master/_biography/alan-turing.md)
+   * [Netlify Link](https://p2017202-pibook.netlify.app//case-study/graphics-tablet/)
+
+Πηγές:
+
+  
   # 11ο Άσκηση Γραμμής Εντολών - Οrganise the terminal window into multiple areas
 
    
