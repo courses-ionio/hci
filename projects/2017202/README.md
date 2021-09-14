@@ -252,7 +252,7 @@ https://www.prnewswire.com/news-releases/learning-teaching-and-creating-digitall
  Link βιογραφίας/ Alan Turing
    
    * [Repository Link](https://github.com/AlexandrosP38/site/blob/master/_biography/alan-turing.md)
-   * [Netlify Link](https://p2017202-pibook.netlify.app//case-study/graphics-tablet/)
+   * [Netlify Link](https://p2017202-pibook.netlify.app//biography/alan-turing/)
 
 Πηγές:
 
