@@ -151,10 +151,20 @@
    Έχοντας δημιουργήσει αντίγραφο του αποθετηρίου σκοπός της συγκεκριμένης εργασίας είναι να δημιουργηθούν slides που να σχετίζονται με τις εικόνες του πρώτου συμμετοχικού περιεχομένου. Για την περίπτωση αυτή έχουμε επιλέξει την τηλεδιδασκαλία (e-learning) που είναι ο κατεξοχήν τρόπος διδασκαλίας που χρησιμοποιήθηκε λόγω των περιορισμών της πανδημίας covid
   
    
-   * [Εικόνα MAC](https://github.com/AlexandrosP38/images/blob/e8b9196e91655fb6b6d2978e51b004a1781246a8/macpc.jpg)
-   * [Εικόνα-thumbnail MAC](https://github.com/AlexandrosP38/images/blob/e8b9196e91655fb6b6d2978e51b004a1781246a8/macpc-thumb.jpg)
+   * [Repository Link](https://github.com/AlexandrosP38/site/edit/master/_slides/tileekpaidevsi.md)
+   * [Netlify Link](https://p2017202-pibook.netlify.app//slides/tileekpaidevsi/)
    
-   [Link 1ης εικόνας](https://p2017202-pibook.netlify.app//gallery/mac-pc/)
+   Για το timeline επέλεξα να παρουσιάσω την εξέλιξη της online διδασκαλίας. Τα πρώτα μαθήματα γινόντουσαν κυρίως μέσω email αλλά το Open University of Britain πρωτοπόρησε και ξεκίνησε την δεκαετία του 70 να παραδίδει κάποια διαδραστικά μαθήματα. Στη συνέχεια με τους πρώτους οικιακούς υπολογιστές MAC αλλά και την ανάπτυξη του ίντερνετ είχαμε τα πρώτα μαθήματα στο σπιτι. Στη δεκαετία του 90 μπήκαν μαθήματα στα σχολεία που γινόντουσαν αποκλειστικά online. Με την νέα χιλιετία και την πρόοδο της τεχνολογίας ήδη πολλές εταιρείες εκπαιδεύουν εργαζόμενους μέσω του διαδικτύου.
+   
+   * [Repository Link](https://github.com/AlexandrosP38/site/blob/master/_timeline/tileekpaidevsi.md)
+   * [Netlify Link](https://p2017202-pibook.netlify.app//timeline/tileekpaidevsi/)
+
+   * [70's](https://github.com/AlexandrosP38/_gallery/blob/master/first-elearning.md)
+   * [80's](https://github.com/AlexandrosP38/_gallery/blob/master/mac-online-learn.md)
+   * [2000's](https://github.com/AlexandrosP38/_gallery/blob/master/millenium-online.md)
+
+
+   Πηγή: https://www.talentlms.com/elearning/history-of-elearning
    
  
 
