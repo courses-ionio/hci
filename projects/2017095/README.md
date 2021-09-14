@@ -19,8 +19,9 @@
 | 7 | [Άσκηση γραμμής εντολών: Edit The Vim Configuration File](#παραδοτέο-7-Vim-Configuration) |
 | 8 | [Συμμετοχικό περιεχόμενο 1B](#παραδοτέο-8-συμμετοχικό-περιεχόμενο-β1) |
 | 9 | [Άσκηση γραμμής εντολών: Terminal Windows](#παραδοτέο-9-Terminal-Windows) |
-| 10 | συμμετοχικό περιεχόμενο 2B |
+| 10 | [Συμμετοχικό περιεχόμενο 2B](#παραδοτέο-10-συμμετοχικό-περιεχόμενο-β2) |
 | 11 | [Άσκηση γραμμής εντολών: Terminal as an IDE](#παραδοτέο-11-Terminal-as-an-IDE) |
+| 12 | [Επίλογος](#επίλογος) |
 
 ## Εισαγωγή
 
@@ -189,11 +190,20 @@
 #### Asciinema: [Terminal Windows](https://asciinema.org/a/432922)
 #### Πηγές: [Terminal.txt (VimHelp)](https://vimhelp.org/terminal.txt.html)
 
+## Παραδοτέο 10: Συμμετοχικό Περιεχόμενο Β2
+
+Σχετικά με τη θεματική που διαμορφώθηκε από τα προηγούμενα κομμάτια του συμμετοχικού περιεχομένου, τα μεγαλύτερα ονόματα έχουν ήδη βιογραφία, εκτός από τον Steve Jobs, αλλά όλοι έχουν γράψει για αυτόν, οπότε αποφάσισα να γράψω τη βιογραφία του Linus Torvalds, δημιουργού του Linux και του Git.
+
+| | Repository | Netlify |
+| --- | --- | --- |
+| Βιογραφία | [linus-torvalds.md](https://github.com/p17anto2/site/blob/master/_biography/linus-torvalds.md) \| [bio-linus-torvalds.md](https://github.com/p17anto2/extras/blob/master/bio-linus-torvalds.md) | [Linus Torvalds](https://p2017095-ionio.netlify.app/biography/linus-torvalds/) |
+
+#### Πηγές: [Linus Torvalds (Wikipedia)](https://en.wikipedia.org/wiki/Linus_Torvalds), [Operating Systems: Design And Implementation (Wikipedia)](https://en.wikipedia.org/wiki/Operating_Systems:_Design_and_Implementation), [Linus Torvalds Interview](https://www.youtube.com/watch?v=fuAebQvFnRI), [Linux (Wikipedia)](https://en.wikipedia.org/wiki/Linux), [Linux Foundation Staff (Wayback Machine)](https://p2017095-ionio.netlify.app/biography/linus-torvalds/), [History Of Linux (Wikipedia)](https://en.wikipedia.org/wiki/History_of_Linux), [linux.org site info (Wayback Machine)](https://web.archive.org/web/20040626044423/http://www.linux.org/info/linus.html), [Transmeta (Wikipedia)](https://en.wikipedia.org/wiki/Transmeta), [Git (Wikipedia)](https://en.wikipedia.org/wiki/Git), [Git Origin Story (Linux Journal)](https://www.linuxjournal.com/content/git-origin-story), [Linux Foundation (Wikipedia)](https://en.wikipedia.org/wiki/Linux_Foundation)
+
 ## Παραδοτέο 11: Terminal as an IDE
 
 Για το τελευταίο παραδοτέο διαμορφώνω το Vim σε IDE. Στόχος είναι να μπορώ να γράφω άνετα Python και Latex αρχεία μέσα από το terminal. Για αυτό το σκοπό θα χρησιμοποιήσω μερικά plug-in για το Vim.
 
-<!-- TODO: Add images-->
 ### Airline
 
 Το Vim-Airline είναι ένα plugin του Vim που προσφέρει κυρίως αισθητικές αλλαγές, όχι τόσο χρηστικές. Προσθέτει μία μπάρα στο κάτω μέρος, όπου εμφανίζει σε ποιο mode του Vim βρίσκεσαι, σε ποια γραμμή βρίσκεσαι, ποσοστιαία και πραγματικά, καθώς και σε ποιον χαρακτήρα είσαι (οριζόντια).
@@ -270,3 +280,7 @@ nmap st :UpdateTypesFile<CR>
 #### Εργαλεία: [Vim](https://www.vim.org/), [Vim-Airline](https://github.com/vim-airline/vim-airline), [ALE](https://github.com/dense-analysis/ale), [Flake8](https://flake8.pycqa.org/en/latest/), [TagHighlight](https://www.vim.org/scripts/script.php?script_id=2646), [ctags](https://github.com/universal-ctags/ctags),  [TexLive](https://tug.org/texlive/), [Poppler](https://poppler.freedesktop.org/), [Less](http://www.greenwoodsoftware.com/less/), [GNU Make](https://www.gnu.org/software/make/)
 
 #### Πηγές: [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
+
+## Επίλογος
+
+Κλείνοντας, μπορώ να πω ότι συνολικά ήρθα σε επαφή με πολλές τεχνικές και ιδέες, καθώς έμαθα και πολλά πράγματα μέσα από την εργασία. Έμαθα πώς λειτουργούν τεχνολογίες όπως το SVG, μπόρεσα να εφαρμόσω και να επεκτείνω τις γνώσεις μου και τις ικανότητες πάνω στο τερματικό και το bash, και έμαθα πολλά πράγματα για τη χρήση και τις τεχνικές Επικοινωνίας Ανθρώπου και Υπολογιστή. 
