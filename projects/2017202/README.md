@@ -141,6 +141,23 @@
 
 #### Link στο pen της άσκησης στο codepen.io: [Image processing P2017202](https://codepen.io/alexandrosp38/pen/ExXgZKp)
 
+
+# 6ο Συμμετοχικό περιεχόμενο 1Β
+
+  [Link σελιδας συμμετοχικου](https://p2017202-pibook.netlify.app/)
+
+  [Link αντιγράφου αποθετηρίου](https://github.com/AlexandrosP38/site)
+
+   Έχοντας δημιουργήσει αντίγραφο του αποθετηρίου σκοπός της συγκεκριμένης εργασίας είναι να δημιουργηθούν slides που να σχετίζονται με τις εικόνες του πρώτου συμμετοχικού περιεχομένου. Για την περίπτωση αυτή έχουμε επιλέξει την τηλεδιδασκαλία (e-learning) που είναι ο κατεξοχήν τρόπος διδασκαλίας που χρησιμοποιήθηκε λόγω των περιορισμών της πανδημίας covid
+  
+   
+   * [Εικόνα MAC](https://github.com/AlexandrosP38/images/blob/e8b9196e91655fb6b6d2978e51b004a1781246a8/macpc.jpg)
+   * [Εικόνα-thumbnail MAC](https://github.com/AlexandrosP38/images/blob/e8b9196e91655fb6b6d2978e51b004a1781246a8/macpc-thumb.jpg)
+   
+   [Link 1ης εικόνας](https://p2017202-pibook.netlify.app//gallery/mac-pc/)
+   
+ 
+
  # 7ο Άσκηση Γραμμής Εντολών - Installing & Using different terminals
    
    Για την εργασία αυτή χρησιμοποιήθηκαν τα terminals **st** και **zsh**. Η εγκατάση έγινε με τις εντολές:
