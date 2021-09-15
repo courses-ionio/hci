@@ -10,22 +10,20 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | [Εισαγωγή + Σύνοψη](#εισαγωγη) |
-| 2 | [Άσκηση προγραμματισμού: Button](#2ο-Παραδοτέο---Button) |
-| 3 | [Άσκηση γραμμής εντολών: Download-mp3](#3ο-Παραδοτέο---Download-mp3) |
-| 4 | [Άσκηση προγραμματισμού: Menu-pie](#4ο-Παραδοτέο---Menu-pie) |
-| 5 | [Άσκηση γραμμής εντολών: Configure-a-custom-window-manager](#5ο-Παραδοτέο---Configure-a-custom-window-manager) |
-| 6 | [Συμμετοχικό Υλικό Α1 και Α2](#6ο-Παραδοτέο---Συμμετοχικό-Υλικό-Α1-και-Α2) |
-| 7 | [Άσκηση γραμμής εντολών: Try-different-terminals-and-shells](#7ο-Παραδοτέο---Try-different-terminals-and-shells) |
-| 8 | [Άσκηση γραμμής εντολών: Use-the-terminal-as-an-IDE](#8ο-Παραδοτέο---Use-the-terminal-as-an-IDE) |
-| 9 | [Συμμετοχικό Υλικό Β1 και Β2 ](#9ο-Παραδοτέο---Συμμετοχικό-Υλικό-Β1-και-Β2) |
-| 10 | [Επίλογος]() |
+| 1 | [Άσκηση προγραμματισμού: Button](#2ο-Παραδοτέο---Button) |
+| 2 | [Άσκηση γραμμής εντολών: Download-mp3](#3ο-Παραδοτέο---Download-mp3) |
+| 3 | [Άσκηση προγραμματισμού: Menu-pie](#4ο-Παραδοτέο---Menu-pie) |
+| 4 | [Άσκηση γραμμής εντολών: Configure-a-custom-window-manager](#5ο-Παραδοτέο---Configure-a-custom-window-manager) |
+| 5 | [Συμμετοχικό Υλικό Α1 και Α2](#6ο-Παραδοτέο---Συμμετοχικό-Υλικό-Α1-και-Α2) |
+| 6 | [Άσκηση γραμμής εντολών: Try-different-terminals-and-shells](#7ο-Παραδοτέο---Try-different-terminals-and-shells) |
+| 7 | [Άσκηση γραμμής εντολών: Use-the-terminal-as-an-IDE](#8ο-Παραδοτέο---Use-the-terminal-as-an-IDE) |
+| 8 | [Συμμετοχικό Υλικό Β1 και Β2 ](#9ο-Παραδοτέο---Συμμετοχικό-Υλικό-Β1-και-Β2) |
+|  | [Επίλογος]() |
 
 
 # ΕΙΣΑΓΩΓΗ
 
-
-# 2ο Παραδοτέο - Άσκηση προγραμματισμού Button
+# 1ο Παραδοτέο - Άσκηση προγραμματισμού Button
 
 Για το δεύτερο παραδοτέο επέλεξα την προγραμματιστική άσκηση "Button" στην οποία 
 
@@ -36,42 +34,51 @@
 
 #### Link στο pen της άσκησης στο codepen.io: [Button - Remix](https://codepen.io/p17mari/pen/YzQpMyX)
 
-# 3ο Παραδοτέο - Download mp3
+# 2ο Παραδοτέο - Download mp3
 
-search, download and play (with the terminal) your favorite song of the month from youtube
+Εκφώνηση: search, download and play (with the terminal) your favorite song of the month from youtube
+
+Η εγκατάσταση του youtube-dl, του mpv και του τραγουδιού που αναζήτησα έγιναν με επιτυχία. Το μόνο πρόβλημα είναι ότι επειδή έτρεχα το mpv μέσω WSL δεν μπορούσε να ανοίξει το κατεβασμένο αρχείο από το terminal. Γίνεται από το command line των Windows αλλά δεν έχω βρεί ακόμα τρόπο να το καταγράψω μέσω asciinema. Όταν διορθώσω αυτό το θέμα compatibility θα το προσθέσω.
 
 #### Asciinema links:  [Download mp3 - Part One Installation](https://asciinema.org/a/435220), [Download mp3 - Part Two Installation Installing mpv](https://asciinema.org/a/435223), [Searching and downloading-Rush E](https://asciinema.org/a/435237)
 #### Πηγή [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 #### Πηγή [mpv](https://github.com/mpv-player/mpv)
 
-# 4ο Παραδοτέο - Menu pie
+# 3ο Παραδοτέο - Menu pie
 
 Menu pie
 Διαδραστικό παράδειγμα πολύπλοκου κυκλικού μενού. Με την επιλογή του κουμπιού “open” από το χρήστη, εμφανίζονται μια σειρά από πιθανές επιλογές.
 Άσκηση: Τροποποιήστε το μενού κατάλληλα ώστε κατά την επιλογή του κουμπιού open να εμφανίζονται 4 και όχι 12 επιλογές.
 
+
 #### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [_remix/menu-pie](https://github.com/p17mari/site/blob/master/_remix/menu-pie.md)
 
 #### Link στο pen της άσκησης στο codepen.io: [Menu pie - Remix](https://codepen.io/p17mari/pen/QWgOdga)
 
-# 5ο Παραδοτέο - Configure a custom window manager
+# 4ο Παραδοτέο - Configure a custom window manager
 
-try different wm and configure one to fit your needs
+Εκφώνηση: try different wm and configure one to fit your needs
+
+Η εγκατάσταση ήταν πολύ απλή και σαν window manager βολέυει όταν είχα στο φόντο την πηγή για κώδικα και το terminal παραλληλά. Μου χρησίμευσαι στην πρακτική μου καθώς έψαχνα βιβλιογραφεία και έγραφα κώδικα για ένα project παράλληλα.
 
 #### Asciinema link: [Configure a custom window manager](https://asciinema.org/a/435914)
 #### Πηγή [Sowm](https://github.com/dylanaraps/sowm)
 
-# 6ο Παραδοτέο - Συμμετοχικό Υλικό Α1 και Α2
-# 7ο Παραδοτέο - Try different terminals and shells
+# 5ο Παραδοτέο - Συμμετοχικό Υλικό Α1 και Α2
 
-repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
+# 6ο Παραδοτέο - Try different terminals and shells
+
+Εκφώνηση: repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
+Το shell που δοκίμασα είναι το fish. Το ότι συμπλήρωνε εντολές για εμένα -παρότι χρήσιμο- θα ήθελα να το αποφύγω για να μπορέσω να μάθω τις εντόλες καλύτερα. Εαν αυτός είναι σωστός τρόπος μάθησης ή αν απλά με καθυστερεί είναι κάτι που θα ανακαλύψω στην πορεία του εξαμήνου. Δεν γνώριζα τι να αλλάξω στο config αρχείο οπότε άλλαξα το μήνυμα υποδοχής σε κενό.Εφόσον βρώ μια άλλη χρήση που θα ήθελα να αλλάξει θα το προσθέσω εδω.
 
 #### Asciinema link: [Try different terminals and shells](https://asciinema.org/a/435900)
 #### Πηγή [Fish](https://fishshell.com)
-# 8ο Παραδοτέο - Use the terminal as an IDE 
 
-edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+# 7ο Παραδοτέο - Use the terminal as an IDE 
+
+Εκφώνηση: edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+Για αυτήν την εργασία χρησιμοποιήσα το spacevim. Αφού το κατέβασα έδειξα πώς μπορείς να ανοίξεις και να επεξεργαστείς ένα απλό πρόγραμμα Hello World. 
 #### Asciinema link: [Use the terminal as an IDE](https://asciinema.org/a/435733)
 #### Πηγή [spacevim](https://spacevim.org)
 
-# 9ο Παραδοτέο - Συμμετοχικό Υλικό Β1 και Β2
+# 8ο Παραδοτέο - Συμμετοχικό Υλικό Β1 και Β2
