@@ -66,17 +66,36 @@ Menu pie
 
 # 5ο Παραδοτέο - Συμμετοχικό Υλικό Α1 και Α2
 
-Apple Graphics Tablet
+# Apple Graphics Tablet
+
 ![Apple Graphics Tablet - Front](https://user-images.githubusercontent.com/43947917/133484517-5b1e0362-0db8-475e-918a-dd09e86a782a.jpg)
 
 Το Apple Graphics Tablet βγήκε το 1979, την ίδια χρονιά με το πρώτο apple mouse, κατασκευάστηκε για το Apple II σύστημα και είχε σαν σκοπό την σχεδίαση μέσω γραφίδας. Παρόμοια κατασκευής με το RAND TABLET το Apple Graphics Tablet ήταν από τις πρώτες συσκευές ηλεκτρονικής σχεδίασης και ,συγκριτικά με το πρώτο υπολογιστή, έχει πολύ όμοια χαρακτηριστικά με γραφίδες που κατασκευάζονται τώρα από γνωστές εταιρίες γραφιστικών όπως η Wacom.
 
 Πηγές: 
+
 https://en.wikipedia.org/wiki/RAND_Tablet
 http://www.edibleapple.com/2009/11/23/the-first-apple-tablet-from-1979/
 https://www.iclarified.com/6239/the-original-apple-tablet-1979
 http://appletothecore.me/files/apple_graphics_tablet.php
 https://tedium.co/2017/09/21/wacom-tablet-history/
+
+# Cleverbot
+
+![Cleverbot_website](https://user-images.githubusercontent.com/43947917/133487948-591da914-d66d-4933-8b69-e996319a2403.png)
+
+Το cleverbot είναι μια εφαρμογή Τεχνητής Νοημοσύνης όπου οι χρήστες μπορούν να μιλήσουν σε ένα σετ από bot τα οποία προσπαθούν να μιμηθούν μια "ανθρώπινη" συζήτηση. Σκοπός της εφαρμογής ήταν το AI να μπορεί να περάσει το γνωστό test Turing όπου ο χρήστης να μην μπορεί να καταλάβει την διαφορά μεταξύ AI και ανρθώπινου συνομιλητή.
+Η εταιρία συμμετείχε σε τέτοιου τύπου τέστ το 2011 και έφτασε ποσοστό 59.3% άνθρωπος όπου όταν συνγκριθεί με το  63.3% που έφτασαν οι πραγματικοί συνομιλητές μπορεί να πεί κανείς ότι η εφαρμογή ήταν επιτυχής. 
+
+Πηγές:
+
+https://www.existor.com
+https://en.wikipedia.org/wiki/Cleverbot
+https://www.cleverbot.com/app
+https://singularityhub.com/2010/01/13/cleverbot-chat-engine-is-learning-from-the-internet-to-talk-like-a-human/
+https://www.livescience.com/15940-cleverbot-computer-chats-human.html
+https://www.jstor.org/stable/10.5325/trajincschped.24.1-2.0056
+http://www.cs.brandeis.edu/~ling140/soli.pdf
 
 # 6ο Παραδοτέο - Try different terminals and shells
 
@@ -94,3 +113,7 @@ https://tedium.co/2017/09/21/wacom-tablet-history/
 #### Πηγή [spacevim](https://spacevim.org)
 
 # 8ο Παραδοτέο - Συμμετοχικό Υλικό Β1 και Β2
+
+Link αποθετηρίου μελέτης περίπτωσης [RAND-tablet](https://github.com/p17mari/site/blob/master/_case-study/RAND-tablet.md)
+
+Link αποθετηρίου βιβλιογραφίας [Grace Hopper](https://github.com/p17mari/site/blob/master/_biography/grace-hopper.md)
