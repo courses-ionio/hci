@@ -40,7 +40,9 @@
 
 search, download and play (with the terminal) your favorite song of the month from youtube
 
-#### Asciinema link: []()
+#### Asciinema links:  [Download mp3 - Part One Installation](https://asciinema.org/a/435220), [Download mp3 - Part Two Installation Installing mpv](https://asciinema.org/a/435223), [Searching and downloading-Rush E](https://asciinema.org/a/435237)
+#### Πηγή [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+#### Πηγή [mpv](https://github.com/mpv-player/mpv)
 
 # 4ο Παραδοτέο - Menu pie
 
@@ -48,7 +50,7 @@ Menu pie
 Διαδραστικό παράδειγμα πολύπλοκου κυκλικού μενού. Με την επιλογή του κουμπιού “open” από το χρήστη, εμφανίζονται μια σειρά από πιθανές επιλογές.
 Άσκηση: Τροποποιήστε το μενού κατάλληλα ώστε κατά την επιλογή του κουμπιού open να εμφανίζονται 4 και όχι 12 επιλογές.
 
-#### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: []()
+#### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [_remix/menu-pie](https://github.com/p17mari/site/blob/master/_remix/menu-pie.md)
 
 #### Link στο pen της άσκησης στο codepen.io: [Menu pie - Remix](https://codepen.io/p17mari/pen/QWgOdga)
 
@@ -56,19 +58,20 @@ Menu pie
 
 try different wm and configure one to fit your needs
 
-#### Asciinema link: []()
+#### Asciinema link: [Configure a custom window manager](https://asciinema.org/a/435914)
+#### Πηγή [Sowm](https://github.com/dylanaraps/sowm)
 
 # 6ο Παραδοτέο - Συμμετοχικό Υλικό Α1 και Α2
 # 7ο Παραδοτέο - Try different terminals and shells
 
 repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 
-#### Asciinema link: []()
-
+#### Asciinema link: [Try different terminals and shells](https://asciinema.org/a/435900)
+#### Πηγή [Fish](https://fishshell.com)
 # 8ο Παραδοτέο - Use the terminal as an IDE 
 
 edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
-
-#### Asciinema link: []()
+#### Asciinema link: [Use the terminal as an IDE](https://asciinema.org/a/435733)
+#### Πηγή [spacevim](https://spacevim.org)
 
 # 9ο Παραδοτέο - Συμμετοχικό Υλικό Β1 και Β2
