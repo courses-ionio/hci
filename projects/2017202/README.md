@@ -4,7 +4,7 @@
 ### Αριθμός Μητρώου: Π2017202
 ### GitHub Profile: [AlexandrosP38](https://github.com/AlexandrosP38)
 ### Netlify: [p2017202-pibook](https://p2017202-pibook.netlify.app/)
-
+### Site Repository: [AlexandrosP38](https://github.com/AlexandrosP38/site/)
 <br />
 
 ## Πίνακας με σύνοψη των παραδοτέων
