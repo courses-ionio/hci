@@ -34,11 +34,13 @@
 
 #### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: [_remix/button](https://github.com/p17mari/site/blob/master/_remix/button.md)
 
-#### Link στο pen της άσκησης στο codepen.io: [Button- Remix](https://codepen.io/p17mari/pen/YzQpMyX)
+#### Link στο pen της άσκησης στο codepen.io: [Button - Remix](https://codepen.io/p17mari/pen/YzQpMyX)
 
 # 3ο Παραδοτέο - Download mp3
 
 search, download and play (with the terminal) your favorite song of the month from youtube
+
+#### Asciinema link: []()
 
 # 4ο Παραδοτέο - Menu pie
 
@@ -46,17 +48,27 @@ Menu pie
 Διαδραστικό παράδειγμα πολύπλοκου κυκλικού μενού. Με την επιλογή του κουμπιού “open” από το χρήστη, εμφανίζονται μια σειρά από πιθανές επιλογές.
 Άσκηση: Τροποποιήστε το μενού κατάλληλα ώστε κατά την επιλογή του κουμπιού open να εμφανίζονται 4 και όχι 12 επιλογές.
 
+#### Link στο fork του αποθετηρίου pibook με το embed της άσκησης: []()
+
+#### Link στο pen της άσκησης στο codepen.io: [Menu pie - Remix](https://codepen.io/p17mari/pen/QWgOdga)
+
 # 5ο Παραδοτέο - Configure a custom window manager
 
 try different wm and configure one to fit your needs
+
+#### Asciinema link: []()
 
 # 6ο Παραδοτέο - Συμμετοχικό Υλικό Α1 και Α2
 # 7ο Παραδοτέο - Try different terminals and shells
 
 repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs
 
+#### Asciinema link: []()
+
 # 8ο Παραδοτέο - Use the terminal as an IDE 
 
 edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+
+#### Asciinema link: []()
 
 # 9ο Παραδοτέο - Συμμετοχικό Υλικό Β1 και Β2
