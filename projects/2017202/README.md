@@ -202,7 +202,9 @@
 
 Πηγές:
 https://en.wikipedia.org/wiki/Graphics_tablet
+
 https://www.scirp.org/journal/paperinformation.aspx?paperid=106488
+
 https://www.prnewswire.com/news-releases/learning-teaching-and-creating-digitally-made-easy-with-wacom-and-chromebook-301214927.html
 
    
@@ -255,7 +257,11 @@ https://www.prnewswire.com/news-releases/learning-teaching-and-creating-digitall
    * [Bio Link](https://github.com/AlexandrosP38/extras/blob/master/bio-turing.md)
    * [Netlify Link](https://p2017202-pibook.netlify.app//biography/alan-turing/)
 
-Πηγές:
+Πηγές: https://www.ilpost.it/2012/06/23/100-anni-alan-turing-doodle/
+
+https://www.wired.it/play/cinema/2015/01/01/chi-era-alan-turing/
+
+https://en.wikipedia.org/wiki/Alan_Turing
 
   
   # 11ο Άσκηση Γραμμής Εντολών - Οrganise the terminal window into multiple areas
