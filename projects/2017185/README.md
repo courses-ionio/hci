@@ -86,7 +86,7 @@
    - Πρόσθεσα δυο εικόνες, μια για το [Sega dreamcast arcade stick](https://github.com/Haki-Malai/images/blob/master/sega-dreamcast-arcade-stick.jpg) και άλλη μια για το [Sega dreamcast lightgun](https://github.com/Haki-Malai/images/blob/master/sega-dreamcast-lightgun-fl.jpg)
    - Επίσης, τα thumbnails για αυτά, [1ο](https://github.com/Haki-Malai/images/blob/master/sega-dreamcast-arcade-stick-thumb.jpg) και [2ο](https://github.com/Haki-Malai/images/blob/master/sega-dreamcast-lightgun-fl-thumb.jpg)
    - Πρόσθεσα δυο .md αρχεία για τις προσθήκες μου, το [sega-dreamcast-arcade-stick.md](https://github.com/Haki-Malai/_gallery/blob/master/sega-dreamcast-arcade-stick.md) και το [sega-dreamcast-lightgun-fl.md](https://github.com/Haki-Malai/_gallery/blob/master/sega-dreamcast-lightgun-fl.md)
-   - Τροποποίησα το [_slides/programming.md](https://githu)
+   - Τροποποίησα το [_slides/programming.md](https://github.com/Haki-Malai/site/commit/db380bfdb86fe3122e6050c5c67c3ef74386c838)
    - Έκανα deploy την [σελίδα]()
    - Κατέγραψα την [διαδικασία](https://asciinema.) μέσω asciinema
   
