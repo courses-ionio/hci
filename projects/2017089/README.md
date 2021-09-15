@@ -10,15 +10,15 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | [Άσκηση προγραμματισμού: Button](#2ο-Παραδοτέο---Button) |
-| 2 | [Άσκηση γραμμής εντολών: Download-mp3](#3ο-Παραδοτέο---Download-mp3) |
-| 3 | [Άσκηση προγραμματισμού: Menu-pie](#4ο-Παραδοτέο---Menu-pie) |
-| 4 | [Άσκηση γραμμής εντολών: Configure-a-custom-window-manager](#5ο-Παραδοτέο---Configure-a-custom-window-manager) |
-| 5 | [Συμμετοχικό Υλικό Α1 και Α2](#6ο-Παραδοτέο---Συμμετοχικό-Υλικό-Α1-και-Α2) |
-| 6 | [Άσκηση γραμμής εντολών: Try-different-terminals-and-shells](#7ο-Παραδοτέο---Try-different-terminals-and-shells) |
-| 7 | [Άσκηση γραμμής εντολών: Use-the-terminal-as-an-IDE](#8ο-Παραδοτέο---Use-the-terminal-as-an-IDE) |
-| 8 | [Συμμετοχικό Υλικό Β1 και Β2 ](#9ο-Παραδοτέο---Συμμετοχικό-Υλικό-Β1-και-Β2) |
-|  | [Επίλογος]() |
+| 1 | [Άσκηση προγραμματισμού: Button](#1ο-Παραδοτέο---Button) |
+| 2 | [Άσκηση γραμμής εντολών: Download-mp3](#2ο-Παραδοτέο---Download-mp3) |
+| 3 | [Άσκηση προγραμματισμού: Menu-pie](#3ο-Παραδοτέο---Menu-pie) |
+| 4 | [Άσκηση γραμμής εντολών: Configure-a-custom-window-manager](#4ο-Παραδοτέο---Configure-a-custom-window-manager) |
+| 5 | [Συμμετοχικό Υλικό Α1 και Α2](#5ο-Παραδοτέο---Συμμετοχικό-Υλικό-Α1-και-Α2) |
+| 6 | [Άσκηση γραμμής εντολών: Try-different-terminals-and-shells](#6ο-Παραδοτέο---Try-different-terminals-and-shells) |
+| 7 | [Άσκηση γραμμής εντολών: Use-the-terminal-as-an-IDE](#7ο-Παραδοτέο---Use-the-terminal-as-an-IDE) |
+| 8 | [Συμμετοχικό Υλικό Β1 και Β2 ](#8ο-Παραδοτέο---Συμμετοχικό-Υλικό-Β1-και-Β2) |
+
 
 
 # ΕΙΣΑΓΩΓΗ
@@ -65,6 +65,18 @@ Menu pie
 #### Πηγή [Sowm](https://github.com/dylanaraps/sowm)
 
 # 5ο Παραδοτέο - Συμμετοχικό Υλικό Α1 και Α2
+
+Apple Graphics Tablet
+![Apple Graphics Tablet - Front](https://user-images.githubusercontent.com/43947917/133484517-5b1e0362-0db8-475e-918a-dd09e86a782a.jpg)
+
+Το Apple Graphics Tablet βγήκε το 1979, την ίδια χρονιά με το πρώτο apple mouse, κατασκευάστηκε για το Apple II σύστημα και είχε σαν σκοπό την σχεδίαση μέσω γραφίδας. Παρόμοια κατασκευής με το RAND TABLET το Apple Graphics Tablet ήταν από τις πρώτες συσκευές ηλεκτρονικής σχεδίασης και ,συγκριτικά με το πρώτο υπολογιστή, έχει πολύ όμοια χαρακτηριστικά με γραφίδες που κατασκευάζονται τώρα από γνωστές εταιρίες γραφιστικών όπως η Wacom.
+
+Πηγές: 
+https://en.wikipedia.org/wiki/RAND_Tablet
+http://www.edibleapple.com/2009/11/23/the-first-apple-tablet-from-1979/
+https://www.iclarified.com/6239/the-original-apple-tablet-1979
+http://appletothecore.me/files/apple_graphics_tablet.php
+https://tedium.co/2017/09/21/wacom-tablet-history/
 
 # 6ο Παραδοτέο - Try different terminals and shells
 
