@@ -87,8 +87,8 @@
    - Επίσης, τα thumbnails για αυτά, [1ο](https://github.com/Haki-Malai/images/blob/master/sega-dreamcast-arcade-stick-thumb.jpg) και [2ο](https://github.com/Haki-Malai/images/blob/master/sega-dreamcast-lightgun-fl-thumb.jpg)
    - Πρόσθεσα δυο .md αρχεία για τις προσθήκες μου, το [sega-dreamcast-arcade-stick.md](https://github.com/Haki-Malai/_gallery/blob/master/sega-dreamcast-arcade-stick.md) και το [sega-dreamcast-lightgun-fl.md](https://github.com/Haki-Malai/_gallery/blob/master/sega-dreamcast-lightgun-fl.md)
    - Τροποποίησα το [_slides/programming.md](https://github.com/Haki-Malai/site/commit/db380bfdb86fe3122e6050c5c67c3ef74386c838)
-   - Έκανα deploy την [σελίδα]()
-   - Κατέγραψα την [διαδικασία](https://asciinema.) μέσω asciinema
+   - Έκανα deploy την [σελίδα](loving-haibt-55a2a3.netlify.app)
+   - Κατέγραψα την [διαδικασία](https://asciinema.org/a/436740) μέσω asciinema
   
    
 ## Παραδοτέο 7ο - 3η 'Ασκηση γραμμής εντολών
@@ -130,13 +130,12 @@
 
 ## Παραδοτέο 10ο - Συμμετοχικό Περιεχόμενο
 
-   - Πρόσθεσα δυο .md αρχεία για τις προσθήκες μου, το [temple-os.md](https://github.com/) και το [lazy-script-case-study.md]()
-   - Πρόσθεσα το [_biography/terry-a-davis.md]() και το [_case-study/lazy_script.md]()
-   - Στο [fork](https://github.com/Haki-Malai/_gallery) του _gallery πρόσθεσα το [terry-a-davis.md]
-   - Τροποποίησα το [_slides/programming.md]
-   - Πρόσθεσα μια [φωτογραφία]
-   - Έκανα deploy την [σελίδα]()
-   - Κατέγραψα την [διαδικασία]() μέσω asciinema
+   - Πρόσθεσα δυο .md αρχεία για τις προσθήκες μου, το [_case-study/temple-os.md](https://github.com/Haki-Malai/site/blob/master/_case-study/temple-os.md) και το [_case-study/optimus-popularis.md](https://github.com/Haki-Malai/site/blob/master/_case-study/optimus-popularis.md)
+   - Στο [fork](https://github.com/Haki-Malai/_gallery) του _gallery πρόσθεσα το [temple-os.md](https://github.com/Haki-Malai/_gallery/temple-os.md) και το [optimus-poplaris.md](https://github.com/Haki-Malai/_gallery/optimus-poplaris.md)
+   - Πρόσθεσα δυο φωτογραφίες για το κάθε ένα
+   - Τροποποίησα το _slides/programming.md και το _slides/archetypes.md
+   - Έκανα deploy την [σελίδα](loving-haibt-55a2a3.netlify.app)
+   - Κατέγραψα την [διαδικασία](https://asciinema.org/a/436740) μέσω asciinema
 
 
 # Επιπλέον ασκήσεις προγραμμαστισμού.
