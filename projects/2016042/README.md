@@ -70,3 +70,4 @@
 | Άσκηση 2 | get familiar with basic commands, reading documentation and editing files | https://asciinema.org/a/mbkJuTVjn0xFvsZIvOfHm0Zp8 |
 | Άσκηση 3 | organise the terminal window into multiple areas | https://asciinema.org/a/5HtecB1OPjauJUu7I6uOEnreL |
 | Άσκηση 4 | visualize progress or status -	improve your favorite python cli app with a progress bar | https://asciinema.org/a/5HtecB1OPjauJUu7I6uOEnreL |
+
