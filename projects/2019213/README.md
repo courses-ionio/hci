@@ -14,7 +14,7 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | [Εισαγωγή](https://github.com/p19tzam/hci/new/2019213/projects#pushpin-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
+| 1 | [Εισαγωγή](https://github.com/p19tzam/hci/tree/2019213/projects/2019213#pushpin-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
 | 2 | Άσκηση γραμμής εντολών |
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | συμμετοχικό περιεχόμενο 1A |
