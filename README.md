@@ -2,7 +2,7 @@
 
 ### Ονοματεπώνυμο: ΠΑΝΑΓΙΩΤΙΔΗΣ ΜΙΧΑΗΛ ΑΧΙΛΛΕΑΣ
 ### Αριθμός Μητρώου: Π2014010
-### GitHub Profile: [KuhakuNeko](https://github.com/CptMike)
+### GitHub Profile: [CptMike](https://github.com/CptMike)
 
 
 
