@@ -14,7 +14,7 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | [Εισαγωγή](https://github.com/p19tzam/hci/tree/2019213/projects/2019213#pushpin-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
+| 1 | [Εισαγωγή](https://github.com/p19tzam/hci/blob/2019213/projects/2019213#pushpin-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
 | 2 | [Άσκηση γραμμής εντολών (download mp3)](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2) |
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | συμμετοχικό περιεχόμενο 1A |
