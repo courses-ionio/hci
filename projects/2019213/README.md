@@ -9,7 +9,7 @@
 
 :newspaper:: [GitHub Profile](https://github.com/p19tzam)<br>
 :email:: [Student Mail](mailto:p19tzam)<br>
-[Λειτουργικό σύστημα (neofetch & journalctl -b)](#)
+:pencil:: [Λειτουργικό σύστημα (neofetch & journalctl -b)](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CF%8C-%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1-neofetch--journalctl--b)
 
 <h3> Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων</h3>
 
