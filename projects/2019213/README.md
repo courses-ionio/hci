@@ -36,6 +36,20 @@
 </p> 
 
 <br>
+
+## Λειτουργικό σύστημα (neofetch & journalctl -b)
+### Neofetch
+ASCIINEMA με την εντολή <b>neofetch</b> για την βαθμολόγηση του λειτουργικού μου συστήματος.
+```bash
+# Εγκατάσταση neofetch & asciinema στο archlinux
+pacman -S neofetch
+pacman -S asciinema
+```
+
+[![asciicast](https://asciinema.org/a/443885.svg)](https://asciinema.org/a/443885)
+
+
+<br>
 <br>
 <br>
 
