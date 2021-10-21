@@ -9,6 +9,7 @@
 
 :newspaper:: [GitHub Profile](https://github.com/p19tzam)<br>
 :email:: [Student Mail](mailto:p19tzam)<br>
+[Λειτουργικό σύστημα (neofetch & journalctl -b)](#)
 
 <h3> Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων</h3>
 
@@ -48,7 +49,12 @@ pacman -S asciinema
 
 [![asciicast](https://asciinema.org/a/443885.svg)](https://asciinema.org/a/443885)
 
+<br>
 
+### journalctl -b
+ASCIINEMA με την εντολή <b>journalctl -b</b> για την βαθμολόγηση του λειτουργικού μου συστήματος. <b>1423 Lines</b>
+<br>
+[![asciicast](https://asciinema.org/a/443887.svg)](https://asciinema.org/a/443887)
 <br>
 <br>
 <br>
