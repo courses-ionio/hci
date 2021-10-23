@@ -34,12 +34,19 @@
 asciinema link : https://asciinema.org/a/444197 
 
 Διαδικασία : 
+
 Ληψη πακετου youtube-dl  **sudo pacman -S youtube-dl**
+
 Ληψη πακετου mpg123 **sudo pacman -S mpg123**
+
 Εναρξη εγγραφης terminal **asciinema rec -i 0.2**
+
 Aναζητηση και ληψη κομματιου **youtube-dl -x --audio-format mp3 "ytsearch:donda"**
+
 Μετακινηση στο location του αρχειου **cd Desktop**
+
 Αναπαραγωγη κομματιου **mpg123 donda.mp3**
+
 Τελος εγγραφης terminal **exit**
 
 Πηγή : https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
