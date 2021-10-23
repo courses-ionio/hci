@@ -61,7 +61,39 @@ ASCIINEMA με την εντολή <b>journalctl -b</b> για την βαθμο
 
 <h2>   :book:: Παραδοτέο 2</h2>
 
-### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 1η (download mp3 via terminal).
+### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 1η(δίσκος, μνήμη, επεξεργαστής, δίκτυο, γραφικά)
+
+
+## CPU
+[![asciicast](https://asciinema.org/a/443889.svg)](https://asciinema.org/a/443889)
+
+
+
+## Hard Drives
+[![asciicast](https://asciinema.org/a/443890.svg)](https://asciinema.org/a/443890)
+
+
+## RAM
+[![asciicast](https://asciinema.org/a/443891.svg)](https://asciinema.org/a/443891)
+
+
+## GPU
+[![asciicast](https://asciinema.org/a/443892.svg)](https://asciinema.org/a/443892)
+
+
+## Network Interface
+[![asciicast](https://asciinema.org/a/443893.svg)](https://asciinema.org/a/443893)
+
+
+
+
+
+
+
+
+
+
+
 Σε αυτό το παραδοτέο επέλεξα την συγκεκριμένη άσκηση γιατί μπορώ να χρησιμοποιήσω <b>bash scripting</b> για επιπλέων βαθμό όπως αναφέρετε στις <b>οδηγίες</b>.
 <br>
 Σε αυτό το <b>assignment</b> έχω να κάνω: 1.Αναζήτηση, 2.εγκατάσταση και αναπαραγωγή ενός τραγουδιού μέσα από το τερματικό.
