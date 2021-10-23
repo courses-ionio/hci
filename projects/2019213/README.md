@@ -63,29 +63,41 @@ ASCIINEMA με την εντολή <b>journalctl -b</b> για την βαθμο
 
 ### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 1η(δίσκος, μνήμη, επεξεργαστής, δίκτυο, γραφικά)
 
-
+```bash
+# Command
+lscpu
+```
 ## CPU
 [![asciicast](https://asciinema.org/a/443889.svg)](https://asciinema.org/a/443889)
 
 
-
+```bash
+# Command
+lsblk
+```
 ## Hard Drives
 [![asciicast](https://asciinema.org/a/443890.svg)](https://asciinema.org/a/443890)
 
-
+```bash
+# Command
+free -m
+```
 ## RAM
 [![asciicast](https://asciinema.org/a/443891.svg)](https://asciinema.org/a/443891)
 
-
+```bash
+# Command
+lspci | grep VGA
+```
 ## GPU
 [![asciicast](https://asciinema.org/a/443892.svg)](https://asciinema.org/a/443892)
 
-
+```bash
+# Command
+ip addr
+```
 ## Network Interface
 [![asciicast](https://asciinema.org/a/443893.svg)](https://asciinema.org/a/443893)
-
-
-
 
 
 
