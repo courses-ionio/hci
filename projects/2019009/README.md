@@ -30,3 +30,4 @@
 
 ## Παραδοτέο 2
 <a href="https://asciinema.org/a/3k80AAB3sBejVx0AIzvvG8sog" target="_blank"><img src="https://asciinema.org/a/3k80AAB3sBejVx0AIzvvG8sog.svg" /></a>
+
