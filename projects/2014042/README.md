@@ -44,4 +44,4 @@
 
 Το αποτέλεσμα ήταν να έρθω σε επαφή με μια πιο οικεία σε εμένα επιφάνεια εργασίας και διεπαφής με τον υπολογιστή, η οποία ωστόσο εκ πρώτης εντύπωσης είναι πιο ευέλικτη για διαμόρφωση πάνω στις προσωπικές μου προτιμήσεις. Μπορεί εμφανισιακά να μοιάζει πολύ για παράδειγμα η επιφάνεια εργασίας του KDE Plasma 5 με αυτήν των Windows της Microsoft, παρόλαυτα η διάδραση διαφέρει σε μεγάλο βαθμό.
 
-<a href="https://asciinema.org/a/ef3RDvFLsxQapanqzEAC4sUMF" target="_blank"><img src="https://asciinema.org/a/ef3RDvFLsxQapanqzEAC4sUMF.svg" /></a>
+[![asciicast](https://asciinema.org/a/444582.svg)](https://asciinema.org/a/444582)
