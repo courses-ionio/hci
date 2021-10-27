@@ -29,5 +29,4 @@
 <a href="https://asciinema.org/a/2FexrChp6p3y9hj5sLuMwG1SY" target="_blank"><img src="https://asciinema.org/a/2FexrChp6p3y9hj5sLuMwG1SY.svg" /></a>
 
 ## Παραδοτέο 2
-<a href="https://asciinema.org/a/3k80AAB3sBejVx0AIzvvG8sog" target="_blank"><img src="https://asciinema.org/a/3k80AAB3sBejVx0AIzvvG8sog.svg" /></a>
-
+<a href="https://asciinema.org/a/445017" target="_blank"><img src="https://asciinema.org/a/445017.svg" /></a>
