@@ -40,10 +40,15 @@ asciinema: https://asciinema.org/a/444859
 **Βήματα:**
 
 Κανω εγκατάσταση των απαραίτητων πακέτων  ``sudo pacman -S youtube-dl``, ``sudo pacman -S mpg123``.
+
 Με το ``asciinema rec -i 0.2`` ξεκιναω το record του terminal.
+
 Με την εντολή ``youtube-dl -x --audio-format mp3 "ytsearch:shallow"`` κάνω αναζήτηση και λήψη του κομματιού σε mp3.
+
 Με την εντολή ``cd Downloads`` κατευθυνθήκαμε στο location του αρχείου mp3.
+
 Με την εντολή ``mpg123 shallow.mp3`` έκανα αναπαραγωγή του αρχείου mp3.
+
 Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
 
 **Πηγή:** https://www.youtube.com/watch?v=VMy-lb7Y-7k
