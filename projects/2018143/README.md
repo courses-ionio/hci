@@ -33,6 +33,9 @@
 
 asciinema link : https://asciinema.org/a/444197 
 
+## Αποτελεσματα : 
+![download-mp3](https://github.com/p18kout/hci-images/blob/main/2018143_download-mp3.gif)
+
 Διαδικασία : 
 
 Ληψη πακετου youtube-dl  **sudo pacman -S youtube-dl**
@@ -50,3 +53,5 @@ Aναζητηση και ληψη κομματιου **youtube-dl -x --audio-for
 Τελος εγγραφης terminal **exit**
 
 Πηγή : https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
+
+
