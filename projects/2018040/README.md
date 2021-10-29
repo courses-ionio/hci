@@ -51,6 +51,11 @@ asciinema: https://asciinema.org/a/444859
 
 Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
 
+**Αποτελέσματα:**
+
+![download-mp3](https://github.com/p18kana/HCI-files/blob/main/2018040_download-mp3.gif)
+
 **Πηγή:** https://www.youtube.com/watch?v=VMy-lb7Y-7k
+
 
 
