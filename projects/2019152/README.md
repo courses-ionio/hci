@@ -41,7 +41,7 @@
 <a href="https://asciinema.org/a/mwgfvMcGB2AZPnU7y2ToY5q6N" target="_blank"><img src="https://asciinema.org/a/mwgfvMcGB2AZPnU7y2ToY5q6N.svg" /></a>
 
 ### 2) Προβολή dot files
-Πρόκειται για ένα αρκετά απλό operation, με την εντολή 'ls -a' εμφανίζονται όλα τα dot files του home directory.
+Πρόκειται για ένα αρκετά απλό operation, με την εντολή `ls -a` εμφανίζονται όλα τα dot files του home directory.
 
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/ls.png" width="500" />
@@ -53,46 +53,46 @@
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/bashrc.png" width="500" />
 </p>
-Bash Config: 'cat /etc/bash.bashrc'
+Bash Config: `cat /etc/bash.bashrc`
 
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/makepkgconf.png" width="500" />
 </p>
-MakePKG Config: 'cat /etc/makepkg.conf'
+MakePKG Config: `cat /etc/makepkg.conf`
 
 #### Terminal Customization
 Κάνοντας uncomment κάποιες γραμμές και αλλάζοντας τις τιμές τους στο config file του Alacritty, η διαφορά είναι αισθητή. Συγκεκριμένα, έκανα το window που δημιουργείται να εμφανίζεται στο κέντρο της οθόνης, άλλαξα το default font, χαμήλωσα το opacity για να κάνω το παράθυρο διάφανο, και άλλαξα τα default keybinds για τις εντολές Copy / Paste έτσι ώστε να λειτουργούν με Ctrl+C/V αντί για Ctrl+Shift+C/V (Βοήθησε αρκετά στο scriptάκι που αναφέρω στο Bonus!)
 
 Η διαφορά φαίνεται όταν το συγκρίνουμε με την όψη του Alacritty, όταν χρησιμοποιεί το default config:
 <p float="left">
-  <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/stock.png" width="200" />
-  <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/custom.png" width="200" />
+  <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/stock.png" width="500" />
+  <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/custom.png" width="500" />
 </p>
-Terminal Config : 'cat ~/.config/alacritty/alacritty.yml'
+Terminal Config : `cat ~/.config/alacritty/alacritty.yml`
 
 ### 4) List Software / Hardware Specs
 
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/lshw.png" width="500" />
 </p>
-List Hardware: 'lshw -short'
+List Hardware: `lshw -short`
 
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/neofetch.png" width="500" />
 </p>
-List Software: 'neofetch'
+List Software: `neofetch`
 
 #### Εντολές / Εργαλεία / Πηγές
 sudo | ls | cat | lshw
 
-[alacritty](https://github.com/alacritty/alacritty)
-[nano](https://www.nano-editor.org/)
-[neofetch](https://github.com/dylanaraps/neofetch)
-[kate](https://kate-editor.org/)
+[alacritty](https://github.com/alacritty/alacritty) |
+[nano](https://www.nano-editor.org/) |
+[neofetch](https://github.com/dylanaraps/neofetch) |
+[kate](https://kate-editor.org/) |
 
-[How to customize the Bash prompt in Linux](https://phoenixnap.com/kb/change-bash-prompt-linux)
-[Changing Bash Prompt](https://bash.cyberciti.biz/guide/Changing_bash_prompt)
-[A complete guide to Linux Config Files](https://www.cbtnuggets.com/blog/technology/system-admin/a-complete-guide-to-linux-config-files)
+[How to customize the Bash prompt in Linux](https://phoenixnap.com/kb/change-bash-prompt-linux) |
+[Changing Bash Prompt](https://bash.cyberciti.biz/guide/Changing_bash_prompt) |
+[A complete guide to Linux Config Files](https://www.cbtnuggets.com/blog/technology/system-admin/a-complete-guide-to-linux-config-files) |
 
 # Κλείσιμο
 
@@ -100,12 +100,12 @@ sudo | ls | cat | lshw
 
 [asciinema](https://asciinema.org/)
 
-[Arch Linux Wiki](https://wiki.archlinux.org/)
-[Arch Linux Subreddit](https://www.reddit.com/r/archlinux/)
-[Getting Started with Github](https://docs.github.com/en/get-started)
-[Basic Writing/Formatting on Github](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[The Begginer's Guide to Shell Scripting](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/)
-[Bash Scripting Tutorial for Begginers](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+[Arch Linux Wiki](https://wiki.archlinux.org/) |
+[Arch Linux Subreddit](https://www.reddit.com/r/archlinux/) |
+[Getting Started with Github](https://docs.github.com/en/get-started) |
+[Basic Writing/Formatting on Github](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) |
+[The Begginer's Guide to Shell Scripting](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/) |
+[Bash Scripting Tutorial for Begginers](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) |
 
 # Bonus
 
