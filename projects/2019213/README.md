@@ -58,73 +58,7 @@ ASCIINEMA με την εντολή <b>journalctl -b</b> για την βαθμο
 <br>
 <br>
 
-## Εγκατάσταση ArchLinux με asciinema (VMware)
-Για να δείξω όντως οτι έκανα την εγκατάσταση <b>manually</b> στον _(External Hard Drive)_ μου θα κάνω τα ίδια βήματα απλός σε ενα VMware και θα τα δείξω σε asciinema που το έκανα install στο pre-installation ISO του Arch. <br>
-Για αυτό αν δείτε το <b>ΟΤΙΔΉΠΟΤΕ</b> που να έχει σχέση με VMware στα setting δεν έχει σχέση με το [πραγματικο μου σύστημα](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CF%8C-%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1-neofetch--journalctl--b).
-
-- ### Βήμα 1ο
-> Ρύθμιση της διάταξη πληκτρολογίου του Terminal
-[![asciicast](https://asciinema.org/a/445679.svg)](https://asciinema.org/a/445679)
-- ### Βήμα 2ο
-> Σύνδεση στο διαδίκτυο <br>
-στην δική μου περίπτωση είμαι συνδεδεμένος μέσω ethernet οπότε δεν χρειάζεται να χρησιμοποιήσω _(wireless network using iwctl.)_ για το WiFi.<br>
-[![asciicast](https://asciinema.org/a/445683.svg)](https://asciinema.org/a/445683)
-- ### Βήμα 3ο
-> Ενημέρωση ρολογιού συστήματος <br>
-[![asciicast](https://asciinema.org/a/445687.svg)](https://asciinema.org/a/445687)
-- ### Βήμα 4ο
-> Partition the disks & Mount the file systems
-[![asciicast](https://asciinema.org/a/445691.svg)](https://asciinema.org/a/445691)
-- ### Βήμα 5ο 
-Απο το αυτό το βήμα και κάτω δεν μπορώ να δείξω σε asciinema γιατί κάνω download packages 200MB++
-> Install Arch linux base packages: <br>
-`pacstrap -i /mnt base` <br>
-> Βήμα 6 μετα την εγκατάσταση
-- ### Βήμα 6ο
-> Generate the /etc/fstab file: <br>
-`genfstab -U -p /mnt >> /mnt/etc/fstab`
-- ### Βήμα 7ο
-> Chroot into installed system: <br>
-`arch-chroot /mnt`
-- ### Βήμα 8ο
-> Update the Hardware clock: <br>
-`hwclock --systohc`
-- ### Βήμα 9ο
-> Install boot manager and other needed packages:<br>
-`pacman -S grub efibootmgr dosfstools openssh os-prober mtools linux-headers linux-lts linux-lts-headers`
-- ### Βήμα 10ο
->Set locale:
-`sed -i 's/#en_US.UTF-8/en_US.UTF-8/g' /etc/locale.gen (uncomment en_US.UTF-8)`
-`locale-gen`
-- ### Βήμα 11ο
-> Create EFI boot directory:<br>
-`mkdir /boot/EFI`
-`mount /dev/sda1 /boot/EFI`
-- ### Βήμα 12ο
-> Install GRUB on EFI mode:<br>
-`grub-install --target=x86_64-efi --bootloader-id=grub_uefi --recheck`
-- ### Βήμα 13ο
-> Setup locale for GRUB:<br>
-`cp /usr/share/locale/en\@quot/LC_MESSAGES/grub.mo /boot/grub/locale/en.mo`
-- ### Βήμα 13ο
-> Write GRUB config:<br>
-`grub-mkconfig -o /boot/grub/grub.cfg`
-- ### Βήμα 13ο
-> Create swap file:<br>
-`fallocate -l 2G /swapfile`<br>
-`chmod 600 /swapfile`<br>
-`mkswap /swapfile`<br>
-`echo '/swapfile none swap sw 0 0' | tee -a /etc/fstab`<br>
-- ### Βήμα 13ο
-> Exit, unount and reboot:<br>
-`exit` <br>
-`umount -a` <br>
-`reboot`<br>
-- ### Βήμα 14ο
->User add <br>
- `sudo useradd p2019213`
- and password
-<hr>
+## Εγκατάσταση ArchLinux
 
 
 
