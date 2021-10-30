@@ -58,7 +58,7 @@ ASCIINEMA με την εντολή <b>journalctl -b</b> για την βαθμο
 <br>
 <br>
 
-## Εγκατάσταση ArchLinux
+## Εγκατάσταση ArchLinux manually
 
 
 
