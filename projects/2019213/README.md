@@ -59,6 +59,155 @@ ASCIINEMA με την εντολή <b>journalctl -b</b> για την βαθμο
 <br>
 
 ## Εγκατάσταση ArchLinux manually
+Για την εγκατάσταση του ArchLinux ακολούθησα το [Installatior-Guide](https://wiki.archlinux.org/title/Installation_guide) στο [wiki.archlinux.org](https://wiki.archlinux.org/) βήμα-βήμα. <br><br>
+Η εγκατάσταση του Arch Linux έγινε σε εναν εξωτερικο σκληρό δίσκο 160GB αρχικά χωρίς GUI(Graphical user interface).
+Μετά την εγκατάσταση και το successful reboot έκανα εγκατάσταση του GNOME.
+### Pre-installation
+<b>1. Ρυθμιση διάταξης του πληκτρολογίου</b>
+
+```bash
+localectl list-keymaps | grep -i us # Λίστα με διαθέσιμα layouts
+loadkeys us # Φόρτωμα το US layout
+```
+<b>2. Επαλήθευση του boot load</b> 
+
+```bash
+ls /sys/firmware/efi/efivars
+```
+Εάν η εντολή εμφανίζει τον κατάλογο χωρίς σφάλμα, τότε το σύστημα εκκινείται σε λειτουργία UEFI. Εάν ο κατάλογος δεν υπάρχει, το σύστημα μπορεί να εκκινηθεί σε λειτουργία BIOS (ή CSM). <br><br>
+<b>3. Σύνδεση στο διαδίκτυο</b> <br>
+Αρχικά πρέπει να βεβαιωθούμε ότι η διεπαφή δικτύου σας είναι καταχωρημένη και ενεργοποιημένη, για παράδειγμα με το <b>ip-link</b>
+```bash
+ip link # Εάν είμαστε συνδεμένοι με erthernet τότε θα μας εμφάνισει μια IP(192.168.1.56 π.χ)
+``` 
+<br>
+
+Αν υπάρχει WiFi σύνδεση τότε απευθυνόμαστε στο [iwctl](https://wiki.archlinux.org/title/Iwd#iwctl) σύμφωνα με τις [οδηγίες](https://wiki.archlinux.org/title/Installation_guide#Prepare_an_installation_medium).
+<br>
+Για την επαλήθευση του δικτύου μπορούμε να χρησιμοποιήσουμε την εντολή ping.
+```bash
+ping archlinux.org
+```
+<b>4. Ενημέρωση ρολογιου συστήματος</b>
+```bash
+timedatectl set-ntp true
+```
+<b>5. Διαχώριση των δίσκων</b> <br>
+Οι δίσκοι εκχωρούνται σε assigned ή block όπως /dev/sda, /dev/nvme0n1 ή /dev/mmcblk0. Για να αναγνωρίσετε αυτούς τους δίσκους, χρησιμοποιώ την εντολή fdisk. <br><br>
+<b>(ΠΡΟΣΟΧΉ ΑΥΤΟ ΕΊΝΑΙ ΈΝΑ ΠΑΡΆΔΕΙΓΜΑ ΓΙΑ ΝΑ ΣΑΣ ΔΕΊΞΩ ΤΟ OUTPUT ΔΕΝ ΕΧΕΙ ΚΑΜΊΑ ΣΧΈΣΗ ΜΕ ΤΟ REAL ΣΎΣΤΗΜΑ ΜΟΥ. )</b>
+```bash
+fdisk -l # Εντολή για αναγνώριση των δίσκων
+
+# Παράδηγμα της εντολής fdisk -l
+# Disk /dev/sda: 20 GiB, 21474836480 bytes, 41943040 sectors                                          
+# Disk model: VMware Virtual S                                                                        
+# Units: sectors of 1 * 512 = 512 bytes                                                               
+# Sector size (logical/physical): 512 bytes / 512 bytes                                               
+# I/O size (minimum/optimal): 512 bytes / 512 bytes                                                   
+# Disklabel type: gpt                                                                                 
+# Disk identifier: 6C3F8D8C-B7D6-EC4F-8BF8-0FADB993B5A8
+```
+Επιλογή δίσκων 
+```bash
+fdisk /dev/sda
+# Παράδηγμα της εντολής fdisk /dev/sda
+# Welcome to fdisk (util-linux 2.37.2).                                                               
+# Changes will remain in memory only, until you decide to write them.                                 
+# Be careful before using the write command.
+```
+Δημιουργία δίσκων
+```bash
+# Boot partition
+fdisk /dev/sda
+Command (m for help): g
+Command (m for help): n    
+Partition number (1-128, default 1): 1
+First sector (2048-41943006, default 2048): <ENTER>
+Last sector, +/-sectors or +/-size{K,M,G,T,P} (2048-41943006, default 41943006): +300M
+Command (m for help): w
+```
+
+```bash
+# Root partition
+fdisk /dev/sda
+Command (m for help): n
+Partition number (2-128, default 2): 2
+First sector (616448-41943006, default 616448): <ENTER>
+Last sector, +/-sectors or +/-size{K,M,G,T,P} (616448-41943006, default 41943006): +10G
+Command (m for help): w
+```
+
+```bash
+# Swap partition
+fdisk /dev/sda
+Command (m for help): n 
+Partition number (3-128, default 3): 3
+First sector (21587968-41943006, default 21587968): <ENTER>
+Last sector, +/-sectors or +/-size{K,M,G,T,P} (21587968-41943006, default 41943006): <ENTER>
+Command (m for help): w
+```
+<b>6. Μορφοποίηση δίσκων</b>
+```bash
+mkfs.fat -F32 /dev/sda1 # Boot partition 
+mkfs.ext4 /dev/sda2 # Root partition
+mkfs.ext4 /dev/sda3 # Swap partition
+```
+<b>7. Mount the file systems</b>
+```bash
+mount /dev/sda2 /mnt
+mkdir /mnt/home
+mount /dev/sda3 /mnt/home
+```
+
+### Installation
+<b>1. Εγκατασταση βασικων πακετων</b>
+```bash
+pacstrap /mnt base linux linux-firmware
+```
+### Configure the system
+<b>1. Fstab</b>
+```bash
+genfstab -U /mnt >> /mnt/etc/fstab
+```
+<b>2. Chroot</b>
+```bash
+arch-chroot /mnt
+```
+<b>3. Network configuration</b>
+```bash
+/etc/hostname
+archlinux
+```
+<b>4. User Add</b>
+```bash
+useradd -m p2019213
+passwd p2019213
+```
+<b>5. Initramfs</b>
+```bash
+mkinitcpio -P
+```
+<b>6. Root password</b>
+```bash
+passwd
+```
+<b>7. Reboot</b><br>
+Βγείτε από το περιβάλλον chroot πληκτρολογώντας exit ή πατώντας Ctrl+d.
+<br>
+Τέλος, επανεκκινήστε το μηχάνημα πληκτρολογώντας reboot: τυχόν διαμερίσματα που είναι ακόμα τοποθετημένα θα αποσυναρμολογηθούν αυτόματα από το systemd. Θυμηθείτε να αφαιρέσετε το μέσο εγκατάστασης και στη συνέχεια να συνδεθείτε στο νέο σύστημα με τον λογαριασμό p2019213.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
