@@ -11,7 +11,7 @@
 | --- | --- |
 | 1 | [Εισαγωγή](#εισαγωγη) |
 | 2 | [Search, Download and Play a YouTube Video](#άσκηση-γραμμής-εντολών---εβδομάδα-2---search-download-and-play-a-youtube-video)
-| 3 | Άσκηση γραμμής εντολών |
+| 3 | [Warm-Up / Fetch Information](#άσκηση-warm-up---fetch-information)
 | 4 | συμμετοχικό περιεχόμενο 1A |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
@@ -59,4 +59,14 @@ Link της άσκησης στο Asciinema: [Παραδοτέο 2 - Search Down
 Με την εντολή "youtube-dl -x [URL]" μπορούμε να κατεβάσουμε το video σε μορφή .m4a (για αυτο το γεγονός ευθύνεται η εντολή -x) και στο URL εισάγουμε το YouTube link του video 
 που θέλουμε να κατεβάσουμε. Σε συνδυασμό με το ytfzf, το οποίο μας εμφανίζει το YouTube link του video που αναπαράγουμε, μπορούμε να κάνουμε copy-paste το URL απευθείας στην 
 εντολή "youtube-dl -x [URL]".
+
+
+# Άσκηση Warm Up - Fetch Information
+
+Link της άσκησης στο Asciinema: [Παραδοτέο 3 / Warm - Up / Fetch Information](https://asciinema.org/a/445914)
+
+## ΠΕΡΙΓΡΑΦΗ
+
+Γράφοντας στο terminal curl getnews.tech/business, εμφανίζονται σαν λίστα όλα τα αποτελέσματα τα οποία συσχετίζονται με ειδήσεις σχετικά με business. Η συγκεκριμένη εντολή
+μπορεί να χρησιμοποιηθεί για οποιαδήποτε κατηγορία εμφάνισης ειδήσεων επιθυμούμε.
 
