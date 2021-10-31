@@ -25,8 +25,9 @@
 και της επιδρασης της στις νεες τεχνολογιες.Οι στοχοι μου για το μαθημα ειναι η προσωπικη εξεληξη στο πεδιο της πληροφορικης, η εξοριξη γνωσεων διαδρασης ανθρωπου
 υπολογιστη και η χρηση αυτων των γνωσεων σε μια μελλοντικη καριερα 
 
+
+## Παραδοτέο 2
+
 ### NEOFETCH JORNALCTL -B 
 <a href="https://asciinema.org/a/2FexrChp6p3y9hj5sLuMwG1SY" target="_blank"><img src="https://asciinema.org/a/2FexrChp6p3y9hj5sLuMwG1SY.svg" /></a>
 
-## Παραδοτέο 2
-<a href="https://asciinema.org/a/445017" target="_blank"><img src="https://asciinema.org/a/445017.svg" /></a>
