@@ -24,3 +24,16 @@
 
 <h2> <a id="warm1t" href="#warm1" >set-up the main dependencies and demonstrate your base system </a></h2> 
 <a href="https://asciinema.org/a/zFWmhVULqYrCzvO4q7zL6qpIp" target="_blank"><img src="https://asciinema.org/a/zFWmhVULqYrCzvO4q7zL6qpIp.svg" /></a>
+
+<h2>Aναφορές με τις ενέργειες που έγιναν για την εγκατάσταση και προσαρμογή του νέου λειτουργικού συστήματος</h2>
+
+<h3>Εγκατάσταση</h3>
+
+<p>Το σύστημα είναι dual boot . Μέσω του Windows disk manager έκανα partition τον δίσκο μου . Kατέβασα το iso του Arch  και με την βοήθεια του  <a href=”https://rufus.ie/en/”>Rufus </a> το έβαλα σε ένα usb stick . Ακολουθώντας το <a href=”https://wiki.archlinux.org/title/installation_guide”>wiki </a> εγκατέστησα το Arch .</p>
+
+
+<a href="https://www.dropbox.com/s/t6cdex5u4cu5dod/Neofetch_install.png?dl=0">Neofetch</a>
+
+<a href="https://www.dropbox.com/s/tef6ea5pjz6c9jb/disk.png?dl=0">Δισκος</a>
+
+<a href="https://www.dropbox.com/s/dnno1tkrpgee9h1/network.png?dl=0">Δίκτυο</a>
