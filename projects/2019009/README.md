@@ -33,7 +33,7 @@
 
 ## Παραδοτέο 3
 
-#### --------------pre installation------------------
+#### --------------pre installation Arch linux ------------------
 1.Εκανα ληψη του image(iso) των arch linux 
 2.Μετα την ληψη του iso περασα το iso σε ενα usb stick και εκανα format το usb stick για να κανω boot τα arch linux
 4.Μετα εκανα διαμοιρασμο του χωρου του εσωτερικου δισκου μου για να κανω dual boot το arch linux διατηροντας τα windows
