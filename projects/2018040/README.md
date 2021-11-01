@@ -55,9 +55,13 @@ asciinema: https://asciinema.org/a/446281
 
 **Αποτελέσματα:**
 
-![neofetch]()
+![neofetch](https://github.com/p18kana/HCI-files/blob/main/neofetch_2018040.png)
 
 **Πηγή:** 
+
+https://github.com/dylanaraps/neofetch
+
+https://wiki.archlinux.org/title/Dotfiles
 
 
 ##### [3]
