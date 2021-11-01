@@ -32,7 +32,7 @@
 
 asciinema link : https://asciinema.org/a/446263 
 
-## Aποτελεσματα :
+## Aποτελεσματα : https://github.com/p18kout/hci-images/blob/main/neofetch_2018143.png
 
 Διαδικασια :
 
