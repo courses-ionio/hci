@@ -12,7 +12,7 @@
 | 1 | [Εισαγωγή](#εισαγωγη) |
 | 2 | [Άσκηση γραμμής εντολών](#2ο-παραδοτέο---neofetch) |
 | 3 | Άσκηση γραμμής εντολών |
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | [συμμετοχικό περιεχόμενο 1A](#4ο-παραδοτέο---συμμετοχικό-περιεχόμενο-1α) |
 | 5 |Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
@@ -34,3 +34,15 @@
 #### Asciinema link: https://asciinema.org/a/444564
 <a href="https://asciinema.org/a/444564" target="_blank"><img src="https://asciinema.org/a/444564.svg" /></a>
 <script id="asciicast-444564" src="https://asciinema.org/a/444564.js" async></script>
+
+# 4ο Παραδοτέο - Συμμετοχικό περιεχόμενο 1Α
+
+Για το συμμετοχικό περιεχόμενο του τέταρτου παραδοτέου επέλεξα να ασχοληθώ με τη κονσόλα βιντεοπαιχνιδιών Atari 2600. Το Atari 2600 μου τράβηκε το ενδιαφέρον διότι την εποχή που κυκλοφόρησε έκανε τεράστια επιτυχία, σε τέτοιο επίπεδο μάλιστα που το όνομα Atari συνδυάστηκε με τις κονσόλες βιντεοπαιχνιδιών γενικότερα. 
+
+
+| Περιγραφή | Repository Link |
+| --- | --- |
+| Atari-2600 | [atari-2600.md](https://github.com/p19ntar/_gallery/blob/master/atari-2600.md) |
+| Images Atari-2600| [Full Quality](https://github.com/p19ntar/images/blob/master/atari-2600.jpg) + [Thumbnail](https://github.com/p19ntar/images/blob/master/atari-2600-thumb.jpg) |  |
+| Slides | [Συσκευες Διαδρασης στα Βιντεοπαιχνιδια (Slides)](https://github.com/p19ntar/site/blob/master/_slides/videogamesconsole.md) |
+| Timeline | [Συσκευες Διαδρασης στα Βιντεοπαιχνιδια (Timeline)](https://github.com/p19ntar/site/blob/master/_timeline/videogamesconsole.md) |
