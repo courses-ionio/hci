@@ -5,11 +5,11 @@
 ### GitHub: [p19pana](https://github.com/p19pana)
 
 ### Πίνακας Παραδοτέων
-| Εβδομάδα* | Παραδοτέο |
+| Εβδομάδα | Παραδοτέο |
 | --- | --- |
 | 1 | [Εισαγωγή](#Εισαγωγή) |
 | 2 | [CLI: Linux Basics](#2ο-Παραδοτέο---Command-Line-Interface---Linux-Basics) |
-| 3 | Άσκηση γραμμής εντολών $ |
+| 3 | [CLI: Weather Report](#3ο-Παραδοτέο---Command-Line-Interface---Weather-Report) |
 | 4 | συμμετοχικό περιεχόμενο 1A $ |
 | 5 | Άσκηση γραμμής εντολών $ |
 | 6 | συμμετοχικό περιεχόμενο 2A $ |
@@ -19,7 +19,6 @@
 | 10 | συμμετοχικό περιεχόμενο 2B $ |
 | 11 | Άσκηση γραμμής εντολών $ |
 | 12 | [Κλείσιμο](#Κλείσιμο) |
-| 13 | [Bonus](Bonus)|
 
 # Εισαγωγή
 
@@ -38,31 +37,32 @@
 ### 1) Αλλαγή prompt name στο terminal
 Αλλάζοντας μια global μεταβλητή του συστήματος, μπορούμε εύκολα να αλλάξουμε το prompt στο terminal που χρησιμοποιούμε. Έδωσα το Student ID μου ως User, HCI ως Host, να εμφανίζεται το Working Directory, καθώς και το σύμβολο που διαφοροποιεί τον κανονικό χρήστη από τον Superuser.
 
-<a href="https://asciinema.org/a/mwgfvMcGB2AZPnU7y2ToY5q6N" target="_blank"><img src="https://asciinema.org/a/mwgfvMcGB2AZPnU7y2ToY5q6N.svg" /></a>
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/prompt.gif" width="500" />
+</p>
 
 ### 2) Προβολή dot files
 Πρόκειται για ένα αρκετά απλό operation, με την εντολή `ls -a` εμφανίζονται όλα τα dot files του home directory.
 
 <p align="center">
-    <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/ls.png" width="500" />
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/ls.gif" width="500" />
 </p>
 
 ### 3) Config Files
 Για αρχή, εμφάνισα κάποια "standard" configs από διάφορα προγράμματα, απλά παρουσιάζοντάς τα. Στην συνέχεια, παραμετροποίησα τα config files από προγράμματα που χρησιμοποιούσα περισσότερο, όπως για παράδειγμα του terminal emulator μου.
 
 <p align="center">
-    <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/bashrc.png" width="500" />
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/bash.gif" width="500" />
 </p>
 Bash Config: `cat /etc/bash.bashrc`
 
 <p align="center">
-    <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/makepkgconf.png" width="500" />
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/makepkg.gif" width="500" />
 </p>
 MakePKG Config: `cat /etc/makepkg.conf`
 
 #### Terminal Customization
-Κάνοντας uncomment κάποιες γραμμές και αλλάζοντας τις τιμές τους στο config file του Alacritty, η διαφορά είναι αισθητή. Συγκεκριμένα, έκανα το window που δημιουργείται να εμφανίζεται στο κέντρο της οθόνης, άλλαξα το default font, χαμήλωσα το opacity για να κάνω το παράθυρο διάφανο, και άλλαξα τα default keybinds για τις εντολές Copy / Paste έτσι ώστε να λειτουργούν με Ctrl+C/V αντί για Ctrl+Shift+C/V (Βοήθησε αρκετά στο scriptάκι που αναφέρω στο Bonus!)
-
+Κάνοντας uncomment κάποιες γραμμές και αλλάζοντας τις τιμές τους στο config file του Alacritty, η διαφορά είναι αισθητή. Συγκεκριμένα, έκανα το window που δημιουργείται να εμφανίζεται στο κέντρο της οθόνης, άλλαξα το default font, χαμήλωσα το opacity για να κάνω το παράθυρο διάφανο, και άλλαξα τα default keybinds για τις εντολές Copy / Paste έτσι ώστε να λειτουργούν με Ctrl+C/V αντί για Ctrl+Shift+C/V.
 Η διαφορά φαίνεται όταν το συγκρίνουμε με την όψη του Alacritty, όταν χρησιμοποιεί το default config:
 <p float="left">
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/stock.png" width="500" />
@@ -73,14 +73,15 @@ Terminal Config : `cat ~/.config/alacritty/alacritty.yml`
 ### 4) List Software / Hardware Specs
 
 <p align="center">
-    <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/lshw.png" width="500" />
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/lshw.gif" width="500" />
 </p>
 List Hardware: `lshw -short`
 
 <p align="center">
-    <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/neofetch.png" width="500" />
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/neofetch.gif" width="500" />
 </p>
 List Software: `neofetch`
+
 
 #### Εντολές / Εργαλεία / Πηγές
 sudo | ls | cat | lshw
@@ -94,6 +95,44 @@ sudo | ls | cat | lshw
 [Changing Bash Prompt](https://bash.cyberciti.biz/guide/Changing_bash_prompt) |
 [A complete guide to Linux Config Files](https://www.cbtnuggets.com/blog/technology/system-admin/a-complete-guide-to-linux-config-files) |
 
+
+# 3ο Παραδοτέο - Command Line Interface - Weather Report
+
+Σε αυτή την άσκηση, παρουσίασα το εργαλείο wttr.in, το οποίο επιτρέπει στον χρήστη να προβάλλει ένα καιρικό δελτίο μέσα στο terminal. Όπως βλέπουμε από τα παρακάτω GIFs, είναι ένα απλό εργαλείο. Τρέχοντας την εντολή `curl wttr.in`, μας βγάζει ένα συνοπτικό δελτίο καιρού για την τρέχουσα τοποθεσία μας (την οποία τραβάει μέσω της διεύθυνσης IP μας).
+
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/weatherBasic.gif" width="500" />
+</p>
+
+Βλέπουμε πως λαμβάνουμε μια σχετικά πλήρη ενημέρωση για τα καιρικά φαινόμενα, καθώς και σημαντικές λεπτομέρειες όπως θερμοκρασία, ταχύτητα ανέμου, και ποσοστό υγρασίας. Αλλάζοντας τις παραμέτρους που δίνουμε στην εντολή (Χρησιμοποιώντας `?` αντί για το σύνηθες `-`), μπορούμε να διαλέξουμε το πόσο εκτενής θα είναι η αναφορά που θα μας δοθεί, το αν θέλουμε να εμφανίζεται η τοποθεσία που δώσαμε προς εκτίμηση, και άλλα. Με τις παραμέτρους που έδωσα, έκανα να εμφανιστεί μια εκτίμηση καιρού πάνω στο αεροδρόμιο της Κέρκυρας, μόνο για την σημερινή ημέρα, αφαιρώντας το μεγάλο μήνυμα εμφάνισης τοποθεσίας, καθώς και το μήνυμα που εμφανίζει ο δημιουργός στο τέλος. Στο σημείο που διαφέρει, πιστεύω, από παρόμοια προγράμματα είναι οι δυνατότητες που προσφέρει σχετικά με την εξαγωγή του δελτίου σε μορφή PNG, κάτι το οποίο σίγουρα ανοίγει πολλές πόρτες για ενσωμάτωση σε άλλα προγράμματα ή ακόμη και σε κάποιο γραφικό περιβάλλον με την μορφή widget.
+
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/weatherParams.gif" width="500" />
+</p>
+
+Σίγουρα αποτελεί ένα πολύ χρήσιμο και lightweight πρόγραμμα για να μπορεί ένας χρήστης να λάβει γρήγορα και αποτελεσματικά τις απαραίτητες για αυτόν πληροφορίες σύμφωνα με τα καιρικά φαινόμενα. Η αλήθεια είναι πως ο τρόπος που ήταν δομημένο με μπέρδεψε λίγο στην αρχή, ειδικά όσο αναφορά τις παραμέτρους και την μετατροπή της αναφοράς σε εικόνα PNG. Για αυτό και έγραψα ένα απλό script, το οποίο και θεωρώ πως μπορεί να κάνει πιο εύκολη την παραμετροποίηση του εργαλείου, πάνω στα πιο δημοφιλή σενάρια.
+
+Το συγκεκριμένο script, στην ουσία ζητάει από τον χρήστη (κάποιες) πιθανές προτιμήσεις σχετικά με τις πληροφορίες που θέλει να του εμφανιστούν, και στην συνέχεια τις εισάγει μορφοποιημένες στην εντολή. Αρχικά, ζητάει για την εισαγωγή μιας τοποθεσίας. Αυτό γίνεται είτε με το όνομα μιας πόλης (πχ. "Αθήνα"), με έναν κωδικό αεροδρομίου (πχ. "SKG"), ή και ακόμη και με μια διεύθυνση IP. Επίσης δύνεται η δυνατότητα αναζήτησης μιας τοποθεσίας, χρησιμοποιώντας το σύμφολο "~". Έπειτα, ζητείται η κυρίως μορφή του δελτίου που θα εμφανιστεί, συγκεκριμένα αν αυτό θα είναι συνοπτικό (δίνοντας απλά τον ωριαίο καιρό), αν θα είναι το δελτίο καιρού της τρέχουσας ημέρας ή της τρέχουσας μαζί με της επόμενης μέρας. Τέλος, ζητείται από τον χρήστη να εισάγει εάν θα ήθελε το δελτίο να αποτυπωθεί σε πλήρη μορφή, όπου δίνονται οι καιρικές συνθήκες για τέσσερις ζώνες της ημέρας (Πρωί/Μεσημέρι/Απόγευμα/Βράδυ) ή σε μικρή μορφή (Πρωί/Βράδυ).
+
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/weatherScript.gif" width="500" />
+</p>
+
+Το script είναι διαθέσιμο [εδώ](https://github.com/Tarakhs/HCISupp/blob/master/Scripts/weather.sh)
+
+
+#### Εντολές / Εργαλεία / Πηγές
+
+echo | read | tr
+
+[wttr.in](https://github.com/chubin/wttr.in) |
+[wttr-switcher](https://github.com/midzer/wttr-switcher) |
+[curl](https://curl.se/) |
+[wget](https://www.gnu.org/software/wget/) |
+
+[wttr Help](https://wttr.in/:help) |
+
+
 # Κλείσιμο
 
 #### Εντολές / Εργαλεία / Πηγές
@@ -104,10 +143,9 @@ sudo | ls | cat | lshw
 [Arch Linux Subreddit](https://www.reddit.com/r/archlinux/) |
 [Getting Started with Github](https://docs.github.com/en/get-started) |
 [Basic Writing/Formatting on Github](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) |
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/) |
 [The Begginer's Guide to Shell Scripting](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/) |
 [Bash Scripting Tutorial for Begginers](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) |
-
-# Bonus
 
 
 
