@@ -200,7 +200,17 @@ passwd
 
 
 
+<h2>   :book:: Παραδοτέο 4</h2>
 
+### :pushpin:: συμμετοχικό περιεχόμενο 1A
+
+
+| Περιγραφή | Repository Link |
+| --- | --- |
+| HackTheBox | [hackthebox.mb](https://github.com/p19tzam/_gallery/blob/master/hackthebox.md)
+| Images hackthebox | [full quality](https://github.com/p19tzam/images/blob/master/hacktheboxp2019213.png) + [thumbnail](https://github.com/p19tzam/images/blob/master/hacktheboxp2019213-160px.png) |
+| Slides |
+| Timeline | 
 
 
 
