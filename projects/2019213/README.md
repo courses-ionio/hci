@@ -40,7 +40,7 @@
 
 ## Λειτουργικό σύστημα (neofetch & journalctl -b)
 ### Neofetch
-ASCIINEMA με την εντολή <b>neofetch</b> για την βαθμολόγηση του λειτουργικού μου συστήματος.
+ASCIINEMA με την εντολή <b>neofetch</b> για την βαθμολόγηση του λειτουργικού μου συστήματος. Προσοχή! το neofetch εγίνε την στιγμή που δεν είχα κάνει εγκατάσταση το GNOME.
 ```bash
 # Εγκατάσταση neofetch & asciinema στο archlinux
 pacman -S neofetch
