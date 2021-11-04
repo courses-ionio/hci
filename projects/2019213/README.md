@@ -198,31 +198,6 @@ passwd
 
 
 
-
-
-<h2>   :book:: Παραδοτέο 4</h2>
-
-### :pushpin:: συμμετοχικό περιεχόμενο 1A
-
-
-| Περιγραφή | Repository Link |
-| --- | --- |
-| HackTheBox | [hackthebox.mb](https://github.com/p19tzam/_gallery/blob/master/hackthebox.md)
-| Images hackthebox | [full quality](https://github.com/p19tzam/images/blob/master/hacktheboxp2019213.png) + [thumbnail](https://github.com/p19tzam/images/blob/master/hacktheboxp2019213-160px.png) |
-| Slides |
-| Timeline | 
-
-
-
-
-
-
-
-
-
-
-
-
 <h2>   :book:: Παραδοτέο 2</h2>
 
 ### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 1η(δίσκος, μνήμη, επεξεργαστής, δίκτυο, γραφικά)
@@ -263,72 +238,15 @@ ip addr
 ## Network Interface
 [![asciicast](https://asciinema.org/a/443893.svg)](https://asciinema.org/a/443893)
 
-<h2>   :book:: Παραδοτέο 3</h2>
 
-### :pushpin:: ΕΡΓΑΣΙΑ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 2η(Εγκατάσταση ArchLinux)
+<h2>   :book:: Παραδοτέο 4</h2>
 
-
-
+### :pushpin:: συμμετοχικό περιεχόμενο 1A
 
 
-
-
-
-
-Σε αυτό το παραδοτέο επέλεξα την συγκεκριμένη άσκηση γιατί μπορώ να χρησιμοποιήσω <b>bash scripting</b> για επιπλέων βαθμό όπως αναφέρετε στις <b>οδηγίες</b>.
-<br>
-Σε αυτό το <b>assignment</b> έχω να κάνω: 1.Αναζήτηση, 2.εγκατάσταση και αναπαραγωγή ενός τραγουδιού μέσα από το τερματικό.
-<br>
-Για αυτό το <b>assignment</b> χρειάστηκαν δύο softwares το youtube-dl και το mpv.
-```bash
-# How to install these softwares.
-sudo apt install mpv
-sudo apt install youtube-dl
-```
-<br>
-Όλα αυτά τα έκανα αυτοματοποιημένα με bash scripting. Που παίρνει ένα argument ως όνομα για αναζήτηση και το κάνει εγκατάσταση ως mp3.
-<br>
-Η χρήση του bash script προγράμματος μου είναι αυτή που δείχνω στο asciinema παρακάτω.
-<br>
-
-[![asciicast](https://asciinema.org/a/443336.svg)](https://asciinema.org/a/443336)
-
-<br>
-
-### Ο κώδικας του bash script είναι ο εξής
-```bash
-#!/bin/bash
-
-# BLOCK 1 START
-# Ελέγχει το IF αν δεν δωσουμε ενα όρισμα. Π.χ αν δεν δωσουμε θα μας βγάλει το error message και θα κάνει exit το πρόγραμμα.
-
-if  [[ $# -eq 0 ]] ; then # START IF
-    echo 'Missing argument: bash downloadyt-video.sh [song name]' # Error message
-    exit 1 # Exit command
-fi # END IF 
-# BLOCK 1 END
-
-#-------------------------------------------------------------------------------------------------------------------
-
-# BLOCK 2 START
-# Εμφανίζει ένα μήνυμα και αμέσως μετά τρέχει την εντολή που κάνει search και download ως mp3 το τραγούδι. 
-
-echo 'Search && Download from youtube mp3 songs\n' # Message programm start
-
-youtube-dl -x --audio-format mp3 ytsearch:$1 # Search and Download mp3 song
-# BLOCK 2 END
-
-#-------------------------------------------------------------------------------------------------------------------
-
-# BLOCK 3 START
-# Εμφανίζει ένα μήνυμα οτι το τραγούδι ξεκινάει και κάνει αναπαραγωγή ολα τα αρχεία σε .mp3 για αυτό η καλύτερη λειτουργία είναι το πρόγραμμα να βρίσκεται σε έναν κενό φάκελο χωρίς αλλα .mp3 αρχεία εκτός απο αυτό που θα κάνει download το πρόγραμμα.
-
-echo 'Playing audio....' # Info message
-mpv *.mp3 # Play mp3 files
-# BLOCK 3 END
-```
-<br>
-
-#### :arrow_double_up:: [Επιστροφή στον πίνακα.](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#-%CF%80%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82-%CE%BC%CE%B5-%CF%83%CF%8D%CE%BD%CE%BF%CF%88%CE%B7-%CF%84%CF%89%CE%BD-%CF%80%CF%81%CE%BF%CE%B8%CE%B5%CF%83%CE%BC%CE%B9%CF%8E%CE%BD-%CE%BA%CE%B1%CE%B9-%CF%84%CF%89%CE%BD-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CF%89%CE%BD)
-
-
+| Περιγραφή | Repository Link |
+| --- | --- |
+| HackTheBox | [hackthebox.mb](https://github.com/p19tzam/_gallery/blob/master/hackthebox.md)
+| Images hackthebox | [full quality](https://github.com/p19tzam/images/blob/master/hacktheboxp2019213.png) + [thumbnail](https://github.com/p19tzam/images/blob/master/hacktheboxp2019213-160px.png) |
+| Slides |
+| Timeline | 
