@@ -7,7 +7,7 @@
 | --- | --- |
 | 1 | <sup><a href="#1"> Φορκ του αποθετηρίου,δημιουργία της σελίδας της αναφοράς και εισαγωγή με περιγραφή των αναγκών και στόχων για το μάθημα </a></sup> |
 | 2 | <sup><a href="#2"> Άσκηση γραμμής εντολών :set-up the main dependencies and demonstrate your base system(warmup) </a></sup> |
-| 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών :download mp3 </a></sup> |
+| 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών :download mp3(hci) / get familiar with basic commands, reading documentation and editing files(warmup) </a></sup> |
 | 4 | συμμετοχικό περιεχόμενο 1A |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
@@ -87,6 +87,36 @@ Aναζητηση και ληψη κομματιου **youtube-dl -x --audio-for
 Τελος εγγραφης terminal **exit**
 
 Πηγή : https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
+
+
+## Άσκηση γραμμής εντολών : get familiar with basic commands, reading documentation and editing files (warmup)
+
+asciinema link : https://asciinema.org/a/447206
+
+## Αποτελεσματα
+
+![thefuck]()
+
+Διαδικασία : 
+
+Ληψη πακετου **sudo pacman -S man**
+
+Ληψη πακετου **pip install thefuck**
+
+Εναρξη εγγραφης terminal **asciinema rec -i 0.2**
+
+Προβολή manual vim **man vim**
+
+Προβολή του base system **neofetch**
+
+Προβολή manual man **man man**
+
+Διόρθωση λανθασμένης εντολής **fuck**
+
+Τελος εγγραφης terminal **exit**
+
+Πηγή :https://github.com/nvbn/thefuck
+
 
 
 
