@@ -246,7 +246,7 @@ ip addr
 
 | Περιγραφή | Repository Link |
 | --- | --- |
-| HackTheBox | [hackthebox.mb](https://github.com/p19tzam/_gallery/blob/master/hackthebox.md)
-| Images hackthebox | [full quality](https://github.com/p19tzam/images/blob/master/hacktheboxp2019213.png) + [thumbnail](https://github.com/p19tzam/images/blob/master/hacktheboxp2019213-160px.png) |
+  | Galaxy Game 1971 first arcade game  | [galaxy_game.md](https://github.com/p19tzam/_gallery/blob/master/galaxy_game.md) + [netlify link](https://hci-p19tzam.netlify.app/gallery/galaxy_game/)
+| Images Galaxy game | [full quality](https://github.com/p19tzam/images/blob/24c24c76316d7fcc8fe60f3a1521a1adc6d988b2/800px-Galaxy_Game_1971_first_arcade_game.jpg) + [thumbnail](https://github.com/p19tzam/images/blob/24c24c76316d7fcc8fe60f3a1521a1adc6d988b2/160px-Galaxy_Game_1971_first_arcade_game.jpg) |
 | Slides |
 | Timeline | 
