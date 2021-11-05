@@ -28,31 +28,31 @@
 
 ##### [2]
 
-## Ασκηση γραμμης εντολων : set-up the main dependencies and demonstrate your base system (warmup)
+## Άσκηση γραμμής εντολών : set-up the main dependencies and demonstrate your base system (warmup)
 
 asciinema link : https://asciinema.org/a/446263 
 
-## Aποτελεσματα : 
+## Aποτελέσματα : 
 
 ![neofetch](https://github.com/p18kout/hci-images/blob/main/neofetch_2018143.png)
 
-Διαδικασια :
+Διαδικασία :
 
-Εναρξη εγγραφης terminal **asciinema rec -i 0.2**
+Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
 
-List αρχειων με την εντολη **ls**
+List αρχείων με την εντολή **ls**
 
-List κρυφων αρχειων με την εντολη **ls -a**
+List κρυφών αρχείων με την εντολή **ls -a**
 
-Προβολη του base system με την εντολη **neofetch**
+Προβολή του base system με την εντολή **neofetch**
 
-Εγκατασταση πακετου dotfiles με την εντολη **pip install dotfiles**
+Εγκατάσταση πακέτου dotfiles με την εντολή **pip install dotfiles**
 
-Aναγνωση διαθεσιμων εντολων του παραπανω πακετου **dotfiles -h**
+Aνάγνωση διαθέσιμων εντολών του παραπάνω πακέτου **dotfiles -h**
 
-Τελος εγγραφης terminal **exit**
+Τέλος εγγραφής terminal **exit**
 
-Πηγη :
+Πηγή :
 
 https://github.com/dylanaraps/neofetch/wiki/Installation#arch
 
@@ -62,29 +62,29 @@ https://github.com/jbernard/dotfiles
 
 ##### [3]
 
-## Ασκηση γραμμης εντολων : download-mp3 (hci)
+## Άσκηση γραμμής εντολών : download-mp3 (hci)
 
 asciinema link : https://asciinema.org/a/444197 
 
-## Αποτελεσματα : 
+## Αποτελέσματα : 
 
 ![download-mp3](https://github.com/p18kout/hci-images/blob/main/2018143_download-mp3.gif)
 
 Διαδικασία : 
 
-Ληψη πακετου youtube-dl  **sudo pacman -S youtube-dl**
+Λήψη πακέτου youtube-dl  **sudo pacman -S youtube-dl**
 
-Ληψη πακετου mpg123 **sudo pacman -S mpg123**
+Λήψη πακέτου mpg123 **sudo pacman -S mpg123**
 
-Εναρξη εγγραφης terminal **asciinema rec -i 0.2**
+Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
 
-Aναζητηση και ληψη κομματιου **youtube-dl -x --audio-format mp3 "ytsearch:donda"**
+Aναζήτηση και λήψη κομματιού **youtube-dl -x --audio-format mp3 "ytsearch:donda"**
 
-Μετακινηση στο location του αρχειου **cd Desktop**
+Μετακίνηση στο location του αρχείου **cd Desktop**
 
-Αναπαραγωγη κομματιου **mpg123 donda.mp3**
+Αναπαραγωγή κομματιού **mpg123 donda.mp3**
 
-Τελος εγγραφης terminal **exit**
+Τέλος εγγραφής terminal **exit**
 
 Πηγή : https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
 
@@ -99,11 +99,11 @@ asciinema link : https://asciinema.org/a/447206
 
 Διαδικασία : 
 
-Ληψη πακετου **sudo pacman -S man**
+Λήψη πακέτου **sudo pacman -S man**
 
-Ληψη πακετου **pip install thefuck**
+Λήψη πακέτου **pip install thefuck**
 
-Εναρξη εγγραφης terminal **asciinema rec -i 0.2**
+Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
 
 Προβολή manual vim **man vim**
 
@@ -113,7 +113,7 @@ asciinema link : https://asciinema.org/a/447206
 
 Διόρθωση λανθασμένης εντολής **fuck**
 
-Τελος εγγραφης terminal **exit**
+Τέλος εγγραφής terminal **exit**
 
 Πηγή :https://github.com/nvbn/thefuck
 
