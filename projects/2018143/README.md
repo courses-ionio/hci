@@ -95,7 +95,7 @@ asciinema link : https://asciinema.org/a/447206
 
 ## Αποτελεσματα
 
-![thefuck]()
+![thefuck](https://github.com/p18kout/hci-images/blob/main/2018143_thefuck.gif)
 
 Διαδικασία : 
 
