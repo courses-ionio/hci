@@ -36,12 +36,14 @@
 
 # 4ο Παραδοτέο - Συμμετοχικό περιεχόμενο 1Α
 
-Για το συμμετοχικό περιεχόμενο του τέταρτου παραδοτέου επέλεξα να ασχοληθώ με τη κονσόλα βιντεοπαιχνιδιών Atari 2600. Το Atari 2600 μου τράβηκε το ενδιαφέρον διότι την εποχή που κυκλοφόρησε έκανε τεράστια επιτυχία, σε τέτοιο επίπεδο μάλιστα που το όνομα Atari συνδυάστηκε με τις κονσόλες βιντεοπαιχνιδιών γενικότερα. 
+Ως λάτρης των βιντεοπαιχνιδιών, για το Α συμμετοχικό περιεχόμενο του τέταρτου παραδοτέου επέλεξα να ασχοληθώ με δύο κονσόλες βιντεοπαιχνιδιών το Atari 2600 και το Playstation 1. Το Atari 2600 μου κέντρησε το ενδιαφέρον διότι την εποχή που κυκλοφόρησε έκανε μεγάλη επιτυχία, σε τέτοιο επίπεδο μάλιστα που το όνομα Atari συνδυάστηκε με τις κονσόλες βιντεοπαιχνιδιών γενικότερα. Σχεδιάστηκε από την εταιρία Atari και κυκλοφόρησε το Σεπτέμβριο του 1997. Ακόμα, ερχόταν με δύο παιχνίδια, το Combat και το αργότερα το Pac-Man σε μορφή κασέτας. Τέλος, παρόλο την αρχική επιτυχία, δεν κράτησε για πολλά χρόνια και δεν έφταιγε η κονσόλα, αλλά τα όχι και τόσο καλά παιχνίδια που φτιάξαν γιαυτό. Το playstation 1 τώρα, το διάλεξα διότι ήταν η πρώτη κονσόλα που έπιασα στα χέρια μου, μία κονσόλα που δημιουργήθηκε από την Sony και κυκλοφόρησε πρώτα το 1994 στην Ιαπωνία και μετά από ένα χρόνο στην Αμερική, Ευρώπη και Αυστραλία. Η επιτυχία της κονσόλας ήταν πολύ μεγάλη που κυκλοφόρησαν πολλές εκδόσεις οι οποίες πουλούσαν σε πάρα πολύ μεγάλους αριθμούς. Η επιτυχία του βασίστηκε στα πολύ όμορφα γραφικά που πρόσφερε για την εποχή, για τα πολυάριθμα αξεσουάρ αλλά και για την τεράστια γκάμα παιχνιδιών που πρόσφερε (7,918).
 
 
-| Περιγραφή | Repository Link |
-| --- | --- |
-| Atari-2600 | [atari-2600.md](https://github.com/p19ntar/_gallery/blob/master/atari-2600.md) |
-| Images Atari-2600| [Full Quality](https://github.com/p19ntar/images/blob/master/atari-2600.jpg) + [Thumbnail](https://github.com/p19ntar/images/blob/master/atari-2600-thumb.jpg) |  |
-| Slides | [Συσκευες Διαδρασης στα Βιντεοπαιχνιδια (Slides)](https://github.com/p19ntar/site/blob/master/_slides/videogamesconsole.md) |
-| Timeline | [Συσκευες Διαδρασης στα Βιντεοπαιχνιδια (Timeline)](https://github.com/p19ntar/site/blob/master/_timeline/videogamesconsole.md) |
+| Περιγραφή | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Atari 2600 | [atari 2600.md](https://github.com/p19ntar/_gallery/blob/master/atari-2600.md) | [Atari 2600 Summary](https://2019215.netlify.app//gallery/atari-2600/)
+| Images Atari 2600 | [Full Quality](https://github.com/p19ntar/images/blob/master/atari-2600.jpg) + [Thumbnail](https://github.com/p19ntar/images/blob/master/atari-2600-thumb.jpg) |  |
+| Playstation 1 | [playstation 1.md](https://github.com/p19ntar/_gallery/blob/master/playstation1.md) | [Playstation 1 Summary](https://2019215.netlify.app//gallery/playstation1/)
+| Images Playstation 1 | [Full Quality](https://github.com/p19ntar/images/blob/master/playstation1.jpg) + [Thumbnail](https://github.com/p19ntar/images/blob/master/playstation1-thumb.jpg)
+| Slides | [Κονσόλες Βιντεοπαιχνιδιών (Slides)](https://github.com/p19ntar/site/blob/master/_slides/videogamesconsole.md) |
+| Timeline | [Κονσόλες Βιντεοπαιχνιδιών (Timeline)](https://github.com/p19ntar/site/blob/master/_timeline/videogamesconsole.md) |
