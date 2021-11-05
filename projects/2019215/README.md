@@ -41,9 +41,9 @@
 
 | Περιγραφή | Repository Link | Netlify Link |
 | --- | --- | --- |
-| Atari 2600 | [atari 2600.md](https://github.com/p19ntar/_gallery/blob/master/atari-2600.md) | [Atari 2600 Summary](https://2019215.netlify.app//gallery/atari-2600/)
+| Gallery Atari 2600 | [atari 2600.md](https://github.com/p19ntar/_gallery/blob/master/atari-2600.md) | [Atari 2600 Summary](https://2019215.netlify.app//gallery/atari-2600/)
 | Images Atari 2600 | [Full Quality](https://github.com/p19ntar/images/blob/master/atari-2600.jpg) + [Thumbnail](https://github.com/p19ntar/images/blob/master/atari-2600-thumb.jpg) |  |
-| Playstation 1 | [playstation 1.md](https://github.com/p19ntar/_gallery/blob/master/playstation1.md) | [Playstation 1 Summary](https://2019215.netlify.app//gallery/playstation1/)
+| Gallery Playstation 1 | [playstation 1.md](https://github.com/p19ntar/_gallery/blob/master/playstation1.md) | [Playstation 1 Summary](https://2019215.netlify.app//gallery/playstation1/)
 | Images Playstation 1 | [Full Quality](https://github.com/p19ntar/images/blob/master/playstation1.jpg) + [Thumbnail](https://github.com/p19ntar/images/blob/master/playstation1-thumb.jpg)
 | Slides | [Κονσόλες Βιντεοπαιχνιδιών (Slides)](https://github.com/p19ntar/site/blob/master/_slides/videogamesconsole.md) |
 | Timeline | [Κονσόλες Βιντεοπαιχνιδιών (Timeline)](https://github.com/p19ntar/site/blob/master/_timeline/videogamesconsole.md) |
