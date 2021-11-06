@@ -62,7 +62,7 @@ asciinema: https://asciinema.org/a/444859
 **Πηγή:** https://www.youtube.com/watch?v=VMy-lb7Y-7k
 
 
-## Άσκηση γραμμής εντολών: set-up the main dependencies and demonstrate your base system
+## Άσκηση γραμμής εντολών: set-up the main dependencies and demonstrate your base system (warmup)
 
 asciinema: https://asciinema.org/a/446281
 
