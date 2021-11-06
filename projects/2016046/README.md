@@ -12,7 +12,7 @@
 | 1 | [Εισαγωγή & Σύνοψη](#εισαγωγη) |
 | 2 | [Άσκηση γραμμής εντολών](#άσκηση-γραμμής-εντολών---hci) |
 | 3 | [Άσκηση γραμμής εντολών](#άσκηση-γραμμής-εντολών---warmup---fetch-information) |
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | [συμμετοχικό περιεχόμενο 1A](#συμμετοχικό-περιεχόμενο-1α) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
@@ -41,4 +41,31 @@ Link Asciinema: https://asciinema.org/a/VcH3iZU4bOOd2qodzi3m04MFW
 Link Asciinema: https://asciinema.org/a/BNWCJamOoorfUpsqZqPgwbhGJ
 
 Δίνοντας στο terminal την εντολή curl getnews.tech/business εμφανίζονται όλα τα αποτελέσματα τα οποία συσχετίζονται με ειδήσεις σχετικά με business. Η συγκεκριμένη εντολή μπορεί να χρησιμοποιηθεί για οποιαδήποτε κατηγορία εμφάνισης ειδήσεων επιθυμούμε.
+
+# Συμμετοχικό Περιεχόμενο 1Α
+
+~SMARTWATCH:
+
+Link Images: 
+https://github.com/p16foti/images/blob/2016046/smartwatch.jpg
+https://github.com/p16foti/images/blob/2016046/smartwatch-thumb.jpg
+
+Link Gallery:
+https://github.com/p16foti/_gallery/blob/2016046/smartwatch.md
+
+~PLAYSTATION
+
+Link Images:
+https://github.com/p16foti/images/blob/2016046/playstation.jpg
+https://github.com/p16foti/images/blob/2016046/playstation-thumb.jpg
+
+Link Gallery:
+https://github.com/p16foti/_gallery/blob/2016046/playstation.md
+
+
+
+
+
+
+
 
