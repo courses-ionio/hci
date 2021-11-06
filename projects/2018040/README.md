@@ -55,7 +55,7 @@ asciinema: https://asciinema.org/a/447448
 
 **Αποτελέσματα:**
 
-![fuck]()
+![fuck](https://github.com/p18kana/HCI-files/blob/main/2018040_thefuck.gif)
 
 **Πηγή:** https://github.com/nvbn/thefuck
 
