@@ -14,7 +14,7 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | <sup><a href="#1"> Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα </a></sup> |
-| 2 | <sup><a href="#2"> Άσκηση γραμμής εντολών:  </a></sup> |
+| 2 | <sup><a href="#2"> Άσκηση γραμμής εντολών: get familiar with basic commands, reading documentation and editing files (warmup) </a></sup> |
 | 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών: download-mp3(hci)/set-up the main dependencies and demonstrate your base system (warmup) </a></sup> |
 | 4 | συμμετοχικό περιεχόμενο 1A |
 | 5 | Άσκηση γραμμής εντολών |
@@ -33,6 +33,31 @@
 
 ##### [2]
 
+## Άσκηση γραμμής εντολών: get familiar with basic commands, reading documentation and editing files (warmup)
+
+asciinema: https://asciinema.org/a/447448
+
+**Βήματα:**
+
+Κανω εγκατάσταση των απαραίτητων πακέτων  ``sudo pacman -S thefuck``, ``sudo pacman -S man``.
+
+Με το ``asciinema rec -i 0.2`` ξεκιναω το record του terminal.
+
+Με την εντολή ``man man`` κανω αναγνωση των οδηγιων του πακετου man.
+
+Με την εντολή ``man vim`` κανω αναγνωση των οδηγιων του πακετου vim.
+
+Με την εντολή ``neofetch`` κανω αναγνωση των χαρακτηριστικων του συστηματος.
+
+Με την εντολή ``fuck`` εμφανιζεται η διορθωμενη εντολη.
+
+Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
+
+**Αποτελέσματα:**
+
+![fuck]()
+
+**Πηγή:** https://github.com/nvbn/thefuck
 
 
 ##### [3]
