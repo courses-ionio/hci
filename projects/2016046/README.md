@@ -48,6 +48,7 @@ Link Asciinema: https://asciinema.org/a/BNWCJamOoorfUpsqZqPgwbhGJ
 
 Link Images: 
 https://github.com/p16foti/images/blob/2016046/smartwatch.jpg
+
 https://github.com/p16foti/images/blob/2016046/smartwatch-thumb.jpg
 
 Link Gallery:
@@ -57,6 +58,7 @@ https://github.com/p16foti/_gallery/blob/2016046/smartwatch.md
 
 Link Images:
 https://github.com/p16foti/images/blob/2016046/playstation.jpg
+
 https://github.com/p16foti/images/blob/2016046/playstation-thumb.jpg
 
 Link Gallery:
