@@ -12,7 +12,7 @@
 | 1 | [Εισαγωγή](#εισαγωγη) |
 | 2 | [Search, Download and Play a YouTube Video](#άσκηση-γραμμής-εντολών---εβδομάδα-2---search-download-and-play-a-youtube-video)
 | 3 | [Warm-Up / Fetch Information](#άσκηση-warm-up---fetch-information)
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | [Συμμετοχικό Περιεχόμενο Α1](#συμμετοχικό-περιεχόμενο-α1)
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
@@ -69,4 +69,15 @@ Link της άσκησης στο Asciinema: [Παραδοτέο 3 / Warm - Up /
 
 Γράφοντας στο terminal curl getnews.tech/business, εμφανίζονται σαν λίστα όλα τα αποτελέσματα τα οποία συσχετίζονται με ειδήσεις σχετικά με business. Η συγκεκριμένη εντολή
 μπορεί να χρησιμοποιηθεί για οποιαδήποτε κατηγορία εμφάνισης ειδήσεων επιθυμούμε.
+
+
+# Συμμετοχικό Περιεχόμενο Α1
+
+| Περιγραφή | Repository Link |
+| --- | --- |
+| Gallery Nintendo 64 | [nintendo-64.md](https://github.com/dejuresavv/_gallery/blob/2016085/nintendo-64.md)|
+| Nintendo Images | [Full Size](https://github.com/dejuresavv/images/blob/2016085/nintendo64.png) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/nintendo64-thumb.jpg) |
+| Apple Watch | [apple-watch.md](https://github.com/dejuresavv/_gallery/blob/2016085/apple-watch.md) |
+| Apple Watch Images | [Full Image](https://github.com/dejuresavv/images/blob/2016085/apple-watch.jpg) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/apple-watch-thumb.jpg) |
+
 
