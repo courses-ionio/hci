@@ -44,27 +44,23 @@ Link Asciinema: https://asciinema.org/a/BNWCJamOoorfUpsqZqPgwbhGJ
 
 # Συμμετοχικό Περιεχόμενο 1Α
 
-~SMARTWATCH:
+### SMARTWATCH:
 
 Link Images: 
-
-https://github.com/p16foti/images/blob/2016046/smartwatch.jpg
-
-https://github.com/p16foti/images/blob/2016046/smartwatch-thumb.jpg
+- https://github.com/p16foti/images/blob/2016046/smartwatch.jpg
+- https://github.com/p16foti/images/blob/2016046/smartwatch-thumb.jpg
 
 Link Gallery:
-https://github.com/p16foti/_gallery/blob/2016046/smartwatch.md
+- https://github.com/p16foti/_gallery/blob/2016046/smartwatch.md
 
-~PLAYSTATION
+### PLAYSTATION:
 
 Link Images:
-
-https://github.com/p16foti/images/blob/2016046/playstation.jpg
-
-https://github.com/p16foti/images/blob/2016046/playstation-thumb.jpg
+- https://github.com/p16foti/images/blob/2016046/playstation.jpg
+- https://github.com/p16foti/images/blob/2016046/playstation-thumb.jpg
 
 Link Gallery:
-https://github.com/p16foti/_gallery/blob/2016046/playstation.md
+- https://github.com/p16foti/_gallery/blob/2016046/playstation.md
 
 
 
