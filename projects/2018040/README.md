@@ -33,6 +33,35 @@
 
 ##### [2]
 
+
+
+##### [3]
+
+## Άσκηση γραμμής εντολών: download-mp3(hci)
+
+asciinema: https://asciinema.org/a/444859 
+
+**Βήματα:**
+
+Κανω εγκατάσταση των απαραίτητων πακέτων  ``sudo pacman -S youtube-dl``, ``sudo pacman -S mpg123``.
+
+Με το ``asciinema rec -i 0.2`` ξεκιναω το record του terminal.
+
+Με την εντολή ``youtube-dl -x --audio-format mp3 "ytsearch:shallow"`` κάνω αναζήτηση και λήψη του κομματιού σε mp3.
+
+Με την εντολή ``cd Downloads`` κατευθυνθήκαμε στο location του αρχείου mp3.
+
+Με την εντολή ``mpg123 shallow.mp3`` έκανα αναπαραγωγή του αρχείου mp3.
+
+Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
+
+**Αποτελέσματα:**
+
+![download-mp3](https://github.com/p18kana/HCI-files/blob/main/2018040_download-mp3.gif)
+
+**Πηγή:** https://www.youtube.com/watch?v=VMy-lb7Y-7k
+
+
 ## Άσκηση γραμμής εντολών: set-up the main dependencies and demonstrate your base system
 
 asciinema: https://asciinema.org/a/446281
@@ -62,33 +91,6 @@ asciinema: https://asciinema.org/a/446281
 https://github.com/dylanaraps/neofetch
 
 https://wiki.archlinux.org/title/Dotfiles
-
-
-##### [3]
-
-## Άσκηση γραμμής εντολών: download-mp3(hci)
-
-asciinema: https://asciinema.org/a/444859 
-
-**Βήματα:**
-
-Κανω εγκατάσταση των απαραίτητων πακέτων  ``sudo pacman -S youtube-dl``, ``sudo pacman -S mpg123``.
-
-Με το ``asciinema rec -i 0.2`` ξεκιναω το record του terminal.
-
-Με την εντολή ``youtube-dl -x --audio-format mp3 "ytsearch:shallow"`` κάνω αναζήτηση και λήψη του κομματιού σε mp3.
-
-Με την εντολή ``cd Downloads`` κατευθυνθήκαμε στο location του αρχείου mp3.
-
-Με την εντολή ``mpg123 shallow.mp3`` έκανα αναπαραγωγή του αρχείου mp3.
-
-Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
-
-**Αποτελέσματα:**
-
-![download-mp3](https://github.com/p18kana/HCI-files/blob/main/2018040_download-mp3.gif)
-
-**Πηγή:** https://www.youtube.com/watch?v=VMy-lb7Y-7k
 
 
 
