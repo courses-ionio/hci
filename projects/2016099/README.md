@@ -37,3 +37,23 @@
 <a href="https://www.dropbox.com/s/tef6ea5pjz6c9jb/disk.png?dl=0">Δισκος</a>
 
 <a href="https://www.dropbox.com/s/dnno1tkrpgee9h1/network.png?dl=0">Δίκτυο</a>
+
+<h2>Συμμετοχικό 1Α</h2>
+
+<p><a href="https://mystifying-newton-3844bc.netlify.app/gallery/news/">NeWS</a></p>
+
+<p>Αλλαγμένα αρχεία: </p>
+
+<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/NeWS-thump.jpg">images(thumpnail)</a> & <a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/NeWS.jpg">images(κανονική)</a></p>
+
+<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/_gallery/blob/2016099/NeWS.md">gallery</a></p>
+
+<p><a href="https://mystifying-newton-3844bc.netlify.app/gallery/quantel-paintbox/">Quantel-Paintbox</a></p>
+
+<p>Αλλαγμένα αρχεία: </p>
+
+<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/Quantel_Paintbox_thump.jpg">images(thumpnail)</a> & <a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/Quantel_Paintbox.jpg">images(κανονική)</a></p>
+
+<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/_gallery/blob/2016099/Quantel-Paintbox.md">gallery</a></p>
+
+
