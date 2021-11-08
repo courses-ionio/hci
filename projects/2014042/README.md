@@ -59,4 +59,4 @@
 | Images | [Κανονική Εικόνα] Και [Thumbnail] |
 | Gallery | |
 | Images Apple II Plus | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/apple2plus.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/apple2plus-thumb.jpg) |
-| Gallery Apple II Plus | |
+| Gallery Apple II Plus | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/apple2plus.md) |
