@@ -7,11 +7,11 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα |
-| 2 | Άσκηση γραμμής εντολών |
-| 3 | Άσκηση γραμμής εντολών |
-| 4 | συμμετοχικό περιεχόμενο 1A |
-| 5 | Άσκηση γραμμής εντολών |
+| 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα](https://github.com/Sola1r3/hci/blob/2014042/projects/2014042/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
+| 2 | [Άσκηση γραμμής εντολών](https://github.com/Sola1r3/hci/tree/2014042/projects/2014042#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-%CE%B5%CE%B3%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%84%CF%89%CE%BD-archlinux-%CE%BA%CE%B1%CE%B9-%CE%B5%CE%BD%CF%84%CE%BF%CF%80%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CF%87%CE%B1%CF%81%CE%B1%CE%BA%CF%84%CE%B7%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8E%CE%BD-%CF%85%CE%BB%CE%B9%CE%BA%CE%BF%CF%8D) |
+| 3 | [Άσκηση γραμμής εντολών](https://github.com/Sola1r3/hci/tree/2014042/projects/2014042#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-%CE%B5%CE%B3%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%84%CF%89%CE%BD-archlinux-%CE%BA%CE%B1%CE%B9-%CE%B5%CE%BD%CF%84%CE%BF%CF%80%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CF%87%CE%B1%CF%81%CE%B1%CE%BA%CF%84%CE%B7%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8E%CE%BD-%CF%85%CE%BB%CE%B9%CE%BA%CE%BF%CF%8D) |
+| 4 | [Συμμετοχικό περιεχόμενο 1A](https://github.com/Sola1r3/hci/tree/2014042/projects/2014042#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-1%CE%B1) |
+| 5 | [Άσκηση γραμμής εντολών](https://github.com/Sola1r3/hci/tree/2014042/projects/2014042#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-%CE%B5%CE%B3%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%84%CF%89%CE%BD-archlinux-%CE%BA%CE%B1%CE%B9-%CE%B5%CE%BD%CF%84%CE%BF%CF%80%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CF%87%CE%B1%CF%81%CE%B1%CE%BA%CF%84%CE%B7%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8E%CE%BD-%CF%85%CE%BB%CE%B9%CE%BA%CE%BF%CF%8D) |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
