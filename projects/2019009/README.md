@@ -33,7 +33,7 @@
 
 ## Παραδοτέο 3
 
-#### --------------pre installation Arch linux ------------------
+#### pre installation Arch linux
 1.Εκανα ληψη του image(iso) των arch linux 
 2.Μετα την ληψη του iso περασα το iso σε ενα usb stick και εκανα format το usb stick για να κανω boot τα arch linux
 4.Μετα εκανα διαμοιρασμο του χωρου του εσωτερικου δισκου μου για να κανω dual boot το arch linux διατηροντας τα windows
@@ -57,4 +57,6 @@
 
 
 
+### Installation Arch Linux
+Για το installation εγραψα την εντολη pacstrap /mnt base linux linux-firmware για να κανω install τα πακετα που χρειαζοταν για να τρεξω τα arch στο συστημα μου (mnt γιατι στον φακελο αυτον εκανα mount το file system του root)
 
