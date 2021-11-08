@@ -56,7 +56,7 @@
 
 | Περιγραφή | Repository Σύνδεσμος |
 | --- | --- |
-| Images Atari DOS 2.5 | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/ataridos.PNG) | Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/ataridos-thumb.png) |
+| Images Atari DOS 2.5 | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/ataridos.PNG) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/ataridos-thumb.png) |
 | Gallery Atari DOS 2.5| |
-| Images Apple II Plus | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/apple2plus.jpg) | Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/apple2plus-thumb.jpg) |
+| Images Apple II Plus | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/apple2plus.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/apple2plus-thumb.jpg) |
 | Gallery Apple II Plus | |
