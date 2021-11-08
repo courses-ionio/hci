@@ -50,3 +50,13 @@
 
 ## Παραδοτέο 3: Συμμετοχικό Περιεχόμενο 1Α
 Σε αυτό το παραδοτέο συνάντησα πρόβλημα στο να ανεβάσω τα README και τις εικόνες στα submodules gallery και images αντοίστιχα. Ακόμη και τώρα δεν έχω καταλάβει τι φταίει και γιατί δεν γίνεται. Αρχικά έκανα git clone τα submodules κατέβασα τις εικόνες που διάλεξα τις έκανα mv στο directory που ήθελα δηλαδή το images, git status για να δω ότι είναι πλέον μέσα, git add, git commit -m, έκανα σύνδεση λογαριασμού github βάζοντας το username μου και το token για password και κάθε φορά που προσπαθούσα να κάνω git push μου εμφάνιζε το μύνημα fatal error: repository not found η σε άλλες δοκιμές access denied to Sola1r3, ενώ τα repositories τα έκανα κανονικά όλα fork. Έκανα δοκιμές σε δικα μoυ test repositories να ανεβάσω ένα readme.md που έκανα με vim αλλά και πάλι το ίδιο. Τα επανέλαβα όλα από την αρχή τα ξαναέκανα δηλαδή clone ξανα προσπάθησα να κάνω commit δοκίμασα την εντολή git reset --hard HEAD για να αναστρέψω το commit. Έλεγξα αν έκανα λάθος το git config αλλά τα στοιχεία μου ήταν όλα σωστά. Έπειτα προσπάθησω να δω αν οφείλεται σε branches για κάποιο λόγο μιας και ξέμεινα απο ιδέες οπότε και δοκίμασα διάφορα commands χωρις αποτέλεσμα. Εν τέλει για να μην χάσω την προθεσμία του παραδοτέου αποφάσισα να τα κάνω upload από την ιστοσελίδα.
+<br />
+
+Η πρώτη εικόνα που επέλεξα είναι μια εικόνα του λειτουργικού συστήματος βασισμένο σε δίσκο, Atari DOS έκδοση 2.5 και μια εικόνα του Apple II plus που είναι το δεύτερο μοντέλο στην σειρά προσωπικών υπολογιστών της Apple, Apple II.
+
+| Περιγραφή | Repository Σύνδεσμος |
+| --- | --- |
+| Images Atari DOS 2.5 | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/ataridos.PNG) | Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/ataridos-thumb.png) |
+| Gallery Atari DOS 2.5| |
+| Images Apple II Plus | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/apple2plus.jpg) | Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/apple2plus-thumb.jpg) |
+| Gallery Apple II Plus | |
