@@ -76,7 +76,7 @@
 Εντολές που χρησιμοποιήθηκαν: task add (προσθήκη νέου task), task x modify priority:(L,M,H) -health (ανάλογα τι priority θέλουμε low,medium,high), task x delete (διαγραφή συγκεκριμένου task), task (γράφοντας την εντολή task σκέτη μας εμφανίζονται όλες οι πληροφορίες σχετικά με τα task που έχουμε μέχρι στιγμής)
 
 
-[Asciinema Link](https://asciinema.org/a/447947)
+[Asciinema Link](https://asciinema.org/a/447947) 
 
 
 
