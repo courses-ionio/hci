@@ -5,7 +5,7 @@
 | --- | --- |
 | <a href="#A">1</a> |<a href="#A">Εισαγωγή </a> |
 | <a href="#B">2</a> | <a href="#B">Άσκηση γραμμής εντολών 1 </a> |
-| 3 | Άσκηση γραμμής εντολών |
+| <a href="#C">3</a> | <a href="#C">Άσκηση γραμμής εντολών </a> |
 | 4 | συμμετοχικό περιεχόμενο 1A |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
@@ -22,3 +22,7 @@
 
 # <a name="B">Άσκηση γραμμής εντολών 1</a>
  [Asciinema Link](https://asciinema.org/a/LMjFsVWXbgGeY3eKe7FAV736A)
+
+
+# <a name="C">Άσκηση γραμμής εντολών 2</a>
+[Asciinema Link](https://asciinema.org/a/4VkGwhESQpdTOr8NNhTV0MCx1)
