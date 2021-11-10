@@ -18,7 +18,7 @@
 | 1 | [Εισαγωγή](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
 | 2 | [Άσκηση γραμμής εντολών (ram,cpu,gpu,network,hard drives)](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2) |
 | 3 | [Άσκηση γραμμής εντολών(Εγκατάσταση Archlinux)](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-archlinux-manually) |
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | [συμμετοχικό περιεχόμενο 1A](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-1a) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
