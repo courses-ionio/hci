@@ -6,8 +6,6 @@
 | --- | --- |
 | Αριθμός Μητρώου | Π2016176 |
 | GitHub Profile | p16koub1 |
-| Netlify Site | - |
-| Site Repository | - |
 
 ## Πίνακας με σύνοψη των παραδοτέων
 
