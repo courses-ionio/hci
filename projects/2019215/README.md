@@ -32,8 +32,8 @@
 # 2ο Παραδοτέο - Neofetch
 
 Για το δεύτερο παραδοτέο έτρεξα το neofetch στο terminal του arch linux, ώστε να εμφανίσει τα χαρακτηριστικά του υπολογιστή μου.
-#### Asciinema link: https://asciinema.org/a/444564
-<a href="https://asciinema.org/a/444564" target="_blank"><img src="https://asciinema.org/a/444564.svg" /></a>
+#### Asciinema link: https://asciinema.org/a/448858
+<a href="https://asciinema.org/a/448858" target="_blank"><img src="https://asciinema.org/a/448858.svg" /></a>
 
 # 4ο Παραδοτέο - Συμμετοχικό περιεχόμενο 1Α
 
