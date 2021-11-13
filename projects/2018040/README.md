@@ -16,7 +16,7 @@
 | 1 | <sup><a href="#1"> Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα </a></sup> |
 | 2 | <sup><a href="#2"> Άσκηση γραμμής εντολών: get familiar with basic commands, reading documentation and editing files (warmup) </a></sup> |
 | 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών: download-mp3(hci)/set-up the main dependencies and demonstrate your base system (warmup) </a></sup> |
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | <sup><a href="#4"> συμμετοχικό περιεχόμενο 1A </a></sup> |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
@@ -116,6 +116,26 @@ asciinema: https://asciinema.org/a/446281
 https://github.com/dylanaraps/neofetch
 
 https://wiki.archlinux.org/title/Dotfiles
+
+##### [4]
+
+## Σημμετοχικο περιεχομενο 1α
+
+**Βηματα:**
+
+Κανω fork τα απαραιτητα αποθετηρια και δημιουργια των καταλληλων submodule με βαση τις οδηγιες του συμμετοχικου.
+
+## Εικονα 1:
+
+Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/apple-ipadgen9.md
+
+Αποθετηριο thumbnail: https://github.com/p18kana/images/blob/master/apple-ipadgen9-thumb.png
+
+## Εικονα 2:
+
+Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/apple-macbookprom1.md
+
+Αποθετηριο thumbnail: https://github.com/p18kana/images/blob/master/apple-macbookprom1-thumb.png
 
 
 
