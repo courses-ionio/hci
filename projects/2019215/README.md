@@ -14,7 +14,7 @@
 | 2 | [Άσκηση γραμμής εντολών](#2ο-παραδοτέο---neofetch) |
 | 3 | [Άσκηση γραμμής εντολών](#3ο-παραδοτέο---journalctl) |
 | 4 | [συμμετοχικό περιεχόμενο 1A](#4ο-παραδοτέο---συμμετοχικό-περιεχόμενο-1α) |
-| 5 |Άσκηση γραμμής εντολών |
+| 5 | [Άσκηση γραμμής εντολών](#5ο-παραδοτέο---wttr) |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
@@ -53,8 +53,8 @@
 | Images Atari 2600 | [Full Quality](https://github.com/p19ntar/images/blob/master/atari-2600.jpg) + [Thumbnail](https://github.com/p19ntar/images/blob/master/atari-2600-thumb.jpg) |  |
 | Gallery Playstation 1 | [playstation 1.md](https://github.com/p19ntar/_gallery/blob/master/playstation1.md) | [Playstation 1 Summary](https://2019215.netlify.app//gallery/playstation1/)
 | Images Playstation 1 | [Full Quality](https://github.com/p19ntar/images/blob/master/playstation1.jpg) + [Thumbnail](https://github.com/p19ntar/images/blob/master/playstation1-thumb.jpg)
-| Slides | [Κονσόλες Βιντεοπαιχνιδιών (Slides)](https://github.com/p19ntar/site/blob/master/_slides/videogamesconsole.md) |
-| Timeline | [Κονσόλες Βιντεοπαιχνιδιών (Timeline)](https://github.com/p19ntar/site/blob/master/_timeline/videogamesconsole.md) |
+| Slides | [Κονσόλες Βιντεοπαιχνιδιών (Slides)](https://github.com/p19ntar/site/blob/master/_slides/videogamesconsole.md) | [Διαφάνειες Κονσολών Βιντεοπαιχνιδιών(Slides)](https://2019215.netlify.app//slides/videogamesconsole/)
+| Timeline | [Κονσόλες Βιντεοπαιχνιδιών (Timeline)](https://github.com/p19ntar/site/blob/master/_timeline/videogamesconsole.md) | [Χρονολόγιο Κονσολών Βιντεοπαιχνιδιών (Timeline)](https://2019215.netlify.app//timeline/videogamesconsole/)
 <br />
 
 # 5ο Παραδοτέο - wttr
