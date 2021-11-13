@@ -13,9 +13,9 @@
 | 1 | [Εισαγωγή](#εισαγωγη) |
 | 2 | [Άσκηση γραμμής εντολών](#2ο-παραδοτέο---neofetch) |
 | 3 | [Άσκηση γραμμής εντολών](#3ο-παραδοτέο---journalctl) |
-| 4 | [συμμετοχικό περιεχόμενο 1A](#4ο-παραδοτέο---συμμετοχικό-περιεχόμενο-1α) |
+| 4 | [συμμετοχικό περιεχόμενο 1A](#4ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1) |
 | 5 | [Άσκηση γραμμής εντολών](#5ο-παραδοτέο---wttr) |
-| 6 | συμμετοχικό περιεχόμενο 2A |
+| 6 | [συμμετοχικό περιεχόμενο 2A](#6ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α2) |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
@@ -43,7 +43,7 @@
 <a href="https://asciinema.org/a/448906" target="_blank"><img src="https://asciinema.org/a/448906.svg" /></a>
 <br />
 
-# 4ο Παραδοτέο - Συμμετοχικό περιεχόμενο 1Α
+# 4ο Παραδοτέο - Συμμετοχικό περιεχόμενο Α1
 
 Ως λάτρης των βιντεοπαιχνιδιών, για το Α συμμετοχικό περιεχόμενο του τέταρτου παραδοτέου επέλεξα να ασχοληθώ με δύο κονσόλες βιντεοπαιχνιδιών το Atari 2600 και το Playstation 1. Το Atari 2600 μου κέντρησε το ενδιαφέρον διότι την εποχή που κυκλοφόρησε έκανε μεγάλη επιτυχία, σε τέτοιο επίπεδο μάλιστα που το όνομα Atari συνδυάστηκε με τις κονσόλες βιντεοπαιχνιδιών γενικότερα. Σχεδιάστηκε από την εταιρία Atari και κυκλοφόρησε το Σεπτέμβριο του 1997. Ακόμα, ερχόταν με δύο παιχνίδια, το Combat και το αργότερα το Pac-Man σε μορφή κασέτας. Τέλος, παρόλο την αρχική επιτυχία, δεν κράτησε για πολλά χρόνια και δεν έφταιγε η κονσόλα, αλλά τα όχι και τόσο καλά παιχνίδια που φτιάξαν γιαυτό. Το playstation 1 τώρα, το διάλεξα διότι ήταν η πρώτη κονσόλα που έπιασα στα χέρια μου, μία κονσόλα που δημιουργήθηκε από την Sony και κυκλοφόρησε πρώτα το 1994 στην Ιαπωνία και μετά από ένα χρόνο στην Αμερική, Ευρώπη και Αυστραλία. Η επιτυχία της κονσόλας ήταν πολύ μεγάλη που κυκλοφόρησαν πολλές εκδόσεις οι οποίες πουλούσαν σε πάρα πολύ μεγάλους αριθμούς. Η επιτυχία του βασίστηκε στα πολύ όμορφα γραφικά που πρόσφερε για την εποχή, για τα πολυάριθμα αξεσουάρ αλλά και για την τεράστια γκάμα παιχνιδιών που πρόσφερε (7,918).
 
@@ -53,8 +53,6 @@
 | Images Atari 2600 | [Full Quality](https://github.com/p19ntar/images/blob/master/atari-2600.jpg) + [Thumbnail](https://github.com/p19ntar/images/blob/master/atari-2600-thumb.jpg) |  |
 | Gallery Playstation 1 | [playstation 1.md](https://github.com/p19ntar/_gallery/blob/master/playstation1.md) | [Playstation 1 Summary](https://2019215.netlify.app//gallery/playstation1/)
 | Images Playstation 1 | [Full Quality](https://github.com/p19ntar/images/blob/master/playstation1.jpg) + [Thumbnail](https://github.com/p19ntar/images/blob/master/playstation1-thumb.jpg)
-| Slides | [Κονσόλες Βιντεοπαιχνιδιών (Slides)](https://github.com/p19ntar/site/blob/master/_slides/videogamesconsole.md) | [Διαφάνειες Κονσολών Βιντεοπαιχνιδιών(Slides)](https://2019215.netlify.app//slides/videogamesconsole/)
-| Timeline | [Κονσόλες Βιντεοπαιχνιδιών (Timeline)](https://github.com/p19ntar/site/blob/master/_timeline/videogamesconsole.md) | [Χρονολόγιο Κονσολών Βιντεοπαιχνιδιών (Timeline)](https://2019215.netlify.app//timeline/videogamesconsole/)
 <br />
 
 # 5ο Παραδοτέο - wttr
@@ -63,5 +61,15 @@
 
 #### Asciinema link: https://asciinema.org/a/448882
 <a href="https://asciinema.org/a/448882" target="_blank"><img src="https://asciinema.org/a/448882.svg" /></a>
+<br />
+
+# 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο Α2
+
+Παρακάτω παραθέτω τα Slides και το Timeline που έφτιαξα για τις κονσόλες βιντεοπαιχνιδιών playstation 1 και atari 2600. Υπάρχουν και τα αντίστοιχα λινκς του αποθετηρίου αλλά και του netlify. Όπως το βλέπω ότι έχω προσθέσει εμφανίζεται κανονικά και στο netlify οπότε πιστεύω δεν υπαράρχει κάποιο σφάλμα. Επίσης πρόσθεσα τις φωτογραφίες στις ήδη υπάρχουσες διαφάνειες Βιντεοπαιχνιδιών καθώς πιστεύω πως ταιριάζει.
+
+| Περιγραφή | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Slides | [Διαφάνειες Κονσολών Βιντεοπαιχνιδιών(Slides)](https://github.com/p19ntar/site/blob/master/_slides/videogamesconsole.md) | [Διαφάνειες Κονσολών Βιντεοπαιχνιδιών(Slides)](https://2019215.netlify.app//slides/videogamesconsole/)
+| Timeline | [Χρονολόγιο Κονσολών Βιντεοπαιχνιδιών (Timeline)](https://github.com/p19ntar/site/blob/master/_timeline/videogamesconsole.md) | [Χρονολόγιο Κονσολών Βιντεοπαιχνιδιών (Timeline)](https://2019215.netlify.app//timeline/videogamesconsole/)
 <br />
 
