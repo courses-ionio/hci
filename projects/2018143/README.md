@@ -117,6 +117,26 @@ asciinema link : https://asciinema.org/a/447206
 
 Πηγή :https://github.com/nvbn/thefuck
 
+##### [4] 
+
+## Συμμετοχικό περιεχόμενο 1Α
+
+Διαδικασία : 
+
+Έγινε η δημιουργία των απαραίτητων submodule με βάση τις οδηγίες, μετά το fork τις ιστοσελίδας του βιβλίου μαθήματος και των αποθετηρίων **images** , **_gallery** .
+
+# Εικόνα 1
+
+Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/apple-iphone13.md
+
+Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/apple-iphone13-thumb.png
+
+# Εικόνα 2
+
+Αποθετήριο εικόνας :
+
+Αποθετήριο thumbnail :
+
 
 
 
