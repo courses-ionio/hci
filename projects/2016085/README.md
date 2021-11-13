@@ -13,7 +13,7 @@
 | 2 | [Search, Download and Play a YouTube Video](#άσκηση-γραμμής-εντολών---εβδομάδα-2---search-download-and-play-a-youtube-video)
 | 3 | [Warm-Up / Fetch Information](#άσκηση-warm-up---fetch-information)
 | 4 | [Συμμετοχικό Περιεχόμενο Α1](#συμμετοχικό-περιεχόμενο-α1)
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | [Warm-Up / Become Productive With a To-Do List](#άσκηση-warm-up---become-productive-with-a-to-do-list) 
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
@@ -79,5 +79,34 @@ Link της άσκησης στο Asciinema: [Παραδοτέο 3 / Warm - Up /
 | Nintendo Images | [Full Size](https://github.com/dejuresavv/images/blob/2016085/nintendo64.png) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/nintendo64-thumb.jpg) |
 | Apple Watch | [apple-watch.md](https://github.com/dejuresavv/_gallery/blob/2016085/apple-watch.md) |
 | Apple Watch Images | [Full Image](https://github.com/dejuresavv/images/blob/2016085/apple-watch.jpg) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/apple-watch-thumb.jpg) |
+
+
+# Άσκηση Warm Up - Become Productive with a To-Do List
+
+Link της άσκησης στο Asciinema: [Παραδοτέο 5 / Become Productive With a To-Do List](https://asciinema.org/a/448919)
+
+Εργαλείο που χρησιμοποιήθηκε: [Taskwarrior](https://taskwarrior.org/)
+
+## ΠΕΡΙΓΡΑΦΗ
+
+Ο στόχος της συγκεκριμένης άσκησης ήταν να δημιουργηθεί μία To-Do λίστα, μέσω του terminal. Με τη βοήθεια του Taskwarrior ο μπόρεσα να δημιουργήσω tasks μέσω του 
+terminal, χρησιμοποιώντας την εντολή ```task add Buy Milk```, όπως φαίνεται και στο video του Asciinema δημιουργείται το συγκεκριμένο task.
+Στην παρούσα άσκηση δημιούργησα τρια tasks. Εάν εισάγουμε την εντολή ```task list``` μπορούμε να εμφανίσουμε στο terminal ποια task είναι ακόμα ενεργά. Δίπλα από κάθε
+task υπάρχει και το ID του, το οποίο μας βοηθάει σε περίπτωση που θέλουμε να επεξεργαστούμε / διαγράψουμε ένα task.
+
+Για να επεξεργαστούμε ένα task, στην προκειμένη περίπτωση,
+γράφουμε ```task append task 2 before they suffer from dehydration``` και το απότελεσμα,
+εάν εμφανίσουμε τη λίστα με τα tasks με την εντολή ```task list``` είναι να δούμε την ανανεωμένη ονομασία του task με ID=2.
+Τέλος, για να διαγράψουμε ένα task, γράφουμε ```task delete task (task's ID number)```.
+
+Συγκεντρωτικά, όλες οι εντολές που χρησιμοποιήθηκαν με το [Taskwarrior](https://taskwarrior.org/).
+
+|Ενέργεια| Εντολή| Παράδειγμα |
+| --- | --- | --- |
+| Εισαγωγή νέου task | ```task add (Task's Name)``` | ```task add Buy Milk``` |
+| Εκπλήρωση task | ```task (task ID Number) done``` | ``` task 3 done``` |
+| Πρόσαψη λέξεων σε task | ```task append task (task's ID number) word word word``` | ```task append task 2 before 9 o'clock```|
+| Διαγραφή task | ```task delete task (task ID number)``` | ```task delete task 1``` ή και πολλαπλή διαγραφή tasks ```task delete task 1 2 3 4``` |
+| Προβολή λίστας task | ```task list```|
 
 
