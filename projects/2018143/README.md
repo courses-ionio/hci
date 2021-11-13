@@ -8,7 +8,7 @@
 | 1 | <sup><a href="#1"> Φορκ του αποθετηρίου,δημιουργία της σελίδας της αναφοράς και εισαγωγή με περιγραφή των αναγκών και στόχων για το μάθημα </a></sup> |
 | 2 | <sup><a href="#2"> Άσκηση γραμμής εντολών :set-up the main dependencies and demonstrate your base system(warmup) </a></sup> |
 | 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών :download mp3(hci) / get familiar with basic commands, reading documentation and editing files(warmup) </a></sup> |
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | <sup><a href="#4"> συμμετοχικό περιεχόμενο 1A </a></sup> |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
@@ -125,17 +125,17 @@ asciinema link : https://asciinema.org/a/447206
 
 Έγινε η δημιουργία των απαραίτητων submodule με βάση τις οδηγίες, μετά το fork τις ιστοσελίδας του βιβλίου μαθήματος και των αποθετηρίων **images** , **_gallery** .
 
-# Εικόνα 1
+# Εικόνα 1 : Apple iphone 13
 
 Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/apple-iphone13.md
 
 Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/apple-iphone13-thumb.png
 
-# Εικόνα 2
+# Εικόνα 2 : Apple watch series 7
 
-Αποθετήριο εικόνας :
+Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/apple-smartwatchs7.md
 
-Αποθετήριο thumbnail :
+Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/apple-smartwatchs7-thumb.png
 
 
 
