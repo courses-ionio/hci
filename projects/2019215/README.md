@@ -35,7 +35,7 @@
 #### Asciinema link: https://asciinema.org/a/448858
 <a href="https://asciinema.org/a/448858" target="_blank"><img src="https://asciinema.org/a/448858.svg" /></a>
 
-# 3o Παραδοτεο - Journalctl
+# 3o Παραδοτέο - Journalctl
 
 Για το 3ο παραδοτέο έτρεξα την εντολή journalctl -b η οποία μας εμφανίζει στο τερματικό το systemd, kernal και τα journal logs. Προσωπικά, έκανα την εγκατάσταση του archlinux σε usb stick και επειδή ήθελα να μειώσωσω τις εγγραφές σε αυτό λόγω του μειωμένου χρόνου ζωής σε σχέση με ένα σκληρό δίσκο, αποφάσισα να αποθηκεύονται τα logs στη μνήμη RAΜ. Αυτό το υλοποίησα φτιάχνοτας αρχικά ένα directory και ένα configuration file όπου έθεσα το storage=volatile και έθεσα το runtimemaxuse=30M όπως προτείνει και το archwiki.
 #### Asciinema link: https://asciinema.org/a/448906
