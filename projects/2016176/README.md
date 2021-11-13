@@ -39,6 +39,8 @@
 - To [boot log](https://github.com/p16koub1/hci-files/blob/main/boot_log) με την εντολή journalctl -b -0 | less
 - neofetch
   [![asciicast](https://asciinema.org/a/448737.svg)](https://asciinema.org/a/448737)
-  ### Repository του γραφικού περιβάλλοντος και αλλαγές που έγιναν σε αυτό
-  [Personal Build Repo](https://github.com/p16koub1/personal-build/blob/main)
-  ![The San Juan Mountains are beautiful!](/pscr_211114013208.png)
+  
+### Repository του γραφικού περιβάλλοντος και αλλαγές που έγιναν σε αυτό
+- [Personal Build Repo](https://github.com/p16koub1/personal-build/blob/main)
+
+![Build Preview!](https://github.com/p16koub1/personal-build/blob/main/pscr_211114012432.png)
