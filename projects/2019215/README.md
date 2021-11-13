@@ -11,12 +11,12 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Εισαγωγή](#εισαγωγη) |
-| 2 | [Άσκηση γραμμής εντολών](#2ο-παραδοτέο---neofetch) |
-| 3 | [Άσκηση γραμμής εντολών](#3ο-παραδοτέο---journalctl) |
+| 2 | [Άσκηση γραμμής εντολών: Neofetch & Journalctl](#2ο-παραδοτέο---neofetch-και-journalctl) |
+| 3 | [Άσκηση γραμμής εντολών: Googler](#3ο-παραδοτέο---googler) |
 | 4 | [συμμετοχικό περιεχόμενο 1A](#4ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1) |
-| 5 | [Άσκηση γραμμής εντολών](#5ο-παραδοτέο---wttr) |
+| 5 | [Άσκηση γραμμής εντολών: WTTR](#5ο-παραδοτέο---wttr) |
 | 6 | [συμμετοχικό περιεχόμενο 2A](#6ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α2) |
-| 7 | Άσκηση γραμμής εντολών |
+| 7 | [Άσκηση γραμμής εντολών: PacVim](#7ο-παραδοτέο---pacvim) |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο 2B |
@@ -29,18 +29,23 @@
 Βλέποντας με μία πρώτη ματιά τα περιεχόμενα του μαθήματος βλέπω πως θα διεξαχθεί μέσω του github, το οποίο είναι κάτι πρωτόγνωρο για μένα, οπότε περιμένω να με δυσκολέψει αρχικά, αλλά σπό την άλλη θα μου προσφέρει εμπειρία πάνω στην εφαρμογή αυτή. Επίσης, υπάρχουν ασκήσεις γραμμής εντολών οι οποίες θα με βοηθήσουν να εξοικειωθώ με το terminal, το οποίο είναι ένα πολύ χρήσιμο και ενδιαφέρον εργαλείο για κάποιον που ξέρει να το χρησιμοποιεί. 
 <br />
 
-# 2ο Παραδοτέο - Neofetch
+# 2ο Παραδοτέο - Neofetch και Journalctl
 
-Για το δεύτερο παραδοτέο έτρεξα το neofetch στο terminal του arch linux, ώστε να εμφανίσει τα χαρακτηριστικά του υπολογιστή μου.
+Για το δεύτερο παραδοτέο έτρεξα το neofetch στο terminal του archlinux, ώστε να εμφανίσει τα χαρακτηριστικά του υπολογιστή μου όπως θα δείτε και στο asciinema.
 #### Asciinema link: https://asciinema.org/a/448858
 <a href="https://asciinema.org/a/448858" target="_blank"><img src="https://asciinema.org/a/448858.svg" /></a>
 <br />
 
-# 3ο Παραδοτέο - Journalctl
-
-Για το 3ο παραδοτέο έτρεξα την εντολή journalctl -b η οποία μας εμφανίζει στο τερματικό το systemd, kernal και τα journal logs. Προσωπικά, έκανα την εγκατάσταση του archlinux σε usb stick και επειδή ήθελα να μειώσωσω τις εγγραφές σε αυτό λόγω του μειωμένου χρόνου ζωής σε σχέση με ένα σκληρό δίσκο, αποφάσισα να αποθηκεύονται τα logs στη μνήμη RAΜ. Αυτό το υλοποίησα φτιάχνοτας αρχικά ένα directory και ένα configuration file όπου έθεσα το storage=volatile και έθεσα το runtimemaxuse=30M όπως προτείνει και το archwiki.
+Επίσης, έτρεξα την εντολή journalctl -b η οποία μας εμφανίζει στο τερματικό το systemd, kernal και τα journal logs. Προσωπικά, έκανα την εγκατάσταση του archlinux σε usb stick και επειδή ήθελα να μειώσωσω τις εγγραφές σε αυτό λόγω του μειωμένου χρόνου ζωής σε σχέση με ένα σκληρό δίσκο, αποφάσισα να αποθηκεύονται τα logs στη μνήμη RAΜ. Αυτό το υλοποίησα φτιάχνοτας αρχικά ένα directory και ένα configuration file όπου έθεσα το storage=volatile και έθεσα το runtimemaxuse=30M όπως προτείνει και το archwiki.
 #### Asciinema link: https://asciinema.org/a/448906
 <a href="https://asciinema.org/a/448906" target="_blank"><img src="https://asciinema.org/a/448906.svg" /></a>
+<br />
+
+# 3ο Παραδοτέο - Googler
+
+Στο τρίτο παραδοτέο διάλεξα να εγκαταστήσω το googler το οποίο σου δίνει τη δυνατότητα να αναζητείς κάτι στο ίντερνετ μέσω του τερματικού. Το βρήκα αρκετά χρήσιμο καθώς είναι αρκετά γρήγορο αφού δεν αναγκάζεσαι να ανοίξεις κάποιο browser αφού το κάνει μόνο του. Αποθετήριο googler: https://github.com/jarun/googler
+#### Asciinema link: https://asciinema.org/a/448904
+<a href="https://asciinema.org/a/448904" target="_blank"><img src="https://asciinema.org/a/448904.svg" /></a>
 <br />
 
 # 4ο Παραδοτέο - Συμμετοχικό περιεχόμενο Α1
@@ -71,5 +76,34 @@
 | --- | --- | --- |
 | Slides | [Διαφάνειες Κονσολών Βιντεοπαιχνιδιών(Slides)](https://github.com/p19ntar/site/blob/master/_slides/videogamesconsole.md) | [Διαφάνειες Κονσολών Βιντεοπαιχνιδιών(Slides)](https://2019215.netlify.app//slides/videogamesconsole/)
 | Timeline | [Χρονολόγιο Κονσολών Βιντεοπαιχνιδιών (Timeline)](https://github.com/p19ntar/site/blob/master/_timeline/videogamesconsole.md) | [Χρονολόγιο Κονσολών Βιντεοπαιχνιδιών (Timeline)](https://2019215.netlify.app//timeline/videogamesconsole/)
+<br />
+
+# 7ο Παραδοτέο - PacVim
+
+Στο 7ο παραδοτέο εγκατέστησα και έτρεξα το παιχνίδι PacVim, το οποίο σου μαθαίνει διάφορα vim commands. Tο αποθετήριο του παιχνιδιού είναι το εξής: https://github.com/jmoon018/PacVim.git το οποίο και έκανα git clone. Επίσης, θα ήθελα να αναφέρω πως μπορείς να διαλέξεις το επίπεδο που θες να παίξεις και πως ο τρόπος παιχνιδιού είναι αρκετά δύσκολος στην αρχή μέχρι να συνηθίσεις τι κάνουν τα κουμπιά, καθώς είναι αρκετά διαφορετικά απ΄ ότι είναι στα παιχνίδια συνήθως.
+
+| key | what it does |
+| --- | --- |
+| q   | quit the game |
+| h   | move left |
+| j   | move down |
+| k   | move up |
+| l   | move right |
+| w   | move forward to next word beginning |
+| W   | move forward to next WORD beginning |
+| e   | move forward to next word ending |
+| E   | move forward to next WORD ending |
+| b   | move backward to next word beginning |
+| B   | move backward to next WORD beginning |
+| $   | move to the end of the line |
+| 0   | move to the beginning of the line |
+| gg/1G | move to the beginning of the first line |
+| *number*G | move to the beginning of the line given by *number* |
+| G   | move to the beginning of the last line |
+| ^   | move to the first word at the current line |
+| &   | 1337 cheatz (beat current level)
+
+#### Asciinema link: https://asciinema.org/a/448902
+<a href="https://asciinema.org/a/448902" target="_blank"><img src="https://asciinema.org/a/448902.svg" /></a>
 <br />
 
