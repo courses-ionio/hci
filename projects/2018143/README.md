@@ -137,6 +137,8 @@ asciinema link : https://asciinema.org/a/447206
 
 Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/apple-watchs7-thumb.png
 
+Updating images submodule : https://asciinema.org/a/449082
+
 
 
 
