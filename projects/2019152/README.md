@@ -11,7 +11,7 @@
 | 1 | [Εισαγωγή](#Εισαγωγή) |
 | 2 | [CLI: Linux Basics](#2ο-Παραδοτέο---Command-Line-Interface---Linux-Basics) |
 | 3 | [CLI: Weather Report](#3ο-Παραδοτέο---Command-Line-Interface---Weather-Report) |
-| 4 | συμμετοχικό περιεχόμενο 1A $ |
+| 4 | [Συμμετοχικό 1Α](#4ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---Εικόνες) |
 | 5 | Άσκηση γραμμής εντολών $ |
 | 6 | συμμετοχικό περιεχόμενο 2A $ |
 | 7 | Άσκηση γραμμής εντολών $ |
@@ -134,6 +134,19 @@ echo | read | tr
 [wttr Help](https://wttr.in/:help) |
 
 
+# 4ο Παραδοτέο - Συμμετοχικό Περιέχομενο - Εικόνες
+Σε αυτό το παραδοτέο ζητήθηκε η προσθήκη κάποιων εικόνων στο online διαδραστικό βιβλίο του μαθήματος. Έπρεπε να γίνει fork του repository του site, να γίνουν οι κατάλληλες προσθήκες στα submodules που βρίσκονται οι απαραίτητες εικόνες / λεζάντες καθώς και παραμετροποιήσεις του config file. Στην συνέχεια, έγινε host της ιστοσελίδας στο Netlify. Επέλεξα να κάνω προσθήκες πάνω σε 2 καταχωρήσεις, τις οποίες μπορείτε να δείτε παρακάτω:
+
+[Εικόνα 1](https://p19pana-pibook.netlify.app//gallery/ascii-art/) | [Εικόνα 2](https://p19pana-pibook.netlify.app//gallery/msn/)
+
+Τα markdown αρχεία για την σωστή διαμόρφωση και host της ιστοσελίδας είναι διαθέσιμα στο [Site Repo](https://github.com/p19pana/site), καθώς και τα αρχεία για την καταχώρηση των εικόνων / λεζάντων, τα οποία είναι επίσης διαθέσιμα στο [Gallery Submodule](https://github.com/p19pana/_gallery) του repo του ψηφιακού βιβλίου.
+
+
+#### Εντολές / Εργαλεία / Πηγές
+
+[netlify](https://app.netlify.com)
+[gimp](https://www.gimp.org/)
+
 # Κλείσιμο
 
 #### Εντολές / Εργαλεία / Πηγές
@@ -147,7 +160,8 @@ echo | read | tr
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) |
 [The Begginer's Guide to Shell Scripting](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/) |
 [Bash Scripting Tutorial for Begginers](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) |
-
+[Git Tools - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) |
+[Mastering Git Submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407) |
 
 
 
