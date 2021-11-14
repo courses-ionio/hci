@@ -40,7 +40,12 @@
 
 ![Το logging screen του λειτουργικού](https://user-images.githubusercontent.com/44473403/141697210-f7ecd644-2da4-457b-b9e6-a4dc80c675df.png) <br><br>
 
+## ΠΑΡΑΔΟΤΕΟ 3 - Post-Installation Arch Linux
 
+Στο τρίτο παραδοτέο επιδιώκοντας να πρασουσίασω τα χαρακτηριστικά του λειτουργικού συστήματος, κατέγραψα δύο clips σε asciinema χρησιμοποιώντας την εντολή ```neofetch``` για την συνοπτική περιγραφή των χαρακτηριστικών έπειτα από εγκατάσταση και την εντολή ```journalctl -b``` για όλα τα στοιχεία. 
+
+[asciinema: neofetch](https://asciinema.org/a/449105) <br><br>
+[asciinema: journalctl](https://asciinema.org/a/hpauVSSWHuAsnH9lvea7BM407) <br> <br>
 
 
 ## Ομαδικότητα και Συνεργασία
