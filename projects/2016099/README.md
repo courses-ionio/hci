@@ -56,4 +56,14 @@
 
 <p><a href="https://github.com/DimitrisGrigoropoulosP2016099/_gallery/blob/2016099/Quantel-Paintbox.md">gallery</a></p>
 
+<h2>Aναφορές με τις ενέργειες που έγιναν για την εγκατάσταση και προσαρμογή του νέου λειτουργικού συστήματος(συνέχεια)</h2>
 
+<h3>Ηχος</h3>
+
+<p>Για τις ανάγκες του ήχου αρχικά εγκατέστησα το <a href="https://wiki.archlinux.org/title/PulseAudio">PulseAudio</a> αλλά μετά από δοκιμή , ακόμα και με διάφορα tweaks , η ποιότητα του ήχου ήταν ελλιπής γιαυτό εγκατέστησα το <a href="https://wiki.archlinux.org/title/PipeWire">PipeWire</a> & το <a href="https://pipewire.pages.freedesktop.org/wireplumber/index.html">WirePlumber</a> σαν session manager.</p>
+
+<h3>GUI</h3>
+
+<p> Σαν display server εγκατεστησα το <a href=”https://wiki.archlinux.org/title/Xorg”>Xorg</a>  και το <a href=”https://wiki.archlinux.org/title/LightDM”>LightDM</a> σαν display manager .</p>
+
+<p>Σαν desktop environment εγκατέστησα το  <a href=”https://wiki.archlinux.org/title/xfce”>xfce4 </a> με σαν επιπρόσθετο αυτό το <a href=”https://www.xfce-look.org/p/1357889”>θέμα </a></p>
