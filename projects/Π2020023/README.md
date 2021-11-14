@@ -5,7 +5,7 @@
 | --- | --- |
 | 1 | Εισαγωγή / 1ο παραδοτέο |
 | 2 | Άσκηση γραμμής εντολών / 2ο παραδοτέο |
-| 3 | - |
+| 3 | Άσκηση γραμμής εντολών / 3ο παραδοτέο |
 | 4 | - |
 | 5 | - |
 | 6 | - |
@@ -30,3 +30,11 @@
 ### [curl/wttr.in/v2.wttr.in](https://github.com/chubin/wttr.in)
 ### [Asciicast idle time](https://asciinema.org/docs/usage)
  
+# Άσκηση γραμμής εντολών / 3ο παραδοτέο
+Για την δεύτερη άσκηση γραμμής εντολών, επέλεξα ξανά απο την λίστα warm-up, να υλοποιήσω την άσκηση η οποία ζητούσε να δούμε τα επιχειρηματικά νέα (Fetch Information/Check the business news). Χρησιμοποιώντας πάλι το curl, αλλά αυτή την φορά το getnews.tech, ήμουν σε θέση να προβάλλω στο terminal μου κάποια νέα τα οποία αφορούν επιχειρήσεις, μέσω του NEWSAPI (παρόλο που δεν χρειάστηκε να πάρω κάποιο api key, η διαδικασία έγινε κανονικά), με την εντολή να είναι απλώς curl getnews.tech/business+news. Παρακάτω, παραθέτω το link του asciicast μου, καθώς και τις πηγές οι οποίες με βοήθησαν να ολοκληρώσω την άσκηση.
+ 
+### [Asciicast 3ου παραδοτέου](https://asciinema.org/a/dOpEtNRxkycIk1nNG9oY3Kmos)
+## Πηγές:
+### [curl](https://github.com/chubin/wttr.in)
+### [getnews.tech](https://github.com/chubin/awesome-console-services#News)
+### [NEWSAPI](https://newsapi.org/)
