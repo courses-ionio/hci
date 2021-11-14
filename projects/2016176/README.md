@@ -41,6 +41,20 @@
   [![asciicast](https://asciinema.org/a/448737.svg)](https://asciinema.org/a/448737)
   
 ### Repository του γραφικού περιβάλλοντος και αλλαγές που έγιναν σε αυτό
-- [Personal Build Repo](https://github.com/p16koub1/personal-build/blob/main)
+- [Personal Build Repo](https://github.com/p16koub1/personal-build/main)
 
 ![Build Preview!](https://github.com/p16koub1/personal-build/blob/main/pscr_211114012432.png)
+
+## Άσκηση γραμμής εντολών 1:
+
+### warm-up : get familiar with basic commands, reading documentation and editing files
+Πλοήγηση με τη γραμμή εντολών και το ranger, Επεξεργασία εγγράφων με το vim και εγκατάσταση και χρήση του thefuck
+[![asciicast](https://asciinema.org/a/449062.svg)](https://asciinema.org/a/449062)
+
+## Άσκηση γραμμής εντολών 2:
+
+### warm-up : check the weather
+Έλεγχος του καιρού μέσω της γραμμής εντολών, δημιουργία συντόμευσης για προβολή του καιρού σε επιλεγμένη τοποθεσία και προσθήκη της ένδειξης της θερμοκραίας στο status bar.
+![Status Bar!](https://github.com/p16koub1/hci-files/blob/main/pscr_211114174752.png)
+[![asciicast](https://asciinema.org/a/449069.svg)](https://asciinema.org/a/449069)
+
