@@ -133,9 +133,9 @@ asciinema link : https://asciinema.org/a/447206
 
 # Εικόνα 2 : Apple watch series 7
 
-Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/apple-smartwatchs7.md
+Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/apple-watchs7.md
 
-Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/apple-smartwatchs7-thumb.png
+Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/apple-watchs7-thumb.png
 
 
 
