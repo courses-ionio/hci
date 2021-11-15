@@ -137,5 +137,5 @@ https://wiki.archlinux.org/title/Dotfiles
 
 Αποθετηριο thumbnail: https://github.com/p18kana/images/blob/master/apple-macbookprom1-thumb.png
 
-
+Ενημέρωση του images submodule μεσω terminal:
 
