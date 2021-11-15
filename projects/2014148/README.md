@@ -33,6 +33,10 @@
   Αρχικά, όπως θα διαπιστώσεται και στο link του asciinema, η εγκατάσταση του λειτουργικού συστήματος έχει πραγματοποιηθεί σε virtual maschine. Το γεγονός αυτό συνέβη καθώς ήταν η πρώτη μου επαφή με οποιαδήποτε εγκατάσταση λειτουργικού linux και το θεώρησα πιο ασφαλές. Στο κοντινό μέλλον όμως ευελπιστώ να είμαι σε θέση να ανεβάσω και ένα asciinema link με εγκατάσταση σε αληθινό υλικό. 
   Όσο αφορά την διαδικασία της εγκατάστασης, αφού έγινε η εγκατάσταση του virtual maschine και το download του Arch Linux στον υπολογιστή μου έκανα format ta partitions.Στην συνέχεια δημιούργησα τα directories και έκανα mount τα partitions.Έπειτα έκανα install βασικά πακέτα όπως τα linux, linux-firmware, vim and base και δημιούργησα filesystem table.Μετά Δημιουργία hostname, timezone και system locale.Στην συνέχεια έγινε εγκατάσταση grub, efibootmgr και networkmanager καθώς και δημιουργία image και config file για το grub.Τέλος δημιούργησα το λογαριασμό με username p2014148
 
+[asciinema link](https://asciinema.org/a/449234)
+
+
+
 [Αναλυτικές οδηγίες για το περιεχόμενο των παραδοτέων και την τελική αναφορά](https://courses-ionio.github.io/help/deliverables/)
 
 [Οδηγίες για την διαδικασία αποστολής της εργασίας και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/)
