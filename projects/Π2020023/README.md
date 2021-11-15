@@ -6,7 +6,7 @@
 | 1 | Εισαγωγή / 1ο παραδοτέο |
 | 2 | Άσκηση γραμμής εντολών / 2ο παραδοτέο |
 | 3 | Άσκηση γραμμής εντολών / 3ο παραδοτέο |
-| 4 | - |
+| 4 | Συμμετοχικό περιεχόμενο 1Α / 4ο παραδοτέο |
 | 5 | - |
 | 6 | - |
 | 7 | - |
@@ -38,3 +38,28 @@
 ### [curl](https://github.com/chubin/wttr.in)
 ### [getnews.tech](https://github.com/chubin/awesome-console-services#News)
 ### [NEWSAPI](https://newsapi.org/)
+
+# Συμμετοχικό περιεχόμενο 1Α / 4ο παραδοτέο
+Στο συμμετοχικό περιεχόμενο 1Α, επέλεξα να παραθέσω εικόνες και σύντομη περιγραφή δύο συσκευών εισόδου οι οποίες γνώρισαν μεγάλη απήχηση απο το καταναλωτικό κοινό, καθώς και απο δύο εικόνες, μια σε κανονικές διαστάσεις και μια σε 160px που ήταν και το ζητούμενο, τις οποίες παραθέτω στα παρακάτω links. Πρόκειται για τις Xbox 360 Kinect και Playstation
+Move, που κυκλοφόρησαν και οι δυο το 2010. Οι συσκευές αυτές, είχαν ως σκοπό να επιτρέψουν στον παίκτη να παίζει συμβατά παιχνίδια μέσω χειρονομιών (gestures) αντί να κάνει
+χρήση του παραδοσιακού χειριστηρίου. Ειδικότερα, το Xbox 360 Kinect επέτρεπε στον χρήστη να παίξει μέσω του αισθητήρα, παιχνίδια (όποια παιχνίδια υποστήριαν χρήση του Kinect)
+χρησιμοποιοώντας μονάχα το σώμα του και χειρονομίες, ενώ υπήρχε η δυνατότητα ο παίκτης να ελέγξει την κονσόλα (πλοήγηση στο μενού για παράδειγμα) μέσω χειρονομιών και φωνητικών
+εντολών. Το Playstation Move, εν αντιθέσει, χρησιμοποιούσε δυο ειδικά χειριστήρια και μια κάμερα, με τα οποία ο παίκτης μπορούσε να παίξει υποστηριζόμενα παιχνίδια, αλλά
+όχι να ελέγξει την κονσόλα είτε μέσω χειρονομιών όπως θα μπορούσε με το Xbox 360 Kinect.
+## Links: 
+
+#### Αρχεία .md:
+### [xbox360kinect.md](https://github.com/p20sami/_gallery/blob/%CE%A02020023/xbox360kinect.md)
+### [playstationmove.md](https://github.com/p20sami/_gallery/blob/%CE%A02020023/playstationmove.md)
+
+#### Εικόνες Playstation Move, Xbox 360 Kinect σε κανονικό μέγεθος:
+### [Εικόνα Playstation Move σε κανονικό μέγεθος](https://github.com/p20sami/images/blob/%CE%A02020023/psmove.jpg)
+### [Εικόνα Xbox 360 Kinect σε κανονικό μέγεθος](https://github.com/p20sami/images/blob/master/xbox360kinect.jpg)
+ 
+#### Εικόνες Playstation Move, Xbox 360 Kinect σε μέγεθος 160px:
+### [Εικόνα Playstation Move σε μέγεθος 160px](https://github.com/p20sami/images/blob/%CE%A02020023/psmovethumb.jpg)
+### [Εικόνα Xbox 360 Kinect σε μέγεθος 160px](https://github.com/p20sami/images/blob/%CE%A02020023/xbox360thumb.jpg)
+
+## Πηγές:
+### [Xbox 360 Kinect](https://en.wikipedia.org/wiki/Kinect#Kinect_for_Xbox_360_(2010))
+### [Playstation Move](https://en.wikipedia.org/wiki/PlayStation_Move)
