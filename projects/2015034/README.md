@@ -21,6 +21,10 @@
 
 
 # <a name="B">Άσκηση γραμμής εντολών 1 (Εγκατάσταση και Warmup)</a>
+ Αυτή την εβδομάδα ασχολήθηκα κυρίως με την εγκατάσταση των Arch Linux σε ένα παλιό υπολογιστή που έχω. Για αρχή, έφτιαξα ένα usb stick bootable με το πρόγραμμα Rufus. Εν συνεχεία, με βάση το installation guide και διάφορα tutorials, έκανα τις απαραίτητες κινήσεις για να εγκαταστήσω το λειτουργικό σύστημα Arch Linux στον υπολογιστή. Επιγραμματικά, έκανα configure το internet connection μου, έκανα partitions, format και mount πάνω στον σκληρό δίσκο. Έπειτα έκανα το base install και εγκατέστησα μερικά packages που θα χρειαστώ αργότερα. Έκανα generate το fstab file, μπήκα με chroot και ρύθμισα το timezone και έφτιαξα και τα locales. Άλλαξα το hostname σε archlinux και έφτιαξα και τα hosts files. Έπειτα, έφτιαξα ένα password για το root, και έκανα install το boot loader(με pacman και grub). Μετά έκανα reboot το σύστημα μου, έβγαλα το usb stick και έκανα activate το internet connection να ανοίγει αυτόματα κάθε φορά που ανοίγω τον υπολογιστή. Έφτιαξα τον user μου με όνομα p2015034(τον Αριθμό Μητρώου μου), του έδωσα sudo rights και έβαλα password και σε αυτόν. Εγκατέστησα τα graphics drivers και το display server(xorg). Έκανα install το display manager(lxdm). Τέλος έβαλα και ένα desktop environment(xfce4). O λόγος που έβαλα xfce ήταν επειδή το σύστημα που έχω είναι αρκετά παλιό και το xfce είναι αρκετά ελαφρύ.
+ 
+ Παρακάτω παραθέτω ένα warm-up παραδοτέο που κάνω neofetch και κάνω και list τα dot files μου. Το μόνο που δεν φαίνεται έιναι το πως άλλαξα το username μου στον ΑΜ μου, επειδή αυτό έγινε κατά την διαδικασία της εγκατάστασης και δεν μπορούσα να κάνω record.
+ 
  [Asciinema Link](https://asciinema.org/a/LMjFsVWXbgGeY3eKe7FAV736A)
 
 
