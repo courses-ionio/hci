@@ -38,6 +38,8 @@
 # <a name="D">Συμμετοχικό Περιεχόμενο 1A </a>
 [Trackball image](https://github.com/p15bako/images/blob/2015034/Trackball.jpg) [Trackball thumbnail](https://github.com/p15bako/images/blob/2015034/Trackball-thumbnail.jpg) [Trackball Caption](https://github.com/p15bako/_gallery/blob/2015034/Trackball.md)
 
+[Fingerprint Scanner image](https://github.com/p15bako/images/blob/2015034/Fingerprint-Scanner.jpg) [Fingerprint Scanner thumbnail](https://github.com/p15bako/images/blob/2015034/Fingerprint-Scanner-thumbnail.jpg) [Fingerprint Scanner caption](https://github.com/p15bako/_gallery/blob/2015034/Fingerprint-Scanner.md)
+
 # <a name="E">Άσκηση γραμμής εντολών 3 (Warmup)</a>
 
 Για αυτή την άσκηση γραμμής εντολών, έφτιαξα ένα απλό journal με την εντολή jrnl, έτσι ώστε να θυμίσω στον ευατό μου μερικά από τα πράγματα που έχω να κάνω την ερχόμενη εβδομάδα.
