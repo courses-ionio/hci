@@ -6,7 +6,7 @@
 | <a href="#A">1</a> |<a href="#A">Εισαγωγή </a> |
 | <a href="#B">2</a> | <a href="#B">Άσκηση γραμμής εντολών 1 (Εγκατάσταση και Warmup)</a> |
 | <a href="#C">3</a> | <a href="#C">Άσκηση γραμμής εντολών 2 (Warmup)</a> |
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| <a href="#D">4</a> | <a href="#D">Συμμετοχικό Περιεχόμενο 1A</a> |
 | <a href="#E">5</a> | <a href="#E">Άσκηση γραμμής εντολών 3 (Warmup)</a>|
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
@@ -33,6 +33,10 @@
 Σε αυτό το παραδοτέο έκανα μία warm-up άσκηση με την εντολή curl wttr.in και βρήκα τον καιρό στην πόλη μόνιμης κατοικίας μου(Άρτα) και σε μία πόλη που θέλω πολύ να επισκεφθώ (Kyoto Ιαπωνίας).
 
 [Asciinema Link](https://asciinema.org/a/4VkGwhESQpdTOr8NNhTV0MCx1)
+
+
+# <a name="D">Συμμετοχικό Περιεχόμενο 1A </a>
+[Trackball image](https://github.com/p15bako/images/blob/2015034/Trackball.jpg) [Trackball thumbnail](https://github.com/p15bako/images/blob/2015034/Trackball-thumbnail.jpg) [Trackball Caption](https://github.com/p15bako/_gallery/blob/2015034/Trackball.md)
 
 # <a name="E">Άσκηση γραμμής εντολών 3 (Warmup)</a>
 
