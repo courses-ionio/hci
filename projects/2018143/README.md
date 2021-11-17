@@ -157,6 +157,8 @@ asciinema link : https://asciinema.org/a/449721
 
 ## Αποτελέσματα : 
 
+![config](https://github.com/p18kout/hci-images/blob/main/2018143_config.png)
+
 Πηγή :https://www.vim.org/
 
 ## Άσκηση γραμμής εντολών : check the weather (warmup) 
@@ -174,6 +176,8 @@ asciinema link : https://asciinema.org/a/449720
 • Τέλος εγγραφής terminal **exit**
 
 ## Αποτελέσματα : 
+
+![wttr.in](https://github.com/p18kout/hci-images/blob/main/2018143_wttr.png)
 
 Πηγή : https://github.com/chubin/wttr.in#usage
 
