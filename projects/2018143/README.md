@@ -9,7 +9,7 @@
 | 2 | <sup><a href="#2"> Άσκηση γραμμής εντολών :set-up the main dependencies and demonstrate your base system(warmup) </a></sup> |
 | 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών :download mp3(hci) / get familiar with basic commands, reading documentation and editing files(warmup) </a></sup> |
 | 4 | <sup><a href="#4"> συμμετοχικό περιεχόμενο 1A </a></sup> |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion(hci) / check the weather(warmup) </a></sup> |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
