@@ -67,33 +67,35 @@ Move, που κυκλοφόρησαν και οι δυο το 2010. Οι συσ�
 # Άσκηση γραμμής εντολών / 5ο παραδοτέο
 Για την άσκηση αυτή, επέλεξα να υλοποιήσω την άσκηση η οποία ζητούσε να αλλάξουμε το command prompt με τον αριθμό μητρώου μας, να δείξουμε τα dot files μας, να δείξουμε πληροφορίες για το shell καθώς και πληροφορίες για το σύστημα (λογισμικό/υλικό). Είναι της λίστας warm up, καθώς μέχρι το σημείο αυτό πιστεύω πως πρέπει να εξοικειωθώ ακόμη περισσότερο με την γραμμή εντολών, πρωτού προχωρήσω σε δυσκολότερες ασκήσεις. Ξεκινώντας λοιπόν, αρχικά άλλαξα το όνομα χρήστη, με τον αριθμό μητρώου, με την εντολή hostnamectl set-hostname, μου με δύο τρόπους. Ο ένας απαιτούσε επανεκκίνηση του συστήματος για να γίνει η αλλαγή, ενώ ο δεύτερος δεν το απαιτούσε κάποια τέτοια ενέργεια, καθώς χρησιμοποίησα την εντολή bash --login. Βέβαια, με τον τρόπο αυτόν, κάθε φορά που προσπαθούσα να βιντεοσκοπήσω κάποιο άλλο κομμάτι της άσκησης με το asciinema, το command prompt άλλαζε στο όνομα το οποίο υπήρχε πριν την αλλαγή. Παρακάτω παραθέτω τα asciicasts με τους τρόπους αλλαγής του command prompt:
 ## Χωρίς επανεκκίνηση
-###[Asciicast, αλλαγή command prompt με Α.Μ χωρίς επανεκκίνηση](https://asciinema.org/a/RTmmvbZ51XlisFlwbLARWsU9i)
+### [Asciicast, αλλαγή command prompt με Α.Μ χωρίς επανεκκίνηση](https://asciinema.org/a/RTmmvbZ51XlisFlwbLARWsU9i)
 ## Με επανεκκίνηση
-###[Asciicast, αλλαγή command prompt με Α.Μ με επανεκκίνηση (διαδικασία αλλαγής hostname)](https://asciinema.org/a/tb705pPxraUSEgiBAJJINacaC)
+### [Asciicast, αλλαγή command prompt με Α.Μ με επανεκκίνηση (διαδικασία αλλαγής hostname)](https://asciinema.org/a/tb705pPxraUSEgiBAJJINacaC)
 
-###[Asciicast, αλλαγή command prompt με Α.Μ με επανεκκίνηση (Αλλαγή hostname μετά την επανεκκίνηση)](https://asciinema.org/a/5JqepidvCh5bUruPOyXBh4Dpr)
+### [Asciicast, αλλαγή command prompt με Α.Μ με επανεκκίνηση (Αλλαγή hostname μετά την επανεκκίνηση)](https://asciinema.org/a/5JqepidvCh5bUruPOyXBh4Dpr)
 
 Στη συνέχεια, με την εντολή ls -a εμφανίσθηκαν όλα τα dot αρχεία μου, ενώ με την εντολή ls -ld .?*, εμφανίσθηκαν και τα κρυμμένα dot αρχεία μου.
 
-###[Asciicast, όλα τα dot αρχεία και τα κρυμμένα dot αρχεία](https://asciinema.org/a/yx3de7qe7Z5tu9VGuaDj3cgqg)
+### [Asciicast, όλα τα dot αρχεία και τα κρυμμένα dot αρχεία](https://asciinema.org/a/yx3de7qe7Z5tu9VGuaDj3cgqg)
  
-Μετά τα dot αρχεία, ζητήθηκε να προβάλλουμε πληροφορίες για το shell. Αυτό έγινε δυνατό μέσω της εντολής nano ~/.bashrc και χάρη στον text editor nano, ενώ πρόβαλλα επίσης και το αρχείο με τον προσωπικό χρήστη με την εντολή nano /etc/profie, όπως φαίνεται στο παρακάτω asciicast
+Μετά τα dot αρχεία, ζητήθηκε να προβάλλουμε πληροφορίες για το shell. Αυτό έγινε δυνατό μέσω της εντολής vim ~/.bashrc και χάρη στον text editor vim, ενώ πρόβαλλα επίσης και το αρχείο με τον προσωπικό χρήστη με την εντολή vim /etc/profile, όπως φαίνεται στο παρακάτω asciicast
  
-###[Asciicast, πληροφορίες shell και προσωπικού χρήστη](https://asciinema.org/a/ujOVLUF9r9tC3NkfNLBsvgrXo)
+### [Asciicast, πληροφορίες shell και προσωπικού χρήστη](https://asciinema.org/a/4thxderlNVj98NSjvPCGSWJw9)
  
 Κλείνοντας, η άσκηση ζητούσε να δείξουμε πληροφορίες που αφορούν το σύστημα μας, απο πλευράς υλικού και λογισμικού. Αυτό έγινε δυνατό μέσα απο πληθώρα εντολών. Αρχικά χρησιμοποίησα την εντολή uname η οποία εμφάνισε το όνομα του λειτουργικού συνοδευόμενη απο τα flags -n (network hostname) -v (πληροφορίες kernel) -r (πληροφορίες έκδοσης kernel) -m (αρχιτεκτονική συστήματος) -a (εκτύπωση όλων των πληροφοριών μαζί). Χρησιμοποίησα επίσης τις εντολές lscpu (πληροφορίες σχετικά με τον επεξεργαστή) και lspci (πληροφορίες συνδεδεμένων pci συσκευών, όπως κάρτες γραφικών για παράδειγμα). Τέλος χρησιμοποίησα την εντολή neofetch, η οποία προβάλλει πληροφορίες σχετικά με το λογισμικό και το υλικό του συστήματος.
  
-###[Asciicast, πληροφορίες υλικού και λογισμικού](https://asciinema.org/a/p2Ol89F9KVwLXsCmHLt99UBl6)
+### [Asciicast, πληροφορίες υλικού και λογισμικού](https://asciinema.org/a/p2Ol89F9KVwLXsCmHLt99UBl6)
  
-Παρακάτω, παραθέτω τις πηγές τις οποίες χρησιμοποίησα:
+## Παρακάτω, παραθέτω τις πηγές τις οποίες χρησιμοποίησα:
  
-###[uname και flags, lspcu, lspci](https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/)
+### [uname και flags, lspcu, lspci](https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/)
 
-###[Προβολή κρυμμένων και μή αρχείων dot](https://askubuntu.com/questions/468901/how-to-show-only-hidden-files-in-terminal)
+### [Προβολή κρυμμένων και μή αρχείων dot](https://askubuntu.com/questions/468901/how-to-show-only-hidden-files-in-terminal)
  
-###[Αλλαγή ονόματος χρήστη](https://www.2daygeek.com/linux-change-set-hostname/)
+### [Αλλαγή ονόματος χρήστη](https://www.2daygeek.com/linux-change-set-hostname/)
  
-###[Αλλαγή ονόματος χρήστη χωρίς επανεκκίνηση](https://www.gnu.org/software/bash/manual/html_node/Invoking-Bash.html)
+### [Αλλαγή ονόματος χρήστη χωρίς επανεκκίνηση](https://www.gnu.org/software/bash/manual/html_node/Invoking-Bash.html)
  
-###[Πληροφορίες shell](https://askubuntu.com/questions/127056/where-is-bashrc)
+### [Πληροφορίες shell και προσωπικού χρήστη](https://askubuntu.com/questions/127056/where-is-bashrc)
+
+### [neofetch](https://linuxhint.com/what-is-neofetch-for-linux/)
 
