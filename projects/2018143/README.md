@@ -38,19 +38,19 @@ asciinema link : https://asciinema.org/a/446263
 
 Διαδικασία :
 
-Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
+• Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
 
-List αρχείων με την εντολή **ls**
+• List αρχείων με την εντολή **ls**
 
-List κρυφών αρχείων με την εντολή **ls -a**
+• List κρυφών αρχείων με την εντολή **ls -a**
 
-Προβολή του base system με την εντολή **neofetch**
+• Προβολή του base system με την εντολή **neofetch**
 
-Εγκατάσταση πακέτου dotfiles με την εντολή **pip install dotfiles**
+• Εγκατάσταση πακέτου dotfiles με την εντολή **pip install dotfiles**
 
-Aνάγνωση διαθέσιμων εντολών του παραπάνω πακέτου **dotfiles -h**
+• Aνάγνωση διαθέσιμων εντολών του παραπάνω πακέτου **dotfiles -h**
 
-Τέλος εγγραφής terminal **exit**
+• Τέλος εγγραφής terminal **exit**
 
 Πηγή :
 
@@ -72,19 +72,19 @@ asciinema link : https://asciinema.org/a/444197
 
 Διαδικασία : 
 
-Λήψη πακέτου youtube-dl  **sudo pacman -S youtube-dl**
+• Λήψη πακέτου youtube-dl  **sudo pacman -S youtube-dl**
 
-Λήψη πακέτου mpg123 **sudo pacman -S mpg123**
+• Λήψη πακέτου mpg123 **sudo pacman -S mpg123**
 
-Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
+• Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
 
-Aναζήτηση και λήψη κομματιού **youtube-dl -x --audio-format mp3 "ytsearch:donda"**
+• Aναζήτηση και λήψη κομματιού **youtube-dl -x --audio-format mp3 "ytsearch:donda"**
 
-Μετακίνηση στο location του αρχείου **cd Desktop**
+• Μετακίνηση στο location του αρχείου **cd Desktop**
 
-Αναπαραγωγή κομματιού **mpg123 donda.mp3**
+• Αναπαραγωγή κομματιού **mpg123 donda.mp3**
 
-Τέλος εγγραφής terminal **exit**
+• Τέλος εγγραφής terminal **exit**
 
 Πηγή : https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
 
@@ -99,21 +99,21 @@ asciinema link : https://asciinema.org/a/447206
 
 Διαδικασία : 
 
-Λήψη πακέτου **sudo pacman -S man**
+• Λήψη πακέτου **sudo pacman -S man**
 
-Λήψη πακέτου **pip install thefuck**
+• Λήψη πακέτου **pip install thefuck**
 
-Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
+• Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
 
-Προβολή manual vim **man vim**
+• Προβολή manual vim **man vim**
 
-Προβολή του base system **neofetch**
+• Προβολή του base system **neofetch**
 
-Προβολή manual man **man man**
+• Προβολή manual man **man man**
 
-Διόρθωση λανθασμένης εντολής **fuck**
+• Διόρθωση λανθασμένης εντολής **fuck**
 
-Τέλος εγγραφής terminal **exit**
+• Τέλος εγγραφής terminal **exit**
 
 Πηγή :https://github.com/nvbn/thefuck
 
@@ -138,6 +138,44 @@ asciinema link : https://asciinema.org/a/447206
 Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/apple-watchs7-thumb.png
 
 Updating images submodule : https://asciinema.org/a/449082
+
+##### [5]
+
+## Άσκηαη γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion (hci) 
+
+asciinema link : https://asciinema.org/a/449721
+
+Διαδικασία : 
+
+• Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
+
+• Εγκατάσταση απαραίτητων πακέτων **sudo pacman -S vim** , **sudo pacman -S vi**
+
+• Επεξεργασία του αρχείου config **sudo vi /home/p2018143/config**
+
+• Τέλος εγγραφής terminal **exit**
+
+## Αποτελέσματα : 
+
+Πηγή :https://www.vim.org/
+
+## Άσκηση γραμμής εντολών : check the weather (warmup) 
+
+asciinema link : https://asciinema.org/a/449720
+
+Διαδικασία :
+
+• Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
+
+• Εγκατάσταση απαραίτητων πακέτων **sudo pacman -S curl**
+
+• Προβολή στοιχείων καιρού της πόλης μου **curl wttr.in/Karditsa**
+
+• Τέλος εγγραφής terminal **exit**
+
+## Αποτελέσματα : 
+
+Πηγή : https://github.com/chubin/wttr.in#usage
 
 
 
