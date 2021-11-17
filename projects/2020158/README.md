@@ -33,7 +33,7 @@
 
 Το τελικό αποτέλεσμα βρίσκεται στον ακόλουθο σύνδεσμο: https://codepen.io/rix_ow/pen/JjywQrX
 
-
+Σύνδεσμοι Πηγών: https://postimages.org, https://logos-world.net, http://www.stickpng.com, https://simsettlements.com, https://www.teahub.io
 
 
 
@@ -43,10 +43,4 @@
 
 # Βιβλιογραφία
 
-Σύνδεσμοι Πηγών
 
-https://www.teahub.io/ wallpaper
-https://simsettlements.com/ logo2
-http://www.stickpng.com/ front
-https://logos-world.net/ logo1
-https://postimages.org/ img
