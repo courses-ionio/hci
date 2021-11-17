@@ -29,17 +29,11 @@
 
 # 3D Image
 
-Για το 2ο παραδοτέο επέλεξα να ασχοληθώ με την δημιουργία μιας 3D Image. Χρειάστηκε να κάνω ορισμένες τροποποιήσεις στον κώδικα, όπως αλλαγή μεγέθους των εικόνων.
+Για το 2ο παραδοτέο επέλεξα να ασχοληθώ με την δημιουργία μιας 3D Image. Ακολούθησα τα εξής βήματα. Αρχικά, διάλεξα το θέμα της εικόνας. Κατέληξα στο παιχνίδι Skyrim της Bethesda Games. Έπειτα, έψαξα και βρήκα ένα background, μια σχετική εικόνα, το logo του παιχνιδιού και εκείνο της publisher. Χρειάστηκε να κάνω ορισμένες τροποποιήσεις στο μέγεθος των εικόνων. Τέλος, τροποποίησα τον κώδικα.
 
 Το τελικό αποτέλεσμα βρίσκεται στον ακόλουθο σύνδεσμο: https://codepen.io/rix_ow/pen/JjywQrX
 
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="yNmMLO" data-user="sckarolos" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/sckarolos/pen/yNmMLO">
-  GTA 5 CSS3 Parallax</a> by sckarolos (<a href="https://codepen.io/sckarolos">@sckarolos</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async type="text/javascript" src="https://cpwebassets.codepen.io.assets/embed/ei.js"></script>
 
 
 
