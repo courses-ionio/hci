@@ -1,5 +1,4 @@
 # ΜΑΘΗΜΑ: ΕΠΙΚΟΙΝΩΝΙΑ ΑΝΘΡΩΠΟΥ - ΥΠΟΛΟΓΙΣΤΗ
-
 ### Ονοματεπώνυμο: Γεώργιος Ελευθεριάδης 
 ### Αριθμός μητρώου: Π-2020064
 ### GitHub profile: [GeorgiosEleftheriadis](https://github.com/GeorgiosEleftheriadis)
@@ -9,10 +8,9 @@
 ## Πίνακας Περιεχομένων - Παραδοτέων
 | Εβδομάδα* | Παραδοτέο |
 | --------- | --------- |
-|     1     | [Εισαγωγή, περιγραφή των αναγκών και των στόχων μου απο το μάθημα](#εισαγωγή)         | 
-|     1     | [Arch Linux installation - Warm up ασκήσεις γραμμής εντολών](#arch-linux-installation)|
-|     2     |                                                                                                                           |
-
+|     1     | [Εισαγωγή, περιγραφή των αναγκών και των στόχων μου απο το μάθημα](#εισαγωγή)         											     | 
+|     1     | [Arch Linux installation - Warm up ασκήσεις γραμμής εντολών](#arch-linux-installation)											     |
+|     2     | [Άσκηση γραμμής εντολών - text editor and plug-ins for code highlighting and autocompletion](#2ο-παραδοτέο---text-editor-and-plug-ins-for-code-highlighting-and-autocompletion)|
 <br />
 
 ## Εισαγωγή
@@ -28,7 +26,7 @@
 <br />
 Κατά την εγκατάσταση προσπάθησα να ακολουθήσω τον [οδηγό εγκατάστασης](https://wiki.archlinux.org/title/installation_guide) στα Wiki των Arch Linux, ωστόσο κατέφυγα και σε δημόσια βίντεο στην διαδικτυακή πλατφόρμα του YouTube αλλά και σε σχετικά forums, όταν αντιμετώπιζα προβλήματα ή δεν καταλάβαινα μερικές διαδικασίες. <br />
 <br />
-Τα βήματα που ακολουθήθηκαν -περιγραφικά πάντα- ήταν: 
+Όπως και στα περισσότερα linux distributions, έτσι και για το Arch, τα βήματα που ακολουθήθηκαν -περιγραφικά πάντα- ήταν: 
 <br />
 
 - H λήψη ενός ISO image απο την αντίστοιχη ενότητα [Downloads](https://archlinux.org/download/) -συγκεκριμένα επέλεξα το προσφερόμενο ISO από τον server του Μετσόβιου Πολυτεχνείου-.
@@ -71,10 +69,120 @@
 To journalctl είναι η υπηρεσία με την οποία έχουμε πρόσβαση στο περιεχόμενο του systemd Journal, το option -b by default θα μας εμφανίσει τα αρχεία καταγραφής του τρέχοντος boot και στην συνέχεια την έξοδο απο αυτήν την εντολή την περνάμε κάνοντας piping ( | ) σαν είσοδο στην εντολή less με το option -N, η οποία θα διαβάσει τα περιεχόμενα του αρχείου σελίδα προς σελίδα ώστε να μην φορτώσει όλο το αρχείο στην μνήμη, θα κάνει wrap τις γραμμές που είναι πολύ μεγάλες και θα τις συνεχίσει στην επόμενη γραμμή(αυτές είναι μερικές απο τις πολλές λειτουργίες της), ενώ το option -N θα απαριθμήσει τις γραμμές του περιεχομένου.
 <br />
 
-Για να εμφανίσω τα χαρακτηριστικά του συστήματος μου, κατέβασα με την εντολή sudo pacman -S το πακέτο [neofetch](https://archlinux.org/packages/community/any/neofetch), και εκτέλεσα την εντολή:  
+Για να εμφανίσω τα χαρακτηριστικά του συστήματος μου(υλικό - λογισμικό), κατέβασα με την εντολή **sudo pacman -S neofetch** το πακέτο [neofetch](https://archlinux.org/packages/community/any/neofetch), και εκτέλεσα την εντολή:  
 
 - neofetch
 
 **Asciinema links:**
 - boot log https://asciinema.org/a/448530
 - system info https://asciinema.org/a/448529
+
+## Warmup Ασκήσεις γραμμής εντολών
+Μία απο τις ανάγκες μου απο αυτό το μάθημα όπως και αναφέρω και στην εισαγωγή μου, είναι να εξοικειωθώ με την Διεπαφή Γραμμής Εντολών. Για τον λόγο αυτό, θεωρώ πρέπον το να ασχολούμε τακτικά και με όσες περισσότερες [warmup ασκήσεις γραμμής εντολών](https://github.com/epidrome/dokey#warmup) μπορώ και να παρουσιάζω στην αναφορά αυτήν -την οποία θα ενημερώνω τακτικά- τις διαδικασίες που ακολούθησα για την επίλυσή τους. Παράλληλα και με τις ασκήσεις της ενότητας [HCI](https://github.com/epidrome/dokey#hci), πιστεύω πως στο τέλος η ανάγκη μου αυτή θα καλυφθεί σε έναν πολύ ικανοποιητικό βαθμό και θα έχω και την ευκαιρία επίσης να δείξω και σε εσάς τα βήματα που ακολούθησα και την πρόοδο που έκανα όλο αυτό το -σχετικά σύντομο- χρονικό διάστημα.
+
+### Άσκηση 1: Setup the main dependencies and demonstrate your base system 
+Τα παραδοτέα της warmup άσκησης αυτής, ζητούν την αλλαγή του command prompt με τον αριθμό μητρώου μου, την επίδειξη των dot files, την επίδειξη του shell configuration file και την εμφάνιση των χαρακτηριστικών του συστήματός μου.<br />
+
+#### Command Prompt 
+Για να αλλάξω το command prompt από το default στον αριθμό μητρώου μου, έπρεπε να κάνω edit την αντίστοιχη ρύθμιση στο shell configuration file, στην δικιά μου περίπτωση στο configuration file του bash. Χρησιμοποιώντας ton text editor vim τον οποίο έχω εγκαταστήσει, άνοιξα το configuration file με την εντολή **vim .bashrc** . By default, το shell εμφανίζει το command prompt μου στην μορφή [\u@\h \W], όπου \u είναι το username του τρέχοντος συνδεδεμένου χρήστη, ο χαρακτήρας @ εμφανίζεται αυτούσιος, το \h είναι το hostname του συστήματος και το \W το τρέχον directory. Έτσι λοιπόν, το default command prompt μου είχε την μορφή **[darklord@P2020064 ~]**. Άρα, αυτό που έπρεπε να κάνω, ήταν να βρω που ορίζεται το prompt στο configuration file του bash και μιάς και το hostname του συστήματος ήταν ο αριθμός μητρώου μου, να αλλάξω την μορφή του prompt σε [\h \W], ώστε να εμφανίζεται μόνο ο AM και το τρέχον directory. Μέσα στο αρχείο .bashrc, η εμφάνιση του prompt οριζόταν στην Shell μεταβλητή PS1, την οποία και έκανα edit. Στην συνέχεια και αφού αποθήκευσα τις αλλαγές μου, έκανα source το αρχείο με την εντολή **source ~/.bashrc**, ώστε να κάνω refresh τις αλλαγές στο τρέχον terminal.
+
+**Αsciinema Links:**
+- bash edit and source changes | https://asciinema.org/a/448834
+
+#### Dot files
+Τα dot files ή αλλιώς hidden files (κρυφά αρχεία) είναι αρχεία τα οποία -συνήθως- αντιπροσωπεύουν τα configuration files των εφαρμογών του εκάστοτε χρήστη, όπως π.χ είδαμε και πριν το αρχείο .bashrc, το οποίο αντιπροσωπεύει το configuration file του bash. Για να κάνω display τα κρυφά αυτά αρχεία, έκανα pipe τις εντολές **ls -A | grep '^\.'**. Ουσιαστικά, η εντολή **ls -A** μας εμφανίζει όλα τα files στο τρέχον directory συμπεριλαμβανομένου των dot files. Στην συνέχεια, την έξοδο αυτής της εντολής, την περνάμε σαν είσοδο στo grep, το οποίο είναι ένα εργαλείο αντιστοίχισης προτύπων και το οποίο θα αναλάβει να μας βρει κάθε αρχείο το οποίο αρχίζει με τελεία και να μας το εκτυπώσει. Στην προκειμένη περίπτωση, μέσα στα εισαγωγικά, το σύμβολο ( ^ ) αντιστοιχίζει στην αρχή κάθε γραμμής, το σύμβολο ( \ ) στην αρχή κάθε λέξης και τέλος η τελεία είναι ο χαρακτήρας που αντιστοιχίζεται. Με αυτόν τον τρόπο καταφέρνουμε να κάνουμε display μόνο τα dot files μας ομοιόμορφα. Ωστόσο, το πρόβλημα που προκύπτει είναι πως το να γράφουμε μια τέτοια εντολή κάθε φορά που θέλουμε να κάνουμε display τα dot files σε ένα directory, δεν είναι τόσο βολικό. Γα τον λόγο αυτό αλλά και πέφτοντας πάνω στην έννοια των "[Aliases](https://wiki.archlinux.org/title/bash#Aliases)", τα οποία μας επιτρέπουν να αντικαταστήσουμε μια συμβολοσειρά με μία άλλη -την ονομασία ενός command με μια δικιά μας-, αποφάσισα να αντιστοιχίσω την συγκεκριμένη εντολή σε ένα δικό μου alias ονόματι **lsdot**, το οποίο θεωρώ πως είναι πιο εύχρηστο μνημονικά. Για να το πετύχω αυτό, άνοιξα πάλι το configuration file του bash με τον text editor vim, και πρόσθεσα την γραμμή<br /> **alias lsdot=$'ls -A | grep \\'^\.\\''**. Ιδιαίτερης προσοχής χρίζει το γεγονός πως πρέπει να προσέξουμε να κάνουμε σωστά escape τα μονά quotes χρησιμοποιώντας μπροστά απο αυτά καθέτους ( \ ).
+
+**Asciinema LInks:**
+- ls -A | grep '^\\.' command | https://asciinema.org/a/448836
+- create alias lsdot and test | https://asciinema.org/a/448838
+
+#### Shell configuration file 
+Το τρίτο παραδοτέο αυτής της άσκησης, μας ζητά να επιδείξουμε το configuration file του Shell μας, στην δικιά μου περίπτωση του bash, δηλαδή το αρχείο **.bashrc**. Υπάρχουν αρκετοί τρόποι ώστε να εμφανίσουμε τα περιεχόμενα ενός αρχείου, για τον λόγο αυτό αποφάσισα να χρησιμοποιήσω τρεις. Ο πρώτος τρόπος ήταν απλά να ανόιξω το αρχείο με τον text editor μου, χρησιμοποιώντας την εντολή **vim .bashrc**, ώστε να δείξω τα περιεχόμενά του. Ο δεύτερος τρόπος που χρησιμοποίησα ήταν η εντολή **cat -n .bashrc**. Η εντολή cat διαβάζει τα περιεχόμενα ενός αρχείου και τα εμφανίζει στο standard output. Το option -n που χρησιμοποίησα αριθμεί τις γραμμές του αρχείου, δίνοντας ένα ωραιότερο οπτικά αποτέλεσμα. Η τρίτη εντολή που χρησιμοποίησα ήταν η εντολή **less .bashrc**. H εντολή αυτη όπως περιέγραψα και στο υποκεφάλαιο 'Τεκμηρίωση εγκατάστασης', διαβάζει εμφανίζει τα περιεχόμενα ενός αρχείου σελίδα-σελίδα. Αν και δεν υπήρχε κάποιος ουσιαστικός λόγος να την χρησιμοποιήσω εδώ μιας και το περιεχόμενο του αρχείου είναι μικρού εύρους, δεν έχω να χάσω και κάτι αναφέροντας την, καθώς είναι και αυτός ένας τρόπος να εμφανίσουμε τα περιεχόμενα του, που είναι όμως ιδιαίτερα βολικός όταν το περιεχόμενο είναι πολύ μεγάλο, όπως είδαμε π.χ στην εντολή **journalctl**.
+
+**Asciinema Links:**
+- ways of displaying bash config | https://asciinema.org/a/448840
+
+#### System info 
+Την επίδειξη των χαρακτηριστικών του συστήματος μου την περιέγραψα και στο υποκεφάλαιο 'Τεκμηρίωση εγκατάστασης', όπου χρησιμοποίησα την εντολή neofetch. Ωστόσο εδώ θα ήθελα να αναφέρω και ένα άλλο βοήθημα, το πακέτο [lshw](https://archlinux.org/packages/community/x86_64/lshw), το οποίο παρέχει αναλυτικές πληροφορίες για το hardware του υπολογιστή. Χρησιμοποίησα την εντολή **sudo pacman -S lshw** για να εγκαταστήσω το πακέτο αυτό, και στην συνέχεια έκανα pipe τις εντολές **sudo lshw -short | less**. Η εντολή lshw με το option -short θα εμφανίσει περιγραφικά και σε ποιο human-readable μορφή τα χαρακτηριστικά του υλικού του υπολογιστή μου και την είσοδο στην εντολή less την χρησιμοποίησα για να μπορώ να περιηγηθώ ευκολότερα στο περιεχόμενο αυτό.
+
+**Asciinema Links:**
+- general system info with neofetch | https://asciinema.org/a/448529
+- hardware info with lshw | https://asciinema.org/a/448843
+
+#### Δικτυογραφία 1ης Warmup Άσκησης
+[how to customzie and colorize your bash prompt](https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt) | [How to Change / Set up bash custom prompt (PS1) in Linux](https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html) | [how can i grep hidden files](https://www.generacodice.com/en/articolo/4194053/how-can-i-grep-hidden-files) | [5 Commands to View the Content of a File in Linux Command Line](https://linuxhandbook.com/view-file-linux) | [lshw](https://linux.die.net/man/1/lshw) | [how to install and use neofetch](https://www.makeuseof.com/how-to-install-and-use-neofetch) | [10 Commands to Collect System and Hardware Info in Linux](https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux) | [How to Create and Use Alias Command in Linux](https://www.tecmint.com/create-alias-in-linux) | [cat manual pages](https://man.archlinux.org/man/cat.1.en) | [less manual pages](https://man.archlinux.org/man/less.1.en).
+
+
+## 2ο παραδοτέο - text editor and plug-ins for code highlighting and autocompletion
+Για το δεύτερο παραοδοτέο της αναφοράς μου, επέλεξα να κάνω την 2η άσκηση της ενότητας [HCI](https://github.com/epidrome/dokey#hci), η ποία ζητούσε να κάνουμε edit το config file του text editor μας ή του shell και να προσθέσουμε λειτουργίες όπως είναι το autocompletion, to code highlighting κ.α. Επέλεξα να παραμετροποιήσω το config file του modal text editor Vim που χρησιμοποιώ, ώστε να το φέρω πιο κοντά στα δικά μου πρότυπα αλλά και να μπορέσω να τον χρησιμοποιήσω για μια πιο εύχρηστη συγγραφή γλώσσας προγραμματισμού (αρχικά για Python ) και γενικότερα μιας και είναι τελείως customizable, να μπορέσω με το πέρασμα του χρόνου να το κάνω να διαθέτει λειτουργίες των σύγχρονων περιβαλλόντων ανάπτυξης, με ότι συνεπάγεται αυτό, όσον αφορά την απόκτηση γνώσεων και δεξιοτήτων. Αρχικά, έπρεπε να σκευτώ ποιές πρώιμες ανάγκες μου θέλω το vim να μπορεί να εξυπηρετεί, και κατέληξα στα εξής: 
+
+- Θα ήθελα ο text editor μου να είναι καλαίσθητος οπτικά
+- Θα ήθελα να μπορεί να μου δίνει την δυνατότητα να περιηγούμαι και να ανοίγω εύκολα μέσα σε αυτόν διάφορα αρχεία του συστήματος μου χρησιμοποιώντας έναν π.χ. tree file explorer.
+- Θα ήθελα να μου δίνει την δυνατότητα να μπορώ να συγγράψω κώδικα με βοηθητικές λειτουργίες όπως π.χ. το autocompletion, code-bracket highlighting, syntax checking κ.α. 
+
+Έτσι, αφού διευκρίνησα τις ανάγκες μου, ξεκίνησα να κάνω edit το configuration file του vim. By default, το global system configuration file του vim ονόματι **.vimrc** βρίσκεται στο directory **$HOME/etc**. Ωστόσο, το να επεξεργαστούμε το system config δεν είναι καλή πρακτική, καθώς μετά οι αλλαγές εκεί θα ισχύουνε για όλους τους χρήστες του συστήματος, για τον λόγο αυτό δημιούργησα το δικό μου user-specific config file, το οποίο θα διαβάζει o text editor κατά την εκκίνησή του -ψάχνει και διαβάζει αυτόματα τόσο το system όσο και το user specific config file-.
+ 
+Για να δημιουργήσω το config file, άνοιξα ένα καινούργιο αρχείο ονόματι **.vimrc** στο home directory με την εντολή **vim ~/.vimrc**. Αρχικά, πρόσθεσα κάποιες βασικές εντολές, τις οποίες θα αρκεστώ στο να τις αναφέρω περιγραφικά: 
+- **set nocompatible**. Η εντολή αυτή χρησιμεύει ώστε να φορτωθούν όλες οι βελτιωμένες λειτουργίες του Vim, καθώς by default οι λειτουργίες του είναι συμβατές με την παλαιότερη έκδοσή του (Vi)
+- **set cursorline**. Η εντολή αυτή θα κάνει highlight την γραμμή στην οποία βρίσκεται ο κέρσοράς μου. 
+- **set wildmenu**. Η εντολή αυτή θα μου επιτρέψει να πατάω το Tab ώστε να έχω autocompletion sto command line του Vim.
+- **set belloff=all**. Η εντολή αυτή θα απενεργοποιήσει τα error sounds όταν π.χ φτάνουμε στο τέλος μιας γραμμής.
+- **set autoindent**. Αυτόματο identation. 
+- **set smartindent**. Περίπου ίδια λειτουργία με το autoindent, ωστόσο λαμβάνει υπόψιν και το συντακτικό στύλ της γλώσσας προγραμματισμού, βάση της κατάληξης του αρχείου. 
+- **set tabstop=8**. Η εντολή αυτή λέει στον Vim ποιό θα είναι το μήκος του Tab σε spaces. Στην προκειμένη 8.
+- **set softtabstop=4**. Η εντολή αυτή λέει στον vim ποιο θα είναι το μήκος του Tab όταν εκτελούμε editing διεργασίες.
+- **set shiftwidth=4**. Η εντολή αυτή λέει στον Vim ποιό θα είναι το μήκος του Tab όταν έχουμε autoidentation.
+- **set noexpandtab**. Η εντολή αυτή λέει στο Vim να χρησιμοποιεί Tab αντί για spaces.
+- **set nu**. Η εντολή αυτή αριθμεί τις γραμμές των αρχείων.
+- **set smartcase**. Case-sensitive αναζήτηση.
+- **set incsearch**. Top-down αύξουσα αναζήτηση. 
+- **set hlsearch**. Highlight των αποτελεσμάτων κατά την αναζήτηση. 
+- **set fletype plugin on**. Η εντολή αυτή εκτελεί filetype-specific scripts αυτόματα.
+- **set syntax enable**. Η εντολή αυτή ενεργοποιεί το default syntax highlight που διαθέτει ο Vim.
+
+Αυτές ήταν κάποιες βασικές λειτουργίες, οι οποίες ουσιαστικά μου επέτρεψαν να έχω ένα proper automatic identation καθώς γράφω τον κώδικά μου, να έχω syntax highlight, να μπορώ να διευκολύνω την αναζήτηση μέσα στο αρχείο κάνοντας highlight τα αποτελέσματα και να μπορώ να κάνω autocomplete στο command line του Vim, δίνοντας έτσι μια νέα διάσταση στην οπτική και σε κάποιες απο τις λειτουργίες του editor. Στην συνέχεια, για να προσθέσω διάφορα plug-ins τα οποία θα ήθελα, έπρεπε πρώτα να εγκαταστήσω έναν [Plug-in manager](https://www.linux-magazine.com/Issues/2020/230/Vim-Housekeeping). Μέσα απο την πληθώρα των διάφορων Plug-in managers που υπάρχουνε, αποφάσισα να εγκαταστήσω τον [vim-plug](https://github.com/junegunn/vim-plug), καθώς η διαδικασία της εγκατάστασης και της μετέπεια χρήσης του μου φάνηκε αρκετά εύκολη. Για να τον εγκαταστήσω, ακολούθησα τις οδηγίες στο αντίστοιχο [installation manual](https://github.com/junegunn/vim-plug#installation). Αφού λοιπόν πλέον είχα και έναν Plug-in manager, έπρεπε στην συνέχεια να βρώ διάφορες προσθήκες, οι οποίες θα καλύπτανε τις ανάγκες που όρισα παραπάνω. 
+
+Για το καλαίσθητο οπτικά κομμάτι, αποφάσισα να προσθέσω διάφορα colorschemes - συγκεκριμένα δοκίμασα τα [gruvbox](https://github.com/morhetz/gruvbox), [PaperColor](https://github.com/NLKNguyen/papercolor-theme), [badwolf](https://github.com/sjl/badwolf) και [onedark](https://github.com/joshdick/onedark.vim) - και κατέληξα εν τέλει στο badwolf. Επίσης, ήθελα να δώσω και ένα νέο look στο statusline του editor μου, γι αυτό αποφάσισα να εγκαταστήσω και το Plug-in [lightline](https://github.com/itchyny/lightline.vim). Στο τελευταίο συγκεκριμένα, μετά το installation και αφού έκανα source το αρχείο, είδα πως δεν είχε φορτωθεί το νέο look στο statusline, πρόβλημα το οποίο λύθηκε προσθέτοντας την εντολή **set laststatus=2** στο **.vimrc**, όπως αναγράφεται και στις [οδηγίες](https://github.com/itchyny/lightline.vim#introduction) στο αποθετήρίο.
+
+Για το κομμάτι του system file explorer, αποφάσισα να κατεβάσω το Plug-in [Nerd Tree](https://github.com/preservim/nerdtree). By default μετά το installation, ο τρόπος για να ανοίξω τον file explorer ήταν πατώντας την εντολή **:NERDTree** στο command line του Vim, κάτι το οποίο όμως δεν ήταν και τόσο βολικό, γι αυτό και έκανα map το άνοιγμά του στο κουμπί F1, προσθέτοντας την εντολή **nnoremap \<F1\> \:NERDTreeToggle\<CR\>** στο αρχείο **.vimrc**, όπως αναγράφεται και στις σχετικες [οδηγίες](https://github.com/preservim/nerdtree#frequently-asked-questions).
+
+Για το κομμάτι της υποβοήθησης της συγγραφής κώδικα, αποφάσισα να προσθέσω τα Plug-ins [jedi-vim](https://github.com/davidhalter/jedi-vim) για python autocompletion , [python-syntax](https://github.com/vim-python/python-syntax) για ενισχυμένο python syntax highlight - αν και εδώ δεν είδα κάποια τρομερή διαφορά σε σχέση με αυτό που προσέφερε by default το vim -, [syntastic](https://github.com/vim-syntastic/syntastic) για syntax checking, [auto-pairs](https://github.com/jiangmiao/auto-pairs) ώστε όταν ανοίγω παρενθέσεις, αγκύλες, εισαγωγικά κ.α. να εμφανίζεται αυτόματα και το ζέυγος τους και [vim-rainbow](https://github.com/frazrepo/vim-rainbow) για highlight των παρενθέσεων, των brackets και των υπολοιπων συναφούς συμβόλων.
+
+Επιπλεόν, κατέβασα το [vim-man](https://github.com/vim-utils/vim-man), ώστε να μπορώ να έχω πρόσβαση σε [manual pages](https://linux.die.net/man) ανα πάσα στιγμή μέσα απο το command line του Vim.
+
+### Περαιτέρω
+
+Ένα πρόβλημα που είχα με to jedi-vim ήταν πώς όταν εισήγαγα τις παραμέτρους σε μία συνάρτηση, μου εμφάνιζε τα function call signatures με έναν κατ' εμέ ενοχλητικό pop-up τρόπο, όπως φένεται και παρακάτω:
+
+<p align= "center">
+<img src="https://github.com/GeorgiosEleftheriadis/HCI-Pictures-Gifs/blob/main/2%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/jedi_fail.png">
+</p>
+
+Για να λυθεί το πρόβλημα αυτό, όπως αναφέρεται και στις σχετικές οδηγίες [εδώ](https://github.com/davidhalter/jedi-vim#settings), πρόσθεσα στο **.vimrc** την εντολή **let g\:jedi1#show_call_signatures = \"2\"**, ώστε τα signatures να εμφανίζονται στο command line του Vim.
+
+Όσων αφορά το Plug-in python-syntax, πρόσθεσα στο **.vimrc** την εντολή **let g\:python_highlight_all = 1**, για να ενεργοποίησω όλα τα highlight features.
+
+Για το syntastic, πρόσθεσα **.vimrc** τα [recommended settings](https://github.com/vim-syntastic/syntastic#3-recommended-settings) που περιγράφονται στο αποθετήριο. Καθώς το syntastic χρησιμοποιεί external syntax checkers, επέλεξα να κατεβάσω τον code linter για python ονόματι [flake8](https://flake8.pycqa.org/en/latest), με την εντολή **sudo pacman -S flake8**. Ωστόσο, ένα πρόβλημα που αντιμετώπισα ύστερα ήταν το γεγονός πως εάν είχα κώδικα ο οποίος είχε γραμμές που περιείχαν περισσότερους απο 79 χαρακτήρες, έπαιρνα πολλά errors τα οποία ήταν ενοχλητικά, όπως φένεται παρακάτω:
+ 
+<p align= "center">
+<img src="https://github.com/GeorgiosEleftheriadis/HCI-Pictures-Gifs/blob/main/2%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/flake8_fail.png">
+</p>
+
+Μιας και δεν με ενδιέφεραν τα συγκεκριμένα errors, έψαχνα έναν τρόπο ώστε να τα κάνω ignore και τον βρήκα [εδώ](https://github.com/vim-syntastic/syntastic/issues/204). Έτσι λοιπόν, το πρόβλημά μου λύθηκε εισάγοντας την εντολή **let g\:syntastic_python_flake8_args=\'\-\-ignore=E501\'** στο **.vimrc** αρχείο μου. 
+ 
+Για το vim-rainbow, πρόσθεσα απλά την εντολή **let g\:rainbow_active = 1** στο **.vimrc** αρχείο, ώστε να το κάνω καθολικά διαθέσιμο και να έχω parentheses-bracket-etc.. highlight σε όλους τους τύπους αρχείων, σύμφωνα με όσα αναφέρονται [εδώ](https://github.com/frazrepo/vim-rainbow#simple-configuration)
+
+**Asciinema και link για το τελικό configuration file μου:**
+
+Στο παρακάτω Asciinema video, φένεται η εικόνα του vim μετά το configuration του, με τις λειτουργίες του file explorer, το autocompletion, το syntax check κ.α. 
+- https://asciinema.org/a/449791
+
+Παρακάτω το link για το .vimrc αρχείο μου: 
+- [.vimrc](https://github.com/GeorgiosEleftheriadis/HCI-Pictures-Gifs/blob/main/2%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/.vimrc)
+
+ 
+### Συμπεράσματα παραδοτέου
+Μέσα απο αυτό το παραδοτέο, ήρθα ένα βήμα πιο κοντά με αυτόν τον modal text editor που διαθέτω και μπόρεσα να κατανοήσω τον τρόπο με τον οποίο επεκτείνουμε τις λειτουργίες και τα χαρακτηριστικά του ώστε να τον φέρουμε πιο κοντά στις δικές μας ανάγκες. Ωστόσο, υπάρχει ακόμα μια πληθώρα τρόπων για την επέκτασή του και ευελπιστώ πως σιγά σιγά με τον καιρό και προσθέτοντας συνεχώς νέα πράγματα, θα τον κάνω να μπορεί να ανταγωνιστεί τις λειτουργίες των σύγχρονων GUI περιβαλλόντων ανάπτυξης και να καλύπτει όλες τις ευμετάβλητες ανάγκες μου.
+
+### Δικτυογραφία 2ου Παραδοτέου
+[Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor) | [Your first VimRC: How to setup your vim's vimrc](https://www.youtube.com/watch?v=n9k9scbTuvQ) | [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM) | [Top 50 Vim Configuration Options](https://www.shortcutfoo.com/blog/top-50-vim-configuration-options) | [Important VIM Options and Settings](https://linuxhint.com/important_vim_settings) | [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven)
