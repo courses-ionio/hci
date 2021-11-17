@@ -158,11 +158,11 @@ To journalctl είναι η υπηρεσία με την οποία έχουμε
 <img src="https://github.com/GeorgiosEleftheriadis/HCI-Pictures-Gifs/blob/main/2%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/jedi_fail.png">
 </p>
 
-Για να λυθεί το πρόβλημα αυτό, όπως αναφέρεται και στις σχετικές οδηγίες [εδώ](https://github.com/davidhalter/jedi-vim#settings), πρόσθεσα στο **.vimrc** την εντολή **let g\:jedi1#show_call_signatures = \"2\"**, ώστε τα signatures να εμφανίζονται στο command line του Vim.
+Για να λυθεί το πρόβλημα αυτό, όπως αναφέρεται και στις σχετικές οδηγίες [εδώ](https://github.com/davidhalter/jedi-vim#settings), πρόσθεσα στο **.vimrc** την εντολή **let g\:jedi#show_call_signatures = \"2\"**, ώστε τα signatures να εμφανίζονται στο command line του Vim.
 
-Όσων αφορά το Plug-in python-syntax, πρόσθεσα στο **.vimrc** την εντολή **let g\:python_highlight_all = 1**, για να ενεργοποίησω όλα τα highlight features.
+Όσων αφορά το Plug-in python-syntax, πρόσθεσα στο **.vimrc** την εντολή **let g\:python_highlight_all = 1**, για να ενεργοποίησω όλα τα highlight features, σύμφωνα με τις οδηγίες [εδώ](https://github.com/vim-python/python-syntax#option-variables).
 
-Για το syntastic, πρόσθεσα **.vimrc** τα [recommended settings](https://github.com/vim-syntastic/syntastic#3-recommended-settings) που περιγράφονται στο αποθετήριο. Καθώς το syntastic χρησιμοποιεί external syntax checkers, επέλεξα να κατεβάσω τον code linter για python ονόματι [flake8](https://flake8.pycqa.org/en/latest), με την εντολή **sudo pacman -S flake8**. Ωστόσο, ένα πρόβλημα που αντιμετώπισα ύστερα ήταν το γεγονός πως εάν είχα κώδικα ο οποίος είχε γραμμές που περιείχαν περισσότερους απο 79 χαρακτήρες, έπαιρνα πολλά errors τα οποία ήταν ενοχλητικά, όπως φένεται παρακάτω:
+Για το syntastic, πρόσθεσα στο **.vimrc** τα [recommended settings](https://github.com/vim-syntastic/syntastic#3-recommended-settings) που περιγράφονται στο αποθετήριο. Καθώς το syntastic χρησιμοποιεί external syntax checkers, επέλεξα να κατεβάσω τον code linter για python ονόματι [flake8](https://flake8.pycqa.org/en/latest), με την εντολή **sudo pacman -S flake8**. Ωστόσο, ένα πρόβλημα που αντιμετώπισα ύστερα ήταν το γεγονός πως εάν είχα κώδικα ο οποίος είχε γραμμές που περιείχαν περισσότερους απο 79 χαρακτήρες, έπαιρνα πολλά errors τα οποία ήταν ενοχλητικά, όπως φένεται παρακάτω:
  
 <p align= "center">
 <img src="https://github.com/GeorgiosEleftheriadis/HCI-Pictures-Gifs/blob/main/2%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/flake8_fail.png">
@@ -182,7 +182,7 @@ To journalctl είναι η υπηρεσία με την οποία έχουμε
 
  
 ### Συμπεράσματα παραδοτέου
-Μέσα απο αυτό το παραδοτέο, ήρθα ένα βήμα πιο κοντά με αυτόν τον modal text editor που διαθέτω και μπόρεσα να κατανοήσω τον τρόπο με τον οποίο επεκτείνουμε τις λειτουργίες και τα χαρακτηριστικά του ώστε να τον φέρουμε πιο κοντά στις δικές μας ανάγκες. Ωστόσο, υπάρχει ακόμα μια πληθώρα τρόπων για την επέκτασή του και ευελπιστώ πως σιγά σιγά με τον καιρό και προσθέτοντας συνεχώς νέα πράγματα, θα τον κάνω να μπορεί να ανταγωνιστεί τις λειτουργίες των σύγχρονων GUI περιβαλλόντων ανάπτυξης και να καλύπτει όλες τις ευμετάβλητες ανάγκες μου.
+Μέσα από αυτό το παραδοτέο, ήρθα ένα βήμα πιο κοντά με αυτόν τον modal text editor που διαθέτω και μπόρεσα να κατανοήσω τον τρόπο με τον οποίο επεκτείνουμε τις λειτουργίες και τα χαρακτηριστικά του ώστε να τον φέρουμε πιο κοντά στις δικές μας ανάγκες. Ωστόσο, υπάρχει ακόμα μια πληθώρα τρόπων για την επέκτασή του και ευελπιστώ πως σιγά σιγά με τον καιρό και προσθέτοντας συνεχώς νέα πράγματα, θα τον κάνω να μπορεί να ανταγωνιστεί τις λειτουργίες των σύγχρονων GUI περιβαλλόντων ανάπτυξης και να καλύπτει όλες τις ευμετάβλητες ανάγκες μου.
 
 ### Δικτυογραφία 2ου Παραδοτέου
 [Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor) | [Your first VimRC: How to setup your vim's vimrc](https://www.youtube.com/watch?v=n9k9scbTuvQ) | [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM) | [Top 50 Vim Configuration Options](https://www.shortcutfoo.com/blog/top-50-vim-configuration-options) | [Important VIM Options and Settings](https://linuxhint.com/important_vim_settings) | [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven)
