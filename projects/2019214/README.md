@@ -32,9 +32,11 @@
 
 
 # Άσκηση γραμμής εντολών 1
-Για πρώτη άσκηση γραμμής εντολών αποφάσισα να ασχοληθώ, πέρα απο την εγκατάσταση του Arch Linux, με μία απλή άσκηση warm-up οπού καλούμε το πακέτο `neofetch` (για να δούμε τις περαιτέρω πληροφορίες του λογισμικού και υλισμικού του συστήματος μου) και στην συνέχεια προβάλω τα dot files με την εντολή `ls` τα directories. 
+Για πρώτη άσκηση γραμμής εντολών αποφάσισα να ασχοληθώ, πέρα απο την εγκατάσταση του Arch Linux, με μία απλή άσκηση warm-up οπού καλούμε το πακέτο `neofetch` (για να δούμε τις περαιτέρω πληροφορίες του λογισμικού και υλισμικού του συστήματος μου) και στην συνέχεια προβάλω τα directories και τα dot files με την εντολή `ls` . 
 
-[Σύνδεσμος: asciicast - 1η άσκηση γραμμής εντολών](https://asciinema.org/a/QhhTkNJzDqPlHMEfdBZKy93fW)
+Πηγές: [neofetch](https://man.archlinux.org/man/neofetch.1) & [ls](https://man.archlinux.org/man/ls.1.en)
+<br />
+Σύνδεσμος: [asciicast - 1η άσκηση γραμμής εντολών](https://asciinema.org/a/QhhTkNJzDqPlHMEfdBZKy93fW)
 
 
 # Άσκηση γραμμής εντολών 2 
@@ -42,4 +44,6 @@
 
 Στην περίπτωση μου, είσαγω την πόλη απο την οποία κατάγομαι και στην συνέχεια μία χώρα που θα ήθελα να επισκεφθώ στο μακρινό μέλλον. 
 
-[Σύνδεσμος: asciicast - 2η άσκηση γραμμής εντολών](https://asciinema.org/a/81P6VR9UiV3mOMCzkLJ3aexsv)
+Πηγές: [curl](https://curl.se/) & [wttr.in](https://github.com/chubin/wttr.in)
+<br />
+Σύνδεσμος: [asciicast - 2η άσκηση γραμμής εντολών](https://asciinema.org/a/81P6VR9UiV3mOMCzkLJ3aexsv)
