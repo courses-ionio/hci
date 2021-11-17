@@ -39,7 +39,6 @@
   GTA 5 CSS3 Parallax</a> by sckarolos (<a href="https://codepen.io/sckarolos">@sckarolos</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <script async type="text/javascript" src="https://cpwebassets.codepen.io.assets/embed/ei.js"></script>
 
 
