@@ -31,7 +31,7 @@
 
 Για το 2ο παραδοτέο επέλεξα να ασχοληθώ με την δημιουργία μιας 3D Image. Ακολούθησα τα εξής βήματα. Αρχικά, διάλεξα το θέμα της εικόνας. Κατέληξα στο παιχνίδι Skyrim της Bethesda Games. Έπειτα, έψαξα και βρήκα ένα background, μια σχετική εικόνα, το logo του παιχνιδιού και εκείνο της publisher. Χρειάστηκε να κάνω ορισμένες αλλαγές στο μέγεθος των εικόνων. Τέλος, τροποποίησα τον κώδικα ανάλογα.
 
-https://github.com/mariakourti/site/blob/master/_remix/image-3d.md
+Πηγαίο αρχείο: https://github.com/mariakourti/site/blob/master/_remix/image-3d.md
 
 Το τελικό αποτέλεσμα βρίσκεται στον ακόλουθο σύνδεσμο: https://codepen.io/p2020158/pen/JjywQrX
 
