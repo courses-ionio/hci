@@ -36,30 +36,6 @@
 Σύνδεσμοι πηγών των εικόνων: https://postimages.org, https://logos-world.net, http://www.stickpng.com, https://simsettlements.com, https://www.teahub.io
 
 
----
-layout: single
-title: 3D image
-header: no
-categories:
-  - synthesis
-tags:
-  - 3d
-  - image
-  - IV
----
-
-Διαδραστικό παράδειγμα εικόνων χρησιμοποιώντας την τεχνική parallax. Στο συγκεκριμένο παράδειγμα η τεχνική αυτή δημιουργεί την αίσθηση του 3d περιβαλλντος. Ο χρήστης μπορεί να περιηγηθεί στη σύνθεση χρησιμοποιώντας το ποντίκι.
-
-<p class="codepen" data-height="300" data-default-tab="js,result" data-slug-hash="JjywQrX" data-user="rix_ow" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/rix_ow/pen/JjywQrX">
-  Skyrim 3D Image</a> by rix (<a href="https://codepen.io/rix_ow">@rix_ow</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
-
-
-
 
 
 # Επίλογος
