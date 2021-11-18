@@ -10,7 +10,7 @@
 | 2 | [Άσκηση Προγραμματισμού 3D Image](#3D-Image) |
 | 3 | [Άσκηση Γραμμής Εντολών]( |
 | 4 | συμμετοχικό περιεχόμενο 1A |
-| 5 | [Άσκηση Προγραμματισμού] |
+| 5 | [Άσκηση Προγραμματισμού Plyr Video Player](#Plyr-Video-Player) |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
@@ -36,6 +36,15 @@
 Το τελικό αποτέλεσμα βρίσκεται στον ακόλουθο σύνδεσμο: https://codepen.io/p2020158/pen/JjywQrX
 
 Σύνδεσμοι πηγών των εικόνων: https://postimages.org, https://logos-world.net, http://www.stickpng.com, https://simsettlements.com, https://www.teahub.io
+
+
+
+
+
+# Plyr Video Player
+
+
+
 
 
 
