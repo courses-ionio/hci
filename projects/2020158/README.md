@@ -52,7 +52,7 @@
 | GBA | https://github.com/mariakourti/_gallery/blob/master/GBA.md_ |
 | Oculus Quest 2 | https://github.com/mariakourti/_gallery/blob/master/Oculus-Quest-2.md |
 
-
+Σύνδεσμοι Πηγών: https://en.wikipedia.org/wiki/Game_Boy_Advance_SP | https://en.wikipedia.org/wiki/Oculus_Quest_2
 
 
 # Plyr Video Player
