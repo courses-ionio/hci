@@ -35,8 +35,12 @@
 
 Το τελικό αποτέλεσμα βρίσκεται στον ακόλουθο σύνδεσμο: https://codepen.io/p2020158/pen/JjywQrX
 
-Σύνδεσμοι πηγών των εικόνων: https://postimages.org, https://logos-world.net, http://www.stickpng.com, https://simsettlements.com, https://www.teahub.io
+Σύνδεσμοι πηγών των εικόνων: https://postimages.org | https://logos-world.net | http://www.stickpng.com | https://simsettlements.com | https://www.teahub.io
 
+
+# Set-up the Main Dependencies and Demonstrate your Base System
+
+Για πρώτη εργασία γραμμής εντολών, διάλεξα το set-up the main dependencies and demonstrate your base system, ώστε να εξοικοιωθώ με το περιβάλλον Arch Linux. Αρχικά, ακολούθησα τις οδηγίες και εγκατέστησα το Arch Linux σε ένα USB stick. 
 
 
 
