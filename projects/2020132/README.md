@@ -40,7 +40,7 @@
 
 Σχετικά με το πακέτο asciinema, έπρεπε να κάνω αρκετό debugging μόνος μου επειδή κάθε φορά όταν ξανά-ενεργοποιούσα τον υπολογιστή μου, την πρώτη φορά που προσπαθούσα να τρέξω το command: asciinema rec, μου εμφάνιζε ένα error όσον αφορά την γλώσσα που προσπαθούσε να καταγράψει, την οποία έπρεπε ο ίδιος να αλλάξω από το config του asciinema. Γράφοντας το command: locale, μου δινόταν μία λίστα από τις ρυθμίσεις του, τις οποίες χρειάστηκε πρώτα να τις ορίσω όλες σε null με το command: LANG="" και τέλος να το αλλάξω στην γλώσσα που μου ζητούσε το μήνυμα/error, γράφοντας το command: LANG="en_US.UFT-8".
 
-**Video: https://asciinema.org/a/FgOqZM3piqkCPIXzFkDCGcFit **
+**Video: https://asciinema.org/a/FgOqZM3piqkCPIXzFkDCGcFit**
 
 ## ΠΗΓΕΣ
 https://asciinema.org/
@@ -51,7 +51,7 @@ https://github.com/chubin/wttr.in
 ## Warm Up - neofetch
 Στο συγκεκριμένο παραδοτέο, εγκατέστησα το πακέτο neofetch με το command: sudo pacman -S neofetch, το οποίο χρησιμοποιείτε για μία αναλυτική παρουσίαση του λογισμικού του υπολογιστή και αρκετές ακόμη πληροφορίες, με έναν ιδιαίτερο τρόπο δημιουργόντας ένα προφίλ για τον κάθε χρήστη, κάθε φορά που χρησιμοποιείτε το command: neofetch. Επίσης στο παρακάτω βίντεο κατέγραψα, πάλι με την χρήση του asciinema, την χρήση του command: ls -la για την επίδειξη των directories μου.
 
-**Video: https://asciinema.org/a/Ze8miiGkka4noGG4Z9m9MzBpK **
+**Video: https://asciinema.org/a/Ze8miiGkka4noGG4Z9m9MzBpK**
 
 ## ΠΗΓΕΣ
 https://asciinema.org/
