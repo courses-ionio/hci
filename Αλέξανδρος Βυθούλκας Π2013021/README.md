@@ -64,6 +64,8 @@
   ###### [4]
   
  ## Παραδοτέο 4 : Συμμετοχικό περιεχόμενο Α1
+ 
+  
   
 **Link αποθετηρίων images:** https://github.com/AlexandrosV20/images/blob/master/Microchess-thumb.png
                        
@@ -73,9 +75,11 @@
                        
   https://github.com/AlexandrosV20/images/blob/master/Atari-2600-Joystick-thumb.jpg
   
+
   
 **Link αποθετηρίων gallery:** https://github.com/AlexandrosV20/_gallery/blob/master/microchess.md
   
+  https://github.com/AlexandrosV20/_gallery/tree/master
   
   
   
@@ -84,3 +88,5 @@
   https://it.wikipedia.org/wiki/File:Microchess.PNG
   
   https://commons.wikimedia.org/wiki/File:Atari-2600-Joystick.jpg
+  
+  https://www.digitalgamemuseum.org/consolecontrollerevolution/classic/atari2600/
