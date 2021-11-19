@@ -44,7 +44,7 @@
 
 <p>Αλλαγμένα αρχεία: </p>
 
-<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/NeWS-thump.jpg">images(thumpnail)</a> & <a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/NeWS.jpg">images(κανονική)</a></p>
+<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/NeWS-thumb.jpg">images(thumpnail)</a> & <a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/NeWS.jpg">images(κανονική)</a></p>
 
 <p><a href="https://github.com/DimitrisGrigoropoulosP2016099/_gallery/blob/2016099/NeWS.md">gallery</a></p>
 
@@ -52,7 +52,7 @@
 
 <p>Αλλαγμένα αρχεία: </p>
 
-<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/Quantel_Paintbox_thump.jpg">images(thumpnail)</a> & <a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/Quantel_Paintbox.jpg">images(κανονική)</a></p>
+<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/Quantel_Paintbox-thumb.jpg">images(thumpnail)</a> & <a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/Quantel_Paintbox.jpg">images(κανονική)</a></p>
 
 <p><a href="https://github.com/DimitrisGrigoropoulosP2016099/_gallery/blob/2016099/Quantel-Paintbox.md">gallery</a></p>
 
@@ -67,3 +67,14 @@
 <p> Σαν display server εγκατεστησα το <a href=”https://wiki.archlinux.org/title/Xorg”>Xorg</a>  και το <a href=”https://wiki.archlinux.org/title/LightDM”>LightDM</a> σαν display manager .</p>
 
 <p>Σαν desktop environment εγκατέστησα το  <a href=”https://wiki.archlinux.org/title/xfce”>xfce4 </a> με σαν επιπρόσθετο αυτό το <a href=”https://www.xfce-look.org/p/1357889”>θέμα </a></p>
+
+<h2>Συμμετοχικό 2Α</h2>
+
+<h4><a href="https://mystifying-newton-3844bc.netlify.app/slides/gui/">Slides</a></h4>
+
+<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/site/blob/2016099/_slides/gui.md?plain=1">αλλαγμένο αρχείο</a></p>
+
+<h4><a href="https://mystifying-newton-3844bc.netlify.app/timeline/systems/">Timeline</a></h4>
+
+<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/site/blob/2016099/_timeline/systems.md?plain=1">αλλαγμένο αρχείο</a></p>
+
