@@ -76,6 +76,11 @@
   
 **Link αποθετηρίων gallery:** https://github.com/AlexandrosV20/_gallery/blob/master/microchess.md
   
+  
+  
+  
 **Πηγές :** https://www.computerhistory.org/chess/doc-431614f6d8478/
   
   https://it.wikipedia.org/wiki/File:Microchess.PNG
+  
+  https://commons.wikimedia.org/wiki/File:Atari-2600-Joystick.jpg
