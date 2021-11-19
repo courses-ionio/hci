@@ -60,3 +60,14 @@
 | Gallery Apple III | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/apple3.md) |
 | Images Apple II Plus | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/apple2plus.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/apple2plus-thumb.jpg) |
 | Gallery Apple II Plus | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/apple2plus.md) |
+
+<br />
+
+## Παραδοτέο 4: Συμμετοχικό Περιεχόμενο 2A
+
+Το σετ διαφανειών που δημιούργησα ονομάζεται Προϊόντα Apple ενώ για το χρονολόγιο είχα στο μυαλό μου να είναι για τα προϊόντα της Apple, ωστόσο παρατήρησα οτι προυπήρχε το χρονολόγιο "Η εξέλιξη των συστημάτων της Apple", οπότε πρόσθεσα στο υπάρχον τις δικές μου φωτογραφίες.
+
+| Περιγραφή | Repository Σύνδεσμος |
+| --- | --- |
+| Slides | [Προϊόντα Apple (Slides)](https://github.com/Sola1r3/site/blob/master/_slides/appledevices.md) |
+| Timeline | [Προϊόντα Apple (Timeline)](https://github.com/Sola1r3/site/blob/master/_timeline/apple.md) |
