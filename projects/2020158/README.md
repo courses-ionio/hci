@@ -43,7 +43,14 @@
 
 # Plyr Video Player
 
+Σε αυτό το παραδοτέο διάλεξα την άσκηση με το Plyr Video Player. Αφού διάλεξα ένα βίντεο, έψαξα για τους τρόπους που θα μπορούσα να προσθέσω ένα rewind button όπως ζήταγε η άσκηση. Μετά από μερικές προσπάθειες, βρήκα τα controls και τα πρόσθεσα.
 
+Πηγαίο αρχείο: https://github.com/mariakourti/site/blob/master/_remix/plyr-video-player.md
+
+Ακολουθεί ο σύνδεσμος με το αποτέλεσμα: https://codepen.io/p2020158/pen/QWMYYoq
+
+
+Σύνδεσμος του video που χρησιμοποιήθηκε: https://vimeo.com/101896187
 
 
 
