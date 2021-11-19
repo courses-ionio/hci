@@ -9,7 +9,7 @@
 | 1 | [Εισαγωγή](#Εισαγωγή) |
 | 2 | [Άσκηση Προγραμματισμού 3D Image](#3D-Image) |
 | 3 | [Άσκηση Γραμμής Εντολών Set-up the Main Dependencies and Demonstrate your Base System](#Set-up-the-Main-Dependencies-and-Demonstrate-your-Base-System) |
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | [Συμμετοχικό περιεχόμενο Α1](#Συμμετοχικό-Περιεχόμενο-Α1) |
 | 5 | [Άσκηση Προγραμματισμού Plyr Video Player](#Plyr-Video-Player) |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
@@ -42,6 +42,8 @@
 
 Για πρώτη εργασία γραμμής εντολών, διάλεξα το set-up the main dependencies and demonstrate your base system, ώστε να εξοικοιωθώ με το περιβάλλον Arch Linux. Αρχικά, ακολούθησα τις οδηγίες και εγκατέστησα το Arch Linux σε ένα USB stick. 
 
+
+# Συμμετοχικό Περιεχόμενο Α1
 
 
 
