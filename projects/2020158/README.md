@@ -47,13 +47,11 @@
 
 Για το πρώτο μέρος του συμμετοχικού περιεχομένου, βρήκα φωτογραφίες από δύο κονσόλες που επηρέασαν σε μεγάλο βαθμό στον τομέα της διασκέδασης την διάδραση μεταξύ ανθρώπου και υπολογιστή. Η πρώτη είναι το κλασικό Game Boy Advance της Nintendo, και η δεύτερη η VR κονσόλα Oculus Quest 2. 
 
----
-Περιγραφή: GBA
-Repository Link: https://github.com/mariakourti/_gallery/blob/master/GBA.md
+| Περιγραφή | Repository Link | 
+| --- | --- | 
+| GBA | https://github.com/mariakourti/_gallery/blob/master/GBA.md_ |
+| Oculus Quest 2 | https://github.com/mariakourti/_gallery/blob/master/Oculus-Quest-2.md |
 
-Περιγραφή: Oculus Quest 2
-Repository Link: https://github.com/mariakourti/_gallery/blob/master/Oculus-Quest-2.md
----
 
 
 
