@@ -45,11 +45,21 @@
 
 # Συμμετοχικό Περιεχόμενο Α1
 
+Για το πρώτο μέρος του συμμετοχικού περιεχομένου, βρήκα φωτογραφίες από δύο κονσόλες που επηρέασαν σε μεγάλο βαθμό στον τομέα της διασκέδασης την διάδραση μεταξύ ανθρώπου και υπολογιστή. Η πρώτη είναι το κλασικό Game Boy Advance της Nintendo, και η δεύτερη η VR κονσόλα Oculus Quest 2. 
+
+---
+Περιγραφή: GBA
+Repository Link: https://github.com/mariakourti/_gallery/blob/master/GBA.md
+
+Περιγραφή: Oculus Quest 2
+Repository Link: https://github.com/mariakourti/_gallery/blob/master/Oculus-Quest-2.md
+---
+
 
 
 # Plyr Video Player
 
-Σε αυτό το παραδοτέο διάλεξα την άσκηση με το Plyr Video Player. Αφού διάλεξα ένα βίντεο, έψαξα για τους τρόπους που θα μπορούσα να προσθέσω ένα rewind button όπως ζήταγε η άσκηση. Μετά από μερικές προσπάθειες, βρήκα τα controls και τα πρόσθεσα.
+Σε αυτό το παραδοτέο διάλεξα την άσκηση με το Plyr Video Player. Αφού διάλεξα ένα βίντεο, έψαξα για τους τρόπους που θα μπορούσα να προσθέσω ένα rewind button όπως ζήταγε η άσκηση. Μετά από μερικές προσπάθειες, βρήκα τα controls και τα πρόσθεσα. Η πρώτη κονσόλα είναι το Gameb Boy Advance
 
 Πηγαίο αρχείο: https://github.com/mariakourti/site/blob/master/_remix/plyr-video-player.md
 
