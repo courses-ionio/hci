@@ -65,7 +65,7 @@
   
  ## Παραδοτέο 4 : Συμμετοχικό περιεχόμενο Α1
   
-**Link αποθετηρίων :** https://github.com/AlexandrosV20/images/blob/master/Microchess-thumb.png
+**Link αποθετηρίων images:** https://github.com/AlexandrosV20/images/blob/master/Microchess-thumb.png
                        
   https://github.com/AlexandrosV20/images/blob/master/Microchess.png
                        
@@ -74,3 +74,8 @@
   https://github.com/AlexandrosV20/images/blob/master/Atari-2600-Joystick-thumb.jpg
   
   
+**Link αποθετηρίων gallery:** https://github.com/AlexandrosV20/_gallery/blob/master/microchess.md
+  
+**Πηγές :** https://www.computerhistory.org/chess/doc-431614f6d8478/
+  
+  https://it.wikipedia.org/wiki/File:Microchess.PNG
