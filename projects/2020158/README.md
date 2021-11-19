@@ -8,7 +8,7 @@
 | --- | --- |
 | 1 | [Εισαγωγή](#Εισαγωγή) |
 | 2 | [Άσκηση Προγραμματισμού 3D Image](#3D-Image) |
-| 3 | [Άσκηση Γραμμής Εντολών](#Set-up-the-Main-Dependencies-and-Demonstrate-your-Base-System) |
+| 3 | [Άσκηση Γραμμής Εντολών Set-up the Main Dependencies and Demonstrate your Base System](#Set-up-the-Main-Dependencies-and-Demonstrate-your-Base-System) |
 | 4 | συμμετοχικό περιεχόμενο 1A |
 | 5 | [Άσκηση Προγραμματισμού Plyr Video Player](#Plyr-Video-Player) |
 | 6 | συμμετοχικό περιεχόμενο 2A |
