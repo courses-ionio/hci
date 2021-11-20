@@ -90,3 +90,12 @@
   https://commons.wikimedia.org/wiki/File:Atari-2600-Joystick.jpg
   
   https://www.digitalgamemuseum.org/consolecontrollerevolution/classic/atari2600/
+  
+
+   ###### [6]
+  
+  ## Παραδοτέο 6 : Συμμετοχικό περιεχόμενο Α2
+  
+  
+  
+  **Link αποθετηρίων slides :** https://github.com/AlexandrosV20/site/blob/master/_slides/videogames_new.md
