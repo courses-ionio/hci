@@ -50,10 +50,11 @@
 
 
 # Συμμετοχικό περιεχόμενο 1Α
-Για το συμμετοχικό περιεχόμενο 1Α, πήρα την απόφαση να ερευνήσω για την πρώτη συσκευή μουσικής αναπαραγωγής που κατάφερε να συνδυάσει φορητότητα και μία προσιτή τιμή όλα σε ένα πακέτο, το Sony Walkman TPS-L2 το οποίο κυκλοφόρησε για πρώτη φορά στο κοινό το 1979. Και απο ότι γνωρίζουμε και ξέρουμε το original Walkman αυτό γνώρισε μεγάλη πέραση ξεπερνώντας τις 30,000 πωλήσεις τους πρώτους δύο μήνες μετά της κυκλοφορία του. Το TPS-L2 πάρεχε στον χρήστη την ευελίξια να ακούει την αγαπημένη του μουσική όπου πάει, σε μία εποχή που οι μόνες συσκευές μουσικής αναπαραγωγής ήταν σταθερές και δύσκολες στην μεταφορά.
+Για το συμμετοχικό περιεχόμενο 1Α, πήρα την απόφαση να ερευνήσω για την πρώτη συσκευή μουσικής αναπαραγωγής, το Sony Walkman TPS-L2, η οποία κατάφερε να συνδυάσει φορητότητα και προσιτή τιμή όλα σε ένα πακέτο για πρώτη φορά το 1979. Και στην συνέχεια, επέλεξα την πρώτη συσκευή μουσικής αναπαραγωγής της εταιρίας Apple, το iPod Mini, η οποία κατάφερε να αποσυρθεί απο την παραγωγή και να αντικατασταθεί απο το διάδοχο του, το iPod Nano, ένα χρόνο αργότερα (2005) μετά απο την κυκλοφορία του.
 
-Πηγές: [Wikipedia](https://en.wikipedia.org/wiki/Walkman) & [Sony Press Archive](https://www.sony.com/en/SonyInfo/News/Press_Archive/199907/99-059/)
+
+Πηγές: [Wikipedia - Walkman](https://en.wikipedia.org/wiki/Walkman) & [Sony Press Archive](https://www.sony.com/en/SonyInfo/News/Press_Archive/199907/99-059/) & [Wikipedia - iPod Mini](https://en.wikipedia.org/wiki/IPod_Mini) & [iPod Mini History](https://apple-history.com/ipod_mini)
 <br />
-Σύνδεσμος .md: [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md)
+Σύνδεσμος .md: [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md) & [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md)
 <br />
-Σύνδεσμοι εικονών: [sony-walkman.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman.jpg) & [sony-walkman-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman-thumb.jpg)
+Σύνδεσμοι εικονών: [sony-walkman.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman.jpg) & [sony-walkman-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman-thumb.jpg) & [ipod-mini.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/ipod-mini.jpg) & [ipod-mini-thumb](https://github.com/Xar-Me-Ison/images/blob/2019214/ipod-mini-thumb.jpg)
