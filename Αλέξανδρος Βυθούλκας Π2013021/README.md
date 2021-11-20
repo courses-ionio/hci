@@ -82,7 +82,6 @@
   https://github.com/AlexandrosV20/_gallery/tree/master
   
   
-  
 **Πηγές :** https://www.computerhistory.org/chess/doc-431614f6d8478/
   
   https://it.wikipedia.org/wiki/File:Microchess.PNG
@@ -98,6 +97,11 @@
   
   
   
-  **Link αποθετηρίων slides :** https://github.com/AlexandrosV20/site/blob/master/_slides/videogames_new.md
+ **Link αποθετηρίων slides :** https://github.com/AlexandrosV20/site/blob/master/_slides/videogames_new.md
   
   https://github.com/AlexandrosV20/site/blob/master/_slides/input-devices.md
+  
+  
+ **Link αποθετηρίων timeline :** https://github.com/AlexandrosV20/site/blob/master/_timeline/input-devices.md
+  
+  https://github.com/AlexandrosV20/site/blob/master/_timeline/videogames.md
