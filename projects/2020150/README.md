@@ -51,4 +51,7 @@
 | Περιγραφή | Repository Link |
 | --- | --- |
 | OLED Screen | [Oled-screen.md](https://github.com/thanosks/_gallery/blob/2020150/oled-screen.md) |
-| XEL-1 | [Xel-1.md](https://github.com/thanosks/_gallery/blob/2020150/xel-1.md) |
+| XEL-1 | [XEL-1.md](https://github.com/thanosks/_gallery/blob/2020150/xel-1.md) |
+## **Links**
+Το Link για την wikipedia δεν χρησιμοποιήθηκε ιδιαίτερα και οι περισσότερες πληροφορίες για το XEL-1 προήλθαν από το YouTube βίντεο.Όσον αφορά τις πληροφορίες για την OLED οθόνη έγραψα με βάση ήδη υπάρχουσες γνώσεις που έχω και όχι από μία συγκεκριμένη πηγή.
+### **[YouTube Xel-1 review](https://youtu.be/j7GUSltewuA)**   |   **[XEL-1](https://en.wikipedia.org/wiki/Sony_XEL-1)**
