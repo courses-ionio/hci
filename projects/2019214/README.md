@@ -57,4 +57,4 @@
 <br />
 Σύνδεσμος .md: [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md) & [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md)
 <br />
-Σύνδεσμοι εικονών: [sony-walkman.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman.jpg) & [sony-walkman-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman-thumb.jpg) & [ipod-mini.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/ipod-mini.jpg) & [ipod-mini-thumb](https://github.com/Xar-Me-Ison/images/blob/2019214/ipod-mini-thumb.jpg)
+Σύνδεσμοι εικονών: [sony-walkman.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman.jpg) & [sony-walkman-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman-thumb.jpg) & [ipod-mini.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/ipod-mini.jpg) & [ipod-mini-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/ipod-mini-thumb.jpg)
