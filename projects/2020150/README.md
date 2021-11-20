@@ -9,7 +9,7 @@
 | 1 | [Εισαγωγή](#εισαγωγη) |
 | 2 | [Άσκηση γραμμής εντολών](#άσκηση-γραμμής-εντολών---2ο-παραδοτέο) |
 | 3 | [Άσκηση γραμμής εντολών](#άσκηση-γραμμής-εντολών---3ο-παραδοτέο) |
-| 4 | |
+| 4 | [Συμμετοχικό περιεχόμενο 1Α](#συμμετοχικό-περιεχόμενο-1α)|
 | 5 | |
 | 6 | |
 | 7 | |
@@ -43,3 +43,12 @@
 ## **Links**
 ### **[neofetch](https://man.archlinux.org/man/neofetch.1)**   |   **[ls](https://man.archlinux.org/man/ls.1.en)** 
 ### **[Terminal Recording](https://asciinema.org/a/IxlCxmMDKKY7EcjFgjpVQWtx8)**
+
+<br />
+
+# **Συμμετοχικό περιεχόμενο 1Α**
+Στο 1ο μέρος του συμμετοχικού περιεχομένου Α, επέλεξα να μιλήσω για τις OLED οθόνες (Organic Light-Emitting Diode), οι οποίες άλλαξαν και βελτίωσαν πολύ την εμπειρία θέασης καθώς και για την πρώτη συσκευή με οθόνη oled το XEL-1 της Sony.
+| Περιγραφή | Repository Link |
+| --- | --- |
+| OLED Screen | [Oled-screen.md](https://github.com/thanosks/_gallery/blob/2020150/oled-screen.md) |
+| XEL-1 | [Xel-1.md](https://github.com/thanosks/_gallery/blob/2020150/xel-1.md) |
