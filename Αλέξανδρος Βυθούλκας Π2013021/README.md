@@ -99,3 +99,5 @@
   
   
   **Link αποθετηρίων slides :** https://github.com/AlexandrosV20/site/blob/master/_slides/videogames_new.md
+  
+  https://github.com/AlexandrosV20/site/blob/master/_slides/input-devices.md
