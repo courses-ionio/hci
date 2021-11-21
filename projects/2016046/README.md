@@ -14,7 +14,7 @@
 | 3 | [Άσκηση γραμμής εντολών](#άσκηση-γραμμής-εντολών---warmup---fetch-information) |
 | 4 | [συμμετοχικό περιεχόμενο 1A](#συμμετοχικό-περιεχόμενο-1α) |
 | 5 | [Άσκηση γραμμής εντολών](#άσκηση-γραμμής-εντολών---warmup---todo-list) |
-| 6 | συμμετοχικό περιεχόμενο 2A |
+| 6 | [συμμετοχικό περιεχόμενο 2A](#συμμετοχικό-περιεχόμενο-2α) |
 | 7 | [Άσκηση γραμμής εντολών](#άσκηση-γραμμής-εντολών---hci---download-mp3) |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
@@ -67,6 +67,24 @@ Link Gallery:
 Link Asciinema: https://asciinema.org/a/cgSXap2PQP19khWbqhvr3OR76
 
 Μέσω του TaskWarrior δημιούργησα την ToDo λίστα μου,την επεξεργάστηκα,την έλεγξα και τέλος την διέγραψα.
+
+# Συμμετοχικό Περιεχόμενο 2Α
+
+### SMARTWATCH:
+
+Link Slides:
+- https://github.com/p16foti/site/blob/2016046/_slides/tools.md
+
+Link Timelines:
+- https://github.com/p16foti/site/blob/2016046/_timeline/computer.md
+
+### PLAYSTATION:
+
+Link Slides:
+- https://github.com/p16foti/site/blob/2016046/_slides/videogames.md
+
+Link Timelines:
+- https://github.com/p16foti/site/blob/2016046/_timeline/videogames.md
 
 # Άσκηση Γραμμής Εντολών - HCI - Download Mp3
 
