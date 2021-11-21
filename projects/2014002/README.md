@@ -79,7 +79,7 @@
 [Asciinema Link](https://asciinema.org/a/447947) 
 
 
-https://github.com/p14kairas/site/blob/2014002/_slides/videogames.md3
+https://github.com/p14kairas/site/blob/2014002/_slides/videogames.md
 
 https://github.com/p14kairas/site/blob/2014002/_timeline/virtual-reality.md
 
