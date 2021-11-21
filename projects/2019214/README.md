@@ -13,7 +13,7 @@
 | 2 | [Άσκηση γραμμής εντολών 1](#άσκηση-γραμμής-εντολών-1) |
 | 3 | [Άσκηση γραμμής εντολών 2](#άσκηση-γραμμής-εντολών-2) |
 | 4 | [Συμμετοχικό περιεχόμενο 1Α](#συμμετοχικό-περιεχόμενο-1α) |
-| 5 | - |
+| 5 | [Άσκηση γραμμής εντολών 3](#άσκηση-γραμμής-εντολών-3) |
 | 6 | - |
 | 7 | - |
 | 8 | - |
@@ -55,6 +55,31 @@
 
 Πηγές: [Wikipedia - Walkman](https://en.wikipedia.org/wiki/Walkman) & [Sony Press Archive](https://www.sony.com/en/SonyInfo/News/Press_Archive/199907/99-059/) & [Wikipedia - iPod Mini](https://en.wikipedia.org/wiki/IPod_Mini) & [iPod Mini History](https://apple-history.com/ipod_mini)
 <br />
-Σύνδεσμος .md: [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md) & [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md)
+Σύνδεσμοι .md: [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md) & [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md)
 <br />
 Σύνδεσμοι εικονών: [sony-walkman.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman.jpg) & [sony-walkman-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman-thumb.jpg) & [ipod-mini.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/ipod-mini.jpg) & [ipod-mini-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/ipod-mini-thumb.jpg)
+
+# Άσκηση γραμμής εντολών 3
+Η τρίτη άσκηση γραμμής εντολών που προτίμισα να κάνω, είναι απο την λίστα hci όπου ζητάει να αναζητήσω, κατεβάσω το αγαπημένο τραγούδι του μήνα με το πακέτο `youtube-dl` και στην συνέχεια να παίξω το επιλεγμένο τραγούδι στο τερματικό με την βοήθεια του πακέτου `mpv`. 
+
+## Εγκατάσταση & χρήση των πακέτων
+Η εγκατάσταση των πακέτων, μίας και υπάρχουν στο αποθετήριο του Arch, έγινε με την χρήση της εντολής `pacman` ακολουθούμενη απο τα δύο πακέτα μου μας αφορούν, `youtube-dl` & `mpv`. 
+
+Όσον αφορά την χρήση των πακέτων/εντολών, χρησιμοποίησα:
+- `giph`, για την βιντεοσκόπηση της επιφάνειας εργασίας μου
+- `mkdir`, για την δημιουργία φακέλου στον οποίο εγκατέστησα το αρχείο mp3
+- `cd`, για την αλλαγή του directory απο φάκελο σε φάκελο
+- `youtube-dl`, για την αναζήτηση και λήψη τραγουδιών
+- `mpv`, για την αναπαραγωγή του αρχείου mp3 στο τερματικό
+
+Και είχαν τα εξής flags/μορφή, αντίστοιχα:
+- `giph -a youtube-dl-mpv.mp3`, όπου το `-a` είναι για την λήψη ήχου της επιφάνειας εργασίας
+- `mkdir Music`, για την δημιουργία του φακέλου μουσικής
+- `cd Music`, για την αλλαγή απο του directory σε αυτό της μουσικής
+- `youtube-dl --extract-audio --audio-format mp3 <youtube-link>`, όπου το `--extract-audio` είναι για την εξαγωγή του ήχου, το `--audio-format mp3` είναι για την αποθήκευση σε μορφή mp3 και το `<youtube-link>` είναι ο σύνδεσμος του τραγουδιού/βίντεου που θέλουμε να κατεβάσουμε
+- `mpv <filename>`, όπου το `<filename>` είναι το όνομα του τραγουδιού που θέλουμε να ακούσουμε
+
+
+Πηγές: [giph](https://github.com/phisch/giph) & [youtube-dl](https://github.com/ytdl-org/youtube-dl) & [youtube-dl - flags](https://gist.github.com/umidjons/8a15ba3813039626553929458e3ad1fc) & [mpv](https://github.com/mpv-player/mpv)
+<br />
+Σύνδεσμος: [YouTube - 3η άσκηση γραμμής εντολών](https://www.youtube.com/watch?v=ZuMI3D4SvFc)
