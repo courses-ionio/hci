@@ -80,6 +80,6 @@
 - `mpv <filename>`, όπου το `<filename>` είναι το όνομα του τραγουδιού που θέλουμε να ακούσουμε
 
 
-Πηγές: [giph](https://github.com/phisch/giph) & [youtube-dl](https://github.com/ytdl-org/youtube-dl) & [youtube-dl για τα flags](https://gist.github.com/umidjons/8a15ba3813039626553929458e3ad1fc) & [mpv](https://github.com/mpv-player/mpv)
+Πηγές: [giph](https://github.com/phisch/giph) & [youtube-dl](https://github.com/ytdl-org/youtube-dl) & [youtube-dl flags](https://gist.github.com/umidjons/8a15ba3813039626553929458e3ad1fc) & [mpv](https://github.com/mpv-player/mpv)
 <br />
-Σύνδεσμοι: [YouTube - 3η άσκηση γραμμής εντολών](https://www.youtube.com/watch?v=ZuMI3D4SvFc) & [YouTube - τραγούδι που χρησιμοποίησα](https://www.youtube.com/watch?v=lMZJrQFY_28)
+Σύνδεσμοι: [YouTube - 3η άσκηση γραμμής εντολών](https://www.youtube.com/watch?v=ZuMI3D4SvFc)
