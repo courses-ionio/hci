@@ -70,10 +70,10 @@
 # Συμμετοχικό Περιεχόμενο Α2
 
 
-| Περιγραφή | Repository Link | 
-| --- | --- | 
+| Περιγραφή | Repository Link | Project Link |
+| --- | --- | --- |
 | Slides |  |
-| Timeline |  |
+| Timeline | 11 | [Χρονολόγιο](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LS122FVdGwlrDVPI0XT6N9JeMkhYZFIBvndO3edx00I&font=Default&lang=en&initial_zoom=2&height=650) |
 
 
 
