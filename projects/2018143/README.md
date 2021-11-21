@@ -10,7 +10,7 @@
 | 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών :download mp3(hci) / get familiar with basic commands, reading documentation and editing files(warmup) </a></sup> |
 | 4 | <sup><a href="#4"> συμμετοχικό περιεχόμενο 1A </a></sup> |
 | 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion(hci) / check the weather(warmup) </a></sup> |
-| 6 | συμμετοχικό περιεχόμενο 2A |
+| 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο 2A </a></sup> |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
@@ -181,6 +181,19 @@ asciinema link : https://asciinema.org/a/449720
 
 Πηγή : https://github.com/chubin/wttr.in#usage
 
+##### [6]
 
+## Συμμετοχικό περιεχόμενο 2Α
 
+Διαδικασία : 
+
+• Προσθήκη των αρχείων εικόνων στα αντίστοιχα αποθετήρια **_slides** , **_timeline** 
+
+## Διαφάνειες 
+
+Αποθετήριο διαφανειών : https://github.com/p18kout/site/blob/2018143/_slides/archetypes.md
+
+## Χρονολόγιο 
+
+Αποθετήριο χρονολογίου : https://github.com/p18kout/site/blob/2018143/_timeline/mobile.md
 
