@@ -35,4 +35,16 @@
 Εγινε η εγγατάσταση του asciinema με την εντολή pacman -S asciinema και με την χρήση του καταγράφηκαν οι εντολες journalctl -b και neofetch
 link για την πρωτη εντολη:https://asciinema.org/a/KFkjzZwapvKnZaZew9WxRaKc9
 link για την δευτερη εντολη:https://asciinema.org/a/4T9jM9FVcyffckmsGFDOwu2q3
-Ειναι σημαντικό να σημειωθεί οτι για την εντολή neofetch χρειάστηκε να γινει εγγατάσταση  
+Ειναι σημαντικό να σημειωθεί οτι για την εντολή neofetch χρειάστηκε να γινει εγγατάσταση
+# Παραδοτέο_4
+##Α1 <br />
+1)Arcade Machine <br />
+[Arcade Machine](https://github.com/giormaster/images/blob/%CE%A02018013/Arcade-Machine.jpg)<br />
+[Arcade Machine Thumbnail](https://github.com/giormaster/images/blob/%CE%A02018013/Arcade-Machine-Thumb.jpg)<br />
+[Arcade Machine Gallery](https://github.com/giormaster/_gallery/blob/%CE%A02018013/Arcade-Machine.md)
+<br />
+2)Playstation Portable<br />
+[Playstation Portable](https://github.com/giormaster/images/blob/%CE%A02018013/Playstation-Portable.jpg)<br />
+[Playstation Portable Thumbnail](https://github.com/giormaster/images/blob/%CE%A02018013/Playstation-Portable-thumb.jpg)<br />
+[Playstation Portable Gallery](https://github.com/giormaster/_gallery/blob/%CE%A02018013/Playstation-Portable.md)<br />
+
