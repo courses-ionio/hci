@@ -75,11 +75,11 @@
 Και είχαν τα εξής flags/μορφή, αντίστοιχα:
 - `giph -a youtube-dl-mpv.mp3`, όπου το `-a` είναι για την λήψη ήχου της επιφάνειας εργασίας
 - `mkdir Music`, για την δημιουργία του φακέλου μουσικής
-- `cd Music`, για την αλλαγή απο του directory σε αυτό της μουσικής
+- `cd Music`, για την αλλαγή του directory σε αυτό της μουσικής
 - `youtube-dl --extract-audio --audio-format mp3 <youtube-link>`, όπου το `--extract-audio` είναι για την εξαγωγή του ήχου, το `--audio-format mp3` είναι για την αποθήκευση σε μορφή mp3 και το `<youtube-link>` είναι ο σύνδεσμος του τραγουδιού/βίντεου που θέλουμε να κατεβάσουμε
 - `mpv <filename>`, όπου το `<filename>` είναι το όνομα του τραγουδιού που θέλουμε να ακούσουμε
 
 
-Πηγές: [giph](https://github.com/phisch/giph) & [youtube-dl](https://github.com/ytdl-org/youtube-dl) & [youtube-dl - flags](https://gist.github.com/umidjons/8a15ba3813039626553929458e3ad1fc) & [mpv](https://github.com/mpv-player/mpv)
+Πηγές: [giph](https://github.com/phisch/giph) & [youtube-dl](https://github.com/ytdl-org/youtube-dl) & [youtube-dl για τα flags](https://gist.github.com/umidjons/8a15ba3813039626553929458e3ad1fc) & [mpv](https://github.com/mpv-player/mpv)
 <br />
-Σύνδεσμος: [YouTube - 3η άσκηση γραμμής εντολών](https://www.youtube.com/watch?v=ZuMI3D4SvFc)
+Σύνδεσμοι: [YouTube - 3η άσκηση γραμμής εντολών](https://www.youtube.com/watch?v=ZuMI3D4SvFc) & [YouTube - τραγούδι που χρησιμοποίησα](https://www.youtube.com/watch?v=lMZJrQFY_28)
