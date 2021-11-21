@@ -47,6 +47,15 @@
 [asciinema: neofetch](https://asciinema.org/a/449105) <br><br>
 [asciinema: journalctl](https://asciinema.org/a/hpauVSSWHuAsnH9lvea7BM407) <br> <br>
 
+## ΠΑΡΑΔΟΤΕΟ 4 - Συμμετοχικό Περιεχόμενο Α1
+
+apple wireless markdown https://github.com/FaidonTsetsis/_gallery/blob/2018073/apple-mouse-wireless.md
+image1 https://github.com/FaidonTsetsis/images/blob/2018073/apple-mouse-wireless.jpg
+image thumb https://github.com/FaidonTsetsis/images/blob/2018073/apple-mouse-wireless-thumb.jpg
+
+apollo DN330 touchpad https://github.com/FaidonTsetsis/_gallery/blob/2018073/apollo-touchpad.md
+image1 https://github.com/FaidonTsetsis/images/blob/2018073/apollo-touchpad.jpg
+image thumb https://github.com/FaidonTsetsis/images/blob/2018073/apollo-touchpad-thumb.jpg
 
 ## Ομαδικότητα και Συνεργασία
 
