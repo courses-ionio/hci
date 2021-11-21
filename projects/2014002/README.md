@@ -13,7 +13,7 @@
 | 3 |[Άσκηση γραμμής εντολών 2](#Άσκηση-γραμμής-εντολών-2) |
 | 4 |[Συμμετοχικό περιεχόμενο 1A](#συμμετοχικό-περιεχόμενο-1Α) |
 | 5 |[Άσκηση γραμμής εντολών 3](#Άσκηση-γραμμής-εντολών-3) |
-| 6 | συμμετοχικό περιεχόμενο 2A |
+| 6 | [Συμμετοχικό περιεχόμενο 2A](#Συμμετοχικό-Περιεχόμενο-2Α) |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
@@ -78,10 +78,23 @@
 
 [Asciinema Link](https://asciinema.org/a/447947) 
 
+# Συμμετοχικό Περιεχόμενο 2Α
+### Περιγραφή: Oculus Rift 
 
-https://github.com/p14kairas/site/blob/2014002/_slides/videogames.md
+Πρόσθεσα τις διαφάνειες μου στο προ-υπάρχον σετ διαφανειών "videogames" καθώς αποτελεί σε μεγάλο βαθμό την κύρια λειτουργία του oculus-rift
 
-https://github.com/p14kairas/site/blob/2014002/_timeline/virtual-reality.md
+Διαφάνειες: [slides](https://github.com/p14kairas/site/blob/2014002/_slides/videogames.md)
+
+Κύρια κατηγορία χρονολογίου: [timeline](https://github.com/p14kairas/site/blob/2014002/_timeline/virtual-reality.md)
+
+
+### Περιγραφή: Raspberry Pi 
+
+Πρόσθεσα στην συνέχεια το  raspberry pi στο σετ διαφανειών "tools" αλλά πιστεύω ότι υπάρχουν περισσότερες κατηγορίες που θα μπορούσε να ανήκει καθώς πρόκειται για έναν υπολογιστή τσέπης που είναι πολύ στην "μόδα" το modification του πχ. arcade machine (videogames), server hosting , ad black hole κλπ.
+
+Διαφάνειες: [slides](https://github.com/p14kairas/site/blob/2014002/_slides/tools.md)
+
+Κύρια κατηγορία χρονολογίου: [timeline](https://github.com/p14kairas/site/blob/2014002/_timeline/computer.md)
 
 
 
