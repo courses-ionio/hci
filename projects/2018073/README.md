@@ -15,7 +15,7 @@
 | 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα](#παραδοτεο-1---εισαγωγή) | Ήταν εύκολη και βασική διαδικασία. Γνώριζα τους στόχους μου για το μάθημα και τους αποτύπωσα στην εισαγωγή.| Ήταν εύκολη και βασική διαδικασία. Γνώριζα τους στόχους μου για το μάθημα και τους αποτύπωσα στην εισαγωγή. |
 | 2 | [Άσκηση γραμμής εντολών](#παραδοτεο-2---περιγραφή-εγκατάστασης-arch-linux) | Μικρή δυσκολία. Εγκατάσταση VirtualBox - Arch Linux και προσδιορισμός στοιχείων. |
 | 3 | [Άσκηση γραμμής εντολών](#παραδοτεο-3---post-installation-arch-linux) | Εύκολη διαδικασία. Ανάδειξη χαρακτηριστικών συστήματος και οικειοποίηση με το λειτουργικό σύστημα.|
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | [Συμμετοχικό περιεχόμενο 1A](#παραδοτεο-4---συμμετοχικό-περιεχόμενο-α1) | Ελάχιστη δυσκολία. Πρόσθεση δύο εικόνων σε βάση με την θεματολογία του βιβλίου και αντίστοιχη δημιουργία του markdown αρχείου. |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
@@ -49,13 +49,21 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 4 - Συμμετοχικό Περιεχόμενο Α1
 
-apple wireless markdown https://github.com/FaidonTsetsis/_gallery/blob/2018073/apple-mouse-wireless.md
-image1 https://github.com/FaidonTsetsis/images/blob/2018073/apple-mouse-wireless.jpg
-image thumb https://github.com/FaidonTsetsis/images/blob/2018073/apple-mouse-wireless-thumb.jpg
+Εισαγωγή δύο νέων εικόνων copyright-free: **Apple Wireless Mouse** & **Apollo DN330 TouchPad**
 
-apollo DN330 touchpad https://github.com/FaidonTsetsis/_gallery/blob/2018073/apollo-touchpad.md
-image1 https://github.com/FaidonTsetsis/images/blob/2018073/apollo-touchpad.jpg
-image thumb https://github.com/FaidonTsetsis/images/blob/2018073/apollo-touchpad-thumb.jpg
+---
+[Apple Wireless Mouse markdown file](https://github.com/FaidonTsetsis/_gallery/blob/2018073/apple-mouse-wireless.md)
+
+[Regular Image](https://github.com/FaidonTsetsis/images/blob/2018073/apple-mouse-wireless.jpg)
+
+[Thumbnail Image](https://github.com/FaidonTsetsis/images/blob/2018073/apple-mouse-wireless-thumb.jpg) 
+
+---
+[Apollo DN330 Touchpad markdown](https://github.com/FaidonTsetsis/_gallery/blob/2018073/apollo-touchpad.md)
+
+[Regular Image](https://github.com/FaidonTsetsis/images/blob/2018073/apollo-touchpad.jpg)
+
+[Thumbnail Image](https://github.com/FaidonTsetsis/images/blob/2018073/apollo-touchpad-thumb.jpg) <br>
 
 ## Ομαδικότητα και Συνεργασία
 
