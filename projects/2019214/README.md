@@ -14,7 +14,7 @@
 | 3 | [Άσκηση γραμμής εντολών 2](#άσκηση-γραμμής-εντολών-2) |
 | 4 | [Συμμετοχικό περιεχόμενο 1Α](#συμμετοχικό-περιεχόμενο-1α) |
 | 5 | [Άσκηση γραμμής εντολών 3](#άσκηση-γραμμής-εντολών-3) |
-| 6 | - |
+| 6 | [Συμμετοχικό περιεχόμενο 2Α](#συμμετοχικό-περιεχόμενο-2α) |
 | 7 | - |
 | 8 | - |
 | 9 | - |
@@ -63,7 +63,7 @@
 Η τρίτη άσκηση γραμμής εντολών που προτίμισα να κάνω, είναι απο την λίστα hci όπου ζητάει να αναζητήσω, κατεβάσω το αγαπημένο τραγούδι του μήνα με το πακέτο `youtube-dl` και στην συνέχεια να παίξω το επιλεγμένο τραγούδι στο τερματικό με την βοήθεια του πακέτου `mpv`. 
 
 ## Εγκατάσταση & χρήση των πακέτων
-Η εγκατάσταση των πακέτων, μίας και υπάρχουν στο αποθετήριο του Arch, έγινε με την χρήση της εντολής `pacman` ακολουθούμενη απο τα δύο πακέτα μου μας αφορούν, `youtube-dl` & `mpv`. 
+Η εγκατάσταση των πακέτων, μίας και υπάρχουν στο αποθετήριο του Arch, ήταν αρκετά εύκολη και έγινε με την χρήση της εντολής `pacman` ακολουθούμενη απο τα δύο πακέτα μου μας αφορούν, `youtube-dl` & `mpv`. 
 
 Όσον αφορά την χρήση των πακέτων/εντολών, χρησιμοποίησα:
 - `giph`, για την βιντεοσκόπηση της επιφάνειας εργασίας μου
@@ -83,3 +83,10 @@
 Πηγές: [giph](https://github.com/phisch/giph) & [youtube-dl](https://github.com/ytdl-org/youtube-dl) & [youtube-dl flags](https://gist.github.com/umidjons/8a15ba3813039626553929458e3ad1fc) & [mpv](https://github.com/mpv-player/mpv)
 <br />
 Σύνδεσμοι: [YouTube - 3η άσκηση γραμμής εντολών](https://www.youtube.com/watch?v=ZuMI3D4SvFc)
+
+# Συμμετοχικό περιεχόμενο 2Α
+Στο συμμετοχικό περιεχόμενο 2Α αποφάσισα να κατατάξω τις εικόνες που έβαλα σε ήδη υπάρχουσες θεματικές διαφάνιες και χρονολόγια. Συγκεκριμένα, το Sony Walkman TPS-L2 το ενέταξα στο set διαφανειών [technology](https://github.com/Xar-Me-Ison/site/blob/2019214/_slides/technology.md) και χρονολόγιο [multimedia](https://github.com/Xar-Me-Ison/site/blob/2019214/_timeline/multimedia.md) ένω για το iPod Mini το πρόσθεσα στο [technology](https://github.com/Xar-Me-Ison/site/blob/2019214/_slides/technology.md) και [apple](https://github.com/Xar-Me-Ison/site/blob/2019214/_timeline/apple.md) αντίστοιχα. 
+
+Slides: [Sony Walkman TPS-L2 & iPod Mini slides](https://github.com/Xar-Me-Ison/site/blob/2019214/_slides/technology.md)
+<br />
+Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blob/2019214/_timeline/multimedia.md) & [iPod Mini timeline](https://github.com/Xar-Me-Ison/site/blob/2019214/_timeline/apple.md)
