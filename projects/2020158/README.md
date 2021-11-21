@@ -49,7 +49,7 @@
 
 | Περιγραφή | Repository Link | 
 | --- | --- | 
-| GBA | https://github.com/mariakourti/_gallery/blob/master/GBA.md_ |
+| GBA | https://github.com/mariakourti/_gallery/blob/master/GBA.md |
 | Oculus Quest 2 | https://github.com/mariakourti/_gallery/blob/master/Oculus-Quest-2.md |
 
 Σύνδεσμοι Πηγών: https://en.wikipedia.org/wiki/Game_Boy_Advance_SP | https://en.wikipedia.org/wiki/Oculus_Quest_2
@@ -68,6 +68,14 @@
 
 
 # Συμμετοχικό Περιεχόμενο Α2
+
+
+| Περιγραφή | Repository Link | 
+| --- | --- | 
+| Slides |  |
+| Timeline |  |
+
+
 
 
 # Επίλογος
