@@ -40,3 +40,25 @@ asciinema link: https://asciinema.org/a/TsRLr9IgszSTONBMgpe5NPhgu
 Επιπλέον ενασχόληση για εξοικείωση με Arch Linux.
 
 Αρχικά εγκαταστάθηκε το λογισμικό ***asciinema*** με την εντολή ```pacman -S asciinema```  που είναι σημαντικό εργαλείο για την καταγραφή terminal. Σε αύτο το παραδοτέο χρησιμοποιήθηκαν με την σειρα οι εντολές ***journalctl -b*** και ***neofetch***, ώστε να εμφανιστούν διαδοχικά πρώτα τα Boot logs και έπειτα τα χαρακτηριστικά του συστήματος.
+
+### Παραδοτέο 4
+
+Συμμετοχικό υλικό - Α1 .
+
+- Markdown files.
+
+https://github.com/AnTonyPapako/_gallery/blob/2018158/siri.md
+
+https://github.com/AnTonyPapako/_gallery/blob/2018158/versabraille.md
+
+- Images.
+
+https://github.com/AnTonyPapako/images/blob/2018158/siri.jpg
+
+https://github.com/AnTonyPapako/images/blob/2018158/versabraille.jpg
+
+- Thumb images.
+
+https://github.com/AnTonyPapako/images/blob/2018158/siri-thumb.jpg
+
+https://github.com/AnTonyPapako/images/blob/2018158/versabraille-thumb.jpg
