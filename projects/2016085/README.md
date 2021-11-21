@@ -12,7 +12,7 @@
 | 1 | [Εισαγωγή](#εισαγωγη) |
 | 2 | [Warm-Up / Check The Weather](#άσκηση-warm-up---check-the-weather)
 | 3 | [Warm-Up / Fetch Information](#άσκηση-warm-up---fetch-information)
-| 4 | [Συμμετοχικό Περιεχόμενο Α1](#συμμετοχικό-περιεχόμενο-α1)
+| 4 | [Συμμετοχικό Περιεχόμενο Α1 - A2](#συμμετοχικό-περιεχόμενο-α1-και-α2)
 | 5 | [Warm-Up / Become Productive With a To-Do List](#άσκηση-warm-up---become-productive-with-a-to-do-list) 
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | [Search, Download and Play a YouTube Video](#άσκηση-γραμμής-εντολών---εβδομάδα-2---search-download-and-play-a-youtube-video)
@@ -52,7 +52,7 @@ Link της άσκησης στο Asciinema: [Παραδοτέο 3 / Warm - Up /
 μπορεί να χρησιμοποιηθεί για οποιαδήποτε κατηγορία εμφάνισης ειδήσεων επιθυμούμε.
 
 
-# Συμμετοχικό Περιεχόμενο Α1
+# Συμμετοχικό Περιεχόμενο Α1 και Α2
 
 | Περιγραφή | Repository Link |
 | --- | --- |
@@ -60,6 +60,8 @@ Link της άσκησης στο Asciinema: [Παραδοτέο 3 / Warm - Up /
 | Nintendo Images | [Full Size](https://github.com/dejuresavv/images/blob/2016085/nintendo64.png) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/nintendo64-thumb.jpg) |
 | Apple Watch | [apple-watch.md](https://github.com/dejuresavv/_gallery/blob/2016085/apple-watch.md) |
 | Apple Watch Images | [Full Image](https://github.com/dejuresavv/images/blob/2016085/apple-watch.jpg) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/apple-watch-thumb.jpg) |
+| Videogame Slides | [nintendo64 slides](https://github.com/dejuresavv/site/blob/2016085/_slides/videogames.md)
+| Timeline | [nintendo64 timeline](https://github.com/dejuresavv/site/blob/2016085/_timeline/videogames.md)
 
 
 # Άσκηση Warm Up - Become Productive with a To-Do List
