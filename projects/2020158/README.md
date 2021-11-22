@@ -73,7 +73,7 @@
 
 | Περιγραφή | Repository Link | Project Link |
 | --- | --- | --- |
-| Slides |  |
+| Slides |  https://github.com/mariakourti/site/blob/master/_slides/video-game-interactivity.md |
 | Timeline | https://github.com/mariakourti/site/blob/master/_timeline/video-game-interactivity.md | [Χρονολόγιο](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LS122FVdGwlrDVPI0XT6N9JeMkhYZFIBvndO3edx00I&font=Default&lang=en&initial_zoom=2&height=650) |
 
 
