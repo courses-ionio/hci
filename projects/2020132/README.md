@@ -13,7 +13,7 @@
 | 3 | [Άσκηση Γραμμής Εντολών / Warm Up](#δευτερη-ασκηση-γραμμησ-εντολων) |
 | 4 | [Συμμετοχικό Περιεχόμενο Α1](#συμμετοχικο-περιεχομενο-α1) |
 | 5 | [Άσκηση Γραμμής Εντολών / Warm Up](#τριτη-ασκηση-γραμμησ-εντολων) |
-| 6 | ー |
+| 6 | [Συμμετοχικό Περιεχόμενο Α2](#συμμετοχικο-περιεχομενο-α2) |
 | 7 | ー |
 | 8 | ー |
 | 9 | ー |
@@ -81,3 +81,12 @@ https://github.com/dylanaraps/neofetch
 
 ## ΠΗΓΕΣ
 https://streamable.com https://obsproject.com/ https://github.com/mpv-player/mpv https://github.com/ytdl-org/youtube-dl https://youtu.be/8F2s8ivKXNY
+
+# **ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α2**
+
+Για το συμμετοχικό Α2, επέλεξα να δημιουργήσω slide και timeline με τον τίτλο virtual-reality-tracking με βασικό θέμα την επαυξημένη πραγματικότητα στον τομέα των βιντεοπαιχνιδιών. Το θέμα αυτό με τράβηξε επειδή εχώ βάλει σκοπό να κάνω το βήμα από την δημιουργία βιντεοπαιχνιδιών για πλατφόρμες υπολογιστή σε 2D display monitor και να προσθέσω υποστήριξω επαυξημένης πραγματικότητας για να πάω την διάδραση των παιχνιδιών μου και των παικτών στο επόμενο επίπεδο. 
+
+| Αντικείμενο | Repository Link |
+| --- | --- |
+| Slides| [virtual-reality-tracking.md](https://github.com/Vasilakious/site/blob/p2020132/_slides/virtual-reality-tracking.md) |
+| Timeline | [virtual-reality-tracking.md](https://github.com/Vasilakious/site/blob/p2020132/_timeline/virtual-reality-tracking.md) |
