@@ -139,4 +139,15 @@ https://wiki.archlinux.org/title/Dotfiles
 
 Ενημέρωση του images submodule μεσω terminal: https://asciinema.org/a/449292
 
+##### [5]
+
+## Ασκηση γραμμης εντολων: text editor and plug-ins for code highlighting and autocompletion (hci)
+
+Asciinema: 
+
+**Βηματα:** 
+
+## Αποτελεσματα:
+
+**Πηγή:**
 
