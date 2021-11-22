@@ -73,7 +73,7 @@
 
 | Περιγραφή | Repository Link | Project Link |
 | --- | --- | --- |
-| Slides |  https://github.com/mariakourti/site/blob/master/_slides/video-game-interactivity.md |
+| Slides |  https://github.com/mariakourti/site/blob/master/_slides/video-game-interactivity.md | [Διαφάνειες](https://www.canva.com/design/DAEwcu-UO1c/2ovwe2W0ML5Zuj9S2TXE0A/view?utm_content=DAEwcu-UO1c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 | Timeline | https://github.com/mariakourti/site/blob/master/_timeline/video-game-interactivity.md | [Χρονολόγιο](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LS122FVdGwlrDVPI0XT6N9JeMkhYZFIBvndO3edx00I&font=Default&lang=en&initial_zoom=2&height=650) |
 
 Σύνδεσμοι Πηγών: https://en.wikipedia.org/wiki/Game_Boy_Advance_SP | https://en.wikipedia.org/wiki/Oculus_Quest_2
