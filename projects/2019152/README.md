@@ -10,10 +10,10 @@
 | --- | --- |
 | 1 | [Εισαγωγή](#Εισαγωγή) |
 | 2 | [CLI: Linux Basics](#2ο-Παραδοτέο---Command-Line-Interface---Linux-Basics) |
-| 3 | [CLI: Weather Report](#3ο-Παραδοτέο---Command-Line-Interface---Weather-Report) |
+| 3 | [CLI: ToDo List](#3ο-Παραδοτέο---Command-Line-Interface---ToDo-List) |
 | 4 | [Συμμετοχικό 1Α](#4ο-Παραδοτέο---Συμμετοχικό-Περιέχομενο---Εικόνες) |
-| 5 | Άσκηση γραμμής εντολών $ |
-| 6 | συμμετοχικό περιεχόμενο 2A $ |
+| 5 | [CLI: Weather Report](#5ο-Παραδοτέο---Command-Line-Interface---Weather-Report) |
+| 6 | [Συμμετοχικό 2Α](#6ο-Παραδοτέο---Συμμετοχικό-Περιέχομενο---Διαφάνειες-/-Χρονολόγιο) |
 | 7 | Άσκηση γραμμής εντολών $ |
 | 8 | συμμετοχικό περιεχόμενο 1B $ |
 | 9 | Άσκηση γραμμής εντολών $ |
@@ -97,7 +97,45 @@ sudo | ls | cat | lshw
 [A complete guide to Linux Config Files](https://www.cbtnuggets.com/blog/technology/system-admin/a-complete-guide-to-linux-config-files) |
 
 
-# 3ο Παραδοτέο - Command Line Interface - Weather Report
+# 3ο Παραδοτέο - Command Line Interface - ToDo List
+
+Χρησιμοποιώντας το πρόγραμμα **todo.txt**, μπορούμε να δούμε και να επεξεργαστούμε ένα απλό αρχείο txt με σκοπό να κρατάμε ένα todo list με τα πράγματα που θέλουμε να κάνουμε. Η χρήση του εργαλείου είναι αρκετά απλή, με τα βασικά command `todo.sh add x` και `todo.sh del x` για να εισάγουμε / διαγράψουμε καταχωρήσεις στο αρχείο. Με την εντολή `todo.sh ls` εμφανίζεται μια λίστα με τις καταχωρήσεις που έχουμε κάνει μέχρι στιγμής.
+
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/todo.gif" width="500" />
+</p>
+
+Επιπλέον, μας δίνεται η δυνατότητα να σημειώσουμε καταχωρήσεις ως ολοκληρωμένες, χρησιμοποιώντας τις κατάλληλες παραμέτρους, όπως με την εντολή `todo.sh done 1`, με την οποία σημειώνουμε την 1η καταχώρηση στην λίστα. Στην προκειμένη περίπτωση, τα entries που σημειώνονται ως ολοκληρωμένα γράφονται σε αντίστοιχο αρχείο **done.txt**.
+
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/done.gif" width="500" />
+</p>
+
+Σε γενικές γραμμές, είναι ένα απλό και lightweight εργαλείο που είναι αρκετά αποτελεσματικό στο να μας βοηθάει να κρατάμε επαφή με τα task τα οποία καλούμαστε να πραγματοποιήσουμε ή έχουμε στον νου μας ότι πρέπει να γίνουν αυτήν την χρονική περίοδο. Κατ' επέκταση, θα μπορούσε και να γίνει μια ενσωμάτωση με ένα window manager, έτσι ώστε να εμφανίζεται μια μικρογραφία του αρχείου txt στο desktop, έτσι ώστε να είναι ακόμη πιο προσβάσιμο και να μας θυμίζει συνεχώς τα task προς εκπλήρωση, αυξάνοντας έτσι την παραγωγικότητά μας.
+
+
+#### Εντολές / Εργαλεία / Πηγές
+
+[todo.txt](http://todotxt.org/)
+[todo.txt-cli](https://github.com/todotxt/todo.txt-cli)
+
+
+# 4ο Παραδοτέο - Συμμετοχικό Περιέχομενο - Εικόνες
+
+Σε αυτό το παραδοτέο ζητήθηκε η προσθήκη κάποιων εικόνων στο online διαδραστικό βιβλίο του μαθήματος. Έπρεπε να γίνει fork του repository του site, να γίνουν οι κατάλληλες προσθήκες στα submodules που βρίσκονται οι απαραίτητες εικόνες / λεζάντες καθώς και παραμετροποιήσεις του config file. Στην συνέχεια, έγινε host της ιστοσελίδας στο Netlify. Επέλεξα να κάνω προσθήκες πάνω σε 2 καταχωρήσεις, τις οποίες μπορείτε να δείτε παρακάτω:
+
+[Εικόνα 1](https://p19pana-pibook.netlify.app//gallery/ascii-art/) | [Εικόνα 2](https://p19pana-pibook.netlify.app//gallery/msn/)
+
+Τα markdown αρχεία για την σωστή διαμόρφωση και host της ιστοσελίδας είναι διαθέσιμα στο [Site Repo](https://github.com/p19pana/site), καθώς και τα αρχεία για την καταχώρηση των εικόνων / λεζάντων, τα οποία είναι επίσης διαθέσιμα στο [Gallery Submodule](https://github.com/p19pana/_gallery) του repo του ψηφιακού βιβλίου.
+
+
+#### Εντολές / Εργαλεία / Πηγές
+
+[netlify](https://app.netlify.com)
+[gimp](https://www.gimp.org/)
+
+
+# 5ο Παραδοτέο - Command Line Interface - Weather Report
 
 Σε αυτή την άσκηση, παρουσίασα το εργαλείο wttr.in, το οποίο επιτρέπει στον χρήστη να προβάλλει ένα καιρικό δελτίο μέσα στο terminal. Όπως βλέπουμε από τα παρακάτω GIFs, είναι ένα απλό εργαλείο. Τρέχοντας την εντολή `curl wttr.in`, μας βγάζει ένα συνοπτικό δελτίο καιρού για την τρέχουσα τοποθεσία μας (την οποία τραβάει μέσω της διεύθυνσης IP μας).
 
@@ -131,21 +169,18 @@ echo | read | tr
 [curl](https://curl.se/) |
 [wget](https://www.gnu.org/software/wget/) |
 
-[wttr Help](https://wttr.in/:help) |
+[wttr Help](https://wttr.in/:help)
 
 
-# 4ο Παραδοτέο - Συμμετοχικό Περιέχομενο - Εικόνες
-Σε αυτό το παραδοτέο ζητήθηκε η προσθήκη κάποιων εικόνων στο online διαδραστικό βιβλίο του μαθήματος. Έπρεπε να γίνει fork του repository του site, να γίνουν οι κατάλληλες προσθήκες στα submodules που βρίσκονται οι απαραίτητες εικόνες / λεζάντες καθώς και παραμετροποιήσεις του config file. Στην συνέχεια, έγινε host της ιστοσελίδας στο Netlify. Επέλεξα να κάνω προσθήκες πάνω σε 2 καταχωρήσεις, τις οποίες μπορείτε να δείτε παρακάτω:
+# 6ο Παραδοτέο - Συμμετοχικό Περιέχομενο - Διαφάνειες / Χρονολόγιο
 
-[Εικόνα 1](https://p19pana-pibook.netlify.app//gallery/ascii-art/) | [Εικόνα 2](https://p19pana-pibook.netlify.app//gallery/msn/)
+Ως επέκταση του παραδοτέου σχετικά με το διαδραστικό site του βιβλίου, σε αυτό το παραδοτέο έγιναν ενσωματώσεις των εικόνων στα αντίστοιχα σετ διαφανειών, καθώς και στο χρονολόγιο.
 
-Τα markdown αρχεία για την σωστή διαμόρφωση και host της ιστοσελίδας είναι διαθέσιμα στο [Site Repo](https://github.com/p19pana/site), καθώς και τα αρχεία για την καταχώρηση των εικόνων / λεζάντων, τα οποία είναι επίσης διαθέσιμα στο [Gallery Submodule](https://github.com/p19pana/_gallery) του repo του ψηφιακού βιβλίου.
+Slideshow: [Τρόποι Διάδρασης](https://p19pana-pibook.netlify.app//slides/styles/) | [Έξυπνες Διεπαφές Χρήστη](https://p19pana-pibook.netlify.app//slides/iui/)
 
+Χρονολόγια: [Πολυμεσικά Συστήματα](https://p19pana-pibook.netlify.app//timeline/multimedia/) | [Τερματικό](https://p19pana-pibook.netlify.app//timeline/terminal/)
 
-#### Εντολές / Εργαλεία / Πηγές
-
-[netlify](https://app.netlify.com)
-[gimp](https://www.gimp.org/)
+Όπως και στο προηγούμενο παραδοτέο, τα αρχεία markdown είναι διαθέσιμα στο [Site Repo](https://github.com/p19pana/site).
 
 # Κλείσιμο
 
@@ -161,7 +196,7 @@ echo | read | tr
 [The Begginer's Guide to Shell Scripting](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/) |
 [Bash Scripting Tutorial for Begginers](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) |
 [Git Tools - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) |
-[Mastering Git Submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407) |
+[Mastering Git Submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407)
 
 
 
