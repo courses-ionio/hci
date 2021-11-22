@@ -70,7 +70,7 @@
 
 | Περιγραφή | Repository Σύνδεσμος |
 | --- | --- |
-| Slides | [Προϊόντα Apple (Slides)](https://github.com/Sola1r3/site/blob/master/_slides/appledevices.md) |
+| Slides | [Προϊόντα Apple (Slides)](https://github.com/Sola1r3/site/blob/master/_slides/appleproducts.md) |
 | Timeline | [Η εξέλιξη των συστημάτων της Apple (Timeline)](https://github.com/Sola1r3/site/blob/master/_timeline/apple.md) |
 
 <br />
