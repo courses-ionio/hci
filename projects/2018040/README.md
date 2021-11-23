@@ -185,3 +185,25 @@ Asciinema: https://asciinema.org/a/450774
 
 ##### [6]
 
+## Συμμετοχικο περιεχομενο 2α
+
+**Βηματα:**
+
+Καταχωρηση των εικονων του παραδοτεου 1α στα αποθετηρια ``_slides``,``_timeline``
+
+## Διαφανειες 
+
+Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/2018040/_slides/archetypes.md
+
+## Χρονολογιο 
+
+Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/2018040/_timeline/apple.md
+
+
+
+
+
+
+
+
+
