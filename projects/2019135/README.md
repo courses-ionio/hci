@@ -21,11 +21,26 @@
 Ο στόχος που έχω για το μάθημα είναι να κατάλαβω καλύτερα το τρόπο με τον οποίο είναι δυνατή η επικοινωνία του ανθρώπου με τον υπολογιστή και πόσο σημαντική είναι. Επίσης, να μάθω να γράφω γλώσσες προγραμμάτισμου (JavaScript) καλύτερα και αποδοτικότερα.
 
 # 2ο Παραδοτέο - Track your time with a simple journal
+  Αρχικά, παρακάτω παρουσιάζεται το boot log με το system info του υπολογιστή μου: https://asciinema.org/a/450964 
+ 
+ <a href="https://asciinema.org/a/450964" target="_blank"><img src="https://asciinema.org/a/450964.svg" /></a> 
+  
+  Το jrnl απαιτούσε να υπάρχει το *pip* το οποίο ήταν αρκετά εύκολο στην εγκατάστηση του με εντολές όπως το pacman.
+  Η διαδικασία που ακολούθησα έπειτα είναι η εξής: https://asciinema.org/a/450957
+  
+  <a href="https://asciinema.org/a/450957" target="_blank"><img src="https://asciinema.org/a/450957.svg" /></a>
+  
 
 # 3ο Παραδοτέο - Check the weather
+  Για την ενημέρωση του καιρού η χρήση της εντολής *curl* ήταν αρκετή και αυτό φαίνεται εδώ: https://asciinema.org/a/450917
+  
+  <a href="https://asciinema.org/a/450917" target="_blank"><img src="https://asciinema.org/a/450917.svg" /></a>
 
 # 4ο Παραδοτέο 
 
 # 5ο Παραδοτέο - Fetch information
+  Παρόμοια με το Check the weather γίνεται πάλι με την εντολή *curl*  απλά για ενημέρωση σε σχέση με τις επιχειρήσεις: https://asciinema.org/a/450910
+  
+  <a href="https://asciinema.org/a/450910" target="_blank"><img src="https://asciinema.org/a/450910.svg" /></a>
 
 # 6ο Παραδοτέο
