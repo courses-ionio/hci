@@ -157,6 +157,8 @@ Asciinema: https://asciinema.org/a/450875
 
 ## Αποτελεσματα: 
 
+![curl](https://github.com/p18kana/HCI-files/blob/main/wttr.in_p2018040.png)
+
 **Πηγή:** https://github.com/chubin/wttr.in
 
 ## Ασκηση γραμμης εντολων: text editor and plug-ins for code highlighting and autocompletion (hci)
