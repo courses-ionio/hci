@@ -18,7 +18,7 @@
 | 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών: download-mp3(hci)/set-up the main dependencies and demonstrate your base system (warmup) </a></sup> |
 | 4 | <sup><a href="#4"> συμμετοχικό περιεχόμενο 1A </a></sup> |
 | 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών </a></sup> |
-| 6 | συμμετοχικό περιεχόμενο 2A |
+| 6 |  <sup><a href="#6"> συμμετοχικό περιεχόμενο 2A </a></sup> |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
@@ -162,4 +162,6 @@ Asciinema: https://asciinema.org/a/450774
 ![vim](https://github.com/p18kana/HCI-files/blob/main/vim_p2018040.png)
 
 **Πηγή:** https://www.vim.org/docs.php
+
+##### [6]
 
