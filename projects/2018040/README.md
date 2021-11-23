@@ -157,7 +157,9 @@ Asciinema: https://asciinema.org/a/450774
 
 Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
 
-## Αποτελεσματα:
+## Αποτελεσματα: 
+
+![vim](https://github.com/p18kana/HCI-files/blob/main/vim_p2018040.png)
 
 **Πηγή:** https://www.vim.org/docs.php
 
