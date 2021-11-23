@@ -143,11 +143,21 @@ https://wiki.archlinux.org/title/Dotfiles
 
 ## Ασκηση γραμμης εντολων: text editor and plug-ins for code highlighting and autocompletion (hci)
 
-Asciinema: 
+Asciinema: https://asciinema.org/a/450774 
 
 **Βηματα:** 
 
+Με το ``asciinema rec -i 0.2`` ξεκιναω το record του terminal.
+
+Κάνω εγκατάσταση των απαραίτητων πακέτων ``sudo pacman -S vim``
+
+Ανοιγμα αρχειου config ``sudo vim /home/p2018040/config`` 
+
+Επεξεργασια αρχειου config και αποθηκευση αυτου ``:w, :q``
+
+Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
+
 ## Αποτελεσματα:
 
-**Πηγή:**
+**Πηγή:** https://www.vim.org/docs.php
 
