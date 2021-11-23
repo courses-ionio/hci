@@ -35,7 +35,9 @@
 
 [asciinema link](https://asciinema.org/a/449234)
 
-
+# Εβδομάδα 3
+   Αυτήν την εβδομάδα ασχολήθηκα με απεικόνηση της πρόβλεψης του καιρού μέσω του τερματικού μου. Συγκεκριμένα η εκφώνηση έγραφε: "Fetch the weather forecast for your home city and one more city that you want to travel to. Οπότε και εγω ασχολήθηκα με τον τόπο καταγωγής μου (Λάρισα) και με το Βερολίνο. Ακολουθεί το λινκ του asciinema
+   [asciinema link](https://asciinema.org/a/450961)
 
 [Αναλυτικές οδηγίες για το περιεχόμενο των παραδοτέων και την τελική αναφορά](https://courses-ionio.github.io/help/deliverables/)
 
