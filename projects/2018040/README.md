@@ -141,6 +141,24 @@ https://wiki.archlinux.org/title/Dotfiles
 
 ##### [5]
 
+## Ασκηση γραμμης εντολων: check the weather (warmup)
+
+Asciinema: https://asciinema.org/a/450875
+
+**Βηματα:**
+
+Με το ``asciinema rec -i 0.2`` ξεκιναω το record του terminal.
+
+Κάνω εγκατάσταση των απαραίτητων πακέτων ``sudo pacman -S curl`` 
+
+Προβολη καιρικων συνθηκων στην πολη μου ``curl wttr.in/Volos``
+
+Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
+
+## Αποτελεσματα: 
+
+**Πηγή:** https://github.com/chubin/wttr.in
+
 ## Ασκηση γραμμης εντολων: text editor and plug-ins for code highlighting and autocompletion (hci)
 
 Asciinema: https://asciinema.org/a/450774 
