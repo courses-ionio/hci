@@ -26,9 +26,21 @@
 ## 2ο Παραδοτέο - Check the weather
 Πριν ξεκινήσω με την πρώτη εργασία γραμμής εντολών θα ήθελα να δείξω τις πληροφορίες σχετικά με το λειτουργικό σύστημα, το software και το hardware μου. Αυτές τις πληροφορίες μπόρεσα να τις εμφανιίσω με την εντολή Νeofetch.
 
-Αsciinema link: https://asciinema.org/a/DB4biiWwo8J3DRPIakOayZ2Zs
+Αsciinema link:https://asciinema.org/a/DB4biiWwo8J3DRPIakOayZ2Zs
 
-Αρχικά το ζήτούμενο αυτής της άσκησης ήταν να προβάλω τους καιρούς από την πόλη της μόνιμης κατοικίας μου και έναν τόπο στον οποίο θα ήθελα να ταξιδέψω
+<a href="https://asciinema.org/a/450984" target="_blank"><img src="https://asciinema.org/a/450984.svg" /></a>
+
+Αρχικά το ζήτούμενο αυτής της άσκησης ήταν να προβάλω τους καιρούς από την πόλη της μόνιμης κατοικίας μου και έναν τόπο στον οποίο θα ήθελα να ταξιδέψω. Αυτο έγινε εφικτό με την εγκατάσταση του Curl.
+
+Και στην συνέχεια με την εντολή curl wwttr./... έχουμε:
+
+1ο Asciinema link:https://asciinema.org/a/pocB0RbYJ8qUQVw0YOy0yd3Qr
+<a href="https://asciinema.org/a/450972" target="_blank"><img src="https://asciinema.org/a/450972.svg" /></a>
+
+2o Asciinema link:https://asciinema.org/a/450974
+<a href="https://asciinema.org/a/450974" target="_blank"><img src="https://asciinema.org/a/450974.svg" /></a>
+
+
 
 
 
