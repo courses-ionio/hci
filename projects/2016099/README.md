@@ -82,6 +82,8 @@
 
 <h3>download mp3</h3>
 
+<p><a href="https://www.dropbox.com/s/nr5r834nd9io985/ScrMpv.sh?dl=0">το script</a></p>
+
 <a href="https://asciinema.org/a/451498" target="_blank"><img src="https://asciinema.org/a/451498.svg" /></a>
 
 <h3>use the terminal as an IDE : SpaceVim</h3>
