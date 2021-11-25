@@ -78,3 +78,18 @@
 
 <p><a href="https://github.com/DimitrisGrigoropoulosP2016099/site/blob/2016099/_timeline/systems.md?plain=1">αλλαγμένο αρχείο</a></p>
 
+<h2>Άσκηση γραμμής εντολών (7)</h2>
+
+<h3>download mp3</h3>
+
+<a href="https://asciinema.org/a/451498" target="_blank"><img src="https://asciinema.org/a/451498.svg" /></a>
+
+<h3>use the terminal as an IDE : SpaceVim</h3>
+
+<a href="https://asciinema.org/a/451522" target="_blank"><img src="https://asciinema.org/a/451522.svg" /></a>
+
+<h3>try different terminals and shells : fish</h3>
+
+<a href="https://asciinema.org/a/451526" target="_blank"><img src="https://asciinema.org/a/451526.svg" /></a>
+
+
