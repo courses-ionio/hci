@@ -2,6 +2,8 @@
 ### Ονοματεπώνυμο: Γεώργιος Ελευθεριάδης 
 ### Αριθμός μητρώου: Π-2020064
 ### GitHub profile: [GeorgiosEleftheriadis](https://github.com/GeorgiosEleftheriadis)
+### Netlify site: [p2020064-ionio-pibook](https://p2020064-ionio-pibook.netlify.app/)
+### Pibook site repository: [GeorgiosEleftheriadis/site](https://github.com/GeorgiosEleftheriadis/site)
 <br />
 <br />
 
@@ -12,6 +14,7 @@
 |     1     | [Arch Linux installation - Warm up ασκήσεις γραμμής εντολών](#arch-linux-installation)											     |
 |     2     | [Άσκηση γραμμής εντολών - text editor and plug-ins for code highlighting and autocompletion](#2ο-παραδοτέο---text-editor-and-plug-ins-for-code-highlighting-and-autocompletion)|
 |     3     | [Άσκηση γραμμής εντολών - download mp3](#3ο-παραδοτέο---download-mp3)|
+|     4     | [Συμμετοχικό περιεχόμενο Α1-Α2](#4ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-α2)
 <br />
 
 ## Εισαγωγή
@@ -223,8 +226,38 @@ To journalctl είναι η υπηρεσία με την οποία έχουμε
 ### Δικτυογραφία 3ου παραδοτέου 
 [Searching Youtube videos using youtube-dl](https://stackoverflow.com/questions/63388364/searching-youtube-videos-using-youtube-dl) | [Getting the Youtube Error 403!](https://github.com/mps-youtube/mps-youtube/issues/977) 
 
+## 4ο παραδοτέο - Συμμετοχικό περιεχόμενο Α1-Α2
+Για το τέταρτο παραδοτέο της αναφοράς μου αποφάσισα να κάνω το πρώτο μέρος του [συμμετοχικού περιεχομένου](https://courses-ionio.github.io/projects/social/) και να συγχωνεύσω τα ζητούμενα Α1-Α2 στο παρόν παραδοτέο. Οι δύο φωτογραφίες που επέλεξα ήταν το ποντίκι και το πληκτρολόγιο χορδής του υπολογιστή Xerox Alto και αυτό διότι ήταν η πρώτη φορά που οι δύο αυτές συσκευές - αν και είχαν παρουσιαστεί είδη στο [oN-Line System](https://en.wikipedia.org/wiki/NLS_(computer_system)) του [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) - χρησιμοποιήθηκαν σε έναν προσωπικό επιτραπέζιο υπολογιστή. Όσων αφορά την πρώτη και μετά τα βοηθητικά σχόλια των δια ζώσης συναντήσεων στο πανεπιστήμιο, αποφάσισα στο caption της φωτογραφίας να περιγράψω τις κυριότερες λειτουργίες των τριών διαφορετικών κουμπιών του ποντικιού στα συστήματα [Bravo](https://en.wikipedia.org/wiki/Bravo_(editor)) και [Laurel](https://xeroxalto.computerhistory.org/Indigo/DMS/Laurel/6/Manual/.Laurel6.press!1.pdf) του Xerox Alto. Όσων αφορά την δεύτερη φωτογραφία, προσπάθησα να βρω υλικό το οποίο θα με βοηθούσε να τονίσω τις διαφορές μεταξύ του πληκτρολογίου χορδής του Xerox Alto και του NLS, δίχως επιτυχία, ωστόσο σύμφωνα με την βιβλιογραφία το πρώτο αποτελούσε μια ελαφριά παραλλαγή του δεύτερου χωρίς κάποια ουσιαστική διαφορά, πράγμα το οποίο περιέγραψα και στο caption της φωτογραφίας.
 
+Όσων αφορά τις διαφάνειες και το χρονολόγιο, αποφάσισα για το πρώτο να φτιάξω διαφάνειες για τις πρώιμες συσκευές διάδρασης και να συνδυάσω τις δύο φωτογραφίες μου με διάφορες φωτογραφίες παλαιών συσκευών-συστημάτων που υπήρχαν στην ιστοσελίδα του μαθήματος, καθώς πιστεύω πως εκεί αποτυπώνεται η φαντασία και η δημιουργικότητα του ανθρώπινου μυαλού αλλά και η συνεχής ανάγκη του να μπορεί να αναπτύσσει νέες μορφές διάδρασης με τα υπολογιστικά μηχανήματα. Για το κομμάτι του χρονολογίου, αποφάσισα να φτιάξω ένα timeline της εξέλιξης του πληκτρολογίου συνδυάζοντάς μέσα την φωτογραφία του πληκτρολογίου χορδής, ωστόσο κατά την προσωπική μου άποψη το θεωρώ φτωχό καθώς περιέχει μόνο τέσσερις φωτογραφίες χρονολογίου, και αυτό διότι δεν μπόρεσα να βρω περαιτέρω φωτογραφίες στην ιστοσελίδα του μαθήματος οι οποίες να πιστεύω πως σχετίζονται με την έννοια του πληκτρολογίου. 
 
+Όσων αφορά την δημουργία του netlify site, έφτιαξα έναν λογαριασμό χρησιμοποιώντας το github και στην συνέχεια αφού είχα τροποποιήσει κατάλληλα τα settings στα αρχεία **.gitmodules** και **_config.yml** ώστε να δείχνουν στα δικά μου forked submodules και στο δικό μου forked site αντίστοιχα, έκανα build την στατική ιστοσελίδα. Εδώ να προσθέσω επίσης πως όλες οι λειτουργίες προσθήκης και συγχρονισμού των submodules, προσθήκης αρχείων, commit και push των αλλαγών, πραγματοποιήθηκαν μέσα απο την γραμμή εντολών και σύμφωνα με την παρότρυνση στις οδηγίες του μαθήματος. 
+
+Τα links παρουσιάζονται στον παρακάτω πίνακα: 
+
+| Περιγραφή | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Xerox Alto mouse | [alto-mouse.md](https://github.com/GeorgiosEleftheriadis/_gallery/blob/dd5e66912ef3dc78466197a278fc294978c18445/alto-mouse.md) | [Xerox Alto mouse Summary](https://p2020064-ionio-pibook.netlify.app//gallery/alto-mouse/) |
+| Xerox Alto mouse images | [Full Quality](https://github.com/GeorgiosEleftheriadis/images/blob/78560830f1877a9919006e6b90ccdede5ee2315c/alto-mouse.jpg) + [Thumbnail](https://github.com/GeorgiosEleftheriadis/images/blob/78560830f1877a9919006e6b90ccdede5ee2315c/alto-mouse-thumb.jpg) |  |
+| Xerox Alto chord keyboard | [chord-keyboard.md](https://github.com/GeorgiosEleftheriadis/_gallery/blob/dd5e66912ef3dc78466197a278fc294978c18445/chord-keyboard.md) | [Xerox Alto chord keyboard Summary](https://p2020064-ionio-pibook.netlify.app//gallery/chord-keyboard/) |
+| Xerox Alto chord keyboard images | [Full Quality](https://github.com/GeorgiosEleftheriadis/images/blob/78560830f1877a9919006e6b90ccdede5ee2315c/chord-keyboard.jpg) + [Thumbnail](https://github.com/GeorgiosEleftheriadis/images/blob/78560830f1877a9919006e6b90ccdede5ee2315c/chord-keyboard-thumb.jpg) |  |
+| Slides | [Πρώιμες διαδραστικές συσκευές(md)](https://github.com/GeorgiosEleftheriadis/site/blob/master/_slides/early_interraction_devices.md) | [Πρώιμες διαδραστικές συσκευές(Netlify)](https://p2020064-ionio-pibook.netlify.app//slides/early_interraction_devices/) |
+| Timeline | [ Η εξέλιξη του πληκτρολογίου(md)](https://github.com/GeorgiosEleftheriadis/site/blob/master/_timeline/evolution-of-keyboard.md) | [Η εξέλιξη του πληκτρολογίου(Netlify)](https://p2020064-ionio-pibook.netlify.app//timeline/evolution-of-keyboard/) |
+
+### Συμπεράσματα παραδοτέου 
+Μέσα απο αυτό το παραδοτέο κατάφερα να γνωρίσω αρκετά νέα πράγματα, όπως τα εργαλεία αυτοματοποίησης της δημιουργίας στατικών ιστοσελίδων, την τεχνολογία των submodules αλλά και να εξοικειωθώ ακόμα περισσότερο με την χρήση του git μέσα από την διεπαφή γραμμής εντολών. Το παραδοτέο αυτό με βοήθησε επίσης να γνωρίσω, να ψάξω αρκετές έγκυρες πηγές και να μαζέψω πολύτιμες πληροφορίες για μερικές πρώιμες συσκευές διάδρασης, να μελετήσω ονόματα τα οποία έπεξαν καίριο ρόλο στην εξέλιξη της επικοινωνίας ανθρώπου-υπολογιστή αλλά και εν τέλει να προσθέσω και εγώ το δικό μου εκπαιδευτικό υλικό στο οποίο θα μπορούν οι συμφοιτητές μου να έχουν πρόσβαση και να μελετούν ανα πάσα στιγμή.
+
+### Δικτυογραφία παραδοτέου
+[Alto Users Handbook](http://bitsavers.trailing-edge.com/pdf/xerox/alto/Alto_Users_Handbook_Sep79.pdf) | [The Keyset](https://dougengelbart.org/content/view/273/) | [Xerox Parc and the three-button mouse](https://retrocomputing.stackexchange.com/questions/2870/xerox-parc-and-the-three-button-mouse) | [Xerox Alto: Everything You Need to Know](https://history-computer.com/xerox-alto-complete-history-of-the-xerox-alto-computer/) | [Computer History: Xerox Alto – A Personal Computer](https://www.mac-history.net/computer-history/2008-06-02/computer-history-xerox-alto-a-personal-computer) | [ALTO: A  Personal  Computer  System 
+Hardware  Manual](http://www.bitsavers.org/pdf/xerox/alto/Alto_Hardware_Manual_Aug76.pdf) | [How do I "commit" changes in a git submodule?](https://stackoverflow.com/questions/5542910/how-do-i-commit-changes-in-a-git-submodule) 
+
+### Βιβλιογραφία παραδοτέου
+[1] Wadlow, T. A. (1981). The xerox alto computer. Byte Magazine, 6(9), 58-68. <br />
+[2] Engelbart, D. C., & English, W. K. (1968, December). A research center for augmenting human intellect. In Proceedings of the December 9-11, 1968, fall joint computer conference, part I (pp. 395-410). <br />
+[3] Engelbart, D. C. (1972). Online Team Environment.(Network Information Center and Computer Augmented Team Interaction). STANFORD RESEARCH INST MENLO PARK CA AUGMENTATION RESEARCH CENTER. <br />
+[4] Mitchell, J. G. (1973). The Implementation of NLS on a Minicomputer. Xerox. Palo Alto Research Center. <br />
+[5] Thacker, C., McCreight, E., Lampson, B., Sproull, R., & Boggs, D. (1981). Alto: A personal computer. <br />
+[6] KEYBOARDS, C. CASE STUDY 2: CHORD KEYBOARDS. <br />
 
 
 
