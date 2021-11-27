@@ -126,8 +126,6 @@
   
    ## Παραδοτέο 7 : Άσκηση γραμμής εντολών - Search, download and play (with the terminal) your favorite song
   
-  
-  
    **Asciinema link:** https://asciinema.org/a/447324
   
 <p>Για πρώτη άσκηση γραμμής εντολών επέλεξα το download ενός mp3. Αρχικά πρέπει να μπώ σαν host user, και όχι με τον p2013021 user πατώντας <b>sudo su</b>. Αφού μπώ στο root, εγκαθηστώ το πακετο youtube-dl πατώντας <b>pacman -S youtube-dl</b>. Επίσης θα χρειαστεί να εγκαταστήσω και τον mpv player για να το παίξω το αρχείο, οπότε πάλι όπως είμαι στο root <b>pacman -S mpv</b>. Αμέσως μετά απο την εγκατάσταση των δύο πακέτων παταμε <b>exit</b> να βγούμε από το root, και συνεχίζουμε με την εντολη <b>asciinema rec -i 0.2</b> για να ξεκινήσει το record του terminal και με το κατέβασμα του mp3 αρχείου γράφοντας την εντολή <b>youtube-dl -x --audio format.mp3 "ytsearch:SongName"</b>. Αφού κατεβεί το αρχείο mp3 (στην περίπτωσή μου το Dire Straits - Sultans Of Swing-0fAQhSRLQnM.mp3),το μετονομάζω σε ένα μονολεκτικό όνομα, για να έιναι πιο εύκολο να διαχειριστώ το αρχείο,γράφοντας την εντολη <b>sudo mv Dire\ Straits\ -\ Sultans\ Of\ Swing-0fAQhSRLQnM.mp3 SultansOfSwing.mp3</b>. Μετά την αλλαγή του ονόματος μεταφέρω το αρχείο απο το /home/p2013021/ στόν φάκελο Music με την εντολή <b>mv SultansOfSwing.mp3 ~/Music/</b>, όπου το σύμβολο ~ συμβολίζει το /home/p2013021/ και τέλος για να το παίξω το κομμάτι με τον mpv player, γράφω την εντολή <b>mpv /home/p2013021/Music/SultansOfSwing.mp3</b>. Όταν τελειώσει το τραγούδι πατάμε exit για να τελειώσει το record και enter για να ανεβεί το asciicast στο asciinema.</p>
@@ -146,3 +144,16 @@
   
   <p>Αρχικά για το syntax highlighting στον editor vim, φτιάχνω μέσω του terminal ένα αρχείο <b>.vimrc</b> με την εντολή <b>vim /etc/.vimrc</b>. Επειδή το syntax highlighting είναι ενεργοποιημένο από default,στο αρχείο .vimrc που σημιουργήσαμε πατάμε <b>i</b> για να φύγουμε από το normal mode και να μπούμε στο edιting mode του vim. Μόλις μπούμε editing mode γράφουμε την εντολή <b>sytntax off</b> και πατάμε <b>Esc</b> για να επιστρέψουμε πάλι στο normal mode. Για να αποθηκέυσουμε τις αλλαγές και να βγούμε απο το αρχείο αυτό, πατάμε <b>:</b> και αμέσως μετά <b>wq</b> w για "write" και q για "quit". Μόλις γίνει αυτό τότε  δοκιμάζω να ανοίξω ένα πρόγραμμα σε c. Βλέπω οτι ενώ αρχκά ήταν highlighted  τώρα δεν έιναι. Εάν όμως θελήσουμε να το ξανακάνουμε highlighted πάμε στο normal mode με <b>Esc</b> αν βρισκόμαστε στο editing mode, και στην συνέχεια πατάμε <b>:</b> και γράφουμε syntax on όπου θα ενεργοποιήσει πάλι το syntax highlighting για το συγκεκριμένο αρχείο κώδικα.</p>
   
+
+  
+  
+  
+ ###### [11]
+  
+  ## Παραδοτέο 11 : Organize your notes with emacs
+  
+  **Asciinema link:** https://asciinema.org/a/JSbiEXiw73lHvdgvAaBTnYDeH
+  
+  <p>Αφού εγκατέστησα το emacs με την εντολή sudo <b>pacman -S emacs</b>, εκτέλεσα την εντολή <b>asciinema rec -i 0.2</b> για να ξεκινήσει το record του terminal. Στην συνέχεια εκτέλεσα την εντολή <b>emacs -nw</b> για να ανοίξει το emacs editor σε μορφή terminal. Πληκτρολόγησα <b>Ctrl + X + F</b> για να ανοίξω ένα καινούργιο αρχείο και μετά πληκτρολόγησα <b>Alt + X</b> και έπειτα <b>org-mode</b> για να αλλάξει σε org mode ο editor. Αρχικά ξεκίνησα να οργανώνω το πρόγραμμα της μέρας με τον σχηματισμό αστερίσκων πατώντας <b>Alt + Enter</b> και για τους διπλούς αστερίσκους απλά πάτησα <b>Alt + Enter + right arrow</b>. Όρισα μια κατάσταση σε κάθε αντικείμενο πατώντας <b>Shift + right arrow</b>. Δημιούργησα ενδεικτικά και κάποιες στείλες σε ορισμένα αντικείμενα με <b>- [ ]</b> αντί για αστερίσκο όπου με το πάτημα <b>Ctrl + C + C</b> αλλάζει η κατάσταση εμφανίζοντας ένα X στις αγκύλες και εμφανίζει και ποσοστό αν βάλω το <b>%</b> ή το μέρος που έχει ολοκληρωθεί απο τις διεργασίες αν βάλω <b>/</b>. Υπάρχει ακόμα η δυνατότητα να ορίσουμε με τον ίδιο συνδυασμό <b>Ctrl + C + C</b> μια περιγραφή ή κατηγορία δίπλα απο το κάθε αντικείμενο, για παράδειγμα :WORK:, :HOME: κτλ. Επίσης με το <b>Alt + X</b> και το <b>org-agenda</b>, εμφανίζονται διάφορα χρήσιμα  χρήσιμα χαρακτηριστικά όπως <b>Show all TODOs</b>. Και τέλος μπορείς να πατήσεις <b>CTRL + C+ D</b> για να σου εμφανίσει το ημερολόγιο και να ορίσεις ένα deadline για κάποιο task. Για να αποθηκεύσουμε το αρχείο μας και να βγούμε απο το emacs πατάμε <b>Ctrl + X +C</b> και μόλις ξαναεπιστρέψουμε στο terminal μας, πατάμε <b>exit</b> για να σταματήσει το record από το asciinema και <b>Enter</b> για να ανέβει στο profil μας.</p>
+  
+**Πηγές :**   https://www.control-escape.com/linux/editing-emacs.html / https://www.youtube.com/watch?v=bzZ09dAbLEE  
