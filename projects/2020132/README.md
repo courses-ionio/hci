@@ -14,7 +14,7 @@
 | 4 | [Συμμετοχικό Περιεχόμενο Α1](#συμμετοχικο-περιεχομενο-α1) |
 | 5 | [Άσκηση Γραμμής Εντολών / Warm Up](#τριτη-ασκηση-γραμμησ-εντολων) |
 | 6 | [Συμμετοχικό Περιεχόμενο Α2](#συμμετοχικο-περιεχομενο-α2) |
-| 7 | ー |
+| 7 | [Άσκηση Γραμμής Εντολών / HCI](#τεταρτη-ασκηση-γραμμησ-εντολων) |
 | 8 | ー |
 | 9 | ー |
 | 10 | ー |
@@ -70,7 +70,20 @@ https://github.com/dylanaraps/neofetch
 
 # **ΤΡΙΤΗ ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ**
 
-## Warm Up - mpv & youtube-dl
+## Warm Up - 
+
+# **ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α2**
+
+Για το συμμετοχικό Α2, επέλεξα να δημιουργήσω slide και timeline με τον τίτλο virtual-reality-tracking με βασικό θέμα την επαυξημένη πραγματικότητα στον τομέα των βιντεοπαιχνιδιών. Το θέμα αυτό με τράβηξε επειδή εχώ βάλει σκοπό να κάνω το βήμα από την δημιουργία βιντεοπαιχνιδιών για πλατφόρμες υπολογιστή σε 2D display monitor και να προσθέσω υποστήριξω επαυξημένης πραγματικότητας για να πάω την διάδραση των παιχνιδιών μου και των παικτών στο επόμενο επίπεδο. 
+
+| Αντικείμενο | Repository Link |
+| --- | --- |
+| Slides| [virtual-reality-tracking.md](https://github.com/Vasilakious/site/blob/p2020132/_slides/virtual-reality-tracking.md) |
+| Timeline | [virtual-reality-tracking.md](https://github.com/Vasilakious/site/blob/p2020132/_timeline/virtual-reality-tracking.md) |
+
+# **ΤΕΤΑΡΤΗ ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΒ**
+
+## HCI - mpv & youtube-dl
 Σε αυτό το παραδοτέο ασχολήθηκα με την αναπαραγωγή βίντεο μέσω commands στην γραμμή εντολών και σχετικά με την λήψη του αρχείου .mp4 από την ιστοσελίδα YouTube, κατέβασα το πακέτο youtube-dl με το command: sudo pacman -S youtube-dl, το οποίο μου επέτρεψε με την πολύ απλή εντολή: youtube-dl (public video link) να κατεβάσω απευθείας το τραγούδι της επιλογής μου. Επιπρόσθετα, με το command: sudo paman -S mpv έκανα λήψη του MPV player, που μου επέτρεψε να παίξω το video που μόλις κατέβασα, σε ένα άλλο παράθυρο παράλληλα με το Command Line.
 
 ## **Προβλήματα που αντιμετωπίστηκαν**
@@ -81,12 +94,3 @@ https://github.com/dylanaraps/neofetch
 
 ## ΠΗΓΕΣ
 https://streamable.com https://obsproject.com/ https://github.com/mpv-player/mpv https://github.com/ytdl-org/youtube-dl https://youtu.be/8F2s8ivKXNY
-
-# **ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α2**
-
-Για το συμμετοχικό Α2, επέλεξα να δημιουργήσω slide και timeline με τον τίτλο virtual-reality-tracking με βασικό θέμα την επαυξημένη πραγματικότητα στον τομέα των βιντεοπαιχνιδιών. Το θέμα αυτό με τράβηξε επειδή εχώ βάλει σκοπό να κάνω το βήμα από την δημιουργία βιντεοπαιχνιδιών για πλατφόρμες υπολογιστή σε 2D display monitor και να προσθέσω υποστήριξω επαυξημένης πραγματικότητας για να πάω την διάδραση των παιχνιδιών μου και των παικτών στο επόμενο επίπεδο. 
-
-| Αντικείμενο | Repository Link |
-| --- | --- |
-| Slides| [virtual-reality-tracking.md](https://github.com/Vasilakious/site/blob/p2020132/_slides/virtual-reality-tracking.md) |
-| Timeline | [virtual-reality-tracking.md](https://github.com/Vasilakious/site/blob/p2020132/_timeline/virtual-reality-tracking.md) |
