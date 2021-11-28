@@ -12,8 +12,8 @@
 | 1 | [Εισαγωγή](#εισαγωγη) |
 | 2 | [Warm-Up / Check The Weather](#άσκηση-warm-up---check-the-weather)
 | 3 | [Warm-Up / Fetch Information](#άσκηση-warm-up---fetch-information)
-| 4 - 5 | [Συμμετοχικό Περιεχόμενο Α1 - A2](#συμμετοχικό-περιεχόμενο-α1-και-α2)
-| 6 | [Warm-Up / Become Productive With a To-Do List](#άσκηση-warm-up---become-productive-with-a-to-do-list) 
+| 4 - 6 | [Συμμετοχικό Περιεχόμενο Α1 - A2](#συμμετοχικό-περιεχόμενο-α1-και-α2)
+| 5 | [Warm-Up / Become Productive With a To-Do List](#άσκηση-warm-up---become-productive-with-a-to-do-list) 
 | 7 | [Search, Download and Play a YouTube Video](#άσκηση-γραμμής-εντολών---εβδομάδα-2---search-download-and-play-a-youtube-video)
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
