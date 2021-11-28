@@ -81,7 +81,7 @@ https://github.com/dylanaraps/neofetch
 | Slides| [virtual-reality-tracking.md](https://github.com/Vasilakious/site/blob/p2020132/_slides/virtual-reality-tracking.md) |
 | Timeline | [virtual-reality-tracking.md](https://github.com/Vasilakious/site/blob/p2020132/_timeline/virtual-reality-tracking.md) |
 
-# **ΤΕΤΑΡΤΗ ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΒ**
+# **ΤΕΤΑΡΤΗ ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ**
 
 ## HCI - mpv & youtube-dl
 Σε αυτό το παραδοτέο ασχολήθηκα με την αναπαραγωγή βίντεο μέσω commands στην γραμμή εντολών και σχετικά με την λήψη του αρχείου .mp4 από την ιστοσελίδα YouTube, κατέβασα το πακέτο youtube-dl με το command: sudo pacman -S youtube-dl, το οποίο μου επέτρεψε με την πολύ απλή εντολή: youtube-dl (public video link) να κατεβάσω απευθείας το τραγούδι της επιλογής μου. Επιπρόσθετα, με το command: sudo paman -S mpv έκανα λήψη του MPV player, που μου επέτρεψε να παίξω το video που μόλις κατέβασα, σε ένα άλλο παράθυρο παράλληλα με το Command Line.
