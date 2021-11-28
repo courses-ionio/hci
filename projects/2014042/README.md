@@ -81,9 +81,11 @@
 
 Asciinema Links
 
-[Αναζήτηση τραγουδιού μέσω terminal]([![asciicast](https://asciinema.org/a/452085.svg)](https://asciinema.org/a/452085))
-[Download τραγουδιού]([![asciicast](https://asciinema.org/a/452088.svg)](https://asciinema.org/a/452088))
-[Play mp3 μέσω terminal]([![asciicast](https://asciinema.org/a/452094.svg)](https://asciinema.org/a/452094))
+[Αναζήτηση τραγουδιού μέσω terminal](https://asciinema.org/a/452085)
+
+[Download τραγουδιού](https://asciinema.org/a/452088)
+
+[Play mp3 μέσω terminal](https://asciinema.org/a/452094)
 
 # Μπονους
 
