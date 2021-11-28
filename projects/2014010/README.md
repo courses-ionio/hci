@@ -55,9 +55,21 @@
 
 Για άλλη μια φορά, κάτι φαινομενικά απλό, αποδεικνύεται πιό προκλητικό. Δουλεύοντας όλο και περισσότερο πάνω στο συγκεκριμένο μάθημα αρχίζω και κατανοώ πόσα απλοποιημένα είναι όλα με τη χρήση ενός γραφικού περιβάλλοντος. Χαίρομαι που οι προκλήσεις είναι μέτριας δυσκολίας μέχρι ώρας και ανυπομονώ να κολυμπήσω στα πιο βαθιά.
 
+| Περιγραφή | Σύνδεσμος Απωθετηρίου |
+| --- | --- |
+| Images Coleco-Telstar | [Κανονική Εικόνα](https://github.com/CptMike/images/blob/master/coleco-telstar.jpg) & [Thumbnail](https://github.com/CptMike/images/blob/master/coleco-telstar-thumb.jpg) |
+| Gallery Coleco-Telstar | [Στοιχεία Εικόνας](https://github.com/CptMike/_gallery/blob/master/coleco-telstar.md) |
+| Images Brown Box | [Κανονική Εικόνα](https://github.com/CptMike/images/blob/master/brown-box.jpg) & [Thumbnail](https://github.com/CptMike/images/blob/master/brown-box-thumb.jpg) |
+| Gallery Brown Box | [Στοιχεία Εικόνας](https://github.com/CptMike/_gallery/blob/master/brown-box.md) |
+
 # 4ο Παραδοτέο - Συμμετοχικό περιεχόμενο A2
 
 Έχωντας προηγουμένος ολοκληρώσει το συμμετοχικό περιεχόμενο Α1, η διαδικασία δε φάνηκε αλλόκοτη. Χρησιμοποιώντας πάντα το terminal, οι διεργασίες έγιναν ως εξής. Στο ίδιο cloned αποθετήριο (site) όπου υπήρχαν οι φάκελοι (_slides) και (_timeline), δημιούργησα δυο νέα αρχεία με το όνομα interactivesconsoles.md. Η αρχιδκή μου ιδέα ήταν να συμπεριλάβω μόνο κονσόλες που χρησιμοποιούνταν αποκλειστικά για βιντεοπαιχνίδια. Με μια εκτενή έρευνα διαπίστωσα πως δεν υπήρχαν τόσες πολλές κονσόλες ειδικά για αυτό το σκοπο. Αποφάσισα λοιπόν να συμπεριλάβω γενικά κονσόλες διάδρασης, όπου το υλικό ήταν άφθονο. Όσον αφορά τη σύνταξη των αρχείων, έγινε εξ' ολοκλήρου στο vim. Χαίρομαι ιδιαίτερα που εξοικειώνομαι τόσο με τον τρόπο εργασίας, όσο και με τα modes (i.e. Insert, Command). Αυτή τη φορά δε συνάντησα δυσκολίες πέρα απο την εύρεση συσχετιζόμενων συσκευών. Ανυπομονώ να αντιμετωπίσω πιό δύσκολες ασκήσεις!
+
+| Περιγραφή | Σύνδεσμος Απωθετηρίου |
+| --- | --- |
+| Slides | [Συσκευές Διάδρασης](https://github.com/CptMike/site/blob/master/_slides/interactiveconsoles.md) |
+| Timeline | [Συσκευές Διάδρασης](https://github.com/CptMike/site/blob/master/_timeline/interactiveconsoles.md) |
 
 # 5ο Παραδοτέο - Άσκηση Γραμμής Εντολών
 
