@@ -14,7 +14,7 @@
 | 4 | [Συμμετοχικό 1Α](#4ο-Παραδοτέο---Συμμετοχικό-Περιέχομενο---Εικόνες) |
 | 5 | [CLI: Weather Report](#5ο-Παραδοτέο---Command-Line-Interface---Weather-Report) |
 | 6 | [Συμμετοχικό 2Α](#6ο-Παραδοτέο---Συμμετοχικό-Περιέχομενο---Διαφάνειες-/-Χρονολόγιο) |
-| 7 | Άσκηση γραμμής εντολών $ |
+| 7 | [CLI: TMUX](#7ο-Παραδοτέο---Command-Line-Interface---TMUX) |
 | 8 | συμμετοχικό περιεχόμενο 1B $ |
 | 9 | Άσκηση γραμμής εντολών $ |
 | 10 | συμμετοχικό περιεχόμενο 2B $ |
@@ -62,6 +62,42 @@ Bash Config: `cat /etc/bash.bashrc`
 </p>
 MakePKG Config: `cat /etc/makepkg.conf`
 
+### 4) Προβολή Boot Logs
+Τα Arch έχουν το systemd ως system manager, το οποίο χρησιμοποιεί ένα ενοποιημένο εργαλείο για logging, το `journalctl`. Παρ' όλα αυτά, με τα κατάλληλα flags, μπορούμε να ανακαλέσουμε τα logs μόνο για το συγκεκριμένο boot session. Επειδή το αρχείο εξόδου ήταν αρκετά μεγάλο, το πέρασα μέσω ενός pipe σε ένα [αρχείο txt](https://github.com/Tarakhs/HCISupp/blob/master/Various/log.txt).
+
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/log.gif" width="500" />
+</p>
+
+
+### 5) List Software / Hardware Specs
+Για την προβολή των χαρακτηριστικών του συστήματος, χρησιμοποιήθηκαν διάφορα εργαλεία, είτε αυτά ήταν εντολές unix ή ξεχωριστά βοηθητικά πακέτα, όπως για παράδειγμα το **neofetch**.
+
+<p float="left">
+  <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/disk.png" width="400" />
+  <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/ram.png" width="400" />
+</p>
+Disk Stats: `df -h`
+RAM Stats: `vmstat`
+
+<p float="left">
+  <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/cpu.png" width="600" />
+  <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/network.png" width="600" />
+</p>
+CPU Stats: `htop`
+Network Stats: `bmon`
+
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/lshw.gif" width="500" />
+</p>
+Hardware List: `lshw -short`
+
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/neofetch.gif" width="500" />
+</p>
+Short Info: `neofetch`
+
+
 #### Terminal Customization
 Κάνοντας uncomment κάποιες γραμμές και αλλάζοντας τις τιμές τους στο config file του Alacritty, η διαφορά είναι αισθητή. Συγκεκριμένα, έκανα το window που δημιουργείται να εμφανίζεται στο κέντρο της οθόνης, άλλαξα το default font, χαμήλωσα το opacity για να κάνω το παράθυρο διάφανο, και άλλαξα τα default keybinds για τις εντολές Copy / Paste έτσι ώστε να λειτουργούν με Ctrl+C/V αντί για Ctrl+Shift+C/V.
 Η διαφορά φαίνεται όταν το συγκρίνουμε με την όψη του Alacritty, όταν χρησιμοποιεί το default config:
@@ -70,18 +106,6 @@ MakePKG Config: `cat /etc/makepkg.conf`
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/custom.png" width="500" />
 </p>
 Terminal Config : `cat ~/.config/alacritty/alacritty.yml`
-
-### 4) List Software / Hardware Specs
-
-<p align="center">
-    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/lshw.gif" width="500" />
-</p>
-List Hardware: `lshw -short`
-
-<p align="center">
-    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/neofetch.gif" width="500" />
-</p>
-List Software: `neofetch`
 
 
 #### Εντολές / Εργαλεία / Πηγές
@@ -126,7 +150,14 @@ sudo | ls | cat | lshw
 
 [Εικόνα 1](https://p19pana-pibook.netlify.app//gallery/ascii-art/) | [Εικόνα 2](https://p19pana-pibook.netlify.app//gallery/msn/)
 
-Τα markdown αρχεία για την σωστή διαμόρφωση και host της ιστοσελίδας είναι διαθέσιμα στο [Site Repo](https://github.com/p19pana/site), καθώς και τα αρχεία για την καταχώρηση των εικόνων / λεζάντων, τα οποία είναι επίσης διαθέσιμα στο [Gallery Submodule](https://github.com/p19pana/_gallery) του repo του ψηφιακού βιβλίου.
+Μαζί με τα αντίστοιχα markdown αρχεία:
+
+[Repo Config](https://github.com/p19pana/site/blob/master/_config.yml) | [Εικόνα 1](https://github.com/p19pana/_gallery/blob/25e38e3d4c3db5275555ffc197ac9d918987b579/ascii-art.md) | [Εικόνα 2](https://github.com/p19pana/_gallery/blob/25e38e3d4c3db5275555ffc197ac9d918987b579/msn.md)
+
+Εικόνες:
+
+Εικόνα 1 [Full](https://github.com/p19pana/images/blob/master/ascii-art.jpg) / [Thumb](https://github.com/p19pana/images/blob/master/ascii-art-thumb.jpg)
+Εικόνα 2 [Full](https://github.com/p19pana/images/blob/master/msn.jpg) / [Thumb](https://github.com/p19pana/images/blob/master/msn-thumb.jpg)
 
 
 #### Εντολές / Εργαλεία / Πηγές
@@ -180,7 +211,15 @@ Slideshow: [Τρόποι Διάδρασης](https://p19pana-pibook.netlify.app/
 
 Χρονολόγια: [Πολυμεσικά Συστήματα](https://p19pana-pibook.netlify.app//timeline/multimedia/) | [Τερματικό](https://p19pana-pibook.netlify.app//timeline/terminal/)
 
-Όπως και στο προηγούμενο παραδοτέο, τα αρχεία markdown είναι διαθέσιμα στο [Site Repo](https://github.com/p19pana/site).
+Markdown Αρχεία:
+
+[Τρόποι Διάδρασης](https://github.com/p19pana/site/blob/master/_slides/styles.md) | [Έξυπνες Διεπαφές Χρήστη](https://github.com/p19pana/site/blob/master/_slides/iui.md) | [Πολυμεσικά Συστήματα](https://github.com/p19pana/site/blob/master/_timeline/multimedia.md) | [Τερματικό](https://github.com/p19pana/site/blob/master/_timeline/terminal.md)
+
+
+# 7ο Παραδοτέο - Command Line Interface - TMUX
+
+#### Εντολές / Εργαλεία / Πηγές
+
 
 # Κλείσιμο
 
