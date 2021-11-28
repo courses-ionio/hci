@@ -6,14 +6,14 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | <sup><a href="#1"> Φορκ του αποθετηρίου,δημιουργία της σελίδας της αναφοράς και εισαγωγή με περιγραφή των αναγκών και στόχων για το μάθημα </a></sup> |
-| 2 | <sup><a href="#2"> Άσκηση γραμμής εντολών :set-up the main dependencies and demonstrate your base system(warmup) </a></sup> |
-| 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών :download mp3(hci) / get familiar with basic commands, reading documentation and editing files(warmup) </a></sup> |
+| 2 | <sup><a href="#2"> Άσκηση γραμμής εντολών : set-up the main dependencies and demonstrate your base system(warmup) </a></sup> |
+| 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών : get familiar with basic commands, reading documentation and editing files(warmup) </a></sup> |
 | 4 | <sup><a href="#4"> συμμετοχικό περιεχόμενο 1A </a></sup> |
-| 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion(hci) / check the weather(warmup) </a></sup> |
+| 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών : check the weather(warmup) </a></sup> |
 | 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο 2A </a></sup> |
-| 7 | Άσκηση γραμμής εντολών |
+| 7 | <sup><a href="#7"> Άσκηση γραμμής εντολών : download mp3(hci) </a></sup> |
 | 8 | συμμετοχικό περιεχόμενο 1B |
-| 9 | Άσκηση γραμμής εντολών |
+| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion(hci) </a></sup> |
 | 10 | συμμετοχικό περιεχόμενο 2B |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -61,33 +61,6 @@ https://github.com/jbernard/dotfiles
 
 
 ##### [3]
-
-## Άσκηση γραμμής εντολών : download-mp3 (hci)
-
-asciinema link : https://asciinema.org/a/444197 
-
-## Αποτελέσματα : 
-
-![download-mp3](https://github.com/p18kout/hci-images/blob/main/2018143_download-mp3.gif)
-
-Διαδικασία : 
-
-• Λήψη πακέτου youtube-dl  **sudo pacman -S youtube-dl**
-
-• Λήψη πακέτου mpg123 **sudo pacman -S mpg123**
-
-• Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
-
-• Aναζήτηση και λήψη κομματιού **youtube-dl -x --audio-format mp3 "ytsearch:donda"**
-
-• Μετακίνηση στο location του αρχείου **cd Desktop**
-
-• Αναπαραγωγή κομματιού **mpg123 donda.mp3**
-
-• Τέλος εγγραφής terminal **exit**
-
-Πηγή : https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
-
 
 ## Άσκηση γραμμής εντολών : get familiar with basic commands, reading documentation and editing files (warmup)
 
@@ -141,25 +114,6 @@ Updating images submodule : https://asciinema.org/a/449082
 
 ##### [5]
 
-## Άσκηαη γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion (hci) 
-
-asciinema link : https://asciinema.org/a/449721
-
-Διαδικασία : 
-
-• Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
-
-• Εγκατάσταση απαραίτητων πακέτων **sudo pacman -S vim** , **sudo pacman -S vi**
-
-• Επεξεργασία του αρχείου config **sudo vi /home/p2018143/config**
-
-• Τέλος εγγραφής terminal **exit**
-
-## Αποτελέσματα : 
-
-![config](https://github.com/p18kout/hci-images/blob/main/2018143_config.png)
-
-Πηγή :https://www.vim.org/
 
 ## Άσκηση γραμμής εντολών : check the weather (warmup) 
 
@@ -197,3 +151,54 @@ asciinema link : https://asciinema.org/a/449720
 
 Αποθετήριο χρονολογίου : https://github.com/p18kout/site/blob/2018143/_timeline/mobile.md
 
+##### [7]
+
+## Άσκηση γραμμής εντολών : download-mp3 (hci)
+
+asciinema link : https://asciinema.org/a/444197 
+
+## Αποτελέσματα : 
+
+![download-mp3](https://github.com/p18kout/hci-images/blob/main/2018143_download-mp3.gif)
+
+Διαδικασία : 
+
+• Λήψη πακέτου youtube-dl  **sudo pacman -S youtube-dl**
+
+• Λήψη πακέτου mpg123 **sudo pacman -S mpg123**
+
+• Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
+
+• Aναζήτηση και λήψη κομματιού **youtube-dl -x --audio-format mp3 "ytsearch:donda"**
+
+• Μετακίνηση στο location του αρχείου **cd Desktop**
+
+• Αναπαραγωγή κομματιού **mpg123 donda.mp3**
+
+• Τέλος εγγραφής terminal **exit**
+
+Πηγή : https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
+
+##### [8]
+
+##### [9]
+
+## Άσκηαη γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion (hci) 
+
+asciinema link : https://asciinema.org/a/449721
+
+Διαδικασία : 
+
+• Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
+
+• Εγκατάσταση απαραίτητων πακέτων **sudo pacman -S vim** , **sudo pacman -S vi**
+
+• Επεξεργασία του αρχείου config **sudo vi /home/p2018143/config**
+
+• Τέλος εγγραφής terminal **exit**
+
+## Αποτελέσματα : 
+
+![config](https://github.com/p18kout/hci-images/blob/main/2018143_config.png)
+
+Πηγή :https://www.vim.org/
