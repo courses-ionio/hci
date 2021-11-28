@@ -32,13 +32,15 @@
 
 # Άσκηση Γραμμής Εντολών - WarmUp - Check The Weather
 
-Link Asciinema: https://asciinema.org/a/0fJSx9stix2B5HGo1uSPv9Vhw
+Link Asciinema: 
+- https://asciinema.org/a/0fJSx9stix2B5HGo1uSPv9Vhw
 
 Δίνοντας στο terminal την εντολή curl wttr.in/Corfu εμφανίζονται τα αποτελέσματα για τον καιρό(π.χ θερμοκρασία,υγρασία κλπ) στην Κέρκυρα και στη συνέχεια με την ίδια εντολή αλλά αλλάζοντας την τοποθεσία σε curl wttr.in/Ioannina εμφανίστηκαν τα αποτελέσματα για τον καιρό στην πόλη των Ιωαννίνων όπου θέλω να ταξιδέψω. Η συγκεκριμένη εντολή μπορεί να χρησιμοποιηθεί για την εμφάνιση αποτελεσμάτων καιρού όποιας πόλης επιθυμούμε.
 
 # Άσκηση Γραμμής Εντολών - WarmUp - Fetch Information
 
-Link Asciinema: https://asciinema.org/a/BNWCJamOoorfUpsqZqPgwbhGJ
+Link Asciinema: 
+- https://asciinema.org/a/BNWCJamOoorfUpsqZqPgwbhGJ
 
 Δίνοντας στο terminal την εντολή curl getnews.tech/business εμφανίζονται όλα τα αποτελέσματα τα οποία συσχετίζονται με ειδήσεις σχετικά με business. Η συγκεκριμένη εντολή μπορεί να χρησιμοποιηθεί για οποιαδήποτε κατηγορία εμφάνισης ειδήσεων επιθυμούμε.
 
@@ -64,7 +66,8 @@ Link Gallery:
 
 # Άσκηση Γραμμής Εντολών - WarmUp - ToDo List
 
-Link Asciinema: https://asciinema.org/a/cgSXap2PQP19khWbqhvr3OR76
+Link Asciinema: 
+- https://asciinema.org/a/cgSXap2PQP19khWbqhvr3OR76
 
 Μέσω του TaskWarrior δημιούργησα την ToDo λίστα μου,την επεξεργάστηκα,την έλεγξα και τέλος την διέγραψα.
 
@@ -88,7 +91,8 @@ Link Timelines:
 
 # Άσκηση Γραμμής Εντολών - HCI - Download Mp3
 
-Link Asciinema: https://asciinema.org/a/VcH3iZU4bOOd2qodzi3m04MFW
+Link Asciinema: 
+- https://asciinema.org/a/VcH3iZU4bOOd2qodzi3m04MFW
 
 Μέσω του Terminal και των εργαλείων youtube-dl και ytfzf, έκανα αναζήτηση,αναπαραγωγή αλλά και κατέβασα το αγαπημένο μου τραγούδι από το Youtube.
 
