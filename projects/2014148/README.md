@@ -43,6 +43,10 @@
 
 # Εβδομάδα 4 
   Αυτήν την εβδομάδα έκανα την άσκηση συμετοχικού περιεχομένου. Περιγραφή:Αρχικά έκανα fork τα αποθετήρια site, images και gallery. Στην συνέχεια και μέσω του τερματικού μου έκανα commit και push 2 φωτογραφίες σε πρώτο χρόνο στo submodule images και στην πορεία στο site repository. Οι φωτογραφίες είναι σχετικά με το Arch linux και το Xerox Alto Mouse και είναι εδω: [Arch-Linux](https://github.com/p14ntot/images/blob/8144a8180f28af110e406f95fd6a09a02bc9c743/arch%20linux.png), [Xerox-Alto-Mouse](https://github.com/p14ntot/images/blob/8144a8180f28af110e406f95fd6a09a02bc9c743/xerox-alto-mouse). Στην συνέχεια με τον ίδιο τρόπο πρόσθεσα τις thumbnails φωτογραφίες. [Arch-Linux-thumb](https://github.com/p14ntot/images/blob/8144a8180f28af110e406f95fd6a09a02bc9c743/arch-linux-thumb.jpg), [Xerox-Alto-Mouse-Thumb](https://github.com/p14ntot/images/blob/8144a8180f28af110e406f95fd6a09a02bc9c743/xerox-alto-mouse-thumb).Έπειτα πραγματοποίηησα τις απαιτούμενες αλλαγές στο gallery repository προσθέτοντας τα [arch-linux.md](https://github.com/p14ntot/_gallery/blob/95e113b3c3e87de4d156f0615f4d89751564b1bd/arch-Linux.md) και [xerox-alto-mouse-md](https://github.com/p14ntot/_gallery/blob/95e113b3c3e87de4d156f0615f4d89751564b1bd/xerox-alto-mouse.md). Ενδεικτικό είναι και το [asciinema]( https://asciinema.org/a/452278) στο οποίο και πραγματοποιώ update του submodule gallery αφού έχω προσθέσει το xerox-alto-mouse.md.
+  
+
+# Εβδομάδα 6
+ Αυτήν την εβδομάδα τροποποίησα τους φακέλους slides και timeline. Συγκεκριμένα στα slides πρόσθεσα στο [archetypes.md ](https://github.com/p14ntot/site/blob/master/_slides/archetypes.md) το xerox-alto-mouse και στο [gui.md](https://github.com/p14ntot/site/blob/master/_slides/gui.md) το arch-linux. Έπειτα στον φάκελο timeline πρόσθεσα στο [mouse.md](https://github.com/p14ntot/site/blob/master/_timeline/mouse.md) το xerox-alto-mouse και στο [systems.md](https://github.com/p14ntot/site/blob/master/_timeline/systems.md) το arch-linux. Όλη την διαδικασία μπορείτε να την δείτε αναλυτικά στο [asciinema link](https://asciinema.org/a/452344)
 
 
 
