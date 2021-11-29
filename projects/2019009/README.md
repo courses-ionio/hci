@@ -73,6 +73,6 @@
 
 ## Παραδοτέο 7
 
-### download mp3 , from youtube 	youtube-dl mpv
+### download mp3 , from youtube 	 youtube-dl mpv
 <a href="https://asciinema.org/a/445017" target="_blank"><img src="https://asciinema.org/a/445017.svg" /></a>
 
