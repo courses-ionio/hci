@@ -69,3 +69,10 @@
 Μετα με το arch-chroot /mnt εκανα εισοδο στο συστημα σαν root και υστερα  με την εντολη ln -sf /usr/share/zoneinfo/Greece/Athens /etc/localtime εθεσα την ωρα στο συστημα μου 
 και με την εντολη hwclock --systohc εθεσα την ωρα του hardware
 τελος με την εντολη passwd δημιουργησα εναν κωδικα για τον root
+
+
+## Παραδοτέο 7
+
+### download mp3 , from youtube 	youtube-dl mpv
+<script id="asciicast-445017" src="https://asciinema.org/a/445017.js" async></script>
+
