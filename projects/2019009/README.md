@@ -74,5 +74,5 @@
 ## Παραδοτέο 7
 
 ### download mp3 , from youtube 	youtube-dl mpv
-<script id="asciicast-445017" src="https://asciinema.org/a/445017.js" async></script>
+<a href="https://asciinema.org/a/445017" target="_blank"><img src="https://asciinema.org/a/445017.svg" /></a>
 
