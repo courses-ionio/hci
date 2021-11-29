@@ -4,6 +4,14 @@
 ### Αριθμός Μητρώου: Π2017002
 ### GitHub Profile: [axilleasmandravelis] (https://github.com/axilleasmandravelis)
 ### Site Repository: [axilleasmandravelis/site] (https://github.com/axilleasmandravelis/site)
+<br />
+## Πίνακας με σύνοψη των παραδοτέων
+
+| Εβδομάδα* | Παραδοτέο |
+| --- | --- |
+| 1 | [Εισαγωγή + Σύνοψη](#εισαγωγη) |
+|  | [Άσκηση γραμμής εντολών: Set-up the main dependencies and demonstrate your base system](#3ο-παραδοτέο---set-up-the-main-dependencies-and-demonstrate-your-base-system) |
+
 # ΕΙΣΑΓΩΓΗ
 ## Οι Προσδοκίες μου από το Μάθημα και την Εργασία
 Ολοκληρώνοντας την τελική μου αναφορά και το μάθημα με επιτυχία θα ήθελα να έχω αποκτίσει την ικανότητα να βλέπω με διαφορετική οπτική τις προγραμματικστικές μου δημιουργίες και να μπορώ να φτιάξω τις δικές μου εφαρμογές με διαφορετική λογικήκαι ευκολία. <br />
@@ -13,7 +21,7 @@
 
 # ΣΥΝΟΨΗ
 
-### 1o Παραδοτέο Δείχνω το software και το hardware μέσω του neofetch
+# 2o Παραδοτέο - Set-up the main dependencies and demonstrate your base system
 ### Link: https://asciinema.org/a/y4plpGDacQlauF30PFyJZ2E5B
 ### 2ο Παραδοτέο Κατεβάζω τραγούδι απο το youube και το κάνω play
 ### Link: https://asciinema.org/a/8VNvQTcRlBU5IU9WCBfeR7VLP
