@@ -125,7 +125,7 @@ https://wiki.archlinux.org/title/Dotfiles
 
 Κανω fork τα απαραιτητα αποθετηρια και δημιουργια των καταλληλων submodule με βαση τις οδηγιες του συμμετοχικου.
 
-## Εικονα 1: Apple Ipad gen9 
+## Εικονα 1: UNIX
 
 Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/unix.md
 
