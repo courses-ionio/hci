@@ -127,7 +127,7 @@ https://wiki.archlinux.org/title/Dotfiles
 
 ## Εικονα 1: UNIX
 
-Εικονα στο προσωπικο site: 
+Εικονα στο προσωπικο site: https://p18kana.netlify.app//gallery/unix/
 
 Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/unix.md
 
@@ -135,7 +135,7 @@ https://wiki.archlinux.org/title/Dotfiles
 
 ## Εικονα 2: Swift
 
-Εικονα στο προσωπικο site:
+Εικονα στο προσωπικο site: https://p18kana.netlify.app//gallery/swift/
 
 Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/swift.md
 
