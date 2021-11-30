@@ -59,3 +59,14 @@
 ![Status Bar!](https://github.com/p16koub1/hci-files/blob/main/pscr_211114174752.png)
 [![asciicast](https://asciinema.org/a/449069.svg)](https://asciinema.org/a/449069)
 
+## Συμμετοχικό περιεχόμενο 1A
+### Προσθήκες:
+- Images: 
+  - [steamos](https://github.com/p16koub1/images/blob/8c7d1f58af13bfa5bf55c395ee2c13a90fef1c4b/steamos.png)
+  - [steamos-thumb](https://github.com/p16koub1/images/blob/8c7d1f58af13bfa5bf55c395ee2c13a90fef1c4b/steamos-thumb.png)
+  - [steamdeck](https://github.com/p16koub1/images/blob/8c7d1f58af13bfa5bf55c395ee2c13a90fef1c4b/steamdeck.jpg)
+  - [steamdeck-thumb](https://github.com/p16koub1/images/blob/8c7d1f58af13bfa5bf55c395ee2c13a90fef1c4b/steamdeck-thumb.jpg)
+- Gallery:
+  - [steamos](https://github.com/p16koub1/_gallery/blob/25ef7069e94f20ed85eb9325462c0f4291d1487f/steamos.md)
+  - [steamdeck](https://github.com/p16koub1/_gallery/blob/25ef7069e94f20ed85eb9325462c0f4291d1487f/steamdeck.md)
+
