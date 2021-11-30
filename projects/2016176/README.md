@@ -61,6 +61,7 @@
 
 ## Συμμετοχικό περιεχόμενο 1A
 ### Προσθήκες:
+[Site Repository](https://github.com/p16koub1/site)
 - Images: 
   - [steamos](https://github.com/p16koub1/images/blob/8c7d1f58af13bfa5bf55c395ee2c13a90fef1c4b/steamos.png)
   - [steamos-thumb](https://github.com/p16koub1/images/blob/8c7d1f58af13bfa5bf55c395ee2c13a90fef1c4b/steamos-thumb.png)
@@ -70,3 +71,6 @@
   - [steamos](https://github.com/p16koub1/_gallery/blob/25ef7069e94f20ed85eb9325462c0f4291d1487f/steamos.md)
   - [steamdeck](https://github.com/p16koub1/_gallery/blob/25ef7069e94f20ed85eb9325462c0f4291d1487f/steamdeck.md)
 
+## Συμμετοχικό περιεχόμενο 2Α
+- [Slides](https://github.com/p16koub1/site/blob/master/_slides/videogames.md)
+- [Timeline](https://github.com/p16koub1/site/blob/master/_timeline/videogames.md)
