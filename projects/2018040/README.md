@@ -172,7 +172,7 @@ Asciinema: https://asciinema.org/a/450774
 
 ## Διαφανειες 
 
-Διαφάνειες στο προσωπικό site:
+Διαφάνειες στο προσωπικό site: https://p18kana.netlify.app//slides/programming/
 
 Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/2018040/_slides/programming.md
 
