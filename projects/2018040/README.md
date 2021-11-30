@@ -131,11 +131,11 @@ https://wiki.archlinux.org/title/Dotfiles
 
 Αποθετηριο thumbnail: https://github.com/p18kana/images/blob/master/unix-thumb.jpg
 
-## Εικονα 2: Apple Macbook pro m1 
+## Εικονα 2: Swift
 
-Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/apple-macbookprom1.md
+Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/swift.md
 
-Αποθετηριο thumbnail: https://github.com/p18kana/images/blob/master/apple-macbookprom1-thumb.png
+Αποθετηριο thumbnail: https://github.com/p18kana/images/blob/master/swift-thumb.png
 
 Ενημέρωση του images submodule μεσω terminal: https://asciinema.org/a/449292
 
