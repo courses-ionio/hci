@@ -24,18 +24,18 @@
 #### Στόχος για το μάθημα. <br />
 Στόχος για το μάθημα είναι να μάθω καινούργιες γλώσσες προγραμματισμού, να μάθω να δημιουργώ εφαρμογές και να κατανοήσω την αλληλεπίδραση ανθρώπου-υπολογιστή.
 
-## Extra
+### Extra
 
 
-### [Warmup - Check the weather]
+## Warmup - Check the weather
 
-### Asciinema link: [Check the weather](https://asciinema.org/a/g3IovGMnCZrzFmPmJbukdJiMN)<br />
+**Asciinema link: [Check the weather](https://asciinema.org/a/g3IovGMnCZrzFmPmJbukdJiMN)<br />**
 
 
 
-### [Warmup - Fetch Information]
+ ## Warmup - Fetch Information
 
-### Asciinema link: [Fetch Information](https://asciinema.org/a/VWHIVecDTsKgmfSYTTbpHsXEG)<br />
+**Asciinema link: [Fetch Information](https://asciinema.org/a/VWHIVecDTsKgmfSYTTbpHsXEG)<br />**
 
 
 
@@ -45,6 +45,6 @@
 
 
 
-### [Warmup - Manage your bookmarks]
+## Warmup - Manage your bookmarks
 
-### Asciinema link: [Manage your Bookmarks](https://asciinema.org/a/nQIq6jmeB8oT3Yr9d8ttXdek8)<br />
+**Asciinema link: [Manage your Bookmarks](https://asciinema.org/a/nQIq6jmeB8oT3Yr9d8ttXdek8)<br />**
