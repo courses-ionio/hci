@@ -29,13 +29,13 @@
 
 ### Warmup - Check the weather
 
-### Asciinema link: [Παραδοτέο 2](https://asciinema.org/a/g3IovGMnCZrzFmPmJbukdJiMN)<br />
+### Asciinema link: [Check the weather](https://asciinema.org/a/g3IovGMnCZrzFmPmJbukdJiMN)<br />
 
 
 
-### Warmup - Fetch information
+### Warmup - Fetch Information
 
-### Asciinema link: [Παραδοτέο 3](https://asciinema.org/a/VWHIVecDTsKgmfSYTTbpHsXEG)<br />
+### Asciinema link: [Fetch Information](https://asciinema.org/a/VWHIVecDTsKgmfSYTTbpHsXEG)<br />
 
 
 
@@ -47,4 +47,4 @@
 
 ### Warmup - Manage your bookmarks
 
-### Asciinema link: [Παραδοτέο 5](https://asciinema.org/a/nQIq6jmeB8oT3Yr9d8ttXdek8)<br />
+### Asciinema link: [Manage your Bookmarks](https://asciinema.org/a/nQIq6jmeB8oT3Yr9d8ttXdek8)<br />
