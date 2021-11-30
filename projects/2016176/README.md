@@ -5,7 +5,8 @@
 | Ονοματεπώνυμο | Κουμπουλίδης Παντελής |
 | --- | --- |
 | Αριθμός Μητρώου | Π2016176 |
-| GitHub Profile | p16koub1 |
+| GitHub Profile | [p16koub1](https://github.com/p16koub1) |
+| Netlify Profile | [p16koub1](https://app.netlify.com/teams/p16koub1/overview) |
 
 ## Πίνακας με σύνοψη των παραδοτέων
 
