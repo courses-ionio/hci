@@ -193,11 +193,11 @@ Asciinema: https://asciinema.org/a/450774
 
 ## Διαφανειες 
 
-Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/2018040/_slides/archetypes.md
+Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/2018040/_slides/programming.md
 
 ## Χρονολογιο 
 
-Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/2018040/_timeline/apple.md
+Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/2018040/_timeline/programming.md
 
 
 
