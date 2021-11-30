@@ -206,12 +206,3 @@ Asciinema: https://asciinema.org/a/450774
 Χρονολόγιο στο προσωπικό site:
 
 Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/2018040/_timeline/programming.md
-
-
-
-
-
-
-
-
-
