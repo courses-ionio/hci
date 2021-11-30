@@ -6,10 +6,10 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Εισαγωγή](#εισαγωγή) |
-| 2 | [Άσκηση γραμμής εντολών: Check the weather](#2ο-παραδοτέο---check-the-weather)|
-| 3 | [Άσκηση γραμμής εντολών: Fetch information](#3ο-παραδοτέο---fetch-information)|
+| 2 | Άσκηση γραμμής εντολών: Check the weather|
+| 3 | Άσκηση γραμμής εντολών: Fetch information|
 | 4 | συμμετοχικό περιεχόμενο 1A |
-| 5 | [Άσκηση γραμμής εντολών: Manage your bookmarks](#5ο-παραδοτέο---manage-your-bookmarks) |
+| 5 | Άσκηση γραμμής εντολών: Manage your bookmarks|
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
@@ -24,16 +24,16 @@
 #### Στόχος για το μάθημα. <br />
 Στόχος για το μάθημα είναι να μάθω καινούργιες γλώσσες προγραμματισμού, να μάθω να δημιουργώ εφαρμογές και να κατανοήσω την αλληλεπίδραση ανθρώπου-υπολογιστή.
 
-## Παραδοτέα
+## Extra
 
 
-### 2ο Παραδοτέο - Check the weather
+### Warmup - Check the weather
 
 ### Asciinema link: [Παραδοτέο 2](https://asciinema.org/a/g3IovGMnCZrzFmPmJbukdJiMN)<br />
 
 
 
-### 3ο Παραδοτέο - Fetch information
+### Warmup - Fetch information
 
 ### Asciinema link: [Παραδοτέο 3](https://asciinema.org/a/VWHIVecDTsKgmfSYTTbpHsXEG)<br />
 
@@ -45,6 +45,6 @@
 
 
 
-### 5ο Παραδοτέο - Manage your bookmarks
+### Warmup - Manage your bookmarks
 
 ### Asciinema link: [Παραδοτέο 5](https://asciinema.org/a/nQIq6jmeB8oT3Yr9d8ttXdek8)<br />
