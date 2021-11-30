@@ -127,9 +127,9 @@ https://wiki.archlinux.org/title/Dotfiles
 
 ## Εικονα 1: Apple Ipad gen9 
 
-Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/apple-ipadgen9.md
+Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/unix.md
 
-Αποθετηριο thumbnail: https://github.com/p18kana/images/blob/master/apple-ipadgen9-thumb.png
+Αποθετηριο thumbnail: https://github.com/p18kana/images/blob/master/unix-thumb.jpg
 
 ## Εικονα 2: Apple Macbook pro m1 
 
