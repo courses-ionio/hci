@@ -15,11 +15,11 @@
 | --- | --- |
 | 1 | <sup><a href="#1"> Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα </a></sup> |
 | 2 | <sup><a href="#2"> Άσκηση γραμμής εντολών: get familiar with basic commands, reading documentation and editing files (warmup) </a></sup> |
-| 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών: download-mp3(hci)/set-up the main dependencies and demonstrate your base system (warmup) </a></sup> |
+| 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών: set-up the main dependencies and demonstrate your base system (warmup) </a></sup> |
 | 4 | <sup><a href="#4"> συμμετοχικό περιεχόμενο 1A </a></sup> |
-| 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών </a></sup> |
-| 6 |  <sup><a href="#6"> συμμετοχικό περιεχόμενο 2A </a></sup> |
-| 7 | Άσκηση γραμμής εντολών |
+| 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών (warmup) </a></sup> |
+| 6 | <sup><a href="#6"> συμμετοχικό περιεχόμενο 2A </a></sup> |
+| 7 | <sup><a href="#7"> Άσκηση γραμμής εντολών: download-mp3(hci) </a></sup> |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο 2B |
@@ -61,31 +61,6 @@ asciinema: https://asciinema.org/a/447448
 
 
 ##### [3]
-
-## Άσκηση γραμμής εντολών: download-mp3(hci)
-
-asciinema: https://asciinema.org/a/444859 
-
-**Βήματα:**
-
-Κανω εγκατάσταση των απαραίτητων πακέτων  ``sudo pacman -S youtube-dl``, ``sudo pacman -S mpg123``.
-
-Με το ``asciinema rec -i 0.2`` ξεκιναω το record του terminal.
-
-Με την εντολή ``youtube-dl -x --audio-format mp3 "ytsearch:shallow"`` κάνω αναζήτηση και λήψη του κομματιού σε mp3.
-
-Με την εντολή ``cd Downloads`` κατευθυνθήκαμε στο location του αρχείου mp3.
-
-Με την εντολή ``mpg123 shallow.mp3`` έκανα αναπαραγωγή του αρχείου mp3.
-
-Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
-
-**Αποτελέσματα:**
-
-![download-mp3](https://github.com/p18kana/HCI-files/blob/main/2018040_download-mp3.gif)
-
-**Πηγή:** https://www.youtube.com/watch?v=VMy-lb7Y-7k
-
 
 ## Άσκηση γραμμής εντολών: set-up the main dependencies and demonstrate your base system (warmup)
 
@@ -206,3 +181,29 @@ Asciinema: https://asciinema.org/a/450774
 Χρονολόγιο στο προσωπικό site:
 
 Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/2018040/_timeline/programming.md
+
+##### [7]
+
+## Άσκηση γραμμής εντολών: download-mp3(hci)
+
+asciinema: https://asciinema.org/a/444859 
+
+**Βήματα:**
+
+Κανω εγκατάσταση των απαραίτητων πακέτων  ``sudo pacman -S youtube-dl``, ``sudo pacman -S mpg123``.
+
+Με το ``asciinema rec -i 0.2`` ξεκιναω το record του terminal.
+
+Με την εντολή ``youtube-dl -x --audio-format mp3 "ytsearch:shallow"`` κάνω αναζήτηση και λήψη του κομματιού σε mp3.
+
+Με την εντολή ``cd Downloads`` κατευθυνθήκαμε στο location του αρχείου mp3.
+
+Με την εντολή ``mpg123 shallow.mp3`` έκανα αναπαραγωγή του αρχείου mp3.
+
+Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
+
+**Αποτελέσματα:**
+
+![download-mp3](https://github.com/p18kana/HCI-files/blob/main/2018040_download-mp3.gif)
+
+**Πηγή:** https://www.youtube.com/watch?v=VMy-lb7Y-7k
