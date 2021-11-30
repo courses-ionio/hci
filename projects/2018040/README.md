@@ -127,11 +127,15 @@ https://wiki.archlinux.org/title/Dotfiles
 
 ## Εικονα 1: UNIX
 
+Εικονα στο προσωπικο site: 
+
 Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/unix.md
 
 Αποθετηριο thumbnail: https://github.com/p18kana/images/blob/master/unix-thumb.jpg
 
 ## Εικονα 2: Swift
+
+Εικονα στο προσωπικο site:
 
 Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/swift.md
 
@@ -193,9 +197,13 @@ Asciinema: https://asciinema.org/a/450774
 
 ## Διαφανειες 
 
+Διαφάνειες στο προσωπικό site:
+
 Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/2018040/_slides/programming.md
 
 ## Χρονολογιο 
+
+Χρονολόγιο στο προσωπικό site:
 
 Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/2018040/_timeline/programming.md
 
