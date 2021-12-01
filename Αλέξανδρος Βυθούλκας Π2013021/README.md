@@ -62,22 +62,23 @@
  
   
   
-**Link αποθετηρίων images:** https://github.com/AlexandrosV20/images/blob/master/Microchess-thumb.png
+**Link αποθετηρίων images:** https://github.com/AlexandrosV20/images/blob/master/5chordeskeyset-thumb.jpg
+  
+  https://github.com/AlexandrosV20/images/blob/master/5chordeskeyset.jpg
                        
-  https://github.com/AlexandrosV20/images/blob/master/Microchess.png
+  https://github.com/AlexandrosV20/images/blob/master/atari2600Joystick.jpg
                        
-  https://github.com/AlexandrosV20/images/blob/master/Atari-2600-Joystick.jpg
-                       
-  https://github.com/AlexandrosV20/images/blob/master/Atari-2600-Joystick-thumb.jpg
+ https://github.com/AlexandrosV20/images/blob/master/atari2600Joystick-thumb.jpg
   
 
   
-**Link αποθετηρίων gallery:** https://github.com/AlexandrosV20/_gallery/blob/master/microchess.md
-  
-  https://github.com/AlexandrosV20/_gallery/tree/master
+**Link αποθετηρίων gallery:**
   
   
-**Πηγές :** https://www.computerhistory.org/chess/doc-431614f6d8478/
+  
+**Πηγές :** https://dougengelbart.org/content/view/273/
+  
+  https://deiimages.files.wordpress.com/2020/10/demo-keyset-wh.jpeg
   
   https://it.wikipedia.org/wiki/File:Microchess.PNG
   
