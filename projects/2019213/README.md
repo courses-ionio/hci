@@ -265,3 +265,90 @@ ip addr
 | Images Galaxy game | [full quality](https://github.com/p19tzam/images/blob/24c24c76316d7fcc8fe60f3a1521a1adc6d988b2/800px-Galaxy_Game_1971_first_arcade_game.jpg) + [thumbnail](https://github.com/p19tzam/images/blob/24c24c76316d7fcc8fe60f3a1521a1adc6d988b2/160px-Galaxy_Game_1971_first_arcade_game.jpg) |
 | Slides | [link](https://github.com/p19tzam/site/blob/master/_slides/arcades_2019213.md) |
 | Timeline | [link](https://github.com/p19tzam/site/blob/master/_timeline/arcades_2019213.md) | 
+
+
+## :pushpin:: Άσκηση γραμμής εντολών HCI 1
+### (download and play song from youtube | bash πρόγραμμα με pipeline)
+
+#### Περιγραφή και επιλογή
+
+<br>
+
+#### Bash Program
+
+```bash
+#!/bin/bash
+
+#Functions BEGGIN
+menu () {
+clear
+echo "[+]------------[Menu]------------[+]"
+echo " |     [1] Search & Download      |"
+echo " |     [2] URL Download           |"
+echo " |                                |"
+echo " |                      [0] Exit  |"
+echo "[+]-----------[2019213]----------[+]"
+echo ""
+}
+
+src_download () {
+	read -p 'Please Specify song name => ' name
+	youtube-dl -x --audio-format mp3 ytsearch:$name
+
+	read -p 'You want to play the song[Y/n] ' choice
+	if [ $choice == "Y" -o $choice == "y" ]
+	then
+		mpv *.mp3
+	fi
+	
+	if [ $choice == "n" -o $choice == "N" ]
+	then
+		echo "Thank you!"
+	fi
+}
+
+
+url_download () {
+	read -p 'Please Specify song URL => ' url
+	youtube-dl -x --audio-format mp3 $url
+
+	read -p 'You want to play the song[Y/n] ' choice
+	if [ $choice == "Y" -o $choice == "y" ]
+	then
+		mpv *.mp3
+	fi
+	
+	if [ $choice == "n" -o $choice == "N" ]
+	then
+		echo "Thank you!"
+	fi
+}
+#Functions END
+
+
+rm *.mp3
+menu
+
+while true;
+do
+	read -p 'Please select option => ' opt
+	if [ $opt == 0 ] 
+	then
+		echo "Exit!"
+		exit
+	fi
+
+	if [ $opt == 1 ]
+	then
+		src_download
+	fi
+
+	if [ $opt == 2 ]
+	then
+		url_download
+	fi
+done
+```
+
+### asciinema
+[![asciicast](https://asciinema.org/a/452735.svg)](https://asciinema.org/a/452735)
