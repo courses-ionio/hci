@@ -14,11 +14,11 @@
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα |
 | 2 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/tree/2016176/projects/2016176#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-1) |
-| 3 | Άσκηση γραμμής εντολών |
-| 4 | συμμετοχικό περιεχόμενο 1A |
-| 5 | Άσκηση γραμμής εντολών |
-| 6 | συμμετοχικό περιεχόμενο 2A |
-| 7 | Άσκηση γραμμής εντολών |
+| 3 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/tree/2016176/projects/2016176#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-2) |
+| 4 | [συμμετοχικό περιεχόμενο 1A](https://github.com/p16koub1/hci/tree/2016176/projects/2016176#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-1a) |
+| 5 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/tree/2016176/projects/2016176#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-3) |
+| 6 | [συμμετοχικό περιεχόμενο 2A](https://github.com/p16koub1/hci/tree/2016176/projects/2016176#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-2%CE%B1) |
+| 7 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/tree/2016176/projects/2016176#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-4) |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο 2B |
