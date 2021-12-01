@@ -36,6 +36,9 @@
 
 
 ## Επιλογές
+<b>[1) Άσκηση γραμμής εντολών HCI](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci-1)</b>: Αυτή την άσκηση την επέλεξα επειδή θέλω να κατεβάζω τραγούδια αυτόνομα και για να μην χρησιμοποιώ άλλα sites που περιέχουν διαφημίσεις που ενδεχομένως μερικές φορές και redirect σε διάφορες ακατάληλες διαφημίσεις. Συγκεκριμένα επέλεξα αυτή την άσκηση για προσωπική μου χρήση επειδή οδηγάω και θέλω να ακούω τραγούδια στο αμάξι. Από εδώ και πέρα θα κατεβάζω τα τραγούδια που θέλω με το <b>[bash program](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci-1)</b> που υλοποίησα και θα τα περνάω στο USB για να ακούω στο αμάξι.
+
+<b>[2) Άσκηση γραμμής εντολών HCI](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci-2)</b>:
 
 ## Προβλήματα που αντιμετώπισα
 ### 1) Στην εγκατάσταση του Arch Linux
