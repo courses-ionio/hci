@@ -80,8 +80,6 @@
   
   https://deiimages.files.wordpress.com/2020/10/demo-keyset-wh.jpeg
   
-  https://it.wikipedia.org/wiki/File:Microchess.PNG
-  
   https://commons.wikimedia.org/wiki/File:Atari-2600-Joystick.jpg
   
   https://www.digitalgamemuseum.org/consolecontrollerevolution/classic/atari2600/
