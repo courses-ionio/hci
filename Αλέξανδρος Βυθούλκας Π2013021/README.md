@@ -72,7 +72,7 @@
   
 
   
-**Link αποθετηρίων gallery:**
+**Link αποθετηρίων gallery:** https://github.com/AlexandrosV20/_gallery/blob/master/5chordeskeyset.md
   
   
   
