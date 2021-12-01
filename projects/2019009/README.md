@@ -57,10 +57,16 @@
 
 ## Παραδοτέο 4
 ### Α1 
-
+#### για εικονα 1
 [συμμετοχικο υλικο Α1](https://github.com/giannisbarlas1/_gallery/blob/3ba8c22de966c15bebd8b934c3e149106110092a/TeamViewer.md)
 [εικονες1](https://github.com/giannisbarlas1/images/blob/8dc28f611d05589e60f327501e36736c96f36f64/team%20viewer%20thumb.png)
 [εικονες2](https://github.com/giannisbarlas1/images/blob/master/teamviewer.jpg)
+#### για εικονα 2
+[συμμετοχικο υλικο Α1](https://github.com/giannisbarlas1/_gallery/blob/master/bash%20unix%20shell.md)
+[εικονες1](https://github.com/giannisbarlas1/images/blob/master/bash.png)
+[εικονες2](https://github.com/giannisbarlas1/images/blob/master/bash%20thumb.png)
+
+
 
 
 ## Παραδοτέο 5
