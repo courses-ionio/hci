@@ -71,6 +71,10 @@
   - [steamos](https://github.com/p16koub1/_gallery/blob/25ef7069e94f20ed85eb9325462c0f4291d1487f/steamos.md)
   - [steamdeck](https://github.com/p16koub1/_gallery/blob/25ef7069e94f20ed85eb9325462c0f4291d1487f/steamdeck.md)
 
+## Άσκηση γραμμής εντολών 3:
+Δημιουργία και αποθήκευση σημειώσεων ημερολογίου με τη χρήση του jrnl. Όπως επίσης και επξεργασία του config για εξατομοίκευση στις δικές μου προτιμίσεις.
+[![asciicast](https://asciinema.org/a/452729.svg)](https://asciinema.org/a/452729)
+
 ## Συμμετοχικό περιεχόμενο 2Α
 - [Slides](https://github.com/p16koub1/site/blob/master/_slides/videogames.md)
 - [Timeline](https://github.com/p16koub1/site/blob/master/_timeline/videogames.md)
