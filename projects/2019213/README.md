@@ -17,7 +17,7 @@
 | --- | --- |
 | 1 | [Εισαγωγή και Προβλήματα που αντιμετώπισα](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
 | 2 | [Άσκηση γραμμής εντολών (ram,cpu,gpu,network,hard drives) warpup](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2) |
-| 3 | [Άσκηση γραμμής εντολών(Εγκατάσταση Archlinux warpup)](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-archlinux-manually) |
+| 3 | [Άσκηση γραμμής εντολών(Εγκατάσταση Archlinux) warpup](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-archlinux-manually) |
 | 4 | [συμμετοχικό περιεχόμενο 1](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4) |
 | 5 | συμμετοχικό περιεχόμενο 2 |
 | 6 | [Άσκηση γραμμής εντολών HCI 1](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci-1) |
