@@ -56,14 +56,16 @@
 εκανα Mount τον δισκο sda2 επειδη εκει βρισκεται το efi συστημα απο την μερια τον windows και τοποθετησα στον καινουιο ]φακελο ποθυ ειχα δημιουργησει πριν  
 
 ## Παραδοτέο 4
+### Α1 
 
-
-### Installation Arch Linux
-Για το installation εγραψα την εντολη pacstrap /mnt base linux linux-firmware για να κανω install τα πακετα που χρειαζοταν για να τρεξω τα arch στο συστημα μου (mnt γιατι στον φακελο αυτον εκανα mount το file system του root)
+[συμμετοχικο υλικο Α1](https://github.com/giannisbarlas1/_gallery/blob/3ba8c22de966c15bebd8b934c3e149106110092a/TeamViewer.md)
+[εικονες1](https://github.com/giannisbarlas1/images/blob/8dc28f611d05589e60f327501e36736c96f36f64/team%20viewer%20thumb.png)
+[εικονες2](https://github.com/giannisbarlas1/images/blob/master/teamviewer.jpg)
 
 
 ## Παραδοτέο 5
-
+### Installation Arch Linux
+Για το installation εγραψα την εντολη pacstrap /mnt base linux linux-firmware για να κανω install τα πακετα που χρειαζοταν για να τρεξω τα arch στο συστημα μου (mnt γιατι στον φακελο αυτον εκανα mount το file system του root)
 ### configuration Arch Linux
 στο cofiguration αρχικα εκανα generate ενα fs tab με την εντολη  genfstab -U /mnt >> /mnt/etc/fstab για να μπορει να γνωριζει το συστημα καθε φορα που θα γινεται boot που βρισκονται τα arh linux 
 Μετα με το arch-chroot /mnt εκανα εισοδο στο συστημα σαν root και υστερα  με την εντολη ln -sf /usr/share/zoneinfo/Greece/Athens /etc/localtime εθεσα την ωρα στο συστημα μου 
