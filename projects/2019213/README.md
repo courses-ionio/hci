@@ -279,11 +279,15 @@ ip addr
 
 ### :pushpin:: συμμετοχικό περιεχόμενο 1
 
+Σε αυτό το συμμετοχικό περιεχόμενο χρησιμοποίησα την [συγκεκριμένη εικόνα](https://github.com/p19tzam/images/blob/master/galaxy-game.jpg). <br>
+Ο Κ.Χωριανόπουλος μου εκανε μια παρατηρηση στην παρουσίαση προόδου μου οτι δεν έχω το παιχνίδι σαν εικόνα και έχω μόνο την κονσόλα.<br>
+Μετα απο αρκετό ψάξιμο αποφάσισα να αφήσω την εικόνα που είχα βρει γιατί όσο και να αναζήτησα δεν μπόρεσα να καταλήξω σε μια σωστή εικόνα δηλαδή όλες οι εικόνες που έβρισκα δεν ήμουν σίγουρος ότι ήταν από το galaxy game(πχ βρήκα μια απο το spacewar) Οπότε είπα να βάλω αυτή που βρίκα για να μην γίνει κανένα λάθος και χάσω βαθμούς.<br>
+
 
 | Περιγραφή | Repository Link |
 | --- | --- |
   | Galaxy Game 1971 first arcade game  | [galaxy_game.md](https://github.com/p19tzam/_gallery/blob/master/galaxy_game.md) + [netlify link](https://hci-p19tzam.netlify.app/gallery/galaxy_game/)
-| Images Galaxy game | [full quality](#) + [thumbnail](#) |
+| Images Galaxy game | [full quality](https://github.com/p19tzam/images/blob/master/galaxy-game.jpg) + [thumb](https://github.com/p19tzam/images/blob/master/galaxy-game-thumb.jpg) |
 | Slides | [link](#) |
 | Timeline | [link](#) | 
 
