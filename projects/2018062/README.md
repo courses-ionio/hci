@@ -104,4 +104,4 @@
 <br>
   Για το 5ο παραδοτέο αρχικά εγκατέστησα το youtube-dl μέσω του pacman. Στη συνέχεια το χρησιμοποιήσα για να κατεβάσω στο φάκελο Music τα τραγούδια Arcade, Begging You, Blood||Water, Third Eye και Happy Pills. Έπειτα δημιούργησα το αρχείο playlist.m3u, το οποίο γέμισα με το output της εντολής find. Τέλος, με την εντολή mpv playlist.m3u μπορούμε να παίξουμε όλο το playlist μόνο από το terminal.
 </br>
-Καταγραφή [![asciicast](https://asciinema.org/a/2QHYW32d8uCovtNVWgSVSfqJx.svg)](https://asciinema.org/a/2QHYW32d8uCovtNVWgSVSfqJx)
+Καταγραφή <a href="https://asciinema.org/a/2QHYW32d8uCovtNVWgSVSfqJx" target="_blank"><img src="https://asciinema.org/a/2QHYW32d8uCovtNVWgSVSfqJx.svg" /></a>
