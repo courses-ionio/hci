@@ -48,7 +48,7 @@
 
 Τέλος στο παρακάτω link φαίνονται τα περιεχόμενα του συστήματος καθώς και τα .dot files.
  
-[Neofetch Link](https://asciinema.org/a/447939)
+[Neofetch Link](https://asciinema.org/a/444742)
 [Journalctl](https://asciinema.org/a/453300)
 
 
