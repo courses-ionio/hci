@@ -38,8 +38,12 @@
 ## Επιλογές
 <b>[1) Άσκηση γραμμής εντολών HCI](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci-1)</b>: Αυτή την άσκηση την επέλεξα επειδή θέλω να κατεβάζω τραγούδια αυτόνομα και για να μην χρησιμοποιώ άλλα sites που περιέχουν διαφημίσεις που ενδεχομένως μερικές φορές και redirect σε διάφορες ακατάληλες διαφημίσεις. Συγκεκριμένα επέλεξα αυτή την άσκηση για προσωπική μου χρήση επειδή οδηγάω και θέλω να ακούω τραγούδια στο αμάξι. Από εδώ και πέρα θα κατεβάζω τα τραγούδια που θέλω με το <b>[bash program](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci-1)</b> που υλοποίησα και θα τα περνάω στο USB για να ακούω στο αμάξι.
 
-<b>[2) Άσκηση γραμμής εντολών HCI](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci-2)</b>:
+<b>[2) Άσκηση γραμμής εντολών HCI](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci-2)</b>: 
 
+
+<b>[1) Συμμετοχικό περιεχόμενο](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4)</b>: Στο συμμετοχικό περιεχόμενο επέλεξα να κάνω για το Galaxy Game 1971 first arcade game επειδή γενικότερα μου αρέσουν τα games και παίζω αρκετά συχνά(όταν δεν έχω υποχρεώσεις). Κυρίως παίζω καινούργια video games και έτσι σκέφτηκα να κάνω το galaxy game που είναι arcade game που οταν ήμουν μικρός συχνά στο internet καφέ έπαιζα μερικά arcades games όπως το tekken 3. 
+
+<b>[2) Συμμετοχικό περιεχόμενο](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4)</b>:
 ## Προβλήματα που αντιμετώπισα
 ### 1) Στην εγκατάσταση του Arch Linux
 Αρχικά θα ήθελα να ενημερώσω ότι είμαι χρήστης του Linux εδω και πολλά χρόνια(Ubuntu, Kali, MX Linux τρέχων). Μετά από καιρό ήρθε η στιγμή να κάνω Install το linux manually μιας και τόσο καιρό χρησιμοποιώ το GUI απο τα linux distro για να γίνει η εγκατάσταση του λειτουργικού μου πιο εύκολα και πιο σωστά.
@@ -281,7 +285,7 @@ ip addr
 Γιατί έκανα αυτή την επιλογή; Αυτή την άσκηση την επέλεξα και για δική μου καθημερινή χρήση γιατί έχω κουραστεί να ψάχνω στο google sites για να κατεβάσω ένα τραγούδι που θέλω και να μου βγάζει 100 διαφημίσεις και διάφορα αλλα περιεχόμενα.
 Επίσης το επέλεξα και για θέμα ασφάλειας.
 
-
+<b>ΥΛΟΠΟΙΗΜΕΝΟ ΑΠΟ ΕΜΕΝΑ</b>
 #### Bash Program
 
 ```bash
