@@ -281,9 +281,9 @@ ip addr
 | Περιγραφή | Repository Link |
 | --- | --- |
   | Galaxy Game 1971 first arcade game  | [galaxy_game.md](https://github.com/p19tzam/_gallery/blob/master/galaxy_game.md) + [netlify link](https://hci-p19tzam.netlify.app/gallery/galaxy_game/)
-| Images Galaxy game | [full quality](https://github.com/p19tzam/images/blob/24c24c76316d7fcc8fe60f3a1521a1adc6d988b2/800px-Galaxy_Game_1971_first_arcade_game.jpg) + [thumbnail](https://github.com/p19tzam/images/blob/24c24c76316d7fcc8fe60f3a1521a1adc6d988b2/160px-Galaxy_Game_1971_first_arcade_game.jpg) |
-| Slides | [link](https://github.com/p19tzam/site/blob/master/_slides/arcades_2019213.md) |
-| Timeline | [link](https://github.com/p19tzam/site/blob/master/_timeline/arcades_2019213.md) | 
+| Images Galaxy game | [full quality](#) + [thumbnail](#) |
+| Slides | [link](#) |
+| Timeline | [link](#) | 
 
 
 ## :pushpin:: Άσκηση γραμμής εντολών HCI 1
