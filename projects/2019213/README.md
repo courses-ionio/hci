@@ -387,12 +387,35 @@ done
 <br>
 
 ## :pushpin:: Άσκηση γραμμής εντολών HCI 2
-### (tmux: επεξεργασία αρχείου, Monitor δικτύου με tcpdump στην πόρτα 80(http), και Monitor διεργασιών)
+### (tmux: επεξεργασία αρχείου, Monitor δικτύου με tcpdump στην πόρτα 80(http), και Monitor διεργασιών | bash,pipeline)
 
 #### Περιγραφή και επιλογή
-Σε αυτή την άσκηση γραμμής εντολών επέλεξα να κάνω την άσκηση με το tmux γιατί θεωρώ ότι είναι πάρα πολύ χρήσιμη για έναν χρήστη σαν εμένα που έχει σαν βασικό σύστημα το linux διότη σου προσφέρει χρόνο και χώρο στην οθόνη με την λειτουργία του split. Επιπλέων δεν είναι τοσο waste time δηλαδή δεν χρειάζεται να κάνουμε καμία κίνηση με το mouse μας απλός χρειάζεται να πληκτρολογήσετε τα σωστά  keybinds για το swap του workspace που θέλουμε να πάμε.
-Στο asciinema παρακάτω κάνω τα εξής: Κάνω μια μικρή επεξεργασία του bash program που έχω φτιάξει για την πρώτη άσκηση γραμμής εντολών μετέπειτα βάζω ενα monitor mοde στο δικτυό μου και να παρακολουθει τα πακέτα που στέλνω συγκεκριμένα στην πόρτα 80(http) και στο τέλος ελέγχω τις διεργασίες που τρέχουν στο linux μηχάνημα μου.
+
+
+<b>ΥΛΟΠΟΙΗΜΕΝΟ ΑΠΟ ΕΜΕΝΑ</b>
+#### Bash Program
+```bash
+#!/bin/bash
+
+session="HCI-Demo"
+
+
+# Create new session, and extra windows.
+tmux new-session -d -s $session -n Window\ 1
+tmux send-keys " #HCI=> Panel 1" C-m
+
+
+tmux split-window -h -p 50
+tmux send-keys " #HCI=> Panel 2" C-m
+
+tmux split-window -v -p 25
+tmux send-keys " #HCI=> Panel 3" C-m
+
+tmux select-window -t $session:1
+
+tmux attach-session -t 
+```
 
 
 ### asciinema 
-[![asciicast](https://asciinema.org/a/453517.svg)](https://asciinema.org/a/453517)
+[![asciicast](https://asciinema.org/a/453524.svg)](https://asciinema.org/a/453524)
