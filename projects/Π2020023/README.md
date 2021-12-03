@@ -193,7 +193,7 @@
 
 ### [w3m shortcuts](https://cheatsheetfactory.geekyhacker.com/linux/w3m)
 ### [w3m](http://w3m.sourceforge.net/)
-### [lynx](https://lynx.browser.org/]
+### [lynx](https://lynx.browser.org/)
 ### [links](http://links.twibright.com/)
 
 ## Σύνοψη και αίτημα ενσωμάτωσης - 12ο παραδοτέο
