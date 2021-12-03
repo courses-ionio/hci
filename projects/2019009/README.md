@@ -62,7 +62,7 @@
 [εικονες1](https://github.com/giannisbarlas1/images/blob/8dc28f611d05589e60f327501e36736c96f36f64/team%20viewer%20thumb.png)
 [εικονες2](https://github.com/giannisbarlas1/images/blob/master/teamviewer.jpg)
 #### για εικονα 2
-[συμμετοχικο υλικο Α1](https://github.com/giannisbarlas1/_gallery/blob/master/nano%20text%20editor.md)
+[συμμετοχικο υλικο Α1](https://github.com/giannisbarlas1/_gallery/blob/master/nano.md)
 [εικονες1](https://github.com/giannisbarlas1/images/blob/master/nano.png)
 [εικονες2](https://github.com/giannisbarlas1/images/blob/master/nano%20thumb.png)
 
