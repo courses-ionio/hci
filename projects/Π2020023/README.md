@@ -185,10 +185,16 @@
 ### [Asciinema, w3m+shortcuts](https://asciinema.org/a/8ktFGcZz7ChjC9eZonbZqTnYU)
  
 Έπειτα δοκίμασα να επισκεφθώ την ιστοσελίδα [meteo.gr](https://www.meteo.gr/) και με τους τρείς διαφορετικούς browsers. Χρησιμοποίησα κάποια shortcuts του w3m και εδώ, όμως παρατηρείται μια καθυστέρηση με τη χρήση του lynx, καθώς πρέπει χειροκίνητα να αποδεχτούμε τα cookies.
-
 Το αντίστοιχο βίντεο:
 ### [Asciinema, w3m+lynx+links](https://asciinema.org/a/80JzNiHCX68HcgrQQYFumY4Tr)
  
+Τέλος, δημιούργησα ένα shell script το οποίο ζητάει από τον χρήστη το link της ιστοσελίδας που επιθυμεί να επισκεφθεί, και του δίνει την επιλογή να χρησιμοποιήσει έναν απο τους τρείς αυτούς browsers. Παρακάτω βρίσκεται το βίντεο και ο κώδικας του script.
+
+## Shell script:
+
+### [Shell script άσκησης, asciinema](https://asciinema.org/a/EobjnVZgi8yCG5GZMjxIbTPlD)
+### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/browserscript.sh)
+
 ## Πηγές:
 
 ### [w3m shortcuts](https://cheatsheetfactory.geekyhacker.com/linux/w3m)
