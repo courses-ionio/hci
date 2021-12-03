@@ -78,7 +78,7 @@
 και με την εντολη hwclock --systohc εθεσα την ωρα του hardware
 τελος με την εντολη passwd δημιουργησα εναν κωδικα για τον root
 
-## Παραδοτέο 5
+## Παραδοτέο 6
 ### A2
 [slides](https://github.com/giannisbarlas1/site/blob/master/_slides/models.md)
 
