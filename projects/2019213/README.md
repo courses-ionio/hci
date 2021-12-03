@@ -290,7 +290,7 @@ ip addr
 | --- | --- |
   | Galaxy Game 1971 first arcade game  | [galaxy-game.md](https://github.com/p19tzam/_gallery/blob/master/galaxy-game.md) + [Netlify link](https://hci-p19tzam.netlify.app/gallery/galaxy_game/)
 | Images Galaxy game | [Full quality](https://github.com/p19tzam/images/blob/master/galaxy-game.jpg) + [Thumb](https://github.com/p19tzam/images/blob/master/galaxy-game-thumb.jpg) |
-| Slides | [Link](https://hci-p19tzam.netlify.app//slides/arcades/) |
+| Slides | [arcade.md](https://github.com/p19tzam/site/blob/master/_slides/arcades.md) + [Netlify link](https://hci-p19tzam.netlify.app//slides/arcades/) |
 | Timeline | [link](#) | 
 
 
