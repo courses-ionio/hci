@@ -402,12 +402,9 @@ done
 
 session="HCI-Demo"
 
-
-# Create new session, and extra windows.
 tmux new-session -d -s $session -n Window\ 1
 tmux send-keys " #HCI=> Panel 1" C-m
-
-
+https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md
 tmux split-window -h -p 50
 tmux send-keys " #HCI=> Panel 2" C-m
 
