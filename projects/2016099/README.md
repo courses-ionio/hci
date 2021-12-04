@@ -94,4 +94,20 @@
 
 <a href="https://asciinema.org/a/451526" target="_blank"><img src="https://asciinema.org/a/451526.svg" /></a>
 
+<h2>συμμετοχικό περιεχόμενο 1B</h2>
+
+<a href="https://mystifying-newton-3844bc.netlify.app/case-study/x-window-system/">site</a>
+
+<h4>sources</h4>
+
+<p>Wikimedia Foundation. (2021, November 29). X window system. Wikipedia. Retrieved December 4, 2021, from https://en.wikipedia.org/wiki/X_Window_System#Purpose_and_abilities. 
+
+X window system. (n.d.). Retrieved December 4, 2021, from https://www.cs.mcgill.ca/~rwest/wikispeedia/wpcd/wp/x/X_Window_System.htm. 
+
+Tyler, C. (n.d.). X power tools. O'Reilly Online Learning. Retrieved December 4, 2021, from https://www.oreilly.com/library/view/x-power-tools/9780596101954/ch01.html. 
+
+Wikimedia Foundation. (2021, November 24). Project athena. Wikipedia. Retrieved December 4, 2021, from https://en.wikipedia.org/wiki/Project_Athena. 
+
+</p>
+
 
