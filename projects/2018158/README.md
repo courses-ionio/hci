@@ -10,7 +10,7 @@
 | 2 | [Άσκηση γραμμής εντολών](#παραδοτέο-2) |
 | 3 | [Άσκηση γραμμής εντολών](#παραδοτέο-3) |
 | 4 | [συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4) |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | [Άσκηση γραμμής εντολών](#παραδοτέο-5) |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
@@ -62,3 +62,15 @@ https://github.com/AnTonyPapako/images/blob/2018158/versabraille.jpg
 https://github.com/AnTonyPapako/images/blob/2018158/siri-thumb.jpg
 
 https://github.com/AnTonyPapako/images/blob/2018158/versabraille-thumb.jpg
+
+### Παραδοτέο 5
+
+Άσκηση γραμμής εντολών.
+
+**assignment:** download mp3
+
+**deliverables:** search, download and play (with the terminal) your favorite song of the month from youtube
+
+asciinema link: https://asciinema.org/a/aBoF4ZsFwUbuPis8x8OObbhIe
+
+Αυτή τη φορά οι διάφορες εφαρμογές που χρησιμοποιήθηκαν έχουν προεγκατασταθεί με την εντολή ```pacman -S όνομα_εφαρμογής```. Μέσω του ***youtube-dl*** έγινε η εύρεση και η λήψη του τραγουδιού ```youtube-dl "ytsearch:όνομα_τραγουδιού"``` και μέσω των άλλων εφαρμογών, ***mpv*** και ***vlc***, έγινε η αναπαραγωγή του, ```mpv --no-video 'όνομα_τραγουδιού'``` και ```vlc --no-video 'όνομα_τραγουδιού'```.
