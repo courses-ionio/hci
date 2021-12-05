@@ -61,5 +61,5 @@
 ## 1. Trackball
 Πρόσθεσα το Trackball στο σετ archetypes, όπως φαίνεται [εδώ](https://github.com/p15bako/site/blob/2015034/_slides/archetypes.md). Εδώ παρατίθεται το αντίστοιχο [χρονολόγιο](https://github.com/p15bako/site/blob/master/_timeline/computer.md)
 
-## 2. Fingerprint Scanner
-Για το Fingerprint scanner, επέλεξα σαν κατηγορία διαφανειών τα tools, όπως φαίνεται [εδώ](https://github.com/p15bako/site/blob/2015034/_slides/tools.md). Αντίστοιχα, το πρόσθεσα και στο [χρονολόγιο](https://github.com/p15bako/site/blob/master/_timeline/mobile.md)
+## 2. Joystick
+Για το Joystick, επέλεξα σαν κατηγορία διαφανειών τα videogames, όπως φαίνεται [εδώ](https://github.com/p15bako/site/blob/2015034/_slides/videogames.md). Αντίστοιχα, το πρόσθεσα και στο [χρονολόγιο](https://github.com/p15bako/site/blob/master/_timeline/videogames.md)
