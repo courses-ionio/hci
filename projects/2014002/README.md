@@ -107,8 +107,7 @@
 
 # Συμμετοχικό Περιεχόμενο 1Β
 ### Oculus Rift
-[https://github.com/p14kairas/site/blob/2014002/_case-study/oculus-rift.md](oculus-rift.md)
-
+Repository Link: [oculus-rift.md](https://github.com/p14kairas/site/blob/2014002/_case-study/oculus-rift.md)
 
 ### Raspberry Pi Arcade 
 
