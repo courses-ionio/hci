@@ -37,7 +37,7 @@ link για την πρωτη εντολη:https://asciinema.org/a/KFkjzZwapvKnZ
 link για την δευτερη εντολη:https://asciinema.org/a/4T9jM9FVcyffckmsGFDOwu2q3
 Ειναι σημαντικό να σημειωθεί οτι για την εντολή neofetch χρειάστηκε να γινει εγγατάσταση
 # Παραδοτέο_4
-##Α1 <br />
+## Α1 <br />
 1)Arcade Machine <br />
 [Arcade Machine](https://github.com/giormaster/images/blob/%CE%A02018013/Arcade-Machine.jpg)<br />
 [Arcade Machine Thumbnail](https://github.com/giormaster/images/blob/%CE%A02018013/Arcade-Machine-Thumb.jpg)<br />
@@ -48,9 +48,12 @@ link για την δευτερη εντολη:https://asciinema.org/a/4T9jM9FVc
 [Playstation Portable Thumbnail](https://github.com/giormaster/images/blob/%CE%A02018013/Playstation-Portable-thumb.jpg)<br />
 [Playstation Portable Gallery](https://github.com/giormaster/_gallery/blob/%CE%A02018013/Playstation-Portable.md)<br />
 # Παραδοτέο_5
-##Ασκηση_1 <br />
+## Ασκηση_1 <br />
 Εγινε η εγγατάσταση του youtube-dl και του mpv μέσω του pacman,στην συνέχεια αναζητούμε το τραγούδι που επιθημούμε με την εντολή youtube-dl "ytsearch:videoname" και το 
 youtube-dl βρίσκει το καλήτερο βίντεο και το καλήτερο sound και τα κάνει merge.<br />
 Μετά πέζουμε το τραγούδι με την εντολή mpv --no-video 'filename',Το no video to βάζουμε για να ακούσουμε μονο το τραγούδη καθός δεν μας ενδιαφέρει η οικόνα.<br />
 Η διαδικασία εχει καταγραφεί με Asciinema στο εξής link:https://asciinema.org/a/ZJ1kskVM7ZD8LXilj3I8Ti1ci <br />
-
+# Παραδοτέο_6
+## Α2 <br />
+Προστέθηκαν στα slides,το Arcade-Machine στα [αρχέτυπα](https://github.com/giormaster/site/blob/%CE%A02018013/_slides/archetypes.md) και το Playstation-Portable στα [βιντεοπαιχνίδια](https://github.com/giormaster/site/blob/%CE%A02018013/_slides/videogames.md). <br />
+Στην συνέχεια το Arcade-Machine και το Playstation-Portable προστέθηκαν στο χρονολόγιο των [βιντεοπαιχνιδιών](https://github.com/giormaster/site/blob/%CE%A02018013/_timeline/videogames.md) οπου ταίριαζαν καλήτερα.
