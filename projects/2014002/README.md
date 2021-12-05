@@ -81,7 +81,7 @@
 Κύρια κατηγορία χρονολογίου: [timeline](https://github.com/p14kairas/site/blob/2014002/_timeline/virtual-reality.md)
 
 
-### Περιγραφή: Raspberry Pi 
+### Περιγραφή: Raspberry Pi Arcade (Retropie)
 
 Στην συνέχεια πρόσθεσα το  raspberry pi στο σετ διαφανειών "tools" αλλά πιστεύω ότι υπάρχουν περισσότερες κατηγορίες που θα μπορούσε να ανήκει καθώς πρόκειται για έναν υπολογιστή τσέπης που είναι πολύ στην "μόδα" το modification του πχ. arcade machine (videogames), server hosting , ad black hole κλπ.
 
