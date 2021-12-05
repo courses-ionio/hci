@@ -67,7 +67,7 @@
 
 [original image](https://github.com/p14kairas/images/blob/2014002/raspberrypi.jpg)
 [thumbnail](https://github.com/p14kairas/images/blob/2014002/raspberrypi-thumbnail.jpg)
-[caption](https://github.com/p14kairas/_gallery/blob/2014002/rpi.md)
+[caption](https://github.com/p14kairas/_gallery/blob/2014002/retropie.md)
 
 
 
