@@ -65,8 +65,8 @@
 ### Περιγραφή: Raspberry Pi Αrcade (RetroPie)
 Επίσης ασχολήθηκα και με το Raspberry Pi  το οποίο αποτελεί τεχνολογία η οποία είναι ένας μικρός υπολογιστής σε μέγεθος μιας πιστωτικής κάρτας. Δημιουργήθηκε στο Ηνωμένο Βασίλειο από το Raspberry Pi Foundation για την ευκολότερη εκμάθηση της επιστήμης των υπολογιστών  στα σχολεία. Κοστίζει πολύ λίγα χρήματα και το δημοφιλέστερο λειτουργικό σύστημα ονομάζεται Raspbian και φυσικά βασίζεται στο Linux. Επίσης υπάρχουν και άλλα λειτουργικά συστήματα ειδικά σχεδιασμένα για το Raspberry Pi όπως Ubuntu, Windows 10 IOT Core, RISC OS καθώς και διάφορες άλλες εκδόσεις που προσομοιάζουν πλήρως ένα media center σύστημα. Το RetroPie μας επιτρέπει να μετατρέψουμε το Raspberry Pi,  ή τον υπολογιστή σας σε μια μηχανή ρετρό παιχνιδιών. Βασίζεται σε Raspbian, EmulationStation, RetroArch και πολλά άλλα έργα για να σας επιτρέψει να παίξετε τα αγαπημένα σας παιχνίδια Arcade, home-console και κλασικά παιχνίδια υπολογιστή με την ελάχιστη ρύθμιση. Για ισχυρούς χρήστες, παρέχει επίσης μια μεγάλη ποικιλία εργαλείων διαμόρφωσης για να προσαρμόσετε το σύστημα όπως θέλετε.
 
-[original image](https://github.com/p14kairas/images/blob/2014002/raspberrypi.jpg)
-[thumbnail](https://github.com/p14kairas/images/blob/2014002/raspberrypi-thumbnail.jpg)
+[original image](https://github.com/p14kairas/images/blob/2014002/retropie.jpg)
+[thumbnail](https://github.com/p14kairas/images/blob/2014002/retropie-thumbnail.jpg)
 [caption](https://github.com/p14kairas/_gallery/blob/2014002/retropie.md)
 
 
