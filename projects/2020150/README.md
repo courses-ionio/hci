@@ -64,6 +64,21 @@
 <br />
 
 # **Άσκηση γραμμής εντολών - 5ο παραδοτέο**
+Σε αυτήν την άσκηση επέλεξα το warm up που μας ζητάει να οργανώσουμε το χρόνο μας με ένα απλό ημερολόγιο. Αυτό έγινε με το πακέτο `jrnl` που επιτρέπει την προσθήκη σημειώσεων και την αποθήκευσή τους, καθώς και την διαγραφή και επεξεργασία τους
+
+## **Links**
+### [jrnl](https://github.com/jrnl-org/jrnl)
+### [Asciinema Recording](https://asciinema.org/a/kmp3NV2bpCeMk6uHJxIDaWcKZ)
+
+<br />
+
+# **Συμμετοχικό περιεχόμενο 2Α**
+## **Links**
+### [Slides](https://github.com/thanosks/site/blob/2020150/_slides/technology.md) | [Timeline](https://github.com/thanosks/site/blob/2020150/_timeline/output-devices.md)
+
+<br />
+
+# **Άσκηση γραμμής εντολών - 7ο παραδοτέο**
 Στην άσκηση αυτή διάλεξα το hci που μας ζητάει να οργανώσουμε το παράθυρο του terminal σε πολλές περιοχές. Αυτό έγινε με την βοήθεια του ``tmux`` που σου επιτρέπει να διαχωρίσεις το terminal όπως το επιθυμείς αλλά και να φτιάξεις sessions που βοηθάει πολύ στο multitasking χωρίς gui. Επίσης χρησιμοποιήσα το ``glances`` package για να κάνω monitor πόσα resources καταλαμβάνει το σύστημα arch linux καθώς χρησιμοποίησα το ``mv`` command για να κάνω edit το όνομα ενός αρχείου png.
 
 ## **Προβλήματα που χρειάστηκε να επιλυθούν πριν την εκτέλεση**
@@ -71,9 +86,3 @@
 ## **Links**
 ### [Glances](https://man.archlinux.org/man/glances.1) | [tmux](https://man.archlinux.org/man/tmux.1)
 ### [Asciinema Recording](https://asciinema.org/a/L8y0Dmoj22IQ4ggEFzAbc9v68)
-
-<br />
-
-# **Συμμετοχικό περιεχόμενο 2Α**
-## **Links**
-### [Slides](https://github.com/thanosks/site/blob/2020150/_slides/technology.md) | [Timeline](https://github.com/thanosks/site/blob/2020150/_timeline/output-devices.md)
