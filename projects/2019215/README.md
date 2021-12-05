@@ -18,7 +18,7 @@
 | 6 | [Συμμετοχικό περιεχόμενο 2A](#6ο-παραδοτέο---συμμετοχικό-περιεχόμενο-2α) |
 | 7 | [Άσκηση γραμμής εντολών: PacVim](#7ο-παραδοτέο---pacvim) |
 | 8 | [Συμμετοχικό περιεχόμενο 1B](#8ο-παραδοτέο---συμμετοχικό-περιεχόμενο-1β) |
-| 9 | Άσκηση γραμμής εντολών |
+| 9 | [Άσκηση γραμμής εντολών HCI: Download mp3](#9ο-παραδοτέο---hci-download-mp3) |
 | 10 | Συμμετοχικό περιεχόμενο 2B |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -114,4 +114,17 @@
 | Περιγραφή | Repository Link | Netlify Link |
 | --- | --- | --- |
 | case-study | [Μελέτη περίπτωσης εξαρτημάτων κονσολών βιντεοπαιχνιδιών](https://github.com/p19ntar/site/blob/master/_case-study/videogame-consoles-accessories.md) | [Μελέτη περίπτωσης εξαρτημάτων κονσολών βιντεοπαιχνιδιών](https://2019215.netlify.app//case-study/videogame-consoles-accessories/)
+<br />
+
+# 9ο Παραδοτέο - HCI download mp3
+
+Για το 9ο παραδοτέο που απαιτούσε άσκηση γραμμής εντολών επέλεξα το download mp3 assignment απο τις HCI ασκήσεις.
+Αρχικά εγκατέστησα το youtube-dl με το οποίο κατέβασα ένα τραγούδι απο το youtube στον υπολογιστή.
+#### Asciinema link: https://asciinema.org/a/448894
+<a href="https://asciinema.org/a/448894" target="_blank"><img src="https://asciinema.org/a/448894.svg" /></a>
+
+και έπειτα εγκατέστησα το mpv το οποίο αναπαράγει τραγούδια από το τερματικό και έτσι έπαιξα το τραγούδι που κατέβασα προηγουμένος
+#### Asciinema link: https://asciinema.org/a/448899
+<a href="https://asciinema.org/a/448899" target="_blank"><img src="https://asciinema.org/a/448899.svg" /></a>
+
 
