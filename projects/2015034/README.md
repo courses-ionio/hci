@@ -43,10 +43,10 @@
 [Trackball image](https://github.com/p15bako/images/blob/2015034/Trackball.jpg) [Trackball thumbnail](https://github.com/p15bako/images/blob/2015034/Trackball-thumbnail.jpg) [Trackball Caption](https://github.com/p15bako/_gallery/blob/2015034/Trackball.md)
 
 
-## 2. Fingerprint Scanner
-Υπάρχουν τέσσερις τύποι σαρωτή δακτυλικών αποτυπωμάτων: ο οπτικός σαρωτής, ο σαρωτής χωρητικότητας, ο υπερηχητικός σαρωτής, και ο θερμικός σαρωτής. Η βασική λειτουργία κάθε τύπου σαρωτή είναι να παίρνει μια εικόνα με το δακτυλικό αποτύπωμα ενός ατόμου και να βρίσκει μια αντιστοιχία του στη βάση δεδομένων του. Η μέτρηση της ποιότητας της εικόνας δακτυλικού αποτυπώματος γίνεται σε κουκκίδες ανά ίντσα (DPI). Οι σαρωτές δακτυλικών αποτυπωμάτων έχουν εισέλθει για τα καλά στην ζωή μας τόσο στα smartphones, όσο και στον ίδιο τον σταθερό υπολογιστή και αποτελούν έναν ασφαλέστερο τρόπο κλειδώματος της συσκευής μας.
+## 2. Joystick
 
-[Fingerprint Scanner image](https://github.com/p15bako/images/blob/2015034/Fingerprint-Scanner.jpg) [Fingerprint Scanner thumbnail](https://github.com/p15bako/images/blob/2015034/Fingerprint-Scanner-thumbnail.jpg) [Fingerprint Scanner caption](https://github.com/p15bako/_gallery/blob/2015034/Fingerprint-Scanner.md)
+
+[Joystick image](https://github.com/p15bako/images/blob/2015034/Joystick.jpg) [Joystick thumbnail](https://github.com/p15bako/images/blob/2015034/Joystick_thumbnail.jpg) [Joystick caption](https://github.com/p15bako/_gallery/blob/2015034/Joystick.md)
 
 # <a name="E">Άσκηση γραμμής εντολών 3 (Warmup)</a>
 
