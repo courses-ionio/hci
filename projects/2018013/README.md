@@ -47,4 +47,10 @@ link για την δευτερη εντολη:https://asciinema.org/a/4T9jM9FVc
 [Playstation Portable](https://github.com/giormaster/images/blob/%CE%A02018013/Playstation-Portable.jpg)<br />
 [Playstation Portable Thumbnail](https://github.com/giormaster/images/blob/%CE%A02018013/Playstation-Portable-thumb.jpg)<br />
 [Playstation Portable Gallery](https://github.com/giormaster/_gallery/blob/%CE%A02018013/Playstation-Portable.md)<br />
+# Παραδοτέο_5
+##Ασκηση_1 <br />
+Εγινε η εγγατάσταση του youtube-dl και του mpv μέσω του pacman,στην συνέχεια αναζητούμε το τραγούδι που επιθημούμε με την εντολή youtube-dl "ytsearch:videoname" και το 
+youtube-dl βρίσκει το καλήτερο βίντεο και το καλήτερο sound και τα κάνει merge.<br />
+Μετά πέζουμε το τραγούδι με την εντολή mpv --no-video 'filename',Το no video to βάζουμε για να ακούσουμε μονο το τραγούδη καθός δεν μας ενδιαφέρει η οικόνα.<br />
+Η διαδικασία εχει καταγραφεί με Asciinema στο εξής link:https://asciinema.org/a/ZJ1kskVM7ZD8LXilj3I8Ti1ci <br />
 
