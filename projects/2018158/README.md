@@ -11,7 +11,7 @@
 | 3 | [Άσκηση γραμμής εντολών](#παραδοτέο-3) |
 | 4 | [συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4) |
 | 5 | [Άσκηση γραμμής εντολών](#παραδοτέο-5) |
-| 6 | συμμετοχικό περιεχόμενο 2A |
+| 6 | [συμμετοχικό περιεχόμενο 2A](#παραδοτέο-6) |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
@@ -74,3 +74,21 @@ https://github.com/AnTonyPapako/images/blob/2018158/versabraille-thumb.jpg
 asciinema link: https://asciinema.org/a/aBoF4ZsFwUbuPis8x8OObbhIe
 
 Αυτή τη φορά οι διάφορες εφαρμογές που χρησιμοποιήθηκαν έχουν προεγκατασταθεί με την εντολή ```pacman -S όνομα_εφαρμογής```. Μέσω του ***youtube-dl*** έγινε η εύρεση και η λήψη του τραγουδιού ```youtube-dl "ytsearch:όνομα_τραγουδιού"``` και μέσω των άλλων εφαρμογών, ***mpv*** και ***vlc***, έγινε η αναπαραγωγή του, ```mpv --no-video 'όνομα_τραγουδιού'``` και ```vlc --no-video 'όνομα_τραγουδιού'```.
+
+### Παραδοτέο 6
+
+Συμμετοχικό υλικό - Α2 .
+
+- Slides.
+
+https://github.com/AnTonyPapako/site/blob/2018158/_slides/iui.md
+
+https://github.com/AnTonyPapako/site/blob/2018158/_slides/styles.md
+
+- Timeline + (Thumb) Images in new .md's image_url file.
+
+https://github.com/AnTonyPapako/site/blob/2018158/_timeline/interface.md
+
+https://github.com/AnTonyPapako/images/blob/2018158/interface.jpg
+
+https://github.com/AnTonyPapako/images/blob/2018158/interface-thumb.jpg
