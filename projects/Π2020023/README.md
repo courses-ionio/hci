@@ -161,7 +161,7 @@
 ## Αρχεία .md
 ### [psmove.md](https://github.com/p20sami/site/blob/%CE%A02020023/_case-study/psmove.md)
  
-### [cs-psmove.md](https://github.com/p20sami/site/blob/%CE%A02020023/_case-study/cs-psmove.md) , Το κείμενο της μελέτης
+### [cs-psmove.md](https://github.com/p20sami/extras/blob/%CE%A02020023/cs-psmove.md) , Το κείμενο της μελέτης
  
 ## Πηγές:
 ### [PlayStation Move, Wikipedia](https://en.wikipedia.org/wiki/PlayStation_Move)
@@ -179,7 +179,7 @@
 ## Αρχεία .md
 ### [Βιογραφία του Karlheinz Brandenburg](https://github.com/p20sami/site/blob/%CE%A02020023/_biography/karlheinz-brandenburg.md)
  
-### [Βιογραφία του Karlheinz Brandenburg, ολόκληρη](https://github.com/p20sami/site/blob/%CE%A02020023/_biography/bio-brandenburg.md)
+### [Βιογραφία του Karlheinz Brandenburg, ολόκληρη](https://github.com/p20sami/extras/blob/%CE%A02020023/bio-brandenburg.md)
  
 ## Πηγές:
 
