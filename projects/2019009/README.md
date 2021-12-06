@@ -94,3 +94,13 @@
 ### download mp3 , from youtube 	 youtube-dl mpv
 <a href="https://asciinema.org/a/445017" target="_blank"><img src="https://asciinema.org/a/445017.svg" /></a>
 
+
+## Παραδοτεο 8
+### Case Study
+
+##### case study 
+[Teco](https://github.com/giannisbarlas1/site/blob/master/_case-study/teco.md)
+##### extras
+[extras for Teco](https://github.com/giannisbarlas1/extras/blob/master/Teco.md)
+##### images
+[images for Teco](https://github.com/giannisbarlas1/images/blob/master/teco%20thumb.png)
