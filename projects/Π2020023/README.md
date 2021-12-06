@@ -156,17 +156,16 @@
 ### [w3m](https://en.wikipedia.org/wiki/W3m)
 
 ## Συμμετοχικό περιεχόμενο 1Β - 8ο παραδοτέο
-Για το πρώτο μέρος του Β συμμετοχικού περιεχομένου, αποφάσισα να μελετήσω την περίπτωση του PlayStation Move. Το εν λόγω προιόν, κυκλοφόρησε στην αγορά το 2010 και παρουσίασε νέα δεδομένα στον τρόπο με τον οποίο διαδρούμε με τα βιντεοπαιχνίδια. Παρακάτω, παραθέτω τα σχετικά αρχεία και τις πηγές μου.
+Για το πρώτο μέρος του Β συμμετοχικού περιεχομένου, αποφάσισα να μελετήσω την περίπτωση του Chiptuning. Η εν λόγω μέθοδος, συνδυάζει τα βιντεοπαιχνίδια και την μοσυική (άρα κατά συρροήν και πολυμεσικά συστήματα κυρίως μουσικής) με μοναδικό τρόπο. Δηλαδή, μέσα απο εξαρτήματα κονσολών και όχι μόνο παράγεται οκτάμοιτη μουσική που χρησιμοποιείται σε πολλές πτυχές ακόμη και σε βιντεοπαιχνίδια μέσω soundtracks. Παρακάτω, παραθέτω τα σχετικά αρχεία και τις πηγές μου.
 
 ## Αρχεία .md
-### [psmove.md](https://github.com/p20sami/site/blob/%CE%A02020023/_case-study/psmove.md)
+### [chiptune.md](https://github.com/p20sami/site/blob/%CE%A02020023/_case-study/chiptune.md)
  
-### [cs-psmove.md](https://github.com/p20sami/extras/blob/%CE%A02020023/cs-psmove.md) , Το κείμενο της μελέτης
+### [cs-chiptune.md](https://github.com/p20sami/extras/blob/%CE%A02020023/cs-chiptune.md) , Το κείμενο της μελέτης
  
 ## Πηγές:
-### [PlayStation Move, Wikipedia](https://en.wikipedia.org/wiki/PlayStation_Move)
- 
-### [PlayStation Move, How Stuff Works](https://electronics.howstuffworks.com/playstation-move.htm)
+### [Chiptune, Wikipedia](https://en.wikipedia.org/wiki/Chiptune)
+
  
 ## Άσκηση γραμμής εντολών - 9ο παραδοτέο
 -
