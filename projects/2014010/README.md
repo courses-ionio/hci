@@ -16,7 +16,7 @@
 | 5 | [Άσκηση γραμμής εντολών](#2ο-παραδοτέο---arch-linux-installation) |
 | 6 | [συμμετοχικό περιεχόμενο 2A](#4ο-παραδοτέο---συμμετοχικό-περιεχόμενο-a2) |
 | 7 | [Άσκηση γραμμής εντολών](#5ο-παραδοτέο---άσκηση-γραμμής-εντολών) |
-| 8 | συμμετοχικό περιεχόμενο 1B |
+| 8 | [συμμετοχικό περιεχόμενο 1B](#6ο-παραδοτέο---συμμετοχικό-περιεχόμενο-b1) |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο 2B |
 | 11 | Άσκηση γραμμής εντολών |
@@ -80,3 +80,11 @@
 [Search Youtube Song Asciinema](https://asciinema.org/a/u2vFxcd9gm5eq2EnRiq7zXn9G)
 
 [Download and Play Song Asciinema](https://asciinema.org/a/1lP55Iv9DmYp8gO89QV0BRnkv)
+
+# Παραδοτέο 6: Συμμετοχικό Περιεχόμενο B1
+
+Για την μελέτη περίπτωσης επέλεξα να ασχοληθώ με την σειρά κονσολών πρώτης γεννίας, Coleco Telstar 
+
+| Περιγραφή | Repository Σύνδεσμος |
+| --- | --- |
+| Η κονσόλες Coleco Telstar | [coleco-telstar.md](https://github.com/CptMike/site/blob/master/_case-study/coleco-telstar.md) + [cs-coleco-telstar.md](https://github.com/CptMike/site/blob/master/_case-study/cs-coleco-telstar.md) |
