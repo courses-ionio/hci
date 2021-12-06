@@ -419,3 +419,11 @@ tmux attach-session -t
 
 ### asciinema 
 [![asciicast](https://asciinema.org/a/453524.svg)](https://asciinema.org/a/453524)
+
+
+
+### :pushpin:: συμμετοχικό περιεχόμενο 2
+
+| Περιγραφή | Repository Link | Other Links |
+| --- | --- | --- |
+  | case study(Arcade Παιχνίδια)  | [arcades-games.md](https://github.com/p19tzam/site/blob/master/_case-study/arcade-games.md) + [Netlify link](https://hci-p19tzam.netlify.app//case-study/arcade-games/) | [extras case study link](https://github.com/p19tzam/extras/blob/master/arcade-games.md)
