@@ -49,7 +49,9 @@
 
 <b>[1) Συμμετοχικό περιεχόμενο](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4)</b>: Στο συμμετοχικό περιεχόμενο επέλεξα να κάνω για το Galaxy Game 1971 first arcade game επειδή γενικότερα μου αρέσουν τα games και παίζω αρκετά συχνά(όταν δεν έχω υποχρεώσεις). Κυρίως παίζω καινούργια video games και έτσι σκέφτηκα να κάνω το galaxy game που είναι arcade game που οταν ήμουν μικρός συχνά στο internet καφέ έπαιζα μερικά arcades games όπως το tekken 3. 
 
-<b>[2) Συμμετοχικό περιεχόμενο](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4)</b>:
+<b>[2) Συμμετοχικό περιεχόμενο](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4)</b>: Στο τελευταίο συμμετοχικό περιεχόμενο επέλεξα να κάνω για μελέτη περίπτωσης τα arcade παιχνίδια γιατί πάνω στο  research έμαθα πάρα πολλά πράγματα όπως μερικά παιχνίδια θεωρούνται παιχνίδια τύχης και μερικά θεωρούνται παιχνίδια δεξιοτήτων.
+Για βιογραφία επέλεξε να κάνω για τον Nolan Bushnell επειδή κατα βάθος συνδέεται με το Α συμμετοχικό περιεχόμενο επίσης γιατί ο Nolan είχε σαν στόχο τα παιχνίδια του να είναι με εκπαιδευτικό υλικό.
+
 ## Προβλήματα που αντιμετώπισα
 ### 1) Στην εγκατάσταση του Arch Linux
 Αρχικά θα ήθελα να ενημερώσω ότι είμαι χρήστης του Linux εδω και πολλά χρόνια(Ubuntu, Kali(επειδή ασχολούμε με pen testing), MX Linux τρέχων). Μετά από καιρό ήρθε η στιγμή να κάνω Install το linux manually μιας και τόσο καιρό χρησιμοποιώ το GUI απο τα linux distro για να γίνει η εγκατάσταση του λειτουργικού μου πιο εύκολα και πιο σωστά.
@@ -278,7 +280,6 @@ ip addr
 [![asciicast](https://asciinema.org/a/443893.svg)](https://asciinema.org/a/443893)
 
 
-<h2>   :book:: Παραδοτέο 4</h2>
 
 ### :pushpin:: συμμετοχικό περιεχόμενο 1
 
@@ -293,6 +294,15 @@ ip addr
 | Images Galaxy game | [Full quality](https://github.com/p19tzam/images/blob/master/galaxy-game.jpg) + [Thumb](https://github.com/p19tzam/images/blob/master/galaxy-game-thumb.jpg) |
 | Slides | [arcade.md](https://github.com/p19tzam/site/blob/master/_slides/arcades.md) + [Netlify link](https://hci-p19tzam.netlify.app//slides/arcades/) |
 | Timeline | [videogamesconsole.md](https://github.com/p19tzam/site/blob/master/_timeline/galaxy-game.md) + [Netlify link](https://hci-p19tzam.netlify.app//timeline/galaxy-game/) | 
+
+
+### :pushpin:: συμμετοχικό περιεχόμενο 2
+Για το τελευτέο συμμετοχικό περιεχόμενο έκανα μια βιογραφία για τον Alan Bushnell ιδρυτή της Atari και πρωτεργάτη στην βιομηχανία βιντεοπαιχνιδιών και μία μελέτη περίπτωσης για τα arcade games που περιγράφω τις διαφορές ανάμεσα τον τυχερών παιχνιδιών και το παιχνίδι δεξιοτήτων.
+| Περιγραφή | Repository Link | Other Links |
+| --- | --- | --- |
+  | Μελέτη Περίπτωσης(Arcade Παιχνίδια)  | [arcades-games.md](https://github.com/p19tzam/site/blob/master/_case-study/arcade-games.md) + [Netlify link](https://hci-p19tzam.netlify.app//case-study/arcade-games/) | [extras case study link](https://github.com/p19tzam/extras/blob/master/arcade-games.md)
+  | Βιογραφία(Nolan Bushnell) | [nolan-bushnell.md](https://github.com/p19tzam/site/blob/master/_biography/nolan-bushnell.md) + [Netlify link](https://hci-p19tzam.netlify.app//biography/nolan-bushnell/) | [extra case study link](https://github.com/p19tzam/extras/blob/master/nolanbushnell.md)
+
 
 
 ## :pushpin:: Άσκηση γραμμής εντολών HCI 1
@@ -419,12 +429,3 @@ tmux attach-session -t
 
 ### asciinema 
 [![asciicast](https://asciinema.org/a/453524.svg)](https://asciinema.org/a/453524)
-
-
-
-### :pushpin:: συμμετοχικό περιεχόμενο 2
-Για το τελευτέο συμμετοχικό περιεχόμενο έκανα μια βιογραφία για τον Alan Bushnell ιδρυτή της Atari και πρωτεργάτη στην βιομηχανία βιντεοπαιχνιδιών και μία μελέτη περίπτωσης για τα arcade games που περιγράφω τις διαφορές ανάμεσα τον τυχερών παιχνιδιών και το παιχνίδι δεξιοτήτων.
-| Περιγραφή | Repository Link | Other Links |
-| --- | --- | --- |
-  | Μελέτη Περίπτωσης(Arcade Παιχνίδια)  | [arcades-games.md](https://github.com/p19tzam/site/blob/master/_case-study/arcade-games.md) + [Netlify link](https://hci-p19tzam.netlify.app//case-study/arcade-games/) | [extras case study link](https://github.com/p19tzam/extras/blob/master/arcade-games.md)
-  | Βιογραφία(Nolan Bushnell) | [nolan-bushnell.md](https://github.com/p19tzam/site/blob/master/_biography/nolan-bushnell.md) + [Netlify link](https://hci-p19tzam.netlify.app//biography/nolan-bushnell/) | [extra case study link](https://github.com/p19tzam/extras/blob/master/nolanbushnell.md)
