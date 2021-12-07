@@ -427,4 +427,4 @@ tmux attach-session -t
 | Περιγραφή | Repository Link | Other Links |
 | --- | --- | --- |
   | Μελέτη Περίπτωσης(Arcade Παιχνίδια)  | [arcades-games.md](https://github.com/p19tzam/site/blob/master/_case-study/arcade-games.md) + [Netlify link](https://hci-p19tzam.netlify.app//case-study/arcade-games/) | [extras case study link](https://github.com/p19tzam/extras/blob/master/arcade-games.md)
-  | Βιογραφία(Nolan Bushnell) |
+  | Βιογραφία(Nolan Bushnell) | [nolan-bushnell.md](https://github.com/p19tzam/site/blob/master/_biography/nolan-bushnell.md) + [Netlify link](https://hci-p19tzam.netlify.app//biography/nolan-bushnell/) | [extra case study link](https://github.com/p19tzam/extras/blob/master/nolanbushnell.md)
