@@ -423,7 +423,7 @@ tmux attach-session -t
 
 
 ### :pushpin:: συμμετοχικό περιεχόμενο 2
-
+Για το τελευτέο συμμετοχικό περιεχόμενο έκανα μια βιογραφία για τον Alan Bushnell ιδρυτή της Atari και πρωτεργάτη στην βιομηχανία βιντεοπαιχνιδιών και μία μελέτη περίπτωσης για τα arcade games που περιγράφω τις διαφορές ανάμεσα τον τυχερών παιχνιδιών και το παιχνίδι δεξιοτήτων.
 | Περιγραφή | Repository Link | Other Links |
 | --- | --- | --- |
   | Μελέτη Περίπτωσης(Arcade Παιχνίδια)  | [arcades-games.md](https://github.com/p19tzam/site/blob/master/_case-study/arcade-games.md) + [Netlify link](https://hci-p19tzam.netlify.app//case-study/arcade-games/) | [extras case study link](https://github.com/p19tzam/extras/blob/master/arcade-games.md)
