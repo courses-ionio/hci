@@ -183,7 +183,7 @@ asciinema link : https://asciinema.org/a/444197
 
 ##### [9]
 
-## Άσκηαη γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion (hci) 
+## Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion (hci) 
 
 asciinema link : https://asciinema.org/a/454647
 
