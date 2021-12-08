@@ -110,4 +110,14 @@ Wikimedia Foundation. (2021, November 24). Project athena. Wikipedia. Retrieved 
 
 </p>
 
+<h2>Άσκηση γραμμής εντολών (9)</h2>
+
+<h3>use org mode</h3>
+
+<a href="https://asciinema.org/a/454661" target="_blank"><img src="https://asciinema.org/a/454661.svg" /></a>
+
+<h3>format your report</h3>
+
+<a href="https://asciinema.org/a/454679" target="_blank"><img src="https://asciinema.org/a/454679.svg" /></a>
+
 
