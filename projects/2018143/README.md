@@ -185,9 +185,9 @@ asciinema link : https://asciinema.org/a/444197
 
 ## Άσκηαη γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion (hci) 
 
-asciinema link : 
+asciinema link : https://asciinema.org/a/454647
 
-Script που χρησιμοποιήθηκε : 
+Script που χρησιμοποιήθηκε : https://github.com/p18kout/hci-images/blob/main/testscript.py
 
 Διαδικασία : 
 
@@ -211,6 +211,6 @@ Script που χρησιμοποιήθηκε :
 
 ## Αποτελέσματα : 
 
-![testscript]()
+![testscript](https://github.com/p18kout/hci-images/blob/main/testscript.png)
 
 Πηγή : https://www.vim.org/
