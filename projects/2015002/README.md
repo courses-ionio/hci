@@ -62,7 +62,25 @@
 
 
 # 3ο Παραδοτέο - Set-up the main dependencies and demonstrate your base system
+Όπως ανάφερα παραπάνω, η εγκατάσταση ολοκληρώθηκε με επιτυχία. Αυτό **δεν** ίσχυε τελικά. Με την επανεκκίνηση του Arch παρατήρησα πολλά errors, system freezes και γενικά πάρα πολύ αργό boot time. Μου πήρε μέρες έντονης αναζήτησης για το κάθε error που μου έβγαζε(ήταν πολλά) το shell και παράλληλα χρειάστηκε να κάνω install τα Arch αρκετές φορές διότι το σύστημα δεν ήταν responsive με αποτέλεσμα να μην μπορώ ούτε boot να κάνω.
 
+Μερικά από τα errors που χρειάστηκε να ψάξω ήταν kernel panic και κατά την διαδικασία εγκατάστασης packages το error “task blocked for more than 120 seconds”.
+“task blocked for more than 120 seconds” ήταν το error που με βοήθησε να βρω το πρόβλημα. Συγκεκριμένα βρήκα αυτά τα τρία threads [#1](https://serverfault.com/questions/887440/how-should-we-understand-this-locked-for-more-than-120-seconds-call-trace), [#2](https://serverfault.com/questions/456980/server-hung-with-blocked-for-more-than-120-seconds-diskless) και [#3](https://unix.stackexchange.com/questions/181505/what-does-task-mysqldxxx-blocked-for-more-than-120-seconds-mean) στα οποία έλεγε για πιθανό προβληματικό USB. Μετά από περίπου 10 προσπάθειες εγκατάστασης του Arch σε ένα καινούριο USB 64GB που αγόρασα αποκλειστικά για το Arch, είπα να δοκιμάσω την εγκατάσταση σε ένα 32GB type C USB που είχα. 
+
+Μετά από 10 εγκαταστάσεις του Arch δεν χρειάστηκα καν το tutorial. Κατά την διάρκεια της εγκατάστασης στο type C USB που είχα παρατήρησα πως η διαδικασία προχωρούσε υπερβολικά γρηγορότερα, το vim δεν κολλούσε σε κάθε αλλαγή που έκανα, τα packages κατέβαιναν αμέσως και γενικά η όλα ήταν πιο ομαλά.
+Ολοκληρωματικά, πλέον μπορώ να πω με σιγουριά πως έχω λειτουργικό Linux Distribution (Arch) και μπορώ να συνεχίσω με τα παραδοτέα.
+
+Στο συγκεκριμένο παραδοτέο θα δείξω το shell configuration, software και hardware specifications και τα .dot αρχεία του συστήματος:
+| Title | Link |
+| ----------- | ----------- |
+| Shell configuration files | [link](https://asciinema.org/a/454543) |
+| Software / Hardware Specs | [link](https://asciinema.org/a/454542) |
+| Showing .dot files        | [link](https://asciinema.org/a/454540) |
+
+## Πηγές:
+- [How should we understand this 'locked for more than 120 seconds' call trace?](https://serverfault.com/questions/887440/how-should-we-understand-this-locked-for-more-than-120-seconds-call-trace)</br>
+- [Server hung with "blocked for more than 120 seconds", diskless](https://serverfault.com/questions/456980/server-hung-with-blocked-for-more-than-120-seconds-diskless)</br>
+- [What does "task mysqld:xxx blocked for more than 120 seconds" mean?](https://unix.stackexchange.com/questions/181505/what-does-task-mysqldxxx-blocked-for-more-than-120-seconds-mean)</br>
 
 # 4ο Παραδοτέο - Συμμετοχικό περιεχόμενο: Α1
 Σαν χόμπι έχω τα video games και για αυτό ήθελα να βρω κάτι σε αυτή την ενότητα. Η πρώτη εικόνα που βρήκα είναι η πρώτη κονσόλα για video games που δημιουργήθηκε το 1972 με όνομα Magnavox Odyssey!<br />
