@@ -185,7 +185,9 @@ asciinema link : https://asciinema.org/a/444197
 
 ## Άσκηαη γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion (hci) 
 
-asciinema link : https://asciinema.org/a/449721
+asciinema link : 
+
+Script που χρησιμοποιήθηκε : 
 
 Διαδικασία : 
 
@@ -193,12 +195,22 @@ asciinema link : https://asciinema.org/a/449721
 
 • Εγκατάσταση απαραίτητων πακέτων **sudo pacman -S vim** , **sudo pacman -S vi**
 
-• Επεξεργασία του αρχείου config **sudo vi /home/p2018143/config**
+• Χρήση απλού print script **vim testscript.py**
+
+• Είσοδος INSERT mode με το πλήκτρο Ι 
+
+• Είσοδος σε READ-ONLY mode με το πλήκτρο Esc 
+
+• Πληκτρολόγηση **syntax off/on** και ενεργοποίηση highlighting του κώδικα 
+
+• Πληκτρολόγηση **:w** για αποθήκευση του αρχείου 
+
+• Πληκτρολόγηση **:q** για έξοδο στο terminal 
 
 • Τέλος εγγραφής terminal **exit**
 
 ## Αποτελέσματα : 
 
-![config](https://github.com/p18kout/hci-images/blob/main/2018143_config.png)
+![testscript]()
 
-Πηγή :https://www.vim.org/
+Πηγή : https://www.vim.org/
