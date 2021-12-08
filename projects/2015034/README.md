@@ -10,7 +10,7 @@
 | <a href="#E">5</a> | <a href="#E">Άσκηση γραμμής εντολών 3 (Warmup)</a>|
 | <a href="#F">6</a> | <a href="#F">Συμμετοχικό Περιεχόμενο 2A</a> |
 | 7 | Άσκηση γραμμής εντολών |
-| 8 | συμμετοχικό περιεχόμενο 1B |
+| <a href="#H">8</a> | <a href="#H">Συμμετοχικό Περιεχόμενο 1Β</a> |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο 2B |
 | 11 | Άσκηση γραμμής εντολών |
@@ -63,3 +63,14 @@
 
 ## 2. Joystick
 Για το Joystick, επέλεξα σαν κατηγορία διαφανειών τα videogames, όπως φαίνεται [εδώ](https://github.com/p15bako/site/blob/2015034/_slides/videogames.md). Αντίστοιχα, το πρόσθεσα και στο [χρονολόγιο](https://github.com/p15bako/site/blob/master/_timeline/videogames.md)
+
+
+## <a name="H">Συμμετοχικό Περιεχόμενο 1Β </a>
+Για το δεύτερο μέρος συμμετοχικού περιεχομένου έκανα μια νέα μελέτη περίπτωσης πάνω στα Controllers και πιο συγκεκριμένα στο Joystick και στο Trackball, με αφορμή ότι αυτά παρέδωσα στο πρώτο μέρος έχοντας ως σκοπό την αναλυτικότερη κατανόηση του πως φτάσαμε στην σημερινή μορφή των controller και τι στάδια πέρασαν και πως η διάδραση έγινε καλύτερη μέσα από το πέρασμα των χρόνων. Για την συγγραφή του παρακάτω case study χρειάστηκαν πολλές ώρες διαβάσματος επιστημονικών άρθρων, ανάλυση των ενοτήτων του μαθήματος και αναζήτηση ιστορίας της τεχνολογικής εξέλιξης των controller/joystick/trackball.
+
+[md file](https://github.com/p15bako/site/blob/2015034/_case-study/Joystick-Trackball.md)
+
+[Αναλυτικό case study](https://github.com/p15bako/extras/blob/2015034/cs-Joystick-Trackball.md)
+
+### Πηγές
+[The history of the video game controller](https://www.shortlist.com/lists/history-of-the-video-game-controller) | [Usability Testing of Video Game Controllers](https://sci-hub.se/10.1201/b21564-8) | [The Trackball Controller: Improving the Analog Stick](https://www.yorku.ca/mack/FuturePlay2010-1.pdf) | [Beyond the Gamepad: HCI and Game Controller Design and Evaluation](https://www.researchgate.net/publication/227144881_Beyond_the_Gamepad_HCI_and_Game_Controller_Design_and_Evaluation) | [Analog Stick Wiki](https://en.wikipedia.org/wiki/Analog_stick#History) | [Trackball Wiki](https://en.wikipedia.org/wiki/Trackball) | [Joystick Wiki](https://en.wikipedia.org/wiki/Joystick)
