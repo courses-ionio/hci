@@ -88,3 +88,5 @@
 Αναλυτική περιγραφή των slides και των timelines για ερώτηση συμφοιτητή μου σχετικά με το συμμετοχικό περιεχόμενο: [Αναλυτικό σχόλιο slides/timelines](https://github.com/courses-ionio/hci/discussions/1634)
 
 Απάντηση σε ερώτηση συμφοιτητή για τις ατομικές παρουσιάσεις προόδου: [Απάντηση για την συνάντηση](https://github.com/courses-ionio/hci/discussions/1641)
+
+Επεξήγηση για το συμμετοχικό υλικό: [Σχετική απάντηση εδώ](https://github.com/courses-ionio/hci/discussions/1662)
