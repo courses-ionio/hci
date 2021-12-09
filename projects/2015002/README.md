@@ -87,16 +87,16 @@
 
 Για αυτό αποφάσισα οι δύο εικόνες που διάλεξα να έχουν θέμα τα παιχνίδια. Ήθελα να δείξω το ξεκίνημα αυτής της πλέον τεράστιας βιομηχανίας με το Pong του Atari το οποίο έκανε το ξεκίνημα και στην συνέχεια ήθελα να δείξω το Xbox Controller της Microsoft που θεωρώ πως είναι ένα απίθανο εργαλείο διότι επιτρέπει σε άτομα με αναπηρία να απολαύσουν τον κόσμο του video gaming και να λάβουν μέρος σε μια δραστηριότητα χωρίς να τους εμποδίζει η αναπηρία τους.
 
-Θεωρώ πως το gaming πρέπει να είναι προσβάσιμο προς όλους.
+#### Θεωρώ πως το gaming πρέπει να είναι προσβάσιμο σε όλους.
 
 | Θέμα | Εικόνα | Πληροφορίες |
 | ----------- | ----------- | ----- |
 | Atari Pong | [Εικόνα](https://github.com/mariosconsta/images/blob/master/TeleGames-Atari-Pong.jpg) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/TeleGames-Atari-Pong_thubmnail.jpg) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/atari-pong.md)
 | Xbox adaptive controller | [Εικόνα](https://github.com/mariosconsta/images/blob/master/Xbox_Adaptive_Controller.jpeg) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/Xbox_Adaptive_Controller_thumbnail.jpeg) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/adaptive-xbox-controller.md)
 
-# 5ο Παραδοτέο -
+# 5ο Παραδοτέο - Try a different Shell
 
-# 6ο Παραδοτέο - 
+# 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο 2A
 
 # 7ο Παραδοτέο - Download mp3
 
@@ -108,21 +108,21 @@
 
 #### Η εργασία ουσιαστικά χωρίζετε στα εξής βήματα:
 
-### 1. Αναζήτηση του τραγουδιού στο YouTube
+#### 1. Αναζήτηση του τραγουδιού στο YouTube
 Η αναζήτηση ήταν σχετικά εύκολη δεδομένου ότι το ytfzf εγκαταστάθηκε σωστά. Απλά γράφουμε ytfzf και μετά σε κάνει promt να γράψεις τι θα ήθελες να κάνει search. Στην συνέχεια αφού κάνεις την αναζήτηση σου βγάζει διάφορες επιλογές, διαλέγεις το κομμάτι σου και πατάς enter για αναπαραγωγή.<br/>
 
 Θα αναφέρω πολλά προβλήματα που είχα με την αναζήτηση στο τέλος.
 
-### 2. Κατέβασμα του τραγουδιού από το YouTube σε μορφή mp3
+#### 2. Κατέβασμα του τραγουδιού από το YouTube σε μορφή mp3
 Το κατέβασμα είναι σχεδόν το ίδιο με την αναζήτηση. Στην αρχή για αναζήτηση γράψαμε ytfzf, τώρα για το κατέβασμα πρέπει να προσθέσουμε -d στο τέλος. Δηλαδή ytfzf -d.
 Στην συνέχεια όπως και πριν, γράφουμε αυτό που θέλουμε να κατεβάσουμε και μας βγάζει μία λίστα από επιλογές. Διαλέγουμε το τραγούδι και ξεκινάει το κατέβασμα.<br/>
 
 Θα ήθελα να σημειώσω δύο πράγματα. Το ytfzf χρησιμοποιεί το youtube-dl για το κατέβασμα. Για να μπορέσω να κατεβάσω ένα βίντεο έπρεπε πρώτα να γράψω sudo apt install youtube-dl. Έπειτα έπρεπε να αλλάξω το working directory του terminal έτσι ώστε το τραγούδι να κατέβει στο φάκελο που ήθελα και όχι στο default.
 
-### 3. Αναπαραγωγή του τραγουδιού από το terminal
+#### 3. Αναπαραγωγή του τραγουδιού από το terminal
 Η αναπαραγωγή του τραγουδιού ήταν σχετικά εύκολη. Χρειάστηκα δύο πράγματα. MPV και Mplayer. Αφού τα κατέβασα, έπρεπε να αλλάξω το working directory του terminal με την εντολή cd /home/Marios/Deskstop/Music. Για να βεβαιωθώ ότι είμαι στο σωστό directory έγραψα την εντολή pwd η οποία μου κάνει print το working directory του terminal. Στην συνέχεια έγραψα την εντολή ls η οποία που κάνει print τα contents του directory. Στον φάκελο είχα μόνο το τραγούδι που κατέβασα και έτσι για αναπαραγωγή έγραψα "mplayer 'όνομα αρχείου'". Πάτησα enter και ξεκίνησε το τραγούδι να παίζει. Στο asciinema δεν φαίνεται το βίντεο αλλά φαίνεται η αναπαραγωγή από το terminal.
 
-### Προβλήματα που χρειάστηκε να επιλυθούν μέχρι την εκτέλεση:
+#### Προβλήματα που χρειάστηκε να επιλυθούν μέχρι την εκτέλεση:
 Προβλήματα είχα πολλά. Αρχικά προσπάθησα να αναζητήσω τραγούδι με το εργαλείο ytp. Το API δεν ήθελε να συνεργαστεί και διάβασα πως πρέπει να κάνω δικό μου API μέσο Google Console. Το έκανα αλλά και πάλι, μου έβγαζε άλλα errors. Στην συνέχεια δοκίμασα το εργαλείο youtube-viewer αλλά και πάλι τίποτα, μετά από το youtube-viewer δοκίμασα ακόμη ένα εργαλείο αλλά και πάλι κάτι δεν του άρεσε. Τέλος βρήκα το ytfzf και κατάφερα να κάνω την αναζήτηση μου. Το άλλο πρόβλημα που είχα ήταν πως δεν ήξερα ότι έπρεπε να αλλάξω το directory του terminal για να κατέβει το τραγούδι εκεί που ήθελα. Έψαξα λίγο και έμαθα για τις εντολές cd, pwd και ls. Τέλος, το τελευταίο πρόβλημα που είχα ήταν τα errors που έβγαζε το ytfzf. Η λύση ήταν να δω αν είναι εγκατεστημένο το python3 με την εντολή whereis python3. Ήταν εγκατεστημένο, στην συνέχεια έπρεπε να δημιουργήσω ένα symlink με την εντολή sudo ln -s /usr/bin/python3 /usr/bin/python.
 
 ### Εργαλεία που χρησιμοποίησα:
@@ -137,6 +137,8 @@ ytfzf, youtube-dl, mpv, mplayer
 [mplayer](https://github.com/philipl/mplayer) |
 [mpv](https://github.com/mpv-player/mpv) |
 [ubuntu /usr/bin/env: python: No such file or directory](https://stackoverflow.com/questions/3655306/ubuntu-usr-bin-env-python-no-such-file-or-directory/61608129?fbclid=IwAR2Jah5CiPubxsJW2HsH3Td1LvLRTtSLNPZ9-Wv3QpzCbSUKBhrrjcbQ4T0) |
+
+# 8ο Παραδοτέο - Συμμετοχικό περιεχόμενο 1B
 
 # 9ο Παραδοτέο - Organise todo list
 Για την επόμενη άσκηση προγραμματισμού αποφάσισα να οργανώσω τις σημειώσεις μου με το emacs. <br/>
@@ -159,6 +161,8 @@ emacs
 [The Emacs Editor](https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html) |
 [Running Shell Commands from Emacs](https://www.gnu.org/software/emacs/manual/html_node/emacs/Shell.html) |
 [How to open Emacs inside Bash](https://stackoverflow.com/questions/8746227/how-to-open-emacs-inside-bash) |
+
+# 10ο Παραδοτέο - Συμμετοχικό περιεχόμενο 2B
 
 # 11ο Παραδοτέο - Άσκηση γραμμής εντολών
 
