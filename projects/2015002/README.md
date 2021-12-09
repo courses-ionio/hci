@@ -94,7 +94,7 @@ https://github.com/mariosconsta/_gallery/blob/master/Xbox-Adaptive-Controller.md
 | Θέμα | Εικόνα | Πληροφορίες |
 | ----------- | ----------- | ----- |
 | Atari Pong | [Εικόνα](https://github.com/mariosconsta/images/blob/master/TeleGames-Atari-Pong.jpg) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/TeleGames-Atari-Pong_thubmnail.jpg) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/atari-pong.md)
-| Xbox adaptive controller | [Εικόνα](https://github.com/mariosconsta/images/blob/master/Xbox_Adaptive_Controller.jpeg) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/Xbox_Adaptive_Controller_thumbnail.jpeg) | [MD Αρχείο](λμαο)
+| Xbox adaptive controller | [Εικόνα](https://github.com/mariosconsta/images/blob/master/Xbox_Adaptive_Controller.jpeg) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/Xbox_Adaptive_Controller_thumbnail.jpeg) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/adaptive-xbox-controller.md)
 
 # 5ο Παραδοτέο -
 
