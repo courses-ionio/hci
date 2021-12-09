@@ -95,7 +95,20 @@
 | Xbox adaptive controller | [Εικόνα](https://github.com/mariosconsta/images/blob/master/Xbox_Adaptive_Controller.jpeg) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/Xbox_Adaptive_Controller_thumbnail.jpeg) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/adaptive-xbox-controller.md)
 
 # 5ο Παραδοτέο - Try a different Shell
+Για το 5ο παραδοτέο αποφάσισα να δοκιμάσω το Shell ZSH. Η διαδικασία εγκατάστασης είναι αρκετά εύκολη και το wiki τα εξηγεί όλα αναλυτικά. Μπορώ να πω πως μου άρεσε αρκετά το zsh και το customizability του. Μπορεί ο κάθε χρήστης να το φτιάξει στα δικά του μέτρα με μία πληθώρα από themes και plugins.
 
+Αντί να κάνω ένα μεγάλο asciinema με την διαδικασία εγκατάστασης, είπα να το σπάσω σε κομμάτια τα οποία μπορείτε να βρείτε παρακάτω.
+
+|Βήμα | Asciinema |
+| --- | ----------|
+| Setup ZSH       | [link](https://asciinema.org/a/454859)  |
+| Setup promtinit | [link](https://asciinema.org/a/454864)  |
+| Setting up prompt | [link](https://asciinema.org/a/454867)|
+| Installing ohmyzsh framework | [link](https://asciinema.org/a/454870) |
+| Setup theme and plugins | [link](https://asciinema.org/a/454878) |
+| Setup auto suggestions | [link](https://asciinema.org/a/454884) |
+
+Αφού ολοκλήρωσα την διαδικασία και ρύθμισα το Shell στα δικά μου γούστα, το αποτέλεσμα είναι φανταστικό και το functionality που σου προσφέρει είναι αρκετά χρήσιμο!
 # 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο 2A
 
 # 7ο Παραδοτέο - Download mp3
