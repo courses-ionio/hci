@@ -10,6 +10,9 @@
 
 **Asciinema profile:[CharisP2020197](https://asciinema.org/~CharisP2020197)**
 
+**Edpuzzle profile:KonstantinosCharitos P2020197**
+**ActivelyLearn:KonstantinosCharitos P2020197**
+
 <!-- Headings   -->
 ## **Πίνακας με σύνοψη των παραδοτέων**
 
