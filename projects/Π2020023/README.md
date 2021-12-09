@@ -1,7 +1,7 @@
-# Όνομα: Σάμιος Γεώργιος
-# ΑΜ: Π2020023
-# Μάθημα: Επικοινωνία ανθρώπου-υπολογιστή
-# [Shell scripts repository](https://github.com/p20sami/shell-scripts)
+## Όνομα: Σάμιος Γεώργιος
+## ΑΜ: Π2020023
+## Μάθημα: Επικοινωνία ανθρώπου-υπολογιστή
+## [Shell scripts repository](https://github.com/p20sami/shell-scripts)
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
 | 1 | [Εισαγωγή - 1ο παραδοτέο](#εισαγωγή---1ο-παραδοτέο) |
@@ -20,8 +20,8 @@
 ## Εγκατάσταση λειτουργικού Arch Linux
 Πρωτού προσχωρήσω στην υλοποίηση των παραδοτέων αυτής της εργασίας, χρειάστηκε να εγκαταστήσω το λειτουργικό Arch Linux. Κατά την διαδικασία αυτή, υπήρξαν διάφορα προβλήματα τα οποία εν τέλει επιλύθηκαν σχετικά έυκολα με μια αναζήτηση στο Google. Το ελάσσων πρόβλημα ήταν οτι για την εγκατάσταση απαιτούταν καλή σύνδεση στο διαδίκτυο, διότι σε αντίθετη περίπτωση η επικοινωνία με τους διακομιστές κατά την εγκατάσταση δεν ήταν δυνατή. Το κύριο πρόβλημα όμως -επειδή η εγκατάστασση έγινε σε εξωτερικό αποθηκευτικό μέσο- ήταν η μορφή του partition table, διότι αρχικά το εξωτερικό μέσο υποστήριζε την μορφή MBR (Master Boot Record) που συναντάται σε συστήματα με BIOS ή Legacy BIOS. Τα νεότερα συστήματα UEFI όμως, χρησιμοποιούν την μορφή GPT (GUID Partition Table), οπότε κρίθηκε αναγκαία η μετατροπή απο MBR σε GPT. Αυτό έγινε εύκολα μέσω του CMD των Windows, διαδικασία που όμως απαιτεί προσοχή ώστε να μην πειράξουμε τον σκληρό μας δίσκο. Αφότου λύθηκε και το συγκεκριμένο πρόβλημα η εγκατάσταση προχώρησε χωρίς προβλήματα. Παρακάτω, υπάρχει βίντεο στο asciinema με πληροφορίες συστήματος και boot log. Για τις πληροφορίες συστήματος χρησιμοποιήθηκε η εντολή neofetch, ενώ για την προβολή του boot log έγινε χρήση της εντολής journalctl -b. Επειδή όμως η τελευταία εντολή εμφανίζει αρκετά πολλές πληροφορίες, συνδέθηκε με την εντολή less μέσω pipelining, άρα η τελική εντολή ήταν journalctl -b | less.
 
-### [Asciinema, πληροφορίες συστήματος και boot log](https://asciinema.org/a/6nTRuH2l9Uiox8IHtkt2DKeLz)
-### [Μετατροπή απο MBR σε GPT format](https://docs.microsoft.com/en-us/windows-server/storage/disk-management/change-an-mbr-disk-into-a-gpt-disk)
+#### [Asciinema, πληροφορίες συστήματος και boot log](https://asciinema.org/a/6nTRuH2l9Uiox8IHtkt2DKeLz)
+#### [Μετατροπή απο MBR σε GPT format](https://docs.microsoft.com/en-us/windows-server/storage/disk-management/change-an-mbr-disk-into-a-gpt-disk)
 
 ## Σημείωση
 Σε όλες τις ασκήσεις γραμμής εντολών έχει προστεθεί σχετικό flag στο asciinema σύμφωνα με τις οδηγίες για παράλειψη κενών. Τυχόν καθυστερήσεις στα βίντεο οφείλονται σε αργή
@@ -39,15 +39,15 @@
 
 ## Shell script:
 
-### [Shell script άσκησης, asciinema](https://asciinema.org/a/O9tpi9nBgiYkiYTNr8fVWxEEQ)
-### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/weatherscriptvol3.sh)
+#### [Shell script άσκησης, asciinema](https://asciinema.org/a/O9tpi9nBgiYkiYTNr8fVWxEEQ)
+#### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/weatherscriptvol3.sh)
 
 ## Asciinema
-### [Asciinema βίντεο 2ου παραδοτέου](https://asciinema.org/a/Nzc8vpIuJEhYg3WS9Y24rWJKN)
+#### [Asciinema βίντεο 2ου παραδοτέου](https://asciinema.org/a/Nzc8vpIuJEhYg3WS9Y24rWJKN)
 
 ## Πηγές:
-### [curl/wttr.in/v2.wttr.in](https://github.com/chubin/wttr.in)
-### [Asciinema idle time](https://asciinema.org/docs/usage)
+#### [curl/wttr.in/v2.wttr.in](https://github.com/chubin/wttr.in)
+#### [Asciinema idle time](https://asciinema.org/docs/usage)
 
 
 ## Άσκηση γραμμής εντολών - 3ο παραδοτέο
@@ -55,116 +55,116 @@
  
 ## Shell script
 
-### [Shell script άσκησης, asciinema](https://asciinema.org/a/CVytyNrKMDXcfWADyB9yR1Iwx)
-### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/newsscriptvol4.sh) 
+#### [Shell script άσκησης, asciinema](https://asciinema.org/a/CVytyNrKMDXcfWADyB9yR1Iwx)
+#### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/newsscriptvol4.sh) 
 
 ## Asciinema
-### [Asciinema βίντεο 3ου παραδοτέου](https://asciinema.org/a/dOpEtNRxkycIk1nNG9oY3Kmos)
+#### [Asciinema βίντεο 3ου παραδοτέου](https://asciinema.org/a/dOpEtNRxkycIk1nNG9oY3Kmos)
 
 ## Πηγές:
-### [curl](https://github.com/chubin/wttr.in)
-### [getnews.tech](https://github.com/chubin/awesome-console-services#News)
-### [NEWSAPI](https://newsapi.org/)
+#### [curl](https://github.com/chubin/wttr.in)
+#### [getnews.tech](https://github.com/chubin/awesome-console-services#News)
+#### [NEWSAPI](https://newsapi.org/)
 
 ## Συμμετοχικό περιεχόμενο 1Α - 4ο παραδοτέο
 Στο συμμετοχικό περιεχόμενο 1Α, επέλεξα να παραθέσω εικόνες και σύντομη περιγραφή δύο συσκευών εισόδου οι οποίες γνώρισαν μεγάλη απήχηση απο το καταναλωτικό κοινό, αλλά γνώρισαν και την άγνοια καθώς και απο δύο εικόνες, μια σε κανονικές διαστάσεις και μια σε 160px που ήταν και το ζητούμενο, τις οποίες παραθέτω στα παρακάτω links. Πρόκειται για το zune της Microsoft και Playstation Move, που κυκλοφόρησαν το 2006 και 2010 αντίστοιχα. Το PlayStation Move, είχε ως σκοπό να επιτρέψει στον παίκτη να παίζει συμβατά παιχνίδια μέσω χειρονομιών (gestures) αντί να χρησιμοποιεί το παραδοσιακό χειριστήριο. Χρησιμοποιούσε δυο ειδικά χειριστήρια και μια κάμερα, με τα οποία ο παίκτης μπορούσε να παίξει υποστηριζόμενα παιχνίδια, αλλά όχι να ελέγξει την κονσόλα είτε μέσω χειρονομιών όπως θα μπορούσε με το Xbox 360 Kinect για παράδειγμα διότι ο έλεγχος γίνοταν μέσω των κουμπιών που έφεραν τα χειριστήρια. Το zune, ήταν η προσπάθεια της Microsoft να εισχωρήσει στη μουσική βιομηχανία, προσφέροντας τόσο υλικό όσο και λογισμικό. Μπορούσε να συνδυαστεί με διάφορα άλλα προιόντα της Microsoft. Η κίνηση αυτή ήταν η απάντηση της εταιρίας στα αντίστοιχα προιόντα της Apple (iPod, Apple Music) που όμως η ιστορία δείχνει πως δεν ήταν επιτυχημένη, καθώς το 2012 όλα τα προιόντα zune αποσύρθηκαν απο την κυκλοφορία.
 ## Links: 
 
 ### Αρχεία .md:
-### [zune.md](https://github.com/p20sami/_gallery/blob/%CE%A02020023/zune.md)
-### [playstationmove.md](https://github.com/p20sami/_gallery/blob/%CE%A02020023/playstationmove.md)
+#### [zune.md](https://github.com/p20sami/_gallery/blob/%CE%A02020023/zune.md)
+#### [playstationmove.md](https://github.com/p20sami/_gallery/blob/%CE%A02020023/playstationmove.md)
 
 ### Εικόνες Playstation Move, zune σε κανονικό μέγεθος:
-### [Εικόνα Playstation Move σε κανονικό μέγεθος](https://github.com/p20sami/images/blob/%CE%A02020023/psmove.jpg)
-### [Εικόνα zune σε κανονικό μέγεθος](https://github.com/p20sami/images/blob/%CE%A02020023/zune.jpg)
+#### [Εικόνα Playstation Move σε κανονικό μέγεθος](https://github.com/p20sami/images/blob/%CE%A02020023/psmove.jpg)
+#### [Εικόνα zune σε κανονικό μέγεθος](https://github.com/p20sami/images/blob/%CE%A02020023/zune.jpg)
  
 ### Εικόνες Playstation Move, zune σε μέγεθος 160px:
-### [Εικόνα Playstation Move σε μέγεθος 160px](https://github.com/p20sami/images/blob/%CE%A02020023/psmovethumb.jpg)
-### [Εικόνα zune σε μέγεθος 160px](https://github.com/p20sami/images/blob/%CE%A02020023/zunethumb.jpg)
+#### [Εικόνα Playstation Move σε μέγεθος 160px](https://github.com/p20sami/images/blob/%CE%A02020023/psmovethumb.jpg)
+#### [Εικόνα zune σε μέγεθος 160px](https://github.com/p20sami/images/blob/%CE%A02020023/zunethumb.jpg)
 
 ## Πηγές:
-### [zune](https://en.wikipedia.org/wiki/Zune)
-### [Playstation Move](https://en.wikipedia.org/wiki/PlayStation_Move)
+#### [zune](https://en.wikipedia.org/wiki/Zune)
+#### [Playstation Move](https://en.wikipedia.org/wiki/PlayStation_Move)
  
 ## Άσκηση γραμμής εντολών - 5ο παραδοτέο
 Για την άσκηση αυτή, επέλεξα να υλοποιήσω την άσκηση με τίτλο "set-up the main dependencies and demonstrate your base system", η οποία ζητούσε να αλλάξουμε το όνομα χρήστη του command prompt με τον αριθμό μητρώου μας, να δείξουμε τα dot files μας, να δείξουμε πληροφορίες για το shell καθώς και πληροφορίες για το σύστημα (λογισμικό/υλικό). Είναι της λίστας warm up, καθώς μέχρι το σημείο αυτό πιστεύω πως πρέπει να εξοικειωθώ ακόμη περισσότερο με την γραμμή εντολών, πρωτού προχωρήσω σε δυσκολότερες ασκήσεις. Ξεκινώντας λοιπόν, αρχικά άλλαξα το όνομα χρήστη, με τον αριθμό μητρώου, με την εντολή hostnamectl set-hostname, μου με δύο τρόπους. Ο ένας απαιτούσε επανεκκίνηση του συστήματος για να γίνει η αλλαγή, ενώ ο δεύτερος δεν το απαιτούσε κάποια τέτοια ενέργεια, καθώς χρησιμοποίησα την εντολή bash --login. Βέβαια, με τον τρόπο αυτόν, κάθε φορά που προσπαθούσα να βιντεοσκοπήσω κάποιο άλλο κομμάτι της άσκησης με το asciinema, το command prompt άλλαζε στο όνομα χρήστη το οποίο υπήρχε πριν την αλλαγή. Παρακάτω παραθέτω τα βίντεο στο asciinema με τους τρόπους αλλαγής του ονόματος χρήστη, όπως επίσης παραθέτω βίντεο στο asciinema και κώδικα ενός shell script, με το οποίο ο χρήστης μπορεί να δει πληροφορίες λογισμικού και υλικού του υπολογιστή του :
 
 ### Χωρίς επανεκκίνηση
-### [Asciinema, αλλαγή command prompt με Α.Μ χωρίς επανεκκίνηση](https://asciinema.org/a/RTmmvbZ51XlisFlwbLARWsU9i)
+#### [Asciinema, αλλαγή command prompt με Α.Μ χωρίς επανεκκίνηση](https://asciinema.org/a/RTmmvbZ51XlisFlwbLARWsU9i)
 ### Με επανεκκίνηση
-### [Asciinema, αλλαγή command prompt με Α.Μ με επανεκκίνηση (διαδικασία αλλαγής hostname)](https://asciinema.org/a/tb705pPxraUSEgiBAJJINacaC)
+#### [Asciinema, αλλαγή command prompt με Α.Μ με επανεκκίνηση (διαδικασία αλλαγής hostname)](https://asciinema.org/a/tb705pPxraUSEgiBAJJINacaC)
 
-### [Asciinema, αλλαγή command prompt με Α.Μ με επανεκκίνηση (Αλλαγή hostname μετά την επανεκκίνηση)](https://asciinema.org/a/5JqepidvCh5bUruPOyXBh4Dpr)
+#### [Asciinema, αλλαγή command prompt με Α.Μ με επανεκκίνηση (Αλλαγή hostname μετά την επανεκκίνηση)](https://asciinema.org/a/5JqepidvCh5bUruPOyXBh4Dpr)
 
 Στη συνέχεια, με την εντολή ls -a εμφανίσθηκαν όλα τα dot αρχεία μου, ενώ με την εντολή ls -ld .?*, εμφανίσθηκαν και τα κρυμμένα dot αρχεία μου.
 
-### [Asciinema, όλα τα dot αρχεία και τα κρυμμένα dot αρχεία](https://asciinema.org/a/yx3de7qe7Z5tu9VGuaDj3cgqg)
+#### [Asciinema, όλα τα dot αρχεία και τα κρυμμένα dot αρχεία](https://asciinema.org/a/yx3de7qe7Z5tu9VGuaDj3cgqg)
  
 Μετά τα dot αρχεία, ζητήθηκε να προβάλλουμε πληροφορίες για το shell. Αυτό έγινε δυνατό μέσω της εντολής vim ~/.bashrc και χάρη στον text editor vim, ενώ πρόβαλλα επίσης και το αρχείο με τον προσωπικό χρήστη με την εντολή vim /etc/profile, όπως φαίνεται στο παρακάτω asciicast
  
-### [Asciinema, πληροφορίες shell και προσωπικού χρήστη](https://asciinema.org/a/4thxderlNVj98NSjvPCGSWJw9)
+#### [Asciinema, πληροφορίες shell και προσωπικού χρήστη](https://asciinema.org/a/4thxderlNVj98NSjvPCGSWJw9)
  
 Κλείνοντας, η άσκηση ζητούσε να δείξουμε πληροφορίες που αφορούν το σύστημα μας, απο πλευράς υλικού και λογισμικού. Αυτό έγινε δυνατό μέσα απο πληθώρα εντολών. Αρχικά χρησιμοποίησα την εντολή uname η οποία εμφάνισε το όνομα του λειτουργικού συνοδευόμενη απο τα flags -n (network hostname) -v (πληροφορίες kernel) -r (πληροφορίες έκδοσης kernel) -m (αρχιτεκτονική συστήματος) -a (εκτύπωση όλων των πληροφοριών μαζί). Χρησιμοποίησα επίσης τις εντολές lscpu (πληροφορίες σχετικά με τον επεξεργαστή) και lspci (πληροφορίες συνδεδεμένων pci συσκευών, όπως κάρτες γραφικών για παράδειγμα). Τέλος χρησιμοποίησα την εντολή neofetch, η οποία προβάλλει πληροφορίες σχετικά με το λογισμικό και το υλικό του συστήματος.
  
-### [Asciinema, πληροφορίες υλικού και λογισμικού](https://asciinema.org/a/p2Ol89F9KVwLXsCmHLt99UBl6)
+#### [Asciinema, πληροφορίες υλικού και λογισμικού](https://asciinema.org/a/p2Ol89F9KVwLXsCmHLt99UBl6)
  
-### Παρακάτω, παραθέτω τις πηγές τις οποίες χρησιμοποίησα:
+## Παρακάτω, παραθέτω τις πηγές τις οποίες χρησιμοποίησα:
  
-### [uname και flags, lspcu, lspci](https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/)
+#### [uname και flags, lspcu, lspci](https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/)
 
-### [Προβολή κρυμμένων και μή αρχείων dot](https://askubuntu.com/questions/468901/how-to-show-only-hidden-files-in-terminal)
+#### [Προβολή κρυμμένων και μή αρχείων dot](https://askubuntu.com/questions/468901/how-to-show-only-hidden-files-in-terminal)
  
-### [Αλλαγή ονόματος χρήστη](https://www.2daygeek.com/linux-change-set-hostname/)
+#### [Αλλαγή ονόματος χρήστη](https://www.2daygeek.com/linux-change-set-hostname/)
  
-### [Αλλαγή ονόματος χρήστη χωρίς επανεκκίνηση](https://www.gnu.org/software/bash/manual/html_node/Invoking-Bash.html)
+#### [Αλλαγή ονόματος χρήστη χωρίς επανεκκίνηση](https://www.gnu.org/software/bash/manual/html_node/Invoking-Bash.html)
  
-### [Πληροφορίες shell και προσωπικού χρήστη](https://askubuntu.com/questions/127056/where-is-bashrc)
+#### [Πληροφορίες shell και προσωπικού χρήστη](https://askubuntu.com/questions/127056/where-is-bashrc)
 
-### [neofetch](https://linuxhint.com/what-is-neofetch-for-linux/)
+#### [neofetch](https://linuxhint.com/what-is-neofetch-for-linux/)
 
 ## Shell script:
 
-### [Shell script άσκησης, asciinema](https://asciinema.org/a/WZbCpC2EiM459xOWS9bil1hUT)
+#### [Shell script άσκησης, asciinema](https://asciinema.org/a/WZbCpC2EiM459xOWS9bil1hUT)
 
-### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/specsscript.sh) 
+#### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/specsscript.sh) 
  
 ## Συμμετοχικό περιεχόμενο 2Α - 6ο παραδοτέο
 Για το συμμετοχικό περιεχόμενο 1Β, αποφάσισα να προσθέσω στις θεματικές διαφάνειες οι οποίες σχετίζονται με τα βιντεοπαιχνίδια. Κατέληξα στη συγκεκριμένη περιοχή,
-διότι ασχολούμαι με βιντεοπαιχνίδια απο μικρή ηλικία, οπότε με ενδιέφερε να αναπτύξω στο συγκεκριμένο θέμα. Οι θεματικές διαφάνειες παρέχονται στο παρακάτω link. Όσον αφορά το χρονολόγιο, αποφάσισα να προσθέσω στη κατηγορία των πολυμεσικών συστημάτων, διότι επίσης πρόκειται για μια θεματική που με ενδιαφέρει κυρίως απο άποψη μουσικής, και όπως και στις διαφάνειες το σχετικό link υπάρχει παρακάτω. 
+διότι ασχολούμαι με βιντεοπαιχνίδια απο μικρή ηλικία, οπότε με ενδιέφερε να αναπτύξω στο συγκεκριμένο θέμα. Οι θεματικές διαφάνειες παρέχονται στο παρακάτω link. Όσον αφορά το χρονολόγιο, αποφάσισα να προσθέσω στη κατηγορία των πολυμεσικών συστημάτων, διότι επίσης πρόκειται για μια θεματική που με ενδιαφέρει κυρίως απο άποψη μουσικής (δηλαδή ήχου), και όπως και στις διαφάνειες το σχετικό link υπάρχει παρακάτω. 
 
 ## Repository links:
 
-### [Διαφάνειες](https://github.com/p20sami/site/blob/%CE%A02020023/_slides/videogames.md)
+#### [Διαφάνειες](https://github.com/p20sami/site/blob/%CE%A02020023/_slides/videogames.md)
  
-### [Χρονολόγιο](https://github.com/p20sami/site/blob/%CE%A02020023/_timeline/multimedia.md)
+#### [Χρονολόγιο](https://github.com/p20sami/site/blob/%CE%A02020023/_timeline/multimedia.md)
  
 ## Άσκηση γραμμής εντολών - 7ο παραδοτέο
 Για την 7η άσκηση γραμμής εντολών, αφού εξοικειώθηκα σε έναν ικανοποιητικό βαθμό με τη γραμμή εντολών, επέλεξα να υλοποιήσω την άσκηση με τίτλο "organise the terminal window into multiple areas" η οποία μας ζητούσε σε ένα παράθυρο να έχουμε ανοιχτό ένα πρόγραμμα παρακολούθησης επιδόσεων του συστήματος και σε ένα άλλο, να επισκεφθούμε το διαδίκτυο ή να ψάξουμε και να τροποποιήσουμε τα αρχεία μας. Χρησιμοποιήσα στο ένα παράθυρο το glances, το οποίο αποτελεί ένα πρόγραμμα παρακολούθησης επιδόσεων γραμμένο σε Python, ενώ στο άλλο παράθυρο επισκέφθηκα τις ιστοσελίδες [nba.com](https://www.nba.com/) και [nfl.com](https://www.nfl.com/),ενώ με γνώμονα την διασύνδεση της παρούσης άσκησης με προηγούμενες ασκήσεις, αναζήτησα και επιχειρηματικά νέα. Όλα αυτά βέβαια, έγιναν δυνατά μέσω του tmux, λογισμικό το οποίο επιτρέπει τον χωρισμό του terminal σε παράθυρα. Χρησιμοποίησα την εντολή tmux, και αμέσως μετά την εντολή ctrl+b %, όπου χώρισε το τερματικό μου σε δύο οριζόντια παράθυρα. Με την εντολή ctrl+b o είχα την δυνατότητα να επισκέφθομαι εναλλάξ τα δύο παράθυρα αυτά, ενώ επέλεξα στο αριστερό παράθυρο να παρακολουθώ την επίδοση του συστήματος μου και στο δεξί να επισκεφθώ αρχικά τις δύο ιστοσελίδες που προανέφερα και έπειτα να βρώ επιχειρηματικά νέα. Για να μπορέσω βέβαια να επισκεφθώ τις ιστοσελίδες αυτές, χρησιμοποίησα τον text-based browser w3m. Παρακάτω παραθέτω βίντεο στο asciinema καθώς και τις πηγές μου, ενώ επίσης παραθέτω
 το σχετικό shell script της άσκησης, με το οποίο ο χρήστης δύναται να επιλέξει ανάμεσα στον χωρισμό του terminal του από 2 μέχρι 4 παράθυρα. Βέβαια, μετά την επιλογή μπορεί να προσθέσει όσα παράθυρα επιθυμεί με τη σχετική οδηγία που παρέχεται, ενώ στις οδηγίες περιέχεται και ο τρόπος μετακίνησης από παράθυρο σε παράθυρο
 
 ## Asciinema
-### [Asciinema βίντεο 7ου παραδοτέου](https://asciinema.org/a/ew1acNJVKEUaInp3sdnudyFpd)
+#### [Asciinema βίντεο 7ου παραδοτέου](https://asciinema.org/a/ew1acNJVKEUaInp3sdnudyFpd)
 
 ## Shell script:
 
-### [Shell script άσκησης, asciinema](https://asciinema.org/a/ncMUyRRTiLC7p0hzviNGv2FfI)
-### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/tmuxscript.sh)
+#### [Shell script άσκησης, asciinema](https://asciinema.org/a/ncMUyRRTiLC7p0hzviNGv2FfI)
+#### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/tmuxscript.sh)
 
 ## Πηγές:
-### [Tmux και εντολές του](https://linuxize.com/post/getting-started-with-tmux/)
-### [Glances](https://nicolargo.github.io/glances/)
-### [w3m](https://en.wikipedia.org/wiki/W3m)
+#### [Tmux και εντολές του](https://linuxize.com/post/getting-started-with-tmux/)
+#### [Glances](https://nicolargo.github.io/glances/)
+#### [w3m](https://en.wikipedia.org/wiki/W3m)
 
 ## Συμμετοχικό περιεχόμενο 1Β - 8ο παραδοτέο
-Για το πρώτο μέρος του Β συμμετοχικού περιεχομένου, αποφάσισα να μελετήσω την περίπτωση του Chiptuning. Η εν λόγω μέθοδος, συνδυάζει τα βιντεοπαιχνίδια και την μοσυική (άρα κατά συρροήν και πολυμεσικά συστήματα κυρίως μουσικής) με μοναδικό τρόπο. Δηλαδή, μέσα απο εξαρτήματα κονσολών και όχι μόνο παράγεται οκτάμοιτη μουσική που χρησιμοποιείται σε πολλές πτυχές ακόμη και σε βιντεοπαιχνίδια μέσω soundtracks. Παρακάτω, παραθέτω τα σχετικά αρχεία και τις πηγές μου.
+Για το πρώτο μέρος του Β συμμετοχικού περιεχομένου, αποφάσισα να μελετήσω την περίπτωση του Chiptuning. Η εν λόγω μέθοδος, συνδυάζει τα βιντεοπαιχνίδια και την μουσική (άρα κατά συρροήν και πολυμέσα, κυρίως μορφής ήχου, δηλαδή συνδυάζονται οι πολυμεσικές πτυχές ήχου και εικόνας με τα βιντεοπαιχνίδια) με μοναδικό τρόπο. Δηλαδή, μέσα απο εξαρτήματα κονσολών και άλλων πολυμεσικών συστημάτων, παράγεται οκτάμπιτη μουσική που χρησιμοποιείται σε πολλές πτυχές ακόμη και σε βιντεοπαιχνίδια μέσω soundtracks. Παρακάτω, παραθέτω τα σχετικά αρχεία και τις πηγές μου.
 
 ## Αρχεία .md
-### [chiptune.md](https://github.com/p20sami/site/blob/%CE%A02020023/_case-study/chiptune.md)
+#### [chiptune.md](https://github.com/p20sami/site/blob/%CE%A02020023/_case-study/chiptune.md)
  
-### [cs-chiptune.md](https://github.com/p20sami/extras/blob/%CE%A02020023/cs-chiptune.md) , Το κείμενο της μελέτης
+#### [cs-chiptune.md](https://github.com/p20sami/extras/blob/%CE%A02020023/cs-chiptune.md) , Το κείμενο της μελέτης
  
 ## Πηγές:
-### [Chiptune, Wikipedia](https://en.wikipedia.org/wiki/Chiptune)
+#### [Chiptune, Wikipedia](https://en.wikipedia.org/wiki/Chiptune)
 
  
 ## Άσκηση γραμμής εντολών - 9ο παραδοτέο
@@ -174,32 +174,32 @@ terminal. Χρειάστηκαν τα πακέτα youtube-dl, mpv αλλά λό
 κατεβάζουμε το τραγούδι που επιθυμούμε. Στη συνέχεια, με την εντολή mpv filename όπου filename το όνομα αρχείου του τραγουδιού, αναπαράγεται το τραγούδι. Κάτι το οποίο πρέπει να προσέξουμε, είναι οτι στο filename πρέπει να προσθέτουμε πλαγιοκαθέτους. Στη περίπτωση μου, το αρχείο τραγουδιού ονομάζοταν Dying in Your Arms-pLQUug4UOQ2k.mp3, οπότε για την αναπαραγωγή του η μορφή του ήταν Dying\ in\ Your\ Arms-pLQUug4UOQ2k.mp3. Παρακάτω, υπάρχει το βίντεο στο asciinema καθώς και οι πηγές.
  
 ## Asciinema
-### [Asciinema βίντεο 9ου παραδοτέου](https://asciinema.org/a/gS5d96gBsVQc1oQ4MAXRcQWhj)
+#### [Asciinema βίντεο 9ου παραδοτέου](https://asciinema.org/a/gS5d96gBsVQc1oQ4MAXRcQWhj)
  
 ## Πηγές:
 
-### [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+#### [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 
-### [mpv](https://github.com/mpv-player/mpv)
+#### [mpv](https://github.com/mpv-player/mpv)
 
-### [asoundconf](https://archlinux.org/packages/community/any/asoundconf/)
+#### [asoundconf](https://archlinux.org/packages/community/any/asoundconf/)
 
 
  
 ## Συμμετοχικό περιεχόμενο 2Β - 10ο παραδοτέο
 Για το τελευταίο συμμετοχικό περιεχόμενο, αποφάσισα να δημιουργήσω την βιογραφία ενός ανθρώπου, χάρη στον οποίο σήμερα μπορούμε να απολαμβάνουμε τον ήχο στη ποιότητα την οποία
-θεωρούμε σήμερα δεδομένη, είτε αυτή είναι μουσική, είτε βιντεοπαιχνίδια είτε ταινίες. Δεν είναι άλλος, από τον Karlheinz Brandenburg. Παρακάτω, παραθέτω τα links της βιογραφίας
+θεωρούμε σήμερα δεδομένη, είτε αυτή είναι μουσική, είτε βιντεοπαιχνίδια, είτε ταινίες. Δεν είναι άλλος, από τον Karlheinz Brandenburg. Παρακάτω, παραθέτω τα links της βιογραφίας
 που συνέθεσα καθώς και τις πηγές μου.
 
 ## Αρχεία .md
-### [Βιογραφία του Karlheinz Brandenburg](https://github.com/p20sami/site/blob/%CE%A02020023/_biography/karlheinz-brandenburg.md)
+#### [Βιογραφία του Karlheinz Brandenburg](https://github.com/p20sami/site/blob/%CE%A02020023/_biography/karlheinz-brandenburg.md)
  
-### [Βιογραφία του Karlheinz Brandenburg, ολόκληρη](https://github.com/p20sami/extras/blob/%CE%A02020023/bio-brandenburg.md)
+#### [Βιογραφία του Karlheinz Brandenburg, ολόκληρη](https://github.com/p20sami/extras/blob/%CE%A02020023/bio-brandenburg.md)
  
 ## Πηγές:
 
-### [Karlheinz Brandenburg-Wikipedia](https://en.wikipedia.org/wiki/Karlheinz_Brandenburg)
-### [An interview with the father of mp3](http://www.internethistorypodcast.com/2015/07/on-the-20th-birthday-of-the-mp3-an-interview-with-the-father-of-the-mp3-karlheinz-brandenburg/)
+#### [Karlheinz Brandenburg-Wikipedia](https://en.wikipedia.org/wiki/Karlheinz_Brandenburg)
+#### [An interview with the father of mp3](http://www.internethistorypodcast.com/2015/07/on-the-20th-birthday-of-the-mp3-an-interview-with-the-father-of-the-mp3-karlheinz-brandenburg/)
  
 ## Άσκηση γραμμής εντολών - 11ο παραδοτέο
 Για την τελευταία άσκηση γραμμής εντολών, αποφάσισα να εκτελέσω την άσκηση με τίτλο "try different text-based web browsers and get used to the keyboard shortcuts for one". Χρησιμοποίησα τους text-based browsers w3m, links και lynx, ενώ έπρεπε να δοκιμάσουμε και κάποια shortcuts για έναν browser. Έτσι, αποφάσισα να δοκιμάσω κάποια shortcuts για τον browser w3m. Αυτά είναι: 
@@ -209,25 +209,25 @@ terminal. Χρειάστηκαν τα πακέτα youtube-dl, mpv αλλά λό
 - gg: Μεταφορά στην αρχή της σελίδας
 
 Παραθέτω και το αντίστοιχο βίντεο στο asciinema:
-### [Asciinema, w3m+shortcuts](https://asciinema.org/a/8ktFGcZz7ChjC9eZonbZqTnYU)
+#### [Asciinema, w3m+shortcuts](https://asciinema.org/a/8ktFGcZz7ChjC9eZonbZqTnYU)
  
 Έπειτα δοκίμασα να επισκεφθώ την ιστοσελίδα [meteo.gr](https://www.meteo.gr/) και με τους τρείς διαφορετικούς browsers. Χρησιμοποίησα κάποια shortcuts του w3m και εδώ, όμως παρατηρείται μια καθυστέρηση με τη χρήση του lynx, καθώς πρέπει χειροκίνητα να αποδεχτούμε τα cookies.
 Το αντίστοιχο βίντεο:
-### [Asciinema, w3m+lynx+links](https://asciinema.org/a/80JzNiHCX68HcgrQQYFumY4Tr)
+#### [Asciinema, w3m+lynx+links](https://asciinema.org/a/80JzNiHCX68HcgrQQYFumY4Tr)
  
 Τέλος, δημιούργησα ένα shell script το οποίο ζητάει από τον χρήστη το link της ιστοσελίδας που επιθυμεί να επισκεφθεί, και του δίνει την επιλογή να χρησιμοποιήσει έναν απο τους τρείς αυτούς browsers. Παρακάτω βρίσκεται το βίντεο και ο κώδικας του script.
 
 ## Shell script:
 
-### [Shell script άσκησης, asciinema](https://asciinema.org/a/EobjnVZgi8yCG5GZMjxIbTPlD)
-### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/browserscript.sh)
+#### [Shell script άσκησης, asciinema](https://asciinema.org/a/EobjnVZgi8yCG5GZMjxIbTPlD)
+#### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/browserscript.sh)
 
 ## Πηγές:
 
-### [w3m shortcuts](https://cheatsheetfactory.geekyhacker.com/linux/w3m)
-### [w3m](http://w3m.sourceforge.net/)
-### [lynx](https://lynx.browser.org/)
-### [links](http://links.twibright.com/)
+#### [w3m shortcuts](https://cheatsheetfactory.geekyhacker.com/linux/w3m)
+#### [w3m](http://w3m.sourceforge.net/)
+#### [lynx](https://lynx.browser.org/)
+#### [links](http://links.twibright.com/)
 
 ## Σύνοψη και αίτημα ενσωμάτωσης - 12ο παραδοτέο
 -
