@@ -83,13 +83,18 @@
 - [What does "task mysqld:xxx blocked for more than 120 seconds" mean?](https://unix.stackexchange.com/questions/181505/what-does-task-mysqldxxx-blocked-for-more-than-120-seconds-mean)</br>
 
 # 4ο Παραδοτέο - Συμμετοχικό περιεχόμενο: Α1
-Σαν χόμπι έχω τα video games και για αυτό ήθελα να βρω κάτι σε αυτή την ενότητα. Η πρώτη εικόνα που βρήκα είναι η πρώτη κονσόλα για video games που δημιουργήθηκε το 1972 με όνομα Magnavox Odyssey!<br />
+Σαν χόμπι έχω τα video games και για αυτό ήθελα να βρω κάτι σε αυτή την ενότητα. Η πρώτη εικόνα που βρήκα είναι η πρώτη κονσόλα για video games που δημιουργήθηκε το 1972 με όνομα Magnavox Odyssey!
 
-https://github.com/mariosconsta/_gallery/blob/master/First-generation-of-video-game-consoles.md<br />
+https://github.com/mariosconsta/_gallery/blob/master/First-generation-of-video-game-consoles.md
 
-Η δεύτερη εικόνα είναι το Xbox adaptive controller της Microsoft το οποίο είναι ένα εξαιρετικό εργαλείο για άτομα με ειδικές ανάγκες που θέλουν να παίξουν παιχνίδια.<br />
+Η δεύτερη εικόνα είναι το Xbox adaptive controller της Microsoft το οποίο είναι ένα εξαιρετικό εργαλείο για άτομα με ειδικές ανάγκες που θέλουν να παίξουν παιχνίδια.
 
 https://github.com/mariosconsta/_gallery/blob/master/Xbox-Adaptive-Controller.md
+
+| Θέμα | Εικόνα | Πληροφορίες |
+| ----------- | ----------- | ----- |
+| Atari Pong | [Εικόνα](https://github.com/mariosconsta/images/blob/master/TeleGames-Atari-Pong.jpg) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/TeleGames-Atari-Pong_thubmnail.jpg) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/atari-pong.md)
+| Xbox adaptive controller | [Εικόνα](https://github.com/mariosconsta/images/blob/master/Xbox_Adaptive_Controller.jpeg) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/Xbox_Adaptive_Controller_thumbnail.jpeg) | [MD Αρχείο](λμαο)
 
 # 5ο Παραδοτέο -
 
