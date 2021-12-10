@@ -51,14 +51,14 @@ Link Asciinema:
 
 # Συμμετοχικό Περιεχόμενο 1Α
 
-### SMARTWATCH:
+### WII:
 
 Link Images: 
-- https://github.com/p16foti/images/blob/2016046/smartwatch.jpg
-- https://github.com/p16foti/images/blob/2016046/smartwatch-thumb.jpg
+- https://github.com/p16foti/images/blob/2016046/wii.png
+- https://github.com/p16foti/images/blob/2016046/wii-thumb.png
 
 Link Gallery:
-- https://github.com/p16foti/_gallery/blob/2016046/smartwatch.md
+- https://github.com/p16foti/_gallery/blob/2016046/wii.md
 
 ### PLAYSTATION:
 
