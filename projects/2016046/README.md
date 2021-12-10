@@ -105,6 +105,7 @@ Link Asciinema:
 
 # Συμμετοχικό Περιεχόμενο 1Β:
 
-
+Link Case Study:
+- 
 
 
