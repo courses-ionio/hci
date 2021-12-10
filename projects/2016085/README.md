@@ -56,11 +56,11 @@ Link της άσκησης στο Asciinema: [Παραδοτέο 3 / Warm - Up /
 | Περιγραφή | Repository Link |
 | --- | --- |
 | Gallery Nintendo 64 | [nintendo-64.md](https://github.com/dejuresavv/_gallery/blob/2016085/nintendo-64.md)|
+| Gallery Sony Playstation | [sony-playstation.md](https://github.com/dejuresavv/_gallery/blob/2016085/sony-playstation.md)|
+| Sony Playstation Images | [Full Size](https://github.com/dejuresavv/images/blob/2016085/sony-playstation.jpg) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/sony-playstation-thumbnail.jpg) |
 | Nintendo Images | [Full Size](https://github.com/dejuresavv/images/blob/2016085/nintendo64.png) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/nintendo64-thumb.jpg) |
-| Apple Watch | [apple-watch.md](https://github.com/dejuresavv/_gallery/blob/2016085/apple-watch.md) |
-| Apple Watch Images | [Full Image](https://github.com/dejuresavv/images/blob/2016085/apple-watch.jpg) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/apple-watch-thumb.jpg) |
-| Videogame Slides | [nintendo64 slides](https://github.com/dejuresavv/site/blob/2016085/_slides/videogames.md)
-| Timeline | [nintendo64 timeline](https://github.com/dejuresavv/site/blob/2016085/_timeline/videogames.md)
+| Videogame Slides | [nintendo64 and sony-playstation slides](https://github.com/dejuresavv/site/blob/2016085/_slides/videogames.md)
+| Timeline | [nintendo64 and sony-playstation timeline](https://github.com/dejuresavv/site/blob/2016085/_timeline/videogames.md)
 
 
 # Άσκηση Warm Up - Become Productive with a To-Do List
