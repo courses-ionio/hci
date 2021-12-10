@@ -78,13 +78,13 @@ Link Asciinema:
 
 # Συμμετοχικό Περιεχόμενο 2Α
 
-### SMARTWATCH:
+### WII:
 
 Link Slides:
-- https://github.com/p16foti/site/blob/2016046/_slides/tools.md
+- https://github.com/p16foti/site/blob/2016046/_slides/videogames.md
 
 Link Timelines:
-- https://github.com/p16foti/site/blob/2016046/_timeline/computer.md
+- https://github.com/p16foti/site/blob/2016046/_timeline/videogames.md
 
 ### PLAYSTATION:
 
