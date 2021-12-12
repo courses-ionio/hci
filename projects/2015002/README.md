@@ -93,8 +93,8 @@
 
 | Θέμα | Εικόνα | Πληροφορίες |
 | ----------- | ----------- | ----- |
-| Atari Pong | [Εικόνα](https://github.com/mariosconsta/images/blob/master/TeleGames-Atari-Pong.jpg) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/TeleGames-Atari-Pong_thubmnail.jpg) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/atari-pong.md)
-| Xbox adaptive controller | [Εικόνα](https://github.com/mariosconsta/images/blob/master/Xbox_Adaptive_Controller.jpeg) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/Xbox_Adaptive_Controller_thumbnail.jpeg) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/adaptive-xbox-controller.md)
+| Atari Home Pong | [Εικόνα](https://github.com/mariosconsta/images/blob/master/atari-home-pong.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/atari-home-pong-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/atari-pong.md)
+| Xbox adaptive controller | [Εικόνα](https://github.com/mariosconsta/images/blob/master/xbox-adaptive-controller.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/xbox-adaptive-controller-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/adaptive-xbox-controller.md)
 
 # 5ο Παραδοτέο - Try a different Shell
 Για το 5ο παραδοτέο αποφάσισα να δοκιμάσω το Shell ZSH. Η διαδικασία εγκατάστασης είναι αρκετά εύκολη και το wiki τα εξηγεί όλα αναλυτικά. Μπορώ να πω πως μου άρεσε αρκετά το zsh και το customizability του. Μπορεί ο κάθε χρήστης να το φτιάξει στα δικά του μέτρα με μία πληθώρα από themes και plugins.
@@ -121,6 +121,17 @@
 
 
 # 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο 2A
+
+<p> Η τεχνολογία υπάρχει για να λύνει προβλήματα της ανθρωπότητας και να επιτρέπει στην εξέλιξη της. Ένα από τα προβλήματα που προσπαθεί να λύσει είναι το πρόβλημα της προσβασιμότητας. Το interaction που έχει ένα υπολογιστικό σύστημα διαφέρει από άνθρωπο σε άνθρωπο για διάφορους λόγους.</p>
+
+<p>Μερικοί λόγοι είναι, γλωσσολογικές προκλήσεις. Ένα πρόγραμμα μπορεί να μην είναι γραμμένο σε γλώσσα που να καταλαβαίνει ο χρήστης. Παράλληλα άνθρωποι με αναπηρίες δεν μπορούν να χρησιμοποιήσουν τις παραδοσιακές μεθόδους αλληλεπίδρασης που υπάρχουν όπως πληκτρολόγιο, ποντίκι, ηχεία κλπ. Για τους λόγους αυτούς και πολλούς άλλους δημιουργούνται εργαλεία που να επιτρέπουν στον κάθε χρήστη να αλληλοεπιδρά με τον υπολογιστή με πάνω από ένα ή δύο τρόπους. </p>
+
+<p>Η παρακάτω εικόνες είναι τεχνολογίες που αναπτύχθηκαν με την πάροδο του χρόνου με σκοπό να δώσουν πάνω από ένα τρόπο διάδρασης και αλληλεπίδρασης μεταξύ υπολογιστή και ανθρώπου.</p>
+
+| Θέμα |         Αρχείο | Είδος | Netlify Link |
+| -------------| -------| ------| -------------|
+|Προσβασιμότητα|[link](https://github.com/mariosconsta/site/blob/master/_slides/accessibility.md)| Slide | [link](https://p2015002.netlify.app//slides/accessibility/) |
+|    Χ         | [link]()                                                                        | Timeline | [link]() |
 
 # 7ο Παραδοτέο - Download mp3
 
