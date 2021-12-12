@@ -93,7 +93,7 @@
 
 | Θέμα | Εικόνα | Πληροφορίες |
 | ----------- | ----------- | ----- |
-| Atari Home Pong | [Εικόνα](https://github.com/mariosconsta/images/blob/master/atari-home-pong.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/atari-home-pong-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/atari-pong.md)
+| Atari Home Pong | [Εικόνα](https://github.com/mariosconsta/images/blob/master/atari-home-pong.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/atari-home-pong-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/atari-home-pong.md)
 | Xbox adaptive controller | [Εικόνα](https://github.com/mariosconsta/images/blob/master/xbox-adaptive-controller.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/xbox-adaptive-controller-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/adaptive-xbox-controller.md)
 
 # 5ο Παραδοτέο - Try a different Shell
