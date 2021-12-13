@@ -2,9 +2,15 @@
 ---
 
 ### Ονοματεπώνυμο: Μάριος Κωνσταντίνου
+
 ### Αριθμός Μητρώου: Π2015002
+
 ### GitHub Profile: [mariosconsta] - https://github.com/mariosconsta
+
+### Netlify - [p2015002](https://p2015002.netlify.app/)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/93ebd915-a3fd-4b02-a8ed-2c5c92b11e92/deploy-status)](https://app.netlify.com/sites/p2015002/deploys)
+
 ---
 
 ## Πίνακας με σύνοψη των παραδοτέων
@@ -42,6 +48,8 @@
 
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
+---
+
 # 2ο Παραδοτέο - Εγκατάσταση Arch Linux σε USB
 Αρχικά έκανα μία μικρή έρευνα για τον πιο χρήσιμο τρόπο εγκατάστασης Arch Linux. USB ή Dual Boot; Κατέληξα σε USB για να μπορώ να έχω το λειτουργικό σύστημα μαζί μου σε όποια συσκευή είμαι. Στην συνέχεια ήθελα να δω την προτεινόμενη χωρητικότητα του USB η οποία δεν ήταν μεγάλη, στο τέλος αποφάσισα να πάρω ένα USB των 64GB για να είμαι άνετος και να μπορώ να πειραματιστώ εύκολα χωρίς να σκέφτομαι αν έχω αρκετό χώρο.
 
@@ -60,8 +68,7 @@
 - [useradd: invalid username username$](https://www.linuxquestions.org/questions/fedora-35/useradd-invalid-username-username%24-255871/)</br>
 - [Arch Linux iso](http://ftp.cc.uoc.gr/mirrors/linux/archlinux/iso/2021.11.01/)</br>
 
-
-
+---
 
 # 3ο Παραδοτέο - Set-up the main dependencies and demonstrate your base system
 Όπως ανάφερα παραπάνω, η εγκατάσταση ολοκληρώθηκε με επιτυχία. Αυτό **δεν** ίσχυε τελικά. Με την επανεκκίνηση του Arch παρατήρησα πολλά errors, system freezes και γενικά πάρα πολύ αργό boot time. Μου πήρε μέρες έντονης αναζήτησης για το κάθε error που μου έβγαζε(ήταν πολλά) το shell και παράλληλα χρειάστηκε να κάνω install τα Arch αρκετές φορές διότι το σύστημα δεν ήταν responsive με αποτέλεσμα να μην μπορώ ούτε boot να κάνω.
@@ -84,6 +91,8 @@
 - [Server hung with "blocked for more than 120 seconds", diskless](https://serverfault.com/questions/456980/server-hung-with-blocked-for-more-than-120-seconds-diskless)</br>
 - [What does "task mysqld:xxx blocked for more than 120 seconds" mean?](https://unix.stackexchange.com/questions/181505/what-does-task-mysqldxxx-blocked-for-more-than-120-seconds-mean)</br>
 
+---
+
 # 4ο Παραδοτέο - Συμμετοχικό περιεχόμενο: Α1
 Από μικρός πάντα μου άρεσαν τα βίντεο παιχνίδια. Ήταν ένας τρόπος να ξεφύγεις και να βιώσεις εμπειρίες που θα ήταν αδύνατον να βιώσεις στην πραγματικότητα. Αυτό σε πολλά άτομα δίνει μία ελευθερία και ένα τρόπο να ξεφύγουν από τα προβλήματα και την ρουτίνα της καθημερινότητας.
 
@@ -91,10 +100,12 @@
 
 #### Θεωρώ πως το gaming πρέπει να είναι προσβάσιμο σε όλους.
 
-| Θέμα | Εικόνα | Πληροφορίες |
-| ----------- | ----------- | ----- |
-| Atari Home Pong | [Εικόνα](https://github.com/mariosconsta/images/blob/master/atari-home-pong.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/atari-home-pong-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/atari-home-pong.md)
-| Xbox adaptive controller | [Εικόνα](https://github.com/mariosconsta/images/blob/master/xbox-adaptive-controller.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/xbox-adaptive-controller-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/adaptive-xbox-controller.md)
+| Θέμα | Εικόνα | Πληροφορίες | Netlify |
+| ----------- | ----------- | ----- | ----- |
+| Atari Home Pong | [Εικόνα](https://github.com/mariosconsta/images/blob/master/atari-home-pong.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/atari-home-pong-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/atari-home-pong.md) | [link](https://p2015002.netlify.app/gallery/atari-home-pong/) |
+| Xbox adaptive controller | [Εικόνα](https://github.com/mariosconsta/images/blob/master/xbox-adaptive-controller.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/xbox-adaptive-controller-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/adaptive-xbox-controller.md) | [link](https://p2015002.netlify.app/gallery/adaptive-xbox-controller/) |
+
+---
 
 # 5ο Παραδοτέο - Try a different Shell
 Για το 5ο παραδοτέο αποφάσισα να δοκιμάσω το Shell ZSH. Η διαδικασία εγκατάστασης είναι αρκετά εύκολη και το wiki τα εξηγεί όλα αναλυτικά. Μπορώ να πω πως μου άρεσε αρκετά το zsh και το customizability του. Μπορεί ο κάθε χρήστης να το φτιάξει στα δικά του μέτρα με μία πληθώρα από themes και plugins.
@@ -119,6 +130,7 @@
 - [ohmyzsh Arch Linux plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/archlinux)
 - [ohmyzsh plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins)
 
+---
 
 # 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο 2A
 
@@ -132,6 +144,8 @@
 | -------------| -------| ------| -------------|
 |Προσβασιμότητα|[link](https://github.com/mariosconsta/site/blob/master/_slides/accessibility.md)| Slide | [link](https://p2015002.netlify.app//slides/accessibility/) |
 |    Χ         | [link]()                                                                        | Timeline | [link]() |
+
+---
 
 # 7ο Παραδοτέο - Download mp3
 
