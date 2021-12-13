@@ -59,8 +59,8 @@ Link της άσκησης στο Asciinema: [Παραδοτέο 3 / Warm - Up /
 | Gallery Sony Playstation | [sony-playstation.md](https://github.com/dejuresavv/_gallery/blob/2016085/sony-playstation.md)|
 | Sony Playstation Images | [Full Size](https://github.com/dejuresavv/images/blob/2016085/sony-playstation.jpg) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/sony-playstation-thumbnail.jpg) |
 | Playstation VR Images | [Full Size](https://github.com/dejuresavv/images/blob/2016085/playstation-vr.jpg) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/playstation-vr-thumbnail.png) |
-| Videogame Slides | [nintendo64 and sony-playstation slides](https://github.com/dejuresavv/site/blob/2016085/_slides/videogames.md)
-| Timeline | [nintendo64 and sony-playstation timeline](https://github.com/dejuresavv/site/blob/2016085/_timeline/videogames.md)
+| Videogame Slides | [playstation-vr and sony-playstation slides](https://github.com/dejuresavv/site/blob/2016085/_slides/videogames.md)
+| Timeline | [playstation-vr and sony-playstation timeline](https://github.com/dejuresavv/site/blob/2016085/_timeline/videogames.md)
 
 
 # Άσκηση Warm Up - Become Productive with a To-Do List
