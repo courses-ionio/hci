@@ -74,6 +74,7 @@
   
 **Link αποθετηρίων gallery:** https://github.com/AlexandrosV20/_gallery/blob/master/5chordeskeyset.md
   
+  https://github.com/AlexandrosV20/_gallery/blob/master/atari2600Joystick.md
   
   
 **Πηγές :** https://dougengelbart.org/content/view/273/
@@ -108,16 +109,17 @@
   
   
   
- **Link αποθετηρίων slides :** https://github.com/AlexandrosV20/site/blob/master/_slides/videogames_new.md
+ **Link αποθετηρίων slides :** https://github.com/AlexandrosV20/site/blob/master/_slides/archetypes.md
   
-  https://github.com/AlexandrosV20/site/blob/master/_slides/input-devices.md
+  https://github.com/AlexandrosV20/site/blob/master/_slides/videogames.md
+  
   
   
  **Link αποθετηρίων timeline :** https://github.com/AlexandrosV20/site/blob/master/_timeline/input-devices.md
   
-  https://github.com/AlexandrosV20/site/blob/master/_timeline/videogames.md
-
+  https://github.com/AlexandrosV20/site/blob/master/_timeline/keyboard.md
   
+
   
   
  
