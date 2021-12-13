@@ -55,10 +55,10 @@ Link της άσκησης στο Asciinema: [Παραδοτέο 3 / Warm - Up /
 
 | Περιγραφή | Repository Link |
 | --- | --- |
-| Gallery Nintendo 64 | [nintendo-64.md](https://github.com/dejuresavv/_gallery/blob/2016085/nintendo-64.md)|
+| Gallery Playstation VR | [playstation-vr.md](https://github.com/dejuresavv/_gallery/blob/2016085/playstation-vr.md)|
 | Gallery Sony Playstation | [sony-playstation.md](https://github.com/dejuresavv/_gallery/blob/2016085/sony-playstation.md)|
 | Sony Playstation Images | [Full Size](https://github.com/dejuresavv/images/blob/2016085/sony-playstation.jpg) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/sony-playstation-thumbnail.jpg) |
-| Nintendo Images | [Full Size](https://github.com/dejuresavv/images/blob/2016085/nintendo64.png) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/nintendo64-thumb.jpg) |
+| Playstation VR Images | [Full Size](https://github.com/dejuresavv/images/blob/2016085/playstation-vr.jpg) + [Thumbnail](https://github.com/dejuresavv/images/blob/2016085/playstation-vr-thumbnail.png) |
 | Videogame Slides | [nintendo64 and sony-playstation slides](https://github.com/dejuresavv/site/blob/2016085/_slides/videogames.md)
 | Timeline | [nintendo64 and sony-playstation timeline](https://github.com/dejuresavv/site/blob/2016085/_timeline/videogames.md)
 
