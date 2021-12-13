@@ -105,7 +105,10 @@ Link Asciinema:
 
 # Συμμετοχικό Περιεχόμενο 1Β:
 
-Link Case Study:
-- 
+Case Study about Natural Interaction in Videogames:
+
+Link:
+- https://github.com/p16foti/site/blob/2016046/_case-study/natural_interaction_videogames.md
+- https://github.com/p16foti/site/blob/2016046/_case-study/cs-natural_interaction_videogames.md
 
 
