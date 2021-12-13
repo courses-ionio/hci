@@ -104,3 +104,12 @@
 [extras for Teco](https://github.com/giannisbarlas1/extras/blob/master/Teco.md)
 ##### images
 [images for Teco](https://github.com/giannisbarlas1/images/blob/master/teco%20thumb.png)
+
+
+## Παραδοτεο 9
+
+### tmux install and run with window split search for files and display the performance
+
+<a href="https://asciinema.org/a/455906" target="_blank"><img src="https://asciinema.org/a/455906.svg" /></a>
+
+
