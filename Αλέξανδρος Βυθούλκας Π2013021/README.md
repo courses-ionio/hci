@@ -140,7 +140,7 @@
   
    ## Παραδοτέο 9 : Συμμετοχικό περιεχόμενο Β1
   
-   **Link αποθετήριου μελέτης περίπτωσης :**
+   **Link αποθετήριου μελέτης περίπτωσης :** https://github.com/AlexandrosV20/site/blob/master/_case-study/sri.md
   
   **Πηγές:** https://www.sri.com/about-us/
   
