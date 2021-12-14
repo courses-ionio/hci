@@ -104,7 +104,7 @@
 
 | Θέμα | Εικόνα | Πληροφορίες | Netlify |
 | ----------- | ----------- | ----- | ----- |
-| Atari Home Pong | [Εικόνα](https://github.com/mariosconsta/images/blob/master/atari-home-pong.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/atari-home-pong-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/atari-home-pong.md) | [link](https://p2015002.netlify.app/gallery/atari-home-pong/) |
+| Atari Home Pong | [Εικόνα](https://github.com/mariosconsta/images/blob/master/atari-home.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/atari-home-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/atari-home.md) | [link](https://p2015002.netlify.app//gallery/atari-home/) |
 | Xbox adaptive controller | [Εικόνα](https://github.com/mariosconsta/images/blob/master/xbox-adaptive-controller.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/xbox-adaptive-controller-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/adaptive-xbox-controller.md) | [link](https://p2015002.netlify.app/gallery/adaptive-xbox-controller/) |
 
 ---
