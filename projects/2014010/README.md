@@ -99,4 +99,4 @@
 
 
 
-[Shell Configuration Asciinema](https://asciinema.org/a/u2vFxcd9gm5eq2EnRiq7zXn9G)
+[Shell Configuration Asciinema](https://asciinema.org/a/lzBNvf4t5qPgXHWoFUYoGTzWt)
