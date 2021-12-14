@@ -162,8 +162,11 @@ SHELL SCRIPTING / Pipelining
 
 #### EDIT LATER:
 
-<p>Duplicate pong entries in videogame timeline </br>
-FIX: Add .jpg and .png to the appropriate images so the system can tell them apart.</p>
+<p>
+Duplicate pong entries in videogame timeline </br>
+FIX: Add .jpg and .png to the appropriate images so the system can tell them apart.
+MODIFY SLIDES IN PROSVASIMOTITA TO BE MORE RELEVANT
+</p>
 
 ---
 
