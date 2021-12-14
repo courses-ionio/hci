@@ -147,6 +147,12 @@
 |Προσβασιμότητα|[link](https://github.com/mariosconsta/site/blob/master/_slides/accessibility.md)| Slide | [link](https://p2015002.netlify.app//slides/accessibility/) |
 |Video Games| [link](https://github.com/mariosconsta/site/blob/master/_timeline/videogames.md)| Timeline | [link](https://p2015002.netlify.app//timeline/videogames/) |
 
+
+#### EDIT LATER:
+
+<p>Duplicate pong entries in videogame timeline </br>
+FIX: Add .jpg and .png to the appropriate images so the system can tell them apart.</p>
+
 ---
 
 # 7ο Παραδοτέο - Download mp3
