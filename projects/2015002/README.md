@@ -145,7 +145,7 @@
 | Θέμα |         Αρχείο | Είδος | Netlify Link |
 | -------------| -------| ------| -------------|
 |Προσβασιμότητα|[link](https://github.com/mariosconsta/site/blob/master/_slides/accessibility.md)| Slide | [link](https://p2015002.netlify.app//slides/accessibility/) |
-|    Χ         | [link]()                                                                        | Timeline | [link]() |
+|Video Games| [link](https://github.com/mariosconsta/site/blob/master/_timeline/videogames.md)| Timeline | [link](https://p2015002.netlify.app//timeline/videogames/) |
 
 ---
 
