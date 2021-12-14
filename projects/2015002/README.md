@@ -13,6 +13,18 @@
 
 ---
 
+# TODO:
+DIKI MOU ANAGKI GIA TO MATHIMA (ISAGOGI)
+
+PROKLISIS KAI EMPODIA se kathe deliverable
+
+A1:
+Caption why was it important, ti afise? Apotimoma
+add more tags/categories
+
+SHELL SCRIPTING / Pipelining
+
+
 ## Πίνακας με σύνοψη των παραδοτέων
 
 | Εβδομάδα* | Παραδοτέο |
