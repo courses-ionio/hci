@@ -126,5 +126,15 @@
 και έπειτα εγκατέστησα το mpv το οποίο αναπαράγει τραγούδια από το τερματικό και έτσι έπαιξα το τραγούδι που κατέβασα προηγουμένος
 #### Asciinema link: https://asciinema.org/a/448899
 <a href="https://asciinema.org/a/448899" target="_blank"><img src="https://asciinema.org/a/448899.svg" /></a>
+<br />
+
+# 10ο Παραδοτέο - Συμμετοχικό περιεχόμενο 2Β
+
+Στο 10ο παραδοτέο το οποίο ηταν το συμμετοχικό περιεχόμενο 2Β έφτιαξα μία καινούργια βιογραφία η οποία αφορά τον Nolan Bushnell. Παρακάτω παραθέτω τα ανάλογα link του αποθετηρίου μου, αλλά και του netlify.
+
+| Περιγραφή | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Biography | [Βιογραφία του Nolan Bushnell](https://github.com/p19ntar/site/blob/master/_biography/nolan-bushnell.md) | [Βιογραφία του Nolan Bushnell](https://2019215.netlify.app//biography/nolan-bushnell/)
+<br />
 
 
