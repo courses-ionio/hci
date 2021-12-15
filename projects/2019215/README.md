@@ -4,6 +4,7 @@
 ### Αριθμός Μητρώου: Π2019215
 ### GitHub Profile: [p19ntar](https://github.com/p19ntar)
 ### Netlify Site: [2019215.netlify.app](https://2019215.netlify.app/) 
+### Site Repository [p19ntar/Site](https://github.com/p19ntar/site.git)
 <br />
 
 ## Πίνακας παραδοτέων
