@@ -15,9 +15,9 @@
 | 5 | [CLI: Weather Report](#5ο-Παραδοτέο---Command-Line-Interface---Weather-Report) |
 | 6 | [Συμμετοχικό 2Α](#6ο-Παραδοτέο---Συμμετοχικό-Περιέχομενο---Διαφάνειες-/-Χρονολόγιο) |
 | 7 | [CLI: TMUX](#7ο-Παραδοτέο---Command-Line-Interface---TMUX) |
-| 8 | συμμετοχικό περιεχόμενο 1B $ |
-| 9 | Άσκηση γραμμής εντολών $ |
-| 10 | συμμετοχικό περιεχόμενο 2B $ |
+| 8 | [Συμμετοχικό 1Β](8ο Παραδοτέο---Συμμετοχικό Περιεχόμενο---Μελέτη-Περίπτωσης) |
+| 9 | [CLI: Youtube Downloader](9ο-Παραδοτέο---Command-Line-Interface---Youtube-Downloader) |
+| 10 | [Συμμετοχικό 2Β](10ο-Παραδοτέο---Συμμετοχικό Περιεχόμενο---Βιογραφία) |
 | 11 | Άσκηση γραμμής εντολών $ |
 | 12 | [Κλείσιμο](#Κλείσιμο) |
 
@@ -33,12 +33,18 @@
 Στην συνέχεια, όσο προχωράει το υλικό του μαθήματος, καθώς και το επίπεδο με το οποίο ο χρήστης νιώθει άνετα με το σύστημά του, μπορούν να αρχίζουν σιγά σιγά να εισέρχονται και άλλες έννοιες, όπως ιστορική αναδρομή, εναλλακτικοί μεθόδοι διεπαφών, τρόποι διδασκαλίας και εκμάθησης, και άλλα. Αυτά προέρχονται κυρίως από τις συζητήσεις στις συναντήσεις του μαθήματος, από το υλικό το οποίο μας είναι διαθέσιμο για έρευνα όπως προχωράει το μάθημα (μέσα από τα κουίζ, αλλά και μέσα από τις πηγές και πληροφορίες που υπάρχουν στην ιστοσελίδα του βιβλίου, την οποία και ασχολούμαστε μέσω των ασκήσεων συμμετοχικού περιεχομένου), καθώς και από μεταγενέστερη δικιά μας έρευνα. Το ιδανικό είναι αυτές οι πηγές να επηρεάζουν τον τρόπο με τον οποίο ανταποκρινόμαστε στις ασκήσεις, αλλά και οι θεμελιώδεις γνώσεις που εξάγουμε μέσω αυτών να επηρεάζουν και αυτές με την σειρά τους το πως αντιλαμβανόμαστε και ερμηνεύουμε τις πηγές, επιτυγχάνοντας έτσι μια ολοκληρωμένη αλληλεπίδραση.
 
 
+
 # Σύνοψη
 Στο επίπεδο των ασκήσεων που ζητήθηκαν και των παραδοτέων που βρίσκονται στον πίνακα, οι λεπτομέρειες είναι οι εξής:
+
 Στα παραδοτέα 1 με 6, βρίσκονται τα βασικά προαπαιτούμενα και εισαγωγικά, για παράδειγμα η παρουσίαση της εγκατάστασης των Arch, τα boot logs, κλπ. Οι εργασίες γραμμής εντολών εντάσσονται στην κατηγορία των ασκήσεων warmup, με τις περισσότερες από αυτές να είναι βασικά εργαλεία με σκοπό να μας κάνουν να εξοικειωθούμε με το περιβάλλον unix (αν και σε αρκετές από αυτές έγιναν προσθήκη scripts, όπου θεωρούσα πως είχαν να προσφέρουν κάποια ενίσχυση ή να κάνουν πιο αποτελεσματική την χρήση του εργαλείου).
+
 Στα παραδοτέα 7 με 12, οι υπόλοιπες 3 ασκήσεις γραμμής εντολών (της κατηγορίας hci) είχαν να κάνουν με πιο εφαρμοσμένα και κοντά στο αντικείμενο παραδείγματα, τα οποία όμως προαπαιτούν αρκετές γνώσεις που πάρθηκαν από τις προηγούμενες ασκήσεις και παραδοτέα.
+
 Οι ασκήσεις συμμετοχικού περιεχομένου πραγματεύτηκαν κυρίως προσθήκες καταχωρήσεων στην ιστοσελίδα του βιβλίου του μαθήματος, οι οποίες όμως είχαν πολλά να προσφέρουν όσο αναφορά πηγές και υλικό για διάβασμα, με την μορφή εικόνων, χρονολογίων και βιογραφικών.
+
 Όσο αναφορά την δομή, το κάθε παραδοτέο έχει μια μικρή περίληψη, ως κυρίως μέρος μια παρουσίαση ή του αποτελέσματος ή την χρήση του εργαλείου (Συνήθως με μορφή GΙF, εκτός και αν δεν ήταν απαιραίτητο οπότε με την προσθήκη μιας απλής εικόνας), και τέλος το υλικό το οποίο βοήθησε με το παραδοτέο (οδηγοί, documentation, εντολές, πηγές). Επιπλέον, γενικότερες πηγές που υπήρξαν αλλά δεν εντάσσονται συγκεκριμένα σε κάποιο παραδοτέο αλλά ήταν περισσότερο γενικής φύσεως, έχουν αναφερθεί με τον ίδιο τρόπο, αλλά στο τέλος της εργασίας, μετά τον επίλογο.
+
 
 
 # 2ο Παραδοτέο - Command Line Interface - Linux Basics
@@ -64,12 +70,12 @@
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/bash.gif" width="500" />
 </p>
-Bash Config: `cat /etc/bash.bashrc`
+Bash Config `cat /etc/bash.bashrc`
 
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/makepkg.gif" width="500" />
 </p>
-MakePKG Config: `cat /etc/makepkg.conf`
+MakePKG Config `cat /etc/makepkg.conf`
 
 ### 4) Προβολή Boot Logs
 Τα Arch έχουν το systemd ως system manager, το οποίο χρησιμοποιεί ένα ενοποιημένο εργαλείο για logging, το `journalctl`. Παρ' όλα αυτά, με τα κατάλληλα flags, μπορούμε να ανακαλέσουμε τα logs μόνο για το συγκεκριμένο boot session. Επειδή το αρχείο εξόδου ήταν αρκετά μεγάλο, το πέρασα μέσω ενός pipe σε ένα [αρχείο txt](https://github.com/Tarakhs/HCISupp/blob/master/Various/log.txt).
@@ -81,38 +87,36 @@ MakePKG Config: `cat /etc/makepkg.conf`
 ### 5) List Software / Hardware Specs
 Για την προβολή των χαρακτηριστικών του συστήματος, χρησιμοποιήθηκαν διάφορα εργαλεία, είτε αυτά ήταν εντολές unix ή ξεχωριστά βοηθητικά πακέτα, όπως για παράδειγμα το **neofetch**.
 
-<p float="left">
+<p float="center">
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/disk.png" width="400" />
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/ram.png" width="400" />
 </p>
-Disk Stats: `df -h`
-RAM Stats: `vmstat`
+Disk Stats `df -h`, RAM Stats `vmstat`
 
-<p float="left">
-  <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/cpu.png" width="600" />
-  <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/network.png" width="600" />
+<p float="center">
+  <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/cpu.png" width="500" />
+  <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/network.png" width="500" />
 </p>
-CPU Stats: `htop`
-Network Stats: `bmon`
+CPU Stats `htop`, Network Stats `bmon`
 
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/lshw.gif" width="500" />
 </p>
-Hardware List: `lshw -short`
+Hardware List `lshw -short`
 
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/neofetch.gif" width="500" />
 </p>
-Short Info: `neofetch`
+Short Info `neofetch`
 
 ### 6) Terminal Customization
 Κάνοντας uncomment κάποιες γραμμές και αλλάζοντας τις τιμές τους στο config file του Alacritty, η διαφορά είναι αισθητή. Συγκεκριμένα, έκανα το window που δημιουργείται να εμφανίζεται στο κέντρο της οθόνης, άλλαξα το default font, χαμήλωσα το opacity για να κάνω το παράθυρο διάφανο, και άλλαξα τα default keybinds για τις εντολές Copy / Paste έτσι ώστε να λειτουργούν με Ctrl+C/V αντί για Ctrl+Shift+C/V.
 Η διαφορά φαίνεται όταν το συγκρίνουμε με την όψη του Alacritty, όταν χρησιμοποιεί το default config:
-<p float="left">
+<p float="center">
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/stock.png" width="500" />
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/custom.png" width="500" />
 </p>
-Terminal Config : `cat ~/.config/alacritty/alacritty.yml`
+Terminal Config `cat ~/.config/alacritty/alacritty.yml`
 
 
 #### Εντολές / Εργαλεία / Πηγές
@@ -127,6 +131,7 @@ sudo | ls | cat | lshw | df | htop | vmstat
 [How to customize the Bash prompt in Linux](https://phoenixnap.com/kb/change-bash-prompt-linux) |
 [Changing Bash Prompt](https://bash.cyberciti.biz/guide/Changing_bash_prompt) |
 [A complete guide to Linux Config Files](https://www.cbtnuggets.com/blog/technology/system-admin/a-complete-guide-to-linux-config-files)
+
 
 
 # 3ο Παραδοτέο - Command Line Interface - ToDo List
@@ -152,6 +157,7 @@ sudo | ls | cat | lshw | df | htop | vmstat
 [todo.txt-cli](https://github.com/todotxt/todo.txt-cli)
 
 
+
 # 4ο Παραδοτέο - Συμμετοχικό Περιέχομενο - Εικόνες
 
 Σε αυτό το παραδοτέο ζητήθηκε η προσθήκη κάποιων εικόνων στο online διαδραστικό βιβλίο του μαθήματος. Έπρεπε να γίνει fork του repository του site, να γίνουν οι κατάλληλες προσθήκες στα submodules που βρίσκονται οι απαραίτητες εικόνες / λεζάντες καθώς και παραμετροποιήσεις του config file. Στην συνέχεια, έγινε host της ιστοσελίδας στο Netlify. Επέλεξα να κάνω προσθήκες πάνω σε 2 καταχωρήσεις, τις οποίες μπορείτε να δείτε παρακάτω:
@@ -165,6 +171,7 @@ sudo | ls | cat | lshw | df | htop | vmstat
 Εικόνες:
 
 Εικόνα 1 [Full](https://github.com/p19pana/images/blob/master/ascii-art.jpg) / [Thumb](https://github.com/p19pana/images/blob/master/ascii-art-thumb.jpg)
+
 Εικόνα 2 [Full](https://github.com/p19pana/images/blob/master/msn.jpg) / [Thumb](https://github.com/p19pana/images/blob/master/msn-thumb.jpg)
 
 
@@ -172,6 +179,7 @@ sudo | ls | cat | lshw | df | htop | vmstat
 
 [netlify](https://app.netlify.com) |
 [gimp](https://www.gimp.org/)
+
 
 
 # 5ο Παραδοτέο - Command Line Interface - Weather Report
@@ -206,9 +214,10 @@ echo | read | tr
 [wttr.in](https://github.com/chubin/wttr.in) |
 [wttr-switcher](https://github.com/midzer/wttr-switcher) |
 [curl](https://curl.se/) |
-[wget](https://www.gnu.org/software/wget/) |
+[wget](https://www.gnu.org/software/wget/)
 
 [wttr Help](https://wttr.in/:help)
+
 
 
 # 6ο Παραδοτέο - Συμμετοχικό Περιέχομενο - Διαφάνειες / Χρονολόγιο
@@ -221,12 +230,95 @@ Slideshow: [Τρόποι Διάδρασης](https://p19pana-pibook.netlify.app/
 
 Markdown Αρχεία:
 
-[Τρόποι Διάδρασης](https://github.com/p19pana/site/blob/master/_slides/styles.md) | [Έξυπνες Διεπαφές Χρήστη](https://github.com/p19pana/site/blob/master/_slides/iui.md) | [Πολυμεσικά Συστήματα](https://github.com/p19pana/site/blob/master/_timeline/multimedia.md) | [Τερματικό](https://github.com/p19pana/site/blob/master/_timeline/terminal.md)
+[Τρόποι Διάδρασης](https://github.com/p19pana/site/blob/master/_slides/styles.md) | [Έξυπνες Διεπαφές Χρήστη](https://github.com/p19pana/site/blob/master/_slides/iui.md)
+
+[Πολυμεσικά Συστήματα](https://github.com/p19pana/site/blob/master/_timeline/multimedia.md) | [Τερματικό](https://github.com/p19pana/site/blob/master/_timeline/terminal.md)
+
 
 
 # 7ο Παραδοτέο - Command Line Interface - TMUX
 
+Το TMUX είναι ένα εργαλείο Terminal Multiplexing, το οποίο δίνει την δυνατότητα να χωρίσουμε ένα terminal window σε πολλαπλές περιοχές. Έτσι, δίνεται η δυνατότητα να τρέχουν διαφορετικές διεργασίες σε μια οθόνη, το οποίο μπορεί να έχει πολλαπλά προτερήματα, όπως σε περιπτώσεις ευχρηστίας (π.χ. να έχουμε μια πηγή στο ένα μέρος της οθόνης και το κείμενο που γράφουμε στο άλλο), σε multitasking, ή ακόμη και εάν θέλουμε να τρέξουμε πολλαπλά terminals πάνω στο ίδιο shell. Είναι ένα εργαλείο το οποίο σίγουρα μπορεί να αυξήσει την παραγωγικότητα σε διάφορους τομείς χρήσης του τερματικού, ακόμα και σε απαιτητικές ενασχολήσεις.
+
+Για αρχή, μετά την εγκατάσταση άνοιξα ένα καινούργιο session και ξεκίνησα με τα βασικά, δημιουργώντας 2 pane αριστερά - δεξιά στον χώρο του terminal και βλέποντας το παρόν αρχείο στο ένα pane και ένα monitoring tool στο άλλο.
+
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/tmux.gif" width="1000" />
+</p>
+
+Σε γενικές γραμμές, το tmux αποδείχθηκε πιο απλό στην χρήση από ότι μου φάνηκε εξ' αρχής (όσο αναφορά τα pane splits, attachment - detachment, window switching), όμως η αλήθεια είναι πως τα shortcuts του μου φάνηκαν λίγο υπερβολικά και τις περισσότερες φορές κατέληγα να ξεχνάω τα ανάλογα keybinds για να το χρησιμοποιήσω σωστά. Ευτυχώς, οι εντολές για αλλαγή των keybinds ήταν αρκετά απλές και με λίγες αλλαγές στο config file του κατάφερα να το προσαρμόσω έτσι ώστε να είναι πιο βολικό προς την προσωπική μου χρήση. Χρησιμοποιώντας τα κουμπιά Shift για τα windows, alt για τα panes, σε συνδυασμό με τα arrow keys το navigation έγινε αρκετά πιο εύκολο και η όλη χρήση του προγράμματος έγινε πιο γρήγορη. Στο configuration υπήρχε και η επιλογή για mouse support, ωστόσω μου φάνηκε αντίθετη στην όλη νοοτροπία του multiplexing (και των linux), καθώς και στην ταχύτητα των keyboard controls, οπότε δεν την χρησιμοποίησα.
+
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/binds.png" width="400" />
+</p>
+
+Το TMUX μου φάνηκε ως ένα από τα πιο "χοντροκομμένα" εργαλεία με τα οποία ασχολήθηκα στα πλαίσια του μαθήματος, όμως και με αρκετό περιθώριο για παραμετροποίηση. Μπορούν να τραβηχτούν αρκετές παράλληλες μεταξύ του tmux και των tiling window managers (τα οποία πολλοί χρησιμοποιούν για τα προτερήματα που αναφέρθηκαν παραπάνω), τόσο και στην λειτουργία, όσο και στον τρόπο δομής / παραμετροποίησης μέσω config file. Τα περισσότερα commands ήταν λίγο περίπλοκα και ήθελαν ψάξιμο στο documentation για να κατανοηθεί η σωστή χρήση τους, και γενικότερα ο τρόπος που τρέχει το όλο πρόγραμμα ήταν πολύ as-is, για παράδειγμα πρέπει να γίνεται χειροκίνητα ο τερματισμός κάθε διεργασίας και δεν γίνεται αυτόμετα μετά από το detachment από το session. Παρ' όλα αυτά, μετά από αρκετή χρήση, όπου και ο βαθμός εξοικείωσής μου με το πρόγραμμα είχε αυξηθεί λιγάκι, σε συνδυασμό με ένα εξατομικευμένο config file, βρέθηκα να το χρησιμοποιώ αρκετά καθώς η δυνατότητα χωρίσματος σε panes προσέφερε μεγάλη άνεση για τις περισσότερες εργασίες που χρησιμοποιούσα το σύστημά μου.
+
+<p align="center">
+    <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/tmuxconf.gif" width="1000" />
+</p>
+
+Ολόκληρο το config είναι διαθέσιμο [εδώ](https://github.com/Tarakhs/HCISupp/tree/master/Various/.tmux.conf), όπου μαζί με την αλλαγή των keybinds έγιναν και κάποιες μικροαλλαγές (γραφικά, indexing, κλπ).
+
+
 #### Εντολές / Εργαλεία / Πηγές
+
+[tmux](https://github.com/tmux/tmux)
+
+[TMUX - Arch Wiki](https://wiki.archlinux.org/title/tmux) |
+[Getting Started with TMUX](https://linuxize.com/post/getting-started-with-tmux/) |
+[Everything you need to know about TMUX](https://arcolinux.com/everthing-you-need-to-know-about-tmux-configuration/) |
+[TMUX Cheat Sheet](https://tmuxcheatsheet.com/) |
+[How do I understand the TMUX Design Architecture and Internals?](https://www.quora.com/How-do-I-understand-the-tmux-design-architecture-and-internals)
+
+
+
+# 8ο Παραδοτέο - Συμμετοχικό Περιεχόμενο - Μελέτη Περίπτωσης
+
+Σε αυτό το παραδοτέο έγινε προσθήκη ενός case study στην ιστοσελίδα του βιβλίου. Επέλεξα το θέμα του Τερματικού.
+
+Case Study: [Terminal](https://p19pana-pibook.netlify.app//case-study/terminal/)
+
+Markdown Αρχεία: [Content](https://github.com/p19pana/extras/blob/master/cs-terminal.md) | [Extra](https://github.com/p19pana/site/blob/master/_case-study/terminal.md)
+
+#### Πηγές
+
+[What is a Computer Terminal?](https://www.wise-geek.com/what-is-a-computer-terminal.htm) |
+[The DEC VT100 Terminal](http://www.columbia.edu/cu/computinghistory/vt100.html) |
+[A Brief History of Terminal Emulation](https://www.ttwin.com/blog/270-history-terminal-emulation) |
+[VT100 Terminal Emulator](https://www.vandyke.com/products/securecrt/terminal_emulation_vt100.html) |
+[Why are they called "Terminal Emulators" instead of just "Terminals"?](https://superuser.com/questions/96628/why-are-things-like-gnome-terminal-called-terminal-emulators-instead-of-just)
+
+[Serial Terminals: New and Old](https://www.youtube.com/watch?v=nU9xCiMIr68) |
+[DEC VT100 Connects to World's First Website](https://www.youtube.com/watch?v=6zBvYs5Zej0)
+
+
+
+# 9ο Παραδοτέο - Command Line Interface - Youtube Downloader
+
+#### Εντολές / Εργαλεία / Πηγές
+
+
+
+# 10ο Παραδοτέο - Συμμετοχικό Περιεχόμενο - Βιογραφία
+
+Η τελευταία άσκηση συμμετοχικού περιεχομένου ήταν η προσθήκη μιας βιογραφίας στο site του βιβλίου.
+
+Biography: [Dennis Ritchie](https://p19pana-pibook.netlify.app//biography/dennis-ritchie/)
+
+Markdown Αρχεία: [Content](https://github.com/p19pana/extras/blob/master/bio-ritchie.md) | [Extra](https://github.com/p19pana/site/blob/master/_biography/dennis-ritchie.md)
+
+#### Πηγές
+
+[Dennis M. Ritchie - Biography & Facts](https://www.britannica.com/biography/Dennis-M-Ritchie) |
+[DRM - Home Page](https://www.bell-labs.com/usr/dmr/www/) |
+[The Father of the C Programming Language](https://www.unixmen.com/dennis-m-ritchie-father-c-programming-language/) |
+[Discovering Dennis Ritchie's Lost Dissertation](https://spectrum.ieee.org/discovering-computer-legend-dennis-ritchies-lost-dissertation) |
+[The Idea Factory](https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797) |
+[The C Programming Language](http://my.mycuhk.net/sem2booklist.doc) |
+[The Unix Time-Sharing System](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1978.tb02136.x) |
+[AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) |
+[Pushing the limits of Technology](https://www.youtube.com/watch?v=g3jOJfrOknA)
 
 
 # Κλείσιμο
