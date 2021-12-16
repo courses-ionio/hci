@@ -111,7 +111,10 @@ Link Case Study:
 - https://github.com/p16foti/site/blob/2016046/_case-study/natural_interaction_videogames.md
 - https://github.com/p16foti/site/blob/2016046/_case-study/cs-natural_interaction_videogames.md
 
-# Άσκηση Γραμμής Εντολών - HCI
+# Άσκηση Γραμμής Εντολών - HCI - Organise The Terminal Window Into Multiple Areas
+
+Link Asciinema:
+
 
 
 
