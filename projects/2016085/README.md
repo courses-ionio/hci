@@ -15,7 +15,7 @@
 | 4 - 6 | [Συμμετοχικό Περιεχόμενο Α1 - A2](#συμμετοχικό-περιεχόμενο-α1-και-α2)
 | 5 | [Warm-Up / Become Productive With a To-Do List](#άσκηση-warm-up---become-productive-with-a-to-do-list) 
 | 7 | [Search, Download and Play a YouTube Video](#άσκηση-γραμμής-εντολών---εβδομάδα-2---search-download-and-play-a-youtube-video)
-| 8 | συμμετοχικό περιεχόμενο 1B |
+| 8 | [Συμμετοχικό Περιεχόμενο 1B](#συμμετοχικό-περιεχόμενο-1β)
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο 2B |
 | 11 | Άσκηση γραμμής εντολών |
@@ -119,4 +119,11 @@ Link της άσκησης στο Asciinema: [Παραδοτέο 2 - Search Down
 Με την εντολή "youtube-dl -x [URL]" μπορούμε να κατεβάσουμε το video σε μορφή .m4a (για αυτο το γεγονός ευθύνεται η εντολή -x) και στο URL εισάγουμε το YouTube link του video 
 που θέλουμε να κατεβάσουμε. Σε συνδυασμό με το ytfzf, το οποίο μας εμφανίζει το YouTube link του video που αναπαράγουμε, μπορούμε να κάνουμε copy-paste το URL απευθείας στην 
 εντολή "youtube-dl -x [URL]".
+
+# Συμμετοχικό Περιεχόμενο 1Β
+
+|Περιγραφή| Repository Link |
+|---| --- |
+|Μελέτη Περίπτωσης| [Η εκπαιδευτική διαδικασία μέσω της διάδρασης με VR](https://github.com/dejuresavv/site/blob/2016085/_case-study/cs-education_via_vr_interaction.md) + [education_via_vr_interaction.md](https://github.com/dejuresavv/site/blob/2016085/_case-study/education_via_vr_interaction.md)|
+
 
