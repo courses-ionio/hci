@@ -15,9 +15,9 @@
 | 5 | [CLI: Weather Report](#5ο-Παραδοτέο---Command-Line-Interface---Weather-Report) |
 | 6 | [Συμμετοχικό 2Α](#6ο-Παραδοτέο---Συμμετοχικό-Περιέχομενο---Διαφάνειες-/-Χρονολόγιο) |
 | 7 | [CLI: TMUX](#7ο-Παραδοτέο---Command-Line-Interface---TMUX) |
-| 8 | [Συμμετοχικό 1Β](#8ο Παραδοτέο---Συμμετοχικό Περιεχόμενο---Μελέτη-Περίπτωσης) |
+| 8 | [Συμμετοχικό 1Β](#8ο Παραδοτέο---Συμμετοχικό-Περιεχόμενο---Μελέτη-Περίπτωσης) |
 | 9 | [CLI: Youtube Downloader](#9ο-Παραδοτέο---Command-Line-Interface---Youtube-Downloader) |
-| 10 | [Συμμετοχικό 2Β](#10ο-Παραδοτέο---Συμμετοχικό Περιεχόμενο---Βιογραφία) |
+| 10 | [Συμμετοχικό 2Β](#10ο-Παραδοτέο---Συμμετοχικό-Περιεχόμενο---Βιογραφία) |
 | 11 | Άσκηση γραμμής εντολών $ |
 | 12 | [Κλείσιμο](#Κλείσιμο) |
 
@@ -94,14 +94,14 @@ MakePKG Config: `cat /etc/makepkg.conf`
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/ram.png" width="400" />
 </p>
 
-Disk Stats: `df -h` RAM Stats: `vmstat`
+Disk Stats: `df -h`  RAM Stats: `vmstat`
 
 <p float="center">
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/cpu.png" width="500" />
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/network.png" width="500" />
 </p>
 
-CPU Stats: `htop` Network Stats: `bmon`
+CPU Stats: `htop`  Network Stats: `bmon`
 
 
 <p align="center">
