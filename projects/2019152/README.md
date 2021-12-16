@@ -15,9 +15,9 @@
 | 5 | [CLI: Weather Report](#5ο-Παραδοτέο---Command-Line-Interface---Weather-Report) |
 | 6 | [Συμμετοχικό 2Α](#6ο-Παραδοτέο---Συμμετοχικό-Περιέχομενο---Διαφάνειες-/-Χρονολόγιο) |
 | 7 | [CLI: TMUX](#7ο-Παραδοτέο---Command-Line-Interface---TMUX) |
-| 8 | [Συμμετοχικό 1Β](8ο Παραδοτέο---Συμμετοχικό Περιεχόμενο---Μελέτη-Περίπτωσης) |
-| 9 | [CLI: Youtube Downloader](9ο-Παραδοτέο---Command-Line-Interface---Youtube-Downloader) |
-| 10 | [Συμμετοχικό 2Β](10ο-Παραδοτέο---Συμμετοχικό Περιεχόμενο---Βιογραφία) |
+| 8 | [Συμμετοχικό 1Β](#8ο Παραδοτέο---Συμμετοχικό Περιεχόμενο---Μελέτη-Περίπτωσης) |
+| 9 | [CLI: Youtube Downloader](#9ο-Παραδοτέο---Command-Line-Interface---Youtube-Downloader) |
+| 10 | [Συμμετοχικό 2Β](#10ο-Παραδοτέο---Συμμετοχικό Περιεχόμενο---Βιογραφία) |
 | 11 | Άσκηση γραμμής εντολών $ |
 | 12 | [Κλείσιμο](#Κλείσιμο) |
 
@@ -70,12 +70,14 @@
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/bash.gif" width="500" />
 </p>
-Bash Config `cat /etc/bash.bashrc`
+
+Bash Config: `cat /etc/bash.bashrc`
 
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/makepkg.gif" width="500" />
 </p>
-MakePKG Config `cat /etc/makepkg.conf`
+
+MakePKG Config: `cat /etc/makepkg.conf`
 
 ### 4) Προβολή Boot Logs
 Τα Arch έχουν το systemd ως system manager, το οποίο χρησιμοποιεί ένα ενοποιημένο εργαλείο για logging, το `journalctl`. Παρ' όλα αυτά, με τα κατάλληλα flags, μπορούμε να ανακαλέσουμε τα logs μόνο για το συγκεκριμένο boot session. Επειδή το αρχείο εξόδου ήταν αρκετά μεγάλο, το πέρασα μέσω ενός pipe σε ένα [αρχείο txt](https://github.com/Tarakhs/HCISupp/blob/master/Various/log.txt).
@@ -91,23 +93,28 @@ MakePKG Config `cat /etc/makepkg.conf`
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/disk.png" width="400" />
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/ram.png" width="400" />
 </p>
-Disk Stats `df -h`, RAM Stats `vmstat`
+
+Disk Stats: `df -h` RAM Stats: `vmstat`
 
 <p float="center">
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/cpu.png" width="500" />
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/network.png" width="500" />
 </p>
-CPU Stats `htop`, Network Stats `bmon`
+
+CPU Stats: `htop` Network Stats: `bmon`
+
 
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/lshw.gif" width="500" />
 </p>
-Hardware List `lshw -short`
+
+Hardware List: `lshw -short`
 
 <p align="center">
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/neofetch.gif" width="500" />
 </p>
-Short Info `neofetch`
+
+Short Info: `neofetch`
 
 ### 6) Terminal Customization
 Κάνοντας uncomment κάποιες γραμμές και αλλάζοντας τις τιμές τους στο config file του Alacritty, η διαφορά είναι αισθητή. Συγκεκριμένα, έκανα το window που δημιουργείται να εμφανίζεται στο κέντρο της οθόνης, άλλαξα το default font, χαμήλωσα το opacity για να κάνω το παράθυρο διάφανο, και άλλαξα τα default keybinds για τις εντολές Copy / Paste έτσι ώστε να λειτουργούν με Ctrl+C/V αντί για Ctrl+Shift+C/V.
@@ -116,7 +123,8 @@ Short Info `neofetch`
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/stock.png" width="500" />
   <img src="https://github.com/Tarakhs/HCISupp/blob/master/Images/custom.png" width="500" />
 </p>
-Terminal Config `cat ~/.config/alacritty/alacritty.yml`
+
+Terminal Config: `cat ~/.config/alacritty/alacritty.yml`
 
 
 #### Εντολές / Εργαλεία / Πηγές
@@ -313,12 +321,16 @@ Markdown Αρχεία: [Content](https://github.com/p19pana/extras/blob/master/b
 [Dennis M. Ritchie - Biography & Facts](https://www.britannica.com/biography/Dennis-M-Ritchie) |
 [DRM - Home Page](https://www.bell-labs.com/usr/dmr/www/) |
 [The Father of the C Programming Language](https://www.unixmen.com/dennis-m-ritchie-father-c-programming-language/) |
-[Discovering Dennis Ritchie's Lost Dissertation](https://spectrum.ieee.org/discovering-computer-legend-dennis-ritchies-lost-dissertation) |
+[Discovering Dennis Ritchie's Lost Dissertation](https://spectrum.ieee.org/discovering-computer-legend-dennis-ritchies-lost-dissertation)
+
+
 [The Idea Factory](https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797) |
 [The C Programming Language](http://my.mycuhk.net/sem2booklist.doc) |
-[The Unix Time-Sharing System](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1978.tb02136.x) |
+[The Unix Time-Sharing System](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1978.tb02136.x)
+
+
 [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0) |
-[Pushing the limits of Technology](https://www.youtube.com/watch?v=g3jOJfrOknA)
+[Pushing the Limits of Technology](https://www.youtube.com/watch?v=g3jOJfrOknA)
 
 
 # Κλείσιμο
