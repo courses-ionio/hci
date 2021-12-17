@@ -7,7 +7,7 @@
 
 ##### Χρησιμοποίησα το neofetch για να δείξω το software και hardware.
 
-##### link: https://asciinema.org/a/2QOMmqPqOXWcoD7qITIFbstHp
+##### link: https://asciinema.org/a/456780
 
 
 ### Εργασία (warm up): Try a different shell
