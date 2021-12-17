@@ -33,9 +33,9 @@
 
 ### Εργασία (hci): Edit the vim or the shell configuration file
 
-#### Χρησιμοποίησα το nano ώστε να κάνω edit ένα configuration file
+#### Χρησιμοποίησα το vim ώστε να δημιουργήσω ένα αρχείο με περιεχόμενο τα προσωπικά μου στοιχεία (ονοματεπώνυμο, ΑΜ).
 
-##### link: https://asciinema.org/a/Nkuj7MQBQ2ZvIPKZ6rMeqZcrw
+##### link: https://asciinema.org/a/456792
 
 ## Συμμετοχικό υλικό
 ### Α1
