@@ -44,7 +44,7 @@
 
 <p>Αλλαγμένα αρχεία: </p>
 
-<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/NeWS-thumb.jpg">images(thumpnail)</a> & <a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/NeWS.jpg">images(κανονική)</a></p>
+<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/NeWS-thumb.jpg">images(thumbnail)</a> & <a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/NeWS.jpg">images(κανονική)</a></p>
 
 <p><a href="https://github.com/DimitrisGrigoropoulosP2016099/_gallery/blob/2016099/NeWS.md">gallery</a></p>
 
@@ -52,7 +52,7 @@
 
 <p>Αλλαγμένα αρχεία: </p>
 
-<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/Quantel_Paintbox-thumb.jpg">images(thumpnail)</a> & <a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/Quantel_Paintbox.jpg">images(κανονική)</a></p>
+<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/Quantel_Paintbox-thumb.jpg">images(thumbnail)</a> & <a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/2016099/Quantel_Paintbox.jpg">images(κανονική)</a></p>
 
 <p><a href="https://github.com/DimitrisGrigoropoulosP2016099/_gallery/blob/2016099/Quantel-Paintbox.md">gallery</a></p>
 
@@ -120,4 +120,18 @@ Wikimedia Foundation. (2021, November 24). Project athena. Wikipedia. Retrieved 
 
 <a href="https://asciinema.org/a/454679" target="_blank"><img src="https://asciinema.org/a/454679.svg" /></a>
 
+<h2>συμμετοχικό περιεχόμενο 2B</h2>
 
+<a href="https://mystifying-newton-3844bc.netlify.app/biography/michael-dertouzos/">site</a>
+
+<h3>αρχεια</h3>
+
+<p><a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/3416297ad7073d52fafc27a626b2e9558785c935/MichaelDertouzos-thumb.jpg">image</a>,<a href="https://github.com/DimitrisGrigoropoulosP2016099/images/blob/3416297ad7073d52fafc27a626b2e9558785c935/MichaelDertouzos.jpg">thumbnail</a>,<a href="https://github.com/DimitrisGrigoropoulosP2016099/site/blob/2016099/_biography/bio-dertouzos.md">bio-dertouzos.md</a>,<a href="https://github.com/DimitrisGrigoropoulosP2016099/site/blob/2016099/_biography/michael-dertouzos.md">michael-dertouzos.md</a></p>
+
+<h3>sources</h3>
+
+Wikimedia Foundation. (2021, October 23). Michael Dertouzos. Wikipedia. Retrieved December 18, 2021, from https://en.wikipedia.org/wiki/Michael_Dertouzos 
+
+MIT professor Michael L. Dertouzos dies at 64; it pioneer who made technology accessible. MIT News | Massachusetts Institute of Technology. (n.d.). Retrieved December 18, 2021, from https://news.mit.edu/2001/dertouzos829 
+
+Kurzweilai.net. (n.d.). Retrieved December 18, 2021, from https://web.archive.org/web/20050404124848/http://www.kurzweilai.net/bios/frame.html?main=%2Fbios%2Fbio0018.html 
