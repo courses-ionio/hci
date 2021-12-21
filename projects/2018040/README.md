@@ -144,16 +144,6 @@ https://wiki.archlinux.org/title/Dotfiles
 
 Ενημέρωση του images submodule μεσω terminal: https://asciinema.org/a/449292
 
-## Διαφανειες και χρονολογιο:
-
-Διαφανειες στο προσωπικο site:
-
-Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/master/_slides/programming.md
-
-Χρονολογιο στο προσωπικο site:
-
-Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/master/_timeline/programming.md
-
 ##### [5]
 
 ## Ασκηση γραμμης εντολων: check the weather (warmup)
@@ -202,21 +192,15 @@ Asciinema: https://asciinema.org/a/450774
 
 ## Συμμετοχικο περιεχομενο 2α
 
-**Βηματα:**
+## Διαφανειες και χρονολογιο:
 
-Καταχωρηση των εικονων του παραδοτεου 1α στα αποθετηρια ``_slides``,``_timeline``
+Διαφανειες στο προσωπικο site:
 
-## Διαφανειες 
+Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/master/_slides/programming.md
 
-Διαφάνειες στο προσωπικό site: https://p18kana.netlify.app//slides/programming/
+Χρονολογιο στο προσωπικο site:
 
-Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/2018040/_slides/programming.md
-
-## Χρονολογιο 
-
-Χρονολόγιο στο προσωπικό site:
-
-Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/2018040/_timeline/programming.md
+Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/master/_timeline/programming.md
 
 ##### [7]
 
