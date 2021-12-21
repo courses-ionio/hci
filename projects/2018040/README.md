@@ -55,6 +55,10 @@
 
 **Αποτελέσματα:**
 
+![arch1](https://github.com/p18kana/HCI-files/blob/main/arch1.png)
+
+![arch2](https://github.com/p18kana/HCI-files/blob/main/arch2.png)
+
 ## Άσκηση γραμμής εντολών: get familiar with basic commands, reading documentation and editing files (warmup)
 
 asciinema: https://asciinema.org/a/447448
