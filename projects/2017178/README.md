@@ -18,8 +18,7 @@
  Για την παρούσα εργασία χρησιμοποιήθηκε το Ubuntu VirtualBox 1.2 και η λειτουργία asciinema που προσφέρει για screenrecord των προγραμμάτων καθώς ο υπολογιστής μου δεν σηκώνε τα linux 
 
 # 1ο Παραδοτέο: Επίδειξη του software και hardware 
-~~Μέσω του Ubuntu VirtualBox 1.2 κατέβασα και έτρεξα το neofetch ώστε να μου εμφανιστούν τα χαρακτηριστικά και διαφορες πληροφορίες σχετικά με το software και το hardware του υπολογιστή όπως history, πληροφορίες για το CPU, Memory, χρονος εκτέλεσης. Έτρεξα τις εντολές της εκφώνησης, οπως την bashrc και την neofetch.    
-##### Screenrecord Link: https://asciinema.org/a/dwulDSWnGM67gsHoDU59eHzj3 ~~
+~~Μέσω του Ubuntu VirtualBox 1.2 κατέβασα και έτρεξα το neofetch ώστε να μου εμφανιστούν τα χαρακτηριστικά και διαφορες πληροφορίες σχετικά με το software και το hardware του υπολογιστή όπως history, πληροφορίες για το CPU, Memory, χρονος εκτέλεσης. Έτρεξα τις εντολές της εκφώνησης, οπως την bashrc και την neofetch.~~
 Χάρη στο εξής [tutorial](https://www.youtube.com/watch?v=4PBqpX0_UOc) κατάφερα να εγκαταστήσω και να τρέξω την εντολή neofetch σε arch linux, όπως θα δείτε παρακατω. Η εγκατάσταση πραγματοποιήθηκε σε υπολογιστή HP Compaq 6730s με τα εξής χαρακτηριστικά:
 OS: Arch Linux x86_64                                           
 Host: HP Compaq 6730s F.20 
