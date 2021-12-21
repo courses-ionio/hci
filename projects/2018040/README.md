@@ -243,3 +243,43 @@ asciinema: https://asciinema.org/a/444859
 ![download-mp3](https://github.com/p18kana/HCI-files/blob/main/2018040_download-mp3.gif)
 
 **Πηγή:** https://www.youtube.com/watch?v=VMy-lb7Y-7k
+
+##### [8]
+
+##### [9]
+
+##### [10]
+
+##### [11]
+
+## Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion (hci)
+
+asciinema: https://asciinema.org/a/457788
+
+script: https://github.com/p18kana/HCI-files/blob/main/script.py
+
+**Βήματα:**
+
+Κανω εγκατάσταση των απαραίτητων πακέτων  ``sudo pacman -S vim``, ``sudo pacman -S vi``.
+
+Με το ``asciinema rec -i 0.2`` ξεκιναω το record του terminal.
+
+Επιλογη ενος print script σε python **script.py**
+
+Ανοιγμα script ``vim script.py`` 
+
+Χρηση INSERT mode με το πληκτρο ``I `` 
+
+Χρηση READ-ONLY mode με το πληκτρο ``esc``
+
+Ενεργοποιηση highlighting κωδικα ``syntax off``,``syntax on``
+
+Αποθηκευση του αρχειου ``:w`` 
+
+Εξοδος στο terminal  ``:q``
+
+Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
+
+**Αποτελέσματα:** 
+
+![syntax](https://github.com/p18kana/HCI-files/blob/main/syntax.png)
