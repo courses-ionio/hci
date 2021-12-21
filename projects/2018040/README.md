@@ -230,6 +230,20 @@ asciinema: https://asciinema.org/a/444859
 
 ##### [8]
 
+## Συμμετοχικο περιεχομενο 1β
+
+## Μελετη περιπτωσης:
+
+Μελετη περιπτωσης στο προσωπικο site:
+
+Αποθετηριο μελετης περιπτωσης:
+
+Αποθετηριο κειμενου μελετης:
+
+## Πληροφοριες:
+
+**Πηγή:**
+
 ##### [9]
 
 ##### [10]
@@ -267,3 +281,5 @@ script: https://github.com/p18kana/HCI-files/blob/main/script.py
 **Αποτελέσματα:** 
 
 ![syntax](https://github.com/p18kana/HCI-files/blob/main/syntax.png)
+
+**Πηγή:** https://www.vim.org/about.php
