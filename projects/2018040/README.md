@@ -144,6 +144,16 @@ https://wiki.archlinux.org/title/Dotfiles
 
 Ενημέρωση του images submodule μεσω terminal: https://asciinema.org/a/449292
 
+## Διαφανειες και χρονολογιο:
+
+Διαφανειες στο προσωπικο site:
+
+Αποθετηριο διαφανειων:
+
+Χρονολογιο στο προσωπικο site:
+
+Αποθετηριο χρονολογιου:
+
 ##### [5]
 
 ## Ασκηση γραμμης εντολων: check the weather (warmup)
