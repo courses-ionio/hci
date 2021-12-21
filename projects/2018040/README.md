@@ -20,7 +20,7 @@
 | 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών (warmup) </a></sup> |
 | 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο 2A </a></sup> |
 | 7 | <sup><a href="#7"> Άσκηση γραμμής εντολών: download-mp3(hci) </a></sup> |
-| 8 | <sup><a href="#7"> Συμμετοχικό περιεχόμενο 1B </a></sup> |
+| 8 | <sup><a href="#8"> Συμμετοχικό περιεχόμενο 1B </a></sup> |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | Συμμετοχικό περιεχόμενο 2B |
 | 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών: text editor and plug-ins for code highlighting and autocompletion (hci) </a></sup> |
