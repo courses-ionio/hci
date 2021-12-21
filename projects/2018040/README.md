@@ -148,11 +148,11 @@ https://wiki.archlinux.org/title/Dotfiles
 
 Διαφανειες στο προσωπικο site:
 
-Αποθετηριο διαφανειων:
+Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/master/_slides/programming.md
 
 Χρονολογιο στο προσωπικο site:
 
-Αποθετηριο χρονολογιου:
+Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/master/_timeline/programming.md
 
 ##### [5]
 
