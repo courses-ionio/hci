@@ -18,8 +18,22 @@
  Για την παρούσα εργασία χρησιμοποιήθηκε το Ubuntu VirtualBox 1.2 και η λειτουργία asciinema που προσφέρει για screenrecord των προγραμμάτων καθώς ο υπολογιστής μου δεν σηκώνε τα linux 
 
 # 1ο Παραδοτέο: Επίδειξη του software και hardware 
- Μέσω του Ubuntu VirtualBox 1.2 κατέβασα και έτρεξα το neofetch ώστε να μου εμφανιστούν τα χαρακτηριστικά και διαφορες πληροφορίες σχετικά με το software και το hardware του υπολογιστή όπως history, πληροφορίες για το CPU, Memory, χρονος εκτέλεσης. Έτρεξα τις εντολές της εκφώνησης, οπως την bashrc και την neofetch.    
-##### Screenrecord Link: https://asciinema.org/a/dwulDSWnGM67gsHoDU59eHzj3
+~~Μέσω του Ubuntu VirtualBox 1.2 κατέβασα και έτρεξα το neofetch ώστε να μου εμφανιστούν τα χαρακτηριστικά και διαφορες πληροφορίες σχετικά με το software και το hardware του υπολογιστή όπως history, πληροφορίες για το CPU, Memory, χρονος εκτέλεσης. Έτρεξα τις εντολές της εκφώνησης, οπως την bashrc και την neofetch.    
+##### Screenrecord Link: https://asciinema.org/a/dwulDSWnGM67gsHoDU59eHzj3 ~~
+Χάρη στο εξής [tutorial](https://www.youtube.com/watch?v=4PBqpX0_UOc) κατάφερα να εγκαταστήσω και να τρέξω την εντολή neofetch σε arch linux, όπως θα δείτε παρακατω. Η εγκατάσταση πραγματοποιήθηκε σε υπολογιστή HP Compaq 6730s με τα εξής χαρακτηριστικά:
+OS: Arch Linux x86_64                                           
+Host: HP Compaq 6730s F.20 
+Kernel: 5.15.5-arch1-1                                                 
+Uptime: 48 mins                                                           
+Packages: 157 (pacman)                                                       
+Shell: bash 5.1.12                                                             
+Resolution: 1280x800                                                             
+CPU: Intel Pentium Dual T3400 (2) @ 2.166GHz                                       
+GPU: Intel Mobile 4 Series Chipset
+Memory: 349MiB / 3825MiB   
+Παρότι στο tutorial γίνεται επίδειξη εγκατάστασης boot manager (ειδικότερα grub) η εγκατάσταση δεν πέτυχε με αποτέλεσμα κάθε προσπάθεια ενεργοποίησης των arch συνοδεύεται απο μια σειρά εντολών.
+Παρακάτω ακολουθεί το asciicast:
+<a href="https://asciinema.org/a/tIxgWHxxj6OoBWHUTltbJa6kd" target="_blank"><img src="https://asciinema.org/a/tIxgWHxxj6OoBWHUTltbJa6kd.svg" /></a>
 
 # Α1: Προσθήκη 2 εικόνων με ελεύθερα πνευματικά δικαιώματα σε κανονικό και μικρό πλάτος (160 pixel)
 1) Επέλεξα τις εικόνες μέσω της βικιπαίδειας απο όπου και τις κατέβασα, και έπειτα δημιούργησα new file για κάθε εικόνα σε png μορφή στο images και "έσυρα" τη κατεβασμένη εικόνα. Για την thump εικόνα ακολούθησα ακριβως την ίδια διαδικασία με την διαφορά πως άλλαξα το πλάτος σε 160 pixel πρώτα με την χρήση ενός online resizer.
