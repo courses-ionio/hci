@@ -26,9 +26,13 @@
 
 ### Εργασία (hci): Download mp3 from youtube and play
 
-##### Χρησιμοποίησα το youtube-dl για να κατεβάσω ένα τραγούδι από το youtube, και έπειτα χρησιμοποιήσα το cmus ώστε να κάνω αναπαραγωγή του τραγουδιού.
+##### Χρησιμοποίησα το youtube-dl για να κατεβάσω ένα τραγούδι από το youtube, το asciinema διαρκεί πολύ ώρα διότι αργούσε πολύ το download.
 
-##### link: https://asciinema.org/a/KOHMoTZHb5Sfdg9lc1qjFNPUC
+##### link: https://asciinema.org/a/457797
+
+##### Έπειτα χρησιμοποιήσα το cmus ώστε να κάνω αναπαραγωγή του τραγουδιού.
+
+##### link: https://asciinema.org/a/457793
 
 
 ### Εργασία (hci): Edit the vim or the shell configuration file
