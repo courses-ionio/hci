@@ -52,13 +52,13 @@
 <br />
 
 # **Συμμετοχικό περιεχόμενο 1Α**
-Στο 1ο μέρος του συμμετοχικού περιεχομένου Α, επέλεξα να μιλήσω για τις OLED οθόνες (Organic Light-Emitting Diode), οι οποίες άλλαξαν και βελτίωσαν πολύ την εμπειρία θέασης καθώς και για την πρώτη συσκευή με οθόνη oled το XEL-1 της Sony.
+Στο 1ο μέρος του συμμετοχικού περιεχομένου Α, επέλεξα να μιλήσω για τις Quantum Dot Displays (Οθόνες με κβαντικές κουκίδες), οι οποίες πιστεύω μπορούν να αλλάξουν και βελτίωσαν πολύ την εμπειρία θέασης καθώς και για την πρώτη συσκευή με οθόνη oled το XEL-1 της Sony.
 | Περιγραφή | Repository Link |
 | --- | --- |
-| OLED Screen | [Oled-screen.md](https://github.com/thanosks/_gallery/blob/2020150/oled-screen.md) |
+| Quantum Dot Display | [quantum-dot-display.md](https://github.com/thanosks/_gallery/blob/2020150/quantum-dot-display.md) |
 | XEL-1 | [XEL-1.md](https://github.com/thanosks/_gallery/blob/2020150/xel-1.md) |
 ## **Links**
-Το Link για την wikipedia δεν χρησιμοποιήθηκε ιδιαίτερα και οι περισσότερες πληροφορίες για το XEL-1 προήλθαν από το YouTube βίντεο.Όσον αφορά τις πληροφορίες για την OLED οθόνη έγραψα με βάση ήδη υπάρχουσες γνώσεις που έχω και όχι από μία συγκεκριμένη πηγή.
+Το Link για την wikipedia δεν χρησιμοποιήθηκε ιδιαίτερα και οι περισσότερες πληροφορίες για το XEL-1 προήλθαν από το YouTube βίντεο.Όσον αφορά τις πληροφορίες για την τεχνολογία quantum dot έγραψα με βάση ήδη υπάρχουσες γνώσεις που έχω και όχι από μία συγκεκριμένη πηγή.
 ### **[YouTube Xel-1 review](https://youtu.be/j7GUSltewuA)**   |   **[XEL-1](https://en.wikipedia.org/wiki/Sony_XEL-1)**
 
 <br />
