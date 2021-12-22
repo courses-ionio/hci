@@ -44,9 +44,8 @@ Memory: 349MiB / 3825MiB
 ##### Image link : https://github.com/p17simt/images/blob/master/duckduck.png
 ##### Thump link : https://github.com/p17simt/images/blob/master/duckduckthump.png
 #### gallery
-##### duckduck.md Link : https://github.com/p17simt/_gallery/blob/master/duckduck.md~~
-
-~~### Safari
+##### duckduck.md Link : https://github.com/p17simt/_gallery/blob/master/duckduck.md
+### Safari
 #### Images 
    -Image Link : https://github.com/p17simt/images/blob/master/safari.png
    -Thump Link : https://github.com/p17simt/images/blob/master/safarithump.png
