@@ -72,7 +72,8 @@
 ## Links: 
 
 ### Netlify
--
+#### [zune](https://p2020023.netlify.app/gallery/zune/)
+#### [playstationmove](https://p2020023.netlify.app/gallery/playstationmove/)
  
 ### Αρχεία .md:
 #### [zune.md](https://github.com/p20sami/_gallery/blob/%CE%A02020023/zune.md)
