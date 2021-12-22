@@ -39,25 +39,35 @@ Memory: 349MiB / 3825MiB
 1) Επέλεξα τις εικόνες μέσω της βικιπαίδειας απο όπου και τις κατέβασα, και έπειτα δημιούργησα new file για κάθε εικόνα σε png μορφή στο images και "έσυρα" τη κατεβασμένη εικόνα. Για την thump εικόνα ακολούθησα ακριβως την ίδια διαδικασία με την διαφορά πως άλλαξα το πλάτος σε 160 pixel πρώτα με την χρήση ενός online resizer.
  2) Δημιούργησα ένα  .md αρχείο για κάθε μια εικόνα στον φάκελο _gallery, οπου υπήρχαν σχετικά στοιχεία (author, title,	year,	image_url,	caption,	license_url,	license_text, categories,	tags)
 
-### DuckDuckGo 
+~~### DuckDuckGo 
 #### Images
 ##### Image link : https://github.com/p17simt/images/blob/master/duckduck.png
 ##### Thump link : https://github.com/p17simt/images/blob/master/duckduckthump.png
 #### gallery
-##### duckduck.md Link : https://github.com/p17simt/_gallery/blob/master/duckduck.md
+##### duckduck.md Link : https://github.com/p17simt/_gallery/blob/master/duckduck.md~~
 
-### Safari
+~~### Safari
 #### Images 
    -Image Link : https://github.com/p17simt/images/blob/master/safari.png
-   
    -Thump Link : https://github.com/p17simt/images/blob/master/safarithump.png
 #### gallery
-   -Safari.md Link : https://github.com/p17simt/_gallery/blob/master/safari.md
+   -Safari.md Link : https://github.com/p17simt/_gallery/blob/master/safari.md~~
+### 3D Touch
+#### Images
+#### Image link: https://github.com/p17simt/images/blob/master/3dtouch.jpg
+#### Thumb link: https://github.com/p17simt/images/blob/master/3dtouch-thumb.png
+#### Gallery: https://github.com/p17simt/_gallery/blob/master/3dtouch.md
+
+### Multi-track Trackpad
+#### Images
+#### Image link: https://github.com/p17simt/images/blob/master/multitouch.jpg
+#### Thumb link: https://github.com/p17simt/images/blob/master/multitouch-thumb.png
+#### Gallery: https://github.com/p17simt/_gallery/blob/master/multitouch.md
 
 # A2: Δημιουργία ενος χρονολογίου και ενός σετ διαφανειών
 Σκοπός: Να συνδυάσω τις εικόνες που επέλεξα να ανεβάσω στην υποενότητα Α1 με εικόνες που ήδη υπήρχαν στον φάκελο _gallery.
 1) Συνέθεσα 2 χρονολόγια στον φάκελο _timeline σε μορφή .md αρχείου, ένα για κάθε εικόνα οπου στην στήλη ¨events¨ πρόσθεσα τις σχετικές εικόνες του φακέλου _gallery
-2) Συνέθεσα 2 σετ διαφανειών για κάθε μια από τις εικόνες που είχα επιλέξει, μια για τις μηχανές αναζήτησης και μια άλλη για τους περιηγητές (web browsers). Τα slides ονομάστηκαν search engine και web browser σε .md μορφή. 
+2) Συνέθεσα 2 σετ διαφανειών για κάθε μια από τις εικόνες που είχα επιλέξει, μια για τις μηχανές αναζήτησης και μια άλλη για τους περιηγητές (web browsers). Τα slides ονομάστηκαν search engine και web browser σε .md μορφή. Κατόπιν επίδειξης της προόδου μου σε αντίστοιχη συνάντηση, αποφάσισα να αλλάξω τις προσθήκες μου ώστε να έρθω πιο κοντά στο ζητούμενο του μαθήματος, την αλληλεπίδραση ανθρώπου-υπολογιστή
 
 ### Timelines
    -duckduck.md Link : https://github.com/p17simt/site/blob/master/_timeline/duckduck.md
