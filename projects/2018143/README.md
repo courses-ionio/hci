@@ -6,7 +6,7 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | <sup><a href="#1"> Φορκ του αποθετηρίου,δημιουργία της σελίδας της αναφοράς και εισαγωγή με περιγραφή των αναγκών και στόχων για το μάθημα </a></sup> |
-| 2 | <sup><a href="#2"> Άσκηση γραμμής εντολών : set-up the main dependencies and demonstrate your base system(warmup) </a></sup> |
+| 2 | <sup><a href="#2"> Εγκατάσταστη Archlinux / Άσκηση γραμμής εντολών : set-up the main dependencies and demonstrate your base system(warmup) </a></sup> |
 | 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών : get familiar with basic commands, reading documentation and editing files(warmup) </a></sup> |
 | 4 | <sup><a href="#4"> συμμετοχικό περιεχόμενο 1A </a></sup> |
 | 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών : check the weather(warmup) </a></sup> |
@@ -27,6 +27,44 @@
 
 
 ##### [2]
+
+Διαδικασία :
+
+• Λήψη κατάλληλου αρχείου ISO των Arch Linux
+
+• Λήψη και setup του Oracle VM
+
+• Ενεργοποίηση VM και επιλογή του ISO ως boot option
+
+• Πληκτρολόγηση python -m archinstall guided για έναρξη εγκατάστασης
+
+• Επιλογή γλώσσας και τοποθεσίας
+
+• Επιλογή κατάλληλου partition για την εγκατάσταση λειτουργικού
+
+• Επιλογή btrfs ως file system για Arch
+
+• Διαμόρφωση hostname και κωδικού
+
+• Επιλογή desktop ως προφίλ εγκατάστασης
+
+• Επιλογή gnome ως γραφικό περιβάλλον
+
+• Επιλογή all open source ως graphics adapter
+
+• Εγκατάσταση pipewire ως audio server
+
+• Επιλογή linux ως kernel εγκατάστασης
+
+• Επιλογή Network Manager για σύνδεση στο διαδίκτυο
+
+• Επιλογή κατάλληλου timezone
+
+• Αναμονή για λήψη και εγκατάσταση πακέτων
+
+• Πληκτρολόγηση shutdown για απενεργοποίηση session
+
+• Πρώτο boot ως root user και εγκατάσταση απαραίτητων πακέτων για τα ζητούμενα των ασκήσεων sudo pacman -S git, asciinema
 
 ## Άσκηση γραμμής εντολών : set-up the main dependencies and demonstrate your base system (warmup)
 
