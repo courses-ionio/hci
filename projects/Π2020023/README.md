@@ -139,9 +139,9 @@
 
 ## Netlify
  
-#### [Διαφάνειες](https://p2020023.netlify.app/slides/videogames/)
+#### [zune, διαφάνειες](https://p2020023.netlify.app/slides/technology/) | [zune, χρονολόγιο](https://p2020023.netlify.app/timeline/multimedia/) 
 
-#### [Χρονολόγιο](https://p2020023.netlify.app/timeline/multimedia/)
+#### [Playstation Move, διαφάνειες](https://p2020023.netlify.app/slides/videogames/) | [Playstation Move, χρονολόγιο](https://p2020023.netlify.app/timeline/input-devices/)
 
 ## Repository links:
 
