@@ -66,6 +66,10 @@
 
 • Πρώτο boot ως root user και εγκατάσταση απαραίτητων πακέτων για τα ζητούμενα των ασκήσεων sudo pacman -S git, asciinema
 
+## Αποτελέσματα : 
+
+![arch](https://github.com/p18kout/hci-images/blob/main/arch.png)
+
 ## Άσκηση γραμμής εντολών : set-up the main dependencies and demonstrate your base system (warmup)
 
 asciinema link : https://asciinema.org/a/446263 
