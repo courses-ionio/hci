@@ -179,6 +179,10 @@
  
 #### [cs-psx.md](https://github.com/p20sami/site/blob/%CE%A02020023/_case-study/cs-psx.md) , Το κείμενο της μελέτης
  
+## Φωτογραφία
+#### [psx.jpg](https://github.com/p20sami/images/blob/%CE%A02020023/psx.jpg)
+#### [Link άδειας wikipedia commons](https://commons.wikimedia.org/wiki/File:Console_psx.jpg)
+ 
 ## Πηγές:
 #### [PlayStation X, Wikipedia](https://en.wikipedia.org/wiki/PSX_(digital_video_recorder))
 
@@ -213,6 +217,10 @@ terminal. Χρειάστηκαν τα πακέτα youtube-dl, mpv αλλά λό
 #### [Βιογραφία του Karlheinz Brandenburg](https://github.com/p20sami/site/blob/%CE%A02020023/_biography/karlheinz-brandenburg.md)
  
 #### [Βιογραφία του Karlheinz Brandenburg, ολόκληρη](https://github.com/p20sami/site/blob/%CE%A02020023/_biography/bio-brandenburg.md)
+ 
+## Φωτογραφία
+#### [karlbrandenburg.jpg](https://github.com/p20sami/images/blob/%CE%A02020023/karlbrandenburg.jpg)
+#### [Link άδειας wikipedia commons](https://commons.wikimedia.org/wiki/File:Karlheinz_Brandenburg_ks01.jpg)
  
 ## Πηγές:
 
