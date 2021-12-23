@@ -39,7 +39,7 @@ Memory: 349MiB / 3825MiB
 1) Επέλεξα τις εικόνες μέσω της βικιπαίδειας απο όπου και τις κατέβασα, και έπειτα δημιούργησα new file για κάθε εικόνα σε png μορφή στο images και "έσυρα" τη κατεβασμένη εικόνα. Για την thump εικόνα ακολούθησα ακριβως την ίδια διαδικασία με την διαφορά πως άλλαξα το πλάτος σε 160 pixel πρώτα με την χρήση ενός online resizer.
  2) Δημιούργησα ένα  .md αρχείο για κάθε μια εικόνα στον φάκελο _gallery, οπου υπήρχαν σχετικά στοιχεία (author, title,	year,	image_url,	caption,	license_url,	license_text, categories,	tags)
 
-~~### DuckDuckGo 
+<strike>### DuckDuckGo 
 #### Images
 ##### Image link : https://github.com/p17simt/images/blob/master/duckduck.png
 ##### Thump link : https://github.com/p17simt/images/blob/master/duckduckthump.png
@@ -50,36 +50,35 @@ Memory: 349MiB / 3825MiB
    -Image Link : https://github.com/p17simt/images/blob/master/safari.png
    -Thump Link : https://github.com/p17simt/images/blob/master/safarithump.png
 #### gallery
-   -Safari.md Link : https://github.com/p17simt/_gallery/blob/master/safari.md~~
+   -Safari.md Link : https://github.com/p17simt/_gallery/blob/master/safari.md</strike>
+   
+Κατόπιν επίδειξης της προόδου μου σε αντίστοιχη συνάντηση, αποφάσισα να αλλάξω τις προσθήκες μου ώστε να έρθω πιο κοντά στο ζητούμενο του μαθήματος, την αλληλεπίδραση ανθρώπου-υπολογιστή
+
 ### 3D Touch
 #### Images
 #### Image link: https://github.com/p17simt/images/blob/master/3dtouch.jpg
 #### Thumb link: https://github.com/p17simt/images/blob/master/3dtouch-thumb.png
 #### Gallery: https://github.com/p17simt/_gallery/blob/master/3dtouch.md
+#### Website link: https://elegant-goldstine-b4ac31.netlify.app/gallery/3d-touch/
 
 ### Multi-track Trackpad
 #### Images
 #### Image link: https://github.com/p17simt/images/blob/master/multitouch.jpg
 #### Thumb link: https://github.com/p17simt/images/blob/master/multitouch-thumb.png
 #### Gallery: https://github.com/p17simt/_gallery/blob/master/multitouch.md
+#### Website link: https://elegant-goldstine-b4ac31.netlify.app/gallery/multitouch/
+
+Αφού τοποθέτησα τα νέα αρχεία στα κατάλληλα αποθετήρια, προχώρησα στον συγχρονισμό των submodule, την οποία διαδικασία θα δείτε παρακάτω:
+<a href="https://asciinema.org/a/GOc7P5uhizBMqLCvEi9LdjkO8" target="_blank"><img src="https://asciinema.org/a/GOc7P5uhizBMqLCvEi9LdjkO8.svg" /></a>
+και εν τέλει μέσω του netlify είχα ένα λειτουργικό αντίγραφο της αρχικής ιστοσελίδας με τις τροποποιήσεις μου μέσα.
 
 # A2: Δημιουργία ενος χρονολογίου και ενός σετ διαφανειών
 Σκοπός: Να συνδυάσω τις εικόνες που επέλεξα να ανεβάσω στην υποενότητα Α1 με εικόνες που ήδη υπήρχαν στον φάκελο _gallery.
-1) Συνέθεσα 2 χρονολόγια στον φάκελο _timeline σε μορφή .md αρχείου, ένα για κάθε εικόνα οπου στην στήλη ¨events¨ πρόσθεσα τις σχετικές εικόνες του φακέλου _gallery
-2) Συνέθεσα 2 σετ διαφανειών για κάθε μια από τις εικόνες που είχα επιλέξει, μια για τις μηχανές αναζήτησης και μια άλλη για τους περιηγητές (web browsers). Τα slides ονομάστηκαν search engine και web browser σε .md μορφή. Κατόπιν επίδειξης της προόδου μου σε αντίστοιχη συνάντηση, αποφάσισα να αλλάξω τις προσθήκες μου ώστε να έρθω πιο κοντά στο ζητούμενο του μαθήματος, την αλληλεπίδραση ανθρώπου-υπολογιστή
+1) Πρόσθεσα στα χρονολόγια (input_devices.md & apple.md) τα αρχεία που δημιούργησα
 
-### Timelines
-   -duckduck.md Link : https://github.com/p17simt/site/blob/master/_timeline/duckduck.md
-   
-   -safari.md Link : https://github.com/p17simt/site/blob/master/_timeline/safari.md
-
-### Slides
-   -search_engine.md Link : https://github.com/p17simt/site/blob/master/_slides/search_engine.md
-   
-   -web_browser.md Link : https://github.com/p17simt/site/blob/master/_slides/web_browser.md
    
 ### Πρόβλημα που αντιμετώπισα στις υποενότητες Α1, Α2: 
-#### Οι εικόνες που ανέβασα δεν εμφανίστηκαν στο site παρόλο που το έκανα deploy με χρήση των submodules. Δοκίμασα να κάνω deploy στο netlify χωρίς επιτυχία. Το ίδιο πρόβλημα αντιμετώπησα και με το χρονολόγιο μου.
+<strike>#### Οι εικόνες που ανέβασα δεν εμφανίστηκαν στο site παρόλο που το έκανα deploy με χρήση των submodules. Δοκίμασα να κάνω deploy στο netlify χωρίς επιτυχία. Το ίδιο πρόβλημα αντιμετώπησα και με το χρονολόγιο μου. </strike>
    
 ### Οφέλη που μου πρόσφερε η εργασία μέχρι τώρα:
 #### 1) Έμαθα την μερική χρήση του διαδυκτιακού χώρου GitHub, μέσα από αναζήτηση των διαφόρων λειτουργειών που προσφέρει.
