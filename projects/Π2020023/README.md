@@ -2,7 +2,7 @@
 ## ΑΜ: Π2020023
 ## Μάθημα: Επικοινωνία ανθρώπου-υπολογιστή
 ## [Shell scripts repository](https://github.com/p20sami/shell-scripts)
-## [Netlify site](https://p2020023.netlify.app/)
+## [Netlify site](https://p2020023-pibook.netlify.app/)
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
 | 1 | [Εισαγωγή - 1ο παραδοτέο](#εισαγωγή---1ο-παραδοτέο) |
@@ -72,8 +72,8 @@
 ## Links: 
 
 ### Netlify
-#### [zune](https://p2020023.netlify.app/gallery/zune/)
-#### [playstationmove](https://p2020023.netlify.app/gallery/playstationmove/)
+#### [zune](https://p2020023-pibook.netlify.app/gallery/zune/)
+#### [playstationmove](https://p2020023-pibook.netlify.app/gallery/playstationmove/)
  
 ### Αρχεία .md:
 #### [zune.md](https://github.com/p20sami/_gallery/blob/%CE%A02020023/zune.md)
@@ -138,9 +138,9 @@
 
 ## Netlify
  
-#### [zune, διαφάνειες](https://p2020023.netlify.app/slides/technology/) | [zune, χρονολόγιο](https://p2020023.netlify.app/timeline/multimedia/) 
+#### [zune, διαφάνειες](https://p2020023-pibook.netlify.app/slides/technology/) | [zune, χρονολόγιο](https://p2020023-pibook.netlify.app/timeline/multimedia/) 
 
-#### [Playstation Move, διαφάνειες](https://p2020023.netlify.app/slides/videogames/) | [Playstation Move, χρονολόγιο](https://p2020023.netlify.app/timeline/input-devices/)
+#### [Playstation Move, διαφάνειες](https://p2020023-pibook.netlify.app/slides/videogames/) | [Playstation Move, χρονολόγιο](https://p2020023-pibook.netlify.app/timeline/input-devices/)
 
 ## Repository links:
 
@@ -171,7 +171,7 @@
 
 ## Netlify
  
-#### [PlayStation X, μελέτη περίπτωσης](https://p2020023.netlify.app/case-study/psx/)
+#### [PlayStation X, μελέτη περίπτωσης](https://p2020023-pibook.netlify.app/case-study/psx/)
 
  
 ## Αρχεία .md
@@ -211,7 +211,7 @@ terminal. Χρειάστηκαν τα πακέτα youtube-dl, mpv αλλά λό
 θεωρούμε σήμερα δεδομένη, με μικρό μέγεθος, σε διάφορες συσκευές πολυμέσων είτε αυτή είναι μουσική, είτε βιντεοπαιχνίδια (χρησιμοποιώντας την μορφή ήχου και σε αυτά μεταξύ άλλων κυρίως ερασιτεχνικά), είτε ταινίες, αλλά και σε συσκευές που σχεδιάστηκαν με πυλώνα αυτή τη συγκεκριμένη μορφή ήχου. Δεν είναι άλλος, από τον Karlheinz Brandenburg, εφευρέτη της μορφής mp3,η οποία έδωσε τις βάσεις και για άλλες μορφές ήχου. Παρακάτω, παραθέτω τα links της βιογραφίας που συνέθεσα καθώς και τις πηγές μου.
 
 ## Netlify
-#### [Βιογραφία του Karlheinz Brandenburg](https://p2020023.netlify.app/biography/karlheinz-brandenburg/)
+#### [Βιογραφία του Karlheinz Brandenburg](https://p2020023-pibook.netlify.app/biography/karlheinz-brandenburg/)
  
 ## Αρχεία .md
 #### [Βιογραφία του Karlheinz Brandenburg](https://github.com/p20sami/site/blob/%CE%A02020023/_biography/karlheinz-brandenburg.md)
