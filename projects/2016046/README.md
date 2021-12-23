@@ -114,7 +114,8 @@ Link Case Study:
 # Άσκηση Γραμμής Εντολών - HCI - Organise The Terminal Window Into Multiple Areas
 
 Link Asciinema:
+- https://asciinema.org/a/5ehyZbewPVLauGEAuaQrYF5HW
 
-
+Μέσω του terminal άνοιξα δύο παράθυρα σε ένα session χρησιμοποιώντας το εργαλείο tmux(εργαλείο multitasking), στο ένα παράθυρο εμφάνισα το τρέχον working directory και έπειτα τσέκαρα τον καιρό στα Ιωάννινα, στο άλλο παράθυρο για monitoring χρησιμοποίησα το software glances που σου προσφέρει βασικές πληροφορίες για τον υπολογιστή. 
 
 
