@@ -140,19 +140,18 @@ asciinema link : https://asciinema.org/a/447206
 
 Έγινε η δημιουργία των απαραίτητων submodule με βάση τις οδηγίες, μετά το fork τις ιστοσελίδας του βιβλίου μαθήματος και των αποθετηρίων **images** , **_gallery** .
 
-# Εικόνα 1 : Apple iphone 13
+# Εικόνα 1 : JavaScript
 
-Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/apple-iphone13.md
+Αποθετήριο εικόνας : 
 
-Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/apple-iphone13-thumb.png
+Αποθετήριο thumbnail : 
 
-# Εικόνα 2 : Apple watch series 7
+# Εικόνα 2 : 
 
-Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/apple-watchs7.md
+Αποθετήριο εικόνας : 
 
-Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/apple-watchs7-thumb.png
+Αποθετήριο thumbnail : 
 
-Updating images submodule : https://asciinema.org/a/449082
 
 ##### [5]
 
