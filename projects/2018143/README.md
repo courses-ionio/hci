@@ -15,7 +15,7 @@
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion(hci) </a></sup> |
 | 10 | συμμετοχικό περιεχόμενο 2B |
-| 11 | Άσκηση γραμμής εντολών |
+| 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών : organise the terminal window into multiple areas(hci) </a></sup> |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
 ##### [1]    
@@ -256,3 +256,51 @@ Script που χρησιμοποιήθηκε : https://github.com/p18kout/hci-im
 ![testscript](https://github.com/p18kout/hci-images/blob/main/testscript.png)
 
 Πηγή : https://www.vim.org/
+
+##### [10]
+
+##### [11] 
+
+## Άσκηση γραμμής εντολών : organise the terminal window into multiple areas(hci)
+
+asciinema link : https://asciinema.org/a/458384
+
+Script που χρησιμοποιήθηκε : https://github.com/p18kout/hci-images/blob/main/testscript.py
+
+Διαδικασία : 
+
+• Έναρξη εγγραφής terminal **asciinema rec -i 0.2**
+
+• Εγκατάσταση απαραίτητων πακέτων **sudo pacman -S tmux** , **sudo pacman -S sysstat**
+
+• Έναρξη νέου session **tmux**
+
+• Χρήση απλού print script **vim testscript.py**
+
+• Είσοδος INSERT mode με το πλήκτρο Ι 
+
+• Επεξεργασία κειμένου script 
+
+• Είσοδος σε READ-ONLY mode με το πλήκτρο Esc 
+
+• Αλλαγή σε νέο session με τα πλήκτρα Ctrl-B , S
+
+• Προβολή ενεργών session **tmux ls**
+
+• Δημιουργία νέου παραθύρου με τα πλήκτρα Ctrl-B , C
+
+• Performance monitoring **sudo vmstat**
+
+• Έξοδος απο όλα τα ενεργά sessions με τα πλήκτρα Ctrl-B , D
+
+• Τέλος εγγραφής terminal **exit**
+
+## Αποτελέσματα : 
+
+![vmstat](https://github.com/p18kout/hci-images/blob/main/vmstat.png)
+
+Πηγή : 
+
+https://computingforgeeks.com/linux-tmux-cheat-sheet/
+
+https://linoxide.com/best-linux-performance-monitoring-tools/
