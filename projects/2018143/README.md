@@ -142,11 +142,15 @@ asciinema link : https://asciinema.org/a/447206
 
 # Εικόνα 1 : JavaScript
 
-Αποθετήριο εικόνας : 
+Εικόνα στο προσωπικό site : 
 
-Αποθετήριο thumbnail : 
+Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/javascript.md
+
+Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/javascript-thumb.jpg
 
 # Εικόνα 2 : 
+
+Εικόνα στο προσωπικό site : 
 
 Αποθετήριο εικόνας : 
 
@@ -186,11 +190,15 @@ asciinema link : https://asciinema.org/a/449720
 
 ## Διαφάνειες 
 
-Αποθετήριο διαφανειών : https://github.com/p18kout/site/blob/2018143/_slides/archetypes.md
+Διαφάνειες στο προσωπικό site : 
+
+Αποθετήριο διαφανειών : 
 
 ## Χρονολόγιο 
 
-Αποθετήριο χρονολογίου : https://github.com/p18kout/site/blob/2018143/_timeline/mobile.md
+Χρονολόγιο στο προσωπικό site :
+
+Αποθετήριο χρονολογίου : 
 
 ##### [7]
 
