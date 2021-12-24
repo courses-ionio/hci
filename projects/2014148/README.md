@@ -47,6 +47,8 @@
   - [xerox alto mouse.md](https://github.com/p14ntot/_gallery/blob/master/xerox-alto-mouse.md) , [arch-linux.md](https://github.com/p14ntot/_gallery/blob/master/arch-linux.md)
   - [xerox alto mouse image](https://github.com/p14ntot/images/blob/master/xerox-alto-mouse.jpg) , [xerox alto mouse-thumb](https://github.com/p14ntot/images/blob/master/xerox-alto-mouse-thumb.jpg)
   - [arch-linux image](https://github.com/p14ntot/images/blob/master/arch-linux.png) , [arch-linux-thumb](https://github.com/p14ntot/images/blob/master/arch-linux-thumb.png)
+  - [netlify link για xerox alto mouse](https://tender-dubinsky-ae3eb1.netlify.app//gallery/xerox-alto-mouse/)
+  - [netlify link για arch-linux](https://tender-dubinsky-ae3eb1.netlify.app//gallery/arch-linux/)
   
 # Εβδομάδα 5
   Αυτήν την εβδομάδα πραγματοποίησα την άσκηση create a list of todos, edit, delete, and check some of them. Η εργασία πραγματοποιηθήκε με την βοήθεια του προγρμάμματος todo.txt. Αρχικά όπως θα δείτε και στο βίντεο που ακολουθεί πραγματοποίησα εισαγωγή των πραγμάτων που ήθελα να κάνω σε μια μέρα. Η εισαγωγή στη λίστα γίνεται με την εντολή todo.sh a +"Οτι θέλω να προσθέσω στη λίστα". Ακολουθεί μια διαγραφή ενός αντικειμένου στη λίστα που είχα ξεχάσει απο τις δοκιμές της εφαρμογής. Η διαγραφή γίνεται με την εντολή todo.sh rm + τον αριθμό που βρίσκεται το αντικείμενο στη λίστα. Παράλληλα με την εντολή todo.sh ls μπορούμε να δούμε την λίστα μας.Ακολουθεί η εντολή todo.sh pri + αριθμός στη λίστα + Γράμμα προτεραιότητας, που μας βοηθάει να δώσουμε ένα γράμμα στις εκκρεμότητες μας ανάλογα με το πόσο σημαντικά είναι. Τέλος με την εντολή todo.sh do +αριθμός αντικειμένου μπορούμε να βάλουμε ταμπέλα done σε κάτι που έχουμε πραγματοποιήσει.
