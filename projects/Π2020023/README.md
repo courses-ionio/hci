@@ -76,6 +76,7 @@
 #### [playstationmove](https://p2020023-pibook.netlify.app/gallery/playstationmove/)
  
 #### [Netlify _config.yml](https://github.com/p20sami/site/blob/%CE%A02020023/_config.yml)
+#### [.gitmodules](https://github.com/p20sami/site/blob/%CE%A02020023/.gitmodules)
  
 ### Αρχεία .md:
 #### [zune.md](https://github.com/p20sami/_gallery/blob/%CE%A02020023/zune.md)
