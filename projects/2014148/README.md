@@ -64,6 +64,11 @@
 
 [arch linux slides](https://tender-dubinsky-ae3eb1.netlify.app//slides/gui/) | [arch linux timeline](https://tender-dubinsky-ae3eb1.netlify.app//timeline/systems/)
 
+#### Αρχεία md
+ Για το xerox alto mouse: [slides-styles](https://github.com/p14ntot/site/blob/master/_slides/styles.md) | [timeline-input-devices](https://github.com/p14ntot/site/blob/master/_timeline/input-devices.md)
+ 
+ Για το arch linux: [slides-gui](https://github.com/p14ntot/site/blob/master/_slides/gui.md) | [timeline-systems](https://github.com/p14ntot/site/blob/master/_timeline/systems.md)
+
 
 
 ## Syllabus
