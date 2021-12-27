@@ -61,7 +61,8 @@
  
 #### Netlify links
 [xerox alto mouse slides](https://tender-dubinsky-ae3eb1.netlify.app//slides/styles/) | [xerox alto mouse timeline](https://tender-dubinsky-ae3eb1.netlify.app//timeline/input-devices/)
-[arch linux slides]() | [arch linux timeline]()
+
+[arch linux slides](https://tender-dubinsky-ae3eb1.netlify.app//slides/gui/) | [arch linux timeline]()
 
 
 
