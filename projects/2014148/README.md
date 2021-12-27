@@ -56,13 +56,13 @@
   [asciinema link](https://asciinema.org/a/452383)
 
 # Εβδομάδα 6
- Αυτήν την εβδομάδα τροποποίησα τους φακέλους slides και timeline. Συγκεκριμένα στα slides πρόσθεσα στο styles.md το xerox-alto-mouse και στο gui.md το arch-linux. Έπειτα στον φάκελο timeline πρόσθεσα στο input-devices.md το xerox-alto-mouse και στο [systems.md](https://github.com/p14ntot/site/blob/master/_timeline/systems.md) το arch-linux. Όλη την διαδικασία μπορείτε να την δείτε αναλυτικά στο [asciinema link](https://asciinema.org/a/452344)
+ Αυτήν την εβδομάδα τροποποίησα τους φακέλους slides και timeline. Συγκεκριμένα στα slides πρόσθεσα στο styles.md το xerox-alto-mouse και στο gui.md το arch-linux. Έπειτα στον φάκελο timeline πρόσθεσα στο input-devices.md το xerox-alto-mouse και στο systems.md το arch-linux. Τα αποτελέσματα είναι ορατά και στην σελίδα μου στο netlify και παρουσιάζονται παρακάτω. Όλη την διαδικασία μπορείτε να την δείτε αναλυτικά στο [asciinema link](https://asciinema.org/a/452344)
  
  
 #### Netlify links
 [xerox alto mouse slides](https://tender-dubinsky-ae3eb1.netlify.app//slides/styles/) | [xerox alto mouse timeline](https://tender-dubinsky-ae3eb1.netlify.app//timeline/input-devices/)
 
-[arch linux slides](https://tender-dubinsky-ae3eb1.netlify.app//slides/gui/) | [arch linux timeline]()
+[arch linux slides](https://tender-dubinsky-ae3eb1.netlify.app//slides/gui/) | [arch linux timeline](https://tender-dubinsky-ae3eb1.netlify.app//timeline/systems/)
 
 
 
