@@ -3,6 +3,7 @@
 ## Μάθημα: Επικοινωνία ανθρώπου-υπολογιστή
 ## [Shell scripts repository](https://github.com/p20sami/shell-scripts)
 ## [Netlify site](https://p2020023-pibook.netlify.app/)
+## [GitHub profile](https://github.com/p20sami)
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
 | 1 | [Εισαγωγή - 1ο παραδοτέο](#εισαγωγή---1ο-παραδοτέο) |
