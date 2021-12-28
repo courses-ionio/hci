@@ -49,7 +49,7 @@
   
    ###### [3]
   
-   ## Παραδοτέο 3 : Άσκηση γραμμής εντολών - text editor and plug-ins for code highlighting and autocompletion
+   ## Παραδοτέο 3 : Δεύτερη προσπάθεια εγκατάστασης λειτουργικού Arch linux.
   
 
   
