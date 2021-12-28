@@ -126,5 +126,9 @@ Link Asciinema:
 
 # Συμμετοχικό Περιεχόμενο 2Β
 
+### Biography of Johnny Chung Lee:
+
+Link Biography:
+- 
 
 
