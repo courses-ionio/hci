@@ -12,7 +12,7 @@
 | 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών : check the weather(warmup) </a></sup> |
 | 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο 2A </a></sup> |
 | 7 | <sup><a href="#7"> Άσκηση γραμμής εντολών : download mp3(hci) </a></sup> |
-| 8 | συμμετοχικό περιεχόμενο 1B |
+| 8 | <sup><a href="#8"> συμμετοχικό περιεχόμενο 1B </a></sup> |
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion(hci) </a></sup> |
 | 10 | συμμετοχικό περιεχόμενο 2B |
 | 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών : organise the terminal window into multiple areas(hci) </a></sup> |
@@ -148,13 +148,13 @@ asciinema link : https://asciinema.org/a/447206
 
 Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/javascript-thumb.jpg
 
-# Εικόνα 2 : 
+# Εικόνα 2 : Scratch
 
 Εικόνα στο προσωπικό site : 
 
-Αποθετήριο εικόνας : 
+Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/scratch.md
 
-Αποθετήριο thumbnail : 
+Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/scratch-thumb.png
 
 
 ##### [5]
@@ -192,13 +192,13 @@ asciinema link : https://asciinema.org/a/449720
 
 Διαφάνειες στο προσωπικό site : 
 
-Αποθετήριο διαφανειών : 
+Αποθετήριο διαφανειών : https://github.com/p18kout/site/blob/master/_slides/programming.md
 
 ## Χρονολόγιο 
 
 Χρονολόγιο στο προσωπικό site :
 
-Αποθετήριο χρονολογίου : 
+Αποθετήριο χρονολογίου : https://github.com/p18kout/site/blob/master/_timeline/programming.md
 
 ##### [7]
 
@@ -229,6 +229,16 @@ asciinema link : https://asciinema.org/a/444197
 Πηγή : https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
 
 ##### [8]
+
+## Συμμετοχικό περιεχόμενο 1Β
+
+## Μελέτη περίπτωσης : Είναι το scratch διαδραστικό ;
+
+Μελέτη περίπτωσης στο προσωπικό site : 
+
+Αποθετήριο μελέτης περίπτωσης : https://github.com/p18kout/site/blob/master/_case-study/scratch.md
+
+Αποθετήριο κειμένου μελέτης : https://github.com/p18kout/site/blob/master/_case-study/cs-scratch.md
 
 ##### [9]
 
@@ -265,6 +275,10 @@ Script που χρησιμοποιήθηκε : https://github.com/p18kout/hci-im
 Πηγή : https://www.vim.org/
 
 ##### [10]
+
+## Συμμετοχικό περιεχόμενο 2Β
+
+## Βιογραφία : 
 
 ##### [11] 
 
@@ -311,3 +325,6 @@ Script που χρησιμοποιήθηκε : https://github.com/p18kout/hci-im
 https://computingforgeeks.com/linux-tmux-cheat-sheet/
 
 https://linoxide.com/best-linux-performance-monitoring-tools/
+
+##### [12]
+
