@@ -19,7 +19,7 @@
 | 8 | [συμμετοχικό περιεχόμενο 1B](#συμμετοχικό-περιεχόμενο-1β) |
 | 9 | [Άσκηση γραμμής εντολών](#άσκηση-γραμμής-εντολών---hci---organise-the-terminal-window-into-multiple-areas) |
 | 10 | [συμμετοχικό περιεχόμενο 2B](#συμμετοχικό-περιεχόμενο-2β) |
-| 11 | Άσκηση γραμμής εντολών |
+| 11 | [Άσκηση γραμμής εντολών](#άσκηση-γραμμής-εντολών---hci) |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
 # ΕΙΣΑΓΩΓΗ
@@ -129,6 +129,15 @@ Link Asciinema:
 ### Biography of Johnny Chung Lee:
 
 Link Biography:
-- 
+- https://github.com/p16foti/site/blob/2016046/_biography/johnny-chung-lee.md
+- https://github.com/p16foti/site/blob/2016046/_biography/bio-johnny-chung-lee.md
+
+References:
+
+http://johnnylee.net/academic/, http://johnnylee.net/projects/, 
+https://en.wikipedia.org/wiki/Johnny_Lee_(computer_scientist), https://www.wiimoteproject.com/,
+https://www.microsoft.com/applied-sciences/people/johnny-chung-lee
+
+# Άσκηση Γραμμής Εντολών - HCI
 
 
