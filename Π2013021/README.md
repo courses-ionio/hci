@@ -140,13 +140,17 @@
   
    ###### [8]
   
-   ## Παραδοτέο 8 : Συμμετοχικό περιεχόμενο Β1
+   ## Παραδοτέο 8 : Συμμετοχικό περιεχόμενο Β1 - Μελέτη περίπτωσης
   
    **Link αποθετήριου μελέτης περίπτωσης :** https://github.com/AlexandrosV20/site/blob/master/_case-study/sri.md
+  
+  https://github.com/AlexandrosV20/extras/blob/master/cs-sri.md
   
   **Πηγές:** https://www.sri.com/about-us/
   
   https://dougengelbart.org/content/view/273/
+  
+  
   
   
    ###### [9]
@@ -158,6 +162,19 @@
   <p>Αρχικά για το syntax highlighting στον editor vim, φτιάχνω μέσω του terminal ένα αρχείο <b>.vimrc</b> με την εντολή <b>vim /etc/.vimrc</b>. Επειδή το syntax highlighting είναι ενεργοποιημένο από default,στο αρχείο .vimrc που σημιουργήσαμε πατάμε <b>i</b> για να φύγουμε από το normal mode και να μπούμε στο edιting mode του vim. Μόλις μπούμε editing mode γράφουμε την εντολή <b>sytntax off</b> και πατάμε <b>Esc</b> για να επιστρέψουμε πάλι στο normal mode. Για να αποθηκέυσουμε τις αλλαγές και να βγούμε απο το αρχείο αυτό, πατάμε <b>:</b> και αμέσως μετά <b>wq</b> w για "write" και q για "quit". Μόλις γίνει αυτό τότε  δοκιμάζω να ανοίξω ένα πρόγραμμα σε c. Βλέπω οτι ενώ αρχκά ήταν highlighted  τώρα δεν έιναι. Εάν όμως θελήσουμε να το ξανακάνουμε highlighted πάμε στο normal mode με <b>Esc</b> αν βρισκόμαστε στο editing mode, και στην συνέχεια πατάμε <b>:</b> και γράφουμε syntax on όπου θα ενεργοποιήσει πάλι το syntax highlighting για το συγκεκριμένο αρχείο κώδικα.</p>
   
 
+  
+    
+  ###### [10]
+  
+   ## Παραδοτέο 8 : Συμμετοχικό περιεχόμενο Β2 - Βιογραφία
+  
+ **Link αποθετήριου βιογραφίας :** https://github.com/AlexandrosV20/site/blob/master/_biography/steve-bristow.md
+  
+  https://github.com/AlexandrosV20/extras/blob/master/bio-bristow.md
+  
+   **Πηγές:** https://www.digitalgamemuseum.org/steve-bristow-an-appreciation/
+  
+  https://arstechnica.com/gaming/2015/02/obituary-gaming-pioneer-steve-bristow-helped-design-tank-breakout/
   
   
   
