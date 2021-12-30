@@ -49,4 +49,4 @@
 * [Software design](http://worrydream.com/MagicInk/)
 * [Augmenting human intellect](https://apps.dtic.mil/sti/pdfs/AD0289565.pdf): βιβλίο για μελέτη μπόνους
 
-Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
+Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο με τον ΑΜ σας μέσα στον φάκελο projects και σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
