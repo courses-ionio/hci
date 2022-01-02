@@ -50,6 +50,9 @@
 
 #### [Shell script άσκησης, asciinema](https://asciinema.org/a/O9tpi9nBgiYkiYTNr8fVWxEEQ)
 #### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/weatherscriptvol3.sh)
+### Επειδή ήταν η πρώτη φορά που έκανα shell script, συμβουλεύθηκα αυτές τις πηγές:
+#### [Shell scripting tutorial](https://www.tutorialspoint.com/unix/shell_scripting.htm)
+#### [Shell scripting ,πως να γίνει εκτελέσιμο](https://www.andrewcbancroft.com/blog/musings/make-bash-script-executable/)
 
 ## Asciinema
 #### [Asciinema βίντεο 2ου παραδοτέου](https://asciinema.org/a/Nzc8vpIuJEhYg3WS9Y24rWJKN)
@@ -57,6 +60,7 @@
 ## Πηγές:
 #### [curl/wttr.in/v2.wttr.in](https://github.com/chubin/wttr.in)
 #### [Asciinema idle time](https://asciinema.org/docs/usage)
+#### [Εύρεση καιρού στο τερματικό](https://askubuntu.com/questions/390329/weather-from-terminal)
 
 
 ## Άσκηση γραμμής εντολών - 3ο παραδοτέο - fetch information
@@ -68,7 +72,11 @@
 ## Shell script
 
 #### [Shell script άσκησης, asciinema](https://asciinema.org/a/CVytyNrKMDXcfWADyB9yR1Iwx)
-#### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/newsscriptvol4.sh) 
+#### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/newsscriptvol4.sh)
+### Επειδή ήταν η πρώτη φορά που έκανα shell script, συμβουλεύθηκα αυτές τις πηγές:
+#### [Shell scripting tutorial](https://www.tutorialspoint.com/unix/shell_scripting.htm)
+#### [Shell scripting ,πως να γίνει εκτελέσιμο](https://www.andrewcbancroft.com/blog/musings/make-bash-script-executable/)
+
 
 ## Asciinema
 #### [Asciinema βίντεο 3ου παραδοτέου](https://asciinema.org/a/dOpEtNRxkycIk1nNG9oY3Kmos)
@@ -148,14 +156,17 @@
 ## Shell script:
 
 #### [Shell script άσκησης, asciinema](https://asciinema.org/a/WZbCpC2EiM459xOWS9bil1hUT)
-
 #### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/specsscript.sh) 
+### Επειδή ήταν η πρώτη φορά που έκανα shell script, συμβουλεύθηκα αυτές τις πηγές:
+#### [Shell scripting tutorial](https://www.tutorialspoint.com/unix/shell_scripting.htm)
+#### [Shell scripting ,πως να γίνει εκτελέσιμο](https://www.andrewcbancroft.com/blog/musings/make-bash-script-executable/)
+
  
 #### Προβλήματα και επίλυση:
 Δεν υπήρξαν κάποια προβλήματα σε αυτήν την άσκηση.
  
 ## Συμμετοχικό περιεχόμενο 2Α - 6ο παραδοτέο
-Για το συμμετοχικό περιεχόμενο 2Α, αποφάσισα να προσθέσω τις δυο εικόνες στις θεματικές διαφάνειες οι οποίες σχετίζονται με τα βιντεοπαιχνίδια και την τεχνολογία αντίστοιχα. Οι θεματικές διαφάνειες παρέχονται στο παρακάτω link. Όσον αφορά τα χρονολόγια, αποφάσισα να προσθέσω τις δυο εικόνες στα χρονολόγια συσκευών εισόδου και πολυμεσικών συστημάτων αντίστοιχα. Τα links περιέχονται παρακάτω.
+Για το συμμετοχικό περιεχόμενο 2Α, αποφάσισα να προσθέσω τις δυο εικόνες στις θεματικές διαφάνειες οι οποίες σχετίζονται με την τεχνολογία και τα βιντεοπαιχνίδια αντίστοιχα. Οι θεματικές διαφάνειες παρέχονται στο παρακάτω link. Όσον αφορά τα χρονολόγια, αποφάσισα να προσθέσω τις δυο εικόνες στα χρονολόγια πολυμεσικών συστημάτων και συσκευών εισόδου αντίστοιχα. Τα links περιέχονται παρακάτω.
 
 #### Σημείωση:
 Το αρχείο [playstationmove.md](https://github.com/p20sami/_gallery/blob/%CE%A02020023/playstationmove.md) εμφανίζεται κανονικά στην gallery του netlify, όμως στο σετ διαφανειών και στο χρονολόγιο που ενσωματώθηκε δεν εμφανίζεται. Παρότι ακολούθησα πιστά τις διαδικασίες (παραπάνω έχω παραθέσει τα αρχεία _config.yml, .gitmodules προς διαπίστωση σωστής τροποποίησης τους ώστε να "παίρνουν" τα στοιχεία απο τα σωστά repositories και submodules, ενώ έχουν γίνει update όλα τα submodules και έχει προστεθεί σωστά στις διαφάνειες και στο χρονολόγιο (υπάρχουν τα link των αρχείων .md των διαφανειών και του χρονολογίου που ενσωματώθηκε το αρχείο) ώστε να διαπιστωθεί η σωστή προσθήκη, δεν ήταν δυνατή η διόρθωση. Παρατηρώντας παρόμοια προβλήματα συναδέλφων (όπως η μη εμφάνιση χρονολογίου για παράδειγμα αλλά και μη εμφάνιση προστιθέμενων στοιχείων) πιστεύω πως αυτό είναι ένα πρόβλημα πέραν του δικού μου ελέγχου.
@@ -193,17 +204,20 @@
 #### [Asciinema βίντεο 7ου παραδοτέου](https://asciinema.org/a/ew1acNJVKEUaInp3sdnudyFpd)
 
 ## Shell script:
-
 #### [Shell script άσκησης, asciinema](https://asciinema.org/a/ncMUyRRTiLC7p0hzviNGv2FfI)
 #### [Shell script άσκησης, κώδικας](https://github.com/p20sami/shell-scripts/blob/main/tmuxscript.sh)
+### Επειδή ήταν η πρώτη φορά που έκανα shell script, συμβουλεύθηκα αυτές τις πηγές:
+#### [Shell scripting tutorial](https://www.tutorialspoint.com/unix/shell_scripting.htm)
+#### [Shell scripting ,πως να γίνει εκτελέσιμο](https://www.andrewcbancroft.com/blog/musings/make-bash-script-executable/)
+
 
 ## Πηγές:
 #### [Tmux και εντολές του](https://linuxize.com/post/getting-started-with-tmux/)
 #### [Glances](https://nicolargo.github.io/glances/)
-#### [w3m](https://en.wikipedia.org/wiki/W3m)
+#### [w3m](https://www.howtogeek.com/103574/how-to-browse-from-the-linux-terminal-with-w3m/)
 
 ## Συμμετοχικό περιεχόμενο 1Β - 8ο παραδοτέο
-Για το πρώτο μέρος του Β συμμετοχικού περιεχομένου, αποφάσισα να μελετήσω την περίπτωση του PlayStation X. Η εν λόγω συσκευή, συνδυάζει τα βιντεοπαιχνίδια και άλλες μορφές πολυμέσων, κυριότερα του βίντεο αλλά και του ήχου μέσα απο διάφορες λειτουργίες. Ουσιαστικά πρόκειται για έναν ψηφιακό καταγραφέα βίντεο με επιπρόσθετες πολυμεσικές λειτουργίες, αλλά ενσωμάτωνε και το PlayStation 2, δίνοντας την δυνατότητα στον χρήστη να παίξει αγαπημένα του βιντεοπαιχνίδια, μεταξύ άλλων. Παρακάτω παραθέτω τα αρχεία και τις πηγές μου,οι οποίες δεν είναι ιδιαίτερα πολλές λόγω της χαμηλής δημοτικότητας και αναγνωρισημότητας που γνώρισε.
+Για το πρώτο μέρος του Β συμμετοχικού περιεχομένου, αποφάσισα να μελετήσω την περίπτωση του PlayStation X. Η εν λόγω συσκευή, συνδυάζει τα βιντεοπαιχνίδια και άλλες μορφές πολυμέσων, κυριότερα του βίντεο αλλά και του ήχου μέσα απο διάφορες λειτουργίες. Ουσιαστικά πρόκειται για έναν ψηφιακό καταγραφέα βίντεο με επιπρόσθετες πολυμεσικές λειτουργίες, αλλά ενσωμάτωνε και το PlayStation 2, δίνοντας την δυνατότητα στον χρήστη να παίξει αγαπημένα του βιντεοπαιχνίδια, μεταξύ άλλων. Παρακάτω παραθέτω τα αρχεία και τις πηγές μου,οι οποίες δεν είναι ιδιαίτερα πολλές λόγω της χαμηλής δημοτικότητας και αναγνωρισημότητας που γνώρισε, οπότε και οι πηγές ήταν αρκετά περιορισμένες.
 
 ## Netlify
  
@@ -244,9 +258,9 @@ terminal. Χρειάστηκαν τα πακέτα youtube-dl, mpv αλλά λό
 ## Πηγές:
 
 #### [youtube-dl](https://github.com/ytdl-org/youtube-dl)
-
+#### [youtube-dl, πως κατεβάζεται ενα τραγούδι](https://askubuntu.com/questions/178481/how-to-download-an-mp3-track-from-a-youtube-video)
 #### [mpv](https://github.com/mpv-player/mpv)
-
+#### [mpv, αναπαραγωγή κομματιού](https://www.maketecheasier.com/mpv-cli-media-player/)
 #### [asoundconf](https://archlinux.org/packages/community/any/asoundconf/)
 
 
