@@ -102,8 +102,12 @@
 #### [Εικόνα zune σε μέγεθος 160px](https://github.com/p20sami/images/blob/%CE%A02020023/zunethumb.jpg)
 
 ## Πηγές:
-#### [zune](https://en.wikipedia.org/wiki/Zune)
-#### [Playstation Move](https://en.wikipedia.org/wiki/PlayStation_Move)
+#### [zune,wikipedia](https://en.wikipedia.org/wiki/Zune)
+#### [zune,the verge](https://www.theverge.com/22238668/microsoft-zune-fans-mp3-music-player-subreddit)
+#### [zune,the verge vol.2](https://www.theverge.com/2012/5/14/3019100/zune-hardware-mistake-robbie-bach)
+#### [Playstation Move,wikipedia](https://en.wikipedia.org/wiki/PlayStation_Move)
+#### [Playstation Move,techradar](https://www.techradar.com/reviews/gaming/gaming-accessories/playstation-move-713638/review)
+#### [Playstation Move,PlayStation Blog](https://blog.playstation.com/2010/06/15/this-changes-everything-playstation-move-available-september-19-2010/)
  
 ## Άσκηση γραμμής εντολών - 5ο παραδοτέο - set up the main dependencies and demonstrate your base system
 Για την άσκηση αυτή, επέλεξα να υλοποιήσω την άσκηση με τίτλο "set-up the main dependencies and demonstrate your base system", η οποία ζητούσε να αλλάξουμε το όνομα χρήστη του command prompt με τον αριθμό μητρώου μας, να δείξουμε τα dot files μας, να δείξουμε πληροφορίες για το shell καθώς και πληροφορίες για το σύστημα (λογισμικό/υλικό). Είναι της λίστας warm up, καθώς μέχρι το σημείο αυτό πιστεύω πως πρέπει να εξοικειωθώ ακόμη περισσότερο με την γραμμή εντολών, πρωτού προχωρήσω σε δυσκολότερες ασκήσεις. Ξεκινώντας λοιπόν, αρχικά άλλαξα το όνομα χρήστη, με τον αριθμό μητρώου, με την εντολή hostnamectl set-hostname, μου με δύο τρόπους. Ο ένας απαιτούσε επανεκκίνηση του συστήματος για να γίνει η αλλαγή, ενώ ο δεύτερος δεν το απαιτούσε κάποια τέτοια ενέργεια, καθώς χρησιμοποίησα την εντολή bash --login. Βέβαια, με τον τρόπο αυτόν, κάθε φορά που προσπαθούσα να βιντεοσκοπήσω κάποιο άλλο κομμάτι της άσκησης με το asciinema, το command prompt άλλαζε στο όνομα χρήστη το οποίο υπήρχε πριν την αλλαγή. Παρακάτω παραθέτω τα βίντεο στο asciinema με τους τρόπους αλλαγής του ονόματος χρήστη, όπως επίσης παραθέτω βίντεο στο asciinema και κώδικα ενός shell script, με το οποίο ο χρήστης μπορεί να δει πληροφορίες λογισμικού και υλικού του υπολογιστή του :
@@ -191,7 +195,7 @@
 #### [w3m](https://en.wikipedia.org/wiki/W3m)
 
 ## Συμμετοχικό περιεχόμενο 1Β - 8ο παραδοτέο
-Για το πρώτο μέρος του Β συμμετοχικού περιεχομένου, αποφάσισα να μελετήσω την περίπτωση του PlayStation X. Η εν λόγω συσκευή, συνδυάζει τα βιντεοπαιχνίδια και άλλες μορφές πολυμέσων, κυριότερα του βίντεο αλλά και του ήχου μέσα απο διάφορες λειτουργίες. Ουσιαστικά πρόκειται για έναν ψηφιακό καταγραφέα βίντεο με επιπρόσθετες πολυμεσικές λειτουργίες, αλλά ενσωμάτωνε και το PlayStation 2, δίνοντας την δυνατότητα στον χρήστη να παίξει αγαπημένα του βιντεοπαιχνίδια, μεταξύ άλλων. Παρακάτω παραθέτω τα αρχεία και τις πηγές μου.
+Για το πρώτο μέρος του Β συμμετοχικού περιεχομένου, αποφάσισα να μελετήσω την περίπτωση του PlayStation X. Η εν λόγω συσκευή, συνδυάζει τα βιντεοπαιχνίδια και άλλες μορφές πολυμέσων, κυριότερα του βίντεο αλλά και του ήχου μέσα απο διάφορες λειτουργίες. Ουσιαστικά πρόκειται για έναν ψηφιακό καταγραφέα βίντεο με επιπρόσθετες πολυμεσικές λειτουργίες, αλλά ενσωμάτωνε και το PlayStation 2, δίνοντας την δυνατότητα στον χρήστη να παίξει αγαπημένα του βιντεοπαιχνίδια, μεταξύ άλλων. Παρακάτω παραθέτω τα αρχεία και τις πηγές μου,οι οποίες δεν είναι ιδιαίτερα πολλές λόγω της χαμηλής δημοτικότητας και αναγνωρισημότητας που γνώρισε.
 
 ## Netlify
  
@@ -210,6 +214,11 @@
  
 ## Πηγές:
 #### [PlayStation X, Wikipedia](https://en.wikipedia.org/wiki/PSX_(digital_video_recorder))
+#### [PlayStation X, fandom](https://retroconsoles.fandom.com/wiki/PSX_(digital_video_recorder))
+#### [PlayStation X, videogameconsolelibrary](https://retroconsoles.fandom.com/wiki/PSX_(digital_video_recorder))
+#### [PlayStation X, juicygamereviews](http://www.juicygamereviews.com/retro-game-reviews/the-sony-psx-console-is-a-hidden-gem)
+#### [XrossMediaBar](https://manuals.playstation.net/document/en/ps3/current/basicoperations/xmb.html)
+
 
  
 ## Άσκηση γραμμής εντολών - 9ο παραδοτέο - Download mp3
@@ -253,6 +262,12 @@ terminal. Χρειάστηκαν τα πακέτα youtube-dl, mpv αλλά λό
 ## Πηγές:
 
 #### [Karlheinz Brandenburg-Wikipedia](https://en.wikipedia.org/wiki/Karlheinz_Brandenburg)
+#### [Karlheinz Brandenburg-Wikiwand](https://www.wikiwand.com/en/Karlheinz_Brandenburg)
+#### [About Karlheinz Brandenburg](https://peoplepill.com/people/karlheinz-brandenburg)
+#### [The mp3 team](https://www.mp3-history.com/en/the_mp3_team.html)
+#### [mp3 and aac explained](https://www.ee.columbia.edu/~dpwe/papers/Brand99-mp3.pdf)
+#### [The History of MP3 Technology](https://www.thoughtco.com/history-of-mp4-1992132)
+#### [How Karlheinz Brandenburg invented the mp3](https://blogs.windows.com/devices/2013/01/29/eureka-people-how-karlheinz-brandenburg-invented-the-mp3/)
 #### [An interview with the father of mp3](http://www.internethistorypodcast.com/2015/07/on-the-20th-birthday-of-the-mp3-an-interview-with-the-father-of-the-mp3-karlheinz-brandenburg/)
  
 ## Άσκηση γραμμής εντολών - 11ο παραδοτέο - try different text based web browsers and get used to the keyboard shortcuts for one
