@@ -236,7 +236,7 @@
 ## Πηγές:
 #### [PlayStation X, Wikipedia](https://en.wikipedia.org/wiki/PSX_(digital_video_recorder))
 #### [PlayStation X, fandom](https://retroconsoles.fandom.com/wiki/PSX_(digital_video_recorder))
-#### [PlayStation X, videogameconsolelibrary](https://retroconsoles.fandom.com/wiki/PSX_(digital_video_recorder))
+#### [PlayStation X, videogameconsolelibrary](https://www.videogameconsolelibrary.com/pg00-psx.htm#page=reviews)
 #### [PlayStation X, juicygamereviews](http://www.juicygamereviews.com/retro-game-reviews/the-sony-psx-console-is-a-hidden-gem)
 #### [XrossMediaBar](https://manuals.playstation.net/document/en/ps3/current/basicoperations/xmb.html)
 
