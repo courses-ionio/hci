@@ -172,6 +172,14 @@
 #### [zune, διαφάνειες](https://github.com/p20sami/site/blob/%CE%A02020023/_slides/technology.md) | [zune, χρονολόγιο](https://github.com/p20sami/site/blob/%CE%A02020023/_timeline/multimedia.md) 
 
 #### [Playstation Move, διαφάνειες](https://github.com/p20sami/site/blob/%CE%A02020023/_slides/videogames.md) | [Playstation Move, χρονολόγιο](https://github.com/p20sami/site/blob/%CE%A02020023/_timeline/input-devices.md)
+ 
+## Πηγές:
+#### [zune,wikipedia](https://en.wikipedia.org/wiki/Zune)
+#### [zune,the verge](https://www.theverge.com/22238668/microsoft-zune-fans-mp3-music-player-subreddit)
+#### [zune,the verge vol.2](https://www.theverge.com/2012/5/14/3019100/zune-hardware-mistake-robbie-bach)
+#### [Playstation Move,wikipedia](https://en.wikipedia.org/wiki/PlayStation_Move)
+#### [Playstation Move,techradar](https://www.techradar.com/reviews/gaming/gaming-accessories/playstation-move-713638/review)
+#### [Playstation Move,PlayStation Blog](https://blog.playstation.com/2010/06/15/this-changes-everything-playstation-move-available-september-19-2010/)
 
  
 ## Άσκηση γραμμής εντολών - 7ο παραδοτέο - organise the terminal window into multiple areas
