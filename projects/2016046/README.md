@@ -19,7 +19,7 @@
 | 8 | [συμμετοχικό περιεχόμενο 1B](#συμμετοχικό-περιεχόμενο-1β) |
 | 9 | [Άσκηση γραμμής εντολών](#άσκηση-γραμμής-εντολών---hci---organise-the-terminal-window-into-multiple-areas) |
 | 10 | [συμμετοχικό περιεχόμενο 2B](#συμμετοχικό-περιεχόμενο-2β) |
-| 11 | [Άσκηση γραμμής εντολών](#άσκηση-γραμμής-εντολών---hci) |
+| 11 | [Άσκηση γραμμής εντολών](#άσκηση-γραμμής-εντολών---hci---organize-your-notes-with-emacs) |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
 # ΕΙΣΑΓΩΓΗ
@@ -140,6 +140,14 @@ http://johnnylee.net/academic/, http://johnnylee.net/projects/,
 https://en.wikipedia.org/wiki/Johnny_Lee_(computer_scientist), https://www.wiimoteproject.com/,
 https://www.microsoft.com/applied-sciences/people/johnny-chung-lee
 
-# Άσκηση Γραμμής Εντολών - HCI
+# Άσκηση Γραμμής Εντολών - HCI - Organize Your Notes With Emacs
+
+Link Asciinema:
+- https://asciinema.org/a/BbxfuyzcYml8PpyvizB9WAjWf
+
+Εκτέλεσα την εντολή emacs -nw για να ανοίξει το emacs editor σε μορφή terminal.Έπειτα, πληκτρολόγησα ctrl + x + f για να ανοίξω ένα καινούργιο αρχείο, μετά πληκτρολόγησα alt + x και μετά org-mode για να αλλάξει σε org mode ο editor.Στη συνέχεια, οργάνωσα το πρόγραμμα της ημέρας χρησιμοποιώντας αστερίσκους πατώντας alt + enter και για δύο αστερίσκους alt + enter + right arrow.Όρισα καταστάσεις(todo) πατώντας shift + right arrow και όρισα κατηγορίες(home,outdoor) πατώντας ctrl + c + c γι κάθε αντικείμενο.Πατώντας alt + x και org-agenda εμφανίζονται διάφορα χαρακτηριστικά όπως agenda for current week or day(πατώντας το a).Τέλος, πατάμε ctrl + x + c για να αποθηκεύσουμε το αρχείο μας και να βγούμε από το emacs.
+
+
+
 
 
