@@ -145,7 +145,7 @@ https://www.microsoft.com/applied-sciences/people/johnny-chung-lee
 Link Asciinema:
 - https://asciinema.org/a/BbxfuyzcYml8PpyvizB9WAjWf
 
-Εκτέλεσα την εντολή emacs -nw για να ανοίξει το emacs editor σε μορφή terminal.Έπειτα, πληκτρολόγησα ctrl + x + f για να ανοίξω ένα καινούργιο αρχείο, μετά πληκτρολόγησα alt + x και μετά org-mode για να αλλάξει σε org mode ο editor.Στη συνέχεια, οργάνωσα το πρόγραμμα της ημέρας χρησιμοποιώντας αστερίσκους πατώντας alt + enter και για δύο αστερίσκους alt + enter + right arrow.Όρισα καταστάσεις(todo) πατώντας shift + right arrow και όρισα κατηγορίες(home,outdoor) πατώντας ctrl + c + c γι κάθε αντικείμενο.Πατώντας alt + x και org-agenda εμφανίζονται διάφορα χαρακτηριστικά όπως agenda for current week or day(πατώντας το a).Τέλος, πατάμε ctrl + x + c για να αποθηκεύσουμε το αρχείο μας και να βγούμε από το emacs.
+Εκτέλεσα την εντολή emacs -nw για να ανοίξει το emacs editor σε μορφή terminal.Έπειτα, πληκτρολόγησα ctrl + x + f για να ανοίξω ένα καινούργιο αρχείο, μετά πληκτρολόγησα alt + x και μετά org-mode για να αλλάξει σε org mode ο editor.Στη συνέχεια, οργάνωσα το πρόγραμμα της ημέρας χρησιμοποιώντας αστερίσκους πατώντας alt + enter και για δύο αστερίσκους alt + enter + right arrow.Όρισα καταστάσεις(todo) πατώντας shift + right arrow και όρισα κατηγορίες(home,outdoor) πατώντας ctrl + c + c για κάθε αντικείμενο.Πατώντας alt + x και org-agenda εμφανίζονται διάφορα χαρακτηριστικά όπως agenda for current week or day(πατώντας το a).Τέλος, πατάμε ctrl + x + c για να αποθηκεύσουμε το αρχείο μας και να βγούμε από το emacs.
 
 
 
