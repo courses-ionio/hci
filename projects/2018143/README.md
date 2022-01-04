@@ -148,13 +148,13 @@ asciinema link : https://asciinema.org/a/447206
 
 Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/javascript-thumb.jpg
 
-# Εικόνα 2 : Scratch
+# Εικόνα 2 : PHP
 
-Εικόνα στο προσωπικό site : https://p18kout.netlify.app/gallery/scratch/
+Εικόνα στο προσωπικό site : 
 
-Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/scratch.md
+Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/php.md
 
-Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/scratch-thumb.png
+Αποθετήριο thumbnail : https://github.com/p18kout/images/blob/master/php-thumb.png
 
 
 ##### [5]
