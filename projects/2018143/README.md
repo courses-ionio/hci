@@ -142,7 +142,7 @@ asciinema link : https://asciinema.org/a/447206
 
 # Εικόνα 1 : JavaScript
 
-Εικόνα στο προσωπικό site : 
+Εικόνα στο προσωπικό site : https://p18kout.netlify.app/gallery/javascript/
 
 Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/javascript.md
 
@@ -150,7 +150,7 @@ asciinema link : https://asciinema.org/a/447206
 
 # Εικόνα 2 : Scratch
 
-Εικόνα στο προσωπικό site : 
+Εικόνα στο προσωπικό site : https://p18kout.netlify.app/gallery/scratch/
 
 Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/scratch.md
 
@@ -190,13 +190,13 @@ asciinema link : https://asciinema.org/a/449720
 
 ## Διαφάνειες 
 
-Διαφάνειες στο προσωπικό site : 
+Διαφάνειες στο προσωπικό site : https://p18kout.netlify.app/slides/programming/
 
 Αποθετήριο διαφανειών : https://github.com/p18kout/site/blob/master/_slides/programming.md
 
 ## Χρονολόγιο 
 
-Χρονολόγιο στο προσωπικό site :
+Χρονολόγιο στο προσωπικό site : https://p18kout.netlify.app/timeline/programming/
 
 Αποθετήριο χρονολογίου : https://github.com/p18kout/site/blob/master/_timeline/programming.md
 
@@ -280,7 +280,7 @@ Script που χρησιμοποιήθηκε : https://github.com/p18kout/hci-im
 
 ## Βιογραφία : Brendan Eich
 
-Βιογραφία στο προσωπικό site : 
+Βιογραφία στο προσωπικό site : https://p18kout.netlify.app/biography/brendan-eich/
 
 Αποθετήριο βιογραφίας : https://github.com/p18kout/site/blob/master/_biography/brendan-eich.md
 
