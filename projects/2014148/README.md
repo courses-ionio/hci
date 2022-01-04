@@ -68,6 +68,12 @@
  Για το xerox alto mouse: [slides-styles](https://github.com/p14ntot/site/blob/master/_slides/styles.md) | [timeline-input-devices](https://github.com/p14ntot/site/blob/master/_timeline/input-devices.md)
  
  Για το arch linux: [slides-gui](https://github.com/p14ntot/site/blob/master/_slides/gui.md) | [timeline-systems](https://github.com/p14ntot/site/blob/master/_timeline/systems.md)
+ 
+ 
+ # Εβδομάδα 7
+   Αυτήν την εβδομάδα αποφάσισα να κάνω την άσκηση με τίτλο Download mp3: search, download and play (with the terminal) your favorite song of the month from youtube. Αρχίκα έγινε η εγκατάσταση των απαραίτητων προγραμμάτων (Youtube-dl και MPV). Όπως φαίνεται και στο παρακάτω link, με την χρήση του youtube-dl και με την εντολή -F μπορούμε να βρούμε τον κωδικό(format) απο το τραγούδι που μας ενδιαφέρει να κατεβάσουμε. Στην συνέχεια και με την εντολή -f μπορούμε να κάνουμε το download. Τέλος, η αναπαραγωγή γίνεται με την χρήση του προγράμματος mpv.
+   
+   [asciinema link](https://asciinema.org/a/459883)
 
 
 
