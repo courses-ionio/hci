@@ -282,9 +282,9 @@ Script που χρησιμοποιήθηκε : https://github.com/p18kout/hci-im
 
 Βιογραφία στο προσωπικό site : 
 
-Αποθετήριο βιογραφίας :
+Αποθετήριο βιογραφίας : https://github.com/p18kout/site/blob/master/_biography/brendan-eich.md
 
-Αποθετήριο κειμένου βιογραφίας :
+Αποθετήριο κειμένου βιογραφίας : https://github.com/p18kout/site/blob/master/_biography/bio-eich.md
 
 Πηγή : http://www.edubilla.com/inventor/brendan-eich/
 
