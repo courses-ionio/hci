@@ -232,13 +232,13 @@ asciinema link : https://asciinema.org/a/444197
 
 ## Συμμετοχικό περιεχόμενο 1Β
 
-## Μελέτη περίπτωσης : Είναι το scratch διαδραστικό ;
+## Μελέτη περίπτωσης : Χρήση PHP για δημιουργία διαδραστικών ιστοσελίδων
 
 Μελέτη περίπτωσης στο προσωπικό site : 
 
-Αποθετήριο μελέτης περίπτωσης : https://github.com/p18kout/site/blob/master/_case-study/scratch.md
+Αποθετήριο μελέτης περίπτωσης : https://github.com/p18kout/site/blob/master/_case-study/php.md
 
-Αποθετήριο κειμένου μελέτης : https://github.com/p18kout/site/blob/master/_case-study/cs-scratch.md
+Αποθετήριο κειμένου μελέτης : https://github.com/p18kout/site/blob/master/_case-study/cs-php.md
 
 ##### [9]
 
