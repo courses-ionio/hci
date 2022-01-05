@@ -107,3 +107,11 @@
 <br />
 
 # **Άσκηση γραμμής εντολών - 8ο παραδοτέο**
+
+Γιά 8ο παραδοτέο επέλεξα το surf the web που ζητάει την κατασκευή ενός κaiνούριου elvi, έτσι ώστε να εξοικεωθώ με την δημιουργία config αρχείων. Το σηγκεκριμένο command ψάχνει στο site gsmarena πληροφορίες για το κινητό της επιλογής σας.
+
+## Peek Video
+https://user-images.githubusercontent.com/72318224/148303447-29afcdf3-1ea0-420d-8947-b70c0def4590.mp4
+
+## **Links**
+### [Surfraw](https://gitlab.com/surfraw/Surfraw)
