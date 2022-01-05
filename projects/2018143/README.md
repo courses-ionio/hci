@@ -16,7 +16,7 @@
 | 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion(hci) </a></sup> |
 | 10 | <sup><a href="#10"> συμμετοχικό περιεχόμενο 2B </a></sup> |
 | 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών : organise the terminal window into multiple areas(hci) </a></sup> |
-| 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
+| 12 | <sup><a href="#12"> Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση </a></sup> |
 
 ##### [1]    
 
