@@ -35,6 +35,8 @@ asciinema profile : https://asciinema.org/~p18kout
 
 ##### [2]
 
+## Εγκατάσταστη Archlinux :
+
 Διαδικασία :
 
 • Λήψη κατάλληλου αρχείου ISO των Arch Linux
