@@ -75,6 +75,11 @@
    
    [asciinema link](https://asciinema.org/a/459883)
 
+# Εβδομάδα 9
+ Αυτήν την εβδομάδα αποφάσισα να κάνω την άσκηση με τίτλο: Text editor and plug-ins for code highlighting and autocompletion(edit the vim or the shell configuration file). Η άσκηση χωρίζεται σε 2 μέρη συνεπώς και σε 2 βίντεο στο asciinema.Στο πρώτο κομμάτι ασχολήθηκα με την επεξεργασία  του vim configuration file. Οι αλλαγές μπορούν να παρατηρηθούν στο πρώτο βίντεο συγκρίνοντας το ίδιο κείμενο που εμφανίζεται στο 0:09 και 1:49. Εν συντομία οι αλλαγές έχουν να κάνουν με 1) την αρίθμηση των γραμμών 2)την προσθήκη μπάρας στο κάτω μέρος του κειμενου 3) ρύθμιση της συμβατότητας μόνο σε vim 4)ρύθμιση του encoding σε utf-8 5) Ενεργοποίηση του wraping.
+ 
+ 
+ [asciinema link 1](https://asciinema.org/a/460101)
 
 
 ## Syllabus
