@@ -150,7 +150,7 @@ asciinema link : https://asciinema.org/a/447206
 
 # Εικόνα 2 : PHP
 
-Εικόνα στο προσωπικό site : 
+Εικόνα στο προσωπικό site : https://p18kout.netlify.app/gallery/php/
 
 Αποθετήριο εικόνας : https://github.com/p18kout/_gallery/blob/master/php.md
 
@@ -234,7 +234,7 @@ asciinema link : https://asciinema.org/a/444197
 
 ## Μελέτη περίπτωσης : Χρήση PHP για δημιουργία διαδραστικών ιστοσελίδων
 
-Μελέτη περίπτωσης στο προσωπικό site : 
+Μελέτη περίπτωσης στο προσωπικό site : https://p18kout.netlify.app/case-study/php/
 
 Αποθετήριο μελέτης περίπτωσης : https://github.com/p18kout/site/blob/master/_case-study/php.md
 
