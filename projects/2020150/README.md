@@ -101,6 +101,8 @@
 |  |  |
 | James Fergason |  |
 ## **Links**
+### James Fergason
+[Ohio History Central](https://ohiohistorycentral.org/w/LCD) | [Wikipedia](https://en.wikipedia.org/wiki/James_Fergason#cite_note-Legends-4) | [MIT Program archieved](https://web.archive.org/web/20090208154935/http://web.mit.edu/invent/a-winners/a-fergason.html) | [Youtube Interview](https://youtu.be/It1AtTcpQhc)
 
 <br />
 
