@@ -20,7 +20,7 @@
 | 6 | [συμμετοχικό περιεχόμενο 2A](https://github.com/p14ntot/hci/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-6) |
 | 7 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-7) |
 | 8 | συμμετοχικό περιεχόμενο 1B |
-| 9 | Άσκηση γραμμής εντολών |
+| 9 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-9) |
 | 10 | συμμετοχικό περιεχόμενο 2B |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
