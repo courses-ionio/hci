@@ -1,5 +1,10 @@
 ΌΝΟΜΑ : ΣΩΤΗΡΙΟΣ ΚΟΥΤΟΠΟΥΛΗΣ
+
 ΑΡΙΘΜΟΣ ΜΗΤΡΩΟΥ : Π2018143
+
+Edpuzzle profile : p18kout Π2018143
+
+Actively Learn profile : p18kout P2018143
 
 # Παραδοτέα
 
@@ -336,3 +341,35 @@ https://linoxide.com/best-linux-performance-monitoring-tools/
 
 ##### [12]
 
+## Τελική αναφορά :
+
+### Σύνοψη παραδοτέων : 
+
+| Παραδοτέο | Ολοκλήρωση |
+| --- | --- |
+| Φορκ του αποθετηρίου,δημιουργία της σελίδας της αναφοράς και εισαγωγή με περιγραφή των αναγκών και στόχων για το μάθημα | ΕΓΚΥΡΟ COMMIT , 100% |
+| Εγκατάσταστη Archlinux / Άσκηση γραμμής εντολών : set-up the main dependencies and demonstrate your base system(warmup) | ΕΓΚΥΡΟ COMMIT , 100% |
+| Άσκηση γραμμής εντολών : get familiar with basic commands, reading documentation and editing files(warmup) | ΕΓΚΥΡΟ COMMIT , 100% |
+| Συμμετοχικό περιεχόμενο 1A | ΕΓΚΥΡΟ COMMIT , 100% |
+| Άσκηση γραμμής εντολών : check the weather(warmup) | ΕΓΚΥΡΟ COMMIT , 100% |
+| Συμμετοχικό περιεχόμενο 2A | ΕΓΚΥΡΟ COMMIT , 100% |
+| Άσκηση γραμμής εντολών : download mp3(hci) | ΕΓΚΥΡΟ COMMIT , 100% |
+| Συμμετοχικό περιεχόμενο 1B | ΕΓΚΥΡΟ COMMIT , 100% |
+| Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion(hci) | ΕΓΚΥΡΟ COMMIT , 100% |
+| Συμμετοχικό περιεχόμενο 2B | ΕΓΚΥΡΟ COMMIT , 100% |
+| Άσκηση γραμμής εντολών : organise the terminal window into multiple areas(hci) | ΕΓΚΥΡΟ COMMIT , 100% |
+| Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση | ΕΓΚΥΡΟ COMMIT , 100% |
+
+### Σύντομη ανάλυση εργαλείων : 
+
+Για την υλοποίηση των παραδοτέων χρησιμοποιήθηκαν το github για την ενημέρωση της αναφοράς , το asciinema για την καταγραφή terminal και το netlify για το deploy του προσωπικού site στα παραδοτέα συμμετοχικού περιεχομένου.
+
+### Συμπεράσματα : 
+
+### Βιβλιογραφία : 
+
+[Adding a submodule](https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8)
+
+[Updating a submodule](https://asciinema.org/a/bUMPJqXb9sepWRdlJPyToMpwl)
+
+[Deleting a submodule](https://asciinema.org/a/3gFABL73VAJ21UoA4SVzlfRaf)
