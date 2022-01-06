@@ -41,6 +41,7 @@
 
 # **Άσκηση γραμμής εντολών - 2ο παραδοτέο**
 Στην 1η άσκηση γραμμής εντολών διάλεξα απο τα warm up όπου μας ζητάει να δείξουμε πληροφορίες συστήματος και τα dot αρχεία. Αυτό το έκανα με την χρήση των πακέτων  ``neofetch``  και  ``ls``. Η καταγραφή του terminal έγινε και πάλι με ``asciicast``. Με αυτόν τον τρόπο μαθαίνω πως να χρησιμοποιήσω το pacman που παρέχεται στα arch linux distribution αλλά και να εξοικειωθώ με την χρήση terminal commands, που χρησιμοποι΄΄ω για πρότη φορά.
+
 ## **Links**
 ### **[neofetch](https://man.archlinux.org/man/neofetch.1)**   |   **[ls](https://man.archlinux.org/man/ls.1.en)** 
 ### **[Terminal Recording](https://asciinema.org/a/IxlCxmMDKKY7EcjFgjpVQWtx8)**
@@ -49,6 +50,7 @@
 
 # **Άσκηση γραμμής εντολών - 3ο παραδοτέο**
 Αρχικά επέλεξα την άσκηση γραμμής εντολών που ζητάει να ελέγξω τον καιρό από δύο πόλεις στα warm-up, καθώς είναι πολύ απλό το installation και θα με βοηθήσει να εξοικειωθώ με την λήψη και εκτέλεση packages. Αυτό γίνεται με την χρήση του ``curl`` package που δίνει πληροφορίες για διάφορες ιστοσελίδες και του ``wttr.in/`` πού λαμβάνει πληροφορίες για τον καιρό. Η καταγραφή έγινε σε terminal μέσω ``asciicast``.
+
 ## **Links**
 ### **[Curl](https://curl.se/)**   |   **[wttr.in](https://github.com/chubin/wttr.in)**
 ### **[Weather Recording](https://asciinema.org/a/XWrSnhxebWnZCFVUq6yC9JnFe)** 
@@ -57,10 +59,12 @@
 
 # **Συμμετοχικό περιεχόμενο 1Α**
 Στο 1ο μέρος του συμμετοχικού περιεχομένου Α, επέλεξα να μιλήσω για τις Quantum Dot Displays (Οθόνες με κβαντικές κουκίδες), οι οποίες πιστεύω μπορούν να αλλάξουν και βελτίωσαν πολύ την εμπειρία θέασης καθώς και για την πρώτη συσκευή με οθόνη oled το XEL-1 της Sony.
+
 | Περιγραφή | Repository Link |
 | --- | --- |
 | Quantum Dot Display | [quantum-dot-display.md](https://github.com/thanosks/_gallery/blob/2020150/quantum-dot-display.md) |
 | XEL-1 | [XEL-1.md](https://github.com/thanosks/_gallery/blob/2020150/xel-1.md) |
+
 ## **Links**
 Το Link για την wikipedia δεν χρησιμοποιήθηκε ιδιαίτερα και οι περισσότερες πληροφορίες για το XEL-1 προήλθαν από το YouTube βίντεο.Όσον αφορά τις πληροφορίες για την τεχνολογία quantum dot έγραψα με βάση ήδη υπάρχουσες γνώσεις που έχω πέρα από την συγκεκριμένη πηγή.
 ### **[YouTube Xel-1 review](https://youtu.be/j7GUSltewuA)**   |   **[XEL-1](https://en.wikipedia.org/wiki/Sony_XEL-1)**
@@ -88,6 +92,7 @@
 
 ## **Προβλήματα που χρειάστηκε να επιλυθούν πριν την εκτέλεση**
 Ένα πρόβλημα που αντιμετώπισα κατά την ολοκλήρωση της άσκησης ήταν η καταγραφή όλων των "sub-terminal" με το asciinema, καθώς δεν ήταν άμεσα υποστηριζόμενη η καταγραφή ολόκληρου του παραθύρου. Έπρεπε να δημιουργήσεις από πρίν ένα session tmux και μετά να αρχίσεις την καταγραφή κάνωντας attach το asciinema σύμφωνα με το documentation. Η εκτέλεση της εντολής attach όταν βρισκόμουν μέσα στο tmux session προκαλούσε ένα γραφικό bug στο terminal κάνοντάς το άχρηστο. Κατάφερα τελικά να κάνω την καταγραφή κλείνοντας το ήδη υπάρχων session και κάνοντας μετα τις εντολές καταγραφής του asciinemα, πράγμα πολύ δύσχρηστο προς τον νέο χρήστη.
+
 ## **Links**
 ### [Glances](https://man.archlinux.org/man/glances.1) | [tmux](https://man.archlinux.org/man/tmux.1)
 ### [Asciinema Recording](https://asciinema.org/a/L8y0Dmoj22IQ4ggEFzAbc9v68)
@@ -95,12 +100,17 @@
 <br />
 
 # **Συμμετοχικό περιεχόμενο 1β - 2β**
-Όσον αφορά την βιογραφία αποφάσησα να γράψω για τον James Fergason, ο οποίος ήταν ο εφευρέτης των licuid crystals που χρησιμοποιούνται μεχρι και σήμερα στις οθόνες lcd.
+Ως την νέα μελέτη περίπτωσης αποφάσησα να γράψω για την πρώτη συσκευή με οθόνη αφής καθώς πιστεύω οι οθόνες αυτές επιτρέπουν την ευκολότερη διάδραση με τον υπολογιστή δημιουργόντας μία 2 σε 1 εμπειρία .Όσον αφορά την βιογραφία αποφάσησα να γράψω για τον James Fergason, ο οποίος ήταν ο εφευρέτης των licuid crystals που χρησιμοποιούνται μεχρι και σήμερα στις οθόνες lcd.
+
 | Περιγραφή | Repository Link |
 | --- | --- |
-|  |  |
+| IBM Simon Personal Communicator | [ibm-simon.md](https://github.com/thanosks/site/blob/2020150/_case-study/ibm-simon.md) |
 | James Fergason | [james-fergason.md](https://github.com/thanosks/site/blob/2020150/_biography/james-fergason.md) |
+
 ## **Links**
+### IBM Simon Personal Communicator
+[Microsoft](https://www.microsoft.com/buxtoncollection/detail.aspx?id=40) | [Wikipedia](https://en.wikipedia.org/wiki/IBM_Simon)
+
 ### James Fergason
 [Ohio History Central](https://ohiohistorycentral.org/w/LCD) | [Wikipedia](https://en.wikipedia.org/wiki/James_Fergason#cite_note-Legends-4) | [MIT Program archieved](https://web.archive.org/web/20090208154935/http://web.mit.edu/invent/a-winners/a-fergason.html) | [Youtube Interview](https://youtu.be/It1AtTcpQhc)
 
