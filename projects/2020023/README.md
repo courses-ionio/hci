@@ -5,6 +5,7 @@
 ## [Netlify site](https://p2020023-pibook.netlify.app/)
 ## [GitHub profile](https://github.com/p20sami)
 ## [Site repository](https://github.com/p20sami/site/tree/%CE%A02020023)
+## [random pics repository](https://github.com/p20sami/randompics)
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
 | 1 | [Εισαγωγή και σύνοψη - 1ο παραδοτέο](#εισαγωγή-και-σύνοψη---1ο-παραδοτέο) |
