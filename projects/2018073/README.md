@@ -90,3 +90,5 @@
 Απάντηση σε ερώτηση συμφοιτητή για τις ατομικές παρουσιάσεις προόδου: [Απάντηση για την συνάντηση](https://github.com/courses-ionio/hci/discussions/1641)
 
 Επεξήγηση για το συμμετοχικό υλικό: [Σχετική απάντηση εδώ](https://github.com/courses-ionio/hci/discussions/1662)
+
+Επεξήγηση για τις ασκήσεις γραμμής εντολών: [Η επεξήγηση φαίνεται εδώ](https://github.com/courses-ionio/hci/discussions/1673)
