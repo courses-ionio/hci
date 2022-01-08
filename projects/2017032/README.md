@@ -43,6 +43,15 @@
 ### Παραδοτέο 10 (2Β Βιογραφία)
 [Link βιβλιογραφίας](https://github.com/p17balo/site/blob/master/_biography/dennis-ritchie.md)
 
+### Παραδοτέο 11 (fetch information)
+[Asciinema Link](https://asciinema.org/a/5CO1YzNhyskBytPF9xeMvhzsO)
+<br>
+<p align="center">
+<img src="https://i.postimg.cc/Bntqq6cb/Screenshot-7.jpg" >
+ <p/>
+<br>
+
+
 
 ### Παραδοτέο 4 (Mouse Form)
 [Codepen Link](https://codepen.io/p17balo/pen/XWgNXXG)
@@ -61,13 +70,6 @@
 
 
 
-### Παραδοτέο 8 (fetch information)
-[Asciinema Link](https://asciinema.org/a/5CO1YzNhyskBytPF9xeMvhzsO)
-<br>
-<p align="center">
-<img src="https://i.postimg.cc/Bntqq6cb/Screenshot-7.jpg" >
- <p/>
-<br>
 
 
 ### Παραδοτέο 9 (Image Zoom)
