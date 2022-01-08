@@ -29,9 +29,13 @@
  <p/>
 <br>
 
+
+### Παραδοτέο 9 (check the weather)
+[Asciinema Link](https://asciinema.org/a/E8ejJBO8hVLAyeTaK5W6vK0bd)
+Στο παραδοτέο 5 επιλέχθηκε η άσκηση Check The weather. Κατά την άσκηση παρουσιάστηκε ο καιρός που έχει γίνει πρόβλεψη για κάποιες συγκεκριμένες πόλεις της Ελλάδας και του εξωτερικού.
 <br>
 <p align="center">
-<img src="https://i.postimg.cc/8C5TzCRs/Screenshot-2.jpg" >
+<img src="https://i.postimg.cc/BQsNFPXY/Screenshot-6.jpg" >
  <p/>
 <br>
 
@@ -45,14 +49,7 @@
 
 
 
-### Παραδοτέο 5 (check the weather)
-[Asciinema Link](https://asciinema.org/a/E8ejJBO8hVLAyeTaK5W6vK0bd)
-Στο παραδοτέο 5 επιλέχθηκε η άσκηση Check The weather. Κατά την άσκηση παρουσιάστηκε ο καιρός που έχει γίνει πρόβλεψη για κάποιες συγκεκριμένες πόλεις της Ελλάδας και του εξωτερικού.
-<br>
-<p align="center">
-<img src="https://i.postimg.cc/BQsNFPXY/Screenshot-6.jpg" >
- <p/>
-<br>
+
 
 ### Παραδοτέο 6  (1Β Μελέτη Περίπτωσης)
 [Link Μελέτης Περίπτωσης](https://github.com/p17balo/site/blob/master/_case-study/stackoverflow.md)
