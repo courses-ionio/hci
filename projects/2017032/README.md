@@ -53,40 +53,6 @@
 
 
 
-### Παραδοτέο 4 (Mouse Form)
-[Codepen Link](https://codepen.io/p17balo/pen/XWgNXXG)
-<br>
-<p align="center">
-<img src="https://i.postimg.cc/SRK6ZCCk/Screenshot-4.jpg" >
- <p/>
-<br>
-
-
-
-
-
-### Παραδοτέο 6  (1Β Μελέτη Περίπτωσης)
-[Link Μελέτης Περίπτωσης](https://github.com/p17balo/site/blob/master/_case-study/stackoverflow.md)
-
-
-
-
-
-### Παραδοτέο 9 (Image Zoom)
-[Codepen Link](https://codepen.io/p17balo/pen/WNOorGz)
-Για αυτή την  εργασία προγραμματισμού επιλέχθηκε γ εργασία Image zoom η οποία ήταν σε συνδυασμό με την εργασία Image processing. Σε αυτή την εργασία έπρεπε να προσθέσουμε στην εικόνα που μας δώθηκε τα φίλτρα της άσκησης Image processing. 
-<p align="center">
-<img src="https://i.postimg.cc/4xy0KH0C/Screenshot-3.jpg" >
- <p/>
-<br>
-
-### Παραδοτέο 10 (get familiar with basic commands, reading documentation and editing files)
-[Asciinema Link](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q)
-
-
-
-
-
 
 ### Συμπέρασμα
 Όντας φοιτητής μεγαλύτερου εξαμήνου κατάφερα να κατανοήσω την φιλοσοφία του μαθήματος. Όπου οι φοιτητές πρέπει να ερευνήσουν πολλά μονοπάτια μόνοι τους και τελικά να πετύχουν το αποτέλεσμα, όπως σε αληθινές συνθήκες. Το μάθημα πρόσφερε εξοικείωση με το περιβάλλον Linux καθώς και με την πλατφόρμα της Netlify όπου εκτιμήθηκε ο τρόπος που δουλεύει η εντολή git. 
