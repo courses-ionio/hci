@@ -39,6 +39,11 @@
  <p/>
 <br>
 
+
+### Παραδοτέο 10 (2Β Βιογραφία)
+[Link βιβλιογραφίας](https://github.com/p17balo/site/blob/master/_biography/dennis-ritchie.md)
+
+
 ### Παραδοτέο 4 (Mouse Form)
 [Codepen Link](https://codepen.io/p17balo/pen/XWgNXXG)
 <br>
@@ -78,9 +83,6 @@
 
 
 
-
-### Παραδοτέο 11 (2Β Βιογραφία)
-[Link βιβλιογραφίας](https://github.com/p17balo/site/blob/master/_biography/dennis-ritchie.md)
 
 
 
