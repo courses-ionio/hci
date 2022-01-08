@@ -1,6 +1,6 @@
 # Μάθημα: Επικοινωνία ανθρώπου-υπολογιστή
-## Όνομα: Σάμιος Γεώργιος
-## ΑΜ: Π2020023
+## Ονοματεπώνυμο: Σάμιος Γεώργιος
+## Αριθμός Μητρώου: Π2020023
 ## [Shell scripts repository](https://github.com/p20sami/shell-scripts)
 ## [Netlify site](https://p2020023-pibook.netlify.app/)
 ## [GitHub profile](https://github.com/p20sami)
