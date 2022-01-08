@@ -21,6 +21,13 @@
 [Asciinema Link](https://asciinema.org/a/dbS495hK8a3W5WaRbBnWssFol)
 Κατά την διάρκεια του μαθήματος ήρθαμε σε επαφή με την πρώτη άσκηση γραμμής εντυολών. Εκεί έπρεπε να καταγράψουμε με το εργαλείο Asciinema ότι πληκτολογούσαμε. Ο σκοπός της άσκησης που επέλεξα ήταν η πρόσβαση στα αρχεία του υπολογιστή. Με την βοήθεια του Asciinema κατάφερα να καταγράψω την διαδικασία πρόσβασης στα αρχεία του συστήματος.
 
+### Παραδοτέο 8 (Mouse Button)
+[Codepen Link](https://codepen.io/p17balo/pen/xxrRZVv)
+<br>
+<p align="center">
+<img src="https://i.postimg.cc/256BNr37/Screenshot-5.jpg" >
+ <p/>
+<br>
 
 <br>
 <p align="center">
@@ -50,13 +57,7 @@
 ### Παραδοτέο 6  (1Β Μελέτη Περίπτωσης)
 [Link Μελέτης Περίπτωσης](https://github.com/p17balo/site/blob/master/_case-study/stackoverflow.md)
 
-### Παραδοτέο 7 (Mouse Button)
-[Codepen Link](https://codepen.io/p17balo/pen/xxrRZVv)
-<br>
-<p align="center">
-<img src="https://i.postimg.cc/256BNr37/Screenshot-5.jpg" >
- <p/>
-<br>
+
 
 ### Παραδοτέο 8 (fetch information)
 [Asciinema Link](https://asciinema.org/a/5CO1YzNhyskBytPF9xeMvhzsO)
