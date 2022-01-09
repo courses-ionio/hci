@@ -15,6 +15,7 @@
 |     2     | [Άσκηση γραμμής εντολών - text editor and plug-ins for code highlighting and autocompletion](#2ο-παραδοτέο---text-editor-and-plug-ins-for-code-highlighting-and-autocompletion)|
 |     3     | [Άσκηση γραμμής εντολών - download mp3](#3ο-παραδοτέο---download-mp3)|
 |     4     | [Συμμετοχικό περιεχόμενο Α1-Α2](#4ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-α2)
+|     5     | [Άσκηση γραμμής εντολών - organize your notes with emacs](#5ο-παραδοτέο---organize-your-notes-with-emacs)
 <br />
 
 ## Εισαγωγή
@@ -80,6 +81,7 @@ To journalctl είναι η υπηρεσία με την οποία έχουμε
 **Asciinema links:**
 - boot log https://asciinema.org/a/448530
 - system info https://asciinema.org/a/448529
+<br />
 
 ## Warmup Ασκήσεις γραμμής εντολών
 Μία απο τις ανάγκες μου απο αυτό το μάθημα όπως και αναφέρω και στην εισαγωγή μου, είναι να εξοικειωθώ με την Διεπαφή Γραμμής Εντολών. Για τον λόγο αυτό, θεωρώ πρέπον το να ασχολούμε τακτικά και με όσες περισσότερες [warmup ασκήσεις γραμμής εντολών](https://github.com/epidrome/dokey#warmup) μπορώ και να παρουσιάζω στην αναφορά αυτήν -την οποία θα ενημερώνω τακτικά- τις διαδικασίες που ακολούθησα για την επίλυσή τους. Παράλληλα και με τις ασκήσεις της ενότητας [HCI](https://github.com/epidrome/dokey#hci), πιστεύω πως στο τέλος η ανάγκη μου αυτή θα καλυφθεί σε έναν πολύ ικανοποιητικό βαθμό και θα έχω και την ευκαιρία επίσης να δείξω και σε εσάς τα βήματα που ακολούθησα και την πρόοδο που έκανα όλο αυτό το -σχετικά σύντομο- χρονικό διάστημα.
@@ -115,7 +117,8 @@ To journalctl είναι η υπηρεσία με την οποία έχουμε
 
 #### Δικτυογραφία 1ης Warmup Άσκησης
 [how to customzie and colorize your bash prompt](https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt) | [How to Change / Set up bash custom prompt (PS1) in Linux](https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html) | [how can i grep hidden files](https://www.generacodice.com/en/articolo/4194053/how-can-i-grep-hidden-files) | [5 Commands to View the Content of a File in Linux Command Line](https://linuxhandbook.com/view-file-linux) | [lshw](https://linux.die.net/man/1/lshw) | [how to install and use neofetch](https://www.makeuseof.com/how-to-install-and-use-neofetch) | [10 Commands to Collect System and Hardware Info in Linux](https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux) | [How to Create and Use Alias Command in Linux](https://www.tecmint.com/create-alias-in-linux) | [cat manual pages](https://man.archlinux.org/man/cat.1.en) | [less manual pages](https://man.archlinux.org/man/less.1.en).
-
+<br />
+<br />
 
 ## 2ο παραδοτέο - text editor and plug-ins for code highlighting and autocompletion
 Για το δεύτερο παραοδοτέο της αναφοράς μου, επέλεξα να κάνω την 2η άσκηση της ενότητας [HCI](https://github.com/epidrome/dokey#hci), η ποία ζητούσε να κάνουμε edit το config file του text editor μας ή του shell και να προσθέσουμε λειτουργίες όπως είναι το autocompletion, to code highlighting κ.α. Επέλεξα να παραμετροποιήσω το config file του modal text editor Vim που χρησιμοποιώ, ώστε να το φέρω πιο κοντά στα δικά μου πρότυπα αλλά και να μπορέσω να τον χρησιμοποιήσω για μια πιο εύχρηστη συγγραφή γλώσσας προγραμματισμού (αρχικά για Python ) και γενικότερα μιας και είναι τελείως customizable, να μπορέσω με το πέρασμα του χρόνου να το κάνω να διαθέτει λειτουργίες των σύγχρονων περιβαλλόντων ανάπτυξης, με ότι συνεπάγεται αυτό, όσον αφορά την απόκτηση γνώσεων και δεξιοτήτων. Αρχικά, έπρεπε να σκευτώ ποιές πρώιμες ανάγκες μου θέλω το vim να μπορεί να εξυπηρετεί, και κατέληξα στα εξής: 
@@ -190,6 +193,8 @@ To journalctl είναι η υπηρεσία με την οποία έχουμε
 
 ### Δικτυογραφία 2ου Παραδοτέου
 [Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor) | [Your first VimRC: How to setup your vim's vimrc](https://www.youtube.com/watch?v=n9k9scbTuvQ) | [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM) | [Top 50 Vim Configuration Options](https://www.shortcutfoo.com/blog/top-50-vim-configuration-options) | [Important VIM Options and Settings](https://linuxhint.com/important_vim_settings) | [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven)
+<br />
+<br />
 
 ## 3ο παραδοτέο - download mp3 
 Για το τρίτο παραδοτέο της αναφοράς μου, επέλεξα να κάνω την ψυχαγωγικής μορφής άσκηση γραμμής εντολών download mp3 της ενότητας [HCI](https://github.com/epidrome/dokey#hci). Τα παραδοτέα της άσκησης αυτής, ζητούσαν την αναζήτηση, την λήψη και την αναπαραγωγή του αγαπημένου μας τραγουδιού, χρησιμοποιώντας εργαλεία της γραμμής εντολών. Επέλεξα την συγκεκριμένη άσκηση έτσι ώστε εκτός από την χρήση της διεπαφής γραμμής εντολών για τις φοιτιτικές μου διεργασίες, να δω και με ποιόν τρόπο θα μπορούσα να την χρησιμοποιήσω ώστε να ψυχαγωγούμε και να ηρεμώ τον εαυτό μου, κάνοντας την να παίζει τα αγαπημένα μου τραγούδια.
@@ -225,7 +230,9 @@ To journalctl είναι η υπηρεσία με την οποία έχουμε
 
 ### Δικτυογραφία 3ου παραδοτέου 
 [Searching Youtube videos using youtube-dl](https://stackoverflow.com/questions/63388364/searching-youtube-videos-using-youtube-dl) | [Getting the Youtube Error 403!](https://github.com/mps-youtube/mps-youtube/issues/977) 
-
+<br />
+<br />
+ 
 ## 4ο παραδοτέο - Συμμετοχικό περιεχόμενο Α1-Α2
 Για το τέταρτο παραδοτέο της αναφοράς μου αποφάσισα να κάνω το πρώτο μέρος του [συμμετοχικού περιεχομένου](https://courses-ionio.github.io/projects/social/) και να συγχωνεύσω τα ζητούμενα Α1-Α2 στο παρόν παραδοτέο. Οι δύο φωτογραφίες που επέλεξα ήταν το ποντίκι και το πληκτρολόγιο χορδής του υπολογιστή Xerox Alto και αυτό διότι ήταν η πρώτη φορά που οι δύο αυτές συσκευές - αν και είχαν παρουσιαστεί είδη στο [oN-Line System](https://en.wikipedia.org/wiki/NLS_(computer_system)) του [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) - χρησιμοποιήθηκαν σε έναν προσωπικό επιτραπέζιο υπολογιστή. Όσων αφορά την πρώτη και μετά τα βοηθητικά σχόλια των δια ζώσης συναντήσεων στο πανεπιστήμιο, αποφάσισα στο caption της φωτογραφίας να περιγράψω τις κυριότερες λειτουργίες των τριών διαφορετικών κουμπιών του ποντικιού στα συστήματα [Bravo](https://en.wikipedia.org/wiki/Bravo_(editor)) και [Laurel](https://xeroxalto.computerhistory.org/Indigo/DMS/Laurel/6/Manual/.Laurel6.press!1.pdf) του Xerox Alto. Όσων αφορά την δεύτερη φωτογραφία, προσπάθησα να βρω υλικό το οποίο θα με βοηθούσε να τονίσω τις διαφορές μεταξύ του πληκτρολογίου χορδής του Xerox Alto και του NLS, δίχως επιτυχία, ωστόσο σύμφωνα με την βιβλιογραφία το πρώτο αποτελούσε μια ελαφριά παραλλαγή του δεύτερου χωρίς κάποια ουσιαστική διαφορά, πράγμα το οποίο περιέγραψα και στο caption της φωτογραφίας.
 
@@ -258,8 +265,51 @@ Hardware  Manual](http://www.bitsavers.org/pdf/xerox/alto/Alto_Hardware_Manual_A
 [4] Mitchell, J. G. (1973). The Implementation of NLS on a Minicomputer. Xerox. Palo Alto Research Center. <br />
 [5] Thacker, C., McCreight, E., Lampson, B., Sproull, R., & Boggs, D. (1981). Alto: A personal computer. <br />
 [6] KEYBOARDS, C. CASE STUDY 2: CHORD KEYBOARDS. <br />
-
-
-
+<br />
+<br /> 
  
+## 5ο παραδοτέο - organize your notes with emacs 
+Για το 5ο παραδοτέο της αναφοράς μου, επέλεξα να κάνω την 3η άσκηση της ενότητας [HCI](https://github.com/epidrome/dokey#hci), η οποία ζητούσε να οργανώσουμε τις σημειώσεις μας χρησιμοποιώντας τον text editor [emacs](https://www.gnu.org/software/emacs/) και πιο συγκεκριμένα την λειτουργία [org-mode](https://orgmode.org/). Ο emacs είναι ένας text editor ο οποίος συνδιάζει modal με modeless διεπαφές και είναι πλήρως επεκτάσιμος, δίνοντας μας την δυνατότητα να μπορούμε να τον παραμετροποιήσουμε και να προσθέσουμε πακέτα τα οποία μας παρέχουν διάφορες βοηθητικές λειτουργίες. Αποφάσισα να κάνω την άσκηση αυτή καθώς ήθελα να δοκιμάσω κάτι διαφορετικό πέρα απο τον text editor Vim που χρησιμοποιώ. 
+
+Αφού προχώρησα στην εγκατάσταση με την εντολη **sudo pacman -S emacs**, αποφάσισα αρχικά να δημιουργήσω ένα user specific configuration file ώστε να κάνω τον editor καλαίσθητο οπτικά και να του προσθέσω βοηθητικές λειτουργίες κατεβάζοντας τα αντίστοιχα πακέτα. Δημιούργησα το configuration file ονόματι **init.el** μέσα στο directory **.emacs.d**, όπως αναφέρεται και στις σχετικές [οδηγίες](https://www.gnu.org/software/emacs/manual/html_node/emacs/Init-File.html). Δεν θα αναφέρω αναλυτικά τις επεκτάσεις τις οποίες πρόσθεσα στο αρχείο, καθώς το συγκεκριμένο κομμάτι είναι εκτός των παραδοτέων της άσκησης, ωστόσο παρακάτω βρίσκεται το link για το init.el αρχείο μου: 
+- **link for my init.el:** |
+[init.el](https://github.com/GeorgiosEleftheriadis/HCI-Pictures-Gifs/blob/main/5%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/init.el)
+- **emacs GUI πριν το configuration:** 
+
+<p align= "center">
+<img src="https://github.com/GeorgiosEleftheriadis/HCI-Pictures-Gifs/blob/main/5%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/emacs-before.jpg">
+</p>
+
+- **emacs GUI μετά το configuration:**
+
+<p align= "center">
+<img src="https://github.com/GeorgiosEleftheriadis/HCI-Pictures-Gifs/blob/main/5%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/emacs-after.jpg">
+</p>
+
+### Δικτυγραφία που χρησιμοποιήθηκε για το init.el αρχείο:
+[My Emacs configuration, literately](https://github.com/alhassy/emacs.d) | [More Productive with Emacs](https://lucidmanager.org/categories/productivity/) | [Emacs - Beginner Configuration](https://alpha2phi.medium.com/emacs-beginner-configuration-9578dbe71d03) | [Emacs Config](https://jamiecollinson.com/blog/my-emacs-config/)
+
+### org-mode 
+Τα παραδοτέα της άσκησης αφορούσαν την οργάνωση των σημειώσεων μας χρησιμοποιώντας την λειτουργία org-mode που διαθέτει ο editor. Η λειτουργία org-mode βρίσκεται ενωσματωμένη στον editor και μας επιτρέπει να κρατάμε σημειώσεις, να διαχεριζόμαστε to-do λίστες, να συγγράφουμε έγγραφα και να εκτελούμε διάφορες ακόμα διεργασίες, όλα αυτά χρησιμοποιώντας plaintext αρχεία σε συνδιασμό με ένα πολύ απλό markup language. Τα plaintext αυτά αρχεία αποθηκεύονται με την κατάληξη **.org**.
+
+Για να παρουσιάσω μερικές απο τις πολλές λειτουργίες του org-mode, αρχικά προέβην στην δημιουργία ενός αρχείου το οποίο ονόμασα 'personal.org', εντός του οποίου θα κρατούσα διάφορες σημειώσεις, π.χ. σημειώσεις που αφορούν τα μαθήματα της σχολής, σημειώσεις που αφορούν τις δουλειές στο σπίτι αλλά και διάφορες άλλες λοιπές σημειώσεις. Ακολουθώντας το [documentation](https://orgmode.org/manual/) του org mode, αποφάσισα εντός του αρχείου να δημιουργήσω τίτλους για κάθε θεματική που με ενδιέφερε (σχολή, σπίτι, άλλα), κάτω απο τους οποίους πρόσθεσα σημειώσεις σε μορφή to-do λιστών, βάζοντας χρονοδιαγράμματα και deadlines καθώς και πρόσθετες πληροφορίες σε μορφή plain-λιστών, υπερσυνδέσμων ή και απλού κειμένου. Παρακάτω βλέπουμε σχετικό παράδειγμα κάτω απο το headline της σχολής. Επίσης, πρόσθεσα και ετικέτες σε κάθε θεματική, έτσι ώστε να μπορώ να κάτω αναζήτηση μετέπειτα στην ατζένντα χρησιμοποιώντας και τις ετικέτες (πάνω δεξιά στην φωτογραφία): 
+
+<p align= "center">
+<img src="https://github.com/GeorgiosEleftheriadis/HCI-Pictures-Gifs/blob/main/5%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/emacs-org-mode.jpg">
+</p>
+
+Τέλος, αφού είχα αποθηκεύσει τις αλλαγές μου στο αρχείο, με την εντολή **Ctrl-C \[** πρόσθεσα το αρχείο στην ατζένντα μου, μια λειτουργία του org-mode η οποία μας επιτρέπει να μπορούμε να διαχειριστούμε ευκολότερα και να έχουμε συμμαζεμένες τις διάφορες to-do λίστες μας, τα χρονοδιαγράμματα και τις προθεσμίες μας που μπορεί να υπαρχουν μέσα στα αρχεία. Ένα παράδειγμα μετά την χρήση της ατζένντας για την προβολή όλων των to-do λιστών, βλέπουμε παρακάτω: 
+
+<p align= "center">
+<img src="https://github.com/GeorgiosEleftheriadis/HCI-Pictures-Gifs/blob/main/5%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/org-mode-agenda.jpg">
+</p>
+
+Επίσης, παρακάτω βλέπουμε ένα asciinema με την περιήγηση στο αρχείο personal.org και το άνοιγμα της ατζένντας, αυτήν την φορά χρησιμοποιώντας όμως το emacs εντός του terminal: 
+- Asciinema link: https://asciinema.org/a/460742
+
+### Συμπεράσματα
+Μέσα απο αυτό το παραδοτέο, κατάφερα και γνώρισα μερικές απο τις πολλές λειτουργίες του editor emacs, δοκιμάζοντας κάτι διαφορετικό πέρα απο τον Vim. Ήρθα επίσης και σε μια πρώτη επαφή με την γλώσσα προγραμματισμού lisp -ειδικότερα emacs lisp- κατά το configuration του editor, ενώ το σημαντικότερο ήταν πως έμαθα να οργανώνω τις σημειώσεις μου με έναν εύκολο και διασκεδαστικό τρόπο, μαθαίνοντας έτσι να βάζω σε μια τάξη την καθημερινότητά μου. 
+
+### Δικτυογραφία 
+[The Absolute Beginer's Guide to Emacs](https://www.youtube.com/watch?v=48JlgiBpw_I) | [GNU- Guided Tour](https://www.youtube.com/watch?v=48JlgiBpw_I) | [Taking Notes in Emacs Org-Mode](https://www.youtube.com/watch?v=bzZ09dAbLEE) | [What is Emacs?](https://opensource.com/resources/what-emacs) | [Emacs - Arch Wiki](https://wiki.archlinux.org/title/emacs) | [Installing Packages](https://www.emacswiki.org/emacs/InstallingPackages) | [Org mode beginning at the basics](https://orgmode.org/worg/org-tutorials/org4beginners.html)
   
