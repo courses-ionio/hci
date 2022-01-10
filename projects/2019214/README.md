@@ -16,7 +16,7 @@
 | 5 | [Άσκηση γραμμής εντολών 3](#άσκηση-γραμμής-εντολών-3) |
 | 6 | [Συμμετοχικό περιεχόμενο 2Α](#συμμετοχικό-περιεχόμενο-2α) |
 | 7 | [Άσκηση γραμμής εντολών 4](#άσκηση-γραμμής-εντολών-4) |
-| 8 | - |
+| 8 | [Συμμετοχικό περιεχόμενο 1Β](#συμμετοχικό-περιεχόμενο-1β)|
 | 9 | - |
 | 10 | - |
 | 11 | - |
@@ -100,3 +100,14 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 Πηγές: [asciinema](https://github.com/asciinema/asciinema) & [giph](https://github.com/phisch/giph) & [youtube-dl](https://github.com/ytdl-org/youtube-dl) & [youtube-dl flags](https://gist.github.com/umidjons/8a15ba3813039626553929458e3ad1fc) & [mpv](https://github.com/mpv-player/mpv)
 <br />
 Σύνδεσμοι: [YouTube - 4η άσκηση γραμμής εντολών](https://www.youtube.com/watch?v=ZuMI3D4SvFc)
+
+
+# Συμμετοχικό περιεχόμενο 1Β
+Για συμμετοχικό περιεχόμενο 1Β, αποφάσισα να κάνω μελέτη περίπτωσης του Video tape recorder. Συγκεκριμένα, επέλεξα την συσκευή Sony U-matic cassette, η οποία ήταν μια αναλογική μορφή βιντεοκασέτας εγγραφής που παρουσιάστηκε για πρώτη φορά από τη Sony.
+
+| Περιγραφή | Repository Link |
+| --- | --- |
+| Sony U-matic | [sony-u-matic.md](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-u-matic.jpg) |
+
+Πηγές: [Wikipedia - Sony U-matic](https://en.wikipedia.org/wiki/U-matic) & [Wikipedia Image - Sony U-matic](https://commons.wikimedia.org/wiki/File:U-matic.jpg) 
+<br />
