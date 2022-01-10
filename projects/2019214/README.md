@@ -51,6 +51,10 @@
 # Συμμετοχικό περιεχόμενο 1Α
 Για το συμμετοχικό περιεχόμενο 1Α, πήρα την απόφαση να ερευνήσω για την πρώτη συσκευή μουσικής αναπαραγωγής, το Sony Walkman TPS-L2, η οποία κατάφερε να συνδυάσει φορητότητα και προσιτή τιμή όλα σε ένα πακέτο για πρώτη φορά το 1979. Και στην συνέχεια, επέλεξα την πρώτη συσκευή μουσικής αναπαραγωγής της εταιρείας Apple, το iPod Mini, η οποία κατάφερε να αποσυρθεί από την παραγωγή και να αντικατασταθεί απο το διάδοχο του, το iPod Nano, ένα χρόνο αργότερα (2005) μετά από την κυκλοφορία του.
 
+| Περιγραφή | Repository Link |
+| --- | --- |
+| Sony Walkman TPS-L2 | [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md) |
+| iPod Mini | [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md) |
 
 Πηγές: [Wikipedia - Walkman](https://en.wikipedia.org/wiki/Walkman) & [Sony Press Archive](https://www.sony.com/en/SonyInfo/News/Press_Archive/199907/99-059/) & [Wikipedia - iPod Mini](https://en.wikipedia.org/wiki/IPod_Mini) & [iPod Mini History](https://apple-history.com/ipod_mini)
 <br />
@@ -107,7 +111,10 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 
 | Περιγραφή | Repository Link |
 | --- | --- |
-| Sony U-matic | [sony-u-matic.md](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-u-matic.jpg) |
+| Sony U-matic | [sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/sony-u-matic.md) |
 
 Πηγές: [Wikipedia - Sony U-matic](https://en.wikipedia.org/wiki/U-matic) & [Wikipedia Image - Sony U-matic](https://commons.wikimedia.org/wiki/File:U-matic.jpg) 
 <br />
+Σύνδεσμοι .md: [sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/sony-u-matic.md)
+<br />
+Σύνδεσμοι εικόνων: [sony-u-matic.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-u-matic.jpg) & [sony-u-matic-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-u-matic-thumb.jpg)
