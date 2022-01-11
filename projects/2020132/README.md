@@ -114,4 +114,5 @@ https://github.com/Vasilakious/site/blob/p2020132/_case-study/oculus-rift-cv1.md
 ## Φωτογραφίες
 
 https://github.com/Vasilakious/images/blob/p2020132/oculus-rift-cv1.jpg
+
 Άδεια φωτογραφίας: https://commons.wikimedia.org/wiki/File:Oculus-Rift-CV1-Headset-Front.jpg
