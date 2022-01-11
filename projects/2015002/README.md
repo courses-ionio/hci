@@ -193,6 +193,10 @@ MODIFY SLIDES IN PROSVASIMOTITA TO BE MORE RELEVANT
 
 <p>Παράλληλα είδα πως υπάρχει μια τεράστια κοινότητα πίσω από αυτό, προωθώντας αυτό το ζήτημα!</p>
 
+|Σελίδα | Link |
+| --- | ----------|
+| Netlify  | [link](https://p2015002.netlify.app/case-study/game-accessibility/)  |
+
 ## Πηγές:
 - [Game accessibility: a survey](https://link.springer.com/article/10.1007%2Fs10209-010-0189-5)
 - [Video Games, Accessibility And Invincibility](https://www.theouterhaven.net/2021/07/video-games-accessibility-and-invincibility/)
