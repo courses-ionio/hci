@@ -45,7 +45,7 @@
   
  **Πηγές :**  https://www.youtube.com/watch?v=PQgyW10xD8s
   
-  https://wiki.archlinux.org/title/installation_guide#Network_configuration
+  https://wiki.archlinux.org/title/installation_guide
   
   
    ###### [3]
@@ -59,7 +59,7 @@
 
    **Πηγές :**https://www.youtube.com/watch?v=yaThYGr37DI&t
   
-  https://wiki.archlinux.org/title/installation_guide#Network_configuration
+  https://wiki.archlinux.org/title/installation_guide
   
   
   ###### [4]
