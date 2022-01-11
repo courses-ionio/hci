@@ -102,7 +102,7 @@
 
   ###### [5]
   
-  ## Παραδοτέο 5 : Έβρεση των χαρακτηριστικών του συστήματος με τις εντολές journalctl -b και neofetch
+  ## Παραδοτέο 5 : Εύρεση των χαρακτηριστικών του συστήματος με τις εντολές journalctl -b και neofetch
   
   **Asciinema links:** https://asciinema.org/a/SQ9oKeJwOOPOsWC8GSdA2dnop
   
