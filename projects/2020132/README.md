@@ -15,7 +15,7 @@
 | 5 | [Άσκηση Γραμμής Εντολών / Warm Up](#τριτη-ασκηση-γραμμησ-εντολων) |
 | 6 | [Συμμετοχικό Περιεχόμενο Α2](#συμμετοχικο-περιεχομενο-α2) |
 | 7 | [Άσκηση Γραμμής Εντολών / HCI](#τεταρτη-ασκηση-γραμμησ-εντολων) |
-| 8 | ー |
+| 8 | [Συμμετοχικό Περιεχόμενο Β1](#συμμετοχικο-περιεχομενο-β1) |
 | 9 | ー |
 | 10 | ー |
 | 11 | ー |
@@ -102,3 +102,16 @@ https://github.com/jrnl-org/jrnl
 
 ## ΠΗΓΕΣ
 https://streamable.com https://obsproject.com/ https://github.com/mpv-player/mpv https://github.com/ytdl-org/youtube-dl https://youtu.be/8F2s8ivKXNY
+
+# **ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β1**
+
+Για το πρώτο κομμάτι του συμμετοχικού περιεχομένου Β, επέλεξα την πρώτη συσκευή επαυξημένης εικονικής πραγματικότητας, την οποία η εταιρία Oculus κυκλοφόρησε σε καταναλωτική τιμή, με επίσης αξιόλογες δυνατότητες για την τότε εποχή (2016). Παρακάτω παραθέτω τα .md αρχεία σχετικά με την συσκευή.
+
+## Αρχεία .md
+https://github.com/Vasilakious/site/blob/p2020132/_case-study/cs-oculus-rift-cv1.md
+https://github.com/Vasilakious/site/blob/p2020132/_case-study/oculus-rift-cv1.md
+
+## Φωτογραφίες
+
+https://github.com/Vasilakious/images/blob/p2020132/oculus-rift-cv1.jpg
+Άδεια φωτογραφίας: https://commons.wikimedia.org/wiki/File:Oculus-Rift-CV1-Headset-Front.jpg
