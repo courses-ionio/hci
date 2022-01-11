@@ -171,8 +171,36 @@ MODIFY SLIDES IN PROSVASIMOTITA TO BE MORE RELEVANT
 ---
 
 # 7ο Παραδοτέο - Download mp3
+<p> Για το 7ο παραδοτέο αποφάσισα να υλοποιήσω την άσκηση που ζητούσε να βρούμε ένα τραγούδι από το YouTube, να το κατεβάσουμε στον υπολογιστή μας και μετά να το παίξουμε, όλα μέσο του Terminal. </p>
+
+<p>Βρήκα ένα εργαλείο που λέγετε ytfzf όπου μπορείς να κάνεις search βίντεο του YouTube και στην συνέχεια σου δίνει την επιλογή να τα κατεβάσεις. Η διαδικασία ήταν σχετικά εύκολη και όλα κύλισαν ομαλά μέχρι το σημείο που κατέβασα το βίντεο που ήθελα.</p>
+
+<p>Στο σημείο που κόλλησα ήταν να μετονομάσω το αρχείο σε κάτι άλλο. Για να κάνω την ζωή μου πιο εύκολη, χρησιμοποίησα alias,το xclip και mv εντολές για να δώσω άλλο όνομα στο αρχείο. Αφού έγινε η εγκατάσταση, έτρεξα την εντολή, άλλαξα το όνομα του αρχείου και έκανα αναπαραγωγή του βίντεο με mplayer.</p>
+
+|Βήμα | Asciinema |
+| --- | ----------|
+| Download mp3  | [link](https://asciinema.org/a/456407)  |
+
+## Πηγές:
+- [ytfzf](https://github.com/pystardust/ytfzf)
+- [How To Use Pbcopy And Pbpaste Commands On Linux](https://ostechnix.com/how-to-use-pbcopy-and-pbpaste-commands-on-linux/)
+- [xclip](https://github.com/astrand/xclip)
+- [mplayer](http://www.mplayerhq.hu/design7/news.html)
+- [How can I select and copy file names in the command line without using the mouse?](https://unix.stackexchange.com/questions/193514/how-can-i-select-and-copy-file-names-in-the-command-line-without-using-the-mouse)
 
 # 8ο Παραδοτέο - Συμμετοχικό περιεχόμενο 1B
+<p> Για το παραδοτέο Β1 αποφάσισα να κάνω μία έρευνα για την κατάσταση της προσβασιμότητας στα βίντεο παιχνίδια και συγκεκριμένα στις κονσόλες. Μέσα από διάφορες πηγές, προς δική μου ευχαρίστηση, είδα πως υπάρχουν αρκετά εργαλεία και μέθοδοι που να επιτρέπουν σε άτομα με αναπηρία να απολαύσουν τα βίντεο παιχνίδια.</p>
+
+<p>Παράλληλα είδα πως υπάρχει μια τεράστια κοινότητα πίσω από αυτό, προωθώντας αυτό το ζήτημα!</p>
+
+## Πηγές:
+- [Game accessibility: a survey](https://link.springer.com/article/10.1007%2Fs10209-010-0189-5)
+- [Video Games, Accessibility And Invincibility](https://www.theouterhaven.net/2021/07/video-games-accessibility-and-invincibility/)
+- [Accessibility options for The Last of Us Part II](https://www.playstation.com/en-us/games/the-last-of-us-part-ii/accessibility/)
+- [Snap-on Xbox 360 gamepad HOTAS joystick](https://www.thingiverse.com/thing:4612448)
+- [Game Box Controllers](http://www.rjcooper.com/game-controller/index.html)
+- [Gaming activities that increased since COVID-19 lockdown according to gamers in select European countries as of 2nd quarter 2020, by age group](https://www.statista.com/statistics/1222644/gaming-activities-increased-covid-europe-age-group/)
+
 
 # 9ο Παραδοτέο - Organise todo list
 
