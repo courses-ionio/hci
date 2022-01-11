@@ -226,4 +226,23 @@
   
   **Συμπέρασμα :**
   
-  <p>
+  <p>Οι γνώσεις που αποκόμισα από το μάθημα αυτό ήταν πάρα πολλές και κάλυψαν με το παραπάνω τις προσδοκίες μου. Μέσω του μαθήματος αυτού τώρα εχω κατανοήσει πλέον σε μεγάλο βαθμό την έννοια <b>επικοινωνία ανθρώπου και υπολογιστή</b> τόσο σε πρακτικό επίπεδο με τις ασκήσεις γραμμών εντολών όσο και σε θεωρητικό επίπεδο και μέσα από λεγόμενα αξιόλογων επιστημόνων όπως ο <B>Alan Kay</b>  και ο <b>Ted Nelson</b>. Επίσης το μάθημα αυτό μου προσέφερε πολύ σημαντικές γνώσεις για το λειτουργικό <b>Linux</b/> (Arch) καθώς από την εγκατάσταση ακόμα με έβαλε στην διαδικασία να κατανοήσω το filesystem του, το πως δουλέυουν τα partitions αλλά και το πώς να δημιουργώ και να επεξεργάζομαι αρχεία μέσω εντολών απο το terminal. Τέλος οι γνώσεις μου επεκτάθηκαν και στην χρήση του github το οποίο στην αρχή μου φαινόταν πολύ δυσνόητο που όμως στην συνέχεια μαζί με την εξοικείωση μου με τις γραμμές εντολών μου φάνηκε τόσο εύχρηστο και τόσο σημαντικό εργαλείο για έναν προγραμματιστή.
+    
+
+  ## Βιβλιογραφία   
+    
+[Stack Overflow](https://stackoverflow.com/)
+    
+[Stack Exchange](https://unix.stackexchange.com/)
+    
+[ArchWiki](https://wiki.archlinux.org/)
+    
+[D.Engelbart Institute](https://dougengelbart.org/)
+    
+[Digital Game Museum](https://www.digitalgamemuseum.org/)    
+
+[Adding a submodule](https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8)
+
+[Updating a submodule](https://asciinema.org/a/bUMPJqXb9sepWRdlJPyToMpwl)
+
+[Deleting a submodule](https://asciinema.org/a/3gFABL73VAJ21UoA4SVzlfRaf)
