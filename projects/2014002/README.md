@@ -104,12 +104,7 @@
 [Αsciinema Link](https://asciinema.org/a/453311) 
 
 # Συμμετοχικό Περιεχόμενο 1Β
-### Oculus Rift
-Repository Link: [oculus-rift.md](https://github.com/p14kairas/site/blob/2014002/_case-study/oculus-rift.md)
 
-### Raspberry Pi Arcade 
-
-### Πηγές 
 
 
 
