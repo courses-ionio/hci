@@ -206,7 +206,23 @@ MODIFY SLIDES IN PROSVASIMOTITA TO BE MORE RELEVANT
 - [Gaming activities that increased since COVID-19 lockdown according to gamers in select European countries as of 2nd quarter 2020, by age group](https://www.statista.com/statistics/1222644/gaming-activities-increased-covid-europe-age-group/)
 
 
-# 9ο Παραδοτέο - Organise todo list
+# 9ο Παραδοτέο - Organise todo list with emacs
+<p>Για το 9ο παραδοτέο αποφάσισα να γράψω ένα To-do list με emacs.</p>
+
+|Σελίδα | Link |
+| --- | ----------|
+| Asciinema  | [link](https://asciinema.org/a/461382?fbclid=IwAR2oStRW9wU9FQoQNnb-LIQmVYuNRLw9sSAgU8SDe_mCOTJHxcvLoBMi-iA)  |
+
+<p>Το συγκεκριμένο παραδοτέο ήταν αρκετά ευχάριστο αν και χρειάστηκα λίγο χρόνο να γίνω familiar με τα key binds του emacs. Έπρεπε να παίξω αρκετά μαζί του έτσι ώστε να εξοικειωθώ με το εργαλείο και να μπορώ να γράψω την λίστα σε μικρό χρονικό διάστημα.</p>
+
+<p>Αυτό που μου άρεσε περισσότερο όμως δεν ήταν η λίστα αλλά το εργαλείο από μόνο του. Όσο μάθαινα για αυτό, έβλεπα πως δεν είναι απλά ένα εργαλείο για σημειώσεις. Μπορείς να κάνεις σχεδόν τα πάντα μαζί του, από επεξεργασία κειμένου ακόμη και για remote access, μπορείς παράλληλα να δημιουργήσεις ένα ημερολόγιο το οποίο σου στέλνει και ιδιοποιήσεις στο κινητό, επίσης σου δίνει access στο terminal και έχει scripting capabilities. Είναι ένα φανταστικό περιβάλλον που σίγουρα θα επεξεργαστώ περισσότερο μόνος μου.</p>
+
+## Πηγές:
+- [EMACS TUTORIAL](https://www.newthinktank.com/2017/11/emacs-tutorial/?fbclid=IwAR2GO3wi88eZ7bKR_cYrA5yZhQJ5B8Rn4ghBhO41stqX3CRGQR69z5IIDE8)
+- [Org mode beginning at the basics](https://orgmode.org/worg/org-tutorials/org4beginners.html)
+- [How to open Emacs inside Bash](https://stackoverflow.com/questions/8746227/how-to-open-emacs-inside-bash)
+- [Basic emacs Commands](https://www2.hawaii.edu/~walbritt/ics211/materials/emacs.htm)
+
 
 # 10ο Παραδοτέο - Συμμετοχικό περιεχόμενο Β2
 
@@ -224,6 +240,20 @@ MODIFY SLIDES IN PROSVASIMOTITA TO BE MORE RELEVANT
 - [Nolan Bushnell](https://www.famous-entrepreneurs.com/nolan-bushnell)
 
 # 11ο Παραδοτέο - Άσκηση γραμμής εντολών
+
+<p>Για την τελευταία άσκηση γραμμής εντολών αποφάσισα να χρησιμοποιήσω το TMUX μαζί με το glance για να οργανώσω το terminal σε διάφορα παράθυρα όπου το κάθε παράθυρο θα είχε διαφορετικές πληροφορίες. Παράλληλα χρησιμοποίησα το ytfzf για αναπαραγωγή βίντεο από YouTube</p>
+
+|Σελίδα | Link |
+| --- | ----------|
+| Asciinema  | [link](https://asciinema.org/a/461367?fbclid=IwAR0wwetfDvcYMxFWH-_zZuJDXa0xW7_ZGpZ79gkrmedN-0iV2PjDSF1v-Zw)  |
+
+<p>Αφού εγκατέστησα pip, glances και tmux έπρεπε να εξοικειωθώ με τα keybinds του tmux για να ρυθμίσω το terminal στα δικά μου μέτρα. Μετά από αυτό όλα έτρεξαν ομαλά χωρίς κανένα πρόβλημα!</p>
+
+## Πηγές:
+- [Getting started with Tmux](https://linuxize.com/post/getting-started-with-tmux/?fbclid=IwAR0Tf7GAqO8L1wnJ-Xkpz9Miih6dHsqkRC9Q8coUKBpxwPw62MYTDe4E6LQ)
+- [Installing pip/setuptools/wheel with Linux Package Managers](https://packaging.python.org/en/latest/guides/installing-using-linux-tools/?fbclid=IwAR1FiRTayxSgQuFP7c82v1mOBeRJdKUw_iqHBx1_iwiGTVDWx_JgfKkGnrs#arch-linux)
+- [Quickstart - Glances](https://glances.readthedocs.io/en/latest/quickstart.html?fbclid=IwAR1O6PmTLOdd5JEGxK8uUZ6_R_XXR4oHzHv8XlAYHG_xeDmWMR9QogprpYY)
+- [Glances - GitHub](https://github.com/nicolargo/glances?fbclid=IwAR2j8sotxQt3jaRI6XyWkjLEl2ei3mP8hZnrrQSSFwR4VJMO3qM0VvBh2ec)
 
 # 12ο Παραδοτέο - Επίλογος
 
