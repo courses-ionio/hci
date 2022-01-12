@@ -41,6 +41,13 @@
 
 ![Το logging screen του λειτουργικού](https://user-images.githubusercontent.com/44473403/141697210-f7ecd644-2da4-457b-b9e6-a4dc80c675df.png) <br><br>
 
+Συνοπτικά η εικονική μηχανή μου
+
+
+
+![Το σύστημα](https://user-images.githubusercontent.com/44473403/149223256-2195fc5b-7dc6-41b2-be67-9696ed7e375b.png) <br><br>
+
+
 ## ΠΑΡΑΔΟΤΕΟ 3 - Post-Installation Arch Linux
 
 Στο τρίτο παραδοτέο επιδιώκοντας να πρασουσιάσω τα χαρακτηριστικά του λειτουργικού συστήματος, κατέγραψα ένα clip σε asciinema χρησιμοποιώντας την εντολή ```journalctl -b``` για όλα τα στοιχεία του συστήματος. 
