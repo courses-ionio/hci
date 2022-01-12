@@ -59,7 +59,7 @@ Memory: 349MiB / 3825MiB
 #### Image link: https://github.com/p17simt/images/blob/master/3dtouch.jpg
 #### Thumb link: https://github.com/p17simt/images/blob/master/3dtouch-thumb.png
 #### Gallery: https://github.com/p17simt/_gallery/blob/master/3dtouch.md
-#### Website link: https://elegant-goldstine-b4ac31.netlify.app/gallery/3d-touch/
+#### Website link: https://elegant-goldstine-b4ac31.netlify.app/gallery/3dtouch/
 
 ### Multi-track Trackpad
 #### Images
