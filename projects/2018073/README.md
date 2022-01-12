@@ -69,6 +69,8 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 5 - Warm-Up Άσκηση Γραμμής Εντολών 1
 
+Στη συγκεκριμένη άσκηση warm-up χρησιμοποίησα το εργαλείο neofetch για την παρουσίαση των χαρακτηριστικών του συστήματός μου και έπειτα ανέδειξα τη λίστα των dotfiles μου, το .config directory και τέλος ένα handmade dotfile που δημιούργησα στο αναγράφεται το λογισμικό και το hardware του συστήματός μου.
+
 - ***assignment***: set-up the main dependencies and demonstrate your base system
 - ***deliverables***: change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)
 
@@ -82,6 +84,8 @@
 
 
 ## ΠΑΡΑΔΟΤΕΟ 7 - Warm-Up Άσκηση Γραμμής Εντολών 2
+
+Στη συγκεκριμένη άσκηση warm-up χρησιμοποίησα το εργαλείο curl για τη μεταφορά καιρικών δεδομένων σε συνεργασία με το εργαλείο wttr.in το οποίο είναι μία υπηρεσία πρόγνωσης καιρού και εμφάνισης του αποτελέσματος με γραφικά. Η πόλη για την οποία έγινε η πρόγνωση είναι το Παρίσι της γαλλίας.
 
 - ***assignment***: check the weather
 - ***deliverables***: fetch the weather forecast for your home city and one more city that you want to travel to
