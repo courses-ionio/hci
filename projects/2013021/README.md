@@ -257,10 +257,6 @@ Username	p13vyth / First name Alexandros Vithoulkas / Last name P2013021
 Συμμετοχικό περιεχόμενο: Β2 ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
 
 Άσκηση γραμμής εντολών: organize your notes with emacs ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
-
-
-
-Συμμετοχικό περιεχόμενο: Β1 και Β2 ---> **ΜΗ ΕΓΚΥΡΟ COMMIT**, **50% COMPLETED**
   
   **Συμπέρασμα :**
   
