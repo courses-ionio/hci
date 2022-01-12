@@ -116,10 +116,14 @@
 
 
 # Συμμετοχικό Περιεχόμενο 2Β
-### Βιογραφία του Eben Upton
+H βιογραφία του Eben Upton 
 [Biography](https://github.com/p14kairas/extras/blob/2014002/bio-eben-upton.md)
 
 [caption](https://github.com/p14kairas/site/blob/2014002/_biography/eben-upton.md)
+
+### Πηγές
+[Royal academy of Engineering](https://www.raeng.org.uk/about-us/the-fellowship/new-fellows-2017/fellows/eben-upton) | [Eben Upton: Raspberry Pi pdf](https://www.computer.org/csdl/magazine/co/2013/10/mco2013100014/13rRUwx1xMf) | [BCS The chartered institute of IT](https://www.bcs.org/events/awards-and-competitions/distinguished-fellowship-distfbcs/roll-of-distinguished-fellows/eben-upton/)
+
 # Παράρτημα Έξτρα Ασκήσεων εντολών
 Ύστερα από συννενόηση με εσάς στην ενδιάμεση παρουσίαση μου τονίσατε ότι δεν χρειαζόντουσαν ασκήσεις γραμμής εντολών στις πρώτες 6 εβδομάδες του εξαμήνου και μου προτείνατε να τις προσθέσω σε νέο παράρτημα στο τέλος της αναφοράς.
 
