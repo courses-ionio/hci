@@ -210,6 +210,19 @@ MODIFY SLIDES IN PROSVASIMOTITA TO BE MORE RELEVANT
 
 # 10ο Παραδοτέο - Συμμετοχικό περιεχόμενο 2B
 
+<p>Για το παραδοτέο Β2 αποφάσισα να γράψω για τον Nolan Kay Bushnell ο οποίος ήταν ένας από τους ιδρυτές της Atari Inc. Παράλληλα θεωρώ πως με το Pong έφερε την επανάσταση στον κόσμο των βίντεο παιχνιδιών.</p>
+
+|Σελίδα | Link |
+| --- | ----------|
+| Netlify  | [link](https://p2015002.netlify.app/biography/nolan-bushnell/)  |
+| bio-nolan.md | [GitHub](https://github.com/mariosconsta/extras/blob/master/bio-nolan.md) |
+| nolan-bushnell.md | [GitHub](https://github.com/mariosconsta/site/blob/master/_biography/nolan-bushnell.md)
+| Image | [Link](https://github.com/mariosconsta/images/blob/master/nolan-bushnell.jpg)
+
+## Πηγές:
+- [Nolan Bushnell Biography](https://www.thefamouspeople.com/profiles/nolan-bushnell-6310.php)
+- [Nolan Bushnell](https://www.famous-entrepreneurs.com/nolan-bushnell)
+
 # 11ο Παραδοτέο - Άσκηση γραμμής εντολών
 
 # 12ο Παραδοτέο - Επίλογος
