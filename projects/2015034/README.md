@@ -24,6 +24,7 @@
  Αυτή την εβδομάδα ασχολήθηκα κυρίως με την εγκατάσταση των Arch Linux σε ένα παλιό υπολογιστή που έχω. Για αρχή, έφτιαξα ένα usb stick bootable με το πρόγραμμα Rufus. Εν συνεχεία, με βάση το installation guide από το Arch Wiki, έκανα τις απαραίτητες κινήσεις για να εγκαταστήσω το λειτουργικό σύστημα Arch Linux στον υπολογιστή. Επιγραμματικά, έκανα configure το internet connection μου, έκανα partitions, format και mount πάνω στον σκληρό δίσκο. Έπειτα έκανα το base install και εγκατέστησα μερικά packages που θα χρειαστώ αργότερα(πχ. nano). Έκανα generate το fstab file, μπήκα με chroot και ρύθμισα το timezone και έφτιαξα και τα locales. Άλλαξα το hostname σε archlinux και έφτιαξα και τα hosts files. Έπειτα, έφτιαξα ένα password για το root, και έκανα install το boot loader(με pacman και grub). Μετά έκανα reboot το σύστημα μου, έβγαλα το usb stick και έκανα activate το internet connection να ανοίγει αυτόματα κάθε φορά που ανοίγω τον υπολογιστή. Έφτιαξα τον user μου με όνομα p2015034(τον Αριθμό Μητρώου μου), του έδωσα sudo rights και έβαλα password και σε αυτόν. Εγκατέστησα τα graphics drivers και το display server(xorg). Έκανα install το display manager(lxdm). Τέλος έβαλα και ένα desktop environment(xfce4). O λόγος που έβαλα xfce ήταν επειδή το σύστημα που έχω είναι αρκετά παλιό και το xfce είναι αρκετά ελαφρύ.
 
 
+
 # <a name="C">Συμμετοχικό Περιεχόμενο 1A </a>
 
 ## 1. Trackball
