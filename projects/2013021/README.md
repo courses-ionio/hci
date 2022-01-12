@@ -8,6 +8,14 @@
 
 <h4>Αποθετήριο site: https://github.com/AlexandrosV20/site </h4>
 
+### Στοιχεία από πλατφόρμα Actively Learn :
+Username	p13vyth@ionio.gr / First name	p13vyth / Last name	Π2013021
+
+### Στοιχεία από πλατφόρμα Edpuzzle :
+Username	p13vyth / First name Alexandros Vithoulkas / Last name P2013021
+
+[Ιστορικό αναφοράς](https://github.com/AlexandrosV20/hci/commits/2013021)
+
 # Παραδοτέα και Τελική αναφορά
 
 ## Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων
