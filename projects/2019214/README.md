@@ -115,6 +115,6 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 
 Πηγές: [Wikipedia - Sony U-matic](https://en.wikipedia.org/wiki/U-matic) & [Wikipedia Image - Sony U-matic](https://commons.wikimedia.org/wiki/File:U-matic.jpg) 
 <br />
-Σύνδεσμοι .md: [sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/sony-u-matic.md)
+Σύνδεσμοι .md: [sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/sony-u-matic.md) & [cs-sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-sony-u-matic.md)
 <br />
 Σύνδεσμοι εικόνων: [sony-u-matic.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-u-matic.jpg) & [sony-u-matic-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-u-matic-thumb.jpg)
