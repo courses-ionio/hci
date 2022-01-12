@@ -104,15 +104,22 @@
 [Αsciinema Link](https://asciinema.org/a/453311) 
 
 # Συμμετοχικό Περιεχόμενο 1Β
+Η μελέτη περίπτωσης την οποία έχω συγγράψει για το Συμμετοχικό Περιεχόμενο 1Β αφορά την αναδημιουργία των παιχνιδιών και παιχνιδομηχανών ρετρό, με μοντέρνα εργαλεία καθώς και την διάδραση του χρήστη με αυτά.
+
 [Case Study](https://github.com/p14kairas/extras/blob/2014002/cs-modern_retro_interaction.md)
+
 [caption](https://github.com/p14kairas/site/blob/2014002/_case-study/modern_retro_interaction.md)
+
+### Πηγές
+[Virtual Emulation](https://www.emuvr.net/) |
+[RetroPie Project](https://retropie.org.uk/) | [RetroConsoles](https://retroconsoles.fandom.com/wiki/Retro_Consoles_Wiki)
 
 
 
 
 # Παράρτημα Έξτρα Ασκήσεων εντολών
 Ύστερα από συννενόηση με εσάς στην ενδιάμεση παρουσίαση μου τονίσατε ότι δεν χρειαζόντουσαν ασκήσεις γραμμής εντολών στις πρώτες 6 εβδομάδες του εξαμήνου και μου προτείνατε να τις προσθέσω σε νέο παράρτημα στο τέλος της αναφοράς.
-# Άσκηση γραμμής εντολών 2
+
 ### Περιγραφή: Check the Weather
 Για την δεύτερη άσκηση γραμμής εντολών επέλεξα την άσκηση "Check the Weather" χρησιμοποιώντας την εντολή "curl wttr.in/Volos,Greece". 
 
@@ -124,7 +131,7 @@
 2) Το  περιβάλλον του τερματικού δεν είναι το κατάλληλο για γραφικά, παρόλα αυτά όλη η πληροφορία φαίνεται χωρίς κανένα πρόβλημα και είναι αρκετά περιγραφική.
 
 [Asciinema Link](https://asciinema.org/a/447939)
-# Άσκηση γραμμής εντολών 3
+
 
 ### Περιγραφή: Βecome productive with a todo list
 
