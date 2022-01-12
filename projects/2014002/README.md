@@ -104,6 +104,7 @@
 [Αsciinema Link](https://asciinema.org/a/453311) 
 
 # Συμμετοχικό Περιεχόμενο 1Β
+[Case Study](https://github.com/p14kairas/extras/blob/2014002/cs-modern_retro_interaction.md)
 [caption](https://github.com/p14kairas/site/blob/2014002/_case-study/modern_retro_interaction.md)
 
 
