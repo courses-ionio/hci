@@ -11,7 +11,7 @@
 | <a href="#D">6</a> | <a href="#D">Συμμετοχικό Περιεχόμενο 2A</a> |
 | <a href="#E">7</a> | <a href="#E">Άσκηση γραμμής εντολών 1</a> |
 | <a href="#F">8</a> | <a href="#F">Συμμετοχικό Περιεχόμενο 1Β</a> |
-| 9 | Άσκηση γραμμής εντολών |
+| <a href="#G">9</a> | <a href="#G">Άσκηση γραμμής εντολών 2</a> |
 | 10 | συμμετοχικό περιεχόμενο 2B |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -71,6 +71,11 @@
 
 ### Πηγές
 [The history of the video game controller](https://www.shortlist.com/lists/history-of-the-video-game-controller) | [Usability Testing of Video Game Controllers](https://sci-hub.se/10.1201/b21564-8) | [The Trackball Controller: Improving the Analog Stick](https://www.yorku.ca/mack/FuturePlay2010-1.pdf) | [Beyond the Gamepad: HCI and Game Controller Design and Evaluation](https://www.researchgate.net/publication/227144881_Beyond_the_Gamepad_HCI_and_Game_Controller_Design_and_Evaluation) | [Analog Stick Wiki](https://en.wikipedia.org/wiki/Analog_stick#History) | [Trackball Wiki](https://en.wikipedia.org/wiki/Trackball) | [Joystick Wiki](https://en.wikipedia.org/wiki/Joystick)
+
+## <a name="G">Άσκηση γραμμής εντολών 2 </a>
+Για την δεύτερη άσκηση γραμμής εντολών, ασχολήθηκα με το παραδοτέο emacs. Για αρχή, εγκατέστησα το emacs στον υπολογιστή μου και εκτέλεσα την εντολή emacs -nw για να ανοίξω το emacs editor σε μορφή τερματικού. Στη συνέχεια, πατώντας Ctrl+X+F άνοιξα ένα νέο αρχείο που το ονόμασα new notes. Με την χρήση του Alt+X και γράφοντας org-mode, άλλαξα τον editor σε org mode. Αρχικά, σχεδίασα το πρόγραμμα της επόμενης ημέρας μου με αστερίσκους χρησιμοποιώντας το Alt+Enter για τον ένα αστερίσκο και το Alt+Enter+Right Arrow για τους δύο αστερίσκους. Όρισα μερικές δραστηριότητες σαν DONE και μερικές σαν TODΟ με τη χρήση του Shift+Right Arrow. Εν συνεχεία, αντικατέστησα μερικούς αστερίσκους με - [ ] και πατώντας Ctrl+C+C συμπλήρωσα το ποσοστό σε 100%. Επιπλέον, με την ίδια εντολή πρόσθεσα μερικά ενδεικτικά tags σε κάποιες δραστηριότητες. Επιπλέον, πατώντας πάλι Alt+X και γράφοντας org-agenda, βλέπουμε πως εμφανίζονται διάφορες χρήσιμες συντομεύσεις. Τέλος, πατώντας Ctrl+C+D εμφανίζεται το ημερολόγιο με σκοπό την εισαγωγή ενός deadline. Αποθήκευσα το αρχείο μου με Ctrl+X+C και γύρισα πίσω στον τερματικό μου. Παρακάτω θα βρείτε το αντίστοιχο video από τον τερματικό μου.
+
+[Asciinema Link](https://asciinema.org/a/hQDMD1XsIHVW6CaRrWAZrFm7r)
 
 
 ## Extra Υλικό - Ασκήσεις Warm up
