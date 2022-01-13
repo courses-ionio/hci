@@ -190,13 +190,13 @@ Asciinema: https://asciinema.org/a/450774
 
 ## Συμμετοχικο περιεχομενο 2α
 
-## Διαφανειες και χρονολογιο:
+## Διαφανειες και χρονολογιο: 
 
 Διαφανειες στο προσωπικο site: https://p18kana.netlify.app//slides/programming/
 
 Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/master/_slides/programming.md
 
-Χρονολογιο στο προσωπικο site: https://p18kana.netlify.app//timeline/programming/
+Χρονολογιο στο προσωπικο site: https://p18kana.netlify.app//timeline/programming/ (δεν εμφανιζει την εικονα της swift)
 
 Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/master/_timeline/programming.md
 
