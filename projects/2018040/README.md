@@ -241,6 +241,38 @@ asciinema: https://asciinema.org/a/444859
 Αποθετηριο κειμενου μελετης: https://github.com/p18kana/site/blob/master/_case-study/cs-swift.md
 
 ##### [9]
+  
+## Ασκηση γραμμης εντολων: organise the terminal window into multiple areas(hci)
+
+asciinema: 
+
+**Βήματα:**
+
+Κανω εγκατάσταση των απαραίτητων πακέτων  ``sudo pacman -S vim``, ``sudo pacman -S vi``.
+
+Με το ``asciinema rec -i 0.2`` ξεκιναω το record του terminal.
+
+Επιλογη ενος print script σε python **script.py**
+
+Ανοιγμα script ``vim script.py`` 
+
+Χρηση INSERT mode με το πληκτρο ``I `` 
+
+Χρηση READ-ONLY mode με το πληκτρο ``esc``
+
+Ενεργοποιηση highlighting κωδικα ``syntax off``,``syntax on``
+
+Αποθηκευση του αρχειου ``:w`` 
+
+Εξοδος στο terminal  ``:q``
+
+Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
+
+**Αποτελέσματα:** 
+
+![]()
+
+**Πηγή:**
 
 ##### [10]
 
