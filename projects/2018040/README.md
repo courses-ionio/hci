@@ -192,11 +192,11 @@ Asciinema: https://asciinema.org/a/450774
 
 ## Διαφανειες και χρονολογιο:
 
-Διαφανειες στο προσωπικο site:
+Διαφανειες στο προσωπικο site: https://p18kana.netlify.app//slides/programming/
 
 Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/master/_slides/programming.md
 
-Χρονολογιο στο προσωπικο site:
+Χρονολογιο στο προσωπικο site: https://p18kana.netlify.app//timeline/programming/
 
 Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/master/_timeline/programming.md
 
