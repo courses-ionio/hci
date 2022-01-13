@@ -142,8 +142,6 @@ https://wiki.archlinux.org/title/Dotfiles
 
 Αποθετηριο thumbnail: https://github.com/p18kana/images/blob/master/swift-thumb.png
 
-Ενημέρωση του images submodule μεσω terminal: https://asciinema.org/a/449292
-
 ##### [5]
 
 ## Ασκηση γραμμης εντολων: check the weather (warmup)
