@@ -104,7 +104,7 @@
 
 | Περιγραφή | Repository Link |
 | --- | --- |
-| IBM Simon Personal Communicator | [ibm-simon.md](https://github.com/thanosks/site/blob/2020150/_case-study/ibm-simon.md) + [cs-simon.md](https://github.com/thanosks/site/blob/2020150/_biography/bio-fergason.md) |
+| IBM Simon Personal Communicator | [ibm-simon.md](https://github.com/thanosks/site/blob/2020150/_case-study/ibm-simon.md) + [cs-simon.md](https://github.com/thanosks/site/blob/2020150/_case-study/cs-ibm-simon.md) |
 | James Fergason | [james-fergason.md](https://github.com/thanosks/site/blob/2020150/_biography/james-fergason.md) + [bio-fergason.md](https://github.com/thanosks/site/blob/2020150/_biography/bio-fergason.md) |
 
 ## **Links**
