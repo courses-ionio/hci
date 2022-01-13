@@ -9,6 +9,8 @@
 #### Επιβλέπων Καθηγητής
 * Κωνσταντίνος Χωριανόπουλος
 
+<h4>Edpuzzle profile/Actively learn: p18kana 2018040<h4>
+
 # Παραδοτέα
 
 | Εβδομάδα* | Παραδοτέο |
@@ -21,7 +23,7 @@
 | 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο 2A </a></sup> |
 | 7 | <sup><a href="#7"> Άσκηση γραμμής εντολών: download-mp3(hci) </a></sup> |
 | 8 | <sup><a href="#8"> Συμμετοχικό περιεχόμενο 1B </a></sup> |
-| 9 | Άσκηση γραμμής εντολών </a></sup> |
+| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: organise the terminal window into multiple areas(hci) </a></sup> |
 | 10 | <sup><a href="#10"> Συμμετοχικό περιεχόμενο 2B </a></sup> |
 | 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών: text editor and plug-ins for code highlighting and autocompletion (hci) </a></sup> |
 | 12 | <sup><a href="#12"> Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση </a></sup> |
@@ -303,7 +305,7 @@ script: https://github.com/p18kana/HCI-files/blob/main/script.py
 | Άσκηση γραμμής εντολών: set-up the main dependencies and demonstrate your base system (warmup) | ΕΓΚΥΡΟ | 100% |
 | Συμμετοχικό περιεχόμενο 1A | ΕΓΚΥΡΟ | 100% |
 | Άσκηση γραμμής εντολών: check the weather (warmup) | ΕΓΚΥΡΟ | 100% |
-| Συμμετοχικό περιεχόμενο 2A | ΕΓΚΥΡΟ | 100% |
+| Συμμετοχικό περιεχόμενο 2A | ΕΓΚΥΡΟ | 90% |
 | Άσκηση γραμμής εντολών: download-mp3(hci) | ΕΓΚΥΡΟ | 100% |
 | Συμμετοχικό περιεχόμενο 1B | ΕΓΚΥΡΟ | 100% |
 | Άσκηση γραμμής εντολών | ΕΓΚΥΡΟ | 100% |
