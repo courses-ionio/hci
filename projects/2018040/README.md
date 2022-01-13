@@ -232,17 +232,13 @@ asciinema: https://asciinema.org/a/444859
 
 ## Συμμετοχικο περιεχομενο 1β
 
-## Μελετη περιπτωσης:
+## Μελετη περιπτωσης: Swift, Swift Playgrounds και Διάδραση
 
-Μελετη περιπτωσης στο προσωπικο site:
+Μελετη περιπτωσης στο προσωπικο site: 
 
-Αποθετηριο μελετης περιπτωσης:
+Αποθετηριο μελετης περιπτωσης: https://github.com/p18kana/site/blob/master/_case-study/swift.md
 
-Αποθετηριο κειμενου μελετης:
-
-## Πληροφοριες:
-
-**Πηγή:**
+Αποθετηριο κειμενου μελετης: https://github.com/p18kana/site/blob/master/_case-study/cs-swift.md
 
 ##### [9]
 
