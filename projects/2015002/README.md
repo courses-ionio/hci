@@ -138,6 +138,15 @@ To 1972 ήταν η χρονιά που κυκλοφόρησε το Pong της 
 | Atari Home Pong | [Εικόνα](https://github.com/mariosconsta/images/blob/master/atari-home.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/atari-home-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/atari-home.md) | [link](https://p2015002.netlify.app//gallery/atari-home/) |
 | Xbox adaptive controller | [Εικόνα](https://github.com/mariosconsta/images/blob/master/xbox-adaptive-controller.png) - [Thumbnail](https://github.com/mariosconsta/images/blob/master/xbox-adaptive-controller-thumb.png) | [MD Αρχείο](https://github.com/mariosconsta/_gallery/blob/master/adaptive-xbox-controller.md) | [link](https://p2015002.netlify.app/gallery/adaptive-xbox-controller/) |
 
+### Δυσκολίες
+Πρώτη φόρα είχα ακούσει και δουλέψει με submodules. Έκανα πολλά λάθη γιατί είχα μπερδευτεί στο τι ακριβός είναι ένα submodule και μου πήρε αρκετό χρόνο να κατανοήσω την διαδικασία που πρέπει να ακολουθήσω για να υλοποιήσω αυτό το παραδοτέο.
+Βέβαια μετά από αρκετό καιρό δεν μπορούσα να βρω το πρόβλημα και με την βοήθεια ενός συμφοιτητή κατάφερα να χειριστώ τα απαιτούμενα submodules για το παραδοτέο. Το πρόβλημα μου ήταν με ποια σειρά έπρεπε να τρέξω τις git εντολές στο terminal. Παρόλα αυτά, έμαθα πως λειτουργούν τα submodules και μπόρεσα να ολοκληρώσω το ζητούμενο της εργασίας.
+
+## Πηγές:
+- [The First Video Game?](https://www.bnl.gov/about/history/firstvideo.php)
+- [William Higinbotham](https://en.wikipedia.org/wiki/William_Higinbotham#Career)
+- [Atari Inc](https://en.wikipedia.org/wiki/Atari,_Inc.)
+
 ---
 
 # 5ο Παραδοτέο - Try a different Shell
@@ -183,13 +192,8 @@ To 1972 ήταν η χρονιά που κυκλοφόρησε το Pong της 
 |Video Games| [link](https://github.com/mariosconsta/site/blob/master/_timeline/videogames.md)| Timeline | [link](https://p2015002.netlify.app//timeline/videogames/) |
 
 
-#### EDIT LATER:
-
-<p>
-Duplicate pong entries in videogame timeline </br>
-FIX: Add .jpg and .png to the appropriate images so the system can tell them apart.
-MODIFY SLIDES IN PROSVASIMOTITA TO BE MORE RELEVANT
-</p>
+### Δυσκολίες
+Στο συγκεκριμένο παραδοτέο δεν είχα πρόβλημα με τα submodules. Το πρόβλημα ήταν ότι στο timeline είχα duplicate το Atari Pong. Η δική μου προσθήκη ήταν το Atari Home αλλά από τι φαίνεται επειδή τα ονόματα των αρχείων ήταν παρόμοια το σύστημα νόμιζε ότι και τα δύο ήταν Atari Pong. Η εικόνα που φαινότανε στο δικό μου αρχείο ήταν λανθασμένη. Αντί να φαίνεται το Atari Home φαινόταν το Atari Pong. Βέβαια αν πατούσες πάνω στο αρχείο που προσπαθούσα να προσθέσω σε πήγαινε στο σωστό. Εκεί κατάλαβα πως το πρόβλημα ήταν στην ονομασία της εικόνας. Άλλαξα τα ονόματα στις εικόνες για να ξεχωρίζουν, έκανα update το submodule, deploy το site και όλα δούλεψαν κανονικά!
 
 ---
 
@@ -198,7 +202,10 @@ MODIFY SLIDES IN PROSVASIMOTITA TO BE MORE RELEVANT
 
 <p>Βρήκα ένα εργαλείο που λέγετε ytfzf όπου μπορείς να κάνεις search βίντεο του YouTube και στην συνέχεια σου δίνει την επιλογή να τα κατεβάσεις. Η διαδικασία ήταν σχετικά εύκολη και όλα κύλισαν ομαλά μέχρι το σημείο που κατέβασα το βίντεο που ήθελα.</p>
 
-<p>Στο σημείο που κόλλησα ήταν να μετονομάσω το αρχείο σε κάτι άλλο. Για να κάνω την ζωή μου πιο εύκολη, χρησιμοποίησα alias,το xclip και mv εντολές για να δώσω άλλο όνομα στο αρχείο. Αφού έγινε η εγκατάσταση, έτρεξα την εντολή, άλλαξα το όνομα του αρχείου και έκανα αναπαραγωγή του βίντεο με mplayer.</p>
+### Δυσκολίες
+<p>Το σημείο που κόλλησα ήταν να μετονομάσω το αρχείο σε κάτι άλλο. Για να κάνω την ζωή μου πιο εύκολη, χρησιμοποίησα alias,το xclip και mv εντολές για να δώσω άλλο όνομα στο αρχείο. Αφού έγινε η εγκατάσταση, έτρεξα την εντολή, άλλαξα το όνομα του αρχείου και έκανα αναπαραγωγή του βίντεο με mplayer.</p>
+
+<p>Χρειάστηκα λίγο χρόνο στο να μάθω πως λειτουργεί το Alias και παράλληλα δεν ήξερα πως αν δεν βάλω το alias που δημιούργησα στο bash_aliases τότε δεν αποθηκεύεται με αποτέλεσμα όταν ξανά ανοίξω το terminal να μην υπάρχει. Και αυτό φαίνεται στο asciinema που ανέβασα όταν γράφω pbcopy, το shell επιστρέφει “Command not found”.</p>
 
 |Βήμα | Asciinema |
 | --- | ----------|
@@ -214,11 +221,16 @@ MODIFY SLIDES IN PROSVASIMOTITA TO BE MORE RELEVANT
 # 8ο Παραδοτέο - Συμμετοχικό περιεχόμενο Β1
 <p> Για το παραδοτέο Β1 αποφάσισα να κάνω μία έρευνα για την κατάσταση της προσβασιμότητας στα βίντεο παιχνίδια και συγκεκριμένα στις κονσόλες. Μέσα από διάφορες πηγές, προς δική μου ευχαρίστηση, είδα πως υπάρχουν αρκετά εργαλεία και μέθοδοι που να επιτρέπουν σε άτομα με αναπηρία να απολαύσουν τα βίντεο παιχνίδια.</p>
 
-<p>Παράλληλα είδα πως υπάρχει μια τεράστια κοινότητα πίσω από αυτό, προωθώντας αυτό το ζήτημα!</p>
+<p>Παράλληλα είδα πως υπάρχει μια τεράστια κοινότητα που προωθεί αυτό το ζήτημα!</p>
 
 |Σελίδα | Link |
 | --- | ----------|
-| Netlify  | [link](https://p2015002.netlify.app/case-study/game-accessibility/)  |
+| Netlify  | [site](https://p2015002.netlify.app/case-study/game-accessibility/)  |
+| Case Study | [game-accessibility.md](https://github.com/mariosconsta/site/blob/master/_case-study/game-accessibility.md) |
+| Extras| [cs-accessibility.md](https://github.com/mariosconsta/extras/blob/master/cs-accessibility.md) |
+
+### Δυσκολίες
+Στο συγκεκριμένο παραδοτέο είχα απορία το μεγάλο κείμενο που φαίνεται στην σελίδα από που προέρχεται, διότι στο .md αρχείο μέσα στον φάκελο _case-study δεν ήταν το ίδιο κείμενο. Μετά από λίγο είδα στην τελευταία γραμμή {% include extras/cs-facebook.md %} και {% include gallery %}. Εκεί κατάλαβα ότι το κείμενο και οι φωτογραφίες θα παρθούν από τον φάκελο extras και gallery. Συνέχισα λοιπόν και δημιούργησα τα ανάλογα αρχεία και φωτογραφίες, τα ανέβασα στα ανάλογα submodules, έκανα build και deploy το site και όλα δούλεψαν κανονικά εκτός από τις φωτογραφίες που μέχρι τώρα δεν μπορώ να καταλάβω γιατί δεν φαίνονται.
 
 ## Πηγές:
 - [Game accessibility: a survey](https://link.springer.com/article/10.1007%2Fs10209-010-0189-5)
