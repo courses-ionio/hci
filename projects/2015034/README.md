@@ -12,7 +12,7 @@
 | <a href="#E">7</a> | <a href="#E">Άσκηση γραμμής εντολών 1</a> |
 | <a href="#F">8</a> | <a href="#F">Συμμετοχικό Περιεχόμενο 1Β</a> |
 | <a href="#G">9</a> | <a href="#G">Άσκηση γραμμής εντολών 2</a> |
-| 10 | συμμετοχικό περιεχόμενο 2B |
+| <a href="#H">10</a> | <a href="#H">συμμετοχικό περιεχόμενο 2B</a> |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
@@ -82,6 +82,14 @@
 
 [Asciinema Link](https://asciinema.org/a/hQDMD1XsIHVW6CaRrWAZrFm7r)
 
+# <a name="H">Συμμετοχικό Περιεχόμενο 2Β </a>
+
+Για αυτό το παραδοτέο, έκανα έρευνα για τον Ralph H Baer, τον εφευρέτη του Joystick και γνωστό έως και σήμερα ως "πατέρα των βιντεοπαιχνιδιών", λόγω του οραματός του.
+
+[md file](https://github.com/p15bako/site/blob/2015034/_biography/Ralph-H-Baer.md) [image](https://github.com/p15bako/images/blob/2015034/Ralph-H-Baer.jpg) [Αναλυτικό βιογραφικό](https://github.com/p15bako/extras/blob/2015034/bio-baer.md)
+
+### Πηγές
+[Ralph H Baer at simulationinformation](https://www.simulationinformation.com/hall-of-fame/members/ralph-h-baer/) | [Ralph H Baer at Nation Inventors Hall of Fame](https://www.invent.org/inductees/ralph-h-baer) | [Ralph H Baer Wiki](https://en.wikipedia.org/wiki/Ralph_H._Baer) | [The Father of the Video Game: The Ralph Baer Prototypes and Electronic Games](https://americanhistory.si.edu/collections/object-groups/the-father-of-the-video-game-the-ralph-baer-prototypes-and-electronic-games) | [Video game history](https://www.ralphbaer.com/video_game_history.htm) | [Baer’s Odyssey: Meet the serial inventor who built the world’s first game console](https://arstechnica.com/gaming/2014/12/in-the-beginning-ralph-h-baer-and-the-birth-of-the-game-console/) | [Ralph Baer at Immigrant Enterpreneurship](https://www.immigrantentrepreneurship.org/entries/ralph-baer/)
 
 ## Extra Υλικό - Ασκήσεις Warm up
 
