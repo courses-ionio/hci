@@ -232,6 +232,11 @@ To 1972 ήταν η χρονιά που κυκλοφόρησε το Pong της 
 ### Δυσκολίες
 Στο συγκεκριμένο παραδοτέο είχα απορία το μεγάλο κείμενο που φαίνεται στην σελίδα από που προέρχεται, διότι στο .md αρχείο μέσα στον φάκελο _case-study δεν ήταν το ίδιο κείμενο. Μετά από λίγο είδα στην τελευταία γραμμή {% include extras/cs-facebook.md %} και {% include gallery %}. Εκεί κατάλαβα ότι το κείμενο και οι φωτογραφίες θα παρθούν από τον φάκελο extras και gallery. Συνέχισα λοιπόν και δημιούργησα τα ανάλογα αρχεία και φωτογραφίες, τα ανέβασα στα ανάλογα submodules, έκανα build και deploy το site και όλα δούλεψαν κανονικά εκτός από τις φωτογραφίες που μέχρι τώρα δεν μπορώ να καταλάβω γιατί δεν φαίνονται.
 
+Επίσης είχα μπερδέψει κάτι στις εντολές όταν έκανα update τα submodules. Στο Deploy του Netlify μου έβγαζε fail με error “Liquid Exception: Could not locate the included file …” και δεν μπορούσα να καταλάβω το γιατί. Για κάποιο λόγο παρόλο που το submodule έγινε update, μου έλεγε ότι δεν μπορούσε να βρει το αρχείο στον φάκελο extras πράγμα που δεν μπορούσα να καταλάβω διότι το αρχείο ήταν μέσα στο submodule. Μου πήρε δύο ώρες να καταλάβω πως έκανα update το submodule αλλά δεν έκανα update το site repository. Αφού έτρεξα τις εντολές git add, commit και push στο site repository το deploy δούλεψε.
+
+![Netlify Errors](https://i.imgur.com/oxwbTBR.png)
+![Netlify Errors](https://i.imgur.com/RGwU6ZV.png)
+
 ## Πηγές:
 - [Game accessibility: a survey](https://link.springer.com/article/10.1007%2Fs10209-010-0189-5)
 - [Video Games, Accessibility And Invincibility](https://www.theouterhaven.net/2021/07/video-games-accessibility-and-invincibility/)
@@ -258,6 +263,14 @@ To 1972 ήταν η χρονιά που κυκλοφόρησε το Pong της 
 - [How to open Emacs inside Bash](https://stackoverflow.com/questions/8746227/how-to-open-emacs-inside-bash)
 - [Basic emacs Commands](https://www2.hawaii.edu/~walbritt/ics211/materials/emacs.htm)
 
+### Δυσκολίες
+Το emacs μπορεί να κάνει σχεδόν τα πάντα. Είναι ένας ισχυρός text-editor με μία μεγάλη γκάμα από λειτουργίες. Αυτό είναι καλό, αλλά ταυτόχρονα σε μπερδεύει. Μου πήρε λίγο χρόνο να βρω πως έπρεπε να χρησιμοποιήσω το org mode και παράλληλα το -nw παράμετρο για να ανοίγει στο terminal.
+
+Το επόμενο “εμπόδιο” ήταν να μάθω τα βασικά keybinds τα οποία ήταν πολλά. Όλες οι λειτουργίες μπορούν να γίνουν με το πληκτρολόγιο και για αυτό τον λόγο τα keybinds που έχει είναι αμέτρητα. Βέβαια με λίγη εξάσκηση κατάφερα να μάθω τα keybinds που ήθελα για να φτιάξω ένα απλό to-do list.
+
+Έχω να πω πως παρατήρησα ότι γράφω με μεγαλύτερη άνεση στο terminal χωρίς να πρέπει να ψάχνω συνέχεια στο διαδίκτυο εντολές και σύνταξη. Η αυτοπεποίθηση μου ανέβηκε και πλέον δεν το βλέπω σαν βουνό.
+
+
 
 # 10ο Παραδοτέο - Συμμετοχικό περιεχόμενο Β2
 
@@ -273,6 +286,8 @@ To 1972 ήταν η χρονιά που κυκλοφόρησε το Pong της 
 ## Πηγές:
 - [Nolan Bushnell Biography](https://www.thefamouspeople.com/profiles/nolan-bushnell-6310.php)
 - [Nolan Bushnell](https://www.famous-entrepreneurs.com/nolan-bushnell)
+
+Το συγκεκριμένο παραδοτέο δεν μου παρουσίασε κάποιο πρόβλημα. Έχω μάθει να χειρίζομαι τα submodules και το πως εμφανίζετε το κείμενο στην σελίδα. Με κάθε άσκηση και παραδοτέο βλέπω πως γίνομαι πιο γρήγορος όχι μόνο στην εκτέλεση αλλά και στο όταν μαθαίνω καινούρια πράγματα.
 
 # 11ο Παραδοτέο - Άσκηση γραμμής εντολών
 
