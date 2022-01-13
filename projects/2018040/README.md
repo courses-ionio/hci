@@ -244,6 +244,18 @@ asciinema: https://asciinema.org/a/444859
 
 ##### [10]
 
+## Συμμετοχικο περιεχομενο 2β 
+
+## Βιογραφια: Chris Lattner
+
+Βιογραφια στο προσωπικο site:
+
+Αποθετηριο βιογραφιας: https://github.com/p18kana/site/blob/master/_biography/chris-lattner.md
+
+Αποθετηριο κειμενου βιογραφιας: https://github.com/p18kana/site/blob/master/_biography/bio-lattner.md
+
+**Πηγη:** https://handwiki.org/wiki/Biography:Chris_Lattner
+
 ##### [11]
 
 ## Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion (hci)
