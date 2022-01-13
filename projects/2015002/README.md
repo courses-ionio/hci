@@ -262,6 +262,7 @@ To 1972 ήταν η χρονιά που κυκλοφόρησε το Pong της 
 - [Org mode beginning at the basics](https://orgmode.org/worg/org-tutorials/org4beginners.html)
 - [How to open Emacs inside Bash](https://stackoverflow.com/questions/8746227/how-to-open-emacs-inside-bash)
 - [Basic emacs Commands](https://www2.hawaii.edu/~walbritt/ics211/materials/emacs.htm)
+- [How do I install Emacs?](https://www.gnu.org/software/emacs/manual/html_node/efaq/Installing-Emacs.html)
 
 ### Δυσκολίες
 Το emacs μπορεί να κάνει σχεδόν τα πάντα. Είναι ένας ισχυρός text-editor με μία μεγάλη γκάμα από λειτουργίες. Αυτό είναι καλό, αλλά ταυτόχρονα σε μπερδεύει. Μου πήρε λίγο χρόνο να βρω πως έπρεπε να χρησιμοποιήσω το org mode και παράλληλα το -nw παράμετρο για να ανοίγει στο terminal.
@@ -297,7 +298,13 @@ To 1972 ήταν η χρονιά που κυκλοφόρησε το Pong της 
 | --- | ----------|
 | Asciinema  | [link](https://asciinema.org/a/461367?fbclid=IwAR0wwetfDvcYMxFWH-_zZuJDXa0xW7_ZGpZ79gkrmedN-0iV2PjDSF1v-Zw)  |
 
+### Δυσκολίες
 <p>Αφού εγκατέστησα pip, glances και tmux έπρεπε να εξοικειωθώ με τα keybinds του tmux για να ρυθμίσω το terminal στα δικά μου μέτρα. Μετά από αυτό όλα έτρεξαν ομαλά χωρίς κανένα πρόβλημα!</p>
+
+Στο συγκεκριμένο παραδοτέο δεν αντιμετώπισα κάποιο πρόβλημα. Όλες οι εντολές έτρεξαν από την πρώτη φορά και το αποτέλεσμα ήταν αυτό που ζητούσε η άσκηση. Χώρισα το terminal σε παράθυρα όπου στο ένα έκανα monitor το performance του υπολογιστή και στο άλλο έκανα αναπαραγωγή βίντεο από YouTube.
+
+Για να μην βγει μεγάλο το asciinema επέλεξα να μην προσθέσω παραπάνω λειτουργείες όπως text-editing με vim κλπ. διότι είναι κάτι που έκανα ήδη στα προηγούμενα παραδοτέα και η διαδικασία είναι ακριβός η ίδια απλά η διαφορά τώρα ήταν πως θα είχα παραπάνω πληροφορία στο terminal από τα άλλα παράθυρα.
+
 
 ## Πηγές:
 - [Getting started with Tmux](https://linuxize.com/post/getting-started-with-tmux/?fbclid=IwAR0Tf7GAqO8L1wnJ-Xkpz9Miih6dHsqkRC9Q8coUKBpxwPw62MYTDe4E6LQ)
