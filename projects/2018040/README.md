@@ -234,7 +234,7 @@ asciinema: https://asciinema.org/a/444859
 
 ## Μελετη περιπτωσης: Swift, Swift Playgrounds και Διάδραση
 
-Μελετη περιπτωσης στο προσωπικο site: 
+Μελετη περιπτωσης στο προσωπικο site: https://p18kana.netlify.app//case-study/swift/
 
 Αποθετηριο μελετης περιπτωσης: https://github.com/p18kana/site/blob/master/_case-study/swift.md
 
@@ -248,7 +248,7 @@ asciinema: https://asciinema.org/a/444859
 
 ## Βιογραφια: Chris Lattner
 
-Βιογραφια στο προσωπικο site:
+Βιογραφια στο προσωπικο site: https://p18kana.netlify.app//biography/chris-lattner/
 
 Αποθετηριο βιογραφιας: https://github.com/p18kana/site/blob/master/_biography/chris-lattner.md
 
