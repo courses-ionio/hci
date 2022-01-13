@@ -126,13 +126,13 @@ https://wiki.archlinux.org/title/Dotfiles
 
 Κανω fork τα απαραιτητα αποθετηρια και δημιουργια των καταλληλων submodule με βαση τις οδηγιες του συμμετοχικου.
 
-## Εικονα 1: UNIX
+## Εικονα 1: Python
 
-Εικονα στο προσωπικο site: https://p18kana.netlify.app//gallery/unix/
+Εικονα στο προσωπικο site: https://p18kana.netlify.app//gallery/python/
 
-Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/unix.md
+Αποθετηριο εικονας: https://github.com/p18kana/_gallery/blob/master/python.md
 
-Αποθετηριο thumbnail: https://github.com/p18kana/images/blob/master/unix-thumb.jpg
+Αποθετηριο thumbnail: https://github.com/p18kana/images/blob/master/python-thumb.png
 
 ## Εικονα 2: Swift
 
