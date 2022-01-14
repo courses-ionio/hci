@@ -244,35 +244,43 @@ asciinema: https://asciinema.org/a/444859
   
 ## Ασκηση γραμμης εντολων: organise the terminal window into multiple areas(hci)
 
-asciinema: 
+asciinema: https://asciinema.org/a/461690
 
+Script που χρησιμοποιηθηκε: https://github.com/p18kana/HCI-files/blob/main/script9.py  
+  
 **Βήματα:**
 
-Κανω εγκατάσταση των απαραίτητων πακέτων  ``sudo pacman -S vim``, ``sudo pacman -S vi``.
+Κανω εγκατάσταση των απαραίτητων πακέτων  ``sudo pacman -S tmux``, ``sudo pacman -S sysstat``.
 
 Με το ``asciinema rec -i 0.2`` ξεκιναω το record του terminal.
 
-Επιλογη ενος print script σε python **script.py**
+Επιλογη ενος print script σε python **script9.py**
 
-Ανοιγμα script ``vim script.py`` 
-
-Χρηση INSERT mode με το πληκτρο ``I `` 
-
-Χρηση READ-ONLY mode με το πληκτρο ``esc``
-
-Ενεργοποιηση highlighting κωδικα ``syntax off``,``syntax on``
-
-Αποθηκευση του αρχειου ``:w`` 
-
-Εξοδος στο terminal  ``:q``
+Επιλογη location του script ``cd Downloads``
+  
+Δημιουργια νεου session ``tmux``
+  
+Ανοιγμα script ``vim script9.py``
+  
+Επεξεργασια κειμένου script σε insert mode με το πληκτρο ``I``
+  
+Αποθηκευση αλλαγων και εξοδος με το πληκτρο ``esc``
+  
+Εναλλαγη session με τα πληκτρα ``ctrl-b,s``
+  
+Προβολη συνολου session στο background ``tmux ls``
+  
+Αξιολογηση αποδοσης ``vmstat``  
+  
+Εξοδος απο ολα τα session με τα πληκτρα ``ctrl-b,d``
 
 Με την εντολή ``exit`` ολοκλήρωσα το recording του terminal.
 
 **Αποτελέσματα:** 
 
-![]()
+![vmstat](https://github.com/p18kana/HCI-files/blob/main/vmstat.png)
 
-**Πηγή:**
+**Πηγή:** https://www.linode.com/docs/guides/use-vmstat-to-monitor-system-performance/
 
 ##### [10]
 
