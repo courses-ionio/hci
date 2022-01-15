@@ -123,6 +123,19 @@ H βιογραφία του Eben Upton:
 
 ### Πηγές
 [Royal academy of Engineering](https://www.raeng.org.uk/about-us/the-fellowship/new-fellows-2017/fellows/eben-upton) | [Eben Upton: Raspberry Pi pdf](https://www.computer.org/csdl/magazine/co/2013/10/mco2013100014/13rRUwx1xMf) | [BCS The chartered institute of IT](https://www.bcs.org/events/awards-and-competitions/distinguished-fellowship-distfbcs/roll-of-distinguished-fellows/eben-upton/)
+# Άσκηση γραμμής εντολών 2
+### Περιγραφή: Οrganize your notes with emacs
+Για την 2η άσκηση γραμμής εντολών ασχολήθηκα με το emacs δημιουργώντας ένα απλό task list για μία γιορτή στην οποία και έγιναν τα παρακάτω βήματα.
+
+1)Αρχικά μπαίνουμε σε περιβάλλον το οποίο να μπορούμε να κάνουμε edit με την εντολή org-mode.
+2)Στην συνέχεια χρησιμοποιώντας τα κατάλληλα shortkeys δημιουργούμε λίστα ενεργειών, πρωτέυον(με μονούς) και δευτερέυον (με διπλους αστερίσκους) που πρέπει να γίνουν
+3)Επιλέγουμε ποιες από αυτές θέλουμε να είναι προς εκτέλεση και με CTRL-C-C τις αλλάζουμε σε TODO. Όσες από αυτές έχουν εκτελεστεί τότε με τον ίδιο τρόπο τις αλλάζω σε DONE.
+4)Eπίσης μας δίνετε και η δυνατήτοτα να προσθέσουμε Tags για κάθε διεργασία στα δεξία τους (όπως πχ για το που θα εκτελεστεί η διαδικασία, ποιος θα την εκτελέσει κλτπ)
+5)Με την εντολή org-agenda έχουμε την δυνατότητα να δούμε κάποια απο τα shortcuts που υπάρχουν.
+6)Tέλος μπορούμε να δούμε και το ημερολόγιο και να προσθέσουμε την ημερομηνία που θέλουμε να έχει ως deadline.
+Εντολές που χρησιμοποιήθηκαν:emacs -nw , Alt + X, org-mode, Alt + Enter, Shift + right arrow, Alt + Enter + right arrow, Ctrl + C + C, CTRL + C+ D, Ctrl + X +C 
+
+[Αsciinema Link](https://asciinema.org/a/461410) 
 
 # Παράρτημα Έξτρα Ασκήσεων εντολών
 Ύστερα από συννενόηση με εσάς στην ενδιάμεση παρουσίαση μου τονίσατε ότι δεν χρειαζόντουσαν ασκήσεις γραμμής εντολών στις πρώτες 6 εβδομάδες του εξαμήνου και μου προτείνατε να τις προσθέσω σε νέο παράρτημα στο τέλος της αναφοράς.
