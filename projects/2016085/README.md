@@ -10,12 +10,12 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Εισαγωγή](#εισαγωγη) |
-| 2 | [Warm-Up / Check The Weather](#άσκηση-warm-up---check-the-weather)
-| 3 | [Warm-Up / Fetch Information](#άσκηση-warm-up---fetch-information)
-| 4 - 6 | [Συμμετοχικό Περιεχόμενο Α1 - A2](#συμμετοχικό-περιεχόμενο-α1-και-α2)
-| 5 | [Warm-Up / Become Productive With a To-Do List](#άσκηση-warm-up---become-productive-with-a-to-do-list) 
-| 7 | [Search, Download and Play a YouTube Video](#άσκηση-γραμμής-εντολών---search-download-and-play-a-youtube-video)
-| 8 - 10 | [Συμμετοχικό Περιεχόμενο 1B - 2Β](#συμμετοχικό-περιεχόμενο-1β---2β)
+| 2 | [Arch Linux](#arch-linux)|
+| 3 | [Warm-Up ασκήσεις](#warm)|
+| 4 - 6 | [Συμμετοχικό Περιεχόμενο Α1 - A2](#συμμετοχικό-περιεχόμενο-α1-και-α2)|
+| 5 | [Warm-Up / Become Productive With a To-Do List](#άσκηση-warm-up---become-productive-with-a-to-do-list) |
+| 7 | [Search, Download and Play a YouTube Video](#άσκηση-γραμμής-εντολών---search-download-and-play-a-youtube-video)|
+| 8 - 10 | [Συμμετοχικό Περιεχόμενο 1B - 2Β](#συμμετοχικό-περιεχόμενο-1β---2β)|
 | 9 | [Organise The Terminal Window Into Multiple Areas](#organise-the-terminal-window-into-multiple-areas)  |
 | 11 | [Organize Your Notes With emacs](#organise-your-notes-with-emacs) |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -32,7 +32,40 @@
 μπορέσω να ενστερνιστώ τους λόγους για τους οποίους επιστήμονες και εταιρείες δούλεψαν για να λύσουν προβλήματα της διάδρασης αλλά και να την εξελίξουν και τέλος να
 αποκτήσω σφαιρική γνώση και άποψη με τη βοήθεια όσων προαναφέρθηκαν για την διάδραση του ανθρώπου με τον υπολογιστή.
 
-# Warm - Up ασκήσεις
+
+# Arch Linux
+
+Η προσπάθειά μου να εγκαταστήσω το λογισμικό Arch Linux σε USB οδήγησε σε error στο σημείο στο οποίο έπρεπε να εγκατασταθεί το grub. Παρακάτω παραθέτω όλα τα βήματα 
+τα οποία έκανα για να ολοκληρώσω την εγκατάσταση καθώς και όλα τα troubleshootings που δοκίμασα τα οποία περιείχαν και κάποιες αλλαγές στις ρυθμίσεις του BIOS, χωρίς 
+αποτέλεσμα. Δυστυχώς δεν μπόρεσα να ολοκληρώσω την εγκατάσταση και αναγκάστηκα να χρησιμοποιήσω Virtual Machine για την εκπλήρωση των εργασιών.
+
+| Βήμα | Ενέργεια |
+| --- | --- |
+| Προετοιμασία των USB | Για να γίνει εφικτή η εγκατάσταση προετοίμασα το ένα USB σαν bootable, μέσω του Etcher, το οποίο περιείχε όλα τα απαραίτητα αρχεία μαζί με το ISO. Εφόσον έγινε η σύνδεση και το αρχικό boot από αυτό το USB, τοποθέτησα και το δεύτερο USB stick το οποίο ήταν εντελώς άδειο για να συνεχιστεί η διαδικασία εγκατάστασης. |
+| Γλώσσα Πληκτρολογίου | Από προηγούμενή μου εμπειρία με την εγκατάσταση Ubuntu, και διάφορα errors που είχε προκαλέσει η διαδικασία προσθήκης keyboard layout, αποφάσισα να αφήσω το default layout σε US |
+| Σύνδεση στο διαδίκτυο | Αν και ο υπολογιστής μου ήταν συνδεδεμένος με ethernet, για σιγουριά πως όλα λειτουργούν σωστά εκτέλεσα την εντολή ```ip a``` και εφόσον αναγνώριστηκε η ip, μπορούσα να συνεχίσω στο επόμενο βήμα. Επίσης, για να είμαι συνδεδεμένος στους γρηγορότερους server όταν κατέβαζα τα διάφορα πακέτα, εκτέλεσα ```pacman -Syy- reflector```. Με την εγκατάσταση του reflector εκτέλεσα ```reflector -c```(-c για χώρα)``` Greece -a```(-a ηλικία των σέρβερ)``` 6 --sort rate```(κατανομή των σέρβερ με βάση την ταχύτητα)``` --save /etc/pacman.d/mirrorlist```. Μία τελευταία ανανέωση γράφοντας ```pacman -Syy```.
+| Partitions | Γράφοντας ```lsblk``` επέλεξα το ```sdd``` το οποίο είναι το άδειο USB και επέλεξα να το εγκατασταστήσω σαν EFI σύστημα. Εκτελώντας ```gdisk /dev/sdd``` παρουσιάζεται μία λίστα με partitions και πατώντας n δημιουργείται νέο partition. Όλα τα υπόλοιπα τα άφησα στο default πατώντας enter. Ενώ το HEX Code το έβαλα ef00 για να αλλαχθεί το system partition σε EFI. Στη συνέχεια, πάλι για όλες τις επιλογές τις άφησα στο default. Γράφοντας w και έπειτα yes, ολοκληρώνεται η διαδικασία με τα partitions. Γράφοντας ξανά ```lsblk```, επιλέγουμε το sdd1 partition με το χαμηλότερο μέγεθος.
+| Format στα partitions sdd1, sdd2 | Πρώτα έκανα format το sdd1 γράφοντας ```mkfs.fat -F32 /dev/sdd1``` και έπειτα το sdd2 το οποίο επειδή είναι σε bootable USB πρέπει να αφαιρεθεί το journaling καθώς τα USB έχουν συγκεκριμένο αριθμό writes. Αρχικά, δεν είχα πραγματοποιήσει αυτή την αλλαγή και οδηγήθηκα σε errors, κατόπιν αναζήτησης κατέληξα στην εξής λύση, στην οποία εγκαθιστούμε τα journals στη μνήμη RAM. ```mkfs.ext4 -O "^has_journal" /dev/sdd2```. Γράφοντας y ολοκληρώνεται η διαδικασία.
+| Mount partitions | Με τη σειρά πληκτρολογούμε τις εξής εντολές ```mount /dev/sdd2 /mnt``` ```mkdir -p /mnt/boot/efi``` ```mount /dev/sdd1 /mnt/boot/efi``` |
+| Εγκατάσταση Πακέτων | ```pacstrap /mnt base linux linux-firmware vim```. Μετά από κάποια ώρα όλα έχουν εγκατασταθεί. |
+| Generate File System Table και εγκατάσταση | ```genfstab -U```(επειδή χρησιμοποιούμε τα UUIDs των partitions, καθώς χρησιμοποιούμε bootable USB)``` /mnt >> /mnt/etc/fstab``` και μπορούμε να προβάλλουμε το fstab με την εντολή ```cat /mnt/etc/fstab```. Προχωράμε στη εγκατάσταση με την εντολή ```arch-chroot /mnt```.|
+| Ρύθμιση timezone | ```timedateclt list-timezones \ grep Athens``` , επιλογή της ζώνης ώρα Ελλάδος ```ln -sf /usr/share/zoneinfo/Europe/Athens /etc/localtime``` και συγχρονισμός ρολογιού ```hwclock --systohc```|
+| locale gen files | ```vim /etc/locale.gen``` επιλέγουμε το UTF-8 US, σβήνουμε το ```#``` κάνουμε save. Πρέπει να μπει το locale αρχείο στο locale.conf. Αυτό γίνεται με την εντολή ```vim /etc/locale.conf```. Έπειτα γράφουμε ```LANG=en_US.UTF-8```.|
+| Host name/file | Name: Γράφουμε ```vim /etc/hostname``` και έβαλα όνομα ArchSavv. File:```vim /etc/hosts``` και γράφουμε 127.0.0.1 -tab- localhost -enter- ::1  -tab- localhost -enter- 127.0.1.1 -tab- ArchSavv.localdomain -tab- ArchSavv-|
+| Εγκατάσταση πακέτων| ```pacman -S grub efibootmgr networkmanager network-manager-applet git```|
+| Εγκατάσταση grub (το βήμα το οποίο δεν μπόρεσα να περάσω)| Μέσω της εντολής ```grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB --removable --recheck```|
+|Κάποια troubleshootings| Αρχικά μου έβγαλε μήνυμα "could not prepare boot variable" μαζί με "no such file". Όποιες λύσεις έβρισκα ήταν για εγκατάσταση σε σκληρό δίσκο, ενώ η δική μου εγκατάσταση ήταν σε USB. Δοκίμασα αρκετές φορές την ίδια διαδικασία εγκατάστασης, αλλάζοντας ορισμένες φορές κάποια βήματα, όπως να αλλάξω μέγεθος στα partitions, να μη χρησιμοποιήσω τα UUIDs, να μην εγκαταστήσω πακέτα εκτός του grub, αλλά μάταια. Η λύση που λογικά θα δούλευε να ήταν να μπω στις ρυθμίσεις του BIOS και να αλλάξω την bootable επιλογή σε EFI από UEFI, αλλά δεν με άφηνε το BIOS να την ενεργοποιήσω. Δοκίμασα να κάνω Flashback το BIOS και να εγκαταστήσω παλαιότερες εκδόσεις, μήπως και αυτό μου επέτρεπε να το αλλάξω, αλλά αυτό προκάλεσε άλλα προβλήματα με το πιο σοβαρό να είναι αυτό με την συμβατότητα του επεξεργαστή, καθώς ο επεξεργαστής μου είναι πιο καινούργιος από την μητρική και για να δουλέψει στη συγκεκριμένη μητρική θέλει αναβαθμισμένη έκδοση. Έτσι δυστυχώς κατέληξα να εγκαταστήσω το Arch Linux σε VM.
+
+
+
+
+
+
+
+
+
+
+# Warm
 ## Άσκηση Warm Up - Check The Weather
 Link της άσκησης στο Asciinema: [Warm Up - Check The Weather](https://asciinema.org/a/450516)
 
