@@ -7,7 +7,7 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα |
-| 2 | [Neofetch jornalctl -b](https://asciinema.org/a/2FexrChp6p3y9hj5sLuMwG1SY) |
+| 2 | Ιnstallation of Arch Linux and NEOFETCH JORNALCTL -B (warm up)  |
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | συμμετοχικό περιεχόμενο 1A |
 | 5 | Άσκηση γραμμής εντολών |
@@ -26,14 +26,9 @@
 υπολογιστη και η χρηση αυτων των γνωσεων σε μια μελλοντικη καριερα 
 
 
-## Παραδοτέο 2
+## Παραδοτεο 2 
 
-### NEOFETCH JORNALCTL -B 
-<a href="https://asciinema.org/a/2FexrChp6p3y9hj5sLuMwG1SY" target="_blank"><img src="https://asciinema.org/a/2FexrChp6p3y9hj5sLuMwG1SY.svg" /></a>
-
-## Παραδοτέο 3
-
-#### pre installation Arch linux
+#### Pre-install
 1.Εκανα ληψη του image(iso) των arch linux 
 2.Μετα την ληψη του iso περασα το iso σε ενα usb stick και εκανα format το usb stick για να κανω boot τα arch linux
 4.Μετα εκανα διαμοιρασμο του χωρου του εσωτερικου δισκου μου για να κανω dual boot το arch linux διατηροντας τα windows
@@ -53,7 +48,29 @@
 μετα εκανα Mount με την εντολη #mnt /dev/sda4 /mnt
 δημιουργησα τον φακελο EFI μτην εντολη #mkdir /mnt/efi
 εκανα mount # mount /dev/sda2 mnt/efi
-εκανα Mount τον δισκο sda2 επειδη εκει βρισκεται το efi συστημα απο την μερια τον windows και τοποθετησα στον καινουιο ]φακελο ποθυ ειχα δημιουργησει πριν  
+εκανα Mount τον δισκο sda2 επειδη εκει βρισκεται το efi συστημα απο την μερια τον windows και τοποθετησα στον καινουριο φακελο ποθυ ειχα δημιουργησει πριν.
+
+#### Installation 
+Για το installation εγραψα την εντολη pacstrap /mnt base linux linux-firmware για να κανω install τα πακετα που χρειαζοταν για να τρεξω τα arch στο συστημα μου (mnt γιατι στον φακελο αυτον εκανα mount το file system του root)
+#### Configuration
+Στο cofiguration αρχικα εκανα generate ενα fs tab με την εντολη  genfstab -U /mnt >> /mnt/etc/fstab για να μπορει να γνωριζει το συστημα καθε φορα που θα γινεται boot που βρισκονται τα arh linux 
+Μετα με το arch-chroot /mnt εκανα εισοδο στο συστημα σαν root και υστερα  με την εντολη ln -sf /usr/share/zoneinfo/Greece/Athens /etc/localtime εθεσα την ωρα στο συστημα μου 
+και με την εντολη hwclock --systohc εθεσα την ωρα του hardware
+τελος με την εντολη passwd δημιουργησα εναν κωδικα για τον root
+#### Προλβηματα που αντιμετωπισα
+Με δυσκολεψε η συνδεση μου στο internet μεσω wifi καθως δεν ειχα εγκαταστησει τον driver της καρτας δικτυου και δεν μπορουσα να βρω διαθεσιμα ασυρματα δικτυα γι αυτο 
+επελεξα να συνδεθω μεσω καλωδιου ethernet.Ακομα κατι που με δυσκολεψε ηταν η κατανοηση ολοκληρης της διαδικασιας ωστοσο μετα απο αρκετη ερευνα και αρκετο βοηθητικο υλικο που ελαβα μεσω ιντερνετ καταφερα να αντιληφθω τα βηματα της διαδικασιας της εγκαταστασης των Arch Linux
+
+
+
+
+####  NEOFETCH JORNALCTL -B (warm up)
+<a href="https://asciinema.org/a/2FexrChp6p3y9hj5sLuMwG1SY" target="_blank"><img src="https://asciinema.org/a/2FexrChp6p3y9hj5sLuMwG1SY.svg" /></a>
+
+## Παραδοτέο 3
+
+
+
 
 ## Παραδοτέο 4
 ### Α1 
@@ -70,13 +87,7 @@
 
 
 ## Παραδοτέο 5
-### Installation Arch Linux
-Για το installation εγραψα την εντολη pacstrap /mnt base linux linux-firmware για να κανω install τα πακετα που χρειαζοταν για να τρεξω τα arch στο συστημα μου (mnt γιατι στον φακελο αυτον εκανα mount το file system του root)
-### configuration Arch Linux
-στο cofiguration αρχικα εκανα generate ενα fs tab με την εντολη  genfstab -U /mnt >> /mnt/etc/fstab για να μπορει να γνωριζει το συστημα καθε φορα που θα γινεται boot που βρισκονται τα arh linux 
-Μετα με το arch-chroot /mnt εκανα εισοδο στο συστημα σαν root και υστερα  με την εντολη ln -sf /usr/share/zoneinfo/Greece/Athens /etc/localtime εθεσα την ωρα στο συστημα μου 
-και με την εντολη hwclock --systohc εθεσα την ωρα του hardware
-τελος με την εντολη passwd δημιουργησα εναν κωδικα για τον root
+
 
 ## Παραδοτέο 6
 ### A2
