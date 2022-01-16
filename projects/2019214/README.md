@@ -18,7 +18,7 @@
 | 7 | [Άσκηση γραμμής εντολών 4](#άσκηση-γραμμής-εντολών-4) |
 | 8 | [Συμμετοχικό περιεχόμενο 1Β](#συμμετοχικό-περιεχόμενο-1β)|
 | 9 | - |
-| 10 | - |
+| 10 | [Συμμετοχικό περιεχόμενο 2Β](#συμμετοχικό-περιεχόμενο-2β) |
 | 11 | - |
 | 12 | - |
 
@@ -111,10 +111,24 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 
 | Περιγραφή | Repository Link |
 | --- | --- |
-| Sony U-matic | [sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/sony-u-matic.md) |
+| Sony U-matic | [sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/sony-u-matic.md) και [cs-sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-sony-u-matic.md)|
 
 Πηγές: [Wikipedia - Sony U-matic](https://en.wikipedia.org/wiki/U-matic) & [Wikipedia Image - Sony U-matic](https://commons.wikimedia.org/wiki/File:U-matic.jpg) 
 <br />
 Σύνδεσμοι .md: [sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/sony-u-matic.md) & [cs-sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-sony-u-matic.md)
 <br />
 Σύνδεσμοι εικόνων: [sony-u-matic.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-u-matic.jpg) & [sony-u-matic-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-u-matic-thumb.jpg)
+
+
+# Συμμετοχικό περιεχόμενο 2Β
+Όσον αφορά το για τελευταίο συμμετοχικό περιεχόμενο, αποφάσισα να ερευνήσω και να γράψω για τον Charles Ginsburg. Προκείται για ένα εφευρέτη, γνωστό και ως ο «πατέρας της βιντεοκασέτας», ο οποίος λέγεται ότι, με την δημιουργία της βιντεοκασέτας, έφερε την επανάσταση στην τηλεοπτική μετάδοση. 
+
+| Περιγραφή | Repository Link |
+| --- | --- |
+| Charles Ginsburg | [charles-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/charles-ginsburg.md) και [bio-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-ginsburg.md) |
+
+Πηγές: [Charles Ginsburg - Lemelson MIT](https://lemelson.mit.edu/resources/charles-ginsburg) & [Charles P. Ginsburg - ETHW](https://ethw.org/Charles_P._Ginsburg)
+<br />
+Σύνδεσμοι .md: [charles-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/charles-ginsburg.md) και [bio--ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-ginsburg.md)
+<br />
+Σύνδεσμος εικόνας: [charles-ginsburg.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/charles-ginsburg.jpg)
