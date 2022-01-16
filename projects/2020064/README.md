@@ -16,6 +16,7 @@
 |     3     | [Άσκηση γραμμής εντολών - download mp3](#3ο-παραδοτέο---download-mp3)|
 |     4     | [Συμμετοχικό περιεχόμενο Α1-Α2](#4ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-α2)
 |     5     | [Άσκηση γραμμής εντολών - organize your notes with emacs](#5ο-παραδοτέο---organize-your-notes-with-emacs)
+|     6     | [Συμμετοχικό περιεχόμενο Β1-Β2](#6ο-παραδοτέο---συμμετοχικό-περιεχόμενο-β1-β2)
 <br />
 
 ## Εισαγωγή
@@ -259,12 +260,12 @@ To journalctl είναι η υπηρεσία με την οποία έχουμε
 Hardware  Manual](http://www.bitsavers.org/pdf/xerox/alto/Alto_Hardware_Manual_Aug76.pdf) | [How do I "commit" changes in a git submodule?](https://stackoverflow.com/questions/5542910/how-do-i-commit-changes-in-a-git-submodule) 
 
 ### Βιβλιογραφία παραδοτέου
-[1] Wadlow, T. A. (1981). The xerox alto computer. Byte Magazine, 6(9), 58-68. <br />
-[2] Engelbart, D. C., & English, W. K. (1968, December). A research center for augmenting human intellect. In Proceedings of the December 9-11, 1968, fall joint computer conference, part I (pp. 395-410). <br />
-[3] Engelbart, D. C. (1972). Online Team Environment.(Network Information Center and Computer Augmented Team Interaction). STANFORD RESEARCH INST MENLO PARK CA AUGMENTATION RESEARCH CENTER. <br />
-[4] Mitchell, J. G. (1973). The Implementation of NLS on a Minicomputer. Xerox. Palo Alto Research Center. <br />
-[5] Thacker, C., McCreight, E., Lampson, B., Sproull, R., & Boggs, D. (1981). Alto: A personal computer. <br />
-[6] KEYBOARDS, C. CASE STUDY 2: CHORD KEYBOARDS. <br />
+_[1] Wadlow, T. A. (1981). The xerox alto computer. Byte Magazine, 6(9), 58-68._ <br />
+_[2] Engelbart, D. C., & English, W. K. (1968, December). A research center for augmenting human intellect. In Proceedings of the December 9-11, 1968, fall joint   computer conference, part I (pp. 395-410)._ <br />
+_[3] Engelbart, D. C. (1972). Online Team Environment.(Network Information Center and Computer Augmented Team Interaction). STANFORD RESEARCH INST MENLO PARK CA   AUGMENTATION RESEARCH CENTER._ <br />
+_[4] Mitchell, J. G. (1973). The Implementation of NLS on a Minicomputer. Xerox. Palo Alto Research Center._ <br />
+_[5] Thacker, C., McCreight, E., Lampson, B., Sproull, R., & Boggs, D. (1981). Alto: A personal computer._ <br />
+_[6] KEYBOARDS, C. CASE STUDY 2: CHORD KEYBOARDS._ <br />
 <br />
 <br /> 
  
@@ -312,4 +313,37 @@ Hardware  Manual](http://www.bitsavers.org/pdf/xerox/alto/Alto_Hardware_Manual_A
 
 ### Δικτυογραφία 
 [The Absolute Beginer's Guide to Emacs](https://www.youtube.com/watch?v=48JlgiBpw_I) | [GNU- Guided Tour](https://www.youtube.com/watch?v=48JlgiBpw_I) | [Taking Notes in Emacs Org-Mode](https://www.youtube.com/watch?v=bzZ09dAbLEE) | [What is Emacs?](https://opensource.com/resources/what-emacs) | [Emacs - Arch Wiki](https://wiki.archlinux.org/title/emacs) | [Installing Packages](https://www.emacswiki.org/emacs/InstallingPackages) | [Org mode beginning at the basics](https://orgmode.org/worg/org-tutorials/org4beginners.html)
-  
+<br />
+<br />
+
+## 6ο παραδοτέο - Συμμετοχικό περιεχόμενο Β1-Β2
+Για το 6ο παραδοτέο της αναφοράς μου επέλεξα να κάνω το δεύτερο μέρος του συμμετοχικού περιεχομένου της σχετικής ενότητας, του οποίου τα ζητούμενα αφορούσαν την δημιουργία μιας νέας βιογραφίας και μιας νέας μελέτης περίπτωσης. Για το κομμάτι της βιογραφίας, επέλεξα να γράψω για τον Charles Patrick Thacker ή αλλιώς Chuck Thacker, ο οποίος έπαιξε καθοριστικό ρόλο στην δημιουργία του συστήματος ALTO, σχεδιάζοντας το μεγαλύτερο μέρος του υλικού του υπολογιστή. Για το κομμάτι του case study, επέλεξα να μελετήσω την περίτπωση της γλώσσας προγραμματισμού Smalltalk, την πρώτη θα λέγαμε καθαρά αντικειμενοστραφής γλώσσα προγραμματισμού, η οποία σχεδιάστηκε απο τον Alan Kay με αρχικό σκοπό την δημιουργία ενός περιβάλλοντος μέσα απο το οποίο τα παιδιά θα μπορούν να μάθουν να προγραμματίζουν δημιουργικά. 
+
+### Σημαντικό πρόβλημα το οποίο αντιμετώπισα
+Αν και στο πρώτο μέρος του συμμετοχικού περιεχομένου δεν είχα αντιμετωπίσει κάποιο πρόβλημα, αυτήν την φορά και αφού είχα ακολουθήσει τα ίδια βήματα όπως την πρώτη φορά, αλλάζοντας όλες τις απαραίτητες ρυθμίσεις που έπρεπε να αλλάξω, είδα πως μέτα το deploy τα πράγματα τα οποία είχα φτιάξει δεν εμφανίζονταν σωστά στην ιστοσελίδα για έναν λόγο που δεν μπορώ να καταλάβω, όπως φαίνεται παρακάτω:
+
+<p align= "center">
+<img src="https://github.com/GeorgiosEleftheriadis/HCI-Pictures-Gifs/blob/main/6%CE%BF%20%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF/netlify-fail.jpg">
+</p>
+
+Δυστηχώς μετά απο αρκετό ψάξιμο δεν κατάφερα να βρώ λύση στο πρόβλημα μου, με αποτέλεσμα να παρουσιάζω αυτήν την στιγμή ένα ημιτελές αποτέλεσμα, το οποίο εγώ προσωπικά το θεωρώ αρκετά απογοητευτικό. Παρ'όλα αυτά, παρακάτω βρίσκονται τα σχετικά links προς τα markdown αρχεία και προς το netlify:
+
+| Περιγραφή | Repository Link | Netlify Link |
+|    ---    |      ---        |     ---      |
+| Bιογραφία του Charles Patrick Thacker | [chuck-thacker.md](https://github.com/GeorgiosEleftheriadis/site/blob/master/_biography/chuck-thacker.md) + [bio-thacker.md](https://github.com/GeorgiosEleftheriadis/site/blob/master/_biography/bio-thacker.md) | [Βιογραφία του  Chαrles Patrick Thacker](https://p2020064-ionio-pibook.netlify.app//biography/chuck-thacker/) |
+| Η περίπτωση της γλώσσας προγραμματισμού Smalltalk | [smalltalk.md](https://github.com/GeorgiosEleftheriadis/site/blob/master/_case-study/smalltalk.md) + [cs-smalltalk.md](https://github.com/GeorgiosEleftheriadis/site/blob/master/_case-study/cs-smalltalk.md) | [Η περίπτωση της γλώσσας προγραμματισμού Smalltalk](https://p2020064-ionio-pibook.netlify.app//case-study/smalltalk/) |
+
+### Συμπεράσματα παραδοτέου
+Μέσα απο αυτό το παραδοτέο είδα και μελέτησα βαθύτερα αρκετά κομμάτια τα οποία συνδέονταν άμεσα με τις θεματικές τις οποίες συζητήσαμε όλον αυτόν τον καιρό στις δια ζώσης συναντήσεις του μαθήματος. Έμαθα για την ιστορία ενός ανθρώπου που συνείσφερε τα μέγιστα στον κλάδο της υπολογιστικής, ενώ μέσα απο την μελέτη περίπτωσης και το παράδειγμα της Smalltalk, είδα τον τρόπο σκέψης πίσω απο την δημιουργία ενός συστήματος το οποίο συνδίαζε σημαντικές καινοτομίες της εποχής και το οποίο ήταν ένας καθοριστικός παράγοντας της μετέπειτα εξέλιξης αυτού που ονομάζουμε Personal Computing και της γραφικής αλληλεπίδρασης του χρήστη.
+
+### Δικτυογραφία παραδοτέου
+[Charles Patrick Thacker's memorial - | Palo Alto Online](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj6o5KasrX1AhVIg_0HHffzBy8QFnoECAIQAQ&url=https%3A%2F%2Fwww.paloaltoonline.com%2Fobituaries%2Fmemorials%2Fcharles-patrick-thacker%3Fo%3D5041&usg=AOvVaw1uLBV7RGikRmuayZthSHMQ) | [Charles P. Thacker Dies at 74; Helped Design Early Personal Computer](https://www.nytimes.com/2017/06/14/technology/charles-thacker-dead-personal-computing-pioneer.html) | [Charles P. Thacker: American computer scientist](https://www.britannica.com/biography/Charles-P-Thacker) | [Charles P. Thacker - A.M. Turing Award Laureate](https://amturing.acm.org/award_winners/thacker_1336106.cfm) | [Charles Thacker - CHM - Computer History Museum](https://computerhistory.org/profile/charles-thacker/) | [Charles P. Thacker - Academic Dictionaries and Encyclopedias](https://en-academic.com/dic.nsf/enwiki/859214) | [Untangling the Rich Legacy of Computer Pioneer Charles P. Thacker](https://thenewstack.io/charting-legacy-charles-p-thacker/) | [Oral History of Charles (Chuck) Thacker](http://archive.computerhistory.org/resources/text/Oral_History/Thacker_Charles/Thacker_Charles_1.oral_history.2007.1026581226.pdf) | [The History of Smalltalk and Squeak](http://wiki.squeak.org/squeak/3139) | [From the Philosophy of the Open to the Ideology of the User-Friendly](https://medium.com/@el_culebro/from-the-philosophy-of-the-open-to-the-ideology-of-the-user-friendly-2d22aaa50f86) | [SMALLTALK-72 INSTRUCTION MANUAL](http://www.bitsavers.org/pdf/xerox/parc/techReports/Smalltalk-72_Instruction_Manual_Mar76.pdf) | [Alan Kay on the context and catalysts of personal computing](https://www.notion.so/ja-jp/blog/alan-kay) | [Introducing the Smalltalk Zoo](https://computerhistory.org/blog/introducing-the-smalltalk-zoo-48-years-of-smalltalk-history-at-chm/) | [Alan Kay's tribute to Ted Nelson at "Intertwingled" Festival](https://www.youtube.com/watch?v=AnrlSqtpOkw) | []()
+
+### Βιβλιογραφία παραδοτέου 
+_[1] Kay, A. C. (1996). The early history of Smalltalk. History of programming languages---II, 511-598._ <br/>
+_[2] Ingalls, D. (2020). The evolution of Smalltalk: from Smalltalk-72 through Squeak. Proceedings of the ACM on Programming Languages, 4(HOPL), 1-101._ <br/>
+_[3] Smolka, J. A Brief Comparison of Groovy and Smalltalk. SDOT 2013._ <br/>
+_[4] LaLonde, W. R., & Pugh, J. R. (1990). Inside smalltalk (Vol. 1). London: Prentice Hall._ <br/>
+_[5] Krasner, G. E., & Pope, S. T. (1988). A description of the model-view-controller user interface paradigm in the smalltalk-80 system. Journal of object       oriented programming, 1(3), 26-49._ <br/>
+_[6] Budd, T. (1987). A little Smalltalk (Vol. 280). Addison-Wesley._ <br/>
+_[7] Ingalls, D. H. (1981). Design principles behind Smalltalk. BYTE magazine, 6(8), 286-298._ <br/>
