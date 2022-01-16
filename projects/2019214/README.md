@@ -127,8 +127,8 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 | --- | --- |
 | Charles Ginsburg | [charles-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/charles-ginsburg.md) και [bio-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-ginsburg.md) |
 
-Πηγές: [Charles Ginsburg - Lemelson MIT](https://lemelson.mit.edu/resources/charles-ginsburg) & [Charles P. Ginsburg - ETHW](https://ethw.org/Charles_P._Ginsburg)
+Πηγές: [Lemelson MIT - Charles Ginsburg](https://lemelson.mit.edu/resources/charles-ginsburg) & [ETHW - Charles P. Ginsburg](https://ethw.org/Charles_P._Ginsburg) & [ETHW Image - Charles P. Ginsburg](https://ethw.org/File:Charles_P._Ginsburg.jpg)
 <br />
-Σύνδεσμοι .md: [charles-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/charles-ginsburg.md) & [bio--ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-ginsburg.md)
+Σύνδεσμοι .md: [charles-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/charles-ginsburg.md) & [bio-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-ginsburg.md)
 <br />
 Σύνδεσμος εικόνας: [charles-ginsburg.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/charles-ginsburg.jpg)
