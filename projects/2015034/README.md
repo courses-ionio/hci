@@ -48,10 +48,10 @@
 Για αυτό το παραδοτέο συμμετοχικού περιεχομένου πρόσθεσα τις εικόνες που έβαλα στο πρώτο παραδοτέο συμμετοχικού περιεχομένου σε ένα ήδη υπάρχων σετ διαφανειών, όπως επίσης και στο αντίστοιχο χρονολόγιο.
 
 ## 1. Trackball
-Πρόσθεσα το Trackball στο σετ archetypes, όπως φαίνεται [εδώ](https://github.com/p15bako/site/blob/2015034/_slides/archetypes.md). Εδώ παρατίθεται το αντίστοιχο [χρονολόγιο](https://github.com/p15bako/site/blob/master/_timeline/computer.md)
+Πρόσθεσα το Trackball στο σετ archetypes, όπως φαίνεται [εδώ](https://github.com/p15bako/site/blob/2015034/_slides/archetypes.md). Εδώ παρατίθεται το αντίστοιχο [χρονολόγιο](https://github.com/p15bako/site/blob/2015034/_timeline/computer.md)
 
 ## 2. Joystick
-Για το Joystick, επέλεξα σαν κατηγορία διαφανειών τα videogames, όπως φαίνεται [εδώ](https://github.com/p15bako/site/blob/2015034/_slides/videogames.md). Αντίστοιχα, το πρόσθεσα και στο [χρονολόγιο](https://github.com/p15bako/site/blob/master/_timeline/videogames.md)
+Για το Joystick, επέλεξα σαν κατηγορία διαφανειών τα videogames, όπως φαίνεται [εδώ](https://github.com/p15bako/site/blob/2015034/_slides/videogames.md). Αντίστοιχα, το πρόσθεσα και στο [χρονολόγιο](https://github.com/p15bako/site/blob/2015034/_timeline/videogames.md)
 
 
 # <a name="E">Άσκηση γραμμής εντολών 1 </a>
