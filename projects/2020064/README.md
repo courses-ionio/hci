@@ -17,6 +17,7 @@
 |     4     | [Συμμετοχικό περιεχόμενο Α1-Α2](#4ο-παραδοτέο---συμμετοχικό-περιεχόμενο-α1-α2)
 |     5     | [Άσκηση γραμμής εντολών - organize your notes with emacs](#5ο-παραδοτέο---organize-your-notes-with-emacs)
 |     6     | [Συμμετοχικό περιεχόμενο Β1-Β2](#6ο-παραδοτέο---συμμετοχικό-περιεχόμενο-β1-β2)
+|     7     | [organise the terminal window into multiple areas](#7ο-παραδοτέο---organise-the-terminal-window-into-multiple-areas)
 <br />
 
 ## Εισαγωγή
@@ -347,3 +348,29 @@ _[4] LaLonde, W. R., & Pugh, J. R. (1990). Inside smalltalk (Vol. 1). London: Pr
 _[5] Krasner, G. E., & Pope, S. T. (1988). A description of the model-view-controller user interface paradigm in the smalltalk-80 system. Journal of object       oriented programming, 1(3), 26-49._ <br/>
 _[6] Budd, T. (1987). A little Smalltalk (Vol. 280). Addison-Wesley._ <br/>
 _[7] Ingalls, D. H. (1981). Design principles behind Smalltalk. BYTE magazine, 6(8), 286-298._ <br/>
+<br/>
+<br/>
+
+## 7ο παραδοτέο - organise the terminal window into multiple areas 
+Για το 7ο παραδοτέο της αναφοράς μου επέλεξα να κάνω την 7η άσκηση της σχετικής ενότητας [HCI](https://github.com/epidrome/dokey#hci), της οποίας τα παραδοτέα αφορούσαν το split του terminal window, έτσι ώστε σε ένα pane να κάνουμε αναζήτηση/επεξεργασία αρχείων και στο άλλο να κάνουμε monitor την απόδοση του υπολογιστή μας. Επέλεξα την άσκηση αυτή καθώς με ενδιέφερε κυρίως να δοκιμάσω το tmux για να μπορέσω να διευκολύνω την δουλειά μου εντός του terminal μαθαίνοντας να κάνω split ta windows και να εκτελώ πολλαπλές διεργασίες ταυτόχρονα, ώστε εν τέλει με τον καιρό να καταφέρω να γίνω περισσότερο αποδοτικός. 
+
+Αρχικά ξεκίνησα κατεβάζοντας τον [tmux](https://github.com/tmux/tmux) και το monitoring tool [glances](https://github.com/nicolargo/glances), με τις εντολές **sudo pacman -S tmux** και **sudo pacman -S glances**. Ο tmux είναι ένας terminal πολυπλέκτης όπως τον ονομάζουνε, ο οποίος σου επιτρέπει να μπορείς να έχεις πολλαπλά terminal sessions ανοιχτά σε ένα window, κάνοντας την παράλληλη χρήση πολλαπλών command line προγραμμάτων πιο έυκολη. Έχει πάρα πολλές λειτουργίες για resizing, navigation, splitting κ.α. όι οποίες σου επιτρέπουνε να μπορείς να φέρεις στα μέτρα σου το terminal και να το μεταρέψεις σε ένα αποδοτικότερο workplace. Περισσότερες πληροφορίες μπορεί να βρεί κάποιος στο σχετικό [tmux documentation](https://tmuxguide.readthedocs.io/en/latest/tmux/tmux.html). 
+
+Από την άλλη, το glances είναι ένα cross-platform εργαλείο παρακολούθησης γραμμένο σε γλώσσα προγραμματισμού python, το οποίο σου δίνει την δυνατότητα να μπορείς να παρακολουθήσεις όλες τις διεργασίες που λαμβάνουν χώρα στο σύστημα σου, (χρήση επεξεργαστή, μνήμης, αρχεία, Disk I/O κ.α.), υποστηρίζοντας επίσης απομακρυσμένη παρακολούθηση αλλά και εξαγωγή των στατιστικών πληροφοριών σε εξωτερική βάση δεδομένων. Περισσότερα πληροφορίες σχετικά με την χρήση του glances μπορεί να βρεί κάποιος στο σχετικό [documentation](https://glances.readthedocs.io/en/latest/). 
+
+Αφού προχώρησα στην εγκατάσταση αυτών των δύο εργαλείων, στην συνέχεια ξεκίνησα να δουλέυω την εργασία. Αρχικά, για να εκκινήσω το tmux εκτέλεσα την εντολή **tmux** στο τερματικό. Στην συνέχεια, έπρεπε να δω πως να κάνω split τα windows, για τον λόγο αυτό και ακολουθώντας το documentation χρησιμοποίησα τα παρακάτω default key-bindings του εργαλείου: 
+- Για κάθετο split του παραθύρου | **Ctrl-b %**
+- Για οριζόντιο split του παραθύρου | **Ctrl-b "**
+- Για resizing των panes | **Ctrl-b-up,down,right,left** arrow για resizing προς τα πάνω, κάτω, δεξιά ή αριστερά αντίστοιχα.
+- Για να μετακινηθώ μεταξύ των panes | **Ctrl-b up,down,right,left** arrow για μετακίνηση στο πάνω, κάτω, δεξί ή αριστερό pane. Η διαφορά με την πάνω εντολή είναι πως για το resizing κρατάμε πατημένο το Ctrl-b και το αντίστοιχο arrow, ενώ για την μετακίνηση μεταξύ των panes πληκτρολογούμε μία φορά Ctrl-b και μετά επιλέγουμε το αντίστοιχο arrow.
+- Για το κλείσιμο ενός pane | **Ctrl-b x**. Επίσης μπορούμε να πατήσουμε **exit** ή και **Ctrl-d** μέσα σε ένα pane για να το κλείσουμε. 
+
+Χρησιμοποιώντας αυτά τα key-bindings και αφού εξοικειώθηκα σε μικρό βαθμό με την χρήση του tmux, στην συνέχεια πραγματοποίησα τα ζητούμενα της άσκησης, όπως φαίνεται στο παρακάτω asciinema link: 
+- tmux + glances + file search and edit | https://asciinema.org/a/462100
+
+### Συμπεράσματα παραδοτέου
+Μέσα απο αυτό το παραδοτέο μπόρεσα να μάθω να οργανώνω το terminal σε panes και να τα χρησιμοποιώ παράλληλα ώστε να γίνω πιο αποδοτικός. Το tmux αποδείχτηκε αρκέτα χρήσιμο πρόγραμμα και για τον λόγο αυτό σκεύτομαι να πειράξω κατάλληλα το configuration file του bash ώστε να το κάνω να ανοίγει by defaut κατά την εκκίνηση του terminal, αφού πρώτα όμως παραμετροποιήσω το configuration ώστε να αλλάξω μερικά key-bindings, καθώς τα βρήκα λίγο δύσχρηστα για εμένα. 
+
+### Δικτυογραφία παραδοτέου
+[Glances - An Eye on your system](https://nicolargo.github.io/glances/) | [\[Feature request\] Record multiple tty at the same time](https://github.com/asciinema/asciinema/issues/250)| [
+tmux shortcuts & cheatsheet - gists · GitHub](https://gist.github.com/MohamedAlaa/2961058) [TMUX commands](https://tmuxguide.readthedocs.io/en/latest/tmux/tmux.html)
