@@ -6,7 +6,7 @@
 | --- | --- |
 | 1 | [Εισαγωγή](#εισαγωγη) |
 | 2 | [Εισαγωγή στα ArchLinux](#2ο-παραδοτέο---εισαγωγή-στα-archlinux) |
-| 3 | [Άσκηση γραμμής εντολών: Neofetch](#3ο-παραδοτέο---neofetch) |
+| 3 | [Άσκηση γραμμής εντολών: Neofetch - Journalctl](#3ο-παραδοτέο---neofetch---journalctl) |
 | 4 | συμμετοχικό περιεχόμενο 1A |
 | 5 | [Εγκατάσταση ArchLinux σε USB](#5ο-παραδοτέο---εγκατάσταση-archlinux-σε-usb) |
 | 6 | συμμετοχικό περιεχόμενο 2A |
@@ -33,11 +33,16 @@
 
 Η πρώτη επαφή που είχα με τα ArchLinux μπορώ να πω ότι ήταν φέτος στο μάθημα <<Επικοινωνία Ανθρώπου Υπολογιστή>>. Η γνώσεις που είχα, όταν άρχησε το εξάμηνο, για τα Arch ήταν ελάχιστες. Γνώριζω διάφορα λογισμικά τύπου Linux (π.χ. Ubuntu, Linux Mint, Manjaro) απλά όχι το συγκεκριμένο. Γενικότερα, δεν είχα εμπειρία με τη διαδικασία εγκατάστσης άλλου λογισμικού, εκτός των Windows, πόσο μάλιστα της εγκατάστασης του σε USB stick. 
  
-# 3ο Παραδοτέο - Neofetch
+# 3ο Παραδοτέο - Neofetch - Journalctl
   
 Παρακάτω παρουσιάζεται το boot log με το system info του υπολογιστή μου με τη χρήση της εντολής Neofetch: https://asciinema.org/a/450964 
  
  <a href="https://asciinema.org/a/450964" target="_blank"><img src="https://asciinema.org/a/450964.svg" /></a>  
+ 
+ Και η εντολή journalctl -b, η οποία εμφανίζει στο terminal το systemd, kernal και τα journal logs: https://asciinema.org/a/462027
+ 
+ <a href="https://asciinema.org/a/462027" target="_blank"><img src="https://asciinema.org/a/462027.svg" /></a>
+ 
  
 # 5ο Παραδοτέο - Εγκατάσταση ArchLinux σε USB
 
