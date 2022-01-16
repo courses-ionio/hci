@@ -62,7 +62,7 @@
 
 # 11ο Παραδοτέο - Organize the terminal window into multiple areas
 
-Για το συγκεκριμένο παραδοτέο χρειάστηκε να χρησιμοποιείσω τις εντολές tmux και glances. Η εντόλη tmux ουσιαστικά χωρίζει το terminal σε δύο ή και περισσότερα terminals, μέσω ενος σέρβερ όταν εκτελείται η εντολή "tmux" στο terminal. Το glances βοηθάει στη παρακολούθηση της CPU, της GPU, της RAM, του δίσκου κτλ. Στο πρώτο terminal ανοίγω το φάκελο sites και στο δεύτερο termainal υπάρχει το glances που δείχνει τις επιδόσεις του υπολογιστή: https://asciinema.org/a/462017
+Για το συγκεκριμένο παραδοτέο χρειάστηκε να χρησιμοποιήσω τις εντολές tmux και glances. Η εντόλη tmux ουσιαστικά χωρίζει το terminal σε δύο ή και περισσότερα terminals, μέσω ενος σέρβερ όταν εκτελείται η εντολή "tmux" στο terminal. Το glances βοηθάει στη παρακολούθηση της CPU, της GPU, της RAM, του δίσκου κτλ. Στο πρώτο terminal ανοίγω το φάκελο sites και στο δεύτερο termainal υπάρχει το glances που δείχνει τις επιδόσεις του υπολογιστή: https://asciinema.org/a/462017
 
 <a href="https://asciinema.org/a/462017" target="_blank"><img src="https://asciinema.org/a/462017.svg" /></a>
 
