@@ -73,6 +73,7 @@
 
 
 ## Παραδοτέο 4
+Mετά το fork της ιστοσελίδας του βιβλίου μαθήματος και των αποθετηρίων  images , _gallery  δημιουργησα τα δικα μου submodule με βάση τις οδηγίες.
 
 
 
@@ -80,9 +81,9 @@
 | Περιγραφή | Repository Link | 
 | --- | --- |
 | Team Viewer | [Team Viewer](https://github.com/giannisbarlas1/_gallery/blob/3ba8c22de966c15bebd8b934c3e149106110092a/TeamViewer.md) | 
-| Images  | [Full Quality](https://github.com/giannisbarlas1/images/blob/master/teamviewer.jpg) + [Thumbnail](https://github.com/giannisbarlas1/images/blob/8dc28f611d05589e60f327501e36736c96f36f64/team%20viewer%20thumb.png) 
+| Images  | [Full Quality](https://github.com/giannisbarlas1/images/blob/master/teamviewer.jpg)   [Thumbnail](https://github.com/giannisbarlas1/images/blob/8dc28f611d05589e60f327501e36736c96f36f64/team%20viewer%20thumb.png) 
 | Nano Text Editor | [Nano Text Editor](https://github.com/giannisbarlas1/_gallery/blob/master/nano.md) | 
-| Images  | [Full Quality](https://github.com/giannisbarlas1/images/blob/master/nano.png) + [Thumbnail](https://github.com/giannisbarlas1/images/blob/master/nano%20thumb.png) | 
+| Images  | [Full Quality](https://github.com/giannisbarlas1/images/blob/master/nano.png)  [Thumbnail](https://github.com/giannisbarlas1/images/blob/master/nano%20thumb.png) | 
 
 
 
@@ -93,13 +94,11 @@
 
 
 ## Παραδοτέο 6
-### A2
-[slides](https://github.com/giannisbarlas1/site/blob/master/_slides/models.md)
 
-[timelapse](https://github.com/giannisbarlas1/site/blob/master/_timeline/text-editing.md)
-
-
-
+| Περιγραφή | Repository Link | 
+| --- | --- |
+| slides| [slides-models](https://github.com/giannisbarlas1/site/blob/master/_slides/models.md) | 
+| Timelapse  | [Timelapse-text-editing](https://github.com/giannisbarlas1/site/blob/master/_timeline/text-editing.md) | 
 
 
 
@@ -110,14 +109,14 @@
 
 
 ## Παραδοτεο 8
-### Case Study
+| Περιγραφή | Repository Link | 
+| --- | --- |
+| Mελετη περιπτωσης| [case study](https://github.com/giannisbarlas1/site/blob/master/_case-study/teco.md) | 
+| Kειμενο μελετης περιπτωσης  | [extra text](https://github.com/giannisbarlas1/extras/blob/master/Teco.md) | 
 
-##### case study 
-[Teco](https://github.com/giannisbarlas1/site/blob/master/_case-study/teco.md)
-##### extras
-[extras for Teco](https://github.com/giannisbarlas1/extras/blob/master/Teco.md)
-##### images
-[images for Teco](https://github.com/giannisbarlas1/images/blob/master/teco%20thumb.png)
+
+
+
 
 
 ## Παραδοτεο 9
