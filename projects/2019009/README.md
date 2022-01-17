@@ -131,6 +131,10 @@ Mετά το fork της ιστοσελίδας του βιβλίου μαθήμ
 | extras-images  | [extras](https://github.com/giannisbarlas1/extras/blob/master/bio-Daniel%20Muprphy.md) [images](https://github.com/giannisbarlas1/images/blob/master/bio-Daniel%20Murphy.jpg) | 
 
 
+## Παραδοτεο 11
+#### emacs
+Αρχικα εγκατέστησα το emacs με τη χρήση  sudo pacman -S Με την εντολη emacs -nw ανοίγει το emacs.Μετα με την εντολη ctrl+x+f κανω δημιουργια νεου αρχειου emacs
+που θα χρησιμοποιησω για να κανω μια to do  λιστα και έπειτα με την εντολη alt+x και  γραφοντας org-mode μας δινεται η δυνατοτητα να δημιουργησω την παραπανω λιστα.Με Αlt+enter κανω νέο task με χρωματισμο στα γραμματα και με συμβολα οπως αστερισκους για καλυτερη εμφανιση κατανοηση και οργανωση. Με τη χρήση alt + enter + δεξί βέλος, προσθέτω περισσοτερους αστερίσκους με διαφορετικο χρωματισμο γραμματων με σκοπο να διαχωρισω τα tasks και για να ειναι πιο φιλικο στον χρηστη.Επικυρωνω ενα task πατώντας ctrl+c+c.Τελος αντιμετωπισα προβλημα στην εξοδο μου απο το emacs αφου η εντολη ctrl-x δεν εκανε εξοδο απο το emacs γι αυτο για να πετυχω την εξοδο απο αυτο εδωσα την εντολη kill-emacs.
 
-
+<a href="https://asciinema.org/a/462364" target="_blank"><img src="https://asciinema.org/a/462364.svg" /></a>
 
