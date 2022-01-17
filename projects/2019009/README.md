@@ -124,4 +124,13 @@ Mετά το fork της ιστοσελίδας του βιβλίου μαθήμ
 
 <a href="https://asciinema.org/a/455906" target="_blank"><img src="https://asciinema.org/a/455906.svg" /></a>
 
+## Παραδοτεο 10
+| Περιγραφή | Repository Link | 
+| --- | --- |
+| Βιογραφια| [Daniel Murphy](https://github.com/giannisbarlas1/site/blob/master/_biography/bio-Daniel%20Murphy.md) | 
+| extras-images  | [extras](https://github.com/giannisbarlas1/extras/blob/master/bio-Daniel%20Muprphy.md) [images](https://github.com/giannisbarlas1/images/blob/master/bio-Daniel%20Murphy.jpg) | 
+
+
+
+
 
