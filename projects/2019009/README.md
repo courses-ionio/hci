@@ -9,7 +9,7 @@
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα |
 | 2 | Ιnstallation of Arch Linux and NEOFETCH JORNALCTL -B (warm up)  |
 | 3 | Άσκηση γραμμής εντολών |
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | [συμμετοχικό περιεχόμενο 1A](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |t
 | 7 | Άσκηση γραμμής εντολών |
@@ -73,15 +73,18 @@
 
 
 ## Παραδοτέο 4
-### Α1 
-#### για εικονα 1
-[συμμετοχικο υλικο Α1](https://github.com/giannisbarlas1/_gallery/blob/3ba8c22de966c15bebd8b934c3e149106110092a/TeamViewer.md)
-[εικονες1](https://github.com/giannisbarlas1/images/blob/8dc28f611d05589e60f327501e36736c96f36f64/team%20viewer%20thumb.png)
-[εικονες2](https://github.com/giannisbarlas1/images/blob/master/teamviewer.jpg)
-#### για εικονα 2
-[συμμετοχικο υλικο Α1](https://github.com/giannisbarlas1/_gallery/blob/master/nano.md)
-[εικονες1](https://github.com/giannisbarlas1/images/blob/master/nano.png)
-[εικονες2](https://github.com/giannisbarlas1/images/blob/master/nano%20thumb.png)
+
+
+
+
+| Περιγραφή | Repository Link | 
+| --- | --- |
+| Team Viewer | [Team Viewer](https://github.com/giannisbarlas1/_gallery/blob/3ba8c22de966c15bebd8b934c3e149106110092a/TeamViewer.md) | 
+| Images  | [Full Quality](https://github.com/giannisbarlas1/images/blob/master/teamviewer.jpg) + [Thumbnail](https://github.com/giannisbarlas1/images/blob/8dc28f611d05589e60f327501e36736c96f36f64/team%20viewer%20thumb.png) 
+| Nano Text Editor | [Nano Text Editor](https://github.com/giannisbarlas1/_gallery/blob/master/nano.md) | 
+| Images  | [Full Quality](https://github.com/giannisbarlas1/images/blob/master/nano.png) + [Thumbnail](https://github.com/giannisbarlas1/images/blob/master/nano%20thumb.png) | 
+
+
 
 
 
