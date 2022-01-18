@@ -36,25 +36,25 @@
 - To [boot log](https://github.com/p16koub1/hci-files/blob/main/boot_log) με την εντολή journalctl -b -0 | less
 - neofetch
   [![asciicast](https://asciinema.org/a/448737.svg)](https://asciinema.org/a/448737)
-  <a href="https://asciinema.org/a/448737" target="_blank"><img src="https://asciinema.org/a/448737.svg" width="720"/></a>
+  <a href="https://asciinema.org/a/448737" target="_blank"><img src="https://asciinema.org/a/448737.svg" width="480"/></a>
   
 ### Repository του γραφικού περιβάλλοντος και αλλαγές που έγιναν σε αυτό
 - [Personal Build Repo](https://github.com/p16koub1/personal-build/main)
 
-<img src="https://github.com/p16koub1/personal-build/blob/main/pscr_211114012432.png" alt="drawing" width="720"/>
+<img src="https://github.com/p16koub1/personal-build/blob/main/pscr_211114012432.png" alt="drawing" width="480"/>
 
 ## Άσκηση γραμμής εντολών 1:
 
 ### warm-up : get familiar with basic commands, reading documentation and editing files
 Πλοήγηση με τη γραμμή εντολών και το ranger, Επεξεργασία εγγράφων με το vim και εγκατάσταση και χρήση του thefuck
-[![asciicast](https://asciinema.org/a/449062.svg)](https://asciinema.org/a/449062)
+<a href="https://asciinema.org/a/449062" target="_blank"><img src="https://asciinema.org/a/449062.svg" width="480"/></a>
 
 ## Άσκηση γραμμής εντολών 2:
 
 ### warm-up : check the weather
 Έλεγχος του καιρού μέσω της γραμμής εντολών, δημιουργία συντόμευσης για προβολή του καιρού σε επιλεγμένη τοποθεσία και προσθήκη της ένδειξης της θερμοκραίας στο status bar.
 ![Status Bar!](https://github.com/p16koub1/hci-files/blob/main/pscr_211114174752.png)
-[![asciicast](https://asciinema.org/a/449069.svg)](https://asciinema.org/a/449069)
+<a href="https://asciinema.org/a/449069" target="_blank"><img src="https://asciinema.org/a/449069.svg" width="480" /></a>
 
 ## Συμμετοχικό περιεχόμενο 1A
 ### Προσθήκες:
@@ -71,7 +71,7 @@
 ## Άσκηση γραμμής εντολών 3:
 ### warm-up : track your time with a simple journal
 Δημιουργία και αποθήκευση σημειώσεων ημερολογίου με τη χρήση του jrnl. Όπως επίσης και επξεργασία του config για εξατομίκευση στις δικές μου προτιμίσεις.
-[![asciicast](https://asciinema.org/a/452729.svg)](https://asciinema.org/a/452729)
+<a href="https://asciinema.org/a/452729" target="_blank"><img src="https://asciinema.org/a/452729.svg" width="480" /></a>
 
 ## Συμμετοχικό περιεχόμενο 2Α
 - [Slides](https://github.com/p16koub1/site/blob/master/_slides/videogames.md)
@@ -80,7 +80,7 @@
 ## Άσκηση γραμμής εντολών 4:
 ### warm-up: create your own top alternatives with a focus to your own workflows
 Γραφική απεικόνιση shell scripts. Δημιουργία του εξατομικευμένου προς τις ανάγκες μου  config.yml.
-[![asciicast](https://asciinema.org/a/452746.svg)](https://asciinema.org/a/452746)
+<a href="https://asciinema.org/a/452746" target="_blank"><img src="https://asciinema.org/a/452746.svg" width="480"/></a>
 
 ## Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση
 
