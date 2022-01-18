@@ -192,9 +192,15 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 Όσον αφορά την χρήση των πακέτων/εντολών, χρησιμοποίησα:
 - `asciinema`, για την βιντεοσκόπηση της επιφάνειας εργασίας μου
 - `vim`, για την επεξεργασία και αλλαγή περιεχομένων αρχείων
+- `vim-plug`, για την εγκατάσταση άλλων configuration αρχείων 
 
-Πηγές: [asciinema](https://github.com/asciinema/asciinema) & [vim](https://www.vim.org/)
-Σύνδεσμος: [asciicast - 6η άσκηση γραμμής εντολών](https://asciinema.org/a/uoE4eERjlRjRj0FXW8CXcAyL9)
+Και τέλος, εγκατέστησα, μέσω του `vim-plug` τo `NERDtree` για την προβολή αρχείων σε μορφή tree.
+
+Το configuration αρχείο το παραθέτω παρακάτω.
+
+Πηγές: [asciinema](https://github.com/asciinema/asciinema) & [vim](https://www.vim.org/) & [vim-plug](https://github.com/junegunn/vim-plug) & [NERDtree](https://github.com/preservim/nerdtree)
+<br />
+Σύνδεσμος: [asciicast - 6η άσκηση γραμμής εντολών](https://asciinema.org/a/uoE4eERjlRjRj0FXW8CXcAyL9) & [config file](https://pastebin.com/wTLbM2Yz)
 
 
 # Επίλογος - Αίτημα Ενσωμάτωσης
