@@ -12,20 +12,20 @@
 
 # Παραδοτέα
 
-| Εβδομάδα* | Παραδοτέο |
-| --- | --- |
-| 1 | <sup><a href="#1"> Φορκ του αποθετηρίου,δημιουργία της σελίδας της αναφοράς και εισαγωγή με περιγραφή των αναγκών και στόχων για το μάθημα </a></sup> |
-| 2 | <sup><a href="#2"> Εγκατάσταστη Archlinux / Άσκηση γραμμής εντολών : set-up the main dependencies and demonstrate your base system(warmup) </a></sup> |
-| 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών : get familiar with basic commands, reading documentation and editing files(warmup) </a></sup> |
-| 4 | <sup><a href="#4"> συμμετοχικό περιεχόμενο 1A </a></sup> |
-| 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών : check the weather(warmup) </a></sup> |
-| 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο 2A </a></sup> |
-| 7 | <sup><a href="#7"> Άσκηση γραμμής εντολών : download mp3(hci) </a></sup> |
-| 8 | <sup><a href="#8"> συμμετοχικό περιεχόμενο 1B </a></sup> |
-| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion(hci) </a></sup> |
-| 10 | <sup><a href="#10"> συμμετοχικό περιεχόμενο 2B </a></sup> |
-| 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών : organise the terminal window into multiple areas(hci) </a></sup> |
-| 12 | <sup><a href="#12"> Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση </a></sup> |
+| Εβδομάδα* | Παραδοτέο | Εγκυρότητα | Ολοκλήρωση |
+| --- | --- | --- | --- |
+| 1 | <sup><a href="#1"> Φορκ του αποθετηρίου,δημιουργία της σελίδας της αναφοράς και εισαγωγή με περιγραφή των αναγκών και στόχων για το μάθημα </a></sup> | ΕΓΚΥΡΟ | 100%
+| 2 | <sup><a href="#2"> Εγκατάσταστη Archlinux / Άσκηση γραμμής εντολών : set-up the main dependencies and demonstrate your base system(warmup) </a></sup> | ΕΓΚΥΡΟ | 100%
+| 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών : get familiar with basic commands, reading documentation and editing files(warmup) </a></sup> | ΕΓΚΥΡΟ | 100%
+| 4 | <sup><a href="#4"> συμμετοχικό περιεχόμενο 1A </a></sup> | ΕΓΚΥΡΟ | 100%
+| 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών : check the weather(warmup) </a></sup> | ΕΓΚΥΡΟ | 100%
+| 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο 2A </a></sup> | ΕΓΚΥΡΟ | 100%
+| 7 | <sup><a href="#7"> Άσκηση γραμμής εντολών : download mp3(hci) </a></sup> | ΕΓΚΥΡΟ | 100%
+| 8 | <sup><a href="#8"> συμμετοχικό περιεχόμενο 1B </a></sup> | ΕΓΚΥΡΟ | 100%
+| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion(hci) </a></sup> | ΕΓΚΥΡΟ | 100%
+| 10 | <sup><a href="#10"> συμμετοχικό περιεχόμενο 2B </a></sup> | ΕΓΚΥΡΟ | 100%
+| 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών : organise the terminal window into multiple areas(hci) </a></sup> | ΕΓΚΥΡΟ | 100%
+| 12 | <sup><a href="#12"> Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση </a></sup> | ΕΓΚΥΡΟ | 100%
 
 ##### [1]    
 
