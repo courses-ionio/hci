@@ -6,7 +6,7 @@
 | <a href="#A">1</a> |<a href="#A">Εισαγωγή </a> | Φορκ του αποθετηρίου, δημιουργία του δικού μου branch, συγγραφή εισαγωγής |
 | <a href="#B">2</a> | <a href="#B">Εγκατάσταση των Arch Linux</a> | Σύνοψη της εγκατάστασης των Arch Linux και των προβλημάτων που αντιμετώπισα |
 | 3 | Εγκατάσταση των Arch Linux(Δείτε Παραδοτέο 2) | - |
-| <a href="#C">4</a> | <a href="#C">Συμμετοχικό Περιεχόμενο 1A</a> | Επιλογή θεμάτων και εικόνων για το Συμμετοχικό Υλικό |
+| <a href="#C">4</a> | <a href="#C">Συμμετοχικό Περιεχόμενο 1A</a> | Επιλογή θεματικών ενοτήτων και εικόνων για το Συμμετοχικό Υλικό |
 | 5 | Εγκατάσταση των Arch Linux(Δείτε Παραδοτέο 2)| - |
 | <a href="#D">6</a> | <a href="#D">Συμμετοχικό Περιεχόμενο 2A</a> | Προσθήκη των εικόνων μου στο αντίστοιχο σετ διαφανειών και χρονολογίου |
 | <a href="#E">7</a> | <a href="#E">Άσκηση γραμμής εντολών 1</a> | Λήψη κομματιού από το YouTube και αναπαραγωγή του μέσω terminal |
@@ -116,3 +116,12 @@
 Σαν 3η άσκηση warm up, έφτιαξα ένα απλό journal με την εντολή jrnl, έτσι ώστε να θυμίσω στον ευατό μου μερικά από τα πράγματα που έχω να κάνω την ερχόμενη εβδομάδα.
 
 [Asciinema Link](https://asciinema.org/a/PEfEBc6yLvCm1TAqpjtk0mrZL)
+
+
+# Link προς τις συνεισφορές μου στις συζητήσεις
+
+[#1536](https://github.com/courses-ionio/hci/discussions/1536) | [#1537](https://github.com/courses-ionio/hci/discussions/1537) | [#1580](https://github.com/courses-ionio/hci/discussions/1580) | [#1630](https://github.com/courses-ionio/hci/discussions/1630) | [#1695](https://github.com/courses-ionio/hci/discussions/1695)
+
+Στα discussions που πήρα το σήμα "Marked as answer" : [#1657](https://github.com/courses-ionio/hci/discussions/1657)
+
+[Pull request link](https://github.com/courses-ionio/hci/pull/1700)
