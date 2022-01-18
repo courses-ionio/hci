@@ -19,10 +19,10 @@
 | 2 | [Άσκηση γραμμής εντολών (ram,cpu,gpu,network,hard drives) <b>warpup</b>](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#---book-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2) |
 | 3 | [Άσκηση γραμμής εντολών(Εγκατάσταση Archlinux) <b>warpup</b>](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-archlinux-manually) |
 | 4 | [συμμετοχικό περιεχόμενο <b>1 A1,A2</b>](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-1) |
-| 5 | [συμμετοχικό περιεχόμενο <b>2 B2,B2</b>](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-2)|
+| 5 | [συμμετοχικό περιεχόμενο <b>2 B1,B2</b>](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-2)|
 | 6 | [Άσκηση γραμμής εντολών <b>HCI 1</b>](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci-1) |
 | 7 | [Άσκηση γραμμής εντολών <b>HCI 2</b>](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci-2) |
-| 8 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
+| 8 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](https://github.com/p19tzam/hci/blob/2019213/projects/2019213/README.md#pushpin-%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) |
 
 <hr>
 <br>
@@ -432,3 +432,5 @@ tmux attach-session -t
 
 
 ### :pushpin:: Τελική Αναφορά
+Φτάσαμε στο τελευταίο παραδοτέο. Πραγματικά μέσα απο αυτό το μάθημα απέκτησα πάρα πολλές γνώσεις που με έκαναν κατα πολύ πιο καλύτερο από πρίν συγκεκριμένα στο κομμάτι του Linux που μέσα απο τον κύριο χωριανόπουλο έμαθα το Window Manager που η γνώμη μου ήταν οτι το GUI(Γραφικό περιβάλλον) ηταν καλυτερο απο WM αυτό άλλαξε μια μέρα όταν πήγα για παρουσίαση, θυμάμαι συγκεκριμένα η κ.Χωριανοπουλος να μου λέει πάνω σε μια συζήτηση που είχαμε για γραφικό περιβάλλον να επιχειρήσω να κάνω install το Window Manager και το έκανα.. Μπορώ να πω ήταν λίγο δύσκολο να το συνηθίσω ΑΛΛΑ με το που το συνηθισα δεν το ξανα άλλαξα. Στον τομέα μου κερδίζω πάρα πολύ χρόνο και ταχύτητα με το Window Manager επειδή βασίζεται πάνω στα shortcuts. Πραγματικά η εργασία αυτή μου πρόσφερε αρκετά πράγματα και μέσα απο της εργασίες και απο τις παρουσιάσεις-συζητήσεις μαζί με τον κ.Χωριανοπουλο πχ την κατανόηση για ποιό λόγο ένας απλός χρήστης ενός “μηχανήματος” που στην προκειμένη περίπτωση ονομάζεται υπολογιστής επιλέγει το γραφικό περιβάλλον, την διεπαφή του και γιατί δεν μπορεί να καταλάβει την διαφορά.
+Στο επόμενο εξάμηνο θα χαρώ να ξανα συνεργαστώ μαζί με τον κ.Χωριανοπουλο και την ομάδα του.
