@@ -35,6 +35,7 @@
 
 - To [boot log](https://github.com/p16koub1/hci-files/blob/main/boot_log) με την εντολή journalctl -b -0 | less
 - neofetch
+
   <a href="https://asciinema.org/a/448737" target="_blank"><img src="https://asciinema.org/a/448737.svg" width="480"/></a>
   
 ### Repository του γραφικού περιβάλλοντος και αλλαγές που έγιναν σε αυτό
@@ -46,6 +47,7 @@
 
 ### warm-up : get familiar with basic commands, reading documentation and editing files
 Πλοήγηση με τη γραμμή εντολών και το ranger, Επεξεργασία εγγράφων με το vim και εγκατάσταση και χρήση του thefuck
+
 <a href="https://asciinema.org/a/449062" target="_blank"><img src="https://asciinema.org/a/449062.svg" width="480"/></a>
 
 ## Άσκηση γραμμής εντολών 2:
@@ -70,6 +72,7 @@
 ## Άσκηση γραμμής εντολών 3:
 ### warm-up : track your time with a simple journal
 Δημιουργία και αποθήκευση σημειώσεων ημερολογίου με τη χρήση του jrnl. Όπως επίσης και επξεργασία του config για εξατομίκευση στις δικές μου προτιμίσεις.
+
 <a href="https://asciinema.org/a/452729" target="_blank"><img src="https://asciinema.org/a/452729.svg" width="480" /></a>
 
 ## Συμμετοχικό περιεχόμενο 2Α
@@ -79,7 +82,16 @@
 ## Άσκηση γραμμής εντολών 4:
 ### warm-up: create your own top alternatives with a focus to your own workflows
 Γραφική απεικόνιση shell scripts. Δημιουργία του εξατομικευμένου προς τις ανάγκες μου  config.yml.
+
 <a href="https://asciinema.org/a/452746" target="_blank"><img src="https://asciinema.org/a/452746.svg" width="480"/></a>
+
+## Άσκηση γραμμής εντολών 5:
+### hci: download mp3
+Με τη χρήση του εργαλείου youtube-dl έφτιαξα ένα shell script για να μπορώ να κατεβάζω τραγούδια μαζί με τις πληροφορίες τους(metadata) και να τα αποθηκεύω στο φάκελο στη μουσική μου βιβλιοθήκη. Στη συνέχεια έφτιαξα ένα alias που αποθηκεύει την τοποθεσία του script στο αρχείο .bashrc για να μπορώ να τρέχω το script ανα πάσα στιγμή.
+- [Shell Script](https://github.com/p16koub1/hci-files/blob/main/ym)
+ 
+- <a href="https://asciinema.org/a/452746" target="_blank"><img src="https://asciinema.org/a/452746.svg" width=480/></a>
+
 
 ## Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση
 
