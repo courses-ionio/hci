@@ -87,7 +87,14 @@
  
 # **Άσκηση γραμμής εντολών - 7ο παραδοτέο**
  
+ Στην άσκηση αυτή διάλεξα το hci που μας ζητάει να οργανώσουμε το παράθυρο του terminal σε πολλές περιοχές. Αυτό έγινε με την βοήθεια του ``tmux`` που σου επιτρέπει να διαχωρίσεις το terminal όπως το επιθυμείς αλλά και να φτιάξεις sessions που βοηθάει πολύ στο multitasking χωρίς gui. Επίσης χρησιμοποιήσα το ``glances`` package για να κάνω monitor πόσα resources καταλαμβάνει το σύστημα arch linux καθώς χρησιμοποίησα το ``mv`` command για να κάνω edit το όνομα ενός αρχείου png.
  
+## **Προβλήματα που χρειάστηκε να επιλυθούν πριν την εκτέλεση**
+Ένα πρόβλημα που αντιμετώπισα κατά την ολοκλήρωση της άσκησης ήταν η καταγραφή όλων των "sub-terminal" με το asciinema, καθώς δεν ήταν άμεσα υποστηριζόμενη η καταγραφή ολόκληρου του παραθύρου. Έπρεπε να δημιουργήσεις από πρίν ένα session tmux και μετά να αρχίσεις την καταγραφή κάνωντας attach το asciinema σύμφωνα με το documentation. Η εκτέλεση της εντολής attach όταν βρισκόμουν μέσα στο tmux session προκαλούσε ένα γραφικό bug στο terminal κάνοντάς το άχρηστο. Κατάφερα τελικά να κάνω την καταγραφή κλείνοντας το ήδη υπάρχων session και κάνοντας μετα τις εντολές καταγραφής του asciinemα, πράγμα πολύ δύσχρηστο προς τον νέο χρήστη.
+ 
+## **Links**
+### [Glances](https://man.archlinux.org/man/glances.1) | [tmux](https://man.archlinux.org/man/tmux.1)
+### [Asciinema Recording](https://asciinema.org/a/L8y0Dmoj22IQ4ggEFzAbc9v68)
  
 <br />
  
@@ -114,19 +121,19 @@ https://user-images.githubusercontent.com/72318224/148303447-29afcdf3-1ea0-420d-
 [Microsoft](https://www.microsoft.com/buxtoncollection/detail.aspx?id=40) | [Wikipedia](https://en.wikipedia.org/wiki/IBM_Simon)
  
 ### James Fergason
-[Ohio History Central](https://ohiohistorycentral.org/w/LCD) | [Wikipedia](https://en.wikipedia.org/wiki/James_Fergason#cite_note-Legends-4) | [MIT Program archieved](https://web.archive.org/web/20090208154935/http://web.mit.edu/invent/a-winners/a-fergason.html) | [Youtube Interview](https://youtu.be/It1AtTcpQhc)
+[Ohio History Central](https://ohiohistorycentral.org/w/LCD) | [Wikipedia](https://en.wikipedia.org/wiki/James_Fergason#cite_note-Legends-4)
+<br /> [MIT Program archieved](https://web.archive.org/web/20090208154935/http://web.mit.edu/invent/a-winners/a-fergason.html) | [Youtube Interview](https://youtu.be/It1AtTcpQhc)
  
 <br />
  
 # **Άσκηση γραμμής εντολών - 9ο παραδοτέο**
  
-Στην άσκηση αυτή διάλεξα το hci που μας ζητάει να οργανώσουμε το παράθυρο του terminal σε πολλές περιοχές. Αυτό έγινε με την βοήθεια του ``tmux`` που σου επιτρέπει να διαχωρίσεις το terminal όπως το επιθυμείς αλλά και να φτιάξεις sessions που βοηθάει πολύ στο multitasking χωρίς gui. Επίσης χρησιμοποιήσα το ``glances`` package για να κάνω monitor πόσα resources καταλαμβάνει το σύστημα arch linux καθώς χρησιμοποίησα το ``mv`` command για να κάνω edit το όνομα ενός αρχείου png.
- 
-## **Προβλήματα που χρειάστηκε να επιλυθούν πριν την εκτέλεση**
-Ένα πρόβλημα που αντιμετώπισα κατά την ολοκλήρωση της άσκησης ήταν η καταγραφή όλων των "sub-terminal" με το asciinema, καθώς δεν ήταν άμεσα υποστηριζόμενη η καταγραφή ολόκληρου του παραθύρου. Έπρεπε να δημιουργήσεις από πρίν ένα session tmux και μετά να αρχίσεις την καταγραφή κάνωντας attach το asciinema σύμφωνα με το documentation. Η εκτέλεση της εντολής attach όταν βρισκόμουν μέσα στο tmux session προκαλούσε ένα γραφικό bug στο terminal κάνοντάς το άχρηστο. Κατάφερα τελικά να κάνω την καταγραφή κλείνοντας το ήδη υπάρχων session και κάνοντας μετα τις εντολές καταγραφής του asciinemα, πράγμα πολύ δύσχρηστο προς τον νέο χρήστη.
+Στην τελευταία άσκηση του hci επέλεξα να κάνω config το vim.
+## peek
+
+https://user-images.githubusercontent.com/72318224/150029673-7ed7bd72-4989-49b1-9574-4eb4502491f6.mp4
  
 ## **Links**
-### [Glances](https://man.archlinux.org/man/glances.1) | [tmux](https://man.archlinux.org/man/tmux.1)
-### [Asciinema Recording](https://asciinema.org/a/L8y0Dmoj22IQ4ggEFzAbc9v68)
+### [Vim](https://www.vim.org/) | [Vim Plug](https://github.com/junegunn/vim-plug) | [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
  
 # **Συμπεράσματα**
