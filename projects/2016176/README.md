@@ -36,11 +36,12 @@
 - To [boot log](https://github.com/p16koub1/hci-files/blob/main/boot_log) με την εντολή journalctl -b -0 | less
 - neofetch
   [![asciicast](https://asciinema.org/a/448737.svg)](https://asciinema.org/a/448737)
+  <a href="https://asciinema.org/a/448737" target="_blank"><img src="https://asciinema.org/a/448737.svg" width="720"/></a>
   
 ### Repository του γραφικού περιβάλλοντος και αλλαγές που έγιναν σε αυτό
 - [Personal Build Repo](https://github.com/p16koub1/personal-build/main)
 
-![Build Preview!](https://github.com/p16koub1/personal-build/blob/main/pscr_211114012432.png)
+<img src="https://github.com/p16koub1/personal-build/blob/main/pscr_211114012432.png" alt="drawing" width="720"/>
 
 ## Άσκηση γραμμής εντολών 1:
 
