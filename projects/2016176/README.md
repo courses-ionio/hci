@@ -90,7 +90,7 @@
 Με τη χρήση του εργαλείου youtube-dl έφτιαξα ένα shell script για να μπορώ να κατεβάζω τραγούδια μαζί με τις πληροφορίες τους(metadata) και να τα αποθηκεύω στο φάκελο στη μουσική μου βιβλιοθήκη. Στη συνέχεια έφτιαξα ένα alias που αποθηκεύει την τοποθεσία του script στο αρχείο .bashrc για να μπορώ να τρέχω το script ανα πάσα στιγμή.
 - [Shell Script](https://github.com/p16koub1/hci-files/blob/main/ym)
  
-- <a href="https://asciinema.org/a/452746" target="_blank"><img src="https://asciinema.org/a/452746.svg" width=480/></a>
+- <a href="https://asciinema.org/a/462624" target="_blank"><img src="https://asciinema.org/a/462624.svg" width=480/></a>
 
 
 ## Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση
