@@ -250,6 +250,7 @@ Username	p13vyth / First name Alexandros Vithoulkas / Last name P2013021
   | [#1667](https://github.com/courses-ionio/hci/discussions/1667) |
   | [#1673](https://github.com/courses-ionio/hci/discussions/1673) |
   | [#1695](https://github.com/courses-ionio/hci/discussions/1695) |
+  | [#1702](https://github.com/courses-ionio/hci/discussions/1702) |
  
   ### Συμπέρασμα :
   
