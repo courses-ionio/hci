@@ -236,31 +236,21 @@ Username	p13vyth / First name Alexandros Vithoulkas / Last name P2013021
   
   ## Τελική αναφορά
   
-  ## Σύνοψη:
-
-Προσωπικοί μου στόχοι για το μάθημα ---> **ΕΓΚΥΡΟ COMMIT**
-
-Άσκηση γραμμής εντολών: Προσπάθεια εγκατάστασης Arch Linux---> **ΜΗ ΕΓΚΥΡΟ COMMIT**, **50% COMPLETED**
-
-Άσκηση γραμμής εντολών: Προσπάθεια εγκατάστασης Arch Linux ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
-
-Συμμετοχικό περιεχόμενο: A1 ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
+  ### Συνεισφορές και συμμετοχικότητα 
   
-Άσκηση γραμμής εντολών: Εύρεση χαρακτηριστικών του συστήματος με χρήση εντολών journalctl και neofetch ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
-  
-Συμμετοχικό περιεχόμενο: A2 ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
-  
-Άσκηση γραμμής εντολών: Search, download and play (with the terminal) your favorite song ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED** 
-  
- Συμμετοχικό περιεχόμενο: Β1  ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
-  
-Άσκηση γραμμής εντολών: text editor and plug-ins for code highlighting and autocompletion ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
-  
-Συμμετοχικό περιεχόμενο: Β2 ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
-
-Άσκηση γραμμής εντολών: organize your notes with emacs ---> **ΕΓΚΥΡΟ COMMIT**, **100% COMPLETED**
-  
-  **Συμπέρασμα :**
+| Discussion |
+  | --- |
+  | [#1627](https://github.com/courses-ionio/hci/discussions/1627) |
+  | [#1630](https://github.com/courses-ionio/hci/discussions/1630) |
+  | [#1633](https://github.com/courses-ionio/hci/discussions/1633) |
+  | [#1634](https://github.com/courses-ionio/hci/discussions/1634) |
+  | [#1637](https://github.com/courses-ionio/hci/discussions/1637) |
+  | [#1650](https://github.com/courses-ionio/hci/discussions/1650) |
+  | [#1665](https://github.com/courses-ionio/hci/discussions/1665) |
+  | [#1673](https://github.com/courses-ionio/hci/discussions/1673) |
+  | [#1695](https://github.com/courses-ionio/hci/discussions/1695) |
+ 
+  ### Συμπέρασμα :
   
   <p>Οι γνώσεις που αποκόμισα από το μάθημα αυτό ήταν πάρα πολλές και κάλυψαν με το παραπάνω τις προσδοκίες μου. Μέσω του μαθήματος αυτού τώρα εχω κατανοήσει πλέον σε μεγάλο βαθμό την έννοια <b>επικοινωνία ανθρώπου και υπολογιστή</b> τόσο σε πρακτικό επίπεδο με τις ασκήσεις γραμμών εντολών όσο και σε θεωρητικό επίπεδο και μέσα από λεγόμενα αξιόλογων επιστημόνων όπως ο <B>Alan Kay</b>  και ο <b>Ted Nelson</b>. Επίσης το μάθημα αυτό μου προσέφερε πολύ σημαντικές γνώσεις για το λειτουργικό <b>Linux</b/> (Arch) καθώς από την εγκατάσταση ακόμα με έβαλε στην διαδικασία να κατανοήσω το filesystem του, το πως δουλέυουν τα partitions αλλά και το πώς να δημιουργώ και να επεξεργάζομαι αρχεία μέσω εντολών απο το terminal. Τέλος οι γνώσεις μου επεκτάθηκαν και στην χρήση του github το οποίο στην αρχή μου φαινόταν πολύ δυσνόητο που όμως στην συνέχεια μαζί με την εξοικείωση μου με τις γραμμές εντολών μου φάνηκε τόσο εύχρηστο και τόσο σημαντικό εργαλείο για έναν προγραμματιστή.
     
