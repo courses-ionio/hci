@@ -349,12 +349,11 @@ https://linoxide.com/best-linux-performance-monitoring-tools/
 
 ## Τελική αναφορά :
 
-## Συμμετοχή σε συζητήσεις : 
+| Συμμετοχή σε συζητήσεις : | 
+  | --- | 
+  | [#1627](https://github.com/courses-ionio/hci/discussions/1627) |
+  | [#1688](https://github.com/courses-ionio/hci/discussions/1688) |
   
-https://github.com/courses-ionio/hci/discussions/1627
-  
-https://github.com/courses-ionio/hci/discussions/1688
-
 ### Σύντομη ανάλυση εργαλείων : 
 
 Για την υλοποίηση των παραδοτέων χρησιμοποιήθηκαν το github για την ενημέρωση της αναφοράς , το asciinema για την καταγραφή terminal και το netlify για το deploy του 
