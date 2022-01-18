@@ -349,22 +349,11 @@ https://linoxide.com/best-linux-performance-monitoring-tools/
 
 ## Τελική αναφορά :
 
-### Σύνοψη παραδοτέων : 
-
-| Παραδοτέο | Ολοκλήρωση |
-| --- | --- |
-| Φορκ του αποθετηρίου,δημιουργία της σελίδας της αναφοράς και εισαγωγή με περιγραφή των αναγκών και στόχων για το μάθημα | ΕΓΚΥΡΟ COMMIT , 100% |
-| Εγκατάσταστη Archlinux / Άσκηση γραμμής εντολών : set-up the main dependencies and demonstrate your base system(warmup) | ΕΓΚΥΡΟ COMMIT , 100% |
-| Άσκηση γραμμής εντολών : get familiar with basic commands, reading documentation and editing files(warmup) | ΕΓΚΥΡΟ COMMIT , 100% |
-| Συμμετοχικό περιεχόμενο 1A | ΕΓΚΥΡΟ COMMIT , 100% |
-| Άσκηση γραμμής εντολών : check the weather(warmup) | ΕΓΚΥΡΟ COMMIT , 100% |
-| Συμμετοχικό περιεχόμενο 2A | ΕΓΚΥΡΟ COMMIT , 100% |
-| Άσκηση γραμμής εντολών : download mp3(hci) | ΕΓΚΥΡΟ COMMIT , 100% |
-| Συμμετοχικό περιεχόμενο 1B | ΕΓΚΥΡΟ COMMIT , 100% |
-| Άσκηση γραμμής εντολών : text editor and plug-ins for code highlighting and autocompletion(hci) | ΕΓΚΥΡΟ COMMIT , 100% |
-| Συμμετοχικό περιεχόμενο 2B | ΕΓΚΥΡΟ COMMIT , 100% |
-| Άσκηση γραμμής εντολών : organise the terminal window into multiple areas(hci) | ΕΓΚΥΡΟ COMMIT , 100% |
-| Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση | ΕΓΚΥΡΟ COMMIT , 100% |
+## Συμμετοχή σε συζητήσεις : 
+  
+https://github.com/courses-ionio/hci/discussions/1627
+  
+https://github.com/courses-ionio/hci/discussions/1688
 
 ### Σύντομη ανάλυση εργαλείων : 
 
