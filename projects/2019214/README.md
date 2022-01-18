@@ -162,7 +162,7 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
  
  ![Peek_P2019214](https://user-images.githubusercontent.com/79524490/149962104-94780bf0-3584-4ecc-9118-991eebf84e63.gif)
  
- Το περιεχόμενο του elvi αρχείου που δημιούργησα είναι εδώ: [wsource.txt](https://github.com/Xar-Me-Ison/hci/files/7890039/wsource.txt)
+ Το περιεχόμενο του elvi αρχείου που δημιούργησα είναι εδώ: [wsource.txt για download](https://github.com/Xar-Me-Ison/hci/files/7890039/wsource.txt) & [wsource.txt για προβολή (στο pastebin)](https://pastebin.com/bxV0cHgb)
   
   
   
