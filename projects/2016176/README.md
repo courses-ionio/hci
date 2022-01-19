@@ -90,6 +90,7 @@
 - [extras](https://github.com/p16koub1/extras/blob/master/cs-nintendo-ds.md)
 - [images](https://github.com/p16koub1/images/blob/master/nintendo-ds.jpg)
 - [images](https://github.com/p16koub1/images/blob/master/ds-controls.png)
+
 sources: [google-books](https://books.google.gr/books?id=8RcmycrSsyEC&pg=PA519&lpg=PA519&dq=nintendo+ds+human+interaction&source=bl&ots=HKPmGT57mC&sig=ACfU3U0UagXC05L4IQcCIsoaLlu3ivofpg&hl=el&sa=X&ved=2ahUKEwjkjKjl9L31AhVwhP0HHS5BAJUQ6AF6BAgfEAM#v=onepage&q=nintendo%20ds%20human%20interaction&f=false) , [wikipedia](https://el.wikipedia.org/wiki/Nintendo_DS)
 
 ## Άσκηση γραμμής εντολών 5:
@@ -100,9 +101,11 @@ sources: [google-books](https://books.google.gr/books?id=8RcmycrSsyEC&pg=PA519&l
 - <a href="https://asciinema.org/a/462624" target="_blank"><img src="https://asciinema.org/a/462624.svg" width=480/></a>
 
 ## Συμμετοχικό περιεχόμενο 2Β
-[biography](https://github.com/p16koub1/site/blob/master/_biography/ralph-baer.md)
-[extras](https://github.com/p16koub1/extras/blob/master/bio-ralph-baer.md)
-[images](https://github.com/p16koub1/images/blob/master/ralph-baer.jpg)
+- [biography](https://github.com/p16koub1/site/blob/master/_biography/ralph-baer.md)
+- [extras](https://github.com/p16koub1/extras/blob/master/bio-ralph-baer.md)
+- [images](https://github.com/p16koub1/images/blob/master/ralph-baer.jpg)
+
+source: [si.edu](https://www.si.edu/spotlight/the-father-of-the-video-game-the-ralph-baer-prototypes-and-electronic-games/biography)
 
 ## Άσκηση γραμμής εντολών 6:
 ### hci: text editor and plug-ins for code highlighting and autocompletion
