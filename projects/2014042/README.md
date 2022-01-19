@@ -92,7 +92,7 @@
 
 Για το δεύτερο warmup έκανα browse στο διαδίκτυο μέσω terminal χρησιμοποιόντας το w3m, έναν text based browser, όπως φαίνεται και στην παρακάτω εικόνα
 
-[alt text](https://raw.githubusercontent.com/Sola1r3/pictures/main/w3m.png)
+![alt text](https://raw.githubusercontent.com/Sola1r3/pictures/main/w3m.png)
 
 <br />
 
