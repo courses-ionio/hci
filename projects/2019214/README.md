@@ -194,11 +194,11 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 - `vim`, για την επεξεργασία και αλλαγή περιεχομένων αρχείων
 - `vim-plug`, για την εγκατάσταση άλλων configuration αρχείων 
 
-Και τέλος, εγκατέστησα, μέσω του `vim-plug` τo `NERDtree` για την προβολή αρχείων σε μορφή tree.
+Και τέλος, εγκατέστησα, μέσω του `vim-plug` τo `NERDtree` για την προβολή αρχείων σε μορφή tree και το `YouCompleteMe` για το autocomplete. 
 
 Το configuration αρχείο το παραθέτω παρακάτω.
 
-Πηγές: [asciinema](https://github.com/asciinema/asciinema) & [vim](https://www.vim.org/) & [vim-plug](https://github.com/junegunn/vim-plug) & [NERDtree](https://github.com/preservim/nerdtree)
+Πηγές: [asciinema](https://github.com/asciinema/asciinema) & [vim](https://www.vim.org/) & [vim-plug](https://github.com/junegunn/vim-plug) & [NERDtree](https://github.com/preservim/nerdtree) & [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 <br />
 Σύνδεσμος: [asciicast - 6η άσκηση γραμμής εντολών](https://asciinema.org/a/uoE4eERjlRjRj0FXW8CXcAyL9) & [config file](https://pastebin.com/wTLbM2Yz)
 
@@ -208,7 +208,7 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 
 Συγκεκριμένα, με τις ασκήσεις 'warm-up' κατάφερα να βλέπω τα χαρακτηριστικά του συστήματος μου, να διαχειρίζομαι τα αρχεία μέσα από το τερματικό περιβάλλον, να κατεβάζω και να εγκαθιστώ πακέτα της αρεσκείας μου που με βοηθούν στην καθημερινή μου μέρα, όχι μόνο από τα προεπιλεγμένα repositories αλλά και από άλλα άλλων φίλων προγραμματιστών που πιθανώς, έχουν παρόμοιους σκοπούς με μένα.
 
-Επιπλέον, από τα συμμετοχικά περιεχόμενα, ερεύνησα και έμαθα για άτομα, τιτάνες της τεχνολογίας, μεγαλύτερα από εμένα που με την ευφυία και επιρροή τους κατάφεραν να αλλάξουν τον τεχνολογικό κόσμο όπως τον ξέρουμε.
+Επιπλέον, από τα συμμετοχικά περιεχόμενα, ερεύνησα και έμαθα για άτομα (και τις συσκευές τους), τιτάνες της τεχνολογίας, μεγαλύτερα από εμένα που με την ευφυία και επιρροή τους κατάφεραν να αλλάξουν τον τεχνολογικό κόσμο όπως τον ξέρουμε. 
 
 
 <br />
