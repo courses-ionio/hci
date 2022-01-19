@@ -85,12 +85,24 @@
 
 <a href="https://asciinema.org/a/452746" target="_blank"><img src="https://asciinema.org/a/452746.svg" width="480"/></a>
 
+## Συμμετοχικό περιεχόμενο 1Β
+- [case-study](https://github.com/p16koub1/site/blob/master/_case-study/nintendo-ds.md)
+- [extras](https://github.com/p16koub1/extras/blob/master/cs-nintendo-ds.md)
+- [images](https://github.com/p16koub1/images/blob/master/nintendo-ds.jpg)
+- [images](https://github.com/p16koub1/images/blob/master/ds-controls.png)
+sources: [google-books](https://books.google.gr/books?id=8RcmycrSsyEC&pg=PA519&lpg=PA519&dq=nintendo+ds+human+interaction&source=bl&ots=HKPmGT57mC&sig=ACfU3U0UagXC05L4IQcCIsoaLlu3ivofpg&hl=el&sa=X&ved=2ahUKEwjkjKjl9L31AhVwhP0HHS5BAJUQ6AF6BAgfEAM#v=onepage&q=nintendo%20ds%20human%20interaction&f=false) , [wikipedia](https://el.wikipedia.org/wiki/Nintendo_DS)
+
 ## Άσκηση γραμμής εντολών 5:
 ### hci: download mp3
 Με τη χρήση του εργαλείου youtube-dl έφτιαξα ένα shell script για να μπορώ να κατεβάζω τραγούδια μαζί με τις πληροφορίες τους(metadata) και να τα αποθηκεύω στο φάκελο στη μουσική μου βιβλιοθήκη. Στη συνέχεια έφτιαξα ένα alias που αποθηκεύει την τοποθεσία του script στο αρχείο .bashrc για να μπορώ να τρέχω το script ανα πάσα στιγμή.
 - [Shell Script](https://github.com/p16koub1/hci-files/blob/main/ym)
  
 - <a href="https://asciinema.org/a/462624" target="_blank"><img src="https://asciinema.org/a/462624.svg" width=480/></a>
+
+## Συμμετοχικό περιεχόμενο 2Β
+[biography](https://github.com/p16koub1/site/blob/master/_biography/ralph-baer.md)
+[extras](https://github.com/p16koub1/extras/blob/master/bio-ralph-baer.md)
+[images](https://github.com/p16koub1/images/blob/master/ralph-baer.jpg)
 
 ## Άσκηση γραμμής εντολών 6:
 ### hci: text editor and plug-ins for code highlighting and autocompletion
