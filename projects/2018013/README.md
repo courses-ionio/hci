@@ -59,6 +59,6 @@ youtube-dl βρίσκει το καλήτερο βίντεο και το καλ�
 Στην συνέχεια το Arcade-Machine και το Playstation-Portable προστέθηκαν στο χρονολόγιο των [βιντεοπαιχνιδιών](https://github.com/giormaster/site/blob/%CE%A02018013/_timeline/videogames.md) οπου ταίριαζαν καλήτερα.
 # Παραδοτέο_7
 ## Warmup_1 Journal <br />
-Σε αυτην την ασκηση warmup κατεγραψα ενα παραδειγμα journal για την τρεχουσα και την προηγουμενη ημερομηνια και στην συνεχεια το εμφανησα< /br>
+Σε αυτην την ασκηση warmup κατεγραψα ενα παραδειγμα journal για την τρεχουσα και την προηγουμενη ημερομηνια και στην συνεχεια το εμφανησα <br />
 https://asciinema.org/a/WYyF9WMA89n62rq9lflwROo1Y
 
