@@ -84,15 +84,22 @@
 
 <br />
 
+Πηγές: [Apple III - Wikipedia](https://en.wikipedia.org/wiki/Apple_III), [Apple III- Youtube](https://www.youtube.com/watch?v=1cO2McS0VAA), [Computer Space Wikipedia](https://en.wikipedia.org/wiki/Computer_Space), [The History of Arcade Machines from 1971](https://www.bespoke-arcades.co.uk/blog/early-arcade-history-1971),  [Computer Space launched the video game industry 50 years ago](https://theconversation.com/computer-space-launched-the-video-game-industry-50-years-ago-heres-the-real-reason-you-probably-havent-heard-of-it-168349)
+
+
 ### Προβλήματα που συνάντησα
 
 Κατά την δημιουργία submodules, μου πήρε αρκετό χρόνο να κατανοήσω τι πρέπει να κάνω και αυτό οφείλεται παραπάνω σε λάθη πρωτάρη, με αποτέλεσμα να κάνω πολλά back and forth. Αρχικά οταν προσπαθούσα να κάνω το πρώτο μου git push δεν είχα κάνει σωστά generate token το οποίο δεν έχει δικαίωμα να τροποποιήσει τα repos μου. Παράλληλα προσπαθούσα να κάνω submodules χωρις να εχω δει τα asciinema του μαθήματος για τα submodules. Το μεγαλύτερο λάθος μου, ωστόσο παράλληλα εξαιτίας αυτού του λάθους ασχολήθηκα πολύ πιο βαθυά με το git και έψαξα πράγματα σε σχέση με αυτό που ειδάλλως δεν θα κοίταγα. Όταν έσβηνα τα υπάρχοντα submodules έκανα απλα rm -rf gallery και έπειτα εκτελούσα την εντολή git submodule add πράγμα που φυσικά δεν λειτουργούσε καθώς υπήρχε στο index το gallery. Έπειτα δοκίμασα να κάνω rm -rf το gitmodules και μετά touch gitmodules πράγμα που δούλεψε και μου επέτρεψε να κάνω νέα submodules, commit και push. Φυσικά όμως κάτι τέτοιο δεν δούλευε στο netlify. Δοκίμασα και άλλα πολλά ανορθόδοξα tactics ώσπου κάποια στιγμή σκέφτηκα να ξανακοιτάξω τα asciinema του μαθήματος ώπου και λύθηκαν όλα μου τα προβλήματα.
+
+<br />
 
 ## Παραδοτέο 5: Warmup 2
 
 Για το δεύτερο warmup έκανα browse στο διαδίκτυο μέσω terminal χρησιμοποιόντας το w3m, έναν text based browser, όπως φαίνεται και στην παρακάτω εικόνα
 
 ![alt text](https://raw.githubusercontent.com/Sola1r3/pictures/main/w3m.png)
+
+Πηγές: [w3m](https://archlinux.org/packages/extra/x86_64/w3m/)
 
 <br />
 
