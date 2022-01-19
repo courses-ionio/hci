@@ -111,7 +111,9 @@
 
 Πρόσθεσα μία καινούργια μελέτη περίπτωσης που πραγματεύεται την εικόνα του Apple Wireless Mouse από το [παραδοτέο 4](#παραδοτεο-4---συμμετοχικό-περιεχόμενο-α1) στο οποίο εξηγείται η σημαντικότητα των χαρακτηριστικών που αντιπροσωπεύει το συγκεκριμένο αντικείμενο.
 
-[Μελέτη περίπτωσης](https://github.com/FaidonTsetsis/site/blob/2018073/_case-study/apple-mouse-wireless.md) <br> <br>
+[Μελέτη περίπτωσης](https://github.com/FaidonTsetsis/site/blob/2018073/_case-study/apple-mouse-wireless.md) 
+
+[Netlify bugged](https://unruffled-hodgkin-de2409.netlify.app/case-study/apple-mouse-wireless/)<br> <br>
 
 
 ## ΠΑΡΑΔΟΤΕΟ 9 - Πρώτη Άσκηση Γραμμής Εντολών
@@ -128,6 +130,8 @@
 Πρόσθεσα την βιογραφία του [Steve Jobs](https://github.com/FaidonTsetsis/site/blob/2018073/_biography/Steve-Jobs.md) ο οποίος με έμπνευση το Apple Wireless Mouse κατάφερε να αλλάξει ολόκληρη την βιομηχανία και την ώθησε προς την διάδοση των ασύρματων προϊόντων τόσο από την Apple όσο και από τους ανταγωνιστές της. 
 
 [Πηγή](https://youtu.be/V8VPy5PrzJA?t=662) 
+
+[Netlify bugged](https://unruffled-hodgkin-de2409.netlify.app/biography/steve-jobs/)
 
 Επίσης εισήγαγα μία εικόνα copyright-free του Steve Jobs σε δύο μορφές [Original](https://github.com/FaidonTsetsis/images/blob/master/Steve-Jobs.png) και [Thumbnail](https://github.com/FaidonTsetsis/images/blob/master/Steve-Jobs-thumb.png)<br> <br>
 
