@@ -100,11 +100,11 @@
  
 # **Άσκηση γραμμής εντολών - 8ο παραδοτέο**
  
-Για 8ο παραδοτέο επέλεξα το surf the web που ζητάει την κατασκευή ενός καινούριου elvi, έτσι ώστε να εξοικειωθώ με την δημιουργία config αρχείων. Το σηγκεκριμένο command ψάχνει στο site gsmarena πληροφορίες για το κινητό της επιλογής σας.
+Για 8ο παραδοτέο επέλεξα το surf the web με το `surfraw`, που ζητάει την κατασκευή ενός καινούριου elvi (config αρχείων του surfraw), έτσι ώστε να εξοικειωθώ με την δημιουργία config αρχείων για μελλοντική χρήση. Το σηγκεκριμένο custom command ψάχνει στο site gsmarena πληροφορίες για το μοντέλο κινητού της επιλογής σας.
  
 ## Peek Video
 https://user-images.githubusercontent.com/72318224/148303447-29afcdf3-1ea0-420d-8947-b70c0def4590.mp4
- 
+
 ## **Links**
 ### [Surfraw](https://gitlab.com/surfraw/Surfraw)
  
@@ -128,8 +128,10 @@ https://user-images.githubusercontent.com/72318224/148303447-29afcdf3-1ea0-420d-
  
 # **Άσκηση γραμμής εντολών - 9ο παραδοτέο**
  
-Στην τελευταία άσκηση του hci επέλεξα να κάνω config το vim.
+Στην τελευταία άσκηση του hci επέλεξα να κάνω επεξεργασία στο vim config file. Το αρχείο αυτό το δημιουργεί ο χρήστης μετά την εγγατάσταση του vim στο home folder του χρηστη, με όνομα `.vimrc`. Οι built in επιλογές δεν μου φάνηκαν αρκετά χρήσιμες οπότε πρόσθεσα απλώς syntax, αρίθμηση σειρών και search σε αρχεία, ενώ ταυτόχρονα άλλαξα τα spaces που προσθέτει το tab στον κώδικα. Επιπλέον κατέβασα το `vim-plug` plug in manager που προτείνεται από το archwiki με το οποίο κατέβασα το YouCompleteMe autocomplete. Αυτά παρουσιάζονται παρακάτω με την χρήση του `peek`. 
+
 ## peek
+https://user-images.githubusercontent.com/72318224/150111371-fa3363c7-693b-41f1-85f0-e50fbd648e0a.mp4
 
 https://user-images.githubusercontent.com/72318224/150029673-7ed7bd72-4989-49b1-9574-4eb4502491f6.mp4
  
