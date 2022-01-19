@@ -127,6 +127,8 @@ https://github.com/Vasilakious/images/blob/p2020132/oculus-rift-cv1.jpg
 
 # **ΠΕΜΠΤΗ ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ**
 
+## Warm Up - 
+
 
 
 # **ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2**
@@ -147,6 +149,8 @@ https://github.com/Vasilakious/images/blob/p2020132/palmer-luckey.jpg
 Άδεια φωτογραφίας: https://en.wikipedia.org/wiki/Palmer_Luckey#/media/File:ENx9KkOU8AAAXtj.jpg
 
 # **ΕΚΤΗ ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ**
+
+## HCI - VIM
 
 Σε αυτή την άσκηση γραμμής εντολών, κατέβασα το πακέτο vim με το command: sudo pacman -S vim. Έπειτα διάβασα το tutorial guidebook που διαθέτει built-in για να μάθω τα βασικά controls και λειτουργίες του package και ύστερα δοκίμασα να γράψω ένα μικρό scriptάκι στην προγραμματιστική γλώσσα Java για να ελέγξω αν δουλεύει σωστά πρωτού προχωρήσω στην διαδικασία edit του config file. Εφόσον είδα ότι όλα δούλευαν σωστά, βρήκα σε forum πως να αλλάξω το config και τις επιλογές διαθέτει και θα ήθελα να αλλάξω για προσωπική μου χρήση. Εν τέλει, χρησιμοποίησα για άλλη μια φορά το asciinema package για να κάνω record το terminal μου όπου παρουσιάζω τις αλλαγές που πραγματοποίησα στο config file και τον μικρού μήκους κώδικα για να δείξω ότι οι αλλαγές στο config file δουλεύουν εξίσου σωστά.
 
