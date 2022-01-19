@@ -65,5 +65,9 @@ https://asciinema.org/a/WYyF9WMA89n62rq9lflwROo1Y
 ## Warmup_2 Journal <br />
 Σε αυτην την ασκηση warmup εμφανησαμε τον καιρο της αθηνας και της τοποθεσιας που θελουμε να παμε,το παρισι <br />
 https://asciinema.org/a/GISLeYyzcUZaJAC3vOntuIBAQ
+# Παραδοτέο_11
+## Ασκηση_2 <br />
+https://asciinema.org/a/x2jbh1RV5yDru9GnJPPCjFxvu
+
 
 
