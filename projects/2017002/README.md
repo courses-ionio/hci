@@ -22,11 +22,11 @@
 # ΣΥΝΟΨΗ
 
 # 2o Παραδοτέο - Set-up the main dependencies and demonstrate your base system
-### Link: https://asciinema.org/a/y4plpGDacQlauF30PFyJZ2E5B
-### 2ο Παραδοτέο Κατεβάζω τραγούδι απο το youube και το κάνω play
-### Link: https://asciinema.org/a/8VNvQTcRlBU5IU9WCBfeR7VLP
-### 3ο Παραδοτέο Κάνω rename σε configure file
-### Link: https://asciinema.org/a/KjD5eRjS52PRr0ZWz0Ow9jQrd
+### Link: https://asciinema.org/a/462795
+### 2ο Παραδοτέο Κατεβάζω τραγούδι απο το youtube και το κάνω play
+### Link: https://asciinema.org/a/462800
+### 3ο Παραδοτέο Κάνω ενα καινούριο file και ράφω μέσα
+### Link: https://asciinema.org/a/462810
 ### Warm up φτιάχνω spreadsheet
 ### Link: https://asciinema.org/a/286250
 ### Συμμετοχικό υλικό 
