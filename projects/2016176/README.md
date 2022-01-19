@@ -92,6 +92,17 @@
  
 - <a href="https://asciinema.org/a/462624" target="_blank"><img src="https://asciinema.org/a/462624.svg" width=480/></a>
 
+## Άσκηση γραμμής εντολών 6:
+### hci: text editor and plug-ins for code highlighting and autocompletion
+Εξατομίκευση του vim. Συγκεκριμένα προστέθηκαν τα εξής plugins:
+- vim-fugitive
+- pydiction
+- vim-airline
+- vim-surround
+- nerdtree
+Για την εγκατάσταση των plugins επεξεργάστηκα το αρχείο .vimrc και .vimrc.plug και στη συνέχει ακολούθησα τις εντολές εγκατάστασης κάθε plugin. Τέλος εγκατέτησα το plugin μέσα απο το vim με την :PlugInstall
+
+<a href="https://asciinema.org/a/462650" target="_blank"><img src="https://asciinema.org/a/462650.svg" width=480/></a>
 
 ## Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση
 
