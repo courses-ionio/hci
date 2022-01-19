@@ -61,4 +61,9 @@ youtube-dl βρίσκει το καλήτερο βίντεο και το καλ�
 ## Warmup_1 Journal <br />
 Σε αυτην την ασκηση warmup κατεγραψα ενα παραδειγμα journal για την τρεχουσα και την προηγουμενη ημερομηνια και στην συνεχεια το εμφανησα <br />
 https://asciinema.org/a/WYyF9WMA89n62rq9lflwROo1Y
+# Παραδοτέο_9
+## Warmup_2 Journal <br />
+Σε αυτην την ασκηση warmup εμφανησαμε τον καιρο της αθηνας και της τοποθεσιας που θελουμε να παμε,το παρισι <br />
+https://asciinema.org/a/GISLeYyzcUZaJAC3vOntuIBAQ
+
 
