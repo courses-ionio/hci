@@ -61,10 +61,16 @@ youtube-dl βρίσκει το καλήτερο βίντεο και το καλ�
 ## Warmup_1 Journal <br />
 Σε αυτην την ασκηση warmup κατεγραψα ενα παραδειγμα journal για την τρεχουσα και την προηγουμενη ημερομηνια και στην συνεχεια το εμφανησα <br />
 https://asciinema.org/a/WYyF9WMA89n62rq9lflwROo1Y
+# Παραδοτέο_8
+## Case study <br />
+https://github.com/giormaster/site/blob/%CE%A02018013/_case-study/Arcade_Machine.md
 # Παραδοτέο_9
 ## Warmup_2 Journal <br />
 Σε αυτην την ασκηση warmup εμφανησαμε τον καιρο της αθηνας και της τοποθεσιας που θελουμε να παμε,το παρισι <br />
 https://asciinema.org/a/GISLeYyzcUZaJAC3vOntuIBAQ
+# Παραδοτέο_10
+## Biography <br />
+https://github.com/giormaster/site/blob/%CE%A02018013/_biography/David_Gottlieb.md
 # Παραδοτέο_11
 ## Ασκηση_2 <br />
 https://asciinema.org/a/x2jbh1RV5yDru9GnJPPCjFxvu
