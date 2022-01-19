@@ -21,7 +21,7 @@
 
 # ΣΥΝΟΨΗ
 
-# 2o Παραδοτέο - Set-up the main dependencies and demonstrate your base system
+### 2o Παραδοτέο - Set-up the main dependencies and demonstrate your base system
 ### Link: https://asciinema.org/a/462795
 ### 2ο Παραδοτέο Κατεβάζω τραγούδι απο το youtube και το κάνω play
 ### Link: https://asciinema.org/a/462800
