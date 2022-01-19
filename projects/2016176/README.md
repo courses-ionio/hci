@@ -12,18 +12,18 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα |
+| 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CE%BF%CE%B9-%CF%80%CF%81%CE%BF%CF%83%CE%B4%CE%BF%CE%BA%CE%AF%CE%B5%CF%82-%CE%BC%CE%BF%CF%85-%CE%B1%CF%80%CE%BF-%CF%84%CE%BF-%CE%BC%CE%AC%CE%B8%CE%B7%CE%BC%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%84%CE%B9%CF%82-%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%82) |
 | 2 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/tree/2016176/projects/2016176#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-1) |
 | 3 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/tree/2016176/projects/2016176#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-2) |
 | 4 | [συμμετοχικό περιεχόμενο 1A](https://github.com/p16koub1/hci/tree/2016176/projects/2016176#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-1a) |
 | 5 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/tree/2016176/projects/2016176#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-3) |
 | 6 | [συμμετοχικό περιεχόμενο 2A](https://github.com/p16koub1/hci/tree/2016176/projects/2016176#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-2%CE%B1) |
 | 7 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/tree/2016176/projects/2016176#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-4) |
-| 8 | συμμετοχικό περιεχόμενο 1B |
-| 9 | Άσκηση γραμμής εντολών |
-| 10 | συμμετοχικό περιεχόμενο 2B |
-| 11 | Άσκηση γραμμής εντολών |
-| 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
+| 8 | [συμμετοχικό περιεχόμενο 1B](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-1%CE%B2) |
+| 9 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-5) |
+| 10 | [συμμετοχικό περιεχόμενο 2B](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-2%CE%B2) |
+| 11 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-6) |
+| 12 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC-%CE%BA%CE%B1%CE%B9-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CE%B3%CE%B9%CE%B1-%CE%B2%CE%B1%CE%B8%CE%BC%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7) |
 
 ## Οι προσδοκίες μου απο το μάθημα και τις εργασίες
 
@@ -39,7 +39,7 @@
   <a href="https://asciinema.org/a/448737" target="_blank"><img src="https://asciinema.org/a/448737.svg" width="480"/></a>
   
 ### Repository του γραφικού περιβάλλοντος και αλλαγές που έγιναν σε αυτό
-- [Personal Build Repo](https://github.com/p16koub1/personal-build/main)
+- [Personal Build Repo](https://github.com/p16koub1/personal-build)
 
 <img src="https://github.com/p16koub1/personal-build/blob/main/pscr_211114012432.png" alt="drawing" width="480"/>
 
