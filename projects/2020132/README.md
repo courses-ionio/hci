@@ -146,8 +146,8 @@ https://obsproject.com/ https://gitlab.com/surfraw/Surfraw https://youtu.be/Fvim
 
 | Αντικείμενο | Repository Link |
 | --- | --- |
-| Slides | [cs-oculus-rift-cv1.md](https://github.com/Vasilakious/site/blob/p2020132/_biography/palmer-luckey.md) |
-| Biography | [oculus-rift-cv1.md](https://github.com/Vasilakious/site/blob/p2020132/_biography/bio-palmer-luckey.md) |
+| Slides | [palmer-luckey.md](https://github.com/Vasilakious/site/blob/p2020132/_biography/palmer-luckey.md) |
+| Biography | [bio-palmer-luckey.md](https://github.com/Vasilakious/site/blob/p2020132/_biography/bio-palmer-luckey.md) |
 
 ## Φωτογραφίες
 
