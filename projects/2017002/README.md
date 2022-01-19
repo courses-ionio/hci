@@ -48,7 +48,7 @@
 ### Link https://github.com/axilleasmandravelis/site/blob/master/_timeline/BlackBerry.md
 #### timeline Discord_logo.md
 ### Link https://github.com/axilleasmandravelis/site/blob/master/_timeline/Discord_logo.md
-#### slides Smartphones.md
-### Link https://github.com/axilleasmandravelis/site/blob/master/_slides/Smartphones.md
+#### slides Keyboard.md
+### Link https://github.com/axilleasmandravelis/site/blob/master/_slides/Keyboard.md
 #### slides VoIP_platforms.md
 ### Link https://github.com/axilleasmandravelis/site/blob/master/_slides/VoIP_Platforms.md
