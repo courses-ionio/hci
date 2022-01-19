@@ -131,9 +131,9 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 # Συμμετοχικό περιεχόμενο 1Β
 Για συμμετοχικό περιεχόμενο 1Β, αποφάσισα να κάνω μελέτη περίπτωσης του Video tape recorder. Συγκεκριμένα, επέλεξα την συσκευή Sony U-matic cassette, η οποία ήταν μια αναλογική μορφή βιντεοκασέτας εγγραφής που παρουσιάστηκε για πρώτη φορά από τη Sony.
 
-| Περιγραφή | Repository Link |
-| --- | --- |
-| Sony U-matic | [sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/sony-u-matic.md) και [cs-sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-sony-u-matic.md)|
+| Περιγραφή | Repository Link | Netlify |
+| --- | --- | --- |
+| Sony U-matic | [sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/sony-u-matic.md) και [cs-sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-sony-u-matic.md)| [Μελέτη περίπτωσης του Sony U-matic](https://p2019214-pibook.netlify.app//case-study/sony-u-matic/) | 
 
 Πηγές: [Wikipedia - Sony U-matic](https://en.wikipedia.org/wiki/U-matic) & [Wikipedia Image - Sony U-matic](https://commons.wikimedia.org/wiki/File:U-matic.jpg)
 <br />
@@ -169,9 +169,9 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 # Συμμετοχικό περιεχόμενο 2Β
 Όσον αφορά το για τελευταίο συμμετοχικό περιεχόμενο, αποφάσισα να ερευνήσω και να γράψω για τον Charles Ginsburg. Πρόκειται για ένα εφευρέτη, γνωστό και ως ο «πατέρας της βιντεοκασέτας», ο οποίος λέγεται ότι, με την δημιουργία της βιντεοκασέτας, έφερε την επανάσταση στην τηλεοπτική μετάδοση.
 
-| Περιγραφή | Repository Link |
-| --- | --- |
-| Charles Ginsburg | [charles-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/charles-ginsburg.md) και [bio-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-ginsburg.md) |
+| Περιγραφή | Repository Link | Netlify |
+| --- | --- | --- |
+| Charles Ginsburg | [charles-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/charles-ginsburg.md) και [bio-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-ginsburg.md) | [Βιογραφία του Charles Ginsburg](https://p2019214-pibook.netlify.app//biography/charles-ginsburg/) |
 
 Πηγές: [Lemelson MIT - Charles Ginsburg](https://lemelson.mit.edu/resources/charles-ginsburg) & [ETHW - Charles P. Ginsburg](https://ethw.org/Charles_P._Ginsburg) & [ETHW Image - Charles P. Ginsburg](https://ethw.org/File:Charles_P._Ginsburg.jpg)
 <br />
