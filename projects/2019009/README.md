@@ -1,6 +1,11 @@
 # :boy: ΟΝΟΜΑ/ΕΠΩΝΥΜΟ-ΜΠΑΡΛΑΣ ΙΩΑΝΝΗΣ 
-# :page_with_curl: ΑΜ Π2019009
+### :page_with_curl: ΑΜ Π2019009
+### GitHub Profile:[giannisbarlas1](https://github.com/giannisbarlas1)
+### External repositories: [site](https://github.com/giannisbarlas1/site) [images](https://github.com/giannisbarlas1/images) [extras](https://github.com/giannisbarlas1/extras) [gallery](https://github.com/giannisbarlas1/_gallery)
+
+
 ## :green_book: Μαθημα-Επικοινωνία Ανθρώπου-Υπολογιστή
+
 
 
 
@@ -125,6 +130,8 @@ Mετά το fork της ιστοσελίδας του βιβλίου μαθήμ
 <a href="https://asciinema.org/a/455906" target="_blank"><img src="https://asciinema.org/a/455906.svg" /></a>
 
 ## Παραδοτεο 10
+Στο 10ο παραδοτέο,το συμμετοχικό περιεχόμενο 2Β έφτιαξα μία καινούργια βιογραφία η οποία αφορά τον Daniel Murphy. Παρακάτω παραθέτω τα ανάλογα link του αποθετηρίου μου.
+
 | Περιγραφή | Repository Link | 
 | --- | --- |
 | Βιογραφια| [Daniel Murphy](https://github.com/giannisbarlas1/site/blob/master/_biography/bio-Daniel%20Murphy.md) | 
