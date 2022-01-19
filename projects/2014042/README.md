@@ -80,7 +80,7 @@
 | Images Apple III | [Κανονική Εικόνας](https://github.com/Sola1r3/images/blob/master/apple3.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/apple3-thumb.jpg) | |
 | Gallery Apple III | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/apple3.md) | |
 | Images Computer Space | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/computer-space.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/computer-space-thumb.jpg) | |
-| Gallery Computer Space | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/apple2plus.md) | |
+| Gallery Computer Space | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/computer-space.md) | |
 
 <br />
 
