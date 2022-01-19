@@ -138,7 +138,7 @@ Asciinema Links
 | --- | --- | --- |
 | Το πρώτο Arcade | [firstarcade.md](https://github.com/Sola1r3/site/blob/master/_case-study/firstarcade.md) + [cs-firstarcade.md](https://github.com/Sola1r3/site/blob/master/_case-study/cs-firstarcade.md) | |
 
-Πηγές: 
+Πηγές: [The History of Arcade Machines from 1971](https://www.bespoke-arcades.co.uk/blog/early-arcade-history-1971), [Computer Space launched the video game industry 50 years ago](https://theconversation.com/computer-space-launched-the-video-game-industry-50-years-ago-heres-the-real-reason-you-probably-havent-heard-of-it-168349), [Before Pong, There Was Computer Space](https://thereader.mitpress.mit.edu/before-pong-there-was-computer-space/)[Why Pong scored so highly for Atari](https://www.theguardian.com/technology/2008/apr/17/games.atari), [The Sweet Pong of Success](https://www.technologyreview.com/2000/03/01/236409/the-sweet-pong-of-success/), [The First Gaming Console](https://www.computermuseumofamerica.org/2020/06/22/the-first-gaming-console/), [The 8 Generations of Video Game Consoles](https://www.bbc.co.uk/archive/the-8-generations-of-video-game-consoles/zvcjkty)[Nintendo's Wii is A Revolution](https://www.forbes.com/2006/11/13/wii-review-ps3-tech-media-cx_de_1113wii.html?sh=34840a4875bb)[The race to develop VR controls](https://www.polygon.com/a/the-race-for-vr/the-race-for-vr-controls)
 
 <br />
 
