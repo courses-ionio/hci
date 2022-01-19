@@ -66,12 +66,12 @@
 | XEL-1 | [XEL-1.md](https://github.com/thanosks/_gallery/blob/2020150/xel-1.md) |
  
 ## **Links**
-# **Συμμετοχικό περιεχόμενο 1Α**
+### **Συμμετοχικό περιεχόμενο 1Α**
 Το Link για την wikipedia δεν χρησιμοποιήθηκε ιδιαίτερα και οι περισσότερες πληροφορίες για το XEL-1 προήλθαν από το YouTube βίντεο.Όσον αφορά τις πληροφορίες για την τεχνολογία quantum dot έγραψα με βάση ήδη υπάρχουσες γνώσεις που έχω πέρα από την συγκεκριμένη πηγή.
 ### **[YouTube Xel-1 review](https://youtu.be/j7GUSltewuA)**   |   **[XEL-1](https://en.wikipedia.org/wiki/Sony_XEL-1)**
 ### **[Google scholar QD oled](https://scholar.google.com/scholar?q=E.%20Jang%2C%20Environmentally%20friendly%20quantum%20dots%20for%20display%20applications%2C%20in%202018%20IEEE%20International%20Electron%20Devices%20Meeting%20%28IEDM%29%20%28San%20Francisco%2C%20CA%2C%202018%29%2C%20pp.%2038.2.1%E2%80%9338.2.4)**
 
-# **Συμμετοχικό περιεχόμενο 2Α**
+### **Συμμετοχικό περιεχόμενο 2Α**
 ### [Slides](https://github.com/thanosks/site/blob/2020150/_slides/technology.md) | [Timeline](https://github.com/thanosks/site/blob/2020150/_timeline/output-devices.md)
 
 <br />
