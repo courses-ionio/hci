@@ -70,19 +70,23 @@
 <br />
 
 ## Παραδοτέο 4: Συμμετοχικό Περιεχόμενο 1Α
+
+<br />
+
+Για το πρώτο παραδοτέο συμμετοχικού περιεχομένου η πρώτη εικόνα που επέλεξα είναι ο υπολογιστής της Apple, ο Apple III ο οποίος σχεδιάστηκε με κύριο γνώμονα τους επαγγελματίες και τις επιχειρήσεις που κάναν χρήση υπολογιστών και χαρακτηρίστηκε από την ίδια την Apple ως αποτυχία. Ενώ η δεύτερη εικόνα που επέλεξα είναι η πρώτη μηχανή Arcade ονόματι Computer Space, οι δημιουργοί της οποίας αργότερα ιδρύσανε την Atari.
+
+| Περιγραφή | Repository Σύνδεσμος | Netlify Σύνδεσμος |
+| --- | --- | --- |
+| Images Apple III | [Κανονική Εικόνας](https://github.com/Sola1r3/images/blob/master/apple3.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/apple3-thumb.jpg) | |
+| Gallery Apple III | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/apple3.md) | |
+| Images Computer Space | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/computer-space.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/computer-space-thumb.jpg) | |
+| Gallery Computer Space | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/apple2plus.md) | |
+
+<br />
+
+### Προβλήματα που συνάντησα
+
 Σε αυτό το παραδοτέο συνάντησα πρόβλημα στο να ανεβάσω τα README και τις εικόνες στα submodules gallery και images αντοίστιχα. Ακόμη και τώρα δεν έχω καταλάβει τι φταίει και γιατί δεν γίνεται. Αρχικά έκανα git clone τα submodules κατέβασα τις εικόνες που διάλεξα τις έκανα mv στο directory που ήθελα δηλαδή το images, git status για να δω ότι είναι πλέον μέσα, git add, git commit -m, έκανα σύνδεση λογαριασμού github βάζοντας το username μου και το token για password και κάθε φορά που προσπαθούσα να κάνω git push μου εμφάνιζε το μύνημα fatal error: repository not found η σε άλλες δοκιμές access denied to Sola1r3, ενώ τα repositories τα έκανα κανονικά όλα fork. Έκανα δοκιμές σε δικα μoυ test repositories να ανεβάσω ένα readme.md που έκανα με vim αλλά και πάλι το ίδιο. Τα επανέλαβα όλα από την αρχή τα ξαναέκανα δηλαδή clone ξανα προσπάθησα να κάνω commit δοκίμασα την εντολή git reset --hard HEAD για να αναστρέψω το commit. Έλεγξα αν έκανα λάθος το git config αλλά τα στοιχεία μου ήταν όλα σωστά. Έπειτα προσπάθησω να δω αν οφείλεται σε branches για κάποιο λόγο μιας και ξέμεινα απο ιδέες οπότε και δοκίμασα διάφορα commands χωρις αποτέλεσμα. Εν τέλει για να μην χάσω την προθεσμία του παραδοτέου αποφάσισα να τα κάνω upload από την ιστοσελίδα.
-<br />
-
-Οι εικόνες που επέλεξα είναι από την σειρά παραγωγής μοντέλων προσωπικών υπολογιστών της Apple, ο Apple II plus και ο Apple III. Ήταν από τις πρώτες κυκλοφορίες προϊόντων της πλέον μεγαλοεταιρείας, με τον Apple II plus να επιχειρεί να χτίσει πάνω στην επιτυχία του Apple II και τον Apple III να θεωρείται μεγάλη αποτυχία. Και οι δύο υπολογιστές αποτελούν κομμάτι της ιστορίας της διάδρασης του ανθρώπου με υπολογιστές.
-
-| Περιγραφή | Repository Σύνδεσμος |
-| --- | --- |
-| Images Apple III | [Κανονική Εικόνας](https://github.com/Sola1r3/images/blob/master/apple3.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/apple3-thumb.jpg) |
-| Gallery Apple III | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/apple3.md) |
-| Images Apple II Plus | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/apple2plus.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/apple2plus-thumb.jpg) |
-| Gallery Apple II Plus | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/apple2plus.md) |
-
-<br />
 
 ## Παραδοτέο 5: Warmup 2
 
