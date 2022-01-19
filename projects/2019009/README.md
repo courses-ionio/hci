@@ -7,16 +7,16 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα |
-| 2 | Εγκατασταση των Arch Linux  |
-| 3 |  NEOFETCH JORNALCTL -B (warm up) |
+| 2 | [Εγκατασταση των Arch Linux](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-2)  |
+| 3 |  [NEOFETCH JORNALCTL -B (warm up)](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3) |
 | 4 | [συμμετοχικό περιεχόμενο 1A](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4) |
-| 5 | Εγκατασταση των Arch Linux |
-| 6 | συμμετοχικό περιεχόμενο 2A |t
-| 7 | Άσκηση γραμμής εντολών |
-| 8 | συμμετοχικό περιεχόμενο 1B |
-| 9 | Άσκηση γραμμής εντολών |
-| 10 | συμμετοχικό περιεχόμενο 2B |
-| 11 | Άσκηση γραμμής εντολών |
+| 5 | [Εγκατασταση των Arch Linux](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5) |
+| 6 | [συμμετοχικό περιεχόμενο 2A](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-6) |
+| 7 | [Youtube-dl mpv](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7) |
+| 8 | [συμμετοχικό περιεχόμενο 1B](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-8) |
+| 9 | [Tmux search for files and display the performance](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) |
+| 10 | [συμμετοχικό περιεχόμενο 2B](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) |
+| 11 | [Emacs](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#emacs) |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
 
