@@ -349,7 +349,7 @@ https://linoxide.com/best-linux-performance-monitoring-tools/
 
 ## Τελική αναφορά :
 
-| Συμμετοχή σε συζητήσεις : | 
+| Ομαδικότητα : | 
   | --- | 
   | [#1627](https://github.com/courses-ionio/hci/discussions/1627) |
   | [#1688](https://github.com/courses-ionio/hci/discussions/1688) |
