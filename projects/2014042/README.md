@@ -44,7 +44,8 @@
 
 Asciinema Link
 
-[Χαρακτηριστικά Υλικού](https://asciinema.org/a/444582)
+[Screenfetch](https://asciinema.org/a/444582)
+[Journalctl](https://asciinema.org/a/447567)
 
 <br />
 
@@ -175,5 +176,6 @@ Asciinema Links
 
 | Περιγραφή | Repository Link | Netlify Link |
 | --- | --- | --- |
-| Σύντομη βιογραφία του Ted Nelson | [shigeru-miyamoto.md](https://github.com/Sola1r3/site/blob/master/_biography/shigeru-miyamoto.md) + [bio-miyamoto.md](https://github.com/Sola1r3/site/blob/master/_biography/bio-miyamoto.md) | [Σύντομη βιογραφία του Shigeru Miyamoto]() |
+| Σύντομη βιογραφία του Shigeru Miyamoto | [shigeru-miyamoto.md](https://github.com/Sola1r3/site/blob/master/_biography/shigeru-miyamoto.md) + [bio-miyamoto.md](https://github.com/Sola1r3/site/blob/master/_biography/bio-miyamoto.md) | [Σύντομη βιογραφία του Shigeru Miyamoto]() |
 
+Πηγές: [Shigeru Miyamoto Wants to Create a Kinder World](https://www.newyorker.com/culture/the-new-yorker-interview/shigeru-miyamoto-wants-to-create-a-kinder-world), [The Impact of Shigeru Miyamoto on the Game Design Industry](https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1019&context=art108)[Shigeru Miyamoto Explains What Prompted Nintendo To Pursue Motion Controls For The Wii](https://www.siliconera.com/shigeru-miyamoto-explains-prompted-nintendo-pursue-motion-controls-wii/) [Miyamoto wants Nintendo to revolutionize controllers… again](https://www.nintendoenthusiast.com/miyamoto-wants-nintendo-to-revolutionize-controllers-again/), [Video: '90s Interview With Miyamoto Reveals What He Thinks Makes His Games So Special] (https://www.nintendolife.com/news/2017/09/video_90s_interview_with_miyamoto_reveals_what_he_thinks_makes_his_games_so_special)
