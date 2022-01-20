@@ -1,9 +1,15 @@
 # **Μάθημα: Επικοινωνία Ανθρώπου Υπολογιστή**
  
 ### Ονοματεπώνυμο: ΑΘΑΝΑΣΙΟΣ ΚΑΛΑΜΑΤΑΣ 
- 
+
 ### Αριθμός Μητρώου: Π2020150
- 
+
+### GitHub Profile:  [thanosks](https://github.com/thanosks)
+
+### Config Repository: [HCI configs](https://github.com/thanosks/hci_configs)
+
+### Netlify Site: [2020150-pibook](https://p2020150-pibook.netlify.app/)
+
 | Εβδομάδα* | Παραδοτέο | Σύντομη αξιολόγηση εβδομάδας |
 | --- | --- | --- |
 | 1 | [Εισαγωγή + Troubleshooting / Σύνοψη](#εισαγωγή) | Στόχοι μου για το μάθημα και εγκατάσταση arch linux |
