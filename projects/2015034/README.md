@@ -118,7 +118,7 @@
 [Asciinema Link](https://asciinema.org/a/PEfEBc6yLvCm1TAqpjtk0mrZL)
 
 
-# Link προς τις συνεισφορές μου στις συζητήσεις
+# Ομαδικότητα
 
 [#1536](https://github.com/courses-ionio/hci/discussions/1536) | [#1537](https://github.com/courses-ionio/hci/discussions/1537) | [#1580](https://github.com/courses-ionio/hci/discussions/1580) | [#1630](https://github.com/courses-ionio/hci/discussions/1630) | [#1695](https://github.com/courses-ionio/hci/discussions/1695)
 
