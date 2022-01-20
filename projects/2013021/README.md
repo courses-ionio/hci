@@ -236,7 +236,7 @@ Username	p13vyth / First name Alexandros Vithoulkas / Last name P2013021
   
   ## Τελική αναφορά
   
-  ### Συνεισφορές και συμμετοχικότητα 
+  ### Συνεισφορές και συμμετοχικότητα - ομαδικότητα
   
 | Discussion |
   | --- |
@@ -251,6 +251,7 @@ Username	p13vyth / First name Alexandros Vithoulkas / Last name P2013021
   | [#1673](https://github.com/courses-ionio/hci/discussions/1673) |
   | [#1695](https://github.com/courses-ionio/hci/discussions/1695) |
   | [#1702](https://github.com/courses-ionio/hci/discussions/1702) |
+  | [#1705](https://github.com/courses-ionio/hci/discussions/1705) |
  
   ### Συμπέρασμα :
   
