@@ -190,3 +190,17 @@ Asciinema Links
 Έκτος όμως απο αυτά που αποκόμοισα σε ιδεολογικό επίπεδο, καταφερα να εξοικειωθώ και με το terminal. Σίγουρα δεν είμαι ένας καλός ακόμα χρήστης terminal καθώς ακόμα γνωρίζω πολύ βασικά πράγματα αλλά αυτό που εκτιμώ παραπάνω είναι το έναυσμα για παρακάτω καθώς νιώθω πως δεν μπορώ να το αφήσω γιατί είναι κάτι που πραγματικά με δελεάζει. Σε ίδιο μοτίβο κινείται και το github το οποίο πλέον έχω κατανοήσει σαν φιλοσοφία πράγμα που ήρθε κυρίως μέσω του git και δεν με "τρομάζει" όπως συνέβαινε στην αρχή. Επιπλέον, όταν επέλεγα δεύτερη άσκηση για γραμμή εντολών, δεν πίστευα ποτέ οτι θα βρω κάτι σαν το emacs org mode, εργαλείο που είναι ότι πρέπει για μένα καθώς γενικά μου αρέσει να δημιουργω λίστες μόνο που το έκανα σε απλά txt αρχεία, που προφανώς η διαφορά στις δυνατότητες είναι μέρα νύχτα και ήδη το έχω υιοθετήσει. Κλείνοντας νιώθω ικανοποιημένος από την απόδοση μου αλλά κατά πολυ πιο ικανοποιημένος από όλα όσα μπορώ να λέω πως έχω αποκομοίσει από το συγκεκιρμένο μάθημα.
 
 <br/>
+
+## Ομαδικότητα
+
+1) https://github.com/courses-ionio/hci/discussions/1537#discussioncomment-1483309
+2) https://github.com/courses-ionio/hci/discussions/1533#discussioncomment-1475858
+3) https://github.com/courses-ionio/hci/discussions/1531#discussioncomment-1508764
+4) https://github.com/courses-ionio/hci/discussions/1581#discussioncomment-1508819
+5) https://github.com/courses-ionio/hci/discussions/1607#discussioncomment-1551333
+6) https://github.com/courses-ionio/hci/discussions/1615#discussioncomment-1557620
+7) https://github.com/courses-ionio/hci/discussions/1630
+8) https://github.com/courses-ionio/hci/discussions/1643
+9) https://github.com/courses-ionio/hci/discussions/1645#discussioncomment-1712351
+10) https://github.com/courses-ionio/hci/discussions/1668#discussioncomment-1865331
+11) https://github.com/courses-ionio/hci/discussions/1677#discussioncomment-1958084
