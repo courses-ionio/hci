@@ -6,6 +6,8 @@
 
 ## Πίνακας με σύνοψη των παραδοτέων
 
+## Netlify link: https://p2020132-pibook.netlify.app/
+
 | Εβδομάδα | Παραδοτέο | Σύντομη Αξιολόγηση Εβδομάδας |
 | --- | --- | --- |
 | 1 | [Εισαγωγή](#εισαγωγη) | - |
@@ -20,10 +22,11 @@
 | 10 | [Συμμετοχικό Περιεχόμενο Β2](#συμμετοχικο-περιεχομενο-β2) | - |
 | 11 | [Άσκηση Γραμμής Εντολών / HCI](#εκτη-ασκηση-γραμμησ-εντολων) | - |
 | 12 | [Επίλογος](#επιλογοσ) | - |
+| - | [Ομαδικότητα](#ομαδικοτητα) | - |
 
 # **Εγκατάσταση Arch Linux**
 
-Για την δημιουργία αυτής της εργασίας, χρειάστηκε να εγκαταστήσω το λειτουργικό Arch Linux. Αρχικά, προσπάθησα να κάνω την εγκατάσταση σε ενα USB Flash Drive. Ενώ η εγκατάσταση είχε γίνει κανονικά, μετά απο μία βδομάδα διαβάζοντας forums για την εγκατάσταση των απαραίτητων πακέτων και YouTube Tutorial Videos ώστε να εξοικιωθώ με λειτουργικό, ενώ έγραφα το πρώτο παραδοτέο ο υπολογιστής μου έκλεισε απροσδόκητα. Προσπάθησα να ξανα ανοίξω τα Arch Linux και διάβασα αρκετά forums για την επίλυση του προβλήματος μου αλλά δυστυχώς δεν κατάφερα να τα επαναφέρω. Έπειτα, αποφάσισα να ψάξω αν υπάρχει κάποιος άλλος τρόπος για την εγκατάσταση τους, πέρα από την εγκατάσταση σε USB Flash Drive, μέχρι που βρήκα την επιλογή για Dual Boot. Ευτυχώς, το Dual Boot δεν μου έβγαλε πολλά προβλήματα αλλά έπρεπε να διαβάσω και πάλι αρκετά forums και να δω ένα Tutorial περίπου 1 ώρας σε διάρκεια ώστε να πετύχω την εγκατάσταση χωρίς λάθη.
+Για την δημιουργία αυτής της εργασίας, χρειάστηκε να εγκαταστήσω το λειτουργικό Arch Linux. Αρχικά, προσπάθησα να κάνω την εγκατάσταση σε ενα USB Flash Drive. Ενώ η εγκατάσταση είχε γίνει κανονικά, μετά απο μία βδομάδα διαβάζοντας forums για την εγκατάσταση των απαραίτητων πακέτων και YouTube Tutorial Videos ώστε να εξοικιωθώ με λειτουργικό, ενώ έγραφα το πρώτο παραδοτέο ο υπολογιστής μου έκλεισε απροσδόκητα. Προσπάθησα να ξανα ανοίξω τα Arch Linux και διάβασα αρκετά forums για την επίλυση του προβλήματος μου αλλά δυστυχώς δεν κατάφερα να τα επαναφέρω. Έπειτα, αποφάσισα να ψάξω αν υπάρχει κάποιος άλλος τρόπος για την εγκατάσταση τους, πέρα από την εγκατάσταση σε USB Flash Drive, μέχρι που βρήκα την επιλογή για Dual Boot με την χρήση Partitions στον SSD μου. Ευτυχώς, το Dual Boot δεν μου έβγαλε πολλά προβλήματα αλλά έπρεπε να διαβάσω και πάλι αρκετά forums και να δω ένα Tutorial περίπου 1 ώρας και κάτι λεπτά σε διάρκεια, ώστε να πετύχω την εγκατάσταση χωρίς λάθη.
 
 # **ΕΙΣΑΓΩΓΗ**
 
@@ -66,10 +69,10 @@ https://github.com/dylanaraps/neofetch
 
 ## **Αρχεία .md**
 
-| Αντικείμενο | Repository Link |
-| --- | --- |
-| Oculus Quest 2 VR Headset | [virtual-headset.md](https://github.com/Vasilakious/_gallery/blob/p2020132/virtual-headset.md) |
-| Oculus Quest 2 Controllers | [virtual-controller.md](https://github.com/Vasilakious/_gallery/blob/p2020132/virtual-controller.md) |
+| Αντικείμενο | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Oculus Quest 2 VR Headset | [virtual-headset.md](https://github.com/Vasilakious/_gallery/blob/p2020132/virtual-headset.md) | [Netlify](https://p2020132-pibook.netlify.app/gallery/) |
+| Oculus Quest 2 Controllers | [virtual-controller.md](https://github.com/Vasilakious/_gallery/blob/p2020132/virtual-controller.md) | [Netlify](https://p2020132-pibook.netlify.app/gallery/) |
 
 # **ΤΡΙΤΗ ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ**
 
@@ -89,10 +92,10 @@ https://github.com/jrnl-org/jrnl
 
 ## Αρχεία .md
 
-| Αντικείμενο | Repository Link |
-| --- | --- |
-| Slides| [virtual-reality-tracking.md](https://github.com/Vasilakious/site/blob/p2020132/_slides/virtual-reality-tracking.md) |
-| Timeline | [virtual-reality-tracking.md](https://github.com/Vasilakious/site/blob/p2020132/_timeline/virtual-reality-tracking.md) |
+| Αντικείμενο | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Slides| [virtual-reality-tracking.md](https://github.com/Vasilakious/site/blob/p2020132/_slides/virtual-reality-tracking.md) | [Netlify](https://p2020132-pibook.netlify.app//slides/virtual-reality-tracking/) |
+| Timeline | [virtual-reality-tracking.md](https://github.com/Vasilakious/site/blob/p2020132/_timeline/virtual-reality-tracking.md) | [Netlify](https://p2020132-pibook.netlify.app//timeline/virtual-reality/) |
 
 # **ΤΕΤΑΡΤΗ ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ**
 
@@ -114,10 +117,10 @@ https://streamable.com https://obsproject.com/ https://github.com/mpv-player/mpv
 
 ## Αρχεία .md
 
-| Αντικείμενο | Repository Link |
-| --- | --- |
-| Case Study | [cs-oculus-rift-cv1.md](https://github.com/Vasilakious/site/blob/p2020132/_case-study/cs-oculus-rift-cv1.md) |
-| First Oculus | [oculus-rift-cv1.md](https://github.com/Vasilakious/site/blob/p2020132/_case-study/oculus-rift-cv1.md) |
+| Αντικείμενο | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Case Study | [cs-oculus-rift-cv1.md](https://github.com/Vasilakious/site/blob/p2020132/_case-study/cs-oculus-rift-cv1.md) | [Netlify](https://p2020132-pibook.netlify.app//case-study/oculus-rift-cv1/) |
+| First Oculus | [oculus-rift-cv1.md](https://github.com/Vasilakious/site/blob/p2020132/_case-study/oculus-rift-cv1.md) | [Netlify](https://p2020132-pibook.netlify.app//case-study/oculus-rift-cv1/) |
 
 ## Φωτογραφίες
 
@@ -144,10 +147,10 @@ https://obsproject.com/ https://gitlab.com/surfraw/Surfraw https://youtu.be/Fvim
 
 ## Αρχεία .md
 
-| Αντικείμενο | Repository Link |
-| --- | --- |
-| Slides | [palmer-luckey.md](https://github.com/Vasilakious/site/blob/p2020132/_biography/palmer-luckey.md) |
-| Biography | [bio-palmer-luckey.md](https://github.com/Vasilakious/site/blob/p2020132/_biography/bio-palmer-luckey.md) |
+| Αντικείμενο | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Slides | [palmer-luckey.md](https://github.com/Vasilakious/site/blob/p2020132/_biography/palmer-luckey.md) | [Netlify](https://p2020132-pibook.netlify.app//biography/palmer-luckey/) |
+| Biography | [bio-palmer-luckey.md](https://github.com/Vasilakious/site/blob/p2020132/_biography/bio-palmer-luckey.md) | [Netlify](https://p2020132-pibook.netlify.app//biography/palmer-luckey/) |
 
 ## Φωτογραφίες
 
@@ -172,3 +175,9 @@ https://asciinema.org/ https://www.vim.org/ https://vim.works/2019/03/03/editing
 Μετά από τόση δουλειά πάνω στην εργασία τους προηγούμενους μήνες αυτού του εξαμήνου, πιστεύω ότι η γνώμη μου όσον αφορά το λειτουργικό Arch Linux αλλά και τα εμπορικά όπως τα Windows, έχουν αλλάξει αρκετά. Ένας από τους κύριους μου σκοπούς σε αυτό το μάθημα ήταν αν πραγματικά, αυτό που μου παρουσιάζουν οι εταιρείες σαν έτοιμο προιόν, είναι κάτι που πραγματικά με βολεύει και έχω αρκετή ελευθερία να εκφραστώ πάνω σε αυτό. Το αποτέλεσμα πιστεύω ήταν, τελικά, ότι η δυνατότητα στα Linux να εκμεταλλεύομαι όλα τα διαμοιραζόμενα πακέτα μέσα στο community και ταυτόχρονα να τα κάνω edit ώστε να είναι όσο το δυνατόν πιο κοντά σε αυτό που θελω, ήταν ένας διασκεδαστικός τρόπος να φτιάξω ένα λειτουργικό σύστημα συνδιάζοντας τα μεταξύ τους με έναν εύχρηστο τρόπο. 
 
 Επιπροσθέτως, η δυνατότητα να διαβάζω τον ανοιχτό κώδικα για σχεδόν ότι χρησιμοποιούσα με ώθησε να αναγνωρίσω την χρησιμότητα του open source code και ταυτόχρονα πιστεύω ότι άθελα μου στο τέλος ήρθα σε ένα διαφορετικό είδος διεπαφής με τον υπολογιστή μου, ένα είδος διεπαφής για την οποία εγώ είχα τον έλεγχο και μπορούσα να αλλάξω και να την προσαρμόσω στις δυνατότητες μου και φυσικά, ανάγκες.
+
+# **ΟΜΑΔΙΚΟΤΗΤΑ**
+
+Σε αυτή τη συζήτηση, μια συμφοιτήτρια δεν γνώριζε με σιγουριά αν υπάρχει κάποια διαφορά όσον αφορά την βαθμολόγηση μεταξύ λειτουργικού Arch Linux σε μορφή Dual Boot ή σε USB Flash Drive, αλλά εγώ φρόντισα να την ενημερώσω ότι δεν υπόθηκε ποτέ σχετική συζήτηση για κάποια διαφορά στην βαθμολογία των τύπων λειτουργικών.
+
+https://github.com/courses-ionio/hci/discussions/1633
