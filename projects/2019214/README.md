@@ -150,17 +150,18 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 
 
 # Συμμετοχικό περιεχόμενο 1Β
-Για συμμετοχικό περιεχόμενο 1Β, αποφάσισα να κάνω μελέτη περίπτωσης του Video tape recorder. Συγκεκριμένα, επέλεξα την συσκευή Sony U-matic cassette, η οποία ήταν μια αναλογική μορφή βιντεοκασέτας εγγραφής που παρουσιάστηκε για πρώτη φορά από τη Sony.
+Για συμμετοχικό περιεχόμενο 1Β, αποφάσισα να κάνω μελέτη περίπτωσης ενός λειτουργικού συστήματος, ονόματι LineageOS, το οποίο είναι ο διάδοχος του τροποποιημένου ROM (ή Custom ROM, όπως λέγονται) CyanogenMod. Πρόκειται, για ένα αρκετά διάσημο, open source τροποποιημένο λογισμικό καθώς είναι διαθέσιμο σε εκατοντάδες μοντέλα τηλεφώνων με περισσότερες από 2.8 εκατομμύριες ενεργές εγκαταστάσεις.
+
 
 | Περιγραφή | Repository Link | Netlify |
 | --- | --- | --- |
-| Sony U-matic | [sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/sony-u-matic.md) και [cs-sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-sony-u-matic.md)| [Μελέτη περίπτωσης του Sony U-matic](https://p2019214-pibook.netlify.app//case-study/sony-u-matic/) |
+| LineageOS | [lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/lineage-os.md) και [cs-lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-lineage-os.md) | [Μελέτη περίπτωσης του LineageOS](https://p2019214-pibook.netlify.app//case-study/sony-u-matic/) |
 
-Πηγές: [Wikipedia - Sony U-matic](https://en.wikipedia.org/wiki/U-matic) & [Wikipedia Image - Sony U-matic](https://commons.wikimedia.org/wiki/File:U-matic.jpg)
+Πηγές: [Wikipedia - LineageOS](https://en.wikipedia.org/wiki/LineageOS) & [Wikimedia Commons Εικόνα - LineageOS](https://commons.wikimedia.org/wiki/File:LineageOS_Logo.svg)
 <br />
-Σύνδεσμοι .md: [sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/sony-u-matic.md) & [cs-sony-u-matic.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-sony-u-matic.md)
+Σύνδεσμοι .md: [lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/lineage-os.md) & [cs-lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-lineage-os.md)
 <br />
-Σύνδεσμοι εικόνων: [sony-u-matic.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-u-matic.jpg) & [sony-u-matic-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-u-matic-thumb.jpg)
+Σύνδεσμοι εικόνων: [lineage-os.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/lineage-os.jpg) & [lineage-os-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/lineage-os-thumb.jpg)
 
 
 
