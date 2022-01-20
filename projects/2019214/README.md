@@ -56,7 +56,6 @@
 
 
 [^3]: Απέφυγα να χρησιμοποιήσω swap partition καθώς τα πολλά read/write της swap χαλάνε μακροχρόνια, την απόδοση της αποθηκευτικής μνήμης.
-<br />
 
 
 
@@ -73,6 +72,7 @@
 Πηγές: [neofetch](https://man.archlinux.org/man/neofetch.1) & [ls](https://man.archlinux.org/man/ls.1.en)
 <br />
 Σύνδεσμος: [asciicast - 1η άσκηση γραμμής εντολών](https://asciinema.org/a/QhhTkNJzDqPlHMEfdBZKy93fW)
+<br />
 
 
 
