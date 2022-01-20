@@ -204,3 +204,5 @@ Asciinema Links
 9) https://github.com/courses-ionio/hci/discussions/1645#discussioncomment-1712351
 10) https://github.com/courses-ionio/hci/discussions/1668#discussioncomment-1865331
 11) https://github.com/courses-ionio/hci/discussions/1677#discussioncomment-1958084
+12) https://github.com/courses-ionio/hci/pull/1671#issuecomment-1017604881
+13) https://github.com/courses-ionio/hci/pull/1700#issuecomment-1017621802
