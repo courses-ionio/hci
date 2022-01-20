@@ -172,3 +172,8 @@ Asciinema Links
 
 ## Παραδοτέο 10: Συμμετοχικό Περιεχόμενο 2Β
 
+
+| Περιγραφή | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Σύντομη βιογραφία του Ted Nelson | [shigeru-miyamoto.md](https://github.com/Sola1r3/site/blob/master/_biography/shigeru-miyamoto.md) + [bio-miyamoto.md](https://github.com/Sola1r3/site/blob/master/_biography/bio-miyamoto.md) | [Σύντομη βιογραφία του Shigeru Miyamoto]() |
+
