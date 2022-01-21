@@ -81,7 +81,7 @@
 
 [Download and Play Song Asciinema](https://asciinema.org/a/1lP55Iv9DmYp8gO89QV0BRnkv)
 
-# 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο Β2
+# 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο Β1
 
 Για την μελέτη περίπτωσης επέλεξα να ασχοληθώ με την σειρά κονσολών πρώτης γεννίας, Coleco Telstar 
 
@@ -100,3 +100,12 @@
 
 
 [Shell Configuration Asciinema](https://asciinema.org/a/lzBNvf4t5qPgXHWoFUYoGTzWt)
+
+# 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο Β1
+
+Για την βιογραφία επέλεξα να ασχοληθώ με έναν απο τους κατασκευαστές του BrownBox, Ralph H. Baer. 
+
+| Περιγραφή | Repository Σύνδεσμος |
+| --- | --- |
+| Βιογραφία Ralph H. Baer | [ralph-h-baer.md](https://github.com/CptMike/site/blob/master/_biography/ralph-h-bear.md) + [ralph-h-baer-bio.md](| --- | --- |
+) |
