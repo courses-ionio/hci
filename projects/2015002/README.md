@@ -359,6 +359,7 @@ To 1972 ήταν η χρονιά που κυκλοφόρησε το Pong της 
 
 |Discussion | Link |
 | --- | ----------|
+| Netlify και submodules #1705 | [link](https://github.com/courses-ionio/hci/discussions/1705)|
 | Pull Request - 2019135  | [link](https://github.com/courses-ionio/hci/pull/1683)|
 | Pull request Conflicts #1695  | [link](https://github.com/courses-ionio/hci/discussions/1695)|
 | Git submodules + Netlify #1666 | [link](https://github.com/courses-ionio/hci/discussions/1666)|
