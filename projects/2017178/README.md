@@ -7,10 +7,10 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | [Εισαγωγή](#εισαγωγη) |
-| 2 | Άσκηση γραμμής εντολών |
+| 1 | [Εισαγωγή](#εισαγωγή) |
+| 2 | [Άσκηση γραμμής εντολών](#1ο-παραδοτέο-επίδειξη-του-software-και-hardware) |
 | 3 | Άσκηση γραμμής εντολών |
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | [συμμετοχικό περιεχόμενο 1A]( |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
@@ -32,7 +32,8 @@
 
  Για την παρούσα εργασία χρησιμοποιήθηκε το Ubuntu VirtualBox 1.2 και η λειτουργία asciinema που προσφέρει για screenrecord των προγραμμάτων καθώς ο υπολογιστής μου δεν σηκώνε τα linux 
 
-# 1ο Παραδοτέο: Επίδειξη του software και hardware 
+# 1ο Παραδοτέο: 
+## Επίδειξη του software και hardware 
 ~~Μέσω του Ubuntu VirtualBox 1.2 κατέβασα και έτρεξα το neofetch ώστε να μου εμφανιστούν τα χαρακτηριστικά και διαφορες πληροφορίες σχετικά με το software και το hardware του υπολογιστή όπως history, πληροφορίες για το CPU, Memory, χρονος εκτέλεσης. Έτρεξα τις εντολές της εκφώνησης, οπως την bashrc και την neofetch.~~
 
 Χάρη στο εξής [tutorial](https://www.youtube.com/watch?v=4PBqpX0_UOc) κατάφερα να εγκαταστήσω και να τρέξω την εντολή neofetch σε arch linux, όπως θα δείτε παρακατω. Η εγκατάσταση πραγματοποιήθηκε σε υπολογιστή HP Compaq 6730s με τα εξής χαρακτηριστικά:
@@ -50,38 +51,38 @@ Memory: 349MiB / 3825MiB
 Παρακάτω ακολουθεί το asciicast:
 <a href="https://asciinema.org/a/tIxgWHxxj6OoBWHUTltbJa6kd" target="_blank"><img src="https://asciinema.org/a/tIxgWHxxj6OoBWHUTltbJa6kd.svg" /></a>
 
-# Α1: Προσθήκη 2 εικόνων με ελεύθερα πνευματικά δικαιώματα σε κανονικό και μικρό πλάτος (160 pixel)
+# Α1: Προσθήκη 2 εικόνων 
 1) Επέλεξα τις εικόνες μέσω της βικιπαίδειας απο όπου και τις κατέβασα, και έπειτα δημιούργησα new file για κάθε εικόνα σε png μορφή στο images και "έσυρα" τη κατεβασμένη εικόνα. Για την thump εικόνα ακολούθησα ακριβως την ίδια διαδικασία με την διαφορά πως άλλαξα το πλάτος σε 160 pixel πρώτα με την χρήση ενός online resizer.
  2) Δημιούργησα ένα  .md αρχείο για κάθε μια εικόνα στον φάκελο _gallery, οπου υπήρχαν σχετικά στοιχεία (author, title,	year,	image_url,	caption,	license_url,	license_text, categories,	tags)
 
 <strike>### DuckDuckGo 
-#### Images
-##### Image link : https://github.com/p17simt/images/blob/master/duckduck.png
-##### Thump link : https://github.com/p17simt/images/blob/master/duckduckthump.png
-#### gallery
-##### duckduck.md Link : https://github.com/p17simt/_gallery/blob/master/duckduck.md
-### Safari
-#### Images 
+Images
+Image link : https://github.com/p17simt/images/blob/master/duckduck.png
+Thump link : https://github.com/p17simt/images/blob/master/duckduckthump.png
+gallery
+duckduck.md Link : https://github.com/p17simt/_gallery/blob/master/duckduck.md
+Safari
+Images 
    -Image Link : https://github.com/p17simt/images/blob/master/safari.png
    -Thump Link : https://github.com/p17simt/images/blob/master/safarithump.png
-#### gallery
+gallery
    -Safari.md Link : https://github.com/p17simt/_gallery/blob/master/safari.md</strike>
    
 Κατόπιν επίδειξης της προόδου μου σε αντίστοιχη συνάντηση, αποφάσισα να αλλάξω τις προσθήκες μου ώστε να έρθω πιο κοντά στο ζητούμενο του μαθήματος, την αλληλεπίδραση ανθρώπου-υπολογιστή
 
-### 3D Touch
-#### Images
-#### Image link: https://github.com/p17simt/images/blob/master/3dtouch.jpg
-#### Thumb link: https://github.com/p17simt/images/blob/master/3dtouch-thumb.png
-#### Gallery: https://github.com/p17simt/_gallery/blob/master/3dtouch.md
-#### Website link: https://elegant-goldstine-b4ac31.netlify.app/gallery/3dtouch/
+3D Touch
+Images
+- Image link: https://github.com/p17simt/images/blob/master/3dtouch.jpg
+- Thumb link: https://github.com/p17simt/images/blob/master/3dtouch-thumb.png
+- Gallery: https://github.com/p17simt/_gallery/blob/master/3dtouch.md
+- Website link: https://elegant-goldstine-b4ac31.netlify.app/gallery/3dtouch/
 
-### Multi-track Trackpad
-#### Images
-#### Image link: https://github.com/p17simt/images/blob/master/multitouch.jpg
-#### Thumb link: https://github.com/p17simt/images/blob/master/multitouch-thumb.png
-#### Gallery: https://github.com/p17simt/_gallery/blob/master/multitouch.md
-#### Website link: https://elegant-goldstine-b4ac31.netlify.app/gallery/multitouch/
+Multi-track Trackpad
+Images
+- Image link: https://github.com/p17simt/images/blob/master/multitouch.jpg
+- Thumb link: https://github.com/p17simt/images/blob/master/multitouch-thumb.png
+- Gallery: https://github.com/p17simt/_gallery/blob/master/multitouch.md
+- Website link: https://elegant-goldstine-b4ac31.netlify.app/gallery/multitouch/
 
 Αφού τοποθέτησα τα νέα αρχεία στα κατάλληλα αποθετήρια, προχώρησα στον συγχρονισμό των submodule, την οποία διαδικασία θα δείτε παρακάτω:
 <a href="https://asciinema.org/a/GOc7P5uhizBMqLCvEi9LdjkO8" target="_blank"><img src="https://asciinema.org/a/GOc7P5uhizBMqLCvEi9LdjkO8.svg" /></a>
