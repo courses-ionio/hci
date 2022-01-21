@@ -8,11 +8,12 @@
 
 <h4>Αποθετήριο site: https://github.com/AlexandrosV20/site </h4>
 
-### Στοιχεία από πλατφόρμα Actively Learn :
-Username	p13vyth@ionio.gr / First name	p13vyth / Last name	Π2013021
+| Πλατφόρμα | Username | First name | Last name | 
+| --- | --- | --- | --- |
+| Actively Learn | p13vyth@ionio.gr |	p13vyth | Π2013021 |
+| Edpuzzle | p13vyth |  Alexandros Vithoulkas | P2013021 |
+| Asciinema | p2013021 | Alexandros | Vithoulkas |
 
-### Στοιχεία από πλατφόρμα Edpuzzle :
-Username	p13vyth / First name Alexandros Vithoulkas / Last name P2013021
 
 [Ιστορικό αναφοράς](https://github.com/AlexandrosV20/hci/commits/2013021)
 
