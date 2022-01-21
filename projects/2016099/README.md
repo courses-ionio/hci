@@ -108,7 +108,7 @@
 
 <p> Σαν display server εγκατεστησα το <a href=”https://wiki.archlinux.org/title/Xorg”>Xorg</a>  και το <a href=”https://wiki.archlinux.org/title/LightDM”>LightDM</a> σαν display manager .</p>
 
-<p>Σαν desktop environment εγκατέστησα το  <a href=”https://wiki.archlinux.org/title/xfce”>xfce4 </a> με σαν επιπρόσθετο αυτό το <a href=”https://www.xfce-look.org/p/1357889”>θέμα </a></p>
+Σαν desktop environment εγκατέστησα το [xfce4](https://wiki.archlinux.org/title/xfce) με σαν επιπρόσθετο αυτό το [θέμα](https://www.xfce-look.org/p/1357889)
 
 Αποφάσισα να χρησιμοποιήσω το xfce και για στιλιστικούς λόγους και για λόγους απόδοσης . Το μηχάνημα μου είναι αρκετά παλιό οπότε ένα ελαφρύ DE ήταν ότι χρειαζόμουν .
 
