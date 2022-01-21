@@ -109,6 +109,12 @@
 | --- | --- |
 | Βιογραφία Ralph H. Baer | [ralph-h-baer.md](https://github.com/CptMike/site/blob/master/_biography/ralph-h-bear.md) + [ralph-h-baer-bio.md](https://github.com/CptMike/site/blob/master/_biography/ralph-h-baer-bio.md) |
 
-# 9ο Παραδοτέο - Συμμετοχικό περιεχόμενο Β2
+# 10ο Παραδοτέο - Συνεισφορά σε συζητήσεις
 
 https://github.com/courses-ionio/hci/discussions/1612
+
+https://github.com/courses-ionio/hci/discussions/1588
+
+https://github.com/courses-ionio/hci/discussions/1650
+
+https://github.com/courses-ionio/hci/discussions/1624
