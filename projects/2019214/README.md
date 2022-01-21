@@ -158,7 +158,10 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 | --- | --- | --- |
 | LineageOS | [lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/lineage-os.md) και [cs-lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-lineage-os.md) | [Μελέτη περίπτωσης του LineageOS](https://p2019214-pibook.netlify.app//case-study/lineage-os/) |
 
-Πηγές: [Wikipedia - LineageOS](https://en.wikipedia.org/wiki/LineageOS) & [Wikimedia Commons Εικόνα - LineageOS](https://commons.wikimedia.org/wiki/File:LineageOS_Logo.svg)
+Πηγές: [Wikipedia - LineageOS](https://en.wikipedia.org/wiki/LineageOS) & [XDA Developers - LineageOS](https://www.xda-developers.com/most-popular-custom-roms-android/) & [LineageOS](https://lineageos.org)
+<br />
+Link άδειας εικόνας: [LineageOS - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LineageOS_Logo.svg)
+<br />
 <br />
 Σύνδεσμοι .md: [lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/lineage-os.md) & [cs-lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-lineage-os.md)
 <br />
@@ -190,17 +193,20 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
  <br />
  
 # Συμμετοχικό περιεχόμενο 2Β
-Όσον αφορά το για τελευταίο συμμετοχικό περιεχόμενο, αποφάσισα να ερευνήσω και να γράψω για τον Charles Ginsburg. Πρόκειται για ένα εφευρέτη, γνωστό και ως ο «πατέρας της βιντεοκασέτας», ο οποίος λέγεται ότι, με την δημιουργία της βιντεοκασέτας, έφερε την επανάσταση στην τηλεοπτική μετάδοση.
+Για τελευταίο συμμετοχικό περιεχόμενο επέλεξα να γράψω για τον Andy Rubin, μιας και ενδιαφέρομαι ιδιαίτερα για την ανάπτυξη εφαρμογών/πακέτων και λειτουργικών συστημάτων τηλεφώνων. Ο Andy Rubin είναι ένας από τους δημιουργούς του λειτουργικού συστήματος Android και αποτελεί, στα μάτια μου, μια ενδιαφέρον περίπτωση μελέτης/διερεύνησης ατόμου.
 
 | Περιγραφή | Repository Link | Netlify |
 | --- | --- | --- |
-| Charles Ginsburg | [charles-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/charles-ginsburg.md) και [bio-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-ginsburg.md) | [Βιογραφία του Charles Ginsburg](https://p2019214-pibook.netlify.app//biography/charles-ginsburg/) |
+| Andy Rubin | [andy-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/andy-rubin.md) και [bio-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-rubin.md) | [Βιογραφία του Andy Rubin](https://p2019214-pibook.netlify.app//biography/charles-ginsburg/) |
 
-Πηγές: [Lemelson MIT - Charles Ginsburg](https://lemelson.mit.edu/resources/charles-ginsburg) & [ETHW - Charles P. Ginsburg](https://ethw.org/Charles_P._Ginsburg) & [ETHW Image - Charles P. Ginsburg](https://ethw.org/File:Charles_P._Ginsburg.jpg)
+Πηγές: [Andy Rubin - Wikipedia](https://en.wikipedia.org/wiki/Andy_Rubin) & [Andy Rubin - Fasapay](https://fasapay.info/biography-of-andy-rubin-inventor-of-the-android-os-2/)
 <br />
-Σύνδεσμοι .md: [charles-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/charles-ginsburg.md) & [bio-ginsburg.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-ginsburg.md)
+Link άδειας εικόνας: [Andy Rubin - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Andy_Rubin.jpg)
 <br />
-Σύνδεσμος εικόνας: [charles-ginsburg.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/charles-ginsburg.jpg)
+<br />
+Σύνδεσμοι .md: [andy-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/andy-rubin.md) & [bio-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-rubin.md)
+<br />
+Σύνδεσμος εικόνας: [andy-rubin.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/andy-rubin.jpg)
 
 <br />
 
@@ -242,4 +248,3 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 1. O λόγος που πιστεύω ότι το `jailbreak` είναι σχετικό με το συγκεκριμένο μάθημα και γενικότερα με τα Linux που ξέρουμε και αγαπάμε, είναι ότι και το `jailbreak` απαιτεί package manager (παρόμοιο με το `pacman` του Arch Linux) όπως το [Cydia](https://cydia.saurik.com/), [Sileo](https://getsileo.app/) ή [Zebra](https://getzbra.com/) για την εγκατάσταση πακέτων. Επιπρόσθετα, πολλά από τα πακέτα ('tweaks' που είπαμε και πριν) είναι βασισμένα και παρμένα από τα συστήματα Unix.
 
 2. Σε όλα τα asciicasts του `asciinema` έγινε χρήση της εντολής `asciinema rec -i 0.4` για την αποφυγή τυχόν μεγάλων χρονικών κενών.
-
