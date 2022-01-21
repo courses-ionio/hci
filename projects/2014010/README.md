@@ -101,11 +101,10 @@
 
 [Shell Configuration Asciinema](https://asciinema.org/a/lzBNvf4t5qPgXHWoFUYoGTzWt)
 
-# 6ο Παραδοτέο - Συμμετοχικό περιεχόμενο Β1
+# 8ο Παραδοτέο - Συμμετοχικό περιεχόμενο Β2
 
 Για την βιογραφία επέλεξα να ασχοληθώ με έναν απο τους κατασκευαστές του BrownBox, Ralph H. Baer. 
 
 | Περιγραφή | Repository Σύνδεσμος |
 | --- | --- |
-| Βιογραφία Ralph H. Baer | [ralph-h-baer.md](https://github.com/CptMike/site/blob/master/_biography/ralph-h-bear.md) + [ralph-h-baer-bio.md](| --- | --- |
-) |
+| Βιογραφία Ralph H. Baer | [ralph-h-baer.md](https://github.com/CptMike/site/blob/master/_biography/ralph-h-bear.md) + [ralph-h-baer-bio.md](https://github.com/CptMike/site/blob/master/_biography/ralph-h-baer-bio.md) |
