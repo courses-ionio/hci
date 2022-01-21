@@ -18,9 +18,9 @@
 | 5 | [Άσκηση γραμμής εντολών 3](#άσκηση-γραμμής-εντολών-3) | Προβολή ειδήσεων σε τερματικό περιβάλλον με `curl` και `getnews.tech` από την λίστα warm-up. <br /> <br />  Ομοίως χρήσιμη με την παραπάνω (του καιρού), πιστεύω ότι κάλυψα τον στόχο μου. |
 | 6 | [Συμμετοχικό περιεχόμενο 2Α](#συμμετοχικό-περιεχόμενο-2α) | Για συμμετοχικό περιεχομένου 2Α, ενέταξα τις συσκευές που διάλεξα σε αντίστοιχες διαφάνειες και χρονολόγια. <br /> <br /> Πιστεύω, ότι ενσωμάτωσα σχετικά σωστά ή τουλάχιστον εκεί που ταίριαζαν. |
 | 7 | [Άσκηση γραμμής εντολών 4](#άσκηση-γραμμής-εντολών-4) | Από την λίστα hci, διάλεξα να αναζητήσω, κατεβάσω και παίξω το αγαπημένο μου τραγούδι σε τερματικό περιβάλλον με τα πακέτα `youtube-dl` και `mpv`. <br /> <br /> Ιδιαίτερα ενδιαφερουσα χρήσιμη άσκηση, μου έδωσε την δυνατότητα να κάνω πράγματα (τα οποία συνήθως, 'απαιτούν' γραφικό περιβάλλον) μέσα στο τερματικό. Πιστεύω ότι κάλυψα την άσκηση επαρκώς. |
-| 8 | [Συμμετοχικό περιεχόμενο 1Β](#συμμετοχικό-περιεχόμενο-1β)| Για συμμετοχικό περιεχόμενο 1Β, έκανα μελέτη περίπτωσης του λογισμικού συστήματος LineageOS. <br /> <br /> Κάτι που συνδυάζει τις προηγούμενες θεματικές μου, και πιστεύω, ότι ήταν μία ταιριαστή επιλογή. |
+| 8 | [Συμμετοχικό περιεχόμενο 1Β](#συμμετοχικό-περιεχόμενο-1β---2β)| Για συμμετοχικό περιεχόμενο 1Β, έκανα μελέτη περίπτωσης του λογισμικού συστήματος LineageOS. <br /> <br /> Κάτι που συνδυάζει τις προηγούμενες θεματικές μου, και πιστεύω, ότι ήταν μία ταιριαστή επιλογή. |
 | 9 | [Άσκηση γραμμής εντολών 5](#άσκηση-γραμμής-εντολών-5) | Από την λίστα warm-up, αναζήτησα, με ενσωμετομένη συντόμευση με το πάκετο `surfraw` φτιάχνοντας δικό μου config αρχείο. <br /> <br /> Αρκετά χρήσιμη άσκηση που συνδυάζει και πάλι το τερματικό περιβάλλον (και αποκλειστικά το πληκτρολόγιο). Θεωρώ ότι κάλυψα τον στόχο μου. |
-| 10 | [Συμμετοχικό περιεχόμενο 2Β](#συμμετοχικό-περιεχόμενο-2β) | Για τελευταίο συμμετοχικό περιεχόμενο έγραψα την βιογραφία του Charles Ginsburg, εφευρέτης της βιντεοκασέτας, ο οποίος θεωρώ ότι σχετίζεται άμεσα με τα προηγούμενα συμμετοχικά. |
+| 10 | [Συμμετοχικό περιεχόμενο 2Β](#συμμετοχικό-περιεχόμενο-1β---2β) | Για τελευταίο συμμετοχικό περιεχόμενο έγραψα την βιογραφία του Charles Ginsburg, εφευρέτης της βιντεοκασέτας, ο οποίος θεωρώ ότι σχετίζεται άμεσα με τα προηγούμενα συμμετοχικά. |
 | 11 | [Άσκηση γραμμής εντολών 6](#άσκηση-γραμμής-εντολών-6) | Από την λίστα hci, επεξεργασία του αρχείου config του `vim`. <br /> <br /> Κατάφερα να χειρίζομαι τον text editor `vim`, και να κάνω το δικό μου 'customise' μέσα από το configuration file και να προσθέτω plug-ins, πιστεύω ότι το κατάφερα σε αποδεκτό επίπεδο. |
 | 12 | [Επίλογος - Αίτημα Ενσωμάτωσης](#επίλογος---αίτημα-ενσωμάτωσης) | Συγγραφή επιλόγου για τους στόχους που είχα στην αρχή του μαθήματος και στο τέλος του εξαμήνου. |
 | - | [Επιπρόσθετες Σημειώσεις](#επιπρόσθετες-σημειώσεις) | Πρόσθετες σημειώσεις για σημεία που ήθελα να επεξηγήσω ή να τονίσω κάτι σε αυτά. |
@@ -150,22 +150,26 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 
 <br />
 
-# Συμμετοχικό περιεχόμενο 1Β
+# Συμμετοχικό περιεχόμενο 1Β - 2B
 Για συμμετοχικό περιεχόμενο 1Β, αποφάσισα να κάνω μελέτη περίπτωσης ενός λειτουργικού συστήματος, ονόματι LineageOS, το οποίο είναι ο διάδοχος του τροποποιημένου ROM (ή Custom ROM, όπως λέγονται) CyanogenMod. Πρόκειται, για ένα αρκετά διάσημο, open source τροποποιημένο λογισμικό καθώς είναι διαθέσιμο σε εκατοντάδες μοντέλα τηλεφώνων με περισσότερες από 2.8 εκατομμύριες ενεργές εγκαταστάσεις και τις τελευταίες εκδόσεις του Android.
+
+Όσον αφορά το τελευταίο συμμετοχικό περιεχομένου 2Β επέλεξα να γράψω για τον Andy Rubin, μιας και ενδιαφέρομαι ιδιαίτερα για την ανάπτυξη εφαρμογών/πακέτων και λειτουργικών συστημάτων. Ο Andy Rubin είναι ένας από τους δημιουργούς του λειτουργικού συστήματος Android και αποτελεί, στα μάτια μου, μια ενδιαφέρον περίπτωση μελέτης/διερεύνησης ατόμου.
 
 
 | Περιγραφή | Repository Link | Netlify |
 | --- | --- | --- |
 | LineageOS | [lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/lineage-os.md) και [cs-lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-lineage-os.md) | [Μελέτη περίπτωσης του LineageOS](https://p2019214-pibook.netlify.app//case-study/lineage-os/) |
+| Andy Rubin | [andy-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/andy-rubin.md) και [bio-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-rubin.md) | [Βιογραφία του Andy Rubin](https://p2019214-pibook.netlify.app//biography/andy-rubin/) |
 
-Πηγές: [Wikipedia - LineageOS](https://en.wikipedia.org/wiki/LineageOS) & [XDA Developers - LineageOS](https://www.xda-developers.com/most-popular-custom-roms-android/) & [LineageOS](https://lineageos.org)
+Πηγές: [Wikipedia - LineageOS](https://en.wikipedia.org/wiki/LineageOS) & [XDA Developers - LineageOS](https://www.xda-developers.com/most-popular-custom-roms-android/) & [LineageOS](https://lineageos.org) | [Andy Rubin - Wikipedia](https://en.wikipedia.org/wiki/Andy_Rubin) & [Andy Rubin - Fasapay](https://fasapay.info/biography-of-andy-rubin-inventor-of-the-android-os-2/)
 <br />
-Link άδειας εικόνας: [LineageOS - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LineageOS_Logo.svg)
+Link άδειας εικόνας: [LineageOS - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LineageOS_Logo.svg) | [Andy Rubin - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Andy_Rubin.jpg)
 <br />
 <br />
-Σύνδεσμοι .md: [lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/lineage-os.md) & [cs-lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-lineage-os.md)
+Σύνδεσμοι .md: [lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/lineage-os.md) & [cs-lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-lineage-os.md) | [andy-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/andy-rubin.md) & [bio-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-rubin.md)
 <br />
-Σύνδεσμοι εικόνων: [lineage-os.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/lineage-os.jpg) & [lineage-os-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/lineage-os-thumb.jpg)
+Σύνδεσμοι εικόνων: [lineage-os.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/lineage-os.jpg) & [lineage-os-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/lineage-os-thumb.jpg) | [andy-rubin.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/andy-rubin.jpg)
+
 
 <br />
 
@@ -184,30 +188,12 @@ Link άδειας εικόνας: [LineageOS - Wikimedia Commons](https://common
 - `cp`, για την αντιγραφή ήδη υπάρχων elvi
 - `nano`, για την επεξεργασία και αλλαγή του (αντιγραμένου) elvi αρχείου σε αυτό που θέλω
  
- <br />
- 
- ![Peek_P2019214](https://user-images.githubusercontent.com/79524490/149962104-94780bf0-3584-4ecc-9118-991eebf84e63.gif)
- 
- Το περιεχόμενο του elvi αρχείου που δημιούργησα είναι εδώ: [wsource.txt για download](https://github.com/Xar-Me-Ison/hci/files/7890039/wsource.txt) & [wsource.txt για προβολή (στο pastebin)](https://pastebin.com/bxV0cHgb)
- 
- <br />
- 
-# Συμμετοχικό περιεχόμενο 2Β
-Για τελευταίο συμμετοχικό περιεχόμενο επέλεξα να γράψω για τον Andy Rubin, μιας και ενδιαφέρομαι ιδιαίτερα για την ανάπτυξη εφαρμογών/πακέτων και λειτουργικών συστημάτων τηλεφώνων. Ο Andy Rubin είναι ένας από τους δημιουργούς του λειτουργικού συστήματος Android και αποτελεί, στα μάτια μου, μια ενδιαφέρον περίπτωση μελέτης/διερεύνησης ατόμου.
-
-| Περιγραφή | Repository Link | Netlify |
-| --- | --- | --- |
-| Andy Rubin | [andy-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/andy-rubin.md) και [bio-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-rubin.md) | [Βιογραφία του Andy Rubin](https://p2019214-pibook.netlify.app//biography/andy-rubin/) |
-
-Πηγές: [Andy Rubin - Wikipedia](https://en.wikipedia.org/wiki/Andy_Rubin) & [Andy Rubin - Fasapay](https://fasapay.info/biography-of-andy-rubin-inventor-of-the-android-os-2/)
 <br />
-Link άδειας εικόνας: [Andy Rubin - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Andy_Rubin.jpg)
-<br />
-<br />
-Σύνδεσμοι .md: [andy-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/andy-rubin.md) & [bio-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-rubin.md)
-<br />
-Σύνδεσμος εικόνας: [andy-rubin.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/andy-rubin.jpg)
-
+ 
+![Peek_P2019214](https://user-images.githubusercontent.com/79524490/149962104-94780bf0-3584-4ecc-9118-991eebf84e63.gif)
+ 
+Το περιεχόμενο του elvi αρχείου που δημιούργησα είναι εδώ: [wsource.txt για download](https://github.com/Xar-Me-Ison/hci/files/7890039/wsource.txt) & [wsource.txt για προβολή (στο pastebin)](https://pastebin.com/bxV0cHgb)
+ 
 <br />
 
 # Άσκηση γραμμής εντολών 6
