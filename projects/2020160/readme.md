@@ -16,7 +16,7 @@
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | [συμμετοχικό περιεχόμενο 1B](#1b-) |
 | 9 | Άσκηση γραμμής εντολών |
-| 10 | συμμετοχικό περιεχόμενο 2B |
+| 10 | [συμμετοχικό περιεχόμενο 2B](#2b-) |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
@@ -106,3 +106,6 @@ Netlify Deployment link [here](https://elated-hopper-ceabdc.netlify.app)
 
 
 [![asciicast](https://asciinema.org/a/0IyAIIJR3LDrvVfISfQwJKecC.svg)](https://asciinema.org/a/0IyAIIJR3LDrvVfISfQwJKecC)
+
+
+## 2B:
