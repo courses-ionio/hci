@@ -106,7 +106,7 @@
 
 <h3>GUI</h3>
 
-<p> Σαν display server εγκατεστησα το <a href=”https://wiki.archlinux.org/title/Xorg”>Xorg</a>  και το <a href=”https://wiki.archlinux.org/title/LightDM”>LightDM</a> σαν display manager .</p>
+ Σαν display server εγκατεστησα το [Xorg](https://wiki.archlinux.org/title/Xorg)  και το [LightDM](https://wiki.archlinux.org/title/LightDM) σαν display manager .
 
 Σαν desktop environment εγκατέστησα το [xfce4](https://wiki.archlinux.org/title/xfce) με σαν επιπρόσθετο αυτό το [θέμα](https://www.xfce-look.org/p/1357889)
 
