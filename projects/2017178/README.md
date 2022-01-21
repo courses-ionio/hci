@@ -11,7 +11,7 @@
 | 2 | [Άσκηση γραμμής εντολών](#1ο-παραδοτέο) |
 | 3 | [Άσκηση γραμμής εντολών](#2ο-παραδοτέο) |
 | 4 | [συμμετοχικό περιεχόμενο 1A](#α1-προσθήκη-2-εικόνων) |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | [Άσκηση γραμμής εντολών](#3ο-παραδοτέο) |
 | 6 | [συμμετοχικό περιεχόμενο 2A](#a2-δημιουργία-ενος-χρονολογίου-και-ενός-σετ-διαφανειών) |
 | 7 | Άσκηση γραμμής εντολών |
 | 8 | συμμετοχικό περιεχόμενο 1B |
@@ -103,3 +103,8 @@ Images
 ## download mp3	
 <a href="https://asciinema.org/a/n9lsPiXphhjDnudWyvutNekn5" target="_blank"><img src="https://asciinema.org/a/n9lsPiXphhjDnudWyvutNekn5.svg" /></a>
 Ακολουθήθηκαν οι οδηγίες εγκατάστασης του youtube-dl ενώ το mpv εγκαταστήθηκε με pacman -S mpv. Στη συνέχεια κατέβασα 4 τραγούδια, τα έβαλα σε μία λίστα και ξεκίνησα την αναπαραγωγή.
+
+# 3ο Παραδοτέο
+## edit the vim or the shell configuration file	
+<a href="https://asciinema.org/a/463290" target="_blank"><img src="https://asciinema.org/a/463290.svg" /></a>
+Syntax highlighting, numbered lines και colour scheme "morning"  στο vim .
