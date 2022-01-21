@@ -3,6 +3,8 @@
 <h2>Δημητρης Γρηγοροπουλος</h2>
 <h2>ΑΜ: Π2016099</h2>
 <h2><a href="https://github.com/DimitrisGrigoropoulosP2016099">Github</a></h2>
+<h2>Edpuzzle: p16grig2 P2016099</h2>
+<h2>Activelylearn: p2016099 p2016099</h2>
 
 | Εβδομάδα |  Παραδοτέο | Αυτοαξιολόγηση
 | --- | --- | --- |
