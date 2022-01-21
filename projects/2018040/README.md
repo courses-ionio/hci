@@ -13,20 +13,20 @@
 
 # Παραδοτέα
 
-| Εβδομάδα* | Παραδοτέο | Εγκυροτητα | Ολοκληρωση |
-| --- | --- | --- | --- | 
-| 1 | <sup><a href="#1"> Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα </a></sup> | ΕΓΚΥΡΟ | 100% |
-| 2 | <sup><a href="#2"> Εγκατάσταση ArchLinux/Άσκηση γραμμής εντολών: get familiar with basic commands, reading documentation and editing files (warmup) </a></sup> | ΕΓΚΥΡΟ | 100% |
-| 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών: set-up the main dependencies and demonstrate your base system (warmup) </a></sup> | ΕΓΚΥΡΟ | 100% |
-| 4 | <sup><a href="#4"> Συμμετοχικό περιεχόμενο 1A </a></sup> | ΕΓΚΥΡΟ | 100% |
-| 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών: check the weather (warmup) </a></sup> | ΕΓΚΥΡΟ | 100% |
-| 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο 2A </a></sup> | ΕΓΚΥΡΟ | 90% |
-| 7 | <sup><a href="#7"> Άσκηση γραμμής εντολών: download-mp3(hci) </a></sup> | ΕΓΚΥΡΟ | 100% |
-| 8 | <sup><a href="#8"> Συμμετοχικό περιεχόμενο 1B </a></sup> | ΕΓΚΥΡΟ | 100% |
-| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: organise the terminal window into multiple areas(hci) </a></sup> | ΕΓΚΥΡΟ | 100% |
-| 10 | <sup><a href="#10"> Συμμετοχικό περιεχόμενο 2B </a></sup> | ΕΓΚΥΡΟ | 100% |
-| 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών: text editor and plug-ins for code highlighting and autocompletion (hci) </a></sup> | ΕΓΚΥΡΟ | 100% |
-| 12 | <sup><a href="#12"> Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση </a></sup> | ΕΓΚΥΡΟ | 100% |
+| Εβδομάδα* | Παραδοτέο | Συνοψη |
+| --- | --- | --- |
+| 1 | <sup><a href="#1"> Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα </a></sup> | ΕΓΚΥΡΟ commit, 100% ολοκληρωση 
+| 2 | <sup><a href="#2"> Εγκατάσταση ArchLinux/Άσκηση γραμμής εντολών: get familiar with basic commands, reading documentation and editing files (warmup) </a></sup> | ΕΓΚΥΡΟ commit, εγκατασταση Archlinux σε virtual machine, 90% ολοκληρωση 
+| 3 | <sup><a href="#3"> Άσκηση γραμμής εντολών: set-up the main dependencies and demonstrate your base system (warmup) </a></sup> | ΕΓΚΥΡΟ commit, προβολη βασικων εντολων dotfiles και των χαρακτηριστικων του συστηματος, 100% ολοκληρωση
+| 4 | <sup><a href="#4"> Συμμετοχικό περιεχόμενο 1A </a></sup> | ΕΓΚΥΡΟ commit, επιλογη εικονων με βαση την διαδραση, 100% ολοκληρωση
+| 5 | <sup><a href="#5"> Άσκηση γραμμής εντολών: check the weather (warmup) </a></sup> | ΕΓΚΥΡΟ commit, προβολη στοιχειων καιρου σε πολυ της επιλογης μου,  100% ολοκληρωση
+| 6 | <sup><a href="#6"> Συμμετοχικό περιεχόμενο 2A </a></sup> | ΕΓΚΥΡΟ commit, κατανομη των εικονων του 1α σε καταλληλο χρονολογιο και διαφανειες,  100% ολοκληρωση
+| 7 | <sup><a href="#7"> Άσκηση γραμμής εντολών: download-mp3(hci) </a></sup> | ΕΓΚΥΡΟ commit, ληψη και αναπαραγωγη κομματιου μεσω terminal, 100% ολοκληρωση
+| 8 | <sup><a href="#8"> Συμμετοχικό περιεχόμενο 1B </a></sup> | ΕΓΚΥΡΟ commit, συγγραφη μελετης περιπτωσης με βαση την διαδραστικοτητα της swift, 100% ολοκληρωση
+| 9 | <sup><a href="#9"> Άσκηση γραμμής εντολών: organise the terminal window into multiple areas(hci) </a></sup> | ΕΓΚΥΡΟ commit, διαχωρισμος terminal σε πολλαπλα παραθυρα και εκτελεση performance monitoring tool, 100% ολοκληρωση
+| 10 | <sup><a href="#10"> Συμμετοχικό περιεχόμενο 2B </a></sup> | ΕΓΚΥΡΟ commit, συγγραφη βιογραφιας του Chris Lattner, 100% ολοκληρωση
+| 11 | <sup><a href="#11"> Άσκηση γραμμής εντολών: text editor and plug-ins for code highlighting and autocompletion (hci) </a></sup> | ΕΓΚΥΡΟ commit,εναλλαγη μεταξυ highlighted και μη κωδικα, 100% ολοκληρωση
+| 12 | <sup><a href="#12"> Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση </a></sup> | ΕΓΚΥΡΟ commit, 100% ολοκληρωση
 
 
 ###### [1]
@@ -204,7 +204,7 @@ Asciinema: https://asciinema.org/a/450774
 
 Αποθετηριο διαφανειων: https://github.com/p18kana/site/blob/master/_slides/programming.md
 
-Χρονολογιο στο προσωπικο site: https://p18kana.netlify.app//timeline/programming/ (δεν εμφανιζει την εικονα της swift)
+Χρονολογιο στο προσωπικο site: https://p18kana.netlify.app//timeline/programming/ 
 
 Αποθετηριο χρονολογιου: https://github.com/p18kana/site/blob/master/_timeline/programming.md
 
