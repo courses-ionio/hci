@@ -197,7 +197,7 @@ Link άδειας εικόνας: [LineageOS - Wikimedia Commons](https://common
 
 | Περιγραφή | Repository Link | Netlify |
 | --- | --- | --- |
-| Andy Rubin | [andy-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/andy-rubin.md) και [bio-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-rubin.md) | [Βιογραφία του Andy Rubin](https://p2019214-pibook.netlify.app//biography/charles-ginsburg/) |
+| Andy Rubin | [andy-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/andy-rubin.md) και [bio-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-rubin.md) | [Βιογραφία του Andy Rubin](https://p2019214-pibook.netlify.app//biography/andy-rubin/) |
 
 Πηγές: [Andy Rubin - Wikipedia](https://en.wikipedia.org/wiki/Andy_Rubin) & [Andy Rubin - Fasapay](https://fasapay.info/biography-of-andy-rubin-inventor-of-the-android-os-2/)
 <br />
