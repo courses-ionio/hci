@@ -20,22 +20,52 @@
 | 12 | <a id="tlk" href="#tlkt">Τελική αναφορά + Συμμετοχή σε συζητήσεις</a>| πλήρης τελική αναφορά που καλύπτει όλα τα ζητούμενα |
 
 <h2> <a id="eisat" href="#eisa">Εισαγωγή : </a></h2> 
-<p>Σε αυτό το μάθημα έχω σαν στόχο να μάθω για νέα εργαλεία που θα με βοηθήσουν στην εμπειρία μου χρησιμοποιώντας Linux και να αποκτήσω νέες γνώσεις σχετικά με την αλληλεπίδραση μεταξύ χρήστη και υπολογιστή ώστε να μπορέσω να τα εφαρμόσω σε μελλοντικά μου πρότζεκτ . </p>
+<p>Σε αυτό το μάθημα έχω σαν στόχο να μάθω για νέα εργαλεία που θα με βοηθήσουν στην εμπειρία μου χρησιμοποιώντας Linux και να αποκτήσω νέες γνώσεις σχετικά με την αλληλεπίδραση μεταξύ χρήστη και υπολογιστή ώστε να μπορέσω να τα εφαρμόσω σε μελλοντικά μου πρότζεκτ . 
+
+Οι ανάγκες μου από το μάθημα είναι να δω θεωρητικά και πρακτικά παραδείγματα για την σωστή σχεδίαση και υλοποίηση συστημάτων  που έχουν στο επίκεντρο τους την διάδραση μεταξύ ανθρώπου–υπολογιστή .
+
+Και γιαυτό σκοπεύω να κάνω όσες περισσότερες ασκήσεις γραμμής εντολών μπορώ και να μελετήσω όλο το θεωρητικό υλικό που μας δίνετε 
+</p>
 
 <h2>Σύνοψη :</h2>
-<p>Όλα τα παραδοτέα ολοκληρώθηκαν πλήρως και στην ώρα τους ,κάθε παραδοτέο έχει κείμενο που επεξηγεί για πιο λόγο επιλέχτηκε  ή περιγραφικά τι γίνεται  .  Στον πίνακα περιεχομένων υπάρχουν οι τίτλοι των παραδοτέων που υλοποιήθηκαν όπως και μικρο κείμενο αυτοαξιολόγησης για το κάθε παραδοτέο . Κατά την υλοποίηση τον παραδοτέων δεν υπήρξαν δυσκολίες ή προβλήματα άξια αναφοράς .</p>
+<p>Όλα τα παραδοτέα ολοκληρώθηκαν πλήρως και στην ώρα τους ,κάθε παραδοτέο έχει κείμενο που επεξηγεί για πoιο λόγο επιλέχτηκε  ή περιγραφικά τι γίνεται  .  Στον πίνακα περιεχομένων υπάρχουν οι τίτλοι των παραδοτέων που υλοποιήθηκαν όπως και μικρο κείμενο αυτοαξιολόγησης για το κάθε παραδοτέο . Κατά την υλοποίηση των παραδοτέων δεν υπήρξαν δυσκολίες ή προβλήματα άξια αναφοράς .</p>
 
 
 <h2> <a id="warm1t" href="#warm1" >set-up the main dependencies and demonstrate your base system </a></h2> 
 
 <p>Κάνω μια απλή warm-up άσκηση ώστε να δείξω ότι τα Arch έχουν εγκατασταθεί και ότι λειτουργούν</p>
+
+
+- Πρώτα ανοίγω το config αρχείο του bash και αλλάζω το όνομα που εμφανίζεται 
+
+- μετά εκτελώ την εντολή <code>source</code> για να ξαναφορτώσω το  config αρχείο του bash
+
+- εκτελώ την εντολή <code>ls</code> μαζί με τα arguments <code>-a</code> που δείχνει όλα τα .αρχεία και το <code>-l</code> που τα παρουσιάζει σαν λίστα και κάνω pipeline με την head που δείχνει μόνο τα πρώτα 10 αποτελέσματα
+
+- στην συνέχεια εκτελώ την εντολή <code>cat</code> στο bash profile μου 
+
+- και στο τέλος εκτελώ την εντολή <code>neofetch</code>
+</p>
+
 <a href="https://asciinema.org/a/zFWmhVULqYrCzvO4q7zL6qpIp" target="_blank"><img src="https://asciinema.org/a/zFWmhVULqYrCzvO4q7zL6qpIp.svg" /></a>
 
 <h2><a id="ask1t" href="#ask1">Aναφορές με τις ενέργειες που έγιναν για την εγκατάσταση και προσαρμογή του νέου λειτουργικού συστήματος</a></h2>
 
 <h3>Εγκατάσταση</h3>
 
-<p>Το σύστημα είναι dual boot . Μέσω του Windows disk manager έκανα partition τον δίσκο μου . Kατέβασα το iso του Arch  και με την βοήθεια του  <a href=”https://rufus.ie/en/”>Rufus </a> το έβαλα σε ένα usb stick . Ακολουθώντας το <a href=”https://wiki.archlinux.org/title/installation_guide”>wiki </a> εγκατέστησα το Arch .</p>
+Το σύστημα είναι dual boot . Μέσω του Windows disk manager έκανα partition τον δίσκο μου . Kατέβασα το iso του Arch  και με την βοήθεια του [Rufus](https://rufus.ie/en/) το έβαλα σε ένα usb stick . Ακολουθώντας το [wiki](https://wiki.archlinux.org/title/installation_guide) εγκατέστησα το Arch .
+
+Περιληπτικά τα βήματα
+
+- έκανα φορματ τα partitions που έκανα μέσω του windows disk manager
+
+- έκανα mount τον δίσκο μου
+
+- έκανα update το ρολόι του συστήματος
+
+- κατέβασα τα locales που ήθελα (us , gr)
+
+- δημιούργησα ένα hostname
 
 
 <a href="https://www.dropbox.com/s/t6cdex5u4cu5dod/Neofetch_install.png?dl=0">Neofetch</a>
@@ -68,6 +98,8 @@
 
 <h2><a id="ask2t" href="#ask2">Aναφορές με τις ενέργειες που έγιναν για την εγκατάσταση και προσαρμογή του νέου λειτουργικού συστήματος(συνέχεια)</a></h2>
 
+Όλα εγκαταστάθηκαν μέσο [pacman](https://wiki.archlinux.org/title/pacman) 
+
 <h3>Ηχος</h3>
 
 <p>Για τις ανάγκες του ήχου αρχικά εγκατέστησα το <a href="https://wiki.archlinux.org/title/PulseAudio">PulseAudio</a> αλλά μετά από δοκιμή , ακόμα και με διάφορα tweaks , η ποιότητα του ήχου ήταν ελλιπής γιαυτό εγκατέστησα το <a href="https://wiki.archlinux.org/title/PipeWire">PipeWire</a> & το <a href="https://pipewire.pages.freedesktop.org/wireplumber/index.html">WirePlumber</a> σαν session manager.</p>
@@ -77,6 +109,8 @@
 <p> Σαν display server εγκατεστησα το <a href=”https://wiki.archlinux.org/title/Xorg”>Xorg</a>  και το <a href=”https://wiki.archlinux.org/title/LightDM”>LightDM</a> σαν display manager .</p>
 
 <p>Σαν desktop environment εγκατέστησα το  <a href=”https://wiki.archlinux.org/title/xfce”>xfce4 </a> με σαν επιπρόσθετο αυτό το <a href=”https://www.xfce-look.org/p/1357889”>θέμα </a></p>
+
+Αποφάσισα να χρησιμοποιήσω το xfce και για στιλιστικούς λόγους και για λόγους απόδοσης . Το μηχάνημα μου είναι αρκετά παλιό οπότε ένα ελαφρύ DE ήταν ότι χρειαζόμουν .
 
 <h2><a id="a2t" href="#a2">Συμμετοχικό 2Α</a></h2>
 
@@ -100,6 +134,8 @@
 <p><a href="https://github.com/DimitrisGrigoropoulosP2016099/shellsc">το script(Github repo)</a></p>
 
 <a href="https://asciinema.org/a/451498" target="_blank"><img src="https://asciinema.org/a/451498.svg" /></a>
+
+(κατά την υλοποίηση ξέχασα να αλλάξω το file format του αποθηκευμένου αρχείου και αποθηκεύεται σε .mkv)
 
 <h3>use the terminal as an IDE : SpaceVim</h3>
 
@@ -144,6 +180,8 @@ Wikimedia Foundation. (2021, November 24). Project athena. Wikipedia. Retrieved 
 <p>Δημιουργώ ένα απλό αρχείο το οποίο έχει τίτλο , συγγραφέα και μια παράγραφο και το μετατρέπω με την βοήθεια του groff σε PDF μορφή .</p>
 
 <a href="https://asciinema.org/a/454679" target="_blank"><img src="https://asciinema.org/a/454679.svg" /></a>
+
+<a href="https://www.dropbox.com/s/hivq45fo606rd4e/groff.png?dl=0">Αποτέλεσμα</a>
 
 <h2><a id="b2t" href="#b2">συμμετοχικό περιεχόμενο 2B</a></h2>
 
