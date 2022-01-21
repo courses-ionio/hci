@@ -90,16 +90,20 @@
 # Συμμετοχικό περιεχόμενο 1Α
 Για το συμμετοχικό περιεχόμενο 1Α, πήρα την απόφαση να ερευνήσω για την πρώτη συσκευή μουσικής αναπαραγωγής, το Sony Walkman TPS-L2, η οποία κατάφερε να συνδυάσει φορητότητα και προσιτή τιμή όλα σε ένα πακέτο για πρώτη φορά το 1979. Και στην συνέχεια, επέλεξα την πρώτη συσκευή μουσικής αναπαραγωγής της εταιρείας Apple, το iPod Mini, η οποία κατάφερε να αποσυρθεί από την παραγωγή και να αντικατασταθεί από το διάδοχο του, το iPod Nano, ένα χρόνο αργότερα (2005) μετά από την κυκλοφορία του.
 
+<br />
+
 | Περιγραφή | Repository Link |
 | --- | --- |
 | Sony Walkman TPS-L2 | [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md) |
 | iPod Mini | [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md) |
 
+<br />
+
 Πηγές: [Wikipedia - Walkman](https://en.wikipedia.org/wiki/Walkman) & [Sony Press Archive](https://www.sony.com/en/SonyInfo/News/Press_Archive/199907/99-059/) & [Wikipedia - iPod Mini](https://en.wikipedia.org/wiki/IPod_Mini) & [iPod Mini History](https://apple-history.com/ipod_mini)
 <br />
-Σύνδεσμοι .md: [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md) & [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md)
+Σύνδεσμοι .md: [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md) | [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md)
 <br />
-Σύνδεσμοι εικόνων: [sony-walkman.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman.jpg) & [sony-walkman-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman-thumb.jpg) & [ipod-mini.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/ipod-mini.jpg) & [ipod-mini-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/ipod-mini-thumb.jpg)
+Σύνδεσμοι εικόνων: [sony-walkman.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman.jpg) & [sony-walkman-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/sony-walkman-thumb.jpg) | [ipod-mini.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/ipod-mini.jpg) & [ipod-mini-thumb.jpg](https://github.com/Xar-Me-Ison/images/blob/2019214/ipod-mini-thumb.jpg)
 
 <br />
 
@@ -117,7 +121,7 @@
 
 Slides: [Sony Walkman TPS-L2 & iPod Mini slides](https://github.com/Xar-Me-Ison/site/blob/2019214/_slides/technology.md)
 <br />
-Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blob/2019214/_timeline/multimedia.md) & [iPod Mini timeline](https://github.com/Xar-Me-Ison/site/blob/2019214/_timeline/apple.md)
+Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blob/2019214/_timeline/multimedia.md) | [iPod Mini timeline](https://github.com/Xar-Me-Ison/site/blob/2019214/_timeline/apple.md)
 
 <br />
 
@@ -161,6 +165,8 @@ Timeline: [Sony Walkman TPS-L2 timeline](https://github.com/Xar-Me-Ison/site/blo
 | --- | --- | --- |
 | LineageOS | [lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/lineage-os.md) και [cs-lineage-os.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_case-study/cs-lineage-os.md) | [Μελέτη περίπτωσης του LineageOS](https://p2019214-pibook.netlify.app//case-study/lineage-os/) |
 | Andy Rubin | [andy-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/andy-rubin.md) και [bio-rubin.md](https://github.com/Xar-Me-Ison/site/blob/2019214/_biography/bio-rubin.md) | [Βιογραφία του Andy Rubin](https://p2019214-pibook.netlify.app//biography/andy-rubin/) |
+
+<br />
 
 Πηγές: [Wikipedia - LineageOS](https://en.wikipedia.org/wiki/LineageOS) & [XDA Developers - LineageOS](https://www.xda-developers.com/most-popular-custom-roms-android/) & [LineageOS](https://lineageos.org) | [Andy Rubin - Wikipedia](https://en.wikipedia.org/wiki/Andy_Rubin) & [Andy Rubin - Fasapay](https://fasapay.info/biography-of-andy-rubin-inventor-of-the-android-os-2/)
 <br />
