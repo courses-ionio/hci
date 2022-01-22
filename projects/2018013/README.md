@@ -59,6 +59,8 @@ youtube-dl βρίσκει το καλήτερο βίντεο και το καλ�
 Στην συνέχεια το Arcade-Machine και το Playstation-Portable προστέθηκαν στο χρονολόγιο των [βιντεοπαιχνιδιών](https://github.com/giormaster/site/blob/%CE%A02018013/_timeline/videogames.md) οπου ταίριαζαν καλήτερα.
 # Παραδοτέο_7
 ## Warmup_1 Journal <br />
+### assignment: track your time with a simple journal
+### deliverables:track your time with a simple journal
 Σε αυτην την ασκηση warmup κατεγραψα ενα παραδειγμα journal για την τρεχουσα και την προηγουμενη ημερομηνια και στην συνεχεια το εμφανησα <br />
 https://asciinema.org/a/WYyF9WMA89n62rq9lflwROo1Y
 # Παραδοτέο_8
@@ -74,6 +76,8 @@ https://github.com/giormaster/site/blob/%CE%A02018013/_biography/David_Gottlieb.
 # Παραδοτέο_11
 ## Ασκηση_2 <br />
 https://asciinema.org/a/x2jbh1RV5yDru9GnJPPCjFxvu
+# Παραδοτέο_12
+## Ασκηση_2 <br />
 
 
 
