@@ -66,6 +66,8 @@ https://asciinema.org/a/WYyF9WMA89n62rq9lflwROo1Y
 # Παραδοτέο_8
 ## B1 Case study <br />
 Τα arcade machines βοήθησαν στην εξέλιξη τόσο των υπολογιστών όσο και των βιντεοπαιχνιδιών και βοήθησαν στην εξοικείωση ενός ευρύτερου κοινού με τους υπολογιστές
+https://sharp-kare-88192f.netlify.app/case-study/
+https://pibook.epidro.me/case-study/Arcade_Machine/
 https://github.com/giormaster/site/blob/%CE%A02018013/_case-study/Arcade_Machine.md
 # Παραδοτέο_9
 ## Warmup_2 Journal <br />
@@ -76,6 +78,8 @@ https://asciinema.org/a/GISLeYyzcUZaJAC3vOntuIBAQ
 # Παραδοτέο_10
 ## B2 Biography <br />
 Έβαλα στην Βιογραφία τον David Gottlieb,ο κατασκεβαστης του Baffle Ball,το οποίο ήταν από τα πρώτα πετυχημένα coin operated games και οδήγησε στην επιτυχία και δημιουργία των arcade machines,που με την σειρά τους εξοικειώσαν περισσότερο κοινό με τους υπολογιστές. <br />
+https://sharp-kare-88192f.netlify.app/biography/
+https://pibook.epidro.me/biography/David_Gottlieb/
 https://github.com/giormaster/site/blob/%CE%A02018013/_biography/David_Gottlieb.md
 # Παραδοτέο_11
 ## Ασκηση_2 <br />
