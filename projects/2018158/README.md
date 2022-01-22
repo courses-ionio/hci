@@ -12,7 +12,7 @@
 | 4 | [συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4) |
 | 5 | [Άσκηση γραμμής εντολών](#παραδοτέο-5) |
 | 6 | [συμμετοχικό περιεχόμενο 2A](#παραδοτέο-6) |
-| 7 | Άσκηση γραμμής εντολών |
+| 7 | [Άσκηση γραμμής εντολών](#παραδοτέο-7) |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο 2B |
@@ -92,3 +92,15 @@ https://github.com/AnTonyPapako/site/blob/2018158/_timeline/interface.md
 https://github.com/AnTonyPapako/images/blob/2018158/interface.jpg
 
 https://github.com/AnTonyPapako/images/blob/2018158/interface-thumb.jpg
+
+### Παραδοτέο 7
+
+Άσκηση γραμμής εντολών. ```Warmup!```
+
+**assignment:** fetch information
+
+**deliverables:** read the business news
+
+asciinema link: https://asciinema.org/a/zdINJIHsENh06Z8h5KWG6auBW
+
+Εφόσον έγινε η εγκατάσταση του λογισμικού ***curl***, αναζήτησα διάφορες πληροφορίες όπως τον καιρό, τα κρούσματα Covid-19 και τις τιμές των κρυπτονομισμάτων σύμφωνα με την [λίστα διαθέσιμων υπηρεσιών](https://github.com/chubin/awesome-console-services) οι οποίες είναι προσβάσιμες από ποικίλλα IP πρωτόκολλα.
