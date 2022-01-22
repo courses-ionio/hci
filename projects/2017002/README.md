@@ -52,3 +52,5 @@
 ### Link https://github.com/axilleasmandravelis/site/blob/master/_slides/Keyboard.md
 #### slides VoIP_platforms.md
 ### Link https://github.com/axilleasmandravelis/site/blob/master/_slides/VoIP_Platforms.md
+#### site link: https://loving-bassi-3ad790.netlify.app/
+
