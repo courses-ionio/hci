@@ -9,26 +9,28 @@
 
 
 
-| Εβδομάδα* | Παραδοτέο |
-| --- | --- |
-| 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1) |
-| 2 | [Εγκατασταση των Arch Linux](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-2)  |
-| 3 |  [NEOFETCH JORNALCTL -B (warm up)](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3) |
-| 4 | [συμμετοχικό περιεχόμενο 1A](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4) |
-| 5 | [Εγκατασταση των Arch Linux](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5) |
-| 6 | [συμμετοχικό περιεχόμενο 2A](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-6) |
-| 7 | [Youtube-dl mpv](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7) |
-| 8 | [συμμετοχικό περιεχόμενο 1B](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-8) |
-| 9 | [Tmux search for files and display the performance](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) |
-| 10 | [συμμετοχικό περιεχόμενο 2B](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) |
-| 11 | [Emacs](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#emacs) |
-| 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
+| Εβδομάδα* | Παραδοτέο | Σύνοψη |
+| --- | --- | --- |
+| 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1) | Έγκυρο commit, 100% COMPLETED |
+| 2 | [Εγκατασταση των Arch Linux](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-2)  |Έγκυρο commit, 100% COMPLETED|
+| 3 |  [NEOFETCH JORNALCTL -B (warm up)](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3) |Έγκυρο commit, 100% COMPLETED|
+| 4 | [συμμετοχικό περιεχόμενο 1A](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4) |Έγκυρο commit, 100% COMPLETED|
+| 5 | [Εγκατασταση των Arch Linux](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5) |Έγκυρο commit, 100% COMPLETED|
+| 6 | [συμμετοχικό περιεχόμενο 2A](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-6) |Έγκυρο commit, 100% COMPLETED|
+| 7 | [Youtube-dl mpv](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7) |Έγκυρο commit, 100% COMPLETED|
+| 8 | [συμμετοχικό περιεχόμενο 1B](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-8) |Έγκυρο commit, 100% COMPLETED|
+| 9 | [Tmux search for files and display the performance](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) | Έγκυρο commit, 100% COMPLETED.Αρχικα προσπαθησα να κανω την εργασια tmux search for file and display performance ωστοσο πριν απο τον τελικο ελεγχο διαπιστωσα οτι δεν χρησιμοποιησα και το glances και αποφασισα να κανω μια διαφορετικη την ασκηση με το pandoc,git και sed |
+| 10 | [συμμετοχικό περιεχόμενο 2B](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) | Έγκυρο commit, 100% COMPLETED|
+| 11 | [Emacs](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#emacs) | Έγκυρο commit, 100% COMPLETED|
+| 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |Έγκυρο commit, 100% COMPLETED|
 
 
 ## Παραδοτέο 1
 Το μαθημα επικοινωνια ανθρωπου υπολογιστη εκτος απο την προσωπικη αναγκη για την επιτυχη εξεταση του μαθηματος δημιουργει και την αναγκη κατανοησης της διαδρασης 
-και της επιδρασης της στις νεες τεχνολογιες.Οι στοχοι μου για το μαθημα ειναι η προσωπικη εξεληξη στο πεδιο της πληροφορικης, η εξοριξη γνωσεων διαδρασης ανθρωπου
-υπολογιστη και η χρηση αυτων των γνωσεων σε μια μελλοντικη καριερα 
+και της επιδρασης της στις νεες τεχνολογιες.Απαραίτητο,αφού με τη ραγδαία και συνεχής ανάπτυξη της τεχνολογίας οδηγούμαστε στην ανάγκη να υπάρχουν σχεδιάζονται νεες εφαρμογές που θα εξυπηρετούν οσο καλυτερα γινεται οσο το δυνατο μεγαλυτερο αριθμο χρηστων.Οι δικοι μου στοχοι μου για το μαθημα ειναι η προσωπικη εξεληξη στο πεδιο της πληροφορικης, η εξοριξη γνωσεων διαδρασης ανθρωπου
+υπολογιστη και η αναγνωρίση των τεχνικων και των μεθόδων για την καλύτερη αλληλεπίδραση μεταξύ του ανθρώπου και του υπολογιστή.Γενικοτερα το μαθημα αυτο εχει να προσεφερει πολλα θετικα προς εμενα και εχει αρκετο ενδιαφερον αφου η χρηση
+των Arch linux φαινεται να ειναι πιο δυσκολη απο εκεινη των ubuntu.Το μαθημα καταληγοντας ειναι αρκετα σηματνικο αφου ακομα θα με βοηθησει να καταλαβω και την αρχιτεκτονικη συστηματων unix,τις ικανοτητες που εχει το συστημα μου με την χρηση unix συστηματων αλλα και την διαδραση μου με την ιστοσελιδα του github ιστοτοπου-εργαλειου
+αρκετα χρησιμου για μελλοντικα projects εκτος μαθηματος αλλα και σε μια μελλοντικη καριερα 
 
 
 ## Παραδοτεο 2 
@@ -126,10 +128,13 @@ Mετά το fork της ιστοσελίδας του βιβλίου μαθήμ
 ## Παραδοτεο 9
 
 ### use vim (or emacs) to write your cv in markdown, track multiple formats with git and convert it to docx, html with pandoc
-Στο παραδοτεο αυτο αφου εκανα install τον
+Στο παραδοτεο αυτο αφου εκανα install τον pandoc και αφου ειχα ηδη κανει Install το git εκανα δημιουργια ενος φακελου στo Desktop και εφτιαξα ενα αρχειο md με καποια προσωπικα μου στοιχεια.Αυτες τις ενεργειες τις εκτελεσα πριν την καταγραφη της κονσολας μου για λογους ογκου του asciinema.Στην συνεχεια αφου εκανα cd για να παω στο directory convert που εφτιαξα για την ασκηση εκανα git init το directory αυτο και μετα με την εντολη pandoc -f markdown -t html CV1.md εκανα μετατροπη του CV1 απο τυπο αρχειου md σε html.Στην συνεχεια μετετρεψα παλι το CV1.md αυτην την φορα σε docx αρχειο και μετα εκανα git status για να δω σε τι κατασταση βρισκεται το repo που δημιουργησα πριν.Ακομα στην ασκηση επρεπε να κανουμε χρηση της sed.Για τον λογο ετρεξα την εντολη sed -i 's/university/school/g' CV1.docx CV1.md οπου ουσιαστικα περνοντας σας Input το αρχειο CV1.docx ζηταω να γινει αντικατασταση της λεξης university οπου υπαρχει μεσα στο CV1.docx με την λεξη και αυτη η ενεργεια να εφαρμοστει στο Output CV1.md αρχειο υστερα με τον vim ανοιξα το αρειο για να δω αν οντως εχει γινει η αντικατασταση.Τελος εκανα git add και git commit Με message για να εφαρμοσω τις αλλαγες που εκανα και για να διαπιστωσω οτι εγιναν ετρεξα ξανα την εντολη git status.
 <a href="https://asciinema.org/a/463610" target="_blank"><img src="https://asciinema.org/a/463610.svg" /></a>
 
-### tmux install and run with window split search for files and display the performance
+### note 
+Η ασκηση του παραδοτεου 9 αντικατεστησε την παρακατω ασκηση με τον tmux ωστοσο παραθετω και την εργασια αυτη
+
+#### tmux install and run with window split search for files and display the performance
 
 <a href="https://asciinema.org/a/455906" target="_blank"><img src="https://asciinema.org/a/455906.svg" /></a>
 
