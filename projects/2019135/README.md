@@ -17,7 +17,7 @@
 | 11 | [Άσκηση γραμμής εντολών: HCI - Organize the terminal window into multiple areas ](#11ο-παραδοτέο---organize-the-terminal-window-into-multiple-areas) |
 | 12 | [Επίλογος](#12ο-παραδοτέο---επίλογος) |
 | Extra | [Warmup exercises](#warmup-exercises) |
-| Bonus |
+| Bonus | [Edpuzzle & Actively Learn](#bonus) |
 
 # ΕΙΣΑΓΩΓΗ
 
