@@ -71,10 +71,10 @@
 # **Συμμετοχικό περιεχόμενο 1Α - 2Α**
 Στο 1ο μέρος του συμμετοχικού περιεχομένου Α, επέλεξα να μιλήσω για τις Quantum Dot Displays (Οθόνες με κβαντικές κουκίδες), οι οποίες πιστεύω μπορούν να αλλάξουν και βελτίωσαν πολύ την εμπειρία θέασης καθώς και για την πρώτη συσκευή με οθόνη oled το XEL-1 της Sony.
  
-| Περιγραφή | Repository Link |
-| --- | --- |
-| Quantum Dot Display | [quantum-dot-display.md](https://github.com/thanosks/_gallery/blob/2020150/quantum-dot-display.md) |
-| XEL-1 | [XEL-1.md](https://github.com/thanosks/_gallery/blob/2020150/xel-1.md) |
+| Περιγραφή | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Quantum Dot Display | [quantum-dot-display.md](https://github.com/thanosks/_gallery/blob/2020150/quantum-dot-display.md) | [Netlify](https://p2020150-pibook.netlify.app/gallery/quantum-dot-display/) |
+| XEL-1 | [XEL-1.md](https://github.com/thanosks/_gallery/blob/2020150/xel-1.md) | [Netlify](https://p2020150-pibook.netlify.app/gallery/xel-1/) |
  
 ## **Links**
 ### **Συμμετοχικό περιεχόμενο 1Α**
@@ -122,10 +122,10 @@ https://user-images.githubusercontent.com/72318224/148303447-29afcdf3-1ea0-420d-
 # **Συμμετοχικό περιεχόμενο 1Β - 2Β**
 Ως την νέα μελέτη περίπτωσης αποφάσισα να γράψω για την πρώτη συσκευή με οθόνη αφής καθώς πιστεύω οι οθόνες αυτές επιτρέπουν την ευκολότερη διάδραση με τον υπολογιστή δημιουργώντας μία 2 σε 1 εμπειρία .Όσον αφορά την βιογραφία αποφάσισα να γράψω για τον James Fergason, ο οποίος ήταν ο εφευρέτης των liquid crystals που χρησιμοποιούνται μέχρι και σήμερα στις οθόνες lcd.
  
-| Περιγραφή | Repository Link |
-| --- | --- |
-| IBM Simon Personal Communicator | [ibm-simon.md](https://github.com/thanosks/site/blob/2020150/_case-study/ibm-simon.md) + [cs-simon.md](https://github.com/thanosks/site/blob/2020150/_case-study/cs-ibm-simon.md) |
-| James Fergason | [james-fergason.md](https://github.com/thanosks/site/blob/2020150/_biography/james-fergason.md) + [bio-fergason.md](https://github.com/thanosks/site/blob/2020150/_biography/bio-fergason.md) |
+| Περιγραφή | Repository Link | Netlify link |
+| --- | --- | --- |
+| IBM Simon Personal Communicator | [ibm-simon.md](https://github.com/thanosks/site/blob/2020150/_case-study/ibm-simon.md) + [cs-simon.md](https://github.com/thanosks/site/blob/2020150/_case-study/cs-ibm-simon.md) | [Netlify](https://p2020150-pibook.netlify.app//case-study/ibm-simon/) |
+| James Fergason | [james-fergason.md](https://github.com/thanosks/site/blob/2020150/_biography/james-fergason.md) + [bio-fergason.md](https://github.com/thanosks/site/blob/2020150/_biography/bio-fergason.md) | [Netlify](https://p2020150-pibook.netlify.app//biography/james-fergason/) |
  
 ## **Links**
 ### IBM Simon Personal Communicator
