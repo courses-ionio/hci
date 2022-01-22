@@ -33,8 +33,8 @@
 <br />
 # Παραδοτέο_3
 Εγινε η εγγατάσταση του asciinema με την εντολή pacman -S asciinema και με την χρήση του καταγράφηκαν οι εντολες journalctl -b και neofetch
-link για την πρωτη εντολη:https://asciinema.org/a/KFkjzZwapvKnZaZew9WxRaKc9
-link για την δευτερη εντολη:https://asciinema.org/a/4T9jM9FVcyffckmsGFDOwu2q3
+link για την πρωτη εντολη:https://asciinema.org/a/KFkjzZwapvKnZaZew9WxRaKc9 <br />
+link για την δευτερη εντολη:https://asciinema.org/a/4T9jM9FVcyffckmsGFDOwu2q3 <br />
 Ειναι σημαντικό να σημειωθεί οτι για την εντολή neofetch χρειάστηκε να γινει εγγατάσταση
 # Παραδοτέο_4
 ## Α1 <br />
