@@ -9,9 +9,9 @@
 | 1 | [Εισαγωγή](#εισαγωγή) |
 | 2 | Άσκηση γραμμής εντολών|
 | 3 | [Άσκηση γραμμής εντολών: Check the weather](#check-the-weather)|
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | [Συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4)|
 | 5 | [Άσκηση γραμμής εντολών: Manage your bookmarks](#manage-your-bookmarks)|
-| 6 | συμμετοχικό περιεχόμενο 2A |
+| 6 | [Συμμετοχικό περιεχόμενο 2A](#παραδοτέο-6)|
 | 7 | [Άσκηση γραμμής εντολών: Fetch Information](#fetch-information)|
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | [Άσκηση γραμμής εντολών: Download mp3](#download-mp3)|
@@ -66,6 +66,34 @@
 Στην συνέχεια εγκατέστησα το glances με sudo pacman -S glances.
 
 **Asciinema link: [Organise the terminal window into multiple areas](https://asciinema.org/a/462023)<br />**
+
+# Συμμετοχικό περιεχόμενο
+
+## Παραδοτέο 4
+
+Για το συμμετοχικό περιεχόμενο Α επέλεξα δύο handheld κονσόλες βιντεοπαιχνιδιών, το Atari Lynx(1989-1995) και το Game Boy(1989-2003). Αν και είμαι fan της Nintendo, το Atari Lynx μου κέντρισε το ενδιαφέρον καθώς ήταν η πρώτη handheld κονσόλα παιχνιδιών στον κόσμο με έγχρωμη οθόνη LCD. Παρόλα αυτά δεν είχε την ίδiα επιτυχία με το Game Boy της Nintendo. Συνολικά 16 εκατομμύρια Game Boy πουλήθηκαν μέχρι το 1995 (όπου και σταμάτησε η παραγωγή και πώληση του Lynx) ενώ οι πωλήσεις του Lynx ανέρχονται σε λιγότερες από 7 εκατομμύρια συνολικά. Η στιβαρότητα, η μισή τιμή πώλησης, η πολύ μεγαλύτερης διάρκειας μπαταρία, ο συνδυασμός με το Tetris και η εξαιρετική βιβλιοθήκη παιχνιδιών  του Game Boy ήταν το αποτέλεσμα αυτής της διαφοράς στις πωλήσεις. Το Game Boy είναι μια από τις πιο αναγνωρίσιμες συσκευές της δεκαετίας του 1990, που έγινε πολιτιστικό σύμβολο τα χρόνια που ακολούθησαν την κυκλοφορία του. Διάφοροι επανασχεδιασμοί κυκλοφόρησαν κατά τη διάρκεια ζωής της κονσόλας, συμπεριλαμβανομένου του Game Boy Pocket το 1996 και του Game Boy Light το 1998 (μόνο στην Ιαπωνία). Η παραγωγή του Game Boy συνεχίστηκε στις αρχές της δεκαετίας του 2000, ακόμη και μετά την κυκλοφορία του δεύτερου διαδόχου του, του Game Boy Advance, το 2001, η παραγωγή του σταμάτησε το 2003.
+
+https://github.com/alexl14/_gallery/blob/master/atari-lynx-I-handheld.md
+
+https://github.com/alexl14/images/blob/master/atari-lynx-I-handheld.jpg
+
+https://github.com/alexl14/images/blob/master/atari-lynx-I-handheld-thumb.jpg
+
+https://github.com/alexl14/_gallery/blob/master/game-boy-original.md
+
+https://github.com/alexl14/images/blob/master/game-boy-original.jpg
+
+https://github.com/alexl14/images/blob/master/game-boy-original-thumb.jpg
+
+
+## Παραδοτέο 6
+
+Παρακάτω υπάρχουν link για  τα Slides και το Timeline που έφτιαξα για τις κονσόλες βιντεοπαιχνιδιών Game Boy και Atari Lynx. Επειδή δεν κατάφερα να συνδέσω το netlify σωστά χωρίς προβλήματα και errors, είδα απο την ιστοσελίδα του pibook τις εικόνες και πιστεύω πως ταιριάζουν με τις δικιές μου.
+
+[Slides](https://github.com/alexl14/site/blob/master/_slides/videogamesconsole.md)
+
+[Timeline](https://github.com/alexl14/site/blob/master/_timeline/videogamesconsole.md)
+
 
 
 # Extra
