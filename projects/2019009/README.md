@@ -125,9 +125,15 @@ Mετά το fork της ιστοσελίδας του βιβλίου μαθήμ
 
 ## Παραδοτεο 9
 
+### use vim (or emacs) to write your cv in markdown, track multiple formats with git and convert it to docx, html with pandoc
+Στο παραδοτεο αυτο αφου εκανα install τον
+<a href="https://asciinema.org/a/463610" target="_blank"><img src="https://asciinema.org/a/463610.svg" /></a>
+
 ### tmux install and run with window split search for files and display the performance
 
 <a href="https://asciinema.org/a/455906" target="_blank"><img src="https://asciinema.org/a/455906.svg" /></a>
+
+
 
 ## Παραδοτεο 10
 Στο 10ο παραδοτέο,το συμμετοχικό περιεχόμενο 2Β έφτιαξα μία καινούργια βιογραφία η οποία αφορά τον Daniel Murphy. Παρακάτω παραθέτω τα ανάλογα link του αποθετηρίου μου.
