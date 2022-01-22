@@ -13,7 +13,7 @@
 | 4 | [συμμετοχικό περιεχόμενο 1A](#α1-προσθήκη-2-εικόνων) |
 | 5 | [Άσκηση γραμμής εντολών](#3ο-παραδοτέο) |
 | 6 | [συμμετοχικό περιεχόμενο 2A](#a2-δημιουργία-ενος-χρονολογίου-και-ενός-σετ-διαφανειών) |
-| 7 | Άσκηση γραμμής εντολών |
+| 7 | [Άσκηση γραμμής εντολών](#4ο-παραδοτέο) |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο 2B |
@@ -50,6 +50,21 @@ Memory: 349MiB / 3825MiB
 Παρότι στο tutorial γίνεται επίδειξη εγκατάστασης boot manager (ειδικότερα grub) η εγκατάσταση δεν πέτυχε με αποτέλεσμα κάθε προσπάθεια ενεργοποίησης των arch συνοδεύεται απο μια σειρά εντολών.
 Παρακάτω ακολουθεί το asciicast:
 <a href="https://asciinema.org/a/tIxgWHxxj6OoBWHUTltbJa6kd" target="_blank"><img src="https://asciinema.org/a/tIxgWHxxj6OoBWHUTltbJa6kd.svg" /></a>
+
+# 2ο Παραδοτέο
+## download mp3	
+<a href="https://asciinema.org/a/n9lsPiXphhjDnudWyvutNekn5" target="_blank"><img src="https://asciinema.org/a/n9lsPiXphhjDnudWyvutNekn5.svg" /></a>
+Ακολουθήθηκαν οι οδηγίες εγκατάστασης του youtube-dl ενώ το mpv εγκαταστήθηκε με pacman -S mpv. Στη συνέχεια κατέβασα 4 τραγούδια, τα έβαλα σε μία λίστα και ξεκίνησα την αναπαραγωγή.
+
+# 3ο Παραδοτέο
+## edit the vim or the shell configuration file	
+<a href="https://asciinema.org/a/463290" target="_blank"><img src="https://asciinema.org/a/463290.svg" /></a>
+Syntax highlighting, numbered lines και colour scheme "morning"  στο vim .
+
+# 4ο Παραδοτέο
+## organize your notes with emacs
+[![asciicast](https://asciinema.org/a/VgwT44ogNoEud3ZMg2hI63SwV.svg)](https://asciinema.org/a/VgwT44ogNoEud3ZMg2hI63SwV)
+Using emacs's org mode to enable highlighting and other handy functionality for writing notes
 
 # Α1: Προσθήκη 2 εικόνων 
 1) Επέλεξα τις εικόνες μέσω της βικιπαίδειας απο όπου και τις κατέβασα, και έπειτα δημιούργησα new file για κάθε εικόνα σε png μορφή στο images και "έσυρα" τη κατεβασμένη εικόνα. Για την thump εικόνα ακολούθησα ακριβως την ίδια διαδικασία με την διαφορά πως άλλαξα το πλάτος σε 160 pixel πρώτα με την χρήση ενός online resizer.
@@ -98,13 +113,3 @@ Images
 2. Έμαθα να αναζητάω λύση στα διάφορα προβληματα που προέκυπταν κατα την διαδικασία στο δυαδίκτυο. Η έρευνα αποτέλεσε την σημαντικοτερη συμβολή στη διαδικασια των παραδοτέων καθώς αρκετά απο τα πράγματα που έκανα μου ηταν άγνωστα στο παρελθόν.
 3. Έμαθα να χρησιμοποιώ το VirtualBox 1.2 
 4.  Ήρθα σε πιο άμεση επαφή με τον υπολογιστή έμαθα τις δυνατότητές και την απόδοση του.
-
-# 2ο Παραδοτέο
-## download mp3	
-<a href="https://asciinema.org/a/n9lsPiXphhjDnudWyvutNekn5" target="_blank"><img src="https://asciinema.org/a/n9lsPiXphhjDnudWyvutNekn5.svg" /></a>
-Ακολουθήθηκαν οι οδηγίες εγκατάστασης του youtube-dl ενώ το mpv εγκαταστήθηκε με pacman -S mpv. Στη συνέχεια κατέβασα 4 τραγούδια, τα έβαλα σε μία λίστα και ξεκίνησα την αναπαραγωγή.
-
-# 3ο Παραδοτέο
-## edit the vim or the shell configuration file	
-<a href="https://asciinema.org/a/463290" target="_blank"><img src="https://asciinema.org/a/463290.svg" /></a>
-Syntax highlighting, numbered lines και colour scheme "morning"  στο vim .
