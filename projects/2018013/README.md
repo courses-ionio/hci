@@ -10,12 +10,12 @@
 | Εβδομάδα | Παραδοτέο |
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα |
-| 2 | Άσκηση γραμμής εντολών |
-| 3 | Άσκηση γραμμής εντολών |
+| 2 | Άσκηση γραμμής εντολών: Εγκατασταση του virtual box και του Archlinux  |
+| 3 | Άσκηση γραμμής εντολών: Εγκατασταση του Asciinema |
 | 4 | συμμετοχικό περιεχόμενο 1A |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | Άσκηση γραμμής εντολών: Download mp3 |
 | 6 | συμμετοχικό περιεχόμενο 2A |
-| 7 | Άσκηση γραμμής εντολών |
+| 7 | Άσκηση γραμμής εντολών: Track your time with a simple journal |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | συμμετοχικό περιεχόμενο 2B |
@@ -59,22 +59,27 @@ youtube-dl βρίσκει το καλήτερο βίντεο και το καλ�
 Στην συνέχεια το Arcade-Machine και το Playstation-Portable προστέθηκαν στο χρονολόγιο των [βιντεοπαιχνιδιών](https://github.com/giormaster/site/blob/%CE%A02018013/_timeline/videogames.md) οπου ταίριαζαν καλήτερα.
 # Παραδοτέο_7
 ## Warmup_1 Journal <br />
-### assignment: track your time with a simple journal
-### deliverables:track your time with a simple journal
+### assignment: Track your time with a simple journal
+### deliverables: Track your time with a simple journal
 Σε αυτην την ασκηση warmup κατεγραψα ενα παραδειγμα journal για την τρεχουσα και την προηγουμενη ημερομηνια και στην συνεχεια το εμφανησα <br />
 https://asciinema.org/a/WYyF9WMA89n62rq9lflwROo1Y
 # Παραδοτέο_8
-## Case study <br />
+## B1 Case study <br />
+Τα arcade machines βοηθεισαν στην εξεληξη τοσο των υπολογιστων οσο και των βιντεοπαινιδιων και βοηθησαν στην εξεικιοση ενως ευρητερου κοινου με τους υπολογιστες
 https://github.com/giormaster/site/blob/%CE%A02018013/_case-study/Arcade_Machine.md
 # Παραδοτέο_9
 ## Warmup_2 Journal <br />
+### assignment: check the weather
+### deliverables: fetch the weather forecast for your home city and one more city that you want to travel to
 Σε αυτην την ασκηση warmup εμφανησαμε τον καιρο της αθηνας και της τοποθεσιας που θελουμε να παμε,το παρισι <br />
 https://asciinema.org/a/GISLeYyzcUZaJAC3vOntuIBAQ
 # Παραδοτέο_10
-## Biography <br />
+## B2 Biography <br />
+Εβαλα στην Βιογραφια τον David Gottlieb,ο κατασκεβαστης του Baffle Ball,το οποιο ειταν απο τα πρωτα πετηχημετα coin operated games και οδηγεισε στην επιτιχια και διμιουργια των arcade machines,που με την σειρα τους εξοικιοσαν περισσοτερο κοινο με τους υπολογιστες. <br />
 https://github.com/giormaster/site/blob/%CE%A02018013/_biography/David_Gottlieb.md
 # Παραδοτέο_11
 ## Ασκηση_2 <br />
+Εγινε η εγγατάσταση του tmux και του glances,στην συνέχεια άνοιξα νεο παράθηρο με την βοήθεια του tmux και χρησιμοποίεισα το glances για παρακολουθήσω το performance του υπολογιστη <br />
 https://asciinema.org/a/x2jbh1RV5yDru9GnJPPCjFxvu
 # Παραδοτέο_12
 ## Ασκηση_2 <br />
