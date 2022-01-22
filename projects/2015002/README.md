@@ -9,6 +9,14 @@
 
 ### Netlify - [p2015002](https://p2015002.netlify.app/)
 
+### Activelylearn:
+    - User: p15kons@ionio.gr
+    - First Name: Marios
+    - Last Name: 2015002
+
+### edpuzzle:
+    - Username: 2015002
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/93ebd915-a3fd-4b02-a8ed-2c5c92b11e92/deploy-status)](https://app.netlify.com/sites/p2015002/deploys)
 
 ---
