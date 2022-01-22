@@ -55,6 +55,14 @@
 ##### link: https://asciinema.org/a/456792
 <a href="https://asciinema.org/a/456792" target="_blank"><img src="https://asciinema.org/a/456792.svg" /></a>
 
+# 4o Παραδοτέο
+
+## Using emacs 
+
+##### link: https://asciinema.org/a/463600
+<a href="https://asciinema.org/a/463600" target="_blank"><img src="https://asciinema.org/a/463600.svg" /></a>
+
+
 # Α1: Προσθήκη 2 εικόνων 
 1) Επέλεξα τις εικόνες μέσω του Wikipedia από όπου και τις κατέβασα, και μετά δημιούργησα νέο φάκελο για κάθε εικόνα σε png μορφή στο images και έβαλα την κατεβασμένη εικόνα. Το ίδιο ακριβώς έκανα και για το thumb και χρησιμοποίησα  το online resizer για να αλλάξω το πλάτος σε 160 pixel.
 2) Δημιούργησα ένα  .md αρχείο για κάθε μια εικόνα στον φάκελο _gallery, οπου υπήρχαν σχετικά στοιχεία (author, title,	year,	image_url,	caption,	license_url,	license_text, categories,	tags).
