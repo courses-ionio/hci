@@ -66,7 +66,8 @@
 
 #### NEOFETCH JORNALCTL -B (warm up)
 Αφου εκανα Install το neofetch και to jornalctl μετα ετρεξα τις εντολες neofetch Και jornalctlb
-για να δω τα αποτελεσματα μου στο τερματικο μου.Το παραδοτέο αυτο δεν ειχε μεγαλη δυσκολια καθως ειχε εκτελεστει και σε προηγουμενο ετος για ubuntu  
+για να δω τα αποτελεσματα μου στο τερματικο μου.Το παραδοτέο αυτο δεν ειχε μεγαλη δυσκολια καθως ειχε εκτελεστει και σε προηγουμενο ετος για ubuntu
+[asciinema link](https://asciinema.org/a/2FexrChp6p3y9hj5sLuMwG1SY)
 
   
 <a href="https://asciinema.org/a/2FexrChp6p3y9hj5sLuMwG1SY" target="_blank"><img src="https://asciinema.org/a/2FexrChp6p3y9hj5sLuMwG1SY.svg" /></a>
@@ -123,6 +124,7 @@ text-editor είναι η συχνή του προσωπική χρηση. Mετ
 θα ειναι πιο ευκολη η δυσκολη απο εκεινη της ιστοσελιδας.Αδου εκανα Install τον youtube-dl Και τον mpv player μετα με την εντολη youtube-dl -x --audio-format mp3 URL of song
 εκανα download ενα αρχειο σε audio format mp3.στην συνεχεια πηγα στον καταλογο downloads του συστηματος μου και αφου αντεγραψα το .mp3 αρχειο με την εντολη 
 mpv το_τραγουδι_που_κατεβασα.mp3 ο Mpv player ετρεξε το .mp3 αρχειο.Περα απο την κατανοηση των παραμετρων  των εντολων και αφου τις κατανοησα δεν αντιμετωπισα καποιο προβλημα ωστοσο αυτο που θα σημειωνα ειναι η χρηση του δεν αντικαθηστα 100% τον ιστοτοπο του youtube αφου θα πρεπει να ανατρεξουμε εκει για να αντιγραψουμε τον συνδεσμο URL για το περιεχομενο που θελουμε να κανουμε ληψη.
+[asciinema link](https://asciinema.org/a/445017)
 
 ### download mp3 , from youtube 	 youtube-dl mpv
 <a href="https://asciinema.org/a/445017" target="_blank"><img src="https://asciinema.org/a/445017.svg" /></a>
@@ -147,6 +149,7 @@ mpv το_τραγουδι_που_κατεβασα.mp3 ο Mpv player ετρεξε
 
 ### use vim (or emacs) to write your cv in markdown, track multiple formats with git and convert it to docx, html with pandoc
 Στο παραδοτεο αυτο αφου εκανα install τον pandoc και αφου ειχα ηδη κανει Install το git εκανα δημιουργια ενος φακελου στo Desktop και εφτιαξα ενα αρχειο md με καποια προσωπικα μου στοιχεια.Αυτες τις ενεργειες τις εκτελεσα πριν την καταγραφη της κονσολας μου για λογους ογκου του asciinema.Στην συνεχεια αφου εκανα cd για να παω στο directory convert που εφτιαξα για την ασκηση εκανα git init το directory αυτο και μετα με την εντολη pandoc -f markdown -t html CV1.md εκανα μετατροπη του CV1 απο τυπο αρχειου md σε html.Στην συνεχεια μετετρεψα παλι το CV1.md αυτην την φορα σε docx αρχειο και μετα εκανα git status για να δω σε τι κατασταση βρισκεται το repo που δημιουργησα πριν.Ακομα στην ασκηση επρεπε να κανουμε χρηση της sed.Για τον λογο ετρεξα την εντολη sed -i 's/university/school/g' CV1.docx CV1.md οπου ουσιαστικα περνοντας σαν Input το αρχειο CV1.docx ζηταω να γινει αντικατασταση της λεξης university οπου υπαρχει μεσα στο CV1.docx με την λεξη school και αυτη η ενεργεια να εφαρμοστει στο Output CV1.md αρχειο υστερα με τον vim ανοιξα το αρχειο για να δω αν οντως εχει γινει η αντικατασταση.Τελος εκανα git add . και git commit Με message για να εφαρμοσω τις αλλαγες που εκανα και για να διαπιστωσω οτι εγιναν ετρεξα ξανα την εντολη git status.
+[asciinema link](https://asciinema.org/a/463610)
 <a href="https://asciinema.org/a/463610" target="_blank"><img src="https://asciinema.org/a/463610.svg" /></a>
 
 ### note 
@@ -154,6 +157,7 @@ mpv το_τραγουδι_που_κατεβασα.mp3 ο Mpv player ετρεξε
 
 #### tmux install and run with window split search for files and display the performance
 
+[asciinema link](https://asciinema.org/a/455906)
 <a href="https://asciinema.org/a/455906" target="_blank"><img src="https://asciinema.org/a/455906.svg" /></a>
 
 
@@ -172,10 +176,12 @@ mpv το_τραγουδι_που_κατεβασα.mp3 ο Mpv player ετρεξε
 ### emacs
 Αρχικα εγκατέστησα το emacs με τη χρήση  sudo pacman -S Με την εντολη emacs -nw ανοίγει το emacs.Μετα με την εντολη ctrl+x+f κανω δημιουργια νεου αρχειου emacs
 που θα χρησιμοποιησω για να κανω μια to do  λιστα και έπειτα με την εντολη alt+x και  γραφοντας org-mode μας δινεται η δυνατοτητα να δημιουργησω την παραπανω λιστα.Με Αlt+enter κανω νέο task με χρωματισμο στα γραμματα και με συμβολα οπως αστερισκους για καλυτερη εμφανιση κατανοηση και οργανωση. Με τη χρήση alt + enter + δεξί βέλος, προσθέτω περισσοτερους αστερίσκους με διαφορετικο χρωματισμο γραμματων με σκοπο να διαχωρισω τα tasks και για να ειναι πιο φιλικο στον χρηστη.Επικυρωνω ενα task πατώντας ctrl+c+c.Τελος αντιμετωπισα προβλημα στην εξοδο μου απο το emacs αφου η εντολη ctrl-x δεν εκανε εξοδο απο το emacs γι αυτο για να πετυχω την εξοδο απο αυτο εδωσα την εντολη kill-emacs.
+[asciinema link](https://asciinema.org/a/462364)
 
 <a href="https://asciinema.org/a/462364" target="_blank"><img src="https://asciinema.org/a/462364.svg" /></a>
 
 ## Ομαδικοτητα-Συμμετοχη
+Παραθετω τα λινκ απο την συμμετοχη μου στις συζητησεις του μαθηματος
 [1715](https://github.com/courses-ionio/hci/discussions/1715#discussioncomment-2025318)
 [1668](https://github.com/courses-ionio/hci/discussions/1668)
 [1584](https://github.com/courses-ionio/hci/discussions/1584#discussioncomment-1520424)
