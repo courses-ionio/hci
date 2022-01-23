@@ -239,7 +239,7 @@
   
   ### Συνεισφορές και συμμετοχικότητα - ομαδικότητα
   
-| Discussion |
+| Discussion & Pull Requests |
   | --- |
   | [#1627](https://github.com/courses-ionio/hci/discussions/1627) |
   | [#1630](https://github.com/courses-ionio/hci/discussions/1630) |
@@ -253,6 +253,8 @@
   | [#1695](https://github.com/courses-ionio/hci/discussions/1695) |
   | [#1702](https://github.com/courses-ionio/hci/discussions/1702) |
   | [#1705](https://github.com/courses-ionio/hci/discussions/1705) |
+  | [#1715](https://github.com/courses-ionio/hci/discussions/1715) |
+  | [#1711](https://github.com/courses-ionio/hci/pull/1711) |
  
   ### Συμπέρασμα :
   
