@@ -20,10 +20,10 @@
 | 6 | [συμμετοχικό περιεχόμενο 2A](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-6) |Έγκυρο commit, 100% COMPLETED|
 | 7 | [Youtube-dl mpv](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7) |Έγκυρο commit, 100% COMPLETED|
 | 8 | [συμμετοχικό περιεχόμενο 1B](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-8) |Έγκυρο commit, 100% COMPLETED|
-| 9 | [Tmux search for files and display the performance](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) | Έγκυρο commit, 100% COMPLETED.Αρχικα προσπαθησα να κανω την εργασια tmux search for file and display performance ωστοσο πριν απο τον τελικο ελεγχο διαπιστωσα οτι δεν χρησιμοποιησα και το glances και αποφασισα να κανω μια διαφορετικη την ασκηση με το pandoc,git και sed |
+| 9 | [use vim (or emacs) to write your cv in markdown, track multiple formats with git and convert it to docx, html with pandoc](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) | Έγκυρο commit, 100% COMPLETED.Αρχικα προσπαθησα να κανω την εργασια tmux search for file and display performance ωστοσο πριν απο τον τελικο ελεγχο διαπιστωσα οτι δεν χρησιμοποιησα και το glances και αποφασισα να κανω μια διαφορετικη την ασκηση με το pandoc,git και sed |
 | 10 | [συμμετοχικό περιεχόμενο 2B](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) | Έγκυρο commit, 100% COMPLETED|
 | 11 | [Emacs](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#emacs) | Έγκυρο commit, 100% COMPLETED|
-| 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |Έγκυρο commit, 100% COMPLETED|
+| 12 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-12-----%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%BF%CF%82) |Έγκυρο commit, 100% COMPLETED|
 
 
 ## Παραδοτέο 1
