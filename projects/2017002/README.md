@@ -71,3 +71,8 @@ Discord
 ## Φτιάχνω spreadsheet.
 <a href="https://asciinema.org/a/286250" target="_blank"><img src="https://asciinema.org/a/286250.svg" /></a>
 
+# 4ο Παραδοτέο
+## Δημιουργώ ένα αρχείο και γράφω μέσα με την χρήση του emacs
+<a href="https://asciinema.org/a/463649" target="_blank"><img src="https://asciinema.org/a/463649.svg" /></a>
+
+
