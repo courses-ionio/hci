@@ -15,7 +15,7 @@
 | 5 | [Άσκηση γραμμής εντολών](#3ο-παραδοτέο) |
 | 6 | [συμμετοχικό περιεχόμενο 2A](#a2-δημιουργία-ενος-χρονολογίου-και-ενός-σετ-διαφανειών) |
 | 7 | [Άσκηση γραμμής εντολών](#4ο-παραδοτέο) |
-| 8 | συμμετοχικό περιεχόμενο 1B |
+| 8 | [συμμετοχικό περιεχόμενο 1B](#1Β-Συμμετοχικό-υλικό) |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | [συμμετοχικό περιεχόμενο 2B](#2Β-Συμμετοχικό-υλικό) |
 | 11 | Άσκηση γραμμής εντολών |
@@ -74,6 +74,16 @@ Discord
 # 4ο Παραδοτέο
 ## Δημιουργώ ένα αρχείο και γράφω μέσα με την χρήση του emacs
 <a href="https://asciinema.org/a/463649" target="_blank"><img src="https://asciinema.org/a/463649.svg" /></a>
+
+# 1Β Συμμετοχικό υλικό
+## Κάνω μια νέα μελέτη περίπτωσης
+- Case Study Link:https://github.com/axilleasmandravelis/site/blob/master/_case-study/BlackBerry.md
+- - Image Link :https://github.com/axilleasmandravelis/images/blob/master/BlackBerry950.jpg
+- Image Thump Link:https://github.com/axilleasmandravelis/images/blob/master/Blackberry950-thump.jpg
+- Gallery Link: https://github.com/axilleasmandravelis/_gallery/blob/master/Blackberry950.md
+- Extras--cs-blacberry Link:https://github.com/axilleasmandravelis/extras/blob/master/cs-blackberry.md
+
+
 
 # 2Β Συμμετοχικό υλικό
 ## Δημιουργία βιογραφίας που σχετίζεται με μια απο τις θεματικές ενότητες που έχω αναπτύξει.
