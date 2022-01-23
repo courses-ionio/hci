@@ -13,7 +13,7 @@
 | 5 | [Άσκηση γραμμής εντολών](#3ο-παραδοτέο) |
 | 6 | [συμμετοχικό περιεχόμενο 2A](#a2-δημιουργία-ενος-χρονολογίου-και-ενός-σετ-διαφανειών) |
 | 7 | [Άσκηση γραμμής εντολών](#4o-παραδοτέο) |
-| 8 | συμμετοχικό περιεχόμενο 1B |
+| 8 | [συμμετοχικό περιεχόμενο 1B](#β1-δημιουργία-νέας-μελέτης-περίπτωσης) |
 | 9 | Άσκηση γραμμής εντολών |
 | 10 | [συμμετοχικό περιεχόμενο 2B](#β2-δημιουργία-βιογραφίας) |
 | 11 | Άσκηση γραμμής εντολών |
@@ -96,6 +96,20 @@
 #### Πρόσθεσα στο videogames.md το Atari 26000 και άλλαξα την εικόνα σε αυτή που ανέβασα (Atari-2600.png).
 #### Οι τίτλοι φαίνονται (Η εξέλιξη της Atari) (Η εξέλιξη των συστημάτων IBM) αλλά όχι οι εικόνες. Όταν πατάω να τα ανοίξω μου βγάζει το εξής error ERROR: Timeline configuration has no events. 
 ![Screenshot_2](https://user-images.githubusercontent.com/44340598/142688062-e189abfb-9e40-4c0f-a801-b604cef42942.png)
+
+# Β1: Δημιουργία νέας μελέτης περίπτωσης
+Σκοπός: Να δημιουργήσω μία νέα μελέτη περίπτωσης που σχετίζεται με μία από τις εικόνες που πρόσθεσα στα προηγούμενα ερωτήματα.
+Επέλεξα να προσθέσω την Atari, επικεντρώνοντας στο Atari 2600 και στο Atari 2600 Jr.
+### Case study
+#### link: https://github.com/nikosbout/site/blob/master/_case-study/Atari.md
+### Gallery
+#### link: https://github.com/nikosbout/_gallery/blob/master/atari-2600-jr.md
+### Extras cs
+#### link: https://github.com/nikosbout/extras/blob/master/cs-atari.md
+### Image of Atari 2600 Jr
+#### link: https://github.com/nikosbout/images/blob/master/Atari-2600-Jr.jpg
+### Thumbnail of Atari 2600 Jr
+#### link: https://github.com/nikosbout/images/blob/master/Atari-2600-jr-thumb.jpg
 
 # B2: Δημιουργία βιογραφίας
 Σκοπός: Να δημιουργήσω μία βιογραφία η σχετίζεται με μία θεματική εικόνα που ανέπτυξα στο προηγούμενο ερώτημα.
