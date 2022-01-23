@@ -14,9 +14,9 @@
 | 5 | [Άσκηση γραμμής εντολών ](#vim-plugins)|
 | 6 | [συμμετοχικό περιεχόμενο 2A](#2a-) |
 | 7 | [Άσκηση γραμμής εντολών](#zsh) |
-| 8 | [συμμετοχικό περιεχόμενο 1B](#1b-) |
+| 8 | [συμμετοχικό περιεχόμενο 1B](#2b-) |
 | 9 | Άσκηση γραμμής εντολών |
-| 10 | [συμμετοχικό περιεχόμενο 2B](#2b-) |
+| 10 | [συμμετοχικό περιεχόμενο 2B](#1b-) |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
@@ -100,6 +100,10 @@ Netlify Deployment link [here](https://elated-hopper-ceabdc.netlify.app)
 
 Καταχωρήθηκαν τα άνωθεν στα slides [archetypes](https://github.com/p20adam/site/blob/master/_slides/archetypes.md) και [models](https://github.com/p20adam/site/blob/master/_slides/models.md)
 
+Link για αρχέτυπα: https://elated-hopper-ceabdc.netlify.app//slides/archetypes/
+
+Link για μοντέλα: https://elated-hopper-ceabdc.netlify.app//slides/models/ 
+
 # Εργασία Τερματικού 3:
 ## zsh
 Καταρχήν η άσκηση ξεκινά με το κατέβασμα του zsh το shell και το ενεργοποιούμε. Για να μπορέσουμε να το προσαρμόσουμε στο workflow μας και να γίνουμε πιο αποδοτικοί,  κατεβάζουμε δύο plugins για το zsh. Το πρώτο είναι για syntax highlighting  με σκοπό να μπορούν να αλλάζουν τα χρώματα όταν μια εντολή είναι λάθος συντακτικά γραμμένη και αντίστοιχα όταν είναι σωστά. Κάνουμε clone το repository βάζουμε το plugin στο zshrc αρχείο και κάνουμε source τις αλλαγές. Ακολουθώντας ακριβώς την ίδια διαδικασία για το δεύτερο plugin που αφορά τα autosuggestions όπου πάλι κατέβηκε το repository, μπήκε το όνομα του plugin μέσα στο αρχείο zshrc και έγινε source το αρχείο.  Εν τέλει απεικονίζονται τα αποτελέσματα που τρέχουμε και συγκεκριμένα παρατηρούμε πως αν κάνουμε λάθος αλλάζει το χρώμα (το πράσινο σημαίνει ότι έχει γραφτεί σωστά η εντολή). Επιπλέον  με ανοιχτό γκρι φαίνονται οι προτάσεις που κάνει το autosuggestions βάση προηγούμενων εντολών που έχουν γραφτεί στο τερματικό. 
@@ -108,6 +112,10 @@ Netlify Deployment link [here](https://elated-hopper-ceabdc.netlify.app)
 
 ## 2B : 
 Δημιουργήθηκε βιογραφία για τον [Lance Barr](https://github.com/p20adam/site/blob/master/_biography/lance-barr.md) με βάση την βιογραφία του Alan Kay (προστέθηκαν τα κατάλληλα αρχεία και στο includes/extras submodule) .
+
+Link από το deployed site με τις βιβλιογραφίες: https://elated-hopper-ceabdc.netlify.app/biography/
+
+Link από την βιογραφία: https://elated-hopper-ceabdc.netlify.app//biography/lance-barr/ 
 
 # Εργασία Τερματικού 4:
 ## vim plugins
