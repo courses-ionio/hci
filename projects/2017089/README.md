@@ -47,6 +47,10 @@
 [md link](https://github.com/p17mari/_gallery/blob/master/Leafpad.md)
 | --- |
 # Συμμετοχικό περιεχόμενο: Β1 και Β2
+Βιβλιογραφία
+
+Seymour Papert
+[md](https://github.com/p17mari/site/blob/master/_biography/seymour-papert.md)
 
 # Άσκηση γραμμής εντολών: Warmup Youtube Download
 Αρχικά 
