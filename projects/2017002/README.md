@@ -92,6 +92,9 @@ Discord
 - Image Thump Link :  https://github.com/axilleasmandravelis/images/blob/master/Mike_Lazaridis_thump.jpg
 - Extras link : https://github.com/axilleasmandravelis/extras/blob/master/bio-MikeLazaridis.md
 
+# ΕΠΙΛΟΓΟΣ
+Τελειώνοντας την εργασία εξαμήνου έχω καταφέρει πολλούς από τους αρχικούς μου στόχους, και βρέθηκα ένα βήμα πιο κοντά στους απώτερους μεγαλύτερους στόχους μου.Με τις εργασίες στο terminal κατάφερα να εξοικειωθώ με ένα διαφορετικό λειτουργικό απο αυτά που ήταν ήδη γνωστά σε εμένα.
+
 
 
 
