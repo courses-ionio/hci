@@ -77,12 +77,15 @@
 </br>
 
 ## Επεξεργαστής (CPU):
+- Intel i5-7200U 3.1GHz
 
 ## Μνήμη (RAM)
 - 6GB
 - DDR4
 
 ## Κάρτα Γραφικών (GPU)
+- NVIDIA GeForce MX110
+- 2GB
 
 ## Σκληρός Δίσκος
 - SSD
@@ -95,9 +98,7 @@
 - 16:9
 - Refresh rate 60Hz, DC dimmer
 
-## Network Controller
-- Intel i5-7200U 
-- 3.1GHz
+![Neofetch](neofetch.png)
 
 # 4ο Παραδοτέο - Συμμετοχικό Περιεχόμενο Α1
 <br>
