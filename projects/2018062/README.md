@@ -148,5 +148,21 @@
 
 | Περιγραφή | Link | Netlify Link |
 | --- | --- | --- |
-| Powerglove Case Study Submodule | [Github Link](https://github.com/stovag/site/blob/master/_case-study/powerglove.md) | [Netlify Link](https://frosty-snyder-edb2b9.netlify.app//case-study/powerglove/ |
+| Powerglove Case Study Submodule | [Github Link](https://github.com/stovag/site/blob/master/_case-study/powerglove.md) | [Netlify Link](https://frosty-snyder-edb2b9.netlify.app//case-study/powerglove/) |
 | Powerglove Case Study Text | [Github Link](https://github.com/stovag/extras/blob/master/cs-powerglove.md) | --- |
+
+# 10ο Παραδοτέο - Συμμετοχικό Υλικό Β2
+Για τη βιογραφία επέλεξα να καταγράψω τη βιογραφία της Jaime Lien, η οποία ήταν ηγετικό μέλος στην ανάπτυξη του Project Soli.
+
+| Περιγραφή | Link | Netlify Link |
+| --- | --- | --- |
+| Jaime Lien Biography Submodule | [Github Link](https://github.com/stovag/site/blob/master/_biography/jaime-lien.md) | [Netlify Link](https://frosty-snyder-edb2b9.netlify.app//biography/jaime-lien/) |
+| Jaime Lien Biography Text | [Github Link](https://github.com/stovag/extras/blob/master/bio-lien.md) | --- |
+
+# 12ο Παραδοτέο - Επίλογος & Συμπεράσματα
+Κατά τη διάρκεια του μαθήματος εξερεύνησα διάφορες πτυχές και εναλλακτικές οπτικές της επικοινωνίας ανθρώπου - υπολογιστή. 
+Εξερεύνησα και γνώρισα μη συμβατικές προσεγγίσεις του UI/UX, όπως το Project Soli και το Powerglove.
+Εγκατέστησα Arch Linux και τα μορφοποίησα ώστε να ταιριάζουν στις δικές μου ανάγκες και απαιτήσεις, ενώ παράλληλα χρησιμοποίησα προγράμμα τερματικού που βελτιώνουν τη ευχρησία τους και κάνουν τον προγραμματιστή πιο γρήγορο και παραγωγικό.
+Τέλος χρησιμποίησα το Netlify για να συνεισφέρω στο site του μαθήματος, δημιουργώντας νέες σελίδες και έρχοντας σε κοντινότερη επαφή με διάφορα θέματα της επικοινωνίας ανθρώπου υπολογιστή.
+
+Οι προσδοκίες μου για το μάθημα καλύφθηκαν επαρκώς, αφού γνώρισα πολλά επίπεδα στο κομμάτι του HCI. Από τον χρήστη που προσπαθεί να χρησιμποιήσει εφαρμογές με default settings και του είναι δύσκολες, στο χρήστη που προσαρμόζει το λογισμικό που χρησιμοποιεί στις ανάγκες του. Ακόμη, είδα πώς είναι η ανάπτυξη site με γνώμονα το UI, και την βέλτιστη εμπειρία χρήστη.
