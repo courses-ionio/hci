@@ -141,3 +141,11 @@
 [![asciicast](https://asciinema.org/a/vOImrjgEteVAaFeiJpcd5GyyJ.svg)](https://asciinema.org/a/vOImrjgEteVAaFeiJpcd5GyyJ)
 
 </br>
+
+# 8ο Παραδοτέο - Συμμετοχικό Υλικό Β1
+Για τη μελέτη περίπτωσης επέλεξα το PowerGlove της Mattel για το Nintendo Enterntainment System (NES). 
+
+| Περιγραφή | Link | Netlify Link |
+| --- | --- | --- |
+| Powerglove Case Study Submodule | [Github Link](https://github.com/stovag/site/blob/master/_case-study/powerglove.md) | [Netlify Link](https://frosty-snyder-edb2b9.netlify.app//case-study/powerglove/ |
+| Powerglove Case Study Text | [Github Link](https://github.com/stovag/extras/blob/master/cs-powerglove.md) | --- |
