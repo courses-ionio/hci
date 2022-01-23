@@ -14,9 +14,9 @@
 | 5 | [Άσκηση γραμμής εντολών ](#vim-plugins)|
 | 6 | [συμμετοχικό περιεχόμενο 2A](#2a-) |
 | 7 | [Άσκηση γραμμής εντολών](#zsh) |
-| 8 | [συμμετοχικό περιεχόμενο 1B](#2b-) |
+| 8 | [συμμετοχικό περιεχόμενο 2B](#2b-) |
 | 9 | Άσκηση γραμμής εντολών |
-| 10 | [συμμετοχικό περιεχόμενο 2B](#1b-) |
+| 10 | [συμμετοχικό περιεχόμενο 1B](#1b-) |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
@@ -129,3 +129,9 @@ Link από την βιογραφία: https://elated-hopper-ceabdc.netlify.app/
 
 
 ## 1B:
+
+Προστέθηκε η μελέτη περίπτωσης για το smartwatch. Το link από το [github repository](https://github.com/p20adam/site)
+
+Link για το _case-study:  https://github.com/p20adam/site/tree/master/_case-study
+
+Link για το case study στο netlify: https://elated-hopper-ceabdc.netlify.app//case-study/smartwatch/ 
