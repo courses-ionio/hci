@@ -99,7 +99,7 @@
 
 <br />
 
-Πηγές: [Wikipedia - Walkman](https://en.wikipedia.org/wiki/Walkman) & [Sony Press Archive](https://www.sony.com/en/SonyInfo/News/Press_Archive/199907/99-059/) & [Wikipedia - iPod Mini](https://en.wikipedia.org/wiki/IPod_Mini) & [iPod Mini History](https://apple-history.com/ipod_mini)
+Πηγές: [Wikipedia - Walkman](https://en.wikipedia.org/wiki/Walkman) & [Sony Press Archive](https://www.sony.com/en/SonyInfo/News/Press_Archive/199907/99-059/) | [Wikipedia - iPod Mini](https://en.wikipedia.org/wiki/IPod_Mini) & [iPod Mini History](https://apple-history.com/ipod_mini)
 <br />
 Σύνδεσμοι .md: [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md) | [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md)
 <br />
@@ -241,3 +241,5 @@ Link άδειας εικόνας: [LineageOS - Wikimedia Commons](https://common
 1. O λόγος που πιστεύω ότι το `jailbreak` είναι σχετικό με το συγκεκριμένο μάθημα και γενικότερα με τα Linux που ξέρουμε και αγαπάμε, είναι ότι και το `jailbreak` απαιτεί package manager (παρόμοιο με το `pacman` του Arch Linux) όπως το [Cydia](https://cydia.saurik.com/), [Sileo](https://getsileo.app/) ή [Zebra](https://getzbra.com/) για την εγκατάσταση πακέτων. Επιπρόσθετα, πολλά από τα πακέτα ('tweaks' που είπαμε και πριν) είναι βασισμένα και παρμένα από τα συστήματα Unix.
 
 2. Σε όλα τα asciicasts του `asciinema` έγινε χρήση της εντολής `asciinema rec -i 0.4` για την αποφυγή τυχόν μεγάλων χρονικών κενών.
+
+3. Έπειτα με συνεννόηση με τον καθηγητή στην αξιολόγηση αυτής της εβδομάδας, άλλαξα το περιεχόμενο του συμμετοχικού 1Β και 2Β.
