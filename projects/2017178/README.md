@@ -120,4 +120,3 @@ Images
 - Το αρχείο που τοποθετήθηκε στο `_biography` [έδω](https://github.com/p17simt/site/blob/master/_biography/alex-kipman.md)
 - Το αρχείο του submodule [εδώ](https://github.com/p17simt/extras/blob/master/bio-kipman.md)
 - Και τέλος τη φωτογραφία του Kipman [εδώ](https://github.com/p17simt/images/blob/master/alex-kipman.jpg)
-- 
