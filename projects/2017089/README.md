@@ -34,22 +34,27 @@
 
 # Συμμετοχικό περιεχόμενο: Α1 και Α2
 Το RamKid για το εκπαιδευτικό παιχνίδι Πέρης και Κάτια ένα λογισμικό παθητικής διάδρασης για την εξοικίωση παιδιών δημοτικού με τον ηλεκτρονικό υπολογιστή. Επέλεξα αυτή την εφαρμογή διότι θυμάμαι να την χρησιμοποιώ εγώ όταν είχαν πρωτοβγεί και ήταν μια από τις πρώτες επαφές που είχα εγώ με εκπαιδευτικά προγράμματα. Επιπλέον επέλεξα αυτό το πρόγραμμα διότι είναι από τα λίγα και πρώτα εκπαιδευτικά προγράμματα για υπολογιστές που είναι όλο στο ελληνικά. Λόγω του περιεχομένου της εφαρμογής το κατέταξα στο χρονολόγιο βιντεοπαιχνίδια.
-Netlify link
-![330px-Kidepedia_τόμος_1](https://user-images.githubusercontent.com/43947917/144871199-b6eb8644-9932-485d-94a4-68a8c4371079.png)
 
+![330px-Kidepedia_τόμος_1](https://user-images.githubusercontent.com/43947917/144871199-b6eb8644-9932-485d-94a4-68a8c4371079.png)
+| --- |
+[md link](https://github.com/p17mari/_gallery/blob/master/ramkid.md)
+| --- |
 Για την δεύτερη εικόνα επιλέχθηκε το Leafpad το text editor Leafpad λογισμικό επεξεργασίας κειμένου για Linux.
+Το Leafpad είναι ένα πρόγραμμα επεξεργασίας κειμένου ανοιχτού κώδικα για Linux, δημιουργήθηκε με στόχο να είναι ελαφρύ με ελάχιστα dependencies. 
 
 ![Leafpad](https://user-images.githubusercontent.com/43947917/144891270-dc3aca5c-567a-4187-abaa-7dfee82a82f1.png)
-Netlify link
-
+| --- |
+[md link](https://github.com/p17mari/_gallery/blob/master/Leafpad.md)
+| --- |
 # Συμμετοχικό περιεχόμενο: Β1 και Β2
 
 # Άσκηση γραμμής εντολών: Warmup Youtube Download
+Αρχικά 
 [download mp3](https://asciinema.org/a/463720)
 # Άσκηση γραμμής εντολών: Warmup check the weather
 
-[check the weather]()
+[check the weather](https://asciinema.org/a/463741)
 # Άσκηση γραμμής εντολών: Warmup fetch information
-[Fetch Information]()
+Fetch Information[part one](https://asciinema.org/a/463738), [part two](https://asciinema.org/a/463742)
 
 [vim cv](https://asciinema.org/a/463728)
