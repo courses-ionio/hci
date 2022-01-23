@@ -3,8 +3,8 @@
 
 ### Ονοματεπώνυμο: Μανδραβέλης Αχιλλέας 
 ### Αριθμός Μητρώου: Π2017002
-## GitHub Profile: [axilleasmandravelis] (https://github.com/axilleasmandravelis)
-### Site Repository: [axilleasmandravelis/site] (https://github.com/axilleasmandravelis/site)
+##### GitHub Profile: [axilleasmandravelis] (https://github.com/axilleasmandravelis)
+##### Site Repository: [axilleasmandravelis/site] (https://github.com/axilleasmandravelis/site)
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
@@ -14,10 +14,10 @@
 | 4 | [συμμετοχικό περιεχόμενο 1A](#α1-προσθήκη-2-εικόνων) |
 | 5 | [Άσκηση γραμμής εντολών](#3ο-παραδοτέο) |
 | 6 | [συμμετοχικό περιεχόμενο 2A](#a2-δημιουργία-ενος-χρονολογίου-και-ενός-σετ-διαφανειών) |
-| 7 | Άσκηση γραμμής εντολών |
+| 7 | [Άσκηση γραμμής εντολών](#4ο-παραδοτέο) |
 | 8 | συμμετοχικό περιεχόμενο 1B |
 | 9 | Άσκηση γραμμής εντολών |
-| 10 | συμμετοχικό περιεχόμενο 2B |
+| 10 | [συμμετοχικό περιεχόμενο 2B](#2Β-Συμμετοχικό-υλικό) |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
@@ -74,5 +74,15 @@ Discord
 # 4ο Παραδοτέο
 ## Δημιουργώ ένα αρχείο και γράφω μέσα με την χρήση του emacs
 <a href="https://asciinema.org/a/463649" target="_blank"><img src="https://asciinema.org/a/463649.svg" /></a>
+
+# 2Β Συμμετοχικό υλικό
+## Δημιουργία βιογραφίας που σχετίζεται με μια απο τις θεματικές ενότητες που έχω αναπτύξει.
+- Link Βιογραφία :https://github.com/axilleasmandravelis/site/blob/master/_biography/Mike_Lazaridis.md
+- Image Link : https://github.com/axilleasmandravelis/images/blob/master/Mike_Lazaridis.jpg
+- Image Thump Link :  https://github.com/axilleasmandravelis/images/blob/master/Mike_Lazaridis_thump.jpg
+- Extras link : https://github.com/axilleasmandravelis/extras/blob/master/bio-MikeLazaridis.md
+
+
+
 
 
