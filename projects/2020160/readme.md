@@ -106,7 +106,7 @@ Netlify Deployment link [here](https://elated-hopper-ceabdc.netlify.app)
 
 [![asciicast](https://asciinema.org/a/463726.svg)](https://asciinema.org/a/463726)
 
-## 1B : 
+## 2B : 
 Δημιουργήθηκε βιογραφία για τον [Lance Barr](https://github.com/p20adam/site/blob/master/_biography/lance-barr.md) με βάση την βιογραφία του Alan Kay (προστέθηκαν τα κατάλληλα αρχεία και στο includes/extras submodule) .
 
 # Εργασία Τερματικού 4:
@@ -120,4 +120,4 @@ Netlify Deployment link [here](https://elated-hopper-ceabdc.netlify.app)
 [![asciicast](https://asciinema.org/a/0IyAIIJR3LDrvVfISfQwJKecC.svg)](https://asciinema.org/a/0IyAIIJR3LDrvVfISfQwJKecC)
 
 
-## 2B:
+## 1B:
