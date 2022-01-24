@@ -56,7 +56,7 @@ Memory: 349MiB / 3825MiB
 
 # 3ο Παραδοτέο
 ## edit the vim or the shell configuration file	
-<a href="https://asciinema.org/a/463290" target="_blank"><img src="https://asciinema.org/a/463290.svg" /></a>
+<a href="https://asciinema.org/a/q966WzMSFBxUh6ImWes9TgFQl" target="_blank"><img src="https://asciinema.org/a/q966WzMSFBxUh6ImWes9TgFQl.svg" /></a>
 Syntax highlighting, numbered lines και colour scheme "morning"  στο vim .
 
 # 4ο Παραδοτέο
