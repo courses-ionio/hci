@@ -92,10 +92,10 @@
 
 <br />
 
-| Περιγραφή | Repository Link |
-| --- | --- |
-| Sony Walkman TPS-L2 | [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md) |
-| iPod Mini | [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md) |
+| Περιγραφή | Repository Link | Netlify |
+| --- | --- | --- |
+| Sony Walkman TPS-L2 | [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md) | |
+| iPod Mini | [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md) | |
 
 <br />
 
