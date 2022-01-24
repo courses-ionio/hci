@@ -90,7 +90,7 @@ Images
 - Gallery: https://github.com/p17simt/_gallery/blob/master/3dtouch.md
 - Website link: https://elegant-goldstine-b4ac31.netlify.app/gallery/3dtouch/
 
-Multi-track Trackpad
+Multi-touch Trackpad
 Images
 - Image link: https://github.com/p17simt/images/blob/master/multitouch.jpg
 - Thumb link: https://github.com/p17simt/images/blob/master/multitouch-thumb.png
