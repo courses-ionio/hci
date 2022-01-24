@@ -95,7 +95,7 @@
 | Περιγραφή | Repository Link | Netlify |
 | --- | --- | --- |
 | Sony Walkman TPS-L2 | [sony-walkman.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/sony-walkman.md) | [Sony Walkman TPS-L2](https://p2019214-pibook.netlify.app/gallery/sony-walkman/) |
-| iPod Mini | [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md) [iPod Mini](https://p2019214-pibook.netlify.app/gallery/ipod-mini/) |
+| iPod Mini | [ipod-mini.md](https://github.com/Xar-Me-Ison/_gallery/blob/2019214/ipod-mini.md) | [iPod Mini](https://p2019214-pibook.netlify.app/gallery/ipod-mini/) |
 
 <br />
 
