@@ -57,7 +57,8 @@ Aναζητήστε, κατεβάστε και παίξτε (με το τερμ�
 
 
 # Συμμετοχικό περιεχόμενο: Β1 και Β2
-##Β1 Βιβλιογραφία Seymour Papert
+## Β1 Βιβλιογραφία Seymour Papert
+
 ![Seymour_Papert](https://user-images.githubusercontent.com/43947917/151183355-a2331a2f-a925-4d7b-9751-72fc4ccbb6a5.jpg)
 
 "Ο Seymour Papert ταν ένας από τους κύριους της πρωτοβουλίας One Laptop Per Child για την κατασκευή και τη διανομή του The Children's Machine σε αναπτυσσόμενες χώρες. Πάνω στην ανάλυση της θεωρίας του εποικοδομιτισμού βασίστηκε ο Alan Kay κατασκευάζοντας το Dynabook"
@@ -70,22 +71,14 @@ tags:
   - Alan Kay
   - Dynabook
 
-##Β2 Μελέτη Περίπτωσης: Lego Mindstorms
+## Β2 Μελέτη Περίπτωσης: Lego Mindstorms
 ![lego-mindstorms](https://user-images.githubusercontent.com/43947917/151206662-1154cf40-01a0-4284-9d38-af6bb8afacc3.jpg)
 
----
-author: p17mari
-title: "Lego Mindstorms"
-"Το Lego Mindstorms είναι μια δομή υλικού και λογισμικού που παράγεται από τη Lego για την ανάπτυξη προγραμματιζόμενων ρομπότ βασισμένων σε Lego blocks. Κάθε έκδοση του συστήματος περιλαμβάνει ένα τούβλο Lego υπολογιστή που ελέγχει το σύστημα, ένα σύνολο αρθρωτών αισθητήρων και κινητήρων και εξαρτήματα Lego από τη σειρά Technic για τη δημιουργία των μηχανικών συστημάτων."
+Το Lego Mindstorms είναι μια δομή υλικού και λογισμικού που παράγεται από τη Lego για την ανάπτυξη προγραμματιζόμενων ρομπότ βασισμένων σε Lego blocks. Κάθε έκδοση του συστήματος περιλαμβάνει ένα τούβλο Lego υπολογιστή που ελέγχει το σύστημα, ένα σύνολο αρθρωτών αισθητήρων και κινητήρων και εξαρτήματα Lego από τη σειρά Technic για τη δημιουργία των μηχανικών συστημάτων.
+
 categories:
   - Μελέτη Περίπτωσης
   - Εργαλεία
----
-
-{% include extras/cs-legomindstorms.md %}
-
-{% include gallery %}
-
 
 [md link](https://github.com/p17mari/site/blob/master/_biography/seymour-papert.md)
 
