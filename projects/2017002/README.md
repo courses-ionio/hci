@@ -100,6 +100,22 @@ Discord
 Είχα αρκετές δυσκολίες,απο τις οποίες στις περισσότερες βρήκα λύση όμως πέρα απο τις πολλές προσπάθειες μου για να κάνω τις φωτογρφίες να φαίνονται στο site δεν τα κατάφερα.
 
 
+#### Εντολές / Εργαλεία / Πηγές
+
+[asciinema](https://asciinema.org/)
+
+[Arch Linux Wiki](https://wiki.archlinux.org/) |
+[Arch Linux Subreddit](https://www.reddit.com/r/archlinux/) |
+[Getting Started with Github](https://docs.github.com/en/get-started) |
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/) |
+[The Begginer's Guide to Shell Scripting](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/) |
+[Bash Scripting Tutorial for Begginers](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) |
+[Git Tools - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) |
+[Mastering Git Submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407)
+
+
+
+
 
 
 
