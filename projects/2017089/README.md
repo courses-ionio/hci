@@ -71,6 +71,8 @@ tags:
   - Alan Kay
   - Dynabook
 
+[md link](https://github.com/p17mari/site/blob/master/_biography/seymour-papert.md)
+
 ## Β2 Μελέτη Περίπτωσης: Lego Mindstorms
 ![lego-mindstorms](https://user-images.githubusercontent.com/43947917/151206662-1154cf40-01a0-4284-9d38-af6bb8afacc3.jpg)
 
@@ -80,7 +82,7 @@ categories:
   - Μελέτη Περίπτωσης
   - Εργαλεία
 
-[md link](https://github.com/p17mari/site/blob/master/_biography/seymour-papert.md)
+[md link](https://github.com/p17mari/site/blob/master/_case-study/lego-mindstorms.md)
 
 # Άσκηση γραμμής εντολών: Warmup check the weather
 Λάβετε την πρόγνωση του καιρού για την πόλη σας και μια ακόμη πόλη στην οποία θέλετε να πάτε. Έλενξα τον καιρό στην Αθήνα και την Κέρκυρα. Είδα επίσης τον αριθμό της σεληνιακής φάσης, ποσοστά υγρασίας και ημερίσια πρόγνωση πέρα απο την εβδομαδιαία. 
