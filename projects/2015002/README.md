@@ -230,6 +230,11 @@ To 1972 ήταν η χρονιά που κυκλοφόρησε το Pong της 
 |Βήμα | Asciinema |
 | --- | ----------|
 | Download mp3  | [link](https://asciinema.org/a/456407)  |
+| Script | [code](https://github.com/mariosconsta/shell-scripting/blob/main/Scripts/youtube.sh) |
+
+#### Script:
+
+[![asciicast](https://asciinema.org/a/464450.svg)](https://asciinema.org/a/464450)
 
 ## Πηγές:
 
@@ -323,13 +328,18 @@ To 1972 ήταν η χρονιά που κυκλοφόρησε το Pong της 
 
 ---
 
-# 11ο Παραδοτέο - Άσκηση γραμμής εντολών
+# 11ο Παραδοτέο - TMUX
 
 Για την τελευταία άσκηση γραμμής εντολών αποφάσισα να χρησιμοποιήσω το TMUX μαζί με το glance για να οργανώσω το terminal σε διάφορα παράθυρα όπου το κάθε παράθυρο θα είχε διαφορετικές πληροφορίες. Παράλληλα χρησιμοποίησα το ytfzf για αναπαραγωγή βίντεο από YouTube
 
 |Σελίδα | Link |
 | --- | ----------|
 | Asciinema  | [link](https://asciinema.org/a/461367?fbclid=IwAR0wwetfDvcYMxFWH-_zZuJDXa0xW7_ZGpZ79gkrmedN-0iV2PjDSF1v-Zw)  |
+| Script | [code](https://github.com/mariosconsta/shell-scripting/blob/main/Scripts/tmux.sh) |
+
+#### Script:
+
+[![asciicast](https://asciinema.org/a/464464.svg)](https://asciinema.org/a/464464)
 
 ### Δυσκολίες
 
@@ -381,12 +391,16 @@ To 1972 ήταν η χρονιά που κυκλοφόρησε το Pong της 
 | weather.sh | [link](https://github.com/mariosconsta/shell-scripting/blob/main/Scripts/weather.sh) |
 | youtube.sh | [link](https://github.com/mariosconsta/shell-scripting/blob/main/Scripts/youtube.sh) |
 
+#### Weather Script:
+[![asciicast](https://asciinema.org/a/464451.svg)](https://asciinema.org/a/464451)
+
 ---
 
 ## Ομαδικότητα 
 
 |Discussion | Link |
 | --- | ----------|
+| Διάδραση ανθρώπου / υπολογιστή, με… πλέξιμο; #1728 | [link](https://github.com/courses-ionio/hci/discussions/1728) |
 | Π2020231 #1711 | [link](https://github.com/courses-ionio/hci/pull/1711)|
 | Netlify και submodules #1705 | [link](https://github.com/courses-ionio/hci/discussions/1705)|
 | Pull Request - 2019135  | [link](https://github.com/courses-ionio/hci/pull/1683)|
