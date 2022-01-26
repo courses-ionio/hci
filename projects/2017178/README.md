@@ -51,17 +51,19 @@ Memory: 349MiB / 3825MiB
 
 # 2ο Παραδοτέο
 ## download mp3	
-<a href="https://asciinema.org/a/n9lsPiXphhjDnudWyvutNekn5" target="_blank"><img src="https://asciinema.org/a/n9lsPiXphhjDnudWyvutNekn5.svg" /></a>
+<a href="https://asciinema.org/a/n9lsPiXphhjDnudWyvutNekn5" target="_blank"><img src="https://asciinema.org/a/n9lsPiXphhjDnudWyvutNekn5.svg" /></a> 
 Ακολουθήθηκαν οι οδηγίες εγκατάστασης του youtube-dl ενώ το mpv εγκαταστήθηκε με apt install mpv. Στη συνέχεια κατέβασα 4 τραγούδια, τα έβαλα σε μία λίστα και ξεκίνησα την αναπαραγωγή.
 
 # 3ο Παραδοτέο
 ## edit the vim or the shell configuration file	
 <a href="https://asciinema.org/a/q966WzMSFBxUh6ImWes9TgFQl" target="_blank"><img src="https://asciinema.org/a/q966WzMSFBxUh6ImWes9TgFQl.svg" /></a>
+
 Syntax highlighting, numbered lines και colour scheme "morning"  στο vim .
 
 # 4ο Παραδοτέο
 ## organize your notes with emacs
-[![asciicast](https://asciinema.org/a/VgwT44ogNoEud3ZMg2hI63SwV.svg)](https://asciinema.org/a/VgwT44ogNoEud3ZMg2hI63SwV)
+[![asciicast](https://asciinema.org/a/VgwT44ogNoEud3ZMg2hI63SwV.svg)](https://asciinema.org/a/VgwT44ogNoEud3ZMg2hI63SwV) 
+
 Using emacs's org mode to enable highlighting and other handy functionality for writing notes
 
 # Α1: Προσθήκη 2 εικόνων 
