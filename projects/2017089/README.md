@@ -46,19 +46,42 @@
 | --- |
 [md link](https://github.com/p17mari/_gallery/blob/master/Leafpad.md)
 | --- |
-# Συμμετοχικό περιεχόμενο: Β1 και Β2
-Βιβλιογραφία
 
-Seymour Papert
-[md](https://github.com/p17mari/site/blob/master/_biography/seymour-papert.md)
 
 # Άσκηση γραμμής εντολών: Warmup Youtube Download
-Αρχικά 
-[download mp3](https://asciinema.org/a/463720)
-# Άσκηση γραμμής εντολών: Warmup check the weather
+Aναζητήστε, κατεβάστε και παίξτε (με το τερματικό) το αγαπημένο σας τραγούδι του μήνα από το youtube. Κατέβασα το πακέτο του youtbe-dtl και το mpv player με την εντολή pacman youtube-dtl mpv. Η λήψη του αρχείου με την αναζήτηση ytsearch και την λέξη κλειδί που επιλέγεις ήταν εύκολη. Είχα μια μικρή δυσκολία με το format του αρχείου δεν είχα συνηδειτοποιήσει ότι το mpv δεν δέχεται mp4 αρχεία. Όταν το διόρθωσα το αρχείο έπαιζε κανονικά.
+![image](https://user-images.githubusercontent.com/43947917/151203784-d2bc0055-5ebd-44d6-8d4d-f18614a282d3.png)
 
+[download mp3](https://asciinema.org/a/463720)
+
+
+# Συμμετοχικό περιεχόμενο: Β1 και Β2
+## Βιβλιογραφία Seymour Papert
+![Seymour_Papert](https://user-images.githubusercontent.com/43947917/151183355-a2331a2f-a925-4d7b-9751-72fc4ccbb6a5.jpg)
+
+"Ο Seymour Papert ταν ένας από τους κύριους της πρωτοβουλίας One Laptop Per Child για την κατασκευή και τη διανομή του The Children's Machine σε αναπτυσσόμενες χώρες. Πάνω στην ανάλυση της θεωρίας του εποικοδομιτισμού βασίστηκε ο Alan Kay κατασκευάζοντας το Dynabook"
+
+categories:
+  - Βιογραφία 
+  - Ορισμός 
+tags:
+  - Seymour Papert
+  - Alan Kay
+  - Dynabook
+
+
+[md link](https://github.com/p17mari/site/blob/master/_biography/seymour-papert.md)
+
+# Άσκηση γραμμής εντολών: Warmup check the weather
+Λάβετε την πρόγνωση του καιρού για την πόλη σας και μια ακόμη πόλη στην οποία θέλετε να πάτε. Έλενξα τον καιρό στην Αθήνα και την Κέρκυρα. Είδα επίσης τον αριθμό της σεληνιακής φάσης, ποσοστά υγρασίας και ημερίσια πρόγνωση πέρα απο την εβδομαδιαία. 
+![image](https://user-images.githubusercontent.com/43947917/151201790-4d91de92-1446-40b8-8508-d962dbfd93b2.png)
 [check the weather](https://asciinema.org/a/463741)
+
 # Άσκηση γραμμής εντολών: Warmup fetch information
+Διαβάστε τα business news. Πέρα από άρθρα επιχειρηματικά έκανα και έλεγχο για άρθρα σχετικά με covid καθώς και κάποιες επιπλέον εντολές που είχε στο αντίστοιχο άρθρο στο github. Έλενξα να δώ αν έχει διαθέσιμα άρθρα και σε άλλες θεματικές περιοχές με άλλες λέξεις κλειδιά.
+
+![image](https://user-images.githubusercontent.com/43947917/151202835-bc9f4c91-c5b0-494a-aeeb-37c454cbb8c9.png)
+
 Fetch Information[part one](https://asciinema.org/a/463738), [part two](https://asciinema.org/a/463742)
 
-[vim cv](https://asciinema.org/a/463728)
+
