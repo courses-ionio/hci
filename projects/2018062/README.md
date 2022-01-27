@@ -98,7 +98,7 @@
 - 16:9
 - Refresh rate 60Hz, DC dimmer
 
-![Neofetch](neofetch.png)
+![Neofetch](https://raw.githubusercontent.com/stovag/hci/P2018062/projects/2018062/neofetch.png)
 
 # 4ο Παραδοτέο - Συμμετοχικό Περιεχόμενο Α1
 <br>
