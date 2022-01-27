@@ -124,6 +124,7 @@ Discord
 - https://github.com/courses-ionio/hci/pull/1700#issuecomment-1022665617
 - https://github.com/courses-ionio/hci/pull/1707#issuecomment-1023096055
 - https://github.com/courses-ionio/hci/pull/1724#issuecomment-1023102998
+- https://github.com/courses-ionio/hci/pull/1727#issuecomment-1023109137
 
 
 
