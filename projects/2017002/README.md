@@ -114,6 +114,16 @@ Discord
 [Mastering Git Submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407)
 
 
+### Ομαδικότητα 
+Τα παρακάτω link αποτελούν ορισμένους σχολιασμούς για την καλύτερη διαμόρφωση των τελικών αναφορών συμφοιτητών σύμφωνα με τις ανακοινώσεις και τα ζητούμενα του μαθήματος
+
+
+- https://github.com/courses-ionio/hci/pull/1730#issuecomment-1022662239
+- https://github.com/courses-ionio/hci/pull/1733#issuecomment-1023092081
+- https://github.com/courses-ionio/hci/pull/1699#issuecomment-1022667805
+- https://github.com/courses-ionio/hci/pull/1700#issuecomment-1022665617
+- https://github.com/courses-ionio/hci/pull/1707#issuecomment-1023096055
+- https://github.com/courses-ionio/hci/pull/1724#issuecomment-1023102998
 
 
 
