@@ -13,7 +13,7 @@
 | Εβδομάδα* | Παραδοτέο | Αξιολοόγηση |
 | --- | --- | --- |
 | 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα ](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-1)| Εξοικείωση με αρχεία τύπου md |
-| 2 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2) |
+| 2 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2) | Πρώτη επαφή με λειτούργικό linux και συγκεκριμένα arch |
 | 3 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-3) |
 | 4 | [συμμετοχικό περιεχόμενο 1A](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-4) |
 | 5 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-5) |
