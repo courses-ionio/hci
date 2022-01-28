@@ -45,7 +45,7 @@
 Ο στόχος της εργασίας είναι να ενημερωθούμε για την πρόγνωση του καιρού για την πόλη καταγωγής μας και μιας ακόμη πόλης στην οποία θα θέλαμε να ταξιδέψουμε.
 
 
-<h2><span id="fetch the weather forecast for your home city and one more city that you want to travel to.">Fetch the weather forecast for your home city and one more city that you want to travel to.</span></h2>
+<h2><span id="fetch the weather forecast for your home city and one more city that you want to travel to".></span></h2>
 
 Σύνδεσμος: [asciinema](https://asciinema.org/a/385449)
 
@@ -68,7 +68,7 @@
 
 Ο στόχος της εργασίας είναι να αλλάξουμε τη γραμμή εντολών με τον αριθμό μητρώου μας, να καταχωρίσουμε τα αρχεία μας, να εμφανίσουμε το αρχείο shell configuration  και να εμφανίσουμε πληροφορίες συστήματος (υλικό + λογισμικό).
 
-<h2><span id="change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).">Change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software).</span></h2>
+<h2><span id="change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software)."></span></h2>
 
 Σύνδεσμος: [asciinema](https://asciinema.org/a/385447)
 
@@ -90,7 +90,7 @@
 
 Ο στόχος της εργασίας είναι να εξοικειωθούμε με το πρόγραμμα επεξεργασίας κειμένου και με τις προσθήκες για επισήμανση του κώδικα και αυτόματη συμπλήρωση.
 
-<h2><span id="text editor and plug-ins for code highlighting and autocompletion.">Τext editor and plug-ins for code highlighting and autocompletion.</span></h2>
+<h2><span id="text editor and plug-ins for code highlighting and autocompletion."></span></h2>
 
 Σύνδεσμος: [asciinema](https://asciinema.org/a/385452)
 
@@ -109,7 +109,7 @@
 
 Ο στόχος της εργασίας είναι να διαμορφώσουμε το περιβάλλον του προγράμματος περιήγησης στο τερματικό πρόγραμμα περιήγησης.
 
-<h2><span id="browse popular web sites through the terminal.">Browse popular web sites through the terminal.</span></h2>
+<h2><span id="browse popular web sites through the terminal."></span></h2>
 
 Σύνδεσμος: [asciinema](https://asciinema.org/a/383771)
 
