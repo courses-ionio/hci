@@ -4,6 +4,8 @@
 
 <h4>ΑΜ: Π2013021</h4>
 
+<h4>Github profile: https://github.com/AlexandrosV20 </h4>
+
 <h4>Netlify: https://alexandrosv20.netlify.app/ </h4>
 
 <h4>Αποθετήριο site: https://github.com/AlexandrosV20/site </h4>
@@ -29,7 +31,7 @@
 | 4 |<sup><a href="#4"> Συμμετοχικό περιεχόμενο 1A - Επιλογή θέματος Atari 2600 Joystick και 5 chordes keyset | Έγκυρο commit καθώς οι επιλογές των θεμάτων αυτών έγιναν με προσοχή και μετά απο μελέτη του ήδη υπάρχοντως υλικού, **100% COMPLETED** |
 | 5 |<sup><a href="#5"> Άσκηση γραμμής εντολών - Εύρεση χαρακτηριστικών του συστήματος με τις εντολές journalctl και neofetch| Έγκυρο commit απλά θα ήθελα με την εντολή journalctl να καταφέρω να εμφανίσω μικρότερη λίστα,  **100% COMPLETED** |
 | 6 |<sup><a href="#6"> Συμμετοχικό περιεχόμενο 2A - Δημιουργία timeline και slides για τα θέματα του Α1| Έγκυρο commit, **100% COMPLETED** |
-| 7 |<sup><a href="#7">Άσκηση γραμμής εντολών - Search, download and play (with the terminal) your favorite song| Έγκυρο commit και κατάφερα να το πάω και ένα βήμα παραπέρα με την μετακίνηση και μετονομασία του mp3 αρχείου στον σωστό φάκελο ωστόσο δεν κατάφερα να το κάνω με scritp αυτό,  **100% COMPLETED** |
+| 7 |<sup><a href="#7">Άσκηση γραμμής εντολών - Search, download and play (with the terminal) your favorite song| Έγκυρο commit και κατάφερα να το πάω και ένα βήμα παραπέρα με την μετακίνηση και μετονομασία του mp3 αρχείου στον σωστό φάκελο ωστόσο δεν κατάφερα να το κάνω με script αυτό,  **100% COMPLETED** |
 | 8 |<sup><a href="#8"> Συμμετοχικό περιεχόμενο 1B - Επιλογή του Stanford Research Institute ως μελέτη περίτπωσης | Έγκυρο commit, **100% COMPLETED** |
 | 9 |<sup><a href="#9">Άσκηση γραμμής εντολών - Text editor and plug-ins for code highlighting and autocompletion| Έγκυρο commit ωστόσο η προσπάθεια μου για την εγκατάσταση του plugin "youcompleteme" μέσω του Vundle plugin manager δεν κατέστη δυνατή μετά απο αδυναμία εγκατάστασης ορισμένων πακέτων. Έγινε όμως η κατάλληλη τροποποίηση στο .vimrc, **100% COMPLETED** |
 | 10 |<sup><a href="#10">Συμμετοχικό περιεχόμενο 2B - Επιλογή βιογραφίας του Steve Bristow, δημιουργού του Atari 2600 joystick | Έγκυρο commit, **100% COMPLETED** |
