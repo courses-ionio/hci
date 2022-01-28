@@ -12,7 +12,7 @@
 
 ## Site repository: [thanosks/site](https://github.com/thanosks/site/tree/2020150)
 
-## My Discussion [Link](https://github.com/courses-ionio/hci/discussions/1705)
+## Ομαδικότητα [My Discussion](https://github.com/courses-ionio/hci/discussions/1705)
 
 ## Πίνακας με σύνοψη των παραδοτέων
 
