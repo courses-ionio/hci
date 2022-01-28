@@ -3,8 +3,8 @@
 
 ### Ονοματεπώνυμο: Μανδραβέλης Αχιλλέας 
 ### Αριθμός Μητρώου: Π2017002
-##### GitHub Profile: [axilleasmandravelis] (https://github.com/axilleasmandravelis)
-##### Site Repository: [axilleasmandravelis/site] (https://github.com/axilleasmandravelis/site)
+##### GitHub Profile: [axilleasmandravelis](https://github.com/axilleasmandravelis)
+##### Site Repository: [axilleasmandravelis/site](https://github.com/axilleasmandravelis/site)
 
 | Εβδομάδα* | Παραδοτέο | Σύντομη αυτοαξιολόγιση |
 | --- | --- | --- |
