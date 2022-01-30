@@ -10,13 +10,13 @@
 | 1 | [Εισαγωγή](#εισαγωγή) | Εξοικίωση με την [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) |
 | 2 | [Άσκηση γραμμής εντολών](#1ο-παραδοτέο) | Πρώτη επαφή με arch, πρώτη επαφή με τερματικό | [Arch Installation](https://www.youtube.com/watch?v=4PBqpX0_UOc), [neofetch](https://github.com/dylanaraps/neofetch) |
 | 3 | [Άσκηση γραμμής εντολών](#2ο-παραδοτέο) | Γνωριμία με τα pipelines και άλλες βασικές εντολές τερματικού χάρη στο παρακάτω [tutorial](https://askubuntu.com/questions/686702/how-to-make-a-playlist-from-a-directory-of-mp3-files)
-| 4 | [συμμετοχικό περιεχόμενο 1A](#α1-προσθήκη-2-εικόνων) | Πρώτη συμμετοχή σε project τέτοιας κλίμακας, εξοικίωση με git, submodules, netlify | [Submodule Manipulation](https://devconnected.com/how-to-add-and-update-git-submodules/)
-| 5 | [συμμετοχικό περιεχόμενο 2A](#a2-δημιουργία-ενος-χρονολογίου-και-ενός-σετ-διαφανειών) | Επιπλέον εξοικίωση με το συγκεκριμένο project
+| 4 | [συμμετοχικό περιεχόμενο A1](#α1-προσθήκη-2-εικόνων) | Πρώτη συμμετοχή σε project τέτοιας κλίμακας, εξοικίωση με git, submodules, netlify | [Submodule Manipulation](https://devconnected.com/how-to-add-and-update-git-submodules/)
+| 5 | [συμμετοχικό περιεχόμενο A2](#a2-δημιουργία-ενος-χρονολογίου-και-ενός-σετ-διαφανειών) | Επιπλέον εξοικίωση με το συγκεκριμένο project
 | 6 | [Άσκηση γραμμής εντολών](#3ο-παραδοτέο) | Εξοικίωση με νέους text editors, επαφή με νέους τρόπους configuration εφαρμογών | [Vim config tutorial](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/)
 | 7 | [Άσκηση γραμμής εντολών](#4ο-παραδοτέο) | Περαιτέρω εξοικίωση με το τερματικό, χρήση νέου text editor |[Emacs Installation](https://orgmode.org/manual/Installation.html)
-| 8 | [συμμετοχικό περιεχόμενο 1B](#b1--συγγραφή-βιογραφικού) | αντιμετώπιση προβλημάτων μέσω του git, επιπλέον γνώσεις πάνω στο αντικείμενο του AR
+| 8 | [συμμετοχικό περιεχόμενο B1](#b1--συγγραφή-βιογραφικού) | αντιμετώπιση προβλημάτων μέσω του git, επιπλέον γνώσεις πάνω στο αντικείμενο του AR
 | 9 | Άσκηση γραμμής εντολών |
-| 10 | [συμμετοχικό περιεχόμενο 2B](#β2-συγγραφή-βιογραφικού) | 
+| 10 | [συμμετοχικό περιεχόμενο B2](#β2--συγγραφή-μελέτης-περίπτωσης) | 
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](#τελική-αναφορά) | Ικανοποίηση στόχων |
 | 13 | [Συμμετοχή στα discussions](#συμμετοχή-στο-github)
@@ -116,7 +116,7 @@ Images
 - Το αρχείο του submodule [εδώ](https://github.com/p17simt/extras/blob/master/bio-kipman.md)
 - Και τέλος τη φωτογραφία του Kipman [εδώ](https://github.com/p17simt/images/blob/master/alex-kipman.jpg)
 
-# Β1 : Συγγραφή μελέτης περίπτωσης
+# Β2 : Συγγραφή μελέτης περίπτωσης
 Έχοντας ακούσει αρκετές φορές για το πληκτρολόγιο dvorak, αποφάσισα για τις ανάγκες του μαθήματος να μελετήσω το Dvorak και τον λόγο για τον οποίο δημιουργήθηκε. Βασική πηγή πληροφόρησης αποτέλεσε το https://dvorak-keyboard.com. Η χρήση των submodule για το παραδοτέο ήταν ήδη γνωστή απο προηγούμενα παραδοτέα, έτσι η διαδικασία ήταν εύκολη. Λόγω αλλαγών στο `_bibliography` το site δεν έκανε build, έτσι το εγκατέστησα ως submodule και κάνοντας `git reset HEAD --hard` χωρίς ωστόσο να το χρησιμοποιήσω στην εργασία.
 - Η μελέτη περίπτωσης [εδώ](https://elegant-goldstine-b4ac31.netlify.app//case-study/dvorak/)
 - Το αρχείο που βρίσκεται στο `_case-study/` [εδώ](https://github.com/p17simt/site/blob/master/_case-study/dvorak.md)
