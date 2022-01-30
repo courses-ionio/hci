@@ -23,8 +23,7 @@
 | 9 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-5) | Scripting |
 | 10 | [συμμετοχικό περιεχόμενο 2B](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-2%CE%B2) | Biography, Video Games |
 | 11 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-6) | Customization, Configuration
-| 12 | [Ομαδικότητα](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#o%CE%BC%CE%B1%CE%B4%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1) | 1 Repply |
-| 13 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC-%CE%BA%CE%B1%CE%B9-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CE%B3%CE%B9%CE%B1-%CE%B2%CE%B1%CE%B8%CE%BC%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7) |
+| 12 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC-%CE%BA%CE%B1%CE%B9-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CE%B3%CE%B9%CE%B1-%CE%B2%CE%B1%CE%B8%CE%BC%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7) | Ομαδικότητα: 1 Repply |
 
 ## Οι προσδοκίες μου απο το μάθημα και τις εργασίες
 
@@ -120,12 +119,12 @@ source: [si.edu](https://www.si.edu/spotlight/the-father-of-the-video-game-the-r
 
 <a href="https://asciinema.org/a/462650" target="_blank"><img src="https://asciinema.org/a/462650.svg" width=480/></a>
 
-## Oμαδικότητα
-
-[arcg firefox + gui](https://github.com/courses-ionio/hci/discussions/1628)
-
 ## Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση
 
 Έχοντας φτάσει στο τέλος του μαθήματος, έχω μαζέψει αρκετές εμπειρίες μέσω των εργασιών και της ενασχόλησης μου με τα Arch Linux. Αυτή ήταν η πρώτη μου εκτενής επαφή με ένα linux distribution. Μπορώ να πω πως, αν και ήμουν διστακτικός στην αρχή, πλέον υπάρχουν κάποια πράγματα που εκτιμώ για τα linux συστήματα, όπως, ο απόλυτος έλεγχος του λειτουργικού, οι αμέτρητες επιλογές εξατομίκευσης και η απλότητα της χρήσης του terminal για ορισμένες λειτουργίες. Επίσης τα arch linux ήταν μια αφορμή για να δοκιμάσω και άλλα linux distributions, γραφικά περιβάλλοντα και window managers. Έτσι μπορώ να πω πλέον πως έχω μια πολύ καλύτερη άποψη για τα λειτουργικά συστήματα και τις διεπαφές χρήστη. Η ενασχόληση μου με το μάθημα με βοήθησε δίνοντας μου βασικά ερεθίσματα για το αντικείμενο της Αλληλεπίδρασης Ανθρώπου Υπολογιστή, ώστε να μπορώ να αναζητήσω μόνος μου περεταίρω πληροφορίες για πιο συγκεκριμένα πράγματα που με ενδιαφέρουν.
 Οι γνώσεις που απέκτησα θα μου είναι αρκετά χρήσιμες αφού είναι κοντά στα αντικείμενα που με ενδιαφέρουν, όπως, UX-UI Design, Web & Game Development.
+
+### Oμαδικότητα
+
+[arcg firefox + gui](https://github.com/courses-ionio/hci/discussions/1628)
 
