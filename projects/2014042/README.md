@@ -5,21 +5,21 @@
 ### GitHub Profile: [Sola1r3](https://github.com/Sola1r3)
 <br />
 
-| Εβδομάδα* | Παραδοτέο |
-| --- | --- |
-| 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα](#εισαγωγή) |
-| 2 | [Άσκηση γραμμής εντολών](#παραδοτέο-2-εγατάσταση-των-archlinux-και-εντοπισμός-χαρακτηριστικών-υλικού) |
-| 3 | [Άσκηση γραμμής εντολών](#παραδοτέο-3-warmup-1) |
-| 4 | [Συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4-συμμετοχικό-περιεχόμενο-1α) |
-| 5 | [Άσκηση γραμμής εντολών](#παραδοτέο-5-warmup-2) |
-| 6 | [Συμμετοχικό περιεχόμενο 2A](#παραδοτέο-6-συμμετοχικό-περιεχόμενο-2a) |
-| 7 | [Άσκηση γραμμής εντολών](#παραδοτέο-7-άσκηση-γραμμής-εντολών-download-mp3) |
-| 8 | [Συμμετοχικό περιεχόμενο 1B](#παραδοτέο-8-συμμετοχικό-περιεχόμενο-1β) |
-| 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9-άσκηση-γραμμής-εντολών-emacs-org-mode) |
-| 10 | [Συμμετοχικό περιεχόμενο 2B](#παραδοτέο-10-συμμετοχικό-περιεχόμενο-2β) |
-| 11 | [Άσκηση γραμμής εντολών](#παραδοτέο-9-άσκηση-γραμμής-εντολών-emacs-org-mode) |
-| 12 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](#επίλογος) |
-| - | [Ομαδικότητα](#ομαδικότητα) |
+| Εβδομάδα* | Παραδοτέο | Αυτοαξιολόγηση |
+| --- | --- | --- |
+| 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα](#εισαγωγή) | Ορισμός των αρχικών αναγκών και στόχων μου. |
+| 2 | [Άσκηση γραμμής εντολών](#παραδοτέο-2-εγατάσταση-των-archlinux-και-εντοπισμός-χαρακτηριστικών-υλικού) | Πρώτη γεύση από Linux μέσα από μια πολύ επίμονη και υπομονετική διαδικασία με μεγαλύτερο ώφελος την γέννηση πιο έντονου ενδιαφέροντος για το μάθημα.|
+| 3 | [Άσκηση γραμμής εντολών](#παραδοτέο-3-warmup-1) | Εξερεύνηση δυνατοτήτων μέσω γραμμής εντολών ώστε να υπάρχει μεγαλύτερη εξοικείωση. |
+| 4 | [Συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4-συμμετοχικό-περιεχόμενο-1α) | Έρευνα για θέματα HCI με αποτέλεσμα την καλύτερη κατανόηση της θεματολογίας του μαθήματος. |
+| 5 | [Άσκηση γραμμής εντολών](#παραδοτέο-5-warmup-2) | Επιπλέον ενδεικτική ενασχόληση με γραμμή εντολών. |
+| 6 | [Συμμετοχικό περιεχόμενο 2A](#παραδοτέο-6-συμμετοχικό-περιεχόμενο-2a) | Βαθύτερη έρευνα σε κατηγορίες των εικόνων από το 1Α, ακόμη μεγαλύτερη εξοικείωση με την έννοια του μαθήματος. |
+| 7 | [Άσκηση γραμμής εντολών](#παραδοτέο-7-άσκηση-γραμμής-εντολών-download-mp3) | Πολύ ενδιαφέρον και χρήσιμο εργαλείο για καθημερινή χρήση. |
+| 8 | [Συμμετοχικό περιεχόμενο 1B](#παραδοτέο-8-συμμετοχικό-περιεχόμενο-1β) | Case study σε videogames industry, έμαθα παραπάνω για την ιστορία αυτού του μέσου σε σχέση με την διάδραση. |
+| 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9-άσκηση-γραμμής-εντολών-emacs-org-mode) | Το αγαπημένο μου κομμάτι από το μάθημα και κάτι που χρησιμοποιώ και με το πέρας του μαθήματος καθώς έχω μεταφέρει λίστες μου εκεί. |
+| 10 | [Συμμετοχικό περιεχόμενο 2B](#παραδοτέο-10-συμμετοχικό-περιεχόμενο-2β) | Βιογραφία μέσω της οποίας έμαθα για τον Shigeru Miyamoto, σημαντικό πρόσωπο στην διάδραστική ψυχαγωγία μέσω βιντεοπαιχνιδιών. |
+| 11 | [Άσκηση γραμμής εντολών](#παραδοτέο-9-άσκηση-γραμμής-εντολών-emacs-org-mode) | |
+| 12 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](#επίλογος) | Επίτευξη των αρχικών μου στόχων και τελικός απολογισμός των πραγμάτων που κέρδισα από το μάθημα. |
+| - | [Ομαδικότητα](#ομαδικότητα) | Συνεισφορά μου στην κοινότητα του μαθήματος, προσπάθησα να είναι ουσιαστική και μένω ικανοποιημένος από αυτήν. |
 <br />
 
 # Εισαγωγή
@@ -42,9 +42,10 @@
 
 Έπειτα από αρκετή προσπάθεια κατάφερα να εγκαταστήσω το ArchLinux στο USB.  Έκανα εγκατάσταση wi-fi δικτύου και δημιούργησα mirrorlist ώστε να μπορώ αργότερα να κάνω λήψη των packages που επιθυμώ. Δημιούργησα τα κατάλληλα partitions GPT, ένα EFI και ένα ROOT partition και τα έκανα format και mount. Μετά από αυτή την διαδικασία, κατέβασα τα απαραίτητα linux packages και για text editor το vim, και αργότερα προχώρησα στην διαδικασία εγκατάστασης όπου και εγκατέστησα grub για bootloader, στοιχείο απαραίτητο για την λειτουργία του λειτουργικού συστήματος και πριν κάνω reboot όρισα username και password ολοκληρώνοντας έτσι την βασική εγκατάσταση. Παρακάτω φαίνονται πληροφορίες του συστήματος και του υλικού μέσω του εργαλείου Screenfetch.
 
-Asciinema Link
+Asciinema Links:
 
 [Screenfetch](https://asciinema.org/a/444582)
+
 [Journalctl](https://asciinema.org/a/447567)
 
 <br />
@@ -80,12 +81,12 @@ Asciinema Links
 
 Για το πρώτο παραδοτέο συμμετοχικού περιεχομένου η πρώτη εικόνα που επέλεξα είναι ο υπολογιστής της Apple, ο Apple III ο οποίος σχεδιάστηκε με κύριο γνώμονα τους επαγγελματίες και τις επιχειρήσεις που κάναν χρήση υπολογιστών και χαρακτηρίστηκε από την ίδια την Apple ως αποτυχία. Ενώ η δεύτερη εικόνα που επέλεξα είναι η πρώτη μηχανή Arcade ονόματι Computer Space, οι δημιουργοί της οποίας αργότερα ιδρύσανε την Atari.
 
-| Περιγραφή | Repository Σύνδεσμος | Netlify Σύνδεσμος |
-| --- | --- | --- |
-| Images Apple III | [Κανονική Εικόνας](https://github.com/Sola1r3/images/blob/master/apple3.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/apple3-thumb.jpg) | |
-| Gallery Apple III | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/apple3.md) | |
-| Images Computer Space | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/computer-space.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/computer-space-thumb.jpg) | |
-| Gallery Computer Space | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/computer-space.md) | |
+| Περιγραφή | Repository Σύνδεσμος |
+| --- | --- |
+| Images Apple III | [Κανονική Εικόνας](https://github.com/Sola1r3/images/blob/master/apple3.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/apple3-thumb.jpg) |
+| Gallery Apple III | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/apple3.md) |
+| Images Computer Space | [Κανονική Εικόνα](https://github.com/Sola1r3/images/blob/master/computer-space.jpg) Και [Thumbnail](https://github.com/Sola1r3/images/blob/master/computer-space-thumb.jpg) |
+| Gallery Computer Space | [Στοιχεία Εικόνας](https://github.com/Sola1r3/_gallery/blob/master/computer-space.md) |
 
 <br />
 
@@ -95,6 +96,10 @@ Asciinema Links
 ### Προβλήματα που συνάντησα
 
 Κατά την δημιουργία submodules, μου πήρε αρκετό χρόνο να κατανοήσω τι πρέπει να κάνω και αυτό οφείλεται παραπάνω σε λάθη πρωτάρη, με αποτέλεσμα να κάνω πολλά back and forth. Αρχικά οταν προσπαθούσα να κάνω το πρώτο μου git push δεν είχα κάνει σωστά generate token το οποίο δεν έχει δικαίωμα να τροποποιήσει τα repos μου. Παράλληλα προσπαθούσα να κάνω submodules χωρις να εχω δει τα asciinema του μαθήματος για τα submodules. Το μεγαλύτερο λάθος μου, ωστόσο παράλληλα εξαιτίας αυτού του λάθους ασχολήθηκα πολύ πιο βαθυά με το git και έψαξα πράγματα σε σχέση με αυτό που ειδάλλως δεν θα κοίταγα. Όταν έσβηνα τα υπάρχοντα submodules έκανα απλα rm -rf gallery και έπειτα εκτελούσα την εντολή git submodule add πράγμα που φυσικά δεν λειτουργούσε καθώς υπήρχε στο index το gallery. Έπειτα δοκίμασα να κάνω rm -rf το gitmodules και μετά touch gitmodules πράγμα που δούλεψε και μου επέτρεψε να κάνω νέα submodules, commit και push. Φυσικά όμως κάτι τέτοιο δεν δούλευε στο netlify. Δοκίμασα και άλλα πολλά ανορθόδοξα tactics ώσπου κάποια στιγμή σκέφτηκα να ξανακοιτάξω τα asciinema του μαθήματος ώπου και λύθηκαν όλα μου τα προβλήματα.
+
+Τελικά δεν κατάφερα ωστόσο να κάνω το netlify να λειτουργήσει σωστά και δεν έχω κατανοήσει ακόμα για ποιο λόγο συμβαίνει αυτό. Παρακάτω το λινκ για την ιστοσελίδα μου στο netlify. 
+
+[Netlify](https://epic-benz-3c0dd2.netlify.app/)
 
 <br />
 
@@ -112,10 +117,10 @@ Asciinema Links
 
 Το σετ διαφανειών μου έχει ως θεματολογία τα βιντεοπαιχνίδια σχετιζόμενη άρρηκτα με το Computer Space που θα μπορούσα για πολλούς λόγους να θεωρηθεί αφετηρία αυτού του τύπου διάδρασης με λογισμικό, ενώ ως timeline τα συστήματα της Apple που είναι πλάι στην ιστορία της εξέλιξης της διάδρασης και της διεπαφής ανθρώπων με υπολογιστές τόσο στις αρχές της όσο και στο παρόν.
 
-| Περιγραφή | Repository Σύνδεσμος | Netlify Σύνδεσμος |
-| --- | --- | --- |
-| Slides | [Βιντεοπαιχνίδια (Slides)](https://github.com/Sola1r3/site/blob/master/_slides/videogames.md) | |
-| Timeline | [Η εξέλιξη των συστημάτων της Apple (Timeline)](https://github.com/Sola1r3/site/blob/master/_timeline/apple.md) | |
+| Περιγραφή | Repository Σύνδεσμος |
+| --- | --- |
+| Slides | [Βιντεοπαιχνίδια (Slides)](https://github.com/Sola1r3/site/blob/master/_slides/videogames.md) |
+| Timeline | [Η εξέλιξη των συστημάτων της Apple (Timeline)](https://github.com/Sola1r3/site/blob/master/_timeline/apple.md) |
 
 <br />
 
@@ -139,9 +144,9 @@ Asciinema Links
 
 Για την μελέτη περίπτωσης επέλεξα να ασχοληθώ με την φιλοσοφία του σχεδιασμού της Apple με ότι έχει να κάνει με την διάδραση μεταξύ ανθρώπου και υπολογιστή. 
 
-| Περιγραφή | Repository Σύνδεσμος | Netlify Σύνδεσμος |
-| --- | --- | --- |
-| Το πρώτο Arcade | [first-arcade.md](https://github.com/Sola1r3/site/blob/master/_case-study/first-arcade.md) + [cs-first-arcade.md](https://github.com/Sola1r3/site/blob/master/_includes/cs-first-arcade.md) | |
+| Περιγραφή | Repository Σύνδεσμος |
+| --- | --- |
+| Το πρώτο Arcade | [first-arcade.md](https://github.com/Sola1r3/site/blob/master/_case-study/first-arcade.md) + [cs-first-arcade.md](https://github.com/Sola1r3/site/blob/master/_includes/cs-first-arcade.md) |
 
 Πηγές: [The History of Arcade Machines from 1971](https://www.bespoke-arcades.co.uk/blog/early-arcade-history-1971), [Computer Space launched the video game industry 50 years ago](https://theconversation.com/computer-space-launched-the-video-game-industry-50-years-ago-heres-the-real-reason-you-probably-havent-heard-of-it-168349), [Before Pong, There Was Computer Space](https://thereader.mitpress.mit.edu/before-pong-there-was-computer-space/)[Why Pong scored so highly for Atari](https://www.theguardian.com/technology/2008/apr/17/games.atari), [The Sweet Pong of Success](https://www.technologyreview.com/2000/03/01/236409/the-sweet-pong-of-success/), [The First Gaming Console](https://www.computermuseumofamerica.org/2020/06/22/the-first-gaming-console/), [The 8 Generations of Video Game Consoles](https://www.bbc.co.uk/archive/the-8-generations-of-video-game-consoles/zvcjkty)[Nintendo's Wii is A Revolution](https://www.forbes.com/2006/11/13/wii-review-ps3-tech-media-cx_de_1113wii.html?sh=34840a4875bb)[The race to develop VR controls](https://www.polygon.com/a/the-race-for-vr/the-race-for-vr-controls)
 
@@ -174,9 +179,9 @@ Asciinema Links
 ## Παραδοτέο 10: Συμμετοχικό Περιεχόμενο 2Β
 
 
-| Περιγραφή | Repository Link | Netlify Link |
-| --- | --- | --- |
-| Σύντομη βιογραφία του Shigeru Miyamoto | [shigeru-miyamoto.md](https://github.com/Sola1r3/site/blob/master/_biography/shigeru-miyamoto.md) + [bio-miyamoto.md](https://github.com/Sola1r3/site/blob/master/_includes/bio-miyamoto.md) | [Σύντομη βιογραφία του Shigeru Miyamoto]() |
+| Περιγραφή | Repository Link |
+| --- | --- |
+| Σύντομη βιογραφία του Shigeru Miyamoto | [shigeru-miyamoto.md](https://github.com/Sola1r3/site/blob/master/_biography/shigeru-miyamoto.md) + [bio-miyamoto.md](https://github.com/Sola1r3/site/blob/master/_includes/bio-miyamoto.md) |
 
 Πηγές: [Shigeru Miyamoto Wants to Create a Kinder World](https://www.newyorker.com/culture/the-new-yorker-interview/shigeru-miyamoto-wants-to-create-a-kinder-world), [The Impact of Shigeru Miyamoto on the Game Design Industry](https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1019&context=art108)[Shigeru Miyamoto Explains What Prompted Nintendo To Pursue Motion Controls For The Wii](https://www.siliconera.com/shigeru-miyamoto-explains-prompted-nintendo-pursue-motion-controls-wii/) [Miyamoto wants Nintendo to revolutionize controllers… again](https://www.nintendoenthusiast.com/miyamoto-wants-nintendo-to-revolutionize-controllers-again/), [Video: '90s Interview With Miyamoto Reveals What He Thinks Makes His Games So Special] (https://www.nintendolife.com/news/2017/09/video_90s_interview_with_miyamoto_reveals_what_he_thinks_makes_his_games_so_special)
 
