@@ -95,4 +95,7 @@ categories:
 
 Fetch Information[part one](https://asciinema.org/a/463738), [part two](https://asciinema.org/a/463742)
 
-
+# Ομαδικότητα και Συνεργασία
+https://github.com/courses-ionio/hci/discussions/1738
+https://github.com/courses-ionio/hci/discussions/1739
+https://github.com/courses-ionio/hci/discussions/1631
