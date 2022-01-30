@@ -23,7 +23,7 @@
 | 9 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-5) | Scripting |
 | 10 | [συμμετοχικό περιεχόμενο 2B](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-2%CE%B2) | Biography, Video Games |
 | 11 | [Άσκηση γραμμής εντολών](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-6) | Customization, Configuration
-| 12 | [Ομαδικότητα]() | 1 Repply |
+| 12 | [Ομαδικότητα](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#o%CE%BC%CE%B1%CE%B4%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1) | 1 Repply |
 | 13 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](https://github.com/p16koub1/hci/blob/2016176/projects/2016176/README.md#%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC-%CE%BA%CE%B1%CE%B9-%CE%B1%CE%AF%CF%84%CE%B7%CE%BC%CE%B1-%CE%B5%CE%BD%CF%83%CF%89%CE%BC%CE%AC%CF%84%CF%89%CF%83%CE%B7%CF%82-%CE%B3%CE%B9%CE%B1-%CE%B2%CE%B1%CE%B8%CE%BC%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7) |
 
 ## Οι προσδοκίες μου απο το μάθημα και τις εργασίες
