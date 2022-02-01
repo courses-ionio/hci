@@ -337,6 +337,8 @@ To `mpsyt` είναι ένα αρκετά ευκολόχρηστο εργαλε�
     <img src="https://github.com/Tarakhs/HCISupp/blob/master/GIFs/downloader2.gif" width="1000" />
 </p>
 
+Το script είναι διαθέσιμο [εδώ](https://github.com/Tarakhs/HCISupp/blob/master/Scripts/youtube.sh)
+
 
 #### Εντολές / Εργαλεία / Πηγές
 
