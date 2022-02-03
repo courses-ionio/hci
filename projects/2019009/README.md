@@ -23,8 +23,8 @@
 | 9 | [use vim (or emacs) to write your cv in markdown, track multiple formats with git and convert it to docx, html with pandoc](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) | Έγκυρο commit, 100% COMPLETED.Αρχικα προσπαθησα να κανω την εργασια tmux search for file and display performance ωστοσο πριν απο τον τελικο ελεγχο διαπιστωσα οτι δεν χρησιμοποιησα και το glances και αποφασισα να κανω μια διαφορετικη την ασκηση με το pandoc,git και sed |
 | 10 | [συμμετοχικό περιεχόμενο 2B](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) | Έγκυρο commit, 100% COMPLETED|
 | 11 | [Emacs](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#emacs) | Έγκυρο commit, 100% COMPLETED|
-| 13 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-12-----%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%BF%CF%82) |Έγκυρο commit, 100% COMPLETED|
-| 12 | [Ομαδικοτητα](https://github.com/giannisbarlas1/hci/blob/p2019009/projects/2019009/README.md#%CE%BF%CE%BC%CE%B1%CE%B4%CE%B9%CE%BA%CE%BF%CF%84%CE%B7%CF%84%CE%B1-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B7) |Έγκυρο commit, 100% COMPLETED|
+| 12 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](https://github.com/giannisbarlas1/hci/tree/master/projects/2019009#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-12-----%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%BF%CF%82) |Έγκυρο commit, 100% COMPLETED|
+| 13 | [Ομαδικοτητα](https://github.com/giannisbarlas1/hci/blob/p2019009/projects/2019009/README.md#%CE%BF%CE%BC%CE%B1%CE%B4%CE%B9%CE%BA%CE%BF%CF%84%CE%B7%CF%84%CE%B1-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B7) |Έγκυρο commit, 100% COMPLETED|
 
 
 
