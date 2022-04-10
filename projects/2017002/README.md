@@ -66,7 +66,7 @@ Discord
 
 # 3ο Παραδοτέο
 ## Κάνω ενα καινούριο file και γράφω στο εσωτερικό.
-<a href="https://asciinema.org/a/462810" target="_blank"><img src="https://asciinema.org/a/462810.svg" /></a>
+<a href="https://asciinema.org/a/486062" target="_blank"><img src="https://asciinema.org/a/486062.svg" /></a>
 
 # Warm-up
 ## Φτιάχνω spreadsheet.
@@ -74,7 +74,7 @@ Discord
 
 # 4ο Παραδοτέο
 ## Δημιουργώ ένα αρχείο και γράφω μέσα με την χρήση του emacs
-<a href="https://asciinema.org/a/463649" target="_blank"><img src="https://asciinema.org/a/463649.svg" /></a>
+<a href="https://asciinema.org/a/486058" target="_blank"><img src="https://asciinema.org/a/486058.svg" /></a>
 
 # 1Β Συμμετοχικό υλικό
 ## Κάνω μια νέα μελέτη περίπτωσης
