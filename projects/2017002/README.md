@@ -58,11 +58,11 @@ Discord
 
 # 1ο Παραδοτέο
 ## Set-up the main dependencies and demonstrate your base system.
-<a href="https://asciinema.org/a/462795" target="_blank"><img src="https://asciinema.org/a/462795.svg" /></a>
+<a href="https://asciinema.org/a/486041" target="_blank"><img src="https://asciinema.org/a/486041.svg" /></a>
 
 # 2ο Παραδοτέο
 ## Κατεβάζω τραγούδι απο το youtube και το κάνω play.
-<a href="https://asciinema.org/a/462800" target="_blank"><img src="https://asciinema.org/a/462800.svg" /></a>
+<a href="https://asciinema.org/a/486054" target="_blank"><img src="https://asciinema.org/a/486054.svg" /></a>
 
 # 3ο Παραδοτέο
 ## Κάνω ενα καινούριο file και γράφω στο εσωτερικό.
