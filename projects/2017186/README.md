@@ -53,7 +53,7 @@
 
 | Περιγραφή | Repository Σύνδεσμος | Netlify Σύνδεσμος |
 | --- | --- | --- |
-| Εικόνες για το Υπολογιστικό Σύστημα NLS | [Κανονική Εικόνα](https://github.com/p17kost/images/blob/master/nls-computer-system.jpg) Και [Εικόνα Thumb](https://github.com/p17kost/images/blob/master/nls-computer-system-thumb.jpg) | |
+| Εικόνες για το Υπολογιστικό Σύστημα NLS | [Κανονική Εικόνα](https://github.com/p17kost/images/blob/master/nls-computer-system.jpg) Και [Εικόνα Thumb](https://github.com/p17kost/images/blob/master/nls-computer-system-thumb.jpg) | [Netlify](https://p17kost.netlify.app/gallery/nls-computer-system/) |
 | Gallery Υπολογιστικού Συστήματος NLS | [Στοιχεία Εικόνας](https://github.com/p17kost/_gallery/blob/master/nls-computer-system.md) | |
-| Εικόνες για το Βιντεοπαιχνίδι Space Travel | [Κανονική Εικόνα](https://github.com/p17kost/images/blob/master/space-travel.png) Και [Thumbnail](https://github.com/p17kost/images/blob/master/space-travel-thumb.png) | |
+| Εικόνες για το Βιντεοπαιχνίδι Space Travel | [Κανονική Εικόνα](https://github.com/p17kost/images/blob/master/space-travel.png) Και [Thumbnail](https://github.com/p17kost/images/blob/master/space-travel-thumb.png) | [Netlify](https://p17kost.netlify.app/gallery/space-travel/) |
 | Gallery Βιντεοπαιχνιδιού Space Travel | [Στοιχεία Εικόνας](https://github.com/p17kost/_gallery/blob/master/space-travel.md) | |
