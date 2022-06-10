@@ -37,3 +37,6 @@
 
 [Screenfetch Arch Linux](https://asciinema.org/a/500604)
 
+Έπειτα έγινε η επιλογή να εγκαταστήσω το dwm (Dynamic Window Manager). Η επιλογή έγινε με βάση το τι θα μ προσέφερε κάτι πιο κοντά στο πνεύμα του μαθήματος και σε μια διαφορετική μορφή διάδρασης. Το ωραίο με το dwm είναι το customizability που προσφέρει, επιτρέποντας σου εν ολίγοις την κατασκευή της δικιάς σου μορφής διάδρασης με τον υπολογιστή.
+
+![alt text](https://raw.githubusercontent.com/p17kost/personal/main/Peek%202022-06-10%2017-02.gif)
