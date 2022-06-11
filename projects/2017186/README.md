@@ -15,9 +15,9 @@
 | 5 | Άσκηση γραμμής εντολών | |
 | 6 | [Συμμετοχικό περιεχόμενο 2A](#παραδοτέο-6-συμμετοχικό-περιεχόμενο-2α) | |
 | 7 | Άσκηση γραμμής εντολών | |
-| 8 | Συμμετοχικό περιεχόμενο 1B | |
+| 8 | [Συμμετοχικό περιεχόμενο 1B](#παραδοτέο-8-συμμετοχικό-περιεχόμενο-1β) | |
 | 9 | Άσκηση γραμμής εντολών | |
-| 10 | Συμμετοχικό περιεχόμενο 2B | |
+| 10 | [Συμμετοχικό περιεχόμενο 2B](#παραδοτέο-10-συμμετοχικό-περιεχόμενο-2β) | |
 | 11 | Άσκηση γραμμής εντολών | |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση | |
 
@@ -68,3 +68,24 @@
 | --- | --- | --- |
 | Διαφάνειες | [ Συνεργατικά Συστήματα](https://github.com/p17kost/site/blob/master/_slides/collaboration.md) | [Netlify](https://p17kost.netlify.app/slides/collaboration/) |
 | Χρονολόγιο | [Βιντεοπαιχνίδια](https://github.com/p17kost/site/blob/master/_timeline/videogames.md) | [Netlify](https://p17kost.netlify.app/timeline/videogames/) |
+
+## Παρααδοτέο 8: Συμμετοχικό Περιεχόμενο 1Β
+
+Το `NLS` αποτελεί αναπόσπαστο κομμάτι της διάδρασης τόσο για τις καινοτομίες που εισάγει αλλά ακόμα παραπάνω για τον τρόπο σκέψης σε σχέση με το πως θα ήταν καλό να σχεδιάζεται η διάδραση. Η μελέτη περίπτωσης μου λοιπόν επικεντρώνεται στο συνεργατικό σύστημα του `Doug Engelbart` και την σπουδαιότητα του για την επικοινωνία ανθρώπου υπολογιστή.
+
+| Περιγραφή | Repository Σύνδεσμος | Netlify Σύνδεσμος |
+| --- | --- | --- |
+| Μελέτη Περίπτωσης για το Υπολογιστικό Σύστημα NLS | [Case Study](https://github.com/p17kost/site/blob/master/_includes/cs-nls.md) Και [Gallery Αρχείο](https://github.com/p17kost/site/blob/master/_case-study/nls.md) | [Netlify](https://master--p17kost.netlify.app/case-study/nls/) |
+
+<details>
+<summary><b>Πηγές</b></summary>
+
+  1. [Workstation History and the Augmented Knowledge Workshop](https://dougengelbart.org/content/view/112/)
+  2. [Computer Aided Display Control](https://archive.org/details/nasa_techdoc_19660020914/mode/2up)
+  3. [The Click Heard Round The World](https://www.wired.com/2004/01/mouse/)
+  4. [Engelbart's Unfinished Revolution](https://www.youtube.com/watch?v=mbZhdTu3zFQ)
+  5. [What You See Is All You Get](https://guidebookgallery.org/articles/inventingthelisauserinterface/whatyouseeisallyouget)
+
+</details>
+
+## Παραδοτέο 10: Συμμετοχικό Περιεχόμενο 2Β
