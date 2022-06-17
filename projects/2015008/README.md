@@ -40,6 +40,12 @@
   
   ## Παραδοτέο 4 : Συμμετοχικό περιεχόμενο 1A
   
+  Μετά από fork των αποθετηρίων images,_gallery και site, αποφάσησα το πρώτο σετ φωτογραφιών που θα πρόσθεσω να αφορούν το Apple iPhone. Το iphone αποτέλεσε μεγάλο checkpoint στην επικοινωνία ανθρώπου υπολογιστή αφού στην πραγματικότητα κάθε άνθρωπος στον πλανήτη μπορούσε εύκολα και γρήγορα να έρθει σε επαφή με τον υπολογιστή του αφού μπορούσε να τον κουβαλήσει μαζί του. Σας παραθέτω τα λινκ των φωτογραφιών:
+  
+ [Apple Iphone image](https://github.com/siotasandreas/images/blob/2015008/IPhone_1st_Gen.png)
+ [Apple Iphone thumbnail](https://github.com/siotasandreas/images/blob/2015008/IPhone_1st_Gen%20-thumb.png) 
+ [Apple Iphone Caption](https://github.com/siotasandreas/_gallery/blob/2015008/IPhone_1st_Gen.md)
+  
   
 
 
