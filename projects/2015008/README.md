@@ -46,6 +46,14 @@
  [Apple Iphone thumbnail](https://github.com/siotasandreas/images/blob/2015008/IPhone_1st_Gen%20-thumb.png) 
  [Apple Iphone Caption](https://github.com/siotasandreas/_gallery/blob/2015008/IPhone_1st_Gen.md)
   
+ Το δεύτερο σετ φωτογραφιών αφορούν το ipod πρώτης γενιάς. Το ipod με την εύχρηστη λίστα τραγουδιών και τον τροχό κύλισης έγινε μια απίστευτη επιτυχία αφού πρόσφερε πολύ εύκολη επικοινωνία με το χρήστη, ο οποίος σταδιακά εξοικειώθηκε με portable συσκευές τεχνολογίας.
+  
+ [Ipod Image](https://github.com/siotasandreas/images/blob/2015008/IPod_1G.jpg)
+ [Ipod thumbnail](https://github.com/siotasandreas/images/blob/2015008/IPod_1G-thumb.jpg)
+ [Ipod Caption](https://github.com/siotasandreas/_gallery/blob/2015008/IPhone_1st_Gen.md)
+  
+  
+  
   
 
 
