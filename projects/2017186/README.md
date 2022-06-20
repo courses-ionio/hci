@@ -123,7 +123,7 @@
 
 Το τελικό αποτέλεσμα φαίνεται στο παρακάτω gif με το βίντεο να παίζει σε mpv.
 
-![alt text](https://raw.githubusercontent.com/p17kost/personal/main/youtube2.gif)
+![alt text](https://raw.githubusercontent.com/p17kost/personal/main/ydl.gif)
 
 ## Παρααδοτέο 8: Συμμετοχικό Περιεχόμενο 1Β
 
