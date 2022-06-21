@@ -19,7 +19,7 @@
 | 9 | [Άσκηση γραμμής εντολών](#παραδοτέο-9-άσκηση-γραμμής-εντολών) | |
 | 10 | [Συμμετοχικό περιεχόμενο 2B](#παραδοτέο-10-συμμετοχικό-περιεχόμενο-2β) | |
 | 11 | [Άσκηση γραμμής εντολών](#παραδοτέο-11-άσκηση-γραμμής-εντολών) | |
-| 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση | |
+| 12 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](#επίλογος) | |
 
 # Εισαγωγή
 
@@ -164,4 +164,27 @@
 | --- | --- | --- |
 | Βιογραφία Ken Thompson | [Biography](https://github.com/p17kost/site/blob/master/_includes/bio-thompson.md) Και [Gallery Αρχείο](https://github.com/p17kost/site/blob/master/_biography/ken-thompson.md) | [Netlify](https://p17kost.netlify.app/biography/ken-thompson/) |
 
+<details>
+<summary><b>Πηγές</b></summary>
+
+  1. [Ken Thompson: A Brief Introduction](http://www.linfo.org/thompson.html)
+  2. [Space Travel: Exploring the solar system and the PDP-7](https://www.bell-labs.com/usr/dmr/www/spacetravel.html)
+  3. [The Evolution of the Unix Time-sharing System](https://www.bell-labs.com/usr/dmr/www/hist.html)
+  4. [A Research UNIX Reader: Annotated Excerpts from the Programmer’s Manual](https://web.archive.org/web/20140504225225/http://www.cs.dartmouth.edu/~doug/reader.pdf)
+  5. [Ken, Unix, and Games ](https://ghostarchive.org/archive/cZh2e)
+
+</details>
+
 ## Παραδοτέο 11: Άσκηση Γραμμής Εντολών
+
+Η τελευταία μου άσκηση γραμμής εντολών αφορά το org-mode του emacs. To emacs είναι μια οικογένεια από επεξεργαστές κειμένου με κύριο τους χαρακτηριστικό να είναι η επεκτασιμότητα τους. Το org-mode περιέχεται μέσα στο emacs, και είναι είναι μια λειτουργία επεξεργασίας, μορφοποίησης και οργάνωσης εγγράφων, σχεδιασμένη για σημειώσεις και άλλες λειτουργίες. Δημιούργησα λοιπόν ένα σετ σημειώσεων για να κάνω επίδειξη καποιών δυνατοτήτων του org-mode, τις οποίες δείχνω στα παρακάτω gifs.
+
+![alt text](https://raw.githubusercontent.com/p17kost/personal/main/emacs2.gif)
+
+![alt text](https://raw.githubusercontent.com/p17kost/personal/main/emacs1.gif)
+
+![alt text](https://raw.githubusercontent.com/p17kost/personal/main/emacs3.gif)
+
+Γενικά το org-mode είναι ένα εξαιρετικό εργαλείο για την διατήρηση και την οργάνωση των προσωπικών σου σημειώσεων. Είναι φοβερά πρακτικό και απλό στην χρήση του. Πάντως γενικότερα το emacs έχει ένα τεράστιο πλήθος από λειτουργίες που αξίζει κανείς να ανακαλύψει και να ασχοληθεί με αυτές.
+
+# Επίλογος
