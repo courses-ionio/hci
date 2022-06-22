@@ -45,12 +45,20 @@
  [Apple Iphone image](https://github.com/siotasandreas/images/blob/2015008/IPhone_1st_Gen.png)
  [Apple Iphone thumbnail](https://github.com/siotasandreas/images/blob/2015008/IPhone_1st_Gen%20-thumb.png) 
  [Apple Iphone Caption](https://github.com/siotasandreas/_gallery/blob/2015008/IPhone_1st_Gen.md)
-  
+  νμ
  Το δεύτερο σετ φωτογραφιών αφορούν το ipod πρώτης γενιάς. Το ipod με την εύχρηστη λίστα τραγουδιών και τον τροχό κύλισης έγινε μια απίστευτη επιτυχία αφού πρόσφερε πολύ εύκολη επικοινωνία με το χρήστη, ο οποίος σταδιακά εξοικειώθηκε με portable συσκευές τεχνολογίας.
   
  [Ipod Image](https://github.com/siotasandreas/images/blob/2015008/IPod_1G.jpg)
  [Ipod thumbnail](https://github.com/siotasandreas/images/blob/2015008/IPod_1G-thumb.jpg)
  [Ipod Caption](https://github.com/siotasandreas/_gallery/blob/2015008/IPhone_1st_Gen.md)
+  
+  ###### [5]
+   
+  ## Παραδοτέο 5 : Άσκηση γραμμής εντολών - Emacs notes(org-mode, deadline, lists todo)
+  
+  Για αυτό το παραδοτέο αποφάσησα να δείξω πως να κάνω μια ατζέντα χρησιμοποιώντας το emacs. Αφού το εγκατέστησα με τον κλασικό τρόπο (pacman -s), έτρεξα την εντολή emacs -nw. Στη συνέχεια με τη χρήση συντομέυσεων στο πληκτρολόγιο και την εντολή org-mode μπήκα στο αρχείο και άρχισα να το επεξεργάζομαι. Μετά τη δημιουργία της λίστας στην οποία δημιούργησα κατηγορίες και υποκατηγορίες με αστερίσκους, ανέθεσα ιδιότητες στα κομμάτια του προγράμματος (TODO ή DONE). Επίσης έδειξα πως να κάνεις μια λίστα με ποσοστό ολοκλήρωσης, δηλαδή να φαίνεται με Χ μπροστά από κάθε υποκατηγορία αν έχει ολοκληρωθεί και δίπλα από την κεντρική κατηγορία να υπάρχει δείκτης με ποσοστό ολοκλήρωσης. Επίσης με την εντολή org-agenda μας δείχνει όλες της επιλογές που έχουμε μέσα στο αρχείο και με τη συντόμευση "CTRL + C + D" δείχνω πως να ορίσουμε ένα deadline. Τέλος αποθήκευσα το αρχείο. Αξίζει να σημειωθεί πως χρησιμοποίησα πολλές συντομέυσεις πληκτρολογίου όπως "ALT + X" για τη γραμμή εντολών και "ALT + ENTER + RIGHTARROW" για τους αστερίσκους(κατηγορίες). 
+
+ [Asciinema emacs](https://asciinema.org/a/GTbY9SAD3kYN4bFDRcSLgZXVf)
   
   
   
