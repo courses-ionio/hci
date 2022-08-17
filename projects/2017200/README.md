@@ -9,9 +9,9 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα |
-| 2 | Άσκηση γραμμής εντολών |
-| 3 | Άσκηση γραμμής εντολών |
+| [1](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-1) | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-1) |
+| [2](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-2) | [Άσκηση γραμμής εντολών](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-2) |
+| [3](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-3) | [Άσκηση γραμμής εντολών](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-3) |
 | 4 | συμμετοχικό περιεχόμενο 1A |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
