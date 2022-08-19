@@ -127,7 +127,7 @@
 
 Για το 1A πρόσθεσα το microsoft mouse
 
-[link](https://github.com/vivikara/_gallery/blob/master/microsoftmouse.md)
+[link](https://p2017200.netlify.app/gallery/microsoftmouse/)
 
 [link foto](https://github.com/vivikara/images/blob/master/microsoft-mouse.jpg)
 
@@ -149,9 +149,9 @@
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ 2Α 
 
+timeline-mouse
 
-
-[timeline](https://github.com/vivikara/site/blob/master/_timeline/mouse.md)
+[timeline](https://p2017200.netlify.app//timeline/mouse/)
 
 [διαφανιες]()
 
