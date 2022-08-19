@@ -153,7 +153,7 @@ timeline-mouse
 
 [timeline](https://p2017200.netlify.app//timeline/mouse/)
 
-[διαφανιες]()
+[διαφανιες](https://github.com/vivikara/site/blob/master/_slides/gui.md)
 
 
 
