@@ -114,6 +114,80 @@
 
 
 
+## ΠΑΡΑΔΟΤΕΟ 4
+
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ 1Α
+
+Για το συμμετοχικό περιεχόμενο 1Α πρόσθεσα το atari st 
+
+
+[Atari st](https://62ff4d3da6c1b76352827aa1--p2017200.netlify.app/gallery/atari-st/)
+
+
+
+Για το 1A πρόσθεσα το microsoft mouse
+
+[link](https://github.com/vivikara/_gallery/blob/master/microsoftmouse.md)
+
+[link foto](https://github.com/vivikara/images/blob/master/microsoft-mouse.jpg)
+
+[link thumb](https://github.com/vivikara/images/blob/master/microsoft-mouse-thumb.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## ΠΑΡΑΔΟΤΕΟ 6
+
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ 2Α 
+
+
+
+[timeline](https://github.com/vivikara/site/blob/master/_timeline/mouse.md)
+
+[διαφανιες]()
+
+
+
+
+
+
+
+
+
+## ΠΑΡΑΔΟΤΕΟ 8
+
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ 1Β
+
+
+
+
+
+
+
+
+## ΠΑΡΑΔΟΤΕΟ 10
+
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ 2B
+
+
+
+
+
+Για το παραδοτέο 10 πρόσθεσα την βιογραφία του jack tramiel ιδρυτή της atari coorporation 
+
+[jack tramiel](https://p2017200.netlify.app//biography/jack-tramiel/)
+
+
+
 
 
 
