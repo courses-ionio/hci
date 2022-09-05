@@ -52,6 +52,18 @@
 | [Graphical User Interface (GUI) ](https://p2015194-pibook.netlify.app/gallery/gui/) | [GUI](https://github.com/p15chei/_gallery/blob/27a5bfae4d42770e08a3c20d26b2a6cf91edf36c/gui.md) | [GUI](https://github.com/p15chei/images/blob/a692adb5704b1f5cd11c31200e22fd37dd05694a/gui.png) |
 | [Command Prompt (CMD) ](https://p2015194-pibook.netlify.app/gallery/cmd/) |[CMD](https://github.com/p15chei/_gallery/blob/27a5bfae4d42770e08a3c20d26b2a6cf91edf36c/gui.md) | [CMD](https://github.com/p15chei/images/blob/a692adb5704b1f5cd11c31200e22fd37dd05694a/cmd.png) |
 
+## Συμμετοχικό Περιεχόμενο Α2
+
+Στο δεύτερο παραδοτέο του Συμμετοχικού Περιεχομένου επέλεξα να αναφέρω τη μελέτη περίπτωση του Github. Για την ολοκλήρωση της μελέτης περίπτωσης χρησιμοποίησα και δύο εικόνες που προυπήρχαν στο repository images.
+
+### [Μελέτη Περίπτωσης Github](https://p2015194-pibook.netlify.app/case-study/github/)
+
+[Εικόνα Github Profile](https://github.com/p15chei/images/blob/a692adb5704b1f5cd11c31200e22fd37dd05694a/github-profile.png)
+<br />
+[Εικόνα Github Contibutions](https://github.com/p15chei/images/blob/a692adb5704b1f5cd11c31200e22fd37dd05694a/github-contributions.png)
+
+
+
 ## Συμμετοχικό Περιεχόμενο Β1
 
 Για την εκπόνηση του Συμμετοχικού Περιεχομένου Β1 ένταξα στις διαφάνειες τις δύο εικόνες του Παραδοτέου Α1 από τις ασκήσεις του Συμμετοχικού Περιεχομένου και στα αντίστοιχα χρονολόγια.
@@ -74,6 +86,10 @@
 
 [Εικόνα "GUI" Χρονολόγιο "Διαδραστικά Συστήματα" - Netlify ](https://p2015194-pibook.netlify.app/timeline/systems/)
 [Αρχεί *.md - Repository _timeline](https://github.com/p15chei/site/blob/master/_timeline/systems.md)
+
+## Συμμετοχικό Περιεχόμενο Β2
+
+Για την βιογραφία επέλεξα να υλοποιήσω την βιογραφία του Alan Turing. Για την εκπόνηση χρησιμοποίησα 3 επιπλέον εικόνες με τον ίδιο, την μηχανή turing και enigma.
 
 #### Πηγές
 * [Arch Linux - Shells](https://wiki.archlinux.org/title/command-line_shell)
