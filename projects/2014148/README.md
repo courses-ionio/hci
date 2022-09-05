@@ -79,11 +79,17 @@
  
   Σε αυτήν την εργασία ασχολήθηκα με τον υπολογιστή Apple-Lisa. Στις προηγούμενες εργασίες συμμετοχικού περιεχομένου ασχολήθηκα με το xerox alto. Ο υπολογιστής Apple-Lisa ουσιαστικά είναι απόγονος του xerox-alto. Το Alto έγινε πολύ γνωστό για το γραφικό περιβάλλον του, και απο πολλούς θεωρούνταν το μέλλον της πληροφορικής. Το 1979, ο Steve Jobs κανόνισε μια επίσκεψη στο Xerox PARC, κατά τη διάρκεια της οποίας το προσωπικό της Apple Computer θα λάμβανε επιδείξεις τεχνολογίας Xerox με αντάλλαγμα η Xerox να μπορεί να αγοράσει δικαιώματα προαίρεσης μετοχών στην Apple. Μετά από δύο επισκέψεις για να δουν το Alto, οι μηχανικοί της Apple χρησιμοποίησαν τις ιδέες για να παρουσιάσουν τα συστήματα Apple Lisa και Macintosh. Στην συγκεκριμένη μελέτη περίπτωσης συνεπώς παρουσιάζεται το Apple-Lisa.
   
-  [Link για case study](https://github.com/p14ntot/site/blob/master/_includes/cs-apple_lisa.md)
-  [Link για gallery αρχείο](https://github.com/p14ntot/site/blob/master/_case-study/apple-lisa.md)
-  [Link για το Netlify](https://tender-dubinsky-ae3eb1.netlify.app//case-study/apple-lisa/)
+  -[Link για case study](https://github.com/p14ntot/site/blob/master/_includes/cs-apple_lisa.md)
   
-  Οι πηγές που χρησιμοποιήθηκαν είναι απο [1)mac history.net](https://www.mac-history.net/apple-history-2/apple-lisa/2007-10-12/apple-lisa), [2)indosingo.com](http://mail.indosingo.com/IT/en/117-13/Apple-Lisa_488_mail-indosingo.html#cite_note-1), [Ελληνικό μουσείο πληροφορικής](https://elmp.gr/sansimera/i-apple-kykloforise-ton-ypologisti-lisa/), [4) wikipedia](https://el.wikipedia.org/wiki/Apple_Lisas)
+  -[Link για gallery αρχείο](https://github.com/p14ntot/site/blob/master/_case-study/apple-lisa.md)
+  
+  -[Link για το Netlify](https://tender-dubinsky-ae3eb1.netlify.app//case-study/apple-lisa/)
+  
+  Οι πηγές που χρησιμοποιήθηκαν είναι απο: 
+  -[1)mac history.net](https://www.mac-history.net/apple-history-2/apple-lisa/2007-10-12/apple-lisa), 
+  -[2)indosingo.com](http://mail.indosingo.com/IT/en/117-13/Apple-Lisa_488_mail-indosingo.html#cite_note-1), 
+  -[3)Ελληνικό μουσείο πληροφορικής](https://elmp.gr/sansimera/i-apple-kykloforise-ton-ypologisti-lisa/),
+  -[4) wikipedia](https://el.wikipedia.org/wiki/Apple_Lisas)
 
 # Εβδομάδα 9
  Αυτήν την εβδομάδα αποφάσισα να κάνω την άσκηση με τίτλο: Text editor and plug-ins for code highlighting and autocompletion(edit the vim or the shell configuration file). Ουσιαστικά ασχολήθηκα με την επεξεργασία  του vim configuration file. Οι αλλαγές μπορούν να παρατηρηθούν στο βίντεο συγκρίνοντας το ίδιο κείμενο που εμφανίζεται στο 0:09 και 1:49. Εν συντομία οι αλλαγές έχουν να κάνουν με 1) την αρίθμηση των γραμμών 2)την προσθήκη μπάρας στο κάτω μέρος του κειμενου 3) ρύθμιση της συμβατότητας μόνο σε vim 4)ρύθμιση του encoding σε utf-8 5) Ενεργοποίηση του wraping.
