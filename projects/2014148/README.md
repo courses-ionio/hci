@@ -19,7 +19,7 @@
 | 5 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-5) | Περαιτέρω εξοικίωση με το τερματικό |
 | 6 | [συμμετοχικό περιεχόμενο 2A](https://github.com/p14ntot/hci/tree/2014148/projects/2014148#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-6) | Επιπλέον εξοικίωση με το ομαδικό project |
 | 7 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-7) | Έμαθα να κάνω download απο το youtube μέσω terminal και αναπαραγωγή του τραγουδιού με τον ίδιο τρόπο. |
-| 8 | συμμετοχικό περιεχόμενο 1B |
+| 8 | [συμμετοχικό περιεχόμενο 1B](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8) |
 | 9 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-9) | Εξοικίωση με τον text editor vim , επαφή με νέους τρόπους configuration εφαρμογών |
 | 10 | συμμετοχικό περιεχόμενο 2B |
 | 11 | Άσκηση γραμμής εντολών |
@@ -79,11 +79,11 @@
  
   Σε αυτήν την εργασία ασχολήθηκα με τον υπολογιστή Apple-Lisa. Στις προηγούμενες εργασίες συμμετοχικού περιεχομένου ασχολήθηκα με το xerox alto. Ο υπολογιστής Apple-Lisa ουσιαστικά είναι απόγονος του xerox-alto. Το Alto έγινε πολύ γνωστό για το γραφικό περιβάλλον του, και απο πολλούς θεωρούνταν το μέλλον της πληροφορικής. Το 1979, ο Steve Jobs κανόνισε μια επίσκεψη στο Xerox PARC, κατά τη διάρκεια της οποίας το προσωπικό της Apple Computer θα λάμβανε επιδείξεις τεχνολογίας Xerox με αντάλλαγμα η Xerox να μπορεί να αγοράσει δικαιώματα προαίρεσης μετοχών στην Apple. Μετά από δύο επισκέψεις για να δουν το Alto, οι μηχανικοί της Apple χρησιμοποίησαν τις ιδέες για να παρουσιάσουν τα συστήματα Apple Lisa και Macintosh. Στην συγκεκριμένη μελέτη περίπτωσης συνεπώς παρουσιάζεται το Apple-Lisa.
   
-  -[Link για case study](https://github.com/p14ntot/site/blob/master/_includes/cs-apple_lisa.md)
+  - [Link για case study](https://github.com/p14ntot/site/blob/master/_includes/cs-apple_lisa.md)
   
-  -[Link για gallery αρχείο](https://github.com/p14ntot/site/blob/master/_case-study/apple-lisa.md)
+  - [Link για gallery αρχείο](https://github.com/p14ntot/site/blob/master/_case-study/apple-lisa.md)
   
-  -[Link για το Netlify](https://tender-dubinsky-ae3eb1.netlify.app//case-study/apple-lisa/)
+  - [Link για το Netlify](https://tender-dubinsky-ae3eb1.netlify.app//case-study/apple-lisa/)
   
   Οι πηγές που χρησιμοποιήθηκαν είναι απο: 
   
