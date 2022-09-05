@@ -86,10 +86,11 @@
   -[Link για το Netlify](https://tender-dubinsky-ae3eb1.netlify.app//case-study/apple-lisa/)
   
   Οι πηγές που χρησιμοποιήθηκαν είναι απο: 
-  -[1)mac history.net](https://www.mac-history.net/apple-history-2/apple-lisa/2007-10-12/apple-lisa), 
-  -[2)indosingo.com](http://mail.indosingo.com/IT/en/117-13/Apple-Lisa_488_mail-indosingo.html#cite_note-1), 
-  -[3)Ελληνικό μουσείο πληροφορικής](https://elmp.gr/sansimera/i-apple-kykloforise-ton-ypologisti-lisa/),
-  -[4) wikipedia](https://el.wikipedia.org/wiki/Apple_Lisas)
+  
+  - [1)mac history.net](https://www.mac-history.net/apple-history-2/apple-lisa/2007-10-12/apple-lisa), 
+  - [2)indosingo.com](http://mail.indosingo.com/IT/en/117-13/Apple-Lisa_488_mail-indosingo.html#cite_note-1), 
+  - [3)Ελληνικό μουσείο πληροφορικής](https://elmp.gr/sansimera/i-apple-kykloforise-ton-ypologisti-lisa/),
+  - [4) wikipedia](https://el.wikipedia.org/wiki/Apple_Lisas)
 
 # Εβδομάδα 9
  Αυτήν την εβδομάδα αποφάσισα να κάνω την άσκηση με τίτλο: Text editor and plug-ins for code highlighting and autocompletion(edit the vim or the shell configuration file). Ουσιαστικά ασχολήθηκα με την επεξεργασία  του vim configuration file. Οι αλλαγές μπορούν να παρατηρηθούν στο βίντεο συγκρίνοντας το ίδιο κείμενο που εμφανίζεται στο 0:09 και 1:49. Εν συντομία οι αλλαγές έχουν να κάνουν με 1) την αρίθμηση των γραμμών 2)την προσθήκη μπάρας στο κάτω μέρος του κειμενου 3) ρύθμιση της συμβατότητας μόνο σε vim 4)ρύθμιση του encoding σε utf-8 5) Ενεργοποίηση του wraping.
