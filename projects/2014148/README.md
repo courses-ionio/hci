@@ -92,6 +92,8 @@
   - [3)Ελληνικό μουσείο πληροφορικής](https://elmp.gr/sansimera/i-apple-kykloforise-ton-ypologisti-lisa/),
   - [4) wikipedia](https://el.wikipedia.org/wiki/Apple_Lisas)
 
+   Bonus το [promo-video](https://www.youtube.com/watch?v=cKZxia0lYGU&t) του υπολογιστή Apple-Lisa
+
 # Εβδομάδα 9
  Αυτήν την εβδομάδα αποφάσισα να κάνω την άσκηση με τίτλο: Text editor and plug-ins for code highlighting and autocompletion(edit the vim or the shell configuration file). Ουσιαστικά ασχολήθηκα με την επεξεργασία  του vim configuration file. Οι αλλαγές μπορούν να παρατηρηθούν στο βίντεο συγκρίνοντας το ίδιο κείμενο που εμφανίζεται στο 0:09 και 1:49. Εν συντομία οι αλλαγές έχουν να κάνουν με 1) την αρίθμηση των γραμμών 2)την προσθήκη μπάρας στο κάτω μέρος του κειμενου 3) ρύθμιση της συμβατότητας μόνο σε vim 4)ρύθμιση του encoding σε utf-8 5) Ενεργοποίηση του wraping.
  
