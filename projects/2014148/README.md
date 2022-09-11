@@ -21,7 +21,7 @@
 | 7 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-7) | Έμαθα να κάνω download απο το youtube μέσω terminal και αναπαραγωγή του τραγουδιού με τον ίδιο τρόπο. |
 | 8 | [συμμετοχικό περιεχόμενο 1B](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8) | Δημιουργία μιας νέας μελέτης περίπτωσης για το Apple-Lisa |
 | 9 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-9) | Εξοικίωση με τον text editor vim , επαφή με νέους τρόπους configuration εφαρμογών |
-| 10 | συμμετοχικό περιεχόμενο 2B |
+| 10 | [συμμετοχικό περιεχόμενο 2B](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-10) |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-12) | Τελική αναφορά και ανασκόπηση του εξαμήνου. |
 
@@ -87,10 +87,10 @@
   
   Οι πηγές που χρησιμοποιήθηκαν είναι απο: 
   
-  - [1)mac history.net](https://www.mac-history.net/apple-history-2/apple-lisa/2007-10-12/apple-lisa), 
-  - [2)indosingo.com](http://mail.indosingo.com/IT/en/117-13/Apple-Lisa_488_mail-indosingo.html#cite_note-1), 
-  - [3)Ελληνικό μουσείο πληροφορικής](https://elmp.gr/sansimera/i-apple-kykloforise-ton-ypologisti-lisa/),
-  - [4) wikipedia](https://el.wikipedia.org/wiki/Apple_Lisas)
+  - [mac history.net](https://www.mac-history.net/apple-history-2/apple-lisa/2007-10-12/apple-lisa), 
+  - [indosingo.com](http://mail.indosingo.com/IT/en/117-13/Apple-Lisa_488_mail-indosingo.html#cite_note-1), 
+  - [Ελληνικό μουσείο πληροφορικής](https://elmp.gr/sansimera/i-apple-kykloforise-ton-ypologisti-lisa/),
+  - [wikipedia](https://el.wikipedia.org/wiki/Apple_Lisas)
 
    Bonus το [promo-video](https://www.youtube.com/watch?v=cKZxia0lYGU&t) του υπολογιστή Apple-Lisa
 
@@ -111,9 +111,9 @@
 
 Οι πηγές που χρησιμοποιήθηκαν είναι απο: 
   
-  - [1)Britannica - Steve Jobs](https://www.britannica.com/biography/Steve-Jobs), 
-  - [2)biography.com](https://www.biography.com/business-figure/steve-jobs), 
-  - [3)businessnewsdaily.com - Steve Jobs Biography](https://www.businessnewsdaily.com/4195-business-profile-steve-jobs.html)
+  - [Britannica - Steve Jobs](https://www.britannica.com/biography/Steve-Jobs), 
+  - [biography.com](https://www.biography.com/business-figure/steve-jobs), 
+  - [businessnewsdaily.com - Steve Jobs Biography](https://www.businessnewsdaily.com/4195-business-profile-steve-jobs.html)
  
  
  
