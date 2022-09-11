@@ -39,17 +39,7 @@
 ## Αρχικά Βήματα Github
 
 Αρχικά, δημιούργησα τον ακαδημαικό μου λογαριασμό στο Github και προσπάθησα να εξικοιωθώ με τις λειτουργίες του. Για τον λόγο αυτό έκανα Fork τα απαραίτητα για το μάθημα αποθετήρια, ακολουθώντας τις οδηγίες και δημιούργησα το branch αλλά και τον φάκελο και ετοίμασα το παρών αρχείο που θα γίνει η καταγραφή των παραδοτέων των ασκήσεων και θα αποτελέσει την τελικά αναφορά.
-Στην συνέχεια, δημιούργησα έναν λογαριασμό στο Netlify και έκανα ένα αντίγραφο της σελίδας του βιβλίου, ώστε να μπορώ να προσθέτω το περιεχόμενο για την
-
-# Συμμετοχικό Περιεχόμενο
-
-#### Netlify Site: [p2015194-ionio-pibook](https://p2015194-ionio-pibook.netlify.app)
-#### Site Repository: [p15chei/site](https://github.com/p15chei/site)
-
-Αρχικά, οι πρώτες αλλαγές που υλοποίησα αφορούσαν το [config.yml](https://github.com/p20sami/site/blob/master/_config.yml), όπου άλλαξα το url που οδηγεί στο βιβλίο. Το Url το ενημέρωσα και στην περιγραφή το αποθετηρίου p15chei/site για πιο εύκολη και άμεση πρόσβαση. Επίσης, υλοποιήθηκαν αλλαγές και στο αρχείο .gitmodules, οπου επίσης ενημερώθηκαν τα urls για τα submodules(gallery, images etc.).
-
-#### [config.yml](https://github.com/p15chei/site/blob/master/_config.yml)
-#### [GitModules](https://github.com/p15chei/site/blob/master/.gitmodules)
+Στην συνέχεια, δημιούργησα έναν λογαριασμό στο Netlify και έκανα ένα αντίγραφο της σελίδας του βιβλίου, ώστε να μπορώ να προσθέτω το περιεχόμενο για την εκπόνηση των εργασιών συμμετοχικού περιεχομένου. 
 
 
 # Άσκηση Γραμμής Εντολών 1 
@@ -65,18 +55,36 @@
 # Άσκηση Γραμμής Εντολών 2 
 ## Batch image conversion
 
-Για την υλοποίηση της 1ης εργασίας γραμμής εντολών χρησιμοποίησα το [Imagemagick](https://imagemagick.org/index.php), το οποίο εγκατέστησα στα archlinux και στη συνέχεια το χρησιμοποίησα για την επεξεργασία εικόνων μέσω εντολών command line. 
+Για την υλοποίηση της 2ης εργασίας γραμμής εντολών χρησιμοποίησα το [Imagemagick](https://imagemagick.org/index.php), το οποίο εγκατέστησα στα archlinux και στη συνέχεια το χρησιμοποίησα για την επεξεργασία εικόνων μέσω εντολών command line. 
 Αρχικά, άλλαξα τη διάσταση και στην συνέχεια την μορφή της εικόνας.
 
 #### [Link Asciinema - 2η άσκηση - Batch image conversion](https://asciinema.org/a/519841)
 
 # Άσκηση Γραμμής Εντολών 3 
-## Batch image conversion
+## Download mp3
 
-Για την υλοποίηση της 1ης εργασίας γραμμής εντολών χρησιμοποίησα το [Imagemagick](https://imagemagick.org/index.php), το οποίο εγκατέστησα στα archlinux και στη συνέχεια το χρησιμοποίησα για την επεξεργασία εικόνων μέσω εντολών command line. 
-Αρχικά, άλλαξα τη διάσταση και στην συνέχεια την μορφή της εικόνας.
+Για την υλοποίηση αυτής της εργασίας γραμμής εντολών χρησιμοποίησα το [youtube-dl](https://github.com/ytdl-org/youtube-dl) για την αναζήτηση, εύρεση και το κατέβασμα  του τραγουδιού. Επίσης, με την εντολή --extract-audio "κατέβασα" ουσιαστικά μόνο το αρχείο ήχου του τραγουδιού και όχι το video. 
+Στη συνέχεια, χρησιμοποίησα το [mpv](https://github.com/mpv-player/mpv) για την αναπαραγωγή του.
 
-#### [Link Asciinema - 2η άσκηση - Batch image conversion](https://asciinema.org/a/519841)
+#### [Link Asciinema - 3η άσκηση - Download mp3](https://asciinema.org/a/519840)
+
+# Άσκηση Γραμμής Εντολών 4
+## Convert between different text formats
+
+Για την υλοποίηση της 4ης εργασίας γραμμής εντολών χρησιμοποίησα το [pandoc](https://pandoc.org/). Αρχικά, δημιούργησα στο github ένα πρόχειρο βιογραφικό σημείωμα. Στην συνέχεια με την χρήση του [git](https://en.wikipedia.org/wiki/Git), το έκανα clone στην επιφάνεις εργασίας μου και το επεξεργάστηκα με το vim. Στην συνέχεια, με τη χρήση του [pandoc](https://pandoc.org/) μετέτρεψα το αρχείο cv.md (markdown) σε μορφή html και στην συνέχεια σε docx.
+
+#### [Link Asciinema - 3η άσκηση - Convert between different text formats](https://asciinema.org/a/519923)
+
+# Συμμετοχικό Περιεχόμενο
+
+#### Netlify Site: [p2015194-ionio-pibook](https://p2015194-ionio-pibook.netlify.app)
+#### Site Repository: [p15chei/site](https://github.com/p15chei/site)
+
+Αρχικά, οι πρώτες αλλαγές που υλοποίησα αφορούσαν το [config.yml](https://github.com/p20sami/site/blob/master/_config.yml), όπου άλλαξα το url που οδηγεί στο βιβλίο. Το Url το ενημέρωσα και στην περιγραφή το αποθετηρίου p15chei/site για πιο εύκολη και άμεση πρόσβαση. Επίσης, υλοποιήθηκαν αλλαγές και στο αρχείο .gitmodules, οπου επίσης ενημερώθηκαν τα urls για τα submodules(gallery, images etc.).
+
+#### [config.yml](https://github.com/p15chei/site/blob/master/_config.yml)
+#### [GitModules](https://github.com/p15chei/site/blob/master/.gitmodules)
+
 
 ## Συμμετοχικό Περιεχόμενο Α1
 
