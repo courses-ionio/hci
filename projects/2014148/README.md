@@ -21,7 +21,7 @@
 | 7 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-7) | Έμαθα να κάνω download απο το youtube μέσω terminal και αναπαραγωγή του τραγουδιού με τον ίδιο τρόπο. |
 | 8 | [συμμετοχικό περιεχόμενο 1B](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8) | Δημιουργία μιας νέας μελέτης περίπτωσης για το Apple-Lisa |
 | 9 | [Άσκηση γραμμής εντολών](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-9) | Εξοικίωση με τον text editor vim , επαφή με νέους τρόπους configuration εφαρμογών |
-| 10 | [συμμετοχικό περιεχόμενο 2B](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-10) | Δημιουργία βιογραφικού στο συμμετοχικό περιεχόμενο. Διαδικασία αρκετά όμοια με παραδοτέο νούμερο 8. Έγινε επιπλέον χρήση του φακέλου biografy. Αντιήφθηκα την συνησφορά του Steve Jobs στο κομμάτι της διάδρασης. |
+| 10 | [συμμετοχικό περιεχόμενο 2B](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-10) | Δημιουργία βιογραφικού στο συμμετοχικό περιεχόμενο. Διαδικασία αρκετά όμοια με παραδοτέο νούμερο 8. Έγινε επιπλέον χρήση του φακέλου biografy. Αντιλήφθηκα την συνησφορά του Steve Jobs στο κομμάτι της διάδρασης. |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](https://github.com/p14ntot/hci/blob/2014148/projects/2014148/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-12) | Τελική αναφορά και ανασκόπηση του εξαμήνου. |
 
