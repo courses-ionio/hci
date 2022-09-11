@@ -100,6 +100,23 @@
  
  [asciinema link ](https://asciinema.org/a/460101)
  
+# Εβδομάδα 10
+ Σε αυτό το παραδοτέο και σε συνέχεια του παραδοτέου της 8ης εβδομάδας όπου και ασχολήθηκα με την μελέτη περίπτωσης του υπολογιστή Apple Lisa, παραθέτω την βιογραφία του Steve Jobs, συνιδρυτή της εταιρίας της Apple. Διαβάζοντας κάποιος την βιογραφία του Jobs μπορεί εύκολα να αντιληφθεί την επίδραση του πάνω στο κομμάτι της διάδρασης ενός χρήστη με τον υπολογιστή, καθώς και την συμβολή του στην διαμόρφωση των προσωπικών υπολογιστών, ωστέ αυτοί να αποκτήσουν την μορφή που έχουν εώς σήμερα.
+ 
+ - [Link για βιογραφία](https://github.com/p14ntot/site/blob/master/_includes/bio-jobs.md)
+  
+  - [Link για gallery αρχείο](https://github.com/p14ntot/site/blob/master/_biography/Steve-Jobs.md)
+  
+  - [Link για το Netlify](https://tender-dubinsky-ae3eb1.netlify.app/biography/steve-jobs/)
+
+Οι πηγές που χρησιμοποιήθηκαν είναι απο: 
+  
+  - [1)Britannica - Steve Jobs](https://www.britannica.com/biography/Steve-Jobs), 
+  - [2)biography.com](https://www.biography.com/business-figure/steve-jobs), 
+  - [3)businessnewsdaily.com - Steve Jobs Biography](https://www.businessnewsdaily.com/4195-business-profile-steve-jobs.html)
+ 
+ 
+ 
  
  # Εβδομάδα 12 
  ### Τελική αναφορά
