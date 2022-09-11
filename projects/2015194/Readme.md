@@ -23,6 +23,7 @@
 | 10 | [Συμμετοχικό περιεχόμενο 2Β](#συμμετοχικό-περιεχόμενο-Β2) | Προσθήκη νέας Βιογραφίας - Alan Turing - Για την υλοποίηση αυτού του παραδοτέου εκτός από τη βιογραφία προστέθηκαν τρείς επιπλέον εικόνες.|
 | 11 | [Άσκηση γραμμής εντολών]() | |
 | 12 | [Επίλογος](#επίλογος) | Οι δυσκολίες που αντιμετώπισα και οι εμπειρίες που απέκτησα.|
+| 13 | [Πηγές και Εργαλείας](#πηγές-και-εργαλεία) | Πηγές και εργαλεία που χρησιμοποίησα για την εκπόνηση των εργασιών.|
 
 <br />
 
@@ -160,7 +161,15 @@
 Όσον αφορά το Συμμετοχικό Περιεχόμενο, έγινε εξικοίωση με το github για την υλοποίηση του. Παράλληλα, ανακτήθηκαν για την υλοποίηση των παραδοτέων πολλές ενδιαφέρουσες και χρήσιμες πληροφορίες, καθώς επίσης κατάφερα να υλοποιήσω και τα submodules, γεγονός που μου πήρε παραπάνω χρόνο στην αρχή της υλοποίησης των ασκήσεων.
 
 
-#### Πηγές
+#### Πηγές και Εργαλεία
 * [Arch Linux - Shells](https://wiki.archlinux.org/title/command-line_shell)
+* [Github](https://en.wikipedia.org/wiki/GitHub)
+* [Github](https://github.com/)
+* [Git](https://git-scm.com/)
+* [Alan Turing - Bio](https://en.wikipedia.org/wiki/Alan_Turing)
+* [Alan Turing - Bio](https://www.britannica.com/biography/Alan-Turing)
+* [Command Line Interface](https://en.wikipedia.org/wiki/Command-line_interface)
+* [Graphical User Interface (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface)
+* [GUI](https://www.computerhope.com/jargon/g/gui.htm)
 
 
