@@ -140,7 +140,10 @@
 <br />
 [Εικόνα Github Contibutions](https://github.com/p15chei/images/blob/a692adb5704b1f5cd11c31200e22fd37dd05694a/github-contributions.png)
 
+##### Αρχείας *.md
 
+- [Github - Case Study](https://github.com/p15chei/site/blob/master/_case-study/github.md)
+- [Github - Case Study (Includes)](https://github.com/p15chei/site/blob/master/_includes/cs-github.md)
 
 ## Συμμετοχικό Περιεχόμενο Β1
 
