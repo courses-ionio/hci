@@ -3,7 +3,7 @@
 ### Ονοματεπώνυμο: ΚΩΝΣΤΑΝΤΙΝΟΣ ΧΕΙΡΔΑΡΗΣ
 ### Αριθμός Μητρώου: Π2015194
 ### GitHub Profile: [Κωνσταντίνος Χειρδάρης p15chei](https://github.com/p15chei)
-### Netlify Site: [p2015194-ionio-pibook](https://p2015194-ionio-pibook.netlify.app)
+### Netlify Site: [p2015194-pibook](https://p2015194-pibook.netlify.app/)
 ### Site Repository: [p15chei/site](https://github.com/p15chei/site)
 <br />
 
@@ -108,7 +108,7 @@
 
 # Συμμετοχικό Περιεχόμενο
 
-#### Netlify Site: [p2015194-ionio-pibook](https://p2015194-ionio-pibook.netlify.app)
+#### Netlify Site: [p2015194-pibook](https://p2015194-pibook.netlify.app/)
 #### Site Repository: [p15chei/site](https://github.com/p15chei/site)
 
 Αρχικά, οι πρώτες αλλαγές που υλοποίησα αφορούσαν το [config.yml](https://github.com/p20sami/site/blob/master/_config.yml), όπου άλλαξα το url που οδηγεί στο βιβλίο. Το Url το ενημέρωσα και στην περιγραφή το αποθετηρίου p15chei/site για πιο εύκολη και άμεση πρόσβαση. Επίσης, υλοποιήθηκαν αλλαγές και στο αρχείο .gitmodules, οπου επίσης ενημερώθηκαν τα urls για τα submodules(gallery, images etc.).
