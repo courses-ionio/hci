@@ -112,7 +112,7 @@
 #### Netlify Site: [p2015194-pibook](https://p2015194-pibook.netlify.app/)
 #### Site Repository: [p15chei/site](https://github.com/p15chei/site)
 
-Αρχικά, οι πρώτες αλλαγές που υλοποίησα αφορούσαν το [config.yml](https://github.com/p20sami/site/blob/master/_config.yml), όπου άλλαξα το url που οδηγεί στο βιβλίο. Το Url το ενημέρωσα και στην περιγραφή το αποθετηρίου p15chei/site για πιο εύκολη και άμεση πρόσβαση. Επίσης, υλοποιήθηκαν αλλαγές και στο αρχείο .gitmodules, οπου επίσης ενημερώθηκαν τα urls για τα submodules(gallery, images etc.).
+Αρχικά, οι πρώτες αλλαγές που υλοποίησα αφορούσαν το [config.yml](https://github.com/p15chei/site/blob/master/_config.yml), όπου άλλαξα το url που οδηγεί στο βιβλίο. Το Url το ενημέρωσα και στην περιγραφή το αποθετηρίου p15chei/site για πιο εύκολη και άμεση πρόσβαση. Επίσης, υλοποιήθηκαν αλλαγές και στο αρχείο .gitmodules, οπου επίσης ενημερώθηκαν τα urls για τα submodules(gallery, images etc.).
 
 #### [config.yml](https://github.com/p15chei/site/blob/master/_config.yml)
 #### [GitModules](https://github.com/p15chei/site/blob/master/.gitmodules)
@@ -156,7 +156,7 @@
 
 [Διαφάνειες "Τρόποι Διάδρασης" - Netlify](https://p2015194-pibook.netlify.app/slides/styles/)
 <br />
-[Repository "slides" - Styles.md](https://github.com/p20sami/site/blob/%CE%A02020023/_slides/styles.md)
+[Repository "slides" - Styles.md](https://github.com/p15chei/site/blob/master/_slides/styles.md)
 
 #### Χρονολόγια GUI & CMD
 
