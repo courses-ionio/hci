@@ -52,7 +52,7 @@
 
 [Link Πληροφορίες - Asciinema](https://asciinema.org/a/dcnPy6HDAE38Kg0PRFGBO5UIG)
 
-![Arch Linux](Archlinux.png)
+![Arch Linux](https://raw.githubusercontent.com/p15chei/my_images/main/Archlinux.png)
 
 # Άσκηση Γραμμής Εντολών 1
 ## Set-up the main dependencies and demonstrate your base system
@@ -90,7 +90,7 @@
 
 #### [Link Asciinema - 4η άσκηση - Batch image conversion](https://asciinema.org/a/DHiDFlUH7Xw76ZMsaYpIN4DuN)
 
-![Imagemagick](imagemagick.png)
+![Imagemagick](https://github.com/p15chei/my_images/blob/main/imagemagick.png)
 
 # Άσκηση Γραμμής Εντολών 5
 ## Download mp3
