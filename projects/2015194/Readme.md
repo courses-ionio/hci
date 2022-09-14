@@ -179,7 +179,7 @@
 #### [Βιογραφία Alan Turing](https://p2015194-pibook.netlify.app/biography/alan-turing/)
 
 ##### Αρχείας *.md
-- [Alan Turing - Bio Includes](https://github.com/p15chei/site/edit/master/_includes/bio-turing.md)
+- [Alan Turing - Bio Includes](https://github.com/p15chei/site/blob/master/_includes/bio-turing.md)
 - [Alan Turing - Biography](https://github.com/p15chei/site/blob/master/_biography/alan-turing.md)
 
 <br />
