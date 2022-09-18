@@ -40,17 +40,17 @@
   
   ## Παραδοτέο 4 : Συμμετοχικό περιεχόμενο 1A
   
-  Μετά από fork των αποθετηρίων images,_gallery και site, αποφάσησα το πρώτο σετ φωτογραφιών που θα πρόσθεσω να αφορούν το Apple iPhone. Το iphone αποτέλεσε μεγάλο checkpoint στην επικοινωνία ανθρώπου υπολογιστή αφού στην πραγματικότητα κάθε άνθρωπος στον πλανήτη μπορούσε εύκολα και γρήγορα να έρθει σε επαφή με τον υπολογιστή του αφού μπορούσε να τον κουβαλήσει μαζί του. Σας παραθέτω τα λινκ των φωτογραφιών:
+  Μετά από fork των αποθετηρίων images,_gallery και site, αποφάσησα το πρώτο σετ φωτογραφιών που θα πρόσθεσω να αφορούν το πρώτο ποντίκι στον κόσμο. Mία από τις εφευρέσεις του καινοτόμου Douglas Engelbart. Το πρώτο ποντίκι αυτό αποτέλεσε μεγάλο checkpoint στην επικοινωνία ανθρώπου υπολογιστή αφού στην πραγματικότητα ήτανε ένα μεγάλο βήμα στο δρόμο της διάδρασης κάθε άνθρωπου στον πλανήτη με το υπολογιστή. Χωρίς αυτό ίσως ο καθημερινός άνθρωπος να έβλεπε τον υπολογιστή ως κάτι απλησίαστο. Σας παραθέτω τα λινκ των φωτογραφιών:
   
- [Apple Iphone image](https://github.com/siotasandreas/images/blob/2015008/IPhone_1st_Gen.png)
- [Apple Iphone thumbnail](https://github.com/siotasandreas/images/blob/2015008/IPhone_1st_Gen%20-thumb.png) 
- [Apple Iphone Caption](https://github.com/siotasandreas/_gallery/blob/2015008/IPhone_1st_Gen.md)
-  νμ
- Το δεύτερο σετ φωτογραφιών αφορούν το ipod πρώτης γενιάς. Το ipod με την εύχρηστη λίστα τραγουδιών και τον τροχό κύλισης έγινε μια απίστευτη επιτυχία αφού πρόσφερε πολύ εύκολη επικοινωνία με το χρήστη, ο οποίος σταδιακά εξοικειώθηκε με portable συσκευές τεχνολογίας.
+ [First Computer Mouse image](https://github.com/siotasandreas/images/blob/2015008/First%20Computer%20Mouse.jpg)
+ [First Computer Mouse thumbnail](https://github.com/siotasandreas/images/blob/2015008/First%20Computer_Mouse-thumb.jpg) 
+ [First Computer Mouse Caption](https://github.com/siotasandreas/_gallery/blob/2015008/First%20Computer%20Mouse.md)
   
- [Ipod Image](https://github.com/siotasandreas/images/blob/2015008/IPod_1G.jpg)
- [Ipod thumbnail](https://github.com/siotasandreas/images/blob/2015008/IPod_1G-thumb.jpg)
- [Ipod Caption](https://github.com/siotasandreas/_gallery/blob/2015008/IPhone_1st_Gen.md)
+ Το δεύτερο σετ φωτογραφιών αφορούν το Apple Usb Mouse (1998). Το μηχανικό αυτό ποντίκι με τον ιδιαίτερο σχεδιασμό του και την έλλειψη κουμπιών ήταν το πρώτο ποντίκι της apple που χρησιμοποίησε την τεχνολογία του usb. Αν και χαρακτηρίστηκε ως ένα από τα χειρότερα ποντίκια όλων των εποχών δεν πάυει να είναι αναπόσπαστο μέρος της ιστορίας της επικοινωνίας του ανθρώπου με τον υπολογιστή και της ανάγκης για εξέλιξη, η οποία ήρθε με τα οπτικά ποντίκια.
+  
+ [Apple Usb Mouse Image](https://github.com/siotasandreas/images/blob/2015008/Apple%20Usb%20Mouse.JPG)
+ [Apple Usb Mouse thumbnail](https://github.com/siotasandreas/images/blob/2015008/Apple%20Usb%20Mouse-thumb.jpg)
+ [Apple Usb Mouse Caption](https://github.com/siotasandreas/_gallery/blob/2015008/Apple%20Usb%20Mouse.md)
   
   ###### [5]
    
