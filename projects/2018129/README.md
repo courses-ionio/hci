@@ -28,6 +28,8 @@
 | 13 | Κατασκευή του βιβλίου Β | | |
 | 14 | Τελική αναφορά* | | |
 
+# ΕΙΣΑΓΩΓΗ
+
 ## **1ο παραδοτέο - Use the terminal as an IDE-(hci)**
 1.Αρχικά έκανα εγκατάσταση το spacevim με την εντολη: curl -sLf https://spacevim.org/install.sh | bash
 
@@ -88,14 +90,16 @@ Asciinema:Παραδοτέο 4ο https://asciinema.org/a/463711
 
 2.Ετρεξα το emacs org-mode -nw
 
-Asciinema:Παραδοτέο 5ο
+[![asciicast](https://asciinema.org/a/288086.svg)](https://asciinema.org/a/288086)
+
+Asciinema:Παραδοτέο 5ο https://asciinema.org/a/288086
 
 ## **6ο παραδοτέο - Text editor and plug-ins for code highlighting and autocompletion-(warmup)**
 1.Απλα τρεχω το vim vimrc και κινουμε μεσα σε αυτο
 
 2.Δειχνω αλλα μεσα που ειναι αυτο εφικτο
 
-Asciinema:Παραδοτέο 6ο
+Asciinema:Παραδοτέο 6ο https://asciinema.org/a/284617
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Βιογραφια:
