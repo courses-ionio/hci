@@ -28,6 +28,15 @@
 | 13 | Κατασκευή του βιβλίου Β | | |
 | 14 | Τελική αναφορά* | | |
 
+## **1ο παραδοτέο - Use the terminal as an IDE-(hci)**
+## **2ο παραδοτέο - Format your report-(hci)**
+## **3ο παραδοτέο - Organise the terminal window into multiple areas-(warmup)**
+## **4ο παραδοτέο - Set-up the main dependencies and demonstrate your base system-(warmup)**
+## **5ο παραδοτέο - Organize your notes with emacs-(warmup)**
+## **6ο παραδοτέο - Text editor and plug-ins for code highlighting and autocompletion-(warmup)**
+
+
+
 ## **1ο παραδοτέο - Set-up the main dependencies and demonstrate your base system**
 
 Πρώτη είναι η εργασία όπου ζητείται να γίνει εγκατάσταση τον βασικών απαιτούμενων και να παρουσιάσω τα χαρακτηριστικά του συστήματος μου.
