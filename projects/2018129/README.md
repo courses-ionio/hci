@@ -13,18 +13,18 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
-| 2 | Άσκηση γραμμής εντολών:use the terminal as an IDE:hci | | |
+| 1 |  Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα--> | | |
+| 2 | Άσκηση γραμμής εντολών:use the terminal as an IDE-(hci) | | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών:format your report:hci | | |
+| 4 | Άσκηση γραμμής εντολών:format your report-(hci) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών -organise the terminal window into multiple areas-warmup| | |
+| 8 | Άσκηση γραμμής εντολών -organise the terminal window into multiple areas-(warmup)| | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών -set-up the main dependencies and demonstrate your base system-warmup| | |
-| 11 | Άσκηση γραμμής εντολών -organize your notes with emacs-warmup| | |
-| 12 | Άσκηση γραμμής εντολών -text editor and plug-ins for code highlighting and autocompletion-warmup| | |
+| 10 | Άσκηση γραμμής εντολών -set-up the main dependencies and demonstrate your base system-(warmup)| | |
+| 11 | Άσκηση γραμμής εντολών -organize your notes with emacs-(warmup)| | |
+| 12 | Άσκηση γραμμής εντολών -text editor and plug-ins for code highlighting and autocompletion-(warmup)| | |
 | 13 | Κατασκευή του βιβλίου Β | | |
 | 14 | Τελική αναφορά* | | |
 
@@ -38,7 +38,7 @@
 3.Στη συνεχεία παρουσίασα το shell configiratiuon file μου χρησιμοποιώντας την εντολής "nano ~/.bashrc" για την προβολή του bashrc.
 
 4.Τέλος παρουσιάζω πληροφορίες του συστήματος μου ,με την χρήση του neofetch εμφανίζονται πληροφορίες που αφορούν το hardware καθώς και το software. Επιπλέον με την επεξεργασία του  config.conf του neofetch έχουμε δυνατότητα για διαφορές ρυθμίσεις με τις οποίες μπορούμε να κάνουμε customize το neofetch όπως να προσθέσουμε την λειτουργιά που εμφανίζει το ποσοστό της μπαταρίας μας επιπρόσθετα μπορούμε να αλλάξουμε το icon ,η εντολή που χρησιμοποιούμε για το τελευταίο είναι : 
-"sudo vim/home/p2020197/.config/neofetch/config.conf".
+"sudo vim/home/p2018129/.config/neofetch/config.conf".
 Asciinema:Παραδοτέο 2ο https://asciinema.org/a/463711
 Εργαλεία :ls,sudo,nano,vim,neofetch
 
@@ -85,5 +85,3 @@ Asciinema:Παραδοτέο 3ο https://asciinema.org/a/463732
 [alexa](https://github.com/comanter/gr/blob/gh-pages/images/aleja.jpg)
 [Alexa 160px](https://github.com/comanter/gr/blob/gh-pages/images/aleja-thumb.jpeg)
 [Alexa Info](https://github.com/comanter/gr/blob/gh-pages/_gallery/aleja.md)
-
- master 
