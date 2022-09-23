@@ -14,21 +14,22 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα--> | | |
-| 2 | Άσκηση γραμμής εντολών:use the terminal as an IDE-(hci) | | |
+| 2 | Άσκηση γραμμής εντολών:use the terminal as an IDE-(hci) | | Εμαθα να γράφω άμεσα κώδικα και να τον εκτελώ στο τερματικό |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών:format your report-(hci) | | |
+| 4 | Άσκηση γραμμής εντολών:format your report-(hci) | | Εμαθα να χρισημοποιω το groff για να φτιαχνω pdf κσι man pages |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών -organise the terminal window into multiple areas-(warmup)| | |
+| 8 | Άσκηση γραμμής εντολών -organise the terminal window into multiple areas-(warmup)| | Καταφερα με ενα τερματικο να κανω πολλες διεργασειες |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών -set-up the main dependencies and demonstrate your base system-(warmup)| | |
-| 11 | Άσκηση γραμμής εντολών -organize your notes with emacs-(warmup)| | |
-| 12 | Άσκηση γραμμής εντολών -text editor and plug-ins for code highlighting and autocompletion-(warmup)| | |
+| 10 | Άσκηση γραμμής εντολών -set-up the main dependencies and demonstrate your base system-(warmup)| | Γνωρισα ενα νεο τροπω να μαζευω πληροφορειες για ενα συστημα |
+| 11 | Άσκηση γραμμής εντολών -organize your notes with emacs-(warmup)| | Ενας νεος ενδιαφερον τροπος περιηγισεις |
+| 12 | Άσκηση γραμμής εντολών -text editor and plug-ins for code highlighting and autocompletion-(warmup)| | Ηρθα σε επαφη με ενα πολη γνωστο εργαλειο για εγραφη κειμενου |
 | 13 | Κατασκευή του βιβλίου Β | | |
-| 14 | Τελική αναφορά* | | |
+| 14 | Τελική αναφορά* | | Απεκτησα ενα νεο set γνωσεων |
 
 # ΕΙΣΑΓΩΓΗ
+Σκοπός μου σε αυτό το μάθημα είναι η καλύτερη κατανόηση της διάδρασης μεταξύ ανθρώπου και υπολογιστή. Τι συμβαίνει στο παρασκήνιο, και πως επιτυγχάνεται μία καλύτερη και πιο αποδοτική συνεννόηση ανάμεσα στον υπολογιστή και τον ανθρώπου. Και πώς,εντελη,ως προγραμματιστής και χρήστης, να εχω ενα αρκετα καλο χειρισμό τερματικων.
 
 ## **1ο παραδοτέο - Use the terminal as an IDE-(hci)**
 1.Αρχικά έκανα εγκατάσταση το spacevim με την εντολη: curl -sLf https://spacevim.org/install.sh | bash
@@ -141,3 +142,5 @@ Asciinema:Παραδοτέο 6ο https://asciinema.org/a/284617
 [alexa](https://github.com/comanter/gr/blob/gh-pages/images/aleja.jpg)
 [Alexa 160px](https://github.com/comanter/gr/blob/gh-pages/images/aleja-thumb.jpeg)
 [Alexa Info](https://github.com/comanter/gr/blob/gh-pages/_gallery/aleja.md)
+## Επίλογος:
+Πιστεύω πως εκπληρώθηκαν οι προσωπικοί στόχοι που είχα θέσει για το μάθημα. Έμαθα την χρησιμότητα του τερματικού και είδα πως είναι να συμετέχει κάποιος σε ένα μεγάλο και ολοκληρωμένο project. 
