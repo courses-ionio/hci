@@ -153,10 +153,15 @@
 ## ΒΗΜΑΤΑ
 
 ◉ Εγκατάσταση youtube-dl ``sudo pacman -S youtube-dl ``
+
 ◉ Εγκατάσταση mpv ``sudo pacman -S mpv ``
+
 ◉ Εγκατάσταση ffmpeg ``sudo pacman -S ffmpeg``
+
 ◉ ``sudo pacman -S youtube-dl mpv ffmpeg ``
+
 ◉ ``sudo youtube-dl "ytsearch:Kiss I Was Made for Loving you ``
+
 
 
 
@@ -173,11 +178,18 @@
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ 2Α 
 
-timeline-mouse
+ Για το 6 παραδοτέο επέλεξα να προσθέσω στο χρονολογίο το microsoft mouse το οποίο έχει δημιουργηθεί το 1983.Είναι το πρώτο ποντίκι που κυκλοφόρησε από την εταιρεία και συνόδευε το Microsoft Word.
+ 
+Για της διαφάνειες επέλεξα να προσθέσω το gui gnome το οποίο μπορεί να εγκατασταθεί σε λειτουργικά linux.
+
 
 [timeline](https://p2017200.netlify.app//timeline/mouse/)
 
 [διαφανιες](https://github.com/vivikara/site/blob/master/_slides/gui.md)
+
+[gnome png]() 
+
+[Microsoft mouse](https://github.com/vivikara/Myimages/blob/main/Screenshot%20hci.png)
 
 
 
