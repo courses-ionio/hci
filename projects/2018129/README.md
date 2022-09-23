@@ -45,6 +45,8 @@
 
 4.Ετρεξα το helloworld μια φορα λαθος και μια σωστα με την εντολη python helloworld.py ωστε να διακρινω τα errors.
 
+[![asciicast](https://asciinema.org/a/523117.svg)](https://asciinema.org/a/523117)
+
 Asciinema:Παραδοτέο 1ο https://asciinema.org/a/523117
 
 ## **2ο παραδοτέο - Format your report-(hci)**
@@ -68,6 +70,8 @@ Asciinema:Παραδοτέο 2ο
 
 3.Τέλος για να κάνω Performance monitoring του υπολογιστή μου, στο δεύτερο window εκτελώ glances το οποίο μου προσφέρει την δυνατότητα να δω διάφορες πληροφορίες όπως την απόδοση του υπολογιστή μου και άλλα παρεμφερή.
 
+[![asciicast](https://asciinema.org/a/463732.svg)](https://asciinema.org/a/463732)
+
 Asciinema:Παραδοτέο 3ο https://asciinema.org/a/463732
 
 ## **4ο παραδοτέο - Set-up the main dependencies and demonstrate your base system-(warmup)**
@@ -80,6 +84,8 @@ Asciinema:Παραδοτέο 3ο https://asciinema.org/a/463732
 3.Στη συνεχεία παρουσίασα το shell configiratiuon file μου χρησιμοποιώντας την εντολής "nano ~/.bashrc" για την προβολή του bashrc.
 
 4.Τέλος παρουσιάζω πληροφορίες του συστήματος μου ,με την χρήση του neofetch εμφανίζονται πληροφορίες που αφορούν το hardware καθώς και το software. Επιπλέον με την επεξεργασία του  config.conf του neofetch έχουμε δυνατότητα για διαφορές ρυθμίσεις με τις οποίες μπορούμε να κάνουμε customize το neofetch όπως να προσθέσουμε την λειτουργιά που εμφανίζει το ποσοστό της μπαταρίας μας ή επιπρόσθετα μπορούμε να αλλάξουμε το icon.
+
+[![asciicast](https://asciinema.org/a/463711.svg)](https://asciinema.org/a/463711)
 
 Asciinema:Παραδοτέο 4ο https://asciinema.org/a/463711
 
@@ -98,6 +104,8 @@ Asciinema:Παραδοτέο 5ο https://asciinema.org/a/288086
 1.Απλα τρεχω το vim vimrc και κινουμε μεσα σε αυτο
 
 2.Δειχνω αλλα μεσα που ειναι αυτο εφικτο
+
+[![asciicast](https://asciinema.org/a/284617.svg)](https://asciinema.org/a/284617)
 
 Asciinema:Παραδοτέο 6ο https://asciinema.org/a/284617
 
