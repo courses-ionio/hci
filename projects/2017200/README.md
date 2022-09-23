@@ -140,8 +140,32 @@
 
 
 
+## ΠΑΡΑΔΟΤΕΟ 5
+
+## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 
+
+Για το 5 παραδοτέο επέλεξα να κάνω μια [warm up](https://github.com/epidrome/dokey#warmup). Η άσκηση που πραγματοποίησα ήταν το download mp3. Αρχικά επέλεξα το κομμάτι  KIss : I Was Made For Loving you. 
+
+Αρχικά έκανα εγκατάσταση το youtube-dl,mpv,ffmpeg.
 
 
+
+## ΒΗΜΑΤΑ
+
+◉ Εγκατάσταση youtube-dl ``sudo pacman -S youtube-dl ``
+◉ Εγκατάσταση mpv ``sudo pacman -S mpv ``
+◉ Εγκατάσταση ffmpeg ``sudo pacman -S ffmpeg``
+◉ ``sudo pacman -S youtube-dl mpv ffmpeg ``
+◉ ``sudo youtube-dl "ytsearch:Kiss I Was Made for Loving you ``
+
+
+
+
+
+
+
+
+[Asciinema link](https://asciinema.org/a/522219)
 
 
 
