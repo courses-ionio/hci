@@ -20,11 +20,13 @@
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών -warmup| | |
+| 8 | Άσκηση γραμμής εντολών -organise the terminal window into multiple areas-warmup| | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών -warmup| | |
-| 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 10 | Άσκηση γραμμής εντολών -set-up the main dependencies and demonstrate your base system-warmup| | |
+| 11 | Άσκηση γραμμής εντολών -organize your notes with emacs-warmup| | |
+| 12 | Άσκηση γραμμής εντολών -text editor and plug-ins for code highlighting and autocompletion-warmup| | |
+| 13 | Κατασκευή του βιβλίου Β | | |
+| 14 | Τελική αναφορά* | | |
 
 ## **1ο παραδοτέο - Set-up the main dependencies and demonstrate your base system**
 
