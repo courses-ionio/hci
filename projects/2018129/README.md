@@ -34,16 +34,29 @@
 2.Έπειτα εκανα Enable language layer και επέλεξα Python interpreter δηλαδη προσθεσα στο SpaceVim configuration file το :
 
   [[layers]]
+  
   name = 'lang#python'
+  
   python_interpreter = 'D:\scoop\shims\python.exe'
   
 3.Αφου ολοκληροσα την εγκατασταση του spacevim,δημιούργισα το helloworld.py με την εντολή nvim helloworld.py
 
 4.Ετρεξα το helloworld μια φορα λαθος και μια σωστα με την εντολη python helloworld.py ωστε να διακρινω τα errors.
 
-Asciinema:Παραδοτέο 1ο 
+Asciinema:Παραδοτέο 1ο https://asciinema.org/a/523117
 
 ## **2ο παραδοτέο - Format your report-(hci)**
+1.Αρχικά εγκατεστησα το groff με την  εντολη apt-get install groff
+
+2.Επειτα δηνιουργισα το test.ms με το nvim test.ms και εγραψα στο αρχειο με 
+τις groff εντολες .AU .SH κτλ.
+
+3.Στη συνέχεια ετρεξα το groff -ms -Tpdf test.ms > test.pdf για να φτιαξω το test.pdf και να του αποθηκευω τυχων αλλαγες
+
+4.Μετα εμφανιζω το pdf με την εντολη  zathura test.pdf
+
+Asciinema:Παραδοτέο 2ο
+
 ## **3ο παραδοτέο - Organise the terminal window into multiple areas-(warmup)**
 Για το 3ο παραδοτέο επέλεξα την άσκηση που απαιτεί να οργανώσω το terminal  με την χρήση ενός προγράμματος και έπειτα να παρουσιάσω την απόδοση του υπολογιστή μου ενώ παράλληλα κάνω browse το web στο άλλο παράθυρο.
 
