@@ -29,6 +29,20 @@
 | 14 | Τελική αναφορά* | | |
 
 ## **1ο παραδοτέο - Use the terminal as an IDE-(hci)**
+1.Αρχικά έκανα εγκατάσταση το spacevim με την εντολη: curl -sLf https://spacevim.org/install.sh | bash
+
+2.Έπειτα εκανα Enable language layer και επέλεξα Python interpreter δηλαδη προσθεσα στο SpaceVim configuration file το :
+
+  [[layers]]
+  name = 'lang#python'
+  python_interpreter = 'D:\scoop\shims\python.exe'
+  
+3.Αφου ολοκληροσα την εγκατασταση του spacevim,δημιούργισα το helloworld.py με την εντολή nvim helloworld.py
+
+4.Ετρεξα το helloworld μια φορα λαθος και μια σωστα με την εντολη python helloworld.py ωστε να διακρινω τα errors.
+
+Asciinema:Παραδοτέο 1ο 
+
 ## **2ο παραδοτέο - Format your report-(hci)**
 ## **3ο παραδοτέο - Organise the terminal window into multiple areas-(warmup)**
 Για το 3ο παραδοτέο επέλεξα την άσκηση που απαιτεί να οργανώσω το terminal  με την χρήση ενός προγράμματος και έπειτα να παρουσιάσω την απόδοση του υπολογιστή μου ενώ παράλληλα κάνω browse το web στο άλλο παράθυρο.
