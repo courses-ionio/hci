@@ -32,6 +32,18 @@
 ## **2ο παραδοτέο - Format your report-(hci)**
 ## **3ο παραδοτέο - Organise the terminal window into multiple areas-(warmup)**
 ## **4ο παραδοτέο - Set-up the main dependencies and demonstrate your base system-(warmup)**
+Πρώτη είναι η εργασία όπου ζητείται να γίνει εγκατάσταση τον βασικών απαιτούμενων και να παρουσιάσω τα χαρακτηριστικά του συστήματος μου.
+1.Αρχικά αλλάζω το όνομα του command prompt στον αριθμό μητρώου μου και τρέχω το command PS1="Π2018129:~#. 
+
+2.Έπειτα προβάλω την λίστα με τα dot files ώστε να εμφανιστούν τα dot αρχεία μου με την εντολή "ls -a".
+
+3.Στη συνεχεία παρουσίασα το shell configiratiuon file μου χρησιμοποιώντας την εντολής "nano ~/.bashrc" για την προβολή του bashrc.
+
+4.Τέλος παρουσιάζω πληροφορίες του συστήματος μου ,με την χρήση του neofetch εμφανίζονται πληροφορίες που αφορούν το hardware καθώς και το software. Επιπλέον με την επεξεργασία του  config.conf του neofetch έχουμε δυνατότητα για διαφορές ρυθμίσεις με τις οποίες μπορούμε να κάνουμε customize το neofetch όπως να προσθέσουμε την λειτουργιά που εμφανίζει το ποσοστό της μπαταρίας μας ή επιπρόσθετα μπορούμε να αλλάξουμε το icon.
+
+Asciinema:Παραδοτέο 4ο https://asciinema.org/a/463711
+Εργαλεία :ls,sudo,nano,vim,neofetch
+
 ## **5ο παραδοτέο - Organize your notes with emacs-(warmup)**
 ## **6ο παραδοτέο - Text editor and plug-ins for code highlighting and autocompletion-(warmup)**
 
