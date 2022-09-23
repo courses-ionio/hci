@@ -84,10 +84,18 @@ Asciinema:Παραδοτέο 4ο https://asciinema.org/a/463711
 Εργαλεία :ls,sudo,nano,vim,neofetch
 
 ## **5ο παραδοτέο - Organize your notes with emacs-(warmup)**
+1.Εγκαταστω το emacs με την εντολη apt-get install emacs
+
+2.Ετρεξα το emacs org-mode -nw
+
+Asciinema:Παραδοτέο 5ο
+
 ## **6ο παραδοτέο - Text editor and plug-ins for code highlighting and autocompletion-(warmup)**
+1.Απλα τρεχω το vim vimrc και κινουμε μεσα σε αυτο
 
+2.Δειχνω αλλα μεσα που ειναι αυτο εφικτο
 
-
+Asciinema:Παραδοτέο 6ο
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Βιογραφια:
