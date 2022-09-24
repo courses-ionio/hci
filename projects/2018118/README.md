@@ -9,7 +9,7 @@
 | 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα](#εισαγωγη-παραδοτέο-1) |
 | 2 | [Άσκηση γραμμής εντολών](#παραδοτέο-2)|
 | 3 | [Άσκηση γραμμής εντολών](#παραδοτέο-3)|
-| 4 | συμμετοχικό περιεχόμενο 1A|
+| 4 | [συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4)|
 | 5 | Άσκηση γραμμής εντολών|
 | 6 | συμμετοχικό περιεχόμενο 2A|
 | 7 | Άσκηση γραμμής εντολών|
@@ -63,3 +63,14 @@
 Παρακάτω θα βρείτε το link για το asciinema με τα Deliverables:
 
 [Asciinema Link](https://asciinema.org/a/FVYNiTMcZPy0ntIvW4YKY8Zr2)
+
+# Παραδοτέο 4
+
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Α1 ασχολήθηκα με τις γλώσσες προγραματισμού C και Java οι οποίες όσο κοινές είναι λόγω των γενικών προγραμματιστικών ιδιοτήτων τους, τόσο διαφορετικές είναι στην μορφή τους, στον τρόπο λειτουργίας τους και στον προγραμματιστικό στόχο της κάθε μιας. Διαδικαστικά για την ολοκλήρωση του παραδοτέου λοιπόν, ξεκίνησα κάνοντας fork τα απαραίτητα αποθετήρια ενώ στην συνέχεια δυσκολεύτηκα αρκετά κατά την διαδικασία για τα submodules. Το πρόβλημα ήταν ότι προσπαθώντας να κάνω add το forked repository ήταν ήδη ως submodule το original του master, επομένως δεν με άφηνε. Προχώρησα τελικά στην αφαίρεση του submodule και στην επαναπρόσθεση του από το forked repository. Τέλος βρήκα, έφτιαξα και πρόσθεσα τα απαραίτητα αρχεία για την ολοκλήρωση τοου παραδοτέου.
+
+| Περιγραφή | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Gallery C Programming Language | [c-programming-language.md](https://github.com/Drexion/_gallery/blob/master/c-programming-language.md) | [C Programming Language Summary](https://p2018118-pibook.netlify.app/gallery/c-programming-language/) |
+| Images C Programming Language | [Full Quality](https://github.com/Drexion/images/blob/master/c-programming-language.png) + [Thumbnail](https://github.com/Drexion/images/blob/master/c-programming-language-thumb.png) |
+| Gallery Java | [java.md](https://github.com/Drexion/_gallery/blob/master/java.md) | [Java Summary](https://p2018118-pibook.netlify.app/gallery/java/) |
+| Images Java | [Full Quality](https://github.com/Drexion/images/blob/master/java.png) + [Thumbnail](https://github.com/Drexion/images/blob/master/java-thumb.png) |
