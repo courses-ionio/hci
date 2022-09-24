@@ -126,7 +126,7 @@ https://github.com/comanter/gr/blob/gh-pages/_biography/bio_Elon_Musk
  
 ==========================================================================
 
-## Οι Πεντε Εικονες και οι πληροφοριες τους
+## Συμμετοχικό υλικό - Οι Πεντε Εικονες και οι πληροφοριες τους
 
 [Smart Tv](https://github.com/comanter/gr/blob/gh-pages/images/Smart-tv.jpg)
 [Smart Tv-160px](https://github.com/comanter/gr/blob/gh-pages/images/Smart-tv-thumb.png)
