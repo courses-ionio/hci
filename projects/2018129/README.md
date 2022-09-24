@@ -60,7 +60,11 @@ Asciinema:Παραδοτέο 1ο https://asciinema.org/a/523117
 
 4.Μετα εμφανιζω το pdf με την εντολη  zathura test.pdf
 
-Asciinema:Παραδοτέο 2ο
+
+
+[![asciicast](https://asciinema.org/a/523532.svg)](https://asciinema.org/a/523532)
+
+Asciinema:Παραδοτέο 2ο https://asciinema.org/a/523532
 
 ## **3ο παραδοτέο - Organise the terminal window into multiple areas-(warmup)**
 Για το 3ο παραδοτέο επέλεξα την άσκηση που απαιτεί να οργανώσω το terminal  με την χρήση ενός προγράμματος και έπειτα να παρουσιάσω την απόδοση του υπολογιστή μου ενώ παράλληλα κάνω browse το web στο άλλο παράθυρο.
