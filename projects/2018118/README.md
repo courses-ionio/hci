@@ -10,7 +10,7 @@
 | 2 | [Άσκηση γραμμής εντολών](#παραδοτέο-2)|
 | 3 | [Άσκηση γραμμής εντολών](#παραδοτέο-3)|
 | 4 | [συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4)|
-| 5 | Άσκηση γραμμής εντολών|
+| 5 | [Άσκηση γραμμής εντολών](#παραδοτέο-5)|
 | 6 | συμμετοχικό περιεχόμενο 2A|
 | 7 | Άσκηση γραμμής εντολών|
 | 8 | συμμετοχικό περιεχόμενο 1B|
@@ -74,3 +74,19 @@
 | Images C Programming Language | [Full Quality](https://github.com/Drexion/images/blob/master/c-programming-language.png) + [Thumbnail](https://github.com/Drexion/images/blob/master/c-programming-language-thumb.png) |
 | Gallery Java | [java.md](https://github.com/Drexion/_gallery/blob/master/java.md) | [Java Summary](https://p2018118-pibook.netlify.app/gallery/java/) |
 | Images Java | [Full Quality](https://github.com/Drexion/images/blob/master/java.png) + [Thumbnail](https://github.com/Drexion/images/blob/master/java-thumb.png) |
+
+# Παραδοτέο 5
+
+Για το 5ο παραδοτέο ασχολήθηκα με την λήψη αρχείου mp3, μέσω του εργαλείου "youtube-dl". Ήταν μία διαδικασία που δεν ήξερα ότι γινόταν μέσω cmd και μου φάνηκε πολύ ενδιαφέρον. Χρησιμοποίησα επίσης μερικά options για την δημιουργία του mp3 καθώς και για την καλύτερη κατανόηση του αρχείου.
+
+Πιο συγκεκριμένα χρησιμοποιήθηκαν τα παρκαάτω τα παρακάτω: 
+
+|Deliverables|
+|---|
+|--audio-format mp3, με το οποίο επέλεξα το αρχείο να είναι mp3|
+|--extract-audio για μετατροπή του βίντεο σε αρχείο ήχου|
+|--limit-rate 3M, το οποίο χρησιμοποιείται για περιορισμό των download byte που καταναλώνει. Χρησιμοποιήθηκε για λόγους κατανόησης του εργαλείου|
+
+Παρακάτω θα βρείτε το link για το asciinema:
+
+[Asciinema Link](https://asciinema.org/a/cbZexrkng4MGY0KxnLgoBkErS)
