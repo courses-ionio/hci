@@ -60,8 +60,13 @@
 
 ## Using emacs 
 
+### Παρακάτω φαίνεται η χρήση των emacs
 ##### link: https://asciinema.org/a/463600
 <a href="https://asciinema.org/a/463600" target="_blank"><img src="https://asciinema.org/a/463600.svg" /></a>
+
+### Εδώ δείχνω την χρήση του org-mode 
+##### link: https://asciinema.org/a/523613
+<a href="https://asciinema.org/a/523613" target="_blank"><img src="https://asciinema.org/a/523613.svg" /></a>
 
 
 # Α1: Προσθήκη 2 εικόνων 
