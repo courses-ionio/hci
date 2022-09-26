@@ -196,7 +196,7 @@
 
 [διαφανιες](https://github.com/vivikara/site/blob/master/_slides/gui.md)
 
-![gnome png]() 
+![gnome png](https://github.com/vivikara/images/blob/master/gnome_interface.png) 
 
 ![Microsoft mouse](https://github.com/vivikara/Myimages/blob/main/Screenshot%20hci.png)
 
@@ -288,6 +288,64 @@ H μετατροπή για το docx έγινε με την εξής εντολ
 [jack tramiel](https://p2017200.netlify.app//biography/jack-tramiel/)
 
 ![jack tramiel](https://github.com/vivikara/Myimages/blob/main/Jack_Tramiel.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## ΠΑΡΑΔΟΤΕΟ 11
+
+## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
+
+
+Για το 11ο παραδοτεέο έπελεξα να κάνω την άσκηση "fetch information" 
+
+Έτσι ξεκίνησα κάνοντας εγκατάσταση το curl και στη συνέχεια χρησιμοποίησα τις εξής εντολές:
+
+
+◉ ``curl getnews.tech/world+cup `` το οποίο εμφανίζει τα νέα
+
+◉ ``curl hkkr.in `` το οποίο εμφανίζει τα νέα των hacker
+
+
+[Asciinema link](https://asciinema.org/a/523367)
+
+
+
+
+## ΠΑΡΑΔΟΤΕΟ 12
+
+## ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
