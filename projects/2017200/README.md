@@ -12,13 +12,13 @@
 | [1](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-1) | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-1) |
 | [2](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-2) | [Άσκηση γραμμής εντολών](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-2) |
 | [3](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-3) | [Άσκηση γραμμής εντολών](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-3) |
-| 4 | συμμετοχικό περιεχόμενο 1A |
-| 5 | Άσκηση γραμμής εντολών |
-| 6 | συμμετοχικό περιεχόμενο 2A |
-| 7 | Άσκηση γραμμής εντολών |
-| 8 | συμμετοχικό περιεχόμενο 1B |
+| [4](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-4) | [συμμετοχικό περιεχόμενο 1A](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-4) |
+| [5](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-5) | [Άσκηση γραμμής εντολών](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-5) |
+| [6](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-6) | [συμμετοχικό περιεχόμενο 2A](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-6) |
+| [7](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-7) | [Άσκηση γραμμής εντολών](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-7) |
+| [8](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-8) | [συμμετοχικό περιεχόμενο 1B](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-8) |
 | 9 | Άσκηση γραμμής εντολών |
-| 10 | συμμετοχικό περιεχόμενο 2B |
+| [10](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) | [συμμετοχικό περιεχόμενο 2B](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
