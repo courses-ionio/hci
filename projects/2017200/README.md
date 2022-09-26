@@ -118,14 +118,21 @@
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ 1Α
 
-Για το συμμετοχικό περιεχόμενο 1Α πρόσθεσα το atari st 
+Για το παραδοτέο 1A έπρεπε να βρούμε δυο είκονες με ελεύθερα πνευματικά δικαιώματα και να τις βάλουμε στους φακέλους _gallery και image.
+
+Αρχικά έκανα fork τα repo [site](https://github.com/vivikara/site),
+[_gallery](https://github.com/vivikara/_gallery),
+[image](https://github.com/vivikara/images)
+
+Έπειτα για την πρώτη εικόνα πρόσθεσα το atari st μια σειρά οικιακών υπολογιστών.
 
 
 [Atari st](https://62ff4d3da6c1b76352827aa1--p2017200.netlify.app/gallery/atari-st/)
 
 
 
-Για το 1A πρόσθεσα το microsoft mouse
+Για την δεύτερη εικόνα πρόσθεσα το microsoft mouse.
+
 
 [link](https://p2017200.netlify.app/gallery/microsoftmouse/)
 
@@ -135,7 +142,9 @@
 
 
 
-Για το παραδοτέο 1A έπρεπε να βρούμε δυο είκονες με ελεύθερα πνευματικά δικαιώματα και να τις βάλουμε στους φακέλους _gallery και image. Αφού έγιναν fork τα repo 
+[Asciinema Link](https://asciinema.org/a/515851)
+
+[Asciinema Link](https://asciinema.org/a/515828)
 
 
 
@@ -187,9 +196,9 @@
 
 [διαφανιες](https://github.com/vivikara/site/blob/master/_slides/gui.md)
 
-[gnome png]() 
+![gnome png]() 
 
-[Microsoft mouse](https://github.com/vivikara/Myimages/blob/main/Screenshot%20hci.png)
+![Microsoft mouse](https://github.com/vivikara/Myimages/blob/main/Screenshot%20hci.png)
 
 
 
@@ -225,6 +234,44 @@
 
 
 
+## ΠΑΡΑΔΟΤΕΟ 9 
+
+## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 
+
+Για το 9ο παραδοτέο επέλεξα να κάνω την άσκηση γραμμής εντολών: "convert between different text formats".
+
+
+Για την ολοκήρωση έκανα εγκατάσταση του Git και του Pandoc αλλά και του Vim με τις εξής εντολές:
+
+◉ ``Sudo pacman -S git ``
+
+◉ ``sudo pacman -Sy ``
+
+◉ ``sudo pacman -S pandoc ``
+
+◉ ``sudo pacman -S vim ``
+
+΄Έπειτα μέσω του vim με την εντολή {vim} ξεκίνησα να γράφω το βιογραφικό μου και μετά έκανα καποιές αλλαγές και τροποόιησεις και τέλος το αποθήκευσα σε Markdown μορφή.
+
+
+Μετά χρησιμοποίησα το terminal για να κάνω την μετατροπή σε docx και html.
+
+H μετατροπή για το docx έγινε με την εξής εντολή: ``pandoc cvfile.md -f markdown -t html  -s -o cvfile.html ``
+
+Η μεταροπή για το html έγινε με την εξής εντολή: ``pandoc cvfile.md -f markdown -t docx -s -o cvfile.docx `` 
+
+
+[Asciinema link html](https://asciinema.org/a/523353)
+
+[Asciinema link docx](https://asciinema.org/a/523356)
+
+[Αρχείο markdown](https://github.com/vivikara/Myimages/blob/main/cvfile.md)
+
+[Αρχείο html](https://github.com/vivikara/Myimages/blob/main/cvfile.html)
+
+[Αρχείο docx](https://github.com/vivikara/Myimages/blob/main/cvfile.docx)
+
+
 
 
 
@@ -232,7 +279,6 @@
 ## ΠΑΡΑΔΟΤΕΟ 10
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ 2B
-
 
 
 
