@@ -17,7 +17,7 @@
 | [6](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-6) | [συμμετοχικό περιεχόμενο 2A](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-6) |
 | [7](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-7) | [Άσκηση γραμμής εντολών](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-7) |
 | [8](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-8) | [συμμετοχικό περιεχόμενο 1B](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-8) |
-| 9 | Άσκηση γραμμής εντολών |
+| [9](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) | [Άσκηση γραμμής εντολών](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) |
 | [10](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) | [συμμετοχικό περιεχόμενο 2B](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) |
 | 11 | Άσκηση γραμμής εντολών |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -283,11 +283,11 @@ H μετατροπή για το docx έγινε με την εξής εντολ
 
 
 
-Για το παραδοτέο 10 πρόσθεσα την βιογραφία του jack tramiel ιδρυτή της atari coorporation 
+Για το παραδοτέο 10 αποφάσισα να προσθέσω την βιογραφία του jack tramiel ιδρυτή της atari coorporation. 
 
 [jack tramiel](https://p2017200.netlify.app//biography/jack-tramiel/)
 
-
+![jack tramiel](https://github.com/vivikara/Myimages/blob/main/Jack_Tramiel.jpg)
 
 
 
