@@ -127,18 +127,32 @@
 Έπειτα για την πρώτη εικόνα πρόσθεσα το atari st μια σειρά οικιακών υπολογιστών.
 
 
+Δημιουργία κείμενου στο [_gallery](https://github.com/vivikara/_gallery/blob/master/atari-st.md)
+
+Τοποθέτηση φωτογραφίας [κανονικού μεγέθους](https://github.com/vivikara/images/blob/master/atari-st.png)
+
+Τοποθέτηση φωτιγραφίας [thumbnail](https://github.com/vivikara/images/blob/master/atari-st-thumbnail.png)
+
+
 [Atari st](https://62ff4d3da6c1b76352827aa1--p2017200.netlify.app/gallery/atari-st/)
 
 
 
-Για την δεύτερη εικόνα πρόσθεσα το microsoft mouse.
+Για την δεύτερη εικόνα πρόσθεσα το microsoft mouse. 
+
+Δημιουργία κείμενου στο [_gallery](https://github.com/vivikara/_gallery/blob/master/microsoftmouse.md)
+
+Τοποθέτηση φωτογραφίας κανονικού [μεγέθους](https://github.com/vivikara/images/blob/master/microsoft-mouse.jpg) 
+
+Τοποθέτηση φωτιγραφίας [thumbnail](https://github.com/vivikara/images/blob/master/microsoft-mouse-thumb.jpg) 
 
 
-[link](https://p2017200.netlify.app/gallery/microsoftmouse/)
 
-[link foto](https://github.com/vivikara/images/blob/master/microsoft-mouse.jpg)
 
-[link thumb](https://github.com/vivikara/images/blob/master/microsoft-mouse-thumb.jpg)
+
+
+[MIcrosoft Mouse](https://p2017200.netlify.app/gallery/microsoftmouse/)
+
 
 
 
