@@ -248,6 +248,25 @@
 
 
 
+Για το παραδοτέο 8 επέλεξα να προσθέσω το Gnome gui. Το οποίο είναι interface για τα λειτουργικά Unix. 
+
+
+Δημιουργία Αρχείου [Gnome](https://github.com/vivikara/site/blob/master/_case-study/Gnome.md)
+
+Δημιουργία Αρχείου cs στο _includes [Gnome](https://github.com/vivikara/site/blob/master/_includes/cs-Gnome.md)
+
+Προσθήκη φωτογραφίας [Gnome interface](https://github.com/vivikara/images/blob/master/gnome_interface.png)
+
+
+
+[Demo gnome](https://p2017200.netlify.app/case-study/gnome/)
+
+
+
+[Asciinema Link](https://asciinema.org/a/524015)
+
+
+
 ## ΠΑΡΑΔΟΤΕΟ 9 
 
 ## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 
