@@ -19,8 +19,8 @@
 | [8](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-8) | [συμμετοχικό περιεχόμενο 1B](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-8) |
 | [9](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) | [Άσκηση γραμμής εντολών](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) |
 | [10](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) | [συμμετοχικό περιεχόμενο 2B](https://github.com/vivikara/hci/blob/2017200/projects/2017200/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) |
-| 11 | Άσκηση γραμμής εντολών |
-| 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
+| [11](https://github.com/vivikara/hci/tree/2017200/projects/2017200#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-11) | [Άσκηση γραμμής εντολών](https://github.com/vivikara/hci/tree/2017200/projects/2017200#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-11) |
+| [12](https://github.com/vivikara/hci/tree/2017200/projects/2017200#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-12) | [Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση](https://github.com/vivikara/hci/tree/2017200/projects/2017200#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-12) |
 
 
 
