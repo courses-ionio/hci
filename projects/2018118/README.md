@@ -13,7 +13,7 @@
 | 5 | [Άσκηση γραμμής εντολών](#παραδοτέο-5)|
 | 6 | [συμμετοχικό περιεχόμενο 2A](#παραδοτέο-6)|
 | 7 | [Άσκηση γραμμής εντολών](#παραδοτέο-7)|
-| 8 | συμμετοχικό περιεχόμενο 1B|
+| 8 | [συμμετοχικό περιεχόμενο 1B](#παραδοτέο-8)|
 | 9 | Άσκηση γραμμής εντολών|
 | 10 | συμμετοχικό περιεχόμενο 2B|
 | 11 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση|
@@ -116,3 +116,15 @@
 Παρακάτω θα βρείτε το link για το asciinema:
 
 [Asciinema Link](https://asciinema.org/a/P1OfjVfSHWWDzfHjky97UtC2N)
+
+# Παραδοτέο 8
+
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Β1 αποφάσισα να ασχοληθώ με την δημιιουργία ενός case-study για το προγραμματιστικό περιβάλλον Microsoft Visual Studio. Θεωρώ ότι αποτελεί πολύ ενδιαφέρουσα προσθήκη σχετικά με το υλικό του Α1 και Α2 εφόσον οι γλώσσες προγραμματισμού συνδυάζονται άμεσα με τα IDE. Διάλεξα συγκεκριμένα το Visual Studio λόγω των μεγάλο αριθμών γλωσσών που υποστηρίζει καθώς και το extensibility που προσφέρει.
+
+| Netlify |  Case Study | Case Text |
+| --- | --- | --- |
+| [Netlify](https://p2018118-pibook.netlify.app/case-study/visual-studio/) | [Case Study Repository](https://github.com/Drexion/site/blob/master/_case-study/visual-studio.md) | [Case Text Repository](https://github.com/Drexion/site/blob/master/_case-study/cs-visual-studio.md) |
+
+Πηγές
+[Microsoft Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)
+
