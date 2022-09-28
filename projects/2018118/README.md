@@ -11,7 +11,7 @@
 | 3 | [Άσκηση γραμμής εντολών](#παραδοτέο-3)|
 | 4 | [συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4)|
 | 5 | [Άσκηση γραμμής εντολών](#παραδοτέο-5)|
-| 6 | συμμετοχικό περιεχόμενο 2A|
+| 6 | [συμμετοχικό περιεχόμενο 2A](#παραδοτέο-6|
 | 7 | Άσκηση γραμμής εντολών|
 | 8 | συμμετοχικό περιεχόμενο 1B|
 | 9 | Άσκηση γραμμής εντολών|
@@ -90,3 +90,13 @@
 Παρακάτω θα βρείτε το link για το asciinema:
 
 [Asciinema Link](https://asciinema.org/a/cbZexrkng4MGY0KxnLgoBkErS)
+
+# Παραδοτέο 6
+
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Α2 προχώρησα στην υλοποίηση των slides και του timeline, όπου η γενικότερη θεματολογία είναι η εξέλιξη της γλώσσας προγραμματισμού. Aναφέρομαι σε παλαιότερες προγραμματιστικές γλώσσες καθώς και στην δημουργία των πρώτων υπολογιστών. Ως διαδικασία ήταν πιο εύκολη από το Α1 εφόσον πλέον έχω κατανοήσει τον τρόπο λειτουργίας του gituhb και αλληλεπίδρασης του με το Netlify, κάτι που έκανε την διαδικασία αρκετά πιο ομαλή και εύκολη.
+
+
+| Deliverables |  Netlify Link | Αποθετήριο |
+| --- | --- | --- |
+| Διαφάνειες | [Netlify](https://p2018118-pibook.netlify.app/slides/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_slides/programming-evolution.md) |
+| Χρονολόγιο | [Netlify](https://p2018118-pibook.netlify.app/timeline/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_slides/programming-evolution.md) |
