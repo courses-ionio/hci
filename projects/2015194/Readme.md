@@ -50,7 +50,7 @@
 Η εγκατάσταση του Arch Linux έλαβε χώρα σε έναν σκληρό δίσκο του υπολογιστή μου που είχα ενσωματώσει πρόσφατα και δεν είχα "πάνω" κάποιο άλλο λειτουργικό σύστημα. Η εγκατάστηση υλοποιήθηκε σύμφωνα με τον επίσημο [οδηγό](https://wiki.archlinux.org/title/installation_guide) εγκατάστασης των Arch Linux, παραμετροποιώντας τον σε ορισμένα σημεία ώστε να υλοποιηθεί σωστά η εγκατάσταση. Αφού εγκαταστάθηκαν επόμενο βήμα ήταν η εγκατάσταση του γραφικού περιβάλλον χρήστη (GUI), αρχικά υλοποιήθηκε εγκατάσταση των drivers της Envidia, στην συνέχεια το Xorg που είναι το βασικό frame work για το GUI, μετά το Desktop Environment που προτιμήθηκε (Mate) και τέλος το login screen (Display Manager): Gnome. Αφού, βεβαιώθηκα ότι η εγκατάσταση των παραπάνω έγινε σωστά εγκαταστάθηκαν και κάποια επιπλέον utilities, δηλαδή sound system, terminal και system monitor, firefox και media players. Στην συνέχεια υλοποιήθηκαν περαιτέρω εγκαταστάσεις ανάλογα και με τις ασκήσεις.
 
 
-[Link Πληροφορίες - Asciinema](https://asciinema.org/a/dcnPy6HDAE38Kg0PRFGBO5UIG)
+[Link Πληροφορίες - Asciinema](https://asciinema.org/a/vIJmJuBr6uUMfJUqlFyYAjrhG)
 
 ![Arch Linux](https://raw.githubusercontent.com/p15chei/my_images/main/Archlinux.png)
 
