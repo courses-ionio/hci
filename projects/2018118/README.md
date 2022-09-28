@@ -6,7 +6,7 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-| 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα](#εισαγωγη-παραδοτέο-1) |
+| 1 | [Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα](#παραδοτέο-1) |
 | 2 | [Άσκηση γραμμής εντολών](#παραδοτέο-2)|
 | 3 | [Άσκηση γραμμής εντολών](#παραδοτέο-3)|
 | 4 | [συμμετοχικό περιεχόμενο 1A](#παραδοτέο-4)|
@@ -100,7 +100,7 @@
 | Deliverables |  Netlify Link | Αποθετήριο |
 | --- | --- | --- |
 | Διαφάνειες | [Netlify](https://p2018118-pibook.netlify.app/slides/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_slides/programming-evolution.md) |
-| Χρονολόγιο | [Netlify](https://p2018118-pibook.netlify.app/timeline/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_slides/programming-evolution.md) |
+| Χρονολόγιο | [Netlify](https://p2018118-pibook.netlify.app/timeline/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_timeline/programming-evolution.md) |
 
 # Παραδοτέο 7
 
@@ -153,6 +153,9 @@
 | Netlify |  Case Study | Case Text |
 | --- | --- | --- |
 | [Netlify](https://p2018118-pibook.netlify.app/biography/dennis-ritchie/) | [Biography Repository](https://github.com/Drexion/site/blob/master/_biography/dennis-ritchie.md) | [Biography Text](https://github.com/Drexion/site/blob/master/_biography/bio-ritchie.md) |
+
+Πηγές
+[Βιογραφία Dennis Ritchie](https://handwiki.org/wiki/Biography:Dennis_Ritchie)
 
 # Παραδοτέο 11
 
