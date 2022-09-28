@@ -49,7 +49,7 @@
 | 6 | Alan Kay at Media Lab 30 | :heavy_check_mark: | :heavy_check_mark: |
 | 7 | Xerox Star User Interface (1982) 1 of 2 | :heavy_check_mark: | :heavy_check_mark: |
 | 8 | Alan Kay: Doing with Images Makes Symbols (Full Version) | :heavy_check_mark: | :x: |
-| 9 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | :x: | :x: |
+| 9 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | :heavy_check_mark: | :x: |
 | 10 | Jaron Lanier - Learning by Experience & Play | :x: | :x: |
 | 11 | GENESYS: An Interactive Computer-Mediated Animation System | :x: | :x: |
 | 12 | Ivan Sutherland Sketchpad Demo | :x: | :x: |
