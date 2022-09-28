@@ -80,7 +80,7 @@
 Μέσα από την χρήση του μπήκα ομαλά στην χρήση εντολών command line, καθώς ξεκίνησα με μία σκετικά εύκολη άσκηση για να εξασκηθώ στην λογική και στον τρόπο χρήσης των command-line εντολών.
 Για την υλοποίηση της άσκησης χρησιμοποίησα και εγκατέστησα το [curl](https://linuxhint.com/curl-command-linux/)
 
-#### [Link Asciinema - 3η άσκηση - Check the weather](https://asciinema.org/a/524419)
+#### [Link Asciinema - 3η άσκηση - Check the weather](https://asciinema.org/a/524438)
 
 # Άσκηση Γραμμής Εντολών 4
 ## Batch image conversion
