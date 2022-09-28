@@ -31,3 +31,25 @@
 <p align=center>
   <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/manos@archusb:~_001.png?raw=true"  width="700"/> 
 </p>
+
+
+
+
+
+
+# <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
+
+| X | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
+| ---- | ---- | ---- | ---- |
+| 1 | KIDS REACT TO OLD COMPUTERS | :heavy_check_mark: | :heavy_check_mark: |
+| 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories | :heavy_check_mark: | :x: |
+| 3 | Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) | :heavy_check_mark: | :heavy_check_mark: |
+| 4 | Dynabook: The Complete Story | :heavy_check_mark: | :heavy_check_mark: |
+| 5 | Alto System Project: Larry Tesler demonstration of Gypsy | :heavy_check_mark: | :x: |
+| 6 | Alan Kay at Media Lab 30 | :heavy_check_mark: | :heavy_check_mark: |
+| 7 | Xerox Star User Interface (1982) 1 of 2 | :heavy_check_mark: | :heavy_check_mark: |
+| 8 | Alan Kay: Doing with Images Makes Symbols (Full Version) | :heavy_check_mark: | :x: |
+| 9 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | :x: | :x: |
+| 10 | Jaron Lanier - Learning by Experience & Play | :x: | :x: |
+| 11 | GENESYS: An Interactive Computer-Mediated Animation System | :x: | :x: |
+| 12 | Ivan Sutherland Sketchpad Demo | :x: | :x: |
