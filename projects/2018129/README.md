@@ -149,4 +149,5 @@ https://github.com/comanter/gr/blob/gh-pages/_biography/bio_Elon_Musk
 [Alexa Info](https://github.com/comanter/gr/blob/gh-pages/_gallery/aleja.md)
 ## Επίλογος:
 Πιστεύω πως εκπληρώθηκαν οι προσωπικοί στόχοι που είχα θέσει για το μάθημα. Έμαθα την χρησιμότητα του τερματικού και είδα πως είναι να συμετέχει κάποιος σε ένα μεγάλο και ολοκληρωμένο project. 
+
 note:Το μοναδικό μάθημα για να μπορέσω να δηλώσω πτυχιακή!
