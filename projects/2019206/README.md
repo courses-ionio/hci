@@ -33,10 +33,6 @@
 </p>
 
 <p align=center>
-  <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/desktoparchi3.png?raw=true"  width="700"/> 
-</p>
-
-<p align=center>
   <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/neofetch.png?raw=true"  width="700"/> 
 </p>
 
