@@ -14,19 +14,19 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα--> | | |
-| 2 | Άσκηση γραμμής εντολών:use the terminal as an IDE-(hci) | | Εμαθα να γράφω άμεσα κώδικα και να τον εκτελώ στο τερματικό |
+| 2 | Άσκηση γραμμής εντολών:use the terminal as an IDE-(hci) | | Έμαθα να γράφω άμεσα κώδικα και να τον εκτελώ στο τερματικό |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών:format your report-(hci) | | Εμαθα να χρισημοποιω το groff για να φτιαχνω pdf κσι man pages |
+| 4 | Άσκηση γραμμής εντολών:format your report-(hci) | | Έμαθα να χρησιμοποιώ το groff για να φτιαχνω pdf κσι man pages |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών -organise the terminal window into multiple areas-(warmup)| | Καταφερα με ενα τερματικο να κανω πολλες διεργασειες |
+| 8 | Άσκηση γραμμής εντολών -organise the terminal window into multiple areas-(warmup)| | Καταφερα με ενα τερματικό να κάνω πολλές διεργασίες |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών -set-up the main dependencies and demonstrate your base system-(warmup)| | Γνωρισα ενα νεο τροπω να μαζευω πληροφορειες για ενα συστημα |
-| 11 | Άσκηση γραμμής εντολών -organize your notes with emacs-(warmup)| | Ενας νεος ενδιαφερον τροπος περιηγισεις |
-| 12 | Άσκηση γραμμής εντολών -text editor and plug-ins for code highlighting and autocompletion-(warmup)| | Ηρθα σε επαφη με ενα πολη γνωστο εργαλειο για εγραφη κειμενου |
+| 10 | Άσκηση γραμμής εντολών -set-up the main dependencies and demonstrate your base system-(warmup)| | Γνώρισα ένα νέο τρόπο να μαζεύω πληροφορίες για ενα σύστημα |
+| 11 | Άσκηση γραμμής εντολών -organize your notes with emacs-(warmup)| | Ένας νέος ενδιαφέρον τρόπος περιήγησης |
+| 12 | Άσκηση γραμμής εντολών -text editor and plug-ins for code highlighting and autocompletion-(warmup)| | Ήρθα σε επαφή με ένα πολύ γνωστό εργαλείο για εγραφή κειμένου |
 | 13 | Κατασκευή του βιβλίου Β | | |
-| 14 | Τελική αναφορά* | | Απεκτησα ενα νεο set γνωσεων |
+| 14 | Τελική αναφορά* | | Απέκτησα ένα νέο set γνώσεων |
 
 # ΕΙΣΑΓΩΓΗ
 Σκοπός μου σε αυτό το μάθημα είναι η καλύτερη κατανόηση της διάδρασης μεταξύ ανθρώπου και υπολογιστή. Τι συμβαίνει στο παρασκήνιο, και πως επιτυγχάνεται μία καλύτερη και πιο αποδοτική συνεννόηση ανάμεσα στον υπολογιστή και τον ανθρώπου. Και πώς,εντελη,ως προγραμματιστής και χρήστης, να εχω ενα αρκετα καλο χειρισμό τερματικων.
@@ -34,7 +34,7 @@
 ## **1ο παραδοτέο - Use the terminal as an IDE-(hci)**
 1.Αρχικά έκανα εγκατάσταση το spacevim με την εντολη: curl -sLf https://spacevim.org/install.sh | bash
 
-2.Έπειτα εκανα Enable language layer και επέλεξα Python interpreter δηλαδη προσθεσα στο SpaceVim configuration file το :
+2.Έπειτα εκανα Enable language layer και επέλεξα Python interpreter δηλαδη πρόσθεσα στο SpaceVim configuration file το :
 
   [[layers]]
   
@@ -42,23 +42,23 @@
   
   python_interpreter = 'D:\scoop\shims\python.exe'
   
-3.Αφου ολοκληροσα την εγκατασταση του spacevim,δημιούργισα το helloworld.py με την εντολή nvim helloworld.py
+3.Αφού ολοκλήροσα την εγκατάσταση του spacevim,δημιούργισα το helloworld.py με την εντολή nvim helloworld.py
 
-4.Ετρεξα το helloworld μια φορα λαθος και μια σωστα με την εντολη python helloworld.py ωστε να διακρινω τα errors.
+4.Έτρεξα το helloworld μια φορά λάθος και μια σωστά με την εντολή python helloworld.py ώστε να διακρίνω τα errors.
 
 [![asciicast](https://asciinema.org/a/523117.svg)](https://asciinema.org/a/523117)
 
 Asciinema:Παραδοτέο 1ο https://asciinema.org/a/523117
 
 ## **2ο παραδοτέο - Format your report-(hci)**
-1.Αρχικά εγκατεστησα το groff με την  εντολη apt-get install groff
+1.Αρχικά εγκατέστησα το groff με την  εντολή apt-get install groff
 
-2.Επειτα δηνιουργισα το test.ms με το nvim test.ms και εγραψα στο αρχειο με 
-τις groff εντολες .AU .SH κτλ.
+2.Έπειτα δημιούργησα το test.ms με το nvim test.ms και έγραψα στο αρχείο με 
+τις groff εντολές .AU .SH κτλ.
 
-3.Στη συνέχεια ετρεξα το groff -ms -Tpdf test.ms > test.pdf για να φτιαξω το test.pdf και να του αποθηκευω τυχων αλλαγες
+3.Στη συνέχεια έτρεξα το groff -ms -Tpdf test.ms > test.pdf για να φτιάξω το test.pdf και να του αποθηκεύω τυχών αλλαγές
 
-4.Μετα εμφανιζω το pdf με την εντολη  zathura test.pdf
+4.Μετά εμφανίζω το pdf με την εντολή  zathura test.pdf
 
 
 
@@ -97,18 +97,18 @@ Asciinema:Παραδοτέο 4ο https://asciinema.org/a/463711
 Εργαλεία :ls,sudo,nano,vim,neofetch
 
 ## **5ο παραδοτέο - Organize your notes with emacs-(warmup)**
-1.Εγκαταστω το emacs με την εντολη apt-get install emacs
+1.Εγκαταστώ το emacs με την εντολή apt-get install emacs
 
-2.Ετρεξα το emacs org-mode -nw
+2.Έτρεξα το emacs org-mode -nw
 
 [![asciicast](https://asciinema.org/a/288086.svg)](https://asciinema.org/a/288086)
 
 Asciinema:Παραδοτέο 5ο https://asciinema.org/a/288086
 
 ## **6ο παραδοτέο - Text editor and plug-ins for code highlighting and autocompletion-(warmup)**
-1.Απλα τρεχω το vim vimrc και κινουμε μεσα σε αυτο
+1.Απλά τρέχω το vim vimrc και κινούμαι μέσα σε αυτό
 
-2.Δειχνω αλλα μεσα που ειναι αυτο εφικτο
+2.Δείχνω άλλα μέσα που είναι αυτό εφικτό
 
 [![asciicast](https://asciinema.org/a/284617.svg)](https://asciinema.org/a/284617)
 
@@ -149,3 +149,4 @@ https://github.com/comanter/gr/blob/gh-pages/_biography/bio_Elon_Musk
 [Alexa Info](https://github.com/comanter/gr/blob/gh-pages/_gallery/aleja.md)
 ## Επίλογος:
 Πιστεύω πως εκπληρώθηκαν οι προσωπικοί στόχοι που είχα θέσει για το μάθημα. Έμαθα την χρησιμότητα του τερματικού και είδα πως είναι να συμετέχει κάποιος σε ένα μεγάλο και ολοκληρωμένο project. 
+note:Το μοναδικό μάθημα για να μπορέσω να δηλώσω πτυχιακή!
