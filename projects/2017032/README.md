@@ -73,7 +73,8 @@ tags:
  <p/>
 <br>
 
-
+### Παραδοτέο 11 (get familiar with basic commands, reading documentation and editing files)
+[Asciinema Link](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q)
 
 # 12ο-παραδοτέο---ΣΥΜΠΕΡΑΣΜΑ
 ### Συμπέρασμα
