@@ -81,9 +81,9 @@
 
 Σε αυτό το παραδοτέο αποφάσισα να προσθέσω στο site του μαθήματος εικόνες σχετικά με το ipad (από που ξεκίνησε και που έφτασε). Αρχικά λοιπόν έκανα φορκ το site του μαθήματος και δημιούργησα τα submodules για το _gallery και το images. Στη συνέχεια πρόσθεσα τις κατάλληλες εικόνες και έγραψα μια κατάλληλη περιγραφή στο _gallery για το κάθε ένα (δηλαδή για το 1ο και το τελευταιο μέχρι στιγμής ipad). Παρακάτω παραθέτονται τα links για την κάθε προσθήκη.
 
-[ipad1 gallery](https://63371c157dc1e10d0dbbf534--cosmic-speculoos-79bd44.netlify.app/gallery/ipad1/)
+[ipad1 gallery](https://633748565b0c510009dda142--venerable-hummingbird-7e4be7.netlify.app/gallery/ipad1/)
 
-[ipad22 gallery](https://63371c157dc1e10d0dbbf534--cosmic-speculoos-79bd44.netlify.app/gallery/ipad22/)
+[ipad22 gallery](https://633748565b0c510009dda142--venerable-hummingbird-7e4be7.netlify.app/gallery/ipad22/)
 
 
 # <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
