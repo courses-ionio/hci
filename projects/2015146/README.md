@@ -76,6 +76,8 @@ Tο επόμενο OS με το οποίο αχολήθηκα - το οποίο 
 
 ### Link από το repository μου: https://github.com/deadoralive1908/kallipos
 https://asciinema.org/connect/4ea74afa-f0ce-476f-b777-979b6ce95af8
+https://asciinema.org/connect/4ea74afa-f0ce-476f-b777-979b6ce95af8
+
 
 ## 7ο παραδοτέο 
 
