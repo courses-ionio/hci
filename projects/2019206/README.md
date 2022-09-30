@@ -47,9 +47,35 @@
 
 Για αυτό το παραδοτέο υλοποίησα μερικές από τις warmup ασκήσεις που μας δίνονται, έτσι ώστε να εξασκηθώ πάνω στο νέο λειτουργικό σύστημα και να μάθω καλύτερα πως λειτουργεί το i3 window manager το οποίο είναι κάτι τελείως καινούριο για εμένα καθώς πάντα χρησιμοποιούσα desktop environment.
 
+Πρώτη άσκηση:
+Για την πρώτη άσκηση χρησιμοποίησα το [curl]() και το [wttr.in]() για να ελέγξχ τον καιρό σε μέρη που με ενδιέφεραν. Παρακάτω είναι και το σχετικό asciinema
 
+<p align="center">
+<a href="https://asciinema.org/a/524825" target="_blank"><img src="https://asciinema.org/a/524825.svg" width="70%" /></a>
+</p>
 
+Δεύτερη άσκηση:
+Για τη δεύτερη άσκηση χρησιμοποίησα το [youtube-dl]() για να κατεβάσω το [The hills]() του καλλιτέχνη "The weekend" σε mp4 μορφή. Στη συνέχεια χρησιμοποίησα το εργαλείο mplayer για να δω το βίντεο που κατέβασα. Παρακάτω είναι και τα σχετικά asciinema.
 
+Εδώ φαίνεται πως κατεβαίνει το αρχείο
+
+<p align="center">
+<a href="https://asciinema.org/a/524853" target="_blank"><img src="https://asciinema.org/a/524853.svg" width="70%" /></a>
+</p>
+
+❗Το παραπάνω asciinema είναι σχετικά μεγάλο οπότε μπορείτε απλά να κάνετε skip στο τέλος 
+
+Εδώ φαίνεται πως τρέχει το αρχείο στη γραμμή εντολών
+
+<p align="center">
+<a href="https://asciinema.org/a/524854" target="_blank"><img src="https://asciinema.org/a/524854.svg" width="70%" /></a>
+</p>
+
+Και τέλος στο παρακάτω screenshot φαίνεται το ίδιο το βίντεο
+
+<p align=center>
+  <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/the_hills_screenshot.png?raw=true"  width="700"/> 
+</p>
 
 # <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
 
