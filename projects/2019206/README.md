@@ -10,7 +10,7 @@
 | 1 | Φορκ και [Εισαγωγή](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |
 | 2 | [Λειτουργικό σύστημα](#%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CF%8C-%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1) |
 | 3 | [Ασκηήσεις γραμμής εντολών (warmup)](#%CE%B1%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-warmup) |
-| 4 | συμμετοχικό περιεχόμενο 1A |
+| 4 | [Συμμετοχικό περιεχόμενο 1Α](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-1%CE%B1) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | συμμετοχικό περιεχόμενο 2A |
 | 7 | Άσκηση γραμμής εντολών |
@@ -76,6 +76,15 @@
 <p align=center>
   <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/the_hills_screenshot.png?raw=true"  width="700"/> 
 </p>
+
+# **Συμμετοχικό περιεχόμενο 1Α**
+
+Σε αυτό το παραδοτέο αποφάσισα να προσθέσω στο site του μαθήματος εικόνες σχετικά με το ipad (από που ξεκίνησε και που έφτασε). Αρχικά λοιπόν έκανα φορκ το site του μαθήματος και δημιούργησα τα submodules για το _gallery και το images. Στη συνέχεια πρόσθεσα τις κατάλληλες εικόνες και έγραψα μια κατάλληλη περιγραφή στο _gallery για το κάθε ένα (δηλαδή για το 1ο και το τελευταιο μέχρι στιγμής ipad). Παρακάτω παραθέτονται τα links για την κάθε προσθήκη.
+
+[ipad1 gallery](https://63371c157dc1e10d0dbbf534--cosmic-speculoos-79bd44.netlify.app/gallery/ipad1/)
+
+[ipad22 gallery](https://63371c157dc1e10d0dbbf534--cosmic-speculoos-79bd44.netlify.app/gallery/ipad22/)
+
 
 # <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
 
