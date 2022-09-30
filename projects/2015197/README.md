@@ -100,7 +100,13 @@ https://courses-ionio.github.io/help/social/
 
 ## 6ο παραδοτέο 
 
-https://github.com/arse21/kallipos
+Σε αυτό το παραδοτέο έκανα φορκ το αποθετήριο 'kallipos version of pibook' και μετά έτρεξα τις εντολές git clone για να κατεβάσω τα αρχεία.
+Πρόσθεσα μια διάσημη φράση του Bill Gates στον φάκελο quotes και έβαλα ένα ιστορικό των πρώτων Microsoft Windows 1 μαζί με μία φωτογραφία τους στους φακέλους _gallery και images αντίστοιχα. 
+
+### https://github.com/arse21/_quotes/blob/master/bill-gates-quote.md
+### https://github.com/arse21/_gallery/blob/master/windows-1.md
+### https://github.com/arse21/images/blob/master/windows1.png
+### https://github.com/arse21/kallipos
 
 ## 7ο παραδοτέο 
 
@@ -157,6 +163,7 @@ https://github.com/arse21/kallipos
 
 ## 11ο παραδοτέο 
 
+Στο 11ο παραδοτέο αντιμετώπισα θέμα με την άσκηση. Έφτιαξα κάποια παραδείγματα για να δω τις βασικές λειτουργίες και έτρεξα τις εντολές από το Readme.md.
 
 
 ## 12ο παραδοτέο 
