@@ -31,6 +31,28 @@
 [Asciinema Link](https://asciinema.org/a/dbS495hK8a3W5WaRbBnWssFol)
 Κατά την διάρκεια του μαθήματος ήρθαμε σε επαφή με την πρώτη άσκηση γραμμής εντυολών. Εκεί έπρεπε να καταγράψουμε με το εργαλείο Asciinema ότι πληκτολογούσαμε. Ο σκοπός της άσκησης που επέλεξα ήταν η πρόσβαση στα αρχεία του υπολογιστή. Με την βοήθεια του Asciinema κατάφερα να καταγράψω την διαδικασία πρόσβασης στα αρχεία του συστήματος.
 
+### Άσκηση 2(performance monitoring)
+#### 3.1 Κατέβασμα Hyperfine
+###### wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
+#### Εγκατάσταση Hyperfine
+###### sudo dpkg -i hyperfine_1.9.0_amd64.deb
+##### Τα scripts που θα χρησιμοποιηθούν για σύγκριση είναι τα [script1](https://www.codesdope.com/blog/article/sorting-a-list-using-bubble-sort-in-python/) και [script2](https://www.geeksforgeeks.org/python-program-for-selection-sort/) τα οποία τροποποιήκαν για να ταξινομούν την ίδια λίστα.
+#### Εκτέλεση
+###### hyperfine --warmup 3 'python3 bubblesort.py' 'python3 selectionsort.py'
+#### Παράμετροι
+###### hyperfine -m 8 'python3 bubblesort.py' 'python3 selectionsort.py' //-m παράμετρος για εκτέλεση συγκεκριμένων επαναλήψεων του κώδικα
+###### hyperfine --export-markdown results.txt 'python3 bubblesort.py' 'python3 selectionsort.py' //Export των αποτελεσμάτων
+###### hyperfine -i 'python3 bubblesort.py' 'python3 selectionsort.py' //Αγνόηση σφαλμάτων
+#### Αποτελέσματα
+##### Μετά την εκτέλεση των Benchmarks με το Hyperfine είναι φανερός πως ο αλγόριθμος ταξινόμησης Selection Sort πρόκειται για ένα πιο γρήγορο αλγόριθμο καθώς σύμφωνα με το εργαλείο εκτελείται περίπου 2 φορες πιο γρήγορα από τον Bubble Sort. Αυτό φαίνεται και στην πολυπλοκότητα των αλγορίθμων αφού ο Selection Sort έχει Complexity O(n) ενώ ο Bubble Sort O(n2).
+#### 3.2 Κατέβασμα py-spy
+###### sudo pip install py-spy
+#### Τρέξιμο
+###### py-spy record -o results.svg -- python selectionsort.py //Γραφική αναπαράσταση του προγράμματος και αποθήκευση του Output στον φάκελο results.svg
+###### py-spy record -o results.svg --pid PID //Δυνατότητα εκτέλεσης με το ID της διεργασίας
+###### py-spy dump --pid 12345 //Παρουσίαση του τρέχων Call Stack του κάθε Thread
+#
+
 # 8ο-παραδοτέο---συμμετοχικό-περιεχόμενο-1Β 
 Αξιολόγηση παραδοτέου: υπόδειξη του stackoverflow ως βοηθός στους προγραμματιστές
 ### Παραδοτέο 8 (1Β συμμετοχικό περιεχόμενο)
@@ -58,6 +80,14 @@ tags:
 <img src="https://i.postimg.cc/BQsNFPXY/Screenshot-6.jpg" >
  <p/>
 <br>
+
+### Άσκηση 3(try different terminals and shells)
+##### a) Fish
+##### b) Terminator
+#### Εγκατάσταση fish
+###### sudo apt-get install fish
+#### Το Fish πρόκειται για ένα Shell όπου σου προσφέρει διάφορες διευκολύνσεις όπως η πρόβλεψη της εντολής που πληκτρολογείς. Για την εκτέλεση της άσκησης δημιουργώ πρόγραμμα σε Python όπου εκτυπώνει το "Hello World" 10 φορές.
+#
 
 # 10ο-παραδοτέο---συμμετοχικό-περιεχόμενο-2Β Βιογραφία
 ### Παραδοτέο 10 (2Β Βιογραφία)
