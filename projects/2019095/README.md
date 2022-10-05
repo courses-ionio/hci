@@ -25,4 +25,17 @@
 
 Μέσο αυτού του μαθήματος στοχεύω να διευρύνω τις γνώσεις μου σχετικά με την ιστορία του υπολογιστή και πως έφτασε να είναι αυτό που είναι. Επίσης η χρήση και η εξοικείωση με το github αλλά και με τα arch είναι σίγουρα μία από τις πιο σημαντικές προσφορές αυτού του μαθήματος όπου θέλω να τις κάνω κτήμα μου. Τέλος θέλω να μάθω να δουλεύω συνεργατικά και να δω και διευρύνω τις ικανότητες μου στην διεκπεραίωση ομαδικού και συνεργατικού έργου.
 
-*Θα προστεθεί πίνακας με τα μέλη της ομάδας.
+
+## TEAM 
+
+[Second Time Is The Charm](https://github.com/Second-Time-is-the-Charm)
+
+|Members|Roles|First & Last name| Id |Account link|
+|-------|-----|-----------------|-----------|-------|
+|Voltmaister|Admin| Orestis Artinopoulos|P2019153|[Know me!](https://github.com/voltmaister)|
+|Markedd|Member|Dimitra Markou|P2019170|[Know me!](https://github.com/marked-d)|
+|NickLitharis|Member|Nikos Litharis|P2019083|[Know me!](https://github.com/NickLitharis)|
+|KonstantinosTourtsakis|Member|Konstantinos Tourtsakis|P2019140|[Know me!](https://github.com/KonstantinosTourtsakis)|
+|odysseasp2019060|Member|Odysseas Oikonomou|P2019060|[Know me!](https://github.com/odysseasp2019060/)|
+|artopodama|Member|Giannis Anastasopoulos|inf2021017|[Know me!](https://github.com/artopodama/)|
+|Angeloth1|Member|Angelos Thomos|P2019095|[Know me!](https://github.com/Angeloth1/)|
