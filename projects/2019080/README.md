@@ -4,7 +4,7 @@
 
 
 <h3 align="right">Ονοματεπώνυμο: Γιώργος Χήρας<br>
-ΑΜ: Π201980<br>
+ΑΜ: Π2019080<br>
 Εξάμηνο φοίτησης: Ζ<br>
 Προφιλ Ομάδας: https://github.com/Invicta-Ionian-Hci/main<br></h3>
 
