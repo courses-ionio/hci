@@ -3,7 +3,7 @@
 </H1>
 
 <div align="right">
-<h3 >Ονοματεπώνυμο: Γιώργος Χήρας<br>
+<h3 align="left">Ονοματεπώνυμο: Γιώργος Χήρας<br>
 ΑΜ: Π2019080<br>
 Εξάμηνο φοίτησης: Ζ<br>
 Προφιλ Ομάδας: https://github.com/Invicta-Ionian-Hci/main<br></h3>
