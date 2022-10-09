@@ -8,7 +8,7 @@
 
 #### Προφίλ Github Ομάδας: [Click](https://github.com/ContattoContare)
 
-#### Προφίλ Edpuzzle: Nikolaos Trypakis inf2021229
+#### Όνομα Προφίλ Edpuzzle: Nikolaos Trypakis inf2021229
 
 #### Εξάμηνο : ΄Γ
 
