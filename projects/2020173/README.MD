@@ -6,7 +6,7 @@
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](https://github.com/YannisGatsios/hci/tree/2020173/projects/2020173#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | | Ηταν όλα κατανοητά και για κάθε απορια υπήρχαν απατήσεις. |
+| 1 | [Εισαγωγή](https://github.com/YannisGatsios/hci/tree/2020173/projects/2020173#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |(https://github.com/courses-ionio/help/discussions/955) | Ηταν όλα κατανοητά και για κάθε απορια υπήρχαν απατήσεις. |
 | 2 | Άσκηση γραμμής εντολών (linux install) | | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
