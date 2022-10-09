@@ -6,9 +6,9 @@
 
 #### Προφίλ Github: https://github.com/AimiliosPavlidis2001
 
-#### Προφίλ Github Ομάδας: 
+#### Προφίλ Github Ομάδας: https://github.com/TEAM11234
 
-#### Ρόλος Ομάδας: 
+#### Ρόλος Ομάδας:
 
 #### Προφίλ Edpuzzle: AimiliosPavlidis Π2019053
 
