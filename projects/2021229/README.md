@@ -6,7 +6,7 @@
 
 #### Προφίλ Github: [Click](https://github.com/inf2021229)
 
-#### Προφίλ Github Ομάδας: [Click]([https://github.com/inf2021229](https://github.com/ContattoContare)
+#### Προφίλ Github Ομάδας: [Click](https://github.com/inf2021229](https://github.com/ContattoContare)
 
 #### Προφίλ Edpuzzle: Nikolaos Trypakis inf2021229
 
