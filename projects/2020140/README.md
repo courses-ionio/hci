@@ -7,7 +7,7 @@
 ## Πίνακας σύνοψης των παραδοτέων
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](https://github.com/BurjanadzeG/hci/blob/%CE%A02020140/projects/2020140/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)| | |
+| 1 | [Εισαγωγή](https://github.com/BurjanadzeG/hci/blob/%CE%A02020140/projects/2020140/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)| [Συνδεσμος 1](https://github.com/courses-ionio/help/discussions/928) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) | | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
