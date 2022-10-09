@@ -7,7 +7,7 @@
 
 | Εβδομάδα | Παραδοτέα | Links προς τις συζητήσεις του μαθήματος | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 |  **1.** [Δημιουργία ομάδας](https://github.com/Oroseira) **2.**[Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://github.com/Mnlsvt/hci/edit/2019206/projects/2019206/README.md) **3.** [Συγγραφή της εισαγωγής](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) **4.** αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
+| 1 |  **1.** [Δημιουργία ομάδας](https://github.com/Oroseira) **2.**[Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://github.com/Mnlsvt/hci/edit/2019206/projects/2019206/README.md) **3.** [Συγγραφή της εισαγωγής](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) **4.** αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/964)| | |
 | 2 | Άσκηση γραμμής εντολών (linux install) | | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
