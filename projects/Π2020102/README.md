@@ -1,7 +1,7 @@
 ### Στέφανος Αγγελίδης
 ### A.M. Π202002
 ### Email:
-### Github:[https://github.com/p20fell](https://github.com/p2020102)
+### Github:(https://github.com/p2020102)
 
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
