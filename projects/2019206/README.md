@@ -32,4 +32,5 @@
 
 | X | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
 | ---- | ---- | ---- | ---- |
-| 1 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories | :heavy_check_mark: | :heavy_check_mark: |
+| 1 | Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) | :heavy_check_mark: | :heavy_check_mark: |
+| 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories | :heavy_check_mark: | :heavy_check_mark: |
