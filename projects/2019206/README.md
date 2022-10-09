@@ -5,12 +5,12 @@
 ### Edpuzzle Username: 2019206
 ### ActivelyLearn Username/name: p2019206@ionio.gr/Π2019206
 
-| Εβδομάδα | Παραδοτέο |
-| --- | --- |
-| 1 |  Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
-| 2 | Άσκηση γραμμής εντολών | | |
+| Εβδομάδα | Παραδοτέα | Links προς τις συζητήσεις του μαθήματος | Αυτοαξιολόγηση |
+| --- | --- | --- | --- |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
+| 2 | Άσκηση γραμμής εντολών (linux install) | | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -19,7 +19,7 @@
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
-| 13 | [Βίντεο κουίζ και κουίζ κειμένου](#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-%CE%BA%CE%BF%CF%85%CE%AF%CE%B6-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%BF%CF%85%CE%AF%CE%B6-%CE%BA%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CE%BF%CF%85) |
+| 13 | [Βίντεο κουίζ και κουίζ κειμένου](#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-%CE%BA%CE%BF%CF%85%CE%AF%CE%B6-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%BF%CF%85%CE%AF%CE%B6-%CE%BA%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CE%BF%CF%85) | |
 
 
 # **Εισαγωγή**
