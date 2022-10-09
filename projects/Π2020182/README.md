@@ -6,7 +6,7 @@
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](https://github.com/p20fell/hci/blob/p2020182/projects/%CE%A02020182/%CE%A02020182_%CE%93%CE%B5%CF%8E%CF%81%CE%B3%CE%B9%CE%BF%CF%82_%CE%A6%CE%B5%CE%BB%CE%BB%CE%B1%CF%87%CE%AF%CE%B4%CE%B7%CF%82.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | | |
+| 1 | [Εισαγωγή](https://github.com/p20fell/hci/blob/p2020182/projects/%CE%A02020182/%CE%A02020182_%CE%93%CE%B5%CF%8E%CF%81%CE%B3%CE%B9%CE%BF%CF%82_%CE%A6%CE%B5%CE%BB%CE%BB%CE%B1%CF%87%CE%AF%CE%B4%CE%B7%CF%82.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | https://github.com/courses-ionio/help/discussions/922 | H διαδικασία ένταξεις στην ομάδα δημιουργία πίνακα και ολοκλήρωσης της άσκησης ήταν αρκετά εύκολη οπότε κατάφερα χωρίς κάποιο ιδιαίτερο πρόβλημα, ακολουθόντας τις οδηγίες χρήσης|
 | 2 | Άσκηση γραμμής εντολών (linux install) | | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
