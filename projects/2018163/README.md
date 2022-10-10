@@ -25,4 +25,4 @@
 
 # Παραδοτέο 2: Άσκηση Γραμμής Εντολών (Linux Install)
 <p>Στο συγκεκριμένο παραδοτέο, καλούμαστε να εγκαταστήσουμε μια έκδοση Linux και συγκεκριμένα το Arch Linux και να εμφανίσουμε το αντίστοιχο system info. Αυτό το πετύχαμε με την εντολή "neofetch", όπως φαίνεται παρακάτω:</p>
-[Asciinema Link](https://asciinema.org/a/J8eXJCYzB6AtsJfI0xi0sJRZN)
+- [Asciinema Link](https://asciinema.org/a/J8eXJCYzB6AtsJfI0xi0sJRZN)
