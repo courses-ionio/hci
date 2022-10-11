@@ -23,5 +23,3 @@
 Με την υλοποίηση των παραπάνω στόχων θεωρώ πως θα έχω έχω εκπληρώσει τις βλέψεις μου γύρω από το μάθημα της επικοινωνίας ανθρώπου υπολογιστή.
 
 ## Arch install
-[![asciicast](https://asciinema.org/a/527381.png)](https://asciinema.org/a/527381)
-[![asciicast](https://asciinema.org/a/527378.png)](https://asciinema.org/a/527378)
