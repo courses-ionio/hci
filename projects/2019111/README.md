@@ -9,7 +9,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Εισαγωγή](https://github.com/Genti-voka/hci/blob/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/938) | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
+| 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/Genti-voka/hci/edit/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-arch-linux-installation) | [Ανάρτηση εγκατάστασης στο Discussions](https://github.com/courses-ionio/help/discussions/1019) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
@@ -30,6 +30,15 @@
 Επίσης μέσα απο την συνεργασία μου με τα άλλα μέλη της ομάδας θα μπορώ να έχω μια εικόνα για το πως λειτουργεί ενα σύνολο ατόμων με κοινό σκοπό. Ανάλογα με τον ρόλο που έχει ο καθένας στην ομάδα μπορεί να εξοικειωθεί σε μια συγκεκριμένη θέση πχ ο αρχηγός στον συντονισμό της ομάδας. 
 <br>
 Άλλο ενα συμαντίκο κομματι του μαθήματος είναι η χρήση unix based συστήματος. Μέσω της πορείας μου στο μάθημα θα μπορέσω να εξοικειωθώ με το λειτουργικό σύστημα arch-Linux μέσα από τις ασκήσεις γραμμής εντολών και χρήσης τερματικού. Επίσης μας περέχεται η δυνατότητα να προσαρμόσουμε το σύστημα ανάλογα με τις ανάγκες μας και χωρίς περιττές εφαρμογές πράγμα που είναι καλό καθώς έχουμε τον πλήρη έλεγχο του υπολογιστή. </p>
+<br> </br>
 
+# Παραδοτέο 2 Arch linux installation 
+<br>
+
+<p>Για το παραδοτέο 2 καλούμαστε να εγκαταστήσουμε Arch linux. H  εγκατάσταση ήταν εφικτή με χρήση 2 usb, όπου το ενα θα χρησιμοποιηθεί ως live iso και το άλλο για να γίνει η εγκατάσταση του λειτουργικού. Αρχικά πέρασα το arch live iso στο 1ο usb και μετα μέσω bios έκανα boot πρώτα απο usb ώστε με μια σειρά απο εντολές μέσω terminal έκανα την εγκατάσταση στο 2ο usb.</p>
+
+Λινκ για το [asciinema](https://asciinema.org/a/KrXOLLMs1KoWDuVv8b6sY5V8a)
+<br>
+<a href="https://asciinema.org/a/KrXOLLMs1KoWDuVv8b6sY5V8a" target="_blank"><img src="https://asciinema.org/a/KrXOLLMs1KoWDuVv8b6sY5V8a.svg" /></a>
 
 
