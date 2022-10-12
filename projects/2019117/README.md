@@ -15,3 +15,18 @@
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
+
+
+
+
+| # | ΑΜ | GitHub profile |
+| -- | -- | -- |
+| 1 | Π2019117  | https://github.com/P2019117 |
+| 2 | inf2021118 |https://github.com/inf2021118 |
+| 3 | inf2021063 |https://github.com/simostheo |
+| 4 | inf2021033 | https://github.com/Vourlos |
+| 5 | Π2016164 | https://github.com/P16malo |
+| 6 |inf2021058  |  https://github.com/inf2021058|
+| 7 |  Π2019217|  https://github.com/P2019217|
+| 8 |  inf2021104| https://github.com/reakoukosi |
+|9| Π2018119| https://github.com/spuroskitsos|
