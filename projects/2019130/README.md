@@ -24,5 +24,7 @@
 
 ## Arch install
 Το installation του Arch ήταν η πρώτη πρόκληση σε αυτό το μάθημα καθώς δεν είχα κάνει ποτέ εγκατάσταση linux χωρίς GUI. Το πρώτο πρόβλημα που αντιμετώπισα ήταν το partitioning του δίσκου καθώς είχα ήδη partition στον δίσκο με άλλα αρχεία, συρρίκνωσα το partition και μετά από λίγο πειραματισμό με το fdisk κατάφερα να ετοιμάσω τα απαραίτητα για την εγκατάσταση partitions. Το επόμενο speed bump ήρθε στο τέλος που πρέπει να εγκατασταθεί το boot loader. Η πολλές επιλογές με φοβίσαν στην αρχή εφόσον δεν ξέρω της διάφορες μεταξύ τους. Εφόσον τα περισσότερα distros (τουλάχιστον αυτά που γνωρίζω) έρχονται με GRUB αυτό επέλεξα και εγώ και με βοήθεια το αντίστοιχο Arch wiki κατάφερα να τελειώσω την εγκατάσταση. Επόμενο βήμα ήταν να εγκαταστήσω το kde desktop enviroment και η επεξεργασία του .bashrc για να αλλάξω το command prompt σύμφωνα με της οδηγίες. Από κάτω ακολουθούν δυο asciinema με το boot log και το neofetch που δείχνει τα specs του συστήματος.
+### asciinema with neofetch
 [![asciicast](https://asciinema.org/a/527419.png)](https://asciinema.org/a/527419)
-[![asciicast](https://asciinema.org/a/527418.png)](https://asciinema.org/a/527418)
+### asciinema bootlog
+[![asciicast](https://asciinema.org/a/528071.png)](https://asciinema.org/a/528071)
