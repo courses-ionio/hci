@@ -8,7 +8,7 @@ E-mail: inf2021098@ionio.gr
 
 [Github Profile](https://github.com/Greekforce1821)
 
-Ομαδικός Οργανισμός: [Terminal-Killers](https://github.com/Terminal-Killers) 
+Ομαδικός Οργανισμός: [Terminal-Killers](https://github.com/Terminal-Killers) ![alt text](https://github.com/[Termina-Killers]/[Terminal-Killers]/blob/[branch]/image.jpg?raw=true)
 
 Προφίλ στο Asciinema: [inf2021098](https://asciinema.org/~inf2021098)
 
