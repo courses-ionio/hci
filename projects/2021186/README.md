@@ -46,3 +46,10 @@
 4. Δημιουργήθηκε ένα προφίλ απλού χρήστη του οποίου δώθηκαν δικαιώματα διαχειριστή (superuser) για να αλλαχθεί το [hostname](https://www.cyberciti.biz/faq/arch-linux-change-hostname-computer-name/) στον ΑΜ μου ...
 Παραχωρώ το βίντεο που ζητήθηκε να δημιουργήσουμε μέσω του [Asciinema.org](https://asciinema.org) :
 [![asciicast](https://asciinema.org/a/527852.svg)](https://asciinema.org/a/527852)
+*(Σημείωση): Το installation της διανομής αυτής είναι καθολικό και όχι σε VM.
+
+[Η αναφορά μου](https://github.com/stamathsp/hci/blob/2021186/projects/2021186/README.md)
+Ονοματεπώνυμο: Σταμάτης Πέτρου
+Αριθμός Μητρώου: inf2021186
+Github Profile: [stamathsp](https://github.com/stamathsp)
+Organization: [Terminal-Killers](https://github.com/Terminal-Killers)
