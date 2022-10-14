@@ -24,5 +24,7 @@
 
 # Παραδοτέο 2
 
+
+
 [Neofetch](https://asciinema.org/a/Mfe5f4zV6PH6Tcy110DbXj2ej)
 [Journalctl](https://asciinema.org/a/yH623skNgwabSU2mWxYFrLWg8)
