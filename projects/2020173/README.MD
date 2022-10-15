@@ -23,9 +23,9 @@
 
 
 
-## Εισαγωγή
+### Εισαγωγή
 ## Ονομάζομαι Γάτσιος Ιωάννης ασχολούμαι με την πληροφορική απο πριν έρθω στο Ιόνιο Πανεπιστήμιο και αυτο που θα ήθελα να μάθω απο το μάθημα είναι παραπάνω γνώσεις στα linux στα unix και στο πως εχει εξελιχθεί η τεχνολογία μας μέχρι σήμερα.
 
 
-## Άσκηση γραμμής εντολών (linux install)
-## [neofetch](https://asciinema.org/a/VsOFcpWNWUt54R16kpyKyTwk6) και [journalctl -b](https://asciinema.org/a/EGfsyzFSEkoDzkC3lrW39xaRo)
+### Άσκηση γραμμής εντολών (linux install)
+## Το ζητούμενο της δεύτερης εβδομάδας ήταν η εγκατάσταση των arch linux σε bootablr USB και η δοκιμλη και καταγραφή της δοκιμής των εντολών [neofetch](https://asciinema.org/a/VsOFcpWNWUt54R16kpyKyTwk6) και [journalctl -b](https://asciinema.org/a/EGfsyzFSEkoDzkC3lrW39xaRo)
