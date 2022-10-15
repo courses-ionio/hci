@@ -26,4 +26,4 @@
 
 ### Neofetch
 
-<a href="https://asciinema.org/a/527935" target="_blank"><img src="https://asciinema.org/a/527935.svg" width="700" /></a>
+<a href="https://asciinema.org/a/527935" target="_blank"><img src="https://asciinema.org/a/527935.svg" width="500" /></a>
