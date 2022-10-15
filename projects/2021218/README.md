@@ -43,8 +43,8 @@
 
 Παρόλο τις άπειρες προσπάθειες σε εικονικές μηχανές, στην δικιά μου τοπική τα arch linux εγκαταστάθηκαν στην πρώτη προσπάθεια με επιτυχία. Δείτε εδώ τα συνημμένα για το [neofetch](https://asciinema.org/a/ZifKdGkCjZqmuLNN2QobItJp1) και το  [journalctl](https://asciinema.org/a/CdSsZsoYJorzWS2dbi1qQfB7s) .
 
-## Neofetch
+# Neofetch
 [![asciicast](https://asciinema.org/a/ZifKdGkCjZqmuLNN2QobItJp1.svg)](https://asciinema.org/a/ZifKdGkCjZqmuLNN2QobItJp1)
 
-## Journalctl
+# Journalctl
 [![asciicast](https://asciinema.org/a/CdSsZsoYJorzWS2dbi1qQfB7s.svg)](https://asciinema.org/a/CdSsZsoYJorzWS2dbi1qQfB7s)
