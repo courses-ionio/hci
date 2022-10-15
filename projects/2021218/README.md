@@ -17,7 +17,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | Εισαγωγή| [Click](https://github.com/courses-ionio/help/discussions/904) | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
+| 2 | Άσκηση γραμμής εντολών (linux install) |[Click](https://github.com/courses-ionio/help/discussions/1052) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
@@ -38,3 +38,13 @@
 <br /> 
 
 &nbsp;&nbsp;&nbsp;Λαμβάνοντας υποψήν τις υπάρχουσες γνώσεις πάνω στην πληροφορική, με το μάθημα "Εποικοινωνία Ανθρώπου Υπολογιστή" θα ήθελα να τις εμπλουτίσω όπως επίσης θα ήθελα να μάθω πληροφορίες σχετικά με την σχέση ανθρώπου και του Υπολογιστή. Τέλος θα ήθελα να μάθω να χρησιμοποιώ εργαλία όπως το Github και να χρησιμοποιώ τα linux, τα οποία είναι θεωρώ οτι είναι χρήσιμα για έναν πληροφορικό.
+
+## Εβδομάδα Δεύτερη - Άσκηση γραμμής εντολών (linux install)
+
+Παρόλο τις άπειρες προσπάθειες σε εικονικές μηχανές, στην δικιά μου τοπική τα arch linux εγκαταστάθηκαν στην πρώτη προσπάθεια με επιτυχία. Δείτε εδώ τα συνημμένα για το [neofetch](https://asciinema.org/a/ZifKdGkCjZqmuLNN2QobItJp1) και το  [journalctl](https://asciinema.org/a/CdSsZsoYJorzWS2dbi1qQfB7s) .
+
+## Neofetch
+[![asciicast](https://asciinema.org/a/ZifKdGkCjZqmuLNN2QobItJp1.svg)](https://asciinema.org/a/ZifKdGkCjZqmuLNN2QobItJp1)
+
+## Journalctl
+[![asciicast](https://asciinema.org/a/CdSsZsoYJorzWS2dbi1qQfB7s.svg)](https://asciinema.org/a/CdSsZsoYJorzWS2dbi1qQfB7s)
