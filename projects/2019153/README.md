@@ -24,6 +24,8 @@
 Για το παραδοτέο 2 το οποίο έχει σχέση με την εγκατάσταση τησ διανομής Arch linux ακολουθώντας τις οδηγίες από το [Arch wiki](https://wiki.archlinux.org/title/Installation_guide).
 Στην συνέχεια εγκατέστησα διάφορα πακέτα και ένα window manager για να κάνω customise την εμπειρία μου και τελικά έτρεξα τις εντολές **__Neofetch__** και **__journalctl -b |less__** (το χρησιμοποίησα μέσα από το less για να είναι πιο εύκολη η ανάγνωση του). 
 
-### Neofetch
+### Neofetch / Journalctl
 
-<a href="https://asciinema.org/a/527935" target="_blank"><img src="https://asciinema.org/a/527935.svg" width="500" /></a>
+[![asciicast](https://asciinema.org/a/527935.svg)](https://asciinema.org/a/527935)
+
+[![asciicast](https://asciinema.org/a/527939.svg)](https://asciinema.org/a/527939)
