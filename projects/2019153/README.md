@@ -25,4 +25,5 @@
 Στην συνέχεια εγκατέστησα διάφορα πακέτα και ένα window manager για να κάνω customise την εμπειρία μου και τελικά έτρεξα τις εντολές **__Neofetch__** και **__journalctl -b |less__** (το χρησιμοποίησα μέσα από το less για να είναι πιο εύκολη η ανάγνωση του). 
 
 ### Neofetch
-[![asciicast](https://asciinema.org/a/527935.svg)](https://asciinema.org/a/527935)
+
+<a href="https://asciinema.org/a/527935" target="_blank"><img src="https://asciinema.org/a/527935.svg" width="700" /></a>
