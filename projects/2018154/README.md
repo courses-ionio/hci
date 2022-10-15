@@ -26,8 +26,8 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 2 | Arch Linux Installation
 
-Για την εγκατάσταση των Arch Linux επέλεξα την εγκατάσταση και τοποθέτηση λογισμικού σε USB Stick. Χρησιμοποιήθηκαν 2 USB Sticks όπου στο ένα τοποθέτησα το ISO file που απέκτησα από [εδώ](https://archlinux.org/download/) και στο δεύτερο έγινε η τοποθέτηση του λογισμικού. Συνέχισα στην σύνδεση του wifi χρησιμοποιώντας το εργαλείο [iwd](https://wiki.archlinux.org/title/iwd), δημιούργησα τα κατάλληλα partitions στο δεύτερο usb, εγκατέστησα τα κατάλληλα πακέτα που χρειαζόντουσαν και γενικά ακολούθησα τις οδηγίες από το [installation guide](https://wiki.archlinux.org/title/installation_guide) όπως και τις οδηγίες εγκατάστασης λογισμικού σε usb του [wiki](https://wiki.archlinux.org/title/USB_flash_installation_medium). Επίσης έγινε update της έκδοσης του kernel στην τελευταία έκδοση με την εντολή pacman -Syu. 
-Ως user name επέλεξα 'pav' και host name 'archusb'.
+Για την εγκατάσταση του Arch Linux επέλεξα την εγκατάσταση και τοποθέτηση λογισμικού σε USB Stick. Χρησιμοποιήθηκαν 2 USB Sticks όπου στο ένα τοποθέτησα το ISO file που απέκτησα από [εδώ](https://archlinux.org/download/) και στο δεύτερο έγινε η τοποθέτηση του λογισμικού. Συνέχισα στην σύνδεση του wifi χρησιμοποιώντας το εργαλείο [iwd](https://wiki.archlinux.org/title/iwd), δημιούργησα τα κατάλληλα partitions στο δεύτερο usb, εγκατέστησα τα κατάλληλα πακέτα που χρειαζόντουσαν και γενικά ακολούθησα τις οδηγίες από το [installation guide](https://wiki.archlinux.org/title/installation_guide) όπως και τις οδηγίες εγκατάστασης λογισμικού σε usb του [wiki](https://wiki.archlinux.org/title/USB_flash_installation_medium). Επιπλέον ως user name επέλεξα 'pav' και host name 'archusb'. Τέλος έγινε update της έκδοσης του kernel στην τελευταία έκδοση με την εντολή pacman -Syu. 
+
 
 ### Αλλαγή του prompt μου
 Για αυτήν την αλλαγή έκανα edit το αρχείο .bashrc και άλλαξα την γραμμή PS1 με την παρακάτω επεξεργασία:
