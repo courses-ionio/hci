@@ -25,4 +25,4 @@
 
 # Παραδοτέο 2: Άσκηση γραμμής εντολών
 
-Σε αυτό το παραδοτέο εγκατέστησα το Arch Linux μέσα στο Oracle Virtual Box του υπολογιστή μου. Χρησιμοποιοντας το asciinema εκανα μια ηχογραφηση χρησιμοποιοντας τις εντολες [neofetch](https://asciinema.org/a/G7NQfQuuMJcZYwMrf5mjPuQYT) στο τερματικο του λογισμικου.
+Σε αυτό το παραδοτέο εγκατέστησα το Arch Linux μέσα στο Oracle Virtual Box του υπολογιστή μου. Χρησιμοποιοντας το asciinema εκανα μια ηχογραφηση χρησιμοποιοντας τις εντολες [neofetch](https://asciinema.org/a/G7NQfQuuMJcZYwMrf5mjPuQYT) και [journalctl -b](https://asciinema.org/a/B3DhjtZUmd5lcrmZxVofia2k5) στο τερματικο του λογισμικου.
