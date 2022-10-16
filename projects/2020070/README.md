@@ -1,7 +1,7 @@
 ### Παναγιώτης Μέξης
-### A.M. Π2020070
-### Email:p20mexi@ionio.gr
-### Github:https://github.com/p20mexi
+### A.M.: Π2020070
+### Email: p20mexi@ionio.gr
+### Github: https://github.com/p20mexi
 
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
