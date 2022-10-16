@@ -71,3 +71,33 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Επιπρόσθετα θα ήθελα να αναφερθώ και σε κάποια άλλα μικρά προβλήματα που αντιμετώπισα, όπως το error που εμφάνιζε το Virtualbox όταν πήγαινα να κάνω boot ένα Virtual Machine. Αυτό λύθηκε με [αυτή](https://ourcodeworld.com/articles/read/1616/how-to-fix-virtualbox-session-error-call-to-nemr0initvmpart2-failed-verr-nem-init-failed-verr-nem-vm-create-failed) τη πηγή. Επίσης όταν ήρθε η στιγμή της εισαγωγής της περιοχής μου είχα μπερδευτεί και χρησιμοποίησα την απάντηση ενός χρήστη από [αυτό](https://stackoverflow.com/questions/60969404/cant-complete-arch-linux-installation-guide) το forum. Χρήσιμο ήταν και το Arch Linux wiki, ιδιαίτερα για τα [netctl example profiles](https://wiki.archlinux.org/title/netctl#Example_profiles).
+
+
+<br /><br />
+
+---
+
+## Συμμετοχή και Ομαδικότητα
+
+<br />
+
+| Παροχή βοήθειας Discussions |
+| --- |
+| [Βοήθεια συμφοιτητή 1](https://github.com/courses-ionio/help/discussions/1069) |
+
+
+<br /> <br />
+
+---
+
+## Βιβλιογραφία και Πηγές βοήθειας
+
+<br />
+
+#### Δεύτερο Παραδοτέο
+ - [βίντεο εγκατάστασης Arch Linux](https://www.youtube.com/watch?v=LaJ1yl6NckI&t=1472s)
+ - [Επαναφορά κωδικού πρόσβασης](https://www.youtube.com/watch?v=fMeT0tSU5qE)
+ - [Σύνδεση ασύρματα στο WiFi](https://www.youtube.com/watch?v=xu7exZ1WJHw)
+ - [VirtualBox Error](https://ourcodeworld.com/articles/read/1616/how-to-fix-virtualbox-session-error-call-to-nemr0initvmpart2-failed-verr-nem-init-failed-verr-nem-vm-create-failed)
+ - [Επιλογή περιοχής στην εγκατάσταση Arch](https://stackoverflow.com/questions/60969404/cant-complete-arch-linux-installation-guide)
+ - [Βοήθεια wiki για netctl example profiles](https://wiki.archlinux.org/title/netctl#Example_profiles)
