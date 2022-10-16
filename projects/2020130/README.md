@@ -8,7 +8,7 @@
 | Εβδομάδα | Παραδοτέα | Σύνδεσμοι | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγογή](https://github.com/ChrisPaok4/hci/tree/2020130/projects/2020130#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1%CE%BF) | [1ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/929) | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1114) |
+| 2 | Άσκηση γραμμής εντολών (linux install) | [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1114) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
