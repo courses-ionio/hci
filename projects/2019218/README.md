@@ -6,7 +6,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Oμάδα](https://github.com/Millennials-2), [Αναφορά](https://github.com/courses-ionio/help/discussions/867) | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
+| 2 | Άσκηση γραμμής εντολών (linux install) |[Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1102) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
@@ -21,3 +21,6 @@
 
 ## ΕΙΣΑΓΩΓΗ-ΠΑΡΑΔΟΤΕΟ 1
 Σαν νέος χρήστης του github αρχικά σκοπέυω να εξοικιωθώ με αυτό γιατί είναι ένα εργαλείο που έχει να μου προσφέρει πολλά κυρίως στο μέλλον, ενώ ταυτόχρονα θα αποκτήσω την ικανότητα της ομαδικής συνεργασίας για την δημιουργία ενός προτζεκτ.Επίσης επειδή έχω σαν στόχο να ασχοληθώ επαγγελματικά με το cyber security οι γνώσεις Linux είναι απαραίτητες.Αρα μέσω του μαθήματος Επικοινωνία Ανθρώπου-Υπολογιστή επιδιώκω να μάθω να χειρίζομαι και τα δύο.
+## Παραδοτέο 2 
+[journalctl](https://asciinema.org/a/LN10g1Hflka3lkJbtztpJV4sT),
+[neofetch](https://asciinema.org/a/Q1TA6sGCwiWhXRK1nkyLhE0Fb)
