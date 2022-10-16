@@ -22,5 +22,5 @@
 Με την συμμετοχή στο μάθημα "Επικοινωνία ανθρώπου υπολογιστή" δίνεται η δυνατότητα της κατανόησης του τρόπου λειτουργίας και η οικειοποίηση του περιβάλλοντος τών λίνουξ. Ακόμη, δίνεται η ευκαιρία να υπάρξει ουσιαστική επαφή με το τερματικό και η διαμόρφωση του περιβάλλοντος με βάση τις προσωπικές προτιμήσεις. Ως στόχος ορίζεται η  αξιποίηση των παραπάνω ευκαιρίων η οποίες πέρα απο προσωπική γνώση αποτελούν - σε συνδυασμό με το συμμετοχικό περιεχόμενο - ένα ισχυρό υπόβαθρο το οποίο μπορεί να διευκολύνει την υλοποίηση μεγαλύτερων έργων στο κομμάτι της πληροφορικής γενικότερα. Εν ολίγοις, η τελική αποτίμηση θα είναι θετική σε ο,τι αφορά το προσωπικό επιπεδο, εαν με το πέρας των εργασιών έχω εξοικειωθεί πλήρως με τα προαναφερθέντα.,</br>
 
 <b>Command line 1</b></br>
-journalctl : https://asciinema.org/a/G7mTC2jDIzowd6rI6yzaPrexK  
-neofetch : https://asciinema.org/a/FGyJE20i0X3am4wXJsQs2YOkc
+journalctl : <a href="https://asciinema.org/a/G7mTC2jDIzowd6rI6yzaPrexK" target="_blank"><img src="https://asciinema.org/a/G7mTC2jDIzowd6rI6yzaPrexK.svg" /></a>
+neofetch : <a href="https://asciinema.org/a/FGyJE20i0X3am4wXJsQs2YOkc" target="_blank"><img src="https://asciinema.org/a/FGyJE20i0X3am4wXJsQs2YOkc.svg" /></a>
