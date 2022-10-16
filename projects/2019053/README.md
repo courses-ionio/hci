@@ -80,6 +80,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Αφού ολοκλήρωσα επιτυχώς την εγκατάσταση χρειάστηκε να φτιάξω ξανά νέο user λόγω κάποιον προβλημάτων. Για αυτή τη διαδικασία βοήθησε [αυτό](https://www.youtube.com/watch?v=BV6oqXnh3S0) το βίντεο. Επόμενο βήμα ήταν η εγκάτασταση GUI και επέλεξα να κατεβάσω το **KDE** με τη [συγκεκριμένη](https://www.youtube.com/watch?v=Csc8Y5_YLRE) καθοδήγηση. Επέλεξα το KDE γιατί δεν το έχω χρησιμοποιήσει στο παρελθόν και θα ήθελα να πειραματιστώ με κάτι καινούργιο.
 
+<br />
+
+Στο παρακάτω **asciinema** αναπαρήστανται τα χαρακτηριστικά του λογισμικού μου με τη χρήση της εντολής <kbd>neofetch</kbd>
+
+[![asciicast](https://asciinema.org/a/PxjHtqG9UKGOxQyu7cGqRBRij.svg)](https://asciinema.org/a/PxjHtqG9UKGOxQyu7cGqRBRij)
+
 
 <br /><br />
 
