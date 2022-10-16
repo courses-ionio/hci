@@ -1,6 +1,6 @@
 ### Στέφανος Αγγελίδης
 ### A.M. Π202002
-### Email:
+### Email: p20ange@ionio.gr
 ### Github:https://github.com/p2020102
 
 
