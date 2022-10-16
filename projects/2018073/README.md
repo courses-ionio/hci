@@ -28,7 +28,7 @@
 
 ## Δημιουργία Organisation
 
-Δημιούργησα το organisation [MainCharacters](https://github.com/MainCharacters) και αποτελείται από 3 άτομα.
+Δημιούργησα το organisation [MainCharacters](https://github.com/MainCharacters/Main) και αποτελείται από 3 άτομα.
 
 ## ΠΑΡΑΔΟΤΕΟ 1 - Εισαγωγή
 
