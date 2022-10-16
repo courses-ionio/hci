@@ -7,7 +7,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |   [Συζήτηση](https://github.com/courses-ionio/help/discussions/822), [Ομάδα](https://github.com/Second-Time-is-the-Charm)|Επιτυχής ολοκλήρωση, εντός προθεσμίας |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
+| 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1092), [asciinema](https://asciinema.org/a/LDvgTpOOvB7Q3nFovXl06zbzF) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
@@ -25,6 +25,11 @@
 
 Μέσο αυτού του μαθήματος στοχεύω να διευρύνω τις γνώσεις μου σχετικά με την ιστορία του υπολογιστή και πως έφτασε να είναι αυτό που είναι. Επίσης η χρήση και η εξοικείωση με το github αλλά και με τα arch είναι σίγουρα μία από τις πιο σημαντικές προσφορές αυτού του μαθήματος όπου θέλω να τις κάνω κτήμα μου. Τέλος θέλω να μάθω να δουλεύω συνεργατικά και να δω και διευρύνω τις ικανότητες μου στην διεκπεραίωση ομαδικού και συνεργατικού έργου.
 
+
+## ΠΑΡΑΔΟΤΕΟ 2 | Arch install
+
+Έκανα εγκατάσταση των Arch Linux σε ένα παλιό σύστημα, η προετιμασία της συσκευής εγκατάστασης έγινε με sudo dd bs=4M if='PATH'.iso of=/dev/sd'X' conv=fdatasync . Στην συνέχεια έκανα κλασσική εγκατάσταση χωρίς UEFI καθώς το σύστημα μου δεν το υποστηρίζει.
+[![asciicast](https://asciinema.org/a/LDvgTpOOvB7Q3nFovXl06zbzF.svg)](https://asciinema.org/a/LDvgTpOOvB7Q3nFovXl06zbzF)
 
 ## TEAM 
 
