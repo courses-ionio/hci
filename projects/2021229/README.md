@@ -10,6 +10,8 @@
 
 #### Όνομα Προφίλ Edpuzzle: Nikolaos Trypakis inf2021229
 
+#### Προφίλ Asciinema: [Click](https://asciinema.org/~inf2021229)
+
 #### Εξάμηνο : ΄Γ
 
 <br />
