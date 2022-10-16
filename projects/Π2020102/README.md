@@ -6,7 +6,7 @@
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](https://github.com/p2020102/hci/tree/P2020102/projects/%CE%A02020102#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |https://github.com/courses-ionio/help/discussions/925 | Κατάφερα να φέρω εισπέρας τα καθήκοντά μου καθώς οι οδηγίες ήταν αρκετά σαφής και δεν δυσκολεύτηκα κάπου |
+| 1 | [Εισαγωγή](https://github.com/p2020102/hci/tree/2020102/projects/%CE%A02020102#%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CE%B5%CF%82-2%CE%B7%CF%82-%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82) |https://github.com/courses-ionio/help/discussions/925 | Κατάφερα να φέρω εισπέρας τα καθήκοντά μου καθώς οι οδηγίες ήταν αρκετά σαφής και δεν δυσκολεύτηκα κάπου |
 | 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/p2020102/hci/tree/2020102/projects/%CE%A02020102#%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CE%B5%CF%82-2%CE%B7%CF%82-%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1%CF%82) |https://github.com/courses-ionio/help/discussions/1106 | Έπειτα απο αρκετή προσπάθεια κατάφερα να φέρω εις πέρας τους στόχους της συγκεκριμένης εβδομάδας |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
