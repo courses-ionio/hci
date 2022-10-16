@@ -35,20 +35,20 @@
 - Δημιουργία ενούς VM στο VMware με το συγκεκριμένο ISO αρχείο και διαχείριση πόρων που θα χρησιμοποιεί και εκκινηση του συστήματος.
 - Χρησιμοποίησα την εντολή lsblk για να δω την ονομασία των μπλοκ του συστήματος και στη συνέχεια με την εντολή cfdisk έφτιαξα τα εξής partitions:
 - - /dev/sda1 (Ο bootloader) μέγεθος 1MB 
-/dev/sda2  (Το swap space) μέγεθος 4GB
-/dev/sda3 (Ο γενικός αποθηκευτικός χώρος) μέγεθος 16GB
-Format των partitions που δημιούργησα για τον σκοπό που τους ανάθεσα
-mkfs.ext4  /dev/sda3
-mkswap- /dev/sda2 (Έπειτα την εντολή swapon -a για ενεργοποίηση του swap)
-Στη συνέχεια αφού έκανα mount τα νέα partitions χρησιμοποίησα την εντολή pacstrap για να κατεβάσω τα πρώτα απαραίτητα πακέτα. (base, linux, linux-firmware, nano, vim, grub, dhcpcd)
-Δημιούργησα ένα fstab με την εντολή genfstab και με την εντολή arch-chroot άλλαξα το root για το καινούργιο σύστημα.
-Εκτέλεση εντολής grub-install και grub-mkconfig για να χρησιμοποιεί τον grub bootloader και έπειτα reboot.
+- - /dev/sda2  (Το swap space) μέγεθος 4GB
+- - /dev/sda3 (Ο γενικός αποθηκευτικός χώρος) μέγεθος 16GB
+- Format των partitions που δημιούργησα για τον σκοπό που τους ανάθεσα
+- - mkfs.ext4  /dev/sda3
+- - mkswap- /dev/sda2 (Έπειτα την εντολή swapon -a για ενεργοποίηση του swap)
+- Στη συνέχεια αφού έκανα mount τα νέα partitions χρησιμοποίησα την εντολή pacstrap για να κατεβάσω τα πρώτα απαραίτητα πακέτα. (base, linux, linux-firmware, nano, vim, grub, dhcpcd)
+- Δημιούργησα ένα fstab με την εντολή genfstab και με την εντολή arch-chroot άλλαξα το root για το καινούργιο σύστημα.
+- Εκτέλεση εντολής grub-install και grub-mkconfig για να χρησιμοποιεί τον grub bootloader και έπειτα reboot.
 
 Αφού η εγκατάσταση πραγματοποιήθηκε επιτυχώς και ήμουν πλέον στο σύστημα ως χρήστης root εκτέλεσα τις παρακάτω εντολές:
-systemctl enable dhcpcd (Πρόσβαση στο διαδίκτυο)
-Ενεργοποίηση του multilib repository και έπειτα συγχρονισμό με το pacman.
-Δημιουργία ενός user.
-Εγκατάσταση των packages xorg-server, xorg-init, mesa, xf86-video-vmware, nitrogen, picom, firefox,asciinema και neofetch τα οποία περισσότερα θα μου χρειαστούν για την δημιουργία του δικού μου GUI σε επόμενη άσκηση.
+- systemctl enable dhcpcd (Πρόσβαση στο διαδίκτυο)
+- Ενεργοποίηση του multilib repository και έπειτα συγχρονισμό με το pacman.
+- Δημιουργία ενός user.
+- Εγκατάσταση των packages xorg-server, xorg-init, mesa, xf86-video-vmware, nitrogen, picom, firefox,asciinema και neofetch τα οποία περισσότερα θα μου χρειαστούν για την δημιουργία του δικού μου GUI σε επόμενη άσκηση.
 
 Αποτελέσματα [neofetch](https://asciinema.org/a/529063) αφού πείραξα λίγο το config αρχείο του.
 
