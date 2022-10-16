@@ -7,10 +7,12 @@
 
 ## Πίνακας με σύνοψη των παραδοτέων
 
-| Εβδομάδα | Παραδοτέο |
-| --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> https://github.com/courses-ionio/help/discussions/985 [Discussion Link] | | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
+<br />
+
+| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| --- | --- | --- | --- |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/help/discussions/985 | |
+| 2 | Άσκηση γραμμής εντολών (linux install) | https://github.com/courses-ionio/help/discussions/1109 | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
@@ -37,9 +39,11 @@ guided
 Μετα απο μια επανεκκίνηση και εισαγωγή στο σύστημα με τους κωδικους
 βλέπουμε οτι τα archlinux εχουν εγκατασταθεί.
 Εγινε η εγκατάσταση του asciinema με την εντολή pacman -S asciinema και
-με την χρήση του καταγράφηκαν οι εντολες journalctl -b και neofetch
+με την χρήση του καταγράφηκαν οι εντολες journalctl -b και neofetch.
+<br />
 link για την πρωτη
-εντολη:https://asciinema.org/a/KFkjzZwapvKnZaZew9WxRaKc9 <br />
+εντολη:https://asciinema.org/a/KFkjzZwapvKnZaZew9WxRaKc9
+<br />
 link για την δευτερη
 εντολη:https://asciinema.org/a/4T9jM9FVcyffckmsGFDOwu2q3 <br />
 Ειναι σημαντικό να σημειωθεί οτι για την εντολή neofetch χρειάστηκε να
