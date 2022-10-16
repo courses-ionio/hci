@@ -72,6 +72,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Επιπρόσθετα θα ήθελα να αναφερθώ και σε κάποια άλλα μικρά προβλήματα που αντιμετώπισα, όπως το error που εμφάνιζε το Virtualbox όταν πήγαινα να κάνω boot ένα Virtual Machine. Αυτό λύθηκε με [αυτή](https://ourcodeworld.com/articles/read/1616/how-to-fix-virtualbox-session-error-call-to-nemr0initvmpart2-failed-verr-nem-init-failed-verr-nem-vm-create-failed) τη πηγή. Επίσης όταν ήρθε η στιγμή της εισαγωγής της περιοχής μου είχα μπερδευτεί και χρησιμοποίησα την απάντηση ενός χρήστη από [αυτό](https://stackoverflow.com/questions/60969404/cant-complete-arch-linux-installation-guide) το forum. Χρήσιμο ήταν και το Arch Linux wiki, ιδιαίτερα για τα [netctl example profiles](https://wiki.archlinux.org/title/netctl#Example_profiles).
 
+<br />
+
+### Εγκατάσταση GUI
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Αφού ολοκλήρωσα επιτυχώς την εγκατάσταση χρειάστηκε να φτιάξω ξανά νέο user λόγω κάποιον προβλημάτων. Για αυτή τη διαδικασία βοήθησε [αυτό](https://www.youtube.com/watch?v=BV6oqXnh3S0) το βίντεο. Επόμενο βήμα ήταν η εγκάτασταση GUI και επέλεξα να κατεβάσω το **KDE** με τη [συγκεκριμένη](https://www.youtube.com/watch?v=Csc8Y5_YLRE) καθοδήγηση. Επέλεξα το KDE γιατί δεν το έχω χρησιμοποιήσει στο παρελθόν και θα ήθελα να πειραματιστώ με κάτι καινούργιο.
+
 
 <br /><br />
 
@@ -101,3 +109,5 @@
  - [VirtualBox Error](https://ourcodeworld.com/articles/read/1616/how-to-fix-virtualbox-session-error-call-to-nemr0initvmpart2-failed-verr-nem-init-failed-verr-nem-vm-create-failed)
  - [Επιλογή περιοχής στην εγκατάσταση Arch](https://stackoverflow.com/questions/60969404/cant-complete-arch-linux-installation-guide)
  - [Βοήθεια wiki για netctl example profiles](https://wiki.archlinux.org/title/netctl#Example_profiles)
+ - [Εγκατάσταση KDE GUI](https://www.youtube.com/watch?v=Csc8Y5_YLRE)
+ - [Προσθήκη νέου user](https://www.youtube.com/watch?v=BV6oqXnh3S0)
