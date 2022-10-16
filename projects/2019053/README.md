@@ -64,3 +64,10 @@
 <br />
 
 ### Βασικές Πηγές Βοήθειας
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Η εγκατάσταση των Arch Linux έγινε με τη βοήθεια [αυτού](https://www.youtube.com/watch?v=LaJ1yl6NckI&t=1472s) του βίντεο. Όλα λειτούργησαν ομαλά χωρίς ιδιαίτερες δυσκολίες, όμως έπειτα από την εγκατάσταση όταν πήγα να κάνω boot τα Arch δε μου επιτρεπόταν είσοδος στον χρήστη που δημιούργησα. Αυτό είχε ως αποτέλεσμα να μην μπορώ να συνδεθώ καθόλου στο λογισμικό. Με τη βοήθεια [αυτού](https://www.youtube.com/watch?v=fMeT0tSU5qE) του βίντεο χρησιμοποίησα το grub και έκανα reset τον κωδικό πρόσβασής μου. Έπειτα όταν χρειάστηκε να συνδέσω το Linux σύστημά μου με το διαδίκτυο δυσκολεύτηκα αρκετά, αλλά το βίντεο [αυτό](https://www.youtube.com/watch?v=xu7exZ1WJHw) έδειχνε επεξηγηματικά τη διαδικασία σύνδεσης ασύρματα στο WiFi network.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;Επιπρόσθετα θα ήθελα να αναφερθώ και σε κάποια άλλα μικρά προβλήματα που αντιμετώπισα, όπως το error που εμφάνιζε το Virtualbox όταν πήγαινα να κάνω boot ένα Virtual Machine. Αυτό λύθηκε με [αυτή](https://ourcodeworld.com/articles/read/1616/how-to-fix-virtualbox-session-error-call-to-nemr0initvmpart2-failed-verr-nem-init-failed-verr-nem-vm-create-failed) τη πηγή. Επίσης όταν ήρθε η στιγμή της εισαγωγής της περιοχής μου είχα μπερδευτεί και χρησιμοποίησα την απάντηση ενός χρήστη από [αυτό](https://stackoverflow.com/questions/60969404/cant-complete-arch-linux-installation-guide) το forum. Χρήσιμο ήταν και το Arch Linux wiki, ιδιαίτερα για τα [netctl example profiles](https://wiki.archlinux.org/title/netctl#Example_profiles).
