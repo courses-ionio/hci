@@ -26,5 +26,5 @@
 
 
 
-[Neofetch](https://asciinema.org/a/Mfe5f4zV6PH6Tcy110DbXj2ej)
-[Journalctl](https://asciinema.org/a/yH623skNgwabSU2mWxYFrLWg8)
+[Neofetch](https://asciinema.org/a/rfALTSs52Ei2OFKO6NO8TYTMM)
+[Journalctl](https://asciinema.org/a/5n6LjYECtlpeWYxL93p1MqldS)
