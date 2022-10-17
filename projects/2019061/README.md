@@ -1,3 +1,7 @@
+<h1 align="center">Επικοινωνία Ανθρώπου-Υπολογιστή</h1>
+
+
+
 Ονοματεπώνυμο: Ελένη Τηλαβερίδου <br/>
 ΑΜ: Π2019061 <br/>
 e-mail: p19tila@ionio.gr <br/>
@@ -20,3 +24,12 @@ e-mail: p19tila@ionio.gr <br/>
 | 12 | Τελική αναφορά* | | |
 
 
+
+
+# <h1 align="center">Βίντεο Κουίζ </h1>
+
+|🔳| Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
+| ---- | ---- | ---- | ---- |
+| 1 | Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) |<p align = "center">✅</p>|<p align = "center">✅</p>|
+| 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories |<p align = "center">✅</p>|<p align = "center">✅</p>|
+| 3 | Xerox Star User Interface (1982) 1 of 2 |<p align = "center">✅</p>|<p align = "center">✅</p>|
