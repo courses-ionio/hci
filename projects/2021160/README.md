@@ -8,8 +8,8 @@ Github Προφίλ: [TheBond8](https://github.com/TheBond08)
 
  Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1157)|Επιτυχής ολοκλήρωση του παραδοτέου|
+| 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1154)|Επιτυχής ολοκλήρωση του παραδοτέου|
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
@@ -21,5 +21,17 @@ Github Προφίλ: [TheBond8](https://github.com/TheBond08)
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
-# 2ο Παραδοτέο: Εγκατάσταση Arch Linux
+# Εισαγωγή
+Οι στόχοι μου σε αυτό το μάθημα είναι:
 
+1) Πλήρης κατανόηση των λογισμικών ανοικτού κώδικα, όπως το Arch Linux, Kali κ.α
+2) Εκμάθηση και σωστή χρήση των εργαλειών του Github, ώστε να διευκολυνθεί η ομαδικότητα 
+3) Εξοικείωση στην διαχείριση του τερματικού καθώς και άλλων εργαλειών
+
+Τέλος, προσθέτω, η εκπλήρωση αυτών των στόχων θα αποτελέσουν σημαντικό σκαλοπάτι προς την μελλοντικό μου επάγγελμα.
+
+# 2ο Παραδοτέο: Εγκατάσταση Arch Linux
+Σκοπός του παραδοτέου ήταν η εγκατάσταση του λογισμικού Arch Linux και η χρήση των δύο εντολών `neofetch` και `journalctl -b`. Η εγκατάσταση πραγματοποιήθικε σε φορητό υπολογιστή μέσω usb ακολουθώντας τον [οδηγό](https://itsfoss.com/install-arch-linux/), ενώ για την διαμόρφωση του γραφικού περιβάλλοντος χρησιμοποιήθηκε το [xfce](https://wiki.archlinux.org/title/xfce).
+
+Παρακάτω ακολουθεί η παρουσίαση της εκτέλεσης των παραπάνω εντολών:
+<a href="https://asciinema.org/a/529866" target="_blank"><img src="https://asciinema.org/a/529866.svg" /></a>
