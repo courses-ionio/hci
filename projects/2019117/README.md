@@ -29,5 +29,5 @@ GitHub organisation url: [METSK](https://github.com/METSK)
 | 5 | Π2016164 | https://github.com/P16malo |
 | 6 |inf2021058  |  https://github.com/inf2021058|
 | 7 |  Π2019217|  https://github.com/P2019217|
-| 8 |  inf2021104| https://github.com/reakoukosi |
+| 8 |  inf2021104| https://github.com/inf2021104 |
 |9| Π2018119| https://github.com/spuroskitsos|
