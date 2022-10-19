@@ -28,4 +28,7 @@
 
 - [Asciinema Link](https://asciinema.org/a/J8eXJCYzB6AtsJfI0xi0sJRZN)
 
+# Παραδοτέο 3: Συμμετοχικό περιεχόμενο Α1
 
+- [Pull Request στον οργανισμό της ομάδας](https://github.com/The4Beasts/README.md/pull/2)
+- [Οργανισμός ομάδας](https://github.com/The4Beasts)
