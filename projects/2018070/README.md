@@ -27,3 +27,8 @@
 <p>Στο συγκεκριμένο παραδοτέο, καλούμαστε να εγκαταστήσουμε μια έκδοση Linux και συγκεκριμένα το Arch Linux και να εμφανίσουμε το αντίστοιχο system info. Αυτό το πετύχαμε με την εντολή "neofetch", όπως φαίνεται παρακάτω:</p>
 
 - [Asciinema Link](https://asciinema.org/a/Dez5q9xB4nahyKOyfyvFRPMrI)
+
+# Παραδοτέο 3: Συμμετοχικό περιεχόμενο Α1
+
+- [Pull Request προς τον οργανισμό της ομάδας](https://github.com/The4Beasts/README.md/pull/1)
+- [Οργανισμός ομάδας](https://github.com/The4Beasts)
