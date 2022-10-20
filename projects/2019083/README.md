@@ -1,5 +1,8 @@
-# Ονοματεπώνυμο: Νίκος Λιθαρής <br>
-# ΑΜ: Π2019083 <br><br>
+# Ονοματεπώνυμο: Νίκος Λιθαρής
+# ΑΜ: Π2019083
+# [Asciinema](https://asciinema.org/~P2019083)
+# [Edpuzzle](https://edpuzzle.com/classes/63398b5f9fadbe4119d673a5)
+<br>
 
 ## Proud member of [Second Time Is The Charm](https://github.com/Second-Time-is-the-Charm) <br>
 
