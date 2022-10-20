@@ -7,7 +7,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[ΠΑΡΑΔΟΤΕΟ 1](https://github.com/courses-ionio/help/discussions/893), [Η ΟΜΑΔΑ ΜΟΥ](https://github.com/OMADA12), Απάντηση στις ερωτήσεις του Edpuzzle 1ης εβδομάδας ||
 | 2 | Άσκηση γραμμής εντολών (linux install) | Απάντηση στις ερωτήσεις του Edpuzzle 2ης εβδομάδας, Linux install | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |Απάντηση στις ερωτήσεις του Edpuzzle 3ης εβδομάδας, υλοποίηση Συμμετοχικού περιεχομένου Α1 με την [ΟΜΑΔΑ ΜΟΥ](https://github.com/OMADA12)| |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
