@@ -75,6 +75,23 @@
 </p>
 
 
+# **Συμμετοχικό περιεχόμενο A1**
+
+Για αυτό το παραδοτέο αποφάσισα να προσθέσω στο site τα "gameboy original" και "nintendo 3ds" καθώς είναι δύο κονσόλες που έφεραν πολλές αλλαγές στην αγορά, η κάθε μια με τον δικό της τρόπο. Για να κάνω τις αλλαγές στο [site της ομάδας μου](https://github.com/Oroseira/site) αρχικά δημιούργησα ένα [test branch](https://github.com/Mnlsvt/site/tree/2019206) σε δικό μου [fork](https://github.com/Mnlsvt/site) για να είμαι σίγουρος πως όλα δουλεύουν ομαλά.
+
+Το [test site](https://manolis-hci2022.netlify.app) μου.
+Το [site της ομάδας μου](https://oroseira2022.netlify.app)
+
+
+Η [1η προσθήκη μου στο gallery](https://oroseira2022.netlify.app/gallery/3ds)
+Η [2η προσθήκη μου στο gallery](https://oroseira2022.netlify.app/gallery/gameboy)
+
+
+Οι [προσθήκες μου στο slides](https://oroseira2022.netlify.app/slides/technology)
+
+
+Οι [προσθήκες μου στο timeline](https://oroseira2022.netlify.app/timeline)
+
 
 # <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
 
