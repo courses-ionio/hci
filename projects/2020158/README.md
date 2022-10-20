@@ -30,7 +30,7 @@
 
 # Άσκηση Γραμμής Εντολών Linux Install
 
-https://asciinema.org/a/eEMWrXrx52aC2yLFfusox14NV
+https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 
 
 ![download (1)](https://user-images.githubusercontent.com/92392853/197041932-15130217-5d4e-4664-a427-b7bcc66ffc3d.gif)
