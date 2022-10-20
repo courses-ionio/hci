@@ -7,7 +7,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Εισαγωγή](https://github.com/courses-ionio/help/discussions/837) <br> [Ομάδα](https://github.com/Second-Time-is-the-Charm) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Arch Linux logs](https://github.com/courses-ionio/help/discussions/1033) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Link](https://github.com/courses-ionio/help/discussions/1161) | |
 | 4 | Άσκηση γραμμής εντολών | warm up cli | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -25,3 +25,7 @@
 
 # [Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1033)
 Στο 2ο παραδοτέο μας ανατέθηκε να δείξουμε την εγκατάσταση του λειτουργεικού συστήματος Arch Linux μέσω των εργαλείων neofetch και journalctl. Το Arch εγκαταστάθηκε με ευκολία στο laptop μου και σκοπεύω να το χρησιμοποιώ ως daily driver από δω και πέρα.
+
+# [Παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1161)
+Για την τρίτη εβδομάδα έπρεπε να ολοκληρώσουμε το πρώτο παραδοτέο για την [ιστοσελίδα του βιβλίου του μαθήματος](https://p19lith-pibook.netlify.app/). Πιο συγκεκριμένα έπρεπε να κάνουμε δύο δικές μας προσθήκες, σχετικές με το αντικείκενο του HCI, αντλόντας πληροφορίες από την [εξής](http://toastytech.com/guis/index.html) ιστοσελίδα. Οι δικές μου προσθήκες ήταν το [Microsoft mouse](https://p19lith-pibook.netlify.app/gallery/microsoft-mouse/) και το γραφικό περιβάλλον [HP NewWave](https://p19lith-pibook.netlify.app/gallery/hp-newwave/)
+
