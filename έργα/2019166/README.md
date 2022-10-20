@@ -34,4 +34,4 @@ https://github.com/olumpiaalexopoulou/site
 | 1 | Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) |  + | + | 
 | 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories |  + |  + |
 | 3 | Xerox Star User Interface (1982) 1 of 2  |  + |  + |
-,
+
