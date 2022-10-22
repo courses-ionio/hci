@@ -31,6 +31,7 @@ https://github.com/olumpiaalexopoulou/site
 # Άσκηση γραμμής εντολών (linux install)
 
 https://asciinema.org/a/k6VwockITyhFsry7jnz388cnE
+![Archlinux](https://user-images.githubusercontent.com/72515404/197331561-51d96be2-051c-4c09-827f-22f0f7ad5404.png)
 
 # <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
 
