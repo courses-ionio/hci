@@ -42,11 +42,6 @@
 - [_gallery pull request](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/5#event-7645248395)
 - [images pull request](https://github.com/Second-Time-Is-The-Charm/images/pull/5#issuecomment-1287660118)
 
-Ο οργανισμός μου: [Second Time Is The Charm](https://github.com/Second-Time-Is-The-Charm/Main)
-[Άγγελος Θώμος](https://github.com/Angeloth1) ΑΜ: Π2019095
-
-[Η αναφορά μου](https://github.com/Angeloth1/hci/tree/2019095/projects/2019095)
-
 ## TEAM 
 
 [Second Time Is The Charm](https://github.com/Second-Time-is-the-Charm)
