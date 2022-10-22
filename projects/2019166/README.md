@@ -9,7 +9,7 @@ https://github.com/olumpiaalexopoulou/site
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/help/discussions/974 | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
+| 2 | Άσκηση γραμμής εντολών (linux install) | https://github.com/courses-ionio/help/discussions/1175 | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
@@ -31,6 +31,8 @@ https://github.com/olumpiaalexopoulou/site
 # Άσκηση γραμμής εντολών (linux install)
 
 https://asciinema.org/a/k6VwockITyhFsry7jnz388cnE
+
+
  Σε αυτό το παραδοτέο χρειάστηκε να εγκαταστήσω ένα καινούργιο λειτουργικό σύστημα για εμένα το Arch Linux.Την εγκατάσταση του την έκανα σε usb.Δυσκολεύτηκα στην εγκατάσταση του που χρειάστηκε να το χτήσουμε όλο από την αρχή επειδή σε αρκετά σημεία μου εμφάνιζε errors που δεν είχα ξανά δει, όπως να μην δέχεται την ημερομηνία και την ώρα σωστά αλλά ρυθμίστηκε όταν άνοιξε το λειτουργικό και συνδέθηκε σώστα στο διαδίκτυο.Ακόμη, λειτουργεί αργά και αυτό δυσκολεύει στην χρήση του. 
 Στην εικόνα σας δείχνω με τη χρήση του neofetch τις πληροφορίες του συστήματος.
 
