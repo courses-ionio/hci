@@ -31,3 +31,8 @@
 ## Παραδοτέο 2 - Παρουσίαση λειτουργικού συστήματος Arch Linux:
 Σε αυτό το παραδοτέο μας ζητήθηκε εγκαταστήσουμε την διανομή Arch Linux και να την παρουσιάσουμε χρησιμοποιόντας τις εντολές `journalctl -b` και `neofetch`. Παρακάτω επισυνάπτω το αντίστοιχο asciinema recording στο οποίο φαίνεται η εκτέλεση αυτών των εντολών στο σύστημά μου:
 [![asciicast](https://asciinema.org/a/527600.svg)](https://asciinema.org/a/527600)
+
+## Παραδοτέο 3 - Προσθήκη του Xfce Desktop Environment και του LibreOffice Writer:
+Σε αυτό το παραδοτέο χρειάστηκε να συνεισφέρουμε με τις δικές μας προσθήκες περιεχομένου στην ιστοσελίδα του μαθήματος. Για να γίνει αυτό έπρεπε να κάνουμε 2 προσθήκες με περιεχόμενο σχετικό με το μάθημα. Οι προσθήκες αυτές πιο συγκεκριμένα συμπεριλάμβαναν 2 εικόνες με λεζάντες σε αρχεία που βρίσκονται στο αποθετήριο της σελίδας στα ακόλουθα paths: `/site/images/` και `/site/_gallery/`. Οι προσθήκες που έκανα ήταν το [Xfce Desktop Environment](https://stitc-site.netlify.app/gallery/xfce/) και το [LibreOffice Writer](https://stitc-site.netlify.app/gallery/libreoffice-writer/). Αφού μας ζητήθηκε να δουλέψουμε με forks των αποθετηρίων στο περιβάλλον του οργανισμού άνοιξα αντίστοιχα pull request από τα αποθετήρια "_gallery" και "images" ώστε να γίνουν merge οι αλλαγές και στο αποθετήριο του οργανισμού. Παρακάτω επισυνάπτω τους συνδέσμους προς τα pull request μου.
+- [Gallery pull request](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/7)
+- [Images pull request](https://github.com/Second-Time-Is-The-Charm/images/pull/7)
