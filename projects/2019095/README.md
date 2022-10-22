@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |   [Συζήτηση](https://github.com/courses-ionio/help/discussions/822), [Ομάδα](https://github.com/Second-Time-is-the-Charm)|Επιτυχής ολοκλήρωση, εντός προθεσμίας |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1092), [asciinema](https://asciinema.org/a/LDvgTpOOvB7Q3nFovXl06zbzF) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1180),[Προσθήκη1](https://stitc-site.netlify.app/gallery/artix-os/),[Προσθήκη2](https://stitc-site.netlify.app/gallery/suse-os/) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -30,6 +30,22 @@
 
 Έκανα εγκατάσταση των Arch Linux σε ένα παλιό σύστημα, η προετιμασία της συσκευής εγκατάστασης έγινε με sudo dd bs=4M if='PATH'.iso of=/dev/sd'X' conv=fdatasync . Στην συνέχεια έκανα κλασσική εγκατάσταση χωρίς UEFI καθώς το σύστημα μου δεν το υποστηρίζει.
 [![asciicast](https://asciinema.org/a/LDvgTpOOvB7Q3nFovXl06zbzF.svg)](https://asciinema.org/a/LDvgTpOOvB7Q3nFovXl06zbzF)
+
+## ΠΑΡΑΔΟΤΕΟ 3 | A1
+
+
+Σε αυτό το παραδοτέο συνεισφέραμε με τις δικές μας προσθήκες περιεχομένου στην ιστοσελίδα του μαθήματος. κάνοντας 2 προσθήκες. Οι προσθήκες αυτές  συμπεριλάμβανουν 2 εικόνες με λεζάντες σε αρχεία που βρίσκονται στο αποθετήριο της σελίδας `/site/images/` και `/site/_gallery/`. Οι προσθήκες που έκανα έγω είναι οι ακόλουθες
+- [artix](https://stitc-site.netlify.app/gallery/artix-os/)
+- [suse](https://stitc-site.netlify.app/gallery/suse-os/)
+
+και τα pull req. αντίστοιχα για τον ενταγμό τους στην ομάδα
+- [_gallery pull request](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/5#event-7645248395)
+- [images pull request](https://github.com/Second-Time-Is-The-Charm/images/pull/5#issuecomment-1287660118)
+
+Ο οργανισμός μου: [Second Time Is The Charm](https://github.com/Second-Time-Is-The-Charm/Main)
+[Άγγελος Θώμος](https://github.com/Angeloth1) ΑΜ: Π2019095
+
+[Η αναφορά μου](https://github.com/Angeloth1/hci/tree/2019095/projects/2019095)
 
 ## TEAM 
 
