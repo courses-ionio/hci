@@ -30,6 +30,7 @@
 
 # Άσκηση Γραμμής Εντολών Linux Install
 
+Εγκατέστησα το Arch Linux σε ένα USB stick και εκτέλεσα τις παρακάτω εντολές:
 https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 
 
