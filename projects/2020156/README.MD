@@ -9,7 +9,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/P2020156/hci/tree/2020156/projects/2020156#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | https://github.com/courses-ionio/help/discussions/954| Φαίνεται να είναι μια εύκολη διαδικασία και πιστεύω οτι είναι σε καλό επίπεδο |
 | 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/P2020156/hci/blob/2020156/projects/2020156/README.MD#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-linux-install) |https://github.com/courses-ionio/help/discussions/1012| Η διαδικασία μου φάνηκε μέτριας δυσκολίας |
-| 3 | [Συμμετοχικό περιεχόμενο A1]|(https://github.com/P2020156/hci/blob/2020156/projects/2020156/README.MD#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B11) |https://github.com/courses-ionio/help/discussions/1218 |Η διαδικάσια ήταν σχετικά δύσκολη αλλά θεωρώ οτι είναι σε ένα καλό επίπεδο|
+| 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/P2020156/hci/blob/2020156/projects/2020156/README.MD#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B11)|https://github.com/courses-ionio/help/discussions/1218 |Η διαδικάσια ήταν σχετικά δύσκολη αλλά θεωρώ οτι είναι σε ένα καλό επίπεδο|
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
