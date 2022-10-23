@@ -39,6 +39,6 @@ https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 
 # Συμμετοχικό Περιεχόμενο Α1
 
-###### Προσθήκη Submodules
+## Προσθήκη Submodules
 
 Αρχικά, έκανα fork το repository `site` και τα submodules από το organizasion μου στο προφίλ μου. Προσπάθησα να κάνω την παρακάτω διαδικασία στο Arch Linux, αλλά αντιμετώπισα προβλήματα, οπότε κατέληξα στον τερματικό των Windows. Εγκατέστησα το Git και έκανα clone το αποθετήριο `site` στον υπολογιστή μου. Με τις εντολές `git rm` και `rm -R`, διέγραψα το περιεχόμενο του αρχείου `git.modules`. Έπειτα, πρόσθεσα τα submodules με την εντολή `git submodule add`. Τέλος, χρησιμοποίησα την εντολή `git push origin`.
