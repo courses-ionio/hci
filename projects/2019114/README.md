@@ -15,7 +15,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Εισαγωγή](#Εισαγωγή) | [Link Discussions](https://github.com/courses-ionio/help/discussions/930) | Εμπρόθεσμο παραδοτέο/ fork αποθετηρίου του μαθήματος/ αρχική εισαγωγή με προσδοκίες και στόχους / Δημιουργία ομάδας 10/10 |
 | 2 | [Εγκατάσταση ArchLinux](#Εγκατάσταση-ArchLinux) |[Link Discussions](https://github.com/courses-ionio/help/discussions/1001) |Εμπρόθεσμο παραδοτέο/ εγκατάσταση ArchLinux 10/10 |
-| 3 | [Συμμετοχικό περιεχόμενο A1](#Συμμετοχικό-περιεχόμενο-A1) |[Link Discussions]() | |
+| 3 | [Συμμετοχικό περιεχόμενο A1](#Συμμετοχικό-περιεχόμενο-A1) |[Link Discussions](https://github.com/courses-ionio/help/discussions/1198) | |
 | 4 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |[Link Discussions]() | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](#Συμμετοχικό-περιεχόμενο-A2) |[Link Discussions]() | |
 | 6 | [Κατασκευή του βιβλίου Α](#Κατασκευή-του-βιβλίου-Α) |[Link Discussions]() | |
@@ -49,6 +49,8 @@
 | [Wii U](https://github.com/p19papa4/_gallery/blob/master/wii-u.md) | [Wii U](https://p19papa4.netlify.app/gallery/wii-u/) | [Wii U](https://oroseira2022.netlify.app/gallery/wii-u/) |
 | [Oculus Rift](https://github.com/p19papa4/_gallery/blob/master/oculus-rift.md) | [Oculus Rift](https://p19papa4.netlify.app/gallery/oculus-rift/)  |  [Oculus Rift](https://oroseira2022.netlify.app/gallery/oculus-rift/) |
 
+Τα αντίστοιχα Pull Request για το [_gallery](https://github.com/Oroseira/_gallery/pull/4/files) και το [images](https://github.com/Oroseira/images/pull/4)
+
 
 # Άσκηση γραμμής εντολών (warmup)
 
@@ -77,6 +79,6 @@
 | 1 | Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) | :heavy_check_mark: | :heavy_check_mark: |
 | 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories | :heavy_check_mark: | :heavy_check_mark: |
 | 3 | Xerox Star User Interface (1982) 1 of 2 | :heavy_check_mark: | :heavy_check_mark: |
-| 4 |  | :heavy_check_mark: | :heavy_check_mark: |
+| 4 | Alto System Project: Larry Tesler demonstration of Gypsy | :heavy_check_mark: | :heavy_check_mark: |
 | 5 |  | :heavy_check_mark: | :heavy_check_mark: |
 
