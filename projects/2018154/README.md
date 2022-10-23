@@ -46,3 +46,15 @@
 Η αλλαγή του logo που εμφανίζεται στο neofetch έγινε με την επεξεργασία του αρχείου config.conf το οποίο βρίσκεται στο directory /home/$USER/.config/neofetch όπου $USER είναι το user name του καθενός(π.χ. pav στην περίπτωση μου). Για την συγκεκριμένη αλλαγή έγινε η αλλαγή του τομέα Ascii Distro και συγκεκριμένα στην γραμμή ascii_distro="Arch_old". Οι αλλαγές των χρωμάτων έγινε με την επεξεργασία στον τομέα Text Colors και συγκεκριμένα άλλαξα την γραμμή colors=(4 7 2 1 1 6) όπου η σειρά των αριθμών είναι: title, @, underline, subtitle, colon/spacing, info. Οι [κωδικοί](https://en.wikipedia.org/wiki/ANSI_escape_code#8-bit) κάθε χρώματος.
 
 ## ΠΑΡΑΔΟΤΕΟ 3 | Συμμετοχικό περιεχόμενο-Α1
+
+.
+
+| Συμμετοχή στην τάξη |
+|---|
+| [Discussions - Q&A](https://github.com/courses-ionio/help/discussions/1017#discussioncomment-3863382) |
+| [Discussions - Q&A](https://github.com/courses-ionio/help/discussions/1049#discussioncomment-3884971) |
+| [Discussions - Q&A](https://github.com/courses-ionio/help/discussions/1081#discussioncomment-3889258) |
+| [Discussions - Q&A](https://github.com/courses-ionio/help/discussions/1162#discussioncomment-3937174) |
+| [Discussions - Q&A](https://github.com/courses-ionio/help/discussions/1166#discussioncomment-3937303) |
+| [Discussions - Q&A](https://github.com/courses-ionio/help/discussions/1174#discussioncomment-3936904) |
+| [Discussions - Show and Tell](https://github.com/courses-ionio/help/discussions/1170#discussioncomment-3936905) |
