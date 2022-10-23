@@ -24,5 +24,8 @@
 ### Μέσω του μαθήματος επικοινωνίας ανθρώπου-υπολογιστή θα ήθελα να αποκτήσω εμπειρία και εξοικείωση τόσο στο Linux όσο και στο github και στην γραμμή εντολών. Επίσης θα με ευχαριστεί να βοηθώ οποιαδήποτε συμφοιτητη που χρειάζεται βοήθεια.
 
 # Δραστηριότητες 2ης εβδομάδας
-### Κατά την διάρκεια της 2ης εβδομάδας εξικοιώθηκα με την εγκατάσταση του Arch Linux καθώς και την χρήση τους μέσων των εντολών [neofetch](https://asciinema.org/a/RYZN0EP7nudhiW7BsGgF6KDGw) και [journalist](https://asciinema.org/a/ZOChd2O0My3cNEwaZ1W8d7ZZ2).
- 
+### Κατά την διάρκεια της 2ης εβδομάδας εξοικειώθηκα με την εγκατάσταση του Arch Linux καθώς και την χρήση τους μέσων των εντολών [neofetch](https://asciinema.org/a/RYZN0EP7nudhiW7BsGg6KDGw) και [journalist](https://asciinema.org/a/ZOChd2O0My3cNEwaZ1W8d7ZZ2).
+
+
+# Δραστηριότητες 3ης εβδομάδας
+### Στόχος της 3ης εβδομάδας ήταν η εκπλήρωση του συμμετοχικού περιεχομένου Α1. Συγκεκριμένα προστέθηκαν δύο νέες εικόνες, η πρώτη αφορούσε το [BASIC 86](http://toastytech.com/guis/win1983.html) ενώ η δεύτερη το [Red Hat Linux 5.0](http://toastytech.com/guis/x.html) τις οποίες ανέβασα [εδώ](https://github.com/WhatColorIsYourBugatti/images/pull/8) το οποίο έκανα fork απο το [organization](https://github.com/WhatColorIsYourBugatti) μου. Ανέβασα για κάθε μια φωτογραφία και άλλη μια όπου υπάρχει το thumbnail της σε μέγεθος 160x όπως ζητούσε η εκφώνηση. Στην συνέχεια πρόσθεσα δυο αρχεία .md με το όνομα των φωτογραφιών στο [gallery](https://github.com/WhatColorIsYourBugatti/_gallery/pull/5) το οποίο επίσης έκανα fork απο organization μου και έγραψα τα κείμενα σχετικά με το κάθε θέμα.
