@@ -42,7 +42,16 @@
 
 # Συμμετοχικό περιεχόμενο A1
 
-# Άσκηση γραμμής εντολών
+Για το συμμετοχικό περιεχόμενο αποφάσισα να προσθέσω φωτογραφίες και λεζάντες για το Wii U και τo Oculus rift.
+
+| Repo links | My site links | Team's site links | 
+| --- | --- | --- | 
+| [Wii U](https://github.com/p19papa4/_gallery/blob/master/wii-u.md) | [Wii U](https://p19papa4.netlify.app/gallery/wii-u/) | [Wii U](https://oroseira2022.netlify.app/gallery/wii-u/) |
+| [Oculus Rift](https://github.com/p19papa4/_gallery/blob/master/oculus-rift.md) | [Oculus Rift](https://p19papa4.netlify.app/gallery/oculus-rift/)  |  [Oculus Rift](https://oroseira2022.netlify.app/gallery/oculus-rift/) |
+
+
+# Άσκηση γραμμής εντολών (warmup)
+
 
 # Συμμετοχικό περιεχόμενο A2
 
@@ -67,4 +76,7 @@
 | --- | --- | --- | --- |
 | 1 | Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) | :heavy_check_mark: | :heavy_check_mark: |
 | 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories | :heavy_check_mark: | :heavy_check_mark: |
+| 3 | Xerox Star User Interface (1982) 1 of 2 | :heavy_check_mark: | :heavy_check_mark: |
+| 4 |  | :heavy_check_mark: | :heavy_check_mark: |
+| 5 |  | :heavy_check_mark: | :heavy_check_mark: |
 
