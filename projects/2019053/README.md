@@ -8,7 +8,7 @@
 
 #### Προφίλ Github Ομάδας: https://github.com/TEAM11234
 
-#### Ρόλος Ομάδας:
+#### Ρόλος Ομάδας: Owner
 
 #### Προφίλ Edpuzzle: AimiliosPavlidis Π2019053
 
@@ -22,7 +22,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Εισαγωγή](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CF%81%CF%8E%CF%84%CE%B7---%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/843) | |
 | 2 | [Άσκηση γραμμής εντολών Arch Installation](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%B4%CE%B5%CF%8D%CF%84%CE%B5%CF%81%CE%B7---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-arch-installation) | [Ανάρτηση εγκατάστασης Arch Linux στο Discussions](https://github.com/courses-ionio/help/discussions/1126) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Ανάρτηση Συμμετοχικού Περιεχομένου Α1 στο Discussions](https://github.com/courses-ionio/help/discussions/1220) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
