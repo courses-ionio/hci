@@ -15,9 +15,9 @@
 | --- | --- | --- | --- |
 | 1 |  [Εισαγωγή](#Εισαγωγή) | [Link Discussions](https://github.com/courses-ionio/help/discussions/930) | Εμπρόθεσμο παραδοτέο/ fork αποθετηρίου του μαθήματος/ αρχική εισαγωγή με προσδοκίες και στόχους / Δημιουργία ομάδας 10/10 |
 | 2 | [Εγκατάσταση ArchLinux](#Εγκατάσταση-ArchLinux) |[Link Discussions](https://github.com/courses-ionio/help/discussions/1001) |Εμπρόθεσμο παραδοτέο/ εγκατάσταση ArchLinux 10/10 |
-| 3 | [Συμμετοχικό περιεχόμενο A1](#Συμμετοχικό-περιεχόμενο-A1) |[Link Discussions](https://github.com/courses-ionio/help/discussions/1198) | |
+| 3 | [Συμμετοχικό περιεχόμενο A1](#Συμμετοχικό-περιεχόμενο-A1) |[Link Discussions](https://github.com/courses-ionio/help/discussions/1198) |Εμπρόθεσμο παραδοτέο/εισαγωγή 4 εικόνων/ δημιουργία λεζάντας/  δημιουργία demo site/  pull request προς την forked ιστοσελίδα του οργανισμού 8/10|
 | 4 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |[Link Discussions]() | |
-| 5 | [Συμμετοχικό περιεχόμενο A2](#Συμμετοχικό-περιεχόμενο-A2) |[Link Discussions]() | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#Συμμετοχικό-περιεχόμενο-A2) |[Link Discussions]() |Εμπρόθεσμο παραδοτέο/ εισαγωγή των Wii U και Οculus Rift σε slides και timeline pull request προς την forked ιστοσελίδα του οργανισμού 10/10 |
 | 6 | [Κατασκευή του βιβλίου Α](#Κατασκευή-του-βιβλίου-Α) |[Link Discussions]() | |
 | 7 | [Συμμετοχικό περιεχόμενο Β1](#Συμμετοχικό-περιεχόμενο-Β1) |[Link Discussions]() | |
 | 8 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |[Link Discussions]() | |
@@ -42,7 +42,7 @@
 
 # Συμμετοχικό περιεχόμενο A1
 
-Για το συμμετοχικό περιεχόμενο αποφάσισα να προσθέσω φωτογραφίες και λεζάντες για το Wii U και τo Oculus rift.
+Για το συμμετοχικό περιεχόμενο A1 αποφάσισα να προσθέσω φωτογραφίες και λεζάντες για το Wii U και τo Oculus rift.
 
 | Repo links | My site links | Team's site links | 
 | --- | --- | --- | 
@@ -56,6 +56,15 @@
 
 
 # Συμμετοχικό περιεχόμενο A2
+
+Για το συμμετοχικό περιεχόμενο A2 πρόσθεσα στο στις κονσόλες το Wii U και στην εικονική πραγματικότητα το Oculus Rift στο χρονολόγιο. Στις διαφάνειες πρόσθεσα το Wii U στο κεφάλαιο με τις τεχνολογίες και το Oculus Rift στο κεφάλαιο με τους τρόπους διάδρασης.
+
+| Repo links | My site links | Team's site links | 
+| --- | --- | --- | 
+|[Timeline Oculus Rift](https://github.com/p19papa4/site/blob/2019114/_timeline/virtual-reality.md) | [Timeline Oculus Rift](https://p19papa4.netlify.app/timeline/virtual-reality/) | [Timeline Oculus Rift](https://oroseira2022.netlify.app/timeline/virtual-reality/) |
+|[Slides Oculus Rift](https://github.com/p19papa4/site/blob/2019114/_slides/styles.md) | [Slides Oculus Rift](https://p19papa4.netlify.app/slides/styles/) | [Slides Oculus Rift](https://oroseira2022.netlify.app/slides/styles/) |
+|[Timeline Wii U](https://github.com/p19papa4/site/blob/2019114/_timeline/consoles.md) | [Timeline Wii U](https://p19papa4.netlify.app/timeline/consoles/) | [Timeline Wii U](https://oroseira2022.netlify.app/timeline/consoles/) |
+|[Slides Wii U](https://github.com/p19papa4/site/blob/2019114/_slides/technology.md) | [Slides Wii U](https://p19papa4.netlify.app/slides/technology/) | [Slides Wii U](https://oroseira2022.netlify.app/slides/technology/) |
 
 # Κατασκευή του βιβλίου Α
 
