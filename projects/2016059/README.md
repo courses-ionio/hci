@@ -39,3 +39,10 @@
  * [Nes Zapper timeline](https://guileless-mandazi-a0b198.netlify.app//timeline/input-devices/)
  * [Nes Zapper slide](https://guileless-mandazi-a0b198.netlify.app//slides/videogames/)
  * [Asciinema](https://asciinema.org/a/wOk4ayYCl3tGLo6lGG4apxYve)
+
+
+
+
+| Συνεισφορά |
+|---|
+| [Discussion](https://github.com/courses-ionio/help/discussions/1156) |
