@@ -91,5 +91,9 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
   * Φωτογραφία της [`Python`](https://github.com/Greekforce1821/images/blob/master/python.jpg) σε πραγματική ανάλυση και σε [resised ανάλυση](https://github.com/Greekforce1821/images/blob/master/python-thumb.jpg) στο προσωπικό αποθετήριο (test site)
   * Φωτογραφία του [`ODROID-C4`](https://github.com/Greekforce1821/images/blob/master/odroid_c4.jpg) σε πραγματική ανάλυση και σε [resised ανάλυση](https://github.com/Greekforce1821/images/blob/master/odroid_c4-thumb.jpg) στο προσωπικό αποθετήριο (test site)
 
+---
 
+  * Το site από το αποθετήριο του οργανισμού: [Terminal-Killers](https://terminal-killers-site.netlify.app/)
+  * Το άρθρο μου για την `Python` στο αποθετήριο του οργανισμού: [Python Organization](https://terminal-killers-site.netlify.app//gallery/python/)
+  * Το άρθρο μου για τον `ODROID-C4` στο αποθετήριο του οργανισμού
 
