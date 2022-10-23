@@ -7,9 +7,9 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
+| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -52,5 +52,19 @@
 * [User Interface Software Development](http://faculty.washington.edu/ajko/books/uist/)
 * [Software design](http://worrydream.com/MagicInk/)
 * [Augmenting human intellect](https://apps.dtic.mil/sti/pdfs/AD0289565.pdf): βιβλίο για μελέτη μπόνους
+
+---
+
+##  Οργάνωση φακέλων
+
+## Φάκελος αναφορών
+
+Μετά το fork, προσθέστε ένα κλαδί (`branch`) με το ΑΜ σας και μετά (μέσα στον φάκελο `projects`) προσθέστε (`add file`) έναν φάκελο με το ΑΜ σας (μόνο τον αριθμό, χωρίς πρόθεμα, π.χ., 201XXXX) με ένα αρχείο README.md σύμφωνα με τις [αναλυτικές οδηγίες](https://courses-ionio.github.io/help/guide/)
+
+### Ιστορικός φάκελος αναφορών
+
+Ο φάκελος αυτός περιέχει τις αναφορές φοιτητών από προηγούμενες χρονιές.
+
+Αν κάποιος φοιτητής στείλει νέα αναφορά τότε η παλιότερη διαγράφεται κατά την αρχειοθέτηση (αλλά παραμένει στο ιστορικό του γκιτ).
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο με τον ΑΜ σας μέσα στον φάκελο projects και σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
