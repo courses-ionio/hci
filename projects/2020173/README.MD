@@ -32,7 +32,7 @@
 
 
 # Συμμετοχικό περιεχόμενο A1
-## Για την τρίτη Εβδομάδα επέλεξα για θέματα τα Xerox altos και τα windows 3.0(Chinese Windows),υστερα επέλεξα δυο φωτογραφίες σχετικές με το θέμα και τής ανέβασα  στο [image](https://github.com/WhatColorIsYourBugatti/images/pull/2) το οποίο έκανα fork απο το organization μου,η κάθε φωτογραφία ανέβηκε δυο φορές, μια φορά στις κανονικές τους διαστάσεις και μια σε πλάτος 160px. Έπειτα δημιούργησα δυο .md αρχεία με το όνομα των φωτογραφιών στο [_gallery](https://github.com/WhatColorIsYourBugatti/_gallery/pull/2) το οποίο επίσης έκανα fork απο organization μου και έγραψα τα κείμενα σχετικά με το κάθε θέμα.Τα παρακάτω είναι τα link's για τα site των θεμάτων:[Window's 3.0(Chinese Windows)](),[Xerox Alto]().
+## Για την τρίτη Εβδομάδα επέλεξα για θέματα τα Xerox altos και τα windows 3.0(Chinese Windows),υστερα επέλεξα δυο φωτογραφίες σχετικές με το θέμα και τής ανέβασα  στο [image](https://github.com/WhatColorIsYourBugatti/images/pull/7) το οποίο έκανα fork απο το organization μου,η κάθε φωτογραφία ανέβηκε δυο φορές, μια φορά στις κανονικές τους διαστάσεις και μια σε πλάτος 160px. Έπειτα δημιούργησα δυο .md αρχεία με το όνομα των φωτογραφιών στο [_gallery](https://github.com/WhatColorIsYourBugatti/_gallery/pull/4) το οποίο επίσης έκανα fork απο organization μου και έγραψα τα κείμενα σχετικά με το κάθε θέμα.Τα παρακάτω είναι τα link's για τα site των θεμάτων:[Window's 3.0(Chinese Windows)](),[Xerox Alto]().
 
 
 # Άσκηση γραμμής εντολών (warm up cli)
