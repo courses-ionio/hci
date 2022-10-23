@@ -38,15 +38,20 @@
 
 Παρακάτω είναι μερικές εικόνες για το πως φαίνεται το λειτουργικό εξωτερικά καθώς και ένα neofetch στο οποίο φαίνονται οι παράμετροι του συστήματος.
 
+<h1 align=center><b>THE SYSTEM</b></h1>
+
 <p align=center>
   <img src="https://user-images.githubusercontent.com/72461719/197395323-634a2571-5720-45aa-9955-52b883b4d8f8.png"  width="900"/> 
 </p>
+
+<h1 align=center><b>NEOFETCH</b></h1>
 
 <p align=center>
   <img src="https://user-images.githubusercontent.com/72461719/197395313-16b5cc0e-0d05-4a2e-b0a9-8c3b67277ae8.png"  width="600"/> 
 </p>
 
-**JOURNALCTL**
+<h1 align=center><b>JOURNALCTL</b></h1>
+
 <p align="center">
 <a href="https://asciinema.org/a/531434" target="_blank"><img src="https://asciinema.org/a/531434.svg" width="70%" /></a>
 </p>
