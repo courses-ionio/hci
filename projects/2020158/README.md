@@ -42,3 +42,7 @@ https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 ## Προσθήκη Submodules
 
 Αρχικά, έκανα fork το repository `site` και τα submodules `_gallery`, `images`, `_quotes`, `extras`, `bibliography`, `questions`, `notes` και `styles` από το organizasion μου στο προφίλ μου. Προσπάθησα να κάνω την παρακάτω διαδικασία στο Arch Linux, αλλά αντιμετώπισα προβλήματα, οπότε κατέληξα στον τερματικό των Windows. Εγκατέστησα το Git και έκανα clone το αποθετήριο `site` στον υπολογιστή μου. Με τις εντολές `git rm` και `rm -R`, διέγραψα το περιεχόμενο του αρχείου `git.modules`. Έπειτα, πρόσθεσα τα submodules με την εντολή `git submodule add`. Τέλος, χρησιμοποίησα την εντολή `git push origin`.
+
+## Δημιουργία site με Netlify
+
+Σύνδεσα τον λογαριασμό μου GitHub με το Netlify.
