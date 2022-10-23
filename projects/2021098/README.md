@@ -69,4 +69,8 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
  [![asciicast](https://asciinema.org/a/527869.svg)](https://asciinema.org/a/527869)
 
 
-# Παραδοτέο 3ο
+# Παραδοτέο 3ο: Συμμετοχικό περιεχόμενο Α1
+
+  Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε ομαδικά και ατομικά στην ανάπτυξη του ήδη υπάρχοντος [site](https://pibook.epidro.me/). Σαν αρχηγός του οργανισμού [Terminal-Killers](https://github.com/Terminal-Killers) δημιούργησα συγκεκριμένο section για συζήτηση περί [επιλογής θεμάτων](https://github.com/Terminal-Killers/Terminal-Killers/discussions/11) , [προβλημάτων που ίσως προκύψουν στην πορεία](https://github.com/Terminal-Killers/Terminal-Killers/discussions/14) και τέλος [οδηγίες χρήσης](https://github.com/Terminal-Killers/Terminal-Killers/discussions/12) για να καταφέρει το κάθε μέλος ξεχωριστά να συμβάλλει στην ανάπτυξη της ιστοσελίδας. 
+
+  Προσωπικά, ασχολήθηκα με δύο θέματα τα οποία ανέπτυξα στην ιστοσελίδα τα οποία κατά την γνώμη μου απευθύνονται στις τωρινές καταστάσεις περι επικοινωνίας ανθρώπου - υπολογιστή μέσω υλικών αγαθών. Συγκεκριμένα, αναφέρθηκα στην προγραμματιστική γλώσσα <ins>υψηλού επιπέδου</ins> [`Python`](https://www.python.org/) και στον ολοκαίνουργιο υπολογιστή τσέπης [`ODROID-C4`](https://www.hardkernel.com/shop/odroid-c4/)
