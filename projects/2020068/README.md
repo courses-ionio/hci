@@ -54,10 +54,10 @@
 
 ## Συμμετοχικό περιεχόμενο A1
 
-| Περιγραφή | Repository Link | Netlify Link |
-| --- | --- | --- |
-|HP-150 Images| [hp-150](https://github.com/lefterisan/images/blob/hp-150/hp-150.jpg) +[hp-150-thumb](https://github.com/lefterisan/images/blob/hp-150/hp-150-thumb.jpg)||
-|HP-150 | [hp150](https://github.com/lefterisan/_gallery/blob/hp-150/hp-150.md)||
-|microvision images| [microvision](https://github.com/lefterisan/images/blob/microvision/microvision.jpg) + [microvision-thumb](https://github.com/lefterisan/images/blob/microvision/microvision-thumb.jpg)||
-|microvision | [microvision.md](https://github.com/lefterisan/_gallery/blob/microvision/microvision.md)||
+| Περιγραφή | Repository Link | Netlify Link |Pull requests |
+| --- | --- | --- | --- |
+|HP-150 Images| [hp-150](https://github.com/lefterisan/images/blob/hp-150/hp-150.jpg) +[hp-150-thumb](https://github.com/lefterisan/images/blob/hp-150/hp-150-thumb.jpg)||https://github.com/Unixidized/images/pull/10|
+|HP-150 | [hp150](https://github.com/lefterisan/_gallery/blob/hp-150/hp-150.md)|| https://github.com/Unixidized/_gallery/pull/6|
+|microvision images| [microvision](https://github.com/lefterisan/images/blob/microvision/microvision.jpg) + [microvision-thumb](https://github.com/lefterisan/images/blob/microvision/microvision-thumb.jpg)||https://github.com/Unixidized/images/pull/8|
+|microvision | [microvision.md](https://github.com/lefterisan/_gallery/blob/microvision/microvision.md)||https://github.com/Unixidized/_gallery/pull/8|
 
