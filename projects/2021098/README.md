@@ -81,3 +81,15 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 ## Περιγραφή: <ins>ODROID-C4</ins>
 
+Το ODROID-C4 είναι η νέα γενιά μονής μητρικής υπολογιστικής η οποία είναι βασισμένη στην αρχιτεκτονική ARM 64bit υπολογιστών. Ο κύριος επεξεργαστής του ODROID-C4 είναι ένας τετραπύρηνος Cortex-A55 με την ολοκαίνουργια ενσωματωμένη κάρτα γραφικών Mali-G31 GPU. O A-55 τρέχει σε συχνότητα των 2.0Ghz χωρίς ψύξη αέρος ή νερού, χρησιμοποιώντας μόνο παθητική ψύξη μέσω heat sink κάτι που το καθιστά αθόρυβο σαν υπολογιστή τσέπης.
+
+# Παρακάτω παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
+
+  * Προσωπικό site από το αποθετήριο μου (test site): [Greekforce1821](https://greekforce1821-site.netlify.app/)
+  * Άρθρο για την `Python` στο προσωπικό αποθετήριο (test site): [Python](https://greekforce1821-site.netlify.app/gallery/python/)
+  * Άρθρο για τον `ODROID-C4` στο προσωπικό αποθετήριο (test site): [ODROID-C4](https://greekforce1821-site.netlify.app/gallery/odroid-c4/)
+  * Φωτογραφία της [`Python`](https://github.com/Greekforce1821/images/blob/master/python.jpg) σε πραγματική ανάλυση και σε [resised ανάλυση](https://github.com/Greekforce1821/images/blob/master/python-thumb.jpg] στο προσωπικό αποθετήριο (test site)
+  * Φωτογραφ
+
+
+
