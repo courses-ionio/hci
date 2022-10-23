@@ -89,7 +89,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
   * Άρθρο για την `Python` στο προσωπικό αποθετήριο (test site): [Python](https://greekforce1821-site.netlify.app/gallery/python/)
   * Άρθρο για τον `ODROID-C4` στο προσωπικό αποθετήριο (test site): [ODROID-C4](https://greekforce1821-site.netlify.app/gallery/odroid-c4/)
   * Φωτογραφία της [`Python`](https://github.com/Greekforce1821/images/blob/master/python.jpg) σε πραγματική ανάλυση και σε [resised ανάλυση](https://github.com/Greekforce1821/images/blob/master/python-thumb.jpg) στο προσωπικό αποθετήριο (test site)
-  * Φωτογραφία του [`ODROID-C4`](https://github.com/Greekforce1821/images/blob/master/odroid_c4.jpg) σε πραγματική ανάλυση και σε [resised ανάλυση](https://github.com/Greekforce1821/images/blob/master/odroid_c4-thumb.jpg) στο προσωπικό αποθετ
+  * Φωτογραφία του [`ODROID-C4`](https://github.com/Greekforce1821/images/blob/master/odroid_c4.jpg) σε πραγματική ανάλυση και σε [resised ανάλυση](https://github.com/Greekforce1821/images/blob/master/odroid_c4-thumb.jpg) στο προσωπικό αποθετήριο (test site)
 
 
 
