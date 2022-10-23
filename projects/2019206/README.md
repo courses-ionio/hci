@@ -33,11 +33,11 @@
 Παρακάτω είναι μερικές εικόνες για το πως φαίνεται το λειτουργικό εξωτερικά καθώς και ένα neofetch στο οποίο φαίνονται οι παράμετροι του συστήματος.
 
 <p align=center>
-  <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/manos@archusb:~_001.png?raw=true"  width="700"/> 
+  <img src="https://user-images.githubusercontent.com/72461719/197395323-634a2571-5720-45aa-9955-52b883b4d8f8.png"  width="900"/> 
 </p>
 
 <p align=center>
-  <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/neofetch.png?raw=true"  width="700"/> 
+  <img src="https://user-images.githubusercontent.com/72461719/197395313-16b5cc0e-0d05-4a2e-b0a9-8c3b67277ae8.png"  width="600"/> 
 </p>
 
 
@@ -48,8 +48,8 @@
 Παρακάτω είναι μερικά screenshots από τις προσθήκες μου (από τη σελίδα του gallery)
 
 <p align=center>
-  <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/gameboy.png?raw=true"  width="328"/> 
-  <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/3ds.png?raw=true"  width="300"/> 
+  <img src="https://user-images.githubusercontent.com/72461719/197394909-8d80ca24-4e37-4b46-9e32-878282b819d1.jpg"  width="428"/> 
+  <img src="https://user-images.githubusercontent.com/72461719/197394896-92180902-10d4-4dc9-97b2-2c54834293ce.jpg"  width="380"/> 
 </p>
 
 Το [test site](https://manolis-hci2022.netlify.app) μου.
@@ -66,7 +66,7 @@
 Για αυτό το παραδοτέο υλοποίησα μερικές από τις warmup ασκήσεις που μας δίνονται, έτσι ώστε να εξασκηθώ πάνω στο νέο λειτουργικό σύστημα και να μάθω καλύτερα πως λειτουργεί το i3 window manager το οποίο είναι κάτι τελείως καινούριο για εμένα καθώς πάντα χρησιμοποιούσα desktop environment.
 
 Πρώτη άσκηση:
-Για την πρώτη άσκηση χρησιμοποίησα το [curl]() και το [wttr.in]() για να ελέγξχ τον καιρό σε μέρη που με ενδιέφεραν. Παρακάτω είναι και το σχετικό asciinema
+Για την πρώτη άσκηση χρησιμοποίησα το [curl]() και το [wttr.in]() για να ελέγξω τον καιρό σε μέρη που με ενδιέφεραν. Παρακάτω είναι και το σχετικό asciinema
 
 <p align="center">
 <a href="https://asciinema.org/a/524825" target="_blank"><img src="https://asciinema.org/a/524825.svg" width="70%" /></a>
@@ -92,7 +92,7 @@
 Και τέλος στο παρακάτω screenshot φαίνεται το ίδιο το βίντεο
 
 <p align=center>
-  <img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/the_hills_screenshot.png?raw=true"  width="700"/> 
+  <img src="https://user-images.githubusercontent.com/72461719/197395396-7ce10a7f-c441-4b47-a34b-8e9757d41f5e.png"  width="900"/> 
 </p>
 
 
@@ -104,12 +104,12 @@
 Παρακάτω είναι μερικά screenshots από τις προσθήκες μου:
 
 <p align=center>
-  <a href="https://oroseira2022.netlify.app/timeline/consoles/" target="_blank"><img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/gameboy_timeline.png?raw=true" width="500" height="300" /></a>
-  <a href="https://oroseira2022.netlify.app/timeline/consoles/" target="_blank"><img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/3ds_timeline.png?raw=true" width="500" height="300" /></a> 
+  <a href="https://oroseira2022.netlify.app/timeline/consoles/" target="_blank"><img src="https://user-images.githubusercontent.com/72461719/197395585-de328047-972d-4f28-b657-a67470014b4e.png" width="500" height="300" /></a>
+  <a href="https://oroseira2022.netlify.app/timeline/consoles/" target="_blank"><img src="https://user-images.githubusercontent.com/72461719/197395595-224402ac-6d43-4807-9d46-c220f49b2583.png" width="500" height="300" /></a> 
 </p>
 
 <p align=center>
- <a href="https://oroseira2022.netlify.app/slides/technology/" target="_blank"><img src="https://github.com/Mnlsvt/online-cv/blob/master/assets/images/tech_slides.png?raw=true" width="400"/></a>
+ <a href="https://oroseira2022.netlify.app/slides/technology/" target="_blank"><img src="https://user-images.githubusercontent.com/72461719/197395460-de93007c-5a20-46cd-819e-196394d45933.png" width="400"/></a>
  </p>
  
  ❗Μπορείτε να κάνετε κλικ πάνω στις εικόνες για να μεταφερθείτε απευθείας στον σύνδεσμο.
