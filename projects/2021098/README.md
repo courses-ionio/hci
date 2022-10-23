@@ -95,5 +95,5 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
   * Το site από το αποθετήριο του οργανισμού: [Terminal-Killers](https://terminal-killers-site.netlify.app/)
   * Το άρθρο μου για την `Python` στο αποθετήριο του οργανισμού: [Python Organization](https://terminal-killers-site.netlify.app//gallery/python/)
-  * Το άρθρο μου για τον `ODROID-C4` στο αποθετήριο του οργανισμού
+  * Το άρθρο μου για τον `ODROID-C4` στο αποθετήριο του οργανισμού: [ODROID-C4 Organization](https://terminal-killers-site.netlify.app//gallery/odroid-c4/)
 
