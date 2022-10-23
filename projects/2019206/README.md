@@ -46,6 +46,11 @@
   <img src="https://user-images.githubusercontent.com/72461719/197395313-16b5cc0e-0d05-4a2e-b0a9-8c3b67277ae8.png"  width="600"/> 
 </p>
 
+**JOURNALCTL**
+<p align="center">
+<a href="https://asciinema.org/a/531434" target="_blank"><img src="https://asciinema.org/a/531434.svg" width="70%" /></a>
+</p>
+
 
 # **Συμμετοχικό περιεχόμενο A1**
 
