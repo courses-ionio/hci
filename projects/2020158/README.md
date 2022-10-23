@@ -30,7 +30,7 @@
 
 # Άσκηση Γραμμής Εντολών Linux Install
 
-Εγκατέστησα το Arch Linux σε ένα USB stick και εκτέλεσα τις παρακάτω εντολές:
+Εγκατέστησα το Arch Linux σε ένα USB stick και εκτέλεσα τις εντολές `neofetch` και `journalctl -b`:
 
 https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 
