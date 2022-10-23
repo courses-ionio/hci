@@ -77,5 +77,5 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 ## Περιγραφή: <ins>Python</ins>
 
-Η Python είναι διερμηνευόμενη (interpreted), γενικού σκοπού (general-purpose) και υψηλού επιπέδου, γλώσσα προγραμματισμού. Ανήκει στις γλώσσες προστακτικού προγραμματισμού (Imperative programming) και υποστηρίζει τόσο το διαδικαστικό (procedural programming) όσο και το αντικειμενοστρεφές (object-oriented programming) προγραμματιστικό υπόδειγμα (programming paradigm). Είναι δυναμική γλώσσα προγραμματισμού (dynamically typed) και υποστηρίζει συλλογή απορριμμάτων (garbage collection ή GC). Επιλέχθηκε η συγκεκριμένη γλώσσα διότι είναι η πιο πρόσφατη με την οποία δημιούργησα [project](https://github.com/ThePythonologists/Eudoxus-Api
+Η Python είναι διερμηνευόμενη (interpreted), γενικού σκοπού (general-purpose) και υψηλού επιπέδου, γλώσσα προγραμματισμού. Ανήκει στις γλώσσες προστακτικού προγραμματισμού (Imperative programming) και υποστηρίζει τόσο το διαδικαστικό (procedural programming) όσο και το αντικειμενοστρεφές (object-oriented programming) προγραμματιστικό υπόδειγμα (programming paradigm). Είναι δυναμική γλώσσα προγραμματισμού (dynamically typed) και υποστηρίζει συλλογή απορριμμάτων (garbage collection ή GC). Επιλέχθηκε η συγκεκριμένη γλώσσα διότι είναι η πιο πρόσφατη με την οποία δημιούργησα [project](https://github.com/ThePythonologists/Eudoxus-Api)
 
