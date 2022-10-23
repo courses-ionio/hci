@@ -18,7 +18,7 @@
 | --- | --- | --- | --- |
 | 1 | Εισαγωγή| [Click](https://github.com/courses-ionio/help/discussions/904) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Click](https://github.com/courses-ionio/help/discussions/1052) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[click](https://github.com/courses-ionio/help/discussions/1190) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -47,3 +47,13 @@
 
 ### Journalctl
 [![asciicast](https://asciinema.org/a/CdSsZsoYJorzWS2dbi1qQfB7s.svg)](https://asciinema.org/a/CdSsZsoYJorzWS2dbi1qQfB7s)
+
+## Εβδομάδα Τρίτη - Συμμετοχικό περιεχόμενο A1
+Για την τρίτη εβδομάδα , μου ζητήθηκε να προσθεέω περιεχόμενο στο images και στο _gallery και να διμιουργήσω δύο σελίδες στο netlify. Ορίστε η δύο σελίδες για το gem3.11 και το amiga3.5 καθώς και τα pull requests τους.
+
+### Σελιδες Netlify
+[gem3.11](https://fancy-vacherin-2b621a.netlify.app/gallery/gem3.11/) 
+[amiga3.5](https://fancy-vacherin-2b621a.netlify.app/gallery/amiga3.5/)
+### Pull requests
+[images](https://github.com/ContattoContare/images/pull/2) 
+[_gallery](https://github.com/ContattoContare/_gallery/pull/2)
