@@ -23,9 +23,10 @@
 
 
 
-#  Ομάδα 
+# [Ομάδα](https://github.com/METSK)
 
-GitHub organisation url: [METSK](https://github.com/METSK)
+# METSK
+
 | # | ΑΜ | GitHub profile |
 | -- | -- | -- |
 | 1 | Π2019117  | https://github.com/P2019117 |
