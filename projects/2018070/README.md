@@ -43,7 +43,7 @@
 
 <p>Παρακάτω φαίνεται το link από το neltify:</p>
 
-- [My site]()
+- [My site](https://strong-scone-6a0cf5.netlify.app)
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
 - [Pull Request προς τον οργανισμό της ομάδας](https://github.com/The4Beasts/_gallery/pull/1)
