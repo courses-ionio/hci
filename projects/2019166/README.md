@@ -46,4 +46,4 @@ https://asciinema.org/a/k6VwockITyhFsry7jnz388cnE
 | 1 | Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) |  :+1:  | :+1: | 
 | 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories |  :+1: |  :+1: |
 | 3 | Xerox Star User Interface (1982) 1 of 2  |  :+1: | :+1: |
-
+| 4 | Alto System Project: Larry Tesler demonstration of Gypsy  |  :+1: | :+1: |
