@@ -49,13 +49,18 @@
 
 .
 
-| Συμμετοχή στην τάξη |
-|---|
-| [Discussions - Q&A - Answered ](https://github.com/courses-ionio/help/discussions/1017#discussioncomment-3863382) |
-| [Discussions - Q&A - Answered ](https://github.com/courses-ionio/help/discussions/1049#discussioncomment-3884971) |
-| [Discussions - Q&A - Answered ](https://github.com/courses-ionio/help/discussions/1081#discussioncomment-3889258) |
-| [Discussions - Q&A - Answered ](https://github.com/courses-ionio/help/discussions/1162#discussioncomment-3937174) |
-| [Discussions - Q&A - Answered ](https://github.com/courses-ionio/help/discussions/1166#discussioncomment-3937303) |
-| [Discussions - Q&A - Answered ](https://github.com/courses-ionio/help/discussions/1174#discussioncomment-3936904) |
-| [Discussions - Q&A - Contributed](https://github.com/courses-ionio/help/discussions/1170#discussioncomment-3936905) |
-| [Discussions - Show and Tell - Contributed](https://github.com/courses-ionio/help/discussions/1021#discussioncomment-3936168) |
+## Συμμετοχή στην τάξη
+
+| *Question about*               | *Link to answer/contribution* |
+| :----------------------------: | :---------------------------: |
+| [Arch Linux Installation](https://github.com/courses-ionio/help/discussions/1017)   | [Answer](https://github.com/courses-ionio/help/discussions/1017#discussioncomment-3863382) |
+| [Asciinema](https://github.com/courses-ionio/help/discussions/1049)                 | [Answer](https://github.com/courses-ionio/help/discussions/1049#discussioncomment-3884971) |
+| [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1081)              | [Answer](https://github.com/courses-ionio/help/discussions/1081#discussioncomment-3889258) |
+| [SW(Τεχνολογία Λογισμικού)](https://github.com/courses-ionio/help/discussions/1162) | [Answer](https://github.com/courses-ionio/help/discussions/1162#discussioncomment-3937174) |
+| [3ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1166)              | [Answer](https://github.com/courses-ionio/help/discussions/1166#discussioncomment-3937303) |
+| [Edpuzzle Password](https://github.com/courses-ionio/help/discussions/1174)         | [Answer](https://github.com/courses-ionio/help/discussions/1174#discussioncomment-3936904) |
+| [Edpuzzle Password](https://github.com/courses-ionio/help/discussions/1170)         | [Contribution](https://github.com/courses-ionio/help/discussions/1170#discussioncomment-3936905) |
+
+| *Show and tell* |
+|:---:|
+| [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1021) - [Contribution](https://github.com/courses-ionio/help/discussions/1021#discussioncomment-3936168) |
