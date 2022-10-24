@@ -39,4 +39,7 @@
 # Συμμετοχικό περιεχόμενο A1
 Στο τρίτο παραδοτέο προχώρησα στην προσθήκη των windows2000 και Rhapsody στο ηλεκτρονικό βιβλίο του μαθήματος.
 Η προσθήκες αυτές συνοδεύτηκαν τόσο απο λεζάντες με σύντομη περιγραφή των λειτουργικών συστημάτων όσο και από εικόνες.
-Τέλος ασχολήθηκα και με την δημιουργία των απαραίτητων pull request.
+Τέλος ασχολήθηκα και με την δημιουργία των απαραίτητων pull request.                                                                         
+Παρακάτω παρουσιάζω τις προσθήκες μου στην ιστοσελίδα του μαθήματος.                                                         
+[Λινκ για τα windows 2000](https://invicta-team-project.netlify.app/gallery/windows2000/?fbclid=IwAR21nAZ0z5TGrG01HGQd6KZMi4K39fSPNmHjRgy0Au-3hfy15K4cz7iwXqw)      
+[Λινκ για το Rhapsody](https://invicta-team-project.netlify.app/gallery/rhapsody/?fbclid=IwAR2OyJ0U6biAgMvWZFGMzm9AF_xbRyOL0HhhqeJedcXKcqWOgbFz1BmFB4E)
