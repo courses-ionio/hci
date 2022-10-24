@@ -27,4 +27,11 @@
  δουλεία μας ως προγραμματιστές. Τέλος η επαφή και η ενασχόληση με το github είναι απαραίτητη διότι αποτελεί
  ένα πολύτιμο εργαλείο για τον προγραμματιστή.
 
+# Άσκηση γραμμής εντολών
+Για το παραδοτέο 2 εγκατέστησα επιτυχώς το λειτουργικό σύστημα arch linux . Κατα την εγκατάσταση αντιμετώπισα διάφορες δυσκολίες τις οποίες όμως επέλυσα και το σύστημά μου πλέον είναι πλήρως λειτουργικό.
 
+Στην συνέχεια παρουσιάζω το λειτουργικό μου σύστημα μέσω των εντολών neofetch και bootlog.
+
+<a href="https://asciinema.org/a/kD3Ai7UQdS3VNRlAbrnjYx6ik" target="_blank"><img src="https://asciinema.org/a/kD3Ai7UQdS3VNRlAbrnjYx6ik.svg" /></a>
+
+<a href="https://asciinema.org/a/n6zjtWyjE8VvcvdpVxEWyyKwH" target="_blank"><img src="https://asciinema.org/a/n6zjtWyjE8VvcvdpVxEWyyKwH.svg" /></a>
