@@ -29,6 +29,19 @@
 - [Asciinema Link](https://asciinema.org/a/Dez5q9xB4nahyKOyfyvFRPMrI)
 
 # Παραδοτέο 3: Συμμετοχικό περιεχόμενο Α1
+<p>Στο συγκεκριμένο παραδοτέο, καλούμαστε να προσθέσουμε δύο νέες εικόνες με το περιεχόμενό τους στην ιστοσελίδα του βιβλίου του μαθήματος. Παρακάτω παρουσιάζονται οι περιγραφές μου για το "Pop2See Smart Class" και για τα "Flash Games":</p>
 
-- [Pull Request προς τον οργανισμό της ομάδας](https://github.com/The4Beasts/README.md/pull/1)
+- [Pop2See Smart Class.md](https://github.com/Konstantina3/_gallery/blob/master/Pop2See%20Smart%20Class.md)
+- [Flash Games.md](https://github.com/Konstantina3/_gallery/blob/master/Flash%20Games.md)
+
+<p>Και οι αντίστοιχες εικόνες:</p>
+
+- [Pop2See.png](https://github.com/Konstantina3/images/blob/master/A_Pop2See.png)
+- [Pop2See-thumb](https://github.com/Konstantina3/images/blob/master/A_Pop2See%20-%20thumb.png)
+- [flash-games.png](https://github.com/Konstantina3/images/blob/master/A_flash-games.png)
+- [flash-games-thumb](https://github.com/Konstantina3/images/blob/master/A_flash-games-thumb.png)
+
+<p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
+
+- [Pull Request προς τον οργανισμό της ομάδας](https://github.com/The4Beasts/_gallery/pull/1)
 - [Οργανισμός ομάδας](https://github.com/The4Beasts)
