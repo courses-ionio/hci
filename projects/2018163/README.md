@@ -29,6 +29,28 @@
 - [Asciinema Link](https://asciinema.org/a/J8eXJCYzB6AtsJfI0xi0sJRZN)
 
 # Παραδοτέο 3: Συμμετοχικό περιεχόμενο Α1
+<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε 2 νέες εικόνες με το περιεχόμενό τους στην ιστοσελίδα του μαθήματος . Παρακάτω παρουσιάζονται οι περιγραφές μου:
+ 
+ - [My Gallery](https://github.com/Vasdekis/_gallery)
+  
+    - [Microcontroller](https://github.com/Vasdekis/_gallery/blob/master/Microcontroller.md)
+  
+    - [Portable data terminal](https://github.com/Vasdekis/_gallery/blob/master/Portable%20data%20terminal.md)
+  
+  <p>Και οι αντίστοιχες εικόνες:</p>
+  
+- [Images](https://github.com/Vasdekis/images)
 
-- [Pull Request στον οργανισμό της ομάδας](https://github.com/The4Beasts/README.md/pull/2)
+  - [MCU-thumb.jpg](https://github.com/Vasdekis/images/blob/master/MCU-thumb.jpg)
+  
+  - [MCU.jpg](https://github.com/Vasdekis/images/blob/master/MCU.jpg)
+  
+  - [PDT-thumb.png](https://github.com/Vasdekis/images/blob/master/PDT-thumb.png)
+  
+  - [PDT.png](https://github.com/Vasdekis/images/blob/master/PDT.png)
+
+<p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
+
+
+- [Pull Request στον οργανισμό της ομάδας](https://github.com/The4Beasts/_gallery/pull/2)
 - [Οργανισμός ομάδας](https://github.com/The4Beasts)
