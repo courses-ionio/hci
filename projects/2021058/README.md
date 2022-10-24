@@ -49,7 +49,7 @@
 
 Έχω κάνει εγκατάσταση τα Arch linux και εκτέλεσα της κάτω εντολές:
 
-<a href="https://asciinema.org/a/eEMWrXrx52aC2yLFfusox14NV" target="_blank"><img src="https://asciinema.org/a/eEMWrXrx52aC2yLFfusox14NV.svg" /></a>
+<a href="https://asciinema.org/a/eEMWrXrx52aC2yLFfusox14NV"  async data-autoplay="true" data-size="big"><img src="https://asciinema.org/a/eEMWrXrx52aC2yLFfusox14NV.svg" /></a>
 
 # $\color[RGB]{0,128,0} 3ο \space Παραδοτέο $
 
