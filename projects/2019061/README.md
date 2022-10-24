@@ -36,15 +36,32 @@ e-mail: p19tila@ionio.gr <br/>
 <br/>
 <h1 align="center">Άσκηση γραμμής εντολών (linux install) - Εβδομάδα 2</h1>
 
-<p>--</p>
+<p>Σε αυτό το παραδοτέο κατάφερα να εγκαταστήσω τα Arch Linux σε usb. Έκανα τη διαδικασία πολλές φορές επειδή αντιμετώπισα αρκετά προβλήματα, τα οποία πιστεύω οτι ευθύνονται στην λιγοστή εμπειρία που έχω με τα λειτουργικά συστήματα UNIX. Δοκίμασα να κάνω την εγκατάσταση με δύο usb's αλλά τελικά κατέληξα να χρησιμοποιώ το VMware Workstation και ένα usb. Βασικό πρόβλημα της εγκατάστασης ήταν το πολύ αργό usb. Αρχικά πίστευα πως έφταιγε το γραφικό περιβάλλον (plasma) γι' αυτό δοκίμασα και το Gnome με το οποίο έκανα το Παραδοτέο. Τελικά κατέληξα στο οτι φταίει το usb 2.0 που έκανα την εγκατάσταση.</p>
+
+<br/>
+<h4> Screenshot από την εντολή neofetch και link από το Asciinema.</h4>
+<br/>
+
+![Asciinemascreen](https://user-images.githubusercontent.com/72463627/197629214-097b4e20-4825-4cbd-8f16-7a17ca861e9b.png)
+
+<br/>
+
+🔹 [Asciinema-neofetch](https://asciinema.org/a/FHNvol3zR9myVvfqkJtkDrYW5) 🔹
+
+<br/>
+<h4>Link για την εντολή journalctl -b</h4>
+<br/>
+
+🔹 [Asciinema-journalctl](https://asciinema.org/a/9iKlC9VGlMJJAAuacRZXucFSa) 🔹
 
 <br/>
 <br/>
 <br/>
+
 <h1 align="center">Βίντεο Κουίζ </h1>
 
 |🔳| Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
 | ---- | ---- | ---- | ---- |
-| 1 | Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) |<p align = "center">✅</p>|<p align = "center">✅</p>|
+| 1 | Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) |<p align = "center">✅</p>|<p align = "center">❎</p>|
 | 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories |<p align = "center">✅</p>|<p align = "center">✅</p>|
 | 3 | Xerox Star User Interface (1982) 1 of 2 |<p align = "center">✅</p>|<p align = "center">✅</p>|
