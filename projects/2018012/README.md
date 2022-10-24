@@ -35,3 +35,8 @@
 <a href="https://asciinema.org/a/kD3Ai7UQdS3VNRlAbrnjYx6ik" target="_blank"><img src="https://asciinema.org/a/kD3Ai7UQdS3VNRlAbrnjYx6ik.svg" /></a>
 
 <a href="https://asciinema.org/a/n6zjtWyjE8VvcvdpVxEWyyKwH" target="_blank"><img src="https://asciinema.org/a/n6zjtWyjE8VvcvdpVxEWyyKwH.svg" /></a>
+
+# Συμμετοχικό περιεχόμενο A1
+Στο τρίτο παραδοτέο προχώρησα στην προσθήκη των windows2000 και Rhapsody στο ηλεκτρονικό βιβλίο του μαθήματος.
+Η προσθήκες αυτές συνοδεύτηκαν τόσο απο λεζάντες με σύντομη περιγραφή των λειτουργικών συστημάτων όσο και από εικόνες.
+Τέλος ασχολήθηκα και με την δημιουργία των απαραίτητων pull request.
