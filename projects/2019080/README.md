@@ -93,18 +93,19 @@ Edpuzzle account:(https://edpuzzle.com/profile)
  <h3 align="center">Unity Game Engine</h3>
  Για την πρώτη μου επιλογή, αποφάσισα να πάω με την μηχανή βιντεοπαιχνιδιών, <b>Unity</b>, μιας και έχω μια άλφα εξοικείωση με το συγκεκριμένο piece of software. Όντας gamer τόσα χρόνια, μου κινήθηκε το ενδιαφέρον σχετικά με τους μηχανισμούς και τρόπους υλοποίησης των παιχνιδιών που αλληλεπιδρώ τόσο καιρό, και έτσι αποφάσισα να πειραματιστώ με το συγκεκριμένη <b>game engine</b> για μια καλύτερη κατανόηση αλλά και εκτίμηση για το τι γίνεται behind-the-scenes. Προσωπικά, κατάφερα να δημιουργήσω 4 διαφορετικά παιχνίδια, και μπορώ να πω πως η εκτίμηση για τον κλάδο αυτόν έχει μεγαλώσει πάρα πολύ. Ελπίζω με αυτήν την εισαγωγή μου στο συμμετοχικό υλικό του βιβλίου, να καταφέρω να αγγίξω κάποιον συμφοιτητή/τρια μου με το ίδιο ενδιαφέρον και τις ίδιες απορροίες που είχα και εγώ, and give it a try!
  
+ 
 <b>Παρακάτω βρίσκεται το screenshot το οποίο τραβήχτηκε απο ένα δικό μου project</b>
 
 ![Unity Game Engine](https://user-images.githubusercontent.com/72515787/197870422-4e0cc1f1-026e-4962-b138-bab30bb78c24.PNG)
 
-<b> και ο σύνδεσμος του συμμετοχικού υλικού στο netlify</b> (https://radiant-gecko-85646a.netlify.app//gallery/unity-game-engine/)
+<b> και ο σύνδεσμος του συμμετοχικού υλικού στο [netlify](https://radiant-gecko-85646a.netlify.app//gallery/unity-game-engine/)</b>
 
 <h3 align="center">Adobe Photoshop</h3>
 
 Δεύτερη επιλογή διάλεξα απο τα γνωστότερα και πολλών επαγγελματιών "Go to" πρόγραμμα επεξεργασίας ψηφιακών εικόνων, το Adobe Photoshop.
 
 ![PhotoshopGUI](https://user-images.githubusercontent.com/72515787/197872821-6cbcacb5-4750-40fb-9252-9ae9f138f3f3.png)
- ο σύνδεσμος του συμμετοχικού υλικού στο netlify</b> (https://radiant-gecko-85646a.netlify.app//gallery/photoshop-gui/)
+ <b>ο σύνδεσμος του συμμετοχικού υλικού στο [netlify](https://radiant-gecko-85646a.netlify.app//gallery/photoshop-gui/)</b> 
  
   <h2 align="center">3ο Παραδοτέο Αυτοαξιολόγηση</h2>
   
