@@ -49,7 +49,7 @@
 
 Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε 2 νέες εικόνες με το περιεχόμενό τους στην ιστοσελίδα του μαθήματος . Παρακάτω παρουσιάζονται οι περιγραφές μου:
  
-   - [Microcomputer-Commodore 64](https://github.com/despina-komo/_gallery/tree/%CE%A02018205)
+   - [Microcomputer-Commodore 64](https://github.com/despina-komo/_gallery/blob/%CE%A02018205/Microcomputer-Commodore%2064.md)
    - [Microcomputer-Raspberry Pi](https://github.com/despina-komo/_gallery/blob/%CE%A02018205/Microcomputer-Raspberry%20Pi.md)
     
   Και οι αντίστοιχες εικόνες:
