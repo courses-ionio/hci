@@ -13,7 +13,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Παραδοτέο 1](https://github.com/courses-ionio/help/discussions/1007) |Πραγματοποίησα το 1ο παραδοτέο και δημιούργησα τη σελίδα της τελικής αναφοράς. Ανέφερα στην εισαγωγή τους αρχικούς μου στόχους ως προς το μάθημα και προσπάθησα να εξοικειωθώ με το github || |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1009) | Πρώτη επαφή με arch, πρώτη επαφή με τερματικό, εξοικείωση με Linux|
  | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1280)| Πραγματοποίησα το 3ο παραδοτέο προσθέτωντας νέες εικόνες και πληροφορίες στην ιστοσελίδα του βιβλίου του μαθήματος.|
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -42,3 +42,21 @@
 Η πρώτη μου επαφή με arch, πρώτη επαφή με τερματικό.Στο συγκεκριμένο παραδοτέο, καλούμαστε να εγκαταστήσουμε μια έκδοση Linux και συγκεκριμένα το Arch Linux και να εμφανίσουμε το αντίστοιχο system info. Αυτό το πετύχαμε με την εντολή "neofetch", όπως φαίνεται παρακάτω:
 
 Σύνδεσμος: [asciinema](https://asciinema.org/a/385447)
+
+###### [3]
+# Παραδοτέο 3
+
+
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε 2 νέες εικόνες με το περιεχόμενό τους στην ιστοσελίδα του μαθήματος . Παρακάτω παρουσιάζονται οι περιγραφές μου:
+ 
+   - [Microcomputer-Commodore 64](https://github.com/despina-komo/_gallery/tree/%CE%A02018205)
+   - [Microcomputer-Raspberry Pi](https://github.com/despina-komo/_gallery/blob/%CE%A02018205/Microcomputer-Raspberry%20Pi.md)
+    
+  Και οι αντίστοιχες εικόνες:
+  
+ - [Microcomputer-Commodore 64](https://github.com/despina-komo/images/blob/c8b2cd3dfb4e200a9972038528b735668bbd89bd/Microcomputer-Commodore%2064.jpg)
+  
+  - [Microcomputer-Raspberry Pi](https://github.com/despina-komo/images/blob/%CE%A02018205/Microcomputer-Raspberry%20Pi.jpg)
+  
+ 
+    
