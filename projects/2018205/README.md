@@ -14,7 +14,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1009) | Πρώτη επαφή με arch, πρώτη επαφή με τερματικό, εξοικείωση με Linux|
  | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | [Παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1280)| Πραγματοποίησα το 3ο παραδοτέο προσθέτωντας νέες εικόνες και πληροφορίες στην ιστοσελίδα του βιβλίου του μαθήματος.|
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1281) | Eπιπλέον επαφή με arch, πρώτη επαφή με τερματικό, εξοικείωση με Linux|
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -58,5 +58,12 @@
   
   - [Microcomputer-Raspberry Pi](https://github.com/despina-komo/images/blob/%CE%A02018205/Microcomputer-Raspberry%20Pi.jpg)
   
- 
+ ###### [4]
+# Παραδοτέο 4
+Ο στόχος της εργασίας είναι να ενημερωθούμε για την πρόγνωση του καιρού για την πόλη καταγωγής μας και μιας ακόμη πόλης στην οποία θα θέλαμε να ταξιδέψουμε.
+
+
+<h2><span id="fetch the weather forecast for your home city and one more city that you want to travel to".></span></h2>
+
+Σύνδεσμος: [asciinema](https://asciinema.org/a/385449)
     
