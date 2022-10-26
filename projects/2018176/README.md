@@ -11,7 +11,7 @@
 [Discussions Link](https://github.com/courses-ionio/help/discussions/923)
 
 
-## Παραδοτέο 2
+## Παραδοτέο 2 
 Έγινε εγκατάσταση Arch Linux (Dual boot 50~GB partition)
 neofetch, journalctl -b 
 
