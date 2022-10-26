@@ -15,6 +15,6 @@
 Έγινε εγκατάσταση Arch Linux (Dual boot 50~GB partition)
 neofetch, journalctl -b 
 
-[asciinema Link](https://asciinema.org/a/cgX9FmflHdDIyr8ErN285IiOO)
+[Αsciinema Link](https://asciinema.org/a/cgX9FmflHdDIyr8ErN285IiOO)
 
 [Discussions Link](https://github.com/courses-ionio/help/discussions/1292)
