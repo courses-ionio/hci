@@ -29,6 +29,4 @@
 ### asciinema bootlog
 [![asciicast](https://asciinema.org/a/528071.png)](https://asciinema.org/a/528071)
 ## Συμμετοχικό περιεχόμενο A1
-[site](https://invicta-team-project.netlify.app/)  
-[virtuality](https://invicta-team-project.netlify.app/gallery/virtuality-1000cs/)  
-[CAM](https://invicta-team-project.netlify.app/gallery/computer-aided-manufacturing/)  
+Για την τρίτη εβδομάδα κληθήκαμε να σετάρουμε το [site](https://invicta-team-project.netlify.app/) της ομάδας και να κάνουμε τις δικές μας προσθήκες σε αυτό. Ως συντονιστής της ομάδας χρησιμοποίησα το netlify βάση των οδηγιών προκειμένου να κάνω deploy το site της ομάδας. Στη συνέχεια έκανα config και deploy το προσωπικό μου site προκειμένου να δω της προσθήκες και να βεβαιωθώ πως λειτουργούν σωστά πριν της ενσωματώσω στο site της ομάδας. Η προσθήκες που έκανα στο site είναι το [virtuality 1000cs](https://invicta-team-project.netlify.app/gallery/virtuality-1000cs/) και το [CAM](https://invicta-team-project.netlify.app/gallery/computer-aided-manufacturing/) τις οποίες εφόσον τις δοκίμασα στο προαναφερθέν δικό μου deployment τις ενσωμάτωσα στο site της ομάδας. Μια άλλη αρμοδιότητα ως συντονιστής της ομάδας ήταν ο έλεγχος και η ενσωμάτωση των pull-request από τις προσθήκες των υπολοίπων μελών στο site.
