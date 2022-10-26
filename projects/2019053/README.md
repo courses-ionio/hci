@@ -97,17 +97,30 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Τα βήματα που ακολούθησα για αυτό το παραδοτέο δεν ήταν ιδιαίτερα δύσκολα ούτε απαιτητικά, αφού τη διαδικασία την έχω ξαναεπαναλάβει στο μάθημα Τεχνολογία Λογισμικού στο προηγούμενο εξάμηνο. Αρχικά το πρώτο πράγμα που έκανα ήταν [μία ανάρτηση](https://github.com/courses-ionio/help/discussions/1156) σχετικά με το αν χρειάζεται να διαγράψω το παλιό μου fork από τον προηγούμενο οργανισμό που άνηκα και να κάνω καινούργιο, όπου το ερώτημά μου απαντήθηκε και μου προτάθηκε να κάνω νέο fork από τον νέο οργανισμό. Αφού έκανα νέο fork πήγα στο fork της ομάδας και σύνδεσα όλα τα submodules σε ένα νέο branch το **Team_branch_1** για την ευκολότερη υλοποίηση του παραδοτέου τόσο από εμένα όσο και από τους συμφοιτητές μου. Έπειτα γύρισα πίσω στο δικό μου repo και με τη βοήθεια [αυτού](https://github.com/Second-Time-Is-The-Charm/Main/discussions/2) του guide έκανα το git clone και πρόσθεσα τα submodules. Το μόνο πρόβλημα που αντιμετώπισα ήταν στο build του netlify επειδή τα submodules extras και text δεν ήταν στον φάκελο includes το οποίο λύθηκε με τη βοήθεια [αυτής](https://stackoverflow.com/questions/4604486/how-do-i-move-an-existing-git-submodule-within-a-git-repository) της ανάρτησης. Αξίζει να σημειωθεί επίσης πως έκανα έναν [αναλυτικό οδηγό](https://github.com/TEAM11234/help/discussions/1) για τη βοήθεια των μελών της ομάδας μου.
+&nbsp;&nbsp;&nbsp;&nbsp;Τα βήματα που ακολούθησα για αυτό το παραδοτέο δεν ήταν ιδιαίτερα δύσκολα ούτε απαιτητικά, αφού τη διαδικασία την έχω ξαναεπαναλάβει στο μάθημα Τεχνολογίας Λογισμικού στο προηγούμενο εξάμηνο. Αρχικά το πρώτο πράγμα που έκανα ήταν [μία ανάρτηση](https://github.com/courses-ionio/help/discussions/1156) σχετικά με το αν χρειάζεται να διαγράψω το παλιό μου fork από τον προηγούμενο οργανισμό που άνηκα και να κάνω καινούργιο, όπου το ερώτημά μου απαντήθηκε και μου προτάθηκε να κάνω νέο fork από τον νέο οργανισμό. Αφού έκανα νέο fork πήγα στο fork της ομάδας και σύνδεσα όλα τα submodules σε ένα νέο branch το **Team_branch_1** για την ευκολότερη υλοποίηση του παραδοτέου τόσο από εμένα όσο και από τους συμφοιτητές μου. Έπειτα γύρισα πίσω στο δικό μου repo και με τη βοήθεια [αυτού](https://github.com/Second-Time-Is-The-Charm/Main/discussions/2) του guide έκανα το git clone και πρόσθεσα τα submodules. Το μόνο πρόβλημα που αντιμετώπισα ήταν στο build του netlify επειδή τα submodules extras και text δεν ήταν στον φάκελο includes το οποίο λύθηκε με τη βοήθεια [αυτής](https://stackoverflow.com/questions/4604486/how-do-i-move-an-existing-git-submodule-within-a-git-repository) της ανάρτησης. Αξίζει να σημειωθεί επίσης πως έκανα έναν [αναλυτικό οδηγό](https://github.com/TEAM11234/help/discussions/1) για τη βοήθεια των μελών της ομάδας μου.
 
 <br />
 
-### Επιλογή θεμάτων
+### Επιλογή Θεμάτων
 
 <br />
 
+&nbsp;&nbsp;&nbsp;&nbsp;Για πρώτο θέμα επέλεξα να ασχοληθώ με ένα περιβάλλον εργασίας και συγκεκριμένα το [KDE](https://aimiliospavlidis2001-site-hci-1.netlify.app/gallery/kde/), αφού είναι η γραφική διεπαφή που χρησιμοποιώ για τα Arch Linux μου. Είναι η πρώτη φορά που εγκαθιστώ το συγκεκριμένο GUI και θεώρησα πως είναι ευκαιρία να γράψω για αυτό. Το δεύτερο θέμα που επέλεξα ήταν το [Atom](https://aimiliospavlidis2001-site-hci-1.netlify.app/gallery/atom/) ένα πολύ γνωστό πρόγραμμα επεξεργασίας κειμένου το οποίο αναπτύχθηκε από το Github.
 
+<br />
 
+Στο παρακάτω **asciinema** αναπαρίσταται ο τρόπος με τον οποίο ενσωμάτωσα τα images και gallery
 
+[![asciicast](https://asciinema.org/a/l7nLbRvjfMD43wkkfqB00YtpA.svg)](https://asciinema.org/a/l7nLbRvjfMD43wkkfqB00YtpA)
+
+<br />
+
+| Netlify Links | Pull Requests | Asciinema Recording |
+| --- | --- | --- |
+| [Netlify KDE](https://aimiliospavlidis2001-site-hci-1.netlify.app/gallery/kde/) | [Pull Request για images](https://github.com/TEAM11234/images/pull/1) | [Asciinema Recording](https://asciinema.org/a/l7nLbRvjfMD43wkkfqB00YtpA) |
+| [Netlify Atom](https://aimiliospavlidis2001-site-hci-1.netlify.app/gallery/atom/) | [Pull Request για gallery](https://github.com/TEAM11234/_gallery/pull/1) | |
+
+<br /><br />
 
 
 ---
@@ -116,9 +129,9 @@
 
 <br />
 
-| Παροχή βοήθειας Discussions |
-| --- |
-| [Βοήθεια συμφοιτητή 1](https://github.com/courses-ionio/help/discussions/1069) |
+| Παροχή βοήθειας Discussions | Δικές μου αναρτήσεις Discussions | Discussions Ομάδας |
+| --- | --- | --- |
+| [Βοήθεια συμφοιτητή 1](https://github.com/courses-ionio/help/discussions/1069) | [Ερώτηση για νέο fork (3ο παραδοτέο)](https://github.com/courses-ionio/help/discussions/1156) | [Ανάρτηση αναλυτικού guide (3ο παραδοτέο)](https://github.com/TEAM11234/help/discussions/1) |
 
 
 <br /> <br />
@@ -138,3 +151,6 @@
  - [Βοήθεια wiki για netctl example profiles](https://wiki.archlinux.org/title/netctl#Example_profiles)
  - [Εγκατάσταση KDE GUI](https://www.youtube.com/watch?v=Csc8Y5_YLRE)
  - [Προσθήκη νέου user](https://www.youtube.com/watch?v=BV6oqXnh3S0)
+#### Τρίτο Παραδοτέο
+ - [Git clone & submodules guide](https://github.com/Second-Time-Is-The-Charm/Main/discussions/2)
+ - [Move git submodule](https://stackoverflow.com/questions/4604486/how-do-i-move-an-existing-git-submodule-within-a-git-repository)
