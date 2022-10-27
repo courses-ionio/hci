@@ -52,7 +52,8 @@
 Τα αντίστοιχα Pull Request για το [_gallery](https://github.com/Oroseira/_gallery/pull/4/files) και το [images](https://github.com/Oroseira/images/pull/4)
 
 
-# Άσκηση γραμμής εντολών
+# Άσκηση γραμμής εντολών (warmup)
+
 
 
 # Συμμετοχικό περιεχόμενο A2
