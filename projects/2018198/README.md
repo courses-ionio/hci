@@ -12,7 +12,7 @@
 | 1 | Εισαγωγή | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1008) | Εξοικιίωση με το Github και εκμάθηση τον Linux|
 | 2 | Άσκηση γραμμής εντολών (linux install) | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1140) | εγκατάσταση arch linux και εφαρμογή του neofetch |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Σύνδεσμος]() | άσκηση check the weather και fetch information από το warm up |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -35,4 +35,10 @@
 
 Στο παραδοτέο 2 καλούμαστε να εγκαταστήσουμε μια έκδοση Linux και συγκεκριμένα το Arch Linux και να εμφανίσουμε το αντίστοιχο system info. Αυτό το πετύχαμε με την εντολή "neofetch", όπως φαίνεται παρακάτω:
 
-[Asciinema](https://asciinema.org/a/386477)
+[Asciinema](https://asciinema.org/a/386477) 
+
+## Εβδομάδα Τέταρτη -Άσκηση γραμμής εντολών
+
+Στο παραφοτέο 4 καλούμαστε να εφαρμοσουμε την άσκηση check the weather και fetch information από το warm up
+
+[Asciinema](https://asciinema.org/a/386481) 
