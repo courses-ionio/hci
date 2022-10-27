@@ -18,3 +18,19 @@ neofetch, journalctl -b
 [Αsciinema Link](https://asciinema.org/a/cgX9FmflHdDIyr8ErN285IiOO)
 
 [Discussions Link](https://github.com/courses-ionio/help/discussions/1292)
+
+## Παραδοτέο 4
+Έγιναν τα παρακάτω χρησιμοποιώντας το terminal:
+- Καιρός μέσω τερματικού
+
+```curl wttr.in/Greece ```
+- Κατέβασμα mp4 αρχείου με το youtube-dl
+
+```youtube-dl -f mp4 https://youtube.com/watchv?=YourLink``` 
+- Green prompt Ansi code
+
+``` export PS1='printf "\033[32m$ \033[39m"' ```
+
+[Asciinema Link](https://asciinema.org/a/TDYmuKCnxazji8NbYzdGXV18P)
+
+[Discussions Link]()
