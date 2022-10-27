@@ -27,7 +27,7 @@ neofetch, journalctl -b
 - Κατέβασμα mp4 αρχείου με το youtube-dl
 
 ```youtube-dl -f mp4 https://youtube.com/watchv?=YourLink``` 
-- Green prompt Ansi code
+- Green prompt 
 
 ``` export PS1='printf "\033[32m$ \033[39m"' ```
 
