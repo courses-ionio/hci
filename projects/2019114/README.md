@@ -16,8 +16,8 @@
 | 1 |  [Εισαγωγή](#Εισαγωγή) | [Link Discussions](https://github.com/courses-ionio/help/discussions/930) | Εμπρόθεσμο παραδοτέο/ fork αποθετηρίου του μαθήματος/ αρχική εισαγωγή με προσδοκίες και στόχους / Δημιουργία ομάδας 10/10 |
 | 2 | [Εγκατάσταση ArchLinux](#Εγκατάσταση-ArchLinux) |[Link Discussions](https://github.com/courses-ionio/help/discussions/1001) |Εμπρόθεσμο παραδοτέο/ εγκατάσταση ArchLinux 10/10 |
 | 3 | [Συμμετοχικό περιεχόμενο A1](#Συμμετοχικό-περιεχόμενο-A1) |[Link Discussions](https://github.com/courses-ionio/help/discussions/1198) |Εμπρόθεσμο παραδοτέο/εισαγωγή 4 εικόνων/ δημιουργία λεζάντας/  δημιουργία demo site/  pull request προς την forked ιστοσελίδα του οργανισμού 8/10|
-| 4 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |[Link Discussions]() | |
-| 5 | [Συμμετοχικό περιεχόμενο A2](#Συμμετοχικό-περιεχόμενο-A2) |[Link Discussions]() |Εμπρόθεσμο παραδοτέο/ εισαγωγή των Wii U και Οculus Rift σε slides και timeline pull request προς την forked ιστοσελίδα του οργανισμού 10/10 |
+| 4 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |[Link Discussions](https://github.com/courses-ionio/help/discussions/1308) | Εμπρόθεσμο παραδοτέο/ υλοποίηση warmup άσκησης 10/10 |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#Συμμετοχικό-περιεχόμενο-A2) |[Link Discussions]() |Εμπρόθεσμο παραδοτέο/ εισαγωγή των Wii U και Οculus Rift σε slides και timeline pull request προς την forked ιστοσελίδα του οργανισμού 9/10 |
 | 6 | [Κατασκευή του βιβλίου Α](#Κατασκευή-του-βιβλίου-Α) |[Link Discussions]() | |
 | 7 | [Συμμετοχικό περιεχόμενο Β1](#Συμμετοχικό-περιεχόμενο-Β1) |[Link Discussions]() | |
 | 8 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |[Link Discussions]() | |
@@ -53,6 +53,13 @@
 
 
 # Άσκηση γραμμής εντολών (warmup)
+Για το 4ο παραδοτέο αποφάσισα να υλοποιήσω το check the weather απο τις ασκήσεις warmup όπου χρησιμοποίησα τις εντολές curl και wttr.in για να τσεκάρω τον καιρό που θα έχει στην Κέρκυρα. 
+
+
+<a href="https://asciinema.org/a/532427" target="_blank"><img src="https://asciinema.org/a/532427.svg" /></a>
+
+
+
 
 
 
