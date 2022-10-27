@@ -11,7 +11,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Εισαγωγή](https://github.com/courses-ionio/help/discussions/837) <br> [Ομάδα](https://github.com/Second-Time-is-the-Charm) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Arch Linux logs](https://github.com/courses-ionio/help/discussions/1033) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | [Link](https://github.com/courses-ionio/help/discussions/1161) | |
-| 4 | Άσκηση γραμμής εντολών | warm up cli | |
+| 4 | Άσκηση γραμμής εντολών | [warm up cli](https://github.com/courses-ionio/help/discussions/1302) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -32,3 +32,11 @@
 # [Παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1161)
 Για την τρίτη εβδομάδα έπρεπε να ολοκληρώσουμε το πρώτο παραδοτέο για την [ιστοσελίδα του βιβλίου του μαθήματος](https://p19lith-pibook.netlify.app/). Πιο συγκεκριμένα έπρεπε να κάνουμε δύο δικές μας προσθήκες, σχετικές με το αντικείκενο του HCI, αντλόντας πληροφορίες από την [εξής](http://toastytech.com/guis/index.html) ιστοσελίδα. Οι δικές μου προσθήκες ήταν το [Microsoft mouse](https://p19lith-pibook.netlify.app/gallery/microsoft-mouse/) και το γραφικό περιβάλλον [HP NewWave](https://p19lith-pibook.netlify.app/gallery/hp-newwave/)
 
+# [Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1302)
+Για το τέταρτο παραδοτέο επέλεξα από τις ασκήσεις του warmup τα [wttr](https://github.com/chubin/wttr.in) και youtube-dl/mpv.
+
+Με το wttr έδειξα τον καιρό στην Κέρκυρα και την Αθήνα.
+[![asciicast](https://asciinema.org/a/532480.svg)](https://asciinema.org/a/532480)
+
+Με τα  youtube-dl κατέβασα ένα μουσικό κομμάτι και στη συνέχεια με το mpv έκανα αναπαραγωγή του συγκεκριμένου κομματιού μέσω του τερματικού
+[![asciicast](https://asciinema.org/a/532477.svg)](https://asciinema.org/a/532477)
