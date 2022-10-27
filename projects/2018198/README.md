@@ -12,7 +12,7 @@
 | 1 | Εισαγωγή | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1008) | Εξοικιίωση με το Github και εκμάθηση τον Linux|
 | 2 | Άσκηση γραμμής εντολών (linux install) | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1140) | εγκατάσταση arch linux και εφαρμογή του neofetch |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Σύνδεσμος]() | άσκηση check the weather και fetch information από το warm up |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1300) | άσκηση check the weather από το warm up |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -39,6 +39,6 @@
 
 ## Εβδομάδα Τέταρτη -Άσκηση γραμμής εντολών
 
-Στο παραφοτέο 4 καλούμαστε να εφαρμοσουμε την άσκηση check the weather και fetch information από το warm up
+Στο παραφοτέο 4 καλούμαστε να εφαρμοσουμε την άσκηση check the weather από το warm up
 
 [Asciinema](https://asciinema.org/a/386481) 
