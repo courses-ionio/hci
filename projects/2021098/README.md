@@ -108,3 +108,5 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
   * Φωτογραφία του [`ODROID-C4`](https://github.com/Terminal-Killers/images/blob/master/odroid_c4.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/Terminal-Killers/images/blob/master/odroid_c4-thumb.jpg)
 
 # Παραδοτέο 4o: Warming Up with CLI Commands
+
+Για το τέταρτο (4ο) παραδοτέο της αναφοράς μου, επέλεξα να κάνω την ψυχαγωγικής μορφής άσκηση γραμμής εντολών download mp3 της ενότητας [HCI](https://github.com/epidrome/dokey#warmup). Τα παραδοτέα της άσκησης αυτής, ζητούσαν την αναζήτηση, την λήψη και την αναπαραγωγή του αγαπημένου μας τραγουδιού, χρησιμοποιώντας εργαλεία της γραμμής εντολών. Επέλεξα την συγκεκριμένη άσκηση προκειμένου να γίνει χρήση του τερματικού εντολών και όχι ο απλός και αυτοματοποιημένος τρόπος που προσφέρουν <ins>έτοιμα προγράμματα ή αντίστοιχα plugin</ins> (βλέπε: [`flashgot`](https://flashgot.net/), [`YTD Video Converter`](http://www.ytddownloader.com/) κα.) για τους browser μας.
