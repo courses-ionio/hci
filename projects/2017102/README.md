@@ -59,5 +59,6 @@ Journalctl -b link: https://asciinema.org/a/JzeJYSj0JrTgTADi20Ea3QAwk
  
 
 ## Ομαδικότητα και συνεργασία
-https://github.com/courses-ionio/help/discussions/840#discussioncomment-3822226
-https://github.com/courses-ionio/help/discussions/1303#discussioncomment-3984194
+- https://github.com/courses-ionio/help/discussions/840#discussioncomment-3822226
+- https://github.com/courses-ionio/help/discussions/1303#discussioncomment-3984194
+
