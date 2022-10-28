@@ -59,4 +59,3 @@
 - [Pull Request στον οργανισμό της ομάδας](https://github.com/The4Beasts/_gallery/pull/2)
 - [Οργανισμός ομάδας](https://github.com/The4Beasts)
 
-# Token: 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
