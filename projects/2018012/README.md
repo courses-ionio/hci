@@ -43,3 +43,14 @@
 Παρακάτω παρουσιάζω τις προσθήκες μου στην ιστοσελίδα του μαθήματος.                                                         
 [Λινκ για τα windows 2000](https://invicta-team-project.netlify.app/gallery/windows2000/?fbclid=IwAR21nAZ0z5TGrG01HGQd6KZMi4K39fSPNmHjRgy0Au-3hfy15K4cz7iwXqw)      
 [Λινκ για το Rhapsody](https://invicta-team-project.netlify.app/gallery/rhapsody/?fbclid=IwAR2OyJ0U6biAgMvWZFGMzm9AF_xbRyOL0HhhqeJedcXKcqWOgbFz1BmFB4E)
+
+# Άσκηση γραμμής εντολών (warm up cli)
+ΣΤο τέταρτο παραδοτέο ασχολήθηκα με την επίλυση δύο ασκήσεων από το warm up. Η μια από τις δύο ασκήσεις αφορούσε την πρόγνωση του καιρού ενώ η άλλη άσκηση εκτύπωνε δεδομένα σχετικά με τον κορονοιό και τα κρούσματα της πανδημίας. Οι εντολές που χρησιμοποίησα παρουσιάζονται αναλυτικά παρακάτω μέσω του asciinema.
+
+[check the weather](https://github.com/chubin/wttr.in):
+
+<a href="https://asciinema.org/a/e59zjFMIoWl39gBT0udJo6VUy" target="_blank"><img src="https://asciinema.org/a/e59zjFMIoWl39gBT0udJo6VUy.svg" /></a>
+
+[fetch information](https://github.com/chubin/awesome-console-services):
+
+<a href="https://asciinema.org/a/PSkj8rLP6ujJR5XzNgHUemYy8" target="_blank"><img src="https://asciinema.org/a/PSkj8rLP6ujJR5XzNgHUemYy8.svg" /></a>
