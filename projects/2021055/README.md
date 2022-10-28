@@ -10,7 +10,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |https://github.com/courses-ionio/help/discussions/883 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου.
 | 2 | Άσκηση γραμμής εντολών (linux install) |https://github.com/courses-ionio/help/discussions/1064 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου. |
-| 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1221 | Μερική ολοκλήρωση των ζητουμένων |
+| 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1221 | Επιτυχής ολοκλήρωση των ζητουμένων |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -33,15 +33,15 @@
 
 
 # ΤΡΟΠΟΣ ΕΓΚΑΤΑΣΤΑΣΗΣ ΒΗΜΑ-ΒΗΜΑ
-Αρχικά, για την εγκατάσταση, έπρεπε να δημιουργήσω 2 partitions στο usb-stick μου, για να τα χωρίσω χρησιμοποίησα το gdisk, στην συνεχεία έγιναν mount και εγκασταθηκε το πρώτο μεγάλο πακέτο(pacstrap /mnt base base-devel linux-linux firmware vim}. Έπειτα έγινε η εγκατάσταση του grub, με την εντολή grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB --removeble --recheck/ και για με την εντολή  grub-mkconfig -o /boot/grub/grub.cfg το configuration του. Μετά από αυτό εγκατασταθήκαν οι network drivers με μια σειρά από εντολές όπως: pacman -S networkmanager grub,systemctl enable NetworkManager, κ.α. Επιπροσθέτος, εκτέλεσα την εντολή passwd δημιουργία κωδικού,την δημιουργία hostname(vim /etc/hostname) και άλλες παρεμφερής εντολές. Μετά το τέλος της εγκατάστασης, εγκατέστησα το [neofetch](https://asciinema.org/a/528720), έτρεξα το [journalistctl](https://asciinema.org/a/528720) και άλλαξα το όνομα μου με το [PS1](https://asciinema.org/a/529135).
+Αρχικά, για την εγκατάσταση, έπρεπε να δημιουργήσω 2 partitions στο usb-stick μου, για να τα χωρίσω χρησιμοποίησα το gdisk, στην συνεχεία έγιναν mount και εγκασταθηκε το πρώτο μεγάλο πακέτο(pacstrap /mnt base base-devel linux-linux firmware vim}. Έπειτα έγινε η εγκατάσταση του grub, με την εντολή grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB --removeble --recheck/ και για με την εντολή  grub-mkconfig -o /boot/grub/grub.cfg το configuration του. Μετά από αυτό εγκατασταθήκαν οι network drivers με μια σειρά από εντολές όπως: pacman -S networkmanager grub,systemctl enable NetworkManager, κ.α. Επιπροσθέτος, εκτέλεσα την εντολή passwd δημιουργία κωδικού,την δημιουργία hostname(vim /etc/hostname) και άλλες παρεμφερής εντολές. Μετά το τέλος της εγκατάστασης, εγκατέστησα το [neofetch](https://asciinema.org/a/528720) και έτρεξα το [journalistctl](https://asciinema.org/a/528720).
 
-# ΠΑΡΑΔΟΤΕΟ 3
-Υποχρεώσεις ως Admin:
-Site: https://omada12.netlify.app
-Submodules :https://github.com/orgs/OMADA12/repositories
+# 3ο ΠΑΡΑΔΟΤΕΟ 
+Σε αυτό το παραδοτέο απαιτείται η συμμετοχή όλων μας τόσο ατομικά οσο και ομαδικά με τον εμπλουτισμό περιεχομένου στο ήδη υπάρχον [site](https://pibook.epidro.me). Ως adimin της ομάδας δημιόργησα το [site](https://app.netlify.com/sites/hobistes/settings/general) και πρόσθεσα τα απαραίτητα [modules](https://github.com/orgs/OMADA12/repositories) στο reposiroty της ομάδας μου.
+
+Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://app.netlify.com/sites/axileaszervos/overview) και πρόσθεαα 4 φωτογραφίες και 2 md files για τα θέματα που πρόσθεσα στο site. Ακόμη, εκάνα pull request τα [md files](https://github.com/pibook/_gallery/commit/0e3a506e1749cd2965e6050fb2896959b2ef8d3a) και τις [εικόνες](https://github.com/pibook/images/commit/f44594e7099143866bfeaa9c5b5220f08190faaf).
+
+
  
-Προσωπικές υποχρεώσεις:
-pull request images : https://github.com/OMADA12/images/pull/1
-pull request md files : loading
+
 
 
