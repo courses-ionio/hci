@@ -10,7 +10,7 @@
 | 1 |  Δημιουργία ομάδας + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Παραδοτέο 1ο](https://github.com/courses-ionio/help/discussions/839)| Πραγματοποίησα το 1ο παραδοτέο και δημιούργησα τη σελίδα της τελικής αναφοράς. Ανέφερα στην εισαγωγή τους αρχικούς μου στόχους ως προς το μάθημα, καθώς και την ιδέα για το προσωπικό μου έργο. Βέβαια δεν το έχω εμπλουτίσει με γνώσεις και εντυπώσεις από τα κουίζ βίντεο, λόγω του ότι είναι ακόμη αρχή. |
 | 2 | Άσκηση γραμμής εντολών | [Παραδοτέο 2ο](https://github.com/courses-ionio/help/discussions/998) | Πραγματοποίησα το 2ο παραδοτέο εγκαθιστώντας το λογισμικό Arch Linux σε vm και για τις ανάγκες του system info (που απαιτείται από τις οδηγίες) εκτέλεσα την εντολή neofetch σε terminal.  |
 | 3 | Συμμετοχικό περιεχόμενο A1 | [Παραδοτέο 3ο](https://github.com/courses-ionio/help/discussions/1312)| Πραγματοποίησα το 3ο παραδοτέο προσθέτωντας νέες εικόνες και πληροφορίες στην ιστοσελίδα του βιβλίου του μαθήματος.|
-| 4 | Άσκηση γραμμής εντολών | | |
+| 4 | Άσκηση γραμμής εντολών | [Παραδοτέο 4o](https://github.com/courses-ionio/help/discussions/1319) | Πραγματοποίησα το 4ο παραδοτέο εκτελώντας δύο ασκήσεις warmup από τη λίστα και έκανα το εβδομαδιαίο βίντεο κουίζ. |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -57,5 +57,14 @@
 
 
 - [Pull Request στον οργανισμό της ομάδας - gallery](https://github.com/The4Beasts/_gallery/pull/3)
-- [Pull Request στον οργανισμό της ομάδας - images](https://github.com/The4Beasts/image/pull/3)
+- [Pull Request στον οργανισμό της ομάδας - images](https://github.com/The4Beasts/images/pull/1)
 - [Οργανισμός ομάδας](https://github.com/The4Beasts)
+
+
+# Παραδοτέο 4: Άσκηση γραμμής εντολών (arch linux install on HW)
+<p>Στο συγκεκριμένο παραδοτέο, καλούμαστε να εκτελέσουμε όποιες και όσες ασκήσεις θέλουμε από το warmup. Μια από αυτές που επέλεξα είναι η εξής:</p>
+  
+- try different operating systems in the emulator: 
+<p>Σε αυτή την άσκηση εγκατέστησα το qemu το οποίο είναι ένας emulator στον οποίο έχω ενσωματώσει τρία διαφορετικά λειτουργικά συστήματα (archlinux/freeBSD/Kali linux) όπως φαίνεται παρακάτω:</p>
+
+![QEMU](https://user-images.githubusercontent.com/99913413/198693305-d58f76fc-892f-4d0b-9550-92264b54a547.png)
