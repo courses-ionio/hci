@@ -56,5 +56,6 @@
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
 
-- [Pull Request στον οργανισμό της ομάδας](https://github.com/The4Beasts/_gallery/pull/2)
+- [Pull Request στον οργανισμό της ομάδας - gallery](https://github.com/The4Beasts/_gallery/pull/3)
+- [Pull Request στον οργανισμό της ομάδας - images](https://github.com/The4Beasts/image/pull/3)
 - [Οργανισμός ομάδας](https://github.com/The4Beasts)
