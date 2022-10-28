@@ -2,7 +2,7 @@
 
 ΑΜ: 2021055
 
-ΟΜΑΔΑ: [obistes](https://github.com/organizations/OMADA12/settings/profile)
+ΟΜΑΔΑ: [Hobistes](https://github.com/organizations/OMADA12/settings/profile)
 
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
