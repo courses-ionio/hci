@@ -46,5 +46,6 @@
 - [My site](https://strong-scone-6a0cf5.netlify.app)
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
-- [Pull Request προς τον οργανισμό της ομάδας](https://github.com/The4Beasts/_gallery/pull/1)
+- [Pull Request προς τον οργανισμό της ομάδας - gallery](https://github.com/The4Beasts/_gallery/pull/1)
+- [Pull Request προς τον οργανισμό της ομάδας - images](https://github.com/The4Beasts/images/pull/2)
 - [Οργανισμός ομάδας](https://github.com/The4Beasts)
