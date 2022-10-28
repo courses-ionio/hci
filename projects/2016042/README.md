@@ -30,3 +30,13 @@
 ## Asciinema
 - [neofetch](https://asciinema.org/a/ZnX4G9LX5cYdDzwhN87vxwFiO)
 - [journalctl -b](https://asciinema.org/a/Eex0OtieUvIEmf4YdR9BXXKhP)
+
+# ΠΑΡΑΔΟΤΕΟ 4
+## Warm-up terminal
+
+Γι αυτο το παραδοτέο, αποφάσισα να εγκαταστήσω το epr, το οποίο είναι ένα terminal application το οποίο μου επιτρέπει να διαβάζω ebooks(epub files) απο το Alacritty.Επιπλεόν, εγκατέστησα το wttr.in με το παρακολουθώ τον καιρό σε όλο τον κόσμο.Παιρνόντας σαν παράμετρο τον κωδικό αεροδρομίου της κέρκυρας το εργαλέιο αυτό, μας παρουσίασε ένα δελτίου καιρού με ascii art για την κέρκυρα.Δεν αντιμετώπισα κάποιο πρόβλημα με την εγκατάσταση επειδή χρησιμοποίησα το yay και το AUR.
+
+## Asciinema
+ - [![EPR EBOOK READER](https://asciinema.org/a/cL8PwXbKk8hS0mWHjcFnCB56s.svg)](https://asciinema.org/a/cL8PwXbKk8hS0mWHjcFnCB56s)
+ - [![WTTR WEATHER REPORT](https://asciinema.org/a/fcbgmxjcNLGk60EFvVvlgivCM.svg)](https://asciinema.org/a/fcbgmxjcNLGk60EFvVvlgivCM)
+
