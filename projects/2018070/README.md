@@ -52,8 +52,14 @@
 
 # Παραδοτέο 4: Άσκηση γραμμής εντολών (arch linux install on HW)
 <p>Στο συγκεκριμένο παραδοτέο, καλούμαστε να εκτελέσουμε όποιες και όσες ασκήσεις θέλουμε από το warmup. Αυτές που επέλεξα είναι οι εξής:</p>
-  
+<p>Η πρώτη άσκηση:</p>
 - try different operating systems in the emulator:
+<p>Σε αυτή την άσκηση εγκατέστησα το qemu το οποίο είναι ένας emulator στον οποίο έχω ενσωματώσει τρία διαφορετικά λειτουργικά συστήματα (archlinux/freeBSD/Kali linux) όπως φαίνεται παρακάτω:</p>
+
+![QEMU](https://user-images.githubusercontent.com/99913413/198693305-d58f76fc-892f-4d0b-9550-92264b54a547.png)
+
+<p>Η δεύτερη άσκηση</p>
+
 - [set-up continuous integration on my cv](https://github.com/Konstantina3/online-cv/blob/master/index.pdf)
  
 Εφάρμοσα [continuous integration](https://github.com/Konstantina3/online-cv/tree/master/.github/workflows), ώστε να δημιουργείται νέο pdf κάθε φορά που γίνονται αλλαγές στο [online-cv](https://konstantina3.github.io/online-cv/). Η ιδέα προήλθε από μια αντίστοιχη άσκηση στο μάθημα SW, όπου είχα δημιουργήσει το δικό μου βιογραφικό σε pdf όπως φαίνεται στη διαδικασία παρακάτω:
