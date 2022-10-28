@@ -54,3 +54,5 @@
 [fetch information](https://github.com/chubin/awesome-console-services):
 
 <a href="https://asciinema.org/a/PSkj8rLP6ujJR5XzNgHUemYy8" target="_blank"><img src="https://asciinema.org/a/PSkj8rLP6ujJR5XzNgHUemYy8.svg" /></a>
+
+
