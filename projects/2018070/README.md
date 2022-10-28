@@ -56,7 +56,7 @@
 - try different operating systems in the emulator:
 - [set-up continuous integration on my cv](https://github.com/Konstantina3/online-cv/blob/master/index.pdf)
  
-<p>Εφάρμοσα [continuous integration](https://github.com/Konstantina3/online-cv/tree/master/.github/workflows) ώστε να δημιουργείται νέο pdf κάθε φορά που γίνονται αλλαγές στο [online-cv](https://konstantina3.github.io/online-cv/). Η ιδέα προήλθε από μια αντίστοιχη άσκηση στο μάθημα SW, όπου είχα δημιουργήσει το δικό μου βιογραφικό σε pdf όπως φαίνεται στη διαδικασία παρακάτω:</p> 
+Εφάρμοσα [continuous integration](https://github.com/Konstantina3/online-cv/tree/master/.github/workflows), ώστε να δημιουργείται νέο pdf κάθε φορά που γίνονται αλλαγές στο [online-cv](https://konstantina3.github.io/online-cv/). Η ιδέα προήλθε από μια αντίστοιχη άσκηση στο μάθημα SW, όπου είχα δημιουργήσει το δικό μου βιογραφικό σε pdf όπως φαίνεται στη διαδικασία παρακάτω:
 
 - [Asciinema Link](https://asciinema.org/a/UIrAImZBqwosvi2PErbG3gX5E)
 
