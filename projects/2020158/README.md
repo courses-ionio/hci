@@ -44,6 +44,28 @@ https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 
 Αρχικά, έκανα fork το repository `site` και τα submodules `_gallery`, `images`, `_quotes`, `extras`, `bibliography`, `questions`, `notes` και `styles` από το organizasion μου στο προφίλ μου. Προσπάθησα να κάνω την παρακάτω διαδικασία στο Arch Linux, αλλά αντιμετώπισα προβλήματα, οπότε κατέληξα στον τερματικό των Windows. Εγκατέστησα το Git και έκανα clone το αποθετήριο `site` στον υπολογιστή μου. Με τις εντολές `git rm` και `rm -R`, διέγραψα το περιεχόμενο του αρχείου `git.modules`. Έπειτα, πρόσθεσα τα submodules με την εντολή `git submodule add`. Τέλος, χρησιμοποίησα την εντολή `git push origin`.
 
-## Δημιουργία site με Netlify
+## Δημιουργία Site με Netlify
 
-Σύνδεσα τον λογαριασμό μου GitHub με το Netlify.
+Σύνδεσα τον λογαριασμό μου GitHub με το Netlify και σύνδεσα το αποθετήριο της ομάδας μου. Δυστυχώς μετά από πολλές προσπάθειες δεν καταφέραμε να κάνουμε deploy τις φωτογραφίες μας.
+
+## Η Συνεισφορά μου
+
+### Gallery
+
+[Rogue](https://github.com/Greek-Salata/_gallery/blob/master/rogue.md)
+
+[Guitar Hero World Tour](https://github.com/Greek-Salata/_gallery/blob/master/guitar-hero-world-tour.md)
+
+### Images
+
+[Rogue](https://github.com/Greek-Salata/images/blob/master/rogue.png)
+
+[Rogue Thumb](https://github.com/Greek-Salata/images/blob/master/rogue-thumb.png)
+
+[Guitar Hero World Tour](https://github.com/Greek-Salata/images/blob/master/guitar-hero-world-tour.jpg)
+
+[Guitar Hero World Tour Thumb](https://github.com/Greek-Salata/images/blob/master/guitar-hero-world-tour-thumb.jpg)
+
+
+
+
