@@ -9,7 +9,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Συζήτηση](https://github.com/courses-ionio/help/discussions/845), [link της ομάδας](https://github.com/Terminal-Killers) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας  |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1022)| Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1266) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1326) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
