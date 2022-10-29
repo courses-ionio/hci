@@ -7,7 +7,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/855) | |
 | 2 | [Άσκηση γραμμής εντολών (linux install)](#Arch-install) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1035) | |
 | 3 | [Συμμετοχικό περιεχόμενο A1](#Συμμετοχικό-περιεχόμενο-A1) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1188) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | [Άσκηση γραμμής εντολών (warm up cli)](#Άσκηση-γραμμής-εντολών-warm-up | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1327) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
