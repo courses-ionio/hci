@@ -19,7 +19,7 @@
 | 1 | Εισαγωγή| [Click](https://github.com/courses-ionio/help/discussions/904) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Click](https://github.com/courses-ionio/help/discussions/1052) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Click](https://github.com/courses-ionio/help/discussions/1190) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Click](https://github.com/courses-ionio/help/discussions/1331) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -57,3 +57,11 @@
 ### Pull requests
 [images](https://github.com/ContattoContare/images/pull/2) 
 [_gallery](https://github.com/ContattoContare/_gallery/pull/2)
+
+## Εβδομάδα Τρίτη - Άσκηση γραμμής εντολών (warm up cli)
+Σε αυτό το παραδοτέο εκτέλεσα την εντολή [curl wttr.in](https://asciinema.org/a/24zTE4CxYSo1nPwinrShCq0gt)
+
+[αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
+
+### Weather
+[![asciicast](https://asciinema.org/a/24zTE4CxYSo1nPwinrShCq0gt.svg)](https://asciinema.org/a/24zTE4CxYSo1nPwinrShCq0gt)
