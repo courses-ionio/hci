@@ -11,7 +11,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |https://github.com/courses-ionio/help/discussions/883 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου.
 | 2 | Άσκηση γραμμής εντολών (linux install) |https://github.com/courses-ionio/help/discussions/1064 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου. |
 | 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1221 | Επιτυχής ολοκλήρωση των ζητουμένων |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |https://github.com/courses-ionio/help/discussions/1334 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου. |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -40,6 +40,16 @@
 
 Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://app.netlify.com/sites/axileaszervos/overview) και πρόσθεαα 4 φωτογραφίες και 2 md files για τα θέματα που πρόσθεσα στο site. Ακόμη, εκάνα pull request τα [md files](https://github.com/pibook/_gallery/commit/0e3a506e1749cd2965e6050fb2896959b2ef8d3a) και τις [εικόνες](https://github.com/pibook/images/commit/f44594e7099143866bfeaa9c5b5220f08190faaf).
 
+# ΕΙΚΟΝΕΣ
+
+
+# 4ο ΠΑΡΑΔΟΤΕΟ
+
+Σε αυτό το παραδοτέο είχαμε να εξασκηθούμε με διάφορα warm-ups.
+Εγω εκτέλεσα τα:
+i) check weather in termina
+ii)play music in terminal
+iii) neofetch, dot files, ps1
 
  
 
