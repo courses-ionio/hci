@@ -50,6 +50,8 @@ https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 
 ## Η Συνεισφορά μου
 
+Παρακάτω ακολουθούν τα links της συνεισφοράς μου στο αποθετήριο της ομάδας μου έπειτα από τα pull requests.
+
 ### Gallery
 
 [Rogue](https://github.com/Greek-Salata/_gallery/blob/master/rogue.md)
