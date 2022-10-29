@@ -46,7 +46,7 @@ https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 
 ## Δημιουργία Site με Netlify
 
-Σύνδεσα τον λογαριασμό μου GitHub με το Netlify και σύνδεσα το αποθετήριο της ομάδας μου. Καταφέραμε να κάνουμε deploy την σελίδα στο παρακάτω link https://greek-salata.netlify.app/ αλλά όχι τις φωτογραφίες μας.
+Σύνδεσα τον λογαριασμό μου GitHub με το Netlify και σύνδεσα το αποθετήριο της ομάδας μου. Ως ομάδα καταφέραμε να κάνουμε deploy την σελίδα στο παρακάτω link https://greek-salata.netlify.app/, αλλά όχι τις φωτογραφίες μας.
 
 ## Η Συνεισφορά μου
 
