@@ -11,7 +11,7 @@ https://github.com/olumpiaalexopoulou/site
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [My link](https://github.com/courses-ionio/help/discussions/974) | |
 | 2 | Άσκηση γραμμής εντολών(linux install) | [My link](https://github.com/courses-ionio/help/discussions/1175) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | [My link](https://github.com/courses-ionio/help/discussions/1332) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -45,7 +45,7 @@ Links Asciinema:
  
  
  
-# <h2>Άσκηση γραμμής εντολών (warm up cli)</h2>
+# <h2>Άσκηση γραμμής εντολών (warm up)</h2>
 
  Σε αυτό το παραδοτέο προσπάθησα να εξασκηθώ στο καινούργιο λειτουργικό σύστημα.Σε αυτό το λειτουργικό δεν είχα ξανά χρειαστεί να ασχοληθώ αλλά όσο περνάνε τα παραδοτέα μαθαίνω και περισσότερα πράγματα.Ετσί αποφάσισα να χρησιμοποιήσω το curl, το οποίο χρειάστηκε να το εγκαταστήσω, και το wttr.in ,το οποίο για κάποιες μέρες δεν λειτουργούσε αλλά το πρόβλημα διορθώθηκε πριν την λήξη του παραδοτέου.Με αυτές τις δύο εντολές μπόρεσα και εμφάνισα στο τερματικό τον καιρό στην Κέρκυρα και στην Κοζάνη.Στο link που ακολουθεί φαίνεται το αποτέλεσμα.
  
