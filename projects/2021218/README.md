@@ -58,7 +58,7 @@
 [images](https://github.com/ContattoContare/images/pull/2) 
 [_gallery](https://github.com/ContattoContare/_gallery/pull/2)
 
-## Εβδομάδα Τρίτη - Άσκηση γραμμής εντολών (warm up cli)
+## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
 Σε αυτό το παραδοτέο εκτέλεσα την εντολή [curl wttr.in](https://asciinema.org/a/24zTE4CxYSo1nPwinrShCq0gt)
 
 [αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
