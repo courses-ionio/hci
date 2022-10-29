@@ -7,9 +7,9 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |   [Συζήτηση](https://github.com/courses-ionio/help/discussions/822), [Ομάδα](https://github.com/Second-Time-is-the-Charm)|Επιτυχής ολοκλήρωση, εντός προθεσμίας |
-| 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1092), [asciinema](https://asciinema.org/a/LDvgTpOOvB7Q3nFovXl06zbzF) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
+| 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1092), [asciinema](https://asciinema.org/a/v6iy1N8PzgTMxa3GR3hApOTe9) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1180),[Προσθήκη1](https://stitc-site.netlify.app/gallery/artix-os/),[Προσθήκη2](https://stitc-site.netlify.app/gallery/suse-os/) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1323),[fish](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr),[wttr](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M) |Επιτυχής ολοκλήρωση, εντός προθεσμίας|
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -29,7 +29,7 @@
 ## ΠΑΡΑΔΟΤΕΟ 2 | Arch install
 
 Έκανα εγκατάσταση των Arch Linux σε ένα παλιό σύστημα, η προετιμασία της συσκευής εγκατάστασης έγινε με sudo dd bs=4M if='PATH'.iso of=/dev/sd'X' conv=fdatasync . Στην συνέχεια έκανα κλασσική εγκατάσταση χωρίς UEFI καθώς το σύστημα μου δεν το υποστηρίζει.
-[![asciicast](https://asciinema.org/a/LDvgTpOOvB7Q3nFovXl06zbzF.svg)](https://asciinema.org/a/LDvgTpOOvB7Q3nFovXl06zbzF)
+[![asciicast](https://asciinema.org/a/v6iy1N8PzgTMxa3GR3hApOTe9.svg)](https://asciinema.org/a/v6iy1N8PzgTMxa3GR3hApOTe9)
 
 ## ΠΑΡΑΔΟΤΕΟ 3 | A1
 
@@ -41,6 +41,14 @@
 και τα pull req. αντίστοιχα για τον ενταγμό τους στην ομάδα
 - [_gallery pull request](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/5#event-7645248395)
 - [images pull request](https://github.com/Second-Time-Is-The-Charm/images/pull/5#issuecomment-1287660118)
+
+## ΠΑΡΑΔΟΤΕΟ 4 | warm-up
+Σε αυτό το παραδοτέο έκανα δύο από τις ασκήσεις  warm-up καθώς την εγκατάσταση των arch linux την έχω ολοκληρώσει από το [παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1092) , οι δύο ασκήσεις όπου επέλεξα είναι
+
+1.  εγκατάσταση και επεξεργασία του fish shell [![asciicast](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr.svg)](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr)
+2.  εξοικείωση με το wttr [![asciicast](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M.svg)](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M)
+
+[η αναφορά μου](https://github.com/Angeloth1/hci/tree/2019095/projects/2019095)
 
 ## TEAM 
 
