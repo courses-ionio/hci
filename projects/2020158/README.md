@@ -11,7 +11,7 @@
 | 1 | [Εισαγωγή](#Εισαγωγή) |
 | 2 | [Άσκηση Γραμμής Εντολών Linux Install](#Άσκηση-Γραμμής-Εντολών-Linux-Install) |
 | 3 | [Συμμετοχικό Περιεχόμενο Α1](#Συμμετοχικό-Περιεχόμενο-Α1) |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) |
+| 4 | [Άσκηση Γραμμής Εντολών Warm Up](#Άσκηση-Γραμμής-Εντολών-Warm-Up) |
 | 5 | Συμμετοχικό Περιεχόμενο Α2 |
 | 6 | Κατασκευή του βιβλίου Α |
 | 7 | Συμμετοχικό περιεχόμενο B1 |
@@ -67,5 +67,5 @@ https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 [Guitar Hero World Tour Thumb](https://github.com/Greek-Salata/images/blob/master/guitar-hero-world-tour-thumb.jpg)
 
 
-
+# Άσκηση Γραμμής Εντολών Warm Up
 
