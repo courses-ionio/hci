@@ -57,14 +57,16 @@ Link για το [journalctl -b](https://asciinema.org/a/fq5aidyZvehyq8n6Oh1oKod
 <p>To τρίτο παραδοτέο αφορούσε την προσθήκη δύο φωτογραφίων από συσκεύες της επιλογής μας στο repository images του οργανισμού μας,το οποίο είχε γίνει forked από το site.Οι προσθήκες που επέλεξα να κάνω ήταν τo Simons της ΙΒΜ και το Wii της Nintendo. Επέλεξα αυτές τις δύο συσκευές διότι πιστεύω ότι ταιριάζουν με την φιλοσοφία του μαθήματος "Επικοινωνία Ανθρώπου και Υπολογιστή" γιατί και οι δύο ήταν συσκευές που χαρακτηρίζονται με πρωτοποριακή (για τότε) διάδραση με τον χρήστη. Το Simon της IBM ήταν ένας φορητός Personal Assistant με οθόνη αφής. Θεωρητικά μπορεί να αναφερθεί κανείς σε αυτό , ως το πρώτο smartphone. Αντίστοιχα η κονσόλα Wii της Nintendo που εμφανίστηκε τον Νοέμβριο του 2006 ήταν η πρώτη κονσόλα που διέθετε ανίχνευση κίνησης.Με αυτόν τον τρόπο οι κινήσεις του χρήστη ,μέσω του τηλεχειριστήριου, μπορούν να ανιχνευτούν από τον αισθητήρα που βρίσκεται τοποθετημένος στην τηλεόραση.Έτσι καθιερώνεται μία πιο ενεργητική σχέση μεταξύ βιντεοπαιχνιδιού και χρήστη,αφού ο χρήστης πρέπει να κινηθεί για να αλληλεπιδράσει μαζί του.</p>
 
 
-[wii console](https://lucky-llama-173f38.netlify.app/gallery/wii-console/)
-![IBM SIMON]([https://github.com/Alessenia/Images-for-Report/blob/main/README.md](https://github.com/Alessenia/Images-for-Report/blob/main/c8413431-3b1c-42d1-9647-1ab4c7ba6801.png))
+![IBM SIMON]([https://github.com/Alessenia/Images-for-Report/blob/main/README.md](https://github.com/Alessenia/Images-for-Report/blob/main/c8413431-3b1c-42d1-9647-1ab4c7ba6801.png)
 ![Wii Console](https://github.com/Alessenia/Images-for-Report/blob/main/dims.jpg)
-[IBM Simon](https://lucky-llama-173f38.netlify.app/gallery/ibm-simon-personal-calculator/) 
+
   
 Το επόμενο ζητούμενο του παραδοτέου ήταν η δημιουργία του site της ομάδας μέσω του netlify.Για την υλοποίηση αυτού του ζητούμενου έγινε χρήση της γραμμής εντολών ώστε να συνδεθεί ο λογαριασμός του οργανισμού μας με το netlify.
   
 Το [site της ομάδας μας](https://lucky-llama-173f38.netlify.app/).
+Οι προσθήκες μου στο site :
+-[wii console](https://lucky-llama-173f38.netlify.app/gallery/wii-console/)
+-[IBM Simon](https://lucky-llama-173f38.netlify.app/gallery/ibm-simon-personal-calculator/) 
 
 
 <br>
