@@ -73,3 +73,12 @@ Link για το [journalctl -b](https://asciinema.org/a/fq5aidyZvehyq8n6Oh1oKod
 <br>
 
 
+# Παραδοτέο 4 - Warm up
+<br>
+
+<p>Εφόσον η εγκατάσταση των Arch Linux έχει γίνει σε υλικό , για αυτή την βδομάδα εκτέλεσα δύο ασκήσεις από την κατηγορία "warm up".Η οργάνωση της ομάδας συνεχίζεται και εξελίσσεται απο εβδομάδα σε εβδομάδα ακόμα και αν ο συντονισμός των μελών είναι ένα απαιτητικό ζήτημα.</p>
+
+- [check the weather](https://asciinema.org/a/NJ5MaD8qJNiYC68BS6csbgNnl) με χρήση της εντολής curl wttr.in/Place.
+- [track your time with a simple journal](https://asciinema.org/a/yQxlcv0K5DJwdvidCSMpYB3Zg) με χρήση της εντολής jrnl.
+
+<br>
