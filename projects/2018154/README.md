@@ -69,7 +69,7 @@ Netlify links:
 - [Microsoft Flight Simulator](https://pavtsol.netlify.app/gallery/microsoft-flight-simulator/)
 - [HoloLens](https://pavtsol.netlify.app/gallery/holo-lens/)
 
-
+Συγκεκριμένα διάλεξα το Microsoft Flight Simulator και τα HoloLens λόγω της διάδρασης που προσφέρει μεταξύ τους και τον χρήστη και την μεγάλη εποικοινωνία που προσφέρει μεταξύ ενός ανρθώπου και τις δημιουργίες ενός υπολογιστή (MSFS, HoloLens). Επιπλέον αυτά τα δύο μπορούν να χρησιμοποιηθούν για διάφορους λόγους είτε είναι για ψυχαγωγικούς, εκπαιδευτικούς ή και επιστημονικούς τρόπους.
 
 ## ΠΑΡΑΔΟΤΕΟ 4 | Ασκήσεις γραμμής εντολών (warm up)
 
