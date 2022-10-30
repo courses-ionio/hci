@@ -71,3 +71,4 @@ https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 
 # Άσκηση Γραμμής Εντολών Warm Up
 
+https://asciinema.org/a/y5oYpdNgmtHFD9UfrMSN2qUn8
