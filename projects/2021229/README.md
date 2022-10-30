@@ -21,7 +21,7 @@
 | 1 | Εισαγωγή| [Click](https://github.com/courses-ionio/help/discussions/907) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) | [Click](https://github.com/courses-ionio/help/discussions/1075) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | [Click](https://github.com/courses-ionio/help/discussions/1189) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Click](https://github.com/courses-ionio/help/discussions/1347) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -54,3 +54,9 @@
 [Gallery Pull Request](https://github.com/ContattoContare/_gallery/pull/1) / [Image Pull Request](https://github.com/ContattoContare/images/pull/1)
 
 [BeOS](https://inf2021229.netlify.app/gallery/beos/) / [Xerox Rooms](https://inf2021229.netlify.app/gallery/xerox-rooms/)
+<br /><br /> 
+## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
+
+&nbsp;&nbsp;&nbsp;Για αυτή την βδομάδα έπρεπε να εκτελέσουμε κάποιες εντολές από το [Warmup](https://github.com/epidrome/dokey#warmup). Παρακάτω η εντολή για τον έλεγχο καιρού: [Click](https://asciinema.org/a/WYQ20HIDrUNxasEkYFPl5921y)
+####Weather Check
+[![asciicast](https://asciinema.org/a/WYQ20HIDrUNxasEkYFPl5921y.svg)](https://asciinema.org/a/WYQ20HIDrUNxasEkYFPl5921y)
