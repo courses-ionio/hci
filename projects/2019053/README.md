@@ -82,7 +82,7 @@
 
 <br />
 
-Στο παρακάτω **asciinema** αναπαρήστανται τα χαρακτηριστικά του λογισμικού μου με τη χρήση της εντολής <kbd>neofetch</kbd>
+Στο παρακάτω **asciinema** αναπαρίστανται τα χαρακτηριστικά του λογισμικού μου με τη χρήση της εντολής <kbd>neofetch</kbd>
 
 [![asciicast](https://asciinema.org/a/PxjHtqG9UKGOxQyu7cGqRBRij.svg)](https://asciinema.org/a/PxjHtqG9UKGOxQyu7cGqRBRij)
 
@@ -138,10 +138,16 @@
 
 <br />
 
+&nbsp;&nbsp;&nbsp;&nbsp;Αρχικά μία πολύ σημαντική εντολή που προσφέρει το εργαλείο αυτό είναι η <kbd>-F</kbd> η οποία δημιουργεί μία λίστα με όλες τις πιθανές μορφές που μπορεί να κατέβει το βίντεο. Εγώ προσωπικά ήθελα μόνο ήχο οπότε επέλεξα την **140**, με αποτέλεσμα το url να κατέβει σε μορφή m4a. Έπειτα ήθελα να κατεβάσω ένα μέρος από ένα playlist που είχα αποθηκεύσει στο youtube. Για αυτό έκανα έναν νέο φάκελο με τη χρήση της εντολής <kbd>mkdir</kbd> και τον ονόμασα Chill-Mix όπου πέρασα τα τραγούδια 3, 4 και 5 από το συγκεκριμένο playlist. Η εντολή που βοήθησε στην επιλογή των συγκεκριμένων τραγουδιών ήταν η <kbd>--playlist-items</kbd>, όπου έπειτα από αυτή έγραψα **3-5** για να προσδιορίσω την αρχή και το τέλος από όπου θα αντλούσε τα τραγούδια αυτά.
+
+<br />
+
+Στο παρακάτω **asciinema** αναπαρίστανται οι εντολές που χρησιμοποίησα για την υλοποίηση της άσκησης youtube-dl
+
+[![asciicast](https://asciinema.org/a/mM5cqHtqyZFyR2sODjZuEALF4.svg)](https://asciinema.org/a/mM5cqHtqyZFyR2sODjZuEALF4)
 
 
-
-
+<br /><br />
 
 ---
 
@@ -174,3 +180,5 @@
 #### Τρίτο Παραδοτέο
  - [Git clone & submodules guide](https://github.com/Second-Time-Is-The-Charm/Main/discussions/2)
  - [Move git submodule](https://stackoverflow.com/questions/4604486/how-do-i-move-an-existing-git-submodule-within-a-git-repository)
+#### Τέταρτο Παραδοτέο
+ - [youtube-dl github](https://github.com/ytdl-org/youtube-dl)
