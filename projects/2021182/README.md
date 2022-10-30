@@ -10,7 +10,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/help/discussions/848 | |
 | 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | https://github.com/courses-ionio/help/discussions/1103 | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1194 | |
-| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
+| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | https://github.com/courses-ionio/help/discussions/1338 | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -30,4 +30,9 @@
 Για την εγκατάσταση των Arch Linux ακολούθησα τις οδηγίες από το [Επίσημο Arch Linux Wiki](https://wiki.archlinux.org/title/installation_guide). Στη πρώτη απόπειρα,  έχοντας αποφασίσει να κάνω το σύστημα μου dual boot, καταλάθος εγκατέστησα το grub στο partition του Windows Boot Manager, με αποτέλεσμα παραλίγο να χάσω όλα τα windows partitions. Ευτυχώς απέφυγα τη καταστροφή των δεδομένων μου και επέλεξα να εγκαταστήσω τα Arch σε ένα στικάκι, όπως συνιστούν οι οδηγίες του μαθήματος. Εγκαθιστώντας στο στικάκι, η διαδικασία ήταν πλέον γνωστή άρα δεν υπήρξαν προβλήματα. Για γραφικό περιβάλλον επέλεξα το πολύ δημοφιλές "KDE Plasma" μετά από μερικές δημοσιεύσεις στο [subreddit](https://www.reddit.com/r/unixporn/) που μου "τράβηξαν" το ενδιαφέρον.
 
 # 3ο ΠΑΡΑΔΟΤΕΟ 
+
 Για το τρίτο παραδοτέο, η ομαδική συμμετοχή ήταν απαραίτητη και εξακολουθεί να είναι, μιας και συνεχίζουμε να αντιμετωπίζουμε προβλήματα με το netlify. Αναμένεται ενημέρωση για το τρίτο παραδοτέο στις μελλοντικές εβδομάδες όσο προσπαθούμε ανελλειπώς να διορθώσουμε το πρόβλημα.
+
+# 4ο ΠΑΡΑΔΟΤΕΟ
+
+Για το τέταρτο παραδοτέο μιας και τα arch linux ήταν ήδη εγκατεστημένα σε hardware, δοκίμασα μια άσκηση από τις warm up ασκήσεις που μου φαίνονταν ενδιαφέρον, το άμεσο download mp3/mp4 περιεχομένου από το youtube. Παρά τις προσπάθειες μου, το download speed ήταν στα 50kb/s αλλά ευτυχώς το youtube-dl είχε την πολύ έξυπνη λειτουργία resume, με αποτέλεσμα το asciinema να βγήκε πολύ μικρότερο, μιας και άρχισα να κάνω record κοντά στην ολοκλήρωση της διαδικασίας.
