@@ -71,4 +71,10 @@ https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 
 # Άσκηση Γραμμής Εντολών Warm Up
 
+Για να εξοικειωθώ με το περιβάλλον Arch, επέλεξα μια από τις warmup ασκήσεις και έτρεξα την εντολή `curl wttr.in` για να δείξω τον καιρό.
+
 https://asciinema.org/a/y5oYpdNgmtHFD9UfrMSN2qUn8
+
+![download](https://user-images.githubusercontent.com/92392853/198902868-84e0717f-8845-4c28-9707-a30205966dbc.gif)
+
+
