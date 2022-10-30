@@ -6,12 +6,12 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
 
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | [Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Εισαγωγή](https://github.com/Genti-voka/hci/blob/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/938) | |
 | 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/Genti-voka/hci/edit/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-arch-linux-installation) | [Ανάρτηση εγκατάστασης στο Discussions](https://github.com/courses-ionio/help/discussions/1019) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |  | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Ανάρτηση warm up στα Discussions](https://github.com/courses-ionio/help/discussions/1382) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -40,5 +40,13 @@
 Λινκ για το [asciinema](https://asciinema.org/a/KrXOLLMs1KoWDuVv8b6sY5V8a)
 <br>
 <a href="https://asciinema.org/a/KrXOLLMs1KoWDuVv8b6sY5V8a" target="_blank"><img src="https://asciinema.org/a/KrXOLLMs1KoWDuVv8b6sY5V8a.svg" /></a>
+<br> </br>
 
+# Παραδοτέο 4 warm up Ασκησεις
+<p> Για το παραδοτέο 4 υλοιποίησα 2 απο τις warm up ασκήσεις , εκ των οποίων η μια εμφάνιζε αποτελέσματα για τον καιρό και η 2η εμφανίζει τις τιμές συναλλαγματικών ισοτιμιών 
+  
+Παρακάτω βλέπουμε πως εμφανίζουμε συναλλαγματικές ισοτιμίες μεταξύ διαφόρων νομισμάτων 
+<a href="https://asciinema.org/a/sUmwrAjjVdr69PC5yurcsmbDo" target="_blank"><img src="https://asciinema.org/a/sUmwrAjjVdr69PC5yurcsmbDo.svg" /></a>
 
+Παρακάτω βλέπουμε πως να εμφάνιζουμε τον καιρό σε διάφορες πόλεις ανάλογα με το input στην εντολή  
+<a href="https://asciinema.org/a/v3I6bciECFQMdyd06qSGruEtU" target="_blank"><img src="https://asciinema.org/a/v3I6bciECFQMdyd06qSGruEtU.svg" /></a>
