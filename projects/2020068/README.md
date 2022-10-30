@@ -8,8 +8,8 @@
 | --- | --- | --- | ---|
 | 1 | [Εισαγωγή](#εισαγωγή)| [Συζήτηση](https://github.com/courses-ionio/help/discussions/870)| Ανάφερα της ανάγκες μου και τις προσδοκίες μου για αυτό το μάθημα | 
 | 2 | [Εγκατάσταση του Arch Linux](#εγκατάσταση-του-arch-linux)| [Συζήτηση](https://github.com/courses-ionio/help/discussions/1104)| Θα μπορούσα να είμουν πιο συγκεκριμένος για την πορεία που ακουλούθησα για μία επιτυχημένη εγκατάσταση. Χρειάζομαι εξοικείωση με το command prompt για να το εγκαταστήσω σε Bootable USB Drive και όχι σε VM  | 
-| 3 | [Συμμετοχικό περιεχόμενο A1](#συμμετοχικό-περιεχόμενο-A1)| [Συζήτηση](https://github.com/courses-ionio/help/discussions/1231)| | 
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | | 
+| 3 | [Συμμετοχικό περιεχόμενο A1](#συμμετοχικό-περιεχόμενο-A1)| [Συζήτηση](https://github.com/courses-ionio/help/discussions/1231)| Δεν κατάφερα να κάνω το περιεχόμενο να εμφανιστεί στο Betlify| 
+| 4 | [Άσκηση γραμμής εντολών (arch linux install on HW)](#Άσκηση-γραμμής-εντολών-(arch-linux-install-on-HW)) |  [Συζήτηση](https://github.com/courses-ionio/help/discussions/1391) | | 
 | 5 | Συμμετοχικό περιεχόμενο A2 | | | 
 | 6 | Κατασκευή του βιβλίου Α | | | 
 | 7 | Συμμετοχικό περιεχόμενο B1 | | | 
@@ -60,4 +60,8 @@
 |HP-150 | [hp150](https://github.com/lefterisan/_gallery/blob/hp-150/hp-150.md)|| https://github.com/Unixidized/_gallery/pull/6|
 |microvision images| [microvision](https://github.com/lefterisan/images/blob/microvision/microvision.jpg) + [microvision-thumb](https://github.com/lefterisan/images/blob/microvision/microvision-thumb.jpg)||https://github.com/Unixidized/images/pull/8|
 |microvision | [microvision.md](https://github.com/lefterisan/_gallery/blob/microvision/microvision.md)||https://github.com/Unixidized/_gallery/pull/8|
+
+## Άσκηση γραμμής εντολών (warm up cli)
+
+Εγκατέστησα τα Arch Linux se bootable USB. [neofetch](https://asciinema.org/a/533599)
 
