@@ -122,4 +122,8 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 Για τις παραπάνω πληροφορίες αξιοποιήθηκαν και ακολουθήθηκαν τα παρακάτω βήματα προκειμένουν να ακούσω το αγαπήμενο μου τραγούδι.
 
-1) Άνοιξα το [YouTube](https://youtube.com), έγραψα στην γραμμή αναζήτησης το τραγούδι `R.E.M. - Shiny Happy People (Official Music Video)` και έκανα αντιγραφή τον σύνδεσμο που αντιστοιχεί στο [κομμάτι αυτό](https://www.youtube.com/watch?v=YYOKMUTTDdA).
+1) Άνοιξα το τερματικό εντολών και μέσω της εντολής [`curl`](https://curl.se/): `sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl` κατέβασα από το official repository το [Youtube-DL](https://github.com/ytdl-org/youtube-dl)
+ 
+2) Άνοιξα το [YouTube](https://youtube.com), έγραψα στην γραμμή αναζήτησης το τραγούδι `R.E.M. - Shiny Happy People (Official Music Video)` και έκανα αντιγραφή τον σύνδεσμο που αντιστοιχεί στο [κομμάτι αυτό](https://www.youtube.com/watch?v=YYOKMUTTDdA).
+
+3) Στην συνέχεια, άνοιξα ένα παράθυρο του τερματικού εντολής και 
