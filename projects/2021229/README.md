@@ -58,5 +58,5 @@
 ## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
 
 &nbsp;&nbsp;&nbsp;Για αυτή την βδομάδα έπρεπε να εκτελέσουμε κάποιες εντολές από το [Warmup](https://github.com/epidrome/dokey#warmup). Παρακάτω η εντολή για τον έλεγχο καιρού: [Click](https://asciinema.org/a/WYQ20HIDrUNxasEkYFPl5921y)
-####Weather Check
+#### Weather Check
 [![asciicast](https://asciinema.org/a/WYQ20HIDrUNxasEkYFPl5921y.svg)](https://asciinema.org/a/WYQ20HIDrUNxasEkYFPl5921y)
