@@ -128,4 +128,4 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 3) Στην συνέχεια, άνοιξα ένα παράθυρο του τερματικού εντολής και εκτελώντας την εντολή: `youtube-dl --list-format https://www.youtube.com/watch?v=YYOKMUTTDdA` το τερματικό μου εμφάνισε όλα τα video encodings που υποστηρίζονται από το παραπάνω κομμάτι.
 
-https://asciinema.org/a/532242
+[![asciicast](https://asciinema.org/a/532242.svg)](https://asciinema.org/a/532242)
