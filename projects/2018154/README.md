@@ -49,6 +49,27 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 3 | Συμμετοχικό περιεχόμενο-Α1
 
+Στο συγκεκριμένο παραδοτέο έπρεπε να προσθέσω δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα. Μελέτησα προσεκτικά τα αρχεία της ιστοσελίδας του μαθήματος αλλά και πως έχει γίνει το deploy στο netlify. Αρχικά δημιούργησα τα [repos](https://github.com/orgs/Millennials-2/repositories) στο organization μου και τα έκανα fork στον προσωπικό μου λογαριασμό και για test αλλά και για το pull request που έκανα ώστε να συμπεριληφθούν στο site του organization μου. Επιπλέον διέγραψα τα submodules που υπήρχαν και πρόσθεσα τα καινούργια στα οποία θα γίνει η επεξεργασία, στην συνέχεια έγινε το deploy της σελίδας netlify του [organization](https://millennials-2.netlify.app) μου αλλά και η [προσωπική](https://pavtsol.netlify.app) μου. Τέλος διαμόρφωσα δύο αρχεία `.md` στο repo [_gallery](https://github.com/PavTsol/_gallery) και αναζήτησα τις κατάλληλες φωτογραφίες για τα θέματα που διάλεξα ώστε να τις ανεβάσω στο repo [images](https://github.com/PavTsol/images) και να συνεχίσω στο pull request.
+
+Οι προσθήκες που έγιναν στο ηλεκτρονικό βιβλίο του μαθήματος είναι οι παρακάτω.
+
+_gallery:
+
+- [Microsoft Flight Simulator](https://github.com/PavTsol/_gallery/blob/master/microsoft-flight-simulator.md)
+- [HoloLens](https://github.com/PavTsol/_gallery/blob/master/holo-lens.md)
+
+images:
+
+- [Microsoft Flight Simulator](https://github.com/PavTsol/images/blob/master/microsoft-flight-simulator.png) & [thumbnail](https://github.com/PavTsol/images/blob/master/microsoft-flight-simulator-thumb.png)
+
+- [HoloLens](https://github.com/PavTsol/images/blob/master/holo-lens.png) & [thumbnail](https://github.com/PavTsol/images/blob/master/holo-lens-thumb.png)
+
+Netlify links:
+
+- [Microsoft Flight Simulator](https://pavtsol.netlify.app/gallery/microsoft-flight-simulator/)
+- [HoloLens](https://pavtsol.netlify.app/gallery/holo-lens/)
+
+
 
 ## ΠΑΡΑΔΟΤΕΟ 4 | Ασκήσεις γραμμής εντολών (warm up)
 
