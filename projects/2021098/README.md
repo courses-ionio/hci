@@ -129,3 +129,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 3) Στην συνέχεια, άνοιξα ένα παράθυρο του τερματικού εντολής και εκτελώντας την εντολή: `youtube-dl --list-format https://www.youtube.com/watch?v=YYOKMUTTDdA` το τερματικό μου εμφάνισε όλα τα video encodings που υποστηρίζονται από το παραπάνω κομμάτι.
 
 [![asciicast](https://asciinema.org/a/532242.svg)](https://asciinema.org/a/532242)
+
+4) Παρακάτω, εφόσον τσέκαρα ότι το βίντεο υποστηρίζει <ins>`.mp4`</ins> format έτρεξα την εντολή: `youtube-dl -f mp4 https://www.youtube.com/watch?v=YYOKMUTTDdA` προκειμένου να κατεβάσω το συγκεκριμένο τραγούδι στον υπολογιστή μου. Η παράμετρος `-f` ισούται με το format που έχουμε επιλέξει.
+
+[![asciicast](https://asciinema.org/a/532243.svg)](https://asciinema.org/a/532243)
