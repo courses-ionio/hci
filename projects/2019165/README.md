@@ -9,7 +9,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Εισαγωγή](https://github.com/Alessenia/hci/blob/2019165/projects/2019165/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/933) | |
 | 2 | Άσκηση γραμμής εντολών (linux install)|[Ανάρτηση asciinema στο Discussions και εγκατάσταση των Arch Linux](https://github.com/courses-ionio/help/discussions/1072) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 || |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[Ανάρτηση των προσθηκών στα repositories _gallery και images καθώς και δημιουργία netlify](https://github.com/courses-ionio/help/discussions/1226)| |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -51,6 +51,17 @@ Link για το [neofetch](https://asciinema.org/a/PdTY0R150xP3dHyd2T91sjMV8)
 Link για το [journalctl -b](https://asciinema.org/a/fq5aidyZvehyq8n6Oh1oKodzm)
 <br>
 
+# Παραδοτέο 3 - Συμμετοχικό Περιεχόμεο Α1
+<br>
 
+<p>To τρίτο παραδοτέο αφορούσε την προσθήκη δύο φωτογραφίων από συσκεύες της επιλογής μας στο repository images του οργανισμού μας,το οποίο είχε γίνει forked από το site.Οι προσθήκες που επέλεξα να κάνω ήταν το [Simons της IBM](https://lucky-llama-173f38.netlify.app/gallery/ibm-simon-personal-calculator/) καθώς και η [κονσόλα Wii](https://lucky-llama-173f38.netlify.app/gallery/wii-console/) της Nintendo. Επέλεξα αυτές τις δύο συσκευές διότι πιστεύω ότι ταιριάζουν με την φιλοσοφία του μαθήματος "Επικοινωνία Ανθρώπου και Υπολογιστή" γιατί και οι δύο ήταν συσκευές που χαρακτηρίζονται με πρωτοποριακή (για τότε) διάδραση με τον χρήστη. Το Simon της IBM ήταν ένας φορητός Personal Assistant με οθόνη αφής. Θεωρητικά μπορεί να αναφερθεί κανείς σε αυτό , ως το πρώτο smartphone. Αντίστοιχα η κονσόλα Wii της Nintendo που εμφανίστηκε τον Νοέμβριο του 2006 ήταν η πρώτη κονσόλα που διέθετε ανίχνευση κίνησης.Με αυτόν τον τρόπο οι κινήσεις του χρήστη ,μέσω του τηλεχειριστήριου, μπορούν να ανιχνευτούν από τον αισθητήρα που βρίσκεται τοποθετημένος στην τηλεόραση.Έτσι καθιερώνεται μία πιο ενεργητική σχέση μεταξύ βιντεοπαιχνιδιού και χρήστη,αφού ο χρήστης πρέπει να κινηθεί για να αλληλεπιδράσει μαζί του.
+![IBM-Simon-Personal-Communicator](https://user-images.githubusercontent.com/92642163/198896171-1fd18262-c81b-4286-a127-63ab4f282a4b.png)
+![wii-console](https://user-images.githubusercontent.com/92642163/198896176-46df80a9-c152-4f76-9a63-e2f119e5203b.jpg)
+Το επόμενο ζητούμενο του παραδοτέου ήταν η δημιουργία του site της ομάδας μέσω του netlify.Για την υλοποίηση αυτού του ζητούμενου έγινε χρήση της γραμμής εντολών ώστε να συνδεθεί ο λογαριασμός του οργανισμού μας με το netlify.
+Το [site της ομάδας μας](https://lucky-llama-173f38.netlify.app/).
+
+</p>
+
+<br>
 
 
