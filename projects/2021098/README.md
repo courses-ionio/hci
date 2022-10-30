@@ -126,4 +126,6 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
  
 2) Άνοιξα το [YouTube](https://youtube.com), έγραψα στην γραμμή αναζήτησης το τραγούδι `R.E.M. - Shiny Happy People (Official Music Video)` και έκανα αντιγραφή τον σύνδεσμο που αντιστοιχεί στο [κομμάτι αυτό](https://www.youtube.com/watch?v=YYOKMUTTDdA).
 
-3) Στην συνέχεια, άνοιξα ένα παράθυρο του τερματικού εντολής και 
+3) Στην συνέχεια, άνοιξα ένα παράθυρο του τερματικού εντολής και εκτελώντας την εντολή: `youtube-dl --list-format https://www.youtube.com/watch?v=YYOKMUTTDdA` το τερματικό μου εμφάνισε όλα τα video encodings που υποστηρίζονται από το παραπάνω κομμάτι.
+
+https://asciinema.org/a/532242
