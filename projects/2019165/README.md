@@ -10,7 +10,7 @@
 | 1 |  [Εισαγωγή](https://github.com/Alessenia/hci/blob/2019165/projects/2019165/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/933) | |
 | 2 | Άσκηση γραμμής εντολών (linux install)|[Ανάρτηση asciinema στο Discussions και εγκατάσταση των Arch Linux](https://github.com/courses-ionio/help/discussions/1072) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Ανάρτηση των προσθηκών στα repositories _gallery και images καθώς και δημιουργία netlify](https://github.com/courses-ionio/help/discussions/1226)| |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Ανάρτηση των ασκήσεων "warm up" στα Discussions](https://github.com/courses-ionio/help/discussions/1355) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
