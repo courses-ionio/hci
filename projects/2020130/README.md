@@ -2,14 +2,15 @@
 <h4>ΟΝΟΜΑΤΕΠΩΝΥΜΟ: Χατζηκώστας Χρήστος</h4>
 <h4>ΑΜ: Π2020130</h4>
 <h4>E-Mail: p20chat4@ionio.gr</h4>
-<h4>Ομάδα: [WhatColorIsYourBugatti](https://github.com/WhatColorIsYourBugatti)
+<h4>Ομάδα:  </h4>
+
 
 #
 
 | Εβδομάδα | Παραδοτέα | Σύνδεσμοι | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/ChrisPaok4/hci/tree/2020130/projects/2020130#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1%CE%BF) | [1ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/929) | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1114) | |
+| 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/ChrisPaok4/hci/edit/2020130/projects/2020130/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2%CE%BF) | [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1114) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | [3ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1363) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [4ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1368)| |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
@@ -22,5 +23,22 @@
 | 12 | Τελική αναφορά* | | |
 
 <br>
+<h2>Παραδοτέο 1ο:</h2> 
+Στόχος μου στο μάθημα «Επικοινωνία Ανθρώπου-Υπολογιστή» είναι να μάθω περισσότερες ιδιότητες του Github και το πως λειτουργού τα συστήματα Linux.
+<br>
+<h2>Παραδοτέο 2ο:</h2> 
+Σε αυτό το παραδοτέο εγκατέστησα τα Arch Linux με επιτυχία και εκτέλεσα τις ακόλουθες γραμμές εντολών
 
-<h2>Παραδοτέο 1ο:</h2> <h4>Στόχος μου στο μάθημα «Επικοινωνία Ανθρώπου-Υπολογιστή» είναι να μάθω περισσότερες ιδιότητες του Github και το πως λειτουργού τα συστήματα Linux.</h4>
+[Journalctl -b](https://asciinema.org/a/529033)
+[neofetch](https://asciinema.org/a/529138)
+<br>
+<h2>Παραδοτέο 3ο:</h2>
+Σε αυτό το παραδοτέο ανέβασα και έκανα pull request τα αρχεία md και τις εικόνες στο brunch του Organisation
+
+[Gallery](https://github.com/WhatColorIsYourBugatti/_gallery/pull/7)
+[Images](https://github.com/WhatColorIsYourBugatti/images/pull/9)
+<br>
+<h2>Παραδοτέο 4ο:</h2>
+Σε αυτό το παραδοτέο απλώς εκτέλεσα την εντολή wttr.in εφόσον έχω ήδη εγκαταστήσει τα Arch Linux από το [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1114).
+
+Αποτέλεσμα της [wttr.in](https://asciinema.org/a/533564)
