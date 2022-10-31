@@ -55,19 +55,19 @@
 
 _gallery:
 
-- [Microsoft Flight Simulator](https://github.com/PavTsol/_gallery/blob/master/microsoft-flight-simulator.md)
-- [HoloLens](https://github.com/PavTsol/_gallery/blob/master/holo-lens.md)
+- [Microsoft Flight Simulator](https://github.com/Millennials-2/_gallery/blob/c5356e59b8b18aa54c24d099ee4deabf898278fa/microsoft-flight-simulator.md)
+- [HoloLens](https://github.com/Millennials-2/_gallery/blob/c5356e59b8b18aa54c24d099ee4deabf898278fa/holo-lens.md)
 
 images:
 
-- [Microsoft Flight Simulator](https://github.com/PavTsol/images/blob/master/microsoft-flight-simulator.png) & [thumbnail](https://github.com/PavTsol/images/blob/master/microsoft-flight-simulator-thumb.png)
+- [Microsoft Flight Simulator](https://github.com/Millennials-2/images/blob/21cff220f5c733a900206d50efbb075da0c3cfd4/microsoft-flight-simulator.png) & [thumbnail](https://github.com/Millennials-2/images/blob/21cff220f5c733a900206d50efbb075da0c3cfd4/microsoft-flight-simulator-thumb.png)
 
-- [HoloLens](https://github.com/PavTsol/images/blob/master/holo-lens.png) & [thumbnail](https://github.com/PavTsol/images/blob/master/holo-lens-thumb.png)
+- [HoloLens](https://github.com/Millennials-2/images/blob/21cff220f5c733a900206d50efbb075da0c3cfd4/holo-lens.png) & [thumbnail](https://github.com/Millennials-2/images/blob/21cff220f5c733a900206d50efbb075da0c3cfd4/holo-lens-thumb.png)
 
 Netlify links:
 
-- [Microsoft Flight Simulator](https://pavtsol.netlify.app/gallery/microsoft-flight-simulator/)
-- [HoloLens](https://pavtsol.netlify.app/gallery/holo-lens/)
+- [Microsoft Flight Simulator](https://millennials-2.netlify.app/gallery/microsoft-flight-simulator/)
+- [HoloLens](https://millennials-2.netlify.app/gallery/holo-lens/)
 
 Συγκεκριμένα διάλεξα το Microsoft Flight Simulator και τα HoloLens λόγω της διάδρασης που προσφέρει μεταξύ τους και τον χρήστη και την μεγάλη εποικοινωνία που προσφέρει μεταξύ ενός ανρθώπου και τις δημιουργίες ενός υπολογιστή (MSFS, HoloLens). Επιπλέον αυτά τα δύο μπορούν να χρησιμοποιηθούν για διάφορους λόγους είτε είναι για ψυχαγωγικούς, εκπαιδευτικούς ή και επιστημονικούς τρόπους.
 
