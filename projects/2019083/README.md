@@ -39,4 +39,4 @@
 [![asciicast](https://asciinema.org/a/532480.svg)](https://asciinema.org/a/532480)
 
 Με τα  youtube-dl κατέβασα ένα μουσικό κομμάτι και στη συνέχεια με το mpv έκανα αναπαραγωγή του συγκεκριμένου κομματιού μέσω του τερματικού
-[![asciicast](https://asciinema.org/a/532477.svg)](https://asciinema.org/a/532477)
+<br/>[![asciicast](https://asciinema.org/a/532477.svg)](https://asciinema.org/a/532477)
