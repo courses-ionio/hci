@@ -15,7 +15,7 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 | Εβδομάδα |  | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | <p align="center">[Δημιουργία ομάδας + Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής και καταγραφή του συνδέσμου συζήτησης δίπλα](#Εισαγωγή)</p>  | <p align="center">[Σύνδεσμος εισαγωγής](https://github.com/courses-ionio/help/discussions/857)</p> | <p align="center">10/10  [Σημείωση*](#1ο-Παραδοτέο-Αυτοαξιολόγηση) </p> |
-| 2 | <p align="center">[Άσκηση γραμμής εντολών (linux install)](#2ο-Παραδοτέο-Linux-installation)</p>|<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1074) |<p align="center">9/10  [Σημείωση*](#2ο-Παραδοτέο-Αυτοαξιολόγηση) </p> |
+| 2 | <p align="center">[Άσκηση γραμμής εντολών (linux install)](#2ο-Παραδοτέο---Linux-installation)</p>|<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1074) |<p align="center">9/10  [Σημείωση*](#2ο-Παραδοτέο-Αυτοαξιολόγηση) </p> |
 | 3 | Συμμετοχικό περιεχόμενο A1 | <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1269)|<p align="center">8.5/10  [Σημείωση*](#3ο-Παραδοτέο-Αυτοαξιολόγηση) </p>  |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1296) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
