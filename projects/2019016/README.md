@@ -24,3 +24,8 @@
 <b>Command line 1</b></br>
 journalctl : <a href="https://asciinema.org/a/G7mTC2jDIzowd6rI6yzaPrexK" target="_blank"><img src="https://asciinema.org/a/G7mTC2jDIzowd6rI6yzaPrexK.svg" /></a>
 neofetch : <a href="https://asciinema.org/a/FGyJE20i0X3am4wXJsQs2YOkc" target="_blank"><img src="https://asciinema.org/a/FGyJE20i0X3am4wXJsQs2YOkc.svg" /></a>
+<b> Συμμετοχικό περιεχόμενο</b>
+ https://invicta-team-project.netlify.app/gallery/joystick/
+ https://invicta-team-project.netlify.app/gallery/3d-printer/
+ https://github.com/Invicta-Ionian-Hci/_gallery/pull/2
+ https://github.com/Invicta-Ionian-Hci/images/pull/2
