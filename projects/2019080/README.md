@@ -16,16 +16,16 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 | --- | --- | --- | --- |
 | 1 | <p align="center">[Δημιουργία ομάδας + Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής και καταγραφή του συνδέσμου συζήτησης δίπλα](#Εισαγωγή)</p>  | <p align="center">[Σύνδεσμος εισαγωγής](https://github.com/courses-ionio/help/discussions/857)</p> | <p align="center">10/10  [Σημείωση*](#1ο-Παραδοτέο-Αυτοαξιολόγηση) </p> |
 | 2 | <p align="center">[Άσκηση γραμμής εντολών (linux install)](#2ο-Παραδοτέο---Linux-installation)</p>|<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1074) |<p align="center">9/10  [Σημείωση*](#2ο-Παραδοτέο-Αυτοαξιολόγηση) </p> |
-| 3 | Συμμετοχικό περιεχόμενο A1 | <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1269)|<p align="center">8.5/10  [Σημείωση*](#3ο-Παραδοτέο-Αυτοαξιολόγηση) </p>  |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1296) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
-| 6 | Κατασκευή του βιβλίου Α | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών | | |
-| 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 3 | <p align="center">[Συμμετοχικό περιεχόμενο A1](#3ο-Παραδοτέο---Συμμετοχικό-υλικό-Α1)</p> | <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1269)|<p align="center">8.5/10  [Σημείωση*](#3ο-Παραδοτέο-Αυτοαξιολόγηση) </p>  |
+| 4 | <p align="center">[Άσκηση γραμμής εντολών (warm up cli)](#4ο-Παραδοτέο---Warmup-CLI)</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1296) | |
+| 5 | <p align="center">Συμμετοχικό περιεχόμενο A2</p> | | |
+| 6 | <p align="center">Κατασκευή του βιβλίου Α</p> | | |
+| 7 | <p align="center">Συμμετοχικό περιεχόμενο B1</p> | | |
+| 8 | <p align="center">Άσκηση γραμμής εντολών</p> | | |
+| 9 | <p align="center">Συμμετοχικό περιεχόμενο B2</p> | | |
+| 10 | <p align="center">Άσκηση γραμμής εντολών</p> | | |
+| 11 | <p align="center">Κατασκευή του βιβλίου Β</p> | | |
+| 12 | <p align="center">Τελική αναφορά*</p> | | |
 
 
 <h2 align="center">Εισαγωγή</h2>
