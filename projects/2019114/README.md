@@ -17,7 +17,7 @@
 | 2 | [Εγκατάσταση ArchLinux](#Εγκατάσταση-ArchLinux) |[Link Discussions](https://github.com/courses-ionio/help/discussions/1001) |Εμπρόθεσμο παραδοτέο/ εγκατάσταση ArchLinux 10/10 |
 | 3 | [Συμμετοχικό περιεχόμενο A1](#Συμμετοχικό-περιεχόμενο-A1) |[Link Discussions](https://github.com/courses-ionio/help/discussions/1198) |Εμπρόθεσμο παραδοτέο/εισαγωγή 4 εικόνων/ δημιουργία λεζάντας/  δημιουργία demo site/  pull request προς την forked ιστοσελίδα του οργανισμού 8/10|
 | 4 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |[Link Discussions](https://github.com/courses-ionio/help/discussions/1308) | Εμπρόθεσμο παραδοτέο/ υλοποίηση warmup άσκησης 10/10 |
-| 5 | [Συμμετοχικό περιεχόμενο A2](#Συμμετοχικό-περιεχόμενο-A2) |[Link Discussions]() |Εμπρόθεσμο παραδοτέο/ εισαγωγή των Wii U και Οculus Rift σε slides και timeline pull request προς την forked ιστοσελίδα του οργανισμού 9/10 |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#Συμμετοχικό-περιεχόμενο-A2) |[Link Discussions](https://github.com/courses-ionio/help/discussions/1405) |Εμπρόθεσμο παραδοτέο/ εισαγωγή των Wii U και Οculus Rift σε slides και timeline pull request προς την forked ιστοσελίδα του οργανισμού 9/10 |
 | 6 | [Κατασκευή του βιβλίου Α](#Κατασκευή-του-βιβλίου-Α) |[Link Discussions]() | |
 | 7 | [Συμμετοχικό περιεχόμενο Β1](#Συμμετοχικό-περιεχόμενο-Β1) |[Link Discussions]() | |
 | 8 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |[Link Discussions]() | |
@@ -60,9 +60,6 @@
 
 
 
-
-
-
 # Συμμετοχικό περιεχόμενο A2
 
 Για το συμμετοχικό περιεχόμενο A2 πρόσθεσα στο στις κονσόλες το Wii U και στην εικονική πραγματικότητα το Oculus Rift στο χρονολόγιο. Στις διαφάνειες πρόσθεσα το Wii U στο κεφάλαιο με τις τεχνολογίες και το Oculus Rift στο κεφάλαιο με τους τρόπους διάδρασης.
@@ -73,6 +70,8 @@
 |[Slides Oculus Rift](https://github.com/p19papa4/site/blob/2019114/_slides/styles.md) | [Slides Oculus Rift](https://p19papa4.netlify.app/slides/styles/) | [Slides Oculus Rift](https://oroseira2022.netlify.app/slides/styles/) |
 |[Timeline Wii U](https://github.com/p19papa4/site/blob/2019114/_timeline/consoles.md) | [Timeline Wii U](https://p19papa4.netlify.app/timeline/consoles/) | [Timeline Wii U](https://oroseira2022.netlify.app/timeline/consoles/) |
 |[Slides Wii U](https://github.com/p19papa4/site/blob/2019114/_slides/technology.md) | [Slides Wii U](https://p19papa4.netlify.app/slides/technology/) | [Slides Wii U](https://oroseira2022.netlify.app/slides/technology/) |
+
+Το αντίστοιχο [pull request](https://github.com/Oroseira/site/pull/5)
 
 # Κατασκευή του βιβλίου Α
 
@@ -97,7 +96,7 @@
 | 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories | :heavy_check_mark: | :heavy_check_mark: |
 | 3 | Xerox Star User Interface (1982) 1 of 2 | :heavy_check_mark: | :heavy_check_mark: |
 | 4 | Alto System Project: Larry Tesler demonstration of Gypsy | :heavy_check_mark: | :heavy_check_mark: |
-| 5 |  | :heavy_check_mark: | :heavy_check_mark: |
+| 5 | Alan Kay: Doing with Images Makes Symbols (Full Version) | :heavy_check_mark: | :heavy_check_mark: |
 | 6 |  | :heavy_check_mark: | :heavy_check_mark: |
 | 7 |  | :heavy_check_mark: | :heavy_check_mark: |
 | 8 |  | :heavy_check_mark: | :heavy_check_mark: |
