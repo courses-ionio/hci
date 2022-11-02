@@ -15,4 +15,6 @@
 | 12 | Τελική αναφορά* | | |
 
 
-https://asciinema.org/a/534008
+<a href="https://asciinema.org/a/534008"><img src="https://asciinema.org/a/534008.png" width="500"/></a>
+
+
