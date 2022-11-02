@@ -27,10 +27,13 @@
 <br>
 
 # [Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1033)
-Στο 2ο παραδοτέο μας ανατέθηκε να δείξουμε την εγκατάσταση του λειτουργικού συστήματος Arch Linux μέσω των εργαλείων neofetch και journalctl. Το Arch εγκαταστάθηκε με ευκολία στο laptop μου και σκοπεύω να το χρησιμοποιώ ως daily driver από δω και πέρα.
+Στο 2ο παραδοτέο μας ανατέθηκε να δείξουμε την εγκατάσταση του λειτουργικού συστήματος Arch Linux μέσω των εργαλείων `neofetch` και `journalctl`. Το Arch εγκαταστάθηκε με ευκολία στο laptop μου και σκοπεύω να το χρησιμοποιώ ως daily driver από δω και πέρα.
+[![asciicast](https://asciinema.org/a/527872.svg)](https://asciinema.org/a/527872)
 
 # [Παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1161)
 Για την τρίτη εβδομάδα έπρεπε να ολοκληρώσουμε το πρώτο παραδοτέο για την [ιστοσελίδα του βιβλίου του μαθήματος](https://p19lith-pibook.netlify.app/). Πιο συγκεκριμένα έπρεπε να κάνουμε δύο δικές μας προσθήκες, σχετικές με το αντικείμενο του HCI, αντλώντας πληροφορίες από την [εξής](http://toastytech.com/guis/index.html) ιστοσελίδα. Οι δικές μου προσθήκες ήταν το [Microsoft mouse](https://p19lith-pibook.netlify.app/gallery/microsoft-mouse/) και το γραφικό περιβάλλον [HP NewWave](https://p19lith-pibook.netlify.app/gallery/hp-newwave/)
+![Firefox_Screenshot_2022-11-02T10-21-30 273Z](https://user-images.githubusercontent.com/77148351/199465921-0011497c-89c0-400c-b73e-68cdf0f227f1.png)
+![Firefox_Screenshot_2022-11-02T10-21-44 259Z](https://user-images.githubusercontent.com/77148351/199465947-e0980631-eb8f-4ad4-a4af-d5bfe8cc19d7.png)
 
 # [Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1302)
 Για το τέταρτο παραδοτέο επέλεξα από τις ασκήσεις του warmup τα [wttr](https://github.com/chubin/wttr.in) και youtube-dl/mpv.
@@ -38,5 +41,6 @@
 Με το wttr έδειξα τον καιρό στην Κέρκυρα και την Αθήνα.
 [![asciicast](https://asciinema.org/a/532480.svg)](https://asciinema.org/a/532480)
 
-Με τα  youtube-dl κατέβασα ένα μουσικό κομμάτι και στη συνέχεια με το mpv έκανα αναπαραγωγή του συγκεκριμένου κομματιού μέσω του τερματικού
-<br/>[![asciicast](https://asciinema.org/a/532477.svg)](https://asciinema.org/a/532477)
+Με τα  youtube-dl κατέβασα ένα μουσικό κομμάτι και στη συνέχεια με το mpv έκανα αναπαραγωγή του μέσω του τερματικού
+<br/>
+[![asciicast](https://asciinema.org/a/532477.svg)](https://asciinema.org/a/532477)
