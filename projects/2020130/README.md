@@ -31,6 +31,8 @@
 
 [Journalctl -b](https://asciinema.org/a/529033)
 [neofetch](https://asciinema.org/a/529138)
+<!-- Images -->
+![neofetch gif](https://asciinema.org/a/529138)
 <br>
 <h2>Παραδοτέο 3ο:</h2>
 Σε αυτό το παραδοτέο ανέβασα και έκανα pull request τα αρχεία md και τις εικόνες στο brunch του Organisation
