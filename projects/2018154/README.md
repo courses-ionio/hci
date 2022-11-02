@@ -75,9 +75,9 @@ Netlify links:
 
 ## ΠΑΡΑΔΟΤΕΟ 4 | Ασκήσεις γραμμής εντολών (warm up)
 
-Στο 4ο παραδοτέο έπρεπε να γίνει η εγκατάσταση του λογισμικού σε αληθινό περιβάλλον ([η οποία είχε γίνει ήδη](https://github.com/PavTsol/hci/edit/2018154/projects/2018154/README.md#παραδοτεο-2--arch-linux-installation)) και να εκτελεστούν κάποιες από τις ασκήσεις γραμμής εντολών "για ζέσταμα" ([warm up](https://github.com/epidrome/dokey#warmup)) και όχι μόνο. Επίσης συστήθηκε και η εγκατάσταση κάποιου πολύ απλού window manager όπου εγώ επέλεξα τον [dwm](https://dwm.suckless.org) (Dynamic Window Manager) από την ομάδα suckless. 
+Στο 4ο παραδοτέο έπρεπε να γίνει η εγκατάσταση του λογισμικού σε αληθινό περιβάλλον ([η οποία είχε γίνει ήδη](https://github.com/PavTsol/hci/blob/2018154/projects/2018154/README.md#παραδοτεο-2--arch-linux-installation)) και να εκτελεστούν κάποιες από τις ασκήσεις γραμμής εντολών "για ζέσταμα" ([warm up](https://github.com/epidrome/dokey#warmup)) και όχι μόνο. Επίσης συστήθηκε και η εγκατάσταση κάποιου πολύ απλού window manager όπου εγώ επέλεξα τον [dwm](https://dwm.suckless.org) (Dynamic Window Manager) από την ομάδα suckless. 
 
-Οι ασκήσεις που επέλεξα να πραγματοποιήσω ήταν απλές αλλά χρησιμοποιούνται καθημερινά όπως αναφέρω και στην [εισαγωγή](https://github.com/PavTsol/hci/edit/2018154/projects/2018154/README.md#παραδοτεο-1--εισαγωγή) μου.
+Οι ασκήσεις που επέλεξα να πραγματοποιήσω ήταν απλές αλλά χρησιμοποιούνται καθημερινά όπως αναφέρω και στην [εισαγωγή](https://github.com/PavTsol/hci/blob/2018154/projects/2018154/README.md#παραδοτεο-1--εισαγωγή) μου.
 
 Παρακάτω βρίσκονται τα asciinema links για τις ασκήσεις γραμμής εντολών που κατέγραψα.
  - [Download a song in mp3 format](https://asciinema.org/a/534354)
