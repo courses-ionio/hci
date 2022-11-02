@@ -2,6 +2,8 @@
 
 Ονοματεπώνυμο: Παύλος Τσολακίδης
 
+Organization: [Millennials-2](https://github.com/Millennials-2)
+
 ΑΜ: 2018154
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
@@ -73,7 +75,18 @@ Netlify links:
 
 ## ΠΑΡΑΔΟΤΕΟ 4 | Ασκήσεις γραμμής εντολών (warm up)
 
+Στο 4ο παραδοτέο έπρεπε να γίνει η εγκατάσταση του λογισμικού σε αληθινό περιβάλλον ([η οποία είχε γίνει ήδη](https://github.com/PavTsol/hci/edit/2018154/projects/2018154/README.md#παραδοτεο-2--arch-linux-installation)) και να εκτελεστούν κάποιες από τις ασκήσεις γραμμής εντολών "για ζέσταμα" ([warm up](https://github.com/epidrome/dokey#warmup)) και όχι μόνο. Επίσης συστήθηκε και η εγκατάσταση κάποιου πολύ απλού window manager όπου εγώ επέλεξα τον [dwm](https://dwm.suckless.org) (Dynamic Window Manager) από την ομάδα suckless. 
 
+Οι ασκήσεις που επέλεξα να πραγματοποιήσω ήταν απλές αλλά χρησιμοποιούνται καθημερινά όπως αναφέρω και στην [εισαγωγή](https://github.com/PavTsol/hci/edit/2018154/projects/2018154/README.md#παραδοτεο-1--εισαγωγή) μου.
+
+Παρακάτω βρίσκονται τα asciinema links για τις ασκήσεις γραμμής εντολών που κατέγραψα.
+ - [Download a song in mp3 format](https://asciinema.org/a/534354)
+ - [Check the weather](https://asciinema.org/a/534356)
+ - [Track my time with a simple journal](https://asciinema.org/a/534365)
+ - [Become productive with a todo list](https://asciinema.org/a/534363)
+ - [Animation in ASCII art (asciiquarium)](https://asciinema.org/a/534364)
+
+Όλες αυτές οι ασκήσεις ήταν ενδιαφέρον για τον λόγο ότι εξοικονομούν χρόνο αλλά είναι και αποτελεσματικές. Με αυτόν τον τρόπο μέσω ενός terminal μπορείς να κάνεις και δεις πολλά πράγματα γρήγορα και εύκολα τα οποία συμβάλλουν σε μια πιο ευχάριστη καθημερινότητα. Στην συνέχεια θα ήθελα να πραγματοποιήσω και άλλες ασκήσεις γραμμής εντολών αλλά και να εξερευνήσω την ευχρηστία του window manager που διάλεξα.
 
 ## ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό περιεχόμενο-Α2
 
