@@ -39,7 +39,7 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 Για αυτήν την αλλαγή έκανα edit το αρχείο .bashrc και άλλαξα την γραμμή PS1 με την παρακάτω επεξεργασία:
 
      PS1='\e[40;1;37m-(2018154)-(\e[40;1;35m\u\e[40;1;37m@\e[40;1;34m\h\e[40;1;37m)-\$ '
-
+ - Credits to [AlxiKan](https://github.com/AlxiKan/hci/tree/2016072/projects/2016072#αλλαγή-του-prompt-στο-αμ-μου)
 ### Εκτέλεση εντολών
 Κάνοντας record του τερματικού χρησιμοποιώντας το asciinema εκτέλεσα τις εντολές journalctl -b και neofetch όπου δείχνουν το boot log και system info αντίστοιχα.
 
