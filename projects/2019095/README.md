@@ -48,7 +48,7 @@
 1.  εγκατάσταση και επεξεργασία του fish shell [![asciicast](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr.svg)](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr)
 2.  εξοικείωση με το wttr [![asciicast](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M.svg)](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M)
 
-[η αναφορά μου](https://github.com/Angeloth1/hci/tree/2019095/projects/2019095)
+
 
 ## TEAM 
 
