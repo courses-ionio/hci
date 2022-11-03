@@ -57,3 +57,17 @@ Netlify links:
 
 - [Yazio](https://p18stef.netlify.app//gallery/yazio/)
 - [MyFitnessPal](https://p18stef.netlify.app//gallery/my-fitness-pal/)
+
+## ΠΑΡΑΔΟΤΕΟ 4-Άσκηση γραμμής εντολών (warm up cli)
+
+ Στο 4ο παραδοτέο καλούμαστε να εκτελέσουμε συγκεκριμένες εντολές σε πραγματικό υλικό arch linux. Οι εντολές οι οποίες επέλεξα βασίζονται σε βασικές λειτουργίες τις καθημερινότητας. Για το record επέλεξα την εφαρμογή του asciinema εφόσον είναι εύκολη και κατανοητή στην χρήση. 
+ 
+ asciinema links:
+ 
+ -[mp3 download](https://asciinema.org/a/JL2vLdh5q7ys0J8OZAB8w2xTG)
+ 
+ -[weather check](https://asciinema.org/a/sIXGal550XvTuXcdzqonzG2AF)
+ 
+ -[ create a task list](https://asciinema.org/a/L77JIRjeG0YXsnUksvuv476T8)
+ 
+ Από την εκτέλεση των συγκεκριμένων εντολών κατάλαβα πως το λειτουργικό σύστημα του linux προσφέρει πολλές δυνατότητες με εύκολο και αποδοτικό τρόπο. Στην συνέχεια των παραδοτέων θα εκτελέσω και θα εξερευνήσω και άλλες ενδιαφέρουσες εντολές.
