@@ -12,7 +12,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1398) | |
 | 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [φωτογραφια1](https://github.com/petrakhh/images/blob/master/PSP-3000-Silver-thumb.jpeg),[φωτογραφία2](https://github.com/petrakhh/images/blob/master/motorola-aura_front_red.jpeg)| |
 | 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
