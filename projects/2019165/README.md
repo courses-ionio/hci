@@ -62,6 +62,17 @@ Link για το [journalctl -b](https://asciinema.org/a/fq5aidyZvehyq8n6Oh1oKod
 ![IBM SIMON](https://github.com/Alessenia/Images-for-Report/blob/main/c8413431-3b1c-42d1-9647-1ab4c7ba6801.png)
 ![Wii Console](https://github.com/Alessenia/Images-for-Report/blob/main/dims.jpg)
 
+# Tα αρχεία .md που προστέθηκαν στο _gallery του Οργανισμού
+[IBM-Simon-Personal-Calculator.md](https://github.com/Cat-a-strophe/_gallery/blob/master/IBM-Simon-Personal-Calculator.md) &
+[wii-console.md](https://github.com/Cat-a-strophe/_gallery/blob/master/wii-console.md)
+
+# Oι εικόνες κανονικού μεγέθους που προστέθηκαν στο images του Οργανισμού
+[IBM-Simon-Personal-Communicator.png](https://github.com/Cat-a-strophe/images/blob/master/IBM-Simon-Personal-Communicator.png)
+[wii-console.jpg](https://github.com/Cat-a-strophe/images/blob/master/wii-console.jpg)
+
+# Οι εικόνες σε thumb (160x140px)
+[IBM-Simon-Personal-Communicator-thumb.png](https://github.com/Cat-a-strophe/images/blob/master/IBM-Simon-Personal-Communicator-thumb.png)
+[wii-console-thumb.jpg](https://github.com/Cat-a-strophe/images/blob/master/wii-console-thumb.jpg)
   
 Το επόμενο ζητούμενο του παραδοτέου ήταν η δημιουργία του site της ομάδας μέσω του netlify.Για την υλοποίηση αυτού του ζητούμενου έγινε χρήση της γραμμής εντολών ώστε να συνδεθεί ο λογαριασμός του οργανισμού μας με το netlify.
   
