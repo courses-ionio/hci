@@ -63,17 +63,17 @@ Link για το [journalctl -b](https://asciinema.org/a/fq5aidyZvehyq8n6Oh1oKod
 ![Wii Console](https://github.com/Alessenia/Images-for-Report/blob/main/dims.jpg)
 
 ### Tα αρχεία .md που προστέθηκαν στο _gallery του Οργανισμού
-#### [IBM-Simon-Personal-Calculator.md](https://github.com/Cat-a-strophe/_gallery/blob/master/IBM-Simon-Personal-Calculator.md) &
+#### [IBM-Simon-Personal-Calculator.md](https://github.com/Cat-a-strophe/_gallery/blob/master/IBM-Simon-Personal-Calculator.md)
+&
 #### [wii-console.md](https://github.com/Cat-a-strophe/_gallery/blob/master/wii-console.md)
 
-# Oι εικόνες κανονικού μεγέθους που προστέθηκαν στο images του Οργανισμού
-[IBM-Simon-Personal-Communicator.png](https://github.com/Cat-a-strophe/images/blob/master/IBM-Simon-Personal-Communicator.png)
+### Oι εικόνες κανονικού μεγέθους που προστέθηκαν στο images του Οργανισμού
+#### [IBM-Simon-Personal-Communicator.png](https://github.com/Cat-a-strophe/images/blob/master/IBM-Simon-Personal-Communicator.png)
+#### [wii-console.jpg](https://github.com/Cat-a-strophe/images/blob/master/wii-console.jpg)
 
-[wii-console.jpg](https://github.com/Cat-a-strophe/images/blob/master/wii-console.jpg)
-
-# Οι εικόνες σε thumb (160x140px)
-[IBM-Simon-Personal-Communicator-thumb.png](https://github.com/Cat-a-strophe/images/blob/master/IBM-Simon-Personal-Communicator-thumb.png)
-[wii-console-thumb.jpg](https://github.com/Cat-a-strophe/images/blob/master/wii-console-thumb.jpg)
+### Οι εικόνες σε thumb (160x140px)
+#### [IBM-Simon-Personal-Communicator-thumb.png](https://github.com/Cat-a-strophe/images/blob/master/IBM-Simon-Personal-Communicator-thumb.png)
+#### [wii-console-thumb.jpg](https://github.com/Cat-a-strophe/images/blob/master/wii-console-thumb.jpg)
   
 Το επόμενο ζητούμενο του παραδοτέου ήταν η δημιουργία του site της ομάδας μέσω του netlify.Για την υλοποίηση αυτού του ζητούμενου έγινε χρήση της γραμμής εντολών ώστε να συνδεθεί ο λογαριασμός του οργανισμού μας με το netlify.
   
