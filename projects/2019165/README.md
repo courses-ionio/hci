@@ -48,9 +48,9 @@ Git Hub, η απόκτηση δεξιοτήτων προγραμματισμού
 
 <p>To δεύτερο παραδοτέο αφορά την εγκατάσταση των Arch linux σε υλικό. H  εγκατάσταση πραγματοποιήθηκε με τη χρήση δύο usb,το πρώτο έγινε bootable μέσω της εφαρμογής rufus όπου και περάστηκε το live iso.Το δεύτερο usb ήταν απαραίτητο για να γίνει η εγκατάσταση των Arch Linux.Με την επιλογή των bios να εκκινείται το σύστημα μέσω του usb με τα iso έγινε η εγκατάσταση στο δεύτερο usb.Έτσι επιτεύχθηκε ο στόχος αυτής της εβδομάδας και έχω πλέον στην διάθεση μου ένα φορητό μέσο που περιέχει το ζητούμενο λογισμικό.Μετά την εγκατάσταση εκτελέστηκαν οι εντολές neofetch και journalctl -b.</p>
 
-Link για το [neofetch](https://asciinema.org/a/PdTY0R150xP3dHyd2T91sjMV8)
+Link για το [neofetch](https://asciinema.org/a/1ZmLAnmFQ6LqWNq7DJMnYwXrG)
 
-Link για το [journalctl -b](https://asciinema.org/a/fq5aidyZvehyq8n6Oh1oKodzm)
+Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlDkj)
 <br>
 
 # Παραδοτέο 3 - Συμμετοχικό Περιεχόμεο Α1
