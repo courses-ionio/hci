@@ -80,8 +80,8 @@ Link για το [journalctl -b](https://asciinema.org/a/fq5aidyZvehyq8n6Oh1oKod
 ### Το [site της ομάδας μας](https://lucky-llama-173f38.netlify.app/).
 
 ### Οι προσθήκες μου στο site :
-#### - [wii console](https://lucky-llama-173f38.netlify.app/gallery/wii-console/)
-#### - [IBM Simon](https://lucky-llama-173f38.netlify.app/gallery/ibm-simon-personal-calculator/) 
+####  [wii console](https://lucky-llama-173f38.netlify.app/gallery/wii-console/)
+####  [IBM Simon](https://lucky-llama-173f38.netlify.app/gallery/ibm-simon-personal-calculator/) 
 
 
 <br>
