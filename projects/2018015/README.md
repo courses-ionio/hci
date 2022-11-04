@@ -45,8 +45,10 @@
 
 
 ## 👽Παραδοτέο 3
-https://636500851b8843165e819f13--idyllic-speculoos-2a786b.netlify.app/gallery/oakley/
 
-https://cosmic-entremet-f6cbd2.netlify.app/gallery/walkman/
+Link για την προβολή του **[1ου περιεχομένου](https://636500851b8843165e819f13--idyllic-speculoos-2a786b.netlify.app/gallery/oakley/)**.
+
+Link για την προβολή του **[2ου περιεχομένου](https://cosmic-entremet-f6cbd2.netlify.app/gallery/walkman/)**.
+
 
 
