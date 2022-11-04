@@ -1,6 +1,8 @@
 ### Ονοματεπώνυμο: Bαδέτση Αλεξάνδρα
 ### Αριθμό μητρώου: Π2019165
 ### Η ομάδα μου: [Cat-a-strophe](https://github.com/Cat-a-strophe)
+### Edpuzzle λογαριασμός: [p19vade P2019165](https://edpuzzle.com/profile)
+### [Github Profile](https://github.com/Alessenia)
 
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
