@@ -61,3 +61,5 @@ Link Asciinema:
 | 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories |  :+1: |  :+1: |
 | 3 | Xerox Star User Interface (1982) 1 of 2  |  :+1: | :+1: |
 | 4 | Alto System Project: Larry Tesler demonstration of Gypsy  |  :+1: | :+1: |
+| 5 | Alan Kay: Doing with Images Makes Symbols (Full Version)  |  :+1: | :+1: |
+
