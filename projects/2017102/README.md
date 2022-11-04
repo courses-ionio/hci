@@ -12,7 +12,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Παραδοτέο 1ο](https://github.com/courses-ionio/help/discussions/869) |Πιστεύω πως ολοκλήρωσα σωστά το εισαγωγικό κομμάτι του μαθήματος |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Παραδοτέο 2ο](https://github.com/courses-ionio/help/discussions/1047) | Θεωρώ πως εκπλήρωσα σωστά το παραδοτέο αυτής της εβδομάδας |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Παραδοτέο 3ο](https://github.com/courses-ionio/help/discussions/1267) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Παραδοτέο 4ο](https://github.com/courses-ionio/help/discussions/1345)| |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -42,8 +42,7 @@
 
 Νeofetch link: https://asciinema.org/a/j1BT2KaXoIjCs2W1kIFbkcswM
 <a href="https://asciinema.org/a/j1BT2KaXoIjCs2W1kIFbkcswM" target="_blank"><img src="https://asciinema.org/a/j1BT2KaXoIjCs2W1kIFbkcswM.svg" /></a>
-
-
+##
 Journalctl -b link: https://asciinema.org/a/QUa11LvUnV44zy5WRoFVbO1Zt
 <a href="https://asciinema.org/a/QUa11LvUnV44zy5WRoFVbO1Zt" target="_blank"><img src="https://asciinema.org/a/QUa11LvUnV44zy5WRoFVbO1Zt.svg" /></a>
 
@@ -59,7 +58,9 @@ Journalctl -b link: https://asciinema.org/a/QUa11LvUnV44zy5WRoFVbO1Zt
 
 ## Παραδοτέο 4o
 - Αυτή την εβδομάδα μας ζητήθηκε να κάνουμε κάποιες ασκήσεις από το warm-up. Οι σχετικοί σύνδεσμοι είναι οι ακόλουθοι για τις εντολές.
-- [wtrr.in]()
+- [wtrr.in](https://asciinema.org/a/BzohKupEqUOw0Mv8S9w01E9lk)
+<a href="https://asciinema.org/a/BzohKupEqUOw0Mv8S9w01E9lk" target="_blank"><img src="https://asciinema.org/a/BzohKupEqUOw0Mv8S9w01E9lk.svg" /></a>
+##
 - [youtube-dl](https://asciinema.org/a/acDYk5wiqOp3tvkYeuq327vIq)
 <a href="https://asciinema.org/a/acDYk5wiqOp3tvkYeuq327vIq" target="_blank"><img src="https://asciinema.org/a/acDYk5wiqOp3tvkYeuq327vIq.svg" /></a>
 
