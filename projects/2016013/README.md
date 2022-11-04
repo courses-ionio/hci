@@ -28,3 +28,7 @@
 
 [Neofetch](https://asciinema.org/a/rfALTSs52Ei2OFKO6NO8TYTMM)
 [Journalctl](https://asciinema.org/a/5n6LjYECtlpeWYxL93p1MqldS)
+
+
+# Παραδοτέο 4
+[warmup1](https://asciinema.org/a/ebVQeDUVrBKOJnuBjStpX9ar7)
