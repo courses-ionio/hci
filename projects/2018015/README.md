@@ -47,4 +47,6 @@
 ## 👽Παραδοτέο 3
 https://636500851b8843165e819f13--idyllic-speculoos-2a786b.netlify.app/gallery/oakley/
 
+https://cosmic-entremet-f6cbd2.netlify.app/gallery/walkman/
+
 
