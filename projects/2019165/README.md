@@ -77,11 +77,11 @@ Link για το [journalctl -b](https://asciinema.org/a/fq5aidyZvehyq8n6Oh1oKod
   
 Το επόμενο ζητούμενο του παραδοτέου ήταν η δημιουργία του site της ομάδας μέσω του netlify.Για την υλοποίηση αυτού του ζητούμενου έγινε χρήση της γραμμής εντολών ώστε να συνδεθεί ο λογαριασμός του οργανισμού μας με το netlify.
   
-Το [site της ομάδας μας](https://lucky-llama-173f38.netlify.app/).
+### Το [site της ομάδας μας](https://lucky-llama-173f38.netlify.app/).
 
-Οι προσθήκες μου στο site :
-- [wii console](https://lucky-llama-173f38.netlify.app/gallery/wii-console/)
-- [IBM Simon](https://lucky-llama-173f38.netlify.app/gallery/ibm-simon-personal-calculator/) 
+### Οι προσθήκες μου στο site :
+#### - [wii console](https://lucky-llama-173f38.netlify.app/gallery/wii-console/)
+#### - [IBM Simon](https://lucky-llama-173f38.netlify.app/gallery/ibm-simon-personal-calculator/) 
 
 
 <br>
