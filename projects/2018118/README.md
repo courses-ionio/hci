@@ -11,7 +11,7 @@
 | 2 | [Άσκηση γραμμής εντολών (arch linux install on VM)](#παραδοτέο-2) | [Συζήτηση-Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1429) | |
 | 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3)| | |
 | 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -41,5 +41,11 @@
 | Gallery Java | [java.md](https://github.com/Drexion/_gallery/blob/master/java.md) | [Java Summary](https://p2018118-pibook.netlify.app/gallery/java/) |
 | Images Java | [Full Quality](https://github.com/Drexion/images/blob/master/java.png) + [Thumbnail](https://github.com/Drexion/images/blob/master/java-thumb.png) |
 
-# Παραδοτέο 4
+# Παραδοτέο 5
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Α2 προχώρησα στην υλοποίηση των slides και του timeline, όπου η γενικότερη θεματολογία είναι η εξέλιξη της γλώσσας προγραμματισμού. Aναφέρομαι σε παλαιότερες προγραμματιστικές γλώσσες καθώς και στην δημουργία των πρώτων υπολογιστών. Ως διαδικασία ήταν πιο εύκολη από το Α1 εφόσον πλέον έχω κατανοήσει τον τρόπο λειτουργίας του gituhb και αλληλεπίδρασης του με το Netlify, κάτι που έκανε την διαδικασία αρκετά πιο ομαλή και εύκολη.
 
+
+| Deliverables |  Netlify Link | Αποθετήριο |
+| --- | --- | --- |
+| Διαφάνειες | [Netlify](https://p2018118-pibook.netlify.app/slides/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_slides/programming-evolution.md) |
+| Χρονολόγιο | [Netlify](https://p2018118-pibook.netlify.app/timeline/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_timeline/programming-evolution.md) |
