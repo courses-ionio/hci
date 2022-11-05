@@ -6,8 +6,8 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Discussion](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609), [Organization](https://github.com/Second-Time-Is-The-Charm/Main), [Show & tell](https://github.com/courses-ionio/help/discussions/823)| |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Neofetch](https://asciinema.org/a/527935) ,[journalctl -b](https://asciinema.org/a/527939), [Show and tell](https://github.com/courses-ionio/help/discussions/1051)| |
 | 3 | Συμμετοχικό περιεχόμενο A1 | [discussion](https://github.com/courses-ionio/help/discussions/1164), [my site](https://voltmaister-site1.netlify.app/), [pull request .md files](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/1), [pull request images + thumb](https://github.com/Second-Time-Is-The-Charm/images/pull/1), [organization site vision](https://stitc-site.netlify.app/gallery/vision/), [organization site amigaos](https://stitc-site.netlify.app/gallery/amigaos/)| |
-| 4 | Άσκηση γραμμής εντολών | warm up cli | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 4 | Άσκηση γραμμής εντολών | [discussion](https://github.com/courses-ionio/help/discussions/1346), [googler](https://asciinema.org/a/533238)| |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[discussion](https://github.com/courses-ionio/help/discussions/new?category=show-and-tell)| |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
