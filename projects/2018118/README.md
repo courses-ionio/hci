@@ -2,7 +2,7 @@
 
 ### Ονοματεπώνυμο: ΒΑΡΟΤΣΗΣ ΑΓΓΕΛΟΣ
 ### Αριθμός Μητρώου: Π2018118
-### GitHub Profile: https://github.com/Drexion
+### Github Profile: https://github.com/Drexion
 ### Github Ομάδας: https://github.com/Millennial2018/Our-Team/blob/main/README.md
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
