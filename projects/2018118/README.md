@@ -49,3 +49,8 @@
 | --- | --- | --- |
 | Διαφάνειες | [Netlify](https://p2018118-pibook.netlify.app/slides/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_slides/programming-evolution.md) |
 | Χρονολόγιο | [Netlify](https://p2018118-pibook.netlify.app/timeline/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_timeline/programming-evolution.md) |
+
+
+### Σχετικά με την συνεργασία και ομαδικότητα, σας παραθέτω παρακάτω Links για απαντήσεις-διορθώσεις-βελτιώσεις-σχόλια.
+
+https://github.com/courses-ionio/help/discussions/1430
