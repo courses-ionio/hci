@@ -50,6 +50,8 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 ### Neofetch Customization/Configuration
 Η αλλαγή του logo που εμφανίζεται στο neofetch έγινε με την επεξεργασία του αρχείου config.conf το οποίο βρίσκεται στο directory /home/$USER/.config/neofetch όπου $USER είναι το user name του καθενός(π.χ. pav στην περίπτωση μου). Για την συγκεκριμένη αλλαγή έγινε η επεξεργασία του τομέα Ascii Distro και συγκεκριμένα στην γραμμή ascii_distro="Arch_old". Οι αλλαγές των χρωμάτων έγινε με την επεξεργασία στον τομέα Text Colors και συγκεκριμένα άλλαξα την γραμμή colors=(4 7 2 1 1 6) όπου η σειρά των αριθμών είναι: title, @, underline, subtitle, colon/spacing, info. Οι [κωδικοί](https://en.wikipedia.org/wiki/ANSI_escape_code#8-bit) κάθε χρώματος.
 
+![color-codes](https://github.com/PavTsol/images/blob/test/color-codes.png)
+
 *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
 
 ## ΠΑΡΑΔΟΤΕΟ 3 | Συμμετοχικό περιεχόμενο - Α1
