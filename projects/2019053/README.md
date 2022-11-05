@@ -165,12 +165,16 @@
 
 <br />
 
+&nbsp;&nbsp;&nbsp;&nbsp;Το Atom το ένταξα στα slides Εργαλεία και Τεχνικές και στο timeline Επεξεργασία Κειμένου. Το KDE το ένταξα στα slides Γραφική διεπαφή χρήστη και δημιούργησα ένα νέο timeline με όνομα Περιβάλλοντα Επιφάνειας Εργασίας όπου το πρόσθεσα εκεί. Ο λόγος της δημιουργίας αυτού του νέου timeline ήταν πως δεν υπήρχε κάποιο που να ταίριαζε στο λογισμικό που επέλεξα και σκέφτηκα πως ένα τέτοιο timeline θα αποτελούσε σημαντική ενσωμάτωση στην ιστοσελίδα.
 
+<br />
 
-
-
-
-
+| Netlify Links | Pull Requests |
+| --- | --- |
+| [Slides Atom](https://aimiliospavlidis2001-site-hci-1.netlify.app/slides/tools/) | [Pull Request στο site](https://github.com/TEAM11234/site/pull/1) |
+| [Slides KDE](https://aimiliospavlidis2001-site-hci-1.netlify.app/slides/gui/) | |
+| [Timeline Atom](https://aimiliospavlidis2001-site-hci-1.netlify.app/timeline/text-editing/) | |
+| [Timeline KDE](https://aimiliospavlidis2001-site-hci-1.netlify.app/timeline/desktop-environments/) | |
 
 
 <br /><br />
@@ -181,9 +185,10 @@
 
 <br />
 
-| Παροχή βοήθειας Discussions | Δικές μου αναρτήσεις Discussions | Discussions Ομάδας |
-| --- | --- | --- |
-| [Βοήθεια συμφοιτητή 1](https://github.com/courses-ionio/help/discussions/1069) | [Ερώτηση για νέο fork (3ο παραδοτέο)](https://github.com/courses-ionio/help/discussions/1156) | [Ανάρτηση αναλυτικού guide (3ο παραδοτέο)](https://github.com/TEAM11234/help/discussions/1) |
+| Παροχή βοήθειας Discussions | Δικές μου αναρτήσεις Discussions | Discussions Ομάδας | Σημαντικοί σχολιασμοί ομάδα |
+| --- | --- | --- | --- |
+| [Βοήθεια συμφοιτητή 1](https://github.com/courses-ionio/help/discussions/1069) | [Ερώτηση για νέο fork (3ο παραδοτέο)](https://github.com/courses-ionio/help/discussions/1156) | [Ανάρτηση αναλυτικού guide (3ο παραδοτέο)](https://github.com/TEAM11234/help/discussions/1) | [Σχολιασμός Pull Request για images 3ου παραδοτέου στον @vasiliskampani](https://github.com/TEAM11234/images/pull/2) |
+| | | | [Σχολιασμός Pull Request για gallery 3ου παραδοτέου στον @vasiliskampani](https://github.com/TEAM11234/_gallery/pull/2) |
 
 
 <br /> <br />
