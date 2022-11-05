@@ -8,18 +8,18 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/),αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |   [Συζήτηση](https://github.com/courses-ionio/help/discussions/866), [Ομάδα](https://github.com/Millennials-2/main)| |
-| 2 | Άσκηση γραμμής εντολών (linux install) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1046) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1232) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1410) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
-| 6 | Κατασκευή του βιβλίου Α | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών | | |
-| 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| [1](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-1--εισαγωγή) |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/),αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |   [Συζήτηση](https://github.com/courses-ionio/help/discussions/866), [Ομάδα](https://github.com/Millennials-2/main)| |
+| [2](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-2--arch-linux-installation) | Άσκηση γραμμής εντολών (linux install) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1046) | |
+| [3](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-3--συμμετοχικό-περιεχόμενο-α1) | Συμμετοχικό περιεχόμενο A1 | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1232) | |
+| [4](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-4--ασκήσεις-γραμμής-εντολών-warm-up) | Άσκηση γραμμής εντολών (warm up cli) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1410) | |
+| [5](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-5--συμμετοχικό-περιεχόμενο-α2) | Συμμετοχικό περιεχόμενο A2 | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1450) | |
+| [6]() | Κατασκευή του βιβλίου Α | | |
+| [7]() | Συμμετοχικό περιεχόμενο B1 | | |
+| [8]() | Άσκηση γραμμής εντολών | | |
+| [9]() | Συμμετοχικό περιεχόμενο B2 | | |
+| [10]() | Άσκηση γραμμής εντολών | | |
+| [11]() | Κατασκευή του βιβλίου Β | | |
+| [12]() | Τελική αναφορά* | | |
 
 
 ## ΠΑΡΑΔΟΤΕΟ 1 | Εισαγωγή
@@ -49,7 +49,7 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 ### Neofetch Customization/Configuration
 Η αλλαγή του logo που εμφανίζεται στο neofetch έγινε με την επεξεργασία του αρχείου config.conf το οποίο βρίσκεται στο directory /home/$USER/.config/neofetch όπου $USER είναι το user name του καθενός(π.χ. pav στην περίπτωση μου). Για την συγκεκριμένη αλλαγή έγινε η επεξεργασία του τομέα Ascii Distro και συγκεκριμένα στην γραμμή ascii_distro="Arch_old". Οι αλλαγές των χρωμάτων έγινε με την επεξεργασία στον τομέα Text Colors και συγκεκριμένα άλλαξα την γραμμή colors=(4 7 2 1 1 6) όπου η σειρά των αριθμών είναι: title, @, underline, subtitle, colon/spacing, info. Οι [κωδικοί](https://en.wikipedia.org/wiki/ANSI_escape_code#8-bit) κάθε χρώματος.
 
-## ΠΑΡΑΔΟΤΕΟ 3 | Συμμετοχικό περιεχόμενο-Α1
+## ΠΑΡΑΔΟΤΕΟ 3 | Συμμετοχικό περιεχόμενο - Α1
 
 Στο συγκεκριμένο παραδοτέο έπρεπε να προσθέσω δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα. Μελέτησα προσεκτικά τα αρχεία της ιστοσελίδας του μαθήματος αλλά και πως έχει γίνει το deploy στο netlify. Αρχικά δημιούργησα τα [repos](https://github.com/orgs/Millennials-2/repositories) στο organization μου και τα έκανα fork στον προσωπικό μου λογαριασμό και για test αλλά και για το pull request που έκανα ώστε να συμπεριληφθούν στο site του organization μου. Επιπλέον διέγραψα τα submodules που υπήρχαν στο προσωπικό μου λογαριασμό αλλά και στο organization ως διαχειριστής της ομάδας μου, και πρόσθεσα τα καινούργια στα οποία θα γίνει η επεξεργασία, στην συνέχεια έγινε το deploy της σελίδας netlify του [organization](https://millennials-2.netlify.app) μου αλλά και η [προσωπική](https://pavtsol.netlify.app) μου. Μετά διαμόρφωσα δύο αρχεία `.md` στο repo [_gallery](https://github.com/PavTsol/_gallery) και αναζήτησα τις κατάλληλες φωτογραφίες για τα θέματα που διάλεξα ώστε να τις ανεβάσω στο repo [images](https://github.com/PavTsol/images) και να συνεχίσω στα pull requests για τις προσθήκες μου στα 2 repositories. Τέλος επεξεργάστηκα τα αρχεία [_config.yml](https://github.com/PavTsol/site/blob/organization/_config.yml) και τον προσωπικό μου αλλά και του organization, συγκεκριμένα την σειρά 17 όπου άλλαξα το url στο url των αντίστοιχων netlify deploys. 
 
@@ -88,9 +88,22 @@ Netlify links:
 
 Όλες αυτές οι ασκήσεις ήταν ενδιαφέρον για τον λόγο ότι εξοικονομούν χρόνο αλλά είναι και αποτελεσματικές. Με αυτόν τον τρόπο μέσω ενός terminal μπορείς να κάνεις και δεις πολλά πράγματα γρήγορα και εύκολα τα οποία συμβάλλουν σε μια πιο ευχάριστη καθημερινότητα. Στην συνέχεια θα ήθελα να πραγματοποιήσω και άλλες ασκήσεις γραμμής εντολών αλλά και να εξερευνήσω την ευχρηστία του window manager που διάλεξα.
 
-## ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό περιεχόμενο-Α2
+## ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό περιεχόμενο - Α2
 
+Προς το παρόν πρόσθεσα τις εικόνες μου από το τρίτο παραδοτέο σε ήδη υπάρχοντα σετ από θεματικές διαφάνειες και χρονολόγιο, στην συνέχεια θα ήθελα να φτιάξουμε ένα δικό μας σετ και χρονολόγιο που θα συνδυάζει τις δικές μου εικόνες με άλλα μέλη του organization μου ή/και με εικόνες που ήδη υπάρχουν.
 
+- ###  Microsoft Flight Simulator
+    - Σετ θεματικών διαφανειών: [Βιντεοπαιχνίδια](https://pavtsol.netlify.app/slides/videogames/)
+   
+    - Χρονολόγιο: [Η εξέλιξη των συστημάτων Windows](https://pavtsol.netlify.app/timeline/microsoft/) & [Βιντεοπαιχνίδια](https://pavtsol.netlify.app/timeline/videogames/)
+- ### HoloLens
+   - Σετ θεματικών διαφανειών: [Τεχνολογία](https://pavtsol.netlify.app/slides/technology/)
+  
+   - Χρονολόγιο: [Η εξέλιξη των συστημάτων Windows](https://pavtsol.netlify.app/timeline/microsoft/) & [Εικονική Πραγματικότητα](https://pavtsol.netlify.app/timeline/virtual-reality/)
+   
+ Ένα πρόβλημα που αντιμετώπισα ήταν ότι όταν πρόσθετα το [MSFS](https://pavtsol.netlify.app/gallery/microsoft-flight-simulator/) σε οποιοδήποτε χρονολόγιο, μου εμφάνιζε την σελίδα του αντίστοιχου χρονολογίου κενή. Άνοιξα την αντίστοιχη [ερώτηση](https://github.com/courses-ionio/help/discussions/1425) στο discussions όπου αναφέρω το πρόβλημα πιο ξεκάθαρα και τις δοκιμές που έκανα. Λόγω της πίεσης της προθεσμίας και δεκάδων trial & error ανακάλυψα την [λύση](https://github.com/courses-ionio/help/discussions/1425#discussioncomment-4065195) στην ερώτηση μου. Τελικά έφταιγε το μέγεθος της περιγραφής της εικόνας και έβαλα μόνος μου ένα όριο μεταξύ 60-80 λέξεων όπου το ανέφερα στο organization μου μήπως συναντήσουν το ίδιο πρόβλημα άλλα και σε συμφοιτητές που είδα ότι αντιμετωπίζουν [παρόμοιο πρόβλημα](https://github.com/courses-ionio/help/discussions/1446#discussioncomment-4065367). Αυτό γίνεται ώστε να μπορέσει η σελίδα να αναγνωρίσει το κείμενο και να φορτώσει σωστά χωρίς να υπερβαίνει τις ~15 σειρές και να μην υπάρξει πρόβλημα στην εμφάνιση της σελίδας.
+ 
+ ## ΠΑΡΑΔΟΤΕΟ 6 | Κατασκευή του βιβλίου - Α
 
 ## Συμμετοχή στην τάξη
 
