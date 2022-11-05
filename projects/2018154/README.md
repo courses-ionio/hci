@@ -45,7 +45,6 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 ### Εκτέλεση εντολών
 Κάνοντας record του τερματικού χρησιμοποιώντας το asciinema εκτέλεσα τις εντολές journalctl -b και neofetch όπου δείχνουν το boot log και system info αντίστοιχα.
 
-[Asciinema](https://asciinema.org/a/528538)
 <a href="https://asciinema.org/a/528538" target="_blank"><img src="https://asciinema.org/a/528538.svg" /></a>
 
 ### Neofetch Customization/Configuration
