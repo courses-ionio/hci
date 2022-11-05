@@ -84,5 +84,5 @@ Googler Install:
 Ένα πρόβλημα που αντιμετώπισα είναι πως επειδή τα updates γινόταν στο site και όχι σε κάποιο submodule, υπείχαν conflicts στο .gitmodules, αλλά το πρόβλημα αντιμετωπίστηκε εύκολα μέσω του github.<br/>
 [Λειτουργικά συστήματα](https://stitc-site.netlify.app/slides/os/)<br/>
 [Νέο Χρονολόγιo portable-computers](https://stitc-site.netlify.app/timeline/portable-computers/)<br/>
-[DeskMate](https://stitc-site.netlify.app/slides/gui/)<br/>
+[DeskMate adition](https://stitc-site.netlify.app/slides/gui/)<br/>
 
