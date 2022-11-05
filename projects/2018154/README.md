@@ -51,7 +51,7 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 
 ## ΠΑΡΑΔΟΤΕΟ 3 | Συμμετοχικό περιεχόμενο-Α1
 
-Στο συγκεκριμένο παραδοτέο έπρεπε να προσθέσω δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα. Μελέτησα προσεκτικά τα αρχεία της ιστοσελίδας του μαθήματος αλλά και πως έχει γίνει το deploy στο netlify. Αρχικά δημιούργησα τα [repos](https://github.com/orgs/Millennials-2/repositories) στο organization μου και τα έκανα fork στον προσωπικό μου λογαριασμό και για test αλλά και για το pull request που έκανα ώστε να συμπεριληφθούν στο site του organization μου. Επιπλέον διέγραψα τα submodules που υπήρχαν και πρόσθεσα τα καινούργια στα οποία θα γίνει η επεξεργασία, στην συνέχεια έγινε το deploy της σελίδας netlify του [organization](https://millennials-2.netlify.app) μου αλλά και η [προσωπική](https://pavtsol.netlify.app) μου. Τέλος διαμόρφωσα δύο αρχεία `.md` στο repo [_gallery](https://github.com/PavTsol/_gallery) και αναζήτησα τις κατάλληλες φωτογραφίες για τα θέματα που διάλεξα ώστε να τις ανεβάσω στο repo [images](https://github.com/PavTsol/images) και να συνεχίσω στο pull request.
+Στο συγκεκριμένο παραδοτέο έπρεπε να προσθέσω δύο νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα. Μελέτησα προσεκτικά τα αρχεία της ιστοσελίδας του μαθήματος αλλά και πως έχει γίνει το deploy στο netlify. Αρχικά δημιούργησα τα [repos](https://github.com/orgs/Millennials-2/repositories) στο organization μου και τα έκανα fork στον προσωπικό μου λογαριασμό και για test αλλά και για το pull request που έκανα ώστε να συμπεριληφθούν στο site του organization μου. Επιπλέον διέγραψα τα submodules που υπήρχαν στο προσωπικό μου λογαριασμό αλλά και στο organization ως διαχειριστής της ομάδας μου, και πρόσθεσα τα καινούργια στα οποία θα γίνει η επεξεργασία, στην συνέχεια έγινε το deploy της σελίδας netlify του [organization](https://millennials-2.netlify.app) μου αλλά και η [προσωπική](https://pavtsol.netlify.app) μου. Μετά διαμόρφωσα δύο αρχεία `.md` στο repo [_gallery](https://github.com/PavTsol/_gallery) και αναζήτησα τις κατάλληλες φωτογραφίες για τα θέματα που διάλεξα ώστε να τις ανεβάσω στο repo [images](https://github.com/PavTsol/images) και να συνεχίσω στα pull requests για τις προσθήκες μου στα 2 repositories. Τέλος επεξεργάστηκα τα αρχεία [_config.yml](https://github.com/PavTsol/site/blob/organization/_config.yml) και τον προσωπικό μου αλλά και του organization, συγκεκριμένα την σειρά 17 όπου άλλαξα το url στο url των αντίστοιχων netlify deploys. 
 
 Οι προσθήκες που έγιναν στο ηλεκτρονικό βιβλίο του μαθήματος είναι οι παρακάτω.
 
@@ -94,16 +94,17 @@ Netlify links:
 
 ## Συμμετοχή στην τάξη
 
-| *Question about*               | *Link to answer/contribution* |
-| :----------------------------: | :---------------------------: |
-| [Arch Linux Installation](https://github.com/courses-ionio/help/discussions/1017)   | [Answer](https://github.com/courses-ionio/help/discussions/1017#discussioncomment-3863382) |
-| [Asciinema](https://github.com/courses-ionio/help/discussions/1049)                 | [Answer](https://github.com/courses-ionio/help/discussions/1049#discussioncomment-3884971) |
-| [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1081)              | [Answer](https://github.com/courses-ionio/help/discussions/1081#discussioncomment-3889258) |
-| [SW(Τεχνολογία Λογισμικού)](https://github.com/courses-ionio/help/discussions/1162) | [Answer](https://github.com/courses-ionio/help/discussions/1162#discussioncomment-3937174) |
-| [3ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1166)              | [Answer](https://github.com/courses-ionio/help/discussions/1166#discussioncomment-3937303) |
-| [Edpuzzle Password](https://github.com/courses-ionio/help/discussions/1174)         | [Answer](https://github.com/courses-ionio/help/discussions/1174#discussioncomment-3936904) |
-| [Edpuzzle Password](https://github.com/courses-ionio/help/discussions/1170)         | [Contribution](https://github.com/courses-ionio/help/discussions/1170#discussioncomment-3936905) |
+| *Question about*               | *Link to answer/contribution* | *Date* |
+| :----------------------------: | :---------------------------: | :----: |
+| [Arch Linux Installation](https://github.com/courses-ionio/help/discussions/1017)   | [Answer](https://github.com/courses-ionio/help/discussions/1017#discussioncomment-3863382) | 12th Oct 2022 |
+| [Asciinema](https://github.com/courses-ionio/help/discussions/1049)                 | [Answer](https://github.com/courses-ionio/help/discussions/1049#discussioncomment-3884971) | 15th Oct 2022 |
+| [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1081)              | [Answer](https://github.com/courses-ionio/help/discussions/1081#discussioncomment-3889258) | 16th Oct 2022 |
+| [SW(Τεχνολογία Λογισμικού)](https://github.com/courses-ionio/help/discussions/1162) | [Answer](https://github.com/courses-ionio/help/discussions/1162#discussioncomment-3937174) | 20th Oct 2022 |
+| [3ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1166)              | [Answer](https://github.com/courses-ionio/help/discussions/1166#discussioncomment-3937303) | 20th Oct 2022 |
+| [Edpuzzle Password](https://github.com/courses-ionio/help/discussions/1174)         | [Answer](https://github.com/courses-ionio/help/discussions/1174#discussioncomment-3936904) | 21 Oct 2022   |
+| [Edpuzzle Password](https://github.com/courses-ionio/help/discussions/1170)         | [Contribution](https://github.com/courses-ionio/help/discussions/1170#discussioncomment-3936905) | 21 Oct 2022 |
 
-| *Show and tell* |
-|:---:|
-| [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1021) - [Contribution](https://github.com/courses-ionio/help/discussions/1021#discussioncomment-3936168) |
+| *Show and tell* | *Date* |
+| :--------------:| :----: |
+| [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1021) - [Contribution](https://github.com/courses-ionio/help/discussions/1021#discussioncomment-3936168) | 13th Oct 2022 |
+| [5o Παραδοτέο](https://github.com/courses-ionio/help/discussions/1446) - [Contribution](https://github.com/courses-ionio/help/discussions/1446#discussioncomment-4065367) | 5th Nov 2022  |
