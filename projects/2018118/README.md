@@ -9,7 +9,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση-Παραδοτέο 1](https://github.com/courses-ionio/help/discussions/1314)| |
 | 2 | [Άσκηση γραμμής εντολών (arch linux install on VM)](#παραδοτέο-2) | [Συζήτηση-Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1429) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3)| | |
 | 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -29,4 +29,17 @@
 
 Σας παραθέτω παρακάτω το link για το asciinema:
 [Neofetch-Journalctl](https://asciinema.org/a/m1aQzDNjGlbbH1DVjC72YMvdW)
+
+# Παραδοτέο 3
+
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Α1 ασχολήθηκα με τις γλώσσες προγραματισμού C και Java οι οποίες όσο κοινές είναι λόγω των γενικών προγραμματιστικών ιδιοτήτων τους, τόσο διαφορετικές είναι στην μορφή τους, στον τρόπο λειτουργίας τους και στον προγραμματιστικό στόχο της κάθε μιας. Διαδικαστικά για την ολοκλήρωση του παραδοτέου λοιπόν, ξεκίνησα κάνοντας fork τα απαραίτητα αποθετήρια ενώ στην συνέχεια δυσκολεύτηκα αρκετά κατά την διαδικασία για τα submodules. Το πρόβλημα ήταν ότι προσπαθώντας να κάνω add το forked repository ήταν ήδη ως submodule το original του master, επομένως δεν με άφηνε. Προχώρησα τελικά στην αφαίρεση του submodule και στην επαναπρόσθεση του από το forked repository. Τέλος, βρήκα έφτιαξα και πρόσθεσα τα απαραίτητα αρχεία για την ολοκλήρωση τοου παραδοτέου.
+
+| Περιγραφή | Repository Link | Netlify Link |
+| --- | --- | --- |
+| Gallery C Programming Language | [c-programming-language.md](https://github.com/Drexion/_gallery/blob/master/c-programming-language.md) | [C Programming Language Summary](https://p2018118-pibook.netlify.app/gallery/c-programming-language/) |
+| Images C Programming Language | [Full Quality](https://github.com/Drexion/images/blob/master/c-programming-language.png) + [Thumbnail](https://github.com/Drexion/images/blob/master/c-programming-language-thumb.png) |
+| Gallery Java | [java.md](https://github.com/Drexion/_gallery/blob/master/java.md) | [Java Summary](https://p2018118-pibook.netlify.app/gallery/java/) |
+| Images Java | [Full Quality](https://github.com/Drexion/images/blob/master/java.png) + [Thumbnail](https://github.com/Drexion/images/blob/master/java-thumb.png) |
+
+# Παραδοτέο 4
 
