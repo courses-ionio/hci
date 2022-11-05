@@ -5,9 +5,9 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Εισαγωγή](https://github.com/courses-ionio/help/discussions/889) - [Ομάδα](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609)| |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[neofetch & journalctl -b](https://github.com/courses-ionio/help/discussions/1068) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | [Παραδοτέο](https://github.com/courses-ionio/help/discussions/1179) | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Παραδοτέο 3o](https://github.com/courses-ionio/help/discussions/1179) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[jrnl & youtube-dl](https://github.com/courses-ionio/help/discussions/1370) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Παραδοτέο 5o](https://github.com/courses-ionio/help/discussions/1446) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
