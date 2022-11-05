@@ -6,13 +6,13 @@
 ### Edpuzzle Username: p20kour2
 
 
-| Εβδομάδα | Παραδοτέο |
-| --- | --- |
-| 1 | [Εισαγωγή](#Εισαγωγή) |
-| 2 | [Άσκηση Γραμμής Εντολών Linux Install](#Άσκηση-Γραμμής-Εντολών-Linux-Install) |
-| 3 | [Συμμετοχικό Περιεχόμενο Α1](#Συμμετοχικό-Περιεχόμενο-Α1) |
-| 4 | [Άσκηση Γραμμής Εντολών Warm Up](#Άσκηση-Γραμμής-Εντολών-Warm-Up) |
-| 5 | Συμμετοχικό Περιεχόμενο Α2 |
+| Εβδομάδα | Παραδοτέο | Σύνδεσμοι Συζητήσεων | Αυτοαξιολόγηση |
+| --- | --- | --- | --- |
+| 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/help/discussions/849 |
+| 2 | [Άσκηση Γραμμής Εντολών Linux Install](#Άσκηση-Γραμμής-Εντολών-Linux-Install) | https://github.com/courses-ionio/help/discussions/1167 |
+| 3 | [Συμμετοχικό Περιεχόμενο Α1](#Συμμετοχικό-Περιεχόμενο-Α1) | https://github.com/courses-ionio/help/discussions/1444 |
+| 4 | [Άσκηση Γραμμής Εντολών Warm Up](#Άσκηση-Γραμμής-Εντολών-Warm-Up) | https://github.com/courses-ionio/help/discussions/1385 |
+| 5 | [Συμμετοχικό Περιεχόμενο Α2](#Συμμετοχικό-Περιεχόμενο-Α2) |
 | 6 | Κατασκευή του βιβλίου Α |
 | 7 | Συμμετοχικό περιεχόμενο B1 |
 | 8 | Άσκηση γραμμής εντολών |
@@ -46,11 +46,11 @@ https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 
 ## Δημιουργία Site με Netlify
 
-Σύνδεσα τον λογαριασμό μου GitHub με το Netlify και σύνδεσα το αποθετήριο της ομάδας μου. Ως ομάδα καταφέραμε να κάνουμε deploy την σελίδα στο παρακάτω link https://greek-salata.netlify.app/, αλλά όχι τις φωτογραφίες μας.
+Σύνδεσα τον λογαριασμό μου GitHub με το Netlify και έπειτα σύνδεσα το αποθετήριο της ομάδας μου. Την πρώτη βδομάδα η ομάδα μου και γω αντιμετωπίσαμε δυσκολίες, αλλά αργότερα καταφέραμε να κάνουμε σωστά deploy την σελίδα μας στο παρακάτω link [https://www.greek-salata.cf](https://www.greek-salata.cf).
 
 ## Η Συνεισφορά μου
 
-Παρακάτω ακολουθούν τα links της συνεισφοράς μου στο αποθετήριο της ομάδας μου έπειτα από τα pull requests.
+Παρακάτω ακολουθούν τα links της συνεισφοράς μου στο αποθετήριο της ομάδας μου, αλλά και στη σελίδας μας netlify, έπειτα από τα pull requests. Προσωπικά διάλεξα δύο θέματα που έχουν επηρεάσει την διάδραση ανθρώπου-υπολογιστή στον τομέα της διασκέδασης.
 
 ### Gallery
 
@@ -68,13 +68,22 @@ https://asciinema.org/a/BiQfoLItPifNbQ5jCYYeeHdCF
 
 [Guitar Hero World Tour Thumb](https://github.com/Greek-Salata/images/blob/master/guitar-hero-world-tour-thumb.jpg)
 
+### Netlify Links
+
+[Rogue](https://www.greek-salata.cf/gallery/rogue)
+
+[Guitar Hero World Tour](https://www.greek-salata.cf/gallery/guitar-hero-world-tour)
+
 
 # Άσκηση Γραμμής Εντολών Warm Up
 
-Για να εξοικειωθώ με το περιβάλλον Arch, επέλεξα μια από τις warmup ασκήσεις και έτρεξα την εντολή `curl wttr.in` για να δείξω τον καιρό.
+Για να εξοικειωθώ με το περιβάλλον Arch, επέλεξα μια από τις warmup ασκήσεις και έτρεξα την εντολή `curl wttr.in` για να δείξω τον καιρό. Επιπλεόν προσπάθησα να εγκαταστήσω το window manager i3.
 
 https://asciinema.org/a/y5oYpdNgmtHFD9UfrMSN2qUn8
 
 ![download](https://user-images.githubusercontent.com/92392853/198902868-84e0717f-8845-4c28-9707-a30205966dbc.gif)
 
+
+
+# Συμμετοχικό Περιεχόμενο Α2
 
