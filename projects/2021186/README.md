@@ -1,8 +1,9 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
 Ονοματεπώνυμο: Σταμάτης Πέτρου  
-
+Organization: [Terminal-Killers](https://github.com/Terminal-Killers)  
 ΑΜ:2021186
+Github profile: [stamathsp](https://github.com/stamathsp)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
@@ -49,7 +50,3 @@
 [![asciicast](https://asciinema.org/a/527852.svg)](https://asciinema.org/a/527852)
 
 *(Σημείωση): Το installation της διανομής αυτής είναι καθολικό και όχι σε VM.
-
-Github Profile: [stamathsp](https://github.com/stamathsp)
-
-Organization: [Terminal-Killers](https://github.com/Terminal-Killers)
