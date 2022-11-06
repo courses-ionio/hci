@@ -48,7 +48,7 @@
 1.  εγκατάσταση και επεξεργασία του fish shell [![asciicast](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr.svg)](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr)
 2.  εξοικείωση με το wttr [![asciicast](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M.svg)](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M)
 
-##Παραδοτέο 5
+## Παραδοτέο 5
 - Σε αύτο το παραδοτέο πρόσθεσα υλικό στο [slide](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_slides/os.md) 
 - Αντίστοιχα πρόσθεσα υλικό στο [timeline](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_timeline/os-apps.md)
 
