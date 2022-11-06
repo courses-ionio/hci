@@ -18,6 +18,11 @@ neofetch, journalctl -b
 [Αsciinema Link](https://asciinema.org/a/cgX9FmflHdDIyr8ErN285IiOO)
 
 [Discussions Link](https://github.com/courses-ionio/help/discussions/1292)
+## Παραδοτέο 3
+Προσθήκη Pubtech, Norton-Desktop στο site.
+[Pull Request _Gallery](https://github.com/ContattoContare/_gallery/pull/9)
+[Pull Request images](https://github.com/ContattoContare/images/pull/8)
+
 
 ## Παραδοτέο 4
 Έγιναν τα παρακάτω χρησιμοποιώντας το terminal:
