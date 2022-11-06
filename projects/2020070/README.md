@@ -26,8 +26,8 @@
 ### Η εγκατάσταση των Arch Linux έγινε με την χρήση 2 USB stick. Το πρώτο το έκανα bootable με την χρήση του Rufus και του [iso](https://archlinux.org/download/) και στο δεύτερο εγκατέστησα το λογισμικό. Η διαδικασία ήταν απλή με την βοήθεια του [installation guide](https://wiki.archlinux.org/title/installation_guide) στο Arch Wiki. Έπειτα εγκατέστησα το Asciinema και το [Neofetch](https://asciinema.org/a/vHhcdzf2dUUPCzoHzzGUwBrjR) μέσω του Pacman για να καταγράψω την οθόνη μου. Επίσης κατέγραψα το [journalctl -b](https://asciinema.org/a/uLVuolDx0rigb7nA2UsBvtdQk) το οποίο προυπήρχε στο λογισμικό.
 ----
 ## Συμμετοχικό περιεχόμενο Α1
-Για το παραδοτέο αυτής της εβδομάδας έγινε η προσθήκη 2 εικόνων για την ιστοσελίδα του βιβλίου και των .md files.
-Τα links των pull request:
+Για το παραδοτέο αυτής της εβδομάδας έγινε η προσθήκη 2 εικόνων για την ιστοσελίδα του βιβλίου και των .md files. <br>
+Τα links των pull request: <br>
 -[pullrequestimages]()
 -[pullrequestimages]()
 ----------
