@@ -50,5 +50,17 @@ Link για την προβολή του **[1ου περιεχομένου](http
 
 Link για την προβολή του **[2ου περιεχομένου](https://cosmic-entremet-f6cbd2.netlify.app/gallery/walkman/)**.
 
+## Παραδοτέο 5
+
+https://organization--efthimis015.netlify.app//timeline/videogames/
+
+https://organization--efthimis015.netlify.app//timeline/wearable/
+
+https://organization--efthimis015.netlify.app//timeline/multimedia/
+
+https://organization--efthimis015.netlify.app//slides/technology/
+
+https://organization--efthimis015.netlify.app//slides/archetypes/
+
 
 
