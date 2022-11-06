@@ -84,8 +84,8 @@
 
 | Netlify | Pull Requests | 
 | --- | --- |
-|  | [gallery](https://github.com/Cat-a-strophe/_gallery/pull/2)| 
-|  | [images](https://github.com/Cat-a-strophe/images/pull/3)|
+|  | [gallery](https://github.com/Cat-a-strophe/_gallery/pull/6)| 
+|  | [images](https://github.com/Cat-a-strophe/images/pull/11)|
 
 
 
