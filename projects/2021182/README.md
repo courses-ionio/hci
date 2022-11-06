@@ -11,7 +11,7 @@
 | 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | https://github.com/courses-ionio/help/discussions/1103 | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1194 | |
 | 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | https://github.com/courses-ionio/help/discussions/1338 | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 | https://github.com/courses-ionio/help/discussions/1464 | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
