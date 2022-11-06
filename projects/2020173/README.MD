@@ -40,4 +40,8 @@
 
 
 # Συμμετοχικό περιεχόμενο A2
-##
+## Ως παραδοτέο αυτής της εβδομάδας έγινε η προσθήκη των 2  εικόνων από το συμμετοχικό περιεχόμενο Α1 . Πιο συγκεκριμένα :<br>
+- Xerox Alto στο slide [gui.md](https://github.com/YannisGatsios/site/blob/master/_slides/gui.md)<br>
+- Xerox Alto στο timeline [computer.md](https://github.com/YannisGatsios/site/blob/master/_timeline/computer.md)<br>
+- Windows 3.2(Chinese Windows)  στο slide [gui.md](https://github.com/YannisGatsios/site/blob/master/_slides/gui.md)<br>
+- Windows 3.2(Chinese Windows) στο timeline [computer.md](https://github.com/YannisGatsios/site/blob/master/_timeline/computer.md)<br>
