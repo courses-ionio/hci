@@ -20,7 +20,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Click](https://github.com/courses-ionio/help/discussions/1052) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Click](https://github.com/courses-ionio/help/discussions/1190) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Click](https://github.com/courses-ionio/help/discussions/1331) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Click](https://github.com/courses-ionio/help/discussions/1488) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -65,3 +65,18 @@
 
 ### Weather
 [![asciicast](https://asciinema.org/a/24zTE4CxYSo1nPwinrShCq0gt.svg)](https://asciinema.org/a/24zTE4CxYSo1nPwinrShCq0gt)
+
+## Eβδομάδα Πέμπτη  - Συμμετοχικό περιεχόμενο A2
+
+Σε αυτό το παραδοτέο είχα να διμιουργήσω δύο διαφάνειες και δύο χρονολόγια για την σελίδα netlify
+Αναλυτικά:
+
+### Διαφάνειες
+[OS](https://fancy-vacherin-2b621a.netlify.app/slides/os/)
+[GDE](https://fancy-vacherin-2b621a.netlify.app/slides/gde/)
+
+### Χρονολόγια
+[GEMT](https://fancy-vacherin-2b621a.netlify.app/timeline/gemt/)
+[AmigaPC](https://fancy-vacherin-2b621a.netlify.app/timeline/amigapc/)
+
+[αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
