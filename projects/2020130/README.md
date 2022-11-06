@@ -13,7 +13,7 @@
 | 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/ChrisPaok4/hci/tree/2020130/projects/2020130#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2%CE%BF) | [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1114) | |
 | 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/ChrisPaok4/hci/tree/2020130/projects/2020130#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3%CE%BF) | [3ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1363) | |
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](https://github.com/ChrisPaok4/hci/tree/2020130/projects/2020130#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4%CE%BF) | [4ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1368)| |
-| 5 | Συμμετοχικό περιεχόμενο A2 | [5ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1500) | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/ChrisPaok4/hci/blob/2020130/projects/2020130/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5%CE%BF) | [5ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1500) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
