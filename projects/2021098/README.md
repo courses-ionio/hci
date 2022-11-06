@@ -22,7 +22,7 @@ Netlify Personal Site Deploy: [Site](https://greekforce1821-site.netlify.app/)
 | 2 | Άσκηση γραμμής εντολών (linux install) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/1021) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας ☑️ (100% Success) |
 | 3 | Συμμετοχικό περιεχόμενο A1 | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/1185), [PR #1](https://github.com/Terminal-Killers/_gallery/pull/1), [PR #2](https://github.com/Terminal-Killers/images/pull/1), [Organization Base Site](https://terminal-killers-site.netlify.app/), [Link of Work #1](https://terminal-killers-site.netlify.app//gallery/python/) & [Link of Work #2](https://terminal-killers-site.netlify.app//gallery/odroid-c4/) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας ☑️ (100% Success)|
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/1290) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας ☑️ (100% Success) |
-| 5 | Συμμετοχικό περιεχόμενο A2 | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/1461) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας ☑️ (80% Success) |
+| 5 | Συμμετοχικό περιεχόμενο A2 | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/1461), [PR #1](https://github.com/Terminal-Killers/site/pull/1), [PR #2](https://github.com/Terminal-Killers/site/pull/2)| Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας ☑️ (80% Success) |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
