@@ -10,7 +10,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1092), [asciinema](https://asciinema.org/a/v6iy1N8PzgTMxa3GR3hApOTe9) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1180),[Προσθήκη1](https://stitc-site.netlify.app/gallery/artix-os/),[Προσθήκη2](https://stitc-site.netlify.app/gallery/suse-os/) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1323),[fish](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr),[wttr](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M) |Επιτυχής ολοκλήρωση, εντός προθεσμίας|
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1474),[slide update](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_slides/os.md),[timeline update](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_timeline/os-apps.md) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -48,7 +48,19 @@
 1.  εγκατάσταση και επεξεργασία του fish shell [![asciicast](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr.svg)](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr)
 2.  εξοικείωση με το wttr [![asciicast](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M.svg)](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M)
 
+##Παραδοτέο 5
+- Σε αύτο το παραδοτέο πρόσθεσα υλικό στο [slide](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_slides/os.md) 
+- Αντίστοιχα πρόσθεσα υλικό στο [timeline](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_timeline/os-apps.md)
 
+Επέλεξα να προσθέσω υλικό και να μην δημιουργήσω δικό μου, διότι προσπαθόντας κατακτήσω όσες περισσότερες γνώσεις μπορώ από το μάθημα αλλά συνάμα να παραδώσω να ένα αξιοπρεπές υλικό. Έκρεινα ότι η θεματολογία των υπάρχων κάλυπταν πλήρος και μου τις προσθήκες που έκανα στο A1. 
+
+Τα links για τις αλλαγές στο site
+- [slide](https://stitc-site.netlify.app/slides/os/)
+- [timeline](https://jazzy-khapse-290902.netlify.app/timeline/os-apps/)
+
+Τα pull req
+- [slide](https://github.com/Second-Time-Is-The-Charm/site/pull/7)
+- [timeline](https://github.com/Second-Time-Is-The-Charm/site/pull/9)
 
 ## TEAM 
 
