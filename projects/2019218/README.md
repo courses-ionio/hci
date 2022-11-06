@@ -29,10 +29,10 @@
  
  ## ΠΑΡΑΔΟΤΕΟ 3
  Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε ομαδικά και ατομικά στην ανάπτυξη του ήδη υπάρχοντος site.
- ## Περιγραφή Skype
+ ## Περιγραφή Kaizala
  
- ![IMAGE](https://github.com/P2019218/images/blob/master/Skype-thumb.png)
- Το Skype είναι μια εφαρμογή VoIP με εκατομμύρια χρήστες από όλον τον κόσμο. Αρχικά ήταν για επικοινωνία από Η/Υ σε Η/Υ. Πλέον προσφέρει κλήσεις σε οποιοδήποτε μέρος του κόσμου, σε οποιοδήποτε δίκτυο τηλεφωνίας, σταθερής και κινητής, με χαμηλές χρεώσεις, Instant Messenger, δυνατότητα αποστολής SMS, αποστολής αρχείων και δυνατότητα βιντεοκλήσης. Διατίθεται σε εκδόσεις για Windows, Mac και Linux και για τις πλατφόρμες φορητών συσκευών Android, και iOS όπως επίσης και στην κονσόλα βιντεοπαιχνιδιών της MIcrosoft, Xbox One.
+ ![IMAGE](https://github.com/P2019218/images/blob/master/Microsoft-Kaizala-thumb.png)
+ Το Microsoft Kaizala είναι μια ασφαλής εφαρμογή λογισμικού ανταλλαγής μηνυμάτων και διαχείρισης εργασίας για συνεργασία μεταξύ χρηστών εντός και εκτός οργανισμών συμπεριλαμβανομένης της δυνατότητας αποστολής και λήψης άμεσων μηνυμάτων, συντονισμού εργασιών και υποβολής τιμολογίων. Κυκλοφόρησε στην Ινδία το 2017, στη συνέχεια επεκτάθηκε σε 28 χώρες και κυκλοφόρησε παγκοσμίως τον Απρίλιο του 2019 ως μέρος του πακέτου του Office 365. Είναι διαθέσιμο διεθνώς, ως δωρεάν εφαρμογή Android, iOS και web
  ## Περιγραφή Microsoft Office 
  
  ![IMAGE](https://github.com/P2019218/images/blob/master/office365-thumb.png) 
@@ -44,11 +44,11 @@
  
  
  
- | Περιγραφή | Repository Link |
+| Περιγραφή | Repository Link |
  | --- | --- |
- |_gallery Skype|[SKYPE.MD](https://github.com/P2019218/_gallery/blob/master/skype.md)| 
- |images Skype|[THUMB](https://github.com/P2019218/images/blob/master/Skype-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/Skype.png)|
- |_gallery Office|[OFFICE.MD](https://github.com/P2019218/_gallery/blob/master/microsoftoffice365.md)|
+ |_gallery Kaizala|[KAIZALA.MD](https://github.com/P2019218/_gallery/blob/6d0f86d95b33e8df84ffab3c695e202c8e1f13ad/Microsoft-Kaizala.md)| 
+ |images Kaizala|[THUMB](https://github.com/P2019218/images/blob/master/Microsoft-Kaizala-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/Microsoft-Kaizala.png)|
+ |_gallery Office|[OFFICE.MD](https://github.com/P2019218/_gallery/blob/6d0f86d95b33e8df84ffab3c695e202c8e1f13ad/office365.md)|
  |images Office|[THUMB](https://github.com/P2019218/images/blob/master/office365-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/office365.png)|
  
  
@@ -65,4 +65,9 @@
  H δεύτερη είχε ως στόχο το κατέβασμα ενός `Mp3` τραγουδιού το οποίο το κατάφερα με την εντολή `youtube-dl -x --audio-format mp3`. [asciinema](https://asciinema.org/a/MGIAhHjT47V34YxdXjtxR2hi3)
  
  <a href="https://asciinema.org/a/MGIAhHjT47V34YxdXjtxR2hi3" target="_blank"><img src="https://asciinema.org/a/MGIAhHjT47V34YxdXjtxR2hi3.svg" /></a>
+ ## ΠΑΡΑΔΟΤΕΟ 5 
+ 
+ Χρονολόγιο :  [Microsoft Office 365](https://2019218.netlify.app/timeline/microsoft/) & [Kaizala](https://2019218.netlify.app/timeline/microsoft/)
+Διαφάνειες : [Microsoft Office 365](https://2019218.netlify.app/slides/tools/) & [Kaizala](https://2019218.netlify.app/slides/tools/)
+Για το 5ο παραδοτέο πρόσθεσα το υλικό μου σε ήδη υπάρχοντα slides και timelines μέχρι να φτιαχτεί ενα δικό μας σετ με το υλικό όλης της ομάδας
  
