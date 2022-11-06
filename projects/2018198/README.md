@@ -11,7 +11,7 @@
 | --- | --- | --- | --- |
 | 1 | Εισαγωγή | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1008) | Εξοικιίωση με το Github και εκμάθηση τον Linux|
 | 2 | Άσκηση γραμμής εντολών (linux install) | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1140) | εγκατάσταση arch linux και εφαρμογή του neofetch |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1457) |Για πρώτο συμμετοχικό περιεχόμενο αποφάσισα να κάνω για το Apple magic mouse και magic keyboard. |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1300) | άσκηση check the weather από το warm up |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
