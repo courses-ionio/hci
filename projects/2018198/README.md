@@ -37,8 +37,36 @@
 
 [Asciinema](https://asciinema.org/a/386477) 
 
+## Εβδομάδα Τρίτη- Συμμετοχικό περιεχόμενο Α1
+
+Για πρώτο συμμετοχικό περιεχόμενο αποφάσισα να κάνω για το Apple magic mouse και magic keyboard.
+
+#### Magic Mouse
+[1η εικόνα,](https://github.com/eliastks09/images/blob/master/apple-magic-mouse.jpg)
+[2η εικόνα](https://github.com/eliastks09/images/blob/master/apple-magic-mouse-%20thumb.jpg)
+
+[Πληροφορίες εικόνας](https://github.com/eliastks09/_gallery/blob/master/apple-magic-mouse.md)
+
+[Σετ Διαφανειών](https://github.com/eliastks09/site/blob/master/_slides/archetypes.md)
+
+[Χρονολόγιο](https://github.com/eliastks09/site/blob/master/_timeline/apple.md)
+
+
+#### Magic Keyboard
+[1η εικόνα,](https://github.com/eliastks09/images/blob/master/apple_magic_keyboard.jpeg)
+[2η εικόνα](https://github.com/eliastks09/images/blob/master/apple_magic_keyboard-%20thumb.jpeg)
+
+[Πληροφορίες εικόνας](https://github.com/eliastks09/_gallery/blob/master/apple_magic_keyboard.md)
+
+[Σετ Διαφανειών](https://github.com/eliastks09/site/blob/master/_slides/archetypes.md)
+
+[Χρονολόγιο](https://github.com/eliastks09/site/blob/master/_timeline/apple.md)
+
+
 ## Εβδομάδα Τέταρτη -Άσκηση γραμμής εντολών
 
 Στο παραφοτέο 4 καλούμαστε να εφαρμοσουμε την άσκηση check the weather από το warm up
 
 [Asciinema](https://asciinema.org/a/386481) 
+
+
