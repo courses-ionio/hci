@@ -97,7 +97,7 @@
 | 3 | Xerox Star User Interface (1982) 1 of 2 | :heavy_check_mark: | :heavy_check_mark: |
 | 4 | Alto System Project: Larry Tesler demonstration of Gypsy | :heavy_check_mark: | :heavy_check_mark: |
 | 5 | Alan Kay: Doing with Images Makes Symbols (Full Version) | :heavy_check_mark: | :heavy_check_mark: |
-| 6 |  | :heavy_check_mark: | :heavy_check_mark: |
+| 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | :heavy_check_mark: | :heavy_check_mark: |
 | 7 |  | :heavy_check_mark: | :heavy_check_mark: |
 | 8 |  | :heavy_check_mark: | :heavy_check_mark: |
 | 9 |  | :heavy_check_mark: | :heavy_check_mark: |
