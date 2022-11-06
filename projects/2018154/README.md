@@ -102,27 +102,27 @@ Netlify links:
 
  - ## dwm Configuration
 
-Για την διαμόρφωση του status bar και των χρωμάτων του dwm επεξεργαστικά το αρχείο `config.h` όπου βρίσκεται στο directory /home/$USER/dwm και να κάνω τις αλλαγές που προτιμάω και τις έκανα compile & install με την εντολή `sudo make install`. 
+Για την διαμόρφωση του status bar και των χρωμάτων του dwm επεξεργαστικά το αρχείο `config.h` όπου βρίσκεται στο directory /home/$USER/dwm και έκανα τις αλλαγές που προτιμάω και στην συνέχεια τις έκανα compile & install με την εντολή `sudo make install`. 
 
  - ## Set Wallpaper
 
- Για την τοποθέτηση του wallpaper χρησιμοποίησα το πακέτο feh, το εγκατέστησα με την εντολή `sudo pacman -S feh` και η τοποθέτηση του wallpaper έγινε με την εντολή `feh --bg-fill 'your-file'.png` όπου 'your-file' είναι η εικόνα του καθενός. Αλλά για να παραμείνει το wallpaper στο reboot έπρεπε να φτιάξω ένα καινούργιο bash script στο directory home το οποίο περιέχει την εντολή: 
+ Για την τοποθέτηση του wallpaper χρησιμοποίησα το πακέτο feh, το εγκατέστησα με την εντολή `sudo pacman -S feh` και η τοποθέτηση του wallpaper έγινε με την εντολή `feh --bg-fill 'your-file'.png` όπου 'your-file' είναι η εικόνα του καθενός. Αλλά για να παραμείνει το wallpaper στο reboot έπρεπε να φτιάξω ένα καινούργιο bash script στο directory /home το οποίο περιέχει την εντολή: 
 
      feh --no-fehbg --bg-fill '/home/pav/Downloads/wallpaper.png'`
      
-Στην συνέχεια έπρεπε να επεξεργαστώ το αρχείο `.xinitrc` το οποίο είναι υπεύθυνο για το τι τρέχει κατά το boot του archlinux και να συμπεριλάβω το script προσθέτοντας την εντολή `~/.fehbg`. Αρκετά για την τοποθέτηση wallpaper με βοήθησε αυτός ο [οδηγός](https://www.yanboyang.com/dwmwallpaper/).
+Στην συνέχεια έπρεπε να επεξεργαστώ το αρχείο `.xinitrc` το οποίο είναι υπεύθυνο για το τι τρέχει κατά το boot του archlinux και να συμπεριλάβω το script προσθέτοντας την εντολή `~/.fehbg`. Για την τοποθέτηση wallpaper με βοήθησε αρκετά αυτός ο [οδηγός](https://www.yanboyang.com/dwmwallpaper/).
      
  - ## Screenshot
 
-Για το screenshot χρησιμοποίησα το πακέτο scrot το οποίο μπορεί να χρησιμοποιηθεί με την εντολή:
+Για το screenshot χρησιμοποίησα το πακέτο `scrot` το οποίο μπορεί να χρησιμοποιηθεί με την εντολή:
 
      scrot ~/path/to/dir/%d-%m-%Y-%T-screenshot.png
 
-Όπου /path/to/dir είναι ο στόχος που θέλουμε να αποθηκευτεί και %d-%m-%Y-%T είναι για να αποθηκευτεί η φωτογραφία με τον τίτλο να αρχίζει με την ημερομηνία και ώρα. Για να μην χρειάζεται να γράφω αυτήν την εντολή κάθε φορά που θέλω να κάνω ένα screenshot και να χρησιμοποιώ το κουμπί PrtSc, επεξεργάστηκα το αρχείο `config.h` ξανά και πρόσθεσα την εντολή:
+Όπου /path/to/dir είναι το directory που θέλουμε να αποθηκευτεί και %d-%m-%Y-%T είναι για να αποθηκευτεί η φωτογραφία με τον τίτλο να αρχίζει με την ημερομηνία και ώρα. Για να μην χρειάζεται να γράφω αυτήν την εντολή κάθε φορά που θέλω να κάνω ένα screenshot αλλά να χρησιμοποιώ το κουμπί PrtSc, επεξεργάστηκα το αρχείο `config.h` ξανά και πρόσθεσα την εντολή:
 
      static const char *screenshot[] = {"scrot", "/home/$USER/path/to/dir/%d-%m-%Y-%T-screenshot.png",NULL};
      
-Αυτό έγινε πριν την διαμόρφωση του κουμπιού PrtSc, στην συνέχεια μετακινήθηκα στην κατηγορία `/* button definitions */` και πρόσθεσα την εντολή `{0,     XK_Print,      spawn,{.v = screenshot} }`, με αυτόν τον τρόπο πατώντας το κουμπί PrtSc εκτελεί την εντολή που πρόσθεση πριν και αποθηκεύεται το screenshot, κάνοντας compile το αρχείο έκανα reboot για να αποθηκευτούν. Για το πακέτο scrot με βοήθησαν αρκετά ένα [reddit post](https://www.reddit.com/r/suckless/comments/la8kon/screenshots_on_dwm/) και ένα [άρθρο](https://fediverse.blog/~/Cmm/getting-screenshotting-to-work-in-dwm-an-interesting-experience/).
+Αυτό έγινε πριν την διαμόρφωση του κουμπιού PrtSc, στην συνέχεια μετακινήθηκα στην κατηγορία `/* button definitions */` και πρόσθεσα την εντολή `{0,     XK_Print,      spawn,{.v = screenshot} }`, με αυτόν τον τρόπο πατώντας το κουμπί PrtSc εκτελεί την εντολή που πρόσθεση πριν και αποθηκεύεται το screenshot. Κάνοντας compile το αρχείο έκανα reboot για να αποθηκευτούν. Για το πακέτο scrot με βοήθησαν αρκετά ένα [reddit post](https://www.reddit.com/r/suckless/comments/la8kon/screenshots_on_dwm/) και ένα [άρθρο](https://fediverse.blog/~/Cmm/getting-screenshotting-to-work-in-dwm-an-interesting-experience/).
      
  - *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
 
