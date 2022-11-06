@@ -154,10 +154,13 @@ Netlify links:
 | [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1081)              | [Answer](https://github.com/courses-ionio/help/discussions/1081#discussioncomment-3889258) | 16th Oct 2022 |
 | [SW(Τεχνολογία Λογισμικού)](https://github.com/courses-ionio/help/discussions/1162) | [Answer](https://github.com/courses-ionio/help/discussions/1162#discussioncomment-3937174) | 20th Oct 2022 |
 | [3ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1166)              | [Answer](https://github.com/courses-ionio/help/discussions/1166#discussioncomment-3937303) | 20th Oct 2022 |
-| [Edpuzzle Password](https://github.com/courses-ionio/help/discussions/1174)         | [Answer](https://github.com/courses-ionio/help/discussions/1174#discussioncomment-3936904) | 21 Oct 2022   |
-| [Edpuzzle Password](https://github.com/courses-ionio/help/discussions/1170)         | [Contribution](https://github.com/courses-ionio/help/discussions/1170#discussioncomment-3936905) | 21 Oct 2022 |
+| [Edpuzzle Password](https://github.com/courses-ionio/help/discussions/1174)         | [Answer](https://github.com/courses-ionio/help/discussions/1174#discussioncomment-3936904) | 21th Oct 2022  |
+| [Edpuzzle Password](https://github.com/courses-ionio/help/discussions/1170)         | [Contribution](https://github.com/courses-ionio/help/discussions/1170#discussioncomment-3936905) | 21th Oct 2022 |
+| [Timeline Fix](https://github.com/courses-ionio/help/discussions/1451)              | [Contribution](https://github.com/courses-ionio/help/discussions/1451#discussioncomment-4068953) | 6th Nov 2022  |
 
 | *Show and tell* | *Date* |
 | :--------------:| :----: |
 | [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1021) - [Contribution](https://github.com/courses-ionio/help/discussions/1021#discussioncomment-3936168) | 13th Oct 2022 |
 | [5o Παραδοτέο](https://github.com/courses-ionio/help/discussions/1446) - [Contribution](https://github.com/courses-ionio/help/discussions/1446#discussioncomment-4065367) | 5th Nov 2022  |
+
+- *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
