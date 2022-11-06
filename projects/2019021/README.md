@@ -1,7 +1,7 @@
 ### Ονοματεπώνυμο: Σταυρούλα Ανατολάκη
 ### Αριθμός Μητρώου: Π2019021
 ### Ομάδα: [XorisOnoma](https://github.com/XorisOnoma)
-### [Netlify Link](https://xorisonomapibook.netlify.app/)
+### [Netlify Link](https://aesthetic-kheer-623587.netlify.app/)
 
 | Εβδομάδα | Παραδοτέα  | Αυτοαξιολόγηση |
 | --- | --- | --- | 
