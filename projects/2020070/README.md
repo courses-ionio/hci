@@ -26,16 +26,6 @@
 ### Η εγκατάσταση των Arch Linux έγινε με την χρήση 2 USB stick. Το πρώτο το έκανα bootable με την χρήση του Rufus και του [iso](https://archlinux.org/download/) και στο δεύτερο εγκατέστησα το λογισμικό. Η διαδικασία ήταν απλή με την βοήθεια του [installation guide](https://wiki.archlinux.org/title/installation_guide) στο Arch Wiki. Έπειτα εγκατέστησα το Asciinema και το [Neofetch](https://asciinema.org/a/vHhcdzf2dUUPCzoHzzGUwBrjR) μέσω του Pacman για να καταγράψω την οθόνη μου. Επίσης κατέγραψα το [journalctl -b](https://asciinema.org/a/uLVuolDx0rigb7nA2UsBvtdQk) το οποίο προυπήρχε στο λογισμικό.
 ----
 ## Συμμετοχικό περιεχόμενο Α2
-Ως παραδοτέο αυτής της εβδομάδας έγινε η προσθήκη των 2  εικόνων από το συμμετοχικό περιεχόμενο Α1 . Πιο συγκεκριμένα :<br>
-- DeskMate στο slide [gui.md]()<br>
-- DeskMate στο timeline [microsoft.md](<br>
-- Visi On  στο slide [gui.md](<br>
-- Visi On στο timeline [microsoft.md]()
---------------------------
+Για το παραδοτέο αυτής της εβδομάδας έγινε η προσθήκη 2 εικόνων από το συμμετοχικό περιεχόμενο Α1. :<br>
+
 ## Συμμετοχικό περιεχόμενο Α1
-Ως παραδοτέο αυτής της εβδομάδας έγινε η προσθήκη 2 νέων εικόνων για την ιστoσελίδα του βιβλίου του μαθήματος και των αντίστοιχων .md files . Έγινε μία πρώτη προσπάθεια με το netlify , αλλά ήταν ανεπιτυχής στο κομμάτι του "deploy". 
-
-Παρακάτω είναι τα links για τα pull request : 
-- [pullreqimages_link]()
-
-- [pullreqgallery_link]()
