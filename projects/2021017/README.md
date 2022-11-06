@@ -5,7 +5,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |[arch linux](https://github.com/courses-ionio/help/discussions/1098) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/gallery/amstrad-pcw16/),[Breadbox Ensemble](https://master--meek-chaja-52b6fe.netlify.app/gallery/breadbox-ensemble/) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[weather forcast](https://asciinema.org/a/533418) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 |[Amstrad-pcw16 slides](https://master--meek-chaja-52b6fe.netlify.app/timeline/computer/) [Breadbox Ensemble slides](https://master--meek-chaja-52b6fe.netlify.app/timeline/os-apps/) | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Amstrad-pcw16 slides](https://master--meek-chaja-52b6fe.netlify.app/timeline/computer/), [Breadbox Ensemble slides](https://master--meek-chaja-52b6fe.netlify.app/timeline/os-apps/) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
