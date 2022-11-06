@@ -21,6 +21,7 @@
 
 ## Εισαγωγή
 ### Ονομάζομαι Παναγιώτης Μέξης και άρχισα να ασχολούμαι με την πληροφορική λίγο πριν μπω στο πανεπιστήμιο. Από το μάθημά σας θα ήθελα να μάθω πιο πολλά για τα linux και τα unix.
+--------------
 ## Άσκηση γραμμής εντολών (linux install)
 ### Η εγκατάσταση των Arch Linux έγινε με την χρήση 2 USB stick. Το πρώτο το έκανα bootable με την χρήση του Rufus και του [iso](https://archlinux.org/download/) και στο δεύτερο εγκατέστησα το λογισμικό. Η διαδικασία ήταν απλή με την βοήθεια του [installation guide](https://wiki.archlinux.org/title/installation_guide) στο Arch Wiki. Έπειτα εγκατέστησα το Asciinema και το [Neofetch](https://asciinema.org/a/vHhcdzf2dUUPCzoHzzGUwBrjR) μέσω του Pacman για να καταγράψω την οθόνη μου. Επίσης κατέγραψα το [journalctl -b](https://asciinema.org/a/uLVuolDx0rigb7nA2UsBvtdQk) το οποίο προυπήρχε στο λογισμικό.
 ----
