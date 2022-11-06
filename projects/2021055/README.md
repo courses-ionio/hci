@@ -12,7 +12,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |https://github.com/courses-ionio/help/discussions/1064 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου. |
 | 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1221 | Επιτυχής ολοκλήρωση των ζητουμένων |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |https://github.com/courses-ionio/help/discussions/1334 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου. |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |https://github.com/courses-ionio/help/discussions/1479 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου. |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -50,6 +50,15 @@
 [MUSIC IN TERMINAL](https://asciinema.org/a/533149)
 
 [DOT FILES,PS1,NEOFETCH](https://asciinema.org/a/531950)
+
+# 5ο ΠΑΡΑΔΟΤΕΟ
+Για τον Apple iMac έφτιαξα τα εξής slide και timeline:
+Καινοτόμες συσκεύες
+Γραφικό περιβάλλον
+
+Για το virtualboy έφτιαξα τα εξής slide και timeline:
+Συσκεύες εικονικής πραγματικότητας
+Η εξέλιξη των 3d γραφικών
  
 
 
