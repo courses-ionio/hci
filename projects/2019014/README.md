@@ -100,8 +100,8 @@
   
 | | Pull Request links για το συμμετοχικό περιεχόμενο Α1 |
 | --- | --- |
-| 1 | [Pull Request images](https://github.com/TEAM11234/_gallery/pull/4/) |
-| 2 | [Netlify link Amiga 500](https://github.com/TEAM11234/images/pull/4/) |
+| 1 | [Pull Request _gallery](https://github.com/TEAM11234/_gallery/pull/4/) |
+| 2 | [Pull Request images](https://github.com/TEAM11234/images/pull/4/) |
   
 <br />
   
