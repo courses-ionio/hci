@@ -162,6 +162,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 <center> <ins>ODROID-C4 Timeline</ins> </center>
 
+![Screenshot_2022-11-07_17-32-09](https://user-images.githubusercontent.com/33377581/200330339-d2ff38cb-245c-4098-9886-520b8d9ae05a.jpg)
 
 
 
