@@ -189,7 +189,16 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 * Timeline του προσωπικού αποθετηρίου (test site): [Timeline Greekforce1821](https://greekforce1821-site.netlify.app/timeline)
 * Timeline #1 του προσωπικού αποθετηρίου (test site): [TImeline #1 Greekforce1821](https://greekforce1821-site.netlify.app/timeline/programming-languages/)
 * Timeline #2 του προσωπικού αποθετηρίου (test site): [Timeline #2 Greekforce1821](https://greekforce1821-site.netlify.app/timeline/computers-in-a-pocket/)
+* Slide του προσωπικού αποθετηρίου (test site): [Slide Greekforce1821](https://greekforce1821-site.netlify.app/slides)
 * Slide #1 του προσωπικού αποθετηρίου (test site): [Slide #1 Greekforce1821](https://greekforce1821-site.netlify.app/slides/programming/)
 * Slide #2 του προσωπικού αποθετηρίου (test site): [Slide #2 Greekforce1821](https://greekforce1821-site.netlify.app/slides/computers-in-pockets/)
 
 ---
+
+* Το site από το αποθετήριο του οργανισμού: [Terminal-Killers](https://terminal-killers-site.netlify.app)
+* Timeline του αποθετηρίου του οργανισμού: [Timeline Organization](https://terminal-killers-site.netlify.app/timeline)
+* Timeline #1 του αποθετηρίου του οργανισμού: [Timeline #1 Organization](https://terminal-killers-site.netlify.app/timeline/programming-language/)
+* Timeline #2 του αποθετηρίου του οργανισμού: [Timeline #2 Organization](https://terminal-killers-site.netlify.app/timeline/computers-in-a-pocket/)
+* Slide του αποθετηρίου του οργανισμού: [Slide Organization](https://terminal-killers-site.netlify.app/slides)
+* Slide #1 του αποθετηρίου του οργανισμού: [Slide #1 Organization](https://terminal-killers-site.netlify.app/slides/programming/)
+* Slide #2 του αποθετηρίου του οργανισμού: [Slide #2 Οrganization](https://terminal-killers-site.netlify.app/slides/computers-in-a-pocket/)
