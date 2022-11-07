@@ -33,12 +33,12 @@
 
 Για το πρώτο συμμετοχικό περιεχόμενο Α1 πρόσθεσα τα Windows XP και το Xerox Globalview
 
-- [gallery pull request](https://github.com/Unixidized/_gallery/pull/7)
-- [images pull request](https://github.com/Unixidized/images/pull/11)
+ [gallery pull request](https://github.com/Unixidized/_gallery/pull/7)
+ [images pull request](https://github.com/Unixidized/images/pull/11)
 
 
-- [Windows-XP](https://jade-fenglisu-025746.netlify.app/gallery/windows-xp/)
-- [Xerox-Globalview](https://jade-fenglisu-025746.netlify.app/gallery/xerox-globalview/)
+ [Windows-XP](https://jade-fenglisu-025746.netlify.app/gallery/windows-xp/)
+ [Xerox-Globalview](https://jade-fenglisu-025746.netlify.app/gallery/xerox-globalview/)
 
 
 # Παραδοτέο 4
