@@ -20,9 +20,14 @@ neofetch, journalctl -b
 [Discussions Link](https://github.com/courses-ionio/help/discussions/1292)
 ## Παραδοτέο 3
 Προσθήκη Pubtech, Norton-Desktop στο site.
+
 [Pull Request _Gallery](https://github.com/ContattoContare/_gallery/pull/11)
+
 [Pull Request images](https://github.com/ContattoContare/images/pull/8)
 
+[Norton Desktop Netlify](https://gentle-kitsune-a544f4.netlify.app/gallery/nortondesktop/)
+
+[Pubtech Netlify](https://gentle-kitsune-a544f4.netlify.app/gallery/pubtech/)
 
 ## Παραδοτέο 4
 Έγιναν τα παρακάτω χρησιμοποιώντας το terminal:
