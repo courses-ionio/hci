@@ -25,6 +25,7 @@
 # Παραδοτέο 2
 
 [Neofetch](https://asciinema.org/a/rfALTSs52Ei2OFKO6NO8TYTMM)
+
 [Journalctl](https://asciinema.org/a/5n6LjYECtlpeWYxL93p1MqldS)
 
 
@@ -35,7 +36,7 @@
 
 # Παραδοτέο 5
 
-[pullrequest](https://github.com/Unixidized/site/pull/3)
+- [pullrequest](https://github.com/Unixidized/site/pull/3)
 
 - Slides
 
