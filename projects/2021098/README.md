@@ -167,6 +167,11 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 ![Screenshot_2022-11-07_17-32-09](https://user-images.githubusercontent.com/33377581/200332060-cb002c3b-dd18-4057-a93d-55d5929b3f95.jpg)
 
+## Περιγραφή: <ins>Slides</ins>
+
+Στο συγκεκριμένο παραδοτέο, αξιοποίησα τις προηγούμενες μου γνώσεις και δημιούργησα δύο `slides` σχετικά με τις `Υψηλού επιπέδου γλώσσσες προγραμματισμού` και αντίστοιχα με τους `Υπολογιστές τσέπης`. Δημιούργησα δύο αρχεία (.md) με κωδικές ονομασίες: `computers-in-pockets.md` και `programming-languages` στο προσωπικό repository της σελίδας μου, έκανα redeploy και τσέκαρα ότι απεικονίζονται σωστά στην ιστοσελίδα, επομένως προχώρησα σε pull request για το submodule `_slides` στο [repo site του οργανισμού](https://github.com/Terminal-Killers/site). Αφού έγινε deploy τσέκαρα ότι εμφανίστηκαν σωστά τα παραπάνω χρονολόγια στο [`organization site`](https://terminal-killers-site.netlify.app/slides) και προχώρησα στο επόμενο βήμα.
+
+Στην αναφορά μου στο section των discussion και συγκεκριμένα στο: [Discussion #1461](https://github.com/courses-ionio/help/discussions/1461) αναφέρω για την επεξήγηση του αστερίσκου(*)
 
 
 
