@@ -54,16 +54,7 @@ Asciinema profile: [inf2021186](https://asciinema.org/~inf2021186)
 
 # 3ο ΠΑΡΑΔΟΤΕΟ
 
-Καλησπέρα κύριε καθηγητά,
 
-Η δημιουργία της ιστοσελίδας {[site](https://rococo-cactus-bdadff.netlify.app/)} επιτεύχθηκε μετά από πολλές προσπάθειες. Οι προσωπικές μου υποχρεώσεις είναι: 
-(Παραθέτω τους συνδέσμους των sites) 
-- [Linux](https://terminal-killers-site.netlify.app//gallery/linux/)
-- [Github-Contributions](https://terminal-killers-site.netlify.app//gallery/github-contributions/)
-# Pull Requests
-
-1.  [_gallery](https://github.com/Terminal-Killers/_gallery/pull/4)
-2.  [images](https://github.com/Terminal-Killers/_gallery/pull/5)
 
 # 4o ΠΑΡΑΔΟΤΕΟ
 
