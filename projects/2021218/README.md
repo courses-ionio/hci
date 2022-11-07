@@ -55,8 +55,8 @@
 [gem3.11](https://fancy-vacherin-2b621a.netlify.app/gallery/gem3.11/) 
 [amiga3.5](https://fancy-vacherin-2b621a.netlify.app/gallery/amiga3.5/)
 ### Pull requests
-[images](https://github.com/ContattoContare/images/pull/4) 
-[_gallery](https://github.com/ContattoContare/_gallery/pull/4)
+[images](https://github.com/ContattoContare/images/pull/6) 
+[_gallery](https://github.com/ContattoContare/_gallery/pull/6)
 
 ## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
 Σε αυτό το παραδοτέο εκτέλεσα την εντολή [curl wttr.in](https://asciinema.org/a/24zTE4CxYSo1nPwinrShCq0gt)
