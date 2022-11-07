@@ -103,7 +103,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 ![image(8)](https://user-images.githubusercontent.com/33377581/198352371-fbcce24f-92c2-404c-9004-136f46c0fba7.jpg)
 
 
-# Παρακάτω παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
+# Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
 
   * Προσωπικό site από το αποθετήριο μου (test site): [Greekforce1821](https://greekforce1821-site.netlify.app/)
   * Άρθρο για την `Python` στο προσωπικό αποθετήριο (test site): [Python](https://greekforce1821-site.netlify.app/gallery/python/)
@@ -183,5 +183,5 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 ![Screenshot_2022-11-07_18-43-32](https://user-images.githubusercontent.com/33377581/200338268-c7c365f1-7a4b-4b24-a46d-a7aeeca18d70.jpg)
 
 
-
+# Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
 
