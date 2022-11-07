@@ -12,7 +12,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Arch Linux logs](https://github.com/courses-ionio/help/discussions/1033) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | [Link](https://github.com/courses-ionio/help/discussions/1161) | |
 | 4 | Άσκηση γραμμής εντολών | [warm up cli](https://github.com/courses-ionio/help/discussions/1302) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 | [Link](https://github.com/courses-ionio/help/discussions/1482) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -44,3 +44,6 @@
 Με τα  youtube-dl κατέβασα ένα μουσικό κομμάτι και στη συνέχεια με το mpv έκανα αναπαραγωγή του μέσω του τερματικού
 <br/>
 [![asciicast](https://asciinema.org/a/532477.svg)](https://asciinema.org/a/532477)
+
+# [Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1482)
+Σκοπός του 5ου παραδοτέου ήταν να εξελίξουμε το 3ο παραδοτέο με νέες προσθήκες στο Χρονολόγιο και στις Διαφάνειες της ιστοσελίδας του βιβλίου. Προσωπικά πρόσθεσα τις ίδιες με αυτές του 3ου. Και πιο συγκεκριμένα τα [Microsoft mouse](https://master--p19lith-pibook.netlify.app/timeline/mouse) και [HP NewWave](https://master--p19lith-pibook.netlify.app/timeline/multimedia/). Στη συνέχεια πραγματοποιήθηκε [Pull request](https://github.com/Second-Time-Is-The-Charm/site/pull/3) στον [οργανισμό](https://github.com/Second-Time-is-the-Charm) μου.
