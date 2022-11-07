@@ -24,26 +24,26 @@
 
 # Παραδοτέο 2
 
-[Neofetch](https://asciinema.org/a/rfALTSs52Ei2OFKO6NO8TYTMM)
+- [Neofetch](https://asciinema.org/a/rfALTSs52Ei2OFKO6NO8TYTMM)
 
-[Journalctl](https://asciinema.org/a/5n6LjYECtlpeWYxL93p1MqldS)
+- [Journalctl](https://asciinema.org/a/5n6LjYECtlpeWYxL93p1MqldS)
 
 
 # Παραδοτέο 3
 
 Για το πρώτο συμμετοχικό περιεχόμενο Α1 πρόσθεσα τα Windows XP και το Xerox Globalview
 
- [gallery pull request](https://github.com/Unixidized/_gallery/pull/7)
- [images pull request](https://github.com/Unixidized/images/pull/11)
+ - [gallery pull request](https://github.com/Unixidized/_gallery/pull/7)
+ - [images pull request](https://github.com/Unixidized/images/pull/11)
 
 
- [Windows-XP](https://jade-fenglisu-025746.netlify.app/gallery/windows-xp/)
- [Xerox-Globalview](https://jade-fenglisu-025746.netlify.app/gallery/xerox-globalview/)
+ - [Windows-XP](https://jade-fenglisu-025746.netlify.app/gallery/windows-xp/)
+ - [Xerox-Globalview](https://jade-fenglisu-025746.netlify.app/gallery/xerox-globalview/)
 
 
 # Παραδοτέο 4
 
-[warmup1](https://asciinema.org/a/ebVQeDUVrBKOJnuBjStpX9ar7)
+- [warmup1](https://asciinema.org/a/ebVQeDUVrBKOJnuBjStpX9ar7)
 
 
 # Παραδοτέο 5
