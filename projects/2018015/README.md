@@ -30,7 +30,7 @@
 
 ## 👽Παραδοτέο 1 | Εισαγωγή
 
-Μέσω του μαθήματος **HCI** έχω σαν σκοπό την εξοικείωση μου με το περιβάλλων του **GitHub** που προσωπικά μου αρέσει πολύ να δουλεύω. Επιπλέον, θα ήθελα να βελτιώσω το κομμάτι της ηλεκτρονικής συνεργασίας και της ομαδικότητας καθώς πιστεύω πως είναι σημαντικό **skill** για **upgrade**. Τέλος θα ήθελα πολύ να μάθω να δουλεύω πάνω στο **Arch Linux** καθώς δεν έχω ξαναδουλέψει στο συγκεκριμένο και προσωπικά μου φαίνεται πάρα πολύ ενδιαφέρον. Μέσω της βοήθειας του μαθήματος και των οδηγιών περιμένω να είναι μια ευχάριστη εμπειρία για μένα.
+Μέσω του μαθήματος **HCI** έχω σαν σκοπό την εξοικείωση μου με το περιβάλλον του **GitHub** που προσωπικά μου αρέσει πολύ να δουλεύω. Επιπλέον, θα ήθελα να βελτιώσω το κομμάτι της ηλεκτρονικής συνεργασίας και της ομαδικότητας καθώς πιστεύω πως είναι σημαντικό **skill** για **upgrade**. Τέλος θα ήθελα πολύ να μάθω να δουλεύω πάνω στο **Arch Linux** καθώς δεν έχω ξαναδουλέψει στο συγκεκριμένο και προσωπικά μου φαίνεται πάρα πολύ ενδιαφέρον. Μέσω της βοήθειας του μαθήματος και των οδηγιών περιμένω να είναι μια ευχάριστη εμπειρία για μένα.
 
 
 
@@ -56,17 +56,19 @@
 
 ### _gallery 
 
-* [Walkman](https://github.com/Efthimis015/_gallery/blob/master/walkman.md)
-* [Oakley](https://github.com/Efthimis015/_gallery/blob/master/oakley.md)
+* **[Walkman](https://github.com/Efthimis015/_gallery/blob/master/walkman.md)**
+* **[Oakley](https://github.com/Efthimis015/_gallery/blob/master/oakley.md)**
 
 ### images
 
-* [Walkman](https://github.com/Efthimis015/images/blob/master/walkman.jpg) & [Walkman-thumb](https://github.com/Efthimis015/images/blob/master/walkman-thumb.jpg)
-* [Oakley](https://github.com/Efthimis015/images/blob/master/oakley.jpg) & [Oakley-thumb](https://github.com/Efthimis015/images/blob/master/oakley-thumb.jpg)
+* **[Walkman](https://github.com/Efthimis015/images/blob/master/walkman.jpg) & [Walkman-thumb](https://github.com/Efthimis015/images/blob/master/walkman-thumb.jpg)**
+* **[Oakley](https://github.com/Efthimis015/images/blob/master/oakley.jpg) & [Oakley-thumb](https://github.com/Efthimis015/images/blob/master/oakley-thumb.jpg)**
 
-Link για την προβολή του **[1ου περιεχομένου](https://636500851b8843165e819f13--idyllic-speculoos-2a786b.netlify.app/gallery/oakley/)**.
+### Netlify
 
-Link για την προβολή του **[2ου περιεχομένου](https://cosmic-entremet-f6cbd2.netlify.app/gallery/walkman/)**.
+* **[Walkman](https://cosmic-entremet-f6cbd2.netlify.app/gallery/walkman/)**
+
+* **[Oakley](https://636500851b8843165e819f13--idyllic-speculoos-2a786b.netlify.app/gallery/oakley/)**
 
 
 
