@@ -163,6 +163,7 @@ Netlify links:
 | [Edpuzzle Password](https://github.com/courses-ionio/help/discussions/1174)         | [Answer](https://github.com/courses-ionio/help/discussions/1174#discussioncomment-3936904) | 21th Oct 2022  |
 | [Edpuzzle Password](https://github.com/courses-ionio/help/discussions/1170)         | [Contribution](https://github.com/courses-ionio/help/discussions/1170#discussioncomment-3936905) | 21th Oct 2022 |
 | [Timeline Fix](https://github.com/courses-ionio/help/discussions/1451)              | [Contribution](https://github.com/courses-ionio/help/discussions/1451#discussioncomment-4068953) | 6th Nov 2022  |
+| [Ώρες Calendly](https://github.com/courses-ionio/help/discussions/1504)             | [Answer](https://github.com/courses-ionio/help/discussions/1504#discussioncomment-4076949) | 7th Nov 2022  |
 
 | *Show and tell* | *Date* |
 | :--------------:| :----: |
