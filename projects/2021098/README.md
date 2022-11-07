@@ -186,4 +186,10 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 # Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
 
 * Προσωπικό site από το αποθετήριο μου (test site): [Greekforce1821](https://greekforce1821-site.netlify.app)
-* Timeline του προσωπικού αποθετηρίου (test site): [Greekforce1821-Site](https://greekforce1821-site.netlify.app/timeline)
+* Timeline του προσωπικού αποθετηρίου (test site): [Timeline Greekforce1821](https://greekforce1821-site.netlify.app/timeline)
+* Timeline #1 του προσωπικού αποθετηρίου (test site): [TImeline #1 Greekforce1821](https://greekforce1821-site.netlify.app/timeline/programming-languages/)
+* Timeline #2 του προσωπικού αποθετηρίου (test site): [Timeline #2 Greekforce1821](https://greekforce1821-site.netlify.app/timeline/computers-in-a-pocket/)
+* Slide #1 του προσωπικού αποθετηρίου (test site): [Slide #1 Greekforce1821](https://greekforce1821-site.netlify.app/slides/programming/)
+* Slide #2 του προσωπικού αποθετηρίου (test site): [Slide #2 Greekforce1821](https://greekforce1821-site.netlify.app/slides/computers-in-pockets/)
+
+---
