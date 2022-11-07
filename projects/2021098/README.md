@@ -16,9 +16,9 @@ E-mail: inf2021098@ionio.gr
 
 Netlify Site των Terminal Killers: [Organization Site](https://terminal-killers-site.netlify.app)
 
-Αποθετήριο ιστοσελίδας: [Pibook Organization Site Repository](https://github.com/Terminal-Killers/site)
-
 Netlify Personal Site Deploy: [Site](https://greekforce1821-site.netlify.app/)
+
+Αποθετήριο ιστοσελίδας οργανισμού: [Pibook Organization Site Repository](https://github.com/Terminal-Killers/site)
 
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
