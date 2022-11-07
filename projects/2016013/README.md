@@ -36,8 +36,6 @@
 
 # Παραδοτέο 5
 
-- [pullrequest](https://github.com/Unixidized/site/pull/3)
-
 - Slides
 
 [Windows XP](https://jade-fenglisu-025746.netlify.app//slides/os/)
