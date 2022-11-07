@@ -74,13 +74,15 @@
 
 # 5ο ΠΑΡΑΔΟΤΕΟ
 
+Σε αυτό το παραδοτέο κλειθήκαμε να φτιάξουμε τα δικάς μας timelines και slides τα οποία έπρεπε να είχαν σχέση με τις φωτογραγίες που χρησιμοποιήσαμε για το παραδοτεο 3, επισής, υπηρχέ η δυνατότητα να προσθεθούν οι εικόνες σε ήδη υπάρχοντα slides και timelines με αντίτημο όμως στον βάθμο. Προσωπικά επέλεξα να φτιάξω τα δικά μου, μιάς και είχα αρκετές ιδεές και επιπλέον ήταν μια ακομή πρόκληση για εμένα.
+
 Για τον Apple iMac έφτιαξα τα εξής slide και timeline:
-Καινοτόμες συσκεύες
-Γραφικό περιβάλλον
+S)[Καινοτόμες συσκεύες](https://axileaszervos.netlify.app/slides/innovativemachines/)
+T)[Γραφικό περιβάλλον](https://axileaszervos.netlify.app/timeline/graphicalinterfaces/)
 
 Για το virtualboy έφτιαξα τα εξής slide και timeline:
-Συσκεύες εικονικής πραγματικότητας
-Η εξέλιξη των 3d γραφικών
+S)[Συσκεύες εικονικής πραγματικότητας](https://axileaszervos.netlify.app/slides/virtual-reality/)
+T)[Η εξέλιξη των 3d γραφικών](https://axileaszervos.netlify.app/timeline/3denvironment/)
  
 
 
