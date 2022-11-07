@@ -41,20 +41,20 @@
 - [pull request-gallery](https://github.com/Unixidized/_gallery/pull/3)
 
 UPDATE:Επειδή ήθελα να είμαι σίγουρη για την επιλογή των θεμάτων, ξαναδιάβασα τις οδηγίες για το Α1 Συμμετοχικό περιεχόμενο και παρατήρησα πως επειδή το μάθημα είναι η Eπικοινωνία ανθρώπου -υπολογιστή και όχι η Tεχνολογία λογισμικού, η επιλογή μου να γράψω για δύο λογισμικά , διαφορετικά μεν μεταξύ τους,ήταν λανθασμένη. Ακόμη, θα έπρεπε τα θέματα που θα πρέπει να επιλέξουμε να συμβαδίζουν με την αισθητικη του βιβλίου ή οποία παρουσιάζει διαδραστικά συστήματα 10 ετων και πάνω.Οπότε με τα παραπάνω δεδομένα, ξαναέγραψα το Παραδοτέο 3 και αυτή την φορά επέλεξα να ασχοληθώ με τον HP 150 Touchscreen Computer και με το Microsoft Mouse του 1983. Συγκεκριμένα ο HP 150 Touchscreen Computer μου τράβηξε το ενδιαφέρον καθώς είναι ο πρώτος προσωπικός υπολογιστής με Touchscreen αλλά και το Microsoft Mouse που είναι το πρώτο ποντίκι της εταιρίας Micrsoft.Εδώ παραθέτω τα δύο Pull Request που έκανα προς στην ομάδα μου αλλά και τους συνδέσμους στο Netlify.
-- [pull request-images]
-- [pull request-gallery]
+- [pull request-images](https://github.com/Unixidized/images/pull/12)
+- [pull request-gallery](https://github.com/Unixidized/_gallery/pull/10)
 Netlify:
--  [HP 150 Touchscreen Computer]
--  [Microsoft Mouse]
+-  [HP 150 Touchscreen Computer](https://jade-fenglisu-025746.netlify.app/gallery/hp-150/)
+-  [Microsoft Mouse](https://jade-fenglisu-025746.netlify.app/gallery/microsoft-mouse-1983/)
 
 # ΠΑΡΑΔΟΤΕΟ 4
 ## Warm-up terminal
 
-Μέσω του Alacritty, για αυτο το παραδοτέο, αποφάσισα να εγκαταστήσω το epr, το οποίο μου επιτρέπει να διαβάζω ebooks(epub files) απο το terminal.Επιπλεόν, εγκατέστησα το wttr.in όπου πατώντας curl wttr.in/cfu μας εμφανίζει με ascii art τον καιρό για τον αερολιμένα την Κέρκυρα. Επισης επέλεξα και το youtube -dl όπου απο τις οδηγειες του repository του, το εγκατεστησα και εκτελωντας την εντολη 'youtube -dl -F URL' , είδα τη λιστα με τα διαθέσιμα formats και ύστερα εκτελώντας την εντολή youtube-dl -f 250 URL κατεβασα το τραγουδι του url στο format που αντιστιχουσε στον κωδικό 250. Όσον αναφορά την εγκατάσταση των Arch Linux, την έχω ήδη εκπονήσει στο Παραδοτέο 2. 
+Μέσω του Alacritty, για αυτο το παραδοτέο, αποφάσισα να εγκαταστήσω το wttr.in όπου πατώντας curl wttr.in/cfu μας εμφανίζει με ascii art τον καιρό για τον αερολιμένα της Κέρκυρα. Επισης επέλεξα και το youtube -dl όπου απο τις οδηγίες του repository του, το εγκατεστησα και εκτελωντας την εντολη 'youtube -dl -F URL' , είδα τη λιστα με τα διαθέσιμα formats και ύστερα εκτελώντας την εντολή youtube-dl -f 250 URL κατεβασα το τραγουδι του url στο format που αντιστιχουσε στον κωδικό 250. Όσον αναφορά την εγκατάσταση των Arch Linux, την έχω ήδη εκπονήσει στο Παραδοτέο 2. 
 
 ## Asciinema
- - [![EPR EBOOK READER](https://asciinema.org/a/cL8PwXbKk8hS0mWHjcFnCB56s.svg)](https://asciinema.org/a/cL8PwXbKk8hS0mWHjcFnCB56s)
- - [![WTTR WEATHER REPORT](https://asciinema.org/a/fcbgmxjcNLGk60EFvVvlgivCM.svg)](https://asciinema.org/a/fcbgmxjcNLGk60EFvVvlgivCM)
+ - [![WTTR WEATHER REPORT](https://asciinema.org/a/aXIsVSMElLmsPhpU4dOsOoaND.svg)](https://asciinema.org/a/aXIsVSMElLmsPhpU4dOsOoaND)
+ - [![asciicast](https://asciinema.org/a/W1H06UlPgyeSWN70gs4WWR6hW.svg)](https://asciinema.org/a/W1H06UlPgyeSWN70gs4WWR6hW)
  
  # ΠΑΡΑΔΟΤΕΟ 5 5
  Στο παραδοτέο καλούμαστε να ενσωματώσουμε τα θέματα τα οποία επιλέξαμε να γράψουμε για το Α1 Συμμετοχικό Περιεχόμενο στις ανάλογες Διαφάνειες και στο ανάλογο χρονολόγιο του site της ομάδας.Συγκεκριμένα, επέλεξα να ενσωματώσω τον HP 150 Touchscreen Computer σε 2 διαφάνειες, των Αρχετύπων αλλά και στις Μορφές ενω για το χρονολόγιο επέλεξα τους Προσωπικούς Υπολογιστες και αντίστοιχα ενσωμάτωσα το Microsoft Mouse επίσης σε 2 διαφάνεις , των Αρχετύπων και στις Μεθόδους ενώ στο χρονολόγιο επέλεξα την κατηγορία Συσκευές Εισόδου.Παρακάτω παραθέτω τo Link του Pull Request μου στο site της ομάδας αλλα και τα Link στο Netlify
