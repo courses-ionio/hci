@@ -24,8 +24,6 @@
 
 # Παραδοτέο 2
 
-
-
 [Neofetch](https://asciinema.org/a/rfALTSs52Ei2OFKO6NO8TYTMM)
 [Journalctl](https://asciinema.org/a/5n6LjYECtlpeWYxL93p1MqldS)
 
@@ -40,11 +38,11 @@
 [pullrequest](https://github.com/Unixidized/site/pull/3)
 
 - Slides
-[Windows XP](https://jade-fenglisu-025746.netlify.app//slides/os/)
 
+[Windows XP](https://jade-fenglisu-025746.netlify.app//slides/os/)
 [Xerox Globalview](https://jade-fenglisu-025746.netlify.app//slides/gui/)
 
 - Timeline
-[Windows XP](https://jade-fenglisu-025746.netlify.app//timeline/microsoft/)
 
+[Windows XP](https://jade-fenglisu-025746.netlify.app//timeline/microsoft/)
 [Xerox Globalview](https://jade-fenglisu-025746.netlify.app//timeline/desktop-publishing/)
