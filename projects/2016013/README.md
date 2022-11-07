@@ -38,10 +38,14 @@
 
 - Slides
 
+
 [Windows XP](https://jade-fenglisu-025746.netlify.app//slides/os/)
+
 [Xerox Globalview](https://jade-fenglisu-025746.netlify.app//slides/gui/)
 
 - Timeline
 
+
 [Windows XP](https://jade-fenglisu-025746.netlify.app//timeline/microsoft/)
+
 [Xerox Globalview](https://jade-fenglisu-025746.netlify.app//timeline/desktop-publishing/)
