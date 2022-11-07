@@ -29,16 +29,30 @@
 # 2ο ΠΑΡΑΔΟΤΕΟ
 
 # ΕΝΤΥΠΩΣΕΙΣ ΚΑΙ ΠΡΟΒΛΗΜΑΤΑ ΚΑΤΑ ΤΗΝ ΕΓΚΑΤΑΣΤΑΣΗ
-Ήταν η πρώτη μου επαφή με σύστημα linux, ποσό μάλλον ο τρόπος εγκατάστασης του ο οποίος ήταν με commands και όχι με κάποιο γραφικό περιβάλλον όπως έχω συνηθίσει. Αρχικά, το πρώτο μου δίλημμα ήταν εάν η εγκατάσταση θα γινόταν σε usb stick ή σε dual-boot, τελικά κατέληξα σε usb stick μιας και είναι ο ασφαλέστερος τρόπος για έναν αρχάριο σαν έμενα κατά την γνώμη μου. Το πρώτο πρόβλημα που συνάντησα ήταν το wiki tou arch linux, προσωπικά με δυσκόλεψε πολύ και με έκανε να καταφύγω σε αυτό εδώ το [tutorial](https://www.youtube.com/watch?v=yaThYGr37DI). Στην συνεχεία το command install-grub δεν μου δούλευε με αποτέλεσμα να ψάχνω σε διάφορα forums για εναλλακτικά commands. Μετά από μερικές προσπάθειες, πολύ διάβασμα και παρακολούθηση tutorials το λειτουργικό εγκαταστάθηκε με επιτυχία και μαζί του το neo fetch και το journalctl.  
+Ήταν η πρώτη μου επαφή με σύστημα linux, ποσό μάλλον ο τρόπος εγκατάστασης του ο οποίος ήταν με commands και όχι με κάποιο γραφικό περιβάλλον όπως έχω συνηθίσει. Αρχικά, το πρώτο μου δίλημμα ήταν εάν η εγκατάσταση θα γινόταν σε usb stick ή σε dual-boot, τελικά κατέληξα σε usb stick μιας και είναι ο ασφαλέστερος τρόπος για έναν αρχάριο σαν έμενα κατά την γνώμη μου. 
+
+Το πρώτο πρόβλημα που συνάντησα ήταν το wiki tou arch linux, προσωπικά με δυσκόλεψε πολύ και με έκανε να καταφύγω σε αυτό εδώ το [tutorial](https://www.youtube.com/watch?v=yaThYGr37DI). Στην συνεχεία, το arch κατα την εγκατάσταση δεν έχει τι δυνατότητα σύνδεσης με wifi πράγμα το οποίο με ανάγκασε να προσπαθήσω ανεπιτυχώς να εγκαταστήσως το iwctl και στη συνέχεια να συμβιβαστώ με ένα ethernet cable το όποιο προσωπικά δεν με βόλεψε αφου το router μου είναι αρκετά μακρια μου. Τέλος, το command install-grub δεν μου δούλευε με αποτέλεσμα να ψάχνω σε διάφορα forums για εναλλακτικά commands. Μετά από μερικές προσπάθειες, πολύ διάβασμα και παρακολούθηση tutorials το λειτουργικό εγκαταστάθηκε με επιτυχία και μαζί του το neo fetch και το journalctl.  
 
 
 # ΤΡΟΠΟΣ ΕΓΚΑΤΑΣΤΑΣΗΣ ΒΗΜΑ-ΒΗΜΑ
-Αρχικά, για την εγκατάσταση, έπρεπε να μετατρέψω το usb stick μου σε bootable, αυτο επιτευχθηκε με την βοηθεια του rufus  b-stick μου, για να τα χωρίσω χρησιμοποίησα το gdisk, στην συνεχεία έγιναν mount και εγκασταθηκε το πρώτο μεγάλο πακέτο(pacstrap /mnt base base-devel linux-linux firmware vim}. Έπειτα έγινε η εγκατάσταση του grub, με την εντολή grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB --removeble --recheck/ και για με την εντολή  grub-mkconfig -o /boot/grub/grub.cfg το configuration του. Μετά από αυτό εγκατασταθήκαν οι network drivers με μια σειρά από εντολές όπως: pacman -S networkmanager grub,systemctl enable NetworkManager, κ.α. Επιπροσθέτος, εκτέλεσα την εντολή passwd δημιουργία κωδικού,την δημιουργία hostname(vim /etc/hostname) και άλλες παρεμφερής εντολές. Μετά το τέλος της εγκατάστασης, εγκατέστησα το [neofetch](https://asciinema.org/a/528720) και έτρεξα το [journalistctl](https://asciinema.org/a/528720).
+Αρχικά, για την εγκατάσταση, έπρεπε να μετατρέψω το usb stick μου σε bootable, αυτο επιτευχθηκε με την βοηθεια του [rufus](https://rufus.ie/en/), έπειτα κατέβασα απο το [wiki](https://archlinux.org/download/) του arch το απαραίτητο iso και το πέρασα στο usb stick. 
+
+Αφού πραγματοποίησα το boot μέσω του usb stick στον υπολογιστή μου, πρόσθεσα άλλο ενα άδειο usb stick στο οποίο χρησιμοποιήθηκε για την εγκατάσταση του arch-linux. Στη συνέχεια, το usb έπρεπε να χωριστει σε partitions για την εγκατάσταση του arch linux. Με την βοήθεια του 'gdisk /dev/sda' δημιούργησα 2 partiotions, ένα για το boot και ένα με τον υπόλοιπο διαθέσιμο χώρο για λειτουργικό σύστημα, μετέπειτα και τα δύο partitions έγιναν mount.
+
+Επείτα απο αυτό, έκανα εγκατάσταση το πρώτο μεγάλο πακέτο(pacstrap /mnt base base-devel linux-linux firmware vim). Με την εντολή 'arch-chroot /mnt' μπήκα σε root profile με σκοπό την εγκατάσταση του grub. Στην συνέχεια με την εντολή 'timedatectl list-timezones | "enter the time zone"' πρόσθεσα την ώρα και την ημερομηνία της πόλης μου με σκοπό το σύστημα μου να είναι σωστα ενημερομένο. Τέλος, με την εντολή pacman -S grub εγκατέστησα το grub και με την εντολή 'pacman -S netowrkmanager'
+του απαιρέτητους drivers για το δίκτυο στο σύστημα μου.
+ 
+Πρίν κάνω reboot και τελειώσω το installtion, φρόντησα να δημιουργήσω ενά προφιλ με την εντολή vim /etc/hostname και προσωπικό κωδικό με την εντολή 'passwd'. Μετά την εκτέλεση αυτών των 2 βγήκα απο το root profile με την εντολή 'exit' και με την εντολή 'reboot' πραγματοποίησα επανεκίνηση στο συστημά μου.
+
+Μετά το τέλος της εγκατάστασης, εγκατέστησα το [neofetch](https://asciinema.org/a/528720) και έτρεξα το [journalistctl](https://asciinema.org/a/528720).
+
 
 # 3ο ΠΑΡΑΔΟΤΕΟ 
-Σε αυτό το παραδοτέο απαιτείται η συμμετοχή όλων μας τοσο ατομικά οσο και ομαδικά με τον εμπλουτισμό περιεχομένου στο ήδη υπάρχον [site](https://pibook.epidro.me). Ως admιn της ομάδας δημιoύργησα το [site](https://app.netlify.com/sites/hobistes/settings/general) και πρόσθεσα τα απαραίτητα [modules](https://github.com/orgs/OMADA12/repositories) στο reposiroty της ομάδας μου.
 
-Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://app.netlify.com/sites/axileaszervos/overview) και πρόσθεαα 4 φωτογραφίες και 2 md files για τα θέματα που πρόσθεσα στο site. Ακόμη, εκάνα pull request τα [md files](https://github.com/pibook/_gallery/commit/0e3a506e1749cd2965e6050fb2896959b2ef8d3a) και τις [εικόνες](https://github.com/pibook/images/commit/f44594e7099143866bfeaa9c5b5220f08190faaf).
+Σε αυτό το παραδοτέο απαιτείται η συμμετοχή όλων μας τοσο ατομικά οσο και ομαδικά με τον εμπλουτισμό περιεχομένου στο ήδη υπάρχον [site](https://pibook.epidro.me). Ως admιn της ομάδας δημιoύργησα το [site](https://app.netlify.com/sites/omada122/settings/general) και πρόσθεσα τα απαραίτητα [modules](https://github.com/orgs/OMADA12/repositories) στο reposiroty της ομάδας μου.
+
+Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://axileaszervos.netlify.app)) και πρόσθεαα 4 φωτογραφίες και 2 md files για τα θέματα που πρόσθεσα στο site. Ακόμη, εκάνα pull request τα [md files](https://github.com/pibook/_gallery/commit/74212cfe631d042f216426e20cac69cdd46cb3fb) και τις [εικόνες](https://github.com/pibook/images/commit/fa6b4276eed47aa69394a1c38c61690a0f04a959).
+
 
 # 4ο ΠΑΡΑΔΟΤΕΟ
 
@@ -52,6 +66,7 @@
 [DOT FILES,PS1,NEOFETCH](https://asciinema.org/a/531950)
 
 # 5ο ΠΑΡΑΔΟΤΕΟ
+
 Για τον Apple iMac έφτιαξα τα εξής slide και timeline:
 Καινοτόμες συσκεύες
 Γραφικό περιβάλλον
