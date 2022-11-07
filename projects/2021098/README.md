@@ -178,7 +178,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 ![Screenshot_2022-11-07_18-41-57](https://user-images.githubusercontent.com/33377581/200337898-9464ecd1-8b28-4ac2-aeef-52d04b2798f9.jpg)
 
 
-## <ins> Υπολογιστές Τσέπης </ins>
+## <ins> Υπολογιστές Τσέπης Slide </ins>
 
 ![Screenshot_2022-11-07_18-43-32](https://user-images.githubusercontent.com/33377581/200338268-c7c365f1-7a4b-4b24-a46d-a7aeeca18d70.jpg)
 
