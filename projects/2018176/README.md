@@ -29,6 +29,8 @@ neofetch, journalctl -b
 
 [Pubtech Netlify](https://gentle-kitsune-a544f4.netlify.app/gallery/pubtech/)
 
+[Discussion Link](https://github.com/courses-ionio/help/discussions/1476)
+
 ## Παραδοτέο 4
 Έγιναν τα παρακάτω χρησιμοποιώντας το terminal:
 - Καιρός μέσω τερματικού
@@ -43,4 +45,4 @@ neofetch, journalctl -b
 
 [Asciinema Link](https://asciinema.org/a/TDYmuKCnxazji8NbYzdGXV18P)
 
-[Discussions Link]()
+[Discussions Link](https://github.com/courses-ionio/help/discussions/1309)
