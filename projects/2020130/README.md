@@ -41,7 +41,7 @@
 [Images](https://github.com/WhatColorIsYourBugatti/images/pull/9/files)
 <br>
 <h2>Παραδοτέο 4ο:</h2>
-Σε αυτό το παραδοτέο απλώς εκτέλεσα την εντολή wttr.in εφόσον έχω ήδη εγκαταστήσει τα Arch Linux από το [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1114).
+Σε αυτό το παραδοτέο απλώς εκτέλεσα την εντολή wttr.in εφόσον έχω ήδη εγκαταστήσει τα Arch Linux από το [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1114)
 
 Αποτέλεσμα της [wttr.in](https://asciinema.org/a/533564)
 
