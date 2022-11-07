@@ -21,9 +21,9 @@ neofetch, journalctl -b
 ## Παραδοτέο 3
 Προσθήκη Pubtech, Norton-Desktop στο site.
 
-[Pull Request _gallery](https://github.com/ContattoContare/_gallery/pull/11)
+[Pull Request _gallery](https://github.com/ContattoContare/_gallery/pull/3)
 
-[Pull Request images](https://github.com/ContattoContare/images/pull/8)
+[Pull Request images](https://github.com/ContattoContare/images/pull/3)
 
 [Norton Desktop Netlify](https://gentle-kitsune-a544f4.netlify.app/gallery/nortondesktop/)
 
