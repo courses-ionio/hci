@@ -158,12 +158,14 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 Στο συγκεκριμένο παραδοτέο, αξιοποίησα τις προηγούμενες μου γνώσεις και δημιούργησα δύο `timelines` σχετικές με τις `Υψηλού επιπέδου γλώσσσες προγραμματισμού` και αντίστοιχα με τους `Υπολογιστές τσέπης`. Δημιούργησα δύο αρχεία (.md) με κωδικές ονομασίες: `computers-in-pockets.md` και `programming-languages` στο προσωπικό repository της σελίδας μου, έκανα redeploy και τσέκαρα ότι απεικονίζονται σωστά στην ιστοσελίδα, επομένως προχώρησα σε pull request για το submodule `_timeline` στο [repo site του οργανισμού](https://github.com/Terminal-Killers/site). Αφού έγινε deploy τσέκαρα ότι εμφανίστηκαν σωστά τα παραπάνω χρονολόγια στο [`organization site`](https://terminal-killers-site.netlify.app/timeline) και προχώρησα στο επόμενο βήμα.
 
-# <ins>ODROID-C4 Timeline</ins>
+## <ins>Υπολογιστές Τσέπης Timeline</ins>
 
 ![Screenshot_2022-11-07_17-31-50](https://user-images.githubusercontent.com/33377581/200328863-25282b16-3c5d-46dc-acbf-32c041bfe0d8.jpg)
 
 
+## <ins>Υψηλού Επιπέδου Γλώσσες Προγραμματισμού Timeline</ins>
 
+![Screenshot_2022-11-07_17-32-09](https://user-images.githubusercontent.com/33377581/200332060-cb002c3b-dd18-4057-a93d-55d5929b3f95.jpg)
 
 
 
