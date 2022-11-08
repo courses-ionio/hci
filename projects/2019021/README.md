@@ -25,7 +25,7 @@
 
 # Παραδοτέο 2: Άσκηση γραμμής εντολών
 
-Σε αυτό το παραδοτέο εγκατέστησα το Arch Linux μέσα στο Oracle Virtual Box του υπολογιστή μου. Χρησιμοποιοντας το asciinema εκανα μια ηχογραφηση χρησιμοποιοντας τις εντολες [neofetch](https://asciinema.org/a/G7NQfQuuMJcZYwMrf5mjPuQYT) και [journalctl -b](https://asciinema.org/a/B3DhjtZUmd5lcrmZxVofia2k5) στο τερματικο του λογισμικου.
+Σε αυτό το παραδοτέο εγκατέστησα το Arch Linux μέσα στο Oracle Virtual Box του υπολογιστή μου. Χρησιμοποιοντας το asciinema εκανα ηχογραφησεις χρησιμοποιοντας τις εντολες [neofetch](https://asciinema.org/a/G7NQfQuuMJcZYwMrf5mjPuQYT) και [journalctl -b](https://asciinema.org/a/G7NQfQuuMJcZYwMrf5mjPuQYT) στο τερματικο του λογισμικου.
 
 # Παραδοτέο 3: Συμμετοχικό περιεχόμενο A1
 
@@ -35,4 +35,9 @@
  [1η Εικόνα και περιεχομενο](https://aesthetic-kheer-623587.netlify.app/gallery/mac%20os%20x%20leopard/)
  
  [2η Εικόνα και περιεχομενο](https://aesthetic-kheer-623587.netlify.app/gallery/microsoft%20windows%2011/)
-  
+ 
+ 
+ # Παραδοτέο 4: Άσκηση γραμμής εντολών
+ 
+ [1η άσκηση](https://asciinema.org/a/LtSdB9iDOduSFswPy5jBMkpNw)
+  (Βρισκω αρθρα πανω σε ενα συγκεκριμενο θεμα)
