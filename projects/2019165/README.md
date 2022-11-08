@@ -107,3 +107,12 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 
 Για την προσθήκη των φωτογραφιών στο χρονολόγιο , δημιουργήθηκαν δύο ξεχωριστά χρονολόγια καθώς η θεματική των δύο συσκευών μου διέφερε. Έτσι το wii προστέθηκε στο χρονολόγιο [Ανίχνευση Κίνησης](https://lucky-llama-173f38.netlify.app/timeline/motion-detector/) που δημιούργησα και ο Simon της IBM στο δεύτερο χρονολόγιο [Κινητή Διάδραση](https://lucky-llama-173f38.netlify.app/timeline/mobile-interaction/).
 
+### Τα χρονολόγια που δημιούργησα :
+#### [Ανίχνευση Κίνησης](https://lucky-llama-173f38.netlify.app/timeline/motion-detector/)
+#### [Κινητή Διάδραση](https://lucky-llama-173f38.netlify.app/timeline/mobile-interaction/).
+
+### Τα slides μου :
+#### [Φορητές Συσκευές](https://lucky-llama-173f38.netlify.app/slides/portable-devices/)
+#### [Bιντεοπαιχνίδια](https://lucky-llama-173f38.netlify.app/slides/videogames/)
+
+### Το [pull request προς τον οργανισμό](https://github.com/Cat-a-strophe/site/pull/1)
