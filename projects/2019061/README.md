@@ -58,6 +58,13 @@ e-mail: p19tila@ionio.gr <br/>
 <br/>
 <br/>
 
+<h1 align="center">Άσκηση γραμμής εντολών (warm up cli)</h1>
+
+<p>Στο συγκεκριμένο παραδοτέο εμφάνισα τον καιρό σε δύο τοποθεσίες της Ελλάδας, Κέρκυρα και Θεσσαλονίκη. Χρησιμοποίησα την εντολή curl και την υπηρεσία πρόγνωσης καιρού wttr.in αφού την εγκατέστησα στο καινούριο μου λειτουργικό σύστημα.</p>
+<br/>
+
+[![asciicast](https://asciinema.org/a/97yD6hj5E2TEyZc3UsMfYSpUy.svg)](https://asciinema.org/a/97yD6hj5E2TEyZc3UsMfYSpUy)
+
 <h1 align="center">Βίντεο Κουίζ </h1>
 
 |🔳| Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
