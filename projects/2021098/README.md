@@ -195,7 +195,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 * Timeline #2 του προσωπικού αποθετηρίου (test site): [Timeline #2 Greekforce1821](https://greekforce1821-site.netlify.app/timeline/computers-in-a-pocket/)
 * Slide του προσωπικού αποθετηρίου (test site): [Slide Greekforce1821](https://greekforce1821-site.netlify.app/slides)
 * Slide #1 του προσωπικού αποθετηρίου (test site): [Slide #1 Greekforce1821](https://greekforce1821-site.netlify.app/slides/programming/)
-* Slide #2 του προσωπικού αποθετηρίου (test site): [Slide #2 Greekforce1821](https://greekforce1821-site.netlify.app/slides/computers-in-a-pocket/)
+* Slide #2 του προσωπικού αποθετηρίου (test site): [Slide #2 Greekforce1821](https://greekforce1821-site.netlify.app/slides/computers-in-pockets/)
 
 ---
 
