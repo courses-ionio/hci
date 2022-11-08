@@ -2,6 +2,7 @@
 ### Αριθμός Μητρώου: Π2019021
 ### Ομάδα: [XorisOnoma](https://github.com/XorisOnoma)
 ### [Netlify Link](https://aesthetic-kheer-623587.netlify.app/)
+### [Asciinema profile](https://asciinema.org/~p19anat)
 
 | Εβδομάδα | Παραδοτέα  | Αυτοαξιολόγηση |
 | --- | --- | --- | 
