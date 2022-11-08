@@ -12,7 +12,7 @@ Asciinema profile: [inf2021186](https://asciinema.org/~inf2021186)
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1022)| Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1266), [Organization Base Site](https://terminal-killers-site.netlify.app/) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1326) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1508), [PR#1](https://github.com/Terminal-Killers/_gallery/pull/18), [PR#2](https://github.com/Terminal-Killers/images/pull/10), [Work#1](https://terminal-killers-site.netlify.app//timeline/programming-languages/), [Work#2](https://terminal-killers-site.netlify.app//slides/vmware/), [Work#3](https://terminal-killers-site.netlify.app//slides/programming/), [Work#4](https://terminal-killers-site.netlify.app//timeline/simulations/) |Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -40,6 +40,8 @@ Asciinema profile: [inf2021186](https://asciinema.org/~inf2021186)
   
   Τέλος, τα παραπάνω και άλλα μη αναφερόμενα θα φανούν αρκετά χρήσιμα στην ακαδημαϊκή μου αλλά και στην επαγγελματική μου ζωή.
 
+#
+
 # 2o ΠΑΡΑΔΟΤΕΟ:
 
 Ζητούμενο μας ήταν να γίνει installation της διανομής των Arch Linux και να κατασκευαστεί ένα βίντεο στο οποίο θα τρέξουμε τις ακόλουθες εντολές: `neofetch` και `journalctl -b`. Οφείλω να πω πως η εγκατάσταση του λειτουργικού συστήματος έγινε με επιτυχία! Ακολουθεί σύντομη διαδρομή της εγκατάστασης: 
@@ -51,13 +53,33 @@ Asciinema profile: [inf2021186](https://asciinema.org/~inf2021186)
 [![asciicast](https://asciinema.org/a/527852.svg)](https://asciinema.org/a/527852)
 
 *(Σημείωση): Το installation της διανομής αυτής είναι καθολικό και όχι σε VM.
+#  
 
 # 3ο ΠΑΡΑΔΟΤΕΟ
 
+Η δημιουργία της ιστοσελίδας {[site](https://stamathsp.netlify.app/)} επιτεύχθηκε μετά από πολλές προσπάθειες. Οι προσωπικές μου υποχρεώσεις είναι: 
+(Παραθέτω τους συνδέσμους των sites) 
+- [Γλώσσα Προγραμματισμού Java](https://terminal-killers-site.netlify.app//gallery/java/)
+- [VMware](https://terminal-killers-site.netlify.app//gallery/vmware/)
+# Pull Requests
 
+1.  [_gallery](https://github.com/Terminal-Killers/_gallery/pull/18)
+2.  [images](https://github.com/Terminal-Killers/images/pull/10)  
+#
 
 # 4o ΠΑΡΑΔΟΤΕΟ
 
 Στο τέταρτο παραδοτέο μας ζητήθηκε να κάνουμε warm up στην γραμμή εντολών (terminal) για την εξικοίωση μας. Προσωπικά ασχολήθηκα  με την εντολή ` curl wttr.in`  όπου είναι εντολή που δείχνει μια live μετεωρολογική πρόβλεψη στο τερματικό με μερικά στοιχεία για την περιγραφή του καιρού (Τοποθεσία, θερμοκρασία κ.α). Στο [αποθετήριο](https://github.com/chubin/wttr.in) και στο [wttr.in](https://wttr.in/:help) υπάρχει ένα ενημερωτικό, χρήσιμο και διασκεδαστικό περιεχόμενο. Βάσει αυτών, έκανα πρακτική τις διάφορες εντολές που μου παρέχουν (π.χ η εντολή `curl wttr.in/*YOURLOCATION*` ή η εντολή `curl wttr.in/*YOURAIRPORT* `  για να ενημερωθείτε live για την τρέχουσα καιρική κατάσταση για ένα αεροδρόμιο του προορισμού σας.) Helpful enough. 
 
 [![asciicast](https://asciinema.org/a/533145.svg)](https://asciinema.org/a/533145)
+
+#
+
+# 5ο ΠΑΡΑΔΟΤΕΟ
+
+Στο παραδοτέο 5 μας ζητήθηκε να γίνει προσθήκη δύο slides και δύο timelines στο ήδη forked site του [παραδοτέου 3](https://github.com/courses-ionio/help/discussions/1266).Ύστερα από ένα μέγα λάθος που έγινε με τα markdown `.md` files (λανθασμένη κατανόηση του παραδοτέου), κατάφερα να προσθέσω τα  προσωπικά μου αρχεία στο [site](https://terminal-killers-site.netlify.app/)  ακολουθώντας τις [οδηγίες](https://github.com/Terminal-Killers/Terminal-Killers/discussions/12) της ομάδας. 
+# Προσωπικές υποχρεώσεις:
+1) Πρόσθεσα στο προσωπικό μου [site](https://stamathsp.netlify.app/) τα δύο timelines με τα οποία ασχολήθηκα ([Γλώσσα προγραμματισμού Java](https://stamathsp.netlify.app//timeline/programming-languages/),[VMware](https://stamathsp.netlify.app//timeline/simulations/)).
+2) Πρόσθεσα στο [site του προσωπικού μου αποθετηρίου](https://stamathsp.netlify.app/) το ένα (καινούργιο) slide VMware  και ενσωμάτωσα σε ήδη υπάρχον slide από τον κο. Χωριανόπουλο την Γλώσσα Προγραμματισμού Python αλλά και τη Γλώσσα Προγραμματισμού Java.
+3) Πρόσθεσα τα δύο timelines μου στην ιστοσελίδα του [οργανισμού](https://terminal-killers-site.netlify.app/), τα [Γλώσσα Προγραμματισμού Java](https://terminal-killers-site.netlify.app//timeline/programming-languages/) και [VMware](https://terminal-killers-site.netlify.app//timeline/simulations/).
+#
