@@ -84,8 +84,8 @@
 
 | Netlify | Pull Requests | 
 | --- | --- |
-|  | [gallery](https://github.com/Cat-a-strophe/_gallery/pull/6)| 
-|  | [images](https://github.com/Cat-a-strophe/images/pull/11)|
+|[dice-plus](https://lucky-llama-173f38.netlify.app/gallery/dice-plus/)| [gallery](https://github.com/Cat-a-strophe/_gallery/pull/6)| 
+|[augmented-school-desk](https://lucky-llama-173f38.netlify.app/gallery/augmented-school-desk/)| [images](https://github.com/Cat-a-strophe/images/pull/11)|
 
 
 
