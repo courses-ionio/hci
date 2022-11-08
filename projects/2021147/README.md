@@ -8,8 +8,8 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[ΠΑΡΑΔΟΤΕΟ 1](https://github.com/courses-ionio/help/discussions/893), [Η ΟΜΑΔΑ ΜΟΥ](https://github.com/OMADA12), Απάντηση στις ερωτήσεις του Edpuzzle 1ης εβδομάδας ||
 | 2 | Άσκηση γραμμής εντολών (linux install) | Απάντηση στις ερωτήσεις του Edpuzzle 2ης εβδομάδας, Linux install | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |Απάντηση στις ερωτήσεις του Edpuzzle 3ης εβδομάδας, υλοποίηση Συμμετοχικού περιεχομένου Α1 με την [ΟΜΑΔΑ ΜΟΥ](https://github.com/OMADA12)| |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |Απάντηση στις ερωτήσεις του Edpuzzle 4ης εβδομάδας, πραγματοποίηση μερικών warm-ups | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |Απάντηση στις ερωτήσεις του Edpuzzle 5ης εβδομάδας, υλοποίηση Συμμετοχικού περιεχομένου Α2 με την [ΟΜΑΔΑ ΜΟΥ](https://github.com/OMADA12) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -26,11 +26,14 @@
 ## Εγκατάσταση
 Στην αρχή δημιούργησα δύο partitions στο στικάκι, έπειτα αφότου το χώρισα και τα έκανα mount έγινε η εγκατάσταση του πρώτου πακέτου pacstrap /mnt base base-devel linux-linux firmware vim. Μετά εκτελέθηκε η εντολή grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB --removeble --recheck/ και για το configuration του grub-mkconfig -o /boot/grub/grub.cfg. Έπειτα οι drivers εγκαταστήθηκαν με εντολές όπως η pacman -S και η systemctl enable NetworkManager ενώ μετά δημιούργησα τον κωδικό και το όνομα χρήστη (/ passwd, vim/etc/hostname). Τέλος έκανα την εγκατάσταση του neofetch και έτρεξα το journalistctl όπως είχε ζητηθεί [(neofetch and journalistctl)](https://asciinema.org/a/529785).
 ### Παραδοτέο 3ο:
+## Άσκηση Α1
 Έπειτα από συνεννόηση με την ομάδα μου ξεκίνησα την διαδικασία να εμπλουτίσω το περιεχόμενου του [site](https://pibook.epidro.me/) με δικές μου εικόνες. Δημιούργησα το δικό μου [site](https://panmour.netlify.app/) με την βοήθεια των γνώσεων που απέκτησα από τα προηγούμενα παραδοτέα και πρόσθεσα τις 4 εικόνες που βρήκα και θεωρούσα πως συνήσφεραν στο ήδη υπάρχον υλικό (2 κανονικές εικόνες και 2 160x160 εικόνες) καθώς και τα 2 md files που χρειάζονταν. Έπειτα πραγματοποίησα το pull request για τις [εικόνες και για τα md files μου](https://github.com/OMADA12/_gallery/pull/5).Οι εικόνες μου στο site: [Xbox console](https://panmour.netlify.app/gallery/xbox-console/), [OXO](https://panmour.netlify.app/gallery/oxo/)
 ### Παραδοτέο 4ο:
+## Warm-ups
 Καθώς είχα ήδη πραγματοποιήση την εγκατάσταση του Arch Linux σε στικάκι, ξεκίνησα απευθείας την εξάσκηση με την πραγματοποίηση μερικών warm-ups.
 Τα warm-ups που έχω εκτελέσει: [fetch](https://asciinema.org/a/533465), [weather report](https://asciinema.org/a/533461). Η πρώτη εντολή $ curl ipaddy.net μου εμφάνισε την διεύθυνση καθώς και την χώρα. Ενώ με την δεύτερη εντολή wttr εμφάνησα τηνν πρόβλεψη του καίρο στην τοπική περιοχή.
 ### Παραδοτέο 5ο:
+## Άσκηση Α2
 Σε αυτό το παραδοτέο κλιθήκαμε να συνεχίσουμε την εργασία Α από το 3ο παραδοτέο. Ξανά με χρήση των γνώσεων που είχα αποκτήσει μέχρι τώρα και έπειτα από συνεννόηση με την ομάδα δημιούργησα 2 δικά μου slides και 2 timelines σχετικά με τις εικόνες που είχα ήδη επιλέξει.
-## Για το Xbox console: [timeline](https://panmour.netlify.app/timeline/home-devices/) , [slides](https://panmour.netlify.app//slides/consoles/)
-## Για το OXO: [timeline](https://panmour.netlify.app//timeline/multiplayer/) , [slides](https://panmour.netlify.app/slides/interaction-with-ai/)
+### Για το Xbox console: [timeline](https://panmour.netlify.app/timeline/home-devices/) , [slides](https://panmour.netlify.app//slides/consoles/)
+### Για το OXO: [timeline](https://panmour.netlify.app//timeline/multiplayer/) , [slides](https://panmour.netlify.app/slides/interaction-with-ai/)
