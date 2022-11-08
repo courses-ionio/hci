@@ -41,3 +41,6 @@
  
  [1η άσκηση](https://asciinema.org/a/LtSdB9iDOduSFswPy5jBMkpNw)
   (Βρισκω αρθρα πανω σε ενα συγκεκριμενο θεμα)
+  
+  [2η άσκηση](https://asciinema.org/a/eh3OGRhU4sTHqFExhuHvyAQ9v)
+  (Βλεπω τον καιρο)
