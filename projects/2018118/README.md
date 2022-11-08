@@ -10,7 +10,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση-Παραδοτέο 1](https://github.com/courses-ionio/help/discussions/1314)| |
 | 2 | [Άσκηση γραμμής εντολών (arch linux install on VM)](#παραδοτέο-2) | [Συζήτηση-Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1429) | |
 | 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3)| | |
-| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
+| 4 | [Άσκηση γραμμής εντολών (arch linux install on HW)](#παραδοτέο-4) | | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -40,6 +40,22 @@
 | Images C Programming Language | [Full Quality](https://github.com/Drexion/images/blob/master/c-programming-language.png) + [Thumbnail](https://github.com/Drexion/images/blob/master/c-programming-language-thumb.png) |
 | Gallery Java | [java.md](https://github.com/Drexion/_gallery/blob/master/java.md) | [Java Summary](https://p2018118-pibook.netlify.app/gallery/java/) |
 | Images Java | [Full Quality](https://github.com/Drexion/images/blob/master/java.png) + [Thumbnail](https://github.com/Drexion/images/blob/master/java-thumb.png) |
+
+# Παραδοτέο 4
+
+Για το 4ο παραδοτέο ασχολήθηκα με την λήψη αρχείου mp3, μέσω του εργαλείου "youtube-dl". Η  διαδικασία είναι πολύ ιδιαίτερη και είχε πολύ ενδιαφέρον λόγω της διάδρασεις μεταξύ του cmd αντί γραφικού περιβάλλοντος. Χρησιμοποίησα επίσης μερικά options για την δημιουργία του mp3 καθώς και για την καλύτερη κατανόηση του αρχείου.
+
+Πιο συγκεκριμένα χρησιμοποιήθηκαν τα παρκαάτω τα παρακάτω: 
+
+|Deliverables|
+|---|
+|--audio-format mp3, με το οποίο επέλεξα το αρχείο να είναι mp3|
+|--extract-audio για μετατροπή του βίντεο σε αρχείο ήχου|
+|--limit-rate 3M, το οποίο χρησιμοποιείται για περιορισμό των download byte που καταναλώνει. Χρησιμοποιήθηκε για λόγους κατανόησης του εργαλείου|
+
+Παρακάτω θα βρείτε το link για το asciinema:
+
+[Asciinema Link](https://asciinema.org/a/DdW8q6zhDGQbRpey7ZPDEqG0t)
 
 # Παραδοτέο 5
 Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Α2 προχώρησα στην υλοποίηση των slides και του timeline, όπου η γενικότερη θεματολογία είναι η εξέλιξη της γλώσσας προγραμματισμού. Aναφέρομαι σε παλαιότερες προγραμματιστικές γλώσσες καθώς και στην δημουργία των πρώτων υπολογιστών. Ως διαδικασία ήταν πιο εύκολη από το Α1 εφόσον πλέον έχω κατανοήσει τον τρόπο λειτουργίας του gituhb και αλληλεπίδρασης του με το Netlify, κάτι που έκανε την διαδικασία αρκετά πιο ομαλή και εύκολη.
