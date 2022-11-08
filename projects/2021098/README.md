@@ -205,4 +205,4 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 * Timeline #2 του αποθετηρίου του οργανισμού: [Timeline #2 Organization](https://terminal-killers-site.netlify.app/timeline/computers-in-a-pocket/)
 * Slide του αποθετηρίου του οργανισμού: [Slide Organization](https://terminal-killers-site.netlify.app/slides)
 * Slide #1 του αποθετηρίου του οργανισμού: [Slide #1 Organization](https://terminal-killers-site.netlify.app/slides/programming/)
-* Slide #2 του αποθετηρίου του οργανισμού: [Slide #2 Οrganization](https://terminal-killers-site.netlify.app/slides/computers-in-a-pocket/)
+* Slide #2 του αποθετηρίου του οργανισμού: [Slide #2 Οrganization](https://terminal-killers-site.netlify.app/slides/computers-in-pockets/)
