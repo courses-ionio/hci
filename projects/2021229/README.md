@@ -66,7 +66,7 @@
 &nbsp;&nbsp;&nbsp;Σε αυτό το παραδοτέο μας ζητήθηκε να φτιάξουμε στο site repository μας και να προσθέσουμε ανάλογα md αρχεία στους φακέλους _timeline και _slides όπου είναι μέσα στο site. Υπήρχαν αρκετά προβλήματα όπου προέκυψαν αλλά διορθώθηκαν με την βοήθεια των συμφοιτητών μου.
 
 Pull Request: 
-[Click](https://github.com/ContattoContare/site/pull/1/files)
+[Click](https://github.com/ContattoContare/site/pull/1)
 
 Netlify Links:
 [Timeline Xerox](https://inf2021229.netlify.app/timeline/evolution-of-xerox-corp/),
