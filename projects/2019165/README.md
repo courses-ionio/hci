@@ -96,6 +96,7 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 - [track your time with a simple journal](https://asciinema.org/a/yQxlcv0K5DJwdvidCSMpYB3Zg) με χρήση της εντολής jrnl.
 
 <br>
+
 # Παραδοτέο 5 - Συμμετοχικό περιεχόμενο A2
 <br>
 
