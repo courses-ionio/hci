@@ -30,22 +30,22 @@
 
 # ΕΝΤΥΠΩΣΕΙΣ ΚΑΙ ΠΡΟΒΛΗΜΑΤΑ ΚΑΤΑ ΤΗΝ ΕΓΚΑΤΑΣΤΑΣΗ
 
-Ήταν η πρώτη μου επαφή με σύστημα linux, ποσό μάλλον ο τρόπος εγκατάστασης του ο οποίος ήταν με commands και όχι με κάποιο γραφικό περιβάλλον όπως έχω συνηθίσει. Αρχικά, το πρώτο μου δίλημμα ήταν εάν η εγκατάσταση θα γινόταν σε usb stick ή σε dual-boot, τελικά κατέληξα σε usb stick μιας και είναι ο ασφαλέστερος τρόπος για έναν αρχάριο σαν έμενα κατά την γνώμη μου.
+Ήταν η πρώτη μου επαφή με σύστημα linux, ποσό μάλλον ο τρόπος εγκατάστασης του ο οποίος ήταν με commands και όχι με κάποιο γραφικό περιβάλλον όπως έχω συνηθίσει. Αρχικά, το πρώτο μου δίλημμα ήταν εάν η εγκατάσταση θα γινόταν σε usb stick ή σε dual-boot, τελικά κατέληξα σε usb stick μιας και είναι ο ασφαλέστερος τρόπος για έναν αρχάριο σαν έμενα.
 
-Το πρώτο πρόβλημα που συνάντησα ήταν το wiki tou arch linux, προσωπικά με δυσκόλεψε πολύ και με έκανε να καταφύγω σε αυτό εδώ το [tutorial](https://www.youtube.com/watch?v=yaThYGr37DI). Στην συνεχεία, το arch κατά την εγκατάσταση δεν έχει τι δυνατότητα σύνδεσης με wifi πράγμα το οποίο με ανάγκασε να προσπαθήσω ανεπιτυχώς να εγκαταστήσω το iwctl και στη συνέχεια να συμβιβαστώ με ένα ethernet cable το όποιο προσωπικά δεν με βόλεψε αφού το router μου είναι αρκετά μακριά μου. Τέλος, το command install-grub δεν μου δούλευε με αποτέλεσμα να ψάχνω σε διάφορα forums για εναλλακτικά commands. Μετά από μερικές προσπάθειες, πολύ διάβασμα και παρακολούθηση tutorials το λειτουργικό εγκαταστάθηκε με επιτυχία και μαζί του το [neofetch] και το journalctl](https://asciinema.org/a/528720).
+Το πρώτο πρόβλημα που συνάντησα ήταν το wiki tou arch linux, προσωπικά με δυσκόλεψε πολύ και με έκανε να καταφύγω σε αυτό εδώ το [tutorial](https://www.youtube.com/watch?v=yaThYGr37DI). Στην συνεχεία, το arch κατά την εγκατάσταση δεν έχει τι δυνατότητα σύνδεσης με wifi πράγμα το οποίο με ανάγκασε να προσπαθήσω ανεπιτυχώς να εγκαταστήσω το `iwctl` και στη συνέχεια να συμβιβαστώ με ένα ethernet cable το όποιο προσωπικά δεν με βόλεψε αφού το router μου είναι αρκετά μακριά μου. Τέλος, το command install-grub δεν μου δούλευε με αποτέλεσμα να ψάχνω σε διάφορα forums για εναλλακτικά commands. Μετά από μερικές προσπάθειες, πολύ διάβασμα και παρακολούθηση tutorials το λειτουργικό εγκαταστάθηκε με επιτυχία και μαζί του το [neofetch] και το journalctl](https://asciinema.org/a/528720).
 
 
 # ΤΡΟΠΟΣ ΕΓΚΑΤΑΣΤΑΣΗΣ ΒΗΜΑ-ΒΗΜΑ
 Αρχικά, για την εγκατάσταση, έπρεπε να μετατρέψω το usb stick μου σε bootable, αυτό επιτεύχθηκε με την βοήθεια του [rufus](https://rufus.ie/en/), έπειτα κατέβασα από το [wiki](https://archlinux.org/download/) του arch το απαραίτητο iso και το πέρασα στο usb stick.
 
-Αφού πραγματοποίησα το boot μέσω του usb stick στον υπολογιστή μου, πρόσθεσα άλλο ένα άδειο usb stick στο οποίο χρησιμοποιήθηκε για την εγκατάσταση του arch-linux. Στη συνέχεια, το usb έπρεπε να χωριστεί σε partitions για την εγκατάσταση του arch linux. Με την βοήθεια του 'gdisk /dev/sda' δημιούργησα 2 partiotions, ένα για το boot και ένα με τον υπόλοιπο διαθέσιμο χώρο για λειτουργικό σύστημα, μετέπειτα και τα δύο partitions έγιναν mount.
+Αφού πραγματοποίησα το boot μέσω του usb stick στον υπολογιστή μου, πρόσθεσα άλλο ένα άδειο usb stick στο οποίο χρησιμοποιήθηκε για την εγκατάσταση του arch-linux. Στη συνέχεια, το usb έπρεπε να χωριστεί σε partitions για την εγκατάσταση του arch linux. Με την βοήθεια του `gdisk /dev/sda` δημιούργησα 2 partiotions, ένα για το boot και ένα με τον υπόλοιπο διαθέσιμο χώρο για λειτουργικό σύστημα, μετέπειτα και τα δύο partitions έγιναν `mount`.
 
-Έπειτα από αυτό, έκανα εγκατάσταση το πρώτο μεγάλο πακέτο(pacstrap /mnt base base-devel linux-linux firmware vim). Με την εντολή 'arch-chroot /mnt' μπήκα σε root profile με σκοπό την εγκατάσταση του grub. Στην συνέχεια με την εντολή 'timedatectl list-timezones | "enter the time zone"' πρόσθεσα την ώρα και την ημερομηνία της πόλης μου με σκοπό το σύστημα μου να είναι σωστά ενημερωμένο. Τέλος, με την εντολή pacman -S grub εγκατέστησα το grub και με την εντολή 'pacman -S netowrkmanager'
+Έπειτα από αυτό, έκανα εγκατάσταση το πρώτο μεγάλο πακέτο(`pacstrap /mnt base base-devel linux-linux firmware vim`). Με την εντολή `arch-chroot /mnt` μπήκα σε root profile με σκοπό την εγκατάσταση του grub. Στην συνέχεια με την εντολή `timedatectl list-timezones | "enter the time zone"` πρόσθεσα την ώρα και την ημερομηνία της πόλης μου με σκοπό το σύστημα μου να είναι σωστά ενημερωμένο. Τέλος, με την εντολή `pacman -S grub` εγκατέστησα το grub και με την εντολή `pacman -S netowrkmanager`
 του απαραίτητους drivers για το δίκτυο στο σύστημα μου.
 
-Πριν κάνω reboot και τελειώσω το installtion, φρόντισα να δημιουργήσω ένα προφίλ με την εντολή vim /etc/hostname και προσωπικό κωδικό με την εντολή 'passwd'. Μετά την εκτέλεση αυτών των 2 βγήκα από το root profile με την εντολή 'exit' και με την εντολή 'reboot' πραγματοποίησα επανεκκίνηση στο σύστημα μου.
+Πριν κάνω reboot και τελειώσω το installtion, φρόντισα να δημιουργήσω ένα προφίλ με την εντολή `vim /etc/hostname` και προσωπικό κωδικό με την εντολή `passwd`. Μετά την εκτέλεση αυτών των 2 βγήκα από το root profile με την εντολή `exiτ` και με την εντολή `reboot` πραγματοποίησα επανεκκίνηση στο σύστημα μου.
 
-Μετά το τέλος της εγκατάστασης, εγκατέστησα το [neofetch](https://asciinema.org/a/528720) και έτρεξα το [journalistctl](https://asciinema.org/a/528720).
+Μετά το τέλος της εγκατάστασης, εκτέλεσα το [neofetch](https://asciinema.org/a/528720) και  το [journalistctl](https://asciinema.org/a/528720).
 
 
 # 3ο ΠΑΡΑΔΟΤΕΟ 
@@ -53,6 +53,40 @@
 Σε αυτό το παραδοτέο απαιτείται η συμμετοχή όλων μας τόσο ατομικά όσο και ομαδικά με τον εμπλουτισμό περιεχομένου στο ήδη υπάρχον [site](https://pibook.epidro.me). Ως admιn της ομάδας δημιoύργησα το [site](https://app.netlify.com/sites/omada122/settings/general) και πρόσθεσα τα απαραίτητα [modules](https://github.com/orgs/OMADA12/repositories) στο reposiroty της ομάδας μου.
 
 Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://axileaszervos.netlify.app)) και πρόσθεσα 4 φωτογραφίες και 2 md files για τα θέματα που πρόσθεσα στο site. Ακόμη, έκανα pull request τα [md files](https://github.com/pibook/_gallery/commit/74212cfe631d042f216426e20cac69cdd46cb3fb) και τις [εικόνες](https://github.com/pibook/images/commit/fa6b4276eed47aa69394a1c38c61690a0f04a959).
+
+Τα Links και οι φωτογραφιες απο το προσωπικο μου αποθετηριο:
+
+ Το προσωπικο μου [site](https://axileaszervos.netlify.app)
+ 
+ Apple_iMac:
+ 
+   * Tο .md αρχείο του Apple_iMac στο προσωπικό μου αποθετήριο: [Apple_iMac.md](https://github.com/Axileaszervos/_gallery/blob/cec92ba9d14ee5e0f2a29521c2fafabb2188bd3c/Apple_iMac.md)
+   * Η εικόνα του Apple_iMac στο προσωπικο μου site: [Apple_iMac](https://axileaszervos.netlify.app/gallery/apple_imac/)
+   * Η κανονική εικόνα στο αποθετήριο μου: [Apple_iMac-photo](https://github.com/Axileaszervos/images/blob/master/Apple_iMac.jpg)
+   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [Apple-iMac-resized](https://github.com/Axileaszervos/images/blob/master/Apple_iMac-Thumb.jpg)
+   
+  VirtualBoy:
+    
+   * Tο .md αρχείο του VirtualBoy στο προσωπικό μου αποθετήριο: [VirtualBoy.md](https://github.com/Axileaszervos/_gallery/blob/cec92ba9d14ee5e0f2a29521c2fafabb2188bd3c/VirtualBoy.md)
+   * Η εικόνα του VirtualBoy στο προσωπικο μου site: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)
+   * Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo](https://github.com/Axileaszervos/images/blob/master/VirtualBoy.jpg)
+   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [VirtualBoy-resized](https://github.com/Axileaszervos/images/blob/master/VirtualBoy-Thumb.jpg)
+   
+Τα Links και οι φωτογραφιες απο το ομαδικό αποθετηριο:
+
+ Το ομαδικό [site](https://omada122.netlify.app)
+ 
+ Apple_iMac:
+
+   * Η εικόνα του Apple_iMac στο site της ομάδας μου: [Apple_iMac](https://omada12.netlify.app/gallery/apple_imac/)
+   * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Apple_iMac-photo](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/Apple_iMac.jpg)
+   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Apple-iMac-resized](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/Apple_iMac-Thumb.jpg)
+   
+  VirtualBoy:
+  
+   * Η εικόνα του VirtualBoy στο προσωπικο μου site: [VirtualBoy](https://omada12.netlify.app/gallery/virtualboy/)
+   * Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/VirtualBoy.jpg)
+   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [VirtualBoy-resized](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/VirtualBoy-Thumb.jpg)
 
 
 # 4ο ΠΑΡΑΔΟΤΕΟ
