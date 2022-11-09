@@ -73,18 +73,24 @@
 ## 👽Παραδοτέο 4 | Ασκήσεις γραμμής εντολών (warm up)
 
 Σε αυτό το παραδοτέο έγινε η εγκατάσταση του λογισμικού σε αληθινό περιβάλλον.
-Παρακάτω εκτελώ κάποιες από τις ασκήσεις γραμμής εντολών warm up.
+Παρακάτω εκτελώ κάποιες από τις ασκήσεις γραμμής εντολών **warm up**.
 
-Παρακάτω βρίσκονται τα asciinema links για τις ασκήσεις γραμμής εντολών:
+Παρακάτω βρίσκονται τα **asciinema** links για τις ασκήσεις γραμμής εντολών:
 
 * **[Download a song in mp3 format](https://asciinema.org/a/oQEDbJUU08FcVm5Z8IMruZbKy)**
 * **[Check the weather](https://asciinema.org/a/NNaIeKH6arzyYE5D3Vucgzlnl)**
 * **[read the business news](https://asciinema.org/a/0rsk22MB1R8Od23xSRbjlDO3U)**
-* **[Asciiquarium](https://asciinema.org/a/NZucswNfvPywf9y1YgBhaabGN)
+* **[Asciiquarium](https://asciinema.org/a/NZucswNfvPywf9y1YgBhaabGN)**
+
+Μερικά **screenshots** από την εγκατάσταση του λογισμικού:
+
+<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/GitHub-Profile.png" width= 600/>
 
 
 
 
+
+<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Terminal-screenshot.png" width= 600/>
 
 ## 👽Παραδοτέο 5 | Συμμετοχικό περιεχόμενο - Α2
 
