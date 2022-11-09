@@ -17,7 +17,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1513)** | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1514)** | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1529)**| |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1530)**| |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
