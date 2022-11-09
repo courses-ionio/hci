@@ -8,10 +8,10 @@
 
 | Εβδομάδα |Παραδοτέα | Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις| Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  Εισαγωγή και Σύνοψη| [1° Παραδοτέο](https://github.com/p20kara/hci/tree/2020008/projects#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | Πρώτη επαφή με το GitHub και εκμάθηση βασικού χειρισμού του |
-| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | [2° Παραδοτέο]( ) |Εγκατάσταση arch linux σε VirtualBox και πρώτη επαφή με το τερματικό  |
+| 1 |  Εισαγωγή και Σύνοψη| [1° Παραδοτέο](https://github.com/p20kara/hci/tree/2020008/projects#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | Πρώτη επαφή με το GitHub και εκμάθηση βασικού χειρισμού του & Έκανα και το βίντεο της εβδομάδας στην ιστοσελίδα Edpuzzle |
+| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | [2° Παραδοτέο](https://github.com/p20kara/hci/edit/2020008/projects/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-arch-linux-install-on-vm ) |Εγκατάσταση arch linux σε VirtualBox και πρώτη επαφή με το τερματικό & Έκανα και το βίντεο της εβδομάδας στην ιστοσελίδα Edpuzzle  |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
+| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | [4ο Παραδοτέο](https://github.com/p20kara/hci/edit/2020008/projects/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-arch-linux-install-on-hw) | Εγκατάσταση arch linux σε USB και πρώτη επαφή με λειτουργικό σύστημα χωρίς γραφικό περιβάλλον & Έκανα και το βίντεο της εβδομάδας στην ιστοσελίδα Edpuzzle |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
