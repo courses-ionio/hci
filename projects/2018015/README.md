@@ -78,6 +78,7 @@
 Παρακάτω βρίσκονται τα asciinema links για τις ασκήσεις γραμμής εντολών:
 
 * **[Download a song in mp3 format](https://asciinema.org/a/oQEDbJUU08FcVm5Z8IMruZbKy)**
+* **[Check the weather](https://asciinema.org/a/NNaIeKH6arzyYE5D3Vucgzlnl)**
 
 
 
