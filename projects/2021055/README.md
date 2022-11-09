@@ -56,7 +56,7 @@
 
 Το προσωπικό μου [site](https://axileaszervos.netlify.app)
  
- # Apple_iMac:
+ ### Apple_iMac:
  
    ~* Tο .md αρχείο του Apple_iMac στο προσωπικό μου αποθετήριο: [Apple_iMac.md](https://github.com/Axileaszervos/_gallery/blob/cec92ba9d14ee5e0f2a29521c2fafabb2188bd3c/Apple_iMac.md)~ 
    
