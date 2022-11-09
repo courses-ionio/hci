@@ -52,41 +52,79 @@
 
 Σε αυτό το παραδοτέο απαιτείται η συμμετοχή όλων μας τόσο ατομικά όσο και ομαδικά με τον εμπλουτισμό περιεχομένου στο ήδη υπάρχον [site](https://pibook.epidro.me). Ως admιn της ομάδας δημιoύργησα το [site](https://app.netlify.com/sites/omada122/settings/general) και πρόσθεσα τα απαραίτητα [modules](https://github.com/orgs/OMADA12/repositories) στο reposiroty της ομάδας μου.
 
-Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://axileaszervos.netlify.app)) και πρόσθεσα 4 φωτογραφίες και 2 md files για τα θέματα που πρόσθεσα στο site. Ακόμη, έκανα pull request τα [md files](https://github.com/pibook/_gallery/commit/74212cfe631d042f216426e20cac69cdd46cb3fb) και τις [εικόνες](https://github.com/pibook/images/commit/fa6b4276eed47aa69394a1c38c61690a0f04a959).
+Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://axileaszervos.netlify.app) και πρόσθεσα 4 φωτογραφίες και 2 md files για τα θέματα που πρόσθεσα στο site. Ακόμη, έκανα pull request τα [md files](https://github.com/pibook/_gallery/commit/74212cfe631d042f216426e20cac69cdd46cb3fb) και τις [εικόνες](https://github.com/pibook/images/commit/fa6b4276eed47aa69394a1c38c61690a0f04a959).
 
 Τα Links και οι φωτογραφιες απο το προσωπικο μου αποθετηριο:
 
  Το προσωπικο μου [site](https://axileaszervos.netlify.app)
  
- Apple_iMac:
+ # Apple_iMac:
  
-   * Tο .md αρχείο του Apple_iMac στο προσωπικό μου αποθετήριο: [Apple_iMac.md](https://github.com/Axileaszervos/_gallery/blob/cec92ba9d14ee5e0f2a29521c2fafabb2188bd3c/Apple_iMac.md)
-   * Η εικόνα του Apple_iMac στο προσωπικο μου site: [Apple_iMac](https://axileaszervos.netlify.app/gallery/apple_imac/)
-   * Η κανονική εικόνα στο αποθετήριο μου: [Apple_iMac-photo](https://github.com/Axileaszervos/images/blob/master/Apple_iMac.jpg)
-   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [Apple-iMac-resized](https://github.com/Axileaszervos/images/blob/master/Apple_iMac-Thumb.jpg)
+   ~* Tο .md αρχείο του Apple_iMac στο προσωπικό μου αποθετήριο: [Apple_iMac.md](https://github.com/Axileaszervos/_gallery/blob/cec92ba9d14ee5e0f2a29521c2fafabb2188bd3c/Apple_iMac.md)~ 
    
-  VirtualBoy:
+   ~* Η εικόνα του Apple_iMac στο προσωπικο μου site: [Apple_iMac](https://axileaszervos.netlify.app/gallery/apple_imac/)~
+   
+   ~* Η κανονική εικόνα στο αποθετήριο μου: [Apple_iMac-photo](https://github.com/Axileaszervos/images/blob/master/Apple_iMac.jpg)~
+   
+   ~* Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [Apple-iMac-resized](https://github.com/Axileaszervos/images/blob/master/Apple_iMac-Thumb.jpg)~
+   
+  # VirtualBoy:
     
-   * Tο .md αρχείο του VirtualBoy στο προσωπικό μου αποθετήριο: [VirtualBoy.md](https://github.com/Axileaszervos/_gallery/blob/cec92ba9d14ee5e0f2a29521c2fafabb2188bd3c/VirtualBoy.md)
-   * Η εικόνα του VirtualBoy στο προσωπικο μου site: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)
-   * Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo](https://github.com/Axileaszervos/images/blob/master/VirtualBoy.jpg)
-   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [VirtualBoy-resized](https://github.com/Axileaszervos/images/blob/master/VirtualBoy-Thumb.jpg)
+   ~Tο .md αρχείο του VirtualBoy στο προσωπικό μου αποθετήριο: [VirtualBoy.md](https://github.com/Axileaszervos/_gallery/blob/cec92ba9d14ee5e0f2a29521c2fafabb2188bd3c/VirtualBoy.md)~
+   
+   ~Η εικόνα του VirtualBoy στο προσωπικο μου site: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
+   
+   ~Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo](https://github.com/Axileaszervos/images/blob/master/VirtualBoy.jpg)~
+   
+   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [VirtualBoy-resized](https://github.com/Axileaszervos/images/blob/master/VirtualBoy-Thumb.jpg)~
    
 Τα Links και οι φωτογραφιες απο το ομαδικό αποθετηριο:
 
  Το ομαδικό [site](https://omada122.netlify.app)
  
- Apple_iMac:
-
-   * Η εικόνα του Apple_iMac στο site της ομάδας μου: [Apple_iMac](https://omada12.netlify.app/gallery/apple_imac/)
-   * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Apple_iMac-photo](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/Apple_iMac.jpg)
-   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Apple-iMac-resized](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/Apple_iMac-Thumb.jpg)
+  # Apple_iMac:
+ 
+   ~Tο .md αρχείο του Apple_iMac στο αποθετήριο της ομάδας μου: [Apple_iMac.md](https://github.com/OMADA12/_gallery/blob/f76ae0fad27a969c7214d4a494e04413df50d93d/Apple_iMac.md)~
    
-  VirtualBoy:
+   ~Η εικόνα του Apple_iMac στο site της ομάδας μου: [Apple_iMac](https://omada12.netlify.app/gallery/apple_imac/)~
+   
+   ~Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Apple_iMac-photo](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/Apple_iMac.jpg)~
+   
+   ~Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Apple-iMac-resized](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/Apple_iMac-Thumb.jpg)~
+   
+# VirtualBoy:
   
-   * Η εικόνα του VirtualBoy στο προσωπικο μου site: [VirtualBoy](https://omada12.netlify.app/gallery/virtualboy/)
-   * Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/VirtualBoy.jpg)
-   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [VirtualBoy-resized](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/VirtualBoy-Thumb.jpg)
+   ~Tο .md αρχείο του VirtualBoy στο αποθετήριο της ομάδας μου: [VirtualBoy](https://github.com/OMADA12/_gallery/blob/f76ae0fad27a969c7214d4a494e04413df50d93d/VirtualBoy.md)~
+   
+   ~Η εικόνα του VirtualBoy στο προσωπικο μου site: [VirtualBoy](https://omada12.netlify.app/gallery/virtualboy/)~
+   
+   ~Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/VirtualBoy.jpg)~
+   
+   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [VirtualBoy-resized](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/VirtualBoy-Thumb.jpg)~
+   
+# UPDATE
+  Έπειτα απο παρατηρήσεις του καθηγητή μου πήρα την απόφαση να αλλάξω τις φωτογραφίες μου και να προσθέσω την γλώσσα προγραμματισμού `Scratch` κσι τα ρομπότ-παιχνίδια
+  `Lego WeDo` επειδή και τα δύο ανήκουν στον τόμεα της ρομποτικής μάθησης για μικρά παιδία και είναι κάτι το όποιο έχω σκοπό να ασχοληθώ στο μέλλον.
+  
+  * # Τα Links και οι φωτογραφιες απο το προσωπικο μου αποθετηριο:
+
+ Το προσωπικο μου [site](https://axileaszervos.netlify.app)
+ 
+# Scratch:
+    
+  * Tο .md αρχείο της γλώσσας προγραμματισμού scratch στο προσωπικό μου αποθετήριο: [scratch.md](https://github.com/Axileaszervos/_gallery/blob/master/Scratch.md)
+  * Η εικόνα της γλώσσας προγραμματισμού scratch στο προσωπικο μου site: [scratch](https://axileaszervos.netlify.app/gallery/scratch/)
+  * Η κανονική εικόνα της γλώσσας προγραμματισμού scratch στο αποθετήριο μου: [scratch.jpg](https://github.com/Axileaszervos/images/blob/7a92a1ba11b32bf4505bfdd85f95c6259c1cd8f0/scratch.jpg)
+  * Η resized σε 160x160 pixels της γλώσσας προγραμματισμού scratch εικόνα στο αποθετήριο μου: [scratch-thumb.jpg](https://github.com/Axileaszervos/images/blob/7a92a1ba11b32bf4505bfdd85f95c6259c1cd8f0/scratch-thumb.jpg)
+ 
+  # Lego WeDo:
+ 
+   * Tο .md αρχείο της κατασκευής για παιδία Lego WeDo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/Axileaszervos/_gallery/blob/master/LegoWeDo.md)
+   * Η εικόνα της κατασκευής για παιδία Lego WeDo στο site της ομάδας μου: [legowedo](https://axileaszervos.netlify.app/gallery/legowedo/)
+   * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [legowedo.jpg](https://github.com/Axileaszervos/images/blob/7a92a1ba11b32bf4505bfdd85f95c6259c1cd8f0/legowedo.jpg)
+   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [legowedo-thumb.jpg](https://github.com/Axileaszervos/images/blob/master/legowedo-thumb.jpg)
+   
+
 
 
 # 4ο ΠΑΡΑΔΟΤΕΟ
