@@ -70,6 +70,17 @@
 
 * **[Oakley](https://636500851b8843165e819f13--idyllic-speculoos-2a786b.netlify.app/gallery/oakley/)**
 
+## 👽Παραδοτέο 4 | Ασκήσεις γραμμής εντολών (warm up)
+
+Σε αυτό το παραδοτέο έγινε η εγκατάσταση του λογισμικού σε αληθινό περιβάλλον.
+Παρακάτω εκτελώ κάποιες από τις ασκήσεις γραμμής εντολών warm up.
+
+Παρακάτω βρίσκονται τα asciinema links για τις ασκήσεις γραμμής εντολών:
+
+* **[Download a song in mp3 format](https://asciinema.org/a/oQEDbJUU08FcVm5Z8IMruZbKy)**
+
+
+
 
 
 ## 👽Παραδοτέο 5 | Συμμετοχικό περιεχόμενο - Α2
