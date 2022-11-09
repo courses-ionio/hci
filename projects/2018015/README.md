@@ -4,9 +4,9 @@
 
   <img src="https://github.com/Efthimis015/use-dark-mode/blob/develop/circle-cropped%20(1).png" width="75"/>
 
-#### Ονοματεπώνυμο: *Τζιάλλας Ευθύμιος* 
+#### Ονοματεπώνυμο: **Τζιάλλας Ευθύμιος**
 
-#### Αριθμός μητρώου: *Π2018015*
+#### Αριθμός μητρώου: **Π2018015**
 
 #### [GitHub Profile](https://github.com/Efthimis015)
 
