@@ -10,7 +10,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Εισαγωγή](https://github.com/Genti-voka/hci/blob/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/938) | |
 | 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/Genti-voka/hci/edit/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-arch-linux-installation) | [Ανάρτηση εγκατάστασης στο Discussions](https://github.com/courses-ionio/help/discussions/1019) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 |  | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |  [Discussions](https://github.com/courses-ionio/help/discussions/1538)| |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [Ανάρτηση warm up στα Discussions](https://github.com/courses-ionio/help/discussions/1382) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -41,6 +41,21 @@
 <br>
 <a href="https://asciinema.org/a/KrXOLLMs1KoWDuVv8b6sY5V8a" target="_blank"><img src="https://asciinema.org/a/KrXOLLMs1KoWDuVv8b6sY5V8a.svg" /></a>
 <br> </br>
+
+# Παραδοτέο 3 Συμμετοχικό περιεχόμενο A1
+
+[αρχείο 1](https://jocular-fudge-f3d53f.netlify.app/gallery/mac1/)
+
+![macOS](https://user-images.githubusercontent.com/72515759/201117055-eac84211-3809-4982-94ff-6c1935c72ce0.png)
+
+[αρχείο 2](https://jocular-fudge-f3d53f.netlify.app/gallery/applepda/)
+
+![apple_pda](https://user-images.githubusercontent.com/72515759/201117010-d4148622-3379-4b35-b904-4274932bcf88.png)
+
+
+[images pr](https://github.com/Oroseira/images/pull/7)
+[_gallery pr](https://github.com/Oroseira/_gallery/pull/5)
+
 
 # Παραδοτέο 4 warm up Ασκησεις
 <p> Για το παραδοτέο 4 υλοιποίησα 2 απο τις warm up ασκήσεις , εκ των οποίων η μια εμφάνιζε αποτελέσματα για τον καιρό και η 2η εμφανίζει τις τιμές συναλλαγματικών ισοτιμιών 
