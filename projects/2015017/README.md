@@ -50,7 +50,7 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
   <li>https://asciinema.org/a/x5pZpOKxhYZNfUsoBDCOw09HG η χρονική στιγμή που εκτέλεσα την εντολή jrnl</li></ul>
 <h2>ΠΑΡΑΔΟΤΕΟ 5</h2>
 Για το πέμπτο παραδοτέο, δημιούργησα μέσω netlify έναν κλόνο του site και μέσα έβαλα μέσω του τερματικού, τον εκτυπωτή Epson-MX80 και τον υπολογιστή Lear Siegler ADM 3A.
-Οι σύνδεσμοι στους οποίους υπάρχουν οι εικόνες που πρόσθεσα δίνονται παρακάτω.
+Οι σύνδεσμοι-links στους οποίους υπάρχουν οι εικόνες που πρόσθεσα δίνονται παρακάτω.
 <ul>
   <li> https://p15kara.netlify.app//timeline/text-editing/</li>
   <li>https://p15kara.netlify.app//timeline/wireconnected_devives/</li>
