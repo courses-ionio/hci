@@ -49,17 +49,8 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
   <li>https://asciinema.org/a/536622 το link για τον καιρό στην Κέρκυρα και στην Αθηνα</li>
   <li>https://asciinema.org/a/x5pZpOKxhYZNfUsoBDCOw09HG η χρονική στιγμή που εκτέλεσα την εντολή jrnl</li></ul>
 <h2>ΠΑΡΑΔΟΤΕΟ 5</h2>
-Για το πέμπτο παραδοτέο, δημιούργησα μέσω netlify έναν κλόνο του site και μέσα έβαλα μέσω του τερματικού, τον εκτυπωτή Epson-MX80 και τον υπολογιστή Lear Siegler ADM 3A.Οι εντολές που χρησιμοποίησα ήταν οι έξεις:git clone & cat /dev/null > .gitmodules
-git add .
-git rm --cached _gallery _bibliography _notes _quotes images
-rm -R _gallery _bibliography _notes _quotes images
-'cd _includes.git rm --cached extras text
-rm -R extras text
-git add .
-git commit -m "removed old submodules"
-git push origin
-Οι σύνδεσμοι στους οποίους υπάρχουν οι εικόνες που πρόσθεσα δίνονται παρακάτω.add . git rm --cached _gallery _bibliography _notes _quotes images rm -R _gallery _bibliography _notes _quotes images 'cd _includes.git add .
-
+Για το πέμπτο παραδοτέο, δημιούργησα μέσω netlify έναν κλόνο του site και μέσα έβαλα μέσω του τερματικού, τον εκτυπωτή Epson-MX80 και τον υπολογιστή Lear Siegler ADM 3A.
+Οι σύνδεσμοι στους οποίους υπάρχουν οι εικόνες που πρόσθεσα δίνονται παρακάτω.
 <ul>
   <li> https://p15kara.netlify.app//timeline/text-editing/</li>
   <li>https://p15kara.netlify.app//timeline/wireconnected_devives/</li>
