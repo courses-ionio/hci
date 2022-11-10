@@ -10,9 +10,9 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1398) | |
-| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | [φωτογραφια1](https://github.com/petrakhh/images/blob/master/PSP-3000-Silver-thumb.jpeg),[φωτογραφία2](https://github.com/petrakhh/images/blob/master/motorola-aura_front_red.jpeg)| |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1398) | Επιτυχής παράθεση της εισαγωγής και των στόχων μου για το μάθημα|
+| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | |Αποτυχία εγκατάστασης Arch Linux |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [φωτογραφια1](https://github.com/petrakhh/images/blob/master/PSP-3000-Silver-thumb.jpeg),[φωτογραφία2](https://github.com/petrakhh/images/blob/master/motorola-aura_front_red.jpeg)|Επιτυχής δημοσίευση εικόνων με τις κατάλληλες περιγραφές(gallery, images), αποτυχία ανεβάσματος στο netlify|
 | 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -27,16 +27,18 @@
 
 Στις μέρες μας όλος ο κόσμος στην καθημερινότητα του χρησιμοποιεί ηλεκτρονικά μέσα, είτε αυτό είναι ένας ηλεκτρονικός υπολογιστής είτε ένα κινητό. Η τεχνολογία πλέον εξελίσεται πολύ πιο γρήγορα από ότι παλιά. Με το μάθημα επικοινωνία ανθρώπου-υπολογιστή μπορώνα αποκτήσώ γνώσεις για την αλληλεπίδραση χρήστη με τον υπολογιστή. Πιο συγκεκριμένα, θα ξέρω πως να χειρίζομαι καλύτερα έναν υπολογιστή, το οποίο είναι πολύ σημαντικό για έναν προγραμματιστή. Σε αυτό θα με βοηθήσει το Github και το Arch Linux τα οποία δεν είνα συναντήσει μέχρι στιγμής.
 
-# Συμμετοχικό περιεχόμενο Α1
+# Παραδοτέο 3 - Συμμετοχικό περιεχόμενο Α1
+
+Για αυτό το παραδοτέο έπρεπε να βρω δύο εικόνες σχετικές με την ιστοσελίδα του μαθήματος και έπειτα να τις ανεβάσω εκεί. Συγκεκριμένα, οι εικόνες που επέλεξα είναι οι Motorola Aura και Psp 3000. Ειδικότερα, το κινητό motorola ήταν το πρώτο κινητό με στρογγυλή οθόνη που υλοποιήθηκε το 2008. Το Psp 3000 ήταν η πρώτη φορητή κονσόλα παιχνιδιών, δημιουργήθηκε το 2004 και από την πρώτη κιόλας μέρα παρατηρήθηκαν αυξημένες πωλήσεις. Η δημιουργία λογαριασμού στην εφαρμογή netlify ήταν αποτυχημένη.
+
+## Το πρώτο κινητό με στρογγυλή οθόνη
 
 ![image](https://user-images.githubusercontent.com/92635681/199840010-a3175a2d-5702-4ebe-b8fe-9b18d9a24d8b.png)
 
-Το πρώτο κινητό με στρογγυλή οθόνη
+[motorola](https://www.techpress.gr/wp-content/uploads/2008/10/motorola-aura_front_red.jpg)
+
+## Η πρώτη φορητή κονσόλα παιχνιδιών
 
 ![image](https://user-images.githubusercontent.com/92635681/199840484-46553a58-f984-42eb-aadd-0b73cad4bf3a.png) 
-
-Η πρώτη φορητή κονσόλα παιχνιδιών
-
-[motorola](https://www.techpress.gr/wp-content/uploads/2008/10/motorola-aura_front_red.jpg)
 
 [PSP](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/PSP-3000-Silver.jpg/230px-PSP-3000-Silver.jpg)
