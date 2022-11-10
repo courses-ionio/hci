@@ -37,8 +37,16 @@
 
 [motorola](https://www.techpress.gr/wp-content/uploads/2008/10/motorola-aura_front_red.jpg)
 
+[Αρχείο gallery](https://github.com/petrakhh/_gallery/blob/2020114/motorola-aura_front_red.md)
+
+[Αρχείο images](https://github.com/petrakhh/images/blob/2020114/motorola-aura_front_red.jpeg)
+
 ## Η πρώτη φορητή κονσόλα παιχνιδιών
 
 ![image](https://user-images.githubusercontent.com/92635681/199840484-46553a58-f984-42eb-aadd-0b73cad4bf3a.png) 
 
 [PSP](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/PSP-3000-Silver.jpg/230px-PSP-3000-Silver.jpg)
+
+[Αρχείο gallery](https://github.com/petrakhh/_gallery/blob/2020114/PSP-3000-Silver.md)
+
+[Αρχείο images](https://github.com/petrakhh/images/blob/2020114/PSP-3000-Silver.jpeg)
