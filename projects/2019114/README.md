@@ -80,6 +80,14 @@
 
 # Συμμετοχικό περιεχόμενο Β1
 
+| Repo links | My site links | Team's site links | 
+| --- | --- | --- | 
+| [Virtual Reality](https://github.com/p19papa4/site/blob/2019114/_case-study/virtual-reality.md) | [Virtual Reality](https://p19papa4.netlify.app/case-study/virtual-reality/) | [Virtual Reality](https://oroseira2022.netlify.app/case-study/virtual-reality/) |
+
+To αντιστοιχο [pull request]() για images 
+
+Το αντιστοιχο [pull request]() για case study
+
 # Άσκηση γραμμής εντολών
 
 # Συμμετοχικό περιεχόμενο Β2
