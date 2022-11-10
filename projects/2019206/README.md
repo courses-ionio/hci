@@ -147,6 +147,9 @@
 | 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories | :heavy_check_mark: | :heavy_check_mark: |
 | 3 | Xerox Star User Interface (1982) 1 of 2 | :heavy_check_mark: | :heavy_check_mark: |
 | 4 | Alto System Project: Larry Tesler demonstration of Gypsy | :heavy_check_mark: | :heavy_check_mark: |
+| 5 | Alan Kay: Doing with Images Makes Symbols (Full Version) | :heavy_check_mark: | :heavy_check_mark: |
+| 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | :heavy_check_mark: | :heavy_check_mark: |
+
 
 
 ❗Οι φωτογραφίες έχουν προστεθεί στην αναφορά μου μέσα από Github Issues έτσι ώστε να μη μεγαλώνει το μέγεθος του αρχείου της αναφοράς.
