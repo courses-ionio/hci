@@ -86,11 +86,15 @@
 
 To αντιστοιχο [pull request]() για images 
 
-Το αντιστοιχο [pull request]() για case study
+Το αντιστοιχο [pull request](https://github.com/Oroseira/site/pull/8#event-7765410876) για case study
 
 # Άσκηση γραμμής εντολών
 
 # Συμμετοχικό περιεχόμενο Β2
+
+| Repo links | My site links | Team's site links | 
+| --- | --- | --- | 
+| [Bill Gates](https://github.com/p19papa4/site/blob/2019114/_biography/bill-gates.md) | [Bill Gates](https://p19papa4.netlify.app/biography/bill-gates/) | [Bill Gates](https://oroseira2022.netlify.app/biography/bill-gates/) |
 
 # Άσκηση γραμμής εντολών
 
