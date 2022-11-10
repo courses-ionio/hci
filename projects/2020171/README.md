@@ -20,7 +20,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [σύνδεσμος](https://github.com/courses-ionio/help/discussions/864)|Συγγραφή προσωπικών στόχων, αναγκών του μαθήματος και επιτυχής ολοκήρωση των απαιτούμενων διαδικασιών |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1187) |Εγκατέστησα την διανομή των Arch Linux σε Virtual Machine, μετονομάστηκε το command prompt και τέλος εκτελέστηκαν οι εντολές journalctl -b, neofetch |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[σύνδεσμος]() | Ανέβασμα δύο εικόνων στα gallery και images, αποτυχία εμφάνισης εικόνων στην ιστοσελίδα, πρόβλημα με netlify  |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1291) |Επέλεξα τις ασκήσεις check the weather και fetch information από το warm up |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -48,6 +48,28 @@
 
 [Bash](https://unix.stackexchange.com/questions/35777/how-to-change-the-prompt-in-linux)
 
+## Παραδοτέο 3 - Συμμετοχικό περιεχόμενο Α1 - Εισαγωγή του GNU Nano και του Amazon Kindle Fire
+Στο συμμετοχικό περιεχόμενο Α1 ήταν απαραίτητο το ανέβασμα δύο εικόνων στην ιστοσελίδα του μαθήματος, εκ των οποίων η καθεμία θα είχε την πρωτότυπη διάσταση και άλλη μία με 160px. Οι εικόνες που επέλεξα είναι το GNU Nano και το Amazon Kindle Fire. Ο επεξεργαστής κειμένου GNU Nano είχε αρκετά ανεπτυγμένη δομή για την εποχή του καθώς υλοποιήθηκε το 1999 και μέσω αυτού οι χρήστες μπορούσαν εύκολα να διορθώσουν κείμενο σε περιβάλλοντα UNIX και να περιηγηθούν με την βοήθεια εντολών στο cli. Από την άλλη πλευρά το Amazon Kindle Fire ήταν από τα πρώτα τάμπλετ ή εναλλακτικά φορητούς υπολογιστές το οποίο βασιζόταν στο λειτουργικό σύστημα Fire OS. Η εταιρία Amazon ήταν εκείνη που πρωτοπόρησε το 2011 δημιουργώντας μία συσκευή εύκολη στη χρήση για όλες τις ηλικίες.
+
+## Αρχεία .md
+[gnu-nano.md](https://github.com/p20oiko/_gallery/blob/2020171/gnu-nano.md)
+
+[kindle-fire.md](https://github.com/p20oiko/_gallery/blob/2020171/kindle-fire.md)
+
+## Εικόνες
+[gnu-nano](https://github.com/p20oiko/images/blob/2020171/gnu-nano.png)
+
+[kindle-fire](https://github.com/p20oiko/images/blob/2020171/kindle-fire.jpg)
+
+## Εικόνες σε 160px
+[gnu-nano-thumb](https://github.com/p20oiko/images/blob/2020171/gnu-nano-thumb.png)
+
+[kindle-fire-thumb](https://github.com/p20oiko/images/blob/2020171/kindle-fire-thumb.jpg)
+
+## Pull Request
+[gallery](https://github.com/XorisOnoma/_gallery/pull/4)
+
+[images](https://github.com/XorisOnoma/images/pull/4)
 
 
 ## Παραδοτέο 4 - Ασκήσεις γραμμής εντολών - check the weather, fetch information:
