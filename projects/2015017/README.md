@@ -49,7 +49,7 @@ rm -R extras text
 git add .
 git commit -m "removed old submodules"
 git push origin
-Οι σύνδεσμοι στους οποίους υπάρχουν οι εικόνες που πρόσθεσα δίνονται παρακάτω.
+Οι σύνδεσμοι στους οποίους υπάρχουν οι εικόνες που πρόσθεσα δίνονται παρακάτω.pacman -S asciinema
 
 <ul>
   <li> https://p15kara.netlify.app//timeline/text-editing/</li>
