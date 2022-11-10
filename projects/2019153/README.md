@@ -8,7 +8,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 | [discussion](https://github.com/courses-ionio/help/discussions/1164), [my site](https://voltmaister-site1.netlify.app/), [pull request .md files](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/1), [pull request images + thumb](https://github.com/Second-Time-Is-The-Charm/images/pull/1), [organization site vision](https://stitc-site.netlify.app/gallery/vision/), [organization site amigaos](https://stitc-site.netlify.app/gallery/amigaos/)| |
 | 4 | Άσκηση γραμμής εντολών | [discussion](https://github.com/courses-ionio/help/discussions/1346), [googler](https://asciinema.org/a/533238)| |
 | 5 | Συμμετοχικό περιεχόμενο A2 |[discussion](https://github.com/courses-ionio/help/discussions/new?category=show-and-tell)| |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α | [discussion](https://github.com/courses-ionio/help/discussions/1546), [my kallipos](https://github.com/voltmaister/kallipos) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
