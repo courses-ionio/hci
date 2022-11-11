@@ -38,7 +38,7 @@ Github link: https://github.com/Stergioulas
 Απο το συγκεκριμένο μάθημα προσδοκώ να επεκτείνω τις γνώσεις μου ως προς την επικοινωνία που είναι πιθανό να επιτευχθεί μεταξύ του ανθρώπου και του υπολογιστή, 
 καθώς επίσης και να μάθω να χρησημοποιώ και να εκμεταλεύομαι τις δυνατότητες και τις λειτουργίες του GitHub
 
-# Συμμετοχικό Περιεχόμενο 1Α
+# Συμμετοχικό Περιεχόμενο Α1
 ## Apple Watch 
 ### Link Images:
 https://github.com/team-132/images/blob/master/apple-watch-series-4.png
@@ -51,3 +51,15 @@ https://github.com/team-132/images/blob/master/xbox-one.jpg
 https://github.com/team-132/images/blob/master/xbox-one-thumb.jpg
 ### Link Gallery:
 https://github.com/team-132/_gallery/blob/master/xbox.md
+
+# ΣYMMETOXIKO ΠERIEXOMENO Α2 :
+## APPLE-WATCH :
+### slides :
+https://github.com/team-132/site/blob/master/slides/apple-watch.md
+### timeline :
+https://github.com/team-132/site/blob/master/timeline/apple-watch.md
+## XBox :
+### slides :
+https://github.com/team-132/site/tree/master/slides
+### timeline :
+https://github.com/team-132/site/tree/master/timeline
