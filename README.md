@@ -15,7 +15,7 @@ Github link: https://github.com/Stergioulas
 
 | 3 | Συμμετοχικό περιεχόμενο A1 |  | |
 
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | Βίντεο εκτέλεσης εντολής getnews https://asciinema.org/a/QXcPzTJ2ITuFg3McjVDMuHLXF | Βίντεο εκτέλεσης εντολής getweather https://asciinema.org/a/2Wuin4jRnaue0mcLNc9QGMe9d |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | Βίντεο εκτέλεσης εντολής getnews https://asciinema.org/a/b7LUatu3el5xDOh5tMuiQxM2p | Βίντεο εκτέλεσης εντολής getweather https://asciinema.org/a/2Wuin4jRnaue0mcLNc9QGMe9d |
 
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 
