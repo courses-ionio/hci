@@ -6,7 +6,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/gallery/amstrad-pcw16/),[Breadbox Ensemble](https://master--meek-chaja-52b6fe.netlify.app/gallery/breadbox-ensemble/) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[weather forcast](https://asciinema.org/a/533418) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Amstrad-pcw16 slides](https://master--meek-chaja-52b6fe.netlify.app/timeline/computer/), [Breadbox Ensemble slides](https://master--meek-chaja-52b6fe.netlify.app/timeline/os-apps/) | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α |[smartwatch](https://github.com/artopodama/kallipos/tree/master/mynotes) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
