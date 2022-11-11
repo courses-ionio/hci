@@ -29,3 +29,24 @@
 [![asciicast](https://asciinema.org/a/527935.svg)](https://asciinema.org/a/527935)
 
 [![asciicast](https://asciinema.org/a/527939.svg)](https://asciinema.org/a/527939)
+
+# Παραδοτέο 3
+
+Για το παραδοτεο 3 προσθεσα τις εικονες και τα .md αρχεια για το Amiga OS και το Visi On φυλλος εργασιας φτιαγμενο απο την εταιρια VISICORP
+Τα αρχεία αυτά ανέβηκαν τόσο στον [οργανισμό](https://master--stitc-site.netlify.app/) όσο και στο δικό μου [site](https://voltmaister-site1.netlify.app/)
+
+| ***vision*** | ***amiga*** |
+|--|--|
+|![Screenshot_8](https://user-images.githubusercontent.com/45509916/201348771-f8d5e31b-2d08-4af0-922f-c0218dca6f2c.png)|![Screenshot_7](https://user-images.githubusercontent.com/45509916/201348759-f67307ee-9f4f-4358-9560-9a33812938b6.png)|
+
+# Παραδοτέο 4 
+
+Το παραδοτέο 4 είναι ακόμα υπό επεξεργάσια τα τεχνικά θέματα που είχα έχουν λυθεί απλά δεν έχω κάνει ακόμα την ανανέωση.
+
+| ***Googler*** | 
+|--|
+|[![asciicast](https://asciinema.org/a/533238.svg)](https://asciinema.org/a/533238)|
+
+# Παραδοτέο 5 
+
+Για το 5ο παραδοτέο συμπλήρωσα τα slides και timelines για τα αρχεία μου (Visi on αρνειται να εμφανιστει αλλα υπαρχει discussion gia auto)
