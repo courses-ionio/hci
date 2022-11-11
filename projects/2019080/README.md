@@ -18,7 +18,7 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 | 2 | <p align="center">[Άσκηση γραμμής εντολών (linux install)](#2ο-Παραδοτέο---Linux-installation)</p>|<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1074) |Συνάντησα κάποιες δυσκολίες στο partition EFI, αλλά στο τέλος όλα τα ζητούμενα του παραδοτέου ολοκληρώθηκαν επιτυχώς και βελτίωσα τα problem solving skills μου|
 | 3 | <p align="center">[Συμμετοχικό περιεχόμενο A1](#3ο-Παραδοτέο---Συμμετοχικό-υλικό-Α1)</p> | <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1269)|Ολα τα ζητούμενα του παραδοτέου, ολοκληρώθηκαν επιτυχώς, και νιώθω πιο confident στην χρήση του CLI|
 | 4 | <p align="center">[Άσκηση γραμμής εντολών (warm up cli)](#4ο-Παραδοτέο---Warmup-CLI)</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1296) | Ολα τα ζητούμενα του παραδοτέου, ολοκληρώθηκαν επιτυχώς |
-| 5 | <p align="center">Συμμετοχικό περιεχόμενο A2</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1496) | Προστέθηκε καινούριο συμμετοχικό υλικό όπως μάθαμε στο 4ο παραδοτέο και όλα τα ζητούμενα του παραδοτέου ολοκληρώθηκαν επιτυχώς |
+| 5 | <p align="center">[Συμμετοχικό περιεχόμενο A2](#5ο-Παραδοτέο---Συμμετοχικό-υλικό-Α2)</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1496) | Προστέθηκε καινούριο συμμετοχικό υλικό όπως μάθαμε στο 4ο παραδοτέο και όλα τα ζητούμενα του παραδοτέου ολοκληρώθηκαν επιτυχώς |
 | 6 | <p align="center">Κατασκευή του βιβλίου Α</p> | | |
 | 7 | <p align="center">Συμμετοχικό περιεχόμενο B1</p> | | |
 | 8 | <p align="center">Άσκηση γραμμής εντολών</p> | | |
@@ -64,14 +64,14 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 
 ![Unity Game Engine](https://user-images.githubusercontent.com/72515787/197870422-4e0cc1f1-026e-4962-b138-bab30bb78c24.PNG)
 
-<b> και ο σύνδεσμος του συμμετοχικού υλικού στο [netlify](https://radiant-gecko-85646a.netlify.app//gallery/unity-game-engine/)</b>
+<b> και ο σύνδεσμος του συμμετοχικού υλικού στο [netlify](https://invicta-team-project.netlify.app/gallery/unity-engine-2020/)</b>
 
 <h3 align="center">Adobe Photoshop</h3>
 
 Δεύτερη επιλογή διάλεξα απο τα γνωστότερα και πολλών επαγγελματιών "Go to" πρόγραμμα επεξεργασίας ψηφιακών εικόνων, το Adobe Photoshop.
 
 ![PhotoshopGUI](https://user-images.githubusercontent.com/72515787/197872821-6cbcacb5-4750-40fb-9252-9ae9f138f3f3.png)
- <b>ο σύνδεσμος του συμμετοχικού υλικού στο [netlify](https://radiant-gecko-85646a.netlify.app//gallery/photoshop-gui/)</b> 
+ <b>ο σύνδεσμος του συμμετοχικού υλικού στο [netlify](https://invicta-team-project.netlify.app/gallery/photoshop-2016/)</b> 
  
 
 <h2 align="center">4ο Παραδοτέο - Warmup CLI</h2>
@@ -95,3 +95,24 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 
 Και <b>screenshot</b> απο το βίντεο![TempleOS](https://user-images.githubusercontent.com/72515787/199351635-69e020f0-008a-4290-ad9f-349d0ca2512d.png)
 
+<h2 align="center">5ο Παραδοτέο - Συμμετοχικό υλικό Α2</h2>
+
+Σε αυτό το παραδοτέο, καλούμαστε να συνδυάσουμε τις εικόνες που εισάγαμε στο συμμετοχικό υλικο Α1 του 3ου παραδοτέου, με παρόμοιο υλικό ώστε να φτιαχτεί το αντίστοιχο timeline και slide στο ηλεκτρονικό βιβλίο.
+
+Όσον αφορά τις εισαγωγές μου στο Α1,την μηχανή παιχνιδιών Unity και το πρόγραμμα επεξεργασίας ψηφιακής εικόνας Adobe Photoshop, παρατήρησα πως υπήρχε μεγάλη έλλέιψη υλικού πάνω σε αυτά τα δύο θέματα. Έτσιμ για να ολοκληρώσω τα ζητούμενα του παραδοτέου, αποφάσισα να προσθέσω δικό μου έξτρα συμμετοχικό υλικό αξιοποιόντας την τεχνική που μάθαμε απο το προηγούμενο παραδοτέο. Πιο συγκεκριμένα πρόσθεσα:
+
+Για το πρώτο συμμετοχικό υλικό,
+* [Unreal Engine 1998 ](https://invicta-team-project.netlify.app/gallery/unreal-engine/)
+* [Unreal Engine 4](https://invicta-team-project.netlify.app/gallery/unreal-engine-4/)
+* [Πρώτη version της Godot Engine το 2014](https://invicta-team-project.netlify.app/gallery/godot-engine-1.0/)
+* [Godot engine 3.4](https://invicta-team-project.netlify.app/gallery/godot-engine-3.4/)
+* [CryEngine](https://invicta-team-project.netlify.app/gallery/cryengine/)
+* [Πρώτο version της Unity Engine το 2005](https://invicta-team-project.netlify.app/gallery/unity-engine-2005/)
+
+και δημιουργήθηκε <h3>[slide](https://invicta-team-project.netlify.app/slides/game-engines/)</h3> και <h3>[timeline](https://invicta-team-project.netlify.app/timeline/game-engines/)</h3> όπου συνδυάστηκε και το συμμετοχικό υλικό Α1, και
+
+Για το δέυτερο συμμετοχικό υλικό,
+* [την πρώτη version του photoshop  το 1988](https://invicta-team-project.netlify.app/gallery/photoshop-1988/) 
+* [και την πρώτη version του εργαλείου gimp το 1995](https://invicta-team-project.netlify.app/gallery/gimp-1.0/)
+
+και δημιουργήθηκε <h3>[slide](https://invicta-team-project.netlify.app/slides/digital-image-processing/)</h3> και προστέθηκε σε ήδη υπάρχων <h3>[timeline](https://invicta-team-project.netlify.app/timeline/paint/)</h3> όπου συνδυάστηκε και το συμμετοχικό υλικό Α1.
