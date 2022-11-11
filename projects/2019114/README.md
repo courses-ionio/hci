@@ -65,7 +65,9 @@
 
 # Συμμετοχικό περιεχόμενο A2
 
-Για το συμμετοχικό περιεχόμενο A2 πρόσθεσα στο στις κονσόλες το Wii U και στην εικονική πραγματικότητα το Oculus Rift στο χρονολόγιο. Στις διαφάνειες πρόσθεσα το Wii U στο κεφάλαιο με τις τεχνολογίες και το Oculus Rift στο κεφάλαιο με τους τρόπους διάδρασης.
+Για το συμμετοχικό περιεχόμενο A2 πρόσθεσα στο στις κονσόλες το Wii U και στην εικονική πραγματικότητα το Oculus Rift στο χρονολόγιο. Στις διαφάνειες πρόσθεσα το Wii U στο κεφάλαιο με τις τεχνολογίες και το Oculus Rift στο κεφάλαιο με τους τρόπους διάδρασης. 
+
+Αποφάσισα να κάνω αυτές τις προσθήκες διότι και οι δύο συσκεύες έδωσαν έναν διαφορετικό τρόπο διάδρασης με τον χρήστη και πρωτοπόρησαν στο πεδίο τους.
 
 | Repo links | My site links | Team's site links | 
 | --- | --- | --- | 
@@ -84,9 +86,9 @@
 | --- | --- | --- | 
 | [Virtual Reality](https://github.com/p19papa4/site/blob/2019114/_case-study/virtual-reality.md) | [Virtual Reality](https://p19papa4.netlify.app/case-study/virtual-reality/) | [Virtual Reality](https://oroseira2022.netlify.app/case-study/virtual-reality/) |
 
-To αντιστοιχο [pull request]() για images 
+To αντίστοιχο [pull request](https://github.com/Oroseira/images/pull/10/files) για images 
 
-Το αντιστοιχο [pull request](https://github.com/Oroseira/site/pull/8#event-7765410876) για case study
+Το αντίστοιχο [pull request](https://github.com/Oroseira/site/pull/8#event-7765410876) για case study
 
 # Άσκηση γραμμής εντολών
 
@@ -95,6 +97,10 @@ To αντιστοιχο [pull request]() για images
 | Repo links | My site links | Team's site links | 
 | --- | --- | --- | 
 | [Bill Gates](https://github.com/p19papa4/site/blob/2019114/_biography/bill-gates.md) | [Bill Gates](https://p19papa4.netlify.app/biography/bill-gates/) | [Bill Gates](https://oroseira2022.netlify.app/biography/bill-gates/) |
+
+To αντίστοιχο [pull request](https://github.com/Oroseira/images/pull/10/files) για images 
+
+Το αντίστοιχο [pull request](https://github.com/Oroseira/site/pull/8#event-7765410876) για biorgraphy
 
 # Άσκηση γραμμής εντολών
 
