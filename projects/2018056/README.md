@@ -82,5 +82,12 @@
 - [Το δικό μου timeline](https://github.com/The4Beasts/site/blob/master/_timeline/Contents%20of%20a%20Digital%20System.md)
 - [Το site στο netlify](https://636b600809868914e40447d6--moonlit-rugelach-17f284.netlify.app)
 
+# Παραδοτέο 6: Κατασκευή του βιβλίου Α 
+<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα ετικέτα markdown δικής μας έμπνευσης και το αντίστοιχο φίλτρο pandoc lua για την προσθήκη εκτενών σημειώσεων στο σώμα του βιβλίου. Ως ετικέτα αναφέρθηκα στο λογισμικό, καθώς συσχετίζεται με τις περιγραφές μου στα συμμετοχικά περιεχόμενα. Επίσης, ως δεύτερο ζητούμενο του παραδοτέου είναι να δημιουργήσουμε σε PDF το βιβλίο του μαθήματος.</p> 
+
+- [PDF βιβλίο μαθήματος]()
+- [Νέα Markdown Tag](https://github.com/p18kavv/kallipos/blob/master/comment/Software.md)
+- [Φίλτρο lua](https://github.com/p18kavv/kallipos/blob/master/adds.lua)
+
 # Video Quiz:
 Έχουν ολοκληρωθεί μέχρι στιγμής: 6/6
