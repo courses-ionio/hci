@@ -12,8 +12,8 @@
 | 2 | [Άσκηση Γραμμής Εντολών Linux Install](#Άσκηση-Γραμμής-Εντολών-Linux-Install) | https://github.com/courses-ionio/help/discussions/1167 |
 | 3 | [Συμμετοχικό Περιεχόμενο Α1](#Συμμετοχικό-Περιεχόμενο-Α1) | https://github.com/courses-ionio/help/discussions/1444 |
 | 4 | [Άσκηση Γραμμής Εντολών Warm Up](#Άσκηση-Γραμμής-Εντολών-Warm-Up) | https://github.com/courses-ionio/help/discussions/1385 |
-| 5 | [Συμμετοχικό Περιεχόμενο Α2](#Συμμετοχικό-Περιεχόμενο-Α2) |
-| 6 | Κατασκευή του βιβλίου Α |
+| 5 | [Συμμετοχικό Περιεχόμενο Α2](#Συμμετοχικό-Περιεχόμενο-Α2) | https://github.com/courses-ionio/help/discussions/1560 |
+| 6 | [Κατασκευή Του Βιβλίου Α](#Κατασκευή-Του-Βιβλίου-Α) |
 | 7 | Συμμετοχικό περιεχόμενο B1 |
 | 8 | Άσκηση γραμμής εντολών |
 | 9 | Συμμετοχικό περιεχόμενο B2 |
@@ -84,6 +84,13 @@ https://asciinema.org/a/y5oYpdNgmtHFD9UfrMSN2qUn8
 ![download](https://user-images.githubusercontent.com/92392853/198902868-84e0717f-8845-4c28-9707-a30205966dbc.gif)
 
 
-
 # Συμμετοχικό Περιεχόμενο Α2
 
+[Timeline](https://www.greek-salata.cf/timeline/entertainment)
+
+[Slides](https://www.greek-salata.cf/slides/entertainment)
+
+
+# Κατασκευή Του Βιβλίου Α
+
+Έκανα fork το repository `kallipos` και με τις κατάλληλες εντολές δημιούργησα submodules για τα `bibliography`, `extras`, `figures`, `images` και `text`.
