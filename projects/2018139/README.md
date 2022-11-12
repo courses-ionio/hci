@@ -15,7 +15,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1084) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1416) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1420) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1563) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -97,6 +97,8 @@ Netlify links:
      - set θεματικών διαφανειών: [tools](https://p18stef.netlify.app/slides/tools/)
      
      - χρονολόγιο: [health-sport](https://p18stef.netlify.app/timeline/health-sport/)
+
+- [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
      
    
   
