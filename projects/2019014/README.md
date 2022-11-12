@@ -79,11 +79,21 @@
   
 <br />
   
+![Στιγμιότυπο οθόνης (63)](https://user-images.githubusercontent.com/72518208/201497317-d4a8347b-0fdf-4297-9e9c-96d8e647873e.png)
+
+
+<br />
+  
+  
 ##  Amiga 500
   
 <br />
   
 Το δεύτερο θέμα που επέλεξα είναι το **Amiga 500**. Το Amiga 500, γνωστό και ως A500, είναι η πρώτη έκδοση χαμηλού επιπέδου του οικιακού υπολογιστή Amiga. Μοιάζει εξωτερικά με το Commodore 128. Κατά την ανάπτυξη η βάση του Amiga 500 φιλοξενεί ένα πληκτρολόγιο και μια CPU σε ένα κέλυφος, σε αντίθεση με την Amiga 1000. Tο πληκτρολόγιο περιέχει 94 πλήκτρα, συμπεριλαμβανομένων δέκα πλήκτρων λειτουργιών, τέσσερα πλήκτρα κέρσορα και ένα αριθμητικό πληκτρολόγιο.
+  
+<br />
+ 
+![Στιγμιότυπο οθόνης (64)](https://user-images.githubusercontent.com/72518208/201497261-26535bf4-ff6f-4e29-bd7b-e6313516c32f.png)
   
 <br />
  
@@ -149,3 +159,45 @@
 <p align="center">
 <a href="https://asciinema.org/a/6YLWeW25Ebu7CexOGpOLxXUli" target="_blank"><img src="https://asciinema.org/a/6YLWeW25Ebu7CexOGpOLxXUli.svg" /></a>
 </p>
+
+<br />
+  
+# Πέμπτη εβδομάδα / Συμμετοχικό περιεχόμενο Α2
+  
+<br />
+  
+Για το συμμετοχικό περιεχόμενο Α2 μας ζητήθηκε να πραγματοποιήσουμε αλλαγές για τα δύο θέματα που επιλέξαμε στο συμμετοχικο περιεχόμενο Α1 αλλά αυτη τη φόρα στα αρχεία ***_slides*** και ***_timeline***. Πιο συγκεκριμένα υλοποίησα τα εξής:
+  
+<br />
+  
+&#10004; Προσθήκη του **Sensorama** στο φάκελο /[_slides](https://github.com/vasiliskampani/site/tree/2019014/_slides)/forms.md
+<br />
+
+&#10004; Δημιουργία αρχείου [_timeline](https://github.com/vasiliskampani/site/tree/paradoteo5_branch/_timeline)/immersive-virtual-reality.md και προσθήκη του **Sensorama** μέσα
+<br />
+  
+&#10004; Προσθήκη του **Amiga 500** στο [_slides](https://github.com/vasiliskampani/site/tree/paradoteo5_branch/_slides)/forms.md
+<br />
+  
+&#10004; Προσθήκη του **Amiga 500** στο [_timeline](https://github.com/vasiliskampani/site/tree/paradoteo5_branch/_timeline)/personal.md
+  
+<br />
+  
+| | Σύνδεσμοι για το Netlify |
+| --- | --- |
+| 1 | [Netlify slides για το Sensorama](https://vasiliskampani-site.netlify.app/slides/styles/) |
+| 2 | [Netlify slides για το Amiga500](https://vasiliskampani-site.netlify.app/slides/forms/) |
+| 3 | [Netlify timeline για το Sensorama](https://vasiliskampani-site.netlify.app/timeline/immersive-virtual-reality/) |
+| 4 | [Netlify timeline για το Amiga 500](https://vasiliskampani-site.netlify.app/timeline/personal/) |
+  
+<br />
+  
+# Συμμετοχή στην ομαδικότητα
+
+<br />
+  
+| | Σύνδεσμοι σχολιασμών στην ομάδα |
+| --- | --- |
+| 1 | [Σχολιασμό σε Pull Request του site συναδέλφου](https://github.com/TEAM11234/site/pull/1/) |
+| 2 | [Σχολιασμό σε Pull Request του images συναδέλφου](https://github.com/TEAM11234/images/pull/1/) |
+| 3 | [Σχολιασμό σε Pull Request του _gallery συναδέλφου](https://github.com/TEAM11234/_gallery/pull/1/) |
