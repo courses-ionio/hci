@@ -139,6 +139,12 @@
 
 Το [pull request](https://github.com/Oroseira/site/pull/1) μου για την [ομάδα](https://github.com/Oroseira/). (Το ίδιο [pull request](https://github.com/Oroseira/site/pull/1) έγινε και για το [Συμμετοχικό περιεχόμενο A1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1))
 
+
+# **Συμμετοχικό περιεχόμενο Β1**
+
+Για αυτό το παραδοτέο αποφάσισα να ασχοληθώ με την επαυξημένη πραγματικότητα και τον Ivan Shutherland
+
+
 # <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
 
 | X | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
