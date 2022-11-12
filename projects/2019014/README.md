@@ -47,6 +47,12 @@
  
 <br />
 
+***update: Επανεγκατέστησα την διανομή μέσω VM μέσω κάνονικής διαδικάσιας της εγκατάστασης ΚΑΙ σύντομα θα γίνει εγκατάσταση σε πραγματικό λογισμικό***
+ 
+<br />
+
+
+
 ### Neofetch
 
 <br />
@@ -110,3 +116,36 @@
 
 <br />
   
+Για την 4η εβδομάδα του μαθήματος μας ζητήθηκε να ασχοληθούμε με μια warm up άσκηση γραμμής εντολών! Συγκεκριμένα ασχολήθηκα με το [**youtube-dl**](https://github.com/ytdl-org/youtube-dl/) με το οποίο κατέβασα το αγαπημένο μου τραγούδι και το έτρεξα μέσα απο το τερματικό.
+
+<br />
+
+### Εγκατάσταση
+
+<br />
+
+&#10004; `sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl`
+<br />
+
+&#10004; `sudo chmod a+rx /usr/local/bin/youtube-dl`
+
+<br />
+
+### Λήψη και αναπαραγωγή
+
+<br />
+
+&#10004; `youtube-dl https://myurl/youtube.com`
+<br />
+
+&#10004; `mpv https://myurl/youtube.com`
+
+<br />
+
+Στο παρακάτω **asciinema** παρουσιάζω τις εντολές απο την λήψη μεχρι και την αναπαραγωγή του αρχείου που κατέβασα απο την πλατφόρμα ***YouTube***
+
+<br />
+
+<p align="center">
+<a href="https://asciinema.org/a/6YLWeW25Ebu7CexOGpOLxXUli" target="_blank"><img src="https://asciinema.org/a/6YLWeW25Ebu7CexOGpOLxXUli.svg" /></a>
+</p>
