@@ -17,10 +17,10 @@
 | Εβδομάδα | Παραδοτέα | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
 | 1 | <li><a href="#Εισαγωγή"><span class="toctext">Εισαγωγή</span></a> | [Link της παρουσίασης](https://github.com/courses-ionio/help/discussions/875/) | | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 2 | <li><a href="#Εγκατάσταση του λογισμικού Arch Linux"><span class="toctext">Εγκατάσταση του λογισμικού Arch Linux</span></a> | [Link της αναφοράς της εγκατάστασης του Arch Linux](https://github.com/courses-ionio/help/discussions/1088/) | | |
+| 3 | <li><a href="#Συμμετοχικό περιεχόμενο A1"><span class="toctext">Συμμετοχικό περιεχόμενο A1</span></a> | [Link της αναφοράς του συμμετοχικού περιεχομένου Α1](https://github.com/courses-ionio/help/discussions/1357/) | | |
+| 4 | <li><a href="#Warm Up άσκηση γραμμής εντολών"><span class="toctext">Warm Up άσκηση γραμμής εντολών</span></a> | [Link της αναφοράς της warm up άσκησης γραμμής εντολών](https://github.com/courses-ionio/help/discussions/1373/) | | |
+| 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1"><span class="toctext">Συμμετοχικό περιεχόμενο A1</span></a> | [Link της αναφοράς του συμμετοχικού περιεχομένου Α2](https://github.com/courses-ionio/help/discussions/1449/) | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
