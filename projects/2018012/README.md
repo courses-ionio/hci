@@ -9,7 +9,7 @@
 | 2 | Άσκηση γραμμής εντολών (arch install) |[λινκ παραδοτέου 2](https://github.com/courses-ionio/help/discussions/1163) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[λινκ παραδοτέου 3](https://github.com/courses-ionio/help/discussions/1219) , [λινκ παραδοτέου 3(διορθωμένο)](https://github.com/courses-ionio/help/discussions/1260)| |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[λινκ παραδοτέου 4](https://github.com/courses-ionio/help/discussions/1313)| |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[λινκ παραδοτέου 5](https://github.com/courses-ionio/help/discussions/1556) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
