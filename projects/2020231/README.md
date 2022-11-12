@@ -17,7 +17,7 @@
 | 2 | [Άσκηση γραμμής εντολών: Εγκατάσταση Arch Linux](https://github.com/p20exar/hci/edit/2020231/projects/2020231/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%84%CE%BF%CF%85-arch-linux) |[Discussions Link 2](https://github.com/courses-ionio/help/discussions/1131)|Πραγματοποίησα αρκετή εξάσκηση, δίνοντας πολύ χρόνο και προσοχή στη διαμέριση του δίσκου και στις διαφορές μεταξύ της εγκατάστασης σε σύστημα Bios και εκείνης σε σύστημα Uefi. Ο βηματισμός μου, αργός και σταθερός.|
 | 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/p20exar/hci/edit/2020231/projects/2020231/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1) |[Discussions Link 3](https://github.com/courses-ionio/help/discussions/1276) |Ξεπερνώντας τις δυσκολίες κατανόησης των δοθέντων οδηγιών, κατάφερα να προσθέσω 2 φωτογραφίες διαδραστικών συσκευών στο βιβλιο του μαθήματος|
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](https://github.com/p20exar/hci/edit/2020231/projects/2020231/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-warm-up-cli) |[Discussions Link 4](https://github.com/courses-ionio/help/discussions/1392)|Η συγκεκριμένη άσκηση δεν με δυσκόλεψε, αφου αποτελεί μια από τις πιο εύκολες ασκήσεις του τερματικού, θα προσπαθήσω όμως να μελετήσω πως μπορώ να εκτελέσω και πιο σύνθετες ασκήσεις |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Discussions Link 5] |Πραγματοποίησα την άσκηση με την εύρεση δυο διαδραστικών συσκευών που μπορούν να συνδυαστούν με συσκευές μέλους της ομάδας μου και με συσκευές που υπάρχουν ηδη στα κεφάλαια του βιβλίου.|
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -109,5 +109,22 @@ Eκτέλεση των εντολών σε Usb Flash Drive:
 
 <br /><br />
 
+## Συμμετοχικό περιεχόμενο A2
 
+<br />
 
+Για την άσκηση αυτή και την ενότητα slides, επέλεξα να ενσωματώσω τη συσκευή dice-plus στις διαφάνειες του βιβλίου με τίτλο: videogames.md, καθώς είναι μια συσκευή που συνδυάζεται με tablet, κινητό τηλέφωνο ή άλλη παρόμοια συσκευή, που επιτρέπει σε κάποιον να παίζει online κλασικά παιχνίδια.  
+Επιπλέον, δημιούργησα για τη 2η συσκευή ένα νέο slide με την ονομασία: interactive surfaces.md, όπου περιγράφεται η χρήση της συσκευής augmented school desk, ως μια διαδραστική εκπαιδευτική επιφάνεια.  
+<br />
+Για την ενότητα timeline επέλεξα να ενσωματώσω την 1η συσκευή (dice-plus) στο timeline που δημιούργησε μέλος της ομάδας μου, με την ονομασία: motion-detector.md μια και η συσκευή αυτή μπορεί να χρησιμοποιηθεί και ως σύγχρονος ελεγκτής κίνησης, που ανιχνεύει τον προσανατολισμό της, την κίνηση και επιτάχυνση που δέχεται και το πότε αγγίζεται, πράγμα που της επιτρέπει να γνωρίζει αν έχει ρολαριστεί σωστά, για να δέχεται μόνο σωστές ρίψεις, εξασφαλίζοντας μια δίκαιη εμπειρία παιχνιδιού.  
+
+Την 2η συσκευή (augmented-school-desk) επέλεξα να την ενσωματώσω στο timeline του βιλίου: learning.md και το κεφάλαιο: Εκπαιδευτική Τεχνολογία, αφού είναι μια συσκευή που συνδυάζει υπολογιστή και μάθηση, συμμετέχοντας στον εκσυγχρονισμό και τη βελτίωση της εκπαιδευτικής διαδικασίας.
+Ακολουθούν οι σύνδεσμοι για την ενότητα slides και την ενότητα timeline: 
+
+Slides:  
+[dice-plus](https://github.com/p20exar/site/blob/master/_slides/videogames.md)  
+[augmented-school-desk](https://github.com/p20exar/site/blob/master/_slides/interactive%20surfaces.md)
+
+Timeline:  
+[dice-plus](https://github.com/p20exar/site/blob/master/_timeline/motion-detector.md)  
+[augmented-school-desk](https://github.com/p20exar/site/blob/master/_timeline/learning.md)
