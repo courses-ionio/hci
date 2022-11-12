@@ -62,6 +62,16 @@
 - [slide](https://github.com/Second-Time-Is-The-Charm/site/pull/7)
 - [timeline](https://github.com/Second-Time-Is-The-Charm/site/pull/9)
 
+## Παραδοτέο 6 
+Αρχικά για αυτό το παραδοτέο χρειάστηκε να εξοικειωθώ με δύο αγνώστες -για εμένα- ως τώρα τεχνολογίες
+- [x] Το εργαλίο [pandoc](https://pandoc.org/)
+- [x] Την γλώσσα [lua](https://www.lua.org/)
+
+Στην συνέχεια κλήθηκα να κάνω τις ακούλουθες προσθήκες στο βιβλίο αφού το δημιουργήσω σε .tex αρχείο
+- [ ] δικό μου [φίλτρο]() 
+- [ ] μετατροπή σε [pdf]() 
+- [ ] μια δική μου [προσθήκη]() σε μορφή σχόλιου
+
 ## TEAM 
 
 [Second Time Is The Charm](https://github.com/Second-Time-is-the-Charm)
