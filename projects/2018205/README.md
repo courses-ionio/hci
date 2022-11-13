@@ -88,6 +88,8 @@ PSP CONSOLE:
 
 [Νέα Markdown Tag](https://github.com/despina-komo/kallipos/blob/97a3d5da65e42a7d91ac9c5fe6afd2b2360359aa/Apple%20in%20Technology.md)
 
+[Make_Latex](https://github.com/despina-komo/kallipos/blob/44e13b126cc966409ab4608bb16b06c1d2eb9e1c/make_latex.sh)
+
 # Video Quiz
 Έχουν ολοκληρωθεί μέχρι στιγμής: 6/6
 
