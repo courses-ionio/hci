@@ -13,9 +13,9 @@
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](#%CE%B1%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-warmup) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1277) | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B12) | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21-%CE%BA%CE%B1%CE%B9-%CE%B22) | | |
 | 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21-%CE%BA%CE%B1%CE%B9-%CE%B22) | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -140,10 +140,29 @@
 Το [pull request](https://github.com/Oroseira/site/pull/1) μου για την [ομάδα](https://github.com/Oroseira/). (Το ίδιο [pull request](https://github.com/Oroseira/site/pull/1) έγινε και για το [Συμμετοχικό περιεχόμενο A1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1))
 
 
-# **Συμμετοχικό περιεχόμενο Β1**
+# **Συμμετοχικό περιεχόμενο Β1 και Β2**
 
-Για αυτό το παραδοτέο αποφάσισα να ασχοληθώ με την επαυξημένη πραγματικότητα και τον Ivan Shutherland
+Για αυτό το παραδοτέο αποφάσισα να ασχοληθώ με μια πατέντα η οποία βοήθησε πολύ στην ανάπτυξη των υπολογιστικών συστημάτων με γραφικά που έχουμε σήμερα καθώς και με τον Steve Wozniak, εφευρέτη της πατέντας και μεγάλο στέλεχος της Apple.
 
+Ο λόγος που επέλεξα να ασχοληθώ με το συγκεκριμένο αντικείμενο είναι το γεγονός ότι όλες οι συσκευές τις οποίες χρησιμοποιεί ο κόσμος (με μερικές εξαιρέσεις πάντα) έχουν γραφικά τα οποία μπορούν να παίξουν βίντεο. Έχοντας μεγαλώσει σε ένα περιβάλλον με τέτοιου είδους συσκευών συκευών, δε θα μπορούσα να φανταστώ έναν κόσμο στον οποίο δεν περιλαμβάνεται κάτι τέτοιο.
+
+Παρακάτω βρίσκονται οι προσθήκες μου όπως φαίνονται στο [site](https://oroseira2022.netlify.app) της [ομάδας](https://github.com/Oroseira) μου.
+
+<h3>B1: Η <a href="https://oroseira2022.netlify.app/case-study/microcomputer_video/">μελέτη περίπτωσης</a> με την οποία ασχολήθηκα.</h3>
+
+<p align=center>
+ <a href="https://oroseira2022.netlify.app/case-study/microcomputer_video/" target="_blank"><img src="https://user-images.githubusercontent.com/72461719/201521781-fe163866-3163-4710-9bb3-d264e4f9219f.png" width="400"/></a>
+ </p>
+
+
+
+<h3>B2: Η <a href="https://oroseira2022.netlify.app/biography/wozniak/">βιογραφία</a> του Steve Wozniak.</h3>
+
+<p align=center>
+ <a href="https://oroseira2022.netlify.app/biography/wozniak/" target="_blank"><img src="https://user-images.githubusercontent.com/72461719/201521769-f8d3c352-24de-45a9-9b65-cfdc3f24656b.png" width="400"/></a>
+ </p>
+
+❗Μπορείτε να κάνετε κλικ πάνω στις εικόνες για να μεταφερθείτε απευθείας στον σύνδεσμο.
 
 # <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
 
