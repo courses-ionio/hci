@@ -60,13 +60,22 @@ H εγκατάσταση του arch linux ήταν μια πρόκληση στ
 <br />
 
 Για το συμμετοχικό υλικό Α1 ζητείται η αναζήτηση 2 εικόνων με ελέυθερα πνευματικά δικαιώματα για το βιβλίο.Η αναζήτηση έγινε στα site name και επιλέχθηκαν οι εξής:
-![alt text](bllender-version-2.57.png)
-![alt text](amiga-workbench.png)
+![alt text](https://github.com/inf2021090/images/blob/master/blender-version-2.57.png)
+![alt text](https://github.com/inf2021090/images/blob/master/amiga-workbench.png)
+
 Για την δημηουργία του thumbnail χρησιμοποιήθηκε αυτό το ελεύθερο [ονλάιν πρόγραμμα επεξεργασίας εικόνας](https://www9.lunapic.com/editor/?action=scale).Για το κάθε ένα δημιουργήθηκε ένα ξεχωριστό αρχείο **markdown** με όλα τα απαράιτητα στοιχεία.Για να ανέβουν στο  github έπρεπε να γίνει εγκατάσταση των αποθετηρίων site, _gallery,images αγού προηγουμένος είχε γίνει αντίστοιχο fork αυτών στο github profile μου μέσω του **ομαδικού οργανισμού**.Με την εντολή git clone λινκ για το αποθετηριο γίνεται πρώτα η εγκατάσταση του site μετά μετακίνηση cd site για επανηληψη της διαδικασίας για τα -gallery και images που είναι υποενότητες του site.Αφού γίνει upload των αντιστοιχων αρχειων στο github σειρά έχουν οι εντολές
 1.  git add .
 2.  git commit -m "message"
 3.  git push origin
 Αυτό επαναλαμβάνεται μια φορά στο gallery μια στο images και τέλος στο site.Για να δημιουργηθεί η ατομική ιστοσελίδα έγινε πρώτα σύνδεση στο netlify μέσω github και από εκεί επιλέχθηκε το αποθετήριο από το οποίο θα φτιαχτεί το site.
+link για το netlify
+[blender](https://elegant-meringue-bf62a4.netlify.app/gallery/blender-version-2.57/)
+[amiga workbench](https://elegant-meringue-bf62a4.netlify.app/gallery/amiga-workbench/)
+
+τα pull requests
+(https://github.com/ContattoContare/_gallery/pull/2/commits/bbd37a5fb70eb1d161d33133ec9caab99f83bfaa)
+(https://github.com/ContattoContare/site/pull/3)
+(https://github.com/ContattoContare/site/pull/2/files)
 Γνωστά προβλήματα :
 1.  Η γραμμές στο αρχείο md έχουν σημασία!Φωτογραφιες
 2.  Προσοχή στα branches
@@ -87,10 +96,32 @@ H εγκατάσταση σε πραγματικό υλικό είχε είδη 
 
 <br />
 
+Η εβδομάδα αυτή αφορούσε την δημιουργία ενός νέο χρονολογίου και μίας νέας θεματικής διαφάνιας για κάθε μια από τις εικόνες της τρίτης εβδομάδας. Η  διαδικασία ήταν σχετικά απλή καθώς τα βήμτα ήταν είδη γνωστά από το παραδοτέο 3. Αν και με τον οργανισμό μου αντιμετοπίσαμε αρχικά μερικές δυσκολίες ,που οφειλόνταν σε λανθασμένη ρύθμιση των αποθετηρίων, γρήγορα αντιμετοπίσυηκαν και μπορέσαμε να προχωρίσουμε στην προσθήκη των αρχείων στο site. Η δική μου συνεισφορά:
+pull request
+(https://github.com/ContattoContare/site/pull/14/commits)
+
+## Εβδομάδα Έκτη - Κατασκευή του βιβλίου Α
+
+<br />
+
+Για την κατασκευή του βιβλίου Α έγινε εγκατάσταση του εργαλείου pandoc και του πακέτου texlive-most. Επιπλέον χρειάστηκε να εγκατασταθεί και το φίλτρο pandoc-fignos.
+
 ## Δικτυογραφία-Πηγές
 
 <br />
 
+παραδοτέο 2
+
+
+[Arch Linux: Full Installation Guide - A complete tutorial/walkthrough in one video!](https://youtu.be/DPLnBPM4DhI)
+[]()
+[]()
+[]()
+[]()
+παραδοτέο 3
+παραδοτέο 4
+παραδοτέο 5
+παραδοτέο 6
 
 
 
