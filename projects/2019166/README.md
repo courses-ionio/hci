@@ -64,4 +64,5 @@ Link Asciinema:
 | 3 | Xerox Star User Interface (1982) 1 of 2  |  :+1: | :+1: |
 | 4 | Alto System Project: Larry Tesler demonstration of Gypsy  |  :+1: | :+1: |
 | 5 | Alan Kay: Doing with Images Makes Symbols (Full Version)  |  :+1: | :+1: |
+| 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | :+1: | :+1: |
 
