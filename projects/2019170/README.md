@@ -91,6 +91,9 @@
 Σε αυτό το παραδοτέο δημιούργησα το φίλτρο commentp2019170.lua και αφού έκανα μετατροπές στο make-latex.sh για να συγχωνευτεί το φίλτρου μου, δημιούργησα το βιβλίο σε PDF.
 Η προσθήκη που έκανα βρίσκεται στο κεφάλαιο "Μορφές" και περιέχει πληροφορίες για τη γλώσσα FLOW.
 
-[PDF Βιβλίου](https://github.com/marked-d/kallipos/blob/master/book_p2019170.pdf)
-[Φίλτρο](https://github.com/marked-d/kallipos/blob/master/commentp2019170.lua)
-[Η προσθήκη μου](https://github.com/marked-d/kallipos/blob/master/mycommentsp2019170/flowjefraskin.md)
+[PDF Βιβλίου](https://github.com/marked-d/kallipos/blob/master/book_p2019170.pdf) <br>
+[Φίλτρο](https://github.com/marked-d/kallipos/blob/master/commentp2019170.lua) <br>
+[Η προσθήκη μου](https://github.com/marked-d/kallipos/blob/master/mycommentsp2019170/flowjefraskin.md) <br>
+
+![image](https://github.com/marked-d/HCI_plus/blob/main/book/pros8hkh.png)
+
