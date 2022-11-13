@@ -79,6 +79,6 @@ Netlify Links:
 
 &nbsp;&nbsp;&nbsp;Για αυτή την βδομάδα ζητούμενο ήταν η κατασκευή ενός βιβλίου σε pdf. Αρχικά δημιούργησα ένα αρχείο .lua και το ονόμασα filter. Ακόμα, έκανα μετατροπές στο make-latex.sh ώστε να γίνει η μετατροπή του αρχείου book.tex σε PDF βάζοντας μέσα και το φίλτρο μου ώστε να εισαχθεί η συνεισφορά μου. Τέλος, η συνεισφορά που έκανα ήταν στο κεφάλαιο **Μέθοδος** και πιο συγκεκριμένα στο  **Η περίπτωση των Microsoft Windows** όπου πρόσθεσα το Windows 11.
 
-[PDF](https://github.com/inf2021229/kallipos/blob/master/book.pdf),
+Github Links: [PDF](https://github.com/inf2021229/kallipos/blob/master/book.pdf),
 [Filter](https://github.com/inf2021229/kallipos/blob/master/filter.lua),
 [Contribution](https://github.com/inf2021229/kallipos/blob/master/contribution/windows11.md)
