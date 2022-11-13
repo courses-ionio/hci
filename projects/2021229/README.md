@@ -73,3 +73,12 @@ Netlify Links:
 [Timeline GUIs](https://inf2021229.netlify.app/timeline/gui/),
 [Slides Operating Systems](https://inf2021229.netlify.app/slides/operating-systems/),
 [Slides Windows Shells](https://inf2021229.netlify.app/slides/windows-shells/)
+
+<br /><br /> 
+## Εβδομάδα Έκτη - Κατασκευή του βιβλίου Α
+
+&nbsp;&nbsp;&nbsp;Για αυτή την βδομάδα ζητούμενο ήταν η κατασκευή ενός βιβλίου σε pdf. Αρχικά δημιούργησα ένα αρχείο .lua και το ονόμασα filter. Ακόμα, έκανα μετατροπές στο make-latex.sh ώστε να γίνει η μετατροπή του αρχείου book.tex σε PDF βάζοντας μέσα και το φίλτρο μου ώστε να εισαχθεί η συνεισφορά μου. Τέλος, η συνεισφορά που έκανα ήταν στο κεφάλαιο **Μέθοδος** και πιο συγκεκριμένα στο  **Η περίπτωση των Microsoft Windows** όπου πρόσθεσα το Windows 11.
+
+PDF: [Click](https://github.com/inf2021229/kallipos/blob/master/book.pdf)
+Filter: [Click](https://github.com/inf2021229/kallipos/blob/master/filter.lua)
+Contribution: [Click](https://github.com/inf2021229/kallipos/blob/master/contribution/windows11.md)
