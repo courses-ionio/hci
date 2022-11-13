@@ -8,7 +8,7 @@
 
 | Εβδομάδα | Παραδοτέα | [Εβδομαδιαία παρουσίαση προόδου](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 | Εισαγωγή και Δημιουργία ομάδας| [Εισαγωγή](https://github.com/courses-ionio/help/discussions/889) - [Ομάδα](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609)| |
+| [1](1) | Εισαγωγή και Δημιουργία ομάδας| [Εισαγωγή](https://github.com/courses-ionio/help/discussions/889) - [Ομάδα](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609)| |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Παραδοτέο 2o](https://github.com/courses-ionio/help/discussions/1068) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | [Παραδοτέο 3o](https://github.com/courses-ionio/help/discussions/1179) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Παραδοτέο 4ο](https://github.com/courses-ionio/help/discussions/1370) | |
