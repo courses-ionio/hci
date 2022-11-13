@@ -14,7 +14,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Ανάρτηση των προσθηκών στα repositories _gallery και images καθώς και δημιουργία netlify](https://github.com/courses-ionio/help/discussions/1226)| |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Ανάρτηση των ασκήσεων "warm up" στα Discussions](https://github.com/courses-ionio/help/discussions/1355) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Ανάρτηση των προσθηκών μου στο χρονολόγιο και στα slides](https://github.com/courses-ionio/help/discussions/1472) | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α |[Aνάρτηση στα discussions του φίλτρου σε lua,του σχολιασμού και της μετατροπής του make-latex](https://github.com/courses-ionio/help/discussions/1580) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
