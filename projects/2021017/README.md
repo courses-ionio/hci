@@ -1,4 +1,4 @@
-# Ονοματεπώνυμο Ιωάννης Αναστασοπούλος <br> Α.Μ. inf2021017
+# Ονοματεπώνυμο: Ιωάννης Αναστασοπούλος <br> Α.Μ. inf2021017
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [ΕΙΣΑΓΩΓΗ](https://github.com/courses-ionio/help/discussions/882) <br> [ΟΡΓΑΝΙΣΜΟΣ](https://github.com/Second-Time-Is-The-Charm)| |
@@ -18,6 +18,7 @@
 
 # Εισαγωγή <br>
 Στο μάθημα σκοπεύω να εξοικειωθώ και να γνωρίσω περισσότερο το arch linux με σκοπό να μάθω τις δυνατότητες και την ευελιξία του, επίσης στο github θα ήθελα να μάθω πως η εφαρμογή, θα με βοηθήσει στην επαγγελματική και φοιτητική μου ζωή.<br>
+Είμαι στον [οργανισμό](https://github.com/Second-Time-Is-The-Charm) με 
 
 # Arch linux <br>
 Στην εγκατάσταση τον arch linux, αν και βατή μπορώ να πω ότι αντιμετώπισα προβλήματα, όπως για παράδειγμα ο ήχος δε δούλευε. Λόγο τον ελλείπων γνώσεων μου έπρεπε να ψάξω στο διαδίκτυο για λύσεις.Η οποία εμπειρία με έκανε να χρησιμοποιήσω το terminal και να γνωρίσω τη χρήση του.<br>
