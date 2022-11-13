@@ -23,11 +23,11 @@
 
 1<sup>o</sup> Παραδοτέο 
 ========================
-[Εισαγωγή](https://github.com/courses-ionio/help/discussions/889)
+Εισαγωγή
 -------------------------------------------------------------------
 Μέσω αυτού του μαθήματος θέλω να μάθω να διαχειρίζομαι καινούρια - για εμένα - εργαλεία, όπως είναι το github και τα unix based συστήματα, σε αυτή την περίπτωση το Arch Linux distro, τα οποία θα με βοηθήσουν να εξελιχθώ ως φοιτήτρια στην επιστήμη της πληροφορίας αλλά και στην επαγγελματική μου πορεία ως εν δυνάμει πληροφορικός.
 
-[Ομάδα](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609)
+Ομάδα
 ------------------------------------------------------------------------------------------
 ### ***Second Time Is The Charm***
 ![pepe](https://avatars.githubusercontent.com/u/114950934?s=200&v=4)
@@ -44,7 +44,7 @@
 
 2<sup>o</sup> Παραδοτέο 
 ========================
-[Linux Installation](https://github.com/courses-ionio/help/discussions/1068)
+Linux Installation
 -----------------------------------------------------------------------------
 Για την εγκατάσταση του distro Arch Linux ακολούθησα τις οδηγίες σύμφωνα με το ArchWiki.
 Παρακάτω είναι οι εντολές neofetch και journalctl-b:
@@ -54,7 +54,7 @@
 --------------------
 3<sup>o</sup> Παραδοτέο 
 ========================
-[Συμμετοχικό περιεχόμενο A1](https://github.com/courses-ionio/help/discussions/1179)
+Συμμετοχικό περιεχόμενο A1
 -----------------------------
 Για αυτό το παραδοτέο αρχικά έκανα deploy το site από το προσωπικό μου αποθετήριο για να κάνω testing τις αλλαγές μου. Οι προσθήκες μου στο βιβλίο ήταν το [Microsoft Windows 11](https://stitc-site.netlify.app/gallery/windows_11/) και το [Microsoft Office Word](https://stitc-site.netlify.app/gallery/micorosoft_office_word/). Εφόσον έλεγξα πως δεν υπάρχει κάποιο πρόβλημα έκανα pull request στον [οργανισμό της ομάδας μου](https://github.com/Second-Time-Is-The-Charm) για να ενσωματωθούν οι προσθήκες μου στο site του οργανισμού.<br>
 [pull request _gallery](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/6) <br>
@@ -62,7 +62,7 @@
 
 4<sup>o</sup> Παραδοτέο 
 ========================
-[Άσκηση γραμμής εντολών (warm up cli)](https://github.com/courses-ionio/help/discussions/1370)
+Άσκηση γραμμής εντολών (warm up cli)
 -------------------------------------
 Οι ασκήσεις που επέλεξα από τα [warm up activities](https://github.com/epidrome/dokey#warmup) είναι το [jrnl](https://github.com/jrnl-org/jrnl#readme) και το [youtube-dl](https://github.com/ytdl-org/youtube-dl#readme).
 
@@ -73,7 +73,7 @@
 
 5<sup>o</sup> Παραδοτέο 
 ========================
-[Συμμετοχικό περιεχόμενο A2](https://github.com/courses-ionio/help/discussions/1446)
+Συμμετοχικό περιεχόμενο A2
 -------------------------------------
 Για το 5ο παραδοτέο ανέθεσα τις προσθήκες μου από το [3ο παραδοτέο](https://github.com/courses-ionio/help/discussions/1179) στα κατάλληλα slides και timeline. Έλεγξα πως δεν υπάρχει κάποιο πρόβλημα και έκανα [pull request](https://github.com/Second-Time-Is-The-Charm/site/pull/10) στον [οργανισμό της ομάδας μου](https://github.com/Second-Time-Is-The-Charm) για να ενσωματωθούν οι προσθήκες μου στο site του οργανισμού.
 - ### **Windows 11**
@@ -86,7 +86,7 @@
 
 6<sup>o</sup> Παραδοτέο 
 ========================
-[Κατασκευή του βιβλίου Α](https://github.com/courses-ionio/help/discussions/1549)
+Κατασκευή του βιβλίου Α
 ---------------------------
 Σε αυτό το παραδοτέο δημιούργησα το φίλτρο commentp2019170.lua και αφού έκανα μετατροπές στο make-latex.sh για να συγχωνευτεί το φίλτρου μου, δημιούργησα το βιβλίο σε PDF.
 Η προσθήκη που έκανα βρίσκεται στο κεφάλαιο "Μορφές" και περιέχει πληροφορίες για τη γλώσσα FLOW.
@@ -96,4 +96,3 @@
 [Η προσθήκη μου](https://github.com/marked-d/kallipos/blob/master/mycommentsp2019170/flowjefraskin.md) <br>
 
 ![image](https://github.com/marked-d/HCI_plus/blob/main/book/pros8hkh.png)
-
