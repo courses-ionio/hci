@@ -34,14 +34,25 @@
 
 Για το τρίτο παραδοτέο, η ομαδική συμμετοχή ήταν απαραίτητη. Μετά από πολλές εβδομάδες και ατελείωτες προσπάθειες, η ιστοσελίδα μας δουλεύει στο Netlify με το υλικό για το [Steam Deck](https://www.greek-salata.cf/gallery/steamdeck/) και το [NES](https://www.greek-salata.cf/gallery/nintendo_entertainment_system/) να εμφανίζεται σωστά στην ιστοσελίδα. Φτιάξαμε και custom link μέσω την cloudfare για να είναι πιο memorable. (greek-salata.cf)
 
+* [Link για το Steam Deck](https://www.greek-salata.cf/gallery/steamdeck/)
+* [Link για το Nintendo Entertainment System](https://www.greek-salata.cf/gallery/nintendo_entertainment_system/)
+
 # 4ο ΠΑΡΑΔΟΤΕΟ
 
 Για το τέταρτο παραδοτέο μιας και τα arch linux ήταν ήδη εγκατεστημένα σε hardware, δοκίμασα μια άσκηση από τις warm up ασκήσεις που μου φαίνονταν ενδιαφέρον, το άμεσο download mp3/mp4 περιεχομένου από το youtube. Παρά τις προσπάθειες μου, το download speed ήταν στα 50kb/s αλλά ευτυχώς το youtube-dl είχε την πολύ έξυπνη λειτουργία resume, με αποτέλεσμα το asciinema να βγήκε πολύ μικρότερο, μιας και άρχισα να κάνω record κοντά στην ολοκλήρωση της διαδικασίας.
 
+* [Link από το asciinema](https://asciinema.org/a/yJh3qiLtyJKzleFFNZC9pCYqv)
+
 # 5o ΠΑΡΑΔΟΤΕΟ
 
-Για το πέμπτο παραδοτέο καλλεστήκαμε να δημιουργήσουμε slides και timeline για την ιστοσελίδα του μαθήματος πάνω στα θέματα που επιλέξαμε στο παραδοτέο Α1. Άν και έχουν δημιουργηθεί τα αντίστοιχα slides και timelines, ένα πρόβλημα με το pull request προς τον οργανισμό τα αποτρέπει από να εμφανιστούν στην ιστοσελίδα της ομάδας. Θα υπάρξουν μελλοντικές προσπάθειες στο να διορθωθεί αυτό το πρόβλημα.
+Για το πέμπτο παραδοτέο καλλεστήκαμε να δημιουργήσουμε slides και timeline για την ιστοσελίδα του μαθήματος πάνω στα θέματα που επιλέξαμε στο παραδοτέο Α1. Άν και έχουν δημιουργηθεί τα αντίστοιχα slides και timelines, 
+
+* [Link για τα slides](https://www.greek-salata.cf/slides/game_consoles/)
+* [Link για το χρονολόγιο](https://www.greek-salata.cf/timeline/game_consoles/)
+
 
 # 6ο ΠΑΡΑΔΟΤΕΟ
 
 Το έκτο παραδοτέο αποτελεί τα πρώτα βήματα για την κατασκευή του βιβλίου. Μετά από πολλά προβλήματα με την εγκατάσταση του pandoc κατάφερα μετά από ένα system update να το εγκαταστήσω και να το κάνω να δουλεύει. Αφού λοιπόν δημιουργήθηκαν έπειτα και τα κατάλληλα submodules για το fork μου του kallipos κατέβασα το βιβλίο και βρήκα ένα σημείο που μου φάνηκε ενδιαφέρον να επεκταθώ. Επεκτάθηκα στα controllers που επιτρέπουν στα άτομα με ειδικές ανάγκες να δοκιμάσουν βιντεοπαιχνίδια με έναν τρόπο που τους είναι οικείος.
+
+* [Link για το discussion του 6ου παραδοτέου](https://github.com/courses-ionio/help/discussions/1570)
