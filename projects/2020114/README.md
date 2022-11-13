@@ -37,7 +37,7 @@
 
 [motorola](https://raw.githubusercontent.com/petrakhh/images/master/motorola-aura.jpg)
 
-[Αρχείο gallery](https://github.com/petrakhh/_gallery/blob/2020114/motorola-aura_front_red.md)
+[Αρχείο gallery](https://github.com/petrakhh/_gallery/blob/master/motorola-aura.md)
 
 [Αρχείο images](https://github.com/petrakhh/images/blob/master/motorola-aura.jpg)
 
