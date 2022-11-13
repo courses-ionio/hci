@@ -19,7 +19,7 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 | 3 | <p align="center">[Συμμετοχικό περιεχόμενο A1](#3ο-Παραδοτέο---Συμμετοχικό-υλικό-Α1)</p> | <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1269)|Ολα τα ζητούμενα του παραδοτέου, ολοκληρώθηκαν επιτυχώς, και νιώθω πιο confident στην χρήση του CLI|
 | 4 | <p align="center">[Άσκηση γραμμής εντολών (warm up cli)](#4ο-Παραδοτέο---Warmup-CLI)</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1296) | Ολα τα ζητούμενα του παραδοτέου, ολοκληρώθηκαν επιτυχώς |
 | 5 | <p align="center">[Συμμετοχικό περιεχόμενο A2](#5ο-Παραδοτέο---Συμμετοχικό-υλικό-Α2)</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1496) | Προστέθηκε καινούριο συμμετοχικό υλικό όπως μάθαμε στο 4ο παραδοτέο και όλα τα ζητούμενα του παραδοτέου ολοκληρώθηκαν επιτυχώς |
-| 6 | <p align="center">Κατασκευή του βιβλίου Α</p> | | |
+| 6 | <p align="center">Κατασκευή του βιβλίου Α</p> | <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1578)</p>| |
 | 7 | <p align="center">Συμμετοχικό περιεχόμενο B1</p> | | |
 | 8 | <p align="center">Άσκηση γραμμής εντολών</p> | | |
 | 9 | <p align="center">Συμμετοχικό περιεχόμενο B2</p> | | |
