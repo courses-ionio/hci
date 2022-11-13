@@ -13,7 +13,7 @@
 | 3 | [Συμμετοχικό Περιεχόμενο Α1](#Συμμετοχικό-Περιεχόμενο-Α1) | https://github.com/courses-ionio/help/discussions/1444 |
 | 4 | [Άσκηση Γραμμής Εντολών Warm Up](#Άσκηση-Γραμμής-Εντολών-Warm-Up) | https://github.com/courses-ionio/help/discussions/1385 |
 | 5 | [Συμμετοχικό Περιεχόμενο Α2](#Συμμετοχικό-Περιεχόμενο-Α2) | https://github.com/courses-ionio/help/discussions/1560 |
-| 6 | [Κατασκευή Του Βιβλίου Α](#Κατασκευή-Του-Βιβλίου-Α) |
+| 6 | [Κατασκευή Του Βιβλίου Α](#Κατασκευή-Του-Βιβλίου-Α) | https://github.com/courses-ionio/help/discussions/1582 |
 | 7 | Συμμετοχικό περιεχόμενο B1 |
 | 8 | Άσκηση γραμμής εντολών |
 | 9 | Συμμετοχικό περιεχόμενο B2 |
@@ -96,6 +96,7 @@ https://asciinema.org/a/y5oYpdNgmtHFD9UfrMSN2qUn8
 Έκανα fork το repository `kallipos` και με τις κατάλληλες εντολές δημιούργησα submodules για τα `bibliography`, `extras`, `figures`, `images` και `text`. Έγινε προσπάθεια deploy του pdf αλλά χωρίς επιτυχία. Ακολουθεί μια πρώτη συνεισφορά μου:
 
 [Contribution](https://github.com/mariakourti/kallipos/tree/master/contribution)
+
 [Φίλτρο](https://github.com/mariakourti/kallipos/blob/master/contribution.lua)
 
 
