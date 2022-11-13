@@ -97,6 +97,8 @@ Netlify links:
      - set θεματικών διαφανειών: [tools](https://p18stef.netlify.app/slides/tools/)
      
      - χρονολόγιο: [health-sport](https://p18stef.netlify.app/timeline/health-sport/)
+     
+Έχω επιλέξει να κατσκευάσω ένα καινούριο time line για τις εφαρμογές μου εφόσον δεν έβρισκα κάποια από τις κατηγορίες στην οποία να ταιριάζουν. Για αυτή την διαδικασία εκανά add file στον φάκελο με τα χρονολόγια και τον ονόμασα υγεία και αθλητισμός.
 
 - [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
      
