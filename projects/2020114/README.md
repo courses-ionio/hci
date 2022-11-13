@@ -41,7 +41,7 @@
 
 [Αρχείο images](https://github.com/petrakhh/images/blob/master/motorola-aura.jpg)
 
-## Η πρώτη φορητή κονσόλα παιχνιδιών
+## Η πρώτη φορητή κονσόλα παιχνιδιών PSP
 
 ![image](https://user-images.githubusercontent.com/92635681/199840484-46553a58-f984-42eb-aadd-0b73cad4bf3a.png) 
 
