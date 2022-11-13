@@ -33,7 +33,7 @@
 
 ## Το πρώτο κινητό με στρογγυλή οθόνη
 
-![image](https://user-images.githubusercontent.com/92635681/199840010-a3175a2d-5702-4ebe-b8fe-9b18d9a24d8b.png)
+![image](https://raw.githubusercontent.com/petrakhh/images/master/motorola-aura-thumb.jpg)
 
 [motorola](https://www.techpress.gr/wp-content/uploads/2008/10/motorola-aura_front_red.jpg)
 
