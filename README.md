@@ -7,9 +7,9 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
+| 2 | Άσκηση γραμμής εντολών (linux install) | Βίντεο εκτέλεσης εντολής Neofetch: https://asciinema.org/a/41oii7qRtNP1LOPcOjCKP0H48 | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | Βίντεο εκτέλεσης εντολών getnews και getweather απο το warm up cli: https://asciinema.org/a/Osr7pOPzP8KZkhSgTTVWHIqdb | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -68,3 +68,37 @@
 Αν κάποιος φοιτητής στείλει νέα αναφορά τότε η παλιότερη διαγράφεται κατά την αρχειοθέτηση (αλλά παραμένει στο ιστορικό του γκιτ).
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο με τον ΑΜ σας μέσα στον φάκελο projects και σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
+
+# Συμμετοχικό Περιεχόμενο 1Α
+## Apple Watch 
+### Link Images:
+https://github.com/team-132/images/blob/master/apple-watch-series-4.png
+https://github.com/team-132/images/blob/master/apple-watch-series-4-thumb.png
+### Link Gallery:
+https://github.com/team-132/_gallery/blob/master/apple-watch.md
+## xBox
+### Link Images:
+https://github.com/team-132/images/blob/master/xbox-one.jpg
+https://github.com/team-132/images/blob/master/xbox-one-thumb.jpg
+### Link Gallery:
+https://github.com/team-132/_gallery/blob/master/xbox.md
+
+# ΣYMMETOXIKO ΠERIEXOMENO 2Α :
+## APPLE-WATCH :
+### slides :
+https://github.com/team-132/site/blob/master/slides/apple-watch.md
+### timeline :
+https://github.com/team-132/site/blob/master/timeline/apple-watch.md
+## XBox :
+### slides :
+https://github.com/team-132/site/tree/master/slides
+### timeline :
+https://github.com/team-132/site/tree/master/timeline
+
+# Κατασκευή του βιβλίου Α
+## filter: 
+https://github.com/Filipposanag/kallipos/blob/master/filter.lua
+### contribution:
+https://github.com/Filipposanag/kallipos/blob/master/contribution/5g.md
+
+
