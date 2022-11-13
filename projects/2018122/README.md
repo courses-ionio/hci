@@ -36,6 +36,32 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 3 | Συμμετοχικό περιεχόμενο - Α1
 
+  Στο 3ο παραδοτέο έπρεπε να γίνει προσθήκη δύο εικόνων με λεζάντα και ελεύθερα πνευματικά δικαιώματα . 
+  Οι εικόνες που χρησιμοποίησα ήθελα να είναι καινοτόμες και να διεγείρουν το ενδιαφέρον , για αυτό διάλεξα το πρώτο Monitor που εφευρέθηκε και το πρώτο SmartPhone της Alcatel , δύο εφευρέσεις που στην εποχή τους θεωρούνταν εξωγήινες .
+  Τα βήματα που ακολούθησα για την προσθήκη των εικόνων ήταν τα εξής:
+  :white_check_mark: Fork του repository από το GitHub της ομάδας μου αλλά και των **submodules του _gallery και των Images**
+  :white_check_mark: Έπειτα διαμόρφωσα δύο αρχεία **.md** στο **repo _gallery & images**
+  :white_check_mark: Με΄τα επεξεργάστηκα σε Terminal τις απαραίτητες εντολές για την προσθήκη τους στο **Site** μέσω των **submodules**.
+  :white_check_mark: Τέλος επεξεργάστηκα τα αρχεία [_config.yml](https://github.com/AndreasKarageorgiou/site/blob/organization/_config.yml) και τα αποτελέσματα μετά το Deploy του [Netlify ](https://andreaskarageorgiou.netlify.app) είναι τα παρακάτω :
+  
+  ### _gallery 
+
+* **[first-ever-monitor](https://github.com/AndreasKarageorgiou/_gallery/blob/master/first-ever-monitor.md)**
+* **[first-Smartphone](https://github.com/AndreasKarageorgiou/_gallery/blob/master/first-Smartphone.md)**
+
+### images
+
+* **[first-ever-monitor](https://github.com/AndreasKarageorgiou/images/blob/master/first-ever-monitor.jpg) & [first-ever-monitor-thumb](https://github.com/AndreasKarageorgiou/images/blob/master/first-ever-monitor-thumb.jpg)**
+* **[first-Smartphone](https://github.com/AndreasKarageorgiou/images/blob/master/First-Smartphone.jpg) & [first-Smartphone-thumb](https://github.com/AndreasKarageorgiou/images/blob/master/First-Smartphone-thumb.jpg)**
+
+### Netlify
+
+* **[first-ever-monitor](https://andreaskarageorgiou.netlify.app/gallery/first-ever-monitor/)**
+* **[first-Smartphone](https://andreaskarageorgiou.netlify.app/gallery/first-smartphone/)**
+
+  
+  
+
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 4 | Ασκήσεις γραμμής εντολών (warm up)
 
   Στο 4ο παραδοτέο έγινε η εγκατάσταση ενός νέου καθαρού συστήματος σε αληθινό περιβάλλον **Arch Linux** σε USB . Έγινε από την αρχή η εγκατάσταση των απαραίτητων εργαλείων για την σωστή λειτουργία του Arch Linux με desktop και όλα τα παρελκόμενα . Έπειτα στον Τerminal του Arch Linux εκτελέσθηκαν κάποιες από τις εντολές **WarmUp** .
