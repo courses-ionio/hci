@@ -93,4 +93,9 @@ https://asciinema.org/a/y5oYpdNgmtHFD9UfrMSN2qUn8
 
 # Κατασκευή Του Βιβλίου Α
 
-Έκανα fork το repository `kallipos` και με τις κατάλληλες εντολές δημιούργησα submodules για τα `bibliography`, `extras`, `figures`, `images` και `text`.
+Έκανα fork το repository `kallipos` και με τις κατάλληλες εντολές δημιούργησα submodules για τα `bibliography`, `extras`, `figures`, `images` και `text`. Έγινε προσπάθεια deploy του pdf αλλά χωρίς επιτυχία. Ακολουθεί μια πρώτη συνεισφορά μου:
+
+[Contribution](https://github.com/mariakourti/kallipos/tree/master/contribution)
+[Φίλτρο](https://github.com/mariakourti/kallipos/blob/master/contribution.lua)
+
+
