@@ -12,7 +12,7 @@
 | 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3)| [Συζήτηση-Παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1432) | |
 | 4 | [Άσκηση γραμμής εντολών (arch linux install on HW)](#παραδοτέο-4) | [Συζήτηση-Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1519) | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | [Συζήτηση-Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1433) | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
@@ -66,6 +66,15 @@
 | Διαφάνειες | [Netlify](https://p2018118-pibook.netlify.app/slides/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_slides/programming-evolution.md) |
 | Χρονολόγιο | [Netlify](https://p2018118-pibook.netlify.app/timeline/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_timeline/programming-evolution.md) |
 
+# Παραδοτέο 6
+
+Για την κατασκευή του βιβλίου, ξεκίνησα με την μετατροπή του make-latex.sh αρχείου ώστε να μπορέσω να μετατρέψω το αρχείο σε PDF, διαλέγοντας font και κάνοντας μερικές αλλαγές για την ορθή λειτουργία του. Στην συνέχεια προχώρησα στην δημιουργία δικού μου αρχείου με lua το οποίο βασίζεται στο αρχείο figure.lua, όπου και επέλεξα να συνεισφέρω κάνοντας ένα κείμενα για την γλώσσα προγραμματισμού B, καθώς συσχετίζεται άμεσα με τις υπόλοιπες συνεισφορές μου σε άλλα παραδοτέα και είναι σχετικό με την θεματολογία του βιβλίου.
+
+| Deliverables |  Linkσ |
+| --- | --- |
+| PDF book | [book.pdf](https://github.com/Drexion/kallipos/blob/master/book/book.pdf)
+| Contribution repository | [b-language.md](https://github.com/Drexion/kallipos/blob/master/contribution/b-language.md)
+| Lua File | [contribution.lua](https://github.com/Drexion/kallipos/blob/master/contribution.lua)
 
 ### Σχετικά με την συνεργασία και ομαδικότητα, σας παραθέτω παρακάτω Links για απαντήσεις-διορθώσεις-βελτιώσεις-σχόλια.
 
