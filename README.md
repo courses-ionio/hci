@@ -19,7 +19,7 @@ Github link: https://github.com/Stergioulas
 
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α |[Κατασκευή του βιβλίου Α] | |
 
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 
@@ -63,3 +63,14 @@ https://github.com/team-132/site/blob/master/timeline/apple-watch.md
 https://github.com/team-132/site/tree/master/slides
 ### timeline :
 https://github.com/team-132/site/tree/master/timeline
+
+# Κατασκευή του βιβλίου Α :
+
+## filter :
+- https://github.com/Stergioulas/kallipos/blob/master/filter.lua 
+
+## contribution :
+- https://github.com/mibook/kallipos/compare/master...Stergioulas:kallipos:patch-1?short_path=e3c039b#diff-e3c039b423359aede3fd27969f3a130bd66f9ac4d536398f7526c38a756874d0
+
+
+
