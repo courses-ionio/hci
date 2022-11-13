@@ -35,7 +35,7 @@
 
 ![image](https://raw.githubusercontent.com/petrakhh/images/master/motorola-aura-thumb.jpg)
 
-[motorola](https://www.techpress.gr/wp-content/uploads/2008/10/motorola-aura_front_red.jpg)
+[motorola](https://raw.githubusercontent.com/petrakhh/images/master/motorola-aura.jpg)
 
 [Αρχείο gallery](https://github.com/petrakhh/_gallery/blob/2020114/motorola-aura_front_red.md)
 
