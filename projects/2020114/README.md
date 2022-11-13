@@ -39,7 +39,7 @@
 
 [Αρχείο gallery](https://github.com/petrakhh/_gallery/blob/2020114/motorola-aura_front_red.md)
 
-[Αρχείο images](https://github.com/petrakhh/images/blob/2020114/motorola-aura_front_red.jpeg)
+[Αρχείο images](https://github.com/petrakhh/images/blob/master/motorola-aura.jpg)
 
 ## Η πρώτη φορητή κονσόλα παιχνιδιών
 
