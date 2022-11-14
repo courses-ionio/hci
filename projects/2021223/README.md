@@ -53,6 +53,7 @@
 9) Τέλος,αφαίρεσα το USB Flashdrive και τα Arch Linux ήταν εγκαταστημένα στήν συσκεύη μου (laptop).
 
 ## Άσκηση Γραμμής Εντολών
+
 Αφού ολοκλήρωσα την εγκατάσταση των Arch Linux και χρησιμοποιόντας το asciinema στο Konsole, έβγαλα δύο βίντεο στα οποία δοκίμασα τις δύο εντολές που μας δώθηκαν (neofetch,journalctl -b):
 
 1 : [journalctl -b](https://asciinema.org/a/H4TPxhmgc95SQCMGHKA1rghp3)
@@ -61,4 +62,11 @@
 
 # Παραδοτέο 3ο
 
+## Συμμετοχικό περιεχόμενο Α1 
 
+Για αυτό το παραδοτέο έπρεπε να δημιουργήσουμε το νέο περιεχόμενο για την ιστοσελίδα του βιβλίου με την τεχνολογία jekyll και με τα submodules μέσω του Konsole στα οποία έβαλα δύο εικόνες και έγραψα λίγα λόγια για αυτές τις φωτογραφίες με σκοπό να ξεκινήσουμε την την κατασκεύη του βιβλίου.Οι εικόνες αυτές βρίσκονται στον κατάλογο /images και με ο σχολιασμός τους στον κατάλογο /gallery.
+
+| Περιγραφή | Link for images | Link for gallery|
+| --- | --- | --- |
+| IBM_PC_5150 | [IBM_PC_5150_image](https://github.com/inf2021223/images/blob/master/IBM_PC_5150(1).png) | [IBM_PC_5150_gallery](https://github.com/inf2021223/_gallery/blob/master/IMB_PC_5150.md) |
+| Windows 7 | [Win7_image](https://github.com/inf2021223/images/blob/master/Win7-gr.png) | [Win7_gallery](https://github.com/inf2021223/_gallery/blob/master/Win7-gr.md) |
