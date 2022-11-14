@@ -48,3 +48,13 @@
 1.[journalctl-b](https://asciinema.org/a/gJsGILhQytgp2T3QPSLLFjgzt)
 
 2.[neofetch](https://asciinema.org/a/1Nkljf2kUsFsEoPAWiwHnv1EZ)
+
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α1
+Ο στόχος του τρίτου παραδοτέου ήταν η αρχή της δημιουργίας της ιστοσελίδας του βιβλίου και η εισαγωγή δύο φωτογραφιών μέσω των submodules και jekyll στο βιβλίο.
+
+| Περιγραφή | Image link | Gallery link |
+| --- | --- | --- |
+| Keyboard | [keyboard image](https://github.com/inf2021062/images/blob/master/keyboard.jpg) | [keyboard gallery](https://github.com/inf2021062/_gallery/blob/inf2021062/keyboard.md) |
+| mouse | [mouse image](https://github.com/inf2021062/images/blob/master/mouse.jpg) | [mouse gallery](https://github.com/inf2021062/_gallery/blob/inf2021062/mouse.md)
+
+
