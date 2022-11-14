@@ -88,6 +88,15 @@
 
 ![xeroxcommentcroped](https://user-images.githubusercontent.com/77148351/201109271-0b9c4b2f-1747-4cf3-884f-2c53bc14cf58.png)
 
+# Παραδοτέο 7
+Στο παραδοτέο 7 δημιουργήθηκε ένα case study βασισμένο στις προσθήκες που είχα πργματοποιήσει στα προηγούμενα παραδοτέα. Το case study αυτό αφορά τα γραφικά περιβάλλοντα και την εξέλιξή τους ανα τα χρόνια.
+![Firefox_Screenshot_2022-11-14T09-13-00 305Z](https://user-images.githubusercontent.com/77148351/201621680-c82f721d-3919-4ce0-8542-a4e8503c447c.png)
+
+[Netlify](https://p19lith-pibook.netlify.app/case-study/gui/)
 
 
-
+### Πηγές:
+1. Windows: https://winworldpc.com/product/windows-10/101
+2. HP NewWave: http://toastytech.com/guis/nw.html
+3. IOS: https://www.macrumors.com/how-to/wirelessly-sync-iphone-mac/
+4. Xerox Alto: https://www.computerhistory.org/revolution/input-output/14/347
