@@ -14,7 +14,7 @@
 | 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | |Αποτυχία εγκατάστασης Arch Linux |
 | 3 | Συμμετοχικό περιεχόμενο A1 | [φωτογραφια1](https://github.com/petrakhh/images/blob/master/motorola-aura.jpg),[φωτογραφία2](https://github.com/petrakhh/images/blob/master/psp-3000-Silver.jpeg)|Επιτυχής δημοσίευση εικόνων με τις κατάλληλες περιγραφές(gallery, images), αποτυχία ανεβάσματος στο netlify|
 | 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 | [Slide1](https://github.com/petrakhh/site/blob/master/_slides/videogames.md),[Slide2](https://github.com/petrakhh/site/blob/master/_slides/models.md),[Timeline1](https://github.com/petrakhh/site/blob/master/_timeline/videogames.md),[Timeline2](https://github.com/petrakhh/site/blob/master/_timeline/mobile.md)|Επιτυχής εύρεση διαφανειών και χρονολογίων |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
