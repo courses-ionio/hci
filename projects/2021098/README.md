@@ -217,6 +217,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 [![asciicast](https://asciinema.org/a/537537.svg)](https://asciinema.org/a/537537)
 
+
 ## Bήμα #2: <ins>Downloading the Suitable Software via Terminal</ins>
 
 Σύμφωνα με τις οδηγίες του μαθήματος [guides](https://github.com/courses-ionio/hci/discussions/1832) προκειμένου να εισάγουμε το contribution στο βιβλίο πρέπει να εγκαταστήσουμε στο σύστημά μας διάφορα πακέτα όπως: `[pandoc](https://pandoc.org/)` και `[LaTex](https://www.latex-project.org/)`. Ειδικά, το LaTex αξιοποιείται από τον χρήστη προκειμένουν να κάνει merge όλα τα (.tex) αρχεία σε ένα και στην συνέχεια να γίνει export από (.tex) σε (.pdf) αρχείο.
