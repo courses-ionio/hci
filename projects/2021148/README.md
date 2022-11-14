@@ -56,6 +56,7 @@
 ## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
 
 Αφότου ολοκλήρωσα την εγκατάσταση των Arch Linux χρησιμοποίησα στο Konsole το asciinema για εγγραφή οθόνης με σκοπό να δοκιμάσω τις 2 εντολές που ζητούσατε (journalctl -b, neofetch) ούτως ώστε να ολοκληρώσω το 2ο Παραδοτέο.
+
 1.journalctl -b: https://asciinema.org/a/tAk2j7beIFbww0H96T5X4mhHk
 2. neofetch: https://asciinema.org/a/BwOhKE4syYoCrphTwAvKv8Wvh
 
