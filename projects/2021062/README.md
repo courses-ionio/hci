@@ -57,4 +57,9 @@
 | Keyboard | [keyboard image](https://github.com/inf2021062/images/blob/master/keyboard.jpg) | [keyboard gallery](https://github.com/inf2021062/_gallery/blob/inf2021062/keyboard.md) |
 | mouse | [mouse image](https://github.com/inf2021062/images/blob/master/mouse.jpg) | [mouse gallery](https://github.com/inf2021062/_gallery/blob/inf2021062/mouse.md)
 
+## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ(warm-up)
+Ο σκοπός του τέταρτου παραδοτέου ήταν η επιλογή από το warm-up category η λήψη και η αναπαραγωγή ενός τραγουδιού μέσω του command line.
+
+Το link από την αναπαραγωγή του τραγουδιού από το asciinema είναι το εξής: https://asciinema.org/a/krpHvGSTOjRcey8om2EKqbVKa
+
 
