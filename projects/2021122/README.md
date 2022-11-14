@@ -49,3 +49,13 @@
 8:Εφόσον,έγινε η εγκατάσταση όλων των απαραίτητων αρχείων προχώρησα στην δημιουργία χρηστών και στην συνέχεια προχώρησα στην εφαρμογή ενός grub menu το οποίο όταν ανοίγει ο υπολογίστης θα έχει την επιλογή είτε των Arch Linux είτε των Windows.
 
 9:Τέλος είμαστε πλέον έτοιμοι να χρησιμοποιήσουμε τα Arch Linux.
+
+## Ασκήσεις στην γραμμή εντολών(journalctl -b,neofetch):
+ 
+ Μετά την εγκατάσταση του Arch Linux,χρησιμοποιήσα στο command line για εγγραφή οθόνης το (asciinema)όπου δοκίμασα τις 2 εξής εντολές του παραδοτέου για την εμφανιση σημαντικών πληροφοριών(bootlog,informations).
+
+1. [journalctl -b](https://asciinema.org/a/aQdGYmE3kEzofJirine9q5Dxt)
+
+2. [neofetch](https://asciinema.org/a/1vncGBcGC75mw1naweSyBJO5a)
+
+
