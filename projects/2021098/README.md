@@ -226,17 +226,20 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 [![asciicast](https://asciinema.org/a/535728.svg)](https://asciinema.org/a/535728)
 
-## Bήμα #3 : <ins>Cloning the Submodules from the Main Repository and Setting them. Part #1</ins>
+## Bήμα #3: <ins>Cloning the Submodules from the Main Repository and Setting them. Part #1</ins>
 
 Στο συγκεκριμένο βήμα, όταν έκανα clone το αποθετήριο τοπικά στον υπολογιστή μου, τα submodules δεν είχα ρυθμίστεί με αποτέλεσμα, να μην μπορώ να τρέξω την εντολή: `./make-latex.sh` το οποίο εκκινεί το script για την δημιουργία των (.tex) αρχείων και την ενοποίησή τους σε (.pdf) αρχείο. Προκειμένου να επιλυθεί το πρόβλημα, έπρεπε να τρέξω μέσω τερματικού τις εντολές: `git submodule update --remote --init` & `git submodule update --remote --merge` οι οποίες έκαναν clone locally τα αρχεία στους ειδικούς φακέλους <ins> από το αρχικό αποθετήριο </ins>
 
 [![asciicast](https://asciinema.org/a/537539.svg)](https://asciinema.org/a/537539)
 
-## Bήμα #4 : <ins>Cloning the Submodules from the Main Repository and Setting them. Part #2</ins>
+## Bήμα #4: <ins>Cloning the Submodules from the Main Repository and Setting them. Part #2</ins>
 
 [![asciicast](https://asciinema.org/a/537541.svg)](https://asciinema.org/a/537541)
 
-## Βήμα #5 : <ins> Creating the Contribution Folder and the Contribution (.md) File</ins>
+## Βήμα #5: <ins> Creating the Contribution Folder and the Contribution (.md) File</ins>
 
-Στο παραπάνω βήμα, εφόσον διάβασα το βιβλίο σε (.pdf) από την [βασική ιστοσελίδα του μαθήματος](https://pibook.epidro.me/), ήθελα να συνδράμω για την εφαρμογή `Skype` η οποία αναγράφεται στο βιβλίο στην ενότητα 8 `Μοντέλα` και στην υποενότητα 8.3 `Μέσο Επικοινωνίας`. Συγκεκριμένα, δημιούργησα έναν φάκελο με κωδική ονομασία `contribution` στο αποθετήριο locally και μέσα στον ίδιο δημιούργησα ένα αρχείο `skypech08.md` το οποίο περιέχει τις πληροφορίες που θέλω να προσθέσω στο ήδη υπάρχον αρχε
+Στο παραπάνω βήμα, εφόσον διάβασα το βιβλίο σε (.pdf) από την [βασική ιστοσελίδα του μαθήματος](https://pibook.epidro.me/), ήθελα να συνδράμω για την εφαρμογή `Skype` η οποία αναγράφεται στο βιβλίο στην ενότητα 8 `Μοντέλα` και στην υποενότητα 8.3 `Μέσο Επικοινωνίας`. Συγκεκριμένα, δημιούργησα έναν φάκελο με κωδική ονομασία `contribution` στο αποθετήριο locally και μέσα στον ίδιο δημιούργησα ένα αρχείο `skypech08.md` το οποίο περιέχει τις πληροφορίες που θέλω να προσθέσω στο ήδη υπάρχον αρχείο.
 
+![Screenshot_2022-11-14_16-41-36](https://user-images.githubusercontent.com/33377581/201662959-71af04a4-c55f-434e-9d53-48360dcfaf1d.jpg)
+
+## Βήμα #6: <ins> Creating the Contribution Filter (contribution.lua) & Editing the Make File (make-latex.sh)</ins>
