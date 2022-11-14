@@ -230,7 +230,7 @@
 * link του make-latex.sh: [make-latex](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
 
 ## Siri
-Η siri είναι ένας voice-assisant-manager τεχνητής νοημοσύνης που χρησιμοποιεί voice commands για να επικοινωνήσει με τον χρήστη. Η διάδραση που μαζί του είναι άμεση και αποτελεσματική εξαιτίας του αλγορίθμου machine-learning που διαθέτει ώστε να βελτιώνεται με τις ανάγκες του χρήστη
+Η siri είναι ένας voice-assisant-manager τεχνητής νοημοσύνης που χρησιμοποιεί voice commands για να επικοινωνήσει με τον χρήστη. Η διάδραση που μαζί του είναι άμεση και αποτελεσματική εξαιτίας του αλγορίθμου machine-learning που διαθέτει ώστε να βελτιώνεται σύμφωνα με τις ανάγκες του χρήστη.
 
 ![siri](https://user-images.githubusercontent.com/115211756/201661817-5fd3c1a2-360a-4743-82ee-b970e5339380.png) 
 
@@ -238,7 +238,8 @@
 ![mywork](https://user-images.githubusercontent.com/115211756/201662435-76f4c7c2-9761-45c3-81f8-d5bf15a45eb8.png)
 
 ## Το κεφάλαιο του κειμένου που ασχολήθηκα
- ![Maintheme](https://user-images.githubusercontent.com/115211756/201662142-2a80f596-5119-49a5-ae0b-a4f4fe18feed.png)
+ ![Maintheme](https://user-images.githubusercontent.com/115211756/201673129-e19eefb3-19cd-44d1-9bb8-33a284f21a46.png)
+
 
   
   
