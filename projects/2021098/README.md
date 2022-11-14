@@ -235,3 +235,6 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 ## Bήμα #4 : <ins>Cloning the Submodules from the Main Repository and Setting them. Part #2</ins>
 
 [![asciicast](https://asciinema.org/a/537541.svg)](https://asciinema.org/a/537541)
+
+## Βήμα #5 : <ins> Creating the Contribution Folder and the Contribution (.md) File</ins>
+
