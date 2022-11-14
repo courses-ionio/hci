@@ -67,5 +67,9 @@
 
 Ζητούμενο του 3ου παραδοτέου ήταν η έναρξη της κατασκευής του βιβλίου ξεκινώντας από το Α1 Παραδοτέο. Επομένως, μέσω της τεχνολογίας jekyll και χρησιμοποιώντας τα submodules μέσα στο Konsole προώθησα 2 φωτογραφίες(iTunes, windows7) και 2 md files μέσα στα οποία έγραψα λίγα λόγια για τις φωτογραφίες.
 
+Τις φωτογραφίες που χρησιμοποίησα αλλά και τις πληροφορίες που έγραψα στα md files τα βρήκα όλα από την Wikipedia όπως αναφέρω και μέσα στα md files.
+Πηγές:   iTunes: https://el.wikipedia.org/wiki/ITunes
+         windows7: https://el.wikipedia.org/wiki/Windows_7 
+
 1. [iTunes](https://github.com/inf2021148/_gallery/blob/master/itunes.md) | [image](https://github.com/inf2021148/images/blob/master/itunes.jpg) | [image-thumb](https://github.com/inf2021148/images/blob/master/itunes-thumb.jpg)
 2. [windows 7](https://github.com/inf2021148/_gallery/blob/master/windows7.md) | [image](https://github.com/inf2021148/images/blob/master/windows7.jpg) | [image-thumb](https://github.com/inf2021148/images/blob/master/windows7-thumb.jpg)
