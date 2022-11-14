@@ -63,3 +63,9 @@
 
 # ΠΑΡΑΔΟΤΕΟ 3
 
+### Συμμετοχικό περιεχόμενο Α1
+
+Ζητούμενο του 3ου παραδοτέου ήταν η έναρξη της κατασκευής του βιβλίου ξεκινώντας από το Α1 Παραδοτέο. Επομένως, μέσω της τεχνολογίας jekyll και χρησιμοποιώντας τα submodules μέσα στο Konsole προώθησα 2 φωτογραφίες(iTunes, windows7) και 2 md files μέσα στα οποία έγραψα λίγα λόγια για τις φωτογραφίες.
+
+1. [iTunes](https://github.com/inf2021148/images/blob/master/itunes.jpg) | [md file](https://github.com/inf2021148/_gallery/blob/master/itunes.md)
+2. [windows 7](https://github.com/inf2021148/images/blob/master/windows7.jpg) | [md file](https://github.com/inf2021148/_gallery/blob/master/windows7.md)
