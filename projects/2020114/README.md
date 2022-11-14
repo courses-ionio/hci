@@ -50,3 +50,19 @@
 [Αρχείο gallery](https://github.com/petrakhh/_gallery/blob/2020114/PSP-3000-Silver.md)
 
 [Αρχείο images](https://github.com/petrakhh/images/blob/2020114/PSP-3000-Silver.jpeg)
+
+## Παραδοτέο 5 - Συμμετοχικό περιεχόμενο Α2
+
+-Slides
+
+[psp-3000-Silver](https://github.com/petrakhh/site/blob/master/_slides/videogames.md)
+
+[motorola-aura](https://github.com/petrakhh/site/blob/master/_slides/models.md)
+
+-Timeline
+
+[psp-3000-Silver](https://github.com/petrakhh/site/blob/master/_timeline/videogames.md)
+
+[motorola-aura](https://github.com/petrakhh/site/blob/master/_timeline/mobile.md)
+
+[pull request](https://github.com/XorisOnoma/site/pull/5)
