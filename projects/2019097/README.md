@@ -9,7 +9,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> [Σχολιασμός Εισαγωγής](https://github.com/courses-ionio/help/discussions/826) | | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
+| 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/kselionis/hci/edit/P2019097/projects/2019097/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2%CE%BF---%CE%B1%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
@@ -73,7 +73,27 @@
 | check the weather | fetch the weather forecast for your home city and one more city that you want to travel to | wttr |
 
 Ύστερα από αρκετή μελέτη και αναζήτηση στο διαδίκτυο πραγματοποίησα την εγκατάσταση και έτρεξα την εντολή.
+
 [![asciicast](https://asciinema.org/a/537609.svg)](https://asciinema.org/a/537609)
+
+## Παραδοτέο 5ο - _Συμμετοχικό περιεχόμενο Α2_
+
+Σκοπός της 5ης εβδομάδας, αφού πλεόν έχουμε αποκτήσει μια εμπειρία πλέον με τα submodules ,έπρεπε να προσθέσουμε από ένα σετ διαφανειών στον κατάλογο /timelines και στον κατάλογο /slides.Το περιεχόμενο που επέλεξα ήταν τα Linux και τα Operating Systems, κάτι που ήταν σχετικό με το συμμετοχικό περιεχόμενο Α1.
+
+| Περιγραφή | Slides Link | Timeline Link |
+| --- | --- | --- |
+| Linux | [Operating_System](https://github.com/kselionis/site/blob/master/_slides/operating_system.md) | [Linux](https://github.com/kselionis/site/blob/master/_timeline/linux.md) |
+
+## Παραδοτέο 6ο - _Κατασκευή Βιβλίου Α_
+
+Σκοπός του 6ου παραδοτέου ήταν να ξεκινήσουμε την κατασκευή του βιβλίου και να προσθέσουμε ένα δικό μας σχόλιο σε ένα από τα κεφάλαια του αρχικού βιβλίου 
+που μας κίνησε το ενδιαφέρον και θέλαμε να ασχοληθούμε περαιτέρω.Αν και η εβδομάδα αυτή μου φάνηκε αρκετά δύσκολη διότι έπρεπε να ασχοληθώ περισσότερο με
+καινούργια εργαλεία καθώς έπρεπε να δημιουργήσω φίλτρα και latex αρχεία.Μετά από αρκετή προσπάθεια δημιούργησα τα παρακάτω:
+
+| Κατασκευή Βιβλίου Α | Αρχεία |
+| --- | --- |
+| Contribution md | [contribution2019097.md](https://github.com/kselionis/kallipos/blob/master/contribution2019097.md) |
+| Contribution lua | [contribution2019097.lua](https://github.com/kselionis/kallipos/blob/master/contribution2019097.lua) |
 
 
 
