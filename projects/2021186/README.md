@@ -13,7 +13,7 @@ Asciinema profile: [inf2021186](https://asciinema.org/~inf2021186)
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1266), [Organization Base Site](https://terminal-killers-site.netlify.app/) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1326) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1508), [PR#1](https://github.com/Terminal-Killers/_gallery/pull/18), [PR#2](https://github.com/Terminal-Killers/images/pull/10), [Work#1](https://terminal-killers-site.netlify.app//timeline/programming-languages/), [Work#2](https://terminal-killers-site.netlify.app//slides/vmware/), [Work#3](https://terminal-killers-site.netlify.app//slides/programming/), [Work#4](https://terminal-killers-site.netlify.app//timeline/simulations/) |Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1593) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
