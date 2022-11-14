@@ -96,3 +96,8 @@ https://el.wikipedia.org/wiki/Windows_7
 1. slides(διαφάνεια): [Εφαρμογές της Apple](https://github.com/inf2021148/site/blob/master/_slides/apple_applications.md)
 
 2. timeline(χρονολόγιο): [Το διαδικτυακό κατάστημα της Apple](https://github.com/inf2021148/site/blob/master/_timeline/apple_store.md) 
+
+# ΠΑΡΑΔΟΤΕΟ 6
+
+## ΚΑΤΑΣΚΕΥΗ ΤΟΥ ΒΙΒΛΙΟΥ Α
+
