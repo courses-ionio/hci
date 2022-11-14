@@ -209,4 +209,4 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 # Παραδοτέο 6ο: Κατασκευάζοντας το βιβλίο.
 
-Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε και αντίστοιχα να κατασκευάσουμε το [βιβλίο](https://github.com/mibook/kallipos) σε ηλεκτρονική μορφή `(.pdf)` αλλά και σε μορφή `(.pub)`. Το παραδοτέο αυτό, ήταν ατομικό και συγκεκριμένα έπρεπε να δημιουργήσουμε το δικό μας φίλτρο `[(.lua)](https://github.com/Greekforce1821/kallipos/blob/master/contribution.lua)`, το δικό μας `[contribution](https://github.com/Greekforce1821/kallipos/blob/master/contribution/skypech08.md)`
+Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε και αντίστοιχα να κατασκευάσουμε το [βιβλίο](https://github.com/mibook/kallipos) σε ηλεκτρονική μορφή `(.pdf)` αλλά και σε μορφή `(.pub)`. Το παραδοτέο αυτό, ήταν ατομικό και συγκεκριμένα έπρεπε να δημιουργήσουμε το δικό μας `[φίλτρο]((https://github.com/Greekforce1821/kallipos/blob/master/contribution.lua)` (.lua), το δικό μας `[contribution](https://github.com/Greekforce1821/kallipos/blob/master/contribution/skypech08.md)`
