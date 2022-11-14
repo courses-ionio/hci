@@ -217,7 +217,6 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 [![asciicast](https://asciinema.org/a/537537.svg)](https://asciinema.org/a/537537)
 
-
 ## Bήμα #2: <ins>Downloading the Suitable Software via Terminal</ins>
 
 Σύμφωνα με τις οδηγίες του μαθήματος [guides](https://github.com/courses-ionio/hci/discussions/1832) προκειμένου να εισάγουμε το contribution στο βιβλίο πρέπει να εγκαταστήσουμε στο σύστημά μας διάφορα πακέτα όπως: `[pandoc](https://pandoc.org/)` και `[LaTex](https://www.latex-project.org/)`. Ειδικά, το LaTex αξιοποιείται από τον χρήστη προκειμένουν να κάνει merge όλα τα (.tex) αρχεία σε ένα και στην συνέχεια να γίνει export από (.tex) σε (.pdf) αρχείο.
@@ -226,4 +225,4 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 ## Bήμα #3: <ins>Cloning the Submodules from the Main Repository and Setting them.</ins>
 
-Στο συγκεκριμένο βήμα, όταν έκανα clone το αποθετήριο τοπικά στον υπολογιστή μου, τα submodules δεν είχα ρυθμίστεί με αποτέλεσμα, να μην μπορώ να τρέξω την εντολή: `./make-latex.sh` το οποίο εκκινεί το script για την δημιουργία των (.tex) αρχείων και την ενοποίησή τους σε (.pdf) αρχείο. Προκειμένου να επιλυθεί το πρόβλημα, έπρεπε να τρέξω μέσω τερματικού τις εντολές: `git submodule update --remore --init` & `git submodule update --remote --merge` οι οποίες έκανα clone locally τα αρχεία στους ειδικούς φακέλους <ins> από το αρχικό αποθετήριο </ins>
+Στο συγκεκριμένο βήμα, όταν έκανα clone το αποθετήριο τοπικά στον υπολογιστή μου, τα submodules δεν είχα ρυθμίστεί με αποτέλεσμα, να μην μπορώ να τρέξω την εντολή: `./make-latex.sh` το οποίο εκκινεί το script για την δημιουργία των (.tex) αρχείων και την ενοποίησή τους σε (.pdf) αρχείο. Προκειμένου να επιλυθεί το πρόβλημα, έπρεπε να τρέξω μέσω τερματικού τις εντολές: `git submodule update --remote --init` & `git submodule update --remote --merge` οι οποίες έκανα clone locally τα αρχεία στους ειδικούς φακέλους <ins> από το αρχικό αποθετήριο </ins>
