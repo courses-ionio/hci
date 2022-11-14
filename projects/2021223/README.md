@@ -51,3 +51,13 @@
 8) Έπειτα με την εγκατάσταση των αρχείων προχώρησα στην δημιουργία χρήστη και εφάρμοσα ένα grub menu το οποίο δίνει την επιλογή στον χρήστη αν θα επιλέξει τα Arch Linux ή τα Windows.
 
 9) Τέλος,αφαίρεσα το USB Flashdrive και τα Arch Linux ήταν εγκαταστημένα στήν συσκεύη μου (laptop).
+
+## Άσκηση Γραμμής Εντολών
+Αφού ολοκλήρωσα την εγκατάσταση των Arch Linux και χρησιμοποιόντας το asciinema στο Konsole, έβγαλα δύο βίντεο στα οποία δοκίμασα τις δύο εντολές που μας δώθηκαν (neofetch,journalctl -b):
+
+1 : [journalctl -b](https://asciinema.org/a/H4TPxhmgc95SQCMGHKA1rghp3)
+
+2 : [neofetch](https://asciinema.org/a/3mYprMpQnrbVCjQ4JbKJdBgEG)
+
+# Παραδοτέο 3ο
+
