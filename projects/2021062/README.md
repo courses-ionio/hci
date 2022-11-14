@@ -44,5 +44,7 @@
 
 ## ΑΣΚΗΣΕΙΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ(journalctl-b,neofetch)
 Αφού έκανα την εγκατάσταση των Arch Linux όπως είπα κανονίκα πλέον και όχι σε virtual box έπρεπε να εκτελέσουμε τις εντολές journalctl-b,neofetch στο Konsole.
+
 1.[journalctl-b](https://asciinema.org/a/gJsGILhQytgp2T3QPSLLFjgzt)
+
 2.[neofetch](https://asciinema.org/a/1Nkljf2kUsFsEoPAWiwHnv1EZ)
