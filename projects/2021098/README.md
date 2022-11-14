@@ -209,4 +209,10 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 # Παραδοτέο 6ο: Κατασκευάζοντας το βιβλίο.
 
-Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε και αντίστοιχα να κατασκευάσουμε το [βιβλίο](https://github.com/mibook/kallipos) σε ηλεκτρονική μορφή `(.pdf)` αλλά και σε μορφή `(.pub)`. Το παραδοτέο αυτό, ήταν <ins>ατομικό</ins> και συγκεκριμένα έπρεπε να δημιουργήσουμε το δικό μας [φίλτρο](https://github.com/Greekforce1821/kallipos/blob/master/contribution.lua) (.lua), το δικό μας [contribution](https://github.com/Greekforce1821/kallipos/blob/master/contribution/skypech08.md), το [βιβλίο](https://github.com/Greekforce1821/kallipos/blob/master/book/book.pdf) το οποίο περιείχε το contribution μας και τέλος το βιβλίο σε [μορφή](https://github.com/Greekforce1821/kallipos/blob/master/book/book.tex) (.tex)
+Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε και αντίστοιχα να κατασκευάσουμε το [βιβλίο](https://github.com/mibook/kallipos) σε ηλεκτρονική μορφή `(.pdf)` αλλά και σε μορφή `(.pub)`. Το παραδοτέο αυτό, ήταν <ins>ατομικό</ins> και συγκεκριμένα έπρεπε να δημιουργήσουμε το δικό μας [φίλτρο](https://github.com/Greekforce1821/kallipos/blob/master/contribution.lua) (.lua), το δικό μας [contribution](https://github.com/Greekforce1821/kallipos/blob/master/contribution/skypech08.md), το [βιβλίο](https://github.com/Greekforce1821/kallipos/blob/master/book/book.pdf) το οποίο περιείχε το contribution μας και τέλος το βιβλίο σε [μορφή](https://github.com/Greekforce1821/kallipos/blob/master/book/book.tex) (.tex). Περαιτέρω πληροφορίες στην επόμενη παράγραφο.
+
+## Βήμα #1: <ins>Forking and Cloning the repository</ins>
+
+  Στο συγκεκριμένο βήμα, χρειάστηκε να κάνω fork το αρχικό αποθετήριο: [mibook/kallipos](https://github.com/mibook     /kallipos) στο προφίλ μου: [Greekforce1821/kallipos](https://github.com/Greekforce1821/kallipos) και στην συνέχεια   μέσω τερματικού να κάνω clone locally το αποθετήριο από το προφίλ μου χρησιμοποιώντας την εντολή: `git clone         https://github.com/Greekforce1821/kallipos'.
+
+## Βήμα #2: <ins>Downloading the Suitable Software via Terminal</ins>
