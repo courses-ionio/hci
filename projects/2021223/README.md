@@ -70,3 +70,21 @@
 | --- | --- | --- |
 | IBM_PC_5150 | [IBM_PC_5150_image](https://github.com/inf2021223/images/blob/master/IBM_PC_5150(1).png) | [IBM_PC_5150_gallery](https://github.com/inf2021223/_gallery/blob/master/IMB_PC_5150.md) |
 | Windows 7 | [Win7_image](https://github.com/inf2021223/images/blob/master/Win7-gr.png) | [Win7_gallery](https://github.com/inf2021223/_gallery/blob/master/Win7-gr.md) |
+
+## Πηγές
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjv-oi09637AhWfnf0HHcZNA3UQFnoECCkQAQ&url=https%3A%2F%2Fel.wikipedia.org%2Fwiki%2FIBM_PC&usg=AOvVaw1OtJqE95HC3CPw6UbOJsvu 
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjjoLeR-K37AhU4_rsIHYTvDKIQFnoECCMQAQ&url=https%3A%2F%2Fel.wikipedia.org%2Fwiki%2FWindows_7&usg=AOvVaw1l7drr5OeBKhRAI6zfwwOn
+
+# Παραδοτέο 4ο
+
+## Άσκηση Γραμμής Εντολών (Warm up) 
+
+Το θέμα που επέλεξα για το 4ο παραδοτέο ήταν να κατεβάσω ένα τραγούδι από το youtube μέσω του konsole.Έπειτα, μέσω του Κonsole το ίδιο τραγούδι έπρεπε να το άκουσω και με την βοήθεια του asciinema βρίσκεται στο παρακάτω [link](https://asciinema.org/a/aq72OPKzMwe2a4GrBApzRhyqI)
+
+# Παραδοτέο 5ο 
+
+## Συμμετοχικό περιεχόμενο Α2
+
+
