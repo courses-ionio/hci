@@ -206,7 +206,7 @@
 
 ~T)[Η εξέλιξη των 3d γραφικών](https://axileaszervos.netlify.app/timeline/3dgraphics/) - timeline~
 
-   # UPDATE
+   # `UPDATE`
 Μετα την αλλαγή εικόνων στο 3ο παραδοτέο έχουν αλλάξει τα slides και οι διαφάνειες
 
 ---
