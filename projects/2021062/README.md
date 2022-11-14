@@ -62,4 +62,11 @@
 
 Το link από την αναπαραγωγή του τραγουδιού από το asciinema είναι το εξής: https://asciinema.org/a/krpHvGSTOjRcey8om2EKqbVKa
 
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α2
+Στο πέμπτο παραδοτέο μας ζητήθηκε η δημιουργία των slides και timelines στο αποθετήριο της ιστοσελίδας του βιβλίου.
+
+Το link για την δημιουργία των slides: https://github.com/inf2021062/site/blob/master/_slides/input-device.md
+
+Το link για την δημιουργια των timelines: https://github.com/inf2021062/site/blob/master/_timeline/scanner.md
+
 
