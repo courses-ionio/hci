@@ -211,6 +211,9 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε και αντίστοιχα να κατασκευάσουμε το [βιβλίο](https://github.com/mibook/kallipos) σε ηλεκτρονική μορφή `(.pdf)` αλλά και σε μορφή `(.pub)`. Το παραδοτέο αυτό, ήταν <ins>ατομικό</ins> και συγκεκριμένα έπρεπε να δημιουργήσουμε το δικό μας [φίλτρο](https://github.com/Greekforce1821/kallipos/blob/master/contribution.lua) (.lua), το δικό μας [contribution](https://github.com/Greekforce1821/kallipos/blob/master/contribution/skypech08.md), το [βιβλίο](https://github.com/Greekforce1821/kallipos/blob/master/book/book.pdf) το οποίο περιείχε το contribution μας και τέλος το βιβλίο σε [μορφή](https://github.com/Greekforce1821/kallipos/blob/master/book/book.tex) (.tex). Περαιτέρω πληροφορίες στην επόμενη παράγραφο.
 
+![Screenshot_2022-11-14_16-29-28](https://user-images.githubusercontent.com/33377581/201660370-073e8bd2-5e48-4034-9691-5771eccf2c44.jpg)
+
+
 ## Βήμα #1: <ins>Forking and Cloning the repository</ins>
 
 Στο συγκεκριμένο βήμα, χρειάστηκε να κάνω fork το αρχικό αποθετήριο: [mibook/kallipos](https://github.com/mibook/kallipos) στο προφίλ μου: [Greekforce1821/kallipos](https://github.com/Greekforce1821/kallipos) και στην συνέχεια   μέσω τερματικού να κάνω clone locally το αποθετήριο από το προφίλ μου χρησιμοποιώντας την εντολή: `(git clone https://github.com/Greekforce1821/kallipos) ` .
