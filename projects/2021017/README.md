@@ -33,7 +33,9 @@
 [![asciicast](https://asciinema.org/a/533418.svg)](https://asciinema.org/a/533418)<br>
 
 # Συμμετοχικό περιεχόμενο Α2 <br>
-Είχα κάποιες δυσκολίες στο να τρέξουν τα timeline, αλλά βρήκαν τη λύση άτομα από την ομάδα που είμαι και λειτούργησαν όλα κανονικά και στο timeline [breadbox](https://master--meek-chaja-52b6fe.netlify.app/timeline/os-apps/), [amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/timeline/computer/) και στο slides [breadbox](https://master--meek-chaja-52b6fe.netlify.app/slides/os/) , [amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/slides/technology/).<br>
+Είχα κάποιες δυσκολίες στο να τρέξουν τα timeline, αλλά βρήκαν τη λύση άτομα από την ομάδα που είμαι και λειτούργησαν όλα κανονικά και στο timeline [breadbox](https://master--meek-chaja-52b6fe.netlify.app/timeline/os-apps/), [amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/timeline/computer/) και στο slides [breadbox](https://master--meek-chaja-52b6fe.netlify.app/slides/os/) , [amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/slides/technology/).
+
+<br>
 
 # Κατασκευή του βιβλίου Α <br>
 Η κατασκευή του βιβλίου, η λειτουργία του και μετατροπή του σε pdf ήταν το ποιο δύσκολο σημείο μέχρι τώρα. Όλη την εβδομάδα ασχολούμουν με την επίλυση της εργασία και στο διαδίκτυο για τα τυχών προβλήματα που υπήρχαν και μαζί με τη βοήθεια της ομάδας μου αναρτήθηκε η εργασία.<br>
