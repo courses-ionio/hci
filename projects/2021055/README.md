@@ -9,11 +9,11 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |https://github.com/courses-ionio/help/discussions/883 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου.
-| 2 | Άσκηση γραμμής εντολών (linux install) |https://github.com/courses-ionio/help/discussions/1064 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου. |
-| 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1221 |Επιτυχής ολοκλήρωση των ζητουμένων |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) |https://github.com/courses-ionio/help/discussions/1334 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου. |
-| 5 | Συμμετοχικό περιεχόμενο A2 |https://github.com/courses-ionio/help/discussions/1479 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου. |
-| 6 | Κατασκευή του βιβλίου Α |https://github.com/courses-ionio/help/discussions/1585 |Επιτυχής ολοκλήρωση των ζητούμενων εντός χρονικού ορίου. |
+| 2 | Άσκηση γραμμής εντολών (linux install) |https://github.com/courses-ionio/help/discussions/1064 | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1221 | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |https://github.com/courses-ionio/help/discussions/1334 | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |https://github.com/courses-ionio/help/discussions/1479 | |
+| 6 | Κατασκευή του βιβλίου Α |https://github.com/courses-ionio/help/discussions/1585 | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
@@ -23,7 +23,7 @@
 
 # <h1 id = "introdution">1ο ΠΑΡΑΔΟΤΕΟ-ΕΙΣΑΓΩΓΗ</h1>
 
-Μέσα από το μάθημα "Μάθημα Επικοινωνία Ανθρώπου-Υπολογιστή", αρχικά, θα ήθελα να εξερευνήσω τον κόσμο του github και τις δυνατότητες του μιας και είναι κάτι νέο για έμενα. Ακόμη, θέλω μετά το πέρας του τρέχοντος εξαμήνου να έχω εξοικειωθεί με το github και τα εργαλεία που προσφέρει(repositories, pull request, fork, κ.α) επειδή έχω σαν στόχο να ανεβάσω τα μελόντικα projects μου με σκοπό το "χτίσιμο" του δικού μου πορτοφόλιου. Επιπλέον, στόχος μου αποτελεί να εξοικειώσω τον εαυτό μου στην ιδέα του να ανακαλύπτω μόνος μου αυτό που θέλω να μάθω μιας και την σήμερον ημέρα οι περισσότεροι(φυσικά και γω ανήκω μέσα σε αυτούς) άνθρωποι έχουν μάθει να λαμβάνουν την πληροφορία έτοιμη δίχως καμία προσπάθεια αναζήτησης από μέρους τους. Επιπλέον, θα ήθελα να εξοικειωθώ περισσότερο με την ιδέα της συνεργασίας και με τον τρόπο λειτουργιάς μιας ομάδας δεδομένου ότι σε πολλές εταιρίες οι προγραμματιστές δουλεύουν ως ομάδα και όχι μεμονωμένα. Τέλος, η συνεργασία μου με άλλα άτομα θα με βοηθήσει και ως άνθρωπο, κάνοντας με να κοινωνικοποιηθώ περισσότερο και βοηθώντας με να μάθω να αλληλεπιδρώ καλύτερα με τους ανθρώπους γύρω μου, κάτι το όποιο είναι πολύ σημαντικό και απαραίτητο στην κοινωνία που ζούμε.
+Μέσα από το μάθημα "Μάθημα Επικοινωνία Ανθρώπου-Υπολογιστή", αρχικά, θα ήθελα να εξερευνήσω τον κόσμο του github και τις δυνατότητες του μιας και είναι κάτι νέο για έμενα. Ακόμη, θέλω μετά το πέρας του τρέχοντος εξαμήνου να έχω εξοικειωθεί με το github και τα εργαλεία που προσφέρει(repositories, pull request, fork, κ.α) επειδή έχω σαν στόχο να ανεβάσω τα μελόντικα projects μου με σκοπό το "χτίσιμο" του δικού μου πορτοφόλιου. Επιπλέον, στόχος μου αποτελεί η δημιουργία μιας εφαρμογής για παιδιά η οποία θα έχει στόχο την εισαγωγή τους στον κόσμο της ρομποτικής και του προγραμματισμού. Ακόμη, θα ήθελα να εξοικειωθώ περισσότερο με την ιδέα της συνεργασίας και με τον τρόπο λειτουργιάς μιας ομάδας δεδομένου ότι σε πολλές εταιρίες οι προγραμματιστές δουλεύουν ως ομάδα και όχι μεμονωμένα. Τέλος, η συνεργασία μου με άλλα άτομα θα με βοηθήσει και ως άνθρωπο, κάνοντας με να κοινωνικοποιηθώ περισσότερο και βοηθώντας με να μάθω να αλληλεπιδρώ καλύτερα με τους ανθρώπους γύρω μου, κάτι το όποιο είναι πολύ σημαντικό και απαραίτητο στην κοινωνία που ζούμε.
  
  
 # 2ο ΠΑΡΑΔΟΤΕΟ-ΕΓΚΑΤΑΣΤΑΣΗ ΤΟΥ ARCH LINUX
@@ -103,23 +103,23 @@
  
   ### Apple_iMac:
  
-   ~Tο .md αρχείο του Apple_iMac στο αποθετήριο της ομάδας μου: [Apple_iMac.md](https://github.com/OMADA12/_gallery/blob/f76ae0fad27a969c7214d4a494e04413df50d93d/Apple_iMac.md)~
+   ~Tο .md αρχείο του Apple_iMac στο αποθετήριο της ομάδας μου: [Apple_iMac.md](https://github.com/OMADA12/_gallery/blob/b1540bb29a88866b4c0f01f5d64327712caa7be1/Imac.md)~
    
-   ~Η εικόνα του Apple_iMac στο site της ομάδας μου: [Apple_iMac](https://omada12.netlify.app/gallery/apple_imac/)~
+   ~Η εικόνα του Apple_iMac στο site της ομάδας μου: [Apple_iMac](https://omada12.netlify.app/gallery/imac/)~
    
-   ~Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Apple_iMac-photo](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/Apple_iMac.jpg)~
+   ~Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Apple_iMac-photo](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Imac.jpg)~
    
-   ~Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Apple-iMac-resized](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/Apple_iMac-Thumb.jpg)~
+   ~Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Apple-iMac-resized](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Imac-thumb.jpg)~
    
  ### VirtualBoy:
   
-   ~Tο .md αρχείο του VirtualBoy στο αποθετήριο της ομάδας μου: [VirtualBoy](https://github.com/Axileaszervos/_gallery/blob/3bf98973f5474118c485af43686aa3dde5f4d0ea/Virtualboy.md)~
+   ~Tο .md αρχείο του VirtualBoy στο αποθετήριο της ομάδας μου: [VirtualBoy](https://github.com/OMADA12/_gallery/blob/b1540bb29a88866b4c0f01f5d64327712caa7be1/Virtualboy.md)~
    
-   ~Η εικόνα του VirtualBoy στο site της ομάδας μου: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
+   ~Η εικόνα του VirtualBoy στο site της ομάδας μου: [VirtualBoy](https://omada12.netlify.app/gallery/virtualboy/)~
    
-   ~Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [VirtualBoy-photo](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/VirtualBoy.jpg)~
+   ~Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [VirtualBoy-photo](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Virtualboy.jpg)~
    
-   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [VirtualBoy-resized](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/VirtualBoy-Thumb.jpg)~
+   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [VirtualBoy-resized](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Virtualboy-thumb.jpg)~
    
 # `UPDATE`
   Έπειτα από παρατηρήσεις του καθηγητή μου, πήρα την απόφαση να αλλάξω τις φωτογραφίες μου και να προσθέσω την γλώσσα προγραμματισμού `Scratch` και τα ρομπότ-παιχνίδια
@@ -138,9 +138,6 @@
 Η γλώσσα προγραμματισμού `scratch` είναι μια kids-frendly γλώσσα η οποία είναι έτσι κατασκευασμένη ώστε να απευθύνεται κυρίως σε παιδιά με σκοπό την εισαγωγής τους στον κόσμο του προγραμματισμού.
 
 
-
-
-  
 ## Τα Links και οι φωτογραφίες από το προσωπικό μου αποθετήριο:
 
  Το προσωπικό μου [site](https://axileaszervos.netlify.app)
@@ -165,17 +162,17 @@
  
  ### Lego-wedo:
  
-   * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [legowedo.md]()
-   * Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo]()
-   * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Lego-wedo-photo]()
-   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Lego-wedo-resized]()
+   * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [legowedo.md](https://github.com/OMADA12/_gallery/blob/b1540bb29a88866b4c0f01f5d64327712caa7be1/Legowedo.md)
+   * Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo](https://omada12.netlify.app/gallery/legowedo/)
+   * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Lego-wedo-photo](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Legowedo.jpg)
+   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Lego-wedo-resized](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Legowedo-thumb.jpg)
    
  ### scratch:
   
-   * Tο .md αρχείο του scratch στο αποθετήριο της ομάδας μου: [scratch]()
-   * Η εικόνα του scratch στο site της ομάδας μου: [scratch]()
-   * Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [scratch-photo]()
-   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [scratch-resized]()
+   * Tο .md αρχείο του scratch στο αποθετήριο της ομάδας μου: [scratch](https://github.com/OMADA12/_gallery/blob/b1540bb29a88866b4c0f01f5d64327712caa7be1/Scratch.md)
+   * Η εικόνα του scratch στο site της ομάδας μου: [scratch](https://omada12.netlify.app/gallery/scratch/)
+   * Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [scratch-photo](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Scratch.jpg)
+   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [scratch-resized](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Scratch-thumb.jpg)
    
 
 
@@ -217,7 +214,7 @@
   * [Εκπαιδευτικές συσκευές και εφαρμογές για παιδία](https://axileaszervos.netlify.app/slides/machines_and_apps_for_childs/) - slide
   * [Η εξέλιξη των γλωσσών προγραμματισμού](https://axileaszervos.netlify.app/timeline/programlanguagetimeline/) - timeline
  
-* Slide και Timeline για την γλωσσα προγραμματισμού `Lego WeDo`
+* Slide και Timeline για την γλώσσα προγραμματισμού `Lego WeDo`
   * [Τρόποι ψυχαγωγίας για παιδιά](https://axileaszervos.netlify.app/slides/ways_of_entertainment_for_childs/) - slide
   * [Η εξέλιξη των εκπαιδευτικών ρομπότ για παιδιά](https://axileaszervos.netlify.app/timeline/theevolutionofeducationalrobotsforchildstimeline/) - timeline
   
@@ -225,23 +222,24 @@
  # 6ο ΠΑΡΑΔΟΤΕΟ-ΚΑΤΑΣΚΕΥΗ ΒΙΒΛΙΟΥ Α
 Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το κεφαλιά 3 και συγκεκριμένα την υποενότητα 3.3 "Συνθέτα στύλ διάδρασης". Εκεί πρόσθεσα σαν σύνθετο στιλ διάβασης την τεχνητή νοημοσύνη, θέμα το οποίο είναι ακόμη `υπό-βελτίωση`.
 
-* link του βιβλίου σε μορφή pdf : [book.pdf](https://github.com/Axileaszervos/kallipos/tree/master/my%20book)
-* link του αρχείου lua: [Interaction.lua](https://github.com/Axileaszervos/kallipos/blob/master/Interaction.lua)
-* link του περιεχομένου που πρόσθεσα: [Interaction.md](https://github.com/Axileaszervos/kallipos/blob/master/interaction/Interaction.md)
+* link του βιβλίου σε μορφή pdf: [book.pdf](https://github.com/Axileaszervos/kallipos/tree/master/my%20book\)
+* link του αρχείου siri-lua: [siri.lua](https://github.com/Axileaszervos/kallipos/blob/master/Siri.lua)
+* link του αρχείου Ai-lua: [Ai.lua](https://github.com/Axileaszervos/kallipos/blob/master/Ai.lua)
+* link του περιεχομένου που πρόσθεσα: [Ai.md](https://github.com/Axileaszervos/kallipos/blob/master/AI/Ai.md)
+* lin του περιεχομένου που πρόσθεσα: [Siri.md](https://github.com/Axileaszervos/kallipos/blob/master/siri/Siri.md)
 * link του make-latex.sh: [make-latex](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
 
 ## Siri
-Η siri είναι ένας voice-assisant-manager τεχνητής νοημοσύνης που χρησημοποιεί voice commands για να επικοινωνίσει με τον χρήστη. Η διάδραση που μαζί του ειναι άμεση και αποτελεσματική εξαιτιάς του αλγορίθμου machine-learning που διαθέτει ώστε να βελτιώνεται με τις ανάγκες του χρηστη.
+Η siri είναι ένας voice-assisant-manager τεχνητής νοημοσύνης που χρησιμοποιεί voice commands για να επικοινωνήσει με τον χρήστη. Η διάδραση που μαζί του είναι άμεση και αποτελεσματική εξαιτίας του αλγορίθμου machine-learning που διαθέτει ώστε να βελτιώνεται με τις ανάγκες του χρήστη
 
-### Links για τις φωτογραφίες που χρησιμοποίησα για το βιβλίο
-  * [`Siri`](https://github.com/Axileaszervos/kallipos/blob/master/my%20pictures/siri.png)
-### Φωτογραφία από το περιεχόμενο που πρόσθεσα σε pdf αρχείο
-  ![Interaction](https://user-images.githubusercontent.com/115211756/201636906-64bb44f9-04a1-4658-90a1-f72dc45f71d6.png)
+![siri](https://user-images.githubusercontent.com/115211756/201661817-5fd3c1a2-360a-4743-82ee-b970e5339380.png) 
 
+## Το κείμενο μου
+![mywork](https://user-images.githubusercontent.com/115211756/201662435-76f4c7c2-9761-45c3-81f8-d5bf15a45eb8.png)
 
+## Το κεφάλαιο του κειμένου που ασχολήθηκα
+ ![Maintheme](https://user-images.githubusercontent.com/115211756/201662142-2a80f596-5119-49a5-ae0b-a4f4fe18feed.png)
 
-
- 
   
   
   
