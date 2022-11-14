@@ -151,7 +151,7 @@
  
   ### Lego WeDo:
  
-   * Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/Axileaszervos/_gallery/blob/3bf98973f5474118c485af43686aa3dde5f4d0ea/Legowedo.md)
+   * Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου αποθετήριο: [Legowedo.md](https://github.com/Axileaszervos/_gallery/blob/3bf98973f5474118c485af43686aa3dde5f4d0ea/Legowedo.md)
    * Η εικόνα της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου site: [legowedo](https://axileaszervos.netlify.app/gallery/legowedo/)
    * Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [legowedo.jpg](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Legowedo.jpg)
    * Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [legowedo-thumb.jpg](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Legowedo-thumb.jpg)
@@ -220,7 +220,7 @@
   
   
  # 6ο ΠΑΡΑΔΟΤΕΟ-ΚΑΤΑΣΚΕΥΗ ΒΙΒΛΙΟΥ Α
-Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το κεφάλαιο 3 και συγκεκριμένα την υποενότητα 3.3 "Συνθέτα στύλ διάδρασης". Εκεί πρόσθεσα σαν σύνθετο στιλ διάβασης την τεχνητή νοημοσύνη, θέμα το οποίο είναι ακόμη `υπό-βελτίωση`.
+Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το κεφάλαιο 3 και συγκεκριμένα την υποενότητα 3.3 "Συνθέτα στύλ διάδρασης". Εκεί πρόσθεσα σαν σύνθετο στύλ διάδρασης την τεχνητή νοημοσύνη, θέμα το οποίο είναι ακόμη `υπό-βελτίωση`.
 
 * link του βιβλίου σε μορφή pdf: [book.pdf](https://github.com/Axileaszervos/kallipos/tree/master/my%20book\)
 * link του αρχείου siri-lua: [siri.lua](https://github.com/Axileaszervos/kallipos/blob/master/Siri.lua)
