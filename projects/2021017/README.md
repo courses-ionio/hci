@@ -26,14 +26,14 @@
 [![asciicast](https://asciinema.org/a/529037.svg)](https://asciinema.org/a/529037)<br>
 
 # Συμμετοχικό περιεχόμενο Α1 <br>
-Στην αναζήτηση φωτογραφιών και επαρκούς περιεχομένου για τη δημιουργία των αρχείων στο _gallery, έψαξα και βρήκα για τον υπολογιστή Amstrad-pcw16 και για το λειτουργικό σύστημα Breadbox Ensemble. Η διαδικασία προσαρτήσεων τους είχε τις δυσκολίες τις, αλλά με τα guide της ομάδας που είμαι όλα λειτούργησαν ομαλά.<br>
+Στην αναζήτηση φωτογραφιών και επαρκούς περιεχομένου για τη δημιουργία των αρχείων στο _gallery, έψαξα και βρήκα για τον υπολογιστή [Amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/gallery/amstrad-pcw16/) και για το λειτουργικό σύστημα [Breadbox Ensemble](https://master--meek-chaja-52b6fe.netlify.app/gallery/breadbox-ensemble/). Η διαδικασία προσαρτήσεων τους είχε τις δυσκολίες τις, αλλά με τα guide της ομάδας που είμαι όλα λειτούργησαν ομαλά.<br>
 
 # Warm up cli <br>
 Χρησιμοποιώντας το terminal κάθε μέρα η άσκηση warm up cli ήταν εύκολη και απλή, με έκανε να καταλάβω την πληθώρα εντολών που μπορεί να υπάρχουν, που εγώ δε γνωρίζω.
 [![asciicast](https://asciinema.org/a/533418.svg)](https://asciinema.org/a/533418)<br>
 
 # Συμμετοχικό περιεχόμενο Α2 <br>
-Είχα κάποιες δυσκολίες στο να τρέξουν τα timeline, αλλά βρήκαν τη λύση άτομα από την ομάδα που είμαι και λειτούργησαν όλα κανονικά.<br>
+Είχα κάποιες δυσκολίες στο να τρέξουν τα timeline, αλλά βρήκαν τη λύση άτομα από την ομάδα που είμαι και λειτούργησαν όλα κανονικά και στο timeline [breadbox](https://master--meek-chaja-52b6fe.netlify.app/timeline/os-apps/), [amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/timeline/computer/) και στο slides [breadbox](https://master--meek-chaja-52b6fe.netlify.app/slides/os/) , [amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/slides/technology/).<br>
 
 # Κατασκευή του βιβλίου Α <br>
 Η κατασκευή του βιβλίου, η λειτουργία του και μετατροπή του σε pdf ήταν το ποιο δύσκολο σημείο μέχρι τώρα. Όλη την εβδομάδα ασχολούμουν με την επίλυση της εργασία και στο διαδίκτυο για τα τυχών προβλήματα που υπήρχαν και μαζί με τη βοήθεια της ομάδας μου αναρτήθηκε η εργασία.<br>
