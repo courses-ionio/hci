@@ -213,7 +213,9 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 ## Βήμα #1: <ins>Forking and Cloning the repository</ins>
 
-Στο συγκεκριμένο βήμα, χρειάστηκε να κάνω fork το αρχικό αποθετήριο: [mibook/kallipos](https://github.com/mibook/kallipos) στο προφίλ μου: [Greekforce1821/kallipos](https://github.com/Greekforce1821/kallipos) και στην συνέχεια   μέσω τερματικού να κάνω clone locally το αποθετήριο από το προφίλ μου χρησιμοποιώντας την εντολή: `(git clone         https://github.com/Greekforce1821/kallipos) ` .
+Στο συγκεκριμένο βήμα, χρειάστηκε να κάνω fork το αρχικό αποθετήριο: [mibook/kallipos](https://github.com/mibook/kallipos) στο προφίλ μου: [Greekforce1821/kallipos](https://github.com/Greekforce1821/kallipos) και στην συνέχεια   μέσω τερματικού να κάνω clone locally το αποθετήριο από το προφίλ μου χρησιμοποιώντας την εντολή: `(git clone https://github.com/Greekforce1821/kallipos) ` .
+
+[![asciicast](https://asciinema.org/a/537537.svg)](https://asciinema.org/a/537537)
 
 ## Bήμα #2: <ins>Downloading the Suitable Software via Terminal</ins>
 
