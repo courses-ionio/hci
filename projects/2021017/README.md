@@ -34,6 +34,9 @@
 
 # Συμμετοχικό περιεχόμενο Α2 <br>
 Είχα κάποιες δυσκολίες στο να τρέξουν τα timeline, αλλά βρήκαν τη λύση άτομα από την ομάδα που είμαι και λειτούργησαν όλα κανονικά και στο timeline [breadbox](https://master--meek-chaja-52b6fe.netlify.app/timeline/os-apps/), [amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/timeline/computer/) και στο slides [breadbox](https://master--meek-chaja-52b6fe.netlify.app/slides/os/) , [amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/slides/technology/).
+![breadbox-ensemble1](https://user-images.githubusercontent.com/101902825/201688356-634a8b41-1c8b-4a4e-ad4f-3a39a238f780.png)
+![amstrad-pcw16-thumb](https://user-images.githubusercontent.com/101902825/201688808-2f0bb5df-fc41-48d3-9240-05a025e79d93.jpg)
+
 
 <br>
 
