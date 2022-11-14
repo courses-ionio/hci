@@ -213,5 +213,11 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 ## Βήμα #1: <ins>Forking and Cloning the repository</ins>
 
-Στο συγκεκριμένο βήμα, χρειάστηκε να κάνω fork το αρχικό αποθετήριο: [mibook/kallipos](https://github.com/mibook/kallipos) στο προφίλ μου: [Greekforce1821/kallipos](https://github.com/Greekforce1821/kallipos) και στην συνέχεια   μέσω τερματικού να κάνω clone locally το αποθετήριο από το προφίλ μου χρησιμοποιώντας την εντολή: `git clone         https://github.com/Greekforce1821/kallipos'.
+Στο συγκεκριμένο βήμα, χρειάστηκε να κάνω fork το αρχικό αποθετήριο: [mibook/kallipos](https://github.com/mibook/kallipos) στο προφίλ μου: [Greekforce1821/kallipos](https://github.com/Greekforce1821/kallipos) και στην συνέχεια   μέσω τερματικού να κάνω clone locally το αποθετήριο από το προφίλ μου χρησιμοποιώντας την εντολή: `(git clone         https://github.com/Greekforce1821/kallipos) ` .
+
+## Bήμα #2: <ins>Downloading the Suitable Software via Terminal</ins>
+
+Σύμφωνα με τις οδηγίες του μαθήματος [guides](https://github.com/courses-ionio/hci/discussions/1832) προκειμένου να εισάγουμε το contribution στο βιβλίο πρέπει να εγκαταστήσουμε στο σύστημά μας διάφορα πακέτα όπως: `[pandoc](https://pandoc.org/)` και `[LaTex](https://www.latex-project.org/)`. Ειδικά, το LaTex αξιοποιείται από τον χρήστη προκειμένουν να κάνει merge όλα τα (.tex) αρχεία σε ένα και στην συνέχεια να γίνει export από (.tex) σε (.pdf) αρχείο.
+
+[![asciicast](https://asciinema.org/a/535728.svg)](https://asciinema.org/a/535728)
 
