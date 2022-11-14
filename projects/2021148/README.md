@@ -78,3 +78,11 @@
 https://el.wikipedia.org/wiki/ITunes
 
 https://el.wikipedia.org/wiki/Windows_7
+
+# ΠΑΡΑΔΟΤΕΟ 4
+
+## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ (WARM UP)
+
+Για την ολοκλήρωση του 4ου Παραδοτέου επέλεξα από τις ασκήσεις του warm up την download mp3 και την εκτέλεσα στο Konsole χρησιμοποιώντας το asciinema για εγγραφή οθόνης.
+
+[download mp3](https://asciinema.org/a/APfO0YoB5qYL27WuHlD680Byi)
