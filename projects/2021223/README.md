@@ -56,9 +56,9 @@
 
 Αφού ολοκλήρωσα την εγκατάσταση των Arch Linux και χρησιμοποιόντας το asciinema στο Konsole, έβγαλα δύο βίντεο στα οποία δοκίμασα τις δύο εντολές που μας δώθηκαν (neofetch,journalctl -b):
 
-1 : [journalctl -b](https://asciinema.org/a/H4TPxhmgc95SQCMGHKA1rghp3)
+1) [journalctl -b](https://asciinema.org/a/H4TPxhmgc95SQCMGHKA1rghp3)
 
-2 : [neofetch](https://asciinema.org/a/3mYprMpQnrbVCjQ4JbKJdBgEG)
+2) [neofetch](https://asciinema.org/a/3mYprMpQnrbVCjQ4JbKJdBgEG)
 
 # Παραδοτέο 3ο
 
@@ -96,4 +96,18 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ve
 ## Πηγές 
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiS8N2C_q37AhUTjaQKHXLeDsEQFnoECBMQAQ&url=https%3A%2F%2Fel.wikipedia.org%2Fwiki%2F%25CE%25A0%25CE%25BB%25CE%25B7%25CF%2581%25CE%25BF%25CF%2586%25CE%25BF%25CF%2581%25CE%25B9%25CE%25BA%25CE%25AE&usg=AOvVaw0FG1mWKU6eQAsY8W8dW8dH
+
+# Παραδοτέο 6ο
+
+## Κατασκεύη του βιβλίου Α
+
+Σε αυτό το παραδοτέο μας ζητήθηκε να γίνει το πρώτο παραδοτέο για την κατασκεύη του βιβλίου,όπου βασιζόταν σε εργαλεία γραμμής εντολών και ειδικότερα στην εντολή pandoc.Ακόμη σε αυτό το παραδοτέο πρέπει να σχολιάσουμε το βιβλίο που μας δόθηκε και να βάλουμε το δικό μας σχόλιο σε μια από τις παραγράφους που περιείχε το βιβλίο.
+
+1) [contribution223.lua](https://github.com/inf2021223/kallipos/blob/master/contribution223.lua)
+
+2) [contribution223.md](https://github.com/inf2021223/kallipos/blob/master/contribution223.md)
+
+## Δυσκολίες που αντιμετωπίστηκαν
+
+Η βασικότερη δυσκολία που αντιμετώπησα ήταν ότι δεν κατάφερα να κάνω το pdf μέσω make-latex.sh και δεν κατάφερα να βάλω το σχόλιό μου μέσα στο pdf του βιβλίου.
 
