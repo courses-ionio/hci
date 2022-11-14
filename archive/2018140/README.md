@@ -47,4 +47,6 @@
 
 -<a href="https://asciinema.org/a/Pl2NBtaZYKYxUYJRcZ7WTiSW0">jrnl</a>|
 
+## ΠΑΡΑΔΟΤΕΟ 5 - Συμμετοχικό περιεχόμενο Α2
+
 
