@@ -10,10 +10,10 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Εισαγωγή](https://github.com/Alessenia/hci/blob/2019165/projects/2019165/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/933) | |
-| 2 | Άσκηση γραμμής εντολών (linux install)|[Ανάρτηση asciinema στο Discussions και εγκατάσταση των Arch Linux](https://github.com/courses-ionio/help/discussions/1072) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 |[Ανάρτηση των προσθηκών στα repositories _gallery και images καθώς και δημιουργία netlify](https://github.com/courses-ionio/help/discussions/1226)| |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Ανάρτηση των ασκήσεων "warm up" στα Discussions](https://github.com/courses-ionio/help/discussions/1355) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 |[Ανάρτηση των προσθηκών μου στο χρονολόγιο και στα slides](https://github.com/courses-ionio/help/discussions/1472) | |
+| 2 | [Άσκηση γραμμής εντολών](https://github.com/Alessenia/hci/tree/2019165/projects/2019165#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2---arch-linux-installation) (linux install)|[Ανάρτηση asciinema στο Discussions και εγκατάσταση των Arch Linux](https://github.com/courses-ionio/help/discussions/1072) | |
+| 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/Alessenia/hci/tree/2019165/projects/2019165#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BF-%CE%B11) |[Ανάρτηση των προσθηκών στα repositories _gallery και images καθώς και δημιουργία netlify](https://github.com/courses-ionio/help/discussions/1226)| |
+| 4 | [Άσκηση γραμμής εντολών](https://github.com/Alessenia/hci/tree/2019165/projects/2019165#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4---warm-up) (warm up cli) |[Ανάρτηση των ασκήσεων "warm up" στα Discussions](https://github.com/courses-ionio/help/discussions/1355) | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/Alessenia/hci/tree/2019165/projects/2019165#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a2) |[Ανάρτηση των προσθηκών μου στο χρονολόγιο και στα slides](https://github.com/courses-ionio/help/discussions/1472) | |
 | 6 | Κατασκευή του βιβλίου Α |[Aνάρτηση στα discussions του φίλτρου σε lua,του σχολιασμού και της μετατροπής του make-latex](https://github.com/courses-ionio/help/discussions/1580) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -74,6 +74,11 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 ### Οι εικόνες σε thumb (160x140px)
 #### [IBM-Simon-Personal-Communicator-thumb.png](https://github.com/Cat-a-strophe/images/blob/master/IBM-Simon-Personal-Communicator-thumb.png)
 #### [wii-console-thumb.jpg](https://github.com/Cat-a-strophe/images/blob/master/wii-console-thumb.jpg)
+
+### Tα pull request προς τον Οργανισμό
+#### [_gallery](https://github.com/Cat-a-strophe/_gallery/pull/1)
+&
+#### [images](https://github.com/Cat-a-strophe/images/pull/1)
   
 Το επόμενο ζητούμενο του παραδοτέου ήταν η δημιουργία του site της ομάδας μέσω του netlify.Για την υλοποίηση αυτού του ζητούμενου έγινε χρήση της γραμμής εντολών ώστε να συνδεθεί ο λογαριασμός του οργανισμού μας με το netlify.
   
@@ -82,6 +87,8 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 ### Οι προσθήκες μου στο site :
 ####  [wii console](https://lucky-llama-173f38.netlify.app/gallery/wii-console/)
 ####  [IBM Simon](https://lucky-llama-173f38.netlify.app/gallery/ibm-simon-personal-calculator/) 
+
+
 
 
 <br>
@@ -116,3 +123,31 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 #### [Bιντεοπαιχνίδια](https://lucky-llama-173f38.netlify.app/slides/videogames/)
 
 ### Το [pull request προς τον οργανισμό](https://github.com/Cat-a-strophe/site/pull/1)
+
+# Παραδοτέο 6 - Κατασκευή του Βιβλίου
+<br>
+
+<p>Το έκτο παραδοτέο αφορά την κατασκευή του βιβλίου , τοπικά με την βοήθεια του μετατροπέα pandoc και μέσω της γραμμής εντολών.Αρχικά έκανα την εγκατάσταση του pandoc στο τερματικό μου καθώς και του texlive(που περιέχει το pdflatex και ένα σύνολο απο πρόσθετα πακέτα) καθώς και του φίλτρου pandoc-fignos που χρειαζόταν το pip install της python για να εγκατασταθεί.Αφού έχει γίνει και το clone του αποθετηρίου kallipos εκτελέστηκε η εντολή για να γίνουν initiate τα submodules(γίνεται update στα .gitmodules) που έχουν αλλάξει.Παράλληλα είναι απαραίτητο να γίνουν ορισμένες αλλαγές στον φάκελο make-latex , ο οποίος ουσιαστικά οδηγεί στην δημιουργία του pdf του βιβλίου. Στο φάκελο αυτό γίνεται και η προσθήκη του φίλτρου για την προσθήκη σημειώσεων στο σώμα του βιβλίου. Το φίλτρο που δημιούργησα αρχικά βασίζεται αρκετά στο φίλτρο προσθήκης της εισαγωγικής αναφοράς , αλλά ενδέχεται να εμπλουτιστεί στην πορεία. </p>
+
+#### [To αρχείο make-latex](https://github.com/Alessenia/kallipos/blob/master/make-latex.sh)
+#### [Φίλτρο σε lua](https://github.com/Alessenia/kallipos/blob/master/note.lua)
+#### [H σημείωση μου](https://github.com/Alessenia/kallipos/blob/master/note/applenewton.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
