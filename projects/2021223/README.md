@@ -87,4 +87,13 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ve
 
 ## Συμμετοχικό περιεχόμενο Α2
 
+Για το συμμετοχικό περιεχόμενο Α2 έπρεπε να δημιουργήσουμε ένα χρονολόγιο και μια διαφάνεια σχετικό με τις δύο φωτογραφίες που ανεβάσαμε για την δημιουργία του βιβλίου (Συμμετοχικό περιεχόμενο Α1), όπου βρίσκονται στον κατάλογο timeline και στον κατάλογο slides.
+
+| Link for timeline | Link for slides |
+| --- | --- |
+| [timeline](https://github.com/inf2021223/site/blob/master/_timeline/informatics.md) | [slides](https://github.com/inf2021223/site/blob/master/_slides/new_techology.md) |
+
+## Πηγές 
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiS8N2C_q37AhUTjaQKHXLeDsEQFnoECBMQAQ&url=https%3A%2F%2Fel.wikipedia.org%2Fwiki%2F%25CE%25A0%25CE%25BB%25CE%25B7%25CF%2581%25CE%25BF%25CF%2586%25CE%25BF%25CF%2581%25CE%25B9%25CE%25BA%25CE%25AE&usg=AOvVaw0FG1mWKU6eQAsY8W8dW8dH
 
