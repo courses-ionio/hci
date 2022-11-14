@@ -2,7 +2,7 @@
 
 ΑΜ: 2021055
 
-ΟΜΑΔΑ: [Hobistes](https://github.com/organizations/OMADA12/settings/profile)
+ΟΜΑΔΑ: [OMADA12](https://github.com/organizations/OMADA12/settings/profile)
 
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
@@ -56,17 +56,17 @@
 
 Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://axileaszervos.netlify.app) και πρόσθεσα 4 φωτογραφίες και 2 md files για τις φωτογραφίες που πρόσθεσα στο site. Ακόμη, έκανα pull request τα [md files](https://github.com/pibook/_gallery/commit/74212cfe631d042f216426e20cac69cdd46cb3fb) και τις [εικόνες](https://github.com/pibook/images/commit/fa6b4276eed47aa69394a1c38c61690a0f04a959).
 
-## Σύντομη παρουσίαση του Lego-wedo 2.0
+## Σύντομη παρουσίαση του Apple_iMac
  
-![legowedon](https://user-images.githubusercontent.com/115211756/201619883-fd9d1132-8dc9-4dc4-8802-b9f688e6c9aa.jpg)
+ ![Imacn](https://user-images.githubusercontent.com/115211756/201630219-c21a755a-2783-4224-96fa-af281ab58f33.jpg)
 
-Το lego-wedo είναι μια σειρά από διάφορες κατασκευές στην οποία ο χρήστης πέραν την δυνατότητα της συναρμολόγησης της κατασκευής, μπορεί μέσω από ειδικό app της εταιρίας lego ή της δημοφιλής γλώσσας προγραμματισμού `scratch` να εκτελέσει διάφορα `commands` στην κατασκευή του.
+Ο Apple_iMac ήταν ο πρώτος iMac που κυκλοφόρησε η Apple. Ο Apple_iMac ξεχώριζε για το καινοτόμο desing που είχε, με μοντέρνα πλαστικά και εξωτικά χρώματα. Παρείχε εύκολη σύνδεση στο διαδίκτυο και είχε γραφικό περιβάλλον.
 
-## Σύντομη παρουσίαση της γλώσσας προγραμματισμού `scratch`
+## Σύντομη παρουσίαση της γλώσσας προγραμματισμού virtualboy
 
-Η γλώσσα προγραμματισμού `scratch` είναι μια kids-frendly γλώσσα η οποία είναι έτσι κατασκευασμένη ώστε να απευθύνεται κυρίως σε παιδιά με σκοπό την εισαγωγής τους στον κόσμο του προγραμματισμού.
+![Virtualboyn](https://user-images.githubusercontent.com/115211756/201630196-9fa6ad70-7f41-43db-8acc-13b2fba5406f.jpg)
 
-![scratchn](https://user-images.githubusercontent.com/115211756/201621960-e7332aa6-3627-488d-aa97-d61145a6b28a.jpg)
+Το virtualboy κυκλοφόρησε το 1995 από την Nintendo και ήταν το πρώτο εμπορικό virtual headset που κυκλοφόρησε ποτέ Με το virtualboy η εταιρία ήθελε να εισάγει την εικονική πραγματικότητα στο gaming άλλα λίγο η παρωχημένη τεχνολογία της εποχής και λίγο το κόκκινο χρώμα στα παιχνίδια που ζάλιζε τους παίκτες έκαναν την συσκευή αυτή να αποτύχει.
 
 
 
@@ -78,14 +78,13 @@
  
  ### Apple_iMac:
     
- 
-   ~* Tο .md αρχείο του Apple_iMac στο προσωπικό μου αποθετήριο: [Apple_iMac.md](https://github.com/Axileaszervos/_gallery/blob/cec92ba9d14ee5e0f2a29521c2fafabb2188bd3c/Apple_iMac.md)~ 
+   ~ Tο .md αρχείο του Apple_iMac στο προσωπικό μου αποθετήριο: [Apple_iMac.md](https://github.com/Axileaszervos/_gallery/blob/3bf98973f5474118c485af43686aa3dde5f4d0ea/Imac.md)~ 
    
-   ~* Η εικόνα του Apple_iMac στο προσωπικό μου site: [Apple_iMac](https://axileaszervos.netlify.app/gallery/apple_imac/)~
+   ~ Η εικόνα του Apple_iMac στο προσωπικό μου site: [Apple_iMac](https://axileaszervos.netlify.app/gallery/imac/)~
    
-   ~* Η κανονική εικόνα στο αποθετήριο μου: [Apple_iMac-photo](https://github.com/Axileaszervos/images/blob/master/Apple_iMac.jpg)~
+   ~ Η κανονική εικόνα στο αποθετήριο μου: [Apple_iMac-photo](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Imac.jpg)~
    
-   ~* Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [Apple-iMac-resized](https://github.com/Axileaszervos/images/blob/master/Apple_iMac-Thumb.jpg)~
+   ~ Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [Apple-iMac-resized](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Imac-thumb.jpg)~
    
   ### VirtualBoy:
     
@@ -93,16 +92,16 @@
    
    ~Η εικόνα του VirtualBoy στο προσωπικό μου site: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
    
-   ~Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo](https://github.com/Axileaszervos/images/blob/master/VirtualBoy.jpg)~
+   ~Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Virtualboy.jpg)~
    
-   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [VirtualBoy-resized](https://github.com/Axileaszervos/images/blob/master/VirtualBoy-Thumb.jpg)~
+   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [VirtualBoy-resized](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Virtualboy-thumb.jpg)~
    
    
 ## Τα Links και οι φωτογραφίες από το ομαδικό αποθετήριο:
 
  Το ομαδικό [site](https://omada122.netlify.app)
  
-  ## Apple_iMac:
+  ### Apple_iMac:
  
    ~Tο .md αρχείο του Apple_iMac στο αποθετήριο της ομάδας μου: [Apple_iMac.md](https://github.com/OMADA12/_gallery/blob/f76ae0fad27a969c7214d4a494e04413df50d93d/Apple_iMac.md)~
    
@@ -112,42 +111,76 @@
    
    ~Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Apple-iMac-resized](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/Apple_iMac-Thumb.jpg)~
    
- ## VirtualBoy:
+ ### VirtualBoy:
   
-   ~Tο .md αρχείο του VirtualBoy στο αποθετήριο της ομάδας μου: [VirtualBoy](https://github.com/OMADA12/_gallery/blob/f76ae0fad27a969c7214d4a494e04413df50d93d/VirtualBoy.md)~
+   ~Tο .md αρχείο του VirtualBoy στο αποθετήριο της ομάδας μου: [VirtualBoy](https://github.com/Axileaszervos/_gallery/blob/3bf98973f5474118c485af43686aa3dde5f4d0ea/Virtualboy.md)~
    
-   ~Η εικόνα του VirtualBoy στο site της ομάδας μου: [VirtualBoy](https://omada12.netlify.app/gallery/virtualboy/)~
+   ~Η εικόνα του VirtualBoy στο site της ομάδας μου: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
    
    ~Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [VirtualBoy-photo](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/VirtualBoy.jpg)~
    
    ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [VirtualBoy-resized](https://github.com/OMADA12/images/blob/c4318fe3fbf080d731a76da84a281499b1a8d8c6/VirtualBoy-Thumb.jpg)~
    
-# UPDATE
-  Έπειτα από παρατηρήσεις του καθηγητή μου πήρα την απόφαση να αλλάξω τις φωτογραφίες μου και να προσθέσω την γλώσσα προγραμματισμού `Scratch` κσι τα ρομπότ-παιχνίδια
+# `UPDATE`
+  Έπειτα από παρατηρήσεις του καθηγητή μου, πήρα την απόφαση να αλλάξω τις φωτογραφίες μου και να προσθέσω την γλώσσα προγραμματισμού `Scratch` και τα ρομπότ-παιχνίδια
   `Lego WeDo` επειδή και τα δύο ανήκουν στον τομέα της ρομποτικής μάθησης για μικρά παιδιά και είναι κάτι το όποιο έχω σκοπό να ασχοληθώ στο μέλλον.
   
-  * # Τα Links και οι φωτογραφίες από το προσωπικό μου αποθετήριο:
+## Σύντομη παρουσίαση του Lego-wedo 2.0
+ 
+![legowedon](https://user-images.githubusercontent.com/115211756/201619883-fd9d1132-8dc9-4dc4-8802-b9f688e6c9aa.jpg)
+
+Το lego-wedo είναι μια σειρά από διάφορες κατασκευές στην οποία ο χρήστης πέραν την δυνατότητα της συναρμολόγησης της κατασκευής, μπορεί μέσω από ειδικό app της εταιρίας lego ή της δημοφιλής γλώσσας προγραμματισμού `scratch` να εκτελέσει διάφορα `commands` στην κατασκευή του.
+
+## Σύντομη παρουσίαση της γλώσσας προγραμματισμού `scratch`
+
+![scratchn](https://user-images.githubusercontent.com/115211756/201621960-e7332aa6-3627-488d-aa97-d61145a6b28a.jpg)
+
+Η γλώσσα προγραμματισμού `scratch` είναι μια kids-frendly γλώσσα η οποία είναι έτσι κατασκευασμένη ώστε να απευθύνεται κυρίως σε παιδιά με σκοπό την εισαγωγής τους στον κόσμο του προγραμματισμού.
+
+
+
+
+  
+## Τα Links και οι φωτογραφίες από το προσωπικό μου αποθετήριο:
 
  Το προσωπικό μου [site](https://axileaszervos.netlify.app)
  
-# Scratch:
+### Scratch:
     
-  * Tο .md αρχείο της γλώσσας προγραμματισμού scratch στο προσωπικό μου αποθετήριο: [scratch.md](https://github.com/Axileaszervos/_gallery/blob/master/Scratch.md)
+  * Tο .md αρχείο της γλώσσας προγραμματισμού scratch στο προσωπικό μου αποθετήριο: [scratch.md](https://github.com/Axileaszervos/_gallery/blob/3bf98973f5474118c485af43686aa3dde5f4d0ea/Scratch.md)
   * Η εικόνα της γλώσσας προγραμματισμού scratch στο προσωπικό μου site: [scratch](https://axileaszervos.netlify.app/gallery/scratch/)
-  * Η κανονική εικόνα της γλώσσας προγραμματισμού scratch στο αποθετήριο μου: [scratch.jpg](https://github.com/Axileaszervos/images/blob/7a92a1ba11b32bf4505bfdd85f95c6259c1cd8f0/scratch.jpg)
-  * Η resized σε 160x160 pixels της γλώσσας προγραμματισμού scratch εικόνα στο αποθετήριο μου: [scratch-thumb.jpg](https://github.com/Axileaszervos/images/blob/7a92a1ba11b32bf4505bfdd85f95c6259c1cd8f0/scratch-thumb.jpg)
+  * Η κανονική εικόνα της γλώσσας προγραμματισμού scratch στο αποθετήριο μου: [scratch.jpg](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Scratch.jpg)
+  * Η resized σε 160x160 pixels της γλώσσας προγραμματισμού scratch εικόνα στο αποθετήριο μου: [scratch-thumb.jpg](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Scratch-thumb.jpg)
  
-  # Lego WeDo:
+  ### Lego WeDo:
  
-   * Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/Axileaszervos/_gallery/blob/master/legoWeDo.md)
+   * Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/Axileaszervos/_gallery/blob/3bf98973f5474118c485af43686aa3dde5f4d0ea/Legowedo.md)
    * Η εικόνα της κατασκευής για παιδιά Lego WeDo στο site της ομάδας μου: [legowedo](https://axileaszervos.netlify.app/gallery/legowedo/)
-   * Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο της ομάδας μου: [legowedo.jpg](https://github.com/Axileaszervos/images/blob/7a92a1ba11b32bf4505bfdd85f95c6259c1cd8f0/legowedo.jpg)
-   * Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο της ομάδας μου: [legowedo-thumb.jpg](https://github.com/Axileaszervos/images/blob/master/legowedo-thumb.jpg)
+   * Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο της ομάδας μου: [legowedo.jpg](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Legowedo.jpg)
+   * Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο της ομάδας μου: [legowedo-thumb.jpg](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Legowedo-thumb.jpg)
+
+## Τα Links και οι φωτογραφίες από το ομαδικό αποθετήριο:
+
+ Το ομαδικό [site](https://omada122.netlify.app)
+ 
+ ### Lego-wedo:
+ 
+   * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [legowedo.md]()
+   * Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo]()
+   * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Lego-wedo-photo]()
+   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Lego-wedo-resized]()
+   
+ ### scratch:
+  
+   * Tο .md αρχείο του scratch στο αποθετήριο της ομάδας μου: [scratch]()
+   * Η εικόνα του scratch στο site της ομάδας μου: [scratch]()
+   * Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [scratch-photo]()
+   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [scratch-resized]()
    
 
 
 
-# 4ο ΠΑΡΑΔΟΤΕΟ
+# 4ο ΠΑΡΑΔΟΤΕΟ-WARM UPS CLI
 Σε αυτό το παραδοτέο είχαμε να εξασκηθούμε με διάφορα [warm-ups](https://github.com/epidrome/dokey). Προσωπικά ασχολήθηκα και εκτέλεσα τρία από τα διαθέσιμα που υπήρχαν.
 
 Αρχικά, με την εντολή [wttr](https://github.com/chubin/wttr.in) εμφάνισα στο terminal μου την πρόγνωση του καιρού για τον τόπο που διαμένω και για μια άλλη πόλη, επέλεξα αυτό το warm-up επειδή ήθελα να εκτελέσω μια καθημερινή λειτουργία χωρίς να την πάρω από κάπου έτοιμη(πχ κινητό,google).
@@ -161,23 +194,23 @@
 
 [MUSIC IN TERMINAL](https://asciinema.org/a/533149)
 
-# 5ο ΠΑΡΑΔΟΤΕΟ
-Σε αυτό το παραδοτέο κλιθήκαμε να φτιάξουμε τα δικές μας timelines και slides τα οποία έπρεπε να είχαν σχέση με τις φωτογραφίες που χρησιμοποιήσαμε για το παραδοτέο 3, επίσης, υπήρχε η δυνατότητα να προστεθούν οι εικόνες σε ήδη υπάρχοντα slides και timelines με αντίτιμο όμως στον βαθμό Προσωπικά επέλεξα να φτιάξω τα δικά μου, μιας και είχα αρκετές ιδέες και επιπλέον ήταν μια ακόμη πρόκληση για εμένα.
+# 5ο ΠΑΡΑΔΟΤΕΟ-ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α2
+Σε αυτό το παραδοτέο κλιθήκαμε να φτιάξουμε τα δικές μας timelines και slides τα οποία έπρεπε να είχαν σχέση με τις φωτογραφίες που χρησιμοποιήσαμε για το παραδοτέο 3, επίσης, υπήρχε η δυνατότητα να προστεθούν οι εικόνες σε ήδη υπάρχοντα slides και timelines με αντίτιμο όμως στον βαθμό. Προσωπικά επέλεξα να φτιάξω τα δικά μου, μιας και είχα αρκετές ιδέες και επιπλέον ήταν μια ακόμη πρόκληση για εμένα.
 
 ~Για τον Apple iMac έφτιαξα τα εξής slide και timeline:~
 
-~S)[Καινοτόμες συσκευές](https://axileaszervos.netlify.app/slides/innovativemachines/)~
+~S)[Καινοτόμες συσκευές](https://axileaszervos.netlify.app/slides/innovativemachines/) - timeline~
 
-~T)[Γραφικό περιβάλλον](https://axileaszervos.netlify.app/timeline/graphicalinterfaces/)~
+~T)[Γραφικό περιβάλλον](https://axileaszervos.netlify.app/timeline/graphicalinterfaces/) - slide~
 
 ~Για το virtualboy έφτιαξα τα εξής slide και timeline:~
 
-~S)[Συσκευές εικονικής πραγματικότητας](https://axileaszervos.netlify.app/slides/virtual-reality/)~
+~S)[Συσκευές εικονικής πραγματικότητας](https://axileaszervos.netlify.app/slides/virtual-reality/) - timeline~
 
-~T)[Η εξέλιξη των 3d γραφικών](https://axileaszervos.netlify.app/timeline/3denvironment/)~
+~T)[Η εξέλιξη των 3d γραφικών](https://axileaszervos.netlify.app/timeline/3denvironment/) - slide~
 
    # UPDATE
-Μετα την αλλαγή εικόνων στο 3ο παραδοτέο έχουν αλλάξει τα slides κσι η διαφάνειες
+Μετα την αλλαγή εικόνων στο 3ο παραδοτέο έχουν αλλάξει τα slides και η διαφάνειες
 
 ---
 * Slide και Timeline για την γλωσσα προγραμματισμού `scratch`
@@ -186,11 +219,27 @@
  
 * Slide και Timeline για την γλωσσα προγραμματισμού `Lego WeDo`
   * [Τρόποι ψυχαγωγίας για παιδιά](https://axileaszervos.netlify.app/slides/ways_of_entertainment_for_childs/) - slide
-  * [Η εξέλιξη των εκπαιδευτικών ρομπότ για παιδιά](https://axileaszervos.netlify.app/timeline/theevolutionofeducationalrobotsforchildstimeline/)
+  * [Η εξέλιξη των εκπαιδευτικών ρομπότ για παιδιά](https://axileaszervos.netlify.app/timeline/theevolutionofeducationalrobotsforchildstimeline/) - timeline
   
   
- # 6ο ΠΑΡΑΔΟΤΕΟ
- soon..
+ # 6ο ΠΑΡΑΔΟΤΕΟ-ΚΑΤΑΣΚΕΥΗ ΒΙΒΛΙΟΥ Α
+Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το κεφαλιά 3 και συγκεκριμένα την υποενότητα 3.3 "Συνθέτα στύλ διάδρασης". Εκεί πρόσθεσα σαν σύνθετο στιλ διάβασης την τεχνητή νοημοσύνη, θέμα το οποίο είναι ακόμη `υπό-βελτίωση`.
+
+* link του βιβλίου σε μορφή pdf : [book.pdf](https://github.com/Axileaszervos/kallipos/tree/master/my%20book)
+* link του αρχείου lua: [Interaction.lua](https://github.com/Axileaszervos/kallipos/blob/master/Interaction.lua)
+* link του περιεχομένου που πρόσθεσα: [Interaction.md](https://github.com/Axileaszervos/kallipos/blob/master/interaction/Interaction.md)
+* link του make-latex.sh: [make-latex](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
+
+## Siri
+Η siri είναι ένας voice-assisant-manager τεχνητής νοημοσύνης που χρησημοποιεί voice commands για να επικοινωνίσει με τον χρήστη. Η διάδραση που μαζί του ειναι άμεση και αποτελεσματική εξαιτιάς του αλγορίθμου machine-learning που διαθέτει ώστε να βελτιώνεται με τις ανάγκες του χρηστη.
+
+### Links για τις φωτογραφίες που χρησιμοποίησα για το βιβλίο
+  * [`Siri`](https://github.com/Axileaszervos/kallipos/blob/master/my%20pictures/siri.png)
+### Φωτογραφία από το περιεχόμενο που πρόσθεσα σε pdf αρχείο
+  ![Interaction](https://user-images.githubusercontent.com/115211756/201636906-64bb44f9-04a1-4658-90a1-f72dc45f71d6.png)
+
+
+
 
  
   
