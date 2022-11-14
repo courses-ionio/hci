@@ -83,3 +83,8 @@ Asciinema profile: [inf2021186](https://asciinema.org/~inf2021186)
 2) Πρόσθεσα στο [site του προσωπικού μου αποθετηρίου](https://stamathsp.netlify.app/) το ένα (καινούργιο) slide VMware  και ενσωμάτωσα σε ήδη υπάρχον slide από τον κο. Χωριανόπουλο την Γλώσσα Προγραμματισμού Python αλλά και τη Γλώσσα Προγραμματισμού Java.
 3) Πρόσθεσα τα δύο timelines μου στην ιστοσελίδα του [οργανισμού](https://terminal-killers-site.netlify.app/), τα [Γλώσσα Προγραμματισμού Java](https://terminal-killers-site.netlify.app//timeline/programming-languages/) και [VMware](https://terminal-killers-site.netlify.app//timeline/simulations/).
 #
+
+# 6ο ΠΑΡΑΔΟΤΕΟ
+
+Στο παραδοτέο 6 μας ζητήθηκε να κατασκευάσουμε το [βιβλίο](https://github.com/courses-ionio/hci/discussions/1832), εγκαθιστώντας αρχικά τις απαραίτητες βιβλιοθήκες ([pandoc](https://pandoc.org/), [latex](https://www.latex-project.org/)) που υποστηρίζουν την δημιουργία του βιβλίου και στη συνέχεια να πρόσθεσουμε το προσωπικό μας αρχείο που καλούμαστε να δημιουργήσουμε. Προσωπικά, δημιούργησα ένα αρχείο με κατάληξη `.md` με τίτλο `Apple iPod`.
+#
