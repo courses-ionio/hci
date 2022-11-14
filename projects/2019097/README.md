@@ -42,3 +42,38 @@
 #### 7. Μετά από μια πληθώρα εντολών συνεχίζουμε εγκαθιστώντας τα Arch Linux με την εντολή pacstrap /mnt -base linux linux-firmware.
 #### 8. Eφόσον έχουν εγκατασταθεί όλα τα απαραίτητα αρχεία προχωράμε στην δημιουργία χρηστών καθώς και στην εφαρμογή ενός grub menu το οποίο θα εμφανίζεται κατά το άνοιγμα του υπολογιστή για την επιλογή είτε των Arch Linux είτε των Windows.
 #### 9. Τέλος αφαιρούμε το usb-stick και ανοίγουμε τον υπολογιστή και επιλέγουμε τα Arch Linux.
+
+## Παραδοτέο 2ο - _Ασκήσεις γραμμή εντολών_
+
+Σκοπός του 2ου παραδοτέου είναι η εξεικοίωση μας με την γραμμή εντολών, ώστε να μπορέσουμε να κατανοήσουμε την χρήση του Arch Linux. Αυτήν την εβδομάδα μας ζητήθηκε να κάνουμε χρήση των δύο εντολών:
+### 1. neofetch
+     Το neofetch είναι μια εντολή εμφάνισης στοιχείων του συστήματος, και εγκαθιστάται με την εντολή: sudo pacman -S neofetch
+[![asciicast](https://asciinema.org/a/NMufINXFUnDcMfVxRJarOeYE9.svg)](https://asciinema.org/a/NMufINXFUnDcMfVxRJarOeYE9)
+
+### 2. journalctl -b
+     Η εντολή journalctl αναφέρει τα αρχεία καταγραφής του λειτουργικού συστήματος και των υπηρεσιών του συστήματος εξάγοντάς τα από το σύστημα
+     ημερολογίου systemd.
+[![asciicast](https://asciinema.org/a/527991.svg)](https://asciinema.org/a/527991)
+
+## Παραδοτέο 3ο - _Συμμετοχικό περιεχόμενο Α1_
+
+Σκοπός του 3ου παραδοτέου ήταν να γίνει μια πρώτη επαφή με την κατασκευή της ιστοσελίδας του βιβλίου.Στο παραδοτέο Α1 έπρεπε να κάνουμε χρήση των submodules και του jekyll μέσα από το τερματικό μας.Έτσι λοιπόν αποφάσισα να ασχοληθώ με τον Apple IIc και το Atari 2600, όπου παρέθεσα τις σχετικές φωτογραφίες στον κατάλογο /images και ένα σχετικό υποσημείωμα στον κατάλογο /gallery.
+
+| Περιγραφή | Image Link | Gallery Link |
+| --- | --- | --- |
+| Apple IIcb | [Apple IIcb image](https://github.com/kselionis/images/blob/master/Apple_iicb.jpg) | [Apple IIcb gallery](https://github.com/kselionis/_gallery/blob/master/apple_iicb.md) |
+| Atari 2600 | [Atari 2600 image](https://github.com/kselionis/images/blob/master/atari_2600.jpg) | [Atari 2600 gallery](https://github.com/kselionis/_gallery/blob/master/atari_2600.md) |
+
+## Παραδοτέο 4ο - _Ασκήσεις γραμμής εντολών(warm up)_
+
+Σκοπός της 4ης εβδομάδας ήταν να εξασκηθούμε στην γραμμή εντολών και στην εγγραφή τους μέσα από το τερματικό με την χρήση του asciinema.Ασχολήθηκα με την παρακάτω άσκηση γραμμής εντολών:
+
+| Εργασία | Παραδοτέο | Αναφορά |
+| --- | --- | --- |
+| check the weather | fetch the weather forecast for your home city and one more city that you want to travel to | wttr |
+
+Ύστερα από αρκετή μελέτη και αναζήτηση στο διαδίκτυο πραγματοποίησα την εγκατάσταση και έτρεξα την εντολή.
+[![asciicast](https://asciinema.org/a/537609.svg)](https://asciinema.org/a/537609)
+
+
+
