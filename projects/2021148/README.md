@@ -65,7 +65,7 @@
 
 ## Συμμετοχικό περιεχόμενο Α1
 
-Ζητούμενο του 3ου παραδοτέου ήταν η έναρξη της κατασκευής του βιβλίου ξεκινώντας από το Α1 Παραδοτέο. Επομένως, μέσω της τεχνολογίας jekyll και χρησιμοποιώντας τα submodules μέσα στο Konsole προώθησα 4 φωτογραφίες (2 κανονικού μεγέθους και 2 thumbnails) αλλά και 2 md files (iTunes, windows7) μέσα στα οποία έγραψα πληροφορ.
+Ζητούμενο του 3ου παραδοτέου ήταν η έναρξη της κατασκευής του βιβλίου ξεκινώντας από το Α1 Παραδοτέο. Επομένως, μέσω της τεχνολογίας jekyll και χρησιμοποιώντας τα submodules μέσα στο Konsole προώθησα 4 εικ (2 κανονικού μεγέθους και 2 thumbnails) αλλά και 2 md files (iTunes, windows7) μέσα στα οποία έγραψα πληροφορίες για τις εικόνες.
 
 1. [iTunes.md](https://github.com/inf2021148/_gallery/blob/master/itunes.md) | [image](https://github.com/inf2021148/images/blob/master/itunes.jpg) | [image-thumb](https://github.com/inf2021148/images/blob/master/itunes-thumb.jpg)
 2. [windows 7.md](https://github.com/inf2021148/_gallery/blob/master/windows7.md) | [image](https://github.com/inf2021148/images/blob/master/windows7.jpg) | [image-thumb](https://github.com/inf2021148/images/blob/master/windows7-thumb.jpg)
