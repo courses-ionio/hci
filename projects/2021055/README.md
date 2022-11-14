@@ -74,7 +74,7 @@
 
 ## Τα links και οι φωτογραφίες από το προσωπικό μου αποθετήριο:
 
-Το προσωπικό μου [site](https://axileaszervos.netlify.app)
+* #### Το προσωπικό μου [site](https://axileaszervos.netlify.app)
  
  ### Apple_iMac:
     
@@ -99,7 +99,7 @@
    
 ## Τα Links και οι φωτογραφίες από το ομαδικό αποθετήριο:
 
- Το ομαδικό [site](https://omada122.netlify.app)
+ * #### Το ομαδικό [site](https://omada122.netlify.app)
  
   ### Apple_iMac:
  
@@ -140,7 +140,7 @@
 
 ## Τα Links και οι φωτογραφίες από το προσωπικό μου αποθετήριο:
 
- Το προσωπικό μου [site](https://axileaszervos.netlify.app)
+ * #### Το προσωπικό μου [site](https://axileaszervos.netlify.app)
  
 ### Scratch:
     
@@ -158,7 +158,7 @@
 
 ## Τα Links και οι φωτογραφίες από το ομαδικό αποθετήριο:
 
- Το ομαδικό [site](https://omada122.netlify.app)
+ * #### Το ομαδικό [site](https://omada122.netlify.app)
  
  ### Lego-wedo:
  
