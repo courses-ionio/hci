@@ -206,3 +206,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 * Slide του αποθετηρίου του οργανισμού: [Slide Organization](https://terminal-killers-site.netlify.app/slides)
 * Slide #1 του αποθετηρίου του οργανισμού: [Slide #1 Organization](https://terminal-killers-site.netlify.app/slides/programming/)
 * Slide #2 του αποθετηρίου του οργανισμού: [Slide #2 Οrganization](https://terminal-killers-site.netlify.app/slides/computers-in-pockets/)
+
+# Παραδοτέο 6ο: Κατασκευάζοντας το βιβλίο.
+
+Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε και αντίστοιχα να κατασκευάσουμε το [βιβλίο](https://github.com/mibook/kallipos) σε ηλεκτρονική μορφή `(.pdf)` αλλά και σε μορφή `(.pub)`. Το παραδοτέο αυτό, ήταν ατομικό και συγκεκριμένα έπρεπε να δημιουργήσουμε το δικό μας φίλτρο `[(.lua)](https://github.com/Greekforce1821/kallipos/blob/master/contribution.lua)`, το δικό μας `[contribution](https://github.com/Greekforce1821/kallipos/blob/master/contribution/skypech08.md)`
