@@ -11,7 +11,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1180),[Προσθήκη1](https://stitc-site.netlify.app/gallery/artix-os/),[Προσθήκη2](https://stitc-site.netlify.app/gallery/suse-os/) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1323),[fish](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr),[wttr](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M) |Επιτυχής ολοκλήρωση, εντός προθεσμίας|
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1474),[slide update](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_slides/os.md),[timeline update](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_timeline/os-apps.md) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1613) |Επιτυχής ολοκλήρωση |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
@@ -68,9 +68,11 @@
 - [x] Την γλώσσα [lua](https://www.lua.org/)
 
 Στην συνέχεια κλήθηκα να κάνω τις ακούλουθες προσθήκες στο βιβλίο αφού το δημιουργήσω σε .tex αρχείο
-- [ ] δικό μου [φίλτρο]() 
-- [x] μετατροπή σε [pdf]() 
-- [ ] μια δική μου [προσθήκη]() σε μορφή σχόλιου
+- [x] δικό μου [φίλτρο](https://github.com/Angeloth1/kallipos/blob/master/contribution.lua) 
+- [x] μετατροπή σε [pdf](https://github.com/Angeloth1/kallipos/blob/master/book/book.pdf) 
+- [x] μια δική μου [προσθήκη](https://github.com/Angeloth1/kallipos/blob/master/contribution/unixLin.md)
+
+Σε αυτό το παραδοτέο χρειάστηκε να επεξεργαστώ το make-latex.sh έτσι ώστε να δημιουργεί το βιβλίο σε tex και σε pdf μορφή αλλά και να καλεί το φίλτρο μου∙ Βέβαια έγιναν κι άλλες αλλαγές στο make-latex για να υπάρχει feedback. Τέλος αυτό είναι το contribution.md και η αλλαγή στο βιβλίο.
 
 ## TEAM 
 
