@@ -221,3 +221,6 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 [![asciicast](https://asciinema.org/a/535728.svg)](https://asciinema.org/a/535728)
 
+## Bήμα #3: <ins>Cloning the Submodules from the Main Repository and Setting them.</ins>
+
+Στο συγκεκριμένο βήμα, όταν έκανα clone το αποθετήριο τοπικά στον υπολογιστή μου, τα submodules δεν είχα ρυθμίστεί με αποτέλεσμα, να μην μπορώ να τρέξω την εντολή: `./make-latex.sh` το οποίο εκκινεί το script για την δημιουργία των (.tex) αρχείων και την ενοποίησή τους σε (.pdf) αρχείο. Προκειμένου να επιλυθεί το πρόβλημα, έπρεπε να τρέξω μέσω τερματικού τις εντολές: `git submodule update --remore --init` & `git submodule update --remote --merge` οι οποίες έκανα clone locally τα αρχεία στους ειδικούς φακέλους <ins> από το αρχικό αποθετήριο </ins>
