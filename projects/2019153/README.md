@@ -7,11 +7,11 @@
 | 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/voltmaister/hci/edit/P2019153/projects/2019153/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2) |[Neofetch](https://asciinema.org/a/527935) ,[journalctl -b](https://asciinema.org/a/527939), [Show and tell](https://github.com/courses-ionio/help/discussions/1051)| |
 | 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/voltmaister/hci/edit/P2019153/projects/2019153/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3) | [discussion](https://github.com/courses-ionio/help/discussions/1164), [my site](https://voltmaister-site1.netlify.app/), [pull request .md files](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/1), [pull request images + thumb](https://github.com/Second-Time-Is-The-Charm/images/pull/1), [organization site vision](https://stitc-site.netlify.app/gallery/vision/), [organization site amigaos](https://stitc-site.netlify.app/gallery/amigaos/)| |
 | 4 | [Άσκηση γραμμής εντολών](https://github.com/voltmaister/hci/edit/P2019153/projects/2019153/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4) | [discussion](https://github.com/courses-ionio/help/discussions/1346), [googler](https://asciinema.org/a/533238)| |
-| 5 | [Συμμετοχικό περιεχόμενο A2]() |[discussion](https://github.com/courses-ionio/help/discussions/new?category=show-and-tell)| |
-| 6 | [Κατασκευή του βιβλίου Α]() | [discussion](https://github.com/courses-ionio/help/discussions/1546), [my kallipos](https://github.com/voltmaister/kallipos) | |
-| 7 | [Συμμετοχικό περιεχόμενο B1]() | | |
-| 8 | [Άσκηση γραμμής εντολών]() | | |
-| 9 | [Συμμετοχικό περιεχόμενο B2]() | | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/voltmaister/hci/edit/P2019153/projects/2019153/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5) |[discussion](https://github.com/courses-ionio/help/discussions/new?category=show-and-tell)| |
+| 6 | [Κατασκευή του βιβλίου Α](https://github.com/voltmaister/hci/edit/P2019153/projects/2019153/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-6) | [discussion](https://github.com/courses-ionio/help/discussions/1546), [my kallipos](https://github.com/voltmaister/kallipos) | |
+| 7 | [Συμμετοχικό περιεχόμενο B1](https://github.com/voltmaister/hci/edit/P2019153/projects/2019153/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7) | [discussion](https://github.com/courses-ionio/help/discussions/1592) | |
+| 8 | [Άσκηση γραμμής εντολών](https://github.com/voltmaister/hci/edit/P2019153/projects/2019153/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-8) | | |
+| 9 | [Συμμετοχικό περιεχόμενο B2](https://github.com/voltmaister/hci/edit/P2019153/projects/2019153/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-9) | | |
 | 10 | [Άσκηση γραμμής εντολών]() | | |
 | 11 | [Κατασκευή του βιβλίου Β]() | | |
 | 12 | [Τελική αναφορά* ]() | | |
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-|slides|timeline|
+| slides [os](https://github.com/voltmaister/site/blob/master/_slides/os.md) & [tools](https://github.com/voltmaister/site/blob/master/_slides/tools.md) | timelines [os-apps](https://github.com/voltmaister/site/blob/master/_timeline/os-apps.md) & [system-tools](https://github.com/voltmaister/site/blob/master/_timeline/system-tools.md) |
 |------|--------|
 |[![image](https://user-images.githubusercontent.com/45509916/201986789-cf04a288-b820-4647-b661-7848c7a89b51.png)](https://master--voltmaister-site1.netlify.app/slides/os/)| [![image](https://user-images.githubusercontent.com/45509916/201986921-07d6ee1a-8702-4e74-94ed-29eac6b9c202.png)](https://master--voltmaister-site1.netlify.app/timeline/os-apps/) |
 | [vision](https://master--voltmaister-site1.netlify.app/slides/tools/) | [vision](https://master--voltmaister-site1.netlify.app/timeline/system-tools/) |
