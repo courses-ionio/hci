@@ -34,7 +34,7 @@
   
  |gallery|images|thumbnail|
  | --- | --- | --- |
- |[link](https://aesthetic-kheer-623587.netlify.app/gallery/fireos/)|[link](https://github.com/StavroulaAnatolaki/images/blob/master/fireos.jpg)|[link](https://github.com/StavroulaAnatolaki/images/blob/master/fireosthumb.jpg)|         
+ |[link](https://aesthetic-kheer-623587.netlify.app/gallery/fireos/)|[link](https://github.com/StavroulaAnatolaki/images/blob/master/fireos.jpg)|[link](https://github.com/StavroulaAnatolaki/images/blob/master/fireos-thumb.jpg)|         
              
  
  
