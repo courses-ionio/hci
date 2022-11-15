@@ -66,8 +66,8 @@
 ### => [Multiplayer (OXO Timeline)](https://github.com/PanMour/D-/blob/main/multiplayer.md)
 ### Παραδοτέο 6ο:
 ## Κατασκευή Βιβλίου Α
-Σε αυτό το παραδοτέο μας ζητήθηκε να προσθέσουμε μια δικιά μας παράγραφο με πληροφοριές στο βιβλίο 
-[My Lua](https://github.com/PanMour/info/blob/main/my_lua.lua)
-[Screenshot](https://github.com/PanMour/info/blob/main/ksnip_20221113-223759.png)
-[Pdf](https://github.com/PanMour/info/blob/main/book.pdf*)
-[md file](https://github.com/PanMour/info/blob/main/base.md)
+Σε αυτό το παραδοτέο μας ζητήθηκε να προσθέσουμε μια δικιά μας παράγραφο με πληροφοριές στο βιβλίο και έπειτα να βγάλουμε scrennshot την προσθήκη που κάναμε από το βιβλίο σε μορφή pdf: 
+- [My Lua](https://github.com/PanMour/info/blob/main/my_lua.lua)
+- [Screenshot](https://github.com/PanMour/info/blob/main/ksnip_20221113-223759.png)
+- [Pdf](https://github.com/PanMour/info/blob/main/book.pdf*)
+- [md file](https://github.com/PanMour/info/blob/main/base.md)
