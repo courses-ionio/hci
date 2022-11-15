@@ -35,7 +35,7 @@
  |gallery|images|thumbnail|
  | --- | --- | --- |
  |[link](https://aesthetic-kheer-623587.netlify.app/gallery/fireos/)|[link](https://github.com/StavroulaAnatolaki/images/blob/master/fireos.jpg)|[link](https://github.com/StavroulaAnatolaki/images/blob/master/fireos-thumb.jpg)|         
-             
+ |[link](https://aesthetic-kheer-623587.netlify.app/gallery/wearos/)|[link](https://github.com/StavroulaAnatolaki/images/blob/master/wearos.jpg)|[link](https://github.com/StavroulaAnatolaki/images/blob/master/wearos-thumb.jpg)|            
  
  
  # Παραδοτέο 4: Άσκηση γραμμής εντολών
