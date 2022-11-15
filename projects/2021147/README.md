@@ -37,6 +37,8 @@
 # Οι εικόνες μου στο site: 
 ### => [Xbox image](https://panmour.netlify.app//gallery/xbox/) 
 ### => [OXO image](https://panmour.netlify.app//gallery/oxo/)
+## Λόγος επιλογής των εικόνων
+Ο κύριως λόγος που επέλεξα τισ συγκεκριμένες εικόνες είναι επειδή σχετίζονται με ένα από τα επαγγέλματα που έχω σκεφτεί να ασχοληθώ στο μέλλον, το game designing. Το OXO ήταν ένα από τα πρώτα βιντεοπαιχνίδια που δημιουργήθηκαν και το πρώτο multiplayer, κάτι που πιστεύω πως είναι πολύ σπουδαίο καθώς έστρωσε τον δρόμο για την δημιουργία μιας ολόκληρης κατηγορίας παιχνιδιών που άλλαξε σημαντικά την αγορά. Όσον αφορά το Xbox, μπορεί να μην ήταν η πρώτη κονσόλα βιντεοπαιχνιδιών (game-machine) που κυκλοφόρησε αλλά είχε σημαντική επίδραση και εξακολουθεί να έχει, επιπλεόν σε προσωπικό επίπεδο ήταν η πρώτη κονσόλα που κατείχα κάτι αρκετά σπουδαίο για εμένα, για αυτόυς τους λόγους πιστεύω ότι είναι μια καλή προσθήκη στο ήδη υπάρχων υλικό τουυ site.
 # Links στα σχετικά αρχεία στο repository μου στο Github: 
 ### => [Xbox md](https://github.com/PanMour/D-/blob/main/xbox.md) 
 ### => [OXO md](https://github.com/PanMour/D-/blob/main/oxo.md)
@@ -62,3 +64,10 @@
 ### => [Αλληλεπίδραση ανθρώπων υπολογιστών (Xbox Timeline)](https://github.com/PanMour/D-/blob/main/human-computer-interactions-theme.md) 
 ### => [AI-Interaction (OXO Slide)](https://github.com/PanMour/D-/blob/main/AI-interaction.md)
 ### => [Multiplayer (OXO Timeline)](https://github.com/PanMour/D-/blob/main/multiplayer.md)
+### Παραδοτέο 6ο:
+## Κατασκευή Βιβλίου Α
+Σε αυτό το παραδοτέο μας ζητήθηκε να προσθέσουμε μια δικιά μας παράγραφο με πληροφοριές στο βιβλίο 
+[My Lua](https://github.com/PanMour/info/blob/main/my_lua.lua)
+[Screenshot](https://github.com/PanMour/info/blob/main/ksnip_20221113-223759.png)
+[Pdf](https://github.com/PanMour/info/blob/main/book.pdf*)
+[md file](https://github.com/PanMour/info/blob/main/base.md)
