@@ -47,3 +47,12 @@
   
   [2η άσκηση](https://asciinema.org/a/eh3OGRhU4sTHqFExhuHvyAQ9v)
   (Βλεπω τον καιρο)
+  
+ 
+ # Παραδοτέο 5: Συμμετοχικό περιεχόμενο A2
+ 
+ Σε αυτο το παραδοτεο εγινε η δευτερη συνεισφορα στην ιστοσελιδα του βιβλιου. Αυτη τη φορα στα αποθετηρια timeline και slides.
+ 
+ [timeline](https://aesthetic-kheer-623587.netlify.app//timeline/os-apps/)
+ 
+ [slides](https://aesthetic-kheer-623587.netlify.app//slides/gui/)
