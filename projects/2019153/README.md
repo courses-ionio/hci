@@ -26,9 +26,13 @@
 
 ### Neofetch / Journalctl
 
+<div align="center">
+
 | Neofetch | Journalctl |
 |---|---|
 |[![asciicast](https://asciinema.org/a/527935.svg)](https://asciinema.org/a/527935)|[![asciicast](https://asciinema.org/a/527939.svg)](https://asciinema.org/a/527939)|
+  
+</div>
 
 # Παραδοτέο 3
 
