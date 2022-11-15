@@ -36,12 +36,12 @@
  
  
  
-| Περιγραφή | Repository Link |
- | --- | --- |
- |_gallery Kaizala|[KAIZALA.MD](https://github.com/P2019218/_gallery/blob/6d0f86d95b33e8df84ffab3c695e202c8e1f13ad/Microsoft-Kaizala.md)| 
- |images Kaizala|[THUMB](https://github.com/P2019218/images/blob/master/Microsoft-Kaizala-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/Microsoft-Kaizala.png)|
- |_gallery Office|[OFFICE.MD](https://github.com/P2019218/_gallery/blob/6d0f86d95b33e8df84ffab3c695e202c8e1f13ad/office365.md)|
- |images Office|[THUMB](https://github.com/P2019218/images/blob/master/office365-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/office365.png)|
+| Περιγραφή | Repository Link |Netlify|
+ | --- | --- | --- |
+ |_gallery Kali|[Kali.MD](https://github.com/P2019218/_gallery/blob/master/Kali-Kde.md)||
+ |images Kali|[THUMB](https://github.com/P2019218/images/blob/master/Kali-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/Kali-Kde.png)|[netlify](https://2019218.netlify.app/gallery/kali-kde/)
+ |_gallery Metasploit|[metasploit.MD](https://github.com/P2019218/_gallery/blob/master/metasploit.md)||
+ |images Metasploit|[THUMB](https://github.com/P2019218/images/blob/master/metasploit-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/metasploit.png)|[netlify](https://2019218.netlify.app/gallery/metasploit/)|
  
  
  
