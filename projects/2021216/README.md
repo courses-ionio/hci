@@ -15,7 +15,8 @@ Github link: [Stergioulas](https://github.com/Stergioulas)
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [ΣΥΖΗΤΗΣΗ],  [link της ομάδας](https://github.com/team-132) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) | [Neofetch asciinema video link](https://asciinema.org/a/cuwbdy1a4QtysLQlpghabyM5n) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | Apple Watch Images [image link 1](https://github.com/team-132/images/blob/master/apple-watch-series-4.png)
+[image link 2](https://github.com/team-132/images/blob/master/apple-watch-series-4-thumb.png)| [Gallery link ]( |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [getnews](https://asciinema.org/a/b7LUatu3el5xDOh5tMuiQxM2p) | [wttr](https://asciinema.org/a/2Wuin4jRnaue0mcLNc9QGMe9d) |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
