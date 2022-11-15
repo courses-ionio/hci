@@ -19,7 +19,7 @@ Github link: [Stergioulas](https://github.com/Stergioulas)
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [getnews](https://asciinema.org/a/b7LUatu3el5xDOh5tMuiQxM2p) | [wttr](https://asciinema.org/a/2Wuin4jRnaue0mcLNc9QGMe9d) |
 | 5 | Συμμετοχικό περιεχόμενο A2 | [Apple Watch Slides](https://github.com/team-132/site/blob/master/slides/apple-watch.md), [Apple Watch Timeline](https://github.com/team-132/site/blob/master/timeline/apple-watch.md) | [Xbox One Slides](https://github.com/team-132/site/tree/master/slides), [Xbox One Timeline](https://github.com/team-132/site/tree/master/timeline) |
 | 6 | Κατασκευή του βιβλίου Α | [Filter](https://github.com/Stergioulas/kallipos/blob/master/filter.lua), [Contribution]( https://github.com/mibook/kallipos/compare/master...Stergioulas:kallipos:patch-1?short_path=e3c039b#diff-e3c039b423359aede3fd27969f3a130bd66f9ac4d536398f7526c38a756874d0), [Make-Latex](https://github.com/Stergioulas/kallipos/blob/master/make-latex.sh) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 |  | |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Case Study about interactions in VR](https://github.com/team-132/site/blob/master/_case-study/videogames-interactions-vr.md) | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
