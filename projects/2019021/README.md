@@ -33,6 +33,7 @@
 Σε αυτο το παραδοτεο επρεπε να συνεισφερω στην [ιστοσελιδα του βιβλιου του μαθηματος](https://github.com/StavroulaAnatolaki/site).Η συνεισφορα μου περιειχε δυο εικονες με περιεχομενο. Πρωτον εκανα φορκ τα απαραιτητα αποθητηρια(site/_gallery/images) απο τον οργανισμο της ομαδας μου. Μετα χρησιμοποιωντας το netlify εκανα ενα αντιγραφο της ιστοσελιδας. Τελος με τη χρηση γραμμης εντολων, προσθεσα τις εικονες και το περιεχομενο τους σε αυτο το αντιγραφο.
   
  |gallery|images|thumbnail|
+ | --- | --- | --- |
  |[link](https://aesthetic-kheer-623587.netlify.app/gallery/fireos/)|[link](https://github.com/StavroulaAnatolaki/images/blob/master/fireos.jpg)|[link](https://github.com/StavroulaAnatolaki/images/blob/master/fireosthumb.jpg)|         
              
  
