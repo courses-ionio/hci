@@ -100,3 +100,15 @@
 |[![image](https://user-images.githubusercontent.com/45509916/201990905-2cb501df-e1a6-4da3-ab73-ea83eaeead5e.png)](https://master--voltmaister-site1.netlify.app/biography/dan-fylstra/)|
 
 </div>
+
+# Παραδοτέο 10
+
+---
+
+# Παραδοτέο 11
+
+---
+
+# Παραδοτέο 12
+
+---
