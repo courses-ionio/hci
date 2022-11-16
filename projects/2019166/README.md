@@ -44,7 +44,7 @@ Links Asciinema:
  :point_right:[Journalctl](https://asciinema.org/a/6qMF7ri9MvWPfMDCkcv3zvvQp)
  
  
-# <h2>Συμετοχικό Περιεχόμενο Α1</h2>
+# <h2>Συμμετοχικό Περιεχόμενο Α1</h2>
 
  Σε αυτό το παραδοτέο επέλεξα να προσθέσω στο site της ομάδας μου, δύο κονσόλες, το "Playstasion 1" και το "Playstasion Vita". Αυτές οι κονσόλες έχουν χρόνια που έχουν κυκλοφορήσει και πλέον έχει αποσυρθεί η πώληση τους, γιατί έχουν κυκλοφορήσει επόμενες κονσόλες, με διάφορες τροποποιήσεις. Πριν προσθέσω τις κονσόλες στο site της ομάδας μου, έκανα πρώτα ένα [test branch](https://github.com/olumpiaalexopoulou/site/tree/2019166) για να μπορέσω να ελέγξω πως λειτουργούν όλα σωστά και μετά τα έκανα pull request στο [site](https://github.com/Oroseira/site) της ομάδας μου.
 
@@ -75,7 +75,7 @@ Link Asciinema:
  :point_right:[Weather](https://asciinema.org/a/dEtTxscVD6iNem91hMjJFXV9h)
  
  
-# <h2>Συμετοχικό Περιεχόμενο Α2</h2>
+# <h2>Συμμετοχικό Περιεχόμενο Α2</h2>
 
  Σε αυτό το παραδοτέο ότι προσθήκη έκανα στο Συμμετοχικό Περιεχόμενο Α1 τα πρόσθεσα στις ενότητες [timeline_consoles](https://oroseira2022.netlify.app/timeline/consoles/) και στο [slides_technology](https://oroseira2022.netlify.app/slides/technology/). Εννοείται πως και σε αυτό το παραδοτέο πριν τα προσθέσω στης ομάδας το site, τα έκανα στο δικό μου test branch για να δω πως δουλεύουν σωστά, [test timeline consoles](https://sensational-sunflower-9ad869.netlify.app/timeline/consoles/) και [test slides technology](https://sensational-sunflower-9ad869.netlify.app/slides/technology/).
 
