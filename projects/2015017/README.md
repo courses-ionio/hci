@@ -71,3 +71,5 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
 ### To screenshot με το περιεχόμενο που πρόσθεσα: 
 ![2022-11-16-185413_384x216_scrot-thumb](https://user-images.githubusercontent.com/22730488/202246850-4b19979b-b6d9-428c-b01f-a7e9f1cfc734.png)
 
+<h2>ΠΑΡΑΔΟΤΕΟ 7</h2>
+https://github.com/p15kara/site/blob/master/_case-study/Informatics.md
