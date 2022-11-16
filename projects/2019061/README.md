@@ -65,6 +65,12 @@ e-mail: p19tila@ionio.gr <br/>
 
 [![asciicast](https://asciinema.org/a/97yD6hj5E2TEyZc3UsMfYSpUy.svg)](https://asciinema.org/a/97yD6hj5E2TEyZc3UsMfYSpUy)
 
+<h1 align="center">Συμμετοχικό περιεχόμενο A1</h1>
+
+<p>Στο συγκεκριμένο παραδοτέο πρόσθεσα στην ιστοσελίδα της [ομάδας](https://github.com/Oroseira) μου τα παρακάτω: </p>
+<br/>
+<p>
+  
 <h1 align="center">Βίντεο Κουίζ </h1>
 
 |🔳| Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
