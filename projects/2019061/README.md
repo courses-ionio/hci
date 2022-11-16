@@ -12,7 +12,7 @@ e-mail: p19tila@ionio.gr <br/>
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1005) :link: </h4>| |
 | 2 | Άσκηση γραμμής εντολών (linux install) |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1263) :link: </h4>| |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1638) :link: </h4>| |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1515) :link: </h4>| |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -66,10 +66,32 @@ e-mail: p19tila@ionio.gr <br/>
 [![asciicast](https://asciinema.org/a/97yD6hj5E2TEyZc3UsMfYSpUy.svg)](https://asciinema.org/a/97yD6hj5E2TEyZc3UsMfYSpUy)
 
 <h1 align="center">Συμμετοχικό περιεχόμενο A1</h1>
-
-Στο συγκεκριμένο παραδοτέο πρόσθεσα στην ιστοσελίδα της [ομάδας](https://github.com/Oroseira) μου τα παρακάτω:
 <br/>
-<p>
+
+Στο συγκεκριμένο παραδοτέο πρόσθεσα στην ιστοσελίδα της ομάδας μου τα παρακάτω:
+<br/>
+<br/>
+1η προσθήκη: [Sony Walkman](https://oroseira2022.netlify.app/gallery/walkman/)
+<br/>
+2η προσθήκη: [Sony Discman](https://oroseira2022.netlify.app/gallery/discman/)
+<br/>
+<br/>
+Δημιούργησα ένα [test fork](https://github.com/tilav/site) και ένα [test branch](https://github.com/tilav/site/tree/2019061) για να ελέγξω τη λειτουργία της [ιστοσελίδας μου](https://boisterous-tartufo-a017e1.netlify.app/) πριν κάνω Pull Request στην ομάδα μου.
+<br/>
+<br/>
+<br/>
+Τα Pull Request προς την ομάδα:
+<br/>
+🔹 [site](https://github.com/Oroseira/site/pull/3)
+<br/>
+🔹 [_gallery](https://github.com/Oroseira/_gallery/pull/2)
+<br/>
+🔹 [images](https://github.com/Oroseira/images/pull/2)
+<br/>
+<br/>
+Η ιστοσελίδα της ομάδας μου -> [Oroseira site](https://oroseira2022.netlify.app/)
+
+
   
 <h1 align="center">Βίντεο Κουίζ </h1>
 
