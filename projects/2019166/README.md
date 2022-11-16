@@ -77,7 +77,7 @@ Link Asciinema:
  
 # <h2>Συμετοχικό Περιεχόμενο Α2</h2>
 
- Σε αυτό το παραδοτέο ότι προσθήκη έκανα στο Συμμετοχικό Περιεχόμενο Α1 τα πρόσθεσα στις ενότητες [timeline_consoles](https://oroseira2022.netlify.app/timeline/consoles/) και στο [slides_technology](https://oroseira2022.netlify.app/slides/technology/). Εννοείται πως και σε αυτό το παραδοτέο πριν τα προσθέσω στης ομάδας το site, τα έκανα στο δικό μου test branch για να δω πως δουλεύουν σωστά, [test timeline consoles](https://sensational-sunflower-9ad869.netlify.app/timeline/consoles/) και [test slide technology](https://sensational-sunflower-9ad869.netlify.app/slides/technology/).
+ Σε αυτό το παραδοτέο ότι προσθήκη έκανα στο Συμμετοχικό Περιεχόμενο Α1 τα πρόσθεσα στις ενότητες [timeline_consoles](https://oroseira2022.netlify.app/timeline/consoles/) και στο [slides_technology](https://oroseira2022.netlify.app/slides/technology/). Εννοείται πως και σε αυτό το παραδοτέο πριν τα προσθέσω στης ομάδας το site, τα έκανα στο δικό μου test branch για να δω πως δουλεύουν σωστά, [test timeline consoles](https://sensational-sunflower-9ad869.netlify.app/timeline/consoles/) και [test slides technology](https://sensational-sunflower-9ad869.netlify.app/slides/technology/).
 
 Όλα φαίνονται έτσι όπως είναι στις εικόνες παρακάτω :
 
