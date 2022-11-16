@@ -12,7 +12,7 @@
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1321)|Επιτυχής ολοκλήρωση όλων των ζητούμενων του παραδοτέου|
 | 5 | Συμμετοχικό περιεχόμενο A2 | [Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1499) | Μερική ολοκλήρωση των ζητούμενωνν του παραδοτέου.Υπάρχει κάποιο αδιευκρίνιστο μέχρι στιγμής πρόβλημα στην φόρτωση των thump εικόνων|
 | 6 | Κατασκευή του βιβλίου Α | [Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1622)| Ολοκλήρωση των ζητούμενων του παραδοτέου |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1642) | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -79,4 +79,6 @@ Netlify:
 - [Filter](https://github.com/MarAkar98/kallipos/blob/master/comment.lua)
 - [Make Latex](https://github.com/MarAkar98/kallipos/blob/master/make-latex.sh)
 
- 
+# Παραδοτέο 7
+- [_case-study](https://github.com/MarAkar98/site/blob/master/_case-study/hp-150.md)
+- [_includes](https://github.com/MarAkar98/site/blob/master/_includes/cs-hp-150.md)
