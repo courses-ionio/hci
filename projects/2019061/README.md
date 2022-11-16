@@ -129,3 +129,5 @@ e-mail: p19tila@ionio.gr <br/>
 | 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories |<p align = "center">✅</p>|<p align = "center">✅</p>|
 | 3 | Xerox Star User Interface (1982) 1 of 2 |<p align = "center">✅</p>|<p align = "center">✅</p>|
 | 4 | Alto System Project: Larry Tesler demonstration of Gypsy |<p align = "center">✅</p>|<p align = "center">✅</p>|
+| 5 | Alan Kay: Doing with Images Makes Symbols (Full Version) |<p align = "center">✅</p>|<p align = "center">✅</p>|
+| 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 |<p align = "center">✅</p>|<p align = "center">✅</p>|
