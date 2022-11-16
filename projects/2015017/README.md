@@ -13,7 +13,7 @@ https://p15kara.netlify.app/
 | 3 | Συμμετοχικό περιεχόμενο A1 |https://github.com/courses-ionio/help/discussions/1245 | |
 | 4 | Άσκηση γραμμής εντολών | warm up cli  https://asciinema.org/a/IK3dnbIEy3CqAGM4ucEP2knCj  | |
 | 5 | Συμμετοχικό περιεχόμενο A2 |https://github.com/courses-ionio/help/discussions/1442 | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α | https://github.com/courses-ionio/help/discussions/1637| |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
@@ -68,4 +68,4 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
 [book pdf](https://github.com/p15kara/kallipos/blob/master/book/book_compressed.pdf)
 [md file](https://github.com/p15kara/kallipos/blob/master/folder/to_mouse.md)
 [link screenshot](https://github.com/p15kara/kallipos/blob/master/myPictures/2022-11-16-185413_384x216_scrot-thumb.png)
-## [H ANAFORA MOU ](https://github.com/p15kara/hci/tree/2015017/projects/2015017)
+
