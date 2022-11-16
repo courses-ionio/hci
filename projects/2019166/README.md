@@ -12,7 +12,7 @@ https://github.com/olumpiaalexopoulou/site
 | 2 | Άσκηση γραμμής εντολών(linux install) | [My link](https://github.com/courses-ionio/help/discussions/1175) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[My link](https://github.com/courses-ionio/help/discussions/1618) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [My link](https://github.com/courses-ionio/help/discussions/1332) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 | [My link](https://github.com/courses-ionio/help/discussions/1632) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -44,16 +44,54 @@ Links Asciinema:
  :point_right:[Journalctl](https://asciinema.org/a/6qMF7ri9MvWPfMDCkcv3zvvQp)
  
  
- 
+# <h2>Συμετοχικό Περιεχόμενο Α1</h2>
+
+ Σε αυτό το παραδοτέο επέλεξα να προσθέσω στο site της ομάδας μου, δύο κονσόλες, το "Playstasion 1" και το "Playstasion Vita". Αυτές οι κονσόλες έχουν χρόνια που έχουν κυκλοφορήσει και πλέον έχει αποσυρθεί η πώληση τους, γιατί έχουν κυκλοφορήσει επόμενες κονσόλες, με διάφορες τροποποιήσεις. Πριν προσθέσω τις κονσόλες στο site της ομάδας μου, έκανα πρώτα ένα [test branch](https://github.com/olumpiaalexopoulou/site/tree/2019166) για να μπορέσω να ελέγξω πως λειτουργούν όλα σωστά και μετά τα έκανα pull request στο [site](https://github.com/Oroseira/site) της ομάδας μου.
+
+Sites :
+ - [My test site](https://sensational-sunflower-9ad869.netlify.app/)
+ - [Site Oroseiras](https://oroseira2022.netlify.app/)
+
+Προσθήκες κονσόλας : 
+ - [Playstasion 1](https://oroseira2022.netlify.app/gallery/ps1/)
+ - [Playstasion Vita](https://oroseira2022.netlify.app/gallery/psvita/)
+
+Pull requests :
+ - [Site](https://github.com/Oroseira/site/pull/5) 
+ - [Gallery](https://github.com/Oroseira/_gallery/pull/4)
+ - [Images](https://github.com/Oroseira/images/pull/5)
+
+
 # <h2>Άσκηση γραμμής εντολών (warm up)</h2>
+
 
  Σε αυτό το παραδοτέο προσπάθησα να εξασκηθώ στο καινούργιο λειτουργικό σύστημα.Σε αυτό το λειτουργικό δεν είχα ξανά χρειαστεί να ασχοληθώ αλλά όσο περνάνε τα παραδοτέα μαθαίνω και περισσότερα πράγματα.Ετσί αποφάσισα να χρησιμοποιήσω το curl, το οποίο χρειάστηκε να το εγκαταστήσω, και το wttr.in ,το οποίο για κάποιες μέρες δεν λειτουργούσε αλλά το πρόβλημα διορθώθηκε πριν την λήξη του παραδοτέου.Με αυτές τις δύο εντολές μπόρεσα και εμφάνισα στο τερματικό τον καιρό στην Κέρκυρα και στην Κοζάνη. Όπως φαίνεται παρακάτω:
  
  [![asciicast](https://asciinema.org/a/dEtTxscVD6iNem91hMjJFXV9h.svg)](https://asciinema.org/a/dEtTxscVD6iNem91hMjJFXV9h)
+
  
 Link Asciinema:
 
  :point_right:[Weather](https://asciinema.org/a/dEtTxscVD6iNem91hMjJFXV9h)
+ 
+ 
+# <h2>Συμετοχικό Περιεχόμενο Α2</h2>
+
+ Σε αυτό το παραδοτέο ότι προσθήκη έκανα στο Συμμετοχικό Περιεχόμενο Α1 τα πρόσθεσα στις ενότητες [timeline_consoles](https://oroseira2022.netlify.app/timeline/consoles/) και στο [slides_technology](https://oroseira2022.netlify.app/slides/technology/). Εννοείται πως και σε αυτό το παραδοτέο πριν τα προσθέσω στης ομάδας το site, τα έκανα στο δικό μου test branch για να δω πως δουλεύουν σωστά, [test timeline consoles](https://sensational-sunflower-9ad869.netlify.app/timeline/consoles/) και [test slide technology](https://sensational-sunflower-9ad869.netlify.app/slides/technology/).
+
+Όλα φαίνονται έτσι όπως είναι στις εικόνες παρακάτω :
+
+![ps1timeline](https://user-images.githubusercontent.com/72515404/202169240-db61df8e-d2c5-4c58-bbde-678e0350db75.png)
+![psvitatimeline](https://user-images.githubusercontent.com/72515404/202169260-ba36e734-120f-4bbd-ba96-e0ae32554fb8.png)
+![technology](https://user-images.githubusercontent.com/72515404/202169287-4f82067a-436b-4e30-be91-6a0aaffb8bc5.png)
+
+Προσθήκες κονσόλας : 
+ - [Προσθήκες στο χρονολόγιο](https://oroseira2022.netlify.app/timeline/)
+ - [Προσθήκες στην τεχνολογία](https://oroseira2022.netlify.app/slides/technology/)
+
+Pull request :
+ - [Site](https://github.com/Oroseira/site/pull/6)
+
 
 # <h2 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h2>
 
