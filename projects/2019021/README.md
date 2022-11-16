@@ -7,7 +7,7 @@
 | Εβδομάδα | Παραδοτέα  | Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
 | 1 | Εισαγωγή |  [link](https://github.com/courses-ionio/help/discussions/817)  | Επιτυχής ολοκλήρωση | 
-| 2 | Άσκηση γραμμής εντολών |  [link]  |Επιτυχής ολοκλήρωση| 
+| 2 | Άσκηση γραμμής εντολών |  [link](https://github.com/courses-ionio/help/discussions/1059)  |Επιτυχής ολοκλήρωση| 
 | 3 | Συμμετοχικό περιεχόμενο A1 |  [link](https://github.com/courses-ionio/help/discussions/1402)  |Επιτυχής ολοκλήρωση | 
 | 4 | Άσκηση γραμμής εντολών |  [link](https://github.com/courses-ionio/help/discussions/1627)  | Επιτυχής ολοκλήρωση| 
 | 5 | Συμμετοχικό περιεχόμενο A2 |  [link](https://github.com/courses-ionio/help/discussions/1629)  |Επιτυχής ολοκλήρωση | 
