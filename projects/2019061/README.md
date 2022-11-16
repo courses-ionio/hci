@@ -14,7 +14,7 @@ e-mail: p19tila@ionio.gr <br/>
 | 2 | Άσκηση γραμμής εντολών (linux install) |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1263) :link: </h4>| |
 | 3 | Συμμετοχικό περιεχόμενο A1 |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1638) :link: </h4>| |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1515) :link: </h4>| |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1640) :link: </h4>| |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -34,7 +34,7 @@ e-mail: p19tila@ionio.gr <br/>
 
 <br/>
 <br/>
-<h1 align="center">Άσκηση γραμμής εντολών (linux install) - Εβδομάδα 2</h1>
+<h1 align="center">Άσκηση γραμμής εντολών (linux install)</h1>
 
 <p>Σε αυτό το παραδοτέο κατάφερα να εγκαταστήσω τα Arch Linux σε usb. Έκανα τη διαδικασία πολλές φορές επειδή αντιμετώπισα αρκετά προβλήματα, τα οποία πιστεύω οτι ευθύνονται στην λιγοστή εμπειρία που έχω με τα λειτουργικά συστήματα UNIX. Δοκίμασα να κάνω την εγκατάσταση με δύο usb's αλλά τελικά κατέληξα να χρησιμοποιώ το VMware Workstation και ένα usb. Βασικό πρόβλημα της εγκατάστασης ήταν το πολύ αργό usb. Αρχικά πίστευα πως έφταιγε το γραφικό περιβάλλον (plasma) γι' αυτό δοκίμασα και το Gnome με το οποίο έκανα το Παραδοτέο. Τελικά κατέληξα στο οτι φταίει το usb 2.0 που έκανα την εγκατάσταση.</p>
 
@@ -57,14 +57,6 @@ e-mail: p19tila@ionio.gr <br/>
 <br/>
 <br/>
 <br/>
-
-<h1 align="center">Άσκηση γραμμής εντολών (warm up cli)</h1>
-
-<p>Στο συγκεκριμένο παραδοτέο παρακολούθησα τον καιρό σε δύο τοποθεσίες της Ελλάδας, Κέρκυρα και Θεσσαλονίκη. Χρησιμοποίησα την εντολή curl αφού την εγκατέστησα στο καινούριο μου λειτουργικό σύστημα και την υπηρεσία πρόγνωσης καιρού wttr.in.</p>
-<br/>
-
-[![asciicast](https://asciinema.org/a/97yD6hj5E2TEyZc3UsMfYSpUy.svg)](https://asciinema.org/a/97yD6hj5E2TEyZc3UsMfYSpUy)
-
 <h1 align="center">Συμμετοχικό περιεχόμενο A1</h1>
 <br/>
 
@@ -90,9 +82,45 @@ e-mail: p19tila@ionio.gr <br/>
 <br/>
 <br/>
 Η ιστοσελίδα της ομάδας μου -> [Oroseira site](https://oroseira2022.netlify.app/)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<h1 align="center">Άσκηση γραμμής εντολών (warm up cli)</h1>
 
+<p>Στο συγκεκριμένο παραδοτέο παρακολούθησα τον καιρό σε δύο τοποθεσίες της Ελλάδας, Κέρκυρα και Θεσσαλονίκη. Χρησιμοποίησα την εντολή curl αφού την εγκατέστησα στο καινούριο μου λειτουργικό σύστημα και την υπηρεσία πρόγνωσης καιρού wttr.in.</p>
+<br/>
 
-  
+[![asciicast](https://asciinema.org/a/97yD6hj5E2TEyZc3UsMfYSpUy.svg)](https://asciinema.org/a/97yD6hj5E2TEyZc3UsMfYSpUy)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<h1 align="center">Συμμετοχικό περιεχόμενο A2</h1>
+<br/>
+Για αυτό το παραδοτέο πρόσθεσα το Sony Walkman και το Sony Discman στο Χρονολόγιο και στις Διαφάνειες της ιστοσελίδας της ομάδας μου, με βάση τις κατηγορίες που κατατάσσονται. Παρακάτω φαίνονται οι προσθήκες μου:
+<br/>
+<br/>
+🔹 Χρονολόγιο:
+<br/>
+
+[Sony Walkman - Wearable](https://oroseira2022.netlify.app/timeline/wearable/)
+<br/>
+
+[Sony Discman - Multimedia](https://oroseira2022.netlify.app/timeline/multimedia/)
+<br/>
+<br/>
+<br/>
+🔹 Διαφάνειες:
+<br/>
+[Sony Walkman+Sony Discman - Technology](https://oroseira2022.netlify.app/slides/technology/)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <h1 align="center">Βίντεο Κουίζ </h1>
 
 |🔳| Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
