@@ -25,9 +25,9 @@ neofetch, journalctl -b
 
 [Pull Request images](https://github.com/ContattoContare/images/pull/3)
 
-[Norton Desktop Netlify](https://gentle-kitsune-a544f4.netlify.app/gallery/nortondesktop/)
+[Norton Desktop Netlify](https://famous-faun-a7c70a.netlify.app/gallery/nortondesktop/)
 
-[Pubtech Netlify](https://gentle-kitsune-a544f4.netlify.app/gallery/pubtech/)
+[Pubtech Netlify](https://famous-faun-a7c70a.netlify.app/gallery/pubtech/)
 
 [Discussion Link](https://github.com/courses-ionio/help/discussions/1476)
 
