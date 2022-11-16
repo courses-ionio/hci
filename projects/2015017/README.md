@@ -73,3 +73,4 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
 
 <h2>ΠΑΡΑΔΟΤΕΟ 7</h2>
 https://github.com/p15kara/site/blob/master/_case-study/Informatics.md
+https://p15kara.netlify.app/case-study/informatics/
