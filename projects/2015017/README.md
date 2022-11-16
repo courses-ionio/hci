@@ -61,4 +61,11 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
   <li>https://p15kara.netlify.app//slides/forms/</li>
   <li>https://p15kara.netlify.app//slides/output-devices/</li>
 </ul>
+<h2>ΠΑΡΑΔΟΤΕΟ 6</h2>
 
+![2022-11-16-185413_384x216_scrot-thumb](https://user-images.githubusercontent.com/22730488/202246850-4b19979b-b6d9-428c-b01f-a7e9f1cfc734.png)
+[myfile.lua](https://github.com/p15kara/kallipos/blob/master/myfile.lua)
+[book pdf](https://github.com/p15kara/kallipos/blob/master/book/book_compressed.pdf)
+[md file](https://github.com/p15kara/kallipos/blob/master/folder/to_mouse.md)
+[link screenshot](https://github.com/p15kara/kallipos/blob/master/myPictures/2022-11-16-185413_384x216_scrot-thumb.png)
+## [H ANAFORA MOU ](https://github.com/p15kara/hci/tree/2015017/projects/2015017)
