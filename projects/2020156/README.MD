@@ -3,6 +3,7 @@
 ### A.M. Π2020156
 ### Email:p20stam1@ionio.gr
 ### Github:https://github.com/P2020156
+### Organization:https://github.com/WhatColorIsYourBugatti
 
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
