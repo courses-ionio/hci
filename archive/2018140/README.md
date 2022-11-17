@@ -32,6 +32,7 @@
 
 Ο στόχος μου για το μάθημα είναι να καταφέρω να γνωρίσω πως μπορούμε να επιτύχουμε την σωστή επικοινωνία ανάμεσα στον άνθρωπο και τον υπολογιστή.Αυτή η <<σχέση>> πιστεύω  χρόνο με τον χρόνο όλο και γίνεται εντονότερη με την ραγδαία ανάπτυξη της τεχνολογίας και θα ήθελα μέσω του συγκεριμένου μαθήματος να έρθω σε επαφή με διάφορες απο τις λειτουργίες της και να καταφέρω να δημιουργήσω και εγω κάτι ανάλογο .Επίσης , θεωρώ ότι μέσω του συγκεκριμένου μαθήματος και των εργαλίων που θα χρησιμοποιήσω θα με βοηθήσουν σημαντικά στην ανάπτυξη και εξιδίκευση  των δεξιοτήτων μου για το μέλλον .
 
+
 ## ΠΑΡΑΔΟΤΕΟ 2 - Neofetch
 Αρχικά, εγκατέστησα το arch linux σε VM (θα προσπαθήσω να το εγκαταστήσω και κανονικά).Το πρώτο πράγμα που έκανα ήταν να δημιουργήσω τον user μου ( add user) ,  εν συνεχειάι  εγκατέστησα το neofetch με την εντολη pacman και με τον ίδιο τρόπο εγκατέστησα και το asciinema για να τραβήξω το βιντεάκι που μας ζητήθηκε .
 
@@ -48,7 +49,10 @@ nintendo.jpg --- nintendo-thumb.jpg
 <a href="https://github.com/Millennials-2/images/compare/master...TZOYRMANAS:images:master?short_path=12029b0#diff-12029b02586c56f1e5dd0b57aafdea8dad62abcbc96d708205e0881dd71b5fda">images</a>
 
 ### Netlify 
-<a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a>--<a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a> 
+<a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a>--<a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a>
+
+
+-<a href="https://github.com/courses-ionio/help/discussions/1648">discussion</a>
 
 ## ΠΑΡΑΔΟΤΕΟ 4 - Άσκηση γραμμής εντολών (Εγκατάσταση arch linux)
 Στο συγκεκριμένο παραδοτέο έπρεπε να επιλέξουμε μερικές εντολές απο το warm up cli που βρίσκεται στις οδηγίες του μαθήματος και να τις πραγματοποιήσουμε στο arch linux σε πραγματικό κόσμο .
@@ -60,6 +64,10 @@ nintendo.jpg --- nintendo-thumb.jpg
 
 -<a href="https://asciinema.org/a/Pl2NBtaZYKYxUYJRcZ7WTiSW0">jrnl</a>
 
+
+-<a href="https://github.com/courses-ionio/help/discussions/1649">discussion</a>
+
+
 ## ΠΑΡΑΔΟΤΕΟ 5 - Συμμετοχικό περιεχόμενο Α2
 Πρόσθεσα τις εικόνες που χρησιμοποίσημα στο Παραδοτέο 3 σε σετ διαφανειών που δημιουργησά  .
 # Skype :
@@ -70,4 +78,5 @@ nintendo.jpg --- nintendo-thumb.jpg
 
 ### Timeline : <a href="https://p18tzou.netlify.app/timeline/socialmedia/">timeline</a>
 
+-<a href="https://github.com/courses-ionio/help/discussions/1650">discussion</a>
 
