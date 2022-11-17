@@ -80,3 +80,6 @@ nintendo.jpg --- nintendo-thumb.jpg
 
 -<a href="https://github.com/courses-ionio/help/discussions/1650">discussion</a>
 
+
+## ΠΑΡΑΔΟΤΕΟ 6 - Κατασκευή του βιβλίου Α
+
