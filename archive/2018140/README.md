@@ -14,8 +14,7 @@
 | --- | --- | --- |
 | 1 | [Φορκ ,σελίδα της αναφοράς με τα προσωπικά στοιχεία σας,  περιγραφή των αναγκών και των στόχων σας για το μάθημα](#παραδοτεο-1---εισαγωγή) | Ήταν ενδιαφέρουσα  και ταυτόχρονα  μία πρωτόγνωρη εμπειρία για μένα ,καθώς δεν είχα ξανά επεξεργαστεί παρόμειες εφαρμογές.Γνώρισα τις βασικές διαδικασίες της εφαρμογής όπως για παράδειγμα fork κλπ. Κατανόησα επίσης τους στόχους του μάθηματος  και την επικοινωνία που μπορεί να αποκτήσει ο άνθρωπός με τον υπολογιστή .| 
 | 2 | [Άσκηση γραμμής εντολών](#παραδοτεο-2---περιγραφή-εγκατάστασης-arch-linux) |Για αρχή εγκατήστησα το arch linux σε VM(θα προσπαθήσω το επόμενο χρονικό διάστημα να το εγκαταστήσω στον υπολογιστή μου ) και εκτέλεσα με επιτυχιά την εντολή [neofetch](https://asciinema.org/~p18tzou) .   |
-| 3 | [Συμμετοχικό περιεχόμενο Α1](#παραδοτεο-3---post-installation-arch-linux) |
-<a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a> , <a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a> |
+| 3 | [Συμμετοχικό περιεχόμενο Α1](#παραδοτεο-3---post-installation-arch-linux) |<a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a> , <a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a> , <a href="https://github.com/TZOYRMANAS/_gallery/blob/master/social-media-skype.md">skype.md</a> ---<a href="https://github.com/TZOYRMANAS/_gallery/blob/master/nintendo.md">nintendo.md</a> ,<a href="https://github.com/Millennials-2/images/compare/master...TZOYRMANAS:images:master?short_path=12029b0#diff-12029b02586c56f1e5dd0b57aafdea8dad62abcbc96d708205e0881dd71b5fda">images</a> |
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4---συμμετοχικό-περιεχόμενο-α1) | Εγκατάσταση arch linux σε πραγματικο κόσμο. <a href="https://asciinema.org/a/DC9uTGuO14D3AryaXY0wiOkyr">weather</a> ,<a href="https://asciinema.org/a/Pl2NBtaZYKYxUYJRcZ7WTiSW0">jrnl</a>|
 | 5 | [Συμμετοχικό περιεχόμενο Α2](#παραδοτεο-5---warm-up-άσκηση-γραμμής-εντολών-1) |<a href="https://p18tzou.netlify.app/timeline/socialmedia/">timeline</a> , <a href="https://p18tzou.netlify.app/slides/socialmedia/">slides_skype</a> , <a href="https://p18tzou.netlify.app/slides/videogames/">slides_nintendo</a>|
 | 6 | [Κατασκευή του βιβλίου Α](#παραδοτεο-6---συμμετοχικό-περιεχόμενο-α2) |  |
@@ -26,7 +25,7 @@
 | 11 | [Άσκηση γραμμής εντολών](#παραδοτεο-11---δεύτερη-άσκηση-γραμμής-εντολών) | |
 | 12 | [Τελική αναφορά (συμπέρασμα) και αίτημα ενσωμάτωσης για βαθμολόγηση](#παραδοτεο-12---συμπέρασμα) | |
 | 13 | [Ομαδικότητα και Συνεργασία](#ομαδικότητα-και-συνεργασία) | |
-Chttps://www.w3schools.com">Visit W3Schools</a> 
+
 
 
 ## ΠΑΡΑΔΟΤΕΟ 1 - Εισαγωγή
@@ -44,8 +43,9 @@ Chttps://www.w3schools.com">Visit W3Schools</a>
 ### gallery
 <a href="https://github.com/TZOYRMANAS/_gallery/blob/master/social-media-skype.md">skype.md</a> ---<a href="https://github.com/TZOYRMANAS/_gallery/blob/master/nintendo.md">nintendo.md</a>
 ### images
-skype-logo-open-graph.png --- skype-logo-open-graph-thumb.png 
+skype-logo-open-graph.png --- skype-logo-open-graph-thumb.png ,
 nintendo.jpg --- nintendo-thumb.jpg
+<a href="https://github.com/Millennials-2/images/compare/master...TZOYRMANAS:images:master?short_path=12029b0#diff-12029b02586c56f1e5dd0b57aafdea8dad62abcbc96d708205e0881dd71b5fda">images</a>
 
 ### Netlify 
 <a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a>--<a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a> 
