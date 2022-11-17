@@ -72,7 +72,7 @@ e-mail: p19tila@ionio.gr <br/>
 <br/>
 <br/>
 <br/>
-Τα Pull Request προς την ομάδα:
+Τα Pull Request προς την ομάδα μου:
 <br/>
 🔹 [site](https://github.com/Oroseira/site/pull/3)
 <br/>
