@@ -268,3 +268,15 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 ![Screenshot_2022-11-17_18-55-08](https://user-images.githubusercontent.com/33377581/202479631-194bcb19-c04a-48fe-b5a6-51eb81ced7f7.jpg)
 
+## Βήμα #9: <ins> Recompiling the Book With the Same Procedure </ins>
+
+Στο παραπάνω βήμα, εφόσον ολοκλήρωσα τις αλλαγές μου, έπρεπε να ενημερώσω το ήδη υπάρχον βιβλίο, εκτελώντας ξανά την ίδια εντολή `./make-latex.sh` μέσα από το τερματικό προκειμένου να εκκινήσω το scriptάκι `make-latex.sh`. Μόλις ολοκληρώθηκε το compilation, προέκυψε το βιβλίο σε μορφή (.tex), σε μορφή (.pdf) και στην μορφή (.epub). 
+
+![Screenshot_2022-11-17_19-00-12](https://user-images.githubusercontent.com/33377581/202480949-f93d304b-b631-4006-bfdc-05aafad58bce.jpg)
+
+## Βήμα #10: <ins> Displaying My Personal Contribution From Inside the PDF Book </ins>
+
+Μόλις ολοκληρώθηκε και το τελευταίο compilation από το τερματικό, άνοιξα το αρχείο `book.pdf`, έτρεξα στην `ενότητα 6` και στην συνέχεια στην υποενότητα `6.3 Μέσο Επικοινωνίας` προκειμένου να παρατηρήσω την προσωπική μου "πινελιά" στο συγκεκριμένο βιβλίο.
+
+![Picture-of-my-contribution](https://user-images.githubusercontent.com/33377581/202481931-6a39709c-3246-4e74-918d-9eb8687ad160.jpg)
+
