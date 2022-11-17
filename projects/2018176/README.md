@@ -47,6 +47,14 @@ neofetch, journalctl -b
 
 [Discussions Link](https://github.com/courses-ionio/help/discussions/1309)
 
+## Παραδοτέο 5
+Έγινε προσθήκη κατάλληλου md αρχείου στο Timeline και Slides με θεματικό κέντρο Windows shells που προσφέρουν διάδραση που μοιάζει με Macintosh.
+[Netlify timeline](https://famous-faun-a7c70a.netlify.app/timeline/macintosh-windows-shells/)
+[Netlify slides](https://famous-faun-a7c70a.netlify.app/slides/macintosh-windows-shells/)
+[Pull request](https://github.com/ContattoContare/site/pull/15)
+
+
+
 ## Παραδοτέο 6
 Σε αυτό το παραδοτέο έγινε η προσθήκη υποσημείωσης το βιβλίο του μαθήματος μέσω κατάλληλων αλλαγών στο make-latex.sh, δημιουργία απαραίτητων φακέλων στο repository, χρησιμοποιώντας το comment.lua σαν φίλτρο .
 [Το βιβλίο σε pdf με την σημείωση](https://github.com/p18balt/kallipos/blob/master/book/book1.pdf)
