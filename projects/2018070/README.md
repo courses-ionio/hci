@@ -104,6 +104,7 @@
 - [Notion Software](https://en.wikipedia.org/wiki/Notion_(productivity_software))
 - [Notion Labs](https://system.privco.com/company/notion-labs)
 - [Notion app](https://www.theverge.com/2018/6/7/17434754/notion-android-app-notes-productivity-review)
+- [case_study](https://deploy-preview-10--moonlit-rugelach-17f284.netlify.app/case-study/)
 
 # Video Quiz:
 Έχουν ολοκληρωθεί μέχρι στιγμής: 7/7
