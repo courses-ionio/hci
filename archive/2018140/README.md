@@ -38,6 +38,9 @@ Chttps://www.w3schools.com">Visit W3Schools</a>
 [neofetch](https://asciinema.org/~p18tzou)
 
 ## ΠΑΡΑΔΟΤΕΟ 3 - Συμμετοχικό περιεχόμενο Α1
+Στο συγκεριμένο παραδοτέο πρόσθεσα δύο εικόνεςς με ελεύθερα δικαιωματα στο Site μου.Αρχικά , έκανα Fork στο site και δημιούργησα δύo αρχεία .md στο repo_gallery,πρόσθεσα 2 σετ εικόνων στο repo-images ,ώστε να προσθέσω τις λεζάντες και τις φωτογραφίες.Στην συνέχεια μέσω του τερματικού εκτέλεσα τις εντολές που είχε στειλεί ένας συμφητητής μου στις συζητήσεις του μαθήματος .Μέτα πραγματοποίησα το deploy στο Netlify.
+Τα αρχέια που πρόσθεσα στο site μου πιο αναλυτικά :
+
 <a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a> , <a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a> 
 
 ## ΠΑΡΑΔΟΤΕΟ 4 - Άσκηση γραμμής εντολών (Εγκατάσταση arch linux)
