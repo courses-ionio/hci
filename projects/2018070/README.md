@@ -96,7 +96,7 @@
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
 - [Pull Request προς τον οργανισμό της ομάδας - case study](https://github.com/The4Beasts/site/pull/10)
-- [Pull Request προς τον οργανισμό της ομάδας - image]()
+- [Pull Request προς τον οργανισμό της ομάδας - image](https://github.com/The4Beasts/images/pull/5)
 - [Οργανισμός ομάδας](https://github.com/The4Beasts)
 
 <p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
