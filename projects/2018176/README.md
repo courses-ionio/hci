@@ -52,7 +52,7 @@ neofetch, journalctl -b
 [Netlify timeline](https://famous-faun-a7c70a.netlify.app/timeline/macintosh-windows-shells/)
 [Netlify slides](https://famous-faun-a7c70a.netlify.app/slides/macintosh-windows-shells/)
 [Pull request](https://github.com/ContattoContare/site/pull/15)
-
+[Discussions Link](https://github.com/courses-ionio/help/discussions/1639)
 
 
 ## Παραδοτέο 6
@@ -60,7 +60,6 @@ neofetch, journalctl -b
  [Το βιβλίο σε pdf με την σημείωση](https://github.com/p18balt/kallipos/blob/master/book/book1.pdf)
 
 [Screenshot σημείωσης](https://github.com/p18balt/kallipos/blob/master/picture/Screenshot%202022-11-17%20at%2016.26.28.png)
-
 [Φίλτρο](https://github.com/p18balt/kallipos/blob/master/comment.lua)
-
 [make-latex.sh](https://github.com/p18balt/kallipos/blob/master/make-latex.sh)
+[Discussions Link](https://github.com/courses-ionio/help/discussions/1647)
