@@ -243,3 +243,10 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 ![Screenshot_2022-11-14_16-41-36](https://user-images.githubusercontent.com/33377581/201662959-71af04a4-c55f-434e-9d53-48360dcfaf1d.jpg)
 
 ## Βήμα #6: <ins> Creating the Contribution Filter (contribution.lua) & Editing the Make File (make-latex.sh)</ins>
+
+Στο παραπάνω βήμα, δημιούργησα το [φίλτρο μου](https://github.com/Greekforce1821/kallipos/blob/master/contribution.lua) προκειμένου να εισάγω το contribution μου στο βιβλίο και αντίστοιχα, πρόσθεσα στο αρχείο (.sh) το φίλτρο και ορισμένα μηνύματα, μαζί με την δημιουργία directories στο ήδη υπάρχον directory.
+
+### 1 ![Screenshot_2022-11-17_18-27-44](https://user-images.githubusercontent.com/33377581/202472703-6d42159a-0190-4a04-beb5-6bca2a82c6f3.jpg)
+
+### 2 ![Screenshot_2022-11-17_18-28-58](https://user-images.githubusercontent.com/33377581/202472951-c265a742-3f45-4ced-b488-0a3037cd6a76.jpg)
+
