@@ -13,10 +13,10 @@
  
 | Εβδομάδα | |Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](https://github.com/p20exar/hci/edit/2020231/projects/2020231/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)|[Discussions Link 1](https://github.com/courses-ionio/help/discussions/958) |Με λίγη προσπάθεια παραπάνω λόγω της ανάγκης εγκλιματισμού μου στο περιβάλλον της πλατφόρμας, το παραδοτέο ολοκληρώθηκε |
-| 2 | [Άσκηση γραμμής εντολών: Εγκατάσταση Arch Linux](https://github.com/p20exar/hci/edit/2020231/projects/2020231/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%84%CE%BF%CF%85-arch-linux) |[Discussions Link 2](https://github.com/courses-ionio/help/discussions/1131)|Πραγματοποίησα αρκετή εξάσκηση, δίνοντας πολύ χρόνο και προσοχή στη διαμέριση του δίσκου και στις διαφορές μεταξύ της εγκατάστασης σε σύστημα Bios και εκείνης σε σύστημα Uefi. Ο βηματισμός μου, αργός και σταθερός.|
+| 1 | [Εισαγωγή](https://github.com/p20exar/hci/edit/2020231/projects/2020231/README.md#%CF%80%CF%81%CE%BF%CF%83%CE%B4%CE%BF%CE%BA%CE%AF%CE%B5%CF%82-%CE%BA%CE%B1%CE%B9-%CF%83%CF%84%CF%8C%CF%87%CE%BF%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-%CE%BC%CE%AC%CE%B8%CE%B7%CE%BC%CE%B1)|[Discussions Link 1](https://github.com/courses-ionio/help/discussions/958) |Με λίγη προσπάθεια παραπάνω λόγω της ανάγκης εγκλιματισμού μου στο περιβάλλον της πλατφόρμας, το παραδοτέο ολοκληρώθηκε |
+| 2 | [Άσκηση γραμμής εντολών: Εγκατάσταση Arch Linux](https://github.com/p20exar/hci/edit/2020231/projects/2020231/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%84%CE%BF%CF%85-arch-linux)|[Discussions Link 2](https://github.com/courses-ionio/help/discussions/1131)|Πραγματοποίησα αρκετή εξάσκηση, δίνοντας πολύ χρόνο και προσοχή στη διαμέριση του δίσκου και στις διαφορές μεταξύ της εγκατάστασης σε σύστημα Bios και εκείνης σε σύστημα Uefi. Ο βηματισμός μου, αργός και σταθερός.|
 | 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/p20exar/hci/edit/2020231/projects/2020231/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1) |[Discussions Link 3](https://github.com/courses-ionio/help/discussions/1276) |Ξεπερνώντας τις δυσκολίες κατανόησης των δοθέντων οδηγιών, κατάφερα να προσθέσω 2 φωτογραφίες διαδραστικών συσκευών στο βιβλιο του μαθήματος|
-| 4 | [Άσκηση γραμμής εντολών (warm up cli)](https://github.com/p20exar/hci/edit/2020231/projects/2020231/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-warm-up-cli) |[Discussions Link 4](https://github.com/courses-ionio/help/discussions/1392)|Η συγκεκριμένη άσκηση δεν με δυσκόλεψε, αφου αποτελεί μια από τις πιο εύκολες ασκήσεις του τερματικού, θα προσπαθήσω όμως να μελετήσω πως μπορώ να εκτελέσω και πιο σύνθετες ασκήσεις |
+| 4 | [Άσκηση γραμμής εντολών (warm up cli)](https://github.com/p20exar/hci/edit/2020231/projects/2020231/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-warm-up-cli)|[Discussions Link 4](https://github.com/courses-ionio/help/discussions/1392)|Η συγκεκριμένη άσκηση δεν με δυσκόλεψε, αφου αποτελεί μια από τις πιο εύκολες ασκήσεις του τερματικού, θα προσπαθήσω όμως να μελετήσω πως μπορώ να εκτελέσω και πιο σύνθετες ασκήσεις |
 | 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/p20exar/hci/blob/2020231/projects/2020231/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a2)|[Discussions Link 5](https://github.com/courses-ionio/help/discussions/1565)|Πραγματοποίησα την άσκηση με την εύρεση δυο διαδραστικών συσκευών που μπορούν να συνδυαστούν με συσκευές μέλους της ομάδας μου και με συσκευές που υπάρχουν ηδη στα κεφάλαια του βιβλίου.|
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -83,14 +83,19 @@ Eκτέλεση των εντολών σε Usb Flash Drive:
 Ακολουθούν οι σύνδεσμοι που εμφανίζουν τις προσθήκες μου στην ιστοσελίδα του βιβλίου και τα αιτήματα ενσωμάτωσής τους προς τον οργανισμό.  
 
 Η συνδρομή μου στο βιβλίο:  
-<br />
 
 <br />
 
-| Netlify | Pull Requests | 
-| --- | --- |
-|[dice-plus](https://lucky-llama-173f38.netlify.app/gallery/dice-plus/)| [gallery](https://github.com/Cat-a-strophe/_gallery/pull/6)| 
-|[augmented-school-desk](https://lucky-llama-173f38.netlify.app/gallery/augmented-school-desk/)| [images](https://github.com/Cat-a-strophe/images/pull/11)|
+Netlify  
+[dice-plus](https://lucky-llama-173f38.netlify.app/gallery/dice-plus/)   
+[augmented-school-desk](https://lucky-llama-173f38.netlify.app/gallery/augmented-school-desk/) 
+
+<br />
+
+Pull Requests  
+[images](https://github.com/Cat-a-strophe/images/pull/11)  
+[gallery](https://github.com/Cat-a-strophe/_gallery/pull/6)   
+
 
 
 
