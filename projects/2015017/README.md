@@ -77,3 +77,5 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
 - [`Link_for_.md`](https://github.com/p15kara/site/blob/master/_case-study/Informatics.md)
 ### Το link για το βιβλίο:
 - [`Link_for_book`](https://p15kara.netlify.app/case-study/informatics/)
+### Το link για τα includes:
+- [`Link_for_includes`](https://github.com/p15kara/site/blob/master/_includes/Informatics2.md)
