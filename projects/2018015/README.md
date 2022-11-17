@@ -115,6 +115,8 @@ https://github.com/Efthimis015/kallipos/blob/master/MyText.lua
 
 https://github.com/Efthimis015/kallipos/blob/master/Technology/MyText.md
 
+https://github.com/Efthimis015/kallipos/blob/master/Technology-crop.png
+
 
 
 
