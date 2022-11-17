@@ -48,9 +48,16 @@ Chttps://www.w3schools.com">Visit W3Schools</a>
 
 -<a href="https://asciinema.org/a/DC9uTGuO14D3AryaXY0wiOkyr">weather</a> 
 
--<a href="https://asciinema.org/a/Pl2NBtaZYKYxUYJRcZ7WTiSW0">jrnl</a>|
+-<a href="https://asciinema.org/a/Pl2NBtaZYKYxUYJRcZ7WTiSW0">jrnl</a>
 
 ## ΠΑΡΑΔΟΤΕΟ 5 - Συμμετοχικό περιεχόμενο Α2
+Πρόσθεσα τις εικόνες που χρησιμοποίσημα στο Παραδοτέο 3 σε σετ διαφανειών που δημιουργησά  .
+# Skype :
+### Slides : <a href="https://p18tzou.netlify.app/slides/socialmedia/">slides_skype</a>
+### Timeline : <a href="https://p18tzou.netlify.app/timeline/socialmedia/">timeline</a>
+# Nintendo :
+### Slides : <a href="https://p18tzou.netlify.app/slides/videogames/">slides_nintendo</a>
 
-<a href="https://p18tzou.netlify.app/timeline/socialmedia/">timeline</a> , <a href="https://p18tzou.netlify.app/slides/socialmedia/">slides_skype</a> , <a href="https://p18tzou.netlify.app/slides/videogames/">slides_nintendo</a>
+### Timeline : <a href="https://p18tzou.netlify.app/timeline/socialmedia/">timeline</a>
+
 
