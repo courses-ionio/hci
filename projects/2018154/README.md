@@ -145,7 +145,7 @@ Netlify links:
  
 ## ΠΑΡΑΔΟΤΕΟ 6 | Κατασκευή του βιβλίου - Α
 
-
+Για την κατασκευή του βιβλίου κατέβασα τα απαραίτητα πακέτα `pandoc`, `python-pip`, `pandoc-fignos` & `texlive-core` στην συνέχεια επεξργάστηκα το αρχέιο [make-latex.sh](https://github.com/PavTsol/kallipos/blob/master/make-latex.sh) και δημιούργησα τα αρχεία [mc_c.md](https://github.com/PavTsol/kallipos/blob/master/mc_c/mc_c.md) & [mc_c.lua](https://github.com/PavTsol/kallipos/blob/master/mc_c.lua) 
 
 ## ΠΑΡΑΔΟΤΕΟ 7 | Συμμετοχικό περιεχόμενο - B1
 
