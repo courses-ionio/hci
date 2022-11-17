@@ -57,7 +57,7 @@ neofetch, journalctl -b
 
 ## Παραδοτέο 6
 Σε αυτό το παραδοτέο έγινε η προσθήκη υποσημείωσης το βιβλίο του μαθήματος μέσω κατάλληλων αλλαγών στο make-latex.sh, δημιουργία απαραίτητων φακέλων στο repository, χρησιμοποιώντας το comment.lua σαν φίλτρο .
-[Το βιβλίο σε pdf με την σημείωση](https://github.com/p18balt/kallipos/blob/master/book/book1.pdf)
+ [Το βιβλίο σε pdf με την σημείωση](https://github.com/p18balt/kallipos/blob/master/book/book1.pdf)
 
 [Screenshot σημείωσης](https://github.com/p18balt/kallipos/blob/master/picture/Screenshot%202022-11-17%20at%2016.26.28.png)
 
