@@ -102,7 +102,16 @@ Netlify links:
 
 - [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
      
+   ## ΠΑΡΑΔΟΤΕΟ 6-Κατασκευή του βιβλίου Α
+   Στο 6ο παραδοτέο επέλεξα να ασχοληθώ με την παράγραφο που είναι αφιερομένη στο σύστημα arduino. Μου φάνηκε ιδιάιτερα ενδιαφέρον και γιαυτό ήθελα να αναπτύξω το συγκεκριμένο θέμα με την συνησφορά μου. Εφόσον αναφαίρεται αναλυτικά λοιπόν στον τρόπο λειτουργίας του συστήματος αλλά και στις περιπώτωσεις που μπορεί να φανεί χρήσιμο μου θεώρησα ενδιαφέρον το να ασχολοηθούμε και με τον προγραματισμό του. Για το παραδοτέο αυτό χρειάστηκε...
    
+    - [PDF BOOK](https://github.com/p18stef/kallipos/blob/master/book.pdf)
+ 
+ - [PDF SCREENSHOT](https://github.com/p18stef/kallipos/blob/master/pictures/screen%206o.png)
+ 
+- [MD](https://github.com/p18stef/kallipos/blob/master/arduino/arduino.md)
+
+ - [LUA ΑΡΧΕΙΟ](https://github.com/p18stef/kallipos/blob/master/arduino.lua)
   
   
     
