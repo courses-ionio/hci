@@ -14,7 +14,8 @@
 | --- | --- | --- |
 | 1 | [Φορκ ,σελίδα της αναφοράς με τα προσωπικά στοιχεία σας,  περιγραφή των αναγκών και των στόχων σας για το μάθημα](#παραδοτεο-1---εισαγωγή) | Ήταν ενδιαφέρουσα  και ταυτόχρονα  μία πρωτόγνωρη εμπειρία για μένα ,καθώς δεν είχα ξανά επεξεργαστεί παρόμειες εφαρμογές.Γνώρισα τις βασικές διαδικασίες της εφαρμογής όπως για παράδειγμα fork κλπ. Κατανόησα επίσης τους στόχους του μάθηματος  και την επικοινωνία που μπορεί να αποκτήσει ο άνθρωπός με τον υπολογιστή .| 
 | 2 | [Άσκηση γραμμής εντολών](#παραδοτεο-2---περιγραφή-εγκατάστασης-arch-linux) |Για αρχή εγκατήστησα το arch linux σε VM(θα προσπαθήσω το επόμενο χρονικό διάστημα να το εγκαταστήσω στον υπολογιστή μου ) και εκτέλεσα με επιτυχιά την εντολή [neofetch](https://asciinema.org/~p18tzou) .   |
-| 3 | [Συμμετοχικό περιεχόμενο Α1](#παραδοτεο-3---post-installation-arch-linux) |<a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a> , <a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a> |
+| 3 | [Συμμετοχικό περιεχόμενο Α1](#παραδοτεο-3---post-installation-arch-linux) |
+<a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a> , <a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a> |
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4---συμμετοχικό-περιεχόμενο-α1) | Εγκατάσταση arch linux σε πραγματικο κόσμο. <a href="https://asciinema.org/a/DC9uTGuO14D3AryaXY0wiOkyr">weather</a> ,<a href="https://asciinema.org/a/Pl2NBtaZYKYxUYJRcZ7WTiSW0">jrnl</a>|
 | 5 | [Συμμετοχικό περιεχόμενο Α2](#παραδοτεο-5---warm-up-άσκηση-γραμμής-εντολών-1) |<a href="https://p18tzou.netlify.app/timeline/socialmedia/">timeline</a> , <a href="https://p18tzou.netlify.app/slides/socialmedia/">slides_skype</a> , <a href="https://p18tzou.netlify.app/slides/videogames/">slides_nintendo</a>|
 | 6 | [Κατασκευή του βιβλίου Α](#παραδοτεο-6---συμμετοχικό-περιεχόμενο-α2) |  |
@@ -40,8 +41,15 @@ Chttps://www.w3schools.com">Visit W3Schools</a>
 ## ΠΑΡΑΔΟΤΕΟ 3 - Συμμετοχικό περιεχόμενο Α1
 Στο συγκεριμένο παραδοτέο πρόσθεσα δύο εικόνεςς με ελεύθερα δικαιωματα στο Site μου.Αρχικά , έκανα Fork στο site και δημιούργησα δύo αρχεία .md στο repo_gallery,πρόσθεσα 2 σετ εικόνων στο repo-images ,ώστε να προσθέσω τις λεζάντες και τις φωτογραφίες.Στην συνέχεια μέσω του τερματικού εκτέλεσα τις εντολές που είχε στειλεί ένας συμφητητής μου στις συζητήσεις του μαθήματος .Μέτα πραγματοποίησα το deploy στο Netlify.
 Τα αρχέια που πρόσθεσα στο site μου πιο αναλυτικά :
+### gallery
+<a href="https://github.com/TZOYRMANAS/_gallery/blob/master/social-media-skype.md">skype.md</a> ---<a href="https://github.com/TZOYRMANAS/_gallery/blob/master/nintendo.md">nintendo.md</a>
+### images
+skype-logo-open![skype-logo-open-graph](https://user-images.githubusercontent.com/79106646/202479145-58b05791-e80a-43eb-95d5-a934e43dba98.png)
+-graph.png --- skype-logo-open-graph-thumb.png 
+nintendo.jpg --- nintendo-thumb.jpg
 
-<a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a> , <a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a> 
+### Netlify 
+<a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a>--<a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a> 
 
 ## ΠΑΡΑΔΟΤΕΟ 4 - Άσκηση γραμμής εντολών (Εγκατάσταση arch linux)
 Στο συγκεκριμένο παραδοτέο έπρεπε να επιλέξουμε μερικές εντολές απο το warm up cli που βρίσκεται στις οδηγίες του μαθήματος και να τις πραγματοποιήσουμε στο arch linux σε πραγματικό κόσμο .
