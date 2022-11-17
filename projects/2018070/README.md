@@ -88,5 +88,22 @@
 - [Νέα Markdown Tag](https://github.com/Konstantina3/kallipos/blob/master/comment/Videogame%20Developers.md)
 - [Φίλτρο lua](https://github.com/Konstantina3/kallipos/blob/master/shmeiwsh.lua)
 
+# Παραδοτέο 7: Συμμετοχικό Περιεχόμενο Β1
+<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα μελέτη περίπτωσης στο site του βιβλίου. Το case study που επέλεξα σχετίζεται άμεσα με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline), αλλά και με το περιεχόμενο της εισαγωγής μου, καθώς αφορά ένα καινοτόμο εργαλείο που προσφέρει άμεση διάδραση με τον χρήστη και τις ικανότητές του. Τα αποτελέσματα φαίνονται παρακάτω:</p>
+
+- [case study](https://github.com/Konstantina3/site/blob/master/_case-study/Notion.md)
+
+<p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
+
+- [Pull Request προς τον οργανισμό της ομάδας - case study](https://github.com/The4Beasts/site/pull/10)
+- [Pull Request προς τον οργανισμό της ομάδας - image]()
+- [Οργανισμός ομάδας](https://github.com/The4Beasts)
+
+<p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
+
+- [Notion Software](https://en.wikipedia.org/wiki/Notion_(productivity_software))
+- [Notion Labs](https://system.privco.com/company/notion-labs)
+- [Notion app](https://www.theverge.com/2018/6/7/17434754/notion-android-app-notes-productivity-review)
+
 # Video Quiz:
-Έχουν ολοκληρωθεί μέχρι στιγμής: 6/6
+Έχουν ολοκληρωθεί μέχρι στιγμής: 7/7
