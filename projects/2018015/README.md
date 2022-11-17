@@ -107,7 +107,13 @@
 
 :white_small_square: Χρονολόγιο: **[Πολυμεσικά Συστήματα](https://organization--efthimis015.netlify.app//timeline/multimedia/)**
 
-## 👽Παραδοτέο 6 | 
+## 👽Παραδοτέο 6 | Κατασκευή του βιβλίου Α
+
+https://github.com/Efthimis015/kallipos/blob/master/book/book.pdf
+
+https://github.com/Efthimis015/kallipos/blob/master/MyText.lua
+
+https://github.com/Efthimis015/kallipos/blob/master/Technology/MyText.md
 
 
 
