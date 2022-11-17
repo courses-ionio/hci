@@ -44,8 +44,7 @@ Chttps://www.w3schools.com">Visit W3Schools</a>
 ### gallery
 <a href="https://github.com/TZOYRMANAS/_gallery/blob/master/social-media-skype.md">skype.md</a> ---<a href="https://github.com/TZOYRMANAS/_gallery/blob/master/nintendo.md">nintendo.md</a>
 ### images
-skype-logo-open![skype-logo-open-graph](https://user-images.githubusercontent.com/79106646/202479145-58b05791-e80a-43eb-95d5-a934e43dba98.png)
--graph.png --- skype-logo-open-graph-thumb.png 
+skype-logo-open-graph.png --- skype-logo-open-graph-thumb.png 
 nintendo.jpg --- nintendo-thumb.jpg
 
 ### Netlify 
