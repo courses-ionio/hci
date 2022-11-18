@@ -95,7 +95,7 @@ Googler Install:
 
 Για το 6ο παραδοτέο έφτιαξα ένα καινούριο φίλτρο lua (addition.lua) το οποίο προσθέτει πληροφορίες στο βιβλίο. Συγκεκριμένα η προσθήκη μου αφορά το έργο του Jaron Lanier και βρίσκετε στο κεφάλαιο 6.6. Έχω σκοπό να επεκτείνω πάνω σε αυτό γιατί είναι ακόμα πολύ απλό. Επίσης, έκανα τις απαραίτητες αλλαγές στο make-latex.sh για να περιλαμβάνει το φίλτρο μου και κάποια διαφορετικά fonts.
  
-[PDF](https://github.com/odysseasEko/kallipos/blob/master/book.pdf)
-[Φίλτρο](https://github.com/odysseasEko/kallipos/blob/master/addition.lua)
-[Προσθήκη](https://github.com/odysseasEko/kallipos/blob/master/additions/new-info.md)
+[PDF](https://github.com/odysseasEko/kallipos/blob/master/book.pdf)<br/>
+[Φίλτρο](https://github.com/odysseasEko/kallipos/blob/master/addition.lua)<br/>
+[Προσθήκη](https://github.com/odysseasEko/kallipos/blob/master/additions/data-glove.md)<br/>
 
