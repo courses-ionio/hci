@@ -49,27 +49,22 @@
 [Bash](https://unix.stackexchange.com/questions/35777/how-to-change-the-prompt-in-linux)
 
 ## Παραδοτέο 3 - Συμμετοχικό περιεχόμενο Α1 - Εισαγωγή του GNU Nano και του Amazon Kindle Fire
-Στο συμμετοχικό περιεχόμενο Α1 ήταν απαραίτητο το ανέβασμα δύο εικόνων στην ιστοσελίδα του μαθήματος, εκ των οποίων η καθεμία θα είχε την πρωτότυπη διάσταση και άλλη μία με 160px. Οι εικόνες που επέλεξα είναι το GNU Nano και το Amazon Kindle Fire. Ο επεξεργαστής κειμένου GNU Nano είχε αρκετά ανεπτυγμένη δομή για την εποχή του καθώς υλοποιήθηκε το 1999 και μέσω αυτού οι χρήστες μπορούσαν εύκολα να διορθώσουν κείμενο σε περιβάλλοντα UNIX και να περιηγηθούν με την βοήθεια εντολών στο cli. Από την άλλη πλευρά το Amazon Kindle Fire ήταν από τα πρώτα τάμπλετ ή εναλλακτικά φορητούς υπολογιστές το οποίο βασιζόταν στο λειτουργικό σύστημα Fire OS. Η εταιρία Amazon ήταν εκείνη που πρωτοπόρησε το 2011 δημιουργώντας μία συσκευή εύκολη στη χρήση για όλες τις ηλικίες.
+Στο συμμετοχικό περιεχόμενο Α1 ήταν απαραίτητο το ανέβασμα δύο εικόνων στην ιστοσελίδα του μαθήματος, εκ των οποίων η καθεμία θα είχε την πρωτότυπη διάσταση και άλλη μία με 160px. Οι εικόνες που επέλεξα είναι το GNU Nano και το Xterm. Ο επεξεργαστής κειμένου GNU Nano είχε αρκετά ανεπτυγμένη δομή για την εποχή του καθώς υλοποιήθηκε το 1999 και μέσω αυτού οι χρήστες μπορούσαν εύκολα να διορθώσουν κείμενο σε περιβάλλοντα UNIX και να περιηγηθούν με την βοήθεια εντολών στο cli. Με ανάλογο τρόπο, το Xterm το οποίο λειτουργούσε ως εξομοιωτής γραμμής εντολών, έχοντας μόλις δημιουργηθεί κατά τη δεκαετία του 80΄ επέτρεψε στους χρήστες να τρέχουν διάφορα προγράμματα που απαιτούσαν command line interface με ιδιαίτερη ευκολία.
 
 ## Αρχεία .md
-[gnu-nano.md](https://github.com/p20oiko/_gallery/blob/2020171/gnu-nano.md)
+[gnu-nano.md](https://github.com/p20oiko/_gallery/blob/master/gnu-nano.md)
 
-[kindle-fire.md](https://github.com/p20oiko/_gallery/blob/2020171/kindle-fire.md)
+[xterm.md](https://github.com/p20oiko/_gallery/blob/master/xterm.md)
 
 ## Εικόνες
-[gnu-nano](https://github.com/p20oiko/images/blob/2020171/gnu-nano.png)
+[gnu-nano](https://github.com/p20oiko/images/blob/master/gnu-nano.png)
 
-[kindle-fire](https://github.com/p20oiko/images/blob/2020171/kindle-fire.jpg)
+[xterm](https://github.com/p20oiko/images/blob/master/xterm.png)
 
 ## Εικόνες σε 160px
-[gnu-nano-thumb](https://github.com/p20oiko/images/blob/2020171/gnu-nano-thumb.png)
+[gnu-nano-thumb](https://github.com/p20oiko/images/blob/master/gnu-nano-thumb.png)
 
-[kindle-fire-thumb](https://github.com/p20oiko/images/blob/2020171/kindle-fire-thumb.jpg)
-
-## Pull Request
-[gallery](https://github.com/XorisOnoma/_gallery/pull/4)
-
-[images](https://github.com/XorisOnoma/images/pull/4)
+[xterm-thumb](https://github.com/p20oiko/images/blob/master/xterm-thumb.png)
 
 
 ## Παραδοτέο 4 - Ασκήσεις γραμμής εντολών - check the weather, fetch information:
