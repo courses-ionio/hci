@@ -243,6 +243,19 @@
 * [cs-EdTech.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-EdTech.md)
 * [EdTech.md](https://github.com/Axileaszervos/site/blob/master/_case-study/EdTech.md)
 
+### ΒΙΒΛΙΟΓΡΑΦΙΑ
+* [Educational Technology](https://www.theedadvocate.org/guidelines-for-young-children-using-education-technology)
+* [Educational Technology](https://en.wikipedia.org/wiki/Educational_technology)
+* [Dynabook](https://history-computer.com/dynabook)
+* [Casio fx](https://en.wikipedia.org/wiki/Casio_fx-7000G)
+* [Smart Board](https://www.sutori.com/en/item/the-invention-of-the-smart-board-1991-the-smartboard-was-invented-by-david-ma)
+* [Scartch](https://el.wikipedia.org/wiki/Γλώσσα_προγραμματισμού_Scratch)
+* [Math Blaster](https://www.giantbomb.com/math-blaster-episode-1-in-search-of-spot/3030-72/)
+* [Microsoft Zoom](https://el.wikipedia.org/wiki/Zoom)
+
+# ΠΑΡΑΔΟΤΕΟ 9
+
+
 
 
   
