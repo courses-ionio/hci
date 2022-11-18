@@ -37,6 +37,11 @@
 # Οι εικόνες μου στο site: 
 ### => [Xbox image](https://panmour.netlify.app//gallery/xbox/) 
 ### => [OXO image](https://panmour.netlify.app//gallery/oxo/)
+# Τα md αρχεία μου και οι εικόνες στο site μου στο Github: 
+### => [Xbox md](https://github.com/PanMour/_gallery/blob/0e4a33c983c643efefc24c6e49561b23ccd415f9/xbox.md)
+### => [Xbox image](https://github.com/PanMour/images/blob/f38101f0436627e15de972213160aba4f07d9b4d/xbox.jpg) 
+### => [OXO md](https://github.com/PanMour/_gallery/blob/0e4a33c983c643efefc24c6e49561b23ccd415f9/oxo.md)
+### => [OXO image](https://github.com/PanMour/images/blob/f38101f0436627e15de972213160aba4f07d9b4d/oxo.jpg)
 ## Λόγος επιλογής των εικόνων
 Ο κύριως λόγος που επέλεξα τισ συγκεκριμένες εικόνες είναι επειδή σχετίζονται με ένα από τα επαγγέλματα που έχω σκεφτεί να ασχοληθώ στο μέλλον, το game designing. Το OXO ήταν ένα από τα πρώτα βιντεοπαιχνίδια που δημιουργήθηκαν και το πρώτο multiplayer, κάτι που πιστεύω πως είναι πολύ σπουδαίο καθώς έστρωσε τον δρόμο για την δημιουργία μιας ολόκληρης κατηγορίας παιχνιδιών που άλλαξε σημαντικά την αγορά. Όσον αφορά το Xbox, μπορεί να μην ήταν η πρώτη κονσόλα βιντεοπαιχνιδιών (game-machine) που κυκλοφόρησε αλλά είχε σημαντική επίδραση και εξακολουθεί να έχει, επιπλεόν σε προσωπικό επίπεδο ήταν η πρώτη κονσόλα που κατείχα κάτι αρκετά σπουδαίο για εμένα, για αυτόυς τους λόγους πιστεύω ότι είναι μια καλή προσθήκη στο ήδη υπάρχων υλικό τουυ site.
 # Links στα σχετικά αρχεία στο repository μου στο Github: 
@@ -59,6 +64,11 @@
 # Για το OXO: 
 ### => [timeline](https://panmour.netlify.app//timeline/multiplayer/)
 ### => [slides](https://panmour.netlify.app/slides/ai-interaction/)
+# Τα links στα slides και στα timelines στο site μου στο Github: 
+### => [Game-Machines (Xbox Slide)](https://github.com/PanMour/site/blob/master/_slides/game-machines.md) 
+### => [Αλληλεπίδραση ανθρώπων υπολογιστών (Xbox Timeline)](https://github.com/PanMour/site/blob/master/_timeline/human-computer-interactions.md) 
+### => [AI-Interaction (OXO Slide)](https://github.com/PanMour/site/blob/master/_slides/AI-interaction.md)
+### => [Multiplayer (OXO Timeline)](https://github.com/PanMour/site/blob/master/_timeline/multiplayer.md)
 # Links στα σχετικά αρχεία στο repository μου στο Github: 
 ### => [Game-Machines (Xbox Slide)](https://github.com/PanMour/D-/blob/main/game-machines.md) 
 ### => [Αλληλεπίδραση ανθρώπων υπολογιστών (Xbox Timeline)](https://github.com/PanMour/D-/blob/main/human-computer-interactions-theme.md) 
