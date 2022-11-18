@@ -20,7 +20,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [σύνδεσμος](https://github.com/courses-ionio/help/discussions/864)|Συγγραφή προσωπικών στόχων, αναγκών του μαθήματος και επιτυχής ολοκήρωση των απαιτούμενων διαδικασιών |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1187) |Εγκατέστησα την διανομή των Arch Linux σε Virtual Machine, μετονομάστηκε το command prompt και τέλος εκτελέστηκαν οι εντολές journalctl -b, neofetch |
-| 3 | Συμμετοχικό περιεχόμενο A1 |[σύνδεσμος]() | Ανέβασμα δύο εικόνων στα gallery και images, αποτυχία εμφάνισης εικόνων στην ιστοσελίδα, πρόβλημα με netlify  |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1660) | Ανέβασμα δύο εικόνων στα gallery και images, αποτυχία εμφάνισης εικόνων στην ιστοσελίδα, πρόβλημα με netlify  |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1291) |Επέλεξα τις ασκήσεις check the weather και fetch information από το warm up |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
