@@ -109,13 +109,15 @@
 
 ## 👽Παραδοτέο 6 | Κατασκευή του βιβλίου Α
 
-https://github.com/Efthimis015/kallipos/blob/master/book/book.pdf
+Παρακάτω βρίσκονται οι αλλαγές που πραγματοποιήθηκαν:
 
-https://github.com/Efthimis015/kallipos/blob/master/MyText.lua
+**[Βιβλίο σε μορφή pdf στο GitHub](https://github.com/Efthimis015/kallipos/blob/master/book/book.pdf)**
 
-https://github.com/Efthimis015/kallipos/blob/master/Technology/MyText.md
+**[Αρχείο .lua](https://github.com/Efthimis015/kallipos/blob/master/MyText.lua)**
 
-https://github.com/Efthimis015/kallipos/blob/master/Technology-crop.png
+**[Αρχείο .md](https://github.com/Efthimis015/kallipos/blob/master/Technology/MyText.md)**
+
+**[MyScreenshot](https://github.com/Efthimis015/kallipos/blob/master/Technology-crop.png)**
 
 
 
