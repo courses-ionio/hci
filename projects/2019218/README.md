@@ -42,6 +42,8 @@
  |images Kali|[THUMB](https://github.com/P2019218/images/blob/master/Kali-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/Kali-Kde.png)|[netlify](https://2019218.netlify.app/gallery/kali-kde/)
  |_gallery Metasploit|[metasploit.MD](https://github.com/P2019218/_gallery/blob/master/metasploit.md)||
  |images Metasploit|[THUMB](https://github.com/P2019218/images/blob/master/metasploit-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/metasploit.png)|[netlify](https://2019218.netlify.app/gallery/metasploit/)|
+ [Pull request](https://github.com/Millennials-2/images/pull/8)
+ [Pull request _gallery](https://github.com/Millennials-2/_gallery/pull/8)
  
  
  
