@@ -35,8 +35,8 @@
 
 
 Σε αυτό το παραδοτέο συνεισφέραμε με τις δικές μας προσθήκες περιεχομένου στην ιστοσελίδα του μαθήματος. κάνοντας 2 προσθήκες. Οι προσθήκες αυτές  συμπεριλάμβανουν 2 εικόνες με λεζάντες σε αρχεία που βρίσκονται στο αποθετήριο της σελίδας `/site/images/` και `/site/_gallery/`. Οι προσθήκες που έκανα έγω είναι οι ακόλουθες
-- [artix](https://stitc-site.netlify.app/gallery/artix-os/)
-- [suse](https://stitc-site.netlify.app/gallery/suse-os/)
+- [artix](https://stitc-site.netlify.app/gallery/artix/)
+- [suse](https://stitc-site.netlify.app/gallery/suse/)
 
 και τα pull req. αντίστοιχα για τον ενταγμό τους στην ομάδα
 - [_gallery pull request](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/5#event-7645248395)
