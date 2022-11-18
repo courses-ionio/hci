@@ -14,8 +14,8 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 | [4](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-4--ασκήσεις-γραμμής-εντολών-warm-up) | Άσκηση γραμμής εντολών (warm up cli) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1410) | |
 | [5](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-5--συμμετοχικό-περιεχόμενο---α2) | Συμμετοχικό περιεχόμενο A2 | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1450) | |
 | [6](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-6--κατασκευή-του-βιβλίου---α) | Κατασκευή του βιβλίου Α | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1655), [Book](https://github.com/PavTsol/kallipos/blob/master/book.pdf) | |
-| [7]() | Συμμετοχικό περιεχόμενο B1 | | |
-| [8]() | Άσκηση γραμμής εντολών | | |
+| [7](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-7--συμμετοχικό-περιεχόμενο---b1) | Συμμετοχικό περιεχόμενο B1 | | |
+| [8](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-8--ασκήσεις-γραμμής-εντολών-warm-up) | Άσκηση γραμμής εντολών | | |
 | [9]() | Συμμετοχικό περιεχόμενο B2 | | |
 | [10]() | Άσκηση γραμμής εντολών | | |
 | [11]() | Κατασκευή του βιβλίου Β | | |
@@ -155,7 +155,7 @@ Netlify links:
  
 ## ΠΑΡΑΔΟΤΕΟ 7 | Συμμετοχικό περιεχόμενο - B1
 
-
+## ΠΑΡΑΔΟΤΕΟ 8 | Ασκήσεις γραμμής εντολών (warm up)
 
 ## Συμμετοχή στην τάξη
 
