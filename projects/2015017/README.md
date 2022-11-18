@@ -14,7 +14,7 @@ https://p15kara.netlify.app/
 | 4 | Άσκηση γραμμής εντολών | warm up cli  https://asciinema.org/a/IK3dnbIEy3CqAGM4ucEP2knCj  | |
 | 5 | Συμμετοχικό περιεχόμενο A2 |https://github.com/courses-ionio/help/discussions/1442 | |
 | 6 | Κατασκευή του βιβλίου Α | https://github.com/courses-ionio/help/discussions/1637| |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/help/discussions/1673 | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
