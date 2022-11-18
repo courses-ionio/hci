@@ -109,7 +109,7 @@
 
 ## 👽Παραδοτέο 6 | Κατασκευή του βιβλίου Α
 
-Παρακάτω βρίσκονται οι αλλαγές που πραγματοποιήθηκαν:
+**Παρακάτω βρίσκονται οι αλλαγές που πραγματοποιήθηκαν:**
 
 **[Βιβλίο σε μορφή pdf στο GitHub](https://github.com/Efthimis015/kallipos/blob/master/book/book.pdf)**
 
@@ -119,7 +119,13 @@
 
 **[MyScreenshot](https://github.com/Efthimis015/kallipos/blob/master/Technology-crop.png)**
 
+**[Αρχείο book.tex](https://github.com/Efthimis015/kallipos/blob/master/book.tex)**
 
+**[Αρχείο make-latex.sh](https://github.com/Efthimis015/kallipos/blob/master/make-latex.sh)**
+
+**Το **Screenshot** από την προσθήκη που επέλεξα να κάνω.**
+
+<img src= "https://github.com/Efthimis015/kallipos/blob/master/Technology-crop.png" width= 600/>
 
 
 
