@@ -73,6 +73,7 @@
 | Deliverables |  Links |
 | --- | --- |
 | PDF book | [book.pdf](https://github.com/Drexion/kallipos/blob/master/book/book.pdf)
+| PDF book - contribution| [book-contribution.jpg](https://github.com/Drexion/kallipos/blob/master/book/book-contribution.jpg)
 | Contribution repository | [b-language.md](https://github.com/Drexion/kallipos/blob/master/contribution/b-language.md)
 | Lua File | [contribution.lua](https://github.com/Drexion/kallipos/blob/master/contribution.lua)
 
