@@ -1,9 +1,10 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
-## Ονοματεπώνυμο: Ιωάννης Δημήτριος Στανίτσας
-## ΑΜ: Π2017100
-## [Github Profile](https://github.com/GiannisStan)
-## [Asciinema Profile](https://asciinema.org/~2017100)
+### ΙΩΑΝΝΗΣ ΔΗΜΗΤΡΙΟΣ ΣΤΑΝΙΤΣΑΣ
+### ΑΜ: Π2017100
+### [Github Profile](https://github.com/GiannisStan)
+### [Asciinema Profile](https://asciinema.org/~2017100)
+### [Personal Netlify Site](https://2017100.netlify.app)
 <br />
 <br />
 
@@ -12,7 +13,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας + Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής για σχολιασμό στην συζήτηση και καταγραφή του συνδέσμου συζήτησης δίπλα](#εισαγωγή)| [Εισαγωγή](https://github.com/courses-ionio/help/discussions/1631) <br> [Ομάδα](https://github.com/ContattoContare) | Διατύπωσα τις ανάγκες που έχω από το συγκεκριμένο μάθημα και αναγνώρισα τα οφέλη τα οποία έχω να κερδίσω από την συμμετοχή μου σε αυτό, ενώ μέσω της ένταξής μου στην ομάδα θα έχω την ευκαιρία να συνεργαστώ και να λύσω προβλήματα με τους συμφοιτητές μου |
 | 2 | [Άσκηση γραμμής εντολών(linux install on HW)](#2ο-παραδοτέο) | [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1641#discussion-4573759) | Η χειροκίνητη εγκατάσταση του λειτουργικού συστήματος μου επέτρεψε να εξοικειωθώ σε έναν πρώτο βαθμό με την διεπαφή γραμμής εντολών |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | [Συμμετοχικό περιεχόμενο A1](#3ο-παραδοτέο) | | Εξοικειώθηκα σε έναν πρώτο βαθμό τόσο με την web-based εφαρμογή του GitHub όσο και με το git CLI. Αν και δυσκολεύτηκα λίγο με την διαδικασία των submodules, εν τέλει κατάφερα να βρω τον δρόμο μου και να ανεβάσω επιτυχώς το δικό μου κομμάτι στο ομαδικό αποθετήριο και στο netlify |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -32,10 +33,15 @@
 και να κάνω περισσότερο αποδοτική την αλληλεπίδραση μου με τον υπολογιστή. 
 <br />
 
+
 Μέσω του μαθήματος "Επικοινωνία Ανθρώπου- Υπολογιστή", σκοπός μου είναι να εξοικειωθώ και να βελτιώσω τις ικανότητες μου στην πλατφόρμα 
 του GitHub, και τις συσχετιζόμενες με αυτήν εφαρμογές. Επιπρόσθετα ευελπιστώ να αναπτύξω τις δεξιότητες μου στο λογισμικό του Linux. Εξίσου
 μεγάλο κέρδος για μένα θα είναι η δουλειά μέσα σε ενα περιβάλλον ομάδας, οπου απαιτείται συνεργασία, αλληλοστήριξη με σκοπό τη κοινή εξέλιξη 
 και ανάπτυξη.
+
+
+#### Εβδομαδιαία Παρουσίαση Προόδου
+- [Π2017100 - 1ο Παραδοτέο #1631](https://github.com/courses-ionio/help/discussions/1631)
 <br />
 <br />
 
@@ -54,6 +60,25 @@
 2) neofetch
 
 
+#### Εβδομαδιαία Παρουσίαση προόδου
+- [Π2017100 - 2ο Παραδοτέο #1641](https://github.com/courses-ionio/help/discussions/1641)
+
 ### Asciinema Records
 
 [![asciicast](https://asciinema.org/a/538012.svg)](https://asciinema.org/a/538012)
+<br />
+<br />
+
+## 3ο Παραδοτέο
+Για το πρώτο κομμάτι του συμμετοχικού περιεχομένου, αποφάσισα να προσθέσω δύο εικόνες, μία για την συσκευή εισόδου [Φωτογραφίδα](https://www.computerhope.com/jargon/l/lightpen.htm), η οποία θεωρείται προκάτοχος των σύγχρονων οθονών αφής και ήταν από τις πρώτες συσεκυές εισόδου που δημιουργήθηκαν και δοκιμάστηκαν, και μία για το λειτουργικό σύστημα [TempleOS](https://templeos.org/), το οποίο αρχικά δημιουργήθηκε ως ένα εργαλείο μέσω του οποίο τα παιδιά θα μπορούσαν να μάθουν να προγραμματίζουν. 
+
+Τα links παρουσιάζονται στον παρακάτω πίνακα: 
+
+| Περιγραφή | Repository Link | Pull request link |Netlify Link |
+| --- 	    | --- 	      | ---	     	  | ---	       |
+| lightpen  | [lightpen.md](https://github.com/ContattoContare/_gallery/blob/master/lightpen.md) | [lightpen - pullrequest](https://github.com/ContattoContare/_gallery/pull/10) | [lightpen summary](https://2017100.netlify.app/gallery/lightpen/) |
+| lightpen images | [full quality](https://github.com/ContattoContare/images/blob/master/lightpen.png) + [thumbnail](https://github.com/ContattoContare/images/blob/master/lightpen-thumb.png) | [lightpen images - pull request](https://github.com/ContattoContare/images/pull/9) | | 
+| templeOS  | [temple.md](https://github.com/ContattoContare/_gallery/blob/master/temple.md)   | [temple - pull request](https://github.com/ContattoContare/_gallery/pull/10) | [templeOS summary](https://2017100.netlify.app/gallery/temple/) |
+| templeOS images | [full quality](https://github.com/ContattoContare/images/blob/master/temple.png) + [thumbnail](https://github.com/ContattoContare/images/blob/master/temple-thumb.png) | [templeOS images - pull request](https://github.com/ContattoContare/images/pull/9) | |
+<br />
+<br />
