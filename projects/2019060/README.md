@@ -49,10 +49,13 @@ journalctl:
 # Παραδοτέο 3ο
 ## Συμμετοχικό περιεχόμενο A1
 
-Σε αυτό το παραδοτέο αρχικά έκανα deploy το site από το προσωπικό μου fork για testing. Πρόσθεσα στο βιβλίο το RiscOS και το DeskMate, αφού είδα πως δούλευαν κανονικά έκανα pull request στον οργανισμό για ενσωμάτωση των .md αρχείων και των εικόνων στο site του οργανισμού. Κάποια απο τα προβληματα που αντιμετωπίσα ηταν το ruby version του server.<br/>
+Σε αυτό το παραδοτέο αρχικά έκανα deploy το site από το προσωπικό μου fork για testing. Πρόσθεσα στο βιβλίο το RiscOS και το DeskMate, αφού είδα πως δούλευαν κανονικά έκανα pull request στον οργανισμό για ενσωμάτωση των .md αρχείων και των εικόνων στο site του οργανισμού. Κάποια απο τα προβληματα που αντιμετωπίσα ηταν το ruby version του server.<br/><br/>
 [RiscOS](https://stitc-site.netlify.app/gallery/risc-os/)<br/>
 [DeskMate](https://stitc-site.netlify.app/gallery/deskmate/)<br/>
-[Pull request gallery](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/2#issue-1416972816)<br/>[Pull request images](https://github.com/Second-Time-Is-The-Charm/images/pull/2#issue-1416977144)
+[Pull request gallery](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/2#issue-1416972816)<br/>[Pull request images](https://github.com/Second-Time-Is-The-Charm/images/pull/2#issue-1416977144)<br/><br/>
+Έγινε revision στο riscOS διότι η εικόνα δεν ήταν αντιπροσοπευτική.<br/><br/>
+Σε αυτό το update προστέθηκε το [Oculus Rift](https://illustrious-fenglisu-832564.netlify.app/gallery/oculus-rift/) στο site διότι είναι πιο κοντά στο θέμα που θέλω να ασχοληθώ.
+
 
 # Παραδοτεο 4ο
 ## Warm-Up
@@ -76,7 +79,7 @@ Googler Install:
 
 [![asciicast](https://asciinema.org/a/k3y22dB5YlXhSY5oK6LFjwi6j.svg)](https://asciinema.org/a/k3y22dB5YlXhSY5oK6LFjwi6j)
 
-# Παραδοτέο 5
+# Παραδοτέο 5ο
 ## Συμμετοχικό Περιεχόμενο Α2
 
 Για το 5ο Παραδοτέο προσέθεσα ένα σετ από θεματικές διαφάνειες το οποίο ονόμασα λειτουργικά συστήματα, μέσα σε αυτές έβαλα το RiscOS το οποίο είχα προσθέσει σε προηγούμενη βδομάδα και άλλα ήδη υπάρχοντα λειτουργικά. Επίσης, άλλα άτομα από την ομάδα μου προσέθεσαν δικά τους λειτουργικά στο slide μου. Επιπλέον, έβαλα το DeskMate από το παραδοτέο 3 στις διαφάνειες για τη Γραφική διεπαφή χρήστη.<br/>
