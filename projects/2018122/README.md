@@ -13,8 +13,8 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 | 2 | Άσκηση γραμμής εντολών (arch linux install on VM) |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1603)** | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1604)** | |
 | 4 | Άσκηση γραμμής εντολών (arch linux install on HW) |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1605)** | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1665)** | |
+| 6 | Κατασκευή του βιβλίου Α |**[Συζητήσεις](**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1666)** | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
@@ -76,12 +76,12 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 
   Στο 5ο παραδοτέο έπρεπε να περάσουμε τις εικόνες από το 3ο παραδοτέο και να τις προσθέσουμε στα ήδη υπάρχοντα : **timelines & slides** .
   
-  :white_check_mark: # First Smartphone 
+  :white_check_mark:  First Smartphone 
   - Σετ θεματικών διαφανειών: [Κατασκευή πρωτοπόρου](https://andreaskarageorgiou.netlify.app/slides/prototyping/)
   - Χρονολόγιο: [Κινητός υπολογισμός](https://andreaskarageorgiou.netlify.app/timeline/mobile/)
   
   
-  :white_check_mark: # First Monitor
+  :white_check_mark:  First Monitor
   - Σετ θεματικών διαφανειών:[Τεχνολογία](https://andreaskarageorgiou.netlify.app/slides/technology/)
   - Χρονολόγιο:[Συσκευές εισόδου](https://andreaskarageorgiou.netlify.app/timeline/input-devices/)
   
