@@ -73,7 +73,42 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 
 
 ## :rocket: Παραδοτέο 5 | Συμμετοχικό περιεχόμενο - Α2
+
+  Στο 5ο παραδοτέο έπρεπε να περάσουμε τις εικόνες από το 3ο παραδοτέο και να τις προσθέσουμε στα ήδη υπάρχοντα : **timelines & slides** .
+  
+  :white_check_mark: # First Smartphone 
+  - Σετ θεματικών διαφανειών: [Κατασκευή πρωτοπόρου](https://andreaskarageorgiou.netlify.app/slides/prototyping/)
+  - Χρονολόγιο: [Κινητός υπολογισμός](https://andreaskarageorgiou.netlify.app/timeline/mobile/)
+  
+  
+  :white_check_mark: # First Monitor
+  - Σετ θεματικών διαφανειών:[Τεχνολογία](https://andreaskarageorgiou.netlify.app/slides/technology/)
+  - Χρονολόγιο:[Συσκευές εισόδου](https://andreaskarageorgiou.netlify.app/timeline/input-devices/)
+  
+  Ενώ με το παραδοτέο 3 και τις εικόνες δεν είχα κάποιο θέμα ,στο παραδοτέο 5ο , δεν μου εμφανίζει τις εικόνες στο χρονολόγιο και στο σετ διαφανειών .
+  Προς το παρόν θα παραμείνει έτσι μέχρι να βρώ τον λόγο που δεν μου φορτώνει τις εικόνες . Σκοπεύω να το επιλύσω το συντομότερο.
+      
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 6 | Κατασκευή του βιβλίου - Α
+
+  Στο 6ο παραδοτέο έπρεπε να γίνει η κατασκευή του βιβλίου με δική μας προσθήκη κειμένου. 
+  Παρακάτω βρίσκονται οι προσθήκες μου :
+  
+ 
+**[Βιβλίο σε μορφή pdf στο GitHub](https://github.com/AndreasKarageorgiou/kallipos/blob/master/book/book.pdf)**
+
+**[Αρχείο .lua](https://github.com/AndreasKarageorgiou/kallipos/blob/master/myfilter.lua)**
+
+**[Αρχείο .md](https://github.com/AndreasKarageorgiou/kallipos/blob/master/mytext/pacman.md)**
+
+**[Αρχείο book.tex](https://github.com/AndreasKarageorgiou/kallipos/blob/master/book.tex)**
+
+**[Αρχείο make-latex.sh](https://github.com/AndreasKarageorgiou/kallipos/blob/master/make-latex.sh)**
+
+**[MyScreenshot](https://github.com/AndreasKarageorgiou/kallipos/blob/master/bookscreen.pdf.jpg)**
+
+  
+  
+
 
 
 
