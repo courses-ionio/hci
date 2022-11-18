@@ -99,3 +99,4 @@ Googler Install:
 [Φίλτρο](https://github.com/odysseasEko/kallipos/blob/master/addition.lua)<br/>
 [Προσθήκη](https://github.com/odysseasEko/kallipos/blob/master/additions/data-glove.md)<br/>
 
+![book screenshot](https://user-images.githubusercontent.com/73399706/202736400-e4494ab9-a7ce-4eb9-adb6-5c6caf5c6255.png)
