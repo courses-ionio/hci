@@ -42,7 +42,8 @@
  |images Kali|[THUMB](https://github.com/P2019218/images/blob/master/Kali-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/Kali-Kde.png)|[netlify](https://2019218.netlify.app/gallery/kali-kde/)
  |_gallery Metasploit|[metasploit.MD](https://github.com/P2019218/_gallery/blob/master/metasploit.md)||
  |images Metasploit|[THUMB](https://github.com/P2019218/images/blob/master/metasploit-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/metasploit.png)|[netlify](https://2019218.netlify.app/gallery/metasploit/)|
- [Pull request](https://github.com/Millennials-2/images/pull/8)
+ 
+ [Pull request images](https://github.com/Millennials-2/images/pull/8),
  [Pull request _gallery](https://github.com/Millennials-2/_gallery/pull/8)
  
  
@@ -66,8 +67,9 @@
 Για το 5ο παραδοτέο πρόσθεσα το υλικό μου σε ήδη υπάρχοντα slides και timelines μέχρι να φτιαχτεί ενα δικό μας σετ με το υλικό όλης της ομάδας
 
 ## ΠΑΡΑΔΟΤΕΟ 6
-[book.pdf](https://github.com/P2019218/kallipos/blob/master/book.pdf)
-[Lua](https://github.com/P2019218/kallipos/blob/master/unix.lua)
-[make-latex.sh](https://github.com/P2019218/kallipos/blob/master/make-latex.sh)
-[MD](https://github.com/P2019218/kallipos/blob/master/unix/unix.md)
+Για το 6ο παραδοτέο και την κατασκευή βιβλίου Α συνεισφέρω στην ενότητα Μορφές πάνω στο unix.Είναι προσωρινό μέχρι να δημιουργήσω δικιά μου ενότητα παρακάτω εχω τα βιβλιο,αρχειο lua,το latex.sh,το unix.md και το screenshot της συνεισφοράς μου. 
+[book.pdf](https://github.com/P2019218/kallipos/blob/master/book.pdf),
+[Lua](https://github.com/P2019218/kallipos/blob/master/unix.lua),
+[make-latex.sh](https://github.com/P2019218/kallipos/blob/master/make-latex.sh),
+[MD](https://github.com/P2019218/kallipos/blob/master/unix/unix.md),
 [Screenshot](https://github.com/P2019218/kallipos/blob/master/pictures/Screenshot..png) 
