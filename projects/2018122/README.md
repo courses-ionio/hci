@@ -14,7 +14,7 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 | 3 | Συμμετοχικό περιεχόμενο A1 |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1604)** | |
 | 4 | Άσκηση γραμμής εντολών (arch linux install on HW) |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1605)** | |
 | 5 | Συμμετοχικό περιεχόμενο A2 |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1665)** | |
-| 6 | Κατασκευή του βιβλίου Α |**[Συζητήσεις](**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1666)** | |
+| 6 | Κατασκευή του βιβλίου Α |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1666)** | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
