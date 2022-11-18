@@ -84,6 +84,10 @@
 - [apollo-touchpad.md](https://github.com/FaidonTsetsis/_gallery/blob/e57ff4b5282f2c3e066c33456d6c942d1cf7bc35/apollo-touchpad.md)
 - [netlify δοκιμαστικό ατομικό](https://6377e4e588b1911b1341ca14--chimerical-wisp-a4fe66.netlify.app/gallery/apollo-touchpad/)
 
+**Διαδικαστικά**
+
+Έκανα fork τα submodules του pibook στον οργανισμό μου ([αντίστοιχη ανακοίνωση](https://github.com/orgs/MainCharacters/discussions/6)) και έπειτα τα έκανα fork στο προσωπικό μου λογαριασμό. Στη συνέχεια, με χρήση της εντολής git καθώς και του πακέτου glibc μπόρεσα να τροποποιήσω και να εντάξω τα αντίστοιχα submodules του λογαριασμού μου στο site και επεξεργάστηκα το περιεχόμενο που ήθελα να προσθέσω για το παραδοτεό. Μετά δημιούργησα το token για την αυθεντικοποίηση του λογαριασμού μου στο github και έκανα το τελικό push. Τέλος, έχτισα το ατομικό μου netlify για να διαπιστώσω αν υπάρχει κάποιο λογικό ή συντακτικό λάθος και μετά άνοιξα ένα pull request για ένταξη του περιεχομένου μου στα forked submodules του οργανισμού. 
+
 
 ## ΠΑΡΑΔΟΤΕΟ 4 - Εγκατάσταση Arch Linux HW
 
