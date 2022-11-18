@@ -73,11 +73,6 @@
 ### => [Αλληλεπίδραση ανθρώπων υπολογιστών (Xbox Timeline)](https://github.com/PanMour/site/blob/master/_timeline/human-computer-interactions.md) 
 ### => [AI-Interaction (OXO Slide)](https://github.com/PanMour/site/blob/master/_slides/AI-interaction.md)
 ### => [Multiplayer (OXO Timeline)](https://github.com/PanMour/site/blob/master/_timeline/multiplayer.md)
-# Links στα σχετικά αρχεία στο repository μου στο Github: 
-### => [Game-Machines (Xbox Slide)](https://github.com/PanMour/D-/blob/main/game-machines.md) 
-### => [Αλληλεπίδραση ανθρώπων υπολογιστών (Xbox Timeline)](https://github.com/PanMour/D-/blob/main/human-computer-interactions-theme.md) 
-### => [AI-Interaction (OXO Slide)](https://github.com/PanMour/D-/blob/main/AI-interaction.md)
-### => [Multiplayer (OXO Timeline)](https://github.com/PanMour/D-/blob/main/multiplayer.md)
 ### Παραδοτέο 6ο:
 ## Κατασκευή Βιβλίου Α
 Σε αυτό το παραδοτέο μας ζητήθηκε να προσθέσουμε μια δικιά μας παράγραφο με πληροφοριές στο βιβλίο και έπειτα να βγάλουμε scrennshot την προσθήκη που κάναμε από το βιβλίο σε μορφή pdf: 
