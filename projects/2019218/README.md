@@ -59,7 +59,7 @@
  <a href="https://asciinema.org/a/MGIAhHjT47V34YxdXjtxR2hi3" target="_blank"><img src="https://asciinema.org/a/MGIAhHjT47V34YxdXjtxR2hi3.svg" /></a>
  ## ΠΑΡΑΔΟΤΕΟ 5 
  
- Χρονολόγιο :  [Microsoft Office 365](https://2019218.netlify.app/timeline/microsoft/) & [Kaizala](https://2019218.netlify.app/timeline/microsoft/)
-Διαφάνειες : [Microsoft Office 365](https://2019218.netlify.app/slides/tools/) & [Kaizala](https://2019218.netlify.app/slides/tools/)
+ Χρονολόγιο : [Kali-Kde](https://2019218.netlify.app/timeline/os-apps/)
+Διαφάνειες : [metasploit](https://2019218.netlify.app/slides/tools/) & [Kali-Kde](https://2019218.netlify.app/slides/gui/)
 Για το 5ο παραδοτέο πρόσθεσα το υλικό μου σε ήδη υπάρχοντα slides και timelines μέχρι να φτιαχτεί ενα δικό μας σετ με το υλικό όλης της ομάδας
  
