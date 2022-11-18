@@ -13,13 +13,14 @@
 
 ## Παραδοτέο 2 
 Έγινε εγκατάσταση Arch Linux (Dual boot 50~GB partition)
-neofetch, journalctl -b 
+Χρησιμοποιήθηκε η εντολή neofetch με σκοπό να δείξουμε τα χαρακτηριστικά του συστήματος και η εντολή journalctl -b για να προβάλουμε τα αρχεία καταστακευής του συστήματος. 
 
 [Αsciinema Link](https://asciinema.org/a/cgX9FmflHdDIyr8ErN285IiOO)
 
 [Discussions Link](https://github.com/courses-ionio/help/discussions/1292)
 ## Παραδοτέο 3
 Προσθήκη Pubtech, Norton-Desktop στο site.
+Έγινε η προσθήκη του pubtech που είναι ένα shell που προσφέρει διαδραστικά στοιχεία του συστήματος Macintosh σε λειτουργικό σύστημα Windows. Επιπλέον προσθέθηκε το Norton Desktop το οποίο αποτελεί επίσης ένα windows shell που επίσης προσφέρει διάδραση που μοιάζει με Macintosh. 
 
 [Pull Request _gallery](https://github.com/ContattoContare/_gallery/pull/3)
 
