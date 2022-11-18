@@ -22,7 +22,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1187) |Εγκατέστησα την διανομή των Arch Linux σε Virtual Machine, μετονομάστηκε το command prompt και τέλος εκτελέστηκαν οι εντολές journalctl -b, neofetch |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1660) | Ανέβασμα δύο εικόνων στα gallery και images, αποτυχία εμφάνισης εικόνων στην ιστοσελίδα, πρόβλημα με netlify  |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1291) |Επέλεξα τις ασκήσεις check the weather και fetch information από το warm up |
-| 5 | Συμμετοχικό περιεχόμενο A2 |[σύνδεσμος]() |ανάρτηση εικόνων στα forked αποθετήρια slides και timeline, αντιμετώπιση προβλημάτων linking στο ομαδικό netlify|
+| 5 | Συμμετοχικό περιεχόμενο A2 |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1661) |ανάρτηση εικόνων στα forked αποθετήρια slides και timeline, αντιμετώπιση προβλημάτων linking στο ομαδικό netlify|
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
