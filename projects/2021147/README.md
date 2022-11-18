@@ -44,17 +44,12 @@
 # Τα md αρχεία μου και οι εικόνες στο site μου στο Github: 
 ### => [Xbox md](https://github.com/PanMour/_gallery/blob/0e4a33c983c643efefc24c6e49561b23ccd415f9/xbox.md)
 ### => [Xbox image](https://github.com/PanMour/images/blob/f38101f0436627e15de972213160aba4f07d9b4d/xbox.jpg) 
+### => [Xbox image thumb](https://github.com/PanMour/images/blob/f38101f0436627e15de972213160aba4f07d9b4d/xbox-thumb.jpg) 
 ### => [OXO md](https://github.com/PanMour/_gallery/blob/0e4a33c983c643efefc24c6e49561b23ccd415f9/oxo.md)
 ### => [OXO image](https://github.com/PanMour/images/blob/f38101f0436627e15de972213160aba4f07d9b4d/oxo.jpg)
+### => [OXO image thumb](https://github.com/PanMour/images/blob/f38101f0436627e15de972213160aba4f07d9b4d/oxo-thumb.jpg)
 ## Λόγος επιλογής των εικόνων
 Ο κύριως λόγος που επέλεξα τισ συγκεκριμένες εικόνες είναι επειδή σχετίζονται με ένα από τα επαγγέλματα που έχω σκεφτεί να ασχοληθώ στο μέλλον, το game designing. Το OXO ήταν ένα από τα πρώτα βιντεοπαιχνίδια που δημιουργήθηκαν και το πρώτο multiplayer, κάτι που πιστεύω πως είναι πολύ σπουδαίο καθώς έστρωσε τον δρόμο για την δημιουργία μιας ολόκληρης κατηγορίας παιχνιδιών που άλλαξε σημαντικά την αγορά. Όσον αφορά το Xbox, μπορεί να μην ήταν η πρώτη κονσόλα βιντεοπαιχνιδιών (game-machine) που κυκλοφόρησε αλλά είχε σημαντική επίδραση και εξακολουθεί να έχει, επιπλεόν σε προσωπικό επίπεδο ήταν η πρώτη κονσόλα που κατείχα κάτι αρκετά σπουδαίο για εμένα, για αυτόυς τους λόγους πιστεύω ότι είναι μια καλή προσθήκη στο ήδη υπάρχων υλικό τουυ site.
-# Links στα σχετικά αρχεία στο repository μου στο Github: 
-### => [Xbox md](https://github.com/PanMour/D-/blob/main/xbox.md) 
-### => [OXO md](https://github.com/PanMour/D-/blob/main/oxo.md)
-### => [Xbox image (github)](https://github.com/PanMour/D-/blob/main/xbox.jpg) 
-### => [Xbox-thumb image (github)](https://github.com/PanMour/D-/blob/main/xbox-thumb.jpg)
-### => [OXO image (github)](https://github.com/PanMour/D-/blob/main/oxo.jpg)
-### => [OXO-thumb image (github)](https://github.com/PanMour/D-/blob/main/oxo-thumb.jpg)
 ### Παραδοτέο 4ο:
 ## Warm-ups
 Καθώς είχα ήδη πραγματοποιήση την εγκατάσταση του Arch Linux σε στικάκι, αποφάσισα να ξεκινήσω απευθείας την εξάσκηση με την πραγματοποίηση μερικών warm-ups ώστε να αυξήσω ακόμη περισσότερο την οικειότητα μου και να βελτιώσω τις ικανότητές μου στην χρήση των Arch Linux.
