@@ -64,6 +64,27 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 3 - Συμμετοχικό περιεχόμενο A1
 
+Πρόσθεσα δύο εικόνες τύπου "Creative Commons licenses" που πραγματεύονται την ραγδαία εξέλιξη του ποντικιού ως περιφεριακό, με σκοπό την ανάδειξη της πορεία του στο χρόνο στη σχέση αλληλεπίδρασης ανθρώπου-υπολογιστή.
+
+1) Apple Wireless Mouse
+
+Η εικόνα αυτή αναδεικνύει την εξέλιξη στην αλληλεπίδραση του ανθρώπου με τον υπολογιστή, δεδομένου ότι από τα συμβατικά ενσύρματα ποντίκια ο χρήστης για πρώτη φορά χρησιμοποίησε ασύρματο ποντίκι τύπου bluetooth (για εμπορική χρήση). Κατά την εξέλιξη αυτής της τεχνολογίας ο χρήστης έλυσε το θέμα της απόστασης και της εργονομίας καθώς δεν περιορίζεται στα καλώδια και στην επιφάνεια του γραφείου του. Άθελά της για την υλοποίηση του αυτού, η Apple έπρεπε να λύση και το πρόβλημα των παρεμβολών του σήματος μεταξύ ασύρματων συσκευών και για αυτό χρησιμοποίησε το λογισμικό Adaptive Frequency Hopping (AFH).
+
+- [apple-wireless-mouse.jpg](https://github.com/FaidonTsetsis/images/blob/39e79b15798706627e671680929cfed7a7d8b02a/apple-wireless-mouse.jpg)
+- [apple-wireless-mouse-thumb.jpg](https://github.com/FaidonTsetsis/images/blob/39e79b15798706627e671680929cfed7a7d8b02a/apple-wireless-mouse-thumb.jpg)
+- [apple-wireless-mouse.md](https://github.com/FaidonTsetsis/_gallery/blob/e57ff4b5282f2c3e066c33456d6c942d1cf7bc35/apple-wireless-mouse.md)
+- [netlify δοκιμαστικό ατομικό](https://6377e4e588b1911b1341ca14--chimerical-wisp-a4fe66.netlify.app/gallery/apple-wireless-mouse/)
+
+2) Apollo DN 330 Touchpad
+
+Η εικόνα αυτή αποτυπώνει τον πρώτο υπολογιστή που χρησιμοποίησε τη τεχνολογία του Touchpad, με την οποία ο χρήστης βίωσε μία εναλλακτική μορφή περιήγησης του κένσορα κάνοντας χρήση απευθείας των δακτύλων του για την αναπαράσταση του ποντικιού. Αυτή η καινοτομία οδήγησε στο γνωστό σε όλους μας Touchpad των λάπτοπ, και άνοιξε τον δρόμο για τη χρήση του υπολογιστή χωρίς συμβατικό ποντίκι.
+
+- [apollo-touchpad.jpg](https://github.com/FaidonTsetsis/images/blob/39e79b15798706627e671680929cfed7a7d8b02a/apollo-touchpad.jpg)
+- [apollo-touchpad-thumb.jpg](https://github.com/FaidonTsetsis/images/blob/39e79b15798706627e671680929cfed7a7d8b02a/apollo-touchpad-thumb.jpg)
+- [apollo-touchpad.md](https://github.com/FaidonTsetsis/_gallery/blob/e57ff4b5282f2c3e066c33456d6c942d1cf7bc35/apollo-touchpad.md)
+- [netlify δοκιμαστικό ατομικό](https://6377e4e588b1911b1341ca14--chimerical-wisp-a4fe66.netlify.app/gallery/apollo-touchpad/)
+
+
 ## ΠΑΡΑΔΟΤΕΟ 4 - Εγκατάσταση Arch Linux HW
 
 Παρακάτω περιγράφω την διαδικασία εγκατάστασης Arch Linux στο σύστημά μου:
