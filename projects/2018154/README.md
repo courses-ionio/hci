@@ -13,7 +13,7 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 | [3](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-3--συμμετοχικό-περιεχόμενο---α1) | Συμμετοχικό περιεχόμενο A1 | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1232) | |
 | [4](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-4--ασκήσεις-γραμμής-εντολών-warm-up) | Άσκηση γραμμής εντολών (warm up cli) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1410) | |
 | [5](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-5--συμμετοχικό-περιεχόμενο---α2) | Συμμετοχικό περιεχόμενο A2 | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1450) | |
-| [6]() | Κατασκευή του βιβλίου Α | | |
+| [6](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-6--κατασκευή-του-βιβλίου---α) | Κατασκευή του βιβλίου Α | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1655), [Book](https://github.com/PavTsol/kallipos/blob/master/book.pdf) | |
 | [7]() | Συμμετοχικό περιεχόμενο B1 | | |
 | [8]() | Άσκηση γραμμής εντολών | | |
 | [9]() | Συμμετοχικό περιεχόμενο B2 | | |
@@ -145,8 +145,14 @@ Netlify links:
  
 ## ΠΑΡΑΔΟΤΕΟ 6 | Κατασκευή του βιβλίου - Α
 
-Για την κατασκευή του βιβλίου κατέβασα τα απαραίτητα πακέτα `pandoc`, `python-pip`, `pandoc-fignos` & `texlive-core` στην συνέχεια επεξργάστηκα το αρχέιο [make-latex.sh](https://github.com/PavTsol/kallipos/blob/master/make-latex.sh) και δημιούργησα τα αρχεία [mc_c.md](https://github.com/PavTsol/kallipos/blob/master/mc_c/mc_c.md) & [mc_c.lua](https://github.com/PavTsol/kallipos/blob/master/mc_c.lua) 
+Για την κατασκευή του βιβλίου αρχικά έκανα το δικό μου fork του αποθετηρίου [kallipos](https://github.com/PavTsol/kallipos), στην συνέχεια κατέβασα τα απαραίτητα πακέτα `pandoc`, `python-pip`, `pandoc-fignos` & `texlive-core`, επεξεργάστηκα το αρχείο [make-latex.sh](https://github.com/PavTsol/kallipos/blob/master/make-latex.sh) και [figure.lua](https://github.com/PavTsol/kallipos/blob/master/figure.lua) και στην συνέχεια δημιούργησα το αρχείο [mc_c.md](https://github.com/PavTsol/kallipos/blob/master/mc_c/mc_c.md) όπου είναι η σημείωση μου & το αντίστοιχο φίλτρο [mc_c.lua](https://github.com/PavTsol/kallipos/blob/master/mc_c.lua). Μετά δημιούργησα έναν φάκελο latex και "έτρεξα" το make-latex.sh με την εντολή `./make-latex.sh` για να δημιουργηθεί το [βιβλίο](https://github.com/PavTsol/kallipos/blob/master/book.pdf) με τις δικές μου προσθήκες. Στην συνέχεια θα ήθελα να προσθέσω μια δικιά μου ενότητα με τις αντίστοιχες εικόνες και να βάλω σημειώσεις και σε άλλα κεφάλαια.
 
+Παρακάτω βρίσκεται και ένα screenshot από το βιβλίο.
+
+![screenshot](https://github.com/PavTsol/kallipos/blob/master/pictures/17-11-2022-19%2018%2019-screenshot.jpg)
+
+ - *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
+ 
 ## ΠΑΡΑΔΟΤΕΟ 7 | Συμμετοχικό περιεχόμενο - B1
 
 
