@@ -222,23 +222,27 @@
  # 6ο ΠΑΡΑΔΟΤΕΟ-ΚΑΤΑΣΚΕΥΗ ΒΙΒΛΙΟΥ Α
 Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το κεφάλαιο 3 και συγκεκριμένα την υποενότητα 3.3 "Σύνθετα στύλ διάδρασης". Εκεί πρόσθεσα σαν σύνθετο στύλ διάδρασης την τεχνητή νοημοσύνη, θέμα το οποίο είναι ακόμη `υπό-βελτίωση`.
 
-* link του βιβλίου σε μορφή pdf: [book.pdf](https://github.com/Axileaszervos/kallipos/tree/master/my%20book\)
+* link του βιβλίου σε μορφή pdf: [book.pdf]()
 * link του αρχείου siri-lua: [siri.lua](https://github.com/Axileaszervos/kallipos/blob/master/Siri.lua)
-* link του αρχείου Ai-lua: [Ai.lua](https://github.com/Axileaszervos/kallipos/blob/master/Ai.lua)
-* link του περιεχομένου που πρόσθεσα: [Ai.md](https://github.com/Axileaszervos/kallipos/blob/master/AI/Ai.md)
-* lin του περιεχομένου που πρόσθεσα: [Siri.md](https://github.com/Axileaszervos/kallipos/blob/master/siri/Siri.md)
+* link απο το δικό μου φίλτρο: [Ai.lua](https://github.com/Axileaszervos/kallipos/blob/master/Ai.lua)
+* link του περιεχομένου που πρόσθεσα: [Ai.md](https://github.com/Axileaszervos/kallipos/blob/master/my%20text/2022-11-18-134836_1920x1080_scrot.png)
 * link του make-latex.sh: [make-latex](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
 
-## Siri
-Η siri είναι ένας voice-assisant-manager τεχνητής νοημοσύνης που χρησιμοποιεί voice commands για να επικοινωνήσει με τον χρήστη. Η διάδραση μαζί του είναι άμεση και αποτελεσματική, εξαιτίας του αλγορίθμου machine-learning που διαθέτει ώστε να βελτιώνεται σύμφωνα με τις ανάγκες του χρήστη.
-
-![siri](https://user-images.githubusercontent.com/115211756/201661817-5fd3c1a2-360a-4743-82ee-b970e5339380.png) 
-
 ## Το κείμενο μου
-![mywork](https://user-images.githubusercontent.com/115211756/201662435-76f4c7c2-9761-45c3-81f8-d5bf15a45eb8.png)
+![mytext](https://user-images.githubusercontent.com/115211756/202702330-c92008f5-926b-43b0-91b0-55dffb0bacd5.png)
 
 ## Το κεφάλαιο του κειμένου που ασχολήθηκα
  ![Maintheme](https://user-images.githubusercontent.com/115211756/201673129-e19eefb3-19cd-44d1-9bb8-33a284f21a46.png)
+ 
+# ΠΑΡΔΟΤΕΟ 7-ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2
+Σε αυτό το παραδοτέο χρειάστηκε να φτιάξουμε μια μελέτη περίπτωσης η οποία θα συσχετίζεται με τα παραδοτέα 3-5. Προσωπικά ανέλυσα το θέμα της εκπαιδευτικής τεχνολογίας μιάς στην μετέπειτα πορεία της ζωής μου έχω σκοπό να ασχοληθώ με αυτόν τον τομέα μέσω δημιουργίας προγραμμάτων.
+
+* #### link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my case-study](https://axileaszervos.netlify.app/case-study/edtech/)
+
+### Links για τα  md αρχεία που δημιούργησα
+* [cs-EdTech.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-EdTech.md)
+* [EdTech.md](https://github.com/Axileaszervos/site/blob/master/_case-study/EdTech.md)
+
 
 
   
