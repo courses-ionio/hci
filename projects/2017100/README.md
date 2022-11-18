@@ -13,8 +13,8 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας + Φορκ και δημιουργία σελίδας τελικής αναφοράς, προσθήκη πίνακα περιεχομένων, συγγραφή της εισαγωγής, αποστολή της εισαγωγής για σχολιασμό στην συζήτηση και καταγραφή του συνδέσμου συζήτησης δίπλα](#εισαγωγή)| [Εισαγωγή](https://github.com/courses-ionio/help/discussions/1631) <br> [Ομάδα](https://github.com/ContattoContare) | Διατύπωσα τις ανάγκες που έχω από το συγκεκριμένο μάθημα και αναγνώρισα τα οφέλη τα οποία έχω να κερδίσω από την συμμετοχή μου σε αυτό, ενώ μέσω της ένταξής μου στην ομάδα θα έχω την ευκαιρία να συνεργαστώ και να λύσω προβλήματα με τους συμφοιτητές μου |
 | 2 | [Άσκηση γραμμής εντολών(linux install on HW)](#2ο-παραδοτέο) | [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1641#discussion-4573759) | Η χειροκίνητη εγκατάσταση του λειτουργικού συστήματος μου επέτρεψε να εξοικειωθώ σε έναν πρώτο βαθμό με την διεπαφή γραμμής εντολών |
-| 3 | [Συμμετοχικό περιεχόμενο A1](#3ο-παραδοτέο) | | Εξοικειώθηκα σε έναν πρώτο βαθμό τόσο με την web-based εφαρμογή του GitHub όσο και με το git CLI. Αν και δυσκολεύτηκα λίγο με την διαδικασία των submodules, εν τέλει κατάφερα να βρω τον δρόμο μου και να ανεβάσω επιτυχώς το δικό μου κομμάτι στο ομαδικό αποθετήριο και στο netlify |
-| 4 | Άσκηση γραμμής εντολών | | |
+| 3 | [Συμμετοχικό περιεχόμενο A1](#3ο-παραδοτέο) | | Εξοικειώθηκα με σε έναν πρώτο βαθμό με τόσο με την web-based εφαρμογή του GitHub όσο και με το git CLI. Αν και δυσκολεύτηκα λίγο με την διαδικασία των submodules, εν τέλει κατάφερα να βρω τον δρόμο μου και να ανεβάσω επιτυχώς το δικό μου κομμάτι στο ομαδικό αποθετήριο και στο netlify |
+| 4 | [Άσκηση γραμμής εντολών](#4ο-παραδοτέο) | | Γνώρισα ένα νέο εργαλείο το οποίο μου δίνει την δυνατότητα να τσεκάρω το δελτίο καιρού γρήγορα μέσα από το τερματικό μου|
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -80,5 +80,20 @@
 | lightpen images | [full quality](https://github.com/ContattoContare/images/blob/master/lightpen.png) + [thumbnail](https://github.com/ContattoContare/images/blob/master/lightpen-thumb.png) | [lightpen images - pull request](https://github.com/ContattoContare/images/pull/9) | | 
 | templeOS  | [temple.md](https://github.com/ContattoContare/_gallery/blob/master/temple.md)   | [temple - pull request](https://github.com/ContattoContare/_gallery/pull/10) | [templeOS summary](https://2017100.netlify.app/gallery/temple/) |
 | templeOS images | [full quality](https://github.com/ContattoContare/images/blob/master/temple.png) + [thumbnail](https://github.com/ContattoContare/images/blob/master/temple-thumb.png) | [templeOS images - pull request](https://github.com/ContattoContare/images/pull/9) | |
+
+#### Εβδομαδιαία Παρουσίαση προόδου
+
+<br />
+<br />
+
+## 4o Παραδοτέο
+Στο τέταρτο παραδοτέο αποφάσισα να κάνω την άσκηση check the weather από την κατηγορία [warmup](https://github.com/epidrome/dokey#warmup), χρησιμοποιώντας το εργαλείο [wttr](https://github.com/chubin/wttr.in). Επέλεξα την άσκηση αυτή ώστε να προσθέσω στην εργαλειοθήκη μου ένα ακόμα εργαλείο το οποίο θα μου δώσει την δυνατότητα να τσεκάρω το δελτίο καιρού της περιοχής μου γρήγορα και σε διάφορα formats, μέσα από το τερματικό μου. 
+
+
+#### Εβδομαδιαία Παρουσίαση προόδου
+
+
+#### Asciinema Records
+[![asciicast](https://asciinema.org/a/538656.svg)](https://asciinema.org/a/538656)
 <br />
 <br />
