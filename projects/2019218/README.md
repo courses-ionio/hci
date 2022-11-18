@@ -11,7 +11,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 | [Συζήτηση 3](https://github.com/courses-ionio/help/discussions/1411) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση 4](https://github.com/courses-ionio/help/discussions/1411) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | [Συζήτηση 5](https://github.com/courses-ionio/help/discussions/1502) | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α | [Συζήτηση 6](https://github.com/courses-ionio/help/discussions/1652) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
@@ -62,4 +62,10 @@
  Χρονολόγιο : [Kali-Kde](https://2019218.netlify.app/timeline/os-apps/)
 Διαφάνειες : [metasploit](https://2019218.netlify.app/slides/tools/) & [Kali-Kde](https://2019218.netlify.app/slides/gui/)
 Για το 5ο παραδοτέο πρόσθεσα το υλικό μου σε ήδη υπάρχοντα slides και timelines μέχρι να φτιαχτεί ενα δικό μας σετ με το υλικό όλης της ομάδας
- 
+
+## ΠΑΡΑΔΟΤΕΟ 6
+[book.pdf](https://github.com/P2019218/kallipos/blob/master/book.pdf)
+[Lua](https://github.com/P2019218/kallipos/blob/master/unix.lua)
+[make-latex.sh](https://github.com/P2019218/kallipos/blob/master/make-latex.sh)
+[MD](https://github.com/P2019218/kallipos/blob/master/unix/unix.md)
+[Screenshot](https://github.com/P2019218/kallipos/blob/master/pictures/Screenshot..png) 
