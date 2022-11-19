@@ -130,12 +130,38 @@
 
 ## 👽Παραδοτέο 7 | Συμμετοχικό περιεχόμενο - B1
 
-https://github.com/Efthimis015/site/blob/organization/_includes/cs-history-of-mp3.md
+Σε αυτό το παραδοτέο ασχολήθηκα με την ιστορία του Mp3. Διάλλεξα αυτό το θέμα καθώς ταιριάζει πολύ με το περιέχομενο του [προηγούμενου παραδοτέου](https://github.com/Efthimis015/hci/edit/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3--%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF---%CE%B11) και επίσης το θεωρώ πολύ ενδιφέρον.
+
+### Παρακάτω βρίσκονται τα link από τη μελέτη περίπτωσης μου για GitHub & Netlify
+
+### GitHub: 
+* **[_includes](https://github.com/Efthimis015/site/blob/organization/_includes/cs-history-of-mp3.md)**
+* **[_case-study](https://github.com/Efthimis015/site/blob/organization/_case-study/mp3.md)**
+
+### Netlify:
+* **[History of mp3](https://efthimis015.netlify.app/case-study/mp3/)**
 
 
 
+### Λίγα λόγια για το Mp3
 
+**Όλοι έχουμε χρησιμοποιήσει αρχεία Mp3, στον υπολογιστή, το κινητό, το αυτοκίνητο, ή σε κάποιο Mp3 Player. Έχουμε όμως αναρωτηθεί τι ακριβώς είναι το Mp3, και πώς έφερε επανάσταση στον τρόπο που ακούμε τη μουσική μας?
+To Mp3 είναι η πιο δημοφιλής μέθοδος κωδικοποίησης ψηφιακού ήχου. Μειώνει σημαντικά τον όγκο σε Megabyte των αρχείων μουσικής και ήχου, με μικρή έως καθόλου ακουστή απώλεια στην ποιότητα του ήχου.**
 
+<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/mp33.png" width= 300/>
 
+**Link από την βιβλιογραφία που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:**
+
+* [**PC Steps:** *Τι είναι το Mp3, Πώς λειτουργεί, και Πώς Δημιουργήθηκε*](https://www.pcsteps.gr/98136-%CF%84%CE%B9-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%84%CE%BF-mp3-%CF%80%CF%8E%CF%82-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B5%CE%AF/)
+
+* [**Fraunhofer IIS:** *What is mp3?*](https://www.mp3-history.com/)
+
+* [**Medium - Karthik Pasupathy:** *MP3 — The File Format That Revolutionized the Music Industry*](https://karthikpasupathy.medium.com/mp3-the-file-format-that-revolutionized-the-music-industry-a0ba82e9c2dd)
+
+* [**TechTimes:** *The MP3 Is Dead: Here's A Brief History Of MP3*](https://www.techtimes.com/articles/207213/20170513/the-mp3-is-dead-heres-a-brief-history-of-mp3.htm)
+
+* [**MakeUseOf:** *The Death of MP3: A Brief History of the World's Favorite Audio Format*](https://www.makeuseof.com/tag/death-mp3-history-audio-format/)
+
+* [**Npr:** *The MP3: A History Of Innovation And Betrayal*](https://www.npr.org/sections/therecord/2011/03/23/134622940/the-mp3-a-history-of-innovation-and-betrayal)
 
 
