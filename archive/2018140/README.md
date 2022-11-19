@@ -52,7 +52,7 @@ nintendo.jpg --- nintendo-thumb.jpg
 <a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a>--<a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a>
 
 
--<a href="https://github.com/courses-ionio/help/discussions/1648">discussion</a>
+- <a href="https://github.com/courses-ionio/help/discussions/1648">discussion</a>
 
 ## ΠΑΡΑΔΟΤΕΟ 4 - Άσκηση γραμμής εντολών (Εγκατάσταση arch linux)
 Στο συγκεκριμένο παραδοτέο έπρεπε να επιλέξουμε μερικές εντολές απο το warm up cli που βρίσκεται στις οδηγίες του μαθήματος και να τις πραγματοποιήσουμε στο arch linux σε πραγματικό κόσμο .
@@ -65,7 +65,7 @@ nintendo.jpg --- nintendo-thumb.jpg
 -<a href="https://asciinema.org/a/Pl2NBtaZYKYxUYJRcZ7WTiSW0">jrnl</a>
 
 
--<a href="https://github.com/courses-ionio/help/discussions/1649">discussion</a>
+- <a href="https://github.com/courses-ionio/help/discussions/1649">discussion</a>
 
 
 ## ΠΑΡΑΔΟΤΕΟ 5 - Συμμετοχικό περιεχόμενο Α2
@@ -78,7 +78,7 @@ nintendo.jpg --- nintendo-thumb.jpg
 
 ### Timeline : <a href="https://p18tzou.netlify.app/timeline/socialmedia/">timeline</a>
 
--<a href="https://github.com/courses-ionio/help/discussions/1650">discussion</a>
+- <a href="https://github.com/courses-ionio/help/discussions/1650">discussion</a>
 
 
 ## ΠΑΡΑΔΟΤΕΟ 6 - Κατασκευή του βιβλίου Α
@@ -88,4 +88,5 @@ nintendo.jpg --- nintendo-thumb.jpg
 ### αρχείο.lua : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glossesprogrammatismou.lua">glossesprogrammatismou.lua</a>
 ###  book.pdf : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/book/book.pdf">book.pdf</a>
 ###  αρχέιο .md : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glosses/glossesprogrammatismou.md">glossesprogrammatismou.md</a>
+- <a href="https://github.com/courses-ionio/help/discussions/1676">discussions</a>
 ## ΠΑΡΑΔΟΤΕΟ 7 - Άσκηση γραμμής εντολών
