@@ -88,3 +88,4 @@ nintendo.jpg --- nintendo-thumb.jpg
 ### αρχείο.lua : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glossesprogrammatismou.lua">glossesprogrammatismou.lua</a>
 ###  book.pdf : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/book/book.pdf">book.pdf</a>
 ###  αρχέιο .md : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glosses/glossesprogrammatismou.md">glossesprogrammatismou.md</a>
+## ΠΑΡΑΔΟΤΕΟ 7 - Άσκηση γραμμής εντολών
