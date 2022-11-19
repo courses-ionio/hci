@@ -295,6 +295,11 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 # Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
 
+* Προσωπικό site από το αποθετήριο μου: [Greekforce1821](https://greekforce1821-site.netlify.app)
+* Biography του προσωπικού αποθετηρίου: [Biography Guido Van Rossum](https://greekforce1821-site.netlify.app//biography/guido-van-rossum/)
+* Case-Study του προσωπικού αποθετηρίου: [Case-Study Python](https://greekforce1821-site.netlify.app//case-study/python/)
+
+# Παραδοτέο 8ο: Command Line Exercise #2
 
 
 
