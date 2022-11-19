@@ -66,9 +66,9 @@
 
 ### Netlify
 
-* **[Walkman](https://cosmic-entremet-f6cbd2.netlify.app/gallery/walkman/)**
+* **[Walkman](https://efthimis015.netlify.app/gallery/walkman/)** 
 
-* **[Oakley](https://636500851b8843165e819f13--idyllic-speculoos-2a786b.netlify.app/gallery/oakley/)**
+* **[Oakley](https://efthimis015.netlify.app/gallery/oakley/)**
 
 ## 👽Παραδοτέο 4 | Ασκήσεις γραμμής εντολών (warm up)
 
