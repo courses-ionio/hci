@@ -302,6 +302,17 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 * Αρχείο βιογραφίας από το αποθετήριο: [.md File #Biography](https://github.com/Greekforce1821/site/blob/master/_includes/bio-van-rossum.md)
 * Αρχείο μελέτης περίπτωσης από το αποθετήριο: [.md File #Case-Study Thumbnail](https://github.com/Greekforce1821/site/blob/master/_case-study/python.md)
 * Αρχείο μελέτης περίπτωσης από το αποθετήριο: [.md File #Case-Study](https://github.com/Greekforce1821/site/blob/master/_includes/cs-python.md)
+---
+
+# Φωτογραφίες που αξιοποιήθηκαν στην παραπάνω εργασία:
+
+* Φωτογραφία thumbnail για την βιογραφία του Guido Van Rossum: [Thumbnail-Guido](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/van-rossum-profile-thumb.jpg)
+* Φωτογραφία για την βιογραφία του Guido Van Rossum: [Van-Rossum Picture](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/van-rossum-profile-1.jpg)
+* Φωτογραφία thumbnail για την μελέτη περίπτωσης της Python: [Thumbnail-Python](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/python-thumb.jpg)
+* Φωτογραφία για την μελέτη περίπτωσης της Python #1: [Python #1](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/python-logo.jpg)
+* Φωτογραφία για την μελέτη περίπτωσης της Python #2: [Python #2](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/guido-headshot.jpg)
+* Φωτογραφία για την μελέτη περίπτωσης της Python #3: [Python #3](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/python-statistics-2022.jpg)
+* Φωτογραφία για την μελέτη περίπτωσης της Python #4: [Python #4](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/programming-languages-statistics-2022.jpg)
 
 # Παραδοτέο 8ο: Command Line Exercise #2
 
