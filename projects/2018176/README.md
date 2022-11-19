@@ -58,7 +58,7 @@
 
 
 ## Παραδοτέο 6
-Σε αυτό το παραδοτέο έγινε η προσθήκη υποσημείωσης το βιβλίο του μαθήματος μέσω κατάλληλων αλλαγών στο make-latex.sh, δημιουργία απαραίτητων φακέλων στο repository, χρησιμοποιώντας το comment.lua σαν φίλτρο .
+Σε αυτό το παραδοτέο έγινε η προσθήκη υποσημείωσης το βιβλίο του μαθήματος μέσω κατάλληλων αλλαγών στο make-latex.sh, δημιουργία απαραίτητων φακέλων στο repository, χρησιμοποιώντας το comment.lua σαν φίλτρο . Αναφορικά με την χρησιμότητα της ανθρωποκεντρικής σχεδίασης.
  [Το βιβλίο σε pdf με την σημείωση](https://github.com/p18balt/kallipos/blob/master/book/book1.pdf)
 ![Screenshot 2022-11-17 at 16 31 08](https://user-images.githubusercontent.com/93882637/202872973-1dcc07c0-ca2e-422b-949e-df2e5137a58a.png)
 [Screenshot σημείωσης](https://github.com/p18balt/kallipos/blob/master/picture/Screenshot%202022-11-17%20at%2016.26.28.png)
