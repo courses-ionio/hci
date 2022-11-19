@@ -86,7 +86,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
  [![asciicast](https://asciinema.org/a/527869.svg)](https://asciinema.org/a/527869)
 
 
-# Παραδοτέο 3ο: Συμμετοχικό περιεχόμενο Α1
+# Παραδοτέο 3ο: Συμμετοχικό περιεχόμενο Α1.
 
   Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε ομαδικά και ατομικά στην ανάπτυξη του ήδη υπάρχοντος [site](https://pibook.epidro.me/). Σαν αρχηγός του οργανισμού [Terminal-Killers](https://github.com/Terminal-Killers) δημιούργησα συγκεκριμένο section για συζήτηση περί [επιλογής θεμάτων](https://github.com/Terminal-Killers/Terminal-Killers/discussions/11) , [προβλημάτων που ίσως προκύψουν στην πορεία](https://github.com/Terminal-Killers/Terminal-Killers/discussions/14) και τέλος [οδηγίες χρήσης](https://github.com/Terminal-Killers/Terminal-Killers/discussions/12) για να καταφέρει το κάθε μέλος ξεχωριστά να συμβάλλει στην ανάπτυξη της ιστοσελίδας. 
 
@@ -123,7 +123,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
   * Φωτογραφία της [`Python`](https://github.com/Terminal-Killers/images/blob/master/python.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/Terminal-Killers/images/blob/master/python-thumb.jpg)
   * Φωτογραφία του [`ODROID-C4`](https://github.com/Terminal-Killers/images/blob/master/odroid_c4.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/Terminal-Killers/images/blob/master/odroid_c4-thumb.jpg)
 
-# Παραδοτέο 4o: Warming Up with CLI Commands
+# Παραδοτέο 4o: Warming Up with CLI Commands.
 
 Για το τέταρτο (4ο) παραδοτέο της αναφοράς μου, επέλεξα να κάνω την ψυχαγωγικής μορφής άσκηση γραμμής εντολών download mp4 της ενότητας [WarmUp](https://github.com/epidrome/dokey#warmup). Τα παραδοτέα της άσκησης αυτής, ζητούσαν την αναζήτηση, την λήψη και την αναπαραγωγή του αγαπημένου μας τραγουδιού, χρησιμοποιώντας εργαλεία της γραμμής εντολών. Επέλεξα την συγκεκριμένη άσκηση προκειμένου να γίνει χρήση του τερματικού εντολών και όχι ο απλός και αυτοματοποιημένος τρόπος που προσφέρουν <ins>έτοιμα προγράμματα ή αντίστοιχα plugin</ins> (βλέπε: [`flashgot`](https://flashgot.net/), [`YTD Video Converter`](http://www.ytddownloader.com/) κα.) για τους browser μας.
 
@@ -151,7 +151,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
   Το τερματικό στην εκτέλεση της πρώτης εντολής του 4ου παραδοτέου δεν με άφηνε να ολοκληρώσω την λήψη μέσω curl γιατί παρόλο που είχε γίνει σωστή εγκατάσταση δεν αναγνώριζε την σωστή διαδρομή του πακέτου από το σύστημα. Ευτυχώς, έκανα ένα uninstall και άνοιξα την πόρτα μέσω [AUR](https://aur.archlinux.org/) το οποίο είναι σαν το GitHub, αλλά, εκεί ανεβαίνουν πακέτα από τους χρήστες, άρα θεωρείται ένα user program repository. Eν συνέχεια, κατέβασα τα αρχεία από το [αποθετήριο](https://aur.archlinux.org/packages/curl-http3-msquic), έκανα αλλαγή στο directory και έκανα compile μέσω του τερματικού με την εντολή: `makepkg -s` προκειμένου να εγκατασταθεί στο σύστημα το curl.
 
-# Παραδοτέο 5ο: Συμμετοχικό Περιεχόμενο Α2
+# Παραδοτέο 5ο: Συμμετοχικό Περιεχόμενο Α2.
 
 Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε ομαδικά και ατομικά για ακόμα μια φορά στην ανάπτυξη του υπάρχοντος [site](https://pibook.epidrome.me). Σαν αρχηγός του οργανισμού [Terminal-Killers](https://github.com/Terminal-Killers) έλαβα υπόψιν τα [προβλήματα που προέκυψαν στην πορεία](https://github.com/Terminal-Killers/Terminal-Killers/discussions/14) τόσο από τους συμφοιτητές μου αλλά και τόσο και από την προσωπική οπτική γωνία και προσπάθησα να τα επιλύσω μέσω των συζητήσεων.
 
