@@ -284,3 +284,17 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 # Παραδοτέο 7ο: Συμμετοχικό περιεχόμενο Β1.
 
 Στο συγκεκριμένο παραδοτέο, έπρεπε να δημιουργήσουμε μια νέα μελέτη περίπτωσης και μια συγκεκριμένη βιογραφία, σχετικές με τα παραδοτέα [Α1](https://github.com/courses-ionio/help/discussions/1185) και [Α2](https://github.com/courses-ionio/help/discussions/1461) σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/social/) του μαθήματος και να τα ανεβάσουμε στην [ιστοσελίδα](https://greekforce1821-site.netlify.app/) μας. Προκειμένου να συνδέσω την βιογραφία με τα προηγούμενα, επέλεξα να ασχοληθώ με τον δημιουργό της υψηλού επιπέδου γλώσσας προγραμματισμού [Python](https://www.python.org/), τον [Guido Van Rossum](https://el.wikipedia.org/wiki/%CE%93%CE%BA%CE%AF%CE%BD%CF%84%CE%BF_%CE%B2%CE%B1%CE%BD_%CE%A1%CF%8C%CF%83%CF%83%CE%BF%CF%85%CE%BC) και για την συγγραφή της νέας μελέτης περίπτωσης, συγχνώνευσα τις πολύτιμες και ιστορικές πληροφορίες της Python σε συνάρτηση με το [Odroid-C4](https://www.hardkernel.com/shop/odroid-c4/) και μια πολύ μικρή αναφορά στοα `Raspberry Pi`.
+
+## <ins> Guido Van Rossum Biography </ins>
+
+![Screenshot_2022-11-19_11-29-28](https://user-images.githubusercontent.com/33377581/202844396-c1b450d7-41d9-49cc-b40f-4831720e5bd3.jpg)
+
+## <ins> Python & Odroid-C4 Case-Study </ins>
+
+![Screenshot_2022-11-19_11-30-49](https://user-images.githubusercontent.com/33377581/202844438-73271b02-10a4-4636-8f95-b03bad98d070.jpg)
+
+# Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
+
+
+
+
