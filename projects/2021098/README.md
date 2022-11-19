@@ -298,6 +298,10 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 * Προσωπικό site από το αποθετήριο μου: [Greekforce1821](https://greekforce1821-site.netlify.app)
 * Biography του προσωπικού αποθετηρίου: [Biography Guido Van Rossum](https://greekforce1821-site.netlify.app//biography/guido-van-rossum/)
 * Case-Study του προσωπικού αποθετηρίου: [Case-Study Python](https://greekforce1821-site.netlify.app//case-study/python/)
+* Αρχείο βιογραφίας από το αποθετήριο: [.md File #Biography Thumbnail](https://github.com/Greekforce1821/site/blob/master/_biography/guido-van-rossum.md)
+* Αρχείο βιογραφίας από το αποθετήριο: [.md File #Biography](https://github.com/Greekforce1821/site/blob/master/_includes/bio-van-rossum.md)
+* Αρχείο μελέτης περίπτωσης από το αποθετήριο: [.md File #Case-Study Thumbnail](https://github.com/Greekforce1821/site/blob/master/_case-study/python.md)
+* Αρχείο μελέτης περίπτωσης από το αποθετήριο: [.md File #Case-Study](https://github.com/Greekforce1821/site/blob/master/_includes/cs-python.md)
 
 # Παραδοτέο 8ο: Command Line Exercise #2
 
