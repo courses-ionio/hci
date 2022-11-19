@@ -130,7 +130,7 @@
 
 ## 👽Παραδοτέο 7 | Συμμετοχικό περιεχόμενο - B1
 
-Σε αυτό το παραδοτέο ασχολήθηκα με την ιστορία του Mp3. Διάλλεξα αυτό το θέμα καθώς ταιριάζει πολύ με το περιέχομενο του [προηγούμενου παραδοτέου](https://github.com/Efthimis015/hci/edit/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3--%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF---%CE%B11) και επίσης το θεωρώ πολύ ενδιφέρον.
+**Σε αυτό το παραδοτέο ασχολήθηκα με την ιστορία του Mp3. Διάλλεξα αυτό το θέμα καθώς ταιριάζει πολύ με το περιέχομενο του [προηγούμενου παραδοτέου](https://github.com/Efthimis015/hci/edit/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3--%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF---%CE%B11) και επίσης το θεωρώ πολύ ενδιφέρον.**
 
 ### Παρακάτω βρίσκονται τα link από τη μελέτη περίπτωσης μου για GitHub & Netlify
 
