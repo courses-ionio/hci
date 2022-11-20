@@ -12,7 +12,7 @@
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1323),[fish](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr),[wttr](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M) |Επιτυχής ολοκλήρωση, εντός προθεσμίας|
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1474),[slide update](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_slides/os.md),[timeline update](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_timeline/os-apps.md) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
 | 6 | Κατασκευή του βιβλίου Α |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1613) |Επιτυχής ολοκλήρωση |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1693),[cs-study](https://site-reme1o673-angeloth1.vercel.app/case-study/bash/) | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
