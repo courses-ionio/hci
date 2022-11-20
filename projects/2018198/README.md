@@ -13,7 +13,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1140) | εγκατάσταση arch linux και εφαρμογή του neofetch |
 | 3 | Συμμετοχικό περιεχόμενο A1 | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1457) |Για πρώτο συμμετοχικό περιεχόμενο αποφάσισα να κάνω για το Apple magic mouse και magic keyboard. |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1300) | άσκηση check the weather από το warm up |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 | [Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1686) | Στο 5ο παραδοτέο προσθέσαμε τις εικόνες από το 3ο παραδοτέο και να τις προσθέσαμε στα ήδη υπάρχοντα του Α1 |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -61,7 +61,9 @@
 
 [Asciinema](https://asciinema.org/a/386481) 
 
-## Εβδομάδα Πέμπτη 
+## Εβδομάδα Πέμπτη  -Συμμετοχικό περιεχόμενο A2
+
+Στο 5ο παραδοτέο προσθέσαμε τις εικόνες από το 3ο παραδοτέο και να τις προσθέσαμε στα ήδη υπάρχοντα του Α1
 
 #### Magic Mouse
 [Σετ Διαφανειών](https://github.com/eliastks09/site/blob/master/_slides/archetypes.md)
