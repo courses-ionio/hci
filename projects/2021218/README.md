@@ -21,7 +21,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Click](https://github.com/courses-ionio/help/discussions/1190) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Click](https://github.com/courses-ionio/help/discussions/1331) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Click](https://github.com/courses-ionio/help/discussions/1488) | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α |[click](https://github.com/courses-ionio/help/discussions/1705) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
@@ -78,5 +78,11 @@
 ### Χρονολόγια
 [GEMT](https://fancy-vacherin-2b621a.netlify.app/timeline/gemt/)
 [AmigaPC](https://fancy-vacherin-2b621a.netlify.app/timeline/amigapc/)
+
+[αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
+
+## Eβδομάδα Έβδομη - Συμμετοχικό περιεχόμενο B1
+
+Σε αυτό το παραδοτέο είχα να μελετήσω μια περίπτωση. Συγκεκριμένα επέλεξα να μελετήσω το χειριστίριο ως συσκευή εισόδου. Ορίστε το casestudy και το joystick
 
 [αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
