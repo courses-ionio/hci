@@ -8,8 +8,8 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 |Συζήτηση:<br/>[παραδοτέο 3ο](https://github.com/courses-ionio/help/discussions/1168)<br/>| |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |Συζήτηση:<br/>[παραδοτέο 4ο](https://github.com/courses-ionio/help/discussions/1307)<br/> | |
 | 5 | Συμμετοχικό περιεχόμενο A2 |Συζήτηση:<br/>[παραδοτέο 5ο](https://github.com/courses-ionio/help/discussions/1443)<br/>  | |
-| 6 | Κατασκευή του βιβλίου Α | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 6 | Κατασκευή του βιβλίου Α |Συζήτηση:<br/>[παραδοτέο 6ο](https://github.com/courses-ionio/help/discussions/1581) | |
+| 7 | Συμμετοχικό περιεχόμενο B1 |Συζήτηση:<br/>[παραδοτέο 7ο](https://github.com/courses-ionio/help/discussions/1692) | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -100,3 +100,13 @@ Googler Install:
 [Προσθήκη](https://github.com/odysseasEko/kallipos/blob/master/additions/data-glove.md)<br/>
 
 ![book screenshot](https://user-images.githubusercontent.com/73399706/202736400-e4494ab9-a7ce-4eb9-adb6-5c6caf5c6255.png)
+
+# Παραδοτεο 7ο
+### case study
+
+Για το case study μου αποφάσισα να γράψω για τη διεπαφή χρήστη DeskMate την οποία έχω αναφέρει ξανά στο 3ο παραδοτέο.
+Δύστυχος αντιμετωπίζω κάποια προβλήματα με το netlify τα οποία όμως θα λύσω σύντομα.
+<br/>
+Github:<br/>
+[_case-study](https://github.com/odysseasEko/site/blob/master/_case-study/tandydeskmate.md)<br/>
+[_includes](https://github.com/odysseasEko/site/blob/master/_includes/cs-deskmate.md)<br/>
