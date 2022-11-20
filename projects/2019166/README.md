@@ -103,4 +103,6 @@ Pull request :
 | 4 | Alto System Project: Larry Tesler demonstration of Gypsy  |  :+1: | :+1: |
 | 5 | Alan Kay: Doing with Images Makes Symbols (Full Version)  |  :+1: | :+1: |
 | 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | :+1: | :+1: |
+| 7 | Oral History of Douglas Engelbart | :+1: | :+1: |
+| 8 | Engelbart's Unfinished Revolution - 1998 - Session IV | :+1: | :+1: |
 
