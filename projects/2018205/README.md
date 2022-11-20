@@ -17,7 +17,7 @@
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1281) | Eπιπλέον επαφή με arch, πρώτη επαφή με τερματικό, εξοικείωση με Linux|
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1566) |Προσπάθησα να πραγματοποίησα το 5ο παραδοτέο προσθέτωντας διαφάνειες και χρονολόγιο στην ιστοσελίδα του μαθήματος. |
 | 6 | Κατασκευή του βιβλίου Α | [Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1572)| Στο 6ο παραδοτέο είχαμε να κατασκευάσουμε το βιβλίο του μαθήματος με το εργαλείο pandoc. Έκανα μια πρώτη προσπάθεια, ώστε να έχω το δικαίωμα να παρουσιάσω την ενδιάμεση πρόοδό μου.|
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 |[Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1710) |Στο 7ο παραδοτέο πρόσθεσα στο site του βιβλίου το νέο case study που απαιτήθηκε και έκανα το αντίστοιχο εβδομαδιαίο βίντεο-κουίζ. |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -90,6 +90,17 @@ PSP CONSOLE:
 
 [Make_Latex](https://github.com/despina-komo/kallipos/blob/44e13b126cc966409ab4608bb16b06c1d2eb9e1c/make_latex.sh)
 
+
+###### [7]
+# Παραδοτέο 7
+ Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα μελέτη περίπτωσης στο site του βιβλίου. Το case study που επέλεξα σχετίζεται άμεσα με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline), αλλά και με το περιεχόμενο της εισαγωγής μου. 
+ 
+[Case Study](https://github.com/despina-komo/site/blob/ead397a793ca400d1192144f834aabeb9ee621e6/TheFirstIphone.md)
+
+[Includes](https://github.com/despina-komo/site/blob/3fa8a6d33a23daf36ef0f3402140a0aa3108dc64/DetailsOfTheFirtsIphone.md)
+
+[Βιβλιογραφία](https://en.wikipedia.org/wiki/IPhone_(1st_generation))
+
 # Video Quiz
-Έχουν ολοκληρωθεί μέχρι στιγμής: 6/6
+Έχουν ολοκληρωθεί μέχρι στιγμής: 7/7
 
