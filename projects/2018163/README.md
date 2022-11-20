@@ -102,7 +102,7 @@
 # Παραδοτέο 7: Συμμετοχικό Περιεχόμενο Β1
 <p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα μελέτη περίπτωσης στο site του βιβλίου. Το case study που επέλεξα σχετίζεται άμεσα με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline), αλλά και με το περιεχόμενο της εισαγωγής μου. Τα αποτελέσματα φαίνονται παρακάτω:</p>
 
-- [case study](https://github.com/Vasdekis/site/blob/master/_case-study/Raspberry_Pi.md)
+- [case study](https://github.com/Vasdekis/site/blob/master/_case-study/Raspberry%20Pi.md)
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
