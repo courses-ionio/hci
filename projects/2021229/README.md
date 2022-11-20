@@ -82,3 +82,18 @@ Netlify Links:
 Github Links: [PDF](https://github.com/inf2021229/kallipos/blob/master/book.pdf),
 [Filter](https://github.com/inf2021229/kallipos/blob/master/filter.lua),
 [Contribution](https://github.com/inf2021229/kallipos/blob/master/contribution/windows11.md)
+
+<br /><br /> 
+## Εβδομάδα Έβδομη - Συμμετοχικό περιεχόμενο B1
+
+&nbsp;&nbsp;&nbsp;Για αυτό το παραδοτέο μας ζητήθηκε η δημιουργία μίας νέας μελέτης περίπτωσης. Ασχολήθηκα με την Ψηφιακή Επεξεργασία Εικόνων.
+
+Links for:
+[Case-Study](https://github.com/inf2021229/site/blob/master/_case-study/digital-image-editing.md)
+[Includes](https://github.com/inf2021229/site/blob/master/_includes/cs-digital-image-editing.md)
+_The Netlify link will be added once an issue is fixed_
+
+Sources: 
+[IntechOpen](https://www.intechopen.com/chapters/71817)
+[Wikipedia 1](https://en.wikipedia.org/wiki/Digital_image_processing#:~:text=Many%20of%20the%20techniques%20of,facilities%2C%20with%20application%20to%20satellite)
+[Wikipedia 2](https://en.wikipedia.org/wiki/Analog_image_processing)
