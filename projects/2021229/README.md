@@ -90,8 +90,7 @@ Github Links: [PDF](https://github.com/inf2021229/kallipos/blob/master/book.pdf)
 
 Links for:
 [Case-Study](https://github.com/inf2021229/site/blob/master/_case-study/digital-image-editing.md),
-[Includes](https://github.com/inf2021229/site/blob/master/_includes/cs-digital-image-editing.md),
-_The Netlify link will be added once an issue is fixed_
+[Includes](https://github.com/inf2021229/site/blob/master/_includes/cs-digital-image-editing.md)
 
 Sources: 
 [IntechOpen](https://www.intechopen.com/chapters/71817),
