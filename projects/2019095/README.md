@@ -23,7 +23,12 @@
 ## ΠΑΡΑΔΟΤΕΟ 1 | ΕΙΣΑΓΩΓΗ
 
 
-Μέσο αυτού του μαθήματος στοχεύω να διευρύνω τις γνώσεις μου σχετικά με την ιστορία του υπολογιστή και πως έφτασε να είναι αυτό που είναι. Επίσης η χρήση και η εξοικείωση με το github αλλά και με τα arch είναι σίγουρα μία από τις πιο σημαντικές προσφορές αυτού του μαθήματος όπου θέλω να τις κάνω κτήμα μου. Τέλος θέλω να μάθω να δουλεύω συνεργατικά και να δω και διευρύνω τις ικανότητες μου στην διεκπεραίωση ομαδικού και συνεργατικού έργου.
+~Μέσο αυτού του μαθήματος στοχεύω να διευρύνω τις γνώσεις μου σχετικά με την ιστορία του υπολογιστή και πως έφτασε να είναι αυτό που είναι. Επίσης η χρήση και η εξοικείωση με το github αλλά και με τα arch είναι σίγουρα μία από τις πιο σημαντικές προσφορές αυτού του μαθήματος όπου θέλω να τις κάνω κτήμα μου.~ (προσθήκη στα μέσα του εξαμήνου καθώς έχω μια πιο ολοκληρομένη εικόνα για το μάθημα) Στο μάθημα αυτό θέλω να μάθω περισσότερα για την << μη επικρατούσα >> διεπαφή με τον υπολογιστή, δηλαδή για το command line, καθώς και τα unix based συστήματα. Ερωτήματα που περιμένω ως το τέλος του 6μήνου να έχω απαντήσει είναι:
+- Γιατί δεν επικράτησε η χρήση του υπολογιστή μέσο terminal
+- Τι πώς εδρεόθηκε η διεπαφή που χρησιμοποιήτε σήμερα
+- Πώς μπορώ να χρησιμοποιήσω τον υπολογιστή όχι σαν ψηφιακή απεικόνιση του χαρτιού, όπως έχει πει και [Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson) αλλά ως το εργαλείο που οραματιζόταν τόσο αύτος όσο και άλλοι προπάτορας του επιστημονικού μας κλάδου.
+
+Τέλος θέλω να μάθω να δουλεύω συνεργατικά και να δω και διευρύνω τις ικανότητες μου στην διεκπεραίωση ομαδικού και συνεργατικού έργου.
 
 
 ## ΠΑΡΑΔΟΤΕΟ 2 | Arch install
@@ -48,7 +53,7 @@
 1.  εγκατάσταση και επεξεργασία του fish shell [![asciicast](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr.svg)](https://asciinema.org/a/MF11tTiNWWAXU072wriDwqBfr)
 2.  εξοικείωση με το wttr [![asciicast](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M.svg)](https://asciinema.org/a/4SMIyNPkZqWnTF3CEE5qqtN7M)
 
-## Παραδοτέο 5
+## Παραδοτέο 5 | slides & timeline
 - Σε αύτο το παραδοτέο πρόσθεσα υλικό στο [slide](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_slides/os.md) 
 - Αντίστοιχα πρόσθεσα υλικό στο [timeline](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_timeline/os-apps.md)
 
@@ -62,7 +67,7 @@
 - [slide](https://github.com/Second-Time-Is-The-Charm/site/pull/7)
 - [timeline](https://github.com/Second-Time-Is-The-Charm/site/pull/9)
 
-## Παραδοτέο 6 
+## Παραδοτέο 6 | book entry
 Αρχικά για αυτό το παραδοτέο χρειάστηκε να εξοικειωθώ με δύο αγνώστες -για εμένα- ως τώρα τεχνολογίες
 - [x] Το εργαλίο [pandoc](https://pandoc.org/)
 - [x] Την γλώσσα [lua](https://www.lua.org/)
@@ -73,6 +78,20 @@
 - [x] μια δική μου [προσθήκη](https://github.com/Angeloth1/kallipos/blob/master/contribution/unixLin.md)
 
 Σε αυτό το παραδοτέο χρειάστηκε να επεξεργαστώ το make-latex.sh έτσι ώστε να δημιουργεί το βιβλίο σε tex και σε pdf μορφή αλλά και να καλεί το φίλτρο μου∙ Βέβαια έγιναν κι άλλες αλλαγές στο make-latex για να υπάρχει feedback. Τέλος αυτό είναι το contribution.md και η αλλαγή στο βιβλίο.
+
+## Παραδοτέο 7 | case-study
+Για το case study μου αποφάσισα να ασχοληθώ με τα shells και συγκεκριμένα με το [bash](https://www.gnu.org/software/bash/. Αναφέρω μερικές από τις βασικές του διαφοροποιήσεις με τα ως τότε υπάρχοντα shells καθώς και μερικές από τις δυνατότης που προσφέρουν στο χρήστη τα shells. Οι  πηγές όπου χρησιμοποίησα είναι οι ακόλουθες (και αξίζουν νομίζω να τις μελετήσετε καθώς σε αυτό το case study δεν μπορώ παρά να αναφέρω το ρεσουμέ από μερικά σημεία από την καθέ μια).
+- [BASH 1](http://bashcookbook.com/bashinfo/source/bash-4.0/doc/rose94.pdf)
+- [BASH 2](https://books.google.gr/books?hl=el&lr=&id=dzBCH3x6fYEC&oi=fnd&pg=PT7&dq=bash+shell&ots=iXl_zalwFU&sig=Z-EfIYMoAn-QBjrJOzt_x97YQy8&redir_esc=y#v=onepage&q&f=false)
+- [BASH 3](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+- [POSIX 1](https://en.wikipedia.org/wiki/POSIX)
+- [POSIX 2](https://itsfoss.com/posix/)
+
+Τα αρχεία που χρειάστικε να φτιάξω είναι: [cs-study](https://github.com/Angeloth1/site/blob/master/_case-study/bash.md), [includes](https://github.com/Angeloth1/site/blob/master/_includes/cs-bash.md).
+Καταλήγοντας λοιπόν στο ακόλουθο αποτέλεσμα : 
+- [bash shell](https://site-nu-wine.vercel.app/case-study/bash/)
+
+<sub><sup> αν και θα ήθελα να αναφέρο περισσότερα για την διεπαφή που προσφέρει συγκεκριμένα το bash, η αλήθεια είναι ότι τα περισσότερα αν όχι όλα τα shells έχουν περίπου ίδια διεπαφή</sup></sub>
 
 ## TEAM 
 
