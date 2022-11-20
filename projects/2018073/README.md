@@ -18,7 +18,7 @@
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](#παραδοτεο-4---εγκατάσταση-arch-linux-hw) |[Discussion Link - Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1306) | Challenging παραδοτέο, εγκατέστησα το λειτουργικό σύστημα Arch Linux manually σε ξεχωριστό σύστημα και μέσω του archwiki, archlinux forums και μερικών άλλων αυθαίρετων πηγών κατάφερα να κατανοήσω τη διαδικασία εγκατάστασης και να πετύχω τον στόχο μου. Έπειτα πραγματοποίησα δύο ασκήσεις τύπου warm-up για την καλύτερη εξοικείωση με το λειτουργικό. |
 | 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτεο-5---συμμετοχικό-περιεχόμενο-a2) |[Discussion Link - Παραδοτέο 5]()|Πολύ εύκολη διαδικασία διότι βασίζεται στις ιδέες του παραδοτέου 3, πρόσθεσα τις εικόνες μου στη διαφάνεια μορφές (forms) και στο χρονολόγιο "η εξέλιξη του ποντικιού" (mouse) και αιτιολόγησα τον λόγο. Τέλος, έκανα pull request τις αλλαγές.|
 | 6 | Κατασκευή του βιβλίου Α | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτεο-7---συμμετοχικό-περιεχόμενο-b1) |[Discussion Link - Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1716)| Δεν ήταν δύσκολη διαδικασία, δημιούργησα ένα case study για το Apple Wireless Mouse σχετικά με τη δημιουργία του, την τεχνολογία του, και τον ρόλο του στη σχέση ανθρώπου-υπολογιστή. |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -170,6 +170,21 @@ _Το παραδοτεό αυτό βασίζεται στις προσθήκες
 
 - [Pull Request](https://github.com/MainCharacters/site/pull/2)
 
+## ΠΑΡΑΔΟΤΕΟ 6 -
+
+## ΠΑΡΑΔΟΤΕΟ 7 - Συμμετοχικό περιεχόμενο B1
+
+Σε αυτό το παραδοτέο δημιούργησα case study για το Apple Wireless Mouse του 2003. Συγκεκριμένα η λογική με την οποία έχτισα όλο το workflow μου για το case study βασίζεται στο ρόλο του Apple Wireless Mouse ως μέσω επιρροής τεχνολογίας και βασικότερα μέσω επιρροής στη διεπαφή ανθρώπου-υπολογιστή έπειτα της ημερομηνίας κυκλοφορίας του. Κατά την εκπόνηση του παραδοτέου το netlify δεν λειτουργούσε λόγω buggy update από τη πλευρά τους, επομένως βασίστηκα σε υποκατάστα του όπως το vercel. Τέλος, παραθέτω τις αντίστοιχες πηγές από τις οποίες εμπνεύστηκα, αλλά γενικότερα τόσο ο λόγος συγγραφής του case study όσο και η λογική για την αλληλεπίδραση ανθρώπου-υπολογιστή έγινε χρήση μέσω της κριτικής μου σκέψης. 
+
+- [_include](https://github.com/FaidonTsetsis/site/blob/master/_includes/cs-apple-wireless.md)
+- [_case-study](https://github.com/FaidonTsetsis/site/blob/master/_case-study/apple-wireless.md)
+- [vercel site ατομικό δοκιμαστικό](https://site-11e9.vercel.app/case-study/apple-wireless/)
+
+Πηγές: 
+- [Τεχνολογία AFH](https://en.wikipedia.org/wiki/Bluetooth#Implementation)
+- [Apple Mice History](https://en.wikipedia.org/wiki/Apple_pointing_devices)
+- [Steve Jobs παρουσίαση του Apple Wireless Mouse 2003](https://youtu.be/V8VPy5PrzJA?t=661)
+- [More info](https://www.apple.com/ie/newsroom/2003/09/16Apple-Introduces-Wireless-Keyboard-Mouse/)
 
 ## Ομαδικότητα και Συνεργασία (Βοήθεια συμφοιτητών μου)
 - Επεξήγηση οδηγιών σε λάθος άνοιγμα Pull Request από κάποιον συμφοιτητή μου: [Fail Pull Request](https://github.com/courses-ionio/hci/pull/1820)
