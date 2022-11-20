@@ -131,3 +131,5 @@ e-mail: p19tila@ionio.gr <br/>
 | 4 | Alto System Project: Larry Tesler demonstration of Gypsy |<p align = "center">✅</p>|<p align = "center">✅</p>|
 | 5 | Alan Kay: Doing with Images Makes Symbols (Full Version) |<p align = "center">✅</p>|<p align = "center">✅</p>|
 | 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 |<p align = "center">✅</p>|<p align = "center">✅</p>|
+| 6 | Oral History of Douglas Engelbart |<p align = "center">✅</p>|<p align = "center">✅</p>|
+
