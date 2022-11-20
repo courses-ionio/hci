@@ -78,3 +78,5 @@ https://github.com/Stergioulas/kallipos/blob/master/make-latex.sh
 ## Case Study about interactions in VR
 ### Link Case Study:
 - https://github.com/team-132/site/blob/master/_case-study/videogames-interactions-vr.md
+### Link includes :
+- https://github.com/team-132/site/commit/b4cd9b42b9ef47cf55555aeaf914642d26486dab?diff=unified&short_path=fac8172#diff-fac81722b6cace897a3773770cd7481fcb8b6d8e04b9e644e8414da30b0a53c0
