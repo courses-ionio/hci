@@ -8,11 +8,11 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Εισαγωγή](https://github.com/courses-ionio/help/discussions/987) | |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Εισαγωγή](https://github.com/courses-ionio/help/discussions/987), [Ομάδα](https://github.com/MainCharacters) | |
 | 2 | [Άσκηση γραμμής εντολών (linux install)](#παραδοτέο-2) | [Boot logs & Specs](https://github.com/courses-ionio/help/discussions/1108) | |
 | 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3) | | |
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](#παραδοτέο-4) | [ArchLinux installation on HW & Warm-up exercises](https://github.com/courses-ionio/help/discussions/1348) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -45,9 +45,15 @@ asciinema link: https://asciinema.org/a/TsRLr9IgszSTONBMgpe5NPhgu
 
 Προσωπικός σύνδεσμος netlify
 
--[siri](https://grand-cranachan-7f3e1d.netlify.app/gallery/siri/)
+- [siri](https://grand-cranachan-7f3e1d.netlify.app/gallery/siri/)
 
--[VersaBraille](https://grand-cranachan-7f3e1d.netlify.app/gallery/versabraille/)
+- [VersaBraille](https://grand-cranachan-7f3e1d.netlify.app/gallery/versabraille/)
+
+Pull request
+
+- [_gallery](https://github.com/MainCharacters/_gallery/pull/1)
+
+- [images](https://github.com/MainCharacters/images/pull/1)
 
 ### Παραδοτέο 4
 
@@ -111,3 +117,13 @@ asciinema link: https://asciinema.org/a/QzXDCbgYw6mMivGfi7lsLUCSB
 asciinema link: https://asciinema.org/a/CsOV5GljPlvssQ12peKQz2Oxx
 
 Για την τελευταία εργασία εγκαταστάθηκαν τα λογισμικα ***tmux*** και ***glances***. Το πρώτο λογισμικό έχει την ικανότητα να ανοίγει νέα bashes, να εναλλάσσει μεταξύ αυτών και να χωρίζει στο ίδιο bash, το ίδιο terminal window, σε πολλαπλές περιοχές. Ενώ το δεύτερο παρακολουθεί και απεικονίζει την επίδοση του υπολογιστή.
+
+### Παραδοτέο 5
+
+Συμμετοχικό περιεχόμενο Α2.
+
+Ζητούμενο του παραδοτέου είναι η προσθήκη των εικόνων με λαζάντα από το [προηγούμενο παραδοτέο](#παραδοτέο-3) του συμμετοχικού περιεχομένου σε ένα σετ από θεματικές διαφάνειες και σε ένα χρονολόγιο.
+
+Η πρώτη εικόνα με λεζάντα που εισαγώ σχετίζεται με την *siri*. Η siri πρόκειται για ένα εικονικό βοηθό της Apple που ευκολύνει την καθημερινότητα εκατομμυρίων χρηστών στον πλανήτη, λύνοντας τους από απλές ερωτήσεις μέχρι και εκτελώντας διάφορες λειτουργίες. Για αυτό διάλεξα ως θεματική διαφάνεια τις [έξυπνες διαπεφές χρήστη - iui](https://github.com/AnTonyPapako/site/blob/master/_slides/iui.md) και ως χρονολόγιο τις [έξυπνες διεπαφές - agents](https://github.com/AnTonyPapako/site/blob/master/_timeline/agents.md).
+
+Η δεύτερη αναφαίρεται στην συσκευή VersaBraille. Πρόκειται για ένα display system που εμφανίζει ένα κείμενο σε μορφή braille, ευανάγνωστη για ανθρώπους με ειδικές ανάγκες όρασης, εφόσον έχει γίνει πρώτα έχει γίνει είσοδος του κειμένου και έπειτα η μετατροπή. Έτσι επέλεξα ως θεματική διαφάνεια τους [τρόπους διάδρασης - styles](https://github.com/AnTonyPapako/site/blob/master/_slides/styles.md) και ως χρονολόγιο τις [συσκευές εισόδου - input-devices](https://github.com/AnTonyPapako/site/blob/master/_timeline/input-devices.md).
