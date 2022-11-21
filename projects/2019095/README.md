@@ -80,14 +80,14 @@
 Σε αυτό το παραδοτέο χρειάστηκε να επεξεργαστώ το make-latex.sh έτσι ώστε να δημιουργεί το βιβλίο σε tex και σε pdf μορφή αλλά και να καλεί το φίλτρο μου∙ Βέβαια έγιναν κι άλλες αλλαγές στο make-latex για να υπάρχει feedback. Τέλος αυτό είναι το contribution.md και η αλλαγή στο βιβλίο.
 
 ## Παραδοτέο 7 | case-study
-Για το case study μου αποφάσισα να ασχοληθώ με τα shells και συγκεκριμένα με το [bash](https://www.gnu.org/software/bash/. Αναφέρω μερικές από τις βασικές του διαφοροποιήσεις με τα ως τότε υπάρχοντα shells καθώς και μερικές από τις δυνατότης που προσφέρουν στο χρήστη τα shells. Οι  πηγές όπου χρησιμοποίησα είναι οι ακόλουθες (και αξίζουν νομίζω να τις μελετήσετε καθώς σε αυτό το case study δεν μπορώ παρά να αναφέρω το ρεσουμέ από μερικά σημεία από την καθέ μια).
+Για το case study μου αποφάσισα να ασχοληθώ με τα shells και συγκεκριμένα με το [bash](https://www.gnu.org/software/bash/). Αναφέρω μερικές από τις βασικές του διαφοροποιήσεις με τα ως τότε υπάρχοντα shells καθώς και μερικές από τις δυνατότης που προσφέρουν στο χρήστη τα shells. Οι  πηγές όπου χρησιμοποίησα είναι οι ακόλουθες (και αξίζουν νομίζω να τις μελετήσετε καθώς σε αυτό το case study δεν μπορώ παρά να αναφέρω το ρεσουμέ από μερικά σημεία από την καθέ μια).
 - [BASH 1](http://bashcookbook.com/bashinfo/source/bash-4.0/doc/rose94.pdf)
 - [BASH 2](https://books.google.gr/books?hl=el&lr=&id=dzBCH3x6fYEC&oi=fnd&pg=PT7&dq=bash+shell&ots=iXl_zalwFU&sig=Z-EfIYMoAn-QBjrJOzt_x97YQy8&redir_esc=y#v=onepage&q&f=false)
 - [BASH 3](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - [POSIX 1](https://en.wikipedia.org/wiki/POSIX)
 - [POSIX 2](https://itsfoss.com/posix/)
 
-Τα αρχεία που χρειάστικε να φτιάξω είναι: [cs-study](https://github.com/Angeloth1/site/blob/master/_case-study/bash.md), [includes](https://github.com/Angeloth1/site/blob/master/_includes/cs-bash.md).
+Τα αρχεία που χρειάστικε να φτιάξω είναι: [cs-study](https://github.com/Angeloth1/site/blob/master/_case-study/bash.md) , [includes](https://github.com/Angeloth1/site/blob/master/_includes/cs-bash.md).
 Καταλήγοντας λοιπόν στο ακόλουθο αποτέλεσμα : 
 - [bash shell](https://site-nu-wine.vercel.app/case-study/bash/)
 
