@@ -319,7 +319,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 | Άρθρα | Φωτογραφίες | Πηγές σε μορφή link |
 | --- | --- | --- |
-
+| [Δημιουργία βιβλιογραφίας σχετικά με τον Guido Van Rossum](https://greekforce1821-site.vercel.app//biography/guido-van-rossum/) | [Φωτογραφία #1](https://gvanrossum.github.io/images/DO6GvRhi.gif) , [Φωτογραφία #2](https://en.wikipedia.org/wiki/Guido_van_Rossum#/media/File:Guido-portrait-2014-drc.jpg) & [Φωτογραφία #3](https://gvanrossum.github.io/images/guido-headshot-2019.jpg) |
 
 
 
