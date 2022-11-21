@@ -324,6 +324,10 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 | Guido Van Rossum #3 | [Φωτογραφία #3](https://gvanrossum.github.io/images/DO6GvRlo.gif) | © Unknown | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |  
 | [Python Case Study #1](https://greekforce1821-site.vercel.app/case-study/python/) | [Φωτογραφία #1](https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220730085403%21Python-logo-notext.svg) | © The Python Software Foundation | [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html)
 | Python Case Study #2 | [Φωτογραφία #2](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80) | © Chris Ried | [Unsplash License](https://unsplash.com/license)
+| Python Case Study #3 | [Φωτογραφία #3](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/python-statistics-2022.jpg) | © Spyros Kokotos | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Python Case Study 34 | [Φωτογραφία #4](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/programming-languages-statistics-2022.jpg) | © Spyros Kokotos  | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |  
+
+
 
 ---
 
