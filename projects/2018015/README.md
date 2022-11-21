@@ -78,7 +78,7 @@
 
 * **[Download a song in mp3 format](https://asciinema.org/a/oQEDbJUU08FcVm5Z8IMruZbKy)**
 * **[Check the weather](https://asciinema.org/a/NNaIeKH6arzyYE5D3Vucgzlnl)**
-* **[read the business news](https://asciinema.org/a/0rsk22MB1R8Od23xSRbjlDO3U)**
+* **[Read the business news](https://asciinema.org/a/0rsk22MB1R8Od23xSRbjlDO3U)**
 * **[Asciiquarium](https://asciinema.org/a/NZucswNfvPywf9y1YgBhaabGN)**
 
 Μερικά **screenshots** από την εγκατάσταση του λογισμικού:
