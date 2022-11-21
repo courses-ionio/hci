@@ -313,6 +313,15 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 * Φωτογραφία για την μελέτη περίπτωσης της Python #2: [Python #2](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/guido-headshot.jpg)
 * Φωτογραφία για την μελέτη περίπτωσης της Python #3: [Python #3](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/python-statistics-2022.jpg)
 * Φωτογραφία για την μελέτη περίπτωσης της Python #4: [Python #4](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/programming-languages-statistics-2022.jpg)
+---
+
+# Πίνακας πνευματικών δικαιωμάτων σχετικά με την αξιοποίηση των πηγών και των φωτογραφιών:
+
+| Άρθρα | Φωτογραφίες | Πηγές σε μορφή link |
+| --- | --- | --- |
+
+
+
 
 # Παραδοτέο 8ο: Command Line Exercise #2
 
