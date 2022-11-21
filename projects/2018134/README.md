@@ -94,10 +94,6 @@
 
 - [The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6232426/)
 
-<p>Παρακάτω παρουσιάζεται το link από το netlify</p>
-
-- [My Site]()
-
 # Παραδοτέο 8: Άσκηση γραμμής εντολών
 <p>Στο συγκεκριμένο παραδοτέο καλούμαστε να εκτελέσουμε μία από τις ασκήσεις HCI. Η άσκηση που επέλεξα να κάνω είναι "format your report", με το εργαλείο groff. Επειδή στο 6ο παραδοτέο, δυσκολεύτηκα να μετατρέψω το βιβλίο σε pdf και να φανούν οι προσθήκες που είχα κάνει, αποφάσισα να δείξω τις προσθήκες μου μέσω του groff. Παρακάτω, φαίνεται το αποτέλεσμα σε βίντεο-gif.</p>
 
