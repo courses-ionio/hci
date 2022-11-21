@@ -319,8 +319,9 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 | Φωτογραφίες | Copyright Holders | License | Type of License |
 | --- | --- | --- | --- |
-| [Guido Van Rossum #1](https://greekforce1821-site.vercel.app//biography/guido-van-rossum/) | [Φωτογραφία #1](https://gvanrossum.github.io/images/DO6GvRhi.gif)| © Michael Cavotta. | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| [Guido Van Rossum #1](https://greekforce1821-site.vercel.app//biography/guido-van-rossum/) | [Φωτογραφία #1](https://gvanrossum.github.io/images/guido-headshot-2019.jpg)| © Michael Cavotta. | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 | Guido Van Rossum #2 | [Φωτογραφία #2](https://gvanrossum.github.io/images/guido-portrait-dan-stroud.jpg) | ©  Dan Stroud | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | 
+| Guido Van Rossum #3 | [Φωτογραφία #3](
 
 
 
