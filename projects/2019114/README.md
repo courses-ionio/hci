@@ -52,7 +52,7 @@
 | [Wii U](https://github.com/p19papa4/_gallery/blob/master/wii-u.md) | [Wii U](https://p19papa4.netlify.app/gallery/wii-u/) | [Wii U](https://oroseira2022.netlify.app/gallery/wii-u/) |
 | [Oculus Rift](https://github.com/p19papa4/_gallery/blob/master/oculus-rift.md) | [Oculus Rift](https://p19papa4.netlify.app/gallery/oculus-rift/)  |  [Oculus Rift](https://oroseira2022.netlify.app/gallery/oculus-rift/) |
 
-Τα αντίστοιχα Pull Request για το [_gallery](https://github.com/Oroseira/_gallery/pull/4/files) και το [images](https://github.com/Oroseira/images/pull/4)
+Τα αντίστοιχα Pull Request για το [_gallery](https://github.com/Oroseira/_gallery/pull/7) και το [images](https://github.com/Oroseira/images/pull/6)
 
 
 # Άσκηση γραμμής εντολών warmup
@@ -76,7 +76,7 @@
 |[Timeline Wii U](https://github.com/p19papa4/site/blob/2019114/_timeline/consoles.md) | [Timeline Wii U](https://p19papa4.netlify.app/timeline/consoles/) | [Timeline Wii U](https://oroseira2022.netlify.app/timeline/consoles/) |
 |[Slides Wii U](https://github.com/p19papa4/site/blob/2019114/_slides/technology.md) | [Slides Wii U](https://p19papa4.netlify.app/slides/technology/) | [Slides Wii U](https://oroseira2022.netlify.app/slides/technology/) |
 
-Το αντίστοιχο [pull request](https://github.com/Oroseira/site/pull/5)
+Το αντίστοιχο [pull request](https://github.com/Oroseira/site/pull/10)
 
 # Κατασκευή του βιβλίου Α
 
@@ -86,9 +86,9 @@
 | --- | --- | --- | 
 | [Virtual Reality](https://github.com/p19papa4/site/blob/2019114/_case-study/virtual-reality.md) | [Virtual Reality](https://p19papa4.netlify.app/case-study/virtual-reality/) | [Virtual Reality](https://oroseira2022.netlify.app/case-study/virtual-reality/) |
 
-To αντίστοιχο [pull request](https://github.com/Oroseira/images/pull/10/files) για images 
+To αντίστοιχο [pull request](https://github.com/Oroseira/images/pull/6) για images 
 
-Το αντίστοιχο [pull request](https://github.com/Oroseira/site/pull/8#event-7765410876) για case study
+Το αντίστοιχο [pull request](https://github.com/Oroseira/site/pull/10) για case study
 
 # Άσκηση γραμμής εντολών
 
@@ -98,9 +98,9 @@ To αντίστοιχο [pull request](https://github.com/Oroseira/images/pull/1
 | --- | --- | --- | 
 | [Bill Gates](https://github.com/p19papa4/site/blob/2019114/_biography/bill-gates.md) | [Bill Gates](https://p19papa4.netlify.app/biography/bill-gates/) | [Bill Gates](https://oroseira2022.netlify.app/biography/bill-gates/) |
 
-To αντίστοιχο [pull request](https://github.com/Oroseira/images/pull/10/files) για images 
+To αντίστοιχο [pull request](https://github.com/Oroseira/images/pull/6) για images 
 
-Το αντίστοιχο [pull request](https://github.com/Oroseira/site/pull/8#event-7765410876) για biorgraphy
+Το αντίστοιχο [pull request](https://github.com/Oroseira/site/pull/10) για biorgraphy
 
 # Άσκηση γραμμής εντολών
 
@@ -119,7 +119,7 @@ To αντίστοιχο [pull request](https://github.com/Oroseira/images/pull/1
 | 4 | Alto System Project: Larry Tesler demonstration of Gypsy | :heavy_check_mark: | :heavy_check_mark: |
 | 5 | Alan Kay: Doing with Images Makes Symbols (Full Version) | :heavy_check_mark: | :heavy_check_mark: |
 | 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | :heavy_check_mark: | :heavy_check_mark: |
-| 7 |  | :heavy_check_mark: | :heavy_check_mark: |
+| 7 | Oral History of Douglas Engelbart | :heavy_check_mark: | :heavy_check_mark: |
 | 8 |  | :heavy_check_mark: | :heavy_check_mark: |
 | 9 |  | :heavy_check_mark: | :heavy_check_mark: |
 | 10 |  | :heavy_check_mark: | :heavy_check_mark: |
