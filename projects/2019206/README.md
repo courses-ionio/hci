@@ -12,7 +12,7 @@
 | 3 | [Συμμετοχικό περιεχόμενο A1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1165) | |
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](#%CE%B1%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-warmup) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1277) | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B12) | | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | [Κατασκευή του βιβλίου Α](#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B1) | | |
 | 7 | [Συμμετοχικό περιεχόμενο B1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21-%CE%BA%CE%B1%CE%B9-%CE%B22) | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | [Συμμετοχικό περιεχόμενο B2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21-%CE%BA%CE%B1%CE%B9-%CE%B22) | | |
@@ -148,6 +148,23 @@
 
 Το [pull request](https://github.com/Oroseira/site/pull/1) μου για την [ομάδα](https://github.com/Oroseira/). (Το ίδιο [pull request](https://github.com/Oroseira/site/pull/1) έγινε και για το [Συμμετοχικό περιεχόμενο A1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1))
 
+
+# **Κατασκευή Βιβλίου Α**
+
+Για αυτό το παραδοτέο, αποφάσισα να συνεισφέρω στο κεφάλαιο 9 του βιβλίου και πιο συγκεκριμένα, στη σελίδα 276, εκεί που μιλάει για την εξομοίωση και την προσωμοίωση (κεφάλαιο 9.2). Αναλυτικότερα το κείμενο μιλάει για τους προσωμοιωτές και τους εξομοιωτές, εξηγεί τις διαφορές τους και δίνει παραθέτει τη χρησιμότητα του καθενός.
+
+Έτσι βάση αυτού του κειμένου, αποφάσισα να προσθέσω μια παράγραφο σχετικά με το Flight Simulator της Microsoft (MSF για συντομία) το οποίο είναι ένα video game εξομοίωσης πτήσεων. Επέλεξα το συγκεκριμένο λογισμικό διότι είναι το πιο ρεαλιστικό λογισμικό που υπάρχει για εμπορική χρήση καθώς εξομοιώνει διάφορα είδη σκαφών σε πραγματικούς χάρτες του κόσμου και με live feed του καιρού που έχει ο εκάστοτε τόπος πτήσης. Ακόμη αξίζει να σημειωθεί ότι το MFS, είναι το μακροβιότερο λογισμικό της Microsoft (παλαιότερο από τα Windows).
+
+<h3>Η προσθήκη μου:</h3>
+<p align=center>
+ <img src="https://user-images.githubusercontent.com/72461719/203103715-095aefbc-157e-49fd-bf7f-a112a5d6c699.png" width="400"/>
+ </p>
+ 
+ Το issue με το [βιβλίο](https://github.com/Mnlsvt/kallipos/issues/1) (μαζί με την προσθήκη μου) σε μορφή pdf.
+ 
+ Το [md αρχείο μου](https://github.com/Mnlsvt/kallipos/blob/master/my_contribution/flight_simulator.md).
+ 
+ Το [lua αρχείο μου](https://github.com/Mnlsvt/kallipos/blob/master/flight_simulator.lua)
 
 # **Συμμετοχικό περιεχόμενο Β1 και Β2**
 
