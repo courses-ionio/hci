@@ -317,9 +317,11 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 # Πίνακας πνευματικών δικαιωμάτων σχετικά με την αξιοποίηση των πηγών και των φωτογραφιών:
 
-| Άρθρα | Φωτογραφίες | Copyright Holders | License |
-| --- | --- | --- | --- |
-| [Δημιουργία βιβλιογραφίας σχετικά με τον Guido Van Rossum](https://greekforce1821-site.vercel.app//biography/guido-van-rossum/) | [Φωτογραφία #1](https://gvanrossum.github.io/images/DO6GvRhi.gif) , [Φωτογραφία #2](https://en.wikipedia.org/wiki/Guido_van_Rossum#/media/File:Guido-portrait-2014-drc.jpg) & [Φωτογραφία #3](https://gvanrossum.github.io/images/guido-headshot-2019.jpg) | #1 Photo credit: Michael Cavotta. , #2 | CC BY-NC-ND 4.0 |
+| Φωτογραφίες | Copyright Holders | License |
+| --- | --- | --- |
+| [Guido Van Rossum #1](https://greekforce1821-site.vercel.app//biography/guido-van-rossum/) | [Φωτογραφία #1](https://gvanrossum.github.io/images/DO6GvRhi.gif)| © Michael Cavotta. | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Guido Van Rossum #2 | [Φωτογραφία #2](https://gvanrossum.github.io/images/guido-portrait-dan-stroud.jpg) | ©  Dan Stroud | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) 
+
 
 
 
