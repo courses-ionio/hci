@@ -52,6 +52,11 @@
 | [Wii U](https://github.com/p19papa4/_gallery/blob/master/wii-u.md) | [Wii U](https://p19papa4.netlify.app/gallery/wii-u/) | [Wii U](https://oroseira2022.netlify.app/gallery/wii-u/) |
 | [Oculus Rift](https://github.com/p19papa4/_gallery/blob/master/oculus-rift.md) | [Oculus Rift](https://p19papa4.netlify.app/gallery/oculus-rift/)  |  [Oculus Rift](https://oroseira2022.netlify.app/gallery/oculus-rift/) |
 
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/72709548/203056032-4d9f20fd-25e5-4a18-91ec-11a9dc6b27df.png"  width="428"/> 
+  <img src="https://user-images.githubusercontent.com/72709548/203056044-a51ec647-7c35-4c51-93be-3bbcb5e6c9cc.png"  width="550"/> 
+</p>
+
 Τα αντίστοιχα Pull Request για το [_gallery](https://github.com/Oroseira/_gallery/pull/7) και το [images](https://github.com/Oroseira/images/pull/6)
 
 
@@ -79,6 +84,16 @@
 Το αντίστοιχο [pull request](https://github.com/Oroseira/site/pull/10)
 
 # Κατασκευή του βιβλίου Α
+
+Σε αυτό το παραδοτέο αποφάσισα να προσθέσω μία παράγραφο για την αποτελεσματικότητα της γλώσσας προγραμματισμού Smalltalk
+
+η [pdf](https://github.com/p19papa4/kallipos/blob/master/book.pdf) μορφή του βιβλίου
+
+το [αρχείο](https://github.com/p19papa4/kallipos/blob/master/myfilter.lua) .lua
+
+το [αρχείο](https://github.com/p19papa4/kallipos/blob/master/2019114/smalltalk.md) .md
+
+![Screenshot_1](https://user-images.githubusercontent.com/72709548/203061021-af3bdc6b-e87a-4307-9f91-6489bf049ead.png)
 
 # Συμμετοχικό περιεχόμενο Β1
 
