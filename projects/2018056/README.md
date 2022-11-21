@@ -92,17 +92,17 @@
 # Παραδοτέο 7: Συμμετοχικό Περιεχόμενο Β1
 <p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα μελέτη περίπτωσης στο site του βιβλίου. Το case study που επέλεξα σχετίζεται άμεσα με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline), αλλά και με το περιεχόμενο της εισαγωγής μου. Τα αποτελέσματα φαίνονται παρακάτω:</p>
 
-- [case study]()
+- [case study](https://github.com/p18kavv/site/blob/master/_case-study/Linux%20OS.md)
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
-- [Pull Request προς τον οργανισμό της ομάδας - case study](https://github.com/The4Beasts/site/pull/11)
-- [Pull Request προς τον οργανισμό της ομάδας - image](https://github.com/The4Beasts/images/pull/6)
+- [Pull Request προς τον οργανισμό της ομάδας - case study](https://github.com/The4Beasts/site/pull/13)
+- [Pull Request προς τον οργανισμό της ομάδας - image](https://github.com/The4Beasts/images/pull/8)
 - [Οργανισμός ομάδας](https://github.com/The4Beasts)
 
 <p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
 
-- [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
+- [Linux OS](https://www.slideshare.net/joycoronado/presentation1-linux-os)
 
 <p>Παρακάτω παρουσιάζεται το link από το netlify</p>
 
