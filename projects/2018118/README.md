@@ -14,8 +14,8 @@
 | 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | [Συζήτηση-Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1433) | |
 | 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | [Συζήτηση-Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1567)| |
 | 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) | | |
-| 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 8 | [Άσκηση γραμμής εντολών](#παραδοτέο-8)| | |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -116,3 +116,15 @@ https://github.com/courses-ionio/help/discussions/1430
 Παρακάτω θα βρείτε το link για το asciinema με τα Deliverables:
 
 [Asciinema Link](https://asciinema.org/a/HwVb4uxirC7ZzLAPBlX9xTIe1)
+
+# Παραδοτέο 9
+
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Β2 αποφάσισα να κάνω την βιογραφία του Dennis Ritchie. Ένα πολύ σημαντικό πρόσωπο στην ιστοριά της πληροφορικής. Δημιουργός του unix και της γλώσσας προγραμματισμού C, η οποία αποτελέι και κομμάτι της εργασίας μου στο Α μέρος.
+
+| Netlify |  Case Study | Case Text |
+| --- | --- | --- |
+| [Netlify](https://p2018118-pibook.netlify.app/biography/dennis-ritchie/) | [Biography Repository](https://github.com/Drexion/site/blob/master/_biography/dennis-ritchie.md) | [Biography Text](https://github.com/Drexion/site/blob/master/_biography/bio-ritchie.md) |
+
+Πηγές
+[Βιογραφία Dennis Ritchie](https://handwiki.org/wiki/Biography:Dennis_Ritchie)
+
