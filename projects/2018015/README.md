@@ -139,7 +139,7 @@
 * **[_case-study](https://github.com/Efthimis015/site/blob/organization/_case-study/mp3.md)**
 
 ### Netlify:
-* **[History of mp3](https://efthimis015.netlify.app/case-study/mp3/)**
+* **[History of mp3](https://organization--efthimis015.netlify.app/case-study/mp3/#fnref:1)**
 
 
 
