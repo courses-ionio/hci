@@ -15,7 +15,7 @@
 | 2 | [Άσκηση γραμμής εντολών(linux install on HW)](#2ο-παραδοτέο) | [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1641#discussion-4573759) | Η χειροκίνητη εγκατάσταση του λειτουργικού συστήματος μου επέτρεψε να εξοικειωθώ σε έναν πρώτο βαθμό με την διεπαφή γραμμής εντολών |
 | 3 | [Συμμετοχικό περιεχόμενο A1](#3ο-παραδοτέο) | [3ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1670) | Εξοικειώθηκα με σε έναν πρώτο βαθμό με τόσο με την web-based εφαρμογή του GitHub όσο και με το git CLI. Αν και δυσκολεύτηκα λίγο με την διαδικασία των submodules, εν τέλει κατάφερα να βρω τον δρόμο μου και να ανεβάσω επιτυχώς το δικό μου κομμάτι στο ομαδικό αποθετήριο και στο netlify |
 | 4 | [Άσκηση γραμμής εντολών](#4ο-παραδοτέο) | [4ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1672)| Γνώρισα ένα νέο εργαλείο το οποίο μου δίνει την δυνατότητα να τσεκάρω το δελτίο καιρού γρήγορα μέσα από το τερματικό μου|
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#5ο-παραδοτέο) | [5ο Παραδοτέο]() | Πρόσθεσα επιτυχώς το δεύτερο μέρος του συμμετοχικού περιεχομένου και είχα παράλληλα την ευκαιρία να μελετήσω περισσότερο το βιβλίο του μαθήματος |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -38,7 +38,8 @@
 του GitHub, και τις συσχετιζόμενες με αυτήν εφαρμογές. Επιπρόσθετα ευελπιστώ να αναπτύξω τις δεξιότητες μου στο λογισμικό του Linux. Εξίσου
 μεγάλο κέρδος για μένα θα είναι η δουλειά μέσα σε ενα περιβάλλον ομάδας, οπου απαιτείται συνεργασία, αλληλοστήριξη με σκοπό τη κοινή εξέλιξη 
 και ανάπτυξη.
-
+<br />
+<br />
 
 #### Εβδομαδιαία Παρουσίαση Προόδου
 - [Π2017100 - 1ο Παραδοτέο #1631](https://github.com/courses-ionio/help/discussions/1631)
@@ -58,10 +59,13 @@
 Για να εμφανίσω τα χαρακτηριστικά του συστήματός μου, έπρεπε αρχικά να κατεβάσω το εργαλείο neofetch, το οποίο και έκανα χρησιμοποιώντας τον package manager του λειτουργικού μου συστήματος, [pacman](https://wiki.archlinux.org/title/pacman). Εφόσον εγκατέστησα το εργαλείο, εν συνεχεία εκτέλεσα απλά την εντολή στο τερματικό μου: 
 
 2) neofetch
-
+<br />
+<br />
 
 #### Εβδομαδιαία Παρουσίαση προόδου
 - [Π2017100 - 2ο Παραδοτέο #1641](https://github.com/courses-ionio/help/discussions/1641)
+<br />
+<br />
 
 ### Asciinema Records
 
@@ -76,24 +80,46 @@
 
 | Περιγραφή | Repository Link | Pull request link |Netlify Link |
 | --- 	    | --- 	      | ---	     	  | ---	       |
-| lightpen  | [lightpen.md](https://github.com/ContattoContare/_gallery/blob/master/lightpen.md) | [lightpen - pullrequest](https://github.com/ContattoContare/_gallery/pull/10) | [lightpen summary](https://2017100.netlify.app/gallery/lightpen/) |
-| lightpen images | [full quality](https://github.com/ContattoContare/images/blob/master/lightpen.png) + [thumbnail](https://github.com/ContattoContare/images/blob/master/lightpen-thumb.png) | [lightpen images - pull request](https://github.com/ContattoContare/images/pull/9) | | 
-| templeOS  | [temple.md](https://github.com/ContattoContare/_gallery/blob/master/temple.md)   | [temple - pull request](https://github.com/ContattoContare/_gallery/pull/10) | [templeOS summary](https://2017100.netlify.app/gallery/temple/) |
-| templeOS images | [full quality](https://github.com/ContattoContare/images/blob/master/temple.png) + [thumbnail](https://github.com/ContattoContare/images/blob/master/temple-thumb.png) | [templeOS images - pull request](https://github.com/ContattoContare/images/pull/9) | |
+| lightpen  | [lightpen.md](https://github.com/GiannisStan/_gallery/blob/f4a9b34479c5ebfb281c56ffed330f4ec19ffade/lightpen.md) | [lightpen - pullrequest](https://github.com/ContattoContare/_gallery/pull/14) | [lightpen summary](https://2017100.netlify.app/gallery/lightpen/) |
+| lightpen images | [full quality](https://github.com/GiannisStan/_gallery/tree/f4a9b34479c5ebfb281c56ffed330f4ec19ffade ) + [thumbnail](https://github.com/GiannisStan/_gallery/tree/f4a9b34479c5ebfb281c56ffed330f4ec19ffade ) | [lightpen images - pull request](https://github.com/ContattoContare/images/pull/11) | | 
+| templeOS  | [temple.md](https://github.com/GiannisStan/_gallery/blob/f4a9b34479c5ebfb281c56ffed330f4ec19ffade/temple.md)  | [temple - pull request](https://github.com/ContattoContare/_gallery/pull/14) | [templeOS summary](https://2017100.netlify.app/gallery/temple/) |
+| templeOS images | [full quality](https://github.com/GiannisStan/_gallery/tree/f4a9b34479c5ebfb281c56ffed330f4ec19ffade ) + [thumbnail](https://github.com/GiannisStan/_gallery/tree/f4a9b34479c5ebfb281c56ffed330f4ec19ffade ) | [templeOS images - pull request](https://github.com/ContattoContare/images/pull/11) | |
+<br />
+<br />
 
 #### Εβδομαδιαία Παρουσίαση προόδου
 [2017100 - 3o Παραδοτέο #1670](https://github.com/courses-ionio/help/discussions/1670)
 <br />
 <br />
 
-
 ## 4ο Παραδοτέο
 Στο τέταρτο παραδοτέο αποφάσισα να κάνω την άσκηση check the weather από την κατηγορία [warmup](https://github.com/epidrome/dokey#warmup), χρησιμοποιώντας το εργαλείο [wttr](https://github.com/chubin/wttr.in). Επέλεξα την άσκηση αυτή ώστε να προσθέσω στην εργαλειοθήκη μου ένα ακόμα εργαλείο το οποίο θα μου δώσει την δυνατότητα να τσεκάρω το δελτίο καιρού της περιοχής μου γρήγορα και σε διάφορα formats, μέσα από το τερματικό μου. 
+<br />
+<br />
 
 #### Εβδομαδιαία Παρουσίαση προόδου
 [2017100 - 4ο Παραδοτέο #1672](https://github.com/courses-ionio/help/discussions/1672)
+<br />
+<br />
 
 #### Asciinema Records
 [![asciicast](https://asciinema.org/a/538656.svg)](https://asciinema.org/a/538656)
+<br />
+<br />
+
+## 5ο Παραδοτέο
+Για το δεύτερο κομμάτι του συμμετοχικού περιεχομένου αποφάσισα να κάνω μιά διαφάνεια με θεματική τις συσκευές εισόδου, στην οποία και συνδύασα την εικόνα της φωτογραφίδας που βρήκα στο πρώτο μέρος καθώς και διάφορες φωτογραφίες συσκευών εισόδου στην ιστοσελίδα του βιβλίου. Για το χρονολόγιο επέλεξα την θεματική των λειτουργικών συστημάτων στο οποίο και συνδύασα την εικόνα του λειτουργικού συστήματος templeOS που επέλεξα στο πρώτο μέρος με εικόνες διεπαφών διαφόρων λειτουργικών.
+
+Τα links παρουσιάζονται στον παρακάτω πίνακα: 
+
+| Περιγραφή | Repository Link | Pull request link |Netlify Link |
+| --- 	    | --- 	      | ---	     	  | ---	       	|
+| slides    | [input-devices.md](https://github.com/GiannisStan/_gallery/tree/f4a9b34479c5ebfb281c56ffed330f4ec19ffade ) | [slides - pull request](https://github.com/ContattoContare/site/pull/24) | [slides - netlify](https://2017100.netlify.app/slides/input-devices/) |
+| timeline  | [operating-systems.md](https://github.com/GiannisStan/site/blob/master/_timeline/operating-systems.md) | [timeline - pull request](https://github.com/ContattoContare/site/pull/24) | [timeline - netlify](https://2017100.netlify.app/timeline/operating-systems/) |
+<br />
+<br />
+
+#### Εβδομαδιαία Παρουσίαση προόδου
+
 <br />
 <br />
