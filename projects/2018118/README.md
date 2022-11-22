@@ -13,7 +13,7 @@
 | 4 | [Άσκηση γραμμής εντολών (arch linux install on HW)](#παραδοτέο-4) | [Συζήτηση-Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1519) | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | [Συζήτηση-Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1433) | |
 | 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | [Συζήτηση-Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1567)| |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -80,3 +80,14 @@
 ### Σχετικά με την συνεργασία και ομαδικότητα, σας παραθέτω παρακάτω Links για απαντήσεις-διορθώσεις-βελτιώσεις-σχόλια.
 
 https://github.com/courses-ionio/help/discussions/1430
+
+# Παραδοτέο 7
+
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Β1 αποφάσισα να ασχοληθώ με την δημιιουργία ενός case-study για το προγραμματιστικό περιβάλλον Microsoft Visual Studio. Θεωρώ ότι αποτελεί πολύ ενδιαφέρουσα προσθήκη σχετικά με το υλικό του Α1 και Α2 εφόσον οι γλώσσες προγραμματισμού συνδυάζονται άμεσα με τα IDE. Διάλεξα συγκεκριμένα το Visual Studio λόγω των μεγάλο αριθμών γλωσσών που υποστηρίζει καθώς και το extensibility που προσφέρει.
+
+| Netlify |  Case Study | Case Text |
+| --- | --- | --- |
+| [Netlify](https://p2018118-pibook.netlify.app/case-study/visual-studio/) | [Case Study Repository](https://github.com/Drexion/site/blob/master/_case-study/visual-studio.md) | [Case Text Repository](https://github.com/Drexion/site/blob/master/_case-study/cs-visual-studio.md) |
+
+Πηγές
+[Microsoft Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)
