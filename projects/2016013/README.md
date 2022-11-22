@@ -55,8 +55,7 @@
 
 Στο δεύτερο συμμετοχικό περιεχόμενο Α2 εισήγαγα τις προσθήκες μου απο το προηγούμενο στις αντίστοιχες διαφάνειες και χρονολόγιο
 
-  Slides
-
+   Slides
 
 - [Windows XP](https://jade-fenglisu-025746.netlify.app//slides/os/)
 
@@ -64,7 +63,6 @@
 
   
   Timeline
-
 
 - [Windows XP](https://jade-fenglisu-025746.netlify.app//timeline/microsoft/)
 
