@@ -87,13 +87,13 @@
 ## Παραδοτέο 4 - Ασκήσεις γραμμής εντολών - check the weather, fetch information:
 Για το συγκεκριμένο παραδοτέο επιλέχθηκαν οι ασκήσεις check the weather και fetch information από το warm up. Αρχικά, για την πρώτη άσκηση ήταν απαραίτητη η καταγραφή του καιρού δύο περιοχών, της Ελλάδας και του Παρισιού, με τη βοήθεια του εργαλείου curl, που χρησιμοποιείται για τη μεταφορά δεδομένων μέσω URLs σε command line περιβάλλοντα. Παρακάτω φαίνεται η καταγραφή της άσκησης:
 
-<a href="https://asciinema.org/a/532222" target="_blank"><img src="https://asciinema.org/a/532222.svg" /></a>
+<a href="https://asciinema.org/a/539578" target="_blank"><img src="https://asciinema.org/a/539578.svg" /></a>
 
 
 Για την δεύτερη άσκηση με τίτλο fetch information, χρησιμοποιήθηκε ξανά το εργαλείο curl, αλλά αυτή τη φορά για την καταμέτρηση των συναλλαγματικών ισοτιμιών των κρυπτονομισμάτων. 
 
 
-<a href="https://asciinema.org/a/532236" target="_blank"><img src="https://asciinema.org/a/532236.svg" /></a>
+<a href="https://asciinema.org/a/539580" target="_blank"><img src="https://asciinema.org/a/539580.svg" /></a>
 
 ## Σύνδεσμοι
 [Check the weather](https://github.com/chubin/wttr.in)
