@@ -55,28 +55,33 @@
 
 Στο δεύτερο συμμετοχικό περιεχόμενο Α2 εισήγαγα τις προσθήκες μου απο το προηγούμενο στις αντίστοιχες διαφάνειες και χρονολόγιο
 
-- Slides
+Slides
 
 
-[Windows XP](https://jade-fenglisu-025746.netlify.app//slides/os/)
+- [Windows XP](https://jade-fenglisu-025746.netlify.app//slides/os/)
 
-[Xerox Globalview](https://jade-fenglisu-025746.netlify.app//slides/gui/)
+- [Xerox Globalview](https://jade-fenglisu-025746.netlify.app//slides/gui/)
 
-- Timeline
+Timeline
 
 
-[Windows XP](https://jade-fenglisu-025746.netlify.app//timeline/microsoft/)
+- [Windows XP](https://jade-fenglisu-025746.netlify.app//timeline/microsoft/)
 
-[Xerox Globalview](https://jade-fenglisu-025746.netlify.app//timeline/desktop-publishing/)
+- [Xerox Globalview](https://jade-fenglisu-025746.netlify.app//timeline/desktop-publishing/)
 
 
 # Παραδοτέο 6
 
 Για το 6ο παραδοτέο έκανα σχόλιο στην περίπτωση των Microsoft Windows.
-[Φωτογραφία](https://github.com/p16kyri/kallipos/blob/master/screenshot/screenshot.png)
-[Βιβλίο](https://github.com/p16kyri/kallipos/blob/master/book/book.pdf)
-[Σχόλιο](https://github.com/p16kyri/kallipos/blob/master/comment/comment.md)
-[Lua Filter](https://github.com/p16kyri/kallipos/blob/master/comment.lua)
+
+- [Φωτογραφία](https://github.com/p16kyri/kallipos/blob/master/screenshot/screenshot.png)
+
+- [Βιβλίο](https://github.com/p16kyri/kallipos/blob/master/book/book.pdf)
+
+- [Σχόλιο](https://github.com/p16kyri/kallipos/blob/master/comment/comment.md)
+
+- [Lua Filter](https://github.com/p16kyri/kallipos/blob/master/comment.lua)
+
 
 # Παραδοτέο 7
 
