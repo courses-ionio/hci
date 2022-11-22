@@ -91,3 +91,28 @@ https://github.com/courses-ionio/help/discussions/1430
 
 Πηγές
 [Microsoft Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)
+
+# Παραδοτέο 8
+
+Για το 8ο Παραδοτέο επέλεξα να ασχοληθώ με το assignment "get familiar with basic commands, reading documentation and editing files".
+
+Πιο συγκεκριμένα έγιναν τα παρακάτω:
+
+|Deliverables|
+|---|
+|Έλεγχος του username|
+|Έλεγχος του manual για vim|
+|Δημιουργία απλού bash script|
+|Browse στο bashrc και αλλαγή του cmd name|
+
+Σε αυτό το Παραδοτέο λοιπόν, έχω να κάνω τις εξής παρατηρήσεις. Αρχικά, έψαξα αρκετά online σε διάφορα βίντεο για να καταλάβω τον τρόπο λειτουργίας του vim καθώς και το bash ώστε να μπορέσω να κάνω όσα φάινονται στο παρακάτω βίντεο. Ένα από τα μεγαλύτερα προβλήματα που συνάντισα ήταν η δυσκολία διαχείρισης του vim ταυτόχρονα με την άνεση βέβαια που προσφέρει αφού εξοικιωθείς μαζί του! Τέλος, άργησα να καταλάβω ότι τα αρχεία bash πρέπει να ξεκινούν με #!/bin/bash, με το οποίο ασχολήθηκα αρκετά!
+
+Σας παραθέτω μερικές από τις online πηγές που χρησιμοποίησα για να μάθω τα παραπάνω:
+
+[Vim Guide](https://www.youtube.com/watch?v=ggSyF1SVFr4)
+
+[Bash Guide](https://www.youtube.com/watch?v=Zl7npywCB84)
+
+Παρακάτω θα βρείτε το link για το asciinema με τα Deliverables:
+
+[Asciinema Link](https://asciinema.org/a/HwVb4uxirC7ZzLAPBlX9xTIe1)
