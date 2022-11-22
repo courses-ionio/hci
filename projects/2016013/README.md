@@ -68,3 +68,23 @@
 [Windows XP](https://jade-fenglisu-025746.netlify.app//timeline/microsoft/)
 
 [Xerox Globalview](https://jade-fenglisu-025746.netlify.app//timeline/desktop-publishing/)
+
+
+# Παραδοτέο 6
+
+Για το 6ο παραδοτέο έκανα σχόλιο στην περίπτωση των Microsoft Windows.
+[Φωτογραφία](https://github.com/p16kyri/kallipos/blob/master/screenshot/screenshot.png)
+[Βιβλίο](https://github.com/p16kyri/kallipos/blob/master/book/book.pdf)
+[Σχόλιο](https://github.com/p16kyri/kallipos/blob/master/comment/comment.md)
+[Lua Filter](https://github.com/p16kyri/kallipos/blob/master/comment.lua)
+
+# Παραδοτέο 7
+
+Για το συμετοχικό περιεχόμενο Β1 η μελέτη περίπτωσης που ασχολήθηκα είναι για το Xerox Globalview
+
+
+- [includes](https://github.com/p16kyri/site/blob/master/_includes/cs-xerox-globalview.md)
+
+- [case study](https://github.com/p16kyri/site/blob/master/_case-study/xerox-globalview.md)
+
+Λόγω τεχνικών προβλημάτων με το netlify δεν έχω βάλει λινκ προς το παρόν γι'αυτό.
