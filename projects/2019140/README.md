@@ -69,3 +69,9 @@
 [![κεφάλαιο1](https://cdn.discordapp.com/attachments/794920060677521469/1042116478398382190/note1.jpg)](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/extensive_notes/P2019140_ch01.md)
 Κεφάλαιο 2:
 [![κεφάλαιο2](https://cdn.discordapp.com/attachments/794920060677521469/1042116501026639942/note2.jpg)](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/extensive_notes/P2019140_ch02.md)
+
+
+## Παραδοτέο 7 - Case study:
+Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε μια νέα μελέτη περίπτωσης στην ιστοσελίδα του μαθήματος. Αποφάσισα να ασχοληθώ και πάλι με το Xfce του οποίου η μελέτη περίπτωσης βρίσκεται [εδώ](https://site-sepia-six.vercel.app/case-study/xfce). Τα αρχεία που πρόσθεσα είναι τα ακόλουθα:
+- [site/_case-study/xfce.md](https://github.com/KonstantinosTourtsakis/site/blob/master/_case-study/xfce.md)
+- [site/_includes/cs-xfce.md](https://github.com/KonstantinosTourtsakis/site/blob/master/_includes/cs-xfce.md)
