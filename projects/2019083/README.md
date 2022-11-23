@@ -17,7 +17,7 @@
 | 7 | [Συμμετοχικό περιεχόμενο B1](https://github.com/NickLitharis/hci/edit/2019083/projects/2019083/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7) | [Link](https://github.com/courses-ionio/help/discussions/1591) | |
 | 8 | Άσκηση γραμμής εντολών | [Link](https://github.com/courses-ionio/help/discussions/1658) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | [Link](https://github.com/courses-ionio/help/discussions/1681) | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 | Άσκηση γραμμής εντολών | [Link](https://github.com/courses-ionio/help/discussions/1736) | |
 | 11 | Κατασκευή του βιβλίου Β | Link | |
 | 12 | Τελική αναφορά* | | |
 <br>
