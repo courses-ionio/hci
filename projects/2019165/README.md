@@ -137,18 +137,18 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 <br>
 <p>Στο έμδομο παραδοτέο εκπονήθηκε μία μελέτη περίπτωσης για το Nintendo DS. Οι πληροφορίες που συνέλλεξα προκειμένου να συγγράψω την μελέτη περίπτωσης ήταν ιδιαίτερα ενδιαφέρουσες. Συγκεκριμένα με εντυπωσίασε το πώς οι υπέυθυνοι της εταιρείας Nintendo κατά τον σχεδιασμό του DS έστιασαν στην δημιουργία νέων διεπαφών για τον χρήστη και κατάφεραν όχι μόνο να ξεπεράσουν τον ανταγωνισμό της εποχής , αλλά να κατασκευάσουν και μία από τις πιο πετυχημένες φορητές κονσόλες παιχνιδιών. Η πρωτοπόρα διεπαφή που  σχεδίασαν ήταν η οθόνη αφής. Για εκείνη την εποχή η οθόνη αφής ήταν όντως κάτι το πρωτόγνωρο και μέσω της κονσόλας αρκετοί χρήστες αλληλεπίδρασαν για πρώτη φορά μαζί της. Επέλεξα την συγκεκριμένη συσκευή διότι παρόλο που ανήκει στην ευρύτερη κατηγορία των βιντεοπαιχνιδιών όπως το wii , διαθέτει οθόνη αφής που είναι προσβάσιμη με την χρήση ειδικής πένας αλλά και μέσω της αφής, γεγονός που την συνδέει και με το Simon της IBM , το οποίο επίσης διαθέτει οθόνη αφής ως βασικό μέσο επικοινωνίας με τον χρήστη. Και οι δύο αυτές συσκευές αποτελούν μία προετοιμασία των καταναλωτών της τότε εποχής , για την επανάσταση των smartphones που θα ακολουθήσει. </p>
 
-###[Η μελέτη περίπτωσης](https://github.com/Alessenia/site/blob/master/_includes/cs-nintendoDS.md)
-###[Το _case-study αρχείο](https://github.com/Alessenia/site/blob/master/_case-study/nintendoDs.md)
+### [Η μελέτη περίπτωσης](https://github.com/Alessenia/site/blob/master/_includes/cs-nintendoDS.md)
+### [Το _case-study αρχείο](https://github.com/Alessenia/site/blob/master/_case-study/nintendoDs.md)
 
-###Τα pull-request
+### Τα pull-request
 
-###Πηγές 
-####[The DS saved Nintendo while destroying handheld gaming as we knew it](https://www.polygon.com/2018/10/22/18000592/nintendo-ds-mobile-casual-gaming)
-####[The awkward Birth of the DS](https://www.nintendolife.com/news/2017/05/retrospective_the_awkward_birth_of_the_ds_nintendos_most_successful_system)
-####[Nintendo targets teens and young adults](https://www.nbcnews.com/id/wbna6471849#.V0TbC5MrLao)
-####[Audio interactions with DS](https://www.nicolasnova.net/pasta-and-vinegar/2007/09/20/audio-interactions-in-nintendo-ds-games)
-####[Nintendo Wiki](https://nintendo.fandom.com/wiki/Nintendo_DS)
-####[A History of Touchscreens for Gaming](https://briskfx.com/history-of-touchscreen/)
+### Πηγές 
+#### [The DS saved Nintendo while destroying handheld gaming as we knew it](https://www.polygon.com/2018/10/22/18000592/nintendo-ds-mobile-casual-gaming)
+#### [The awkward Birth of the DS](https://www.nintendolife.com/news/2017/05/retrospective_the_awkward_birth_of_the_ds_nintendos_most_successful_system)
+#### [Nintendo targets teens and young adults](https://www.nbcnews.com/id/wbna6471849#.V0TbC5MrLao)
+#### [Audio interactions with DS](https://www.nicolasnova.net/pasta-and-vinegar/2007/09/20/audio-interactions-in-nintendo-ds-games)
+#### [Nintendo Wiki](https://nintendo.fandom.com/wiki/Nintendo_DS)
+#### [A History of Touchscreens for Gaming](https://briskfx.com/history-of-touchscreen/)
 
 
 
