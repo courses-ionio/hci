@@ -15,7 +15,7 @@
 | 4 | [Άσκηση γραμμής εντολών](https://github.com/Alessenia/hci/tree/2019165/projects/2019165#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4---warm-up) (warm up cli) |[Ανάρτηση των ασκήσεων "warm up" στα Discussions](https://github.com/courses-ionio/help/discussions/1355) |Πολύ ενδιαφέρουσες και χρήσιμες σαν εφαρμογές,το Journal είναι ικανοποιητικός βοηθός για αποθήκευση σημειώσεων στο τερματικό.Ωστόσο στις επιδιώξεις μου ήταν να υλοποιήσω και το visualization άλμπουμ μουσικής(mpd kusnst)αλλά προχώρησε μέχρι ένα σημείο λόγω error. |
 | 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/Alessenia/hci/tree/2019165/projects/2019165#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a2) |[Ανάρτηση των προσθηκών μου στο χρονολόγιο και στα slides](https://github.com/courses-ionio/help/discussions/1472) |Στο παραδοτέο αυτό δημιουργήθηκαν διαφάνειες και χρονολόγιο με στόχο να ενσωματωθούν και οι συσκευές από τα υπόλοιπα μέλη της ομάδας.|
 | 6 | Κατασκευή του βιβλίου Α |[Aνάρτηση στα discussions του φίλτρου σε lua,του σχολιασμού και της μετατροπής του make-latex](https://github.com/courses-ionio/help/discussions/1580) |Η κατασκευή του βιβλίου ήταν ενδιαφέρουσα αν και συνάντησα κάποιες δυσκολίες.|
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 |[Aνάρτηση της μελέτης περίπτωσης μου στα Discussions](https://github.com/courses-ionio/help/discussions/1708) | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -132,6 +132,23 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 #### [To αρχείο make-latex](https://github.com/Alessenia/kallipos/blob/master/make-latex.sh)
 #### [Φίλτρο σε lua](https://github.com/Alessenia/kallipos/blob/master/note.lua)
 #### [H σημείωση μου](https://github.com/Alessenia/kallipos/blob/master/note/applenewton.md)
+
+# Παραδοτέο 7 - Συμμετοχικό Περιεχόμεο B1
+<br>
+<p>Στο έμδομο παραδοτέο εκπονήθηκε μία μελέτη περίπτωσης για το Nintendo DS. Οι πληροφορίες που συνέλλεξα προκειμένου να συγγράψω την μελέτη περίπτωσης ήταν ιδιαίτερα ενδιαφέρουσες. Συγκεκριμένα με εντυπωσίασε το πώς οι υπέυθυνοι της εταιρείας Nintendo κατά τον σχεδιασμό του DS έστιασαν στην δημιουργία νέων διεπαφών για τον χρήστη και κατάφεραν όχι μόνο να ξεπεράσουν τον ανταγωνισμό της εποχής , αλλά να κατασκευάσουν και μία από τις πιο πετυχημένες φορητές κονσόλες παιχνιδιών. Η πρωτοπόρα διεπαφή που  σχεδίασαν ήταν η οθόνη αφής. Για εκείνη την εποχή η οθόνη αφής ήταν όντως κάτι το πρωτόγνωρο και μέσω της κονσόλας αρκετοί χρήστες αλληλεπίδρασαν για πρώτη φορά μαζί της. Επέλεξα την συγκεκριμένη συσκευή διότι παρόλο που ανήκει στην ευρύτερη κατηγορία των βιντεοπαιχνιδιών όπως το wii , διαθέτει οθόνη αφής που είναι προσβάσιμη με την χρήση ειδικής πένας αλλά και μέσω της αφής, γεγονός που την συνδέει και με το Simon της IBM , το οποίο επίσης διαθέτει οθόνη αφής ως βασικό μέσο επικοινωνίας με τον χρήστη. Και οι δύο αυτές συσκευές αποτελούν μία προετοιμασία των καταναλωτών της τότε εποχής , για την επανάσταση των smartphones που θα ακολουθήσει. </p>
+
+###[Η μελέτη περίπτωσης](https://github.com/Alessenia/site/blob/master/_includes/cs-nintendoDS.md)
+###[Το _case-study αρχείο](https://github.com/Alessenia/site/blob/master/_case-study/nintendoDs.md)
+
+###Τα pull-request
+
+###Πηγές 
+####[The DS saved Nintendo while destroying handheld gaming as we knew it](https://www.polygon.com/2018/10/22/18000592/nintendo-ds-mobile-casual-gaming)
+####[The awkward Birth of the DS](https://www.nintendolife.com/news/2017/05/retrospective_the_awkward_birth_of_the_ds_nintendos_most_successful_system)
+####[Nintendo targets teens and young adults](https://www.nbcnews.com/id/wbna6471849#.V0TbC5MrLao)
+####[Audio interactions with DS](https://www.nicolasnova.net/pasta-and-vinegar/2007/09/20/audio-interactions-in-nintendo-ds-games)
+####[Nintendo Wiki](https://nintendo.fandom.com/wiki/Nintendo_DS)
+####[A History of Touchscreens for Gaming](https://briskfx.com/history-of-touchscreen/)
 
 
 
