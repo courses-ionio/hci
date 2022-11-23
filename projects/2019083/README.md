@@ -94,6 +94,10 @@
 
 [Netlify](https://p19lith-pibook.netlify.app/case-study/gui/)
 
+# Παραδοτέο 8
+# Παραδοτέο 9
+# Παραδοτέο 10
+# Παραδοτ
 
 ### Πηγές:
 1. Windows: https://winworldpc.com/product/windows-10/101
