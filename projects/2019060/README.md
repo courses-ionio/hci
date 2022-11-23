@@ -10,7 +10,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A2 |Συζήτηση:<br/>[παραδοτέο 5ο](https://github.com/courses-ionio/help/discussions/1443)<br/>  | |
 | 6 | Κατασκευή του βιβλίου Α |Συζήτηση:<br/>[παραδοτέο 6ο](https://github.com/courses-ionio/help/discussions/1581) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 |Συζήτηση:<br/>[παραδοτέο 7ο](https://github.com/courses-ionio/help/discussions/1692) | |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | Άσκηση γραμμής εντολών |Συζήτηση:<br/>[παραδοτέο 8ο](https://github.com/courses-ionio/help/discussions/1733) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
@@ -110,3 +110,14 @@ Googler Install:
 Github:<br/>
 [_case-study](https://github.com/odysseasEko/site/blob/master/_case-study/tandydeskmate.md)<br/>
 [_includes](https://github.com/odysseasEko/site/blob/master/_includes/cs-deskmate.md)<br/>
+
+#Παραδοτέο 8ο
+### Shell Script & conversions
+
+Για το 8ο παραδοτέο έφτιαξα ένα shell script το οποίο έχει μενού με επιλογές για μετατροπή ενός αρχείου md σε διαφορετικούς τύπους.
+Πιο συγκεκριμένα μετατρέπει την αναφορά μου σε HTML και PDF. 
+
+[sh script και μετετραμενα αρχεια σε πρωσοπικο repo](https://github.com/odysseasEko/anafora)
+<br/>
+
+[![asciicast](https://asciinema.org/a/XaaBgm14Jaume5C4dYfD47iwy.svg)](https://asciinema.org/a/XaaBgm14Jaume5C4dYfD47iwy)
