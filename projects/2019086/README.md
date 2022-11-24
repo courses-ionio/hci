@@ -5,7 +5,7 @@
 | 1 | Εισαγωγή μαθήματος |[ανάρτηση εισαγωγής στο discussions](https://github.com/courses-ionio/help/discussions/941) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Link στο discussions](https://github.com/courses-ionio/help/discussions/1754) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Link στο discussions].( | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -25,3 +25,8 @@
 
 Σε αυτό το παραδοτέο ασχολήθηκα με την εγκατάσταση του λειτουργικού συστήματος arch linux, η οποία ήταν επιτυχής.Έχω τρέξει τις εντολές neofetch κσι journalctl -b και παρουσιάζω το asciinema που τις κατέγραψα.
 [Asciinema link](https://asciinema.org/a/lBneX346MXb0HLsDG6GSFy01C)
+
+4ο παραδοτεέο 
+
+Σε αυτό το παραδοτέο ασχολήθηκα με την άσκηση γραμμής εντολών σχετικά με τη δημιουργία μίας todo λίστας και την εκχώρηση στοιχείων σεσ αυτή, όπως φαίνεται και στο αντίστοιχο asciinema.
+[Asciinema Link](https://asciinema.org/a/K0IhV03dUlpLDmmQ3yTxrHsuq)
