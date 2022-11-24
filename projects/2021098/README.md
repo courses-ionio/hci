@@ -16,7 +16,7 @@ E-mail: inf2021098@ionio.gr
 
 Netlify Site των Terminal Killers: [Organization Site](https://terminal-killers-site.netlify.app)
 
-Netlify Personal Site Deploy: [Site](https://greekforce1821-site.vercel.app/)
+Netlify Personal Site Deploy: [Site](https://greekforce1821-site.netlify.app/)
 
 Αποθετήριο ιστοσελίδας οργανισμού: [Pibook Organization Site Repository](https://github.com/Terminal-Killers/site)
 
@@ -29,7 +29,7 @@ Netlify Personal Site Deploy: [Site](https://greekforce1821-site.vercel.app/)
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/1290) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας ☑️ (100% Success) |
 | 5 | Συμμετοχικό περιεχόμενο A2 | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/1461), [PR #1](https://github.com/Terminal-Killers/site/pull/1), [PR #2](https://github.com/Terminal-Killers/site/pull/2), [Link of Work #1](https://terminal-killers-site.netlify.app//slides/computers-in-pockets/), [Link of Work #2](https://terminal-killers-site.netlify.app//slides/programming/), [Link of Work #3](https://terminal-killers-site.netlify.app//timeline/computers-in-a-pocket/) & [Link of Work #4](https://terminal-killers-site.netlify.app//timeline/programming-languages/)| Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας ☑️ (100% Success) |
 | 6 | Κατασκευή του βιβλίου Α | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/1586), [Contribution Point](https://github.com/Greekforce1821/kallipos/blob/master/contribution/skypech08.md), [Contribution Photo](https://github.com/Greekforce1821/kallipos/blob/master/Picture%20of%20my%20personal%20contribution%20within%20the%20book/Picture-of-my-contribution.jpg), [.EPUB file](https://github.com/Greekforce1821/kallipos/blob/master/epub/book.epub), [.PDF file](https://github.com/Greekforce1821/kallipos/blob/master/book/book.pdf), [Contribution Filter](https://github.com/Greekforce1821/kallipos/blob/master/contribution.lua)  | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας ☑️ (100% Success) |
-| 7 | Συμμετοχικό περιεχόμενο B1 | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/1675), [Link of Case-Study](https://greekforce1821-site.vercel.app///case-study/python/), [Link of Biography](https://greekforce1821-site.vercel.app//biography/guido-van-rossum/), [Site Link](https://greekforce1821-site.vercel.app/) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας ☑️ (100% Success) |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Link Συζήτησης](https://github.com/courses-ionio/help/discussions/1675), [Link of Case-Study](https://greekforce1821-site.netlify.app///case-study/python/), [Link of Biography](https://greekforce1821-site.netlify.app//biography/guido-van-rossum/), [Site Link](https://greekforce1821-site.netlify.app/) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας ☑️ (100% Success) |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -109,9 +109,9 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 # Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
 
-  * Προσωπικό site από το αποθετήριο μου (test site): [Greekforce1821](https://greekforce1821-site.vercel.app/)
-  * Άρθρο για την `Python` στο προσωπικό αποθετήριο (test site): [Python](https://greekforce1821-site.vercel.app/gallery/python/)
-  * Άρθρο για τον `ODROID-C4` στο προσωπικό αποθετήριο (test site): [ODROID-C4](https://greekforce1821-site.vercel.app/gallery/odroid-c4/)
+  * Προσωπικό site από το αποθετήριο μου (test site): [Greekforce1821](https://greekforce1821-site.netlify.app/)
+  * Άρθρο για την `Python` στο προσωπικό αποθετήριο (test site): [Python](https://greekforce1821-site.netlify.app/gallery/python/)
+  * Άρθρο για τον `ODROID-C4` στο προσωπικό αποθετήριο (test site): [ODROID-C4](https://greekforce1821-site.netlify.app/gallery/odroid-c4/)
   * Φωτογραφία της [`Python`](https://github.com/Greekforce1821/images/blob/master/python.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/Greekforce1821/images/blob/master/python-thumb.jpg) στο προσωπικό αποθετήριο (test site)
   * Φωτογραφία του [`ODROID-C4`](https://github.com/Greekforce1821/images/blob/master/odroid_c4.jpg) σε πραγματική ανάλυση και σε [resized ανάλυση](https://github.com/Greekforce1821/images/blob/master/odroid_c4-thumb.jpg) στο προσωπικό αποθετήριο (test site)
 
@@ -189,13 +189,13 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 # Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
 
-* Προσωπικό site από το αποθετήριο μου (test site): [Greekforce1821](https://greekforce1821-site.vercel.app/)
-* Timeline του προσωπικού αποθετηρίου (test site): [Timeline Greekforce1821](https://greekforce1821-site.vercel.app/timeline)
-* Timeline #1 του προσωπικού αποθετηρίου (test site): [TImeline #1 Greekforce1821](https://greekforce1821-site.vercel.app/timeline/programming-languages/)
-* Timeline #2 του προσωπικού αποθετηρίου (test site): [Timeline #2 Greekforce1821](https://greekforce1821-site.vercel.app/timeline/computers-in-a-pocket/)
-* Slide του προσωπικού αποθετηρίου (test site): [Slide Greekforce1821](https://greekforce1821-site.vercel.app/slides)
-* Slide #1 του προσωπικού αποθετηρίου (test site): [Slide #1 Greekforce1821](https://greekforce1821-site.vercel.app/slides/programming/)
-* Slide #2 του προσωπικού αποθετηρίου (test site): [Slide #2 Greekforce1821](https://greekforce1821-site.vercel.app/slides/computers-in-pockets/)
+* Προσωπικό site από το αποθετήριο μου (test site): [Greekforce1821](https://greekforce1821-site.netlify.app/)
+* Timeline του προσωπικού αποθετηρίου (test site): [Timeline Greekforce1821](https://greekforce1821-site.netlify.app/timeline)
+* Timeline #1 του προσωπικού αποθετηρίου (test site): [TImeline #1 Greekforce1821](https://greekforce1821-site.netlify.app/timeline/programming-languages/)
+* Timeline #2 του προσωπικού αποθετηρίου (test site): [Timeline #2 Greekforce1821](https://greekforce1821-site.netlify.app/timeline/computers-in-a-pocket/)
+* Slide του προσωπικού αποθετηρίου (test site): [Slide Greekforce1821](https://greekforce1821-site.netlify.app/slides)
+* Slide #1 του προσωπικού αποθετηρίου (test site): [Slide #1 Greekforce1821](https://greekforce1821-site.netlify.app/slides/programming/)
+* Slide #2 του προσωπικού αποθετηρίου (test site): [Slide #2 Greekforce1821](https://greekforce1821-site.netlify.app/slides/computers-in-pockets/)
 
 ---
 
@@ -283,7 +283,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 # Παραδοτέο 7ο: Συμμετοχικό περιεχόμενο Β1.
 
-Στο συγκεκριμένο παραδοτέο, έπρεπε να δημιουργήσουμε μια νέα μελέτη περίπτωσης και μια συγκεκριμένη βιογραφία, σχετικές με τα παραδοτέα [Α1](https://github.com/courses-ionio/help/discussions/1185) και [Α2](https://github.com/courses-ionio/help/discussions/1461) σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/social/) του μαθήματος και να τα ανεβάσουμε στην [ιστοσελίδα](https://greekforce1821-site.vercel.app/) μας. Προκειμένου να συνδέσω την βιογραφία με τα προηγούμενα, επέλεξα να ασχοληθώ με τον δημιουργό της υψηλού επιπέδου γλώσσας προγραμματισμού [Python](https://www.python.org/), τον [Guido Van Rossum](https://el.wikipedia.org/wiki/%CE%93%CE%BA%CE%AF%CE%BD%CF%84%CE%BF_%CE%B2%CE%B1%CE%BD_%CE%A1%CF%8C%CF%83%CF%83%CE%BF%CF%85%CE%BC) και για την συγγραφή της νέας μελέτης περίπτωσης, συγχνώνευσα τις πολύτιμες και ιστορικές πληροφορίες της Python σε συνάρτηση με το [Odroid-C4](https://www.hardkernel.com/shop/odroid-c4/) και μια πολύ μικρή αναφορά στοα `Raspberry Pi`.
+Στο συγκεκριμένο παραδοτέο, έπρεπε να δημιουργήσουμε μια νέα μελέτη περίπτωσης και μια συγκεκριμένη βιογραφία, σχετικές με τα παραδοτέα [Α1](https://github.com/courses-ionio/help/discussions/1185) και [Α2](https://github.com/courses-ionio/help/discussions/1461) σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/social/) του μαθήματος και να τα ανεβάσουμε στην [ιστοσελίδα](https://greekforce1821-site.netlify.app/) μας. Προκειμένου να συνδέσω την βιογραφία με τα προηγούμενα, επέλεξα να ασχοληθώ με τον δημιουργό της υψηλού επιπέδου γλώσσας προγραμματισμού [Python](https://www.python.org/), τον [Guido Van Rossum](https://el.wikipedia.org/wiki/%CE%93%CE%BA%CE%AF%CE%BD%CF%84%CE%BF_%CE%B2%CE%B1%CE%BD_%CE%A1%CF%8C%CF%83%CF%83%CE%BF%CF%85%CE%BC) και για την συγγραφή της νέας μελέτης περίπτωσης, συγχνώνευσα τις πολύτιμες και ιστορικές πληροφορίες της Python σε συνάρτηση με το [Odroid-C4](https://www.hardkernel.com/shop/odroid-c4/) και μια πολύ μικρή αναφορά στοα `Raspberry Pi`.
 
 ## <ins> Guido Van Rossum Biography </ins>
 
@@ -295,9 +295,9 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 # Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
 
-* Προσωπικό site από το αποθετήριο μου: [Greekforce1821](https://greekforce1821-site.vercel.app/)
-* Biography του προσωπικού αποθετηρίου: [Biography Guido Van Rossum](https://greekforce1821-site.vercel.app//biography/guido-van-rossum/)
-* Case-Study του προσωπικού αποθετηρίου: [Case-Study Python](https://greekforce1821-site.vercel.app//case-study/python/)
+* Προσωπικό site από το αποθετήριο μου: [Greekforce1821](https://greekforce1821-site.netlify.app/)
+* Biography του προσωπικού αποθετηρίου: [Biography Guido Van Rossum](https://greekforce1821-site.netlify.app//biography/guido-van-rossum/)
+* Case-Study του προσωπικού αποθετηρίου: [Case-Study Python](https://greekforce1821-site.netlify.app//case-study/python/)
 * Αρχείο βιογραφίας από το αποθετήριο: [.md File #Biography Thumbnail](https://github.com/Greekforce1821/site/blob/master/_biography/guido-van-rossum.md)
 * Αρχείο βιογραφίας από το αποθετήριο: [.md File #Biography](https://github.com/Greekforce1821/site/blob/master/_includes/bio-van-rossum.md)
 * Αρχείο μελέτης περίπτωσης από το αποθετήριο: [.md File #Case-Study Thumbnail](https://github.com/Greekforce1821/site/blob/master/_case-study/python.md)
@@ -319,10 +319,10 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 | Φωτογραφίες | Copyright Holders | License | Type of License |
 | --- | --- | --- | --- |
-| [Guido Van Rossum #1](https://greekforce1821-site.vercel.app//biography/guido-van-rossum/) | [Φωτογραφία #1](https://gvanrossum.github.io/images/guido-headshot-2019.jpg)| © Michael Cavotta | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| [Guido Van Rossum #1](https://greekforce1821-site.netlify.app//biography/guido-van-rossum/) | [Φωτογραφία #1](https://gvanrossum.github.io/images/guido-headshot-2019.jpg)| © Michael Cavotta | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 | Guido Van Rossum #2 | [Φωτογραφία #2](https://gvanrossum.github.io/images/guido-portrait-dan-stroud.jpg) | ©  Dan Stroud | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | 
 | Guido Van Rossum #3 | [Φωτογραφία #3](https://gvanrossum.github.io/images/DO6GvRlo.gif) | © Unknown | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |  
-| [Python Case Study #1](https://greekforce1821-site.vercel.app/case-study/python/) | [Φωτογραφία #1](https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220730085403%21Python-logo-notext.svg) | © The Python Software Foundation | [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html)
+| [Python Case Study #1](https://greekforce1821-site.netlify.app/case-study/python/) | [Φωτογραφία #1](https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220730085403%21Python-logo-notext.svg) | © The Python Software Foundation | [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html)
 | Python Case Study #2 | [Φωτογραφία #2](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80) | © Chris Ried | [Unsplash License](https://unsplash.com/license)
 | Python Case Study #3 | [Φωτογραφία #3](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/python-statistics-2022.jpg) | © Spyros Kokotos | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 | Python Case Study 34 | [Φωτογραφία #4](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/programming-languages-statistics-2022.jpg) | © Spyros Kokotos  | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |  
@@ -333,7 +333,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 | Άρθρο | Πηγή | Copyright Holder |
 | --- | --- | --- |
-| [Βιογραφικό σημείωμα Guido Van Rossum](https://greekforce1821-site.vercel.app/biography/guido-van-rossum/) | https://bit.ly/3Xfnymx  | [Ελληνικό Μουσείο Πληροφορικής](https://elmp.gr/) |
+| [Βιογραφικό σημείωμα Guido Van Rossum](https://greekforce1821-site.netlify.app/biography/guido-van-rossum/) | https://bit.ly/3Xfnymx  | [Ελληνικό Μουσείο Πληροφορικής](https://elmp.gr/) |
 
 ---
 
