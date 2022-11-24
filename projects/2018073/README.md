@@ -203,7 +203,7 @@ _Το παραδοτεό αυτό βασίζεται στις προσθήκες
 - [Apple Mice History](https://en.wikipedia.org/wiki/Apple_pointing_devices)
 - [Steve Jobs παρουσίαση του Apple Wireless Mouse 2003](https://youtu.be/V8VPy5PrzJA?t=661)
 - [More info](https://www.apple.com/ie/newsroom/2003/09/16Apple-Introduces-Wireless-Keyboard-Mouse/)
-- 
+
 
 [Go to the top](#go-to-the-top-mark-point)
 
