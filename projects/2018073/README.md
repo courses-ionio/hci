@@ -28,7 +28,7 @@
 
 ## Δημιουργία Organisation
 
-Δημιούργησα το organisation [MainCharacters](https://github.com/MainCharacters/Main) και αποτελείται από 3 άτομα.
+Δημιούργησα το organisation [MainCharacters](https://github.com/MainCharacters/Main) το οποίο αποτελείται από 3 άτομα. Όλοι έχουν δικαιώματα συγγραφής, clone, push και pull σε όλα τα repository του οργανισμού μας, αλλά έχω κρατήσει το status του Maintainer για λόγους οργανωτικότητας. Γενικότερα προσπαθούμε να είμαστε ενεργοί σαν μέλη της ομάδας στο [discussion](https://github.com/MainCharacters/Main/discussions) και να απαντάμε/λύνουμε πιθανές απορίες, ή να ανακοινώνουμε τις δραστηριότητές μας και τις αλλαγές μας.
 
 ## ΠΑΡΑΔΟΤΕΟ 1 - Εισαγωγή
 
