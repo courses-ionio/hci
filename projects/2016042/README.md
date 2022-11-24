@@ -82,3 +82,11 @@ Netlify:
 # Παραδοτέο 7
 - [_case-study](https://github.com/MarAkar98/site/blob/master/_case-study/hp-150.md)
 - [_includes](https://github.com/MarAkar98/site/blob/master/_includes/cs-hp-150.md)
+
+### Πηγές:
+- https://www.hpmuseum.net/pdf/ComputerNews_1983_Oct1_41pages_OCR.pdf
+- https://www.old-computers.com/museum/doc.asp?c=139
+- https://www.wikiwand.com/en/HP-150
+- https://archive.org/details/byte-magazine-1984-11/mode/2up?view=theater
+- http://www.bitsavers.org/pdf/hp/hp150/45625-90001_HP-150_Technical_Manual_May84.pdf
+- https://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1985-10.pdf
