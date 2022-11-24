@@ -92,7 +92,15 @@
 ### Παραδοτέο 6ο:
 ## Κατασκευή Βιβλίου Α
 Σε αυτό το παραδοτέο μας ζητήθηκε να προσθέσουμε μια δικιά μας παράγραφο με πληροφοριές στο βιβλίο και έπειτα να βγάλουμε scrennshot την προσθήκη που κάναμε από το βιβλίο σε μορφή pdf: 
-- [My Lua](https://github.com/PanMour/info/blob/main/my_lua.lua)
-- [Screenshot](https://github.com/PanMour/info/blob/main/Screenshot.png)
-- [Pdf](https://github.com/PanMour/info/blob/main/book.pdf*)
-- [md file](https://github.com/PanMour/info/blob/main/base.md)
+- [My Lua](https://github.com/PanMour/info-/blob/main/info.lua)
+  > Χρησιμοποιείται για την προσθήκη των πληροφοριών μου στο βιβλίο
+  > Επεξεργασμένο ώστε να εμφανίζει, με διαφορετικό από το υπόλοιπο βιβλίο, τρόπο την παραγραφό μου 
+  > Συγκεκριμένα τοποθετή το κειμένο μου λίγο πιο μέσα και το χωρίζει στο τέλος με μια γραμμή ώστε να ξεχωρίζει από το επόμενο.
+- [Screenshot](https://github.com/PanMour/info-/blob/main/screenshot.png)
+  > Το Screenshot με την προσθήκη μου στο βιβλίο
+- [Pdf](https://github.com/PanMour/info-/blob/main/book.pdf*)
+  > Το Pdf του βιβλίου που δημιούργησα
+  > Πολύ συναρπαστική εμπειρία, αφού για πρώτη φορά ημούν εγώ που κρατούσα όλη την δύναμη, καθώς με την βοήθεια των εργαλίων που μας δώθηκαν κατασκεύασα το βιβλίο σε     μορφή pdf, κάτι ασυνήθιστο λόγω της ευχρηστίας που επικρατεί.
+  > Περιέχει μέσα και την δικιά μου προσθήκη στο βιβλίο
+- [md file](https://github.com/PanMour/info-/blob/main/Additional-Information.md)
+  > Το βασικό md αρχείο στο οποίο σημείωσα τα στοιχεία μου για να δημιουργηθεί το βιβλίο
