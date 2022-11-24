@@ -50,7 +50,7 @@ Netlify:
 # ΠΑΡΑΔΟΤΕΟ 4
 ## Warm-up terminal
 
-Μέσω του Alacritty, για αυτο το παραδοτέο, αποφάσισα να εγκαταστήσω το wttr.in όπου πατώντας curl wttr.in/cfu μας εμφανίζει με ascii art τον καιρό για τον αερολιμένα της Κέρκυρα. Επισης επέλεξα και το youtube -dl όπου απο τις οδηγίες του repository του, το εγκατεστησα και εκτελωντας την εντολη 'youtube -dl -F URL' , είδα τη λιστα με τα διαθέσιμα formats και ύστερα εκτελώντας την εντολή youtube-dl -f 250 URL κατεβασα το τραγουδι του url στο format που αντιστιχουσε στον κωδικό 250. Όσον αναφορά την εγκατάσταση των Arch Linux, την έχω ήδη εκπονήσει στο Παραδοτέο 2. 
+Μέσω του Alacritty, για αυτο το παραδοτέο, αποφάσισα να εγκαταστήσω το wttr.in όπου πατώντας curl wttr.in/cfu μας εμφανίζει με ascii art τον καιρό για τον αερολιμένα της Κέρκυρα. Επισης επέλεξα και το youtube -dl όπου απο τις οδηγίες του repository του, το εγκατεστησα και εκτελωντας την εντολη `youtube -dl -F URL` , είδα τη λιστα με τα διαθέσιμα formats και ύστερα εκτελώντας την εντολή youtube-dl -f 250 URL κατεβασα το τραγουδι του url στο format που αντιστιχουσε στον κωδικό 250. Όσον αναφορά την εγκατάσταση των Arch Linux, την έχω ήδη εκπονήσει στο Παραδοτέο 2. 
 
 ## Asciinema
  - [![WTTR WEATHER REPORT](https://asciinema.org/a/aXIsVSMElLmsPhpU4dOsOoaND.svg)](https://asciinema.org/a/aXIsVSMElLmsPhpU4dOsOoaND)
@@ -80,6 +80,7 @@ Netlify:
 - [Make Latex](https://github.com/MarAkar98/kallipos/blob/master/make-latex.sh)
 
 # Παραδοτέο 7
+
 - [_case-study](https://github.com/MarAkar98/site/blob/master/_case-study/hp-150.md)
 - [_includes](https://github.com/MarAkar98/site/blob/master/_includes/cs-hp-150.md)
 
