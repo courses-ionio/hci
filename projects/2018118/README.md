@@ -29,7 +29,7 @@
 Τι καλύτερο από έναν κόσμο κόσμο που συνδυάζει όλα τα παραπάνω;
 
 # Παραδοτέο 2
-Για το 2ο Παραδοτέο, εγκατέστηκα το [arch linux](https://archlinux.org/download/) αρχείο στο [Virtual Box](https://www.virtualbox.org/wiki/Downloads) όπου η διαδικασία στα settings του VM ήταν αρκετά εύκολη σε αντίθεση με την διαδικασία εγκατάστασης του arch linux όπου ήταν αρκετά περίπλοκη και προέκυψαν αρκετά προβλήματα τα οποία αντιμετώπισα με την βοήθεια του [installation guide](https://wiki.archlinux.org/title/installation_guide) που υπάρχει διαθέσιμο. 
+Για το 2ο Παραδοτέο, εγκατέστηκα το [arch linux](https://archlinux.org/download/) στο [Virtual Box](https://www.virtualbox.org/wiki/Downloads) όπου η διαδικασία στα settings του VM ήταν αρκετά εύκολη σε αντίθεση με την διαδικασία εγκατάστασης του arch linux όπου ήταν αρκετά περίπλοκη και προέκυψαν αρκετά προβλήματα τα οποία αντιμετώπισα με την βοήθεια του [installation guide](https://wiki.archlinux.org/title/installation_guide) που υπάρχει διαθέσιμο. 
 
 Στην συνέχεια, έκανα εγκατάσταση και εκτέλεση του journalctl όπου δείχνει το boot log (το έκοψα νωρίς στο βίντεο επειδή ήταν πολύ μεγάλο), επίσης χρησιμοποίησα το [neofetch](https://github.com/dylanaraps/neofetch) σε συνδυασμό με το [lolcat](https://github.com/busyloop/lolcat) ώστε να αναδείξω το σύστημα μου και να το κάνω επίσης την χρήση του πιο ιδιαίτερη και ξεχωριστή. Τέλος, έκανα αλλαγή του prompt μου αλλάζοντας το PS1 στο .bashrc ώστε να δείχνει αποκλειστικά τον αριθμό μυτρώου μου.
 
