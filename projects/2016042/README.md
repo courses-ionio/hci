@@ -49,6 +49,9 @@ Netlify:
 -  [HP 150 Touchscreen Computer](https://jade-fenglisu-025746.netlify.app/gallery/hp-150/)
 -  [Microsoft Mouse](https://jade-fenglisu-025746.netlify.app/gallery/microsoft-mouse-1983/)
 
+  Md files
+- [HP 150](https://github.com/Unixidized/_gallery/blob/master/hp-150.md)
+- [Microsoft Mouse](https://github.com/Unixidized/_gallery/blob/master/microsoft-mouse-1983.md)
 # ΠΑΡΑΔΟΤΕΟ 4
 ## Warm-up terminal
 
