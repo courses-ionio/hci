@@ -145,7 +145,7 @@
 
 <p>Παρακάτω παρουσιάζεται το link από το netlify</p>
 
-- [My Site](https://deploy-preview-10--moonlit-rugelach-17f284.netlify.app/case-study/)
+- [My Site](https://6380a1b8d901c57910138782--rococo-genie-67eb8d.netlify.app/biography/)
 
 ---
 
