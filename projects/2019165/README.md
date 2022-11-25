@@ -152,7 +152,7 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 
 # Παραδοτέο 8 -  Άσκηση γραμμής εντολών
 <br>
-<p>Για το 8ο παραδοτέο δημιούργησα ένα shell script το οποίο παρέχει ένα menu και δίνει την δυνατότητα να μετατραπούν επιλεγμένα σε διάφορα formats.Συγκεκριμένα παρέχονται δύο epub αρχεία ,τα οποία βρήκα στο The Gutenburg Project(που προτάθηκε ως πηγή εξωτερικών αρχείων) και μπορούν να μετατραπούν σε pdf,tex,txt, ή HTML.Επιπλέον γίνεται να μετατραπεί και το .md file της αναφοράς μου είτε σε .ipynb είτε σε HTML. Το script βασίστηκε στην λογική του assignment "convert between different text formats". Για την μετατροπή των αρχείων σε διαφορετικά formats χρησιμοποιήθηκε το pandoc.</p>
+<p>Για το 8ο παραδοτέο δημιούργησα ένα shell script το οποίο παρέχει ένα menu και δίνει την δυνατότητα να μετατραπούν επιλεγμένα σε διάφορα formats.Συγκεκριμένα παρέχονται δύο epub αρχεία ,τα οποία βρήκα στο Gutenberg Project(που προτάθηκε ως πηγή εξωτερικών αρχείων) και μπορούν να μετατραπούν σε pdf,tex,txt, ή HTML.Επιπλέον γίνεται να μετατραπεί και το .md file της αναφοράς μου είτε σε .ipynb είτε σε HTML. Το script βασίστηκε στην λογική του assignment "convert between different text formats". Για την μετατροπή των αρχείων σε διαφορετικά formats χρησιμοποιήθηκε το pandoc.</p>
 
 #### [To shell script](https://github.com/Alessenia/files-for-report/blob/main/Converter.sh)
 #### [Asciinema με τη χρήση του script](https://asciinema.org/a/EugLD7CCiOCSIuQtAKajDTds4)
@@ -160,7 +160,9 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 #### H αναφορά μου σε HTML
 ![H αναφορά μου σε HTML](https://github.com/Alessenia/Images-for-Report/blob/main/Screenshot%20from%202022-11-25.png)
 
-
+#### Tα links των βιβλίων που επέλεξα
+[Christmas Stories](https://www.gutenberg.org/ebooks/69416)
+[Some Christmas Stories by Charles Dickens](https://www.gutenberg.org/ebooks/1467)
 
 
 
