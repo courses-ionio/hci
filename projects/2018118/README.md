@@ -45,14 +45,16 @@
 
 # Παραδοτέο 3
 
-Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Α1 ασχολήθηκα με τις γλώσσες προγραματισμού C και Java οι οποίες όσο κοινές είναι λόγω των γενικών προγραμματιστικών ιδιοτήτων τους, τόσο διαφορετικές είναι στην μορφή τους, στον τρόπο λειτουργίας τους και στον προγραμματιστικό στόχο της κάθε μιας. Διαδικαστικά για την ολοκλήρωση του παραδοτέου λοιπόν, ξεκίνησα κάνοντας fork τα απαραίτητα αποθετήρια ενώ στην συνέχεια δυσκολεύτηκα αρκετά κατά την διαδικασία για τα submodules. Το πρόβλημα ήταν ότι κάνοντας fork το repository περιείχε ήδη τα submodules που αναφερόνταν σε άλλο repository. Προχώρησα τελικά στην αφαίρεση του submodule και στην επαναπρόσθεση του από το forked δικό μου repository. Τέλος, βρήκα έφτιαξα και πρόσθεσα τα απαραίτητα αρχεία για την ολοκλήρωση τοου παραδοτέου.
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Α1, έκανα fork το [gallery](https://github.com/Drexion/_gallery) και [images](https://github.com/Drexion/images) από το [organization](https://github.com/Millennials-2/Main) μου, ώστε να μπορώ να πειραματιστώ, δημιούργισα τα δικά μου .md αρχεία στο gallery και τις ανάλογες φωτογραφίες στο images και στο τέλος προχώρησα σε pull request προς το organization μου ώστε να υπάρχουν και στο ομαδικο μας [site](https://millennials-2.netlify.app).
 
-| Περιγραφή | Repository Link | Netlify Link |
-| --- | --- | --- |
-| Gallery C Programming Language | [c-programming-language.md](https://github.com/Drexion/_gallery/blob/master/c-programming-language.md) | [C Programming Language Summary](https://p2018118-pibook.netlify.app/gallery/c-programming-language/) |
-| Images C Programming Language | [Full Quality](https://github.com/Drexion/images/blob/master/c-programming-language.png) + [Thumbnail](https://github.com/Drexion/images/blob/master/c-programming-language-thumb.png) |
-| Gallery Java | [java.md](https://github.com/Drexion/_gallery/blob/master/java.md) | [Java Summary](https://p2018118-pibook.netlify.app/gallery/java/) |
-| Images Java | [Full Quality](https://github.com/Drexion/images/blob/master/java.png) + [Thumbnail](https://github.com/Drexion/images/blob/master/java-thumb.png) |
+Όσον αφορά τις φωτογραφίες που επιλέχθηκαν, εφόσον δεν υπήρχε το περιεχόμενο που επιθυμούσα στο διαδίκτυο, αποφάσισα να επιλέξω 2 φωτογραφίες από βίντεο στο youtube οι οποίες δεν είναι copyrighted και σύμφωνα με τους όρους χρήσης έχουν ελεύθερα πνευματικά δικαιώματα για ακαδημαϊκούς σκοπούς.
+
+| Περιγραφή | Repository Link | Images | Netlify Link | Copyrights |
+| --- | --- | --- | --- | --- |
+| The Thrill of The Fight | [the-thrill-of-the-fight.md](https://github.com/Drexion/_gallery/blob/master/the-thrill-of-the-fight.md) | [Full Quality](https://github.com/Drexion/images/blob/master/thrill-of-the-fight.jpg) + [Thumbnail](https://github.com/Drexion/images/blob/master/thrill-of-the-fight-thumbnail.jpg) | [The Thrill of The Fight](pending) | [Boxing fight](https://www.youtube.com/watch?v=S2cX3KAAmos) |
+| Valve Index | [Index Valve.md](https://github.com/Drexion/_gallery/blob/master/valve-index.md) | [Full Quality](https://github.com/Drexion/images/blob/master/valve-index.jpg) + [Thumbnail](https://github.com/Drexion/images/blob/master/valve-index-thumbnail.jpg) | [Valve Index](pending) | [New Generation VR](https://www.youtube.com/watch?v=6p1e_JSol8s) |
+
+
 
 # Παραδοτέο 4
 
