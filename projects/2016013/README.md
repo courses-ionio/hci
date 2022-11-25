@@ -35,14 +35,14 @@
 
 # Παραδοτέο 3
 
-Για το πρώτο συμμετοχικό περιεχόμενο Α1 πρόσθεσα τα Windows XP το πρώτο λειτουργικό σύστημα που χρησιμοποίησα στην παιδική μου ηλικία και το Xerox Globalview ένα gui για επαγγελματική χρήση
+Για το πρώτο συμμετοχικό περιεχόμενο Α1 πρόσθεσα τα Windows XP το πρώτο λειτουργικό σύστημα που χρησιμοποίησα στην παιδική μου ηλικία και το Xerox Globalview 2.1 ένα gui για επαγγελματική χρήση
 
  - [gallery pull request](https://github.com/Unixidized/_gallery/pull/7)
  - [images pull request](https://github.com/Unixidized/images/pull/11)
 
 
- - [Windows-XP](https://jade-fenglisu-025746.netlify.app/gallery/windows-xp/)
- - [Xerox-Globalview](https://jade-fenglisu-025746.netlify.app/gallery/xerox-globalview/)
+ - [Windows XP](https://jade-fenglisu-025746.netlify.app/gallery/windows-xp/)
+ - [Xerox Globalview 2.1](https://jade-fenglisu-025746.netlify.app/gallery/xerox-globalview/)
 
 
 # Παραδοτέο 4
@@ -61,15 +61,14 @@ Slides
 
 - [Windows XP](https://jade-fenglisu-025746.netlify.app//slides/os/)
 
-- [Xerox Globalview](https://jade-fenglisu-025746.netlify.app//slides/gui/)
+- [Xerox Globalview 2.1](https://jade-fenglisu-025746.netlify.app//slides/gui/)
 
  
  Timeline
 
 - [Windows XP](https://jade-fenglisu-025746.netlify.app//timeline/microsoft/)
 
-- [Xerox Globalview](https://jade-fenglisu-025746.netlify.app//timeline/desktop-publishing/)
-
+- [Xerox Globalview 2.1](https://jade-fenglisu-025746.netlify.app//timeline/desktop-publishing/)
 
 # Παραδοτέο 6
 
