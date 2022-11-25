@@ -10,7 +10,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση-Παραδοτέο 1](https://github.com/courses-ionio/help/discussions/1314)| |
 | 2 | [Άσκηση γραμμής εντολών (arch linux install on VM)](#παραδοτέο-2) | [Συζήτηση-Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1429) | |
 | 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3)| [Συζήτηση-Παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1432) | |
-| 4 | [Άσκηση γραμμής εντολών (arch linux install on HW)](#παραδοτέο-4) | [Συζήτηση-Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1519) | |
+| 4 | [Άσκηση γραμμής εντολών (arch linux install)](#παραδοτέο-4) | [Συζήτηση-Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1519) | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | [Συζήτηση-Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1433) | |
 | 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | [Συζήτηση-Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1567)| |
 | 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) | | |
