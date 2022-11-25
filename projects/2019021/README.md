@@ -6,7 +6,7 @@
 
 | Εβδομάδα | Παραδοτέα  | Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 | Εισαγωγή |  [link](https://github.com/courses-ionio/help/discussions/817)  | Επιτυχής ολοκλήρωση | 
+| 1 | (Εισαγωγή)[https://github.com/StavroulaAnatolaki/hci/blob/2019021/projects/2019021/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE] |  [link](https://github.com/courses-ionio/help/discussions/817)  | Επιτυχής ολοκλήρωση | 
 | 2 | Άσκηση γραμμής εντολών |  [link](https://github.com/courses-ionio/help/discussions/1059)  |Επιτυχής ολοκλήρωση| 
 | 3 | Συμμετοχικό περιεχόμενο A1 |  [link](https://github.com/courses-ionio/help/discussions/1402)  |Επιτυχής ολοκλήρωση | 
 | 4 | Άσκηση γραμμής εντολών |  [link](https://github.com/courses-ionio/help/discussions/1627)  | Επιτυχής ολοκλήρωση| 
