@@ -95,8 +95,8 @@ Slides
 Λόγω τεχνικών προβλημάτων με το netlify δεν έχω βάλει λινκ προς το παρόν γι'αυτό.
 
  Οι πηγές μου:
- http://www.verycomputer.com/3_d478afa034724871_1.htm
- https://en.wikipedia.org/wiki/GlobalView
- https://archive.org/details/gvwin
- http://toastytech.com/guis/gv.html
- https://bushytree.fandom.com/wiki/GlobalView
+- http://www.verycomputer.com/3_d478afa034724871_1.htm
+- https://en.wikipedia.org/wiki/GlobalView
+- https://archive.org/details/gvwin
+- http://toastytech.com/guis/gv.html
+- https://bushytree.fandom.com/wiki/GlobalView
