@@ -16,7 +16,7 @@
 | 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/Alessenia/hci/tree/2019165/projects/2019165#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a2) |[Ανάρτηση των προσθηκών μου στο χρονολόγιο και στα slides](https://github.com/courses-ionio/help/discussions/1472) |Στο παραδοτέο αυτό δημιουργήθηκαν διαφάνειες και χρονολόγιο με στόχο να ενσωματωθούν και οι συσκευές από τα υπόλοιπα μέλη της ομάδας.|
 | 6 | Κατασκευή του βιβλίου Α |[Aνάρτηση στα discussions του φίλτρου σε lua,του σχολιασμού και της μετατροπής του make-latex](https://github.com/courses-ionio/help/discussions/1580) |Η κατασκευή του βιβλίου ήταν ενδιαφέρουσα αν και συνάντησα κάποιες δυσκολίες.|
 | 7 | Συμμετοχικό περιεχόμενο B1 |[Aνάρτηση της μελέτης περίπτωσης μου στα Discussions](https://github.com/courses-ionio/help/discussions/1708) | |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | Άσκηση γραμμής εντολών |[Ανάρτηση του Shell Script στα discussions](https://github.com/courses-ionio/help/discussions/1766) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
