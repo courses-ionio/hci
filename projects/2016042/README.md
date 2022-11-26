@@ -13,7 +13,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A2 | [Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1499) | Μερική ολοκλήρωση των ζητούμενωνν του παραδοτέου.Υπάρχει κάποιο αδιευκρίνιστο μέχρι στιγμής πρόβλημα στην φόρτωση των thump εικόνων|
 | 6 | Κατασκευή του βιβλίου Α | [Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1622)| Ολοκλήρωση των ζητούμενων του παραδοτέου |
 | 7 | Συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1642) | Ολοκλήρωση των ζητούμενων του παραδοτέου |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | Άσκηση γραμμής εντολών | [Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1770) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
@@ -96,3 +96,8 @@ Netlify:
 - https://archive.org/details/byte-magazine-1984-11/mode/2up?view=theater
 - http://www.bitsavers.org/pdf/hp/hp150/45625-90001_HP-150_Technical_Manual_May84.pdf
 - https://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1985-10.pdf
+
+# Παραδοτέο 8
+ Για το Παραδοτέο 8 χρειάστηκε να φτιάξω ένα script το οποίο το ονόμασα `chformat.sh` (change format) όπου μετατρέπει όλα τα markdown αρχεία ενός φακέλου σε μορφή pdf και docx. Ο λόγος που έφτιαξα αυτό το script ήταν το να μπορώ να μετατρέπω την αναφορά μου στο μάθημα στις παραπάνω μορφές με αυτοματοποιημένο τρόπο. Ο τρόπος με τον οποίο γίνεται η μετατροπή σε άλλες μορφες είναι με τη χρήση δύο εντολών pandoc που τρέχουν μέσα σε ένα for loop. Παρακάτω βρίσκονται τα links του asciinema και του script, για το οποίο έφτιαξα ξεχωριστό αποθετήριο στο github μου που το ονόμασα Paradoteo8:
+ - [asciinema](https://asciinema.org/a/540550)
+ - [script](https://github.com/MarAkar98/Paradoteo8/blob/main/chformat.sh)
