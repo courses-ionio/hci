@@ -387,9 +387,13 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
   
 # Πίνακας των διάφορων link περί εργασίας:
 
-| Links | Platform |
-| --- | --- |
-|
+| Links | Platform | Extension |
+| --- | --- | --- |
+| [Shell Script](https://github.com/Greekforce1821/Spiritbeat/blob/main/make.sh) | GitHub | .sh |
+| [MYREADMEEXAMPLE.md](https://github.com/Greekforce1821/Spiritbeat/blob/main/MYREADME.md) |GitHub | .md |
+| [Converted PDF File](https://github.com/Greekforce1821/Spiritbeat/blob/main/pdf/MYREADME.pdf) | GitHub | .pdf |
+| [Converted HTML File](https://github.com/Greekforce1821/Spiritbeat/blob/main/html/README.html) | GitHub | .html |
+| [Guides For Users - How To Use](https://github.com/Greekforce1821/Spiritbeat/blob/main/README.md) | GitHub | .md |
   
  
 
