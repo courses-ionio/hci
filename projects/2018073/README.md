@@ -217,7 +217,11 @@ _Το παραδοτεό αυτό βασίζεται στις προσθήκες
 
 - Σχόλιο σε συμφοιτητή μου για υποκατάστατο πρόγραμμα του netlify όσο δεν λειτουργούσε: [Το σχόλιο έδω](https://github.com/courses-ionio/help/discussions/1715)
 
-- Παρόμοιο με το πάνω σχόλιο σε συμφοιτητή μου για εναλλακτική λύση του netlify όσο δεν λειτουργούσε: [Το σχόλιο έδω](https://github.com/courses-ionio/help/discussions/1713)
+- Παρόμοιο με το πάνω σχόλιο σε συμφοιτητή μου για εναλλακτική λύση του netlify όσο δεν λειτουργούσε: [Το σχόλιο εδώ](https://github.com/courses-ionio/help/discussions/1713)
+
+- Επισήμανση για πρόσθεση συνδέσμων Netlify σε weekly discussion συμφοιτητή μου για το συμμετοχικό περιεχόμενο του case study: [Το discussion εδώ](https://github.com/courses-ionio/help/discussions/1642)
+
+- Επισήμανση για παράθεση συνδέσμου προς το pull request στον οργανισμό του, σε συμφοιτητή μου για το συμμετοχικό περιεχόμενο: [Discussion Σύνδεσμος](https://github.com/courses-ionio/help/discussions/1731)
 
  <br>*Τα παρακάτω είναι παλαιότερα, αλλά η βοήθεια δεν βλέπει χρόνο :D (πχ Stack Overflow)* <br>
  
