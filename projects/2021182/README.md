@@ -65,7 +65,7 @@
 
 * [Link για το discussion του 7ου παραδοτέου](https://github.com/courses-ionio/help/discussions/1773)
 
-#8ο ΠΑΡΑΔΟΤΕΟ
+# 8ο ΠΑΡΑΔΟΤΕΟ
 
 Για το 8ο παραδοτέο δημιούργησα ένα shell script το οποίο μετατρέπει μερικά e-books που έχω σε διαφορετικά formats. Για να το επιτύχω αυτό, μιας και δεν είχα ξαναχρησιμοποιήσει Shell με βοήθησε πολύ αυτό το [βίντεο στο youtube](https://www.youtube.com/watch?v=v-F3YLd6oMw) και το [user manual](https://pandoc.org/MANUAL.html) του pandoc. Αυτό σίγουρα αποτελεί ένα πολύ χρήσιμο εργαλείο, μιας και natively τα linux δεν υποστηρίζουν το epub format, άρα πλέον μπορώ να έχω πρόσβαση στα αρχεία μου σε άλλες μορφές.
 
