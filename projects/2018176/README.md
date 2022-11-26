@@ -77,3 +77,12 @@
 [Netlify](https://famous-faun-a7c70a.netlify.app/biography/peter-norton/)
 
 ![Screenshot 2022-11-26 at 15 47 11](https://user-images.githubusercontent.com/93882637/204092302-8be3969e-6ad6-4a47-978e-c4c5664570e8.png)
+
+## Παραδοτέο 10 
+Σε αυτό το παραδοτέο δημιουργήθηκε το βιβλίο του μαθήματος σε .epub μορφή η συγκεκριμένη μορφή μέσω των animation αλλαγής σελλίδας και της μορφοποιήσης του κειμένου προσφέρουν στον χρήστη μια εμπειρία ανάγνωσης που μοιάζει με την ανάγνωση ενός κλασικού βιβλίου.
+
+![Screenshot 2022-11-26 at 16 14 06](https://user-images.githubusercontent.com/93882637/204093868-4dcf6488-da88-4493-acc7-8fe4d1b260ca.png)
+
+[make-latex.sh](https://github.com/p18balt/kallipos/blob/master/make-latex.sh)
+[Repository](https://github.com/p18balt/kallipos)
+[book.epub](https://github.com/p18balt/kallipos/blob/master/book/book.epub)
