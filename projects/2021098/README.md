@@ -341,5 +341,5 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 # Παραδοτέο 8ο: Command Line Exercise #2
 
-
+Στο συγκεκριμένο παραδοτέο καλούμαστε να δημιουργήσουμε ένα δικό μας <ins> shell script </ins> το οποίο θα πρέπει να έχει σχέση με τις γνώσεις που αποκτήσαμε στα προηγούμενα παραδοτέα (βλέπε: [Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1586) & [Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1675) )
 
