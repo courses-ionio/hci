@@ -140,7 +140,8 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 ### [Η μελέτη περίπτωσης](https://github.com/Alessenia/site/blob/master/_includes/cs-nintendoDS.md)
 ### [Το _case-study αρχείο](https://github.com/Alessenia/site/blob/master/_case-study/nintendoDs.md)
 
-### Τα pull-request
+### [Τα pull-request](https://github.com/Cat-a-strophe/site/pull/6)
+### [Case study στο Netlify](https://lucky-llama-173f38.netlify.app/case-study/nintendods/)
 
 ### Πηγές 
 #### [The DS saved Nintendo while destroying handheld gaming as we knew it](https://www.polygon.com/2018/10/22/18000592/nintendo-ds-mobile-casual-gaming)
