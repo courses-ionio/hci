@@ -394,6 +394,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 | [Converted PDF File](https://github.com/Greekforce1821/Spiritbeat/blob/main/pdf/MYREADME.pdf) | GitHub | .pdf |
 | [Converted HTML File](https://github.com/Greekforce1821/Spiritbeat/blob/main/html/README.html) | GitHub | .html |
 | [Guides For Users - How To Use](https://github.com/Greekforce1821/Spiritbeat/blob/main/README.md) | GitHub | .md |
+| [SpiritBeat Shell Script Repository](https://github.com/Greekforce1821/Spiritbeat) | GitHub | - |
   
  
 
