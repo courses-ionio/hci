@@ -66,3 +66,7 @@
 [make-latex.sh](https://github.com/p18balt/kallipos/blob/master/make-latex.sh)
 [Discussions Link](https://github.com/courses-ionio/help/discussions/1647)
 
+## Παραδοτέο 7
+Σε αυτό το παραδοτέο έγινε μελέτη περίπτωσης σχετικά με τα Arch Linux.
+
+![Screen](https://user-images.githubusercontent.com/93882637/204091775-e169a640-31d1-4cbd-a5df-d1cf5749b48d.png)
