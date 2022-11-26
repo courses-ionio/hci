@@ -343,9 +343,19 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 Στο συγκεκριμένο παραδοτέο καλούμαστε να δημιουργήσουμε ένα δικό μας <ins> shell script </ins> το οποίο θα πρέπει να έχει σχέση με τις γνώσεις που αποκτήσαμε στα προηγούμενα παραδοτέα (βλέπε: [Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1586) & [Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1675) ) Σύμφωνα με τις [οδηγίες](https://github.com/epidrome/dokey#hci) του μαθήματος έπρεπε να επιλέξουμε να υλοποιήσουμε μια οποιαδήποτε εργασία. Στην προκειμένη περίπτωση, επέλεξα να δημιουργήσω ένα script το οποίο θα περιλαμβάνει το `pandoc` και το `texlive` (που χρησιμοποίησα στο 6ο παραδοτέο για να κατασκευάσω το βιβλίο) για να μετατρέψω ένα οποιοδήποτε αρχείο <ins> Markdown </ins> (.md) σε <ins> PDF </ins>  (.pdf) και σε <ins> HTML </ins> (.html) . Στην συγκεκριμένη εργασία, αξιοποίησα ένα μικρό κομμάτι από το script που έγραψε ο συμφοιτητής: [Νίκος Αναγνωστόπουλος](https://github.com/nkanagno/paradoteo-8/blob/main/file-conversion.sh) τον οποίο ευχαριστώ πολύ για την συμβολή του!
 
-# Βήμα #1: The Creation of the Repository  
+## Βήμα #1: <ins> The Creation of the Repository </ins>  
 
 Στο συγκεκριμένο βήμα, δημιούργησα ένα [ξεχωριστό αποθετήριο](https://github.com/Greekforce1821/Spiritbeat) στο προφίλ μου στο Github το οποίο το ονομάσα ως: `Spiritbeat`. Στην συνέχεια, δημιούργησα ένα README.md αρχείο (κενό για αρχή) και ένα LICENSE.md.
+
+![Screenshot_2022-11-26_14-50-13](https://user-images.githubusercontent.com/33377581/204089825-6070d546-213f-4dd4-8ff1-0ec6dd0272a8.jpg)
+
+## Bήμα #2: <ins> Cloning the Repository Locally </ins>
+
+Στο παραπάνω βήμα, έπρεπε να κάνω clone τοπικά το αποθετήριο με την εντολή: `git clone https://github.com/Greekforce1821/Spiritbeat` για να μπορέσω να κάνω `git push` μόλις ολοκληρωθεί το script. Στην συνέχεια, δημιούργησα ένα αρχείο `make.sh` στο αποθετήριο τοπικά και ξεκίνησα την υλοποίηση του script.
+
+![Screenshot_2022-11-26_14-55-01](https://user-images.githubusercontent.com/33377581/204090032-13a898fd-01f9-420c-9558-f8e2be3d8a2c.jpg)
+
+
 
 
 
