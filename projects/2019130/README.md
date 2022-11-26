@@ -27,6 +27,7 @@
 
 ### neofetch
 [![asciicast](https://asciinema.org/a/527419.png)](https://asciinema.org/a/527419)
+
 ### bootlog
 [![asciicast](https://asciinema.org/a/528071.png)](https://asciinema.org/a/528071)
 
