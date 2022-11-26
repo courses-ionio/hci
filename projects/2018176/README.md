@@ -71,3 +71,9 @@
 
 ![PhotoArch](https://user-images.githubusercontent.com/93882637/204091935-c032da42-ec91-45ff-bd03-a140d27e955d.png)
 
+## Παραδοτέο 9
+Σε αυτό το παραδοτέο προστέθηκε στον ιστότοπο του βιβλίου, η βιογραφία του Peter Norton (Norton Commander, IBM PC programmer, Norton, Computing Inc etc.)
+
+[Netlify](https://famous-faun-a7c70a.netlify.app/biography/peter-norton/)
+
+![Screenshot 2022-11-26 at 15 47 11](https://user-images.githubusercontent.com/93882637/204092302-8be3969e-6ad6-4a47-978e-c4c5664570e8.png)
