@@ -395,7 +395,8 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 | [Converted HTML File](https://github.com/Greekforce1821/Spiritbeat/blob/main/html/README.html) | GitHub | .html |
 | [Guides For Users - How To Use](https://github.com/Greekforce1821/Spiritbeat/blob/main/README.md) | GitHub | .md |
 | [SpiritBeat Shell Script Repository](https://github.com/Greekforce1821/Spiritbeat) | GitHub | - |
-  
+| [PDF Conversion Using Terminal](https://asciinema.org/a/540266) | Asciinema | .cast |
+| [HTML Conversion Using Terminal](https://asciinema.org/a/540268) | Asciinema | .cast |
  
 
 
