@@ -96,3 +96,16 @@ Sources:
 [IntechOpen](https://www.intechopen.com/chapters/71817),
 [Wikipedia 1](https://en.wikipedia.org/wiki/Digital_image_processing#:~:text=Many%20of%20the%20techniques%20of,facilities%2C%20with%20application%20to%20satellite),
 [Wikipedia 2](https://en.wikipedia.org/wiki/Analog_image_processing)
+
+<br /><br /> 
+# Εβδομάδα Όγδοη - Άσκηση γραμμής εντολών
+
+&nbsp;&nbsp;&nbsp;Για αυτό το παραδοτέο μας ζητήθηκε να κάνουμε μια από τις ασκήσεις [HCI](https://github.com/epidrome/dokey#hci) με την χρήση. Εγώ διάλεξα την κάνω με script την τρίτη άσκηση όπου μας ζητάει την μετατροπή μεταξύ διαφορετικών μορφών κειμένου. Αυτό το script εμφανίζει την λίστα των αρχείων Markdown _(σε αυτή την περίπτωση η αναφορά μου)_ που υπάρχουν και μετά ζητάει από τον χρήστη να γράψει το όνομα αυτού του αρχείου και την μορφή όπου θέλει να το μετατρέψει _(οι επιλογές είναι docx και html)_. 
+
+Links:
+[Script](https://github.com/inf2021229/Paradoteo8/blob/main/convert.sh),
+[Markdown File](https://github.com/inf2021229/Paradoteo8/blob/main/REPORT.md),
+[Docx File](https://github.com/inf2021229/Paradoteo8/blob/main/REPORT.docx),
+[Html FIle](https://github.com/inf2021229/Paradoteo8/blob/main/REPORT.html),
+[Asciinema Docx](https://asciinema.org/a/KlfUSW3vL2qWuhdZgYjwLkHst),
+[Asciinema Html](https://asciinema.org/a/ec4nxODBQO9IKQseshcNGoQCb)
