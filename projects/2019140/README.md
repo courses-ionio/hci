@@ -75,3 +75,17 @@
 Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε μια νέα μελέτη περίπτωσης στην ιστοσελίδα του μαθήματος. Αποφάσισα να ασχοληθώ και πάλι με το Xfce του οποίου η μελέτη περίπτωσης βρίσκεται [εδώ](https://site-sepia-six.vercel.app/case-study/xfce). Τα αρχεία που πρόσθεσα είναι τα ακόλουθα:
 - [site/_case-study/xfce.md](https://github.com/KonstantinosTourtsakis/site/blob/master/_case-study/xfce.md)
 - [site/_includes/cs-xfce.md](https://github.com/KonstantinosTourtsakis/site/blob/master/_includes/cs-xfce.md)
+
+## Παραδοτέο 8 - Άσκηση γραμμής εντολών
+Σε αυτό το παραδοτέο μας ζητήθηκε να υλοποιήσουμε μια από τις ασκήσεις γραμμής εντολών του HCI με χρήση pipelines. Επέλεξα να κάνω την πρώτη άσκηση (`use text formating tools to layout your final report for different output`) συνδυάζοντας το **groff** με το **pandoc**. Αρχικά δημιουργώ ένα προσωρινό αρχείο στο οποίο προσθέτω κείμενο το οποίο ορίζει το font που θα χρησιμοποιήσει το groff. Χρησιμοποίησα διαφορετική γραμματοσειρά γιατί το groff δεν εμφάνιζε χαρακτήρες που είχαν τόνους με την προεπιλεγμένη γραμματοσειρά. Στην συνέχεια χρησιμοποιώ pipeline με το οποίο στέλνω το περιεχόμενο της αναφοράς μου στο pandoc για να το μετατρέψει σε μορφή κατανοητή από το groff και να το αποθηκεύσει σε ένα προσωρινό αρχείο. Τέλος, ενώνω τα δύο προσωρινά αρχεία και στέλνω με pipeline το αποτέλεσμα στο groff για να το μετατρέψει σε PDF. Από αυτήν την διαδικασία προκύπτει το παρακάτω script το οποίο μπορώ να το τρέξω με `./convert_report.sh`
+```bash
+echo -e ".fam roboto\n.ft R\n" > FinalTemporaryMS
+echo "$(cat Anafora.md)" | pandoc --to ms > TemporaryMS
+echo "$(cat TemporaryMS)" >> FinalTemporaryMS
+echo "$(cat FinalTemporaryMS)" | groff -ms -tbl -refer -Kutf8 -Tpdf > Anafora.pdf
+```
+
+Παρακάτω επισυνάπτω το asciinema recording που εκτελώ τις αντίστοιχες εντολές στο σύστημά μου.
+[![asciicast](https://asciinema.org/a/540767.svg)](https://asciinema.org/a/540767)
+Παρακάτω προσθέτω και ένα screenshot από το αποτέλεσμα μετατροπής της αναφοράς σε PDF.
+![asciicast](https://cdn.discordapp.com/attachments/794920060677521469/1046510760643272734/GroffAnafora.jpg)
