@@ -25,11 +25,9 @@
 ## Arch install
 Το installation του Arch ήταν η πρώτη πρόκληση σε αυτό το μάθημα καθώς δεν είχα κάνει ποτέ εγκατάσταση linux χωρίς GUI. Το πρώτο πρόβλημα που αντιμετώπισα ήταν το partitioning του δίσκου καθώς είχα ήδη partition στον δίσκο με άλλα αρχεία, συρρίκνωσα το partition και μετά από λίγο πειραματισμό με το fdisk κατάφερα να ετοιμάσω τα απαραίτητα για την εγκατάσταση partitions. Το επόμενο speed bump ήρθε στο τέλος που πρέπει να εγκατασταθεί το boot loader. Η πολλές επιλογές με φοβίσαν στην αρχή εφόσον δεν ξέρω της διάφορες μεταξύ τους. Εφόσον τα περισσότερα distros (τουλάχιστον αυτά που γνωρίζω) έρχονται με GRUB αυτό επέλεξα και εγώ και με βοήθεια το αντίστοιχο Arch wiki κατάφερα να τελειώσω την εγκατάσταση. Επόμενο βήμα ήταν να εγκαταστήσω το kde desktop enviroment και η επεξεργασία του .bashrc για να αλλάξω το command prompt σύμφωνα με της οδηγίες. Από κάτω ακολουθούν δυο asciinema με το boot log και το neofetch που δείχνει τα specs του συστήματος.
 
-### neofetch
-[![asciicast](https://asciinema.org/a/527419.png)](https://asciinema.org/a/527419)
-
-### bootlog
-[![asciicast](https://asciinema.org/a/528071.png)](https://asciinema.org/a/528071)
+### Asciinema εβδομάδας 2
+1. neofetch[![asciicast](https://asciinema.org/a/527419.png)](https://asciinema.org/a/527419)
+2. bootlog[![asciicast](https://asciinema.org/a/528071.png)](https://asciinema.org/a/528071)
 
 ## Συμμετοχικό περιεχόμενο A1
 Για την τρίτη εβδομάδα κληθήκαμε να σετάρουμε το [site](https://invicta-team-project.netlify.app/) της ομάδας και να κάνουμε τις δικές μας προσθήκες σε αυτό. Ως συντονιστής της ομάδας χρησιμοποίησα το netlify βάση των οδηγιών προκειμένου να κάνω deploy το site της ομάδας. Στη συνέχεια έκανα config και deploy το προσωπικό μου site προκειμένου να δω της προσθήκες και να βεβαιωθώ πως λειτουργούν σωστά πριν της ενσωματώσω στο site της ομάδας. Η προσθήκες που έκανα στο site είναι το [virtuality 1000cs](https://invicta-team-project.netlify.app/gallery/virtuality-1000cs/) και το [CAM](https://invicta-team-project.netlify.app/gallery/computer-aided-manufacturing/) τις οποίες εφόσον τις δοκίμασα στο προαναφερθέν δικό μου deployment τις ενσωμάτωσα στο site της ομάδας. Μια άλλη αρμοδιότητα ως συντονιστής της ομάδας ήταν ο έλεγχος και η ενσωμάτωση των pull-request από τις προσθήκες των υπολοίπων μελών στο site.  
