@@ -222,13 +222,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Αρχικά μελέτησα τις πηγές που μας δώθηκαν στο [dokey](https://github.com/epidrome/dokey) και συνειδητοποίησα πως ήθελα να κάνω κάτι δικό μου σύμφωνα πάντα με τις οδηγίες. Δημιουργούσα **README.md** αρχεία στα οποία έγραφα το περιεχόμενό που επιθυμούσα και έπειτα με τη χρήση του **pandoc** τα τροποποιούσα σε **html** μορφή. Όλες τις τροποποιήσεις τις έβαλα σε ένα μικρό απλό script **(my_script)** και με την εντολή <kbd>./my_script</kbd> οι αλλαγές μου πραγματοποιόντουσαν. Για την εμφάνιση της στατικής ιστοσελίδας στον browser μου χρησιμοποίησα το εργαλείο [Browsersync](https://browsersync.io/). Όταν γινόταν μία αλλαγή στα αρχεία του φακέλου μου το browsersync με ένα refresh έδειχνε όλες τις τροποποιήσεις στο **localhost:3000** όπως φαίνεται παρακάτω. Επίσης δημιούργησα ένα **css** αρχείο για την εμφάνιση της ιστοσελίδας, όπου τροποποίησα τη γραμματοσειρά και το χρώμα του background. Τέλος δημιούργησα ένα template **(my_template)** όπου περιέχεται ο τίτλος, ο συγγραφέας και η ημερομηνία.
 
+<br />
 
+Η εμφάνιση της στατικής ιστοσελίδας στο **localhost:3000** και το browsersync στο command line
 
+![merge-paradoteo8](https://user-images.githubusercontent.com/72695605/204158434-b401ed8c-8789-468b-82b9-4f9bd17f49f9.png)
 
+<br />
 
-
-
-
+| Netlify Link | Github Repo Link |
+| --- | --- |
+| [My Netlify](https://my-static-site-paradoteo8.netlify.app/) | [My Github Repo](https://github.com/AimiliosPavlidis2001/my-static-site) |
 
 
 <br /><br />
@@ -270,3 +274,7 @@
 #### Έκτο Παραδοτέο
  - [guide συμφοιτητών 1](https://github.com/Second-Time-Is-The-Charm/Main/discussions/11)
  - [guide συμφοιτητών 2](https://github.com/courses-ionio/help/discussions/1597)
+#### Όγδοο Παραδοτέο
+ - [βοήθεια βίντεο](https://www.youtube.com/watch?v=Efk2M77naFU)
+ - [βοήθεια εγκατάστασης google chrome](https://www.itzgeek.com/how-tos/linux/arch-linux/how-to-install-google-chrome-on-arch-linux.html)
+ - [Browsersync](https://browsersync.io/)
