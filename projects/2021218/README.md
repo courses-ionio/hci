@@ -23,7 +23,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Click](https://github.com/courses-ionio/help/discussions/1488) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 |[Click](https://github.com/courses-ionio/help/discussions/1705)  | |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1775) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
@@ -84,5 +84,15 @@
 ## Eβδομάδα Έβδομη - Συμμετοχικό περιεχόμενο B1
 
 Σε αυτό το παραδοτέο είχα να μελετήσω μια περίπτωση. Συγκεκριμένα επέλεξα να μελετήσω το χειριστίριο ως συσκευή εισόδου. Ορίστε το casestudy και το joystick
+
+[αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
+
+## Eβδομάδα Όγδοη  - Άσκηση γραμμής εντολών 
+
+Σε αυτό το παραδοτέο μου ζητήθηκε να δημιουργήσω ένα bash αρχείο για να τρέχει ένα δικό μου project. Το δικό μου είναι μία απλή αριθμομηχανή σε java.
+[asciinema](https://asciinema.org/a/5Czn8XbyxoB4e9XyPb0dXUJsp)
+[mycalculator](https://github.com/StefanosSfinarolakis/inf2021218)
+
+[![asciicast](https://asciinema.org/a/5Czn8XbyxoB4e9XyPb0dXUJsp.svg)](https://asciinema.org/a/5Czn8XbyxoB4e9XyPb0dXUJsp)
 
 [αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
