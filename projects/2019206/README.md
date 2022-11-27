@@ -136,6 +136,8 @@
 
 Για αυτό το παραδοτέο πρόσθεσα τις αλλαγές που είχα κάνει για το [Α1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1) στα ήδη υπάρχοντα [consoles timeline](https://oroseira2022.netlify.app/timeline/consoles/) και [technology slides](https://oroseira2022.netlify.app/slides/technology/).
 
+Ο λόγος που επέλεξα να τα προσθέσω στα συγκεκριμένα slides και timeline είναι επείδη είναι κονσόλες βιντεοπαιχνιδιών και η κάθε μια φέρνει μια καινούρια τεχνολογία στην αγορά και στα χέρια του κόσμου με την κυκλοφορία της.
+
 Παρακάτω είναι μερικά screenshots από τις προσθήκες μου:
 
 <p align=center>
