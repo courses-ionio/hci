@@ -11,7 +11,7 @@
 | 5 | [Συμμετοχικό περιεχόμενο A2](#Συμμετοχικό-περιεχόμενο-A2) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1452) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
 | 6 | [Κατασκευή του βιβλίου Α](#Κατασκευή-του-βιβλίου-Α) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1596) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
 | 7 | [Συμμετοχικό περιεχόμενο B1](#Συμμετοχικό-περιεχόμενο-B1) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1664) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1778) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
@@ -58,3 +58,15 @@
 
 ## Συμμετοχικό περιεχόμενο B1  
 Για το έβδομο παραδοτέο αποφάσισα να κάνω μια μελέτη περίπτωσης για τα συστήματα εικονικής πραγματικότητας. Δεν εστίασα στην χρήση του ως επιχειρησιακό εργαλείο καθώς τα συστήματα αυτά είναι πολύ πιο ανεπτυγμένα άλλα δεν είναι δυνατή η πρόσβαση τους στο εύρη κοινό Για την παράδοση του δημιούργησα δυο καινούργια markdown αρχεία, το [cs-vrtech.md](https://github.com/Invicta-Ionian-Hci/site/blob/master/_includes/cs-vrtech.md) και το [vrtech.md](https://github.com/Invicta-Ionian-Hci/site/blob/master/_case-study/vrtech.md). Κλασικά εφόσον βεβαιώθηκα ότι δουλεύουν όπως αναμένετε σε ένα διαφορετικό deployment του site έκανα το απαραίτητο [pull request](https://github.com/Invicta-Ionian-Hci/site/pull/6) στο αποθετήριο της ομάδας.
+
+## Άσκηση γραμμής εντολών  
+Για το 8ο παραδοτεο υλοπιησα δυο scripts, ενα για να κατεβαζω την αναφορα μου και να την μετατρεπω σε docx και html και ενα για να μπορω να βλεπω της λιστες απο τα βιβλια στο [Project Gutenberg](https://www.gutenberg.org/), να τα κατεβαζω και επιτα να τα μετατρεπω σε pdf. Για της μετατροπες χρησιμοπηισα εργαλια που ειχαμε χρισιμοπιησει και την [6η εβδομαδα](#Κατασκευή-του-βιβλίου-Α) και το curl για την λιψη των δεδομενων απο τους servers. Τα scripts οπος και ενδικτικα αρχεια βρισκοντε στο [αποθετιριο](https://github.com/vasilis22/HCI-handin).
+
+### Asciinema εβδομάδας 8
+1. Asciinema από το script μετατροπής αναφοράς[![asciicast](https://asciinema.org/a/540689.png)](https://asciinema.org/a/540689)
+2. Asciinema από το script λήψης βιβλίου[![asciicast](https://asciinema.org/a/540692.png)](https://asciinema.org/a/540692)
+
+### Ενδεικτικά screenshots
+1. Η αναφορα σε html![Η αναφορα σε html](https://i.ibb.co/y8MPWZk/html-falfway-report.png)
+2. Η αναφορα σε docx![Η αναφορα σε docx](https://i.ibb.co/xXPQkjS/halfway-report.png)
+3. Βιβλίο από το Project Gutenberg![Βιβλίο από το Project Gutenberg](https://i.ibb.co/DtFz6Qp/The-Abounding-American.png)
