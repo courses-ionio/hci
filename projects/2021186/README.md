@@ -88,3 +88,13 @@ Asciinema profile: [inf2021186](https://asciinema.org/~inf2021186)
 
 Στο παραδοτέο 6 μας ζητήθηκε να κατασκευάσουμε το [βιβλίο](https://github.com/courses-ionio/hci/discussions/1832), εγκαθιστώντας αρχικά τις απαραίτητες βιβλιοθήκες ([pandoc](https://pandoc.org/), [latex](https://www.latex-project.org/)) που υποστηρίζουν την δημιουργία του βιβλίου και στη συνέχεια να πρόσθεσουμε το προσωπικό μας αρχείο που καλούμαστε να δημιουργήσουμε. Προσωπικά, δημιούργησα ένα αρχείο με κατάληξη `.md` με τίτλο `Apple iPod`.
 #
+
+# 7o ΠΑΡΑΔΟΤΕΟ
+
+Στο συγκεκριμένο παραδοτέο είχαμε να δημιουργήσουμε τη μελέτη περίπτωσης.
+
+# Προσωπική Υποχρέωση
+
+- Με βάση τα προηγούμενα παραδοτέα αλλά και τα προσωπικά μου αρχεία ([ΠΑΡΑΔΟΤΕΟ 3](https://github.com/courses-ionio/help/discussions/1266), [ΠΑΡΑΔΟΤΕΟ 5](https://github.com/courses-ionio/help/discussions/1508)), ανέλυσα την Αντικειμενοστραφή Γλώσσα Προγραμματισμού [Java](https://stamathsp.netlify.app//case-study/java-and-vmware/)  και έγραψα μια βιογραφία για τον πολυμήχανο ιδρυτή της,  [James Gosling](https://stamathsp.netlify.app//biography/james-gosling/) και πρόσθεσα, στο ίδιο `.md` file, την εικονική μηχανή VMware συναρτήσει με την αξιοποίηση της java. 
+
+#
