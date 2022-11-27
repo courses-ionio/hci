@@ -10,7 +10,8 @@
   ### [Το GitHub προφίλ μου](https://github.com/vasiliskampani)
   
   ### [Το GitHub προφίλ της ομάδας μου](https://github.com/TEAM11234/)
-
+  
+  ### Owner στην ομάδα [TEAM11234](https://github.com/TEAM11234/)
 
 <br />
 
