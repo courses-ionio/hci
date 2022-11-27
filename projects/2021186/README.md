@@ -15,7 +15,7 @@ Asciinema profile: [inf2021186](https://asciinema.org/~inf2021186)
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1508), [PR#1](https://github.com/Terminal-Killers/_gallery/pull/18), [PR#2](https://github.com/Terminal-Killers/images/pull/10), [Work#1](https://terminal-killers-site.netlify.app//timeline/programming-languages/), [Work#2](https://terminal-killers-site.netlify.app//slides/vmware/), [Work#3](https://terminal-killers-site.netlify.app//slides/programming/), [Work#4](https://terminal-killers-site.netlify.app//timeline/simulations/) |Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
 | 6 | Κατασκευή του βιβλίου Α |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1593) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 7 | Συμμετοχικό περιεχόμενο B1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1769) | Επιτυχής ολοκλήρωση του παραδοτέου εκτός προθεσμίας|
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | Άσκηση γραμμής εντολών |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1779) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
@@ -97,4 +97,9 @@ Asciinema profile: [inf2021186](https://asciinema.org/~inf2021186)
 
 - Με βάση τα προηγούμενα παραδοτέα αλλά και τα προσωπικά μου αρχεία ([ΠΑΡΑΔΟΤΕΟ 3](https://github.com/courses-ionio/help/discussions/1266), [ΠΑΡΑΔΟΤΕΟ 5](https://github.com/courses-ionio/help/discussions/1508)), ανέλυσα την Αντικειμενοστραφή Γλώσσα Προγραμματισμού [Java](https://stamathsp.netlify.app//case-study/java-and-vmware/)  και έγραψα μια βιογραφία για τον πολυμήχανο ιδρυτή της,  [James Gosling](https://stamathsp.netlify.app//biography/james-gosling/) και πρόσθεσα, στο ίδιο `.md` file, την εικονική μηχανή VMware συναρτήσει με την αξιοποίηση της java. 
 
+#
+
+# 8o ΠΑΡΑΔΟΤΕΟ
+Στο συγκεκριμένο παραδοτέο, είχαμε να δημιουργήσουμε ένα script με θέμα δικό μας. Προσωπικά, έγραψα ένα προγραμματάκι στη γλώσσα προγραμματισμού Java  όπου μετατρέπει τους βαθμούς Φαρενάιτ σε βαθμούς Κελσίου ([Celsius.java](https://github.com/stamathsp/PARADOTEO-8/blob/main/Celsius.java)). 
+ 
 #
