@@ -90,4 +90,20 @@ nintendo.jpg --- nintendo-thumb.jpg
 ###  αρχέιο .md : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glosses/glossesprogrammatismou.md">glossesprogrammatismou.md</a>
 - <a href="https://github.com/courses-ionio/help/discussions/1676">discussions</a>
 ## ΠΑΡΑΔΟΤΕΟ 7 - Συμμετοχικό περιεχόμενο Β2
+ Σε αυτό το παραδοτέο μελέτησα μία μελέτη περίπτωσης .Επέλεξα να ασχοληθώ με την ιστορία του νιντέντο ,με το οποίο είχα ασχοληθεί και στα προηγούμενα παραδοτέα .
+ 
+ Το νιντέντο αποτελεί μία απο τις πιο διαδεδομένες και παλιότερες κονσόλες βιντεοπαιχνιδιών που έχει αποτελέσει <<συντροφιά>> για πολλές γεννιές στην παιδική μας ηλικία .Με την πάροδο του χρόνου δημιουργεί ολόενα και πιο σύγχρονα μοντέλα και με μεγάλες δυνατότητες  ,όπως το game boy ,Nintendo DS , Nintendo switch και πολλά άλλα .
+ 
+ 
+![download](https://user-images.githubusercontent.com/79106646/204264631-c37d6d49-afd3-4f9d-b4f7-e8ead5bff772.jpg)
 
+
+- <a href="https://github.com/TZOYRMANAS/site/blob/master/_includes/cs_nintendo.md">_includes</a>
+- <a href="https://github.com/TZOYRMANAS/site/blob/master/_case-study/nintendo.md">_case-study</a>
+- <a href="https://p18tzou.netlify.app/case-study/nintendo/">Mynetlify_casestudy</a>
+
+
+#### Πηγές
+<a href="https://www.thegrid.gr/stories/24/nintendo-ena-onoma-mia-istoria/">1) thegrid: Δημιουργία - εξέλιξη Nintendo </a>
+
+<a href="https://el.wikipedia.org/wiki/Nintendo">2) Nintendo_wikipedia  </a>
