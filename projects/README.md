@@ -109,3 +109,10 @@ nintendo.jpg --- nintendo-thumb.jpg
 <a href="https://el.wikipedia.org/wiki/Nintendo">2) Nintendo_wikipedia  </a>
 
 - <a href="https://github.com/courses-ionio/help/discussions/1796">discussions  </a>
+## ΠΑΡΑΔΟΤΕΟ 8 - Άσκηση γραμμής εντολών 
+Σε αυτό το παραδοτέo επέλεξα ένα script ,το οποίο ζητάει να τους δώσουμε δύο αριθμούς επιλέγει την πράξη που θα κάνει με αυτούς και την εμφανίζει.Αρχικά,για να βάλω το script στο Terminal ,δημιούργησα ένα bash αρχείο για να μπορεί να είναι εκτελέσιμο και εκεί έγραψα το script .Επίσης, εγκατέστησα το εργαλείο bc(packman bc)απο το pandoc  που βοηθάει στις πράξεις με αριθμoύς.Με την εντολή chmod +x Mycalc.sh δώσαμε δικαιώματα για να μπορεί να εκτελεστεί το script .
+
+- <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MyCalc.sh">script</a>
+- <a href="https://asciinema.org/a/I5b0FG6cSJQc4dbUq9dqo1fsC">MyCalt.sh</a>
+
+
