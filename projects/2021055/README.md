@@ -54,7 +54,7 @@
 
 Σε αυτό το παραδοτέο απαιτείται η συμμετοχή όλων μας τόσο ατομικά όσο και ομαδικά με τον εμπλουτισμό περιεχομένου στο ήδη υπάρχον [site](https://pibook.epidro.me). Ως admin της ομάδας μου, δημιoύργησα το [site](https://omadaa12.netlify.app) και πρόσθεσα τα απαραίτητα [modules](https://github.com/orgs/OMADA12/repositories) στο reposiroty της ομάδας μου.
 
-Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://axileaszervos.netlify.app) και πρόσθεσα 4 φωτογραφίες και 2 md files για τις φωτογραφίες που πρόσθεσα στο site. Ακόμη, έκανα pull request τα [md files](https://github.com/pibook/_gallery/commit/74212cfe631d042f216426e20cac69cdd46cb3fb) και τις [εικόνες](https://github.com/pibook/images/commit/fa6b4276eed47aa69394a1c38c61690a0f04a959).
+Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://axileaszervos.netlify.app) και δημιούργησα 2 εικόνες, μία για τον Αpple iMac G3 και μία για το VirtualBoy
 
 ## Σύντομη παρουσίαση του Apple_iMac
  
@@ -78,23 +78,23 @@
  
  ### Apple_iMac:
     
-   ~Tο .md αρχείο του Apple_iMac στο προσωπικό μου αποθετήριο: [Apple_iMac.md](https://github.com/Axileaszervos/_gallery/blob/3bf98973f5474118c485af43686aa3dde5f4d0ea/Imac.md)~ 
+   ~Tο .md αρχείο του Apple_iMac στο προσωπικό μου αποθετήριο: [Apple_iMac.md]()~ 
    
-   ~Η εικόνα του Apple_iMac στο προσωπικό μου site: [Apple_iMac](https://axileaszervos.netlify.app/gallery/imac/)~
+   ~Η εικόνα του Apple_iMac στο προσωπικό μου site: [Apple_iMac]()~
    
-   ~Η κανονική εικόνα στο αποθετήριο μου: [Apple_iMac-photo](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Imac.jpg)~
+   ~Η κανονική εικόνα στο αποθετήριο μου: [Apple_iMac-photo]()~
    
-   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [Apple-iMac-resized](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Imac-thumb.jpg)~
+   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [Apple-iMac-resized]()~
    
   ### VirtualBoy:
     
-   ~Tο .md αρχείο του VirtualBoy στο προσωπικό μου αποθετήριο: [VirtualBoy.md](https://github.com/Axileaszervos/_gallery/blob/cec92ba9d14ee5e0f2a29521c2fafabb2188bd3c/VirtualBoy.md)~
+   ~Tο .md αρχείο του VirtualBoy στο προσωπικό μου αποθετήριο: [VirtualBoy.md]()~
    
-   ~Η εικόνα του VirtualBoy στο προσωπικό μου site: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
+   ~Η εικόνα του VirtualBoy στο προσωπικό μου site: [VirtualBoy]()~
    
-   ~Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Virtualboy.jpg)~
+   ~Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo]()~
    
-   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [VirtualBoy-resized](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Virtualboy-thumb.jpg)~
+   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [VirtualBoy-resized]()~
    
    
 ## Τα Links και οι φωτογραφίες από το ομαδικό αποθετήριο:
@@ -103,23 +103,23 @@
  
   ### Apple_iMac:
  
-   ~Tο .md αρχείο του Apple_iMac στο αποθετήριο της ομάδας μου: [Apple_iMac.md](https://github.com/OMADA12/_gallery/blob/b1540bb29a88866b4c0f01f5d64327712caa7be1/Imac.md)~
+   ~Tο .md αρχείο του Apple_iMac στο αποθετήριο της ομάδας μου: [Apple_iMac.md]()~
    
-   ~Η εικόνα του Apple_iMac στο site της ομάδας μου: [Apple_iMac](https://omada12.netlify.app/gallery/imac/)~
+   ~Η εικόνα του Apple_iMac στο site της ομάδας μου: [Apple_iMac]()~
    
-   ~Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Apple_iMac-photo](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Imac.jpg)~
+   ~Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Apple_iMac-photo]()~
    
-   ~Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Apple-iMac-resized](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Imac-thumb.jpg)~
+   ~Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Apple-iMac-resized]()~
    
  ### VirtualBoy:
   
-   ~Tο .md αρχείο του VirtualBoy στο αποθετήριο της ομάδας μου: [VirtualBoy](https://github.com/OMADA12/_gallery/blob/b1540bb29a88866b4c0f01f5d64327712caa7be1/Virtualboy.md)~
+   ~Tο .md αρχείο του VirtualBoy στο αποθετήριο της ομάδας μου: [VirtualBoy]()~
    
-   ~Η εικόνα του VirtualBoy στο site της ομάδας μου: [VirtualBoy](https://omada12.netlify.app/gallery/virtualboy/)~
+   ~Η εικόνα του VirtualBoy στο site της ομάδας μου: [VirtualBoy]()~
    
-   ~Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [VirtualBoy-photo](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Virtualboy.jpg)~
+   ~Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [VirtualBoy-photo]()~
    
-   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [VirtualBoy-resized](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Virtualboy-thumb.jpg)~
+   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [VirtualBoy-resized]()~
    
 # `UPDATE`
   Έπειτα από παρατηρήσεις του καθηγητή μου, πήρα την απόφαση να αλλάξω τις φωτογραφίες μου και να προσθέσω την γλώσσα προγραμματισμού `Logo` και τα ρομπότ-παιχνίδια
@@ -133,7 +133,7 @@
 
 ## Σύντομη παρουσίαση της γλώσσας προγραμματισμού `Logo`
 
-![scratchn](https://user-images.githubusercontent.com/115211756/201621960-e7332aa6-3627-488d-aa97-d61145a6b28a.jpg)
+![Logo](https://user-images.githubusercontent.com/115211756/204287911-87a05777-57d0-4909-b7fb-fa994ae32fb0.jpg)
 
 Η γλώσσα προγραμματισμού `Logo` είναι μια kids-frendly γλώσσα η οποία είναι έτσι κατασκευασμένη ώστε να απευθύνεται κυρίως σε παιδιά με σκοπό την εισαγωγή τους στον κόσμο του προγραμματισμού.
 
@@ -151,10 +151,10 @@
  
   ### Lego WeDo:
  
-   * Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου αποθετήριο: [Legowedo.md](https://github.com/Axileaszervos/_gallery/blob/3bf98973f5474118c485af43686aa3dde5f4d0ea/Legowedo.md)
-   * Η εικόνα της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου site: [legowedo](https://axileaszervos.netlify.app/gallery/legowedo/)
-   * Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [legowedo.jpg](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Legowedo.jpg)
-   * Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [legowedo-thumb.jpg](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Legowedo-thumb.jpg)
+   * Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου αποθετήριο: [Legowedo.md]()
+   * Η εικόνα της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου site: [Legowedo]()
+   * Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo.jpg]()
+   * Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo-thumb.jpg]()
 
 ## Τα Links και οι φωτογραφίες από το ομαδικό αποθετήριο:
 
@@ -162,19 +162,21 @@
  
  ### Lego-wedo:
  
-   * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/OMADA12/_gallery/blob/b1540bb29a88866b4c0f01f5d64327712caa7be1/Legowedo.md)
-   * Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo](https://omada12.netlify.app/gallery/legowedo/)
-   * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Lego-wedo-photo](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Legowedo.jpg)
-   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Legowedo.jpg](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Legowedo-thumb.jpg)
+   * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [Legowedo.md]()
+   * Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo]()
+   * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Lego-wedo-photo]()
+   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Legowedo.jpg]()
    
  ### Logo:
   
    * Tο .md αρχείο του Logo στο αποθετήριο της ομάδας μου: [scratch]()
    * Η εικόνα του Logo στο site της ομάδας μου: [Logo]()
    * Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [Logo.jpg]()
-   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg]( )
+   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg]()
    
-
+## PULL REQUESTS
+* [md files]()
+* [photos]()
 
 
 # 4ο ΠΑΡΑΔΟΤΕΟ-WARM UPS CLI
@@ -196,34 +198,36 @@
 
 ~Για τον Apple iMac έφτιαξα τα εξής slide και timeline:~
 
-~S)[Καινοτόμες συσκευές](https://axileaszervos.netlify.app/slides/innovativemachines/) - slide~
+~S)[Καινοτόμες συσκευές]) - slide~
 
-~T)[Γραφικό περιβάλλον](https://axileaszervos.netlify.app/timeline/graphicalinterfaces/) - timeline~
+~T)[Γραφικό περιβάλλον]() - timeline~
 
 ~Για το virtualboy έφτιαξα τα εξής slide και timeline:~
 
-~S)[Συσκευές εικονικής πραγματικότητας](https://axileaszervos.netlify.app/slides/virtualreality/) - slide~
+~S)[Συσκευές εικονικής πραγματικότητας]() - slide~
 
-~T)[Η εξέλιξη των 3d γραφικών](https://axileaszervos.netlify.app/timeline/3dgraphics/) - timeline~
+~T)[Η εξέλιξη των 3d γραφικών]() - timeline~
 
    # `UPDATE`
 Μετα την αλλαγή εικόνων στο 3ο παραδοτέο έχουν αλλάξει τα slides και οι διαφάνειες
 
 ---
 * Slide και Timeline για την γλωσσα προγραμματισμού `Logo`
-  * [Εκπαιδευτικές συσκευές και εφαρμογές για παιδία](https://axileaszervos.netlify.app/slides/machines_and_apps_for_childs/) - slide
-  * [Η εξέλιξη των γλωσσών προγραμματισμού](https://axileaszervos.netlify.app/timeline/programlanguagetimeline/) - timeline
+  * [Εκπαιδευτικές συσκευές και εφαρμογές για παιδία]() - slide
+  * [Η εξέλιξη των γλωσσών προγραμματισμού]() - timeline
  
 * Slide και Timeline για τα ρομπότ-παιχνίδια `Lego WeDo`
-  * [Τρόποι ψυχαγωγίας για παιδιά](https://axileaszervos.netlify.app/slides/entertainmentforchilds/) - slide
-  * [Η εξέλιξη των εκπαιδευτικών ρομπότ για παιδιά](https://axileaszervos.netlify.app/timeline/robotstimeline/) - timeline
+  * [Τρόποι ψυχαγωγίας για παιδιά]() - slide
+  * [Η εξέλιξη των εκπαιδευτικών ρομπότ για παιδιά]() - timeline
   
+ ## PULL REQUESTS
+ * [slides]()
+ * [timelines]()
   
  # 6ο ΠΑΡΑΔΟΤΕΟ-ΚΑΤΑΣΚΕΥΗ ΒΙΒΛΙΟΥ Α
 Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το κεφάλαιο 3 και συγκεκριμένα την υποενότητα 3.3 "Σύνθετα στύλ διάδρασης". Εκεί πρόσθεσα σαν σύνθετο στύλ διάδρασης την τεχνητή νοημοσύνη, θέμα το οποίο είναι ακόμη `υπό-βελτίωση`.
 
 * link του βιβλίου σε μορφή pdf: [book.pdf]()
-* link του αρχείου siri-lua: [siri.lua](https://github.com/Axileaszervos/kallipos/blob/master/Siri.lua)
 * link απο το δικό μου φίλτρο: [Ai.lua](https://github.com/Axileaszervos/kallipos/blob/master/Ai.lua)
 * link του περιεχομένου που πρόσθεσα: [Ai.md](https://github.com/Axileaszervos/kallipos/blob/master/my%20text/2022-11-18-134836_1920x1080_scrot.png)
 * link του make-latex.sh: [make-latex](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
@@ -235,23 +239,20 @@
  ![Maintheme](https://user-images.githubusercontent.com/115211756/201673129-e19eefb3-19cd-44d1-9bb8-33a284f21a46.png)
  
 # ΠΑΡΔΟΤΕΟ 7-ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2
-Σε αυτό το παραδοτέο χρειάστηκε να φτιάξουμε μια μελέτη περίπτωσης η οποία θα συσχετίζεται με τα παραδοτέα 3-5. Προσωπικά ανέλυσα το θέμα της εκπαιδευτικής τεχνολογίας μιας στην μετέπειτα πορεία της ζωής μου έχω σκοπό να ασχοληθώ με αυτόν τον τομέα μέσω δημιουργίας προγραμμάτων.
+Σε αυτό το παραδοτέο χρειάστηκε να φτιάξουμε μια μελέτη περίπτωσης η οποία θα πρέπει να συσχετίζεται με τα προηγούμενα παραδοτέα. Προσωπικά ασχολήθηκα με την εξέλιξη των Lego Mindstorms και την συνεισφορά τους στον εκπαιδευτικό τομέα.
 
-* #### link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my case-study](https://axileaszervos.netlify.app/case-study/edtech/)
+* #### link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my case-study]()
 
 ### Links για τα md αρχεία που δημιούργησα
-* [cs-EdTech.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-EdTech.md)
-* [EdTech.md](https://github.com/Axileaszervos/site/blob/master/_case-study/EdTech.md)
+* [cs-LegoMindstorms.md]()
+* [LegoMidndstorms.md]()
 
 ### ΒΙΒΛΙΟΓΡΑΦΙΑ
-* [Educational Technology](https://www.theedadvocate.org/guidelines-for-young-children-using-education-technology)
-* [Educational Technology](https://en.wikipedia.org/wiki/Educational_technology)
-* [Dynabook](https://history-computer.com/dynabook)
-* [Casio fx](https://en.wikipedia.org/wiki/Casio_fx-7000G)
-* [Smart Board](https://www.sutori.com/en/item/the-invention-of-the-smart-board-1991-the-smartboard-was-invented-by-david-ma)
-* [Scartch](https://el.wikipedia.org/wiki/Γλώσσα_προγραμματισμού_Scratch)
-* [Math Blaster](https://www.giantbomb.com/math-blaster-episode-1-in-search-of-spot/3030-72/)
-* [Microsoft Zoom](https://el.wikipedia.org/wiki/Zoom)
+
+
+## PULL REQUESTS
+* [case-study]()
+* [includes]()
 
 # ΠΑΡΑΔΟΤΕΟ 8
 Σε αυτό το παραδοτέο είχαμε να ασχοληθούμε με 4 διαφορετικές [ασκήσεις](https://github.com/epidrome/dokey#hci). Προσωπικά επέλεξα την 3η άσκηση, στην όποια έπρεπε να δημιουργήσω ένα shell script το οποίο θα μετατρέπει αρχεία και την 4η στην οποία έπρεπε να χρησιμοποιήσουμε την γραμμή εντολών σαν ένα IDE.
@@ -280,6 +281,10 @@
 ### Links για τα md αρχεία που δημιούργησα
 * [bio-Papert.md]()
 * [Papert.md]()
+
+## PULL REQUESTS
+* [biography]()
+* [includes]()
 
 
 
