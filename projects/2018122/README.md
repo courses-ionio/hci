@@ -15,7 +15,7 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 | 4 | Άσκηση γραμμής εντολών (arch linux install on HW) |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1605)** | |
 | 5 | Συμμετοχικό περιεχόμενο A2 |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1665)** | |
 | 6 | Κατασκευή του βιβλίου Α |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1666)** | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1798)** | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -106,6 +106,15 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 
 **[MyScreenshot](https://github.com/AndreasKarageorgiou/kallipos/blob/master/bookscreen.pdf.jpg)**
 
+## :rocket: ΠΑΡΑΔΟΤΕΟ 7 | Συμμετοχικό περιεχόμενο B1
+
+Για το **7ο παραδοτέο** έπρεπε να φτιάξουμε μια μελέτη περίπτωσης σχετική με το παραδοτέο 3 και 5 . Έτσι, διάλεξα να ασχοληθώ με την ιστορία του τηλεφώνου .
+
+[Case-Study](https://github.com/AndreasKarageorgiou/site/blob/organization/_case-study/phone.md)
+
+[Includes](https://github.com/AndreasKarageorgiou/site/blob/organization/_includes/phonehist.md)
+
+[Netlify](https://andreaskarageorgiou.netlify.app/case-study/phone/)
   
   
 
