@@ -400,6 +400,10 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 ## <ins> Converting a markdown (.md) file into IPYNB (.ipynb) </ins>
 
 [![asciicast](https://asciinema.org/a/540847.svg)](https://asciinema.org/a/540847)
+  
+## <ins> IPYNB (.ipynb) Results: </ins>
+  
+![Screenshot_2022-11-28_02-08-49](https://user-images.githubusercontent.com/33377581/204167352-a3aeaeea-d533-4257-8659-ff8684248ac2.jpg)
 
 ## <ins> Converting a markdown (.md) file into DOCX (.docx) </ins>
 
