@@ -392,10 +392,18 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 ## <ins> Converting a markdown (.md) file into ODT (.odt) </ins>
 
 [![asciicast](https://asciinema.org/a/540846.svg)](https://asciinema.org/a/540846)
+  
+## <ins> ODT (.odt) Results: </ins>
+  
+![Screenshot_2022-11-28_02-13-21](https://user-images.githubusercontent.com/33377581/204167590-bf2fedb4-b732-404a-8ff7-333b028d332e.jpg) 
 
 ## <ins> Converting a markdown (.md) file into TXT (.txt) </ins>
 
 [![asciicast](https://asciinema.org/a/540844.svg)](https://asciinema.org/a/540844)
+  
+## <ins> TXT (.txt) Results: </ins>
+  
+![Screenshot_2022-11-28_02-10-33](https://user-images.githubusercontent.com/33377581/204167462-a49f7d99-857b-4df3-bc5e-990a4cc66fc5.jpg)
 
 ## <ins> Converting a markdown (.md) file into IPYNB (.ipynb) </ins>
 
