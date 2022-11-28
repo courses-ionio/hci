@@ -433,6 +433,14 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 | [SpiritBeat Shell Script Repository](https://github.com/Greekforce1821/Spiritbeat) | GitHub | - |
 | [PDF Conversion Using Terminal](https://asciinema.org/a/540266) | Asciinema | .cast |
 | [HTML Conversion Using Terminal](https://asciinema.org/a/540268) | Asciinema | .cast |
+| [Converted ODT File](https://github.com/Greekforce1821/Spiritbeat/blob/main/odt/MYREADME.odt) | GitHub | .odt|
+| [Converted TXT File](https://github.com/Greekforce1821/Spiritbeat/blob/main/txt/MYREADME.txt) | GitHub | .txt |
+| [Converted IPYNB File](https://github.com/Greekforce1821/Spiritbeat/blob/main/ipynb/MYREPORT.ipynb) | GitHub| .ipynb |
+| [Converted DOCX File](https://github.com/Greekforce1821/Spiritbeat/blob/main/docx/MYREADME.docx) | GitHub | .docx |
+| [ODT Conversion Using Terminal](https://asciinema.org/a/540846) | Asciinema | .cast |
+| [TXT Conversion Using Terminal](https://asciinema.org/a/540844) | Asciinema | .cast |
+| [IPYNB Conversion Using Terminal](https://asciinema.org/a/540847) | Asciinema | .cast |
+| [DOCX Conversion Using Terminal](https://asciinema.org/a/540845) | Asciinema | .cast |
  
 
 
