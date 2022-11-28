@@ -385,6 +385,26 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
   
 Στο παραπάνω βήμα, απλά, πρόσθεσα κάτι τελευταίες σημειώσεις στο README.md αρχείο, σχετικά με τι prerequisites πρέπει να έχει ο χρήστης εγκατεστημένα στο σύστημά του προκειμένου να τρέξει το script που δημιούργησα.
   
+## Update: <ins> Added Support For (.odt), (.txt), (.ipynb) & (.docx) </ins>
+
+Στο παραπάνω πρόγραμμα, υπήρχαν περιθώρια βελτίωσης τα οποία τα αξιοποίησα προσθέτοντας υποστήριξη για μετατροπή αρχείων `markdown` (.md) σε αρχεία όπως: (.odt), (.txt), (.ipynb) και (.docx). Παρακάτω παραθέτω την μετατροπή του (.md) αρχείο μου (προσωπική αναφορά εργασίας για το HCI) στις παραπάνω μορφές αρχείων.
+
+## <ins> Converting a markdown (.md) file into ODT (.odt) </ins>
+
+[![asciicast](https://asciinema.org/a/540846.svg)](https://asciinema.org/a/540846)
+
+## <ins> Converting a markdown (.md) file into TXT (.txt) </ins>
+
+[![asciicast](https://asciinema.org/a/540844.svg)](https://asciinema.org/a/540844)
+
+## <ins> Converting a markdown (.md) file into IPYNB (.ipynb) </ins>
+
+[![asciicast](https://asciinema.org/a/540847.svg)](https://asciinema.org/a/540847)
+
+## <ins> Converting a markdown (.md) file into DOCX (.docx) </ins>
+
+[![asciicast](https://asciinema.org/a/540845.svg)](https://asciinema.org/a/540845)
+
 # Πίνακας των διάφορων link περί εργασίας:
 
 | Links | Platform | Extension |
