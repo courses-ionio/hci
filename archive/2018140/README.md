@@ -100,7 +100,7 @@ nintendo.jpg --- nintendo-thumb.jpg
 
 - <a href="https://github.com/TZOYRMANAS/site/blob/master/_includes/cs_nintendo.md">_includes</a>
 - <a href="https://github.com/TZOYRMANAS/site/blob/master/_case-study/nintendo.md">_case-study</a>
-- <a href="https://p18tzou.netlify.app/case-study/nintendo/">Mynetlify_casestudy</a>
+- <a href="https://p18tzou.netlify.app/case-study/nintendo/">Mynetlify_History of Nintendo </a>
 
 
 #### Πηγές
