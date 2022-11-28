@@ -89,7 +89,7 @@ nintendo.jpg --- nintendo-thumb.jpg
 ###  book.pdf : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/book/book.pdf">book.pdf</a>
 ###  αρχέιο .md : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glosses/glossesprogrammatismou.md">glossesprogrammatismou.md</a>
 - <a href="https://github.com/courses-ionio/help/discussions/1676">discussions</a>
-## ΠΑΡΑΔΟΤΕΟ 7 - Συμμετοχικό περιεχόμενο Β2
+## ΠΑΡΑΔΟΤΕΟ 7 - Συμμετοχικό περιεχόμενο Β1
  Σε αυτό το παραδοτέο μελέτησα μία μελέτη περίπτωσης .Επέλεξα να ασχοληθώ με την ιστορία του νιντέντο ,με το οποίο είχα ασχοληθεί και στα προηγούμενα παραδοτέα .
  
  Το νιντέντο αποτελεί μία απο τις πιο διαδεδομένες και παλιότερες κονσόλες βιντεοπαιχνιδιών που έχει αποτελέσει <<συντροφιά>> για πολλές γεννιές στην παιδική μας ηλικία .Με την πάροδο του χρόνου δημιουργεί ολόενα και πιο σύγχρονα μοντέλα και με μεγάλες δυνατότητες  ,όπως το game boy ,Nintendo DS , Nintendo switch και πολλά άλλα .
@@ -116,3 +116,4 @@ nintendo.jpg --- nintendo-thumb.jpg
 - <a href="https://asciinema.org/a/I5b0FG6cSJQc4dbUq9dqo1fsC">MyCalt.sh</a>
 
 
+## ΠΑΡΑΔΟΤΕΟ 9 - Συμμετοχικό περιεχόμενο Β2
