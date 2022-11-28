@@ -18,11 +18,11 @@
 | 4 | [Άσκηση γραμμής εντολών](#παραδοτεο-4---συμμετοχικό-περιεχόμενο-α1) | Εγκατάσταση arch linux σε πραγματικο κόσμο. <a href="https://asciinema.org/a/DC9uTGuO14D3AryaXY0wiOkyr">weather</a> ,<a href="https://asciinema.org/a/Pl2NBtaZYKYxUYJRcZ7WTiSW0">jrnl</a>|
 | 5 | [Συμμετοχικό περιεχόμενο Α2](#παραδοτεο-5---warm-up-άσκηση-γραμμής-εντολών-1) |<a href="https://p18tzou.netlify.app/timeline/socialmedia/">timeline</a> , <a href="https://p18tzou.netlify.app/slides/socialmedia/">slides_skype</a> , <a href="https://p18tzou.netlify.app/slides/videogames/">slides_nintendo</a>|
 | 6 | [Κατασκευή του βιβλίου Α](#παραδοτεο-6---συμμετοχικό-περιεχόμενο-α2) | <a href="https://github.com/TZOYRMANAS/kallipos/commit/48cdac884df0d2aafbaaff0c1b6a28ace2869c6c">screenshot</a> , <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glossesprogrammatismou.lua">glossesprogrammatismou.lua</a> , <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/book/book.pdf">book.pdf</a> ,<a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glosses/glossesprogrammatismou.md">glossesprogrammatismou.md</a>|
-| 7 | [Άσκηση γραμμής εντολών](#παραδοτεο-7---warm-up-άσκηση-γραμμής-εντολών-2) | |
-| 8 | [συμμετοχικό περιεχόμενο 1B](#παραδοτεο-8---συμμετοχικό-περιεχόμενο-b1) |  |
-| 9 | [Άσκηση γραμμής εντολών](#παραδοτεο-9---πρώτη-άσκηση-γραμμής-εντολών) |  |
-| 10 | [συμμετοχικό περιεχόμενο 2B](#παραδοτεο-10---συμμετοχικό-περιεχόμενο-b2) |  |
-| 11 | [Άσκηση γραμμής εντολών](#παραδοτεο-11---δεύτερη-άσκηση-γραμμής-εντολών) | |
+| 7 | [συμμετοχικό περιεχόμενο B1](#παραδοτεο-7---warm-up-άσκηση-γραμμής-εντολών-2) | |
+| 8 | [Άσκηση γραμμής εντολών](#παραδοτεο-8---συμμετοχικό-περιεχόμενο-b1) |  |
+| 9 | [συμμετοχικό περιεχόμενο B2](#παραδοτεο-9---πρώτη-άσκηση-γραμμής-εντολών) |  |
+| 10 | [Άσκηση γραμμής εντολών](#παραδοτεο-10---συμμετοχικό-περιεχόμενο-b2) |  |
+| 11 | [Κατασκευή του βιβλίου Β](#παραδοτεο-11---δεύτερη-άσκηση-γραμμής-εντολών) | |
 | 12 | [Τελική αναφορά (συμπέρασμα) και αίτημα ενσωμάτωσης για βαθμολόγηση](#παραδοτεο-12---συμπέρασμα) | |
 | 13 | [Ομαδικότητα και Συνεργασία](#ομαδικότητα-και-συνεργασία) | |
 
