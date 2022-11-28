@@ -404,6 +404,10 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 ## <ins> Converting a markdown (.md) file into DOCX (.docx) </ins>
 
 [![asciicast](https://asciinema.org/a/540845.svg)](https://asciinema.org/a/540845)
+  
+## <ins> DOCX (.docx) Results: </ins>
+  
+![Screenshot_2022-11-28_02-07-03](https://user-images.githubusercontent.com/33377581/204167251-b8f5d614-987b-4142-8ea4-84eba0cac384.jpg)
 
 # Πίνακας των διάφορων link περί εργασίας:
 
