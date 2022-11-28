@@ -122,32 +122,32 @@
    ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [VirtualBoy-resized](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Virtualboy-thumb.jpg)~
    
 # `UPDATE`
-  Έπειτα από παρατηρήσεις του καθηγητή μου, πήρα την απόφαση να αλλάξω τις φωτογραφίες μου και να προσθέσω την γλώσσα προγραμματισμού `Scratch` και τα ρομπότ-παιχνίδια
-  `Lego WeDo` επειδή και τα δύο ανήκουν στον τομέα της ρομποτικής μάθησης για μικρά παιδιά και είναι κάτι το όποιο έχω σκοπό να ασχοληθώ στο μέλλον.
+  Έπειτα από παρατηρήσεις του καθηγητή μου, πήρα την απόφαση να αλλάξω τις φωτογραφίες μου και να προσθέσω την γλώσσα προγραμματισμού `Logo` και τα ρομπότ-παιχνίδια
+  `Lego WeDo` επειδή και τα δύο ανήκουν στον τομέα της εκπαιδετικής τεχνολογίας και είναι κάτι το όποιο έχω σκοπό να ασχοληθώ στο μέλλον.
   
 ## Σύντομη παρουσίαση του Lego-wedo 2.0
  
-![legowedon](https://user-images.githubusercontent.com/115211756/201619883-fd9d1132-8dc9-4dc4-8802-b9f688e6c9aa.jpg)
+![legowedo](https://user-images.githubusercontent.com/115211756/201619883-fd9d1132-8dc9-4dc4-8802-b9f688e6c9aa.jpg)
 
 Το lego-wedo είναι μια σειρά από διάφορες κατασκευές στην οποία ο χρήστης πέραν απο την δυνατότητα της συναρμολόγησης της κατασκευής, μπορεί μέσα από ειδικό app της εταιρίας lego ή της δημοφιλής γλώσσας προγραμματισμού `scratch` να εκτελέσει διάφορα `commands` στην κατασκευή του.
 
-## Σύντομη παρουσίαση της γλώσσας προγραμματισμού `scratch`
+## Σύντομη παρουσίαση της γλώσσας προγραμματισμού `Logo`
 
 ![scratchn](https://user-images.githubusercontent.com/115211756/201621960-e7332aa6-3627-488d-aa97-d61145a6b28a.jpg)
 
-Η γλώσσα προγραμματισμού `scratch` είναι μια kids-frendly γλώσσα η οποία είναι έτσι κατασκευασμένη ώστε να απευθύνεται κυρίως σε παιδιά με σκοπό την εισαγωγή τους στον κόσμο του προγραμματισμού.
+Η γλώσσα προγραμματισμού `Logo` είναι μια kids-frendly γλώσσα η οποία είναι έτσι κατασκευασμένη ώστε να απευθύνεται κυρίως σε παιδιά με σκοπό την εισαγωγή τους στον κόσμο του προγραμματισμού.
 
 
 ## Τα Links και οι φωτογραφίες από το προσωπικό μου αποθετήριο:
 
  * #### Το προσωπικό μου [site](https://axileaszervos.netlify.app)
  
-### Scratch:
+### Logo:
     
-  * Tο .md αρχείο της γλώσσας προγραμματισμού scratch στο προσωπικό μου αποθετήριο: [scratch.md](https://github.com/Axileaszervos/_gallery/blob/3bf98973f5474118c485af43686aa3dde5f4d0ea/Scratch.md)
-  * Η εικόνα της γλώσσας προγραμματισμού scratch στο προσωπικό μου site: [scratch](https://axileaszervos.netlify.app/gallery/scratch/)
-  * Η κανονική εικόνα της γλώσσας προγραμματισμού scratch στο αποθετήριο μου: [scratch.jpg](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Scratch.jpg)
-  * Η resized σε 160x160 pixels της γλώσσας προγραμματισμού scratch εικόνα στο αποθετήριο μου: [scratch-thumb.jpg](https://github.com/Axileaszervos/images/blob/f6b5305f3d4bb66095e62b18ef8962fdc2d01abb/Scratch-thumb.jpg)
+  * Tο .md αρχείο της γλώσσας προγραμματισμού scratch στο προσωπικό μου αποθετήριο: [Logo.md]()
+  * Η εικόνα της γλώσσας προγραμματισμού scratch στο προσωπικό μου site: [Logo]()
+  * Η κανονική εικόνα της γλώσσας προγραμματισμού scratch στο αποθετήριο μου: [Logo.jpg]()
+  * Η resized σε 160x160 pixels της γλώσσας προγραμματισμού scratch εικόνα στο αποθετήριο μου: [Logo-thumb.jpg]()
  
   ### Lego WeDo:
  
@@ -162,17 +162,17 @@
  
  ### Lego-wedo:
  
-   * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [legowedo.md](https://github.com/OMADA12/_gallery/blob/b1540bb29a88866b4c0f01f5d64327712caa7be1/Legowedo.md)
+   * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/OMADA12/_gallery/blob/b1540bb29a88866b4c0f01f5d64327712caa7be1/Legowedo.md)
    * Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo](https://omada12.netlify.app/gallery/legowedo/)
    * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Lego-wedo-photo](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Legowedo.jpg)
-   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Lego-wedo-resized](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Legowedo-thumb.jpg)
+   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Legowedo.jpg](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Legowedo-thumb.jpg)
    
- ### scratch:
+ ### Logo:
   
-   * Tο .md αρχείο του scratch στο αποθετήριο της ομάδας μου: [scratch](https://github.com/OMADA12/_gallery/blob/b1540bb29a88866b4c0f01f5d64327712caa7be1/Scratch.md)
-   * Η εικόνα του scratch στο site της ομάδας μου: [scratch](https://omada12.netlify.app/gallery/scratch/)
-   * Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [scratch-photo](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Scratch.jpg)
-   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [scratch-resized](https://github.com/OMADA12/images/blob/49edacc1d227b856a79edb32a23724b6628cc771/Scratch-thumb.jpg)
+   * Tο .md αρχείο του Logo στο αποθετήριο της ομάδας μου: [scratch]()
+   * Η εικόνα του Logo στο site της ομάδας μου: [Logo]()
+   * Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [Logo.jpg]()
+   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg]( )
    
 
 
@@ -210,7 +210,7 @@
 Μετα την αλλαγή εικόνων στο 3ο παραδοτέο έχουν αλλάξει τα slides και οι διαφάνειες
 
 ---
-* Slide και Timeline για την γλωσσα προγραμματισμού `scratch`
+* Slide και Timeline για την γλωσσα προγραμματισμού `Logo`
   * [Εκπαιδευτικές συσκευές και εφαρμογές για παιδία](https://axileaszervos.netlify.app/slides/machines_and_apps_for_childs/) - slide
   * [Η εξέλιξη των γλωσσών προγραμματισμού](https://axileaszervos.netlify.app/timeline/programlanguagetimeline/) - timeline
  
@@ -235,11 +235,11 @@
  ![Maintheme](https://user-images.githubusercontent.com/115211756/201673129-e19eefb3-19cd-44d1-9bb8-33a284f21a46.png)
  
 # ΠΑΡΔΟΤΕΟ 7-ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2
-Σε αυτό το παραδοτέο χρειάστηκε να φτιάξουμε μια μελέτη περίπτωσης η οποία θα συσχετίζεται με τα παραδοτέα 3-5. Προσωπικά ανέλυσα το θέμα της εκπαιδευτικής τεχνολογίας μιάς στην μετέπειτα πορεία της ζωής μου έχω σκοπό να ασχοληθώ με αυτόν τον τομέα μέσω δημιουργίας προγραμμάτων.
+Σε αυτό το παραδοτέο χρειάστηκε να φτιάξουμε μια μελέτη περίπτωσης η οποία θα συσχετίζεται με τα παραδοτέα 3-5. Προσωπικά ανέλυσα το θέμα της εκπαιδευτικής τεχνολογίας μιας στην μετέπειτα πορεία της ζωής μου έχω σκοπό να ασχοληθώ με αυτόν τον τομέα μέσω δημιουργίας προγραμμάτων.
 
 * #### link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my case-study](https://axileaszervos.netlify.app/case-study/edtech/)
 
-### Links για τα  md αρχεία που δημιούργησα
+### Links για τα md αρχεία που δημιούργησα
 * [cs-EdTech.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-EdTech.md)
 * [EdTech.md](https://github.com/Axileaszervos/site/blob/master/_case-study/EdTech.md)
 
@@ -254,8 +254,33 @@
 * [Microsoft Zoom](https://el.wikipedia.org/wiki/Zoom)
 
 # ΠΑΡΑΔΟΤΕΟ 8
+Σε αυτό το παραδοτέο είχαμε να ασχοληθούμε με 4 διαφορετικές [ασκήσεις](https://github.com/epidrome/dokey#hci). Προσωπικά επέλεξα την 3η άσκηση, στην όποια έπρεπε να δημιουργήσω ένα shell script το οποίο θα μετατρέπει αρχεία και την 4η στην οποία έπρεπε να χρησιμοποιήσουμε την γραμμή εντολών σαν ένα IDE.
+ 
+## COMPILER
+### Έφτιαξα ένα shell script το οποίο επιτρέπει στον χρήστη να κάνει compile ήδη υπάρχων python αρχεία και του επιτρέπει να δημιουργήσει ένα νεό αρχείο python, στο οποίο μπορεί να γράφει μέσα κώδικα και να το κάνει compile.
+* [PythonCom.sh](https://github.com/Axileaszervos/EXERCISE-8/blob/main/PythonCom.sh)
+* [Axileas.py](https://github.com/Axileaszervos/EXERCISE-8/blob/main/Axileas.py)
+* [asciinema demo](https://asciinema.org/a/540704)
+
+## FILE CONVERTOR
+### Δημιούργησα ένα shell script στο οποίο ο χρήστης μπορεί να μετατρέψει epub και md αρχεία σε html και txt αντίστοιχα.
+* [Convertor.sh](https://github.com/Axileaszervos/EXERCISE-8/blob/main/Convertor.sh)
+* [MyRepo.html](https://github.com/Axileaszervos/EXERCISE-8/blob/main/MyRepo.html)
+* [MyRepo.md](https://github.com/Axileaszervos/EXERCISE-8/blob/main/MyRepo.md)
+* [scratch.epub](https://github.com/Axileaszervos/EXERCISE-8/blob/main/scratch.epub)
+* [scratch.html](https://github.com/Axileaszervos/EXERCISE-8/blob/main/scratch.html)
+* [asciinema demo](https://asciinema.org/a/540278)
+
 
 # ΠΑΡΑΔΟΤΕΟ 9
+Σε αυτό το παραδοτέο έπρεπε να φτιάξουμε μια νέα βιογραφία η οποία θα πρέπει να έχει άμεση σύνδεση με τα προηγούμενα παραδοτέα. Επέλεξα να γράφω για τον Seymour Papert επειδή, με εντυπωσίασε η συνεισφορά του στην εκπαίδευση και φράσεις όπως "Ο ρόλος του καθηγητή υπάρχει με σκοπό να δημιουργεί συνθήκες για την ανακάλυψη γνώσεων και όχι για να αναπαράγει έτοιμη πληροφορία" αποτελούν πηγή έμπνευσης για εμένα.
+
+* #### link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my biography](https://axileaszervos.netlify.app/case-study/edtech/)
+
+### Links για τα md αρχεία που δημιούργησα
+* [bio-Papert.md]()
+* [Papert.md]()
+
 
 
 
