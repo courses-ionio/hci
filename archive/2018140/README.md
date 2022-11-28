@@ -89,4 +89,5 @@ nintendo.jpg --- nintendo-thumb.jpg
 ###  book.pdf : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/book/book.pdf">book.pdf</a>
 ###  αρχέιο .md : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glosses/glossesprogrammatismou.md">glossesprogrammatismou.md</a>
 - <a href="https://github.com/courses-ionio/help/discussions/1676">discussions</a>
-## ΠΑΡΑΔΟΤΕΟ 7 - Άσκηση γραμμής εντολών
+## ΠΑΡΑΔΟΤΕΟ 7 - Συμμετοχικό περιεχόμενο Β2
+
