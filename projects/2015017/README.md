@@ -69,7 +69,7 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
 - [`md file`](https://github.com/p15kara/kallipos/blob/master/folder/to_mouse.md)
 - [`link screenshot`](https://github.com/p15kara/kallipos/blob/master/myPictures/2022-11-16-185413_384x216_scrot-thumb.png)
 ### To screenshot με το περιεχόμενο που πρόσθεσα: 
-![2022-11-16-185413_384x216_scrot-thumb](https://user-images.githubusercontent.com/22730488/202246850-4b19979b-b6d9-428c-b01f-a7e9f1cfc734.png)
+![2022-11-16-185413_1920x1080_scrot](https://user-images.githubusercontent.com/22730488/204532749-e54989a9-67e0-401c-a588-6d7ce34bef0a.png)
 
 <h2>ΠΑΡΑΔΟΤΕΟ 7</h2>
 Για το 7ο παραδοτέο, επέλεξα μία μελέτη περίπτωσης σχετικά με την επιστήμη της πληροφορικής και την ανέπτυξα βάζοντας το κυρίως περιεχόμενο στα includes του site. Παρακάτω παραθέτω τους συνδέσμους για την μελέτη περίπτωσης, για το markdown αρχείο και για τα includes στα οποία εμπεριέχεται το κείμενο.
