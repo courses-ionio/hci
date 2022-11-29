@@ -34,6 +34,18 @@
  * [asciinema](https://asciinema.org/a/4Z04Mzts6wUXhoxJhooI5d7JX)
  
 ### Παραδοτέο 4
+* Εγκατέστησα τα Arch Linux όχι σε dual boot αλλά σε ένα USB όπως έχω αναφέρει και πιο πάνω στο παραδοτέο 2. Για την κατασκευή του Live usb χρησιμοποίησα 2 USB ένα το οποίο περιίχε το Arch Linux iso όπου με το Rufus όπου μας προτείνει και το [wiki](https://wiki.archlinux.org/title/USB_flash_installation_medium#Using_Rufus) το έκανα να είναι bootable και ένα δεύτερο usb άδειο στο οποίο έγινε η εγκατάσταση των Arch. Στην αρχή έκανα boot το installer-usb και με το [iwd](https://wiki.archlinux.org/title/iwd) έκανα σύνδεση στο δίκτυο για να μπορώ πιο μετά να κατεβάσω τα πακέτα μου καθώς το laptop μου δεν διαθέτει θύρα ethernet. Ύστερα προχώρησα με το διαχωρισμό του δίσκου(του άδειου usb) όπου το χόρισα σε 2 διαφορετικά partitions το ένα για το efi για το `boot` και το άλλο που θα είναι το root partition και τα έκανα format με τις εντολές `mkfs.fat -F32 /dev/sdXn` και `mkfs.ext4 -O "^has_journal" /dev/sdXn1` αντίστοιχα. Όπως αναφέροντε και στα [page1](https://wiki.archlinux.org/title/USB_flash_installation_medium#In_GNU/Linux_4) και [page2](https://wiki.archlinux.org/title/Install_Arch_Linux_on_a_removable_medium#Minimizing_disk_access) του wiki, στα commands όπου Xn και Xn1 είναι τα συγκεκριμένα prartiostions όπως τα διαβάζει ο υπολογιστή αυτά μπορείς να τα δείς με το command `lsblk`. Και μετά το format τους τα έκανα mount στα /mnt/boot/efi και /mnt. Και κατέβασα στο /mnt την νεότερη έκδοση του kernal για τα linux, το firmware για τα linux , το vim για να έχω έναν text editor. Ύστερα στο chroot έκανα set το timezone, τα locale που θέλω μέσα από το /etc/locale.gen όπου απλά έβγαλα από σχόλιο αυτό που με ενδιαφέρει και το έκανα generate με `locale-gen` σέταρα και τη γλώσσα μεσα στο /etc/locale.conf όπου ήταν η επιλογή που έκανα πριν, έθεσα το keymap όπου θέλω στο /etc/vconsole.conf, τα hostname και hosts, κατέβασα με το pacman κάποια πακέτα όπως το efibootmgr, το grub, το networkmanager, το git, το reflector, xdg-utils και xdg-users-dirs. Και όπως λέει και στο [wiki](https://wiki.archlinux.org/title/Install_Arch_Linux_on_a_removable_medium#Installation_tweaks) μέσα στο /etc/mkinitcpio.conf μετακίνησα τα hooks block και keyboard μπροστά από το hook autodetect. Και το έκανα generate με την [εντολή](https://wiki.archlinux.org/title/Mkinitcpio#Image_creation_and_activation) `mkinitcpio -p linux`. Με την εντολή `----` έκανα install το grub boot-loader. Ενεργοποίησα το Network Manager με `systemctl enable NetworkManager`. Έφτιαξα τον user μου και στη συνέχεια του έδωσα τα δικαιώματα για το sudo. Bγήκα από το chroot και έκανα reboot για να κάνω boot το Live  USB. Κάνοντας πλέον boot τα Arch ακολούθησα τις [οδηγίες](https://wiki.archlinux.org/title/Install_Arch_Linux_on_a_removable_medium#Minimizing_disk_access). Στην συνέχεια με το pacman κατέβασα video drivers. Και κάποια ακόμα πακέτα όπως το konsole για το τερματικό μου, το firefox για broswer, το KDE για DE. Για την αρχική μου εξοικείωση και είχα σκοπό να εγκαταστήσω μεταγενέστερα ένα WM αλλά δεν τα κατάφερα λόγω έλλειψης χρόνου.
+* Επίσης κατασκεύασα και 2 scripts για 2 από τα εργαλεία που προτείνονται για warm-up. Συγκεκριμένα για το youtube-dl  για το κατέβασμα μουσικής και το wttr για την πρόγνωση του καιρού. 
+
+|Χρήσιμα Links|Asciinema|
+|:--:|:---:|
+|[ISO](https://archlinux.org/download/)|[Neofetch](https://asciinema.org/a/OSsmgEqcpg0v3x6VSEarRdpzr)|
+|[Installation page 1](https://wiki.archlinux.org/title/Installation_guide)|[journalctl -b](https://asciinema.org/a/jFjUeiKxYpEeuyllmpvzREZwd)|
+|[Installation page 2](https://wiki.archlinux.org/title/USB_flash_installation_medium)|[wttr](https://asciinema.org/a/0PylBjXEH4m5ohB5XP9kKTUz9)|
+|[Installation page 3](https://wiki.archlinux.org/title/Install_Arch_Linux_on_a_removable_medium)|[youtube-dl](https://asciinema.org/a/BqQz79DVNWZkRhTbqIhZEwShG)|
+|[iwd](https://wiki.archlinux.org/title/iwd)|
+|[mkinitcpio](https://wiki.archlinux.org/title/Mkinitcpio)|
+|[grub](https://wiki.archlinux.org/title/GRUB)|
 
 ### Παραδοτέο 5 / Α2
 * Για το 5ο παραδοτέο στο repo του site πρόσθεσα στο _slides στα proggraming.mb και videogames.md τα Spyder-IDE και Nes Zapper αντίστοιχα. Και στο _timeline στα programming.md και input-devices.md τα Spyder-IDE και Nes Zapper αντίστοιχα. Και όλα αυτά πρώτα τα έκανα σε ένα demo branch για να κάνω ένα test deploy στο netlify για να σιγουρευτώ ότι δουλεύει πριν κάνω το PR στον οργανισμό. Παρακάτω έχω και τα αντίστοιχα links.
@@ -66,6 +78,9 @@
  * [PR site]()
  * [PR images]()
 
+### Παραδοτέο 10
+
+### Παραδοτέο 11
 
 | Συνεισφορά |
 |---|
