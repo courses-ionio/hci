@@ -80,11 +80,11 @@
     
    ~Tο .md αρχείο του Apple_iMac στο προσωπικό μου αποθετήριο: [Apple_iMac.md]()~ 
    
-   ~Η εικόνα του Apple_iMac στο προσωπικό μου site: [Apple_iMac]()~
+   ~Η εικόνα του Apple_iMac στο προσωπικό μου site: [Apple_iMac](https://omada12.netlify.app/gallery/imac/)~
    
-   ~Η κανονική εικόνα στο αποθετήριο μου: [Apple_iMac-photo]()~
+   ~Η κανονική εικόνα στο αποθετήριο μου: [Imac.jpg]()~
    
-   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [Apple-iMac-resized]()~
+   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [Imac-thumb.jpg]()~
    
   ### VirtualBoy:
     
