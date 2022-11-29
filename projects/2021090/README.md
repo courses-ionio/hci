@@ -22,7 +22,7 @@
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [Click](https://github.com/courses-ionio/help/discussions/1349)| |
 | 5 | Συμμετοχικό περιεχόμενο A2 | [Click](https://github.com/courses-ionio/help/discussions/1467)| |
 | 6 | Κατασκευή του βιβλίου Α |[Click](https://github.com/courses-ionio/help/discussions/1577)  | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 |[Click](https://github.com/courses-ionio/help/discussions/1698) | |
 | 8 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1785) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -109,6 +109,20 @@ pull request
 [contribution](https://github.com/inf2021090/kallipos/blob/master/contribution/comment.md)
 [inf2021090_filter](https://github.com/inf2021090/kallipos/blob/master/inf2021090_filter.lua)
 [book](https://github.com/inf2021090/kallipos/blob/master/book.pdf)
+
+## Εβδομάδα Έβδομη - Συμμετοχικό περιεόμενο Β1
+
+<br />
+
+## Εβδομάδα Όγδοη - Άσκηση γραμμής εντολών (HCI)
+
+<br />
+
+## Εβδομάδα Ένατη - Συμμετοχικό περιεόμενο Β2
+
+<br />
+
+
 ## Δικτυογραφία-Πηγές
 
 <br />
