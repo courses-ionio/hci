@@ -73,13 +73,20 @@
 <a href="https://asciinema.org/a/DdW8q6zhDGQbRpey7ZPDEqG0t" target="_blank"><img src="https://asciinema.org/a/DdW8q6zhDGQbRpey7ZPDEqG0t.svg" /></a>
 
 # Παραδοτέο 5
-Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Α2 προχώρησα στην υλοποίηση των slides και του timeline, όπου η γενικότερη θεματολογία είναι η εξέλιξη της γλώσσας προγραμματισμού. Aναφέρομαι σε παλαιότερες προγραμματιστικές γλώσσες καθώς και στην δημουργία των πρώτων υπολογιστών. Ως διαδικασία ήταν πιο εύκολη από το Α1 εφόσον πλέον έχω κατανοήσει τον τρόπο λειτουργίας του gituhb και αλληλεπίδρασης του με το Netlify, κάτι που έκανε την διαδικασία αρκετά πιο ομαλή και εύκολη.
+
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Α2 προχώρησα στην υλοποίηση των slides και του timeline, δεν δημιούργησα δικά μου slides/timeline διότι η θεματολογία που έχω επιλέξει συμπίπτει πολύ καλά με τις ήδη υπάρχουσες θεματολογίες, το μόνο που πρόσθεσα είναι η [Εικονική Πραγματικότητα](https://github.com/Millennials-2/site/blob/organization/_slides/virtual-reality.md) στα slides διότι υπήρχε μόνο στο timeline και θεώρησα καλό θα ήταν να υπήρχε και εκεί. Όσον αφορά την διαδικασία, ήταν πιο εύκολη από το Α1 εφόσον πλέον έχω κατανοήσει τον τρόπο λειτουργίας του gituhb και αλληλεπίδρασης του με το Netlify, κάτι που έκανε την διαδικασία αρκετά πιο ομαλή, εύκολη και χωρίς δυσκολίες.
 
 
-| Deliverables |  Netlify Link | Αποθετήριο |
-| --- | --- | --- |
-| Διαφάνειες | [Netlify](https://p2018118-pibook.netlify.app/slides/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_slides/programming-evolution.md) |
-| Χρονολόγιο | [Netlify](https://p2018118-pibook.netlify.app/timeline/programming-evolution/) | [Repository](https://github.com/Drexion/site/blob/master/_timeline/programming-evolution.md) |
+## Προσθήκη σε timeline/slides στην Εικονική Πραγματικότητα
+|  Διαφάνειες | Χρονολόγιο
+| --- | --- | 
+| [Index Valve](pending) - [The Thrill of the fight](pending)| [Index Valve](pending) - [The Thrill of the fight](pending)|
+
+## Προσθήκη του The Thrill of the fight σε timeline/slides στο videogames
+
+|  Διαφάνειες | Χρονολόγιο
+| --- | --- | 
+| [The Thrill of the fight](pending)| [The Thrill of the fight](pending)|
 
 # Παραδοτέο 6
 
