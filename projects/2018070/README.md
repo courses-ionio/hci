@@ -80,22 +80,22 @@
 ---
 
 # Παραδοτέο 5: Συμμετοχικό περιεχόμενο Α2
-Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε ένα σετ από διαφάνειες και ένα χρονολόγιο συνδυάζοντας τις εικόνες που είχαμε προσθέσει στο συμμετοχικό περιεχόμενο Α1 με εικόνες που ήδη υπάρχουν στο βιβλίο. [Ως ομάδα](https://github.com/The4Beasts) δράσαμε ως εξής:
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε ένα σετ από `διαφάνειες` και ένα `χρονολόγιο` συνδυάζοντας τις εικόνες που είχαμε προσθέσει στο συμμετοχικό περιεχόμενο Α1 με εικόνες που ήδη υπάρχουν στο βιβλίο. [`Ως ομάδα`](https://github.com/The4Beasts) δράσαμε ως εξής:
 <p>Καθώς το παραδοτέο είναι ατομικό από τη μία, αλλά συνεργατικό από την άλλη, σκεφτήκαμε να συνδυάσουμε τις πληροφορίες που είχε προσθέσει ο καθένας μας στο συμμετοχικό περιεχόμενο Α1, ώστε να εμφανιστεί ένα ολικό αποτέλεσμα στην ιστοσελίδα του μαθήματος (γι' αυτό έχουμε όλα τα μέλη της ομάδας το ίδιο link στο netlify καθώς ως main repository βάλαμε την ομάδα μας για να μπορούν να φανούν οι όποιες αλλαγές). Η ιδέα προήλθε για τον λόγο ότι οι προσθήκες που έκανε ο καθένας μας ταιριάζουν μεταξύ τους και αλληλοσυμπληρώνονται.</p> 
 <p>Επομένως, τι καλύτερο από μια συγχώνευση όλων?</p>  
 <p>Τα βήματα που ακολουθήσαμε για να βγάζει νόημα η παραπάνω διαδικασία:</p>
 
-- [Fork το site του βιβλίου στην ομάδα μας](https://github.com/The4Beasts/site).
-- [Στα slides το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές](https://github.com/The4Beasts/site/tree/master/_slides)
-- [Το δικό μου slide](https://github.com/The4Beasts/site/blob/master/_slides/Videogames%20and%20Services.md)
-- [Στο timeline το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές](https://github.com/The4Beasts/site/tree/master/_timeline)
-- [Το δικό μου timeline](https://github.com/The4Beasts/site/blob/master/_timeline/Videogames%20and%20Services.md)
-- [Το site στο netlify](https://636b600809868914e40447d6--moonlit-rugelach-17f284.netlify.app)
+- [`Fork το site του βιβλίου στην ομάδα μας`](https://github.com/The4Beasts/site).
+- [`Στα slides το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές`](https://github.com/The4Beasts/site/tree/master/_slides)
+- [`Το δικό μου slide`](https://github.com/The4Beasts/site/blob/master/_slides/Videogames%20and%20Services.md)
+- [`Στο timeline το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές`](https://github.com/The4Beasts/site/tree/master/_timeline)
+- [`Το δικό μου timeline`](https://github.com/The4Beasts/site/blob/master/_timeline/Videogames%20and%20Services.md)
+- [`Το site στο netlify`](https://636b600809868914e40447d6--moonlit-rugelach-17f284.netlify.app)
 
 ---
 
 # Παραδοτέο 6: Κατασκευή του βιβλίου Α 
-<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα ετικέτα markdown δικής μας έμπνευσης και το αντίστοιχο φίλτρο pandoc lua για την προσθήκη εκτενών σημειώσεων στο σώμα του βιβλίου. Ως ετικέτα αναφέρθηκα στους videogame developers, καθώς συσχετίζεται με τις περιγραφές μου στα συμμετοχικά περιεχόμενα. Επίσης, ως δεύτερο ζητούμενο του παραδοτέου είναι να δημιουργήσουμε σε PDF το βιβλίο του μαθήματος.</p> 
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα ετικέτα markdown δικής μας έμπνευσης και το αντίστοιχο φίλτρο pandoc lua για την προσθήκη εκτενών σημειώσεων στο σώμα του βιβλίου. Ως ετικέτα αναφέρθηκα στους videogame developers, καθώς συσχετίζεται με τις περιγραφές μου στα συμμετοχικά περιεχόμενα. Επίσης, ως δεύτερο ζητούμενο του παραδοτέου είναι να δημιουργήσουμε σε PDF το βιβλίο του μαθήματος.`
 
 - [PDF βιβλίο μαθήματος]()
 - [Νέα Markdown Tag](https://github.com/Konstantina3/kallipos/blob/master/comment/Videogame%20Developers.md)
@@ -104,32 +104,32 @@
 ---
 
 # Παραδοτέο 7: Συμμετοχικό Περιεχόμενο Β1
-<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα μελέτη περίπτωσης στο site του βιβλίου. Το case study που επέλεξα σχετίζεται άμεσα με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline), αλλά και με το περιεχόμενο της εισαγωγής μου, καθώς αφορά ένα καινοτόμο εργαλείο που προσφέρει άμεση διάδραση με τον χρήστη και τις ικανότητές του. Τα αποτελέσματα φαίνονται παρακάτω:</p>
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα μελέτη περίπτωσης στο site του βιβλίου. Το case study που επέλεξα σχετίζεται άμεσα με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline), αλλά και με το περιεχόμενο της εισαγωγής μου, καθώς αφορά ένα καινοτόμο εργαλείο που προσφέρει άμεση διάδραση με τον χρήστη και τις ικανότητές του. Τα αποτελέσματα φαίνονται παρακάτω:
 
-- [case study](https://github.com/Konstantina3/site/blob/master/_case-study/Notion.md)
+- [`case study`](https://github.com/Konstantina3/site/blob/master/_case-study/Notion.md)
 
-<p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
+Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
 
-- [Pull Request προς τον οργανισμό της ομάδας - case study](https://github.com/The4Beasts/site/pull/10)
-- [Pull Request προς τον οργανισμό της ομάδας - image](https://github.com/The4Beasts/images/pull/5)
-- [Οργανισμός ομάδας](https://github.com/The4Beasts)
+- [`Pull Request προς τον οργανισμό της ομάδας - case study`](https://github.com/The4Beasts/site/pull/10)
+- [`Pull Request προς τον οργανισμό της ομάδας - image`](https://github.com/The4Beasts/images/pull/5)
+- [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
-<p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
+Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
 
-- [Notion Software](https://en.wikipedia.org/wiki/Notion_(productivity_software))
-- [Notion Labs](https://system.privco.com/company/notion-labs)
-- [Notion app](https://www.theverge.com/2018/6/7/17434754/notion-android-app-notes-productivity-review)
+- [`Notion Software`](https://en.wikipedia.org/wiki/Notion_(productivity_software))
+- [`Notion Labs`](https://system.privco.com/company/notion-labs)
+- [`Notion app`](https://www.theverge.com/2018/6/7/17434754/notion-android-app-notes-productivity-review)
 
-<p>Παρακάτω παρουσιάζεται το link από το netlify</p>
+Παρακάτω παρουσιάζεται το link από το netlify
 
-- [My Site](https://deploy-preview-10--moonlit-rugelach-17f284.netlify.app/case-study/)
+- [`My Site`](https://deploy-preview-10--moonlit-rugelach-17f284.netlify.app/case-study/)
 
 ---
 
 # Παραδοτέο 8: Άσκηση γραμμής εντολών
-<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να εκτελέσουμε μία από τις ασκήσεις HCI. Η άσκηση που επέλεξα να κάνω είναι "format your report", με το εργαλείο groff. Επειδή στο 6ο παραδοτέο, δυσκολεύτηκα να μετατρέψω το βιβλίο σε pdf και να φανούν οι προσθήκες που είχα κάνει, αποφάσισα να δείξω τις προσθήκες μου μέσω του groff. Παρακάτω, φαίνεται το αποτέλεσμα σε βίντεο-gif.</p>
+Στο συγκεκριμένο παραδοτέο καλούμαστε να εκτελέσουμε μία από τις ασκήσεις HCI. Η άσκηση που επέλεξα να κάνω είναι "`format your report`", με το εργαλείο `groff`. Επειδή στο 6ο παραδοτέο, δυσκολεύτηκα να μετατρέψω το βιβλίο σε pdf και να φανούν οι προσθήκες που είχα κάνει, αποφάσισα να δείξω τις προσθήκες μου μέσω του groff. Παρακάτω, φαίνεται το αποτέλεσμα σε βίντεο-gif.
 
-![site k](https://user-images.githubusercontent.com/56735185/203089391-b3c28213-5322-4557-80d7-dce83d145259.gif)
+![`site k`](https://user-images.githubusercontent.com/56735185/203089391-b3c28213-5322-4557-80d7-dce83d145259.gif)
 
 ---
 
