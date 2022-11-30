@@ -11,7 +11,7 @@
 | 6 | Κατασκευή του βιβλίου Α |Συζήτηση:<br/>[παραδοτέο 6ο](https://github.com/courses-ionio/help/discussions/1581) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 |Συζήτηση:<br/>[παραδοτέο 7ο](https://github.com/courses-ionio/help/discussions/1692) | |
 | 8 | Άσκηση γραμμής εντολών |Συζήτηση:<br/>[παραδοτέο 8ο](https://github.com/courses-ionio/help/discussions/1733) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 9 | Συμμετοχικό περιεχόμενο B2 |Συζήτηση:<br/>[παραδοτέο 8ο](https://github.com/courses-ionio/help/discussions/1806) | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -105,11 +105,15 @@ Googler Install:
 ### case study
 
 Για το case study μου αποφάσισα να γράψω για τη διεπαφή χρήστη DeskMate την οποία έχω αναφέρει ξανά στο 3ο παραδοτέο.
-Δύστυχος αντιμετωπίζω κάποια προβλήματα με το netlify τα οποία όμως θα λύσω σύντομα.
+<del>Δύστυχος αντιμετωπίζω κάποια προβλήματα με το netlify τα οποία όμως θα λύσω σύντομα.</del>
 <br/>
+[Netlify link](https://cerulean-baklava-0cb19a.netlify.app/case-study/tandydeskmate/)
+
 Github:<br/>
 [_case-study](https://github.com/odysseasEko/site/blob/master/_case-study/tandydeskmate.md)<br/>
 [_includes](https://github.com/odysseasEko/site/blob/master/_includes/cs-deskmate.md)<br/>
+
+
 
 #Παραδοτέο 8ο
 ### Shell Script & conversions
@@ -121,3 +125,13 @@ Github:<br/>
 <br/>
 
 [![asciicast](https://asciinema.org/a/XaaBgm14Jaume5C4dYfD47iwy.svg)](https://asciinema.org/a/XaaBgm14Jaume5C4dYfD47iwy)
+
+
+# Παραδοτεο 9ο
+### Biography
+
+Για το 9ο παραδοτέο έκανα μια έρευνα για τη ζωή και τα επιτεύγματα του Linus Torvalds. 
+
+[Βιογραφία Linus Torvalds](https://cerulean-baklava-0cb19a.netlify.app/biography/linus-torvalds/)</br>
+[bio-linus.md](https://github.com/odysseasEko/site/blob/master/_includes/bio-linus.md)</br>
+[linus-torvalds.md](https://github.com/odysseasEko/site/blob/master/_biography/linus-torvalds.md)</br>
