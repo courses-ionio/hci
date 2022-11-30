@@ -80,3 +80,13 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
 - [`Link_for_book`](https://p15kara.netlify.app/case-study/informatics/)
 ### Το link για τα includes:
 - [`Link_for_includes`](https://github.com/p15kara/site/blob/master/_includes/Informatics2.md)
+
+<h2>ΠΑΡΑΔΟΤΕΟ 9</h2>
+Για το ένατο παραδοτέο επέλεξα να κάνω την βιογραφία του ανθρώπου που δημιούργησε ένα από τα αντικείμενα που ανέβασα στις εικόνες των προηγουμενων παραδοτέων.Συγκεκριμένα έκανα την βιογραφία του WIlliam Lear, ιδρυτή της εταιρίας Lear Siegler που κατασκεύασε το ADM-3A.
+
+###To link gia to .md arxeio:
+[`Link_for_.md`](https://github.com/p15kara/site/blob/master/_biography/bio-lear.md)
+###To link gia thn biografia sto site:
+[`Link_for_site`](https://p15kara.netlify.app//biography/bio-lear/)
+###To link gia ta includes
+[`Link_for_includes`](https://github.com/p15kara/site/blob/master/_includes/bio-lear.md)
