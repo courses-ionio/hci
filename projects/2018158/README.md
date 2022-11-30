@@ -12,11 +12,11 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Εισαγωγή](https://github.com/courses-ionio/help/discussions/987) <br> [Ομάδα](https://github.com/MainCharacters) </br> | |
 | 2 | [Άσκηση γραμμής εντολών (linux install)](#παραδοτέο-2) | [Boot logs & Specs](https://github.com/courses-ionio/help/discussions/1108) | |
-| 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3) | | |
+| 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3) | [Contribution A1](https://github.com/courses-ionio/help/discussions/1809) | |
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](#παραδοτέο-4) | [ArchLinux installation on HW & Warm-up exercises](https://github.com/courses-ionio/help/discussions/1348) | |
-| 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | [Contribution A2](https://github.com/courses-ionio/help/discussions/1811) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | [Case Study](https://github.com/courses-ionio/help/discussions/1718) | |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Contribution B1 - Case Study](https://github.com/courses-ionio/help/discussions/1718) | |
 | 8 | Άσκηση γραμμής εντολών | [Use Terminal as IDE](https://github.com/courses-ionio/help/discussions/1791) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -128,4 +128,8 @@ asciinema link: https://asciinema.org/a/CsOV5GljPlvssQ12peKQz2Oxx
 
 Η πρώτη εικόνα με λεζάντα που εισαγώ σχετίζεται με την *siri*. Η siri πρόκειται για ένα εικονικό βοηθό της Apple που ευκολύνει την καθημερινότητα εκατομμυρίων χρηστών στον πλανήτη, λύνοντας τους από απλές ερωτήσεις μέχρι και εκτελώντας διάφορες λειτουργίες. Για αυτό διάλεξα ως θεματική διαφάνεια τις [έξυπνες διαπεφές χρήστη - iui](https://github.com/AnTonyPapako/site/blob/master/_slides/iui.md) και ως χρονολόγιο τις [έξυπνες διεπαφές - agents](https://github.com/AnTonyPapako/site/blob/master/_timeline/agents.md).
 
+[Siri - 2011](https://site-bay-gamma.vercel.app/timeline/agents)
+
 Η δεύτερη αναφαίρεται στην συσκευή VersaBraille. Πρόκειται για ένα display system που εμφανίζει ένα κείμενο σε μορφή braille, ευανάγνωστη για ανθρώπους με ειδικές ανάγκες όρασης, εφόσον έχει γίνει πρώτα έχει γίνει είσοδος του κειμένου και έπειτα η μετατροπή. Έτσι επέλεξα ως θεματική διαφάνεια τους [τρόπους διάδρασης - styles](https://github.com/AnTonyPapako/site/blob/master/_slides/styles.md) και ως χρονολόγιο τις [συσκευές εισόδου - input-devices](https://github.com/AnTonyPapako/site/blob/master/_timeline/input-devices.md).
+
+[VersaBraille - 1982](https://site-bay-gamma.vercel.app/timeline/input-devices)
