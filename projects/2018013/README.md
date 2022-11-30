@@ -77,3 +77,18 @@ https://github.com/giormaster/site/blob/master/_timeline/consoles.md
 https://github.com/giormaster/site/blob/master/_slides/videogames.md
 <br />
 Το arcade machine και το playstation portable ειναι δυο συμαντικές κονσόλες οι οποιες συνήσφεραν στη εξέληξη του υπολογιστή.Το arcade machine ειναι η πρότη προσπάθεια του ανθρώπου να χρισιμοποιήσει τον υπολογιστή για ψυχαγωγικούς σκοπούς,το playstation portable ακολουθ΄άει την πορεία του arcade machine βελτιόνοντας τον γραφηκό τομέα και προσθέτοντας την φορητηκότητα που προσφέρουν αρκετές υπολογιστικές συσκεβές του σήμερα.
+<br />
+# Παραδοτέο_6
+Στο παραδοτεο 6 εγινε η πρώτη κατασκευη του βιβλίου,επέλεξα το κεφάλεο 8 και έκανα εκτεταμένη επεξήγηση του space invader και της σημασίας του στον χώρο των βιντεοπαιχνιδιών
+<br />
+Λινκ για book pdf: https://github.com/giormaster/kallipos/blob/master/book.pdf
+<br />
+Λινκ για το lua: https://github.com/giormaster/kallipos/blob/master/space-invade.lua
+<br />
+Λινκ για το make-latex.sh: https://github.com/giormaster/kallipos/blob/master/make-latex.sh
+<br />
+Λινκ για το screenshot: https://github.com/giormaster/kallipos/blob/master/my-screenshot/bookimage.png
+<br />
+Λινκ για το md file: https://github.com/giormaster/kallipos/blob/master/Mycontribution/space-invaders.md
+<br />
+
