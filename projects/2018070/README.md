@@ -1,9 +1,12 @@
-## ΠΡΟΣΩΠΙΚΑ ΣΤΟΙΧΕΙΑ:
+## :raising_hand_woman: ΠΡΟΣΩΠΙΚΑ ΣΤΟΙΧΕΙΑ:
 
-### ΚΩΝΣΤΑΝΤΙΝΑ ΗΛΙΟΠΟΥΛΟΥ 
-### ΑΜ: Π2018070
-### [Github Profile](https://github.com/Konstantina3)
+| Όνομα | Επώνυμο | Github profile | Organization profile | Username | AM | Email |
+| --- | --- | --- | --- |--- |--- | --- |
+| Κωνσταντίνα | Ηλιοπούλου | [Konstantina3](https://github.com/Konstantina3) | [The4Beasts](https://github.com/The4Beasts) |p18ilio | Π2018070 | p18ilio@ionio.gr |
 
+---
+
+## ΕΠΙΚΟΙΝΩΝΙΑ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ:
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
@@ -26,53 +29,53 @@
 ---
 
 # Παραδοτέο 2: Άσκηση Γραμμής Εντολών (arch linux install on VM)
-<p>Στο συγκεκριμένο παραδοτέο, καλούμαστε να εγκαταστήσουμε μια έκδοση Linux και συγκεκριμένα το Arch Linux και να εμφανίσουμε το αντίστοιχο system info. Αυτό το πετύχαμε με την εντολή "neofetch", όπως φαίνεται παρακάτω:</p>
+Στο συγκεκριμένο παραδοτέο, καλούμαστε να εγκαταστήσουμε μια έκδοση Linux και συγκεκριμένα το Arch Linux και να εμφανίσουμε το αντίστοιχο system info. Αυτό το πετύχαμε με την εντολή `neofetch`, όπως φαίνεται παρακάτω:
 
-- [Asciinema Link](https://asciinema.org/a/Dez5q9xB4nahyKOyfyvFRPMrI)
+- [`Asciinema Link`](https://asciinema.org/a/Dez5q9xB4nahyKOyfyvFRPMrI)
 
 ---
 
 # Παραδοτέο 3: Συμμετοχικό περιεχόμενο Α1
-<p>Στο συγκεκριμένο παραδοτέο, καλούμαστε να προσθέσουμε δύο νέες εικόνες με το περιεχόμενό τους στην ιστοσελίδα του βιβλίου του μαθήματος. Παρακάτω παρουσιάζονται οι περιγραφές μου για το "Pop2See Smart Class" και για τα "Flash Games":</p>
+Στο συγκεκριμένο παραδοτέο, καλούμαστε να προσθέσουμε δύο νέες `εικόνες` με το `περιεχόμενό` τους στην ιστοσελίδα του βιβλίου του μαθήματος. Παρακάτω παρουσιάζονται οι περιγραφές μου για το `Pop2See Smart Class` και για τα `Flash Games`:
 
-- [Pop2See Smart Class.md](https://github.com/Konstantina3/_gallery/blob/master/Pop2See%20Smart%20Class.md)
-- [Flash Games.md](https://github.com/Konstantina3/_gallery/blob/master/Flash%20Games.md)
+- [`Pop2See Smart Class.md`](https://github.com/Konstantina3/_gallery/blob/master/Pop2See%20Smart%20Class.md)
+- [`Flash Games.md`](https://github.com/Konstantina3/_gallery/blob/master/Flash%20Games.md)
 
 <p>Και οι αντίστοιχες εικόνες:</p>
 
-- [Pop2See.png](https://github.com/Konstantina3/images/blob/master/A_Pop2See.png)
-- [Pop2See-thumb](https://github.com/Konstantina3/images/blob/master/A_Pop2See%20-%20thumb.png)
-- [flash-games.png](https://github.com/Konstantina3/images/blob/master/A_flash-games.png)
-- [flash-games-thumb](https://github.com/Konstantina3/images/blob/master/A_flash-games-thumb.png)
+- [`Pop2See.png`](https://github.com/Konstantina3/images/blob/master/A_Pop2See.png)
+- [`Pop2See-thumb`](https://github.com/Konstantina3/images/blob/master/A_Pop2See%20-%20thumb.png)
+- [`flash-games.png`](https://github.com/Konstantina3/images/blob/master/A_flash-games.png)
+- [`flash-games-thumb`](https://github.com/Konstantina3/images/blob/master/A_flash-games-thumb.png)
 
 <p>Παρακάτω φαίνεται το link από το neltify:</p>
 
-- [My site](https://strong-scone-6a0cf5.netlify.app)
+- [`My site`](https://strong-scone-6a0cf5.netlify.app)
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
-- [Pull Request προς τον οργανισμό της ομάδας - gallery](https://github.com/The4Beasts/_gallery/pull/1)
-- [Pull Request προς τον οργανισμό της ομάδας - images](https://github.com/The4Beasts/images/pull/2)
-- [Οργανισμός ομάδας](https://github.com/The4Beasts)
+- [`Pull Request προς τον οργανισμό της ομάδας - gallery`](https://github.com/The4Beasts/_gallery/pull/1)
+- [`Pull Request προς τον οργανισμό της ομάδας - images`](https://github.com/The4Beasts/images/pull/2)
+- [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
 ---
 
 # Παραδοτέο 4: Άσκηση γραμμής εντολών (arch linux install on HW)
-<p>Στο συγκεκριμένο παραδοτέο, καλούμαστε να εκτελέσουμε όποιες και όσες ασκήσεις θέλουμε από το warmup. Αυτές που επέλεξα είναι οι εξής:</p>
-<p>Η πρώτη άσκηση:</p>
+Στο συγκεκριμένο παραδοτέο, καλούμαστε να εκτελέσουμε όποιες και όσες ασκήσεις θέλουμε από το `warmup`. Αυτές που επέλεξα είναι οι εξής:
+`Η πρώτη άσκηση:`
 
-- try different operating systems in the emulator:
+- `try different operating systems in the emulator:`
 
 <p>Σε αυτή την άσκηση εγκατέστησα το qemu το οποίο είναι ένας emulator στον οποίο έχω ενσωματώσει τρία διαφορετικά λειτουργικά συστήματα (archlinux/freeBSD/Kali linux) όπως φαίνεται παρακάτω:</p>
 
-![QEMU](https://user-images.githubusercontent.com/99913413/198693305-d58f76fc-892f-4d0b-9550-92264b54a547.png)
+![`QEMU`](https://user-images.githubusercontent.com/99913413/198693305-d58f76fc-892f-4d0b-9550-92264b54a547.png)
 
-<p>Η δεύτερη άσκηση</p>
+`Η δεύτερη άσκηση`
 
-- [set-up continuous integration on my cv](https://github.com/Konstantina3/online-cv/blob/master/index.pdf)
+- [`set-up continuous integration on my cv`](https://github.com/Konstantina3/online-cv/blob/master/index.pdf)
  
-Εφάρμοσα [continuous integration](https://github.com/Konstantina3/online-cv/tree/master/.github/workflows), ώστε να δημιουργείται νέο pdf κάθε φορά που γίνονται αλλαγές στο [online-cv](https://konstantina3.github.io/online-cv/). Η ιδέα προήλθε από μια αντίστοιχη άσκηση στο μάθημα SW, όπου είχα δημιουργήσει το δικό μου βιογραφικό σε pdf όπως φαίνεται στη διαδικασία παρακάτω:
+Εφάρμοσα [`continuous integration`](https://github.com/Konstantina3/online-cv/tree/master/.github/workflows), ώστε να δημιουργείται νέο pdf κάθε φορά που γίνονται αλλαγές στο [`online-cv`](https://konstantina3.github.io/online-cv/). Η ιδέα προήλθε από μια αντίστοιχη άσκηση στο μάθημα SW, όπου είχα δημιουργήσει το δικό μου βιογραφικό σε pdf όπως φαίνεται στη διαδικασία παρακάτω:
 
-- [Asciinema Link](https://asciinema.org/a/UIrAImZBqwosvi2PErbG3gX5E)
+- [`Asciinema Link`](https://asciinema.org/a/UIrAImZBqwosvi2PErbG3gX5E)
 
 ---
 
