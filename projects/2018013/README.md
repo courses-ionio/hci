@@ -66,3 +66,14 @@ link για την δευτερη
 Αρχικά μετέβηκα στην ιστοσελίδα του archlinux:https://archlinux.org/ και απο εκεί κατέβασα το iso αρχείο για την εγκατάσταση,στην συνέχεια δημιούργησα ενα bootable usb και έκανα επανεκκίνηση τον υπολογιστή,έκλεισα το secure boot απο τα bios για να μην αντιμετοπίσω προβλήματα αργότερα και εκανα boot απο το usb stick.
 Απο τις αρχικές επιλογές διάλεξα Arch Linux install medium και μπήκα στο terminal.Για την εγκατάσταση έγγραψα την εντολή python -m archinstall και απο το μενού που εμφανίστηκε ρύθμισα τα partition της εγκατάστασης,ώρα και ημερομηνία,keyboard layout και network.Τελος έφτιαξα το hostname και έναν κωδικό για το root και η εγκατάσταση ξεκίνησε.Οταν το install τελείοσε έκκανα επανεκκίνηση τον υπολογιστή και το terminal λειτουργούσε κανονικα.
 <br />
+
+# Παραδοτέο_5
+Για το παραδωτεο 5 εγινε προσθηκη του playstation-portable και του arcade-machine στο timeline στην κατηγορια consoles.
+<br />
+https://github.com/giormaster/site/blob/master/_timeline/consoles.md
+<br />
+Στα slides προσθεσα στην κατηγορια videogames το playstation portable και το arcade machine.
+<br />
+https://github.com/giormaster/site/blob/master/_slides/videogames.md
+<br />
+Το arcade machine και το playstation portable ειναι δυο συμαντικές κονσόλες οι οποιες συνήσφεραν στη εξέληξη του υπολογιστή.Το arcade machine ειναι η πρότη προσπάθεια του ανθρώπου να χρισιμοποιήσει τον υπολογιστή για ψυχαγωγικούς σκοπούς,το playstation portable ακολουθ΄άει την πορεία του arcade machine βελτιόνοντας τον γραφηκό τομέα και προσθέτοντας την φορητηκότητα που προσφέρουν αρκετές υπολογιστικές συσκεβές του σήμερα.
