@@ -83,7 +83,7 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
 
 <h2>ΠΑΡΑΔΟΤΕΟ 9</h2>
 Για το ένατο παραδοτέο επέλεξα να κάνω την βιογραφία του ανθρώπου που δημιούργησε ένα από τα αντικείμενα που ανέβασα στις εικόνες των προηγουμενων παραδοτέων.Συγκεκριμένα έκανα την βιογραφία του WIlliam Lear, ιδρυτή της εταιρίας Lear Siegler που κατασκεύασε το ADM-3A.
-![Bill_Lear](https://user-images.githubusercontent.com/22730488/204866509-b4c61920-ab3a-4ec4-a4d5-88ba69390a3c.jpg)
+(https://user-images.githubusercontent.com/22730488/204866509-b4c61920-ab3a-4ec4-a4d5-88ba69390a3c.jpg)
 
 ### To link για το .md αρχείο:
 [`Link_for_.md`](https://github.com/p15kara/site/blob/master/_biography/bio-lear.md)
