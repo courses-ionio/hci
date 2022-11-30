@@ -184,7 +184,7 @@ _Το παραδοτεό αυτό βασίζεται στις προσθήκες
 
 Το αντίστοιχο pull request για τις αλλαγές στη διαφάνεια και στο χρονολόγιο:
 
-- [Pull Request](https://github.com/MainCharacters/site/pull/2)
+- [Pull Request](https://github.com/MainCharacters/site/pull/1)
 
 
 [Go to the top](#go-to-the-top-mark-point)
