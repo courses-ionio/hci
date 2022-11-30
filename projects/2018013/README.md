@@ -49,3 +49,20 @@ link για την δευτερη
 Ειναι σημαντικό να σημειωθεί οτι για την εντολή neofetch χρειάστηκε να
 γινει εγκατάσταση
 <br />
+
+# Παραδοτέο_3
+Εγινε η προσθήκη του arcade-machine.md και του playstation-portable.md στο gallery
+Ακόμα προστέθηκαν τα playstation-portable.jpg και playstation-portable-thumb.jpg μαζι με arcade-machine.png και arcade-machine-thumb.png στο images 1)https://github.com/giormaster/_gallery/blob/master/arcade-machine.md ,2)https://github.com/giormaster/_gallery/blob/master/playstation-portable.md
+<br />
+3)https://github.com/giormaster/images/blob/master/arcade-machine.jpg / https://github.com/giormaster/images/blob/master/arcade-machine-thumb.jpg
+<br />
+4)https://github.com/giormaster/images/blob/master/playstation-portable.png / https://github.com/giormaster/images/blob/master/playstation-portable-thumb.png
+<br />
+Το arcade machine είναι μια απο τις πρώτες και συμαντικότερες προσπάθειες του ανθρώπου να εξελήξει τον υπολογιστή ως μεσω ψυχαγωγίας,καθώς και να τον μεταφέρει στο ευρήτερο κοινό που δεν μπορούσε να κατέχει δικό του υπολογιστικό σύστημα.Αρκετά χρόνια μετα το playstation-portable ειναι μια παιχνιδοκονσόλα που κατέχει μεγάλη υπολογιστική δύναμη για την εποχή της,αλλα αυτό που την κάνει να ξεχωρίζει ειναι η φωρητηκότητα της,καθως χωράει κυριολεκτικά στα χέρια του χρήστη,το playstation-portable αν και δεν είναι η πρώτη φωρητή κονσόλα,παραμένει αρκετά συμαντική στην τελειοποιηση τους και στην εξέληξη των υπολογιστικών συστημάτων ως μεσα ψυχαγογίας
+<br />
+
+# Παραδοτέο_4
+Για το παραδωτεο 4 εγινε η εγκατάσταση του archlinux μέσω usb stick.
+Αρχικά μετέβηκα στην ιστοσελίδα του archlinux:https://archlinux.org/ και απο εκεί κατέβασα το iso αρχείο για την εγκατάσταση,στην συνέχεια δημιούργησα ενα bootable usb και έκανα επανεκκίνηση τον υπολογιστή,έκλεισα το secure boot απο τα bios για να μην αντιμετοπίσω προβλήματα αργότερα και εκανα boot απο το usb stick.
+Απο τις αρχικές επιλογές διάλεξα Arch Linux install medium και μπήκα στο terminal.Για την εγκατάσταση έγγραψα την εντολή python -m archinstall και απο το μενού που εμφανίστηκε ρύθμισα τα partition της εγκατάστασης,ώρα και ημερομηνία,keyboard layout και network.Τελος έφτιαξα το hostname και έναν κωδικό για το root και η εγκατάσταση ξεκίνησε.Οταν το install τελείοσε έκκανα επανεκκίνηση τον υπολογιστή και το terminal λειτουργούσε κανονικα.
+<br />
