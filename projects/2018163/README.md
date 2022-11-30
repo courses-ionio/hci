@@ -30,6 +30,9 @@
 
 - [Asciinema Link](https://asciinema.org/a/J8eXJCYzB6AtsJfI0xi0sJRZN)
 
+<p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
+
+- [Arch linux installation](https://www.youtube.com/watch?v=xKZ958SXp0U)
 ---
 
 # Παραδοτέο 3: Συμμετοχικό περιεχόμενο Α1
