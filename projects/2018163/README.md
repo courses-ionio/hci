@@ -1,4 +1,4 @@
-## ΠΡΟΣΩΠΙΚΑ ΣΤΟΙΧΕΙΑ:
+## :raising_hand_man: ΠΡΟΣΩΠΙΚΑ ΣΤΟΙΧΕΙΑ:
 | Όνομα | Επώνυμο | Github profile | Organization profile | Username | AM | Email |
 | --- | --- | --- | --- |--- |--- | --- |
 | Σωτήρης | Βασδέκης | [Vasdekis](https://github.com/Vasdekis) | [The4Beasts](https://github.com/The4Beasts) |p18vasd | Π2018163 | p18vasd@ionio.gr |
@@ -21,7 +21,7 @@
 | 11 | Κατασκευή του βιβλίου Β | [Παραδοτέο 11]() | Στο 11ο παραδοτέο είχαμε να κατασκευάσουμε το βιβλίο του μαθήματος με το εργαλείο pandoc. Έκανα μια πρώτη προσπάθεια, ώστε να καταφέρω να παρουσιάσω την τελική μου πρόοδο. |
 | 12 | Τελική αναφορά* | [Παραδοτέο 12]() | Στην τελική αναφορά μου, αποτύπωσα τα συμπεράσματα μου μέσα από τις εργασίες που κλήθηκα να εκτελέσω. |
 
-# Παραδοτέο 1: Εισαγωγή
+# :writing_hand: Παραδοτέο 1: Εισαγωγή
 Το μάθημα "Επικοινωνία Ανθρώπου-Υπολογιστή" πιστεύω θα μου χρησιμεύσει για την υλοποίηση του προσωπικού μου έργου. Καθώς θεωρώ οτι το μάθημα, μας μαθαίνει πως ενεργούμε μέσα στο γραφικό περιβάλλον του υπολογιστή, θα κατανοήσω τις ενέργειες που μπορούμε να κάνουμε για να πετύχουμε το επιθυμητό αποτέλεσμα. Συγκεκριμένα, θέλω να δημιουργήσω ένα video game ώστε να πετύχω αυτήν την αμοιβαία αλληλεπίδραση με τον χρήστη.  
 
 ---
@@ -39,68 +39,68 @@
 # Παραδοτέο 3: Συμμετοχικό περιεχόμενο Α1
 Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε 2 νέες `εικόνες` με το `περιεχόμενό` τους στην ιστοσελίδα του μαθήματος . Παρακάτω παρουσιάζονται οι περιγραφές μου:
  
- - [My Gallery](https://github.com/Vasdekis/_gallery)
+ - [`My Gallery`](https://github.com/Vasdekis/_gallery)
   
-    - [Microcontroller](https://github.com/Vasdekis/_gallery/blob/master/Microcontroller.md)
+    - [`Microcontroller`](https://github.com/Vasdekis/_gallery/blob/master/Microcontroller.md)
   
-    - [Portable data terminal](https://github.com/Vasdekis/_gallery/blob/master/Portable%20data%20terminal.md)
+    - [`Portable data terminal`](https://github.com/Vasdekis/_gallery/blob/master/Portable%20data%20terminal.md)
   
   <p>Και οι αντίστοιχες εικόνες:</p>
   
-- [Images](https://github.com/Vasdekis/images)
+- [`Images`](https://github.com/Vasdekis/images)
 
-  - [MCU-thumb.jpg](https://github.com/Vasdekis/images/blob/master/MCU-thumb.jpg)
+  - [`MCU-thumb.jpg`](https://github.com/Vasdekis/images/blob/master/MCU-thumb.jpg)
   
-  - [MCU.jpg](https://github.com/Vasdekis/images/blob/master/MCU.jpg)
+  - [`MCU.jpg`](https://github.com/Vasdekis/images/blob/master/MCU.jpg)
   
-  - [PDT-thumb.png](https://github.com/Vasdekis/images/blob/master/PDT-thumb.png)
+  - [`PDT-thumb.png`](https://github.com/Vasdekis/images/blob/master/PDT-thumb.png)
   
-  - [PDT.png](https://github.com/Vasdekis/images/blob/master/PDT.png)
+  - [`PDT.png`](https://github.com/Vasdekis/images/blob/master/PDT.png)
 
 <p>Παρακάτω φαίνεται το Link απο το Netlify.
  
-  - [My Site](https://whimsical-figolla-b0e931.netlify.app)
+  - [`My Site`](https://whimsical-figolla-b0e931.netlify.app)
  
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
 
-- [Pull Request στον οργανισμό της ομάδας - gallery](https://github.com/The4Beasts/_gallery/pull/2)
-- [Pull Request προς τον οργανισμό της ομάδας - images](https://github.com/The4Beasts/images/pull/3)
-- [Οργανισμός ομάδας](https://github.com/The4Beasts)
+- [`Pull Request στον οργανισμό της ομάδας - gallery`](https://github.com/The4Beasts/_gallery/pull/2)
+- [`Pull Request προς τον οργανισμό της ομάδας - images`](https://github.com/The4Beasts/images/pull/3)
+- [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
 ---
 
 # Παραδοτέο 4: Άσκηση γραμμής εντολών (arch linux install on HW)
-<p>Στο συγκεκριμένο παραδοτέο, καλούμαστε να εκτελέσουμε όποιες και όσες ασκήσεις θέλουμε από το warmup. Αυτές που επέλεξα είναι οι εξής:</p>
-<p>Η πρώτη άσκηση:</p>
+Στο συγκεκριμένο παραδοτέο, καλούμαστε να εκτελέσουμε όποιες και όσες ασκήσεις θέλουμε από το `warmup`. Αυτές που επέλεξα είναι οι εξής:</p>
+`Η πρώτη άσκηση:`
   
-- try different operating systems in the emulator: 
+- `try different operating systems in the emulator:` 
 <p>Σε αυτή την άσκηση εγκατέστησα το qemu το οποίο είναι ένας emulator στον οποίο έχω ενσωματώσει τρία διαφορετικά λειτουργικά συστήματα (archlinux/freeBSD/Kali linux) όπως φαίνεται παρακάτω:</p>
 
 ![QEMU](https://user-images.githubusercontent.com/99913413/198693305-d58f76fc-892f-4d0b-9550-92264b54a547.png)
 
-<p>Η δεύτερη άσκηση:</p>
+`Η δεύτερη άσκηση:`
 
-- [set-up continuous integration on my cv](https://github.com/Vasdekis/online-cv/blob/master/index.pdf)
+- [`set-up continuous integration on my cv`](https://github.com/Vasdekis/online-cv/blob/master/index.pdf)
 
-Εφάρμοσα [continuous integration](https://github.com/Vasdekis/online-cv/tree/master/.github/workflows), ώστε να δημιουργείται νέο pdf κάθε φορά που γίνονται αλλαγές στο [online-cv](https://Vasdekis.github.io/online-cv/). Η ιδέα προήλθε από μια αντίστοιχη άσκηση στο μάθημα SW, όπου είχα δημιουργήσει το δικό μου βιογραφικό σε pdf όπως φαίνεται στη διαδικασία παρακάτω: 
+Εφάρμοσα [`continuous integration`](https://github.com/Vasdekis/online-cv/tree/master/.github/workflows), ώστε να δημιουργείται νέο pdf κάθε φορά που γίνονται αλλαγές στο [`online-cv`](https://Vasdekis.github.io/online-cv/). Η ιδέα προήλθε από μια αντίστοιχη άσκηση στο μάθημα SW, όπου είχα δημιουργήσει το δικό μου βιογραφικό σε pdf όπως φαίνεται στη διαδικασία παρακάτω: 
 
-- [Asciinema Link](https://asciinema.org/a/UIrAImZBqwosvi2PErbG3gX5E)
+- [`Asciinema Link`](https://asciinema.org/a/UIrAImZBqwosvi2PErbG3gX5E)
 
 ---
 
 # Παραδοτέο 5: Συμμετοχικό περιεχόμενο Α2
-Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε ένα σετ από διαφάνειες και ένα χρονολόγιο συνδυάζοντας τις εικόνες που είχαμε προσθέσει στο συμμετοχικό περιεχόμενο Α1 με εικόνες που ήδη υπάρχουν στο βιβλίο. [Ως ομάδα](https://github.com/The4Beasts) δράσαμε ως εξής:
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε ένα σετ από `διαφάνειες` και ένα `χρονολόγιο` συνδυάζοντας τις εικόνες που είχαμε προσθέσει στο συμμετοχικό περιεχόμενο Α1 με εικόνες που ήδη υπάρχουν στο βιβλίο. [`Ως ομάδα`](https://github.com/The4Beasts) δράσαμε ως εξής:
 <p>Καθώς το παραδοτέο είναι ατομικό από τη μία, αλλά συνεργατικό από την άλλη, σκεφτήκαμε να συνδυάσουμε τις πληροφορίες που είχε προσθέσει ο καθένας μας στο συμμετοχικό περιεχόμενο Α1, ώστε να εμφανιστεί ένα ολικό αποτέλεσμα στην ιστοσελίδα του μαθήματος (γι' αυτό έχουμε όλα τα μέλη της ομάδας το ίδιο link στο netlify καθώς ως main repository βάλαμε την ομάδα μας για να μπορούν να φανούν οι όποιες αλλαγές). Η ιδέα προήλθε για τον λόγο ότι οι προσθήκες που έκανε ο καθένας μας ταιριάζουν μεταξύ τους και αλληλοσυμπληρώνονται.</p> 
 <p>Επομένως, τι καλύτερο από μια συγχώνευση όλων?</p>  
 <p>Τα βήματα που ακολουθήσαμε για να βγάζει νόημα η παραπάνω διαδικασία:</p>
 
-- [Fork το site του βιβλίου στην ομάδα μας](https://github.com/The4Beasts/site).
-- [Στα slides το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές](https://github.com/The4Beasts/site/tree/master/_slides)
-- [Το δικό μου slide](https://github.com/The4Beasts/site/blob/master/_slides/Control%20of%20Digital%20Systems.md)
-- [Στο timeline το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές](https://github.com/The4Beasts/site/tree/master/_timeline)
-- [Το δικό μου timeline](https://github.com/The4Beasts/site/blob/master/_timeline/Control%20of%20Digital%20Systems.md)
-- [Το site στο netlify](https://636b600809868914e40447d6--moonlit-rugelach-17f284.netlify.app)
+- [`Fork το site του βιβλίου στην ομάδα μας`](https://github.com/The4Beasts/site).
+- [`Στα slides το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές`](https://github.com/The4Beasts/site/tree/master/_slides)
+- [`Το δικό μου slide`](https://github.com/The4Beasts/site/blob/master/_slides/Control%20of%20Digital%20Systems.md)
+- [`Στο timeline το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές`](https://github.com/The4Beasts/site/tree/master/_timeline)
+- [`Το δικό μου timeline`](https://github.com/The4Beasts/site/blob/master/_timeline/Control%20of%20Digital%20Systems.md)
+- [`Το site στο netlify`](https://636b600809868914e40447d6--moonlit-rugelach-17f284.netlify.app)
 
 ---
 
