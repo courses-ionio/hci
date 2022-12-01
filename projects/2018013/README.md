@@ -3,6 +3,7 @@
 ### Ονοματεπώνυμο: ΓΕΩΡΓΙΟΣ ΛΟΜΒΑΡΔΑΣ
 ### Αριθμός Μητρώου: Π2018013
 ### GitHub Profile: [giormaster](https://github.com/giormaster)
+### Organization: [MainCharacters](https://github.com/MainCharacters)
 <br />
 
 ## Πίνακας με σύνοψη των παραδοτέων
