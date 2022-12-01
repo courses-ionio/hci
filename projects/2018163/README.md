@@ -59,7 +59,7 @@
 
 <p>Παρακάτω φαίνεται το Link απο το Netlify.
  
-  - [`My Site`](https://whimsical-figolla-b0e931.netlify.app)
+  - [`My Site`](https://gorgeous-selkie-ad3780.netlify.app/)
  
 Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
 
