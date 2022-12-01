@@ -99,10 +99,6 @@
 | Contribution repository | [b-language.md](https://github.com/Drexion/kallipos/blob/master/contribution/b-language.md)
 | Lua File | [contribution.lua](https://github.com/Drexion/kallipos/blob/master/contribution.lua)
 
-### Σχετικά με την συνεργασία και ομαδικότητα, σας παραθέτω παρακάτω Links για απαντήσεις-διορθώσεις-βελτιώσεις-σχόλια.
-
-https://github.com/courses-ionio/help/discussions/1430
-
 # Παραδοτέο 7
 
 Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Β1 αποφάσισα να ασχοληθώ με την δημιιουργία ενός case-study για το προγραμματιστικό περιβάλλον Microsoft Visual Studio. Θεωρώ ότι αποτελεί πολύ ενδιαφέρουσα προσθήκη σχετικά με το υλικό του Α1 και Α2 εφόσον οι γλώσσες προγραμματισμού συνδυάζονται άμεσα με τα IDE. Διάλεξα συγκεκριμένα το Visual Studio λόγω των μεγάλο αριθμών γλωσσών που υποστηρίζει καθώς και το extensibility που προσφέρει.
@@ -166,3 +162,8 @@ https://github.com/courses-ionio/help/discussions/1430
 
 [Asciinema Link](https://asciinema.org/a/JEVmmAEtWU89otsFdh7IBNENw)
 
+
+### Σχετικά με την συνεργασία και ομαδικότητα, σας παραθέτω παρακάτω Links για απαντήσεις-διορθώσεις-βελτιώσεις-σχόλια.
+
+https://github.com/courses-ionio/help/discussions/1430
+https://github.com/courses-ionio/help/discussions/1814
