@@ -10,13 +10,13 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Introduction](https://github.com/courses-ionio/help/discussions/987) <br> [Organization](https://github.com/MainCharacters) </br> | |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Introduction](https://github.com/courses-ionio/help/discussions/987) <br/> [Organization](https://github.com/MainCharacters) | |
 | 2 | [Άσκηση γραμμής εντολών (linux install)](#παραδοτέο-2) | [Boot logs & Specs](https://github.com/courses-ionio/help/discussions/1108) | |
 | 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3) | [Contribution A1](https://github.com/courses-ionio/help/discussions/1809) | |
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](#παραδοτέο-4) | [ArchLinux installation on HW & Warm-up exercises](https://github.com/courses-ionio/help/discussions/1348) | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | [Contribution A2](https://github.com/courses-ionio/help/discussions/1811) | |
-| 6 | Κατασκευή του βιβλίου Α | [Book A](https://github.com/courses-ionio/help/discussions/1812) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | [Contribution B1 - Case Study](https://github.com/courses-ionio/help/discussions/1718) | |
+| 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | [Book A](https://github.com/courses-ionio/help/discussions/1812) | |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Contribution B1](https://github.com/courses-ionio/help/discussions/1718) | |
 | 8 | Άσκηση γραμμής εντολών | [Use Terminal as IDE](https://github.com/courses-ionio/help/discussions/1791) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -133,3 +133,17 @@ asciinema link: https://asciinema.org/a/CsOV5GljPlvssQ12peKQz2Oxx
 Η δεύτερη αναφαίρεται στην συσκευή VersaBraille. Πρόκειται για ένα display system που εμφανίζει ένα κείμενο σε μορφή braille, ευανάγνωστη για ανθρώπους με ειδικές ανάγκες όρασης, εφόσον έχει γίνει πρώτα έχει γίνει είσοδος του κειμένου και έπειτα η μετατροπή. Έτσι επέλεξα ως θεματική διαφάνεια τους [τρόπους διάδρασης - styles](https://github.com/AnTonyPapako/site/blob/master/_slides/styles.md) και ως χρονολόγιο τις [συσκευές εισόδου - input-devices](https://github.com/AnTonyPapako/site/blob/master/_timeline/input-devices.md).
 
 [VersaBraille - 1982](https://site-bay-gamma.vercel.app/timeline/input-devices)
+
+### Παραδοτέο 6
+
+Κατασκευή του βιβλίου Α.
+
+Δημιουργήθηκε περιεχόμενο για το πρώτο κεφάλαιο του βιβλίου. Συγκεκριμένα σχετίζεται συνοπτικά με την χρήση και την αντίληψη των υπολογιστών ανά δεκαετία, από 1950 μέχρι 2010. Αρχικά οι υπολογιστές χρησιμοποιούνταν για υπολογιστικές πράξεις, κατά κόρον για δουλείες γραφείου, ενώ με το πέρασμα του χρόνου απέκτησαν διαφορέτικες λειτουργίες και δυνατότητες, μεταβάλλοντας έτσι τον ρόλο τους ανά δεκαετία. Η εξέλιξη έφερε κατά συνέπεια την ευχρηστία και την αποδοχή έτοιμου υλικού με χρήση δίχως κριτικής σκέψης και απόρριψη τεχνολογιών δύσκολων προς εκμάθηση. Είχε τελικά θετικό πρόσημο η εξέλιξη ή οδήγησε σε σκοταδισμό;
+
+[contribution/pc-through-the-years.md](https://github.com/AnTonyPapako/kallipos/blob/master/contribution/pc-through-the-years.md)
+
+[pc-history.lua](https://github.com/AnTonyPapako/kallipos/blob/master/pc-history.lua)
+
+[book.pdf](https://github.com/AnTonyPapako/kallipos/blob/master/book.pdf)
+
+[screenshot of contribution in book](https://github.com/AnTonyPapako/kallipos/blob/master/screenshot/pc-history.png)
