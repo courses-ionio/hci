@@ -15,7 +15,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A2 |https://github.com/courses-ionio/help/discussions/1479 | |
 | 6 | Κατασκευή του βιβλίου Α |https://github.com/courses-ionio/help/discussions/1585 | |
 | 7 | Συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/help/discussions/1688 | |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | Άσκηση γραμμής εντολών |https://github.com/courses-ionio/help/discussions/1762 | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
