@@ -165,5 +165,5 @@
 
 ### Σχετικά με την συνεργασία και ομαδικότητα, σας παραθέτω παρακάτω Links για απαντήσεις-διορθώσεις-βελτιώσεις-σχόλια.
 
-https://github.com/courses-ionio/help/discussions/1430
+https://github.com/courses-ionio/help/discussions/1430, 
 https://github.com/courses-ionio/help/discussions/1814
