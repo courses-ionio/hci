@@ -61,7 +61,7 @@
  
   - [`My Site`](https://whimsical-figolla-b0e931.netlify.app)
  
-<p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
+Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
 
 
 - [`Pull Request στον οργανισμό της ομάδας - gallery`](https://github.com/The4Beasts/_gallery/pull/2)
@@ -105,76 +105,76 @@
 ---
 
 # Παραδοτέο 6: Κατασκευή του βιβλίου Α 
-<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα ετικέτα markdown δικής μας έμπνευσης και το αντίστοιχο φίλτρο pandoc lua για την προσθήκη εκτενών σημειώσεων στο σώμα του βιβλίου. Ως ετικέτα αναφέρθηκα στην εταιρεία Sony και συγκεκριμένα τη δράση της στη ρομποτική, καθώς συσχετίζεται με τις περιγραφές μου στα συμμετοχικά περιεχόμενα. Επίσης, ως δεύτερο ζητούμενο του παραδοτέου είναι να δημιουργήσουμε σε PDF το βιβλίο του μαθήματος.</p> 
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα ετικέτα markdown δικής μας έμπνευσης και το αντίστοιχο φίλτρο pandoc lua για την προσθήκη εκτενών σημειώσεων στο σώμα του βιβλίου. Ως ετικέτα αναφέρθηκα στην εταιρεία Sony και συγκεκριμένα τη δράση της στη ρομποτική, καθώς συσχετίζεται με τις περιγραφές μου στα συμμετοχικά περιεχόμενα. Επίσης, ως δεύτερο ζητούμενο του παραδοτέου είναι να δημιουργήσουμε σε PDF το βιβλίο του μαθήματος.
 
-- [PDF βιβλίο μαθήματος]()
-- [Νέα Markdown Tag](https://github.com/Vasdekis/kallipos/blob/master/comment/Sony-Robotics.md)
-- [Φίλτρο lua](https://github.com/Vasdekis/kallipos/blob/master/prosthikes.lua)
+- [`PDF βιβλίο μαθήματος`]()
+- [`Νέα Markdown Tag`](https://github.com/Vasdekis/kallipos/blob/master/comment/Sony-Robotics.md)
+- [`Φίλτρο lua`](https://github.com/Vasdekis/kallipos/blob/master/prosthikes.lua)
 
 ---
 
 # Παραδοτέο 7: Συμμετοχικό Περιεχόμενο Β1
-<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα μελέτη περίπτωσης στο site του βιβλίου. Το case study που επέλεξα σχετίζεται άμεσα με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline), αλλά και με το περιεχόμενο της εισαγωγής μου. Τα αποτελέσματα φαίνονται παρακάτω:</p>
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα `μελέτη περίπτωσης` στο site του βιβλίου. Το case study που επέλεξα σχετίζεται άμεσα με τα προηγούμενα παραδοτέα (`gallery`, `images`, `slides`, `timeline`), αλλά και με το περιεχόμενο της εισαγωγής μου. Τα αποτελέσματα φαίνονται παρακάτω:
 
-- [case study](https://github.com/Vasdekis/site/blob/master/_case-study/Raspberry%20Pi.md)
+- [`case study`](https://github.com/Vasdekis/site/blob/master/_case-study/Raspberry%20Pi.md)
 
-<p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
+Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
 
-- [Pull Request προς τον οργανισμό της ομάδας - case study](https://github.com/The4Beasts/site/pull/11)
-- [Pull Request προς τον οργανισμό της ομάδας - image](https://github.com/The4Beasts/images/pull/6)
-- [Οργανισμός ομάδας](https://github.com/The4Beasts)
+- [`Pull Request προς τον οργανισμό της ομάδας - case study`](https://github.com/The4Beasts/site/pull/11)
+- [`Pull Request προς τον οργανισμό της ομάδας - image`](https://github.com/The4Beasts/images/pull/6)
+- [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
-<p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
+Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
 
-- [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
+- [`Raspberry Pi`](https://en.wikipedia.org/wiki/Raspberry_Pi)
 
-<p>Παρακάτω παρουσιάζεται το link από το netlify</p>
+Παρακάτω παρουσιάζεται το link από το netlify:`
 
-- [My Site](https://deploy-preview-11--melodic-profiterole-b5f03f.netlify.app/case-study/)
+- [`My Site`](https://deploy-preview-11--melodic-profiterole-b5f03f.netlify.app/case-study/)
 
 ---
 
 # Παραδοτέο 8: Άσκηση γραμμής εντολών
-<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να εκτελέσουμε μία από τις ασκήσεις HCI. Η άσκηση που επέλεξα να κάνω είναι "format your report", με το εργαλείο groff. Επειδή στο 6ο παραδοτέο, δυσκολεύτηκα να μετατρέψω το βιβλίο σε pdf και να φανούν οι προσθήκες που είχα κάνει, αποφάσισα να δείξω τις προσθήκες μου μέσω του groff. Παρακάτω, φαίνεται το αποτέλεσμα σε βίντεο-gif.</p>
+<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να εκτελέσουμε μία από τις ασκήσεις HCI. Η άσκηση που επέλεξα να κάνω είναι `format your report`, με το εργαλείο `groff`. Επειδή στο 6ο παραδοτέο, δυσκολεύτηκα να μετατρέψω το βιβλίο σε pdf και να φανούν οι προσθήκες που είχα κάνει, αποφάσισα να δείξω τις προσθήκες μου μέσω του groff. Παρακάτω, φαίνεται το αποτέλεσμα σε βίντεο-gif.</p>
 
-![βίντεο-groff](https://user-images.githubusercontent.com/99913413/202921409-c46cb59d-73bf-4d01-b3f2-42a3dcc64180.gif)
+![`βίντεο-groff`](https://user-images.githubusercontent.com/99913413/202921409-c46cb59d-73bf-4d01-b3f2-42a3dcc64180.gif)
 
 ---
 
 # Παραδοτέο 9: Συμμετοχικό περιεχόμενο Β2
-<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα βιογραφία στο site του βιβλίου του μαθήματος. Η βιογραφία που επέλεξα αφορά τον Jack Kilby, ο οποίος εφηύρε το μικροτσιπ. Η συγκεκριμένη βιογραφία σχετίζεται με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline) στα οποία περιγράφω τη σχετική λειτουργία και σημασία του μικρουπολογιστή.</p>
+<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα `βιογραφία` στο site του βιβλίου του μαθήματος. Η βιογραφία που επέλεξα αφορά τον Jack Kilby, ο οποίος εφηύρε το μικροτσιπ. Η συγκεκριμένη βιογραφία σχετίζεται με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline) στα οποία περιγράφω τη σχετική λειτουργία και σημασία του μικρουπολογιστή.</p>
 
-- [biography](https://github.com/Vasdekis/site/blob/master/_biography/Jack-Kilby-biography.md)
+- [`biography`](https://github.com/Vasdekis/site/blob/master/_biography/Jack-Kilby-biography.md)
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
-- [Pull Request προς τον οργανισμό της ομάδας - biography](https://github.com/The4Beasts/site-1/pull/3)
-- [Pull Request προς τον οργανισμό της ομάδας - image](https://github.com/The4Beasts/images/pull/9)
-- [Οργανισμός ομάδας](https://github.com/The4Beasts)
+- [`Pull Request προς τον οργανισμό της ομάδας - biography`](https://github.com/The4Beasts/site-1/pull/3)
+- [`Pull Request προς τον οργανισμό της ομάδας - image`](https://github.com/The4Beasts/images/pull/9)
+- [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
-<p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
+Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
 
-- [Jack-Kilby](https://www.thoughtco.com/jack-kilby-father-of-the-microchip-1992042)
+- [`Jack-Kilby`](https://www.thoughtco.com/jack-kilby-father-of-the-microchip-1992042)
 
-<p>Παρακάτω παρουσιάζεται το link από το netlify</p>
+Παρακάτω παρουσιάζεται το link από το netlify:
 
-- [My Site](https://637fa331cb2392366df8abab--darling-basbousa-08164b.netlify.app/biography/)
+- [`My Site`](https://637fa331cb2392366df8abab--darling-basbousa-08164b.netlify.app/biography/)
 
 ---
 
 # Παραδοτέο 10:  Άσκηση γραμμής εντολών
-<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να εκτελέσουμε μία από τις ασκήσεις HCI. Η δεύτερη άσκηση που επέλεξα να κάνω είναι "create your own static site and blog generator with pandoc" με το εργαλείο pandoc. Ουσιαστικά, δημιούργησα ένα blog μαζί με την ομάδα μου στο οποίο παρουσιάζουμε τις περιγραφές και τις προσθήκες μας στο site του βιβλίου. Αυτό το κάναμε διότι αντιμετωπίσαμε πρόβλημα με το netlify και δεν μας εμφάνιζε τα αποτελέσματά μας. Παρακάτω φαίνεται το σχετικό στιγμιότυπο του blog:</p>
+Στο συγκεκριμένο παραδοτέο καλούμαστε να εκτελέσουμε μία από τις ασκήσεις HCI. Η δεύτερη άσκηση που επέλεξα να κάνω είναι `create your own static site and blog generator with pandoc` με το εργαλείο `pandoc`. Ουσιαστικά, δημιούργησα ένα `blog` μαζί με την ομάδα μου στο οποίο παρουσιάζουμε τις περιγραφές και τις προσθήκες μας στο site του βιβλίου. Αυτό το κάναμε διότι αντιμετωπίσαμε πρόβλημα με το netlify και δεν μας εμφάνιζε τα αποτελέσματά μας. Παρακάτω φαίνεται το σχετικό στιγμιότυπο του blog:
 
-![The4Beasts-Blog](https://user-images.githubusercontent.com/99913413/203786478-2d52bd31-8c28-4f1d-b7d5-08a883aa4062.gif)
+![`The4Beasts-Blog`](https://user-images.githubusercontent.com/99913413/203786478-2d52bd31-8c28-4f1d-b7d5-08a883aa4062.gif)
 
-Ο κώδικας από το html φαίνεται στο organization της ομάδας μας και συγκεκριμένα στο [Blog της ομάδας](https://github.com/The4Beasts/Blog/blob/main/The4Beasts-site.html).
+Ο `κώδικας` από το `html` φαίνεται στο organization της ομάδας μας και συγκεκριμένα στο [`Blog της ομάδας`](https://github.com/The4Beasts/Blog/blob/main/The4Beasts-site.html).
 
 ---
 
 # Παραδοτέο 11: Κατασκευή του βιβλίου Β
-<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να φτιάξουμε τη δική μας εκδοχή του βιβλίου του μαθήματος σε μορφή EPUB για το HCI και για το SW σε μορφή Pollen. Επειδή, όμως, έχουμε τεχνικό θέμα με το site του μαθήματος και δεν εμφανίζονται οι προσθήκες μας, "δανειζόμαστε" το blog δικής μας έμπνευσης στο οποίο βρίσκονται όλες οι προσθήκες που έχουμε κάνει. Το αποτέλεσμα φαίνεται στο παρακάτω gif:
+Στο συγκεκριμένο παραδοτέο καλούμαστε να φτιάξουμε τη δική μας εκδοχή του βιβλίου του μαθήματος σε μορφή `EPUB` για το `HCI` και για το `SW` σε μορφή `Pollen`. Επειδή, όμως, έχουμε τεχνικό θέμα με το site του μαθήματος και δεν εμφανίζονται οι προσθήκες μας, "δανειζόμαστε" το blog δικής μας έμπνευσης στο οποίο βρίσκονται όλες οι προσθήκες που έχουμε κάνει. Το αποτέλεσμα φαίνεται στο παρακάτω gif:
  
- ![Παραδοτέο 11](https://user-images.githubusercontent.com/99913413/203962522-2a15058a-00cc-488f-b0aa-fc4a0aaa45e2.gif)
+ ![`Παραδοτέο 11`](https://user-images.githubusercontent.com/99913413/203962522-2a15058a-00cc-488f-b0aa-fc4a0aaa45e2.gif)
 
 ---
 
