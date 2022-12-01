@@ -95,6 +95,15 @@ https://github.com/giormaster/site/blob/master/_slides/videogames.md
 Για το παραδοτεο 7 προσθεσα στο case study του site το arcade-machine-console.md: https://github.com/giormaster/site/blob/master/_case-study/arcade-machine-console.md
 <br />
 Στο _include προσθεσα το cs-arcade-machine.md : https://github.com/giormaster/site/blob/master/_includes/cs-arcade-machine.md
+<br />
+# Παραδοτέο_8
+Για το παραδοτέο 8 δημιουργησα σε python με nano ενα μικρό παιχνίδι πέτρα-ψαλίδι-χαρτί μέσω του τερματικού.Με την εντολή nano μπορώ να δω και να επεξεργαστώ τα κομμάτια του κώδικα.Το αρχειο py ονοματηκε rps και με την εντολη python3 rps.py τρεχω το παιχνιδι.
+Στο συγκεκριμένο asciinema τρέχω την εντολή python3 rps.py | tee output.txt, αυτη η εντολή θα τρέξει το παιχνίδι και μέσω pipeline θα διμιουργίσει ενα αρχείο output.txt και θα γράψει ολα τα prints του προγράμματος
+<br />
+asciinema link: https://asciinema.org/a/u7kQdDbClXcn05Br2Jv1Sabnl
+<br />
+Το rock-paper-scissors ειναι ενα απο τα ποιο κλασσικα και διαχρονικα παιχνιδια.Η μεταφορα του στους υπολογιστες εχει γινει με διαφορες παρα΄λαγες και ειναι μια απο τις πρωτες προσπαθειες του ανθρωπου για την ψηφιοποιηση παιχνιδιων.Μεσα στο παιχνιδι ο χρηστης πεζει αντιπαλος με τον υπολογιστη και νηκιτης ειναι αυτος που θα παει προτος στις 3 νικες.Τετοιες εφαρμογες φερνουν την διαδραση με τον υπολογιστη σε ευρητερο και την καθηστουν ποιο ευχαριστη. 
+
 
 
 
