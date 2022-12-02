@@ -16,7 +16,7 @@
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](#παραδοτέο-4) | [ArchLinux installation on HW & Warm-up exercises](https://github.com/courses-ionio/help/discussions/1348) | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | [Contribution A2](https://github.com/courses-ionio/help/discussions/1811) | |
 | 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | [Book A](https://github.com/courses-ionio/help/discussions/1812) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | [Contribution B1](https://github.com/courses-ionio/help/discussions/1718) | |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) | [Contribution B1](https://github.com/courses-ionio/help/discussions/1718) | |
 | 8 | Άσκηση γραμμής εντολών | [Use Terminal as IDE](https://github.com/courses-ionio/help/discussions/1791) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -29,15 +29,19 @@
 
 Το μάθημα, Επικοινωνία Ανθρώπου-Υπολογιστή, αποσκοπεί στην δημιουργία τεχνολογίας υπολογιστή και συγκεκριμένα επικεντρώνεται στην διάδραση και αλληλεπίδραση ανθρώπου με υπολογιστή. Σκόπος μου είναι να εξετάσω τις διαφορές και την εξέλιξη του υπολογιστή ανά έτη, ώστε να αποκτήσω την αντίληψη των τεχνολογικών επιτεύγματων σχετικά με την "επικοινωνία" ανθρώπου-υπολογιστή μέσω των συμπερασμάτων της εξέτασης. Επίσης να βελτιώσω τις ικανότητες μου πάνω σε ***command line*** και ***GitHub***.
 
+##
+
 ### Παραδοτέο 2
 
 Άσκηση γραμμής εντολών. ```Προσωρινή λύση - Virtual Machine```
 
-asciinema link: https://asciinema.org/a/TsRLr9IgszSTONBMgpe5NPhgu
+asciinema link: [Boot logs and Specs](https://asciinema.org/a/TsRLr9IgszSTONBMgpe5NPhgu)
 
 Στο συγκεκριμένο παραδοτέο έγινε η εγκατάσταση Arch Linux μέσω Virtual Machine, Virtual Box. Αρχικά πραγματοποιήθηκε τοπική εγκατάσταση Virtual Box και Arch Linux iso. Έπειτα από μερικά στάδια, όπως την δημιουργία νέας εικονικής μηχανής με λειτουργικό σύστημα Linux με έκδοση Arch Linux και ο διαθέσιμος χώρος αποθήκευσης, ζητήθηκε ο δίσκος εγκατάστασης, η γλώσσα, ο τύπος αρχείων, η ώρα συστήματος και οι κωδικοί του χρήστη. Έπειτα εγκαταστάθηκε το λογισμικό ***asciinema*** με την εντολή ```pacman -S asciinema```  που είναι σημαντικό εργαλείο για την καταγραφή terminal. Χρησιμοποιήθηκαν με την σειρα οι εντολές ```journalctl -b``` και ```neofetch```, ώστε να εμφανιστούν διαδοχικά πρώτα τα Boot logs και έπειτα τα χαρακτηριστικά του συστήματος.
 
 ![neofetch_specs](https://user-images.githubusercontent.com/44473312/196051481-dadfb072-9327-4bdc-97cb-418db4349700.png)
+
+##
 
 ### Παραδοτέο 3
 
@@ -56,6 +60,8 @@ Pull request
 - [_gallery](https://github.com/MainCharacters/_gallery/pull/1)
 
 - [images](https://github.com/MainCharacters/images/pull/1)
+
+##
 
 ### Παραδοτέο 4
 
@@ -108,7 +114,7 @@ Warm-up Ασκήσεις
 
 **deliverables:** read the business news
 
-asciinema link: https://asciinema.org/a/QzXDCbgYw6mMivGfi7lsLUCSB
+asciinema link: [Check the news](https://asciinema.org/a/QzXDCbgYw6mMivGfi7lsLUCSB)
 
 Εφόσον έγινε η εγκατάσταση του λογισμικού ***curl***, αναζητήθηκαν διάφορες πληροφορίες όπως τον καιρό, τα κρούσματα Covid-19 και τις τιμές των κρυπτονομισμάτων σύμφωνα με την [λίστα διαθέσιμων υπηρεσιών](https://github.com/chubin/awesome-console-services) οι οποίες είναι προσβάσιμες από ποικίλλα IP πρωτόκολλα.
 
@@ -116,9 +122,11 @@ asciinema link: https://asciinema.org/a/QzXDCbgYw6mMivGfi7lsLUCSB
 
 **deliverables:** use one window to search-edit local files or browse the web and another window for performance monitoring
 
-asciinema link: https://asciinema.org/a/CsOV5GljPlvssQ12peKQz2Oxx
+asciinema link: [Split Terminal Window](https://asciinema.org/a/CsOV5GljPlvssQ12peKQz2Oxx)
 
 Για την τελευταία εργασία εγκαταστάθηκαν τα λογισμικα ***tmux*** και ***glances***. Το πρώτο λογισμικό έχει την ικανότητα να ανοίγει νέα bashes, να εναλλάσσει μεταξύ αυτών και να χωρίζει στο ίδιο bash, το ίδιο terminal window, σε πολλαπλές περιοχές. Ενώ το δεύτερο παρακολουθεί και απεικονίζει την επίδοση του υπολογιστή.
+
+##
 
 ### Παραδοτέο 5
 
@@ -128,11 +136,13 @@ asciinema link: https://asciinema.org/a/CsOV5GljPlvssQ12peKQz2Oxx
 
 Η πρώτη εικόνα με λεζάντα που εισαγώ σχετίζεται με την *siri*. Η siri πρόκειται για ένα εικονικό βοηθό της Apple που ευκολύνει την καθημερινότητα εκατομμυρίων χρηστών στον πλανήτη, λύνοντας τους από απλές ερωτήσεις μέχρι και εκτελώντας διάφορες λειτουργίες. Για αυτό διάλεξα ως θεματική διαφάνεια τις [έξυπνες διαπεφές χρήστη - iui](https://github.com/AnTonyPapako/site/blob/master/_slides/iui.md) και ως χρονολόγιο τις [έξυπνες διεπαφές - agents](https://github.com/AnTonyPapako/site/blob/master/_timeline/agents.md).
 
-[Siri - 2011](https://site-bay-gamma.vercel.app/timeline/agents)
+vercel link: [Siri - 2011](https://site-bay-gamma.vercel.app/timeline/agents)
 
 Η δεύτερη αναφαίρεται στην συσκευή VersaBraille. Πρόκειται για ένα display system που εμφανίζει ένα κείμενο σε μορφή braille, ευανάγνωστη για ανθρώπους με ειδικές ανάγκες όρασης, εφόσον έχει γίνει πρώτα έχει γίνει είσοδος του κειμένου και έπειτα η μετατροπή. Έτσι επέλεξα ως θεματική διαφάνεια τους [τρόπους διάδρασης - styles](https://github.com/AnTonyPapako/site/blob/master/_slides/styles.md) και ως χρονολόγιο τις [συσκευές εισόδου - input-devices](https://github.com/AnTonyPapako/site/blob/master/_timeline/input-devices.md).
 
-[VersaBraille - 1982](https://site-bay-gamma.vercel.app/timeline/input-devices)
+vercel link: [VersaBraille - 1982](https://site-bay-gamma.vercel.app/timeline/input-devices)
+
+##
 
 ### Παραδοτέο 6
 
@@ -147,3 +157,29 @@ asciinema link: https://asciinema.org/a/CsOV5GljPlvssQ12peKQz2Oxx
 [book.pdf](https://github.com/AnTonyPapako/kallipos/blob/master/book.pdf)
 
 [screenshot of contribution in book](https://github.com/AnTonyPapako/kallipos/blob/master/screenshot/pc-history.png)
+
+##
+
+### Παραδοτέο 7
+
+Συμμετοχικό περιεχόμενο B1.
+
+Για το συμμετοχικό περιεχόμενο Β1 δημιουργήθηκε ένα case study σχετικά με την *siri*. Κάποιες χρήσιμες, τυπικές πληροφορίες, μικρή περιγραφή για τα iui, την χρήση των εικονικών βοηθών και γενικά της siri και ενδεχόμενες μελλοντικές επεκτάσεις. Βασίζεται στην λογική πως οι έξυπνες διεπαφές χρήστη βοηθούν τους ανθρώπους, καθώς συγκεκριμένα το πως η siri βελτιώνει την καθημερινότητα ανθρώπων με αναπηρίες ή δυσκολίες.
+
+[case study](https://github.com/AnTonyPapako/site/blob/master/_case-study/siri-assistant.md)
+
+[includes](https://github.com/AnTonyPapako/site/blob/master/_includes/cs-siri-assistant.md)
+
+Προσωπικός σύνδεσμος vercel: [Overcoming Boundaries](https://site-bay-gamma.vercel.app/case-study/siri-assistant)
+
+Πηγές
+
+- [Intelligent UI: The Virtual Assistant Paradigm](https://tomgruber.org/innovation/virtual-assistant-paradigm)
+
+- [Siri and the Visually Impaired: Call Me Apple!](https://www.perkins.org/resource/siri-and-visually-impaired-call-me-apple/)
+
+- [The Future of Voice Assistants](https://www.phonexia.com/blog/the-future-of-voice-assistants/)
+
+- [Predictions for the Future Of Voice Assistants and AI](https://clearbridgemobile.com/7-key-predictions-for-the-future-of-voice-assistants-and-ai/)
+
+##
