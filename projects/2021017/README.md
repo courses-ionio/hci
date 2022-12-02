@@ -11,7 +11,7 @@
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | [Palmer Luckey](https://master--meek-chaja-52b6fe.netlify.app/biography/palmerluckey/) | |
 | 10 | Άσκηση γραμμής εντολών | | |
-| 11 | Κατασκευή του βιβλίου Β | | |
+| 11 | Κατασκευή του βιβλίου Β | [epub](https://github.com/artopodama/kallipos/blob/master/make-latex.sh) | |
 | 12 | Τελική αναφορά* | | |
 
 <br>
@@ -19,6 +19,17 @@
 # Εισαγωγή <br>
 Στο μάθημα σκοπεύω να εξοικειωθώ και να γνωρίσω περισσότερο το arch linux με σκοπό να μάθω τις δυνατότητες και την ευελιξία του, επίσης στο github θα ήθελα να μάθω πως η εφαρμογή, θα με βοηθήσει στην επαγγελματική και φοιτητική μου ζωή.<br>
 Είμαι στον [οργανισμό](https://github.com/Second-Time-Is-The-Charm) με την [εισαγωγή](https://github.com/courses-ionio/help/discussions/882)
+Η ομάδα που είμαι απαρτήζεται απο τα εξής μέλη:
+
+|Usernames|
+|---|
+|[Voltmaister](https://github.com/voltmaister)|
+|[Markedd](https://github.com/marked-d)|
+|[NickLitharis](https://github.com/NickLitharis)|
+|[KonstantinosTourtsakis](https://github.com/KonstantinosTourtsakis)|
+|[odysseasEko](https://github.com/odysseasEko/)|
+|[artopodama](https://github.com/artopodama/)|
+|[Angeloth1](https://github.com/Angeloth1/)|
 
 # Arch linux <br>
 Στην εγκατάσταση τον arch linux, αν και βατή μπορώ να πω ότι αντιμετώπισα προβλήματα, όπως για παράδειγμα ο ήχος δε δούλευε. Λόγο τον ελλείπων γνώσεων μου έπρεπε να ψάξω στο διαδίκτυο για λύσεις.Η οποία εμπειρία με έκανε να χρησιμοποιήσω το terminal και να γνωρίσω τη χρήση του.
@@ -46,6 +57,8 @@
 
 # Συμμετοχικό περιεχόμενο B1 <br>
 Έκανα μελέτη περίπτωσης στο μακροβιότερο [VR headset](https://master--meek-chaja-52b6fe.netlify.app/case-study/oculusandvr/), δίνοντας έμφαση στο λειτουργικό σύστημα SDK και στις χρήσης του στη βιομηχανία και τη διασκέδαση. Χωρίς να επιμείνω στο γεγονός ότι έχει γίνει γνωστό λόγο τον βιντεοπαιχνιδιών <br>
+
+
 
 # Συμμετοχικό περιεχόμενο B2 <br>
 Η βιογραφία είναι για τον [Palmer Luckey](https://master--meek-chaja-52b6fe.netlify.app/biography/palmerluckey/) τον ιδρυτή της Oculus και της Anduril Industries, η οποία δημιουργεί πολεμικό περιεχόμενο για τον Αμερικανικό στρατό <br>
