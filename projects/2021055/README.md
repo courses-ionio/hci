@@ -241,11 +241,23 @@
 # ΠΑΡΔΟΤΕΟ 7-ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2
 Σε αυτό το παραδοτέο χρειάστηκε να φτιάξουμε μια μελέτη περίπτωσης η οποία θα πρέπει να συσχετίζεται με τα προηγούμενα παραδοτέα. Προσωπικά ασχολήθηκα με την εξέλιξη των Lego Mindstorms και την συνεισφορά τους στον εκπαιδευτικό τομέα.
 
-* #### link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my case-study](https://axileaszervos.netlify.app/case-study/legomindstorms/)
+* #### Link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my case-study](https://axileaszervos.netlify.app/case-study/legomindstorms/)
 
-### Links για τα md αρχεία που δημιούργησα
+### Links για τα md αρχεία μου στο προσωπικό μου αποθετήριο
 * [cs-LegoMindstorms.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-LegoMindstorms.md)
 * [LegoMidndstorms.md](https://github.com/Axileaszervos/site/blob/master/_case-study/LegoMindstorms.md)
+
+### Links για τα md αρχεία μου στο απεθετήριο της ομάδας μου
+* [cs-LegoMindstorms.md](https://github.com/OMADA12/site/blob/master/_includes/cs-LegoMindstorms.md)
+* [LegoMidndstorms.md](https://github.com/OMADA12/site/blob/master/_case-study/LegoMindstorms.md)
+
+
+### Link για την μελέτη περίπτωσης στο προσωπικό μου site
+* [Lego Mindstorms](https://axileaszervos.netlify.app/case-study/legomindstorms/)
+
+### Link για την μελέτη περίπτωσης στο site της ομάδας μου
+* [Lego Mindstorms](https://omada12.netlify.app/case-study/legomindstorms/)
+
 
 ### ΒΙΒΛΙΟΓΡΑΦΙΑ
 * https://www.brothers-brick.com/2020/01/31/a-history-of-lego-education-part-2-path-to-mindstorms-feature/
@@ -273,7 +285,7 @@
 
 
 # ΠΑΡΑΔΟΤΕΟ 9
-Σε αυτό το παραδοτέο έπρεπε να φτιάξουμε μια νέα βιογραφία η οποία θα πρέπει να έχει άμεση σύνδεση με τα προηγούμενα παραδοτέα. Επέλεξα να γράφω για τον Seymour Papert επειδή, με εντυπωσίασε η συνεισφορά του στην εκπαίδευση και φράσεις όπως "Ο ρόλος του καθηγητή δημ  σκοπό να δημιουργεί συνθήκες για την ανακάλυψη γνώσεων και όχι για να αναπαράγει έτοιμη πληροφορία" αποτελούν πηγή έμπνευσης για εμένα.
+Σε αυτό το παραδοτέο έπρεπε να φτιάξουμε μια νέα βιογραφία η οποία θα πρέπει να έχει άμεση σύνδεση με τα προηγούμενα παραδοτέα. Επέλεξα να γράφω για τον Seymour Papert επειδή, με εντυπωσίασε η συνεισφορά του στην εκπαίδευση και φράσεις όπως "Ο ρόλος του καθηγητή δημιουργήθηκε με σκοπό να παρέχει τις ιδανικές συνθήκες για την ανακάλυψη γνώσεων και όχι για να αναπαράγει έτοιμη πληροφορία" αποτελούν πηγή έμπνευσης για εμένα.
 
 * #### link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my biography](https://axileaszervos.netlify.app/case-study/edtech/)
 
@@ -290,7 +302,8 @@
 # ΠΑΡΑΔΟΤΕΟ 10
 
 ## COMPILER
-### Έφτιαξα ένα shell script το οποίο επιτρέπει στον χρήστη να κάνει compile ήδη υπάρχων python αρχεία και του επιτρέπει να δημιουργήσει ένα νεό αρχείο python, στο οποίο μπορεί να γράφει μέσα κώδικα και να το κάνει compile.
+### Έφτιαξα ένα shell script το οποίο επιτρέπει στον χρήστη να κάνει compile ήδη υπάρχων python αρχεία και του επιτρέπει να δημιουργήσει ένα νεό αρχείο python, στο οποίο μπορεί να γράφει μέσα κώδικα και να το κάνει compile. Ακόμη, με την χρήση pipeling εισάγει στο αρχείο στην φράση η οποία του επιτρέπει να εκτελείται μόνο του. χωρίς την λέξη python δίπλα του(`python Axileas.py`).
+
 * [PythonCom.sh](https://github.com/Axileaszervos/EXERCISE-8/blob/main/PythonCom.sh)
 * [Axileas.py](https://github.com/Axileaszervos/EXERCISE-8/blob/main/Axileas.py)
 * [asciinema demo](https://asciinema.org/a/540704)
