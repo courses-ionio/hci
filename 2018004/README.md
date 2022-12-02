@@ -46,4 +46,7 @@ e-mail: p18geor@ionio.gr.
 [zshrc](https://asciinema.org/a/IDHAt4YUQMWay1XCBdXGnV5TU)
 
 # 5η Εβδομάδα 
-Όπως αναφέρθηκε παρπάνω, το pull request για το δεύτερο θέμα θα γίνει μόλις όλοι μας κάνουμε το Β2. Eδώ είχα κάνει και ένα μεγάλο λάθος και είχα πατήσει discrad commits πρίν κάνω pull request (όσο ακόμη δεν είχα καλή ιδέα του πως λειτουργέι το github) και έτσι έιχα ακυρώσει την προσπάθειά μου. [Εδώ[(https://github.com/Fanis-Georg/site/blob/master/_slides/text-editors.md) και [εδώ](https://github.com/Fanis-Georg/site/blob/master/_slides/gui.md) είναι τα slides που έφτιαξα και περιμένω να τελειώσουμε με το Β2 για να ενσωματωθεί.
+Όπως αναφέρθηκε παρπάνω, το pull request για το δεύτερο θέμα θα γίνει μόλις όλοι μας κάνουμε το Β2. Eδώ είχα κάνει και ένα μεγάλο λάθος και είχα πατήσει discrad commits πρίν κάνω pull request (όσο ακόμη δεν είχα καλή ιδέα του πως λειτουργέι το github) και έτσι έιχα ακυρώσει την προσπάθειά μου. [Εδώ](https://github.com/Fanis-Georg/site/blob/master/_slides/text-editors.md) και [εδώ](https://github.com/Fanis-Georg/site/blob/master/_slides/gui.md) είναι τα slides που έφτιαξα και περιμένω να τελειώσουμε με το Β2 για να ενσωματωθεί.
+
+# 6η Εβδομάδα
+Παρουσιάστηκε ένα πρόβλημα στην κατσκευή του βιβλίου το οποίο ακόμη δεν έχω λύσει. Δεν μου παρουσιάζονται ούτε τα προηγούμενα quotes αλλά ούτε και το δικό μου αφότου τρέξω το [make-latex](https://github.com/Fanis-Georg/kallipos/blob/master/make-latex.sh) ενώ έχω κάνει το κατάλληλο [σχόλιο](https://github.com/Fanis-Georg/kallipos/blob/master/paradoteo6/par6edit.md) αλλά ούτε μετά την αλλαγή του footnote στο makrdown text που 
