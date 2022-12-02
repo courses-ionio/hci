@@ -175,8 +175,8 @@
    * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg](https://github.com/OMADA12/images/blob/master/Logo-thumb.jpg)
    
 ## PULL REQUESTS
-* [md files]()
-* [photos]()
+* [md files](https://github.com/OMADA12/_gallery/pull/23)
+* [photos](https://github.com/OMADA12/site/pull/17)
 
 
 # 4ο ΠΑΡΑΔΟΤΕΟ-WARM UPS CLI
@@ -198,31 +198,31 @@
 
 ~Για τον Apple iMac έφτιαξα τα εξής slide και timeline:~
 
-~S)[Καινοτόμες συσκευές]() - slide~
+~S)[Καινοτόμες συσκευές](https://axileaszervos.netlify.app/slides/innovativemachines/) - slide~
 
-~T)[Γραφικό περιβάλλον]() - timeline~
+~T)[Γραφικό περιβάλλον](https://axileaszervos.netlify.app/timeline/graphicalinterfaces/) - timeline~
 
 ~Για το virtualboy έφτιαξα τα εξής slide και timeline:~
 
-~S)[Συσκευές εικονικής πραγματικότητας]() - slide~
+~S)[Συσκευές εικονικής πραγματικότητας](https://axileaszervos.netlify.app/slides/virtualreality/) - slide~
 
-~T)[Η εξέλιξη των 3d γραφικών]() - timeline~
+~T)[Η εξέλιξη των 3d γραφικών](https://axileaszervos.netlify.app/timeline/3dgraphics/) - timeline~
 
    # `UPDATE`
 Μετα την αλλαγή εικόνων στο 3ο παραδοτέο έχουν αλλάξει τα slides και οι διαφάνειες
 
 ---
 * Slide και Timeline για την γλωσσα προγραμματισμού `Logo`
-  * [Εκπαιδευτικά Μέσα]() - slide
-  * []() - timeline
+  * [Εκπαιδευτικά Εργαλεία](https://axileaszervos.netlify.app/slides/edu%CF%84ools/) - slide
+  * [Εκπαιδευτικά Εργαλεία](https://axileaszervos.netlify.app/timeline/edutoolstimeline/) - timeline
  
 * Slide και Timeline για τα ρομπότ-παιχνίδια `Lego WeDo`
-  * [Εκπαιδευτικά Μέσα]() - slide
-  * [Εκπαιδευτικά Ρομπότ]() - timeline
+  * [Εκαπιδευτικά Ρομπότ](https://axileaszervos.netlify.app/slides/edurobots/) - slide
+  * [Εκπαιδευτικά Ρομπότ](https://axileaszervos.netlify.app/timeline/edurobotstimeline/) - timeline
   
  ## PULL REQUESTS
- * [slides]()
- * [timelines]()
+ * [slides](https://github.com/OMADA12/site/pull/20)
+ * [timelines](https://github.com/OMADA12/site/pull/20)
   
  # 6ο ΠΑΡΑΔΟΤΕΟ-ΚΑΤΑΣΚΕΥΗ ΒΙΒΛΙΟΥ Α
 Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το κεφάλαιο 3 και συγκεκριμένα την υποενότητα 3.3 "Σύνθετα στύλ διάδρασης". Εκεί πρόσθεσα σαν σύνθετο στύλ διάδρασης την τεχνητή νοημοσύνη, θέμα το οποίο είναι ακόμη `υπό-βελτίωση`.
