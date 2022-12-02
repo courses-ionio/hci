@@ -225,23 +225,16 @@
  * [timelines](https://github.com/OMADA12/site/pull/20)
   
  # 6ο ΠΑΡΑΔΟΤΕΟ-ΚΑΤΑΣΚΕΥΗ ΒΙΒΛΙΟΥ Α
-Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το κεφάλαιο 3 και συγκεκριμένα την υποενότητα 3.3 "Σύνθετα στύλ διάδρασης". Εκεί πρόσθεσα σαν σύνθετο στύλ διάδρασης την τεχνητή νοημοσύνη, θέμα το οποίο είναι ακόμη `υπό-βελτίωση`.
+Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το κεφάλαιο 3 και συγκεκριμένα την υποενότητα 6.3 "". Εκεί πρόσθεσα 
 
 * link του βιβλίου σε μορφή pdf: [book.pdf]()
-* link απο το δικό μου φίλτρο: [Ai.lua](https://github.com/Axileaszervos/kallipos/blob/master/Ai.lua)
-* link του περιεχομένου που πρόσθεσα: [Ai.md](https://github.com/Axileaszervos/kallipos/blob/master/my%20text/2022-11-18-134836_1920x1080_scrot.png)
-* link του make-latex.sh: [make-latex](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
+* link απο το δικό μου φίλτρο: [App.lua])
+* link του περιεχομένου που πρόσθεσα: [App.md]()
+* link του make-latex.sh: [make-latex]()
 
-## Το κείμενο μου
-![mytext](https://user-images.githubusercontent.com/115211756/202702330-c92008f5-926b-43b0-91b0-55dffb0bacd5.png)
-
-## Το κεφάλαιο του κειμένου που ασχολήθηκα
- ![Maintheme](https://user-images.githubusercontent.com/115211756/201673129-e19eefb3-19cd-44d1-9bb8-33a284f21a46.png)
  
 # ΠΑΡΔΟΤΕΟ 7-ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2
 Σε αυτό το παραδοτέο χρειάστηκε να φτιάξουμε μια μελέτη περίπτωσης η οποία θα πρέπει να συσχετίζεται με τα προηγούμενα παραδοτέα. Προσωπικά ασχολήθηκα με την εξέλιξη των Lego Mindstorms και την συνεισφορά τους στον εκπαιδευτικό τομέα.
-
-* #### Link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my case-study](https://axileaszervos.netlify.app/case-study/legomindstorms/)
 
 ### Links για τα md αρχεία μου στο προσωπικό μου αποθετήριο
 * [cs-LegoMindstorms.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-LegoMindstorms.md)
@@ -287,21 +280,35 @@
 # ΠΑΡΑΔΟΤΕΟ 9
 Σε αυτό το παραδοτέο έπρεπε να φτιάξουμε μια νέα βιογραφία η οποία θα πρέπει να έχει άμεση σύνδεση με τα προηγούμενα παραδοτέα. Επέλεξα να γράφω για τον Seymour Papert επειδή, με εντυπωσίασε η συνεισφορά του στην εκπαίδευση και φράσεις όπως "Ο ρόλος του καθηγητή δημιουργήθηκε με σκοπό να παρέχει τις ιδανικές συνθήκες για την ανακάλυψη γνώσεων και όχι για να αναπαράγει έτοιμη πληροφορία" αποτελούν πηγή έμπνευσης για εμένα.
 
-* #### link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my biography](https://axileaszervos.netlify.app/case-study/edtech/)
+### Links για τα md αρχεία μου στο προσωπικό αποθετήριο
+* [bio-Papert.md](https://github.com/Axileaszervos/site/blob/master/_includes/bio-Papert.md)
+* [Papert.md](https://github.com/Axileaszervos/site/blob/master/_biography/Papert.md)
 
-### Links για τα md αρχεία που δημιούργησα
-* [bio-Papert.md]()
-* [Papert.md]()
+### Links για τα md αρχεία μου στο αποθετήριο της ομάδας μου
+* [bio-Papert.md](https://github.com/OMADA12/site/blob/master/_includes/bio-Papert.md)
+* [Papert.md](https://github.com/OMADA12/site/blob/master/_biography/Papert.md)
+
+### Link για την βιογραφία στο προσωπικό μου site
+* [Seymour Papert](https://axileaszervos.netlify.app/biography/papert/)
+
+### Link για την βιογραφία στο site της ομάδας μου
+* [Seymour Papert](https://omada12.netlify.app/biography/papert/)
+
+### ΒΙΒΛΙΟΓΡΑΦΙΑ
+* https://el.wikipedia.org/wiki/Σέυμουρ_Παπέρτ#Ερευνητική_σταδιοδρομία
+* https://www.britannica.com/biography/Seymour-Papert
+* https://edu.ellak.gr/2016/08/02/seymour-papert-1928-2016-enas-protoporos-tis-ekpedefsis-ke-tis-pliroforikis/
 
 ## PULL REQUESTS
-* [bio-Papert.md]()
-* [Papert.md]()
-* [Photos for biography]()
+* [bio-Papert.md](https://github.com/OMADA12/site/pull/26) 
+* [Papert.md](https://github.com/OMADA12/site/pull/26)
+* [Photos for biography](https://github.com/OMADA12/images/pull/22)
 
 
 # ΠΑΡΑΔΟΤΕΟ 10
 
 ## COMPILER
+
 ### Έφτιαξα ένα shell script το οποίο επιτρέπει στον χρήστη να κάνει compile ήδη υπάρχων python αρχεία και του επιτρέπει να δημιουργήσει ένα νεό αρχείο python, στο οποίο μπορεί να γράφει μέσα κώδικα και να το κάνει compile. Ακόμη, με την χρήση pipeling εισάγει στο αρχείο στην φράση η οποία του επιτρέπει να εκτελείται μόνο του. χωρίς την λέξη python δίπλα του(`python Axileas.py`).
 
 * [PythonCom.sh](https://github.com/Axileaszervos/EXERCISE-8/blob/main/PythonCom.sh)
@@ -318,4 +325,8 @@
 
 
 # LINKS ΑΠΟ ΣΥΖΗΤΗΣΕΙΣ
-https://github.com/courses-ionio/help/discussions/1736
+* https://github.com/courses-ionio/help/discussions/1736
+* https://github.com/courses-ionio/help/discussions/1463
+* https://github.com/courses-ionio/help/discussions/1769
+* https://github.com/courses-ionio/help/discussions/1793
+* https://github.com/courses-ionio/help/discussions/1484
