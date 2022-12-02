@@ -75,6 +75,13 @@
  * [PR images](https://github.com/Unixidized/images/pull/16)
 
 ### Παραδοτέο 8
+* Για το 8ο παραδοτέο κατασκεύασα ένα script το οποίο παράγει την αναφορά μου σε 3 διαφορετικά formats, html, pdf και docx ανάλογα με τις ανάγκες του χρήστη. Ο χρήστης τρέχει το script δίνοντας σαν argument το format που επιθυμεί.
+
+|Ascinema|[Generator](https://github.com/ApoLaz/generator)|
+|:---:|:---:|
+|[script creation](https://asciinema.org/a/0ODr9k3yzjXAHHLi8WtHogxfL)|[html](https://github.com/ApoLaz/generator/blob/main/repo.html)|
+|[script running](https://asciinema.org/a/3yICnGw9kt60IVpRlnMihlM2P)|[pdf](https://github.com/ApoLaz/generator/blob/main/repo.pdf)|
+||[docx](https://github.com/ApoLaz/generator/blob/main/repo.docx)|
 
 ### Παραδοτέο 9 (B2)
 * Για το παραδοτέο αυτό έγραψα την βιογραφία του Seymour Papert. Όπου τον εντόπισα σε μια από τις ερωτίσεις των video quiz και είδα ότι δεν υπάρχει στο site του βιβλίου και πίστευα ότι είναι μια καλή και συμαντική προσθήκη. Καθώς από την ερώτιση του video quiz ακόμα που είχα ψάξει για αυτόν είχα δει ότι ήταν μια πολύ "συμαντική" προσωποκότητα. Ο Papert έχει εργαστεί με τον Πιεζέ όπου ήταν και μαθητής του και έχει υπάρξει και καθηγιτής στο MIT όπου εκεί έκανε μια πολύ συμαντική δουλειά. Ο Seymoyr Papert έχει κατασκευάσει και την γλώσσα προγραμματισμού Logo και το Logo Turtle, το οποίο υπάρχει και στο βιβλίο μας.
