@@ -51,7 +51,7 @@
 
 <br>
 
-# Κατασκευή του βιβλίου Α <br>
+# Κατασκευή του βιβλίου Α <br> 
 Η κατασκευή του [βιβλίου](https://raw.githubusercontent.com/artopodama/kallipos/master/book.pdf), η λειτουργία του και μετατροπή του σε pdf ήταν το ποιο δύσκολο σημείο μέχρι τώρα. Το θέμα που έχει γραφτεί είναι προς βελτίωση και αλλαγές, το ίδιο και τα [φίλτρα](https://github.com/artopodama/kallipos/blob/master/notes.lua) και το αρχείο [md](https://github.com/artopodama/kallipos/blob/master/mynotes/notes.md).  <br>
 ![ksnip_20221114-171308](https://user-images.githubusercontent.com/101902825/201695875-d2e91a80-c21d-4b60-8187-22121cd9b528.png)
 
