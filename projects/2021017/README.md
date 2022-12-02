@@ -7,9 +7,9 @@
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[weather forcast](https://asciinema.org/a/533418) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Amstrad-pcw16 slides](https://master--meek-chaja-52b6fe.netlify.app/timeline/computer/), [Breadbox Ensemble slides](https://master--meek-chaja-52b6fe.netlify.app/timeline/os-apps/) | |
 | 6 | Κατασκευή του βιβλίου Α |[smartwatch](https://github.com/artopodama/kallipos/tree/master/mynotes) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Oculus Rift](https://master--meek-chaja-52b6fe.netlify.app/case-study/oculusandvr/) | |
 | 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 9 | Συμμετοχικό περιεχόμενο B2 | [Palmer Luckey](https://master--meek-chaja-52b6fe.netlify.app/biography/palmerluckey/) | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -43,3 +43,10 @@
 # Κατασκευή του βιβλίου Α <br>
 Η κατασκευή του [βιβλίου](https://raw.githubusercontent.com/artopodama/kallipos/master/book.pdf), η λειτουργία του και μετατροπή του σε pdf ήταν το ποιο δύσκολο σημείο μέχρι τώρα. Το θέμα που έχει γραφτεί είναι προς βελτίωση και αλλαγές, το ίδιο και τα [φίλτρα](https://github.com/artopodama/kallipos/blob/master/notes.lua) και το αρχείο [md](https://github.com/artopodama/kallipos/blob/master/mynotes/notes.md).  <br>
 ![ksnip_20221114-171308](https://user-images.githubusercontent.com/101902825/201695875-d2e91a80-c21d-4b60-8187-22121cd9b528.png)
+
+# Συμμετοχικό περιεχόμενο B1 <br>
+Έκανα μελέτη περίπτωσης στο μακροβιότερο [VR headset](https://master--meek-chaja-52b6fe.netlify.app/case-study/oculusandvr/), δίνοντας έμφαση στο λειτουργικό σύστημα SDK και στις χρήσης του στη βιομηχανία και τη διασκέδαση. Χωρίς να επιμείνω στο γεγονός ότι έχει γίνει γνωστό λόγο τον βιντεοπαιχνιδιών <br>
+
+# Συμμετοχικό περιεχόμενο B2 <br>
+Η βιογραφία είναι για τον [Palmer Luckey](https://master--meek-chaja-52b6fe.netlify.app/biography/palmerluckey/) τον ιδρυτή της Oculus και της Anduril Industries, η οποία δημιουργεί πολεμικό περιεχόμενο για τον Αμερικανικό στρατό <br>
+
