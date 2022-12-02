@@ -113,7 +113,7 @@
    
  ### VirtualBoy:
   
-   ~Tο .md αρχείο του VirtualBoy στο αποθετήριο της ομάδας μου: [VirtualBoy]()~
+   ~Tο .md αρχείο του VirtualBoy στο αποθετήριο της ομάδας μου: [VirtualBoy](https://github.com/OMADA12/_gallery/blob/master/Virtualboy.md)~
    
    ~Η εικόνα του VirtualBoy στο site της ομάδας μου: [VirtualBoy]()~
    
@@ -164,15 +164,15 @@
  
    * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/OMADA12/_gallery/blob/master/Legowedo.md)
    * Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo]()
-   * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Lego-wedo-photo]()
-   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Legowedo.jpg]()
+   * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Legowedo.jpg](https://github.com/OMADA12/images/blob/master/Legowedo.jpg)
+   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Legowedo-thumb.jpg](https://github.com/OMADA12/images/blob/master/Legowedo-thumb.jpg)
    
  ### Logo:
   
    * Tο .md αρχείο του Logo στο αποθετήριο της ομάδας μου: [Logo.md](https://github.com/OMADA12/_gallery/blob/master/Logo.md)
    * Η εικόνα του Logo στο site της ομάδας μου: [Logo]()
-   * Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [Logo.jpg]()
-   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg]()
+   * Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [Logo.jpg](https://github.com/OMADA12/images/blob/master/Logo.jpg)
+   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg](https://github.com/OMADA12/images/blob/master/Logo-thumb.jpg)
    
 ## PULL REQUESTS
 * [md files]()
