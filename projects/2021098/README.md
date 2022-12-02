@@ -314,10 +314,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 # Πίνακας πνευματικών δικαιωμάτων σχετικά με την αξιοποίηση των πηγών και των φωτογραφιών:
 
 | Φωτογραφίες | Copyright Holders | License | Type of License |
-| --- | --- | --- | --- |
-| [Guido Van Rossum #1](https://greekforce1821-site.netlify.app//biography/guido-van-rossum/) | [Φωτογραφία #1](https://gvanrossum.github.io/images/guido-headshot-2019.jpg)| © Michael Cavotta | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Guido Van Rossum #2 | [Φωτογραφία #2](https://gvanrossum.github.io/images/guido-portrait-dan-stroud.jpg) | ©  Dan Stroud | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | 
-| Guido Van Rossum #3 | [Φωτογραφία #3](https://gvanrossum.github.io/images/DO6GvRlo.gif) | © Unknown | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |  
+| --- | --- | --- | --- |  
 | [Python Case Study #1](https://greekforce1821-site.netlify.app/case-study/python/) | [Φωτογραφία #1](https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220730085403%21Python-logo-notext.svg) | © The Python Software Foundation | [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html)
 | Python Case Study #2 | [Φωτογραφία #2](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80) | © Chris Ried | [Unsplash License](https://unsplash.com/license)
 | Python Case Study #3 | [Φωτογραφία #3](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/python-statistics-2022.jpg) | © Spyros Kokotos | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
@@ -446,17 +443,13 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 ![Screenshot_2022-11-19_11-29-28](https://user-images.githubusercontent.com/33377581/205331150-c002e6a4-ae38-4604-9120-62ae9d2903ed.jpg)
 
----
+# Πίνακας πνευματικών δικαιωμάτων σχετικά με την αξιοποίηση των πηγών και των φωτογραφιών:
 
 | Φωτογραφίες | Copyright Holders | License | Type of License |
 | --- | --- | --- | --- |
 | [Guido Van Rossum #1](https://greekforce1821-site.netlify.app//biography/guido-van-rossum/) | [Φωτογραφία #1](https://gvanrossum.github.io/images/guido-headshot-2019.jpg)| © Michael Cavotta | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 | Guido Van Rossum #2 | [Φωτογραφία #2](https://gvanrossum.github.io/images/guido-portrait-dan-stroud.jpg) | ©  Dan Stroud | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | 
 | Guido Van Rossum #3 | [Φωτογραφία #3](https://gvanrossum.github.io/images/DO6GvRlo.gif) | © Unknown | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-
----
-
-
 
 
 
