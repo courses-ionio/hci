@@ -11,7 +11,7 @@
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | [Palmer Luckey](https://master--meek-chaja-52b6fe.netlify.app/biography/palmerluckey/) | |
 | 10 | Άσκηση γραμμής εντολών | | |
-| 11 | Κατασκευή του βιβλίου Β | [epub](https://github.com/artopodama/kallipos/blob/master/make-latex.sh) | |
+| 11 | Κατασκευή του βιβλίου Β | [epub](https://github.com/artopodama/kallipos/blob/master/make-latex.sh)[book](https://github.com/artopodama/kallipos/tree/master/mynotes) | |
 | 12 | Τελική αναφορά* | | |
 
 <br>
