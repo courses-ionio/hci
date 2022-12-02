@@ -292,10 +292,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 # Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
 
 * Προσωπικό site από το αποθετήριο μου: [Greekforce1821](https://greekforce1821-site.netlify.app/)
-* Biography του προσωπικού αποθετηρίου: [Biography Guido Van Rossum](https://greekforce1821-site.netlify.app//biography/guido-van-rossum/)
 * Case-Study του προσωπικού αποθετηρίου: [Case-Study Python](https://greekforce1821-site.netlify.app//case-study/python/)
-* Αρχείο βιογραφίας από το αποθετήριο: [.md File #Biography Thumbnail](https://github.com/Greekforce1821/site/blob/master/_biography/guido-van-rossum.md)
-* Αρχείο βιογραφίας από το αποθετήριο: [.md File #Biography](https://github.com/Greekforce1821/site/blob/master/_includes/bio-van-rossum.md)
 * Αρχείο μελέτης περίπτωσης από το αποθετήριο: [.md File #Case-Study Thumbnail](https://github.com/Greekforce1821/site/blob/master/_case-study/python.md)
 * Αρχείο μελέτης περίπτωσης από το αποθετήριο: [.md File #Case-Study](https://github.com/Greekforce1821/site/blob/master/_includes/cs-python.md)
 ---
@@ -443,14 +440,16 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 ![Screenshot_2022-11-19_11-29-28](https://user-images.githubusercontent.com/33377581/205331150-c002e6a4-ae38-4604-9120-62ae9d2903ed.jpg)
 
-# Πίνακας πνευματικών δικαιωμάτων σχετικά με την αξιοποίηση των πηγών και των φωτογραφιών:
+# Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
 
-| Φωτογραφίες | Copyright Holders | License | Type of License |
-| --- | --- | --- | --- |
-| [Guido Van Rossum #1](https://greekforce1821-site.netlify.app//biography/guido-van-rossum/) | [Φωτογραφία #1](https://gvanrossum.github.io/images/guido-headshot-2019.jpg)| © Michael Cavotta | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Guido Van Rossum #2 | [Φωτογραφία #2](https://gvanrossum.github.io/images/guido-portrait-dan-stroud.jpg) | ©  Dan Stroud | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | 
-| Guido Van Rossum #3 | [Φωτογραφία #3](https://gvanrossum.github.io/images/DO6GvRlo.gif) | © Unknown | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+* Προσωπικό site από το αποθετήριο μου: [Greekforce1821](https://greekforce1821-site.netlify.app/)
+* Biography του προσωπικού αποθετηρίου: [Biography Guido Van Rossum](https://greekforce1821-site.netlify.app//biography/guido-van-rossum/)
+* Αρχείο βιογραφίας από το αποθετήριο: [.md File #Biography Thumbnail](https://github.com/Greekforce1821/site/blob/master/_biography/guido-van-rossum.md)
+* Αρχείο βιογραφίας από το αποθετήριο: [.md File #Biography](https://github.com/Greekforce1821/site/blob/master/_includes/bio-van-rossum.md)
 
+# Φωτογραφίες που αξιοποιήθηκαν στην παραπάνω εργασία:
 
+* Φωτογραφία thumbnail για την βιογραφία του Guido Van Rossum: [Thumbnail-Guido](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/van-rossum-profile-thumb.jpg)
+* Φωτογραφία για την βιογραφία του Guido Van Rossum: [Van-Rossum Picture](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/van-rossum-profile-1.jpg)
 
 
