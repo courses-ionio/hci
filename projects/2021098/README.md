@@ -438,6 +438,12 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 | [IPYNB Conversion Using Terminal](https://asciinema.org/a/540847) | Asciinema | .cast |
 | [DOCX Conversion Using Terminal](https://asciinema.org/a/540845) | Asciinema | .cast |
  
+# Παραδοτέο 9ο: Συμμετοχικό περιεχόμενο Β2.
+
+Στο συγκεκριμένο παραδοτέο, έπρεπε να δημιουργήσουμε μια νέα βιογραφία σχετική με τα παραδοτέα [Α1](https://github.com/courses-ionio/help/discussions/1185) και [Α2](https://github.com/courses-ionio/help/discussions/1461) σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/social/) του μαθήματος και να τα ανεβάσουμε στην [ιστοσελίδα](https://greekforce1821-site.netlify.app/) μας. Συγκεκριμένα, ασχολήθηκα με την βιογραφία: `Guido Van Rossum`, ο οποίος είναι ο δημιουργός της υψηλού επιπέδου γλώσσας προγραμματισμού `Python`. Παρακάτω επισυνάπτω την φωτογραφία από το bio.
+
+## <ins> Guido Van Rossum Biography </ins>
+
 
 
 
