@@ -58,7 +58,7 @@
 
 <p>Παρακάτω φαίνεται τα links απο το Netlify τόσο από το δικό μου site όσο και της ομάδας μου:
  
-  - [`My Site`](https://gorgeous-selkie-ad3780.netlify.app/)
+  - [`My Site`](https://638a5fbf611d9d02051144f9--heroic-cassata-ddf41d.netlify.app/)
   - [`The4Beasts Site`]()
  
 Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
