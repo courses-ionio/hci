@@ -17,7 +17,7 @@
 | 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | [Contribution A2](https://github.com/courses-ionio/help/discussions/1811) | |
 | 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | [Book A](https://github.com/courses-ionio/help/discussions/1812) | |
 | 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) | [Contribution B1](https://github.com/courses-ionio/help/discussions/1718) | |
-| 8 | Άσκηση γραμμής εντολών | [Use Terminal as IDE](https://github.com/courses-ionio/help/discussions/1791) | |
+| 8 | [Άσκηση γραμμής εντολών](#παραδοτέο-8) | [Use Terminal as IDE](https://github.com/courses-ionio/help/discussions/1791) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
@@ -181,5 +181,21 @@ vercel link: [VersaBraille - 1982](https://site-bay-gamma.vercel.app/timeline/in
 - [The Future of Voice Assistants](https://www.phonexia.com/blog/the-future-of-voice-assistants/)
 
 - [Predictions for the Future Of Voice Assistants and AI](https://clearbridgemobile.com/7-key-predictions-for-the-future-of-voice-assistants-and-ai/)
+
+##
+
+### Παραδοτέο 8
+
+Άσκηση γραμμής εντολών.
+
+**assignment:** use the terminal as an IDE
+
+**deliverables:** edit your files (e.g., report, blog, code, etc) in vim or emacs and compile it in a different panel or use a plug-in
+
+asciinema link: [Terminal as IDE](https://asciinema.org/a/Fo8R0cCTDyft43ULZClwsX9g5)
+
+Για το παραδοτέο γράφτηκε κώδικας σε C με λειτουργία να σχεδιάζει ευθείες και να εμφανίζει κάθε φορά στην οθόνη την διαδικασία που ακολουθείται για τον υπολογισμό των σημείων της ευθείας, εφόσον ο χρήστης δώσει στο πρόγραμμα αρχικά τις επιθυμητές αρχικές και τελικές συντεταγμένες. Για καλύτερη εξοικείωση γραμμής εντολών δημιουργήθηκε επιπλέον ένα .sh αρχείο, ώστε να γίνει compile και έπειτα να τρέξει το πρόγραμμα.
+
+```Προσοχή!``` Ο σχεδιασμός της ευθείας δεν εμφανίζεται στην οθόνη παρά μόνο αναγράφονται τα σημεία που η ευθεία θα κατέχει, διότι ο κώδικας εκτελείται σε *minimal terminal*.
 
 ##
