@@ -42,20 +42,19 @@
  - [`My Gallery`](https://github.com/Vasdekis/_gallery)
   
     - [`Microcontroller`](https://github.com/Vasdekis/_gallery/blob/master/Microcontroller.md)
-  
     - [`Portable data terminal`](https://github.com/Vasdekis/_gallery/blob/master/Portable%20data%20terminal.md)
+    - [`Scilab`](https://github.com/Vasdekis/_gallery/blob/master/Scilab.md)
   
   <p>Και οι αντίστοιχες εικόνες:</p>
   
 - [`Images`](https://github.com/Vasdekis/images)
 
   - [`MCU-thumb.jpg`](https://github.com/Vasdekis/images/blob/master/MCU-thumb.jpg)
-  
   - [`MCU.jpg`](https://github.com/Vasdekis/images/blob/master/MCU.jpg)
-  
   - [`PDT-thumb.png`](https://github.com/Vasdekis/images/blob/master/PDT-thumb.png)
-  
   - [`PDT.png`](https://github.com/Vasdekis/images/blob/master/PDT.png)
+  - [`Scilab.png`](https://github.com/Vasdekis/images/blob/master/Scilab.png)
+  - [`Scilab-thumb.png`](https://github.com/Vasdekis/images/blob/master/Scilab-thumb.png)
 
 <p>Παρακάτω φαίνεται τα links απο το Netlify τόσο από το δικό μου site όσο και της ομάδας μου:
  
@@ -69,6 +68,11 @@
 - [`Pull Request προς τον οργανισμό της ομάδας - images`](https://github.com/The4Beasts/images/pull/3)
 - [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
+ Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
+- [`Microcontroller`](https://en.wikipedia.org/wiki/Microcontroller)
+- [`Portable Data Terminal`](https://en.wikipedia.org/wiki/Portable_data_terminal)
+- [`Scilab`](https://en.wikipedia.org/wiki/Scilab)
+ 
 ---
 
 # Παραδοτέο 4: Άσκηση γραμμής εντολών (arch linux install on HW)
