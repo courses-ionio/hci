@@ -299,8 +299,6 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 # Φωτογραφίες που αξιοποιήθηκαν στην παραπάνω εργασία:
 
-* Φωτογραφία thumbnail για την βιογραφία του Guido Van Rossum: [Thumbnail-Guido](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/van-rossum-profile-thumb.jpg)
-* Φωτογραφία για την βιογραφία του Guido Van Rossum: [Van-Rossum Picture](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/van-rossum-profile-1.jpg)
 * Φωτογραφία thumbnail για την μελέτη περίπτωσης της Python: [Thumbnail-Python](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/python-thumb.jpg)
 * Φωτογραφία για την μελέτη περίπτωσης της Python #1: [Python #1](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/python-logo.jpg)
 * Φωτογραφία για την μελέτη περίπτωσης της Python #2: [Python #2](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/guido-headshot.jpg)
@@ -317,17 +315,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 | Python Case Study #3 | [Φωτογραφία #3](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/python-statistics-2022.jpg) | © Spyros Kokotos | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 | Python Case Study 34 | [Φωτογραφία #4](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/programming-languages-statistics-2022.jpg) | © Spyros Kokotos  | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |  
 
-
-
 ---
-
-| Άρθρο | Πηγή | Copyright Holder |
-| --- | --- | --- |
-| [Βιογραφικό σημείωμα Guido Van Rossum](https://greekforce1821-site.netlify.app/biography/guido-van-rossum/) | https://bit.ly/3Xfnymx  | [Ελληνικό Μουσείο Πληροφορικής](https://elmp.gr/) |
-
----
-
-
 
 # Παραδοτέο 8ο: Command Line Exercise #2
 
@@ -452,4 +440,20 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 * Φωτογραφία thumbnail για την βιογραφία του Guido Van Rossum: [Thumbnail-Guido](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/van-rossum-profile-thumb.jpg)
 * Φωτογραφία για την βιογραφία του Guido Van Rossum: [Van-Rossum Picture](https://github.com/Greekforce1821/images/blob/be9e48f02a3c780971691d468f07062e500ef9ec/van-rossum-profile-1.jpg)
 
+# Πίνακας πνευματικών δικαιωμάτων σχετικά με την αξιοποίηση των πηγών και των φωτογραφιών:
 
+| Φωτογραφίες | Copyright Holders | License | Type of License |
+| --- | --- | --- | --- |
+| [Guido Van Rossum #1](https://greekforce1821-site.netlify.app//biography/guido-van-rossum/) | [Φωτογραφία #1](https://gvanrossum.github.io/images/guido-headshot-2019.jpg)| © Michael Cavotta | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Guido Van Rossum #2 | [Φωτογραφία #2](https://gvanrossum.github.io/images/guido-portrait-dan-stroud.jpg) | ©  Dan Stroud | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | 
+| Guido Van Rossum #3 | [Φωτογραφία #3](https://gvanrossum.github.io/images/DO6GvRlo.gif) | © Unknown | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+
+---
+
+| Άρθρο | Πηγή | Copyright Holder |
+| --- | --- | --- |
+| [Βιογραφικό σημείωμα Guido Van Rossum](https://greekforce1821-site.netlify.app/biography/guido-van-rossum/) | https://bit.ly/3Xfnymx  | [Ελληνικό Μουσείο Πληροφορικής](https://elmp.gr/) |
+
+---
+
+# Παραδοτέο 10: Command Line Exercise #3
