@@ -15,10 +15,10 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/help/discussions/985 | |
 | 2 | [Άσκηση γραμμής εντολών (linux install)](#παραδοτέο_2) | https://github.com/courses-ionio/help/discussions/1109 | |
 | 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο_3) | | |
-| 4 | [Άσκηση γραμμής εντολών (warm up cli)](#παραδοτέο_4) | | |
+| 4 | [Άσκηση γραμμής εντολών (warm up cli)](#παραδοτέο_4) | https://github.com/courses-ionio/help/discussions/1305 | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο_5) | | |
 | 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο_6) | | |
-| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο_7) | | |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο_7) | https://github.com/courses-ionio/help/discussions/1717 | |
 | 8 | [Άσκηση γραμμής εντολών](#παραδοτέο_8) | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -42,12 +42,12 @@ guided.
 Έγινε η εγκατάσταση του asciinema με την εντολή pacman -S asciinema και
 με την χρήση του καταγράφηκαν οι εντολές journalctl -b και neofetch.
 <br />
-link για την πρώτη εντολή: https://asciinema.org/a/KFkjzZwapvKnZaZew9WxRaKc9
+link asciinema για την πρώτη εντολή: [journalctl](https://asciinema.org/a/KFkjzZwapvKnZaZew9WxRaKc9)
 <br />
-link για την δεύτερη εντολή: https://asciinema.org/a/4T9jM9FVcyffckmsGFDOwu2q3 
+link asciinema για την δεύτερη εντολή: [neofetch](https://asciinema.org/a/4T9jM9FVcyffckmsGFDOwu2q3) 
 <br />
 Είναι σημαντικό να σημειωθεί ότι για την εντολή neofetch χρειάστηκε να
-γίνει εγκατάσταση
+γίνει εγκατάσταση.
 <br />
 
 # Παραδοτέο_3
@@ -63,8 +63,13 @@ link για την δεύτερη εντολή: https://asciinema.org/a/4T9jM9FV
 
 # Παραδοτέο_4
 Για το παραδοτέο 4 έγινε η εγκατάσταση του archlinux μέσω usb stick.
-Αρχικά μετέβηκα στην ιστοσελίδα του archlinux:https://archlinux.org/ και απο εκεί κατέβασα το iso αρχείο για την εγκατάσταση,στην συνέχεια δημιούργησα ένα bootable usb και έκανα επανεκκίνηση τον υπολογιστή,έκλεισα το secure boot απο τα bios για να μην αντιμετοπίσω προβλήματα αργότερα και έκανα boot από το usb stick.
+Αρχικά μετέβηκα στην ιστοσελίδα του [archlinux](https://archlinux.org/) και απο εκεί κατέβασα το iso αρχείο για την εγκατάσταση,στην συνέχεια δημιούργησα ένα bootable usb και έκανα επανεκκίνηση τον υπολογιστή,έκλεισα το secure boot απο τα bios για να μην αντιμετοπίσω προβλήματα αργότερα και έκανα boot από το usb stick.
 Από τις αρχικές επιλογές διάλεξα Arch Linux install medium και μπήκα στο terminal.Για την εγκατάσταση έγγραψα την εντολή python -m archinstall και απο το μενού που εμφανίστηκε ρύθμισα τα partition της εγκατάστασης,ώρα και ημερομηνία,keyboard layout και network.Τέλος έφτιαξα το hostname και έναν κωδικό για το root και η εγκατάσταση ξεκίνησε.Οταν το install τελείωσε έκανα επανεκκίνηση τον υπολογιστή και το terminal λειτουργούσε κανονικά.
+Στο τερματικό έκανα δύο ασκήσεις warmup,το Weather με το wttr και το track my time with a journal.
+<br />
+Link asciinema wttr: [check the weather](https://asciinema.org/a/tDYnvzq2HnnvUnsTLAuKPOWw3)
+<br />
+Link asciinema journal: [track my time with a journal](https://asciinema.org/a/myWWJGALqBTZRNtQfvtowpGar)
 <br />
 
 # Παραδοτέο_5
