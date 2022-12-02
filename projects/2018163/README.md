@@ -57,9 +57,10 @@
   
   - [`PDT.png`](https://github.com/Vasdekis/images/blob/master/PDT.png)
 
-<p>Παρακάτω φαίνεται το Link απο το Netlify.
+<p>Παρακάτω φαίνεται τα links απο το Netlify τόσο από το δικό μου site όσο και της ομάδας μου:
  
   - [`My Site`](https://gorgeous-selkie-ad3780.netlify.app/)
+  - [`The4Beasts Site`]()
  
 Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
 
@@ -128,10 +129,10 @@
 
 - [`Raspberry Pi`](https://en.wikipedia.org/wiki/Raspberry_Pi)
 
-Παρακάτω παρουσιάζεται το link από το netlify:`
+Παρακάτω παρουσιάζεται τα links από το netlify τόσο από το δικό μου site όσο και της ομάδας μου:`
 
 - [`My Site`](https://deploy-preview-11--melodic-profiterole-b5f03f.netlify.app/case-study/)
-
+- [`The4Beasts Site`]()
 ---
 
 # Παραδοτέο 8: Άσκηση γραμμής εντολών
@@ -156,10 +157,10 @@
 
 - [`Jack-Kilby`](https://www.thoughtco.com/jack-kilby-father-of-the-microchip-1992042)
 
-Παρακάτω παρουσιάζεται το link από το netlify:
+Παρακάτω παρουσιάζεται τα links από το netlify τόσο του δικού μου site όσο και της ομάδας μου:
 
 - [`My Site`](https://637fa331cb2392366df8abab--darling-basbousa-08164b.netlify.app/biography/)
-
+- [`The4Beasts Site`]()
 ---
 
 # Παραδοτέο 10:  Άσκηση γραμμής εντολών
