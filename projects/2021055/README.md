@@ -241,27 +241,26 @@
 # ΠΑΡΔΟΤΕΟ 7-ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2
 Σε αυτό το παραδοτέο χρειάστηκε να φτιάξουμε μια μελέτη περίπτωσης η οποία θα πρέπει να συσχετίζεται με τα προηγούμενα παραδοτέα. Προσωπικά ασχολήθηκα με την εξέλιξη των Lego Mindstorms και την συνεισφορά τους στον εκπαιδευτικό τομέα.
 
-* #### link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my case-study]()
+* #### link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my case-study](https://axileaszervos.netlify.app/case-study/legomindstorms/)
 
 ### Links για τα md αρχεία που δημιούργησα
-* [cs-LegoMindstorms.md]()
-* [LegoMidndstorms.md]()
+* [cs-LegoMindstorms.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-LegoMindstorms.md)
+* [LegoMidndstorms.md](https://github.com/Axileaszervos/site/blob/master/_case-study/LegoMindstorms.md)
 
 ### ΒΙΒΛΙΟΓΡΑΦΙΑ
-
+* https://www.brothers-brick.com/2020/01/31/a-history-of-lego-education-part-2-path-to-mindstorms-feature/
+* https://en.wikipedia.org/wiki/Lego_Mindstorms
+* https://hackeducation.com/2015/04/10/mindstorms
+* https://robotsauthority.com/the-short-history-of-lego-mindstorms/
 
 ## PULL REQUESTS
-* [case-study]()
-* [includes]()
+* [cs-LegoMindstorms.md](https://github.com/OMADA12/site/pull/25/commits/f6f99cdd1f1f3645f02ae8bb93afdd128bf69d1d) 
+* [LegoMindstorms.md](https://github.com/OMADA12/site/pull/25/commits/fcf8c947b1b943450bb4519d88d4e5254eaba806)
+* [Photos for case-study](https://github.com/OMADA12/images/pull/21/commits/4ed03122212819a80dadd29ef20ddc1faa1d2a7b)
 
 # ΠΑΡΑΔΟΤΕΟ 8
-Σε αυτό το παραδοτέο είχαμε να ασχοληθούμε με 4 διαφορετικές [ασκήσεις](https://github.com/epidrome/dokey#hci). Προσωπικά επέλεξα την 3η άσκηση, στην όποια έπρεπε να δημιουργήσω ένα shell script το οποίο θα μετατρέπει αρχεία και την 4η στην οποία έπρεπε να χρησιμοποιήσουμε την γραμμή εντολών σαν ένα IDE.
+Σε αυτό το παραδοτέο είχαμε να ασχοληθούμε με 4 διαφορετικές [ασκήσεις](https://github.com/epidrome/dokey#hci). Προσωπικά επέλεξα την 3η άσκηση, στην όποια έπρεπε να δημιουργήσω ένα shell script το οποίο θα μετατρέπει αρχεία.
  
-## COMPILER
-### Έφτιαξα ένα shell script το οποίο επιτρέπει στον χρήστη να κάνει compile ήδη υπάρχων python αρχεία και του επιτρέπει να δημιουργήσει ένα νεό αρχείο python, στο οποίο μπορεί να γράφει μέσα κώδικα και να το κάνει compile.
-* [PythonCom.sh](https://github.com/Axileaszervos/EXERCISE-8/blob/main/PythonCom.sh)
-* [Axileas.py](https://github.com/Axileaszervos/EXERCISE-8/blob/main/Axileas.py)
-* [asciinema demo](https://asciinema.org/a/540704)
 
 ## FILE CONVERTOR
 ### Δημιούργησα ένα shell script στο οποίο ο χρήστης μπορεί να μετατρέψει epub και md αρχεία σε html και txt αντίστοιχα.
@@ -274,7 +273,7 @@
 
 
 # ΠΑΡΑΔΟΤΕΟ 9
-Σε αυτό το παραδοτέο έπρεπε να φτιάξουμε μια νέα βιογραφία η οποία θα πρέπει να έχει άμεση σύνδεση με τα προηγούμενα παραδοτέα. Επέλεξα να γράφω για τον Seymour Papert επειδή, με εντυπωσίασε η συνεισφορά του στην εκπαίδευση και φράσεις όπως "Ο ρόλος του καθηγητή υπάρχει με σκοπό να δημιουργεί συνθήκες για την ανακάλυψη γνώσεων και όχι για να αναπαράγει έτοιμη πληροφορία" αποτελούν πηγή έμπνευσης για εμένα.
+Σε αυτό το παραδοτέο έπρεπε να φτιάξουμε μια νέα βιογραφία η οποία θα πρέπει να έχει άμεση σύνδεση με τα προηγούμενα παραδοτέα. Επέλεξα να γράφω για τον Seymour Papert επειδή, με εντυπωσίασε η συνεισφορά του στην εκπαίδευση και φράσεις όπως "Ο ρόλος του καθηγητή δημ  σκοπό να δημιουργεί συνθήκες για την ανακάλυψη γνώσεων και όχι για να αναπαράγει έτοιμη πληροφορία" αποτελούν πηγή έμπνευσης για εμένα.
 
 * #### link της μελέτης περίπτωσης μου στο προσωπικό μου site: [my biography](https://axileaszervos.netlify.app/case-study/edtech/)
 
@@ -283,13 +282,18 @@
 * [Papert.md]()
 
 ## PULL REQUESTS
-* [biography]()
-* [includes]()
+* [bio-Papert.md]()
+* [Papert.md]()
+* [Photos for biography]()
 
 
 # ΠΑΡΑΔΟΤΕΟ 10
 
-
+## COMPILER
+### Έφτιαξα ένα shell script το οποίο επιτρέπει στον χρήστη να κάνει compile ήδη υπάρχων python αρχεία και του επιτρέπει να δημιουργήσει ένα νεό αρχείο python, στο οποίο μπορεί να γράφει μέσα κώδικα και να το κάνει compile.
+* [PythonCom.sh](https://github.com/Axileaszervos/EXERCISE-8/blob/main/PythonCom.sh)
+* [Axileas.py](https://github.com/Axileaszervos/EXERCISE-8/blob/main/Axileas.py)
+* [asciinema demo](https://asciinema.org/a/540704)
 
 
 
