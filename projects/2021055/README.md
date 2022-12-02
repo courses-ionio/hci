@@ -52,7 +52,7 @@
 
 # 3ο ΠΑΡΑΔΟΤΕΟ-ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α1 
 
-Σε αυτό το παραδοτέο απαιτείται η συμμετοχή όλων μας τόσο ατομικά όσο και ομαδικά με τον εμπλουτισμό περιεχομένου στο ήδη υπάρχον [site](https://pibook.epidro.me). Ως admin της ομάδας μου, δημιoύργησα το [site](https://omadaa12.netlify.app) και πρόσθεσα τα απαραίτητα [modules](https://github.com/orgs/OMADA12/repositories) στο reposiroty της ομάδας μου.
+Σε αυτό το παραδοτέο απαιτείται η συμμετοχή όλων μας τόσο ατομικά όσο και ομαδικά με τον εμπλουτισμό περιεχομένου στο ήδη υπάρχον [site](https://pibook.epidro.me). Ως admin της ομάδας μου, δημιoύργησα το [site](omadaa12.netlify.app) και πρόσθεσα τα απαραίτητα [modules](https://github.com/orgs/OMADA12/repositories) στο reposiroty της ομάδας μου.
 
 Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://axileaszervos.netlify.app) και δημιούργησα 2 εικόνες, μία για τον Αpple iMac G3 και μία για το VirtualBoy
 
@@ -78,23 +78,23 @@
  
  ### Apple_iMac:
     
-   ~Tο .md αρχείο του Apple_iMac στο προσωπικό μου αποθετήριο: [Apple_iMac.md]()~ 
+   ~Tο .md αρχείο του Apple_iMac στο προσωπικό μου αποθετήριο: [Apple_iMac.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Imac.md)~ 
    
-   ~Η εικόνα του Apple_iMac στο προσωπικό μου site: [Apple_iMac](https://omada12.netlify.app/gallery/imac/)~
+   ~Η εικόνα του Apple_iMac στο προσωπικό μου site: [Apple_iMac](https://axileaszervos.netlify.app/gallery/imac/)~
    
-   ~Η κανονική εικόνα στο αποθετήριο μου: [Imac.jpg]()~
+   ~Η κανονική εικόνα στο αποθετήριο μου: [Imac.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Imac.jpg)~
    
-   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [Imac-thumb.jpg]()~
+   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [Imac-thumb.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Imac-thumb.jpg)~
    
   ### VirtualBoy:
     
-   ~Tο .md αρχείο του VirtualBoy στο προσωπικό μου αποθετήριο: [VirtualBoy.md]()~
+   ~Tο .md αρχείο του VirtualBoy στο προσωπικό μου αποθετήριο: [VirtualBoy.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Virtualboy.md)~
    
-   ~Η εικόνα του VirtualBoy στο προσωπικό μου site: [VirtualBoy]()~
+   ~Η εικόνα του VirtualBoy στο προσωπικό μου site: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
    
-   ~Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo]()~
+   ~Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Virtualboy.jpg)~
    
-   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [VirtualBoy-resized]()~
+   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο μου: [VirtualBoy-resized](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Virtualboy-thumb.jpg)~
    
    
 ## Τα Links και οι φωτογραφίες από το ομαδικό αποθετήριο:
@@ -103,13 +103,13 @@
  
   ### Apple_iMac:
  
-   ~Tο .md αρχείο του Apple_iMac στο αποθετήριο της ομάδας μου: [Apple_iMac.md]()~
+   ~Tο .md αρχείο του Apple_iMac στο αποθετήριο της ομάδας μου: [Apple_iMac.md](https://github.com/OMADA12/_gallery/blob/master/Imac.md)~
    
    ~Η εικόνα του Apple_iMac στο site της ομάδας μου: [Apple_iMac]()~
    
-   ~Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Apple_iMac-photo]()~
+   ~Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Imac.jpg](https://github.com/OMADA12/images/blob/master/Imac.jpg)~
    
-   ~Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Apple-iMac-resized]()~
+   ~Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Imac-thumb.jpg](https://github.com/OMADA12/images/blob/master/Imac-thumb.jpg)~
    
  ### VirtualBoy:
   
@@ -117,9 +117,9 @@
    
    ~Η εικόνα του VirtualBoy στο site της ομάδας μου: [VirtualBoy]()~
    
-   ~Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [VirtualBoy-photo]()~
+   ~Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [VirtualBoy.jpg](https://github.com/OMADA12/images/blob/master/Virtualboy.jpg)~
    
-   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [VirtualBoy-resized]()~
+   ~Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [VirtualBoy-thumb.jpg](https://github.com/OMADA12/images/blob/master/Virtualboy-thumb.jpg)~
    
 # `UPDATE`
   Έπειτα από παρατηρήσεις του καθηγητή μου, πήρα την απόφαση να αλλάξω τις φωτογραφίες μου και να προσθέσω την γλώσσα προγραμματισμού `Logo` και την εκπαιδευτική σειρά από κατασκευές 
@@ -144,17 +144,17 @@
  
 ### Logo:
     
-  * Tο .md αρχείο της γλώσσας προγραμματισμού scratch στο προσωπικό μου αποθετήριο: [Logo.md]()
-  * Η εικόνα της γλώσσας προγραμματισμού scratch στο προσωπικό μου site: [Logo]()
-  * Η κανονική εικόνα της γλώσσας προγραμματισμού scratch στο αποθετήριο μου: [Logo.jpg]()
-  * Η resized σε 160x160 pixels της γλώσσας προγραμματισμού scratch εικόνα στο αποθετήριο μου: [Logo-thumb.jpg]()
+  * Tο .md αρχείο της γλώσσας προγραμματισμού Logo στο προσωπικό μου αποθετήριο: [Logo.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Logo.md)
+  * Η εικόνα της γλώσσας προγραμματισμού Logo στο προσωπικό μου site: [Logo](https://axileaszervos.netlify.app/gallery/logo/)
+  * Η κανονική εικόνα της γλώσσας προγραμματισμού Logo στο αποθετήριο μου: [Logo.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Logo.jpg)
+  * Η resized σε 160x160 pixels της γλώσσας προγραμματισμού Logo εικόνα στο αποθετήριο μου: [Logo-thumb.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Logo-thumb.jpg)
  
   ### Lego WeDo:
  
-   * Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου αποθετήριο: [Legowedo.md]()
-   * Η εικόνα της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου site: [Legowedo]()
-   * Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo.jpg]()
-   * Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo-thumb.jpg]()
+   * Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου αποθετήριο: [Legowedo.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Legowedo.md)
+   * Η εικόνα της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου site: [Legowedo](https://axileaszervos.netlify.app/gallery/legowedo/)
+   * Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Legowedo.jpg)
+   * Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo-thumb.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Legowedo-thumb.jpg)
 
 ## Τα Links και οι φωτογραφίες από το ομαδικό αποθετήριο:
 
@@ -162,14 +162,14 @@
  
  ### Lego-wedo:
  
-   * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [Legowedo.md]()
+   * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/OMADA12/_gallery/blob/master/Legowedo.md)
    * Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo]()
    * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Lego-wedo-photo]()
    * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Legowedo.jpg]()
    
  ### Logo:
   
-   * Tο .md αρχείο του Logo στο αποθετήριο της ομάδας μου: [scratch]()
+   * Tο .md αρχείο του Logo στο αποθετήριο της ομάδας μου: [Logo.md](https://github.com/OMADA12/_gallery/blob/master/Logo.md)
    * Η εικόνα του Logo στο site της ομάδας μου: [Logo]()
    * Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [Logo.jpg]()
    * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg]()
