@@ -13,13 +13,13 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/help/discussions/985 | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | https://github.com/courses-ionio/help/discussions/1109 | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
-| 6 | Κατασκευή του βιβλίου Α | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 2 | [Άσκηση γραμμής εντολών (linux install)](#παραδοτέο_2) | https://github.com/courses-ionio/help/discussions/1109 | |
+| 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο_3) | | |
+| 4 | [Άσκηση γραμμής εντολών (warm up cli)](#παραδοτέο_4) | | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο_5) | | |
+| 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο_6) | | |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο_7) | | |
+| 8 | [Άσκηση γραμμής εντολών](#παραδοτέο_8) | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
@@ -28,59 +28,58 @@
 <br />
 
 # ΕΙΣΑΓΩΓΗ
-Ολοκληρώνοντας το μάθημα με επιτυχία επιθύμω να εχώ μια καλύτερη κατανόηση της διεπαφής ανθρώπου και υπολογιστή.Ακομα επιθύμω να εξασκηθώ σε ψυχαγωγικές εφαρμογές μεσω των ασκήσεων και μελετώντας την θεωρια.
+Ολοκληρώνοντας το μάθημα με επιτυχία επιθύμω να εχώ μια καλύτερη κατανόηση της διεπαφής ανθρώπου και υπολογιστή.Ακόμα επιθύμω να εξασκηθώ σε ψυχαγωγικές εφαρμογές μέσω των ασκήσεων και μελετώντας την θεωρία.
 <br />
 # Παραδοτέο_2
-Εγινε εγκατάσταση του virtual box και στην συνέχεια εγκαταστάθηκε το
-λογισμικο Archlinux με την βοηθεια της εντολης pyhton -m archinstall
-guided
-Στην συνεχεια ακολουθόντας το πρόγραμμα επιλέχθεικε ο δισκος
-εγγατάστασης,η γλώσσα,ο τύπος αρχείων,η ώρα συστήματος και οι κωδικοί
+Έγινε εγκατάσταση του virtual box και στην συνέχεια εγκαταστάθηκε το
+λογισμικό Archlinux με την βοήθεια της εντολής pyhton -m archinstall
+guided.
+Στην συνέχεια ακολουθώντας το πρόγραμμα επιλέχθεικε ο δίσκος
+εγκατάστασης,η γλώσσα,ο τύπος αρχείων,η ώρα συστήματος και οι κωδικοί
 του χρήστη.
-Μετα απο μια επανεκκίνηση και εισαγωγή στο σύστημα με τους κωδικους
-βλέπουμε οτι τα archlinux εχουν εγκατασταθεί.
-Εγινε η εγκατάσταση του asciinema με την εντολή pacman -S asciinema και
-με την χρήση του καταγράφηκαν οι εντολες journalctl -b και neofetch.
+Μετά από μια επανεκκίνηση και εισαγωγή στο σύστημα με τους κωδικούς
+βλέπουμε οτι τα archlinux έχουν εγκατασταθεί.
+Έγινε η εγκατάσταση του asciinema με την εντολή pacman -S asciinema και
+με την χρήση του καταγράφηκαν οι εντολές journalctl -b και neofetch.
 <br />
-link για την πρωτη
-εντολη:https://asciinema.org/a/KFkjzZwapvKnZaZew9WxRaKc9
+link για την πρώτη εντολή: https://asciinema.org/a/KFkjzZwapvKnZaZew9WxRaKc9
 <br />
-link για την δευτερη
-εντολη:https://asciinema.org/a/4T9jM9FVcyffckmsGFDOwu2q3 <br />
-Ειναι σημαντικό να σημειωθεί οτι για την εντολή neofetch χρειάστηκε να
-γινει εγκατάσταση
+link για την δεύτερη εντολή: https://asciinema.org/a/4T9jM9FVcyffckmsGFDOwu2q3 
+<br />
+Είναι σημαντικό να σημειωθεί ότι για την εντολή neofetch χρειάστηκε να
+γίνει εγκατάσταση
 <br />
 
 # Παραδοτέο_3
-Εγινε η προσθήκη του arcade-machine.md και του playstation-portable.md στο gallery
-Ακόμα προστέθηκαν τα playstation-portable.jpg και playstation-portable-thumb.jpg μαζι με arcade-machine.png και arcade-machine-thumb.png στο images 1)https://github.com/giormaster/_gallery/blob/master/arcade-machine.md ,2)https://github.com/giormaster/_gallery/blob/master/playstation-portable.md
+Έγινε η προσθήκη του arcade-machine.md και του playstation-portable.md στο gallery
+Ακόμα προστέθηκαν τα playstation-portable.jpg και playstation-portable-thumb.jpg μαζί με arcade-machine.png και arcade-machine-thumb.png στο images 1)https://github.com/giormaster/_gallery/blob/master/arcade-machine.md ,2)https://github.com/giormaster/_gallery/blob/master/playstation-portable.md
 <br />
 3)https://github.com/giormaster/images/blob/master/arcade-machine.jpg / https://github.com/giormaster/images/blob/master/arcade-machine-thumb.jpg
 <br />
 4)https://github.com/giormaster/images/blob/master/playstation-portable.png / https://github.com/giormaster/images/blob/master/playstation-portable-thumb.png
 <br />
-Το arcade machine είναι μια απο τις πρώτες και συμαντικότερες προσπάθειες του ανθρώπου να εξελήξει τον υπολογιστή ως μεσω ψυχαγωγίας,καθώς και να τον μεταφέρει στο ευρήτερο κοινό που δεν μπορούσε να κατέχει δικό του υπολογιστικό σύστημα.Αρκετά χρόνια μετα το playstation-portable ειναι μια παιχνιδοκονσόλα που κατέχει μεγάλη υπολογιστική δύναμη για την εποχή της,αλλα αυτό που την κάνει να ξεχωρίζει ειναι η φωρητηκότητα της,καθως χωράει κυριολεκτικά στα χέρια του χρήστη,το playstation-portable αν και δεν είναι η πρώτη φωρητή κονσόλα,παραμένει αρκετά συμαντική στην τελειοποιηση τους και στην εξέληξη των υπολογιστικών συστημάτων ως μεσα ψυχαγογίας
+Το arcade machine είναι μια απο τις πρώτες και σημαντικότερες προσπάθειες του ανθρώπου να εξελίξει τον υπολογιστή ως μέσο ψυχαγωγίας,καθώς και να τον μεταφέρει στο ευρήτερο κοινό που δεν μπορούσε να κατέχει δικό του υπολογιστικό σύστημα.Αρκετά χρόνια μετά το playstation-portable είναι μια παιχνιδοκονσόλα που κατέχει μεγάλη υπολογιστική δύναμη για την εποχή της,αλλα αυτό που την κάνει να ξεχωρίζει ειναι η φορητότητα της,καθώς χωράει κυριολεκτικά στα χέρια του χρήστη,το playstation-portable αν και δεν είναι η πρώτη φωρητή κονσόλα,παραμένει αρκετά σημαντική στην τελειοποίηση τους και στην εξέλιξη των υπολογιστικών συστημάτων ως μέσα ψυχαγωγίας.
 <br />
 
 # Παραδοτέο_4
-Για το παραδωτεο 4 εγινε η εγκατάσταση του archlinux μέσω usb stick.
-Αρχικά μετέβηκα στην ιστοσελίδα του archlinux:https://archlinux.org/ και απο εκεί κατέβασα το iso αρχείο για την εγκατάσταση,στην συνέχεια δημιούργησα ενα bootable usb και έκανα επανεκκίνηση τον υπολογιστή,έκλεισα το secure boot απο τα bios για να μην αντιμετοπίσω προβλήματα αργότερα και εκανα boot απο το usb stick.
-Απο τις αρχικές επιλογές διάλεξα Arch Linux install medium και μπήκα στο terminal.Για την εγκατάσταση έγγραψα την εντολή python -m archinstall και απο το μενού που εμφανίστηκε ρύθμισα τα partition της εγκατάστασης,ώρα και ημερομηνία,keyboard layout και network.Τελος έφτιαξα το hostname και έναν κωδικό για το root και η εγκατάσταση ξεκίνησε.Οταν το install τελείοσε έκκανα επανεκκίνηση τον υπολογιστή και το terminal λειτουργούσε κανονικα.
+Για το παραδοτέο 4 έγινε η εγκατάσταση του archlinux μέσω usb stick.
+Αρχικά μετέβηκα στην ιστοσελίδα του archlinux:https://archlinux.org/ και απο εκεί κατέβασα το iso αρχείο για την εγκατάσταση,στην συνέχεια δημιούργησα ένα bootable usb και έκανα επανεκκίνηση τον υπολογιστή,έκλεισα το secure boot απο τα bios για να μην αντιμετοπίσω προβλήματα αργότερα και έκανα boot από το usb stick.
+Από τις αρχικές επιλογές διάλεξα Arch Linux install medium και μπήκα στο terminal.Για την εγκατάσταση έγγραψα την εντολή python -m archinstall και απο το μενού που εμφανίστηκε ρύθμισα τα partition της εγκατάστασης,ώρα και ημερομηνία,keyboard layout και network.Τέλος έφτιαξα το hostname και έναν κωδικό για το root και η εγκατάσταση ξεκίνησε.Οταν το install τελείωσε έκανα επανεκκίνηση τον υπολογιστή και το terminal λειτουργούσε κανονικά.
 <br />
 
 # Παραδοτέο_5
-Για το παραδωτεο 5 εγινε προσθηκη του playstation-portable και του arcade-machine στο timeline στην κατηγορια consoles.
+Για το παραδοτέο 5 έγινε προσθήκη του playstation-portable και του arcade-machine στο timeline στην κατηγορία consoles.
 <br />
 https://github.com/giormaster/site/blob/master/_timeline/consoles.md
 <br />
-Στα slides προσθεσα στην κατηγορια videogames το playstation portable και το arcade machine.
+Στα slides πρόσθεσα στην κατηγορία videogames το playstation portable και το arcade machine.
 <br />
 https://github.com/giormaster/site/blob/master/_slides/videogames.md
 <br />
-Το arcade machine και το playstation portable ειναι δυο συμαντικές κονσόλες οι οποιες συνήσφεραν στη εξέληξη του υπολογιστή.Το arcade machine ειναι η πρότη προσπάθεια του ανθρώπου να χρισιμοποιήσει τον υπολογιστή για ψυχαγωγικούς σκοπούς,το playstation portable ακολουθ΄άει την πορεία του arcade machine βελτιόνοντας τον γραφηκό τομέα και προσθέτοντας την φορητηκότητα που προσφέρουν αρκετές υπολογιστικές συσκεβές του σήμερα.
+Το arcade machine και το playstation portable είναι δύο σημαντικές κονσόλες οι οποίες συνείσφεραν στη εξέλιξη του υπολογιστή.Το arcade machine είναι η πρώτη προσπάθεια του ανθρώπου να χρησιμοποιήσει τον υπολογιστή για ψυχαγωγικούς σκοπούς,το playstation portable ακολουθάει την πορεία του arcade machine βελτιώνοντας τον γραφικό τομέα και προσθέτοντας την φορητότητα που προσφέρουν αρκετές υπολογιστικές συσκευές του σήμερα.
 <br />
 # Παραδοτέο_6
-Στο παραδοτέο 6 εγινε η πρώτη κατασκευη του βιβλίου,επέλεξα το κεφάλεο 8 και έκανα εκτεταμένη επεξήγηση του space invader και της σημασίας του στον χώρο των βιντεοπαιχνιδιών
+Στο παραδοτέο 6 έγινε η πρώτη κατασκευή του βιβλίου,επέλεξα το κεφάλαιο 8 και έκανα εκτεταμένη επεξήγηση του space invader και της σημασίας του στον χώρο των βιντεοπαιχνιδιών.
 <br />
 Λινκ για book pdf: https://github.com/giormaster/kallipos/blob/master/book.pdf
 <br />
@@ -93,17 +92,17 @@ https://github.com/giormaster/site/blob/master/_slides/videogames.md
 Λινκ για το md file: https://github.com/giormaster/kallipos/blob/master/Mycontribution/space-invaders.md
 <br />
 # Παραδοτέο_7
-Για το παραδοτεο 7 προσθεσα στο case study του site το arcade-machine-console.md: https://github.com/giormaster/site/blob/master/_case-study/arcade-machine-console.md
+Για το παραδοτέο 7 πρόσθεσα στο case study του site το arcade-machine-console.md: https://github.com/giormaster/site/blob/master/_case-study/arcade-machine-console.md
 <br />
 Στο _include προσθεσα το cs-arcade-machine.md : https://github.com/giormaster/site/blob/master/_includes/cs-arcade-machine.md
 <br />
 # Παραδοτέο_8
-Για το παραδοτέο 8 δημιουργησα σε python με nano ενα μικρό παιχνίδι πέτρα-ψαλίδι-χαρτί μέσω του τερματικού.Με την εντολή nano μπορώ να δω και να επεξεργαστώ τα κομμάτια του κώδικα.Το αρχειο py ονοματηκε rps και με την εντολη python3 rps.py τρεχω το παιχνιδι.
-Στο συγκεκριμένο asciinema τρέχω την εντολή python3 rps.py | tee output.txt, αυτη η εντολή θα τρέξει το παιχνίδι και μέσω pipeline θα διμιουργίσει ενα αρχείο output.txt και θα γράψει ολα τα prints του προγράμματος
+Για το παραδοτέο 8 δημιούργησα σε python με nano ένα μικρό παιχνίδι πέτρα-ψαλίδι-χαρτί μέσω του τερματικού.Με την εντολή nano μπορώ να δω και να επεξεργαστώ τα κομμάτια του κώδικα.Το αρχείο py ονομάστηκε rps και με την εντολή python3 rps.py τρέχω το παιχνίδι.
+Στο συγκεκριμένο asciinema τρέχω την εντολή python3 rps.py | tee output.txt, αυτή η εντολή θα τρέξει το παιχνίδι και μέσω pipeline θα δημιουργίσει ένα αρχείο output.txt και θα γράψει ολα τα prints του προγράμματος.
 <br />
 asciinema link: https://asciinema.org/a/u7kQdDbClXcn05Br2Jv1Sabnl
 <br />
-Το rock-paper-scissors ειναι ενα απο τα ποιο κλασσικα και διαχρονικα παιχνιδια.Η μεταφορα του στους υπολογιστες εχει γινει με διαφορες παρα΄λαγες και ειναι μια απο τις πρωτες προσπαθειες του ανθρωπου για την ψηφιοποιηση παιχνιδιων.Μεσα στο παιχνιδι ο χρηστης πεζει αντιπαλος με τον υπολογιστη και νηκιτης ειναι αυτος που θα παει προτος στις 3 νικες.Τετοιες εφαρμογες φερνουν την διαδραση με τον υπολογιστη σε ευρητερο και την καθηστουν ποιο ευχαριστη. 
+Το rock-paper-scissors είναι ένα από τα πιο κλασσικά και διαχρονικά παιχνίδια.Η μεταφορά του στους υπολογιστές έχει γίνει με διάφορες παραλαγές και είναι μια από τις πρώτες προσπάθειες του ανθρώπου για την ψηφιοποίηση παιχνιδιών.Μέσα στο παιχνίδι ο χρήστης παίζει αντίπαλος με τον υπολογιστή και νικητής είναι αυτός που θα πάει πρώτος στις 3 νίκες.Τέτοιες εφαρμογές φέρνουν την διάδραση με τον υπολογιστή σε ευρήτερο κοινό και την καθιστούν πιο ευχάριστη. 
 
 
 
