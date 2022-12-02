@@ -65,7 +65,7 @@
 
 
 - [`Pull Request στον οργανισμό της ομάδας - gallery`](https://github.com/The4Beasts/_gallery/pull/2)
-- [`Pull Request προς τον οργανισμό της ομάδας - images`](https://github.com/The4Beasts/images/pull/3)
+- [`Pull Request προς τον οργανισμό της ομάδας - images`](https://github.com/The4Beasts/images/pull/1)
 - [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
  Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
