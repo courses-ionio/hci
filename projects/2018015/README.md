@@ -107,6 +107,8 @@
 
 :white_small_square: Χρονολόγιο: **[Πολυμεσικά Συστήματα](https://organization--efthimis015.netlify.app//timeline/multimedia/)**
 
+<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/walkman-screen.png" width= 335/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/walkman-screen2.png" width= 110/>
+ 
 ## 👽Παραδοτέο 6 | Κατασκευή του βιβλίου Α
 
 **Παρακάτω βρίσκονται οι αλλαγές που πραγματοποιήθηκαν:**
