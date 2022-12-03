@@ -41,7 +41,7 @@
 
 
 
-<a href="https://asciinema.org/a/532642"><img src="https://asciinema.org/a/532642.png" width="500"/></a>
+<a href="https://asciinema.org/a/532642"><img src="https://asciinema.org/a/532642.png" width="300"/></a>
 
 
 ## 👽Παραδοτέο 3 | Συμμετοχικό περιεχόμενο - Α1
@@ -83,13 +83,13 @@
 
 Μερικά **screenshots** από την εγκατάσταση του λογισμικού:
 
-<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/GitHub-Profile.png" width= 600/>
+<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/GitHub-Profile.png" width= 400/>
 
 
 
 
 
-<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Terminal-screenshot.png" width= 600/>
+<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Terminal-screenshot.png" width= 400/>
 
 ## 👽Παραδοτέο 5 | Συμμετοχικό περιεχόμενο - Α2
 
@@ -127,7 +127,7 @@
 
 **Το **Screenshot** από την προσθήκη που επέλεξα να κάνω.**
 
-<img src= "https://github.com/Efthimis015/kallipos/blob/master/Technology-crop.png" width= 600/>
+<img src= "https://github.com/Efthimis015/kallipos/blob/master/Technology-crop.png" width= 400/>
 
 
 ## 👽Παραδοτέο 7 | Συμμετοχικό περιεχόμενο - B1
@@ -171,7 +171,14 @@ To Mp3 είναι η πιο δημοφιλής μέθοδος κωδικοποί
 
 ## 👽Παραδοτέο 9 | Συμμετοχικό περιεχόμενο - B2
 
-**Σε αυτό το παραδοτέο ασχολήθηκα με την βιογραφία του Karlheinz Brandenburg. Διάλλεξα αυτό το θέμα καθώς ταιριάζει πολύ με το περιέχομενο του [προηγούμενου παραδοτέου](https://github.com/Efthimis015/hci/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7--%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF---b1)**
+**Σε αυτό το παραδοτέο ασχολήθηκα με την βιογραφία του Karlheinz Brandenburg. Διάλλεξα αυτό το θέμα καθώς ταιριάζει πολύ με το περιέχομενο του [προηγούμενου παραδοτέου](https://github.com/Efthimis015/hci/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7--%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF---b1).**
 
 <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_1.png" width= 150/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_2.png" width= 147/>
 
+**Link από την βιβλιογραφία που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:**
+
+* [**Fraunhofer IIS:** *Prof. Dr.-Ing. Karlheinz Brandenburg*](https://www.mp3-history.com/en/the_mp3_team.html)
+
+* [**WIKI:** *Karlheinz Brandenburg*](https://en.wikipedia.org/wiki/Karlheinz_Brandenburg)
+
+* [**Npr:** *The MP3: A History Of Innovation And Betrayal*](https://www.npr.org/sections/therecord/2011/03/23/134622940/the-mp3-a-history-of-innovation-and-betrayal)
