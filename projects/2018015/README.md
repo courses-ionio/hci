@@ -2,7 +2,7 @@
 
 ## Προσωπικά στοιχεία
 
-  <img src="https://github.com/Efthimis015/use-dark-mode/blob/develop/circle-cropped%20(1).png" width="75"/>
+  <img src="https://github.com/Efthimis015/use-dark-mode/blob/develop/circle-cropped%20(1).png" width="95"/>
 
 #### Ονοματεπώνυμο: **Τζιάλλας Ευθύμιος**
 
