@@ -131,7 +131,7 @@
 
 **Το **Screenshot** από την προσθήκη που επέλεξα να κάνω.**
 
-<img src= "https://github.com/Efthimis015/kallipos/blob/master/Technology-crop.png" width= 400/>
+<img src= "https://github.com/Efthimis015/kallipos/blob/master/Technology-crop.png" width= 300/>
 
 
 ## 👽Παραδοτέο 7 | Συμμετοχικό περιεχόμενο - B1
@@ -156,7 +156,7 @@
 **Όλοι έχουμε χρησιμοποιήσει αρχεία Mp3, στον υπολογιστή, το κινητό, το αυτοκίνητο, ή σε κάποιο Mp3 Player. Έχουμε όμως αναρωτηθεί τι ακριβώς είναι το Mp3, και πώς έφερε επανάσταση στον τρόπο που ακούμε τη μουσική μας?
 To Mp3 είναι η πιο δημοφιλής μέθοδος κωδικοποίησης ψηφιακού ήχου. Μειώνει σημαντικά τον όγκο σε Megabyte των αρχείων μουσικής και ήχου, με μικρή έως καθόλου ακουστή απώλεια στην ποιότητα του ήχου.**
 
-<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/mp33.png" width= 300/>
+<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/mp33.png" width= 200/>
 
 **Link από την βιβλιογραφία που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:**
 
