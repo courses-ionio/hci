@@ -165,3 +165,9 @@ To Mp3 είναι η πιο δημοφιλής μέθοδος κωδικοποί
 * [**Npr:** *The MP3: A History Of Innovation And Betrayal*](https://www.npr.org/sections/therecord/2011/03/23/134622940/the-mp3-a-history-of-innovation-and-betrayal)
 
 
+👽Παραδοτέο 9 | Συμμετοχικό περιεχόμενο - B2
+
+**Σε αυτό το παραδοτέο ασχολήθηκα με την βιογραφία του Karlheinz Brandenburg. Διάλλεξα αυτό το θέμα καθώς ταιριάζει πολύ με το περιέχομενο του [προηγούμενου παραδοτέου]()
+
+
+
