@@ -143,7 +143,7 @@
 ### Netlify:
 * **[History of mp3](https://organization--efthimis015.netlify.app/case-study/mp3/#fnref:1)**
 
-<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/mp3-1" width= 150/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/mp3-2" width= 150/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/mp3-3" width= 150/>
+<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/mp3-1.png" width= 161/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/mp3-2.png" width= 163/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/mp3-3.png" width= 170/>
 
 
 
