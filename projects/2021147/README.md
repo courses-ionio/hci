@@ -182,7 +182,7 @@
 
 ## Οι πηγές μου από τις οποίες άντλισσα τις πληροφορίες:
 
-  - [Ibook Wikipeida](https://en.wikipedia.org/wiki/IBook)
+  - [Ibook Wikipedia](https://en.wikipedia.org/wiki/IBook)
   - [Ibook ComputerHope](https://www.computerhope.com/jargon/i/ibook.htm)
   - [Differences between Ibook-Powerbook](http://www.differencebetween.net/object/gadgets-object/difference-between-apple-ibook-and-powerbook/)
   - [Powerbook vs Ibook](https://lowendmac.com/2012/12-powerbook-vs-ibook-is-there-really-a-difference/)
@@ -206,6 +206,13 @@
 => [case-study includes](https://github.com/PanMour/site/blob/master/_includes/cs-plato.md)
 
 ## Οι πηγές μου από τις οποίες άντλισσα τις πληροφορίες:
+  - [Wikipedia](https://en.wikipedia.org/wiki/PLATO_(computer_system))
+  - [britannica](https://www.britannica.com/topic/PLATO-education-system)
+  - [gametechwiki](https://emulation.gametechwiki.com/index.php/PLATO_Computer_System)
+  - [distributedmuseum](https://distributedmuseum.illinois.edu/exhibit/plato/)
+  - [idhistory](http://faculty.coe.uh.edu/smcneil/cuin6373/idhistory/plato.html)
+  - [immagic](https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/WIKIPEDI/W130609P.pdf)
+  - [youtube](https://www.youtube.com/watch?v=tTmWcGhlXqA)
   
 # Παραδοτέο 8ο:
 ## Άσκηση Γραμμής Εντολών
@@ -233,3 +240,15 @@
   - [includes](https://github.com/PanMour/site/blob/master/_includes/bio-donald-bitzer.md)
 ### Η βιβλιογραφία στο Netlify:
   - [biography](https://panmour.netlify.app//biography/donald-bitzer/)
+
+## Οι πηγές μου από τις οποίες άντλισσα τις πληροφορίες:
+  - https://computerhistory.org/profile/donald-bitzer/
+  - https://en.wikipedia.org/wiki/Donald_Bitzer
+  - https://grainger.illinois.edu/alumni/hall-of-fame/donald-bitzer
+  - https://grainger.illinois.edu/alumni/distinguished/9301
+  - https://www.invent.org/inductees/donald-l-bitzer
+  - http://distributedmuseum.blogspot.com/p/blog-page_22.html
+  - https://www.historyofinformation.com/detail.php?id=1385
+  - https://www.youtube.com/watch?v=THoxsBw-UmM#t=43m9s
+  - https://ece.illinois.edu/newsroom/news/3307
+
