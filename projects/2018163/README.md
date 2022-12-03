@@ -58,7 +58,7 @@
 
 <p>Παρακάτω φαίνεται τα links απο το Netlify τόσο από το δικό μου site όσο και της ομάδας μου:
  
-  - [`My Site`](https://master--imaginative-arithmetic-9ab583.netlify.app/)
+  - [`My Site`](https://vasdekis.netlify.app/)
   - [`The4Beasts Site`]()
  
 Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
