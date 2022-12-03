@@ -173,6 +173,15 @@ To Mp3 είναι η πιο δημοφιλής μέθοδος κωδικοποί
 
 **Σε αυτό το παραδοτέο ασχολήθηκα με την βιογραφία του Karlheinz Brandenburg. Διάλλεξα αυτό το θέμα καθώς ταιριάζει πολύ με το περιέχομενο του [προηγούμενου παραδοτέου](https://github.com/Efthimis015/hci/blob/2018015/projects/2018015/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7--%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF---b1).**
 
+### Παρακάτω βρίσκονται τα link από τη βιογραφία μου για GitHub & Netlify
+
+### GitHub:
+* **[_includes](https://github.com/Efthimis015/site/blob/organization/_includes/bio-brandenburg.md)**
+* **[_biography](https://github.com/Efthimis015/site/blob/organization/_biography/karlheinz-brandenburg.md)**
+
+### Netlify:
+* **[Karlheinz Brandenburg](https://efthimis015.netlify.app/biography/karlheinz-brandenburg/)**
+
 <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_1.png" width= 150/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_2.png" width= 147/>
 
 **Link από την βιβλιογραφία που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:**
