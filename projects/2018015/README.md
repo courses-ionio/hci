@@ -70,6 +70,10 @@
 
 * **[Oakley](https://efthimis015.netlify.app/gallery/oakley/)**
 
+
+
+<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/walkman-11.png" width= 200/>
+
 ## 👽Παραδοτέο 4 | Ασκήσεις γραμμής εντολών (warm up)
 
 **Σε αυτό το παραδοτέο έγινε η εγκατάσταση του λογισμικού σε αληθινό περιβάλλον και η εκτέλεση κάποιων ασκήσεων γραμμής εντολών** **warm up**.
