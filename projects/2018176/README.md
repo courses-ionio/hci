@@ -68,6 +68,8 @@
 
 ## Παραδοτέο 7
 Σε αυτό το παραδοτέο έγινε μελέτη περίπτωσης σχετικά με τα Arch Linux.
+[Netlify Arch Linux cs](https://famous-faun-a7c70a.netlify.app/case-study/archlinux/)
+[Link Discussions](https://github.com/courses-ionio/help/discussions/1703)
 
 ![PhotoArch](https://user-images.githubusercontent.com/93882637/204091935-c032da42-ec91-45ff-bd03-a140d27e955d.png)
 
@@ -84,6 +86,7 @@
 Σε αυτό το παραδοτέο προστέθηκε στον ιστότοπο του βιβλίου, η βιογραφία του Peter Norton (Norton Commander, IBM PC programmer, Norton, Computing Inc etc.)
 
 [Netlify](https://famous-faun-a7c70a.netlify.app/biography/peter-norton/)
+[Link Discussions](https://github.com/courses-ionio/help/discussions/1767)
 
 ![Screenshot 2022-11-26 at 15 47 11](https://user-images.githubusercontent.com/93882637/204092302-8be3969e-6ad6-4a47-978e-c4c5664570e8.png)
 
@@ -102,4 +105,4 @@
 [make-latex.sh](https://github.com/p18balt/kallipos/blob/master/make-latex.sh)
 [Repository](https://github.com/p18balt/kallipos)
 [book.epub](https://github.com/p18balt/kallipos/blob/master/book/book.epub)
-[Discussions Link](https://github.com/courses-ionio/help/discussions/1768)
+[Link Discussions](https://github.com/courses-ionio/help/discussions/1768)
