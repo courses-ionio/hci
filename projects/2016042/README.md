@@ -14,7 +14,7 @@
 | 6 | Κατασκευή του βιβλίου Α | [Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1622)| Ολοκλήρωση των ζητούμενων του παραδοτέου |
 | 7 | Συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1642) | Ολοκλήρωση των ζητούμενων του παραδοτέου |
 | 8 | Άσκηση γραμμής εντολών | [Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1770) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 9 | Συμμετοχικό περιεχόμενο B2 | [Παραδοτέο 9](https://github.com/courses-ionio/help/discussions/1853) | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -101,3 +101,15 @@ Netlify:
  Για το Παραδοτέο 8 χρειάστηκε να φτιάξω ένα script το οποίο το ονόμασα `chformat.sh` (change format) όπου μετατρέπει όλα τα markdown αρχεία ενός φακέλου σε μορφή pdf και docx. Ο λόγος που έφτιαξα αυτό το script ήταν το να μπορώ να μετατρέπω την αναφορά μου στο μάθημα στις παραπάνω μορφές με αυτοματοποιημένο τρόπο. Ο τρόπος με τον οποίο γίνεται η μετατροπή σε άλλες μορφες είναι με τη χρήση δύο εντολών pandoc που τρέχουν μέσα σε ένα for loop. Παρακάτω βρίσκονται τα links του asciinema και του script, για το οποίο έφτιαξα ξεχωριστό αποθετήριο στο github μου που το ονόμασα Paradoteo8:
  - [asciinema](https://asciinema.org/a/540550)
  - [script](https://github.com/MarAkar98/Paradoteo8/blob/main/chformat.sh)
+ 
+ # Παραδοτέο 9
+ Σε αυτό το παραδοτέο έγραψα τη βιογραφία του Bill Hewlett, ο οποίος ήταν ένας από τους ιδρυτές της μεγάλης εταιρίας ηλεκτρονικών και υπολογιστών Hewlett-Packard. Παρακάτω παραθέτω τα λινκ από τα αρχεία του αποθετηρίου μου 
+και του pull request για το 7ο και το 9ο παραδοτέο. Θα γίνουν βελτιώσεις εαν χρειαστεί:
+- [bio-hewlett.md](https://github.com/MarAkar98/site/blob/master/_includes/bio-hewlett.md)
+- [bill-hewlett.md](https://github.com/MarAkar98/site/blob/master/_biography/bill-hewlett.md)
+- [Pull Request](https://github.com/Unixidized/site/pull/10)
+
+### Πηγές:
+- https://www.computer.org/profiles/william-hewlett
+- https://www.britannica.com/biography/William-Hewlett
+- https://en.wikipedia.org/wiki/Bill_Hewlett
