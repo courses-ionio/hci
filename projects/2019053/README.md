@@ -204,6 +204,28 @@
 
 <br /><br />
 
+## Εβδομάδα Έβδομη - Συμμετοχικό περιεχόμενο Β1
+
+<br />
+
+### Επιλογή Θέματος
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Το θέμα που επέλεξα ήταν το [X Window System](https://aimiliospavlidis2001-site-hci-1.netlify.app/case-study/x-window-system/) ένα σύστημα που συντελεί στη δημιουργία παραθύρων σε ένα υπολογιστικό περιβάλλον. Επέλεξα το συγκεκριμένο θέμα επειδή τα λογισμικά γύρω από τη **γραφική διεπαφή** μου διεγείρουν το ενδιαφέρον. Αυτός είναι και ο λόγος που στο [Παραδοτέο 3](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%84%CF%81%CE%AF%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1) ασχολήθηκα με το λογισμικό KDE. Στην έρευνά μου σχετικά με πιο θέμα να ασχοληθώ, συνάντησα [αυτό](https://www.youtube.com/watch?v=cj02_UeUnGQ) το βίντεο που εξηγούσε την ιστορία του X Window System και αποφάσισα να γράψω μία μελέτη περίπτωσης για αυτό.
+
+
+
+
+
+
+
+
+
+
+
+<br /><br />
+
 ## Εβδομάδα Όγδοη - Άσκηση Γραμμής Εντολών (Static Site)
 
 <br />
