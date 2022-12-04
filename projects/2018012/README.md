@@ -13,7 +13,7 @@
 | 6 | Κατασκευή του βιβλίου Α |[λινκ παραδοτέου 6](https://github.com/courses-ionio/help/discussions/1842) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 |[λινκ παραδοτέου 7](https://github.com/courses-ionio/help/discussions/1695) | |
 | 8 | Άσκηση γραμμής εντολών |[λινκ παραδοτέου 8](https://github.com/courses-ionio/help/discussions/1776) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 9 | Συμμετοχικό περιεχόμενο B2 |[λινκ παραδοτέου 9](https://github.com/courses-ionio/help/discussions/1856) | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
