@@ -129,7 +129,14 @@
 
 # Παραδοτέο 11
 
----
+Για το παραδοτέο 11 έκανα το βιβλίο σε μορφή PDF και προσέθεσα το case-study για το AmigaOS και τη βιογραφία του Daniel Fylstra.
+
+[EPUB](https://github.com/voltmaister/kallipos/blob/master/book/book.epub)
+
+![image](https://user-images.githubusercontent.com/45509916/205517289-380a68b4-a16a-4c9b-9573-4bb3820c64f8.png)
+![image](https://user-images.githubusercontent.com/45509916/205517306-fb069942-ff3e-4135-aa57-6788a96ca872.png)
+
+
 
 # Παραδοτέο 12
 
