@@ -13,7 +13,7 @@
 | 8 | [Άσκηση γραμμής εντολών](#παραδοτέο-8) | [discussion](https://github.com/courses-ionio/help/discussions/1830) | |
 | 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) | [discussion](https://github.com/courses-ionio/help/discussions/1832) | |
 | 10 | [Άσκηση γραμμής εντολών](#παραδοτέο-10) | [discussion](https://github.com/courses-ionio/help/discussions/1844) | |
-| 11 | [Κατασκευή του βιβλίου Β](#παραδοτέο-11) | | |
+| 11 | [Κατασκευή του βιβλίου Β](#παραδοτέο-11) | [discussion](https://github.com/courses-ionio/help/discussions/1857) | |
 | 12 | [Τελική αναφορά* ](#παραδοτέο-12) | | |
 
 # Παραδοτέο 1
