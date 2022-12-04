@@ -247,6 +247,18 @@ _Το παραδοτεό αυτό βασίζεται στις προσθήκες
 
 [Go to the top](#go-to-the-top-mark-point)
 
+## ΠΑΡΑΔΟΤΕΟ 9 - Συμμετοχικό περιεχόμενο Β2
+
+Σε αυτό το παραδοτέο δημιούργησα τη βιογραφία του George E. Gerpheide, ο όποιος δημιούργησε το touchpad και το ενσωμάτωσε στο υπολογιστικό σύστημα του Apollo DN330. Η συνεργασία που είχε ο Gerpheide με την Apple ήταν η αρχή για τη διάδωση της τεχνολογίας του touchpad, η οποία υιοθετήθηκε και από άλλες εταιρείες για κάθε φορητό υπολογιστή. Ο Gerpheide ήθελε να δημιουργήσει μία εναλλακτική μορφή ποντικιού με αρχικό στόχο την εύκολη φορητότητά του, και έπειτα ήθελε να δημιουργήσει μία τεχνολογία η οποία θα ανέπτυσσε μία πιο φυσική διεπαφή στη σχέση ανθρώπου υπολογιστή.
+
+[_biography/george-gerpheide.md](https://github.com/FaidonTsetsis/site/blob/master/_biography/george-gerpheide.md)
+
+[_includes/bio-gerpheide.md](https://github.com/FaidonTsetsis/site/blob/master/_includes/bio-gerpheide.md)
+
+[vercel ατομικό δοκιμαστικό](https://site-11e9.vercel.app/biography/george-gerpheide/)<br><br>
+
+[Go to the top](#go-to-the-top-mark-point)
+
 ## Ομαδικότητα και Συνεργασία
 - Επεξήγηση οδηγιών σε λάθος άνοιγμα Pull Request από κάποιον συμφοιτητή μου: [Fail Pull Request](https://github.com/courses-ionio/hci/pull/1820)
 
