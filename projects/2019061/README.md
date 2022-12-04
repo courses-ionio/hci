@@ -124,12 +124,12 @@ e-mail: p19tila@ionio.gr <br/>
 
 <h1 align="center">Κατασκευή του βιβλίου Α</h1>
 <br/>
+<br/>
 
+![alt text](https://github.com/tilav/book_images/blob/main/book_screenshot.png)
 
-
-
-
-
+<br/>
+<br/>
 
 
 <h1 align="center">Βίντεο Κουίζ </h1>
@@ -147,4 +147,4 @@ e-mail: p19tila@ionio.gr <br/>
 | 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 |<p align = "center">✅</p>|<p align = "center">✅</p>|
 | 7 | Oral History of Douglas Engelbart |<p align = "center">✅</p>|<p align = "center">✅</p>|
 | 8 | Engelbart's Unfinished Revolution 1998 Session IV |<p align = "center">✅</p>|<p align = "center">✅</p>|
-
+| 9 | Dynabook: The Complete Story |<p align = "center">✅</p>|<p align = "center">✅</p>|
