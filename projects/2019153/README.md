@@ -119,6 +119,12 @@
 
 </div>
 
+Πηγές:
+[Byte Magazine](https://archive.org/details/byte-magazine-1978-03/page/n115/mode/2up?view=theater)
+[Time](https://web.archive.org/web/20060928211008/http://www.time.com/time/magazine/article/0,9171,921076-2,00.html)
+[Byte Magazine](https://archive.org/details/byte-magazine-1978-04/page/n49/mode/2up?view=theater)
+[VisiCalc and VisiOn](https://history-computer.com/visicalc-of-dan-bricklin-and-bob-frankston-guide/)
+
 # Παραδοτέο 10
 
 Για το  παραδοτέο 10 εμπνεύστηκα από τους [odysseasEko](https://github.com/odysseasEko/) και [alxikan](https://github.com/alxikan/) και έφτιαξα και εγώ ένα μενού το οποίο μετατρέπει το αρχείο σε HTML και PDF με ένα πολύ απλό script το οποίο έχω αποθυκεύσει σε ένα άλλο repository όπου κρατάω γενικά τα script του συστήματος μου. 
