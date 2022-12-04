@@ -78,7 +78,7 @@
 
 [Repository url](https://github.com/p18balt/bash)
 
-[asciinema Link](https://asciinema.org/a/OznbnZJhyhJOADke67H2eNI3c)
+![asciicast](https://asciinema.org/a/OznbnZJhyhJOADke67H2eNI3c.svg)
 
 [Link Discussions](https://github.com/courses-ionio/help/discussions/1833)
 
@@ -93,7 +93,7 @@
 ## Παραδοτέο 10
 Χρησιμοποιήθηκε το εργαλείο groff για να δημιουργηθεί ένα document που έχει πάνω αριστερά το όνομα μου και τον ΑΜ (με αριστερή σύνταξη) και επείτα από κάτω και στο κεντρό του κειμένου ο τίτλος "Ionian University Hci Course" και έγινε η αποθήκευση του παραάνω εγγράφου σε αρχείο με όνομα outputhci.
 
-[Link Asciinema](https://asciinema.org/a/0biaYoCa35xXULAT0zdkUuJgN)
+![asciicast](https://asciinema.org/a/0biaYoCa35xXULAT0zdkUuJgN.svg)
 
 [Link Discussions](https://github.com/courses-ionio/help/discussions/1834)
 
