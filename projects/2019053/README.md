@@ -214,7 +214,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Το θέμα που επέλεξα ήταν το [X Window System](https://aimiliospavlidis2001-site-hci-1.netlify.app/case-study/x-window-system/) ένα σύστημα που συντελεί στη δημιουργία παραθύρων σε ένα υπολογιστικό περιβάλλον. Επέλεξα το συγκεκριμένο θέμα επειδή τα λογισμικά γύρω από τη **γραφική διεπαφή** μου διεγείρουν το ενδιαφέρον. Αυτός είναι και ο λόγος που στο [Παραδοτέο 3](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%84%CF%81%CE%AF%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1) ασχολήθηκα με το λογισμικό KDE. Στην έρευνά μου σχετικά με πιο θέμα να ασχοληθώ, συνάντησα [αυτό](https://www.youtube.com/watch?v=cj02_UeUnGQ) το βίντεο που εξηγούσε την ιστορία του X Window System και αποφάσισα να γράψω μία μελέτη περίπτωσης για αυτό.
 
+<br />
 
+### Βήματα Υλοποίησης
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Για το **Παραδοτέο 7** έπειτα από την επιλογή του θέματος, ασχολήθηκα με την κατανόηση της λειτουργίας των φακέλων στο **site**. Συνειδητοποίησα πως πρέπει να δημιουργήσω ένα αρχείο στο **case-study**, στο **includes**, στο **includes/extras** και να ενσωματώσω τις απαραίτητες εικόνες στο **images**. Έπειτα από αυτό δημιούργησα ένα branch με το όνομα **pull_branch_paradoteo7**, όπου πέρασα όλες τις αλλαγές για τα αιτήματα ενσωμάτωσης στον οργανισμό μου.
+
+<br />
+
+| Pull Requests | Netlify |
+| --- | --- |
+| [Pull Request για το site](https://github.com/TEAM11234/site/pull/4) | [Netlify X Window System](https://aimiliospavlidis2001-site-hci-1.netlify.app/case-study/x-window-system/)  |
+| [Pull Request για το images](https://github.com/TEAM11234/images/pull/6) |  |
+| [Pull Request για το extras](https://github.com/TEAM11234/extras/pull/1) |  |
 
 
 
@@ -296,6 +310,9 @@
 #### Έκτο Παραδοτέο
  - [guide συμφοιτητών 1](https://github.com/Second-Time-Is-The-Charm/Main/discussions/11)
  - [guide συμφοιτητών 2](https://github.com/courses-ionio/help/discussions/1597)
+#### Έβδομο Παραδοτέο
+ - [βίντεο ιστορίας X Window System](https://www.youtube.com/watch?v=cj02_UeUnGQ)
+ - [wikipedia X Window System](https://en.wikipedia.org/wiki/X_Window_System)
 #### Όγδοο Παραδοτέο
  - [βοήθεια βίντεο](https://www.youtube.com/watch?v=Efk2M77naFU)
  - [βοήθεια εγκατάστασης google chrome](https://www.itzgeek.com/how-tos/linux/arch-linux/how-to-install-google-chrome-on-arch-linux.html)
