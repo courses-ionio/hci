@@ -45,6 +45,8 @@ asciinema link: https://asciinema.org/a/TsRLr9IgszSTONBMgpe5NPhgu
 
 Συμμετοχικό υλικό - Α1 .
 
+Προσθήκη δύο νέων εικονών με θέμα την εικονική βοηθό siri και της μηχανής VersaBraille.
+
 - Markdown files.
 
 https://github.com/AnTonyPapako/_gallery/blob/2018158/siri.md
@@ -120,6 +122,8 @@ https://github.com/AnTonyPapako/site/blob/2018158/_case-study/siri-iui.md
 **assignment:** track your time with a simple journal
 
 **deliverables:** -
+
+asciinema link: https://asciinema.org/a/EyEfqGbGljFVDaw8ZqQaEW6rG
 
 Αφού πραγματοποιήθηκε εγκατάσταση της εφαρμογής ***jrnl***, υλοποιήθηκε τότε ένα μικρό παράδειγμα της δυνατότηας που παρέχεται μέσω της εφαρμογής με την καταγραφή των γεγονώτων και των αρμοδιοτήτων που συνέβει την προηγούμενη, την τωρινή και την επόμενη μέρα ```jrnl ημέρα: τίτλος. κείμενο.```. Έπειτα με την εντολή ```jrnl -n νούμερο``` εμφανίστηκαν οι τελευταίες **n** καταγραφές του ημερολογίου, ενώ μέσω της ```jnrl --delete``` διαγράφθηκαν κάποιες καταχωρήσεις που είχαν αποθηκευτεί στο ημερολόγιο. Τέλος με την εντολή ```jrnl -on ημέρα``` εμφανίστηκε η καταχώρηση της ημέρας που επιλέχθηκε.
 
