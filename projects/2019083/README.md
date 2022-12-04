@@ -9,8 +9,8 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, GitHub profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609) |[Εισαγωγή](https://github.com/courses-ionio/help/discussions/837), [Ομάδα](https://github.com/Second-Time-is-the-Charm) |  |
-| 2 | [Άσκηση γραμμής εντολών (Linux install)](https://github.com/NickLitharis/hci/tree/2019083/projects/2019083#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2) |[Arch Linux logs](https://github.com/courses-ionio/help/discussions/1033) |  |
-| 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/NickLitharis/hci/edit/2019083/projects/2019083/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3) | [Link](https://github.com/courses-ionio/help/discussions/1161) |  |
+| 2 | [Άσκηση γραμμής εντολών (Linux install)](#Παραδοτέο-2) |[Arch Linux logs](https://github.com/courses-ionio/help/discussions/1033) |  |
+| 3 | [Συμμετοχικό περιεχόμενο A1](#Παραδοτέο-3) | [Link](https://github.com/courses-ionio/help/discussions/1161) |  |
 | 4 | [Άσκηση γραμμής εντολών](https://github.com/NickLitharis/hci/edit/2019083/projects/2019083/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4) | [warm up cli](https://github.com/courses-ionio/help/discussions/1302) |  |
 | 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/NickLitharis/hci/edit/2019083/projects/2019083/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5) | [Link](https://github.com/courses-ionio/help/discussions/1482) |  |
 | 6 | [Κατασκευή του βιβλίου Α](https://github.com/NickLitharis/hci/edit/2019083/projects/2019083/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-6) | [Link](https://github.com/courses-ionio/help/discussions/1537) |  |
