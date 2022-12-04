@@ -79,5 +79,15 @@
 3. Βιβλίο από το Project Gutenberg![Βιβλίο από το Project Gutenberg](https://i.ibb.co/DtFz6Qp/The-Abounding-American.png)
 
 ## Συμμετοχικό περιεχόμενο B2
+Για την ένατη εβδομάδα έπρεπε να γράψουμε μια βιογραφία σε σχέση με τα προηγούμενα παραδοτέα. Επέλεξα να γράψω για τον Palmer Luckey δημιουργώ της Oculus. Το διάστημα που ο Palmer δούλεψε στην Oculus τελειοποίησε το Oculus rift το οποίο είχε ξεκινήσει σαν πρωτότυπο και δημιούργησε τα Oculus touch controlers μια συσκευή που σε συνδυασμό με το rift σου δίνει μια ολοκληρωμένη VR εμπύρια. Η επιλογή αυτή έγινε γιατί η συγκεκριμένη συσκευή ήταν αυτή που με κινητοποίησε να ασχοληθώ περισσότερο με την VR τεχνολογία.
+
 ### Pull Requests
+1. [site](https://github.com/Invicta-Ionian-Hci/site/pull/17)
+2. [images](https://github.com/Invicta-Ionian-Hci/images/pull/22)
+
+
 ### Πήγες
+1. [Meant to be seen](https://www.mtbs3d.com/phpbb/viewtopic.php?t=14777)
+2. [Anduril](https://www.anduril.com/leadership/)
+3. [The blog of Palmer Luckey](https://palmerluckey.com/if-you-die-in-the-game-you-die-in-real-life/)
+4. [Wikipedia](https://en.wikipedia.org/wiki/Palmer_Luckey)
