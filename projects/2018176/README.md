@@ -78,6 +78,8 @@
 
 [asciinema Link](https://asciinema.org/a/OznbnZJhyhJOADke67H2eNI3c)
 
+[Link Discussions](https://github.com/courses-ionio/help/discussions/1833)
+
 ## Παραδοτέο 9
 Σε αυτό το παραδοτέο προστέθηκε στον ιστότοπο του βιβλίου, η βιογραφία του Peter Norton (Norton Commander, IBM PC programmer, Norton, Computing Inc etc.)
 
@@ -100,3 +102,4 @@
 [make-latex.sh](https://github.com/p18balt/kallipos/blob/master/make-latex.sh)
 [Repository](https://github.com/p18balt/kallipos)
 [book.epub](https://github.com/p18balt/kallipos/blob/master/book/book.epub)
+[Discussions Link](https://github.com/courses-ionio/help/discussions/1768)
