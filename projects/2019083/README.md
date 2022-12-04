@@ -11,15 +11,15 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609) |[Εισαγωγή](https://github.com/courses-ionio/help/discussions/837), [Ομάδα](https://github.com/Second-Time-is-the-Charm) |  |
 | 2 | [Άσκηση γραμμής εντολών (Linux install)](#Παραδοτέο-2) |[Arch Linux logs](https://github.com/courses-ionio/help/discussions/1033) |  |
 | 3 | [Συμμετοχικό περιεχόμενο A1](#Παραδοτέο-3) | [Link](https://github.com/courses-ionio/help/discussions/1161) |  |
-| 4 | [Άσκηση γραμμής εντολών](https://github.com/NickLitharis/hci/edit/2019083/projects/2019083/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4) | [warm up cli](https://github.com/courses-ionio/help/discussions/1302) |  |
-| 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/NickLitharis/hci/edit/2019083/projects/2019083/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5) | [Link](https://github.com/courses-ionio/help/discussions/1482) |  |
-| 6 | [Κατασκευή του βιβλίου Α](https://github.com/NickLitharis/hci/edit/2019083/projects/2019083/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-6) | [Link](https://github.com/courses-ionio/help/discussions/1537) |  |
-| 7 | [Συμμετοχικό περιεχόμενο B1](https://github.com/NickLitharis/hci/edit/2019083/projects/2019083/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7) | [Link](https://github.com/courses-ionio/help/discussions/1591) |  |
-| 8 | Άσκηση γραμμής εντολών | [Link](https://github.com/courses-ionio/help/discussions/1658) |  |
-| 9 | Συμμετοχικό περιεχόμενο B2 | [Link](https://github.com/courses-ionio/help/discussions/1681) |  |
-| 10 | Άσκηση γραμμής εντολών | [Link](https://github.com/courses-ionio/help/discussions/1736) |  |
-| 11 | Κατασκευή του βιβλίου Β | [Link](https://github.com/courses-ionio/help/discussions/1737) |  |
-| 12 | Τελική αναφορά* | | |
+| 4 | [Άσκηση γραμμής εντολών](#Παραδοτέο-4) | [warm up cli](https://github.com/courses-ionio/help/discussions/1302) |  |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#Παραδοτέο-5) | [Link](https://github.com/courses-ionio/help/discussions/1482) |  |
+| 6 | [Κατασκευή του βιβλίου Α](#Παραδοτέο-6) | [Link](https://github.com/courses-ionio/help/discussions/1537) |  |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#Παραδοτέο-7) | [Link](https://github.com/courses-ionio/help/discussions/1591) |  |
+| 8 | [Άσκηση γραμμής εντολών](#Παραδοτέο-8) | [Link](https://github.com/courses-ionio/help/discussions/1658) |  |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#Παραδοτέο-9) | [Link](https://github.com/courses-ionio/help/discussions/1681) |  |
+| 10 | [Άσκηση γραμμής εντολών](#Παραδοτέο-10) | [Link](https://github.com/courses-ionio/help/discussions/1736) |  |
+| 11 | [Κατασκευή του βιβλίου Β](#Παραδοτέο-11) | [Link](https://github.com/courses-ionio/help/discussions/1737) |  |
+| 12 | [Τελική αναφορά*] | | |
 <br>
 
 # [Παραδοτέο 1/Εισαγωγή](https://github.com/courses-ionio/help/discussions/837) <br>
