@@ -45,7 +45,7 @@
 
 ``` export PS1='printf "\033[32m$ \033[39m"' ```
 
-[![asciicast](https://asciinema.org/a/TDYmuKCnxazji8NbYzdGXV18P.svg)](https://asciinema.org/a/TDYmuKCnxazji8NbYzdGXV18P.svg)
+[![asciicast](https://asciinema.org/a/TDYmuKCnxazji8NbYzdGXV18P.svg)](https://asciinema.org/a/TDYmuKCnxazji8NbYzdGXV18P)
 
 [Discussions Link](https://github.com/courses-ionio/help/discussions/1309)
 
@@ -78,7 +78,7 @@
 
 [Repository url](https://github.com/p18balt/bash)
 
-[![asciicast](https://asciinema.org/a/OznbnZJhyhJOADke67H2eNI3c.svg)](https://asciinema.org/a/OznbnZJhyhJOADke67H2eNI3c.svg)
+[![asciicast](https://asciinema.org/a/OznbnZJhyhJOADke67H2eNI3c.svg)](https://asciinema.org/a/OznbnZJhyhJOADke67H2eNI3c)
 
 [Link Discussions](https://github.com/courses-ionio/help/discussions/1833)
 
@@ -93,7 +93,7 @@
 ## Παραδοτέο 10
 Χρησιμοποιήθηκε το εργαλείο groff για να δημιουργηθεί ένα document που έχει πάνω αριστερά το όνομα μου και τον ΑΜ (με αριστερή σύνταξη) και επείτα από κάτω και στο κεντρό του κειμένου ο τίτλος "Ionian University Hci Course" και έγινε η αποθήκευση του παραάνω εγγράφου σε αρχείο με όνομα outputhci.
 
-[![asciicast](https://asciinema.org/a/0biaYoCa35xXULAT0zdkUuJgN.svg)](https://asciinema.org/a/0biaYoCa35xXULAT0zdkUuJgN.svg)
+[![asciicast](https://asciinema.org/a/0biaYoCa35xXULAT0zdkUuJgN.svg)](https://asciinema.org/a/0biaYoCa35xXULAT0zdkUuJgN)
 
 [Link Discussions](https://github.com/courses-ionio/help/discussions/1834)
 
