@@ -14,9 +14,9 @@
 | 4 | [Άσκηση Γραμμής Εντολών Warm Up](#Άσκηση-Γραμμής-Εντολών-Warm-Up) | https://github.com/courses-ionio/help/discussions/1385 |
 | 5 | [Συμμετοχικό Περιεχόμενο Α2](#Συμμετοχικό-Περιεχόμενο-Α2) | https://github.com/courses-ionio/help/discussions/1560 |
 | 6 | [Κατασκευή Του Βιβλίου Α](#Κατασκευή-Του-Βιβλίου-Α) | https://github.com/courses-ionio/help/discussions/1582 |
-| 7 | [Συμμετοχικό περιεχόμενο B1](##Συμμετοχικό-Περιεχόμενο-Β1) |
-| 8 | Άσκηση γραμμής εντολών |
-| 9 | Συμμετοχικό περιεχόμενο B2 |
+| 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-Β1) | https://github.com/courses-ionio/help/discussions/1839 |
+| 8 | [Άσκηση Γραμμής Εντολών Pipelines Scripts](#Άσκηση-Γραμμής-Εντολών-Pipelines-Scripts) |
+| 9 | [Συμμετοχικό Περιεχόμενο B2](#Συμμετοχικό-Περιεχόμενο-Β2) |
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | Κατασκευή του βιβλίου Β |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
@@ -113,4 +113,18 @@ https://asciinema.org/a/y5oYpdNgmtHFD9UfrMSN2qUn8
 # Συμμετοχικό Περιεχόμενο Β1
 
 Για το συμμετοχικό περιεχόμενο Β1 μετά από λίγη σκέψη και έρευνα διάλεξα το θέμα των Emulators.
+
+[Case Study](https://github.com/Greek-Salata/site/blob/master/_case-study/emulators.md)
+
+[Includes](https://github.com/Greek-Salata/site/blob/master/_includes/cs-emulators.md)
+
+
+# Άσκηση Γραμμής Εντολών Pipelines Scripts
+
+
+
+
+# Συμμετοχικό Περιεχόμενο Β2
+
+
 
