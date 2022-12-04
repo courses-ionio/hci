@@ -10,7 +10,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 |[λινκ παραδοτέου 3](https://github.com/courses-ionio/help/discussions/1219) , [λινκ παραδοτέου 3(διορθωμένο)](https://github.com/courses-ionio/help/discussions/1260)| |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[λινκ παραδοτέου 4](https://github.com/courses-ionio/help/discussions/1313)| |
 | 5 | Συμμετοχικό περιεχόμενο A2 |[λινκ παραδοτέου 5](https://github.com/courses-ionio/help/discussions/1556) | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α |[λινκ παραδοτέου 6](https://github.com/courses-ionio/help/discussions/1842) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 |[λινκ παραδοτέου 7](https://github.com/courses-ionio/help/discussions/1695) | |
 | 8 | Άσκηση γραμμής εντολών |[λινκ παραδοτέου 8](https://github.com/courses-ionio/help/discussions/1776) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
