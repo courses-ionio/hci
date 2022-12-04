@@ -10,9 +10,9 @@
 | 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) |[discussion](https://github.com/courses-ionio/help/discussions/new?category=show-and-tell)| |
 | 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | [discussion](https://github.com/courses-ionio/help/discussions/1546), [my kallipos](https://github.com/voltmaister/kallipos) | |
 | 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) | [discussion](https://github.com/courses-ionio/help/discussions/1592) | |
-| 8 | [Άσκηση γραμμής εντολών](#παραδοτέο-8) | | |
-| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) | | |
-| 10 | [Άσκηση γραμμής εντολών](#παραδοτέο-10) | | |
+| 8 | [Άσκηση γραμμής εντολών](#παραδοτέο-8) | [discussion](https://github.com/courses-ionio/help/discussions/1830) | |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) | [discussion](https://github.com/courses-ionio/help/discussions/1832) | |
+| 10 | [Άσκηση γραμμής εντολών](#παραδοτέο-10) | [discussion](https://github.com/courses-ionio/help/discussions/1844) | |
 | 11 | [Κατασκευή του βιβλίου Β](#παραδοτέο-11) | | |
 | 12 | [Τελική αναφορά* ](#παραδοτέο-12) | | |
 
@@ -89,9 +89,25 @@
 
 # Παραδοτέο 8
 
--------
+Για το παραδοτέο 8 χρησιμοποίησα το bashyll για να φταίξω ένα blog για ένα πρότζεκτ που δουλεύω χρησιμοποιώντας το spacevim για να το κάνω edit.
+
+Παρατήρησα ότι έπρεπε να κάνω αρκετές αλλαγές στο ίδιο το bashyll γιατί φαίνεται είτε να είναι outdated ή να μην είναι σχεδιασμένο για το arch σύστημα καλά και μου δημιουργούσε προβλήματα με τα directories.
+Δημιούργησα και το παρακάτω script όπου παίρνει το οποιοδήποτε αρχείο που θέλουμε να ανεβάσουμε και το μετακινεί στο φάκελο για τα ποστ του bashyll και το κάνει publish/unpublish μόνο του.
+
+[script](https://github.com/voltmaister/scripts/blob/main/publish.sh)
+
+![image](https://user-images.githubusercontent.com/45509916/205493460-41afa106-1620-4699-a7f5-30013cb59f02.png)
+[![asciicast](https://asciinema.org/a/542488.svg)](https://asciinema.org/a/542488)
+
+![image](https://user-images.githubusercontent.com/45509916/205489135-c7725b36-7e89-4753-9da8-49cde5f053c1.png)
+![image](https://user-images.githubusercontent.com/45509916/205489243-11227091-480c-4231-8ecf-2109a7a53d9a.png)
+![image](https://user-images.githubusercontent.com/45509916/205489257-a08cc4fb-0da7-406c-af81-e09309f8c31b.png)
+
+[asciinema recording](https://asciinema.org/a/542468)
 
 # Παραδοτέο 9
+
+Για το παραδοτέο 9 εκανα την βιογραφια του Daniel Fylstra ενός από τους δυο ιδρυτές της εταιρίας VisiCorp η οποία ήταν η πρώτη σε πωλήσεις εταιρία λογισμικού για επιτραπέζιους υπολογιστές.
 
 <div align="center">
 
@@ -103,7 +119,11 @@
 
 # Παραδοτέο 10
 
----
+Για το  παραδοτέο 10 εμπνεύστηκα από τους [odysseasEko](https://github.com/odysseasEko/) και [alxikan](https://github.com/alxikan/) και έφτιαξα και εγώ ένα μενού το οποίο μετατρέπει το αρχείο σε HTML και PDF με ένα πολύ απλό script το οποίο έχω αποθυκεύσει σε ένα άλλο repository όπου κρατάω γενικά τα script του συστήματος μου. 
+
+[script](https://github.com/voltmaister/scripts/blob/main/converter.sh)
+
+[![asciicast](https://asciinema.org/a/542515.svg)](https://asciinema.org/a/542515)
 
 # Παραδοτέο 11
 
