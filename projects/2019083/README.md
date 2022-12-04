@@ -114,9 +114,13 @@
 </div>
 
 # [Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1658)
-Το παραδοτέο αυτό είχε ως σκοπό μία άσκηση γραμμής εντολών. Προσωπικά χρησιμοποίησα μία εντολή pandoc ώστε να μετατρέψω ένα αρχείο tex σε ένα αρχείο HTML.
+Το παραδοτέο αυτό είχε ως σκοπό μία άσκηση γραμμής εντολών. Χρησιμοποίησα τις εντολές pandoc και groff μέσα σε ένα script για να μετατρέψω την αναφορά του μαθήματος από αρχείο markdown σε ένα αρχείο [PDF](https://github.com/NickLitharis/terminal1/blob/master/readme.pdf)
 
-[![asciicast](https://asciinema.org/a/539253.svg)](https://asciinema.org/a/539253)
+<div align="center">
+
+[![asciicast](https://asciinema.org/a/542572.svg)](https://asciinema.org/a/542572)
+
+</div>
 
 # [Παραδοτέο 9](https://github.com/courses-ionio/help/discussions/1681)
 Για το παραδοτέο 9 έγραψα μία σύντομη [βιογραφία](https://github.com/NickLitharis/site/blob/master/_biography/dan-ingalls.md) για τον Dan Ingalls, πρωτοπόρο της επιστήμης των υπολογιστών ο οποίος δημιούργησε αρκετά από τα πράγματα που θεωρούμε σήμερα δεδομένα στο πεδίο της διάδρασης ανθρώπου και υπολογιστή.
