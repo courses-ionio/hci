@@ -214,6 +214,9 @@
 | 5 | Alan Kay: Doing with Images Makes Symbols (Full Version) | :heavy_check_mark: | :heavy_check_mark: |
 | 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | :heavy_check_mark: | :heavy_check_mark: |
 | 7 | Oral History of Douglas Engelbart | :heavy_check_mark: | :heavy_check_mark: |
+| 8 | Engelbart's Unfinished Revolution / 1998 / Session IV | :x: | :x: |
+| 9 | Dynabook: The Complete Story | :heavy_check_mark: | :heavy_check_mark: |
+| 10 | Alan Kay at Media Lab 30 | :heavy_check_mark: | :heavy_check_mark: |
 
 
 ❗Οι φωτογραφίες έχουν προστεθεί στην αναφορά μου μέσα από Github Issues έτσι ώστε να μη μεγαλώνει το μέγεθος του αρχείου της αναφοράς.
