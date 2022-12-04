@@ -71,6 +71,13 @@
 
 ![PhotoArch](https://user-images.githubusercontent.com/93882637/204091935-c032da42-ec91-45ff-bd03-a140d27e955d.png)
 
+## Παραδοτέο 8
+Στο συγκεκριμένο παραδοτέο χρησιμοποιήθηκαν οι τεχνολογίες git, sed, convert για να δημιουργηθεί αρχείο bash που τοποθετεί της εικόνες στο submodule images,  κάνει μετονομασία με το sed το image_url ανάλογα με τις εικόνες που προσθέτει ο χρήστης και το github username αντίστοιχα περιλαμβάνει ένα menu με 6 επιλογές και επιπλέον δίνεται η επιλογή να κάνεις configure το github profile σου μέσω αυτού. 
+
+[Repository url](https://github.com/p18balt/bash)
+
+[asciinema Link](https://asciinema.org/a/OznbnZJhyhJOADke67H2eNI3c)
+
 ## Παραδοτέο 9
 Σε αυτό το παραδοτέο προστέθηκε στον ιστότοπο του βιβλίου, η βιογραφία του Peter Norton (Norton Commander, IBM PC programmer, Norton, Computing Inc etc.)
 
