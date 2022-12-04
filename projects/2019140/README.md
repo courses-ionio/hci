@@ -89,3 +89,14 @@ echo "$(cat FinalTemporaryMS)" | groff -ms -tbl -refer -Kutf8 -Tpdf > Anafora.pd
 [![asciicast](https://asciinema.org/a/540767.svg)](https://asciinema.org/a/540767)
 Παρακάτω προσθέτω και ένα screenshot από το αποτέλεσμα μετατροπής της αναφοράς σε PDF.
 ![asciicast](https://cdn.discordapp.com/attachments/794920060677521469/1046510760643272734/GroffAnafora.jpg)
+
+## Παραδοτέο 9 - Βιογραφία
+Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε μια βιογραφία στην ιστοσελίδα του μαθήματος. Αποφάσισα να προσθέσω μια βιογραφία για τον Linus Torvalds, τον αρχικό δημιουργό του Linux Kernel επειδή έχω προηγουμένως ασχοληθεί με γραφικά περιβάλλοντα που είναι διαθέσιμα στο λειτουργικό αυτό. Η βιογραφία του Linus βρίσκεται [εδώ](https://loquacious-yeot-8a3b52.netlify.app/biography/linus-torvalds/) και τα αρχεία που πρόσθεσα στα αποθετήρια της σελίδας είναι τα εξής:
+- [site/_biography/linus-torvalds.md](https://github.com/KonstantinosTourtsakis/site/blob/master/_biography/linus-torvalds.md)
+- [site/_includes/bio-torvalds.md](https://github.com/KonstantinosTourtsakis/site/blob/master/_includes/bio-torvalds.md)
+- [images/torvalds-profile.jpg](https://github.com/KonstantinosTourtsakis/images/blob/master/torvalds-profile.jpg)
+- [images/linux-lite.png](https://github.com/KonstantinosTourtsakis/images/blob/master/linux-lite.png)
+#### Πηγές
+- https://en.wikipedia.org/wiki/Linus_Torvalds
+- https://www.youtube.com/watch?v=o8NPllzkFhE
+- https://en.wikipedia.org/wiki/Linux
