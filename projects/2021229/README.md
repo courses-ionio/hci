@@ -26,7 +26,7 @@
 | 6 | Κατασκευή του βιβλίου Α | [Click](https://github.com/courses-ionio/help/discussions/1571) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | [Click](https://github.com/courses-ionio/help/discussions/1713) | |
 | 8 | Άσκηση γραμμής εντολών | [Click](https://github.com/courses-ionio/help/discussions/1781) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 9 | Συμμετοχικό περιεχόμενο B2 | [Click](https://github.com/courses-ionio/help/discussions/1841) | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -109,3 +109,13 @@ Links:
 [Html FIle](https://github.com/inf2021229/Paradoteo8/blob/main/REPORT.html),
 [Asciinema Docx](https://asciinema.org/a/KlfUSW3vL2qWuhdZgYjwLkHst),
 [Asciinema Html](https://asciinema.org/a/ec4nxODBQO9IKQseshcNGoQCb)
+
+<br /><br />
+# Εβδομάδα Ένατη - Συμμετοχικό περιεχόμενο B2
+
+&nbsp;&nbsp;&nbsp;Για το 9ο παραδοτέο πρόσθεσα την βιογραφία του Aaron Marcus ο οποίος ασχολήθηκε με τον γραφικό σχεδιασμό καθώς και σχεδιασμό εικονικής πραγματικότητας.
+
+Links:
+[Includes](https://github.com/inf2021229/site/blob/master/_includes/bio-marcus.md),
+[Biography](https://github.com/inf2021229/site/blob/master/_biography/aaron-marcus.md),
+[Netlify](https://inf2021229.netlify.app/biography/aaron-marcus/)
