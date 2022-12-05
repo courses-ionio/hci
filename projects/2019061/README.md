@@ -65,7 +65,18 @@ e-mail: p19tila@ionio.gr <br/>
 <br/>
 1η προσθήκη: [Sony Walkman](https://oroseira2022.netlify.app/gallery/walkman/)
 <br/>
+<br/>
+![walkman](https://github.com/tilav/images/blob/master/sony-walkman.jpg)
+<br/>
+<br/>
+<br/>
+<br/>
 2η προσθήκη: [Sony Discman](https://oroseira2022.netlify.app/gallery/discman/)
+<br/>
+<br/>
+![diskman](https://github.com/tilav/images/blob/master/sony-discman.jpg)
+<br/>
+<br/>
 <br/>
 <br/>
 Δημιούργησα ένα [test fork](https://github.com/tilav/site) και ένα [test branch](https://github.com/tilav/site/tree/2019061) για να ελέγξω τη λειτουργία της [ιστοσελίδας μου](https://boisterous-tartufo-a017e1.netlify.app/) πριν κάνω Pull Request στην ομάδα μου.
@@ -138,6 +149,7 @@ e-mail: p19tila@ionio.gr <br/>
 
 ![alt text](https://github.com/tilav/book_images/blob/main/book_screenshot.png)
 
+Click πάνω στην εικόνα για μεταφορά στο repository της.
 <br/>
 <br/>
 
