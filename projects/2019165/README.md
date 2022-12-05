@@ -173,19 +173,19 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 <br>
 <p>Για το συμμετοχικό περιεχόμενο Β2 , επέλεξα τη συγγραφή της βιογραφίας του Ralph Henry Baer, ο οποίος θεωρείται "πατέρας των βιντεοπαιχνιδιών. Το 1966 ο Ralph Baer έψαχνε τρόπους με τους οποίους η τηλεόραση θα μπορούσε να γίνει διαδραστική και αυτό συντέλεσε στο να δημιουργήσει την πρώτη οικιακή κονσόλα βιντεοπαιχνιδιών, γνωστή και ως Magnavox Odyssey.</p>
 
-###[Η βιογραφία στο site](https://github.com/Alessenia/site/blob/master/_includes/bio-baer.md
-###[H βιογραφία στο Netlify](https://lucky-llama-173f38.netlify.app/biography/ralph-baer/)
+### [Η βιογραφία στο site](https://github.com/Alessenia/site/blob/master/_includes/bio-baer.md
+### [H βιογραφία στο Netlify](https://lucky-llama-173f38.netlify.app/biography/ralph-baer/)
 
-###[To _biography αρχείο](https://github.com/Alessenia/site/blob/master/_biography/ralph-baer.md)
-###[To pull request προς τον οργανισμό](https://github.com/Cat-a-strophe/site/pull/9)
+### [To _biography αρχείο](https://github.com/Alessenia/site/blob/master/_biography/ralph-baer.md)
+### [To pull request προς τον οργανισμό](https://github.com/Cat-a-strophe/site/pull/9)
 
 ### Πηγές 
-####[Βedi J. Ralph Baer : An interactive life. Hum Behav & Emerg Tech](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbe2.119)
-####[Ralph Baer the godfather of gaming](https://web.archive.org/web/20151222121523/https://www.theguardian.com/famous-for-a-reason/2015/nov/09/ralph-baer-the-godfather-of-gaming)
-####[Ralph Baer:The father of video game](https://www.huffpost.com/entry/ralph-baer-video-games_b_1988048)
-####[Genesis of television Gaming](https://www.immigrantentrepreneurship.org/entries/ralph-baer/#The_Genesis_of_Television_Video_Gaming)
-####[The Smithsonian Museum about Ralph Baer](https://americanhistory.si.edu/collections/object-groups/the-father-of-the-video-game-the-ralph-baer-prototypes-and-electronic-games)
-####[An interview with Ralph Baer](https://www.gamedeveloper.com/business/the-right-to-baer-games---an-interview-with-ralph-baer-the-father-of-video-games)
+#### [Βedi J. Ralph Baer : An interactive life. Hum Behav & Emerg Tech](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbe2.119)
+#### [Ralph Baer the godfather of gaming](https://web.archive.org/web/20151222121523/https://www.theguardian.com/famous-for-a-reason/2015/nov/09/ralph-baer-the-godfather-of-gaming)
+#### [Ralph Baer:The father of video game](https://www.huffpost.com/entry/ralph-baer-video-games_b_1988048)
+#### [Genesis of television Gaming](https://www.immigrantentrepreneurship.org/entries/ralph-baer/#The_Genesis_of_Television_Video_Gaming)
+#### [The Smithsonian Museum about Ralph Baer](https://americanhistory.si.edu/collections/object-groups/the-father-of-the-video-game-the-ralph-baer-prototypes-and-electronic-games)
+#### [An interview with Ralph Baer](https://www.gamedeveloper.com/business/the-right-to-baer-games---an-interview-with-ralph-baer-the-father-of-video-games)
 
 
 
