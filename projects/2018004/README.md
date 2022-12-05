@@ -50,3 +50,12 @@ e-mail: p18geor@ionio.gr.
 
 # 6η Εβδομάδα
 Παρουσιάστηκε ένα πρόβλημα στην κατσκευή του βιβλίου το οποίο ακόμη δεν έχω λύσει. Δεν μου παρουσιάζονται ούτε τα προηγούμενα quotes αλλά ούτε και το δικό μου αφότου τρέξω το [make-latex](https://github.com/Fanis-Georg/kallipos/blob/master/make-latex.sh) ενώ έχω κάνει το κατάλληλο [σχόλιο](https://github.com/Fanis-Georg/kallipos/blob/master/paradoteo6/par6edit.md) αλλά ούτε μετά την αλλαγή του footnote στο makrdown text που
+
+# 8η Εβδομάδα
+Τα τελευταία βήματα για το configuration του συστήματός μου έγιναν.
+Έχω βάλει:
+* Για WM επέλεξα το (dwm)[https://dwm.suckless.org/] επειδή ήθελα κάτι ελαφρύ
+* Για τα configurations του status bar έβαλα το (dwm-bar)[https://github.com/joestandring/dwm-bar]
+* Zsh shell λόγω syntax highlighting και autocomplete
+Screenshot του desktop μου:
+![Desktop](https://user-images.githubusercontent.com/56548450/205660028-bec0e59a-5008-43e0-a74a-96bf0465df59.png)
