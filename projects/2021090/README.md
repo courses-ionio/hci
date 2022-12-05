@@ -152,12 +152,12 @@ pull request
 παραδοτέο 2
 
 
-[Arch Linux: Full Installation Guide - A complete tutorial/walkthrough in one video!](https://youtu.be/DPLnBPM4DhI)
-[]()
-[]()
-[]()
-[]()
+* [Arch Linux: Full Installation Guide - A complete tutorial/walkthrough in one video!](https://youtu.be/DPLnBPM4DhI)
+
+
+
 παραδοτέο 3
+<br />
 παραδοτέο 4
 παραδοτέο 5
 παραδοτέο 6
