@@ -147,7 +147,7 @@ e-mail: p19tila@ionio.gr <br/>
 Παρακάτω φαίνεται η προσθήκη μου στο βιβλίο:
 <br/>
 
-![alt text](https://github.com/tilav/book_images/blob/main/book_screenshot.png)
+![screenshot](https://github.com/tilav/book_images/blob/main/book_screenshot.png)
 
 Click πάνω στην εικόνα για μεταφορά στο repository της.
 <br/>
