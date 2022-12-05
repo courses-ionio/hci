@@ -135,3 +135,13 @@ Github:<br/>
 [Βιογραφία Linus Torvalds](https://cerulean-baklava-0cb19a.netlify.app/biography/linus-torvalds/)</br>
 [bio-linus.md](https://github.com/odysseasEko/site/blob/master/_includes/bio-linus.md)</br>
 [linus-torvalds.md](https://github.com/odysseasEko/site/blob/master/_biography/linus-torvalds.md)</br>
+
+
+# Παραδοτέο 10ο
+### Shell Script & SpaceVim
+
+Για το 10ο παραδοτέο έφτιαξα ένα shell script το οποίο δημιουργεί ένα basic enviroment για web development. Για την επεξεργασία του χρησιμοποιώ το SpaceVim.</br>
+
+[![asciicast](https://asciinema.org/a/542869.svg)](https://asciinema.org/a/542869)
+
+[makeEnv.sh](https://github.com/odysseasEko/uni/blob/main/hci/makeEnv.sh)
