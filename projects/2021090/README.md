@@ -79,6 +79,12 @@ link για το netlify
 Γνωστά προβλήματα :
 1.  Η γραμμές στο αρχείο md έχουν σημασία!Φωτογραφιες
 2.  Προσοχή στα branches
+
+| Netlify     | Repository  | Pull Request |
+| ----------- | ----------- | -----------  |
+|      |       |              |
+|   |        |              |
+
 ## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
 
 <br />
@@ -101,6 +107,12 @@ pull request
 (https://github.com/ContattoContare/site/pull/14/commits)
 (https://github.com/inf2021090/kallipos/blob/master/book.pdf)
 (https://elegant-meringue-bf62a4.netlify.app/slides/visual-programming)
+ 
+ | Netlify     | Repository  | Pull Request |
+| ----------- | ----------- | -----------  |
+|      |       |              |
+|   |        |              |
+
 ## Εβδομάδα Έκτη - Κατασκευή του βιβλίου Α
 
 <br />
@@ -114,6 +126,12 @@ pull request
 
 <br />
 
+| Netlify     | Repository  | Pull Request |
+| ----------- | ----------- | -----------  |
+|      |       |              |
+|   |        |              |
+                            
+
 ## Εβδομάδα Όγδοη - Άσκηση γραμμής εντολών (HCI)
 
 <br />
@@ -122,6 +140,10 @@ pull request
 
 <br />
 
+| Netlify     | Repository  | Pull Request |
+| ----------- | ----------- | -----------  |
+|      |       |              |
+|   |        |              |
 
 ## Δικτυογραφία-Πηγές
 
