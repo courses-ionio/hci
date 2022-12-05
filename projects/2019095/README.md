@@ -13,7 +13,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1474),[slide update](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_slides/os.md),[timeline update](https://github.com/Second-Time-Is-The-Charm/site/blob/master/_timeline/os-apps.md) |Επιτυχής ολοκλήρωση, εντός προθεσμίας |
 | 6 | Κατασκευή του βιβλίου Α |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1613) |Επιτυχής ολοκλήρωση |
 | 7 | Συμμετοχικό περιεχόμενο B1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1693),[cs-study](https://site-reme1o673-angeloth1.vercel.app/case-study/bash/) | |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | Άσκηση γραμμής εντολών |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1795), [Script](https://github.com/Angeloth1/bashscript/blob/main/mdConvertor.sh) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
@@ -92,6 +92,63 @@
 - [bash shell](https://site-nu-wine.vercel.app/case-study/bash/)
 
 <sub><sup> αν και θα ήθελα να αναφέρο περισσότερα για την διεπαφή που προσφέρει συγκεκριμένα το bash, η αλήθεια είναι ότι τα περισσότερα αν όχι όλα τα shells έχουν περίπου ίδια διεπαφή</sup></sub>
+
+## Παραδοτέο 8 | shell script v1
+Σε αυτό το παραδοτέο έφτιαξα ένα script κυρίως με την χρήσει του pandoc για να μπορώ να μετατρέπω αρχεία md σε άλλες μορφές ανάλογα με το τι θέλω να κάνω με αυτά.
+Το script είναι το ακόλουθο 
+```
+#!/bin/sh
+
+
+echo 'the file typies that I can covert are:
+1. docx
+2. html
+3. latex
+4. epub'
+read -p "Please give the the number of the output type and the file.md name (for example 1 README.md for  docx): " var f
+file=$f
+
+# because some of the formats does not support the crossed text I dump it
+sed -i 's/~/ /' $file
+sed -i 's/.~/./' $file
+
+
+if [ $var -eq 1 ] ; then
+	echo "creating the docx"
+	pandoc -s $file -o README.docx
+elif [ $var -eq 2 ] ; then
+	echo "creating the html"
+	pandoc --css=styling.css -s -f markdown+smart --toc --metadata \
+ pagetitle="TestPage" --to=html5 $file \
+ -o README.html
+elif [ $var -eq 3 ] ; then
+	echo "creating the tex"
+	pandoc -s $file -o README.tex
+elif [ $var -eq 4 ] ; then
+	echo "creating the epub"
+	pandoc -s $file -o README.epub
+else
+	echo "FALSE INPUT"
+fi
+
+
+
+# This programm can be use with any md file.
+# I use a version of my report as test file to see If everything is working as expected.
+```
+καθώς την λειτουργία του μπορείτε να την δείτε στα ακόλουθα asciinema videos
+- docx
+[![asciicast](https://asciinema.org/a/pVo9CRRiB2VEIw7NL34l9uYSr.svg)](https://asciinema.org/a/pVo9CRRiB2VEIw7NL34l9uYSr)
+
+- html
+[![asciicast](https://asciinema.org/a/Wu2XsYzZDEEvUb3s7igtaoKDJ.svg)](https://asciinema.org/a/Wu2XsYzZDEEvUb3s7igtaoKDJ)
+
+- latex
+[![asciicast](https://asciinema.org/a/547NQAhPCDFeeiuGkATU9Lvwa.svg)](https://asciinema.org/a/547NQAhPCDFeeiuGkATU9Lvwa)
+
+- epub
+[![asciicast](https://asciinema.org/a/QwjafGG2U4BLzxXkfwq2Ac9mx.svg)](https://asciinema.org/a/QwjafGG2U4BLzxXkfwq2Ac9mx)
+
 
 ## TEAM 
 
