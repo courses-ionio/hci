@@ -252,3 +252,10 @@
   - https://www.youtube.com/watch?v=THoxsBw-UmM#t=43m9s
   - https://ece.illinois.edu/newsroom/news/3307
 
+# Παραδοτέο 10ο:
+## Άσκηση Γραμμής Εντολών
+Σε αυτό το παραδοτέο μας ζητήθηκε να πραγματοποιήσουμε μια από τις ασκήσεις με χρήση γραμμής εντολών. Δημιούργησα κώδικα στην γλώσσα προγραμματισμού python και τον εκτέλεσα χρησιμοπιώντας ένα αρχείο shell script. Έπειτα από συζήτηση στην τάξη, κατανόησα ότι είχα αντιληφθεί λανθασμένα τα ζητούμενα και για αυτό θα χρειαστεί να φτιάξω την άσκηση εκ' νέου.
+Links:
+[asciinema](https://asciinema.org/a/541783)
+[python code](https://github.com/PanMour/info-/blob/main/calculate_holiday.py)
+[execute-python.sh](https://github.com/PanMour/info-/blob/main/execute_py.sh)
