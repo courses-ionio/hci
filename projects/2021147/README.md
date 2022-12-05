@@ -242,20 +242,20 @@
   - [biography](https://panmour.netlify.app//biography/donald-bitzer/)
 
 ## Οι πηγές μου από τις οποίες άντλισσα τις πληροφορίες:
-  - https://computerhistory.org/profile/donald-bitzer/
-  - https://en.wikipedia.org/wiki/Donald_Bitzer
-  - https://grainger.illinois.edu/alumni/hall-of-fame/donald-bitzer
-  - https://grainger.illinois.edu/alumni/distinguished/9301
-  - https://www.invent.org/inductees/donald-l-bitzer
-  - http://distributedmuseum.blogspot.com/p/blog-page_22.html
-  - https://www.historyofinformation.com/detail.php?id=1385
-  - https://www.youtube.com/watch?v=THoxsBw-UmM#t=43m9s
-  - https://ece.illinois.edu/newsroom/news/3307
+  - [Πηγή 1](https://computerhistory.org/profile/donald-bitzer/)
+  - [Πηγή 2](https://en.wikipedia.org/wiki/Donald_Bitzer)
+  - [Πηγή 3](https://grainger.illinois.edu/alumni/hall-of-fame/donald-bitzer)
+  - [Πηγή 4](https://grainger.illinois.edu/alumni/distinguished/9301)
+  - [Πηγή 5](https://www.invent.org/inductees/donald-l-bitzer)
+  - [Πηγή 6](http://distributedmuseum.blogspot.com/p/blog-page_22.html)
+  - [Πηγή 7](https://www.historyofinformation.com/detail.php?id=1385)
+  - [Πηγή 8](https://www.youtube.com/watch?v=THoxsBw-UmM#t=43m9s)
+  - [Πηγή 9](https://ece.illinois.edu/newsroom/news/3307)
 
 # Παραδοτέο 10ο:
 ## Άσκηση Γραμμής Εντολών
 Σε αυτό το παραδοτέο μας ζητήθηκε να πραγματοποιήσουμε μια από τις ασκήσεις με χρήση γραμμής εντολών. Δημιούργησα κώδικα στην γλώσσα προγραμματισμού python και τον εκτέλεσα χρησιμοπιώντας ένα αρχείο shell script. Έπειτα από συζήτηση στην τάξη, κατανόησα ότι είχα αντιληφθεί λανθασμένα τα ζητούμενα και για αυτό θα χρειαστεί να φτιάξω την άσκηση εκ' νέου.
-Links:
-[asciinema](https://asciinema.org/a/541783)
-[python code](https://github.com/PanMour/info-/blob/main/calculate_holiday.py)
-[execute-python.sh](https://github.com/PanMour/info-/blob/main/execute_py.sh)
+## Links:
+  - [asciinema](https://asciinema.org/a/541783)
+  - [python code](https://github.com/PanMour/info-/blob/main/calculate_holiday.py)
+  - [execute-python.sh](https://github.com/PanMour/info-/blob/main/execute_py.sh)
