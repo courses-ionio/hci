@@ -173,7 +173,7 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 <br>
 <p>Για το συμμετοχικό περιεχόμενο Β2 , επέλεξα τη συγγραφή της βιογραφίας του Ralph Henry Baer, ο οποίος θεωρείται "πατέρας των βιντεοπαιχνιδιών. Το 1966 ο Ralph Baer έψαχνε τρόπους με τους οποίους η τηλεόραση θα μπορούσε να γίνει διαδραστική και αυτό συντέλεσε στο να δημιουργήσει την πρώτη οικιακή κονσόλα βιντεοπαιχνιδιών, γνωστή και ως Magnavox Odyssey.</p>
 
-### [Η βιογραφία στο site](https://github.com/Alessenia/site/blob/master/_includes/bio-baer.md
+### [Η βιογραφία στο site](https://github.com/Alessenia/site/blob/master/_includes/bio-baer.md)
 ### [H βιογραφία στο Netlify](https://lucky-llama-173f38.netlify.app/biography/ralph-baer/)
 
 ### [To _biography αρχείο](https://github.com/Alessenia/site/blob/master/_biography/ralph-baer.md)
