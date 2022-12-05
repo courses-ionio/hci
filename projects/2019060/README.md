@@ -11,8 +11,8 @@
 | 6 | Κατασκευή του βιβλίου Α |Συζήτηση:<br/>[παραδοτέο 6ο](https://github.com/courses-ionio/help/discussions/1581) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 |Συζήτηση:<br/>[παραδοτέο 7ο](https://github.com/courses-ionio/help/discussions/1692) | |
 | 8 | Άσκηση γραμμής εντολών |Συζήτηση:<br/>[παραδοτέο 8ο](https://github.com/courses-ionio/help/discussions/1733) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 |Συζήτηση:<br/>[παραδοτέο 8ο](https://github.com/courses-ionio/help/discussions/1806) | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 9 | Συμμετοχικό περιεχόμενο B2 |Συζήτηση:<br/>[παραδοτέο 9ο](https://github.com/courses-ionio/help/discussions/1806) | |
+| 10 | Άσκηση γραμμής εντολών |Συζήτηση:<br/>[παραδοτέο 10ο](https://github.com/courses-ionio/help/discussions/1866) | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
