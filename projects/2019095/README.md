@@ -155,6 +155,8 @@ fi
 - [bio.md](https://github.com/Angeloth1/site/blob/master/_biography/dennisritchie.md)
 - [Το βιογραφικό](https://hcisite-mocha.vercel.app/biography/dennisritchie/)
 
+![image](https://user-images.githubusercontent.com/39650065/205857976-d4693130-ed35-4215-954e-2af971803bfd.png)
+
 ## TEAM 🔬
 
 ### [Second Time Is The Charm](https://github.com/Second-Time-is-the-Charm)
