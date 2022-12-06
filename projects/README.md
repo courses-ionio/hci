@@ -98,6 +98,7 @@
 
 
 <a href="https://github.com/courses-ionio/help/discussions/1676">discussions</a>
+
 ## ΠΑΡΑΔΟΤΕΟ 7 - Συμμετοχικό περιεχόμενο Β1
  Σε αυτό το παραδοτέο μελέτησα μία μελέτη περίπτωσης .Επέλεξα να ασχοληθώ με την ιστορία του νιντέντο ,με το οποίο είχα ασχοληθεί και στα προηγούμενα παραδοτέα .
  
@@ -123,6 +124,7 @@
 
 - <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MyCalc.sh">script</a>
 - <a href="https://asciinema.org/a/I5b0FG6cSJQc4dbUq9dqo1fsC">MyCalt.sh</a>
+
 <a href="https://github.com/courses-ionio/help/discussions/1797">discussions </a>
 
 
@@ -137,6 +139,8 @@ H βιογραφία που επέλεξα σχετίζεται με την το
 
 
  - <a href="https://p18tzou.netlify.app/biography/bio_yamauchi/">Netlify</a>
+ 
+ 
  <a href="https://github.com/courses-ionio/help/discussions/1870">discussions</a>
 
 
