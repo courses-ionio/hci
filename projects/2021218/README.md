@@ -102,6 +102,6 @@
 Σε αυτό το παραδοτέο μου ζητήθηκε να ανεβάσω μία βιογραφία. Όριστε η βιογραφία του [Ken Kutaragi](https://github.com/StefanosSfinarolakis/site/blob/master/_includes/ken-kutaragi.md).
 
 [_includes](https://github.com/StefanosSfinarolakis/site/blob/master/_includes/ken-kutaragi.md)
-[bibliograohy)[https://github.com/StefanosSfinarolakis/bibliography/blob/master/bio-ken-kutaragi.md)
+[bibliography](https://github.com/StefanosSfinarolakis/bibliography/blob/master/bio-ken-kutaragi.md)
 
 [αναφορά](https://github.com/StefanosSfinarolakis/hci/edit/2021218/projects/2021218/README.md)
