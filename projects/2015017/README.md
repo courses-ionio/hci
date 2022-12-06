@@ -79,7 +79,7 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
 ### Το link για το βιβλίο:
 - [`Link_for_book`](https://p15kara.netlify.app/case-study/informatics/)
 ### Το link για τα includes:
-- [`Link_for_includes`](https://github.com/p15kara/site/blob/master/_includes/Informatics2.md)
+- [`Link_for_includes`](https://github.com/p15kara/site/blob/master/_includes/cs-Informatics.md)
 
 <h2>ΠΑΡΑΔΟΤΕΟ 9</h2>
 Για το ένατο παραδοτέο επέλεξα να κάνω την βιογραφία του ανθρώπου που δημιούργησε ένα από τα αντικείμενα που ανέβασα στις εικόνες των προηγουμενων παραδοτέων.Συγκεκριμένα έκανα την βιογραφία του WIlliam Lear, ιδρυτή της εταιρίας Lear Siegler που κατασκεύασε το ADM-3A.Πιο συγκεκριμένα η εταιρία του η LSI Το 1976,κυκλοφόρησε το ADM-3A, ένα από τα πρώτα τερματικά βίντεο υπολογιστή, με μια νέα βιομηχανική χαμηλή τιμή μονάδας 995 $.
