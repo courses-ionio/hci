@@ -55,7 +55,7 @@
 - <a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a>
 
 
-- <a href="https://github.com/courses-ionio/help/discussions/1648">discussions</a>
+ <a href="https://github.com/courses-ionio/help/discussions/1648">discussions</a>
 
 ## ΠΑΡΑΔΟΤΕΟ 4 - Άσκηση γραμμής εντολών (Εγκατάσταση arch linux)
 Στο συγκεκριμένο παραδοτέο έπρεπε να επιλέξουμε μερικές εντολές απο το warm up cli που βρίσκεται στις οδηγίες του μαθήματος και να τις πραγματοποιήσουμε στο arch linux σε πραγματικό κόσμο .
@@ -68,7 +68,7 @@
 - <a href="https://asciinema.org/a/Pl2NBtaZYKYxUYJRcZ7WTiSW0">jrnl</a>
 
 
-- <a href="https://github.com/courses-ionio/help/discussions/1649">discussions</a>
+ <a href="https://github.com/courses-ionio/help/discussions/1649">discussions</a>
 
 
 ## ΠΑΡΑΔΟΤΕΟ 5 - Συμμετοχικό περιεχόμενο Α2
@@ -81,7 +81,7 @@
 
 ### Timeline : <a href="https://p18tzou.netlify.app/timeline/socialmedia/">timeline</a>
 
-- <a href="https://github.com/courses-ionio/help/discussions/1650">discussions</a>
+<a href="https://github.com/courses-ionio/help/discussions/1650">discussions</a>
 
 
 ## ΠΑΡΑΔΟΤΕΟ 6 - Κατασκευή του βιβλίου Α
@@ -97,7 +97,7 @@
 - <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glosses/glossesprogrammatismou.md">glossesprogrammatismou.md</a>
 
 
-- <a href="https://github.com/courses-ionio/help/discussions/1676">discussions</a>
+<a href="https://github.com/courses-ionio/help/discussions/1676">discussions</a>
 ## ΠΑΡΑΔΟΤΕΟ 7 - Συμμετοχικό περιεχόμενο Β1
  Σε αυτό το παραδοτέο μελέτησα μία μελέτη περίπτωσης .Επέλεξα να ασχοληθώ με την ιστορία του νιντέντο ,με το οποίο είχα ασχοληθεί και στα προηγούμενα παραδοτέα .
  
@@ -117,13 +117,13 @@
 
 <a href="https://el.wikipedia.org/wiki/Nintendo">2) Nintendo_wikipedia  </a>
 
-- <a href="https://github.com/courses-ionio/help/discussions/1796">discussions  </a>
+<a href="https://github.com/courses-ionio/help/discussions/1796">discussions  </a>
 ## ΠΑΡΑΔΟΤΕΟ 8 - Άσκηση γραμμής εντολών 
 Σε αυτό το παραδοτέo επέλεξα ένα script ,το οποίο ζητάει να τους δώσουμε δύο αριθμούς επιλέγει την πράξη που θα κάνει με αυτούς και την εμφανίζει.Αρχικά,για να βάλω το script στο Terminal ,δημιούργησα ένα bash αρχείο για να μπορεί να είναι εκτελέσιμο και εκεί έγραψα το script .Επίσης, εγκατέστησα το εργαλείο bc(packman bc)απο το pandoc  που βοηθάει στις πράξεις με αριθμoύς.Με την εντολή chmod +x Mycalc.sh δώσαμε δικαιώματα για να μπορεί να εκτελεστεί το script .
 
 - <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MyCalc.sh">script</a>
 - <a href="https://asciinema.org/a/I5b0FG6cSJQc4dbUq9dqo1fsC">MyCalt.sh</a>
--  <a href="https://github.com/courses-ionio/help/discussions/1797">discussions </a>
+<a href="https://github.com/courses-ionio/help/discussions/1797">discussions </a>
 
 
 ## ΠΑΡΑΔΟΤΕΟ 9 - Συμμετοχικό περιεχόμενο Β2
@@ -137,7 +137,7 @@ H βιογραφία που επέλεξα σχετίζεται με την το
 
 
  - <a href="https://p18tzou.netlify.app/biography/bio_yamauchi/">Netlify</a>
- - <a href="https://github.com/courses-ionio/help/discussions/1870">discussions</a>
+ <a href="https://github.com/courses-ionio/help/discussions/1870">discussions</a>
 
 
 ## ΠΑΡΑΔΟΤΕΟ 10 - Άσκηση γραμμής εντολών 
@@ -148,4 +148,4 @@ H βιογραφία που επέλεξα σχετίζεται με την το
 - <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MySong.sh">script</a> 
 
 - <a href="https://asciinema.org/a/leD2gAIMCdqH0HE40rssKeyVk">asciinema</a>
-- <a href="https://github.com/courses-ionio/help/discussions/1871">discussions</a>
+<a href="https://github.com/courses-ionio/help/discussions/1871">discussions</a>
