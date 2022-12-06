@@ -45,9 +45,10 @@
 - <a href="https://github.com/TZOYRMANAS/_gallery/blob/master/social-media-skype.md">skype.md</a> 
 - <a href="https://github.com/TZOYRMANAS/_gallery/blob/master/nintendo.md">nintendo.md</a>
 ### images
-skype-logo-open-graph.png --- skype-logo-open-graph-thumb.png ,
-nintendo.jpg --- nintendo-thumb.jpg
-<a href="https://github.com/Millennials-2/images/compare/master...TZOYRMANAS:images:master?short_path=12029b0#diff-12029b02586c56f1e5dd0b57aafdea8dad62abcbc96d708205e0881dd71b5fda">images</a>
+- <a href="https://github.com/TZOYRMANAS/images/blob/master/skype-logo-open-graph.png">skype</a> 
+- <a href="https://github.com/TZOYRMANAS/images/blob/master/skype-logo-open-graph-thumb.png">skype.thumb</a> 
+- <a href="https://github.com/TZOYRMANAS/images/blob/master/nintendo.jpg">Nintendo</a> 
+- <a href="https://github.com/TZOYRMANAS/images/blob/master/nintendo-thumb.jpg">Nintendo.thumb</a>  
 
 ### Netlify 
 - <a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a>
