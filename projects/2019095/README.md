@@ -1,9 +1,12 @@
-# Επικοινωνία Ανθρώπου - Υπολογιστή
+# [Επικοινωνία Ανθρώπου - Υπολογιστή](https://github.com/courses-ionio/hci)
+# [Edpuzzle](https://edpuzzle.com/classes/63398b5f9fadbe4119d673a5)
 
+## About me
 Ονοματεπώνυμο: Άγγελος Θώμος
 
 ΑΜ: 2019095
 
+---
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |   [Συζήτηση](https://github.com/courses-ionio/help/discussions/822), [Ομάδα](https://github.com/Second-Time-is-the-Charm),[See more!](#εισαγωγη-)|Επιτυχής ολοκλήρωση, εντός προθεσμίας |
@@ -89,6 +92,8 @@
 Τα αρχεία που χρειάστικε να φτιάξω είναι: [cs-study](https://github.com/Angeloth1/site/blob/master/_case-study/bash.md) , [includes](https://github.com/Angeloth1/site/blob/master/_includes/cs-bash.md).
 Καταλήγοντας λοιπόν στο ακόλουθο αποτέλεσμα : 
 - [bash shell](https://site-nu-wine.vercel.app/case-study/bash/)
+
+![image](https://user-images.githubusercontent.com/39650065/205863986-84972b25-6f78-499d-83ce-fa441d63a051.png)
 
 <sub><sup> αν και θα ήθελα να αναφέρο περισσότερα για την διεπαφή που προσφέρει συγκεκριμένα το bash, η αλήθεια είναι ότι τα περισσότερα αν όχι όλα τα shells έχουν περίπου ίδια διεπαφή</sup></sub>
 
