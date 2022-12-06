@@ -36,20 +36,22 @@
 ## ΠΑΡΑΔΟΤΕΟ 2 - Άσκηση γραμμής εντολών 
 Αρχικά, εγκατέστησα το arch linux σε VM (θα προσπαθήσω να το εγκαταστήσω και κανονικά).Το πρώτο πράγμα που έκανα ήταν να δημιουργήσω τον user μου ( add user) ,  εν συνεχειάι  εγκατέστησα το neofetch με την εντολη pacman και με τον ίδιο τρόπο εγκατέστησα και το asciinema για να τραβήξω το βιντεάκι που μας ζητήθηκε .
 
-[neofetch](https://asciinema.org/~p18tzou)
+- [neofetch](https://asciinema.org/~p18tzou)
 
 ## ΠΑΡΑΔΟΤΕΟ 3 - Συμμετοχικό περιεχόμενο Α1
 Στο συγκεριμένο παραδοτέο πρόσθεσα δύο εικόνεςς με ελεύθερα δικαιωματα στο Site μου.Αρχικά , έκανα Fork στο site και δημιούργησα δύo αρχεία .md στο repo_gallery,πρόσθεσα 2 σετ εικόνων στο repo-images ,ώστε να προσθέσω τις λεζάντες και τις φωτογραφίες.Στην συνέχεια μέσω του τερματικού εκτέλεσα τις εντολές που είχε στειλεί ένας συμφητητής μου στις συζητήσεις του μαθήματος .Μέτα πραγματοποίησα το deploy στο Netlify.
 Τα αρχέια που πρόσθεσα στο site μου πιο αναλυτικά :
 ### gallery
-<a href="https://github.com/TZOYRMANAS/_gallery/blob/master/social-media-skype.md">skype.md</a> ---<a href="https://github.com/TZOYRMANAS/_gallery/blob/master/nintendo.md">nintendo.md</a>
+- <a href="https://github.com/TZOYRMANAS/_gallery/blob/master/social-media-skype.md">skype.md</a> 
+- <a href="https://github.com/TZOYRMANAS/_gallery/blob/master/nintendo.md">nintendo.md</a>
 ### images
 skype-logo-open-graph.png --- skype-logo-open-graph-thumb.png ,
 nintendo.jpg --- nintendo-thumb.jpg
 <a href="https://github.com/Millennials-2/images/compare/master...TZOYRMANAS:images:master?short_path=12029b0#diff-12029b02586c56f1e5dd0b57aafdea8dad62abcbc96d708205e0881dd71b5fda">images</a>
 
 ### Netlify 
-<a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a>--<a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a>
+- <a href="https://p18tzou.netlify.app/gallery/social-media-skype/">skype</a>
+- <a href="https://p18tzou.netlify.app/gallery/nintendo/">nintendo</a>
 
 
 - <a href="https://github.com/courses-ionio/help/discussions/1648">discussions</a>
@@ -60,9 +62,9 @@ nintendo.jpg --- nintendo-thumb.jpg
 
 Οι εντολές που επέλεξα παρουσιάζονται στα ακόλουθα recodrs του  aasciinema.
 
--<a href="https://asciinema.org/a/DC9uTGuO14D3AryaXY0wiOkyr">weather</a> 
+- <a href="https://asciinema.org/a/DC9uTGuO14D3AryaXY0wiOkyr">weather</a> 
 
--<a href="https://asciinema.org/a/Pl2NBtaZYKYxUYJRcZ7WTiSW0">jrnl</a>
+- <a href="https://asciinema.org/a/Pl2NBtaZYKYxUYJRcZ7WTiSW0">jrnl</a>
 
 
 - <a href="https://github.com/courses-ionio/help/discussions/1649">discussions</a>
@@ -84,10 +86,16 @@ nintendo.jpg --- nintendo-thumb.jpg
 ## ΠΑΡΑΔΟΤΕΟ 6 - Κατασκευή του βιβλίου Α
 
 Για την δημιουργία του βιβλίου το πρώτο μου βήμα ήτανε να κάνω fork στο kallipos και εν συνεχεία συμβουλεύτηκα τα βήματα που έστειλαν οι συμφοιτητές μας στις συζητήσεις ,οι οποίες με βοηθήσανε πολύ για να εγκαταστήσω τα ακόλουθα πακέτα pandoc, python-pip, pandoc-fignos & texlive-core ,.lua .Αφού,σύνδεσα το kallipos με το τερματικό και επεξεργάστηκα τα submodules ,σέταρα τα fonts.Στην συνέχεια , ασχολήθηκα με το make-latex.sh αρχείο ,όπου όταν πήγα να προσθέσω το βιβλίο μου προέκυπτε ένα πρόβλημα με τα fonts .Αρχικά , χρησιμοποιήσα το noto sans regular και δεν μου έτρεχε καθόλου ,μετά το έγραψα χωρίς το regular και μου έβγαζε το βιβλίο με περίεργους χαρακτήρες ,εν τέλει χρησιμοποίσα το Nimbus.Έγραψα την υποσημείωση μου στο φάκελο text (ch8) και δημιούργησα έναν φάκελο  glosses ,στον οποίο πρόσθεσα το glossesprogrammatismou.md.Έπειτα, έφτιαξα το αρχείο glossesprogrammatismou.lua και έτρεξα ένα σετ εντολών για να εμφανιστούν αυτά που θέλαμε απο το glossesprogrammatismou.md μέσα στο βιβλίο στην παράγραφο που επελέξα .Τέλος , εκτελώντας πάλι κάποιες εντολές ανεβάσα το βιβλίο στο στον φάλελο book .
-### screenshot  : <a href="https://github.com/TZOYRMANAS/kallipos/commit/48cdac884df0d2aafbaaff0c1b6a28ace2869c6c">screenshot</a>
-### αρχείο.lua : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glossesprogrammatismou.lua">glossesprogrammatismou.lua</a>
-###  book.pdf : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/book/book.pdf">book.pdf</a>
-###  αρχέιο .md : <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glosses/glossesprogrammatismou.md">glossesprogrammatismou.md</a>
+### screenshot  :
+- <a href="https://github.com/TZOYRMANAS/kallipos/commit/48cdac884df0d2aafbaaff0c1b6a28ace2869c6c">screenshot</a>
+### αρχείο.lua : 
+- <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glossesprogrammatismou.lua">glossesprogrammatismou.lua</a>
+###  book.pdf :
+- <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/book/book.pdf">book.pdf</a>
+###  αρχέιο .md : 
+- <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glosses/glossesprogrammatismou.md">glossesprogrammatismou.md</a>
+
+
 - <a href="https://github.com/courses-ionio/help/discussions/1676">discussions</a>
 ## ΠΑΡΑΔΟΤΕΟ 7 - Συμμετοχικό περιεχόμενο Β1
  Σε αυτό το παραδοτέο μελέτησα μία μελέτη περίπτωσης .Επέλεξα να ασχοληθώ με την ιστορία του νιντέντο ,με το οποίο είχα ασχοληθεί και στα προηγούμενα παραδοτέα .
