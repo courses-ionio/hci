@@ -13,7 +13,7 @@
 | 8 | Άσκηση γραμμής εντολών |Συζήτηση:<br/>[παραδοτέο 8ο](https://github.com/courses-ionio/help/discussions/1733) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 |Συζήτηση:<br/>[παραδοτέο 9ο](https://github.com/courses-ionio/help/discussions/1806) | |
 | 10 | Άσκηση γραμμής εντολών |Συζήτηση:<br/>[παραδοτέο 10ο](https://github.com/courses-ionio/help/discussions/1866) | |
-| 11 | Κατασκευή του βιβλίου Β | | |
+| 11 | Κατασκευή του βιβλίου Β |Συζήτηση:<br/>[παραδοτέο 11ο](https://github.com/courses-ionio/help/discussions/1867) | |
 | 12 | Τελική αναφορά* | | |
 
 # Team
@@ -145,3 +145,12 @@ Github:<br/>
 [![asciicast](https://asciinema.org/a/542869.svg)](https://asciinema.org/a/542869)
 
 [makeEnv.sh](https://github.com/odysseasEko/uni/blob/main/hci/makeEnv.sh)
+
+# Παραδοτέο 11ο
+### κατασκευή EPUB
+
+Για το 11ο παραδοτέο, κατασκεύασα το epub του βιβλίου με τις επιπλέον δικές μου προσθήκες (case study & biography).
+
+[epub](https://github.com/odysseasEko/kallipos/blob/master/book.epub)
+
+
