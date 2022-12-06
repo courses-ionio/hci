@@ -25,7 +25,7 @@
 | 7 | Συμμετοχικό περιεχόμενο B1 |[Click](https://github.com/courses-ionio/help/discussions/1705)  | |
 | 8 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1775) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 |[Click](https://github.com/courses-ionio/help/discussions/1820) | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1872) | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -105,3 +105,14 @@ EDIT: Έφτιαξα και το [netlify](https://fancy-vacherin-2b621a.netlify
 [bibliography](https://github.com/StefanosSfinarolakis/bibliography/blob/master/bio-ken-kutaragi.md)
 
 [αναφορά](https://github.com/StefanosSfinarolakis/hci/edit/2021218/projects/2021218/README.md)
+
+## Eβδομάδα Δέκατη  -  Άσκηση γραμμής εντολών
+Σε αυτό το παραδοτέο μου ζητήθηκε άλλη μία εργασία απο δικό μου project σε γραμμή εντολών. Έφτιαξα το readme.md του hci repository μου σε html.
+
+[converter](https://github.com/StefanosSfinarolakis/inf2021218/blob/main/converter.sh)
+[profile.md](https://github.com/StefanosSfinarolakis/inf2021218/blob/main/profile.md)
+[profile.html](https://github.com/StefanosSfinarolakis/inf2021218/blob/main/profile.html)
+
+[![asciicast](https://asciinema.org/a/RNYt3SuL9aSBiDHgiJ6qnstZu.svg)](https://asciinema.org/a/RNYt3SuL9aSBiDHgiJ6qnstZu)
+
+[αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
