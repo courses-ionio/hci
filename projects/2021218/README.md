@@ -49,11 +49,11 @@
 [![asciicast](https://asciinema.org/a/CdSsZsoYJorzWS2dbi1qQfB7s.svg)](https://asciinema.org/a/CdSsZsoYJorzWS2dbi1qQfB7s)
 
 ## Εβδομάδα Τρίτη - Συμμετοχικό περιεχόμενο A1
-Για την τρίτη εβδομάδα , μου ζητήθηκε να προσθεέω περιεχόμενο στο images και στο _gallery και να διμιουργήσω δύο σελίδες στο netlify. Ορίστε η δύο σελίδες για το gem3.11 και το amiga3.5 καθώς και τα pull requests τους.
+Για την τρίτη εβδομάδα , μου ζητήθηκε να προσθεέω περιεχόμενο στο images και στο _gallery και να διμιουργήσω δύο σελίδες στο netlify. Ορίστε η δύο σελίδες για το PSVita και το Unity καθώς και τα pull requests τους.
 
 ### Σελιδες Netlify
-[gem3.11](https://fancy-vacherin-2b621a.netlify.app/gallery/gem3.11/) 
-[amiga3.5](https://fancy-vacherin-2b621a.netlify.app/gallery/amiga3.5/)
+[PSVita](https://zippy-blini-96b614.netlify.app/gallery/psvita/) 
+[Unity](https://zippy-blini-96b614.netlify.app/gallery/unity/)
 ### Pull requests
 [images](https://github.com/ContattoContare/images/pull/6) 
 [_gallery](https://github.com/ContattoContare/_gallery/pull/6)
