@@ -89,11 +89,11 @@
 
 ## Eβδομάδα Όγδοη  - Άσκηση γραμμής εντολών 
 
-Σε αυτό το παραδοτέο μου ζητήθηκε να δημιουργήσω ένα bash αρχείο για να τρέχει ένα δικό μου project. Το δικό μου είναι μία απλή αριθμομηχανή σε java.
-[asciinema](https://asciinema.org/a/5Czn8XbyxoB4e9XyPb0dXUJsp)
-[mycalculator](https://github.com/StefanosSfinarolakis/inf2021218)
+Σε αυτό το παραδοτέο μου ζητήθηκε να δημιουργήσω ένα bash αρχείο για να τρέχει ένα java κώδικα τις επιλογής μου. Επέλεξα μου είναι μία απλή αριθμομηχανή σε java.
+[asciinema](https://asciinema.org/a/M79AWpLw3WlQO9LZiY7N5mvLz)
+[app](https://github.com/StefanosSfinarolakis/inf2021218)
 
-[![asciicast](https://asciinema.org/a/5Czn8XbyxoB4e9XyPb0dXUJsp.svg)](https://asciinema.org/a/5Czn8XbyxoB4e9XyPb0dXUJsp)
+[![asciicast](https://asciinema.org/a/M79AWpLw3WlQO9LZiY7N5mvLz.svg)](https://asciinema.org/a/M79AWpLw3WlQO9LZiY7N5mvLz)
 
 [αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
 
