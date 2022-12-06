@@ -138,3 +138,4 @@ H βιογραφία που επέλεξα σχετίζεται με την το
 - <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MySong.sh">script</a> 
 
 - <a href="https://asciinema.org/a/leD2gAIMCdqH0HE40rssKeyVk">asciinema</a>
+- <a href="https://github.com/courses-ionio/help/discussions/1871">discussions</a>
