@@ -114,6 +114,7 @@ nintendo.jpg --- nintendo-thumb.jpg
 
 - <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MyCalc.sh">script</a>
 - <a href="https://asciinema.org/a/I5b0FG6cSJQc4dbUq9dqo1fsC">MyCalt.sh</a>
+-  <a href="https://github.com/courses-ionio/help/discussions/1797">discussions </a>
 
 
 ## ΠΑΡΑΔΟΤΕΟ 9 - Συμμετοχικό περιεχόμενο Β2
