@@ -91,11 +91,10 @@ EDIT: Έφτιαξα και το [netlify](https://fancy-vacherin-2b621a.netlify
 ## Eβδομάδα Όγδοη  - Άσκηση γραμμής εντολών 
 
 Σε αυτό το παραδοτέο μου ζητήθηκε να δημιουργήσω ένα bash αρχείο για να τρέχει ένα java κώδικα τις επιλογής μου. Επέλεξα μου είναι μία απλή αριθμομηχανή σε java.
-[asciinema](https://asciinema.org/a/M79AWpLw3WlQO9LZiY7N5mvLz)
+[asciinema](https://asciinema.org/a/rxZognPwFDPyqti2to8OXqq4K)
 [app](https://github.com/StefanosSfinarolakis/inf2021218)
 
-[![asciicast](https://asciinema.org/a/M79AWpLw3WlQO9LZiY7N5mvLz.svg)](https://asciinema.org/a/M79AWpLw3WlQO9LZiY7N5mvLz)
-
+[![asciicast](https://asciinema.org/a/rxZognPwFDPyqti2to8OXqq4K.svg)](https://asciinema.org/a/rxZognPwFDPyqti2to8OXqq4K)
 [αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
 
 
