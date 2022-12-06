@@ -117,3 +117,12 @@ nintendo.jpg --- nintendo-thumb.jpg
 
 
 ## ΠΑΡΑΔΟΤΕΟ 9 - Συμμετοχικό περιεχόμενο Β2
+
+- <a href="https://github.com/TZOYRMANAS/site/blob/master/_includes/yamauchi.md">_includes</a>
+
+
+- <a href="https://github.com/TZOYRMANAS/site/blob/master/_biography/bio_yamauchi.md">_biography</a>
+
+
+ - <a href="https://p18tzou.netlify.app/biography/bio_yamauchi/">Netlify</a>
+
