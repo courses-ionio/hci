@@ -108,7 +108,7 @@
  
    ~Tο .md αρχείο του Apple_iMac στο αποθετήριο της ομάδας μου: [Apple_iMac.md](https://github.com/OMADA12/_gallery/blob/master/Imac.md)~
    
-   ~Η εικόνα του Apple_iMac στο site της ομάδας μου: [Apple_iMac]()~
+   ~Η εικόνα του Apple_iMac στο site της ομάδας μου: [Apple_iMac](https://axileaszervos.netlify.app/gallery/imac/)~
    
    ~Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Imac.jpg](https://github.com/OMADA12/images/blob/master/Imac.jpg)~
    
@@ -118,7 +118,7 @@
   
    ~Tο .md αρχείο του VirtualBoy στο αποθετήριο της ομάδας μου: [VirtualBoy](https://github.com/OMADA12/_gallery/blob/master/Virtualboy.md)~
    
-   ~Η εικόνα του VirtualBoy στο site της ομάδας μου: [VirtualBoy]()~
+   ~Η εικόνα του VirtualBoy στο site της ομάδας μου: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
    
    ~Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [VirtualBoy.jpg](https://github.com/OMADA12/images/blob/master/Virtualboy.jpg)~
    
@@ -153,7 +153,7 @@
   ### Lego WeDo:
  
    * Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου αποθετήριο: [Legowedo.md]()
-   * Η εικόνα της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου site: [Legowedo]()
+   * Η εικόνα της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου site: [Legowedo](https://axileaszervos.netlify.app/gallery/legowedo/)
    * Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo.jpg]()
    * Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo-thumb.jpg]()
 
@@ -226,18 +226,20 @@
  * [timelines](https://github.com/OMADA12/site/pull/20)
   
  # 6ο ΠΑΡΑΔΟΤΕΟ-ΚΑΤΑΣΚΕΥΗ ΒΙΒΛΙΟΥ Α
-Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το
+Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το κεφάλαιο 8.3 και πρόσθεσα κάποιες πληροφορίες για τα υπολογιστηκά συστήματα `PLATO`.
 
 ## Η συνησφορά μου
-![Η συνεισφορά μου]()
+* [Η συνεισφορά μου](https://github.com/Axileaszervos/kallipos/blob/master/MyPhotos/%CE%97%20%CF%83%CF%85%CE%BD%CE%B5%CE%B9%CF%83%CF%86%CE%BF%CF%81%CE%AC%20%CE%BC%CE%BF%CF%85.png)
+![Η συνεισφορά μου](https://user-images.githubusercontent.com/115211756/206273359-c5a60021-b0c7-44af-9e37-bee79c4b0c0d.png)
+
 
 ## Το κεφαλαίο που ασχολήθηκα
-![To κεφάλαιο που επέλεξα]()
+* [To κεφάλαιο που επέλεξα](https://github.com/Axileaszervos/kallipos/blob/master/MyPhotos/%CE%A4%CE%BF%20%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%B1%CE%AF%CE%BF%20%CF%80%CE%BF%CF%85%20%CE%B1%CF%83%CF%87%CE%BF%CE%BB%CE%AE%CE%B8%CE%B7%CE%BA%CE%B1.png)
+![Το κεφαλαίο που ασχολήθηκα](https://user-images.githubusercontent.com/115211756/206273371-35888174-9794-4c22-b370-b68b042d555b.png)
 
-
-* link του βιβλίου σε μορφή pdf: [book.pdf]()
-* link απο το δικό μου φίλτρο: [App.lua]()
-* link του περιεχομένου που πρόσθεσα: [App.md]()
+* link του βιβλίου σε μορφή pdf: [book.pdf](https://github.com/Axileaszervos/kallipos/blob/master/book.pdf)
+* link απο το δικό μου φίλτρο: [plato.lua](https://github.com/Axileaszervos/kallipos/blob/master/plato.lua)
+* link του περιεχομένου που πρόσθεσα: [plato.md](https://github.com/Axileaszervos/kallipos/blob/master/PLATO/plato.md)
 * link του make-latex.sh: [make-latex](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
 
  
@@ -316,14 +318,15 @@
 # ΠΑΡΑΔΟΤΕΟ 10
 
 ## COMPILER
-Σε αυτό το παραδοτέο συνείζεται η ενασχόληση με τις [ασκήσεις](https://github.com/epidrome/dokey#hci) του ΗCI όμως, θα πρέπει να προστεθεί και χρήση pipelining στο Shell script. Προσωπικά επέλεξα την 4η άσκηση, στην όποια χρησιμοποίησα το command line σαν IDE.
+Σε αυτό το παραδοτέο συνείζεται η ενασχόληση με τις [ασκήσεις](https://github.com/epidrome/dokey#hci) του ΗCI όμως, θα πρέπει να προστεθεί και χρήση pipelining στο Shell script. Προσωπικά επέλεξα την 2η άσκηση, στην και έφτιαξα ένα static site στο οποίο υπάρχουν κάποιες έτοιμες σελίδες με περιεχόμενο μέσα τους και ο χρήστης μπορεί επίσης να προσθέσει το δικό του.
  
-### Έφτιαξα ένα shell script το οποίο επιτρέπει στον χρήστη να κάνει compile ήδη υπάρχων python αρχεία και του επιτρέπει να δημιουργήσει ένα νέο αρχείο python, στο οποίο μπορεί να γράφει μέσα κώδικα και να το κάνει compile. Ακόμη, με την χρήση pipelining εισάγει στο αρχείο στην φράση, η οποία του επιτρέπει να εκτελείται μόνο του χωρίς την λέξη python δίπλα του(`python Axileas.py`) και αφού ολοκληρωθεί η εκτέλεση του προγράμματος, αποθηκεύει τα αποτελέσματα σε ένα txt αρχείο(Αυτή η ιδέα είναι εμπνευσμένη από τον συμφοιτητή μου [nkanagno](https://github.com/nkanagno/hci)).
+### Έφτιαξα ένα shell script το παίρνει δημιουργεί ένα αρχείο `.txt` στο οποίο προσθέτονταί όλα τα απαραίτητα αρχεία ώστε να λειτουργήσει το site. Στην συνέχεια μετατρέπει το αρχείο txt σε `.md` και με την εντολή `pandoc -s $namefile.md -o $namefile.html` μετατρέπονται όλα τα αρχεία σε `html`.
 
-* [PythonCom.sh](https://github.com/Axileaszervos/EXERCISE-10/blob/main/PythonCompiler.sh)
-* [Axileas.py](https://github.com/Axileaszervos/EXERCISE-10/blob/main/Axileas.py)
-* [results.txt](https://github.com/Axileaszervos/EXERCISE-10/blob/main/results.txt)
-* [asciinema demo](https://asciinema.org/a/541688)
+* [SiteGen.sh](https://github.com/Axileaszervos/EXERCISE-10/blob/main/SiteGEn.sh)
+* [md files](https://github.com/Axileaszervos/EXERCISE-10/tree/main/SITE)
+* [html files](https://github.com/Axileaszervos/EXERCISE-10/tree/main/HTML%20FILES)
+* [Site](file:///home/axileas/Videos/Static%20Site/HTML%20FILES/Site.html)
+* [asciinema video](https://asciinema.org/a/543474)
 
 
 
