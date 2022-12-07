@@ -325,7 +325,7 @@
 * [SiteGen.sh](https://github.com/Axileaszervos/EXERCISE-10/blob/main/SiteGEn.sh)
 * [md files](https://github.com/Axileaszervos/EXERCISE-10/tree/main/SITE)
 * [html files](https://github.com/Axileaszervos/EXERCISE-10/tree/main/HTML%20FILES)
-* [Site](file:///home/axileas/Videos/Static%20Site/HTML%20FILES/Site.html)
+* [Site](https:///home/axileas/Videos/Static%20Site/HTML%20FILES/Site.html)
 * [asciinema video](https://asciinema.org/a/543474)
 
 
