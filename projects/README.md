@@ -143,7 +143,7 @@ H βιογραφία που επέλεξα σχετίζεται με την το
 
 
 ## ΠΑΡΑΔΟΤΕΟ 10 - Άσκηση γραμμής εντολών 
-Σε αυτό το παραδοτέο δημιούργησα ένα bass αρχείο .χρησιμοποιώντας ένα script ,το οποίο θα τρέχει ένα τραγούδι απο το youtube .Αρχικά , εγκατέστησα <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a> και το <a href="https://github.com/mpv-player/mpv">mpv</a> με την εντολή pacman . Το <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a> δημιουργεί το mkr αρχείο και το mpv παίρνει το αρχείο απο το youtube-dl για να μπορεί να τρέξει το τραγούδι .Αυτό επιτυγχάνεται με το <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MySong.sh">script</a> ποy χρησιμοποίησα.
+Σε αυτό το παραδοτέο δημιούργησα ένα bass αρχείο .χρησιμοποιώντας ένα script ,το οποίο θα τρέχει ένα τραγούδι απο το youtube .Αρχικά , εγκατέστησα <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a> και το <a href="https://github.com/mpv-player/mpv">mpv</a> με την εντολή pacman . Το <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a> δημιουργεί το mkv αρχείο και το mpv παίρνει το αρχείο απο το youtube-dl για να μπορεί να τρέξει το τραγούδι .Αυτό επιτυγχάνεται με το <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MySong.sh">script</a> ποy χρησιμοποίησα.
 
 
 
