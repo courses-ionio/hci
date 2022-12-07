@@ -152,3 +152,11 @@ H βιογραφία που επέλεξα σχετίζεται με την το
 - <a href="https://asciinema.org/a/leD2gAIMCdqH0HE40rssKeyVk">asciinema</a>
 
 <a href="https://github.com/courses-ionio/help/discussions/1871">discussions</a>
+
+## ΠΑΡΑΔΟΤΕΟ 11 - Κατασκευή του βιβλίου Β
+
+Σε αυτό το παραδοτέο μετέτρεψα το βιβλίο σε pdf και πρόσθεθα το case_study για το nintendo και το _biography του Φουσατζίρο Γιαμαούτσι που έκανα στα προηγούμενα παραδοτέα .Αντιμετοπίζω ένα πρόβλημα δεν μου εμφανίζονται οι εικόνες .
+![ebook](https://user-images.githubusercontent.com/79106646/206320718-635a82ee-6823-4067-b580-501296bd61df.png)
+
+- <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/mypictures/ebook.png">Mypictures_ebook</a>
+- <a href="https://github.com/TZOYRMANAS/kallipos/tree/master/epub">.epub</a>
