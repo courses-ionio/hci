@@ -56,10 +56,10 @@
  <a href="https://github.com/courses-ionio/help/discussions/1648">discussions</a>
 
 ## ΠΑΡΑΔΟΤΕΟ 4 - Άσκηση γραμμής εντολών (Εγκατάσταση arch linux)
-Στο συγκεκριμένο παραδοτέο έπρεπε να επιλέξουμε μερικές εντολές απο το warm up cli που βρίσκεται στις οδηγίες του μαθήματος και να τις πραγματοποιήσουμε στο arch linux σε πραγματικό κόσμο .
+Στο συγκεκριμένο παραδοτέο έπρεπε να επιλέξουμε μερικές εντολές απο το warm up cli που βρίσκεται στις οδηγίες του μαθήματος και να τις πραγματοποιήσουμε στο arch linux σε πραγματικό κόσμο .Ακολούθησα διάφορα tutorials στο διαδύκτιο για την εγκατάσταση ,τα οποία με βοηθήσανε πολύ .Η γραφική διεπαφή που χρησιμοποίησα είναι  gnome και την εγκατέστησα με την εντολή sudo pacman -S.
 ![image_2022_11_13T21_39_34_840Z](https://user-images.githubusercontent.com/79106646/201758940-bf0606a6-c2f2-4d80-b48c-e932d6c1e086.png)
 
-Οι εντολές που επέλεξα παρουσιάζονται στα ακόλουθα recodrs του  aasciinema.
+Τα warm-ups που επέλεξα παρουσιάζονται στα ακόλουθα recodrs του  aasciinema.
 
 - <a href="https://asciinema.org/a/DC9uTGuO14D3AryaXY0wiOkyr">weather</a> 
 
@@ -68,6 +68,7 @@
 
  <a href="https://github.com/courses-ionio/help/discussions/1649">discussions</a>
 
+Στο συγκεκριμένο παραδοτέο το account  που δημιούργησα στο terminal εμφανίζεται με p18tzou@127 το hostname.Στην άσκηση γραμμής εντολών του παραδοτέο 10 το διώρθοσα .
 
 ## ΠΑΡΑΔΟΤΕΟ 5 - Συμμετοχικό περιεχόμενο Α2
 Πρόσθεσα τις εικόνες που χρησιμοποίσημα στο Παραδοτέο 3 .
@@ -118,7 +119,7 @@
 
 <a href="https://github.com/courses-ionio/help/discussions/1796">discussions  </a>
 ## ΠΑΡΑΔΟΤΕΟ 8 - Άσκηση γραμμής εντολών 
-Σε αυτό το παραδοτέo επέλεξα ένα script ,το οποίο ζητάει να τους δώσουμε δύο αριθμούς επιλέγει την πράξη που θα κάνει με αυτούς και την εμφανίζει.Αρχικά,για να βάλω το script στο Terminal ,δημιούργησα ένα bash αρχείο για να μπορεί να είναι εκτελέσιμο και εκεί έγραψα το script .Επίσης, εγκατέστησα το εργαλείο bc(packman bc)απο το pandoc  που βοηθάει στις πράξεις με αριθμoύς.Με την εντολή chmod +x Mycalc.sh δώσαμε δικαιώματα για να μπορεί να εκτελεστεί το script .
+Σε αυτό το παραδοτέo επέλεξα ένα script ,το οποίο ζητάει να τους δώσουμε δύο αριθμούς επιλέγει την πράξη που θα κάνει με αυτούς και την εμφανίζει.Αρχικά,για να βάλω το script στο Terminal ,δημιούργησα ένα bash αρχείο για να μπορεί να είναι εκτελέσιμο και εκεί έγραψα το script .Επίσης, εγκατέστησα το εργαλείο bc(packman bc)  που βοηθάει στις πράξεις με αριθμoύς.Με την εντολή chmod +x Mycalc.sh δώσαμε δικαιώματα για να μπορεί να είναι εκτελέσιμο το script .
 
 - <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MyCalc.sh">script</a>
 - <a href="https://asciinema.org/a/I5b0FG6cSJQc4dbUq9dqo1fsC">MyCalt.sh</a>
@@ -143,7 +144,7 @@ H βιογραφία που επέλεξα σχετίζεται με την το
 
 
 ## ΠΑΡΑΔΟΤΕΟ 10 - Άσκηση γραμμής εντολών 
-Σε αυτό το παραδοτέο δημιούργησα ένα bass αρχείο .χρησιμοποιώντας ένα script ,το οποίο θα τρέχει ένα τραγούδι απο το youtube .Αρχικά , εγκατέστησα <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a> και το <a href="https://github.com/mpv-player/mpv">mpv</a> με την εντολή pacman . Το <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a> δημιουργεί το mkv αρχείο και το mpv παίρνει το αρχείο απο το youtube-dl για να μπορεί να τρέξει το τραγούδι .Αυτό επιτυγχάνεται με το <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MySong.sh">script</a> ποy χρησιμοποίησα.
+Σε αυτό το παραδοτέο δημιούργησα ένα bass αρχείο .χρησιμοποιώντας ένα script ,το οποίο θα τρέχει ένα τραγούδι απο το youtube .Αρχικά , εγκατέστησα <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a> και το <a href="https://github.com/mpv-player/mpv">mpv</a> με την εντολή pacman . Το <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a> εγκαυηστά το mkv αρχείο και το mpv παίρνει το αρχείο απο το youtube-dl για να μπορεί να τρέξει το τραγούδι .Αυτό επιτυγχάνεται με το <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MySong.sh">script</a> που χρησιμοποίησα.
 
 
 
@@ -160,3 +161,5 @@ H βιογραφία που επέλεξα σχετίζεται με την το
 
 - <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/mypictures/ebook.png">Mypictures_ebook</a>
 - <a href="https://github.com/TZOYRMANAS/kallipos/tree/master/epub">.epub</a>
+
+## ΠΑΡΑΔΟΤΕΟ 12 -
