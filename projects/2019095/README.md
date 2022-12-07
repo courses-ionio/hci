@@ -18,7 +18,7 @@
 | 7 | Συμμετοχικό περιεχόμενο B1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1693),[cs-study](https://site-reme1o673-angeloth1.vercel.app/case-study/bash/), [See more!](#case-study-) | |
 | 8 | Άσκηση γραμμής εντολών |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1795), [Script](https://github.com/Angeloth1/bashscript/blob/main/mdConvertor.sh), [See more](#shell_script_v1-) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1859), [Include](https://github.com/Angeloth1/site/blob/master/_includes/bio-Dennis-Ritchie.md), [biography](https://github.com/Angeloth1/site/blob/master/_biography/dennisritchie.md), [See more](#dennis_ritche_biography-)| |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 | Άσκηση γραμμής εντολών |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1875), [asciinema](https://asciinema.org/a/XU8BdlNcrOYUccX1nXaYqEJfd), [See more](#terminal_as_ide-%EF%B8%8F)| |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
