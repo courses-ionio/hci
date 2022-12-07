@@ -163,15 +163,15 @@
  
  ### Lego-wedo:
  
-   * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/OMADA12/_gallery/blob/master/Legowedo.md)
-   * Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo]()
+   * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/Axileaszervos/_gallery/blob/4f8133978e8322103b9e8d500602182d6fd66e0b/LegoWeDo.md)
+   * Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo](https://axileaszervos.netlify.app/gallery/legowedo/)
    * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Legowedo.jpg](https://github.com/OMADA12/images/blob/master/Legowedo.jpg)
    * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Legowedo-thumb.jpg](https://github.com/OMADA12/images/blob/master/Legowedo-thumb.jpg)
    
  ### Logo:
   
    * Tο .md αρχείο του Logo στο αποθετήριο της ομάδας μου: [Logo.md](https://github.com/OMADA12/_gallery/blob/master/Logo.md)
-   * Η εικόνα του Logo στο site της ομάδας μου: [Logo]()
+   * Η εικόνα του Logo στο site της ομάδας μου: [Logo](https://github.com/Axileaszervos/_gallery/blob/4f8133978e8322103b9e8d500602182d6fd66e0b/Logo.md)
    * Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [Logo.jpg](https://github.com/OMADA12/images/blob/master/Logo.jpg)
    * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg](https://github.com/OMADA12/images/blob/master/Logo-thumb.jpg)
    
