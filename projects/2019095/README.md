@@ -162,6 +162,20 @@ fi
 
 ![image](https://user-images.githubusercontent.com/39650065/205857976-d4693130-ed35-4215-954e-2af971803bfd.png)
 
+# Terminal_as_IDE ✍️
+
+Σε αυτό το παραδοτέο κατέβασα το [spaceVim](https://spacevim.org/)
+`curl -sLf https://spacevim.org/install.sh | bash`
+και πρόσθεσα το [space-vim-dark](https://github.com/liuchengxu/space-vim-dark) ένα plug-in όπου αλλάζει το colorscheme 
+[![asciicast](https://asciinema.org/a/XU8BdlNcrOYUccX1nXaYqEJfd.svg)](https://asciinema.org/a/XU8BdlNcrOYUccX1nXaYqEJfd)
+κάνοντας ουσιασικά το ακόλουθω από το [donkey](https://github.com/epidrome/dokey)
+
+
+|assignments|deliverables|references|
+|-----------|------------|----------|
+| use the terminal as an IDE | edit your files (e.g., report, blog, code, etc) in vim or emacs and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) [spacevim](https://spacevim.org/) [doom-emacs](https://github.com/hlissner/doom-emacs) [make](https://www.gnu.org/software/make/) [just](https://github.com/casey/just) [tmex](https://github.com/evnp/tmex) |
+
+
 ## TEAM 🔬
 
 ### [Second Time Is The Charm](https://github.com/Second-Time-is-the-Charm)
