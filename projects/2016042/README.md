@@ -113,3 +113,16 @@ Netlify:
 - https://www.computer.org/profiles/william-hewlett
 - https://www.britannica.com/biography/William-Hewlett
 - https://en.wikipedia.org/wiki/Bill_Hewlett
+
+# Παραδοτέο 10
+Για το Παραδοτέο 10, αποφάσισα να κάνω το "use the terminal as an IDE" από το dokey. Τροποποίησα το neovim με σκοπό να
+βάλω indented line number και relative numbers. Για να το κάνω αυτό, έφτιαξα το φάκελο `nvim` μέσα στο `.config` , για να βάλω τα configuration files
+που θα χρειαστούνε για αυτή την τροποποίηση. Μέσα στο `nvim` έχω ένα `init.lua` file και ένα φάκελο `lua` . Μέσα στον φάκελο lua έχω το φάκελο `marina` στον οποίο έχω βάλει τα τρία βασικά configuration files. Τα τρία βασικά files που έφτιαξα ήταν το `init.lua`, το `packer.lua` και το `set.lua`. Τέλος, έκανα git clone ένα αποθετήριο στο github το οποίο καλώ μέσω του `packer.lua`. Παρακάτω παραθέτω δύο asciinema όπου στο πρώτο δείχνω τα files που πρόσθεσα για να κάνω αυτή την τροποποίηση και στο δεύτερο δείχνω ένα παράδειγμα χρήσης. Επίσης δίνω το link από το αποθετήριο στο github που χρησιμοποίησα:
+
+ - [github repo](https://github.com/wbthomason/packer.nvim)
+  
+  [![asciinema 1](https://asciinema.org/a/543466.svg)](https://asciinema.org/a/543466)
+  [![asciinema 2](https://asciinema.org/a/543460.svg)](https://asciinema.org/a/543460)
+
+ 
+
