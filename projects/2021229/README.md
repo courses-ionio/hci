@@ -27,7 +27,7 @@
 | 7 | Συμμετοχικό περιεχόμενο B1 | [Click](https://github.com/courses-ionio/help/discussions/1713) | |
 | 8 | Άσκηση γραμμής εντολών | [Click](https://github.com/courses-ionio/help/discussions/1781) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | [Click](https://github.com/courses-ionio/help/discussions/1841) | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 | Άσκηση γραμμής εντολών | [Click](https://github.com/courses-ionio/help/discussions/1883) | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -123,7 +123,7 @@ Links:
 <br /><br />
 # Εβδομάδα Δέκατη - Άσκηση γραμμής εντολών
 
-&nbsp;&nbsp;&nbsp;Για αυτό το παραδοτέο από τις ασκήσεις [HCI](https://github.com/epidrome/dokey#hci) διάλεξα να κάνω το `create your own static site and blog generator with pandoc`. Έφτιαξα ένα static site όπου είναι ένα απλό portofolio της δουλείας μου που κάνω ως amateur graphic designer. Έφτιαξα ένα βασικό αρχείο index.md όπου μέσω ενός πολύ απλού script το μετατρέπει σε .html χρησιμοποιώντας το style.css όπου είναι ένα template όπου βρήκα από ένα βίντεο. 
+&nbsp;&nbsp;&nbsp;Για αυτό το παραδοτέο από τις ασκήσεις [HCI](https://github.com/epidrome/dokey#hci) διάλεξα να κάνω το `create your own static site and blog generator with pandoc`. Έφτιαξα ένα static site όπου είναι ένα απλό portofolio της δουλείας μου που κάνω ως amateur graphic designer. Έφτιαξα ένα βασικό αρχείο index.md όπου μέσω ενός πολύ απλού script το μετατρέπει σε .html χρησιμοποιώντας το style.css όπου είναι ένα template όπου βρήκα. 
 
 Ακόμα, όπως και ο @AimiliosPavlidis2001 στο παραδοτέο 8 του, το έκανα deploy μέσω netlify αν θελήσει κάποιος να το δει.
 
