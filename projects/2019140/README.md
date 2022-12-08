@@ -100,3 +100,7 @@ echo "$(cat FinalTemporaryMS)" | groff -ms -tbl -refer -Kutf8 -Tpdf > Anafora.pd
 - https://en.wikipedia.org/wiki/Linus_Torvalds
 - https://www.youtube.com/watch?v=o8NPllzkFhE
 - https://en.wikipedia.org/wiki/Linux
+
+## Παραδοτέο 10 - Άσκηση γραμμής εντολών
+Για την άσκηση γραμμής εντολών του 10ου παραδοτέου υλοποίησα την 4η άσκηση `use the terminal as an IDE`. Χρησιμοποίησα το tmux για να χωρίσω την οθόνη του terminal σε πολλαπλά κομμάτια. Με το εργαλείο αυτό μπορώ να αξιοποιήσω το terminal ως ένα lightweight IDE και να εξοικονομήσω πόρους του συστήματος. Στο recording παρακάτω κάνω μια επίδειξη του εργαλείου χρησιμοποιόντας κάποια προγράμματα που έχω γράψει σε Python και C. Από το Python πρόγραμμα βρίσκω το thumbnail URL ενός βίντεο του YouTube και στην συνέχεια μέσω pipe στέλνω το URL στο πρόγραμμα σε C. Το πρόγραμμα διαβάζει το STDIN_FILENO και χρησημοποιεί το wget για να κατεβάσει το thumbnail. Τέλος, μιας και έχω ήδη το URL του βίντεο αποφάσισα να συνδυάσω την άσκηση αυτή με την warm up άσκηση που υλοποίησα στο παραδοτέο Arch Install σε πραγματικό Hardware κατεβάζοντας το βίντεο σε μορφή MP3 με το `youtube-dl`. Παρακάτω επισυνάπτω το asciinema link του recording.
+ [![asciicast](https://asciinema.org/a/544157.svg)](https://asciinema.org/a/544157)
