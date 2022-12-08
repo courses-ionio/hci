@@ -119,3 +119,14 @@ Links:
 [Includes](https://github.com/inf2021229/site/blob/master/_includes/bio-marcus.md),
 [Biography](https://github.com/inf2021229/site/blob/master/_biography/aaron-marcus.md),
 [Netlify](https://inf2021229.netlify.app/biography/aaron-marcus/)
+
+<br /><br />
+# Εβδομάδα Δέκατη - Άσκηση γραμμής εντολών
+
+&nbsp;&nbsp;&nbsp;Για αυτό το παραδοτέο από τις ασκήσεις [HCI](https://github.com/epidrome/dokey#hci) διάλεξα να κάνω το `create your own static site and blog generator with pandoc`. Έφτιαξα ένα static site όπου είναι ένα απλό portofolio της δουλείας μου που κάνω ως amateur graphic designer. Έφτιαξα ένα βασικό αρχείο index.md όπου μέσω ενός πολύ απλού script το μετατρέπει σε .html χρησιμοποιώντας το style.css όπου είναι ένα template όπου βρήκα από ένα βίντεο. 
+
+Ακόμα, όπως και ο @AimiliosPavlidis2001 στο παραδοτέο 8 του, το έκανα deploy μέσω netlify αν θελήσει κάποιος να το δει.
+
+Links:
+[Repository](https://github.com/inf2021229/basic-portofolio),
+[Netlify Link](https://ntdesignart-portofolio.netlify.app/)
