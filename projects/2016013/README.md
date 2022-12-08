@@ -98,7 +98,6 @@ Slides
 - [site](https://jade-fenglisu-025746.netlify.app//case-study/xerox-globalview/)
 
 - [pull request](https://github.com/Unixidized/site/pull/16)
-- 
 
  Οι πηγές μου:
 - http://www.verycomputer.com/3_d478afa034724871_1.htm
