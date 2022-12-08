@@ -317,24 +317,23 @@
 
 # ΠΑΡΑΔΟΤΕΟ 10
 
-## STATIC SITE
-Σε αυτό το παραδοτέο συνείζεται η ενασχόληση με τις [ασκήσεις](https://github.com/epidrome/dokey#hci) του ΗCI όμως, θα πρέπει να προστεθεί και χρήση pipelining στο Shell script. Προσωπικά επέλεξα την 2η άσκηση, στην και έφτιαξα ένα static site στο οποίο υπάρχουν κάποιες έτοιμες σελίδες με περιεχόμενο μέσα τους και ο χρήστης μπορεί επίσης να προσθέσει το δικό του.
- 
-### Έφτιαξα ένα shell script το παίρνει δημιουργεί ένα αρχείο `.txt` στο οποίο προσθέτονταί όλα τα απαραίτητα αρχεία ώστε να λειτουργήσει το site. Στην συνέχεια μετατρέπει το αρχείο txt σε `.md` και με την εντολή `pandoc -s $namefile.md -o $namefile.html` μετατρέπονται όλα τα αρχεία σε `html`.
+## USE THE TERMINAL AS AN ID
+Σε αυτό το παραδοτέο συνείζεται η ενασχόληση με τις [ασκήσεις](https://github.com/epidrome/dokey#hci) του ΗCI. 'Επειτα απο την συμβουλή του συναδέλφου μου [nkanagno](https://github.com/nkanagno) εγκατέστησα το tmux στο terminal μου με την εντολή `sudo pacman -Sy tmux` με σκοπό να χρησιμοποιήσω πολλαπλές οθόνες στο terminal ταυτόχρονα.
 
-* [SiteGen.sh](https://github.com/Axileaszervos/EXERCISE-10/blob/main/SiteGEn.sh)
-* [md files](https://github.com/Axileaszervos/EXERCISE-10/tree/main/SITE)
-* [html files](https://github.com/Axileaszervos/EXERCISE-10/tree/main/HTML%20FILES)
-* [Site](https:///home/axileas/Videos/Static%20Site/HTML%20FILES/Site.html)
-* [asciinema video](https://asciinema.org/a/543474)
+* Με την εντολή `tmux new -s name_of_my_session` δημιουργούσα ένα νέο session
+* Με την εντολή `Ctrlb and shift+"` μπορούσα να δημιουργήσω ένα επιπλέον terminal(κάθετα)
+* Με την εντολή `Ctrl and shift+%" μπορούσα να δημιουργήσω ένα επιπλέον terminal(οριζόντια)
+* Με την εντολή 'Ctrlb and shift+Arrow Keys` μπορούσα να μετακινηθώ ανάμεσα στα termimals που έχει δημιουργήσει
 
+### My Files
 
-
+* [PythonCompiler.sh](https://github.com/Axileaszervos/HCI-EXERSICE-4/blob/main/PythonCompiler.sh)
+* [my program](https://github.com/Axileaszervos/HCI-EXERSICE-4/blob/main/Axileas.py)
+* [asciinema video](https://asciinema.org/a/544132)
 
 # ΠΑΡΑΔΟΤΕΟ 11
   
   
-
 
 
 # LINKS ΑΠΟ ΣΥΖΗΤΗΣΕΙΣ
