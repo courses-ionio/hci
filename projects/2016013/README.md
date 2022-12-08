@@ -14,7 +14,7 @@
 | 7 | Συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/help/discussions/1715 | |
 | 8 | Άσκηση γραμμής εντολών |https://github.com/courses-ionio/help/discussions/1759 | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 | Άσκηση γραμμής εντολών |https://github.com/courses-ionio/help/discussions/1882 | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -107,3 +107,10 @@ Slides
 
 - [asciinema](https://asciinema.org/a/34BHlsWxntKbbp4cb87MBxiye)
 - [script](https://github.com/p16kyri/Paradoteo-8/blob/main/cnr.sh)
+
+
+# Παραδοτέο 10
+
+Για το 10ο παραδοτέο πειραματίστηκα με το groff. Αφού κατέβασα το groff, έφτιαξα ένα αρχείο text.ms για να δοκιμάσω τα ms macros.
+Επίσης έφτιαξα ένα μικρό script το οποίο κάνει compile σε postscript και σε pdf. Για να ασχοληθώ με το groff συμβουλεύτικα το [arch wiki](https://man.archlinux.org/man/groff_ms.7). Παρακάτω έχω το asciinema όπου δείχνω το compile.sh και το text.ms:
+- [asciinema](https://asciinema.org/a/544090)
