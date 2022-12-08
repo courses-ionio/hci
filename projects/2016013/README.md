@@ -95,6 +95,10 @@ Slides
 
 - [case study](https://github.com/p16kyri/site/blob/master/_case-study/xerox-globalview.md)
 
+- [site](https://jade-fenglisu-025746.netlify.app//case-study/xerox-globalview/)
+
+- [pull request](https://github.com/Unixidized/site/pull/16)
+
 Λόγω τεχνικών προβλημάτων με το netlify δεν έχω βάλει λινκ προς το παρόν για αυτό.
 
  Οι πηγές μου:
