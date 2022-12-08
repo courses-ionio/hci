@@ -59,7 +59,7 @@
 Slides
 
 
-- [Windows XP](https://jade-fenglisu-025746.netlify.app//slides/os/)
+- [Windows XP](https://jade-fenglisu-025746.netlify.app//slides/oss/)
 
 - [Xerox Globalview 2.1](https://jade-fenglisu-025746.netlify.app//slides/gui/)
 
