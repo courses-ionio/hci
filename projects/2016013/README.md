@@ -122,7 +122,9 @@ Slides
 
 - [includes](https://github.com/p16kyri/site/blob/master/_includes/bio-gates.md)
 
+- [images pull request](https://github.com/Unixidized/images/pull/20)
 
+- [site pull request](https://github.com/Unixidized/site/pull/19)
 
 
 # Παραδοτέο 10
