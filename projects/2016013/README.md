@@ -118,6 +118,8 @@ Slides
 
 Για το συμμετοχικό περιεχόμενο Β2, με αφορμή το οτι στο τρίτο παραδοτέο ασχολήθηκα με τα Windows XP η βιογραφία που έκανα είναι του Bill Gates.
 
+- [biography](https://github.com/p16kyri/site/blob/master/_biography/bill-gates.md)
+
 
 
 
