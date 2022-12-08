@@ -172,4 +172,6 @@ H βιογραφία που επέλεξα σχετίζεται με την το
 - <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/mypictures/ebook.png">Mypictures_ebook</a>
 - <a href="https://github.com/TZOYRMANAS/kallipos/tree/master/epub">.epub</a>
 
+<a href="https://github.com/courses-ionio/help/discussions/1879">discussions</a>
+
 ## ΠΑΡΑΔΟΤΕΟ 12 -
