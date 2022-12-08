@@ -120,6 +120,8 @@ Slides
 
 - [biography](https://github.com/p16kyri/site/blob/master/_biography/bill-gates.md)
 
+- [includes](https://github.com/p16kyri/site/blob/master/_includes/bio-gates.md)
+
 
 
 
