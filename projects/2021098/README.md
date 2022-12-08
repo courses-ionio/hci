@@ -463,3 +463,5 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
   ## <ins> GROFF and SpaceVim Overview: </ins>
 
 [![asciicast](https://asciinema.org/a/544020.svg)](https://asciinema.org/a/544020)
+
+# Παραδοτέο 11: Κατασκευή του Βιβλ
