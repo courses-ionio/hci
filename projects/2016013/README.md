@@ -106,12 +106,18 @@ Slides
 - http://toastytech.com/guis/gv.html
 - https://bushytree.fandom.com/wiki/GlobalView
 
+
 # Παραδοτέο 8
 
 Για το 8ο έκανα ένα script το οποίο διαβάζει όλα τα αρχεία C σε ένα φάκελο και τα κάνει compile.
 
 - [asciinema](https://asciinema.org/a/34BHlsWxntKbbp4cb87MBxiye)
 - [script](https://github.com/p16kyri/Paradoteo-8/blob/main/cnr.sh)
+
+
+# Παραδοτέο 9
+
+Για το συμμετοχικό περιεχόμενο Β2 
 
 
 # Παραδοτέο 10
