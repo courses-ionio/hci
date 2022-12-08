@@ -92,8 +92,12 @@
 
 Για την δημιουργία του βιβλίου το πρώτο μου βήμα ήτανε να κάνω fork στο kallipos και εν συνεχεία συμβουλεύτηκα τα βήματα που έστειλαν οι συμφοιτητές μας στις συζητήσεις ,οι οποίες με βοηθήσανε πολύ για να εγκαταστήσω τα ακόλουθα πακέτα pandoc, python-pip, pandoc-fignos & texlive-core ,.lua .Αφού,σύνδεσα το kallipos με το τερματικό και επεξεργάστηκα τα submodules ,σέταρα τα fonts.Στην συνέχεια , ασχολήθηκα με το make-latex.sh αρχείο ,όπου όταν πήγα να προσθέσω το βιβλίο μου προέκυπτε ένα πρόβλημα με τα fonts .Αρχικά , χρησιμοποιήσα το noto sans regular και δεν μου έτρεχε καθόλου ,μετά το έγραψα χωρίς το regular και μου έβγαζε το βιβλίο με περίεργους χαρακτήρες ,εν τέλει χρησιμοποίσα το Nimbus.Έγραψα την υποσημείωση μου στο φάκελο text (ch8) και δημιούργησα έναν φάκελο  glosses ,στον οποίο πρόσθεσα το glossesprogrammatismou.md.Έπειτα, έφτιαξα το αρχείο glossesprogrammatismou.lua και έτρεξα ένα σετ εντολών για να εμφανιστούν αυτά που θέλαμε απο το glossesprogrammatismou.md μέσα στο βιβλίο στην παράγραφο που επελέξα .Τέλος , εκτελώντας πάλι κάποιες εντολές ανεβάσα το βιβλίο στο στον φάλελο book .
 ### screenshot  :
-- <a href="https://github.com/TZOYRMANAS/kallipos/commit/48cdac884df0d2aafbaaff0c1b6a28ace2869c6c">screenshot</a>
-### αρχείο.lua : 
+- <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/mypictures/book.png">screenshot</a>
+
+![book](https://user-images.githubusercontent.com/79106646/206325596-f6ff8603-d85f-4668-95a5-758ca04c5c51.png)
+
+### αρχείο.lua :
+
 - <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/glossesprogrammatismou.lua">glossesprogrammatismou.lua</a>
 ###  book.pdf :
 - <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/book/book.pdf">book.pdf</a>
