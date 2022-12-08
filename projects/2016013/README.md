@@ -70,6 +70,9 @@ Slides
 
 - [Xerox Globalview 2.1](https://jade-fenglisu-025746.netlify.app//timeline/desktop-publishing/)
 
+[pull request 1](https://github.com/Unixidized/site/pull/3)
+[pull request 2](https://github.com/Unixidized/site/pull/17)
+
 # Παραδοτέο 6
 
 Για το έκτο παραδοτέο έφτιαξα ενα  markdown αρχείο (comment.md) για να γράψω την προσθήκη που έκανα στο βιβλίο. Στη συνέχεια έφτιαξα ενα lua filter (comment.lua) για την προσθήκη μου το οποίο και πρόσθεσα στο make-latex.sh και το τροποποίησα για να κάνω generate το βιβλίο σε μορφή latex και σε μορφή pdf.Για την προσθήκη μου έκανα σχόλιο για την περίπτωση των Microsoft Windows.
