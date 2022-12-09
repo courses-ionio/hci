@@ -57,10 +57,10 @@
 
 
 
-### Asciinema 1:
+### journalctl -b:
 [![asciicast](https://asciinema.org/a/1vncGBcGC75mw1naweSyBJO5a.svg)](https://asciinema.org/a/1vncGBcGC75mw1naweSyBJO5a)
 .......................................................................................................................................................................................................................................
-### Asciinema 2: 
+### neofetch: 
 [![asciicast](https://asciinema.org/a/1vncGBcGC75mw1naweSyBJO5a.svg)](https://asciinema.org/a/1vncGBcGC75mw1naweSyBJO5a)
 
 # Εβδομάδα 3η
@@ -203,7 +203,7 @@
 
 # Εβδομάδα 10η
 
- Για αυτό το Παραδοτέο μας ζητήθηκε ,να ασχοληθούμε με την πλέον γνώριμη γραμμή εντολών η εντολή που χρησιμοποιήσα ήτανε η youtube-dl με την διαφορά οτι σε αυτό το παραδοτέο οι εντολές εκτελούνται μέσω script.Τέλος μέσω του konsole χρησιμοποιήσα το asciinema για εγγραφή οθόνης.
+ Για αυτό το Παραδοτέο μας ζητήθηκε να ασχοληθούμε με την πλέον γνώριμη γραμμή εντολών, η εντολή που χρησιμοποιήσα ήτανε η youtube-dl με την διαφορά οτι σε αυτό το παραδοτέο οι εντολές εκτελούνται μέσω script.Τέλος μέσω του konsole χρησιμοποιήσα το asciinema για εγγραφή οθόνης.
  
  ### Asciinema:
 [![asciicast](https://asciinema.org/a/sm6TrlSlLcuWVfxRBQhzUDDSE.svg)](https://asciinema.org/a/sm6TrlSlLcuWVfxRBQhzUDDSE)
