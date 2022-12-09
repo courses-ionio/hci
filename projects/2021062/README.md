@@ -59,7 +59,7 @@
 ## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ(warm-up) - ΠΑΡΑΔΟΤΕΟ 4
 Ο σκοπός του τέταρτου παραδοτέου ήταν η επιλογή από το warm-up category η λήψη και η αναπαραγωγή ενός τραγουδιού μέσω του command line.
 
-Το link από την αναπαραγωγή του τραγουδιού από το asciinema είναι το εξής: https://asciinema.org/a/krpHvGSTOjRcey8om2EKqbVKa
+[![asciicast](https://asciinema.org/a/krpHvGSTOjRcey8om2EKqbVKa.svg)](https://asciinema.org/a/krpHvGSTOjRcey8om2EKqbVKa)
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α2 - ΠΑΡΑΔΟΤΕΟ 5
 Στο πέμπτο παραδοτέο μας ζητήθηκε η δημιουργία των slides και timelines στο αποθετήριο της ιστοσελίδας του βιβλίου.
