@@ -51,7 +51,7 @@
 
 # 5η Εβδομάδα 
 Έβαλα τη συνεισφορά μου για το templeOS στο ήδη υπάρχον gui και για το neovim έφτιαξα ένα δικό μου με όνομα text-editors.
-* [Pull request link](https://github.com/Unixidized/site/pull/15)
+* [Pull request link](https://github.com/Unixidized/_gallery/pull/17#event-7977977726)
 * [TempleOS timeline](https://jade-fenglisu-025746.netlify.app//timeline/os/)
 * [Neovim timeline](https://jade-fenglisu-025746.netlify.app//timeline/text-editing/)
 * [TempleOS slide](https://jade-fenglisu-025746.netlify.app//slides/os/)
