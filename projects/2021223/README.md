@@ -133,6 +133,10 @@ https://en.wikipedia.org/wiki/File:MSI_laptop_with_English_Wikipedia_screenshot_
 
 ## Ασκηση γραμμής εντολών
 
+Σε αυτό το παραδοτέο χρησιμοποίησα τα εργαλεία shell scripts έτσι ώστε να χρησιμοποιήσω το Terminal ως IDE όπου έβαλα έναν κώδικα σε γλώσσα c ο οποίος διαβάζει τον αριθμό των λέξεων μιας πρότασης. Αφού διόρθωσα τον κώδικα και τον έτρεξα μου εμφάνισε το κατάλληλο αποτέλασμα το οποίο βρίσκεται παρακάτω.
+
+[![asciicast](https://asciinema.org/a/i69Qu8phJc9xfNhu0UgsErJX6.svg)](https://asciinema.org/a/i69Qu8phJc9xfNhu0UgsErJX6)
+
 # Παραδοτέο 9ο
 
 ## Συμμετοχικό περιεχόμενο Β2
