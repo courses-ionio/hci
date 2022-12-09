@@ -323,7 +323,7 @@
 * Με την εντολή `tmux new -s name_of_my_session` δημιουργούσα ένα νέο session
 * Με την εντολή `Ctrlb and shift+"` μπορούσα να δημιουργήσω ένα επιπλέον terminal(κάθετα)
 * Με την εντολή `Ctrl and shift+%" μπορούσα να δημιουργήσω ένα επιπλέον terminal(οριζόντια)
-* Με την εντολή 'Ctrlb and shift+Arrow Keys` μπορούσα να μετακινηθώ ανάμεσα στα termimals που έχει δημιουργήσει
+* Με την εντολή `Ctrlb and shift+Arrow Keys` μπορούσα να μετακινηθώ ανάμεσα στα termimals που έχει δημιουργήσει
 
 ### My Files
 
@@ -332,8 +332,24 @@
 * [asciinema video](https://asciinema.org/a/544132)
 
 # ΠΑΡΑΔΟΤΕΟ 11
-  
-  
+  Σε αυτό το παραδοτέο έπρεπε να βάλουμε όλη μας την συνησφορά στο βιβλίο και να το μετατρέψουμε σε `.epub`. Για τον σκοπό αυτό πρόσθεσα στο `make-latex.sh` την εντολή `pandoc --quiet -f latex book.tex -o book.epub`.
+ 
+
+![bio-Papert](https://user-images.githubusercontent.com/115211756/206708124-3da5732a-52ed-42ee-89ea-8e19be3971a6.png)
+ * Η βιογραφία για τον Seymour Papert
+ 
+![cs-Legomindstorms](https://user-images.githubusercontent.com/115211756/206708626-ac73d087-0f89-45b0-8d9a-760e142262ad.png)
+* Μελέτη περίπτωσης για τα Legomindstorms
+
+![LegoWedo](https://user-images.githubusercontent.com/115211756/206708671-20ce28ad-1031-4913-b9a5-549175f5c493.png)
+* Φωτογραφία Lego WeDo
+
+![MyText](https://user-images.githubusercontent.com/115211756/206708767-20baba51-724e-4592-8e4a-f74554c0d271.png)
+* Η συνεισφορά μου
+##  FILES
+* [Photos from my text](https://github.com/Axileaszervos/kallipos/tree/master/MyPhotos)
+* [MyEPub.md](https://github.com/Axileaszervos/kallipos/tree/master/MyEpub)
+* [make-latex.sh](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
 
 
 # LINKS ΑΠΟ ΣΥΖΗΤΗΣΕΙΣ
