@@ -86,6 +86,5 @@
 | includes | https://github.com/inf2021062/site/blob/master/_includes/cs-monitor.md | https://el.wikipedia.org/wiki/%CE%9F%CE%B8%CF%8C%CE%BD%CE%B7_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE |
 | images | https://github.com/inf2021062/images/blob/1ec24892a4dbe26a4c8014691b01c946436c5335/monitor.jpg |
 
-
-
-
+## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ - ΠΑΡΑΔΟΤΕΟ 8
+Σε αυτό το παραδοτέο θα έπρεπε να επεξεργαστώ έναν κώδικα στην γραμμή εντολών κάτι το οποίο φαίνεται παρακάτω:[![asciicast](https://asciinema.org/a/FP1WNqvBMPNL8WmXI7XPnUWQK.svg)](https://asciinema.org/a/FP1WNqvBMPNL8WmXI7XPnUWQK)
