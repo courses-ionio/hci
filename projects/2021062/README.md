@@ -82,8 +82,8 @@
 
 | Μελέτη περίπτωσης | Links | Βιβλιογραφία |
 | --- | --- | --- |
-| case-study | https://github.com/inf2021062/site/blob/master/_case-study/monitor.md |
-| includes | https://github.com/inf2021062/site/blob/master/_includes/cs-monitor.md |
+| case-study | https://github.com/inf2021062/site/blob/master/_case-study/monitor.md | https://el.wikipedia.org/wiki/%CE%9F%CE%B8%CF%8C%CE%BD%CE%B7_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE |
+| includes | https://github.com/inf2021062/site/blob/master/_includes/cs-monitor.md | https://el.wikipedia.org/wiki/%CE%9F%CE%B8%CF%8C%CE%BD%CE%B7_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE |
 | images | https://github.com/inf2021062/images/blob/1ec24892a4dbe26a4c8014691b01c946436c5335/monitor.jpg |
 
 
