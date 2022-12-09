@@ -14,10 +14,10 @@
 | [4](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#4o-παραδοτέο) | Άσκηση γραμμής εντολών (warm up cli) |[Παραδοτέο 4ο](https://github.com/courses-ionio/help/discussions/1370) | |
 | [5](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#5o-παραδοτέο) | Συμμετοχικό περιεχόμενο A2 |[Παραδοτέο 5o](https://github.com/courses-ionio/help/discussions/1446) | |
 | [6](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#6o-παραδοτέο) | Κατασκευή του βιβλίου Α |[Παραδοτέο 6ο](https://github.com/courses-ionio/help/discussions/1549)| |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| [7](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#7o-παραδοτέο) | Συμμετοχικό περιεχόμενο B1 | | |
+| [8](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#8o-παραδοτέο) | Άσκηση γραμμής εντολών | | |
+| [9](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#9o-παραδοτέο) | Συμμετοχικό περιεχόμενο B2 | | |
+| [10](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#10o-παραδοτέο) | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -25,7 +25,7 @@
 ========================
 Εισαγωγή
 -------------------------------------------------------------------
-Μέσω αυτού του μαθήματος θέλω να μάθω να διαχειρίζομαι καινούρια - για εμένα - εργαλεία, όπως είναι το github και τα unix based συστήματα, σε αυτή την περίπτωση το Arch Linux distro, τα οποία θα με βοηθήσουν να εξελιχθώ ως φοιτήτρια στην επιστήμη της πληροφορίας αλλά και στην επαγγελματική μου πορεία ως εν δυνάμει πληροφορικός.
+Μέσω αυτού του μαθήματος θέλω να μάθω να διαχειρίζομαι καινούρια - για εμένα - εργαλεία, όπως είναι το github και τα unix based συστήματα, σε αυτή την περίπτωση το Arch Linux distro, τα οποία θα με βοηθήσουν να εξελιχθώ ως φοιτήτρια στην επιστήμη της πληροφορίας αλλά και στην επαγγελματική μου πορεία ως εν δυνάμει πληροφορικός. Τα Windows λειτουργικά συστήματα ήταν το κύριο λειτουργικό σύστημα που χρησιμοποιούσα μέχρι αυτό το εξάμηνο από πρέπει να γίνει η εγκατάσταση Arch Linux λειτουργικού συστήματος. Αποφάσισα να ασχοληθώ κυρίως με την εξέλιξη των Windows και των αλλαγών που έφεραν στην επικοινωνία ανθρώπου - υπολογιστή και να απομυθοποιήσω την υπεροχή που είχε για έμενα αυτό το λειτουργικό σύστημα και να γίνω linux user, κάτι το οποίο θα μου είναι χρήσιμο για την καθημερινότητα μου αλλά και για την επαγγελματική μου καριέρα.
 
 Ομάδα
 ------------------------------------------------------------------------------------------
@@ -96,3 +96,38 @@ Linux Installation
 [Η προσθήκη μου](https://github.com/marked-d/kallipos/blob/master/mycommentsp2019170/flowjefraskin.md) <br>
 
 ![image](https://github.com/marked-d/HCI_plus/blob/main/book/pros8hkh.png)
+
+7<sup>o</sup> Παραδοτέο 
+========================
+Συμμετοχικό περιεχόμενο B1
+---------------------------
+Για το συμμετοχικό περιεχομενο Β1 έκανα ενα case study για το λειτουργικό σύστημα Windows 11 επικεντρώνοντας στις διαφορές με το λειτουργικό σύστημα Windows 10.
+![image]()
+
+8<sup>o</sup> Παραδοτέο 
+========================
+Άσκηση γραμμής εντολών
+----------------------------
+Σε αυτό το παραδοτέο χρησιμοποίησα το εργαλείο bashyll και μαζί με το jrnl από τις warm up cli ασκήσεις που είχα κάνει στο 4ο παραδοτέο ανεβάζω τα entries μου από το jrnl σε ένα live site.
+
+[![asciicast](https://asciinema.org/a/544197.svg)](https://asciinema.org/a/544197)
+![image](https://github.com/marked-d/HCI_plus/blob/main/jrnl-live.png)
+
+9<sup>o</sup> Παραδοτέο 
+========================
+Συμμετοχικό περιεχόμενο B2
+--------------------------
+Για το συμμετοχικό περιεχομενο Β2 έγραψα τη βιογραφία του Paul Allen, συνιδρυτή της Microsoft, όπου είχε μεγάλη συμβολή στην εξέλιξη της εταιρίας και στην εξέλιξη των λειτουργικών συστημάτων της Windows έως και σήμερα.
+[netlify link](https://6393364fffc1613eae55e2c2--p19mark-marked-d.netlify.app/biography/paul-allen/)
+![image](https://github.com/marked-d/HCI_plus/blob/main/bio-paul-allen.png)
+
+10<sup>o</sup> Παραδοτέο 
+========================
+Άσκηση γραμμής εντολών
+------------------------
+Σε αυτό το παραδοτέο χρησιμοποίησα την pandoc για να φτιάξω ένα μενού μετατροπής markdown αρχείων σε epub, html, docx και odt.
+[shell script](https://github.com/marked-d/HCI_plus/blob/main/pndc/convert.sh)
+[![asciicast](https://asciinema.org/a/544192.svg)](https://asciinema.org/a/544192)
+![image](https://github.com/marked-d/HCI_plus/blob/main/conv-epub.png)
+![image](https://github.com/marked-d/HCI_plus/blob/main/conv-html.png)
+![image](https://github.com/marked-d/HCI_plus/blob/main/conv-docx.png)
