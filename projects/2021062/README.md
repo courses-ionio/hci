@@ -45,9 +45,8 @@
 ## ΑΣΚΗΣΕΙΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ(journalctl-b,neofetch) - ΠΑΡΑΔΟΤΕΟ 2
 Αφού έκανα την εγκατάσταση των Arch Linux όπως είπα κανονίκα πλέον και όχι σε virtual box έπρεπε να εκτελέσουμε τις εντολές journalctl-b,neofetch στο Konsole.
 
-1.[journalctl-b](https://asciinema.org/a/gJsGILhQytgp2T3QPSLLFjgzt)
-
-2.[neofetch](https://asciinema.org/a/1Nkljf2kUsFsEoPAWiwHnv1EZ)
+[![asciicast](https://asciinema.org/a/1Nkljf2kUsFsEoPAWiwHnv1EZ.svg)](https://asciinema.org/a/1Nkljf2kUsFsEoPAWiwHnv1EZ)
+[![asciicast](https://asciinema.org/a/gJsGILhQytgp2T3QPSLLFjgzt.svg)](https://asciinema.org/a/gJsGILhQytgp2T3QPSLLFjgzt)
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α1 - ΠΑΡΑΔΟΤΕΟ 3
 Ο στόχος του τρίτου παραδοτέου ήταν η αρχή της δημιουργίας της ιστοσελίδας του βιβλίου και η εισαγωγή δύο φωτογραφιών μέσω των submodules και jekyll στο βιβλίο.
