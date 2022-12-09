@@ -5,7 +5,7 @@
 ### Organization: [Second Time Is The Charm](https://github.com/Second-Time-Is-The-Charm/Main)
 #### GitHub Profile: [marked-d](https://github.com/marked-d "Μάρκου Δήμητρα")
 #### Asciinema: [markedd](https://asciinema.org/~markedd)
-
+#### Υποστηρικτικό Υλικό: [HCI plus](https://github.com/marked-d/HCI_plus)
 | Εβδομάδα | Παραδοτέα | [Εβδομαδιαία παρουσίαση προόδου](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
 | [1](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#1o-παραδοτέο) | Εισαγωγή και Δημιουργία ομάδας| [Εισαγωγή](https://github.com/courses-ionio/help/discussions/889) - [Ομάδα](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609)| |
@@ -14,10 +14,10 @@
 | [4](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#4o-παραδοτέο) | Άσκηση γραμμής εντολών (warm up cli) |[Παραδοτέο 4ο](https://github.com/courses-ionio/help/discussions/1370) | |
 | [5](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#5o-παραδοτέο) | Συμμετοχικό περιεχόμενο A2 |[Παραδοτέο 5o](https://github.com/courses-ionio/help/discussions/1446) | |
 | [6](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#6o-παραδοτέο) | Κατασκευή του βιβλίου Α |[Παραδοτέο 6ο](https://github.com/courses-ionio/help/discussions/1549)| |
-| [7](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#7o-παραδοτέο) | Συμμετοχικό περιεχόμενο B1 | | |
-| [8](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#8o-παραδοτέο) | Άσκηση γραμμής εντολών | | |
-| [9](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#9o-παραδοτέο) | Συμμετοχικό περιεχόμενο B2 | | |
-| [10](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#10o-παραδοτέο) | Άσκηση γραμμής εντολών | | |
+| [7](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#7o-παραδοτέο) | Συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7ο](https://github.com/courses-ionio/help/discussions/1720)| |
+| [8](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#8o-παραδοτέο) | Άσκηση γραμμής εντολών | [Παραδοτέο 8ο](https://github.com/courses-ionio/help/discussions/1885)| |
+| [9](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#9o-παραδοτέο) | Συμμετοχικό περιεχόμενο B2 |[Παραδοτέο 9ο](https://github.com/courses-ionio/help/discussions/1886) | |
+| [10](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#10o-παραδοτέο) | Άσκηση γραμμής εντολών |[Παραδοτέο 10ο](https://github.com/courses-ionio/help/discussions/1887) | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -102,7 +102,9 @@ Linux Installation
 Συμμετοχικό περιεχόμενο B1
 ---------------------------
 Για το συμμετοχικό περιεχομενο Β1 έκανα ενα case study για το λειτουργικό σύστημα Windows 11 επικεντρώνοντας στις διαφορές με το λειτουργικό σύστημα Windows 10.
-![image]()
+
+[netlify link](https://master--p19mark-marked-d.netlify.app/case-study/windows_11/)
+![image](https://github.com/marked-d/HCI_plus/blob/main/w11.png)
 
 8<sup>o</sup> Παραδοτέο 
 ========================
@@ -118,6 +120,7 @@ Linux Installation
 Συμμετοχικό περιεχόμενο B2
 --------------------------
 Για το συμμετοχικό περιεχομενο Β2 έγραψα τη βιογραφία του Paul Allen, συνιδρυτή της Microsoft, όπου είχε μεγάλη συμβολή στην εξέλιξη της εταιρίας και στην εξέλιξη των λειτουργικών συστημάτων της Windows έως και σήμερα.
+
 [netlify link](https://6393364fffc1613eae55e2c2--p19mark-marked-d.netlify.app/biography/paul-allen/)
 ![image](https://github.com/marked-d/HCI_plus/blob/main/bio-paul-allen.png)
 
@@ -127,6 +130,7 @@ Linux Installation
 ------------------------
 Σε αυτό το παραδοτέο χρησιμοποίησα την pandoc για να φτιάξω ένα μενού μετατροπής markdown αρχείων σε epub, html, docx και odt.
 [shell script](https://github.com/marked-d/HCI_plus/blob/main/pndc/convert.sh)
+
 [![asciicast](https://asciinema.org/a/544192.svg)](https://asciinema.org/a/544192)
 ![image](https://github.com/marked-d/HCI_plus/blob/main/conv-epub.png)
 ![image](https://github.com/marked-d/HCI_plus/blob/main/conv-html.png)
