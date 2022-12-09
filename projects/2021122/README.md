@@ -119,10 +119,9 @@
  ## Timeline playStation:
  
  ### link:https://github.com/inf2021122/site/blob/master/_timeline/playStation.md
- 
- 
- 
- 
+
+
+
  
  # Εβδομάδα 6η
  
@@ -202,9 +201,15 @@
 3.[images](https://el.wikipedia.org/wiki/%CE%9A%CE%B5%CE%BD_%CE%9A%CE%BF%CF%85%CF%84%CE%B1%CF%81%CE%AC%CE%B3%CE%BA%CE%B9)
 
 
-#Εβδομάδα 10η
+# Εβδομάδα 10η
 
-##
+ Για αυτό το Παραδοτέο μας ζητήθηκε ,να ασχοληθούμε με την πλέον γνώριμη γραμμή εντολών η εντολή που χρησιμοποιήσα ήτανε η youtube-dl με την διαφορά οτι σε αυτό το παραδοτέο οι εντολές εκτελούνται μέσω script.Τέλος μέσω του konsole χρησιμοποιήσα το asciinema για εγγραφή οθόνης.
+ 
+ ### Asciinema:
+[![asciicast](https://asciinema.org/a/sm6TrlSlLcuWVfxRBQhzUDDSE.svg)](https://asciinema.org/a/sm6TrlSlLcuWVfxRBQhzUDDSE)
+
+
+ 
 
       
 
