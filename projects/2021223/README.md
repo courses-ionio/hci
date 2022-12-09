@@ -155,4 +155,12 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ve
 
 https://en.wikipedia.org/wiki/File:Charles_Ranlett_Flint.jpg
 
+# Παραδοτέο 10ο
+
+## Άσκηση γραμμής εντολών
+
+Στο 10ο παραδοτέο μας ζητήθηκε να κάνουμε μια άσκηση γραμμής εντολών όπου επέλεξα να κάνω το youtube-dl όπου ασχολήθηκα με και στο 4ο παραδοτέο με την 
+μόνη διαφορά ότι αυτή την φορά την έτρεξα μέσω script και φαίνεται παρακάτω.
+
+[![asciicast](https://asciinema.org/a/eHT1taMO7nLASzByUn9btf1OK.svg)](https://asciinema.org/a/eHT1taMO7nLASzByUn9btf1OK)
 
