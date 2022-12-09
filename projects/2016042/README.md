@@ -13,9 +13,9 @@
 | 5 | Συμμετοχικό περιεχόμενο A2 | [Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1499) | Μερική ολοκλήρωση των ζητούμενωνν του παραδοτέου.Υπάρχει κάποιο αδιευκρίνιστο μέχρι στιγμής πρόβλημα στην φόρτωση των thump εικόνων|
 | 6 | Κατασκευή του βιβλίου Α | [Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1622)| Ολοκλήρωση των ζητούμενων του παραδοτέου |
 | 7 | Συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1642) | Ολοκλήρωση των ζητούμενων του παραδοτέου |
-| 8 | Άσκηση γραμμής εντολών | [Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1770) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | [Παραδοτέο 9](https://github.com/courses-ionio/help/discussions/1853) | |
-| 10 | Άσκηση γραμμής εντολών | [Παραδοτέο 10](https://github.com/courses-ionio/help/discussions/1878) | |
+| 8 | Άσκηση γραμμής εντολών | [Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1770) |Ολοκλήρωση των ζητούμενων του παραδοτέου |
+| 9 | Συμμετοχικό περιεχόμενο B2 | [Παραδοτέο 9](https://github.com/courses-ionio/help/discussions/1853) |Ολοκλήρωση των ζητούμενων του παραδοτέου |
+| 10 | Άσκηση γραμμής εντολών | [Παραδοτέο 10](https://github.com/courses-ionio/help/discussions/1878) |Ολοκλήρωση των ζητούμενων του παραδοτέου |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 <br />
