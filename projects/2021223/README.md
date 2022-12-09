@@ -141,5 +141,11 @@ https://en.wikipedia.org/wiki/File:MSI_laptop_with_English_Wikipedia_screenshot_
 
 ## Συμμετοχικό περιεχόμενο Β2
 
+Για το συμμετοχικό περιεχόμενο της 9ης εβδομάδας μας ζητήθηκε να κάνουμε ένα χρονολόγιο στον φάκελο /biography και να προσθέσουμε την ανάλογη εικόνα στον φάκελο /images.
+
+| Link for biography | Link for includes | Link for image |
+| --- | --- | --- |
+| [biography](https://github.com/inf2021223/site/blob/master/_biography/charles-ranlett-flint.md) | [includes](https://github.com/inf2021223/site/blob/master/_includes/bio-flint.md) | [image](https://github.com/inf2021223/images/blob/4b2e991e96d0e5af932e4940d98a70a6c0320f29/Charles_Ranlett_Flint.jpg) |
+
 ## Πηγές
 
