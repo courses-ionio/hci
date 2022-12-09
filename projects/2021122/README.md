@@ -122,6 +122,42 @@
 ### 2.Δεν μπόρεσα να επεξεργαστώ το make-latex.sh.
  
 ### 3.Δεν μπόρεσα να προσθέσω το σχόλιο μου μέσα στο βιβλίο.
+
+
+# Εβδομάδα 7η
+
+## Συμμετοχικό Περιεχόμενο ( Β1 ):
+
+Βάση των προηγούμενων Παραδοτέων (Α1,Α2) μας ζητήθηκε να δουλέψουμε πάλι στο ομαδικό μας αποθετήριο  για την ιστοσελίδα του βιβλίου του μαθήματος όπου χρειαζότανε να βρούμε μια νέα μελέτη περίπτωσης.
+
+## _case-study:
+ ### link:https://github.com/inf2021122/site/blob/master/_case-study/Tekken.md
+ 
+## _includes:
+### link:https://github.com/inf2021122/site/blob/master/_includes/cs-Tekken.md
+
+## images:
+ ### link:https://github.com/inf2021122/images/blob/cb0beb3ed92d68497ff89728d0af15bebc6f4c27/Tekken_series_logo_as_of_2012.png
+ 
+ ## Οι Πηγές που χρησιμοποιήσα ( _case-study , _includes , images ):
+1.[_case-study](https://en.wikipedia.org/wiki/Tekken)
+
+2.[_includes](https://en.wikipedia.org/wiki/Tekken)
+
+3.[images](https://en.wikipedia.org/wiki/Tekken)
+
+
+# Εβδομάδα 8η
+
+## Άσκηση γραμμής εντολών 
+
+Για αυτό το Παραδοτέο μας ζητήθηκε ,να ασχοληθούμε με την πλέον γνώριμη γραμμή εντολών (απο το 4ο Παραδοτέο) και ιδιαίετερα να χρησιμοποιήσουμε έναν  editor για να επεξεργαστούμε ένα κομμάτι κώδικα.Τέλος μέσω του konsole χρησιμοποιήσα το asciinema για εγγραφή οθόνης.
+ 
+### Asciinema:
+[![asciicast](https://asciinema.org/a/C2X0p91cqUzJNL6wQZI8yND4v.svg)](https://asciinema.org/a/C2X0p91cqUzJNL6wQZI8yND4v)
+      
+
+
  
    
  
