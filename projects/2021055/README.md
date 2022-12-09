@@ -230,14 +230,16 @@
 
 ## Η συνησφορά μου
 * [Η συνεισφορά μου](https://github.com/Axileaszervos/kallipos/blob/master/MyPhotos/%CE%97%20%CF%83%CF%85%CE%BD%CE%B5%CE%B9%CF%83%CF%86%CE%BF%CF%81%CE%AC%20%CE%BC%CE%BF%CF%85.png)
-![Η συνεισφορά μου](https://user-images.githubusercontent.com/115211756/206273359-c5a60021-b0c7-44af-9e37-bee79c4b0c0d.png)
+
+![Η συνεισφορά μου](https://user-images.githubusercontent.com/115211756/206714259-b0133c2c-663f-4be1-ab75-4cdca11d5041.png)
 
 
 ## Το κεφαλαίο που ασχολήθηκα
 * [To κεφάλαιο που επέλεξα](https://github.com/Axileaszervos/kallipos/blob/master/MyPhotos/%CE%A4%CE%BF%20%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%B1%CE%AF%CE%BF%20%CF%80%CE%BF%CF%85%20%CE%B1%CF%83%CF%87%CE%BF%CE%BB%CE%AE%CE%B8%CE%B7%CE%BA%CE%B1.png)
-![Το κεφαλαίο που ασχολήθηκα](https://user-images.githubusercontent.com/115211756/206273371-35888174-9794-4c22-b370-b68b042d555b.png)
 
-* link του βιβλίου σε μορφή pdf: [book.pdf](https://github.com/Axileaszervos/kallipos/blob/master/book.pdf)
+![Το κεφαλαίο που ασχολήθηκα](https://user-images.githubusercontent.com/115211756/206714924-a9d99975-f743-4d91-be81-12761bd516a2.png)
+
+* link του βιβλίου σε μορφή pdf: [book.pdf](https://github.com/Axileaszervos/kallipos/blob/master/MyBook/MyBook.pdf)
 * link απο το δικό μου φίλτρο: [plato.lua](https://github.com/Axileaszervos/kallipos/blob/master/plato.lua)
 * link του περιεχομένου που πρόσθεσα: [plato.md](https://github.com/Axileaszervos/kallipos/blob/master/PLATO/plato.md)
 * link του make-latex.sh: [make-latex](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
@@ -344,11 +346,14 @@
 ![LegoWedo](https://user-images.githubusercontent.com/115211756/206708671-20ce28ad-1031-4913-b9a5-549175f5c493.png)
 * Φωτογραφία Lego WeDo
 
-![MyText](https://user-images.githubusercontent.com/115211756/206708767-20baba51-724e-4592-8e4a-f74554c0d271.png)
+![Logo](https://user-images.githubusercontent.com/115211756/206714409-813d4066-afcb-40ca-9dab-0eeb111d7924.png)
+* Φωτογραφία Logo
+
+![ΜyText](https://user-images.githubusercontent.com/115211756/206714553-f975f463-5285-4790-8d70-7f209fb925c2.png)
 * Η συνεισφορά μου
 ##  FILES
-* [Photos from my text](https://github.com/Axileaszervos/kallipos/tree/master/MyPhotos)
-* [MyEPub.md](https://github.com/Axileaszervos/kallipos/tree/master/MyEpub)
+* [Photos](https://github.com/Axileaszervos/kallipos/tree/master/MyPhotos)
+* [MyEpub.epu](https://github.com/Axileaszervos/kallipos/blob/master/MyEpub/MyEpub.epub)
 * [make-latex.sh](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
 
 
