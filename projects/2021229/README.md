@@ -51,9 +51,11 @@
 
 &nbsp;&nbsp;&nbsp;Για το 3ο παραδοτέο πρόσθεσα στο αποθετήριο της ομάδας μου τα markdown αρχεία καθώς και τις εικόνες τους. Ακόμα δίνονται και τα links για την netlify σελίδα τους.
 
-[Gallery Pull Request](https://github.com/ContattoContare/_gallery/pull/1) / [Image Pull Request](https://github.com/ContattoContare/images/pull/1)
+*(Τα αρχικά Pull Request:[Gallery Pull Request](https://github.com/ContattoContare/_gallery/pull/1) / [Image Pull Request](https://github.com/ContattoContare/images/pull/1))*
 
-[BeOS](https://inf2021229.netlify.app/gallery/beos/) / [Xerox Rooms](https://inf2021229.netlify.app/gallery/xerox-rooms/)
+Τα Pull Request με τις αλλαγές: [Gallery](https://github.com/ContattoContare/_gallery/pull/15) / [Images](https://github.com/ContattoContare/images/pull/12) 
+
+[Adobe Photoshop](https://inf2021229.netlify.app/gallery/photoshop/) / [Adobe Lightroom](https://inf2021229.netlify.app/gallery/lightroom/)
 <br /><br /> 
 # Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
 
@@ -66,13 +68,17 @@
 &nbsp;&nbsp;&nbsp;Σε αυτό το παραδοτέο μας ζητήθηκε να φτιάξουμε στο site repository μας και να προσθέσουμε ανάλογα md αρχεία στους φακέλους _timeline και _slides όπου είναι μέσα στο site. Υπήρχαν αρκετά προβλήματα όπου προέκυψαν αλλά διορθώθηκαν με την βοήθεια των συμφοιτητών μου.
 
 Pull Request: 
-[Click](https://github.com/ContattoContare/site/pull/1)
+*(Το αρχικό Pull Request:[Click](https://github.com/ContattoContare/site/pull/1))*
+
+Το Pull Request με τις αλλαγές: [Click](https://github.com/ContattoContare/site/pull/29)
+
+Επειδή με τον συμφοιτητή @inf2021090 μου έχουμε αρκετά κοντά θέματα αποφασίσαμε ο καθένας να κάνει contribute στο timeline και slide του άλλου.
 
 Netlify Links:
-[Timeline Xerox](https://inf2021229.netlify.app/timeline/evolution-of-xerox-corp/),
-[Timeline GUIs](https://inf2021229.netlify.app/timeline/gui/),
-[Slides Operating Systems](https://inf2021229.netlify.app/slides/operating-systems/),
-[Slides Windows Shells](https://inf2021229.netlify.app/slides/windows-shells/)
+[Timeline Γραφικά Υπολογιστών](https://inf2021229.netlify.app/timeline/computer-graphics/),
+[Timeline Επαυξημένη Πραγματικότητα](https://inf2021229.netlify.app/timeline/augmented-reality/),
+[Slides Προσομοίωση](https://inf2021229.netlify.app/slides/simulation/),
+[Slides Σχεδιασμός Γραφικών](https://inf2021229.netlify.app/slides/graphic-design/)
 
 <br /><br /> 
 # Εβδομάδα Έκτη - Κατασκευή του βιβλίου Α
@@ -90,7 +96,8 @@ Github Links: [PDF](https://github.com/inf2021229/kallipos/blob/master/book.pdf)
 
 Links for:
 [Case-Study](https://github.com/inf2021229/site/blob/master/_case-study/digital-image-editing.md),
-[Includes](https://github.com/inf2021229/site/blob/master/_includes/cs-digital-image-editing.md)
+[Includes](https://github.com/inf2021229/site/blob/master/_includes/cs-digital-image-editing.md),
+[Netlify](https://inf2021229.netlify.app/case-study/digital-image-editing/)
 
 Sources: 
 [IntechOpen](https://www.intechopen.com/chapters/71817),
