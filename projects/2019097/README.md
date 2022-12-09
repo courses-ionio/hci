@@ -14,10 +14,10 @@
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](https://github.com/kselionis/hci/edit/P2019097/projects/2019097/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4%CE%BF---%CE%B1%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BDwarm-up) | | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/kselionis/hci/edit/P2019097/projects/2019097/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5%CE%BF---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B12) | | |
 | 6 | [Κατασκευή του βιβλίου Α](https://github.com/kselionis/hci/edit/P2019097/projects/2019097/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-6%CE%BF---%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B1) | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 7 |[Συμμετοχικό περιεχόμενο B1](https://github.com/kselionis/hci/edit/P2019097/projects/2019097/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7%CE%BF---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21) |
+| 8 |[Άσκηση γραμμής εντολών](https://github.com/kselionis/hci/edit/P2019097/projects/2019097/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-8%CE%BF---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD)| |
+| 9 |[Συμμετοχικό περιεχόμενο B2](https://github.com/kselionis/hci/edit/P2019097/projects/2019097/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-9%CE%BF---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B22) | | |
+| 10 |[Άσκηση γραμμής εντολών](https://github.com/kselionis/hci/edit/P2019097/projects/2019097/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-10%CE%BF---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -64,6 +64,14 @@
 | Apple IIcb | [Apple IIcb image](https://github.com/kselionis/images/blob/master/Apple_iicb.jpg) | [Apple IIcb gallery](https://github.com/kselionis/_gallery/blob/master/apple_iicb.md) |
 | Atari 2600 | [Atari 2600 image](https://github.com/kselionis/images/blob/master/atari_2600.jpg) | [Atari 2600 gallery](https://github.com/kselionis/_gallery/blob/master/atari_2600.md) |
 
+* Βιβλιογραφία: 
+ * Gallery Links:
+   * [Apple II](https://en.wikipedia.org/wiki/Apple_II)
+   * [Atari 26000](https://en.wikipedia.org/wiki/Atari_2600#Atari_2600_Jr.)
+ * Image Links:
+   * [Apple II](https://el.wikipedia.org/wiki/Apple_II#/media/%CE%91%CF%81%CF%87%CE%B5%CE%AF%CE%BF:Apple_iicb.jpg)
+   * [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600#/media/File:Atari-2600-Wood-4Sw-Set.png)
+
 ## Παραδοτέο 4ο - _Ασκήσεις γραμμής εντολών(warm up)_
 
 Σκοπός της 4ης εβδομάδας ήταν να εξασκηθούμε στην γραμμή εντολών και στην εγγραφή τους μέσα από το τερματικό με την χρήση του asciinema.Ασχολήθηκα με την παρακάτω άσκηση γραμμής εντολών:
@@ -84,6 +92,12 @@
 | --- | --- | --- |
 | Linux | [Operating_System](https://github.com/kselionis/site/blob/master/_slides/operating_system.md) | [Linux](https://github.com/kselionis/site/blob/master/_timeline/linux.md) |
 
+* Βιβλιογραφία:
+ * Slides Link
+    * [operating_System](https://el.wikipedia.org/wiki/%CE%9B%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CF%8C_%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1)
+ * Timelink Link
+    * [Linux](https://en.wikipedia.org/wiki/Linux)
+
 ## Παραδοτέο 6ο - _Κατασκευή Βιβλίου Α_
 
 Σκοπός του 6ου παραδοτέου ήταν να ξεκινήσουμε την κατασκευή του βιβλίου και να προσθέσουμε ένα δικό μας σχόλιο σε ένα από τα κεφάλαια του αρχικού βιβλίου 
@@ -95,5 +109,47 @@
 | Contribution md | [contribution2019097.md](https://github.com/kselionis/kallipos/blob/master/contribution2019097.md) |
 | Contribution lua | [contribution2019097.lua](https://github.com/kselionis/kallipos/blob/master/contribution2019097.lua) |
 
+## Παραδοτέο 7ο - _Συμμετοχικό Περιεχόμενο Β1_
 
+Σκοπός του 7ου παραδοτέου ήταν η προσθήκη μιας διαφάνεια στον φάκελο /_case-study για την μελέτη μιας νέας περίπτωσης σχετικά με ένα αντικείμενο που μας
+ενδιαφέρει και την προσθήκη της ανάλογης εικόνας στον φάκελο /images.
+
+| Περιγραφή | Case-study Link | Includes Link | Images Link |
+| --- | --- | --- | --- |
+|  MacOs | [macOs](https://github.com/kselionis/site/blob/master/_case-study/macOS.md) | [cs-macos](https://github.com/kselionis/site/blob/master/_includes/cs-macos.md) | [macOsMonterey](https://github.com/kselionis/images/blob/master/macOsmonterey.jpg) |
+
+* Βιβλιογραφίες:
+  * Case-study Link / Includes Link
+     * [macOs](https://en.wikipedia.org/wiki/MacOS)
+  * Images Link
+     * [macOsmonterey](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fnewsroom%2F2021%2F06%2Fmacos-monterey-introduces-powerful-features-to-get-more-done%2F&psig=AOvVaw04bILs3HXk8k4w3nDgII7k&ust=1670686508005000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCRwbHu7PsCFQAAAAAdAAAAABAD)
+     
+## Παραδοτέο 8ο - _Άσκηση γραμμής εντολών_
+
+Σκοπός του 8ου παραδοτέου ήταν ξανά η εξάσκηση μας πάνω στην γραμμή εντολών και η εξάσκηση μας πάνω σε ένα σχετικά νέο αντικείμενο για εμάς το script και
+το pipeline.Εγώ ασχολήθηκα με την δημιουργία ενός σχετικά απλού κώδικα σε C ο οποίος πρόσθετε αριθμούς και την δημιουργία ενός script για την εκτέλεση του αρχείου σε .c . Η προσπάθεια μου φαίνεται και παρακάτω στην εγγραφή οθόνης:
+
+[![asciicast](https://asciinema.org/a/541519.svg)](https://asciinema.org/a/541519)
+
+## Παραδοτέο 9ο - _Συμμετοχικό περιεχόμενο Β2_
+
+Σκοπός του 9ου παραδοτέου ήταν η προσθήκη μιας διαφάνειας στον φάκελο /_biography για την δημιουργία μιας βιογραφίας σχετικά με τα προηγούμενα παραδοτέα
+και την προσθήκη της σχετικής εικόνας στον φάκελο /images καθώς και στον φάκελο /includes.
+
+| Περιγραφή | Biography Link | Includes Link | Image Link |
+| --- | --- | --- | --- |
+| Steven Wozniak | [steve_wozniak](https://github.com/kselionis/site/blob/master/_biography/steve-wozniak.md) | [bio-wozniak](https://github.com/kselionis/site/blob/master/_includes/bio-wozniak.md) | [steve-wozniak](https://github.com/kselionis/images/blob/4796dbd2f2a23239592da32f00f2ffedec4e94d9/steve_wozniak%20.jpg) |
+
+* Βιβλιογραφία:
+  * Biography Link - Includes Link:
+     * [steve-wozniak](https://en.wikipedia.org/wiki/Steve_Wozniak)
+  * Image Link:
+     * [steve-wozniak](https://en.wikipedia.org/wiki/Steve_Wozniak#/media/File:Steve_Wozniak_by_Gage_Skidmore_3_(cropped).jpg)
+     
+
+## Παραδοτέο 10ο - _Άσκηση γραμμής εντολών_
+
+Σκοπός του 10ου παραδοτέου ήταν να ασχοληθούμε ξανά με μια άσκηση που έχουμε εξοικιωθεί καθώς και του script αλλά και pipeline.Ασχολήθηκα με την γραμμή εντολών και την εντολή εμφάνισης του καιρού σε μια πόλη. Αυτό ακριβώς φαίνεται και παρακάτω στο asciinema.
+
+[![asciicast](https://asciinema.org/a/544357.svg)](https://asciinema.org/a/544357)
 
