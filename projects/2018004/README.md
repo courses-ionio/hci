@@ -10,14 +10,14 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Link](https://github.com/courses-ionio/help/discussions/844) | Εγινε εμπροθεσμα |
 | 2 | Άσκηση γραμμής εντολών (linux install σε VM) | [Link](https://github.com/courses-ionio/help/discussions/1039) | Εγινε εμπροθεσμα |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | Εγινε εκπροθεσμα |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Link](https://github.com/courses-ionio/help/discussions/1902) | Εγινε εκπροθεσμα |
 | 4 | Άσκηση γραμμής εντολών (linux install σε HW) |[Link](https://github.com/courses-ionio/help/discussions/1397) | Εγινε εκπροθεσμα |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | Εγινε εκπροθεσμα |
-| 6 | Κατασκευή του βιβλίου Α | | Εγινε εκπροθεσμα |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | Εγινε εκπροθεσμα |
-| 8 | Άσκηση γραμμής εντολών | | Εγινε εκπροθεσμα |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | Εγινε εκπροθεσμα |
-| 10 | Άσκηση γραμμής εντολών | | Εγινε εμπροθεσμα|
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Link](https://github.com/courses-ionio/help/discussions/1903) | Εγινε εκπροθεσμα |
+| 6 | Κατασκευή του βιβλίου Α | [Link](https://github.com/courses-ionio/help/discussions/1904) | Εγινε εκπροθεσμα |
+| 7 | Συμμετοχικό περιεχόμενο B1 |[Link](https://github.com/courses-ionio/help/discussions/1905) | Εγινε εκπροθεσμα |
+| 8 | Άσκηση γραμμής εντολών |[Link](https://github.com/courses-ionio/help/discussions/1906) | Εγινε εκπροθεσμα |
+| 9 | Συμμετοχικό περιεχόμενο B2 |[Link](https://github.com/courses-ionio/help/discussions/1907) | Εγινε εκπροθεσμα |
+| 10 | Άσκηση γραμμής εντολών | [Link](https://github.com/courses-ionio/help/discussions/1908)| Εγινε εμπροθεσμα|
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
