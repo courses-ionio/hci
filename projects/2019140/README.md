@@ -69,16 +69,13 @@
 
 ## Παραδοτέο 6 - Κατασκευή του βιβλίου και προσθήκη εκτενών σημειώσεων:
 Σε αυτό το παραδοτέο μας ζητήθηκε να κατασκευάσουμε το βιβλίο του μαθήματος στο δικό μας fork του αποθετηρίου [kallipos](https://github.com/mibook/kallipos). Στην συνέχεια
-πρέπει να διαβάσουμε το βιβλίο και να αφήσουμε τις δικές μας σημειώσεις/σχόλια. Ως μια πρώτη προσπάθεια έχω κατασκευάσει το βιβλίο και έχω προσθέσει τις δικές μου σημειώσεις για τα πρώτα δύο κεφάλαια (Κεφάλαιο 1 - Παράρτημα: Κατασκευή του Βιβλίου  και Κεφάλαιο 2 - Ορισμός). Για την κατασκευή του βιβλίου χρειάστηκε να δημιουργήσω τα directories "book", "latex" και "extensive_notes" και να  επεξεργαστώ τα παρακάτω αρχεία: 
+πρέπει να διαβάσουμε το βιβλίο και να αφήσουμε τις δικές μας σημειώσεις/σχόλια. Ως μια πρώτη προσπάθεια έχω κατασκευάσει το βιβλίο και έχω προσθέσει τις δικές μου σημειώσεις για το **Κεφάλαιο 4.4 Η περίπτωση του Apple iPod**. Για την κατασκευή του βιβλίου χρειάστηκε να δημιουργήσω τα directories "book", "latex" και "extensive_notes" και να  επεξεργαστώ τα παρακάτω αρχεία: 
 - [make-latex.sh](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/make-latex.sh)
 - [extensive_notes.lua](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/extensive_notes.lua)
 
-Τέλος, κατασκεύασα το [βιβλίο](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/book/book.pdf) με τις δύο σημειώσεις που πρόσθεσα όπως φαίνεται παρακάτω. Σημείωση: οι εικόνες αποτελούν και links προς τα αντίστοιχα αρχεία που χρησιμοποιούνται από το φίλτρο μου για την κατασκευή των σημειώσεων μου στο βιβλίο. 
+Τέλος, κατασκεύασα το [βιβλίο](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/book/book.pdf) με τις δύο σημειώσεις που πρόσθεσα όπως φαίνεται παρακάτω. Σημείωση: η εικόνα αποτελεί και link προς το αντίστοιχο αρχείο που χρησιμοποιήται από το φίλτρο μου για την κατασκευή των σημειώσεων μου στο βιβλίο. 
+[![κεφάλαιο1](https://cdn.discordapp.com/attachments/794920060677521469/1050805932969447534/iPod_note.JPG)](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/extensive_notes/P2019140_ch04.md)
 
-Κεφάλαιο 1:
-[![κεφάλαιο1](https://cdn.discordapp.com/attachments/794920060677521469/1042116478398382190/note1.jpg)](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/extensive_notes/P2019140_ch01.md)
-Κεφάλαιο 2:
-[![κεφάλαιο2](https://cdn.discordapp.com/attachments/794920060677521469/1042116501026639942/note2.jpg)](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/extensive_notes/P2019140_ch02.md)
 
 
 ## Παραδοτέο 7 - Case study:
