@@ -112,6 +112,9 @@ pull request
 |   https://inf2021090.netlify.app/timeline/computer-graphics/   |       |              |
 |  https://inf2021090.netlify.app/slides/simulation/ |        |              |
 
+[ar timeline](https://inf2021090.netlify.app/timeline/augmented-reality/)
+[graphics design slide](https://inf2021090.netlify.app/slides/graphic-design/)
+
 https://github.com/ContattoContare/site/pull/32
 
 ## Εβδομάδα Έκτη - Κατασκευή του βιβλίου Α
