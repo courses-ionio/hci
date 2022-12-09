@@ -65,7 +65,7 @@
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α1
 
-Ζητούμενο του 3ου παραδοτέου ήταν η έναρξη της κατασκευής του βιβλίου ξεκινώντας από το Α1 Παραδοτέο. Επομένως, μέσω της τεχνολογίας jekyll και χρησιμοποιώντας τα submodules μέσα στο Konsole προώθησα 4 εικ (2 κανονικού μεγέθους και 2 thumbnails) αλλά και 2 md files (itunes, windows7) μέσα στα οποία έγραψα πληροφορίες για τις εικόνες.
+Ζητούμενο του 3ου παραδοτέου ήταν η έναρξη της κατασκευής του βιβλίου ξεκινώντας από το Α1 Παραδοτέο. Επομένως, μέσω της τεχνολογίας jekyll και χρησιμοποιώντας τα submodules μέσα στο Konsole προώθησα 4 εικόνες (2 κανονικού μεγέθους και 2 thumbnails) αλλά και 2 md files (itunes, windows7) μέσα στα οποία έγραψα πληροφορίες για τις εικόνες.
 
 1. [itunes.md](https://github.com/inf2021148/_gallery/blob/master/itunes.md) | [image](https://github.com/inf2021148/images/blob/master/itunes.jpg) | [image-thumb](https://github.com/inf2021148/images/blob/master/itunes-thumb.jpg)
 2. [windows 7.md](https://github.com/inf2021148/_gallery/blob/master/windows7.md) | [image](https://github.com/inf2021148/images/blob/master/windows7.jpg) | [image-thumb](https://github.com/inf2021148/images/blob/master/windows7-thumb.jpg)
@@ -95,7 +95,7 @@ https://el.wikipedia.org/wiki/Windows_7
 
 1. slides(διαφάνεια): [Εφαρμογές της Apple](https://github.com/inf2021148/site/blob/master/_slides/apple_applications.md)
 
-2. timeline(χρονολόγιο): [Το διαδικτυακό κατάστημα της Apple](https://github.com/inf2021148/site/blob/master/_timeline/apple_store.md) 
+2. timeline(χρονολόγιο): [Το διαδικτυακό κατάστημα της Apple](https://github.com/inf2021148/site/blob/master/_timeline/apple_store.md)
 
 # ΠΑΡΑΔΟΤΕΟ 6
 
@@ -114,3 +114,9 @@ https://el.wikipedia.org/wiki/Windows_7
 2. Δεν μπόρεσα να επεξεργαστώ το make-latex.sh αρχείο.
 
 3. Δεν κατάφερα να προσθέσω το σχόλιό μου μέσα στο βιβλίο.
+
+# ΠΑΡΑΔΟΤΕΟ 7
+
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β1
+
+Στην 7η εβδομάδα μας ζητήθηκε να κάνουμε το Β1 Παραδοτέο του βιβλίου για το οποίο χρειάστηκε να βρούμε και να γράψουμε για μια νέα μελέτη μερίπτωσης(case-study) η οποία να σχετίζεται με τις θεματικές εικόνες-διαφάνειες-χρονολόγιο με τα οποία ασχοληθήκαμε σε προηγούμενα παραδοτέα.
