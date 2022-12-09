@@ -57,9 +57,13 @@
 
 Αφότου ολοκλήρωσα την εγκατάσταση των Arch Linux χρησιμοποίησα στο Konsole το asciinema για εγγραφή οθόνης με σκοπό να δοκιμάσω τις 2 εντολές που ζητούσατε (journalctl -b, neofetch) ούτως ώστε να ολοκληρώσω το 2ο Παραδοτέο.
 
-1. [journalctl -b](https://asciinema.org/a/tAk2j7beIFbww0H96T5X4mhHk)
+1. journalctl -b
 
-2. [neofetch](https://asciinema.org/a/BwOhKE4syYoCrphTwAvKv8Wvh)
+[![asciicast](https://asciinema.org/a/tAk2j7beIFbww0H96T5X4mhHk.svg)](https://asciinema.org/a/tAk2j7beIFbww0H96T5X4mhHk)
+
+2. neofetch
+
+[![asciicast](https://asciinema.org/a/BwOhKE4syYoCrphTwAvKv8Wvh.svg)](https://asciinema.org/a/BwOhKE4syYoCrphTwAvKv8Wvh)
 
 # ΠΑΡΑΔΟΤΕΟ 3
 
@@ -73,11 +77,17 @@
 
 Τις φωτογραφίες που χρησιμοποίησα αλλά και τις πληροφορίες που έγραψα στα md files τα βρήκα όλα από την Wikipedia όπως αναφέρω και μέσα στα md files.
 
-### Πηγές:   
+### Πηγές κειμένου:   
 
-https://el.wikipedia.org/wiki/ITunes
+https://en.wikipedia.org/wiki/ITunes
 
-https://el.wikipedia.org/wiki/Windows_7
+https://en.wikipedia.org/wiki/Windows_7
+
+### Πηγές εικονών:
+
+https://upload.wikimedia.org/wikipedia/el/e/e3/ITunes_Screenshot.png
+
+https://upload.wikimedia.org/wikipedia/el/2/29/Win7-gr.PNG
 
 # ΠΑΡΑΔΟΤΕΟ 4
 
@@ -119,4 +129,22 @@ https://el.wikipedia.org/wiki/Windows_7
 
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β1
 
-Στην 7η εβδομάδα μας ζητήθηκε να κάνουμε το Β1 Παραδοτέο του βιβλίου για το οποίο χρειάστηκε να βρούμε και να γράψουμε για μια νέα μελέτη μερίπτωσης(case-study) η οποία να σχετίζεται με τις θεματικές εικόνες-διαφάνειες-χρονολόγιο με τα οποία ασχοληθήκαμε σε προηγούμενα παραδοτέα.
+Στην 7η εβδομάδα μας ζητήθηκε να κάνουμε το Β1 Παραδοτέο του βιβλίου για το οποίο χρειάστηκε να βρούμε και να γράψουμε για μια νέα μελέτη μερίπτωσης(case-study) η οποία να σχετίζεται με τις θεματικές εικόνες-διαφάνειες-χρονολόγιο με τα οποία ασχοληθήκαμε σε προηγούμενα παραδοτέα. Παρακάτω, καταθέτω το case-study με το οποίο ασχολήθηκα, μία εικόνα που έβαλα στον φάκελο images για αυτό καθώς και το αρχείο που έβαλα μέσα στον φάκελο includes για περισσότερες πληροφορίες σχετικά με την μελέτη περίπτωσης.
+
+Μελέτη περίπτωσης: [Apple Watch](https://github.com/inf2021148/site/blob/master/_case-study/apple_watch.md)
+
+Εικόνα: [apple_watch.jpg](https://github.com/inf2021148/images/blob/master/apple_watch.jpg)
+
+Include: [cs-apple_watch.md](https://github.com/inf2021148/site/blob/master/_includes/cs-apple_watch.md)
+
+Πηγή κειμένου: https://el.wikipedia.org/wiki/Apple_Watch
+
+Πηγή εικόνας: 
+
+# ΠΑΡΑΔΟΤΕΟ 8
+
+## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
+
+Για το Παραδοτέο 8 (άσκηση γραμμής εντολών) επέλεξα να χρησιμοποιήσω το Konsole ως IDE με σκοπό να επεξεργαστώ έναν κώδικα της γλώσσας c μέσα από το nano με χρήση του εργαλείου shell script και έπειτα να το τρέξω για να δω τι θα εμφανίσει. Την παραπάνω διαδικασία την αποθήκευσα μέσω του asciinema με εγγραφή οθόνης και την καταθέτω στο παρακάτω βίντεο.
+
+[![asciicast](https://asciinema.org/a/wK9EtfRSS5rXZX6TsehwQ99Q8.svg)](https://asciinema.org/a/wK9EtfRSS5rXZX6TsehwQ99Q8)
