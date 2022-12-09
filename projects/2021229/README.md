@@ -51,7 +51,7 @@
 
 &nbsp;&nbsp;&nbsp;Για το 3ο παραδοτέο πρόσθεσα στο αποθετήριο της ομάδας μου τα markdown αρχεία καθώς και τις εικόνες τους. Ακόμα δίνονται και τα links για την netlify σελίδα τους.
 
-*(Τα αρχικά Pull Request:[Gallery Pull Request](https://github.com/ContattoContare/_gallery/pull/1) / [Image Pull Request](https://github.com/ContattoContare/images/pull/1))*
+*(Τα αρχικά Pull Request: [Gallery Pull Request](https://github.com/ContattoContare/_gallery/pull/1) / [Image Pull Request](https://github.com/ContattoContare/images/pull/1))*
 
 Τα Pull Request με τις αλλαγές: [Gallery](https://github.com/ContattoContare/_gallery/pull/15) / [Images](https://github.com/ContattoContare/images/pull/12) 
 
@@ -68,7 +68,7 @@
 &nbsp;&nbsp;&nbsp;Σε αυτό το παραδοτέο μας ζητήθηκε να φτιάξουμε στο site repository μας και να προσθέσουμε ανάλογα md αρχεία στους φακέλους _timeline και _slides όπου είναι μέσα στο site. Υπήρχαν αρκετά προβλήματα όπου προέκυψαν αλλά διορθώθηκαν με την βοήθεια των συμφοιτητών μου.
 
 Pull Request: 
-*(Το αρχικό Pull Request:[Click](https://github.com/ContattoContare/site/pull/1))*
+*(Το αρχικό Pull Request: [Click](https://github.com/ContattoContare/site/pull/1))*
 
 Το Pull Request με τις αλλαγές: [Click](https://github.com/ContattoContare/site/pull/29)
 
