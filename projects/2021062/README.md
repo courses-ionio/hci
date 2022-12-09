@@ -96,3 +96,17 @@
 | biography | https://github.com/inf2021062/site/blob/master/_biography/William-Kirk-English.md | https://en.wikipedia.org/wiki/Bill_English_(computer_engineer)
 | includes | https://github.com/inf2021062/site/blob/master/_includes/bio-William-English.md | https://en.wikipedia.org/wiki/Bill_English_(computer_engineer)
 | images | https://github.com/inf2021062/images/blob/1ec24892a4dbe26a4c8014691b01c946436c5335/William_English_in_2008(1).jpg | https://en.wikipedia.org/wiki/Bill_English_(computer_engineer) |
+
+## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ - ΠΑΡΑΔΟΤΕΟ 10
+Σε αυτό το παραδοτέο έπρεπε να ασχοληθώ με την γραμμή εντολών και συγκεκριμένα με την εντολή youtube-dl με την οποία έχω ασχοληθεί και σε προηγούμενο παραδοτέο με την διαφορά ότι αυτήν την φορά έπρεπε να εκτελεσθεί μέσω ενός script.
+
+[![asciicast](https://asciinema.org/a/B7yScpBdhICiLzdIzJ1ig403H.svg)](https://asciinema.org/a/B7yScpBdhICiLzdIzJ1ig403H)
+
+
+
+
+
+
+
+
+
