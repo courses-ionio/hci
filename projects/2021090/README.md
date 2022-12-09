@@ -76,10 +76,13 @@ link για το netlify
 1.  Η γραμμές στο αρχείο md έχουν σημασία!Φωτογραφιες
 2.  Προσοχή στα branches
 
+![alt text](https://github.com/inf2021090/images/blob/master/blender.png)
+![alt text](https://github.com/inf2021090/images/blob/master/houdini.png)
+
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
-|      |       |              |
-|   |        |              |
+|    https://inf2021090.netlify.app/gallery/houdini/  |       |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
+| https://inf2021090.netlify.app/gallery/blender/  |        |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)         |
 
 ## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
 
@@ -106,8 +109,8 @@ pull request
  
  | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
-|      |       |              |
-|   |        |              |
+|   https://inf2021090.netlify.app/timeline/computer-graphics/   |       |              |
+|  https://inf2021090.netlify.app/slides/simulation/ |        |              |
 
 ## Εβδομάδα Έκτη - Κατασκευή του βιβλίου Α
 
@@ -117,6 +120,7 @@ pull request
 [contribution](https://github.com/inf2021090/kallipos/blob/master/contribution/comment.md)
 [inf2021090_filter](https://github.com/inf2021090/kallipos/blob/master/inf2021090_filter.lua)
 [book](https://github.com/inf2021090/kallipos/blob/master/book.pdf)
+![alt text](https://github.com/inf2021090/prototypes/blob/main/sample.png)
 
 ## Εβδομάδα Έβδομη - Συμμετοχικό περιεόμενο Β1
 
@@ -124,8 +128,7 @@ pull request
 
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
-|      |       |              |
-|   |        |              |
+|   https://testsite-inf2021090.netlify.app/case-study/graphics-3d/   |       |              |
                             
 
 ## Εβδομάδα Όγδοη - Άσκηση γραμμής εντολών (HCI)
@@ -149,8 +152,7 @@ pull request
 
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
-|      |       |              |
-|   |        |              |
+|   https://testsite-inf2021090.netlify.app/biography/myron-krueger/   |       |              |
 
 ## Εβδομάδα Δέκατη - Άσκηση γραμμής εντολών (HCI)
 
