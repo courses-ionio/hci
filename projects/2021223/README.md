@@ -56,7 +56,11 @@
 
 Αφού ολοκλήρωσα την εγκατάσταση των Arch Linux και χρησιμοποιόντας το asciinema στο Konsole, έβγαλα δύο βίντεο στα οποία δοκίμασα τις δύο εντολές που μας δώθηκαν (neofetch,journalctl -b):
 
+#### neofetch :
+
 [![asciicast](https://asciinema.org/a/3mYprMpQnrbVCjQ4JbKJdBgEG.svg)](https://asciinema.org/a/3mYprMpQnrbVCjQ4JbKJdBgEG)
+
+#### journalctl -b : 
 
 [![asciicast](https://asciinema.org/a/H4TPxhmgc95SQCMGHKA1rghp3.svg)](https://asciinema.org/a/H4TPxhmgc95SQCMGHKA1rghp3)
 
