@@ -128,6 +128,14 @@ Slides
 
 - [site pull request](https://github.com/Unixidized/site/pull/19)
 
+Οι πηγές μου:
+- https://en.wikipedia.org/wiki/Bill_Gates
+- https://www.britannica.com/biography/Bill-Gates
+- https://www.gatesnotes.com/Bio
+- https://en.wikipedia.org/wiki/BASIC
+- https://texnologia.net/bill-gates-plirofories-viografia-afieroma/2022/05
+- https://www.biography.com/business-figure/bill-gates
+
 
 # Παραδοτέο 10
 
