@@ -94,7 +94,7 @@ Slides
 
 - [case study](https://github.com/p16kyri/site/blob/master/_case-study/xerox-globalview.md)
 
-- [site](https://jade-fenglisu-025746.netlify.app//case-study/xerox-globalview/)
+- [netlify](https://jade-fenglisu-025746.netlify.app//case-study/xerox-globalview/)
 
 - [pull request](https://github.com/Unixidized/site/pull/16)
 
@@ -121,6 +121,8 @@ Slides
 - [biography](https://github.com/p16kyri/site/blob/master/_biography/bill-gates.md)
 
 - [includes](https://github.com/p16kyri/site/blob/master/_includes/bio-gates.md)
+
+- [netlify](https://jade-fenglisu-025746.netlify.app/biography/bill-gates/)
 
 - [images pull request](https://github.com/Unixidized/images/pull/20)
 
