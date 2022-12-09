@@ -72,7 +72,7 @@ Pull Request:
 
 Το Pull Request με τις αλλαγές: [Click](https://github.com/ContattoContare/site/pull/29)
 
-Επειδή με τον συμφοιτητή @inf2021090 μου έχουμε αρκετά κοντά θέματα αποφασίσαμε ο καθένας να κάνει contribute στο timeline και slide του άλλου.
+Επειδή με τον συμφοιτητή μου @inf2021090 έχουμε παρόμοια/κοντινά θέματα αποφασίσαμε ο καθένας να κάνει contribute στο timeline και slide του άλλου.
 
 Netlify Links:
 [Timeline Γραφικά Υπολογιστών](https://inf2021229.netlify.app/timeline/computer-graphics/),
