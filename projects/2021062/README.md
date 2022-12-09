@@ -51,7 +51,7 @@
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α1 - ΠΑΡΑΔΟΤΕΟ 3
 Ο στόχος του τρίτου παραδοτέου ήταν η αρχή της δημιουργίας της ιστοσελίδας του βιβλίου και η εισαγωγή δύο φωτογραφιών μέσω των submodules και jekyll στο βιβλίο.
 
-| Περιγραφή | Image link | Gallery link |
+| Περιγραφή | Image link | Gallery link | Βιβλιογραφία |
 | --- | --- | --- |
 | Keyboard | [keyboard image](https://github.com/inf2021062/images/blob/master/keyboard.jpg) | [keyboard gallery](https://github.com/inf2021062/_gallery/blob/inf2021062/keyboard.md) |
 | mouse | [mouse image](https://github.com/inf2021062/images/blob/master/mouse.jpg) | [mouse gallery](https://github.com/inf2021062/_gallery/blob/inf2021062/mouse.md)
@@ -83,7 +83,7 @@
 | --- | --- | --- |
 | case-study | https://github.com/inf2021062/site/blob/master/_case-study/monitor.md | https://el.wikipedia.org/wiki/%CE%9F%CE%B8%CF%8C%CE%BD%CE%B7_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE |
 | includes | https://github.com/inf2021062/site/blob/master/_includes/cs-monitor.md | https://el.wikipedia.org/wiki/%CE%9F%CE%B8%CF%8C%CE%BD%CE%B7_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE |
-| images | https://github.com/inf2021062/images/blob/1ec24892a4dbe26a4c8014691b01c946436c5335/monitor.jpg |
+| images | https://github.com/inf2021062/images/blob/1ec24892a4dbe26a4c8014691b01c946436c5335/monitor.jpg | https://www.newegg.com/insider/wp-content/uploads/2019/05/Seven-Ultra-HD-4K-Monitor-9-1.jpg |
 
 ## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ - ΠΑΡΑΔΟΤΕΟ 8
 Σε αυτό το παραδοτέο θα έπρεπε να επεξεργαστώ έναν κώδικα στην γραμμή εντολών κάτι το οποίο φαίνεται παρακάτω:[![asciicast](https://asciinema.org/a/FP1WNqvBMPNL8WmXI7XPnUWQK.svg)](https://asciinema.org/a/FP1WNqvBMPNL8WmXI7XPnUWQK)
