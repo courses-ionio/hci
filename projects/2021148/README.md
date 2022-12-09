@@ -79,15 +79,15 @@
 
 ### Πηγές κειμένου:   
 
-https://en.wikipedia.org/wiki/ITunes
+https://en.wikipedia.org/wiki/ITunes (wikipedia)
 
-https://en.wikipedia.org/wiki/Windows_7
+https://en.wikipedia.org/wiki/Windows_7 (wikipedia)
 
 ### Πηγές εικονών:
 
-https://upload.wikimedia.org/wikipedia/el/e/e3/ITunes_Screenshot.png
+https://upload.wikimedia.org/wikipedia/el/e/e3/ITunes_Screenshot.png (wikipedia)
 
-https://upload.wikimedia.org/wikipedia/el/2/29/Win7-gr.PNG
+https://upload.wikimedia.org/wikipedia/el/2/29/Win7-gr.PNG (wikipedia)
 
 # ΠΑΡΑΔΟΤΕΟ 4
 
@@ -137,9 +137,9 @@ https://upload.wikimedia.org/wikipedia/el/2/29/Win7-gr.PNG
 
 Include: [cs-apple_watch.md](https://github.com/inf2021148/site/blob/master/_includes/cs-apple_watch.md)
 
-Πηγή κειμένου: https://el.wikipedia.org/wiki/Apple_Watch
+Πηγή κειμένου: https://el.wikipedia.org/wiki/Apple_Watch (wikipedia)
 
-Πηγή εικόνας: 
+Πηγή εικόνας: https://assets.hardwarezone.com/img/2019/08/applewatch-series5-watch1_1.jpg (www.hardwarezone.com.sg)
 
 # ΠΑΡΑΔΟΤΕΟ 8
 
@@ -161,6 +161,14 @@ Include: [cs-apple_watch.md](https://github.com/inf2021148/site/blob/master/_inc
 
 Include: [bio-allen.md](https://github.com/inf2021148/site/blob/master/_includes/bio-allen.md)
 
-Πηγή κειμένου: https://en.wikipedia.org/wiki/Paul_Allen
+Πηγή κειμένου: https://en.wikipedia.org/wiki/Paul_Allen (wikipedia)
 
-Πηγή εικόνας: https://pbs.twimg.com/profile_images/558434025954488320/E4r4Rlc__400x400.jpeg
+Πηγή εικόνας: https://pbs.twimg.com/profile_images/558434025954488320/E4r4Rlc__400x400.jpeg (twitter)
+
+# ΠΑΡΑΔΟΤΕΟ 10
+
+## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
+
+Για την ολοκλήρωση του 10ου Παραδοτέου ασχολήθηκα με την γραμμή εντολών και πιο συγκεκριμένα με την εντολή youtube-dl από τις warm up ασκήσεις γραμμής εντολών. Για να γίνει η άσκηση έπρεπε να γίνει χρήση pipelining-scripting, στα οποία έχουμε ήδη κάνει εξάσκηση στην άσκηση της κατασκευής του βιβλίου. Την παραπάνω διαδικασία την αποθήκευσα σε βίντεο μέσω του asciinema με εγγραφή οθόνης.
+
+[![asciicast](https://asciinema.org/a/RHcXx1M6oOsONblrTIIPs7XS3.svg)](https://asciinema.org/a/RHcXx1M6oOsONblrTIIPs7XS3)
