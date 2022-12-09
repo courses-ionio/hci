@@ -87,3 +87,12 @@
 
 ## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ - ΠΑΡΑΔΟΤΕΟ 8
 Σε αυτό το παραδοτέο θα έπρεπε να επεξεργαστώ έναν κώδικα στην γραμμή εντολών κάτι το οποίο φαίνεται παρακάτω:[![asciicast](https://asciinema.org/a/FP1WNqvBMPNL8WmXI7XPnUWQK.svg)](https://asciinema.org/a/FP1WNqvBMPNL8WmXI7XPnUWQK)
+
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2 - ΠΑΡΑΔΟΤΕΟ 9
+Σε αυτό το παραδοτέο μας ζητήθηκε να συνεχίσουμε την άσκηση για την ισοσελίδα του βιβλίου για το μάθημα αυτό με το συμμετοχικό περιεχόμενο Β2.
+
+| Βιογραφία | Links | Βιβλιογραφία |
+| --- | --- | --- |
+| biography | https://github.com/inf2021062/site/blob/master/_biography/William-Kirk-English.md | https://en.wikipedia.org/wiki/Bill_English_(computer_engineer)
+| includes | https://github.com/inf2021062/site/blob/master/_includes/bio-William-English.md | https://en.wikipedia.org/wiki/Bill_English_(computer_engineer)
+| images | https://github.com/inf2021062/images/blob/1ec24892a4dbe26a4c8014691b01c946436c5335/William_English_in_2008(1).jpg | https://en.wikipedia.org/wiki/Bill_English_(computer_engineer) |
