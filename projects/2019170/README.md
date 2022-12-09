@@ -112,6 +112,8 @@ Linux Installation
 ----------------------------
 Σε αυτό το παραδοτέο χρησιμοποίησα το εργαλείο bashyll και μαζί με το jrnl από τις warm up cli ασκήσεις που είχα κάνει στο 4ο παραδοτέο ανεβάζω τα entries μου από το jrnl σε ένα live site.
 
+[scrtipt](https://github.com/marked-d/HCI_plus/blob/main/dailyjrnl.sh)
+
 [![asciicast](https://asciinema.org/a/544197.svg)](https://asciinema.org/a/544197)
 ![image](https://github.com/marked-d/HCI_plus/blob/main/jrnl-live.png)
 
