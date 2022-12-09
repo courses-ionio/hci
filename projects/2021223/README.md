@@ -56,9 +56,9 @@
 
 Αφού ολοκλήρωσα την εγκατάσταση των Arch Linux και χρησιμοποιόντας το asciinema στο Konsole, έβγαλα δύο βίντεο στα οποία δοκίμασα τις δύο εντολές που μας δώθηκαν (neofetch,journalctl -b):
 
-1) [journalctl -b](https://asciinema.org/a/H4TPxhmgc95SQCMGHKA1rghp3)
+[![asciicast](https://asciinema.org/a/3mYprMpQnrbVCjQ4JbKJdBgEG.svg)](https://asciinema.org/a/3mYprMpQnrbVCjQ4JbKJdBgEG)
 
-2) [neofetch](https://asciinema.org/a/3mYprMpQnrbVCjQ4JbKJdBgEG)
+[![asciicast](https://asciinema.org/a/H4TPxhmgc95SQCMGHKA1rghp3.svg)](https://asciinema.org/a/H4TPxhmgc95SQCMGHKA1rghp3)
 
 # Παραδοτέο 3ο
 
@@ -81,7 +81,9 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ve
 
 ## Άσκηση Γραμμής Εντολών (Warm up) 
 
-Το θέμα που επέλεξα για το 4ο παραδοτέο ήταν να κατεβάσω ένα τραγούδι από το youtube μέσω του konsole.Έπειτα, μέσω του Κonsole το ίδιο τραγούδι έπρεπε να το άκουσω και με την βοήθεια του asciinema βρίσκεται στο παρακάτω [link](https://asciinema.org/a/aq72OPKzMwe2a4GrBApzRhyqI)
+Το θέμα που επέλεξα για το 4ο παραδοτέο ήταν να κατεβάσω ένα τραγούδι από το youtube μέσω του konsole.Έπειτα, μέσω του Κonsole το ίδιο τραγούδι έπρεπε να το άκουσω και με την βοήθεια του asciinema βρίσκεται παρακάτω.
+
+[![asciicast](https://asciinema.org/a/aq72OPKzMwe2a4GrBApzRhyqI.svg)](https://asciinema.org/a/aq72OPKzMwe2a4GrBApzRhyqI)
 
 # Παραδοτέο 5ο 
 
@@ -115,7 +117,15 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ve
 
 ## Συμμετοχικό περιεχόμενο Β1
 
+Για το συμμετοχικό περιεχόμενο της 7ης εβδομάδας μας ζητήθηκε να κάνουμε μια ένα σετ από θεματικές διαφάνειες στον φάκελο /_case-study και να προσθέσουμε την ανάλογη εικόνα στον φάκελο /images.
+
+| Link for case-study | Link for includes | Link for images |
+| --- | --- | --- |
+|[case-study](https://github.com/inf2021223/site/blob/master/_case-study/personal-computer.md)| [includes](https://github.com/inf2021223/site/blob/master/_includes/cs-personal-computer.md) | [images](https://github.com/inf2021223/images/blob/4b2e991e96d0e5af932e4940d98a70a6c0320f29/personal-computers.jpg) |
+
 ## Πηγές
+
+
 
 # Παραδοτέο 8ο
 
