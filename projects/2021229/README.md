@@ -130,7 +130,7 @@ Links:
 <br /><br />
 # Εβδομάδα Δέκατη - Άσκηση γραμμής εντολών
 
-&nbsp;&nbsp;&nbsp;Για αυτό το παραδοτέο από τις ασκήσεις [HCI](https://github.com/epidrome/dokey#hci) διάλεξα να κάνω το `create your own static site and blog generator with pandoc`. Έφτιαξα ένα static site όπου είναι ένα απλό portofolio της δουλείας μου που κάνω ως amateur graphic designer. Έφτιαξα ένα βασικό αρχείο index.md όπου μέσω ενός πολύ απλού script το μετατρέπει σε .html χρησιμοποιώντας το style.css όπου είναι ένα template όπου βρήκα. 
+&nbsp;&nbsp;&nbsp;Για αυτό το παραδοτέο από τις ασκήσεις [HCI](https://github.com/epidrome/dokey#hci) διάλεξα να κάνω το `create your own static site and blog generator with pandoc`. Έφτιαξα ένα static site όπου είναι ένα απλό portofolio της δουλείας μου που κάνω ως amateur graphic designer. Έφτιαξα ένα βασικό αρχείο index.md όπου μέσω ενός πολύ απλού script το μετατρέπει σε .html χρησιμοποιώντας το style.css όπου είναι ένα template που βρήκα. 
 
 Ακόμα, όπως και ο @AimiliosPavlidis2001 στο παραδοτέο 8 του, το έκανα deploy μέσω netlify αν θελήσει κάποιος να το δει.
 
