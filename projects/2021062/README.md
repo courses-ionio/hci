@@ -52,9 +52,9 @@
 Ο στόχος του τρίτου παραδοτέου ήταν η αρχή της δημιουργίας της ιστοσελίδας του βιβλίου και η εισαγωγή δύο φωτογραφιών μέσω των submodules και jekyll στο βιβλίο.
 
 | Περιγραφή | Image link | Gallery link | Βιβλιογραφία |
-| --- | --- | --- |
-| Keyboard | [keyboard image](https://github.com/inf2021062/images/blob/master/keyboard.jpg) | [keyboard gallery](https://github.com/inf2021062/_gallery/blob/inf2021062/keyboard.md) |
-| mouse | [mouse image](https://github.com/inf2021062/images/blob/master/mouse.jpg) | [mouse gallery](https://github.com/inf2021062/_gallery/blob/inf2021062/mouse.md)
+| --- | --- | --- | --- |
+| Keyboard | [keyboard image](https://github.com/inf2021062/images/blob/master/keyboard.jpg) | [keyboard gallery](https://github.com/inf2021062/_gallery/blob/inf2021062/keyboard.md) | https://el.wikipedia.org/wiki/%CE%A0%CE%BB%CE%B7%CE%BA%CF%84%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF#/media/%CE%91%CF%81%CF%87%CE%B5%CE%AF%CE%BF:Alphanumeric_keyboard.jpg |
+| mouse | [mouse image](https://github.com/inf2021062/images/blob/master/mouse.jpg) | [mouse gallery](https://github.com/inf2021062/_gallery/blob/inf2021062/mouse.md) | https://el.wikipedia.org/wiki/%CE%A0%CE%BF%CE%BD%CF%84%CE%AF%CE%BA%CE%B9_(%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AD%CF%82)#/media/%CE%91%CF%81%CF%87%CE%B5%CE%AF%CE%BF:Mouse740.jpg |
 
 ## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ(warm-up) - ΠΑΡΑΔΟΤΕΟ 4
 Ο σκοπός του τέταρτου παραδοτέου ήταν η επιλογή από το warm-up category η λήψη και η αναπαραγωγή ενός τραγουδιού μέσω του command line.
