@@ -90,6 +90,9 @@ Screenshot του desktop μου:
 * [Folder finder](https://github.com/nvim-telescope/telescope.nvim#getting-started) που θαρρώ είναι μακράν το πιό χρήσιμο εργαλείο για να μην χρειάζεται να χρησιμοποιείς συνεχώς netrw βγαίνοντας απο το αρχείο που γράφεις
 * [Syntax highlighter](https://github.com/nvim-treesitter/nvim-treesitter) πάλι για να είναι πιό εύκολο να γράψω κώδικα.
 Όλα αυτά έγιναν στο neovim επειδή είναι αρκετά εύκολο να κάνεις αλλαγές σε lua.
+Ορίστε το τελικό αποτέλεσμα:
+
+![Neovim](https://user-images.githubusercontent.com/56548450/206734925-1e7f0ba0-b08b-4228-9a01-ee3cf059e8e3.gif)
 
 
 # Κάτι που μου τράβηξε αρκετά τη προσοχή από τα βίντεο
