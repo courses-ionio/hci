@@ -80,4 +80,15 @@
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β1 - ΠΑΡΑΔΟΤΕΟ 7
 Σε αυτό το παραδοτέο μας ζητήθηκε να συνεχίσουμε την άσκηση για την ισοσελίδα του βιβλίου για το μάθημα αυτό με το συμμετοχικό περιεχόμενο Β1. 
 
+| Μελέτη περίπτωσης | Links | Βιβλιογραφία |
+| --- | --- | --- |
 
+
+
+
+
+
+
+https://github.com/inf2021062/site/blob/master/_case-study/monitor.md 
+https://github.com/inf2021062/site/blob/master/_includes/cs-monitor.md
+https://github.com/inf2021062/images/blob/1ec24892a4dbe26a4c8014691b01c946436c5335/monitor.jpg
