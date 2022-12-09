@@ -95,7 +95,7 @@ https://upload.wikimedia.org/wikipedia/el/2/29/Win7-gr.PNG
 
 Για την ολοκλήρωση του 4ου Παραδοτέου επέλεξα από τις ασκήσεις του warm up την download mp3 και την εκτέλεσα στο Konsole χρησιμοποιώντας το asciinema για εγγραφή οθόνης.
 
-[download mp3](https://asciinema.org/a/APfO0YoB5qYL27WuHlD680Byi)
+[![asciicast](https://asciinema.org/a/APfO0YoB5qYL27WuHlD680Byi.svg)](https://asciinema.org/a/APfO0YoB5qYL27WuHlD680Byi)
 
 # ΠΑΡΑΔΟΤΕΟ 5 
 
@@ -145,6 +145,22 @@ Include: [cs-apple_watch.md](https://github.com/inf2021148/site/blob/master/_inc
 
 ## ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
 
-Για το Παραδοτέο 8 (άσκηση γραμμής εντολών) επέλεξα να χρησιμοποιήσω το Konsole ως IDE με σκοπό να επεξεργαστώ έναν κώδικα της γλώσσας c μέσα από το nano με χρήση του εργαλείου shell script και έπειτα να το τρέξω για να δω τι θα εμφανίσει. Την παραπάνω διαδικασία την αποθήκευσα μέσω του asciinema με εγγραφή οθόνης και την καταθέτω στο παρακάτω βίντεο.
+Για το Παραδοτέο 8 (άσκηση γραμμής εντολών) επέλεξα να χρησιμοποιήσω το command line ως IDE με σκοπό να επεξεργαστώ έναν κώδικα της γλώσσας c μέσα από τον επεξεργαστή κειμένου nano και με χρήση του εργαλείου shell script. Την παραπάνω διαδικασία την αποθήκευσα μέσω του asciinema με εγγραφή οθόνης και την καταθέτω στο παρακάτω βίντεο.
 
 [![asciicast](https://asciinema.org/a/wK9EtfRSS5rXZX6TsehwQ99Q8.svg)](https://asciinema.org/a/wK9EtfRSS5rXZX6TsehwQ99Q8)
+
+# ΠΑΡΑΔΟΤΕΟ 9
+
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2
+
+Στην 9η εβδομάδα μας ζητήθηκε να κάνουμε το Β2 Παραδοτέο του βιβλίου το οποίο βασίζεται στα Α1, Α2, και Β1. Για αυτό το παραδοτέο χρειάστηκε να δημιουργήσουμε μια νέα βιογραφία η οποία να σχετίζεται με τις θεματικές εικόνες-διαφάνειες-χρονολόγιο που αναπτύξαμε σε προηγούμενα παραδοτέα. Παρακάτω, καταθέτω την βιογραφία, μία εικόνα καθώς και το αρχείο που έβαλα μέσα στον φάκελο includes για περισσότερες πληροφορίες σχετικά με την βιογραφία.
+
+Μελέτη περίπτωσης: [Paul Allen](https://github.com/inf2021148/site/blob/master/_biography/paul-allen.md)
+
+Εικόνα: [paul-alen.jpg](https://github.com/inf2021148/images/blob/master/paul-allen.jpg)
+
+Include: [bio-allen.md](https://github.com/inf2021148/site/blob/master/_includes/bio-allen.md)
+
+Πηγή κειμένου: https://en.wikipedia.org/wiki/Paul_Allen
+
+Πηγή εικόνας: https://pbs.twimg.com/profile_images/558434025954488320/E4r4Rlc__400x400.jpeg
