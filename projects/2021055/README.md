@@ -353,7 +353,7 @@
 * Η συνεισφορά μου
 ##  FILES
 * [Photos](https://github.com/Axileaszervos/kallipos/tree/master/MyPhotos)
-* [MyEpub.epu](https://github.com/Axileaszervos/kallipos/blob/master/MyEpub/MyEpub.epub)
+* [MyEpub.epub](https://github.com/Axileaszervos/kallipos/blob/master/MyEpub/MyEpub.epub)
 * [make-latex.sh](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
 
 
