@@ -55,10 +55,13 @@
  
  Μετά την εγκατάσταση του Arch Linux,χρησιμοποιήσα στο command line για εγγραφή οθόνης το (asciinema)όπου δοκίμασα τις 2 εξής εντολές του παραδοτέου για την εμφανιση σημαντικών πληροφοριών(bootlog,informations).
 
-1. [journalctl -b](https://asciinema.org/a/aQdGYmE3kEzofJirine9q5Dxt)
 
-2. [neofetch](https://asciinema.org/a/1vncGBcGC75mw1naweSyBJO5a)
 
+### Asciinema 1:
+[![asciicast](https://asciinema.org/a/1vncGBcGC75mw1naweSyBJO5a.svg)](https://asciinema.org/a/1vncGBcGC75mw1naweSyBJO5a)
+.......................................................................................................................................................................................................................................
+### Asciinema 2: 
+[![asciicast](https://asciinema.org/a/1vncGBcGC75mw1naweSyBJO5a.svg)](https://asciinema.org/a/1vncGBcGC75mw1naweSyBJO5a)
 
 # Εβδομάδα 3η
 
@@ -77,13 +80,29 @@
 4.[typewriter.md](https://github.com/inf2021122/_gallery/blob/master/typewriter.md)
 
 
+# Οι Πηγές που χρησιμοποιήσα ( playsStation.png , _includes , images ):
+1.[playStation.png](https://en.wikipedia.org/wiki/PlayStation_(console)#/media/File:PSX-Console-wController.jpg)
+
+2.[typewriter.png](https://upload.wikimedia.org/wikipedia/commons/5/51/Underwood_Portable_3_Banks_Greek_kbd_1921.jpg)
+
+3.[playStation.md](https://el.wikipedia.org/wiki/PlayStation#PlayStation)
+
+4.[typewriter.md](https://el.wikipedia.org/wiki/%CE%93%CF%81%CE%B1%CF%86%CE%BF%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%AE)
+
+
+
+
+
+
 # Εβδομάδα 4η
 
 ## Άσκηση γραμμής εντολών (warm up):
 
 Για το 4ο Παραδοτέο επέλεξα απο τις ασκήσεις γραμμής εντολών, να εξασκηθώ στο να κατεβάσω ενα τραγούδι απο το youtube μέσω του konsole και εν συνεχεία χρησιμοποιήσα το asciinema για να κάνω εγγραφή οθόνης.
 
-[youtube-dl](https://asciinema.org/a/Li1HvnJu9Ixs43xW5iRrMpHwA)
+### Asciinema (youtube-dl):
+[![asciicast](https://asciinema.org/a/Li1HvnJu9Ixs43xW5iRrMpHwA.svg)](https://asciinema.org/a/Li1HvnJu9Ixs43xW5iRrMpHwA)
+
 
 
 # Εβδομάδα 5η
@@ -100,6 +119,9 @@
  ## Timeline playStation:
  
  ### link:https://github.com/inf2021122/site/blob/master/_timeline/playStation.md
+ 
+ 
+ 
  
  
  # Εβδομάδα 6η
@@ -155,6 +177,35 @@
  
 ### Asciinema:
 [![asciicast](https://asciinema.org/a/C2X0p91cqUzJNL6wQZI8yND4v.svg)](https://asciinema.org/a/C2X0p91cqUzJNL6wQZI8yND4v)
+
+
+# Εβδομάδα 9η
+
+## Συμμετοχικό περιεχόμενο ( Β2 )
+
+Για το 9ο παραδοτέο συνεχίσαμε την εργασία, και πάλι στο ομαδικό μας αποθετήριο για την ιστοσελίδα του βιβλίου του μαθήματος βάση των προηγούμενων (Α1,Α2,Β1).
+
+## _biography:
+  ### link:https://github.com/inf2021122/site/blob/master/_biography/Ken-Kutaragi.md
+  
+## _includes:
+ ### link:https://github.com/inf2021122/site/blob/master/_includes/bio-Kutaragi.md
+ 
+## images:
+ ### link:https://github.com/inf2021122/images/blob/cb0beb3ed92d68497ff89728d0af15bebc6f4c27/Ken_kutaragi.jpg
+ 
+  ## Οι Πηγές που χρησιμοποιήσα ( _biography , _includes , images ):
+1.[_biography](https://en.wikipedia.org/wiki/Ken_Kutaragi)
+
+2.[_includes](https://en.wikipedia.org/wiki/Ken_Kutaragi)
+
+3.[images](https://el.wikipedia.org/wiki/%CE%9A%CE%B5%CE%BD_%CE%9A%CE%BF%CF%85%CF%84%CE%B1%CF%81%CE%AC%CE%B3%CE%BA%CE%B9)
+
+
+#Εβδομάδα 10η
+
+##
+
       
 
 
