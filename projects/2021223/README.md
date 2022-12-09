@@ -149,3 +149,10 @@ https://en.wikipedia.org/wiki/File:MSI_laptop_with_English_Wikipedia_screenshot_
 
 ## Πηγές
 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiToIK3-Oz7AhV1IMUKHQuZAB8QFnoECBYQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCharles_Ranlett_Flint&usg=AOvVaw2rkUIrutTFP6sBKAB4MNtg
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiToIK3-Oz7AhV1IMUKHQuZAB8QFnoECBQQAQ&url=https%3A%2F%2Fwww.ibm.com%2Fibm%2Fhistory%2Fexhibits%2Fbuilders%2Fbuilders_flint.html&usg=AOvVaw24c5EDs_CwV3eW3bEmIaCs
+
+https://en.wikipedia.org/wiki/File:Charles_Ranlett_Flint.jpg
+
+
