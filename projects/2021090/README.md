@@ -81,8 +81,8 @@ link για το netlify
 
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
-|    https://inf2021090.netlify.app/gallery/houdini/  |       |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
-| https://inf2021090.netlify.app/gallery/blender/  |        |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)         |
+|    https://inf2021090.netlify.app/gallery/houdini/  |   https://github.com/inf2021090/_gallery/blob/master/blender.md    |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
+| https://inf2021090.netlify.app/gallery/blender/  |    https://github.com/inf2021090/_gallery/blob/master/houdini.md    |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)         |
 
 ## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
 
@@ -111,6 +111,8 @@ pull request
 | ----------- | ----------- | -----------  |
 |   https://inf2021090.netlify.app/timeline/computer-graphics/   |       |              |
 |  https://inf2021090.netlify.app/slides/simulation/ |        |              |
+
+https://github.com/ContattoContare/site/pull/32
 
 ## Εβδομάδα Έκτη - Κατασκευή του βιβλίου Α
 
