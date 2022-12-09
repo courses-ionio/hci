@@ -56,16 +56,16 @@
 ![ksnip_20221114-171308](https://user-images.githubusercontent.com/101902825/201695875-d2e91a80-c21d-4b60-8187-22121cd9b528.png)
 
 # Συμμετοχικό περιεχόμενο B1 <br>
-Έκανα μελέτη περίπτωσης στο μακροβιότερο [VR headset](https://master--meek-chaja-52b6fe.netlify.app/case-study/oculusandvr/), δίνοντας έμφαση στο λειτουργικό σύστημα SDK και στις χρήσης του στη βιομηχανία και τη διασκέδαση. Χωρίς να επιμείνω στο γεγονός ότι έχει γίνει γνωστό λόγο τον βιντεοπαιχνιδιών <br>
+Έκανα μελέτη περίπτωσης στο μακροβιότερο [VR headset](https://master--meek-chaja-52b6fe.netlify.app/case-study/oculusandvr/), δίνοντας έμφαση στο λειτουργικό σύστημα SDK και στις χρήσης του στη βιομηχανία και τη διασκέδαση. Χωρίς να επιμείνω στο γεγονός ότι έχει γίνει γνωστό λόγο τον βιντεοπαιχνιδιών. <br>
 # Άσκηση γραμμής εντολών <br>
 Στην άσκηση γραμμής εντολών ασχολήθηκα με το [groff](https://github.com/artopodama/8-10/blob/main/groff.txt) και τον διαφορετικό τρόπο που προσφέρει για τη δημιουργία κειμένων και τη σύνθεσή τους.
 <br>
 
 # Συμμετοχικό περιεχόμενο B2 <br>
-Η βιογραφία είναι για τον [Palmer Luckey](https://master--meek-chaja-52b6fe.netlify.app/biography/palmerluckey/) τον ιδρυτή της Oculus και της Anduril Industries, η οποία δημιουργεί πολεμικό περιεχόμενο για τον Αμερικανικό στρατό <br>
+Η βιογραφία είναι για τον [Palmer Luckey](https://master--meek-chaja-52b6fe.netlify.app/biography/palmerluckey/) τον ιδρυτή της Oculus και της Anduril Industries, η οποία δημιουργεί πολεμικό περιεχόμενο για τον Αμερικανικό στρατό. <br>
 
 # Άσκηση γραμμής εντολών <br>
-Στη γραμμή εντολών ασχολήθηκα με την αλλαγή του groff αρχείου σε PDF μέσο του [pandoc](https://github.com/artopodama/8-10/blob/main/make.sh)
-
+Στη γραμμή εντολών ασχολήθηκα με την αλλαγή του groff αρχείου σε PDF μέσο του [pandoc](https://github.com/artopodama/8-10/blob/main/make.sh).
+<br>
 
 
