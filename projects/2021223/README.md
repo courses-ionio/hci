@@ -125,7 +125,9 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ve
 
 ## Πηγές
 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjIzYfb5uz7AhWzhP0HHW6qBqYQFnoECBIQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPersonal_computer&usg=AOvVaw1uXw1hnGrv6jnUXiMpFVMB
 
+https://en.wikipedia.org/wiki/File:MSI_laptop_with_English_Wikipedia_screenshot_20100614.jpg
 
 # Παραδοτέο 8ο
 
