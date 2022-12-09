@@ -77,6 +77,7 @@
 | contribution4.lua | https://github.com/inf2021062/kallipos/blob/master/contribution4.lua |
 | contribution.md | https://github.com/inf2021062/kallipos/blob/master/contribution4.md |
 
-
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β1 - ΠΑΡΑΔΟΤΕΟ 7
+Σε αυτό το παραδοτέο μας ζητήθηκε να συνεχίσουμε την άσκηση για την ισοσελίδα του βιβλίου για το μάθημα αυτό με το συμμετοχικό περιεχόμενο Β1. 
 
 
