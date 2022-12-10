@@ -282,13 +282,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Για το συγκεκριμένο παραδοτέο βοήθησαν πολύ τα παραδοτέα [6](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%BA%CF%84%CE%B7---%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B1) και [8](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%8C%CE%B3%CE%B4%CE%BF%CE%B7---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-static-site). Οι γνώσεις που απέκτησα σχετικά με τα scripts με βοήθησαν να δημιουργήσω ένα **menu** όπου ο χρήστης επιλέγει αν θέλει να ανοίξει τα Daily, τα Weekly ή τα Monthly καθήκοντά του. Οι φάκελοι αυτοί δημιουργούνται αυτόματα με ένα <kbd>if</kbd> και το ίδιο ισχύει και για τα txt αρχεία που περιέχονται μέσα τους. Επίσης περιέχεται ένα <kbd>cd</kbd> για κάθε επιλογή για να ανοίξει ο συγκεκριμένος φάκελος στο **SpaceVim**. Έπειτα, έβαλα την εντολή **sleep 2** για να προλάβει ο χρήστης να δει ποια αρχεία θα ανοίξουν πριν φορτώσει το SpaceVim. Αξίζει να σημειωθεί πως έφτιαξα ένα [github repository](https://github.com/AimiliosPavlidis2001/Script_SpaceVim) με το script και όλα τα αρχεία που δημιουργήθηκαν.
 
+<br />
 
+Στο παρακάτω **asciinema** αναπαρίστανται το menu και η χρήση του SpaceVim
 
+[![asciicast](https://asciinema.org/a/ug7fOYHXc9LMwxhZwGMQ3XJym.svg)](https://asciinema.org/a/ug7fOYHXc9LMwxhZwGMQ3XJym)
 
+<br />
 
-
-
-
+| Github Repo Link | Asciinema Link |
+| --- | --- |
+| [My Github Repo](https://github.com/AimiliosPavlidis2001/Script_SpaceVim) | [My Asciinema Recording](https://asciinema.org/a/ug7fOYHXc9LMwxhZwGMQ3XJym) |
 
 
 <br /><br />
@@ -302,7 +306,7 @@
 | Παροχή βοήθειας Discussions | Δικές μου αναρτήσεις Discussions | Discussions Ομάδας | Σημαντικοί σχολιασμοί ομάδα |
 | --- | --- | --- | --- |
 | [Βοήθεια συμφοιτητή 1](https://github.com/courses-ionio/help/discussions/1069) | [Ερώτηση για νέο fork (3ο παραδοτέο)](https://github.com/courses-ionio/help/discussions/1156) | [Ανάρτηση αναλυτικού guide (3ο παραδοτέο)](https://github.com/TEAM11234/help/discussions/1) | [Σχολιασμός Pull Request για images 3ου παραδοτέου στον @vasiliskampani](https://github.com/TEAM11234/images/pull/2) |
-| | | | [Σχολιασμός Pull Request για gallery 3ου παραδοτέου στον @vasiliskampani](https://github.com/TEAM11234/_gallery/pull/2) |
+| [Βοήθεια συμφοιτητή 2](https://github.com/courses-ionio/help/discussions/1873) | | | [Σχολιασμός Pull Request για gallery 3ου παραδοτέου στον @vasiliskampani](https://github.com/TEAM11234/_gallery/pull/2) |
 
 
 <br /> <br />
@@ -337,3 +341,6 @@
  - [βοήθεια βίντεο](https://www.youtube.com/watch?v=Efk2M77naFU)
  - [βοήθεια εγκατάστασης google chrome](https://www.itzgeek.com/how-tos/linux/arch-linux/how-to-install-google-chrome-on-arch-linux.html)
  - [Browsersync](https://browsersync.io/)
+#### Δέκατο Παραδοτέο
+ - [βοήθεια βίντεο SpaceVim](https://www.youtube.com/watch?v=3xB501CJDB8)
+ - [SpaceVim](https://spacevim.org/)
