@@ -29,7 +29,7 @@
 | 7 | [Συμμετοχικό περιεχόμενο B1](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%B2%CE%B4%CE%BF%CE%BC%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21) | [Ανάρτηση Συμμετοχικού Περιεχομένου Β1 στο Discussions](https://github.com/courses-ionio/help/discussions/1846) | |
 | 8 | [Άσκηση Γραμμής Εντολών (Static Site)](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%8C%CE%B3%CE%B4%CE%BF%CE%B7---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-static-site) | [Ανάρτηση άσκησης γραμμής εντολών (Static Site) στο Discussions](https://github.com/courses-ionio/help/discussions/1790) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 | [Άσκηση Γραμμής Εντολών (Script + SpaceVim)](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%B4%CE%AD%CE%BA%CE%B1%CF%84%CE%B7---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-script--spacevim) | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
