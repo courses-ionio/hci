@@ -274,7 +274,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Η οργάνωση και τακτοποίηση των ασχολιών και καθηκόντων μου είναι κάτι πολύ σημαντικό για εμένα αφού με κρατάει σε μία ρουτίνα, όπου δεν παρεκτρέπομαι. Το τελευταίο καιρό έχω αποκτήσει κάποιες νέες συνήθειες και για την αποτελεσματικότερη επίτευξή τους επέλεξα να κάνω ένα **Routine Tracker**. Έπειτα από την παρατήρηση των διαθέσιμων ασκήσεων στο [dokey](https://github.com/epidrome/dokey) κατέληξα στο να συνδυάσω ένα **script** που έφτιαξα με το [SpaceVim](https://spacevim.org/). Το SpaceVim με τη λειτουργία του <kbd>space</kbd> εξηγεί πολύ καλά τους τρόπους πλοήγησης στη πλατφόρμα του, αλλά για επιπρόσθετη κατανόηση βοήθησε και [αυτό](https://www.youtube.com/watch?v=3xB501CJDB8) το βίντεο.
 
+<br />
 
+### Διαδικασία Υλοποίησης
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Για το συγκεκριμένο παραδοτέο βοήθησαν πολύ τα παραδοτέα [6](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%BA%CF%84%CE%B7---%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B1) και [8](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%8C%CE%B3%CE%B4%CE%BF%CE%B7---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-static-site). Οι γνώσεις που απέκτησα σχετικά με τα scripts με βοήθησαν να δημιουργήσω ένα **menu** όπου ο χρήστης επιλέγει αν θέλει να ανοίξει τα Daily, τα Weekly ή τα Monthly καθήκοντά του. Οι φάκελοι αυτοί δημιουργούνται αυτόματα με ένα <kbd>if</kbd> και το ίδιο ισχύει και για τα txt αρχεία που περιέχονται μέσα τους. Επίσης περιέχεται ένα <kbd>cd</kbd> για κάθε επιλογή για να ανοίξει ο συγκεκριμένος φάκελος στο **SpaceVim**. Έπειτα, έβαλα την εντολή **sleep 2** για να προλάβει ο χρήστης να δει ποια αρχεία θα ανοίξουν πριν φορτώσει το SpaceVim. Αξίζει να σημειωθεί πως έφτιαξα ένα [github repository](https://github.com/AimiliosPavlidis2001/Script_SpaceVim) με το script και όλα τα αρχεία που δημιουργήθηκαν.
 
 
 
