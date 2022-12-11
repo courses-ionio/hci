@@ -183,3 +183,5 @@ Tο [book](https://github.com/tilav/kallipos/blob/master/book/book.pdf) μου.
 | 7 | Oral History of Douglas Engelbart |<p align = "center">✅</p>|<p align = "center">✅</p>|
 | 8 | Engelbart's Unfinished Revolution 1998 Session IV |<p align = "center">✅</p>|<p align = "center">✅</p>|
 | 9 | Dynabook: The Complete Story |<p align = "center">✅</p>|<p align = "center">✅</p>|
+| 10 | Alan Kay at Media Lab 30 |<p align = "center">✅</p>|<p align = "center">✅</p>|
+| 11 | Jaron Lanier - Learning by Experience & Play |<p align = "center">✅</p>|<p align = "center">✅</p>|
