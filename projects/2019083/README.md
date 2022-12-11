@@ -2,6 +2,7 @@
 # ΑΜ: Π2019083
 # [Asciinema](https://asciinema.org/~P2019083)
 # [Edpuzzle](https://edpuzzle.com/classes/63398b5f9fadbe4119d673a5)
+# [Actively Learn](https://read.activelylearn.com/#student/classes/1247678/assignments)
 <br>
 
 ## Proud member of [Second Time Is The Charm](https://github.com/Second-Time-is-the-Charm) <br>
@@ -158,7 +159,6 @@
 # [Παραδοτέο 11](https://github.com/courses-ionio/help/discussions/1737)
 Για το παραδοτέο 11, ο στόχος ήταν η μετατροπή του βιβλίου σε μορφή EPUB, η οποία είναι μια δημοφιλής και ευρέως υποστηριζόμενη μορφή για ηλεκτρονικά βιβλία. Για να γίνει αυτό, έπρεπε να χρησιμοποιήσω το pandoc για να μετατρέψω τα source files του βιβλίου σε μορφή EPUB. Έπρεπε επίσης να συμπεριλάβω τις δικές μου προσθήκες και τροποποιήσεις, όπως η βιογραφία του Dan Ingalls και η μελέτη περίπτωσης για την εξέλιξη των γραφικών περιβαλλόντων. Μόλις ολοκληρώθηκε η μετατροπή, εξέτασα το αρχείο EPUB για να βεβαιωθώ ότι ήταν σωστά μορφοποιημένο και εμφανιζόταν σωστά, και στη συνέχεια το ανέβασα στην ιστοσελίδα του βιβλίου. 
 
-
 <div align="center">
 
 ![daningalls-epub](https://user-images.githubusercontent.com/77148351/204551060-f4aad559-156b-4efc-a056-20827316ce8d.png)
@@ -167,10 +167,18 @@
 
 </div>
 
-### Πηγές:
-1. Windows: https://winworldpc.com/product/windows-10/101
-2. HP NewWave: http://toastytech.com/guis/nw.html
-3. IOS: https://www.macrumors.com/how-to/wirelessly-sync-iphone-mac/
-4. Xerox Alto: https://www.computerhistory.org/revolution/input-output/14/347
+# Συμπεράσματα
+Φτάνοντας στο τέλος του μαθήματος, απέκτησα αρκετές γνώσεις σχετικά με το αντικείμενο της διάδρασης ανθρώπου-υπολογιστή. Τα εβδομαδιαία βίντεο κουίζ μου παρείχαν διαφορετικές οπτικές γωνίες για το θέμα, επιτρέποντάς μου να διευρύνω την κατανόησή μου και να σκέφτομαι πιο κριτικά σχτικά με τον τομέα. Εκτός από την επίτευξη των αρχικών μου στόχων σχετικά με την ομαδικότητα και τη βελτίωση των δεξιοτήτων μου στο τερματικό, έμαθα επίσης νέα εργαλεία και προσεγγίσεις για την επίλυση προβλημάτων. Συνολικά, αισθάνομαι ότι ωφελήθηκα σημαντικά από αυτό το μάθημα και είμαι ενθουσιασμένος που θα εφαρμόσω τις νεοαποκτηθείσες γνώσεις μου στις μελλοντικές μου προσπάθειες.
 
+# Πηγές
 
+## Case Study: Γραφικά Περιβάλλοντα και η εξελιξή τους.
+- Windows: https://winworldpc.com/product/windows-10/101
+- HP NewWave: http://toastytech.com/guis/nw.html
+- IOS: https://www.macrumors.com/how-to/wirelessly-sync-iphone-mac/
+- Xerox Alto: https://www.computerhistory.org/revolution/input-output/14/347
+
+## Biography: Dan Ingalls
+- Dan Ingalls: https://computerhistory.org/profile/dan-ingalls/
+- Smalltalk: https://en.wikipedia.org/wiki/Dan_Ingalls
+- lively kernel: https://www.lively-kernel.org/lively/index.html
