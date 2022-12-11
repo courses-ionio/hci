@@ -13,7 +13,7 @@
 | 7 | [Συμμετοχικό περιεχόμενο B1](#Συμμετοχικό-περιεχόμενο-B1) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1664) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
 | 8 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1778) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
 | 9 | [Συμμετοχικό περιεχόμενο B2](#Συμμετοχικό-περιεχόμενο-B2) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1847) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -91,3 +91,5 @@
 2. [Anduril](https://www.anduril.com/leadership/)
 3. [The blog of Palmer Luckey](https://palmerluckey.com/if-you-die-in-the-game-you-die-in-real-life/)
 4. [Wikipedia](https://en.wikipedia.org/wiki/Palmer_Luckey)
+
+## Άσκηση γραμμής εντολών
