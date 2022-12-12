@@ -59,6 +59,7 @@
 
 [Asciinema Link](https://asciinema.org/a/aHisTMmqfXg4KyZ7nSivWNzAD)
 
+## Ομαδικότητα
 
 
 ## Video Quiz
