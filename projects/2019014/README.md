@@ -301,3 +301,91 @@
 <br />
   
 ενημέρωσα και τις αλλαγές μου στο αποθετήριο **kallipos**
+
+<br />
+  
+# Έβδομη εβδομάδα / Συμμετοχικό περιεχόμενο Β1
+  
+<br />
+  
+Για την 7η εβδομάδα μας ζητήθηκε να ενσωματόσουμε μία νέα μελέτη περίπτωσης που να αφορά την επικοινωνία Ανθρώπου-Υπολογιστή. Η διαδικάσια της ενσωμάτωσης θα γινόταν ακριβώς με τον ίδιο τρόπο όπως με τα πρώτα δύο συμμετοχικά περιεχόμενα Α1 και Α2 μόνο που τώρα θα αλλάξω τους φακέλόυς [_includes](https://github.com/vasiliskampani/site/tree/2019014_BA/_includes/), και [_case-study](https://github.com/vasiliskampani/site/tree/2019014_BA/_case-study/). Αποφάσισα να ασχολήθω με το πληκτρολόγιο συγχορδίας **Chorded Keyboard** ώς μελέτη περίπτωσης επείδη μου κέντρισε το ενδιαφέρον ο ***Douglas Engelbart*** μέσα απο το εβδομαδιαίο quiz που παρουσίασε και είπε κάποια λόγια για τις λειτουργίες αυτού του πληκτρολογίου.
+  
+<br>
+  
+## Chorded Keyboard
+  
+<br>
+  
+Το Chorded Keyboard ή στα ελληνικά πληκτρολόγιο με χορδή είναι μια συσκευή εισόδου υπολογιστή που επιτρέπει στο χρήστη να εισάγει χαρακτήρες ή εντολές που σχηματίζονται με το πάτημα πολλών πλήκτρων μαζί, όπως το να παίζει μια "κορδία" σε ένα πιάνο.
+  
+<br>
+  
+&#10004; Ενημέρωσα το submodule **/images** με 3 προσθήκες εικόνων:
+  
+* [Κανονική εικόνα](https://github.com/vasiliskampani/images/commit/c58f7dc1e6e09c35690aa43344aecbc9b9de088e#diff-71ba4def6d1b2e45d6503789a72ecb4d380956151d7f7464949c72617aa74507/)
+* [Thumb εικόνα](https://github.com/vasiliskampani/images/commit/c58f7dc1e6e09c35690aa43344aecbc9b9de088e#diff-b1160cebf28c39c1aa16963f9c16ba3ac96e198de5f0495c42f263ecd641ea07/)
+* [Έξτρα εικόνα](https://github.com/vasiliskampani/images/commit/c58f7dc1e6e09c35690aa43344aecbc9b9de088e#diff-c4ecb5adee315707d6a2f8dc51dbd531c00ad1f3ef2e583c090007aeae34351c/)
+  
+ <br>
+  
+&#10004; Δημιούργησα νέο αρχείο στο _includes με όνομα [chorded-keyboard.md](https://github.com/vasiliskampani/site/blob/2019014_BA/_case-study/chorded-keyboard.md/)
+  
+<br>  
+  
+&#10004; Δημιούργησα νέο αρχείο στο _includes με όνομα [cs-chorded-keyboard.md](https://github.com/vasiliskampani/site/blob/2019014_BA/_includes/cs-chorded-keyboard.md/)
+  
+<br>
+  
+| | Demo του Chorded Keyboard |
+| --- | --- |
+| 1 | [Demo link στο case-study](https://vasiliskampani-ck-bs.netlify.app/case-study/chorded-keyboard/) |
+  
+<br>
+  
+![Στιγμιότυπο οθόνης (72)](https://user-images.githubusercontent.com/72518208/207068588-49b62011-b1a5-4334-a126-44335888a6dd.png)
+![Στιγμιότυπο οθόνης (73)](https://user-images.githubusercontent.com/72518208/207068621-8566b844-ffb6-4f98-9c4e-ce32c3003e27.png)
+
+<br> 
+  
+| | Links για τα Pull request και το issue |
+| --- | --- |
+| 1 | [Pull request στο site](https://github.com/TEAM11234/site/pull/3/) |
+| 2 | [Pull request στο images](https://github.com/TEAM11234/images/pull/5/) |
+  
+<br /> 
+  
+# Όγδοη εβδομάδα / Πρώτη άσκηση γραμμής εντολών (hci)
+  
+<br /> 
+  
+Για την 8η εβδομάδα του μαθήματος μας ζητήθηκε να υλοποιήσουμε μία απο τις 4 ασκήσεις γραμμής εντολών για το HCI. Έγω έπειτα από πολύ σκέψη αποφάσισα να κάνω την πρώτη που έχει να κάνει με την χρήση εργαλείων μορφοποιήσης κειμένου χρησιμοποιώντας το εργαλέιο [**Groff**](https://www.gnu.org/software/groff/manual/html_node/index.html/). Συγκεκριμένα μου άρεσε πολύ το εργαλείο καθώς το έψαξα περαιτέρω και μέσω του macro package ms δημιουργήσα την αναφορά μου αρχικά σε html μορφή μέσω τερματικού και στην συνέχεια την δημιούργησα σε pdf.
+  
+<br /> 
+  
+Για την ολοκλήρωση της άσκησης αρχικά εγκατέστησα το **zathura** έναν pdf reader για να μπορέσω να ανοιξώ την επεξεργασμένη αναφορά μου και δημιουργήσα ένα αρχείο vim με όνομα groff.ms γιατι χρησιμοποιύσα macro ms πακέτο. Μέτα με την εντολή `groff -ms groff.ms` το έκανα ένα πραγματικό document και με την εντολή `groff -ms groff.ms -T pdf` αυτό δημιουργήθηκε σε αρχείο pdf. Αυτό όμως δεν αρκούσε καθώς δεν μπορούσε να το ανοιξεί άπλα το εμφάνιζε στο τερματικό. Έκει λοιπόν ερχέται το zathura για να μπορέσει να ανοιξει την αναφορά μου σε πραγματικο αρχείο pdf. Εν τέλη μέσω shell script από αρχείο nano που δημιούργησα έτρεχα το πρόγραμμα και αφού του έδινα να διαβάσει την απάντηση μου, εκτύπωνε το pdf εμφανίζοντας και ένα μήνυμα.
+  
+<br /> 
+  
+***Δυστηχώς δεν μπόρεσα να βρώ καποίο τρόπο να διαβάζει τα ελληνικα γράμματα το zathura επειδή λειτουργεί με plugins και δεν υπήρχε κάποιο plugin με ελληνικούς χαρακτήρες και έτσι δεν δίαβαζε τα ελληνικά γράμματα.***
+  
+<br />
+  
+Σε αυτό το asciinema φαίνεται τις εντολές που έτρεξα με το εργαλείο Groff
+  
+<br>
+  
+<p align="center">
+<a href="https://asciinema.org/a/qBrg1k36FXPvXhOrw8nIErEj6" target="_blank"><img src="https://asciinema.org/a/qBrg1k36FXPvXhOrw8nIErEj6.svg" /></a>
+</p>
+                                                                                                                                         
+<br />
+                                                                                                                                            
+Σε αυτό το asciinema φαίνεται τις εντολές που έτρεξα μέσω **shell script** για την εμφάνιση του pdf μου μέσω κάποιων μηνυμάτων
+                                                                                                                                           
+<br>
+  
+<p align="center">
+<a href="https://asciinema.org/a/O59sA8N8hQw4Urbt3xS5ebSeO" target="_blank"><img src="https://asciinema.org/a/O59sA8N8hQw4Urbt3xS5ebSeO.svg" /></a>
+</p>
+  
+
