@@ -55,6 +55,11 @@
 
 [Asciinema Link](https://asciinema.org/a/mvP1BnvTIUHAawDR00nBDkppo)
 
+3η Άσκηση:
+Ως τελευταία άσκηση για εξάσκηση επέλεξα να ασχοληθώ με το αγαπημένο μου τραγούδι απ' το YouTube το οποίο και έκανα λήψη (download mp3	search, download and play (with the terminal) your favorite song of the month from youtube	youtube-dl mpv).
+
+[Asciinema Link](https://asciinema.org/a/aHisTMmqfXg4KyZ7nSivWNzAD)
+
 
 
 
