@@ -47,7 +47,13 @@
 
 1η Άσκηση:
 Ως πρώτη άσκηση για το terminal προσπάθησα να δοκιμάσω διαφορετικά προγράμματα περιήγησης ιστού που βασίζονται σε κείμενο, ώστε να συνηθίσω τις συντομεύσεις πληκτρολογίου (try different text-based web browsers and get used to the keyboard shortcuts for one	use your favorite text-based browser to retrieve information from the web	lynx w3m links).
+
 [Asciinema Link](https://asciinema.org/a/CCzvtSwNnXaNFI8h8PRsWuc20)
+
+2η Άσκηση:
+Στην συνέχεια υλοποίησα τον έλεγχο του καιρού (check the weather	fetch the weather forecast for your home city and one more city that you want to travel to	wttr).
+
+[Asciinema Link](https://asciinema.org/a/mvP1BnvTIUHAawDR00nBDkppo)
 
 
 
