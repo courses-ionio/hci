@@ -20,9 +20,9 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 | 4 | <p align="center">[Άσκηση γραμμής εντολών (warm up cli)](#4ο-Παραδοτέο---Warmup-CLI)</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1296) |Ολοκληρώθηκε η άσκηση Warm-up Weather fetch και Youtube-dl επιτυχώς και εντός της προθεσμίας |
 | 5 | <p align="center">[Συμμετοχικό περιεχόμενο A2](#5ο-Παραδοτέο---Συμμετοχικό-υλικό-Α2)</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1496) | Πρόσθεσα το συμμετοχικό υλικό Α1 σε ήδη υπάρχοντα slide και timeline επιτυχώς και εντός της προθεσμίας|
 | 6 | <p align="center">Κατασκευή του βιβλίου Α</p> | <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1578)</p>| Έχει ολοκληρωθεί η πρώτη φάση του παραδοτέου, η δημιουργια του PDF εντός προθεσμίας. Αναμένεται η συνέχια|
-| 7 | <p align="center">Συμμετοχικό περιεχόμενο B1</p> |  <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1696) | Δημιουργήθηκε μια μελέτη περίπτωσης βασισμένη στο συμμεοχικό υλικό Α1 επιτυχώς και εντός της προθεσμίας |
+| 7 | <p align="center">[Συμμετοχικό περιεχόμενο B1](#7ο-Παραδοτέο---Συμμετοχικό-υλικό-Β1)</p> |  <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1696) | Δημιουργήθηκε μια μελέτη περίπτωσης βασισμένη στο συμμεοχικό υλικό Α1 επιτυχώς και εντός της προθεσμίας |
 | 8 | <p align="center">Άσκηση γραμμής εντολών</p> | | |
-| 9 | <p align="center">Συμμετοχικό περιεχόμενο B2</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1858) | Δημιουργήθηκε η βιογραφία για τον John Carmack εντός προθεσμίας |
+| 9 | <p align="center">[Συμμετοχικό περιεχόμενο B2](#9ο-Παραδοτέο---Συμμετοχικό-Υλικό-Β2)</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1858) | Δημιουργήθηκε η βιογραφία για τον John Carmack εντός προθεσμίας |
 | 10 | <p align="center">Άσκηση γραμμής εντολών</p> | | |
 | 11 | <p align="center">Κατασκευή του βιβλίου Β</p> | | |
 | 12 | <p align="center">Τελική αναφορά*</p> | | |
@@ -33,8 +33,10 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 *Αναμένονται αλλαγές σύντομα σύμφωνα με τα σχόλια του καθηγητή στην παρουσίαση αναφοράς*
 
  <h2 align="center">2ο Παραδοτέο - Linux installation</h2>
-  
+
  Με αυτό το παραδοτέο μπαίνουμε και επίσημα στην ουσία του μαθήματος, καθώς ζητείται η εγκατάσταση του Λειτουργικού Συστήματος Linux που θα χρησιμοποιηθεί για την υλοποίηση της τελικής αναφοράς, των ασκήσεων εντολών αλλά και την επίτευξη των προσωπικών μας στόχων που έχουμε ορίσει. Η εγκατάστη στο τέλος έγινε με Dual boot Windows 10/ArchLinux στον πρσωπικό μου υπολογιστή.
+ 
+ ![Desktop](https://user-images.githubusercontent.com/72515787/206935840-4fcf1d3c-97f4-4311-bd17-af4123d2e738.png)
  
  Προσωπικά, η επιλογή ανάμεσα των διαφορετικών enviroment μου φάνηκε λίγο overwhelming εφόσον δεν είμαι καθόλου εξοικειωμένος με κάποιο απο αυτά. Και έτσι, μετά απο μία σχετικά γρήγορη έρευνα στο Google και στο Youtube για να δω τις διαφορές μεταξύ τους, επέλεξα την εγκατάσταση του Enviroment KDE Plasma καθώς θυμίζει τα Windows στην εμφάνιση του και ένιωσα λίγο πιο άνετα να το χρησιμοποιήσω. Το επόμενο βήμα ήταν να πειραματιστώ με την εμφάνιση του Enviroment και του command prompt.
  
@@ -51,8 +53,8 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 
  
  Στο παραδοτέο αυτό, καλούμαστε να συνεισφέρουμε συμμετοχικό υλικό στην σελίδα του ηλεκτρονικού βιβλίου καθώς να κάνουμε deploy το δικό μας version του site.
- 
- <h2>Παλία entries, δεν ισχύουν πια ❌</h2>
+
+ <h2 align="center">Παλία entries, δεν ισχύουν πια ❌</h2>
  
  <h3 align="center">Unity Engine</h3>
  
@@ -72,6 +74,33 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 ![PhotoshopGUI](https://user-images.githubusercontent.com/72515787/197872821-6cbcacb5-4750-40fb-9252-9ae9f138f3f3.png)
  ~~<b>ο σύνδεσμος του συμμετοχικού υλικού στο [netlify](https://invicta-team-project.netlify.app/gallery/photoshop-2016/)</b>~~
  
+ <h2 align="center">Καινούρια Entries</h2>
+ 
+Μετά απο σχόλια και παρατηρήσεις που έγιναν απο τον καθηγητή αλλα και των συμφοιτητών μου στην παρουσίαση της αναφοράς μου, έγιναν αλλαγές στο αρχικό μου συμμετοχικό υλικό. Κάτι το οποίο με ενδιαφέρει αρκετά και σαν χόμπυ αλλά και σαν επάγγελμα, είναι η δημιουγία βιντεοπαιχνιδιών. Έτσι αποφάσισα να ακολουθήσω έναν πιο συγκεκριμένο δρόμο στις εισαγωγές μου, και να ασχολήθω αποκλειστικά σε αυτό.
+
+<h3 align="center">Pinball Construction Set</h3>
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/72515787/206935877-b5bcc953-bc3d-4205-b2f7-947352a1b615.png" />
+</p>
+
+Για την πρώτη μου εισαγωγή, επέλεξα το Pinball Constrction Set. Το Pinball Construction Set ήταν το αρχέτυπο για την κατηγορία βιντεοπαιχνιδιών Construction Sets, τα οποία ερχόντουσαν έτοιμα με έναν Editor/Builder που έδιναν την δυνατότητα στους χρήστες να πειράξουν το παιχνίδι ή ακομά και να δημιουργήσουν μια δικιά τους εκδοχή, **το 1982**!
+
+[Netlify](https://invicta-team-project.netlify.app/gallery/pinball-cs/) του Entry
+
+[Pull request](https://github.com/Invicta-Ionian-Hci/_gallery/pull/16) του Entry
+
+<h3 align="center">Doom</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72515787/206936702-8fe66176-5e11-4c4a-96aa-02130e6b0f39.png" />
+</p>
+
+Δεν μπορούμε να μιλήσουμε για βιντεοπιχνίδια, και να μην αναφέρουμε το ***Doom***, το πιο διαχρονικό και influencial παιχνίδι στην βιομηχανία των βιντεοπαιχνιδιών. Το Doom, έχτισε τα θεμέλια για την αρχιτεκτονική των ***First Person Shooter*** βιντεοπαιχνιδιών, και έκανε δημοφηλές τον όρο ***Μηχανή παιχνιδιών.***
+
+[Netlify](https://invicta-team-project.netlify.app/gallery/doom/) του Entry
+
+[Pull request](https://github.com/Invicta-Ionian-Hci/_gallery/pull/16) του Entry
 
 <h2 align="center">4ο Παραδοτέο - Warmup CLI</h2>
 
@@ -96,22 +125,70 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 
 <h2 align="center">5ο Παραδοτέο - Συμμετοχικό υλικό Α2</h2>
 
-Σε αυτό το παραδοτέο, καλούμαστε να συνδυάσουμε τις εικόνες που εισάγαμε στο συμμετοχικό υλικο Α1 του 3ου παραδοτέου, με παρόμοιο υλικό ώστε να φτιαχτεί το αντίστοιχο timeline και slide στο ηλεκτρονικό βιβλίο.
+ <h2 align="center">Παλία entries, δεν ισχύουν πια ❌</h2>
 
-Όσον αφορά τις εισαγωγές μου στο Α1,την μηχανή παιχνιδιών Unity και το πρόγραμμα επεξεργασίας ψηφιακής εικόνας Adobe Photoshop, παρατήρησα πως υπήρχε μεγάλη έλλέιψη υλικού πάνω σε αυτά τα δύο θέματα. Έτσιμ για να ολοκληρώσω τα ζητούμενα του παραδοτέου, αποφάσισα να προσθέσω δικό μου έξτρα συμμετοχικό υλικό αξιοποιόντας την τεχνική που μάθαμε απο το προηγούμενο παραδοτέο. Πιο συγκεκριμένα πρόσθεσα:
+~~Όσον αφορά τις εισαγωγές μου στο Α1,την μηχανή παιχνιδιών Unity και το πρόγραμμα επεξεργασίας ψηφιακής εικόνας Adobe Photoshop, παρατήρησα πως υπήρχε μεγάλη έλλέιψη υλικού πάνω σε αυτά τα δύο θέματα. Έτσιμ για να ολοκληρώσω τα ζητούμενα του παραδοτέου, αποφάσισα να προσθέσω δικό μου έξτρα συμμετοχικό υλικό αξιοποιόντας την τεχνική που μάθαμε απο το προηγούμενο παραδοτέο. Πιο συγκεκριμένα πρόσθεσα:~~
 
-Για το πρώτο συμμετοχικό υλικό,
-* [Unreal Engine 1998 ](https://invicta-team-project.netlify.app/gallery/unreal-engine/)
-* [Unreal Engine 4](https://invicta-team-project.netlify.app/gallery/unreal-engine-4/)
-* [Πρώτη version της Godot Engine το 2014](https://invicta-team-project.netlify.app/gallery/godot-engine-1.0/)
-* [Godot engine 3.4](https://invicta-team-project.netlify.app/gallery/godot-engine-3.4/)
-* [CryEngine](https://invicta-team-project.netlify.app/gallery/cryengine/)
-* [Πρώτο version της Unity Engine το 2005](https://invicta-team-project.netlify.app/gallery/unity-engine-2005/)
+~~Για το πρώτο συμμετοχικό υλικό,~~
+* ~~[Unreal Engine 1998 ](https://invicta-team-project.netlify.app/gallery/unreal-engine/)~~
+* ~~[Unreal Engine 4](https://invicta-team-project.netlify.app/gallery/unreal-engine-4/)~~
+* ~~[Πρώτη version της Godot Engine το 2014](https://invicta-team-project.netlify.app/gallery/godot-engine-1.0/)~~
+* ~~[Godot engine 3.4](https://invicta-team-project.netlify.app/gallery/godot-engine-3.4/)~~
+* ~~[CryEngine](https://invicta-team-project.netlify.app/gallery/cryengine/)~~
+* ~~[Πρώτο version της Unity Engine το 2005](https://invicta-team-project.netlify.app/gallery/unity-engine-2005/)~~
 
-και δημιουργήθηκε <h3>[slide](https://invicta-team-project.netlify.app/slides/game-engines/)</h3> και <h3>[timeline](https://invicta-team-project.netlify.app/timeline/game-engines/)</h3> όπου συνδυάστηκε και το συμμετοχικό υλικό Α1, και
+~~και~~ ~~δημιουργήθηκε~~ ~~<h3>[slide](https://invicta-team-project.netlify.app/slides/game-engines/)</h3>~~ ~~και ~~<h3>[timeline](https://invicta-team-project.netlify.app/timeline/game-engines/)</h3>~~ ~~όπου συνδυάστηκε και το συμμετοχικό υλικό Α1~~ ~~και~~
 
-Για το δέυτερο συμμετοχικό υλικό,
-* [την πρώτη version του photoshop  το 1988](https://invicta-team-project.netlify.app/gallery/photoshop-1988/) 
-* [και την πρώτη version του εργαλείου gimp το 1995](https://invicta-team-project.netlify.app/gallery/gimp-1.0/)
+~~Για το δέυτερο συμμετοχικό υλικό,~~
+* ~~[την πρώτη version του photoshop  το 1988](https://invicta-team-project.netlify.app/gallery/photoshop-1988/)~~
+* ~~[και την πρώτη version του εργαλείου gimp το 1995](https://invicta-team-project.netlify.app/gallery/gimp-1.0/)~~
 
-και δημιουργήθηκε <h3>[slide](https://invicta-team-project.netlify.app/slides/digital-image-processing/)</h3> και προστέθηκε σε ήδη υπάρχων <h3>[timeline](https://invicta-team-project.netlify.app/timeline/paint/)</h3> όπου συνδυάστηκε και το συμμετοχικό υλικό Α1.
+~~και ~~δημιουργήθηκε~~ ~~<h3>[slide](https://invicta-team-project.netlify.app/slides/digital-image-processing/)</h3>~~ ~~και προστέθηκε σε ήδη υπάρχων~~ ~~<h3>[timeline](https://invicta-team-project.netlify.app/timeline/paint/)</h3>~~ ~~όπου συνδυάστηκε και το συμμετοχικό υλικό Α1.~~
+
+
+<h2 align="center">Καινούρια Entries</h2>
+
+Σε αυτό το παραδοτέο, καλούμαστε να συνδυάσουμε τις εικόνες που εισάγαμε στο συμμετοχικό υλικο Α1 του 3ου παραδοτέου, με παρόμοιο υλικό ώστε να φτιαχτεί το αντίστοιχο timeline και slide στο site. Με τις αλλαγές του συμμετοχικού υλικού, παρατήρησα οτι υπάρχουν slides και timelines για τα βιντεοπαιχνίδια οπότε αποφάσισα να τα προστέσσω εκεί.
+
+[Slide](https://invicta-team-project.netlify.app/slides/videogames/)
+
+[timeline](https://invicta-team-project.netlify.app/timeline/videogames/)
+
+[Pull Requests](https://github.com/Invicta-Ionian-Hci/site/pull/15)
+
+<h2 align="center">6ο Παραδοτέο - Κατασκευή Βιβλίου Α</h2>
+
+*Αναμένονται προσθέσεις*
+
+<h2 align="center">7ο Παραδοτέο - Συμμετοχικό υλικό Β1</h2>
+
+Σε αυτό το παραδοτέο καλούμαστε να κάνουμε μια μελέτη περίπτωσης για το συμμετοχικό υλικό Α1. Καθώς έχω χρησιμοποιήσει την μηχανή παιχνιδιών στο παρελθόν για την δημιουργία βιντεοπαιχνιδιών, γρήγορα αντιλήφθηκα το πόσο δύσκολη διαδικασία είναι ακόμα και με σύγχρονα εργαλεία. Αυτό με έκανε να αναρωτηθώ, για το πώς μια τόση περίπλοκη διαδικασία γινόταν παλιότερα. Μετά απο αρκετή έρευνα, δημιουργήθηκε η μελέτη περίπτωσης για την ιστορία βιντεοπαιχνιδιών και την ανάπτυξή τους.
+
+[Διαβάστε την μελέτη περίπτωσης στο site της ομάδας](https://invicta-team-project.netlify.app/case-study/videogame-development/)
+
+[case study](https://github.com/GiorgosChiras/site/blob/master/_case-study/videogame-development.md)
+
+[includes](https://github.com/GiorgosChiras/site/blob/master/_includes/cs-videogame-development.md)
+
+[pull request](https://github.com/Invicta-Ionian-Hci/site/pull/15)
+
+<h2 align="center">8ο Παραδοτέο - Άσκηση γραμμής εντολών </h2>
+
+*Αναμένονται προσθέσεις*
+
+<h2 align="center">9ο Παραδοτέο - Συμμετοχικό Υλικό Β2</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72515787/206939323-f3dc60da-7646-4976-af15-b2a67e560902.png" />
+</p>
+
+Για το 9ο παραδοτέο, δημιούργησα την βιογραφία του ***John Carmack***, απο τους πιο influential ανθρώπους στην ιστορία των βιντεοπαιχνιδιών και πατέρας των First Person Shooter, και μεγάλη έμπνευση για τον επαγγελματικό μου προσανατολισμό.
+
+
+[Διαβάστε την βιογραφία στο site της ομάδας](https://invicta-team-project.netlify.app/biography/john-carmack/)
+
+[biography](https://github.com/GiorgosChiras/site/blob/master/_biography/john-carmack.md)
+
+[includes](https://github.com/GiorgosChiras/site/blob/master/_includes/bio-carmack.md)
+
+[pull requests](https://github.com/Invicta-Ionian-Hci/site/pull/22)
