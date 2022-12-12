@@ -20,10 +20,10 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 | 4 | <p align="center">[Άσκηση γραμμής εντολών (warm up cli)](#4ο-Παραδοτέο---Warmup-CLI)</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1296) |Ολοκληρώθηκε η άσκηση Warm-up Weather fetch και Youtube-dl επιτυχώς και εντός της προθεσμίας |
 | 5 | <p align="center">[Συμμετοχικό περιεχόμενο A2](#5ο-Παραδοτέο---Συμμετοχικό-υλικό-Α2)</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1496) | Πρόσθεσα το συμμετοχικό υλικό Α1 σε ήδη υπάρχοντα slide και timeline επιτυχώς και εντός της προθεσμίας|
 | 6 | <p align="center">Κατασκευή του βιβλίου Α</p> | <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1578)</p>| Έχει ολοκληρωθεί η πρώτη φάση του παραδοτέου, η δημιουργια του PDF εντός προθεσμίας. Αναμένεται η συνέχια|
-| 7 | <p align="center">[Συμμετοχικό περιεχόμενο B1](#7ο-Παραδοτέο---Συμμετοχικό-υλικό-Β1)</p> |  <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1696) | Δημιουργήθηκε μια μελέτη περίπτωσης βασισμένη στο συμμεοχικό υλικό Α1 επιτυχώς και εντός της προθεσμίας |
+| 7 | <p align="center">[Συμμετοχικό περιεχόμενο B1](#7ο-Παραδοτέο---Συμμετοχικό-υλικό-Β1)</p> |  <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1696)</p> | Δημιουργήθηκε μια μελέτη περίπτωσης βασισμένη στο συμμεοχικό υλικό Α1 επιτυχώς και εντός της προθεσμίας |
 | 8 | <p align="center">Άσκηση γραμμής εντολών</p> | | |
 | 9 | <p align="center">[Συμμετοχικό περιεχόμενο B2](#9ο-Παραδοτέο---Συμμετοχικό-Υλικό-Β2)</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1858) | Δημιουργήθηκε η βιογραφία για τον John Carmack εντός προθεσμίας |
-| 10 | <p align="center">Άσκηση γραμμής εντολών</p> | | |
+| 10 | <p align="center">[Άσκηση γραμμής εντολών](#10ο-Παραδοτέο---Άσκηση-γραμμής-εντολών)</p> | <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1937)</p>| Έγινε μετατροπή της αναφοράς σε HTML, docx, epub, εντός προθεσμίας|
 | 11 | <p align="center">Κατασκευή του βιβλίου Β</p> | | |
 | 12 | <p align="center">Τελική αναφορά*</p> | | |
 
@@ -74,7 +74,7 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 ![PhotoshopGUI](https://user-images.githubusercontent.com/72515787/197872821-6cbcacb5-4750-40fb-9252-9ae9f138f3f3.png)
  ~~<b>ο σύνδεσμος του συμμετοχικού υλικού στο [netlify](https://invicta-team-project.netlify.app/gallery/photoshop-2016/)</b>~~
  
- <h2 align="center">Καινούρια Entries</h2>
+<h2 align="center">Καινούρια Entries ✔️</h2>
  
 Μετά απο σχόλια και παρατηρήσεις που έγιναν απο τον καθηγητή αλλα και των συμφοιτητών μου στην παρουσίαση της αναφοράς μου, έγιναν αλλαγές στο αρχικό μου συμμετοχικό υλικό. Κάτι το οποίο με ενδιαφέρει αρκετά και σαν χόμπυ αλλά και σαν επάγγελμα, είναι η δημιουγία βιντεοπαιχνιδιών. Έτσι αποφάσισα να ακολουθήσω έναν πιο συγκεκριμένο δρόμο στις εισαγωγές μου, και να ασχολήθω αποκλειστικά σε αυτό.
 
@@ -115,13 +115,15 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 
 Στην συνέχεια επέλεξα να ασχοληθώ με κάτι που χρησιμοποιώ καθημερινά, όπως και όλοι μας, το Youtube. Το task της άσκησης ήταν να κατεβάσω κάποιο βίντεο που ήθελα, και έπειτα να το παρακολουθήσω σε κάποιον video player οπως το mpv. Για το βίντεο, διάλεξα το "TempleOS in 100 Seconds", το οποίο εξηγεί ένα απο τα πιο περίεργα λειτουργικά συστήματα που έχω δει.
 
+https://user-images.githubusercontent.com/72515787/206941980-8a43b6ee-88d4-4eae-ab85-a79ff875366f.mp4
+
 <b>Παρακάτω βρίσκεται το asciinema της άσκησης</b>
 
 [![asciicast](https://asciinema.org/a/532393.svg)](https://asciinema.org/a/532393)
 
 <b>Το βίντεο να παίζει στον MPV Video player -> https://asciinema.org/a/532394 </b>
 
-Και <b>screenshot</b> απο το βίντεο![TempleOS](https://user-images.githubusercontent.com/72515787/199351635-69e020f0-008a-4290-ad9f-349d0ca2512d.png)
+Και <b>screenshot</b> απο το βίντεο στο σύστημά μου[TempleOS](https://user-images.githubusercontent.com/72515787/199351635-69e020f0-008a-4290-ad9f-349d0ca2512d.png)
 
 <h2 align="center">5ο Παραδοτέο - Συμμετοχικό υλικό Α2</h2>
 
@@ -146,7 +148,7 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 ~~και ~~δημιουργήθηκε~~ ~~<h3>[slide](https://invicta-team-project.netlify.app/slides/digital-image-processing/)</h3>~~ ~~και προστέθηκε σε ήδη υπάρχων~~ ~~<h3>[timeline](https://invicta-team-project.netlify.app/timeline/paint/)</h3>~~ ~~όπου συνδυάστηκε και το συμμετοχικό υλικό Α1.~~
 
 
-<h2 align="center">Καινούρια Entries</h2>
+<h2 align="center">Καινούρια Entries ✔️</h2>
 
 Σε αυτό το παραδοτέο, καλούμαστε να συνδυάσουμε τις εικόνες που εισάγαμε στο συμμετοχικό υλικο Α1 του 3ου παραδοτέου, με παρόμοιο υλικό ώστε να φτιαχτεί το αντίστοιχο timeline και slide στο site. Με τις αλλαγές του συμμετοχικού υλικού, παρατήρησα οτι υπάρχουν slides και timelines για τα βιντεοπαιχνίδια οπότε αποφάσισα να τα προστέσσω εκεί.
 
@@ -192,3 +194,16 @@ Edpuzzle account:(https://edpuzzle.com/profile)
 [includes](https://github.com/GiorgosChiras/site/blob/master/_includes/bio-carmack.md)
 
 [pull requests](https://github.com/Invicta-Ionian-Hci/site/pull/22)
+
+<h2 align="center">10ο Παραδοτέο - Άσκηση γραμμής εντολών</h2>
+
+Για την άσηση γραμμής εντολών του παραδοτέου 10, επέλεξα να μετατρέψω την τελική μου αναφορά σε διάφορα format αρχείων.
+
+Παράδειγμα μετατροπής της αναφοράς σε απλό site HTML
+
+
+https://user-images.githubusercontent.com/72515787/206943961-23621630-1d5f-4025-9209-05e787e756d5.mp4
+
+Το asciinema της άσκησης:
+
+[![asciicast](https://asciinema.org/a/544834.svg)](https://asciinema.org/a/544834)
