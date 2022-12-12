@@ -124,7 +124,24 @@ Netlify links:
 
 - [NETLIFY](https://p18stef.netlify.app/case-study/nhs_food_scanner/)
   
+  ## ΠΑΡΑΔΟΤΕΟ 8-Άσκηση γραμμής εντολών
   
+  Στο συγκεκριμένο παραδτοέο σκοπεύω να επεκταθώ περεταίρω στον τομέα της άσκησης σε εξωτερικό χώρο. Διαπίστωσα λοιπόν  χρήσιμη την λειτουργία ενός μετατροπέα από βαθμούς celsius σε fahrenheit αλλά και το αντίστροφο. Εφόσον είχα την ευκαιρία λοιπόν δημιούργησα ένα bash αρχείο το οποίο δίνει την δυνατότητα να επιλέξει ο χρήστης την μετατροπή που επιθυμεί ζητώντας μονάδα μέτρησης και βαθμούς. Στην συνέχεια επιστρέφεται το αποτέλεσμα με μεγάλη ακρίβεια. Η λειτουργία αυτή προσφέρει στον χρήστη την γνώση για την θερμοκρασία στην μονάδα μέτρησης που επιθυμεί.
+  
+ - [SCREEN RECORD](https://asciinema.org/a/iiukVG17J0KzmenJlZuPxMj9x)
+  
+ - [ΚΩΔΙΚΑΣ](https://github.com/p18stef/arxeia_anaforas/blob/main/MyCel2FarConv.sh)
+  
+  
+  ## ΠΑΡΑΔΟΤΕΟ9-Συμμετοχικό περιεχόμενο B2
+  
+  Η βιογραφία που ασχoλήθηκα αφορά την κατασκευαστή της εφαρμογής MyFitnessPal. Επέλεξα τον συγκεκριμένο δημιουργό γιατί θεωρώ πολύ χρήσιμη την συγκεκριμένη εφαρμογή και αποτελεί μια από τις πιο αναγνωρίσιμες στο κομμάτι του fitness. Στην συνέχεια παραθέτω την βιογραφία του Mike Lee.
+
+- [INCLUDES](https://github.com/p18stef/site/blob/organization/_includes/bio-MikeLee.md)
+
+- [BIOGRAPHY](https://github.com/p18stef/site/blob/organization/_biography/MikeLee.md)
+
+- [NETLIFY](https://p18stef.netlify.app/biography/mikelee/)
     
 
   
