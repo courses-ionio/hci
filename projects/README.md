@@ -46,6 +46,10 @@
 Στην συνέχεια, μετά την εγκατάσταση για εξοικείωση αλλά και σύμφωνα με τις οδηγίες και "απαιτήσεις" του μαθήματος, καλούμαστε να εκτελέσουμε όσες και όποιες ασκήσεις επιθυμούμε απ' το warmup και επέλεξα τις εξής προκειμένου να αποκτήσω μια ευχέρεια στην χρήση του νέου αυτού λειτουργικού συστήματος ώστε καθημερινά να γίνομαι ολοένα και καλύτερος.
 
 1η Άσκηση:
+Ως πρώτη άσκηση για το terminal προσπάθησα να δοκιμάσω διαφορετικά προγράμματα περιήγησης ιστού που βασίζονται σε κείμενο, ώστε να συνηθίσω τις συντομεύσεις πληκτρολογίου (try different text-based web browsers and get used to the keyboard shortcuts for one	use your favorite text-based browser to retrieve information from the web	lynx w3m links).
+[Asciinema Link](https://asciinema.org/a/CCzvtSwNnXaNFI8h8PRsWuc20)
+
+
 
 
 
