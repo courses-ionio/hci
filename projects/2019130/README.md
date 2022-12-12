@@ -11,9 +11,9 @@
 | 5 | [Συμμετοχικό περιεχόμενο A2](#Συμμετοχικό-περιεχόμενο-A2) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1452) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
 | 6 | [Κατασκευή του βιβλίου Α](#Κατασκευή-του-βιβλίου-Α) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1596) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
 | 7 | [Συμμετοχικό περιεχόμενο B1](#Συμμετοχικό-περιεχόμενο-B1) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1664) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
-| 8 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1778) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
+| 8 | [Άσκηση γραμμής εντολών 2](#Άσκηση-γραμμής-εντολών-2) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1778) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
 | 9 | [Συμμετοχικό περιεχόμενο B2](#Συμμετοχικό-περιεχόμενο-B2) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1847) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
-| 10 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) | | |
+| 10 | [Άσκηση γραμμής εντολών 1](#Άσκηση-γραμμής-εντολών-1) | [link στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1934) | Ολοκληρώθηκε πλήρως εντός προθεσμίας. |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -66,30 +66,33 @@
 ## Συμμετοχικό περιεχόμενο B1  
 Για το έβδομο παραδοτέο αποφάσισα να κάνω μια μελέτη περίπτωσης για τα συστήματα εικονικής πραγματικότητας. Δεν εστίασα στην χρήση του ως επιχειρησιακό εργαλείο καθώς τα συστήματα αυτά είναι πολύ πιο ανεπτυγμένα άλλα δεν είναι δυνατή η πρόσβαση τους στο εύρη κοινό Για την παράδοση του δημιούργησα δυο καινούργια markdown αρχεία, το [cs-vrtech.md](https://github.com/Invicta-Ionian-Hci/site/blob/master/_includes/cs-vrtech.md) και το [vrtech.md](https://github.com/Invicta-Ionian-Hci/site/blob/master/_case-study/vrtech.md). Κλασικά εφόσον βεβαιώθηκα ότι δουλεύουν όπως αναμένετε σε ένα διαφορετικό deployment του site έκανα το απαραίτητο [pull request](https://github.com/Invicta-Ionian-Hci/site/pull/6) στο αποθετήριο της ομάδας.
 
-## Άσκηση γραμμής εντολών  
-Για το 8ο παραδοτεο υλοπιησα δυο scripts, ενα για να κατεβαζω την αναφορα μου και να την μετατρεπω σε docx και html και ενα για να μπορω να βλεπω της λιστες απο τα βιβλια στο [Project Gutenberg](https://www.gutenberg.org/), να τα κατεβαζω και επιτα να τα μετατρεπω σε pdf. Για της μετατροπες χρησιμοπηισα εργαλια που ειχαμε χρισιμοπιησει και την [6η εβδομαδα](#Κατασκευή-του-βιβλίου-Α) και το curl για την λιψη των δεδομενων απο τους servers. Τα scripts οπος και ενδικτικα αρχεια βρισκοντε στο [αποθετιριο](https://github.com/vasilis22/HCI-handin).
+## Άσκηση γραμμής εντολών 2  
+Για το 8ο παραδοτεο υλοπιησα δυο scripts, ενα για να κατεβαζω την αναφορα μου και να την μετατρεπω σε docx και html και ενα για να μπορω να βλεπω της λιστες απο τα βιβλια στο [Project Gutenberg](https://www.gutenberg.org/), να τα κατεβαζω και επιτα να τα μετατρεπω σε pdf. Για της μετατροπες χρησιμοπηισα εργαλια που ειχαμε χρισιμοπιησει και την [6η εβδομαδα](#Κατασκευή-του-βιβλίου-Α) και το curl για την λιψη των δεδομενων απο τους servers. Τα scripts οπος και ενδικτικα αρχεια βρισκοντε στο [αποθετιριο](https://github.com/vasilis22/HCI-handin).  
 
-### Asciinema εβδομάδας 8
+### Asciinema εβδομάδας 8  
 1. Asciinema από το script μετατροπής αναφοράς[![asciicast](https://asciinema.org/a/540689.png)](https://asciinema.org/a/540689)
-2. Asciinema από το script λήψης βιβλίου[![asciicast](https://asciinema.org/a/540692.png)](https://asciinema.org/a/540692)
+2. Asciinema από το script λήψης βιβλίου[![asciicast](https://asciinema.org/a/540692.png)](https://asciinema.org/a/540692)  
 
-### Ενδεικτικά screenshots
+### Ενδεικτικά screenshots  
 1. Η αναφορα σε html![Η αναφορα σε html](https://i.ibb.co/y8MPWZk/html-falfway-report.png)
 2. Η αναφορα σε docx![Η αναφορα σε docx](https://i.ibb.co/xXPQkjS/halfway-report.png)
-3. Βιβλίο από το Project Gutenberg![Βιβλίο από το Project Gutenberg](https://i.ibb.co/DtFz6Qp/The-Abounding-American.png)
+3. Βιβλίο από το Project Gutenberg![Βιβλίο από το Project Gutenberg](https://i.ibb.co/DtFz6Qp/The-Abounding-American.png)  
 
-## Συμμετοχικό περιεχόμενο B2
-Για την ένατη εβδομάδα έπρεπε να γράψουμε μια βιογραφία σε σχέση με τα προηγούμενα παραδοτέα. Επέλεξα να γράψω για τον [Palmer Luckey](https://invicta-team-project.netlify.app/biography/palmer-luckey/) δημιουργώ της Oculus. Το διάστημα που ο Palmer δούλεψε στην Oculus τελειοποίησε το Oculus rift το οποίο είχε ξεκινήσει σαν πρωτότυπο και δημιούργησε τα Oculus touch controlers μια συσκευή που σε συνδυασμό με το rift σου δίνει μια ολοκληρωμένη VR εμπύρια. Η επιλογή αυτή έγινε γιατί η συγκεκριμένη συσκευή ήταν αυτή που με κινητοποίησε να ασχοληθώ περισσότερο με την VR τεχνολογία.
+## Συμμετοχικό περιεχόμενο B2  
+Για την ένατη εβδομάδα έπρεπε να γράψουμε μια βιογραφία σε σχέση με τα προηγούμενα παραδοτέα. Επέλεξα να γράψω για τον [Palmer Luckey](https://invicta-team-project.netlify.app/biography/palmer-luckey/) δημιουργώ της Oculus. Το διάστημα που ο Palmer δούλεψε στην Oculus τελειοποίησε το Oculus rift το οποίο είχε ξεκινήσει σαν πρωτότυπο και δημιούργησε τα Oculus touch controlers μια συσκευή που σε συνδυασμό με το rift σου δίνει μια ολοκληρωμένη VR εμπύρια. Η επιλογή αυτή έγινε γιατί η συγκεκριμένη συσκευή ήταν αυτή που με κινητοποίησε να ασχοληθώ περισσότερο με την VR τεχνολογία.  
 
-### Pull Requests
+### Pull Requests  
 1. [site](https://github.com/Invicta-Ionian-Hci/site/pull/17)
-2. [images](https://github.com/Invicta-Ionian-Hci/images/pull/22)
+2. [images](https://github.com/Invicta-Ionian-Hci/images/pull/22)  
 
 
-### Πήγες
+### Πήγες  
 1. [Meant to be seen](https://www.mtbs3d.com/phpbb/viewtopic.php?t=14777)
 2. [Anduril](https://www.anduril.com/leadership/)
 3. [The blog of Palmer Luckey](https://palmerluckey.com/if-you-die-in-the-game-you-die-in-real-life/)
-4. [Wikipedia](https://en.wikipedia.org/wiki/Palmer_Luckey)
+4. [Wikipedia](https://en.wikipedia.org/wiki/Palmer_Luckey)  
 
-## Άσκηση γραμμής εντολών
+## Άσκηση γραμμής εντολών 1  
+Για την δέκατη εβδομάδα αποφάσισα να ασχοληθώ με την άσκηση που μας ζήτα να χρησιμοποιήσουμε το τερματικό σαν IDE και υλοποίησα ένα πρόγραμμα για ένα άλλο μάθημα που παρακολουθώ με τη χρήση του spacevim. Για την εγκατάσταση του χρειάζεται το git το οποίο είναι εγκατεστημένο από προηγούμενη εβδομάδα το curl το οποίο έρχεται με το Arch και είτε το vim είτε το neovim τα οποία μπορούν να εγκατασταθούν με χρήση του pacman από το αποθετήριο της διανομής. Εφόσον είχα τα προαπαιτούμενα έτρεξα την εντολή που έχουν στο [quickstart guide](https://spacevim.org/quick-start-guide/#installation). Εφόσον έπρεπε να γράψω σε C/C++ ακολούθησα το [guide](https://spacevim.org/use-vim-as-a-c-cpp-ide/) που έχουν, και έκανα εγκατάσταση το clang που ζητάει το guide.  
+
+[![asciicast](https://asciinema.org/a/544753.png)](https://asciinema.org/a/544753)
