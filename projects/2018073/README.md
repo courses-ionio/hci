@@ -8,7 +8,9 @@
 
 ### GitHub: [FaidonTsetsis](https://github.com/FaidonTsetsis) 
 
-### Οργανισμός: [MainCharacters](https://github.com/MainCharacters)<br><br>
+### Οργανισμός: [MainCharacters](https://github.com/MainCharacters)
+
+### Edpuzzle: "Τσέτσης Φαίδων 2018073" <br><br>
 
 
 ###### Go to the top mark point
@@ -295,6 +297,8 @@ _Το παραδοτεό αυτό βασίζεται στις προσθήκες
 - Επεξήγηση σε συμφοιτητή μου για τη παράθεση ομαδικού συνδέσμου netlify για το παραδοτέο 9: [επεξήγηση](https://github.com/courses-ionio/help/discussions/1849)
 
 - Αναφορά των κριτηρίων βαθμολόγησης για το 9ο παραδοτέο σε συμφοιτητή μου: [σχόλιο εδώ](https://github.com/courses-ionio/help/discussions/1839)
+
+- Παρατήρηση σε συμφοιτητή μου για τη παράθεση πηγών στα παραδοτέα συμμετοχικού B1 και Β2: [η παρατήρηση εδώ](https://github.com/courses-ionio/help/discussions/1940)
 
  <br>*Τα παρακάτω είναι παλαιότερα, αλλά η βοήθεια δεν βλέπει χρόνο :D (πχ Stack Overflow)* <br>
  
