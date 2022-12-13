@@ -45,16 +45,19 @@
 Στην συνέχεια, μετά την εγκατάσταση για εξοικείωση αλλά και σύμφωνα με τις οδηγίες και "απαιτήσεις" του μαθήματος, καλούμαστε να εκτελέσουμε όσες και όποιες ασκήσεις επιθυμούμε απ' το warmup και επέλεξα τις εξής προκειμένου να αποκτήσω μια ευχέρεια στην χρήση του νέου αυτού λειτουργικού συστήματος ώστε καθημερινά να γίνομαι ολοένα και καλύτερος.
 
 1η Άσκηση:
+
 Ως πρώτη άσκηση για το terminal προσπάθησα να δοκιμάσω διαφορετικά προγράμματα περιήγησης ιστού που βασίζονται σε κείμενο, ώστε να συνηθίσω τις συντομεύσεις πληκτρολογίου (try different text-based web browsers and get used to the keyboard shortcuts for one	use your favorite text-based browser to retrieve information from the web	lynx w3m links).
 
 [Asciinema Link](https://asciinema.org/a/CCzvtSwNnXaNFI8h8PRsWuc20)
 
 2η Άσκηση:
+
 Στην συνέχεια υλοποίησα τον έλεγχο του καιρού (check the weather	fetch the weather forecast for your home city and one more city that you want to travel to	wttr).
 
 [Asciinema Link](https://asciinema.org/a/mvP1BnvTIUHAawDR00nBDkppo)
 
 3η Άσκηση:
+
 Ως τελευταία άσκηση για εξάσκηση επέλεξα να ασχοληθώ με το αγαπημένο μου τραγούδι απ' το YouTube το οποίο και έκανα λήψη (download mp3	search, download and play (with the terminal) your favorite song of the month from youtube	youtube-dl mpv).
 
 [Asciinema Link](https://asciinema.org/a/aHisTMmqfXg4KyZ7nSivWNzAD)
