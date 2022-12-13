@@ -129,4 +129,5 @@ My links:
 | 8 | Engelbart's Unfinished Revolution - 1998 - Session IV | :+1: | :+1: |
 | 9 | Dynabook: The complete Story | :+1: | :+1: |
 | 10 | Alan Kay at Media Lab 30 | :+1: | :+1: |
+| 11 | Jaron Lanier - Learning by Experience & Play | :+1: | :+1: |
 
