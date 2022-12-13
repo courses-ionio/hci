@@ -48,15 +48,21 @@
 - [`flash-games.png`](https://github.com/Konstantina3/images/blob/master/A_flash-games.png)
 - [`flash-games-thumb`](https://github.com/Konstantina3/images/blob/master/A_flash-games-thumb.png)
 
-<p>Παρακάτω φαίνεται το link από το neltify:</p>
+<p>Παρακάτω φαίνονται τα links από το neltify:</p>
 
 - [`My site`](https://strong-scone-6a0cf5.netlify.app)
+- [`The4Beasts Site`]()
+
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
 - [`Pull Request προς τον οργανισμό της ομάδας - gallery`](https://github.com/The4Beasts/_gallery/pull/1)
 - [`Pull Request προς τον οργανισμό της ομάδας - images`](https://github.com/The4Beasts/images/pull/2)
 - [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
+<p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
+
+- [`Pop2See Smart Class`](https://www.pop2see.com/)
+- [`Flash Games`](https://en.wikipedia.org/wiki/Browser_game)
 ---
 
 # Παραδοτέο 4: Άσκηση γραμμής εντολών (arch linux install on HW)
