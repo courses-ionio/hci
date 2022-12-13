@@ -4,7 +4,7 @@
 Organization: [Terminal-Killers](https://github.com/Terminal-Killers)  
 ΑΜ:2021186  
 Github profile: [stamathsp](https://github.com/stamathsp)  
-Προσωπικό [site](https://stamathsp.netlify.app/)  
+Προσωπικό [site](https://site-stamathsp.vercel.app/)  
 Asciinema profile: [inf2021186](https://asciinema.org/~inf2021186)
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
