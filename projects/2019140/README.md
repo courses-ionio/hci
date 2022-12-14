@@ -30,7 +30,7 @@
 | 8 | Άσκηση γραμμής εντολών |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1786) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1848) | |
 | 10 | Άσκηση γραμμής εντολών |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1884) | |
-| 11 | Κατασκευή του βιβλίου Β | | |
+| 11 | Κατασκευή του βιβλίου Β |[σύνδεσμος](https://github.com/courses-ionio/help/discussions/1948) | |
 | 12 | Τελική αναφορά* | | |
 
 ## <a name="P">Εισαγωγή:</a>
