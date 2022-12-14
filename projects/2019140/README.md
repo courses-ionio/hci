@@ -116,3 +116,11 @@ echo "$(cat FinalTemporaryMS)" | groff -ms -tbl -refer -Kutf8 -Tpdf > Anafora.pd
 ## Παραδοτέο 10 - Άσκηση γραμμής εντολών
 Για την άσκηση γραμμής εντολών του 10ου παραδοτέου υλοποίησα την 4η άσκηση `use the terminal as an IDE`. Χρησιμοποίησα το tmux για να χωρίσω την οθόνη του terminal σε πολλαπλά κομμάτια. Με το εργαλείο αυτό μπορώ να αξιοποιήσω το terminal ως ένα lightweight IDE και να εξοικονομήσω πόρους του συστήματος. Στο recording παρακάτω κάνω μια επίδειξη του εργαλείου χρησιμοποιόντας κάποια προγράμματα που έχω γράψει σε Python και C. Από το Python πρόγραμμα βρίσκω το thumbnail URL ενός βίντεο του YouTube και στην συνέχεια μέσω pipe στέλνω το URL στο πρόγραμμα σε C. Το πρόγραμμα διαβάζει το STDIN_FILENO και χρησημοποιεί το wget για να κατεβάσει το thumbnail. Τέλος, μιας και έχω ήδη το URL του βίντεο αποφάσισα να συνδυάσω την άσκηση αυτή με την warm up άσκηση που υλοποίησα στο παραδοτέο Arch Install σε πραγματικό Hardware κατεβάζοντας το βίντεο σε μορφή MP3 με το `youtube-dl`. Παρακάτω επισυνάπτω το asciinema link του recording.
  [![asciicast](https://asciinema.org/a/544157.svg)](https://asciinema.org/a/544157)
+
+## Παραδοτέο 11 - Κατασκευή του βιβλίου Β
+Στο 11ο παραδοτέο έπρεπε να μετατρέψουμε το βιβλίο του μαθήματος σε EPUB μορφή και να προσθέσουμε το περιεχόμενο της μελέτης περίπτωσης και της βιβλιογραφίας που αναπτύξαμε στα προηγούμενα παραδοτέα. Για την μετατροπή αυτή το μόνο που χρειάστηκε ήταν η εντολή `pandoc -f latex book/book.tex -o book/book.epub` την οποία πρόσθεσα στην συνέχεια στο script **make-latex.sh**. Παρακάτω επισυνάπτω δυο φωτογραφίες από το περιεχόμενό μου στην epub έκδοση του βιβλίου και links προς το βιβλίο και το script.
+- [book.epub](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/book/book.epub)
+- [make-latex.sh](https://github.com/KonstantinosTourtsakis/kallipos/blob/master/make-latex.sh)
+
+|![torvalds](https://cdn.discordapp.com/attachments/794920060677521469/1052613141105750057/epub_torvalds.jpg)|![xfce](https://cdn.discordapp.com/attachments/794920060677521469/1052613156758888568/epub_xfce.jpg)|
+|---|---|
