@@ -57,9 +57,9 @@
   χρησιμοποιώ το pac-man,ένα από τα πιο διάσημα παιχνίδια στον κόσμο.
   ![image](https://user-images.githubusercontent.com/74558267/207608150-db53afb6-6aed-4c35-8c3c-d35e8aa20efa.png)
 
-[filter](https://github.com/Kremmudis/kallipos/blob/master/newfilter.lua)
-[pdf](https://github.com/Kremmudis/kallipos/tree/master/book)
-[md file](https://github.com/Kremmudis/kallipos/tree/master/holder)
+  [filter](https://github.com/Kremmudis/kallipos/blob/master/newfilter.lua)\
+  [pdf](https://github.com/Kremmudis/kallipos/tree/master/book)\
+  [md file](https://github.com/Kremmudis/kallipos/tree/master/holder)\
   
   # 7ο ΠΑΡΑΔΟΤΕΟ
   Σε αυτό το παραδοτέο έγραψα ένα case study για την nanite τεχνολογία απεικόνισης αντικειμένων που δημιούργησε η Epic Games για την Unreal Engine. Το θέμα το βρήκα
