@@ -31,7 +31,7 @@ To git και το github είναι ευρέως διαδεδομένα συσ�
 ### Φάκελος με τα screenshots του Funtoo (https://github.com/deadoralive1908/cli-linux-distros-screenshots/tree/main/Linux%20Systems%20Screenshots/funtoo)
 
 Επιπλέον, για να είμαι σίγουρος ότι θα βαθμολογηθώ ολοκληρωμένα, εκτέλεσα την εντολή ελέγχου καιρού που φαίνεται παρακάτω:
-### Check the weather-Link Asciinema: https://asciinema.org/a/24HOGIGbBHEfXjMGLYtRpENfe
+### Check the weather-Link Asciinema: [https://asciinema.org/a/24HOGIGbBHEfXjMGLYtRpENfe](https://asciinema.org/a/545429)
 
 
 ## 3ο παραδοτέο 
@@ -77,7 +77,6 @@ Tο επόμενο OS με το οποίο αχολήθηκα - το οποίο 
 
 ### Link από το repository μου: https://github.com/deadoralive1908/kallipos
 ### https://asciinema.org/connect/4ea74afa-f0ce-476f-b777-979b6ce95af8
-### https://asciinema.org/connect/4ea74afa-f0ce-476f-b777-979b6ce95af8
 ### https://github.com/mibook/text/compare/main...deadoralive1908:text:patch-1
 
 ## 7ο παραδοτέο 
@@ -101,7 +100,7 @@ Tο επόμενο OS με το οποίο αχολήθηκα - το οποίο 
 - sudo apt install apache2 libapache2-mod-php
 
 Αρχεία PHP: https://github.com/deadoralive1908/cli-linux-distros-screenshots/tree/main/Linux%20Systems%20Screenshots/php-benchmarking/php-files
-### Asciinema Link: https://asciinema.org/connect/a15c1784-91c6-441f-901e-bf57bbaaaadb
+### Asciinema Link: [https://asciinema.org/connect/a15c1784-91c6-441f-901e-bf57bbaaaadb](https://asciinema.org/a/545434)
 
 
 ## 9ο παραδοτέο 
