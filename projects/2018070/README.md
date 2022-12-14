@@ -50,7 +50,7 @@
 
 <p>Παρακάτω φαίνονται τα links από το neltify:</p>
 
-- [`My site`](https://strong-scone-6a0cf5.netlify.app)
+- [`My site`](https://konstantina3.netlify.app/)
 - [`The4Beasts Site`]()
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
@@ -128,7 +128,7 @@
 
 Παρακάτω παρουσιάζεται το link από το netlify
 
-- [`My Site`](https://deploy-preview-10--moonlit-rugelach-17f284.netlify.app/case-study/)
+- [`My Site`](https://konstantina3.netlify.app/)
 
 ---
 
@@ -156,7 +156,7 @@
 
 Παρακάτω παρουσιάζεται το link από το netlify
 
-- [`My Site`](https://63809fd9acf33a013aa9c5bd--heartfelt-croissant-46bc55.netlify.app/biography/)
+- [`My Site`](https://konstantina3.netlify.app/)
 
 ---
 
