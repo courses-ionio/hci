@@ -112,6 +112,8 @@ Netlify links:
 
  - [LUA ΑΡΧΕΙΟ](https://github.com/p18stef/kallipos/blob/master/arduino.lua)
 
+- [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
+
   ## ΠΑΡΑΔΟΤΕΟ 7-Συμμετοχικό περιεχόμενο B1
 
 Το NHS Food Scanner αποτελεί μία εφαρμογή η οποία συμβάλει στην ομαλή διατροφή του ανθρώπου. Αυτό το επιτυγχάνει με μια λειτουργία που παρουσιάζει αναλυτικά τα μακροθρεπτικά του εκάστοτε τροφίμου το οποίο μας απασχολεί. Πιο αναλυτικά Χρησιμοποιεί το barcode της συσκευασίας σκανάροντας το προκειμένου να εντοπίσει τις λεπτομέριιες του φαγητού ή του ποτού. Επιπλέον μπορείς να αξιολογήσεις την γεύση και την ποιότητα των τροφίμων αλλα και να διαβάζεις κριτικές των υπόλοιπων χρηστών. Έτσι λοιπόν έχεις την δυνατότητα να υπολογίζεις αναλυτικά και με ακρίβεια τις θερμίδες τις οποίες προσλαμβάνεις σε καθημερινή βάση.
@@ -121,6 +123,8 @@ Netlify links:
 - [INCLUDES](https://github.com/p18stef/site/blob/organization/_includes/NHS_Food_Scanner.md)
 
 - [NETLIFY](https://p18stef.netlify.app/case-study/nhs_food_scanner/)
+
+- [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
   
   ## ΠΑΡΑΔΟΤΕΟ 8-Άσκηση γραμμής εντολών
   
@@ -129,6 +133,8 @@ Netlify links:
  - [SCREEN RECORD](https://asciinema.org/a/iiukVG17J0KzmenJlZuPxMj9x)
   
  - [ΚΩΔΙΚΑΣ](https://github.com/p18stef/arxeia_anaforas/blob/main/MyCel2FarConv.sh)
+
+- [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
   
   
   ## ΠΑΡΑΔΟΤΕΟ 9-Συμμετοχικό περιεχόμενο B2
@@ -140,6 +146,12 @@ Netlify links:
 - [BIOGRAPHY](https://github.com/p18stef/site/blob/organization/_biography/MikeLee.md)
 
 - [NETLIFY](https://p18stef.netlify.app/biography/mikelee/)
+
+- ΠΗΓΕΣ
+  
+  - https://conversion-rate-experts.com/myfitnesspal/
+
+- [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
     
 ## ΠΑΡΑΔΟΤΕΟ 10-Άσκηση γραμμής εντολών
 
@@ -147,7 +159,11 @@ Netlify links:
 
 -[weather check](https://asciinema.org/a/sIXGal550XvTuXcdzqonzG2AF)
 
+- [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
+
 ## ΠΑΡΑΔΟΤΕΟ 11-Κατασκευή του βιβλίου Β
+
+- [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
 
 
 
