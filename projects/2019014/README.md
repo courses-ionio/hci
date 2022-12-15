@@ -449,3 +449,17 @@ O Bob Sproull είναι Αμερικάνος επιστήμονας της πλ
 | 2 | [Pull request στο images](https://github.com/TEAM11234/images/pull/5/) |
   
 <br /> 
+
+  ## Συνεισφορά στην ομαδικότητα
+
+<br />
+
+  
+| Παροχή βοήθειας Discussions | 
+| --- | 
+| [Βοήθεια συμφοιτητή μου](https://github.com/courses-ionio/help/discussions/1463/) | 
+| [Βοήθεια συμφοιτητή μου](https://github.com/courses-ionio/help/discussions/1942/) | 
+| [Reviewer σε προσθήκη συνεργάτη μου](https://github.com/TEAM11234/site/pull/1/) |
+| [Reviewer σε προσθήκη συνεργάτη μου](https://github.com/TEAM11234/images/pull/1) |
+| [Reviewer σε προσθήκη συνεργάτη μου](https://github.com/TEAM11234/_gallery/pull/1) |
+| [Βοήθεια συμφοιτητή μου](https://github.com/courses-ionio/help/discussions/1945/) | 
