@@ -387,7 +387,15 @@
 <p align="center">
 <a href="https://asciinema.org/a/O59sA8N8hQw4Urbt3xS5ebSeO" target="_blank"><img src="https://asciinema.org/a/O59sA8N8hQw4Urbt3xS5ebSeO.svg" /></a>
 </p>
-  
+
+<br>
+
+**Το shell script μου**
+
+<br>
+
+![Στιγμιότυπο οθόνης (76)](https://user-images.githubusercontent.com/72518208/207960408-089136aa-c504-47c1-9cb0-24f54e2e6ac0.png)
+
 <br>
 
 Στο παρακάτω gif δείχνω τι εκτύπωσε το shell script
@@ -395,6 +403,12 @@
 <br>
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/72518208/207842596-69aa38ce-d83f-4197-bf43-e4f34a3143ed.gif)
+
+<br>
+
+| | Repository του 8ου παραδοτέου |
+| --- | --- |
+| 1 | [Repo Link](https://github.com/vasiliskampani/Paradoteo8/) |
 
 <br>
 
