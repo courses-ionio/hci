@@ -86,22 +86,29 @@
 ---
 
 # Παραδοτέο 5: Συμμετοχικό περιεχόμενο Α2
-Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε ένα σετ από `διαφάνειες` και ένα `χρονολόγιο` συνδυάζοντας τις εικόνες που είχαμε προσθέσει στο συμμετοχικό περιεχόμενο Α1 με εικόνες που ήδη υπάρχουν στο βιβλίο. [`Ως ομάδα`](https://github.com/The4Beasts) δράσαμε ως εξής:
-<p>Καθώς το παραδοτέο είναι ατομικό από τη μία, αλλά συνεργατικό από την άλλη, σκεφτήκαμε να συνδυάσουμε τις πληροφορίες που είχε προσθέσει ο καθένας μας στο συμμετοχικό περιεχόμενο Α1, ώστε να εμφανιστεί ένα ολικό αποτέλεσμα στην ιστοσελίδα του μαθήματος (γι' αυτό έχουμε όλα τα μέλη της ομάδας το ίδιο link στο netlify καθώς ως main repository βάλαμε την ομάδα μας για να μπορούν να φανούν οι όποιες αλλαγές). Η ιδέα προήλθε για τον λόγο ότι οι προσθήκες που έκανε ο καθένας μας ταιριάζουν μεταξύ τους και αλληλοσυμπληρώνονται.</p> 
-<p>Επομένως, τι καλύτερο από μια συγχώνευση όλων?</p>  
-<p>Τα βήματα που ακολουθήσαμε για να βγάζει νόημα η παραπάνω διαδικασία:</p>
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε ένα σετ από `διαφάνειες` και ένα `χρονολόγιο` συνδυάζοντας τις εικόνες που είχαμε προσθέσει στο συμμετοχικό περιεχόμενο Α1 με εικόνες που ήδη υπάρχουν στο βιβλίο. Παρακάτω παρουσιάζονται τα αποτελέσματά μου για το `Video Game Developers`: 
 
-- [`Fork το site του βιβλίου στην ομάδα μας`](https://github.com/The4Beasts/site).
-- [`Στα slides το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές`](https://github.com/The4Beasts/site/tree/master/_slides)
-- [`Το δικό μου slide`](https://github.com/The4Beasts/site/blob/master/_slides/Videogames%20and%20Services.md)
-- [`Στο timeline το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές`](https://github.com/The4Beasts/site/tree/master/_timeline)
-- [`Το δικό μου timeline`](https://github.com/The4Beasts/site/blob/master/_timeline/Videogames%20and%20Services.md)
-- [`Το site στο netlify`](https://636b600809868914e40447d6--moonlit-rugelach-17f284.netlify.app)
+`Τα slides μου`
+
+- [`Video Game Developers.md`](https://github.com/Konstantina3/site/blob/master/_slides/Video%20Game%20Developers.md)
+
+`Το timeline μου`
+
+- [`Video Game Developers`](https://github.com/Konstantina3/site/blob/master/_timeline/Video%20Game%20Developers.md)
+
+Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
+
+- [`Video Game Developers`](https://en.wikipedia.org/wiki/Video_game_developer)
+
+<p>Παρακάτω φαίνονται τα links από το neltify:</p>
+
+- [`My site`](https://konstantina3.netlify.app/)
+- [`The4Beasts Site`]()
 
 ---
 
 # Παραδοτέο 6: Κατασκευή του βιβλίου Α 
-Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα `ετικέτα markdown` δικής μας έμπνευσης και το αντίστοιχο φίλτρο pandoc lua για την προσθήκη εκτενών σημειώσεων στο σώμα του βιβλίου. Ως ετικέτα αναφέρθηκα στους videogame developers, καθώς συσχετίζεται με τις περιγραφές μου στα συμμετοχικά περιεχόμενα. Επίσης, ως δεύτερο ζητούμενο του παραδοτέου είναι να δημιουργήσουμε σε PDF το βιβλίο του μαθήματος.`
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα `ετικέτα markdown` δικής μας έμπνευσης και το αντίστοιχο φίλτρο pandoc lua για την προσθήκη εκτενών σημειώσεων στο σώμα του βιβλίου. Ως ετικέτα αναφέρθηκα στους videogame developers, καθώς συσχετίζεται με τις περιγραφές μου στα συμμετοχικά περιεχόμενα. Επίσης, ως δεύτερο ζητούμενο του παραδοτέου είναι να δημιουργήσουμε σε PDF το βιβλίο του μαθήματος.
 
 - [`PDF βιβλίο μαθήματος`]()
 - [`Νέα Markdown Tag`](https://github.com/Konstantina3/kallipos/blob/master/comment/Videogame%20Developers.md)
@@ -126,10 +133,10 @@
 - [`Notion Labs`](https://system.privco.com/company/notion-labs)
 - [`Notion app`](https://www.theverge.com/2018/6/7/17434754/notion-android-app-notes-productivity-review)
 
-Παρακάτω παρουσιάζεται το link από το netlify
+Παρακάτω παρουσιάζεται τα links από το netlify
 
 - [`My Site`](https://konstantina3.netlify.app/)
-
+- [`The4Beasts Site`]()
 ---
 
 # Παραδοτέο 8: Άσκηση γραμμής εντολών
@@ -154,10 +161,10 @@
 
 - [`Margaret-Hamilton`](https://news.mit.edu/2016/scene-at-mit-margaret-hamilton-apollo-code-0817)
 
-Παρακάτω παρουσιάζεται το link από το netlify
+Παρακάτω παρουσιάζεται τα links από το netlify
 
 - [`My Site`](https://konstantina3.netlify.app/)
-
+- [`The4Beasts Site`]()
 ---
 
 # Παραδοτέο 10:  Άσκηση γραμμής εντολών
