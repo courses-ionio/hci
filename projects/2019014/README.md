@@ -22,10 +22,10 @@
 | 3 | <li><a href="#Συμμετοχικό περιεχόμενο A1"><span class="toctext">Συμμετοχικό περιεχόμενο A1</span></a> | [Link της αναφοράς του συμμετοχικού περιεχομένου Α1](https://github.com/courses-ionio/help/discussions/1357/) | | |
 | 4 | <li><a href="#Warm Up άσκηση γραμμής εντολών"><span class="toctext">Warm Up άσκηση γραμμής εντολών</span></a> | [Link της αναφοράς της warm up άσκησης γραμμής εντολών](https://github.com/courses-ionio/help/discussions/1373/) | | |
 | 5 | <li><a href="#Συμμετοχικό περιεχόμενο A1"><span class="toctext">Συμμετοχικό περιεχόμενο A1</span></a> | [Link της αναφοράς του συμμετοχικού περιεχομένου Α2](https://github.com/courses-ionio/help/discussions/1449/) | | |
-| 6 | Κατασκευή του βιβλίου Α | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 6 | <li><a href="#Κατασκευή του βιβλίου Α μέρος"><span class="toctext">Κατασκευή του βιβλίου Α μέρος</span></a> | [Link της αναφοράς της κατασκευής του βιβλίου μου Α μέρος](https://github.com/courses-ionio/help/discussions/1678/) | | |
+| 7 | <li><a href="Συμμετοχικό περιεχόμενο Β1"><span class="toctext">Συμμετοχικό περιεχόμενο Β1</span></a> | [Link της αναφοράς του συμμετοχικού περιεχομένου Β1](https://github.com/courses-ionio/help/discussions/1789/) | | |
+| 8 | <li><a href="Πρώτη άσκηση γραμμής εντολών"><span class="toctext">Πρώτη άσκηση γραμμής εντολών</span></a> | [Link της αναφοράς της πρώτης άσκησης γραμμής εντολών](https://github.com/courses-ionio/help/discussions/1925/) | | |
+| 9 | <li><a href="Συμμετοχικό περιεχόμενο Β2"><span class="toctext">Συμμετοχικό περιεχόμενο Β2</span></a> | [LLink της αναφοράς του συμμετοχικού περιεχομένου Β2](https://github.com/courses-ionio/help/discussions/1789/) | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
