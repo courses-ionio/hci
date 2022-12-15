@@ -322,17 +322,17 @@
   
 &#10004; Ενημέρωσα το submodule **/images** με 3 προσθήκες εικόνων:
   
-* [Κανονική εικόνα](https://github.com/vasiliskampani/images/commit/c58f7dc1e6e09c35690aa43344aecbc9b9de088e#diff-71ba4def6d1b2e45d6503789a72ecb4d380956151d7f7464949c72617aa74507/)
-* [Thumb εικόνα](https://github.com/vasiliskampani/images/commit/c58f7dc1e6e09c35690aa43344aecbc9b9de088e#diff-b1160cebf28c39c1aa16963f9c16ba3ac96e198de5f0495c42f263ecd641ea07/)
-* [Έξτρα εικόνα](https://github.com/vasiliskampani/images/commit/c58f7dc1e6e09c35690aa43344aecbc9b9de088e#diff-c4ecb5adee315707d6a2f8dc51dbd531c00ad1f3ef2e583c090007aeae34351c/)
+* [Κανονική εικόνα](https://github.com/vasiliskampani/images/blob/2019014_BA/chorded-keyboard.jpg/)
+* [Thumb εικόνα](https://github.com/vasiliskampani/images/blob/2019014_BA/chorded-keyboard-thumb.jpg/)
+* [Extra εικόνα](https://github.com/vasiliskampani/images/blob/2019014_BA/chordedkeyset.jpg/)
   
  <br>
   
-&#10004; Δημιούργησα νέο αρχείο στο _includes με όνομα [chorded-keyboard.md](https://github.com/vasiliskampani/site/blob/2019014_BA/_case-study/chorded-keyboard.md/)
+&#10004; Δημιούργησα νέο αρχείο στο _includes με όνομα [chorded-keyboard.md](https://github.com/vasiliskampani/site/blob/2019014_BA/_includes/cs-chorded-keyboard.md/)
   
 <br>  
   
-&#10004; Δημιούργησα νέο αρχείο στο _includes με όνομα [cs-chorded-keyboard.md](https://github.com/vasiliskampani/site/blob/2019014_BA/_includes/cs-chorded-keyboard.md/)
+&#10004; Δημιούργησα νέο αρχείο στο _case-study με όνομα [cs-chorded-keyboard.md](https://github.com/vasiliskampani/site/blob/2019014_BA/_case-study/chorded-keyboard.md/)
   
 <br>
   
@@ -414,4 +414,38 @@ O Bob Sproull είναι Αμερικάνος επιστήμονας της πλ
 
 <br>
 
+&#10004; Ενημέρωσα το submodule **/images** με 3 προσθήκες εικόνων:
 
+<br>
+
+* [Κανονική εικόνα](https://github.com/vasiliskampani/images/blob/2019014_BA/bob-sproull.jpg/)
+* [thumb εικόνα](https://github.com/vasiliskampani/images/blob/2019014_BA/bob-sproull-thumb.jpg/)
+* [extra εικόνα](https://github.com/vasiliskampani/images/blob/2019014_BA/xeroxalto.JPG/)
+
+<br>
+
+&#10004; Δημιούργησα νέο αρχείο στο _includes με όνομα [bio-sproull.md](https://github.com/vasiliskampani/site/blob/2019014_BA/_includes/bio-sproull/)
+
+<br />
+
+&#10004; Δημιούργησα νέο αρχείο στο _biography με όνομα [bob-sproull](https://github.com/vasiliskampani/site/blob/2019014_BA/_biography/bob-sproull.md/)
+
+<br>
+  
+| | Demo του Bob Sproull |
+| --- | --- |
+| 1 | [Demo link στο biography](https://vasiliskampani-ck-bs.netlify.app/biography/bob-sproull/) |
+
+<br>
+
+![Στιγμιότυπο οθόνης (74)](https://user-images.githubusercontent.com/72518208/207904166-01d15f8e-63da-459f-bb6d-59b4e0fdcd32.png)
+![Στιγμιότυπο οθόνης (75)](https://user-images.githubusercontent.com/72518208/207904207-46866db8-0657-4740-8e7e-03275550f76e.png)
+
+<br>
+
+| | Links για τα Pull request και το issue |
+| --- | --- |
+| 1 | [Pull request στο site](https://github.com/TEAM11234/site/pull/3) |
+| 2 | [Pull request στο images](https://github.com/TEAM11234/images/pull/5/) |
+  
+<br /> 
