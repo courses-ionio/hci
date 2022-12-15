@@ -124,6 +124,8 @@ Netlify links:
 
 - [NETLIFY](https://p18stef.netlify.app/case-study/nhs_food_scanner/)
 
+- [ΠΗΓΗ](https://apps.apple.com/gb/app/nhs-food-scanner/id1182946415)
+
 - [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
   
   ## ΠΑΡΑΔΟΤΕΟ 8-Άσκηση γραμμής εντολών
@@ -147,7 +149,7 @@ Netlify links:
 
 - [NETLIFY](https://p18stef.netlify.app/biography/mikelee/)
 
-- ΠΗΓΕΣ
+ΠΗΓΕΣ
   
   - https://conversion-rate-experts.com/myfitnesspal/
 
@@ -163,6 +165,21 @@ Netlify links:
 
 ## ΠΑΡΑΔΟΤΕΟ 11-Κατασκευή του βιβλίου Β
 
+Οι προσθήκες που έκρινα πως ήταν απαραίτητες για το βιβλίο αποτελούνται από το βιογραφικό του Mike Lee (κατασκευαστή του MyFitnessPal) και μία αναφορά στην εφαρμογή του NHS FOOD SCANNER. Έκανα αυτές τις δύο επιλογές διότι ήθελα να αναδείξω την συνοχή των δύο αυτών εφαρμογών και τα αποτελέσματα που μπορούν να αποφέρουν με την συνεργασία τους. Ο χρήστης λοιπόν έχει την δυνατότητα να ελέγχει τα μακροθρεπτικά συστατικά των τροφίμων μέσω του food scanner και να τα προσθέτει μέσω του MyFitnessPal ωστε να εντοπίσει την θερμιδική του πρόσληψη. Σε αυτό το σημείο θα παραθέσω ένα scrennshot απο το βιβλίο αλλά και τα links μτου  σε pdf και e.pub μορφή.
+
+-[sceenshot](https://github.com/p18stef/kallipos/blob/master/pictures/BookB.png)
+
+-[pdf](https://github.com/p18stef/kallipos/blob/master/book/book.pdf)
+
+-[e.pub](https://github.com/p18stef/kallipos/blob/master/book/book.epub)
+
+
+
+ΠΗΓΕΣ 
+
+  -[MIKE LEE](https://conversion-rate-experts.com/myfitnesspal/)
+
+ -[NHS FOOD SCANNER](https://apps.apple.com/gb/app/nhs-food-scanner/id1182946415)
 - [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
 
 
