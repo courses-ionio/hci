@@ -462,4 +462,12 @@ O Bob Sproull είναι Αμερικάνος επιστήμονας της πλ
 | [Reviewer σε προσθήκη συνεργάτη μου](https://github.com/TEAM11234/site/pull/1/) |
 | [Reviewer σε προσθήκη συνεργάτη μου](https://github.com/TEAM11234/images/pull/1) |
 | [Reviewer σε προσθήκη συνεργάτη μου](https://github.com/TEAM11234/_gallery/pull/1) |
-| [Βοήθεια συμφοιτητή μου](https://github.com/courses-ionio/help/discussions/1945/) | 
+| [Βοήθεια συμφοιτητή μου](https://github.com/courses-ionio/help/discussions/1945/) |
+  
+<br />
+ 
+  
+## Πηγές πληροφοριών 
+  
+* Αναφορά (README.md)
+    1. [Markdown Guide/basic-syntax](https://www.markdownguide.org/basic-syntax/)
