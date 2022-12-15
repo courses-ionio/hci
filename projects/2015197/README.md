@@ -131,7 +131,7 @@ https://courses-ionio.github.io/help/social/
 Για το παραδοτέο επέλεξα στην άσκηση να επιλέξω και να εγκαταστήσω το todo.txt, ένα πρόγραμμα το οποίο βοηθάει στην οργάνωση καθημερινών εργασιών με χρήση γραμμών εντολών.
 Έτσι έτρεξα τις εντολές οι οποίες διαφαίνονται στο παρακάτω asciinema (add, list και prioritize των todo items).
 
-- Asciinema: https://asciinema.org/a/imNJQjYAc15zNRBPKw0GNd9de
+- Asciinema: https://asciinema.org/a/iU6lAfN2za278JMrUklMkA5wd
 - TODO.txt documentation: https://vimeo.com/3263629
 
 
