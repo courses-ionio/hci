@@ -388,4 +388,30 @@
 <a href="https://asciinema.org/a/O59sA8N8hQw4Urbt3xS5ebSeO" target="_blank"><img src="https://asciinema.org/a/O59sA8N8hQw4Urbt3xS5ebSeO.svg" /></a>
 </p>
   
+<br>
+
+Στο παρακάτω gif δείχνω τι εκτύπωσε το shell script
+
+<br>
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/72518208/207842596-69aa38ce-d83f-4197-bf43-e4f34a3143ed.gif)
+
+<br>
+
+# Ένατη εβδομάδα / Συμμετοχικό περιεχόμενο Β2
+
+<br>
+
+Για την 9η εβδομάδα μας ζητήθηκε να ολοκληρώσουμε το Β2 συμμετοχικό περιεχόμενο το οποίο είχε να κάνει με την προσθήκη μιας βιογραφίας ένος επιστήμονα στον τομέα της Επικοινωνίας-Ανθρώπου υπολογιστή. Οι αλλαγές που πραγματοποίησα ήταν στον φάκελο [_includes](https://github.com/vasiliskampani/site/blob/2019014_BA/_includes/bio-sproull.md/) και στον φάκελο [_biography](https://github.com/vasiliskampani/site/blob/2019014_BA/_biography/bob-sproull.md/).  Συγκεκριμένα αποφάσισα να ασχοληθώ με τον Bob Sproull τον όποιο εμάθα μετά απο αρκετό ψαξιμο μέσω του Ivan Sutherland με το περίφημο έργο του **Sword of Damocles** .
+
+<br>
+
+## Bob Sproull
+
+<br>
+
+O Bob Sproull είναι Αμερικάνος επιστήμονας της πληροφορικής ο οποίος πλέον είναι και καθηγητής στο εργαστήριο του τμήματος της πληροφορικής στο πανεπιστήμιο της Μασσαχουσέτης. Ο Βob είναι αρκετά γνωστός για την μεγάλη συνεισφορά του στο έργο του Ivan Sutherland "Sword of Damocles" , στην δημιουργία του υπολογιστή "Alto" της Xerox, στην δημιουργία των πρώτων εκτυπωτών με laser και στα αρχικες αναβαθμισεις των λογισμικων των υπολογιστών καθώς και πολλά αλλά.
+
+<br>
+
 
