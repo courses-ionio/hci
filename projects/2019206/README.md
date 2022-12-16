@@ -2,6 +2,7 @@
 ### Ονοματεπώνυμο: Βέττας Εμμανουήλ
 ### Αριθμός Μητρώου: Π2019206
 ### Προσωπικό Github προφίλ: [Mnlsvt](https://github.com/Mnlsvt)
+### Το Github Profile της ομάδας μου: [Oroseira](https://github.com/Oroseira)
 ### Edpuzzle Username: 2019206
 ### ActivelyLearn Username/name: p2019206@ionio.gr/Π2019206
 
@@ -11,11 +12,11 @@
 | 2 | [Άσκηση γραμμής εντολών (linux install)](#%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CF%8C-%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1158) | |
 | 3 | [Συμμετοχικό περιεχόμενο A1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1165) | |
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](#%CE%B1%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-warmup) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1277) | |
-| 5 | [Συμμετοχικό περιεχόμενο A2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B12) | | |
-| 6 | [Κατασκευή του βιβλίου Α](#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B1) | | |
-| 7 | [Συμμετοχικό περιεχόμενο B1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21) | | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B12) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1955) | |
+| 6 | [Κατασκευή του βιβλίου Α](#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B1) | Link προς Discussions | |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1958) | |
 | 8 | Άσκηση γραμμής εντολών | | |
-| 9 | [Συμμετοχικό περιεχόμενο B2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B22) | | |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B22) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1959) | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
