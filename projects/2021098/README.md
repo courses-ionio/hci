@@ -473,3 +473,5 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 ![Screenshot_2022-12-16_20-16-43](https://user-images.githubusercontent.com/33377581/208163083-d7553414-740a-4f14-9d14-7366680b4b01.jpg)
   
 ## <ins> Editing the Shell Script: </ins>
+
+Στο συγκεκριμένο κομμάτι της εργασίας, προκειμένου να μετατρέψω το βιβλίο σε (.epub) μορφή, έπρεπε να επεξεργαστώ περαιτέρω το [script](https://github.com/Greekforce1821/kallipos/blob/master/make-latex.sh). Συγκεκριμένα, πρόσθεσα να δημιουργήσει αυτόματα ένα directory για το `.epub` αρχείο με όνομα: `epub` και στην συνέχεια μέσω της εντολής: `pandoc --quiet -f latex tex/book.tex -o epub/book.epub` να δημιουργήθει το αρχείο `book.epub` στο παραπ
