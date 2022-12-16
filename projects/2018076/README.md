@@ -4,6 +4,7 @@
 ### Αριθμός Μητρώου: Π2018076
 ### [Ο οργανισμός μου](https://github.com/ContattoContare)
 ### [Το Asciinema μου](https://asciinema.org/~p18boui)
+### [ActivelyLearn](https://read.activelylearn.com/#student/profile/settings)
 ### [Ed Puzzle](https://edpuzzle.com/profile)
 
 | Εβδομάδα | Παραδοτέα | Links προς τις συζητήσεις του μαθήματος | Αυτοαξιολόγηση |
@@ -35,45 +36,78 @@
 
 κι έπειτα από κάποιες τροποποιήσεις είναι πλέον πλήρως λειτουργικό, ειδικά διαμορφωμένο και προσαρμοσμένο έτσι, ώστε να ικανοποιεί τις ανάγκες μου!
 
-<h1 align=center><b>Neofetch & Journalctl -b</b></h1>
+<h1 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+
+
+[Neofetch & Journalctl](https://asciinema.org/a/535951)
 
 <p align="center">
 <a href="https://asciinema.org/a/535951" target="_blank"><img src="https://asciinema.org/a/531434.svg" width="70%" /></a>
-</p>
+
 
 # **Συμμετοχικό Περιεχόμενο Α1**
 ### Για το Παραδοτέο03 
 
 έκανα fork τo site και τα submodules από τον [οργανισμό μου](https://github.com/ContattoContare) κι έπειτα πρόσθεσα δύο εικόνες υψηλής ανάλυσης στο site 
-- [Amiga 1000](https://master--tranquil-kheer-c49d30.netlify.app/gallery/amiga/) και 
-- [IBM Screen Reader](https://master--tranquil-kheer-c49d30.netlify.app/gallery/ibm_screen_reader/) 
 
-# **Warm Up CLI** 
+<h1 align=center></b>
+<p align="center">
+<a href="" target="_blank"></a>
+</p>
+
+[Amiga 1000](https://master--tranquil-kheer-c49d30.netlify.app/gallery/amiga/)
+
+
+<p align="center">
+<a href="" target="_blank"><img src="https://master--tranquil-kheer-c49d30.netlify.app/images/Amiga1k.jpg" width="70%" />
+</p>
+
+
+[IBM Screen Reader](https://master--tranquil-kheer-c49d30.netlify.app/gallery/ibm_screen_reader/)
+
+
+
+<p align="center">
+<a href="" target="_blank"><img src="https://master--tranquil-kheer-c49d30.netlify.app/images/IBM_Screen_Reader.jpg" width="70%" />
+
+
+# **Warm Up CLI**
 ### Για το Παραδοτέο04
 
 δοκίμασα μερικές απλές εντολές από το warm-up cli
 
-- [Weather NYC](https://asciinema.org/a/536633)
-
+<h1 align=center></b>
 <p align="center">
-<a href="https://asciinema.org/a/536633" target="_blank"></a>
+<a href="" target="_blank"></a>
 </p>
 
-- [Dancing Parρot](https://asciinema.org/a/536642)
+[Weather NYC](https://asciinema.org/a/536633)
+
 
 <p align="center">
-<a href="https://asciinema.org/a/536642" target="_blank"></a>
-</p>
+<a href="https://asciinema.org/a/536633" target="_blank"><img src="https://asciinema.org/a/536633.svg" width="70%" />
 
-- [Rate.sx](https://asciinema.org/a/536640)
+
+[Dancing Parρot](https://asciinema.org/a/536642)
+
+
 <p align="center">
-<a href="https://asciinema.org/a/536640" target="_blank"></a>
-</p>
+<a href="https://asciinema.org/a/536642" target="_blank"><img src="https://asciinema.org/a/536642.svg" width="70%" />
+
+
+[Rate.sx](https://asciinema.org/a/536640)
+
+
+<p align="center">
+<a href="https://asciinema.org/a/536640" target="_blank"><img src="https://asciinema.org/a/536640.svg" width="70%" >
 
 
 # **Συμμετοχικό Περιεχόμενο Α2**
 
 ### Για το Παραδοτέο05 ###
+
 δημιούργησα ένα [Χρονολόγιο](https://tranquil-kheer-c49d30.netlify.app/timeline/commodore/) για την εξέλιξη λογισμικού του προσωπικού υπολογιστή της Commodore, επίσης δημιούργησα δύο διαφάνειες που συνδυάζουν τις εικόνες από το Συμμετοχικό Περιεχόμενο Α1. Συγκεκριμένα για τον: 
 
 - [Οι πρώτοι ηλεκτρονικοί υπολογιστές της Apple](https://master--tranquil-kheer-c49d30.netlify.app/slides/apple/) και
