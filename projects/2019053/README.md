@@ -264,6 +264,40 @@
 
 <br /><br />
 
+## Εβδομάδα Ένατη - Συμμετοχικό περιεχόμενο Β2
+
+<br />
+
+### Επιλογή Θέματος
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Έπειτα από την [ανάρτηση](https://github.com/courses-ionio/help/discussions/1939) που έκανα στο Discussions σχετικά με την τελική παρουσίαση προόδου, μου προτάθηκε από τον κ. Χωριανόπουλο να ασχοληθώ με τον [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike). Έκανα μία έρευνα και παρατήρησα πως ταιριάζει πολύ με τα παρελθοντικά θέματα που έχω διαλέξει, αφού συγκεκριμένα έχει ασχοληθεί με επεξεργαστές κειμένου και συστήματα δημιουργίας παραθύρων. Πέρα από αυτά όμως έχει συνεισφέρει σε πάρα πολλά project συμπεριλαμβανομένων της UTF-8 και της γλώσσας προγραμματισμού Go.
+
+<br />
+
+### Βήματα Υλοποίησης
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Τα βήματα υλοποίησης έμοιαζαν πολύ με το [Παραδοτέο 7](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%B2%CE%B4%CE%BF%CE%BC%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21), οπότε η διαδικασία λειτουργίας του netlify ήταν πολύ εύκολη. Τα αρχεία που δημιούργησα ήταν ένα στο **biography**, ένα στο **includes**, ένα στο **includes/extras** και η προσθήκη των εικονών στο **images**. Τελευταίο βήμα ήταν η δημιουργία ενός branch με το όνομα **pull_branch_paradoteo9**, που περιείχε μόνο τις απαραίτητες αλλαγές για τα αιτήματα ενσωμάτωσης στον οργανισμό μου.
+
+<br />
+
+**Ένα κομμάτι της βιογραφίας μου για τον Rob Pike**
+
+![pike_thompson](https://user-images.githubusercontent.com/72695605/208084425-8b5e0e55-57f2-42f4-bcf4-5efbda45b5ac.png)
+
+<br />
+
+| Pull Requests | Netlify |
+| --- | --- |
+| [Pull Request για το site](https://github.com/TEAM11234/site/pull/5) | [Netlify Rob Pike](https://aimiliospavlidis2001-site-hci-1.netlify.app/biography/rob-pike/) |
+| [Pull Request για το images](https://github.com/TEAM11234/images/pull/7) |  |
+| [Pull Request για το extras](https://github.com/TEAM11234/extras/pull/2) |  |
+
+<br /><br />
+
 ## Εβδομάδα Δέκατη - Άσκηση Γραμμής Εντολών (Script + SpaceVim)
 
 <br />
