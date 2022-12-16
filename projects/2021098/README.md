@@ -494,3 +494,9 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
   
 # Παρακάτω, παραθέτω τα link από το κάθε ένα αρχείο μαζί με τις φωτογραφίες που το συνοδεύουν:
  
+* Link από το προσωπικό αποθετήριο του Κάλλιπου: [Kallipos Repository](https://github.com/Greekforce1821/kallipos)
+* Link από το βιβλίο σε μορφή (.pdf): [PDF Book](https://github.com/Greekforce1821/kallipos/blob/master/book/)
+* Link από το βιβλίο σε μορφή (.epub): [EPUB Book](https://github.com/Greekforce1821/kallipos/tree/master/epub)
+* Φωτογραφία από τα κεφάλαια του βιβλίου με τις προσωπικές προσθήκες: [Personal Chapters of The Book](https://github.com/Greekforce1821/kallipos/blob/master/Picture%20of%20my%20personal%20contribution%20within%20the%20book/python%20%26%20bio.jpg)
+* Φωτογραφία από την νέα μελέτη περίπτωσης εντός του βιβλίου: [CS From Within The Book](https://github.com/Greekforce1821/kallipos/blob/master/Picture%20of%20my%20personal%20contribution%20within%20the%20book/python%20%26%20odroid%20cs.jpg)
+* Φωτογραφία από την νέα βιογραφία εντός του βιβλίου: [Bio From Within The Book](https://github.com/Greekforce1821/kallipos/blob/master/Picture%20of%20my%20personal%20contribution%20within%20the%20book/van-rossum-bio.jpg)
