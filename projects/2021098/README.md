@@ -484,3 +484,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
   
 ![Screenshot_2022-12-16_20-26-14](https://user-images.githubusercontent.com/33377581/208165461-8c4dc3a4-e227-429f-9ca5-d0e3e6fe46ce.jpg)
   
+## <ins> Case-Study From Within The Book: </ins>
+  
+![python   odroid cs](https://user-images.githubusercontent.com/33377581/208165668-50b3d951-1384-42ab-824a-b41f9afd2f20.jpg)
+
