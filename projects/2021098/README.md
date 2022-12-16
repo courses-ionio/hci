@@ -479,3 +479,8 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 ## <ins> EPUB Directory: </ins>
   
 ![Screenshot_2022-12-16_20-25-39](https://user-images.githubusercontent.com/33377581/208165206-760758cb-fd82-485c-958d-dfaf3eb9ee71.jpg)
+  
+## <ins> Modified Shell Script: </ins>
+  
+![Screenshot_2022-12-16_20-26-14](https://user-images.githubusercontent.com/33377581/208165461-8c4dc3a4-e227-429f-9ca5-d0e3e6fe46ce.jpg)
+  
