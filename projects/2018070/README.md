@@ -100,6 +100,12 @@
 
 - [`Video Game Developers`](https://en.wikipedia.org/wiki/Video_game_developer)
 
+<p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
+
+- [`Pull Request προς τον οργανισμό της ομάδας - slides`](https://github.com/The4Beasts/site/pull/1)
+- [`Pull Request προς τον οργανισμό της ομάδας - timeline`](https://github.com/The4Beasts/site/pull/2)
+- [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
+
 <p>Παρακάτω φαίνονται τα links από το neltify:</p>
 
 - [`My site`](https://konstantina3.netlify.app/)
