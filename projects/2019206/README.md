@@ -176,6 +176,16 @@
  Το [md αρχείο μου](https://github.com/Mnlsvt/kallipos/blob/master/my_contribution/flight_simulator.md).
  
  Το [lua αρχείο μου](https://github.com/Mnlsvt/kallipos/blob/master/flight_simulator.lua)
+ 
+ Edit: Μετά από καθοδήγηση του καθηγητή του μαθήματος (κ. Χωριανόπουλο) επέλεξα να κάνω ακόμη μια προσθήκη η οποία να είναι πιο κοντά στα πλαίσια του μαθήμτος.
+ 
+ Η νέα μου προσθήκη αναφέρεται στην εφαρμογή Google Translate και αναλύει τον τρόπο με τον οποίο λειτουργεί.
+ 
+ <h3>Η δεύτερη προσθήκη μου:</h3>
+<p align=center>
+ <img src="https://user-images.githubusercontent.com/72461719/208139145-4997c14f-2aa2-48d2-ad79-53c6b368c4d9.png" width="400"/>
+ </p>
+ 
 
 # **Συμμετοχικό περιεχόμενο Β1**
 
