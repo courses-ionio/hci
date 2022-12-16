@@ -474,4 +474,4 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
   
 ## <ins> Editing the Shell Script: </ins>
 
-Στο συγκεκριμένο κομμάτι της εργασίας, προκειμένου να μετατρέψω το βιβλίο σε (.epub) μορφή, έπρεπε να επεξεργαστώ περαιτέρω το [script](https://github.com/Greekforce1821/kallipos/blob/master/make-latex.sh). Συγκεκριμένα, πρόσθεσα να δημιουργήσει αυτόματα ένα directory για το `.epub` αρχείο με όνομα: `epub` και στην συνέχεια μέσω της εντολής: `pandoc --quiet -f latex tex/book.tex -o epub/book.epub` να δημιουργήθει το αρχείο `book.epub` στο παραπ
+Στο συγκεκριμένο κομμάτι της εργασίας, προκειμένου να μετατρέψω το βιβλίο σε (.epub) μορφή, έπρεπε να επεξεργαστώ περαιτέρω το [script](https://github.com/Greekforce1821/kallipos/blob/master/make-latex.sh). Συγκεκριμένα, πρόσθεσα να δημιουργήσει αυτόματα ένα directory για το `.epub` αρχείο με όνομα: `epub` και στην συνέχεια μέσω της εντολής: `pandoc --quiet -f latex tex/book.tex -o epub/book.epub` να δημιουργηθεί το αρχείο `book.epub` στο παραπ
