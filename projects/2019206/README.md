@@ -13,9 +13,9 @@
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](#%CE%B1%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-warmup) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1277) | |
 | 5 | [Συμμετοχικό περιεχόμενο A2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B12) | | |
 | 6 | [Κατασκευή του βιβλίου Α](#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B1) | | |
-| 7 | [Συμμετοχικό περιεχόμενο B1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21-%CE%BA%CE%B1%CE%B9-%CE%B22) | | |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21) | | |
 | 8 | Άσκηση γραμμής εντολών | | |
-| 9 | [Συμμετοχικό περιεχόμενο B2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21-%CE%BA%CE%B1%CE%B9-%CE%B22) | | |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B22) | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -176,23 +176,28 @@
  
  Το [lua αρχείο μου](https://github.com/Mnlsvt/kallipos/blob/master/flight_simulator.lua)
 
-# **Συμμετοχικό περιεχόμενο Β1 και Β2**
+# **Συμμετοχικό περιεχόμενο Β1**
 
-Για αυτό το παραδοτέο αποφάσισα να ασχοληθώ με μια πατέντα η οποία βοήθησε πολύ στην ανάπτυξη των υπολογιστικών συστημάτων με γραφικά που έχουμε σήμερα καθώς και με τον Steve Wozniak, εφευρέτη της πατέντας και μεγάλο στέλεχος της Apple.
+Για αυτό το παραδοτέο αποφάσισα να ασχοληθώ με μια πατέντα η οποία βοήθησε πολύ στην ανάπτυξη των συστημάτων με γραφικά που διαθέτουμε στις μέρες μας.
 
-Ο λόγος που επέλεξα να ασχοληθώ με το συγκεκριμένο αντικείμενο είναι το γεγονός ότι όλες οι συσκευές τις οποίες χρησιμοποιεί ο κόσμος (με μερικές εξαιρέσεις πάντα) έχουν γραφικά τα οποία μπορούν να παίξουν βίντεο. Έχοντας μεγαλώσει σε ένα περιβάλλον με τέτοιου είδους συσκευών συκευών, δε θα μπορούσα να φανταστώ έναν κόσμο στον οποίο δεν περιλαμβάνεται κάτι τέτοιο.
+Την πατέντα αυτή εφήυρε ο επιστήμονας της πληροφορικής, Steve Wozniak και ο σκοπός της δημιουργίας της ήταν η δημιουργία ενός πιο αποδοτικού συστήματος το οποίο θα μπορούσε να χρησιμοποιηθεί σε οποιοδήποτε μηχάνημα μπορεί να υποστηρίξει γραφικά. Μια από τις μεγαλύτερες και πιο γνωστές εφαρμογές της πατέντας ήταν στις τηλεοράσεις της εποχής αναβαθμίζοντας τόσο τα χρώματα της εικόνας (RGB) όσο και το ασπρόμαυρο κομμάτι.
 
- Το [pull request](https://github.com/Oroseira/site/pull/2) μου για την [ομάδα](https://github.com/Oroseira/).
+Ο λόγος που επέλεξα προσωπικά να ασχοληθώ με το συγκεκριμένο αντικείμενο είναι το γεγονός ότι όλες οι συσκευές τις οποίες χρησιμοποιεί ο κόσμος (με μερικές εξαιρέσεις πάντα) έχουν γραφικά τα οποία μπορούν να παίξουν βίντεο. Έχοντας μεγαλώσει σε ένα περιβάλλον με τέτοιου είδους συσκευές, μου είναι πολύ δύσκολο να φανταστώ έναν κόσμο στον οποίο δεν περιλαμβάνεται αυτή η τεχνολογία.
 
-Παρακάτω βρίσκονται οι προσθήκες μου όπως φαίνονται στο [site](https://oroseira2022.netlify.app) της [ομάδας](https://github.com/Oroseira) μου.
-
-<h3>B1: Η <a href="https://oroseira2022.netlify.app/case-study/microcomputer_video/">μελέτη περίπτωσης</a> με την οποία ασχολήθηκα.</h3>
+Παρακάτω βρίσκεται η προσθήκη μου όπως φαίνονται στο [site](https://oroseira2022.netlify.app) της [ομάδας](https://github.com/Oroseira) μου.
 
 <p align=center>
  <a href="https://oroseira2022.netlify.app/case-study/microcomputer_video/" target="_blank"><img src="https://user-images.githubusercontent.com/72461719/201521781-fe163866-3163-4710-9bb3-d264e4f9219f.png" width="400"/></a>
  </p>
+ 
+ Το [pull request](https://github.com/Oroseira/site/pull/2) μου για την [ομάδα](https://github.com/Oroseira/).
+
+# **Συμμετοχικό περιεχόμενο Β2**
+
+Η βιογραφία με την οποία επέλεξα να αναπτύξω είναι αυτή του Steve Wozniak ο οποίος είναι ο εφευρέτης πολλών πατεντών για χρήση σε υπολογίστικά συστήματα μεταξύ των οποίων βρίσκεται και αυτή που ανέφερα στο [Β1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21) και μεγάλο στέλεχος της Apple.
 
 
+Παρακάτω βρίσκεται η προσθήκη μου όπως φαίνονται στο [site](https://oroseira2022.netlify.app) της [ομάδας](https://github.com/Oroseira) μου.
 
 <h3>B2: Η <a href="https://oroseira2022.netlify.app/biography/wozniak/">βιογραφία</a> του Steve Wozniak.</h3>
 
@@ -200,6 +205,7 @@
  <a href="https://oroseira2022.netlify.app/biography/wozniak/" target="_blank"><img src="https://user-images.githubusercontent.com/72461719/201521769-f8d3c352-24de-45a9-9b65-cfdc3f24656b.png" width="400"/></a>
  </p>
  
+ Το [pull request](https://github.com/Oroseira/site/pull/2) μου για την [ομάδα](https://github.com/Oroseira/).
 
 ❗Μπορείτε να κάνετε κλικ πάνω στις εικόνες για να μεταφερθείτε απευθείας στον σύνδεσμο.
 
@@ -217,6 +223,7 @@
 | 8 | Engelbart's Unfinished Revolution / 1998 / Session IV | :x: | :x: |
 | 9 | Dynabook: The Complete Story | :heavy_check_mark: | :heavy_check_mark: |
 | 10 | Alan Kay at Media Lab 30 | :heavy_check_mark: | :heavy_check_mark: |
+| 11 | Jaron Lanier - Learning by Experience & Play | :heavy_check_mark: | :heavy_check_mark: |
 
 
 ❗Οι φωτογραφίες έχουν προστεθεί στην αναφορά μου μέσα από Github Issues έτσι ώστε να μη μεγαλώνει το μέγεθος του αρχείου της αναφοράς.
