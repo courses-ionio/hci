@@ -135,8 +135,10 @@ To αντίστοιχο [pull request](https://github.com/Oroseira/images/pull/6
 | 5 | Alan Kay: Doing with Images Makes Symbols (Full Version) | :heavy_check_mark: | :heavy_check_mark: |
 | 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | :heavy_check_mark: | :heavy_check_mark: |
 | 7 | Oral History of Douglas Engelbart | :heavy_check_mark: | :heavy_check_mark: |
-| 8 |  | :heavy_check_mark: | :heavy_check_mark: |
-| 9 |  | :heavy_check_mark: | :heavy_check_mark: |
-| 10 |  | :heavy_check_mark: | :heavy_check_mark: |
+| 8 | Engelbart's Unfinished Revolution  1998  Session IV | :heavy_check_mark: | :heavy_check_mark: |
+| 9 | Dynabook: The Complete Story | :heavy_check_mark: | :heavy_check_mark: |
+| 10 | Alan Kay at Media Lab 30 | :heavy_check_mark: | :heavy_check_mark: |
+| 11 | Jaron Lanier - Learning by Experience & Play  | :heavy_check_mark: | :heavy_check_mark: |
+| 12 |  | :heavy_check_mark: | :heavy_check_mark: |
 
 
