@@ -471,3 +471,5 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 ## <ins> An Overview of the Book: </ins>
 
 ![Screenshot_2022-12-16_20-16-43](https://user-images.githubusercontent.com/33377581/208163083-d7553414-740a-4f14-9d14-7366680b4b01.jpg)
+  
+## <ins> Editing the Shell Script: </ins>
