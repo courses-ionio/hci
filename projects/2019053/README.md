@@ -383,6 +383,7 @@
  - [πηγή βοήθειας (advice) rob pike](https://www.informit.com/articles/article.aspx?p=1941206)
  - [πηγή βοήθειας (interview) rob pike](https://hackernoon.com/go-has-indeed-become-the-language-of-cloud-infrastructure-rob-pike-q51a3wle)
  - [πηγή βοήθειας (utf-8) rob pike](https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt)
+ - [merge images](https://products.aspose.app/imaging/image-merge)
 #### Δέκατο Παραδοτέο
  - [βοήθεια βίντεο SpaceVim](https://www.youtube.com/watch?v=3xB501CJDB8)
  - [SpaceVim](https://spacevim.org/)
