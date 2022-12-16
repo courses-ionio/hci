@@ -55,7 +55,7 @@
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
-- [`Pull Request προς τον οργανισμό της ομάδας - gallery`](https://github.com/The4Beasts/_gallery/pull/1)
+- [`Pull Request προς τον οργανισμό της ομάδας - gallery`](https://github.com/The4Beasts/_gallery/pull/9)
 - [`Pull Request προς τον οργανισμό της ομάδας - images`](https://github.com/The4Beasts/images/pull/2)
 - [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
@@ -99,6 +99,7 @@
 Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
 
 - [`Video Game Developers`](https://en.wikipedia.org/wiki/Video_game_developer)
+- [`Video Game Developer-image`](https://github.com/Konstantina3/images/blob/master/VideoGameDevelopers.png)
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
@@ -126,11 +127,12 @@
 Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα `μελέτη περίπτωσης` στο site του βιβλίου. Το case study που επέλεξα σχετίζεται άμεσα με τα προηγούμενα παραδοτέα (`gallery`, `images`, `slides`, `timeline`), αλλά και με το περιεχόμενο της εισαγωγής μου, καθώς αφορά ένα καινοτόμο εργαλείο που προσφέρει άμεση διάδραση με τον χρήστη και τις ικανότητές του. Τα αποτελέσματα φαίνονται παρακάτω:
 
 - [`case study`](https://github.com/Konstantina3/site/blob/master/_case-study/Notion.md)
+- [`case-study-image`](https://github.com/Konstantina3/images/blob/master/notion.png)
 
 Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
 
-- [`Pull Request προς τον οργανισμό της ομάδας - case study`](https://github.com/The4Beasts/site/pull/10)
-- [`Pull Request προς τον οργανισμό της ομάδας - image`](https://github.com/The4Beasts/images/pull/5)
+- [`Pull Request προς τον οργανισμό της ομάδας - case study`](https://github.com/The4Beasts/site/pull/3)
+- [`Pull Request προς τον οργανισμό της ομάδας - image`](https://github.com/The4Beasts/images/pull/2)
 - [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
 Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
@@ -156,11 +158,12 @@
 Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα `βιογραφία` στο site του βιβλίου του μαθήματος. Η βιογραφία που επέλεξα αφορά την Margaret Hamilton, η οποία θεωρείται η "μητέρα" της μηχανικής λογισμικής. Η συγκεκριμένη βιογραφία σχετίζεται με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline) στα οποία περιγράφω υπηρεσίες λογισμικού.
 
 - [`biography`](https://github.com/Konstantina3/site/blob/master/_biography/Margaret-Hamilton-biography.md)
+- [`biography-image`](https://github.com/Konstantina3/images/blob/master/hamilton-profile.jpg)
 
 Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
 
-- [`Pull Request προς τον οργανισμό της ομάδας - biography`](https://github.com/The4Beasts/site-1/pull/2)
-- [`Pull Request προς τον οργανισμό της ομάδας - image`](https://github.com/The4Beasts/images/pull/8)
+- [`Pull Request προς τον οργανισμό της ομάδας - biography`](https://github.com/The4Beasts/site/pull/4)
+- [`Pull Request προς τον οργανισμό της ομάδας - image`](https://github.com/The4Beasts/images/pull/2)
 - [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
 Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
