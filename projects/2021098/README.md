@@ -488,3 +488,9 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
   
 ![python   odroid cs](https://user-images.githubusercontent.com/33377581/208165668-50b3d951-1384-42ab-824a-b41f9afd2f20.jpg)
 
+## <ins> Biography From Within The Book: </ins>
+  
+![van-rossum-bio](https://user-images.githubusercontent.com/33377581/208165793-6b6a87b3-7535-4bdd-a3f4-54a7454f9840.jpg)
+  
+
+ 
