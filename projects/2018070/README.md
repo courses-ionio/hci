@@ -183,6 +183,7 @@
 
 Ο `κώδικας` από το `html` φαίνεται στο organization της ομάδας μας και συγκεκριμένα στο [`Blog της ομάδας`](https://github.com/The4Beasts/Blog/blob/main/The4Beasts-site.html).
 
+- [`Asciinema Link`](https://asciinema.org/a/gxfEljGfFc8Mdq28F6Fuxqvdi)
 ---
 
 # Παραδοτέο 11: Κατασκευή βιβλίου Β
