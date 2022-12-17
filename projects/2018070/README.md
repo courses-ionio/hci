@@ -51,7 +51,7 @@
 <p>Παρακάτω φαίνονται τα links από το neltify:</p>
 
 - [`My site`](https://konstantina3.netlify.app/)
-- [`The4Beasts Site`]()
+- [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
@@ -110,7 +110,7 @@
 <p>Παρακάτω φαίνονται τα links από το neltify:</p>
 
 - [`My site`](https://konstantina3.netlify.app/)
-- [`The4Beasts Site`]()
+- [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
 
 ---
 
@@ -144,7 +144,7 @@
 Παρακάτω παρουσιάζεται τα links από το netlify
 
 - [`My Site`](https://konstantina3.netlify.app/)
-- [`The4Beasts Site`]()
+- [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
 ---
 
 # Παραδοτέο 8: Άσκηση γραμμής εντολών
@@ -173,7 +173,7 @@
 Παρακάτω παρουσιάζεται τα links από το netlify
 
 - [`My Site`](https://konstantina3.netlify.app/)
-- [`The4Beasts Site`]()
+- [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
 ---
 
 # Παραδοτέο 10:  Άσκηση γραμμής εντολών
