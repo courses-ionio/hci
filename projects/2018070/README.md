@@ -211,6 +211,13 @@
 
 ---
 
+# Χρήσιμες απαντήσεις - διορθώσεις - βελτιώσεις - σχόλια 
+
+- [`1691`](https://github.com/courses-ionio/help/discussions/1691)
+- [`1774`](https://github.com/courses-ionio/help/discussions/1774)
+
+---
+
 | Edpuzzle | Actively Learn |
 | --- | --- |
 | 11/11 | Ορισμός και Μέθοδος: 6/6 |
