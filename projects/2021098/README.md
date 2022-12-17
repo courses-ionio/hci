@@ -400,6 +400,8 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 ![Screenshot_2022-11-28_02-07-03](https://user-images.githubusercontent.com/33377581/204167251-b8f5d614-987b-4142-8ea4-84eba0cac384.jpg)
 
 ## Update #2: <ins> Added Support For Multiple Conversion From A Single (.md) File: </ins>
+  
+Σύμφωνα με το πρώτο update του [`Spiritbeat`](https://github.com/Greekforce1821/Spiritbeat)
 
 
 # Πίνακας των διάφορων link περί εργασίας:
