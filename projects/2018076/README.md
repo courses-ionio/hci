@@ -110,7 +110,7 @@
 
 δημιούργησα ένα [Χρονολόγιο](https://tranquil-kheer-c49d30.netlify.app/timeline/commodore/) για την εξέλιξη λογισμικού του προσωπικού υπολογιστή της Commodore, επίσης δημιούργησα δύο διαφάνειες που συνδυάζουν τις εικόνες από το Συμμετοχικό Περιεχόμενο Α1. Συγκεκριμένα για τον: 
 
-- [Οι πρώτοι ηλεκτρονικοί υπολογιστές της Apple](https://master--tranquil-kheer-c49d30.netlify.app/slides/apple/) και
+- [Οι πρώτοι ηλεκτρονικοί υπολογιστές της Apple](https://master--tranquil-kheer-c49d30.netlify.app/slides/apple/) και  
 - [Τα μενού γραφικού περιβάλλοντος](https://master--tranquil-kheer-c49d30.netlify.app/slides/menu/)  
 
 # **Η Κατασκευή του Βιβλίου**
