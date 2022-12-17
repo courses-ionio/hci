@@ -407,6 +407,9 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 
 [![asciicast](https://asciinema.org/a/546337.svg)](https://asciinema.org/a/546337)
 
+## <ins> Overview Of The Final Program Including The Latest Updates: </ins>
+
+[![asciicast](https://asciinema.org/a/546338.svg)](https://asciinema.org/a/546338)
 
 # Πίνακας των διάφορων link περί εργασίας:
 
