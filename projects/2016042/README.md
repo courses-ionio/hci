@@ -134,7 +134,7 @@ Netlify:
   [![asciinema 2](https://asciinema.org/a/543460.svg)](https://asciinema.org/a/543460)
   
   # Παραδοτέο 11
-  Για την εκπόνηση αυτού του παραδοτέου, πρόσθεσα στο βιβλίο τη μελέτη περίπτωσης του HP-150 και τη βιογραφία του William Hewlett.Καταρχάς, πρόσθεσα στο `make-latex.sh` μια εντολή pandoc για να κάνω generate το βιβλίο σε μορφη epub. Στη συνέχεια, πρόσθεσα τη μελέτη περίπτωσης και τη βιογραφία στo submodule extras και μετά έτρεξα το `make-latex.sh και έκανα genarate to βιβλίο. Παρακάτω παραθέτω το link από το φάκελο `book` ο οποίος περιέχει το βιβλίο σε μορφή latex, pdf και epub. Επίσης δίνω το link από το φάκελο `pics` ο οποίος περιέχει τα screenshot που χρειάζονται για το παραδοτέο:
+  Για την εκπόνηση αυτού του παραδοτέου, πρόσθεσα στο βιβλίο τη μελέτη περίπτωσης του HP-150 και τη βιογραφία του William Hewlett.Καταρχάς, πρόσθεσα στο `make-latex.sh` μια εντολή pandoc για να κάνω generate το βιβλίο σε μορφη epub. Στη συνέχεια, πρόσθεσα τη μελέτη περίπτωσης και τη βιογραφία στo submodule extras και μετά έτρεξα το `make-latex.sh` και έκανα genarate to βιβλίο. Παρακάτω παραθέτω το link από το φάκελο `book` ο οποίος περιέχει το βιβλίο σε μορφή latex, pdf και epub. Επίσης δίνω το link από το φάκελο `pics` ο οποίος περιέχει τα screenshot που χρειάζονται για το παραδοτέο:
 - [book](https://github.com/MarAkar98/kallipos/tree/master/book)
 - [pics](https://github.com/MarAkar98/kallipos/tree/master/pics)
 
