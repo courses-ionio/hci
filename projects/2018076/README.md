@@ -117,12 +117,12 @@
 
 ### Για το Παραδοτέο06 ###
 
-- [Το βιβλίο](https://github.com/aggelos2000430/kallipos/blob/master/mybook/book.pdf)
+- [Το βιβλίο σε PDF](https://github.com/aggelos2000430/kallipos/blob/master/mybook/book1.pdf)
 - [Το φίλτρο lua μου](https://github.com/aggelos2000430/kallipos/blob/master/mylua.lua)
 - [Το περιεχόμενο μου .md](https://github.com/aggelos2000430/kallipos/blob/master/myfile/interaction-devices.md)
-- [Το Screenshot!](https://github.com/aggelos2000430/kallipos/blob/master/mypictures/Screenshot.PNG)
+- [Το Screenshot!](https://github.com/aggelos2000430/kallipos/blob/master/mypictures/PIbookScreenshot.PNG)
 
-![](https://github.com/aggelos2000430/kallipos/blob/master/mypictures/Screenshot.PNG)
+![](https://github.com/aggelos2000430/kallipos/blob/master/mypictures/PIbookScreenshot.PNG)
 
 # <h1 align="center">Βίντεο Κουίζ</h1>
 
