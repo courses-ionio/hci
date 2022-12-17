@@ -76,25 +76,25 @@
 
 _**Παρατήρηση**: το παραδοτέο αυτό έγινε αφότου πραγματοποιήθηκε το 4ο παραδοτέο._
 
-Πρόσθεσα δύο εικόνες τύπου "Creative Commons licenses" που πραγματεύονται την ραγδαία εξέλιξη του ποντικιού ως περιφεριακό, με σκοπό την ανάδειξη της πορεία του στο χρόνο στη σχέση αλληλεπίδρασης ανθρώπου-υπολογιστή.
+Πρόσθεσα δύο εικόνες τύπου "Creative Commons licenses" που πραγματεύονται την ραγδαία εξέλιξη του ποντικιού ως περιφεριακό, με σκοπό την ανάδειξη της πορείας του στο χρόνο, στη σχέση αλληλεπίδρασης ανθρώπου-υπολογιστή, με εναλλακτικού τύπου διεπαφές.
 
 1) Apple Wireless Mouse
 
-Η εικόνα αυτή αναδεικνύει την εξέλιξη στην αλληλεπίδραση του ανθρώπου με τον υπολογιστή, δεδομένου ότι από τα συμβατικά ενσύρματα ποντίκια ο χρήστης για πρώτη φορά χρησιμοποίησε ασύρματο ποντίκι τύπου bluetooth (για εμπορική χρήση). Κατά την εξέλιξη αυτής της τεχνολογίας ο χρήστης έλυσε το θέμα της απόστασης και της εργονομίας καθώς δεν περιορίζεται στα καλώδια και στην επιφάνεια του γραφείου του. Άθελά της για την υλοποίηση του αυτού, η Apple έπρεπε να λύση και το πρόβλημα των παρεμβολών του σήματος μεταξύ ασύρματων συσκευών και για αυτό χρησιμοποίησε το λογισμικό Adaptive Frequency Hopping (AFH).
+Η εικόνα αυτή αναδεικνύει το πρώτο ασύρματο ποντίκι της Apple (για εμπορική χρήση), το οποίο παρουσίασε μία διαφορετική διεπαφή σε σχέση με τη συμβατική ενσύρματη μορφή του. Ο χρήστης δεν υποχρεούνταν πλέον να βρίσκεται στο γραφείο του ώστε να χρησιμοποιήσει τον υπολογιστή, αλλά είχε την δυνατότητα να τοποθετηθεί οπουδήποτε εντός 10 μέτρων και να ελέγχει τον κέρσορα του ποντικιού. Έλυσε το θέμα της απόστασης και της εργονομίας καθώς δεν περιορίζεται με καλώδια, δίνοντας στο χρήστη τη δυνατότητα του να ρυθμίζει ο ίδιος τον τρόπο με τον οποίο θα θέλει να πραγματοποιήσει τη διεπαφή του με τον υπολογιστή, σε περιφερειακό επίπεδο, αναπτύσσοντας έτσι τη κουλτούρα του απομακρυσμένου ελέγχου του υπολογιστή. Άθελά της για την υλοποίηση του αυτού, η Apple έπρεπε να λύση και το πρόβλημα των παρεμβολών του σήματος μεταξύ ασύρματων συσκευών και για αυτό χρησιμοποίησε το λογισμικό Adaptive Frequency Hopping (AFH).
 
-- [apple-wireless-mouse.jpg](https://github.com/FaidonTsetsis/images/blob/39e79b15798706627e671680929cfed7a7d8b02a/apple-wireless-mouse.jpg)
-- [apple-wireless-mouse-thumb.jpg](https://github.com/FaidonTsetsis/images/blob/39e79b15798706627e671680929cfed7a7d8b02a/apple-wireless-mouse-thumb.jpg)
-- [apple-wireless-mouse.md](https://github.com/FaidonTsetsis/_gallery/blob/e57ff4b5282f2c3e066c33456d6c942d1cf7bc35/apple-wireless-mouse.md)
-- [netlify δοκιμαστικό ατομικό](https://6377e4e588b1911b1341ca14--chimerical-wisp-a4fe66.netlify.app/gallery/apple-wireless-mouse/)
+- [apple-wireless-mouse-img.jpg](https://github.com/MainCharacters/images/blob/master/apple-wireless-mouse-img.jpg)
+- [apple-wireless-mouse-img-thumb.jpg](https://github.com/MainCharacters/images/blob/master/apple-wireless-mouse-img-thumb.jpg)
+- [apple-wireless-mouse.md](https://github.com/MainCharacters/_gallery/blob/master/apple-wireless-mouse.md)
+- [site οργανισμού σε vercel - apple wireless mouse](https://site-theta-black.vercel.app/gallery/apple-wireless-mouse/)
 
 2) Apollo DN 330 Touchpad
 
-Η εικόνα αυτή αποτυπώνει τον πρώτο υπολογιστή που χρησιμοποίησε τη τεχνολογία του Touchpad, με την οποία ο χρήστης βίωσε μία εναλλακτική μορφή περιήγησης του κένσορα κάνοντας χρήση απευθείας των δακτύλων του για την αναπαράσταση του ποντικιού. Αυτή η καινοτομία οδήγησε στο γνωστό σε όλους μας Touchpad των λάπτοπ, και άνοιξε τον δρόμο για τη χρήση του υπολογιστή χωρίς συμβατικό ποντίκι.
+Η εικόνα αυτή απεικονίζει το πληκτρολόγιο του Apollo DN330 όπου είχε ενσωματωμένη μία εναλλακτική μορφή ποντικιού - το touchpad. Το υπολογιστικό σύστημα Apollo ήταν το πρώτο που υιοθέτησε τη τεχνολογία του touchpad, για της οποίας ο έλεγχος του κέρσορα γινόταν με τη χρήση των δαχτύλων του χρήστη πάνω στην επιφάνεια αφής και έπειτα πραγματοποιούταν σάρωση των συντεταγμένων από τις κινήσεις που καταχωρούταν από τα δάχτυλα του χρήστη. Αυτή η ιδέα ήταν ο πατέρας της αλληλεπίδρασης του χρήστη με τον υπολογιστή μέσω απευθείας επαφής, δίνοντας μία πιο φυσική αίσθηση στη διεπαφή του ανθρώπου με τον υπολογιστή. Η τεχνολογία αυτή αργότερα καθιερώθηκε για κάθε φορητό υπολογιστή.
 
-- [apollo-touchpad.jpg](https://github.com/FaidonTsetsis/images/blob/39e79b15798706627e671680929cfed7a7d8b02a/apollo-touchpad.jpg)
-- [apollo-touchpad-thumb.jpg](https://github.com/FaidonTsetsis/images/blob/39e79b15798706627e671680929cfed7a7d8b02a/apollo-touchpad-thumb.jpg)
-- [apollo-touchpad.md](https://github.com/FaidonTsetsis/_gallery/blob/e57ff4b5282f2c3e066c33456d6c942d1cf7bc35/apollo-touchpad.md)
-- [netlify δοκιμαστικό ατομικό](https://6377e4e588b1911b1341ca14--chimerical-wisp-a4fe66.netlify.app/gallery/apollo-touchpad/)
+- [apollo-dn330-touchpad.jpg](https://github.com/MainCharacters/images/blob/master/apollo-dn330-touchpad.jpg)
+- [apollo-dn330-touchpad-thumb.jpg](https://github.com/MainCharacters/images/blob/master/apollo-dn330-touchpad-thumb.jpg)
+- [apollo-touchpad.md](https://github.com/MainCharacters/_gallery/blob/master/apollo-touchpad.md)
+- [site οργανισμού σε vercel - apollo touchpad](https://site-theta-black.vercel.app/gallery/apollo-touchpad/)
 
 **Διαδικαστικά**
 
