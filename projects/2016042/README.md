@@ -16,7 +16,7 @@
 | 8 | Άσκηση γραμμής εντολών | [Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1770) |Ολοκλήρωση των ζητούμενων του παραδοτέου |
 | 9 | Συμμετοχικό περιεχόμενο B2 | [Παραδοτέο 9](https://github.com/courses-ionio/help/discussions/1853) |Ολοκλήρωση των ζητούμενων του παραδοτέου |
 | 10 | Άσκηση γραμμής εντολών | [Παραδοτέο 10](https://github.com/courses-ionio/help/discussions/1878) |Ολοκλήρωση των ζητούμενων του παραδοτέου |
-| 11 | Κατασκευή του βιβλίου Β | | |
+| 11 | Κατασκευή του βιβλίου Β |Παραδοτ[](https://github.com/courses-ionio/help/discussions/1961) | |
 | 12 | Τελική αναφορά* | | |
 <br />
 
@@ -132,6 +132,11 @@ Netlify:
   
   [![asciinema 1](https://asciinema.org/a/543466.svg)](https://asciinema.org/a/543466)
   [![asciinema 2](https://asciinema.org/a/543460.svg)](https://asciinema.org/a/543460)
+  
+  # Παραδοτέο 11
+  Για την εκπόνηση αυτού του παραδοτέου, πρόσθεσα στο βιβλίο τη μελέτη περίπτωσης του HP-150 και τη βιογραφία του William Hewlett.Καταρχάς, πρόσθεσα στο `make-latex.sh` μια εντολή pandoc για να κάνω generate το βιβλίο σε μορφη epub. Στη συνέχεια, πρόσθεσα τη μελέτη περίπτωσης και τη βιογραφία στo submodule extras και μετά έτρεξα το `make-latex.sh και έκανα genarate to βιβλίο. Παρακάτω παραθέτω το link από το φάκελο `book` ο οποίος περιέχει το βιβλίο σε μορφή latex, pdf και epub. Επίσης δίνω το link από το φάκελο `pics` ο οποίος περιέχει τα screenshot που χρειάζονται για το παραδοτέο:
+- [book](https://github.com/MarAkar98/kallipos/tree/master/book)
+- [pics](https://github.com/MarAkar98/kallipos/tree/master/pics)
 
  
 
