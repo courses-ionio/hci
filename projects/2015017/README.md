@@ -81,6 +81,14 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
 ### Το link για τα includes:
 - [`Link_for_includes`](https://github.com/p15kara/site/blob/master/_includes/cs-Informatics.md)
 
+<h2>ΠΑΡΑΔΟΤΈΟ 8<h2>
+
+Για το όγδοο παραδοτέο έφτιαξα μια σειρά εντολών σε ένα shell script, που παρουσιάζω παρακάτω τόσο στο asciinema όσο και στα υπόλοιπα links.
+### To link για το asciinema:
+- [`Link_for_.asciinema`](https://asciinema.org/a/SwgPbVlEGDpzsj3ZHd5ZcdgBD)
+### To link για το αρχείο tou kwdika:
+- [`Link_for_.code`](https://github.com/p15kara/d/blob/0e69340f94c3993490cb0a09fc4c29a1e0d6c3b3/mycode)
+
 <h2>ΠΑΡΑΔΟΤΕΟ 9</h2>
 Για το ένατο παραδοτέο επέλεξα να κάνω την βιογραφία του ανθρώπου που δημιούργησε ένα από τα αντικείμενα που ανέβασα στις εικόνες των προηγουμενων παραδοτέων.Συγκεκριμένα έκανα την βιογραφία του WIlliam Lear, ιδρυτή της εταιρίας Lear Siegler που κατασκεύασε το ADM-3A.Πιο συγκεκριμένα η εταιρία του η LSI Το 1976,κυκλοφόρησε το ADM-3A, ένα από τα πρώτα τερματικά βίντεο υπολογιστή, με μια νέα βιομηχανική χαμηλή τιμή μονάδας 995 $.
 (https://user-images.githubusercontent.com/22730488/204866509-b4c61920-ab3a-4ec4-a4d5-88ba69390a3c.jpg)
