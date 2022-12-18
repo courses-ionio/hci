@@ -99,7 +99,7 @@ tasks να συνεχίζω και να πετυχαίνω μικρούς στό
 [`Link_for_site`](https://p15kara.netlify.app//biography/bio-lear/)
 ### Το link για τα includes
 [`Link_for_includes`](https://github.com/p15kara/site/blob/master/_includes/bio-lear.md)
-### Η βιβλιογραφία της ερευνας μου:
+### Η βιβλιογραφία της ερευνας μου: 
 
 <li>https://www.britannica.com/biography/William-P-Lear</li>
 <li>https://en.wikipedia.org/wiki/Bill_Lear</li>
