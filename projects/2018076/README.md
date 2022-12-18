@@ -13,7 +13,7 @@
 | 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1544) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1829) | |
 | 6 | Κατασκευή του βιβλίου Α | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1947) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1970) | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
