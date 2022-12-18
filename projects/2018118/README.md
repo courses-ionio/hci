@@ -90,14 +90,15 @@
 
 # Παραδοτέο 6
 
-Για την κατασκευή του βιβλίου, ξεκίνησα με την μετατροπή του make-latex.sh αρχείου ώστε να μπορέσω να μετατρέψω το αρχείο σε PDF, διαλέγοντας font και κάνοντας μερικές αλλαγές για την ορθή λειτουργία του. Στην συνέχεια προχώρησα στην δημιουργία δικού μου αρχείου με lua το οποίο βασίζεται στο αρχείο figure.lua, όπου και επέλεξα να συνεισφέρω κάνοντας ένα κείμενο για την γλώσσα προγραμματισμού B, καθώς συσχετίζεται άμεσα με τις υπόλοιπες συνεισφορές μου σε άλλα παραδοτέα και είναι σχετικό με την θεματολογία του βιβλίου.
+Στο συγκεκριμένο παραδοτέο, χρειάστηκε να κάνω fork το αποθετήριο [kallipos](https://github.com/Drexion/kallipos), επεξεργάστηκα το αρχείο make-latex.sh το οποίο χρησιμοποίησα για την δημιουργία του pdf, δημιούργισα το δικό μου φίλτρο [contribution.lua](https://github.com/Drexion/kallipos/blob/master/contribution.lua) και σημείωση για το βιβλίο [contribution.md](https://github.com/Drexion/kallipos/blob/master/contribution/contribution.md).
 
-| Deliverables |  Links |
-| --- | --- |
-| PDF book | [book.pdf](https://github.com/Drexion/kallipos/blob/master/book/book.pdf)
-| PDF book - contribution| [book-contribution.jpg](https://github.com/Drexion/kallipos/blob/master/book/book-contribution.jpg)
-| Contribution repository | [b-language.md](https://github.com/Drexion/kallipos/blob/master/contribution/b-language.md)
-| Lua File | [contribution.lua](https://github.com/Drexion/kallipos/blob/master/contribution.lua)
+## Σημειώσεις σχετικά με τα παραπάνω
+
+Όπως παρατηρείται στο [make-latex.sh](https://github.com/Drexion/kallipos/blob/master/make-latex.sh) άλλαξα το font σε ένα δικό μου για να το διαφοροποιήσω από τα υπόλοιπα.
+
+Το φίλτρο [contribution.lua](https://github.com/Drexion/kallipos/blob/master/contribution.lua) έγινε με βάση το [epigraph.lua](https://github.com/Drexion/kallipos/blob/master/epigraph.lua) όπου αντιμετώπισα μερικά προβλήματα με την προσθήκη bold, italic και αλλαγή γραμμής (/n). Δημιούργησα και το αντίστοιχο ερώτημα στο [discussions](https://github.com/courses-ionio/help/discussions/1814) όπου με βοήθησαν οι υπόλοιποι φοιτητές. 
+
+Για την συμμετοχή μου, αξιωποιώντας τα παραπάνω δημιούργησα το [βιβλίο σε pdf](https://github.com/Drexion/kallipos/blob/master/book/book.pdf) καθώς και έκανα την δική μου προσθήκη δημιουργώντας το αρχείο [contribution.md](https://github.com/Drexion/kallipos/blob/master/contribution/contribution.md) όπου και έγινε [προσθήκη στο βιβλίο](https://github.com/Drexion/kallipos/blob/master/book/book-contribution.jpg).
 
 # Παραδοτέο 7
 
