@@ -15,7 +15,7 @@ https://p15kara.netlify.app/
 | 5 | Συμμετοχικό περιεχόμενο A2 |https://github.com/courses-ionio/help/discussions/1442 | |
 | 6 | Κατασκευή του βιβλίου Α | https://github.com/courses-ionio/help/discussions/1637| |
 | 7 | Συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/help/discussions/1673 | |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | Άσκηση γραμμής εντολών | https://github.com/courses-ionio/help/discussions/1967| |
 | 9 | Συμμετοχικό περιεχόμενο B2 |https://github.com/courses-ionio/help/discussions/1935 | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β |https://p15kara.netlify.app/ | |
