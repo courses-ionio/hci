@@ -51,7 +51,7 @@
 
 | Περιγραφή | Repository Link | Images | Netlify Link | Copyrights |
 | --- | --- | --- | --- | --- |
-| The Thrill of The Fight | [the-thrill-of-the-fight.md](https://github.com/Drexion/_gallery/blob/master/the-thrill-of-the-fight.md) | [Full Quality](https://github.com/Drexion/images/blob/master/thrill-of-the-fight.jpg) + [Thumbnail](https://github.com/Drexion/images/blob/master/thrill-of-the-fight-thumbnail.jpg) | [The Thrill of The Fight](pending) | [Boxing fight](https://www.youtube.com/watch?v=S2cX3KAAmos) |
+| The Thrill of The Fight | [the-thrill-of-the-fight.md](https://github.com/Drexion/_gallery/blob/master/the-thrill-of-the-fight.md) | [Full Quality](https://github.com/Drexion/images/blob/master/the-thrill-of-the-fight.jpg) + [Thumbnail](https://github.com/Drexion/images/blob/master/the-thrill-of-the-fight-thumbnail.jpg) | [The Thrill of The Fight](pending) | [Boxing fight](https://www.youtube.com/watch?v=S2cX3KAAmos) |
 | Valve Index | [Index Valve.md](https://github.com/Drexion/_gallery/blob/master/valve-index.md) | [Full Quality](https://github.com/Drexion/images/blob/master/valve-index.jpg) + [Thumbnail](https://github.com/Drexion/images/blob/master/valve-index-thumbnail.jpg) | [Valve Index](pending) | [New Generation VR](https://www.youtube.com/watch?v=6p1e_JSol8s) |
 
 
