@@ -102,14 +102,13 @@
 
 # Παραδοτέο 7
 
-Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Β1 αποφάσισα να ασχοληθώ με την δημιιουργία ενός case-study για το προγραμματιστικό περιβάλλον Microsoft Visual Studio. Θεωρώ ότι αποτελεί πολύ ενδιαφέρουσα προσθήκη σχετικά με το υλικό του Α1 και Α2 εφόσον οι γλώσσες προγραμματισμού συνδυάζονται άμεσα με τα IDE. Διάλεξα συγκεκριμένα το Visual Studio λόγω των μεγάλο αριθμών γλωσσών που υποστηρίζει καθώς και το extensibility που προσφέρει.
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Β1 αποφάσισα να ασχοληθώ με την δημιιουργία ενός case-study για το [Virtuix Omni](pending). Δημιούργησα ένα αρχείο [virtuix-omni.md](https://github.com/Drexion/site/blob/organization/_case-study/virtuix-omni.md) καθώς και το ανάλογο αρχείο [cs-virtuix.omni.md](https://github.com/Drexion/site/blob/organization/_includes/cs-virtuix-omni.md) όπου περιέχει αναλυτικά την πληροφορία όπου και πρόσθεσα μία [φωτογραφία](https://github.com/Drexion/images/blob/master/virtuix-omni.jpg) για να το αναδείξω. Γενικώς η διαδικασία ήταν πολύ ομαλή και εύκολη εφόσον πλέον έχουμε μάθει να διαχειριζόμαστε το netlify και το gituhb.
 
-| Netlify |  Case Study | Case Text |
-| --- | --- | --- |
-| [Netlify](https://p2018118-pibook.netlify.app/case-study/visual-studio/) | [Case Study Repository](https://github.com/Drexion/site/blob/master/_case-study/visual-studio.md) | [Case Text Repository](https://github.com/Drexion/site/blob/master/_case-study/cs-visual-studio.md) |
+Πηγές για όσα χρησιμοποιήθηκαν:
 
-Πηγές
-[Microsoft Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)
+https://en.wikipedia.org/wiki/Virtuix_Omni, 
+https://omni.virtuix.com, 
+https://www.virtuix.com
 
 # Παραδοτέο 8
 
