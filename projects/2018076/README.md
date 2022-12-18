@@ -1,7 +1,6 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 ### Προσωπικό Github προφίλ: [aggelos2000430](https://github.com/aggelos2000430)
 ### Ονοματεπώνυμο: Μπουικλής Άγγελος
-### e-mail: parodiesfactory@gmail
 ### Αριθμός Μητρώου: Π2018076
 ### [Ο οργανισμός μου](https://github.com/ContattoContare)
 ### [Το Asciinema μου](https://asciinema.org/~p18boui)
