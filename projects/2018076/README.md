@@ -4,8 +4,6 @@
 ### Αριθμός Μητρώου: Π2018076
 ### [Ο οργανισμός μου](https://github.com/ContattoContare)
 ### [Το Asciinema μου](https://asciinema.org/~p18boui)
-### [ActivelyLearn](https://read.activelylearn.com/#student/profile/settings)
-### [Ed Puzzle](https://edpuzzle.com/profile)
 
 | Εβδομάδα | Παραδοτέα | Links προς τις συζητήσεις του μαθήματος | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
