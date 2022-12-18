@@ -82,7 +82,7 @@
 | --- | --- | 
 | [Index Valve](pending) - [The Thrill of the fight](pending)| [Index Valve](pending) - [The Thrill of the fight](pending)|
 
-## Προσθήκη του The Thrill of the fight σε timeline/slides στο videogames
+## Προσθήκη του The Thrill of the fight σε timeline/slides στα videogames
 
 |  Διαφάνειες | Χρονολόγιο
 | --- | --- | 
