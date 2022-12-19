@@ -121,6 +121,9 @@
 - [`Νέα Markdown Tag`](https://github.com/Konstantina3/kallipos/blob/master/comment/Videogame%20Developers.md)
 - [`Φίλτρο lua`](https://github.com/Konstantina3/kallipos/blob/master/shmeiwsh.lua)
 
+![Screenshot from 2022-12-19 12-09-45](https://user-images.githubusercontent.com/56735185/208402553-e7bc5528-8beb-4eb3-8c4c-32ff13fb0385.png)
+
+
 ---
 
 # Παραδοτέο 7: Συμμετοχικό Περιεχόμενο Β1
