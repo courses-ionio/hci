@@ -69,7 +69,7 @@ https://courses-ionio.github.io/help/social/
 Η συγκεκριμένη εντολή χρησιμοποιείται για τον έλεγχο κσιρού στη συγκεκριμένη τοποθεσία που βρίσκεται και το μηχάνημα/άνθρωπος που εκτελεί την εντολή.
 Στα αποτελέσματα όπως φαίνεται και από το παρακάτω asciinema link περιλαμβάνονται και γραφικά για την ανάδειξη του καιρού του τρλεχοντος μήνα.
 
-Asciinema Link: https://asciinema.org/a/MSnyx3FXXV2RG5oZKpTNWFwEh
+Asciinema Link: https://asciinema.org/a/545988
 
 -Επίσης εγκατέστησα το Funtoo: 
 Μια βασική ομάδα προγραμματιστών και ο Daniel Robbins, ο ιδρυτής και ο προηγούμενος επικεφαλής του έργου του Gentoo Linux, δημιούργησαν τη διανομή που βασίζεται στο Gentoo, γνωστή ως Funtoo Linux, με στόχο την ενίσχυση των θεμελιωδών τεχνολογιών του Gentoo Linux. Η υποστήριξη Native UTF-8 είναι ενεργοποιημένη από προεπιλογή στο Funtoo Linux, μαζί με ένα κατανεμημένο δέντρο Portage και μια επικάλυψη Funtoo που έχει δημιουργηθεί χρησιμοποιώντας το εργαλείο δημιουργίας Funtoo Metro, ένα βελτιωμένο Portage με μικρότερο "δέντρο" mini-manifest, αυτοματοποιημένες εισαγωγές νέων αλλαγών Gentoo κάθε 12 ώρες, βελτιωμένη διαμόρφωση δικτύου και τρέχοντα σταθερά στάδια και στάδια Funtoo.
@@ -131,7 +131,7 @@ https://courses-ionio.github.io/help/social/
 Για το παραδοτέο επέλεξα στην άσκηση να επιλέξω και να εγκαταστήσω το todo.txt, ένα πρόγραμμα το οποίο βοηθάει στην οργάνωση καθημερινών εργασιών με χρήση γραμμών εντολών.
 Έτσι έτρεξα τις εντολές οι οποίες διαφαίνονται στο παρακάτω asciinema (add, list και prioritize των todo items).
 
-- Asciinema: https://asciinema.org/a/iU6lAfN2za278JMrUklMkA5wd
+- Asciinema: https://asciinema.org/a/cQI7klOSQV9NpAtu5U4J0qTOA
 - TODO.txt documentation: https://vimeo.com/3263629
 
 
@@ -158,7 +158,7 @@ https://courses-ionio.github.io/help/social/
 Οι γραμμές εντολών που έτρεξα διαφαίνονται στο παρακάτω asciinema καθώς και εικόνες στο link του αποθετηρίου μου για το πως οργανώθηκε αυτόματα η βιβλιοθήκη μου με τη χρήση της εντολής "beet import".
 Εκτελέσθηκαν επίσης και οι εντολές beet ls -p (εύρεση διαδρομής/path του φακέλου όπου βρίσκεται το τραγούδι) αλλά και beet ls (εύρεση τίτλου τρταγουδιού).
 
-- Asciinema: https://asciinema.org/a/hc1OpQH7syJ1LLTiYmeo7xNAb
+- Asciinema: https://asciinema.org/a/545987
 - Link από screenshot (Music Library): https://github.com/arse21/pictures-and-screenshots-for-demonstration/tree/main/beet-music-library-ss
 
 ## 11ο παραδοτέο 
