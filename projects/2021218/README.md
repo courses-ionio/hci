@@ -68,18 +68,16 @@
 
 ## Eβδομάδα Πέμπτη  - Συμμετοχικό περιεχόμενο A2
 
-Σε αυτό το παραδοτέο είχα να διμιουργήσω δύο διαφάνειες και δύο χρονολόγια για την σελίδα netlify
-Αναλυτικά:
-
 ### Διαφάνειες
-[OS](https://fancy-vacherin-2b621a.netlify.app/slides/os/)
-[GDE](https://fancy-vacherin-2b621a.netlify.app/slides/gde/)
+[GE](https://zippy-blini-96b614.netlify.app/slides/ge/)
+[CONSOLES](https://zippy-blini-96b614.netlify.app/slides/consoles/)
 
 ### Χρονολόγια
-[GEMT](https://fancy-vacherin-2b621a.netlify.app/timeline/gemt/)
-[AmigaPC](https://fancy-vacherin-2b621a.netlify.app/timeline/amigapc/)
+[GET](https://zippy-blini-96b614.netlify.app/timeline/getimeline/)
+[CMT](https://zippy-blini-96b614.netlify.app/timeline/console-timeline/)
 
 [αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
+
 ## Εβδομάδα Εκτη - Κατασκέυη του βιβλίου Α
 Σε αυτό το παραδοτέο μου ζητήθηκε να κάνω αλλαγή στο βιβλίο σε μορφή pdf.
 [book](https://github.com/StefanosSfinarolakis/kallipos/blob/master/book/book.pdf)
