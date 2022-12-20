@@ -96,11 +96,11 @@ EDIT: Έφτιαξα και το [netlify](https://zippy-blini-96b614.netlify.ap
 
 ## Eβδομάδα Όγδοη  - Άσκηση γραμμής εντολών 
 
-Σε αυτό το παραδοτέο μου ζητήθηκε να δημιουργήσω ένα bash αρχείο για να τρέχει ένα java κώδικα τις επιλογής μου. Επέλεξα μου είναι μία απλή αριθμομηχανή σε java.
-[asciinema](https://asciinema.org/a/rxZognPwFDPyqti2to8OXqq4K)
+Σε αυτό το παραδοτέο μου ζητήθηκε να χρησιμοποιήσω το τερματικο ως IDE. Επέλεξα μία διμιουργία ενός bash αρχείο όπου κάνει compile και άνοιγμα αρχεία . Το java μου είναι μία απλή αριθμομηχανή σε java.
+[asciinema](https://asciinema.org/a/HMXkBrbZAHXviXJux2OGcSuqu)
 [app](https://github.com/StefanosSfinarolakis/inf2021218)
 
-[![asciicast](https://asciinema.org/a/rxZognPwFDPyqti2to8OXqq4K.svg)](https://asciinema.org/a/rxZognPwFDPyqti2to8OXqq4K)
+[![asciicast](https://asciinema.org/a/HMXkBrbZAHXviXJux2OGcSuqu.svg)
 [αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
 
 
