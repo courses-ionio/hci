@@ -90,7 +90,7 @@
 ## Eβδομάδα Έβδομη - Συμμετοχικό περιεχόμενο B1
 
 Σε αυτό το παραδοτέο είχα να μελετήσω μια περίπτωση. Συγκεκριμένα επέλεξα να μελετήσω το χειριστίριο ως συσκευή εισόδου. Ορίστε το [casestudy](https://github.com/StefanosSfinarolakis/site/blob/master/_case-study/joystick.md) και το [joystick](https://github.com/StefanosSfinarolakis/site/blob/master/_includes/cs-joystick.md)
-EDIT: Έφτιαξα και το [netlify](https://fancy-vacherin-2b621a.netlify.app/case-study/joystick/) επειδή αντιμετώπιζα ένα προβλημα.............
+EDIT: Έφτιαξα και το [netlify](https://zippy-blini-96b614.netlify.app/case-study/joystick/) επειδή αντιμετώπιζα ένα προβλημα.............
 
 [about](https://github.com/StefanosSfinarolakis/hci/blob/2021218/projects/2021218/README.md)
 
