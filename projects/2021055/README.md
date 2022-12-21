@@ -178,7 +178,7 @@
 ## PULL REQUESTS
 * [md files](https://github.com/OMADA12/_gallery/pull/23)
 * [photos](https://github.com/OMADA12/site/pull/17)
-
+* [extraphotos](https://github.com/OMADA12/images/pull/31)
 
 # 4ο ΠΑΡΑΔΟΤΕΟ-WARM UPS CLI
 Σε αυτό το παραδοτέο είχαμε να εξασκηθούμε με διάφορα [warm-ups](https://github.com/epidrome/dokey). Προσωπικά ασχολήθηκα και εκτέλεσα δύο από τα διαθέσιμα που υπήρχαν.
