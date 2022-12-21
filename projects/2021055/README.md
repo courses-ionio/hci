@@ -274,6 +274,7 @@
 * [cs-LegoMindstorms.md](https://github.com/OMADA12/site/pull/25/commits/f6f99cdd1f1f3645f02ae8bb93afdd128bf69d1d) 
 * [LegoMindstorms.md](https://github.com/OMADA12/site/pull/25/commits/fcf8c947b1b943450bb4519d88d4e5254eaba806)
 * [Photos for case-study](https://github.com/OMADA12/images/pull/21/commits/4ed03122212819a80dadd29ef20ddc1faa1d2a7b)
+* [Extra photos for case-study](https://github.com/OMADA12/images/pull/30)
 
 # ΠΑΡΑΔΟΤΕΟ 8
 Σε αυτό το παραδοτέο είχαμε να ασχοληθούμε με 4 διαφορετικές [ασκήσεις](https://github.com/epidrome/dokey#hci). Προσωπικά επέλεξα την 3η άσκηση, στην όποια έπρεπε να δημιουργήσω ένα shell script το οποίο θα μετατρέπει αρχεία.
