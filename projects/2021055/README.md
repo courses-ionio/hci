@@ -271,7 +271,8 @@
 * https://robotsauthority.com/the-short-history-of-lego-mindstorms/
 
 ## PULL REQUESTS
-* [cs-LegoMindstorms.md](https://github.com/OMADA12/site/pull/25/commits/f6f99cdd1f1f3645f02ae8bb93afdd128bf69d1d) 
+~[cs-LegoMindstorms.md](https://github.com/OMADA12/site/pull/25/commits/f6f99cdd1f1f3645f02ae8bb93afdd128bf69d1d)~
+* [updated cs-LegoMindstorms.md](https://github.com/OMADA12/site/pull/35)
 * [LegoMindstorms.md](https://github.com/OMADA12/site/pull/25/commits/fcf8c947b1b943450bb4519d88d4e5254eaba806)
 * [Photos for case-study](https://github.com/OMADA12/images/pull/21/commits/4ed03122212819a80dadd29ef20ddc1faa1d2a7b)
 * [Extra photos for case-study](https://github.com/OMADA12/images/pull/30)
@@ -313,7 +314,8 @@
 * https://edu.ellak.gr/2016/08/02/seymour-papert-1928-2016-enas-protoporos-tis-ekpedefsis-ke-tis-pliroforikis/
 
 ## PULL REQUESTS
-* [bio-Papert.md](https://github.com/OMADA12/site/pull/26) 
+~[bio-Papert.md](https://github.com/OMADA12/site/pull/26)~
+* [updated bio-Papert.md](https://github.com/OMADA12/site/pull/36)
 * [Papert.md](https://github.com/OMADA12/site/pull/26)
 * [Photos for biography](https://github.com/OMADA12/images/pull/22)
 
