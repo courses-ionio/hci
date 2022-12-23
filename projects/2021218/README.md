@@ -16,17 +16,17 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | Εισαγωγή| [Click](https://github.com/courses-ionio/help/discussions/904) | |
-| 2 | Άσκηση γραμμής εντολών (linux install) |[Click](https://github.com/courses-ionio/help/discussions/1052) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 |[Click](https://github.com/courses-ionio/help/discussions/1190) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Click](https://github.com/courses-ionio/help/discussions/1331) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 |[Click](https://github.com/courses-ionio/help/discussions/1488) | |
-| 6 | Κατασκευή του βιβλίου Α |[Click](https://github.com/courses-ionio/help/discussions/1971#discussion-4679603) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 |[Click](https://github.com/courses-ionio/help/discussions/1705)  | |
-| 8 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1775) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 |[Click](https://github.com/courses-ionio/help/discussions/1820) | |
-| 10 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1872) | |
-| 11 | Κατασκευή του βιβλίου Β | | |
+| 1 | Εισαγωγή| [Click](https://github.com/courses-ionio/help/discussions/904) | Αυτην την εβδομάδα στην αρχή, δεν ήξερα με τη ακριβώς να ασχοληθώ, όπως δεν ήξερα την διαδικασία διεξαγωγής του μαθήματος οπότε αν και οχι ιδιαίτερα ικανοποιημένος θα είμαι επιεικής.   |
+| 2 | Άσκηση γραμμής εντολών (linux install) |[Click](https://github.com/courses-ionio/help/discussions/1052) | Έχοντας μπει πλέον στο μάθημα, έχοντας όμως καθόλου εμπειρία με το περιεχόμενο αυτόυ, δαπανήθηκαν αρκετές ώρες (για κάτι που σήμερα θα ήταν πανεύκολο), αλλά βγήκε το επιθυμητό αποτέλεσμα. |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[Click](https://github.com/courses-ionio/help/discussions/1190) | Στην αρχή εδώ, δεν ειχα ακόμα αποφασίσει με το περιεχόμενο των παραδοτέων, οπότε το τελικό παραδοτέο άλλαξε αρκετές φορές ομώς τώρα το θεωρώ αρκετά καλό |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Click](https://github.com/courses-ionio/help/discussions/1331) | Ξέροντας ποιά κάποια στοιχειώδη εργαλεία του Arch Linux το παραδοτέο αυτό ήταν αρκετά ευκολάκι. |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Click](https://github.com/courses-ionio/help/discussions/1488) | Όπως και το 3, το παραδοτέο αυτό υπαίστει αλλαγές, διότι ακόμα δεν είχα αποφασίσει με τι ακριβώς να ασχοληθώ... Παρόλο αυτα η τελική του μορφη είναι επαρκής. |
+| 6 | Κατασκευή του βιβλίου Α |[Click](https://github.com/courses-ionio/help/discussions/1971#discussion-4679603) | Η πρώτη γνωριμία μας με τις αλλαγές στο βιβλίο, νομίζω όπως για αρκετούς, έτσι και σε έμενα φάνηκε δύσκολο, παρόλο αυτά με την βοήθεια των guides των συναδέλφων μου, το παραδοτέο έγινε. |
+| 7 | Συμμετοχικό περιεχόμενο B1 |[Click](https://github.com/courses-ionio/help/discussions/1705)  | Με αρκετή έρευνα, αλλά έχοντας ποιά αποφασίσει με τι θα ασχοληθώ, το παραδοτέο αυτό ειναι ένα απο τα αγαπημένα μου και θεωρώ την δουλειά του αρκετά ωραία.  |
+| 8 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1775) | Δεν έχω πολλά να αναφέρω εδώ τώρα ποιά μπορώ να χρησιμοποιώ linux οπότε μπορώ και να προγραμματίζω εκεί... |
+| 9 | Συμμετοχικό περιεχόμενο B2 |[Click](https://github.com/courses-ionio/help/discussions/1820) | Για αυτό το παραδοτέο, θεωρώ οτι διάλεξα την καταλληλότερη βιογραφία.. |
+| 10 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1872) | Όπως και το 8.. αρκετά εύκολο και καλό. |
+| 11 | Κατασκευή του βιβλίου Β |  | 
 | 12 | Τελική αναφορά* | | |
 
 
