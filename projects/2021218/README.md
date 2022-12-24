@@ -26,7 +26,7 @@
 | 8 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1775) | Δεν έχω πολλά να αναφέρω εδώ τώρα ποιά μπορώ να χρησιμοποιώ linux οπότε μπορώ και να προγραμματίζω εκεί... |
 | 9 | Συμμετοχικό περιεχόμενο B2 |[Click](https://github.com/courses-ionio/help/discussions/1820) | Για αυτό το παραδοτέο, θεωρώ οτι διάλεξα την καταλληλότερη βιογραφία.. |
 | 10 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1872) | Όπως και το 8.. αρκετά εύκολο και καλό. |
-| 11 | Κατασκευή του βιβλίου Β |  | 
+| 11 | Κατασκευή του βιβλίου Β | [Click](https://github.com/courses-ionio/help/discussions/1977) | Παρόμοιο με το 6.. | 
 | 12 | Τελική αναφορά* | | |
 
 
@@ -119,4 +119,15 @@ EDIT: Έφτιαξα και το [netlify](https://zippy-blini-96b614.netlify.ap
 
 [![asciicast](https://asciinema.org/a/RNYt3SuL9aSBiDHgiJ6qnstZu.svg)](https://asciinema.org/a/RNYt3SuL9aSBiDHgiJ6qnstZu)
 
+[αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
+
+## Εβδομάδα Εντέκατη - Κατασκευή του βιβλίου β
+
+Παραθέτο το παραδοτέο 11
+[epub](https://github.com/StefanosSfinarolakis/kallipos/blob/master/book/book.epub)
+[earlygamingconsoles](https://github.com/StefanosSfinarolakis/kallipos/blob/master/contribution/earlygamingconsoles.md)
+[cs-joystick](https://github.com/StefanosSfinarolakis/kallipos/blob/master/contribution/cs-joystick.md)
+[ken-kutaragi](https://github.com/StefanosSfinarolakis/kallipos/blob/master/contribution/ken-kutaragi.md)
+[screenshot1](https://github.com/StefanosSfinarolakis/inf2021218/blob/main/Screenshot%20from%202022-12-24%2016-50-43.png)
+[screenshot2](https://github.com/StefanosSfinarolakis/inf2021218/blob/main/Screenshot%20from%202022-12-24%2016-52-01.png)
 [αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
