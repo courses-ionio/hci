@@ -27,7 +27,7 @@
 | 9 | Συμμετοχικό περιεχόμενο B2 |[Click](https://github.com/courses-ionio/help/discussions/1820) | Για αυτό το παραδοτέο, θεωρώ οτι διάλεξα την καταλληλότερη βιογραφία.. |
 | 10 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1872) | Όπως και το 8.. αρκετά εύκολο και καλό. |
 | 11 | Κατασκευή του βιβλίου Β | [Click](https://github.com/courses-ionio/help/discussions/1977) | Παρόμοιο με το 6.. | 
-| 12 | Τελική αναφορά* | | |
+| 12 | Τελική αναφορά* |[Click]() | Μετά από πολή προσπάθεια, τελικά θεωρώ πως έμαθα πολλά από αυτό το μάθημα αλλά το πιο σημαντικό είναι το τι πραγματικά με ενδιαφέρει στον τομέα τις πληροφορικής..|
 
 
 <br /><br />
@@ -131,3 +131,9 @@ EDIT: Έφτιαξα και το [netlify](https://zippy-blini-96b614.netlify.ap
 [screenshot1](https://github.com/StefanosSfinarolakis/inf2021218/blob/main/Screenshot%20from%202022-12-24%2016-50-43.png)
 [screenshot2](https://github.com/StefanosSfinarolakis/inf2021218/blob/main/Screenshot%20from%202022-12-24%2016-52-01.png)
 [αναφορά](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
+
+## Eβδομάδα Δώδεκα - Τελική αναφορά
+
+Μετά από πολή προσπάθεια, τελικά θεωρώ πως έμαθα πολλά από αυτό το μάθημα αλλά το πιο σημαντικό είναι το τι πραγματικά με ενδιαφέρει στον τομέα τις πληροφορικής..
+
+[αναφορά](https://github.com/StefanosSfinarolakis/hci/edit/2021218/projects/2021218/README.md)
