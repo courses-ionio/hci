@@ -113,6 +113,11 @@ Slides
 - [asciinema](https://asciinema.org/a/34BHlsWxntKbbp4cb87MBxiye)
 - [script](https://github.com/p16kyri/Paradoteo-8/blob/main/cnr.sh)
 
+Μετά από σχόλιο του διδάσκοντα αποφάσησα να γράψω ένα καινούργιο script το οποίο μετατρέπει αρχεία markdown σε pdf και docx. Διορθώσεις:
+
+- [Καινούργιο script](https://github.com/p16kyri/Paradoteo-8/blob/main/convertmd.sh)
+- [Καινούργιο asciinema](https://asciinema.org/a/545047)
+
 
 # Παραδοτέο 9
 
@@ -141,4 +146,18 @@ Slides
 
 Για το 10ο παραδοτέο πειραματίστηκα με το groff. Αφού κατέβασα το groff, έφτιαξα ένα αρχείο text.ms για να δοκιμάσω τα ms macros.
 Επίσης έφτιαξα ένα μικρό script το οποίο κάνει compile σε postscript και σε pdf. Για να ασχοληθώ με το groff συμβουλεύτικα το [arch wiki](https://man.archlinux.org/man/groff_ms.7). Παρακάτω έχω το asciinema όπου δείχνω το compile.sh και το text.ms:
+
+- [script](https://github.com/p16kyri/Paradoteo-8/blob/main/compile.sh)
 - [asciinema](https://asciinema.org/a/544090)
+
+Αποφάσισα να βελτιώσω το script μου προσθέτοντας τη δυνατότητα να επιλέξει ο χρήστης το άμα θα μετατρέψει αρχείο markdown σε pdf ή θα κάνει compile με το groff, αρχείο ms σε pdf.
+
+- [Καινούργιο script](https://github.com/p16kyri/Paradoteo-8/blob/main/convert.sh)
+- [Καινούργιο asciinema](https://asciinema.org/a/545048)
+
+
+# Παραδοτέο 11
+
+Για το 11ο παραδοτέο πρόσθεσα τη μελέτη περίπτωσης του xerox globalview και τη βιογραφία του bill gates στο βιβλίο kallipos. Παρακάτω δίνω τον φάκελο με τα αρχεία του βιβλίου που έκανα generate.
+
+- [book](https://github.com/p16kyri/kallipos/tree/master/book)
