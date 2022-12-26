@@ -185,12 +185,12 @@
 
 Αρχικά, με την εντολή [wttr](https://github.com/chubin/wttr.in) εμφάνισα στο terminal μου την πρόγνωση του καιρού για τον τόπο που διαμένω και για μια άλλη πόλη, επέλεξα αυτό το warm-up επειδή ήθελα να εκτελέσω μια καθημερινή λειτουργία χωρίς να την πάρω από κάπου έτοιμη(πχ κινητό,google).
 
-Στη συνέχεια, με την εντολή [youtube-dl](https://github.com/ytdl-org/youtube-dl) αναζήτησα και κατέβασα ένα mp3 κομμάτι από το youtube και με τη εντολή [mpv](https://github.com/mpv-player/mpv) το αναπαρήγαγα στο τερματικό μου, η ιδέα το να μπορώ να τρέχω διάφορα μουσικά κομμάτια μέσω εντολών και μόνο, μου φάνηκε αρκετά ενδιαφέρουσα και είναι ένας διαφορετικός τρόπος ο οποίος δεν χρησιμοποιείται συχνά.
+Στη συνέχεια, με την εντολή [youtube-dl](https://github.com/ytdl-org/youtube-dl) αναζήτησα και κατέβασα ένα mp3 κομμάτι από το youtube και με τη εντολή [mpv](https://github.com/mpv-player/mpv) το αναπαρήγαγα στο τερματικό μου. Η ιδέα το να μπορώ να τρέχω διάφορα μουσικά κομμάτια μέσω εντολών και μόνο, μου φάνηκε αρκετά ενδιαφέρουσα και είναι ένας διαφορετικός τρόπος ο οποίος δεν χρησιμοποιείται συχνά.
 
 
 
 # ASCIINEMA VIDEOS
-[ΚΑΙΡΟΣ](https://asciinema.org/a/533124)
+[ΚΑΙΡΟΣ](https://asciinema.org/a/548042)
 
 [MUSIC IN TERMINAL](https://asciinema.org/a/533149)
 
@@ -308,7 +308,7 @@
 * [MyRepo.md](https://github.com/Axileaszervos/EXERCISE-8/blob/main/MyRepo.md)
 * [scratch.epub](https://github.com/Axileaszervos/EXERCISE-8/blob/main/scratch.epub)
 * [scratch.html](https://github.com/Axileaszervos/EXERCISE-8/blob/main/scratch.html)
-* [asciinema demo](https://asciinema.org/a/541688)
+* [asciinema demo](https://asciinema.org/a/540278)
 
 
 # ΠΑΡΑΔΟΤΕΟ 9
