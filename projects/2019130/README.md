@@ -109,3 +109,14 @@
 
 ### Esνδεικτικό screenshot
 ![Screenshot epub](https://i.ibb.co/MZZcmbv/epub-example-photo.jpg)
+
+## Discussions i've participated.  
+
+1. Q&A [Πρόβλημα με το usb bootable του ARCH](https://github.com/courses-ionio/help/discussions/1073#discussioncomment-3887714)
+2. Show And Tell [Παραδοτέο 3 | Π2016072](https://github.com/courses-ionio/help/discussions/1169)
+3. Q&A [pibook site submodule Error: Repository not found](https://github.com/courses-ionio/help/discussions/1177#discussioncomment-3940647)
+4. Q&A [Συμμετοχικό παραδοτέο εβδομάδας Α1](https://github.com/courses-ionio/help/discussions/1173)
+5. Q&A [SOS!!! timeline fix](https://github.com/courses-ionio/help/discussions/1451)
+6. Q&A [Netlify problems](https://github.com/courses-ionio/help/discussions/1873)
+7. Q&A [Class code](https://github.com/courses-ionio/help/discussions/1966)
+8. Q&A [netlify error- incompatible with the current version, 3.0.8](https://github.com/courses-ionio/help/discussions/1972#discussioncomment-4498926)
