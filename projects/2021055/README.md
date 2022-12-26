@@ -35,7 +35,7 @@
 Ήταν η πρώτη μου επαφή με σύστημα linux, ποσό μάλλον ο τρόπος εγκατάστασης του ο οποίος ήταν με commands και όχι με κάποιο γραφικό περιβάλλον όπως έχω συνηθίσει. Αρχικά, το πρώτο μου δίλημμα ήταν εάν η εγκατάσταση θα γινόταν σε usb stick ή σε partition του ήδη υπάρχον δίσκου μου(dual-boot), τελικά κατέληξα σε usb stick μιας και είναι ο ασφαλέστερος τρόπος για έναν αρχάριο σαν έμενα.
 
 
-Το πρώτο πρόβλημα που συνάντησα ήταν το wiki του arch linux, προσωπικά με δυσκόλεψε πολύ και με έκανε να καταφύγω σε αυτό εδώ το [tutorial](https://www.youtube.com/watch?v=yaThYGr37DI). Στην συνεχεία, το arch κατά την εγκατάσταση δεν έχει τι δυνατότητα σύνδεσης με wifi πράγμα το οποίο με ανάγκασε να προσπαθήσω ανεπιτυχώς να εγκαταστήσω το `iwctl` και στη συνέχεια να συμβιβαστώ με ένα ethernet cable το όποιο προσωπικά δεν με βόλεψε αφού το router μου είναι αρκετά μακριά μου. Τέλος, το command `install-grub` δεν μου δούλευε με αποτέλεσμα να ψάχνω σε διάφορα forums για εναλλακτικά commands.
+Το πρώτο πρόβλημα που συνάντησα ήταν το wiki του arch linux, προσωπικά με δυσκόλεψε πολύ και με έκανε να καταφύγω σε αυτό το [tutorial](https://www.youtube.com/watch?v=yaThYGr37DI). Στην συνεχεία, το arch κατά την εγκατάσταση δεν έχει την δυνατότητα σύνδεσης με wifi πράγμα το οποίο με ανάγκασε να προσπαθήσω ανεπιτυχώς να εγκαταστήσω το `iwctl` και να συμβιβαστώ με ένα ethernet cable. Τέλος, το command `install-grub` δεν μου δούλευε με αποτέλεσμα να ψάχνω σε διάφορα forums για εναλλακτικά commands.
 
 
 ## ΤΡΟΠΟΣ ΕΓΚΑΤΑΣΤΑΣΗΣ ΒΗΜΑ-ΒΗΜΑ
@@ -46,7 +46,7 @@
 Έπειτα από αυτό, έκανα εγκατάσταση το πρώτο μεγάλο πακέτο(`pacstrap /mnt base base-devel linux-linux firmware vim`). Με την εντολή `arch-chroot /mnt` μπήκα σε root profile με σκοπό την εγκατάσταση του grub. Στην συνέχεια με την εντολή `timedatectl list-timezones | "enter the time zone"` πρόσθεσα την ώρα και την ημερομηνία της πόλης μου με σκοπό το σύστημα μου να είναι σωστά ενημερωμένο. Τέλος, με την εντολή `pacman -S grub` εγκατέστησα το grub και με την εντολή `pacman -S netowrkmanager`
 του απαραίτητους drivers για το δίκτυο στο σύστημα μου.
 
-Πριν κάνω reboot και τελειώσω το installation, φρόντισα να δημιουργήσω ένα προφίλ με την εντολή `vim /etc/hostname` και προσωπικό κωδικό με την εντολή `passwd`. Μετά την εκτέλεση αυτών των 2 βγήκα από το root profile με την εντολή `exit` και με την εντολή `reboot` πραγματοποίησα επανεκκίνηση στο σύστημα μου.
+Πριν κάνω reboot και τελειώσω το installation, φρόντισα να δημιουργήσω ένα προφίλ με την εντολή `vim /etc/hostname` και προσωπικό κωδικό με την εντολή `passwd`. Μετά την εκτέλεση αυτών των 2, βγήκα από το root profile με την εντολή `exit` και με την εντολή `reboot` πραγματοποίησα επανεκκίνηση στο σύστημα μου.
 
 ### ASCIINEMA VIDEOS
 * [`neofetch-journalctl`](https://asciinema.org/a/528720)
@@ -55,21 +55,21 @@
 
 # 3ο ΠΑΡΑΔΟΤΕΟ-ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α1 
 
-Σε αυτό το παραδοτέο απαιτείται η συμμετοχή όλων μας τόσο ατομικά όσο και ομαδικά με τον εμπλουτισμό περιεχομένου στο ήδη υπάρχον [site](https://pibook.epidro.me). Ως admin της ομάδας μου, δημιoύργησα το [site](omadaa12.netlify.app) και πρόσθεσα τα απαραίτητα [modules](https://github.com/orgs/OMADA12/repositories) στο reposiroty της ομάδας μου.
+Σε αυτό το παραδοτέο απαιτείται η συμμετοχή όλων μας τόσο ατομικά όσο και ομαδικά με σκοπό τον εμπλουτισμό περιεχομένου στο ήδη υπάρχον [site](https://pibook.epidro.me)
 
-Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://axileaszervos.netlify.app) και δημιούργησα 2 εικόνες, μία για τον Αpple iMac G3 και μία για το VirtualBoy
+Στο ατομικό κομμάτι της εβδομαδιαίας δραστηριότητας, δημιούργησα το προσωπικό μου [site](https://axileaszervos.netlify.app) και έφτιαξα 2 εικόνες, μία για τον Αpple iMac G3 και μία για το VirtualBoy
 
-## Σύντομη παρουσίαση του Apple_iMac
+## Σύντομη παρουσίαση του Apple iMac G3
  
  ![Imacn](https://user-images.githubusercontent.com/115211756/201630219-c21a755a-2783-4224-96fa-af281ab58f33.jpg)
 
-Ο Apple_iMac ήταν ο πρώτος iMac που κυκλοφόρησε η Apple. Ο Apple_iMac ξεχώριζε για το καινοτόμο desing που είχε, με μοντέρνα πλαστικά και εξωτικά χρώματα. Παρείχε εύκολη σύνδεση στο διαδίκτυο και είχε γραφικό περιβάλλον.
+Ο Apple iMac G3 ήταν ο πρώτος iMac που κυκλοφόρησε η Apple. Ξεχώριζε για το καινοτόμο desing που είχε, με μοντέρνα πλαστικά και εξωτικά χρώματα. Ακόμη, παρείχε εύκολη σύνδεση στο διαδίκτυο και είχε γραφικό περιβάλλον.
 
-## Σύντομη παρουσίαση του virtualboy
+## Σύντομη παρουσίαση του Virtual Boy
 
 ![Virtualboyn](https://user-images.githubusercontent.com/115211756/201630196-9fa6ad70-7f41-43db-8acc-13b2fba5406f.jpg)
 
-Το virtualboy κυκλοφόρησε το 1995 από την Nintendo και ήταν το πρώτο εμπορικό virtual reality headset που κυκλοφόρησε ποτέ. Με το virtualboy η εταιρία ήθελε να εισάγει την εικονική πραγματικότητα στο gaming άλλα λίγο η παρωχημένη τεχνολογία της εποχής και λίγο το κόκκινο χρώμα στα παιχνίδια που ζάλιζε τους παίκτες έκαναν την συσκευή  να αποτύχει.
+Το Virtual Boy κυκλοφόρησε το 1995 από την Nintendo και ήταν το πρώτο εμπορικό virtual reality headset που κυκλοφόρησε ποτέ. Με το Virtual Boy η εταιρία ήθελε να εισάγει την εικονική πραγματικότητα στο gaming άλλα λίγο η παρωχημένη τεχνολογία της εποχής και λίγο το κόκκινο χρώμα στα παιχνίδια που ζάλιζε τους παίκτες, έκαναν την συσκευή να αποτύχει.
 
 
 
@@ -79,11 +79,11 @@
 
 * #### Το προσωπικό μου [site](https://axileaszervos.netlify.app)
  
- ### Apple_iMac:
+ ### Apple iMac G3:
     
-   ~Tο .md αρχείο του Apple_iMac στο προσωπικό μου αποθετήριο: [Apple_iMac.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Imac.md)~ 
+   ~Tο .md αρχείο του Apple iMac G3 στο προσωπικό μου αποθετήριο: [Imac.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Imac.md)~ 
    
-   ~Η εικόνα του Apple_iMac στο προσωπικό μου site: [Apple_iMac](https://axileaszervos.netlify.app/gallery/imac/)~
+   ~Η εικόνα του Apple iMac G3 στο προσωπικό μου site: [Imac](https://axileaszervos.netlify.app/gallery/imac/)~
    
    ~Η κανονική εικόνα στο αποθετήριο μου: [Imac.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Imac.jpg)~
    
@@ -91,9 +91,9 @@
    
   ### VirtualBoy:
     
-   ~Tο .md αρχείο του VirtualBoy στο προσωπικό μου αποθετήριο: [VirtualBoy.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Virtualboy.md)~
+   ~Tο .md αρχείο του Virtual Boy στο προσωπικό μου αποθετήριο: [VirtualBoy.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Virtualboy.md)~
    
-   ~Η εικόνα του VirtualBoy στο προσωπικό μου site: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
+   ~Η εικόνα του Virtual Boy στο προσωπικό μου site: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
    
    ~Η κανονική εικόνα στο αποθετήριο μου: [VirtualBoy-photo](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Virtualboy.jpg)~
    
@@ -104,21 +104,21 @@
 
  * #### Το ομαδικό [site](https://omada122.netlify.app)
  
-  ### Apple_iMac:
+  ### Apple iMac G3:
  
-   ~Tο .md αρχείο του Apple_iMac στο αποθετήριο της ομάδας μου: [Apple_iMac.md](https://github.com/OMADA12/_gallery/blob/master/Imac.md)~
+   ~Tο .md αρχείο του Apple iMac G3 στο αποθετήριο της ομάδας μου: [Apple_iMac.md](https://github.com/OMADA12/_gallery/blob/master/Imac.md)~
    
-   ~Η εικόνα του Apple_iMac στο site της ομάδας μου: [Apple_iMac](https://axileaszervos.netlify.app/gallery/imac/)~
+   ~Η εικόνα του Apple iMac G3 στο site της ομάδας μου: [Apple_iMac](https://axileaszervos.netlify.app/gallery/imac/)~
    
    ~Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Imac.jpg](https://github.com/OMADA12/images/blob/master/Imac.jpg)~
    
    ~Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Imac-thumb.jpg](https://github.com/OMADA12/images/blob/master/Imac-thumb.jpg)~
    
- ### VirtualBoy:
+ ### Virtual Boy:
   
-   ~Tο .md αρχείο του VirtualBoy στο αποθετήριο της ομάδας μου: [VirtualBoy](https://github.com/OMADA12/_gallery/blob/master/Virtualboy.md)~
+   ~Tο .md αρχείο του Virtual Boy στο αποθετήριο της ομάδας μου: [VirtualBoy](https://github.com/OMADA12/_gallery/blob/master/Virtualboy.md)~
    
-   ~Η εικόνα του VirtualBoy στο site της ομάδας μου: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
+   ~Η εικόνα του Virtual Boy στο site της ομάδας μου: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
    
    ~Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [VirtualBoy.jpg](https://github.com/OMADA12/images/blob/master/Virtualboy.jpg)~
    
@@ -126,7 +126,7 @@
    
 # `UPDATE`
   Έπειτα από παρατηρήσεις του καθηγητή μου, πήρα την απόφαση να αλλάξω τις φωτογραφίες μου και να προσθέσω την γλώσσα προγραμματισμού `Logo` και την εκπαιδευτική σειρά από κατασκευές `Lego-Education-WeDo-2.0` όπου και οι δύο φωτογραφίες ανήκουν στον τομέα της εκπαιδευτικής τεχνολογίας.
-## Σύντομη παρουσίαση του `Lego-wedo 2.0`
+## Σύντομη παρουσίαση του `Lego-WeDo 2.0`
 
 ![legowedo123](https://user-images.githubusercontent.com/115211756/205507828-9f8f1580-fc5a-49f0-9d44-95a3b43e66cd.jpg)
 
@@ -148,7 +148,7 @@
 * Tο .md αρχείο της γλώσσας προγραμματισμού Logo στο προσωπικό μου αποθετήριο: [Logo.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Logo.md)
 * Η εικόνα της γλώσσας προγραμματισμού Logo στο προσωπικό μου site: [Logo](https://axileaszervos.netlify.app/gallery/logo/)
 * Η κανονική εικόνα της γλώσσας προγραμματισμού Logo στο αποθετήριο μου: [Logo.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Logo.jpg)
-* Η resized σε 160x160 pixels της γλώσσας προγραμματισμού Logo εικόνα στο αποθετήριο μου: [Logo-thumb.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Logo-thumb.jpg)
+* Η resized σε 160x160 pixels της γλώσσας προγραμματισμού Logo στο αποθετήριο μου: [Logo-thumb.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Logo-thumb.jpg)
 
 ### Lego WeDo:
 
