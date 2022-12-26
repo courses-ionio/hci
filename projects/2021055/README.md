@@ -102,13 +102,13 @@
    
 ## Τα Links και οι φωτογραφίες από το ομαδικό αποθετήριο:
 
- * #### Το ομαδικό [site](https://omada122.netlify.app)
+ * #### Το ομαδικό [site](https://omadaa12.netlify.app/)
  
   ### Apple iMac G3:
  
    ~Tο .md αρχείο του Apple iMac G3 στο αποθετήριο της ομάδας μου: [Apple_iMac.md](https://github.com/OMADA12/_gallery/blob/master/Imac.md)~
    
-   ~Η εικόνα του Apple iMac G3 στο site της ομάδας μου: [Apple_iMac](https://axileaszervos.netlify.app/gallery/imac/)~
+   ~Η εικόνα του Apple iMac G3 στο site της ομάδας μου: [Apple_iMac](https://omadaa12.netlify.app/gallery/imac/)~
    
    ~Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Imac.jpg](https://github.com/OMADA12/images/blob/master/Imac.jpg)~
    
@@ -118,7 +118,7 @@
   
    ~Tο .md αρχείο του Virtual Boy στο αποθετήριο της ομάδας μου: [VirtualBoy](https://github.com/OMADA12/_gallery/blob/master/Virtualboy.md)~
    
-   ~Η εικόνα του Virtual Boy στο site της ομάδας μου: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
+   ~Η εικόνα του Virtual Boy στο site της ομάδας μου: [VirtualBoy](https://omadaa12.netlify.app/gallery/virtualboy/)~
    
    ~Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [VirtualBoy.jpg](https://github.com/OMADA12/images/blob/master/Virtualboy.jpg)~
    
@@ -152,28 +152,28 @@
 
 ### Lego WeDo:
 
-* Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου αποθετήριο: [Legowedo.md]()
-* Η εικόνα της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου site: [Legowedo](https://axileaszervos.netlify.app/gallery/legowedo/)
-* Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo.jpg]()
-* Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo-thumb.jpg]()
+* Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου αποθετήριο: [LegoWeDo.md](https://github.com/Axileaszervos/_gallery/blob/6c8dd7864487f1f30aba8a20383aa719175f08ba/LegoWeDo.md)
+* Η εικόνα της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου site: [LegoWeDo](https://axileaszervos.netlify.app/gallery/legowedo/)
+* Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [LegoWeDo.jpg](https://github.com/Axileaszervos/images/blob/07348b001998fd0babfbd1c75f10d45153d73c78/LegoWeDo.jpg)
+* Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [LegoWeDo-thumb.jpg](https://github.com/Axileaszervos/images/blob/07348b001998fd0babfbd1c75f10d45153d73c78/LegoWeDo-thumb.jpg)
 
 ## Τα Links και οι φωτογραφίες από το ομαδικό αποθετήριο:
 
-* #### Το ομαδικό [site](https://omada122.netlify.app)
+* #### Το ομαδικό [site](https://omadaa12.netlify.app/)
 
 ### Lego-wedo:
 
-* Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/Axileaszervos/_gallery/blob/4f8133978e8322103b9e8d500602182d6fd66e0b/LegoWeDo.md)
-* Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo](https://axileaszervos.netlify.app/gallery/legowedo/)
-* Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Legowedo.jpg](https://github.com/OMADA12/images/blob/master/Legowedo.jpg)
-* Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Legowedo-thumb.jpg](https://github.com/OMADA12/images/blob/master/Legowedo-thumb.jpg)
+* Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [LegoWeDo.md](https://github.com/OMADA12/_gallery/blob/74ec47171553cd56f911bcd06a45fec2899a4861/Legowedo.md)
+* Η εικόνα του lego-wedo στο site της ομάδας μου: [LegoWeDo](https://omadaa12.netlify.app/gallery/legowedo/)
+* Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [LegoWeDo.jpg](https://github.com/OMADA12/images/blob/568dc9d3dd6847334d3c45e56dd27e057e1ef703/LegoWeDo.jpg)
+* Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [LegoWeDo-thumb.jpg](https://github.com/OMADA12/images/blob/568dc9d3dd6847334d3c45e56dd27e057e1ef703/LegoWeDo-thumb.jpg)
 
 ### Logo:
 
-* Tο .md αρχείο του Logo στο αποθετήριο της ομάδας μου: [Logo.md](https://github.com/OMADA12/_gallery/blob/master/Logo.md)
-* Η εικόνα του Logo στο site της ομάδας μου: [Logo](https://github.com/Axileaszervos/_gallery/blob/4f8133978e8322103b9e8d500602182d6fd66e0b/Logo.md)
-* Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [Logo.jpg](https://github.com/OMADA12/images/blob/master/Logo.jpg)
-* Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg](https://github.com/OMADA12/images/blob/master/Logo-thumb.jpg)
+* Tο .md αρχείο του Logo στο αποθετήριο της ομάδας μου: [Logo.md](https://github.com/OMADA12/_gallery/blob/74ec47171553cd56f911bcd06a45fec2899a4861/Logo.md)
+* Η εικόνα του Logo στο site της ομάδας μου: [Logo](https://omadaa12.netlify.app/gallery/logo/)
+* Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [Logo.jpg](https://github.com/OMADA12/images/blob/568dc9d3dd6847334d3c45e56dd27e057e1ef703/Logo.jpg)
+* Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg](https://github.com/OMADA12/images/blob/568dc9d3dd6847334d3c45e56dd27e057e1ef703/Logo-thumb.jpg)
 
 ## PULL REQUESTS
 * [md files](https://github.com/OMADA12/_gallery/pull/23)
