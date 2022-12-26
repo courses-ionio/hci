@@ -22,12 +22,12 @@
 | 12 | Τελική αναφορά* | | |
 
 # 1ο ΠΑΡΑΔΟΤΕΟ-ΕΙΣΑΓΩΓΗ
+Μέσα από το μάθημα "Επικοινωνία Ανθρώπου-Υπολογιστή" έχω θέσει κάποιους προσωπικούς στόχους στον εαυτό μου με σκοπό την μερική(αν όχι ολική) ολοκλήρωση τους μέχρι το τέλους του τρέχοντος εξαμήνου:
 
-Μέσα από το μάθημα "Επικοινωνία Ανθρώπου-Υπολογιστή" έχω θέσει κάποιους προσωπικούς στόχους στον εαυτό μου με σκοπό την μερική(άν όχι ολική) ολοκλήρωση τους μέχρι το τέλους του τρέχοντως εξαμήνου:
-* Πρώτα από όλα, με ενδιαφέρει να κατανοήσω στον μεγαλύτερο δυνατό βαθμό την πλατφόρμα github και τις δυνατότητες που προσφέρει στον χρήστη επειδή, θέλω να δημιουργήσω με τον σωστό τρόπο το προσωπικό μου portfolio.
-* Έπειτα, θέλω να εξελίξω τις ομαδικές μου ικανότητες και να μάθω να λειτουργώ σωστά ως μέλος μιας ομάδας, μιάς και οι άνθρωποι πρέπει να συνεργάζονται ομαδικά και όχι ατομικά, για το καλύτερο δυνατό αποτέλεσμα.
-* Ακόμη, έχοντας μάθει στη "ανακυκλώσιμη" γνώση, θέλω για πρώτη φορά να ανακαλύψω μόνος μου τις γνώσεις που χρειάζομαι, δίχως κάποιος να μου τις "σερβίρει" έτοιμες.
-* Τέλος και το πιο σημαντικό για εμένα, μέσα από την έρευνα που θα κάνω για την εκπαιδευτική τεχνολογία, θέλω να κατανοήσω όσο περισσότερο γίνεται το `πώς` μια υπολογιστική συσκευή μπορεί να αλληλεπιδράσει με τον σωστό τρόπο με έναν μαθητή και αποτελέσει ένα `εργαλείο` με απώτερο σκοπό την βοήθεια στην ανακάλυψη γνώσεων από τον ίδιο τον μαθητη. Αυτή η έρευνα θα αποτελέσει, τον οδηγό σε ένα ταξίδι το οποίο θα έχει ώς προορισμό την ανάπτυξη ενός δικού μου εκπαιδευτικού εργαλιού που θα καλύπτει τις πραγματικές ανάγκες εν μαθητή.
+Πρώτα από όλα, με ενδιαφέρει να κατανοήσω στον μεγαλύτερο δυνατό βαθμό την πλατφόρμα github και τις δυνατότητες που προσφέρει στον χρήστη επειδή, θέλω να δημιουργήσω με τον σωστό τρόπο το προσωπικό μου portfolio.
+Έπειτα, θέλω να εξελίξω τις ομαδικές μου ικανότητες και να μάθω να λειτουργώ σωστά ως μέλος μιας ομάδας, μιας και οι άνθρωποι πρέπει να συνεργάζονται ομαδικά και όχι ατομικά, για το καλύτερο δυνατό αποτέλεσμα.
+Ακόμη, έχοντας μάθει στη "ανακυκλώσιμη" γνώση, θέλω για πρώτη φορά να ανακαλύψω μόνος μου τις γνώσεις που χρειάζομαι, δίχως κάποιος να μου τις "σερβίρει" έτοιμες.
+Τέλος και το πιο σημαντικό για εμένα, μέσα από την έρευνα που θα κάνω για την εκπαιδευτική τεχνολογία, θέλω να κατανοήσω όσο περισσότερο γίνεται το πώς μια υπολογιστική συσκευή μπορεί να αλληλεπιδράσει με τον σωστό τρόπο με έναν μαθητή και αποτελέσει ένα εργαλείο με απώτερο σκοπό την βοήθεια στην ανακάλυψη γνώσεων από τον ίδιο τον μαθητή. Αυτή η έρευνα, θα αποτελέσει τον οδηγό σε ένα ταξίδι το οποίο θα έχει ως προορισμό την ανάπτυξη ενός δικού μου εκπαιδευτικού εργαλείου που θα καλύπτει τις πραγματικές ανάγκες ενός μαθητή.
  
 # 2ο ΠΑΡΑΔΟΤΕΟ-ΕΓΚΑΤΑΣΤΑΣΗ ΤΟΥ ARCH LINUX
 
@@ -130,51 +130,51 @@
 
 ![legowedo123](https://user-images.githubusercontent.com/115211756/205507828-9f8f1580-fc5a-49f0-9d44-95a3b43e66cd.jpg)
 
-Το Lego Education WeDo 2.0 είναι μια σειρά από κατασκευές με τουβλάκια της Lego και μηχανικά εξαρτήματα(γρανάζια, κινητήρες, αισθητήρες). Επικοινωνούν με  ειδικευμένο πρόγραμμα της εταιρίας το οποίο παρέχει, γραφικό περιβάλλον με ζωντανά χρώματα στο ο μαθητής μπορεί, να προγραμματίσει το ρομπότ χρησιμοποιώντας προγραμματισμό με blocks και να παρακολουθήσει ενημερωτικά/εκπαιδευτικά βιντεάκια για τα Lego Wedo. Τέλος, παρέχεται η δυνατότητα στον μαθητή να δημιουργήσει την δικιά του κατασκευή, μετατρέποντας το Lego Wedo σε  ένα δημιουργικό και ταυτόχρονα σωστά δομημένο εκπαιδευτικό εργαλείο.
+Το Lego Education WeDo 2.0 είναι μια σειρά από κατασκευές με τουβλάκια της Lego και μηχανικά εξαρτήματα(γρανάζια, κινητήρες, αισθητήρες). Επικοινωνούν με ειδικευμένο πρόγραμμα της εταιρίας το οποίο παρέχει, γραφικό περιβάλλον με ζωντανά χρώματα στο ο μαθητής μπορεί, να προγραμματίσει το ρομπότ χρησιμοποιώντας προγραμματισμό με blocks και να παρακολουθήσει ενημερωτικά/εκπαιδευτικά βιντεάκια για τα Lego Wedo. Τέλος, παρέχεται η δυνατότητα στον μαθητή να δημιουργήσει την δικιά του κατασκευή, μετατρέποντας το Lego Wedo σε ένα δημιουργικό και ταυτόχρονα σωστά δομημένο εκπαιδευτικό εργαλείο.
 
 ## Σύντομη παρουσίαση της γλώσσας προγραμματισμού `Logo`
 
 ![Logo](https://user-images.githubusercontent.com/115211756/205507944-ca8dda7c-2e4d-449f-87d2-e257c8a9157f.jpg)
 
-Η γλώσσα προγραμματισμού `Logo` κατασκευάστηκε εξ αρχής για παιδιά. Χρησιμοποιεί τεχνικές συναρτησιακού προγραμματισμού και οι εντολές μοιάζουν αρκετά με καθημερινές λέξης. Οι εντολές αναπαρίστανται στην οθόνη με χρήση γραφικών και σκοπός της συγκεκριμένης γλώσσας είναι, ο μαθητής να διδάσκει τον υπολογιστή πώς να μάθει να επιλύει προβλήματα και όχι το αντίθετο. Αυτό επιτυγχάνεται μέσα απο δημιουργία αλγορίθμων από τον μαθητή.
+Η γλώσσα προγραμματισμού `Logo` κατασκευάστηκε εξ αρχής για παιδιά. Χρησιμοποιεί τεχνικές συναρτησιακού προγραμματισμού και οι εντολές μοιάζουν αρκετά με καθημερινές λέξης. Οι εντολές αναπαρίστανται στην οθόνη με χρήση γραφικών και σκοπός της συγκεκριμένης γλώσσας είναι, ο μαθητής να διδάσκει τον υπολογιστή πώς να μάθει να επιλύει προβλήματα και όχι το αντίθετο. Αυτό επιτυγχάνεται μέσα από δημιουργία αλγορίθμων από τον μαθητή.
 
 
 ## Τα Links και οι φωτογραφίες από το προσωπικό μου αποθετήριο:
 
- * #### Το προσωπικό μου [site](https://axileaszervos.netlify.app)
- 
+* #### Το προσωπικό μου [site](https://axileaszervos.netlify.app)
+
 ### Logo:
-    
-  * Tο .md αρχείο της γλώσσας προγραμματισμού Logo στο προσωπικό μου αποθετήριο: [Logo.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Logo.md)
-  * Η εικόνα της γλώσσας προγραμματισμού Logo στο προσωπικό μου site: [Logo](https://axileaszervos.netlify.app/gallery/logo/)
-  * Η κανονική εικόνα της γλώσσας προγραμματισμού Logo στο αποθετήριο μου: [Logo.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Logo.jpg)
-  * Η resized σε 160x160 pixels της γλώσσας προγραμματισμού Logo εικόνα στο αποθετήριο μου: [Logo-thumb.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Logo-thumb.jpg)
  
-  ### Lego WeDo:
- 
-   * Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου αποθετήριο: [Legowedo.md]()
-   * Η εικόνα της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου site: [Legowedo](https://axileaszervos.netlify.app/gallery/legowedo/)
-   * Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo.jpg]()
-   * Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo-thumb.jpg]()
+* Tο .md αρχείο της γλώσσας προγραμματισμού Logo στο προσωπικό μου αποθετήριο: [Logo.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Logo.md)
+* Η εικόνα της γλώσσας προγραμματισμού Logo στο προσωπικό μου site: [Logo](https://axileaszervos.netlify.app/gallery/logo/)
+* Η κανονική εικόνα της γλώσσας προγραμματισμού Logo στο αποθετήριο μου: [Logo.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Logo.jpg)
+* Η resized σε 160x160 pixels της γλώσσας προγραμματισμού Logo εικόνα στο αποθετήριο μου: [Logo-thumb.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Logo-thumb.jpg)
+
+### Lego WeDo:
+
+* Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου αποθετήριο: [Legowedo.md]()
+* Η εικόνα της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου site: [Legowedo](https://axileaszervos.netlify.app/gallery/legowedo/)
+* Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo.jpg]()
+* Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [Legowedo-thumb.jpg]()
 
 ## Τα Links και οι φωτογραφίες από το ομαδικό αποθετήριο:
 
- * #### Το ομαδικό [site](https://omada122.netlify.app)
- 
- ### Lego-wedo:
- 
-   * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/Axileaszervos/_gallery/blob/4f8133978e8322103b9e8d500602182d6fd66e0b/LegoWeDo.md)
-   * Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo](https://axileaszervos.netlify.app/gallery/legowedo/)
-   * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Legowedo.jpg](https://github.com/OMADA12/images/blob/master/Legowedo.jpg)
-   * Η  resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Legowedo-thumb.jpg](https://github.com/OMADA12/images/blob/master/Legowedo-thumb.jpg)
-   
- ### Logo:
-  
-   * Tο .md αρχείο του Logo στο αποθετήριο της ομάδας μου: [Logo.md](https://github.com/OMADA12/_gallery/blob/master/Logo.md)
-   * Η εικόνα του Logo στο site της ομάδας μου: [Logo](https://github.com/Axileaszervos/_gallery/blob/4f8133978e8322103b9e8d500602182d6fd66e0b/Logo.md)
-   * Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [Logo.jpg](https://github.com/OMADA12/images/blob/master/Logo.jpg)
-   * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg](https://github.com/OMADA12/images/blob/master/Logo-thumb.jpg)
-   
+* #### Το ομαδικό [site](https://omada122.netlify.app)
+
+### Lego-wedo:
+
+* Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [Legowedo.md](https://github.com/Axileaszervos/_gallery/blob/4f8133978e8322103b9e8d500602182d6fd66e0b/LegoWeDo.md)
+* Η εικόνα του lego-wedo στο site της ομάδας μου: [Lego-wedo](https://axileaszervos.netlify.app/gallery/legowedo/)
+* Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Legowedo.jpg](https://github.com/OMADA12/images/blob/master/Legowedo.jpg)
+* Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Legowedo-thumb.jpg](https://github.com/OMADA12/images/blob/master/Legowedo-thumb.jpg)
+
+### Logo:
+
+* Tο .md αρχείο του Logo στο αποθετήριο της ομάδας μου: [Logo.md](https://github.com/OMADA12/_gallery/blob/master/Logo.md)
+* Η εικόνα του Logo στο site της ομάδας μου: [Logo](https://github.com/Axileaszervos/_gallery/blob/4f8133978e8322103b9e8d500602182d6fd66e0b/Logo.md)
+* Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [Logo.jpg](https://github.com/OMADA12/images/blob/master/Logo.jpg)
+* Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg](https://github.com/OMADA12/images/blob/master/Logo-thumb.jpg)
+
 ## PULL REQUESTS
 * [md files](https://github.com/OMADA12/_gallery/pull/23)
 * [photos](https://github.com/OMADA12/site/pull/17)
@@ -213,7 +213,7 @@
 Μετα την αλλαγή εικόνων στο 3ο παραδοτέο έχουν αλλάξει τα slides και οι διαφάνειες
 
 ---
-* Slide και Timeline για την γλωσσα προγραμματισμού `Logo`
+* Slide και Timeline για την γλώσσα προγραμματισμού `Logo`
   * [Εκπαιδευτικά Εργαλεία](https://axileaszervos.netlify.app/slides/edu%CF%84ools/) - slide
   * [Εκπαιδευτικά Εργαλεία](https://axileaszervos.netlify.app/timeline/edutoolstimeline/) - timeline
  
@@ -225,10 +225,10 @@
  * [slides](https://github.com/OMADA12/site/pull/20)
  * [timelines](https://github.com/OMADA12/site/pull/21)
   
- # 6ο ΠΑΡΑΔΟΤΕΟ-ΚΑΤΑΣΚΕΥΗ ΒΙΒΛΙΟΥ Α
-Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το κεφάλαιο 8.3 και πρόσθεσα κάποιες πληροφορίες για τα υπολογιστηκά συστήματα `PLATO`.
+# 6ο ΠΑΡΑΔΟΤΕΟ-ΚΑΤΑΣΚΕΥΗ ΒΙΒΛΙΟΥ Α
+Σε αυτό το παραδοτέο έπρεπε να προσθέσουμε στα κεφάλαια του βιβλίου μια παράγραφο η οποία να συμπληρώνει το ήδη υπάρχον περιεχόμενο. Προσωπικά επέλεξα το κεφάλαιο 8.3 και πρόσθεσα κάποιες πληροφορίες για τα υπολογίστηκα συστήματα `PLATO`.
 
-## Η συνησφορά μου
+## Η συνεισφορά μου
 * [Η συνεισφορά μου](https://github.com/Axileaszervos/kallipos/blob/master/MyPhotos/%CE%97%20%CF%83%CF%85%CE%BD%CE%B5%CE%B9%CF%83%CF%86%CE%BF%CF%81%CE%AC%20%CE%BC%CE%BF%CF%85.png)
 
 ![Η συνεισφορά μου](https://user-images.githubusercontent.com/115211756/206714259-b0133c2c-663f-4be1-ab75-4cdca11d5041.png)
@@ -240,9 +240,10 @@
 ![Το κεφαλαίο που ασχολήθηκα](https://user-images.githubusercontent.com/115211756/206714924-a9d99975-f743-4d91-be81-12761bd516a2.png)
 
 * link του βιβλίου σε μορφή pdf: [book.pdf](https://github.com/Axileaszervos/kallipos/blob/master/MyBook/MyBook.pdf)
-* link απο το δικό μου φίλτρο: [plato.lua](https://github.com/Axileaszervos/kallipos/blob/master/plato.lua)
+* link από το δικό μου φίλτρο: [plato.lua](https://github.com/Axileaszervos/kallipos/blob/master/plato.lua)
 * link του περιεχομένου που πρόσθεσα: [plato.md](https://github.com/Axileaszervos/kallipos/blob/master/PLATO/plato.md)
 * link του make-latex.sh: [make-latex](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
+
 
  
 # ΠΑΡΔΟΤΕΟ 7-ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2
@@ -277,9 +278,28 @@
 * [Photos for case-study](https://github.com/OMADA12/images/pull/21/commits/4ed03122212819a80dadd29ef20ddc1faa1d2a7b)
 * [Extra photos for case-study](https://github.com/OMADA12/images/pull/30)
 
+# ΠΑΡΔΟΤΕΟ 7-ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2
+Σε αυτό το παραδοτέο χρειάστηκε να φτιάξουμε μια μελέτη περίπτωσης η οποία θα πρέπει να συσχετίζεται με τα προηγούμενα παραδοτέα. Προσωπικά ασχολήθηκα με την εξέλιξη των Lego Mindstorms και την συνεισφορά τους στον εκπαιδευτικό τομέα.
+
+### Links για τα md αρχεία μου στο προσωπικό μου αποθετήριο
+* [cs-LegoMindstorms.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-LegoMindstorms.md)
+* [LegoMidndstorms.md](https://github.com/Axileaszervos/site/blob/master/_case-study/LegoMindstorms.md)
+
+### Links για τα md αρχεία μου στο αποθετήριο της ομάδας μου
+* [cs-LegoMindstorms.md](https://github.com/OMADA12/site/blob/master/_includes/cs-LegoMindstorms.md)
+* [LegoMidndstorms.md](https://github.com/OMADA12/site/blob/master/_case-study/LegoMindstorms.md)
+
+
+### Link για την μελέτη περίπτωσης στο προσωπικό μου site
+* [Lego Mindstorms](https://axileaszervos.netlify.app/case-study/legomindstorms/)
+
+### Link για την μελέτη περίπτωσης στο site της ομάδας μου
+* [Lego Mindstorms](https://omada12.netlify.app/case-study/legomindstorms/)
+
+
 # ΠΑΡΑΔΟΤΕΟ 8
 Σε αυτό το παραδοτέο είχαμε να ασχοληθούμε με 4 διαφορετικές [ασκήσεις](https://github.com/epidrome/dokey#hci). Προσωπικά επέλεξα την 3η άσκηση, στην όποια έπρεπε να δημιουργήσω ένα shell script το οποίο θα μετατρέπει αρχεία.
- 
+
 
 ## FILE CONVERTOR
 ### Δημιούργησα ένα shell script στο οποίο ο χρήστης μπορεί να μετατρέψει epub και md αρχεία σε html και txt αντίστοιχα.
@@ -323,7 +343,7 @@
 # ΠΑΡΑΔΟΤΕΟ 10
 
 ## USE THE TERMINAL AS AN ID
-Σε αυτό το παραδοτέο συνείζεται η ενασχόληση με τις [ασκήσεις](https://github.com/epidrome/dokey#hci) του ΗCI. 'Επειτα απο την συμβουλή του συναδέλφου μου [nkanagno](https://github.com/nkanagno) εγκατέστησα το tmux στο terminal μου με την εντολή `sudo pacman -Sy tmux` με σκοπό να χρησιμοποιήσω πολλαπλές οθόνες στο terminal ταυτόχρονα.
+Σε αυτό το παραδοτέο συνεxίζεται η ενασχόληση με τις [ασκήσεις](https://github.com/epidrome/dokey#hci) του ΗCI. Έπειτα από την συμβουλή του συναδέλφου μου [nkanagno](https://github.com/nkanagno) εγκατέστησα το tmux στο terminal μου με την εντολή `sudo pacman -Sy tmux` με σκοπό να χρησιμοποιήσω πολλαπλές οθόνες στο terminal ταυτόχρονα.
 
 * Με την εντολή `tmux new -s name_of_my_session` δημιουργούσα ένα νέο session
 * Με την εντολή `Ctrlb and shift+"` μπορούσα να δημιουργήσω ένα επιπλέον terminal(κάθετα)
@@ -337,12 +357,12 @@
 * [asciinema video](https://asciinema.org/a/544132)
 
 # ΠΑΡΑΔΟΤΕΟ 11
-  Σε αυτό το παραδοτέο έπρεπε να βάλουμε όλη μας την συνησφορά στο βιβλίο και να το μετατρέψουμε σε `.epub`. Για τον σκοπό αυτό πρόσθεσα στο `make-latex.sh` την εντολή `pandoc --quiet -f latex book.tex -o book.epub`.
- 
+Σε αυτό το παραδοτέο έπρεπε να βάλουμε όλη μας την συνεισφορά στο βιβλίο και να το μετατρέψουμε σε `.epub`. Για τον σκοπό αυτό πρόσθεσα στο `make-latex.sh` την εντολή `pandoc --quiet -f latex book.tex -o book.epub`.
+
 
 ![bio-Papert](https://user-images.githubusercontent.com/115211756/206708124-3da5732a-52ed-42ee-89ea-8e19be3971a6.png)
- * Η βιογραφία για τον Seymour Papert
- 
+* Η βιογραφία για τον Seymour Papert
+
 ![cs-Legomindstorms](https://user-images.githubusercontent.com/115211756/206708626-ac73d087-0f89-45b0-8d9a-760e142262ad.png)
 * Μελέτη περίπτωσης για τα Legomindstorms
 
@@ -354,7 +374,7 @@
 
 ![ΜyText](https://user-images.githubusercontent.com/115211756/206714553-f975f463-5285-4790-8d70-7f209fb925c2.png)
 * Η συνεισφορά μου
-##  FILES
+## FILES
 * [Photos](https://github.com/Axileaszervos/kallipos/tree/master/MyPhotos)
 * [MyEpub.epub](https://github.com/Axileaszervos/kallipos/blob/master/MyEpub/MyEpub.epub)
 * [make-latex.sh](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
