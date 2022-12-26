@@ -253,7 +253,7 @@
 * [cs-LegoMindstorms.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-LegoMindstorms.md)
 * [LegoMidndstorms.md](https://github.com/Axileaszervos/site/blob/master/_case-study/LegoMindstorms.md)
 
-### Links για τα md αρχεία μου στο απεθετήριο της ομάδας μου
+### Links για τα md αρχεία μου στο αποθετήριο της ομάδας μου
 * [cs-LegoMindstorms.md](https://github.com/OMADA12/site/blob/master/_includes/cs-LegoMindstorms.md)
 * [LegoMidndstorms.md](https://github.com/OMADA12/site/blob/master/_case-study/LegoMindstorms.md)
 
@@ -312,7 +312,7 @@
 
 
 # ΠΑΡΑΔΟΤΕΟ 9
-Σε αυτό το παραδοτέο έπρεπε να φτιάξουμε μια νέα βιογραφία η οποία θα πρέπει να έχει άμεση σύνδεση με τα προηγούμενα παραδοτέα. Επέλεξα να γράφω για τον Seymour Papert επειδή, με εντυπωσίασε η συνεισφορά του στην εκπαίδευση και φράσεις όπως "Ο ρόλος του καθηγητή δημιουργήθηκε με σκοπό να παρέχει τις ιδανικές συνθήκες για την ανακάλυψη γνώσεων και όχι για να αναπαράγει έτοιμη πληροφορία" αποτελούν πηγή έμπνευσης για εμένα.
+Σε αυτό το παραδοτέο έπρεπε να φτιάξουμε μια νέα βιογραφία η οποία θα πρέπει να έχει άμεση σύνδεση με τα προηγούμενα παραδοτέα. Επέλεξα να γράψω για τον Seymour Papert επειδη με εντυπωσίασε η συνεισφορά του στην εκπαίδευση και φράσεις όπως "Ο ρόλος του καθηγητή δημιουργήθηκε με σκοπό να παρέχει τις ιδανικές συνθήκες για την ανακάλυψη γνώσεων και όχι για να αναπαράγει έτοιμη πληροφορία" αποτελούν πηγή έμπνευσης για εμένα.
 
 ### Links για τα md αρχεία μου στο προσωπικό αποθετήριο
 * [bio-Papert.md](https://github.com/Axileaszervos/site/blob/master/_includes/bio-Papert.md)
