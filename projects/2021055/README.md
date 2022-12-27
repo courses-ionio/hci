@@ -161,7 +161,7 @@
 
 * #### Το ομαδικό [site](https://omadaa12.netlify.app/)
 
-### Lego-WeDo:
+### Lego WeDo:
 
 * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [LegoWeDo.md](https://github.com/OMADA12/_gallery/blob/74ec47171553cd56f911bcd06a45fec2899a4861/Legowedo.md)
 * Η εικόνα του lego-wedo στο site της ομάδας μου: [LegoWeDo](https://omadaa12.netlify.app/gallery/legowedo/)
@@ -324,12 +324,12 @@
 # ΠΑΡΑΔΟΤΕΟ 10
 
 ## USE THE TERMINAL AS AN ID
-Σε αυτό το παραδοτέο συνεxίζεται η ενασχόληση με τις [ασκήσεις](https://github.com/epidrome/dokey#hci) του ΗCI. Έπειτα από την συμβουλή του συναδέλφου μου [nkanagno](https://github.com/nkanagno) εγκατέστησα το tmux στο terminal μου με την εντολή `sudo pacman -Sy tmux` με σκοπό να χρησιμοποιήσω πολλαπλές οθόνες στο terminal ταυτόχρονα.
+Σε αυτό το παραδοτέο συνεxίζεται η ενασχόληση με τις [ασκήσεις](https://github.com/epidrome/dokey#hci) του ΗCI. Έπειτα από την συμβουλή του συναδέλφου μου [nkanagno](https://github.com/nkanagno) εγκατέστησα το tmux στο terminal μου με την εντολή `sudo pacman -Sy tmux`, με σκοπό να χρησιμοποιήσω πολλαπλές οθόνες στο terminal ταυτόχρονα.
 
-* Με την εντολή `tmux new -s name_of_my_session` δημιουργούσα ένα νέο session
-* Με την εντολή `Ctrlb and shift+"` μπορούσα να δημιουργήσω ένα επιπλέον terminal(κάθετα)
-* Με την εντολή `Ctrl and shift+%" μπορούσα να δημιουργήσω ένα επιπλέον terminal(οριζόντια)
-* Με την εντολή `Ctrlb and shift+Arrow Keys` μπορούσα να μετακινηθώ ανάμεσα στα termimals που έχει δημιουργήσει
+* Με την εντολή `tmux new -s name_of_my_session` δημιουργώ ένα νέο session
+* Με την εντολή `Ctrlb and shift+` δημιουργώ ένα επιπλέον terminal(κάθετα)
+* Με την εντολή `Ctrl and shift+%` δημιουργώ ένα επιπλέον terminal(οριζόντια)
+* Με την εντολή `Ctrlb and shift+Arrow Keys` μπορώ να μετακινηθώ ανάμεσα στα termimals που έχω δημιουργήσει
 
 ### My Files
 
