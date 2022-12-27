@@ -161,7 +161,7 @@
 
 * #### Το ομαδικό [site](https://omadaa12.netlify.app/)
 
-### Lego-wedo:
+### Lego-WeDo:
 
 * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [LegoWeDo.md](https://github.com/OMADA12/_gallery/blob/74ec47171553cd56f911bcd06a45fec2899a4861/Legowedo.md)
 * Η εικόνα του lego-wedo στο site της ομάδας μου: [LegoWeDo](https://omadaa12.netlify.app/gallery/legowedo/)
@@ -277,25 +277,6 @@
 * [LegoMindstorms.md](https://github.com/OMADA12/site/pull/25/commits/fcf8c947b1b943450bb4519d88d4e5254eaba806)
 * [Photos for case-study](https://github.com/OMADA12/images/pull/21/commits/4ed03122212819a80dadd29ef20ddc1faa1d2a7b)
 * [Extra photos for case-study](https://github.com/OMADA12/images/pull/30)
-
-# ΠΑΡΔΟΤΕΟ 7-ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2
-Σε αυτό το παραδοτέο χρειάστηκε να φτιάξουμε μια μελέτη περίπτωσης η οποία θα πρέπει να συσχετίζεται με τα προηγούμενα παραδοτέα. Προσωπικά ασχολήθηκα με την εξέλιξη των Lego Mindstorms και την συνεισφορά τους στον εκπαιδευτικό τομέα.
-
-### Links για τα md αρχεία μου στο προσωπικό μου αποθετήριο
-* [cs-LegoMindstorms.md](https://github.com/Axileaszervos/site/blob/master/_includes/cs-LegoMindstorms.md)
-* [LegoMidndstorms.md](https://github.com/Axileaszervos/site/blob/master/_case-study/LegoMindstorms.md)
-
-### Links για τα md αρχεία μου στο αποθετήριο της ομάδας μου
-* [cs-LegoMindstorms.md](https://github.com/OMADA12/site/blob/master/_includes/cs-LegoMindstorms.md)
-* [LegoMidndstorms.md](https://github.com/OMADA12/site/blob/master/_case-study/LegoMindstorms.md)
-
-
-### Link για την μελέτη περίπτωσης στο προσωπικό μου site
-* [Lego Mindstorms](https://axileaszervos.netlify.app/case-study/legomindstorms/)
-
-### Link για την μελέτη περίπτωσης στο site της ομάδας μου
-* [Lego Mindstorms](https://omada12.netlify.app/case-study/legomindstorms/)
-
 
 # ΠΑΡΑΔΟΤΕΟ 8
 Σε αυτό το παραδοτέο είχαμε να ασχοληθούμε με 4 διαφορετικές [ασκήσεις](https://github.com/epidrome/dokey#hci). Προσωπικά επέλεξα την 3η άσκηση, στην όποια έπρεπε να δημιουργήσω ένα shell script το οποίο θα μετατρέπει αρχεία.
