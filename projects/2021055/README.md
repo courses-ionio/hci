@@ -367,6 +367,7 @@
 * https://github.com/courses-ionio/help/discussions/1933
 * https://github.com/courses-ionio/help/discussions/1914
 * https://github.com/courses-ionio/help/discussions/1869
+* https://github.com/courses-ionio/help/discussions/1865
 * https://github.com/courses-ionio/help/discussions/1853
 * https://github.com/courses-ionio/help/discussions/1819
 * https://github.com/courses-ionio/help/discussions/1793
@@ -374,3 +375,7 @@
 * https://github.com/courses-ionio/help/discussions/1736
 * https://github.com/courses-ionio/help/discussions/1484
 * https://github.com/courses-ionio/help/discussions/1463
+
+## Q&A
+* https://github.com/courses-ionio/help/discussions/1972
+* https://github.com/courses-ionio/help/discussions/1881
