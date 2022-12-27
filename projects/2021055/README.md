@@ -362,8 +362,15 @@
 
 
 # LINKS ΑΠΟ ΣΥΖΗΤΗΣΕΙΣ
-* https://github.com/courses-ionio/help/discussions/1736
-* https://github.com/courses-ionio/help/discussions/1463
-* https://github.com/courses-ionio/help/discussions/1769
+## SHOW AND TELL
+* https://github.com/courses-ionio/help/discussions/1959
+* https://github.com/courses-ionio/help/discussions/1933
+* https://github.com/courses-ionio/help/discussions/1914
+* https://github.com/courses-ionio/help/discussions/1869
+* https://github.com/courses-ionio/help/discussions/1853
+* https://github.com/courses-ionio/help/discussions/1819
 * https://github.com/courses-ionio/help/discussions/1793
+* https://github.com/courses-ionio/help/discussions/1769
+* https://github.com/courses-ionio/help/discussions/1736
 * https://github.com/courses-ionio/help/discussions/1484
+* https://github.com/courses-ionio/help/discussions/1463
