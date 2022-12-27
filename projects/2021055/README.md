@@ -341,10 +341,10 @@
 Σε αυτό το παραδοτέο έπρεπε να βάλουμε όλη μας την συνεισφορά στο βιβλίο και να το μετατρέψουμε σε `.epub`. Για τον σκοπό αυτό πρόσθεσα στο `make-latex.sh` την εντολή `pandoc --quiet -f latex book.tex -o book.epub`.
 
 
-![bio-Papert](https://user-images.githubusercontent.com/115211756/206708124-3da5732a-52ed-42ee-89ea-8e19be3971a6.png)
+![image](https://user-images.githubusercontent.com/115211756/209713208-c993d208-9bf9-4925-ac7e-ef0bfc32a4a0.png)
 * Η βιογραφία για τον Seymour Papert
 
-![cs-Legomindstorms](https://user-images.githubusercontent.com/115211756/206708626-ac73d087-0f89-45b0-8d9a-760e142262ad.png)
+![image](https://user-images.githubusercontent.com/115211756/209713259-4e2ead04-b9ec-4743-a341-6d43f235cf33.png)
 * Μελέτη περίπτωσης για τα Legomindstorms
 
 ![LegoWedo](https://user-images.githubusercontent.com/115211756/206708671-20ce28ad-1031-4913-b9a5-549175f5c493.png)
@@ -357,7 +357,7 @@
 * Η συνεισφορά μου
 ## FILES
 * [Photos](https://github.com/Axileaszervos/kallipos/tree/master/MyPhotos)
-* [MyEpub.epub](https://github.com/Axileaszervos/kallipos/blob/master/MyEpub/MyEpub.epub)
+* [MyEpub.epub](https://github.com/Axileaszervos/kallipos/blob/master/MyEpub/MyBook.epub)
 * [make-latex.sh](https://github.com/Axileaszervos/kallipos/blob/master/make-latex.sh)
 
 
