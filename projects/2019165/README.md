@@ -18,7 +18,7 @@
 | 7 | Συμμετοχικό περιεχόμενο B1 |[Aνάρτηση της μελέτης περίπτωσης μου στα Discussions](https://github.com/courses-ionio/help/discussions/1708) | |
 | 8 | Άσκηση γραμμής εντολών |[Ανάρτηση του Shell Script στα discussions](https://github.com/courses-ionio/help/discussions/1766) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 |[Aνάρτηση της βιβλιογραφίας που επέλεξα στα discussions](https://github.com/courses-ionio/help/discussions/1822) | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 | Άσκηση γραμμής εντολών |[Ανάρτηση του Shell Script στα discussions](https://github.com/courses-ionio/help/discussions/1982) | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
