@@ -528,8 +528,8 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
   
 | Ερωτήσεις στην περιοχή συζητήσεων help του Github | Απαντήσεις στην περιοχή συζητήσεων help του Github | Παρατηρήσεις / Συνεισφορές στην περιοχή συζητήσεων help του Github |
 | --- | --- | --- |
-| Ερώτηση #1: [Question #1 Link](https://github.com/courses-ionio/help/discussions/1682) | Απάντηση #1: [Answer Link #1](https://github.com/courses-ionio/help/discussions/1939#discussioncomment-4373874) | Παρατήρηση / Συνεισφορά #1: |
-| Ερώτηση #2: | Απάντηση #2: [Answer Link #2](https://github.com/courses-ionio/help/discussions/1069#discussioncomment-3887459) | Παρατήρηση / Συνεισφορά #2: [Guide για την εγκατάσταση των Arch σε USB Stick](https://github.com/courses-ionio/help/discussions/1027) |
+| Ερώτηση #1: [Question #1 Link](https://github.com/courses-ionio/help/discussions/1682) | Απάντηση #1: [Answer Link #1](https://github.com/courses-ionio/help/discussions/1939#discussioncomment-4373874) | Παρατήρηση / Συνεισφορά #1: [Guide για την εγκατάσταση των Arch σε USB Stick](https://github.com/courses-ionio/help/discussions/1027) |
+| Ερώτηση #2: | Απάντηση #2: [Answer Link #2](https://github.com/courses-ionio/help/discussions/1069#discussioncomment-3887459) | Παρατήρηση / Συνεισφορά #2:  |
 | Eρώτηση #3: | Απάντηση #3: [Answer Link #3](https://github.com/courses-ionio/help/discussions/1121#discussioncomment-3891159) | Παρατήρηση / Συνεισφορά #3: |
 | Ερώτηση #4: | Απάντηση #4: [Answer Link #4](https://github.com/courses-ionio/help/discussions/1424#discussioncomment-4057760) | Παρατήρηση / Συνεισφορά #4: |
 | Ερώτηση #5: | Απάντηση #5: [Answer Link #5](https://github.com/courses-ionio/help/discussions/1170#discussioncomment-3933383) | Παρατήρηση / Συνεισφορά #5: |
