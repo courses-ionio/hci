@@ -157,6 +157,8 @@ Benj Edwards: Remembering Radio Shack’s Windows Competitor.</br>
 Για το 11ο παραδοτέο, κατασκεύασα το epub του βιβλίου με τις επιπλέον δικές μου προσθήκες (case study & biography). Για να το πετύχω αυτό χρησιμοποίησα τα ήδη υπάρχοντα scrypt, έτσι κατάλαβα τη δομή και τη χρηστικότητα του τρόπου κατασκευής του βιβλίου γιατί ήταν πολύ εύκολη η προσθήκη νέου υλικού.</br>
 Οι δικές μου προσθήκες έχουν γίνει στο κεφλαιο 3.6 (Η περίπτωση των DeskMate), και στο 8.7 (Σύντομη βιογραφία του Linus Torvalds)
 
-[epub](https://github.com/odysseasEko/kallipos/blob/master/book.epub)
+[epub](https://github.com/odysseasEko/kallipos/blob/master/book.epub)</br>
 
+![deskmate1](https://user-images.githubusercontent.com/73399706/209832200-064e8a4f-c3c2-4394-a1a5-1cfe3dce85ea.png)
+![deskmate2](https://user-images.githubusercontent.com/73399706/209832214-485809a2-f18a-49d0-b044-87c4ccbd22f8.png)
 
