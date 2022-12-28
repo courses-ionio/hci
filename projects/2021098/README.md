@@ -538,3 +538,4 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 | Ερώτηση #8: ΝULL | Απάντηση #8: NULL | Παρατήρηση / Συνεισφορά #8: [Contribution Link #8](https://github.com/courses-ionio/help/discussions/1430#discussioncomment-4077049) |
 | Ερώτηση #9: ΝULL | Απάντηση #9: NULL | Παρατήρηση / Συνεισφορά #9: [Contribution Link #9](https://github.com/courses-ionio/help/discussions/1340#discussioncomment-4013098) |
 | Ερώτηση #10: ΝULL | Απάντηση #10: NULL | Παρατήρηση / Συνεισφορά #10: [Contribution Link #10](https://github.com/courses-ionio/help/discussions/1049#discussioncomment-3884814) |
+| Ερώτηση #11: ΝULL | Απάντηση #11: NULL | Παρατήρηση / Συνεισφορά #11: [Contribution Link #11](https://github.com/courses-ionio/help/discussions/833#discussioncomment-3815681) |
