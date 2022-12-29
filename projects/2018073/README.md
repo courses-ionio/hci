@@ -26,7 +26,7 @@
 | 8 | [Άσκηση γραμμής εντολών](#παραδοτεο-8---άσκηση-γραμμής-εντολών-1) | [Discussion Link - Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1792)| Σε αυτό το παραδoτέο εξοικειώθηκα με τις έννοιες του shell-scripting και του pipeline. Δεν δυσκολεύτηκα στη διαδικασία, αλλά ίσως θα μπορούσα να αναπτύξω ένα πιο περίπλοκο κώδικα ώστε να τεστάρω τις ακόμα περισσότερες δυνατότητες που μου δίνει το ελεύθερο περιβάλλον του τερματικού. |
 | 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτεο-9---συμμετοχικό-περιεχόμενο-β2) | [Discussion Link - Παραδοτέο 9](https://github.com/courses-ionio/help/discussions/1851)| Εύκολη διαδικασία, πρόσθεσα τη βιογραφία του George E. Gepheide ο οποίος δημιούργησε τη πρώτη τεχνολογία touchpad, καθώς και την έννοια αυτού. Πρόσθεσα μερικές επιπλέον φωτογραφίες στο /images και αντικατέστησα μερικές από το παραδοτέο 3 (λόγω παρατήρησης στην ενδιάμεση παρουσίαση) και έκανα re-direct τα αντίστοιχα submodules για να προστεθούν οι εικόνες αυτές.|
 | 10 | Άσκηση γραμμής εντολών | | |
-| 11 | Κατασκευή του βιβλίου Β | | |
+| 11 | [Κατασκευή του βιβλίου Β](#παραδοτεο-11---κατασκευή-βιβλίου-β) | [Discussion Link - Παραδοτέο 11](https://github.com/courses-ionio/help/discussions/1983) | Εύκολο παραδοτέο, πρόσθεσα το Case study και τη βιογραφία μου στο βιβλίο και δημιούργησα την καινούργια pdf και epub μορφή του. Αντιμετώπισα ένα μικρό πρόβλημα, αλλα λύθηκε γρήγορα.|
 | 12 | Τελική αναφορά | | |
 | - | [Ομαδικότητα και Συνεργασία](#ομαδικότητα-και-συνεργασία) | - | Σε αυτό το τμήμα παραθέτω τους συνδέσμους για τη συμμετοχή μου στις συζητήσεις του HCI, και τη πιθανή βοήθειά μου προς τους συμφοιτητές μου. |
 
@@ -263,6 +263,31 @@ _Το παραδοτεό αυτό βασίζεται στις προσθήκες
 [Pull Request Οργανισμού](https://github.com/MainCharacters/images/pull/5)
 
 Πηγές: [Oral History of George Gerpheide](https://www.youtube.com/watch?v=nw8SmosJvBE)<br><br>
+
+[Go to the top](#go-to-the-top-mark-point)
+
+## ΠΑΡΑΔΟΤΕΟ 10 - Άσκηση γραμμής εντολών 2
+
+**Coming soon...**
+
+[Go to the top](#go-to-the-top-mark-point)
+
+## ΠΑΡΑΔΟΤΕΟ 11 - Κατασκευή βιβλίου Β
+
+Σε αυτό το παραδοτέο δημιούργησα τα αντίγραφα του [case study](https://github.com/FaidonTsetsis/extras/blob/eccc162d08e004a1ea78f366846189425c786c04/cs-apple-wireless.md) και της [βιογραφίας](https://github.com/FaidonTsetsis/extras/blob/eccc162d08e004a1ea78f366846189425c786c04/bio-gerpheide.md) μου στο extras submodule του kallipos και πρόσθεσα το περιεχόμενο αυτό σαν ενότητες στο [chapter 7](https://github.com/FaidonTsetsis/extras/blob/eccc162d08e004a1ea78f366846189425c786c04/extras-ch07.txt), δεδομένου ότι αυτό το κεφάλαιο ταιριάζει στην ιδέα του περιεχομένου μου. Στη συνέχεια, δημιούργησα τα markdown αρχεία από τις εικόνες που ήθελα να εισάγω στα case study και στη βιογραφία αντίστοιχα και τέλος πρόσθεσα την εντολή ```pandoc --quiet -f latex book/book.tex -o book/book.epub``` στο αρχείο [make-latex.sh](https://github.com/FaidonTsetsis/kallipos/blob/master/make-latex.sh) για να κατασκευάσω τη μορφή epub του βιβλίου.
+
+- [book.pdf](https://github.com/FaidonTsetsis/kallipos/blob/master/book.pdf)
+
+     - [Screenshots από pdf - Case Study and Biography](https://github.com/FaidonTsetsis/kallipos/tree/master/Par11-Screenshots/pdf%20screenshots)
+
+- [book.epub](https://github.com/FaidonTsetsis/kallipos/blob/master/book/book.epub)
+
+     - [Screenshots από epub - Case Study and Biography](https://github.com/FaidonTsetsis/kallipos/tree/master/Par11-Screenshots/epub%20screenshots)
+
+**Δυσκολίες:**
+
+Γενικά, αντιμετώπισα ένα πρόβλημα στο οποίο δεν υπήρχαν καθόλου εικόνες στο pdf και στο epub, ωστόσο, το πρόβλημα αυτό λύθηκε παρατηρώντας ένα αντίστοιχο θέμα ([discussion](https://github.com/courses-ionio/help/discussions/1879)) που είχε κάποιος συμφοιτητής μου στο οποίο είχε ήδη δωθεί η απάντηση του προβλήματος. Το θέμα βρισκόταν στο φάκελο [figure.lua](https://github.com/FaidonTsetsis/kallipos/blob/master/figure.lua) και έπρεπε στη δωδέκατη γραμμή να υπάρχει η εντολή ```src = "." .. src``` αντί για την εντολή ```src = ".." .. src```. Μικρή λεπτομέρεια, αλλά με μεγάλο αντίκτυπο.
+
 
 [Go to the top](#go-to-the-top-mark-point)
 
