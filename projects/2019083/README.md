@@ -9,23 +9,23 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, GitHub profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609) |[Εισαγωγή](https://github.com/courses-ionio/help/discussions/837), [Ομάδα](https://github.com/Second-Time-is-the-Charm) |  |
-| 2 | [Άσκηση γραμμής εντολών (Linux install)](#Παραδοτέο-2) |[Arch Linux logs](https://github.com/courses-ionio/help/discussions/1033) |  |
-| 3 | [Συμμετοχικό περιεχόμενο A1](#Παραδοτέο-3) | [Link](https://github.com/courses-ionio/help/discussions/1161) |  |
-| 4 | [Άσκηση γραμμής εντολών](#Παραδοτέο-4) | [warm up cli](https://github.com/courses-ionio/help/discussions/1302) |  |
-| 5 | [Συμμετοχικό περιεχόμενο A2](#Παραδοτέο-5) | [Link](https://github.com/courses-ionio/help/discussions/1482) |  |
-| 6 | [Κατασκευή του βιβλίου Α](#Παραδοτέο-6) | [Link](https://github.com/courses-ionio/help/discussions/1537) |  |
-| 7 | [Συμμετοχικό περιεχόμενο B1](#Παραδοτέο-7) | [Link](https://github.com/courses-ionio/help/discussions/1591) |  |
-| 8 | [Άσκηση γραμμής εντολών](#Παραδοτέο-8) | [Link](https://github.com/courses-ionio/help/discussions/1658) |  |
-| 9 | [Συμμετοχικό περιεχόμενο B2](#Παραδοτέο-9) | [Link](https://github.com/courses-ionio/help/discussions/1681) |  |
-| 10 | [Άσκηση γραμμής εντολών](#Παραδοτέο-10) | [Link](https://github.com/courses-ionio/help/discussions/1736) |  |
-| 11 | [Κατασκευή του βιβλίου Β](#Παραδοτέο-11) | [Link](https://github.com/courses-ionio/help/discussions/1737) |  |
-| 12 | [Τελική αναφορά*] | | |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609) |[Εισαγωγή](https://github.com/courses-ionio/help/discussions/837), [Ομάδα](https://github.com/Second-Time-is-the-Charm) |Το παραδοτέο ολοκληρώθηκε με επιτυχία 10/10  |
+| 2 | [Άσκηση γραμμής εντολών (Linux install)](#Παραδοτέο-2) |[Arch Linux logs](https://github.com/courses-ionio/help/discussions/1033) |Το παραδοτέο ολοκληρώθηκε με επιτυχία 10/10   |
+| 3 | [Συμμετοχικό περιεχόμενο A1](#Παραδοτέο-3) | [Link](https://github.com/courses-ionio/help/discussions/1161) | Το παραδοτέο ολοκληρώθηκε με επιτυχία 10/10  |
+| 4 | [Άσκηση γραμμής εντολών](#Παραδοτέο-4) | [warm up cli](https://github.com/courses-ionio/help/discussions/1302) | Το παραδοτέο ολοκληρώθηκε με επιτυχία 10/10  |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#Παραδοτέο-5) | [Link](https://github.com/courses-ionio/help/discussions/1482) | Το παραδοτέο ολοκληρώθηκε με επιτυχία 10/10  |
+| 6 | [Κατασκευή του βιβλίου Α](#Παραδοτέο-6) | [Link](https://github.com/courses-ionio/help/discussions/1537) | Το παραδοτέο ολοκληρώθηκε με επιτυχία 10/10  |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#Παραδοτέο-7) | [Link](https://github.com/courses-ionio/help/discussions/1591) | Το παραδοτέο ολοκληρώθηκε με επιτυχία 10/10  |
+| 8 | [Άσκηση γραμμής εντολών](#Παραδοτέο-8) | [Link](https://github.com/courses-ionio/help/discussions/1658) | Το παραδοτέο ολοκληρώθηκε με επιτυχία 10/10  |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#Παραδοτέο-9) | [Link](https://github.com/courses-ionio/help/discussions/1681) | Το παραδοτέο ολοκληρώθηκε με επιτυχία 10/10  |
+| 10 | [Άσκηση γραμμής εντολών](#Παραδοτέο-10) | [Link](https://github.com/courses-ionio/help/discussions/1736) | Το παραδοτέο ολοκληρώθηκε με επιτυχία 10/10  |
+| 11 | [Κατασκευή του βιβλίου Β](#Παραδοτέο-11) | [Link](https://github.com/courses-ionio/help/discussions/1737) | Το παραδοτέο ολοκληρώθηκε με επιτυχία 10/10  |
+| 12 | [Τελική αναφορά*](#Παραδοτέο-12) |[Link](https://github.com/courses-ionio/help/discussions/1980) |Το παραδοτέο ολοκληρώθηκε με επιτυχία 10/10  |
 <br>
 
 # [Παραδοτέο 1/Εισαγωγή](https://github.com/courses-ionio/help/discussions/837) <br>
 
-Ο κύριος στόχος μου από την παρακολούθηση του μαθήματος "Αλληλεπίδραση ανθρώπου-υπολογιστή" είναι να αποκτήσω μια βαθιά κατανόηση του θέματος και να το εφαρμόσω στην καθημερινή μου ζωή. Πιστεύω ότι η πρακτική εξάσκηση είναι καθοριστικής σημασίας για την πλήρη κατανόηση των εννοιών που καλύπτονται στο μάθημα, όπως το Linux, το τερματικό και το shell scripting. Χτίζοντας ισχυρά θεμέλια, στοχεύω να γίνω ένας power-user και να έχω τον πλήρη έλεγχο του λειτουργικού συστήματος.
+Ο κύριος στόχος μου από την παρακολούθηση του μαθήματος "Επικοινωνία ανθρώπου-υπολογιστή" είναι να αποκτήσω μια βαθιά κατανόηση του θέματος και να το εφαρμόσω στην καθημερινή μου ζωή. Πιστεύω ότι η πρακτική εξάσκηση είναι καθοριστικής σημασίας για την πλήρη κατανόηση των εννοιών που καλύπτονται στο μάθημα, όπως το Linux, το τερματικό και το shell scripting. Χτίζοντας ισχυρά θεμέλια, στοχεύω να γίνω ένας power-user και να έχω τον πλήρη έλεγχο του λειτουργικού συστήματος.
 
 Εκτός από τις τεχνικές πτυχές του μαθήματος, με ενδιαφέρει επίσης να μάθω για την ιστορία της αλληλεπίδρασης και τους ανθρώπους που έχουν συμβάλει στον κλάδο. Μέχρι το τέλος του μαθήματος, ελπίζω να έχω μια σαφή κατανόηση του πώς η αλληλεπίδραση έχει εξελιχθεί με την πάροδο του χρόνου και πώς μπορεί να εφαρμοστεί για να βελτιώσω την παραγωγικότητα και τις δεξιότητές μου.
 
