@@ -35,3 +35,32 @@ Github Προφίλ: [TheBond8](https://github.com/TheBond08)
 
 Παρακάτω ακολουθεί η παρουσίαση της εκτέλεσης των παραπάνω εντολών:
 <a href="https://asciinema.org/a/529866" target="_blank"><img src="https://asciinema.org/a/529866.svg" /></a>
+
+# 4ο Παραδοτέο: Άσκηση γραμμής εντολών (warm up cli)
+Σκοπός αυτού του παραδοτέου είναι η εκτέλεση μιας εντολής της επιλογής μας στο τερματικό του Arch Linux.
+Εγώ εκτέλεσα την εντολή `curl wttr.in`, η οποία μας εμφανίζει μια μετεωρολογική πρόβλεψη με βάση την τοποθεσία μας.
+<a href="https://asciinema.org/a/535333" target="_blank"><img src="https://asciinema.org/a/535333.svg" /></a>
+
+# 6ο Παραδοτέο: Κατασκευή του βιβλίου Α
+Στο συγκεκριμένο παραδοτέο, μας ζητήθηκε να κατασκευάσουμε το βιβλίο. Για την κατασκευή του έγινε χρήση της βιβλιοθήκης pandoc, η συνεισφορά μου ήταν η προσθήκη ενός αρχείου `.md` με τίτλο `hypertext`.
+
+1) Το προσωπικό repository: [Kallipos](https://github.com/TheBond08/kallipos)
+2) Το αρχείο .md [hypertext.md](https://github.com/TheBond08/kallipos/blob/master/contribution/hypertext.md)
+3) Το φίλτρο [contribution.lua](https://github.com/TheBond08/kallipos/blob/master/contribution.lua)
+
+# 8ο Παραδοτέο: Άσκηση γραμμής εντολών
+Στο συγκεκριμένο παραδοτέο μας ζητήθηκε να επιλέξουμε μια από τις 4 [ασκήσεις](https://github.com/epidrome/dokey#hci). Προσωπικά ολοκλήρωσα την τρίτη `convert between different text formats`, έφτιαξα ένα script convert.sh το οποίο έχει την δυνατότητα να μετατρέψει ένα markdown file, στην συγκεκριμένη περίπτωση την αναφορά μου, σε `docx`, `html` και `tex`.
+Παρακάτω είναι οι σύνδεσμοι για το 8ο παραδοτέο
+
+1) [Script](https://github.com/TheBond08/Paradoteo-8/blob/main/convert.sh)
+2) .md σε docx: [asciinema](https://asciinema.org/a/540887)
+3) .md σε html: [asciinema](https://asciinema.org/a/540888)
+4) Το αρχείο σε [docx](https://github.com/TheBond08/Paradoteo-8/blob/main/myreport.docx)
+5) Το αρχείο σε [html](https://github.com/TheBond08/Paradoteo-8/blob/main/myreport.html)
+
+# 9ο Παραδοτέο: Συμμετοχικό περιεχόμενο B2
+Σε αυτό το παραδοτέο δημιούργησα την βιογραφία του Tim Berners-Lee, του εφευρέτη του Παγκόσμιου Ιστού, καθώς και της σημαντικής γλώσσας προγραμματισμού `HTML`. Παραθέτω παρακάτω τους σχετικούς συνδέσμους:
+
+1) Βιογραφία στο site [netfily](https://thebondsite.netlify.app/biography/berners-lee/)
+2) Στον φάκελο _includes το αρχείο: [bio_Berners-Lee.md](https://github.com/TheBond08/site/blob/master/_includes/bio_Berners-Lee.md)
+3) Στον φάκελο _biography το αρχείο: [Berners-Lee.md](https://github.com/TheBond08/site/blob/master/_biography/Berners-Lee.md)
