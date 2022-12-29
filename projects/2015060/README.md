@@ -12,7 +12,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/help/discussions/1527 | Επιτυχής ολοκλήρωση των ζητούμενων, εκτός του χρονικού ορίου. |
 | 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | https://github.com/courses-ionio/help/discussions/1969 | Δεν ήταν δύσκολη διαδικασία, εγκατέστησα το Virtual Machine και στη συνέχεια εγκατέστησα τα Arch Linux και τα σέταρα με τη βοήθεια κάποιων tutorials από το YouTube. Ολοκλήρωση εκτός του χρονικού ορίου. |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
+| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | https://github.com/courses-ionio/help/discussions/1984 | Πραγματοποιήθηκαν δύο warm-up ασκήσεις για μεγαλύτερη εξοικείωση με το λογισμικό των Arch Linux. Η ολοκλήρωση ήταν εκτός του χρονικού ορίου. |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -31,4 +31,41 @@
 
 # 2ο ΠΑΡΑΔΟΤΕΟ
 Η εγκατάσταση των Arch Linux έγινε στο VM με τη χρήση της εντολής archinstall και στη συνέχεια με το σετάρισμα διάφορων παραμέτρων. Δεν ήταν μια δύσκολη διαδικασία αφενός γιατί η εντολή αυτή το κάνει πολύ εύκολο και αφετέρου γιατί υπάρχουν πάρα πολλά tutorials για βοήθεια όπου χρειάζεται.
+
+# 4ο ΠΑΡΑΔΟΤΕΟ
+Οι warm-up ασκήσεις: 
+1) -assignment: check the weather
+   -deliverables: fetch the weather forecast for your home city and one more city that you want to travel to
+   
+   asciinema link: https://asciinema.org/a/548579?fbclid=IwAR1TCVqv6AxNOLrWbijbvqSho6F1vxf7MMLNPSvKVLfcjXa73_yNYGnQn1g
+   
+   Σε αυτή την άσκηση χρησιμοποίησα το εργαλείο curl για τη μεταφορά καιρικών δεδομένων και το wttr.in για την εμφάνιση της πρόγνωσης του καιρού με γραφικά. Η πρόγνωση    έγινε για την πόλη της Κοζάνης και της Βαρκελώνης.
+   
+2) -assignment: download mp3
+   -deliverables: search, download and play (with the terminal) your favorite song of the month from youtube
+   
+   asciinema link: https://asciinema.org/a/548561?fbclid=IwAR35BlpzNLdl15keGebrJpla0M-mjXBlMDRPVedLAooeEggBYa1MhNZWB2E
+   
+   Σε αυτή την άσκηση εγκατέστησα την εντολή "youtube-dl" και τη χρησιμοποίησα μαζί με τη "ytsearch:" για να αναζητήσω και να κατεβάσω το επιθυμητό τραγούδι απο το        YouTube. Στη συνέχεια εγκατέστησα το "mpv" media player για την αναπαραγωγή του τραγουδιού μέσω του destination path του σε μορφή .webm.
+   
+   
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ Η άσκηση "arch linux install on HW" δεν πραγματοποιήθηκε για τους παρακάτω λόγους: α) Ο υπολογιστής μου δεν είναι σε θέση να υποστηρήξει δύο λειτουργικά συστήματα, πράγμα που σημαίνει ότι θα έπρεπε να σβήσω το λειτουργικό των Windows, το οποίο είναι και το βασικό μου λειτουργικό στο οποίο κάνω όλες μου τις δουλειές/εργασίες και β) Δεν είμαι διατεθημένος να σβήσω το βασικό μου λειτουργικό και να κάνω format γιατί και το έχω σετάρει όπως με βολεύει αλλά και θα χάσω σημαντικά αρχεία κάνοντας το fotmat καθώς δεν υπάρχει κάποιος εξωτερικός δίσκος για backup. Οπότε για αυτούς τους λόγους δεν έγινε η εγκατάσταση των Arch Linux σε HW και περιμένω να βαθμολογηθω και ανάλογα, λαμβάνοντας υπόψη τους παραπάνω λόγους.
+   
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
