@@ -105,8 +105,8 @@ _**Παρατήρηση**: το παραδοτέο αυτό έγινε αφότ�
 Έκανα fork τα submodules του pibook στον οργανισμό μου ([αντίστοιχη ανακοίνωση](https://github.com/orgs/MainCharacters/discussions/6)) και έπειτα τα έκανα fork στο προσωπικό μου λογαριασμό. Στη συνέχεια, με χρήση της εντολής git καθώς και του πακέτου glibc μπόρεσα να τροποποιήσω και να εντάξω τα αντίστοιχα submodules του λογαριασμού μου στο site και επεξεργάστηκα το περιεχόμενο που ήθελα να προσθέσω για το παραδοτεό. Μετά δημιούργησα το token για την αυθεντικοποίηση του λογαριασμού μου στο github και έκανα το τελικό push. Τέλος, έχτισα το ατομικό μου netlify για να διαπιστώσω αν υπάρχει κάποιο λογικό ή συντακτικό λάθος και μετά άνοιξα ένα pull request για ένταξη του περιεχομένου μου στα forked submodules του οργανισμού. 
 
 **Pull Requests στον οργανισμό μου:**
-- [_gallery](https://github.com/MainCharacters/_gallery/pull/3)
-- [images](https://github.com/MainCharacters/images/pull/3)
+- [_gallery](https://github.com/MainCharacters/_gallery/pull/7)
+- [images](https://github.com/MainCharacters/images/pull/5/files)
 
 
 [Go to the top](#go-to-the-top-mark-point)
@@ -180,17 +180,17 @@ _Σημείωση από το μέλλον_: Δεν έχω εγκαταστήσ�
 
 _Το παραδοτεό αυτό βασίζεται στις προσθήκες και στις ιδέες του [παραδοτέου 3](#παραδοτεο-3---συμμετοχικό-περιεχόμενο-a1)_ 
 
-Το θεματικό σετ που διάλεξα αναλογικά με τις εικόνες που πρόσθεσα είναι οι μορφές ([πρόσθεσα το περιεχόμενό μου στο forms](https://github.com/FaidonTsetsis/site/blob/master/_slides/forms.md)), δεδομένου ότι το κύριο χαρακτηριστικό/ιδέα της συσκευής που πραγματεύονται προυπάρχει και απλώς το παρατηρούμε σε διαφορετική μορφή βελτιώνοντας την αλληλεπίδραση του χρήστη με τον υπολογιστή.
+- Το θεματικό σετ που διάλεξα αναλογικά με τις εικόνες που πρόσθεσα είναι οι μορφές ([πρόσθεσα το περιεχόμενό μου στο forms](https://github.com/FaidonTsetsis/site/blob/master/_slides/forms.md)), δεδομένου ότι το κύριο χαρακτηριστικό/ιδέα της συσκευής που πραγματεύονται προυπάρχει και απλώς το παρατηρούμε σε διαφορετική μορφή βελτιώνοντας την αλληλεπίδραση του χρήστη με τον υπολογιστή.
 
-- [Netlify δοκιμαστικό ατομικό](https://6377e4e588b1911b1341ca14--chimerical-wisp-a4fe66.netlify.app/slides/forms/)
+- Το χρονολόγιο το οποίο διάλεξα είναι η "εξέλιξη του ποντικιού" ([πρόσθεσα το περιεχόμενό μου στο mouse](https://github.com/FaidonTsetsis/site/blob/master/_timeline/mouse.md)), δεδομένου ότι η ασύρματη σύνδεση bluetooth καθώς και η επιφάνεια touchpad βασίζονται στην εξέλιξη της ιδέας του ποντικιού και απλώς αναδεικνύεται η ραγδαία πρόοδος της ιδέας αυτής με τους εναλλακτικούς τρόπους χρήσης και τις καινούργιες τεχνολογίες διαδοχικά στον χρόνο.
 
-Το χρονολόγιο το οποίο διάλεξα είναι η "εξέλιξη του ποντικιού" ([πρόσθεσα το περιεχόμενό μου στο mouse](https://github.com/FaidonTsetsis/site/blob/master/_timeline/mouse.md)), δεδομένου ότι η ασύρματη σύνδεση bluetooth καθώς και η επιφάνεια touchpad βασίζονται στην εξέλιξη της ιδέας του ποντικιού και απλώς αναδεικνύεται η ραγδαία πρόοδος της ιδέας αυτής με τους εναλλακτικούς τρόπους χρήσης και τις καινούργιες τεχνολογίες διαδοχικά στον χρόνο.
+   - [site οργανισμού σε vercel - slides](https://site-theta-black.vercel.app/slides/forms/)
 
-- [Netlify δομικαστικό ατομικό](https://6377e4e588b1911b1341ca14--chimerical-wisp-a4fe66.netlify.app/timeline/mouse/)
+   - [site οργανισμού σε vercel - timeline](https://site-theta-black.vercel.app/timeline/mouse)
 
 Το αντίστοιχο pull request για τις αλλαγές στη διαφάνεια και στο χρονολόγιο:
 
-- [Pull Request](https://github.com/MainCharacters/site/pull/1)
+- [Pull Request στον οργανισμό μου](https://github.com/MainCharacters/site/pull/6) <br><br>
 
 
 [Go to the top](#go-to-the-top-mark-point)
