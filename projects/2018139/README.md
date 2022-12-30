@@ -157,9 +157,11 @@ Netlify links:
     
 ## ΠΑΡΑΔΟΤΕΟ 10-Άσκηση γραμμής εντολών
 
-Για το δέκατο παραδοτέο αποφάσισα να εκτελέσω μία λειτουργία του συστήματος του linux η οποία αρχικά είναι χρήσιμη για την καθημερινότητα και στην δική μας περίπτωση μπορεί να φανεί απαραίτητη για έναν αθλητή που προπονείται σε εξωτερικό χώρο και πρέπει να γνωρίζει τις καιρικές συνθήκες. Η λειτουργία αυτή είναι η πρόγνωνση του καιρού.
+Τo scrypt που έχω φτιάξει δουλεύει ως εξής: Ο χρήστης δίνει ένα όνομα αρχείου το οποίο πρόκειται να γίνει compile. Στην συνέχεια ακολουθείται ένα μήνυμα επιβεβαίωσης compile που απαντάτε με yes/no. Αν η απάντηση είναι yes τότε γίνετε το compile και γράφει ολοκληρώθηκε και το αποτέλεσμα. Αν δεν γίνει το compile τότε τυπώνει το compile δεν ολοκληρώθηκε.
 
--[weather check](https://asciinema.org/a/sIXGal550XvTuXcdzqonzG2AF)
+- [MYSCRYPT](https://github.com/p18stef/arxeia_anaforas/blob/main/MyScrypt)
+- [CPP](https://github.com/p18stef/arxeia_anaforas/blob/main/a.cpp)
+- [ΑΝΑΦΟΡΑ](https://github.com/p18stef/hci/blob/2018139/projects/2018139/README.md)
 
 - [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
 
@@ -177,9 +179,10 @@ Netlify links:
 
 ΠΗΓΕΣ 
 
-  -[MIKE LEE](https://conversion-rate-experts.com/myfitnesspal/)
+  - [MIKE LEE](https://conversion-rate-experts.com/myfitnesspal/)
 
- -[NHS FOOD SCANNER](https://apps.apple.com/gb/app/nhs-food-scanner/id1182946415)
+ - [NHS FOOD SCANNER](https://apps.apple.com/gb/app/nhs-food-scanner/id1182946415)
+ 
 - [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
 
 
