@@ -225,7 +225,9 @@ _Το παραδοτεό αυτό βασίζεται στις προσθήκες
 
 - [_include](https://github.com/FaidonTsetsis/site/blob/master/_includes/cs-apple-wireless.md)
 - [_case-study](https://github.com/FaidonTsetsis/site/blob/master/_case-study/apple-wireless.md)
-- [vercel site ατομικό δοκιμαστικό](https://site-11e9.vercel.app/case-study/apple-wireless/)
+- [site οργανισμού σε vercel - Ο ρόλος του ασύρματου Apple Mouse](https://site-theta-black.vercel.app/case-study/apple-wireless/)
+
+[Pull Request στον οργανισμό μου](https://github.com/MainCharacters/site/pull/5)
 
 Πηγές: 
 - [Τεχνολογία AFH](https://en.wikipedia.org/wiki/Bluetooth#Implementation)
@@ -262,9 +264,13 @@ _Το παραδοτεό αυτό βασίζεται στις προσθήκες
 
 - [_includes/bio-gerpheide.md](https://github.com/FaidonTsetsis/site/blob/master/_includes/bio-gerpheide.md)
 
-- [vercel ατομικό δοκιμαστικό](https://site-11e9.vercel.app/biography/george-gerpheide/)
+- [site οργανισμού σε vercel - George Gerpheide](https://site-theta-black.vercel.app/biography/george-gerpheide/)
 
-[Pull Request Οργανισμού](https://github.com/MainCharacters/images/pull/5)
+Pull Request στον οργανισμό μου:
+
+- [images](https://github.com/MainCharacters/images/pull/5)
+
+- [markdowns](https://github.com/MainCharacters/site/pull/5)
 
 Πηγές: [Oral History of George Gerpheide](https://www.youtube.com/watch?v=nw8SmosJvBE)<br><br>
 
