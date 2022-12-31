@@ -82,7 +82,9 @@
 
 [Asciinema Link](https://asciinema.org/a/5jsBWOJf9R5ZaJZGTYNAx4qGc)
 
+7η Άσκηση:
 
+[Asciinema Link](https://asciinema.org/a/O6XqkLLfK56SAV8HgpEYruXAW)
 
 ## Ομαδικότητα
 
