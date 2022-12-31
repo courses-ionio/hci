@@ -62,6 +62,18 @@
 
 [Asciinema Link](https://asciinema.org/a/aHisTMmqfXg4KyZ7nSivWNzAD)
 
+## Άσκηση Γραμμής Εντολών (Παραδοτέο 8)
+
+Προκειμένου να εξασκηθώ λιγάκι παραπάνω στο περιβάλλον των arch linux, πραγματοποίησα μερικές ακόμα ασκήσεις γραμμής εντολών.
+
+4η Άσκηση:
+[Asciinema Link](https://asciinema.org/a/SQlHRToXsL67v53sc9xwMCMkI)
+
+5η Άσκηση:
+[Asciinema Link](https://asciinema.org/a/svaD3bddmXOynjlqpTnFRaUEg)
+
+
+
 ## Ομαδικότητα
 
 
