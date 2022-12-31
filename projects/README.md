@@ -73,6 +73,8 @@ $ git clone https://github.com/p20kara/site.git
 
 [Asciinema Link](https://asciinema.org/a/aHisTMmqfXg4KyZ7nSivWNzAD)
 
+## Συμμετοχικό Περιεχόμενο B1
+
 ## Άσκηση Γραμμής Εντολών (Παραδοτέο 8)
 
 Προκειμένου να εξασκηθώ λιγάκι παραπάνω στο περιβάλλον των arch linux, πραγματοποίησα μερικές ακόμα ασκήσεις γραμμής εντολών.
