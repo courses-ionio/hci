@@ -67,10 +67,20 @@
 Προκειμένου να εξασκηθώ λιγάκι παραπάνω στο περιβάλλον των arch linux, πραγματοποίησα μερικές ακόμα ασκήσεις γραμμής εντολών.
 
 4η Άσκηση:
+
 [Asciinema Link](https://asciinema.org/a/SQlHRToXsL67v53sc9xwMCMkI)
 
 5η Άσκηση:
+
 [Asciinema Link](https://asciinema.org/a/svaD3bddmXOynjlqpTnFRaUEg)
+
+## Άσκηση Γραμμής Εντολών (Παραδοτέο 10)
+
+Ως τελευταίες ασκήσεις γραμμής εντολών υλοποίησα τα ακόλουθα:
+
+6η Άσκηση:
+
+[Asciinema Link](https://asciinema.org/a/5jsBWOJf9R5ZaJZGTYNAx4qGc)
 
 
 
