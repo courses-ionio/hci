@@ -19,7 +19,7 @@
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | [10ο Παραδοτέο](https://github.com/p20kara/hci/blob/2020008/projects/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-10) | Προσπάθεια για κάτι διαφορετικό στο terminal των Arch Linux ως τελευταίες ασκήσεις γραμμής εντολών|
 | 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 12 | Τελική αναφορά* | [12ο Παραδοτέο](https://github.com/p20kara/hci/blob/2020008/projects/README.md#%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) | Απολογισμός στόχων και αυτοκριτική |
 
 ## Εισαγωγή
 
