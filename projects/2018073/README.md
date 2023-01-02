@@ -306,7 +306,9 @@ Pull Request στον οργανισμό μου:
 
 **Τελικά Pull Requests:**
 
-- Πλήρης αξιολόγηση/επεξήγηση και βοήθεια σε τελικό pull request συμφοιτητή μου: [Pull request](https://github.com/courses-ionio/hci/pull/1842)
+- Πλήρης αξιολόγηση/επεξήγηση και βοήθεια σε τελικό pull request συμφοιτητή μου: [Η επεξήγηση του Pull request](https://github.com/courses-ionio/hci/pull/1842)
+
+- Αναφορά σε συμφοιτητή μου για στοιχεία και παραδοτέα που λείπουν από την αναφορά που παρέδωσε: [Το σχόλιο του Pull Request](https://github.com/courses-ionio/hci/pull/1854)
 
 **Discussions και Show-and-tell:**
 - Επεξήγηση οδηγιών σε λάθος άνοιγμα Pull Request από κάποιον συμφοιτητή μου: [Fail Pull Request](https://github.com/courses-ionio/hci/pull/1820)
