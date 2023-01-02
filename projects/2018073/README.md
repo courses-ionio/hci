@@ -105,7 +105,8 @@ _**Παρατήρηση**: το παραδοτέο αυτό έγινε αφότ�
 Έκανα fork τα submodules του pibook στον οργανισμό μου ([αντίστοιχη ανακοίνωση](https://github.com/orgs/MainCharacters/discussions/6)) και έπειτα τα έκανα fork στο προσωπικό μου λογαριασμό. Στη συνέχεια, με χρήση της εντολής git καθώς και του πακέτου glibc μπόρεσα να τροποποιήσω και να εντάξω τα αντίστοιχα submodules του λογαριασμού μου στο site και επεξεργάστηκα το περιεχόμενο που ήθελα να προσθέσω για το παραδοτεό. Μετά δημιούργησα το token για την αυθεντικοποίηση του λογαριασμού μου στο github και έκανα το τελικό push. Τέλος, έχτισα το ατομικό μου netlify για να διαπιστώσω αν υπάρχει κάποιο λογικό ή συντακτικό λάθος και μετά άνοιξα ένα pull request για ένταξη του περιεχομένου μου στα forked submodules του οργανισμού. 
 
 **Pull Requests στον οργανισμό μου:**
-- [_gallery](https://github.com/MainCharacters/_gallery/pull/7)
+- [_gallery - original PR](https://github.com/MainCharacters/_gallery/pull/3)
+- [_gallery - τελική έκδοση με αλλαγές](https://github.com/MainCharacters/_gallery/pull/7)
 - [images](https://github.com/MainCharacters/images/pull/5/files)
 
 
@@ -302,6 +303,12 @@ Pull Request στον οργανισμό μου:
 [Go to the top](#go-to-the-top-mark-point)
 
 ## Ομαδικότητα και Συνεργασία
+
+**Τελικά Pull Requests:**
+
+- Πλήρης αξιολόγηση/επεξήγηση και βοήθεια σε τελικό pull request συμφοιτητή μου: [Pull request](https://github.com/courses-ionio/hci/pull/1842)
+
+**Discussions και Show-and-tell:**
 - Επεξήγηση οδηγιών σε λάθος άνοιγμα Pull Request από κάποιον συμφοιτητή μου: [Fail Pull Request](https://github.com/courses-ionio/hci/pull/1820)
 
 - Επανάληψη επεξήγησης οδηγιών σε λάθος άνοιγμα Pull Request από κάποιον άλλο συμφοιτητή μου: [Fail Pull Request 2](https://github.com/courses-ionio/hci/pull/1823)
@@ -335,8 +342,6 @@ Pull Request στον οργανισμό μου:
 - Αναφορά των κριτηρίων βαθμολόγησης για το 9ο παραδοτέο σε συμφοιτητή μου: [σχόλιο εδώ](https://github.com/courses-ionio/help/discussions/1839)
 
 - Παρατήρηση σε συμφοιτητή μου για τη παράθεση πηγών στα παραδοτέα συμμετοχικού B1 και Β2: [η παρατήρηση εδώ](https://github.com/courses-ionio/help/discussions/1940)
-
-- Πλήρης αξιολόγηση/επεξήγηση και βοήθεια σε τελικό pull request συμφοιτητή μου: [Pull request](https://github.com/courses-ionio/hci/pull/1842)
 
 - Σχόλιο σε συμφοιτητή μου ότι έχει παραδώσει warm-up άσκηση αντί για HCI για το παραδοτέο 10: [σχόλιο εδώ](https://github.com/courses-ionio/help/discussions/1951)
 
