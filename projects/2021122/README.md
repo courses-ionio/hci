@@ -8,16 +8,16 @@
 # ΠΙΝΑΚΑΣ ΠΑΡΑΔΟΤΕΩΝ:
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα -->[ΕΙΣΑΓΩΓΗ](https://github.com/courses-ionio/help/discussions/952) | | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
-| 6 | Κατασκευή του βιβλίου Α | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα -->[ΕΙΣΑΓΩΓΗ](https://github.com/courses-ionio/help/discussions/952) | [ΣΥΖΗΤΗΣΗ 1](https://github.com/courses-ionio/help/discussions/952) |100% |
+| 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/inf2021122/hci/edit/2021122/projects/2021122/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2%CE%B7) |[ΣΥΖΗΤΗΣΗ 2](https://github.com/courses-ionio/help/discussions/1030) |75% |
+| 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/inf2021122/hci/edit/2021122/projects/2021122/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-3%CE%B7) |[ΣΥΖΗΤΗΣΗ 3](https://github.com/courses-ionio/help/discussions/1894) |76% |
+| 4 | [Άσκηση γραμμής εντολών (warm up cli)](https://github.com/inf2021122/hci/edit/2021122/projects/2021122/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-4%CE%B7) |[ΣΥΖΗΤΗΣΗ 4](https://github.com/courses-ionio/help/discussions/1251) |100% |
+| 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/inf2021122/hci/edit/2021122/projects/2021122/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-5%CE%B7) |[ΣΥΖΗΤΗΣΗ 5](https://github.com/courses-ionio/help/discussions/1899) |78% |
+| 6 | [Κατασκευή του βιβλίου Α](https://github.com/inf2021122/hci/edit/2021122/projects/2021122/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-6%CE%B7) | |42% |
+| 7 | [Συμμετοχικό περιεχόμενο B1](https://github.com/inf2021122/hci/edit/2021122/projects/2021122/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-7%CE%B7) |[ΣΥΖΗΤΗΣΗ 7](https://github.com/courses-ionio/help/discussions/1918) |76% |
+| 8 | [Άσκηση γραμμής εντολών](https://github.com/inf2021122/hci/edit/2021122/projects/2021122/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8%CE%B7) |[ΣΥΖΗΤΗΣΗ 8](https://github.com/courses-ionio/help/discussions/1753) |90% |
+| 9 | [Συμμετοχικό περιεχόμενο B2](https://github.com/inf2021122/hci/edit/2021122/projects/2021122/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-9%CE%B7) |[ΣΥΖΗΤΗΣΗ 9](https://github.com/courses-ionio/help/discussions/1919) | 76%|
+| 10 | [Άσκηση γραμμής εντολών](https://github.com/inf2021122/hci/edit/2021122/projects/2021122/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-10%CE%B7) |[ΣΥΖΗΤΗΣΗ 10](https://github.com/courses-ionio/help/discussions/1921) | 100%|
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
