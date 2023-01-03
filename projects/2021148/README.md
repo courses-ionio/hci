@@ -12,8 +12,8 @@
 | 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-2) | | |
 | 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-3) | | |
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-4) | | |
-| 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-4) | | |
-| 6 | [Κατασκευή του βιβλίου Α](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-4) | | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-5) | | |
+| 6 | [Κατασκευή του βιβλίου Α](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-6) | | |
 | 7 | [Συμμετοχικό περιεχόμενο B1](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-7) | | |
 | 8 | [Άσκηση γραμμής εντολών](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-8) | | |
 | 9 | [Συμμετοχικό περιεχόμενο B2](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) | | |
