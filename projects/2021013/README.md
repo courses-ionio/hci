@@ -22,7 +22,7 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 | 9 | <ul><li> [x] <a href="#B2">Συμμετοχικό περιεχόμενο B2 </a></ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 9](https://github.com/courses-ionio/help/discussions/1802) | `Βαθμός:10/10` <br> Δίοτι πραγματοποιήθηκαν όλα τα ζητούμενα εμπρόθεσμα. <br> <a href="#aks9">Aναλυτική αυτόαξιολόγηση εδώ</a> |
 | 10 |  <ul><li> [x] <a href="#pipelining">Άσκηση γραμμής εντολών 2 (pipelining + Shell Scripts) </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 10ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 10](https://github.com/courses-ionio/help/discussions/1803) |`Βαθμός:10/10` <br> Δίοτι πραγματοποιήθηκαν όλα τα ζητούμενα εμπρόθεσμα. <br> <a href="#aks10">Aναλυτική αυταξιολόγηση εδώ</a> |
 | 11 | <ul><li> [x] <a href="#BOOK_B">Κατασκευή του βιβλίου Β</a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 11ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 11](https://github.com/courses-ionio/help/discussions/1815)  | `Βαθμός:10/10` <br> Δίοτι πραγματοποιήθηκαν όλα τα ζητούμενα εμπρόθεσμα. <br> <a href="#aks11">Aναλυτική αυταξιολόγηση εδώ</a> |
-| 12 | <ul><li> [ ] <a href="#final_report">Τελική αναφορά </a> </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης την Τελική Αναφορά](https://github.com/courses-ionio/help/discussions/1990) | `Βαθμός:9.6/10` <br> <a href="#aks12">Τελική αυταξιολόγηση</a> |
+| 12 | <ul><li> [x] <a href="#final_report">Τελική αναφορά </a> </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης την Τελική Αναφορά](https://github.com/courses-ionio/help/discussions/1990) | `Βαθμός:9.6/10` <br> <a href="#aks12">Τελική αυταξιολόγηση</a> |
 
 # <h1 id ="introduction">1ο ΠΑΡΑΔΟΤΕΟ - ΕΙΣΑΓΩΓΗ:</h1>
 Μέσω του μαθήματος Επικοινωνία Ανθρώπου – Υπολογιστή, ως φοιτητής του ιονίου πανεπιστημίου στο τμήμα πληροφορικής ευελπιστώ να εξοικιωθώ στα παρακάτω:
@@ -446,7 +446,7 @@ tmux new -s ονόμα_session
 # Τελικό Pull request προς την ομάδα μου: [link](https://github.com/OMADA12/site/pull/9)
 ## Το οποίο επιβεβαιώνει ότι έχω διαβάσει και έχω ακολουθήσει πλήρως τις [οδηγίες συνεισφοράς και τους κανόνες της ομάδας μου](https://github.com/OMADA12/site/blob/master/.github/CONTRIBUTING.md)  
  
-# `Pull request` τελικής αναφοράς: [link]()
+# `Pull request` τελικής αναφοράς: [link](https://github.com/courses-ionio/hci/pull/1855)
  
 ## Links για την συμμετοχή μου στα [discussions](https://github.com/courses-ionio/help/discussions):
  ### [HCI PULLS](https://github.com/courses-ionio/hci/pulls):
