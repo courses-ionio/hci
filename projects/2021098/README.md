@@ -20,6 +20,10 @@ Netlify Personal Site Deploy: [Site](https://greekforce1821-site.netlify.app/)
 
 Αποθετήριο ιστοσελίδας οργανισμού: [Pibook Organization Site Repository](https://github.com/Terminal-Killers/site)
 
+Προφίλ στο Actively Learn: <ins> Spyros Kokotos inf2021098 </ins>
+
+Προφίλ στο Edpuzzle: <ins> Spyros Kokotos inf2021098 </ins>
+
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
@@ -540,3 +544,13 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 | Ερώτηση #10: ΝULL | Απάντηση #10: NULL | Παρατήρηση / Συνεισφορά #10: [Contribution Link #10](https://github.com/courses-ionio/help/discussions/1049#discussioncomment-3884814) |
 | Ερώτηση #11: ΝULL | Απάντηση #11: NULL | Παρατήρηση / Συνεισφορά #11: [Contribution Link #11](https://github.com/courses-ionio/help/discussions/833#discussioncomment-3815681)  |
 | Ερώτηση #12: ΝULL | Απάντηση #12: NULL | Παρατήρηση / Συνεισφορά #12: [Contribution Link #12](https://github.com/courses-ionio/help/discussions/1982#discussioncomment-4510034) |
+
+# Extras #2: Παράθεση Τελικού Συνδέσμου Ενσωμάτωσης Στο Αρχικό Αποθετήριο
+
+Παρακάτω, παραθέτω το link από το τελικό αίτημα ενσωμάτωσης στο αρχικό αποθετήριο του μαθήματος.
+
+[Final Pull Request Link](https://github.com/courses-ionio/hci/pull/1850)
+
+Καλή Χρονιά, Χρόνια Πολλά με υγεία!
+
+Ευτυχισμένο το 2023 !
