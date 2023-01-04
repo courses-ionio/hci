@@ -7,13 +7,13 @@
 
 | Εβδομάδα | Παραδοτέα | Links προς τις συζητήσεις του μαθήματος | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 |  **1.** [Δημιουργία ομάδας](https://github.com/ContattoContare) **2.**[Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://github.com/aggelos2000430/hci/blob/2018076/projects/2018076/README.md) **3.** [Συγγραφή της εισαγωγής](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) **4.** αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/1159)| [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1159) | |
-| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1516)| |
-| 3 | Συμμετοχικό περιεχόμενο A1 | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1828) | |
-| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1544) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1829) | |
-| 6 | Κατασκευή του βιβλίου Α | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1947) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1970) | |
+| 1 |  **1.** [Δημιουργία ομάδας](https://github.com/ContattoContare) **2.**[Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://github.com/aggelos2000430/hci/blob/2018076/projects/2018076/README.md) **3.** [Συγγραφή της εισαγωγής](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) **4.** αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/1159)| [Link to Discussions](https://github.com/courses-ionio/help/discussions/1159) | 'Ισως τα κριτήρια μου για επιλογή ομάδας να μην ήταν σωστά, μιας και η πρώτη ομάδα που επέλεξα, μετά το πέρας της 3ης εβδομάδας κατέληξε να είναι ανενεργή! |
+| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | [Link to Discussions](https://github.com/courses-ionio/help/discussions/1516)| Θα έπρεπε να είμαι πιο προσεκτικός κατά την προσπάθεια μου να εγκαταστήσω το λογισμικό στο USB stick, έτσι δεν θα κατέστρεφα το καθημερινό μου περιβάλλον |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Link to Discussions](https://github.com/courses-ionio/help/discussions/1828) | Θα μπορούσα να γλιτώσω πολύ χρόνο εάν τοποθετούσα τα αρχεία και τις φωτογραφίες ένα-ένα μιας και θα ανακάλυπτα νωρίτερα το συντακτικό λάθος που υπήρχε σε ένα αρχείο, το οποίο απέτρεπε την κατασκευή της ιστοσελίδας |
+| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | [Link to Discussions](https://github.com/courses-ionio/help/discussions/1544) | Δεν αντιμετώπισα καμία δυσκολία κατά την εκτέλεση του παραδοτέου, μιας και ήδη απο το 2ο Παραδοτέο είχα εγκαταστήσει σε φυσικό υλικό. Φυσικά εάν είχα χρησιμοποιήσει από την αρχή ένα γραφικό περιβάλλον θα είχα γλιτώσει πολύ χρόνο |
+| 5 | Συμμετοχικό περιεχόμενο A2 | [Link to Discussions](https://github.com/courses-ionio/help/discussions/1829) | Οι ικανότητες που απέκτησα με την ολοκλήρωση του 3ου Παραδοτέου, μου επέτρεψαν να ολοκληρώσω το συγκεκριμένο σε σχετικά μικρό χρονικό διάστημα  |
+| 6 | Κατασκευή του βιβλίου Α | [Link to Discussions](https://github.com/courses-ionio/help/discussions/1947) | Παραδόξως δεν αντιμετώπισα πολλές δυσκολίες κατα τη δημιουργία του PDF αρχείου ενώ έπειτα από μια μικρή έρευνα δημιούργησα και το φίλτρο Lua!|
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Link to Discussions](https://github.com/courses-ionio/help/discussions/1970) | Λόγω των γνώσεων και ικανοτήτων που αποκτήθηκαν στα προηγούμενα παραδοτέα δεν αντιμετώπισα σχεδόν καμία δυσκολία|
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -181,3 +181,7 @@
 | 8 |Engelbart's Unfinished Revolution - 1998 - Session IV| :heavy_check_mark: | :heavy_check_mark: |
 | 9 |Dynabook: The Complete Story| :heavy_check_mark: | :heavy_check_mark: |
 | 10 |Alan Kay at Media Lab 30| :heavy_check_mark: | :heavy_check_mark: |
+
+# **Συμπεράσματα**
+
+Οφείλω να ομολογήσω πως είχα εξασκήσει και στο παρελθόν την πειθαρχεία και την υπομονή μου, γεγονός που με οδήγησε στο να ολοκληρώσω τα 7 πρώτα Παραδοτέα και τα 10 βίντεο κουίζ, παρόλες τις αρκετές δυσκολίες που αντιμετώπισα, αγνόησα την "φωνή" στο πίσω μέρος του μυαλού μου η οποία μου έλεγε παράτησέ τα. Φτάνοντας στο τέλος, θεωρώ πως ξόδεψα αρκετό χρόνο στο συγκεκριμένο μάθημα αλλα αναλογεί στις γνώσεις, ικανότητες και τρόπο σκέψης που απέκτησα για τις οπίες είμαι περίφανως που απέκτησα διότι θα με βοηθήσουν να εκπληρώσω τον αρχικό μου στόχο που περιέγραψα στην εισαγωγή.
