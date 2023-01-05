@@ -25,7 +25,7 @@ Edpuzzle profile: GiorgosChiras p2019080
 | 9 | <p align="center">[Συμμετοχικό περιεχόμενο B2](#9ο-Παραδοτέο---Συμμετοχικό-Υλικό-Β2)</p> |<p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1858) | Δημιουργήθηκε η βιογραφία για τον John Carmack εντός προθεσμίας |
 | 10 | <p align="center">[Άσκηση γραμμής εντολών](#10ο-Παραδοτέο---Άσκηση-γραμμής-εντολών)</p> | <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/1937)</p>| Έγινε μετατροπή της αναφοράς σε HTML, docx, epub, εντός προθεσμίας|
 | 11 | <p align="center">[Κατασκευή του βιβλίου Β](#11ο-Παραδοτέο---Κατασκευή-του-βιβλίου-Β)</p> | <p align="center">[Σύνδεσμος στις συζητήσεις](https://github.com/courses-ionio/help/discussions/2000)| Προστέθηκαν οι συνεισφορές μου στο βιβλίο, και έγινε η μετατροπή του σε epub |
-| 12 | <p align="center">Τελική αναφορά*</p> | | |
+| 12 | <p align="center">[Τελική αναφορά*](#Συμπεράσματα)</p> |<p align="center">[Σύνδεσμος αιτήματος](https://github.com/courses-ionio/hci/pull/1859) | Έγινε το αίτημα ενσωμάτωσης προς το κεντρικό εντός προθεσμίας|
 
 
 <h2 align="center">Εισαγωγή</h2>
