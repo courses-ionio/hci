@@ -2,6 +2,8 @@
 
 Αριθμός μητρώου: inf2021182
 
+Edpuzzle username: 2021182 Petros Perantonakis
+
 Ομάδα: [Greek-Salata](https://github.com/Greek-Salata)
 
 
