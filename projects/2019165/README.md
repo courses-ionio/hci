@@ -199,6 +199,7 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 <p> Για το ενδέκατο παραδοτέο δημιουργήθηκε το βιβλίο του αποθετηρίου kallipos σε μορφή epub. Παράλληλα δημιουργήθηκε το ίδιο βιβλίο μαζί με τις προσωπικές προσθήκες μου, που είχα υλοποιήσει σε προηγούμενα παραδοτέα, σε μορφή pdf ώστε να είναι άμεσα προσβάσιμες και ορατές οι προσθήκες.</p>
 
 ![Βιογραφία](https://github.com/Alessenia/Images-for-Report/blob/main/Ralph-Baer-Screen.png)
+
 ![Μελέτη Περίπτωσης](https://github.com/Alessenia/Images-for-Report/blob/main/DS-Screen.png)
 
 
