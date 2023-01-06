@@ -153,15 +153,17 @@ Netlify links:
   
   - https://conversion-rate-experts.com/myfitnesspal/
 
+
 - [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
     
 ## ΠΑΡΑΔΟΤΕΟ 10-Άσκηση γραμμής εντολών
 
-Τo scrypt που έχω φτιάξει δουλεύει ως εξής: Ο χρήστης δίνει ένα όνομα αρχείου το οποίο πρόκειται να γίνει compile. Στην συνέχεια ακολουθείται ένα μήνυμα επιβεβαίωσης compile που απαντάτε με yes/no. Αν η απάντηση είναι yes τότε γίνετε το compile και γράφει ολοκληρώθηκε και το αποτέλεσμα. Αν δεν γίνει το compile τότε τυπώνει το compile δεν ολοκληρώθηκε.
+Τo scrypt που έχω φτιάξει δουλεύει ως εξής: Ο χρήστης δίνει ένα όνομα αρχείου το οποίο πρόκειται να γίνει compile. Στην συνέχεια ακολουθείται ένα μήνυμα επιβεβαίωσης compile που απαντάτε με yes/no. Αν η απάντηση είναι yes τότε γίνετε το compile και γράφει ολοκληρώθηκε και το αποτέλεσμα. Αν δεν γίνει το compile τότε τυπώνει το compile δεν ολοκληρώθηκε. Στο συγκεκριμένο scrypt κατέληξα επιλέγοντας μία από τις κατηγορίες από τον πίνακα hci.
 
 - [MYSCRYPT](https://github.com/p18stef/arxeia_anaforas/blob/main/MyScrypt)
 - [CPP](https://github.com/p18stef/arxeia_anaforas/blob/main/a.cpp)
-- [ΑΝΑΦΟΡΑ](https://github.com/p18stef/hci/blob/2018139/projects/2018139/README.md)
+- [ASCIINEMA](https://asciinema.org/a/dxbddeR2lnV0xNYNiiNSEmLoQ)
+
 
 - [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
 
@@ -169,11 +171,11 @@ Netlify links:
 
 Οι προσθήκες που έκρινα πως ήταν απαραίτητες για το βιβλίο αποτελούνται από το βιογραφικό του Mike Lee (κατασκευαστή του MyFitnessPal) και μία αναφορά στην εφαρμογή του NHS FOOD SCANNER. Έκανα αυτές τις δύο επιλογές διότι ήθελα να αναδείξω την συνοχή των δύο αυτών εφαρμογών και τα αποτελέσματα που μπορούν να αποφέρουν με την συνεργασία τους. Ο χρήστης λοιπόν έχει την δυνατότητα να ελέγχει τα μακροθρεπτικά συστατικά των τροφίμων μέσω του food scanner και να τα προσθέτει μέσω του MyFitnessPal ωστε να εντοπίσει την θερμιδική του πρόσληψη. Σε αυτό το σημείο θα παραθέσω ένα scrennshot απο το βιβλίο αλλά και τα links μτου  σε pdf και e.pub μορφή.
 
--[sceenshot](https://github.com/p18stef/kallipos/blob/master/pictures/BookB.png)
+- [sceenshot](https://github.com/p18stef/kallipos/blob/master/pictures/BookB.png)
 
--[pdf](https://github.com/p18stef/kallipos/blob/master/book/book.pdf)
+- [pdf](https://github.com/p18stef/kallipos/blob/master/book/book.pdf)
 
--[e.pub](https://github.com/p18stef/kallipos/blob/master/book/book.epub)
+- [e.pub](https://github.com/p18stef/kallipos/blob/master/book/book.epub)
 
 
 
@@ -182,9 +184,11 @@ Netlify links:
   - [MIKE LEE](https://conversion-rate-experts.com/myfitnesspal/)
 
  - [NHS FOOD SCANNER](https://apps.apple.com/gb/app/nhs-food-scanner/id1182946415)
+
+
  
 - [go top](https://github.com/p18stef/hci/tree/2018139/projects/2018139#%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1)
 
+## ΠΑΡΑΔΟΤΕΟ 12-Συμπεράσματα
 
-
-  
+Στο 12ο και τελευταίο παραδοτέο καλούμαστε να διατυπώσουμε τα συμπεράσματα μας από το συγκεκριμένο μάθημα σύμφωνα με τους προσωπικούς στόχους που ο καθένας έχει θεσεί. Στην δικιά μου περίπτωση οι στόχοι μου πραγματοποιήθηκαν με επιτυχία εφόσον ερευνήσαμε την διάδραση του ανθρώπου με τον υπολογιστή με διάφορους τρόπους. Ένας από αυτούς είναι οι ασκήσεις γραμμής εντολών οι οποίες παρουσιάζουν κάποια δυσκολία και αναγκάζουν τον χρήστη να μελετήσει από ποικίλες πηγές (forums,videos,wiki) ώστε να καταφέρει να τις φέρει εις πέρας. Επιπλέον το εβομαδιαία video ήταν τροφή για σκέψη και μελέτη εφόσον οι ερωτήσεις παρακινούσαν τον μαθητή να κάνει μία μικρή έρευνα. Σε πιο προσωπικό κομμάτι το μάθημα με βοήθησε στην φοιτητική μου κοινωνικοποίηση εφόσον ήταν απαιτούμενο να δημιουργήσουμε ομάδες. Από αυτή την διαδικασία έκανα μερικούς φίλους με τους οποίους συνεργαστήκαμε κατά την διάρκεια της χρονιάς. Την ευκαιρία της κοινωνικοποίησης την αξιοποίησα περισσότερο με την συμμετοχή μου στα δια ζώσης μαθήματα που εκτελούνται σε μορφή μικρών γκρουπ και προωθείται ο διάλογος και η αλληλοβοήθεια. Τέλος στην εισαγωγή μου έκανα λόγο σχετικά με το κατά πόσο μπορεί να συνδιαστεί η αλληλεπίδραση ανθρώπου υπολογιστή με τα hobby και τον αθλητισμό.
