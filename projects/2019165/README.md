@@ -19,7 +19,7 @@
 | 8 | Άσκηση γραμμής εντολών |[Ανάρτηση του Shell Script στα discussions](https://github.com/courses-ionio/help/discussions/1766) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 |[Aνάρτηση της βιβλιογραφίας που επέλεξα στα discussions](https://github.com/courses-ionio/help/discussions/1822) | |
 | 10 | Άσκηση γραμμής εντολών |[Ανάρτηση του Shell Script στα discussions](https://github.com/courses-ionio/help/discussions/1982) | |
-| 11 | Κατασκευή του βιβλίου Β | | |
+| 11 | Κατασκευή του βιβλίου Β |[Ανάρτηση του βιβλίου με τις προσθήκες μου στα discussions](https://github.com/courses-ionio/help/discussions/1998) | |
 | 12 | Τελική αναφορά* | | |
 
 
@@ -186,6 +186,23 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 #### [Genesis of television Gaming](https://www.immigrantentrepreneurship.org/entries/ralph-baer/#The_Genesis_of_Television_Video_Gaming)
 #### [The Smithsonian Museum about Ralph Baer](https://americanhistory.si.edu/collections/object-groups/the-father-of-the-video-game-the-ralph-baer-prototypes-and-electronic-games)
 #### [An interview with Ralph Baer](https://www.gamedeveloper.com/business/the-right-to-baer-games---an-interview-with-ralph-baer-the-father-of-video-games)
+
+# Παραδοτέο 10 - Άσκηση Γραμμής Εντολών
+<br>
+<p> Για το δέκατο παραδοτέο έγραψα ένα shell script το οποίο κάνει compile προγράμματα σε c γλώσσα και αποθηκεύει το αποτέλεσμα του compilation σε ένα αρχείο txt. Το shell script βασίστηκε στην λογική του tmux , ενός εργαλείου που δίνει την δυνατότητα ταυτόχρονης πρόσβασης σε πολλαπλές συνεδρίες τερματικού σε ένα μόνο παράθυρο. Με αυτόν τον τρόπο στο ίδιο παράθυρο του τερματικού έτρεχε το shell script που ζητούσε να δημιουργηθεί ένα αρχείο .c ,ενώ παράλληλα μέσω του tmux έχει ανοίξει ένα δεύτερο παράθυρο συνεδρίας όπου μπορεί να εισαχθεί το πρόγραμμα σε c που θέλουμε να εκτελεστεί και έπειτα επιστρέφοντας στο πρώτο μας παράθυρο και κάνουμε compile στον κώδικα μας. Στο asciinema μου επέλεξα να ανοίξω και μία τρίτη συνεδρία στο ίδιο παράθυρο , ώστε να γίνει display των αποτελεσμάτων του προγράμματος μέσω του αρχείου txt που άνοιξα με το nano.</p>
+ 
+#### [To shell script](https://github.com/Alessenia/10-Exercise/blob/main/my-c-compiler.sh)
+#### [Asciinema με τη χρήση του script](https://asciinema.org/a/g6BRNGBCm2FXRz6PWEwfrRE70)
+#### [Repository με το πρόγραμμα c που εκτέλεσα & το results.txt](https://github.com/Alessenia/10-Exercise)
+
+# Παραδοτέο 11 - Κατασκευή του βιβλίου Β
+<p> Για το ενδέκατο παραδοτέο δημιουργήθηκε το βιβλίο του αποθετηρίου kallipos σε μορφή epub. Παράλληλα δημιουργήθηκε το ίδιο βιβλίο μαζί με τις προσωπικές προσθήκες μου, που είχα υλοποιήσει σε προηγούμενα παραδοτέα, σε μορφή pdf ώστε να είναι άμεσα προσβάσιμες και ορατές οι προσθήκες.</p>
+
+![Βιογραφία](https://github.com/Alessenia/Images-for-Report/blob/main/Ralph-Baer-Screen.png)
+![Μελέτη Περίπτωσης](https://github.com/Alessenia/Images-for-Report/blob/main/DS-Screen.png)
+
+
+
 
 
 
