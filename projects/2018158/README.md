@@ -18,7 +18,7 @@
 | 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | [Book A](https://github.com/courses-ionio/help/discussions/1812) | |
 | 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) | [Contribution B1](https://github.com/courses-ionio/help/discussions/1718) | |
 | 8 | [Άσκηση γραμμής εντολών](#παραδοτέο-8) | [Use Terminal as IDE](https://github.com/courses-ionio/help/discussions/1791) | |
-| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) | [Contribution B1]() | |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) | [Contribution B2](https://github.com/courses-ionio/help/discussions/1852) | |
 | 10 | [Άσκηση γραμμής εντολών](#παραδοτέο-10) | [Convert between different text formats]() | |
 | 11 | [Κατασκευή του βιβλίου Β](#παραδοτέο-11) | [Book A]() | |
 | 12 | [Τελική αναφορά](#παραδοτέο-12) | [Epilogue]() | |
@@ -207,6 +207,14 @@ asciinema link: [Terminal as IDE](https://asciinema.org/a/Fo8R0cCTDyft43ULZClwsX
 [biography](https://github.com/AnTonyPapako/site/blob/master/_biography/adam-cheyer.md)
 
 [includes](https://github.com/AnTonyPapako/site/blob/master/_includes/bio-cheyer.md)
+
+Πηγές
+
+-[Adam Cheyer's website](https://www.youtube.com/watch?v=TM0kG-7RP-Y)
+
+-[The Story Behind Siri](https://medium.com/swlh/the-story-behind-siri-fbeb109938b0)
+
+-[The Story Behind Siri - Adam Cheyer](https://www.youtube.com/watch?v=TM0kG-7RP-Y)
 
 ##
 
