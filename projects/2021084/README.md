@@ -43,6 +43,18 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 [Ένα screenshot από το pdf](https://github.com/R3try0/kallipos/blob/master/Screenshot_2022-11-18_13_05_55.png)
 
 # Παραδοτέο 7ο
+[A case study for siemens_scada](https://github.com/R3try0/site/blob/master/_case-study/siemens_scada.md)
+[A case study for atm_machine](hhttps://github.com/R3try0/site/blob/master/_case-study/atm_machine.md)
+
+
+# Παραδοτέο 8ο
+[asccinema](https://asciinema.org/a/550174)
+
+[the md file](https://github.com/R3try0/other_files)
+
+[the docx file](https://github.com/R3try0/other_files)
+
+# Παραδοτέο 9ο
 [Βιογραφία του Barron](https://github.com/R3try0/site/blob/master/_biography/john-shepherd-barron.md)
 [Βιογραφία του Siemens](https://github.com/R3try0/site/blob/master/_biography/werner-von-siemens.md)
 
@@ -54,15 +66,6 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 [www.britannica.com](https://www.britannica.com/biography/Werner-von-Siemens)
 [www.siemens.com](https://www.siemens.com/global/en/company/about/history/stories/werner-von-siemens.html)
 [www.thefamouspeople.com](https://www.thefamouspeople.com/profiles/werner-von-siemens-6564.php)
-
-# Παραδοτέο 8ο
-[asccinema](https://asciinema.org/a/550174)
-
-[the md file](https://github.com/R3try0/other_files)
-
-[the docx file](https://github.com/R3try0/other_files)
-
-# Παραδοτέο 9ο
 
 # Παραδοτέο 10ο
 
