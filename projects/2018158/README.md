@@ -202,6 +202,12 @@ asciinema link: [Terminal as IDE](https://asciinema.org/a/Fo8R0cCTDyft43ULZClwsX
 
 Συμμετοχικό περιεχόμενο B2.
 
+Στο τελικό συμμετοχικό περιεχόμενο ζητούμενο είναι η γραφή της βιογραφίας ένος ατόμου με ιδιαίτερο εργό στον τομέα της πληροφορικής συσχετιζόμενος με τα προηγούμενα συμμετοχικά περιεχόμενα που αναγράφθηκαν. Ο Adam Cheyer πρόκειται για έναν ειδικό στην τεχνητή νοημοσύνη με ερευνητικό επίκεντρο τους έξυπνους πράκτορες και με όνειρο να βελτιώσει την ποιόητητα ζωής των ανθρώπων μέσω της τεχνολογίας, το οποίο εμμέσως το έχει επετύχει με τη δημιουργία της βοηθού Siri.
+
+[biography](https://github.com/AnTonyPapako/site/blob/master/_biography/adam-cheyer.md)
+
+[includes](https://github.com/AnTonyPapako/site/blob/master/_includes/bio-cheyer.md)
+
 ##
 
 ### Παραδοτέο 10
