@@ -109,6 +109,21 @@ asciinema link: https://asciinema.org/a/u7kQdDbClXcn05Br2Jv1Sabnl
 <br />
 Το rock-paper-scissors είναι ένα από τα πιο κλασσικά και διαχρονικά παιχνίδια.Η μεταφορά του στους υπολογιστές έχει γίνει με διάφορες παραλαγές και είναι μια από τις πρώτες προσπάθειες του ανθρώπου για την ψηφιοποίηση παιχνιδιών.Μέσα στο παιχνίδι ο χρήστης παίζει αντίπαλος με τον υπολογιστή και νικητής είναι αυτός που θα πάει πρώτος στις 3 νίκες.Τέτοιες εφαρμογές φέρνουν την διάδραση με τον υπολογιστή σε ευρήτερο κοινό και την καθιστούν πιο ευχάριστη. 
 
+# Παραδοτέο_9
+Σε αυτο το παραδοτεο διμιουργησα την βιογραφια του Ralph Baer,ο διμιουργος της κονσολας Magnavox Odyssey και κεντρικο πρωσοπο στην αναπτυξη της βιομηχανιας των βιντεοπαιχνιδιων.Η επιτιχια του Ralph στον χωρο των βιντεοπαιχνιδιων εμπνευσε και αλλες αιτεριες να ακολουθησουν στα βηματα τους,μετατρεπωντας την σε μια απο τις μεγαλητερες βιομηχανιες του σημερα.
+- [biography](https://github.com/giormaster/site/blob/master/_biography/ralph-baer.md)
+
+- [includes](https://github.com/giormaster/site/blob/master/_includes/bio-ralph-baer.md)
+
+- [site](https://site-theta-black.vercel.app/biography/ralph-baer)
+
+# Παραδοτέο_11
+Σε αυτο το παραδοτεο διμιουργησα την epub εκδοχη του βιβλιου.Για να το κανω αυτο χρειαστεικε να πρωσθεσω τις φοτογραφιες που ειχα στο biography και στο case study στα extras του βιβλιου και στην συνεχεια τα προσθεσα στην ενωτητα 8.Τελος προσθεσα την εντολη pandoc --quiet -f latex book.tex -o book.epub στο αρχειο make-latex για να διμιουργησω το epub version του βιβλιου
+- [Book PDF](https://github.com/giormaster/kallipos/blob/master/book.pdf)
+
+- [Book EPUB](https://github.com/giormaster/kallipos/blob/master/book.epub)
+
+
 
 
 
