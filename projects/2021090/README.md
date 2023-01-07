@@ -72,7 +72,8 @@
 |    [netlify4oudini](https://inf2021090.netlify.app/gallery/houdini/)  |   [houdini](https://github.com/inf2021090/_gallery/blob/master/houdini.md)    |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
 | [blender](https://inf2021090.netlify.app/gallery/blender/)  |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)    |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)         |
 
-Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο [ΠΑΡΑΤΗΜΑ](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1)
+*Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο [ΠΑΡΑΤΗΜΑ](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1)
+
 ## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
 
 <br />
@@ -99,19 +100,17 @@ pull request
  
  | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
-|   [computer-graphics](https://inf2021090.netlify.app/timeline/computer-graphics/)   |       |              |
-|  [ar timeline](https://inf2021090.netlify.app/timeline/augmented-reality/) |        |              |
+|   [computer-graphics](https://inf2021090.netlify.app/timeline/computer-graphics/)   |   [computer-graphics](https://github.com/inf2021090/site/blob/master/_timeline/computer-graphics.md)    |  [pull req](https://github.com/ContattoContare/site/pull/32)            |
+|  [ar timeline](https://inf2021090.netlify.app/timeline/augmented-reality/) |    [ar]( https://github.com/inf2021090/site/blob/master/_timeline/augmented-reality.md )  |   [pull req](https://github.com/ContattoContare/site/pull/32)           |
 
 ### Slides
 
 |Netlify|Repositiry|Pull Request|
 |---|---|---|
-|[simulation](https://inf2021090.netlify.app/slides/simulation/)|||
-|[graphics design](https://inf2021090.netlify.app/slides/graphic-design/)|||
+|[simulation](https://inf2021090.netlify.app/slides/simulation/)|[simulation](https://github.com/inf2021090/site/blob/master/_slides/simulation.md)|[pull req](https://github.com/ContattoContare/site/pull/32)|
+|[graphics design](https://inf2021090.netlify.app/slides/graphic-design/)|[graphics design](https://github.com/inf2021090/site/blob/master/_slides/graphic-design.md)|[pull req](https://github.com/ContattoContare/site/pull/32)|
 
-https://github.com/ContattoContare/site/pull/32
-
-Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο [ΠΑΡΑΤΗΜΑ](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1)
+*Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο [ΠΑΡΑΤΗΜΑ](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1)
 
 ## Εβδομάδα Έκτη - Κατασκευή του βιβλίου Α
 
