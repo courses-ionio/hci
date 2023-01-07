@@ -140,8 +140,8 @@ https://github.com/ContattoContare/site/pull/32
 
 |scripts| 
 |----|
-||
-||
+|[script4tmux](https://github.com/inf2021090/prototypes/blob/main/t-dev.sh[])|
+|[blender-render-script](https://github.com/inf2021090/prototypes/blob/main/brender.sh)|
 
 *TOOLS:* tmux, w3m , bash scripts, vim
 
@@ -151,7 +151,7 @@ https://github.com/ContattoContare/site/pull/32
 
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
-|   https://testsite-inf2021090.netlify.app/biography/myron-krueger/   |       |              |
+|   [myronkrueger](https://testsite-inf2021090.netlify.app/biography/myron-krueger/)   | [myronkrueger]()      |  [myronkrueger]()              |
 
 ## Εβδομάδα Δέκατη - Άσκηση γραμμής εντολών (HCI)
 
@@ -163,7 +163,7 @@ https://github.com/ContattoContare/site/pull/32
 
 |scripts|
 |---|
-||
+|[convertor](https://github.com/inf2021090/prototypes/blob/main/wtpdf.sh)|
 
 *TOOLS:* vim vimwiki pandoc
 
