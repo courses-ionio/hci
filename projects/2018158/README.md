@@ -214,6 +214,14 @@ asciinema link: [Terminal as IDE](https://asciinema.org/a/Fo8R0cCTDyft43ULZClwsX
 
 Άσκηση γραμμής εντολών.
 
+**assignment:** convert between different text formats
+
+**deliverables:** use vim (or emacs) to write your report in markdown, track multiple formats with git and convert it to docx, html with pandoc
+
+asciinema link: [Convert between different text formats](https://asciinema.org/a/9etNaFT02t5G2X5xAxEtHOhxA)
+
+Για την τελική άσκηση γραμμής εντολών δημιουργήθηκε .sh αρχείο που μετατρέπει αρχεία κειμένου σε επιπλέον διαθέσιμους τύπους, συγκεκριμένα ένα markdown αρχείο σε .html ή .docx. Στο bash αρχείο αναγράφονται και βήματα ως βοήθεια προς τον χρήστη και ακόμη χρησιμοποιείται pipe-lining για τις εντολές εισόδου του χρήστη ώστε να επιλέξει το είδος μετατροπής του .md αρχείου καθώς και δημιουργίας των αρχείων όπως επίσης του φακέλου που εισάγονται το τελικό προϊόν.
+
 ##
 
 ### Παραδοτέο 11
