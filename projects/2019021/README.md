@@ -61,3 +61,6 @@
  
  # Παραδοτέο 6: Κατασκευή του βιβλίου Α
  
+ 
+ ![Arch Linux  Running  - Oracle VM VirtualBox 1_7_2023 4_29_58 PM](https://user-images.githubusercontent.com/72880868/211155828-567226c7-6354-4632-8ed8-b71c3495dc53.png)
+
