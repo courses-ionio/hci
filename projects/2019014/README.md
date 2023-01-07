@@ -577,4 +577,5 @@ O Bob Sproull είναι Αμερικάνος επιστήμονας της πλ
 | Σχολιασμοί τελικών αναφορών | 
 | --- | 
 | [Τελική αναφορά συναδέλφου 1](https://github.com/courses-ionio/hci/pull/1872/) | 
-| [Τελική αναφορά συναδέλφου 2](https://github.com/courses-ionio/hci/pull/1869/) | 
+| [Τελική αναφορά συναδέλφου 2](https://github.com/courses-ionio/hci/pull/1869/) |
+| [Τελική αναφορά συναδέλφου 3](https://github.com/courses-ionio/hci/pull/1862/) |
