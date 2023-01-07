@@ -7,7 +7,7 @@
 
 Όνομα ομάδας: OMADA12 <br>
 GitHub organisation url: [OMADA12](https://github.com/OMADA12)
-# παραδοτέο 1ο
+# Παραδοτέο 1ο
 
 Ο σκοπός της συμμετοχής στο μάθημα Επικοινωνία Ανθρώπου-Υπολογιστή λόγου ότι μας δίνεται οι ευκαιρία στην προσπάθεια ανάπτυξης ή καλύτερης κατανόησης στην δεξιοτεχνία της χρήσης της ιστοσελίδας Github και την διαχείριση του λειτουργικού συστήματος Arch Linux προσδοκάται η όσο ποιό καλή κατανόηση των δυο αυτών αντικειμένων. Με την ανάπτυξη της ικανότητας χρήσης της ιστοσελίδας github αποτελεί μια από της ποιο σημαντικές ικανότητες για έναν πληροφορικό ή επιστήμονα της πληροφορικής. Έπειτα η αναπτύξει της δεξιοτεχνίας στην διαχείριση των λειτουργικών συστημάτων Linux και ποιο συγκεκριμένα των Arch Linux αποτελεί και αυτό αντίστοιχα μια από της ποιο βασικές ικανότητες που πρέπει να έχει ένας πληροφορικός/επιστήμονας της πληροφορίας.
 
@@ -18,7 +18,7 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 # Παραδοτέο 3ο
 [Προσωπική Ιστοσελίδα του βιβλείου](https://vermillion-inf.netlify.app/)
     * [Siemens Scada Systems](https://omada12.netlify.app//gallery/siemens_scada/)
-    * [Autommated Teller Machines](https://vermillion-inf.netlify.app/gallery/atm/)
+    * [Autommated Teller Machines](htΠps://vermillion-inf.netlify.app/gallery/atm/)
     * [ATM markdown files](https://github.com/R3try0/_gallery/blob/master/atm.md)
     * [Siemence Scada Systems markdown files](https://github.com/R3try0/_gallery/blob/master/siemens_scada.md)
 
