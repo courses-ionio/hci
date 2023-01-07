@@ -17,17 +17,17 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | Εισαγωγή| [Click](https://github.com/courses-ionio/help/discussions/976) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> H τελική μορφή προέκυψε μετά από αλλαγές κατόπιν παρατηριήσεων στην τάξη και προσωπικής έρευνας|
-| 2 | Άσκηση γραμμής εντολών (linux install) |[Click](https://github.com/courses-ionio/help/discussions/1112) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 |[Click](https://github.com/courses-ionio/help/discussions/1207) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Click](https://github.com/courses-ionio/help/discussions/1349)| |
-| 5 | Συμμετοχικό περιεχόμενο A2 | [Click](https://github.com/courses-ionio/help/discussions/1467)| |
-| 6 | Κατασκευή του βιβλίου Α |[Click](https://github.com/courses-ionio/help/discussions/1577)  | |
-| 7 | Συμμετοχικό περιεχόμενο B1 |[Click](https://github.com/courses-ionio/help/discussions/1698) | |
-| 8 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1785) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 |[Click](https://github.com/courses-ionio/help/discussions/1840) | |
-| 10 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1874) | |
-| 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 2 | Άσκηση γραμμής εντολών (linux install) |[Click](https://github.com/courses-ionio/help/discussions/1112) |Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[Click](https://github.com/courses-ionio/help/discussions/1207) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Click](https://github.com/courses-ionio/help/discussions/1349)| Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 5 | Συμμετοχικό περιεχόμενο A2 | [Click](https://github.com/courses-ionio/help/discussions/1467)| Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 6 | Κατασκευή του βιβλίου Α |[Click](https://github.com/courses-ionio/help/discussions/1577)  | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 7 | Συμμετοχικό περιεχόμενο B1 |[Click](https://github.com/courses-ionio/help/discussions/1698) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 8 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1785) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 9 | Συμμετοχικό περιεχόμενο B2 |[Click](https://github.com/courses-ionio/help/discussions/1840) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 10 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1874) |Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> |
+| 11 | Κατασκευή του βιβλίου Β | |Εκπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> |
+| 12 | Τελική αναφορά* | | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
 
 
 <br /><br />
@@ -60,12 +60,6 @@
 ![alt text](https://github.com/inf2021090/images/blob/master/houdini.png)
 
 &nbsp;&nbsp;&nbsp;Για την δημηουργία του thumbnail χρησιμοποιήθηκε αυτό το [ονλάιν πρόγραμμα επεξεργασίας εικόνας](https://www9.lunapic.com/editor/?action=scale).Για το κάθε ένα δημιουργήθηκαι ένα ξεχωριστό αρχείο **markdown** με όλα τα απαράιτητα στοιχεία.Για να ανέβουν στο  github έπρεπε να γίνει εγκατάσταση των αποθετηρίων site, _gallery,images αφού προηγουμένος είχε γίνει αντίστοιχο fork αυτών στο github profile μου μέσω του **ομαδικού οργανισμού**.Η ομάδα μας αντιμετόπησε προβλήμτα λόγου ελλειπή αρχικού χειρισμού των αποθετηρίων ,αλλά αντιμετοπίστηκαν με την μεταξύ μας συνεργασία, τους οδηγούς συμφητητών, και εξωτερικών πηγών από το διαδίκτυο.
-
-τα ΠΑΛΙΑ pull requests
-(https://github.com/ContattoContare/_gallery/pull/2/commits/bbd37a5fb70eb1d161d33133ec9caab99f83bfaa)
-(https://github.com/ContattoContare/site/pull/3)
-(https://github.com/ContattoContare/site/pull/2/files)
-
 
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
@@ -126,6 +120,8 @@ pull request
 
 <br />
 
+&nbsp;&nbsp;&nbsp;
+
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
 |   https://testsite-inf2021090.netlify.app/case-study/graphics-3d/   |       |              |
@@ -150,6 +146,8 @@ pull request
 
 <br />
 
+&nbsp;&nbsp;&nbsp; Το έργο του Myron Krueger και οι απόψεις του για την διάδραση παρουσιάζουν ιδιαίτερο ενδιαφερόν από την οπτική των τρισδιάστατων γραφηκών και τον ρόλο τους στην διάδραση για αυτό και επέλεξα την περίπτωσή του για την βιογραφία στο ζητούμενο αυτού του παραδοτέου.
+
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
 |   [myronkrueger](https://testsite-inf2021090.netlify.app/biography/myron-krueger/)   | [myronkrueger]()      |  [myronkrueger]()              |
@@ -172,6 +170,8 @@ pull request
 
 <br />
 
+&nbsp;&nbsp;&nbsp;
+
 ## Εβδομάδα Δωδέκατη - Τελική αναφορά
 
 ### Συμπεράσματα
@@ -191,17 +191,24 @@ https://github.com/courses-ionio/help/discussions/1992
 
 
 * [Arch Linux: Full Installation Guide - A complete tutorial/walkthrough in one video!](https://youtu.be/DPLnBPM4DhI)
-
-
-
+* [ArchWiki](https://wiki.archlinux.org/)
 παραδοτέο 3
 <br />
 παραδοτέο 4
+
+* [Xmonad: Basic Install](https://youtu.be/JmPLbZQRgas)
+* [Install XMonad | xmonad - the tiling window manager that rocks](https://xmonad.org/INSTALL.html)
+<br />
 παραδοτέο 5
+<br />
 παραδοτέο 6
 
 <br />
 
 ## ΠΑΡΑΡΤΗΜΑ
 
-
+|παλιά pull requsts|
+|---|
+|[παλιό](https://github.com/ContattoContare/_gallery/pull/2/commits/bbd37a5fb70eb1d161d33133ec9caab99f83bfaa)|
+|[παλιό](https://github.com/ContattoContare/site/pull/3)|
+|[παλιό](https://github.com/ContattoContare/site/pull/2/files)|
