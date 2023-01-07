@@ -19,7 +19,7 @@ Edpuzzle username: 2021182 Petros Perantonakis
 | 8 | Άσκηση γραμμής εντολών | https://github.com/courses-ionio/help/discussions/1774 | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | https://github.com/courses-ionio/help/discussions/1845 | |
 | 10 | Άσκηση γραμμής εντολών | https://github.com/courses-ionio/help/discussions/1933 | |
-| 11 | Κατασκευή του βιβλίου Β | | |
+| 11 | Κατασκευή του βιβλίου Β | https://github.com/courses-ionio/help/discussions/2017 | |
 | 12 | Τελική αναφορά* | | |
 
 # ΕΙΣΑΓΩΓΗ
