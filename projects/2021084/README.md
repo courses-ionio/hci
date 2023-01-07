@@ -16,11 +16,12 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 Χρήση του neofetch και journalctl για πληροφορίες της εγκατάστασης του λειτουργικού συστήματος Arch Linux όπου η καταγραφή του τερματικού έγινε με την χρήση του [asciinema](https://asciinema.org/a/548800)
 
 # Παραδοτέο 3ο
-[Προσωπική Ιστοσελίδα του βιβλείου](https://vermillion-inf.netlify.app/)
-    * [Siemens Scada Systems](https://omada12.netlify.app//gallery/siemens_scada/)
-    * [Autommated Teller Machines](htΠps://vermillion-inf.netlify.app/gallery/atm/)
-    * [ATM markdown files](https://github.com/R3try0/_gallery/blob/master/atm.md)
-    * [Siemence Scada Systems markdown files](https://github.com/R3try0/_gallery/blob/master/siemens_scada.md)
+**Από αυτά που ζητήθηκαν.**
+       * [Προσωπική Ιστοσελίδα του βιβλείου](https://vermillion-inf.netlify.app/)
+       * [Siemens Scada Systems](https://omada12.netlify.app//gallery/siemens_scada/)
+       * [Autommated Teller Machines](htΠps://vermillion-inf.netlify.app/gallery/atm/)
+       * [ATM markdown files](https://github.com/R3try0/_gallery/blob/master/atm.md)
+       * [Siemence Scada Systems markdown files](https://github.com/R3try0/_gallery/blob/master/siemens_scada.md)
 
 # Παραδοτέο 4ο
 Για warmup και παράδοσης του παραδοτέου 4 πραγματοποιήθηκαν οι ασκήσεις:
