@@ -72,7 +72,7 @@
 |    [netlify4oudini](https://inf2021090.netlify.app/gallery/houdini/)  |   [houdini](https://github.com/inf2021090/_gallery/blob/master/houdini.md)    |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
 | [blender](https://inf2021090.netlify.app/gallery/blender/)  |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)    |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)         |
 
-Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο ΠΑΡΑΤΗΜΑ(https://github.com/inf2021090/hci/edit/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1)
+Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο [ΠΑΡΑΤΗΜΑ](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1))
 ## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
 
 <br />
