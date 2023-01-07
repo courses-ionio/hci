@@ -3,17 +3,17 @@
 
 | Εβδομάδα | Παραδοτέο κάθε εβδομάδας | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](#παραδοτέο-1) |[Discussion](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609), [Organization](https://github.com/Second-Time-Is-The-Charm/Main), [Show & tell](https://github.com/courses-ionio/help/discussions/823)| |
-| 2 | [Άσκηση γραμμής εντολών (linux install)](#παραδοτέο-2) |[Neofetch](https://asciinema.org/a/527935) ,[journalctl -b](https://asciinema.org/a/527939), [Show and tell](https://github.com/courses-ionio/help/discussions/1051)| |
-| 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3) | [discussion](https://github.com/courses-ionio/help/discussions/1164), [my site](https://voltmaister-site1.netlify.app/), [pull request .md files](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/1), [pull request images + thumb](https://github.com/Second-Time-Is-The-Charm/images/pull/1), [organization site vision](https://stitc-site.netlify.app/gallery/vision/), [organization site amigaos](https://stitc-site.netlify.app/gallery/amigaos/)| |
-| 4 | [Άσκηση γραμμής εντολών](#παραδοτέο-4) | [discussion](https://github.com/courses-ionio/help/discussions/1346), [googler](https://asciinema.org/a/533238)| |
-| 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) |[discussion](https://github.com/courses-ionio/help/discussions/new?category=show-and-tell)| |
-| 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | [discussion](https://github.com/courses-ionio/help/discussions/1546), [my kallipos](https://github.com/voltmaister/kallipos) | |
-| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) | [discussion](https://github.com/courses-ionio/help/discussions/1592) | |
-| 8 | [Άσκηση γραμμής εντολών](#παραδοτέο-8) | [discussion](https://github.com/courses-ionio/help/discussions/1830) | |
-| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) | [discussion](https://github.com/courses-ionio/help/discussions/1832) | |
-| 10 | [Άσκηση γραμμής εντολών](#παραδοτέο-10) | [discussion](https://github.com/courses-ionio/help/discussions/1844) | |
-| 11 | [Κατασκευή του βιβλίου Β](#παραδοτέο-11) | [discussion](https://github.com/courses-ionio/help/discussions/1857) | |
+| 1 |  [Δημιουργία ομάδας](#παραδοτέο-1) |[Discussion](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609), [Organization](https://github.com/Second-Time-Is-The-Charm/Main), [Show & tell](https://github.com/courses-ionio/help/discussions/823)| 10/10 |
+| 2 | [Άσκηση γραμμής εντολών (linux install)](#παραδοτέο-2) |[Neofetch](https://asciinema.org/a/527935) ,[journalctl -b](https://asciinema.org/a/527939), [Show and tell](https://github.com/courses-ionio/help/discussions/1051)| 10/10 |
+| 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3) | [discussion](https://github.com/courses-ionio/help/discussions/1164), [my site](https://voltmaister-site1.netlify.app/), [pull request .md files](https://github.com/Second-Time-Is-The-Charm/_gallery/pull/1), [pull request images + thumb](https://github.com/Second-Time-Is-The-Charm/images/pull/1), [organization site vision](https://stitc-site.netlify.app/gallery/vision/), [organization site amigaos](https://stitc-site.netlify.app/gallery/amigaos/)| 8/10 |
+| 4 | [Άσκηση γραμμής εντολών](#παραδοτέο-4) | [discussion](https://github.com/courses-ionio/help/discussions/1346), [googler](https://asciinema.org/a/533238)| 8/10 |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) |[discussion](https://github.com/courses-ionio/help/discussions/1445)| 10/10 |
+| 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | [discussion](https://github.com/courses-ionio/help/discussions/1546), [my kallipos](https://github.com/voltmaister/kallipos) | 10/10 |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) | [discussion](https://github.com/courses-ionio/help/discussions/1592) | 8/10 |
+| 8 | [Άσκηση γραμμής εντολών](#παραδοτέο-8) | [discussion](https://github.com/courses-ionio/help/discussions/1830) | 8/10 |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) | [discussion](https://github.com/courses-ionio/help/discussions/1832) | 7/10 |
+| 10 | [Άσκηση γραμμής εντολών](#παραδοτέο-10) | [discussion](https://github.com/courses-ionio/help/discussions/1844) | 8/10 |
+| 11 | [Κατασκευή του βιβλίου Β](#παραδοτέο-11) | [discussion](https://github.com/courses-ionio/help/discussions/1857) | 10/10 |
 | 12 | [Τελική αναφορά* ](#παραδοτέο-12) | | |
 
 # Παραδοτέο 1
