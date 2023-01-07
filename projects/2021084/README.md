@@ -57,7 +57,9 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 
 # Παραδοτέο 8ο
 [asccinema](https://asciinema.org/a/550174)
+
 [the md file](https://github.com/R3try0/other_files)
+
 [the docx file](https://github.com/R3try0/other_files)
 
 # Παραδοτέο 9ο
