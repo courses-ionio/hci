@@ -187,23 +187,40 @@ https://github.com/courses-ionio/help/discussions/1992
 
 <br />
 
-παραδοτέο 2
-
+παραδοτέα 2 & 4
 
 * [Arch Linux: Full Installation Guide - A complete tutorial/walkthrough in one video!](https://youtu.be/DPLnBPM4DhI)
 * [ArchWiki](https://wiki.archlinux.org/)
-παραδοτέο 3
-<br />
-παραδοτέο 4
-
 * [Xmonad: Basic Install](https://youtu.be/JmPLbZQRgas)
 * [Install XMonad | xmonad - the tiling window manager that rocks](https://xmonad.org/INSTALL.html)
-<br />
-παραδοτέο 5
-<br />
-παραδοτέο 6
+* [tmux - ArchWiki](https://wiki.archlinux.org/title/tmux)
+* [w3m manual](https://w3m.sourceforge.net/MANUAL)
+* [Linux Crash Course - htop](https://youtu.be/tU9cO9FwDx0)
 
-<br />
+παραδοτέα 3 & 5
+
+παραδοτέα 6 & 11
+
+
+παραδοτέο 7
+
+* [When Did 3D Modeling Start? A Brief History - SelfCAD](https://www.selfcad.com/blog/when-did-3d-modeling-start-a-brief-history)
+* [A Brief History of 3D Visualizations: The Ins and Outs](https://www.easyrender.com/a/a-brief-history-of-3d-visualizations-the-ins-and-outs)
+* [The History of 3D Modeling and Animation - YouTube](https://www.youtube.com/watch?v=dtnHGjY5OEE)
+* [3D modeling timeline - Timetoast](https://www.timetoast.com/timelines/3d-modeling)
+* [history of 3d modeling: from euclid to 3d printing](https://ufo3d.com/history-of-3d-modeling/)
+* [The first 3D software in History_Sketchpad](https://www.youtube.com/watch?v=eP-TaulpvYg&t=600s)
+
+παραδοτέο 8 & 10
+
+παραδτέο 9
+
+* [Myron Krueger | American scientist | Britannica](https://www.britannica.com/biography/Myron-Krueger)
+* [Videoplace - Myron Krueger](https://aboutmyronkrueger.weebly.com/videoplace.html)
+* [Myron Krueger's Videoplace Pioneers "Artificial Reality"](https://www.historyofinformation.com/detail.php?entryid=4699)
+* [Small Planet : Myron Krueger](https://www.iamas.ac.jp/interaction/i97/artist_Krueger.html)
+* [video](https://www.youtube.com/watch?v=dmmxVA5xhuo)
+* [video](https://www.youtube.com/watch?v=VdrujesfIBQ)
 
 ## ΠΑΡΑΡΤΗΜΑ
 
