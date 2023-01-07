@@ -137,12 +137,12 @@
 
 
   Πηγες:
-  [IGN interview](https://youtu.be/czgp1OF_Ems)
-  [CBS interview](https://www.youtube.com/watch?v=Hnn65B0mGck)
-  [Wikipedia](https://en.wikipedia.org/wiki/Cliff_Bleszinski)
+  * [IGN interview](https://youtu.be/czgp1OF_Ems)
+  * [CBS interview](https://www.youtube.com/watch?v=Hnn65B0mGck)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Cliff_Bleszinski)
   
   
   
   # Community Support
-  [comment](https://github.com/courses-ionio/help/discussions/1798#discussioncomment-4293417)\
-  [comment](https://github.com/courses-ionio/help/discussions/1832#discussioncomment-4304989)
+  * [comment](https://github.com/courses-ionio/help/discussions/1798#discussioncomment-4293417)\
+  * [comment](https://github.com/courses-ionio/help/discussions/1832#discussioncomment-4304989)
