@@ -30,3 +30,40 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 Όπου θεωρήθηκε περιττό να αποδειχθεί το πως έγινε η εγκατάσταση με το pacman.
 
 # Παραδοτέο 5ο
+[siemens_scada.md](https://github.com/R3try0/site/blob/master/_timeline/siemens_scada.md)
+[atm_machine.md](https://github.com/R3try0/site/blob/master/_timeline/atm_machine.md)
+
+# Παραδοτέο 6ο
+Η παράδοση του 6ο παραδοτέου με βάση αυτά που ζητήθηκαν αναμένονται διορθώσεις.
+
+[Το αρχείο lua](https://github.com/R3try0/kallipos/blob/master/lua/luaf.lua)
+[Το book pdf](https://github.com/R3try0/kallipos/blob/master/book.pdf)
+[Το repository ](https://github.com/R3try0/kallipos)
+[Το md αρχείο](https://github.com/R3try0/kallipos/blob/master/lua/themdfile.md)
+[Ένα screenshot από το pdf](https://github.com/R3try0/kallipos/blob/master/Screenshot_2022-11-18_13_05_55.png)
+
+# Παραδοτέο 7ο
+[Βιογραφία του Barron](https://github.com/R3try0/site/blob/master/_biography/john-shepherd-barron.md)
+[Βιογραφία του Siemens](https://github.com/R3try0/site/blob/master/_biography/werner-von-siemens.md)
+
+**Πηγές περί των John Shepherd Barron**
+[www.nytimes.com](https://www.nytimes.com/2010/05/21/business/global/21barron.html)
+[www.atmmarketplace.com](https://www.atmmarketplace.com/news/whos-who-john-shepherd-barron/)
+[www.edubilla.com](http://www.edubilla.com/inventor/john-shepherd-barron/) 
+**Πηγές περί των Werner Von Siemens**
+[www.britannica.com](https://www.britannica.com/biography/Werner-von-Siemens)
+[www.siemens.com](https://www.siemens.com/global/en/company/about/history/stories/werner-von-siemens.html)
+[www.thefamouspeople.com](https://www.thefamouspeople.com/profiles/werner-von-siemens-6564.php)
+
+# Παραδοτέο 8ο
+[asccinema](https://asciinema.org/a/550174)
+[the md file](https://github.com/R3try0/other_files)
+[the docx file](https://github.com/R3try0/other_files)
+
+# Παραδοτέο 9ο
+
+# Παραδοτέο 10ο
+
+# Παραδοτέο 11ο
+
+# Παραδοτέο 12ο
