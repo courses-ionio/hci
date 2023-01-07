@@ -17,16 +17,16 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 
 # Παραδοτέο 3ο
 **Από αυτά που ζητήθηκαν.**
-       * [Προσωπική Ιστοσελίδα του βιβλείου](https://vermillion-inf.netlify.app/)
-       * [Siemens Scada Systems](https://omada12.netlify.app//gallery/siemens_scada/)
-       * [Autommated Teller Machines](htΠps://vermillion-inf.netlify.app/gallery/atm/)
-       * [ATM markdown files](https://github.com/R3try0/_gallery/blob/master/atm.md)
-       * [Siemence Scada Systems markdown files](https://github.com/R3try0/_gallery/blob/master/siemens_scada.md)
+* [Προσωπική Ιστοσελίδα του βιβλείου](https://vermillion-inf.netlify.app/)
+* [Siemens Scada Systems](https://omada12.netlify.app//gallery/siemens_scada/)
+* [Autommated Teller Machines](htΠps://vermillion-inf.netlify.app/gallery/atm/)
+* [ATM markdown files](https://github.com/R3try0/_gallery/blob/master/atm.md)
+* [Siemence Scada Systems markdown files](https://github.com/R3try0/_gallery/blob/master/siemens_scada.md)
 
 # Παραδοτέο 4ο
-Για warmup και παράδοσης του παραδοτέου 4 πραγματοποιήθηκαν οι ασκήσεις:
-    * 2ο assignment ("get familiar with basic commands, reading..") με το [asciinema](https://asciinema.org/a/548793)
-    * 32o assignment ("download mp3") όπου έγινε η λείψει και αναπαραγωγή του τραγουδιού  Rick Astley - Never Gonna Give You Up (Official Music Video) όπου με την βοήθεια του [asciinema](https://asciinema.org/a/548798)
+**Για warmup και παράδοσης του παραδοτέου 4 πραγματοποιήθηκαν οι ασκήσεις:**
+* 2ο assignment ("get familiar with basic commands, reading..") με το [asciinema](https://asciinema.org/a/548793)
+* * 32o assignment ("download mp3") όπου έγινε η λείψει και αναπαραγωγή του τραγουδιού  Rick Astley - Never Gonna Give You Up (Official Music Video) όπου με την βοήθεια του [asciinema](https://asciinema.org/a/548798)
 Όπου θεωρήθηκε περιττό να αποδειχθεί το πως έγινε η εγκατάσταση με το pacman.
 
 # Παραδοτέο 5ο
