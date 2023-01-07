@@ -95,14 +95,19 @@ pull request
 (https://github.com/ContattoContare/site/pull/14/commits)
 (https://github.com/inf2021090/kallipos/blob/master/book.pdf)
 (https://elegant-meringue-bf62a4.netlify.app/slides/visual-programming)
+ ### Timeline
  
  | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
-|   https://inf2021090.netlify.app/timeline/computer-graphics/   |       |              |
-|  https://inf2021090.netlify.app/slides/simulation/ |        |              |
+|   [computer-graphics](https://inf2021090.netlify.app/timeline/computer-graphics/)   |       |              |
+|  [ar timeline](https://inf2021090.netlify.app/timeline/augmented-reality/) |        |              |
 
-[ar timeline](https://inf2021090.netlify.app/timeline/augmented-reality/)
-[graphics design slide](https://inf2021090.netlify.app/slides/graphic-design/)
+### Slides
+
+|Netlify|Repositiry|Pull Request|
+|---|---|---|
+|[simulation](https://inf2021090.netlify.app/slides/simulation/)|||
+|[graphics design](https://inf2021090.netlify.app/slides/graphic-design/)|||
 
 https://github.com/ContattoContare/site/pull/32
 
