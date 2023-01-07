@@ -36,9 +36,10 @@
 Μετά απο την διαδικασία της manual εγκατάστασης των Arch Linux πραγματικά κατάλαβα, πως τελικά ο καθένας μας θα μπορούσε να προσαρμόζει κάθε πρόγραμμα που εγκαθιστά στις δικές του ανάγκες δίνοντας κάποιο παραπάνω χρόνο στην εγκατάσταση, ανακαλύπτοντας στην πορεία τις δυνατότητες που έχανε με μια γρήγορη εγκατάσταση για τον μέσο χρήστη.Συγκεκριμένα, την πρώτη φορά που προσπάθησα να εγκαταστήσω τα Arch Linux υπήρξε κάποιο αδιευκρίνιστο πρόβλημα και δεν πέτυχε η εγκατάσταση. Υποθέτω πως ο λόγος που απέτυχε ήταν επειδή μάλλον ξέχασα να τρέξω το grub-install. Την δεύτερη φορά που δοκίμασα το Installation δεν υπήρξε κανένα πρόβλημα και τα Arch Linux έτρεχαν κανονικά. Ακόμη, μια δυσκολία που συνάντησα ήταν η σύνδεση στο wifi, πιο πολύ λόγω της έλλειψης γνώσης εντολών ως αρχάρια χρήστης των Arch Linux αλλά το έλυσα χρησιμοποιώντας την εντολή nmcli dev wifi connection. Έκανα την εγκατάσταση με dual boot επειδή τρέχω ταυτόχρονα και windows στο laptop μου. Για την εγκατάσταση ακολούθησα τις οδηγίες που έχει στο Arch Wiki.Για την εγκατάσταση του asciinema ακολούθησα τις οδηγίες που έχει στο site του asciinema. 
 
 ## Asciinema
-- [neofetch](https://asciinema.org/a/ZnX4G9LX5cYdDzwhN87vxwFiO)
-- [journalctl -b](https://asciinema.org/a/Eex0OtieUvIEmf4YdR9BXXKhP)
-
+### Neofetch
+[![asciicast](https://asciinema.org/a/ZnX4G9LX5cYdDzwhN87vxwFiO.svg)](https://asciinema.org/a/ZnX4G9LX5cYdDzwhN87vxwFiO)
+### Journalctl -b
+[![asciicast](https://asciinema.org/a/Eex0OtieUvIEmf4YdR9BXXKhP.svg)](https://asciinema.org/a/Eex0OtieUvIEmf4YdR9BXXKhP)
 
 # ΠΑΡΑΔΟΤΕΟ 3
 ## Συμμετοχικό περιεχόμενο A1
