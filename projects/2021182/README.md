@@ -9,17 +9,17 @@ Edpuzzle username: 2021182 Petros Perantonakis
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/help/discussions/848 |100% |
-| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | https://github.com/courses-ionio/help/discussions/1103 | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1194 | |
-| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | https://github.com/courses-ionio/help/discussions/1338 | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | https://github.com/courses-ionio/help/discussions/1464 | |
-| 6 | Κατασκευή του βιβλίου Α | https://github.com/courses-ionio/help/discussions/1570 | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | https://github.com/courses-ionio/help/discussions/1773 | |
-| 8 | Άσκηση γραμμής εντολών | https://github.com/courses-ionio/help/discussions/1774 | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | https://github.com/courses-ionio/help/discussions/1845 | |
-| 10 | Άσκηση γραμμής εντολών | https://github.com/courses-ionio/help/discussions/1933 | |
-| 11 | Κατασκευή του βιβλίου Β | https://github.com/courses-ionio/help/discussions/2017 | |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/help/discussions/848 | 100% |
+| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | https://github.com/courses-ionio/help/discussions/1103 | 100% |
+| 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1194 | 100% |
+| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | https://github.com/courses-ionio/help/discussions/1338 | 100% |
+| 5 | Συμμετοχικό περιεχόμενο A2 | https://github.com/courses-ionio/help/discussions/1464 | 50% (δυστυχώς λειτουργούν μόνο τα slides) |
+| 6 | Κατασκευή του βιβλίου Α | https://github.com/courses-ionio/help/discussions/1570 | 100% |
+| 7 | Συμμετοχικό περιεχόμενο B1 | https://github.com/courses-ionio/help/discussions/1773 | 100% |
+| 8 | Άσκηση γραμμής εντολών | https://github.com/courses-ionio/help/discussions/1774 | 100% |
+| 9 | Συμμετοχικό περιεχόμενο B2 | https://github.com/courses-ionio/help/discussions/1845 | 80% (δεν υπάρχει φωτογραφία του Jerry Lawson) |
+| 10 | Άσκηση γραμμής εντολών | https://github.com/courses-ionio/help/discussions/1933 | 100% |
+| 11 | Κατασκευή του βιβλίου Β | https://github.com/courses-ionio/help/discussions/2017 | 100% |
 | 12 | Τελική αναφορά* | | |
 
 # ΕΙΣΑΓΩΓΗ
