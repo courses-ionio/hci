@@ -57,11 +57,7 @@
 &nbsp;&nbsp;&nbsp;Για το συμμετοχικό περιεχόμενο Α1 έγινε αναζήτηση στο διαδίκτυο για την προσθήκη δύο νέων εικόνων στο περιεχόμενο του βιβλίου. Οι επιλογές μου φαίνονται στις παρακατάω εικόνες και είναι από πάνω προς τα κάτω το Blender και το Houdini. Το blender πρόκειται για ένα ελέυθερο λογισμικό δημιουργίας 3D μοντέλων, animetion ,video και άλλων,ενώ το houdini είναι επαγγελματικό πρόγραμμα ψηφιακών εφέ και προσομοιώσεων. Τo houdini αντικατέστησε την αρχική μου επιλογή amiga workbench καθώς ήταν πιο σύμφωνο με το πνεύμα των θεματικών που ανέφερα στην εισαγωγή. Η εικόνα του blender άλλαξε επίσης ώστε να φαίνονται καλύτερα τα διαδραστικά μέρη του λογισμικού.
 
 
-&nbsp;&nbsp;&nbsp;Για την δημηουργία του thumbnail χρησιμοποιήθηκε αυτό το [ονλάιν πρόγραμμα επεξεργασίας εικόνας](https://www9.lunapic.com/editor/?action=scale).Για το κάθε ένα δημιουργήθηκε ένα ξεχωριστό αρχείο **markdown** με όλα τα απαράιτητα στοιχεία.Για να ανέβουν στο  github έπρεπε να γίνει εγκατάσταση των αποθετηρίων site, _gallery,images αγού προηγουμένος είχε γίνει αντίστοιχο fork αυτών στο github profile μου μέσω του **ομαδικού οργανισμού**.Με την εντολή git clone λινκ για το αποθετηριο γίνεται πρώτα η εγκατάσταση του site μετά μετακίνηση cd site για επανηληψη της διαδικασίας για τα -gallery και images που είναι υποενότητες του site.Αφού γίνει upload των αντιστοιχων αρχειων στο github σειρά έχουν οι εντολές
-1.  git add .
-2.  git commit -m "message"
-3.  git push origin
-&nbsp;&nbsp;&nbsp;Αυτό επαναλαμβάνεται μια φορά στο gallery μια στο images και τέλος στο site.Για να δημιουργηθεί η ατομική ιστοσελίδα έγινε πρώτα σύνδεση στο netlify μέσω github και από εκεί επιλέχθηκε το αποθετήριο από το οποίο θα φτιαχτεί το site.
+&nbsp;&nbsp;&nbsp;Για την δημηουργία του thumbnail χρησιμοποιήθηκε αυτό το [ονλάιν πρόγραμμα επεξεργασίας εικόνας](https://www9.lunapic.com/editor/?action=scale).Για το κάθε ένα δημιουργήθηκαι ένα ξεχωριστό αρχείο **markdown** με όλα τα απαράιτητα στοιχεία.Για να ανέβουν στο  github έπρεπε να γίνει εγκατάσταση των αποθετηρίων site, _gallery,images αφού προηγουμένος είχε γίνει αντίστοιχο fork αυτών στο github profile μου μέσω του **ομαδικού οργανισμού**.Η ομάδα μας αντιμετόπησε προβλήμτα λόγου ελλειπή αρχικού χειρισμού των αποθετηρίων ,αλλά αντιμετοπίστηκαν με την μεταξύ μας συνεργασία, τους οδηγούς συμφητητών, και εξωτερικών πηγών από το διαδίκτυο.
 
 τα ΠΑΛΙΑ pull requests
 (https://github.com/ContattoContare/_gallery/pull/2/commits/bbd37a5fb70eb1d161d33133ec9caab99f83bfaa)
@@ -76,6 +72,7 @@
 |    [netlify4oudini](https://inf2021090.netlify.app/gallery/houdini/)  |   [houdini](https://github.com/inf2021090/_gallery/blob/master/houdini.md)    |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
 | [blender](https://inf2021090.netlify.app/gallery/blender/)  |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)    |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)         |
 
+Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο ΠΑΡΑΤΗΜΑ(https://github.com/inf2021090/hci/edit/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1)
 ## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
 
 <br />
