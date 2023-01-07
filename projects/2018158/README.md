@@ -228,6 +228,12 @@ asciinema link: [Convert between different text formats](https://asciinema.org/a
 
 Κατασκευή του βιβλίου Β.
 
+Σε αυτό το παραδοτέο δημιουργήθηκαν αντίγραφα από την [μελέτη περίπτωσης](https://github.com/AnTonyPapako/site/blob/master/_case-study/agent-in-assistive-technology.md) και της [βιογραφίας](https://github.com/AnTonyPapako/site/blob/master/_biography/adam-cheyer.md) των προηγουμένων συμμετοχικών περιεχομένων στα extras submodules του kallipos repository. Έπρεπε να δημιουργηθούν τα αρχεία των εικονών που εισάχθηκαν στην μελέτη περίπτωσης και την βιογραφία. Τέλος έγινε η προσθήκη της εντολής ```pandoc --quiet -f latex book/book.tex -o book/book.epub``` στο make-latex.sh αρχείο, ώστε να δημιουργηθεί και το βιβλίο σε epub μορφή.
+
+[book.epub](https://github.com/AnTonyPapako/kallipos/blob/master/book.epub)
+
+[book.pdf](https://github.com/AnTonyPapako/kallipos/blob/master/book.pdf)
+
 ##
 
 ### Παραδοτέο 12
