@@ -19,8 +19,8 @@
 | 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) | [Contribution B1](https://github.com/courses-ionio/help/discussions/1718) | |
 | 8 | [Άσκηση γραμμής εντολών](#παραδοτέο-8) | [Use Terminal as IDE](https://github.com/courses-ionio/help/discussions/1791) | |
 | 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) | [Contribution B2](https://github.com/courses-ionio/help/discussions/1852) | |
-| 10 | [Άσκηση γραμμής εντολών](#παραδοτέο-10) | [Convert between different text formats]() | |
-| 11 | [Κατασκευή του βιβλίου Β](#παραδοτέο-11) | [Book A]() | |
+| 10 | [Άσκηση γραμμής εντολών](#παραδοτέο-10) | [Convert between different text formats](https://github.com/courses-ionio/help/discussions/2027) | |
+| 11 | [Κατασκευή του βιβλίου Β](#παραδοτέο-11) | [Book Β]() | |
 | 12 | [Τελική αναφορά](#παραδοτέο-12) | [Epilogue]() | |
 
 ## Παραδοτέα μαθήματος
