@@ -566,3 +566,15 @@ O Bob Sproull είναι Αμερικάνος επιστήμονας της πλ
   
 * Αναφορά (README.md)
     1. [Markdown Guide/basic-syntax](https://www.markdownguide.org/basic-syntax/)
+
+<br />
+
+   
+## Σχολιασμοί τελικών αναφορών των συμφοιτητών μου
+
+<br />
+
+| Σχολιασμοί τελικών αναφορών | 
+| --- | 
+| [Τελική αναφορά συναδέλφου 1](https://github.com/courses-ionio/hci/pull/1872/) | 
+| [Τελική αναφορά συναδέλφου 2](https://github.com/courses-ionio/hci/pull/1869/) | 
