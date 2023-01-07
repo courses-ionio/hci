@@ -150,15 +150,15 @@ vercel link: [VersaBraille - 1982](https://site-bay-gamma.vercel.app/timeline/in
 
 Κατασκευή του βιβλίου Α.
 
-Δημιουργήθηκε περιεχόμενο για το πρώτο κεφάλαιο του βιβλίου. Συγκεκριμένα σχετίζεται συνοπτικά με την χρήση και την αντίληψη των υπολογιστών ανά δεκαετία, από 1950 μέχρι 2010. Αρχικά οι υπολογιστές χρησιμοποιούνταν για υπολογιστικές πράξεις, κατά κόρον για δουλείες γραφείου, ενώ με το πέρασμα του χρόνου απέκτησαν διαφορέτικες λειτουργίες και δυνατότητες, μεταβάλλοντας έτσι τον ρόλο τους ανά δεκαετία. Η εξέλιξη έφερε κατά συνέπεια την ευχρηστία και την αποδοχή έτοιμου υλικού με χρήση δίχως κριτικής σκέψης και απόρριψη τεχνολογιών δύσκολων προς εκμάθηση. Είχε τελικά θετικό πρόσημο η εξέλιξη ή οδήγησε σε σκοταδισμό;
+Δημιουργήθηκε περιεχόμενο για το πρώτο κεφάλαιο του βιβλίου. Συγκεκριμένα σχετίζεται με τον ρόλο των έξυπνων πρακτόρων προς τις βοηθητικές τεχνολογίες με βάση τους αυτόνομους πράκτορες που καταλαβαίνουν το κοντινό τους περιβάλλον και πλοηγούνται μέσα σε αυτό. Ακόμη αναφαίρεται ότι μέσω της μηχανικής μάθησης και λοιπών αλγορίθμων τεχνητής νοημοσύνης βελτιώνεται η αρωγή των ατόμων με αναπηρίες ή δυσκολίες υγείας.
 
-[contribution/pc-through-the-years.md](https://github.com/AnTonyPapako/kallipos/blob/master/contribution/pc-through-the-years.md)
+[contribution/agents.md](https://github.com/AnTonyPapako/kallipos/blob/master/contribution/agents.md)
 
-[pc-history.lua](https://github.com/AnTonyPapako/kallipos/blob/master/pc-history.lua)
+[agent.lua](https://github.com/AnTonyPapako/kallipos/blob/master/agent.lua)
 
 [book.pdf](https://github.com/AnTonyPapako/kallipos/blob/master/book.pdf)
 
-[screenshot of contribution in book](https://github.com/AnTonyPapako/kallipos/blob/master/screenshot/pc-history.png)
+[screenshot of contribution in book](https://github.com/AnTonyPapako/kallipos/blob/master/image.png)
 
 ##
 
