@@ -117,8 +117,15 @@ asciinema link: https://asciinema.org/a/u7kQdDbClXcn05Br2Jv1Sabnl
 
 - [site](https://site-theta-black.vercel.app/biography/ralph-baer)
 
+
+# Παραδοτέο_10
+Σε αυτο το παραδοτέο εκανα την ασκηση τερματικου convert between different text formats.Για να το κανω αυτο διμιουργησα μια αναφορα καιρου με nano και στην συνεχεια διμιουργησα ενα .sh αρχειο για την μετατροπη του σε html και docx φορματ.Το .sh script μπορει να μετατρεψει το αρχειο αναλογα με την επιλογη του χρηστη σε html η docx.Για να γινει αυτο χρειαστηκε και η χρηση του pandoc.
+- [Κωδικας του .sh αρχειου](https://github.com/giormaster/hci-mycode/blob/main/Codes/fileconverter.sh)
+
+- [Asciinema Link](https://asciinema.org/a/MUy57mq1HvOBIUwxXaW7jAvVI)
+
 # Παραδοτέο_11
-Σε αυτο το παραδοτεο διμιουργησα την epub εκδοχη του βιβλιου.Για να το κανω αυτο χρειαστεικε να πρωσθεσω τις φοτογραφιες που ειχα στο biography και στο case study στα extras του βιβλιου και στην συνεχεια τα προσθεσα στην ενωτητα 8.Τελος προσθεσα την εντολη pandoc --quiet -f latex book.tex -o book.epub στο αρχειο make-latex για να διμιουργησω το epub version του βιβλιου
+Σε αυτο το παραδοτεο διμιουργησα την epub εκδοχη του βιβλιου.Για να το κανω αυτο χρειαστεικε να προσθεσω τις φωτογραφιες που ειχα στο biography και στο case study στα extras του βιβλιου και στην συνεχεια τα προσθεσα στην ενωτητα 8.Τελος προσθεσα την εντολη pandoc --quiet -f latex book.tex -o book.epub στο αρχειο make-latex για να διμιουργησω το epub version του βιβλιου
 - [Book PDF](https://github.com/giormaster/kallipos/blob/master/book.pdf)
 
 - [Book EPUB](https://github.com/giormaster/kallipos/blob/master/book.epub)
