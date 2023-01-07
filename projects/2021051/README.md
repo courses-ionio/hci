@@ -32,7 +32,7 @@
   journalctl -b στο 2ο παραδοτέο πραγματοποιούνται τελικά σε υλικό.
   
   Links:
-  [Terminal recording](https://asciinema.org/a/Sxt8784cetLwCH3VF3xlW1SN1)/
+  * [Terminal recording](https://asciinema.org/a/Sxt8784cetLwCH3VF3xlW1SN1)/
   [Αναφορά](https://github.com/Kremmudis/hci/tree/master/projects/2021051)
 
   
@@ -60,8 +60,8 @@
   πως να το χρησιμοποιεί. Πιστεύω οτι είναι ένας ωραίος τρόπος να γίνει η βαρετή εκμάθηση αυτού του εργαλείου πιο ανεκτή και διαδραστική.
   
   Links:
-  [wttr ](https://asciinema.org/a/IioTwpOkJJEojZVSk1Sqaoc4a)
-  [pacvim](https://asciinema.org/a/N5hyC06haVyrwE4DIvMxxxxzk)
+  * [wttr ](https://asciinema.org/a/IioTwpOkJJEojZVSk1Sqaoc4a)
+  * [pacvim](https://asciinema.org/a/N5hyC06haVyrwE4DIvMxxxxzk)
 
   
   # 5ο ΠΑΡΑΔΟΤΕΟ
@@ -116,10 +116,16 @@
   την
   προώθηση του άρα ήταν εύκολο να βρω πληροφορίες για την ζωή του.
   
-    Πηγες:
+   Πηγες:
   [IGN interview](https://youtu.be/czgp1OF_Ems)
   [CBS interview](https://www.youtube.com/watch?v=Hnn65B0mGck)
   [Wikipedia](https://en.wikipedia.org/wiki/Cliff_Bleszinski)
+  
+  # 10ο ΠΑΡΑΔΟΤΕΟ
+  Για το 10ο παραδοτέο έφτιαξα ένα script που μετατρέπει ένα αρχείο markdown (τελική αναφορά) σε pdf με την χρήση του groff και pandoc. Αρχικά είχα κάνει 
+  λάθος την εργασία ,αλλά χαρις στα σχόλια συμφοιτητή άλλαξα την εργασία μου για να υπακούει στους κανόνες του παραδοτέου.
+  * [asciinema link](https://asciinema.org/a/OPstiod5jnVOKK6lYfebEPcUS)
+  
   
   # 12ο ΠΑΡΑΔΟΤΕΟ 
   Τελειώνοντας το μάθημα έχω αποκτήσει κάποιες καινούργιες ικανότητες και έχει αλλάξει ο τρόπος σκέψης μου. Πριν από αυτό το μάθημα δεν είχα χρησιμοποιήσει   πότε λογισμικό linux άρα η εξοικείωση μου με το λογισμικό arch ήταν δύσκολη μιας και προορίζεται για εμπόρους προγραμματιστές. Πιστεύω όμως ότι έμαθα       περισσότερα με αυτόν τον τρόπο, σε σχέση με του τι θα μάθαινα με μια πιο απλή user friendly έκδοση των linux. Η γνώσεις του github που απέκτησα μου είναι   υπερβολικά χρήσιμες στην επιτυχία του σκοπού μου από το παραδοτεο 1. Πιο συγκεκριμένα με έχει βοηθήσει πολύ στο source control μιας και για την δημιουργία παιχνιδιών συνεργάζομαι με μια ομάδα ατόμων. Πέρα από τεχνικές ικανότητες, το σημαντικότερο πράγμα που έμαθα είναι να σκέφτομαι διαφορετικά. Ο τρόπος σκέψης μου και ο τρόπος εκμάθησης μου έχουν σίγουρα επηρεαστεί από την φιλοσοφία του μαθήματος και των βιντεοκουιζ.
