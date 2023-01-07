@@ -13,16 +13,16 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [DISCUSSION](https://github.com/courses-ionio/help/discussions/863)|Ήταν μία εύκολη διαδικασία, εφόσον γνώριζα τους στόχους μου και τον τρόπο με τον οπίο θα προσεγγίσω το μάθημα και το αποτύπωσα στην εισαγώγη.|
 | 2 | Άσκηση γραμμής εντολών (linux install) |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1084) |Η εγκατάσταση του arch linux έγινε απευθείας σε πραγματικό υλικό. Παρουσίασε κάποιες δυσκολίες οι οποίες αντιμετωπίστηκαν. |
-| 3 | Συμμετοχικό περιεχόμενο A1 |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1416) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1420) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1563) | |
-| 6 | Κατασκευή του βιβλίου Α |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1657)| |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1416) | Εύκολη διαδικασία την οποία ολοκλήρωσα έπιτα από διορθώσεις απο την συμμετοχή μου στα μαθήματα.  |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1420) | Απλή άσκηση γραμμής εντολών, μία πρώτη γνωριμία με τις δυνατότητες του arch linux |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1563) |Εύκολη διαδικασία την οποία ολοκλήρωσα έπιτα από διορθώσεις απο την συμμετοχή μου στα μαθήματα. |
+| 6 | Κατασκευή του βιβλίου Α |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1657)| Μια άσκηση η οποία παρουσίασε δυσκολίες και  δυσλειτουργίες του συστήματος οι οποίες αντιμετωπίστηκαν |
 | 7 | Συμμετοχικό περιεχόμενο B1 |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1838) | |
 | 8 | Άσκηση γραμμής εντολών |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1869)| |
 | 9 | Συμμετοχικό περιεχόμενο B2 |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1868) | |
 | 10 | Άσκηση γραμμής εντολών | [DISCUSSION](https://github.com/courses-ionio/help/discussions/1985)| |
 | 11 | Κατασκευή του βιβλίου Β |[DISCUSSION](https://github.com/courses-ionio/help/discussions/1953) | |
-| 12 | Τελική αναφορά* |[DISCUSSION](https://github.com/courses-ionio/help/discussions/2004) | |
+| 12 | Τελική αναφορά* |[DISCUSSION](https://github.com/courses-ionio/help/discussions/2004) |Τα συμπεράσματα στα οποία κατέληξα, αξιολόγησα την αποδοτικότητα μου σχετικά με τους στόχους μου.  |
 
 ## ΠΑΡΑΔΟΤΕΟ 1-ΕΙΣΑΓΩΓΗ
 
