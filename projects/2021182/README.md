@@ -9,18 +9,18 @@ Edpuzzle username: 2021182 Petros Perantonakis
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/help/discussions/848 | 100% |
-| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | https://github.com/courses-ionio/help/discussions/1103 | 100% |
-| 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1194 | 100% |
-| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | https://github.com/courses-ionio/help/discussions/1338 | 100% |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/help/discussions/848 | 100% (ολοκληρώθηκαν με επιτυχία όλα τα ζητούμενα) |
+| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | https://github.com/courses-ionio/help/discussions/1103 | 100% (επιτυχής εγκατάσταση των arch) |
+| 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1194 | 70% (Υπάρχει χώρος βελτίωσης, τα tags είναι ελαφρώς ανακριβή και το caption είναι λίγο γενικό) |
+| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | https://github.com/courses-ionio/help/discussions/1338 | 100% (πραγματοποίησα μια άσκηση warmup που λειτουργεί κανονικά) |
 | 5 | Συμμετοχικό περιεχόμενο A2 | https://github.com/courses-ionio/help/discussions/1464 | 50% (δυστυχώς λειτουργούν μόνο τα slides) |
-| 6 | Κατασκευή του βιβλίου Α | https://github.com/courses-ionio/help/discussions/1570 | 100% |
-| 7 | Συμμετοχικό περιεχόμενο B1 | https://github.com/courses-ionio/help/discussions/1773 | 100% |
-| 8 | Άσκηση γραμμής εντολών | https://github.com/courses-ionio/help/discussions/1774 | 100% |
+| 6 | Κατασκευή του βιβλίου Α | https://github.com/courses-ionio/help/discussions/1570 | 80% (το βιβλίο κατασκευάστηκε επιτυχώς, το φίλτρο είναι λίγο βασικό επειδή οποιοδήποτε αλλαγή στο φίλτρο μου προκαλούσε error που δεν μπορούσα να διορθώσω, για αυτο και η μικρότερη βαθμολογία) |
+| 7 | Συμμετοχικό περιεχόμενο B1 | https://github.com/courses-ionio/help/discussions/1773 | 100% (μελέτη περίπτωσης που πιστεύω αναδυκνύει τα διάφορα χαρακτηριστικά δυο διαφορετικών είδων κονσόλων από διάφορες πηγές, με τις κατάλληλες εικόνες) |
+| 8 | Άσκηση γραμμής εντολών | https://github.com/courses-ionio/help/discussions/1774 | 100% (δημιούργησα ένα shell script που με τη βοήθεια του pandoc αλλάζει μορφές αρχείων pdf,txt,epub) |
 | 9 | Συμμετοχικό περιεχόμενο B2 | https://github.com/courses-ionio/help/discussions/1845 | 80% (δεν υπάρχει φωτογραφία του Jerry Lawson) |
-| 10 | Άσκηση γραμμής εντολών | https://github.com/courses-ionio/help/discussions/1933 | 100% |
-| 11 | Κατασκευή του βιβλίου Β | https://github.com/courses-ionio/help/discussions/2017 | 100% |
-| 12 | Τελική αναφορά* | | |
+| 10 | Άσκηση γραμμής εντολών | https://github.com/courses-ionio/help/discussions/1933 | 100% (δημιούργησα ένα script που μου δείχνει την αξία μερικών κρυπτονομισμάτων που έχω και την ποσοστιαία αλλαγή στην αξία τους το τελευταίο εικοσιτετράωρο) |
+| 11 | Κατασκευή του βιβλίου Β | https://github.com/courses-ionio/help/discussions/2017 | 100% (πρόσθεσα τα includes μου στο βιβλίο για να το φέρω στη τελική μορφή του και το μετέτρεψα σε epub χρησιμοποιώντας το pandoc χρησιμοποιώντας γνώσεις που απέκτησα από το παραδοτέο 8) |
+| 12 | Τελική αναφορά* | | 70% (Σίγουρα υπάρχει χώρος για βελτιώσεις και εξελίξεις, αλλά με γνώμονα τη απειρία και τις ατελείωτες ώρες που μαζί με την ομάδα αφιερώσαμε στα παραδοτέα μας, είμαι ικανοποιημένος από το τελικό αποτέλεσμα) |
 
 # ΕΙΣΑΓΩΓΗ
 
