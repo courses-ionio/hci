@@ -56,16 +56,24 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 
 # Παραδοτέο 9ο
 [Βιογραφία του Barron](https://github.com/R3try0/site/blob/master/_biography/john-shepherd-barron.md)
+
 [Βιογραφία του Siemens](https://github.com/R3try0/site/blob/master/_biography/werner-von-siemens.md)
 
 **Πηγές περί των John Shepherd Barron**
 [www.nytimes.com](https://www.nytimes.com/2010/05/21/business/global/21barron.html)
+
 [www.atmmarketplace.com](https://www.atmmarketplace.com/news/whos-who-john-shepherd-barron/)
+
 [www.edubilla.com](http://www.edubilla.com/inventor/john-shepherd-barron/) 
+
 **Πηγές περί των Werner Von Siemens**
+
 [www.britannica.com](https://www.britannica.com/biography/Werner-von-Siemens)
+
 [www.siemens.com](https://www.siemens.com/global/en/company/about/history/stories/werner-von-siemens.html)
+
 [www.thefamouspeople.com](https://www.thefamouspeople.com/profiles/werner-von-siemens-6564.php)
+
 
 # Παραδοτέο 10ο
 
