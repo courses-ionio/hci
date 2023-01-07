@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Github](https://github.com/R3try0) | Αντώνιος | Κασωτάκης | R3try0 | inf2021084 | inf2021084@ionio.gr |
 | [Edupuzzle](https://edpuzzle.com/classes/63398b5f9fadbe4119d673a5) | Αντώνιος | Κασωτάκης |  inf2021084_ | inf2021084 | inf2021084@ionio.gr |
-| [Edupuzzle](https://edpuzzle.com) lost account | Αντώνιος | Κασωτάκης | inf2021084 | inf2021084 | inf2021084 | inf2021084@ionio.gr |
+| [Edupuzzle](https://edpuzzle.com) lost account | Αντώνιος | Κασωτάκης | inf2021084 | inf2021084 | inf2021084@ionio.gr |
 
 Όνομα ομάδας: OMADA12 <br>
 GitHub organisation url: [OMADA12](https://github.com/OMADA12)
