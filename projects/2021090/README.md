@@ -56,6 +56,8 @@
 <br />
 &nbsp;&nbsp;&nbsp;Για το συμμετοχικό περιεχόμενο Α1 έγινε αναζήτηση στο διαδίκτυο για την προσθήκη δύο νέων εικόνων στο περιεχόμενο του βιβλίου. Οι επιλογές μου φαίνονται στις παρακατάω εικόνες και είναι από πάνω προς τα κάτω το Blender και το Houdini. Το blender πρόκειται για ένα ελέυθερο λογισμικό δημιουργίας 3D μοντέλων, animetion ,video και άλλων,ενώ το houdini είναι επαγγελματικό πρόγραμμα ψηφιακών εφέ και προσομοιώσεων. Τo houdini αντικατέστησε την αρχική μου επιλογή amiga workbench καθώς ήταν πιο σύμφωνο με το πνεύμα των θεματικών που ανέφερα στην εισαγωγή. Η εικόνα του blender άλλαξε επίσης ώστε να φαίνονται καλύτερα τα διαδραστικά μέρη του λογισμικού.
 
+![alt text](https://github.com/inf2021090/images/blob/master/blender.png)
+![alt text](https://github.com/inf2021090/images/blob/master/houdini.png)
 
 &nbsp;&nbsp;&nbsp;Για την δημηουργία του thumbnail χρησιμοποιήθηκε αυτό το [ονλάιν πρόγραμμα επεξεργασίας εικόνας](https://www9.lunapic.com/editor/?action=scale).Για το κάθε ένα δημιουργήθηκαι ένα ξεχωριστό αρχείο **markdown** με όλα τα απαράιτητα στοιχεία.Για να ανέβουν στο  github έπρεπε να γίνει εγκατάσταση των αποθετηρίων site, _gallery,images αφού προηγουμένος είχε γίνει αντίστοιχο fork αυτών στο github profile μου μέσω του **ομαδικού οργανισμού**.Η ομάδα μας αντιμετόπησε προβλήμτα λόγου ελλειπή αρχικού χειρισμού των αποθετηρίων ,αλλά αντιμετοπίστηκαν με την μεταξύ μας συνεργασία, τους οδηγούς συμφητητών, και εξωτερικών πηγών από το διαδίκτυο.
 
@@ -64,20 +66,18 @@
 (https://github.com/ContattoContare/site/pull/3)
 (https://github.com/ContattoContare/site/pull/2/files)
 
-![alt text](https://github.com/inf2021090/images/blob/master/blender.png)
-![alt text](https://github.com/inf2021090/images/blob/master/houdini.png)
 
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
 |    [netlify4oudini](https://inf2021090.netlify.app/gallery/houdini/)  |   [houdini](https://github.com/inf2021090/_gallery/blob/master/houdini.md)    |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
 | [blender](https://inf2021090.netlify.app/gallery/blender/)  |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)    |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)         |
 
-Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο [ΠΑΡΑΤΗΜΑ](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1))
+Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο [ΠΑΡΑΤΗΜΑ](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1)
 ## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
 
 <br />
 
-&nbsp;&nbsp;&nbsp;H εγκατάσταση σε πραγματικό υλικό είχε είδη πραγματοποιηθεί την δεύτερη ευδομάδα.Αυτή την εβδομάδα πραγματοποιήθηκαν και καταγράφηκαν μερικές ασκήσεις από τη warm up λίστα.
+&nbsp;&nbsp;&nbsp;H εγκατάσταση σε πραγματικό υλικό είχε είδη πραγματοποιηθεί την δεύτερη ευδομάδα.Αυτή την εβδομάδα έγιναν και καταγράφηκαν μερικές ασκήσεις από τη warm up λίστα.
 Σύνδεσμος για το ανανεομένο neofetch
 
 [![asciicast](https://asciinema.org/a/0TceASHhgDu3Obfz6YtU1Dyf7.svg)](https://asciinema.org/a/0TceASHhgDu3Obfz6YtU1Dyf7)
@@ -90,7 +90,7 @@
 
 <br />
 
-Η εβδομάδα αυτή αφορούσε την δημιουργία ενός νέο χρονολογίου και μίας νέας θεματικής διαφάνιας για κάθε μια από τις εικόνες της τρίτης εβδομάδας. Η  διαδικασία ήταν σχετικά απλή καθώς τα βήμτα ήταν είδη γνωστά από το παραδοτέο 3. Αν και με τον οργανισμό μου αντιμετοπίσαμε αρχικά μερικές δυσκολίες ,που οφειλόνταν σε λανθασμένη ρύθμιση των αποθετηρίων, γρήγορα αντιμετοπίστηκαν και μπορέσαμε να προχωρίσουμε στην προσθήκη των αρχείων στο site. Η δική μου συνεισφορά:
+Η εβδομάδα αυτή αφορούσε την δημιουργία ενός νέο χρονολογίου και μίας νέας θεματικής διαφάνιας για κάθε μια από τις εικόνες της τρίτης εβδομάδας. Η  διαδικασία ήταν σχετικά απλή καθώς τα βήμτα ήταν είδη γνωστά από το παραδοτέο 3. Τα χρονολόγια και η διαφάνειες που έγιναν οι προσθήκες μου κατασκευάστηκαν σε συνεργασία με μέλη της ομάδας που είχαμε παρόμοιες θεματικές. Η δική μου συνεισφορά:
 pull request
 (https://github.com/ContattoContare/site/pull/14/commits)
 (https://github.com/inf2021090/kallipos/blob/master/book.pdf)
@@ -105,6 +105,8 @@ pull request
 [graphics design slide](https://inf2021090.netlify.app/slides/graphic-design/)
 
 https://github.com/ContattoContare/site/pull/32
+
+Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο [ΠΑΡΑΤΗΜΑ](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1)
 
 ## Εβδομάδα Έκτη - Κατασκευή του βιβλίου Α
 
