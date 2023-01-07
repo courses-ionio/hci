@@ -125,6 +125,15 @@
   Για το 10ο παραδοτέο έφτιαξα ένα script που μετατρέπει ένα αρχείο markdown (τελική αναφορά) σε pdf με την χρήση του groff και pandoc. Αρχικά είχα κάνει 
   λάθος την εργασία ,αλλά χαρις στα σχόλια συμφοιτητή άλλαξα την εργασία μου για να υπακούει στους κανόνες του παραδοτέου.
   * [asciinema link](https://asciinema.org/a/OPstiod5jnVOKK6lYfebEPcUS)
+  * κώδικας : '#! /usr/bin/bash
+
+    echo "Converting final report to pdf"
+
+
+    pandoc README.md -t ms -o README.pdf
+    echo -e "Done\ncurrent directory:"
+    ls
+'
   
   
   # 12ο ΠΑΡΑΔΟΤΕΟ 
