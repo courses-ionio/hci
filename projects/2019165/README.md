@@ -208,3 +208,5 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 
 
 
+
+
