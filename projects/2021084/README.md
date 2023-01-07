@@ -26,7 +26,7 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 # Παραδοτέο 4ο
 **Για warmup και παράδοσης του παραδοτέου 4 πραγματοποιήθηκαν οι ασκήσεις:**
 * 2ο assignment ("get familiar with basic commands, reading..") με το [asciinema](https://asciinema.org/a/548793)
-* * 32o assignment ("download mp3") όπου έγινε η λείψει και αναπαραγωγή του τραγουδιού  Rick Astley - Never Gonna Give You Up (Official Music Video) όπου με την βοήθεια του [asciinema](https://asciinema.org/a/548798)
+* 32o assignment ("download mp3") όπου έγινε η λείψει και αναπαραγωγή του τραγουδιού  Rick Astley - Never Gonna Give You Up (Official Music Video) όπου με την βοήθεια του [asciinema](https://asciinema.org/a/548798)
 Όπου θεωρήθηκε περιττό να αποδειχθεί το πως έγινε η εγκατάσταση με το pacman.
 
 # Παραδοτέο 5ο
