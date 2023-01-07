@@ -64,25 +64,19 @@
 2.  git commit -m "message"
 3.  git push origin
 &nbsp;&nbsp;&nbsp;Αυτό επαναλαμβάνεται μια φορά στο gallery μια στο images και τέλος στο site.Για να δημιουργηθεί η ατομική ιστοσελίδα έγινε πρώτα σύνδεση στο netlify μέσω github και από εκεί επιλέχθηκε το αποθετήριο από το οποίο θα φτιαχτεί το site.
-link για το netlify
-[blender](https://elegant-meringue-bf62a4.netlify.app/gallery/blender-version-2.57/)
-[amiga workbench](https://elegant-meringue-bf62a4.netlify.app/gallery/amiga-workbench/)
 
-τα pull requests
+τα ΠΑΛΙΑ pull requests
 (https://github.com/ContattoContare/_gallery/pull/2/commits/bbd37a5fb70eb1d161d33133ec9caab99f83bfaa)
 (https://github.com/ContattoContare/site/pull/3)
 (https://github.com/ContattoContare/site/pull/2/files)
-Γνωστά προβλήματα :
-1.  Η γραμμές στο αρχείο md έχουν σημασία!Φωτογραφιες
-2.  Προσοχή στα branches
 
 ![alt text](https://github.com/inf2021090/images/blob/master/blender.png)
 ![alt text](https://github.com/inf2021090/images/blob/master/houdini.png)
 
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
-|    https://inf2021090.netlify.app/gallery/houdini/  |   https://github.com/inf2021090/_gallery/blob/master/blender.md    |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
-| https://inf2021090.netlify.app/gallery/blender/  |    https://github.com/inf2021090/_gallery/blob/master/houdini.md    |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)         |
+|    [netlify4oudini](https://inf2021090.netlify.app/gallery/houdini/)  |   [houdini](https://github.com/inf2021090/_gallery/blob/master/houdini.md)    |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
+| [blender](https://inf2021090.netlify.app/gallery/blender/)  |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)    |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)         |
 
 ## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
 
