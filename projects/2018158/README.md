@@ -166,23 +166,19 @@ vercel link: [VersaBraille - 1982](https://site-bay-gamma.vercel.app/timeline/in
 
 Συμμετοχικό περιεχόμενο B1.
 
-Για το συμμετοχικό περιεχόμενο Β1 δημιουργήθηκε ένα case study σχετικά με την *siri*. Κάποιες χρήσιμες, τυπικές πληροφορίες, μικρή περιγραφή για τα iui, την χρήση των εικονικών βοηθών και γενικά της siri και ενδεχόμενες μελλοντικές επεκτάσεις. Βασίζεται στην λογική πως οι έξυπνες διεπαφές χρήστη βοηθούν τους ανθρώπους, καθώς συγκεκριμένα το πως η siri βελτιώνει την καθημερινότητα ανθρώπων με αναπηρίες ή δυσκολίες.
+Για το συμμετοχικό περιεχόμενο Β1 δημιουργήθηκε ένα case study σχετικά με την χρήση των έξυπνων πρακτόρων προς τις βοηθητικές τεχνολογίες. Οι πράκτορες δεν αξιοποιούνται αποκλειστικά για επιχειρήσεις, αλλά πλέον και στον τομέα της υγείας. Φυσικά υπάρχουν αρκετές βοηθητικές τεχνολογίες με ποικίλα είδη, όμως με μοναδικό σκοπό της ενίσχυση της θεραπείας παρά την αντικατάσταση του ειδικού ή και της αγωγής.
 
-[case study](https://github.com/AnTonyPapako/site/blob/master/_case-study/siri-assistant.md)
+[case study](https://github.com/AnTonyPapako/site/blob/master/_case-study/agent-in-assistive-technology.md)
 
-[includes](https://github.com/AnTonyPapako/site/blob/master/_includes/cs-siri-assistant.md)
+[includes](https://github.com/AnTonyPapako/site/blob/master/_includes/cs-agents-in-assistive-technology.md)
 
-Προσωπικός σύνδεσμος vercel: [Overcoming Boundaries](https://site-bay-gamma.vercel.app/case-study/siri-assistant)
+Προσωπικός σύνδεσμος vercel: [Overcoming Boundaries](https://site-rke0nzn0t-antonypapako.vercel.app/case-study/agent-in-assistive-technology)
 
 Πηγές
 
-- [Intelligent UI: The Virtual Assistant Paradigm](https://tomgruber.org/innovation/virtual-assistant-paradigm)
+- [Assistive technologies for the disabled and for the new generation of senior citizens: the e-Tools architecture](https://www.cs.upc.edu/~ia/articulos/Ucortesetal-AICom-16-1.2003.pdf)
 
 - [Siri and the Visually Impaired: Call Me Apple!](https://www.perkins.org/resource/siri-and-visually-impaired-call-me-apple/)
-
-- [The Future of Voice Assistants](https://www.phonexia.com/blog/the-future-of-voice-assistants/)
-
-- [Predictions for the Future Of Voice Assistants and AI](https://clearbridgemobile.com/7-key-predictions-for-the-future-of-voice-assistants-and-ai/)
 
 ##
 
