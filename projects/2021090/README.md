@@ -229,3 +229,6 @@ https://github.com/courses-ionio/help/discussions/1992
 |[παλιό](https://github.com/ContattoContare/_gallery/pull/2/commits/bbd37a5fb70eb1d161d33133ec9caab99f83bfaa)|
 |[παλιό](https://github.com/ContattoContare/site/pull/3)|
 |[παλιό](https://github.com/ContattoContare/site/pull/2/files)|
+|[παλιό](https://github.com/ContattoContare/site/pull/14/commits)|
+|[παλιό](https://github.com/inf2021090/kallipos/blob/master/book.pdf)|
+|[παλιό](https://elegant-meringue-bf62a4.netlify.app/slides/visual-programming)|
