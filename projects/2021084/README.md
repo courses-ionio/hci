@@ -43,8 +43,10 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 [Ένα screenshot από το pdf](https://github.com/R3try0/kallipos/blob/master/Screenshot_2022-11-18_13_05_55.png)
 
 # Παραδοτέο 7ο
+
 [A case study for siemens_scada](https://github.com/R3try0/site/blob/master/_case-study/siemens_scada.md)
-[A case study for atm_machine](hhttps://github.com/R3try0/site/blob/master/_case-study/atm_machine.md)
+
+[A case study for atm_machine](https://github.com/R3try0/site/blob/master/_case-study/atm_machine.md)
 
 
 # Παραδοτέο 8ο
