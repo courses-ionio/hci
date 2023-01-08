@@ -84,7 +84,9 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 # Παραδοτέο 10ο
 
 [asciinema](https://asciinema.org/a/550226)
+
 [mypro.py](https://github.com/R3try0/other_files/blob/main/python%20files/mypro.py)
+
 [mypro](https://github.com/R3try0/other_files/blob/main/python%20files/dist/mypro)
 
 # Παραδοτέο 11ο
