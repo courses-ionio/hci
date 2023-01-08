@@ -143,7 +143,8 @@ Links:
 
 &nbsp;&nbsp;&nbsp;Για το 11ο παραδοτέο έπρεπε να προσθέσω στο βιβλίο μου το case-study και biography που είχα κάνει σε προηγούμενα παραδοτέα και να το μετατρέψω σε epub.
 
-[Epub](https://github.com/inf2021229/kallipos/blob/master/book.epub)
+Links: [Epub](https://github.com/inf2021229/kallipos/blob/master/book.epub)
+
 Φωτογραφίες: [Case-Study](https://github.com/inf2021229/kallipos/blob/master/digital-image-editing-screenshot.png), [Biography1](https://github.com/inf2021229/kallipos/blob/master/aaron-marcus-screenshot-1.png), [Biography2](https://github.com/inf2021229/kallipos/blob/master/aaron-marcus-screenshot-2.png)
 
 <br /><br />
