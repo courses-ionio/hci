@@ -87,7 +87,8 @@ Netlify Links:
 
 Github Links: [PDF](https://github.com/inf2021229/kallipos/blob/master/book.pdf),
 [Filter](https://github.com/inf2021229/kallipos/blob/master/filter.lua),
-[Contribution](https://github.com/inf2021229/kallipos/blob/master/contribution/windows11.md)
+[Addition](https://github.com/inf2021229/kallipos/blob/master/myaddition/gimp.md),
+[Image](https://github.com/inf2021229/kallipos/blob/master/gimp-screenshot.png)
 
 <br /><br /> 
 # Εβδομάδα Έβδομη - Συμμετοχικό περιεχόμενο B1
