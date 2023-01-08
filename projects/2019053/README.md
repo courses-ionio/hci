@@ -364,17 +364,40 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Στο συγκεκριμένο παραδοτέο αντιμετώπισα κάποιες δυσκολίες, αλλά έπειτα από αρκετή προσπάθεια μπόρεσα και τις επέλυσα επιτυχώς. Το κομμάτι που με δυσκόλεψε ήταν η ενσωμάτωση των κειμένων της μελέτης περίπτωσης και της βιογραφίας μου από τα Παραδοτέα [7](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%B2%CE%B4%CE%BF%CE%BC%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21) και [9](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%BD%CE%B1%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B22) αντίστοιχα. Συγκεκριμένα, η προσθήκη των εικονών με απασχόλησε αρκετά, όμως έπειτα κατάλαβα πως για την ομαλή εμφάνισή τους χρειαζόταν να δημιουργήσω τα ανάλογα **.md** αρχεία στο **figures** (gallery). Αξίζει να σημειωθεί πως για τη μελέτη περίπτωσης **(X Window System)** είχα χρησιμοποιήσει μία εικόνα που υπήρχε ήδη στο images και στο gallery και για αυτόν το λόγο δεν τροποποίησα το περιεχόμενό της όπως φαίνεται παρακάτω. Τόσο τη μελέτη περίπτωσης όσο και τη βιογραφία τις ένταξα στο κεφάλαιο **Τεχνολογία (12)**.
 
+<br />
 
+### Δημιουργία epub Αρχείου
 
+<br />
 
+&nbsp;&nbsp;&nbsp;&nbsp;Για τη δημιουργία του epub αρχείου βοηθήθηκα από το [σχόλιο](https://github.com/courses-ionio/help/discussions/1976) του **@NickLitharis** κάτω από μία εβδομαδιαία παρουσίαση προόδου ενός συμφοιτητή. Ενσωμάτωσα την εντολή του [stackoverflow forum](https://stackoverflow.com/questions/30504494/use-pandoc-to-convert-tex-file) στο **make-latex.sh** αρχείο μου και δημιούργησα το epub αρχείο το οποίο ανήκει στο φάκελο **book**. Παρακάτω φαίνεται και το **asciinema recording**.
 
+<br />
 
+Το αποτέλεσμα της εκτέλεσης της εντολής <kbd>./make-latex.sh</kbd>	αναπαρίσταται παρακάτω στο **asciinema recording** μου
 
+[![asciicast](https://asciinema.org/a/bZTJ9NX4cwoGgU8oXFCAyGQqz.svg)](https://asciinema.org/a/bZTJ9NX4cwoGgU8oXFCAyGQqz)
 
+<br />
 
+**Ένα κομμάτι της μελέτης περίπτωσής μου για το X Window System στο pdf book**
 
+![x-window-system-paradoteo11-V2](https://user-images.githubusercontent.com/72695605/211199926-74e6af85-13d0-4d75-9997-e6304c6b3186.png)
 
+<br />
 
+**Ένα κομμάτι της βιογραφίας μου για τον Rob Pike στο pdf book**
+
+![rob-pike-paradoteo11-V2](https://user-images.githubusercontent.com/72695605/211199725-d7875243-c28b-4f59-86f6-d49163265574.png)
+
+<br />
+
+| Χρήσιμοι Σύνδεσμοι |
+| --- |
+| [asciinema recording](https://asciinema.org/a/bZTJ9NX4cwoGgU8oXFCAyGQqz) |
+| [make-latex.sh](https://github.com/AimiliosPavlidis2001/kallipos/blob/my_branch/make-latex.sh) |
+| [screenshots folder](https://github.com/AimiliosPavlidis2001/kallipos/tree/my_branch/my-pictures) |
+| [tex, pdf, epub books folder](https://github.com/AimiliosPavlidis2001/kallipos/tree/my_branch/book) |
 
 
 <br /><br />
