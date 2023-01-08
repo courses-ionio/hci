@@ -352,6 +352,30 @@
 | --- | --- |
 | [My Github Repo](https://github.com/AimiliosPavlidis2001/Script_SpaceVim) | [My Asciinema Recording](https://asciinema.org/a/ug7fOYHXc9LMwxhZwGMQ3XJym) |
 
+<br /><br />
+
+## Εβδομάδα Ενδέκατη - Κατασκευή του βιβλίου Β
+
+<br />
+
+### Διαδικασία Ενσωμάτωσης Μελέτης Περίπτωσης και Βιογραφίας
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Στο συγκεκριμένο παραδοτέο αντιμετώπισα κάποιες δυσκολίες, αλλά έπειτα από αρκετή προσπάθεια μπόρεσα και τις επέλυσα επιτυχώς. Το κομμάτι που με δυσκόλεψε ήταν η ενσωμάτωση των κειμένων της μελέτης περίπτωσης και της βιογραφίας μου από τα Παραδοτέα [7](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%B2%CE%B4%CE%BF%CE%BC%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21) και [9](https://github.com/AimiliosPavlidis2001/hci/blob/2019053/projects/2019053/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%BD%CE%B1%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B22) αντίστοιχα. Συγκεκριμένα, η προσθήκη των εικονών με απασχόλησε αρκετά, όμως έπειτα κατάλαβα πως για την ομαλή εμφάνισή τους χρειαζόταν να δημιουργήσω τα ανάλογα **.md** αρχεία στο **figures** (gallery). Αξίζει να σημειωθεί πως για τη μελέτη περίπτωσης **(X Window System)** είχα χρησιμοποιήσει μία εικόνα που υπήρχε ήδη στο images και στο gallery και για αυτόν το λόγο δεν τροποποίησα το περιεχόμενό της όπως φαίνεται παρακάτω. Τόσο τη μελέτη περίπτωσης όσο και τη βιογραφία τις ένταξα στο κεφάλαιο **Τεχνολογία (12)**.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br /><br />
 
