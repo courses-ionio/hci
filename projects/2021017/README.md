@@ -58,10 +58,12 @@
 
 
 # Συμμετοχικό περιεχόμενο B1 <br>
-Έκανα μελέτη περίπτωσης στο μακροβιότερο [VR headset](https://master--meek-chaja-52b6fe.netlify.app/case-study/oculusandvr/), δίνοντας έμφαση στο λειτουργικό σύστημα SDK και στις χρήσης του στη βιομηχανία και τη διασκέδαση. Χωρίς να επιμείνω στο γεγονός ότι έχει γίνει γνωστό λόγο τον βιντεοπαιχνιδιών. <br>
+Έκανα μελέτη περίπτωσης στο μακροβιότερο [VR headset](https://master--meek-chaja-52b6fe.netlify.app/case-study/oculusandvr/), δίνοντας έμφαση στο λειτουργικό σύστημα SDK και στις χρήσης του στη βιομηχανία και τη διασκέδαση. Χωρίς να επιμείνω στο γεγονός ότι έχει γίνει γνωστό λόγο τον βιντεοπαιχνιδιών. <br>![oculus(1)](https://user-images.githubusercontent.com/101902825/211208344-33cc9f11-163d-4bff-8226-bb571ca76603.jpg)
+
 
 # Συμμετοχικό περιεχόμενο B2 <br>
 Η βιογραφία είναι για τον [Palmer Luckey](https://master--meek-chaja-52b6fe.netlify.app/biography/palmerluckey/) τον ιδρυτή της Oculus και της Anduril Industries, η οποία δημιουργεί πολεμικό περιεχόμενο για τον Αμερικανικό στρατό. <br>
+![palmer(1)](https://user-images.githubusercontent.com/101902825/211208295-1e3d2c98-1c4c-4111-a974-4f225dcb2541.jpg)
 
 # Άσκηση γραμμής εντολών 8&10 <br>
 Στη γραμμή εντολών ασχολήθηκα με την αλλαγή του [groff](https://github.com/artopodama/8-10/blob/main/groff.txt) αρχείου σε PDF μέσο του [pandoc](https://github.com/artopodama/8-10/blob/main/make.sh) και αντιμετώπισα πρόβλημα με τη συμβατότητα με αποτέλεσμα να πρέπει να γίνει αλλαγεί από groff σε html και μετά σε pandoc ώστε να γίνει pdf.
