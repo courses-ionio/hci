@@ -18,8 +18,8 @@ Edpuzzle : Kremmudis inf2021051
 | 8 | Άσκηση γραμμής εντολών |https://github.com/courses-ionio/help/discussions/1816 |100% |
 | 9 | Συμμετοχικό περιεχόμενο B2 |https://github.com/courses-ionio/help/discussions/1819 |80% |
 | 10 | Άσκηση γραμμής εντολών |https://github.com/courses-ionio/help/discussions/1932 |100% |
-| 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 11 | Κατασκευή του βιβλίου Β |https://github.com/courses-ionio/help/discussions/2005 |70% |
+| 12 | Τελική αναφορά* |https://github.com/courses-ionio/help/discussions/2018 |100% |
 
 # ΕΙΣΑΓΩΓΗ 
   Γενικός σκοπός μου είναι να μάθω να φτιάχνω παιχνίδια, σκοπός μου για το μάθημα είναι να μάθω να χρησιμοποιώ το github λόγο των διάφορων χρήσεων που
@@ -102,6 +102,7 @@ Edpuzzle : Kremmudis inf2021051
   * [case study](https://github.com/Kremmudis/site/blob/master/_case-study/nanite.md)
   * [pull request](https://github.com/Greek-Salata/site/pull/24)
   * [netlify](https://kremmudis.netlify.app//case-study/nanite/)
+  
   Πηγες:
   * [nanite unreal](https://docs.unrealengine.com/5.0/en-US/nanite-virtualized-geometry-in-unreal-engine/)
   
