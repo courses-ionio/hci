@@ -69,5 +69,6 @@
 # Άσκηση γραμμής εντολών 8&10 <br>
 Στη γραμμή εντολών ασχολήθηκα με την αλλαγή του [groff](https://github.com/artopodama/8-10/blob/main/groff.txt) αρχείου σε PDF μέσο του [pandoc](https://github.com/artopodama/8-10/blob/main/make.sh) και αντιμετώπισα πρόβλημα με τη συμβατότητα με αποτέλεσμα να πρέπει να γίνει αλλαγεί από groff σε html και μετά σε pandoc ώστε να γίνει pdf.
 <br>
-
-
+# Epub & Book <br>
+ Στην κατασκευή του [epub](https://github.com/artopodama/kallipos/blob/master/make-latex.sh) και του [βιβλίου](https://github.com/artopodama/kallipos/tree/master/mynotes) βρήκα μηδαμινές δυσκολίες και προβλήματα.
+<br>
