@@ -6,12 +6,12 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Amstrad-pcw16](https://github.com/courses-ionio/help/discussions/2034),[Breadbox Ensemble](https://github.com/courses-ionio/help/discussions/2034) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[weather forcast](https://github.com/courses-ionio/help/discussions/2035) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Amstrad-pcw16 slides](https://github.com/courses-ionio/help/discussions/2036), [Breadbox Ensemble slides](https://github.com/courses-ionio/help/discussions/2036) | |
-| 6 | Κατασκευή του βιβλίου Α |[smartwatch](https://github.com/artopodama/kallipos/tree/master/mynotes) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | [Oculus Rift](https://master--meek-chaja-52b6fe.netlify.app/case-study/oculusandvr/) | |
+| 6 | Κατασκευή του βιβλίου Α |[smartwatch](https://github.com/courses-ionio/help/discussions/2037) | |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Oculus Rift](https://github.com/courses-ionio/help/discussions/2039) | |
 | 8 | Άσκηση γραμμής εντολών | [groff](https://github.com/courses-ionio/help/discussions/1901)| |
-| 9 | Συμμετοχικό περιεχόμενο B2 | [Palmer Luckey](https://master--meek-chaja-52b6fe.netlify.app/biography/palmerluckey/) | |
+| 9 | Συμμετοχικό περιεχόμενο B2 | [Palmer Luckey](https://github.com/courses-ionio/help/discussions/2039) | |
 | 10 | Άσκηση γραμμής εντολών |[pandoc](https://github.com/courses-ionio/help/discussions/1901) | |
-| 11 | Κατασκευή του βιβλίου Β | [epub](https://github.com/artopodama/kallipos/blob/master/make-latex.sh) [book](https://github.com/artopodama/kallipos/tree/master/mynotes) | |
+| 11 | Κατασκευή του βιβλίου Β | [epub](https://github.com/courses-ionio/help/discussions/2040) [book](https://github.com/courses-ionio/help/discussions/2040) | |
 | 12 | Τελική αναφορά* | | |
 
 <br>
