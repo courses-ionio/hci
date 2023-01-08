@@ -11,7 +11,7 @@
 | 8 | Άσκηση γραμμής εντολών | [groff](https://github.com/courses-ionio/help/discussions/1901)| |
 | 9 | Συμμετοχικό περιεχόμενο B2 | [Palmer Luckey](https://master--meek-chaja-52b6fe.netlify.app/biography/palmerluckey/) | |
 | 10 | Άσκηση γραμμής εντολών |[pandoc](https://github.com/courses-ionio/help/discussions/1901) | |
-| 11 | Κατασκευή του βιβλίου Β | [epub](https://github.com/artopodama/kallipos/blob/master/make-latex.sh)[book](https://github.com/artopodama/kallipos/tree/master/mynotes) | |
+| 11 | Κατασκευή του βιβλίου Β | [epub](https://github.com/artopodama/kallipos/blob/master/make-latex.sh) [book](https://github.com/artopodama/kallipos/tree/master/mynotes) | |
 | 12 | Τελική αναφορά* | | |
 
 <br>
@@ -46,14 +46,16 @@
 # Συμμετοχικό περιεχόμενο Α2 <br>
 Είχα κάποιες δυσκολίες στο να τρέξουν τα timeline, αλλά βρήκαν τη λύση άτομα από την ομάδα που είμαι και λειτούργησαν όλα κανονικά και στο timeline [breadbox](https://master--meek-chaja-52b6fe.netlify.app/timeline/os-apps/), [amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/timeline/computer/) και στο slides [breadbox](https://master--meek-chaja-52b6fe.netlify.app/slides/os/) , [amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/slides/technology/).
 ![breadbox-ensemble1](https://user-images.githubusercontent.com/101902825/201688356-634a8b41-1c8b-4a4e-ad4f-3a39a238f780.png)
-![amstrad-pcw16-thumb](https://user-images.githubusercontent.com/101902825/201688808-2f0bb5df-fc41-48d3-9240-05a025e79d93.jpg)
+![amstrad-pcw16](https://user-images.githubusercontent.com/101902825/211202826-2cdc750a-7674-4c3e-8ad8-effd3a67f1ed.jpg)
+
 
 
 <br>
 
 # Κατασκευή του βιβλίου Α <br> 
 Η κατασκευή του [βιβλίου](https://raw.githubusercontent.com/artopodama/kallipos/master/book.pdf), η λειτουργία του και μετατροπή του σε pdf ήταν το ποιο δύσκολο σημείο μέχρι τώρα. Το θέμα που έχει γραφτεί είναι προς βελτίωση και αλλαγές, το ίδιο και τα [φίλτρα](https://github.com/artopodama/kallipos/blob/master/notes.lua) και το αρχείο [md](https://github.com/artopodama/kallipos/blob/master/mynotes/notes.md).  <br>
-![ksnip_20221114-171308](https://user-images.githubusercontent.com/101902825/201695875-d2e91a80-c21d-4b60-8187-22121cd9b528.png)
+![ksnip_20230108-155717](https://user-images.githubusercontent.com/101902825/211200789-64dbd44e-1208-48c6-ad02-abc4e2e212d0.png)
+
 
 # Συμμετοχικό περιεχόμενο B1 <br>
 Έκανα μελέτη περίπτωσης στο μακροβιότερο [VR headset](https://master--meek-chaja-52b6fe.netlify.app/case-study/oculusandvr/), δίνοντας έμφαση στο λειτουργικό σύστημα SDK και στις χρήσης του στη βιομηχανία και τη διασκέδαση. Χωρίς να επιμείνω στο γεγονός ότι έχει γίνει γνωστό λόγο τον βιντεοπαιχνιδιών. <br>
