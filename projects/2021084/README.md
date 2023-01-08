@@ -30,7 +30,9 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 Όπου θεωρήθηκε περιττό να αποδειχθεί το πως έγινε η εγκατάσταση με το pacman.
 
 # Παραδοτέο 5ο
+
 [siemens_scada.md](https://github.com/R3try0/site/blob/master/_timeline/siemens_scada.md)
+
 [atm_machine.md](https://github.com/R3try0/site/blob/master/_timeline/atm_machine.md)
 
 # Παραδοτέο 6ο
