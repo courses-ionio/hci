@@ -114,7 +114,7 @@ pull request
 [contribution](https://github.com/inf2021090/kallipos/blob/master/contribution/comment.md)
 [inf2021090_filter](https://github.com/inf2021090/kallipos/blob/master/inf2021090_filter.lua)
 [book](https://github.com/inf2021090/kallipos/blob/master/book.pdf)
-![alt text](https://github.com/inf2021090/prototypes/blob/main/sample.png)
+![alt text](https://github.com/inf2021090/prototypes/blob/main/note.png)
 
 ## Εβδομάδα Έβδομη - Συμμετοχικό περιεόμενο Β1
 
