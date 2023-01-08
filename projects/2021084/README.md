@@ -44,7 +44,7 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 
 # Παραδοτέο 7ο
 
-[A case study for siemens_scada](https://github.com/R3try0/site/blob/master/_case-study/siemens_scada.md)
+[A case study for siemens_scada](https://github.com/R3try0/site/blob/master/_case-study/siemens-scada.md)
 
 [A case study for atm_machine](https://github.com/R3try0/site/blob/master/_case-study/atm_machine.md)
 
