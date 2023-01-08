@@ -28,8 +28,8 @@
 | 8 | Άσκηση γραμμής εντολών | [Click](https://github.com/courses-ionio/help/discussions/1781) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | [Click](https://github.com/courses-ionio/help/discussions/1841) | |
 | 10 | Άσκηση γραμμής εντολών | [Click](https://github.com/courses-ionio/help/discussions/1883) | |
-| 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά | | |
+| 11 | Κατασκευή του βιβλίου Β | [Click](https://github.com/courses-ionio/help/discussions/2046) | |
+| 12 | Τελική αναφορά | [Click](https://github.com/courses-ionio/help/discussions/2048) | |
 
 
 <br /><br />
