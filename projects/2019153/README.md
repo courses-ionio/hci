@@ -14,7 +14,7 @@
 | 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) | [discussion](https://github.com/courses-ionio/help/discussions/1832) | το παραδοτέο έγινε με επιτυχία 10/10 |
 | 10 | [Άσκηση γραμμής εντολών](#παραδοτέο-10) | [discussion](https://github.com/courses-ionio/help/discussions/1844) | το παραδοτέο έγινε με επιτυχία 10/10 |
 | 11 | [Κατασκευή του βιβλίου Β](#παραδοτέο-11) | [discussion](https://github.com/courses-ionio/help/discussions/1857) | το παραδοτέο έγινε με επιτυχία 10/10 |
-| 12 | [Τελική αναφορά* ](#παραδοτέο-12) | | |
+| 12 | [Τελική αναφορά* ](#παραδοτέο-12) | [discussion](https://github.com/courses-ionio/help/discussions/2042) | το παραδοτέο έγινε με επιτυχία 10/10 |
 
 # Παραδοτέο 1
 
