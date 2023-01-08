@@ -3,9 +3,9 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [ΕΙΣΑΓΩΓΗ](https://github.com/courses-ionio/help/discussions/882) <br> [ΟΡΓΑΝΙΣΜΟΣ](https://github.com/Second-Time-Is-The-Charm)| |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[arch linux](https://github.com/courses-ionio/help/discussions/1098) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 |[Amstrad-pcw16](https://master--meek-chaja-52b6fe.netlify.app/gallery/amstrad-pcw16/),[Breadbox Ensemble](https://master--meek-chaja-52b6fe.netlify.app/gallery/breadbox-ensemble/) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) |[weather forcast](https://asciinema.org/a/533418) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 |[Amstrad-pcw16 slides](https://master--meek-chaja-52b6fe.netlify.app/timeline/computer/), [Breadbox Ensemble slides](https://master--meek-chaja-52b6fe.netlify.app/timeline/os-apps/) | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[Amstrad-pcw16](https://github.com/courses-ionio/help/discussions/2034),[Breadbox Ensemble](https://github.com/courses-ionio/help/discussions/2034) | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[weather forcast](https://github.com/courses-ionio/help/discussions/2035) | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Amstrad-pcw16 slides](https://github.com/courses-ionio/help/discussions/2036), [Breadbox Ensemble slides](https://github.com/courses-ionio/help/discussions/2036) | |
 | 6 | Κατασκευή του βιβλίου Α |[smartwatch](https://github.com/artopodama/kallipos/tree/master/mynotes) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | [Oculus Rift](https://master--meek-chaja-52b6fe.netlify.app/case-study/oculusandvr/) | |
 | 8 | Άσκηση γραμμής εντολών | [groff](https://github.com/courses-ionio/help/discussions/1901)| |
