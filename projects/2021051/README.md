@@ -97,6 +97,11 @@ Edpuzzle : Kremmudis inf2021051
   σταματάει να 
   αναπτύσσεται.
   
+  Links:
+  * [includes](https://github.com/Kremmudis/site/blob/master/_includes/nanite-technology.md)
+  * [case study](https://github.com/Kremmudis/site/blob/master/_case-study/nanite.md)
+  * [pull request](https://github.com/Greek-Salata/site/pull/24)
+  * [netlify](https://kremmudis.netlify.app//case-study/nanite/)
   Πηγες:
   * [nanite unreal](https://docs.unrealengine.com/5.0/en-US/nanite-virtualized-geometry-in-unreal-engine/)
   
@@ -111,15 +116,23 @@ Edpuzzle : Kremmudis inf2021051
   Σε αυτό το παραδοτέο έγραψα μια βιογραφία για τον Cliff Bleszinski. Θεματικά, συνδέεται με τα υπόλοιπα συμμετοχικά παραδοτέο επειδή είναι ένας από τους
   πιο γνωστούς
   designers στην Epic Games και επειδή έχει φτιάξει το "Unreal". Προσωπικά το Unreal Tournament είναι ένα από τα αγαπημένα μου παιχνίδια όταν ήμουν
-  μικρότερος ;aρα 
+  μικρότερος αρα 
   είχε ενδιαφέρον η μελέτη της ζωής του ανθρώπου που το έφτιαξε. Ο Bleszinski κυκλοφόρησε πρόσφατα ένα καινούριο βιβλίο και έκανε διάφορες συνεντεύξεις για
   την
   προώθηση του άρα ήταν εύκολο να βρω πληροφορίες για την ζωή του.
   
+  Links:
+  * [includes](https://github.com/Kremmudis/site/blob/master/_includes/cliff-bleszinski.md)
+  * [biography](https://github.com/Greek-Salata/site/blob/master/_biography/cliff-bleszinski-bio.md)
+  * [netlify](https://kremmudis.netlify.app//biography/cliff-bleszinski-bio/)
+  * [first pull request](https://github.com/Greek-Salata/site/pull/21)
+  * [updated pull request](https://github.com/Greek-Salata/site/pull/24/commits/8ef7fa4cf28b6ed0e256da0aed6d61965bca1d9b)
+  
+  
    Πηγες:
-  [IGN interview](https://youtu.be/czgp1OF_Ems)
-  [CBS interview](https://www.youtube.com/watch?v=Hnn65B0mGck)
-  [Wikipedia](https://en.wikipedia.org/wiki/Cliff_Bleszinski)
+  * [IGN interview](https://youtu.be/czgp1OF_Ems)
+  * [CBS interview](https://www.youtube.com/watch?v=Hnn65B0mGck)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Cliff_Bleszinski)
   
   # 10ο ΠΑΡΑΔΟΤΕΟ
   Για το 10ο παραδοτέο έφτιαξα ένα script που μετατρέπει ένα αρχείο markdown (τελική αναφορά) σε pdf με την χρήση του groff και pandoc. Αρχικά είχα κάνει 
