@@ -8,9 +8,9 @@
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Amstrad-pcw16 slides](https://master--meek-chaja-52b6fe.netlify.app/timeline/computer/), [Breadbox Ensemble slides](https://master--meek-chaja-52b6fe.netlify.app/timeline/os-apps/) | |
 | 6 | Κατασκευή του βιβλίου Α |[smartwatch](https://github.com/artopodama/kallipos/tree/master/mynotes) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | [Oculus Rift](https://master--meek-chaja-52b6fe.netlify.app/case-study/oculusandvr/) | |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | Άσκηση γραμμής εντολών | groff| |
 | 9 | Συμμετοχικό περιεχόμενο B2 | [Palmer Luckey](https://master--meek-chaja-52b6fe.netlify.app/biography/palmerluckey/) | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 | Άσκηση γραμμής εντολών |pandoc | |
 | 11 | Κατασκευή του βιβλίου Β | [epub](https://github.com/artopodama/kallipos/blob/master/make-latex.sh)[book](https://github.com/artopodama/kallipos/tree/master/mynotes) | |
 | 12 | Τελική αναφορά* | | |
 
