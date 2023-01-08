@@ -58,6 +58,8 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 
 # Παραδοτέο 9ο
 
+**Η βιογραφίες των Barron και Siemens**
+
 [Βιογραφία του Barron](https://github.com/R3try0/site/blob/master/_biography/john-shepherd-barron.md)
 
 [Βιογραφία του Siemens](https://github.com/R3try0/site/blob/master/_biography/werner-von-siemens.md)
