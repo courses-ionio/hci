@@ -458,3 +458,5 @@
 #### Δέκατο Παραδοτέο
  - [βοήθεια βίντεο SpaceVim](https://www.youtube.com/watch?v=3xB501CJDB8)
  - [SpaceVim](https://spacevim.org/)
+#### Ενδέκατο Παραδοτέο
+ - [Stackoverflow forum](https://stackoverflow.com/questions/30504494/use-pandoc-to-convert-tex-file)
