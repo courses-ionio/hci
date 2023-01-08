@@ -8,18 +8,19 @@
 #### Υποστηρικτικό Υλικό: [HCI plus](https://github.com/marked-d/HCI_plus)
 | Εβδομάδα | Παραδοτέα | [Εβδομαδιαία παρουσίαση προόδου](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| [1](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#1o-παραδοτέο) | Εισαγωγή και Δημιουργία ομάδας| [Εισαγωγή](https://github.com/courses-ionio/help/discussions/889) - [Ομάδα](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609)| |
-| [2](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#2o-παραδοτέο) | Άσκηση γραμμής εντολών (linux install) |[Παραδοτέο 2o](https://github.com/courses-ionio/help/discussions/1068) | |
-| [3](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#3o-παραδοτέο) | Συμμετοχικό περιεχόμενο A1 | [Παραδοτέο 3o](https://github.com/courses-ionio/help/discussions/1179) | |
-| [4](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#4o-παραδοτέο) | Άσκηση γραμμής εντολών (warm up cli) |[Παραδοτέο 4ο](https://github.com/courses-ionio/help/discussions/1370) | |
-| [5](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#5o-παραδοτέο) | Συμμετοχικό περιεχόμενο A2 |[Παραδοτέο 5o](https://github.com/courses-ionio/help/discussions/1446) | |
-| [6](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#6o-παραδοτέο) | Κατασκευή του βιβλίου Α |[Παραδοτέο 6ο](https://github.com/courses-ionio/help/discussions/1549)| |
-| [7](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#7o-παραδοτέο) | Συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7ο](https://github.com/courses-ionio/help/discussions/1720)| |
-| [8](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#8o-παραδοτέο) | Άσκηση γραμμής εντολών | [Παραδοτέο 8ο](https://github.com/courses-ionio/help/discussions/1885)| |
-| [9](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#9o-παραδοτέο) | Συμμετοχικό περιεχόμενο B2 |[Παραδοτέο 9ο](https://github.com/courses-ionio/help/discussions/1886) | |
-| [10](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#10o-παραδοτέο) | Άσκηση γραμμής εντολών |[Παραδοτέο 10ο](https://github.com/courses-ionio/help/discussions/1887) | |
-| [11](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#11o-παραδοτέο) | Κατασκευή του βιβλίου Β | [Παραδοτέο 11ο](https://github.com/courses-ionio/help/discussions/2045)| |
-| [12](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#12o-παραδοτέο) | Τελική αναφορά* | [Παραδοτέο 12ο](https://github.com/courses-ionio/help/discussions/2049)| |
+| [1](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#1o-παραδοτέο) | Εισαγωγή και Δημιουργία ομάδας| [Εισαγωγή](https://github.com/courses-ionio/help/discussions/889) - [Ομάδα](https://github.com/courses-ionio/hci/discussions/1794#discussioncomment-3803609)| Το παραδοτέο ολοκληρώθηκε με επιτυχία. 10/10 |
+| [2](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#2o-παραδοτέο) | Άσκηση γραμμής εντολών (linux install) |[Παραδοτέο 2o](https://github.com/courses-ionio/help/discussions/1068) | Το παραδοτέο ολοκληρώθηκε με επιτυχία. 10/10 |
+| [3](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#3o-παραδοτέο) | Συμμετοχικό περιεχόμενο A1 | [Παραδοτέο 3o](https://github.com/courses-ionio/help/discussions/1179) | Το παραδοτέο ολοκληρώθηκε με επιτυχία. 10/10 |
+| [4](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#4o-παραδοτέο) | Άσκηση γραμμής εντολών (warm up cli) |[Παραδοτέο 4ο](https://github.com/courses-ionio/help/discussions/1370) | Το παραδοτέο ολοκληρώθηκε με επιτυχία. 10/10 |
+| [5](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#5o-παραδοτέο) | Συμμετοχικό περιεχόμενο A2 |[Παραδοτέο 5o](https://github.com/courses-ionio/help/discussions/1446) | Το παραδοτέο ολοκληρώθηκε με επιτυχία. 10/10 |
+| [6](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#6o-παραδοτέο) | Κατασκευή του βιβλίου Α |[Παραδοτέο 6ο](https://github.com/courses-ionio/help/discussions/1549)| Το παραδοτέο ολοκληρώθηκε με επιτυχία. 10/10 |
+| [7](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#7o-παραδοτέο) | Συμμετοχικό περιεχόμενο B1 | [Παραδοτέο 7ο](https://github.com/courses-ionio/help/discussions/1720)| Το παραδοτέο ολοκληρώθηκε με επιτυχία. 10/10 |
+| [8](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#8o-παραδοτέο) | Άσκηση γραμμής εντολών | [Παραδοτέο 8ο](https://github.com/courses-ionio/help/discussions/1885)| Το παραδοτέο ολοκληρώθηκε με επιτυχία αλλά ανέβηκε μετά τη λήξη της προθεσμίας. 5/10 |
+| [9](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#9o-παραδοτέο) | Συμμετοχικό περιεχόμενο B2 |[Παραδοτέο 9ο](https://github.com/courses-ionio/help/discussions/1886) | Το παραδοτέο ολοκληρώθηκε με επιτυχία αλλά ανέβηκε μετά τη λήξη της προθεσμίας. 5/10 |
+| [10](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#10o-παραδοτέο) | Άσκηση γραμμής εντολών |[Παραδοτέο 10ο](https://github.com/courses-ionio/help/discussions/1887) | Το παραδοτέο ολοκληρώθηκε με επιτυχία. 10/10 |
+| [11](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#11o-παραδοτέο) | Κατασκευή του βιβλίου Β | [Παραδοτέο 11ο](https://github.com/courses-ionio/help/discussions/2045)| Το παραδοτέο ολοκληρώθηκε με επιτυχία αλλά ανέβηκε μετά τη λήξη της προθεσμίας. 5/10 |
+| [12](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#12o-παραδοτέο) | Τελική αναφορά* | [Παραδοτέο 12ο](https://github.com/courses-ionio/help/discussions/2049)| Το παραδοτέο ολοκληρώθηκε με επιτυχία. 10/10 |
+
 
 1<sup>o</sup> Παραδοτέο 
 ========================
