@@ -18,8 +18,8 @@
 | [8](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#8o-παραδοτέο) | Άσκηση γραμμής εντολών | [Παραδοτέο 8ο](https://github.com/courses-ionio/help/discussions/1885)| |
 | [9](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#9o-παραδοτέο) | Συμμετοχικό περιεχόμενο B2 |[Παραδοτέο 9ο](https://github.com/courses-ionio/help/discussions/1886) | |
 | [10](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#10o-παραδοτέο) | Άσκηση γραμμής εντολών |[Παραδοτέο 10ο](https://github.com/courses-ionio/help/discussions/1887) | |
-| 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| [11](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#11o-παραδοτέο) | Κατασκευή του βιβλίου Β | [Παραδοτέο 11ο](https://github.com/courses-ionio/help/discussions/2045)| |
+| [12](https://github.com/marked-d/hci/blob/P2019170/projects/2019170/README.md#12o-παραδοτέο) | Τελική αναφορά* | [Παραδοτέο 12ο](https://github.com/courses-ionio/help/discussions/2049)| |
 
 1<sup>o</sup> Παραδοτέο 
 ========================
@@ -137,3 +137,20 @@ Linux Installation
 ![image](https://github.com/marked-d/HCI_plus/blob/main/conv-epub.png)
 ![image](https://github.com/marked-d/HCI_plus/blob/main/conv-html.png)
 ![image](https://github.com/marked-d/HCI_plus/blob/main/conv-docx.png)
+
+11<sup>o</sup> Παραδοτέο 
+========================
+Κατασκευή του βιβλίου B
+---------------------------
+Στο 11ο παραδοτέο μετέτρεψα το βιβλίο epub έχοντας προσθέσει και τα δικά μου case-study και biography.
+![image](https://github.com/marked-d/HCI_plus/blob/main/epub/epub1.png)
+![image](https://github.com/marked-d/HCI_plus/blob/main/epub/epub2.png)
+![image](https://github.com/marked-d/HCI_plus/blob/main/epub/epub3.png)
+![image](https://github.com/marked-d/HCI_plus/blob/main/epub/epub4.png)
+![image](https://github.com/marked-d/HCI_plus/blob/main/epub/epub5.png)
+
+12<sup>o</sup> Παραδοτέο 
+========================
+Συμπεράσματα
+---------------------------
+Έμαθα πολλά χρήσιμα πράγματα για την αλληλεπίδραση ανθρώπου-υπολογιστή μέχρι το τέλος του μαθήματος. Παρακολουθώντας τα εβδομαδιαία βίντεο κουίζ ήρθα σε επαφή με διάφορες απόψεις σχετικά με την επικοινωνία ανθρώπου-υπολογιστή, το οποίο με βοήθησε να εμβαθύνω τη μάθησή μου και να αναπτύξω δεξιότητες κριτικής σκέψης αλλά και να ανακαλύψω επίσης νέες πηγές και μεθόδους για την επίλυση προβλημάτων. Συνολικά, θεωρώ ότι αυτό το μάθημα ήταν πραγματικά ωφέλιμο για μένα και ανυπομονώ να χρησιμοποιήσω όσα έμαθα στα μελλοντικά μου βήματα.
