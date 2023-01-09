@@ -3,18 +3,18 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις| Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  Εισαγωγή |Συζήτηση:<br/> [παραδοτέο 1ο](https://github.com/courses-ionio/help/discussions/836)| |
-| 2 | Άσκηση γραμμής εντολών (linux install) | Συζήτηση:<br/>[παραδοτέο 2ο](https://github.com/courses-ionio/help/discussions/1032)| |
-| 3 | Συμμετοχικό περιεχόμενο A1 |Συζήτηση:<br/>[παραδοτέο 3ο](https://github.com/courses-ionio/help/discussions/1168)<br/>| |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) |Συζήτηση:<br/>[παραδοτέο 4ο](https://github.com/courses-ionio/help/discussions/1307)<br/> | |
-| 5 | Συμμετοχικό περιεχόμενο A2 |Συζήτηση:<br/>[παραδοτέο 5ο](https://github.com/courses-ionio/help/discussions/1443)<br/>  | |
-| 6 | Κατασκευή του βιβλίου Α |Συζήτηση:<br/>[παραδοτέο 6ο](https://github.com/courses-ionio/help/discussions/1581) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 |Συζήτηση:<br/>[παραδοτέο 7ο](https://github.com/courses-ionio/help/discussions/1692) | |
-| 8 | Άσκηση γραμμής εντολών |Συζήτηση:<br/>[παραδοτέο 8ο](https://github.com/courses-ionio/help/discussions/1733) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 |Συζήτηση:<br/>[παραδοτέο 9ο](https://github.com/courses-ionio/help/discussions/1806) | |
-| 10 | Άσκηση γραμμής εντολών |Συζήτηση:<br/>[παραδοτέο 10ο](https://github.com/courses-ionio/help/discussions/1866) | |
-| 11 | Κατασκευή του βιβλίου Β |Συζήτηση:<br/>[παραδοτέο 11ο](https://github.com/courses-ionio/help/discussions/1867) | |
-| 12 | Τελική αναφορά* | | |
+| 1 |  Εισαγωγή |Συζήτηση:<br/> [παραδοτέο 1ο](https://github.com/courses-ionio/help/discussions/836)|ολοκληρώθηκε επιτυχώς |
+| 2 | Άσκηση γραμμής εντολών (linux install) | Συζήτηση:<br/>[παραδοτέο 2ο](https://github.com/courses-ionio/help/discussions/1032)|ολοκληρώθηκε επιτυχώς |
+| 3 | Συμμετοχικό περιεχόμενο A1 |Συζήτηση:<br/>[παραδοτέο 3ο](https://github.com/courses-ionio/help/discussions/1168)<br/>| ολοκληρώθηκε επιτυχώς|
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |Συζήτηση:<br/>[παραδοτέο 4ο](https://github.com/courses-ionio/help/discussions/1307)<br/> |ολοκληρώθηκε επιτυχώς |
+| 5 | Συμμετοχικό περιεχόμενο A2 |Συζήτηση:<br/>[παραδοτέο 5ο](https://github.com/courses-ionio/help/discussions/1443)<br/>  | ολοκληρώθηκε επιτυχώς|
+| 6 | Κατασκευή του βιβλίου Α |Συζήτηση:<br/>[παραδοτέο 6ο](https://github.com/courses-ionio/help/discussions/1581) | ολοκληρώθηκε επιτυχώς|
+| 7 | Συμμετοχικό περιεχόμενο B1 |Συζήτηση:<br/>[παραδοτέο 7ο](https://github.com/courses-ionio/help/discussions/1692) | ολοκληρώθηκε επιτυχώς|
+| 8 | Άσκηση γραμμής εντολών |Συζήτηση:<br/>[παραδοτέο 8ο](https://github.com/courses-ionio/help/discussions/1733) | ολοκληρώθηκε επιτυχώς|
+| 9 | Συμμετοχικό περιεχόμενο B2 |Συζήτηση:<br/>[παραδοτέο 9ο](https://github.com/courses-ionio/help/discussions/1806) | ολοκληρώθηκε επιτυχώς|
+| 10 | Άσκηση γραμμής εντολών |Συζήτηση:<br/>[παραδοτέο 10ο](https://github.com/courses-ionio/help/discussions/1866) | ολοκληρώθηκε επιτυχώς|
+| 11 | Κατασκευή του βιβλίου Β |Συζήτηση:<br/>[παραδοτέο 11ο](https://github.com/courses-ionio/help/discussions/1867) | ολοκληρώθηκε επιτυχώς|
+| 12 | Τελική αναφορά* |[Pull request](https://github.com/courses-ionio/hci/pull/1861) | ολοκληρώθηκε επιτυχώς|
 
 # Team
 ## [Second Time Is The Charm](https://github.com/Second-Time-is-the-Charm)
