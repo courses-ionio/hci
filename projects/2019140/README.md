@@ -5,6 +5,7 @@
 ### Email: [p19tour@ionio.gr](mailto:p19tour@ionio.gr)
 ### [Προφίλ στο GitHub](https://github.com/KonstantinosTourtsakis)
 ### [Η αναφορά στο αποθετήριό μου](https://github.com/KonstantinosTourtsakis/hci/tree/2019140/projects/2019140)
+### Edpuzzle: p19tour P2019140
 ### Οργανισμός: [Second Time Is The Charm](https://github.com/Second-Time-Is-The-Charm/Main)
 
 
@@ -151,3 +152,7 @@ echo "$(cat FinalTemporaryMS)" | groff -ms -tbl -refer -Kutf8 -Tpdf > Anafora.pd
 - https://github.com/courses-ionio/help/discussions/1819#discussioncomment-4312948
 - https://github.com/courses-ionio/help/discussions/1845#discussioncomment-4312797
 - https://github.com/Second-Time-Is-The-Charm/Main/discussions/13
+### Συνεισφορές στα Pull Requests της τελικής αναφοράς:
+- https://github.com/courses-ionio/hci/pull/1894#issuecomment-1375820702
+- https://github.com/courses-ionio/hci/pull/1847#issuecomment-1369114099
+- https://github.com/courses-ionio/hci/pull/1879#issuecomment-1375847032
