@@ -264,9 +264,9 @@
 ## Κατασκευή βιβλίου Β
 Σε αυτό το παραδοτέο, χρησιμοποιώντας τις γνώσεις που είχα αποκτήσει από τα προηγούμενα πρόσθεσα στο βιβλίο που δημιούργησα τα case-study και το biography. Και μετέτρεψα το βιβλίο σε μορφή epud. Για να πραγματοποιηθεί αυτή η μετατροπή χρησιμοποίησα την εντολή pandoc --quiet -f latex book.tex -o book.epub την οποία πρόσθεσα στο make-latex.sh αρχείο μου
 
-- [Βιβλίο σε μορφή epud](
+- [Βιβλίο σε μορφή epud](https://github.com/PanMour/info-/blob/main/my_book.epub)
 - [make-latex.sh](
-- [Screenshot](
+- [Screenshot](https://github.com/PanMour/info-/blob/main/screenshot.png)
 
 # Παραδοτέο 12ο
 ## Συμπέρασμα
