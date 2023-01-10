@@ -205,7 +205,7 @@ To Mp3 είναι η πιο δημοφιλής μέθοδος κωδικοποί
 ### Netlify:
 * **[Karlheinz Brandenburg](https://efthimis015.netlify.app/biography/karlheinz-brandenburg/)**
 
-* <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_1.png" width= 150/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_2.png" width= 147/>
+* <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/brandenburg-facebook-e1523510796748.jpg" width= 182/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_2.png" width= 147/>
 
 **Link από την βιβλιογραφία που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:**
 
