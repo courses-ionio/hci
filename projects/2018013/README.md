@@ -20,10 +20,10 @@
 | 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο_6) | | |
 | 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο_7) | https://github.com/courses-ionio/help/discussions/1717 | |
 | 8 | [Άσκηση γραμμής εντολών](#παραδοτέο_8) | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών | | |
-| 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο_9) | | |
+| 10 | [Άσκηση γραμμής εντολών](#παραδοτέο_10) | | |
+| 11 | [Κατασκευή του βιβλίου Β](#παραδοτέο_11) | | |
+| 12 | [Τελική αναφορά*](#παραδοτέο_12) | | |
 
 <br />
 
@@ -52,13 +52,16 @@ link asciinema για την δεύτερη εντολή: [neofetch](https://asc
 
 # Παραδοτέο_3
 Έγινε η προσθήκη του arcade-machine.md και του playstation-portable.md στο gallery
-Ακόμα προστέθηκαν τα playstation-portable.jpg και playstation-portable-thumb.jpg μαζί με arcade-machine.png και arcade-machine-thumb.png στο images 1)https://github.com/giormaster/_gallery/blob/master/arcade-machine.md ,2)https://github.com/giormaster/_gallery/blob/master/playstation-portable.md
+Ακόμα προστέθηκαν τα playstation-portable.jpg και playstation-portable-thumb.jpg μαζί με arcade-machine.png και arcade-machine-thumb.png στο images 1)[arcade machine gallery](https://github.com/giormaster/_gallery/blob/master/arcade-machine.md) ,2)[playstation portable gallery](https://github.com/giormaster/_gallery/blob/master/playstation-portable.md)
 <br />
-3)https://github.com/giormaster/images/blob/master/arcade-machine.jpg / https://github.com/giormaster/images/blob/master/arcade-machine-thumb.jpg
+3)[arcade machine images](https://github.com/giormaster/images/blob/master/arcade-machine.jpg) / [arcade machine thumb](https://github.com/giormaster/images/blob/master/arcade-machine-thumb.jpg)
 <br />
-4)https://github.com/giormaster/images/blob/master/playstation-portable.png / https://github.com/giormaster/images/blob/master/playstation-portable-thumb.png
+4)[playstation portable images](https://github.com/giormaster/images/blob/master/playstation-portable.png) / [playstation portable thumb](https://github.com/giormaster/images/blob/master/playstation-portable-thumb.png)
 <br />
 Το arcade machine είναι μια απο τις πρώτες και σημαντικότερες προσπάθειες του ανθρώπου να εξελίξει τον υπολογιστή ως μέσο ψυχαγωγίας,καθώς και να τον μεταφέρει στο ευρήτερο κοινό που δεν μπορούσε να κατέχει δικό του υπολογιστικό σύστημα.Αρκετά χρόνια μετά το playstation-portable είναι μια παιχνιδοκονσόλα που κατέχει μεγάλη υπολογιστική δύναμη για την εποχή της,αλλα αυτό που την κάνει να ξεχωρίζει ειναι η φορητότητα της,καθώς χωράει κυριολεκτικά στα χέρια του χρήστη,το playstation-portable αν και δεν είναι η πρώτη φωρητή κονσόλα,παραμένει αρκετά σημαντική στην τελειοποίηση τους και στην εξέλιξη των υπολογιστικών συστημάτων ως μέσα ψυχαγωγίας.
+ 
+Λινκ για την σελιδα: [arcade machine](https://site-theta-black.vercel.app/gallery/arcade-machine),[playstation portable](https://site-theta-black.vercel.app/gallery/playstation-portable)
+
 <br />
 
 # Παραδοτέο_4
@@ -75,26 +78,27 @@ Link asciinema journal: [track my time with a journal](https://asciinema.org/a/m
 # Παραδοτέο_5
 Για το παραδοτέο 5 έγινε προσθήκη του playstation-portable και του arcade-machine στο timeline στην κατηγορία consoles.
 <br />
-https://github.com/giormaster/site/blob/master/_timeline/consoles.md
+[timeline consoles](https://github.com/giormaster/site/blob/master/_timeline/consoles.md)
 <br />
 Στα slides πρόσθεσα στην κατηγορία videogames το playstation portable και το arcade machine.
 <br />
-https://github.com/giormaster/site/blob/master/_slides/videogames.md
+[slides videogames](https://github.com/giormaster/site/blob/master/_slides/videogames.md)
 <br />
 Το arcade machine και το playstation portable είναι δύο σημαντικές κονσόλες οι οποίες συνείσφεραν στη εξέλιξη του υπολογιστή.Το arcade machine είναι η πρώτη προσπάθεια του ανθρώπου να χρησιμοποιήσει τον υπολογιστή για ψυχαγωγικούς σκοπούς,το playstation portable ακολουθάει την πορεία του arcade machine βελτιώνοντας τον γραφικό τομέα και προσθέτοντας την φορητότητα που προσφέρουν αρκετές υπολογιστικές συσκευές του σήμερα.
+Λινκ για την σελιδα: [timeline](https://site-theta-black.vercel.app/timeline/consoles),[slides]()
 <br />
 # Παραδοτέο_6
 Στο παραδοτέο 6 έγινε η πρώτη κατασκευή του βιβλίου,επέλεξα το κεφάλαιο 8 και έκανα εκτεταμένη επεξήγηση του space invader και της σημασίας του στον χώρο των βιντεοπαιχνιδιών.
 <br />
-Λινκ για book pdf: https://github.com/giormaster/kallipos/blob/master/book.pdf
+[Λινκ για book pdf](https://github.com/giormaster/kallipos/blob/master/book.pdf)
 <br />
-Λινκ για το lua: https://github.com/giormaster/kallipos/blob/master/space-invade.lua
+[Λινκ για το lua](https://github.com/giormaster/kallipos/blob/master/space-invade.lua)
 <br />
-Λινκ για το make-latex.sh: https://github.com/giormaster/kallipos/blob/master/make-latex.sh
+[Λινκ για το make-latex.sh](https://github.com/giormaster/kallipos/blob/master/make-latex.sh)
 <br />
-Λινκ για το screenshot: https://github.com/giormaster/kallipos/blob/master/my-screenshot/bookimage.png
+[Λινκ για το screenshot](https://github.com/giormaster/kallipos/blob/master/my-screenshot/bookimage.png)
 <br />
-Λινκ για το md file: https://github.com/giormaster/kallipos/blob/master/Mycontribution/space-invaders.md
+[Λινκ για το md file](https://github.com/giormaster/kallipos/blob/master/Mycontribution/space-invaders.md)
 <br />
 # Παραδοτέο_7
 Για το παραδοτέο 7 πρόσθεσα στο case study του site το arcade-machine-console.md: https://github.com/giormaster/site/blob/master/_case-study/arcade-machine-console.md
@@ -130,7 +134,7 @@ asciinema link: https://asciinema.org/a/u7kQdDbClXcn05Br2Jv1Sabnl
 
 - [Book EPUB](https://github.com/giormaster/kallipos/blob/master/book.epub)
 
-# Παραδοτεο_12
+# Παραδοτέο_12
 Final Report
 Ολοκληρονοντας την αναφορα μου,κατα την δειαρκεια του μαθηματος εξεικειοθηκα με το λογισμικο archlinux και την περιηγηση του μεσω τερματικου,εξηκειοθηκα με το github και την συνεργασια με τους συμφητητες μου πανω σε μεγαλα project.Ολοκληροσα τους στοχους μου μαθαινοντας παιρετερω για την διμιουργια των ψυχαγωγικων εφαρμογων καθως και κεντρικων προσοπων για την αναπτυξη τους οπως ο Ralph Baer.Αλλα ποιο συμαντικο απο ολα θεορω την αναπτυξη της κριτηκης σκεψης και την υιοθετηση μιας ποιο σκεπτικιστικης οπτικης καθως πολλα απο τα πραγματα τα οποια γινονται διαθεσημα στον μεσω χρηστη κρυβουν μακροχρονιους κινδύνους.
 
