@@ -100,6 +100,8 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 - [check the weather](https://asciinema.org/a/NJ5MaD8qJNiYC68BS6csbgNnl) με χρήση της εντολής curl wttr.in/Place.
 - [track your time with a simple journal](https://asciinema.org/a/yQxlcv0K5DJwdvidCSMpYB3Zg) με χρήση της εντολής jrnl.
 
+![journal](https://github.com/Alessenia/Images-for-Report/blob/main/asciinema-journal.png)
+
 <br>
 
 # Παραδοτέο 5 - Συμμετοχικό περιεχόμενο A2
