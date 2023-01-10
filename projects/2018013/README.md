@@ -101,15 +101,17 @@ Link asciinema journal: [track my time with a journal](https://asciinema.org/a/m
 [Λινκ για το md file](https://github.com/giormaster/kallipos/blob/master/Mycontribution/space-invaders.md)
 <br />
 # Παραδοτέο_7
-Για το παραδοτέο 7 πρόσθεσα στο case study του site το arcade-machine-console.md: https://github.com/giormaster/site/blob/master/_case-study/arcade-machine-console.md
+Για το παραδοτέο 7 πρόσθεσα στο case study του site το [arcade-machine-console.md](https://github.com/giormaster/site/blob/master/_case-study/arcade-machine-console.md)
 <br />
-Στο _include προσθεσα το cs-arcade-machine.md : https://github.com/giormaster/site/blob/master/_includes/cs-arcade-machine.md
+Στο _include προσθεσα το [cs-arcade-machine.md](https://github.com/giormaster/site/blob/master/_includes/cs-arcade-machine.md)
 <br />
+[Λινκ για το site](https://site-theta-black.vercel.app/case-study/arcade-machine-console)
 # Παραδοτέο_8
 Για το παραδοτέο 8 δημιούργησα σε python με nano ένα μικρό παιχνίδι πέτρα-ψαλίδι-χαρτί μέσω του τερματικού.Με την εντολή nano μπορώ να δω και να επεξεργαστώ τα κομμάτια του κώδικα.Το αρχείο py ονομάστηκε rps και με την εντολή python3 rps.py τρέχω το παιχνίδι.
 Στο συγκεκριμένο asciinema τρέχω την εντολή python3 rps.py | tee output.txt, αυτή η εντολή θα τρέξει το παιχνίδι και μέσω pipeline θα δημιουργίσει ένα αρχείο output.txt και θα γράψει ολα τα prints του προγράμματος.
 <br />
 asciinema link: https://asciinema.org/a/u7kQdDbClXcn05Br2Jv1Sabnl
+[Link του κωδικα](https://github.com/giormaster/hci-mycode/blob/main/Codes/rps.py)
 <br />
 Το rock-paper-scissors είναι ένα από τα πιο κλασσικά και διαχρονικά παιχνίδια.Η μεταφορά του στους υπολογιστές έχει γίνει με διάφορες παραλαγές και είναι μια από τις πρώτες προσπάθειες του ανθρώπου για την ψηφιοποίηση παιχνιδιών.Μέσα στο παιχνίδι ο χρήστης παίζει αντίπαλος με τον υπολογιστή και νικητής είναι αυτός που θα πάει πρώτος στις 3 νίκες.Τέτοιες εφαρμογές φέρνουν την διάδραση με τον υπολογιστή σε ευρήτερο κοινό και την καθιστούν πιο ευχάριστη. 
 
