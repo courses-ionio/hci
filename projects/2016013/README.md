@@ -16,7 +16,7 @@
 | 9 | Συμμετοχικό περιεχόμενο B2 |https://github.com/courses-ionio/help/discussions/1889 | |
 | 10 | Άσκηση γραμμής εντολών |https://github.com/courses-ionio/help/discussions/1882 | |
 | 11 | Κατασκευή του βιβλίου Β |https://github.com/courses-ionio/help/discussions/1944 | |
-| 12 | Τελική αναφορά* | | |
+| 12 | Τελική αναφορά* |https://github.com/courses-ionio/help/discussions/2058 | |
 
 # Παραδοτέο 1
 
