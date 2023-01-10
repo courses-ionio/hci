@@ -118,9 +118,13 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 8 | ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
 
-## :rocket: ΠΑΡΑΔΟΤΕΟ 9 | Συμμετοχικό περιεχόμενο 2B
+## :rocket: ΠΑΡΑΔΟΤΕΟ 9 | Συμμετοχικό περιεχόμενο Β2
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 10 | ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ(2)
+
+Στο παραδοτέο αυτό καλούμαστε να χρησιμοποιήσουμε μία ακόμη από τις ασκήσεις HCi.
+Η άσκηση που επέλεξα να κάνω είναι το *format your report* με το εργαλεί groff. Πήρα ένα κομμάτι απο το βιβλίο The gold rock of Chippewa και το πρόσθεσα για τον σκοπό της άσκησης , στην αναφορά μου .Παρακάτω υπάρχουν τα screenshot με την δουλειά μου και ένα *asciinema* που δείχνει το πως έγινε.
+
 ![image](https://user-images.githubusercontent.com/79105310/211576828-4f75d54c-1557-4440-b1c6-1a0eeafd60ba.png)
 ![image](https://user-images.githubusercontent.com/79105310/211577022-0f4db2c1-01c2-4ecd-a889-2d38c09fe9d7.png)
 
