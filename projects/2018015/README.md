@@ -185,8 +185,7 @@ To Mp3 είναι η πιο δημοφιλής μέθοδος κωδικοποί
 
 **Επίσης παρακάτω παραθέτω και τα αντίστοιχα Asciinema:**
 
-<a href="https://asciinema.org/a/UDlGuIKWeximpCSLzWojxGsxk"><img src="https://asciinema.org/a/532642.png" width="300"/></a>
-
+* **(1)** <a href="https://asciinema.org/a/UDlGuIKWeximpCSLzWojxGsxk"><img src="https://asciinema.org/a/UDlGuIKWeximpCSLzWojxGsxk.png" width="300"/></a>  **(2)** <a href="https://asciinema.org/a/mkGx430KdnPFj2UVF3cxED14f"><img src="https://asciinema.org/a/mkGx430KdnPFj2UVF3cxED14f.png" width="300"/></a>
 
 
 
