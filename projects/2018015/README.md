@@ -72,7 +72,8 @@
 
 
 
-<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/walkman-11.png" width= 200/>
+<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/walkman-11.png" width= 200/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/Screenshot_1.png" width= 225/>
+
 
 ## 👽Παραδοτέο 4 | Ασκήσεις γραμμής εντολών (warm up)
 
