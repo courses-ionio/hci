@@ -20,7 +20,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A2 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1530)** , **[TeamWork](https://github.com/courses-ionio/help/discussions/1903)**| |
 | 6 | Κατασκευή του βιβλίου Α | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1679)**| |
 | 7 | Συμμετοχικό περιεχόμενο B1 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1683)** | |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | Άσκηση γραμμής εντολών | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/2057)**| |
 | 9 | Συμμετοχικό περιεχόμενο B2 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1987)** | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
