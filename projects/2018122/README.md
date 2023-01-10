@@ -115,6 +115,22 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 [Includes](https://github.com/AndreasKarageorgiou/site/blob/organization/_includes/phonehist.md)
 
 [Netlify](https://andreaskarageorgiou.netlify.app/case-study/phone/)
+
+## :rocket: ΠΑΡΑΔΟΤΕΟ 8 | ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ
+
+## :rocket: ΠΑΡΑΔΟΤΕΟ 9 | Συμμετοχικό περιεχόμενο 2B
+
+## :rocket: ΠΑΡΑΔΟΤΕΟ 10 | ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ(2)
+![image](https://user-images.githubusercontent.com/79105310/211576828-4f75d54c-1557-4440-b1c6-1a0eeafd60ba.png)
+![image](https://user-images.githubusercontent.com/79105310/211577022-0f4db2c1-01c2-4ecd-a889-2d38c09fe9d7.png)
+
+https://asciinema.org/a/BIjgBu8MaBgSWLF6qdNO9lw1y
+
+
+## :rocket: ΠΑΡΑΔΟΤΕΟ 11 | 
+
+## :rocket: ΠΑΡΑΔΟΤΕΟ 12 | ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ
+
   
   
 
