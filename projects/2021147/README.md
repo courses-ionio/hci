@@ -38,6 +38,37 @@
 
 Έχοντας αποκτήσει μερικές γνώσεις σχετικά με την χρήση του Arch Linux από την προηγούμενη εβδομάδα και έπειτα από συνεννόηση με την ομάδα μου ξεκίνησα την διαδικασία να εμπλουτίσω το περιεχόμενου του [site](https://pibook.epidro.me/) με δικές μου εικόνες. Δημιούργησα το δικό μου [site](https://panmour-2021147.netlify.app/) χρησημοποιώντας την γραμμή εντολών του Linux και στην συνέχεια το netlify και πρόσθεσα τις 4 εικόνες που βρήκα και θεωρούσα πως συνήσφεραν στο ήδη υπάρχον υλικό και σχετίζονταν με την εισαγωγή μου (2 κανονικές εικόνες και 2 160x160 εικόνες) καθώς και τα 2 md files που χρειάζονταν. 
 
+## Νέα Θέματα
+
+Έπειτα από συζήτηση στην τάξη, αποφάσισα να προσθέσω δύο καινούργια θέματα στο site που να συνδέονται περισσότερο με την εισαγωγή μου, που αφορά την εκπαίδευση, και μεταξύ τους. Οι επιλογές μου είναι το IBook και το OpenSIS. Το IBook θεωρώ πως χρειάζεται πλέον σε κάθε σχολείο καθώς στην εποχή μας η πρόσβαση στο διαδίκτυο είναι απολύτως απαραίτητη. Ο κλασσικός τρόπος διδασκαλίας δεν καλύπτει άλλο τις ανάγκες τις κοινωνίας και για αυτό χρειάζεται, έστω και σε συμπληρωματικό βαθμό, η διάδραση του μαθητή με την τεχνολογία για την καλύτερη κατανόηση του μαθήματος και για την ανάπτυξη κριτικής και αυτόνομης σκέψης, καθώς θα μπορεί να εξερευνήσει το θέμα που διδάσκεται μέσω πηγών που θα βρίσκει ο ίδιος και να λαμβάνει το δικό του συμπέρασμα. Αντίστοιχα, το OpenSIS είναι ένας καλύτερος και πιο σύγχρονος τρόπος για την αποθήκευση των δεδομένων των μαθητών του σχολείου. Θα επιτρέπει στους καθηγητές να παρακολουθούν πιο αποτελεσματικά την πρόοδο των μαθητών τους και θα δίνει και την δυνατότητα στους μαθητές να έχουν πρόσβασει σε όλους τους βαθμούς τους, εάν το σχολείο το επιθυμεί. Επιπλέον διευκωλύνει την καταγραφεί των απόντων καθημερινά καθώς οι μαθητές μέσω των IBooks τους θα μπορούν να δηλώσουν πως είναι παρόν.
+
+### Έπειτα πραγματοποίησα το pull request:
+
+=> [για τις εικόνες](https://github.com/OMADA12/images/pull/15)
+
+=> [για τα md files μου](https://github.com/OMADA12/_gallery/pull/18)
+
+### Οι εικόνες μου στο site στο Netlify: 
+
+=> [ibook](https://panmour.netlify.app//gallery/ibook/) 
+
+=> [opensis](https://panmour.netlify.app//gallery/opensis/)
+
+### Τα md αρχεία μου και οι εικόνες στο site μου στο Github: 
+
+=> [ibook.md](https://github.com/PanMour/_gallery/blob/master/ibook.md)
+
+=> [ibook image](https://github.com/PanMour/images/blob/master/ibook.jpg)
+
+=> [ibook-thumb](https://github.com/PanMour/images/blob/master/ibook-thumb.jpg)
+
+=> [opensis.md](https://github.com/PanMour/_gallery/blob/master/opensis.md)
+
+=> [opensis image](https://github.com/PanMour/images/blob/master/opensis.jpg)
+
+=> [opensis-thumb](https://github.com/PanMour/images/blob/master/opensis-thumb.jpg)
+
+## ΠΑΛΙA ΘΈΜΑΤΑ (OUTDATED!!)
 ### Έπειτα πραγματοποίησα το pull request 
 => [για τις εικόνες](https://github.com/OMADA12/images/pull/9) και 
 
@@ -72,37 +103,6 @@
 ### Λόγος επιλογής των εικόνων
 
 Ο κύριως λόγος που επέλεξα τισ συγκεκριμένες εικόνες είναι επειδή σχετίζονται με ένα από τα επαγγέλματα που έχω σκεφτεί να ασχοληθώ στο μέλλον, το game designing. Το OXO ήταν ένα από τα πρώτα βιντεοπαιχνίδια που δημιουργήθηκαν και το πρώτο multiplayer, κάτι που πιστεύω πως είναι πολύ σπουδαίο καθώς έστρωσε τον δρόμο για την δημιουργία μιας ολόκληρης κατηγορίας παιχνιδιών που άλλαξε σημαντικά την αγορά. Όσον αφορά το Xbox, μπορεί να μην ήταν η πρώτη κονσόλα βιντεοπαιχνιδιών (game-machine) που κυκλοφόρησε αλλά είχε σημαντική επίδραση και εξακολουθεί να έχει, επιπλεόν σε προσωπικό επίπεδο ήταν η πρώτη κονσόλα που κατείχα κάτι αρκετά σπουδαίο για εμένα, για αυτούς τους λόγους πιστεύω ότι είναι μια καλή προσθήκη στο ήδη υπάρχων υλικό τουυ site.
-
-## Νέα Θέματα
-
-Έπειτα από συζήτηση στην τάξη, αποφάσισα να προσθέσω δύο καινούργια θέματα στο site που να συνδέονται περισσότερο με την εισαγωγή μου, που αφορά την εκπαίδευση, και μεταξύ τους. Οι επιλογές μου είναι το IBook και το OpenSIS. Το IBook θεωρώ πως χρειάζεται πλέον σε κάθε σχολείο καθώς στην εποχή μας η πρόσβαση στο διαδίκτυο είναι απολύτως απαραίτητη. Ο κλασσικός τρόπος διδασκαλίας δεν καλύπτει άλλο τις ανάγκες τις κοινωνίας και για αυτό χρειάζεται, έστω και σε συμπληρωματικό βαθμό, η διάδραση του μαθητή με την τεχνολογία για την καλύτερη κατανόηση του μαθήματος και για την ανάπτυξη κριτικής και αυτόνομης σκέψης, καθώς θα μπορεί να εξερευνήσει το θέμα που διδάσκεται μέσω πηγών που θα βρίσκει ο ίδιος και να λαμβάνει το δικό του συμπέρασμα. Αντίστοιχα, το OpenSIS είναι ένας καλύτερος και πιο σύγχρονος τρόπος για την αποθήκευση των δεδομένων των μαθητών του σχολείου. Θα επιτρέπει στους καθηγητές να παρακολουθούν πιο αποτελεσματικά την πρόοδο των μαθητών τους και θα δίνει και την δυνατότητα στους μαθητές να έχουν πρόσβασει σε όλους τους βαθμούς τους, εάν το σχολείο το επιθυμεί. Επιπλέον διευκωλύνει την καταγραφεί των απόντων καθημερινά καθώς οι μαθητές μέσω των IBooks τους θα μπορούν να δηλώσουν πως είναι παρόν.
-
-### Έπειτα πραγματοποίησα το pull request:
-
-=> [για τις εικόνες](https://github.com/OMADA12/images/pull/15)
-
-=> [για τα md files μου](https://github.com/OMADA12/_gallery/pull/18)
-
-### Οι εικόνες μου στο site στο Netlify: 
-
-=> [ibook](https://panmour.netlify.app//gallery/ibook/) 
-
-=> [opensis](https://panmour.netlify.app//gallery/opensis/)
-
-### Τα md αρχεία μου και οι εικόνες στο site μου στο Github: 
-
-=> [ibook.md](https://github.com/PanMour/_gallery/blob/master/ibook.md)
-
-=> [ibook image](https://github.com/PanMour/images/blob/master/ibook.jpg)
-
-=> [ibook-thumb](https://github.com/PanMour/images/blob/master/ibook-thumb.jpg)
-
-=> [opensis.md](https://github.com/PanMour/_gallery/blob/master/opensis.md)
-
-=> [opensis image](https://github.com/PanMour/images/blob/master/opensis.jpg)
-
-=> [opensis-thumb](https://github.com/PanMour/images/blob/master/opensis-thumb.jpg)
-
 # Παραδοτέο 4ο:
 ## Warm-ups
 Καθώς είχα ήδη πραγματοποιήση την εγκατάσταση του Arch Linux σε στικάκι, αποφάσισα να ξεκινήσω απευθείας την εξάσκηση με την πραγματοποίηση μερικών warm-ups ώστε να αυξήσω ακόμη περισσότερο την οικειότητα μου και να βελτιώσω τις ικανότητές μου στην χρήση των Arch Linux.
@@ -113,6 +113,19 @@
 
 Σε αυτό το παραδοτέο κλιθήκαμε να συνεχίσουμε την εργασία Α από το 3ο παραδοτέο. Έχοντας αποκτήσει ακόμη περισσότερες γνώσεις στην χρήση των Linux και έπειτα από συνεννόηση με την ομάδα δημιούργησα 2 δικά μου slides και 2 timelines σχετικά με τις εικόνες που είχα ήδη επιλέξει. Δυστυχώς παρόλες τις προσπάθειες μου ένα από τα δύο timelines που είχαν επηλέξει δεν δούλευε κανονικά. Συγκεκριμένα αυτό ήταν το [timeline](https://panmour.netlify.app//timeline/human-computer-interactions/). Οπότε έπειτα από πολλαπλές και αποτυχημένες προσπάθειες κατάφερα να βρω μια λύση (προσωρινά τουλάχιστον, μέχρι να καταφέρω να λύσω εντελώς το πρόβλημα) έβγαλα από τα events του md αρχείου μου το xbox (ένα από τα δύο αντικείμενα που είχα επιλέξει να προσθέσω στο site) και το timeline λειτούργησε κανονικά, απλός δεν εμφανίζει το δικό μου αντικείμενο όποτε ανοίγει.
 
+## Για τα νέα θέματα:
+
+Παρομοίως με το 3ο παραδοτέο στο 5ο αποφάσισα να προσθέσω ένα επιπλέον timeline και slide για τα δύο νέα θεματά μου και τα πρόσθεσα και σε ένα ήδη υπάρχον timeline και slide που αφορούσε την εκπαιδευτική τεχνολογία.
+
+### Για το Ibook:
+
+=> [Διαδραστηκότητα στην μάθηση](https://panmour.netlify.app//timeline/interactivity-in-learning/)
+
+### Για το OpenSIS:
+
+=> [Συστήματα επεξεργασίας πληροφοριών](https://panmour.netlify.app//slides/information-processing-system/)
+
+## ΠΑΛΙA ΘΈΜΑΤΑ (OUTDATED!!)
 ### Για το Xbox: 
 
 => [timeline](https://panmour.netlify.app//timeline/human-computer-interactions/) 
@@ -135,18 +148,6 @@
 
 => [Multiplayer (OXO Timeline)](https://github.com/PanMour/site/blob/master/_timeline/multiplayer.md)
 
-## Για τα νέα θέματα:
-
-Παρομοίως με το 3ο παραδοτέο στο 5ο αποφάσισα να προσθέσω ένα επιπλέον timeline και slide για τα δύο νέα θεματά μου και τα πρόσθεσα και σε ένα ήδη υπάρχον timeline και slide που αφορούσε την εκπαιδευτική τεχνολογία.
-
-### Για το Ibook:
-
-=> [Διαδραστηκότητα στην μάθηση](https://panmour.netlify.app//timeline/interactivity-in-learning/)
-
-### Για το OpenSIS:
-
-=> [Συστήματα επεξεργασίας πληροφοριών](https://panmour.netlify.app//slides/information-processing-system/)
-
 # Παραδοτέο 6ο:
 ## Κατασκευή Βιβλίου Α
 
@@ -167,28 +168,6 @@
 ## Άσκηση Β1
 
 Σε αυτό το παραδοτέο δημιούργησα ένα case-study βασισμένο στα θέματα που είχα επιλέξει στα προηγούμενα παραδοτέα. Το βασικό θέμα του case-study μου είναι το Ibook καθώς λόγω του ενδιαφέροντος μου να ασχοληθώ με την εκπαίδευση σε σχολείο στο μέλλον θεώρησα ότι θα με βοηθούσε και εμένα προσωπικά να ανακαλύψω τις δυνατότητες που μπορεί να μου προσφέρει ένα τέτοιο εργαλίο ενώ ταυτόχρονα θα ήταν και μια ενδιαφέρουσα προσθήκη στο ήδη υπάρχον υλικό.
-
-## Τα links μου:
-
-### Για το Netlify:
-
-=> [Ibook case-study ](https://panmour.netlify.app//case-study/ibook-cs/)
-
-### Για το site μου στο Github:
-
-=> [Ibook case-study](https://github.com/PanMour/site/blob/master/_case-study/ibook-cs.md)
-
-=> [case-study includes](https://github.com/PanMour/site/blob/master/_includes/cs-ibook.md)
-
-## Οι πηγές μου από τις οποίες άντλισσα τις πληροφορίες:
-
-  - [Ibook Wikipedia](https://en.wikipedia.org/wiki/IBook)
-  - [Ibook ComputerHope](https://www.computerhope.com/jargon/i/ibook.htm)
-  - [Differences between Ibook-Powerbook](http://www.differencebetween.net/object/gadgets-object/difference-between-apple-ibook-and-powerbook/)
-  - [Powerbook vs Ibook](https://lowendmac.com/2012/12-powerbook-vs-ibook-is-there-really-a-difference/)
-  - [Apple History of Ibook](https://apple-history.com/ibook)
-  - [OpenSIS Wikipedia](https://en.wikipedia.org/wiki/OpenSIS)
-  
   
 ### UPDATE:
 Έπειτα από την συζήτηση στο μάθημα αποφάσισα να ασχοληθώ με το υπολογιστικό σύστημα PLATO, καθώς σχετίζεται περισσότερο με το θέμα μου, που είναι η εκπαίδευση και θεωρώ πως είναι ακόμη πιο ενδιαφέρον από το Ibook.
@@ -214,6 +193,29 @@
   - [immagic](https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/WIKIPEDI/W130609P.pdf)
   - [youtube](https://www.youtube.com/watch?v=tTmWcGhlXqA)
   
+## ΠΑΛΙA ΘΈΜΑΤΑ (OUTDATED!!)
+## Τα links μου:
+
+### Για το Netlify:
+
+=> [Ibook case-study ](https://panmour.netlify.app//case-study/ibook-cs/)
+
+### Για το site μου στο Github:
+
+=> [Ibook case-study](https://github.com/PanMour/site/blob/master/_case-study/ibook-cs.md)
+
+=> [case-study includes](https://github.com/PanMour/site/blob/master/_includes/cs-ibook.md)
+
+## Οι πηγές μου από τις οποίες άντλισσα τις πληροφορίες:
+
+  - [Ibook Wikipedia](https://en.wikipedia.org/wiki/IBook)
+  - [Ibook ComputerHope](https://www.computerhope.com/jargon/i/ibook.htm)
+  - [Differences between Ibook-Powerbook](http://www.differencebetween.net/object/gadgets-object/difference-between-apple-ibook-and-powerbook/)
+  - [Powerbook vs Ibook](https://lowendmac.com/2012/12-powerbook-vs-ibook-is-there-really-a-difference/)
+  - [Apple History of Ibook](https://apple-history.com/ibook)
+  - [OpenSIS Wikipedia](https://en.wikipedia.org/wiki/OpenSIS)
+
+
 # Παραδοτέο 8ο:
 ## Άσκηση Γραμμής Εντολών
 Σε αυτό το παραδοτέο μας ζητήθηκε να υλοποιήσουμε τουλάχιστον μια από τις ασκήσεις γραμμής εντολών του HCI. Αρχικά αποφάσισα να μετατρέψω την αναφορά μου από ένα markdown αρχείο σε αρχείο μορφής pdf και html. Έπειτα εντόπισα ένα βιβλίο online σε μορφή edup το οποίο σχετίζονταν με τα θέματα μου και αποφάσισα να το μετατρέψω και αυτό σε μορφή txt και σε μορφή html. Αφότου βρήκα τι ήθελα να κάνω σε αυτό το παραδοτέο, το επόμενο βήμα μου ήταν να μάθω να χρησιμοποιώ το Shell Script, καθώς δεν είχα ξανά έρθει σε επαφή μαζί του μέχρι τώρα. Ψάχνοντας στο διαδίκτυο για κάποιο guide τελικά βρήκα ένα πολύ χρήσιμο οδηγό που με βοήθησε να καταλάβω τα βασικά χαρακτηριστικά του Shell Script. Έπειτα οπλισμένος με αυτές τις γνώσεις δημιούργησα ένα αρχείο sh στο οποίο έγραψα τον κώδικα μου. Ο κώδικας δεν είναι κάτι εκπληκτικό, είναι ένα αρχικό μενού με δύο υπό μενού μέσα του που τα κατασκεύσα με την χρήση μερικών εντολών if. Αφότου είχα δημιουργήσει τον κώδικα μου, έκανα μια έρευνα στο διαδίκτυο για να βρω τον τρόπο με τον οποίο μετατρέπουμε τα md και epud αρχεία σε αρχεία pdf, html και txt. Έπειτα από μερικές ώρες έρευνας εντόπισα ένα guide το οποίο περιείχε τις εντολές που χρειαζόμουν. Πρόσθεσα τις εντολές στον κώδικα μου και έπειτα τον τέσταρα. Κατά τις δοκιμές υπήρξαν αρκετές διορθώσεις, καθώς ήταν και η πρώτη μου φορά που έγραφα κώδικα στην Shell Script. Ευτυχώς τα λάθη που είχα κάνει στον κώδικα ήταν εύκολο να βρεθούν και κατάφερα να τρέξω το script μου επιτυχώς. Τέλος, χρησιμοποίησα το aasinema για να καταγράψω την διαδικασία της μετατροπής των αρχείων μου και ανέβασα τα video στο προφίλ μου στο Αsciinema. 
@@ -263,9 +265,11 @@
 # Παραδοτέο 11ο:
 ## Κατασκευή βιβλίου Β
 Σε αυτό το παραδοτέο, χρησιμοποιώντας τις γνώσεις που είχα αποκτήσει από τα προηγούμενα πρόσθεσα στο βιβλίο που δημιούργησα τα case-study και το biography. Και μετέτρεψα το βιβλίο σε μορφή epud. Για να πραγματοποιηθεί αυτή η μετατροπή χρησιμοποίησα την εντολή pandoc --quiet -f latex book.tex -o book.epub την οποία πρόσθεσα στο make-latex.sh αρχείο μου
-
-- [Βιβλίο σε μορφή epud](https://github.com/PanMour/info-/blob/main/my_book.epub)
-- [Screenshot](https://github.com/PanMour/info-/blob/main/screenshot.png)
+- [Βιβλίο σε μορφή epud Github](https://github.com/PanMour/info-/blob/main/book.epud)
+- [Βιβλίο σε μορφή epud](file:///home/inf2021147/Desktop/6o/kallipos/book.epud)
+- [Screenshot1](https://github.com/PanMour/info-/blob/main/Screenshot-v1.png)
+- [Screenshot2](https://github.com/PanMour/info-/blob/main/screenshot-v1b.png)
+- [make-latex.sh](https://github.com/PanMour/kallipos/blob/master/make-latex.sh)
 
 # Παραδοτέο 12ο
 ## Συμπέρασμα
