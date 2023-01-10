@@ -188,6 +188,8 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 # Παραδοτέο 10 - Άσκηση Γραμμής Εντολών
 <br>
 <p> Για το δέκατο παραδοτέο έγραψα ένα shell script το οποίο κάνει compile προγράμματα σε c γλώσσα και αποθηκεύει το αποτέλεσμα του compilation σε ένα αρχείο txt. Το shell script βασίστηκε στην λογική του tmux , ενός εργαλείου που δίνει την δυνατότητα ταυτόχρονης πρόσβασης σε πολλαπλές συνεδρίες τερματικού σε ένα μόνο παράθυρο. Με αυτόν τον τρόπο στο ίδιο παράθυρο του τερματικού έτρεχε το shell script που ζητούσε να δημιουργηθεί ένα αρχείο .c ,ενώ παράλληλα μέσω του tmux έχει ανοίξει ένα δεύτερο παράθυρο συνεδρίας όπου μπορεί να εισαχθεί το πρόγραμμα σε c που θέλουμε να εκτελεστεί και έπειτα επιστρέφοντας στο πρώτο μας παράθυρο και κάνουμε compile στον κώδικα μας. Στο asciinema μου επέλεξα να ανοίξω και μία τρίτη συνεδρία στο ίδιο παράθυρο , ώστε να γίνει display των αποτελεσμάτων του προγράμματος μέσω του αρχείου txt που άνοιξα με το nano.</p>
+
+![tmux](https://github.com/Alessenia/Images-for-Report/blob/main/asciinema-tmux.png)
  
 #### [To shell script](https://github.com/Alessenia/10-Exercise/blob/main/my-c-compiler.sh)
 #### [Asciinema με τη χρήση του script](https://asciinema.org/a/g6BRNGBCm2FXRz6PWEwfrRE70)
