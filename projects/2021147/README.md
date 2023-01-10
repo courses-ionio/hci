@@ -117,13 +117,31 @@
 
 Παρομοίως με το 3ο παραδοτέο στο 5ο αποφάσισα να προσθέσω ένα επιπλέον timeline και slide για τα δύο νέα θεματά μου και τα πρόσθεσα και σε ένα ήδη υπάρχον timeline και slide που αφορούσε την εκπαιδευτική τεχνολογία.
 
+### Netlify:
 ### Για το Ibook:
 
 => [Διαδραστηκότητα στην μάθηση](https://panmour.netlify.app//timeline/interactivity-in-learning/)
 
+=> [Εκπαιδευτική Τεχνολογία](https://panmour.netlify.app//slides/learning/)
+
 ### Για το OpenSIS:
 
 => [Συστήματα επεξεργασίας πληροφοριών](https://panmour.netlify.app//slides/information-processing-system/)
+
+=> [Εκπαιδευτική Τεχνολογία](https://panmour.netlify.app//timeline/learning/)
+
+## Github:
+### Για το Ibook:
+
+=> [Διαδραστηκότητα στην μάθηση](https://github.com/PanMour/site/blob/master/_timeline/interactivity-in-learning.md)
+
+=> [Εκπαιδευτική Τεχνολογία](https://github.com/PanMour/site/blob/master/_slides/learning.md)
+
+### Για το OpenSIS:
+
+=> [Συστήματα επεξεργασίας πληροφοριών](https://github.com/PanMour/site/blob/master/_slides/information-processing-system.md)
+
+=> [Εκπαιδευτική Τεχνολογία](https://github.com/PanMour/site/blob/master/_timeline/learning.md)
 
 ## ΠΑΛΙA ΘΈΜΑΤΑ (OUTDATED!!)
 ### Για το Xbox: 
@@ -173,6 +191,9 @@
 Έπειτα από την συζήτηση στο μάθημα αποφάσισα να ασχοληθώ με το υπολογιστικό σύστημα PLATO, καθώς σχετίζεται περισσότερο με το θέμα μου, που είναι η εκπαίδευση και θεωρώ πως είναι ακόμη πιο ενδιαφέρον από το Ibook.
  
 ## Τα links μου:
+
+### Pull Request:
+=> [Pull Request](https://github.com/OMADA12/site/pull/38)
 
 ### Για το Netlify:
 
@@ -237,6 +258,9 @@
 # Παραδοτέο 9ο:
 ## Λόγος Επιλογής
 Ο Donald L. Bitzer, γνωστός και ως πατέρας του PLATO είχε ως στόχο την βελτίωση της αποδοτικότητας στην μάθηση με την χρήση των υπολογιστών. Η δημιουργία του υπολογιστικού συστήματος PLATO θεωρείται ένα από τα σπουδαιότερα κατορθώματά του και συνείσφερε σημαντικά στον εκσυχρονισμό της εκπαίδευσης. Με πάνω από 7 βραβεία για τις δημιουργίες του και για την συνησφορά του στον χώρο της πληροφορικής και κυρίως στον χώρο της εκπαιδευτικής τεχνολογιάς κανείς δεν μπορεί να αμφισβητήση την σπουδαιότητα του.
+### Pull Request:
+=> [Pull Request](https://github.com/OMADA12/site/pull/39)
+
 ### Η βιβλιογραφία στο site μου στο Github:
   - [biography](https://github.com/PanMour/site/blob/master/_biography/donald-bitzer.md)
   - [includes](https://github.com/PanMour/site/blob/master/_includes/bio-donald-bitzer.md)
