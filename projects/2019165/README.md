@@ -191,10 +191,19 @@ Link για το [journalctl -b](https://asciinema.org/a/HdZizbAOTwnfRpsY0tqxjlD
 
 Mερικές από τις βασικές εντολές που χρησιμοποιήθηκαν για την χρήση του tmux ήταν οι εξής :
 
-ctrl-b + το αντίστοιχο βέλος από το πληκτρολόγιο για την μετακίνηση μεταξύ των παραθύρων &
-για την δημιουργία νέου session στο ίδιο παράθυρο
+- ctrl-b + το αντίστοιχο βέλος από το πληκτρολόγιο για την μετακίνηση μεταξύ των παραθύρων
+
+- Για την δημιουργία νέου session στο ίδιο παράθυρο
 ```
 tmux new -s session_name  
+```
+- Για τον διαχωρισμό των sessions κάθετα 
+```
+tmux split-window -h
+```
+- Για τον διαχωρισμό των sessions οριζόντια 
+```
+tmux split-window -v 
 ```
 
 ![tmux](https://github.com/Alessenia/Images-for-Report/blob/main/asciinema-tmux.png)
