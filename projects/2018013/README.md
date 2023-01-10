@@ -85,7 +85,7 @@ Link asciinema journal: [track my time with a journal](https://asciinema.org/a/m
 [slides videogames](https://github.com/giormaster/site/blob/master/_slides/videogames.md)
 <br />
 Το arcade machine και το playstation portable είναι δύο σημαντικές κονσόλες οι οποίες συνείσφεραν στη εξέλιξη του υπολογιστή.Το arcade machine είναι η πρώτη προσπάθεια του ανθρώπου να χρησιμοποιήσει τον υπολογιστή για ψυχαγωγικούς σκοπούς,το playstation portable ακολουθάει την πορεία του arcade machine βελτιώνοντας τον γραφικό τομέα και προσθέτοντας την φορητότητα που προσφέρουν αρκετές υπολογιστικές συσκευές του σήμερα.
-Λινκ για την σελιδα: [timeline](https://site-theta-black.vercel.app/timeline/consoles),[slides]()
+Λινκ για την σελιδα: [timeline](https://site-theta-black.vercel.app/timeline/consoles),[slides](https://site-theta-black.vercel.app/slides/videogames)
 <br />
 # Παραδοτέο_6
 Στο παραδοτέο 6 έγινε η πρώτη κατασκευή του βιβλίου,επέλεξα το κεφάλαιο 8 και έκανα εκτεταμένη επεξήγηση του space invader και της σημασίας του στον χώρο των βιντεοπαιχνιδιών.
