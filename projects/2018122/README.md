@@ -18,7 +18,7 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 | 7 | Συμμετοχικό περιεχόμενο B1 |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1798)** | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 | Άσκηση γραμμής εντολών |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/2059)** | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
