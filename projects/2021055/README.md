@@ -387,6 +387,6 @@
 * https://github.com/courses-ionio/help/discussions/1972
 * https://github.com/courses-ionio/help/discussions/1881
 
-# ΣΧΟΛΙΑΣΜΟΣ ΑΛΛΩΝ ΑΝΑΦΟΡΩΝ
+## ΣΧΟΛΙΑΣΜΟΣ ΑΛΛΩΝ ΑΝΑΦΟΡΩΝ
 * https://github.com/courses-ionio/hci/pull/1899
 * https://github.com/courses-ionio/hci/pull/1888
