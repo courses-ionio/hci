@@ -545,11 +545,11 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 | Ερώτηση #11: ΝULL | Απάντηση #11: NULL | Παρατήρηση / Συνεισφορά #11: [Contribution Link #11](https://github.com/courses-ionio/help/discussions/833#discussioncomment-3815681)  |
 | Ερώτηση #12: ΝULL | Απάντηση #12: NULL | Παρατήρηση / Συνεισφορά #12: [Contribution Link #12](https://github.com/courses-ionio/help/discussions/1982#discussioncomment-4510034) |
 | Eρώτηση #13: ΝULL | Απάντηση #13: NULL | Παρατήρηση / Συνεισφορά #13: [Contribution Link #13](https://github.com/courses-ionio/hci/pull/1860#issuecomment-1374120585) |
-| Ερώτηση #14: NULL | Απάντηση #14: NULL | Παρατήρηση / Συνεισφορά #14: [Contribution Link #14](https://github.com/courses-ionio/help/pull/1804/commits/63e15e032b77e0ab5ef43c685cd79153b117af45)
-| Ερώτηση #15: NULL | Απάντηση #15: NULL | Παρατήρηση / Συνεισφορά #15: [Contribution Link #15](https://github.com/courses-ionio/hci/pull/1896#issuecomment-1378771253)
-| Ερώτηση #16: NULL | Απάντηση #16: NULL | Παρατήρηση / Συνεισφορά #16: [Contribution Link #16](https://github.com/courses-ionio/hci/pull/1878#issuecomment-1378775714)
-| Ερώτηση #17: NULL | Απάντηση #17: NULL | Παρατήρηση / Συνεισφορά #17: [Contribution Link #17](https://github.com/courses-ionio/hci/pull/1902#issuecomment-1378813851)
-
+| Ερώτηση #14: NULL | Απάντηση #14: NULL | Παρατήρηση / Συνεισφορά #14: [Contribution Link #14](https://github.com/courses-ionio/help/pull/1804/commits/63e15e032b77e0ab5ef43c685cd79153b117af45) |
+| Ερώτηση #15: NULL | Απάντηση #15: NULL | Παρατήρηση / Συνεισφορά #15: [Contribution Link #15](https://github.com/courses-ionio/hci/pull/1896#issuecomment-1378771253) |
+| Ερώτηση #16: NULL | Απάντηση #16: NULL | Παρατήρηση / Συνεισφορά #16: [Contribution Link #16](https://github.com/courses-ionio/hci/pull/1878#issuecomment-1378775714) |
+| Ερώτηση #17: NULL | Απάντηση #17: NULL | Παρατήρηση / Συνεισφορά #17: [Contribution Link #17](https://github.com/courses-ionio/hci/pull/1902#issuecomment-1378813851) |
+| Ερώτηση #18: NULL | Απάντηση #18: NULL | Παρατήρηση / Συνεισφορά #18: [Contribution Link #18](https://github.com/courses-ionio/hci/pull/1903#issuecomment-1379050847) |
 
 # Extras #2: <ins> Παράθεση Τελικού Συνδέσμου Ενσωμάτωσης Στο Αρχικό Αποθετήριο </ins>
 
