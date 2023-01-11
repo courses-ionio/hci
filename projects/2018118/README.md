@@ -137,14 +137,15 @@ https://www.virtuix.com
 
 # Παραδοτέο 9
 
-Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Β2 αποφάσισα να κάνω την βιογραφία του Dennis Ritchie. Ένα πολύ σημαντικό πρόσωπο στην ιστοριά της πληροφορικής. Δημιουργός του unix και της γλώσσας προγραμματισμού C, η οποία αποτελέι και κομμάτι της εργασίας μου στο Α μέρος.
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Β2 αποφάσισα να κάνω την βιογραφία του [Palmer Luckey](pending). Μία εξέχουσα προσωπικότητα στη βιομηχανία της εικονικής πραγματικότητας, αφού ίδρυσε την Oculus VR και δημιούργησε το σετ κεφαλής Oculus Rift. 
 
-| Netlify |  Case Study | Case Text |
-| --- | --- | --- |
-| [Netlify](https://p2018118-pibook.netlify.app/biography/dennis-ritchie/) | [Biography Repository](https://github.com/Drexion/site/blob/master/_biography/dennis-ritchie.md) | [Biography Text](https://github.com/Drexion/site/blob/master/_biography/bio-ritchie.md) |
+| Repositories | 
+| --- |
+| [Biography - Summary](https://github.com/Drexion/site/blob/organization/_biography/palmer-luckey.md) |
+| [Biography - Long Format](https://github.com/Drexion/site/blob/organization/_includes/cs-palmer-luckey.md)
 
 Πηγές
-[Βιογραφία Dennis Ritchie](https://handwiki.org/wiki/Biography:Dennis_Ritchie)
+[Wikipedia](https://en.wikipedia.org/wiki/Palmer_Luckey)
 
 # Παραδοτέο 10
 
