@@ -44,7 +44,7 @@
   
   Τέλος, τα παραπάνω και άλλα μη αναφερόμενα θα φανούν αρκετά χρήσιμα στην ακαδημαϊκή μου αλλά και στην επαγγελματική μου ζωή.
 
-#
+
 
 # 2o ΠΑΡΑΔΟΤΕΟ:
 
@@ -57,7 +57,7 @@
 [![asciicast](https://asciinema.org/a/527852.svg)](https://asciinema.org/a/527852)
 
 *(Σημείωση): Το installation της διανομής αυτής είναι καθολικό και όχι σε VM.
-#  
+ 
 
 # 3ο ΠΑΡΑΔΟΤΕΟ
 
@@ -69,7 +69,7 @@
 
 1.  [_gallery](https://github.com/Terminal-Killers/_gallery/pull/18)
 2.  [images](https://github.com/Terminal-Killers/images/pull/10)  
-#
+
 
 # 4o ΠΑΡΑΔΟΤΕΟ
 
@@ -77,7 +77,7 @@
 
 [![asciicast](https://asciinema.org/a/533145.svg)](https://asciinema.org/a/533145)
 
-#
+
 
 # 5ο ΠΑΡΑΔΟΤΕΟ
 
@@ -86,12 +86,12 @@
 1) Πρόσθεσα στο προσωπικό μου [site](https://stamathsp.netlify.app/) τα δύο timelines με τα οποία ασχολήθηκα ([Γλώσσα προγραμματισμού Java](https://stamathsp.netlify.app//timeline/programming-languages/),[VMware](https://stamathsp.netlify.app//timeline/simulations/)).
 2) Πρόσθεσα στο [site του προσωπικού μου αποθετηρίου](https://stamathsp.netlify.app/) το ένα (καινούργιο) slide VMware  και ενσωμάτωσα σε ήδη υπάρχον slide από τον κο. Χωριανόπουλο την Γλώσσα Προγραμματισμού Python αλλά και τη Γλώσσα Προγραμματισμού Java.
 3) Πρόσθεσα τα δύο timelines μου στην ιστοσελίδα του [οργανισμού](https://terminal-killers-site.netlify.app/), τα [Γλώσσα Προγραμματισμού Java](https://terminal-killers-site.netlify.app//timeline/programming-languages/) και [VMware](https://terminal-killers-site.netlify.app//timeline/simulations/).
-#
+
 
 # 6ο ΠΑΡΑΔΟΤΕΟ
 
 Στο παραδοτέο 6 μας ζητήθηκε να κατασκευάσουμε το [βιβλίο](https://github.com/courses-ionio/hci/discussions/1832), εγκαθιστώντας αρχικά τις απαραίτητες βιβλιοθήκες ([pandoc](https://pandoc.org/), [latex](https://www.latex-project.org/)) που υποστηρίζουν την δημιουργία του βιβλίου και στη συνέχεια να πρόσθεσουμε το προσωπικό μας αρχείο που καλούμαστε να δημιουργήσουμε. Προσωπικά, δημιούργησα ένα αρχείο με κατάληξη `.md` με τίτλο [`Apple iPod`](https://github.com/stamathsp/kallipos/blob/master/photo/Screenshot_2022-11-22_17-53-58.jpg).
-#
+
 
 # 7o ΠΑΡΑΔΟΤΕΟ
 
@@ -101,9 +101,9 @@
 
 - Με βάση τα προηγούμενα παραδοτέα αλλά και τα προσωπικά μου αρχεία ([ΠΑΡΑΔΟΤΕΟ 3](https://github.com/courses-ionio/help/discussions/1266), [ΠΑΡΑΔΟΤΕΟ 5](https://github.com/courses-ionio/help/discussions/1508)), ανέλυσα την Αντικειμενοστραφή Γλώσσα Προγραμματισμού [Java](https://stamathsp.netlify.app//case-study/java-and-vmware/)  και έγραψα μια βιογραφία για τον πολυμήχανο ιδρυτή της,  [James Gosling](https://stamathsp.netlify.app//biography/james-gosling/) και πρόσθεσα, στο ίδιο `.md` file, την εικονική μηχανή VMware συναρτήσει με την αξιοποίηση της java. 
 
-#
+
 
 # 8o ΠΑΡΑΔΟΤΕΟ
 Στο συγκεκριμένο παραδοτέο, είχαμε να δημιουργήσουμε ένα script με θέμα δικό μας. Προσωπικά, έγραψα ένα προγραμματάκι στη γλώσσα προγραμματισμού Java  όπου μετατρέπει τους βαθμούς Φαρενάιτ σε βαθμούς Κελσίου ([Celsius.java](https://github.com/stamathsp/PARADOTEO-8/blob/main/Celsius.java)). 
  
-#
+
