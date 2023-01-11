@@ -81,7 +81,7 @@
  
  ### Apple iMac G3:
     
-   ~Tο .md αρχείο του Apple iMac G3 στο προσωπικό μου αποθετήριο: [Imac.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Imac.md)~ 
+   ~Tο .md αρχείο του Apple iMac G3 στο προσωπικό μου αποθετήριο: [Imac.md](https://github.com/Axileaszervos/_gallery/blob/644ddd007f947bb4763f9bf7a967357a102a3d2e/Imac.md)~ 
    
    ~Η εικόνα του Apple iMac G3 στο προσωπικό μου site: [Imac](https://axileaszervos.netlify.app/gallery/imac/)~
    
@@ -91,7 +91,7 @@
    
   ### VirtualBoy:
     
-   ~Tο .md αρχείο του Virtual Boy στο προσωπικό μου αποθετήριο: [VirtualBoy.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Virtualboy.md)~
+   ~Tο .md αρχείο του Virtual Boy στο προσωπικό μου αποθετήριο: [VirtualBoy.md](https://github.com/Axileaszervos/_gallery/blob/644ddd007f947bb4763f9bf7a967357a102a3d2e/Virtualboy.md)~
    
    ~Η εικόνα του Virtual Boy στο προσωπικό μου site: [VirtualBoy](https://axileaszervos.netlify.app/gallery/virtualboy/)~
    
@@ -145,14 +145,14 @@
 
 ### Logo:
  
-* Tο .md αρχείο της γλώσσας προγραμματισμού Logo στο προσωπικό μου αποθετήριο: [Logo.md](https://github.com/Axileaszervos/_gallery/blob/fd0a74b630c8e7be62a7af189f2a30497b5bab0d/Logo.md)
+* Tο .md αρχείο της γλώσσας προγραμματισμού Logo στο προσωπικό μου αποθετήριο: [Logo.md](https://github.com/Axileaszervos/_gallery/blob/644ddd007f947bb4763f9bf7a967357a102a3d2e/Logo.md)
 * Η εικόνα της γλώσσας προγραμματισμού Logo στο προσωπικό μου site: [Logo](https://axileaszervos.netlify.app/gallery/logo/)
 * Η κανονική εικόνα της γλώσσας προγραμματισμού Logo στο αποθετήριο μου: [Logo.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Logo.jpg)
 * Η resized σε 160x160 pixels της γλώσσας προγραμματισμού Logo στο αποθετήριο μου: [Logo-thumb.jpg](https://github.com/Axileaszervos/images/blob/4b441112152c6ea74f6b2f09f7f6c559a7f07853/Logo-thumb.jpg)
 
 ### Lego WeDo:
 
-* Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου αποθετήριο: [LegoWeDo.md](https://github.com/Axileaszervos/_gallery/blob/6c8dd7864487f1f30aba8a20383aa719175f08ba/LegoWeDo.md)
+* Tο .md αρχείο της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου αποθετήριο: [LegoWeDo.md](https://github.com/Axileaszervos/_gallery/blob/644ddd007f947bb4763f9bf7a967357a102a3d2e/LegoWeDo.md)
 * Η εικόνα της κατασκευής για παιδιά Lego WeDo στο προσωπικό μου site: [LegoWeDo](https://axileaszervos.netlify.app/gallery/legowedo/)
 * Η κανονική εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [LegoWeDo.jpg](https://github.com/Axileaszervos/images/blob/07348b001998fd0babfbd1c75f10d45153d73c78/LegoWeDo.jpg)
 * Η resized σε 160x160 pixels εικόνα της κατασκευής για παιδιά Lego WeDo στο αποθετήριο μου: [LegoWeDo-thumb.jpg](https://github.com/Axileaszervos/images/blob/07348b001998fd0babfbd1c75f10d45153d73c78/LegoWeDo-thumb.jpg)
