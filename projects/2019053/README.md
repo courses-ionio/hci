@@ -225,6 +225,17 @@
 
 ![my-additionV2](https://user-images.githubusercontent.com/72695605/211172203-873165f3-9b02-4066-8b53-fc224d9e6e9e.JPG)
 
+<br />
+
+| Χρήσιμοι Σύνδεσμοι |
+| --- |
+| [asciinema recording](https://asciinema.org/a/HuMyQLj40J2W9sr8U0238bTaM) |
+| [make-latex.sh](https://github.com/AimiliosPavlidis2001/kallipos/blob/my_branch/make-latex.sh) |
+| [my lua filter](https://github.com/AimiliosPavlidis2001/kallipos/blob/my_branch/myluafilter.lua) |
+| [my .md file](https://github.com/AimiliosPavlidis2001/kallipos/blob/my_branch/my-addition/my-xanadu-space.md) |
+| [my addition screenshot](https://github.com/AimiliosPavlidis2001/kallipos/blob/my_branch/my-pictures/my-addition.JPG) |
+| [book pdf](https://github.com/AimiliosPavlidis2001/kallipos/blob/my_branch/book/book.pdf) |
+
 <br /><br />
 
 ## Εβδομάδα Έβδομη - Συμμετοχικό περιεχόμενο Β1
