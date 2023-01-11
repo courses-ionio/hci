@@ -118,6 +118,7 @@ https://asciinema.org/a/y5oYpdNgmtHFD9UfrMSN2qUn8
 
 [Includes](https://github.com/Greek-Salata/site/blob/master/_includes/cs-emulators.md)
 
+[Netlify Link](https://www.greek-salata.cf/case-study/emulators/)
 
 # Άσκηση Γραμμής Εντολών Pipelines Scripts
 
@@ -131,6 +132,8 @@ https://asciinema.org/a/y5oYpdNgmtHFD9UfrMSN2qUn8
 [Biography](https://github.com/Greek-Salata/site/blob/master/_biography/hironobu-sakaguchi.md)
 
 [Includes](https://github.com/Greek-Salata/site/blob/master/_includes/bio-sakaguchi.md)
+
+[Netlify Link](https://www.greek-salata.cf/biography/hironobu-sakaguchi)
 
 
 # Άσκηση Γραμμής Εντολών
