@@ -548,6 +548,7 @@ v) Τέλος, να αποκτήσω μέσα από τα παραπάνω γν�
 | Ερώτηση #14: NULL | Απάντηση #14: NULL | Παρατήρηση / Συνεισφορά #14: [Contribution Link #14](https://github.com/courses-ionio/help/pull/1804/commits/63e15e032b77e0ab5ef43c685cd79153b117af45)
 | Ερώτηση #15: NULL | Απάντηση #15: NULL | Παρατήρηση / Συνεισφορά #15: [Contribution Link #15](https://github.com/courses-ionio/hci/pull/1896#issuecomment-1378771253)
 | Ερώτηση #16: NULL | Απάντηση #16: NULL | Παρατήρηση / Συνεισφορά #16: [Contribution Link #16](https://github.com/courses-ionio/hci/pull/1878#issuecomment-1378775714)
+| Ερώτηση #17: NULL | Απάντηση #17: NULL | Παρατήρηση / Συνεισφορά #17: [Contribution Link #17](https://github.com/courses-ionio/hci/pull/1902#issuecomment-1378813851)
 
 
 # Extras #2: <ins> Παράθεση Τελικού Συνδέσμου Ενσωμάτωσης Στο Αρχικό Αποθετήριο </ins>
