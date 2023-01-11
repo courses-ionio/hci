@@ -1,11 +1,15 @@
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
-Ονοματεπώνυμο: Σταμάτης Πέτρου  
-Organization: [Terminal-Killers](https://github.com/Terminal-Killers)  
-ΑΜ:2021186  
-Github profile: [stamathsp](https://github.com/stamathsp)  
-Προσωπικό [site](https://site-stamathsp.vercel.app/)  
-Asciinema profile: [inf2021186](https://asciinema.org/~inf2021186)
+
+### Στοιχεία φοιτητή:
+
+- Ονοματεπώνυμο: Σταμάτης Πέτρου  
+- Organization: [Terminal-Killers](https://github.com/Terminal-Killers)  
+- ΑΜ: 2021186  
+- Github profile: [stamathsp](https://github.com/stamathsp)  
+- Προσωπικό [site](https://site-stamathsp.vercel.app/)  
+- Asciinema profile: [inf2021186](https://asciinema.org/~inf2021186)
+
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Συζήτηση](https://github.com/courses-ionio/help/discussions/845), [link της ομάδας](https://github.com/Terminal-Killers) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας  |
