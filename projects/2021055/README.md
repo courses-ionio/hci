@@ -108,7 +108,7 @@
  
    ~Tο .md αρχείο του Apple iMac G3 στο αποθετήριο της ομάδας μου: [Apple_iMac.md](https://github.com/OMADA12/_gallery/blob/master/Imac.md)~
    
-   ~Η εικόνα του Apple iMac G3 στο site της ομάδας μου: [Apple_iMac](https://omadaa12.netlify.app/gallery/imac/)~
+   ~Η εικόνα του Apple iMac G3 στο site της ομάδας μου: [Apple_iMac](https://omada12.netlify.app/gallery/imac/)~
    
    ~Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [Imac.jpg](https://github.com/OMADA12/images/blob/master/Imac.jpg)~
    
@@ -118,7 +118,7 @@
   
    ~Tο .md αρχείο του Virtual Boy στο αποθετήριο της ομάδας μου: [VirtualBoy](https://github.com/OMADA12/_gallery/blob/master/Virtualboy.md)~
    
-   ~Η εικόνα του Virtual Boy στο site της ομάδας μου: [VirtualBoy](https://omadaa12.netlify.app/gallery/virtualboy/)~
+   ~Η εικόνα του Virtual Boy στο site της ομάδας μου: [VirtualBoy](https://omada12.netlify.app/gallery/virtualboy/)~
    
    ~Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [VirtualBoy.jpg](https://github.com/OMADA12/images/blob/master/Virtualboy.jpg)~
    
@@ -164,14 +164,14 @@
 ### Lego WeDo:
 
 * Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [LegoWeDo.md](https://github.com/OMADA12/_gallery/blob/74ec47171553cd56f911bcd06a45fec2899a4861/Legowedo.md)
-* Η εικόνα του lego-wedo στο site της ομάδας μου: [LegoWeDo](https://omadaa12.netlify.app/gallery/legowedo/)
+* Η εικόνα του lego-wedo στο site της ομάδας μου: [LegoWeDo](https://omada12.netlify.app/gallery/legowedo/)
 * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [LegoWeDo.jpg](https://github.com/OMADA12/images/blob/568dc9d3dd6847334d3c45e56dd27e057e1ef703/LegoWeDo.jpg)
 * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [LegoWeDo-thumb.jpg](https://github.com/OMADA12/images/blob/568dc9d3dd6847334d3c45e56dd27e057e1ef703/LegoWeDo-thumb.jpg)
 
 ### Logo:
 
 * Tο .md αρχείο του Logo στο αποθετήριο της ομάδας μου: [Logo.md](https://github.com/OMADA12/_gallery/blob/74ec47171553cd56f911bcd06a45fec2899a4861/Logo.md)
-* Η εικόνα του Logo στο site της ομάδας μου: [Logo](https://omadaa12.netlify.app/gallery/logo/)
+* Η εικόνα του Logo στο site της ομάδας μου: [Logo](https://omada12.netlify.app/gallery/logo/)
 * Η κανονική εικόνα στο στο αποθετήριο της ομάδας μου: [Logo.jpg](https://github.com/OMADA12/images/blob/568dc9d3dd6847334d3c45e56dd27e057e1ef703/Logo.jpg)
 * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [Logo-thumb.jpg](https://github.com/OMADA12/images/blob/568dc9d3dd6847334d3c45e56dd27e057e1ef703/Logo-thumb.jpg)
 
@@ -209,17 +209,26 @@
 
 ~T)[Η εξέλιξη των 3d γραφικών](https://axileaszervos.netlify.app/timeline/3dgraphics/) - timeline~
 
+
    # `UPDATE`
 Μετα την αλλαγή εικόνων στο 3ο παραδοτέο έχουν αλλάξει τα slides και οι διαφάνειες
 
 ---
-* Slide και Timeline για την γλώσσα προγραμματισμού `Logo`
+* Slide και Timeline για την γλώσσα προγραμματισμού `Logo`:
   * [Εκπαιδευτικά Εργαλεία](https://axileaszervos.netlify.app/slides/edu%CF%84ools/) - slide
   * [Εκπαιδευτικά Εργαλεία](https://axileaszervos.netlify.app/timeline/edutoolstimeline/) - timeline
  
-* Slide και Timeline για τα ρομπότ-παιχνίδια `Lego WeDo`
+* Slide και Timeline για τα ρομπότ-παιχνίδια `Lego WeDo`:
   * [Εκαπιδευτικά Ρομπότ](https://axileaszervos.netlify.app/slides/edurobots/) - slide
   * [Εκπαιδευτικά Ρομπότ](https://axileaszervos.netlify.app/timeline/edurobotstimeline/) - timeline
+---
+* Slide και Timeline για την γλώσσα προγραμματισμού `Logo` στο site της ομάδας μου:
+  * [Εκπαιδευτικά Εργαλεία](https://omada12.netlify.app/slides/edu%CF%84ools/) - slide
+  * [Εκπαιδευτικά Εργαλεία](https://omada12.netlify.app/timeline/edutoolstimeline/) - timeline
+ 
+* Slide και Timeline για τα ρομπότ-παιχνίδια `Lego WeDo`στο site της ομάδας μου:
+  * [Εκαπιδευτικά Ρομπότ](https://omada12.netlify.app/slides/edurobots/) - slide
+  * [Εκπαιδευτικά Ρομπότ](https://omada12.netlify.app/timeline/edurobotstimeline/) - timeline
   
  ## PULL REQUESTS
  * [slides](https://github.com/OMADA12/site/pull/20)
