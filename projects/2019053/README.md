@@ -431,8 +431,8 @@
 | --- | --- | --- | --- |
 | [Βοήθεια συμφοιτητή 1](https://github.com/courses-ionio/help/discussions/1069) | [Ερώτηση για νέο fork (3ο παραδοτέο)](https://github.com/courses-ionio/help/discussions/1156) | [Ανάρτηση αναλυτικού guide (3ο παραδοτέο)](https://github.com/TEAM11234/help/discussions/1) | [Σχολιασμός Pull Request για images 3ου παραδοτέου στον @vasiliskampani](https://github.com/TEAM11234/images/pull/2) |
 | [Βοήθεια συμφοιτητή 2](https://github.com/courses-ionio/help/discussions/1873) | [Ερώτηση για τελική αναφορά](https://github.com/courses-ionio/help/discussions/1939) | | [Σχολιασμός Pull Request για gallery 3ου παραδοτέου στον @vasiliskampani](https://github.com/TEAM11234/_gallery/pull/2) |
-| [Βοήθεια συμφοιτητή 3](https://github.com/courses-ionio/help/discussions/1937) | | |
-| [Βοήθεια συμφοιτητή 4](https://github.com/courses-ionio/help/discussions/1954) | | |
+| [Βοήθεια συμφοιτητή 3](https://github.com/courses-ionio/help/discussions/1937) | | **Σχολιασμός σε αναφορές συμφοιτητών** | |
+| [Βοήθεια συμφοιτητή 4](https://github.com/courses-ionio/help/discussions/1954) | | [Σχολιασμός αναφοράς 1](https://github.com/courses-ionio/hci/pull/1877) | |
 
 
 <br /> <br />
