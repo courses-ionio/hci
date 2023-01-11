@@ -163,7 +163,7 @@
 
 ### Lego WeDo:
 
-* Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [LegoWeDo.md](https://github.com/OMADA12/_gallery/blob/74ec47171553cd56f911bcd06a45fec2899a4861/Legowedo.md)
+* Tο .md αρχείο του lego-wedo στο αποθετήριο της ομάδας μου: [LegoWeDo.md](https://github.com/OMADA12/_gallery/blob/3a7b2c5bc31540aa1c8ce7a5365d09e5260d5ac3/LegoWeDo.md)
 * Η εικόνα του lego-wedo στο site της ομάδας μου: [LegoWeDo](https://omada12.netlify.app/gallery/legowedo/)
 * Η κανονική εικόνα στο αποθετήριο της ομάδας μου: [LegoWeDo.jpg](https://github.com/OMADA12/images/blob/568dc9d3dd6847334d3c45e56dd27e057e1ef703/LegoWeDo.jpg)
 * Η resized σε 160x160 pixels εικόνα στο αποθετήριο της ομάδας μου: [LegoWeDo-thumb.jpg](https://github.com/OMADA12/images/blob/568dc9d3dd6847334d3c45e56dd27e057e1ef703/LegoWeDo-thumb.jpg)
