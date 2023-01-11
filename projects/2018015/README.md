@@ -24,7 +24,7 @@
 | 9 | Συμμετοχικό περιεχόμενο B2 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1987)** |**[Επιτυχία: 10/10]()** |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 12 | Τελική αναφορά* |**[Pull Request](https://github.com/courses-ionio/hci/pull/1857)**|**[Επιτυχία: 8/10]()**|
 
 ---
 
@@ -214,3 +214,5 @@ To Mp3 είναι η πιο δημοφιλής μέθοδος κωδικοποί
 * [**WIKI:** *Karlheinz Brandenburg*](https://en.wikipedia.org/wiki/Karlheinz_Brandenburg)
 
 * [**Npr:** *The MP3: A History Of Innovation And Betrayal*](https://www.npr.org/sections/therecord/2011/03/23/134622940/the-mp3-a-history-of-innovation-and-betrayal)
+
+[Go up :arrow_up:](https://github.com/Efthimis015/hci/edit/2018015/projects/2018015/README.md#%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC-%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%CF%82)
