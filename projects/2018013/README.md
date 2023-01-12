@@ -4,6 +4,8 @@
 ### Αριθμός Μητρώου: Π2018013
 ### GitHub Profile: [giormaster](https://github.com/giormaster)
 ### Organization: [MainCharacters](https://github.com/MainCharacters)
+### Edpuzzle: p18lomv 2018013
+### Actively Learn: George Lomvardas P2018013
 <br />
 
 ## Πίνακας με σύνοψη των παραδοτέων
