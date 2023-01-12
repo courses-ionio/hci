@@ -23,7 +23,7 @@
 | 8 | Άσκηση γραμμής εντολών | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/2057)**|**[Επιτυχία: 9/10]()** |
 | 9 | Συμμετοχικό περιεχόμενο B2 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1987)** |**[Επιτυχία: 9/10]()** |
 | 10 | Άσκηση γραμμής εντολών | | |
-| 11 | Κατασκευή του βιβλίου Β | | |
+| 11 | Κατασκευή του βιβλίου Β | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/2070)** | **[Επιτυχία: 7/10]()** |
 | 12 | Τελική αναφορά* |**[Pull Request](https://github.com/courses-ionio/hci/pull/1857)** , **[TeamWork](https://github.com/courses-ionio/hci/pull/1857#issuecomment-1374843924)**|**[Επιτυχία: 8/10]()**|
 
 | Pull Requests | [Πρώτο](https://github.com/Millennials-2/_gallery/pull/3) | [Δεύτερο](https://github.com/Millennials-2/_gallery/pull/12) | [Τρίτο](https://github.com/Millennials-2/images/pull/11) |
