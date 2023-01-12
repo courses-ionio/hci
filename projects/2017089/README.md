@@ -264,6 +264,10 @@ PDF: https://github.com/p17mari/kallipos/blob/master/contributions/book.pdf
 Προηγούμενα pull request:
 https://github.com/courses-ionio/hci/pull/1884#issuecomment-1374883836
 
+
+Σχολιασμός σε άλλα pull requests:
+https://github.com/courses-ionio/hci/pull/1901
+
 ### Δικτυογραφία για την εγκατάσταση:
 
 https://bbs.archlinux.org/viewtopic.php?id=252639
