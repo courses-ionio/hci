@@ -14,8 +14,8 @@
 | 7 |[Συμμετοχικό περιεχόμενο B1](#Contribute3) |https://github.com/courses-ionio/help/discussions/1667 | Επιτυχής ολοκλήρωση |
 | 8 | [Άσκηση γραμμής εντολών](#Library)|https://github.com/courses-ionio/help/discussions/1808 | Επιτυχής ολοκλήρωση |
 | 9 | [Συμμετοχικό περιεχόμενο B2](#Contribute4) |https://github.com/courses-ionio/help/discussions/1863 | Επιτυχής ολοκλήρωση |
-| 10 | [Άσκηση γραμμής εντολών](#Java-Game) | |Επιτυχής εκπρόθεσμη ολοκλήρωση |
-| 11 | [Κατασκευή του βιβλίου Β](#Final-Book) | |Επιτυχ|
+| 10 | [Άσκηση γραμμής εντολών](#Java-Game) |https://github.com/courses-ionio/help/discussions/2071 |Επιτυχής εκπρόθεσμη ολοκλήρωση |
+| 11 | [Κατασκευή του βιβλίου Β](#Final-Book) |https://github.com/courses-ionio/help/discussions/2069 |Επιτυχής ολοκλήρωση|
 | 12 | [Τελική αναφορά](#Final) | | Επιτυχής ολοκλήρωση |
 
 # Εισαγωγή   
