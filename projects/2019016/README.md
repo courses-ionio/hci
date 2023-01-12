@@ -6,16 +6,16 @@
  Εβδομάδα || Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |[Εισαγωγή](#Εισαγωγή)| | |
-| 2 |[Άσκηση γραμμής εντολών (Arch install)](#Arch-Linux)|https://github.com/courses-ionio/help/discussions/1118 |Επιτυχής ολοκλήρωση |
-| 3 |[Συμμετοχικό περιεχόμενο A1](#Contribute)|https://github.com/courses-ionio/help/discussions/1246 |Επιτυχής ολοκλήρωση |
-| 4 |[Άσκηση γραμμής εντολών](#Weather-predict)|https://github.com/courses-ionio/help/discussions/1395  |Επιτυχής ολοκλήρωση |
-| 5 |[Συμμετοχικό περιεχόμενο A2](#Contribute2)|https://github.com/courses-ionio/help/discussions/1487 |Επιτυχής ολοκληρωση |
-| 6 |[Κατασκευή του βιβλίου Α](#Book-A)|https://github.com/courses-ionio/help/discussions/1612 |Σχεδόν επιτυχής ολοκλήρωση (++στον σχολιασμό στο πλάι του βιβλίου)|
-| 7 |[Συμμετοχικό περιεχόμενο B1](#Contribute3) |https://github.com/courses-ionio/help/discussions/1667 | Επιτυχής ολοκλήρωση |
-| 8 | [Άσκηση γραμμής εντολών](#Library)|https://github.com/courses-ionio/help/discussions/1808 | Επιτυχής ολοκλήρωση |
-| 9 | [Συμμετοχικό περιεχόμενο B2](#Contribute4) |https://github.com/courses-ionio/help/discussions/1863 | Επιτυχής ολοκλήρωση |
-| 10 | [Άσκηση γραμμής εντολών](#Java-Game) |https://github.com/courses-ionio/help/discussions/2071 |Επιτυχής εκπρόθεσμη ολοκλήρωση |
-| 11 | [Κατασκευή του βιβλίου Β](#Final-Book) |https://github.com/courses-ionio/help/discussions/2069 |Επιτυχής ολοκλήρωση|
+| 2 |[Άσκηση γραμμής εντολών (Arch install)](#Άσκηση-γραμμής-εντολών-Arch-install)|https://github.com/courses-ionio/help/discussions/1118 |Επιτυχής ολοκλήρωση |
+| 3 |[Συμμετοχικό περιεχόμενο A1](#Συμμετοχικό-περιεχόμενο-A1)|https://github.com/courses-ionio/help/discussions/1246 |Επιτυχής ολοκλήρωση |
+| 4 |[Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών-WARM-UP)|https://github.com/courses-ionio/help/discussions/1395  |Επιτυχής ολοκλήρωση |
+| 5 |[Συμμετοχικό περιεχόμενο A2](#Συμμετοχικό-περιεχόμενο-A2)|https://github.com/courses-ionio/help/discussions/1487 |Επιτυχής ολοκληρωση |
+| 6 |[Κατασκευή του βιβλίου Α](#Κατασκευή-του-βιβλίου-Α)|https://github.com/courses-ionio/help/discussions/1612 |Σχεδόν επιτυχής ολοκλήρωση (++στον σχολιασμό στο πλάι του βιβλίου)|
+| 7 |[Συμμετοχικό περιεχόμενο B1](#Συμμετοχικό-περιεχόμενο-B1) |https://github.com/courses-ionio/help/discussions/1667 | Επιτυχής ολοκλήρωση |
+| 8 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών)|https://github.com/courses-ionio/help/discussions/1808 | Επιτυχής ολοκλήρωση |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#Συμμετοχικό-περιεχόμενο-B2) |https://github.com/courses-ionio/help/discussions/1863 | Επιτυχής ολοκλήρωση |
+| 10 | [Άσκηση γραμμής εντολών](#Άσκηση-γραμμής-εντολών) |https://github.com/courses-ionio/help/discussions/2071 |Επιτυχής εκπρόθεσμη ολοκλήρωση |
+| 11 | [Κατασκευή του βιβλίου Β](#Κατασκευή-του-βιβλίου-Β) |https://github.com/courses-ionio/help/discussions/2069 |Επιτυχής ολοκλήρωση|
 | 12 | [Τελική αναφορά](#Final) | | Επιτυχής ολοκλήρωση |
 
 # Εισαγωγή   
@@ -25,12 +25,13 @@
 
 Στο μάθημα οι ασκήσεις γραμμής εντολών μπορούν να δέσουν αρμονικά με την αντίληψη της διεπαφής. Το να υλοποιήσω κώδικα σε ένα IDE γραμμής εντολών έχει εξαιρετικό ενδιαφέρον, ενώ με τις υπόλοιπες ασκήσεις δίνεται η ευκαιρία να μπορέσει κανείς να εξοικειωθεί με έναν πιο ουσιαστικό τρόπο με τον υπολογιστή. Έτσι, οι δεξιότητες συναντούν τις απαιτήσεις.
 
-# Arch Linux   
+# Άσκηση γραμμής εντολών Arch-install
+
 Για την εκτέλεση του πρώτου παραδοτέου κληθήκαμε να κάνουμε την εγκατάσταση των arch linux, την οποία εκτέλεσα χωρίς ιδιαίτερη δυσκολία. Εν συνεχεία έτρεξα journalctl και neofetch όπως ζητήθηκε.  
 <b>Journalctl :</b> <a href="https://asciinema.org/a/G7mTC2jDIzowd6rI6yzaPrexK" target="_blank"><img src="https://asciinema.org/a/G7mTC2jDIzowd6rI6yzaPrexK.svg" /></a>
 <b>Neofetch :</b> <a href="https://asciinema.org/a/FGyJE20i0X3am4wXJsQs2YOkc" target="_blank"><img src="https://asciinema.org/a/FGyJE20i0X3am4wXJsQs2YOkc.svg" /></a>
 
-# Contribute   
+# Συμμετοχικό περιεχόμενο A1  
 Για την συγγραφή του site η συνεισφορά μου θα ήθελα να είναι δύο λήμματα τα οποία θα σχετίζονται άμεσα με την επικοινωνία ανθρώπου-υπολογιστή. Για αυτό τον το λόγο επέλεξα μια συσκεύη εισόδου και μια συσκευή εξόδου (Joystick, 3d-printer). Αφου έκανα τις κατάλληλες προσθήκες λεζαντας και φωτογραφιών στο gallery και στο images του site που έχω κάνει φορκ , έκανα pull request προκειμένου οι αλλαγές να φανούν στο site της ομάδας.   
 <b>Οι αλλαγές όπως εμφανίζονται στο site: </b>    
  [Cloud 9](https://invicta-team-project.netlify.app/gallery/cloudnine/)  
@@ -39,11 +40,11 @@
  [Gallery](https://github.com/Invicta-Ionian-Hci/_gallery/pull/21)
  [Images](https://github.com/Invicta-Ionian-Hci/images/pull/2)
  
- # Weather predict    
+ # Άσκηση γραμμής εντολών WARM UP    
  Στην άσκηση γραμμής εντολών εκτέλεσα τις εντολές που φαίνοτναι στο παρακάτω asciinema προκειμένου να μπορέσω να δώ την πρόβλεψη καιρού για Αθήνα και Καναδά, ενώ αξιοποίησα και την δυνατότητα  να "δω" προγνώσεις για το φεγγάρι.  
  <a href="https://asciinema.org/a/e0qTjoVwcrrvhZAkbLvXp8uuB" target="_blank"><img src="https://asciinema.org/a/e0qTjoVwcrrvhZAkbLvXp8uuB.svg" /></a>
  
- # Contribute2    
+ # Συμμετοχικό περιεχόμενο A2   
  Στην επέκταση συγγραφής το βιβλίου η αρχική ιδέα ήταν να χρησιμοποιήσω τα λήμματα που θα είχα εισάγει στο [3ο παραδοτέο](#Contribute) ούτως ώστε να δημιουργήσω ενα timeline και ένα slideshow τα οποία θα συδύαζαν τα ήδη υπάρχοντα λήμματα του site με τα δικά μου. Αρκετά ταιριαστό με τους IDE's  ήταν το να φτιάξω ένα timeline to οποίο θα περιλάμβανε IDE's που υπάρχον στο site, ενώ γα slideshow διατήρησα το αρχικό που είχα φτιάξει με τις συσκευές εισόδου. Αφού επιβεβαίωσα οτι κάτι τέτοιο δεν έχει γίνει ήδη, το υλοποίησα στους απαραίτητους φακέλους του site ( _slideshow, _timelines) και έκανα pull request στο site της ομάδας.  
 <b> Οι αλλαγές όπως εμφανίζονται στο site:</b>   
 [IDE timeline](https://invicta-team-project.netlify.app/timeline/intergrated-develpment-environment/)  
@@ -51,7 +52,7 @@
 <b>To pull request:</b>  
 [Pull request](https://github.com/Invicta-Ionian-Hci/site/pull/2)   
 
-# Βοοκ Α  
+# Κατασκευή του βιβλίου Α 
 Το παραδοτέο που σχετίζεται με την κατασκευή του βιβλίου είναι ίσως το πιο σύνθετο που έχει εμφανιστεί μέχρι τώρα. Αφού έκανα clone το repository του βιβλίου, μετά από μια έρευνα στον οδηγό χρηστών του pandoc και μία αναζητήση σχετικά με τον τρόπο λειτουργίας του latex μπόρεσα να υλοποιήσω το pdf. Για γραμματοσειρά χρησιμοποιήθηκε το dejavu sheriff και όρισα στο latex τη χρήση του. Για τον σχολιασμό μετά από πολλους πειραματισμούς κατάφερα τοποθετήσω τα σχόλια δίπλα από την αρχή του κάθε κεφαλαίου με χρήση lua και του latex πακετου margin notes.  
 <b>To βιβλίο σε pdf:</b>    
 https://github.com/Thomasth01/kallipos/issues/1    
@@ -61,33 +62,39 @@ https://github.com/Thomasth01/kallipos/issues/2
 https://github.com/Thomasth01/kallipos/issues/3  
 <b>Το βιβλιο σε pdf με σχολιασμό απόπειρα τρίτη:</b>(Coming soon)
   
-# Contribute3   
+# Συμμετοχικό περιεχόμενο B1   
 Σε αυτό το παραδοτέο ζητήθηκε να γίνει μια μελέτη περίπτωσης. Σε αυτό αξιοποίησα τις γνώσεις απο την ανάγνωση του βιβλίου που ολοκλήρωσα στο προηγουμενο παραδοτέο, καθώς και μία διαδικτυακή έρευνα που έκανα για την ιστορία της Turbo Pascal. Ακόμη, μετά από μια αναζήτηση στους φακέλους του site έκανα τις απαραίτητες προσθήκες στους φακέλους include και case study και συνέδεσα το περιεχόμενο τους. Μετά από αυτό, έκανα pull request προκειμένου οι αλλαγές να εμφανιστούν στο site της ομάδας.  
 <b>Η προσθήκη όπως εμφανίζεται στο site:</b>    
 [Turbo Pascal](https://invicta-team-project.netlify.app/case-study/turbopascal/)
 <b>To pull request:</b>  
 [Pull request](https://github.com/Invicta-Ionian-Hci/site/pull/26)  
 
-# Library
+# Άσκηση γραμμής εντολών
+
+## Library
+
 Για την επόμενη άσκηση γραμμής εντολών, μετέτρεψα για αρχή την αναφορά μου σε docx με χρήση pandoc σε ένα [script](https://github.com/Thomasth01/8th/blob/master/Anafora/script.sh). Επιπλέον, θέλοντας να διανθίσω το παραδοτέο, σκέφτηκα να κάνω ένα [δεύτερο script](https://github.com/Thomasth01/8th/blob/master/Library/script.sh) το οποίο εξετάζει επαναληπτικά έναν φάκελο και δίνει την δυνατότητα στον χρήστη να επιλέξει από ένα μενού ποιό otd αρχείο θα μετατραπεί σε pdf. Η ιδέα προέκυψε απο το γεγονός οτι πολλές φορές για εργασίες της σχολής χρειάζεται να μετατρέπω διάφορα otd αρχεια σε pdf για να τα παραδώσω οπότε προσπάθησα να αυτοματοποιήσω κάπως αυτή την διαδικασία.  
 <b> Μετατροπή της αναφοράς από .md σε .docx</b>  
 <a href="https://asciinema.org/a/PPdRF21dbAcwEHZ3fu1rlzqfo" target="_blank"><img src="https://asciinema.org/a/PPdRF21dbAcwEHZ3fu1rlzqfo.svg" /></a>  
 <b> Μετατροπέας φακέλου στυλ βιβλιοθήκη</b>  
 <a href="https://asciinema.org/a/xYoN9WLjP0JfdHxFwOTxPZt4h" target="_blank"><img src="https://asciinema.org/a/xYoN9WLjP0JfdHxFwOTxPZt4h.svg" /></a>  
 
-# Contribute4
+# Συμμετοχικό περιεχόμενο B2
 Για βιογραφία δίαλεξα να ασχοληθώ με την ζωή του Philip Kahn. Με την ίδια μέθοδο που ακολούθησα και στην μελέτη περίπτωσης, ολοκλήρωσα το παραδοτέο επιτυχώς, βάζοντας τα ανάλογα αρχεία στους αντίστοιχους φακέλους. Επέλεξα αυτή την βιογραφία καθώς ο Phillipe Khan οντας πολυπράγμων είχε μεγάλη συνεισφορά στον χώρο της πληροφορικής και της τεχνολογίας.  
 <b> Οι προσθήκες όπως εμφανίζονται στο site </b>  
 https://invicta-team-project.netlify.app/biography/philippe-kahn/  
 <b>To pull request:</b>  
 https://github.com/Invicta-Ionian-Hci/site/pull/23  
 
-# Java Game
+# Άσκηση γραμμής εντολών 
+
+## Java Game
+
 Για αυτό το παραδοτέο χρησιμοποίησα Space vim για να συνθέσω και νε εκτελέσω ένα πρόγραμμα σε Java. Ετσι, εφτιαξα ένα παιχνίδι τύπου τρίλιζα το οποίο παίζεται με δύο παίκτες στο τερματικό και στην συνέχει το εκτέλεσα.  
 
 [![asciicast](https://asciinema.org/a/usxb2X5AYI3UvLVLiZOpfWR28.svg)](https://asciinema.org/a/usxb2X5AYI3UvLVLiZOpfWR28)
 
-# Final Book   
+# Κατασκευή του βιβλίου Β  
 Στο τελευταίο παραδοτέο χρησιμοποίησα τις προσθήκες μου στο site προκειμένου να συνθέσω το τελικό βιβλίο το οποίο τις εμπεριέχει. Έτσι στο τελικό epub του βιβλίου εμφανίστηκαν μέσα και οι προσθήκες μου.  
 ![bookEPUBversion](https://user-images.githubusercontent.com/72516265/212178668-c46580cd-4f09-447d-824b-f6cb7834531d.png)
 
