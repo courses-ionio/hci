@@ -22,7 +22,7 @@
 | 7 | Συμμετοχικό περιεχόμενο B1 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1683)** |**[Επιτυχία: 9/10]()** |
 | 8 | Άσκηση γραμμής εντολών | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/2057)**|**[Επιτυχία: 9/10]()** |
 | 9 | Συμμετοχικό περιεχόμενο B2 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1987)** |**[Επιτυχία: 9/10]()** |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 | Άσκηση γραμμής εντολών | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/2072)** |**[Επιτυχία: 1/10]()** |
 | 11 | Κατασκευή του βιβλίου Β | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/2070)** | **[Επιτυχία: 7/10]()** |
 | 12 | Τελική αναφορά* |**[Pull Request](https://github.com/courses-ionio/hci/pull/1857)** , **[TeamWork](https://github.com/courses-ionio/hci/pull/1857#issuecomment-1374843924)**|**[Επιτυχία: 8/10]()**|
 
