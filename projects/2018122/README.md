@@ -123,6 +123,7 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 Στο συγκεκριμένο παραδοτέο έπρεπε να προσθέσουμε μια νέα βιογραφία στο βιβλίο του μαθήματος . Η βιογραφία που επέλεξα ήταν του Andy Rubin , ο οποίος έπαιξε σημαντικό ρόλο στην δημιουργία και το μάρκετινγκ του Android. Η βιογραφία σχετίζεται και με τα προηγούμενα συμμετικά περιεχόμενα .
 
 [Biography](https://github.com/AndreasKarageorgiou/site/blob/organization/_biography/andy-rubin.md)
+[Includes](https://github.com/AndreasKarageorgiou/site/blob/organization/_includes/bio-rubin.md)
 
 [Bio-image](https://github.com/AndreasKarageorgiou/images/blob/master/andy-rubin.jpg)
 [Android-image](https://github.com/AndreasKarageorgiou/images/blob/master/android.jpg)
