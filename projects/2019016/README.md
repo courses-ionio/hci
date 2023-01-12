@@ -14,8 +14,8 @@
 | 7 |[Συμμετοχικό περιεχόμενο B1](#Contribute3) |https://github.com/courses-ionio/help/discussions/1667 | Επιτυχής ολοκλήρωση |
 | 8 | [Άσκηση γραμμής εντολών](#Library)|https://github.com/courses-ionio/help/discussions/1808 | Επιτυχής ολοκλήρωση |
 | 9 | [Συμμετοχικό περιεχόμενο B2](#Contribute4) |https://github.com/courses-ionio/help/discussions/1863 | Επιτυχής ολοκλήρωση |
-| 10 | Άσκηση γραμμής εντολών | |ΑΠΑΙΤΟΥΝΤΑΙ ΔΙΟΡΘΩΣΕΙΣ ΘΑ ΕΝΗΜΕΡΩΘΕΙ ΣΥΝΤΟΜΑ |
-| 11 | Κατασκευή του βιβλίου Β | |ΑΠΑΙΤΟΥΝΤΑΙ ΔΙΟΡΘΩΣΕΙΣ ΘΑ ΕΝΗΜΕΡΩΘΕΙ ΣΥΝΤΟΜΑ |
+| 10 | [Άσκηση γραμμής εντολών](#Java-Game) | |Επιτυχής εκπρόθεσμη ολοκλήρωση |
+| 11 | [Κατασκευή του βιβλίου Β](#Final-Book) | |Επιτυχ|
 | 12 | [Τελική αναφορά](#Final) | | Επιτυχής ολοκλήρωση |
 
 # Εισαγωγή   
@@ -46,7 +46,7 @@
  # Contribute2    
  Στην επέκταση συγγραφής το βιβλίου η αρχική ιδέα ήταν να χρησιμοποιήσω τα λήμματα που θα είχα εισάγει στο [3ο παραδοτέο](#Contribute) ούτως ώστε να δημιουργήσω ενα timeline και ένα slideshow τα οποία θα συδύαζαν τα ήδη υπάρχοντα λήμματα του site με τα δικά μου. Αρκετά ταιριαστό με τους IDE's  ήταν το να φτιάξω ένα timeline to οποίο θα περιλάμβανε IDE's που υπάρχον στο site, ενώ γα slideshow διατήρησα το αρχικό που είχα φτιάξει με τις συσκευές εισόδου. Αφού επιβεβαίωσα οτι κάτι τέτοιο δεν έχει γίνει ήδη, το υλοποίησα στους απαραίτητους φακέλους του site ( _slideshow, _timelines) και έκανα pull request στο site της ομάδας.  
 <b> Οι αλλαγές όπως εμφανίζονται στο site:</b>   
-[Output devices timeline](https://invicta-team-project.netlify.app/timeline/output-devices/)  
+[IDE timeline](https://invicta-team-project.netlify.app/timeline/intergrated-develpment-environment/)  
 [Input devices slideshow](https://invicta-team-project.netlify.app/slides/input-devices/)  
 <b>To pull request:</b>  
 [Pull request](https://github.com/Invicta-Ionian-Hci/site/pull/2)   
@@ -81,6 +81,16 @@ https://github.com/Thomasth01/kallipos/issues/3
 https://invicta-team-project.netlify.app/biography/philippe-kahn/  
 <b>To pull request:</b>  
 https://github.com/Invicta-Ionian-Hci/site/pull/23  
+
+# Java Game
+Για αυτό το παραδοτέο χρησιμοποίησα Space vim για να συνθέσω και νε εκτελέσω ένα πρόγραμμα σε Java. Ετσι, εφτιαξα ένα παιχνίδι τύπου τρίλιζα το οποίο παίζεται με δύο παίκτες στο τερματικό και στην συνέχει το εκτέλεσα.  
+
+[![asciicast](https://asciinema.org/a/usxb2X5AYI3UvLVLiZOpfWR28.svg)](https://asciinema.org/a/usxb2X5AYI3UvLVLiZOpfWR28)
+
+# Final Book   
+Στο τελευταίο παραδοτέο χρησιμοποίησα τις προσθήκες μου στο site προκειμένου να συνθέσω το τελικό βιβλίο το οποίο τις εμπεριέχει. Έτσι στο τελικό epub του βιβλίου εμφανίστηκαν μέσα και οι προσθήκες μου.  
+![bookEPUBversion](https://user-images.githubusercontent.com/72516265/212178668-c46580cd-4f09-447d-824b-f6cb7834531d.png)
+
 
 # Final
 
