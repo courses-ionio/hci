@@ -238,4 +238,8 @@ To Mp3 είναι η πιο δημοφιλής μέθοδος κωδικοποί
 
 <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/epubbook(1).png" width= 199> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/epubbook(2).png" width= 186/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/epubbook(3).png" width= 183/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/epubbook(4).png" width= 181/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/epubbook(5).png" width= 183/>
 
+
+## Παραδοτέο 12 | Τελική αναφορά
+Με την ολοκλήρωση αυτού του εξαμήνου και κατόπιν του μαθήματος HCI , μπορώ να πω πως απέκτησα αρκετές γνώσεις που θα φανούν σίγουρα χρήσιμες στη συνέχεια της καριέρας μου. Μέσω του μαθήματος έβαλα τον εαυτό μου στη διαδικασία να αναζητήσει γνώσεις για να πετύχω όλα αυτά που ήθελα να καταφέρω, όπου παρόλο που ήταν αγχωτικό και δύσκολο , θεωρώ ότι το αποτέλεσμα και οι γνώσεις που απέκτησα άξιζαν τον κόπο. Κάτι πολύ σημαντικό για μένα, καθώς έχω παρακολουθήσει ξανά μαθήματα παρόμοια με το HCI, είναι οτι κατάφερα να δουλέψω πάνω στην ομαδικότητα και τη συνεργατικότητα. Θεωρώ πως είναι πολύ σημαντικά skills που χρειάζεται να έχει κάποιος σε αυτόν τον τομέα και χαίρομαι που μου δόθηκε η ευκαιρία να τα δουλέψω και να τα βελτιώσω μέσω του μαθήματος.
+
 [Go up :arrow_up:](https://github.com/Efthimis015/hci/tree/2018015/projects/2018015#%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC-%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%CF%82)
