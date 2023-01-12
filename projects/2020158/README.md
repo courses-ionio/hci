@@ -8,18 +8,18 @@
 
 | Εβδομάδα | Παραδοτέο | Σύνδεσμοι Συζητήσεων | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/help/discussions/849 |
-| 2 | [Άσκηση Γραμμής Εντολών Linux Install](#Άσκηση-Γραμμής-Εντολών-Linux-Install) | https://github.com/courses-ionio/help/discussions/1167 |
-| 3 | [Συμμετοχικό Περιεχόμενο Α1](#Συμμετοχικό-Περιεχόμενο-Α1) | https://github.com/courses-ionio/help/discussions/1444 |
-| 4 | [Άσκηση Γραμμής Εντολών Warm Up](#Άσκηση-Γραμμής-Εντολών-Warm-Up) | https://github.com/courses-ionio/help/discussions/1385 |
-| 5 | [Συμμετοχικό Περιεχόμενο Α2](#Συμμετοχικό-Περιεχόμενο-Α2) | https://github.com/courses-ionio/help/discussions/1560 |
-| 6 | [Κατασκευή Του Βιβλίου Α](#Κατασκευή-Του-Βιβλίου-Α) | https://github.com/courses-ionio/help/discussions/1582 |
-| 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-Β1) | https://github.com/courses-ionio/help/discussions/1839 |
-| 8 | [Άσκηση Γραμμής Εντολών Pipelines Scripts](#Άσκηση-Γραμμής-Εντολών-Pipelines-Scripts) |
-| 9 | [Συμμετοχικό Περιεχόμενο B2](#Συμμετοχικό-Περιεχόμενο-Β2) | https://github.com/courses-ionio/help/discussions/2044 |
-| 10 | [Άσκηση Γραμμής Εντολών](#Άσκηση-Γραμμής-Εντολών) |
-| 11 | [Κατασκευή Του Βιβλίου Β](#Κατασκευή-Του-Βιβλίου-Β) |
-| 12 | [Τελική Αναφορά](#Τελική-Αναφορά) | https://github.com/courses-ionio/help/discussions/2060 |
+| 1 | [Εισαγωγή](#Εισαγωγή) | https://github.com/courses-ionio/help/discussions/849 | 100% Ολοκληρώθηκε |
+| 2 | [Άσκηση Γραμμής Εντολών Linux Install](#Άσκηση-Γραμμής-Εντολών-Linux-Install) | https://github.com/courses-ionio/help/discussions/1167 | 100% Ολοκληρώθηκε |
+| 3 | [Συμμετοχικό Περιεχόμενο Α1](#Συμμετοχικό-Περιεχόμενο-Α1) | https://github.com/courses-ionio/help/discussions/1444 | 100% Ολοκληρώθηκε |
+| 4 | [Άσκηση Γραμμής Εντολών Warm Up](#Άσκηση-Γραμμής-Εντολών-Warm-Up) | https://github.com/courses-ionio/help/discussions/1385 | 100% Ολοκληρώθηκε |
+| 5 | [Συμμετοχικό Περιεχόμενο Α2](#Συμμετοχικό-Περιεχόμενο-Α2) | https://github.com/courses-ionio/help/discussions/1560 | 100% Ολοκληρώθηκε |
+| 6 | [Κατασκευή Του Βιβλίου Α](#Κατασκευή-Του-Βιβλίου-Α) | https://github.com/courses-ionio/help/discussions/1582 | 70% Ολοκληρώθηκε χωρίς επιτυχία του PDF |
+| 7 | [Συμμετοχικό Περιεχόμενο B1](#Συμμετοχικό-Περιεχόμενο-Β1) | https://github.com/courses-ionio/help/discussions/1839 | 100% Ολοκληρώθηκε |
+| 8 | [Άσκηση Γραμμής Εντολών Pipelines Scripts](#Άσκηση-Γραμμής-Εντολών-Pipelines-Scripts) | - | 0% Δεν οοκληρώθηκε |
+| 9 | [Συμμετοχικό Περιεχόμενο B2](#Συμμετοχικό-Περιεχόμενο-Β2) | https://github.com/courses-ionio/help/discussions/2044 | 80% Ολοκληρώθηκε αλλά συνοπτικό | 
+| 10 | [Άσκηση Γραμμής Εντολών](#Άσκηση-Γραμμής-Εντολών) | - | 0% Δεν ολοκληρώθηκε | 
+| 11 | [Κατασκευή Του Βιβλίου Β](#Κατασκευή-Του-Βιβλίου-Β) |  - | 0% Δεν ολοκληρώθηκε |
+| 12 | [Τελική Αναφορά](#Τελική-Αναφορά) | https://github.com/courses-ionio/help/discussions/2060 | 80% Ολοκληρώθηκε αλλά συνοπτικό |  
 
 
 # Εισαγωγή
