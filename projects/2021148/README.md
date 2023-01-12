@@ -13,13 +13,13 @@
 | 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-3) | [Συζήτηση 3](https://github.com/courses-ionio/help/discussions/1895) | 75% |
 | 4 | [Άσκηση γραμμής εντολών (warm up cli)](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-4) | [Συζήτηση 4](https://github.com/courses-ionio/help/discussions/1250) | 100% |
 | 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-5) | [Συζήτηση 5](https://github.com/courses-ionio/help/discussions/1900) | 75% |
-| 6 | [Κατασκευή του βιβλίου Α](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-6) | | 40% |
+| 6 | [Κατασκευή του βιβλίου Α](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-6) | - | 40% |
 | 7 | [Συμμετοχικό περιεχόμενο B1](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-7) | [Συζήτηση 7](https://github.com/courses-ionio/help/discussions/1911) | 75% |
 | 8 | [Άσκηση γραμμής εντολών](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-8) | [Συζήτηση 8](https://github.com/courses-ionio/help/discussions/1749) | 85% |
 | 9 | [Συμμετοχικό περιεχόμενο B2](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) | [Συζήτηση 9](https://github.com/courses-ionio/help/discussions/1912) | 75% |
 | 10 | [Άσκηση γραμμής εντολών](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) | [Συζήτηση 10](https://github.com/courses-ionio/help/discussions/1991) | 100% |
-| 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 11 | Κατασκευή του βιβλίου Β | - | 0% |
+| 12 | [Τελική αναφορά*](https://github.com/inf2021148/hci/edit/inf2021148/projects/2021148/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-12) | [Συζήτηση 12](https://github.com/courses-ionio/help/discussions/2065) | 60% |
 
 # ΕΙΣΑΓΩΓΗ - ΠΑΡΑΔΟΤΕΟ 1
 
