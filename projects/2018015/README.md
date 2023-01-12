@@ -17,8 +17,8 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1513)** |**[Επιτυχία: 9/10]()** |
 | 3 | Συμμετοχικό περιεχόμενο A1 |**[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1514)** , **[TeamWork](https://github.com/courses-ionio/help/discussions/1892)**|**[Επιτυχία: 7/10]()** |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1529)**|**[Επιτυχία: 9/10]()** |
-| 5 | Συμμετοχικό περιεχόμενο A2 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1530)** , **[TeamWork](https://github.com/courses-ionio/help/discussions/1903)**|**[Επιτυχία: 10/10]()** |
-| 6 | Κατασκευή του βιβλίου Α | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1679)**|**[Επιτυχία: 7/10]()** |
+| 5 | Συμμετοχικό περιεχόμενο A2 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1530)** , **[TeamWork](https://github.com/courses-ionio/help/discussions/1903)**|**[Επιτυχία: 7/10]()** |
+| 6 | Κατασκευή του βιβλίου Α | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1679)**|**[Επιτυχία: 5/10]()** |
 | 7 | Συμμετοχικό περιεχόμενο B1 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1683)** |**[Επιτυχία: 9/10]()** |
 | 8 | Άσκηση γραμμής εντολών | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/2057)**|**[Επιτυχία: 9/10]()** |
 | 9 | Συμμετοχικό περιεχόμενο B2 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1987)** |**[Επιτυχία: 9/10]()** |
