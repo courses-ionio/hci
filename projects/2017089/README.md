@@ -263,6 +263,7 @@ PDF: https://github.com/p17mari/kallipos/blob/master/contributions/book.pdf
 
 Προηγούμενα pull request:
 https://github.com/courses-ionio/hci/pull/1884#issuecomment-1374883836
+https://github.com/courses-ionio/hci/pull/1900
 
 
 Σχολιασμός σε άλλα pull requests:
