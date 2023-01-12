@@ -225,9 +225,9 @@ H μετατροπή σε epub έγινε μέσω της προσθήκης τ�
  pandoc --quiet -f latex book.tex -o book.epub
  ```
 
-![Βιογραφία](https://github.com/Alessenia/Images-for-Report/blob/main/Ralph-Baer-Screen.png)
+![Βιογραφία](https://github.com/Alessenia/Images-for-Report/blob/main/ralph-book.png)
 
-![Μελέτη Περίπτωσης](https://github.com/Alessenia/Images-for-Report/blob/main/DS-Screen.png)
+![Μελέτη Περίπτωσης](https://github.com/Alessenia/Images-for-Report/blob/main/DS-book.png)
 
 # Παραδοτέο 12 - Τελική Αναφορά & Συμπεράσματα 
 
