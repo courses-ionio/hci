@@ -18,8 +18,8 @@
 | 8 |[Άσκηση γραμμής εντολών](https://github.com/kselionis/hci/edit/P2019097/projects/2019097/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-8%CE%BF---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD)| [Συζήτηση 8](https://github.com/courses-ionio/help/discussions/1745) | 90/100 |
 | 9 |[Συμμετοχικό περιεχόμενο B2](https://github.com/kselionis/hci/edit/P2019097/projects/2019097/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-9%CE%BF---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B22) | [Συζήτηση 9](https://github.com/courses-ionio/help/discussions/1994) | 70/100 |
 | 10 |[Άσκηση γραμμής εντολών](https://github.com/kselionis/hci/edit/P2019097/projects/2019097/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-10%CE%BF---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Συζήτηση 10](https://github.com/courses-ionio/help/discussions/1910) | 100/100 |
-| 11 | Κατασκευή του βιβλίου Β | - | |
-| 12 | Τελική αναφορά* | - | |
+| 11 | Κατασκευή του βιβλίου Β | - | 0/100|
+| 12 | [Τελική αναφορά*](https://github.com/kselionis/hci/edit/P2019097/projects/2019097/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-12%CE%BF---%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) | [Συζήτηση 12](https://github.com/courses-ionio/help/discussions/2064) | 60/100 |
 
 # ΕΙΣΑΓΩΓΗ
 
