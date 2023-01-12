@@ -24,7 +24,7 @@
 | 9 | Συμμετοχικό περιεχόμενο B2 | **[Συζητήσεις](https://github.com/courses-ionio/help/discussions/1987)** |**[Επιτυχία: 10/10]()** |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* |**[Pull Request](https://github.com/courses-ionio/hci/pull/1857)**|**[Επιτυχία: 8/10]()**|
+| 12 | Τελική αναφορά* |**[Pull Request](https://github.com/courses-ionio/hci/pull/1857)** , **[TeamWork](https://github.com/courses-ionio/hci/pull/1857#issuecomment-1374843924)**|**[Επιτυχία: 8/10]()**|
 
 ---
 
