@@ -268,6 +268,7 @@ https://github.com/courses-ionio/hci/pull/1884#issuecomment-1374883836
 Σχολιασμός σε άλλα pull requests:
 https://github.com/courses-ionio/hci/pull/1901
 https://github.com/courses-ionio/hci/pull/1898
+https://github.com/courses-ionio/hci/pull/1891
 
 
 ### Δικτυογραφία για την εγκατάσταση:
