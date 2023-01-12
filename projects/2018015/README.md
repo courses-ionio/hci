@@ -223,6 +223,13 @@ To Mp3 είναι η πιο δημοφιλής μέθοδος κωδικοποί
 [Go up :arrow_up:](https://github.com/Efthimis015/hci/tree/2018015/projects/2018015#%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC-%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%CF%82)
 
 
+## 👽Παραδοτέο 10 | Άσκηση γραμμής εντολών
+
+**Στο παραδοτέο αυτό λόγω έλλειψης χρόνου και για να μην μείνει άδειο, επέλεξα να κάνω μία από τις ασκήσεις warm up.**
+
+**Παρακάτω παραθέτω το ακόλουθο Asciinema Link**
+
+* **[Download a song in mp3 format](https://asciinema.org/a/oQEDbJUU08FcVm5Z8IMruZbKy)**
 
 ## 👽Παραδοτέο 11 | Κατασκευή του βιβλίου B
 
