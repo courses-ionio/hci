@@ -20,7 +20,7 @@
 | 9 | [Συμμετοχικό περιεχόμενο B2](https://github.com/inf2021223/hci/edit/2021223/projects/2021223/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-9%CE%BF) | [Συζήτηση 9](https://github.com/courses-ionio/help/discussions/1916) | 75% |
 | 10 | [Άσκηση γραμμής εντολών](https://github.com/inf2021223/hci/edit/2021223/projects/2021223/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-10%CE%BF) | [Συζήτηση 10](https://github.com/courses-ionio/help/discussions/1917) | 100% |
 | 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 12 | [Τελική αναφορά*](https://github.com/inf2021223/hci/edit/2021223/projects/2021223/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-12%CE%BF) | [Συζήτηση 12](https://github.com/courses-ionio/help/discussions/2068) | 65% |
 
 # ΕΙΣΑΓΩΓΗ
 
