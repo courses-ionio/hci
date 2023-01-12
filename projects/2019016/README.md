@@ -68,7 +68,11 @@ https://github.com/Thomasth01/kallipos/issues/3
 [Turbo Pascal](https://invicta-team-project.netlify.app/case-study/turbopascal/)
 <b>To pull request:</b>  
 [Pull request](https://github.com/Invicta-Ionian-Hci/site/pull/26)  
-
+<b>Βιβλιογραφία</b>  
+ https://turbopascal.org/  
+ https://wiki.freepascal.org/Turbo_Pascal  
+ https://winworldpc.com/product/turbo-pascal/7x
+ 
 # Άσκηση γραμμής εντολών
 
 ## Library
@@ -85,6 +89,10 @@ https://github.com/Thomasth01/kallipos/issues/3
 https://invicta-team-project.netlify.app/biography/philippe-kahn/  
 <b>To pull request:</b>  
 https://github.com/Invicta-Ionian-Hci/site/pull/23  
+<b>Βιβλιογραφία</b>  
+https://computerhistory.org/profile/philippe-kahn/  
+ http://www.odbms.org/about/contributors/kahn/
+ 
 
 # Άσκηση γραμμής εντολών 
 
