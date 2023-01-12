@@ -51,11 +51,11 @@ asciinema link: [Boot logs and Specs](https://asciinema.org/a/TsRLr9IgszSTONBMgp
 
 Σημαντικό θεωρώ, για το παραδοτέο, να γίνει ένας έλεγχος για την αλληλεπίδραση ανθρώπου με τεχνολογίες που διευκολύνουν την καθημερινότητα του. Όποτε επιλέχθηκε η βοηθός της Apple ***siri***, ένα εργαλείο που χρησιμοποιείται από εκατομμύρια άτομα καθημερινά για την απάντηση ερωτήσεων και εύρεση πληροφοριών, και η μηχανή ***VersaBraille***, ένα "display system" με διάφορες λειτουργίες όπως μετατροπή κειμένου σε braille μορφή οι οποίες βοηθούν ανθρώπους με ειδικές ανάγκες όρασης.
 
-Προσωπικός σύνδεσμος netlify
+Vercel οργανισμού
 
-- [siri](https://grand-cranachan-7f3e1d.netlify.app/gallery/siri/)
+- [Siri](https://site-theta-black.vercel.app/gallery/siri/)
 
-- [VersaBraille](https://grand-cranachan-7f3e1d.netlify.app/gallery/versabraille/)
+- [VersaBraille](https://site-theta-black.vercel.app/gallery/versabraille/)
 
 Pull request
 
@@ -138,11 +138,11 @@ asciinema link: [Split Terminal Window](https://asciinema.org/a/CsOV5GljPlvssQ12
 
 Η πρώτη εικόνα με λεζάντα που εισαγώ σχετίζεται με την *siri*. Η siri πρόκειται για ένα εικονικό βοηθό της Apple που ευκολύνει την καθημερινότητα εκατομμυρίων χρηστών στον πλανήτη, λύνοντας τους από απλές ερωτήσεις μέχρι και εκτελώντας διάφορες λειτουργίες. Για αυτό διάλεξα ως θεματική διαφάνεια τις [έξυπνες διαπεφές χρήστη - iui](https://github.com/AnTonyPapako/site/blob/master/_slides/iui.md) και ως χρονολόγιο τις [έξυπνες διεπαφές - agents](https://github.com/AnTonyPapako/site/blob/master/_timeline/agents.md).
 
-vercel link: [Siri - 2011](https://site-bay-gamma.vercel.app/timeline/agents)
+[Vercel οργανισμού: Siri - 2011](https://site-theta-black.vercel.app/timeline/agents)
 
 Η δεύτερη αναφαίρεται στην συσκευή VersaBraille. Πρόκειται για ένα display system που εμφανίζει ένα κείμενο σε μορφή braille, ευανάγνωστη για ανθρώπους με ειδικές ανάγκες όρασης, εφόσον έχει γίνει πρώτα έχει γίνει είσοδος του κειμένου και έπειτα η μετατροπή. Έτσι επέλεξα ως θεματική διαφάνεια τους [τρόπους διάδρασης - styles](https://github.com/AnTonyPapako/site/blob/master/_slides/styles.md) και ως χρονολόγιο τις [συσκευές εισόδου - input-devices](https://github.com/AnTonyPapako/site/blob/master/_timeline/input-devices.md).
 
-vercel link: [VersaBraille - 1982](https://site-bay-gamma.vercel.app/timeline/input-devices)
+[Vercel οργανισμού: VersaBraille - 1982](https://site-theta-black.vercel.app/timeline/input-devices)
 
 ##
 
@@ -172,7 +172,7 @@ vercel link: [VersaBraille - 1982](https://site-bay-gamma.vercel.app/timeline/in
 
 [includes](https://github.com/AnTonyPapako/site/blob/master/_includes/cs-agents-in-assistive-technology.md)
 
-Προσωπικός σύνδεσμος vercel: [Overcoming Boundaries](https://site-rke0nzn0t-antonypapako.vercel.app/case-study/agent-in-assistive-technology)
+[Vercel οργανισμού: Agents in Assistive Technology](https://site-theta-black.vercel.app/case-study/agent-in-assistive-technology)
 
 Πηγές
 
@@ -207,6 +207,8 @@ asciinema link: [Terminal as IDE](https://asciinema.org/a/Fo8R0cCTDyft43ULZClwsX
 [biography](https://github.com/AnTonyPapako/site/blob/master/_biography/adam-cheyer.md)
 
 [includes](https://github.com/AnTonyPapako/site/blob/master/_includes/bio-cheyer.md)
+
+[Vercel οργανισμού: Adam Cheyer](https://site-theta-black.vercel.app/biography/adam-cheyer)
 
 Πηγές
 
