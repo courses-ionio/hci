@@ -26,6 +26,9 @@
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* |**[Pull Request](https://github.com/courses-ionio/hci/pull/1857)** , **[TeamWork](https://github.com/courses-ionio/hci/pull/1857#issuecomment-1374843924)**|**[Επιτυχία: 8/10]()**|
 
+| Pull Requests | [Πρώτο](https://github.com/Millennials-2/_gallery/pull/3) | [Δεύτερο](https://github.com/Millennials-2/_gallery/pull/12) | [Τρίτο](https://github.com/Millennials-2/images/pull/11) |
+| --- | --- | --- | --- | 
+
 ---
 
 ## 👽Παραδοτέο 1 | Εισαγωγή
@@ -222,5 +225,10 @@ To Mp3 είναι η πιο δημοφιλής μέθοδος κωδικοποί
 
 
 ## 👽Παραδοτέο 11 | Κατασκευή του βιβλίου B
+
+**Στο παραδοτέο αυτό μετέτρεψα το βιβλίο του μαθήματος σε EPUB μορφή αφού πρώτα προστέθηκαν τα περιεχόμενα της μελέτης περίπτωσης και της βιβλιογραφίας που είχαν γίνει στα προηγούμενα παραδοτέα. Η μετατροπή πραγματοποιήθηκε με την εντολή *pandoc -f latex book.tex -o book.epub* η οποία προστέθηκε στο εσωτερικό του make-latex.sh.
+Παρακάτω παραθέτω τα screenshots μου**
+
+<img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/epubbook(1).png" width= 199> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/epubbook(2).png" width= 186/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/epubbook(3).png" width= 183/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/epubbook(4).png" width= 181/> <img src= "https://github.com/Efthimis015/use-dark-mode/blob/develop/epubbook(5).png" width= 183/>
 
 
