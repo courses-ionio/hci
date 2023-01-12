@@ -120,6 +120,17 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 9 | Συμμετοχικό περιεχόμενο Β2
 
+Στο συγκεκριμένο παραδοτέο έπρεπε να προσθέσουμε μια νέα βιογραφία στο βιβλίο του μαθήματος . Η βιογραφία που επέλεξα ήταν του Andy Rubin , ο οποίος έπαιξε σημαντικό ρόλο στην δημιουργία και το μάρκετινγκ του Android. Η βιογραφία σχετίζεται και με τα προηγούμενα συμμετικά περιεχόμενα .
+
+[Biography](https://github.com/AndreasKarageorgiou/site/blob/organization/_biography/andy-rubin.md)
+
+[Bio-image](https://github.com/AndreasKarageorgiou/images/blob/master/andy-rubin.jpg)
+[Android-image](https://github.com/AndreasKarageorgiou/images/blob/master/android.jpg)
+
+[Netlify](https://andreaskarageorgiou.netlify.app/biography/andy-rubin/)
+
+
+
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 10 | ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ(2)
 
 Στο παραδοτέο αυτό καλούμαστε να χρησιμοποιήσουμε μία ακόμη από τις ασκήσεις HCi.
@@ -134,6 +145,11 @@ https://asciinema.org/a/BIjgBu8MaBgSWLF6qdNO9lw1y
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 11 | 
 
 ## :rocket: ΠΑΡΑΔΟΤΕΟ 12 | ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ
+
+
+# Χρήσιμες απαντήσεις - διορθώσεις - βελτιώσεις - σχόλια 
+- [`1570`](https://github.com/courses-ionio/help/discussions/1570)
+- [`1620`](https://github.com/courses-ionio/help/discussions/1620)
 
   
   
