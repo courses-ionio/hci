@@ -12,11 +12,11 @@
 | 5 | Συμμετοχικό περιεχόμενο A2 |https://github.com/courses-ionio/help/discussions/1490 |Το παραδοτέο ολοκληρώθηκε με επιτυχία |
 | 6 | Κατασκευή του βιβλίου Α |https://github.com/courses-ionio/help/discussions/1633 |Το παραδοτέο ολοκληρώθηκε με επιτυχία |
 | 7 | Συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/help/discussions/1715 |Το παραδοτέο ολοκληρώθηκε με επιτυχία |
-| 8 | Άσκηση γραμμής εντολών |https://github.com/courses-ionio/help/discussions/1759 |Το παραδοτέο ολοκληρώθηκε με επιτυχία |
+| 8 | Άσκηση γραμμής εντολών |https://github.com/courses-ionio/help/discussions/1759 |Το παραδοτέο ολοκληρώθηκε με επιτυχία μετά απο διόρθωση |
 | 9 | Συμμετοχικό περιεχόμενο B2 |https://github.com/courses-ionio/help/discussions/1889 |Το παραδοτέο ολοκληρώθηκε αλλά χωρίς να είμαι ικανοποιημένος με το περιεχόμενό του  |
-| 10 | Άσκηση γραμμής εντολών |https://github.com/courses-ionio/help/discussions/1882 |Το παραδοτέο ολοκληρώθηκε με επιτυχία |
+| 10 | Άσκηση γραμμής εντολών |https://github.com/courses-ionio/help/discussions/1882 |Το παραδοτέο ολοκληρώθηκε με επιτυχία μετά απο διόρθωση |
 | 11 | Κατασκευή του βιβλίου Β |https://github.com/courses-ionio/help/discussions/1944 |Το παραδοτέο ολοκληρώθηκε με επιτυχία |
-| 12 | Τελική αναφορά* |https://github.com/courses-ionio/help/discussions/2058 |Το παραδοτέο ολοκληρώθηκε χωρίς να έχουν γραφτεί τελικά συμπεράσματα |
+| 12 | Τελική αναφορά* |https://github.com/courses-ionio/help/discussions/2058 |Το παραδοτέο ολοκληρώθηκε εν μέρει χωρίς να έχουν γραφτεί τελικά συμπεράσματα |
 
 # Παραδοτέο 1
 
