@@ -10,7 +10,7 @@ Github Προφίλ: [TheBond8](https://github.com/TheBond08)
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1157)|Επιτυχής ολοκλήρωση του παραδοτέου|
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1154)|Επιτυχής ολοκλήρωση του παραδοτέου|
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/2074#discussion-4754625)|Επιτυχής ολοκλήρωση του παραδοτέου|
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1456)|Επιτυχής ολοκλήρωση του παραδοτέου|
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1729)|Επιτυχής ολοκλήρωση του παραδοτέου|
@@ -35,6 +35,21 @@ Github Προφίλ: [TheBond8](https://github.com/TheBond08)
 
 Παρακάτω ακολουθεί η παρουσίαση της εκτέλεσης των παραπάνω εντολών:
 <a href="https://asciinema.org/a/529866" target="_blank"><img src="https://asciinema.org/a/529866.svg" /></a>
+
+# 3ο Παραδοτέο: Συμμετοχικό περιεχόμενο A1
+Μετά από αρκετές προσπάθειες κατάφερα να εμφανίσω τις φωτογραφίες στο [site](https://terminal-killers-site.netlify.app/) του [οργανισμού](https://github.com/Terminal-Killers/site). Προσωπικά ασχολήθηκα με τα θέματα της γλώσσας προγραμματισμού `HTML` και `Machine Learning`.
+
+---
+Παραθέτω παρακάτω τους κατάλληλους συνδέσμους για την προσωπική μου συνεισφορά:
+
+- [Html Language](https://terminal-killers-site.netlify.app/gallery/html/)
+- [Machine Learning](https://terminal-killers-site.netlify.app/gallery/machine_learning/)
+
+---
+Pull requests:
+
+- [_gallery](https://github.com/Terminal-Killers/_gallery/pull/21)
+- [images](https://github.com/Terminal-Killers/images/pull/14)
 
 # 4ο Παραδοτέο: Άσκηση γραμμής εντολών (warm up cli)
 Σκοπός αυτού του παραδοτέου είναι η εκτέλεση μιας εντολής της επιλογής μας στο τερματικό του Arch Linux.
