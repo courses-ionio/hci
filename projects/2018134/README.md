@@ -50,6 +50,7 @@
 <p>Παρακάτω φαίνεται το link από το neltify:</p>
 
 - [My site](https://6361782cba37ee3f7a02ee6b--leafy-speculoos-24511e.netlify.app/)
+- [The4Beasts Site](https://master--the4beasts.netlify.app/)
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
 - [Pull Request προς τον οργανισμό της ομάδας - gallery](https://github.com/The4Beasts/_gallery/pull/4)
@@ -151,6 +152,7 @@
 <p>Παρακάτω παρουσιάζεται το link από το netlify</p>
 
 - [My Site](https://6380a44b603c3c7b4e2c010f--famous-piroshki-6d764b.netlify.app/biography/)
+- [The4Beasts Site](https://master--the4beasts.netlify.app/)
 
 ---
 
