@@ -452,6 +452,7 @@ tmux new -s ονόμα_session
  ### [HCI PULLS](https://github.com/courses-ionio/hci/pulls):
  #### Συμβουλές στους συμφοιτητές μου για την διώρθωση των pull request της τελικής αναφοράς:
   - [#1842](https://github.com/courses-ionio/hci/pull/1842)
+  - [#1868](https://github.com/courses-ionio/hci/pull/1868)
  ### [Show and tell](https://github.com/courses-ionio/help/discussions/categories/show-and-tell):
  #### Συμβουλές στους συμφοιτητές μου για την διώρθωση παραδοτέων: 
   - [#1658](https://github.com/courses-ionio/help/discussions/1658)
