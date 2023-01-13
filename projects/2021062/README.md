@@ -20,7 +20,7 @@
 | 9 | [Συμμετοχικό περιεχόμενο B2](https://github.com/inf2021062/hci/edit/inf2021062/projects/2021062/README.md#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B22---%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-9) |[συζήτηση 9](https://github.com/courses-ionio/help/discussions/1924) |75/100% |
 | 10 | [Άσκηση γραμμής εντολών](https://github.com/inf2021062/hci/edit/inf2021062/projects/2021062/README.md#%CE%B1%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B7%CF%83-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%89%CE%BD---%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%B5%CE%BF-10) |[συζήτηση 10](https://github.com/courses-ionio/help/discussions/1913) |100/100% |
 | 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | [συζήτηση 12](https://github.com/courses-ionio/help/discussions/2066) |70/100% |
+| 12 | [Τελική αναφορά*]( https://github.com/inf2021062/hci/tree/2021062/projects/2021062)| [συζήτηση 12](https://github.com/courses-ionio/help/discussions/2066) |70/100% |
 
 # ΕΙΣΑΓΩΓΗ - ΠΑΡΑΔΟΤΕΟ 1
 
