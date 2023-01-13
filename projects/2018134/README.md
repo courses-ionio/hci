@@ -155,7 +155,7 @@
 
 - [Louis B. Rosenberg](https://en.wikipedia.org/wiki/Louis_B._Rosenberg)
 - [Louis Rosenberg Develops Virtual Fixtures, the First Fully Immersive Augmented Reality System](https://www.historyofinformation.com/detail.php?id=4231)
-- [Figure 1] (https://en.wikipedia.org/wiki/Louis_B._Rosenberg)
+- [Figure 1](https://en.wikipedia.org/wiki/Louis_B._Rosenberg)
 - [Figure 2](https://www.historyofinformation.com/detail.php?id=4231)
 
 <p>Παρακάτω παρουσιάζεται το link από το netlify</p>
