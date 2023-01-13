@@ -125,6 +125,10 @@
 <p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
 
 - [The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6232426/)
+- [Augmented Reality and Fields of Application](http://ikee.lib.auth.gr/record/315720)
+- [Figure1](https://www.researchgate.net/figure/Milgrams-Augmented-Reality-Continuum-Source-Azuma-et-al-2001_fig1_261429841)
+- [Figure2](https://c.realme.com/in/post-details/1080319921235165184)
+- [Figure3](http://ikee.lib.auth.gr/record/315720)
 
 ---
 
