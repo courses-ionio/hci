@@ -37,13 +37,15 @@
 
 - [Digitizer.md](https://github.com/xristinasp/_gallery/blob/master/Digitizer.md)
 - [VR-glasses.md](https://github.com/xristinasp/_gallery/blob/master/VR-glasses.md)
-
+- [Smartglasses.md](https://github.com/xristinasp/_gallery/blob/master/Smartglasses.md)
 <p>Και οι αντίστοιχες εικόνες:</p>
 
 - [Digitizer.jpg](https://github.com/xristinasp/images/blob/master/Digitizer.jpg)
 - [Digitizer-thumb](https://github.com/xristinasp/images/blob/master/Digitizer-thumb.png)
 - [VR-glasses.jpeg](https://github.com/xristinasp/images/blob/master/VR-glasses.jpeg)
 - [VR-glasses-thumb](https://github.com/xristinasp/images/blob/master/VR-glasses-thumb.gif)
+- [Smartglasses.jpg](https://github.com/xristinasp/images/blob/master/Smartglasses.jpg)
+- [Smartglasses-thumb](https://github.com/xristinasp/images/blob/master/Smartglasses-thumb.jpg)
 
 <p>Παρακάτω φαίνεται το link από το neltify:</p>
 
