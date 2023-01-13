@@ -70,17 +70,31 @@
 ---
 
 # Παραδοτέο 5: Συμμετοχικό περιεχόμενο Α2
-Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε ένα σετ από διαφάνειες και ένα χρονολόγιο συνδυάζοντας τις εικόνες που είχαμε προσθέσει στο συμμετοχικό περιεχόμενο Α1 με εικόνες που ήδη υπάρχουν στο βιβλίο. [Ως ομάδα](https://github.com/The4Beasts) δράσαμε ως εξής:
-<p>Καθώς το παραδοτέο είναι ατομικό από τη μία, αλλά συνεργατικό από την άλλη, σκεφτήκαμε να συνδυάσουμε τις πληροφορίες που είχε προσθέσει ο καθένας μας στο συμμετοχικό περιεχόμενο Α1, ώστε να εμφανιστεί ένα ολικό αποτέλεσμα στην ιστοσελίδα του μαθήματος (γι' αυτό έχουμε όλα τα μέλη της ομάδας το ίδιο link στο netlify καθώς ως main repository βάλαμε την ομάδα μας για να μπορούν να φανούν οι όποιες αλλαγές). Η ιδέα προήλθε για τον λόγο ότι οι προσθήκες που έκανε ο καθένας μας ταιριάζουν μεταξύ τους και αλληλοσυμπληρώνονται.</p> 
-<p>Επομένως, τι καλύτερο από μια συγχώνευση όλων?</p>  
-<p>Τα βήματα που ακολουθήσαμε για να βγάζει νόημα η παραπάνω διαδικασία:</p>
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε ένα σετ από `διαφάνειες` και ένα `χρονολόγιο` συνδυάζοντας τις εικόνες που είχαμε προσθέσει στο συμμετοχικό περιεχόμενο Α1 με εικόνες που ήδη υπάρχουν στο βιβλίο. Παρακάτω παρουσιάζονται τα αποτελέσματά μου για το `Virtual Reality Headset`: 
 
-- [Fork το site του βιβλίου στην ομάδα μας](https://github.com/The4Beasts/site).
-- [Στα slides το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές](https://github.com/The4Beasts/site/tree/master/_slides)
-- [Το δικό μου slide](https://github.com/The4Beasts/site/blob/master/_slides/VR-Headset.md)
-- [Στο timeline το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές](https://github.com/The4Beasts/site/tree/master/_timeline)
-- [Το δικό μου timeline](https://github.com/The4Beasts/site/blob/master/_timeline/VR-Headset.md)
-- [Το site στο netlify](https://636b600809868914e40447d6--moonlit-rugelach-17f284.netlify.app)
+`Τα slides μου`
+
+- [`Virtual Reality Headset`](https://github.com/xristinasp/site/blob/master/_slides/Virtual%20Reality.md)
+
+`Το timeline μου`
+
+- [`Virtual Reality Headset`](https://github.com/xristinasp/site/blob/master/_timeline/SegaVR.md)
+
+Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
+
+- [`Virtual Reality Headset`](https://en.wikipedia.org/wiki/Sega_VR)
+- [`SegaVR`](https://segaretro.org/Sega_VR)
+
+<p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
+
+- [`Pull Request προς τον οργανισμό της ομάδας - slides`](https://github.com/The4Beasts/site/pull/1)
+- [`Pull Request προς τον οργανισμό της ομάδας - timeline`](https://github.com/The4Beasts/site/pull/2)
+- [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
+
+<p>Παρακάτω φαίνονται τα links από το neltify:</p>
+
+- [`My site`](https://konstantina3.netlify.app/)
+- [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
 
 ---
 
