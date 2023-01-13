@@ -106,6 +106,7 @@
 - [`Στο timeline το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές`](https://github.com/The4Beasts/site/tree/master/_timeline)
 - [`Το δικό μου timeline`](https://github.com/The4Beasts/site/blob/master/_timeline/Control%20of%20Digital%20Systems.md)
 - [`Το site στο netlify`](https://636b600809868914e40447d6--moonlit-rugelach-17f284.netlify.app)
+- [The4Beasts Site](https://master--the4beasts.netlify.app/)
 
 ---
 
@@ -187,6 +188,7 @@
 
 # Παραδοτέο 12: Τελική Αναφορά - Επίλογος
 <p>Συνοψίζοντας, μέσα από το μάθημα κατάφερα να μάθω τα εργαλεία pandoc, latex, vim και netlify για δημιουργία site και blog που με βοήθησαν να εμφανίσω στην πράξη τη φαντασία μου. Μέσα από τις προσπάθειές μου, έμαθα πολλά μικρά αλλά χρήσιμα πράγματα σχετικά με το terminal, όπως το να δημιουργώ txt files και να τα μετατρέπω σε html files. Έμαθα την ιστορία των πρώτων υπολογιστών μέσα από τους εφευρέτες τους, τη σημασία και τη λειτουργία τους μέχρι και σήμερα. Μέσα από τις απαιτήσεις του μαθήματος, εξερεύνησα το github και τις ιδιαιτερότητές του (πράγμα που πριν ήταν σχεδόν άγνωστο για μένα). </p>
+<p> </p>
 
 - [`Pull Request - Τελική Αναφορά`](https://github.com/courses-ionio/hci/pull/1856)
 ---
