@@ -142,7 +142,8 @@
 # Παραδοτέο 9: Συμμετοχικό περιεχόμενο Β2
 <p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα βιογραφία στο site του βιβλίου του μαθήματος. Η βιογραφία που επέλεξα αφορά τον Jack Kilby, ο οποίος εφηύρε το μικροτσιπ. Η συγκεκριμένη βιογραφία σχετίζεται με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline) στα οποία περιγράφω τη σχετική λειτουργία και σημασία της τεχνητής νοημοσύνης.</p>
 
-- [biography](https://github.com/xristinasp/site/blob/master/_biography/John-McCarthy.md)
+- [biography](https://github.com/xristinasp/site/blob/master/_biography/Louis-Rosenberg.md) 
+- [includes](https://github.com/xristinasp/site/blob/master/_includes/bio-Rosenberg.md) 
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
@@ -152,7 +153,10 @@
 
 <p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
 
-- [John-McCarthy](https://www.artificial-solutions.com/blog/homage-to-john-mccarthy-the-father-of-artificial-intelligence)
+- [Louis B. Rosenberg](https://en.wikipedia.org/wiki/Louis_B._Rosenberg)
+- [Louis Rosenberg Develops Virtual Fixtures, the First Fully Immersive Augmented Reality System](https://www.historyofinformation.com/detail.php?id=4231)
+- [Figure 1] (https://en.wikipedia.org/wiki/Louis_B._Rosenberg)
+- [Figure 2](https://www.historyofinformation.com/detail.php?id=4231)
 
 <p>Παρακάτω παρουσιάζεται το link από το netlify</p>
 
