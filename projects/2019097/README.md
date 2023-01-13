@@ -3,6 +3,7 @@
 ### Ονοματεπώνυμο: Σελιώνης Κωνσταντίνος
 ### Αριθμός Μητρώου: Π2019097
 ### Github Profile: [p19seli](https://github.com/kselionis)
+### Organization Profile: [SacratedSons](https://github.com/SacratedSons)
 <br />
 
 ## Πίνακας Παραδοτέων 
@@ -78,7 +79,7 @@
 
 | Εργασία | Παραδοτέο | Αναφορά |
 | --- | --- | --- |
-| check the weather | fetch the weather forecast for your home city and one more city that you want to travel to | wttr |
+| check the weather | fetch the weather forecast for your home city and one more city that you want to travel to | wttr 
 
 Ύστερα από αρκετή μελέτη και αναζήτηση στο διαδίκτυο πραγματοποίησα την εγκατάσταση και έτρεξα την εντολή.
 
@@ -150,6 +151,10 @@
 ## Παραδοτέο 10ο - _Άσκηση γραμμής εντολών_
 
 Σκοπός του 10ου παραδοτέου ήταν να ασχοληθούμε ξανά με μια άσκηση που έχουμε εξοικιωθεί καθώς και του script αλλά και pipeline.Ασχολήθηκα με την γραμμή εντολών και την εντολή εμφάνισης του καιρού σε μια πόλη. Αυτό ακριβώς φαίνεται και παρακάτω στο asciinema.
+
+| Εργασία | Παραδοτέο | Αναφορά |
+| --- | --- | --- |
+| check the weather | fetch the weather forecast for your home city and one more city that you want to travel to | wttr |
 
 [![asciicast](https://asciinema.org/a/544357.svg)](https://asciinema.org/a/544357)
 
