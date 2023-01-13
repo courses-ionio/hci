@@ -144,6 +144,27 @@ Edpuzzle : Kremmudis inf2021051
   Για αυτό το παραδοτέο έπρεπε στην ουσία να επαναλάβουμε οτι κάναμε στο 6 παραδοτέο, προσθέτοντας την μελέτη περίπτωσης και την βιογραφία που γράψαμε 
   στα προηγούμενα παραδοτέα. Τέλος, έπρεπε να μετατρέψουμε το βιβλίο σε μορφή epub. Η άσκηση αυτή ήταν σχετικά εύκολη γιατί βασίζεται σε πράγματα που
   έχουμε ξανακάνει άρα δεν μου πήρε πολύ ώρα. Την μετατροπή του βιβλίου την πραγματοποίησα με τον εξής κώδικα : `pandoc --quiet -f latex book.tex -o book/book.epub`
+  screenshot του case study part 1:
+![image](https://user-images.githubusercontent.com/74558267/211161916-ae17143b-1a30-4466-835a-e3ea27aa3d28.png)
+part 2:
+![image](https://user-images.githubusercontent.com/74558267/211161934-5de1418c-8c6c-48f4-8c47-4e7eb4f2a182.png)
+
+screenshot της βιογραφίας part 1:
+![image](https://user-images.githubusercontent.com/74558267/211161974-690c22bb-a5a9-4513-a06c-8e6af240844a.png)
+part 2:
+![image](https://user-images.githubusercontent.com/74558267/211161996-bef75bfb-53dd-4288-82e5-ec5651d9ef27.png)
+
+[epub βιβλίο](https://github.com/Kremmudis/kallipos/tree/master/book)
+
+`
+
+epub screenshot 1:
+![screenshot epub 1](https://user-images.githubusercontent.com/74558267/212263139-10f7ef95-83fb-40e1-a674-0549979f821c.png)
+epub screenshot 2:
+![screenshot epub 2](https://user-images.githubusercontent.com/74558267/212263166-02ad3f62-fa32-4b96-b681-045fd3448686.png)
+epub screenshot 3:
+![screenshot epub 3](https://user-images.githubusercontent.com/74558267/212263189-c9f35702-f224-4f4f-ae52-d3355954d5b3.png)
+
   
   
   # 12ο ΠΑΡΑΔΟΤΕΟ 
