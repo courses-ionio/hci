@@ -25,7 +25,7 @@
 | 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο_9) | |10/10 Πρόσθεσα την βιογραφία του Ralph Baer,δημιουργού του magnavox odyssey. |
 | 10 | [Άσκηση γραμμής εντολών](#παραδοτέο_10) | |10/10 Έφτιαξα ένα πρόγραμμα το οποίο μετατρέπει markdown αρχεία σε html και docx. |
 | 11 | [Κατασκευή του βιβλίου Β](#παραδοτέο_11) | |10/10 Δημιούργησα το epub version του βιβλίου και πρόσθεσα το case study και το biography. |
-| 12 | [Τελική αναφορά*](#παραδοτέο_12) | | 10/10 Ολοκλήρωση της τελικής αναφοράς|
+| 12 | [Τελική αναφορά*](#παραδοτέο_12) | | 10/10 Ολοκλήρωση της τελικής αναφοράς. |
 
 <br />
 
@@ -105,7 +105,7 @@ Link asciinema journal: [track my time with a journal](https://asciinema.org/a/m
 # Παραδοτέο_7
 Για το παραδοτέο 7 πρόσθεσα στο case study του site το [arcade-machine-console.md](https://github.com/giormaster/site/blob/master/_case-study/arcade-machine-console.md)
 <br />
-Στο _include προσθεσα το [cs-arcade-machine.md](https://github.com/giormaster/site/blob/master/_includes/cs-arcade-machine.md)
+Στο _include πρόσθεσα το [cs-arcade-machine.md](https://github.com/giormaster/site/blob/master/_includes/cs-arcade-machine.md)
 <br />
 [Λινκ για το site](https://site-theta-black.vercel.app/case-study/arcade-machine-console)
 # Παραδοτέο_8
@@ -119,7 +119,7 @@ Link asciinema journal: [track my time with a journal](https://asciinema.org/a/m
 Το rock-paper-scissors είναι ένα από τα πιο κλασσικά και διαχρονικά παιχνίδια.Η μεταφορά του στους υπολογιστές έχει γίνει με διάφορες παραλαγές και είναι μια από τις πρώτες προσπάθειες του ανθρώπου για την ψηφιοποίηση παιχνιδιών.Μέσα στο παιχνίδι ο χρήστης παίζει αντίπαλος με τον υπολογιστή και νικητής είναι αυτός που θα πάει πρώτος στις 3 νίκες.Τέτοιες εφαρμογές φέρνουν την διάδραση με τον υπολογιστή σε ευρήτερο κοινό και την καθιστούν πιο ευχάριστη. 
 
 # Παραδοτέο_9
-Σε αυτό το παραδοτέο δημιούργησα την βιογραφία του Ralph Baer,ο δημιουργός της κονσόλας Magnavox Odyssey και κεντρικό πρόσωπο στην ανάπτυξη της βιομηχανίας των βιντεοπαιχνιδιών.Η επιτυχία του Ralph στον χώρο των βιντεοπαιχνιδιών έμπνευσε και άλλες εταιρίες να ακολουθήσουν στα βήματα τους,μετατρέποντας την σε μια απο τις μεγαλύτερες βιομηχανίες του σήμερα.
+Σε αυτό το παραδοτέο δημιούργησα την βιογραφία του Ralph Baer,ο δημιουργός της κονσόλας Magnavox Odyssey και κεντρικό πρόσωπο στην ανάπτυξη της βιομηχανίας των βιντεοπαιχνιδιών.Η επιτυχία του Ralph στον χώρο των βιντεοπαιχνιδιών έμπνευσε και άλλες εταιρίες να ακολουθήσουν στα βήματα του,μετατρέποντας την σε μια απο τις μεγαλύτερες βιομηχανίες του σήμερα.
 - [biography](https://github.com/giormaster/site/blob/master/_biography/ralph-baer.md)
 
 - [includes](https://github.com/giormaster/site/blob/master/_includes/bio-ralph-baer.md)
@@ -128,7 +128,7 @@ Link asciinema journal: [track my time with a journal](https://asciinema.org/a/m
 
 
 # Παραδοτέο_10
-Σε αυτό το παραδοτέο έκανα την άσκηση τερματικού convert between different text formats.Για να το κάνω αυτό δημιούργησα μια αναφορά καιρού με nano και στην συνέχεια δημιούργησα ενα .sh αρχείο για την μετατροπή του σε html και docx φορματ.Το .sh script μπορεί να μετατρέψει το αρχείο ανάλογα με την επιλογή του χρήστη σε html η docx.Για να γίνει αυτο χρειάστηκε και η χρήση του pandoc.
+Σε αυτό το παραδοτέο έκανα την άσκηση τερματικού convert between different text formats.Για να το κάνω αυτό δημιούργησα μια αναφορά καιρού με nano και στην συνέχεια δημιούργησα ενα .sh αρχείο για την μετατροπή του σε html και docx φορματ.Το .sh script μπορεί να μετατρέψει το αρχείο ανάλογα με την επιλογή του χρήστη σε html η docx.Για να γίνει αυτό χρειάστηκε και η χρήση του pandoc.
 - [Κωδικας του .sh αρχειου](https://github.com/giormaster/hci-mycode/blob/main/Codes/fileconverter.sh)
 
 - [Asciinema Link](https://asciinema.org/a/MUy57mq1HvOBIUwxXaW7jAvVI)
