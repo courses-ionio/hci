@@ -3,6 +3,7 @@
 ### Ονοματεπώνυμο: Μουρίκης Ιωσήφ
 ### Αριθμός Μητρώου: inf2021148
 ### Github Profile: [inf2021148](https://github.com/inf2021148)
+### Organization Profile: [SacratedSons](https://github.com/SacratedSons)
 <br />
 
 ## Πίνακας Παραδοτέων 
