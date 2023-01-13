@@ -17,7 +17,7 @@ Github Προφίλ: [TheBond8](https://github.com/TheBond08)
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1794)|Επιτυχής ολοκλήρωση του παραδοτέου|
 | 9 | Συμμετοχικό περιεχόμενο B2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1826)|Επιτυχής ολοκλήρωση του παραδοτέου|
-| 10 | Άσκηση γραμμής εντολών |||
+| 10 | Άσκηση γραμμής εντολών |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1926#discussion-4647708)|Επιτυχής ολοκλήρωση του παραδοτέου|
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -64,3 +64,9 @@ Github Προφίλ: [TheBond8](https://github.com/TheBond08)
 1) Βιογραφία στο site [netfily](https://thebondsite.netlify.app/biography/berners-lee/)
 2) Στον φάκελο _includes το αρχείο: [bio_Berners-Lee.md](https://github.com/TheBond08/site/blob/master/_includes/bio_Berners-Lee.md)
 3) Στον φάκελο _biography το αρχείο: [Berners-Lee.md](https://github.com/TheBond08/site/blob/master/_biography/Berners-Lee.md)
+
+# 10ο Παραδοτέο: Άσκηση γραμμής εντολών
+Το παραδοτέο αυτό αποτελεί συνέχεια της Άσκηση Γραμμής Εντολών #2. Επέλεξα να ολοκληρώσω την πρώτη και την τελευταία άσκηση `Format your report` και `Use the terminal as an IDE` αντίστοιχα. Χρησιμοποιώντας το Groff υλοποίησα την αναφορά μου σε αρχείο με όνομα myreport, και μέσω του Vim την έλεγξα. 
+Παραθέτω το αντίστοιχο βίντεο στον asciinema λογαριασμό μου.
+
+<a href="https://asciinema.org/a/551384" target="_blank"><img src="https://asciinema.org/a/551384.svg" /></a>
