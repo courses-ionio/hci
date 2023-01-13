@@ -8,7 +8,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |https://github.com/courses-ionio/help/discussions/854 |Το παραδοτέο ολοκληρώθηκε με επιτυχία |
 | 2 | Άσκηση γραμμής εντολών (linux install) |https://github.com/courses-ionio/help/discussions/1145 |Το παραδοτέο ολοκληρώθηκε με επιτυχία |
 | 3 | Συμμετοχικό περιεχόμενο A1 |https://github.com/courses-ionio/help/discussions/1257 |Το παραδοτέο ολοκληρώθηκε με επιτυχία |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | |Το παραδοτέο ολοκληρωθηκε εν μέρει και χωρίς να ανέβει στην εβδομαδιαία συζήτηση |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | |Το παραδοτέο ολοκληρωθηκε χωρίς να ανέβει στην εβδομαδιαία συζήτηση |
 | 5 | Συμμετοχικό περιεχόμενο A2 |https://github.com/courses-ionio/help/discussions/1490 |Το παραδοτέο ολοκληρώθηκε με επιτυχία |
 | 6 | Κατασκευή του βιβλίου Α |https://github.com/courses-ionio/help/discussions/1633 |Το παραδοτέο ολοκληρώθηκε με επιτυχία |
 | 7 | Συμμετοχικό περιεχόμενο B1 |https://github.com/courses-ionio/help/discussions/1715 |Το παραδοτέο ολοκληρώθηκε με επιτυχία |
