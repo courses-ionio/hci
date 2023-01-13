@@ -44,7 +44,7 @@
 Αρχικά η εγκατάσταση των Arch Linux έγινε μέσω του virtual box καθώς δεν υποστήριζε κάτι διαφορετικό ο φορητός υπολογιστής μου. Μετά απο κάποια παραδοτέα τα οποία έκανα απο το virtual box και ξέροντας ότι δεν μπορώ μέσω αυτού να πάρω τον μέγιστο βαθμό αποφάσισα απο τον νέο φορητό υπολογιστή μου να  εγκαταστήσω από την αρχή τα Arch Linux υλοποίοντας τα βήματα που προανέφερα και εκτελόντας τα παραδοτέα από εκεί.
 
 ## ΑΣΚΗΣΕΙΣ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ(journalctl-b,neofetch) - ΠΑΡΑΔΟΤΕΟ 2
-Αφού έκανα την εγκατάσταση των Arch Linux όπως είπα κανονίκα πλέον και όχι σε virtual box έπρεπε να εκτελέσουμε τις εντολές journalctl-b,neofetch στο Konsole.
+Αφού έκανα την εγκατάσταση των Arch Linux όπως είπα κανονίκα πλέον και όχι σε virtual box έπρεπε να εκτελέσουμε τις εντολές neofetch και journalctl-b στο Konsole.
 
 [![asciicast](https://asciinema.org/a/1Nkljf2kUsFsEoPAWiwHnv1EZ.svg)](https://asciinema.org/a/1Nkljf2kUsFsEoPAWiwHnv1EZ)
 [![asciicast](https://asciinema.org/a/gJsGILhQytgp2T3QPSLLFjgzt.svg)](https://asciinema.org/a/gJsGILhQytgp2T3QPSLLFjgzt)
