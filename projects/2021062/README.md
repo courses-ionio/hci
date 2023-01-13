@@ -65,7 +65,7 @@
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Α2 - ΠΑΡΑΔΟΤΕΟ 5
 Στο πέμπτο παραδοτέο μας ζητήθηκε η δημιουργία των slides και timelines στο αποθετήριο της ιστοσελίδας του βιβλίου.
 
-Το link για την δημιουργία των slides: https://github.com/inf2021062/site/blob/master/_slides/input-device.md
+Το link για την δημιουργία των slides: https://github.com/inf2021062/site/blob/master/_slides/input_devices.md
 
 Το link για την δημιουργια των timelines: https://github.com/inf2021062/site/blob/master/_timeline/scanner.md
 
