@@ -40,6 +40,10 @@
     - [Motherboard](https://github.com/p18kavv/_gallery/blob/bc38e7637a511648ac9472ac01b615eaa5960448/Motherboard.md)
   
     - [RAM](https://github.com/p18kavv/_gallery/blob/bc38e7637a511648ac9472ac01b615eaa5960448/RAM.md)
+ 
+    - [TeamViewer](https://github.com/p18kavv/_gallery/blob/master/TeamViewer.md)
+ 
+    - [Scrcpy](https://github.com/p18kavv/_gallery/blob/master/Scrcpy.md)
   
   <p>Και οι αντίστοιχες εικόνες:</p>
   
@@ -52,6 +56,14 @@
   - [A_RAM.png](https://github.com/p18kavv/images/blob/8b68998bbfa75cf5aaa7c6d3dbf456c130906174/A_RAM.png)
   
   - [A_RAM-thumb.png](https://github.com/p18kavv/images/blob/8b68998bbfa75cf5aaa7c6d3dbf456c130906174/A_RAM-thumb.png)
+
+  - [TeamViewer.png](https://github.com/p18kavv/images/blob/master/TeamViewer.png)
+
+  - [TeamViewer-thumb.png](https://github.com/p18kavv/images/blob/master/TeamViewer-thumb.png)
+
+  - [Scrcpy.png](https://github.com/p18kavv/images/blob/master/Scrcpy.jpg)
+
+  - [Scrcpy-thumb.png](https://github.com/p18kavv/images/blob/master/Scrcpy-thumb.png)
 
 <p>Παρακάτω φαίνεται το Link απο το Netlify.
  
