@@ -68,6 +68,7 @@
 <p>Παρακάτω φαίνεται το Link απο το Netlify.
  
   - [My Site](https://635b2bf8a39741115e2b819f--taupe-chebakia-aaf8b4.netlify.app/)
+  - [The4Beasts Site](https://master--the4beasts.netlify.app/)
  
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
@@ -100,6 +101,7 @@
 - [Στο timeline το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές](https://github.com/The4Beasts/site/tree/master/_timeline)
 - [Το δικό μου timeline](https://github.com/The4Beasts/site/blob/master/_timeline/Contents%20of%20a%20Digital%20System.md)
 - [Το site στο netlify](https://636b600809868914e40447d6--moonlit-rugelach-17f284.netlify.app)
+- [The4Beasts Site](https://master--the4beasts.netlify.app/)
 
 ---
 
