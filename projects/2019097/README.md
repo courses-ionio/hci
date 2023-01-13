@@ -62,7 +62,7 @@
 
 | Περιγραφή | Image Link | Gallery Link |
 | --- | --- | --- |
-| Apple IIcb | [Apple IIcb image](https://github.com/kselionis/images/blob/master/Apple_iicb.jpg) | [Apple IIcb gallery](https://github.com/kselionis/_gallery/blob/master/apple_iicb.md) |
+| Apple IIcb | [Apple IIcb image](https://github.com/kselionis/images/blob/master/apple_iicb.jpg) | [Apple IIcb gallery](https://github.com/kselionis/_gallery/blob/master/apple_iicb.md) |
 | Atari 2600 | [Atari 2600 image](https://github.com/kselionis/images/blob/master/atari_2600.jpg) | [Atari 2600 gallery](https://github.com/kselionis/_gallery/blob/master/atari_2600.md) |
 
 * Βιβλιογραφία: 
