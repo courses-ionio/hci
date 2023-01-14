@@ -195,6 +195,8 @@
 Δημιουργήσα το epubβιβλίο και εκρεμεί η ενσωωμάτωση των συνσωσφορών μου στο συμμετοχικό Β1 και Β2 το οποίο θα λυθεί σύντομα
 
 &nbsp;&nbsp;&nbsp;
+![myron](https://user-images.githubusercontent.com/115289409/212481697-c1974234-0720-4a57-9f31-c6bdf9f92a4e.png)
+![cs](https://user-images.githubusercontent.com/115289409/212482097-1b921db4-9055-426d-adbd-143f29dfadf3.png)
 
 ## Εβδομάδα Δωδέκατη - Τελική αναφορά
 
