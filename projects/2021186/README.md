@@ -15,7 +15,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Συζήτηση](https://github.com/courses-ionio/help/discussions/845), [link της ομάδας](https://github.com/Terminal-Killers) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας  |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1022), [Asciinema: neofetch & journalctl -b commands](https://asciinema.org/a/527852)| Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1266), [Organization Base Site](https://terminal-killers-site.netlify.app/) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1326) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1326), [Asciinema: curl wttr.in](https://asciinema.org/a/533145) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1508), [PR#1](https://github.com/Terminal-Killers/_gallery/pull/18), [PR#2](https://github.com/Terminal-Killers/images/pull/10), [Work#1](https://terminal-killers-site.netlify.app//timeline/programming-languages/), [Work#2](https://terminal-killers-site.netlify.app//slides/vmware/), [Work#3](https://terminal-killers-site.netlify.app//slides/programming/), [Work#4](https://terminal-killers-site.netlify.app//timeline/simulations/) |Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
 | 6 | Κατασκευή του βιβλίου Α |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1593) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 7 | Συμμετοχικό περιεχόμενο B1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1769) | Επιτυχής ολοκλήρωση του παραδοτέου εκτός προθεσμίας|
@@ -62,13 +62,26 @@
  
 # 3ο ΠΑΡΑΔΟΤΕΟ
 
-Η δημιουργία της ιστοσελίδας {[site](https://stamathsp.netlify.app/)} επιτεύχθηκε μετά από πολλές προσπάθειες. Οι προσωπικές μου υποχρεώσεις παραθέτονται από τα παρακάτω links:  
+Η δημιουργία της ιστοσελίδας του [netlify](https://stamathsp.netlify.app/) επιτεύχθηκε μετά από πολλές προσπάθειες. Οι προσωπικές μου υποχρεώσεις παραθέτονται από τα παρακάτω links:  
 - [Γλώσσα Προγραμματισμού Java](https://terminal-killers-site.netlify.app//gallery/java/)
+
+![Screenshot 2023-01-14 183325](https://user-images.githubusercontent.com/95755593/212483628-c5f28943-f032-4d10-9ac9-2d129f44670a.png)
+
+
 - [VMware](https://terminal-killers-site.netlify.app//gallery/vmware/)
+
+![Screenshot 2023-01-14 183444](https://user-images.githubusercontent.com/95755593/212483689-4b0fa1af-b6d6-4a27-9f6b-eca6d7da4985.png)
+
+
 # Pull Requests
 
 1.  [_gallery](https://github.com/Terminal-Killers/_gallery/pull/18)
-2.  [images](https://github.com/Terminal-Killers/images/pull/10)  
+
+![Screenshot 2023-01-14 183832](https://user-images.githubusercontent.com/95755593/212483892-c911da3c-584e-4801-b2b1-d1eed95c57a3.png)
+
+3.  [images](https://github.com/Terminal-Killers/images/pull/10) 
+   
+![Screenshot 2023-01-14 183945](https://user-images.githubusercontent.com/95755593/212483948-b5654696-22e1-44ca-b9bc-e939e8d6921c.png)
 
 
 # 4o ΠΑΡΑΔΟΤΕΟ
