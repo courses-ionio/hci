@@ -194,7 +194,8 @@
 
 # **Ομαδικές συζητήσεις**
 
--[#1927](https://github.com/courses-ionio/help/discussions/1927#discussioncomment-4371487)
--[#1682](https://github.com/courses-ionio/help/discussions/1682#discussioncomment-4187399)
 -[#1431](https://github.com/courses-ionio/help/discussions/1431#discussion-4540677)
+-[#1682](https://github.com/courses-ionio/help/discussions/1682#discussioncomment-4187399)
 -[#1705](https://github.com/courses-ionio/help/discussions/1705#discussioncomment-4441679)
+-[#1927](https://github.com/courses-ionio/help/discussions/1927#discussioncomment-4371487)
+-[#2084](https://github.com/courses-ionio/help/discussions/2084#discussioncomment-4683746)
