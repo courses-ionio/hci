@@ -236,4 +236,9 @@ Netlify links:
 | [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1021) - [Contribution](https://github.com/courses-ionio/help/discussions/1021#discussioncomment-3936168) | 13th Oct 2022 |
 | [5o Παραδοτέο](https://github.com/courses-ionio/help/discussions/1446) - [Contribution](https://github.com/courses-ionio/help/discussions/1446#discussioncomment-4065367) | 5th Nov 2022  |
 
+| *Τελική αναφορά comments* |
+| :-----------------------: |
+| [inf2021148 - Τελική αναφορά](https://github.com/courses-ionio/hci/pull/1911#issuecomment-1382928990) |
+| [Π2019097 - Τελική αναφορά](https://github.com/courses-ionio/hci/pull/1910#issuecomment-1382928570) |
+
 - *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
