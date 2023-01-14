@@ -43,10 +43,10 @@
 
 <p>Και οι αντίστοιχες εικόνες:</p>
 
-- [`Pop2See.png`](https://github.com/Konstantina3/images/blob/master/A_Pop2See.png)
-- [`Pop2See-thumb`](https://github.com/Konstantina3/images/blob/master/A_Pop2See%20-%20thumb.png)
-- [`flash-games.png`](https://github.com/Konstantina3/images/blob/master/A_flash-games.png)
-- [`flash-games-thumb`](https://github.com/Konstantina3/images/blob/master/A_flash-games-thumb.png)
+- [`Pop2See.png`](https://github.com/Konstantina3/images/blob/master/pop2see.png)
+- [`Pop2See-thumb`](https://github.com/Konstantina3/images/blob/master/pop2see%20-%20thumb.png)
+- [`flash-games.png`](https://github.com/Konstantina3/images/blob/master/Flash-games.png)
+- [`flash-games-thumb`](https://github.com/Konstantina3/images/blob/master/Flash-games-thumb.png)
 
 <p>Παρακάτω φαίνονται τα links από το neltify:</p>
 
@@ -161,7 +161,7 @@
 Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα `βιογραφία` στο site του βιβλίου του μαθήματος. Η βιογραφία που επέλεξα αφορά τον Ivan Zhao, ο οποίος δημιούργησε την εφαρμογή Notion. Η συγκεκριμένη βιογραφία σχετίζεται με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline) στα οποία περιγράφω υπηρεσίες λογισμικού.
 
 - [`biography`](https://github.com/Konstantina3/site/blob/master/_biography/Ivan-Zhao-biography.md)
-- [`biography-image`]()
+- [`biography-image`](https://github.com/Konstantina3/images/blob/master/zhao-profile.jpg)
 - [`bio_includes`](https://github.com/Konstantina3/site/blob/master/_includes/bio-zhao.md)
 
 Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
