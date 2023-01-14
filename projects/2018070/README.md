@@ -146,7 +146,7 @@
 
 Παρακάτω παρουσιάζεται τα links από το netlify
 
-- [`My Site`](https://konstantina3.netlify.app/case-study/)
+- [`My Site`](https://konstantina3.netlify.app/case-study/notion/)
 - [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
 ---
 
@@ -177,7 +177,7 @@
 
 Παρακάτω παρουσιάζεται τα links από το netlify
 
-- [`My Site`](https://konstantina3.netlify.app/biography/)
+- [`My Site`](https://konstantina3.netlify.app/biography/ivan-zhao-biography/)
 - [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
 ---
 
