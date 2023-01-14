@@ -108,6 +108,7 @@ EDIT: Έφτιαξα και το [netlify](https://zippy-blini-96b614.netlify.ap
 
 [_includes](https://github.com/StefanosSfinarolakis/site/blob/master/_includes/ken-kutaragi.md)
 [bibliography](https://github.com/StefanosSfinarolakis/bibliography/blob/master/bio-ken-kutaragi.md)
+source: https://en.wikipedia.org/wiki/Ken_Kutaragi
 
 [αναφορά](https://github.com/StefanosSfinarolakis/hci/edit/2021218/projects/2021218/README.md)
 
