@@ -23,7 +23,7 @@
 | 9 | Συμμετοχικό περιεχόμενο B2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1860), [βιβλιογραφία του James Gosling](https://stamathsp.netlify.app//biography/james-gosling/)| Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 10 | Άσκηση γραμμής εντολών |[Συζητηση](https://github.com/courses-ionio/help/discussions/2095) | επιτυχής ολοκλήρωση του παραδοτέου εκτός προσθεσμίας|
 | 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* |[Συζήτηση](https://github.com/courses-ionio/hci/discussions/2096) |επιτυχής ολοκλήρωση του παραδοτέου εκτός προθεσμίας |
+| 12 | Τελική αναφορά* |[Συζήτηση](https://github.com/courses-ionio/help/discussions/2096) |επιτυχής ολοκλήρωση του παραδοτέου εκτός προθεσμίας |
 
 
 
