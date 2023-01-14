@@ -158,8 +158,8 @@ Netlify links:
 Στο συγκερκιμένο παραδοτέο επέλεξα να αναλύσω το dwm επειδή είχα ασχοληθεί ήδη με το συγκερκιμένο window manager και πιστεύω πως είναι ένα απο τα πιο εύχρηστο και light στην χρήση window manager που μπορεί να επιλέξει κάποιος. Στην συνέχεια δημιούργησα ένα αρχείο ([dwm.md](https://github.com/PavTsol/site/blob/paradoteo7/_case-study/dwm.md)) στο [/_case-study](https://github.com/PavTsol/site/blob/paradoteo7/_case-study/), ένα αρχέιο ([cs-dwm.md](https://github.com/PavTsol/site/blob/paradoteo7/_includes/cs-dwm.md)) στο [/includes](https://github.com/PavTsol/site/blob/paradoteo7/_includes/cs-dwm.md) και ένα τελευταίο αρχείο ([cs-dwm.md](https://github.com/PavTsol/extras/blob/paradoteo7/cs-dwm.md)) στο [/includes/extras](https://github.com/PavTsol/extras/blob/paradoteo7/cs-dwm.md).
 
 - ###  Links για τις προσθήκες μου
-    - [Pull request](https://pavtsol.netlify.app/case-study/dwm/)
-    - [Netlify]()
+    - [Pull request]()
+    - [Netlify](https://pavtsol.netlify.app/case-study/dwm/)
 
  - *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
 
