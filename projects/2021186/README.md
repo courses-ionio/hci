@@ -18,9 +18,9 @@
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1326), [Asciinema: curl wttr.in](https://asciinema.org/a/533145) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1508), [PR#1](https://github.com/Terminal-Killers/_gallery/pull/18), [PR#2](https://github.com/Terminal-Killers/images/pull/10), [Work#1](https://terminal-killers-site.netlify.app//timeline/programming-languages/), [Work#2](https://terminal-killers-site.netlify.app//slides/vmware/), [Work#3](https://terminal-killers-site.netlify.app//slides/programming/), [Work#4](https://terminal-killers-site.netlify.app//timeline/simulations/) |Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
 | 6 | Κατασκευή του βιβλίου Α |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1593), [Asciinema: cloning the kallipos repository](https://asciinema.org/a/537143), [Apple iPod](https://github.com/stamathsp/kallipos/blob/master/photo/Screenshot_2022-11-22_17-53-58.jpg) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
-| 7 | Συμμετοχικό περιεχόμενο B1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1769) | Επιτυχής ολοκλήρωση του παραδοτέου εκτός προθεσμίας|
-| 8 | Άσκηση γραμμής εντολών |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1779) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
-| 9 | Συμμετοχικό περιεχόμενο B2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1860)| Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
+| 7 | Συμμετοχικό περιεχόμενο B1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1769), [Java and VMware](https://stamathsp.netlify.app//case-study/java-and-vmware/) | Επιτυχής ολοκλήρωση του παραδοτέου εκτός προθεσμίας|
+| 8 | Άσκηση γραμμής εντολών |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1779), [Java program with script](https://github.com/stamathsp/PARADOTEO-8), [Asciinema: running the script](https://asciinema.org/a/540725) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
+| 9 | Συμμετοχικό περιεχόμενο B2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1860), [βιβλιογραφία του James Gosling](https://stamathsp.netlify.app//biography/james-gosling/)| Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -113,13 +113,32 @@
 
 Στο συγκεκριμένο παραδοτέο είχαμε να δημιουργήσουμε τη μελέτη περίπτωσης.
 
-# Προσωπική Υποχρέωση
+### Προσωπική Υποχρέωση
 
 - Με βάση τα προηγούμενα παραδοτέα αλλά και τα προσωπικά μου αρχεία ([ΠΑΡΑΔΟΤΕΟ 3](https://github.com/courses-ionio/help/discussions/1266), [ΠΑΡΑΔΟΤΕΟ 5](https://github.com/courses-ionio/help/discussions/1508)), ανέλυσα την Αντικειμενοστραφή Γλώσσα Προγραμματισμού [Java](https://stamathsp.netlify.app//case-study/java-and-vmware/)  και έγραψα μια βιογραφία για τον πολυμήχανο ιδρυτή της,  [James Gosling](https://stamathsp.netlify.app//biography/james-gosling/) και πρόσθεσα, στο ίδιο `.md` file, την εικονική μηχανή VMware συναρτήσει με την αξιοποίηση της java. 
 
+- Java and VMware screenshot:
+
+![Screenshot 2023-01-14 191416](https://user-images.githubusercontent.com/95755593/212486174-cd643aaa-f0c3-4168-9f90-6a24461b10c1.png)
 
 
 # 8o ΠΑΡΑΔΟΤΕΟ
 Στο συγκεκριμένο παραδοτέο, είχαμε να δημιουργήσουμε ένα script με θέμα δικό μας. Προσωπικά, έγραψα ένα προγραμματάκι στη γλώσσα προγραμματισμού Java  όπου μετατρέπει τους βαθμούς Φαρενάιτ σε βαθμούς Κελσίου ([Celsius.java](https://github.com/stamathsp/PARADOTEO-8/blob/main/Celsius.java)). 
  
+Screenshot of files:
+
+![Screenshot 2023-01-14 191724](https://user-images.githubusercontent.com/95755593/212486437-dbbc91cb-17f2-4324-902d-532fd716a02a.png)
+
+Asciinema video:
+
+[![asciicast](https://asciinema.org/a/540725.svg)](https://asciinema.org/a/540725)
+
+# 9ο ΠΑΡΑΔΟΤΕΟ
+ 
+Στο συγκεκριμένο παραδοτέο είχαμε να αναζητήσουμε και να δημιουργήσουμε μια νέα βιβλιογραφία. Δημιούργησα ήδη την βιβλιογραφία των προσωπικών μας αρχείων στο προηγούμενο παραδοτέο, ύστερα από μη σωστής κατανόησης του [παραδοτέου 7](https://github.com/courses-ionio/help/discussions/1769). 
+
+Η βιβλιογραφία του ιδρυτή της γλώσσας προγραμματισμού Java: [James Gosling](https://stamathsp.netlify.app//biography/james-gosling/)
+
+![Screenshot 2023-01-14 191623](https://user-images.githubusercontent.com/95755593/212486737-e1c28bd4-fbac-4490-a6b8-b4ff1df982ff.png)
+
 
