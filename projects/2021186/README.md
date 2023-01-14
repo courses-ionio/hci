@@ -49,10 +49,10 @@
 # 2o ΠΑΡΑΔΟΤΕΟ:
 
 Ζητούμενο μας ήταν να γίνει installation της διανομής των Arch Linux και να κατασκευαστεί ένα βίντεο στο οποίο θα τρέξουμε τις ακόλουθες εντολές: `neofetch` και `journalctl -b`. Οφείλω να πω πως η εγκατάσταση του λειτουργικού συστήματος έγινε με επιτυχία! Ακολουθεί σύντομη διαδρομή της εγκατάστασης: 
-1.  Έγινε μόνιμη διαγραφή του προηγούμενου Λογισμικού ( Kali Linux ) ώστε να προχωρήσω στην εγκατάσταση του ζητούμενου λογισμικού (Arch Linux) *
-2. Με βάση το [installation guide της επίσημης σελίδας των Arch LInux](https://wiki.archlinux.org/title/installation_guide) έγινε η διαμόρφωση του δίσκου ώστε να δεσμεύσει χώρο για το EFI, SWAP και Linux File System.
-3. Έγινε configuration ως προς τη διαμόρφωση του [γραφικού περιβάλλοντος](https://wiki.archlinux.org/title/xfce) 
-4. Δημιουργήθηκε ένα προφίλ απλού χρήστη του οποίου δώθηκαν δικαιώματα διαχειριστή (superuser) για να αλλαχθεί το [hostname](https://www.cyberciti.biz/faq/arch-linux-change-hostname-computer-name/) στον ΑΜ μου.
+- Έγινε μόνιμη διαγραφή του προηγούμενου Λογισμικού ( Kali Linux ) ώστε να προχωρήσω στην εγκατάσταση του ζητούμενου λογισμικού (Arch Linux) *
+- Με βάση το [installation guide της επίσημης σελίδας των Arch LInux](https://wiki.archlinux.org/title/installation_guide) έγινε η διαμόρφωση του δίσκου ώστε να δεσμεύσει χώρο για το EFI, SWAP και Linux File System.
+- Έγινε configuration ως προς τη διαμόρφωση του [γραφικού περιβάλλοντος](https://wiki.archlinux.org/title/xfce) 
+- Δημιουργήθηκε ένα προφίλ απλού χρήστη του οποίου δώθηκαν δικαιώματα διαχειριστή (superuser) για να αλλαχθεί το [hostname](https://www.cyberciti.biz/faq/arch-linux-change-hostname-computer-name/) στον ΑΜ μου.
 
 Παραχωρώ το βίντεο που ζητήθηκε να δημιουργήσουμε μέσω του [Asciinema.org](https://asciinema.org):
 
