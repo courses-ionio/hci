@@ -82,12 +82,13 @@ Link Asciinema:
 
 Όλα φαίνονται έτσι όπως είναι στις εικόνες παρακάτω :
 
-![ps1timeline](https://user-images.githubusercontent.com/72515404/202169240-db61df8e-d2c5-4c58-bbde-678e0350db75.png)
-![psvitatimeline](https://user-images.githubusercontent.com/72515404/202169260-ba36e734-120f-4bbd-ba96-e0ae32554fb8.png)
+
+![ps1timeline](https://user-images.githubusercontent.com/72515404/212471473-ddfded26-1fb7-4314-905a-4ed04befd693.png)
+![psvitatimeline](https://user-images.githubusercontent.com/72515404/212471475-04fbf2da-0e7c-44ac-8b1d-8d1d681b2d4d.png)
 ![technology](https://user-images.githubusercontent.com/72515404/202169287-4f82067a-436b-4e30-be91-6a0aaffb8bc5.png)
 
 Προσθήκες κονσόλας : 
- - [Προσθήκες στο χρονολόγιο](https://oroseira2022.netlify.app/timeline/)
+ - [Προσθήκες στο χρονολόγιο](https://oroseira2022.netlify.app/timeline/consoles/)
  - [Προσθήκες στην τεχνολογία](https://oroseira2022.netlify.app/slides/technology/)
 
 Pull request :
