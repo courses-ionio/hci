@@ -70,7 +70,7 @@
 
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
-|    [netlify4oudini](https://inf2021090.netlify.app/gallery/houdini/)  |   [houdini](https://github.com/inf2021090/_gallery/blob/master/houdini.md)    |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
+|    [houdini](https://inf2021090.netlify.app/gallery/houdini/)  |   [houdini](https://github.com/inf2021090/_gallery/blob/master/houdini.md)    |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
 | [blender](https://inf2021090.netlify.app/gallery/blender/)  |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)    |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)         |
 
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
@@ -97,23 +97,19 @@
 <br />
 
 Η εβδομάδα αυτή αφορούσε την δημιουργία ενός νέο χρονολογίου και μίας νέας θεματικής διαφάνιας για κάθε μια από τις εικόνες της τρίτης εβδομάδας. Η  διαδικασία ήταν σχετικά απλή καθώς τα βήμτα ήταν είδη γνωστά από το παραδοτέο 3. Τα χρονολόγια και η διαφάνειες που έγιναν οι προσθήκες μου κατασκευάστηκαν σε συνεργασία με μέλη της ομάδας που είχαμε παρόμοιες θεματικές. Η δική μου συνεισφορά:
-pull request
-(https://github.com/ContattoContare/site/pull/14/commits)
-(https://github.com/inf2021090/kallipos/blob/master/book.pdf)
-(https://elegant-meringue-bf62a4.netlify.app/slides/visual-programming)
  ### Timeline
  
- | Netlify     | Repository  | Pull Request |
-| ----------- | ----------- | -----------  |
-|   [computer-graphics](https://inf2021090.netlify.app/timeline/computer-graphics/)   |   [computer-graphics](https://github.com/inf2021090/site/blob/master/_timeline/computer-graphics.md)    |  [pull req](https://github.com/ContattoContare/site/pull/32)            |
-|  [ar timeline](https://inf2021090.netlify.app/timeline/augmented-reality/) |    [ar]( https://github.com/inf2021090/site/blob/master/_timeline/augmented-reality.md )  |   [pull req](https://github.com/ContattoContare/site/pull/32)           |
+| image | Netlify     | Repository  | Pull Request |
+| ----------- | ----------- | ----------- | -----------  |
+|**blender**|   [computer-graphics](https://inf2021090.netlify.app/timeline/computer-graphics/)   |   [computer-graphics](https://github.com/inf2021090/site/blob/master/_timeline/computer-graphics.md)    |  [pull req](https://github.com/ContattoContare/site/pull/32)            |
+|**houdini**|  [ar ](https://inf2021090.netlify.app/timeline/augmented-reality/) |    [ar]( https://github.com/inf2021090/site/blob/master/_timeline/augmented-reality.md )  |   [pull req](https://github.com/ContattoContare/site/pull/32)           |
 
 ### Slides
 
-|Netlify|Repositiry|Pull Request|
-|---|---|---|
-|[simulation](https://inf2021090.netlify.app/slides/simulation/)|[simulation](https://github.com/inf2021090/site/blob/master/_slides/simulation.md)|[pull req](https://github.com/ContattoContare/site/pull/32)|
-|[graphics design](https://inf2021090.netlify.app/slides/graphic-design/)|[graphics design](https://github.com/inf2021090/site/blob/master/_slides/graphic-design.md)|[pull req](https://github.com/ContattoContare/site/pull/32)|
+|image|Netlify|Repositiry|Pull Request|
+|---|---|---|---|
+|**houdini**|[simulation](https://inf2021090.netlify.app/slides/simulation/)|[simulation](https://github.com/inf2021090/site/blob/master/_slides/simulation.md)|[pull req](https://github.com/ContattoContare/site/pull/32)|
+|**blender**|[graphics design](https://inf2021090.netlify.app/slides/graphic-design/)|[graphics design](https://github.com/inf2021090/site/blob/master/_slides/graphic-design.md)|[pull req](https://github.com/ContattoContare/site/pull/32)|
 
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
@@ -123,11 +119,16 @@ pull request
 
 <br />
 
-&nbsp;&nbsp;&nbsp;Για την κατασκευή του βιβλίου Α έγινε εγκατάσταση του εργαλείου pandoc και του πακέτου texlive-most. Επιπλέον χρειάστηκε να εγκατασταθεί και το φίλτρο pandoc-fignos.
-[contribution](https://github.com/inf2021090/kallipos/blob/master/contribution/comment.md)
-[inf2021090_filter](https://github.com/inf2021090/kallipos/blob/master/inf2021090_filter.lua)
-[book](https://github.com/inf2021090/kallipos/blob/master/book.pdf)
-![alt text](https://github.com/inf2021090/prototypes/blob/main/note.png)
+&nbsp;&nbsp;&nbsp;Για την κατασκευή του βιβλίου Α έγινε εγκατάσταση του εργαλείου pandoc και του πακέτου texlive-most. Επιπλέον χρειάστηκε να εγκατασταθεί και το φίλτρο pandoc-fignos. Για την προσθήκη της σημείωσης δηιουργήθηκαι ένα md αρχείο στο φακελο **contribution** στο αποθετήριο kallipos άφου προηγουμένος έγονε fork από το κεντρικό. Το φίλτρο που χρησιμοποίησα είναι μια κικρή παραλαγγή του extras.lua. Η σημείωση προτέθηηκε στο κεφάλαιο της σύνθεσης καθώς περιγράφει πώς οι χρήστες του λογισμικού blender μπορούν να χρησιμοποιήσουν τις δυνατότητες της εφαρμογής ώστε να κατασκευάσουν τις δικές τους μορφές διάδρασης μαζί της.
+
+|requirment|repositoy|
+|---|---|
+|**contribution**|[blender-scripting.md](https://github.com/inf2021090/kallipos/blob/master/contribution/blender-scripting.md)|
+|**filter**|[inf2021090_filter.lua](https://github.com/inf2021090/kallipos/blob/master/inf2021090_filter.lua)|
+|**book**|[book.pdf]()|
+
+
+![note](https://user-images.githubusercontent.com/115289409/212480717-af91ca49-0da1-4180-b878-c0262c30a88e.png)
 
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
