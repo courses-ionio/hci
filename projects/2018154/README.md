@@ -14,12 +14,12 @@ Organization: [Millennials-2](https://github.com/Millennials-2)
 | [4](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-4--ασκήσεις-γραμμής-εντολών-warm-up) | Άσκηση γραμμής εντολών (warm up cli) | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1410) | |
 | [5](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-5--συμμετοχικό-περιεχόμενο---α2) | Συμμετοχικό περιεχόμενο A2 | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1450) | |
 | [6](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-6--κατασκευή-του-βιβλίου---α) | Κατασκευή του βιβλίου Α | [Συζήτηση](https://github.com/courses-ionio/help/discussions/1655), [Book](https://github.com/PavTsol/kallipos/blob/master/book.pdf) | |
-| [7](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-7--συμμετοχικό-περιεχόμενο---b1) | Συμμετοχικό περιεχόμενο B1 | | |
-| [8](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-8--ασκήσεις-γραμμής-εντολών-warm-up) | Άσκηση γραμμής εντολών | | |
-| [9]() | Συμμετοχικό περιεχόμενο B2 | | |
-| [10]() | Άσκηση γραμμής εντολών | | |
-| [11]() | Κατασκευή του βιβλίου Β | | |
-| [12]() | Τελική αναφορά* | | |
+| [7](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-7--συμμετοχικό-περιεχόμενο---b1) | Συμμετοχικό περιεχόμενο B1 | [Συζήτηση](https://github.com/courses-ionio/help/discussions/2083) | |
+| [8](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-8--ασκήσεις-γραμμής-εντολών-warm-up) | Άσκηση γραμμής εντολών | [Συζήτηση](https://github.com/courses-ionio/help/discussions/2084), [Script](https://github.com/PavTsol/scripts/blob/main/script8.sh) | |
+| [9](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-9--συμμετοχικό-περιεχόμενο---β2) | Συμμετοχικό περιεχόμενο B2 | [Συζήτηση](https://github.com/courses-ionio/help/discussions/2085) | |
+| [10](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-10--ασκήσεις-γραμμής-εντολών) | Άσκηση γραμμής εντολών | [Συζήτηση](https://github.com/courses-ionio/help/discussions/2086), [Script](https://github.com/PavTsol/scripts/blob/main/script10.sh) | |
+| [11](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-11--κατασκευή-του-βιβλίου---β) | Κατασκευή του βιβλίου Β | [Συζήτηση](), [EPUB](https://github.com/PavTsol/kallipos/blob/master/book/book.epub) | |
+| [12](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#παραδοτεο-12--τελική-αναφορά) | Τελική αναφορά* | [Συζήτηση]() | |
 
 
 ## ΠΑΡΑΔΟΤΕΟ 1 | Εισαγωγή
@@ -158,7 +158,7 @@ Netlify links:
 Στο συγκερκιμένο παραδοτέο επέλεξα να αναλύσω το dwm επειδή είχα ασχοληθεί ήδη με το συγκερκιμένο window manager και πιστεύω πως είναι ένα απο τα πιο εύχρηστο και light στην χρήση window manager που μπορεί να επιλέξει κάποιος. Στην συνέχεια δημιούργησα ένα αρχείο ([dwm.md](https://github.com/PavTsol/site/blob/paradoteo7/_case-study/dwm.md)) στο [/_case-study](https://github.com/PavTsol/site/blob/paradoteo7/_case-study/), ένα αρχέιο ([cs-dwm.md](https://github.com/PavTsol/site/blob/paradoteo7/_includes/cs-dwm.md)) στο [/includes](https://github.com/PavTsol/site/blob/paradoteo7/_includes/cs-dwm.md) και ένα τελευταίο αρχείο ([cs-dwm.md](https://github.com/PavTsol/extras/blob/paradoteo7/cs-dwm.md)) στο [/includes/extras](https://github.com/PavTsol/extras/blob/paradoteo7/cs-dwm.md).
 
 - ###  Links για τις προσθήκες μου
-    - [Pull request]()
+    - [Pull request](https://github.com/Millennials-2/site/pull/4)
     - [Netlify](https://pavtsol.netlify.app/case-study/dwm/)
 
  - *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
@@ -169,7 +169,7 @@ Netlify links:
 
 Αρχικά χρησιμοποιεί την εντολή echo για να ζητήσει από τον χρήστη το όνομα του αρχείου και την επιθυμητή μορφή εξόδου. Η είσοδος του χρήστη αποθηκεύεται στις μεταβλητές file_name και output_format, αντίστοιχα. Στη συνέχεια, χρησιμοποιεί την εντολή `if [ -f $file_name ]` για να ελέγξει εάν το αρχείο υπάρχει. Εάν το αρχείο υπάρχει, τότε ελέγχει αν η επιθυμητή μορφή εξόδου είναι pdf ή docx χρησιμοποιώντας τις εντολές `if [ $output_format == "pdf" ]` και `elif [ $output_format == "docx" ]`. Εάν η επιθυμητή μορφή εξόδου είναι είτε pdf είτε docx, συνεχίζει με την εντολή pandoc για να μετατρέψει το αρχείο στην επιθυμητή μορφή. Εάν αυτή η μορφή δεν είναι pdf ή docx ή εάν το αρχείο δεν υπάρχει, τότε εξάγει ένα μήνυμα σφάλματος.
 
- - [asciinema link]()
+ - [asciinema link](https://asciinema.org/a/551642)
 
  - *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
 
@@ -180,7 +180,7 @@ Netlify links:
 Η υλοποίηση του παραδοτέου ήταν σχεδόν παρόμοια με το συμμετοχικό περιεχόμενο - [Β1](https://github.com/PavTsol/hci/edit/2018154/projects/2018154/README.md#παραδοτεο-7--συμμετοχικό-περιεχόμενο---b1), δηλαδή δημιούργησα πάλι τρία αρχέια, ένα στο [/biography]() με όνομα [david-smith.md](https://github.com/PavTsol/site/blob/paradoteo9/_biography/david-smith.md), ένα στο [/includes] με όνομα [bio-david.md](https://github.com/PavTsol/site/blob/paradoteo9/_includes/bio-david.md) και ένα τελευταίο στο [/includes/extras]() με όνομα [bio-david.md](https://github.com/PavTsol/extras/blob/paradoteo9/bio-david.md)
 
  - ###  Links για τις προσθήκες μου
-    - [Pull request]()
+    - [Pull request](https://github.com/Millennials-2/site/pull/5)
     - [Netlify](https://pavtsol.netlify.app/biography/david-smith/)
 
  - *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
@@ -189,11 +189,17 @@ Netlify links:
 
 Στο τελευταίο παραδοτέο σχετικά με ασκήσεις γραμμής εντολών επέλεξα να φτιαξω ένα [shell script](https://github.com/PavTsol/scripts/blob/main/script10.sh) πάλι το οποίο χρησιμοποιεί την εντολή `mkdir` για να δημιουργήσει τους απαραίτητους φακέλους για ένα static site, όπως css, js, img και posts. Χρησιμοποιεί επίσης την εντολή `touch` για να δημιουργήσει τα απαραίτητα αρχεία, όπως index.html, style.css και main.js. Στη συνέχεια κάνει βρόχο σε όλα τα αρχεία markdown στο φάκελο posts χρησιμοποιώντας την εντολή `for` για κάθε αρχείο, εξάγει το όνομα του αρχείου χωρίς το extension, στη συνέχεια χρησιμοποιεί την εντολή pandoc για να μετατρέψει το αρχείο markdown σε HTML, αποθηκεύει την έξοδο ως ένα νέο αρχείο με το ίδιο όνομα αλλά με επέκταση .html.
 
- - [asciinema link]()
+ - [asciinema link](https://asciinema.org/a/551643)
 
  - *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
 
 ## ΠΑΡΑΔΟΤΕΟ 11 | Κατασκευή του βιβλίου - Β
+  
+Στο τελευταίο παραδοτέο του μαθήματος έπρεπε να προσθέσουμε το case study και την βιογραφία που φτιάξαμε σε προηγούμενα παραδοτέα στο βιβλίο του μαθήματος αλλά και να το μετατρέψουμε σε μορφή epub. Αρχικά πρόσθεσα τα αρχέια markdown ([dwm.md](https://github.com/PavTsol/kallipos/blob/master/mc_c/dwm.md) & [david-smith.md](https://github.com/PavTsol/kallipos/blob/master/mc_c/david-smith.md)) στον [φάκελο](https://github.com/PavTsol/kallipos/tree/master/mc_c) μου αλλά έκανα και κάποιες αλλαγές στο αρχέιο [extras-ch01.txt](https://github.com/PavTsol/extras/blob/f7deaf5d4d3428866da207b31d608db359126072/extras-ch01.txt) ώστε να φένονται στο βιβλίο. Στην συνέχεια πρόσθεσα κάποιες εντολές στο script [make-latex.sh](https://github.com/PavTsol/kallipos/blob/master/make-latex.sh), συγκεκριμένα τις τελευταιές 4 εντολές ώστε να φτιάχνει το βιβλίο στις μορφές: [tex](https://github.com/PavTsol/kallipos/blob/master/book/book.tex), [pdf](https://github.com/PavTsol/kallipos/blob/master/book/book.pdf) και [epub](https://github.com/PavTsol/kallipos/blob/master/book/book.epub) και τις μετακινεί σε έναν φάκελο [book](https://github.com/PavTsol/kallipos/tree/master/book).
+
+Παρακάτω βρίσκεται και ένα screenshot από το βιβλίο σε μορφή epub με τις προσθήκες μου.
+
+![screenshot](https://github.com/PavTsol/images/blob/master/epub-ss.jpg)
 
 
  - *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
