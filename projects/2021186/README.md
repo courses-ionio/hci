@@ -17,7 +17,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1266), [Organization Base Site](https://terminal-killers-site.netlify.app/) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1326), [Asciinema: curl wttr.in](https://asciinema.org/a/533145) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1508), [PR#1](https://github.com/Terminal-Killers/_gallery/pull/18), [PR#2](https://github.com/Terminal-Killers/images/pull/10), [Work#1](https://terminal-killers-site.netlify.app//timeline/programming-languages/), [Work#2](https://terminal-killers-site.netlify.app//slides/vmware/), [Work#3](https://terminal-killers-site.netlify.app//slides/programming/), [Work#4](https://terminal-killers-site.netlify.app//timeline/simulations/) |Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας |
-| 6 | Κατασκευή του βιβλίου Α |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1593), [Asciinema: cloning the kallipos repository](https://asciinema.org/a/537143) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
+| 6 | Κατασκευή του βιβλίου Α |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1593), [Asciinema: cloning the kallipos repository](https://asciinema.org/a/537143), [Apple iPod](https://github.com/stamathsp/kallipos/blob/master/photo/Screenshot_2022-11-22_17-53-58.jpg) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 7 | Συμμετοχικό περιεχόμενο B1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1769) | Επιτυχής ολοκλήρωση του παραδοτέου εκτός προθεσμίας|
 | 8 | Άσκηση γραμμής εντολών |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1779) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 9 | Συμμετοχικό περιεχόμενο B2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1860)| Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
@@ -105,6 +105,9 @@
 
 Στο παραδοτέο 6 μας ζητήθηκε να κατασκευάσουμε το [βιβλίο](https://github.com/courses-ionio/hci/discussions/1832), εγκαθιστώντας αρχικά τις απαραίτητες βιβλιοθήκες ([pandoc](https://pandoc.org/), [latex](https://www.latex-project.org/)) που υποστηρίζουν την δημιουργία του βιβλίου και στη συνέχεια να πρόσθεσουμε το προσωπικό μας αρχείο που καλούμαστε να δημιουργήσουμε. Προσωπικά, δημιούργησα ένα αρχείο με κατάληξη `.md` με τίτλο [`Apple iPod`](https://github.com/stamathsp/kallipos/blob/master/photo/Screenshot_2022-11-22_17-53-58.jpg).
 
+Ακολουθεί Asciinema βίντεο με την εντολή `git clone https://github.com/mibook/kallipos `: 
+
+[![asciicast](https://asciinema.org/a/537143.svg)](https://asciinema.org/a/537143)
 
 # 7o ΠΑΡΑΔΟΤΕΟ
 
