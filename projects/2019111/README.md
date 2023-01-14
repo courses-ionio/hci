@@ -44,17 +44,21 @@
 
 # Παραδοτέο 3 Συμμετοχικό περιεχόμενο A1
 
-[αρχείο 1](https://jocular-fudge-f3d53f.netlify.app/gallery/mac1/)
+# [Ibm5100](https://incandescent-puppy-80c17f.netlify.app/gallery/ibm5100/)
 
-![macOS](https://user-images.githubusercontent.com/72515759/201117055-eac84211-3809-4982-94ff-6c1935c72ce0.png)
+![ibm5100-thumb](https://user-images.githubusercontent.com/72515759/212500361-652d3335-c517-4aa2-b425-d1acb2793666.jpg)
 
-[αρχείο 2](https://jocular-fudge-f3d53f.netlify.app/gallery/applepda/)
-
-![apple_pda](https://user-images.githubusercontent.com/72515759/201117010-d4148622-3379-4b35-b904-4274932bcf88.png)
+<br> Η πρώτη προσθήκη που αποφάσισα να κάνω είναι ένας απο τους πρώτους φορητούς υπολογιστές που φτιάχτηκαν, συγκεκριμένα αυτός της Ibm με ονομασία IBM5100 ο οποίος σαν πρωτοπόρα ιδέα σε αυτό το μοντέλο είχε την προσθήκη ενσωματωμένης οθόνης σε έναν φορητό υπολογιστή. Ειδικότερα έλυνε το θέμα της φορητότητας που ως τότε η μεταφορά του προσωπικού υπολογιστή δεν ήταν εύκολη λόγο μεγέθους.
 
 
-[images pr](https://github.com/Oroseira/images/pull/7)
-[_gallery pr](https://github.com/Oroseira/_gallery/pull/5)
+
+
+# [Deluxe Paint](https://jocular-fudge-f3d53f.netlify.app/gallery/applepda/)
+
+![deluxepaint-thumb](https://user-images.githubusercontent.com/72515759/212500347-d89faa3b-10e4-4fd1-b608-c48f1c103145.png)
+
+<br> Ως δεύτερη προσθήκη επέλεξα μια απο τις πρώτες ολοκληρωμένες εφαρμογές που μας έδινε την δυνατότητα να σχεδιάζουμε στην οθόνη με πολλά χρώματα οπου για την εποχή του τα 256 διαφορετικά χρώματα ήταν πολύ προχωρημένο καθώς καμία άλλη εφαρμογή δεν είχε καταφέρει κάτι αντίστοιχο. Πέραν απο την μεγάλη γκάμα χρωμάτων είχε πολύ αυξήμενη ακρίβεια στον σχεδιασμό , το οποίο βοηθούσε για μεγάλες εικόνες.
+για σχεδιασμό και γενικότερα της ζωγραφικής που  
 
 
 # Παραδοτέο 4 warm up Ασκησεις
