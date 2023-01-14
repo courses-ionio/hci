@@ -193,11 +193,23 @@
 # **Συμμετοχικό Περιεχόμενο Β2**
 
 ## Για το Παραδοτέο09
-  
-  
+
+Σύνταξα την Βιογραφία του Jim Thatcher τον δημιουργό του IBM Screen Reader /2, τον πρώτο αναγνώστη οθόνης για συστήματα με γραφικό περιβάλλον.
+
+### Αρχεία .md:
+
+- [bio-jimthatcher.md](https://github.com/aggelos2000430/extras/blob/f018a06e4d0307a5dbe545e89d192dbb3cba2078/bio-jimthatcher.md)
+- [_biography](https://github.com/aggelos2000430/site/blob/master/_biography/Jim-thatcher.md)
+- [images](https://github.com/aggelos2000430/images/blob/c031e66b32f019080d7b64bd00b98f4dff2d273d/Jimthathcer.jpg)
+
+### Οι προσθήκες στο Site:
+
+- []()
+ 
 - [Πηγή 1](https://www.ibm.com/blogs/age-and-ability/2019/12/10/ibm-accessibility-tribute-to-jim-thatcher/)
 - [Πηγή 2](https://en.wikipedia.org/wiki/James_W._Thatcher)
-  
+ 
+ 
 # **Συμπεράσματα**
   
 ### Τελική Αναφορά - Παραδοτέο 12
