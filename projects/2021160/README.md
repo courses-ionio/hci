@@ -12,13 +12,13 @@ Github Προφίλ: [TheBond8](https://github.com/TheBond08)
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1154)|Επιτυχής ολοκλήρωση του παραδοτέου|
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/2074#discussion-4754625)|Επιτυχής ολοκλήρωση του παραδοτέου|
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1456)|Επιτυχής ολοκλήρωση του παραδοτέου|
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 | |Ανεπιτυχής ολοκλήρωση του παραδοτέου|
 | 6 | Κατασκευή του βιβλίου Α |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1729)|Επιτυχής ολοκλήρωση του παραδοτέου|
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 | |Ανεπιτυχής ολοκλήρωση του παραδοτέου |
 | 8 | Άσκηση γραμμής εντολών |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1794)|Επιτυχής ολοκλήρωση του παραδοτέου|
 | 9 | Συμμετοχικό περιεχόμενο B2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1826)|Επιτυχής ολοκλήρωση του παραδοτέου|
 | 10 | Άσκηση γραμμής εντολών |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1926#discussion-4647708)|Επιτυχής ολοκλήρωση του παραδοτέου|
-| 11 | Κατασκευή του βιβλίου Β | | |
+| 11 | Κατασκευή του βιβλίου Β | |Ανεπιτυχής ολοκλήρωση του παραδοτέου|
 | 12 | Τελική αναφορά* | | |
 
 # 1ο Παραδοτέο: Εισαγωγή
@@ -43,7 +43,12 @@ Github Προφίλ: [TheBond8](https://github.com/TheBond08)
 Παραθέτω παρακάτω τους κατάλληλους συνδέσμους για την προσωπική μου συνεισφορά:
 
 - [Html Language](https://terminal-killers-site.netlify.app/gallery/html/)
+
+![HTML](https://user-images.githubusercontent.com/101583061/212491622-b962f474-b22a-42a0-b9ee-e646ae17f27d.JPG)
+
 - [Machine Learning](https://terminal-killers-site.netlify.app/gallery/machine_learning/)
+
+![MachineLearning](https://user-images.githubusercontent.com/101583061/212491544-aaff1109-3b00-4542-8ed5-c87e48bcc0f6.JPG)
 
 ---
 Pull requests:
@@ -73,12 +78,18 @@ Pull requests:
 4) Το αρχείο σε [docx](https://github.com/TheBond08/Paradoteo-8/blob/main/myreport.docx)
 5) Το αρχείο σε [html](https://github.com/TheBond08/Paradoteo-8/blob/main/myreport.html)
 
+Προσωπικό αποθετήριο στο github:
+
+![Paradote8](https://user-images.githubusercontent.com/101583061/212491746-36c6242e-e28c-4f08-9a82-b5998ca80f14.JPG)
+
 # 9ο Παραδοτέο: Συμμετοχικό περιεχόμενο B2
 Σε αυτό το παραδοτέο δημιούργησα την βιογραφία του Tim Berners-Lee, του εφευρέτη του Παγκόσμιου Ιστού, καθώς και της σημαντικής γλώσσας προγραμματισμού `HTML`. Παραθέτω παρακάτω τους σχετικούς συνδέσμους:
 
 1) Βιογραφία στο site [netfily](https://thebondsite.netlify.app/biography/berners-lee/)
 2) Στον φάκελο _includes το αρχείο: [bio_Berners-Lee.md](https://github.com/TheBond08/site/blob/master/_includes/bio_Berners-Lee.md)
 3) Στον φάκελο _biography το αρχείο: [Berners-Lee.md](https://github.com/TheBond08/site/blob/master/_biography/Berners-Lee.md)
+
+![Berners-Lee](https://user-images.githubusercontent.com/101583061/212491935-1bc3a0a0-43a2-4d60-8db3-9ea9983b3788.JPG)
 
 # 10ο Παραδοτέο: Άσκηση γραμμής εντολών
 Το παραδοτέο αυτό αποτελεί συνέχεια της Άσκηση Γραμμής Εντολών #2. Επέλεξα να ολοκληρώσω την πρώτη και την τελευταία άσκηση `Format your report` και `Use the terminal as an IDE` αντίστοιχα. Χρησιμοποιώντας το Groff υλοποίησα την αναφορά μου σε αρχείο με όνομα myreport, και μέσω του Vim την έλεγξα. 
