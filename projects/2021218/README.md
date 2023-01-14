@@ -84,6 +84,7 @@
 [myfilter](https://github.com/StefanosSfinarolakis/kallipos/blob/master/myfilter.lua)
 [mycommit](https://github.com/StefanosSfinarolakis/kallipos/blob/master/contribution/earlygamingconsoles.md)
 [about](https://github.com/StefanosSfinarolakis/hci/tree/2021218/projects/2021218)
+source: https://en.wikipedia.org/wiki/Magnavox_Odyssey
 
 ## Eβδομάδα Έβδομη - Συμμετοχικό περιεχόμενο B1
 
