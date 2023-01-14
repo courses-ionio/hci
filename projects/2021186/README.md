@@ -49,7 +49,7 @@
 # 2o ΠΑΡΑΔΟΤΕΟ:
 
 Ζητούμενο μας ήταν να γίνει installation της διανομής των Arch Linux και να κατασκευαστεί ένα βίντεο στο οποίο θα τρέξουμε τις ακόλουθες εντολές: `neofetch` και `journalctl -b`. Οφείλω να πω πως η εγκατάσταση του λειτουργικού συστήματος έγινε με επιτυχία! Ακολουθεί σύντομη διαδρομή της εγκατάστασης: 
-- Έγινε μόνιμη διαγραφή του προηγούμενου Λογισμικού ( Kali Linux ) ώστε να προχωρήσω στην εγκατάσταση του ζητούμενου λογισμικού (Arch Linux) *
+- <ins>Έγινε μόνιμη διαγραφή του προηγούμενου Λογισμικού ( Kali Linux ) ώστε να προχωρήσω στην εγκατάσταση του ζητούμενου λογισμικού (Arch Linux)</ins> *
 - Με βάση το [installation guide της επίσημης σελίδας των Arch LInux](https://wiki.archlinux.org/title/installation_guide) έγινε η διαμόρφωση του δίσκου ώστε να δεσμεύσει χώρο για το EFI, SWAP και Linux File System.
 - Έγινε configuration ως προς τη διαμόρφωση του [γραφικού περιβάλλοντος](https://wiki.archlinux.org/title/xfce) 
 - Δημιουργήθηκε ένα προφίλ απλού χρήστη του οποίου δώθηκαν δικαιώματα διαχειριστή (superuser) για να αλλαχθεί το [hostname](https://www.cyberciti.biz/faq/arch-linux-change-hostname-computer-name/) στον ΑΜ μου.
@@ -58,12 +58,11 @@
 
 [![asciicast](https://asciinema.org/a/527852.svg)](https://asciinema.org/a/527852)
 
-*(Σημείωση): Το installation της διανομής αυτής είναι καθολικό και όχι σε VM.
+<ins>*(Σημείωση): Το installation της διανομής αυτής είναι καθολικό και όχι σε VM.</ins>
  
 # 3ο ΠΑΡΑΔΟΤΕΟ
 
-Η δημιουργία της ιστοσελίδας {[site](https://stamathsp.netlify.app/)} επιτεύχθηκε μετά από πολλές προσπάθειες. Οι προσωπικές μου υποχρεώσεις είναι: 
-(Παραθέτω τους συνδέσμους των sites) 
+Η δημιουργία της ιστοσελίδας {[site](https://stamathsp.netlify.app/)} επιτεύχθηκε μετά από πολλές προσπάθειες. Οι προσωπικές μου υποχρεώσεις παραθέτονται από τα παρακάτω links:  
 - [Γλώσσα Προγραμματισμού Java](https://terminal-killers-site.netlify.app//gallery/java/)
 - [VMware](https://terminal-killers-site.netlify.app//gallery/vmware/)
 # Pull Requests
