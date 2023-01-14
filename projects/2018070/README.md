@@ -129,6 +129,7 @@
 Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα `μελέτη περίπτωσης` στο site του βιβλίου. Το case study που επέλεξα σχετίζεται άμεσα με τα προηγούμενα παραδοτέα (`gallery`, `images`, `slides`, `timeline`), αλλά και με το περιεχόμενο της εισαγωγής μου, καθώς αφορά ένα καινοτόμο εργαλείο που προσφέρει άμεση διάδραση με τον χρήστη και τις ικανότητές του. Τα αποτελέσματα φαίνονται παρακάτω:
 
 - [`case study`](https://github.com/Konstantina3/site/blob/master/_case-study/Notion.md)
+- [`cs_includes`](https://github.com/Konstantina3/site/blob/master/_includes/cs-notion.md)
 - [`case-study-image`](https://github.com/Konstantina3/images/blob/master/notion.png)
 
 Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
@@ -157,10 +158,11 @@
 ---
 
 # Παραδοτέο 9: Συμμετοχικό περιεχόμενο Β2
-Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα `βιογραφία` στο site του βιβλίου του μαθήματος. Η βιογραφία που επέλεξα αφορά την Margaret Hamilton, η οποία θεωρείται η "μητέρα" της μηχανικής λογισμικής. Η συγκεκριμένη βιογραφία σχετίζεται με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline) στα οποία περιγράφω υπηρεσίες λογισμικού.
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα `βιογραφία` στο site του βιβλίου του μαθήματος. Η βιογραφία που επέλεξα αφορά τον Ivan Zhao, ο οποίος δημιούργησε την εφαρμογή Notion. Η συγκεκριμένη βιογραφία σχετίζεται με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline) στα οποία περιγράφω υπηρεσίες λογισμικού.
 
-- [`biography`](https://github.com/Konstantina3/site/blob/master/_biography/Margaret-Hamilton-biography.md)
-- [`biography-image`](https://github.com/Konstantina3/images/blob/master/hamilton-profile.jpg)
+- [`biography`](https://github.com/Konstantina3/site/blob/master/_biography/Ivan-Zhao-biography.md)
+- [`biography-image`]()
+- [`bio_includes`](https://github.com/Konstantina3/site/blob/master/_includes/bio-zhao.md)
 
 Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
 
@@ -170,7 +172,8 @@
 
 Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
 
-- [`Margaret-Hamilton`](https://news.mit.edu/2016/scene-at-mit-margaret-hamilton-apollo-code-0817)
+- [`Ivan Zhao - part 1`](https://blockbyblock.notion.com/speakers/ivan-zhao)
+- [`Ivan Zhao - part 2`](https://www.sequoiacap.com/article/notion-spotlight/)
 
 Παρακάτω παρουσιάζεται τα links από το netlify
 
