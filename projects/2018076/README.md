@@ -190,6 +190,13 @@
 <p align="center">
 <a href="https://asciinema.org/a/551529" target="_blank"><img src="https://asciinema.org/a/551529.svg" width="70%" />
   
+# **Συμμετοχικό Περιεχόμενο Β2**
+
+## Για το Παραδοτέο09
+  
+  
+- [Πηγή 1](https://www.ibm.com/blogs/age-and-ability/2019/12/10/ibm-accessibility-tribute-to-jim-thatcher/)
+  
 # **Συμπεράσματα**
   
 ### Τελική Αναφορά - Παραδοτέο 12
