@@ -41,6 +41,8 @@
 
 &nbsp;&nbsp;&nbsp;
 
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
+
 ## Εβδομάδα Δεύτερη - Άσκηση γραμμής εντολών (linux install)
 
 <br /> 
@@ -53,6 +55,9 @@
 Γνωστά προβήματα:
 1. Για uefi συστήματα:Επιστροφή στις εργοστασιακές ρυθμήσεις και απενεργοποίηση του secure boot πριν την εγκατάσταση
 2. Αδυναμία συνδεσης στο internet με την εντολή iwctl:Δεν υπάρχει ή δεν αναγνωρίζεται η κάρτα δικτύου μια λύση είναι καλώδιο ethernet αν υπάρχει αντίστοιχη θύρα
+
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
+
 ## Εβδομάδα Τρίτη - Συμμετοχικό περιεχόμενο Α1
 
 <br />
@@ -68,6 +73,8 @@
 |    [netlify4oudini](https://inf2021090.netlify.app/gallery/houdini/)  |   [houdini](https://github.com/inf2021090/_gallery/blob/master/houdini.md)    |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
 | [blender](https://inf2021090.netlify.app/gallery/blender/)  |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)    |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)         |
 
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
+
 *Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο [ΠΑΡΑΤΗΜΑ](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1)
 
 ## Εβδομάδα Τέταρτη - Άσκηση γραμμής εντολών (warm up cli)
@@ -82,6 +89,8 @@
 &nbsp;&nbsp;&nbsp;Εφόσον το μεγαλύτερο μέρος της δουλειάς γίνεται μέσω τερματικού ,θεωρώ πως η οργάνωση του είναι ιδιαίτερα σημαντική.Έτσι αποφάσισα να εξοικειωθώ με τον διαχωρισμό του τερματικού για καλύτερο worrkflow.Εγκτατέστησα το tmux από το pacman και το w3m,έναν text based browser καθώς και το htop για έλεγχο επίδοσης.Εκτέλεσα και κατέγραψα ένα διαχωρισμό του τερματικού με το ένα μέρος να γίνεται η αναζήτηση και το άλλο ο έλεγχος.
 
 [![asciicast](https://asciinema.org/a/suYwtdVlWcfOeT41PPFgY9gd0.svg)](https://asciinema.org/a/suYwtdVlWcfOeT41PPFgY9gd0)
+
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
 ## Εβδομάδα Πέμπτη - Συμμετοχικό περιεχόμενο Α2
 
@@ -106,6 +115,8 @@ pull request
 |[simulation](https://inf2021090.netlify.app/slides/simulation/)|[simulation](https://github.com/inf2021090/site/blob/master/_slides/simulation.md)|[pull req](https://github.com/ContattoContare/site/pull/32)|
 |[graphics design](https://inf2021090.netlify.app/slides/graphic-design/)|[graphics design](https://github.com/inf2021090/site/blob/master/_slides/graphic-design.md)|[pull req](https://github.com/ContattoContare/site/pull/32)|
 
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
+
 *Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο [ΠΑΡΑΤΗΜΑ](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1)
 
 ## Εβδομάδα Έκτη - Κατασκευή του βιβλίου Α
@@ -118,6 +129,8 @@ pull request
 [book](https://github.com/inf2021090/kallipos/blob/master/book.pdf)
 ![alt text](https://github.com/inf2021090/prototypes/blob/main/note.png)
 
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
+
 ## Εβδομάδα Έβδομη - Συμμετοχικό περιεόμενο Β1
 
 <br />
@@ -128,6 +141,7 @@ pull request
 | ----------- | ----------- | -----------  |
 |   https://testsite-inf2021090.netlify.app/case-study/graphics-3d/   |       |              |
                             
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
 ## Εβδομάδα Όγδοη - Άσκηση γραμμής εντολών (HCI)
 
@@ -144,6 +158,8 @@ pull request
 
 *TOOLS:* tmux, w3m , bash scripts, vim
 
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
+
 ## Εβδομάδα Ένατη - Συμμετοχικό περιεόμενο Β2
 
 <br />
@@ -153,6 +169,8 @@ pull request
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
 |   [myronkrueger](https://testsite-inf2021090.netlify.app/biography/myron-krueger/)   | [myronkrueger]()      |  [myronkrueger]()              |
+
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
 ## Εβδομάδα Δέκατη - Άσκηση γραμμής εντολών (HCI)
 
@@ -168,6 +186,8 @@ pull request
 
 *TOOLS:* vim vimwiki pandoc
 
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
+
 ## Εβδομάδα Eνδέκατη - Κατασκευή του βιβλίου B
 
 <br />
@@ -182,10 +202,14 @@ pull request
 Γνώρισα εργαλεία και εναλλακτικές μεθόδους τα οποία θα μπορώ να εφαρμόζω στις πανεπιστημιακές μου υποχρεώσεις αλλά και σε άλλες δραστηριότητες μου περιλαμβάνουν τον υπολογιστή.
 <br />
 
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
+
 ## Ομαδικότητα και συνεργασία
 
 <br />
 https://github.com/courses-ionio/help/discussions/1992
+
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
 ## Δικτυογραφία-Πηγές
 
@@ -226,6 +250,7 @@ https://github.com/courses-ionio/help/discussions/1992
 * [video](https://www.youtube.com/watch?v=dmmxVA5xhuo)
 * [video](https://www.youtube.com/watch?v=VdrujesfIBQ)
 
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 ## ΠΑΡΑΡΤΗΜΑ
 
 |παλιά pull requsts|
@@ -236,3 +261,5 @@ https://github.com/courses-ionio/help/discussions/1992
 |[παλιό](https://github.com/ContattoContare/site/pull/14/commits)|
 |[παλιό](https://github.com/inf2021090/kallipos/blob/master/book.pdf)|
 |[παλιό](https://elegant-meringue-bf62a4.netlify.app/slides/visual-programming)|
+
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
