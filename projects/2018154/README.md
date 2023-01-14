@@ -161,6 +161,10 @@ Netlify links:
     - [Pull request](https://github.com/Millennials-2/site/pull/4)
     - [Netlify](https://pavtsol.netlify.app/case-study/dwm/)
 
+- ### Πηγές 
+    - [Suckless](https://dwm.suckless.org)
+    - [An Infinite-Pane, Zooming User Interface Window Manager and Survey of X Window Managers](https://our.oakland.edu/bitstream/handle/10323/4785/An%20Infinite-Pane%2c%20Zooming%20User%20Interface%20Window%20Manager%20and%20Survey%20of%20X%20Window%20Managers.pdf?sequence=1&isAllowed=y)
+    
  - *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
 
 ## ΠΑΡΑΔΟΤΕΟ 8 | Ασκήσεις γραμμής εντολών
@@ -183,6 +187,9 @@ Netlify links:
     - [Pull request](https://github.com/Millennials-2/site/pull/5)
     - [Netlify](https://pavtsol.netlify.app/biography/david-smith/)
 
+- ### Πηγές 
+  - [The alto and ethernet software](http://www.bwlampson.site/38-AltoSoftware/WebPage.html)
+  
  - *[Go to top](https://github.com/PavTsol/hci/tree/2018154/projects/2018154#επικοινωνία-ανθρώπου-υπολογιστή)*
 
 ## ΠΑΡΑΔΟΤΕΟ 10 | Ασκήσεις γραμμής εντολών
