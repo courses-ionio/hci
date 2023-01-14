@@ -7,15 +7,15 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Discussions](https://github.com/courses-ionio/help/discussions/825) | |
-| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | [Discussions](https://github.com/courses-ionio/help/discussions/1240) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | [Discussions](https://github.com/courses-ionio/help/discussions/1241) | |
-| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | [Discussions](https://github.com/courses-ionio/help/discussions/1240) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | [Discussions](https://github.com/courses-ionio/help/discussions/1242) | |
-| 6 | Κατασκευή του βιβλίου Α | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Discussions](https://github.com/courses-ionio/help/discussions/825) | 10/10 καθώς όλα τα ζητούμενα εκτελέστηκαν |
+| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | [Discussions](https://github.com/courses-ionio/help/discussions/1240) | 10/10 καθώς έκανα κατευθείαν install σε hw που είναι πιο απαιτητικό από το vm |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Discussions](https://github.com/courses-ionio/help/discussions/1241) | 9/10 γιατί ήταν μια σχετική προσθήκη με την διάδραση αλλά και με ήδη υπάρχοντα του βιβλίου |
+| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | [Discussions](https://github.com/courses-ionio/help/discussions/1240) | 10/10 καθώς έγινε επιτυχημένα το install σε hw |
+| 5 | Συμμετοχικό περιεχόμενο A2 | [Discussions](https://github.com/courses-ionio/help/discussions/1242) | 7/10 γιατί δεν κατασκεύασα καινούργια timelines και slides |
+| 6 | Κατασκευή του βιβλίου Α | [Discussions](https://github.com/courses-ionio/help/discussions/2089) | 8/10 γιατί ενώ το έκανα επιτυχημένα και ο σχολιασμός μου ήταν σε εύστοχο κεφάλαιο αλλά υπήρξε μια καθυστέρηση  |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Discussions](https://github.com/courses-ionio/help/discussions/2090) | 8/10 γιατί ήταν άμεσα σχετικό με τα προηγούμενα αλλά θα μπορούσα να εμβαθύνω περισσότερο |
+| 8 | Άσκηση γραμμής εντολών | [Discussions](https://github.com/courses-ionio/help/discussions/2091) | 8/10 γιατί ήταν μέσα από αυτά που ζητιόντουσαν και το script λειτουργεί μια χαρά |
+| 9 | Συμμετοχικό περιεχόμενο B2 | [Discussions](https://github.com/courses-ionio/help/discussions/2092) | 9/10 γιατί όπως σχολιάστηκε κιόλας η προσθήκη μου ήταν πολύ σημαντική και θα έπρεπε να υπήρχε ήδη αλλά ίσως παίρνει και βελτίωση |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
