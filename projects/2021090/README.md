@@ -18,18 +18,18 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | Εισαγωγή| [Click](https://github.com/courses-ionio/help/discussions/976) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> H τελική μορφή προέκυψε μετά από αλλαγές κατόπιν παρατηριήσεων στην τάξη και προσωπικής έρευνας|
-| 2 | Άσκηση γραμμής εντολών (linux install) |[Click](https://github.com/courses-ionio/help/discussions/1112) |Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> |
-| 3 | Συμμετοχικό περιεχόμενο A1 |[Click](https://github.com/courses-ionio/help/discussions/1207) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Click](https://github.com/courses-ionio/help/discussions/1349)| Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
-| 5 | Συμμετοχικό περιεχόμενο A2 | [Click](https://github.com/courses-ionio/help/discussions/1467)| Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
-| 6 | Κατασκευή του βιβλίου Α |[Click](https://github.com/courses-ionio/help/discussions/1577)  | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
-| 7 | Συμμετοχικό περιεχόμενο B1 |[Click](https://github.com/courses-ionio/help/discussions/1698) | Εμπρόθεσμο παραδοτέο <br>90% ολοκλήρωση <br>|
-| 8 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1785) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
-| 9 | Συμμετοχικό περιεχόμενο B2 |[Click](https://github.com/courses-ionio/help/discussions/1840) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
-| 10 | Άσκηση γραμμής εντολών |[Click](https://github.com/courses-ionio/help/discussions/1874) |Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> |
-| 11 | Κατασκευή του βιβλίου Β | |Εκπρόθεσμο παραδοτέο <br>50% ολοκλήρωση <br> |
-| 12 | Τελική αναφορά* | | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 1 | [Εισαγωγή]()| [Click](https://github.com/courses-ionio/help/discussions/976) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> H τελική μορφή προέκυψε μετά από αλλαγές κατόπιν παρατηριήσεων στην τάξη και προσωπικής έρευνας|
+| 2 | [Άσκηση γραμμής εντολών (linux install)]() |[Click](https://github.com/courses-ionio/help/discussions/1112) |Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> |
+| 3 | [Συμμετοχικό περιεχόμενο A1]() |[Click](https://github.com/courses-ionio/help/discussions/1207) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 4 | [Άσκηση γραμμής εντολών (warm up cli)]() | [Click](https://github.com/courses-ionio/help/discussions/1349)| Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 5 | [Συμμετοχικό περιεχόμενο A2]() | [Click](https://github.com/courses-ionio/help/discussions/1467)| Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 6 | [Κατασκευή του βιβλίου Α]() |[Click](https://github.com/courses-ionio/help/discussions/1577)  | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 7 | [Συμμετοχικό περιεχόμενο B1]() |[Click](https://github.com/courses-ionio/help/discussions/1698) | Εμπρόθεσμο παραδοτέο <br>90% ολοκλήρωση <br>|
+| 8 | [Άσκηση γραμμής εντολών]() |[Click](https://github.com/courses-ionio/help/discussions/1785) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 9 | [Συμμετοχικό περιεχόμενο B2]() |[Click](https://github.com/courses-ionio/help/discussions/1840) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 10 | [Άσκηση γραμμής εντολών]() |[Click](https://github.com/courses-ionio/help/discussions/1874) |Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> |
+| 11 | [Κατασκευή του βιβλίου Β]() | |Εκπρόθεσμο παραδοτέο <br>50% ολοκλήρωση <br> |
+| 12 | [Τελική αναφορά]() | | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
 
 
 <br /><br />
