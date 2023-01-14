@@ -21,9 +21,9 @@
 | 7 | Συμμετοχικό περιεχόμενο B1 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1769), [Java and VMware](https://stamathsp.netlify.app//case-study/java-and-vmware/) | Επιτυχής ολοκλήρωση του παραδοτέου εκτός προθεσμίας|
 | 8 | Άσκηση γραμμής εντολών |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1779), [Java program with script](https://github.com/stamathsp/PARADOTEO-8), [Asciinema: running the script](https://asciinema.org/a/540725) | Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
 | 9 | Συμμετοχικό περιεχόμενο B2 |[Συζήτηση](https://github.com/courses-ionio/help/discussions/1860), [βιβλιογραφία του James Gosling](https://stamathsp.netlify.app//biography/james-gosling/)| Επιτυχής ολοκλήρωση του παραδοτέου εντός προθεσμίας|
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 | Άσκηση γραμμής εντολών |[Συζητηση](https://github.com/courses-ionio/help/discussions/2095) | επιτυχής ολοκλήρωση του παραδοτέου εκτός προσθεσμίας|
 | 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 12 | Τελική αναφορά* |[Συζήτηση]() |επιτυχής ολοκλήρωση του παραδοτέου εκτός προθεσμίας |
 
 
 
