@@ -65,3 +65,19 @@
 
 Παρακάτω βλέπουμε πως να εμφάνιζουμε τον καιρό σε διάφορες πόλεις ανάλογα με το input στην εντολή  
 <a href="https://asciinema.org/a/v3I6bciECFQMdyd06qSGruEtU" target="_blank"><img src="https://asciinema.org/a/v3I6bciECFQMdyd06qSGruEtU.svg" /></a>
+
+  
+  # Βίντεο Κουίζ 
+
+|  | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
+| --- | --- | --- | --- |
+| 1 | Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) | &#128077; | &#128077; |
+| 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories | &#128077; | &#128077; |
+| 3 | Xerox Star User Interface (1982) 1 of 2 | &#128077; | &#128077; |
+| 4 | Alto System Project: Larry Tesler demonstration of Gypsy | &#128077; | &#128077; |
+| 5 | Alan Kay: Doing with Images Makes Symbols (Full Version) | &#128077; | &#128077; |
+| 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | &#128077; | &#128077; |
+| 7 | Oral History of Douglas Engelbart | &#128077; | &#128077; |
+| 8 | Engelbart's Unfinished Revolution  1998  Session IV |  &#128077; | &#10060; |
+| 9 | Alan Kay at Media Lab 30 |  &#128077; | &#10060; |
+| 10 | Jaron Lanier - Learning by Experience & Play  |  &#128077; |  &#10060; |
