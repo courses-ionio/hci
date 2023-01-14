@@ -14,7 +14,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A2 | [Link to Discussions](https://github.com/courses-ionio/help/discussions/1829) | Οι ικανότητες που απέκτησα με την ολοκλήρωση του 3ου Παραδοτέου, μου επέτρεψαν να ολοκληρώσω το συγκεκριμένο σε σχετικά μικρό χρονικό διάστημα  |
 | 6 | Κατασκευή του βιβλίου Α | [Link to Discussions](https://github.com/courses-ionio/help/discussions/1947) | Παραδόξως δεν αντιμετώπισα πολλές δυσκολίες κατα τη δημιουργία του PDF αρχείου ενώ έπειτα από μια μικρή έρευνα δημιούργησα και το φίλτρο Lua!|
 | 7 | Συμμετοχικό περιεχόμενο B1 | [Link to Discussions](https://github.com/courses-ionio/help/discussions/1970) | Λόγω των γνώσεων και ικανοτήτων που αποκτήθηκαν στα προηγούμενα παραδοτέα δεν αντιμετώπισα σχεδόν καμία δυσκολία|
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | Άσκηση γραμμής εντολών | | Μιας και έχω αναπτύξει μερικές ικανότητες στην χρήση του τερματικού από προηγούμενα παραδοτέα η εκτέλεση της άσκησης έγινε με φυσιολογικούς ρυθμούς χωρίς δυσκολία |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
@@ -170,6 +170,26 @@
 
 - [Πηγή 1](https://dl.acm.org/doi/pdf/10.1145/191028.191039)
 - [Πηγή 2](https://www.afb.org/aw/5/2/14760)
+  
+# **Άσκηση Γραμμής Ετολών**
+  
+## Για το Παραδοτέο08
+ 
+Ανέπτυξα ένα script το οποίο μετατρέπει αρχεία .md σε .docx .html και txt. Σαν αρχείο για μετατροπή επέλεξα να χρησιμοποιήσω την Αναφορά μου στο μάθημα. Μιας και έχω αναπτύξει μερικές ικανότητες στην χρήση του τερματικού από προηγούμενα παραδοτέα η εκτέλεση της άσκησης έγινε με φυσιολογικούς ρυθμούς χωρίς δυσκολία
+
+- [Το repository του Converter](https://github.com/aggelos2000430/MDconverter)
+- [Ο κώδικας του converter.sh](https://github.com/aggelos2000430/MDconverter/blob/main/converter.sh)
+- [Report.docx](https://github.com/aggelos2000430/MDconverter/blob/main/Report.docx)
+- [Report.html](https://github.com/aggelos2000430/MDconverter/blob/main/Report.html) 
+
+ 
+
+[MD converter](https://asciinema.org/a/551529)
+
+
+<p align="center">
+<a href="https://asciinema.org/a/551529" target="_blank"><img src="https://asciinema.org/a/551529.svg" width="70%" />
+
 
 # <h1 align="center">Βίντεο Κουίζ</h1>
 
@@ -194,8 +214,8 @@
 
 # **Ομαδικές συζητήσεις**
 
--[#1431](https://github.com/courses-ionio/help/discussions/1431#discussion-4540677)
--[#1682](https://github.com/courses-ionio/help/discussions/1682#discussioncomment-4187399)
--[#1705](https://github.com/courses-ionio/help/discussions/1705#discussioncomment-4441679)
--[#1927](https://github.com/courses-ionio/help/discussions/1927#discussioncomment-4371487)
--[#2084](https://github.com/courses-ionio/help/discussions/2084#discussioncomment-4683746)
+- [#1431](https://github.com/courses-ionio/help/discussions/1431#discussion-4540677)
+- [#1682](https://github.com/courses-ionio/help/discussions/1682#discussioncomment-4187399)
+- [#1705](https://github.com/courses-ionio/help/discussions/1705#discussioncomment-4441679)
+- [#1927](https://github.com/courses-ionio/help/discussions/1927#discussioncomment-4371487)
+- [#2084](https://github.com/courses-ionio/help/discussions/2084#discussioncomment-4683746)
