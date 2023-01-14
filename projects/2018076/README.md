@@ -196,6 +196,7 @@
   
   
 - [Πηγή 1](https://www.ibm.com/blogs/age-and-ability/2019/12/10/ibm-accessibility-tribute-to-jim-thatcher/)
+- [Πηγή 2](https://en.wikipedia.org/wiki/James_W._Thatcher)
   
 # **Συμπεράσματα**
   
