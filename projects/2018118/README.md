@@ -5,20 +5,20 @@
 ### Github Profile: https://github.com/Drexion
 ### Github Ομάδας: https://github.com/Millennials-2
 
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
-| --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση-Παραδοτέο 1](https://github.com/courses-ionio/help/discussions/1314)| |
-| 2 | [Άσκηση γραμμής εντολών (arch linux install on VM)](#παραδοτέο-2) | [Συζήτηση-Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1429) | |
-| 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3)| [Συζήτηση-Παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1432) | |
-| 4 | [Άσκηση γραμμής εντολών (arch linux install)](#παραδοτέο-4) | [Συζήτηση-Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1519) | |
-| 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | [Συζήτηση-Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1433) | |
-| 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | [Συζήτηση-Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1567)| |
-| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) | [Συζήτηση-Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/2103) | |
-| 8 | [Άσκηση γραμμής εντολών](#παραδοτέο-8)| [Συζήτηση-Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/2104) | |
-| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) | [Συζήτηση-Παραδοτέο 9](https://github.com/courses-ionio/help/discussions/2105) | |
-| 10 | [Άσκηση γραμμής εντολών](#παραδοτέο-10)| [Συζήτηση-Παραδοτέο 10](https://github.com/courses-ionio/help/discussions/2106) | |
+| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) |
+| --- | --- | --- |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση-Παραδοτέο 1](https://github.com/courses-ionio/help/discussions/1314)|
+| 2 | [Άσκηση γραμμής εντολών (arch linux install on VM)](#παραδοτέο-2) | [Συζήτηση-Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1429) |
+| 3 | [Συμμετοχικό περιεχόμενο A1](#παραδοτέο-3)| [Συζήτηση-Παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1432) |
+| 4 | [Άσκηση γραμμής εντολών (arch linux install)](#παραδοτέο-4) | [Συζήτηση-Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1519) |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#παραδοτέο-5) | [Συζήτηση-Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1433) |
+| 6 | [Κατασκευή του βιβλίου Α](#παραδοτέο-6) | [Συζήτηση-Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1567)|
+| 7 | [Συμμετοχικό περιεχόμενο B1](#παραδοτέο-7) | [Συζήτηση-Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/2103) |
+| 8 | [Άσκηση γραμμής εντολών](#παραδοτέο-8)| [Συζήτηση-Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/2104) |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#παραδοτέο-9) | [Συζήτηση-Παραδοτέο 9](https://github.com/courses-ionio/help/discussions/2105) |
+| 10 | [Άσκηση γραμμής εντολών](#παραδοτέο-10)| [Συζήτηση-Παραδοτέο 10](https://github.com/courses-ionio/help/discussions/2106) |
 | 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | [Τελική αναφορά*](#τελική-αναφορά)| | |
+| 12 | [Τελική αναφορά*](#τελική-αναφορά)| [Συζήτηση-Τελική-Αναφορά](https://github.com/courses-ionio/help/discussions/2107) | 
 
 # Εισαγωγή
 
