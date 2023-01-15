@@ -45,14 +45,14 @@
 # Παραδοτέο 3 Συμμετοχικό περιεχόμενο A1
 | <b>pull request</b> | <b>Netlify links </b> |
 | --- | --- | 
-| [images](https://github.com/Oroseira/images/pull/11) | [Deluxe paint](https://incandescent-puppy-80c17f.netlify.app/gallery/deluxepaint/) | 
-| [gallery](https://github.com/Oroseira/_gallery/pull/12) | [Ibm5100](https://incandescent-puppy-80c17f.netlify.app/gallery/ibm5100/) | 
-| [site](https://github.com/Oroseira/site/pull/12) | [site](https://incandescent-puppy-80c17f.netlify.app/) |
+| [images](https://github.com/Oroseira/images/pull/11) | [Deluxe paint](https://cool-cuchufli-e3a3b9.netlify.app/gallery/deluxepaint/) | 
+| [gallery](https://github.com/Oroseira/_gallery/pull/12) | [Ibm5100](https://cool-cuchufli-e3a3b9.netlify.app/gallery/ibm5100/) | 
+| [site](https://github.com/Oroseira/site/pull/12) | [site]([https://incandescent-puppy-80c17f.netlify.app/](https://cool-cuchufli-e3a3b9.netlify.app/)) |
 
 
 
 
-# [Ibm5100](https://incandescent-puppy-80c17f.netlify.app/gallery/ibm5100/)
+# [Ibm5100](https://cool-cuchufli-e3a3b9.netlify.app/gallery/ibm5100/)
 
 ![ibm5100-thumb](https://user-images.githubusercontent.com/72515759/212500361-652d3335-c517-4aa2-b425-d1acb2793666.jpg)
 
@@ -60,7 +60,7 @@
 
 
 
-# [Deluxe Paint](https://jocular-fudge-f3d53f.netlify.app/gallery/applepda/)
+# [Deluxe Paint](https://cool-cuchufli-e3a3b9.netlify.app/gallery/deluxepaint/)
 
 ![deluxepaint-thumb](https://user-images.githubusercontent.com/72515759/212500347-d89faa3b-10e4-4fd1-b608-c48f1c103145.png)
 
@@ -86,8 +86,8 @@
  
 | [slides](https://github.com/Genti-voka/site/tree/master/_slides) | [Timelines](https://github.com/Genti-voka/site/tree/master/_timeline) | Netlify slides | Netlify timelines |
 | --- | --- | --- | --- | 
-| [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://github.com/Genti-voka/site/blob/master/_slides/deluxepaint-slides.md) | [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://github.com/Genti-voka/site/blob/master/_timeline/deluxepaint-timeline.md)| [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://incandescent-puppy-80c17f.netlify.app/slides/deluxepaint-slides/) | [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://incandescent-puppy-80c17f.netlify.app/timeline/deluxepaint-timeline/)|
-| [Η εξέλιξη των προσωπικών υπολογιστών](https://github.com/Genti-voka/site/blob/master/_slides/deluxepaint-slides.md) | [Η εξέλιξη των προσωπικών υπολογιστών](https://github.com/Genti-voka/site/blob/master/_timeline/ibm-timeline.md) | [Η εξέλιξη των προσωπικών υπολογιστών](https://incandescent-puppy-80c17f.netlify.app/slides/ibm-slides/) | [Η εξέλιξη των προσωπικών υπολογιστών](https://incandescent-puppy-80c17f.netlify.app/timeline/ibm-timeline/) |
+| [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://github.com/Genti-voka/site/blob/master/_slides/deluxepaint-slides.md) | [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://github.com/Genti-voka/site/blob/master/_timeline/deluxepaint-timeline.md)| [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://cool-cuchufli-e3a3b9.netlify.app//slides/tools/) | [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://cool-cuchufli-e3a3b9.netlify.app//timeline/paint/)|
+| [Η εξέλιξη των προσωπικών υπολογιστών](https://github.com/Genti-voka/site/blob/master/_slides/deluxepaint-slides.md) | [Η εξέλιξη των προσωπικών υπολογιστών](https://github.com/Genti-voka/site/blob/master/_timeline/ibm-timeline.md) | [Η εξέλιξη των προσωπικών υπολογιστών](https://cool-cuchufli-e3a3b9.netlify.app//slides/technology/) | [Η εξέλιξη των προσωπικών υπολογιστών](https://cool-cuchufli-e3a3b9.netlify.app//timeline/computer/) |
 
 
   
