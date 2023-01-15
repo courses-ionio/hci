@@ -136,8 +136,8 @@
 |---|---|
 |**contribution**|[blender-scripting.md](https://github.com/inf2021090/kallipos/blob/master/contribution/blender-scripting.md)|
 |**filter**|[inf2021090_filter.lua](https://github.com/inf2021090/kallipos/blob/master/inf2021090_filter.lua)|
-|**book**|[book.pdf]()|
-
+|**book**|[book.pdf(zip)](https://github.com/inf2021090/kallipos/blob/master/book.pdf)|
+|**script**|[make-latex.sh](https://github.com/inf2021090/kallipos/blob/master/make-latex.sh)|
 
 ![note](https://user-images.githubusercontent.com/115289409/212480717-af91ca49-0da1-4180-b878-c0262c30a88e.png)
 
@@ -214,7 +214,11 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;Με την προσθήκη της εντολής pandoc --quiet -f latex bookTex.tex -o book.epub στο make-latex.sh script δημιουργήθηκε η **epub** μορφή του βιβλίου όπου προστέθηκαν οι συνεισφορές μου και η σημείωση από προηγούμενα παραδοτέα. Δυστηχώς εμφανίζονται μόνο τα κείμενα από τις προσθήκες μου και όχι οι εικόνες ,το πρόβλημα αυτό δεν κατάφερα να το λύσω. H μελέτη περίπτωσης βρίσκεται στο κεφάλαιο **τεχνολογία** καθώς αφορά την εξέλιξη ενός τεχνολογικού προιόντος. Η βιογραφία προστέθηκε στο κεφάλαιο **μοντέλα** καθώς παρουσιάζει εναλλακτικές θεωρίες διάδρασης και προσεγγίζει τους υπολογιστές από μια καλλιτεχνική σκοπιά. Παρακάτω screenshots από τις προσθήκες: 
+&nbsp;&nbsp;&nbsp;Με την προσθήκη της εντολής pandoc --quiet -f latex bookTex.tex -o book.epub στο make-latex.sh script δημιουργήθηκε η **epub** μορφή του βιβλίου όπου προστέθηκαν οι συνεισφορές μου και η σημείωση από προηγούμενα παραδοτέα. Δυστηχώς εμφανίζονται μόνο τα κείμενα από τις προσθήκες μου και όχι οι εικόνες ,το πρόβλημα αυτό δεν κατάφερα να το λύσω. H μελέτη περίπτωσης βρίσκεται στο κεφάλαιο **τεχνολογία** καθώς αφορά την εξέλιξη ενός τεχνολογικού προιόντος. Η βιογραφία προστέθηκε στο κεφάλαιο **μοντέλα** καθώς παρουσιάζει εναλλακτικές θεωρίες διάδρασης και προσεγγίζει τους υπολογιστές από μια καλλιτεχνική σκοπιά.
+
+Το βιβλίο σε [EPUB](https://github.com/inf2021090/kallipos/blob/master/book.epub) μορφή <br />
+
+Παρακάτω screenshots από τις προσθήκες: 
 
 Βιογραφία:arrow_heading_down:
 
@@ -244,7 +248,9 @@
 ## Ομαδικότητα και συνεργασία
 
 <br />
-https://github.com/courses-ionio/help/discussions/1992
+* https://github.com/courses-ionio/help/discussions/1992
+* https://github.com/courses-ionio/hci/pull/1908
+* https://github.com/courses-ionio/hci/pull/1892
 
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
