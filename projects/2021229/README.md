@@ -128,6 +128,10 @@ Links:
 [Biography](https://github.com/inf2021229/site/blob/master/_biography/aaron-marcus.md),
 [Netlify](https://inf2021229.netlify.app/biography/aaron-marcus/)
 
+Sources: 
+[HciPioneers](https://hcipioneers.wordpress.com/portfolio/marcus-aaron/)
+[Wikipedia](https://en.wikipedia.org/wiki/Aaron_Marcus)
+
 <br /><br />
 # Εβδομάδα Δέκατη - Άσκηση γραμμής εντολών
 
