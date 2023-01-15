@@ -225,6 +225,54 @@ Tο [book](https://github.com/tilav/kallipos/blob/master/book/book.pdf) μου.
 
 :exclamation: Το βασικό πρόβλημα που αντιμετώπισα και δεν έχω καταφέρει να λύσω είναι οι εικόνες στο book.pdf μου, οι οποίες δεν εμφανίζονται και έτσι το βιβλίο φαίνεται να είναι 174 σελίδες αντί για 311.
 
+<br/>
+<br/>
+
+<h1 align="center">Συμμετοχικό περιεχόμενο B1</h1>
+<br/>
+<br/>
+
+
+Για το Συμμετοχικό περιεχόμενο Β1 πρόσθεσα στην ιστοσελίδα του μαθήματος μια μελέτη περίπτωσης σχετικά με τις Κονσόλες Μίξης. 
+<br/>
+Πρόσθεσα στον φάκελο _casestudy το αρχείο [mixingconsoles.md](https://github.com/Oroseira/site/blob/master/_case-study/mixing-consoles.md) και στον φάκελο _includes το αρχείο [cs-mixingconsoles.md](https://github.com/Oroseira/site/blob/master/_includes/cs-mixingconsoles.md). Επίσης, πρόσθεσα τις παρακάτω εικόνες σχετικά με το θέμα μου:
+<br/>
+<br/>
+![dm2000](https://github.com/Oroseira/images/blob/b2bb17b1f9609e866f99826b6c30ff556f87aa87/dm2000.jpg)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![reddconsole](https://github.com/Oroseira/images/blob/b2bb17b1f9609e866f99826b6c30ff556f87aa87/redd-console.jpg)
+
+<br/>
+<br/>
+
+Η προσθήκη την μελέτης περίπτωσης στην [ιστοσελίδα μου](https://tilav.netlify.app/case-study/mixing-consoles/) (τεστ) και στην [ιστοσελίδα της ομάδας μου](https://oroseira2022.netlify.app/case-study/mixing-consoles/) .
+
+<br/>
+<br/>
+<br/>
+
+
+<h1 align="center">Συμμετοχικό περιεχόμενο B2</h1>
+<br/>
+<br/>
+
+Στο Συμμετοχικό περιεχόμενο Β2 η προσθήκη μου για την ιστοσελίδα του μαθήματος είναι η βιογραφία του Rupert Neve. 
+<br/>
+
+![rupert-neve](https://github.com/Oroseira/images/blob/b2bb17b1f9609e866f99826b6c30ff556f87aa87/neve-profile.jpg)
+
+<br/> 
+Ο Arthur Rupert Neve ήταν ένας Βρετανοαμερικανός ηλεκτρονικός μηχανικός και επιχειρηματίας, ο οποίος ήταν πρωτοπόρος σχεδιαστής επαγγελματικού εξοπλισμού ηχογράφησης. Σχεδίασε εξοπλισμό αναλογικής ηχογράφησης και μίξης ήχου που ήταν περιζήτητος από επαγγελματίες μουσικούς και τεχνικούς ηχογράφησης.
+<br/>
+
+
+
+
+
+
+
 <h1 align="center">Βίντεο Κουίζ </h1>
 
 
