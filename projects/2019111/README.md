@@ -15,7 +15,7 @@
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | [Άσκηση γραμμής εντολών](https://github.com/Genti-voka/hci/edit/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-8-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
@@ -40,9 +40,16 @@
 Λινκ για το [asciinema](https://asciinema.org/a/KrXOLLMs1KoWDuVv8b6sY5V8a)
 <br>
 <a href="https://asciinema.org/a/KrXOLLMs1KoWDuVv8b6sY5V8a" target="_blank"><img src="https://asciinema.org/a/KrXOLLMs1KoWDuVv8b6sY5V8a.svg" /></a>
-<br> </br>
+<br> <br>
 
 # Παραδοτέο 3 Συμμετοχικό περιεχόμενο A1
+| <b>pull request</b> | <b>Netlify links </b> |
+| --- | --- |
+| [images](https://github.com/Oroseira/images/pull/11) | [Deluxe paint](https://incandescent-puppy-80c17f.netlify.app/gallery/deluxepaint/) |
+| [gallery](https://github.com/Oroseira/_gallery/pull/12) | [Ibm5100](https://incandescent-puppy-80c17f.netlify.app/gallery/ibm5100/) |
+
+
+
 
 # [Ibm5100](https://incandescent-puppy-80c17f.netlify.app/gallery/ibm5100/)
 
@@ -52,13 +59,12 @@
 
 
 
-
 # [Deluxe Paint](https://jocular-fudge-f3d53f.netlify.app/gallery/applepda/)
 
 ![deluxepaint-thumb](https://user-images.githubusercontent.com/72515759/212500347-d89faa3b-10e4-4fd1-b608-c48f1c103145.png)
 
-<br> Ως δεύτερη προσθήκη επέλεξα μια απο τις πρώτες ολοκληρωμένες εφαρμογές που μας έδινε την δυνατότητα να σχεδιάζουμε στην οθόνη με πολλά χρώματα οπου για την εποχή του τα 256 διαφορετικά χρώματα ήταν πολύ προχωρημένο καθώς καμία άλλη εφαρμογή δεν είχε καταφέρει κάτι αντίστοιχο. Πέραν απο την μεγάλη γκάμα χρωμάτων είχε πολύ αυξήμενη ακρίβεια στον σχεδιασμό , το οποίο βοηθούσε για μεγάλες εικόνες.
-για σχεδιασμό και γενικότερα της ζωγραφικής που  
+<br> Ως δεύτερη προσθήκη επέλεξα μια απο τις πρώτες ολοκληρωμένες εφαρμογές που μας έδινε την δυνατότητα να σχεδιάζουμε στην οθόνη με πολλά χρώματα οπου για την εποχή του τα 256 διαφορετικά χρώματα ήταν πολύ προχωρημένο καθώς καμία άλλη εφαρμογή δεν είχε καταφέρει κάτι αντίστοιχο. Πέραν απο την μεγάλη γκάμα χρωμάτων είχε πολύ αυξήμενη ακρίβεια στον σχεδιασμό , το οποίο βοηθούσε για μεγάλες εικόνες και είχε πάει την ζωγραφική σε ένα νέο επίπεδο.
+
 
 
 # Παραδοτέο 4 warm up Ασκησεις
@@ -67,11 +73,33 @@
 Παρακάτω βλέπουμε πως εμφανίζουμε συναλλαγματικές ισοτιμίες μεταξύ διαφόρων νομισμάτων 
 <a href="https://asciinema.org/a/sUmwrAjjVdr69PC5yurcsmbDo" target="_blank"><img src="https://asciinema.org/a/sUmwrAjjVdr69PC5yurcsmbDo.svg" /></a>
 
-Παρακάτω βλέπουμε πως να εμφάνιζουμε τον καιρό σε διάφορες πόλεις ανάλογα με το input στην εντολή  
+Παρακάτω βλέπουμε πως να εμφάνιζουμε τον καιρό σε διάφορες πόλεις ανάλογα με το input στην εντολή . 
 <a href="https://asciinema.org/a/v3I6bciECFQMdyd06qSGruEtU" target="_blank"><img src="https://asciinema.org/a/v3I6bciECFQMdyd06qSGruEtU.svg" /></a>
 
+</br>
+
+# Παραδοτέο 5 Συμμετοχικό περιεχόμενο A2
   
-  # Βίντεο Κουίζ 
+Σε αυτό το παραδοτέο και εγώ με την σειρά μου πρόσθεσα
+ <br> 
+ 
+| [<b>slides</b>](https://github.com/Genti-voka/site/tree/master/_slides) | [<b>Timelines</b>](https://github.com/Genti-voka/site/tree/master/_timeline) |
+| --- | --- |
+| [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://github.com/Genti-voka/site/blob/master/_slides/deluxepaint-slides.md) | [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://github.com/Genti-voka/site/blob/master/_timeline/deluxepaint-timeline.md)|
+| [Η εξέλιξη των προσωπικών υπολογιστών](https://github.com/Genti-voka/site/blob/master/_slides/deluxepaint-slides.md) | [Η εξέλιξη των προσωπικών υπολογιστών](https://github.com/Genti-voka/site/blob/master/_timeline/ibm-timeline.md) | 
+
+  
+# Παραδοτέο 8 Άσκηση γραμμής εντολών 
+ 
+ <p> Για την υλοποίηση του παραδοτέου χρησιμοποιήθηκε το λογισμικό groff που εγκαταστάθηκε μέσω του package manager των arch Linux "pacman" για να δημιουργηιούν κάποια αρχεία σε μορφή thtml , html με ιδιαίτερα γρήγορο τρόπο χρησιμοποιώντας την εντολή groff. Αρχικά δημιουργείτε ένα αρχείο -thtml που εμφανίζει ένα μηνυμα "geia sas sumfoitites 2022 hci course" και έπειτα 'ενα αρχείο σε output(-o) html που γράφει "i prwti mou selida" . Το groff έχει πολλές λειτουργίες και [Εδώ](https://github.com/dbarowy/groff) μπορείτε να δείτε μερικές απο αυτές. </p>
+ 
+ Λινκ για το [asciinema](https://asciinema.org/a/Pfw4WghQX6wZFiKY8SBaGR3Je)
+ <a href="https://asciinema.org/a/Pfw4WghQX6wZFiKY8SBaGR3Je" target="_blank"><img src="https://asciinema.org/a/Pfw4WghQX6wZFiKY8SBaGR3Je.svg" /></a>
+ 
+
+ <br>  <br>
+ 
+ # Βίντεο Κουίζ 
 
 |  | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
 | --- | --- | --- | --- |
