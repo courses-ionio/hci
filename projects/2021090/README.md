@@ -58,6 +58,8 @@
 1. Για uefi συστήματα:Επιστροφή στις εργοστασιακές ρυθμίσεις και απενεργοποίηση του secure boot πριν την εγκατάσταση
 2. Αδυναμία σύνδεσης στο internet με την εντολή iwctl:Δεν υπάρχει ή δεν αναγνωρίζεται η κάρτα δικτύου μια λύση είναι καλώδιο ethernet αν υπάρχει αντίστοιχη θύρα
 
+[βιβλιογραφία:page_with_curl:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%B1-2--4)
+
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
 ## Εβδομάδα Τρίτη - Συμμετοχικό περιεχόμενο Α1
@@ -92,6 +94,8 @@
 
 [![asciicast](https://asciinema.org/a/suYwtdVlWcfOeT41PPFgY9gd0.svg)](https://asciinema.org/a/suYwtdVlWcfOeT41PPFgY9gd0)
 
+[βιβλιογραφία:page_with_curl:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%B1-2--4)
+
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
 ## Εβδομάδα Πέμπτη - Συμμετοχικό περιεχόμενο Α2
@@ -113,6 +117,8 @@
 |**houdini**|[simulation](https://inf2021090.netlify.app/slides/simulation/)|[simulation](https://github.com/inf2021090/site/blob/master/_slides/simulation.md)|[pull req](https://github.com/ContattoContare/site/pull/32)|
 |**blender**|[graphics design](https://inf2021090.netlify.app/slides/graphic-design/)|[graphics design](https://github.com/inf2021090/site/blob/master/_slides/graphic-design.md)|[pull req](https://github.com/ContattoContare/site/pull/32)|
 
+[βιβλιογραφία:page_with_curl:]()
+
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
 *Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο [ΠΑΡΑΡΤΗΜΑ](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1)
@@ -132,6 +138,8 @@
 
 ![note](https://user-images.githubusercontent.com/115289409/212480717-af91ca49-0da1-4180-b878-c0262c30a88e.png)
 
+[βιβλιογραφία:page_with_curl:]()
+
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
 ## Εβδομάδα Έβδομη - Συμμετοχικό περιεόμενο Β1
@@ -143,7 +151,9 @@
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
 |   [3dsoftware](https://testsite-inf2021090.netlify.app/case-study/graphics-3d/)   |   [3dsoftware](https://github.com/inf2021090/site/blob/par-7-test/_case-study/graphics-3d.md)    |   [pull req]()           |
-                            
+ 
+ [βιβλιογραφία:page_with_curl:]()
+ 
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
 ## Εβδομάδα Όγδοη - Άσκηση γραμμής εντολών (HCI)
@@ -161,6 +171,8 @@
 
 *TOOLS:* tmux, w3m , bash scripts, vim
 
+[βιβλιογραφία:page_with_curl:]()
+
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
 ## Εβδομάδα Ένατη - Συμμετοχικό περιεόμενο Β2
@@ -172,6 +184,8 @@
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
 |   [myronkrueger](https://testsite-inf2021090.netlify.app/biography/myron-krueger/)   | [myronkrueger](https://github.com/inf2021090/site/blob/par-7-test/_includes/bio-krueger.md)      |  [myronkrueger]()              |
+
+[βιβλιογραφία:page_with_curl:]()
 
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
@@ -188,6 +202,8 @@
 |[convertor](https://github.com/inf2021090/prototypes/blob/main/wtpdf.sh)|
 
 *TOOLS:* vim vimwiki pandoc
+
+[βιβλιογραφία:page_with_curl:]()
 
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
@@ -208,6 +224,10 @@
 Σημείωση:arrow_heading_down:
 
 ![enote](https://user-images.githubusercontent.com/115289409/212540280-803b6697-67a3-4cbf-9808-4de90f939f59.png)
+
+[βιβλιογραφία:page_with_curl:]()
+
+[πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
 ## Εβδομάδα Δωδέκατη - Τελική αναφορά
 
