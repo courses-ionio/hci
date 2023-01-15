@@ -245,5 +245,8 @@
 | 10 | Alan Kay at Media Lab 30 | :heavy_check_mark: | :heavy_check_mark: |
 | 11 | Jaron Lanier - Learning by Experience & Play | :heavy_check_mark: | :heavy_check_mark: |
 
+Κατά τη διάρκει του εξαμήνου προσπάθησα να βοηθήσω τους συμφοιτητές μου στο τεχνικό κομμάτι του μαθήματος όσο το δυνατόν περισσότερο. Για τον λόγο αυτό, δημιουργήθηκε στην [ομάδα](https://github.com/Oroseira/) ένας ειδικός χώρος συζητήσεων όπου ανεβάζαμε υλικό.
+
+❗[Link](https://github.com/orgs/Oroseira/discussions) προς τις συζητήσεις της [ομάδας](https://github.com/Oroseira/) μου.
 
 ❗Οι φωτογραφίες έχουν προστεθεί στην αναφορά μου μέσα από Github Issues έτσι ώστε να μη μεγαλώνει το μέγεθος του αρχείου της αναφοράς.
