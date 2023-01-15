@@ -82,4 +82,8 @@
 ## ΠΑΡΑΔΟΤΕΟ 8
 Σε αυτό το παραδοτέο επέλεξα να φτιάξω ενα [shell script](https://github.com/P2019218/Scripts./blob/main/script1.sh) όπου ζητά από το χρήστη το όνομα ενός αρχείου markdown και την επιθυμητή μορφή εξόδου (είτε pdf είτε docx είτε  html).
 [asciinema](https://asciinema.org/a/tDYz5jw6WeUsrJbi8CGqtoDTw)
-
+## ΠΑΡΑΔΟΤΕΟ 9
+[bio-serge.md](https://github.com/P2019218/extras/blob/παραδοτέο-7/bio-serge.md)_includes extras
+[bio-serge.md](https://github.com/P2019218/site/blob/organization/_includes/bio-serge.md) _includes
+[bibliography](https://github.com/P2019218/site/blob/organization/_biography/Serge-Egelma)
+[netlify](https://2019218.netlify.app/biography/serge-egelma/)
