@@ -88,6 +88,9 @@
 [bio-serge.md](https://github.com/P2019218/site/blob/organization/_includes/bio-serge.md) _includes
 [bibliography](https://github.com/P2019218/site/blob/organization/_biography/Serge-Egelma)
 [netlify](https://2019218.netlify.app/biography/serge-egelma/)
+## ΠΑΡΑΔΟΤΕΟ 10
+Στο τελευταίο παραδοτέο σχετικά με ασκήσεις γραμμής εντολών επέλεξα να φτιαξω ένα [shell script](https://github.com/P2019218/Scripts./blob/main/SCRIPT.sh) πάλι το οποίο χρησιμοποιεί την εντολή mkdir για να δημιουργήσει τους απαραίτητους φακέλους για ένα static site, όπως css, js, img και posts. Χρησιμοποιεί επίσης την εντολή touch για να δημιουργήσει τα απαραίτητα αρχεία, όπως index.html, style.css και main.js. Στη συνέχεια κάνει βρόχο σε όλα τα αρχεία markdown στο φάκελο posts χρησιμοποιώντας την εντολή for για κάθε αρχείο, εξάγει το όνομα του αρχείου χωρίς το extension, στη συνέχεια χρησιμοποιεί την εντολή pandoc για να μετατρέψει το αρχείο markdown σε HTML, αποθηκεύει την έξοδο ως ένα νέο αρχείο με το ίδιο όνομα αλλά με επέκταση .html.
+
 ## ΠΑΡΑΔΟΤΕΟ 11
 Στο τελευταίο παραδοτέο του μαθήματος έπρεπε να προσθέσουμε το case study και την βιογραφία που φτιάξαμε σε προηγούμενα παραδοτέα στο βιβλίο του μαθήματος αλλά και να το μετατρέψουμε σε μορφή epub. Αρχικά πρόσθεσα τα αρχέια markdown ([kallipos blackarch](https://github.com/P2019218/kallipos/blob/master/unix/Blackarch.md) & [kallipos bio-serge](https://github.com/P2019218/kallipos/blob/master/unix/serge-edelma.md)) στον φάκελο μου αλλά έκανα και κάποιες αλλαγές στο αρχέιο [extras](https://github.com/P2019218/extras/blob/master/extras-ch07.txt) ώστε να φένονται στο βιβλίο. Στην συνέχεια πρόσθεσα κάποιες εντολές στο script make-latex.sh, συγκεκριμένα τις τελευταιές 4 εντολές ώστε να φτιάχνει το βιβλίο στις μορφές: tex, pdf και epub και τις μετακινεί σε έναν φάκελο book.
 
