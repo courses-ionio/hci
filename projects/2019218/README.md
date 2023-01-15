@@ -89,8 +89,8 @@
 [bibliography](https://github.com/P2019218/site/blob/organization/_biography/Serge-Egelma)
 [netlify](https://2019218.netlify.app/biography/serge-egelma/)
 ## ΠΑΡΑΔΟΤΕΟ 11
-Στο τελευταίο παραδοτέο του μαθήματος έπρεπε να προσθέσουμε το case study και την βιογραφία που φτιάξαμε σε προηγούμενα παραδοτέα στο βιβλίο του μαθήματος αλλά και να το μετατρέψουμε σε μορφή epub. Αρχικά πρόσθεσα τα αρχέια markdown ([kallipos blackarch](https://github.com/P2019218/kallipos/blob/master/unix/Blackarch.md) & [kallipos bio-serge](https://github.com/P2019218/kallipos/blob/master/unix/serge-edelma.md)) στον φάκελο μου αλλά έκανα και κάποιες αλλαγές στο αρχέιο extras-ch01.txt ώστε να φένονται στο βιβλίο. Στην συνέχεια πρόσθεσα κάποιες εντολές στο script make-latex.sh, συγκεκριμένα τις τελευταιές 4 εντολές ώστε να φτιάχνει το βιβλίο στις μορφές: tex, pdf και epub και τις μετακινεί σε έναν φάκελο book.
-[extras](https://github.com/P2019218/extras/blob/master/extras-ch07.txt) pou tropopoihsa 
+Στο τελευταίο παραδοτέο του μαθήματος έπρεπε να προσθέσουμε το case study και την βιογραφία που φτιάξαμε σε προηγούμενα παραδοτέα στο βιβλίο του μαθήματος αλλά και να το μετατρέψουμε σε μορφή epub. Αρχικά πρόσθεσα τα αρχέια markdown ([kallipos blackarch](https://github.com/P2019218/kallipos/blob/master/unix/Blackarch.md) & [kallipos bio-serge](https://github.com/P2019218/kallipos/blob/master/unix/serge-edelma.md)) στον φάκελο μου αλλά έκανα και κάποιες αλλαγές στο αρχέιο [extras](https://github.com/P2019218/extras/blob/master/extras-ch07.txt) ώστε να φένονται στο βιβλίο. Στην συνέχεια πρόσθεσα κάποιες εντολές στο script make-latex.sh, συγκεκριμένα τις τελευταιές 4 εντολές ώστε να φτιάχνει το βιβλίο στις μορφές: tex, pdf και epub και τις μετακινεί σε έναν φάκελο book.
+
 
 
 
