@@ -253,7 +253,7 @@
 
 * https://github.com/courses-ionio/hci/pull/1908#issuecomment-1381008099
 
-* 
+* https://github.com/courses-ionio/hci/pull/1892#issuecomment-1382710752
 
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
