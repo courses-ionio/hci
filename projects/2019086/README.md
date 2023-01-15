@@ -2,11 +2,11 @@
 # ΟΝΟΜΑΤΕΠΩΝΥΜΟ : ΧΡΗΣΤΟΣ ΛΙΒΑΣ 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | Εισαγωγή μαθήματος |[Link στο discussions ](https://github.com/courses-ionio/help/discussions/941) | |
-| 2 | Άσκηση γραμμής εντολών (linux install) |[Link στο discussions](https://github.com/courses-ionio/help/discussions/1754) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 |[Link στο discussions](https://github.com/courses-ionio/help/discussions/2100) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Link στο discussions](https://github.com/courses-ionio/help/discussions/1757) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 |[Link στο discussions](https://github.com/courses-ionio/help/discussions/2101) | |
+| 1 | Εισαγωγή μαθήματος |[Link στο discussions ](https://github.com/courses-ionio/help/discussions/941) | Εμπρόθεσμη υποβολή, παρουσίασα τους στόχους μου για το μάθημα και έφτιαξα τον πίνακα περιεχομένων. |
+| 2 | Άσκηση γραμμής εντολών (linux install) |[Link στο discussions](https://github.com/courses-ionio/help/discussions/1754) | Εμπρόθεσμη υποβολή, εγκατέστησα με σχετική ευκολία τα arch linux σε usb flash drive και είχα μία πρώτη επαφή με το λειτουργικό σύστημα εκτελώντας τις εντολές που ζητήθηκαν. |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[Link στο discussions](https://github.com/courses-ionio/help/discussions/2100) | Εκπρόθεσμη υποβολή, μπερδεύτηκα σε κάποια σημεία αλλά με τη βοήθεια συμφοιτητών μου και προσωπικής μου αναζήτησης, έφερα την άσκηση εις πέρας. |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Link στο discussions](https://github.com/courses-ionio/help/discussions/1757) | Εκπρόθεσμη υποβολή, εκτελέστηκε με ευκολία η άσκηση γραμμής εντολών to-do list. |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Link στο discussions](https://github.com/courses-ionio/help/discussions/2101) | Εκπρόθεσμη υποβολή, έγινε αμέσως μετά από το 3ο-παραδοτέο, επομένως εκτελέστηκε με αρκετή ευκολία αφού είχα κατανοήσει πως λειτουργοούν τόσο τα submodules όσο και το netlify. |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών |[Link στο discussions] | |
