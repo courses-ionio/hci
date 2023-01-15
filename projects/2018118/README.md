@@ -90,7 +90,7 @@
 
 # Παραδοτέο 7
 
-Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Β1 αποφάσισα να ασχοληθώ με την δημιιουργία ενός case-study για το [Virtuix Omni](pending). Δημιούργησα ένα αρχείο [virtuix-omni.md](https://github.com/Drexion/site/blob/organization/_case-study/virtuix-omni.md) καθώς και το ανάλογο αρχείο [cs-virtuix.omni.md](https://github.com/Drexion/site/blob/organization/_includes/cs-virtuix-omni.md) όπου περιέχει αναλυτικά την πληροφορία όπου και πρόσθεσα μία [φωτογραφία](https://github.com/Drexion/images/blob/master/virtuix-omni.jpg) για να το αναδείξω. Γενικώς η διαδικασία ήταν πολύ ομαλή και εύκολη εφόσον πλέον έχουμε μάθει να διαχειριζόμαστε το netlify και το gituhb.
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Β1 αποφάσισα να ασχοληθώ με την δημιιουργία ενός case-study για το [Virtuix Omni](https://starlit-gnome-2cadfe.netlify.app/case-study/virtuix-omni/). Δημιούργησα ένα αρχείο [virtuix-omni.md](https://github.com/Drexion/site/blob/organization/_case-study/virtuix-omni.md) καθώς και το ανάλογο αρχείο [cs-virtuix.omni.md](https://github.com/Drexion/site/blob/organization/_includes/cs-virtuix-omni.md) όπου περιέχει αναλυτικά την πληροφορία όπου και πρόσθεσα μία [φωτογραφία](https://github.com/Drexion/images/blob/master/virtuix-omni.jpg) για να το αναδείξω. Γενικώς η διαδικασία ήταν πολύ ομαλή και εύκολη εφόσον πλέον έχουμε μάθει να διαχειριζόμαστε το netlify και το gituhb.
 
 Πηγές για όσα χρησιμοποιήθηκαν:
 
@@ -125,7 +125,7 @@ https://www.virtuix.com
 
 # Παραδοτέο 9
 
-Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Β2 αποφάσισα να κάνω την βιογραφία του [Palmer Luckey](pending). Μία εξέχουσα προσωπικότητα στη βιομηχανία της εικονικής πραγματικότητας, αφού ίδρυσε την Oculus VR και δημιούργησε το σετ κεφαλής Oculus Rift. 
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Β2 αποφάσισα να κάνω την βιογραφία του [Palmer Luckey](https://starlit-gnome-2cadfe.netlify.app/biography/palmer-luckey/). Μία εξέχουσα προσωπικότητα στη βιομηχανία της εικονικής πραγματικότητας, αφού ίδρυσε την Oculus VR και δημιούργησε το σετ κεφαλής Oculus Rift. 
 
 | Repositories | 
 | --- |
