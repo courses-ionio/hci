@@ -7,14 +7,14 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Oμάδα](https://github.com/Millennials-2), [Συζήτηση](https://github.com/courses-ionio/help/discussions/867) | |
-| 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση 2](https://github.com/courses-ionio/help/discussions/1102) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | [Συζήτηση 3](https://github.com/courses-ionio/help/discussions/1411) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση 4](https://github.com/courses-ionio/help/discussions/1411) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | [Συζήτηση 5](https://github.com/courses-ionio/help/discussions/1502) | |
-| 6 | Κατασκευή του βιβλίου Α | [Συζήτηση 6](https://github.com/courses-ionio/help/discussions/1652) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 2 | Άσκηση γραμμής εντολών (linux install) |[Συζήτηση 2](https://github.com/courses-ionio/help/discussions/1102) |Εγιναν στην ωρα τους με μικρή δυσκολία |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Συζήτηση 3](https://github.com/courses-ionio/help/discussions/1411) |Εγιναν στην ωρα τους με μικρή δυσκολία |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Συζήτηση 4](https://github.com/courses-ionio/help/discussions/1411) |Εγιναν στην ωρα τους με μικρή δυσκολία |
+| 5 | Συμμετοχικό περιεχόμενο A2 | [Συζήτηση 5](https://github.com/courses-ionio/help/discussions/1502) | Εγιναν στην ωρα τους με μικρή δυσκολία|
+| 6 | Κατασκευή του βιβλίου Α | [Συζήτηση 6](https://github.com/courses-ionio/help/discussions/1652) | Εγιναν στην ωρα τους με μικρή δυσκολία|
+| 7 | Συμμετοχικό περιεχόμενο B1 |[συζήτηση 7](https://github.com/courses-ionio/help/discussions/2116) | Εκπρόθεσμη υποβολή |
+| 8 | Άσκηση γραμμής εντολών |[συζήτηση 8](https://github.com/courses-ionio/help/discussions/2116) |Εκπρόθεσμη υποβολή |
+| 9 | Συμμετοχικό περιεχόμενο B2 |[συζήτηση 9](https://github.com/courses-ionio/help/discussions/2116) |Εκπρόθεσμη υποβολή |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -38,7 +38,7 @@
  
 | Περιγραφή | Repository Link |Netlify|
  | --- | --- | --- |
- |_gallery Kali|[Kali.MD](https://github.com/P2019218/_gallery/blob/master/Kali-Kde.md)||
+ |_gallery Kali|[Kali.MD](https://github.com/P2019218/_gallery/blob/master/Kali-Kde.md)|Πολύ εύκολη διαδικασία|
  |images Kali|[THUMB](https://github.com/P2019218/images/blob/master/Kali-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/Kali-Kde.png)|[netlify](https://2019218.netlify.app/gallery/kali-kde/)
  |_gallery Metasploit|[metasploit.MD](https://github.com/P2019218/_gallery/blob/master/metasploit.md)||
  |images Metasploit|[THUMB](https://github.com/P2019218/images/blob/master/metasploit-thumb.png) & [FULL QUALITY](https://github.com/P2019218/images/blob/master/metasploit.png)|[netlify](https://2019218.netlify.app/gallery/metasploit/)|
@@ -64,7 +64,7 @@
  
  Χρονολόγιο : [Kali-Kde](https://2019218.netlify.app/timeline/os-apps/)
 Διαφάνειες : [metasploit](https://2019218.netlify.app/slides/tools/) & [Kali-Kde](https://2019218.netlify.app/slides/gui/)
-Για το 5ο παραδοτέο πρόσθεσα το υλικό μου σε ήδη υπάρχοντα slides και timelines μέχρι να φτιαχτεί ενα δικό μας σετ με το υλικό όλης της ομάδας
+Για το 5ο παραδοτέο πρόσθεσα το υλικό μου σε ήδη υπάρχοντα slides και timelines.Διάλεξα αυτα τα θέματα γιατί και τα δυο εχουν σχέση με το hci ενω ταυτόχρονα και με την ασφάλεια που είναι η αγάπη μου.
 
 ## ΠΑΡΑΔΟΤΕΟ 6
 Για το 6ο παραδοτέο και την κατασκευή βιβλίου Α συνεισφέρω στην ενότητα Μορφές πάνω στο unix.Είναι προσωρινό μέχρι να δημιουργήσω δικιά μου ενότητα παρακάτω εχω τα βιβλιο,αρχειο lua,το latex.sh,το unix.md και το screenshot της συνεισφοράς μου. 
@@ -75,7 +75,7 @@
 [Screenshot](https://github.com/P2019218/kallipos/blob/master/pictures/Screenshot..png)  
 
 ##  ΠΑΡΑΔΟΤΕΟ 7
- για  το παραδοτέο case-study επέλεξα να αναλύσω το blackarch 
+ για  το παραδοτέο case-study επέλεξα να αναλύσω το blackarch σε αυτό το παραδοτέο αποφάσισα να ασχοληθώ επειδή έχει άμεση σχέση και με την το hci δηλαδή με το μάθημα αλλα ταυτόχρονα και με το security που είναι το ενδιαφέρων μου
 [blackarch.md](https://github.com/P2019218/site/blob/organization/_case-study/Blackarch.md)
 [blackarch netlify](https://2019218.netlify.app/case-study/blackarch/)
 [πηγές](https://www.blackarch.org/)
@@ -83,14 +83,17 @@
 Σε αυτό το παραδοτέο επέλεξα να φτιάξω ενα [shell script](https://github.com/P2019218/Scripts./blob/main/script1.sh) όπου ζητά από το χρήστη το όνομα ενός αρχείου markdown και την επιθυμητή μορφή εξόδου (είτε pdf είτε docx είτε  html).
 [asciinema](https://asciinema.org/a/tDYz5jw6WeUsrJbi8CGqtoDTw)
 ## ΠΑΡΑΔΟΤΕΟ 9
+ 
 [bio-serge.md](https://github.com/P2019218/extras/blob/παραδοτέο-7/bio-serge.md)_includes extras
 [bio-serge.md](https://github.com/P2019218/site/blob/organization/_includes/bio-serge.md) _includes
 [bibliography](https://github.com/P2019218/site/blob/organization/_biography/Serge-Egelma)
 [netlify](https://2019218.netlify.app/biography/serge-egelma/)
 ## ΠΑΡΑΔΟΤΕΟ 11
+Στο τελευταίο παραδοτέο του μαθήματος έπρεπε να προσθέσουμε το case study και την βιογραφία που φτιάξαμε σε προηγούμενα παραδοτέα στο βιβλίο του μαθήματος αλλά και να το μετατρέψουμε σε μορφή epub. Αρχικά πρόσθεσα τα αρχέια markdown ([kallipos blackarch](https://github.com/P2019218/kallipos/blob/master/unix/Blackarch.md) & [kallipos bio-serge](https://github.com/P2019218/kallipos/blob/master/unix/serge-edelma.md)) στον φάκελο μου αλλά έκανα και κάποιες αλλαγές στο αρχέιο extras-ch01.txt ώστε να φένονται στο βιβλίο. Στην συνέχεια πρόσθεσα κάποιες εντολές στο script make-latex.sh, συγκεκριμένα τις τελευταιές 4 εντολές ώστε να φτιάχνει το βιβλίο στις μορφές: tex, pdf και epub και τις μετακινεί σε έναν φάκελο book.
 [extras](https://github.com/P2019218/extras/blob/master/extras-ch07.txt) pou tropopoihsa 
-[kallipos blackarch](https://github.com/P2019218/kallipos/blob/master/unix/Blackarch.md)
-[kallipos bio-serge](https://github.com/P2019218/kallipos/blob/master/unix/serge-edelma.md)
+
+
 
 ## ΠΑΡΑΔΟΤΕΟ 12 
-μέσω του μαθήματος άρχισα να κατανοω τισ  αρχες σχεδιασμού διεπαφής έχω πλέον γνώση των βασικών αρχών σχεδιασμού διεπαφής, όπως η χρηστικότητα, η συνέπεια και η προσβασιμότητα. Θα πρέπει επίσης έχω μάθει για τα διαφορετικά στοιχεία σχεδιασμού που αποτελούν μια διεπαφή, όπως η διάταξη, η πλοήγηση και η ανατροφοδότηση.Επίσης τα βιντεάκια είχανε άμεση σχέση με την ροή του μαθήματος και αυτό το κατάλαβα αρκετά αργά,ήταν ένάσ  τρόπος να κατανοήσουμε καλύτερα την αλληλεπίδραση μεταξύ μας και του υπολογιστή  
+Μέσω του μαθήματος άρχισα να κατανοώ τις  αρχες σχεδιασμού διεπαφής έχω πλέον γνώση των βασικών αρχών σχεδιασμού διεπαφής, όπως η χρηστικότητα, η συνέπεια και η προσβασιμότητα. Επίσης έχω μάθει για τα διαφορετικά στοιχεία σχεδιασμού που αποτελούν μια διεπαφή, όπως η διάταξη, η πλοήγηση και η ανατροφοδότηση.Και το σημαντικότερο, τα βιντεάκια είχανε άμεση σχέση με την ροή του μαθήματος και αυτό το κατάλαβα αρκετά αργά,ήταν ένάσ  τρόπος να κατανοήσουμε καλύτερα την αλληλεπίδραση μεταξύ μας και του υπολογιστή.Πέρα αυτα ενω δεν μου άρεσε το συγκεκριμένο μάθημα άρχισε να μου τραβάει το ενδιαφέρον γιατί βλέπεις πλεον την τεχνολογία με αλλη πλευρα.
+Κλείνοντας είμαι σίγουρος οτι θα συνεχίσω να χρησιμοποιώ και το arch και το github στο μέλλον  
