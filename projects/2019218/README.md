@@ -15,9 +15,9 @@
 | 7 | Συμμετοχικό περιεχόμενο B1 |[συζήτηση 7](https://github.com/courses-ionio/help/discussions/2116) | Εκπρόθεσμη υποβολή |
 | 8 | Άσκηση γραμμής εντολών |[συζήτηση 8](https://github.com/courses-ionio/help/discussions/2116) |Εκπρόθεσμη υποβολή |
 | 9 | Συμμετοχικό περιεχόμενο B2 |[συζήτηση 9](https://github.com/courses-ionio/help/discussions/2116) |Εκπρόθεσμη υποβολή |
-| 10 | Άσκηση γραμμής εντολών | | |
-| 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 10 | Άσκηση γραμμής εντολών |[συζήτηση 10](https://github.com/courses-ionio/help/discussions/2116) | |
+| 11 | Κατασκευή του βιβλίου Β |[συζήτηση 11](https://github.com/courses-ionio/help/discussions/2116) | |
+| 12 | Τελική αναφορά* |[συζήτηση 12](https://github.com/courses-ionio/help/discussions/2116) | |
 
 
 ## ΕΙΣΑΓΩΓΗ-ΠΑΡΑΔΟΤΕΟ 1
