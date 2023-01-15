@@ -138,7 +138,7 @@
 |---|---|
 |**contribution**|[blender-scripting.md](https://github.com/inf2021090/kallipos/blob/master/contribution/blender-scripting.md)|
 |**filter**|[inf2021090_filter.lua](https://github.com/inf2021090/kallipos/blob/master/inf2021090_filter.lua)|
-|**book**|[book.pdf(zip)](https://github.com/inf2021090/kallipos/blob/master/book.pdf)|
+|**book**|[book.pdf](https://github.com/inf2021090/kallipos/blob/master/book.pdf)|
 |**script**|[make-latex.sh](https://github.com/inf2021090/kallipos/blob/master/make-latex.sh)|
 
 ![note](https://user-images.githubusercontent.com/115289409/212480717-af91ca49-0da1-4180-b878-c0262c30a88e.png)
