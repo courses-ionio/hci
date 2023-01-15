@@ -31,8 +31,8 @@
 Σε αυτό το παραδοτέο εμπλούτισα την ιστοσελίδα του βιβλίου με νέο περιεχόμενο για εκμάθηση σε συνεργασία με την ομάδα μου. Ως πρώτο θέμα επέλεξα το WordPress, το οποίο είναι ένα ελεύθερο και ανοικτού κώδικα λογισμικό που χρησιμοποιείται για τη δημιουργία ιστοτόπων, blog ή εφαρμογών και συχνά χρησιμοποιείται ως σύστημα διαχείρισης περιεχομένου. Ως δεύετερο θέμα επέλεξα το Oracle Designer το οποίο είναι εργαλείο της Oracle για το σχεδιασμό ενός πληροφοριακού συστήματος και τη δημιουργία του.Επίσης ενσωματώνει υποστήριξη για μοντελοποίηση επιχειρηματικών διαδικασιών, ανάλυση συστημάτων, σχεδιασμό λογισμικού και παραγωγή συστημάτων.
 | Repo links | My site links | Team's site links |
 | --- | --- | --- | 
-| [WordPress]( ) | [WordPress](https://chrislivas.netlify.app/gallery/wordpress/) | [WordPress]() |
-| [OracleDesigner]() | [OracleDesigner](https://chrislivas.netlify.app/gallery/oracledesigner/) | [WordPress]() |
+| [WordPress](https://github.com/Chris-Livas/_gallery/blob/master/wordpress.md) | [WordPress](https://chrislivas.netlify.app/gallery/wordpress/) | [WordPress]() |
+| [OracleDesigner](https://github.com/Chris-Livas/_gallery/blob/master/oracledesigner.md) | [OracleDesigner](https://chrislivas.netlify.app/gallery/oracledesigner/) | [WordPress]() |
 
 ![wordpress-thumb](https://user-images.githubusercontent.com/72660624/212513751-54c2d422-827c-4b67-b199-20b4cbcc41fb.png)
 ![oracledesigner-thumb](https://user-images.githubusercontent.com/72660624/212514658-3699f902-a1d2-466e-a1bd-926a4807c819.jpeg)
