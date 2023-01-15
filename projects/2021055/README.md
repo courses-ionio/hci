@@ -159,7 +159,7 @@
 
 ## Τα Links και οι φωτογραφίες από το ομαδικό αποθετήριο:
 
-* #### Το ομαδικό [site](https://omadaa12.netlify.app/)
+* #### Το ομαδικό [site](https://omada12.netlify.app/)
 
 ### Lego WeDo:
 
