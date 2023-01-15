@@ -77,6 +77,8 @@
 |    [houdini](https://inf2021090.netlify.app/gallery/houdini/)  |   [houdini](https://github.com/inf2021090/_gallery/blob/master/houdini.md)    |  [houdini](https://github.com/inf2021090/images/blob/master/houdini.png)           |
 | [blender](https://inf2021090.netlify.app/gallery/blender/)  |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)    |    [blender](https://github.com/inf2021090/_gallery/blob/master/blender.md)         |
 
+[βιβλιογραφία:page_with_curl:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%B1-3--5)
+
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
 *Τα αιτήματα ενσωμάτωσης παλαιώτερων θεμάτων βρίσκονται στο [ΠΑΡΑΡΤΗΜΑ](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%84%CE%B7%CE%BC%CE%B1)
@@ -117,7 +119,7 @@
 |**houdini**|[simulation](https://inf2021090.netlify.app/slides/simulation/)|[simulation](https://github.com/inf2021090/site/blob/master/_slides/simulation.md)|[pull req](https://github.com/ContattoContare/site/pull/32)|
 |**blender**|[graphics design](https://inf2021090.netlify.app/slides/graphic-design/)|[graphics design](https://github.com/inf2021090/site/blob/master/_slides/graphic-design.md)|[pull req](https://github.com/ContattoContare/site/pull/32)|
 
-[βιβλιογραφία:page_with_curl:]()
+[βιβλιογραφία:page_with_curl:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%B1-3--5)
 
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
