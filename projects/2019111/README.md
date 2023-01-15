@@ -44,9 +44,10 @@
 
 # Παραδοτέο 3 Συμμετοχικό περιεχόμενο A1
 | <b>pull request</b> | <b>Netlify links </b> |
-| --- | --- |
-| [images](https://github.com/Oroseira/images/pull/11) | [Deluxe paint](https://incandescent-puppy-80c17f.netlify.app/gallery/deluxepaint/) |
-| [gallery](https://github.com/Oroseira/_gallery/pull/12) | [Ibm5100](https://incandescent-puppy-80c17f.netlify.app/gallery/ibm5100/) |
+| --- | --- | 
+| [images](https://github.com/Oroseira/images/pull/11) | [Deluxe paint](https://incandescent-puppy-80c17f.netlify.app/gallery/deluxepaint/) | 
+| [gallery](https://github.com/Oroseira/_gallery/pull/12) | [Ibm5100](https://incandescent-puppy-80c17f.netlify.app/gallery/ibm5100/) | 
+| [site](https://github.com/Oroseira/site/pull/12) | [site](https://incandescent-puppy-80c17f.netlify.app/) |
 
 
 
