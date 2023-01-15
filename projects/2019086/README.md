@@ -26,7 +26,7 @@
 Σε αυτό το παραδοτέο ασχολήθηκα με την εγκατάσταση του λειτουργικού συστήματος arch linux, η οποία ήταν επιτυχής.Έχω τρέξει τις εντολές neofetch και journalctl -b και παρουσιάζω το asciinema που τις κατέγραψα.
 [Asciinema link](https://asciinema.org/a/lBneX346MXb0HLsDG6GSFy01C)
 
-# 3ο παραδοτέο Συμμετοχικό περιεχόμενο 
+# 3ο παραδοτέο Συμμετοχικό περιεχόμενο Α1
 
 Σε αυτό το παραδοτέο εμπλούτισα την ιστοσελίδα του βιβλίου με νέο περιεχόμενο για εκμάθηση σε συνεργασία με την ομάδα μου. Ως πρώτο θέμα επέλεξα το WordPress, το οποίο είναι ένα ελεύθερο και ανοικτού κώδικα λογισμικό που χρησιμοποιείται για τη δημιουργία ιστοτόπων, blog ή εφαρμογών και συχνά χρησιμοποιείται ως σύστημα διαχείρισης περιεχομένου. Ως δεύετερο θέμα επέλεξα το Oracle Designer το οποίο είναι εργαλείο της Oracle για το σχεδιασμό ενός πληροφοριακού συστήματος και τη δημιουργία του.Επίσης ενσωματώνει υποστήριξη για μοντελοποίηση επιχειρηματικών διαδικασιών, ανάλυση συστημάτων, σχεδιασμό λογισμικού και παραγωγή συστημάτων.
 | Repo links | My site links | Team's site links |
@@ -37,11 +37,15 @@
 ![wordpress-thumb](https://user-images.githubusercontent.com/72660624/212513751-54c2d422-827c-4b67-b199-20b4cbcc41fb.png)
 ![oracledesigner-thumb](https://user-images.githubusercontent.com/72660624/212514658-3699f902-a1d2-466e-a1bd-926a4807c819.jpeg)
 
-
-
-
-
-4ο παραδοτεέο 
+# 4ο παραδοτέο Άσκηση γραμμής εντολών
 
 Σε αυτό το παραδοτέο ασχολήθηκα με την άσκηση γραμμής εντολών σχετικά με τη δημιουργία μίας to-do λίστας και την εκχώρηση στοιχείων σε αυτή, όπως φαίνεται και στο αντίστοιχο asciinema.
 [Asciinema Link](https://asciinema.org/a/K0IhV03dUlpLDmmQ3yTxrHsuq)
+
+# 5ο παραδοτέο Συμμετοχικό Περιεχόμενο Α2
+
+| Repo links | My site links |
+| --- | --- |
+|[Slides OracleDesigner](https://github.com/Chris-Livas/site/blob/master/_timeline/oracledesigner-timeline.md) | [Slides OracleDesigner](https://chrislivas.netlify.app/slides/oracledesigner-slide/) |
+|[Timeline OracleDesigner](https://github.com/Chris-Livas/site/blob/master/_timeline/oracledesigner-timeline.md) | [Timeline OracleDesigner](https://chrislivas.netlify.app/timeline/oracledesigner-timeline/) |
+
