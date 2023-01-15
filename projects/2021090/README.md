@@ -229,7 +229,7 @@ https://github.com/courses-ionio/help/discussions/1992
 
 <br />
 
-παραδοτέα 2 & 4
+#### παραδοτέα 2 & 4
 
 * [Arch Linux: Full Installation Guide - A complete tutorial/walkthrough in one video!](https://youtu.be/DPLnBPM4DhI)
 * [ArchWiki](https://wiki.archlinux.org/)
@@ -239,12 +239,20 @@ https://github.com/courses-ionio/help/discussions/1992
 * [w3m manual](https://w3m.sourceforge.net/MANUAL)
 * [Linux Crash Course - htop](https://youtu.be/tU9cO9FwDx0)
 
-παραδοτέα 3 & 5
+#### παραδοτέα 3 & 5
+* [blender.org - Home of the Blender project - Free and Open 3D ...](https://www.blender.org/)
+* [Blender (software) - Wikipedia](https://en.wikipedia.org/wiki/Blender_(software))
+* [SideFX: Houdini - 3D modeling, animation, VFX, look ...](https://www.sidefx.com/)
+* [Houdini (software) - Wikipedia](https://en.wikipedia.org/wiki/Houdini_(software))
 
-παραδοτέα 6 & 11
+#### παραδοτέα 6 & 11
+* [pandoc.org](https://pandoc.org/)
+* [LaTeX Stack Exchange: TeX](https://tex.stackexchange.com/)
+* [Introducing My Workflow With Pandoc Markdown](https://youtu.be/lMIlNsi3eAY)
+* [Using Pandoc](https://youtu.be/-S8-a_YS6tc)
+* [Lua Filters: Functions](https://youtu.be/veaHFLs21t8)
 
-
-παραδοτέο 7
+#### παραδοτέο 7
 
 * [When Did 3D Modeling Start? A Brief History - SelfCAD](https://www.selfcad.com/blog/when-did-3d-modeling-start-a-brief-history)
 * [A Brief History of 3D Visualizations: The Ins and Outs](https://www.easyrender.com/a/a-brief-history-of-3d-visualizations-the-ins-and-outs)
@@ -253,9 +261,16 @@ https://github.com/courses-ionio/help/discussions/1992
 * [history of 3d modeling: from euclid to 3d printing](https://ufo3d.com/history-of-3d-modeling/)
 * [The first 3D software in History_Sketchpad](https://www.youtube.com/watch?v=eP-TaulpvYg&t=600s)
 
-παραδοτέο 8 & 10
+#### παραδοτέο 8 & 10
 
-παραδτέο 9
+* [Command Line Rendering with Blender made easy!](https://youtu.be/vhGChQd8Kg8)
+* [Blender Linux Tip: command line rendering python script.](https://youtu.be/wBr4y1c2U10)
+* [W3M - Text Based Web Browser - Linux TUI](https://youtu.be/Z22cFTB-uqg)
+* [Basic vimwiki usage and setup](https://youtu.be/nQSUyc2OQ48)
+* [vim-plug: A beautiful and minimalist vim plugin manager for ...](https://www.cyberciti.biz/programming/vim-plug-a-beautiful-and-minimalist-vim-plugin-manager-for-unix-and-linux-users/)
+* [How to Install Python on Linux - Scaler Topics](https://www.scaler.com/topics/python/install-python-on-linux/)
+
+#### παραδτέο 9
 
 * [Myron Krueger | American scientist | Britannica](https://www.britannica.com/biography/Myron-Krueger)
 * [Videoplace - Myron Krueger](https://aboutmyronkrueger.weebly.com/videoplace.html)
