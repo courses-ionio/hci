@@ -140,7 +140,7 @@
 
 ![note](https://user-images.githubusercontent.com/115289409/212480717-af91ca49-0da1-4180-b878-c0262c30a88e.png)
 
-[βιβλιογραφία:page_with_curl:]()
+[βιβλιογραφία:page_with_curl:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%B1-6--11)
 
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
@@ -227,7 +227,7 @@
 
 ![enote](https://user-images.githubusercontent.com/115289409/212540280-803b6697-67a3-4cbf-9808-4de90f939f59.png)
 
-[βιβλιογραφία:page_with_curl:]()
+[βιβλιογραφία:page_with_curl:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%B1-6--11)
 
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
