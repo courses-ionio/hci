@@ -44,6 +44,8 @@
 
 # 5ο παραδοτέο Συμμετοχικό Περιεχόμενο Α2
 
+Πρόσθεσα στα slides και στα timelines τα θέματα με τα οποία είχα αχοληθεί στο 3ο παραδοτέο.
+
 | Repo links | My site links |
 | --- | --- |
 |[Slides OracleDesigner](https://github.com/Chris-Livas/site/blob/master/_timeline/oracledesigner-timeline.md) | [Slides OracleDesigner](https://chrislivas.netlify.app/slides/oracledesigner-slide/) |
