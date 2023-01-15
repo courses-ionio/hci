@@ -12,17 +12,17 @@ e-mail: p19tila@ionio.gr <br/>
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1005) :link: </h4>| |
-| 2 | Άσκηση γραμμής εντολών (linux install) |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1263) :link: </h4>| |
-| 3 | Συμμετοχικό περιεχόμενο A1 |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1638) :link: </h4>| |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1515) :link: </h4>| |
-| 5 | Συμμετοχικό περιεχόμενο A2 |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1640) :link: </h4>| |
-| 6 | Κατασκευή του βιβλίου Α | <h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1861) :link: </h4> | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | <h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/2110) :link: </h4> | |
-| 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | <h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/2111) :link: </h4> | |
-| 10 | Άσκηση γραμμής εντολών | | |
-| 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 2 | Άσκηση γραμμής εντολών (linux install) |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1263) :link: </h4>| Ολοκληρώθηκε με επιτυχία μετά από πολλές επανεγκαταστήσεις |
+| 3 | Συμμετοχικό περιεχόμενο A1 |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1638) :link: </h4>| Ολοκληρώθηκε με επιτυχία μετά την επίλυση προβλημάτων με τα submodules |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1515) :link: </h4>| Ολοκληρώθηκε με επιτυχία χωρίς κάποια δυσκολία |
+| 5 | Συμμετοχικό περιεχόμενο A2 |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1640) :link: </h4>| Ολοκληρώθηκε με επιτυχία χωρίς κάποια δυσκολία |
+| 6 | Κατασκευή του βιβλίου Α | <h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1861) :link: </h4> | Ολοκληρώθηκε με επιτυχία μετά από την επίλυση προβλημάτων με τα arch linux |
+| 7 | Συμμετοχικό περιεχόμενο B1 | <h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/2110) :link: </h4> | Ολοκληρώθηκε με επιτυχία μετά από την επίλυση conflicts στο αποθετήριο site |
+| 8 | Άσκηση γραμμής εντολών | | Δεν ολοκληρώθηκε |
+| 9 | Συμμετοχικό περιεχόμενο B2 | <h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/2111) :link: </h4> | Ολοκληρώθηκε με επιτυχία μετά από την επίλυση conflicts στο αποθετήριο site |
+| 10 | Άσκηση γραμμής εντολών | | Δεν ολοκληρώθηκε |
+| 11 | Κατασκευή του βιβλίου Β | | Δεν ολοκληρώθηκε |
+| 12 | Τελική αναφορά* | <h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/2118) :link: </h4> | Ολοκληρώθηκε |
 
 
 
