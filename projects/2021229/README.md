@@ -18,18 +18,18 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | Εισαγωγή| [Click](https://github.com/courses-ionio/help/discussions/907) | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | [Click](https://github.com/courses-ionio/help/discussions/1075) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | [Click](https://github.com/courses-ionio/help/discussions/1189) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Click](https://github.com/courses-ionio/help/discussions/1347) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | [Click](https://github.com/courses-ionio/help/discussions/1465) | |
-| 6 | Κατασκευή του βιβλίου Α | [Click](https://github.com/courses-ionio/help/discussions/1571) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | [Click](https://github.com/courses-ionio/help/discussions/1713) | |
-| 8 | Άσκηση γραμμής εντολών | [Click](https://github.com/courses-ionio/help/discussions/1781) | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | [Click](https://github.com/courses-ionio/help/discussions/1841) | |
-| 10 | Άσκηση γραμμής εντολών | [Click](https://github.com/courses-ionio/help/discussions/1883) | |
-| 11 | Κατασκευή του βιβλίου Β | [Click](https://github.com/courses-ionio/help/discussions/2046) | |
-| 12 | Τελική αναφορά | [Click](https://github.com/courses-ionio/help/discussions/2048) | |
+| 1 | Εισαγωγή| [Click](https://github.com/courses-ionio/help/discussions/907) | Το παραδοτέο έγινε ολοκληρωμένα. <br>Το παραδοτέο ανέβηκε εμπρόθεσμα. |
+| 2 | Άσκηση γραμμής εντολών (linux install) | [Click](https://github.com/courses-ionio/help/discussions/1075) | Το παραδοτέο έγινε ολοκληρωμένα. <br>Το παραδοτέο ανέβηκε εμπρόθεσμα. <br>Ολοκληρώθηκε επιτυχώς η εγκατάσταση του Arch Linux. |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Click](https://github.com/courses-ionio/help/discussions/1189) | Το παραδοτέο έγινε ολοκληρωμένα. <br>Το παραδοτέο ανέβηκε εμπρόθεσμα. <br>Πραγματοποιήθηκαν αλλαγές στις επιλογές μου με βάση την εισαγωγή μου αφού δεν είχαν γίνει σωστά. |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Click](https://github.com/courses-ionio/help/discussions/1347) | Το παραδοτέο έγινε ολοκληρωμένα. <br>Το παραδοτέο ανέβηκε εμπρόθεσμα. <br>Μαθαίνοντας τα βασικά του Arch Linux αυτό το παραδοτέο πραγματοποιήθηκε χωρίς πολύ δυσκολία. |
+| 5 | Συμμετοχικό περιεχόμενο A2 | [Click](https://github.com/courses-ionio/help/discussions/1465) | Το παραδοτέο έγινε ολοκληρωμένα. <br>Το παραδοτέο ανέβηκε εμπρόθεσμα. <br>Όπως και στο 3 πραγματοποιήθηκαν αλλαγές στις επιλογές μου με βάση την εισαγωγή μου αφού δεν είχαν γίνει σωστά. |
+| 6 | Κατασκευή του βιβλίου Α | [Click](https://github.com/courses-ionio/help/discussions/1571) | Το παραδοτέο έγινε ολοκληρωμένα. <br>Το παραδοτέο ανέβηκε εμπρόθεσμα. <br>Εδώ σίγουρα υπήρξε μία δυσκολία αλλά στο τέλος το κατάφερα. Το μόνο αρνητικό είναι πως δεν κατάφερα να φτιάξω δικό μου ξεχωριστό φίλτρο. |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [Click](https://github.com/courses-ionio/help/discussions/1713) | Το παραδοτέο έγινε ολοκληρωμένα. <br>Το παραδοτέο ανέβηκε εμπρόθεσμα. <br>Όπως και το 3 και 5, η επιλογή μου έγινε με βάση την εισαγωγή μου. |
+| 8 | Άσκηση γραμμής εντολών | [Click](https://github.com/courses-ionio/help/discussions/1781) | Το παραδοτέο έγινε ολοκληρωμένα. <br>Το παραδοτέο ανέβηκε εμπρόθεσμα. <br>Με το πέρασμα των εβδομάδων σίγουρα εξοικειώθηκα παραπάνω στο Arch Linux οπότε όπως και το 4 πραγματοποιήθηκε χωρίς πολύ δυσκολία. |
+| 9 | Συμμετοχικό περιεχόμενο B2 | [Click](https://github.com/courses-ionio/help/discussions/1841) | Το παραδοτέο έγινε ολοκληρωμένα. <br>Το παραδοτέο ανέβηκε εμπρόθεσμα. <br>Όπως και το 3, 5 και 7, η επιλογή μου έγινε με βάση την εισαγωγή μου. Όμως, σίγουρα μπορούσα να κάνω όμως καλύτερη δουλειά από ότι τελικά έκανα. |
+| 10 | Άσκηση γραμμής εντολών | [Click](https://github.com/courses-ionio/help/discussions/1883) | Το παραδοτέο έγινε ολοκληρωμένα. <br>Το παραδοτέο ανέβηκε εμπρόθεσμα. <br> Σε αντίθεση με το 8 εδώ υπήρχε μια δυσκολία αλλά με λίγο research το κατάφερα και πιστεύω πως βγήκε αρκετά καλό. |
+| 11 | Κατασκευή του βιβλίου Β | [Click](https://github.com/courses-ionio/help/discussions/2046) | Το παραδοτέο πραγματοποιήθηκε αλλά όχι απόλυτα ολοκληρωμένα. <br>Το παραδοτέο ανέβηκε μη εμπρόθεσμα. <br>Τα κείμενα προστέθηκαν αλλά χωρίς εικόνες και όχι με τον καλύτερο δυνατό τρόπο. |
+| 12 | Τελική αναφορά | [Click](https://github.com/courses-ionio/help/discussions/2048) | Το παραδοτέο έγινε ολοκληρωμένα. <br>Το παραδοτέο ανέβηκε εμπρόθεσμα. |
 
 
 <br /><br />
