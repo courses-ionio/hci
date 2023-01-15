@@ -122,6 +122,7 @@ e-mail: p19tila@ionio.gr <br/>
 Για αυτό το παραδοτέο πρόσθεσα το Moog Synthesizer και το Pro Tools στο Χρονολόγιο και στις Διαφάνειες της ιστοσελίδας της ομάδας μου, με βάση τις κατηγορίες που κατατάσσονται. Παρακάτω φαίνονται οι προσθήκες μου:
 <br/>
 <br/>
+
 🔹 Χρονολόγιο:
 <br/>
 
@@ -197,24 +198,24 @@ e-mail: p19tila@ionio.gr <br/>
 Για το παραδοτέο 6 πρόσθεσα μια δική μου παράγραφο-υποσημείωση στο βιβλίο του μαθήματος. Για τη διαδικασία χρησιμοποίησα το usb με τα Arch Linux χωρίς να αντιμετωπίσω κάποια ιδιαίτερη δυσκολία. 
 <br/>
 <br/>
-Η προσθήκη μου αφορά το Google Mail και την παραμονή του στη φάση "beta" για μεγάλο χρονικό διάστημα, ενώ λειτουργούσε κανονικά. Βρίσκεται στο Κεφάλαιο 3: "Μέθοδος" και συγκεκριμένα στο 3.2: "Ελάχιστο εφικτό προιόν", που γίνεται λόγος για την κατασκευή της διάδρασης, δίνοντας ως παράδειγμα τη φάση beta του Gmail, για καλύτερη κατανόησή της. Στην παράγραφο που έγραψα, πρόσθεσα επίσης και τις φάσεις από τις οποίες περνάει ένα λογισμικό πριν από την επίσημη κυκλοφορία του. Προσωπικά, δεν γνώριζα για αυτές και θεώρησα οτι και κάποιος άλλος αναγνώστης που δεν γνωρίζει, θα ήταν πολύ βοηθητικό να μπορεί να τις διακρίνει.
+Η προσθήκη μου αφορά τη μουσική και την σύνθεση μουσικής. Βρίσκεται στο Κεφάλαιο 5: "Αρχέτυπα" και συγκεκριμένα στο 5.3: "Σύνθετα στυλ διάσρασης". Στην παράγραφο που έγραψα, αναφέρθηκα στην σημασία ύπαρξης γρήγορης και αποτελεσματικής διάδρασης του συνθέτη με τον υπολογιστή του, για την καλύτερη αποτύπωση των ιδεών του.
 
 <br/>
 
 Παρακάτω φαίνεται η προσθήκη μου στο βιβλίο:
 <br/>
 
-![screenshot](https://github.com/tilav/book_images/blob/main/book_screenshot.png)
+![screenshot](https://github.com/tilav/kallipos/blob/master/mypictures/Screenshot%20from%20my%20book.png)
 
 Click πάνω στην εικόνα για μεταφορά στο repository της.
 <br/>
 <br/>
 
-🔹Link από το .lua αρχείο μου: [gmail.lua](https://github.com/tilav/kallipos/blob/master/gmail.lua)
+🔹Link από το .lua αρχείο μου: [music.lua](https://github.com/tilav/kallipos/blob/master/music.lua)
 <br/>
-🔹link από το .md αρχείο μου: [gmail.md](https://github.com/tilav/kallipos/blob/master/2019061/gmail.md)
+🔹link από το .md αρχείο μου: [music.md](https://github.com/tilav/kallipos/blob/master/2019061/music.md)
 <br/>
-🔹link από το φάκελο του screenshot μου: [Screenshot](https://github.com/tilav/kallipos/blob/master/mypictures/Screenshot%20from%202022-12-04%2022-34-02.png) 
+🔹link από το φάκελο του screenshot μου: [Screenshot](https://github.com/tilav/kallipos/blob/master/mypictures/Screenshot%20from%20my%20book.png) 
 <br/>
 <br/>
 
