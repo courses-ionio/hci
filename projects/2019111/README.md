@@ -86,8 +86,8 @@
  
 | [slides](https://github.com/Genti-voka/site/tree/master/_slides) | [Timelines](https://github.com/Genti-voka/site/tree/master/_timeline) | Netlify slides | Netlify timelines |
 | --- | --- | --- | --- | 
-| [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://github.com/Genti-voka/site/blob/master/_slides/deluxepaint-slides.md) | [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://github.com/Genti-voka/site/blob/master/_timeline/deluxepaint-timeline.md)| [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://cool-cuchufli-e3a3b9.netlify.app//slides/tools/) | [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://cool-cuchufli-e3a3b9.netlify.app//timeline/paint/)|
-| [Η εξέλιξη των προσωπικών υπολογιστών](https://github.com/Genti-voka/site/blob/master/_slides/deluxepaint-slides.md) | [Η εξέλιξη των προσωπικών υπολογιστών](https://github.com/Genti-voka/site/blob/master/_timeline/ibm-timeline.md) | [Η εξέλιξη των προσωπικών υπολογιστών](https://cool-cuchufli-e3a3b9.netlify.app//slides/technology/) | [Η εξέλιξη των προσωπικών υπολογιστών](https://cool-cuchufli-e3a3b9.netlify.app//timeline/computer/) |
+| [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://github.com/Genti-voka/site/blob/2019111/_slides/tools.md) | [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://github.com/Genti-voka/site/blob/2019111/_timeline/paint.md)| [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://cool-cuchufli-e3a3b9.netlify.app//slides/tools/) | [Η εξέλιξη της ζωγραφικής στον υπολογιστή](https://cool-cuchufli-e3a3b9.netlify.app//timeline/paint/)|
+| [Η εξέλιξη των προσωπικών υπολογιστών](https://github.com/Genti-voka/site/blob/2019111/_slides/technology.md) | [Η εξέλιξη των προσωπικών υπολογιστών](https://github.com/Genti-voka/site/blob/2019111/_timeline/computer.md) | [Η εξέλιξη των προσωπικών υπολογιστών](https://cool-cuchufli-e3a3b9.netlify.app//slides/technology/) | [Η εξέλιξη των προσωπικών υπολογιστών](https://cool-cuchufli-e3a3b9.netlify.app//timeline/computer/) |
 
 
   
