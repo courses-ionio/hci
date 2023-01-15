@@ -9,18 +9,18 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [My link](https://github.com/courses-ionio/help/discussions/974) | |
-| 2 | Άσκηση γραμμής εντολών(linux install) | [My link](https://github.com/courses-ionio/help/discussions/1175) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 |[My link](https://github.com/courses-ionio/help/discussions/1618) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | [My link](https://github.com/courses-ionio/help/discussions/1332) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | [My link](https://github.com/courses-ionio/help/discussions/1632) | |
-| 6 | Κατασκευή του βιβλίου Α |[My link](https://github.com/courses-ionio/help/discussions/1862) | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [My link](https://github.com/courses-ionio/help/discussions/974) | Πραγματοποιήθηκε 100%|
+| 2 | Άσκηση γραμμής εντολών(linux install) | [My link](https://github.com/courses-ionio/help/discussions/1175) | Πραγματοποιήθηκε 100% |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[My link](https://github.com/courses-ionio/help/discussions/1618) | Πραγματοποιήθηκε 100% |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | [My link](https://github.com/courses-ionio/help/discussions/1332) | Πραγματοποιήθηκε 100% |
+| 5 | Συμμετοχικό περιεχόμενο A2 | [My link](https://github.com/courses-ionio/help/discussions/1632) | Πραγματοποιήθηκε 100% |
+| 6 | Κατασκευή του βιβλίου Α |[My link](https://github.com/courses-ionio/help/discussions/1862) | Πραγματοποιήθηκε 80% γιατί μου φόρτωσε το βιβλίο χωρίς τις εικόνες |
+| 7 | Συμμετοχικό περιεχόμενο B1 | [My link](https://github.com/courses-ionio/help/discussions/2109) |  Πραγματοποιήθηκε 100% |
+| 8 | Άσκηση γραμμής εντολών | |  |
+| 9 | Συμμετοχικό περιεχόμενο B2 | [My link](https://github.com/courses-ionio/help/discussions/2112) | Πραγματοποιήθηκε 100% |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 12 | Τελική αναφορά* | [My link](https://github.com/courses-ionio/help/discussions/2113) | Πραγματοποιήθηκε 100% |
 
 
 
@@ -116,7 +116,48 @@ My links:
  Δυστυχώς, στη δημιουργία του βιβλίου το μόνο πρόβλημα που αντιμετώπισα ήταν ότι δεν μου εμφανίζει τις εικόνες με αποτέλεσμα οι σελίδες να είναι 173 και δεν κατάφερα να βρω κάποια λύση σε αυτό!
 
 
+# <h2>Συμμετοχικό Περιεχόμενο Β1</h2>
 
+ Σε αυτό το παραδοτέο αποφάσισα να ασχοληθώ με την οθόνη αφής. Ο λόγος που επέλεξα αυτό το θέμα είναι γιατί όπως έχω αναφέρει στο Συμμετοχικό Περιεχόμενο Α1 το playstasion vita περιέχει οθόνη αφής, που είναι μία μεγάλη διαφορά από το playstasion 1. Έτσι αποφάσισα να μάθω όσες περισσότερες πληροφορίες γινόταν γιατί πέρα από τον λόγο που ανέφερα, την οθόνη αφής την χρησιμοποιούμε σε καθημερινή βάση στα κινητά τηλέφωνα μας. 
+Η οθόνη αφής είναι συσκευή εισόδου και εξόδου, χωρίζεται σε δύο κατηγορίες την χωρητική και την αντιστασιακή, τις οποίες τις αναλύω στην μελέτη περίπτωσης. Τα χαρακτηριστικά της είναι πως υπάρχει απευθείας αλληλεπίδραση με τον άνθρωπο και πως δεν χρειάζεται καμία συσκευή απλά και μόνο με το ανθρώπινο χέρι.
+
+Τα screenshots της προσθήκης μου στη μελέτη περίπτωσης :
+
+![touchscreen](https://user-images.githubusercontent.com/72515404/212551235-8efc5022-05ab-4c72-8900-c2ca5dd5f961.png)
+![touchscreen2](https://user-images.githubusercontent.com/72515404/212551272-3b619b40-06ba-4257-a12a-5f5e7fc817a0.png)
+
+Προσθήκη Μελέτη Περίπτωσης :
+ - [My site](https://sensational-sunflower-9ad869.netlify.app//case-study/touchscreen/)
+ - [Site Oroseiras](https://oroseira2022.netlify.app/case-study/touchscreen/)
+ 
+Pull request case study :
+ - [Site](https://github.com/Oroseira/site/pull/25)
+
+Pull request images :
+ - [Image](https://github.com/Oroseira/images/pull/13)
+ 
+# <h2>Συμμετοχικό Περιεχόμενο Β2</h2>
+
+ Στο συγκεκριμένο παραδοτέο ασχολήθηκα με την βιογραφία του George Samuel Hurst, ο οποίος είναι ένας από τους εφευρέτες της οθόνης αφή, ο πρώτος. Ο λόγος που επέλεξα να αναλύσω την δική του βιογραφία είναι γιατί θέλησα να μάθω περισσότερα πράγματα για έναν άνθρωπο ο οποίος έχει εφεύρει κάτι το οποίο το χρησιμοποιώ και το οποίο έχει αλλάξει την ζωή όλων των ανθρώπων και την έχει κάνει πολύ πιο εύκολη. Η οθόνη αφής έχει λύσει πολλά χέρια. Ο Hurst μου τράβηξε το ενδιαφέρον γιατί εκτός από την διάνοιά του, η δύναμή του ήταν να βλέπει τα άσχετα πράγματα, που φαινόταν στους γύρω του, ως χρήσιμα. Ήταν σπουδαίος επιστήμονας.
+
+Το screenshot της προσθήκης μου στη μελέτη περίπτωσης :
+
+![hurst](https://user-images.githubusercontent.com/72515404/212551729-b6586830-d06d-42c9-a34d-ca851f8d04a5.png)
+
+Προσθήκη Βιογραφίας :
+ - [My site](https://sensational-sunflower-9ad869.netlify.app//biography/hurst/)
+ - [Site Oroseiras](https://oroseira2022.netlify.app/biography/hurst/)
+ 
+Pull request biography :
+ - [Site](https://github.com/Oroseira/site/pull/25)
+
+Pull request images :
+ - [Image](https://github.com/Oroseira/images/pull/13)
+ 
+# <h2>Τελική Αναφορά</h2>
+
+ Προσπάθησα μέχρι και την τελευταία στιγμή πριν την λήξη του εξαμήνου να παραδώσω όσο πιο πολλά παραδοτέα γινόταν. Η αλήθεια είναι πως δυσκολεύτηκα αρκετά στην αρχή, δεν ήξερα να χειρίζομαι καθόλου Linux λογισμικά. Παρόλα αυτά , τώρα στο τέλος  μπορώ με σιγουριά να χρησιμοποιώ συστήματα Linux. Κατά την διάρκεια των εργασιών παρακολουθούσαμε και κάποια βίντεο -κουίζ τα οποία μας πρόσφεραν πολλές πληροφορίες για διάφορα επιτεύγματα που δεν γνώριζα. Επίσης, έμαθα την πραγματική έννοια της επικοινωνίας του ανθρώπου με τον υπολογιστή και σε αυτό βοήθησαν και τα  θέματα που επέλεξα να αναλύσω παραπάνω αλλά και η μελέτη του βιβλίου σας. Κλείνοντας, πλέον θα χρησιμοποιώ Linux και το github, το οποίο εξίσου δεν το είχα χρησιμοποιήσει στο παρελθόν καθόλου, οπότε έχω μάθει αρκετά πράγματα μετά από όλη αυτή την δουλειά στην Αναφορά μου, τα οποία θα είναι σίγουρα χρήσιμα και στο μέλλον.
+ 
 # <h2 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h2>
 
 | - | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
