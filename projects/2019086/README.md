@@ -48,5 +48,6 @@
 | --- | --- |
 |[Slides OracleDesigner](https://github.com/Chris-Livas/site/blob/master/_timeline/oracledesigner-timeline.md) | [Slides OracleDesigner](https://chrislivas.netlify.app/slides/oracledesigner-slide/) |
 |[Timeline OracleDesigner](https://github.com/Chris-Livas/site/blob/master/_timeline/oracledesigner-timeline.md) | [Timeline OracleDesigner](https://chrislivas.netlify.app/timeline/oracledesigner-timeline/) |
-|[Slides WordPress](
+|[Timeline WordPress](https://github.com/Chris-Livas/site/blob/master/_timeline/wordpress-timeline.md) | [Timeline WordPress](https://chrislivas.netlify.app/timeline/wordpress-timeline/) |
+|[Slides WordPress](https://github.com/Chris-Livas/site/blob/master/_slides/Wordpress.md) | [Slides WordPress](https://chrislivas.netlify.app/slides/wordpress/) |
 
