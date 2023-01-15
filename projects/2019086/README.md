@@ -66,3 +66,6 @@
 
 # 8ο Παραδοτέο Άσκηση Γραμμής Εντολών (Static Site) 
 
+
+
+[Asciinema Link](https://asciinema.org/a/QkRiGLyDN9qt0tUjWk5sX2wfl)
