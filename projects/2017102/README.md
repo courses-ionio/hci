@@ -70,8 +70,24 @@ Journalctl -b link: https://asciinema.org/a/QUa11LvUnV44zy5WRoFVbO1Zt
 ## Μικροδιορθώσεις παραδοτέων
 Πραγματοποιήθηκαν αλλαγές στα recordings που έκανα στο asciinema στα παραδοτέα 2 και 4 διότι ήθελα να προσθέσω λίγο χρώμα στο τερματικό ώστε να είναι πιο ευχάριστο στην όψη αλλά και πιο πρακτικό στη λειτουργία του (δηλαδή αυτό το βαρετό default της κονσόλας). Το μόνο που έκανα είναι να επεξεργαστώ το αρχείο `.bashrc` και έκανα και ένα backup αυτού στο home directory σε περίπτωση που έκανα κάποιο λάθος.
 
+# <h2 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h2>
 
- 
+| - | Τίτλος | Πραγματοποιήθηκαν | Εμπρόθεσμα |
+| ---- | ---- | ---- | ---- |
+| 1 | Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) |  ✔️ | ✔️ | 
+| 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories |  ✔️ |  ✔️ |
+| 3 | Xerox Star User Interface (1982) 1 of 2  |  ✔️ | ✔️ |
+| 4 | Alto System Project: Larry Tesler demonstration of Gypsy  |  ✔️ | ✔️ |
+| 5 | Alan Kay: Doing with Images Makes Symbols (Full Version)  |  ✔️ | ✔️ |
+| 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | ✔️ | ✔️ |
+| 7 | Oral History of Douglas Engelbart | ✔️ | ✔️ |
+| 8 | Engelbart's Unfinished Revolution - 1998 - Session IV | ✔️ | ✔️ |
+| 9 | Dynabook: The complete Story | ✔️ | ✔️ |
+| 10 | Alan Kay at Media Lab 30 | ✔️ | ✔️ |
+| 11 | Jaron Lanier - Learning by Experience & Play | ✔️ | ✔️ |
+
+Παραθέτω και σχετικό [λινκ](https://prnt.sc/twNUHRNvBmhh) που δείχνει τα ολοκληρωμένα βίντεο-κουιζ
+
 
 ## Ομαδικότητα και συνεργασία
 - https://github.com/courses-ionio/help/discussions/840#discussioncomment-3822226
