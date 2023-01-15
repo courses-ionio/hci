@@ -73,3 +73,13 @@
 [make-latex.sh](https://github.com/P2019218/kallipos/blob/master/make-latex.sh),
 [MD](https://github.com/P2019218/kallipos/blob/master/unix/unix.md),
 [Screenshot](https://github.com/P2019218/kallipos/blob/master/pictures/Screenshot..png)  
+
+##  ΠΑΡΑΔΟΤΕΟ 7
+ για  το παραδοτέο case-study επέλεξα να αναλύσω το blackarch 
+[blackarch.md](https://github.com/P2019218/site/blob/organization/_case-study/Blackarch.md)
+[blackarch netlify](https://2019218.netlify.app/case-study/blackarch/)
+[πηγές](https://www.blackarch.org/)
+## ΠΑΡΑΔΟΤΕΟ 8
+Σε αυτό το παραδοτέο επέλεξα να φτιάξω ενα [shell script](https://github.com/P2019218/Scripts./blob/main/script1.sh) όπου ζητά από το χρήστη το όνομα ενός αρχείου markdown και την επιθυμητή μορφή εξόδου (είτε pdf είτε docx είτε  html).
+[asciinema](https://asciinema.org/a/tDYz5jw6WeUsrJbi8CGqtoDTw)
+
