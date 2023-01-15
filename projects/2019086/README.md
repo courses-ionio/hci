@@ -32,10 +32,11 @@
 | Repo links | My site links | Team's site links |
 | --- | --- | --- | 
 | [WordPress](https://github.com/Chris-Livas/_gallery/blob/master/wordpress.md) | [WordPress](https://chrislivas.netlify.app/gallery/wordpress/) | [WordPress]() |
-| [OracleDesigner](https://github.com/Chris-Livas/_gallery/blob/master/oracledesigner.md) | [OracleDesigner](https://chrislivas.netlify.app/gallery/oracledesigner/) | [OracleDesigner]() |
+| [OracleDesigner](https://github.com/Chris-Livas/_gallery/blob/master/oracledesigner.md) | [OracleDesigner](https://chrislivas.netlify.app/gallery/oracledesigner/) | [OracleDesigner]() | 
+
 
 ![wordpress-thumb](https://user-images.githubusercontent.com/72660624/212513751-54c2d422-827c-4b67-b199-20b4cbcc41fb.png)
-![oracledesigner-thumb](https://user-images.githubusercontent.com/72660624/212514658-3699f902-a1d2-466e-a1bd-926a4807c819.jpeg)
+![oracledesigner](https://user-images.githubusercontent.com/72660624/212523229-e85be2f9-99a2-4a09-9ee7-c3cd90d3c232.jpeg)
 
 # 4ο παραδοτέο Άσκηση γραμμής εντολών
 
