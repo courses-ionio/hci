@@ -8,18 +8,18 @@
 
 | Εβδομάδα | Παραδοτέα | Links προς τις συζητήσεις του μαθήματος | Αυτοαξιολόγηση |
 | --- | --- | --- | --- |
-| 1 |  **1.** [Δημιουργία ομάδας](https://github.com/Oroseira) **2.**[Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://github.com/Mnlsvt/hci/edit/2019206/projects/2019206/README.md) **3.** [Συγγραφή της εισαγωγής](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) **4.** αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/964)| [Link προς Discussions](https://github.com/courses-ionio/help/discussions/964) | |
-| 2 | [Άσκηση γραμμής εντολών (linux install)](#%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CF%8C-%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1158) | |
-| 3 | [Συμμετοχικό περιεχόμενο A1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1165) | |
-| 4 | [Άσκηση γραμμής εντολών (warm up cli)](#%CE%B1%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-warmup) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1277) | |
-| 5 | [Συμμετοχικό περιεχόμενο A2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B12) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1955) | |
-| 6 | [Κατασκευή του βιβλίου Α](#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B1) | Link προς Discussions | |
-| 7 | [Συμμετοχικό περιεχόμενο B1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1958) | |
+| 1 |  **1.** [Δημιουργία ομάδας](https://github.com/Oroseira) **2.**[Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://github.com/Mnlsvt/hci/edit/2019206/projects/2019206/README.md) **3.** [Συγγραφή της εισαγωγής](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) **4.** αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/964)| [Link προς Discussions](https://github.com/courses-ionio/help/discussions/964) | Ακολούθησα τα βήματα με τον τρόπο που έπρεπε και που ορίζουν οι οδηγίες. 10/10 |
+| 2 | [Άσκηση γραμμής εντολών (linux install)](#%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CF%8C-%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1158) | Επιτυχής εγκατάσταση του λειτουργικού συστήματος και εξατομίκευση αυτού. 10/10 |
+| 3 | [Συμμετοχικό περιεχόμενο A1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1165) | Αναλυτική αναφορά και επεξήγηση όσων παρουσιάζονται. 10/10 |
+| 4 | [Άσκηση γραμμής εντολών (warm up cli)](#%CE%B1%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-warmup) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1277) | Σωστή εκτέλεση των εντολών. Ωστόσο θα μπορούσε να είχε γίνει η επιλογή πιο δύσκολών ασκήσεων για εξάσκηση. 9/10 |
+| 5 | [Συμμετοχικό περιεχόμενο A2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B12) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1955) | Σωστή αναφορά και παρουσίαση του περιεχομένου. Ωστόσο η ετικετοποίηση των αλλαγών θα μπορούσε να ήταν και ορθότερη. 8/10 |
+| 6 | [Κατασκευή του βιβλίου Α](#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B1) | | Σωστή αναφορά στο περιεχόμενο του βιβλίου και κατανόηση σε βάθος του αντικειμένου (μέσα από συναντήσεις που έγιναν στο μάθημα). Ωστόσο στο τεχνικό κομμάτι ακολούθησα το guide που δόθηκε από συμφοιτητή μου και δεν ασχολήθηκα όσο θα μπορούσα να είχα ασχοληθεί. 8/10 |
+| 7 | [Συμμετοχικό περιεχόμενο B1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1958) | Σωστή αναφορά και παρουσίαση του περιεχομένου 10/10 |
 | 8 | Άσκηση γραμμής εντολών | | |
-| 9 | [Συμμετοχικό περιεχόμενο B2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B22) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1959) | |
+| 9 | [Συμμετοχικό περιεχόμενο B2](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B22) | [Link προς Discussions](https://github.com/courses-ionio/help/discussions/1959) | Σωστή αναφορά και παρουσίαση του περιεχομένου 10/10 |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | Τελική αναφορά* | | |
+| 12 | [Τελική αναφορά](#%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC---%CF%83%CF%85%CE%BC%CF%80%CE%B5%CF%81%CE%AC%CF%83%CE%BC%CE%B1%CF%84%CE%B1-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF-%CE%BC%CE%AC%CE%B8%CE%B7%CE%BC%CE%B1) | | |
 | 13 | [Βίντεο κουίζ και κουίζ κειμένου](#%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF-%CE%BA%CE%BF%CF%85%CE%AF%CE%B6-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%BF%CF%85%CE%AF%CE%B6-%CE%BA%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CE%BF%CF%85) | |
 
 
@@ -177,7 +177,7 @@
  
  Το [lua αρχείο μου](https://github.com/Mnlsvt/kallipos/blob/master/flight_simulator.lua)
  
- Edit: Μετά από καθοδήγηση του καθηγητή του μαθήματος (κ. Χωριανόπουλο) επέλεξα να κάνω ακόμη μια προσθήκη η οποία να είναι πιο κοντά στα πλαίσια του μαθήμτος.
+ Edit: Μετά από συνομιλία μου με τον καθηγητή του μαθήματος (κ. Χωριανόπουλο) είχα επιλέξει να κάνω ακόμη μια προσθήκη η οποία παρόλα αυτά, μετά από σχολιασμό στην αίθουσα, κατάλαβα πως δεν εφάπτεται πλήρως πλαίσια του μαθήμτος. Ωστόσο επέλεξα να την κρατήσω διότι πιστεύω πως μπορεί να έχει θετική επίδραση σε κάποιον που το διαβάζει για πρώτη φορά.
  
  Η νέα μου προσθήκη αναφέρεται στην εφαρμογή Google Translate και αναλύει τον τρόπο με τον οποίο λειτουργεί.
  
@@ -189,36 +189,45 @@
 
 # **Συμμετοχικό περιεχόμενο Β1**
 
-Για αυτό το παραδοτέο αποφάσισα να ασχοληθώ με μια πατέντα η οποία βοήθησε πολύ στην ανάπτυξη των συστημάτων με γραφικά που διαθέτουμε στις μέρες μας.
+Για αυτό το παραδοτέο αποφάσισα να ασχοληθώ με το Wii Remote Cotroller. Πρόκειται για το χειριστήριο της κονσόλας βιντεοπαιχνιδιών Nintendo Wii το οποίο έδωσε τη δυνατότητα στον χρήστη να βιώσει πραγματικά το παιχνίδι που ήθελε να παίξει προσθέτοντας το χαρακτηριστικό της κίνησης.
 
-Την πατέντα αυτή εφήυρε ο επιστήμονας της πληροφορικής, Steve Wozniak και ο σκοπός της δημιουργίας της ήταν η δημιουργία ενός πιο αποδοτικού συστήματος το οποίο θα μπορούσε να χρησιμοποιηθεί σε οποιοδήποτε μηχάνημα μπορεί να υποστηρίξει γραφικά. Μια από τις μεγαλύτερες και πιο γνωστές εφαρμογές της πατέντας ήταν στις τηλεοράσεις της εποχής αναβαθμίζοντας τόσο τα χρώματα της εικόνας (RGB) όσο και το ασπρόμαυρο κομμάτι.
+Η κονσόλα αγαπήθηκε πάρα πολύ απο το κοινό και ο λόγος που επέλεξα να κάνω αυτή την αναφορά σε αυτό είναι επειδή, όπως και με τις άλλες κονσόλες, είμαι κάτοχος αυ΄της και γνωρίζω τη διαφορά που έφερε στον κόσμο των βινντεοπαιχνιδιών μια τέτοιου είδους τεχνολογία.
 
-Ο λόγος που επέλεξα προσωπικά να ασχοληθώ με το συγκεκριμένο αντικείμενο είναι το γεγονός ότι όλες οι συσκευές τις οποίες χρησιμοποιεί ο κόσμος (με μερικές εξαιρέσεις πάντα) έχουν γραφικά τα οποία μπορούν να παίξουν βίντεο. Έχοντας μεγαλώσει σε ένα περιβάλλον με τέτοιου είδους συσκευές, μου είναι πολύ δύσκολο να φανταστώ έναν κόσμο στον οποίο δεν περιλαμβάνεται αυτή η τεχνολογία.
+Με τη χρήση του χειριστηρίου λοιπόν και με έναν αισθητήρα κίνησης που τοποθετείται στην κορυφή της οθόνης, ο παίχτης μπορούσε να αλληλεπιδρά με το παιχνίδι και το περιβάλλον του, όπως θα έκανε και αν ήταν πραγματικά μπροστά του. Με λίγα λόγια με τη χρήση της νέας αυτής τεχνολογίας, μπορούσε κάποιος με μια κίνηση του χεριού του να δείξει, να γράψει ή ακόμη και να αθληθεί.
 
-Παρακάτω βρίσκεται η προσθήκη μου όπως φαίνονται στο [site](https://oroseira2022.netlify.app) της [ομάδας](https://github.com/Oroseira) μου.
+Παρακάτω βρίσκεται η [προσθήκη μου](https://oroseira2022.netlify.app/case-study/wii_remote/) όπως φαίνονται στο [site](https://oroseira2022.netlify.app) της [ομάδας](https://github.com/Oroseira) μου.
+
+<h3>B1: Η <a href="https://oroseira2022.netlify.app/case-study/wii_remote/">μελέτη περίπτωσης</a> του Wii Remote Controller.</h3>
 
 <p align=center>
- <a href="https://oroseira2022.netlify.app/case-study/microcomputer_video/" target="_blank"><img src="https://user-images.githubusercontent.com/72461719/201521781-fe163866-3163-4710-9bb3-d264e4f9219f.png" width="400"/></a>
+ <a href="https://oroseira2022.netlify.app/case-study/wii_remote/" target="_blank"><img src="https://user-images.githubusercontent.com/72461719/212569022-eef99e2e-5c75-4d0a-b57e-9dec3ceaacca.png" width="400"/></a>
  </p>
  
- Το [pull request](https://github.com/Oroseira/site/pull/2) μου για την [ομάδα](https://github.com/Oroseira/).
+ Το [pull request](https://github.com/Oroseira/site/pull/28) μου για την [ομάδα](https://github.com/Oroseira/).
 
 # **Συμμετοχικό περιεχόμενο Β2**
 
-Η βιογραφία με την οποία επέλεξα να αναπτύξω είναι αυτή του Steve Wozniak ο οποίος είναι ο εφευρέτης πολλών πατεντών για χρήση σε υπολογίστικά συστήματα μεταξύ των οποίων βρίσκεται και αυτή που ανέφερα στο [Β1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21) και μεγάλο στέλεχος της Apple.
+Η βιογραφία με την οποία επέλεξα να αναπτύξω είναι αυτή του Satoru Iwata ο οποίος ήταν CEO της εταιρία Nintendo την περίοδο που κυκλοφόρησε το Wii καθώς και το Nintendo 3DS που προανέφερα στο [Α1](#%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1). Σε γενικότερη κλίμακα ήταν ένας από τους μεγαλύτερους CEO που έχουν περάσει από την εταιρία, καθώς οι αλλαγές που έφερε, άλλαξαν για πάντα τον τρόπο με τον οποίο βιώνουμε την εμπειρία του gaming.
 
+Παρακάτω βρίσκεται η [προσθήκη μου](https://oroseira2022.netlify.app/biography/satoru_iwata/) όπως φαίνονται στο [site](https://oroseira2022.netlify.app) της [ομάδας](https://github.com/Oroseira) μου.
 
-Παρακάτω βρίσκεται η προσθήκη μου όπως φαίνονται στο [site](https://oroseira2022.netlify.app) της [ομάδας](https://github.com/Oroseira) μου.
-
-<h3>B2: Η <a href="https://oroseira2022.netlify.app/biography/wozniak/">βιογραφία</a> του Steve Wozniak.</h3>
+<h3>B2: Η <a href="https://oroseira2022.netlify.app/biography/satoru_iwata/">βιογραφία</a> του Satoru Iwata.</h3>
 
 <p align=center>
- <a href="https://oroseira2022.netlify.app/biography/wozniak/" target="_blank"><img src="https://user-images.githubusercontent.com/72461719/201521769-f8d3c352-24de-45a9-9b65-cfdc3f24656b.png" width="400"/></a>
+ <a href="https://oroseira2022.netlify.app/biography/satoru_iwata/" target="_blank"><img src="https://user-images.githubusercontent.com/72461719/212569016-f24879e3-4286-4f16-9928-76c198d4eaf9.png" width="400"/></a>
  </p>
  
- Το [pull request](https://github.com/Oroseira/site/pull/2) μου για την [ομάδα](https://github.com/Oroseira/).
+ Το [pull request](https://github.com/Oroseira/site/pull/28) μου για την [ομάδα](https://github.com/Oroseira/).
 
 ❗Μπορείτε να κάνετε κλικ πάνω στις εικόνες για να μεταφερθείτε απευθείας στον σύνδεσμο.
+
+# **Τελική ανναφορά - Συμπεράσματα από το μάθημα**
+
+Μέσα από την τελική μου αναφορά θέλω να αναφέρω πως το μάθημα αυτό και ο τρόπος με τον οποίο διεξάχθηκε, με βοήθησε να κατανοήσω κάποια πράγματα για το επάγγελμα που επιθυμώ να ακολουθήσω τα οποία δεν μου είχαν κινήσει το ενδιαφέρον στο παρελθόν.
+
+Αρχικά πιστεύω πως έχω κατανοήσει αρκετά τι σημαίνει επικοινωνία ανθρώπου υπολογιστή και το πόσο μεγάλη είναι η διαφορά ανάμεσα σε αυτό που θα μπορούσαμε να είμαστε και σε αυτό που πραγματικά είμαστε. Η μεγαλύτερη συνειδητοποίηση μου έιναι στο γεγονός ότι οι άνθρωποι έφτιαξαν τον υπολογιστή με το σκοπό ενός εργαλείου και στην πορεία κατέληξε να χρησιμοποιείται εμπορικά, κρύβοντας τις πραγματικές δυνατότητες που θα μπορούσαμε να έχουμε. 
+
+Πιστεύω επίσης πως ως μελλοντικοί επιστήμονες της πληροφορικής, θα πρέπει να γνωρίζουμε κάποια πράγματα σχετικά με τον τρόπο που χειριζόμαστε τα εργαλεία μας και αν μην είμαστε απλά "τυφλοί" χρήστες αυτών. Αυτός πιστεύω πως είναι και ο λόγος που το συγκεκριμένο μάθημα πρέπει να γίνεται σε πλατφόρμες όπως αυτή του github οι οποίες είναι ειδικά σχεδιασμένες για εμάς, και όχι από άλλες πλατφόρμες που τείνουν να μας βάζουν παρωπίδες στο επάγγελμα μας.
 
 # <h1 align="center">Βίντεο Κουίζ και Κουίζ Κειμένου</h1>
 
