@@ -128,7 +128,7 @@ e-mail: p19tila@ionio.gr <br/>
 [Moog Synthesizer - Συσκευές Εισόδου](https://oroseira2022.netlify.app/timeline/input-devices/)
 
 
-![Moog-timeline](https://user-images.githubusercontent.com/72463627/212552296-4fb85d15-ef07-4f95-80bc-469599bcdd38.png)
+![Moog-timeline](https://user-images.githubusercontent.com/72463627/212552670-7b1e6970-3ac9-40a8-850b-5c7e6a5ea1a8.png)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -140,7 +140,7 @@ e-mail: p19tila@ionio.gr <br/>
 [Pro Tools - Διαδραστικά Συστήματα](https://oroseira2022.netlify.app/timeline/systems/)
 
 
-![ProTools-timeline](https://user-images.githubusercontent.com/72463627/212552327-7daaa167-6dbe-4d81-a2d7-51f7d9dece17.png)
+![ProTools-timeline](https://user-images.githubusercontent.com/72463627/212552707-cd21a2fa-cdda-48ce-98fe-ac243f350653.png)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -158,7 +158,7 @@ e-mail: p19tila@ionio.gr <br/>
 [Moog Synthesizer - Τεχνολογία](https://oroseira2022.netlify.app/slides/technology/)
 
 
-![Moog-slides](https://user-images.githubusercontent.com/72463627/212552405-124dfd2b-d612-46bf-8df1-22c1a04e66ab.png)
+![Moog-slides](https://user-images.githubusercontent.com/72463627/212552752-17342bbe-4f27-4e33-bbc6-94d69fd76245.png)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -170,8 +170,20 @@ e-mail: p19tila@ionio.gr <br/>
 [Pro Tools - Εργαλεία και Τεχνικές](https://oroseira2022.netlify.app/slides/tools/)
 
 
-![ProTools-slides](https://user-images.githubusercontent.com/72463627/212552419-894ec537-c037-4498-99b0-2479822afadc.png)
+![ProTools-slides](https://user-images.githubusercontent.com/72463627/212552767-55560bcd-bcdd-40d3-a94c-e51b0d6569fb.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br/>
+Οι προσθήκες μου στο Χρονολόγιο και τις Διαφάνειες της ιστοσελίδας μου:
+<br/>
+<br/>
+<br/>
+
+- Moog Synthesizer: [Χρονολόγιο](https://tilav.netlify.app/timeline/input-devices/) και [Διαφάνειες](https://tilav.netlify.app/slides/technology/)
+
+<br/>
+
+- Pro Tools: [Χρονολόγιο](https://tilav.netlify.app/timeline/systems/) και [Διαφάνειες](https://tilav.netlify.app/slides/tools/)
 
 <br/>
 <br/>
