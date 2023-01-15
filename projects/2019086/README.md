@@ -6,7 +6,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Link στο discussions](https://github.com/courses-ionio/help/discussions/1754) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Link στο discussions](https://github.com/courses-ionio/help/discussions/2100) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Link στο discussions](https://github.com/courses-ionio/help/discussions/1757) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 |[Link στο discussions] | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Link στο discussions](https://github.com/courses-ionio/help/discussions/2101) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών |[Link στο discussions] | |
@@ -52,4 +52,6 @@
 |[Timeline OracleDesigner](https://github.com/Chris-Livas/site/blob/master/_timeline/oracledesigner-timeline.md) | [Timeline OracleDesigner](https://chrislivas.netlify.app/timeline/oracledesigner-timeline/) |
 |[Timeline WordPress](https://github.com/Chris-Livas/site/blob/master/_timeline/wordpress-timeline.md) | [Timeline WordPress](https://chrislivas.netlify.app/timeline/wordpress-timeline/) |
 |[Slides WordPress](https://github.com/Chris-Livas/site/blob/master/_slides/Wordpress.md) | [Slides WordPress](https://chrislivas.netlify.app/slides/wordpress/) |
+
+# 8ο Παραδοτέο Άσκηση Γραμμής Εντολών (Static Site) 
 
