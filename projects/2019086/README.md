@@ -4,12 +4,12 @@
 | --- | --- | --- | --- |
 | 1 | Εισαγωγή μαθήματος |[ανάρτηση εισαγωγής στο discussions](https://github.com/courses-ionio/help/discussions/941) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Link στο discussions](https://github.com/courses-ionio/help/discussions/1754) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[Link στο discussions](https://github.com/courses-ionio/help/discussions/2100) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Link στο discussions](https://github.com/courses-ionio/help/discussions/1757) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Link στο discussions] | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 8 | Άσκηση γραμμής εντολών |[Link στο discussions] | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
