@@ -5,6 +5,7 @@
 Ονοματεπώνυμο: Ελένη Τηλαβερίδου <br/>
 ΑΜ: Π2019061 <br/>
 e-mail: p19tila@ionio.gr <br/>
+Ομάδα: [Οροσειρά](https://github.com/Oroseira)
 
 
 
@@ -63,33 +64,40 @@ e-mail: p19tila@ionio.gr <br/>
 Στο συγκεκριμένο παραδοτέο πρόσθεσα στην ιστοσελίδα της ομάδας μου τα παρακάτω:
 <br/>
 <br/>
-1η προσθήκη: [Sony Walkman](https://oroseira2022.netlify.app/gallery/walkman/)
+1η προσθήκη: [Moog Synthesizer](https://oroseira2022.netlify.app/gallery/moog-synthesizer/)
 <br/>
 <br/>
-![walkman](https://github.com/tilav/images/blob/master/sony-walkman.jpg)
+![moog-synthesizer](https://github.com/Oroseira/images/blob/b2bb17b1f9609e866f99826b6c30ff556f87aa87/moog-synthesizer.jpg)
+<br/>
+<p>Το Moog Synthesizer δημιουργήθηκε από τον Robert Moog όταν συνάντησε τον συνθέτη Herb Deutsch ο οποίος έφτιαχνε ηλεκτρονική μουσική μέσω μιας χρονοβόρας διαδικασίας. Οι δυο τους συνεργάστηκαν για τη δημιουργία ενός στούντιο ηλεκτρονικής μουσικής.Το Moog Synthesizer αποτελούνταν από διαφορετικά modules (τμήματα) που δημιουργούσαν και διαμόρφωναν ήχους. Ο χρήστης συνδέοντας τα modules με patch cords, καλώδια παρόμοια με τα σημερινά καλώδια δικτύου, δημιουργούσε τον επιθυμητό ήχο. Εκτός από τα modules, το moog synthesizer είχε και πλήκτρα (πιάνο), πετάλια για τα πόδια, χειριστήρια joystick κ.α. με τα οποία ο ήχος είχε τελικά καλύτερα αποτελέσματα.</p>
+<br/>
+<br/>
+
+2η προσθήκη: [Pro Tools](https://oroseira2022.netlify.app/gallery/pro-tools/)
+<br/>
+<br/>
+![Pro Tools](https://github.com/Oroseira/images/blob/b2bb17b1f9609e866f99826b6c30ff556f87aa87/pro-tools.jpg)
+<br/>
+<p>Το Pro Tools ήταν μια εφαρμογή για δημιουργία ψηφιακής μουσικής και χρησιμοποιούνταν για ηχογράφηση, επεξεργασία και mastering. Οι δημιουργοί της, Evan Brooks και Peter Gotcher, την εμπνεύστηκαν από το user interface της MAC αλλά στη συνέχεια διατέθηκε και για windows. Στο συγκεκριμένο μοντέλο, η διεπαφή ήχου παρείχε στον χρήστη μόνο 4 κανάλια ταυτόχρονα, αλλά μπορούσε να χρησιμοποιεί απεριόριστα εικονικά κανάλια.</p>
+
+
+
 <br/>
 <br/>
 <br/>
-<br/>
-2η προσθήκη: [Sony Discman](https://oroseira2022.netlify.app/gallery/discman/)
-<br/>
-<br/>
-![diskman](https://github.com/tilav/images/blob/master/sony-discman.jpg)
+
+Δημιούργησα ένα [test fork](https://github.com/tilav/site) και ένα [test branch](https://github.com/tilav/site/tree/2019061) για να ελέγξω τη λειτουργία της [ιστοσελίδας μου](https://tilav.netlify.app/) πριν κάνω Pull Request στην ομάδα μου.
 <br/>
 <br/>
 <br/>
-<br/>
-Δημιούργησα ένα [test fork](https://github.com/tilav/site) και ένα [test branch](https://github.com/tilav/site/tree/2019061) για να ελέγξω τη λειτουργία της [ιστοσελίδας μου](https://boisterous-tartufo-a017e1.netlify.app/) πριν κάνω Pull Request στην ομάδα μου.
-<br/>
-<br/>
-<br/>
+
 Τα Pull Request προς την ομάδα μου:
 <br/>
-🔹 [site](https://github.com/Oroseira/site/pull/3)
+🔹 [site](https://github.com/Oroseira/site/pull/19)
 <br/>
-🔹 [_gallery](https://github.com/Oroseira/_gallery/pull/2)
+🔹 [_gallery](https://github.com/Oroseira/_gallery/pull/11)
 <br/>
-🔹 [images](https://github.com/Oroseira/images/pull/2)
+🔹 [images](https://github.com/Oroseira/images/pull/10)
 <br/>
 <br/>
 Η ιστοσελίδα της ομάδας μου -> [Oroseira site](https://oroseira2022.netlify.app/)
@@ -111,23 +119,26 @@ e-mail: p19tila@ionio.gr <br/>
 <br/>
 <h1 align="center">Συμμετοχικό περιεχόμενο A2</h1>
 <br/>
-Για αυτό το παραδοτέο πρόσθεσα το Sony Walkman και το Sony Discman στο Χρονολόγιο και στις Διαφάνειες της ιστοσελίδας της ομάδας μου, με βάση τις κατηγορίες που κατατάσσονται. Παρακάτω φαίνονται οι προσθήκες μου:
+Για αυτό το παραδοτέο πρόσθεσα το Moog Synthesizer και το Pro Tools στο Χρονολόγιο και στις Διαφάνειες της ιστοσελίδας της ομάδας μου, με βάση τις κατηγορίες που κατατάσσονται. Παρακάτω φαίνονται οι προσθήκες μου:
 <br/>
 <br/>
 🔹 Χρονολόγιο:
 <br/>
 
-[Sony Walkman - Wearable](https://oroseira2022.netlify.app/timeline/wearable/)
+[Moog Synthesizer - Συσκευές Εισόδου](https://oroseira2022.netlify.app/timeline/input-devices/)
 <br/>
 
-[Sony Discman - Multimedia](https://oroseira2022.netlify.app/timeline/multimedia/)
+[Pro Tools - Διαδραστικά Συστήματα](https://oroseira2022.netlify.app/timeline/systems/)
 <br/>
 <br/>
 <br/>
 🔹 Διαφάνειες:
 <br/>
-[Sony Walkman+Sony Discman - Technology](https://oroseira2022.netlify.app/slides/technology/)
+
+[Moog Synthesizer - Τεχνολογία](https://oroseira2022.netlify.app/slides/technology/)
 <br/>
+
+[Pro Tools - Εργαλεία και Τεχνικές](https://oroseira2022.netlify.app/slides/tools/)
 <br/>
 <br/>
 <br/>
