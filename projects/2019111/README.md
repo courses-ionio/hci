@@ -93,7 +93,7 @@
   
 # Παραδοτέο 8 Άσκηση γραμμής εντολών 
  
- <p> Για την υλοποίηση του παραδοτέου χρησιμοποιήθηκε το λογισμικό groff που εγκαταστάθηκε μέσω του package manager των arch Linux "pacman" για να δημιουργηιούν κάποια αρχεία σε μορφή thtml , html με ιδιαίτερα γρήγορο τρόπο χρησιμοποιώντας την εντολή groff. Αρχικά δημιουργείτε ένα αρχείο -thtml που εμφανίζει ένα μηνυμα "geia sas sumfoitites 2022 hci course" και έπειτα 'ενα αρχείο σε output(-o) html που γράφει "i prwti mou selida" . Το groff έχει πολλές λειτουργίες και [Εδώ](https://github.com/dbarowy/groff) μπορείτε να δείτε μερικές απο αυτές. </p>
+ Για την υλοποίηση του παραδοτέου χρησιμοποιήθηκε το λογισμικό groff που εγκαταστάθηκε μέσω του package manager των arch Linux "pacman" για να δημιουργηιούν κάποια αρχεία σε μορφή thtml , html με ιδιαίτερα γρήγορο τρόπο χρησιμοποιώντας την εντολή groff. Αρχικά δημιουργείτε ένα αρχείο -thtml που εμφανίζει ένα μηνυμα "geia sas sumfoitites 2022 hci course" και έπειτα 'ενα αρχείο σε output(-o) html που γράφει "i prwti mou selida" . Το groff έχει πολλές λειτουργίες και [Εδώ](https://github.com/dbarowy/groff) μπορείτε να δείτε μερικές απο αυτές. 
  
  Λινκ για το [asciinema](https://asciinema.org/a/Pfw4WghQX6wZFiKY8SBaGR3Je)
  <a href="https://asciinema.org/a/Pfw4WghQX6wZFiKY8SBaGR3Je" target="_blank"><img src="https://asciinema.org/a/Pfw4WghQX6wZFiKY8SBaGR3Je.svg" /></a>
