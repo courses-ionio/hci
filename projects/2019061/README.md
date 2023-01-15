@@ -253,7 +253,16 @@ Tο [book](https://github.com/tilav/kallipos/blob/master/book/book.pdf) μου.
 <br/>
 <br/>
 <br/>
+Τα Pull Request προς την ομάδα μου:
+<br/>
 
+🔹 [site](https://github.com/Oroseira/site/pull/20)
+<br/>
+🔹 [images](https://github.com/Oroseira/images/pull/14)
+
+<br/>
+<br/>
+<br/>
 
 <h1 align="center">Συμμετοχικό περιεχόμενο B2</h1>
 <br/>
@@ -270,9 +279,15 @@ Tο [book](https://github.com/tilav/kallipos/blob/master/book/book.pdf) μου.
 <br/>
 
 Η προσθήκη της βιογραφίας στην [ιστοσελίδα μου](https://tilav.netlify.app/biography/rupert-neve/) (τεστ) και στην [ιστοσελίδα της ομάδας μου](https://oroseira2022.netlify.app/biography/rupert-neve/) .
+<br/>
+<br/>
+Τα Pull Request προς την ομάδα μου:
+<br/>
 
+🔹 [site](https://github.com/Oroseira/site/pull/20)
 <br/>
-<br/>
+🔹 [images](https://github.com/Oroseira/images/pull/14)
+
 <br/>
 <br/>
 <h1 align="center">Τελική αναφορά</h1>
