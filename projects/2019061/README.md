@@ -247,7 +247,7 @@ Tο [book](https://github.com/tilav/kallipos/blob/master/book/book.pdf) μου.
 <br/>
 <br/>
 
-Η προσθήκη την μελέτης περίπτωσης στην [ιστοσελίδα μου](https://tilav.netlify.app/case-study/mixing-consoles/) (τεστ) και στην [ιστοσελίδα της ομάδας μου](https://oroseira2022.netlify.app/case-study/mixing-consoles/) .
+Η προσθήκη της μελέτης περίπτωσης στην [ιστοσελίδα μου](https://tilav.netlify.app/case-study/mixing-consoles/) (τεστ) και στην [ιστοσελίδα της ομάδας μου](https://oroseira2022.netlify.app/case-study/mixing-consoles/) .
 
 <br/>
 <br/>
@@ -266,11 +266,9 @@ Tο [book](https://github.com/tilav/kallipos/blob/master/book/book.pdf) μου.
 <br/> 
 Ο Arthur Rupert Neve ήταν ένας Βρετανοαμερικανός ηλεκτρονικός μηχανικός και επιχειρηματίας, ο οποίος ήταν πρωτοπόρος σχεδιαστής επαγγελματικού εξοπλισμού ηχογράφησης. Σχεδίασε εξοπλισμό αναλογικής ηχογράφησης και μίξης ήχου που ήταν περιζήτητος από επαγγελματίες μουσικούς και τεχνικούς ηχογράφησης.
 <br/>
+<br/>
 
-
-
-
-
+Η προσθήκη της βιογραφίας στην [ιστοσελίδα μου](https://tilav.netlify.app/biography/rupert-neve/) (τεστ) και στην [ιστοσελίδα της ομάδας μου](https://oroseira2022.netlify.app/biography/rupert-neve/) .
 
 
 <h1 align="center">Βίντεο Κουίζ </h1>
