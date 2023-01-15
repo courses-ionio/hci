@@ -69,3 +69,18 @@
 Το SED είναι ένας ισχυρός επεξεργαστής ροής κειμένου. Μπορεί να κάνει εισαγωγή, διαγραφή, αναζήτηση και αντικατάσταση.Χρησιμοποιώντας το SED μπορούμε να επεξεργαστούμε τα αρχεία ακόμη και χωρίς να τα ανοίξουμε, κάτι που είναι πολύ πιο γρήγορος τρόπος για να βρούμε και να αντικαταστήσουμε κάτι στο αρχείο, από το να ανοίξουμε πρώτα αυτό το αρχείο στο  Editor και μετά να το αλλάξουμε. Σε αυτή την άσκηση γραμμής εντολών αντικατέστησα την ξένη ορολογία author με την ελληνική λέξη συγγραφέας.
 
 [Asciinema Link](https://asciinema.org/a/QkRiGLyDN9qt0tUjWk5sX2wfl)
+
+# Video-Quiz 
+
+|  | Τίτλος | Πραγματοποιήθηκαν |
+| --- | --- | --- | 
+| 1 | Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) | :heavy_check_mark: | 
+| 2 | UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories | :heavy_check_mark: | 
+| 3 | Xerox Star User Interface (1982) 1 of 2 | :heavy_check_mark: | 
+| 4 | Alto System Project: Larry Tesler demonstration of Gypsy | :heavy_check_mark: | 
+| 5 | Alan Kay: Doing with Images Makes Symbols (Full Version) | :heavy_check_mark: | 
+| 6 | FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 | :heavy_check_mark: | 
+| 7 | Oral History of Douglas Engelbart | :heavy_check_mark: | 
+| 8 | Engelbart's Unfinished Revolution  1998  Session IV | :heavy_check_mark: | 
+| 9 | Alan Kay at Media Lab 30 | :heavy_check_mark: | 
+| 10 | Jaron Lanier - Learning by Experience & Play  | :heavy_check_mark: | 
