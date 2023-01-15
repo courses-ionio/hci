@@ -2,7 +2,7 @@
 ΟΝΟΜΑΤΕΠΩΝΥΜΟ : ΧΡΗΣΤΟΣ ΛΙΒΑΣ 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | Εισαγωγή μαθήματος |[ανάρτηση εισαγωγής στο discussions](https://github.com/courses-ionio/help/discussions/941) | |
+| 1 | Εισαγωγή μαθήματος |[Link στο discussions ](https://github.com/courses-ionio/help/discussions/941) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Link στο discussions](https://github.com/courses-ionio/help/discussions/1754) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Link στο discussions](https://github.com/courses-ionio/help/discussions/2100) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |[Link στο discussions](https://github.com/courses-ionio/help/discussions/1757) | |
