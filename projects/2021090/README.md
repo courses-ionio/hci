@@ -54,6 +54,7 @@
 [![asciicast](https://asciinema.org/a/2V4JYOBxZubeQ5Y2j7hrwt5hs.svg)](https://asciinema.org/a/2V4JYOBxZubeQ5Y2j7hrwt5hs)
 
 [![asciicast](https://asciinema.org/a/DbHGVuPQUreWi0unaVu619FrX.svg)](https://asciinema.org/a/DbHGVuPQUreWi0unaVu619FrX)
+
 Γνωστά προβλήματα:
 1. Για uefi συστήματα:Επιστροφή στις εργοστασιακές ρυθμίσεις και απενεργοποίηση του secure boot πριν την εγκατάσταση
 2. Αδυναμία σύνδεσης στο internet με την εντολή iwctl:Δεν υπάρχει ή δεν αναγνωρίζεται η κάρτα δικτύου μια λύση είναι καλώδιο ethernet αν υπάρχει αντίστοιχη θύρα
