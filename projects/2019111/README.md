@@ -43,11 +43,11 @@
 <br> <br>
 
 # Παραδοτέο 3 Συμμετοχικό περιεχόμενο A1
-| <b>pull request</b> | <b>Netlify links </b> |
-| --- | --- | 
-| [images](https://github.com/Oroseira/images/pull/11) | [Deluxe paint](https://cool-cuchufli-e3a3b9.netlify.app/gallery/deluxepaint/) | 
-| [gallery](https://github.com/Oroseira/_gallery/pull/12) | [Ibm5100](https://cool-cuchufli-e3a3b9.netlify.app/gallery/ibm5100/) | 
-| [site](https://github.com/Oroseira/site/pull/12) | [site]([https://incandescent-puppy-80c17f.netlify.app/](https://cool-cuchufli-e3a3b9.netlify.app/)) |
+| <b>pull request</b> | <b>Netlify links </b> | <b> Orososira links </b>
+| --- | --- | --- |
+| [images](https://github.com/Oroseira/site/pull/23) | [Deluxe paint](https://cool-cuchufli-e3a3b9.netlify.app/gallery/deluxepaint/) | [Deluxe paint]( https://oroseira2022.netlify.app/gallery/deluxepaint/ ) |
+| [gallery](https://github.com/Oroseira/site/pull/24) | [Ibm5100](https://cool-cuchufli-e3a3b9.netlify.app/gallery/ibm5100/) | [Ibm5100]( https://oroseira2022.netlify.app/gallery/ibm5100/ ) |
+| [site](https://github.com/Oroseira/site/pull/23) | [site](https://cool-cuchufli-e3a3b9.netlify.app/) | [site]( https://oroseira2022.netlify.app/ ) |
 
 
 
