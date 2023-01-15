@@ -160,11 +160,7 @@ Links: [Epub](https://github.com/inf2021229/kallipos/blob/master/book.epub)
 
 ## Ομαδικότητα
 [Q&A 1](https://github.com/courses-ionio/help/discussions/1559#discussioncomment-4124187)
-
-[Q&A 2](https://github.com/courses-ionio/help/discussions/1721#discussioncomment-4195234)
-
-[Q&A 3](https://github.com/courses-ionio/help/discussions/1693#discussioncomment-4189085)
-
-[Τελική Αναφορά 1](https://github.com/courses-ionio/hci/pull/1896#issuecomment-1382704723)
-
-[Τελική Αναφορά 2](https://github.com/courses-ionio/hci/pull/1893#issuecomment-1382703669)
+<br>[Q&A 2](https://github.com/courses-ionio/help/discussions/1721#discussioncomment-4195234)
+<br>[Q&A 3](https://github.com/courses-ionio/help/discussions/1693#discussioncomment-4189085)
+<br>[Τελική Αναφορά 1](https://github.com/courses-ionio/hci/pull/1896#issuecomment-1382704723)
+<br>[Τελική Αναφορά 2](https://github.com/courses-ionio/hci/pull/1893#issuecomment-1382703669)
