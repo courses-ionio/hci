@@ -74,19 +74,7 @@
 
 # Παραδοτέο 5
 
-Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Α2 προχώρησα στην υλοποίηση των slides και του timeline, δεν δημιούργησα δικά μου slides/timeline διότι η θεματολογία που έχω επιλέξει συμπίπτει πολύ καλά με τις ήδη υπάρχουσες θεματολογίες, το μόνο που πρόσθεσα είναι η [Εικονική Πραγματικότητα](https://github.com/Millennials-2/site/blob/organization/_slides/virtual-reality.md) στα slides διότι υπήρχε μόνο στο timeline και θεώρησα καλό θα ήταν να υπήρχε και εκεί. Όσον αφορά την διαδικασία, ήταν πιο εύκολη από το Α1 εφόσον πλέον έχω κατανοήσει τον τρόπο λειτουργίας του gituhb και αλληλεπίδρασης του με το Netlify, κάτι που έκανε την διαδικασία αρκετά πιο ομαλή, εύκολη και χωρίς δυσκολίες.
-
-
-## Προσθήκη σε timeline/slides στην Εικονική Πραγματικότητα
-|  Διαφάνειες | Χρονολόγιο
-| --- | --- | 
-| [Index Valve](pending) - [The Thrill of the fight](pending)| [Index Valve](pending) - [The Thrill of the fight](pending)|
-
-## Προσθήκη του The Thrill of the fight σε timeline/slides στα videogames
-
-|  Διαφάνειες | Χρονολόγιο
-| --- | --- | 
-| [The Thrill of the fight](pending)| [The Thrill of the fight](pending)|
+Στο συγκεκριμένο παραδοτέο για το συμμετοχικό υλικό Α2 προχώρησα στην υλοποίηση των slides και του timeline, δεν δημιούργησα δικά μου slides/timeline διότι η θεματολογία που έχω επιλέξει συμπίπτει πολύ καλά με τις ήδη υπάρχουσες θεματολογίες, το μόνο που πρόσθεσα είναι η [Εικονική Πραγματικότητα](https://github.com/Millennials-2/site/blob/organization/_slides/virtual-reality.md) στα slides διότι υπήρχε μόνο στο timeline και θεώρησα καλό θα ήταν να υπήρχε και εκεί. Όσον αφορά την διαδικασία, ήταν πιο εύκολη από το Α1 εφόσον πλέον έχω κατανοήσει τον τρόπο λειτουργίας του gituhb και αλληλεπίδρασης του με το Netlify, κάτι που έκανε την διαδικασία αρκετά πιο ομαλή, εύκολη και χωρίς δυσκολίες. Προχώρησα στην προσθήκη των [index_valve](https://millennials-2.netlify.app/gallery/valve-index/) και [thrill-of-the-fight](https://millennials-2.netlify.app/gallery/the-thrill-of-the-fight) στην κατηγορία της εικονικής πραγματικότητας, στο αντίστοιχο [slides](https://starlit-gnome-2cadfe.netlify.app/slides/virtual-reality/) και [timeline](https://starlit-gnome-2cadfe.netlify.app/timeline/virtual-reality/). Επίσης, πρόσθεσα το [thrill-of-the-fight](https://millennials-2.netlify.app/gallery/the-thrill-of-the-fight) στην κατηγορία των [videogames](https://github.com/Drexion/site/blob/organization/_slides/videogames.md), στο αντοίστιχο [slides](https://starlit-gnome-2cadfe.netlify.app/slides/videogames/) και [timeline](https://starlit-gnome-2cadfe.netlify.app/timeline/videogames/)), διότι συμπίπτει με την κατηγορία.
 
 # Παραδοτέο 6
 
