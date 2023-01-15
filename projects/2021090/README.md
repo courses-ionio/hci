@@ -154,7 +154,7 @@
 | ----------- | ----------- | -----------  |
 |   [3dsoftware](https://testsite-inf2021090.netlify.app/case-study/graphics-3d/)   |   [3dsoftware](https://github.com/inf2021090/site/blob/par-7-test/_case-study/graphics-3d.md)    |   [pull req]()           |
  
- [βιβλιογραφία:page_with_curl:]()
+ [βιβλιογραφία:page_with_curl:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-7)
  
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
