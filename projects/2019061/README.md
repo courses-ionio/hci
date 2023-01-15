@@ -126,19 +126,53 @@ e-mail: p19tila@ionio.gr <br/>
 <br/>
 
 [Moog Synthesizer - Συσκευές Εισόδου](https://oroseira2022.netlify.app/timeline/input-devices/)
+
+
+![Moog-timeline](https://user-images.githubusercontent.com/72463627/212552296-4fb85d15-ef07-4f95-80bc-469599bcdd38.png)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<br/>
+<br/>
 <br/>
 
 [Pro Tools - Διαδραστικά Συστήματα](https://oroseira2022.netlify.app/timeline/systems/)
+
+
+![ProTools-timeline](https://user-images.githubusercontent.com/72463627/212552327-7daaa167-6dbe-4d81-a2d7-51f7d9dece17.png)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+
 🔹 Διαφάνειες:
 <br/>
 
 [Moog Synthesizer - Τεχνολογία](https://oroseira2022.netlify.app/slides/technology/)
+
+
+![Moog-slides](https://user-images.githubusercontent.com/72463627/212552405-124dfd2b-d612-46bf-8df1-22c1a04e66ab.png)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<br/>
+<br/>
 <br/>
 
 [Pro Tools - Εργαλεία και Τεχνικές](https://oroseira2022.netlify.app/slides/tools/)
+
+
+![ProTools-slides](https://user-images.githubusercontent.com/72463627/212552419-894ec537-c037-4498-99b0-2479822afadc.png)
+
+
 <br/>
 <br/>
 <br/>
