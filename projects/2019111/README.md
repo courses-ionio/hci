@@ -8,14 +8,14 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | [Σύνδεσμος στην εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Εισαγωγή](https://github.com/Genti-voka/hci/blob/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/938) | |
-| 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/Genti-voka/hci/edit/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-arch-linux-installation) | [Ανάρτηση εγκατάστασης στο Discussions](https://github.com/courses-ionio/help/discussions/1019) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 |  [Discussions](https://github.com/courses-ionio/help/discussions/1538)| |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Ανάρτηση warm up στα Discussions](https://github.com/courses-ionio/help/discussions/1382) | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 1 |  [Εισαγωγή](https://github.com/Genti-voka/hci/blob/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | [Ανάρτηση Εισαγωγής στα Discussions](https://github.com/courses-ionio/help/discussions/938) | |
+| 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/Genti-voka/hci/edit/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2-arch-linux-installation) | [Ανάρτηση στα Discussions](https://github.com/courses-ionio/help/discussions/1019) | |
+| 3 | [Συμμετοχικό περιεχόμενο A1](https://github.com/Genti-voka/hci/edit/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1) |  [Ανάρτηση στα Discussions](https://github.com/courses-ionio/help/discussions/1538)| |
+| 4 | [Άσκηση γραμμής εντολών (warm up cli)](https://github.com/Genti-voka/hci/edit/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-4-warm-up-%CE%B1%CF%83%CE%BA%CE%B7%CF%83%CE%B5%CE%B9%CF%82) | [Ανάρτηση  στα Discussions](https://github.com/courses-ionio/help/discussions/1382) | |
+| 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/Genti-voka/hci/blob/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-5-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a2) | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
-| 8 | [Άσκηση γραμμής εντολών](https://github.com/Genti-voka/hci/edit/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-8-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | | |
+| 8 | [Άσκηση γραμμής εντολών](https://github.com/Genti-voka/hci/edit/2019111/projects/2019111/README.md#%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-8-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD) | [Ανάρτηση στα Discussions](https://github.com/courses-ionio/help/discussions/2098) | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
