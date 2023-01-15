@@ -17,9 +17,9 @@ e-mail: p19tila@ionio.gr <br/>
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1515) :link: </h4>| |
 | 5 | Συμμετοχικό περιεχόμενο A2 |<h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1640) :link: </h4>| |
 | 6 | Κατασκευή του βιβλίου Α | <h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/1861) :link: </h4> | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 7 | Συμμετοχικό περιεχόμενο B1 | <h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/2110) :link: </h4> | |
 | 8 | Άσκηση γραμμής εντολών | | |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
+| 9 | Συμμετοχικό περιεχόμενο B2 | <h4 align="center"> [Discussion link](https://github.com/courses-ionio/help/discussions/2111) :link: </h4> | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
