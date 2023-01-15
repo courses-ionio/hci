@@ -24,7 +24,7 @@
 | 7 | [συμμετοχικό περιεχόμενο B1](#παραδοτεο-7---warm-up-άσκηση-γραμμής-εντολών-2) | <a href="https://github.com/TZOYRMANAS/site/blob/master/_includes/cs_nintendo.md">_includes</a>,<a href="https://github.com/TZOYRMANAS/site/blob/master/_case-study/nintendo.md">_case-study</a>,<a href="https://p18tzou.netlify.app/case-study/nintendo/">Mynetlify_History of Nintendo </a>|
 | 8 | [Άσκηση γραμμής εντολών](#παραδοτεο-8---συμμετοχικό-περιεχόμενο-b1) | <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MyCalc.sh">script</a>,<a href="https://asciinema.org/a/I5b0FG6cSJQc4dbUq9dqo1fsC">MyCalt.sh</a> |
 | 9 | [συμμετοχικό περιεχόμενο B2](#παραδοτεο-9---πρώτη-άσκηση-γραμμής-εντολών) | <a href="https://github.com/TZOYRMANAS/site/blob/master/_includes/yamauchi.md">_includes</a>,<a href="https://github.com/TZOYRMANAS/site/blob/master/_biography/bio_yamauchi.md">_biography</a>,<a href="https://p18tzou.netlify.app/biography/bio_yamauchi/">Netlify</a>|
-| 10 | [Άσκηση γραμμής εντολών](#παραδοτεο-10---συμμετοχικό-περιεχόμενο-b2) |<a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MySong.sh">script</a> ,<a href="https://asciinema.org/a/leD2gAIMCdqH0HE40rssKeyVk">asciinema</a>  |
+| 10 | [Άσκηση γραμμής εντολών](#παραδοτεο-10---συμμετοχικό-περιεχόμενο-b2) | <a href="https://asciinema.org/a/9TH0CgYfrVJUmDZ0CpDRWgZMk">asciinema</a> , <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/Runpy">script-python</a> , <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/mypy.py">script-print</a>  |
 | 11 | [Κατασκευή του βιβλίου Β](#παραδοτεο-11---δεύτερη-άσκηση-γραμμής-εντολών) | <a href="https://github.com/TZOYRMANAS/kallipos/blob/master/mypictures/ebook.png">Mypictures_ebook</a>,<a href="https://github.com/TZOYRMANAS/kallipos/tree/master/epub">.epub</a>|
 | 12 | [Τελική αναφορά (συμπέρασμα) και αίτημα ενσωμάτωσης για βαθμολόγηση](#παραδοτεο-12---συμπέρασμα) |https://github.com/courses-ionio/hci/pull/1913 |
 | 13 | [Ομαδικότητα και Συνεργασία](#ομαδικότητα-και-συνεργασία) | |
@@ -160,13 +160,14 @@ H βιογραφία που επέλεξα σχετίζεται με την το
 
 
 ## ΠΑΡΑΔΟΤΕΟ 10 - Άσκηση γραμμής εντολών 
-Σε αυτό το παραδοτέο δημιούργησα ένα bass αρχείο .χρησιμοποιώντας ένα script ,το οποίο θα τρέχει ένα τραγούδι απο το youtube .san terminal editor χρησιμοπιήσα το nano .Ena programma se pyhton trexei thn print και την καλουμαι . εμφανιζοντας τα μηνυματα που βρισκονται στα scriptakia Αρχικά , εγκατέστησα <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a> και το <a href="https://github.com/mpv-player/mpv">mpv</a> με την εντολή pacman . Το <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a> εγκαυηστά το mkv αρχείο και το mpv παίρνει το αρχείο απο το youtube-dl για να μπορεί να τρέξει το τραγούδι .Αυτό επιτυγχάνεται με το <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MySong.sh">script</a> που χρησιμοποίησα.
+Σε αυτό το παραδοτέο επελέξα  use the terminal as an IDE και χρησιμοποίσα σαν terminal editor την εντολή nano. Χρησιμοποίησα ένα script ,το οποίο θα τρέχει ένα προγραμμα σε python εκτελώντας την εντολή Print  και την καλουμαι ,εμφανιζοντας τα μηνυματα που βρισκονται στα scriptakia, τα οποία τα εγκατέστησα στο terminal κανοντας τα σε μορφή bush .
+
+- <a href="https://asciinema.org/a/9TH0CgYfrVJUmDZ0CpDRWgZMk">asciinema</a> 
 
 
+- <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/Runpy">script-python</a> 
 
-- <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/MySong.sh">script</a> 
-
-- <a href="https://asciinema.org/a/leD2gAIMCdqH0HE40rssKeyVk">asciinema</a>
+- <a href="https://github.com/TZOYRMANAS/arxeia_anaforas/blob/main/mypy.py">script-print</a> 
 
 <a href="https://github.com/courses-ionio/help/discussions/1871">discussions</a>
 
@@ -183,6 +184,6 @@ H βιογραφία που επέλεξα σχετίζεται με την το
 ## ΠΑΡΑΔΟΤΕΟ 12 - Τελική αναφορά 
 
   Μέσα απο το συγκριμένο μάθημα , ασχοληθήκα με εργαλεία τα οποία στο παρελθόν δεν γνώριζα και δεν είχα ασχοληθεί με αυτά , τα οποία με φάνηκαν πολύ ενδιαφέρον και με βοήθησαν να αναπτύξω τις γνώσεις μου στην πληροφορική .Επίσης , με εντυπωσίασε το πως στην πραγματικότητα αλληλεπιδρά ο άνθρωπος με τον υπολογιστή και οι τεχνικές που χρησιμοποιούνται .Αυτό που με εντυπωσίασε ήτανε οι δυνατότητες που περιέχουν οι ασκήσεις γραμμής εντολών που αναπτύξαμε στις ασκήσεις του μαθήματος .
-  Με τη χρήση των Arch Linux μου δόθηκε η ευκαιρία να έχω εγώ τον έλεγχο του υπολογιστή,αν και η εκμάθηση των εντολών δεν είναι ευκολη υπόθεση,στο μάθημα έμαθα ότι όπως ένα παιδί μαθαίνει την αλφάβητο για πρώτη φορά, έτσι και η Γραμμή εντολών μετά από το στάδιο της εκμάθησης σου δίνει τη δυνατότητα να δημιουργήσεις τα δικά σου πράγματα. Τέλος, οι ερωτήσεις στα εβδομαδιαία βίντεο και μετά η συζήτησεις που κάναμε στην αίθουσα με βοήθησαν αρκετά για να καταλάβω ότι o άνθρωπος είναι δημιουργικό ον αλλά παρόλο που υπήρχαν άνθρωποι όπως ο douglas engelbart.
+  Με τη χρήση των Arch Linux μου δόθηκε η ευκαιρία να έχω εγώ τον έλεγχο του υπολογιστή,αν και η εκμάθηση των εντολών δεν είναι ευκολη υπόθεση,στο μάθημα έμαθα ότι όπως ένα παιδί μαθαίνει την αλφάβητο για πρώτη φορά, έτσι και η Γραμμή εντολών μετά από το στάδιο της εκμάθησης σου δίνει τη δυνατότητα να δημιουργήσεις τα δικά σου πράγματα. Τέλος, οι ερωτήσεις στα εβδομαδιαία βίντεο και μετά η συζήτησεις που κάναμε στην αίθουσα με βοήθησαν αρκετά για να καταλάβω ότι o άνθρωπος είναι δημιουργικό ον και την σημαντική συμβολή συγκεκριμένων ατόμων στην πορεία της τεχνολογίας με τις γνώσεις και την εφευρετικότητα τους 
   
   
