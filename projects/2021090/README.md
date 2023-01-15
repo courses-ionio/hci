@@ -1,4 +1,4 @@
-# Μάθημα: Επικοινωνία Ανθρώπου-Υπολογιστή
+# Επικοινωνία Ανθρώπου-Υπολογιστή
 
 ### Α.Μ : inf2021090
 
@@ -10,13 +10,15 @@
 
 #### Όνομα Προφίλ Edpuzzle: Konstantinos Kafteranis inf2021090
 
+#### Όνομα Προφίλ ActiveLearn: Konstantinos Kafteranis inf2021090
+
 #### Εξάμηνο : ΄Γ
 
 <br />
 
 ## ΠΙΝΑΚΑΣ ΠΕΡΙΕΧΟΜΕΝΩΝ
 
-| Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
+| Εβδομάδα | **Περιγραφή** <br /> *Οι σύνδεσμοι οδηγούν στην αντίστοιχη ενότητα της αναφοράς| Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CF%81%CF%8E%CF%84%CE%B7---%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)| [Click](https://github.com/courses-ionio/help/discussions/976) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> H τελική μορφή προέκυψε μετά από αλλαγές κατόπιν παρατηριήσεων στην τάξη και προσωπικής έρευνας|
 | 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%B4%CE%B5%CF%8D%CF%84%CE%B5%CF%81%CE%B7---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-linux-install) |[Click](https://github.com/courses-ionio/help/discussions/1112) |Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> |
@@ -25,11 +27,11 @@
 | 5 | [Συμμετοχικό περιεχόμενο A2](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%80%CE%AD%CE%BC%CF%80%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B12) | [Click](https://github.com/courses-ionio/help/discussions/1467)| Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
 | 6 | [Κατασκευή του βιβλίου Α](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%BA%CF%84%CE%B7---%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CE%B1) |[Click](https://github.com/courses-ionio/help/discussions/1577)  | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
 | 7 | [Συμμετοχικό περιεχόμενο B1](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%B2%CE%B4%CE%BF%CE%BC%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B21) |[Click](https://github.com/courses-ionio/help/discussions/1698) | Εμπρόθεσμο παραδοτέο <br>90% ολοκλήρωση <br>|
-| 8 | [Άσκηση γραμμής εντολών](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%8C%CE%B3%CE%B4%CE%BF%CE%B7---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci) |[Click](https://github.com/courses-ionio/help/discussions/1785) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 8 | [Άσκηση γραμμής εντολών (hci)](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CF%8C%CE%B3%CE%B4%CE%BF%CE%B7---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci) |[Click](https://github.com/courses-ionio/help/discussions/1785) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
 | 9 | [Συμμετοχικό περιεχόμενο B2](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%AD%CE%BD%CE%B1%CF%84%CE%B7---%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-%CE%B22) |[Click](https://github.com/courses-ionio/help/discussions/1840) | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
-| 10 | [Άσκηση γραμμής εντολών](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%B4%CE%AD%CE%BA%CE%B1%CF%84%CE%B7---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci) |[Click](https://github.com/courses-ionio/help/discussions/1874) |Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> |
+| 10 | [Άσκηση γραμμής εντολών (hci)](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%B4%CE%AD%CE%BA%CE%B1%CF%84%CE%B7---%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-hci) |[Click](https://github.com/courses-ionio/help/discussions/1874) |Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br> |
 | 11 | [Κατασκευή του βιβλίου Β](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-e%CE%BD%CE%B4%CE%AD%CE%BA%CE%B1%CF%84%CE%B7---%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CF%84%CE%BF%CF%85-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-b) | |Εκπρόθεσμο παραδοτέο <br>50% ολοκλήρωση <br> |
-| 12 | [Τελική αναφορά](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%B4%CF%89%CE%B4%CE%AD%CE%BA%CE%B1%CF%84%CE%B7---%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) | | Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
+| 12 | [Τελική αναφορά](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%B4%CF%89%CE%B4%CE%AD%CE%BA%CE%B1%CF%84%CE%B7---%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) | [Click](https://github.com/courses-ionio/help/discussions/2051)| Εμπρόθεσμο παραδοτέο <br>100% ολοκλήρωση <br>|
 ||[Ομαδικότητα και Συνεργασία](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CE%BF%CE%BC%CE%B1%CE%B4%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%83%CF%85%CE%BD%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1)||
 
 <br /><br />
@@ -136,11 +138,11 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; Η μελέτη περίπτωσης μου αφορά την εξέληξη μέσα στον χρόνο των λογισμικών κατασκευής τρισδιάσταων γραφικών και τα χαρακτηριστικά εκείνα που αποτελούν το λόγο που έχουν την σημερινή τους μορφή και πώς είναι ικανή να αλλάξει στο μέλλον.
 
 | Netlify     | Repository  | Pull Request |
 | ----------- | ----------- | -----------  |
-|   https://testsite-inf2021090.netlify.app/case-study/graphics-3d/   |       |              |
+|   [3dsoftware](https://testsite-inf2021090.netlify.app/case-study/graphics-3d/)   |   [3dsoftware](https://github.com/inf2021090/site/blob/par-7-test/_case-study/graphics-3d.md)    |   [pull req]()           |
                             
 [πίνακας περιεχομένων:arrow_up:](https://github.com/inf2021090/hci/blob/2021090/projects/2021090/README.md#%CF%80%CE%B9%CE%BD%CE%B1%CE%BA%CE%B1%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CE%BF%CE%BC%CE%B5%CE%BD%CF%89%CE%BD)
 
@@ -192,11 +194,20 @@
 ## Εβδομάδα Eνδέκατη - Κατασκευή του βιβλίου B
 
 <br />
-Δημιουργήσα το epubβιβλίο και εκρεμεί η ενσωωμάτωση των συνσωσφορών μου στο συμμετοχικό Β1 και Β2 το οποίο θα λυθεί σύντομα
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;Με την προσθήκη της εντολής pandoc --quiet -f latex bookTex.tex -o book.epub στο make-latex.sh script δημιουργήθηκε η **epub** μορφή του βιβλίου όπου πρόστέθηκαν οι συνεισφορές μου και η σημείωση από προηγούμενα παραδοτέα. Δυστηχώς εμφανίζονται μόνο τα κείμενα από τις προσθήκες μου και όχι οι εικόνες ,το πρόβλημα αυτό δεν κατάφερα να το λύσω. H μελέτη περίπτωσης βρίσκεται στο κεφάλαιο **τεχνολογία** καθώς αφορά την εξέληξη ενός τεχνολογικού προιόντος. Η βιογραφία προτέθηκαι στο κεφάλαιο **μοντέλα** καθώς παρουσιάζει εναλλακτικές θεωρίες διάδρασεις και προσεγκίζει τους υπολογιστές από μια καλλιτεχνική σκοπιά. Παρακάτω screenshots από τις προσθήκες: 
+
+Βιογραφία:arrow_heading_down:
+
 ![myron](https://user-images.githubusercontent.com/115289409/212481697-c1974234-0720-4a57-9f31-c6bdf9f92a4e.png)
-![cs](https://user-images.githubusercontent.com/115289409/212482097-1b921db4-9055-426d-adbd-143f29dfadf3.png)
+
+Μελέτη περίπτωσης:arrow_heading_down:
+
+![cs](https://user-images.githubusercontent.com/115289409/212540384-206ff2aa-26a6-47cb-baad-e42bbae4bd2d.png)
+
+Σημείωση:arrow_heading_down:
+
+![enote](https://user-images.githubusercontent.com/115289409/212540280-803b6697-67a3-4cbf-9808-4de90f939f59.png)
 
 ## Εβδομάδα Δωδέκατη - Τελική αναφορά
 
