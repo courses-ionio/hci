@@ -87,3 +87,6 @@
 [bio-serge.md](https://github.com/P2019218/site/blob/organization/_includes/bio-serge.md) _includes
 [bibliography](https://github.com/P2019218/site/blob/organization/_biography/Serge-Egelma)
 [netlify](https://2019218.netlify.app/biography/serge-egelma/)
+
+## ΠΑΡΑΔΟΤΕΟ 12 
+μέσω του μαθήματος άρχισα να κατανοω τισ  αρχες σχεδιασμού διεπαφής έχω πλέον γνώση των βασικών αρχών σχεδιασμού διεπαφής, όπως η χρηστικότητα, η συνέπεια και η προσβασιμότητα. Θα πρέπει επίσης έχω μάθει για τα διαφορετικά στοιχεία σχεδιασμού που αποτελούν μια διεπαφή, όπως η διάταξη, η πλοήγηση και η ανατροφοδότηση.
