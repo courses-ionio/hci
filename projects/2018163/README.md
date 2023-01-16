@@ -204,5 +204,9 @@
 - [`Pull Request - Τελική Αναφορά`](https://github.com/courses-ionio/hci/pull/1856)
 ---
 
+# Σχόλια - Απαντήσεις - Βελτιώσεις
+[`1924`](https://github.com/courses-ionio/hci/pull/1924)
+[`1923`](https://github.com/courses-ionio/hci/pull/1923)
+
 # Video Quiz:
-Έχουν ολοκληρωθεί μέχρι στιγμής: 8/8
+Έχουν ολοκληρωθεί μέχρι στιγμής: 11/11
