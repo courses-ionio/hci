@@ -58,8 +58,8 @@
 
 <p>Παρακάτω φαίνεται τα links απο το Netlify τόσο από το δικό μου site όσο και της ομάδας μου:
  
-  - [`My Site`](https://vasdekis.netlify.app/)
-  - [`The4Beasts Site`]()
+  - [`My Site`](https://vasdekis.netlify.app/gallery/)
+  - [`The4Beasts Site`](https://the4beasts.netlify.app/gallery/)
  
 Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
 
@@ -113,7 +113,7 @@
 <p>Παρακάτω φαίνονται τα links από το neltify:</p>
 
 - [`My site`](https://vasdekis.netlify.app/slides/tinkercad/)
-- [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
+- [`The4Beasts Site`](https://the4beasts.netlify.app/slides)
 
 ---
 
@@ -148,7 +148,7 @@
 Παρακάτω παρουσιάζεται τα links από το netlify τόσο από το δικό μου site όσο και της ομάδας μου:`
 
 - [`My Site`](https://vasdekis.netlify.app/case-study/raspberry%20pi/)
-- [`The4Beasts Site`]()
+- [`The4Beasts Site`](https://the4beasts.netlify.app/case-study/)
 ---
 
 # Παραδοτέο 8: Άσκηση γραμμής εντολών
@@ -178,7 +178,7 @@
 Παρακάτω παρουσιάζεται τα links από το netlify τόσο του δικού μου site όσο και της ομάδας μου:
 
 - [`My Site`](https://vasdekis.netlify.app/biography/peter-lomas/)
-- [`The4Beasts Site`]()
+- [`The4Beasts Site`](https://the4beasts.netlify.app/biography/)
 ---
 
 # Παραδοτέο 10:  Άσκηση γραμμής εντολών
