@@ -109,7 +109,7 @@
 
 <p>Παρακάτω φαίνονται τα links από το neltify:</p>
 
-- [`My site`](https://konstantina3.netlify.app/slides)
+- [`My site`](https://konstantina3.netlify.app/slides/video%20game%20developers/)
 - [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
 
 ---
