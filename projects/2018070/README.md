@@ -51,7 +51,7 @@
 <p>Παρακάτω φαίνονται τα links από το neltify:</p>
 
 - [`My site`](https://konstantina3.netlify.app/gallery/)
-- [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
+- [`The4Beasts Site`](https://the4beasts.netlify.app/gallery/)
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
@@ -110,7 +110,7 @@
 <p>Παρακάτω φαίνονται τα links από το neltify:</p>
 
 - [`My site`](https://konstantina3.netlify.app/slides/video%20game%20developers/)
-- [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
+- [`The4Beasts Site`](https://the4beasts.netlify.app/slides)
 
 ---
 
@@ -147,7 +147,7 @@
 Παρακάτω παρουσιάζεται τα links από το netlify
 
 - [`My Site`](https://konstantina3.netlify.app/case-study/notion/)
-- [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
+- [`The4Beasts Site`](https://the4beasts.netlify.app/case-study/)
 ---
 
 # Παραδοτέο 8: Άσκηση γραμμής εντολών
@@ -178,7 +178,7 @@
 Παρακάτω παρουσιάζεται τα links από το netlify
 
 - [`My Site`](https://konstantina3.netlify.app/biography/ivan-zhao-biography/)
-- [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
+- [`The4Beasts Site`](https://the4beasts.netlify.app/biography/)
 ---
 
 # Παραδοτέο 10:  Άσκηση γραμμής εντολών
