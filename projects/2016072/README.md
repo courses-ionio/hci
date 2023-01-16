@@ -328,3 +328,7 @@ font το οποίο δεν είχε υπστήριξη ελληνικών χα�
 - [Answer 4](https://github.com/courses-ionio/help/discussions/1881)
 - [Comment](https://github.com/courses-ionio/help/discussions/1434)
 
+# Pull Request Comments
+- [Comment 1](https://github.com/courses-ionio/hci/pull/1857)
+- [Comment 2](https://github.com/courses-ionio/hci/pull/1856)
+
