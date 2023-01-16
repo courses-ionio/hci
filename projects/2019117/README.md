@@ -11,8 +11,8 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1197) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1275)| |
 | 5 | Συμμετοχικό περιεχόμενο A2 |[Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1558) | |
-| 6 | Κατασκευή του βιβλίου Α | | |
-| 7 | Συμμετοχικό περιεχόμενο B1 | | |
+| 6 | Κατασκευή του βιβλίου Α |[Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/2123) | |
+| 7 | Συμμετοχικό περιεχόμενο B1 |[Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1680) | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
