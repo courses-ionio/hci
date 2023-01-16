@@ -225,9 +225,14 @@
 - [`1691`](https://github.com/courses-ionio/help/discussions/1691)
 - [`1774`](https://github.com/courses-ionio/help/discussions/1774)
 
+# Χρήσιμες απαντήσεις - διορθώσεις - βελτιώσεις - σχόλια (Pull Request)
+
+- [`1920`](https://github.com/courses-ionio/hci/pull/1920)
+- [`1908`](https://github.com/courses-ionio/hci/pull/1908)
+
 ---
 
 | Edpuzzle | Actively Learn |
 | --- | --- |
-| 11/11 | Ορισμός και Μέθοδος: 6/6 |
+| 11/11 | [`Ορισμός`](https://reader.activelylearn.com/student/5625950/notes) και [`Μέθοδος`](https://reader.activelylearn.com/student/5625944/notes): 6/6 |
 
