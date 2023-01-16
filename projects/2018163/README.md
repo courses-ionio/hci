@@ -95,18 +95,27 @@
 ---
 
 # Παραδοτέο 5: Συμμετοχικό περιεχόμενο Α2
-Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε ένα σετ από `διαφάνειες` και ένα `χρονολόγιο` συνδυάζοντας τις εικόνες που είχαμε προσθέσει στο συμμετοχικό περιεχόμενο Α1 με εικόνες που ήδη υπάρχουν στο βιβλίο. [`Ως ομάδα`](https://github.com/The4Beasts) δράσαμε ως εξής:
-<p>Καθώς το παραδοτέο είναι ατομικό από τη μία, αλλά συνεργατικό από την άλλη, σκεφτήκαμε να συνδυάσουμε τις πληροφορίες που είχε προσθέσει ο καθένας μας στο συμμετοχικό περιεχόμενο Α1, ώστε να εμφανιστεί ένα ολικό αποτέλεσμα στην ιστοσελίδα του μαθήματος (γι' αυτό έχουμε όλα τα μέλη της ομάδας το ίδιο link στο netlify καθώς ως main repository βάλαμε την ομάδα μας για να μπορούν να φανούν οι όποιες αλλαγές). Η ιδέα προήλθε για τον λόγο ότι οι προσθήκες που έκανε ο καθένας μας ταιριάζουν μεταξύ τους και αλληλοσυμπληρώνονται.</p> 
-<p>Επομένως, τι καλύτερο από μια συγχώνευση όλων?</p>  
-<p>Τα βήματα που ακολουθήσαμε για να βγάζει νόημα η παραπάνω διαδικασία:</p>
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε ένα σετ από `διαφάνειες` και ένα `χρονολόγιο` συνδυάζοντας τις εικόνες που είχαμε προσθέσει στο συμμετοχικό περιεχόμενο Α1 με εικόνες που ήδη υπάρχουν στο βιβλίο. Παρακάτω παρουσιάζονται τα αποτελέσματά μου για το `Tinkercad`: 
 
-- [`Fork το site του βιβλίου στην ομάδα μας`](https://github.com/The4Beasts/site).
-- [`Στα slides το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές`](https://github.com/The4Beasts/site/tree/master/_slides)
-- [`Το δικό μου slide`](https://github.com/The4Beasts/site/blob/master/_slides/Control%20of%20Digital%20Systems.md)
-- [`Στο timeline το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές`](https://github.com/The4Beasts/site/tree/master/_timeline)
-- [`Το δικό μου timeline`](https://github.com/The4Beasts/site/blob/master/_timeline/Control%20of%20Digital%20Systems.md)
-- [`Το site στο netlify`](https://636b600809868914e40447d6--moonlit-rugelach-17f284.netlify.app)
-- [The4Beasts Site](https://master--the4beasts.netlify.app/)
+`Τα slides μου`
+
+- [`Tinkercad.md`](https://github.com/Vasdekis/site/blob/master/_slides/Tinkercad.md)
+
+Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
+
+- [`Tinkercad`](https://en.wikipedia.org/wiki/Tinkercad)
+
+<p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
+
+- [`Pull Request προς τον οργανισμό της ομάδας - slides`](https://github.com/The4Beasts/site/pull/5)
+- [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
+
+<p>Παρακάτω φαίνονται τα links από το neltify:</p>
+
+- [`My site`](https://vasdekis.netlify.app/slides/tinkercad/)
+- [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
+
+---
 
 ---
 
@@ -128,8 +137,8 @@
 
 Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:
 
-- [`Pull Request προς τον οργανισμό της ομάδας - case study`](https://github.com/The4Beasts/site/pull/11)
-- [`Pull Request προς τον οργανισμό της ομάδας - image`](https://github.com/The4Beasts/images/pull/6)
+- [`Pull Request προς τον οργανισμό της ομάδας - case study`](https://github.com/The4Beasts/site/pull/5)
+- [`Pull Request προς τον οργανισμό της ομάδας - image`](https://github.com/The4Beasts/images/pull/1)
 - [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
 Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
@@ -138,7 +147,7 @@
 
 Παρακάτω παρουσιάζεται τα links από το netlify τόσο από το δικό μου site όσο και της ομάδας μου:`
 
-- [`My Site`](https://deploy-preview-11--melodic-profiterole-b5f03f.netlify.app/case-study/)
+- [`My Site`](https://vasdekis.netlify.app/case-study/raspberry%20pi/)
 - [`The4Beasts Site`]()
 ---
 
@@ -152,21 +161,23 @@
 # Παραδοτέο 9: Συμμετοχικό περιεχόμενο Β2
 <p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα `βιογραφία` στο site του βιβλίου του μαθήματος. Η βιογραφία που επέλεξα αφορά τον Jack Kilby, ο οποίος εφηύρε το μικροτσιπ. Η συγκεκριμένη βιογραφία σχετίζεται με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline) στα οποία περιγράφω τη σχετική λειτουργία και σημασία του μικρουπολογιστή.</p>
 
-- [`biography`](https://github.com/Vasdekis/site/blob/master/_biography/Jack-Kilby-biography.md)
+- [`biography`](https://github.com/Vasdekis/site/blob/master/_biography/Peter-Lomas.md)
+- [`biography-image`](https://github.com/Vasdekis/images/blob/master/Lomas.jpg)
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
-- [`Pull Request προς τον οργανισμό της ομάδας - biography`](https://github.com/The4Beasts/site-1/pull/3)
-- [`Pull Request προς τον οργανισμό της ομάδας - image`](https://github.com/The4Beasts/images/pull/9)
+- [`Pull Request προς τον οργανισμό της ομάδας - biography`](https://github.com/The4Beasts/site/pull/5)
+- [`Pull Request προς τον οργανισμό της ομάδας - image`](https://github.com/The4Beasts/images/pull/1)
 - [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
 Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:
 
-- [`Jack-Kilby`](https://www.thoughtco.com/jack-kilby-father-of-the-microchip-1992042)
+- [`Peter Lomas-part 1`](https://raeng.org.uk/about-us/fellowship/new-fellows-2018/peter-lomas)
+- [`Peter Lomas-part 2`](https://archivesit.org.uk/interviews/pete-lomas/)
 
 Παρακάτω παρουσιάζεται τα links από το netlify τόσο του δικού μου site όσο και της ομάδας μου:
 
-- [`My Site`](https://637fa331cb2392366df8abab--darling-basbousa-08164b.netlify.app/biography/)
+- [`My Site`](https://vasdekis.netlify.app/biography/peter-lomas/)
 - [`The4Beasts Site`]()
 ---
 
