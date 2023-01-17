@@ -50,7 +50,8 @@
 <p>Παρακάτω φαίνεται το link από το neltify:</p>
 
 - [My site](https://6361782cba37ee3f7a02ee6b--leafy-speculoos-24511e.netlify.app/)
-- [The4Beasts Site](https://master--the4beasts.netlify.app/)
+- [`The4Beasts Site`](https://the4beasts.netlify.app/gallery/)
+
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
 - [Pull Request προς τον οργανισμό της ομάδας - gallery](https://github.com/The4Beasts/_gallery/pull/4)
@@ -88,14 +89,14 @@
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
-- [`Pull Request προς τον οργανισμό της ομάδας - slides`](https://github.com/The4Beasts/site/pull/1)
-- [`Pull Request προς τον οργανισμό της ομάδας - timeline`](https://github.com/The4Beasts/site/pull/2)
+- [`Pull Request προς τον οργανισμό της ομάδας - slides`](https://github.com/The4Beasts/site/pull/6)
+- [`Pull Request προς τον οργανισμό της ομάδας - timeline`](https://github.com/The4Beasts/site/pull/6)
 - [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
 
 <p>Παρακάτω φαίνονται τα links από το neltify:</p>
 
 - [`My site`](https://konstantina3.netlify.app/)
-- [`The4Beasts Site`](https://master--the4beasts.netlify.app/)
+- [`The4Beasts Site`](https://the4beasts.netlify.app/slides)
 
 ---
 
@@ -118,8 +119,7 @@
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
-- [Pull Request προς τον οργανισμό της ομάδας - case study](https://github.com/The4Beasts/site/pull/12)
-- [Pull Request προς τον οργανισμό της ομάδας - image](https://github.com/The4Beasts/images/pull/7)
+- [Pull Request προς τον οργανισμό της ομάδας - case study](https://github.com/The4Beasts/site/pull/6)
 - [Οργανισμός ομάδας](https://github.com/The4Beasts)
 
 <p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
@@ -147,8 +147,7 @@
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
-- [Pull Request προς τον οργανισμό της ομάδας - biography](https://github.com/The4Beasts/site-1/pull/4)
-- [Pull Request προς τον οργανισμό της ομάδας - image](https://github.com/The4Beasts/images/pull/10)
+- [Pull Request προς τον οργανισμό της ομάδας - biography](https://github.com/The4Beasts/site-1/pull/6)
 - [Οργανισμός ομάδας](https://github.com/The4Beasts)
 
 <p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
@@ -161,7 +160,7 @@
 <p>Παρακάτω παρουσιάζεται το link από το netlify</p>
 
 - [My Site](https://6380a44b603c3c7b4e2c010f--famous-piroshki-6d764b.netlify.app/biography/)
-- [The4Beasts Site](https://master--the4beasts.netlify.app/)
+- [The4Beasts Site](https://the4beasts.netlify.app/biography/)
 
 ---
 
