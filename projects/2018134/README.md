@@ -171,6 +171,10 @@
 
 Ο κώδικας από το html φαίνεται στο organization της ομάδας μας και συγκεκριμένα στο [Blog της ομάδας](https://github.com/The4Beasts/Blog/blob/main/The4Beasts-site.html).
 
+Ως δεύτερη άσκηση γραμμής εντολών, επέλεξα να κάνω την `convert between different text formats`, όπου δημιούργησα ένα κέιμενο σε `markdown` κα τον έκανα convert έπειτα, σε `html` και `docx`. Στο .md κείμενο αναλύω τα συμπεράσματά μου και συγχρονίζει όλα όσα διδάχθηκα στο μάθημα, καθώς και το προσωπικό μου έργο. Παρακάτω παρουσιάζω τις εντολές που χρησιμοποίησα με asciinema, καθώς και το τελικό αποτέλεσμα σε gif.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/79105120/213029521-c1347cab-1a87-4145-83d3-7b35b885c1e4.gif)
+
 ---
 
 # Παραδοτέο 11: Κατασκευή του βιβλίου Β
