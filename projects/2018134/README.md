@@ -3,7 +3,7 @@
 ### ΧΡΙΣΤΙΝΑ ΣΠΑΝΟΥ
 ### ΑΜ: Π2018134
 ### [Github Profile](https://github.com/xristinasp)
-
+### [Organization Profile](https://github.com/The4Beasts)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
@@ -49,7 +49,7 @@
 
 <p>Παρακάτω φαίνεται το link από το neltify:</p>
 
-- [My site](https://6361782cba37ee3f7a02ee6b--leafy-speculoos-24511e.netlify.app/)
+- [My site](https://xristinasp.netlify.app/gallery/)
 - [`The4Beasts Site`](https://the4beasts.netlify.app/gallery/)
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
@@ -95,7 +95,7 @@
 
 <p>Παρακάτω φαίνονται τα links από το neltify:</p>
 
-- [`My site`](https://konstantina3.netlify.app/)
+- [`My site`](https://xristinasp.netlify.app/slides/virtual%20reality/)
 - [`The4Beasts Site`](https://the4beasts.netlify.app/slides)
 
 ---
@@ -116,6 +116,7 @@
 
 - [case study](https://github.com/xristinasp/site/blob/master/_case-study/Augmented%20Reality.md)
 - [includes](https://github.com/xristinasp/site/blob/master/_includes/cs-AugmentedReality.md)
+- [My Site](https://xristinasp.netlify.app/case-study/augmented%20reality/)
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
@@ -140,7 +141,7 @@
 ---
 
 # Παραδοτέο 9: Συμμετοχικό περιεχόμενο Β2
-<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα βιογραφία στο site του βιβλίου του μαθήματος. Η βιογραφία που επέλεξα αφορά τον Jack Kilby, ο οποίος εφηύρε το μικροτσιπ. Η συγκεκριμένη βιογραφία σχετίζεται με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline) στα οποία περιγράφω τη σχετική λειτουργία και σημασία της τεχνητής νοημοσύνης.</p>
+<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα βιογραφία στο site του βιβλίου του μαθήματος. Η βιογραφία που επέλεξα αφορά τον Louis Rosenberg, ο οποίος ασχολείται με την επαυξημένη πραγματικότητα, την εικονική πραγματικότητα και την τεχνητή νοημοσύνη. Η συγκεκριμένη βιογραφία σχετίζεται με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline) στα οποία περιγράφω τη σχετική λειτουργία και σημασία της τεχνητής νοημοσύνης.</p>
 
 - [biography](https://github.com/xristinasp/site/blob/master/_biography/Louis-Rosenberg.md) 
 - [includes](https://github.com/xristinasp/site/blob/master/_includes/bio-Rosenberg.md) 
@@ -159,7 +160,7 @@
 
 <p>Παρακάτω παρουσιάζεται το link από το netlify</p>
 
-- [My Site](https://6380a44b603c3c7b4e2c010f--famous-piroshki-6d764b.netlify.app/biography/)
+- [My Site](https://xristinasp.netlify.app/biography/louis-rosenberg/)
 - [The4Beasts Site](https://the4beasts.netlify.app/biography/)
 
 ---
@@ -171,7 +172,7 @@
 
 Ο κώδικας από το html φαίνεται στο organization της ομάδας μας και συγκεκριμένα στο [Blog της ομάδας](https://github.com/The4Beasts/Blog/blob/main/The4Beasts-site.html).
 
-Ως δεύτερη άσκηση γραμμής εντολών, επέλεξα να κάνω την `convert between different text formats`, όπου δημιούργησα ένα κέιμενο σε `markdown` κα τον έκανα convert έπειτα, σε `html` και `docx`. Στο .md κείμενο αναλύω τα συμπεράσματά μου και συγχρονίζει όλα όσα διδάχθηκα στο μάθημα, καθώς και το προσωπικό μου έργο. Παρακάτω παρουσιάζω τις εντολές που χρησιμοποίησα με asciinema, καθώς και το τελικό αποτέλεσμα σε gif.
+Ως δεύτερη άσκηση γραμμής εντολών, επέλεξα να κάνω την `convert between different text formats`, όπου δημιούργησα ένα κέιμενο σε `markdown` κα τον έκανα convert έπειτα, σε `html` και `docx`. Στο .md κείμενο αναλύω τα συμπεράσματά μου και συγχρονίζει όλα όσα διδάχθηκα στο μάθημα, καθώς και το προσωπικό μου έργο. Παρακάτω παρουσιάζω το τελικό αποτέλεσμα σε gif.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/79105120/213029521-c1347cab-1a87-4145-83d3-7b35b885c1e4.gif)
 
@@ -195,4 +196,4 @@
 ---
 
 # Video Quiz:
-Έχουν ολοκληρωθεί μέχρι στιγμής: 8/8
+Έχουν ολοκληρωθεί μέχρι στιγμής: 11/11
