@@ -25,7 +25,7 @@
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
-| 12 | [Τελική αναφορά*](https://github.com/p20exar/hci/tree/2020231/projects/2020231#%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) | | |
+| 12 | [Τελική αναφορά*](https://github.com/p20exar/hci/tree/2020231/projects/2020231#%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC) |[Discussions Link 12](https://github.com/courses-ionio/help/discussions/2126)|Επίλογος και Συμπεράσματα |
  
   
 <br /><br />
