@@ -3,7 +3,7 @@
 ### ΚΩΝΣΤΑΝΤΙΝΑ ΚΑΒΒΑΔΙΑ 
 ### ΑΜ: Π2018056
 ### [Github Profile](https://github.com/p18kavv)
-
+### [Organization Profile](https://github.com/The4Beasts)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
@@ -67,8 +67,8 @@
 
 <p>Παρακάτω φαίνεται το Link απο το Netlify.
  
-  - [My Site](https://635b2bf8a39741115e2b819f--taupe-chebakia-aaf8b4.netlify.app/)
-  - [The4Beasts Site](https://master--the4beasts.netlify.app/)
+  - [My Site](https://p18kavv.netlify.app/gallery/)
+  - [The4Beasts Site](https://the4beasts.netlify.app/gallery/)
  
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
@@ -90,19 +90,21 @@
 ---
 
 # Παραδοτέο 5: Συμμετοχικό περιεχόμενο Α2
-Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε ένα σετ από διαφάνειες και ένα χρονολόγιο συνδυάζοντας τις εικόνες που είχαμε προσθέσει στο συμμετοχικό περιεχόμενο Α1 με εικόνες που ήδη υπάρχουν στο βιβλίο. [Ως ομάδα](https://github.com/The4Beasts) δράσαμε ως εξής:
-<p>Καθώς το παραδοτέο είναι ατομικό από τη μία, αλλά συνεργατικό από την άλλη, σκεφτήκαμε να συνδυάσουμε τις πληροφορίες που είχε προσθέσει ο καθένας μας στο συμμετοχικό περιεχόμενο Α1, ώστε να εμφανιστεί ένα ολικό αποτέλεσμα στην ιστοσελίδα του μαθήματος (γι' αυτό έχουμε όλα τα μέλη της ομάδας το ίδιο link στο netlify καθώς ως main repository βάλαμε την ομάδα μας για να μπορούν να φανούν οι όποιες αλλαγές). Η ιδέα προήλθε για τον λόγο ότι οι προσθήκες που έκανε ο καθένας μας ταιριάζουν μεταξύ τους και αλληλοσυμπληρώνονται.</p> 
-<p>Επομένως, τι καλύτερο από μια συγχώνευση όλων?</p>  
-<p>Τα βήματα που ακολουθήσαμε για να βγάζει νόημα η παραπάνω διαδικασία:</p>
+Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε ένα σετ από `διαφάνειες` και ένα `χρονολόγιο` συνδυάζοντας τις εικόνες που είχαμε προσθέσει στο συμμετοχικό περιεχόμενο Α1 με εικόνες που ήδη υπάρχουν στο βιβλίο. Παρακάτω παρουσιάζονται τα αποτελέσματά μου για το `Video Game Developers`: 
 
-- [Fork το site του βιβλίου στην ομάδα μας](https://github.com/The4Beasts/site).
-- [Στα slides το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές](https://github.com/The4Beasts/site/tree/master/_slides)
-- [Το δικό μου slide](https://github.com/The4Beasts/site/blob/master/_slides/Contents%20of%20a%20Digital%20System.md)
-- [Στο timeline το κάθε μέλος έχει προσθέσει τις δικές του περιγραφές](https://github.com/The4Beasts/site/tree/master/_timeline)
-- [Το δικό μου timeline](https://github.com/The4Beasts/site/blob/master/_timeline/Contents%20of%20a%20Digital%20System.md)
-- [Το site στο netlify](https://636b600809868914e40447d6--moonlit-rugelach-17f284.netlify.app)
-- [The4Beasts Site](https://master--the4beasts.netlify.app/)
+`Τα slides μου`
 
+- [`Etoys.md`](https://github.com/The4Beasts/site/blob/master/_slides/Etoys.md)
+
+<p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
+
+- [`Pull Request προς τον οργανισμό της ομάδας - slides`](https://github.com/The4Beasts/site/pull/1)
+- [`Pull Request προς τον οργανισμό της ομάδας - timeline`](https://github.com/The4Beasts/site/pull/2)
+- [`Οργανισμός ομάδας`](https://github.com/The4Beasts)
+
+<p>Παρακάτω φαίνονται τα links από το neltify:</p>
+
+- [`The4Beasts Site`](https://the4beasts.netlify.app/slides)
 ---
 
 # Παραδοτέο 6: Κατασκευή του βιβλίου Α 
@@ -119,7 +121,7 @@
 # Παραδοτέο 7: Συμμετοχικό Περιεχόμενο Β1
 <p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα μελέτη περίπτωσης στο site του βιβλίου. Το case study που επέλεξα σχετίζεται άμεσα με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline), αλλά και με το περιεχόμενο της εισαγωγής μου. Τα αποτελέσματα φαίνονται παρακάτω:</p>
 
-- [case study](https://github.com/p18kavv/site/blob/master/_case-study/Linux%20OS.md)
+- [case study](https://github.com/p18kavv/site/blob/master/_case-study/Gnome.md)
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
@@ -127,13 +129,10 @@
 - [Pull Request προς τον οργανισμό της ομάδας - image](https://github.com/The4Beasts/images/pull/8)
 - [Οργανισμός ομάδας](https://github.com/The4Beasts)
 
-<p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
-
-- [Linux OS](https://www.slideshare.net/joycoronado/presentation1-linux-os)
-
 <p>Παρακάτω παρουσιάζεται το link από το netlify</p>
 
-- [My Site](https://deploy-preview-11--melodic-profiterole-b5f03f.netlify.app/case-study/)
+- [My Site](https://p18kavv.netlify.app/case-study/gnome/)
+- [The4Beasts Site](https://the4beasts.netlify.app/gallery/)
 
 ---
 
@@ -145,9 +144,9 @@
 ---
 
 # Παραδοτέο 9: Συμμετοχικό περιεχόμενο Β2
-<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα βιογραφία στο site του βιβλίου του μαθήματος. Η βιογραφία που επέλεξα αφορά τον Joseph Sifakis, ο οποίος ασχολήθηκε με τον έλεγχο των μοντέλων σε έναν αλγόριθμο, ώστε να ανιχνεύει τα λογικά λάθη. Η συγκεκριμένη βιογραφία σχετίζεται με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline) στα οποία περιγράφω τη σχετική λειτουργία και σημασία του των αλγορίθμων για την ανάπτυξη λογισμικού.</p>
+<p>Στο συγκεκριμένο παραδοτέο καλούμαστε να προσθέσουμε μια νέα βιογραφία στο site του βιβλίου του μαθήματος. Η βιογραφία που επέλεξα αφορά τον Miguel de Icaza, ο οποίος είναι ο δημιουργός του γραφικού περιβάλλοντος Gnome. Η συγκεκριμένη βιογραφία σχετίζεται με τα προηγούμενα παραδοτέα (gallery, images, slides, timeline) στα οποία περιγράφω τη σχετική λειτουργία και σημασία του των αλγορίθμων για την ανάπτυξη λογισμικού.</p>
 
-- [biography](https://github.com/p18kavv/site/blob/master/_biography/Joseph-Sifakis.md)
+- [biography](https://github.com/p18kavv/site/blob/master/_biography/Miguel-de-Icaza.md)
 
 <p>Παρακάτω παρουσιάζονται οι ενέργειες που έγιναν με την ομάδα μου:</p>
 
@@ -155,13 +154,10 @@
 - [Pull Request προς τον οργανισμό της ομάδας - image](https://github.com/The4Beasts/images/pull/11)
 - [Οργανισμός ομάδας](https://github.com/The4Beasts)
 
-<p>Παρακάτω παρουσιάζονται οι αντίστοιχες πηγές:</p>
-
-- [Joseph-Sifakis](https://en.wikipedia.org/wiki/Joseph_Sifakis)
-
 <p>Παρακάτω παρουσιάζεται το link από το netlify</p>
 
-- [My Site](https://6380a1b8d901c57910138782--rococo-genie-67eb8d.netlify.app/biography/)
+- [My Site](https://p18kavv.netlify.app/biography/)
+- [`The4Beasts Site`](https://the4beasts.netlify.app/biography/)
 
 ---
 
@@ -172,9 +168,11 @@
 
 Ο κώδικας από το html φαίνεται στο organization της ομάδας μας και συγκεκριμένα στο [Blog της ομάδας](https://github.com/The4Beasts/Blog/blob/main/The4Beasts-site.html).
 
-Μετά από συνάντηση προόδου, χρειάστηκε να κάνω άλλη μία άσκηση γραμμής εντολών, ώστε να φανεί η ατομική μου προσπάθεια. Γι' αυτό, από τις ασκήσεις HCI επέλεξα την convert between different text formats, όπου δημιούργησα ένα κέιμενο σε markdown κα τον έκανα convert έπειτα, σε html και docx. Στο .md κείμενο αναλύω τα συμπεράσματά μου από το τελευταίο βίντεο-κουίζ το οποίο μου έκανε εντύπωση, αλλά και συγχρονίζει όλα όσα διδάχθηκα στο μάθημα, καθώς και το προσωπικό μου έργο. Παρακάτω παρουσιάζω τις εντολές που χρησιμοποίησα με asciinema, καθώς και το τελικό αποτέλεσμα σε gif.
+Μετά από συνάντηση προόδου, χρειάστηκε να κάνω άλλη μία άσκηση γραμμής εντολών, ώστε να φανεί η ατομική μου προσπάθεια. Γι' αυτό, από τις ασκήσεις HCI επέλεξα την convert between different text formats, όπου δημιούργησα ένα κέιμενο σε markdown κα τον έκανα convert έπειτα, σε html και docx. Στο .md κείμενο αναλύω τα συμπεράσματά μου από το τελευταίο βίντεο-κουίζ το οποίο μου έκανε εντύπωση, αλλά και συγχρονίζει όλα όσα διδάχθηκα στο μάθημα, καθώς και το προσωπικό μου έργο. Παρακάτω παρουσιάζω το τελικό αποτέλεσμα σε gif.
 
-- [Asciinema Link](https://asciinema.org/a/gxfEljGfFc8Mdq28F6Fuxqvdi)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/100278330/213221580-b8013adb-3a0d-48a8-811a-709798a41692.gif)
+
+
 ---
 
 # Παραδοτέο 11: Κατασκευή βιβλίου Β
