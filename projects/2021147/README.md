@@ -171,17 +171,17 @@
 ## Κατασκευή Βιβλίου Α
 
 Σε αυτό το παραδοτέο μας ζητήθηκε να προσθέσουμε μια δικιά μας παράγραφο με πληροφοριές στο βιβλίο και έπειτα να βγάλουμε scrennshot την προσθήκη που κάναμε από το βιβλίο σε μορφή pdf: 
-- [My Lua](https://github.com/PanMour/info-/blob/main/info.lua)
+- [My Lua](https://github.com/PanMour/kallipos/blob/master/info.lua)
   >Χρησιμοποιείται για την προσθήκη των πληροφοριών μου στο βιβλίο.
   >Επεξεργασμένο ώστε να εμφανίζει, με διαφορετικό από το υπόλοιπο βιβλίο, τρόπο την παραγραφό μου.
   >Συγκεκριμένα τοποθετή το κειμένο μου λίγο πιο μέσα και το χωρίζει στο τέλος με μια γραμμή ώστε να ξεχωρίζει από το επόμενο.
-- [Screenshot](https://github.com/PanMour/info-/blob/main/screenshot.png)
+- [Screenshot](https://github.com/PanMour/kallipos/blob/master/mypictures/screenshot.paradoteo6png)
   > Το Screenshot με την προσθήκη μου στο βιβλίο.
-- [Pdf](https://github.com/PanMour/info-/blob/main/book.pdf*)
+- [Pdf](https://github.com/PanMour/kallipos/blob/master/book/book.pdf*)
   >Το Pdf του βιβλίου που δημιούργησα.
   >Πολύ συναρπαστική εμπειρία, αφού για πρώτη φορά ημούν εγώ που κρατούσα όλη την δύναμη, καθώς με την βοήθεια των εργαλίων που μας δώθηκαν κατασκεύασα το βιβλίο σε     μορφή pdf, κάτι ασυνήθιστο λόγω της ευχρηστίας που επικρατεί.
   > Περιέχει μέσα και την δικιά μου προσθήκη στο βιβλίο.
-- [md file](https://github.com/PanMour/info-/blob/main/Additional-Information.md)
+- [md file](https://github.com/PanMour/kallipos/blob/master/project/Additional-Information.md)
   > Το βασικό md αρχείο στο οποίο σημείωσα τα στοιχεία μου για να δημιουργηθεί το βιβλίο.
 # Παραδοτέο 7ο:
 ## Άσκηση Β1
@@ -290,9 +290,9 @@
 # Παραδοτέο 11ο:
 ## Κατασκευή βιβλίου Β
 Σε αυτό το παραδοτέο, χρησιμοποιώντας τις γνώσεις που είχα αποκτήσει από τα προηγούμενα πρόσθεσα στο βιβλίο που δημιούργησα τα case-study και το biography. Και μετέτρεψα το βιβλίο σε μορφή epud. Για να πραγματοποιηθεί αυτή η μετατροπή χρησιμοποίησα την εντολή pandoc --quiet -f latex book.tex -o book.epub την οποία πρόσθεσα στο make-latex.sh αρχείο μου
-- [Βιβλίο σε μορφή epud](https://github.com/PanMour/info-/blob/main/book.epud)
-- [Screenshot1](https://github.com/PanMour/info-/blob/main/Screenshot-v1.png)
-- [Screenshot2](https://github.com/PanMour/info-/blob/main/screenshot-v1b.png)
+- [Βιβλίο σε μορφή epud](https://github.com/PanMour/kallipos/blob/master/book/book.epud)
+- [Screenshot1](https://github.com/PanMour/kallipos/blob/master/mypictures/screenshot-paradoteo11(a).png)
+- [Screenshot2](https://github.com/PanMour/kallipos/blob/master/mypictures/screenshot-paradoteo11(b).png)
 - [make-latex.sh](https://github.com/PanMour/kallipos/blob/master/make-latex.sh)
 
 # Παραδοτέο 12ο
