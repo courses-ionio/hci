@@ -208,6 +208,26 @@
  
 - [Πηγή 1](https://www.ibm.com/blogs/age-and-ability/2019/12/10/ibm-accessibility-tribute-to-jim-thatcher/)
 - [Πηγή 2](https://en.wikipedia.org/wiki/James_W._Thatcher)
+
+
+# **Άσκηση Γραμμής Ετολών**
+  
+## Για το Παραδοτέο10
+ 
+Ανέπτυξα ένα script το οποίο μετατρέπει αρχεία .md σε .pdf .ps χρησιμοποιόντας το groff. Σαν αρχείο για μετατροπή επέλεξα να χρησιμοποιήσω την Αναφορά μου στο μάθημα. Μιας και έχω αναπτύξει μερικές ικανότητες στην χρήση του τερματικού από προηγούμενα παραδοτέα η εκτέλεση της άσκησης έγινε με φυσιολογικούς ρυθμούς χωρίς δυσκολία
+
+- [Το repository του Converter](https://github.com/aggelos2000430/MDconverter)
+- [Ο κώδικας του convert1.sh](https://github.com/aggelos2000430/MDconverter/blob/main/convert1.sh)
+- [myReport.pdf](https://github.com/aggelos2000430/MDconverter/blob/main/myReport.pdf)
+- [myReport.ps](https://github.com/aggelos2000430/MDconverter/blob/main/myReport.ps) 
+
+ 
+
+[MD converter](https://asciinema.org/a/552833)
+
+
+<p align="center">
+<a href="https://asciinema.org/a/552833" target="_blank"><img src="https://asciinema.org/a/552833.svg" width="70%" />
  
  
 # **Συμπεράσματα**
