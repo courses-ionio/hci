@@ -2,7 +2,7 @@
 <h4>ΟΝΟΜΑΤΕΠΩΝΥΜΟ: Χατζηκώστας Χρήστος</h4>
 <h4>ΑΜ: Π2020130</h4>
 <h4>E-Mail: p20chat4@ionio.gr</h4>
-<h4>Ομάδα:  </h4>
+<h4>Ομάδα: </h4><a href="https://github.com/WhatColorIsYourBugatti">WhatColorIsYourBugatti</a>
 
 
 #
@@ -25,25 +25,23 @@
 <br>
 <h2>Παραδοτέο 1ο:</h2> 
 Στόχος μου στο μάθημα «Επικοινωνία Ανθρώπου-Υπολογιστή» είναι να μάθω περισσότερες ιδιότητες του Github και το πως λειτουργού τα συστήματα Linux.
-<br>
+
 <h2>Παραδοτέο 2ο:</h2> 
 Σε αυτό το παραδοτέο εγκατέστησα τα Arch Linux με επιτυχία και εκτέλεσα τις ακόλουθες γραμμές εντολών
 
-[Journalctl -b](https://asciinema.org/a/529033)
+[Journalctl -b](https://asciinema.org/a/529033)<br>
 [neofetch](https://asciinema.org/a/529138)
-<!-- Images -->
-![neofetch gif](https://asciinema.org/a/529138)
-<br>
+
 <h2>Παραδοτέο 3ο:</h2>
 Σε αυτό το παραδοτέο ανέβασα και έκανα pull request τα αρχεία md και τις εικόνες στο brunch του Organisation
 
-[Gallery](https://github.com/WhatColorIsYourBugatti/_gallery/pull/7/files)
+[Gallery](https://github.com/WhatColorIsYourBugatti/_gallery/pull/7/files)<br>
 [Images](https://github.com/WhatColorIsYourBugatti/images/pull/9/files)
-<br>
-<h2>Παραδοτέο 4ο:</h2>
-Σε αυτό το παραδοτέο απλώς εκτέλεσα την εντολή wttr.in εφόσον έχω ήδη εγκαταστήσει τα Arch Linux από το [2ο Παραδοτέο](https://github.com/courses-ionio/help/discussions/1114)
 
-Αποτέλεσμα της [wttr.in](https://asciinema.org/a/533564)
+<h2>Παραδοτέο 4ο:</h2>
+Σε αυτό το παραδοτέο απλώς εκτέλεσα την εντολή wttr.in εφόσον έχω ήδη εγκαταστήσει τα Arch Linux από το 
+<a href="https://github.com/courses-ionio/help/discussions/1114">2ο Παραδοτέο</a><br>
+Αποτέλεσμα της <a href="https://asciinema.org/a/533564">wttr.in</a>
 
 <h2>Παραδοτέο 5ο:</h2>
 Αυτή την εβδομάδα πρόσθεσα τα αρχεία μου σε ήδη υπάρχον κατηγορίες και τα έκανα Pull Request στο αποθετήριο του οργανισμού.
