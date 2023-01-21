@@ -45,7 +45,7 @@ tags:
   - Coding
 ---
 
-{% include  site/_includes/inc/cs-stackoverfow.md  %}
+include  site/_includes/inc/cs-stackoverfow.md
 
 
 # 9ο-παραδοτέο---check-the-weather
