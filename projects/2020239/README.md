@@ -65,7 +65,7 @@
 
 # Άσκηση γραμμή εντολών 
 
-Δημιούργησα ένα script το οποίο μετατρέπει οποιοδήποτε αρχείο σε html και pdf μέσω του Pandoc.
+Δημιούργησα ένα [script](https://github.com/p20magi/askisi-grammis-entolon/blob/main/make.sh) το οποίο μετατρέπει οποιοδήποτε αρχείο σε html και pdf μέσω του Pandoc.
 
 # Κατασκευή Βιβλίου 2
 
