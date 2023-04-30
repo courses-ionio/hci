@@ -70,59 +70,53 @@
   
   # ΠΑΡΑΔΟΤΕΟ 3ο - _Συμμετοχικό περιεχόμενο Α1_
   
-  Σκοπός του 3ου παραδοτέου ήταν να γίνει μια πρώτη επαφή με την κατασκευή της ιστοσελίδας του βιβλίου.Στο παραδοτέο Α1 έπρεπε να κάνουμε χρήση των submodules και του jekyll μέσα από το τερματικό μας.Έτσι λοιπόν αποφάσισα να ασχοληθώ με τον Apple I
+  Σκοπός του *3ου παραδοτέου* ήταν να γίνει μια πρώτη επαφή με την κατασκευή της ιστοσελίδας του βιβλίου.Στο παραδοτέο Α1 έπρεπε να κάνουμε χρήση των submodules και του jekyll μέσα από το τερματικό μας.Έτσι λοιπόν αποφάσισα να ασχοληθώ με τον Apple I
   και το Xbox, όπου παρέθεσα τις σχετικές φωτογραφίες στον κατάλογο /images και ένα σχετικό υποσημείωμα στον κατάλογο /gallery.
   
   | Περιγραφή | Image Link | Gallery Link |
 | --- | --- | --- |
-| Apple I | [Apple I image]() | [Apple I gallery]() |
-| Xbox | [Xbox image]() | [Xbox gallery]() |
+| Apple I | [Apple I image](https://github.com/p17balo/images/blob/4ab38ec869b42db01bedd7d09d5d2b1186e0da80/Working_Apple_I.jpeg) | [Apple I gallery](https://github.com/p17balo/_gallery/blob/7cc1028282b3ffd28cd32f5f055ee645d6af636b/apple_i.md) |
+| Xbox | [Xbox image](https://github.com/p17balo/images/blob/4ab38ec869b42db01bedd7d09d5d2b1186e0da80/Xbox-console.jpeg) | [Xbox gallery](https://github.com/p17balo/_gallery/blob/7cc1028282b3ffd28cd32f5f055ee645d6af636b/xbox_console.md) |
 
+# ΠΑΡΑΔΟΤΕΟ 4ο - _Ασκήσεις γραμμής εντολών(warm up)_
 
-# 7ο-παραδοτέο---browse-and-view-files-on-your-system
-Αξιολόγηση παραδοτέου: Περιήγηση στα αρχεία του λογισμικού linux
+Σκοπός της *4ης εβδομάδας* ήταν να εξασκηθούμε στην γραμμή εντολών και στην εγγραφή τους μέσα από το τερματικό με την χρήση του asciinema.Ασχολήθηκα με την παρακάτω άσκηση γραμμής εντολών:
 
-### Παραδοτέο 7 (browse and view files on your system)
-[Asciinema Link](https://asciinema.org/a/dbS495hK8a3W5WaRbBnWssFol)
-Κατά την διάρκεια του μαθήματος ήρθαμε σε επαφή με την πρώτη άσκηση γραμμής εντυολών. Εκεί έπρεπε να καταγράψουμε με το εργαλείο Asciinema ότι πληκτολογούσαμε. Ο σκοπός της άσκησης που επέλεξα ήταν η πρόσβαση στα αρχεία του υπολογιστή. Με την βοήθεια του Asciinema κατάφερα να καταγράψω την διαδικασία πρόσβασης στα αρχεία του συστήματος.
+| Εργασία | Παραδοτέο | Αναφορά |
+| --- | --- | --- |
+| browse-and-view-files-on-your-system | browse the files of computer  | 
 
-### Άσκηση 2(performance monitoring)
-#### 3.1 Κατέβασμα Hyperfine
-###### wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
-#### Εγκατάσταση Hyperfine
-###### sudo dpkg -i hyperfine_1.9.0_amd64.deb
-##### Τα scripts που θα χρησιμοποιηθούν για σύγκριση είναι τα [script1](https://www.codesdope.com/blog/article/sorting-a-list-using-bubble-sort-in-python/) και [script2](https://www.geeksforgeeks.org/python-program-for-selection-sort/) τα οποία τροποποιήκαν για να ταξινομούν την ίδια λίστα.
-#### Εκτέλεση
-###### hyperfine --warmup 3 'python3 bubblesort.py' 'python3 selectionsort.py'
-#### Παράμετροι
-###### hyperfine -m 8 'python3 bubblesort.py' 'python3 selectionsort.py' //-m παράμετρος για εκτέλεση συγκεκριμένων επαναλήψεων του κώδικα
-###### hyperfine --export-markdown results.txt 'python3 bubblesort.py' 'python3 selectionsort.py' //Export των αποτελεσμάτων
-###### hyperfine -i 'python3 bubblesort.py' 'python3 selectionsort.py' //Αγνόηση σφαλμάτων
-#### Αποτελέσματα
-##### Μετά την εκτέλεση των Benchmarks με το Hyperfine είναι φανερός πως ο αλγόριθμος ταξινόμησης Selection Sort πρόκειται για ένα πιο γρήγορο αλγόριθμο καθώς σύμφωνα με το εργαλείο εκτελείται περίπου 2 φορες πιο γρήγορα από τον Bubble Sort. Αυτό φαίνεται και στην πολυπλοκότητα των αλγορίθμων αφού ο Selection Sort έχει Complexity O(n) ενώ ο Bubble Sort O(n2).
-#### 3.2 Κατέβασμα py-spy
-###### sudo pip install py-spy
-#### Τρέξιμο
-###### py-spy record -o results.svg -- python selectionsort.py //Γραφική αναπαράσταση του προγράμματος και αποθήκευση του Output στον φάκελο results.svg
-###### py-spy record -o results.svg --pid PID //Δυνατότητα εκτέλεσης με το ID της διεργασίας
-###### py-spy dump --pid 12345 //Παρουσίαση του τρέχων Call Stack του κάθε Thread
-#
+[![Asciinema Link](https://asciinema.org/a/dbS495hK8a3W5WaRbBnWssFol.svg)](https://asciinema.org/a/dbS495hK8a3W5WaRbBnWssFol)
 
-# 8ο-παραδοτέο---συμμετοχικό-περιεχόμενο-1Β 
-Αξιολόγηση παραδοτέου: υπόδειξη του stackoverflow ως βοηθός στους προγραμματιστές
-### Παραδοτέο 8 (1Β συμμετοχικό περιεχόμενο)
----
-author: Spyridon Mpalomenos
-title: "Stack Overflow"
-image_url: /img/stackoverflow.jpg
-caption: "Το Stack Overflow είναι μια χείρα βοηθείας για τους προγραμματιστές."
-  - Μελέτη Περίπτωσης
-tags:
-  - Stack Overflow 
-  - Coding
----
+# ΠΑΡΑΔΟΤΕΟ 5ο - _Συμμετοχικό περιεχόμενο Α2_
 
-{% include  site/_includes/inc/cs-stackoverfow.md  %}
+Σκοπός της *5ης εβδομάδας*, αφού πλεόν έχουμε αποκτήσει μια εμπειρία πλέον με τα submodules ,έπρεπε να προσθέσουμε από ένα σετ διαφανειών στον κατάλογο /timelines και στον κατάλογο /slides.Το περιεχόμενο που επέλεξα ήταν τα MacOs και τα Operating Systems, κάτι που ήταν σχετικό με το συμμετοχικό περιεχόμενο Α1.
+
+| Περιγραφή | Slides Link | Timeline Link |
+| --- | --- | --- |
+| MacOs - Operating System | [Operating_System](https://github.com/p17balo/site/blob/master/_slides/operating_system.md) | [MacOs](https://github.com/p17balo/site/blob/master/_timeline/macos.md) |
+
+* Βιβλιογραφία:
+ * Slides Link
+    * [Operating_System](https://en.wikipedia.org/wiki/Operating_system)
+ * Timelink Link
+    * [MacOs](https://en.wikipedia.org/wiki/MacOS)
+
+## Παραδοτέο 7ο - _Συμμετοχικό Περιεχόμενο Β1_
+
+Σκοπός του 7ου παραδοτέου ήταν η προσθήκη μιας διαφάνεια στον φάκελο /_case-study για την μελέτη μιας νέας περίπτωσης σχετικά με ένα αντικείμενο που μας
+ενδιαφέρει και την προσθήκη της ανάλογης εικόνας στον φάκελο /images.
+
+| Περιγραφή | Case-study Link | Includes Link | Images Link |
+| --- | --- | --- | --- |
+|  Windows | [Windows](https://github.com/p17balo/site/blob/master/_case-study/microsoft_windows.md) | [cs- windows](https://github.com/p17balo/site/blob/master/_includes/cs-microsoft-windows.md) | [Windows 11](https://github.com/p17balo/images/blob/c091b98b4d5f77ccb3e37532ab2b46103cfed9c4/Windows_11_Desktop.png) |
+
+* Βιβλιογραφίες:
+  * Case-study Link / Includes Link
+     * [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
+  * Images Link
+     * [Windows 11](https://www.microsoft.com/windows/windows-11)
+
 
 
 # 9ο-παραδοτέο---check-the-weather
@@ -159,7 +153,7 @@ tags:
 <br>
 
 ### Παραδοτέο 11 (get familiar with basic commands, reading documentation and editing files)
-[Asciinema Link](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q)
+[![Asciinema Link](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q.svg)](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q)
 
 # 12ο-παραδοτέο---ΣΥΜΠΕΡΑΣΜΑ
 ### Συμπέρασμα
