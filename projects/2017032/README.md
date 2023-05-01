@@ -102,7 +102,7 @@
  * Timelink Link
     * [MacOs](https://en.wikipedia.org/wiki/MacOS)
 
-## Παραδοτέο 7ο - _Συμμετοχικό Περιεχόμενο Β1_
+## ΠΑΡΑΔΟΤΕΟ 7ο - _Συμμετοχικό Περιεχόμενο Β1_
 
 Σκοπός του 7ου παραδοτέου ήταν η προσθήκη μιας διαφάνεια στον φάκελο /_case-study για την μελέτη μιας νέας περίπτωσης σχετικά με ένα αντικείμενο που μας
 ενδιαφέρει και την προσθήκη της ανάλογης εικόνας στον φάκελο /images.
@@ -117,43 +117,32 @@
   * Images Link
      * [Windows 11](https://www.microsoft.com/windows/windows-11)
 
+## ΠΑΡΑΔΟΤΕΟ 8ο - _Άσκηση γραμμής εντολών_
 
+| Εργασία | Παραδοτέο | Αναφορά |
+| --- | --- | --- |
+| check the weather | fetch the weather forecast for your home city and one more city that you want to travel to  | wttr |
 
-# 9ο-παραδοτέο---check-the-weather
-Αξιολόγηση Παραδοτέου: Λήψη package αρχείων σε linux όπου μεσω terminal βγαίνει η πρόγνωση του καιρού
-### Παραδοτέο 9 (check the weather)
-[Asciinema Link](https://asciinema.org/a/E8ejJBO8hVLAyeTaK5W6vK0bd)
-Στο παραδοτέο 5 επιλέχθηκε η άσκηση Check The weather. Κατά την άσκηση παρουσιάστηκε ο καιρός που έχει γίνει πρόβλεψη για κάποιες συγκεκριμένες πόλεις της Ελλάδας και του εξωτερικού.
-<br>
-<p align="center">
-<img src="https://i.postimg.cc/BQsNFPXY/Screenshot-6.jpg" >
- <p/>
-<br>
+[![asciicast](https://asciinema.org/a/E8ejJBO8hVLAyeTaK5W6vK0bd.svg)](https://asciinema.org/a/E8ejJBO8hVLAyeTaK5W6vK0bd)
 
-### Άσκηση 3(try different terminals and shells)
-##### a) Fish
-##### b) Terminator
-#### Εγκατάσταση fish
-###### sudo apt-get install fish
-#### Το Fish πρόκειται για ένα Shell όπου σου προσφέρει διάφορες διευκολύνσεις όπως η πρόβλεψη της εντολής που πληκτρολογείς. Για την εκτέλεση της άσκησης δημιουργώ πρόγραμμα σε Python όπου εκτυπώνει το "Hello World" 10 φορές.
-#
+## ΠΑΡΑΔΟΤΕΟ 9ο - _Συμμετοχικό περιεχόμενο Β2_
 
-# 10ο-παραδοτέο---συμμετοχικό-περιεχόμενο-2Β Βιογραφία
-### Παραδοτέο 10 (2Β Βιογραφία)
-[Link βιβλιογραφίας](https://github.com/p17balo/site/blob/master/_biography/dennis-ritchie.md)
+Σκοπός του *9ου παραδοτέου* ήταν η προσθήκη μιας διαφάνειας στον φάκελο /_biography για την δημιουργία μιας βιογραφίας σχετικά με τα προηγούμενα παραδοτέα
+και την προσθήκη της σχετικής εικόνας στον φάκελο /images καθώς και στον φάκελο /includes.
 
-# 11ο-παραδοτέο---άσκηση-γραμμής-εντολών-fetch-information
-Αξιολόγηση παραδοτέου: παίρνει πληροφορίες για το kernell του linux
-### Παραδοτέο 11 (fetch information)
-[Asciinema Link](https://asciinema.org/a/5CO1YzNhyskBytPF9xeMvhzsO)
-<br>
-<p align="center">
-<img src="https://i.postimg.cc/Bntqq6cb/Screenshot-7.jpg" >
- <p/>
-<br>
+| Περιγραφή | Biography Link | Includes Link | Image Link |
+| --- | --- | --- | --- |
+| Dennis Ritchie | [dennis-ritchie](https://github.com/p17balo/site/blob/master/_biography/dennis-ritchie.md) | [bio-dennis](https://github.com/p17balo/site/blob/master/_includes/bio-demis.md) | [dennis-ritchie](https://github.com/p17balo/images/blob/d057c4518c34361136e5152cca7af6bd1eb44091/Dennis_Ritchie_2011.jpeg) |
 
-### Παραδοτέο 11 (get familiar with basic commands, reading documentation and editing files)
-[![Asciinema Link](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q.svg)](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q)
+* Βιβλιογραφία:
+  * Biography Link - Includes Link:
+     * [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
+  * Image Link:
+     * [dennis-ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie#/media/File:Dennis_Ritchie_2011.jpg)
+
+## ΠΑΡΑΔΟΤΕΟ 11ο - _Άσκηση γραμμής εντολών_
+
+[![asciicast](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q.svg)](https://asciinema.org/a/9mrvx7d5HuKdyg0asAmb2v44Q)
 
 # 12ο-παραδοτέο---ΣΥΜΠΕΡΑΣΜΑ
 ### Συμπέρασμα
