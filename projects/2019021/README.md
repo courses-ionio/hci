@@ -20,6 +20,14 @@
 | 11 | Κατασκευή του βιβλίου Β || |
 | 12 | Τελική αναφορά* | | |
 
-## Εβδομάδα 2:  Άσκηση γραμμής εντολών (linux install)
+# Εβδομάδα 2:  Άσκηση γραμμής εντολών (linux install)
 
-Το Arch Linux το εγκατεστησα στο Oracle Virtual Box. Στη συνεχεια ετρεξα τις εντολες journalctl -b ([asciinema recording](https://asciinema.org/a/j7z01Phkhc2AN7MSFgxgOX8TG)) και neofetch ([asciinema recording](https://asciinema.org/a/3k6f5xbQeGjKxWKmL43lbC1kF)).
+Το Arch Linux το εγκατεστησα στο Oracle Virtual Box. Στη συνεχεια ετρεξα τις εντολες `journalctl -b` ([asciinema recording](https://asciinema.org/a/j7z01Phkhc2AN7MSFgxgOX8TG)) και `neofetch` ([asciinema recording](https://asciinema.org/a/3k6f5xbQeGjKxWKmL43lbC1kF)).
+
+# Εβδομάδα 4:  Άσκηση γραμμής εντολών 
+
+Δυστυχως δεν ειχα επιτυχια με την εγκατασταση του Arch Linux σε πραγματικο υλικο. Οι ασκησεις εγιναν σε Virtual Box.
+### 1η ασκηση: 
+Οπως ζηταει η εκφωνηση στο warm up χρησιμοποιησα την εντολη `wttr` ([asciinema recording](https://asciinema.org/a/JEDRzYyIjPIhYmYW9soBFLWEX)) για να μαθω τον καιρο
+* στην πολη καταγωγης μου, τις Σερρες στην Κεντρικη Μακεδονια και
+* στη πολη Brooklyn στη Νεα Υορκη, μια απο τις πολεις που θελω να επισκευτω
