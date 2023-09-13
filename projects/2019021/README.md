@@ -33,11 +33,14 @@
 | Alan Kay at Media Lab 30 |✔|❌|
 | Jaron Lanier - Learning by Experience & Play |✔|❌|
 
-# Εβδομάδα 2:  Άσκηση γραμμής εντολών (linux install)
+# Εβδομάδα 2: Άσκηση γραμμής εντολών (linux install)
 
 Το Arch Linux το εγκατεστησα στο Oracle Virtual Box. Στη συνεχεια ετρεξα τις εντολες `journalctl -b` ([asciinema recording](https://asciinema.org/a/j7z01Phkhc2AN7MSFgxgOX8TG)) και `neofetch` ([asciinema recording](https://asciinema.org/a/3k6f5xbQeGjKxWKmL43lbC1kF)).
 
-# Εβδομάδα 4:  Άσκηση γραμμής εντολών 
 
-Δυστυχως δεν ειχα επιτυχια με την εγκατασταση του Arch Linux σε πραγματικο υλικο. Οι ασκησεις εγιναν σε Virtual Box.
+# Εβδομάδα 3: Συμμετοχικό περιεχόμενο A1+A2
 
+
+# Εβδομάδα 6: Συμμετοχικό περιεχόμενο B1
+
+# Εβδομάδα 8: Συμμετοχικό περιεχόμενο B2
