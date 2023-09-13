@@ -21,17 +21,17 @@
 
 | Βίντεο | Ολοκληρώθηκε | Εμπρόθεσμα |
 | --- | --- | --- |
-| Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) |||
-| UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories |||
-| Xerox Star User Interface (1982) 1 of 2 |||
-| Alto System Project: Larry Tesler demonstration of Gypsy |||
-| Alan Kay: Doing with Images Makes Symbols (Full Version) |||
-| FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 |||
-| Oral History of Douglas Engelbart |||
-| Engelbart's Unfinished Revolution  1998  Session IV |||
-| Dynabook: The Complete Story |||
-| Alan Kay at Media Lab 30 |||
-| Jaron Lanier - Learning by Experience & Play |||
+| Digibarn: Xerox Professinal Workstation Xerox Star 8010 (1981) |✔|✔|
+| UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories |✔|✔|
+| Xerox Star User Interface (1982) 1 of 2 |✔|❌|
+| Alto System Project: Larry Tesler demonstration of Gypsy |✔|✔|
+| Alan Kay: Doing with Images Makes Symbols (Full Version) |✔|❌|
+| FIXING ELECTRONIC LITERATURE - Ted at the Googleplex, 2007 |✔|❌|
+| Oral History of Douglas Engelbart |✔|❌|
+| Engelbart's Unfinished Revolution  1998  Session IV |✔|❌|
+| Dynabook: The Complete Story |✔|❌|
+| Alan Kay at Media Lab 30 |✔|❌|
+| Jaron Lanier - Learning by Experience & Play |✔|❌|
 
 # Εβδομάδα 2:  Άσκηση γραμμής εντολών (linux install)
 
