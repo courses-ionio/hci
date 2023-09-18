@@ -40,7 +40,18 @@
 
 # Εβδομάδα 3: Συμμετοχικό περιεχόμενο A1+A2
 
+|     | gallery | images | thumbnail |
+| --- | --- | --- | --- | 
+| 1 | [link](https://github.com/StavroulaAnatolaki/_gallery/blob/master/ttd.md) | [link](https://github.com/StavroulaAnatolaki/images/blob/master/ttd.jpg) | [link](https://github.com/StavroulaAnatolaki/images/blob/master/ttd-thumb.jpg) |
+| 2 | [link](https://github.com/StavroulaAnatolaki/_gallery/blob/master/vrs.md) | [link](https://github.com/StavroulaAnatolaki/images/blob/master/vrs.jpg) | [link](https://github.com/StavroulaAnatolaki/images/blob/master/vrs-thumb.jpg) |
 
 # Εβδομάδα 6: Συμμετοχικό περιεχόμενο B1
 
+* [site/case_study](https://github.com/StavroulaAnatolaki/site/blob/master/_case-study/assistivetech.md)
+* [site/include](https://github.com/StavroulaAnatolaki/site/blob/master/_includes/cs-assistivetech.md)
+* [site link](https://gorgeous-cajeta-4d8cbe.netlify.app//case-study/assistivetech/)
+
 # Εβδομάδα 8: Συμμετοχικό περιεχόμενο B2
+
+
+
