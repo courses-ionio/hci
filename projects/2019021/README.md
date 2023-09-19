@@ -53,5 +53,9 @@
 
 # Εβδομάδα 8: Συμμετοχικό περιεχόμενο B2
 
+* [site/biography](https://github.com/StavroulaAnatolaki/site/blob/master/_biography/stephen-hawking.md)
+* [site/include](https://github.com/StavroulaAnatolaki/site/blob/master/_includes/bio-hawking.md)
+* [site link](https://gorgeous-cajeta-4d8cbe.netlify.app//biography/stephen-hawking/)
+
 
 
