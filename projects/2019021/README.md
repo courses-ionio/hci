@@ -50,6 +50,13 @@
 | 1 | [link](https://github.com/StavroulaAnatolaki/_gallery/blob/master/ttd.md) | [link](https://github.com/StavroulaAnatolaki/images/blob/master/ttd.jpg) | [link](https://github.com/StavroulaAnatolaki/images/blob/master/ttd-thumb.jpg) |
 | 2 | [link](https://github.com/StavroulaAnatolaki/_gallery/blob/master/vrs.md) | [link](https://github.com/StavroulaAnatolaki/images/blob/master/vrs.jpg) | [link](https://github.com/StavroulaAnatolaki/images/blob/master/vrs-thumb.jpg) |
 
+# Εβδομάδα 5: Κατασκευή του βιβλίου (pibook pdf)
+ Στο συγκεκριμένο παραδοτέο, καλούμαστε να συμβάλλουμε και αντίστοιχα να κατασκευάσουμε το βιβλίο σε ηλεκτρονική μορφή (.pdf) αλλά και σε μορφή (.pub). Έπρεπε να δημιουργήσουμε το δικό μας φίλτρο (.lua), το δικό μας contribution, το βιβλίο το οποίο περιείχε το contribution μας και τέλος το βιβλίο σε μορφή (.tex). 
+ 
+ ![Arch Linux  Running  - Oracle VM VirtualBox 1_7_2023 4_29_58 PM](https://user-images.githubusercontent.com/72880868/211155828-567226c7-6354-4632-8ed8-b71c3495dc53.png)
+
+Στην παραπανω εικονα δειχνω την συνεισφορα μου η οποια βρισκετε στην ενοτητα 7.
+
 # Εβδομάδα 6: Συμμετοχικό περιεχόμενο B1
 
 * [site/case_study](https://github.com/StavroulaAnatolaki/site/blob/master/_case-study/assistivetech.md)
