@@ -15,7 +15,7 @@
 | 5 | Κατασκευή του βιβλίου (pibook pdf) | | 
 | 6 | [Συμμετοχικό περιεχόμενο B1](https://github.com/StavroulaAnatolaki/hci/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-6-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1) | ολοκληρωθηκε 100% | 
 | 7 | Άσκηση γραμμής εντολών (vim IDE) | | 
-| 8 | Συμμετοχικό περιεχόμενο B2 | ολοκληρωθηκε 100% | 
+| 8 | [Συμμετοχικό περιεχόμενο B2](https://github.com/StavroulaAnatolaki/hci/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b2) | ολοκληρωθηκε 100% | 
 | 9 | Κατασκευή του βιβλίου A | | 
 | 10 | Τελική αναφορά* | | 
 
