@@ -11,10 +11,10 @@
 | 1 |  [Εισαγωγή](https://github.com/StavroulaAnatolaki/hci/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-1-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) | ολοκληρωθηκε 100%  | 
 | 2 | [Άσκηση γραμμής εντολών (arch linux install)](https://github.com/StavroulaAnatolaki/hci/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-2-%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-linux-install) | ολοκληρωθηκε 100% | 
 | 3 | [Συμμετοχικό περιεχόμενο A1+A2](https://github.com/StavroulaAnatolaki/hci/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-3-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-a1a2) | ολοκληρωθηκε 50% | 
-| 4 | Άσκηση γραμμής εντολών (pandoc blog) | | 
+| 4 | Άσκηση γραμμής εντολών (pandoc blog) | Δεν ολοκληρωθηκε | 
 | 5 | Κατασκευή του βιβλίου (pibook pdf) | | 
 | 6 | [Συμμετοχικό περιεχόμενο B1](https://github.com/StavroulaAnatolaki/hci/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-6-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b1) | ολοκληρωθηκε 100% | 
-| 7 | Άσκηση γραμμής εντολών (vim IDE) | | 
+| 7 | Άσκηση γραμμής εντολών (vim IDE) | Δεν ολοκληρωθηκε | 
 | 8 | [Συμμετοχικό περιεχόμενο B2](https://github.com/StavroulaAnatolaki/hci/blob/2019021/projects/2019021/README.md#%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-8-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%BA%CF%8C-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-b2) | ολοκληρωθηκε 100% | 
 | 9 | Κατασκευή του βιβλίου A | | 
 | 10 | Τελική αναφορά* | | 
