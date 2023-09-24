@@ -50,6 +50,11 @@
 | 1 | [link](https://github.com/StavroulaAnatolaki/_gallery/blob/master/ttd.md) | [link](https://github.com/StavroulaAnatolaki/images/blob/master/ttd.jpg) | [link](https://github.com/StavroulaAnatolaki/images/blob/master/ttd-thumb.jpg) |
 | 2 | [link](https://github.com/StavroulaAnatolaki/_gallery/blob/master/vrs.md) | [link](https://github.com/StavroulaAnatolaki/images/blob/master/vrs.jpg) | [link](https://github.com/StavroulaAnatolaki/images/blob/master/vrs-thumb.jpg) |
 
+Προσπαθησα να εμφανισω τη συνεισφορα μου στο χρονολογιο και στις διαφανειες αλλα δεν ειχα καμια επιτυχια. Σας δειχνω οποτε που τοποθετηθηκαν τα αρχεια.
+
+* [slides](https://github.com/StavroulaAnatolaki/site/blob/master/_slides/technology.md)
+* [timeline](https://github.com/StavroulaAnatolaki/site/blob/master/_timeline/systems.md)
+
 # Εβδομάδα 5: Κατασκευή του βιβλίου (pibook pdf)
  
 [My Contribution](https://github.com/StavroulaAnatolaki/myblog/blob/main/211155828-567226c7-6354-4632-8ed8-b71c3495dc53.png)
