@@ -2,7 +2,7 @@
 ### Αριθμός Μητρώου: Π2019021
 ### Edpuzzle profile: p19anat@ionio Π2019021
 ### Ομάδα: [XorisOnoma](https://github.com/XorisOnoma)
-### Profile : [Stavroula Anatolaki](https://github.com/StavroulaAnatolaki) 
+### Profile: [Stavroula Anatolaki](https://github.com/StavroulaAnatolaki) 
 ### [Asciinema profile](https://asciinema.org/~p19anat)
 
 
