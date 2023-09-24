@@ -52,9 +52,9 @@
 
 # Εβδομάδα 5: Κατασκευή του βιβλίου (pibook pdf)
  
- ![Arch Linux  Running  - Oracle VM VirtualBox 1_7_2023 4_29_58 PM](https://user-images.githubusercontent.com/72880868/211155828-567226c7-6354-4632-8ed8-b71c3495dc53.png)
+[My Contribution](https://github.com/StavroulaAnatolaki/myblog/blob/main/211155828-567226c7-6354-4632-8ed8-b71c3495dc53.png)
 
-Στην παραπανω εικονα δειχνω την συνεισφορα μου η οποια βρισκετε στην ενοτητα 7.
+Στo παραπανω λινκ δειχνω την συνεισφορα μου η οποια βρισκετε στην ενοτητα 7.
 
 # Εβδομάδα 6: Συμμετοχικό περιεχόμενο B1
 
