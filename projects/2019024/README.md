@@ -9,8 +9,8 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
-| 2 | Άσκηση γραμμής εντολών (arch linux install) | | |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/hci/discussions/1968 | Καθηστέρηση ανάρτησης. 80% |
+| 2 | Άσκηση γραμμής εντολών (arch linux install) | https://github.com/courses-ionio/hci/discussions/1969 | Έγκαιρη ανάρτηση και εκτέλεση. 100% |
 | 3 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 4 | Άσκηση γραμμής εντολών (pandoc blog) | | |
 | 5 | Κατασκευή του βιβλίου (pibook pdf) | | |
@@ -40,3 +40,9 @@
 ***4. Ποια είναι μια αναλογία για τον υπολογιστή πέρα από εργαλείο;***
 
 Λόγω της προόδου που έχει επέρθει τα τελευταία χρόνια στον κλάδο της πληροφορικής, δε θα χαρακτήριζα τον υπολογιστή στα σημερινά πρότυπα ως ένα απλό εργαλίο, αλλά ως ένα εργαστήριο που μας παρέχει τον χώρο και τα εργαλία για να δημιουργήσουμε και να πειραματιστούμε. Είναι πιο ορθό να χαρακτηρίζουμε τα διάφορα λογισμικά που εκτελεί ο υπολογιστής ως εργαλία πλεον.
+
+## Παραδοτέο 2
+Για τη Δεύτερη εβδομάδα καλούμασταν να εγκαταστήσουμε τα Arch Linux. Πραγματοποιήσα την εγκατάσταση σε ***στικάκι USB 32GB*** ακολουθόντας τις οδηγίες απο το [επίσημο forum](https://wiki.archlinux.org/title/installation_guide) των Arch. Η διαδικασία την πρώτη φορά (πέρυσι), ομολογώ πως ήταν πολύ ανιαρή. Φέτος ήμουν πιο εξοικιωμένος και δεν υπήρξαν προβλήματα κατά την εγκατάσταση.
+
+### Asciinema τρέχοντας το neofetch
+[![asciicast](https://asciinema.org/a/Exwp6eaizfirVXhjohUhQJRim.svg)](https://asciinema.org/a/Exwp6eaizfirVXhjohUhQJRim)
