@@ -46,3 +46,15 @@
 
 ### Asciinema τρέχοντας το neofetch
 [![asciicast](https://asciinema.org/a/Exwp6eaizfirVXhjohUhQJRim.svg)](https://asciinema.org/a/Exwp6eaizfirVXhjohUhQJRim)
+
+## Παραδοτέο 3
+Την τρίτη εβδομάδα σκοπός μας ήταν η προσθήκη ομαδικού περιεχομένου στο site repository. Αφού έκανα fork το site και τα submodules του, τα έκανα clone στο σύστημα μου για να προσθέσω τις αλλαγές μου. Στη συνέχεια έκανα configure τα submodules να δείχνουν στα δικά μου fork για να δοκιμάσω αν οι αλλαγές που έκανα εμανίζονται στο deployed site μέσω του netlify και όταν είδα ότι δεν υπήρχε κάποιο πρόβλημα, άνοιξα ένα [pull request](https://github.com/EternalsKit/site/pull/2/commits) στον οργανισμό μου.
+
+Οι προσθήκες που έκανα ήταν για το [roomware](https://p19gkou.netlify.app//gallery/roomware/) και το [conversational desktop](https://p19gkou.netlify.app//gallery/conversational-desktop/).
+
+## Παραδοτέο 4
+Για το παραδοτέο τις τέταρτης εβδομάδας κληθήκαμε να εκτελέσουμε κάποιες από τις [ασκήσεις warm-up](https://github.com/epidrome/dokey#warmup). 
+Eπέλεξα να αλλάξω το default SHELL μου με το zsh και να εκτελέσω κάποιες εντολές όπως Neofetch, ls -a, echo $SHELL
+
+### Asciinema με τις ασκήσεις
+[![asciicast](https://asciinema.org/a/01fHF59so6GUJEwDaiMN13xCx.svg)](https://asciinema.org/a/01fHF59so6GUJEwDaiMN13xCx)
