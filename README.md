@@ -43,9 +43,7 @@
 
 **Βιβλιογραφία:** 
 
-* Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό, Κωνσταντίνος Χωριανόπουλος, ISBN: , ΕΥΔΟΞΟΣ: , κεφάλαια: 1, 2, 7.
-* [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me)
-* [User Interface Software Development](http://faculty.washington.edu/ajko/books/uist/)
+* [Κατασκευή Συστημάτων Διάδρασης](https://repository.kallipos.gr/handle/11419/10224), ΚΑΛΛΙΠΟΣ, κεφάλαια: 1, 2, 7.
 * [Software design](http://worrydream.com/MagicInk/)
 * [Augmenting human intellect](https://apps.dtic.mil/sti/pdfs/AD0289565.pdf): βιβλίο για μελέτη μπόνους
 
