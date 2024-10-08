@@ -31,6 +31,13 @@
 Εγκατάστησα τα archlinux στο laptop μου στον hdd με dual boot. Γενικά την εγκατάσταση του Archlinux βασίστηκα στο [Archwiki](https://wiki.archlinux.org/title/Main_page) για της οδηγίες και λιγο απο chatgpt οταν δεν καταλάβενα κάποιες εντόλες διοτι δεν είχα καμία εμπειρία με τα linux.
 
 ## ΔΙΑΔΙΚΑΣΙΑ
+### Base installation
 Πριν αρχίσω την εγκατάσταση, έπρεπε να κάνω ενα BOOTABLE USB, όπου στο USB θα κατέβαζα το iso του arch χρησιμοποίοντας το εργαλείο VENTOY και θα έπρεπε να κάνω disable to secure boot στο Bios, ώστε να μπορώ να κάνω boot απο το USB
 
-Με το που έκανα boot το πρώτο πραγμα που έκανα ήταν να συνδεθώ στο ιτερνέτ χρησιμοποιόντας το εργαλείο IWD όπου ερχόταν πακέτο με το ISO. Στην συνεχεία μετά απο το keyboard layout έκανα partition τον δισκό μου χρησιμοποίοντας το εργαλείο fdisk. Έκανα 2 partion εναν για το boot loader (efi,550ΜΒ) το αλλο για την διαχείρηση αρχείον που το όρισα στα 50GB (" ΣΗΜΕΙΩΣΗ: πολύ ποιό μετα έκανα και αλλο 1 partition που το έκανα για τα windows οπού να μπορούσε να διαβάζει NFTS Files). Δεν έκανα partition swap διότι δεν ήταν αναγκαίο και δεν το θεωρήσα αναγκαίο για την στιγμή. Ακολουθόντας της οδηγίες απο το installation guide κατεβάζοντας τα βασικά (/mnt base linux linux-firmware) και μπαίνοντας στο chroot του συστήματος, έπρεπε να κατεβάσω το IWD,NetworkManager,nano,alsamixer,pulseaudio,dhcpcp,intel u-code
+Με το που έκανα boot το πρώτο πραγμα που έκανα ήταν να συνδεθώ στο ιτερνέτ χρησιμοποιόντας το εργαλείο IWD όπου ερχόταν πακέτο με το ISO. Στην συνεχεία μετά απο το keyboard layout έκανα partition τον δισκό μου χρησιμοποίοντας το εργαλείο fdisk. Έκανα 2 partion εναν για το boot loader (efi,550ΜΒ) το αλλο για την διαχείρηση αρχείον που το όρισα στα 50GB (" ΣΗΜΕΙΩΣΗ: πολύ ποιό μετα έκανα και αλλο 1 partition που το έκανα για τα windows οπού να μπορούσε να διαβάζει NFTS Files χρησιμοποιόντας το disk management απο τα windows). Δεν έκανα partition swap διότι δεν ήταν αναγκαίο και δεν το θεωρήσα αναγκαίο για την στιγμή. Ακολουθόντας της οδηγίες απο το installation guide κατεβάζοντας τα βασικά (/mnt base linux linux-firmware) και μπαίνοντας στο chroot του συστήματος, έπρεπε να κατεβάσω το IWD,NetworkManager,nano,,dhcpcp,intel u-code, με το που έφτιαξα λογαριασμο κατέβασα το GRUB loader.
+
+### After base installation
+Αρχικά οταν κατέβασα το πολύ βασικά του arch είχα κατεβάσει το GNOME, για να έχω ενα desktop enviroment. Όμως μέτα έμαθα για τα window manager και κατέβασα το i3 με όλο το πακέτο, υστέρα αφου φτιάχνοντας της ρυθμίσεις στο config του i3 είχα αυτό το αποτέλεσμα :
+![i3](https://github.com/user-attachments/assets/f1a5b9d3-0da7-4e02-a445-d26ea5a8d096)
+
+Κατέβασα το alacritty ως terminal, dmenu για να μπορώ να ανοιγώ εφαρμογές χώρις την χρήση του terminal, το thunar για file manager
