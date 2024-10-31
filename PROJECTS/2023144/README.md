@@ -56,3 +56,48 @@ PS1='[\u@2023144 \W]\$ '
 Εδώ έχετε τα asciinema links:
 [Neofetch](https://asciinema.org/a/BIV0j24mZUO6ZiMf3u4ucusOm)
 [Journalctl -b](https://asciinema.org/a/4fYxZXAH2u9EMHp9tWsDV492D)
+
+# ΠΑΡΑΔΟΤΕΟ 3
+Για το τρίτο παραδοτέο ως διαχειριστής (founder) έκανα fork και deploy το σίτε του οργανισμού, υπήρχαν δυσκολίες λόγο που δεν γνώριζα το περιβάλλον και μερικές φορές βιαζόμουν και έκανα πράγματα που δεν θα έπρεπε, με αποτέλεσμα να κολλήσω.
+
+Το site του οργανισμού : https://asdpibook.netlify.app/
+
+## A1
+
+Για το A1, το περιεχόμενο που αποφάσισα να προσθέσω ήταν για το i3 window manager και για το datapoint3300 computer terminal
+
+ - ## [i3 Window manager](https://asdpibook.netlify.app/gallery/i3-window-manager/)
+ - ## [datapoint3300 computer terminal](https://asdpibook.netlify.app/gallery/datapoint3300/)
+
+## A2 
+
+Με βάση το περιεχόμενο που διάλεξα να ασχοληθώ δημιούργησα μία διαφάνεια για το i3 και ένα χρονολόγιο για τα computer terminal
+
+ - ## [Διαφάνεια](https://asdpibook.netlify.app//slides/windowmanager/)
+ - ## [Χρονολόγιο](https://asdpibook.netlify.app//timeline/computer-terminal/)
+
+## ΔΙΑΔΙΚΑΣΙΑ (pull request)
+
+Έδω έχετε τους σύνδεσμους για την πρόσθεση υλικό στο site του οργανισμού. Πρώτα το έκανα κλονοποιήση το site του οργανισμού στο δικό μου site και αφού βλέποντας πως όλα δουλέυουν, τότε πρόσθεσα το περιεχόμενο στο site του οργανισμού
+
+ - ## [Pull request 1](https://github.com/asd-xc/images/pull/1)
+ - ## [Pull request 2](https://github.com/asd-xc/_gallery/pull/1)
+
+## ΒΙΒΛΙΟΓΡΑΦΙΑ
+i3 window manager :
+ - https://i3wm.org/docs/
+ - https://github.com/i3/i3
+ - https://en.wikipedia.org/wiki/I3_(window_manager)
+
+Datapoint3300:
+ - https://www.vintagecomputer.net/ctc/3300/
+ - https://en.wikipedia.org/wiki/Datapoint_3300
+
+VT52:
+ - https://gunkies.org/wiki/VT52
+ - https://terminals-wiki.org/wiki/index.php/DEC_VT52
+ - https://en.wikipedia.org/wiki/VT52
+
+IBM 3151:
+ - https://nethackwiki.com/wiki/File:HowToFixTelnetExe.png
+ - https://terminals-wiki.org/wiki/index.php/IBM_3151
