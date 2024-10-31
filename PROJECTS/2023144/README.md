@@ -99,5 +99,5 @@ VT52:
  - https://en.wikipedia.org/wiki/VT52
 
 IBM 3151:
- - https://nethackwiki.com/wiki/File:HowToFixTelnetExe.png
  - https://terminals-wiki.org/wiki/index.php/IBM_3151
+ - https://en.wikipedia.org/wiki/IBM_3101
