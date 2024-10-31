@@ -9,7 +9,7 @@
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση 1](https://github.com/courses-ionio/hci/discussions/2004) | Ολοκληρώθηκε, στο μέλλον πιστέυω πως μπορεί να βελτιωθεί |
 | 2 | Άσκηση γραμμής εντολών (arch linux install) |[Συζήτηση 2](https://github.com/courses-ionio/hci/discussions/2007) | Ολοκληρώθηκε|
-| 3 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1+A2 | [Συζήτηση 3](https://github.com/courses-ionio/hci/discussions/2016) | Ολοκληρώθηκε, θα μπορούσα να προσθέσω περισσότερες εικόνες και να φτιάξω branches, αντί να τα κάνω κατευθείαν στο master |
 | 4 | Άσκηση γραμμής εντολών (pandoc blog) | | |
 | 5 | Κατασκευή του βιβλίου (pibook pdf) | | |
 | 6 | Συμμετοχικό περιεχόμενο B1 | | |
