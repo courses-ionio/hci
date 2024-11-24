@@ -92,15 +92,18 @@ i3 window manager :
 Datapoint3300:
  - https://www.vintagecomputer.net/ctc/3300/
  - https://en.wikipedia.org/wiki/Datapoint_3300
+ - computerterminalcorporation.datapoint3300.1969.102646159.pdf
 
 VT52:
  - https://gunkies.org/wiki/VT52
  - https://terminals-wiki.org/wiki/index.php/DEC_VT52
  - https://en.wikipedia.org/wiki/VT52
+ - https://archive.ph/20120723065716/http://vt100.net/vt_history
 
 IBM 3151:
  - https://terminals-wiki.org/wiki/index.php/IBM_3151
  - https://en.wikipedia.org/wiki/IBM_3101
+ - https://vt100.net/ibm/ibm3151_tr.pdf
 
 # ΠΑΡΑΔΟΤΕΟ 4
 
@@ -135,3 +138,15 @@ IBM 3151:
 - [Το περιεχόμενο που πρόσθεσα](https://github.com/YGNT7777/kallipos/blob/master/book/titlepage.tex)
 - [script make-latex](https://github.com/YGNT7777/kallipos/blob/master/make-latex.sh)
 - [scipt figure lua](https://github.com/YGNT7777/kallipos/blob/master/figure.lua)
+
+
+# ΠΑΡΑΔΟΤΕΟ 6
+Σε αυτό το παραδοτέο αποφάσησα να γράψω μια μελέτη περίπτωσης για το τερματικό ( με βάση το Α1 και το Α2). Στην μελέτη αναφέρω για το τι είναι το τερματικό, τι μορφή είχαν παλιά, αλλά ειδικότερα το γιατί κάποιος θα πρέπει να μάθει πως να χρησιμοποιεί το τερμάτικο.
+
+### Ο υπερσύδνεσμος για την μελέτη περίπτωσης:
+## - [τερματικό](https://asdpibook.netlify.app//case-study/terminal_interaction/)
+
+## ΠΗΓΕΣ
+- https://en.wikipedia.org/wiki/Computer_terminal
+- https://epidrome.github.io/teaching/cli/
+- https://www.quora.com/Why-are-terminals-and-command-prompts-still-used-in-operating-systems
