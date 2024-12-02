@@ -12,7 +12,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1+A2 | [Συζήτηση 3](https://github.com/courses-ionio/hci/discussions/2016) | Ολοκληρώθηκε, θα μπορούσα να προσθέσω περισσότερες εικόνες και να φτιάξω branches, αντί να τα κάνω κατευθείαν στο master |
 | 4 | Άσκηση γραμμής εντολών (pandoc blog) | [Συζήτηση 4](https://github.com/courses-ionio/hci/discussions/2019) | Ολοκληρώθηκε, θα μπορούσα να προσθέσω περισσότερα posts, φωτογραφίες |
 | 5 | Κατασκευή του βιβλίου (pibook pdf) | [Συζήτηση 5](https://github.com/courses-ionio/hci/discussions/2022) | Ολοκληρώθηκε, για κάποιο λόγο δεν μπορούσα να προσθέσω το title πριν απο τα περιεχόμενα|
-| 6 | Συμμετοχικό περιεχόμενο B1 | | |
+| 6 | Συμμετοχικό περιεχόμενο B1 | [Συζήτηση 6](https://github.com/courses-ionio/hci/discussions/2026)| Ολοκληρώθηκε, χρειάζετε λίγη βελτίωση στις λεζάντες |
 | 7 | Άσκηση γραμμής εντολών (vim IDE) | | |
 | 8 | Συμμετοχικό περιεχόμενο B2 | | |
 | 9 | Κατασκευή του βιβλίου A | | |
@@ -152,7 +152,7 @@ IBM 3151:
 - https://www.quora.com/Why-are-terminals-and-command-prompts-still-used-in-operating-systems
 
 # ΠΑΡΑΔΟΤΕΟ 7
-Για το 7ο παραδοτέο πρόσθεσα plugins στο vim, γενικά είχα είδη μάθει πως να χειρίζομαι το vim με το vimtutor απο την αρχή του εξάμηνου. Εφόσον δεν αντιμετώπυσα κάποια μεγάλη δυσκολία.
+Για το 7ο παραδοτέο πρόσθεσα plugins στο vim, γενικά είχα είδη μάθει πως να χειρίζομαι το vim με το vimtutor απο την αρχή του εξαμήνου. Εφόσον δεν αντιμετώπυσα κάποια μεγάλη δυσκολία.
 
 Τα plugins που κατέβασα και θα τα χρησιμοποιώ είναι:
 - ```vim-plug``` Διαχείριση vim plugins
@@ -163,4 +163,5 @@ IBM 3151:
 - ```vim-airline``` Status bar
 
 Πρόσθεσα και μια εντολή στο vimrc ωστε να μου κάνει highlight τα χρώματα. Δεν πρόσθεσα backround theme διότι έχω κανεί το τερματικό μου transparent και δεν θα φαινόταν καλά
-https://asciinema.org/a/ixm3pgLkZq8Mg4z6ouYxSnTRH
+- ### Link : https://asciinema.org/a/ixm3pgLkZq8Mg4z6ouYxSnTRH
+<a href="https://asciinema.org/a/ixm3pgLkZq8Mg4z6ouYxSnTRH" target="_blank"><img src="https://asciinema.org/a/ixm3pgLkZq8Mg4z6ouYxSnTRH.svg" /></a>
