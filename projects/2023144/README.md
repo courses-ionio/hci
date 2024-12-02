@@ -150,3 +150,17 @@ IBM 3151:
 - https://en.wikipedia.org/wiki/Computer_terminal
 - https://epidrome.github.io/teaching/cli/
 - https://www.quora.com/Why-are-terminals-and-command-prompts-still-used-in-operating-systems
+
+# ΠΑΡΑΔΟΤΕΟ 7
+Για το 7ο παραδοτέο πρόσθεσα plugins στο vim, γενικά είχα είδη μάθει πως να χειρίζομαι το vim με το vimtutor απο την αρχή του εξάμηνου. Εφόσον δεν αντιμετώπυσα κάποια μεγάλη δυσκολία.
+
+Τα plugins που κατέβασα και θα τα χρησιμοποιώ είναι:
+- ```vim-plug``` Διαχείριση vim plugins
+- ```coc``` Για autocompletion
+- ```vim-smooth-scroll``` Smooth scroll 
+- ```vim-fugitive``` Μου επιτρέπει να τρέχω git εντολές στο command line του vim
+- ```vim/startify``` Start menu για το vim
+- ```vim-airline``` Status bar
+
+Πρόσθεσα και μια εντολή στο vimrc ωστε να μου κάνει highlight τα χρώματα. Δεν πρόσθεσα backround theme διότι έχω κανεί το τερματικό μου transparent και δεν θα φαινόταν καλά
+https://asciinema.org/a/ixm3pgLkZq8Mg4z6ouYxSnTRH
