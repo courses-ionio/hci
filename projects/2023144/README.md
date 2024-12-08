@@ -165,3 +165,16 @@ IBM 3151:
 Πρόσθεσα και μια εντολή στο vimrc ωστε να μου κάνει highlight τα χρώματα. Δεν πρόσθεσα backround theme διότι έχω κανεί το τερματικό μου transparent και δεν θα φαινόταν καλά
 - ### Link : https://asciinema.org/a/ixm3pgLkZq8Mg4z6ouYxSnTRH
 <a href="https://asciinema.org/a/ixm3pgLkZq8Mg4z6ouYxSnTRH" target="_blank"><img src="https://asciinema.org/a/ixm3pgLkZq8Mg4z6ouYxSnTRH.svg" /></a>
+
+
+# ΠΑΡΑΔΟΤΕΟ 8
+Αποφάσισα να γράψω τη βιογραφία του δημιουργού του i3 window manager τον Michael Stapelberg. Υπήρχε μια μικρή δυσκολία που έπρεπε να ψάξω στο blog του και το πως να γράψω βιογραφικό. Στο site του οργανισμού βρίσκετε η βιογραφία του.
+
+## - [Michael Stapelberg biography](https://asdpibook.netlify.app//biography/michael-stapelberg/)
+
+Δεν έκανα pull request στο organization  διότι δεν έφτιαξα ποτέ branches και με το pull request θα buggare όλο το σύστημα. Τα πρόσθεσα χειροκίνητα.
+
+## ΠΗΓΕΣ
+ - https://michael.stapelberg.ch/
+ - https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/
+ - https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/
