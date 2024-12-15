@@ -179,6 +179,11 @@ IBM 3151:
  - https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/
  - https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/
 
+# ΠΑΡΑΔΟΤΕΟ 7 ΠΡΟΑΙΡΕΤΙΚΟ
+Έγινε με επιτυχεία η εγκατάσταση του ai-cli-lib. Απλά έπρεπε να κατεβάσω τις απαραίτητες βιβλιοθήκες για το archlinux με βάση τις οδηγίες και χρειάζετε ένα API key για το ΑΙ
+- ### Link : [ai-cli-lib demo](https://asciinema.org/a/IZxXI3dILFLwuUyQUUwt07M5A)
+<a href="https://asciinema.org/a/IZxXI3dILFLwuUyQUUwt07M5A" target="_blank"><img src="https://asciinema.org/a/IZxXI3dILFLwuUyQUUwt07M5A.svg" /></a>
+
 
 # ΠΑΡΑΔΟΤΕΟ 9 ΠΡΟΑΙΡΕΤΙΚΟ
 Κατάφερα με επιτυχία να δημιουργήσω το ai-cli-lib σε AUR πακέτο. Ο κάθε χρήστης τώρα μπορει να κατεβάσει το πακέτο με την χρήση του AUR. Ο τρόπος με τον οποίο μπορεί κάποιος να το κατέβασει είναι είτε με το package manager 'yay' ή με την εντολή ```git clone https://aur.archlinux.org/ai-cli-lib.git```
