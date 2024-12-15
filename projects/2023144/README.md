@@ -178,3 +178,21 @@ IBM 3151:
  - https://michael.stapelberg.ch/
  - https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/
  - https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/
+
+
+# ΠΑΡΑΔΟΤΕΟ 9 ΠΡΟΑΙΡΕΤΙΚΟ
+Κατάφερα με επιτυχώς να δημιουργήσω το ai-cli-lib σε aur πακέτο. Ο κάθε χρήστης τώρα μπορει να κατεβάσει το πακέτο με την χρήση του AUR. Ο τρόπος με τον οποίο μπορεί κάποιος να το κατέβασει είναι είτε με το package manager YAY η να το κάνει ```git clone https://aur.archlinux.org/ai-cli-lib.git```
+
+Στη συνέχεια με το που θα κατεβάσει αν το έχει κατεβάσει με την χρήση του package manager 'yay' συνεχίζει κανονικά στο να δημιουργίσει ai config filesn για την χρήση του ai-cli-lib αλλίως αν έκανε git clone θα πρέπει να χρησιμοποίησει την εντολή μέσα στο directory ai-cli-lib ```makepkg -si```
+
+### Ο χρήστης θα πρέπει να έχει εγκαταστήση (Για archlinux):
+  - git
+  - base-devel
+  - curl
+  - jansson
+  - readline
+#### Οπώς αναφέρεται και στις οδηγίες στο repository [ai-cli-lib](https://github.com/dspinellis/ai-cli-lib)
+
+Παρακάτω βρίστεκε ο υπερσύνδεσμος που έχω ανεβεί στο AUR:
+### - https://aur.archlinux.org/packages/ai-cli-lib
+### My username in AUR link : YGNT7777
