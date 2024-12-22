@@ -180,6 +180,25 @@ IBM 3151:
  - https://michael.stapelberg.ch/
  - https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/
  - https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/
+ - 
+# ΠΑΡΑΔΟΤΕΟ 9
+Με επιτυχία κατάφερα να φτιάξω το βιβλίο σε EPUB έκδοση μαζί με τα συμμετοχικά περιεχόμενα. Τη μελέτη περίπτωσης Β1 (Το Τερματικό) την πρόσθεσα στο κεφάλαιο 9.5 και τη βιογραφία
+Β2 (Η βιογραφία του Michael Stapelberg) τη πρόσθεσα στο κεφάλαιο 10.7. Επίσης στην epub έκδοση πρόσθεσα και cover φωτογραφία και το δημιουργήσα σε pdf έκδοση χωρίς την cover φωτογραφία.
+
+
+![photo1](https://github.com/user-attachments/assets/6a2d0a45-578f-4f11-ab91-954577ab6d46)
+
+![photo2](https://github.com/user-attachments/assets/4780dfc9-c3fa-478f-9ec1-10c41ed818df)
+
+![photo3](https://github.com/user-attachments/assets/8d8cf95f-3afc-46b3-afcb-856be1942449)
+
+![photo4](https://github.com/user-attachments/assets/ddeebe98-3be6-46fc-ac98-fd99c9ed940d)
+
+### Τα αρχεία:
+
+
+
+
 
 # ΠΑΡΑΔΟΤΕΟ 7 ΠΡΟΑΙΡΕΤΙΚΟ
 Έγινε με επιτυχεία η εγκατάσταση του ai-cli-lib. Απλά έπρεπε να κατεβάσω τις απαραίτητες βιβλιοθήκες για το archlinux με βάση τις οδηγίες και χρειάζετε ένα API key για το ΑΙ
