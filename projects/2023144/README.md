@@ -194,10 +194,10 @@ IBM 3151:
 
 ![photo4](https://github.com/user-attachments/assets/ddeebe98-3be6-46fc-ac98-fd99c9ed940d)
 
-### Τα αρχεία:
-
-
-
+### Τα αρχεία: 
+Διότι το github δεν υποστιρίζει αρχεία epub και το pdf είναι μεγαλύτερο απο το όριο που έχουν ορίσει. Το ανέβασα στο google drive
+### - https://drive.google.com/file/d/1tAIRbXJHCMA_t2jkylaj-_0Uil1LxzLO/view?usp=drive_link
+Έχω βάλει για όνομα του αρχείου 2023144_files.zip που περιέχει τα αρχεία book.epub και book.pdf
 
 
 # ΠΑΡΑΔΟΤΕΟ 7 ΠΡΟΑΙΡΕΤΙΚΟ
