@@ -15,7 +15,9 @@
 | 6 | Συμμετοχικό περιεχόμενο B1 | [Συζήτηση 6](https://github.com/courses-ionio/hci/discussions/2026)| Ολοκληρώθηκε, χρειάζετε λίγη βελτίωση στις λεζάντες |
 | 7 | Άσκηση γραμμής εντολών (vim IDE) | [Συζήτηση 7](https://github.com/courses-ionio/hci/discussions/2028) | Ολοκληρώθηκε|
 | 8 | Συμμετοχικό περιεχόμενο B2 |[Συζήτηση 8](https://github.com/courses-ionio/hci/discussions/2029) | Ολοκληρώθηκε, θα μπορούσα να προσθέσω περισσότερες πληροφορίες στο βιογραφικό|
-| 9 | Κατασκευή του βιβλίου A | | |
+| 9 | Κατασκευή του βιβλίου A |[Συζήτηση 9](https://github.com/courses-ionio/hci/discussions/2033) | Ολοκληρώθηκε|
+| Προαιρετική 7 | Τοπική εγκατάσταση της βιβλιοθήκης ai-cli-lib | [Συζήτηση 7 ΠΡΟ](https://github.com/courses-ionio/hci/discussions/2032)| Ολοκληρώθηκε |
+| Προαιρετική 9 | Δημιουργία της βιβλιοθήκης ai-cli-lib σε AUR πακέτο | [Συζήτηση 9 ΠΡΟ](https://github.com/courses-ionio/hci/discussions/2031) | μην ξεχασεις να φτιαξεις το script shmeiwsh |
 | 10 | Τελική αναφορά* | | |
 
 # ΠΑΡΑΔΟΤΕΟ 1
