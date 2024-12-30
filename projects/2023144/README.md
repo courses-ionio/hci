@@ -69,14 +69,21 @@ PS1='[\u@2023144 \W]\$ '
 Για το A1, το περιεχόμενο που αποφάσισα να προσθέσω ήταν για το i3 window manager και για το datapoint3300 computer terminal
 
  - ## [i3 Window manager](https://asdpibook.netlify.app/gallery/i3-window-manager/)
+   ![A1_1](https://github.com/user-attachments/assets/673a4c35-6f77-47b8-80e8-4658e656654f)
+
  - ## [datapoint3300 computer terminal](https://asdpibook.netlify.app/gallery/datapoint3300/)
+   ![A1_2](https://github.com/user-attachments/assets/f419ebcb-044f-4f02-a4cd-e071e21e1225)
+
 
 ## A2 
 
 Με βάση το περιεχόμενο που διάλεξα να ασχοληθώ δημιούργησα μία διαφάνεια για το i3 και ένα χρονολόγιο για τα computer terminal
 
  - ## [Διαφάνεια](https://asdpibook.netlify.app//slides/windowmanager/)
+   ![A2_1](https://github.com/user-attachments/assets/f47c6536-2777-4522-92b6-e578e4e1a006)
  - ## [Χρονολόγιο](https://asdpibook.netlify.app//timeline/computer-terminal/)
+   ![A2_2](https://github.com/user-attachments/assets/0db62c5f-7477-4dd4-9c25-a367eaad4ab9)
+
 
 ## ΔΙΑΔΙΚΑΣΙΑ (pull request)
 
@@ -115,8 +122,9 @@ IBM 3151:
 
 ## My blog site
 ### [ygnt7777blog](https://ygnt7777blog.netlify.app/)
+![A4](https://github.com/user-attachments/assets/314e6420-992b-4ffa-a31f-a28a48340e3f)
 
-Στο cat meme μπορείτε να δείτε την χρήση της φωτογραφίας
+
 
 
 # ΠΑΡΑΔΟΤΕΟ 5
@@ -149,6 +157,8 @@ IBM 3151:
 
 ### Ο υπερσύδνεσμος για την μελέτη περίπτωσης:
 ## - [τερματικό](https://asdpibook.netlify.app//case-study/terminal_interaction/)
+![b1](https://github.com/user-attachments/assets/46ee0b1b-c9aa-43c8-a39b-086e9fa794a7)
+
 
 ## ΠΗΓΕΣ
 - https://en.wikipedia.org/wiki/Computer_terminal
@@ -175,6 +185,8 @@ IBM 3151:
 Αποφάσισα να γράψω τη βιογραφία του δημιουργού του i3 window manager τον Michael Stapelberg. Υπήρχε μια μικρή δυσκολία που έπρεπε να ψάξω στο blog του και το πως να γράψω βιογραφικό. Στο site του οργανισμού βρίσκετε η βιογραφία του.
 
 ## - [Michael Stapelberg biography](https://asdpibook.netlify.app//biography/michael-stapelberg/)
+![b2](https://github.com/user-attachments/assets/ca5f8184-d47f-4bff-8137-9bff03d0baff)
+
 
 Δεν έκανα pull request στο organization  διότι δεν έφτιαξα ποτέ branches και με το pull request θα buggare όλο το σύστημα. Τα πρόσθεσα χειροκίνητα.
 
