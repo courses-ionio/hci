@@ -224,3 +224,5 @@ IBM 3151:
 Παρακάτω βρίστεκε ο υπερσύνδεσμος που έχω ανεβάσει στο AUR:
 ### - https://aur.archlinux.org/packages/ai-cli-lib
 ### My username in AUR link : YGNT7777
+### Demo link https://asciinema.org/a/g60EqBzeQavs7NO2GGhtExodG
+<a href="https://asciinema.org/a/g60EqBzeQavs7NO2GGhtExodG" target="_blank"><img src="https://asciinema.org/a/g60EqBzeQavs7NO2GGhtExodG.svg" /></a>
