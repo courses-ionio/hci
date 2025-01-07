@@ -175,10 +175,11 @@ IBM 3151:
 - ```vim-fugitive``` Μου επιτρέπει να τρέχω git εντολές στο command line του vim
 - ```vim/startify``` Start menu για το vim
 - ```vim-airline``` Status bar
+- ```sainnhe/sonokai``` Το theme που έχω βάλει στο Vim
 
-Πρόσθεσα και μια εντολή στο vimrc ωστε να μου κάνει highlight τα χρώματα. Δεν πρόσθεσα backround theme διότι έχω κανεί το τερματικό μου transparent και δεν θα φαινόταν καλά
-- ### Link : https://asciinema.org/a/ixm3pgLkZq8Mg4z6ouYxSnTRH
-<a href="https://asciinema.org/a/ixm3pgLkZq8Mg4z6ouYxSnTRH" target="_blank"><img src="https://asciinema.org/a/ixm3pgLkZq8Mg4z6ouYxSnTRH.svg" /></a>
+Πρόσθεσα και μια εντολή στο vimrc ωστε να μου κάνει highlight τα χρώματα.
+- ### Link : https://asciinema.org/a/xkYb2xWqc7fn5DzAMZ4n8uT0I
+<a href="https://asciinema.org/a/xkYb2xWqc7fn5DzAMZ4n8uT0I" target="_blank"><img src="https://asciinema.org/a/xkYb2xWqc7fn5DzAMZ4n8uT0I.svg" /></a>
 
 
 # ΠΑΡΑΔΟΤΕΟ 8
