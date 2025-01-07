@@ -12,7 +12,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1+A2 | [Συζήτηση 3](https://github.com/courses-ionio/hci/discussions/2016) | Ολοκληρώθηκε, θα μπορούσα να προσθέσω περισσότερες εικόνες και να φτιάξω branches, αντί να τα κάνω κατευθείαν στο master |
 | 4 | Άσκηση γραμμής εντολών (pandoc blog) | [Συζήτηση 4](https://github.com/courses-ionio/hci/discussions/2019) | Ολοκληρώθηκε, θα μπορούσα να προσθέσω περισσότερα posts, φωτογραφίες |
 | 5 | Κατασκευή του βιβλίου (pibook pdf) | [Συζήτηση 5](https://github.com/courses-ionio/hci/discussions/2022) | Ολοκληρώθηκε, για κάποιο λόγο δεν μπορούσα να προσθέσω το title πριν απο τα περιεχόμενα|
-| 6 | Συμμετοχικό περιεχόμενο B1 | [Συζήτηση 6](https://github.com/courses-ionio/hci/discussions/2026)| Ολοκληρώθηκε, χρειάζετε λίγη βελτίωση στις λεζάντες |
+| 6 | Συμμετοχικό περιεχόμενο B1 | [Συζήτηση 6](https://github.com/courses-ionio/hci/discussions/2026)| Ολοκληρώθηκε, όμως υπάρχει χώρος για βελτίωση |
 | 7 | Άσκηση γραμμής εντολών (vim IDE) | [Συζήτηση 7](https://github.com/courses-ionio/hci/discussions/2028) | Ολοκληρώθηκε|
 | 8 | Συμμετοχικό περιεχόμενο B2 |[Συζήτηση 8](https://github.com/courses-ionio/hci/discussions/2029) | Ολοκληρώθηκε, θα μπορούσα να προσθέσω περισσότερες πληροφορίες στο βιογραφικό|
 | 9 | Κατασκευή του βιβλίου A |[Συζήτηση 9](https://github.com/courses-ionio/hci/discussions/2033) | Ολοκληρώθηκε|
